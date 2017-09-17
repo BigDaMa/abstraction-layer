@@ -54,7 +54,7 @@ def abstract_layer(run_input):
                 list2 = re.split(r'\s{2,}', list1[i].decode('utf-8').strip())
 
                 for j in range(len(list2)):
-                    if list2[j].startswith("\x1b[0;0m\x1b[4;31m") != -1 and list2[j].endswith("\x1b[0;0m"):
+                    if list2[j].startswith("\x1b[0;0m\x1b[4;31m") == True and list2[j].endswith("\x1b[0;0m" == True):
                         values.append([i, j])
 
             keys = ["Row", "Column"]
