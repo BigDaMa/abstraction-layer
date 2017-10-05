@@ -1,10 +1,14 @@
 #this function has been introduce in the document
+"""
+Order of imported modules
+I would suggest you have a look at Python code style (just as something useful, not mandatory):
+https://www.python.org/dev/peps/pep-0008/
+"""
 import subprocess
 import csv
 import sys
 import re
 import pandas as pd
-
 
 
 
@@ -109,3 +113,28 @@ def abstract_layer(run_input):
 run_input=["Dboost","E:\\work\DFKI\\Data_set\\sampledatasets\\11.csv","--gaussian","1","--statistical","1","-F ,"]
 directory='E:\work\DFKI\Tools\Dboost\dBoost-master'
 abstract_layer(run_input)
+
+"""
+Let's make the input configuration more generic. I describe what is in my mind. Feel free to modify it.
+
+input_configuration = {
+	"dataset": "path/to/the/dataset.csv",
+	"method": "dboost", # It can be any of the other tools such as dboost, nadeef, etc.
+	"parameters": ["gaussian", "1", "statistical", "0.5", ","], # The list of parameters is based on the selected method. The supported methods and required parameters should be documented. You may also decide to define parameters with dictionary instead of list. Each one has its own downsides and upsides.
+}
+
+output_results = abstraction_layer(input_configuration)
+based on the input_configuration, the output_results could have either list of detected cells, i.e., [(i1,j1), (i2, j2),...] or list of repaird values [(i1, j1, old_value1, new_value1),...]
+
+The address of dboost and the other tools should be known to your program. you can put it as a constant value in the configuration of your program. there is no need to take it from the user. Actually, I think your should have another API function (for example installation or initialization) that automatically download and installed the underlaying tools. As a user, i install your module, call the initialization API function, then your program download and install dboost, nadeef, etc. and would know the address of them.
+
+
+
+Some usefule modules and functions:
+
+"{}, Try to print this {} line.".format("hello", 1)
+
+
+I did not write more comments for the internal codes. bacause, i think once you modify the input_configuration, you have to change the codes as well. 
+
+"""
