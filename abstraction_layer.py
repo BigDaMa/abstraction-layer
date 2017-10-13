@@ -20,16 +20,17 @@ import subprocess
 ########################################
 DATASETS_FOLDER = "datasets"
 TOOLS_FOLDER = "tools"
-if not os.path.exists(DATASETS_FOLDER):
-    os.mkdir(DATASETS_FOLDER)
-if not os.path.exists(TOOLS_FOLDER):
-    os.mkdir(TOOLS_FOLDER)
+TOOLS_LIST = ["dboost", "nadeef"]
 ########################################
 
 
 ########################################
-def install_tools(tools_list):
-    for tool in tools_list:
+def install_tools():
+    if not os.path.exists(DATASETS_FOLDER):
+        os.mkdir(DATASETS_FOLDER)
+    if not os.path.exists(TOOLS_FOLDER):
+        os.mkdir(TOOLS_FOLDER)
+    for tool in TOOLS_LIST:
         if not os.path.exists(os.path.join(TOOLS_FOLDER, tool)):
             if tool == "dboost":
                 x = subprocess.Popen(
@@ -79,7 +80,7 @@ def abstract_layer(run_input):
 
 ########################################
 if __name__ == "__main__":
-    # install_tools(["dboost", "nadeef"])
+    install_tools()
     run_input = {
         "dataset": {
             "type": "csv",
