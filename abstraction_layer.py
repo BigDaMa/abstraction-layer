@@ -34,11 +34,11 @@ def install_tools():
         if not os.path.exists(os.path.join(TOOLS_FOLDER, tool)):
             if tool == "dboost":
                 p = subprocess.Popen(["git", "clone", "https://github.com/cpitclaudel/dBoost.git"], cwd=TOOLS_FOLDER,
-                                     stdout=subprocess.PIPE, stdin=subprocess.PIPE, stderr=subprocess.STDOUT)
+                                     stdin=subprocess.PIPE, stdout=subprocess.PIPE, stderr=subprocess.STDOUT)
                 p.communicate()
             if tool == "nadeef":
                 p = subprocess.Popen(["git", "clone", "https://github.com/daqcri/NADEEF.git"], cwd=TOOLS_FOLDER,
-                                     stdout=subprocess.PIPE, stdin=subprocess.PIPE, stderr=subprocess.STDOUT)
+                                     stdin=subprocess.PIPE, stdout=subprocess.PIPE, stderr=subprocess.STDOUT)
                 p.communicate()
                 # TODO: compile and config nadeef
         print "{} is installed.".format(tool)
@@ -50,8 +50,9 @@ def abstract_layer(run_input):
     if run_input["tool"]["name"] == "dboost":
         runpath = ["./{}/dBoost/dboost/dboost-stdin.py".format(TOOLS_FOLDER), "-F", ",", run_input["dataset"]["path"]] \
                   + run_input["tool"]["param"]
-        p = subprocess.Popen(runpath, stdout=subprocess.PIPE, stderr=subprocess.STDOUT)
-        lines_list = p.communicate()[0].splitlines()
+        p = subprocess.Popen(runpath, stdin=subprocess.PIPE, stdout=subprocess.PIPE, stderr=subprocess.STDOUT)
+        raw_output = p.communicate()[0]
+        lines_list = raw_output.splitlines()[5:-1]
         results_list = []
         for i, line in enumerate(lines_list):
             cells_list = re.split(r"\s{2,}", line.decode("utf-8").strip())
