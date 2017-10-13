@@ -48,8 +48,9 @@ def install_tools(tools_list):
 ########################################
 def abstract_layer(run_input):
     if run_input["tool"]["name"] == "dboost":
-        runpath = [".{}/dBoost/dboost/dboost-stdin.py".format(TOOLS_FOLDER), "-F", ","] + \
-                  run_input["tool"]["param"] + [run_input["dataset"]["path"]]
+        runpath = ["./{}/dBoost/dboost/dboost-stdin.py".format(TOOLS_FOLDER)] + \
+                  run_input["tool"]["param"] + ["-F", ",", run_input["dataset"]["path"]]
+        runpath = " ".join(runpath)
         process = subprocess.Popen(runpath, stdout=subprocess.PIPE, shell=True)
         lines_list = process.stdout.readlines()
         results_list = []
@@ -78,11 +79,11 @@ def abstract_layer(run_input):
 
 ########################################
 if __name__ == "__main__":
-    install_tools(["dboost", "nadeef"])
+    # install_tools(["dboost", "nadeef"])
     run_input = {
         "dataset": {
             "type": "csv",
-            "path": "datasets/11.csv"
+            "path": "datasets/sample.csv"
         },
         "tool": {
             "name": "dboost",
