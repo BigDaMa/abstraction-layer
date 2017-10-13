@@ -33,15 +33,14 @@ def install_tools():
     for tool in TOOLS_LIST:
         if not os.path.exists(os.path.join(TOOLS_FOLDER, tool)):
             if tool == "dboost":
-                x = subprocess.Popen(
-                    "cd {}\ngit clone https://github.com/cpitclaudel/dBoost.git\n".format(TOOLS_FOLDER),
-                    stdout=subprocess.PIPE, stdin=subprocess.PIPE, stderr=subprocess.STDOUT, shell=True)
-                x.communicate(" ")
+                p = subprocess.Popen(["git", "clone", "https://github.com/cpitclaudel/dBoost.git"], cwd=TOOLS_FOLDER,
+                                     stdout=subprocess.PIPE, stdin=subprocess.PIPE, stderr=subprocess.STDOUT)
+                p.communicate()
             if tool == "nadeef":
-                x = subprocess.Popen(
-                    "cd {}\ngit clone https://github.com/daqcri/NADEEF.git\ncd NADEEF\nant all\n".format(TOOLS_FOLDER),
-                    stdout=subprocess.PIPE, stdin=subprocess.PIPE, stderr=subprocess.STDOUT, shell=True)
-                x.communicate(" ")
+                p = subprocess.Popen(["git", "clone", "https://github.com/daqcri/NADEEF.git"], cwd=TOOLS_FOLDER,
+                                     stdout=subprocess.PIPE, stdin=subprocess.PIPE, stderr=subprocess.STDOUT)
+                p.communicate()
+                # TODO: compile and config nadeef
         print "{} is installed.".format(tool)
 ########################################
 
@@ -49,17 +48,20 @@ def install_tools():
 ########################################
 def abstract_layer(run_input):
     if run_input["tool"]["name"] == "dboost":
-        runpath = ["./{}/dBoost/dboost/dboost-stdin.py".format(TOOLS_FOLDER)] + \
-                  run_input["tool"]["param"] + ["-F", ",", run_input["dataset"]["path"]]
-        runpath = " ".join(runpath)
-        process = subprocess.Popen(runpath, stdout=subprocess.PIPE, shell=True)
-        lines_list = process.stdout.readlines()
+        runpath = ["./{}/dBoost/dboost/dboost-stdin.py".format(TOOLS_FOLDER), "-F", ",", run_input["dataset"]["path"]] \
+                  + run_input["tool"]["param"]
+        p = subprocess.Popen(runpath, stdout=subprocess.PIPE, stderr=subprocess.STDOUT)
+        lines_list = p.communicate()[0].splitlines()
         results_list = []
         for i, line in enumerate(lines_list):
             cells_list = re.split(r"\s{2,}", line.decode("utf-8").strip())
             for j, cell in enumerate(cells_list):
-                if cell.startswith("\x1b[0;0m\x1b[4;31m") and cell.endswith("\x1b[0;0m"):
-                    results_list.append([i, j, cell[13:-6]])
+                error_flag = False
+                while cell.startswith("\x1b[0;0m\x1b[4;31m") and cell.endswith("\x1b[0;0m"):
+                    error_flag = True
+                    cell = cell[13:-6]
+                if error_flag:
+                    results_list.append([i, j, cell])
         return results_list
     if run_input["tool"]["name"] == "nadeef":
         dic = {
@@ -69,11 +71,11 @@ def abstract_layer(run_input):
                 },
             "rule": run_input["tool"]["param"]
             }
+        #TODO remove config file after runnig nadeef and also return results from the function just like the dboost
         with open("data.json", "w") as outfile:
             json.dump(dic, outfile)
         process = subprocess.Popen("./{}/NADEEF/nadeef.sh".format(TOOLS_FOLDER), stdout=subprocess.PIPE,
                                    stdin=subprocess.PIPE, stderr=subprocess.STDOUT, shell=True)
-        #TODO
         out, erro = process.communicate("load ../../data.json\ndetect\nexit\n")
 ########################################
 
