@@ -14,6 +14,7 @@ import os
 import json
 import re
 import subprocess
+import csv
 ########################################
 
 
@@ -64,7 +65,18 @@ def abstract_layer(run_input):
                 if error_flag:
                     results_list.append([i, j, cell])
         return results_list
+    ################################################
     if run_input["tool"]["name"] == "nadeef":
+        file_input=run_input["dataset"]["path"]
+
+        with open(file_input, 'r') as csvfile:
+            reader = csv.DictReader(csvfile)
+            fieldname = []
+            fieldname = reader.fieldnames
+            #print fieldname
+            dictionary_input = {x.split(' ')[0]: fieldname.index(x) for x in fieldname}
+
+
         dic = {
             "source": {
                 "type": "csv",
@@ -72,18 +84,65 @@ def abstract_layer(run_input):
                 },
             "rule": run_input["tool"]["param"]
             }
+
         #TODO remove config file after runnig nadeef and also return results from the function just like the dboost
         with open("data.json", "w") as outfile:
             json.dump(dic, outfile)
-        process = subprocess.Popen("./{}/NADEEF/nadeef.sh".format(TOOLS_FOLDER), stdout=subprocess.PIPE,
-                                   stdin=subprocess.PIPE, stderr=subprocess.STDOUT, shell=True)
-        out, erro = process.communicate("load ../../data.json\ndetect\nexit\n")
+        x = subprocess.Popen("cd tools/NADEEF\nant all\n./nadeef.sh", stdout=subprocess.PIPE, stdin=subprocess.PIPE,
+                             stderr=subprocess.STDOUT, shell=True)
+        out, erro = x.communicate("load /home/milad/Desktop/My_code/data.json\ndetect\nexit\n")
+        #print out
+        #print erro
+        print "This is the output of nadeef:"
+
+
+        nadeef_out_address=re.findall("INFO: Export to (.*csv)",out,re.IGNORECASE)[0]
+        results_list=[]
+        with open(nadeef_out_address, 'r') as csvfile:
+
+            spamreader = csv.reader(csvfile, delimiter=',')
+
+            for row in spamreader:
+                results_list.append([row[3], dictionary_input[row[4]], row[5]])
+
+            return results_list
+
+
+
+
+
+
+
+
+
+
+
+
+
 ########################################
 
 
 ########################################
 if __name__ == "__main__":
     install_tools()
+    # run_input = {
+    #     "dataset": {
+    #         "type": "csv",
+    #         "path": "/home/milad/Desktop/nadeef/dataset_sample.csv"
+    #     },
+    #     "tool":
+    #         {"name": "nadeef",
+    #          "param": [
+    #              {
+    #                  "type": "fd",
+    #                  "value": ["first_author | language"]
+    #              }
+    #          ]
+    #
+    #          }
+    #
+    # }
+    #
     run_input = {
         "dataset": {
             "type": "csv",
@@ -94,7 +153,15 @@ if __name__ == "__main__":
             "param": ["--gaussian", "1", "--statistical", "1"]
             }
     }
+
     results_list = abstract_layer(run_input)
+    #print results_list
     for x in results_list:
         print x
+
+
+
+
+
+
 ########################################
