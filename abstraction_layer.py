@@ -13,136 +13,107 @@
 import os
 import json
 import re
-import subprocess
 import csv
+import subprocess
 ########################################
 
 
 ########################################
 DATASETS_FOLDER = "datasets"
 TOOLS_FOLDER = "tools"
-TOOLS_LIST = ["dboost", "nadeef"]
+TOOLS_LIST = os.listdir(TOOLS_FOLDER)
 ########################################
 
 
 ########################################
 def install_tools():
-    if not os.path.exists(DATASETS_FOLDER):
-        os.mkdir(DATASETS_FOLDER)
-    if not os.path.exists(TOOLS_FOLDER):
-        os.mkdir(TOOLS_FOLDER)
     for tool in TOOLS_LIST:
-        if not os.path.exists(os.path.join(TOOLS_FOLDER, tool)):
-            if tool == "dboost":
-                p = subprocess.Popen(["git", "clone", "https://github.com/cpitclaudel/dBoost.git"], cwd=TOOLS_FOLDER,
-                                     stdin=subprocess.PIPE, stdout=subprocess.PIPE, stderr=subprocess.STDOUT)
-                p.communicate()
-            if tool == "nadeef":
-                p = subprocess.Popen(["git", "clone", "https://github.com/daqcri/NADEEF.git"], cwd=TOOLS_FOLDER,
-                                     stdin=subprocess.PIPE, stdout=subprocess.PIPE, stderr=subprocess.STDOUT)
-                p.communicate()
-                # TODO: compile and config nadeef
+        if tool == "NADEEF":
+            p = subprocess.Popen(["ant", "all"], cwd="{}/NADEEF".format(TOOLS_FOLDER), stdin=subprocess.PIPE,
+                                 stdout=subprocess.PIPE, stderr=subprocess.STDOUT)
+            p.communicate()
+            print "To configure NADEEF, please follow the following steps:"
+            print "1. Create a database entitled 'naadeef' in the postgres."
+            postgress_username = raw_input("2. Inter your postgres username: ")
+            postgress_password = raw_input("3. Inter your postgres password: ")
+            nadeef_configuration_file = open("{}/NADEEF/nadeef.conf".format(TOOLS_FOLDER), "r")
+            nadeef_configuration = nadeef_configuration_file.read()
+            nadeef_configuration = re.sub("(database.username = )([\w\d]+)", "\g<1>{}".format(postgress_username),
+                                          nadeef_configuration, flags=re.IGNORECASE)
+            nadeef_configuration = re.sub("(database.password = )([\w\d]+)", "\g<1>{}".format(postgress_password),
+                                          nadeef_configuration, flags=re.IGNORECASE)
+            nadeef_configuration_file.close()
+            nadeef_configuration_file = open("{}/NADEEF/nadeef.conf".format(TOOLS_FOLDER), "w")
+            nadeef_configuration_file.write(nadeef_configuration)
         print "{} is installed.".format(tool)
 ########################################
 
 
 ########################################
-def abstract_layer(run_input):
+def abstract_layer(input_config):
     if run_input["tool"]["name"] == "dboost":
-        runpath = ["./{}/dBoost/dboost/dboost-stdin.py".format(TOOLS_FOLDER), "-F", ",", run_input["dataset"]["path"]] \
-                  + run_input["tool"]["param"]
-        p = subprocess.Popen(runpath, stdin=subprocess.PIPE, stdout=subprocess.PIPE, stderr=subprocess.STDOUT)
-        raw_output = p.communicate()[0]
-        lines_list = raw_output.splitlines()[5:-1]
-        results_list = []
-        for i, line in enumerate(lines_list):
-            cells_list = re.split(r"\s{2,}", line.decode("utf-8").strip())
-            for j, cell in enumerate(cells_list):
-                error_flag = False
-                while cell.startswith("\x1b[0;0m\x1b[4;31m") and cell.endswith("\x1b[0;0m"):
-                    error_flag = True
-                    cell = cell[13:-6]
-                if error_flag:
-                    results_list.append([i, j, cell])
-        return results_list
-    ################################################
+        command = ["./{}/dBoost/dboost/dboost-stdin.py".format(TOOLS_FOLDER), "-F", ",",
+                   input_config["dataset"]["path"]] + input_config["tool"]["param"]
+        p = subprocess.Popen(command, stdin=subprocess.PIPE, stdout=subprocess.PIPE, stderr=subprocess.STDOUT)
+        p.communicate()
+        return_list = []
+        tool_results_path = "results.csv"
+        if os.path.exists(tool_results_path):
+            tool_results_file = open(tool_results_path, "r")
+            csv_reader = csv.reader(tool_results_file, delimiter=",")
+            cell_visited_flag = {}
+            for row in csv_reader:
+                i = int(row[0])
+                j = int(row[1])
+                v = row[2]
+                if (i, j) not in cell_visited_flag:
+                    cell_visited_flag[(i, j)] = 1
+                    return_list.append([i, j, v])
+            tool_results_file.close()
+            os.remove(tool_results_path)
+        return return_list
+
     if run_input["tool"]["name"] == "nadeef":
-        file_input=run_input["dataset"]["path"]
-
-        with open(file_input, 'r') as csvfile:
-            reader = csv.DictReader(csvfile)
-            fieldname = []
-            fieldname = reader.fieldnames
-            #print fieldname
-            dictionary_input = {x.split(' ')[0]: fieldname.index(x) for x in fieldname}
-
-
-        dic = {
+        dataset_file = open(run_input["dataset"]["path"], "r")
+        csv_reader = csv.DictReader(dataset_file)
+        field_names = csv_reader.fieldnames
+        column_index = {a.split(" ")[0]: field_names.index(a) for a in field_names}
+        nadeef_clean_plan = {
             "source": {
                 "type": "csv",
-                "file": [run_input["dataset"]["path"]]
+                "file": [os.path.abspath(run_input["dataset"]["path"])]
                 },
             "rule": run_input["tool"]["param"]
             }
-
-        #TODO remove config file after runnig nadeef and also return results from the function just like the dboost
-        with open("data.json", "w") as outfile:
-            json.dump(dic, outfile)
-        x = subprocess.Popen("cd tools/NADEEF\nant all\n./nadeef.sh", stdout=subprocess.PIPE, stdin=subprocess.PIPE,
-                             stderr=subprocess.STDOUT, shell=True)
-        out, erro = x.communicate("load /home/milad/Desktop/My_code/data.json\ndetect\nexit\n")
-        #print out
-        #print erro
-        print "This is the output of nadeef:"
-
-
-        nadeef_out_address=re.findall("INFO: Export to (.*csv)",out,re.IGNORECASE)[0]
-        results_list=[]
-        with open(nadeef_out_address, 'r') as csvfile:
-
-            spamreader = csv.reader(csvfile, delimiter=',')
-
-            for row in spamreader:
-                results_list.append([row[3], dictionary_input[row[4]], row[5]])
-
-            return results_list
-
-
-
-
-
-
-
-
-
-
-
-
-
+        nadeef_clean_plan_path = "clean_plan.json".format(TOOLS_FOLDER)
+        nadeef_clean_plan_file = open(nadeef_clean_plan_path, "w")
+        json.dump(nadeef_clean_plan, nadeef_clean_plan_file)
+        nadeef_clean_plan_file.close()
+        p = subprocess.Popen(["./nadeef.sh"], cwd="{}/NADEEF".format(TOOLS_FOLDER), stdout=subprocess.PIPE,
+                             stdin=subprocess.PIPE, stderr=subprocess.STDOUT)
+        process_output, process_errors = p.communicate("load ../../clean_plan.json\ndetect\nexit\n")
+        os.remove(nadeef_clean_plan_path)
+        return_list = []
+        tool_results_path = re.findall("INFO: Export to (.*csv)", process_output)[0]
+        tool_results_file = open(tool_results_path, "r")
+        csv_reader = csv.reader(tool_results_file, delimiter=",")
+        cell_visited_flag = {}
+        for row in csv_reader:
+            i = int(row[3])
+            j = column_index[row[4]]
+            v = row[5]
+            if (i, j) not in cell_visited_flag:
+                cell_visited_flag[(i, j)] = 1
+                return_list.append([i, j, v])
+        return return_list
 ########################################
 
 
 ########################################
 if __name__ == "__main__":
-    install_tools()
-    # run_input = {
-    #     "dataset": {
-    #         "type": "csv",
-    #         "path": "/home/milad/Desktop/nadeef/dataset_sample.csv"
-    #     },
-    #     "tool":
-    #         {"name": "nadeef",
-    #          "param": [
-    #              {
-    #                  "type": "fd",
-    #                  "value": ["first_author | language"]
-    #              }
-    #          ]
-    #
-    #          }
-    #
-    # }
-    #
+
+    # install_tools()
+
     run_input = {
         "dataset": {
             "type": "csv",
@@ -154,14 +125,23 @@ if __name__ == "__main__":
             }
     }
 
+    # run_input = {
+    #     "dataset": {
+    #         "type": "csv",
+    #         "path": "datasets/sample.csv"
+    #     },
+    #     "tool": {
+    #         "name": "nadeef",
+    #         "param": [
+    #              {
+    #                  "type": "fd",
+    #                  "value": ["title | brand_name"]
+    #              }
+    #         ]
+    #     }
+    # }
+
     results_list = abstract_layer(run_input)
-    #print results_list
     for x in results_list:
         print x
-
-
-
-
-
-
 ########################################
