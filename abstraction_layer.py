@@ -106,6 +106,20 @@ def abstract_layer(input_config):
                 cell_visited_flag[(i, j)] = 1
                 return_list.append([i, j, v])
         return return_list
+
+    if run_input["tool"]["name"] == "openrefine":
+        dataset_file = open(run_input["dataset"]["path"], "r")
+        dataset_reader = csv.reader(dataset_file, delimiter=",")
+        return_list = []
+        cell_visited_flag = {}
+        for i, row in enumerate(dataset_reader):
+            if i > 0:
+                for j, pattern in run_input["tool"]["param"]:
+                    if not re.findall(pattern, row[j], re.IGNORECASE):
+                        if (i, j) not in cell_visited_flag:
+                            cell_visited_flag[(i, j)] = 1
+                            return_list.append([i, j, row[j]])
+        return return_list
 ########################################
 
 
@@ -138,6 +152,17 @@ if __name__ == "__main__":
     #                  "value": ["title | brand_name"]
     #              }
     #         ]
+    #     }
+    # }
+
+    # run_input = {
+    #     "dataset": {
+    #         "type": "csv",
+    #         "path": "datasets/sample.csv"
+    #     },
+    #     "tool": {
+    #         "name": "openrefine",
+    #         "param": [(4, "^[\d]+$"), (7, "^[\w]+$")]
     #     }
     # }
 
