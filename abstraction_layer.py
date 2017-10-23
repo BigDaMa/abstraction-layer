@@ -50,10 +50,10 @@ def install_tools():
 
 
 ########################################
-def abstract_layer(input_config):
+def abstract_layer(run_input):
     if run_input["tool"]["name"] == "dboost":
         command = ["./{}/dBoost/dboost/dboost-stdin.py".format(TOOLS_FOLDER), "-F", ",",
-                   input_config["dataset"]["path"]] + input_config["tool"]["param"]
+                   run_input["dataset"]["path"]] + run_input["tool"]["param"]
         p = subprocess.Popen(command, stdin=subprocess.PIPE, stdout=subprocess.PIPE, stderr=subprocess.STDOUT)
         p.communicate()
         return_list = []
