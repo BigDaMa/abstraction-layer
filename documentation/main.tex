@@ -85,11 +85,11 @@ This dictionary has two keys that you can set the first one with the type of you
 run_input = {
 	"dataset": {
 		"type": "csv",
-		"path": "the/address/of/your/file.csv"
+		"param": ["the/address/of/your/file.csv"]
 	},
 	"tool": {
 		"name": "tool name",
-		"param": "parameters according to the tool name"
+		"param": ["list of parameters wrt. to the tool name"]
 	}
 }
 \end{lstlisting}
@@ -98,7 +98,7 @@ run_input = {
 	\item \textbf{dataset}. This part of the input configuration is responsible to describe the input dataset. it consists of two options:
 	\begin{itemize}
 		\item \textbf{type}. This option specifies the type of dataset. Currently the module only supports "csv" datasets.
-		\item \textbf{path}. This option specifies the path of dataset.
+		\item \textbf{param}. This option specifies the list of parameters that are needed for accessing the dataset. For csv datasets, this list contains only the path of dataset.
 	\end{itemize}
 	\mohammad{complete this structure...}
 \end{itemize}

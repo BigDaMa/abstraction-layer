@@ -51,9 +51,12 @@ def install_tools():
 
 ########################################
 def abstract_layer(run_input):
+    dataset_path = ""
+    if run_input["dataset"]["type"] == "csv":
+        dataset_path = os.path.abspath(run_input["dataset"]["param"][0])
+
     if run_input["tool"]["name"] == "dboost":
-        command = ["./{}/dBoost/dboost/dboost-stdin.py".format(TOOLS_FOLDER), "-F", ",",
-                   run_input["dataset"]["path"]] + run_input["tool"]["param"]
+        command = ["./{}/dBoost/dboost/dboost-stdin.py".format(TOOLS_FOLDER), "-F", ",", dataset_path] + run_input["tool"]["param"]
         p = subprocess.Popen(command, stdin=subprocess.PIPE, stdout=subprocess.PIPE, stderr=subprocess.STDOUT)
         p.communicate()
         return_list = []
@@ -74,18 +77,18 @@ def abstract_layer(run_input):
         return return_list
 
     if run_input["tool"]["name"] == "nadeef":
-        dataset_file = open(run_input["dataset"]["path"], "r")
+        dataset_file = open(dataset_path, "r")
         csv_reader = csv.DictReader(dataset_file)
         field_names = csv_reader.fieldnames
-        column_index = {a.split(" ")[0]: field_names.index(a) for a in field_names}
+        column_index = {" ".join(a.split(" ")[:-1]): field_names.index(a) for a in field_names}
         nadeef_clean_plan = {
             "source": {
                 "type": "csv",
-                "file": [os.path.abspath(run_input["dataset"]["path"])]
+                "file": [dataset_path]
                 },
             "rule": run_input["tool"]["param"]
             }
-        nadeef_clean_plan_path = "clean_plan.json".format(TOOLS_FOLDER)
+        nadeef_clean_plan_path = "clean_plan.json"
         nadeef_clean_plan_file = open(nadeef_clean_plan_path, "w")
         json.dump(nadeef_clean_plan, nadeef_clean_plan_file)
         nadeef_clean_plan_file.close()
@@ -108,7 +111,7 @@ def abstract_layer(run_input):
         return return_list
 
     if run_input["tool"]["name"] == "openrefine":
-        dataset_file = open(run_input["dataset"]["path"], "r")
+        dataset_file = open(dataset_path, "r")
         dataset_reader = csv.reader(dataset_file, delimiter=",")
         return_list = []
         cell_visited_flag = {}
@@ -131,7 +134,7 @@ if __name__ == "__main__":
     run_input = {
         "dataset": {
             "type": "csv",
-            "path": "datasets/sample.csv"
+            "param": ["datasets/sample.csv"]
         },
         "tool": {
             "name": "dboost",
@@ -142,7 +145,7 @@ if __name__ == "__main__":
     # run_input = {
     #     "dataset": {
     #         "type": "csv",
-    #         "path": "datasets/sample.csv"
+    #         "param": ["datasets/sample.csv"]
     #     },
     #     "tool": {
     #         "name": "nadeef",
@@ -158,7 +161,7 @@ if __name__ == "__main__":
     # run_input = {
     #     "dataset": {
     #         "type": "csv",
-    #         "path": "datasets/sample.csv"
+    #         "param": ["datasets/sample.csv"]
     #     },
     #     "tool": {
     #         "name": "openrefine",
