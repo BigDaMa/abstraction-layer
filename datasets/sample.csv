@@ -1,4 +1,4 @@
-title varchar(2000),url varchar(200),model varchar(200),mileage varchar(200),price varchar(200),contact_number varchar(200),vtype varchar(200),brand_name varchar(200)
+title,url,model,mileage,price,contact_number,vtype,brand_name
 TOYOTA PRADO VX V6 2007,http://www.qatarliving.com/node/20315454,2007,60001 - 80000 km,91000,97466162833,4x4/SUV,Toyota
 Mitsubishi NATIVA 2004 4WD - QAR 22^000,http://www.qatarliving.com/vehicles/4x4suv/advert/mitsubishi-nativa-2004-4wd-qar-22000,2004,,22000,97466774827,4x4/SUV,mitsubishi
 Mitsubishi NATIVA 2004 4WD - QAR 22^000,http://www.qatarliving.com/vehicles/carsedan/advert/nissan-maxima-full-automatic-2001,2001,,13000,97477238383,Car/Sedan,nissan

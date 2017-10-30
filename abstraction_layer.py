@@ -21,13 +21,15 @@ import subprocess
 ########################################
 DATASETS_FOLDER = "datasets"
 TOOLS_FOLDER = "tools"
-TOOLS_LIST = os.listdir(TOOLS_FOLDER)
 ########################################
 
 
 ########################################
 def install_tools():
-    for tool in TOOLS_LIST:
+    """
+    This method installs and configures the data cleaning tools.
+    """
+    for tool in os.listdir(TOOLS_FOLDER):
         if tool == "NADEEF":
             p = subprocess.Popen(["ant", "all"], cwd="{}/NADEEF".format(TOOLS_FOLDER), stdin=subprocess.PIPE,
                                  stdout=subprocess.PIPE, stderr=subprocess.STDOUT)
@@ -50,11 +52,50 @@ def install_tools():
 
 
 ########################################
+def read_csv_dataset(dataset_path):
+    """
+    The method reads a dataset from a csv file path.
+    """
+    dataset_file = open(dataset_path, "r")
+    dataset_reader = csv.reader(dataset_file, delimiter=",")
+    dataset_header = []
+    dataset_matrix = []
+    for i, row in enumerate(dataset_reader):
+        row = [x.strip(" ") if x != "NULL" else "" for x in row]
+        if i == 0:
+            dataset_header = row
+        else:
+            dataset_matrix.append(row)
+    return dataset_header, dataset_matrix
+
+
+def write_csv_dataset(dataset_path, dataset_header, dataset_matrix):
+    """
+    The method writes a dataset to a csv file path.
+    """
+    dataset_file = open(dataset_path, "w")
+    dataset_writer = csv.writer(dataset_file, delimiter=",")
+    dataset_writer.writerow(dataset_header)
+    for row in dataset_matrix:
+        dataset_writer.writerow(row)
+########################################
+
+
+########################################
 def abstract_layer(run_input):
+    """
+    This method runs the data cleaning job based on the input configuration.
+    """
+    # --------------------Preparing Dataset--------------------
     dataset_path = ""
     if run_input["dataset"]["type"] == "csv":
-        dataset_path = os.path.abspath(run_input["dataset"]["param"][0])
-
+        original_dataset_path = os.path.abspath(run_input["dataset"]["param"][0])
+        dataset_header, dataset_matrix = read_csv_dataset(original_dataset_path)
+        temp_dataset_path = os.path.abspath("temp.csv")
+        new_header = [a + " varchar(20000)" for a in dataset_header]
+        write_csv_dataset(temp_dataset_path, new_header, dataset_matrix)
+        dataset_path = temp_dataset_path
+    # --------------------dBoost--------------------
     if run_input["tool"]["name"] == "dboost":
         command = ["./{}/dBoost/dboost/dboost-stdin.py".format(TOOLS_FOLDER), "-F", ",", dataset_path] + run_input["tool"]["param"]
         p = subprocess.Popen(command, stdin=subprocess.PIPE, stdout=subprocess.PIPE, stderr=subprocess.STDOUT)
@@ -69,17 +110,16 @@ def abstract_layer(run_input):
                 i = int(row[0])
                 j = int(row[1])
                 v = row[2]
-                if (i, j) not in cell_visited_flag:
+                if (i, j) not in cell_visited_flag and i > 0:
                     cell_visited_flag[(i, j)] = 1
                     return_list.append([i, j, v])
             tool_results_file.close()
             os.remove(tool_results_path)
+        os.remove(dataset_path)
         return return_list
-
+    # --------------------NADEEF--------------------
     if run_input["tool"]["name"] == "nadeef":
-        dataset_file = open(dataset_path, "r")
-        csv_reader = csv.DictReader(dataset_file)
-        field_names = csv_reader.fieldnames
+        field_names, dataset_matrix = read_csv_dataset(dataset_path)
         column_index = {" ".join(a.split(" ")[:-1]): field_names.index(a) for a in field_names}
         nadeef_clean_plan = {
             "source": {
@@ -108,20 +148,20 @@ def abstract_layer(run_input):
             if (i, j) not in cell_visited_flag:
                 cell_visited_flag[(i, j)] = 1
                 return_list.append([i, j, v])
+        os.remove(dataset_path)
         return return_list
-
+    # --------------------OpenRefine--------------------
     if run_input["tool"]["name"] == "openrefine":
-        dataset_file = open(dataset_path, "r")
-        dataset_reader = csv.reader(dataset_file, delimiter=",")
+        dataset_header, dataset_matrix = read_csv_dataset(dataset_path)
         return_list = []
         cell_visited_flag = {}
-        for i, row in enumerate(dataset_reader):
-            if i > 0:
-                for j, pattern in run_input["tool"]["param"]:
-                    if not re.findall(pattern, row[j], re.IGNORECASE):
-                        if (i, j) not in cell_visited_flag:
-                            cell_visited_flag[(i, j)] = 1
-                            return_list.append([i, j, row[j]])
+        for i, row in enumerate(dataset_matrix):
+            for j, pattern in run_input["tool"]["param"]:
+                if not re.findall(pattern, row[j], re.IGNORECASE):
+                    if (i + 1, j) not in cell_visited_flag:
+                        cell_visited_flag[(i + 1, j)] = 1
+                        return_list.append([i + 1, j, row[j]])
+        os.remove(dataset_path)
         return return_list
 ########################################
 
