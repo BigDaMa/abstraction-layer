@@ -148,6 +148,7 @@ def abstract_layer(run_input):
             if (i, j) not in cell_visited_flag:
                 cell_visited_flag[(i, j)] = 1
                 return_list.append([i, j, v])
+        os.remove(tool_results_path)
         os.remove(dataset_path)
         return return_list
     # --------------------OpenRefine--------------------
