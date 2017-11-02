@@ -4,12 +4,12 @@
 \usepackage{tikz}
 \usepackage{listings}
 \usepackage{color}
+
 \newcommand{\mohammad}[1]{\textcolor{red}{Mohammad: #1}}
 
 \definecolor{dkgreen}{rgb}{0,0.6,0}
 \definecolor{gray}{rgb}{0.5,0.5,0.5}
 \definecolor{mauve}{rgb}{0.58,0,0.82}
-
 \lstset{frame=tb,
 	language=Python,
 	aboveskip=3mm,
@@ -31,8 +31,8 @@
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \title{Abstraction Layer for Data Cleaning Tools}
-\author{Milad Abbaszadeh Jahromi\inst{1}}
-\address{Technische Universit\"{a}t Berlin \email{Milad.abbaszadehjahromi@tu-berlin.de}}
+\author{Milad Abbaszadeh Jahromi\inst{1}, Mohammad Mahdavi\inst{1}, Ziawsch Abedjan\inst{1}}
+\address{Technische Universit\"{a}t Berlin \email{\{milad.abbaszadehjahromi, mahdavilahijani, abdejan\}@tu-berlin.de}}
 \begin{document} 
 \maketitle
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -40,10 +40,9 @@
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \begin{abstract} 
-	This is the abstract...
-	\mohammad{leave abstract. i will write it.}
-		
-	% \textbf{Keywords}: Keyword 1, Keyword 2, Keyword 3.
+	Various data cleaning tools have been developed so far in data cleaning community. These tools are usually pointwise softwares that focus on specific types of data quality problems. Although combining these data cleaning tools together seems a promising idea, it is a hard task due to the heterogeneity of these tools. Each of these data cleaning tools has been written in different programming languages and has its own input/output format.
+	
+	In this document, we introduce our abstraction layer that hides these underlying heterogeneities from the user's application. The abstraction layer easily installs and configures the tools and provides fixed input/output system for running different data cleaning tools.
 \end{abstract}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
@@ -53,42 +52,32 @@
 \label{section:introduction}
 
 \subsection{Motivation}
-Despite the increase amount of data which is generating every  single second[1] and the value has made out of that, the data quality is even more important in compare to several decade ago. One of the ways that helps this approach is data cleaning.Although there aren't many tools that works in this area,heterogeneity and Dispersion of each tool make the process harder.Furthermore,each tool has different installation,input and output structure that can be time consuming and be catastrophic for users and forced them to stick to each tool structure that isn't desirable for most of the experts. 
-This report represents the abstract layer which can help users to avoid from conflicting with the tools for cleaning purpose and help them for unique and constant input and output which can be really remarkable to save time for experts and let them to work with single and common input and output for all tools that covered by abstract layer.
+Data cleaning is the broad family of approaches that are aiming at improving data quality. There are different data cleaning tools that have been developed so far. Although combining these tools seems promising, heterogeneity and dispersion of these tools make it difficult to combine tools into one application. Each tool has been developed by a different people, in different programming languages. Furthermore, they usually have different installation processes and input/output systems. For a user that wants to combine these tools in a unique application, combining these heterogeneous data cleaning tools could be difficult, time consuming, and frustrating. 
 
-\mohammad{the motivation can be so much better and stronger. talk about different tools that have heterogeneity in terms of language, installation, input/output system and so on and the user difficulties.}
+In this document, we introduce our abstract layer that provides an easy-to-use framework for the user to work with different data cleaning tools. In particular, our abstraction layer provides simple APIs for installation of tools and running them on the datasets. 
+
 
 \subsection{Contributions}
-experts of cleaning, most of the time use cleaning tools and they don't like to get involved in installation and command usage which is required for running, you can simply use our abstract layer.
-In other words because of the following reasons experts should use this abstract layer:
+Our abstraction layer provides the following contributions:
 \begin{itemize}
-	\item Simple install
-	\item Easy to use
-	\item Hide installation of each tool
-	\item constant Input
-	\item constant output 
-	\item constant instructed command 
-	
+	\item Simple and guided process for installing different data cleaning tools.
+	\item Easy-to-use framework to run different data cleaning tools by fixed input/output formats.
 \end{itemize}
-With this layer data has been sent as result, the Suspicious elements come up with  constant type and format which is generated as a output for each tool.
 
-\mohammad{talk about how this module can address the so-called heterogeneities for the user's application. use bullet list just like the other papers' contributions. talk about user instead of "you".}
 
 \subsection{Architecture}
-The abstract layer located as part of user code in real world like common dictionary and it has utilized as Connector between the user's application and each tool which is consumed for cleaning purpose[figure 1] and try to hide the levels of communicating with tools.
+Figure~\ref{figure:architecture} shows the position of the abstraction layer between the user's application and data cleaning tools. The user's application communicates with the abstraction layer in fixed input/output formats, regardless of the tool that application aims at running. Internally, the abstraction layer contains several wrappers for communicating with different data cleaning tools. Therefore, the heterogeneity of tools would be hidden for the user's application.
 
-\mohammad{in this subsection talk about the big picture of the architecture and the position of the abstraction layer in the user system. I have added a proper figure. you write the texts.}
-\begin{figure}[!htb]
+\begin{figure}[!h]
 	\centering
 	\includegraphics[scale=0.3]{attachments/architecture}
-	\caption{The position of the abstraction layer in the architecture of the user's system.}
+	\caption{The position of the abstraction layer between the user's application and data cleaning tools.}
 	\label{figure:architecture}
 \end{figure}
 
-\subsection{Overview}
-The rest of this document is organized as follows. In Section~\ref{section:installation} we explain how the user can install the module. In Section 3 has introduced about input and output format and then some example are generated for better understanding.
 
-\mohammad{complete this subsection}
+\subsection{Overview}
+The rest of this document is organized as follows. In Section~\ref{section:installation}, we explain how the user can install the module. In Section~\ref{section:start_to_work}, we introduce the input/output format of the abstraction layer and provides some examples.
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 
@@ -97,122 +86,108 @@ The rest of this document is organized as follows. In Section~\ref{section:insta
 \label{section:installation}
 
 \subsection{Prerequisites}
-To install the module, you need first to install followings:
+To install the module, you need first to install the followings:
 \begin{itemize}
 	\item Linux (Ubuntu/Debian recommended)
 	\item Python 2.7
 	\item Oracle Java 1.8
 	\item Apache Ant 1.8.2+
-	\item Postgres SQL 9.2+
+	\item PostgreSQL 9.2+
 \end{itemize}
 
 \subsection{Setup}
-the designed library has two main part, first part check the installation on the tools that supported by abstract layer and if it is needed the following tools will be install automatically and store in respect place that the layer is located.
-For communicate and execute the installation the respect function is Considered:
+After cloning the project, to install and configure the underlying data cleaning tools, it is enough to call the following API function:
 \begin{lstlisting}
-install_tools()
-	
+	install_tools()
 \end{lstlisting}
-for working with second part of layer the function with the appropriate input should call that is introduced in the following section.
-   
-\mohammad{talk about how the user can use the installation function in the first place to installs and configures the tools. introduce the API function that installs and configures the tools.}
+This method installs and configures all the tools. 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \section{Start to Work}
+\label{section:start_to_work}
+
+To communicate to the abstraction layer, the user's application must call the following API function:
+\begin{lstlisting}
+	run_output = abstraction_layer(run_input)
+\end{lstlisting}
+This method takes a data cleaning job as input and returns the subsequent results as output. The formats of input/output objects are fixed. We explain these formats in the following subsections. 
 
 \subsection{Input}
-For starting with abstract layer, required to make input configuration with the rules that is introduced by detail in the following.
-Input configuration really is a dictionary that make by users and give to abstract layer as input and let functions to starts.This dictionary has two keys, the first one clarify type of the file and location of the file as path. In fact, for now the layer only support the files that generate with csv format but we will keep going to add other formats for future.
- 
-\mohammad{before introducing the template of your input configuration (look below), first start to talk generally about: (1) proper api function. (2) define the argument that it needs (input configuration, data cleaning job, or whatever you call it), then you have the following codes:}
-\begin{lstlisting}[language=Python]
-run_input = {
-	"dataset": {
-		"type": "csv",
-		"param": ["the/address/of/your/file.csv"]
-	},
-	"tool": {
-		"name": "tool name",
-		"param": ["list of parameters wrt. to the tool name"]
+To call the abstraction layer, the user needs to provide a data cleaning job as input. This data cleaning job describe the data cleaning task that the abstraction layer should do for the user's application. The general template of the data cleaning job is as follows:
+\begin{lstlisting}
+	run_input = {
+		"dataset": {
+			"type": "dataset type",
+			"param": ["list of parameters wrt. the dataset type"]
+		},
+		"tool": {
+			"name": "tool name",
+			"param": ["list of parameters wrt. the tool name"]
+		}
 	}
-}
 \end{lstlisting}
-
-\mohammad{after the general template of the input object, start to explain each key and its proper values in a nested list:}
+In practice, the data cleaning job is a JSON text that contains the following information: 
 \begin{itemize}
-	\item \textbf{dataset}. This part of the input configuration is responsible to describe the input dataset. it consists of two options:
+	\item \textbf{dataset}. This part of the input configuration is responsible to describe the input dataset. It consists of two options.
 	\begin{itemize}
-		\item \textbf{type}. This option specifies the type of dataset. Currently the module only supports "csv" datasets.
+		\item \textbf{type}. This option specifies the type of dataset. Currently, the module only supports \emph{csv} datasets.
 		\item \textbf{param}. This option specifies the list of parameters that are needed for accessing the dataset. For csv datasets, this list contains only the path of dataset.
 	\end{itemize}
-
-	\item \textbf{tool}.
-	the second part of the input configuration consist on the type of tool that user have plan to use it and parameters that each tool need for running.
+	\item \textbf{tool}. The second part of the input configuration is responsible to describe the data cleaning tool that user aims at running on the input dataset. It consists of two options.
 	\begin{itemize}
-		\item\textbf{name}.
-		In this section the user clarify name of the tool which is want to use it.Currently "Nadeef" and "Dboost" covered by abstract layer.
-	
-		\item \textbf{param}
-		This option specifies the parameters and entry of each tool regarding to the tool that has been chosen in the section before for tool's name.  
-		
+		\item\textbf{name}. This option specifies the name of the tool. Currently, the module supports \emph{dboost}~\cite{mariet2016outlier}, \emph{nadeef}~\cite{dallachiesa2013nadeef}, and \emph{openrefine}~\cite{verborgh2013using} tools.
+		\item \textbf{param}. This option specifies the list of parameters that are needed for running the selected tool.		
 	\end{itemize}
 
 \end{itemize}
 
-Example for Nadeef:
+\paragraph{Example 1:} Running dBoost.
 \begin{lstlisting}
-
 	run_input = {
-				"dataset": {
-				"type": "csv",
-				"param": ["datasets/sample.csv"]
-				},
-				"tool": {
-						"name": "nadeef",
-						"param": [
-						{
-							"type": "fd",
-							"value": ["title | brand_name"]
-						}
-								]
-				}
-			}
-	
+		"dataset": {
+			"type": "csv",
+			"param": ["datasets/sample.csv"]
+		},
+		"tool": {
+			"name": "dboost",
+			"param": ["--gaussian", "1", "--statistical", "1"]
+		}
+	}
 \end{lstlisting}
-Example for Dboost:
+
+\paragraph{Example 2:} Running NADEEF.
 \begin{lstlisting}
-
-run_input = {
-			"dataset": {
-						"type": "csv",
-						"param": ["datasets/sample.csv"]
-					   },
-					  "tool": {
-						"name": "dboost",
-						"param": ["--gaussian", "1", "--statistical", "1"]
-							  }
-					   }
+	run_input = {
+		"dataset": {
+			"type": "csv",
+			"param": ["datasets/sample.csv"]
+		},
+		"tool": {
+			"name": "nadeef",
+			"param": [{"type": "fd", "value": ["title | brand_name"]}]
+		}
+	}
 \end{lstlisting}
+
+
 \subsection{Output}
-Regardless of data type and tools that is selected by user for data cleaning job, the abstract layer return constant output.
+After calling the abstraction layer with proper input data cleaning job, it generates a list as output. This list consists of the cells in dataset, that have been marked as data errors through the data cleaning process. The general template of the output list is as the follows:
+\begin{lstlisting}
+	run_output = [(i1, j1, v1), (i2, j2, v2),...]
+\end{lstlisting}
+Each element in the output list contains three values referring to one specific cell in the dataset:
 \begin{itemize}
-	\item \textbf{Return:}
-	user will receive one list as output that suspicious elements by row,column and old value return to user after execution.
-	
-	[row, column, suspicions value]
-	 
+	\item \textbf{Row number (i)}
+	\item \textbf{Column number (j)}
+	\item \textbf{Value (v)} 
 \end{itemize}
-
-\mohammad{just like the input subsection, write in this subsection.}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\bibliographystyle{unsrt}
-\bibliography{attachments/bibliography}
-
-
+\bibliographystyle{abbrv}
+\bibliography{attachments/abbreviations,attachments/references}
 \end{document}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%

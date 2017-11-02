@@ -1,5 +1,47 @@
-This is BibTeX, Version 0.99dThe top-level auxiliary file: main.aux
-The style file: unsrt.bst
-I found no \citation commands---while reading file main.aux
-Database file #1: attachments/bibliography.bib
-(There was 1 error message)
+This is BibTeX, Version 0.99d (TeX Live 2015/Debian)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: main.aux
+The style file: abbrv.bst
+Database file #1: attachments/abbreviations.bib
+Database file #2: attachments/references.bib
+You've used 3 entries,
+            2118 wiz_defined-function locations,
+            702 strings with 10130 characters,
+and the built_in function-call counts, 1199 in all, are:
+= -- 113
+> -- 74
+< -- 2
++ -- 29
+- -- 26
+* -- 85
+:= -- 206
+add.period$ -- 10
+call.type$ -- 3
+change.case$ -- 21
+chr.to.int$ -- 0
+cite$ -- 3
+duplicate$ -- 44
+empty$ -- 79
+format.name$ -- 26
+if$ -- 248
+int.to.chr$ -- 0
+int.to.str$ -- 3
+missing$ -- 3
+newline$ -- 19
+num.names$ -- 6
+pop$ -- 27
+preamble$ -- 2
+purify$ -- 19
+quote$ -- 0
+skip$ -- 29
+stack$ -- 0
+substring$ -- 47
+swap$ -- 13
+text.length$ -- 2
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 10
+warning$ -- 0
+while$ -- 9
+width$ -- 4
+write$ -- 37

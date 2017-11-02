@@ -1,4 +1,23 @@
-\begin{thebibliography}{}
-[1] Dallachiesa, M., Ebaid, A., Eldawy, A., Elmagarmid, A., Ilyas, I. F., Ouzzani, M., & Tang, N. (2013, June). NADEEF: a commodity data cleaning system. In Proceedings of the 2013 ACM SIGMOD International Conference on Management of Data (pp. 541-552). ACM.
+\providecommand{\noopsort}[1]{}
+\begin{thebibliography}{1}
+
+\bibitem{dallachiesa2013nadeef}
+M.~Dallachiesa, A.~Ebaid, A.~Eldawy, A.~Elmagarmid, I.~F. Ilyas, M.~Ouzzani,
+  and N.~Tang.
+\newblock Nadeef: a commodity data cleaning system.
+\newblock In {\em Proceedings of the 2013 ACM SIGMOD International Conference
+  on Management of Data}, pages 541--552. ACM, 2013.
+
+\bibitem{mariet2016outlier}
+C.~Pit-Claudel, Z.~Mariet, R.~Harding, and S.~Madden.
+\newblock Outlier detection in heterogeneous datasets using automatic tuple
+  expansion.
+\newblock Technical Report MIT-CSAIL-TR-2016-002, CSAIL, MIT, 32 Vassar Street,
+  Cambridge MA 02139, February 2016.
+
+\bibitem{verborgh2013using}
+R.~Verborgh and M.~De~Wilde.
+\newblock {\em Using OpenRefine}.
+\newblock Packt Publishing Ltd, 2013.
 
 \end{thebibliography}
