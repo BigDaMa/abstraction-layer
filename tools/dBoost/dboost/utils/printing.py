@@ -51,7 +51,7 @@ def print_rows(outliers, model, hints, rules_descriptions, verbosity = 0, max_w 
         widths = tuple(max(w, min(max_w, len(str(f))))
                        for w, f in zip(widths, x))
 
-    results_file = open("results.csv", "w")
+    results_file = open("dboost_results.csv", "w")
     for linum, (x, X, discrepancies) in outliers:
         highlight = [field_id for fields_group in discrepancies
                               for field_id, _ in expand_hints(fields_group, hints)]
