@@ -22,6 +22,7 @@ public class SimplifiedKATARAEntrance {
 
 		//String rdb = "country4.csv";
 
+
 		String kb="./tools/KATARA/mykb";
 		String output_errors_file = rdb + "_katara_errors.txt";
 		
