@@ -5,6 +5,8 @@ import qa.qcri.katara.dbcommon.Table;
 import qa.qcri.katara.kbcommon.KBReader;
 import qa.qcri.katara.kbcommon.KnowledgeDatabaseConfig;
 import qa.qcri.katara.kbcommon.PatternDiscoveryException;
+import java.nio.file.Path;
+import java.nio.file.Paths;
 
 
 public class SimplifiedKATARAEntrance {
@@ -23,7 +25,15 @@ public class SimplifiedKATARAEntrance {
 		//String rdb = "country4.csv";
 
 
-		String kb="./tools/KATARA/mykb";
+		//String kb="/home/milad/Desktop/Untitled Folder/abstraction-layer/tools/KATARA/mykb";
+		Path path=Paths.get("");
+		String myKbPath[]=path.toAbsolutePath().toString().split("/");
+		String kb="";
+		for (int i=0;i<myKbPath.length-1;i++){
+			kb+=myKbPath[i]+"/";
+		}
+		kb+="abstraction-layer/tools/KATARA/mykb";
+
 		String output_errors_file = rdb + "_katara_errors.txt";
 		
 
