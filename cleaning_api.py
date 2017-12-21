@@ -34,7 +34,7 @@ def install_tools():
                                  stdout=subprocess.PIPE, stderr=subprocess.STDOUT)
             p.communicate()
             print "To configure NADEEF, please follow the following steps:"
-            print "1. Create a database entitled 'naadeef' in the postgres."
+            print "1. Create a database entitled 'nadeef' in the postgres."
             postgress_username = raw_input("2. Inter your postgres username: ")
             postgress_password = raw_input("3. Inter your postgres password: ")
             nadeef_configuration_file = open("{}/NADEEF/nadeef.conf".format(TOOLS_FOLDER), "r")
@@ -55,18 +55,20 @@ def read_csv_dataset(dataset_path, header_exists=True):
     """
     The method reads a dataset from a csv file path.
     """
-    header_flag = "infer"
-    if not header_exists:
-        header_flag = None
-    dataset_dataframe = pandas.read_csv(dataset_path, sep=",", header=header_flag, encoding=None, keep_default_na=False)
-    return dataset_dataframe.columns.get_values().tolist(), dataset_dataframe.get_values().tolist()
+    if header_exists:
+        dataset_dataframe = pandas.read_csv(dataset_path, sep=",", header="infer", encoding="utf-8", keep_default_na=False)
+        return [dataset_dataframe.columns.get_values().tolist()] + dataset_dataframe.get_values().tolist()
+    else:
+        dataset_dataframe = pandas.read_csv(dataset_path, sep=",", header=None, encoding="utf-8", keep_default_na=False)
+        return dataset_dataframe.get_values().tolist()
 
-def write_csv_dataset(dataset_path, dataset_header, dataset_matrix):
+
+def write_csv_dataset(dataset_path, dataset_table):
     """
     The method writes a dataset to a csv file path.
     """
-    dataset_dataframe = pandas.DataFrame(data=dataset_matrix, columns=dataset_header)
-    dataset_dataframe.to_csv(dataset_path, sep=",", header=True, index=False, encoding=None)
+    dataset_dataframe = pandas.DataFrame(data=dataset_table[1:], columns=dataset_table[0])
+    dataset_dataframe.to_csv(dataset_path, sep=",", header=True, index=False, encoding="utf-8")
 ########################################
 
 
@@ -75,21 +77,24 @@ def run_dboost(dataset_path, dboost_parameters):
     """
     This method runs dBoost on a dataset.
     """
-    command = ["./{}/dBoost/dboost/dboost-stdin.py".format(TOOLS_FOLDER), "-F", ",", dataset_path] + dboost_parameters
+    command = ["./{}/dBoost/dboost/dboost-stdin.py".format(TOOLS_FOLDER), "-F", ",", "--statistical", "0.5"]
+    dboost_parameters[0] = "--" + dboost_parameters[0]
+    command += dboost_parameters + [dataset_path]
     p = subprocess.Popen(command, stdin=subprocess.PIPE, stdout=subprocess.PIPE, stderr=subprocess.STDOUT)
     p.communicate()
-    tool_results_path = "dboost_results.csv"
-    _, detected_cells_list = read_csv_dataset(tool_results_path, header_exists=False)
     return_list = []
-    cell_visited_flag = {}
-    for row, column, value in detected_cells_list:
-        i = int(row)
-        j = int(column)
-        v = value
-        if (i, j) not in cell_visited_flag and i > 0:
-            cell_visited_flag[(i, j)] = 1
-            return_list.append([i, j, v])
-    os.remove(tool_results_path)
+    tool_results_path = "dboost_results.csv"
+    if os.path.exists(tool_results_path):
+        detected_cells_list = read_csv_dataset(tool_results_path, header_exists=False)
+        cell_visited_flag = {}
+        for row, column, value in detected_cells_list:
+            i = int(row)
+            j = int(column)
+            v = value
+            if (i, j) not in cell_visited_flag and i > 0:
+                cell_visited_flag[(i, j)] = 1
+                return_list.append([i, j, v])
+        os.remove(tool_results_path)
     return return_list
 
 
@@ -97,17 +102,20 @@ def run_nadeef(dataset_path, nadeef_parameters):
     """
     This method runs NADEEF on a dataset.
     """
-    dataset_header, dataset_matrix = read_csv_dataset(dataset_path)
+    dataset_table = read_csv_dataset(dataset_path)
     temp_dataset_path = os.path.abspath("nadeef_temp_dataset.csv")
-    new_header = [a + " varchar(20000)" for a in dataset_header]
-    write_csv_dataset(temp_dataset_path, new_header, dataset_matrix)
-    column_index = {a: dataset_header.index(a) for a in dataset_header}
+    new_header = [a + " varchar(20000)" for a in dataset_table[0]]
+    write_csv_dataset(temp_dataset_path, [new_header] + dataset_table[1:])
+    column_index = {a: dataset_table[0].index(a) for a in dataset_table[0]}
+    actual_nadeef_parameters = []
+    for param in nadeef_parameters:
+        actual_nadeef_parameters.append({"type": "fd", "value": [" | ".join(param)]})
     nadeef_clean_plan = {
         "source": {
             "type": "csv",
             "file": [temp_dataset_path]
         },
-        "rule": nadeef_parameters
+        "rule": actual_nadeef_parameters
     }
     nadeef_clean_plan_path = "nadeef_clean_plan.json"
     nadeef_clean_plan_file = open(nadeef_clean_plan_path, "w")
@@ -118,18 +126,19 @@ def run_nadeef(dataset_path, nadeef_parameters):
     process_output, process_errors = p.communicate("load ../../nadeef_clean_plan.json\ndetect\nexit\n")
     os.remove(nadeef_clean_plan_path)
     tool_results_path = re.findall("INFO: Export to (.*csv)", process_output)[0]
-    _, detected_cells_list = read_csv_dataset(tool_results_path, header_exists=False)
     return_list = []
-    cell_visited_flag = {}
-    for row in detected_cells_list:
-        i = int(row[3])
-        j = column_index[row[4]]
-        v = row[5]
-        if (i, j) not in cell_visited_flag:
-            cell_visited_flag[(i, j)] = 1
-            return_list.append([i, j, v])
+    if os.path.exists(tool_results_path):
+        detected_cells_list = read_csv_dataset(tool_results_path, header_exists=False)
+        cell_visited_flag = {}
+        for row in detected_cells_list:
+            i = int(row[3])
+            j = column_index[row[4]]
+            v = row[5]
+            if (i, j) not in cell_visited_flag:
+                cell_visited_flag[(i, j)] = 1
+                return_list.append([i, j, v])
+        os.remove(tool_results_path)
     os.remove(temp_dataset_path)
-    os.remove(tool_results_path)
     return return_list
 
 
@@ -137,20 +146,22 @@ def run_openrefine(dataset_path, openrefine_parameters):
     """
     This method runs OpenRefine on a dataset.
     """
-    dataset_header, dataset_matrix = read_csv_dataset(dataset_path)
-    columns_patterns_dictionary = {column: [] for column in dataset_header}
+    dataset_table = read_csv_dataset(dataset_path)
+    columns_patterns_dictionary = {dataset_table[0].index(column): [] for column in dataset_table[0]}
     for column, pattern in openrefine_parameters:
-        columns_patterns_dictionary[column].append(pattern)
+        if column in dataset_table[0]:
+            columns_patterns_dictionary[dataset_table[0].index(column)].append(pattern)
     return_list = []
     cell_visited_flag = {}
-    for i, row in enumerate(dataset_matrix):
-        for j, column in enumerate(dataset_header):
-            cell_value = row[j]
-            for pattern in columns_patterns_dictionary[column]:
-                if not re.findall(pattern, cell_value, re.IGNORECASE | re.UNICODE):
-                    if (i + 1, j) not in cell_visited_flag:
-                        cell_visited_flag[(i + 1, j)] = 1
-                        return_list.append([i + 1, j, cell_value])
+    for i, row in enumerate(dataset_table):
+        if i == 0:
+            continue
+        for j, value in enumerate(row):
+            for pattern in columns_patterns_dictionary[j]:
+                if not re.findall(pattern, value, re.IGNORECASE | re.UNICODE):
+                    if (i, j) not in cell_visited_flag:
+                        cell_visited_flag[(i, j)] = 1
+                        return_list.append([i, j, value])
     return return_list
 ########################################
 
@@ -172,32 +183,12 @@ def run_data_cleaning_job(data_cleaning_job):
     if data_cleaning_job["tool"]["name"] == "openrefine":
         return_list = run_openrefine(dataset_path, data_cleaning_job["tool"]["param"])
     return return_list
-
-
-def execute_cleaning(input_file_path, output_file_path):
-    """
-    This method runs the data cleaning tools on input datasets and saves the results into output locations.
-    """
-    input_dictionary = json.load(open(input_file_path, "r"))
-    input_folder = input_dictionary["CSV"]["dir"]
-    if input_dictionary["CSV"]["table"]:
-        input_tables = input_dictionary["CSV"]["table"].split(";")
-    else:
-        input_tables = os.listdir(input_folder)
-    output_dictionary = json.load(open(output_file_path, "r"))
-    output_folder = output_dictionary["CSV"]["dir"]
-    if not os.path.exists(output_folder):
-        os.mkdir(output_folder)
-    for table in input_tables:
-        dataset_path = os.path.join(input_folder, table)
-        results_list = run_dboost(dataset_path, ["--gaussian", "1", "--statistical", "1"])
-        result_path = os.path.join(output_folder, table)
-        write_csv_dataset(result_path, ["row", "column", "value"], results_list)
 ########################################
 
 
 ########################################
 if __name__ == "__main__":
+	pass
 
     # install_tools()
 
@@ -208,7 +199,7 @@ if __name__ == "__main__":
     #     },
     #     "tool": {
     #         "name": "dboost",
-    #         "param": ["--gaussian", "1", "--statistical", "1"]
+    #         "param": ["gaussian", "1"]
     #         }
     # }
 
@@ -219,7 +210,7 @@ if __name__ == "__main__":
     #     },
     #     "tool": {
     #         "name": "nadeef",
-    #         "param": [{"type": "fd", "value": ["title | brand_name"]}]
+    #         "param": [["title", "brand_name"]]
     #     }
     # }
 
@@ -230,15 +221,11 @@ if __name__ == "__main__":
     #     },
     #     "tool": {
     #         "name": "openrefine",
-    #         "param": [("price", "^[\d]+$"), ("brand_name", "^[\w]+$")]
+    #         "param": [["price", "^[\d]+$"], ["brand_name", "^[\w]+$"]]
     #     }
     # }
 
     # results_list = run_data_cleaning_job(run_input)
     # for x in results_list:
     #     print x
-
-    input_file_path = "sources.json"
-    output_file_path = "destination.json"
-    execute_cleaning(input_file_path, output_file_path)
 ########################################
