@@ -46,3 +46,4 @@ Sweden	countryHasCapital	Stockholm
 Turkey	countryHasCapital	Ankara
 Andorra	countryHasCapital	Andorra_la_Vella
 France	countryHasCapital	Paris
+Iran	countryHasCapital	Tehran	
