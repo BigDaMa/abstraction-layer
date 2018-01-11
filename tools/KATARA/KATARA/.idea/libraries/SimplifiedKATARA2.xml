@@ -1,7 +1,7 @@
 <component name="libraryTable">
   <library name="SimplifiedKATARA2">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/test/src/SimplifiedKATARA.jar!/" />
+      <root url="jar://$PROJECT_DIR$/test/bin/SimplifiedKATARA.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />
