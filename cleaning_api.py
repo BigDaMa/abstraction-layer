@@ -163,6 +163,19 @@ def run_openrefine(dataset_path, openrefine_parameters):
                         cell_visited_flag[(i, j)] = 1
                         return_list.append([i, j, value])
     return return_list
+
+
+def run_katara(dataset_path, katara_parameters):
+    """
+    This method runs KATARA on a dataset.
+    """
+    command = "$JAVA_HOME/bin/java -javaagent:./tools/KATARA/jar_files/idea_rt.jar=34583:./tools/KATARA/jar_files -Dfile.encoding=UTF-8 -classpath $JAVA_HOME/jre/lib/charsets.jar:$JAVA_HOME/jre/lib/ext/cldrdata.jar:$JAVA_HOME/jre/lib/ext/dnsns.jar:$JAVA_HOME/jre/lib/ext/icedtea-sound.jar:$JAVA_HOME/jre/lib/ext/jaccess.jar:$JAVA_HOME/jre/lib/ext/localedata.jar:$JAVA_HOME/jre/lib/ext/nashorn.jar:$JAVA_HOME/jre/lib/ext/sunec.jar:$JAVA_HOME/jre/lib/ext/sunjce_provider.jar:$JAVA_HOME/jre/lib/ext/sunpkcs11.jar:$JAVA_HOME/jre/lib/ext/zipfs.jar:$JAVA_HOME/jre/lib/jce.jar:$JAVA_HOME/jre/lib/jsse.jar:$JAVA_HOME/jre/lib/management-agent.jar:$JAVA_HOME/jre/lib/resources.jar:$JAVA_HOME/jre/lib/rt.jar:./tools/KATARA/out/test/test:./tools/KATARA/KATARA/test/src/SimplifiedKATARA.jar:./tools/KATARA/KATARA/test/bin/SimplifiedKATARA.jar:./tools/KATARA/jar_files/idea_rt.jar:./tools/KATARA/jar_files/SimplifiedKATARA.jar:./tools/KATARA/KATARA/out/test/test/SimplifiedKATARA.jar simplied.katara.SimplifiedKATARAEntrance"
+    print command
+    p = subprocess.Popen(command, stdout=subprocess.PIPE, stdin=subprocess.PIPE, stderr=subprocess.STDOUT, shell=True)
+    knowledge_base_path = os.path.abspath(katara_parameters[0])
+    print dataset_path + "\n" + knowledge_base_path + "\n"
+    process_output, process_errors = p.communicate(dataset_path + "\n" + knowledge_base_path + "\n")
+    print process_output
 ########################################
 
 
@@ -182,6 +195,8 @@ def run_data_cleaning_job(data_cleaning_job):
         return_list = run_nadeef(dataset_path, data_cleaning_job["tool"]["param"])
     if data_cleaning_job["tool"]["name"] == "openrefine":
         return_list = run_openrefine(dataset_path, data_cleaning_job["tool"]["param"])
+    if data_cleaning_job["tool"]["name"] == "katara":
+        return_list = run_katara(dataset_path, data_cleaning_job["tool"]["param"])
     return return_list
 ########################################
 
@@ -225,6 +240,17 @@ if __name__ == "__main__":
     #     }
     # }
 
+    # run_input = {
+    #     "dataset": {
+    #         "type": "csv",
+    #         "param": ["datasets/country4.csv"]
+    #     },
+    #     "tool": {
+    #         "name": "katara",
+    #         "param": ["{}/KATARA/dominSpecific".format(TOOLS_FOLDER)]
+    #     }
+    # }
+    #
     # results_list = run_data_cleaning_job(run_input)
     # for x in results_list:
     #     print x
