@@ -34,7 +34,7 @@ public class SimplifiedKATARAEntrance {
 		}
 		kb+="abstraction-layer/tools/KATARA/mykb";
 
-		String output_errors_file = rdb + "_katara_errors.txt";
+		String output_errors_file = rdb + "_katara_errors_new.txt";
 
 
 		//String domainSpecificKB = "/home/milad/Desktop/abstraction-layer/tools/KATARA/dominSpecific";
