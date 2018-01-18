@@ -169,16 +169,13 @@ def run_katara(dataset_path, katara_parameters):
     """
     This method runs KATARA on a dataset.
     """
+    command = ["java", "-classpath",
+               "{0}/KATARA/out/test/test:{0}/KATARA/KATARA/out/test/test/SimplifiedKATARA.jar".format(TOOLS_FOLDER),
+               "simplied.katara.SimplifiedKATARAEntrance"]
+    p = subprocess.Popen(command, stdout=subprocess.PIPE, stdin=subprocess.PIPE, stderr=subprocess.STDOUT)
     knowledge_base_path = os.path.abspath(katara_parameters[0])
-    command = ["/usr/lib/jvm/java-8-oracle/bin/java", "-classpath", "./tools/KATARA/out/test/test:./tools/KATARA/KATARA/out/test/test/SimplifiedKATARA.jar", "simplied.katara.SimplifiedKATARAEntrance"]
-    p = subprocess.Popen(command, stdout=subprocess.PIPE, stdin=subprocess.PIPE, stderr=subprocess.STDOUT, shell=False)
-
-    process_output, process_errors = p.communicate("datasets/country6.csv\ntools/KATARA/dominSpecific\n")
+    process_output, process_errors = p.communicate(dataset_path + "\n" + knowledge_base_path + "\n")
     print process_output
-    # print process_output
-    # process_output, process_errors = p.communicate(dataset_path + "\n" + knowledge_base_path + "\n")
-    # os.system(command)
-    # print process_output
     return []
 ########################################
 
