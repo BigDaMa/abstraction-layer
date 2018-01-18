@@ -37,6 +37,7 @@ public class SimplifiedKATARAEntrance {
 		String output_errors_file = rdb + "_katara_errors_new.txt";
 
 
+
 		//String domainSpecificKB = "/home/milad/Desktop/abstraction-layer/tools/KATARA/dominSpecific";
 
 		//Scanner scanner1 = new Scanner(System.in);
