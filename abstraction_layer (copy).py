@@ -182,7 +182,7 @@ def run_katara(dataset_path, kb_path):
     # p = subprocess.Popen(command, stdin=subprocess.PIPE, stdout=subprocess.STDOUT, stderr=subprocess.STDOUT,cwd="{}/KATARA".format(TOOLS_FOLDER),shell=True)
 
     #process_output, process_errors=p.communicate(dataset_path+"\n"+kb_path+"\n")
-    process_output, process_errors = p.communicate("/home/milad/Desktop/abstraction-layer/datasets/country4.csv"+"\n" + "/home/milad/Desktop/abstraction-layer/tools/KATARA/dominSpecific" + "\n")
+    process_output, process_errors = p.communicate("/home/milad/Desktop/abstraction-layer/datasets/country6.csv"+"\n" + "/home/milad/Desktop/abstraction-layer/tools/KATARA/dominSpecific" + "\n")
 
     print "hhhhhhhhhhhhhhhhhhh"
     print "error"+str(process_errors)
@@ -237,7 +237,7 @@ if __name__ == "__main__":
     run_input = {
         "dataset": {
             "type": "csv",
-            "param": ["./datasets/country4.csv"]
+            "param": ["./datasets/country6.csv"]
         },
         "tool": {
             "name": "katara",

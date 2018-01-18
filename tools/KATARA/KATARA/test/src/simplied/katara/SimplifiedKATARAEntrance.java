@@ -39,8 +39,8 @@ public class SimplifiedKATARAEntrance {
 
 		//String domainSpecificKB = "/home/milad/Desktop/abstraction-layer/tools/KATARA/dominSpecific";
 
-		Scanner scanner1 = new Scanner(System.in);
-		String domainSpecificKB = scanner1.next();
+		//Scanner scanner1 = new Scanner(System.in);
+		String domainSpecificKB = scanner.next();
 		//System.out.println(domainSpecificKB);
 
 		//run KATARA
