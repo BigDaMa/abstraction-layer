@@ -174,6 +174,7 @@ def run_katara(dataset_path, katara_parameters):
     p = subprocess.Popen(command, stdout=subprocess.PIPE, stdin=subprocess.PIPE, stderr=subprocess.STDOUT, shell=False)
 
     process_output, process_errors = p.communicate("datasets/country6.csv\ntools/KATARA/dominSpecific\n")
+    print process_output
     # print process_output
     # process_output, process_errors = p.communicate(dataset_path + "\n" + knowledge_base_path + "\n")
     # os.system(command)
