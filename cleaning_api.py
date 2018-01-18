@@ -35,8 +35,8 @@ def install_tools():
             p.communicate()
             print "To configure NADEEF, please follow the following steps:"
             print "1. Create a database entitled 'nadeef' in the postgres."
-            postgress_username = raw_input("2. Inter your postgres username: ")
-            postgress_password = raw_input("3. Inter your postgres password: ")
+            postgress_username = raw_input("2. Enter your postgres username: ")
+            postgress_password = raw_input("3. Enter your postgres password: ")
             nadeef_configuration_file = open("{}/NADEEF/nadeef.conf".format(TOOLS_FOLDER), "r")
             nadeef_configuration = nadeef_configuration_file.read()
             nadeef_configuration = re.sub("(database.username = )([\w\d]+)", "\g<1>{}".format(postgress_username),
@@ -169,13 +169,16 @@ def run_katara(dataset_path, katara_parameters):
     """
     This method runs KATARA on a dataset.
     """
-    command = "$JAVA_HOME/bin/java -javaagent:./tools/KATARA/jar_files/idea_rt.jar=34583:./tools/KATARA/jar_files -Dfile.encoding=UTF-8 -classpath $JAVA_HOME/jre/lib/charsets.jar:$JAVA_HOME/jre/lib/ext/cldrdata.jar:$JAVA_HOME/jre/lib/ext/dnsns.jar:$JAVA_HOME/jre/lib/ext/icedtea-sound.jar:$JAVA_HOME/jre/lib/ext/jaccess.jar:$JAVA_HOME/jre/lib/ext/localedata.jar:$JAVA_HOME/jre/lib/ext/nashorn.jar:$JAVA_HOME/jre/lib/ext/sunec.jar:$JAVA_HOME/jre/lib/ext/sunjce_provider.jar:$JAVA_HOME/jre/lib/ext/sunpkcs11.jar:$JAVA_HOME/jre/lib/ext/zipfs.jar:$JAVA_HOME/jre/lib/jce.jar:$JAVA_HOME/jre/lib/jsse.jar:$JAVA_HOME/jre/lib/management-agent.jar:$JAVA_HOME/jre/lib/resources.jar:$JAVA_HOME/jre/lib/rt.jar:./tools/KATARA/out/test/test:./tools/KATARA/KATARA/test/src/SimplifiedKATARA.jar:./tools/KATARA/KATARA/test/bin/SimplifiedKATARA.jar:./tools/KATARA/jar_files/idea_rt.jar:./tools/KATARA/jar_files/SimplifiedKATARA.jar:./tools/KATARA/KATARA/out/test/test/SimplifiedKATARA.jar simplied.katara.SimplifiedKATARAEntrance"
-    print command
-    p = subprocess.Popen(command, stdout=subprocess.PIPE, stdin=subprocess.PIPE, stderr=subprocess.STDOUT, shell=True)
     knowledge_base_path = os.path.abspath(katara_parameters[0])
-    print dataset_path + "\n" + knowledge_base_path + "\n"
-    process_output, process_errors = p.communicate(dataset_path + "\n" + knowledge_base_path + "\n")
-    print process_output
+    command = ["/usr/lib/jvm/java-8-oracle/bin/java", "-classpath", "./tools/KATARA/out/test/test:./tools/KATARA/KATARA/out/test/test/SimplifiedKATARA.jar", "simplied.katara.SimplifiedKATARAEntrance"]
+    p = subprocess.Popen(command, stdout=subprocess.PIPE, stdin=subprocess.PIPE, stderr=subprocess.STDOUT, shell=False)
+
+    process_output, process_errors = p.communicate("datasets/country6.csv\ntools/KATARA/dominSpecific\n")
+    # print process_output
+    # process_output, process_errors = p.communicate(dataset_path + "\n" + knowledge_base_path + "\n")
+    # os.system(command)
+    # print process_output
+    return []
 ########################################
 
 
@@ -240,18 +243,18 @@ if __name__ == "__main__":
     #     }
     # }
 
-    # run_input = {
-    #     "dataset": {
-    #         "type": "csv",
-    #         "param": ["datasets/country4.csv"]
-    #     },
-    #     "tool": {
-    #         "name": "katara",
-    #         "param": ["{}/KATARA/dominSpecific".format(TOOLS_FOLDER)]
-    #     }
-    # }
-    #
-    # results_list = run_data_cleaning_job(run_input)
+    run_input = {
+        "dataset": {
+            "type": "csv",
+            "param": ["datasets/country6.csv"]
+        },
+        "tool": {
+            "name": "katara",
+            "param": ["tools/KATARA/dominSpecific"]
+        }
+    }
+
+    results_list = run_data_cleaning_job(run_input)
     # for x in results_list:
     #     print x
 ########################################

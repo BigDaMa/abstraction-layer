@@ -12,8 +12,8 @@ import java.nio.file.Paths;
 public class SimplifiedKATARAEntrance {
 
 	public static void main(String[] args) throws Exception {
-		
-		
+
+
 		//setup
 
 		//String rdb = "/home/milad/Desktop/abstraction-layer/tools/KATARA/country4.csv";
@@ -35,7 +35,7 @@ public class SimplifiedKATARAEntrance {
 		kb+="abstraction-layer/tools/KATARA/mykb";
 
 		String output_errors_file = rdb + "_katara_errors.txt";
-		
+
 
 		//String domainSpecificKB = "/home/milad/Desktop/abstraction-layer/tools/KATARA/dominSpecific";
 
@@ -47,18 +47,18 @@ public class SimplifiedKATARAEntrance {
 		KnowledgeDatabaseConfig.setDataDirectoryBase(kb);
 		KnowledgeDatabaseConfig.KBStatsDirectoryBase = kb + "Stats";
 		KnowledgeDatabaseConfig.frequentPercentage = 0.5;
-		
+
 		//Let's only deal with the first 1000 rows
 		Table table = new Table(rdb,Integer.MAX_VALUE);
-		
+
 		KBReader reader = new KBReader();
 		SimplifiedPatternDiscovery spd = new SimplifiedPatternDiscovery(table,reader,domainSpecificKB);
 		spd.errorDetection(false);
 		spd.print_errors(output_errors_file);
 		reader.close();
-		
+
 	}
-	
-	
+
+
 
 }

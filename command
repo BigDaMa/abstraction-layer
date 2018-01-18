@@ -10,3 +10,12 @@ $JAVA_HOME/bin/java -javaagent:./tools/KATARA/jar_files/idea_rt.jar=34583:./tool
 
 
 
+
+
+datasets/country6.csv
+tools/KATARA/dominSpecific
+
+./tools/KATARA/jar_files/SimplifiedKATARA.jar:
+./tools/KATARA/KATARA/out/test/test/SimplifiedKATARA.jar
+
+$JAVA_HOME/bin/java -classpath ./tools/KATARA/out/test/test:./tools/KATARA/KATARA/out/test/test/SimplifiedKATARA.jar simplied.katara.SimplifiedKATARAEntrance
