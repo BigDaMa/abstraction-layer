@@ -324,15 +324,15 @@ public class SimplifiedPatternDiscovery {
 			for(Tuple t: col2Errors.get(col)){
 				if(!col.contains(",")){
 					int col1 = Integer.valueOf(col);
-					out.println( (t.getTid() +1 ) + "," + (col1 +1));
+					out.println( (t.getTid() +1 ) + "," + (col1));//+1
 					//out.println("The following cell is wrong: Cell[" + t.getTid() + "]["+col+"]=" + t.getCell(Integer.valueOf(col)).getValue());
 				}else{
 					int col1 = Integer.valueOf(col.split(",")[0]);
 					int col2 = Integer.valueOf(col.split(",")[1]);
 					
 					
-					out.println( (t.getTid() +1) + "," + (col1+1));
-					out.println( (t.getTid()+1) + "," + (col2+1));
+					out.println( (t.getTid() +1) + "," + (col1));//+1
+					out.println( (t.getTid()+1) + "," + (col2));//+1
 					//out.println("There is at least one Error in the following two cells: Cell[" + t.getTid() + "]["+col1+"]=" + t.getCell(col1).getValue()
 					//		+ "\t Cell[" + t.getTid() + "]["+col2+"]=" + t.getCell(col2).getValue());
 
