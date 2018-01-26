@@ -263,7 +263,7 @@ if __name__ == "__main__":
     #         "param": ["tools/KATARA/dominSpecific"]
     #     }
     # }
-    #
+
     # results_list = run_data_cleaning_job(run_input)
     # for x in results_list:
     #     print x
