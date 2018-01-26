@@ -172,11 +172,23 @@ def run_katara(dataset_path, katara_parameters):
     command = ["java", "-classpath",
                "{0}/KATARA/out/test/test:{0}/KATARA/KATARA/out/test/test/SimplifiedKATARA.jar".format(TOOLS_FOLDER),
                "simplied.katara.SimplifiedKATARAEntrance"]
-    p = subprocess.Popen(command, stdout=subprocess.PIPE, stdin=subprocess.PIPE, stderr=subprocess.STDOUT)
     knowledge_base_path = os.path.abspath(katara_parameters[0])
-    process_output, process_errors = p.communicate(dataset_path + "\n" + knowledge_base_path + "\n")
-    print process_output
-    return []
+    p = subprocess.Popen(command, stdout=subprocess.PIPE, stdin=subprocess.PIPE, stderr=subprocess.STDOUT)
+    p.communicate(dataset_path + "\n" + knowledge_base_path + "\n")
+    return_list = []
+    tool_results_path = "katara_output.csv"
+    if os.path.exists(tool_results_path):
+        detected_cells_list = read_csv_dataset(tool_results_path, header_exists=False)
+        cell_visited_flag = {}
+        for row, column in detected_cells_list:
+            i = int(row)
+            j = int(column)
+            v = None
+            if (i, j) not in cell_visited_flag and i > 0:
+                cell_visited_flag[(i, j)] = 1
+                return_list.append([i, j, v])
+        os.remove(tool_results_path)
+    return return_list
 ########################################
 
 
@@ -241,18 +253,18 @@ if __name__ == "__main__":
     #     }
     # }
 
-    run_input = {
-        "dataset": {
-            "type": "csv",
-            "param": ["datasets/country6.csv"]
-        },
-        "tool": {
-            "name": "katara",
-            "param": ["tools/KATARA/dominSpecific"]
-        }
-    }
-
-    results_list = run_data_cleaning_job(run_input)
+    # run_input = {
+    #     "dataset": {
+    #         "type": "csv",
+    #         "param": ["datasets/country6.csv"]
+    #     },
+    #     "tool": {
+    #         "name": "katara",
+    #         "param": ["tools/KATARA/dominSpecific"]
+    #     }
+    # }
+    #
+    # results_list = run_data_cleaning_job(run_input)
     # for x in results_list:
     #     print x
 ########################################
