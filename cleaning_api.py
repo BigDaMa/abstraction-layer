@@ -188,6 +188,7 @@ def run_katara(dataset_path, katara_parameters):
                 cell_visited_flag[(i, j)] = 1
                 return_list.append([i, j, v])
         os.remove(tool_results_path)
+        os.remove("crowdclient-runtime.log")
     return return_list
 ########################################
 
