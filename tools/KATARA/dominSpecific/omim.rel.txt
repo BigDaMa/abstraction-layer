@@ -1,0 +1,2697 @@
+Autism	omim	209850
+Albinism	omim	203100
+Bipolar disorder	omim	125480
+Creutzfeldt–Jakob disease	omim	123400
+Chymotrypsin	omim	118890
+Chymotrypsin  C caldecrin   1	omim	601405
+Cerebral arteriovenous malformation	omim	108010
+Dyslexia	omim	127700
+Down syndrome	omim	190685
+Major depressive disorder	omim	608516
+DNA ligase	omim	126391
+DNA ligase  III, DNA, ATP-dependent   1	omim	600940
+DNA ligase  IV, DNA, ATP-dependent   1	omim	601837
+Essential tremor	omim	190300
+Haemophilia	omim	306700
+HIV	omim	609423
+Inclusion body myositis	omim	147421
+Lafora disease	omim	254780
+Lactase	omim	603202
+Myasthenia gravis	omim	254200
+Malaria	omim	248310
+Monoamine oxidase	omim	309850
+Monoamine oxidase  B   1	omim	309860
+Migraine	omim	157300
+Osteoporosis	omim	166710
+Phenylketonuria	omim	261600
+Psychosis	omim	603342
+Autosomal dominant polycystic kidney	omim	601313
+Idiopathic intracranial hypertension	omim	243200
+Rheumatoid arthritis	omim	180300
+Systemic scleroderma	omim	181750
+Schizophrenia	omim	181500
+Superoxide dismutase	omim	147450
+Superoxide dismutase  SOD2, mitochondrial   1	omim	147460
+Superoxide dismutase  SOD3, extracellular   1	omim	185490
+Scurvy	omim	240400
+Stuttering	omim	184450
+Stevens–Johnson syndrome	omim	608579
+Syringomyelia	omim	272480
+Trypsin	omim	276000
+Trypsin  protease, serine, 2 trypsin 2   1	omim	601564
+Trypsin  protease, serine, 3 mesotrypsin   1	omim	613578
+Tuberculosis	omim	607948
+Giant cell arteritis	omim	187360
+Von Hippel–Lindau disease	omim	193300
+Varicose veins	omim	192200
+5-alpha-reductase deficiency	omim	264600
+Asperger syndrome	omim	608638
+Chitinase	omim	606080
+Chitinase  1 chitotriosidase   1	omim	600031
+Fatal familial insomnia	omim	600072
+Leprosy	omim	246300
+Diabetes insipidus	omim	304800
+Asthma	omim	600807
+Marfan syndrome	omim	154700
+Huntington's disease	omim	143100
+Cystic fibrosis	omim	219700
+Multiple sclerosis	omim	126200
+Cerebral palsy	omim	603513
+Graves' disease	omim	275000
+Androgen insensitivity syndrome	omim	312300
+Adrenoleukodystrophy	omim	300100
+Fragile X syndrome	omim	300624
+Endometriosis	omim	131200
+Cervical cancer	omim	603956
+Polycystic ovary syndrome	omim	184700
+Metabolic syndrome	omim	605552
+Prader–Willi syndrome	omim	176270
+Gout	omim	138900
+Ménière's disease	omim	156000
+Acrochordon	omim	109400
+Obesity	omim	601665
+Canavan disease	omim	271900
+Joubert syndrome	omim	213300
+Carpal tunnel syndrome	omim	115430
+Pelizaeus–Merzbacher disease	omim	312080
+Rett syndrome	omim	312750
+Tay–Sachs disease	omim	272800
+Tourette syndrome	omim	137580
+Achondroplasia	omim	100800
+Lactose intolerance	omim	223100
+Eczema	omim	603165
+Adrenocorticotropic hormone	omim	176830
+Wilson's disease	omim	277900
+Sjögren's syndrome	omim	270150
+Motion sickness	omim	158280
+Crohn's disease	omim	266600
+Ulcerative colitis	omim	191390
+Coeliac disease	omim	212750
+Pancreatitis	omim	167800
+Attention deficit hyperactivity disorder	omim	143465
+Sudden infant death syndrome	omim	272120
+Vitiligo	omim	193200
+Chymosin  pseudogene H.sapiens   1	omim	118943
+Beta-galactosidase	omim	230500
+HFE hereditary haemochromatosis	omim	235200
+Abetalipoproteinemia	omim	200100
+Breast cancer	omim	114480
+Non-Hodgkin lymphoma	omim	605027
+Hepatitis C	omim	609532
+Hypertension	omim	145500
+Sly syndrome	omim	253220
+Alpers' disease	omim	203700
+Prostate cancer	omim	176807
+Prune belly syndrome	omim	100100
+Alcohol dehydrogenase	omim	103700
+Alcohol dehydrogenase  1B,β polypeptide   1	omim	103720
+Alcohol dehydrogenase  1C,γ polypeptide   1	omim	103730
+Alcohol dehydrogenase  4 class II , π polypeptide   1	omim	103740
+Alcohol dehydrogenase  5 class III , χ polypeptide   1	omim	103710
+Alcohol dehydrogenase  6 class V   1	omim	103735
+Alcohol dehydrogenase  7 class IV , μ or σ polypept  1	omim	600086
+Autoimmunity	omim	109100
+Cenani Lenz syndactylism	omim	212780
+Say-Meyer syndrome	omim	314320
+Xanthine oxidase	omim	607633
+Iodothyronine deiodinase	omim	147892
+Iodothyronine deiodinase  Type II iodothyronine deiodinase   1	omim	601413
+Iodothyronine deiodinase  Type III iodothyronine deiodinase   1	omim	601038
+Psoriasis	omim	177900
+Ornithine decarboxylase	omim	165640
+Mastocytosis	omim	154800
+Peyronie's disease	omim	171000
+Alkaptonuria	omim	203500
+Hexokinase	omim	142600
+Hexokinase  2   1	omim	601125
+Hexokinase  3 white cell   1	omim	142570
+Diabetes mellitus type 2	omim	125853
+Brugada syndrome	omim	601144
+Myoadenylate deaminase deficiency	omim	102770
+Glycogen storage disease type V	omim	232600
+Acheiropodia	omim	200500
+Pepsin	omim	169710
+Pepsin  ogen 4, group I pepsinogen A   1	omim	169720
+Pepsin  ogen 5, group I pepsinogen A   1	omim	169730
+Pepsin  progastricsin pepsinogen C   1	omim	169740
+Alopecia areata	omim	104000
+Growth hormone	omim	139250
+Growth hormone  2   1	omim	139240
+Thyrotropin-releasing hormone	omim	275120
+Achalasia	omim	200400
+Adducted thumb syndrome	omim	201550
+Congenital disorder of glycosylation	omim	212065
+Polydactyly	omim	603596
+Bladder cancer	omim	109800
+Langer-Giedion syndrome	omim	150230
+Aplastic anemia	omim	609135
+Gastroesophageal reflux disease	omim	109350
+Barrett's esophagus	omim	109350
+Hiatus hernia	omim	142400
+Haemophilia A	omim	306700
+Haemophilia B	omim	306900
+Progeria	omim	176670
+Anotia	omim	600674
+Colorectal cancer	omim	114500
+Mydriasis	omim	159420
+Spina bifida	omim	182940
+Arnold–Chiari malformation	omim	207950
+Williams syndrome	omim	194050
+Dementia with Lewy bodies	omim	127750
+Barth syndrome	omim	302060
+Holoprosencephaly	omim	236100
+Megalencephaly	omim	155350
+Porencephaly	omim	175780
+Microcephaly	omim	251200
+Schizencephaly	omim	269160
+Macrocephaly	omim	248000
+Anencephaly	omim	206500
+Möbius syndrome	omim	157900
+TAR syndrome	omim	274000
+Antiphospholipid syndrome	omim	107320
+Fibrinogen	omim	134820
+Fibrinogen  beta chain   1	omim	134830
+Fibrinogen  gamma chain   1	omim	134850
+Restless legs syndrome	omim	102300
+Tetralogy of Fallot	omim	187500
+Schizoaffective disorder	omim	181500
+Esophageal cancer	omim	133239
+CD32	omim	146790
+CD32  Fc fragment of IgG, low affinity IIb, receptor CD3  1	omim	604590
+Otosclerosis	omim	166800
+Luteinizing hormone	omim	152780
+Proinsulin	omim	176730
+Alanine transaminase	omim	138200
+Donohue syndrome	omim	246200
+Keratoconus	omim	148300
+Achromatopsia	omim	216900
+Stomach cancer	omim	137215
+Septo-optic dysplasia	omim	182230
+Orexin	omim	602358
+Pheochromocytoma	omim	171300
+Testicular torsion	omim	187400
+Pneumothorax	omim	173600
+Sarcoidosis	omim	181000
+Gallstone	omim	600803
+Multiple myeloma	omim	254500
+Legg–Calvé–Perthes syndrome	omim	150600
+Carcinoma	omim	8010
+Testicular cancer	omim	273300
+Mesothelioma	omim	156240
+Caroli disease	omim	263200
+Osteosarcoma	omim	259500
+Alpha 1-antitrypsin deficiency	omim	107400
+Wernicke-Korsakoff syndrome	omim	277730
+Obesity hypoventilation syndrome	omim	257500
+Von Willebrand disease	omim	193400
+Hirschsprung's disease	omim	142623
+Fructose 1,6-bisphosphatase	omim	229700
+Fructose bisphosphatase deficiency	omim	229700
+Tietz syndrome	omim	103500
+Tardive dyskinesia	omim	272620
+Cyclooxygenase	omim	176805
+Cyclooxygenase  2   1	omim	600262
+Follicle-stimulating hormone	omim	118850
+Follicle-stimulating hormone  follicle stimulating hormone, beta polypeptide   1	omim	136530
+Thyroid-stimulating hormone	omim	118850
+Thyroid-stimulating hormone  Thyrotrophin-stimulating hormone, beta   1	omim	188540
+Gilbert's syndrome	omim	143500
+Histone methyltransferase	omim	607001
+Signal recognition particle	omim	600707
+Signal recognition particle  14kDa   1	omim	600708
+Signal recognition particle  19kDa   1	omim	182175
+Signal recognition particle  54kDa   1	omim	604857
+Signal recognition particle  68kDa   1	omim	604858
+Signal recognition particle  72kDa   1	omim	602122
+Retinitis pigmentosa	omim	268000
+Gamma-glutamyl transpeptidase	omim	231950
+Gamma-glutamyl transpeptidase  gamma-glutamyltransferase 2   1	omim	137181
+Pancreatic cancer	omim	260350
+Burkitt's lymphoma	omim	113970
+Substance P	omim	162320
+Idiopathic thrombocytopenic purpura	omim	188030
+Glucose-6-phosphate dehydrogenase deficiency	omim	305900
+Wolff–Parkinson–White syndrome	omim	194200
+Weissenbacher-Zweymüller syndrome	omim	277610
+Endometrial cancer	omim	608089
+Renal cell carcinoma	omim	144700
+Cryptorchidism	omim	219050
+Schmitt Gillenwater Kelly syndrome	omim	179250
+Spinal muscular atrophy	omim	253300
+Sabinas brittle hair syndrome	omim	211390
+Werner syndrome	omim	277700
+Harlequin-type ichthyosis	omim	242500
+Fanconi anemia	omim	227650
+Occipital horn syndrome	omim	304150
+BK channel	omim	600150
+BK channel  KCNMB1   1	omim	603951
+BK channel  KCNMB2   1	omim	605214
+BK channel  KCNMB3   1	omim	605222
+BK channel  KCNMB4   1	omim	605223
+Retinoblastoma	omim	180200
+Retinopathy of prematurity	omim	133780
+Ferritin	omim	134790
+Ferritin  , heavy polypeptide 1   1	omim	134770
+Ferritin  mitochondrial   1	omim	608847
+Transcortin	omim	122500
+Thrombotic thrombocytopenic purpura	omim	274150
+Aspartate carbamoyltransferase	omim	114010
+Atrial natriuretic peptide	omim	108780
+Proteus syndrome	omim	176920
+Hyper-IgD syndrome	omim	260920
+Ankylosing spondylitis	omim	106300
+Clathrin	omim	118960
+Clathrin  , light polypeptide Lcb   1	omim	118970
+Clathrin  , heavy polypeptide Hc   1	omim	118955
+Clathrin  , heavy polypeptide-like 1   1	omim	601273
+Protein disulfide-isomerase	omim	608012
+Protein disulfide-isomerase  protein disulfide isomerase family A, member 3   1	omim	602046
+COPII	omim	610511
+COPII  SEC24 family, member A   1	omim	607183
+SAR1A	omim	607691
+Familial Mediterranean fever	omim	249100
+Hereditary spherocytosis	omim	182900
+Osteoarthritis	omim	165720
+Congenital adrenal hyperplasia	omim	201910
+Paroxysmal nocturnal hemoglobinuria	omim	300818
+Thrombocytopenia	omim	188000
+Haemophilia C	omim	264900
+Hereditary coproporphyria	omim	121300
+Variegate porphyria	omim	176200
+Porphyria cutanea tarda	omim	176100
+Erythropoietic protoporphyria	omim	177000
+Ewing's sarcoma	omim	133450
+Osteopetrosis	omim	166600
+Melanocyte-stimulating hormone	omim	176830
+Bradykinin  ogen 1   1	omim	612358
+Cholinesterase	omim	100740
+Cholinesterase  butyrylcholinesterase   1	omim	177400
+Hemolytic-uremic syndrome	omim	235400
+Wolfram syndrome	omim	222300
+Mitral valve prolapse	omim	157700
+Methylmalonic acidemia	omim	251000
+Propionic acidemia	omim	606054
+Rhabdomyosarcoma	omim	268210
+Wilms' tumor	omim	194070
+Medium-chain acyl-coenzyme A dehydrogenase deficiency	omim	201450
+Galactokinase	omim	604313
+Galactokinase  2   1	omim	137028
+Club foot	omim	119800
+Cardiofaciocutaneous syndrome	omim	115150
+Alpha-2-Macroglobulin	omim	103950
+Leigh's disease	omim	256000
+XY gonadal dysgenesis	omim	400044
+Gaucher's disease	omim	230800
+Patent ductus arteriosus	omim	607411
+Gastrointestinal stromal tumor	omim	606764
+Strabismus	omim	185100
+Budd–Chiari syndrome	omim	600880
+Cannabinoid receptor	omim	114610
+Cannabinoid receptor  2 macrophage   1	omim	605051
+Dichromacy	omim	303900
+Peroxisome proliferator-activated receptor	omim	170998
+Peroxisome proliferator-activated receptor  gamma   1	omim	601487
+Peroxisome proliferator-activated receptor  delta   1	omim	600409
+Tuberous sclerosis	omim	191100
+Tuberous sclerosis  Hamartin   1	omim	605284
+Tuberous sclerosis  Tuberin   1	omim	191092
+Arginase	omim	608313
+Arginase  , type II   1	omim	107830
+Arrhythmogenic right ventricular dysplasia	omim	107970
+Dilated cardiomyopathy	omim	212110
+Hypertrophic cardiomyopathy	omim	192600
+Congenital insensitivity to pain	omim	243000
+Fabry disease	omim	301500
+Heterochromia iridum	omim	142500
+Ichthyosis vulgaris	omim	146700
+Lamellar ichthyosis	omim	242300
+Epidermolytic hyperkeratosis	omim	113800
+Juvenile idiopathic arthritis	omim	604302
+Growth hormone deficiency	omim	262400
+Stroke	omim	601367
+Situs inversus	omim	270100
+Adenosine deaminase deficiency	omim	102700
+Chronic granulomatous disease	omim	306400
+Primary ciliary dyskinesia	omim	244400
+Dextro-Transposition of the great arteries	omim	608808
+Leptospirosis	omim	607948
+Paget's disease of bone	omim	602080
+Precocious puberty	omim	176400
+Rectal prolapse	omim	176780
+Autoimmune polyendocrine syndrome	omim	240300
+Hashimoto's thyroiditis	omim	140300
+Homocystinuria	omim	236200
+Atrial septal defect	omim	108800
+Frontotemporal dementia	omim	600274
+Food allergy	omim	147050
+Biliary atresia	omim	210500
+Basal-cell carcinoma	omim	605462
+Primary biliary cirrhosis	omim	109720
+Craniodiaphyseal dysplasia	omim	218300
+Dynorphin	omim	131340
+Lipoid congenital adrenal hyperplasia	omim	201710
+Pulmonary alveolar proteinosis	omim	265120
+Congenital adrenal hyperplasia due to 11β-hydroxylase deficiency	omim	202010
+Congenital adrenal hyperplasia due to 3 beta-hydroxysteroid dehydrogenase deficiency	omim	201810
+Melanoma	omim	155600
+Congenital adrenal hyperplasia due to 17 alpha-hydroxylase deficiency	omim	202110
+Subarachnoid hemorrhage	omim	105800
+Malignant hyperthermia	omim	145600
+IgA nephropathy	omim	161950
+Diverticulosis	omim	223320
+Hereditary hemorrhagic telangiectasia	omim	187300
+Acanthosis nigricans	omim	100600
+Alport syndrome	omim	301050
+Fructose malabsorption	omim	138230
+Hereditary fructose intolerance	omim	229600
+Dupuytren's contracture	omim	126900
+Angiotensin receptor	omim	106165
+Angiotensin receptor  angiotensin II receptor, type 2   1	omim	300034
+Cholecystokinin receptor	omim	118444
+Cholecystokinin receptor  cholecystokinin B receptor   1	omim	118445
+Pectus excavatum	omim	169300
+Bicuspid aortic valve	omim	109730
+Thyroglossal cyst	omim	188455
+Meckel's diverticulum	omim	155140
+Hypogonadism	omim	146110
+Choanal atresia	omim	608911
+Beckwith–Wiedemann syndrome	omim	130650
+Niemann–Pick disease	omim	257200
+Aortic aneurysm	omim	100070
+Infant respiratory distress syndrome	omim	267450
+Ondine's curse	omim	209880
+Kabuki syndrome	omim	147920
+Congenital adrenal hyperplasia due to 21-hydroxylase deficiency	omim	201910
+Omphalocele	omim	164750
+Sanfilippo syndrome	omim	252900
+Abdominal aortic aneurysm	omim	100070
+Glanzmann's thrombasthenia	omim	187800
+Ectrodactyly	omim	225300
+Aniridia	omim	106200
+Fahr's syndrome	omim	213600
+Erythromelalgia	omim	133020
+Lev's disease	omim	113900
+Ribonucleotide reductase	omim	180410
+Ribonucleotide reductase  M2 polypeptide   1	omim	180390
+Ribonucleotide reductase  M2 B TP53 inducible   1	omim	604712
+Multiple system atrophy	omim	146500
+Hyperhidrosis	omim	144110
+Renal agenesis	omim	191830
+MASA syndrome	omim	303350
+Aagenaes syndrome	omim	214900
+Aicardi syndrome	omim	304050
+Amniotic band syndrome	omim	217100
+Miller–Dieker syndrome	omim	247200
+Essential thrombocytosis	omim	187950
+Hypereosinophilic syndrome	omim	607685
+Maturity onset diabetes of the young	omim	606391
+Aromatic L-amino acid decarboxylase	omim	107930
+Alexander disease	omim	203450
+Usher syndrome	omim	276900
+Optic nerve hypoplasia	omim	165550
+Myxoma	omim	255960
+Hereditary angioedema	omim	106100
+Angioedema	omim	606860
+Asplenia	omim	208530
+Arthrogryposis	omim	108110
+Duchenne muscular dystrophy	omim	310200
+Pseudovaginal perineoscrotal hypospadias	omim	264600
+Glycophorin C	omim	110750
+Persistent Mullerian duct syndrome	omim	261550
+Familial thoracic aortic aneurysm	omim	607086
+Noonan syndrome	omim	163950
+Gardner's syndrome	omim	175100
+Alpha-mannosidosis	omim	248500
+Supernumerary nipple	omim	163700
+Hereditary multiple exostoses	omim	133700
+Goodpasture's syndrome	omim	233450
+Ebstein's anomaly	omim	224700
+Hallermann–Streiff syndrome	omim	234100
+Li-Fraumeni syndrome	omim	151623
+Coarctation of the aorta	omim	120000
+Glycogen storage disease type II	omim	232300
+Hydatidiform mole	omim	231090
+Darier's disease	omim	124200
+RecQ helicase	omim	604610
+RecQ helicase  RecQ protein-like 4   1	omim	603780
+RecQ helicase  RecQ protein-like 5   1	omim	603781
+RecQ helicase  RMI1, RecQ mediated genome instability 1   1	omim	610404
+RecQ helicase  Werner syndrome   1	omim	604611
+Spondylosis	omim	184300
+Cystinuria	omim	220100
+Phosphofructokinase deficiency	omim	232800
+Hyperkalemic periodic paralysis	omim	170500
+Pyruvate kinase deficiency	omim	266200
+Prolactinoma	omim	600634
+Meningioma	omim	607174
+Glioblastoma multiforme	omim	137800
+Astrocytoma	omim	137800
+Becker's muscular dystrophy	omim	300376
+Ainhum	omim	103400
+Benign paroxysmal positional vertigo	omim	193007
+Chronic pancreatitis	omim	167800
+Kawasaki disease	omim	611775
+Oculopharyngeal muscular dystrophy	omim	164300
+Jumping Frenchmen of Maine	omim	244100
+Thioredoxin reductase	omim	601112
+Thioredoxin reductase  2   1	omim	606448
+Thioredoxin reductase  3   1	omim	606235
+Ataxia telangiectasia	omim	208900
+Colitis	omim	191390
+Thromboangiitis obliterans	omim	211480
+Glutamate dehydrogenase	omim	138130
+Glutamate dehydrogenase  2   1	omim	300144
+Adrenocortical carcinoma	omim	202300
+Ornithine transcarbamylase deficiency	omim	311250
+Thyroid hormone resistance	omim	274300
+Timothy syndrome	omim	601005
+High-molecular-weight kininogen	omim	612358
+Wolf–Hirschhorn syndrome	omim	194190
+Familial adenomatous polyposis	omim	175100
+Kallmann syndrome	omim	308700
+GSK-3	omim	606784
+GSK-3  glycogen synthase kinase 3 beta   1	omim	605004
+Lesch–Nyhan syndrome	omim	308000
+Hurler syndrome	omim	607014
+Gunther disease	omim	263700
+Menkes disease	omim	309400
+Malate dehydrogenase	omim	154200
+Malate dehydrogenase  2, NAD mitochondrial   1	omim	154100
+Congenital insensitivity to pain with anhidrosis	omim	256800
+Treacher–Collins syndrome	omim	154500
+Aase syndrome	omim	147800
+Peutz–Jeghers syndrome	omim	175200
+Immunodeficiency–centromeric instability–facial anomalies syndrome	omim	242860
+Chorea acanthocytosis	omim	200150
+Port-wine stain	omim	163000
+Tinel sign	omim	115430
+Ferredoxin	omim	103260
+Enkephalin	omim	131330
+Cyclic vomiting syndrome	omim	500007
+Epoxide hydrolase	omim	132810
+Epoxide hydrolase  poxide hydrolase 2, cytoplasmic   1	omim	132811
+Berdon syndrome	omim	249210
+Zellweger syndrome	omim	214100
+Dermatofibrosarcoma protuberans	omim	607907
+Keratosis pilaris	omim	604093
+Pemphigus	omim	169600
+Wiskott–Aldrich syndrome	omim	301000
+Incontinentia pigmenti	omim	308300
+Bloom syndrome	omim	210900
+Familial dysautonomia	omim	223900
+Gastroschisis	omim	230750
+Inositol trisphosphate receptor	omim	147265
+Inositol trisphosphate receptor  inositol 1,4,5-trisphosphate receptor, type 2   1	omim	600144
+Inositol trisphosphate receptor  inositol 1,4,5-trisphosphate receptor, type 3   1	omim	147267
+Seborrheic keratosis	omim	182000
+Chondrosarcoma	omim	215300
+Acute promyelocytic leukemia	omim	102578
+Hereditary nonpolyposis colorectal cancer	omim	120435
+Isocitrate dehydrogenase	omim	147700
+Isocitrate dehydrogenase  2 NADP+ , mitochondrial   1	omim	147650
+Isocitrate dehydrogenase  3 NAD+ alpha   1	omim	601149
+Isocitrate dehydrogenase  3 NAD+ beta   1	omim	604526
+Isocitrate dehydrogenase  3 NAD+ gamma   1	omim	300089
+Orthostatic intolerance	omim	604715
+Hypertrichosis	omim	135400
+5-alpha reductase	omim	184753
+5-alpha reductase  steroid-5-alpha-reductase, alpha polypeptide 2   1	omim	607306
+Takayasu's arteritis	omim	207600
+Epidermoid cyst	omim	131600
+Cold urticaria	omim	120100
+Myeloperoxidase deficiency	omim	254600
+Urokinase  plasminogen activator, urokinase   1	omim	191840
+Internexin	omim	605338
+Peripherin	omim	170710
+Neurofilament	omim	162280
+Neurofilament  , heavy polypeptide 200kDa   1	omim	162230
+Neurofilament  3 150kDa medium   1	omim	162250
+Chromosome 5q deletion syndrome	omim	153550
+Palmoplantar keratoderma	omim	144200
+Nesidioblastosis	omim	601820
+Thymidine kinase	omim	188300
+Thymidine kinase  2, mitochondrial   1	omim	188250
+Factor XIII	omim	134570
+Factor XIII  coagulation factor XIII,B polypeptide   1	omim	134580
+Lupus anticoagulant	omim	107320
+Horner's syndrome	omim	143000
+Cri du chat	omim	123450
+Glucokinase regulatory protein	omim	600842
+Protein S deficiency	omim	176880
+CADASIL syndrome	omim	125310
+Spondylolisthesis	omim	184200
+Pendred syndrome	omim	274600
+PGL2	omim	601650
+Glomus tumor	omim	138000
+Müllerian agenesis	omim	158330
+Pseudocholinesterase deficiency	omim	177400
+Crouzon syndrome	omim	123500
+Mycosis fungoides	omim	254400
+Microcephalin	omim	607117
+Microcephalin  microcephaly,primary autosomal recessive 2   1	omim	604317
+Microcephalin  microcephaly,primary autosomal recessive 3   1	omim	604804
+Microcephalin  microcephaly,primary autosomal recessive 4   1	omim	604321
+Microcephalin  microcephaly,primary autosomal recessive 5   1	omim	608716
+Microcephalin  microcephaly,primary autosomal recessive 6   1	omim	608393
+Thrombophilia	omim	188050
+Beta-endorphin	omim	176830
+Progressive supranuclear palsy	omim	601104
+Ellis–van Creveld syndrome	omim	225500
+Bilateral frontoparietal polymicrogyria	omim	606854
+Mismatch repair cancer syndrome	omim	276300
+Fukuyama congenital muscular dystrophy	omim	253800
+Aspirin-induced asthma	omim	208550
+Heberden's node	omim	140600
+Adenomyosis	omim	600458
+Cysteine dioxygenase	omim	603943
+Diastrophic dysplasia	omim	222600
+Atelosteogenesis, type II	omim	256050
+Alagille syndrome	omim	118450
+Coffin–Lowry syndrome	omim	303600
+Krabbe disease	omim	245200
+Cockayne syndrome	omim	216400
+Rubinstein–Taybi syndrome	omim	180849
+Anti-Müllerian hormone	omim	600957
+Moyamoya disease	omim	252350
+Neuraminidase	omim	608272
+Neuraminidase  sialidase 2 cytosolic sialidase   1	omim	605528
+Neuraminidase  sialidase 3 membrane sialidase   1	omim	604617
+Neuraminidase  sialidase 4   1	omim	608527
+Apert syndrome	omim	101200
+Jervell and Lange-Nielsen syndrome	omim	220400
+Myelofibrosis	omim	254450
+Fibrodysplasia ossificans progressiva	omim	135100
+Romano-Ward syndrome	omim	192500
+Long-chain 3-hydroxyacyl-coenzyme A dehydrogenase deficiency	omim	600890
+Andersen–Tawil syndrome	omim	170390
+Intussusception (medical disorder)	omim	147710
+Protein Z-related protease inhibitor	omim	605271
+Protein Z	omim	176895
+Estrogen receptor	omim	133430
+Estrogen receptor  2 ER-beta   1	omim	601663
+Craniosynostosis	omim	218500
+CREST syndrome	omim	181750
+Glutamate decarboxylase	omim	605363
+Glutamate decarboxylase  glutamic acid decarboxylase 2   1	omim	4093
+Glycogen phosphorylase	omim	608455
+Glycogen phosphorylase  , glycogen; liver Hers disease, glyco  1	omim	232700
+Glycogen phosphorylase  , glycogen; brain   1	omim	138550
+Gastric inhibitory polypeptide	omim	137240
+Friedreich's ataxia	omim	229300
+Trimethylaminuria	omim	602079
+Neuroblastoma	omim	256700
+Birt–Hogg–Dubé syndrome	omim	135150
+Fibrillin	omim	134797
+Fibrillin  2   1	omim	121050
+Fibrillin  3   1	omim	608529
+Mulibrey nanism	omim	253250
+Thanatophoric dysplasia	omim	187600
+Enaptin	omim	608441
+Stickler syndrome	omim	108300
+Fuchs' dystrophy	omim	136800
+Neurofibromatosis type I	omim	162200
+Glycogen storage disease type I	omim	232200
+Duane syndrome	omim	126800
+Lymphangioleiomyomatosis	omim	606690
+Bladder exstrophy	omim	600057
+Bardet–Biedl syndrome	omim	209900
+Pick's disease	omim	172700
+Langerhans cell histiocytosis	omim	604856
+Atopy	omim	147050
+Intestinal malrotation	omim	193250
+Gerstmann–Sträussler–Scheinker syndrome	omim	137440
+AKT	omim	164730
+AKT  v-akt murine thymoma viral oncogene homolog 2   1	omim	164731
+Uterine fibroid	omim	150699
+Isovaleric acidemia	omim	243500
+Maple syrup urine disease	omim	248600
+Synovial sarcoma	omim	300813
+Hypoplastic left heart syndrome	omim	241550
+Protamine	omim	182880
+Protamine  2   1	omim	182890
+Motilin	omim	158270
+Jacobsen syndrome	omim	147791
+X-linked ichthyosis	omim	308100
+Achondrogenesis	omim	600972
+Ryanodine receptor	omim	180901
+Ryanodine receptor  yanodine receptor 2 cardiac   1	omim	180902
+Ryanodine receptor  yanodine receptor 3   1	omim	180903
+Amelogenin	omim	300391
+Amelogenin  , Y-linked   1	omim	410000
+Leber's hereditary optic neuropathy	omim	535000
+Nemaline myopathy	omim	161800
+Seminoma	omim	273300
+Smith-Lemli-Opitz syndrome	omim	270400
+Citrullinemia	omim	215700
+Holocarboxylase synthetase deficiency	omim	253270
+Nitrilase	omim	604618
+Trehalase	omim	275360
+Interleukin 12  A   1	omim	161560
+Interleukin 12  B   1	omim	161561
+Beta-ketothiolase deficiency	omim	203750
+Aconitase	omim	100880
+Aconitase  2, mitochondrial   1	omim	100850
+CGMP-dependent protein kinase	omim	176894
+CGMP-dependent protein kinase  , cGMP-dependent, type II   1	omim	601591
+Beta amyloid	omim	104760
+MOMO syndrome	omim	157980
+Macroglossia	omim	153630
+Protease-activated receptor	omim	187930
+Protease-activated receptor  coagulation factor II thrombin receptor-like 1   1	omim	600933
+Protease-activated receptor  coagulation factor II thrombin receptor-like 2   1	omim	601919
+Protease-activated receptor  coagulation factor II thrombin receptor-like 3   1	omim	602779
+Congenital diaphragmatic hernia	omim	142340
+Norrie disease	omim	310600
+3-hydroxy-3-methylglutaryl-CoA lyase deficiency	omim	246450
+Klippel–Feil syndrome	omim	118100
+Syndactyly	omim	185900
+Gitelman syndrome	omim	263800
+Anterior ischemic optic neuropathy	omim	258660
+Dermatographic urticaria	omim	125635
+Dysplastic nevus	omim	155600
+Xanthinuria	omim	278300
+Caveolin	omim	601047
+Caveolin  2   1	omim	601048
+Caveolin  3   1	omim	601253
+Pyruvate carboxylase	omim	608786
+Tyrosinemia	omim	276700
+T cell receptor	omim	186880
+T cell receptor  beta locus   1	omim	186930
+Transposition of the great vessels	omim	608808
+Systemic primary carnitine deficiency	omim	212140
+Meleda disease	omim	248300
+Torsion dystonia	omim	128100
+Batten disease	omim	204200
+Pityriasis rubra pilaris	omim	173200
+Arcus senilis	omim	107800
+Metachromatic leukodystrophy	omim	250100
+GABAB receptor	omim	603540
+GABAB receptor  gamma-aminobutyric acid GABA B receptor, 2   1	omim	607340
+Landau–Kleffner syndrome	omim	245570
+Glycogenin	omim	603942
+Glycogenin  2   1	omim	300198
+Infantile neuronal ceroid lipofuscinosis	omim	256730
+Cyclophilin	omim	123840
+Carcinoid	omim	114900
+CD1	omim	188370
+CD1  b molecule   1	omim	188360
+CD1  c molecule   1	omim	188340
+CD1  d molecule   1	omim	188410
+CD1  e molecule   1	omim	188411
+Saethre-Chotzen syndrome	omim	101400
+Imperforate anus	omim	301800
+Atopic dermatitis	omim	603165
+Frontotemporal lobar degeneration	omim	600274
+Agenesis of the corpus callosum	omim	217990
+Van der Woude syndrome	omim	119300
+Hepatocyte nuclear factor 4	omim	600281
+Hepatocyte nuclear factor 4  gamma   1	omim	605966
+Focal segmental glomerulosclerosis	omim	603278
+Omenn syndrome	omim	603554
+Spinocerebellar ataxia	omim	164400
+CD8	omim	186910
+CD8  b molecule   1	omim	186730
+Cyclic neutropenia	omim	162800
+Kennedy's disease	omim	313200
+Beta-glucuronidase	omim	611499
+Acetyl-CoA carboxylase	omim	601557
+Acetyl-CoA carboxylase  beta   1	omim	200350
+NF-κB	omim	164011
+NF-κB  RELA   1	omim	164014
+NF-κB  NFKB2   1	omim	164012
+NF-κB  RELB   1	omim	604758
+NF-κB  REL   1	omim	164910
+Machado–Joseph disease	omim	109150
+GABAA-rho receptor	omim	137161
+GABAA-rho receptor  gamma-aminobutyric acid GABA receptor, rho 2   1	omim	137162
+Microtia	omim	600674
+Enteropeptidase	omim	606635
+Hypoxia-inducible factors	omim	603348
+Hypoxia-inducible factors  aryl hydrocarbon receptor nuclear translocator   1	omim	126110
+Hypoxia-inducible factors  endothelial PAS domain protein 1   1	omim	603349
+Hypoxia-inducible factors  aryl-hydrocarbon receptor nuclear translocator 2   1	omim	606036
+Hypoxia-inducible factors  hypoxia inducible factor 3, alpha subunit   1	omim	609976
+Cone dystrophy	omim	300085
+Chondrocalcinosis	omim	600668
+Hartnup disease	omim	234500
+Persistent truncus arteriosus	omim	217095
+Tricuspid atresia	omim	605067
+Smith–Magenis syndrome	omim	182290
+Chédiak–Higashi syndrome	omim	214500
+Glutaric aciduria type 1	omim	231670
+Intestinal neuronal dysplasia	omim	243180
+X-linked agammaglobulinemia	omim	300300
+Sandhoff disease	omim	268800
+Carnitine palmitoyltransferase I deficiency	omim	255120
+Carnitine palmitoyltransferase II deficiency	omim	255110
+GM2-gangliosidosis, AB variant	omim	272750
+Primary progressive aphasia	omim	607485
+Sturge–Weber syndrome	omim	185300
+Morquio syndrome	omim	253000
+Kostmann syndrome	omim	610738
+Sialidosis	omim	256550
+Saccharopinuria	omim	268700
+Salla disease	omim	604369
+Facioscapulohumeral muscular dystrophy	omim	158900
+Giant axonal neuropathy	omim	256850
+Carnitine-acylcarnitine translocase deficiency	omim	212138
+Mitochondrial trifunctional protein deficiency	omim	609015
+ACADVL	omim	609575
+Very long-chain acyl-coenzyme A dehydrogenase deficiency	omim	201475
+Spondyloperipheral dysplasia	omim	271700
+Hypochondrogenesis	omim	200610
+Achondrogenesis type 2	omim	200610
+Kniest dysplasia	omim	156550
+Otospondylomegaepiphyseal dysplasia	omim	215150
+Spondyloepiphyseal dysplasia congenita	omim	183900
+Spondyloepimetaphyseal dysplasia, Strudwick type	omim	184250
+Multiple endocrine neoplasia type 1	omim	131100
+Multiple endocrine neoplasia type 2	omim	171400
+Endothelin	omim	131240
+Endothelin  2   1	omim	131241
+Endothelin  3   1	omim	131242
+Accessory breast	omim	163700
+Von Hippel-Lindau binding protein 1	omim	300133
+Hypophosphatasia	omim	146300
+CHARGE syndrome	omim	214800
+Cowden syndrome	omim	158350
+Glutamine synthetase	omim	138290
+Lysinuric protein intolerance	omim	222700
+GLUT2	omim	138160
+Birdshot chorioretinopathy	omim	605808
+Fraser syndrome	omim	219000
+Sideroblastic anemia	omim	301310
+Transketolase	omim	606781
+VACTERL association	omim	192350
+Leber's congenital amaurosis	omim	204000
+Bangstad syndrome	omim	210740
+Cherubism	omim	118400
+Myotonia congenita	omim	160800
+Acute intermittent porphyria	omim	176000
+Leukocyte adhesion deficiency	omim	116920
+Neurofibromatosis type II	omim	101000
+Aphakia	omim	610256
+Glycogen synthase	omim	138570
+Glycogen synthase  2 liver   1	omim	138571
+Diabetes mellitus type 1	omim	222100
+RLI	omim	601213
+Carpenter syndrome	omim	201000
+Dubin–Johnson syndrome	omim	237500
+Waldenström's macroglobulinemia	omim	153600
+Metachondromatosis	omim	156250
+Hypochondroplasia	omim	146000
+Glycogen storage disease type IV	omim	232500
+Glycogen storage disease type III	omim	232400
+Glycogen storage disease type 0	omim	240600
+Hereditary elliptocytosis	omim	611804
+RNase L	omim	180435
+Common variable immunodeficiency	omim	240500
+Kearns–Sayre syndrome	omim	530000
+Acute interstitial pneumonitis	omim	178500
+Follicular lymphoma	omim	151430
+Anisocoria	omim	106240
+Thyroid peroxidase	omim	606765
+Growth hormone releasing hormone	omim	139190
+Hyperlysinemia	omim	238700
+ABCD syndrome	omim	600501
+Abdallat Davis Farrage syndrome	omim	270750
+SHORT syndrome	omim	269880
+Achondrogenesis type 1B	omim	600972
+Diamond–Blackfan anemia	omim	105650
+Dyskeratosis congenita	omim	305000
+Cartilage–hair hypoplasia	omim	250250
+Collagen, type II, alpha 1	omim	120140
+Band 3  solute carrier family 4 anion exchanger , member 1  1	omim	602655
+Arachnoid cyst	omim	207790
+Sugarman syndrome	omim	258850
+Subacute sclerosing panencephalitis	omim	260470
+Obestatin	omim	605353
+Pleomorphic adenoma	omim	181030
+Hyperaldosteronism	omim	103900
+Behr syndrome	omim	210000
+Osteitis fibrosa cystica	omim	603233
+Biotinidase deficiency	omim	253260
+Hypertelorism	omim	145400
+Geographic tongue	omim	137400
+Crigler–Najjar syndrome	omim	218800
+WAGR syndrome	omim	194072
+Eosinophilic fasciitis	omim	226350
+Neural tube defect	omim	182940
+Melanin concentrating hormone	omim	176795
+Relaxin	omim	179730
+Relaxin  2   1	omim	179740
+Relaxin  3   1	omim	606855
+Myositis	omim	160750
+Histone H3	omim	601128
+Histone H3  histone, family 3B H3.3B   1	omim	601058
+Pulmonary valve stenosis	omim	265500
+Renal tubular acidosis	omim	179800
+Spermidine synthase	omim	182891
+Thomsen disease	omim	160800
+Stearoyl-CoA desaturase-1	omim	604031
+Congenital afibrinogenemia	omim	202400
+Annular pancreas	omim	167750
+Primary hypertrophic osteoathropathy	omim	167100
+Pseudoxanthoma elasticum	omim	264800
+Yellow nail syndrome	omim	153300
+Wolman disease	omim	278000
+Farber disease	omim	228000
+Cholesteryl ester storage disease	omim	278000
+Complement component 5a	omim	120900
+Androgen-binding protein	omim	182205
+McCune–Albright syndrome	omim	174800
+Popliteal pterygium syndrome	omim	119500
+Laryngomalacia	omim	150280
+X-linked adrenal hypoplasia congenita	omim	300200
+Dandy–Walker syndrome	omim	220200
+Walker–Warburg syndrome	omim	236670
+Hepcidin	omim	606464
+Pantothenate kinase-associated neurodegeneration	omim	234200
+Goldenhar syndrome	omim	164210
+Hypokalemic periodic paralysis	omim	170400
+Paramyotonia congenita	omim	168300
+Aceruloplasminemia	omim	604290
+African iron overload	omim	601195
+MALT lymphoma	omim	604860
+Neuroacanthocytosis	omim	200150
+Southeast Asian ovalocytosis	omim	109270
+Becker's nevus	omim	604919
+Double outlet right ventricle	omim	217095
+Taussig–Bing syndrome	omim	217095
+Uveal melanoma	omim	155720
+Jackson-Weiss syndrome	omim	123150
+Pfeiffer syndrome	omim	101600
+GDP-fucose protein O-fucosyltransferase 1	omim	607491
+GDP-fucose protein O-fucosyltransferase 2	omim	610249
+Separase	omim	604143
+Hermansky–Pudlak syndrome	omim	203300
+Nephrogenic diabetes insipidus	omim	304800
+Hereditary stomatocytosis	omim	185000
+Poland syndrome	omim	173800
+Acute erythroid leukemia	omim	133180
+ACADM	omim	607008
+Achard syndrome	omim	100700
+Febrile neutrophilic dermatosis	omim	608068
+Albright's hereditary osteodystrophy	omim	103580
+Argininosuccinate synthase	omim	603470
+Argininosuccinic aciduria	omim	207900
+Argininosuccinate lyase	omim	608310
+Dislocation of hip	omim	142700
+Glutaric acidemia type 2	omim	231680
+Costello syndrome	omim	218040
+Holocarboxylase synthetase	omim	609018
+COL11A2	omim	120290
+Primary lateral sclerosis	omim	606353
+TBX1	omim	602054
+Protoporphyrinogen oxidase	omim	600923
+Glycogen branching enzyme	omim	607839
+IKBKAP	omim	603722
+Patterson syndrome	omim	169170
+Barakat syndrome	omim	146255
+Bernard–Soulier syndrome	omim	231200
+Activated protein C resistance	omim	188055
+Adams–Oliver syndrome	omim	100300
+Nijmegen breakage syndrome	omim	251260
+MELAS syndrome	omim	540000
+Otocephaly	omim	202650
+Asymmetric crying facies	omim	125520
+DiGeorge syndrome	omim	188400
+Blue diaper syndrome	omim	211000
+Male-limited precocious puberty	omim	176410
+Fountain syndrome	omim	229120
+Fissured tongue	omim	137400
+Melkersson–Rosenthal syndrome	omim	155900
+ZAP70 deficiency	omim	176947
+Lown–Ganong–Levine syndrome	omim	108950
+Neonatal hemochromatosis	omim	231100
+Sclerostin	omim	605740
+XX male syndrome	omim	278850
+Osteochondritis dissecans	omim	165800
+Kleine-Levin syndrome	omim	148840
+Syringoma	omim	186600
+West syndrome	omim	308350
+Choroideremia	omim	303100
+Adrenocorticotropic hormone deficiency	omim	201400
+Apparent mineralocorticoid excess syndrome	omim	218030
+Adenine phosphoribosyltransferase deficiency	omim	102600
+2-Hydroxyglutaric aciduria	omim	600721
+Citrate synthase	omim	118950
+Anorchia	omim	273250
+MuSK protein	omim	601296
+Cleidocranial dysostosis	omim	119600
+Biliverdin reductase	omim	109750
+Biliverdin reductase  B   1	omim	600941
+Malonyl-CoA decarboxylase deficiency	omim	248360
+Short-chain acyl-coenzyme A dehydrogenase deficiency	omim	201470
+2,4 Dienoyl-CoA reductase deficiency	omim	222745
+3-Methylcrotonyl-CoA carboxylase deficiency	omim	210200
+Methylmalonyl-CoA mutase deficiency	omim	251000
+Letterer–Siwe disease	omim	246400
+Gonadotropin-releasing hormone receptor	omim	138850
+Distichia	omim	126300
+Ectopia lentis	omim	225100
+Carney complex	omim	160980
+Glycoprotein IIb/IIIa	omim	607759
+Glycoprotein IIb/IIIa  integrin, beta 3 platelet glycoprotein IIIa, antig  1	omim	173470
+Nebulin	omim	161650
+Pyruvate dehydrogenase deficiency	omim	312170
+Shaker gene	omim	176263
+Hypermobility	omim	147900
+Human serum albumin	omim	103600
+Medulloblastoma	omim	155255
+Glycine encephalopathy	omim	605899
+Kjer's optic neuropathy	omim	165500
+Flynn–Aird syndrome	omim	136300
+Liddle's syndrome	omim	177200
+Zaspopathy	omim	609452
+Bannayan–Riley–Ruvalcaba syndrome	omim	153480
+Nociceptin  prepronociceptin   1	omim	601459
+Fumarase	omim	136850
+Bartter syndrome	omim	601678
+Cohen syndrome	omim	216550
+Protein C deficiency	omim	176860
+Intestinal pseudoobstruction	omim	155310
+IPEX syndrome	omim	304790
+Degos disease	omim	602248
+GAPO syndrome	omim	230740
+Adipocyte protein 2	omim	600434
+Adenylosuccinate lyase deficiency	omim	103050
+Prolactin receptor	omim	176761
+Simpson–Golabi–Behmel syndrome	omim	312870
+Autosomal recessive multiple epiphyseal dysplasia	omim	226900
+Human placental lactogen	omim	150200
+Human placental lactogen  chorionic somatomammotropin hormone 2   1	omim	118820
+Photic sneeze reflex	omim	100820
+Progressive familial intrahepatic cholestasis	omim	211600
+Familial hemiplegic migraine	omim	141500
+Alpha-thalassemia	omim	141800
+Arakawa's syndrome II	omim	156570
+4-Hydroxyphenylpyruvate dioxygenase	omim	609695
+Hip-1	omim	601767
+Cystic hygroma	omim	257350
+True hermaphroditism	omim	400045
+Sickle cell trait	omim	603903
+Infantile cortical hyperostosis	omim	114000
+Galloway Mowat syndrome	omim	251300
+Properdin	omim	300383
+Factor XIII deficiency	omim	134570
+Acute myeloid leukemia	omim	602439
+Cytochrome b5	omim	250790
+Fibromuscular dysplasia	omim	135580
+Telokin	omim	600922
+Madelung's deformity	omim	127300
+Triple-A syndrome	omim	231550
+Drusen	omim	126700
+Acrodermatitis enteropathica	omim	201100
+Pancreatic polypeptide	omim	167780
+Calbindin	omim	114050
+Calbindin  2, 29kDa calretinin   1	omim	114051
+Hawkinsinuria	omim	140350
+Adiposis dolorosa	omim	103200
+Filaggrin	omim	135940
+Hyperimmunoglobulin E syndrome	omim	243700
+Hyperekplexia	omim	149400
+Hajdu–Cheney syndrome	omim	102500
+RAB27	omim	603868
+RAB27  B, member RAS oncogene family   1	omim	603869
+Griscelli syndrome	omim	214450
+X-linked severe combined immunodeficiency	omim	300400
+Phospholipid scramblase	omim	604170
+Phospholipid scramblase  2   1	omim	607610
+Phospholipid scramblase  3   1	omim	607611
+Phospholipid scramblase  4   1	omim	607612
+Fetuin	omim	138680
+Fetuin  -B   1	omim	605954
+Fumarase deficiency	omim	606812
+Sphingosine kinase	omim	603730
+Sphingosine kinase  2   1	omim	607092
+Coats' disease	omim	300216
+IRAK4	omim	606883
+Seckel syndrome	omim	210600
+Selective immunoglobulin A deficiency	omim	137100
+Chronic inflammatory demyelinating polyneuropathy	omim	139393
+Refsum disease	omim	266500
+Premature ovarian failure	omim	311360
+Testicular microlithiasis	omim	610441
+Myosin light-chain kinase	omim	600922
+Myosin light-chain kinase  2, skeletal muscle   1	omim	606566
+Myosin light-chain kinase  3, cardiac   1	omim	612147
+Cervical rib	omim	117900
+Porphobilinogen synthase	omim	125270
+Danubian endemic familial nephropathy	omim	124100
+Nevoid basal cell carcinoma syndrome	omim	109400
+Michelin tire baby syndrome	omim	156610
+Pemphigus vulgaris	omim	169610
+Felty's syndrome	omim	134750
+Mucoepidermoid carcinoma	omim	607536
+Papillary thyroid cancer	omim	603744
+CD72	omim	107272
+Sterol regulatory element-binding protein	omim	184756
+Sterol regulatory element-binding protein  sterol regulatory element-binding transcription fa  1	omim	600481
+Allergic bronchopulmonary aspergillosis	omim	103920
+Greig cephalopolysyndactyly syndrome	omim	175700
+Vitelliform macular dystrophy	omim	608161
+Pallister-Hall syndrome	omim	146510
+KAL1 gene	omim	308700
+Centronuclear myopathy	omim	160150
+Hydrogen potassium ATPase	omim	137216
+Hydrogen potassium ATPase  , H+/K+ exchanging, beta polypeptide   1	omim	137217
+Cutis laxa	omim	123700
+Léri-Weill dyschondrosteosis	omim	127300
+Idiopathic pulmonary haemosiderosis	omim	178550
+Freeman–Sheldon syndrome	omim	193700
+P300-CBP coactivator family	omim	602700
+P300-CBP coactivator family  CREB binding protein CBP   1	omim	600140
+Ku (protein)	omim	194364
+Ku (protein)  X-ray repaircross-complementing 6   1	omim	152690
+Piebaldism	omim	172800
+Rotor syndrome	omim	237450
+Vasopressin receptor	omim	600821
+Vasopressin receptor  arginine vasopressin receptor 1B   1	omim	600264
+Vasopressin receptor  arginine vasopressin receptor 2   1	omim	300538
+N-Acetylglutamate synthase	omim	608300
+Dyschromatosis universalis hereditaria	omim	127500
+Kasabach–Merritt syndrome	omim	141000
+Congenital absence of the vas deferens	omim	277180
+Frzb	omim	605083
+Urofacial syndrome	omim	236730
+Laurence–Moon syndrome	omim	245800
+Ménétrier's disease	omim	137280
+Robinow syndrome	omim	180700
+Monosomy 9p	omim	158170
+Oculocerebrorenal syndrome	omim	309000
+Lucey-Driscoll syndrome	omim	237900
+FcεRI	omim	147140
+FcεRI  high affinity IgE receptor; beta   1	omim	147138
+FcεRI  high affinity IgE receptor; gamma   1	omim	147139
+Larsen syndrome	omim	150250
+2-Methylbutyryl-CoA dehydrogenase deficiency	omim	610006
+Epidermolysis bullosa simplex	omim	131900
+Beta-thalassemia	omim	141900
+Endocardial fibroelastosis	omim	226000
+Histidinemia	omim	235800
+Hailey–Hailey disease	omim	169600
+Asplenia with cardiovascular anomalies	omim	208530
+Steroidogenic acute regulatory protein	omim	600617
+Chordoma	omim	215400
+Pallister–Killian syndrome	omim	601803
+Vesicular monoamine transporter 1	omim	193002
+Succinic semialdehyde dehydrogenase deficiency	omim	271980
+Alpha-thalassemia mental retardation syndrome	omim	301040
+Abruzzo Erickson syndrome	omim	302905
+Holt–Oram syndrome	omim	142900
+Alström syndrome	omim	203800
+Carbamoyl phosphate synthetase I	omim	608307
+Gender identity disorder in children	omim	600952
+N-Acetylglutamate synthase deficiency	omim	237310
+Sprengel's deformity	omim	184400
+Phospholipase D	omim	602382
+Phospholipase D  2   1	omim	602384
+Agouti signalling peptide	omim	600201
+Guanylin	omim	139392
+Thyroid hormone receptor	omim	190120
+Thyroid hormone receptor  , beta erythroblastic leuk  1	omim	190160
+Inositol oxygenase	omim	606774
+PELP-1	omim	609455
+Acromicric dysplasia	omim	102370
+Hereditary pancreatitis	omim	167800
+Nail–patella syndrome	omim	161200
+Macrophage inflammatory protein	omim	182283
+Macrophage inflammatory protein  chemokine C-C motif ligand 4   1	omim	182284
+Stargardt disease	omim	248200
+Deoxyribonuclease II	omim	126350
+Deoxyribonuclease II  beta   1	omim	608057
+Collagenase	omim	120353
+Collagenase  matrix metallopeptidase 8 neutrophil collagenase   1	omim	120355
+Kell antigen system	omim	110900
+Ankyrin	omim	182900
+Ankyrin  ANK2, neuronal   1	omim	106410
+Ankyrin  ANK3, node of Ranvier   1	omim	600465
+XK (protein)	omim	314850
+Nezelof syndrome	omim	242700
+Beta-glucosidase	omim	606619
+Phosphoenolpyruvate carboxykinase	omim	261680
+Phosphoenolpyruvate carboxykinase  2 mitochondrial   1	omim	261650
+ACADS	omim	606885
+ACADL	omim	609576
+Cyclin B	omim	123836
+Cyclin B  2   1	omim	602755
+Cyclin B  3   1	omim	300456
+Cyclin E	omim	123837
+Cyclin E  2   1	omim	603775
+Cyclin A	omim	604036
+Cyclin A  2   1	omim	123835
+Arrestin	omim	181031
+Arrestin  beta 1   1	omim	107940
+Arrestin  beta 2   1	omim	107941
+Arrestin  3, retinal X-arrestin   1	omim	301770
+Hunter syndrome	omim	309900
+Pentalogy of Cantrell	omim	313850
+Tangier disease	omim	205400
+Emery–Dreifuss muscular dystrophy	omim	181350
+XX gonadal dysgenesis	omim	233300
+McLeod syndrome	omim	314850
+Calcitonin gene-related peptide	omim	114130
+Calcitonin gene-related peptide  calcitonin-related polypeptide, beta   1	omim	114160
+Neuropeptide Y receptor	omim	162641
+Neuropeptide Y receptor  Y2   1	omim	162642
+Neuropeptide Y receptor  pancreatic polypeptide receptor 1   1	omim	601790
+Neuropeptide Y receptor  Y5   1	omim	602001
+Lipotropin	omim	176830
+Phosphoglycerate kinase	omim	311800
+Phosphoglycerate kinase  2   1	omim	172270
+Bisphosphoglycerate mutase	omim	222800
+Phosphoglycerate mutase	omim	172250
+Phosphoglycerate mutase  2 muscle   1	omim	261670
+Duane-radial ray syndrome	omim	607323
+Chordin	omim	603475
+Uroporphyrinogen III synthase	omim	606938
+Fucosidosis	omim	230000
+Casein kinase 2	omim	115440
+Casein kinase 2  ,alpha prime polypeptide   1	omim	115442
+Casein kinase 2  ,beta polypeptide   1	omim	115441
+GM1 gangliosidoses	omim	230600
+GM2 gangliosidoses	omim	272800
+MERRF syndrome	omim	545000
+Sneddon's syndrome	omim	182410
+Lefty (protein)	omim	603037
+Lefty (protein)  left-right determination factor 2   1	omim	601877
+Autoimmune lymphoproliferative syndrome	omim	601859
+CDK-activating kinase	omim	601955
+Angiopoietin	omim	601667
+Angiopoietin  2   1	omim	601922
+Fazio-Londe disease	omim	211500
+BMPR2	omim	600799
+Mowat-Wilson syndrome	omim	235730
+Endothelin receptor	omim	131243
+Endothelin receptor  type B   1	omim	131244
+SCARF syndrome	omim	312830
+Bradykinin receptor	omim	600337
+Bradykinin receptor  B2   1	omim	113503
+Pleomorphic undifferentiated sarcoma	omim	8830
+Alpha-Mannosidase	omim	609458
+Alpha-Mannosidase  , alpha, class 2C, member 1   1	omim	154580
+Retinoic acid receptor	omim	180240
+Retinoic acid receptor  etinoic acid receptor beta   1	omim	180220
+Retinoic acid receptor  etinoic acid receptor gamma   1	omim	180190
+Hexosaminidase	omim	606869
+Hexosaminidase  β-hexosaminidase subunit beta   1	omim	606873
+Hexosaminidase  C   1	omim	604039
+Retinoid X receptor	omim	180245
+Retinoid X receptor  etinoid X receptor beta   1	omim	180246
+Retinoid X receptor  etinoid X receptor gamma   1	omim	180247
+Liver X receptor	omim	602423
+Liver X receptor  LXRβ nuclear receptor subfamily 1, group H, member  1	omim	600380
+Pseudo-Hurler polydystrophy	omim	252600
+Mucolipidosis type IV	omim	252650
+I-cell disease	omim	252500
+Somatostatin receptor	omim	182451
+Somatostatin receptor  2   1	omim	182452
+Somatostatin receptor  3   1	omim	182453
+Somatostatin receptor  4   1	omim	182454
+Somatostatin receptor  5   1	omim	182455
+Pseudopseudohypoparathyroidism	omim	612463
+Dejerine–Sottas disease	omim	145900
+Aneurysmal bone cyst	omim	606179
+Short rib – polydactyly syndrome	omim	263530
+Parathyroid hormone receptor	omim	168468
+Parathyroid hormone receptor  parathyroid hormone 2 receptor   1	omim	601469
+Platelet-derived growth factor receptor	omim	173490
+Platelet-derived growth factor receptor  , beta poly  1	omim	173410
+Vasoactive intestinal peptide receptor	omim	192321
+Vasoactive intestinal peptide receptor  2   1	omim	601970
+Vasoactive intestinal peptide receptor  adenylate cyclase activating polypeptide 1 pituita  1	omim	102981
+Tachykinin receptor	omim	162323
+Tachykinin receptor  2   1	omim	162321
+Tachykinin receptor  3   1	omim	162332
+Archain	omim	600820
+Activin type 2 receptors	omim	102581
+Activin type 2 receptors  activin A receptor, type IIB   1	omim	602730
+Denys–Drash syndrome	omim	194080
+Ribosome Recycling Factor	omim	604602
+Sitosterolemia	omim	210250
+Partial androgen insensitivity syndrome	omim	312300
+Sterolin	omim	605459
+Sterolin  ATP-binding cassette, sub-family G WHITE , member   1	omim	605460
+CD98	omim	158070
+CD98  solute carrier family 7 member 5 cationic amino ac  1	omim	600182
+Sodium-glucose transport proteins	omim	182380
+Sodium-glucose transport proteins  olute carrier family 5 sodium/glucose cotransport  1	omim	182381
+Transcobalamin	omim	189905
+Transcobalamin  II; macrocytic anemia   1	omim	275350
+Complement component 7	omim	217070
+Complement component 9	omim	120940
+Complement component 1R	omim	216950
+Complement component 1s	omim	120580
+Factor D	omim	134350
+C4b-binding protein	omim	120830
+C4b-binding protein  complement component 4 binding protein, beta   1	omim	120831
+Asialoglycoprotein receptor	omim	108360
+Asialoglycoprotein receptor  2   1	omim	108361
+Na-K-Cl cotransporter	omim	600839
+Na-K-Cl cotransporter  solute carrier family 12 sodium/potassium/chloride  1	omim	600840
+Neurturin	omim	602018
+Catel–Manzke syndrome	omim	302380
+Pierre Robin syndrome	omim	261800
+IL-2 receptor	omim	147730
+IL-2 receptor  interleukin 2 receptor, beta   1	omim	146710
+IL-2 receptor  interleukin 2 receptor, gamma severe combined immu  1	omim	308380
+Isobutyryl-coenzyme A dehydrogenase deficiency	omim	604773
+Distal muscular dystrophy	omim	254130
+Lysyl hydroxylase	omim	153454
+Lysyl hydroxylase  procollagen-lysine, 2-oxoglutarate 5-dioxygenase 2  1	omim	601865
+Acatalasia	omim	115500
+Iduronidase	omim	252800
+Sjögren–Larsson syndrome	omim	270200
+Aryl hydrocarbon receptor repressor	omim	606517
+Lipoatrophic diabetes	omim	151660
+Dihydropyrimidine dehydrogenase deficiency	omim	274270
+Dihydropyrimidine dehydrogenase	omim	274270
+Papillon–Lefèvre syndrome	omim	245000
+LEOPARD syndrome	omim	151100
+22q13 deletion syndrome	omim	606232
+Bare lymphocyte syndrome	omim	604571
+Scheuermann's disease	omim	181440
+Intestinal atresia	omim	223400
+Ataxin 7	omim	607640
+Malonyl-CoA decarboxylase	omim	606761
+Malignant rhabdoid tumour	omim	609322
+Transthyretin-related hereditary amyloidosis	omim	105210
+Interleukin-3 receptor	omim	308385
+Interleukin-3 receptor  interleukin 3 receptor, Y-Chromosomal   1	omim	430000
+Majewski's polydactyly syndrome	omim	263520
+Villin	omim	193040
+Villin  2 ezrin   1	omim	123900
+Interleukin-1 receptor	omim	147810
+Interleukin-1 receptor  interleukin 1 receptor, type II   1	omim	147811
+Interleukin-1 receptor  interleukin 1 receptor accessory protein   1	omim	602626
+Muckle–Wells syndrome	omim	191900
+Estrogen related receptor	omim	601998
+Estrogen related receptor  estrogen-related receptor beta   1	omim	602167
+Estrogen related receptor  estrogen-related receptor gamma   1	omim	602969
+Ectrodactyly–ectodermal dysplasia–cleft syndrome	omim	129900
+TNF receptor associated periodic syndrome	omim	142680
+Aspartoacylase	omim	608034
+Geranylgeranyltransferase type 1	omim	134635
+Geranylgeranyltransferase type 1  GGTase 1 β-subunit protein geranylgeranyl- transfe  1	omim	602031
+Rab geranylgeranyltransferase	omim	601905
+Rab geranylgeranyltransferase  , beta subunit   1	omim	179080
+Neonatal onset multisystem inflammatory disease	omim	607115
+1p36 deletion syndrome	omim	607872
+DNA clamp	omim	176740
+D-amino acid oxidase	omim	124050
+Uhl anomaly	omim	107970
+X-linked hypophosphatemia	omim	307800
+Hephaestin	omim	300167
+Medullary cystic kidney disease	omim	174000
+Amastia	omim	113700
+Apolipoprotein B deficiency	omim	107730
+Carbamoyl phosphate synthetase I deficiency	omim	237300
+Ethylmalonic encephalopathy	omim	602473
+Satoyoshi syndrome	omim	600705
+Duodenal cytochrome B	omim	605745
+CD3 (immunology)	omim	186790
+CD3 (immunology)  CD3e molecule, epsilon   1	omim	186830
+CD3 (immunology)  CD3g molecule, gamma   1	omim	186740
+Acute fatty liver of pregnancy	omim	609016
+Lymphedema–distichiasis syndrome	omim	153400
+Monoacylglycerol lipase	omim	609699
+Cerebrotendineous xanthomatosis	omim	213700
+Hepatoerythropoietic porphyria	omim	176100
+Hypohidrotic ectodermal dysplasia	omim	305100
+Arylsulfatase B	omim	253200
+Maroteaux–Lamy syndrome	omim	253200
+Aspartylglucosaminuria	omim	208400
+Rhizomelic chondrodysplasia punctata	omim	215100
+Emopamil binding protein	omim	300205
+Conradi–Hünermann syndrome	omim	302960
+Glyceronephosphate O-acyltransferase	omim	602744
+Alkylglycerone phosphate synthase	omim	603051
+Kindler syndrome	omim	173650
+Spinal disc herniation	omim	603932
+Sarcosinemia	omim	268900
+Sack–Barabas syndrome	omim	130050
+P14arf	omim	600160
+3-beta-HSD	omim	109715
+3-beta-HSD  hydroxy-Δ-5-steroid dehydrogenase,3β- and steroid   1	omim	201810
+Extracellular signal-regulated kinases	omim	176948
+Extracellular signal-regulated kinases  mitogen-activated protein kinase 3   1	omim	601795
+Familial hypercholesterolemia	omim	143890
+Pyruvate carboxylase deficiency	omim	266150
+Ollier disease	omim	166000
+Maffucci syndrome	omim	166000
+Neuroglobin	omim	605304
+Fetal hydantoin syndrome	omim	132810
+Kaufman oculocerebrofacial syndrome	omim	244450
+Cation channels of sperm	omim	606389
+Cation channels of sperm  cation channel, sperm associated 2   1	omim	607249
+Cation channels of sperm  cation channel, sperm associated 3   1	omim	609120
+Cation channels of sperm  cation channel, sperm associated 4   1	omim	609121
+Two-pore channel	omim	609666
+Transporter associated with antigen processing	omim	170260
+Transporter associated with antigen processing  transporter 2, ATP-binding cassette, sub-family B   1	omim	170261
+Generalized epilepsy with febrile seizures plus	omim	604233
+Protein losing enteropathy	omim	226300
+Cutis marmorata telangiectatica congenita	omim	219250
+Hypomagnesemia with secondary hypocalcemia	omim	602014
+Recombination activating gene	omim	179615
+Recombination activating gene  2   1	omim	179616
+Multiple epiphyseal dysplasia	omim	132400
+FAAH	omim	602935
+Benign familial neonatal convulsions	omim	121200
+Juvenile myoclonic epilepsy	omim	606904
+Cronkhite–Canada syndrome	omim	175500
+Calsequestrin	omim	114250
+Calsequestrin  2 cardiac muscle   1	omim	114251
+Autosomal dominant nocturnal frontal lobe epilepsy	omim	600513
+Sodium-calcium exchanger	omim	182305
+Sodium-calcium exchanger  solute carrier family 8 sodium-calcium exchanger ,  1	omim	601901
+Sodium-calcium exchanger  solute carrier family 8 sodium-calcium exchanger ,  2	omim	607991
+Alternating hemiplegia of childhood	omim	104290
+Lymphotoxin	omim	153440
+Lymphotoxin  beta TNF superfamily, member 3   1	omim	600978
+Glia maturation factor	omim	601713
+Glia maturation factor  , gamma   1	omim	604104
+Apoptosis-inducing factor	omim	300169
+Chimerin 1	omim	118423
+Son of Sevenless	omim	182530
+Son of Sevenless  on of sevenless homolog 2 Drosophila   1	omim	601247
+Neurocalcin	omim	606722
+Recoverin	omim	179618
+Myelin-associated glycoprotein	omim	159460
+Neuropilin	omim	602069
+Neuropilin  europilin 2   1	omim	602070
+Bactericidal/permeability increasing protein	omim	109195
+C-Jun N-terminal kinases	omim	601158
+C-Jun N-terminal kinases  mitogen-activated protein kinase 9   1	omim	602896
+C-Jun N-terminal kinases  mitogen-activated protein kinase 10   1	omim	602897
+P38 mitogen-activated protein kinases	omim	602898
+P38 mitogen-activated protein kinases  mitogen-activated protein kinase 12   1	omim	602399
+P38 mitogen-activated protein kinases  mitogen-activated protein kinase 13   1	omim	602899
+P38 mitogen-activated protein kinases  mitogen-activated protein kinase 14   1	omim	600289
+Olfactory marker protein	omim	164340
+Gray platelet syndrome	omim	139090
+ATP-sensitive potassium channel	omim	600935
+ATP-sensitive potassium channel  potassium inwardly-rectifying channel, subfamily J  1	omim	600937
+ATP-sensitive potassium channel  ATP-binding cassette, sub-family C CFTR/MRP , memb  1	omim	600509
+ATP-sensitive potassium channel  ATP-binding cassette, sub-family C CFTR/MRP , memb  2	omim	601439
+Phospholipase B	omim	610179
+Calponin	omim	600806
+Calponin  2   1	omim	602373
+Calponin  3, acidic   1	omim	602374
+Orosomucoid	omim	138600
+Orosomucoid  2   1	omim	138610
+Pannexin	omim	608420
+Pannexin  2   1	omim	608421
+Pannexin  3   1	omim	608422
+Craniofrontonasal syndrome	omim	304110
+Blepharophimosis	omim	110100
+White sponge nevus	omim	193900
+Athelia (disease)	omim	113700
+Alveolar soft part sarcoma	omim	606243
+Lecithin cholesterol acyltransferase deficiency	omim	245900
+Hemophagocytic lymphohistiocytosis	omim	267700
+Destrin	omim	609114
+Unverricht–Lundborg disease	omim	254800
+CCL28	omim	605240
+MCEF	omim	604417
+Marcus Gunn phenomenon	omim	154600
+Catecholaminergic polymorphic ventricular tachycardia	omim	604772
+Drug-induced lupus erythematosus	omim	152700
+Presenilin	omim	104311
+Presenilin  2 Alzheimer's disease 4   1	omim	600759
+Familial isolated vitamin E deficiency	omim	277460
+Mevalonate kinase deficiency	omim	251170
+Parry–Romberg syndrome	omim	141300
+Interleukin 33	omim	608678
+Interleukin 32	omim	606001
+Interleukin 30	omim	608273
+Interleukin 28	omim	607401
+Interleukin 28  B   1	omim	607402
+Interleukin 27	omim	608273
+Interleukin 27  Epstein-Barr virus induced 3   1	omim	605816
+Papillorenal syndrome	omim	120330
+Branchio-oto-renal syndrome	omim	113650
+Interleukin 20	omim	605619
+PDE3	omim	123805
+PDE3  phosphodiesterase 3B, cGMP-inhibited   1	omim	602047
+Interleukin 14	omim	608676
+Interleukin 17	omim	603149
+Interleukin 17  B   1	omim	604627
+Interleukin 17  C   1	omim	604628
+Interleukin 17  D   1	omim	607587
+Interleukin 17  E   1	omim	605658
+Interleukin 17  F   1	omim	606496
+Interleukin 19	omim	605687
+Spinocerebellar ataxia type-6	omim	183086
+Campomelic dysplasia	omim	114290
+Pseudoachondroplasia	omim	177170
+Aarskog–Scott syndrome	omim	100050
+Aase–Smith syndrome	omim	147800
+Sucrose intolerance	omim	222900
+Episodic ataxia	omim	160120
+Spinocerebellar ataxia type-13	omim	605259
+Blount's disease	omim	259200
+Congenital nephrotic syndrome	omim	600995
+Jansen's metaphyseal chondrodysplasia	omim	156400
+Juvenile polyposis syndrome	omim	174900
+Properdin deficiency	omim	312060
+Metaphyseal dysplasia	omim	265900
+Rapadilino syndrome	omim	266280
+Raine syndrome	omim	259775
+Estrogen insensitivity syndrome	omim	133430
+X-linked congenital stationary night blindness	omim	310500
+Myf5	omim	159990
+Tryptophan hydroxylase	omim	191060
+Tryptophan hydroxylase  2   1	omim	607478
+Serum amyloid A	omim	104750
+Serum amyloid A  Human Serum amyloid A2   1	omim	104751
+Serum amyloid A  Human Serum amyloid A4   1	omim	104752
+Melatonin receptor	omim	600665
+Melatonin receptor  1B   1	omim	600804
+Nasopharyngeal carcinoma	omim	161550
+MASS phenotype	omim	604308
+Myotonic dystrophy	omim	160900
+CCL1	omim	182281
+Enoyl-CoA hydratase	omim	607037
+ATP citrate lyase	omim	108728
+Inorganic pyrophosphatase	omim	179030
+Inorganic pyrophosphatase  inorganic 2   1	omim	609988
+Sodium/phosphate cotransporter	omim	182309
+Pyruvate dehydrogenase	omim	300502
+Pyruvate dehydrogenase  lipoamide alpha 2   1	omim	179061
+Pyruvate dehydrogenase  lipoamide beta   1	omim	179060
+Propionyl-CoA carboxylase	omim	232000
+Propionyl-CoA carboxylase  propionyl Coenzyme A carboxylase, beta polypeptide  1	omim	232050
+Glutathione synthetase deficiency	omim	266130
+Ornithine translocase deficiency	omim	238970
+Neuropathy, ataxia, and retinitis pigmentosa	omim	551500
+Podocin	omim	604766
+CCL13	omim	601391
+CCL25	omim	602565
+Complement receptor of the immunoglobulin family	omim	300353
+Polycystic liver disease	omim	174050
+Laron syndrome	omim	262500
+Fibrocystin	omim	606702
+CCL14	omim	601392
+CCL18	omim	603757
+CCL15	omim	601393
+CCL16	omim	601394
+Triosephosphate isomerase deficiency	omim	190450
+Townes–Brocks syndrome	omim	107480
+Actinic cheilitis	omim	118330
+Sakati-Nyhan-Tisdale syndrome	omim	101120
+C1Q complex	omim	120550
+C1Q complex  complement component 1, q subcomponent, B chain   1	omim	120570
+C1Q complex  complement component 1, q subcomponent, C chain   1	omim	120575
+Glutathione synthetase	omim	601002
+CCL23	omim	602494
+CCL24	omim	602495
+CCL26	omim	604697
+CCL27	omim	604833
+Naegeli–Franceschetti–Jadassohn syndrome	omim	161000
+Idiopathic pulmonary fibrosis	omim	178500
+CXCL2	omim	139110
+CXCL3	omim	139111
+Heterochromatin protein 1	omim	604478
+Heterochromatin protein 1  chromobox homolog 1   1	omim	604511
+Heterochromatin protein 1  chromobox homolog 3   1	omim	604477
+Myophosphorylase	omim	608455
+Dermatopathia pigmentosa reticularis	omim	125595
+Paracaspase	omim	604860
+CXCL14	omim	604186
+Emanuel syndrome	omim	609029
+Mitochondrial neurogastrointestinal encephalopathy syndrome	omim	603041
+SORL1	omim	602005
+Optic disc drusen	omim	177800
+Methylcrotonyl-CoA carboxylase	omim	609010
+Methylcrotonyl-CoA carboxylase  methylcrotonoyl-Coenzyme A carboxylase 2 beta   1	omim	609014
+Familial atrial fibrillation	omim	608583
+Hay–Wells syndrome	omim	106260
+Scleraxis	omim	609067
+Gallbladder disease	omim	600803
+Prolidase deficiency	omim	170100
+Procollagen peptidase	omim	164010
+Type-II collagen	omim	120140
+Type-I collagen	omim	120150
+Type-I collagen  , type I, alpha 2   1	omim	120160
+Antithrombin III deficiency	omim	613118
+Juvenile primary lateral sclerosis	omim	606353
+Atransferrinemia	omim	209300
+Neurokinin A	omim	162320
+Bethlem myopathy	omim	158810
+Muenke syndrome	omim	602849
+Phenylethanolamine N-methyltransferase	omim	171190
+Dent's disease	omim	300009
+Neurogranin	omim	602350
+Meckel syndrome	omim	249000
+NOEY2	omim	605193
+Microtubule nucleation	omim	191135
+Neurotensin receptor	omim	162651
+Neurotensin receptor  2   1	omim	605538
+Neurotensin receptor  sortilin 1   1	omim	602458
+Galanin receptor	omim	600377
+Galanin receptor  2   1	omim	603691
+Galanin receptor  3   1	omim	603692
+Corticotropin-releasing hormone receptor	omim	122561
+Corticotropin-releasing hormone receptor  corticotropin releasing hormone receptor 2   1	omim	602034
+TGF beta receptors	omim	190181
+TGF beta receptors  transforming growth factor beta, receptor type II   1	omim	190182
+TGF beta receptors  transforming growth factor beta, receptor type III  1	omim	600742
+TGF beta 3	omim	190230
+Sarcalumenin	omim	604992
+Parvalbumin	omim	168890
+Cocaine and amphetamine regulated transcript	omim	602606
+Membranoproliferative glomerulonephritis	omim	609814
+LSD1	omim	609132
+Rhodopsin kinase	omim	180381
+Serotonin N-acetyl transferase	omim	600950
+Sucrase-isomaltase	omim	609845
+CAD (gene)	omim	114010
+Dihydroorotate dehydrogenase	omim	126064
+Transferrin receptor	omim	190010
+Transferrin receptor  2   1	omim	604720
+Atrial natriuretic peptide receptor	omim	108960
+Atrial natriuretic peptide receptor  B/ guanylate cyclase   1	omim	108961
+Atrial natriuretic peptide receptor  C/ guanylate cyclase   1	omim	108962
+GLUT3	omim	138170
+Adenine nucleotide translocator	omim	103220
+Adenine nucleotide translocator  solute carrier family 25 mitochondrial carrier; ad  1	omim	300150
+Adenine nucleotide translocator  solute carrier family 25 mitochondrial carrier; ad  2	omim	403000
+Duodenal atresia	omim	223400
+Muir–Torre syndrome	omim	158320
+Neurophysin II	omim	192340
+Growth hormone-binding protein	omim	600946
+Oct-2	omim	164176
+Laforin	omim	607566
+Sorbitol dehydrogenase	omim	182500
+N-Acetylglucosamine receptor	omim	160994
+Complement component 4	omim	120810
+Complement component 4  B Childo blood group   1	omim	120820
+Chymase	omim	118938
+Serum and glucocorticoid induced kinase	omim	602958
+Monilethrix	omim	158000
+Sialoadhesin	omim	600751
+BMAL	omim	602550
+Butyryl CoA dehydrogenase	omim	606885
+Acetolactate synthase	omim	605770
+Timeless (gene)	omim	603887
+Classification of transsexuals	omim	600952
+Myf6	omim	159991
+Cellular apoptosis susceptibility protein	omim	601342
+CD33	omim	159590
+Interferon-alpha/beta receptor	omim	107450
+Interferon-alpha/beta receptor  interferon alpha, beta and omega receptor 2   1	omim	602376
+Interferon-gamma receptor	omim	107470
+Interferon-gamma receptor  interferon gamma receptor 2 interferon gamma trans  1	omim	147569
+Glutaryl-CoA dehydrogenase	omim	608801
+Apolipoprotein A2	omim	107670
+Glycerol kinase	omim	300474
+Acetyl-CoA C-acyltransferase	omim	604054
+Acetyl-CoA C-acyltransferase  acetyl-CoA acyltransferase 2 mitochondrial   1	omim	604770
+Acetyl-CoA C-acyltransferase  hydroxyacyl-CoA dehydrogenase/3-ketoacyl-CoA thiol  1	omim	143450
+Formyl peptide receptor	omim	136537
+Formyl peptide receptor  -like 1   1	omim	136538
+Formyl peptide receptor  -like 2   1	omim	136539
+Vesicular acetylcholine transporter	omim	600336
+T-type calcium channel	omim	604065
+T-type calcium channel  , voltage-dependent, T type, alpha   1	omim	607904
+T-type calcium channel  , voltage-dependent, T type, alpha   2	omim	608230
+Q-type calcium channel	omim	601011
+P-type calcium channel	omim	601011
+Granin	omim	118910
+Granin  chromogranin B secretogranin 1   1	omim	118920
+Granin  secretogranin II chromogranin C   1	omim	118930
+Granin  secretogranin III FLJ90833   1	omim	611796
+Granin  secretogranin V 7B2 protein   1	omim	173120
+OX40L	omim	603594
+CD70	omim	602840
+CD153	omim	603875
+EEA1	omim	605070
+NPAS3	omim	609430
+CXC chemokine receptors	omim	146929
+CXC chemokine receptors  CXCR2   1	omim	146928
+CXC chemokine receptors  CXCR3   1	omim	300574
+CXC chemokine receptors  CXCR4   1	omim	162643
+CXC chemokine receptors  CXCR5   1	omim	601613
+CXC chemokine receptors  CXCR6   1	omim	605163
+CC chemokine receptors	omim	601159
+CC chemokine receptors  CCR2   1	omim	601268
+CC chemokine receptors  CCR3   1	omim	601268
+CC chemokine receptors  CCR4   1	omim	604836
+CC chemokine receptors  CCR5   1	omim	601373
+CC chemokine receptors  CCR6   1	omim	601835
+CC chemokine receptors  CCR7   1	omim	600242
+CC chemokine receptors  CCR8   1	omim	601834
+CC chemokine receptors  CCR9   1	omim	604738
+CC chemokine receptors  CCR10   1	omim	600240
+Ras-GRF1	omim	606600
+Odorant binding protein	omim	164320
+Odorant binding protein  2B   1	omim	604606
+STRA6	omim	610745
+Synaptojanin	omim	604297
+Synaptojanin  2   1	omim	609410
+Low-molecular-weight kininogen	omim	612358
+Cyclin D	omim	168461
+Cyclin D  2   1	omim	123833
+Cyclin D  3   1	omim	123834
+Pleckstrin	omim	173570
+Transcription factor II H	omim	189972
+Transcription factor II H  general transcription factor IIH, polypeptide 2, 4  1	omim	601748
+Transcription factor II H  general transcription factor IIH, polypeptide 3, 3  1	omim	601750
+Branchial cleft cyst	omim	113600
+Long-chain-aldehyde dehydrogenase	omim	609523
+3-hydroxy-3-methylglutaryl-CoA lyase	omim	246450
+Oguchi disease	omim	258100
+Wallis Zieff Goldblatt syndrome	omim	119650
+Neuromedin B	omim	162340
+Melanin-concentrating hormone receptor	omim	601751
+Melanin-concentrating hormone receptor  2   1	omim	606111
+LEM domain-containing protein 3	omim	607844
+Lamin B	omim	150340
+Lamin B  2   1	omim	150341
+Zinc metalloproteinase STE24	omim	606480
+Rabson–Mendenhall syndrome	omim	262190
+May-Hegglin anomaly	omim	155100
+Long-chain-fatty-acid—CoA ligase	omim	152425
+Type XVIII collagen	omim	120328
+CXCL6	omim	138965
+CXCL16	omim	605398
+XCL1	omim	600250
+XCL2	omim	604828
+Phospholipase A1	omim	607460
+Fitzsimmons-Guilbert syndrome	omim	270710
+ERM transcription factor	omim	601600
+Currarino syndrome	omim	176450
+Epidermodysplasia verruciformis	omim	226400
+APH-1	omim	607629
+APH-1  anterior pharynx defective 1 homolog B C. elegans   1	omim	607630
+PEN-2	omim	607632
+Aldehyde oxidase	omim	602841
+Pipecolic acidemia	omim	239400
+FXYD6	omim	606683
+Peters-plus syndrome	omim	261540
+2-hydroxyphytanoyl-CoA lyase	omim	604300
+ALMS1	omim	606844
+STAT5	omim	601511
+STAT5  signal transducer and activator of transcription 5  1	omim	604260
+Mannose receptor	omim	153618
+CD52	omim	114280
+Galactokinase deficiency	omim	230200
+Sulfonylurea receptor	omim	600509
+Sulfonylurea receptor  ATP-binding cassette, sub-family C CFTR/MRP , memb  1	omim	601439
+Fascin	omim	602689
+Fascin  homolog, retinal   1	omim	607643
+CD79	omim	112205
+CD79  b molecule, immunoglobulin-associated beta   1	omim	147245
+CD68	omim	153634
+Aldolase A deficiency	omim	611881
+Glycogen storage disease type VI	omim	232700
+PHLPP	omim	609396
+PHLPP  H domain and leucine rich repeat protein phosphat  1	omim	611066
+Glutaminase	omim	138280
+Glutaminase  2 liver, mitochondrial   1	omim	606365
+HADHA	omim	600890
+Lysosomal lipase	omim	278000
+Lipoprotein lipase deficiency	omim	238600
+VEGF receptors	omim	165070
+VEGF receptors  kinase insert domain receptor a type III receptor   1	omim	191306
+VEGF receptors  fms-related tyrosine kinase 4   1	omim	136352
+Persephin	omim	602921
+Angiopoietin receptor	omim	600222
+Angiopoietin receptor  TEK tyrosine kinase, endothelial   1	omim	600221
+17-beta-hydroxysteroid dehydrogenase deficiency	omim	264300
+Bulbar palsy	omim	211530
+Lysosomal trafficking regulator	omim	606897
+Serine hydroxymethyltransferase	omim	182144
+Serine hydroxymethyltransferase  rine hydroxymethyltransferase 2 mitochondrial   1	omim	138450
+Phosphogluconate dehydrogenase	omim	172200
+Transaldolase	omim	602063
+Phosphopentose isomerase	omim	180430
+Paroxysmal nonkinesigenic dyskinesia	omim	118800
+3-hydroxyacyl-coenzyme A dehydrogenase deficiency	omim	601609
+C8 complex	omim	120950
+C8 complex  complement component 8, beta polypeptide   1	omim	1209660
+C8 complex  complement component 8, gamma polypeptide   1	omim	120930
+Talin protein	omim	186745
+Talin protein  talin 2   1	omim	607349
+UTP—glucose-1-phosphate uridylyltransferase	omim	191750
+UTP—glucose-1-phosphate uridylyltransferase  UDP&ndash;glucose pyrophosphorylase 2   1	omim	191760
+6-phosphogluconolactonase	omim	604951
+CD64 (biology)	omim	146760
+CD64 (biology)  Fc fragment of IgG, high affinity Ib, receptor CD6  1	omim	601502
+CD64 (biology)  Fc fragment of IgG, high affinity Ic, receptor CD6  1	omim	601503
+CD16	omim	146740
+CD16  Fc fragment of IgG, low affinity IIIb, receptor CD  1	omim	610665
+Neonatal Fc receptor	omim	601437
+Fcα/μR	omim	605484
+Arterial tortuosity syndrome	omim	208050
+Twenty-nail dystrophy	omim	605799
+Peroxin-7	omim	601757
+CYP3A7	omim	605340
+ITCH (biology)	omim	606409
+Acrodysostosis	omim	101800
+Potassium-aggravated myotonia	omim	608390
+Diabetes mellitus and deafness	omim	520000
+Carnitine palmitoyltransferase I	omim	600528
+Carnitine palmitoyltransferase I  carnitine palmitoyltransferase 1B muscle   1	omim	601987
+Carnitine palmitoyltransferase I  carnitine palmitoyltransferase 1C brain   1	omim	608846
+Ablepharon macrostomia syndrome	omim	200110
+PDIA3	omim	602046
+KLRA1	omim	604274
+NKG2	omim	161555
+4-1BB ligand	omim	606182
+Zimmermann–Laband syndrome	omim	135500
+Rosselli-Gulienetti syndrome	omim	225000
+Biotinidase	omim	609019
+Ribosomal protein s6	omim	180460
+Zunich–Kaye syndrome	omim	280000
+Zonular cataract and nystagmus	omim	315000
+Zori–Stalker–Williams syndrome	omim	600399
+Yunis–Varon syndrome	omim	216340
+STARD3	omim	607048
+CD58	omim	153420
+Delta catenin	omim	601045
+Delta catenin  cadherin-associated protein , delta 2 neur  1	omim	604275
+Alpha catenin	omim	116805
+Alpha catenin  cadherin-associated protein , alpha 2   1	omim	114025
+Alpha catenin  cadherin-associated protein , alpha 3   1	omim	607667
+Purine nucleoside phosphorylase deficiency	omim	613179
+Urotensin-II    1	omim	604097
+Potassium-dependent sodium-calcium exchanger	omim	603617
+Potassium-dependent sodium-calcium exchanger  solute carrier family 24, member 2   1	omim	609838
+Potassium-dependent sodium-calcium exchanger  solute carrier family 24, member 3   1	omim	609839
+Potassium-dependent sodium-calcium exchanger  solute carrier family 24, member 4   1	omim	609840
+Potassium-dependent sodium-calcium exchanger  solute carrier family 24, member 5   1	omim	609802
+Potassium-dependent sodium-calcium exchanger  solute carrier family 24, member 6   1	omim	609841
+Beta-ketoacyl-ACP synthase	omim	610324
+3-Hydroxyacyl ACP dehydrase	omim	607037
+2,4 Dienoyl-CoA reductase	omim	222745
+Farnesyl-diphosphate farnesyltransferase	omim	184420
+Lanosterol 14 alpha-demethylase	omim	601637
+Isopentenyl-diphosphate delta isomerase	omim	604055
+HMG-CoA synthase	omim	142940
+HMG-CoA synthase  3-hydroxy-3-methylglutaryl-Coenzyme A synthase 2 m  1	omim	600234
+Phosphomevalonate kinase	omim	607622
+Pyrophosphomevalonate decarboxylase	omim	603236
+Renal glycosuria	omim	233100
+L-xylulose reductase	omim	608347
+Pentosuria	omim	260800
+3C syndrome	omim	220210
+Homogentisate 1,2-dioxygenase	omim	607474
+Ornithine translocase	omim	603861
+Carnitine-acylcarnitine translocase	omim	212138
+Glycerol-3-phosphate dehydrogenase	omim	138420
+Glycerol-3-phosphate dehydrogenase  2 mitochondrial  1	omim	138430
+DeSanctis–Cacchione syndrome	omim	278800
+TRIF	omim	607601
+Methylmalonyl CoA epimerase	omim	608419
+ACADSB	omim	600301
+Mannose 6-phosphate receptor	omim	154540
+Mannose 6-phosphate receptor  Cation-independent mannose-6 phosphate receptor   1	omim	147280
+D-bifunctional protein deficiency	omim	261515
+Dubowitz syndrome	omim	223370
+Caspase 4	omim	602664
+Prostaglandin transporter	omim	601460
+Prostaglandin E synthase	omim	605172
+Prostaglandin E synthase  2 microsomal   1	omim	608152
+Prostaglandin E synthase  3 cytosolic   1	omim	607061
+Caspase 5	omim	602665
+Galactose epimerase deficiency	omim	230350
+Renal dysplasia-limb defects syndrome	omim	266910
+Acyltransferase like 2	omim	610472
+Alpha-N-acetylglucosaminidase	omim	609701
+N-acetylglucosamine-6-sulfatase	omim	607664
+Mannose phosphate isomerase	omim	154550
+Hepatic fructokinase	omim	229800
+Essential fructosuria	omim	229800
+Uncombable hair syndrome	omim	191480
+Upington disease	omim	191520
+Urban-Rogers-Meyer syndrome	omim	264010
+Galactose-1-phosphate uridylyltransferase galactosemia	omim	230400
+Dimethylallyltranstransferase	omim	134629
+Caspase 12	omim	608633
+Receptor activity-modifying protein	omim	605153
+Receptor activity-modifying protein  2   1	omim	605154
+Receptor activity-modifying protein  3   1	omim	605155
+Diastomatomyelia	omim	222500
+HLA-DM	omim	142855
+HLA-DM  ajor histocompatibility complex, class II, DM bet  1	omim	142856
+Hepatocyte nuclear factors	omim	142410
+Hepatocyte nuclear factors  hepatocyte nuclear factor 1, beta   1	omim	189907
+Hepatocyte nuclear factors  hepatocyte nuclear factor 3,alpha   1	omim	602294
+Hepatocyte nuclear factors  hepatocyte nuclear factor 3,beta   1	omim	600288
+Hepatocyte nuclear factors  hepatocyte nuclear factor 3,gamma   1	omim	602295
+Hepatocyte nuclear factors  hepatocyte nuclear factor 4alpha   1	omim	600281
+Hepatocyte nuclear factors  hepatocyte nuclear factor 4gamma   1	omim	605966
+Hepatocyte nuclear factors  hepatocyte nuclear factor 6, alpha   1	omim	604164
+Hepatocyte nuclear factors  hepatocyte nuclear factor 6, beta   1	omim	604894
+Complement deficiency	omim	217000
+Carboxypeptidase B	omim	114852
+Carboxypeptidase B  2 plasma   1	omim	603101
+Methionine adenosyltransferase	omim	250850
+Methionine adenosyltransferase  II, alpha   1	omim	601468
+Methionine adenosyltransferase  II, beta   1	omim	605527
+Atypical teratoid rhabdoid tumor	omim	609322
+Glutamyl aminopeptidase	omim	138297
+Leucyl aminopeptidase	omim	170250
+Intracranial berry aneurysm	omim	105800
+Juvenile myelomonocytic leukemia	omim	607785
+Allan–Herndon–Dudley syndrome	omim	300523
+Carbamoyl phosphate synthase II	omim	114010
+Dihydroorotase	omim	114010
+Orotic aciduria	omim	258900
+IMP dehydrogenase	omim	146690
+IMP dehydrogenase  2   1	omim	146691
+GMP reductase	omim	139265
+GMP reductase  guanosine monophosphate reductase 2   1	omim	610781
+Adenylosuccinate lyase	omim	608222
+Adenylosuccinate synthase	omim	103060
+Adenylosuccinate synthase  like 1   1	omim	612498
+TIRAP	omim	606252
+Period (gene)	omim	602260
+Period (gene)  period homolog 2 Drosophila   1	omim	603426
+Period (gene)  period homolog 3 Drosophila   1	omim	603427
+CLEC4C	omim	606677
+Polynucleotide phosphorylase	omim	610316
+Congenital contractural arachnodactyly	omim	121050
+Serine dehydratase	omim	182128
+Surfactant protein A	omim	178630
+Surfactant protein A  surfactant, pulmonary-associated protein A2B   1	omim	178642
+Surfactant protein B	omim	178640
+Surfactant protein C	omim	178620
+Collectin liver 1	omim	607620
+Cat eye syndrome	omim	115470
+Ornithine aminotransferase	omim	258870
+Branched chain aminotransferase	omim	113530
+De Vivo disease	omim	606777
+SLC39A4	omim	607059
+Ribose-phosphate diphosphokinase	omim	311850
+Ribose-phosphate diphosphokinase  phosphoribosyl pyrophosphate synthetase 2   1	omim	311860
+Guanine deaminase	omim	139260
+Adenosylhomocysteinase	omim	180960
+Cystathionine gamma-lyase	omim	607657
+Adenosylmethionine decarboxylase	omim	180980
+Phosphoribosylaminoimidazole carboxylase	omim	172439
+Folliculin	omim	607273
+Tyrosine aminotransferase	omim	276600
+Tyrosylprotein sulfotransferase	omim	603125
+Tyrosylprotein sulfotransferase  2   1	omim	603126
+Iron-responsive element-binding protein	omim	100880
+Iron-responsive element-binding protein  2   1	omim	147582
+Serine racemase	omim	606477
+RAI1	omim	607642
+SLC7A9	omim	604144
+Cystathioninuria	omim	219500
+Formiminotransferase cyclodeaminase	omim	606806
+Amine oxidase	omim	104610
+Histamine N-methyltransferase	omim	605238
+Asparagine synthetase	omim	108370
+Translationally controlled tumour protein	omim	600763
+N-acetylglucosamine-1-phosphate transferase	omim	607840
+N-acetylglucosamine-1-phosphate transferase  , gamma  1	omim	607838
+Epididymal secretory protein E1	omim	601015
+Methylglutaconyl-CoA hydratase	omim	600529
+Citrin	omim	603859
+Cornelia de Lange Syndrome	omim	122470
+Transcription factor II A	omim	600520
+Transcription factor II A  general transcription factor IIA, 2, 12kDa   1	omim	600519
+Feingold syndrome	omim	164280
+CD120	omim	191190
+CD120  tumor necrosis factor receptor superfamily, member  1	omim	191191
+ETM2 (gene)	omim	602134
+ETM1	omim	190300
+DCMP deaminase	omim	607638
+Aminomethyltransferase	omim	238310
+Noncompaction cardiomyopathy	omim	601493
+Cardiotrophin 1	omim	600435
+CSF2RB	omim	138981
+Nephronophthisis	omim	256100
+Anti-Müllerian hormone receptor	omim	600956
+Latent TGF-beta binding protein	omim	150390
+Latent TGF-beta binding protein  latent transforming growth factor beta binding pro  1	omim	602091
+Latent TGF-beta binding protein  latent transforming growth factor beta binding pro  2	omim	602090
+Latent TGF-beta binding protein  latent transforming growth factor beta binding pro  3	omim	604710
+Gremlin (protein)	omim	603054
+Gremlin (protein)  gremlin 2, cysteine knot superfamily, homolog Xeno  1	omim	608832
+Polypyrimidine tract-binding protein	omim	600693
+Polypyrimidine tract-binding protein  polypyrimidine tract binding protein 2   1	omim	608449
+Nuclear cap-binding protein complex  Nuclear cap binding protein subunit 2, 20kDa   1	omim	605133
+Leukoencephalopathy with vanishing white matter	omim	603896
+BRN-3	omim	601632
+BRN-3  POU class 4 homeobox 2   1	omim	113725
+BRN-3  POU class 4 homeobox 3   1	omim	602460
+Translocated promoter region	omim	189940
+Gustducin	omim	139395
+Gustducin  guanine nucleotide binding protein G protein , bet  1	omim	139380
+Gustducin  guanine nucleotide binding protein G protein , gam  1	omim	607298
+Gs alpha subunit	omim	139320
+Gq alpha subunit	omim	600998
+Gq alpha subunit  guanine nucleotide binding protein G protein , alp  1	omim	139313
+Gq alpha subunit  guanine nucleotide binding protein G protein , alp  2	omim	604397
+Gq alpha subunit  guanine nucleotide binding protein G protein , alp  3	omim	139314
+TRPA (channel)	omim	604775
+Gi alpha subunit	omim	139310
+Gi alpha subunit  guanine nucleotide-binding protein G protein , alp  1	omim	139360
+Gi alpha subunit  guanine nucleotide-binding protein G protein , alp  2	omim	139370
+STAT4	omim	600558
+NPAS1	omim	603346
+Young's syndrome	omim	279000
+G12/G13 alpha subunits	omim	604394
+G12/G13 alpha subunits  guanine nucleotide-binding protein G protein , alp  1	omim	604406
+Rap GTP-binding protein	omim	179520
+Rap GTP-binding protein  RAP1B,member of RAS oncogene family   1	omim	179530
+XRN1	omim	607994
+Young Simpson syndrome	omim	603736
+NIPBL	omim	608667
+Pearson syndrome	omim	557000
+ATP2A2	omim	108740
+Netherton syndrome	omim	256500
+Weaver syndrome	omim	277590
+Vici syndrome	omim	242840
+Epidermolysis bullosa dystrophica	omim	131750
+Leprecan	omim	610339
+WHIM syndrome	omim	193670
+RAR-related orphan receptor	omim	600825
+RAR-related orphan receptor  AR-related orphan receptor B beta   1	omim	601972
+RAR-related orphan receptor  AR-related orphan receptor C gamma   1	omim	602943
+Rev-ErbA	omim	602408
+Rev-ErbA  nuclear receptor subfamily 1, group D, member 2   1	omim	602304
+Testicular receptor	omim	601529
+Testicular receptor  nuclear receptor subfamily 2, group C, member 2   1	omim	601426
+Chicken ovalbumin upstream promoter-transcription factor	omim	132890
+Chicken ovalbumin upstream promoter-transcription factor  nuclear receptor subfamily 2, group F, member 2   1	omim	107773
+NSD1	omim	606681
+Infantile Refsum disease	omim	266510
+Syncoilin	omim	611750
+Synemin	omim	606087
+Sarcospan	omim	601599
+Nebulette	omim	605491
+SH3BP2	omim	602104
+HPLH1	omim	267700
+Keratin 6B	omim	148042
+CARM1	omim	603934
+Dystrobrevin	omim	601239
+Dystrobrevin  , beta   1	omim	602415
+Bietti's crystalline dystrophy	omim	210370
+Adrenomyeloneuropathy	omim	300100
+KLF1	omim	600599
+GLUT8	omim	605245
+Transcription factor II E	omim	189962
+Transcription factor II E  general transcription factor IIE, polypeptide 2, b  1	omim	189964
+Transcription factor II F	omim	189968
+Transcription factor II F  general transcription factor IIF, polypeptide 2, 3  1	omim	189969
+Nucleoporin 210kDa	omim	607703
+Sp100 nuclear antigen	omim	604585
+Kuru (disease)	omim	245300
+Activating protein 2	omim	107580
+Activating protein 2  transcription factor AP-2 beta activating enhancer  1	omim	601601
+Activating protein 2  transcription factor AP-2 gamma activating enhance  1	omim	601602
+Activating protein 2  transcription factor AP-2 delta activating enhance  1	omim	610161
+Glucose-galactose malabsorption	omim	182380
+Guanidinoacetate methyltransferase deficiency	omim	601240
+Hyperprolinemia	omim	239500
+Infantile neuroaxonal dystrophy	omim	256600
+Guillain–Barré syndrome	omim	139393
+GLUT5	omim	138230
+Electron-transferring-flavoprotein dehydrogenase	omim	231675
+Familial encephalopathy with neuroserpin inclusion bodies	omim	604218
+P87PIKAP	omim	164730
+Group 1 CD1	omim	188370
+Group 1 CD1  b molecule   1	omim	188360
+Group 1 CD1  c molecule   1	omim	188340
+Ramsay Hunt syndrome type I	omim	213400
+EVC2	omim	607261
+EVC (gene)	omim	604831
+Diglyceride acyltransferase	omim	604900
+Diglyceride acyltransferase  diacylglycerol O-acyltransferase homolog 2 mouse   1	omim	606983
+Chronic progressive external ophthalmoplegia	omim	157640
+D-amino acid oxidase activator	omim	607408
+Rothmund–Thomson syndrome	omim	268400
+Paroxysmal extreme pain disorder	omim	167400
+IL22RA2	omim	606648
+Buschke–Ollendorff syndrome	omim	166700
+EGF module-containing mucin-like hormone receptor	omim	600493
+EGF module-containing mucin-like hormone receptor  egf-like module containing, mucin-like, hormone re  1	omim	606100
+EGF module-containing mucin-like hormone receptor  egf-like module containing, mucin-like, hormone re  2	omim	606101
+Fukutin-related protein	omim	606596
+Orexin receptor	omim	602392
+Orexin receptor  hypocretin orexin receptor 2   1	omim	602393
+Neuromedin U receptor	omim	604153
+Neuromedin U receptor  2   1	omim	605108
+Prokineticin receptor	omim	607122
+Prokineticin receptor  2   1	omim	607123
+Prokineticin	omim	606233
+Prokineticin  2   1	omim	607002
+Free fatty acid receptor	omim	603820
+Free fatty acid receptor  2   1	omim	603823
+Free fatty acid receptor  3   1	omim	603821
+Free fatty acid receptor  G protein-coupled receptor 42   1	omim	603822
+SREB	omim	605187
+SREB  G protein-coupled receptor 85   1	omim	605188
+SREB  G protein-coupled receptor 173   1	omim	300253
+Neuromedin U	omim	605103
+HMGA	omim	600701
+HMGA  high mobility group AT-hook 2   1	omim	600698
+TIA1	omim	603518
+ICAM4	omim	111250
+Formins	omim	136535
+Formins  formin 2   1	omim	606373
+Retinoic acid-inducible orphan G protein-coupled receptor	omim	604138
+Retinoic acid-inducible orphan G protein-coupled receptor  G protein coupled receptor, family C, group 5, mem  1	omim	605948
+Retinoic acid-inducible orphan G protein-coupled receptor  , family C, group 5, mem  1	omim	605949
+Retinoic acid-inducible orphan G protein-coupled receptor  , family C, group 5, mem  2	omim	607437
+Relaxin receptor	omim	606654
+Relaxin receptor  elaxin/insulin-like family peptide receptor 2   1	omim	606655
+Relaxin receptor  elaxin/insulin-like family peptide receptor 3   1	omim	609445
+Relaxin receptor  elaxin/insulin-like family peptide receptor 4   1	omim	609043
+Coffin–Siris syndrome	omim	135900
+4-Aminobutyrate aminotransferase	omim	137150
+GUCY2D	omim	600179
+VPS13B	omim	607817
+Mirhosseini-Holmes-Walton syndrome	omim	268050
+Senior-Løken syndrome	omim	266900
+CAMFAK syndrome	omim	212540
+Brunner syndrome	omim	300615
+Barraquer–Simons syndrome	omim	608709
+Pelger-Huet anomaly	omim	169400
+IκB kinase	omim	600664
+IκB kinase  inhibitor of kappa light polypeptide gene enhancer  1	omim	603258
+IκB kinase  inhibitor of kappa light polypeptide gene enhancer  2	omim	300248
+NPC1L1	omim	608010
+Hereditary neuralgic amyotrophy	omim	162100
+Cholest-5-ene-3beta,7alpha-diol 3beta-dehydrogenase	omim	607764
+3-hydroxyacyl-CoA dehydrogenase	omim	601609
+Spondylocostal dysostosis	omim	277300
+MAS1 oncogene	omim	165180
+MAS1 oncogene  -like   1	omim	607235
+Endothelial lipase	omim	603684
+Gastric lipase	omim	601980
+Betaine—homocysteine S-methyltransferase	omim	602888
+Betaine—homocysteine S-methyltransferase  betaine-homocysteine methyltransferase 2   1	omim	605932
+Phytanoyl-CoA dioxygenase	omim	602026
+Neuropeptide B/W receptor	omim	600730
+Neuropeptide B/W receptor  neuropeptides B/W receptor 2   1	omim	600731
+Neuropeptide FF receptor	omim	607448
+Neuropeptide FF receptor  2   1	omim	607449
+HSPA1B	omim	603012
+HLA-DO	omim	142930
+HLA-DO  major histocompatibility complex, class II, DO bet  1	omim	600629
+Microvillous inclusion disease	omim	251850
+Interleukin-7 receptor	omim	146661
+Interleukin-7 receptor  interleukin 2 receptor, gamma   1	omim	308380
+Marshall–Smith syndrome	omim	602535
+UDP-glucose 4-epimerase	omim	606953
+Leukotriene-A4 hydrolase	omim	151570
+Steatocystoma multiplex	omim	184500
+Hypervalinemia	omim	277100
+Membrane-bound transcription factor peptidase, site 1	omim	603355
+Membrane-bound transcription factor peptidase, site 2	omim	300294
+Rac3	omim	602050
+Acylphosphatase	omim	600875
+Acylphosphatase  2, muscle type   1	omim	102595
+USP26	omim	300309
+MT-TL1	omim	590050
+MT-TH	omim	590040
+MT-ND5	omim	516005
+Brain-specific angiogenesis inhibitor	omim	602682
+Brain-specific angiogenesis inhibitor  2   1	omim	602683
+Brain-specific angiogenesis inhibitor  3   1	omim	602684
+Ohtahara syndrome	omim	308350
+Infantile progressive bulbar palsy	omim	211530
+Sertoli cell-only syndrome	omim	305700
+Dimethylargininase	omim	604743
+Dimethylargininase  dimethylarginine dimethylaminohydrolase 2   1	omim	604744
+Norman-Roberts syndrome	omim	257320
+Acetyl-CoA C-acetyltransferase	omim	607809
+Acetyl-CoA C-acetyltransferase  acetyl-Coenzyme A acetyltransferase 2 acetoacetyl   1	omim	100678
+Cutis verticis gyrata	omim	219300
+Serine C-palmitoyltransferase  rine palmitoyltransferase, long chain base subun  1	omim	605712
+Serine C-palmitoyltransferase  rine palmitoyltransferase, long chain base subun  2	omim	605713
+Serine C-palmitoyltransferase  rine palmitoyltransferase, long chain base subun  3	omim	611120
+Sterol O-acyltransferase	omim	102642
+Sterol O-acyltransferase  2   1	omim	601311
+Restrictive dermopathy	omim	275210
+VLDLR-associated cerebellar hypoplasia	omim	224050
+Latrophilin receptor  latrophilin 2   1	omim	607018
+Huntingtin-associated protein 1	omim	600947
+Lactate dehydrogenase	omim	150000
+Lactate dehydrogenase  B subunit H   1	omim	150100
+Lactate dehydrogenase  C   1	omim	150150
+Coloboma of optic nerve	omim	120430
+Acropachy	omim	119900
+Interleukin-18 receptor	omim	604494
+Interleukin-18 receptor  interleukin 18 receptor accessory protein   1	omim	604509
+Palmitoyl protein thioesterase	omim	600722
+Palmitoyl protein thioesterase  palmitoyl-protein thioesterase 2   1	omim	603298
+VGF	omim	602186
+Follicular thyroid cancer	omim	188470
+Medullary thyroid cancer	omim	155240
+Melorheostosis	omim	155950
+Osteopoikilosis	omim	166700
+Calcium-binding protein 1	omim	605563
+Hepatic veno-occlusive disease	omim	235550
+Neurogenins	omim	601726
+Neurogenins  neurogenin 2   1	omim	606624
+Neurogenins  neurogenin 3   1	omim	604882
+Schinzel–Giedion syndrome	omim	269150
+Revesz syndrome	omim	268130
+Oculodentodigital dysplasia	omim	164200
+G protein-coupled inwardly-rectifying potassium channel	omim	601534
+G protein-coupled inwardly-rectifying potassium channel  potassium inwardly-rectifying channel, subfamily J  1	omim	600877
+G protein-coupled inwardly-rectifying potassium channel  potassium inwardly-rectifying channel, subfamily J  2	omim	600932
+G protein-coupled inwardly-rectifying potassium channel  potassium inwardly-rectifying channel, subfamily J  3	omim	600734
+ZMPSTE24	omim	606480
+Interleukin-5 receptor	omim	147851
+Interleukin-5 receptor  colony stimulating factor 2 receptor, beta, low-af  1	omim	138981
+Interleukin-13 receptor	omim	300119
+Interleukin-13 receptor  interleukin 13 receptor, alpha 2   1	omim	300130
+Interleukin-13 receptor  interleukin 4 receptor   1	omim	147781
+Interleukin-11 receptor	omim	600939
+Interleukin-12 receptor	omim	601604
+Interleukin-12 receptor  beta 2 subunit, interleukin 12 receptor, beta 2   1	omim	601642
+Interleukin-15 receptor	omim	601070
+Interleukin-15 receptor  interleukin 2 receptor, beta   1	omim	146710
+Interleukin-15 receptor  interleukin 2 receptor, gamma severe combined immu  1	omim	308380
+Interleukin-27 receptor	omim	605350
+Interleukin-27 receptor  interleukin 6 signal transducer gp130, oncostatin   1	omim	600694
+Interleukin-10 receptor	omim	146933
+Interleukin-10 receptor  interleukin 10 receptor, beta   1	omim	123889
+Interleukin-20 receptor	omim	605620
+Interleukin-20 receptor  interleukin 20 receptor beta   1	omim	605621
+Interleukin-22 receptor	omim	605457
+Interleukin-22 receptor  interleukin 22 receptor, alpha 2   1	omim	606648
+Interleukin-28 receptor	omim	607404
+Interleukin-28 receptor  interleukin 10 receptor, beta   1	omim	123889
+Interleukin-8 receptor	omim	146929
+Interleukin-8 receptor  interleukin 8 receptor, beta   1	omim	146928
+Lhermitte–Duclos disease	omim	158350
+BTBD9	omim	611237
+Ciliary neurotrophic factor receptor	omim	118946
+Keutel syndrome	omim	245150
+Hepatitis B	omim	610424
+Tracheobronchomegaly	omim	275300
+Camurati-Engelmann disease	omim	131300
+X-linked lymphoproliferative disease	omim	308240
+Interleukin-17 receptor	omim	605461
+Interleukin-17 receptor  interleukin 17 receptor B   1	omim	605458
+Interleukin-17 receptor  interleukin 17 receptor C   1	omim	610925
+Interleukin-17 receptor  interleukin 17 receptor D   1	omim	606807
+Micro syndrome	omim	600118
+Aicardi–Goutières syndrome	omim	225750
+Esthesioneuroblastoma	omim	133450
+Weill-Marchesani syndrome	omim	608328
+Conorenal syndrome	omim	266920
+Quebec platelet disorder	omim	601709
+Hip dysplasia (human)	omim	142700
+Central core disease	omim	117000
+Multiple sulfatase deficiency	omim	272200
+Woodhouse–Sakati syndrome	omim	241080
+Urocanic aciduria	omim	276880
+Dentatorubral-pallidoluysian atrophy	omim	125370
+Antley-Bixler syndrome	omim	207410
+Beta-mannosidosis	omim	248510
+Winchester syndrome	omim	259600
+Hexokinase deficiency	omim	235700
+Boomerang dysplasia	omim	112310
+Microcephalic osteodysplastic primordial dwarfism type II	omim	210720
+Carnosinemia	omim	212200
+Acrocallosal syndrome	omim	200990
+Glycogen storage disease type XI	omim	227810
+Glycogen storage disease type IX	omim	306000
+LCA9	omim	608553
+Hypoalphalipoproteinemia	omim	604091
+Pycnodysostosis	omim	265800
+Paraoxonase	omim	168820
+Paraoxonase  2   1	omim	602447
+Paraoxonase  3   1	omim	602720
+Diffuse panbronchiolitis	omim	604809
+Jansky-Bielschowsky disease	omim	204500
+Chylomicron retention disease	omim	246700
+GHB receptor	omim	607882
+Familial cold urticaria	omim	120100
+EEM syndrome	omim	225280
+3-M syndrome	omim	273750
+TTBK2	omim	611695
+Hereditary sensory and autonomic neuropathy	omim	162400
+HSN2	omim	608620
+Renal-hepatic-pancreatic dysplasia	omim	208540
+Chronic mucocutaneous candidiasis	omim	607644
+Juvenile hemochromatosis	omim	602390
+ITPKC	omim	606476
+Galactosialidosis	omim	256540
+AL amyloidosis	omim	254500
+Finnish type amyloidosis	omim	105120
+Type I tyrosinemia	omim	276700
+Tyrosinemia type III	omim	276710
+PARK11	omim	607688
+GRIK4	omim	600282
+Multiple endocrine neoplasia type 2b	omim	162300
+Familial renal amyloidosis	omim	105200
+Primary cutaneous amyloidosis	omim	105250
+Tricho-hepato-enteric syndrome	omim	222470
+Repulsive guidance molecule	omim	607362
+Repulsive guidance molecule  RGM domain family, member B   1	omim	612687
+Repulsive guidance molecule  hemochromatosis type 2   1	omim	608374
+FKBP6	omim	604839
+Marden–Walker syndrome	omim	248700
+GRINL1B	omim	608311
+ANK2	omim	106410
+HSP90AA2	omim	140575
+Orofaciodigital syndrome 1	omim	311200
+HSPA7	omim	140556
+HSPA12A	omim	610701
+NKX3-2	omim	602183
+TFAP2D	omim	610161
+Major histocompatibility complex, class II, DP alpha 1	omim	142880
+Frasier syndrome	omim	136680
+Rolandic epilepsy	omim	117100
+Halo nevus	omim	234300
+Angelman syndrome	omim	105830
+Complement 2 deficiency	omim	217000
+Hydrolethalus syndrome	omim	236680
+BAALC	omim	606602
+Hyperprothrombinemia	omim	176930
+Narcolepsy	omim	161400
+Oculocutaneous albinism type I	omim	203100
+6-phosphogluconate dehydrogenase deficiency	omim	172200
+Transaldolase deficiency	omim	606003
+Succinyl-CoA:3-oxoacid CoA transferase deficiency	omim	245050
+Iridogoniodysgenesis, dominant type	omim	601631
+MORM syndrome	omim	610156
+Björnstad syndrome	omim	262000
+FAM123B	omim	300647
+Alzheimer's disease	omim	104300
+Early-onset Alzheimer's disease	omim	104300
+PORCN	omim	300651
+Focal dermal hypoplasia	omim	305600
+CHILD syndrome	omim	308050
+TIE1	omim	600222
+ELMO3	omim	606422
+TOX2	omim	611163
+TOX3	omim	611416
+EID2	omim	609773
+FGF11	omim	601514
+GPD1L	omim	611778
+Hereditary persistence of fetal hemoglobin	omim	141749
+WNT6	omim	604663
+Multiple hamartoma syndrome	omim	158350
+FANCM	omim	609644
+DHH (hedgehog)	omim	605423
+HHAT	omim	605743
+Brown-Vialetto-Van Laere syndrome	omim	211530
+Elejalde syndrome	omim	214450
+Amyotrophic lateral sclerosis	omim	105400
+Hyper-IgM syndrome type 3	omim	606843
+Hyper-IgM syndrome type 4	omim	608184
+Kaposi's sarcoma	omim	148000
+Autoimmune disease	omim	109100
+NUP37	omim	609264
+RPGRIP1L	omim	610937
+GLIS2	omim	608539
+Micropenis	omim	607306
+VAMP5	omim	607029
+FGF16	omim	603724
+FGF22	omim	605831
+FGF20	omim	605558
+Fibrochondrogenesis	omim	228520
+Male breast cancer	omim	114480
+Cingulin-like 1	omim	607856
+Ocular albinism type 1	omim	300500
+Down's Syndrome Scotland	omim	190685
+Pulmonary hypoplasia	omim	265430
+H1F0	omim	142708
+Gerodermia osteodysplastica	omim	231070
+Milroy's disease	omim	153100
+DPEP2	omim	609925
+Niemann-Pick disease, SMPD1-associated	omim	257200
+Niemann-Pick disease, type C	omim	257220
+Dopamine-responsive dystonia	omim	600225
+Danon disease	omim	300257
+Serpentine fibula-polycystic kidney syndrome	omim	600330
+Schindler disease	omim	609241
+Protein phosphatase 2	omim	176915
+Protein phosphatase 2  , catalytic subunit, beta iso  1	omim	176916
+MDGA2	omim	611128
+Ichthyosis bullosa of Siemens	omim	146800
+Franceschetti–Klein syndrome	omim	154500
+Cross syndrome	omim	257800
+Eif4a	omim	602641
+Eif4a  eukaryotic translation initiation factor 4A, isofo  1	omim	601102
+Eif4a  eukaryotic translation initiation factor 4A, isofo  2	omim	608546
+Hypertryptophanemia	omim	600627
+Punctate palmoplantar keratoderma	omim	148600
+Congenital ichthyosiform erythroderma	omim	242100
+Polycystic kidney disease	omim	173900
+Autosomal recessive polycystic kidney	omim	263200
+Ichthyosis follicularis with alopecia and photophobia syndrome	omim	308205
+SURF2	omim	185630
+Molybdenum cofactor deficiency	omim	252150
+Urbach–Wiethe disease	omim	247100
+FG syndrome	omim	305450
+Rud syndrome	omim	308200
+Neutral lipid storage disease	omim	275630
+Enolase deficiency	omim	172430
+DOOR syndrome	omim	220500
+Blau syndrome	omim	186580
+Nevus flammeus nuchae	omim	163100
+Cavernous venous malformation	omim	116860
+Ichthyosis hystrix	omim	146590
+Erythrokeratodermia variabilis	omim	133200
+Keratitis–ichthyosis–deafness syndrome	omim	148210
+Senter syndrome	omim	148210
+Knuckle pads	omim	149100
+Acrokeratoelastoidosis of Costa	omim	101850
+N-acyl phosphatidylethanolamine-specific phospholipase D	omim	612334
+Iminoglycinuria	omim	242600
+Aplasia cutis congenita	omim	107600
+Atrichia with papular lesions	omim	209500
+CKB (gene)	omim	123280
+CKB (gene)  creatine kinase, ectopic expression   1	omim	123270
+Glucocorticoid remediable aldosteronism	omim	103900
+Tetra-amelia syndrome	omim	273395
+Keratosis pilaris atrophicans faciei	omim	604093
+Atrophodermia vermiculata	omim	209700
+Keratosis follicularis spinulosa decalvans	omim	308800
+Acromegaly	omim	102200
+Myoclonic dystonia	omim	159900
+Platelet storage pool deficiency	omim	185050
+Systemic lupus erythematosus	omim	152700
+Sickle-cell disease	omim	603903
+Dopamine beta hydroxylase deficiency	omim	223360
+Reticular pigmented anomaly of the flexures	omim	179850
+Griscelli syndrome type 2	omim	607624
+Griscelli syndrome type 3	omim	609227
+C1GALT1	omim	610555
+CORO1B	omim	609849
+Confluent and reticulated papillomatosis	omim	167900
+X-linked recessive chondrodysplasia punctata	omim	302950
+Incontinentia pigmenti achromians	omim	300337
+Neurofibromatosis type 3	omim	601321
+Neurofibromatosis type 4	omim	162270
+IBIDS syndrome	omim	601675
+BIDS syndrome	omim	234050
+Peeling skin syndrome	omim	270300
+Epstein–Barr virus infection	omim	226990
+Marshall syndrome	omim	154780
+PAPA syndrome	omim	604416
+Bart syndrome	omim	132000
+Lelis syndrome	omim	608290
+Rombo syndrome	omim	180730
+Diffuse epidermolytic palmoplantar keratoderma	omim	144200
+Diffuse nonepidermolytic palmoplantar keratoderma	omim	600962
+Striate palmoplantar keratoderma	omim	148700
+Keratosis punctata palmaris et plantaris	omim	148600
+Porokeratosis punctata palmaris et plantaris	omim	175860
+Congenital amegakaryocytic thrombocytopenia	omim	604498
+Mu hemoglobin	omim	609639
+Fragile X-associated tremor/ataxia syndrome	omim	300623
+Congenital hypoplastic anemia	omim	609135
+Pachyonychia congenita type I	omim	167200
+Focal palmoplantar keratoderma with oral mucosal hyperkeratosis	omim	114140
+Pachyonychia congenita type II	omim	167210
+Camisa disease	omim	604117
+Vohwinkel syndrome	omim	124500
+Clouston's hidrotic ectodermal dysplasia	omim	129500
+Tyrosinemia type II	omim	276600
+Scleroatrophic syndrome of Huriez	omim	181600
+Naxos syndrome	omim	601214
+Corneodermatoosseous syndrome	omim	122440
+Palmoplantar keratoderma and spastic paraplegia	omim	148360
+Schöpf–Schulz–Passarge syndrome	omim	224750
+Rapp–Hodgkin syndrome	omim	129400
+Tooth and nail syndrome	omim	189500
+Acrokeratosis verruciformis	omim	101900
+Plaque-type porokeratosis	omim	175800
+Myxoid liposarcoma	omim	613488
+Schmid metaphyseal chondrodysplasia	omim	156500
+Disseminated superficial actinic porokeratosis	omim	175900
+Porokeratosis palmaris et plantaris disseminata	omim	175850
+Punctate porokeratosis	omim	175860
+Generalized epidermolysis bullosa simplex	omim	131900
+Localized epidermolysis bullosa simplex	omim	131800
+Epidermolysis bullosa herpetiformis	omim	131760
+Epidermolysis bullosa simplex of Ogna	omim	131950
+Epidermolysis bullosa simplex with muscular dystrophy	omim	226670
+Epidermolysis bullosa simplex with mottled pigmentation	omim	131960
+Junctional epidermolysis bullosa (medicine)	omim	226700
+Junctional epidermolysis bullosa gravis	omim	226700
+Mitis junctional epidermolysis bullosa	omim	226650
+Hyperthyroxinemia	omim	145680
+Familial dysalbuminemic hyperthyroxinemia	omim	103600
+Aromatase deficiency	omim	107910
+Synpolydactyly	omim	186000
+Junctional epidermolysis bullosa with pyloric atresia	omim	226730
+Generalized atrophic benign epidermolysis bullosa	omim	226650
+Transient bullous dermolysis of the newborn	omim	131705
+Recessive dystrophic epidermolysis bullosa	omim	226600
+Progressive symmetric erythrokeratodermia	omim	133200
+Odonto–Tricho–Ungual–Digital–Palmar syndrome	omim	601957
+Lenz–Majewski syndrome	omim	151050
+Desmosterolosis	omim	602398
+Hydrops-ectopic calcification-moth-eaten skeletal dysplasia	omim	215140
+Lathosterolosis	omim	607330
+Hereditary sclerosing poikiloderma	omim	173700
+Mandibuloacral dysplasia	omim	248370
+Marinesco–Sjögren syndrome	omim	248800
+Tricho–rhino–phalangeal syndrome	omim	190350
+FUT4	omim	104230
+Meesmann juvenile epithelial corneal dystrophy	omim	122100
+Familial cirrhosis	omim	215600
+Haemochromatosis type 3	omim	604250
+Dunnigan familial partial lipodystrophy	omim	151660
+TBR1	omim	604616
+ADIPOR2	omim	607946
+Interferon gamma receptor 2	omim	147569
+Acropectoral syndrome	omim	605967
+Megalencephalic leukoencephalopathy with subcortical cysts	omim	604004
+Wolcott-Rallison syndrome	omim	226980
+EXT3 (gene)	omim	600209
+Wee1  human WEE1 homolog S. pombe   1	omim	193525
+Congenital hypopituitarism	omim	275200
+Worth syndrome	omim	144750
+ULK2	omim	608650
+Thyroid dysgenesis	omim	218700
+Autoimmune polyendocrine syndrome type 2	omim	269200
+Autoimmune polyendocrine syndrome type 1	omim	240300
+Familial hypocalciuric hypercalcemia	omim	145980
+Parkinson's disease	omim	168600
+Gillespie syndrome	omim	206700
+Pigmented purpuric dermatosis	omim	172900
+Binder's syndrome	omim	155050
+Pashayan syndrome	omim	110050
+Activin and inhibin	omim	147380
+Activin and inhibin  hibin, beta A   1	omim	147290
+Activin and inhibin  hibin, beta B   1	omim	147390
+Activin and inhibin  hibin, beta C   1	omim	601233
+Activin and inhibin  hibin, beta E   1	omim	612031
+Pseudoexfoliation syndrome	omim	177650
+ALDH8A1	omim	606467
+Johanson–Blizzard syndrome	omim	243800
+MODY 1	omim	125850
+MODY 2	omim	125851
+MODY 3	omim	600496
+MODY 4	omim	606392
+MODY 5	omim	137920
+Permanent neonatal diabetes mellitus	omim	606176
+Transient neonatal diabetes mellitus	omim	601410
+Zinc finger protein 804A	omim	612282
+APOA1BP	omim	608862
+Posterior polymorphous corneal dystrophy 1	omim	122000
+Macular corneal dystrophy	omim	217800
+Keratolytic winter erythema	omim	148370
+Tuberous sclerosis protein	omim	605284
+Tuberous sclerosis protein  tuberous sclerosis 2   1	omim	191092
+SNX6	omim	606098
+SA-beta-gal	omim	611458
+PEHO syndrome	omim	260565
+GRACILE syndrome	omim	603358
+HS1BP3	omim	609359
+PXK	omim	611450
+Rap1	omim	179520
+Rap1  B,member of RAS oncogene family   1	omim	179530
+Familial dysbetalipoproteinemia	omim	107741
+Diffuse myelinoclastic sclerosis	omim	272100
+X-linked spinal muscular atrophy 2	omim	301830
+Autosomal recessive distal spinal muscular atrophy 1	omim	604320
+Deficiency of the interleukin-1–receptor antagonist	omim	612852
+Nakajo syndrome	omim	256040
+Klippel-Trénaunay-Weber syndrome	omim	149000
+GPR137B	omim	604658
+Bazex–Dupré–Christol syndrome	omim	301845
+Enlarged vestibular aqueduct	omim	600791
+Reis-Bucklers corneal dystrophy	omim	608470
+Corneal dystrophy of Bowman layer, type II	omim	602082
+X-linked endothelial corneal dystrophy	omim	300779
+Posterior polymorphous corneal dystrophy 2	omim	609140
+Howel–Evans syndrome	omim	148500
+Posterior polymorphous corneal dystrophy 3	omim	609141
+Congenital endothelial dystrophy type 1	omim	121700
+Congenital endothelial dystrophy type 2	omim	217700
+Ullrich congenital muscular dystrophy	omim	254090
+Congenital stromal corneal dystrophy	omim	610048
+Posterior amorphous corneal dystrophy	omim	612868
+Schnyder crystalline corneal dystrophy	omim	121800
+Fleck corneal dystrophy	omim	121850
+Lattice corneal dystrophy type I	omim	122200
+Galanin-like peptide	omim	611178
+Granular corneal dystrophy type I	omim	121900
+Granular corneal dystrophy type II	omim	607541
+Lisch epithelial corneal dystrophy	omim	300778
+Subepithelial mucinous corneal dystrophy	omim	612867
+Gelatinous drop-like corneal dystrophy	omim	204870
+Epithelial basement membrane dystrophy	omim	121820
+Sclerocornea	omim	269400
+Cornea plana 2	omim	217300
+Cornea plana 1	omim	121400
+Megalocornea	omim	249300
+Megalocornea  1, MGCN1   1	omim	309300
+Accessory auricle	omim	610420
+Adducted thumbs syndrome	omim	201550
+MODY 6	omim	606394
+Lujan-Fryns syndrome	omim	309520
+Albinism–deafness syndrome	omim	300700
+SOX1	omim	602148
+G protein-coupled receptor kinase 7	omim	606987
+Pyridoxine-dependent epilepsy	omim	266100
+X-linked myotubular myopathy	omim	310400
+Potocki-Shaffer syndrome	omim	601224
+X-linked reticulate pigmentary disorder	omim	301220
+Yemenite deaf-blind hypopigmentation syndrome	omim	601706
+Watson syndrome	omim	193520
+Westerhof syndrome	omim	154000
+Wildervanck syndrome	omim	314600
+Wilson–Turner syndrome	omim	309585
+Wrinkly skin syndrome	omim	278250
+Carvajal syndrome	omim	605676
+Ulnar–mammary syndrome	omim	181450
+Anterior segment mesenchymal dysgenesis	omim	107250
+Adult-onset basal ganglia disease	omim	606159
+Complete androgen insensitivity syndrome	omim	312300
+Blue rubber bleb nevus syndrome	omim	112200
+Alveolar capillary dysplasia	omim	265380
+Ichthyosis prematurity syndrome	omim	608649
+Smith–Fineman–Myers syndrome	omim	309580
+Rudiger syndrome	omim	268650
+Pitt-Hopkins syndrome	omim	610954
+Terminal osseous dysplasia with pigmentary defects	omim	300244
+Lethal congenital contracture syndrome	omim	253310
+Johnson–McMillin syndrome	omim	147770
+Say syndrome	omim	181180
+Scalp–ear–nipple syndrome	omim	181270
+Kapur-Toriello syndrome	omim	244300
+Bart–Pumphrey syndrome	omim	149200
+Hystrix-like ichthyosis–deafness syndrome	omim	602540
+Arthrogryposis–renal dysfunction–cholestasis syndrome	omim	208085
+Cerebral dysgenesis–neuropathy–ichthyosis–keratoderma syndrome	omim	609528
+Dolichol kinase deficiency	omim	610768
+Neonatal ichthyosis–sclerosing cholangitis syndrome	omim	607626
+Haim–Munk syndrome	omim	245010
+Craniosynostosis–anal anomalies–porokeratosis syndrome	omim	603116
+Keratosis linearis with ichthyosis congenital and sclerosing keratoderma syndrome	omim	601952
+Laryngoonychocutaneous syndrome	omim	245660
+Shwachman–Bodian–Diamond syndrome	omim	260400
+Silver–Russell syndrome	omim	180860
+Skin fragility syndrome	omim	604536
+Mohr–Tranebjærg syndrome	omim	304700
+Focal palmoplantar and gingival keratosis	omim	148730
+Rosenthal–Kloepfer syndrome	omim	102100
+Hennekam syndrome	omim	235510
+Parkes Weber syndrome	omim	608355
+DNA damage-binding protein	omim	600045
+DNA damage-binding protein  damage-specific DNA binding protein 2, 48kDa   1	omim	600811
+Anorexia nervosa	omim	606788
+Panic disorder	omim	167870
+PHACE association	omim	606519
+RhoBTB	omim	607351
+RhoBTB  Rho-related BTB domain containing 2   1	omim	607352
+RhoBTB  Rho-related BTB domain containing 3   1	omim	607353
+RVD-Hpα	omim	141800
+Diffuse idiopathic skeletal hyperostosis	omim	106400
+Acrogeria	omim	201200
+Metageria	omim	201200
+Roberts syndrome	omim	268300
+Nicolaides–Baraitser syndrome	omim	601358
+Progressive osseous heteroplasia	omim	166350
+Proteus-like syndrome	omim	158350
+Anorexia nervosa (differential diagnoses)	omim	606788
+Macrocephaly-capillary malformation	omim	602501
+Oculocerebrocutaneous syndrome	omim	164180
+Oliver–McFarlane syndrome	omim	275400
+McKusick-Kaufman syndrome	omim	236700
+Rho-associated protein kinase  Rho-associated, coiled-coil containing protein kin  1	omim	601702
+Rho-associated protein kinase  Rho-associated, coiled-coil containing protein kin  2	omim	604002
+Paris-Trousseau syndrome	omim	188025
+Complement 3 deficiency	omim	120700
+17q21.31 microdeletion syndrome	omim	610443
+Chemerin peptides	omim	601973
+Neutrophil immunodeficiency syndrome	omim	608203
+Leukocyte adhesion deficiency-1	omim	116920
+Congenital disorder of glycosylation type IIc	omim	266265
+3q29 microdeletion syndrome	omim	609425
+Microphthalmia–dermal aplasia–sclerocornea syndrome	omim	309801
+1q21.1 deletion syndrome	omim	612474
+1q21.1 duplication syndrome	omim	612475
+Limb–mammary syndrome	omim	603543
+Ichthyosis en confetti	omim	609165
+Receptor tyrosine kinase-like orphan receptor	omim	602336
+Receptor tyrosine kinase-like orphan receptor  eceptor tyrosine kinase-like orphan receptor 2   1	omim	602337
+2q37 monosomy	omim	600430
+Renpenning's syndrome	omim	309500
+22q11.2 duplication syndrome	omim	608363
+Perlman syndrome	omim	267000
+Hereditary mucoepithelial dysplasia	omim	158310
+Mild androgen insensitivity syndrome	omim	312300
+Thyrotoxic periodic paralysis	omim	188580
+Ascher's syndrome	omim	109900
+Shprintzen-Goldberg syndrome	omim	609460
+Kir2.6	omim	613236
+Complement 4 deficiency	omim	120820
+SLC25A38	omim	610819
+Terminal complement pathway deficiency	omim	120950
+Bisindolylmaleimide  Proto-oncogene serine/threonine-protein kinase pim  1	omim	164960
+D-Glyceric acidemia	omim	220120
+DHDPSL	omim	613597
+EHHADH	omim	607037
+Asphyxiating thoracic dysplasia	omim	208500
+Hyperphosphatasia with mental retardation syndrome	omim	239300
+Kufor-Rakeb syndrome	omim	606693
+Brody myopathy	omim	601003
+Cranio–lenticulo–sutural dysplasia	omim	607812
+MBL deficiency	omim	154545
+Protein phosphatase 1	omim	176875
+Protein phosphatase 1  , catalytic subunit, beta iso  1	omim	600590
+Protein phosphatase 1  , catalytic subunit, gamma is  1	omim	176914
+GORAB	omim	607983
+Desmin-related myofibrillar myopathy	omim	601419
+SYNE1	omim	608441
+Donnai-Barrow syndrome	omim	222448
+Chronic obstructive pulmonary disease	omim	606963
+TGM5	omim	603805
+Spondyloepimetaphyseal dysplasia, Pakistani type	omim	612847
+Coenzyme Q10 deficiency	omim	607426
+Malpuech facial clefting syndrome	omim	248340
+Hand-Foot-Genital Syndrome	omim	194050
+Hypotrichosis–lymphedema–telangiectasia syndrome	omim	607823
+Meprin A	omim	600388
+Meprin A  , beta   1	omim	600389
+Cicatricial pemphigoid	omim	164185
+Sotos syndrome	omim	117550
+Behçet's disease	omim	109650
+Silent stroke	omim	601367
+FOXI1	omim	601093
+Nasodigitoacoustic syndrome	omim	255980
+Pseudoneurotic schizophrenia	omim	181500
+Argininemia	omim	207800
+Opsismodysplasia	omim	258480
+Leukotriene C4 synthase deficiency	omim	246530
+Ghosal hematodiaphyseal dysplasia	omim	231095
+Glutathionuria	omim	231950
+Ramos-Arroyo syndrome	omim	122430
+Map44	omim	600521
+9q34 deletion syndrome	omim	610253
+Cubam	omim	605799
+Cubam  cubilin intrinsic factor-cobalamin receptor   1	omim	602997
+Uroguanylin	omim	601271
+Distal renal tubular acidosis	omim	179800
+Proximal renal tubular acidosis	omim	179830

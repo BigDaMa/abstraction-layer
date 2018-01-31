@@ -1,0 +1,192 @@
+Ariane 5	countryOrigin	Europe
+Energia	countryOrigin	Soviet Union
+Jupiter-C	countryOrigin	United States
+Juno I	countryOrigin	United States
+Ariane 4	countryOrigin	Europe
+Europa (rocket)	countryOrigin	Europe
+Diamant	countryOrigin	France
+Polar Satellite Launch Vehicle	countryOrigin	India
+Ariane 3	countryOrigin	Europe
+Ariane 2	countryOrigin	Europe
+Proton (rocket)	countryOrigin	Russia
+Soyuz (rocket family)	countryOrigin	Russia
+HGM-25A Titan I	countryOrigin	United States
+Ariane 1	countryOrigin	Europe
+Long March 2F	countryOrigin	China
+Voskhod (rocket)	countryOrigin	Soviet Union
+Delta II	countryOrigin	United States
+Vega (rocket)	countryOrigin	Europe
+VentureStar	countryOrigin	United States
+Black Knight (rocket)	countryOrigin	United Kingdom
+Saturn IB	countryOrigin	United States
+Lockheed Martin X-33	countryOrigin	United States
+Orbital Sciences X-34	countryOrigin	United States
+Delta IV	countryOrigin	United States
+Saturn I	countryOrigin	United States
+Zenit (rocket family)	countryOrigin	Ukraine
+N1 (rocket)	countryOrigin	Soviet Union
+Tsyklon	countryOrigin	Soviet Union
+Shavit	countryOrigin	Israel
+Pegasus (rocket)	countryOrigin	United States
+Falcon 5	countryOrigin	United States
+Falcon 1	countryOrigin	United States
+Titan IV	countryOrigin	United States
+Titan IIIB	countryOrigin	United States
+Titan IIIC	countryOrigin	United States
+Little Joe (rocket)	countryOrigin	United States
+Atlas II	countryOrigin	United States
+M-V	countryOrigin	Japan
+Vanguard (rocket)	countryOrigin	United States
+Kosmos-3M	countryOrigin	Soviet Union
+H-IIA	countryOrigin	Japan
+Delta III	countryOrigin	United States
+Geosynchronous Satellite Launch Vehicle	countryOrigin	India
+Thor-Able	countryOrigin	United States
+Soviet manned lunar programs	countryOrigin	Soviet Union
+Dnepr-1	countryOrigin	Soviet Union
+Sparta (rocket)	countryOrigin	United States
+GX (rocket)	countryOrigin	Japan
+GX (rocket)	countryOrigin	United States
+Atlas V	countryOrigin	United States
+Taurus (rocket)	countryOrigin	United States
+Long March 3A	countryOrigin	China
+Soyuz-U	countryOrigin	Soviet Union
+Rokot	countryOrigin	Soviet Union
+H-IIB	countryOrigin	Japan
+Falcon 9	countryOrigin	United States
+Mesquito	countryOrigin	United States
+Long March 2C	countryOrigin	People's Republic of China
+Satellite Launch Vehicle	countryOrigin	India
+Bumper (rocket)	countryOrigin	Germany
+Bumper (rocket)	countryOrigin	United States
+Zenit-3SL	countryOrigin	Ukraine
+Augmented Satellite Launch Vehicle	countryOrigin	India
+Zenit-2M	countryOrigin	Ukraine
+Saturn INT-21	countryOrigin	United States
+Ares V	countryOrigin	United States
+Atlas III	countryOrigin	United States
+Saturn INT-20	countryOrigin	United States
+Athena (rocket family)	countryOrigin	United States
+Saturn II	countryOrigin	United States
+Martin Marietta Spacemaster	countryOrigin	United States
+Atlas-Agena	countryOrigin	United States
+Start-1	countryOrigin	Russia
+SpaceLoft XL	countryOrigin	United States
+VLS-1	countryOrigin	Brazil
+Saturn C-8	countryOrigin	United States
+Starchaser 4	countryOrigin	United Kingdom
+Saturn-Shuttle	countryOrigin	United States
+Minotaur I	countryOrigin	United States
+H-II	countryOrigin	Japan
+Soyuz-2 (rocket)	countryOrigin	Russia
+Soyuz-FG	countryOrigin	Russia
+Delta G	countryOrigin	United States
+Polyot (rocket)	countryOrigin	Soviet Union
+Zenit-2	countryOrigin	Ukraine
+Avatar (spacecraft)	countryOrigin	India
+Saturn A-1	countryOrigin	United States
+Ariane M	countryOrigin	Europe
+Jarvis (rocket)	countryOrigin	United States
+Saturn V-B	countryOrigin	United States
+Saturn IB-D	countryOrigin	United States
+Hermes project	countryOrigin	United States
+Rehbar-I	countryOrigin	Pakistan
+Rehbar-I	countryOrigin	United States
+Proton-M	countryOrigin	Russia
+Taurus II	countryOrigin	United States
+Molniya-M	countryOrigin	Russia
+Molniya-M	countryOrigin	Soviet Union
+Thorad-Agena	countryOrigin	United States
+Atlas I	countryOrigin	United States
+Thor-Burner	countryOrigin	United States
+Tsyklon-2	countryOrigin	Soviet Union
+Tsyklon-3	countryOrigin	Soviet Union
+Safir (rocket)	countryOrigin	Iran
+Juno II	countryOrigin	United States
+Kosmos-2I	countryOrigin	Soviet Union
+Long March 3B	countryOrigin	People's Republic of China
+Strela (rocket)	countryOrigin	Russia
+VS-30	countryOrigin	Brazil
+Titan 34D	countryOrigin	United States
+SM-65A Atlas	countryOrigin	United States
+SM-65B Atlas	countryOrigin	United States
+SM-65C Atlas	countryOrigin	United States
+Scout X-2	countryOrigin	United States
+ALV X-1	countryOrigin	United States
+Delta E	countryOrigin	United States
+Thor-Ablestar	countryOrigin	United States
+H-I	countryOrigin	Japan
+Kosmos-1	countryOrigin	Soviet Union
+Kosmos-3	countryOrigin	Soviet Union
+Saturn V	countryOrigin	United States
+SM-65D Atlas	countryOrigin	United States
+SM-65E Atlas	countryOrigin	United States
+SM-65F Atlas	countryOrigin	United States
+Atlas E/F	countryOrigin	United States
+NOTS-EV-1 Pilot	countryOrigin	United States
+Tsyklon-4	countryOrigin	Ukraine
+Feng Bao 1	countryOrigin	China
+Titan IIIA	countryOrigin	United States
+Titan IIID	countryOrigin	United States
+Titan IIIE	countryOrigin	United States
+Atlas G	countryOrigin	United States
+Atlas H	countryOrigin	United States
+Atlas SLV-3	countryOrigin	United States
+Atlas-Able	countryOrigin	United States
+Commercial Titan III	countryOrigin	United States
+Thor DSV-2	countryOrigin	United States
+Thor DSV-2U	countryOrigin	United States
+Thor-Delta	countryOrigin	United States
+Delta A	countryOrigin	United States
+Delta B	countryOrigin	United States
+Delta C	countryOrigin	United States
+Delta D	countryOrigin	United States
+Delta J	countryOrigin	United States
+Delta L	countryOrigin	United States
+Delta M	countryOrigin	United States
+Delta N	countryOrigin	United States
+Delta 0100	countryOrigin	United States
+Delta 1000	countryOrigin	United States
+Delta 2000	countryOrigin	United States
+Delta 3000	countryOrigin	United States
+Delta 4000	countryOrigin	United States
+Delta 5000	countryOrigin	United States
+Proton-K	countryOrigin	Russia
+Unha	countryOrigin	North Korea
+Paektusan (rocket)	countryOrigin	North Korea
+Soyuz-1 (rocket)	countryOrigin	Russia
+Zenit-3SLB	countryOrigin	Ukraine
+Zenit-3F	countryOrigin	Ukraine
+Mercury-Redstone Launch Vehicle	countryOrigin	United States
+Minotaur V	countryOrigin	United States
+Titan 23G	countryOrigin	United States
+Titan II GLV	countryOrigin	United States
+Minotaur II	countryOrigin	United States
+Minotaur III	countryOrigin	United States
+Lambda 4S	countryOrigin	Japan
+Atlas LV-3B	countryOrigin	United States
+NOTS-EV-2 Caleb	countryOrigin	United States
+Scout X	countryOrigin	United States
+Scout X-1	countryOrigin	United States
+RM-90 Blue Scout II	countryOrigin	United States
+RM-89 Blue Scout I	countryOrigin	United States
+Scout X-1A	countryOrigin	United States
+Reusable Vehicle Testing	countryOrigin	Japan
+Scout X-2M	countryOrigin	United States
+Scout X-2B	countryOrigin	United States
+Jupiter (rocket family)	countryOrigin	United States
+Rus-M	countryOrigin	Russia
+Falcon 1e	countryOrigin	United States
+VS-40	countryOrigin	Brazil
+Simorgh (rocket)	countryOrigin	Iran
+Athena I	countryOrigin	United States
+Athena II	countryOrigin	United States
+Terasca	countryOrigin	United States
+Cajun (rocket)	countryOrigin	United States
+Shavetail	countryOrigin	United States
+Liberty (rocket)	countryOrigin	United States
+Liberty (rocket)	countryOrigin	Europe
+Troposphere (rocket family)	countryOrigin	Democratic Republic of the Congo
+Troposphere (rocket family)  Troposphere 5   1	countryOrigin	Democratic Republic of the Congo
+Space Launch System	countryOrigin	United States
+Falcon Heavy	countryOrigin	United States

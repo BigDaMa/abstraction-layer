@@ -1,0 +1,198 @@
+Ariane 5	successfulLaunches	54
+Space Shuttle	successfulLaunches	134
+Space Shuttle	successfulLaunches	133
+Energia	successfulLaunches	1
+Jupiter-C	successfulLaunches	1
+Juno I	successfulLaunches	3
+Ariane 4	successfulLaunches	113
+Europa (rocket)	successfulLaunches	4
+Europa (rocket)	successfulLaunches	4
+Diamant	successfulLaunches	9
+Polar Satellite Launch Vehicle	successfulLaunches	17
+Ariane 3	successfulLaunches	10
+Ariane 2	successfulLaunches	5
+Proton (rocket)	successfulLaunches	294
+HGM-25A Titan I	successfulLaunches	53
+Ariane 1	successfulLaunches	9
+Long March 2F	successfulLaunches	7
+Voskhod (rocket)	successfulLaunches	287
+Delta II	successfulLaunches	147
+Black Knight (rocket)	successfulLaunches	22
+Black Arrow	successfulLaunches	2
+Saturn IB	successfulLaunches	9
+Delta IV	successfulLaunches	16
+Saturn I	successfulLaunches	10
+UGM-96 Trident I	successfulLaunches	161
+Zenit (rocket family)	successfulLaunches	58
+Zenit (rocket family)	successfulLaunches	31
+Zenit (rocket family)	successfulLaunches	25
+Zenit (rocket family)	successfulLaunches	1
+Zenit (rocket family)	successfulLaunches	1
+N1 (rocket)	successfulLaunches	0
+Tsyklon	successfulLaunches	7
+Shavit	successfulLaunches	6
+Pegasus (rocket)	successfulLaunches	35
+Falcon 1	successfulLaunches	2
+LGM-25C Titan II	successfulLaunches	101
+LGM-25C Titan II	successfulLaunches	23
+Titan IV	successfulLaunches	35
+Titan IIIB	successfulLaunches	68
+Titan IIIC	successfulLaunches	31
+Little Joe (rocket)	successfulLaunches	6
+Atlas II	successfulLaunches	63
+M-V	successfulLaunches	6
+Vanguard (rocket)	successfulLaunches	3
+Kosmos-3M	successfulLaunches	424
+H-IIA	successfulLaunches	17
+Delta III	successfulLaunches	0
+Geosynchronous Satellite Launch Vehicle	successfulLaunches	2
+Thor-Able	successfulLaunches	10
+Soviet manned lunar programs	successfulLaunches	0
+Atlas-Centaur	successfulLaunches	51
+Dnepr-1	successfulLaunches	15
+Sparta (rocket)	successfulLaunches	9
+Atlas V	successfulLaunches	25
+Taurus (rocket)	successfulLaunches	6
+Long March 3	successfulLaunches	11
+Long March 3A	successfulLaunches	17
+Naro-1	successfulLaunches	0
+Soyuz-U	successfulLaunches	696
+Rokot	successfulLaunches	14
+H-IIB	successfulLaunches	2
+Falcon 9	successfulLaunches	2
+Mesquito	successfulLaunches	1
+Long March 2C	successfulLaunches	33
+Satellite Launch Vehicle	successfulLaunches	2
+Zenit-3SL	successfulLaunches	27
+Augmented Satellite Launch Vehicle	successfulLaunches	1
+Zenit-2M	successfulLaunches	1
+2006 in spaceflight	successfulLaunches	62
+2005 in spaceflight	successfulLaunches	52
+1961 in spaceflight	successfulLaunches	28
+1963 in spaceflight	successfulLaunches	50
+1962 in spaceflight	successfulLaunches	65
+1964 in spaceflight	successfulLaunches	82
+1965 in spaceflight	successfulLaunches	108
+2007 in spaceflight	successfulLaunches	63
+1960 in spaceflight	successfulLaunches	19
+Atlas III	successfulLaunches	6
+Athena (rocket family)	successfulLaunches	5
+1957 in spaceflight	successfulLaunches	1
+1958 in spaceflight	successfulLaunches	6
+1959 in spaceflight	successfulLaunches	10
+Atlas-Agena	successfulLaunches	103
+2004 in spaceflight	successfulLaunches	50
+Start-1	successfulLaunches	6
+SpaceLoft XL	successfulLaunches	1
+Starchaser 4	successfulLaunches	1
+2003 in spaceflight	successfulLaunches	60
+Minotaur I	successfulLaunches	10
+H-II	successfulLaunches	5
+Soyuz-2 (rocket)	successfulLaunches	11
+Soyuz-FG	successfulLaunches	33
+Delta G	successfulLaunches	2
+Polyot (rocket)	successfulLaunches	2
+2008 in spaceflight	successfulLaunches	66
+Zenit-2	successfulLaunches	31
+Long March 4B	successfulLaunches	12
+Rehbar-I	successfulLaunches	4
+Proton-M	successfulLaunches	30
+2009 in spaceflight	successfulLaunches	73
+Long March 2D	successfulLaunches	14
+Molniya-M	successfulLaunches	276
+Thorad-Agena	successfulLaunches	40
+Atlas I	successfulLaunches	8
+Thor-Burner	successfulLaunches	22
+2010 in spaceflight	successfulLaunches	70
+Tsyklon-2	successfulLaunches	105
+Tsyklon-3	successfulLaunches	114
+Juno II	successfulLaunches	4
+Sputnik (rocket)	successfulLaunches	3
+Kosmos-2I	successfulLaunches	63
+Kosmos-2I	successfulLaunches	63
+Long March 3B	successfulLaunches	3
+Long March 3B	successfulLaunches	3
+Long March 3C	successfulLaunches	7
+Long March 4A	successfulLaunches	2
+Long March 4C	successfulLaunches	4
+Strela (rocket)	successfulLaunches	1
+Long March 2E	successfulLaunches	5
+Titan 34D	successfulLaunches	12
+SM-65A Atlas	successfulLaunches	4
+SM-65B Atlas	successfulLaunches	6
+SM-65C Atlas	successfulLaunches	3
+Scout X-2	successfulLaunches	1
+Delta E	successfulLaunches	23
+Thor-Ablestar	successfulLaunches	12
+Minotaur IV	successfulLaunches	3
+H-I	successfulLaunches	9
+N-I (rocket)	successfulLaunches	6
+N-II (rocket)	successfulLaunches	8
+Kosmos-1	successfulLaunches	7
+Kosmos-3	successfulLaunches	4
+Saturn V	successfulLaunches	12
+Soyuz-U2	successfulLaunches	66
+SM-65D Atlas	successfulLaunches	103
+SM-65E Atlas	successfulLaunches	33
+SM-65F Atlas	successfulLaunches	53
+Atlas E/F	successfulLaunches	56
+NOTS-EV-1 Pilot	successfulLaunches	0
+Feng Bao 1	successfulLaunches	7
+Titan IIIA	successfulLaunches	3
+Titan IIID	successfulLaunches	22
+Titan IIIE	successfulLaunches	6
+Atlas G	successfulLaunches	5
+Atlas H	successfulLaunches	5
+Atlas SLV-3	successfulLaunches	3
+Commercial Titan III	successfulLaunches	3
+Thor DSV-2	successfulLaunches	28
+Thor DSV-2U	successfulLaunches	4
+Thor-Delta	successfulLaunches	11
+Delta A	successfulLaunches	2
+Delta B	successfulLaunches	8
+Delta C	successfulLaunches	12
+Delta D	successfulLaunches	2
+Delta J	successfulLaunches	1
+Delta L	successfulLaunches	1
+Delta M	successfulLaunches	11
+Delta N	successfulLaunches	8
+Delta 0100	successfulLaunches	4
+Delta 1000	successfulLaunches	8
+Delta 2000	successfulLaunches	43
+Delta 3000	successfulLaunches	32
+Delta 4000	successfulLaunches	2
+Delta 5000	successfulLaunches	1
+2011 in spaceflight	successfulLaunches	37
+R-7A Semyorka	successfulLaunches	23
+Unha	successfulLaunches	0
+1990 in spaceflight	successfulLaunches	114
+1989 in spaceflight	successfulLaunches	101
+Zenit-3SLB	successfulLaunches	4
+Vostok-L	successfulLaunches	3
+Vostok-K	successfulLaunches	11
+Vostok-2 (rocket)	successfulLaunches	40
+Vostok-2M	successfulLaunches	92
+Soyuz/Vostok	successfulLaunches	2
+Soyuz (rocket)	successfulLaunches	28
+Soyuz-L	successfulLaunches	3
+Soyuz-M	successfulLaunches	8
+Mercury-Redstone Launch Vehicle	successfulLaunches	5
+Titan 23G	successfulLaunches	12
+Titan II GLV	successfulLaunches	12
+Minotaur II	successfulLaunches	8
+Lambda 4S	successfulLaunches	1
+Atlas LV-3B	successfulLaunches	7
+NOTS-EV-2 Caleb	successfulLaunches	1
+NOTS-EV-2 Caleb	successfulLaunches	2
+NOTS-EV-2 Caleb	successfulLaunches	1
+Scout X-1	successfulLaunches	3
+RM-90 Blue Scout II	successfulLaunches	2
+RM-89 Blue Scout I	successfulLaunches	1
+Scout X-1A	successfulLaunches	1
+Scout X-2M	successfulLaunches	1
+Athena I	successfulLaunches	3
+Athena II	successfulLaunches	2
+Terasca	successfulLaunches	1
+Troposphere (rocket family)	successfulLaunches	1
+Troposphere (rocket family)  Troposphere 5   1	successfulLaunches	0
+Falcon Heavy	successfulLaunches	0

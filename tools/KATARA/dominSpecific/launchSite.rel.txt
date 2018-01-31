@@ -1,0 +1,553 @@
+Ariane 5	launchSite	ELA-3
+Ariane 5	launchSite	Guiana Space Centre
+Space Shuttle	launchSite	Kennedy Space Center Launch Complex 39
+Space Shuttle	launchSite	Kennedy Space Center
+Space Shuttle	launchSite	Vandenberg AFB Space Launch Complex 6
+Space Shuttle	launchSite	Vandenberg Air Force Base
+Energia	launchSite	Baikonur Cosmodrome
+Jupiter-C	launchSite	Cape Canaveral Air Force Station Launch Complex 5
+Jupiter-C	launchSite	Cape Canaveral Air Force Station Launch Complex 6
+Jupiter-C	launchSite	Cape Canaveral Air Force Station
+Juno I	launchSite	Cape Canaveral Air Force Station Launch Complex 5
+Juno I	launchSite	Cape Canaveral Air Force Station Launch Complex 26
+Juno I	launchSite	Cape Canaveral Air Force Station
+Juno I	launchSite	Florida
+Ariane 4	launchSite	Kourou
+Europa (rocket)	launchSite	Woomera Test Range
+Europa (rocket)	launchSite	ELA-1
+Europa (rocket)	launchSite	CSG
+Diamant	launchSite	Hammaguir
+Diamant	launchSite	Kourou
+Polar Satellite Launch Vehicle	launchSite	Satish Dhawan Space Centre
+Proton (rocket)	launchSite	Baikonur Cosmodrome
+Proton (rocket)	launchSite	Baikonur Cosmodrome Site 200
+Soyuz (rocket family)	launchSite	Baikonur Cosmodrome
+Soyuz (rocket family)	launchSite	Gagarin's Start
+Soyuz (rocket family)	launchSite	Plesetsk Cosmodrome
+Soyuz (rocket family)	launchSite	Plesetsk Cosmodrome Site 16
+HGM-25A Titan I	launchSite	Cape Canaveral Air Force Station
+HGM-25A Titan I	launchSite	Cape Canaveral Air Force Station Launch Complex 16
+HGM-25A Titan I	launchSite	Cape Canaveral Air Force Station Launch Complex 19
+HGM-25A Titan I	launchSite	Vandenberg Air Force Base
+Ariane 1	launchSite	ELA-1
+Ariane 1	launchSite	Guiana Space Centre
+Long March 2F	launchSite	Jiuquan Satellite Launch Center
+Vostok (rocket family)	launchSite	Baikonur Cosmodrome
+Vostok (rocket family)	launchSite	Baikonur Cosmodrome Site 31
+Vostok (rocket family)	launchSite	Plesetsk Cosmodrome
+Vostok (rocket family)	launchSite	Plesetsk Cosmodrome Site 43
+Voskhod (rocket)	launchSite	Gagarin's Start
+Voskhod (rocket)	launchSite	Baikonur Cosmodrome
+Voskhod (rocket)	launchSite	Plesetsk Cosmodrome Site 41
+Voskhod (rocket)	launchSite	Plesetsk Cosmodrome
+Delta II	launchSite	Cape Canaveral Air Force Station
+Delta II	launchSite	Vandenberg Air Force Base
+Vega (rocket)	launchSite	ELA-1
+Vega (rocket)	launchSite	Guiana Space Centre
+Black Knight (rocket)	launchSite	Woomera Test Range
+Black Arrow	launchSite	Woomera Test Range
+Saturn IB	launchSite	Cape Canaveral Air Force Station Space Launch Complex 37
+Saturn IB	launchSite	Cape Canaveral Air Force Station
+Saturn IB	launchSite	Kennedy Space Center Launch Complex 39
+Saturn IB	launchSite	Kennedy Space Center
+Lockheed Martin X-33	launchSite	Edwards Air Force Base
+Orbital Sciences X-34	launchSite	Dryden Flight Research Center
+Orbital Sciences X-34	launchSite	Kennedy Space Center
+Delta IV	launchSite	Cape Canaveral Air Force Station Space Launch Complex 37
+Delta IV	launchSite	Cape Canaveral Air Force Station
+Delta IV	launchSite	Vandenberg AFB Space Launch Complex 6
+Delta IV	launchSite	Vandenberg Air Force Base
+Saturn I	launchSite	Cape Canaveral Air Force Station Space Launch Complex 37
+Saturn I	launchSite	Cape Canaveral Air Force Station
+UGM-96 Trident I	launchSite	Cape Canaveral Air Force Station Launch Complex 25
+UGM-96 Trident I	launchSite	Cape Canaveral Air Force Station
+UGM-96 Trident I	launchSite	Ohio class submarine
+UGM-96 Trident I	launchSite	James Madison class submarine
+UGM-96 Trident I	launchSite	Benjamin Franklin class submarine
+UGM-133 Trident II	launchSite	Spaceport Florida Launch Complex 46
+UGM-133 Trident II	launchSite	Cape Canaveral Air Force Station
+UGM-133 Trident II	launchSite	Ohio class submarine
+UGM-133 Trident II	launchSite	Vanguard class submarine
+Zenit (rocket family)	launchSite	Baikonur Cosmodrome
+Zenit (rocket family)	launchSite	Odyssey (launch platform)
+N1 (rocket)	launchSite	Baikonur Cosmodrome
+Tsyklon	launchSite	Baikonur Cosmodrome
+Shavit	launchSite	Palmachim Airbase
+Pegasus (rocket)	launchSite	Air launch to orbit
+Falcon 5	launchSite	Vandenberg AFB Space Launch Complex 3
+Falcon 5	launchSite	Omelek Island
+Falcon 5	launchSite	Spaceport Florida Launch Complex 36
+Falcon 5	launchSite	Kodiak Island
+Falcon 5	launchSite	Wallops Island
+Falcon 1	launchSite	Omelek Island
+Falcon 1	launchSite	Vandenberg AFB Space Launch Complex 3
+LGM-25C Titan II	launchSite	Cape Canaveral Air Force Station
+LGM-25C Titan II	launchSite	Cape Canaveral Air Force Station Launch Complex 16
+LGM-25C Titan II	launchSite	Vandenberg Air Force Base
+Titan IV	launchSite	Cape Canaveral Air Force Station Space Launch Complex 40
+Titan IV	launchSite	Cape Canaveral Air Force Station Space Launch Complex 41
+Titan IV	launchSite	Cape Canaveral Air Force Station
+Titan IV	launchSite	Vandenberg AFB Space Launch Complex 4
+Titan IV	launchSite	Vandenberg Air Force Base
+Titan IIIB	launchSite	Vandenberg AFB Space Launch Complex 4
+Titan IIIB	launchSite	Vandenberg Air Force Base
+Titan IIIC	launchSite	Cape Canaveral Air Force Station Space Launch Complex 40
+Titan IIIC	launchSite	Cape Canaveral Air Force Station
+Titan IIIC	launchSite	Vandenberg AFB Space Launch Complex 6
+Titan IIIC	launchSite	Vandenberg Air Force Base
+Little Joe (rocket)	launchSite	Wallops Island
+Atlas II	launchSite	Spaceport Florida Launch Complex 36
+Atlas II	launchSite	Cape Canaveral Air Force Station
+Atlas II	launchSite	Vandenberg AFB Space Launch Complex 3
+M-V	launchSite	Kagoshima
+Vanguard (rocket)	launchSite	Cape Canaveral Air Force Station Launch Complex 18
+Vanguard (rocket)	launchSite	Cape Canaveral Air Force Station
+Kosmos-3M	launchSite	Plesetsk Cosmodrome
+Kosmos-3M	launchSite	Kapustin Yar
+H-IIA	launchSite	Yoshinobu Launch Complex
+H-IIA	launchSite	Tanegashima
+Delta III	launchSite	Cape Canaveral Air Force Station Space Launch Complex 17
+Delta III	launchSite	Cape Canaveral Air Force Station
+Geosynchronous Satellite Launch Vehicle	launchSite	Satish Dhawan Space Centre
+Thor-Able	launchSite	Cape Canaveral Air Force Station Space Launch Complex 17
+Thor-Able	launchSite	Cape Canaveral Air Force Station
+Atlas-Centaur	launchSite	Spaceport Florida Launch Complex 36
+Atlas-Centaur	launchSite	Cape Canaveral Air Force Station
+Dnepr-1	launchSite	Baikonur Cosmodrome Site 109
+Dnepr-1	launchSite	Baikonur Cosmodrome
+Dnepr-1	launchSite	Dombarovsky Site 13
+Dnepr-1	launchSite	Dombarovsky
+Sparta (rocket)	launchSite	Woomera Test Range
+GX (rocket)	launchSite	Vandenberg Air Force Base
+Atlas V	launchSite	Cape Canaveral Air Force Station Space Launch Complex 41
+Atlas V	launchSite	Cape Canaveral Air Force Station
+Atlas V	launchSite	Vandenberg AFB Space Launch Complex 3
+Atlas V	launchSite	Vandenberg Air Force Base
+Kennedy Space Center Launch Complex 39	launchSite	Kennedy Space Center
+Taurus (rocket)	launchSite	Wallops Island
+Taurus (rocket)	launchSite	Vandenberg AFB Launch Complex 576
+Taurus (rocket)	launchSite	Vandenberg Air Force Base
+Taurus (rocket)	launchSite	Cape Canaveral Air Force Station
+Taurus (rocket)	launchSite	Kodiak Island
+Long March 3	launchSite	Xichang Satellite Launch Center
+Long March 3A	launchSite	Xichang Satellite Launch Center
+Naro-1	launchSite	Naro Space Center
+Progress 1	launchSite	Baikonur Cosmodrome
+Soyuz-U	launchSite	Gagarin's Start
+Soyuz-U	launchSite	Baikonur Cosmodrome
+Soyuz-U	launchSite	Plesetsk Cosmodrome Site 16
+Soyuz-U	launchSite	Plesetsk Cosmodrome
+Vandenberg AFB Space Launch Complex 3	launchSite	Vandenberg Air Force Base
+Rokot	launchSite	Plesetsk Cosmodrome Site 133
+Rokot	launchSite	Plesetsk Cosmodrome
+H-IIB	launchSite	Yoshinobu Launch Complex
+H-IIB	launchSite	Tanegashima Space Center
+Falcon 9	launchSite	Cape Canaveral Air Force Station
+Falcon 9	launchSite	Vandenberg Air Force Base
+Falcon 9	launchSite	Omelek Island
+Mesquito	launchSite	Wallops Island
+Long March 2C	launchSite	Jiuquan Satellite Launch Center
+Long March 2C	launchSite	Taiyuan Satellite Launch Center
+Long March 2C	launchSite	Xichang Satellite Launch Center
+Satellite Launch Vehicle	launchSite	Satish Dhawan Space Centre
+Bumper (rocket)	launchSite	White Sands Missile Range
+Bumper (rocket)	launchSite	Cape Canaveral
+Cape Canaveral Air Force Station Launch Complex 1	launchSite	Cape Canaveral Air Force Station
+Cape Canaveral Air Force Station Launch Complex 2	launchSite	Cape Canaveral Air Force Station
+Zenit-3SL	launchSite	Odyssey (launch platform)
+Augmented Satellite Launch Vehicle	launchSite	Satish Dhawan Space Centre
+Vandenberg AFB Space Launch Complex 6	launchSite	Vandenberg Air Force Base
+Zenit-2M	launchSite	Baikonur Cosmodrome
+Saturn INT-21	launchSite	Kennedy Space Center Launch Complex 39
+Saturn INT-21	launchSite	Kennedy Space Center
+Ares V	launchSite	Kennedy Space Center
+Ares V	launchSite	Kennedy Space Center Launch Complex 39
+Ares I	launchSite	Kennedy Space Center
+Ares I	launchSite	Kennedy Space Center Launch Complex 39
+Cape Canaveral Air Force Station Launch Complex 34	launchSite	Cape Canaveral Air Force Station
+Cape Canaveral Air Force Station Space Launch Complex 37	launchSite	Cape Canaveral Air Force Station
+Cape Canaveral Air Force Station Space Launch Complex 17	launchSite	Cape Canaveral Air Force Station
+Cape Canaveral Air Force Station Launch Complex 19	launchSite	Cape Canaveral Air Force Station
+Cape Canaveral Air Force Station Space Launch Complex 41	launchSite	Cape Canaveral Air Force Station
+Cape Canaveral Air Force Station Launch Complex 14	launchSite	Cape Canaveral Air Force Station
+Cape Canaveral Air Force Station Launch Complex 5	launchSite	Cape Canaveral Air Force Station
+Atlas III	launchSite	Spaceport Florida Launch Complex 36
+Atlas III	launchSite	Cape Canaveral Air Force Station
+Spaceport Florida Launch Complex 36	launchSite	Cape Canaveral Air Force Station
+Spaceport Florida Launch Complex 36	launchSite	Space Florida
+Saturn INT-20	launchSite	Kennedy Space Center Launch Complex 39
+Saturn INT-20	launchSite	Kennedy Space Center
+Geosynchronous Satellite Launch Vehicle Mk III	launchSite	Satish Dhawan Space Centre
+Athena (rocket family)	launchSite	Cape Canaveral Air Force Station
+Athena (rocket family)	launchSite	Vandenberg AFB Space Launch Complex 6
+Athena (rocket family)	launchSite	Kodiak Launch Complex
+Saturn II	launchSite	Kennedy Space Center Launch Complex 39
+Saturn II	launchSite	Kennedy Space Center
+Martin Marietta Spacemaster	launchSite	Kennedy Space Center Launch Complex 39
+Atlas-Agena	launchSite	Cape Canaveral Air Force Station Launch Complex 12
+Atlas-Agena	launchSite	Cape Canaveral Air Force Station Launch Complex 13
+Atlas-Agena	launchSite	Cape Canaveral Air Force Station
+Atlas-Agena	launchSite	Vandenberg AFB Space Launch Complex 3
+Atlas-Agena	launchSite	Vandenberg Air Force Base
+Start-1	launchSite	Svobodny Cosmodrome
+Start-1	launchSite	Plesetsk Cosmodrome
+Cape Canaveral Air Force Station Space Launch Complex 40	launchSite	Cape Canaveral Air Force Station
+SpaceLoft XL	launchSite	Spaceport America
+VLS-1	launchSite	Alcântara Launch Center
+Saturn C-8	launchSite	Kennedy Space Center
+Starchaser 4	launchSite	Morecambe Bay
+Saturn-Shuttle	launchSite	Kennedy Space Center Launch Complex 39
+Saturn-Shuttle	launchSite	Kennedy Space Center
+Minotaur I	launchSite	Vandenberg Air Force Base
+Minotaur I	launchSite	Mid-Atlantic Regional Spaceport
+H-II	launchSite	Yoshinobu Launch Complex
+H-II	launchSite	Tanegashima Space Center
+Soyuz-2 (rocket)	launchSite	Baikonur Cosmodrome Site 31
+Soyuz-2 (rocket)	launchSite	Baikonur Cosmodrome
+Soyuz-2 (rocket)	launchSite	Plesetsk Cosmodrome Site 43
+Soyuz-2 (rocket)	launchSite	Plesetsk Cosmodrome
+Soyuz-2 (rocket)	launchSite	Ensemble de Lancement Soyouz
+Soyuz-2 (rocket)	launchSite	Guiana Space Centre
+Soyuz-FG	launchSite	Gagarin's Start
+Soyuz-FG	launchSite	Baikonur Cosmodrome
+Delta G	launchSite	Cape Canaveral Air Force Station
+Polyot (rocket)	launchSite	Baikonur Cosmodrome Site 31
+Polyot (rocket)	launchSite	Baikonur Cosmodrome
+Zenit-2	launchSite	Baikonur Cosmodrome
+Avatar (spacecraft)	launchSite	Satish Dhawan Space Centre
+Long March 4B	launchSite	Taiyuan Satellite Launch Center
+Ariane M	launchSite	Guiana Space Centre
+Hermes project	launchSite	White Sands Missile Range
+Rehbar-I	launchSite	Sonmiani (space facility)
+Proton-M	launchSite	Baikonur Cosmodrome
+Long March 2D	launchSite	Jiuquan Satellite Launch Center
+Taurus II	launchSite	Mid-Atlantic Regional Spaceport
+Gagarin's Start	launchSite	Baikonur Cosmodrome
+Molniya-M	launchSite	Baikonur Cosmodrome
+Thorad-Agena	launchSite	Vandenberg Air Force Base
+Thorad-Agena	launchSite	Vandenberg AFB Space Launch Complex 1
+Thorad-Agena	launchSite	Vandenberg AFB Space Launch Complex 2
+Thorad-Agena	launchSite	Vandenberg AFB Space Launch Complex 3
+Atlas I	launchSite	Spaceport Florida Launch Complex 36
+Atlas I	launchSite	Cape Canaveral Air Force Station
+Thor-Burner	launchSite	Vandenberg Air Force Base
+Thor-Burner	launchSite	Vandenberg AFB Launch Complex 4300
+Thor-Burner	launchSite	Vandenberg AFB Space Launch Emplacement 6
+Thor-Burner	launchSite	Vandenberg AFB Space Launch Complex 10
+Vandenberg AFB Space Launch Complex 10	launchSite	Vandenberg Air Force Base
+Vandenberg AFB Space Launch Complex 2	launchSite	Vandenberg Air Force Base
+ELA-1	launchSite	Guiana Space Centre
+Cape Canaveral Air Force Station Launch Complex 3	launchSite	Cape Canaveral Air Force Station
+Tsyklon-2	launchSite	Baikonur Cosmodrome
+Tsyklon-3	launchSite	Plesetsk Cosmodrome
+ELA-3	launchSite	Guiana Space Centre
+Jules Verne ATV	launchSite	Guiana Space Centre
+Juno II	launchSite	Cape Canaveral Air Force Station Launch Complex 5
+Juno II	launchSite	Cape Canaveral Air Force Station
+Baikonur Cosmodrome Site 31	launchSite	Baikonur Cosmodrome
+Sputnik (rocket)	launchSite	Gagarin's Start
+Sputnik (rocket)	launchSite	Baikonur Cosmodrome
+Woomera Launch Area 5	launchSite	Woomera Test Range
+Kosmos-2I	launchSite	Kapustin Yar
+Kosmos-2I	launchSite	Plesetsk Cosmodrome
+Long March 3B	launchSite	Xichang Satellite Launch Center
+Long March 3C	launchSite	Xichang Satellite Launch Center
+Long March 4A	launchSite	Taiyuan Satellite Launch Center
+Long March 4C	launchSite	Taiyuan Satellite Launch Center
+Long March 4C	launchSite	Jiuquan Satellite Launch Center
+Strela (rocket)	launchSite	Baikonur Cosmodrome
+Long March 2A	launchSite	Jiuquan Satellite Launch Center
+Long March 2E	launchSite	Xichang Satellite Launch Center
+VS-30	launchSite	Alcântara Launch Center
+VS-30	launchSite	Andøya Rocket Range
+VS-30	launchSite	Parnamirim
+Titan 34D	launchSite	Cape Canaveral Air Force Station Space Launch Complex 40
+Titan 34D	launchSite	Cape Canaveral Air Force Station
+Titan 34D	launchSite	Vandenberg AFB Space Launch Complex 4
+Titan 34D	launchSite	Vandenberg Air Force Base
+SM-65A Atlas	launchSite	Cape Canaveral Air Force Station Launch Complex 12
+SM-65A Atlas	launchSite	Cape Canaveral Air Force Station
+SM-65B Atlas	launchSite	Cape Canaveral Air Force Station Launch Complex 11
+SM-65B Atlas	launchSite	Cape Canaveral Air Force Station Launch Complex 13
+SM-65B Atlas	launchSite	Cape Canaveral Air Force Station
+SM-65C Atlas	launchSite	Cape Canaveral Air Force Station Launch Complex 12
+SM-65C Atlas	launchSite	Cape Canaveral Air Force Station
+Scout X-2	launchSite	Wallops Flight Facility
+Scout X-2	launchSite	Point Arguello
+ALV X-1	launchSite	Mid-Atlantic Regional Spaceport
+Delta E	launchSite	Cape Canaveral Air Force Station
+Delta E	launchSite	Vandenberg Air Force Base
+Thor-Ablestar	launchSite	Cape Canaveral Air Force Station Space Launch Complex 17
+Thor-Ablestar	launchSite	Cape Canaveral Air Force Station
+Thor-Ablestar	launchSite	Vandenberg AFB Space Launch Complex 2
+Thor-Ablestar	launchSite	Point Arguello
+Minotaur IV	launchSite	Vandenberg AFB Space Launch Complex 8
+Minotaur IV	launchSite	Vandenberg Air Force Base
+Minotaur IV	launchSite	Mid-Atlantic Regional Spaceport
+Minotaur IV	launchSite	Mid-Atlantic Regional Spaceport
+Minotaur IV	launchSite	Kodiak Launch Complex Pad 1
+Minotaur IV	launchSite	Kodiak Launch Complex
+H-I	launchSite	Tanegashima
+N-I (rocket)	launchSite	Tanegashima
+N-II (rocket)	launchSite	Tanegashima
+Vandenberg AFB Space Launch Complex 4	launchSite	Vandenberg Air Force Base
+Baikonur Cosmodrome Site 200	launchSite	Baikonur Cosmodrome
+Vandenberg AFB Space Launch Complex 5	launchSite	Vandenberg Air Force Base
+Vandenberg AFB Space Launch Complex 8	launchSite	Vandenberg Air Force Base
+Vandenberg AFB Space Launch Complex 8	launchSite	California Spaceport
+Baikonur Cosmodrome Site 45	launchSite	Baikonur Cosmodrome
+Kosmos-1	launchSite	Baikonur Cosmodrome Site 41
+Kosmos-1	launchSite	Baikonur Cosmodrome
+Kosmos-3	launchSite	Baikonur Cosmodrome Site 41
+Kosmos-3	launchSite	Baikonur Cosmodrome
+ELA-2	launchSite	Guiana Space Centre
+Saturn V	launchSite	Kennedy Space Center Launch Complex 39
+Saturn V	launchSite	Kennedy Space Center
+Baikonur Cosmodrome Site 81	launchSite	Baikonur Cosmodrome
+Baikonur Cosmodrome Site 109	launchSite	Baikonur Cosmodrome
+Soyuz-U2	launchSite	Gagarin's Start
+Soyuz-U2	launchSite	Baikonur Cosmodrome
+Soyuz-U2	launchSite	Plesetsk Cosmodrome
+Haas (rocket)	launchSite	High-altitude balloon
+SM-65D Atlas	launchSite	Cape Canaveral Air Force Station Launch Complex 11
+SM-65D Atlas	launchSite	Cape Canaveral Air Force Station Launch Complex 12
+SM-65D Atlas	launchSite	Cape Canaveral Air Force Station Launch Complex 13
+SM-65D Atlas	launchSite	Cape Canaveral Air Force Station
+SM-65D Atlas	launchSite	Vandenberg Air Force Base Launch Complex 576
+SM-65D Atlas	launchSite	Vandenberg Air Force Base
+SM-65E Atlas	launchSite	Cape Canaveral Air Force Station Launch Complex 11
+SM-65E Atlas	launchSite	Vandenberg AFB Operational Silo Test Facility
+SM-65E Atlas	launchSite	Vandenberg AFB Launch Complex 576
+SM-65E Atlas	launchSite	Vandenberg Air Force Base
+SM-65F Atlas	launchSite	Cape Canaveral Air Force Station Launch Complex 11
+SM-65F Atlas	launchSite	Vandenberg AFB Operational Silo Test Facility
+SM-65F Atlas	launchSite	Vandenberg AFB Launch Complex 576
+SM-65F Atlas	launchSite	Vandenberg Air Force Base
+Atlas E/F	launchSite	Vandenberg AFB Launch Complex 576
+Atlas E/F	launchSite	Vandenberg Air Force Base
+NOTS-EV-1 Pilot	launchSite	Naval Air Weapons Station China Lake
+NOTS-EV-1 Pilot	launchSite	Naval Air Station Point Mugu
+Yoshinobu Launch Complex	launchSite	Tanegashima Space Center
+Mid-Atlantic Regional Spaceport Launch Pad 0	launchSite	Wallops Flight Facility
+Mid-Atlantic Regional Spaceport Launch Pad 0	launchSite	Mid-Atlantic Regional Spaceport
+Tsyklon-4	launchSite	Alcântara Launch Center
+Tsyklon-4	launchSite	Baikonur Cosmodrome
+Tsyklon-4	launchSite	Plesetsk Cosmodrome
+Feng Bao 1	launchSite	Jiuquan Satellite Launch Center
+Titan IIIA	launchSite	Cape Canaveral Air Force Station Launch Complex 20
+Titan IIIA	launchSite	Cape Canaveral Air Force Station
+Titan IIID	launchSite	Vandenberg AFB Space Launch Complex 4
+Titan IIID	launchSite	Vandenberg Air Force Base
+Titan IIIE	launchSite	Cape Canaveral Air Force Station Space Launch Complex 41
+Titan IIIE	launchSite	Cape Canaveral Air Force Station
+Atlas G	launchSite	Spaceport Florida Launch Complex 36
+Atlas G	launchSite	Cape Canaveral Air Force Station
+Atlas H	launchSite	Vandenberg AFB Space Launch Complex 3
+Atlas H	launchSite	Vandenberg Air Force Base
+Atlas SLV-3	launchSite	Vandenberg AFB Space Launch Complex 3
+Atlas SLV-3	launchSite	Vandenberg Air Force Base
+Atlas SLV-3	launchSite	Cape Canaveral Air Force Station Launch Complex 14
+Atlas SLV-3	launchSite	Cape Canaveral Air Force Station
+Atlas-Able	launchSite	Cape Canaveral Air Force Station Launch Complex 12
+Atlas-Able	launchSite	Cape Canaveral Air Force Station Launch Complex 13
+Atlas-Able	launchSite	Cape Canaveral Air Force Station
+Johannes Kepler ATV	launchSite	Guiana Space Centre
+Commercial Titan III	launchSite	Cape Canaveral Air Force Station Space Launch Complex 40
+Commercial Titan III	launchSite	Cape Canaveral Air Force Station
+Thor DSV-2	launchSite	Cape Canaveral Air Force Station
+Thor DSV-2	launchSite	Johnston Atoll
+Thor DSV-2U	launchSite	Vandenberg Air Force Base
+Thor-Delta	launchSite	Cape Canaveral Air Force Station
+Delta A	launchSite	Cape Canaveral Air Force Station
+Delta B	launchSite	Cape Canaveral Air Force Station
+Delta C	launchSite	Cape Canaveral Air Force Station
+Delta D	launchSite	Cape Canaveral Air Force Station
+Delta J	launchSite	Vandenberg Air Force Base
+Delta L	launchSite	Cape Canaveral Air Force Station
+Delta L	launchSite	Vandenberg Air Force Base
+Delta M	launchSite	Cape Canaveral Air Force Station
+Delta N	launchSite	Cape Canaveral Air Force Station
+Delta N	launchSite	Vandenberg Air Force Base
+Delta 0100	launchSite	Vandenberg Air Force Base
+Delta 1000	launchSite	Cape Canaveral Air Force Station
+Delta 1000	launchSite	Vandenberg Air Force Base
+Delta 2000	launchSite	Cape Canaveral Air Force Station
+Delta 2000	launchSite	Vandenberg Air Force Base
+Delta 3000	launchSite	Cape Canaveral Air Force Station
+Delta 3000	launchSite	Vandenberg Air Force Base
+Delta 4000	launchSite	Cape Canaveral Air Force Station
+Delta 5000	launchSite	Vandenberg Air Force Base
+Proton-K	launchSite	Baikonur Cosmodrome
+Cape Canaveral Air Force Station Launch Complex 43	launchSite	Cape Canaveral Air Force Station
+Cape Canaveral Air Force Station Launch Complex 4	launchSite	Cape Canaveral Air Force Station
+R-7A Semyorka	launchSite	Baikonur Cosmodrome
+R-7A Semyorka	launchSite	Baikonur Cosmodrome Site 31
+R-7A Semyorka	launchSite	Plesetsk Cosmodrome
+R-7A Semyorka	launchSite	Plesetsk Cosmodrome Site 16
+R-7A Semyorka	launchSite	Plesetsk Cosmodrome Site 43
+Cape Canaveral Air Force Station Launch Complex 6	launchSite	Cape Canaveral Air Force Station
+Cape Canaveral Air Force Station Launch Complex 9	launchSite	Cape Canaveral Air Force Station
+Cape Canaveral Air Force Station Launch Complex 10	launchSite	Cape Canaveral Air Force Station
+Cape Canaveral Air Force Station Launch Complex 11	launchSite	Cape Canaveral Air Force Station
+Cape Canaveral Air Force Station Launch Complex 12	launchSite	Cape Canaveral Air Force Station
+Cape Canaveral Air Force Station Launch Complex 13	launchSite	Cape Canaveral Air Force Station
+Unha	launchSite	Tonghae Satellite Launching Ground
+Spaceport Florida Launch Complex 46	launchSite	Cape Canaveral Air Force Station
+Spaceport Florida Launch Complex 46	launchSite	Space Florida
+Plesetsk Cosmodrome Site 133	launchSite	Plesetsk Cosmodrome
+Plesetsk Cosmodrome Site 132	launchSite	Plesetsk Cosmodrome
+Plesetsk Cosmodrome Site 32	launchSite	Plesetsk Cosmodrome
+Plesetsk Cosmodrome Site 131	launchSite	Plesetsk Cosmodrome
+Plesetsk Cosmodrome Site 41	launchSite	Plesetsk Cosmodrome
+Plesetsk Cosmodrome Site 16	launchSite	Plesetsk Cosmodrome
+Plesetsk Cosmodrome Site 43	launchSite	Plesetsk Cosmodrome
+Ensemble de Lancement Soyouz	launchSite	Guiana Space Centre
+Paektusan (rocket)	launchSite	Tonghae Satellite Launching Ground
+Progress M-01M	launchSite	Baikonur Cosmodrome
+Progress M-65	launchSite	Baikonur Cosmodrome
+Progress M-66	launchSite	Baikonur Cosmodrome
+Progress M-64	launchSite	Baikonur Cosmodrome
+Progress M-02M	launchSite	Baikonur Cosmodrome
+Soyuz-1 (rocket)	launchSite	Baikonur Cosmodrome
+Soyuz-1 (rocket)	launchSite	Plesetsk Cosmodrome
+Soyuz-1 (rocket)	launchSite	Vostochny Cosmodrome
+Kosmos 1669	launchSite	Baikonur Cosmodrome
+Zenit-3SLB	launchSite	Baikonur Cosmodrome
+Zenit-3F	launchSite	Baikonur Cosmodrome
+Vostok-L	launchSite	Baikonur Cosmodrome
+Vostok-K	launchSite	Baikonur Cosmodrome
+Vostok-2 (rocket)	launchSite	Baikonur Cosmodrome
+Vostok-2 (rocket)	launchSite	Plesetsk Cosmodrome
+Vostok-2M	launchSite	Baikonur Cosmodrome
+Vostok-2M	launchSite	Plesetsk Cosmodrome
+Soyuz/Vostok	launchSite	Baikonur Cosmodrome
+Soyuz (rocket)	launchSite	Baikonur Cosmodrome
+Soyuz-L	launchSite	Baikonur Cosmodrome
+Soyuz-M	launchSite	Plesetsk Cosmodrome
+Mercury-Redstone Launch Vehicle	launchSite	Cape Canaveral Air Force Station Launch Complex 5
+Mercury-Redstone Launch Vehicle	launchSite	Cape Canaveral Air Force Station
+Cape Canaveral Air Force Station Launch Complex 15	launchSite	Cape Canaveral Air Force Station
+Cape Canaveral Air Force Station Launch Complex 16	launchSite	Cape Canaveral Air Force Station
+Cape Canaveral Air Force Station Launch Complex 18	launchSite	Cape Canaveral Air Force Station
+Minotaur V	launchSite	Vandenberg AFB Space Launch Complex 8
+Minotaur V	launchSite	Vandenberg Air Force Base
+Minotaur V	launchSite	Mid-Atlantic Regional Spaceport
+Minotaur V	launchSite	Mid-Atlantic Regional Spaceport
+Minotaur V	launchSite	Kodiak Launch Complex Pad 1
+Minotaur V	launchSite	Kodiak Launch Complex
+Titan 23G	launchSite	Vandenberg Air Force Base
+Titan II GLV	launchSite	Cape Canaveral Air Force Station
+Minotaur II	launchSite	Vandenberg Air Force Base
+Minotaur III	launchSite	Vandenberg Air Force Base
+Minotaur III	launchSite	Kodiak Launch Complex
+Lambda 4S	launchSite	Uchinoura Space Center
+Atlas LV-3B	launchSite	Cape Canaveral Air Force Station
+Vandenberg AFB Probe Launch Complex C	launchSite	Point Arguello
+Vandenberg AFB Probe Launch Complex C	launchSite	Vandenberg Air Force Base
+Point Arguello Launch Complex A	launchSite	Point Arguello
+Point Arguello Launch Complex A	launchSite	Vandenberg Air Force Base
+Point Arguello Launch Complex B	launchSite	Point Arguello
+Cape Canaveral Air Force Station Launch Complex 31	launchSite	Cape Canaveral Air Force Station
+NOTS-EV-2 Caleb	launchSite	Point Arguello
+NOTS-EV-2 Caleb	launchSite	San Nicolas Island
+Progress M-63	launchSite	Baikonur Cosmodrome
+Progress M-62	launchSite	Baikonur Cosmodrome
+Progress M-61	launchSite	Baikonur Cosmodrome
+Progress M-60	launchSite	Baikonur Cosmodrome
+Progress M-59	launchSite	Baikonur Cosmodrome
+Progress M-58	launchSite	Baikonur Cosmodrome
+Progress M-57	launchSite	Baikonur Cosmodrome
+Progress M-56	launchSite	Baikonur Cosmodrome
+Progress M-55	launchSite	Baikonur Cosmodrome
+Progress M-54	launchSite	Baikonur Cosmodrome
+Progress M-53	launchSite	Baikonur Cosmodrome
+Progress M-52	launchSite	Baikonur Cosmodrome
+Progress M-51	launchSite	Baikonur Cosmodrome
+Progress M-50	launchSite	Baikonur Cosmodrome
+Progress M-49	launchSite	Baikonur Cosmodrome
+Progress M-48	launchSite	Baikonur Cosmodrome
+Progress M-47	launchSite	Baikonur Cosmodrome
+Progress M-46	launchSite	Baikonur Cosmodrome
+Progress M-44	launchSite	Baikonur Cosmodrome
+Progress M-45	launchSite	Baikonur Cosmodrome
+Progress M1-11	launchSite	Baikonur Cosmodrome
+Progress M1-10	launchSite	Baikonur Cosmodrome
+Progress M1-9	launchSite	Baikonur Cosmodrome
+Progress M1-8	launchSite	Baikonur Cosmodrome
+Progress M1-7	launchSite	Baikonur Cosmodrome
+Progress M1-6	launchSite	Baikonur Cosmodrome
+Progress M1-4	launchSite	Baikonur Cosmodrome
+Progress M1-3	launchSite	Baikonur Cosmodrome
+Progress M-SO1	launchSite	Baikonur Cosmodrome
+Progress M1-5	launchSite	Baikonur Cosmodrome
+Progress M-67	launchSite	Baikonur Cosmodrome
+Progress M1-1	launchSite	Baikonur Cosmodrome
+Progress M1-2	launchSite	Baikonur Cosmodrome
+Scout X	launchSite	Wallops Flight Facility
+Scout X-1	launchSite	Wallops Flight Facility
+RM-90 Blue Scout II	launchSite	Cape Canaveral Air Force Station
+RM-89 Blue Scout I	launchSite	Cape Canaveral Air Force Station
+Scout X-1A	launchSite	Wallops Flight Facility
+Wallops Flight Facility Launch Area 3	launchSite	Wallops Flight Facility
+Scout X-2M	launchSite	Point Arguello
+Scout X-2B	launchSite	Point Arguello
+Jupiter (rocket family)	launchSite	Kennedy Space Center Launch Complex 39
+Jupiter (rocket family)	launchSite	Kennedy Space Center
+HTV-1	launchSite	Tanegashima Space Center
+Rus-M	launchSite	Vostochny Cosmodrome
+Progress M-1	launchSite	Baikonur Cosmodrome
+Progress M-2	launchSite	Baikonur Cosmodrome
+Progress M-3	launchSite	Baikonur Cosmodrome
+Progress M-4	launchSite	Baikonur Cosmodrome
+Progress M-5	launchSite	Baikonur Cosmodrome
+Progress M-6	launchSite	Baikonur Cosmodrome
+Progress M-7	launchSite	Baikonur Cosmodrome
+Progress M-8	launchSite	Baikonur Cosmodrome
+Progress M-9	launchSite	Baikonur Cosmodrome
+Progress M-10	launchSite	Baikonur Cosmodrome
+Progress M-11	launchSite	Baikonur Cosmodrome
+Progress M-12	launchSite	Baikonur Cosmodrome
+Progress M-13	launchSite	Baikonur Cosmodrome
+Progress M-15	launchSite	Baikonur Cosmodrome
+Progress M-16	launchSite	Baikonur Cosmodrome
+Progress M-17	launchSite	Baikonur Cosmodrome
+Progress M-18	launchSite	Baikonur Cosmodrome
+Falcon 1e	launchSite	Omelek Island
+VS-40	launchSite	Alcântara Launch Center
+Progress M-03M	launchSite	Baikonur Cosmodrome
+Progress M-MIM2	launchSite	Baikonur Cosmodrome
+Satish Dhawan Space Centre First Launch Pad	launchSite	Satish Dhawan Space Centre
+Simorgh (rocket)	launchSite	Iranian Space Agency#Space centers
+Edoardo Amaldi ATV	launchSite	Guiana Space Centre
+Jiuquan Launch Area 4	launchSite	Jiuquan Satellite Launch Center
+Taiyuan Launch Complex 1	launchSite	Taiyuan Satellite Launch Center
+Athena I	launchSite	Kodiak Launch Complex
+Athena I	launchSite	Mid-Atlantic Regional Spaceport
+Athena I	launchSite	Space Florida
+Athena I	launchSite	Vandenberg Air Force Base
+Athena II	launchSite	Kodiak Launch Complex
+Athena II	launchSite	Mid-Atlantic Regional Spaceport
+Athena II	launchSite	Space Florida
+Athena II	launchSite	Vandenberg Air Force Base
+Satish Dhawan Space Centre Second Launch Pad	launchSite	Satish Dhawan Space Centre
+Progress M-04M	launchSite	Baikonur Cosmodrome
+Progress M-05M	launchSite	Baikonur Cosmodrome
+Progress M-06M	launchSite	Baikonur Cosmodrome
+Progress M-07M	launchSite	Baikonur Cosmodrome
+Progress 2	launchSite	Baikonur Cosmodrome
+Progress M-08M	launchSite	Baikonur Cosmodrome
+Terasca	launchSite	Vandenberg Air Force Base
+Cajun (rocket)	launchSite	Wallops Island
+Cajun (rocket)	launchSite	Fort Churchill
+Cajun (rocket)	launchSite	Eglin Air Force Base
+Shavetail	launchSite	White Sands Missile Range
+Progress M-09M	launchSite	Baikonur Cosmodrome
+Cape Canaveral Air Force Station Launch Complex 32	launchSite	Cape Canaveral Air Force Station
+Space Launch System	launchSite	Kennedy Space Center Launch Complex 39
+Space Launch System	launchSite	Kennedy Space Center
+Falcon Heavy	launchSite	Vandenberg Air Force Base
+Falcon Heavy	launchSite	Cape Canaveral Air Force Station Space Launch Complex 40
+Progress M-10M	launchSite	Baikonur Cosmodrome
+Progress M-11M	launchSite	Baikonur Cosmodrome
+Baikonur Cosmodrome Site 250	launchSite	Baikonur Cosmodrome
+Baikonur Cosmodrome Site 110	launchSite	Baikonur Cosmodrome

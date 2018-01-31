@@ -1,0 +1,1438 @@
+Ankara	populationMetro	4431719
+Amsterdam	populationMetro	2158592
+Aarhus	populationMetro	1240576
+Athens	populationMetro	3761810
+Ames, Iowa	populationMetro	89542
+Algiers	populationMetro	5000000
+Austin, Texas	populationMetro	1716291
+Ann Arbor, Michigan	populationMetro	344791
+Alexandria, Louisiana	populationMetro	145035
+Atlanta	populationMetro	5268860
+Berlin	populationMetro	4429847
+Bursa	populationMetro	1905570
+Brussels	populationMetro	1830000
+Bitola	populationMetro	122173
+Buffalo, New York	populationMetro	1135509
+Brasília	populationMetro	2851549
+Copenhagen	populationMetro	1918062
+Cardiff	populationMetro	841600
+Columbus, Ohio	populationMetro	1836536
+Cleveland	populationMetro	2250871
+Colorado Springs, Colorado	populationMetro	645613
+Cairo	populationMetro	19439541
+Cedar Falls, Iowa	populationMetro	162263
+Chicago	populationMetro	9461105
+Dayton, Ohio	populationMetro	841502
+Dar es Salaam	populationMetro	2497940
+Dublin	populationMetro	1801040
+Denver	populationMetro	2552195
+Davenport, Iowa	populationMetro	379690
+Detroit	populationMetro	4296250
+Des Moines, Iowa	populationMetro	562906
+Eindhoven	populationMetro	775345
+Eugene, Oregon	populationMetro	351715
+Fredericton	populationMetro	85688
+Frankfurt	populationMetro	5600000
+Fortaleza	populationMetro	3602319
+Fort Wayne, Indiana	populationMetro	414315
+Gothenburg	populationMetro	930635
+Guatemala City	populationMetro	3700000
+Gdańsk	populationMetro	1080700
+Hamburg	populationMetro	4300000
+Houston	populationMetro	5946800
+Honolulu	populationMetro	953207
+Hanover	populationMetro	1128543
+Hamilton, Ontario	populationMetro	692911
+Ithaca, New York	populationMetro	101564
+Jackson, Michigan	populationMetro	160248
+Jerusalem	populationMetro	1029300
+Jackson, Mississippi	populationMetro	539057
+Jakarta	populationMetro	28020000
+Kabul	populationMetro	3895000
+Kraków	populationMetro	1449783
+Kuala Lumpur	populationMetro	7239871
+Kajang	populationMetro	539561
+Karachi	populationMetro	24986150
+Khartoum	populationMetro	5274321
+Kansas City, Missouri	populationMetro	2200000
+Lincoln, Nebraska	populationMetro	302157
+London	populationMetro	12300000
+Leipzig	populationMetro	3500000
+Liverpool	populationMetro	1103089
+Lisbon	populationMetro	2815851
+Los Angeles	populationMetro	15250000
+Lansing, Michigan	populationMetro	464036
+Lleida	populationMetro	250000
+Malmö	populationMetro	635224
+Mumbai	populationMetro	21900967
+Moncton	populationMetro	126424
+Marquette, Michigan	populationMetro	67077
+Manama	populationMetro	345000
+Mobile, Alabama	populationMetro	412992
+Mecca	populationMetro	2500000
+Nuremberg	populationMetro	35000002
+Nijmegen	populationMetro	736107
+Nashville, Tennessee	populationMetro	1670891
+Ottawa	populationMetro	1130761
+Oslo	populationMetro	1442318
+Odense	populationMetro	190245
+Portland, Oregon	populationMetro	2260000
+Poznań	populationMetro	943700
+Prague	populationMetro	2300000
+Portsmouth	populationMetro	1547000
+Pittsburgh	populationMetro	2356285
+Riga	populationMetro	1098523
+Reykjavík	populationMetro	201847
+Rio de Janeiro	populationMetro	14387000
+Rotterdam	populationMetro	6659300
+Reno, Nevada	populationMetro	420000
+Stockholm	populationMetro	2063945
+Sarajevo	populationMetro	641000
+St. Louis, Missouri	populationMetro	2845298
+Sidon	populationMetro	266000
+Syracuse, New York	populationMetro	742603
+Szczecin	populationMetro	777000
+San Diego	populationMetro	3095313
+Saint John, New Brunswick	populationMetro	129364
+Tokyo	populationMetro	35676000
+The Hague	populationMetro	1406000
+Tyre, Lebanon	populationMetro	174000
+Toledo, Ohio	populationMetro	651409
+Toruń	populationMetro	297646
+Tel Aviv	populationMetro	3325700
+Victoria, British Columbia	populationMetro	330088
+Vilnius	populationMetro	850300
+Vancouver	populationMetro	2116581
+Warsaw	populationMetro	2631902
+Whitehorse, Yukon	populationMetro	22898
+Wrocław	populationMetro	1030000
+Windsor, Ontario	populationMetro	323342
+Waterloo, Iowa	populationMetro	169895
+Yerevan	populationMetro	1245700
+Bristol	populationMetro	1006600
+Budapest	populationMetro	3271110
+Bucharest	populationMetro	2150000
+Lewiston, Idaho	populationMetro	57961
+Boise, Idaho	populationMetro	616561
+Beirut	populationMetro	2250000
+Dresden	populationMetro	1143197
+Bangalore	populationMetro	6562408
+Hyderabad, India	populationMetro	6383850
+Delhi	populationMetro	18916890
+Seville	populationMetro	1508609
+Montevideo	populationMetro	1800000
+Bellingham, Washington	populationMetro	200434
+London, Ontario	populationMetro	457720
+Monterrey	populationMetro	4080329
+Saint Paul, Minnesota	populationMetro	3502891
+Thessaloniki	populationMetro	995766
+Kassel	populationMetro	450000
+Katowice	populationMetro	4676983
+Tbilisi	populationMetro	1485293
+La Paz	populationMetro	2364235
+Rockville, Maryland	populationMetro	5306565
+Tórshavn	populationMetro	20000
+Dakar	populationMetro	2452656
+Portland, Maine	populationMetro	516826
+Łódź	populationMetro	1428600
+Olsztyn	populationMetro	270000
+Dąbrowa Górnicza	populationMetro	5294000
+Amman	populationMetro	5125000
+Chennai	populationMetro	7413779
+Omaha, Nebraska	populationMetro	885350
+Las Vegas, Nevada	populationMetro	1951269
+Białystok	populationMetro	370000
+Kolkata	populationMetro	15644040
+Memphis, Tennessee	populationMetro	1305946
+Phoenix, Arizona	populationMetro	4192887
+San Francisco	populationMetro	4335391
+Lviv	populationMetro	1498000
+Utrecht	populationMetro	640000
+Lexington, Kentucky	populationMetro	472099
+Philadelphia	populationMetro	5965343
+Albuquerque, New Mexico	populationMetro	907755
+Samarkand	populationMetro	708000
+Riyadh	populationMetro	7000000
+Santiago	populationMetro	7200000
+New Delhi	populationMetro	13850507
+Harlingen, Texas	populationMetro	385511
+Albany, New York	populationMetro	857592
+Addis Ababa	populationMetro	4567857
+Milwaukee	populationMetro	1555908
+Richmond, Virginia	populationMetro	1231675
+Nuuk	populationMetro	18039
+San Jose, California	populationMetro	1975342
+Fort Worth, Texas	populationMetro	6145037
+New Haven, Connecticut	populationMetro	846766
+Dallas	populationMetro	6477315
+Salt Lake City	populationMetro	1124197
+San Antonio	populationMetro	2142508
+Miami	populationMetro	5547051
+New Orleans	populationMetro	1235650
+Kalamazoo, Michigan	populationMetro	326589
+Caracas	populationMetro	5196514
+Schenectady, New York	populationMetro	870716
+Odessa	populationMetro	11910001
+Zagreb	populationMetro	1288000
+Belgrade	populationMetro	2003100
+Ouagadougou	populationMetro	1727390
+Thiruvananthapuram	populationMetro	1067861
+Kozhikode	populationMetro	1015681
+Kochi	populationMetro	1564089
+Bergen	populationMetro	3847
+Bangkok	populationMetro	11971000
+Bridgetown	populationMetro	96578
+Colombo	populationMetro	5648000
+Chişinău	populationMetro	789500
+Dhaka	populationMetro	12797394
+Georgetown, Guyana	populationMetro	354964
+Asunción	populationMetro	2164316
+Kuwait City	populationMetro	2380000
+Managua	populationMetro	2100000
+Muscat, Oman	populationMetro	1090797
+Tucson, Arizona	populationMetro	1020200
+Panama City	populationMetro	1272672
+Port-au-Prince	populationMetro	1728100
+Flagstaff, Arizona	populationMetro	134421
+Brno	populationMetro	729510
+Tri-Cities, Washington	populationMetro	253340
+San Salvador	populationMetro	2290790
+Richland, Washington	populationMetro	235841
+Santo Domingo	populationMetro	3512391
+Sofia	populationMetro	1539080
+Taipei	populationMetro	6900273
+Tehran	populationMetro	13413348
+Tunis	populationMetro	2412500
+Dover, Delaware	populationMetro	152255
+Tallahassee, Florida	populationMetro	367413
+Springfield, Illinois	populationMetro	208182
+Montgomery, Alabama	populationMetro	374536
+Indianapolis	populationMetro	1756241
+Jefferson City, Missouri	populationMetro	149807
+Baton Rouge, Louisiana	populationMetro	802484
+Helena, Montana	populationMetro	74801
+Bismarck, North Dakota	populationMetro	108779
+Oklahoma City	populationMetro	1252987
+Harrisburg, Pennsylvania	populationMetro	528892
+Madison, Wisconsin	populationMetro	561505
+Norfolk, Virginia	populationMetro	1672319
+Metz	populationMetro	230334
+Baalbek	populationMetro	105000
+Sydney, Nova Scotia	populationMetro	24115
+Johannesburg	populationMetro	6267700
+Binghamton, New York	populationMetro	251725
+Pamplona	populationMetro	319208
+Włocławek	populationMetro	243
+Jacksonville, Florida	populationMetro	1525228
+Council Bluffs, Iowa	populationMetro	865350
+Timişoara	populationMetro	359132
+Dubuque, Iowa	populationMetro	93653
+Charleston, South Carolina	populationMetro	659191
+Campinas	populationMetro	2633523
+Duluth, Minnesota	populationMetro	276368
+Valencia, Spain	populationMetro	1705742
+Cartagena, Colombia	populationMetro	1239430
+Wilkes-Barre, Pennsylvania	populationMetro	563631
+Toronto	populationMetro	5113149
+Recife	populationMetro	4136506
+Düsseldorf	populationMetro	7295000
+Brașov	populationMetro	399316
+Newark, New Jersey	populationMetro	18818536
+Burlington, Vermont	populationMetro	208055
+Bilbao	populationMetro	875552
+Newcastle upon Tyne	populationMetro	879996
+Newcastle upon Tyne	populationMetro	1093400
+Newcastle upon Tyne	populationMetro	1650000
+Hope, Arkansas	populationMetro	32057
+St. John's, Newfoundland and Labrador	populationMetro	181113
+Zabrze	populationMetro	5294000
+Guadalajara, Jalisco	populationMetro	4328584
+Osnabrück	populationMetro	272674
+North Bay, Ontario	populationMetro	63424
+Bydgoszcz	populationMetro	460608
+Częstochowa	populationMetro	400000
+Radom	populationMetro	371000
+Kielce	populationMetro	327862
+Sosnowiec	populationMetro	5294000
+Gliwice	populationMetro	5294000
+Bytom	populationMetro	5294000
+Bielsko-Biała	populationMetro	5294000
+Lublin	populationMetro	664000
+Rybnik	populationMetro	700000
+Rzeszów	populationMetro	740000
+Opole	populationMetro	267000
+Chorzów	populationMetro	5294000
+Tychy	populationMetro	5294000
+Jastrzębie-Zdrój	populationMetro	650000
+Ruda Śląska	populationMetro	5294000
+Zielona Góra	populationMetro	294000
+Concepción, Chile	populationMetro	1322581
+Roanoke, Virginia	populationMetro	302200
+Casper, Wyoming	populationMetro	75450
+Homs	populationMetro	1250650
+Hopewell, Virginia	populationMetro	1175652
+Sarnia, Ontario	populationMetro	88793
+Yakima, Washington	populationMetro	261102
+Provo, Utah	populationMetro	526810
+Belo Horizonte	populationMetro	5397438
+Lancaster, Pennsylvania	populationMetro	494486
+Ponce, Puerto Rico	populationMetro	442244
+Savannah, Georgia	populationMetro	347611
+St. Petersburg, Florida	populationMetro	2733761
+Lagos	populationMetro	15000000
+Lima	populationMetro	8472935
+Birmingham, Alabama	populationMetro	1212848
+Bukhara	populationMetro	328400
+Varna	populationMetro	405329
+Flint, Michigan	populationMetro	425790
+New London, Connecticut	populationMetro	274055
+Kitchener, Ontario	populationMetro	451235
+Kennewick, Washington	populationMetro	235841
+Winchester, Virginia	populationMetro	122369
+Virginia Beach, Virginia	populationMetro	1672319
+Radford, Virginia	populationMetro	157614
+Poquoson, Virginia	populationMetro	1645015
+Petersburg, Virginia	populationMetro	1126262
+Newport News, Virginia	populationMetro	1672319
+Lynchburg, Virginia	populationMetro	246036
+Hampton, Virginia	populationMetro	1674498
+Franklin, Virginia	populationMetro	1645015
+Fairfax, Virginia	populationMetro	5139549
+Colonial Heights, Virginia	populationMetro	1126262
+Chesapeake, Virginia	populationMetro	1672319
+Bristol, Virginia	populationMetro	302997
+Springfield, Massachusetts	populationMetro	698903
+Ciudad Juárez	populationMetro	1457955
+Tampa, Florida	populationMetro	4000000
+Huntington, West Virginia	populationMetro	286012
+Boulder, Colorado	populationMetro	293161
+Ruhr	populationMetro	5172745
+Edmonton	populationMetro	1034945
+Ferndale, Michigan	populationMetro	5456428
+Cluj-Napoca	populationMetro	379705
+Rocky Mount, North Carolina	populationMetro	145596
+Post Falls, Idaho	populationMetro	42568
+Wisconsin Dells, Wisconsin	populationMetro	5081
+Orlando, Florida	populationMetro	2082628
+Gatineau	populationMetro	1130761
+Porto	populationMetro	1671536
+Regina, Saskatchewan	populationMetro	194971
+Quebec City	populationMetro	715515
+Winnipeg	populationMetro	694668
+Owensboro, Kentucky	populationMetro	114752
+Tijuana	populationMetro	1784034
+Stevens Point, Wisconsin	populationMetro	48123
+Chattanooga, Tennessee	populationMetro	518441
+Norwich	populationMetro	376500
+Anniston, Alabama	populationMetro	112240
+Hoover, Alabama	populationMetro	1108210
+Mountain Brook, Alabama	populationMetro	1212848
+Florence, Alabama	populationMetro	140049
+Auburn, Alabama	populationMetro	130516
+Decatur, Alabama	populationMetro	150125
+Huntsville, Alabama	populationMetro	417593
+Northport, Alabama	populationMetro	210839
+Tuscaloosa, Alabama	populationMetro	210839
+Atlantic City, New Jersey	populationMetro	266268
+Peoria, Arizona	populationMetro	4536069
+Tempe, Arizona	populationMetro	4281899
+Prescott Valley, Arizona	populationMetro	103260
+Prescott, Arizona	populationMetro	103260
+Mountain Home, Arkansas	populationMetro	41307
+Rogers, Arkansas	populationMetro	420876
+Jonesboro, Arkansas	populationMetro	118830
+Van Buren, Arkansas	populationMetro	273170
+Conway, Arkansas	populationMetro	699757
+Tuckerman, Arkansas	populationMetro	1720
+White Hall, Arkansas	populationMetro	107341
+Pine Bluff, Arkansas	populationMetro	107341
+Cabot, Arkansas	populationMetro	685488
+Lonoke, Arkansas	populationMetro	610518
+Jacksonville, Arkansas	populationMetro	699757
+Maumelle, Arkansas	populationMetro	699757
+North Little Rock, Arkansas	populationMetro	699757
+Fort Smith, Arkansas	populationMetro	298592
+El Dorado, Arkansas	populationMetro	44170
+Fayetteville, Arkansas	populationMetro	463204
+Hayward, California	populationMetro	7468390
+Chico, California	populationMetro	212968
+Oroville, California	populationMetro	48000
+Antioch, California	populationMetro	7468390
+El Centro, California	populationMetro	163972
+Bakersfield, California	populationMetro	827173
+Palmdale, California	populationMetro	483998
+Madera, California	populationMetro	152465
+Ross, California	populationMetro	7468390
+Angwin, California	populationMetro	7468390
+Cedaredge, Colorado	populationMetro	6000
+Grand Junction, Colorado	populationMetro	146093
+Wilmington, Delaware	populationMetro	5826742
+Alachua, Florida	populationMetro	243985
+Gainesville, Florida	populationMetro	258555
+Washington, D.C.	populationMetro	6
+Panama City, Florida	populationMetro	163505
+Cape Canaveral, Florida	populationMetro	536521
+Palm Bay, Florida	populationMetro	536521
+Melbourne, Florida	populationMetro	536521
+Coconut Creek, Florida	populationMetro	5564635
+Cooper City, Florida	populationMetro	5564635
+Davie, Florida	populationMetro	5564635
+Dania Beach, Florida	populationMetro	5564635
+Hillsboro Beach, Florida	populationMetro	5463857
+Fort Lauderdale, Florida	populationMetro	5564635
+Deerfield Beach, Florida	populationMetro	5564635
+Lauderdale Lakes, Florida	populationMetro	5564635
+Lauderdale-by-the-Sea, Florida	populationMetro	5463785
+Lauderhill, Florida	populationMetro	5564635
+Hallandale Beach, Florida	populationMetro	5564635
+Lighthouse Point, Florida	populationMetro	5564635
+Margate, Florida	populationMetro	5564635
+Miramar, Florida	populationMetro	5564635
+North Lauderdale, Florida	populationMetro	5463857
+Oakland Park, Florida	populationMetro	5564635
+Parkland, Florida	populationMetro	5556456
+Pembroke Park, Florida	populationMetro	555645635
+Plantation, Florida	populationMetro	5564635
+Pompano Beach, Florida	populationMetro	5564635
+Tamarac, Florida	populationMetro	5564635
+Weston, Florida	populationMetro	5564635
+Naples, Florida	populationMetro	314649
+Lake City, Florida	populationMetro	67007
+Jacksonville Beach, Florida	populationMetro	1400000
+Pensacola, Florida	populationMetro	437125
+Palm Coast, Florida	populationMetro	83084
+Temple Terrace, Florida	populationMetro	4000000
+Vero Beach, Florida	populationMetro	130100
+Cape Coral, Florida	populationMetro	645899
+Fort Myers, Florida	populationMetro	618754
+Lehigh Acres, Florida	populationMetro	571344
+Bradenton, Florida	populationMetro	682833
+Ocala, Florida	populationMetro	316183
+Biscayne Park, Florida	populationMetro	5422200
+Aventura, Florida	populationMetro	5422200
+Coral Gables, Florida	populationMetro	5422200
+Doral, Florida	populationMetro	5422200
+El Portal, Florida	populationMetro	5422200
+Hialeah Gardens, Florida	populationMetro	5422200
+Hialeah, Florida	populationMetro	5422200
+Kendall, Florida	populationMetro	5413212
+Medley, Florida	populationMetro	5422200
+Miami Springs, Florida	populationMetro	5422200
+Miami Shores, Florida	populationMetro	5422200
+Miami Beach, Florida	populationMetro	5564635
+North Bay Village, Florida	populationMetro	5422200
+North Miami Beach, Florida	populationMetro	5422200
+Opa-locka, Florida	populationMetro	5422200
+Pinecrest, Florida	populationMetro	5422200
+North Miami, Florida	populationMetro	5422200
+South Miami, Florida	populationMetro	5422200
+Sweetwater, Miami-Dade County, Florida	populationMetro	5422200
+The Hammocks, Florida	populationMetro	5413212
+Virginia Gardens, Florida	populationMetro	5422200
+Kissimmee, Florida	populationMetro	2082421
+Lake Worth, Florida	populationMetro	5463857
+Wellington, Florida	populationMetro	5463857
+West Palm Beach, Florida	populationMetro	5413212
+Land O' Lakes, Florida	populationMetro	2800000
+Belleair, Florida	populationMetro	2700000
+Clearwater, Florida	populationMetro	2747272
+Treasure Island, Florida	populationMetro	2800000
+Bartow, Florida	populationMetro	584383
+Lakeland, Florida	populationMetro	584383
+Gulf Breeze, Florida	populationMetro	26061
+Sarasota, Florida	populationMetro	673035
+Casselberry, Florida	populationMetro	2082421
+Lake Mary, Florida	populationMetro	2082421
+Longwood, Florida	populationMetro	2082421
+Oviedo, Florida	populationMetro	2082421
+Sanford, Florida	populationMetro	818
+Fort Pierce, Florida	populationMetro	400121
+St. Augustine, Florida	populationMetro	1277997
+Port St. Lucie, Florida	populationMetro	406296
+Daytona Beach Shores, Florida	populationMetro	496575
+DeLand, Florida	populationMetro	436575
+Daytona Beach, Florida	populationMetro	496575
+Port Orange, Florida	populationMetro	496575
+Macon, Georgia	populationMetro	231576
+Albany, Georgia	populationMetro	164069
+Brunswick, Georgia	populationMetro	100613
+Snellville, Georgia	populationMetro	5138223
+Gainesville, Georgia	populationMetro	187743
+Warner Robins, Georgia	populationMetro	90000
+Valdosta, Georgia	populationMetro	130170
+Meridian, Idaho	populationMetro	624000
+Pocatello, Idaho	populationMetro	83303
+Idaho Falls, Idaho	populationMetro	130374
+Caldwell, Idaho	populationMetro	624000
+Nampa, Idaho	populationMetro	624000
+Coeur d'Alene, Idaho	populationMetro	131507
+Quincy, Illinois	populationMetro	55502
+Annawan, Illinois	populationMetro	1319
+Cleveland, Illinois	populationMetro	381050
+Crystal Lake, Illinois	populationMetro	60788
+Normal, Illinois	populationMetro	164209
+East Moline, Illinois	populationMetro	379690
+Moline, Illinois	populationMetro	379690
+Rock Island, Illinois	populationMetro	379690
+Rockford, Illinois	populationMetro	339178
+Noblesville, Indiana	populationMetro	2014267
+Speedway, Indiana	populationMetro	1939349
+Bloomington, Indiana	populationMetro	175506
+Battle Ground, Indiana	populationMetro	190386
+South Bend, Indiana	populationMetro	316663
+West Lafayette, Indiana	populationMetro	182821
+Lafayette, Indiana	populationMetro	183340
+Durant, Iowa	populationMetro	377291
+Clinton, Iowa	populationMetro	48417
+Dyersville, Iowa	populationMetro	92384
+Asbury, Iowa	populationMetro	92359
+Cascade, Iowa	populationMetro	92384
+Novi Sad	populationMetro	380643
+Epworth, Iowa	populationMetro	92384
+Farley, Iowa	populationMetro	92384
+Peosta, Iowa	populationMetro	92359
+Iowa City, Iowa	populationMetro	149437
+Cedar Rapids, Iowa	populationMetro	255452
+Muscatine, Iowa	populationMetro	54741
+Blue Grass, Iowa	populationMetro	381050
+Buffalo, Iowa	populationMetro	381580
+Donahue, Iowa	populationMetro	377291
+Dixon, Iowa	populationMetro	379066
+Eldridge, Iowa	populationMetro	379066
+Le Claire, Iowa	populationMetro	381580
+Long Grove, Iowa	populationMetro	377291
+Maysville, Iowa	populationMetro	377291
+McCausland, Iowa	populationMetro	377291
+New Liberty, Iowa	populationMetro	377291
+Panorama Park, Iowa	populationMetro	377291
+Park View, Iowa	populationMetro	377291
+Princeton, Iowa	populationMetro	377291
+Riverdale, Iowa	populationMetro	381510
+Kingston, Ontario	populationMetro	152358
+Wichita, Kansas	populationMetro	630721
+Ashland, Kentucky	populationMetro	288649
+Murray, Kentucky	populationMetro	37191
+Bowling Green, Kentucky	populationMetro	120595
+Lake Charles, Louisiana	populationMetro	194138
+Monroe, Louisiana	populationMetro	170053
+Bangor, Maine	populationMetro	147180
+Cumberland, Maryland	populationMetro	103299
+Maryland City, Maryland	populationMetro	5
+Pasadena, Maryland	populationMetro	62175
+Halfway, Maryland	populationMetro	257619
+Salisbury, Maryland	populationMetro	125203
+Bay City, Michigan	populationMetro	108390
+Sparta, Michigan	populationMetro	771185
+Monroe, Michigan	populationMetro	152021
+Muskegon, Michigan	populationMetro	172188
+Auburn Hills, Michigan	populationMetro	5456428
+Birmingham, Michigan	populationMetro	5456428
+Beverly Hills, Michigan	populationMetro	5456428
+Bloomfield Hills, Michigan	populationMetro	5456428
+Clawson, Michigan	populationMetro	5456428
+Farmington, Michigan	populationMetro	5456428
+Farmington Hills, Michigan	populationMetro	5456428
+Hazel Park, Michigan	populationMetro	5456428
+Lake Orion, Michigan	populationMetro	5456428
+Oak Park, Michigan	populationMetro	5456428
+Pleasant Ridge, Michigan	populationMetro	5456428
+Royal Oak Charter Township, Michigan	populationMetro	5456428
+Southfield, Michigan	populationMetro	5456428
+Royal Oak, Michigan	populationMetro	5456428
+Georgetown Township, Michigan	populationMetro	1306768
+Ferrysburg, Michigan	populationMetro	1306768
+Grand Haven, Michigan	populationMetro	263801
+Hudsonville, Michigan	populationMetro	1306768
+Jamestown Charter Township, Michigan	populationMetro	1306768
+Jenison, Michigan	populationMetro	1306768
+Zeeland, Michigan	populationMetro	1306768
+Saginaw, Michigan	populationMetro	206300
+Port Huron, Michigan	populationMetro	61328
+Belleville, Michigan	populationMetro	39076
+Dearborn Heights, Michigan	populationMetro	4488335
+Westland, Michigan	populationMetro	4488335
+Andover, Minnesota	populationMetro	2968805
+Anoka, Minnesota	populationMetro	2968805
+Moorhead, Minnesota	populationMetro	208777
+Brainerd, Minnesota	populationMetro	91067
+Apple Valley, Minnesota	populationMetro	2968805
+Burnsville, Minnesota	populationMetro	3175041
+Lakeville, Minnesota	populationMetro	3502891
+Brooklyn Center, Minnesota	populationMetro	3175041
+Brooklyn Park, Minnesota	populationMetro	3269814
+Crystal, Minnesota	populationMetro	2968805
+Eden Prairie, Minnesota	populationMetro	3175041
+Edina, Minnesota	populationMetro	3279833
+Greenfield, Minnesota	populationMetro	3279833
+Golden Valley, Minnesota	populationMetro	3279833
+Hopkins, Minnesota	populationMetro	3279833
+Independence, Minnesota	populationMetro	3279833
+Loretto, Minnesota	populationMetro	3279833
+Medicine Lake, Minnesota	populationMetro	3279833
+Maple Plain, Minnesota	populationMetro	3279833
+Medina, Minnesota	populationMetro	3279833
+Minnetonka, Minnesota	populationMetro	3279833
+Osseo, Minnesota	populationMetro	2968805
+Plymouth, Minnesota	populationMetro	3269814
+Richfield, Minnesota	populationMetro	2968805
+Wayzata, Minnesota	populationMetro	3279833
+Rochester, Minnesota	populationMetro	186011
+East Grand Forks, Minnesota	populationMetro	98461
+Prior Lake, Minnesota	populationMetro	3279833
+Savage, Minnesota	populationMetro	2968805
+Cottage Grove, Minnesota	populationMetro	3175041
+Woodbury, Minnesota	populationMetro	3275041
+Biloxi, Mississippi	populationMetro	234625
+Gulfport, Mississippi	populationMetro	371694
+Tupelo, Mississippi	populationMetro	134161
+Vicksburg, Mississippi	populationMetro	49644
+Bozeman, Montana	populationMetro	89513
+Missoula, Montana	populationMetro	109299
+Billings, Montana	populationMetro	158050
+Madison Heights, Michigan	populationMetro	5456428
+Livonia, Michigan	populationMetro	4488335
+Coon Rapids, Minnesota	populationMetro	2968805
+Maple Grove, Minnesota	populationMetro	3279833
+Robbinsdale, Minnesota	populationMetro	3279833
+Rogers, Minnesota	populationMetro	2968805
+Bloomington, Minnesota	populationMetro	3269814
+St. Louis Park, Minnesota	populationMetro	3269814
+Las Cruces, New Mexico	populationMetro	209233
+Lackawanna, New York	populationMetro	1254066
+Rochester, New York	populationMetro	1098201
+Niagara Falls, New York	populationMetro	1254066
+Carmel, New York	populationMetro	15284
+Burlington, North Carolina	populationMetro	148053
+Asheville, North Carolina	populationMetro	408436
+Concord, North Carolina	populationMetro	1745524
+Fayetteville, North Carolina	populationMetro	341363
+Belmont, North Carolina	populationMetro	2067810
+Gastonia, North Carolina	populationMetro	2067810
+Mint Hill, North Carolina	populationMetro	2191604
+Wilmington, North Carolina	populationMetro	362315
+Jacksonville, North Carolina	populationMetro	150355
+Greenville, North Carolina	populationMetro	183000
+Goldsboro, North Carolina	populationMetro	41000
+Fargo, North Dakota	populationMetro	208777
+Grand Forks, North Dakota	populationMetro	98461
+Springfield, Ohio	populationMetro	133333
+Parma, Ohio	populationMetro	2077240
+Hattiesburg, Mississippi	populationMetro	148546
+Steubenville, Ohio	populationMetro	128000
+Ironton, Ohio	populationMetro	288648
+Bellefontaine, Ohio	populationMetro	46005
+Mansfield, Ohio	populationMetro	124490
+Canton, Ohio	populationMetro	408005
+Akron, Ohio	populationMetro	703200
+Warren, Ohio	populationMetro	565773
+Lawton, Oklahoma	populationMetro	124098
+Enid, Oklahoma	populationMetro	60580
+Claremore, Oklahoma	populationMetro	905755
+Sandy, Oregon	populationMetro	16370
+Bend, Oregon	populationMetro	170705
+Medford, Oregon	populationMetro	207010
+Woodburn, Oregon	populationMetro	390738
+Fairview, Oregon	populationMetro	2226009
+Gresham, Oregon	populationMetro	2241841
+Reading, Pennsylvania	populationMetro	411442
+Johnstown, Pennsylvania	populationMetro	144319
+Erie, Pennsylvania	populationMetro	280566
+Chambersburg, Pennsylvania	populationMetro	143495
+Scranton, Pennsylvania	populationMetro	563631
+Allentown, Pennsylvania	populationMetro	816012
+Beaufort, South Carolina	populationMetro	66308
+Blacksburg, South Carolina	populationMetro	9655
+Florence, South Carolina	populationMetro	205566
+Greenville, South Carolina	populationMetro	636986
+Myrtle Beach, South Carolina	populationMetro	324571
+Laurens, South Carolina	populationMetro	69567
+Spartanburg, South Carolina	populationMetro	280738
+Rock Hill, South Carolina	populationMetro	1701799
+Rapid City, South Dakota	populationMetro	120279
+Knoxville, Tennessee	populationMetro	699247
+College Station, Texas	populationMetro	212268
+Brownsville, Texas	populationMetro	406220
+Murphy, Texas	populationMetro	5700256
+Duncanville, Texas	populationMetro	6538850
+Irving, Texas	populationMetro	6805275
+Denton, Texas	populationMetro	6145037
+El Paso, Texas	populationMetro	800647
+Red Oak, Texas	populationMetro	5700256
+Denison, Texas	populationMetro	120030
+Sherman, Texas	populationMetro	120030
+Pasadena, Texas	populationMetro	5628101
+McAllen, Texas	populationMetro	774769
+Kingsville, Texas	populationMetro	34367
+Lubbock, Texas	populationMetro	276659
+Waco, Texas	populationMetro	233378
+Del Rio, Texas	populationMetro	57165
+Victoria, Texas	populationMetro	111163
+El Cenizo, Texas	populationMetro	599268
+Rio Bravo, Texas	populationMetro	599268
+Wichita Falls, Texas	populationMetro	147826
+Laredo, Texas	populationMetro	636516
+St. George, Utah	populationMetro	138115
+Ogden, Utah	populationMetro	547184
+Centreville, Virginia	populationMetro	5139549
+Christiansburg, Virginia	populationMetro	157614
+Blacksburg, Virginia	populationMetro	158328
+Bluefield, Virginia	populationMetro	107578
+Wenatchee, Washington	populationMetro	110884
+Kelso, Washington	populationMetro	102410
+Longview, Washington	populationMetro	102410
+Pasco, Washington	populationMetro	235841
+Langley, Washington	populationMetro	4878
+Bellevue, Washington	populationMetro	3439809
+Covington, Washington	populationMetro	3344813
+Federal Way, Washington	populationMetro	3439809
+Kent, Washington	populationMetro	3344813
+Tukwila, Washington	populationMetro	3439809
+Cle Elum, Washington	populationMetro	6500
+Tacoma, Washington	populationMetro	3500900
+Spokane, Washington	populationMetro	609715
+Martinsburg, West Virginia	populationMetro	263753
+Clarksburg, West Virginia	populationMetro	68652
+South Charleston, West Virginia	populationMetro	307763
+Bluefield, West Virginia	populationMetro	107578
+Morgantown, West Virginia	populationMetro	120327
+Watertown, Wisconsin	populationMetro	79328
+La Crosse, Wisconsin	populationMetro	133665
+Wauwatosa, Wisconsin	populationMetro	1753355
+Grand Chute, Wisconsin	populationMetro	360000
+Greenville, Wisconsin	populationMetro	360000
+Wisconsin Rapids, Wisconsin	populationMetro	48123
+Laramie, Wyoming	populationMetro	57298
+Mayagüez, Puerto Rico	populationMetro	115048
+Danbury, Connecticut	populationMetro	163000
+Walcott, Iowa	populationMetro	377291
+Sioux City, Iowa	populationMetro	144360
+Shreveport, Louisiana	populationMetro	398604
+Holland, Michigan	populationMetro	263801
+Midland, Michigan	populationMetro	82874
+Traverse City, Michigan	populationMetro	142316
+Blaine, Minnesota	populationMetro	2968805
+St. Cloud, Minnesota	populationMetro	189148
+Mankato, Minnesota	populationMetro	96740
+Hastings, Minnesota	populationMetro	2968805
+Dayton, Minnesota	populationMetro	2968805
+Cape Girardeau, Missouri	populationMetro	134051
+Springfield, Missouri	populationMetro	436712
+Rio Rancho, New Mexico	populationMetro	869684
+Española, New Mexico	populationMetro	188210
+Hickory, North Carolina	populationMetro	341851
+Elizabeth City, North Carolina	populationMetro	63270
+High Point, North Carolina	populationMetro	1603101
+Dublin, Ohio	populationMetro	1773120
+Youngstown, Ohio	populationMetro	763207
+Tulsa, Oklahoma	populationMetro	937478
+Greenhorn, Oregon	populationMetro	2
+Broken Arrow, Oklahoma	populationMetro	937478
+Bethlehem, Pennsylvania	populationMetro	740395
+Sioux Falls, South Dakota	populationMetro	228261
+Johnson City, Tennessee	populationMetro	500538
+Kingsport, Tennessee	populationMetro	302997
+Carrollton, Texas	populationMetro	6003967
+Plano, Texas	populationMetro	6145037
+Sachse, Texas	populationMetro	5700256
+Richardson, Texas	populationMetro	6145037
+Lewisville, Texas	populationMetro	7700256
+Flower Mound, Texas	populationMetro	6447615
+Abilene, Texas	populationMetro	160245
+Corpus Christi, Texas	populationMetro	428185
+Midland, Texas	populationMetro	266941
+Longview, Texas	populationMetro	204746
+Amarillo, Texas	populationMetro	249881
+Auburn, Washington	populationMetro	3344813
+Appleton, Wisconsin	populationMetro	367000
+Eau Claire, Wisconsin	populationMetro	161151
+Wheeling, West Virginia	populationMetro	145454
+Sopot	populationMetro	1035000
+Puck, Poland	populationMetro	1080700
+Zamość	populationMetro	140
+Xalapa	populationMetro	809206
+Aleppo	populationMetro	2490751
+George Town, Penang	populationMetro	1225501
+Gomel	populationMetro	527886
+Pune	populationMetro	5518688
+Dieppe, New Brunswick	populationMetro	101
+Bathurst, New Brunswick	populationMetro	30424
+Campbellton, New Brunswick	populationMetro	17888
+Kaunas	populationMetro	673706
+Podgorica	populationMetro	187085
+Stavanger	populationMetro	297569
+Byblos	populationMetro	100000
+Puebla, Puebla	populationMetro	2668347
+Leamington, Ontario	populationMetro	49741
+Saskatoon	populationMetro	265259
+Cornwall, Ontario	populationMetro	58485
+Guelph	populationMetro	127009
+Brockville	populationMetro	39668
+Brantford	populationMetro	124607
+Barrie	populationMetro	177061
+Niagara Falls, Ontario	populationMetro	390317
+Aguascalientes, Aguascalientes	populationMetro	701170
+Owen Sound	populationMetro	32259
+Oshawa	populationMetro	330594
+Middlesex County, Ontario	populationMetro	422333
+Plovdiv	populationMetro	546472
+Manila	populationMetro	11553427
+Adana	populationMetro	1591518
+Tiruchirappalli	populationMetro	866354
+Athens, Georgia	populationMetro	189264
+Alma, Quebec	populationMetro	32603
+Saguenay, Quebec	populationMetro	151643
+Konya	populationMetro	1036027
+Rumia	populationMetro	130000
+Comitán, Chiapas	populationMetro	83571
+Tapachula, Chiapas	populationMetro	189991
+Babol	populationMetro	480000
+Latakia	populationMetro	1255500
+Torreón	populationMetro	1215993
+Piedras Negras, Coahuila	populationMetro	202948
+San Luis Potosí, San Luis Potosí	populationMetro	1040822
+Nakhon Ratchasima	populationMetro	444023
+Ahmedabad	populationMetro	5413622
+San Pedro Sula	populationMetro	1942364
+Quito	populationMetro	1842201
+Bogotá	populationMetro	9600000
+Dubai	populationMetro	3410737
+Surabaya	populationMetro	5622259
+Sherbrooke	populationMetro	186952
+Iași	populationMetro	402786
+Guayaquil	populationMetro	3300000
+Green Bay, Wisconsin	populationMetro	306241
+León, Guanajuato	populationMetro	1792047
+San José, Costa Rica	populationMetro	1715485
+Cartago, Costa Rica	populationMetro	413505
+Kelowna	populationMetro	162276
+St. Catharines	populationMetro	390317
+Thunder Bay	populationMetro	122907
+Abbotsford, British Columbia	populationMetro	159020
+Peterborough, Ontario	populationMetro	116570
+Ciudad Victoria	populationMetro	321953
+Tampico, Tamaulipas	populationMetro	803196
+Tecomán, Colima	populationMetro	141421
+Surat	populationMetro	6234000
+Niterói	populationMetro	11620000
+Sault Ste. Marie, Ontario	populationMetro	80098
+Chiang Mai	populationMetro	960906
+Dinkytown	populationMetro	2367204
+Fernie, British Columbia	populationMetro	6873
+Visakhapatnam	populationMetro	3815250
+Córdoba, Argentina	populationMetro	1528000
+Kayseri	populationMetro	950017
+Trois-Rivières	populationMetro	141529
+Kentville, Nova Scotia	populationMetro	25969
+Augusta, Georgia	populationMetro	556877
+Brandon, Manitoba	populationMetro	48256
+Ústí nad Labem	populationMetro	243878
+Maracaibo	populationMetro	2108404
+Santos, São Paulo	populationMetro	1476820
+Buenos Aires	populationMetro	12801364
+Stamford, Connecticut	populationMetro	916829
+Norwich, Connecticut	populationMetro	266618
+Waterbury, Connecticut	populationMetro	210000
+Olinda	populationMetro	3768902
+Elmira, New York	populationMetro	90070
+Tonawanda (city), New York	populationMetro	1254066
+Barre (city), Vermont	populationMetro	59564
+Beaver Dam, Wisconsin	populationMetro	88489
+Fond du Lac, Wisconsin	populationMetro	100070
+Platteville, Wisconsin	populationMetro	49681
+Dodgeville, Wisconsin	populationMetro	561505
+Kaukauna, Wisconsin	populationMetro	360000
+Hudson, Wisconsin	populationMetro	3269814
+Brookfield, Wisconsin	populationMetro	1760268
+Oshkosh, Wisconsin	populationMetro	160000
+Mexicali	populationMetro	936826
+Constanța	populationMetro	446595
+Craiova	populationMetro	333834
+Tripoli, Lebanon	populationMetro	530000
+Jeddah	populationMetro	4500000
+Đakovica	populationMetro	48000
+Gnjilane	populationMetro	52000
+Kosovska Mitrovica	populationMetro	45000
+Peć	populationMetro	60000
+Cali	populationMetro	2232158
+Monrovia	populationMetro	1010970
+Santa Ana, El Salvador	populationMetro	290000
+Lethbridge	populationMetro	95196
+Srinagar	populationMetro	971357
+Callao	populationMetro	8187398
+Rijeka	populationMetro	213842
+Ilulissat	populationMetro	5018
+Bacolod	populationMetro	716306
+Munnar	populationMetro	68205
+León, Spain	populationMetro	206011
+Ioannina	populationMetro	139522
+Al Karak	populationMetro	68810
+Florianópolis	populationMetro	980396
+Žilina	populationMetro	159729
+Nanaimo	populationMetro	92361
+Tel Aviv Metropolitan Area	populationMetro	3206400
+Tel Aviv Metropolitan Area	populationMetro	42
+Jamshedpur	populationMetro	2220000
+Maringá	populationMetro	612617
+Querétaro, Querétaro	populationMetro	1
+Głogów	populationMetro	413397
+Coquitlam	populationMetro	2271224
+Brăila	populationMetro	600000
+Ploiești	populationMetro	300358
+Aqaba	populationMetro	108500
+Kamloops	populationMetro	92882
+Chilliwack, British Columbia	populationMetro	80892
+Granby, Quebec	populationMetro	68352
+Saint-Hyacinthe, Quebec	populationMetro	55823
+Mission, British Columbia	populationMetro	159020
+Penticton	populationMetro	46000
+North Battleford	populationMetro	17765
+Quesnel, British Columbia	populationMetro	22449
+Greater Sudbury	populationMetro	158258
+New Taipei	populationMetro	6870357
+İzmit	populationMetro	1
+Medellín	populationMetro	4
+Poprad	populationMetro	100000
+Algeciras	populationMetro	263739
+Wejherowo	populationMetro	130000
+Bandung	populationMetro	7414560
+Upper Silesian metropolitan area	populationMetro	5294000
+São Luís, Maranhão	populationMetro	1227659
+Greater Tokyo Area	populationMetro	34607069
+Agra	populationMetro	1727275
+Fortín de las Flores, Veracruz	populationMetro	53311
+Kota Kinabalu	populationMetro	900000
+Antalya	populationMetro	1001318
+Sept-Îles, Quebec	populationMetro	27827
+Kanpur	populationMetro	4572951
+Johor Bahru	populationMetro	1800000
+Chittagong	populationMetro	3858093
+Piotrków Trybunalski	populationMetro	200000
+Stalowa Wola	populationMetro	110000
+Pyskowice	populationMetro	5294000
+Czerwionka-Leszczyny	populationMetro	5294000
+Łaziska Górne	populationMetro	5294000
+Bieruń	populationMetro	5294000
+Czeladź	populationMetro	5294000
+Knurów	populationMetro	5294000
+Świętochłowice	populationMetro	5294000
+Będzin	populationMetro	5294000
+Żory	populationMetro	659000
+Piekary Śląskie	populationMetro	5294000
+Racibórz	populationMetro	115
+Wodzisław Śląski	populationMetro	650000
+Siemianowice Śląskie	populationMetro	5294000
+Mysłowice	populationMetro	5294000
+Jaworzno	populationMetro	5294000
+Chełm	populationMetro	80743
+Zgierz	populationMetro	1109600
+São Paulo	populationMetro	19672582
+Lucknow	populationMetro	3050447
+La Plata	populationMetro	694253
+Taiyuan	populationMetro	320
+Mandalay	populationMetro	1300000
+San Germán, Puerto Rico	populationMetro	136212
+Belém	populationMetro	2249405
+Santa Catarina, Nuevo León	populationMetro	3664334
+Meerut	populationMetro	2086194
+Vigo	populationMetro	468654
+Langkawi	populationMetro	64792
+Dipolog	populationMetro	525
+Fujairah	populationMetro	130000
+Umm al-Quwain	populationMetro	62000
+Curitiba	populationMetro	3168980
+Machala	populationMetro	217696
+Huambo	populationMetro	225268
+Wausau, Wisconsin	populationMetro	127733
+Barranquilla	populationMetro	2162143
+Manaus	populationMetro	2042185
+Parksville, British Columbia	populationMetro	138631
+Čakovec	populationMetro	45000
+Ostrava	populationMetro	1
+Patras	populationMetro	222460
+Gonaïves	populationMetro	104825
+Goiânia	populationMetro	2102097
+Trujillo, Peru	populationMetro	800000
+San Miguel de Tucumán	populationMetro	830000
+Hinche	populationMetro	50000
+Dammam	populationMetro	2054710
+Cabo Rojo, Puerto Rico	populationMetro	136212
+Cranbrook, British Columbia	populationMetro	27229
+A Coruña	populationMetro	419800
+Fort St. John, British Columbia	populationMetro	79000
+Corner Brook	populationMetro	26623
+Rhine-Ruhr	populationMetro	11316429
+Kano	populationMetro	2828861
+Port Harcourt	populationMetro	1382592
+Rivière-du-Loup	populationMetro	24570
+Ivano-Frankivsk	populationMetro	240768
+Erode district	populationMetro	1500000
+Pula	populationMetro	90000
+Lezhë	populationMetro	10200
+Chiclayo	populationMetro	972713
+Karlovac	populationMetro	58095
+Keihanshin	populationMetro	18643915
+Donetsk	populationMetro	2009700
+Gaziantep	populationMetro	1341054
+Sri Jayawardenapura Kotte	populationMetro	2234289
+Shawinigan	populationMetro	56434
+Zaprešić	populationMetro	51040
+Cuenca, Ecuador	populationMetro	617632
+İzmir	populationMetro	3500000
+Kiev	populationMetro	3648000
+Salta	populationMetro	619000
+Santa Rosa, La Pampa	populationMetro	110640
+Piura	populationMetro	1008987
+Onitsha	populationMetro	1003000
+Cúcuta	populationMetro	1298187
+Kryvyi Rih	populationMetro	1010000
+Vitória, Brazil	populationMetro	1627651
+Erigavo	populationMetro	150000
+Grand Falls, New Brunswick	populationMetro	30000
+Nilgiris district	populationMetro	454609
+Baie-Comeau	populationMetro	29808
+New York City	populationMetro	18897109
+Veracruz, Veracruz	populationMetro	702394
+La Tuque, Quebec	populationMetro	15293
+Natal, Rio Grande do Norte	populationMetro	1263547
+Varaždin	populationMetro	80991
+Irpin	populationMetro	1003901
+Monclova	populationMetro	294191
+Santa Cruz de la Sierra	populationMetro	2102998
+Greater Buenos Aires	populationMetro	13641973
+Suffolk, Virginia	populationMetro	1672319
+Seward, Minneapolis	populationMetro	3502891
+Halifax Regional Municipality	populationMetro	372858
+Ciudad Ayala, Morelos	populationMetro	1777539
+Mikołów	populationMetro	5294000
+Prešov	populationMetro	161000
+Jinotega	populationMetro	109100
+Nashik	populationMetro	1832195
+Bucaramanga	populationMetro	1212657
+Vijayawada	populationMetro	3048240
+Qiqihar	populationMetro	1438550
+Zakho	populationMetro	350000
+Vučitrn	populationMetro	30000
+Amos, Quebec	populationMetro	17918
+North Loop, Minneapolis	populationMetro	3502891
+Bhubaneswar	populationMetro	1900000
+Holland, Minneapolis	populationMetro	3502891
+Sarajevo Canton	populationMetro	750000
+Kish Island	populationMetro	26000
+Hamburg Metropolitan Region	populationMetro	4300000
+Rasht	populationMetro	1000000
+Asansol	populationMetro	1067369
+Central (neighborhood), Minneapolis	populationMetro	3502891
+National Capital Region (Canada)	populationMetro	1451415
+Matão	populationMetro	77682
+Freeport, Bahamas	populationMetro	55500
+Khulna	populationMetro	1435422
+Martin, Slovakia	populationMetro	97500
+San Pedro Garza García	populationMetro	3664334
+Al Hoceima	populationMetro	399644
+Prospect Park, Minneapolis	populationMetro	2367204
+Irbid	populationMetro	650000
+Chaguanas	populationMetro	80000
+Franca	populationMetro	471383
+Jaboticabal	populationMetro	71662
+Junqueirópolis	populationMetro	16644
+Loja, Ecuador	populationMetro	175077
+Brooks, Alberta	populationMetro	22452
+San Diego, Carabobo	populationMetro	187215
+Whittier, Minneapolis	populationMetro	2367204
+Kanchipuram district	populationMetro	1534841
+Semarang	populationMetro	1566604
+Mestia	populationMetro	14248
+Puerto Ayacucho	populationMetro	41000
+Seoul National Capital Area	populationMetro	23616000
+East Isles, Minneapolis	populationMetro	3502891
+Mersin	populationMetro	843429
+Baotou	populationMetro	1750000
+Victory, Minneapolis	populationMetro	3502891
+Miami Gardens, Florida	populationMetro	5564635
+Mariupol	populationMetro	519000
+Dębica	populationMetro	75000
+Biratnagar	populationMetro	170000
+Taipei–Keelung metropolitan area	populationMetro	6913035
+Orangeville, Ontario	populationMetro	29110
+Uptown, Minneapolis	populationMetro	2367204
+Corinto, Nicaragua	populationMetro	17000
+Dire Dawa	populationMetro	1274869
+Alor Setar	populationMetro	600000
+Jacmel	populationMetro	40000
+Criciúma	populationMetro	354066
+Copacabana, Bolivia	populationMetro	703771
+Banjarmasin	populationMetro	1
+Rourkela	populationMetro	8850507
+Rajshahi	populationMetro	472775
+Yenakiieve	populationMetro	161500
+Calgary Region	populationMetro	1131385
+Kumanovo	populationMetro	70
+Handan	populationMetro	1390000
+Prilep	populationMetro	79834
+Al-Ahsa Governorate	populationMetro	908366
+Ajloun	populationMetro	55000
+Salt, Jordan	populationMetro	96674
+Machilipatnam	populationMetro	250895
+Nuevo Laredo	populationMetro	636516
+Marin City, California	populationMetro	7468390
+Madaba	populationMetro	83180
+Kermanshah	populationMetro	1350665
+Bakar	populationMetro	1566
+San Nicolás de los Garza	populationMetro	3664331
+Salalah	populationMetro	197169
+Tafilah	populationMetro	38428
+Gyumri	populationMetro	146400
+Chennai Corporation	populationMetro	7500000
+Petrer	populationMetro	174521
+Lipljan	populationMetro	15000
+Guadalupe, Nuevo León	populationMetro	3664334
+Kakinada	populationMetro	896329
+Uyo	populationMetro	554906
+Ashburn, Virginia	populationMetro	5139549
+Jérémie	populationMetro	31000
+Tepatitlán, Jalisco	populationMetro	136703
+Langfang	populationMetro	763700
+Colwood, British Columbia	populationMetro	330088
+Pleasant Valley Township, Scott County, Iowa	populationMetro	377291
+Nizwa	populationMetro	731730
+Hecelchakán	populationMetro	9974
+Powderhorn Park, Minneapolis	populationMetro	3502891
+Mubende District	populationMetro	22200
+Qinzhou	populationMetro	944000
+Lowry Hill, Minneapolis	populationMetro	3502891
+Jingmen	populationMetro	350000
+Port-de-Paix	populationMetro	250000
+Saxon triangle	populationMetro	3500000
+Fuheis	populationMetro	13171
+Webber-Camden, Minneapolis	populationMetro	3502891
+Guaranda	populationMetro	20000
+Esmeraldas, Ecuador	populationMetro	245100
+Montague, Prince Edward Island	populationMetro	5134
+Lowry Hill East, Minneapolis	populationMetro	3502891
+Sechelt, British Columbia	populationMetro	27759
+Port Elizabeth	populationMetro	1050930
+Diamond Lake, Minneapolis	populationMetro	3502891
+Stari Grad, Croatia	populationMetro	1906
+General Escobedo	populationMetro	3664334
+Yichun, Heilongjiang	populationMetro	803700
+Jixi	populationMetro	740500
+Lam Tin	populationMetro	128600
+Aktobe	populationMetro	317700
+Cedar-Riverside, Minneapolis	populationMetro	3502891
+Manokwari	populationMetro	159575
+Matagalpa	populationMetro	109100
+San Carlos, Río San Juan	populationMetro	12174
+Sullana	populationMetro	225562
+Cox's Bazar	populationMetro	120480
+Imielin	populationMetro	5294000
+Metro East	populationMetro	702579
+Apodaca	populationMetro	3664334
+Pondicherry (city)	populationMetro	220749
+Antiguo Cuscatlan	populationMetro	50578
+La Libertad, La Libertad	populationMetro	45007
+Concepción de Ataco	populationMetro	18101
+Chinandega	populationMetro	121793
+Kisii, Kenya	populationMetro	100000
+Rhine-Neckar	populationMetro	2362000
+Allende, Coahuila	populationMetro	20153
+Delicias, Chihuahua	populationMetro	127211
+La Guaira	populationMetro	270792
+Cooper, Minneapolis	populationMetro	3502891
+Xingtai	populationMetro	561000
+Barisal	populationMetro	385093
+Suqian	populationMetro	435000
+Rhodes (city)	populationMetro	80000
+Azogues	populationMetro	20000
+Calhoun Isles, Minneapolis	populationMetro	3502891
+East Calhoun, Minneapolis	populationMetro	3502891
+CARAG, Minneapolis	populationMetro	3502891
+West Calhoun, Minneapolis	populationMetro	3502891
+Kharkiv	populationMetro	1732400
+Dhiban	populationMetro	13043
+Calabozo	populationMetro	153241
+Kramatorsk	populationMetro	203100
+Windom, Minneapolis	populationMetro	3502891
+Southwest, Minneapolis	populationMetro	3502891
+Vellore district	populationMetro	1307998
+Deir Alla	populationMetro	46481
+Elliot Park, Minneapolis	populationMetro	3502891
+Cumbayá	populationMetro	1839853
+Zamora, Michoacán	populationMetro	186102
+İnegöl	populationMetro	312987
+Kalna, Bardhaman	populationMetro	59956
+Imperatriz	populationMetro	526116
+Tarnowskie Góry	populationMetro	5294000
+Howe, Minneapolis	populationMetro	3502891
+Longfellow (neighborhood), Minneapolis	populationMetro	3502891
+Hiawatha, Minneapolis	populationMetro	3502891
+Coari	populationMetro	84309
+São José, Santa Catarina	populationMetro	877706
+Istanbul	populationMetro	14855685
+Kanye, Botswana	populationMetro	48143
+Caála	populationMetro	22010
+Orzesze	populationMetro	5294000
+Pingliang	populationMetro	110483
+Ilok	populationMetro	8351
+Guntur	populationMetro	1025707
+Palmetto Bay, Florida	populationMetro	5422200
+Banikoara	populationMetro	24917
+Tanguiéta	populationMetro	21290
+Jastrebarsko	populationMetro	29697
+Marija Bistrica	populationMetro	6612
+Khust	populationMetro	31864
+Armatage, Minneapolis	populationMetro	3502891
+Hale, Minneapolis	populationMetro	3502891
+District of Jaro	populationMetro	1235650
+Chūkyō Metropolitan Area	populationMetro	8739000
+Elmalı	populationMetro	14636
+Salvador, Bahia	populationMetro	3866004
+Balneário Camboriú	populationMetro	390990
+Svaliava	populationMetro	17909
+Tiachiv	populationMetro	11074
+Magangué	populationMetro	142
+Sohag	populationMetro	600000
+Ghardaïa	populationMetro	82500
+Mafraq	populationMetro	122000
+Nabatieh	populationMetro	85000
+Metropolitan Association of Upper Silesia	populationMetro	5294000
+Field, Minneapolis	populationMetro	3502891
+Audubon Park, Minneapolis	populationMetro	3502891
+Bancroft, Minneapolis	populationMetro	3502891
+Bucak, Burdur	populationMetro	35621
+Qingyang	populationMetro	31000
+King Abdullah Economic City	populationMetro	3807000
+Houmt Souk	populationMetro	44555
+Ocosingo	populationMetro	35065
+Corcoran, Minneapolis	populationMetro	3502891
+Acarigua	populationMetro	208495
+Acajutla	populationMetro	18008
+Wadena, Saskatchewan	populationMetro	978
+Lake Echo, Nova Scotia	populationMetro	375000
+Theni district	populationMetro	591841
+Lafayette, Louisiana metropolitan area	populationMetro	263171
+Elko New Market, Minnesota	populationMetro	3279833
+Yogyakarta (city)	populationMetro	1588622
+Zolotonosha	populationMetro	29515
+Bayan Lepas	populationMetro	1225501
+Mungaoli	populationMetro	105784
+Gran Asunción	populationMetro	2
+Viamão	populationMetro	210873
+Tsagaannuur, Bayan-Ölgii	populationMetro	1184
+Eagan, Minnesota	populationMetro	3269814
+Minneapolis	populationMetro	3269814
+Arandas, Jalisco	populationMetro	46099
+Gelugor	populationMetro	1225501
+Garut	populationMetro	2260000
+Hastings, Ontario	populationMetro	12569
+Sertãozinho	populationMetro	129
+Meihekou	populationMetro	276904
+Powderhorn, Minneapolis	populationMetro	3502891
+Central, Minneapolis	populationMetro	3502891
+Longfellow, Minneapolis	populationMetro	3502891
+Near North, Minneapolis	populationMetro	3502891
+Stevens Square, Minneapolis	populationMetro	3502891
+Nokomis, Minneapolis	populationMetro	3502891
+University, Minneapolis	populationMetro	3502891
+Camden, Minneapolis	populationMetro	3502891
+Dhahran	populationMetro	97446
+Anchorage, Alaska	populationMetro	374553
+Near North (neighborhood), Minneapolis	populationMetro	3502891
+Nicollet Island/East Bank, Minneapolis	populationMetro	3502891
+Downtown West, Minneapolis	populationMetro	3502891
+Downtown East, Minneapolis	populationMetro	3502891
+Phillips, Minneapolis	populationMetro	3502891
+Ventura Village, Minneapolis	populationMetro	3502891
+Marcy-Holmes, Minneapolis	populationMetro	3502891
+Shingle Creek, Minneapolis	populationMetro	3502891
+Lind-Bohanon, Minneapolis	populationMetro	3502891
+Folwell, Minneapolis	populationMetro	3502891
+Kenwood, Minneapolis	populationMetro	3502891
+Bryn Mawr, Minneapolis	populationMetro	3502891
+Midtown Phillips, Minneapolis	populationMetro	3502891
+East Phillips, Minneapolis	populationMetro	3502891
+Phillips West, Minneapolis	populationMetro	3502891
+Como, Minneapolis	populationMetro	3502891
+Bryant, Minneapolis	populationMetro	3502891
+Lyndale, Minneapolis	populationMetro	3502891
+Standish, Minneapolis	populationMetro	3502891
+Ericsson, Minneapolis	populationMetro	3502891
+Beltrami, Minneapolis	populationMetro	3502891
+Bottineau, Minneapolis	populationMetro	3502891
+Cedar-Isles-Dean, Minneapolis	populationMetro	3502891
+Cleveland, Minneapolis	populationMetro	3502891
+Columbia Park, Minneapolis	populationMetro	3502891
+East Harriet, Minneapolis	populationMetro	3502891
+Tangletown, Minneapolis	populationMetro	3502891
+Harrison, Minneapolis	populationMetro	3502891
+Hawthorne, Minneapolis	populationMetro	3502891
+Jordan, Minneapolis	populationMetro	3502891
+Kenny, Minneapolis	populationMetro	3502891
+Windom Park, Minneapolis	populationMetro	3502891
+Fulton, Minneapolis	populationMetro	3502891
+Page, Minneapolis	populationMetro	3502891
+Gerash	populationMetro	85000
+Government in the Halifax Regional Municipality	populationMetro	407007
+Lędziny	populationMetro	5294000
+Eywan	populationMetro	49002
+Santiago, Nuevo León	populationMetro	3664334
+Metro La Paz	populationMetro	2364235
+Villa del Rosario, Norte de Santander	populationMetro	721794
+Darboy, Wisconsin	populationMetro	360000
+Sumner-Glenwood, Minneapolis	populationMetro	3502891
+Southampton	populationMetro	1000000
+Montreal	populationMetro	3635571
+Linden Hills, Minneapolis	populationMetro	3502891
+Cork (city)	populationMetro	274000
+St. Anthony West, Minneapolis	populationMetro	3502891
+Eirunepé	populationMetro	103308
+Sungai Ara	populationMetro	1225501
+Greater Concepción	populationMetro	889725
+São José de Ribamar	populationMetro	1227659
+Japeri	populationMetro	13782000
+Maricá, Rio de Janeiro	populationMetro	1795015
+Liupanshui	populationMetro	251900
+Martuni, Armenia	populationMetro	11987
+Willard-Hay, Minneapolis	populationMetro	3502891
+Radzionków	populationMetro	5294000
+Bremen	populationMetro	2400000
+Tuli, Nagaland	populationMetro	15252
+Sławków	populationMetro	5294000
+Wojkowice	populationMetro	5294000
+Peotone Township, Will County, Illinois	populationMetro	0
+Saoli	populationMetro	154963
+Stuttgart Metropolitan Region	populationMetro	5300000
+Bay Roberts	populationMetro	10507
+Altai, Bayan-Ölgii	populationMetro	837
+Juárez, Nuevo León	populationMetro	3664334
+García, Nuevo León	populationMetro	3664334
+Salinas Victoria	populationMetro	3664334
+McKinley, Minneapolis	populationMetro	3502891
+La Palma, Cundinamarca	populationMetro	21290
+Van Lear, Maryland	populationMetro	257619
+Seattle	populationMetro	3407848
+Cheyenne, Wyoming	populationMetro	91738
+Arivechi	populationMetro	866
+Atil, Sonora	populationMetro	699
+Kathmandu Metropolitan City	populationMetro	700000
+Waite Park, Minneapolis	populationMetro	3502891
+Nuevo Laredo Municipality	populationMetro	636516
+Shore Acres, California	populationMetro	78813
+Joplin, Missouri Metropolitan Area	populationMetro	175518
+Regina, Minneapolis	populationMetro	3502891
+Northrop, Minneapolis	populationMetro	3502891
+Keewaydin, Minneapolis	populationMetro	3502891
+Minnehaha, Minneapolis	populationMetro	3502891
+Morris Park, Minneapolis	populationMetro	3502891
+Wenonah, Minneapolis	populationMetro	3502891
+Lynnhurst, Minneapolis	populationMetro	3502891
+King Field, Minneapolis	populationMetro	3502891
+University (neighborhood), Minneapolis	populationMetro	3502891
+Logan Park, Minneapolis	populationMetro	3502891
+Marshall Terrace, Minneapolis	populationMetro	3502891
+Northeast Park, Minneapolis	populationMetro	3502891
+Sheridan, Minneapolis	populationMetro	3502891
+St. Anthony East, Minneapolis	populationMetro	3502891
+Donggar	populationMetro	4000
+Hafar Al-Batin	populationMetro	49457
+Shakopee, Minnesota	populationMetro	3279833
+Sandusky, Ohio	populationMetro	77323
+Tlapa de Comonfort	populationMetro	57346
+Nocatee (St. Johns County, Florida)	populationMetro	1375982
+Batang County	populationMetro	5212
+Altamirano Municipality	populationMetro	6155
+Portal:Ireland/Random City/1	populationMetro	1661185
+Portal:Ireland/Random City/2	populationMetro	274000
+Portal:Ireland/Random City/4	populationMetro	90757
+St. Bernard's – Jacques Fontaine	populationMetro	1088
+Calgary	populationMetro	1079310
+Ponta Delgada (Azores)	populationMetro	20113
+Juchitán, Guerrero	populationMetro	6240
+Janos Municipality	populationMetro	10953
+Old Town (Lansing, Michigan)	populationMetro	5456428
+Kilkare Woods, California	populationMetro	773
+Island View Beach	populationMetro	0
+Glenwood, California	populationMetro	50
+Charlottetown	populationMetro	58625
+Toluca	populationMetro	1610786
+Tálknafjörður	populationMetro	310
+Juma, Mozambique	populationMetro	69
+Nazipur	populationMetro	1229
+Little Rock, Arkansas	populationMetro	699757
+Cincinnati	populationMetro	2130151
+Acala, Chiapas	populationMetro	12686
+Amatenango de la Frontera	populationMetro	666
+Amatenango del Valle	populationMetro	3351
+Vancouver, Washington	populationMetro	2241841
+Madrid	populationMetro	6458684
+Motozintla	populationMetro	17613
+Nicolás Ruíz	populationMetro	3015
+Sana'a	populationMetro	2167961
+Bratislava	populationMetro	659578
+Split, Croatia	populationMetro	481251
+Saltillo	populationMetro	750000
+Westover, Alabama	populationMetro	1000000
+Santa Fe, New Mexico	populationMetro	183782
+Providence, Rhode Island	populationMetro	1630956
+Batu Pahat (town)	populationMetro	468058
+Rincón de Romos Municipality	populationMetro	25815
+San Francisco de los Romo Municipality	populationMetro	13262
+Nashik Municipal Corporation	populationMetro	1832195
+Morelos, Coahuila	populationMetro	1395000
+Miquelon, Miquelon-Langlade	populationMetro	615
+Baniyani	populationMetro	624
+Bregana	populationMetro	3450
+Oron people	populationMetro	403242
+Bohai Economic Rim	populationMetro	66400000
+Hagerstown, Maryland	populationMetro	269140
+Gory Gopela	populationMetro	3605
+Abidjan	populationMetro	6169102
+Karlakunta	populationMetro	4000
+Tabacundo	populationMetro	25594
+Ouattagouna	populationMetro	3591
+Hannover–Braunschweig–Göttingen–Wolfsburg Metropolitan Region	populationMetro	3900000
+Romtha	populationMetro	71433
+Recife metropolitan area	populationMetro	3768902
+Fresno de Torote	populationMetro	1875
+Bridgeport, Connecticut	populationMetro	916829
+St. Anthony, Minnesota	populationMetro	3269814
+Greater Goiânia	populationMetro	2102097
+South Gujarat	populationMetro	6523457
+Piedmont Atlantic MegaRegion	populationMetro	19000000
+Grand Rapids, Michigan	populationMetro	774361
+Water management in greater Tegucigalpa	populationMetro	1324000
+Urban water management in Monterrey, Mexico	populationMetro	3864331
+Urban water management in Bogotá, Colombia	populationMetro	8566926
+Integrated urban water management in Buenos Aires, Argentina	populationMetro	13356715
+Integrated urban water management in Medellín, Colombia	populationMetro	3312165
+Boston	populationMetro	4522858
+St. John's Metropolitan Area	populationMetro	181113
+Akouda	populationMetro	18998
+Gran Ciudad del Este	populationMetro	333535
+Bobonaro	populationMetro	22756
+Yallahs	populationMetro	10
+Barelias	populationMetro	75
+Strzemieszyce Wielkie	populationMetro	3029000
+Strzemieszyce Małe	populationMetro	3029000
+Thondapi	populationMetro	5000
+San Juancito, Honduras	populationMetro	1400
+Tegucigalpa	populationMetro	1324000
+Russeifa	populationMetro	500000
+Zahlé	populationMetro	320000
+Baltimore	populationMetro	2690886
+Keroka	populationMetro	20000
+Communities in the Minneapolis – Saint Paul Metro area	populationMetro	3269814
+Danville, Illinois	populationMetro	82226
+Kingston, New York	populationMetro	177749
+REO Town	populationMetro	454044
+Mu'tah	populationMetro	43000
+Downtown Missoula	populationMetro	108623
+Berlin/Brandenburg Metropolitan Region	populationMetro	4429847
+Tekmen, Osmancık	populationMetro	3100
+Kazan metropolitan area	populationMetro	1563351
+Sausapor	populationMetro	1000
+Frankfurt Rhine-Main	populationMetro	5800000
+Kandi	populationMetro	27227
+Tiruvannamalai district	populationMetro	400761
+Osasco	populationMetro	19889559
+Uroševac	populationMetro	68
+Colonial Village (Lansing, Michigan)	populationMetro	464036

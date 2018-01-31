@@ -1,0 +1,63 @@
+Saint Lawrence Seaway	maximumBoatBeam	23.7744
+Lancaster Canal	maximumBoatBeam	4.2672
+Haddiscoe Cut	maximumBoatBeam	5.4864
+Leeds and Liverpool Canal	maximumBoatBeam	4.3434
+River Gipping	maximumBoatBeam	4.2672
+Stratford-upon-Avon Canal	maximumBoatBeam	2.1336
+Kennet and Avon Canal	maximumBoatBeam	4.1148
+Aire and Calder Navigation	maximumBoatBeam	6.096
+Wilts & Berks Canal	maximumBoatBeam	2.1336
+Herefordshire and Gloucestershire Canal	maximumBoatBeam	2.4384
+Chelmer and Blackwater Navigation	maximumBoatBeam	4.8768
+Bridgwater and Taunton Canal	maximumBoatBeam	4.1402
+Wyrley and Essington Canal	maximumBoatBeam	2.1336
+Manchester Bolton & Bury Canal	maximumBoatBeam	4.318
+Foss Dyke	maximumBoatBeam	4.6228
+Manchester Ship Canal	maximumBoatBeam	19.812
+Ashby Canal	maximumBoatBeam	2.1336
+Caledonian Canal	maximumBoatBeam	10.668
+Bridgewater Canal	maximumBoatBeam	4.4958
+Barnsley Canal	maximumBoatBeam	4.2672
+Llangollen Canal	maximumBoatBeam	2.0827999999999998
+Chester Canal	maximumBoatBeam	2.7432
+Hertford Union Canal	maximumBoatBeam	4.2672
+Grantham Canal	maximumBoatBeam	4.2672
+Andover Canal	maximumBoatBeam	2.5908
+Ashton Canal	maximumBoatBeam	2.1336
+Baybridge Canal	maximumBoatBeam	3.81
+Blyth Navigation	maximumBoatBeam	4.2672
+Bradford Canal	maximumBoatBeam	4.6228
+Caldon Canal	maximumBoatBeam	2.1336
+Dearne and Dove Canal	maximumBoatBeam	4.5212
+Derby Canal	maximumBoatBeam	4.2672
+Droitwich Canal	maximumBoatBeam	2.1336
+Glastonbury Canal	maximumBoatBeam	5.4864
+Horncastle Canal	maximumBoatBeam	4.572
+Leven Canal	maximumBoatBeam	4.4958
+South Forty-Foot Drain	maximumBoatBeam	6.096
+Ribble Link	maximumBoatBeam	3.2004
+Neath and Tennant Canal	maximumBoatBeam	2.7432
+Shrewsbury Canal	maximumBoatBeam	2.1336
+Hollinwood Branch Canal	maximumBoatBeam	2.1336
+Monkland Canal	maximumBoatBeam	4.2672
+Driffield Navigation	maximumBoatBeam	4.4196
+Sheffield Canal	maximumBoatBeam	4.6482
+Schuylkill Canal	maximumBoatBeam	5.4864
+New Junction Canal	maximumBoatBeam	6.858
+Swansea Canal	maximumBoatBeam	2.286
+Ulverston Canal	maximumBoatBeam	8.2296
+Stainforth and Keadby Canal	maximumBoatBeam	5.1816
+Pocklington Canal	maximumBoatBeam	4.3434
+Oakham Canal	maximumBoatBeam	4.318
+Nutbrook Canal	maximumBoatBeam	4.3434
+Middle Level Navigations	maximumBoatBeam	3.3528
+Beverley Beck	maximumBoatBeam	5.3340000000000005
+Stroudwater Navigation	maximumBoatBeam	4.7244
+Salisbury and Southampton Canal	maximumBoatBeam	2.4384
+Ripon Canal	maximumBoatBeam	4.3434
+River Don Navigation	maximumBoatBeam	6.096
+Birmingham and Liverpool Junction Canal	maximumBoatBeam	2.1336
+Celilo Canal	maximumBoatBeam	19.812
+Sleaford Navigation	maximumBoatBeam	4.572
+Runcorn and Weston Canal	maximumBoatBeam	5.6133999999999995
+Witham Navigable Drains	maximumBoatBeam	3.048

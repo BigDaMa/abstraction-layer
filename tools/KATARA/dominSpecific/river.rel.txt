@@ -1,0 +1,495 @@
+Kalahari Desert	river	Orange River
+Lisbon	river	Tagus
+Puget Sound	river	Deschutes River (Washington)
+Willamette Valley	river	Willamette River
+Plzeň	river	Mže
+Pardubice	river	Elbe
+Amazon Rainforest	river	Amazon River
+Albany, New York	river	Hudson River
+Schenectady, New York	river	Mohawk River
+Olomouc	river	Morava (river)
+Brno	river	Svitava
+Baumgardener's Covered Bridge	river	Pequea Creek
+Bitzer's Mill Covered Bridge	river	Conestoga River
+Bucher's Mill Covered Bridge	river	Cocalico Creek
+Colemanville Covered Bridge	river	Pequea Creek
+Keller's Mill Covered Bridge	river	Cocalico Creek
+Aurora, Illinois	river	Fox River (Illinois River tributary)
+Naperville, Illinois	river	DuPage River
+Wheaton, Illinois	river	DuPage River
+Galena, Illinois	river	Galena River (Illinois)
+Joliet, Illinois	river	Des Plaines River
+Stillman Valley, Illinois	river	Stillman Creek (Illinois)
+Mokena, Illinois	river	Mokena – Hickory Creek (Metra)
+Shorewood, Illinois	river	DuPage River
+Cohoes, New York	river	Hudson River
+Cohoes, New York	river	Mohawk River
+Menands, New York	river	Hudson River
+Watervliet, New York	river	Hudson River
+Margaretville, New York	river	East Branch Delaware River
+Tivoli, New York	river	Hudson River
+Beaverdam Lake-Salisbury Mills, New York	river	Moodna Creek
+Cornwall, New York	river	Hudson River
+Medina, New York	river	Oak Orchard Creek
+Hoosick Falls, New York	river	Hoosic River
+North Greenbush, New York	river	Hudson River
+Rensselaer, New York	river	Hudson River
+Bloomingburg, New York	river	Shawangunk Kill
+Livingston Manor, New York	river	Willowemoc Creek
+Denning, New York	river	Rondout Creek
+Denning, New York	river	Neversink River
+Kerhonkson, New York	river	Rondout Creek
+Milton, Ulster County, New York	river	Hudson River
+Phoenicia, New York	river	Esopus Creek
+Brackenridge, Pennsylvania	river	Allegheny River
+North Braddock, Pennsylvania	river	Monongahela River
+Tarentum, Pennsylvania	river	Allegheny River
+Kittanning, Pennsylvania	river	Allegheny River
+České Budějovice	river	Vltava
+Drakensberg	river	Tugela River
+Terezín	river	Ohře
+Mojave Desert	river	Mojave River
+Jihlava	river	Jihlava (river)
+Opava	river	Opava (river)
+Tábor	river	Lužnice (river)
+Hradec Králové	river	Elbe
+Znojmo	river	Thaya
+Ústí nad Labem	river	Elbe
+Waterbury, Connecticut	river	Naugatuck River
+Green Island, New York	river	Hudson River
+Harrison Township, Allegheny County, Pennsylvania	river	Allegheny River
+Litchfield (borough), Connecticut	river	Bantam River
+Colonie, New York	river	Hudson River
+Poughkeepsie, New York	river	Hudson River
+Le Roy (village), New York	river	Oatka Creek
+Monroe (village), New York	river	Ramapo River
+New Windsor (CDP), New York	river	Hudson River
+Montgomery (town), New York	river	Wallkill River
+Montgomery (village), New York	river	Wallkill River
+East Greenbush, New York	river	Hudson River
+Cohocton (village), New York	river	Cohocton River
+Palo Duro Canyon	river	Prairie Dog Town Fork Red River
+Chaves Municipality, Portugal	river	Tâmega River
+Black Rock Desert	river	Quinn River
+Big Bend National Park	river	Rio Grande
+Košice	river	Hornád
+Žilina	river	Váh
+Karlovy Vary	river	Ohře
+Fergana Valley	river	Syr Darya
+Fergana Valley	river	Kara Darya
+Great Barrington, Massachusetts	river	Housatonic River
+Banská Bystrica	river	Hron
+Nitra	river	Nitra (river)
+Poprad	river	Poprad (river)
+Trenčín	river	Váh
+Zvolen	river	Hron
+Komárno	river	Danube
+Nové Zámky	river	Nitra (river)
+Forest of Bowland	river	River Hodder
+Piešťany	river	Váh
+Adirondack Park	river	Ausable River (New York)
+Catskill Park	river	Esopus Creek
+Catskill Park	river	Neversink River
+Catskill Park	river	Rondout Creek
+Catskill Park	river	Schoharie Creek
+Ružomberok	river	Váh
+Humenné	river	Laborec
+Eastern Washington	river	Columbia River
+Agate Fossil Beds National Monument	river	Niobrara River
+Carson Sink	river	Carson River
+West Humboldt Range	river	Humboldt River
+Western Washington	river	Columbia River
+Central Washington	river	Columbia River
+Uherské Hradiště	river	Morava (river)
+Prešov	river	Torysa
+Tualatin Valley	river	Tualatin River
+Harney Basin	river	Donner und Blitzen River
+Harney Basin	river	Silvies River
+Satpura Range	river	Narmada River
+Vindhya Range	river	Kali Sindh River
+Vindhya Range	river	Parbati River (Madhya Pradesh)
+Vindhya Range	river	Betwa River
+Vindhya Range	river	Ken River
+Vindhya Range	river	Son River
+Vindhya Range	river	Tamsa River
+Litoměřice	river	Elbe
+Litoměřice	river	Ohře
+Most	river	Bílina (river)
+Aravalli Range	river	Banas River
+Lovosice	river	Elbe
+Děčín	river	Elbe
+Bytča	river	Váh
+Martin, Slovakia	river	Turiec (Váh)
+Ilava	river	Váh
+Považská Bystrica	river	Váh
+Nitrianske Pravno	river	Nitra (river)
+Katonah, New York	river	Croton River
+Jablonec nad Nisou	river	Lusatian Neisse
+Turnov	river	Jizera (river)
+Zlaté Moravce	river	Žitava (river)
+Liptovský Mikuláš	river	Váh
+Šahy	river	Ipeľ
+Rimavská Sobota	river	Rimava
+Chlumec nad Cidlinou	river	Cidlina
+Dovedale	river	River Dove, Central England
+Kolín	river	Elbe
+Mladá Boleslav	river	Jizera (river)
+Kratonohy	river	Bystřice (river)
+Rožňava	river	Sajó
+Dvůr Králové nad Labem	river	Elbe
+Cedros (Horta)	river	Ribeira Funda (Cedros)
+Mohave Valley	river	Colorado River
+Mokrovousy	river	Bystřice (river)
+Levice	river	Hron
+Vrakuňa	river	Little Danube
+Tachov	river	Mže
+Louny	river	Ohře
+Brezno	river	Hron
+Tisovec	river	Rimava
+Snina	river	Cirocha
+Liptovský Hrádok	river	Váh
+Liptovský Hrádok	river	Belá (river)
+Hudson Highlands State Park	river	Hudson River
+Sand Hills (Nebraska)	river	Niobrara River
+Beroun	river	Berounka
+Náchod	river	Metuje
+Třebíč	river	Jihlava (river)
+Prievidza	river	Nitra (river)
+Špindlerův Mlýn	river	Elbe
+Šumperk	river	Desná (Morava)
+Kroměříž	river	Morava (river)
+Púchov	river	Váh
+Kadaň	river	Ohře
+Águeda Municipality	river	Águeda River (Douro)
+Bragança District	river	Douro
+Khovd (city)	river	Buyant Gol
+Kapellbrücke	river	Reuss (river)
+Alcácer do Sal Municipality	river	Sado River
+Veselí nad Lužnicí	river	Lužnice (river)
+Michalovce	river	Laborec
+Moravian Karst	river	Punkva
+Jaroměř	river	Elbe
+Nové Město nad Metují	river	Metuje
+Benátky nad Jizerou	river	Jizera (river)
+Opočno	river	Zlatý potok
+Česká Třebová	river	Třebovka
+Příbram	river	Litavka
+Hriňová	river	Slatina (Slovakia)
+Medzilaborce	river	Laborec
+Hronský Beňadik	river	Hron
+Sliač	river	Hron
+Nýrsko	river	Úhlava
+Turčianske Teplice	river	Turiec (Váh)
+Kežmarok	river	Poprad (river)
+Nowotaniec	river	Pielnica
+Dubnica nad Váhom	river	Váh
+Spišská Nová Ves	river	Hornád
+Fair Oaks Bridge	river	American River
+Sezemice	river	Loučná River
+Hejnice (Liberec District)	river	Smědá
+Old Town, Bratislava	river	Danube
+Devín	river	Danube
+Devín	river	Morava (river)
+Brandýs nad Labem-Stará Boleslav	river	Elbe
+Nové Mesto nad Váhom	river	Váh
+Gelnica	river	Hnilec
+Leopoldov	river	Váh
+Topoľčany	river	Nitra (river)
+Cimarron National Grassland	river	Cimarron River (Arkansas River)
+Postoloprty	river	Ohře
+Dačice	river	Moravian Thaya
+Hradec nad Moravicí	river	Moravice (river)
+Vranov nad Dyjí	river	Thaya
+Česká Lípa	river	Ploučnice
+Frýdek-Místek	river	Ostravice (river)
+Žďár nad Sázavou	river	Sázava (river)
+Vrútky	river	Turiec (Váh)
+Sereď	river	Váh
+Šaľa	river	Váh
+Kolárovo	river	Váh
+Detva	river	Slatina (Slovakia)
+Bánovce nad Bebravou	river	Bebrava
+Lockyer Valley	river	Lockyer Creek
+Skalica	river	Morava (river)
+Oslavany	river	Oslava
+Chemehuevi Mountains	river	Colorado River
+Amargosa Desert	river	Amargosa River
+Sacramento Mountains (California)	river	Colorado River
+Želiezovce	river	Hron
+Rožmberk nad Vltavou	river	Vltava
+Cargo Muchacho Mountains	river	Colorado River
+Čadca	river	Kysuca
+Willapa Hills	river	Chehalis River (Washington)
+Roztoky	river	Vltava
+Homestead Grays Bridge	river	Monongahela River
+Slatiňany	river	Chrudimka
+Ronov nad Doubravou	river	Doubrava (river)
+Dedina Mládeže	river	Váh
+Glenmont, New York	river	Hudson River
+Šamorín	river	Danube
+Vráble	river	Žitava (river)
+Sázava (Benešov District)	river	Sázava (river)
+Železný Brod	river	Jizera (river)
+Dunsbach Ferry, New York	river	Mohawk River
+Stará Ľubovňa	river	Poprad (river)
+Svidník	river	Ondava
+Freixo de Espada à Cinta Municipality	river	Douro
+Becherov	river	Szombathely
+Sezimovo Ústí	river	Lužnice (river)
+Partizánske	river	Nitra (river)
+Žiar nad Hronom	river	Hron
+Uherský Ostroh	river	Morava (river)
+Otrokovice	river	Morava (river)
+Padley Gorge	river	Burbage Brook
+Kysucké Nové Mesto	river	Kysuca
+Malheur National Wildlife Refuge	river	Donner und Blitzen River
+Tvrdošín	river	Orava (river)
+Andy Warhol Bridge	river	Allegheny River
+Livanjsko field	river	Bistrica
+Crescent Bridge	river	Mohawk River
+Libice nad Cidlinou	river	Elbe
+Bellaire Bridge	river	Ohio River
+Expedition Range	river	Comet River
+Svratka (Žďár nad Sázavou District)	river	Svratka (river)
+Světlá nad Sázavou	river	Sázava (river)
+Ledeč nad Sázavou	river	Sázava (river)
+Stropkov	river	Ondava
+Myjava	river	Myjava (river)
+Bludov (Šumperk District)	river	Morava (river)
+São João (Abrantes)	river	Tagus
+São Vicente (Abrantes)	river	Tagus
+Šurany	river	Nitra (river)
+Strečno	river	Váh
+Elsmere, New York	river	Kill (body of water)
+Veľký Šariš	river	Torysa
+Morgan Creek	river	Owens River
+Spišské Vlachy	river	Hornád
+Záhorská Ves	river	Morava (river)
+Loket	river	Ohře
+Jirkov	river	Bílina (river)
+Poltár	river	Ipeľ
+Tornaľa	river	Sajó
+Napajedla	river	Morava (river)
+Hnúšťa	river	Rimava
+Modrý Kameň	river	Krtíš
+Nová Baňa	river	Hron
+Žarnovica	river	Hron
+Preseľany	river	Nitra
+Hutovo Blato	river	Krupa
+Blidinje	river	Grabovica
+Rath City, Texas	river	Brazos River
+Strážske	river	Laborec
+Čierna nad Tisou	river	Tisza
+Mont Clare, Pennsylvania	river	Schuylkill River
+Madunice	river	Váh
+Karlova Ves	river	Danube
+Holíč	river	Morava (river)
+Spišská Belá	river	Poprad (river)
+Mahalangur Himal	river	Koshi River
+Mahalangur Himal	river	Dudh Kosi
+Mahalangur Himal	river	Barun River
+Šaštín-Stráže	river	Myjava (river)
+Lipany	river	Torysa
+Turzovka	river	Kysuca
+Rajec	river	Rajčanka
+Sládkovičovo	river	Dudváh
+Hanušovce nad Topľou	river	Topľa
+Nováky	river	Nitra (river)
+Podolínec	river	Poprad (river)
+Rajecké Teplice	river	Rajčanka
+Stakčín	river	Cirocha
+Oslany	river	Nitra (river)
+Pribylina	river	Belá (river)
+Konza Prairie	river	Kansas River
+Černošice	river	Berounka
+Market Street Bridge (Harrisburg)	river	Susquehanna River
+Volyně	river	Volyňka
+State Street Bridge (Harrisburg, Pennsylvania)	river	Pennsylvania Route 230
+State Street Bridge (Harrisburg, Pennsylvania)	river	Paxton Creek
+State Street Bridge (Harrisburg, Pennsylvania)	river	Amtrak
+State Street Bridge (Harrisburg, Pennsylvania)	river	Norfolk Southern Railway
+Stod (Czech Republic)	river	Radbuza
+Horažďovice	river	Otava
+Starý Plzenec	river	Úslava
+Dobřichovice	river	Berounka
+Rapotín	river	Desná River
+Numinbah Valley	river	Nerang River
+Semuc Champey	river	Cahabón River
+Lomnice nad Lužnicí	river	Lužnice (river)
+Stráž nad Nežárkou	river	Nežárka
+Gudgeonville Covered Bridge	river	Elk Creek (Lake Erie)
+Siletz Bay National Wildlife Refuge	river	Siletz River
+Kinzua Bridge	river	Kinzua Creek
+Cogan House Covered Bridge	river	Larrys Creek
+Police nad Metují	river	Metuje
+Hostinné	river	Elbe
+Podlužany, Bánovce nad Bebravou District	river	Bebrava
+Svatobořice-Mistřín	river	Kyjovka
+Soběslav	river	Lužnice (river)
+Planá nad Lužnicí	river	Lužnice (river)
+Puchlovice	river	Bystřice (river)
+Humburky	river	Cidlina
+Králův Dvůr	river	Litavka
+Pennsylvania Canal (West Branch Division)	river	Pennsylvania Canal (North Branch Division)
+Pennsylvania Canal (North Branch Division)	river	Junction Canal
+Blackstone River and Canal Heritage State Park	river	Blackstone River
+Nový Knín	river	Kocába
+Wiconisco Canal	river	Pennsylvania Canal (Susquehanna Division)
+Bakov nad Jizerou	river	Jizera (river)
+Bohušovice nad Ohří	river	Ohře
+Hrušovany nad Jevišovkou	river	Jevišovka (river)
+I Street Bridge	river	Sacramento River
+Karolinka	river	Vsetínská Bečva
+Liběchov	river	Elbe
+Liběchov	river	Liběchovka
+Nová Včelnice	river	Kamenice (Nežárka)
+Osečná	river	Ploučnice
+Přibyslav	river	Sázava (river)
+Třebenice (Litoměřice District)	river	Modla (river)
+Kamenný Újezd (Rokycany District)	river	Klabava River
+Khotyn Fortress	river	Dniester
+Black Mountains (Arizona)	river	Colorado River
+Black Mountains (Arizona)	river	Detrital Wash
+Mohawk Mountains	river	Gila River
+Gila Mountains (Graham County)	river	Gila River
+Kamianets-Podilskyi Castle	river	Smotrych River
+Družec	river	Loděnice (river)
+Kutrovice	river	Bakovský potok
+Královice (Kladno District)	river	Bakovský potok
+Wisłok Wielki	river	Wisłok
+Dome Rock Mountains	river	Colorado River
+Valle Latina	river	Sacco (river)
+Buttonwood Covered Bridge	river	Little Pine Creek
+Sonestown Covered Bridge	river	Muncy Creek
+Forksville Covered Bridge	river	Loyalsock Creek
+Hillsgrove Covered Bridge	river	Loyalsock Creek
+Port of Cleveland	river	Cuyahoga River
+High Bridge (Coatesville, Pennsylvania)	river	West Branch Brandywine Creek
+Landenberg Bridge	river	White Clay Creek
+Trevorton Bridge	river	Susquehanna River
+Blanco Canyon	river	White River (Texas)
+Bratislava	river	Danube
+Vischer Ferry, New York	river	Mohawk River
+Goodpasture Bridge	river	McKenzie River
+Maria fold and thrust belt	river	Chemehuevi Wash
+Maria fold and thrust belt	river	Colorado River
+Maria fold and thrust belt	river	Bill Williams River
+Bullfrog Hills	river	Amargosa River
+Waterford Covered Bridge	river	LeBoeuf Creek
+Watts Mill Bridge	river	Little Beaver Creek
+Římov (České Budějovice District)	river	Malše
+Big Bend Ranch State Park (Texas)	river	Rio Grande
+Bare Mountain Range (Nevada)	river	Amargosa River
+Plunketts Creek Bridge No. 3	river	Plunketts Creek (Loyalsock Creek)
+Fletcher Covered Bridge	river	Tenmile Creek (West Virginia)
+Anderson Reservoir	river	Coyote Creek (Santa Clara County)
+Chesbro Reservoir	river	Llagas Creek (Santa Clara County)
+Petrovo field, Croatia	river	Čikola
+Frymburk	river	Vltava
+Lower Humbert Covered Bridge	river	Laurel Hill Creek
+Alcove, New York	river	Hannacroix Creek
+Vrelo Bune	river	Buna (Neretva)
+Pilot Knob (Imperial County, California)	river	Colorado River
+Kaimur Range	river	Son River
+Kaimur Range	river	Tamsa River
+Kaimur Range	river	Ken River
+Kaimur Range	river	Karmanasa River
+Kaimur Range	river	Durgavati River
+Preston, Texas	river	Red River (Mississippi River)
+Wintergreen Gorge Bridge	river	Fourmile Creek
+Jibboom Street Bridge	river	American River
+Entiat Mountains	river	Entiat River
+Chelan Mountains	river	Entiat River
+Luka nad Jihlavou	river	Jihlava (river)
+Mount Banda Banda	river	New South Wales
+Antelope Valley (California-Nevada)	river	West Walker River
+Gross Covered Bridge	river	Middle Creek (Penns Creek)
+Knovíz	river	Knovízský potok
+Upper Neretva	river	Neretva
+Josefův Důl	river	Kamenice (Jizera)
+Josefův Důl	river	Jizera (river)
+Virgin Valley	river	Virgin River
+El Rosario National Park	river	Pasión River
+Aliso Canyon	river	Aliso Creek (Orange County)
+Chocón Machacas	river	Chocón Machacas River
+Český Krumlov	river	Vltava
+Balcones Canyonlands National Wildlife Refuge	river	Colorado River (Texas)
+Granville State Forest	river	Hubbard River
+Otter River State Forest	river	Otter River (Massachusetts)
+Otter River State Forest	river	Millers River
+Rumney Marsh Reservation	river	Saugus River
+Rumney Marsh Reservation	river	Pines River
+Hemlock Gorge Reservation	river	Charles River
+Beaver Valley (Ontario)	river	Beaver River (Ontario)
+Kichi-Kemin Valley	river	Kichi-Kemin River
+Arpa Valley	river	Arpa River (Kyrgyzstan)
+Ganoga Lake	river	Kitchen Creek (Pennsylvania)
+Mount Cabrebald	river	Paterson River
+Jay Street Bridge	river	West Branch Susquehanna River
+Egg Rock	river	Concord River
+Normansville, New York	river	Kill (body of water)
+Kenwood, Albany, New York	river	Normans Kill
+Chuy Valley	river	Chu River
+Albert Gallatin Memorial Bridge	river	Monongahela River
+Peloncillo Mountains (Cochise County)	river	Gila River
+Pajarito Mountains	river	Santa Cruz River (Arizona)
+Pithole Stone Arch Bridge	river	Pithole Creek
+Harcuvar Mountains	river	Bill Williams River
+Piute Valley	river	Piute Wash
+Laguna Mountains (Arizona)	river	Colorado River
+Crescent, New York	river	Mohawk River
+Mohave Mountains	river	Colorado River
+Galiuro Mountains	river	San Pedro River (Arizona)
+Galiuro Mountains	river	Aravaipa Canyon Wilderness
+Centennial Wash (Mohave County)	river	Bill Williams River
+Rawhide Mountains	river	Bill Williams River
+Gila Valley (Graham County)	river	Gila River
+Childs Valley	river	Childs Wash
+San Pedro Valley (Arizona)	river	San Pedro River (Arizona)
+Park Valley (Arizona)	river	Gila River
+Dendora Valley	river	Gila River
+Weaver Mountains	river	Hassayampa River
+Black Hills (Yavapai County)	river	Verde River
+Dutch Flat (Arizona)	river	Sacramento Wash
+Gila Bend Mountains	river	Gila River
+Rapa Valley	river	Rapa River
+New Paltz (village), New York	river	Wallkill River
+New Paltz, New York	river	Wallkill River
+Chemehuevi Wash	river	Colorado River
+Vidal Valley	river	Colorado River
+Little Rincon Mountains	river	San Pedro River (Arizona)
+Black Hills (Greenlee County)	river	Gila River
+Big Burro Mountains	river	Gila River
+Fra Cristobal Range	river	Rio Grande
+Big Badja	river	Big Badja River
+Tonopah Desert	river	Hassayampa River
+Tonopah Desert	river	Gila River
+Rock Creek (Owens River)	river	Owens River
+Poachie Range	river	Big Sandy River (Arizona)
+Montana Valley and Foothill grasslands	river	Clark Fork (river)
+Montana Valley and Foothill grasslands	river	Bitterroot River
+Montana Valley and Foothill grasslands	river	Madison River
+Montana Valley and Foothill grasslands	river	Ruby River
+Montana Valley and Foothill grasslands	river	Red Rock River (Montana)
+Montana Valley and Foothill grasslands	river	Gallatin River
+Sierra Aguilada	river	San Francisco River
+Animas Valley	river	Animas Creek
+Pahute Mesa (landform)	river	Amargosa River
+Lake Valley (Nevada)	river	Patterson Wash
+Fermentelos	river	Águeda River (Douro)
+Sachs Covered Bridge	river	Marsh Creek (Monocacy River)
+Glenugie Peak	river	Coldstream River, New South Wales
+Comporta	river	Sado River
+Bridgeport Valley	river	East Walker River
+Inclined Plane Bridge	river	Stonycreek River
+Carmichaels Covered Bridge	river	Muddy Creek (Monongahela River)
+Bílina	river	Bílina (river)
+Dolný Kubín	river	Orava (river)
+Malheur Reservoir	river	Willow Creek (Malheur River)
+Bumdeling Wildlife Sanctuary	river	Kulong Chu
+Jigme Singye Wangchuck National Park	river	Mangde Chhu
+Namcha Barwa Himal	river	Yarlung Zangbo River
+Namcha Barwa Himal	river	Brahmaputra River
+Clarke Range	river	Pioneer River
+Clarke Range	river	Broken River (Queensland)
+Jersey Bridge	river	Oil Creek (Allegheny River)

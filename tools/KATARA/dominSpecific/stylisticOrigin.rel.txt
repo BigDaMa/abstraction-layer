@@ -1,0 +1,2543 @@
+Afrobeat	stylisticOrigin	Funk
+Blues	stylisticOrigin	Folk music
+Blues	stylisticOrigin	Work song
+Blues	stylisticOrigin	Spiritual (music)
+Boy band	stylisticOrigin	Soul music
+Boy band	stylisticOrigin	Gospel music
+Boy band	stylisticOrigin	Disco
+Boy band	stylisticOrigin	Bubblegum pop
+Boy band	stylisticOrigin	Pop rock
+Boy band	stylisticOrigin	Electronic dance music
+Boy band	stylisticOrigin	Teen pop
+Boy band	stylisticOrigin	Contemporary R&B
+Boy band	stylisticOrigin	Adult contemporary music
+Boy band	stylisticOrigin	Hip hop music
+Boy band	stylisticOrigin	Girl group
+Black metal	stylisticOrigin	Speed metal
+Black metal	stylisticOrigin	Thrash metal
+Black metal	stylisticOrigin	Hardcore punk
+Country music	stylisticOrigin	Appalachian music
+Country music	stylisticOrigin	Music of the Maritimes
+Country music	stylisticOrigin	Blues
+Country music	stylisticOrigin	Bluegrass music
+Country music	stylisticOrigin	Gospel music
+Country music	stylisticOrigin	Music of the United Kingdom
+Country music	stylisticOrigin	Old-time music
+Christian alternative rock	stylisticOrigin	Alternative rock
+Christian alternative rock	stylisticOrigin	Contemporary Christian music
+Christian alternative rock	stylisticOrigin	Christian punk
+Christian alternative rock	stylisticOrigin	New Wave music
+Christian alternative rock	stylisticOrigin	Post-punk
+Christian alternative rock	stylisticOrigin	Hip hop music
+Disco	stylisticOrigin	Funk
+Disco	stylisticOrigin	Psychedelic music
+Disco	stylisticOrigin	Pop rock
+Disco	stylisticOrigin	Music of Cuba#African heritage
+Drum and bass	stylisticOrigin	Breakbeat hardcore
+Drum and bass	stylisticOrigin	Oldschool jungle
+Drum and bass	stylisticOrigin	Dub music
+Drum and bass	stylisticOrigin	Hardcore techno
+Drum and bass	stylisticOrigin	Swing music
+Drum and bass	stylisticOrigin	Ragga
+Drum and bass	stylisticOrigin	Hip hop music
+Drum and bass	stylisticOrigin	Funk
+Death metal	stylisticOrigin	Thrash metal
+Death metal	stylisticOrigin	Black metal#The first wave
+Funk	stylisticOrigin	Soul music
+Funk	stylisticOrigin	Rhythm and blues
+Funk	stylisticOrigin	Jazz
+Funk	stylisticOrigin	Psychedelic rock
+Freestyle music	stylisticOrigin	Electro (music)
+Freestyle music	stylisticOrigin	Disco
+Freestyle music	stylisticOrigin	Post-disco
+Freestyle music	stylisticOrigin	Italo disco
+Freestyle music	stylisticOrigin	Hip hop
+Freestyle music	stylisticOrigin	Rhythm and blues
+Freestyle music	stylisticOrigin	Latin American music
+Freestyle music	stylisticOrigin	Eurodance
+Flamenco	stylisticOrigin	Romani people in Spain
+Flamenco	stylisticOrigin	Andalusia
+Flamenco	stylisticOrigin	Byzantine Empire
+Flamenco	stylisticOrigin	Mozarabic language
+Flamenco	stylisticOrigin	Moors
+Flamenco	stylisticOrigin	Sephardi Jews
+Gangsta rap	stylisticOrigin	Hip hop music
+Grindcore	stylisticOrigin	Death metal
+Grindcore	stylisticOrigin	Hardcore punk
+Grindcore	stylisticOrigin	Noise (music)
+Grindcore	stylisticOrigin	Industrial music
+Heavy metal music	stylisticOrigin	Blues rock
+Heavy metal music	stylisticOrigin	Psychedelic rock
+House music	stylisticOrigin	Disco
+House music	stylisticOrigin	Hi-NRG
+House music	stylisticOrigin	Boogie (genre)
+House music	stylisticOrigin	Soul music
+House music	stylisticOrigin	Garage house
+House music	stylisticOrigin	Funk
+House music	stylisticOrigin	Electro (music)
+House music	stylisticOrigin	Synthpop
+Impressionist music	stylisticOrigin	Romanticism
+Mambo (music)	stylisticOrigin	Danzón
+Mambo (music)	stylisticOrigin	Swing music
+New Wave music	stylisticOrigin	Punk rock
+New Wave music	stylisticOrigin	Art rock
+New Wave music	stylisticOrigin	Garage rock
+New Wave music	stylisticOrigin	Glam rock
+New Wave music	stylisticOrigin	Pub rock (UK)
+New Wave music	stylisticOrigin	Ska
+New Wave music	stylisticOrigin	Funk
+New Wave music	stylisticOrigin	Electronic music
+New Wave music	stylisticOrigin	Bubblegum pop
+New Wave music	stylisticOrigin	Disco
+No Wave	stylisticOrigin	Punk rock
+No Wave	stylisticOrigin	Avant-garde music
+Nu metal	stylisticOrigin	Alternative metal
+Nu metal	stylisticOrigin	Rap metal
+Nu metal	stylisticOrigin	Grunge
+Nu metal	stylisticOrigin	Funk metal
+Nu metal	stylisticOrigin	Heavy metal music
+Nu metal	stylisticOrigin	Hip hop music
+Nu metal	stylisticOrigin	Industrial metal
+Punk rock	stylisticOrigin	Rock and roll
+Psychedelic rock	stylisticOrigin	Rock music
+Psychedelic rock	stylisticOrigin	Blues rock
+Psychedelic rock	stylisticOrigin	Folk rock
+Psychedelic rock	stylisticOrigin	Jazz
+Psychedelic rock	stylisticOrigin	Raga
+Psychedelic rock	stylisticOrigin	Garage rock
+Pop music	stylisticOrigin	Rhythm and blues
+Rock and roll	stylisticOrigin	Blues
+Rock music	stylisticOrigin	Rock and roll
+Rock music	stylisticOrigin	Electric blues
+Rock music	stylisticOrigin	Folk music
+Rock music	stylisticOrigin	Country music
+Rock music	stylisticOrigin	Blues
+Rock music	stylisticOrigin	Rhythm and blues
+Rock music	stylisticOrigin	Soul music
+Rapcore	stylisticOrigin	Rap rock
+Rapcore	stylisticOrigin	Hip hop music
+Rapcore	stylisticOrigin	Punk rock
+Rapcore	stylisticOrigin	Hardcore punk
+Reggae	stylisticOrigin	Rhythm and blues
+Ragga	stylisticOrigin	Dancehall
+Ragga	stylisticOrigin	Hip hop music
+Ragga	stylisticOrigin	Electronic music
+Rhythm and blues	stylisticOrigin	Jazz
+Rhythm and blues	stylisticOrigin	Blues
+Rhythm and blues	stylisticOrigin	Jump blues
+Rhythm and blues	stylisticOrigin	Electric blues
+Rhythm and blues	stylisticOrigin	Gospel music
+Ragtime	stylisticOrigin	Cakewalk
+Ragtime	stylisticOrigin	Folk music
+Ska	stylisticOrigin	Jamaica
+Ska	stylisticOrigin	Calypso music
+Ska	stylisticOrigin	United States
+Ska	stylisticOrigin	Rhythm and blues
+Samba	stylisticOrigin	Batuque (music)
+Samba	stylisticOrigin	Polka
+Samba	stylisticOrigin	Maxixe (dance)
+Samba	stylisticOrigin	Lundu (dance)
+Samba	stylisticOrigin	Schottische
+Samba	stylisticOrigin	Urban contemporary
+Symphonic rock	stylisticOrigin	Progressive rock
+Symphonic rock	stylisticOrigin	Psychedelic rock
+Symphonic rock	stylisticOrigin	Classical music
+Speed metal	stylisticOrigin	New Wave of British Heavy Metal
+Speed metal	stylisticOrigin	Hardcore punk
+Trip hop	stylisticOrigin	Hip hop music
+Trip hop	stylisticOrigin	British hip hop
+Trip hop	stylisticOrigin	Downtempo
+Trip hop	stylisticOrigin	Dub music
+Trip hop	stylisticOrigin	Experimental rock
+Trip hop	stylisticOrigin	Acid jazz
+Trip hop	stylisticOrigin	Psychedelic rock
+Trip hop	stylisticOrigin	Post-punk
+Trip hop	stylisticOrigin	Electronic dance music
+Trip hop	stylisticOrigin	Lounge music
+Trip hop	stylisticOrigin	Rock music
+Trance music	stylisticOrigin	Berlin School of electronic music
+Trance music	stylisticOrigin	House music
+Trance music	stylisticOrigin	Techno
+Trance music	stylisticOrigin	Balearic beat
+Trance music	stylisticOrigin	Ambient music
+Trance music	stylisticOrigin	Industrial music
+Trance music	stylisticOrigin	Electronic music
+Trance music	stylisticOrigin	New Age music
+Trance music	stylisticOrigin	Pop music
+Trance music	stylisticOrigin	Chill-out music
+Trance music	stylisticOrigin	Classical music
+Trance music	stylisticOrigin	Film score
+World music	stylisticOrigin	France
+World music	stylisticOrigin	France
+World music	stylisticOrigin	United Kingdom
+Glam rock	stylisticOrigin	Art rock
+Glam rock	stylisticOrigin	Pop rock
+Glam rock	stylisticOrigin	Hard rock
+Glam rock	stylisticOrigin	Psychedelic rock
+Britpop	stylisticOrigin	Alternative rock
+Britpop	stylisticOrigin	Madchester
+Breakbeat hardcore	stylisticOrigin	Rave music#The "rave" genre
+Breakbeat hardcore	stylisticOrigin	Breakbeat
+Breakbeat hardcore	stylisticOrigin	Acid house
+Breakbeat hardcore	stylisticOrigin	Techno
+Breakbeat hardcore	stylisticOrigin	Industrial music
+Nederpop	stylisticOrigin	Pop music
+Nederpop	stylisticOrigin	Rock music
+Bebop	stylisticOrigin	Swing music
+Bebop	stylisticOrigin	Kansas City jazz
+Art rock	stylisticOrigin	Art music
+Art rock	stylisticOrigin	Avant-garde music
+Art rock	stylisticOrigin	Experimental rock
+Art rock	stylisticOrigin	Psychedelic rock
+Progressive rock	stylisticOrigin	Psychedelic rock
+Progressive rock	stylisticOrigin	Jazz fusion
+Progressive rock	stylisticOrigin	Blues rock
+Progressive rock	stylisticOrigin	Folk rock
+Progressive rock	stylisticOrigin	Hard rock
+Progressive rock	stylisticOrigin	World music
+Progressive rock	stylisticOrigin	Electronic music
+Progressive rock	stylisticOrigin	Classical music
+Progressive rock	stylisticOrigin	Free jazz
+Grunge	stylisticOrigin	Alternative rock
+Grunge	stylisticOrigin	Hardcore punk
+Grunge	stylisticOrigin	Heavy metal music
+Grunge	stylisticOrigin	Indie rock
+Bubblegum pop	stylisticOrigin	Pop music
+Bubblegum pop	stylisticOrigin	Pop rock
+Bubblegum pop	stylisticOrigin	Novelty song
+Bubblegum pop	stylisticOrigin	Nursery rhyme
+Bubblegum pop	stylisticOrigin	Children's music
+Ambient music	stylisticOrigin	Electronic music
+Ambient music	stylisticOrigin	Minimal music
+Ambient music	stylisticOrigin	Drone music
+Ambient music	stylisticOrigin	Psychedelic rock
+Ambient music	stylisticOrigin	Krautrock
+Ambient music	stylisticOrigin	Space rock
+Free improvisation	stylisticOrigin	Free jazz
+Free improvisation	stylisticOrigin	Avant-garde jazz
+Free improvisation	stylisticOrigin	20th-century classical music
+Free improvisation	stylisticOrigin	Serialism
+Free improvisation	stylisticOrigin	Aleatoric music
+Bluegrass music	stylisticOrigin	Folk music of England
+Bluegrass music	stylisticOrigin	African American
+Bluegrass music	stylisticOrigin	Blues
+Soul music	stylisticOrigin	Rhythm and blues
+Modal jazz	stylisticOrigin	Jazz
+Modal jazz	stylisticOrigin	Cool jazz
+Modal jazz	stylisticOrigin	Music of India
+Modal jazz	stylisticOrigin	Medieval music
+Post-rock	stylisticOrigin	Progressive rock
+Post-rock	stylisticOrigin	Krautrock
+Post-rock	stylisticOrigin	Ambient music
+Post-rock	stylisticOrigin	Electronica
+Post-rock	stylisticOrigin	Minimal music
+Post-rock	stylisticOrigin	Shoegazing
+Big band	stylisticOrigin	Jazz
+Big band	stylisticOrigin	Swing music
+Progressive metal	stylisticOrigin	Progressive rock
+Progressive metal	stylisticOrigin	Heavy metal music
+Progressive metal	stylisticOrigin	Jazz fusion
+Progressive metal	stylisticOrigin	Psychedelic rock
+Breakbeat	stylisticOrigin	Hip hop music
+Breakbeat	stylisticOrigin	Funk
+Breakbeat	stylisticOrigin	Jazz
+Breakbeat	stylisticOrigin	Electro (music)
+Breakbeat	stylisticOrigin	Electronic dance music
+Nueva canción	stylisticOrigin	Latin America
+Nueva canción	stylisticOrigin	Guitar
+Celtic metal	stylisticOrigin	Folk metal
+Celtic metal	stylisticOrigin	Celtic music
+Viking metal	stylisticOrigin	Black metal
+Viking metal	stylisticOrigin	Folk metal
+Medieval metal	stylisticOrigin	Folk metal
+Medieval metal	stylisticOrigin	Industrial metal
+Medieval metal	stylisticOrigin	Medieval music
+Hardcore punk	stylisticOrigin	Punk rock
+Folk metal	stylisticOrigin	Heavy metal music
+Folk metal	stylisticOrigin	Folk music
+Thrash metal	stylisticOrigin	New Wave of British Heavy Metal
+Thrash metal	stylisticOrigin	Speed metal
+Thrash metal	stylisticOrigin	Hardcore punk
+National Socialist black metal	stylisticOrigin	Black metal
+Soca music	stylisticOrigin	Calypso music
+Anarcho-punk	stylisticOrigin	Punk rock
+Intelligent dance music	stylisticOrigin	Electronica
+Intelligent dance music	stylisticOrigin	Experimental music
+Intelligent dance music	stylisticOrigin	Ambient music
+Intelligent dance music	stylisticOrigin	Techno
+Intelligent dance music	stylisticOrigin	House music
+Intelligent dance music	stylisticOrigin	Industrial music
+Intelligent dance music	stylisticOrigin	Drum and bass
+Intelligent dance music	stylisticOrigin	Avant-garde
+Chiptune	stylisticOrigin	Video game music
+Chiptune	stylisticOrigin	Electronic music
+Salsa music	stylisticOrigin	Canción
+Salsa music	stylisticOrigin	Son (music)
+Salsa music	stylisticOrigin	Guaracha
+Salsa music	stylisticOrigin	Rumba
+Noise (music)	stylisticOrigin	Modernism (music)
+Noise (music)	stylisticOrigin	20th-century classical music
+Noise (music)	stylisticOrigin	Electronic music
+Noise (music)	stylisticOrigin	Musique concrète
+Noise (music)	stylisticOrigin	Electroacoustic music
+Noise (music)	stylisticOrigin	Performance art
+Noise (music)	stylisticOrigin	Free improvisation
+Electronica	stylisticOrigin	Electronic dance music
+Traditional pop music	stylisticOrigin	Broadway theatre
+Christian rock	stylisticOrigin	Rock music
+Christian rock	stylisticOrigin	Jesus music
+Christian rock	stylisticOrigin	Christian music
+Country rock	stylisticOrigin	Folk rock
+Industrial music	stylisticOrigin	Post-punk
+Industrial music	stylisticOrigin	Musique concrète
+Industrial music	stylisticOrigin	Fluxus
+Industrial music	stylisticOrigin	Performance art
+Industrial music	stylisticOrigin	Electronic music
+Industrial music	stylisticOrigin	Krautrock
+Industrial music	stylisticOrigin	Noise (music)
+Industrial music	stylisticOrigin	Experimental music
+Doo-wop	stylisticOrigin	Rhythm and blues
+Free jazz	stylisticOrigin	Jazz
+Emo	stylisticOrigin	Hardcore punk
+Emo	stylisticOrigin	Indie rock
+Hard rock	stylisticOrigin	Blues rock
+Hard rock	stylisticOrigin	Garage rock
+Hard rock	stylisticOrigin	Psychedelic rock
+Hard rock	stylisticOrigin	Rock and roll
+Hard rock	stylisticOrigin	Rhythm and blues
+Gothic rock	stylisticOrigin	Punk rock
+Gothic rock	stylisticOrigin	Post-punk
+Industrial rock	stylisticOrigin	Industrial music
+Industrial rock	stylisticOrigin	Electronic body music
+Industrial rock	stylisticOrigin	Post-punk
+Industrial rock	stylisticOrigin	No Wave
+Industrial rock	stylisticOrigin	Noise rock
+Industrial rock	stylisticOrigin	Punk&nbsp;rock
+Deathrock	stylisticOrigin	Punk rock
+Deathrock	stylisticOrigin	Gothic rock
+Deathrock	stylisticOrigin	Post-punk
+Deathrock	stylisticOrigin	Glam rock
+Deathrock	stylisticOrigin	Acid rock
+Deathrock	stylisticOrigin	New Wave music
+Deathrock	stylisticOrigin	Horror film score
+Synthpop	stylisticOrigin	Disco
+Synthpop	stylisticOrigin	New Wave music
+Synthpop	stylisticOrigin	Electronic music
+Synthpop	stylisticOrigin	Pop music
+Synthpop	stylisticOrigin	Post-punk
+Synthpop	stylisticOrigin	Glam&nbsp;rock
+Synthpop	stylisticOrigin	Krautrock
+Symphonic black metal	stylisticOrigin	Black metal
+Symphonic black metal	stylisticOrigin	Symphonic metal
+Skiffle	stylisticOrigin	Jazz
+Indie rock	stylisticOrigin	Alternative rock
+Indie rock	stylisticOrigin	Punk rock
+Indie rock	stylisticOrigin	Post-punk
+Indie rock	stylisticOrigin	Hardcore punk
+Indie rock	stylisticOrigin	New Wave music
+Instrumental rock	stylisticOrigin	Rock music
+Instrumental rock	stylisticOrigin	Rock and roll
+Psychedelic trance	stylisticOrigin	Goa trance
+Japanese hip hop	stylisticOrigin	Hip hop music
+Japanese hip hop	stylisticOrigin	Pop music
+Electroclash	stylisticOrigin	New Wave music
+Electroclash	stylisticOrigin	Synthpop
+Electroclash	stylisticOrigin	Digital hardcore
+Electroclash	stylisticOrigin	Electronic dance music
+Garage rock	stylisticOrigin	Rock and roll
+Garage rock	stylisticOrigin	Rockabilly
+Garage rock	stylisticOrigin	Beat music
+Garage rock	stylisticOrigin	Rhythm and blues
+Garage rock	stylisticOrigin	Soul music
+Garage rock	stylisticOrigin	Blues
+Garage rock	stylisticOrigin	Surf music
+Garage rock	stylisticOrigin	Instrumental rock
+Pub rock (UK)	stylisticOrigin	Rock and roll
+Pub rock (UK)	stylisticOrigin	Garage rock
+Pub rock (UK)	stylisticOrigin	British blues
+Pub rock (UK)	stylisticOrigin	Folk rock
+Pub rock (UK)	stylisticOrigin	Power pop
+Pub rock (UK)	stylisticOrigin	Rhythm and blues
+Pub rock (UK)	stylisticOrigin	Beat music
+Pub rock (UK)	stylisticOrigin	Twelve-bar blues
+Jesus music	stylisticOrigin	Folk music
+Jesus music	stylisticOrigin	Folk rock
+Southern rock	stylisticOrigin	Rock music
+Southern rock	stylisticOrigin	Blues
+Southern rock	stylisticOrigin	Rhythm and blues
+Southern rock	stylisticOrigin	Blues rock
+Southern rock	stylisticOrigin	Country rock
+Southern rock	stylisticOrigin	Rockabilly
+Southern rock	stylisticOrigin	Rock and roll
+Southern rock	stylisticOrigin	Swamp pop
+Southern rock	stylisticOrigin	Tulsa Sound
+Southern rock	stylisticOrigin	Southern soul
+Southern rock	stylisticOrigin	Gospel music
+Enka	stylisticOrigin	Ryūkōka
+Swing music	stylisticOrigin	Jazz
+Swing music	stylisticOrigin	Ragtime
+Swing music	stylisticOrigin	Classical music
+Electronic body music	stylisticOrigin	Industrial music
+Electronic body music	stylisticOrigin	Electronic dance music
+Electronic body music	stylisticOrigin	Synthpunk
+Electronic body music	stylisticOrigin	Synthpop
+Electronic body music	stylisticOrigin	Post-punk
+Gospel music	stylisticOrigin	Hymn#Christian tradition
+Gospel music	stylisticOrigin	Spiritual (music)
+Alternative rock	stylisticOrigin	Punk rock
+Alternative rock	stylisticOrigin	Post-punk
+Alternative rock	stylisticOrigin	Hardcore punk
+Alternative rock	stylisticOrigin	New Wave music
+Roots reggae	stylisticOrigin	Ska
+Roots reggae	stylisticOrigin	Rocksteady
+Roots reggae	stylisticOrigin	Reggae
+Roots reggae	stylisticOrigin	Mansions of Rastafari#Niyabinghi music
+Jam band	stylisticOrigin	Folk rock
+Jam band	stylisticOrigin	Blues rock
+Jam band	stylisticOrigin	Jazz fusion
+Jam band	stylisticOrigin	Acid rock
+Jam band	stylisticOrigin	Psychedelic rock
+Jam band	stylisticOrigin	Southern rock
+Jam band	stylisticOrigin	Country rock
+Jam band	stylisticOrigin	Bluegrass music
+Jam band	stylisticOrigin	Modal jazz
+Folk rock	stylisticOrigin	Folk music
+Folk rock	stylisticOrigin	Rock music
+Folk rock	stylisticOrigin	Pop music
+Boogie-woogie	stylisticOrigin	Blues
+Shoegazing	stylisticOrigin	Alternative rock
+Shoegazing	stylisticOrigin	Dream pop
+Shoegazing	stylisticOrigin	Neo-psychedelia
+Shoegazing	stylisticOrigin	Noise pop
+Shoegazing	stylisticOrigin	Noise rock
+Shoegazing	stylisticOrigin	Post-punk
+Shoegazing	stylisticOrigin	Space rock
+Power pop	stylisticOrigin	Pop rock
+Power pop	stylisticOrigin	Rock and roll
+Power pop	stylisticOrigin	Beat music
+Power pop	stylisticOrigin	Rhythm and blues
+Power pop	stylisticOrigin	Garage rock
+Zydeco	stylisticOrigin	Creole music
+Zydeco	stylisticOrigin	Cajun music
+Zydeco	stylisticOrigin	African American
+Zydeco	stylisticOrigin	Jazz
+Raï	stylisticOrigin	Music of Spain
+Raï	stylisticOrigin	Music of France
+Raï	stylisticOrigin	Andalusian classical music
+Raï	stylisticOrigin	Zendani
+Raï	stylisticOrigin	Malhun
+Alternative country	stylisticOrigin	Country music
+Alternative country	stylisticOrigin	Alternative rock
+Alternative country	stylisticOrigin	Neotraditional country
+Alternative country	stylisticOrigin	Progressive country
+Alternative country	stylisticOrigin	Outlaw country
+Alternative country	stylisticOrigin	Country rock
+Alternative country	stylisticOrigin	Punk rock
+Nashville sound	stylisticOrigin	Country music
+Nashville sound	stylisticOrigin	Pop music
+Europop	stylisticOrigin	Pop music
+Europop	stylisticOrigin	Rock music
+Europop	stylisticOrigin	Contemporary R&B
+Europop	stylisticOrigin	Eurodance
+Europop	stylisticOrigin	Euro-Trance
+Europop	stylisticOrigin	Euro disco
+Europop	stylisticOrigin	Eurobeat
+Europop	stylisticOrigin	Vocal trance
+Europop	stylisticOrigin	Italo disco
+Europop	stylisticOrigin	Alternative rock
+Europop	stylisticOrigin	Pop rock
+East Coast hip hop	stylisticOrigin	Hip hop music
+East Coast hip hop	stylisticOrigin	Disco
+East Coast hip hop	stylisticOrigin	Funk
+East Coast hip hop	stylisticOrigin	Jazz
+West Coast hip hop	stylisticOrigin	Dancehall
+Southern hip hop	stylisticOrigin	Hip hop music
+Doom metal	stylisticOrigin	Heavy metal music
+Chicago blues	stylisticOrigin	Delta blues
+Delta blues	stylisticOrigin	Blues
+Rockabilly	stylisticOrigin	Country music
+Rockabilly	stylisticOrigin	Western swing
+Rockabilly	stylisticOrigin	Honky-tonk
+Rockabilly	stylisticOrigin	Rhythm and blues
+Rockabilly	stylisticOrigin	Boogie-woogie
+Rockabilly	stylisticOrigin	Appalachian music
+Funk metal	stylisticOrigin	Funk
+Funk metal	stylisticOrigin	Funk rock
+Funk metal	stylisticOrigin	Heavy metal music
+Glam metal	stylisticOrigin	Glam rock
+Glam metal	stylisticOrigin	Heavy metal music
+Glam metal	stylisticOrigin	Hard rock
+Glam metal	stylisticOrigin	Punk rock
+Glam metal	stylisticOrigin	Pop&nbsp;rock
+Jump blues	stylisticOrigin	Blues
+Jump blues	stylisticOrigin	Big band
+Jump blues	stylisticOrigin	Swing music
+Jump blues	stylisticOrigin	Boogie-woogie
+Country blues	stylisticOrigin	Blues
+Country blues	stylisticOrigin	Folk music
+St. Louis blues (music)	stylisticOrigin	Blues
+St. Louis blues (music)	stylisticOrigin	Jump blues
+St. Louis blues (music)	stylisticOrigin	Ragtime
+St. Louis blues (music)	stylisticOrigin	Piano blues
+Louisiana blues	stylisticOrigin	Blues
+Swamp blues	stylisticOrigin	Blues
+Swamp blues	stylisticOrigin	Cajun music
+Swamp blues	stylisticOrigin	Creole music
+Swamp blues	stylisticOrigin	Country blues
+Swamp blues	stylisticOrigin	Louisiana blues
+Swamp blues	stylisticOrigin	Zydeco
+New Orleans rhythm and blues	stylisticOrigin	Music of Louisiana
+New Orleans rhythm and blues	stylisticOrigin	Rhythm and blues
+Piano blues	stylisticOrigin	Boogie-woogie
+Piano blues	stylisticOrigin	Ragtime
+Piano blues	stylisticOrigin	Blues
+West Coast blues	stylisticOrigin	Blues
+West Coast blues	stylisticOrigin	Twelve-bar blues#In Jazz
+West Coast blues	stylisticOrigin	Jump blues
+Surf music	stylisticOrigin	Rock and roll
+Surf music	stylisticOrigin	Jump blues
+Surf music	stylisticOrigin	Country music
+Surf music	stylisticOrigin	Culture of Europe#Art
+Surf music	stylisticOrigin	Middle Eastern music
+Surf music	stylisticOrigin	Music of Mexico
+Highlife	stylisticOrigin	African popular music
+Piedmont blues	stylisticOrigin	Blues
+Piedmont blues	stylisticOrigin	Ragtime
+Piedmont blues	stylisticOrigin	Piano blues
+Electric blues	stylisticOrigin	Delta blues
+British blues	stylisticOrigin	Blues
+Dream pop	stylisticOrigin	Post-punk
+Dream pop	stylisticOrigin	Psychedelic rock
+Dream pop	stylisticOrigin	Ethereal Wave
+Dream pop	stylisticOrigin	Ambient music
+Dream pop	stylisticOrigin	Space rock
+Dream pop	stylisticOrigin	Pop music
+Illbient	stylisticOrigin	Ambient music
+Illbient	stylisticOrigin	East Coast hip hop
+Illbient	stylisticOrigin	Trip hop
+Illbient	stylisticOrigin	Industrial hip hop
+Illbient	stylisticOrigin	Dub music
+Klezmer	stylisticOrigin	Music of Romania
+Klezmer	stylisticOrigin	Bessarabia
+Klezmer	stylisticOrigin	Bukovina
+Klezmer	stylisticOrigin	Music of Ukraine
+Klezmer	stylisticOrigin	Music of Turkey
+Klezmer	stylisticOrigin	Music of Greece
+Fado	stylisticOrigin	Music of Portugal
+Gabber	stylisticOrigin	Hardcore techno
+Gabber	stylisticOrigin	Industrial music
+Gabber	stylisticOrigin	Industrial hip hop
+Gabber	stylisticOrigin	Electro hop#Techno-house
+Detroit techno	stylisticOrigin	Techno
+Psychobilly	stylisticOrigin	Blues
+Psychobilly	stylisticOrigin	Garage rock
+Psychobilly	stylisticOrigin	Rhythm and blues
+Psychobilly	stylisticOrigin	Punk rock
+Psychobilly	stylisticOrigin	Rockabilly
+Psychobilly	stylisticOrigin	Rock and roll
+Cowpunk	stylisticOrigin	Punk rock
+Cowpunk	stylisticOrigin	New Wave music
+Cowpunk	stylisticOrigin	Southern rock
+Cowpunk	stylisticOrigin	Roots rock
+Cowpunk	stylisticOrigin	Country rock
+Power metal	stylisticOrigin	New Wave of British Heavy Metal
+Power metal	stylisticOrigin	Speed metal
+G-funk	stylisticOrigin	West Coast hip hop
+G-funk	stylisticOrigin	Gangsta rap
+G-funk	stylisticOrigin	P-Funk
+G-funk	stylisticOrigin	Funk
+G-funk	stylisticOrigin	Rhythm and blues
+G-funk	stylisticOrigin	West Coast hip hop
+Dancehall	stylisticOrigin	Reggae
+Dancehall	stylisticOrigin	Rhythm and blues
+Dancehall	stylisticOrigin	Ska
+Dancehall	stylisticOrigin	Rocksteady
+Dancehall	stylisticOrigin	Dub music
+Dancehall	stylisticOrigin	Deejaying
+Worldbeat	stylisticOrigin	World music
+Worldbeat	stylisticOrigin	Traditional music
+Worldbeat	stylisticOrigin	Roots music
+Worldbeat	stylisticOrigin	Pop rock
+Worldbeat	stylisticOrigin	Indie rock
+Dub music	stylisticOrigin	Reggae
+Space rock	stylisticOrigin	Progressive rock
+Space rock	stylisticOrigin	Psychedelic rock
+Space rock	stylisticOrigin	Experimental rock
+Space rock	stylisticOrigin	Electronic music
+Spiritual (music)	stylisticOrigin	Work song
+Spiritual (music)	stylisticOrigin	Hymn#Christian tradition
+Rocksteady	stylisticOrigin	Ska
+Rocksteady	stylisticOrigin	Soul music
+Rocksteady	stylisticOrigin	Rhythm and blues
+Goa trance	stylisticOrigin	Trance music
+Goa trance	stylisticOrigin	Electronic body music
+Goa trance	stylisticOrigin	Indian classical music
+Goa trance	stylisticOrigin	Psychedelic rock
+Goa trance	stylisticOrigin	Acid house
+Pop punk	stylisticOrigin	Punk rock
+Pop punk	stylisticOrigin	Pop music
+Pop punk	stylisticOrigin	Surf music
+Pop punk	stylisticOrigin	Power pop
+Pop punk	stylisticOrigin	Garage rock
+Pop punk	stylisticOrigin	New Wave music
+Kanto (music)	stylisticOrigin	Music of Italy
+Kanto (music)	stylisticOrigin	Music of Turkey
+Kanto (music)	stylisticOrigin	Music of Greece
+Kanto (music)	stylisticOrigin	Music of Armenia
+Cakewalk	stylisticOrigin	African-American music
+Swedish death metal	stylisticOrigin	Death metal
+Swedish death metal	stylisticOrigin	Thrash metal
+Swedish death metal	stylisticOrigin	D-beat
+Swedish death metal	stylisticOrigin	Punk rock
+New Wave of British Heavy Metal	stylisticOrigin	Heavy metal music
+New Wave of British Heavy Metal	stylisticOrigin	Punk rock
+2 Tone	stylisticOrigin	Ska
+Go-go	stylisticOrigin	Funk
+Miami bass	stylisticOrigin	Hip hop music
+Miami bass	stylisticOrigin	Electro (music)
+Miami bass	stylisticOrigin	Breakbeat
+Miami bass	stylisticOrigin	Miami bass
+Miami bass	stylisticOrigin	Bounce music
+Hip house	stylisticOrigin	House music
+Hip house	stylisticOrigin	Hip hop
+Hip house	stylisticOrigin	Acid house
+Christian metal	stylisticOrigin	Jesus music
+Christian metal	stylisticOrigin	Christian rock
+Christian metal	stylisticOrigin	Heavy metal music
+Christian metal	stylisticOrigin	Psychedelic rock
+Christian metal	stylisticOrigin	Blues rock
+Christian metal	stylisticOrigin	Hard rock
+Oldschool jungle	stylisticOrigin	Breakbeat hardcore
+Oldschool jungle	stylisticOrigin	Funk
+Oldschool jungle	stylisticOrigin	Hip hop music
+Oldschool jungle	stylisticOrigin	Reggae
+Oldschool jungle	stylisticOrigin	Dub music
+Oldschool jungle	stylisticOrigin	Dancehall
+Jazz rap	stylisticOrigin	Jazz
+Jazz rap	stylisticOrigin	Jazz fusion
+Jazz rap	stylisticOrigin	Hip hop music
+Hard bop	stylisticOrigin	Jazz
+Hard bop	stylisticOrigin	Blues
+Hard bop	stylisticOrigin	Bebop
+Hard bop	stylisticOrigin	Rhythm and blues
+Hard bop	stylisticOrigin	Gospel music
+Jazz fusion	stylisticOrigin	Jazz
+Jazz fusion	stylisticOrigin	Post-bop
+Jazz fusion	stylisticOrigin	Free jazz
+Jazz fusion	stylisticOrigin	Psychedelic rock
+Jazz fusion	stylisticOrigin	Funk
+Jazz fusion	stylisticOrigin	20th-century classical music
+Jazz fusion	stylisticOrigin	Blues rock
+Jazz fusion	stylisticOrigin	World music
+Christian hip hop	stylisticOrigin	East Coast hip hop
+Christian hip hop	stylisticOrigin	West Coast hip hop
+Christian hip hop	stylisticOrigin	Christian music
+Christian hip hop	stylisticOrigin	Christian rock
+Christian hip hop	stylisticOrigin	Gospel music
+Neo soul	stylisticOrigin	Soul music
+Neo soul	stylisticOrigin	Contemporary R&B
+Neo soul	stylisticOrigin	Hip hop music
+Neo soul	stylisticOrigin	Funk
+Neo soul	stylisticOrigin	Jazz
+Neo soul	stylisticOrigin	Electronic music
+Neo soul	stylisticOrigin	Quiet storm
+Neo soul	stylisticOrigin	Pop music
+Neo soul	stylisticOrigin	Jazz-funk
+Neo soul	stylisticOrigin	Jazz fusion
+Neo soul	stylisticOrigin	Music of Africa
+Chicago house	stylisticOrigin	House music
+Chicago house	stylisticOrigin	Post-disco
+Chicago house	stylisticOrigin	Synthpop
+Chicago house	stylisticOrigin	Rhythm and blues
+Chicago house	stylisticOrigin	Jazz
+Ska punk	stylisticOrigin	Ska
+Math rock	stylisticOrigin	Experimental rock
+Math rock	stylisticOrigin	Post-hardcore
+Math rock	stylisticOrigin	Post-punk
+Math rock	stylisticOrigin	Noise rock
+Math rock	stylisticOrigin	Minimal music
+Math rock	stylisticOrigin	Avant-garde jazz
+Math rock	stylisticOrigin	Progressive rock
+Vocal house	stylisticOrigin	Southern soul
+Vocal house	stylisticOrigin	Jazz
+Vocal house	stylisticOrigin	Funk
+Vocal house	stylisticOrigin	House music
+Skate punk	stylisticOrigin	Punk rock
+Skate punk	stylisticOrigin	Surf music
+Skate punk	stylisticOrigin	Thrashcore
+Skate punk	stylisticOrigin	Pop punk
+Slowcore	stylisticOrigin	Sadcore
+Slowcore	stylisticOrigin	Indie rock
+Microhouse	stylisticOrigin	Minimal techno
+Microhouse	stylisticOrigin	House music
+Microhouse	stylisticOrigin	Electronic music
+Microhouse	stylisticOrigin	Glitch (music)
+Microhouse	stylisticOrigin	Minimal music
+Microhouse	stylisticOrigin	Intelligent dance music
+Glitch (music)	stylisticOrigin	Intelligent dance music
+Glitch (music)	stylisticOrigin	Industrial music
+Glitch (music)	stylisticOrigin	Breakbeat
+Glitch (music)	stylisticOrigin	Musique concrète
+Glitch (music)	stylisticOrigin	Techno
+Glitch (music)	stylisticOrigin	Ambient music
+Glitch (music)	stylisticOrigin	Low fidelity
+Tech house	stylisticOrigin	House music
+Tech house	stylisticOrigin	Techno
+Tech house	stylisticOrigin	Minimal techno
+Tech house	stylisticOrigin	Tech trance
+Bossa nova	stylisticOrigin	Samba
+Bossa nova	stylisticOrigin	Jazz
+Cajun music	stylisticOrigin	Ballad
+Rap metal	stylisticOrigin	Rap rock
+Rap metal	stylisticOrigin	Heavy metal music
+Rap metal	stylisticOrigin	Hip hop music
+Avant-garde jazz	stylisticOrigin	Jazz
+Avant-garde jazz	stylisticOrigin	Bebop
+Avant-garde jazz	stylisticOrigin	Free jazz
+Avant-garde jazz	stylisticOrigin	Modernism (music)
+Avant-garde jazz	stylisticOrigin	20th-century classical music
+Tango (dance)	stylisticOrigin	Habanera (music)
+Tango (dance)	stylisticOrigin	Milonga
+Tango (dance)	stylisticOrigin	Polka
+Acid jazz	stylisticOrigin	Electronic dance music
+Acid jazz	stylisticOrigin	Funk
+Acid jazz	stylisticOrigin	Jazz
+Acid jazz	stylisticOrigin	Jazz fusion
+Acid jazz	stylisticOrigin	Contemporary R&B
+Acid jazz	stylisticOrigin	Hip hop music
+Ghetto house	stylisticOrigin	Chicago house
+Ghetto house	stylisticOrigin	Synthpop
+Ghetto house	stylisticOrigin	Miami bass
+Soul jazz	stylisticOrigin	Hard bop
+Soul jazz	stylisticOrigin	Rhythm and blues
+Soul jazz	stylisticOrigin	Blues
+Soul jazz	stylisticOrigin	Gospel
+Soul jazz	stylisticOrigin	Soul music
+Riot grrrl	stylisticOrigin	Punk rock
+Riot grrrl	stylisticOrigin	Pop punk
+Riot grrrl	stylisticOrigin	Indie rock
+Riot grrrl	stylisticOrigin	Girl group
+Riot grrrl	stylisticOrigin	Alternative rock
+Riot grrrl	stylisticOrigin	Grunge
+Riot grrrl	stylisticOrigin	Third-wave feminism
+Riot grrrl	stylisticOrigin	Queer theory
+Riot grrrl	stylisticOrigin	Straight edge
+Digital hardcore	stylisticOrigin	Hardcore punk
+Digital hardcore	stylisticOrigin	Techno
+Digital hardcore	stylisticOrigin	Anarcho-punk
+Digital hardcore	stylisticOrigin	Industrial rock
+Digital hardcore	stylisticOrigin	Jungle music
+Happy hardcore	stylisticOrigin	Hardcore techno
+Happy hardcore	stylisticOrigin	Breakbeat hardcore
+Happy hardcore	stylisticOrigin	Acid house
+Happy hardcore	stylisticOrigin	Trance music
+Happy hardcore	stylisticOrigin	Bouncy techno
+Happy hardcore	stylisticOrigin	Eurodance
+Krautrock	stylisticOrigin	Experimental music
+Krautrock	stylisticOrigin	Progressive rock
+Krautrock	stylisticOrigin	Funk
+Krautrock	stylisticOrigin	Psychedelic rock
+Cool jazz	stylisticOrigin	Bebop
+Cool jazz	stylisticOrigin	Swing music
+Cool jazz	stylisticOrigin	Classical music
+Latin jazz	stylisticOrigin	Jazz
+Latin jazz	stylisticOrigin	Music of Cuba
+Latin jazz	stylisticOrigin	Music of Brazil
+Latin jazz	stylisticOrigin	Music of Puerto Rico
+Latin jazz	stylisticOrigin	Latin American music
+Novelty song	stylisticOrigin	Popular music
+4-beat	stylisticOrigin	Breakbeat hardcore
+4-beat	stylisticOrigin	Italo house
+College rock	stylisticOrigin	Punk rock
+College rock	stylisticOrigin	Post-punk
+College rock	stylisticOrigin	New Wave music
+Kulintang	stylisticOrigin	Music of Southeast Asia
+Chicago soul	stylisticOrigin	Gospel music
+Chicago soul	stylisticOrigin	Doo-wop
+Chicago soul	stylisticOrigin	Soul music
+Jangle pop	stylisticOrigin	Power pop
+Jangle pop	stylisticOrigin	Post-punk
+Jangle pop	stylisticOrigin	Folk rock
+Jangle pop	stylisticOrigin	Rock&nbsp;and&nbsp;roll
+Exotica	stylisticOrigin	Lounge music
+Exotica	stylisticOrigin	Space age pop
+Exotica	stylisticOrigin	World music
+Exotica	stylisticOrigin	Impressionist music
+Queercore	stylisticOrigin	Punk rock
+Queercore	stylisticOrigin	Hardcore punk
+Queercore	stylisticOrigin	Anarcho-punk
+Queercore	stylisticOrigin	Industrial music
+Queercore	stylisticOrigin	Indie rock
+Queercore	stylisticOrigin	Third-wave feminism
+Queercore	stylisticOrigin	Queer theory
+Queercore	stylisticOrigin	Straight edge
+Nu jazz	stylisticOrigin	Jazz-funk
+Nu jazz	stylisticOrigin	Jazz fusion
+Nu jazz	stylisticOrigin	Free funk
+Nu jazz	stylisticOrigin	Electro (music)
+Nu jazz	stylisticOrigin	House music
+Nu jazz	stylisticOrigin	Techno
+Nu jazz	stylisticOrigin	Electronic dance music
+Nu jazz	stylisticOrigin	Free improvisation
+Nu jazz	stylisticOrigin	Acid jazz
+Son montuno	stylisticOrigin	Son (music)
+Crunk	stylisticOrigin	Hip hop music
+Crunk	stylisticOrigin	Electro (music)
+Crunk	stylisticOrigin	Miami bass
+Crunk	stylisticOrigin	Contemporary R&B
+Breakcore	stylisticOrigin	Hardcore techno
+Breakcore	stylisticOrigin	Drum and bass
+Breakcore	stylisticOrigin	Digital hardcore
+Breakcore	stylisticOrigin	Industrial music
+Breakcore	stylisticOrigin	Noise (music)
+Breakcore	stylisticOrigin	Intelligent dance music
+Breakcore	stylisticOrigin	Big beat
+Breakcore	stylisticOrigin	Oldschool jungle
+Breakcore	stylisticOrigin	Progressive metal
+Downtempo	stylisticOrigin	Soul jazz
+Downtempo	stylisticOrigin	Ambient music
+Downtempo	stylisticOrigin	Electronic music
+Downtempo	stylisticOrigin	Groove (music)
+Downtempo	stylisticOrigin	Jazz
+Downtempo	stylisticOrigin	Funk
+Downtempo	stylisticOrigin	Dub music
+Downtempo	stylisticOrigin	Hip hop music
+Hardcore techno	stylisticOrigin	Breakbeat hardcore
+Hardcore techno	stylisticOrigin	New Beat
+Hardcore techno	stylisticOrigin	Acid house
+Hardcore techno	stylisticOrigin	Industrial music
+Hardcore techno	stylisticOrigin	Techno
+Hardcore techno	stylisticOrigin	Oldschool jungle
+Deep house	stylisticOrigin	House music
+Deep house	stylisticOrigin	Soul music
+Deep house	stylisticOrigin	Funk
+Deep house	stylisticOrigin	Jazz
+Deep house	stylisticOrigin	Chicago house
+Deep house	stylisticOrigin	Detroit techno
+Deep house	stylisticOrigin	Disco
+Alternative metal	stylisticOrigin	Alternative rock
+Alternative metal	stylisticOrigin	Heavy metal music
+Dark Wave	stylisticOrigin	New Wave music
+Dark Wave	stylisticOrigin	Post-punk
+Dark Wave	stylisticOrigin	Gothic rock
+Dark Wave	stylisticOrigin	Industrial music
+Dark Wave	stylisticOrigin	Synthpop
+Mariachi	stylisticOrigin	Son Jaliscience
+Horror punk	stylisticOrigin	Hardcore punk
+Horror punk	stylisticOrigin	Shock rock
+Horror punk	stylisticOrigin	Doo-wop
+Horror punk	stylisticOrigin	Rockabilly
+Horror punk	stylisticOrigin	Heavy metal music
+Ranchera	stylisticOrigin	Mariachi
+Tango music	stylisticOrigin	Candombe
+Tango music	stylisticOrigin	Milonga
+Tango music	stylisticOrigin	Polka
+Tango music	stylisticOrigin	Habanera (music)
+Tango music	stylisticOrigin	Flamenco
+Tango music	stylisticOrigin	Mazurka
+Tango music	stylisticOrigin	Contra dance
+Anatolian rock	stylisticOrigin	Psychedelic rock
+Anatolian rock	stylisticOrigin	Progressive rock
+Anatolian rock	stylisticOrigin	Turkish folk music
+Anatolian rock	stylisticOrigin	Psychedelic soul
+Neue Deutsche Welle	stylisticOrigin	New Wave music
+Neue Deutsche Welle	stylisticOrigin	Pop music
+Neue Deutsche Welle	stylisticOrigin	Schlager
+Neue Deutsche Welle	stylisticOrigin	Punk rock
+Goregrind	stylisticOrigin	Grindcore
+Goregrind	stylisticOrigin	Death metal
+New jack swing	stylisticOrigin	Dance-pop
+New jack swing	stylisticOrigin	House music
+New jack swing	stylisticOrigin	Funk
+New jack swing	stylisticOrigin	Contemporary R&B
+New jack swing	stylisticOrigin	Swing music
+New jack swing	stylisticOrigin	Hip hop music
+New jack swing	stylisticOrigin	Soul music
+Anti-folk	stylisticOrigin	Folk music
+Anti-folk	stylisticOrigin	Punk rock
+Anti-folk	stylisticOrigin	Avant-garde music
+Anti-folk	stylisticOrigin	Folk punk
+Kwaito	stylisticOrigin	House music
+Kwaito	stylisticOrigin	Music of South Africa
+Kwaito	stylisticOrigin	Hip hop music
+Neoclassical (Dark Wave)	stylisticOrigin	Post-punk
+Neoclassical (Dark Wave)	stylisticOrigin	Ethereal Wave
+Neoclassical (Dark Wave)	stylisticOrigin	Neoclassicism (music)
+Reggaeton	stylisticOrigin	Dancehall
+Techstep	stylisticOrigin	Drum and bass
+Techstep	stylisticOrigin	Techno
+Techstep	stylisticOrigin	Hardstep
+Techstep	stylisticOrigin	Darkcore
+J-pop	stylisticOrigin	Electronic dance music
+J-pop	stylisticOrigin	Rock music
+J-pop	stylisticOrigin	Kayōkyoku
+J-pop	stylisticOrigin	Music genre
+Bambuco	stylisticOrigin	Indigenous peoples in Venezuelaa
+Bambuco	stylisticOrigin	Indigenous peoples in Colombia
+Bambuco	stylisticOrigin	Waltz
+Bambuco	stylisticOrigin	Afro-Latin American#Venezuela
+Bambuco	stylisticOrigin	Afro-Colombian
+Outlaw country	stylisticOrigin	Country music
+Beat music	stylisticOrigin	British rock and roll
+Beat music	stylisticOrigin	Celtic music
+Beat music	stylisticOrigin	Doo-wop
+Beat music	stylisticOrigin	Rhythm and blues
+Beat music	stylisticOrigin	Rock and roll
+Beat music	stylisticOrigin	Skiffle
+Beat music	stylisticOrigin	Soul music
+Visual kei	stylisticOrigin	Rock music
+Visual kei	stylisticOrigin	Heavy metal music
+Visual kei	stylisticOrigin	Punk rock
+Visual kei	stylisticOrigin	Pop music
+Noise rock	stylisticOrigin	Noise (music)
+Noise rock	stylisticOrigin	Experimental music
+Noise rock	stylisticOrigin	Punk rock
+Noise rock	stylisticOrigin	Avant-garde music
+Noise rock	stylisticOrigin	No Wave
+Noise rock	stylisticOrigin	Psychedelic rock
+Noise rock	stylisticOrigin	Avant-garde jazz
+Electro (music)	stylisticOrigin	Hip hop music
+Electro (music)	stylisticOrigin	Boogie (genre)
+Electro (music)	stylisticOrigin	Disco
+Electro (music)	stylisticOrigin	Funk
+Electro (music)	stylisticOrigin	Synthpop
+Electro (music)	stylisticOrigin	Electronic music
+Electro (music)	stylisticOrigin	Video game music
+Northern soul	stylisticOrigin	Soul music
+Northern soul	stylisticOrigin	Rhythm and blues
+Northern soul	stylisticOrigin	Gospel music
+Zouk	stylisticOrigin	French West Indies
+Zouk	stylisticOrigin	Cadence-lypso
+Zouk	stylisticOrigin	Biguine
+Zouk	stylisticOrigin	Gwo ka
+Hi-NRG	stylisticOrigin	Electronic music
+Hi-NRG	stylisticOrigin	Synthpop
+Hi-NRG	stylisticOrigin	Disco
+Hi-NRG	stylisticOrigin	Dance music
+Hi-NRG	stylisticOrigin	Glam rock
+Hi-NRG	stylisticOrigin	Pop music
+Old-time music	stylisticOrigin	Music of the United Kingdom
+Old-time music	stylisticOrigin	Music of Africa
+Old-time music	stylisticOrigin	Minstrel show
+Old-time music	stylisticOrigin	Tin Pan Alley
+Old-time music	stylisticOrigin	Gospel music
+Old-time music	stylisticOrigin	Appalachian music
+Mbaqanga	stylisticOrigin	Marabi
+Mbaqanga	stylisticOrigin	Kwela
+Bard (Soviet Union)	stylisticOrigin	Romance (music)
+Bard (Soviet Union)	stylisticOrigin	Russian literature
+Bard (Soviet Union)	stylisticOrigin	Ethnic Russian music
+Broken beat	stylisticOrigin	Jazz
+Broken beat	stylisticOrigin	Nu jazz
+Broken beat	stylisticOrigin	Acid jazz
+Broken beat	stylisticOrigin	Soul music
+Broken beat	stylisticOrigin	Neo soul
+Broken beat	stylisticOrigin	Neo soul
+Broken beat	stylisticOrigin	Funk
+Broken beat	stylisticOrigin	House music
+Broken beat	stylisticOrigin	UK garage
+Broken beat	stylisticOrigin	Contemporary R&B
+Screamo	stylisticOrigin	Emo
+Screamo	stylisticOrigin	Hardcore punk
+Screamo	stylisticOrigin	Post-hardcore
+Soft rock	stylisticOrigin	Rock music
+Soft rock	stylisticOrigin	Pop rock
+Soft rock	stylisticOrigin	Rhythm and blues
+Soft rock	stylisticOrigin	Folk rock
+Soft rock	stylisticOrigin	Rock and roll
+Soft rock	stylisticOrigin	Smooth jazz
+Acid rock	stylisticOrigin	Psychedelic rock
+Acid rock	stylisticOrigin	Garage rock
+Acid rock	stylisticOrigin	Blues rock
+Acid rock	stylisticOrigin	Jazz fusion
+Acid rock	stylisticOrigin	Raga
+Mashup (music)	stylisticOrigin	Electronic music
+Mashup (music)	stylisticOrigin	Pop music
+Mashup (music)	stylisticOrigin	Rock music
+Dance-pop	stylisticOrigin	Pop music
+Teen pop	stylisticOrigin	Swing music
+Teen pop	stylisticOrigin	Bubblegum pop
+Teen pop	stylisticOrigin	Dance-pop
+Marabi	stylisticOrigin	Traditional South African folk
+Marabi	stylisticOrigin	Jazz
+Marabi	stylisticOrigin	Ragtime
+Marabi	stylisticOrigin	Blues
+Pinoy hip hop	stylisticOrigin	Hip hop music
+New wave of new wave	stylisticOrigin	New Wave music
+New wave of new wave	stylisticOrigin	Punk rock
+New wave of new wave	stylisticOrigin	Post-punk
+New wave of new wave	stylisticOrigin	Mod revival
+Blue-eyed soul	stylisticOrigin	Soul music
+Blue-eyed soul	stylisticOrigin	Pop music
+Mangue Bit	stylisticOrigin	Northeast Region, Brazil
+Mangue Bit	stylisticOrigin	Frevo
+Mangue Bit	stylisticOrigin	Coco (music)
+Mangue Bit	stylisticOrigin	Hardcore punk
+Mangue Bit	stylisticOrigin	Funk rock
+Mangue Bit	stylisticOrigin	Hip hop music
+Minimal music	stylisticOrigin	Experimental music
+Minimal music	stylisticOrigin	Twelve-tone technique
+Minimal music	stylisticOrigin	Serialism
+Minimal music	stylisticOrigin	Process music
+Dub poetry	stylisticOrigin	Dub music
+Plena	stylisticOrigin	Spain
+Plena	stylisticOrigin	West Africa
+Memphis soul	stylisticOrigin	Rhythm and blues
+Memphis soul	stylisticOrigin	Southern soul
+Memphis soul	stylisticOrigin	Gospel music
+Boogaloo	stylisticOrigin	Soul music
+Boogaloo	stylisticOrigin	Rhythm and blues
+Boogaloo	stylisticOrigin	Son (music)
+Crust punk	stylisticOrigin	Anarcho-punk
+Crust punk	stylisticOrigin	Extreme metal
+Crust punk	stylisticOrigin	Hardcore punk
+Crust punk	stylisticOrigin	D-beat
+Ambient house	stylisticOrigin	Ambient music
+Ambient house	stylisticOrigin	House music
+Ambient house	stylisticOrigin	Synthpop
+Ambient house	stylisticOrigin	Electro (music)
+Industrial metal	stylisticOrigin	Industrial music
+Industrial metal	stylisticOrigin	Industrial rock
+Industrial metal	stylisticOrigin	Electronic body music
+Industrial metal	stylisticOrigin	Noise rock
+Industrial metal	stylisticOrigin	Thrash metal
+Industrial metal	stylisticOrigin	Heavy metal music
+Industrial metal	stylisticOrigin	Electro-industrial
+New Age music	stylisticOrigin	Classical music
+New Age music	stylisticOrigin	Electronic music
+New Age music	stylisticOrigin	Folk music
+New Age music	stylisticOrigin	Ambient music
+New Age music	stylisticOrigin	Musique concrète
+New Age music	stylisticOrigin	Progressive rock
+New Age music	stylisticOrigin	Psychedelic rock
+New Age music	stylisticOrigin	Krautrock
+New Age music	stylisticOrigin	Traditional music
+New Age music	stylisticOrigin	World music
+New Age music	stylisticOrigin	Celtic music
+New Age music	stylisticOrigin	Minimalism
+New Age music	stylisticOrigin	Avant-garde music
+New Age music	stylisticOrigin	Free jazz
+Zeuhl	stylisticOrigin	Progressive rock
+Progressive electronic dance music	stylisticOrigin	House music
+Progressive electronic dance music	stylisticOrigin	Trance music
+Progressive electronic dance music	stylisticOrigin	Techno
+Progressive electronic dance music	stylisticOrigin	Balearic beat
+Progressive electronic dance music	stylisticOrigin	Freestyle
+Progressive electronic dance music	stylisticOrigin	Breakbeat
+Progressive electronic dance music	stylisticOrigin	Drum and bass
+Progressive electronic dance music	stylisticOrigin	Hi-NRG
+Progressive electronic dance music	stylisticOrigin	Eurodance
+Western swing	stylisticOrigin	Western music (North America)
+Western swing	stylisticOrigin	Blues
+Western swing	stylisticOrigin	Traditional music
+Western swing	stylisticOrigin	Swing music
+Western swing	stylisticOrigin	Dixieland
+Nerdcore hip hop	stylisticOrigin	Hip hop music
+Nerdcore hip hop	stylisticOrigin	Nerd
+K-pop	stylisticOrigin	Electronic dance music
+Blues rock	stylisticOrigin	Electric blues
+Blues rock	stylisticOrigin	Rock and roll
+Blues rock	stylisticOrigin	British blues
+Neo-classical metal	stylisticOrigin	Traditional heavy metal
+Neo-classical metal	stylisticOrigin	Speed metal
+Neo-classical metal	stylisticOrigin	Shred guitar
+Melodic death metal	stylisticOrigin	Death metal
+Melodic death metal	stylisticOrigin	New Wave of British Heavy Metal
+Melodic death metal  Gothenburg metal   1	stylisticOrigin	Swedish death metal
+Melodic death metal  Gothenburg metal   1	stylisticOrigin	New Wave of British Heavy Metal
+Melodic death metal  Gothenburg metal   1	stylisticOrigin	Black metal
+Melodic death metal  Gothenburg metal   1	stylisticOrigin	Grindcore
+Melodic death metal  Gothenburg metal   1	stylisticOrigin	Progressive rock
+Sludge metal	stylisticOrigin	Doom metal
+Sludge metal	stylisticOrigin	Hardcore punk
+Sludge metal	stylisticOrigin	Southern rock
+Metalcore	stylisticOrigin	Crossover thrash
+Metalcore	stylisticOrigin	Hardcore punk
+Metalcore	stylisticOrigin	Extreme metal
+Metalcore	stylisticOrigin	Thrash metal
+Metalcore	stylisticOrigin	Youth crew
+Hardstyle	stylisticOrigin	Gabber#Style
+Hardstyle	stylisticOrigin	Hard trance
+Hardstyle	stylisticOrigin	Acid techno
+Hardstyle	stylisticOrigin	Industrial music
+Hardstyle	stylisticOrigin	UK hard house
+Youth crew	stylisticOrigin	Hardcore punk
+Youth crew	stylisticOrigin	Straight edge
+Youth crew	stylisticOrigin	Melodic hardcore
+Youth crew	stylisticOrigin	Crossover thrash
+Youth crew	stylisticOrigin	New York hardcore
+Hip hop in South Korea	stylisticOrigin	Hip hop music
+Avant-garde metal	stylisticOrigin	Avant-garde music
+Avant-garde metal	stylisticOrigin	Heavy metal music
+Horrorcore	stylisticOrigin	Hardcore hip hop
+Speedcore	stylisticOrigin	Hardcore techno
+Speedcore	stylisticOrigin	Breakcore
+Speedcore	stylisticOrigin	Gabber
+Speedcore	stylisticOrigin	Digital hardcore
+Speedcore	stylisticOrigin	Grindcore
+Bouncy techno	stylisticOrigin	Rave music
+Bouncy techno	stylisticOrigin	Techno
+Bouncy techno	stylisticOrigin	Gabber
+Noise pop	stylisticOrigin	Alternative rock
+Noise pop	stylisticOrigin	Post-punk
+Noise pop	stylisticOrigin	Noise rock
+Noise pop	stylisticOrigin	Power pop
+Noise pop	stylisticOrigin	Bubblegum pop
+Neo-progressive rock	stylisticOrigin	Progressive rock
+Neo-progressive rock	stylisticOrigin	Psychedelic rock
+Neo-progressive rock	stylisticOrigin	Art rock
+Neo-progressive rock	stylisticOrigin	New Wave music
+Neo-progressive rock	stylisticOrigin	Hard rock
+Speed garage	stylisticOrigin	Garage house
+Speed garage	stylisticOrigin	Oldschool jungle
+Shibuya-kei	stylisticOrigin	J-pop
+Shibuya-kei	stylisticOrigin	Synthpop
+Shibuya-kei	stylisticOrigin	Jazz
+Shibuya-kei	stylisticOrigin	Bossa nova
+Shibuya-kei	stylisticOrigin	Yé-yé
+Shibuya-kei	stylisticOrigin	Lounge music
+Smooth jazz	stylisticOrigin	Jazz
+Smooth jazz	stylisticOrigin	Jazz fusion
+Smooth jazz	stylisticOrigin	Rhythm and blues
+Smooth jazz	stylisticOrigin	Funk
+Smooth jazz	stylisticOrigin	Pop music
+Rap opera	stylisticOrigin	Hip hop music
+Rap opera	stylisticOrigin	Opera
+Rap opera	stylisticOrigin	Concept album
+Rap opera	stylisticOrigin	Contemporary R&B
+Rap opera	stylisticOrigin	Spoken word
+Rap opera	stylisticOrigin	Musical theatre
+Rap opera	stylisticOrigin	Rock opera
+Paisley Underground	stylisticOrigin	Folk rock
+Paisley Underground	stylisticOrigin	Psychedelic rock
+Paisley Underground	stylisticOrigin	Garage rock
+Paisley Underground	stylisticOrigin	Jangle pop
+Luk thung	stylisticOrigin	Music of Thailand
+Luk thung	stylisticOrigin	Popular music
+Dark ambient	stylisticOrigin	Industrial music
+Dark ambient	stylisticOrigin	Ambient music
+Eurobeat	stylisticOrigin	Electronic dance music
+Eurobeat	stylisticOrigin	Hi-NRG
+Eurobeat	stylisticOrigin	Italy
+Gothabilly	stylisticOrigin	Rockabilly
+Gothabilly	stylisticOrigin	Psychobilly
+Gothabilly	stylisticOrigin	Gothic rock
+Gothabilly	stylisticOrigin	Punk rock
+Gothabilly	stylisticOrigin	Surf music
+Gothabilly	stylisticOrigin	Deathrock
+Thrashcore	stylisticOrigin	Hardcore punk
+Thrashcore	stylisticOrigin	D-beat
+Isicathamiya	stylisticOrigin	Mbube (genre)
+Bongo Flava	stylisticOrigin	Hip hop
+Vallenato	stylisticOrigin	Music of Africa
+Vallenato	stylisticOrigin	Music of Spain
+Vallenato	stylisticOrigin	Tairona
+Swamp pop	stylisticOrigin	Cajun music
+Swamp pop	stylisticOrigin	Creole music
+Swamp pop	stylisticOrigin	Rock and roll
+Swamp pop	stylisticOrigin	New Orleans rhythm and blues
+Swamp pop	stylisticOrigin	Zydeco
+Swamp pop	stylisticOrigin	Swamp blues
+Swamp pop	stylisticOrigin	Country music
+Acid techno	stylisticOrigin	Acid house
+Acid techno	stylisticOrigin	Techno
+Acid techno	stylisticOrigin	Industrial music
+Post-hardcore	stylisticOrigin	Hardcore punk
+Post-hardcore	stylisticOrigin	Post-punk
+Post-hardcore	stylisticOrigin	Noise rock
+Rapso	stylisticOrigin	Soca music
+Chutney music	stylisticOrigin	Soca music
+Chutney music	stylisticOrigin	Bhojpuri language
+Chutney music	stylisticOrigin	Calypso
+Chutney music	stylisticOrigin	Filmi
+Grebo (music)	stylisticOrigin	Alternative rock
+Grebo (music)	stylisticOrigin	Post-punk
+Grebo (music)	stylisticOrigin	Garage punk
+Grebo (music)	stylisticOrigin	Electronic music
+Grebo (music)	stylisticOrigin	Industrial music
+Folktronica	stylisticOrigin	Folk music
+Folktronica	stylisticOrigin	Electronica
+Timba	stylisticOrigin	Nueva trova
+Clownstep	stylisticOrigin	Drum and bass
+Texas blues	stylisticOrigin	Blues
+Texas blues	stylisticOrigin	British blues
+Texas blues	stylisticOrigin	Blues rock
+Texas blues	stylisticOrigin	Swing music
+Texas blues	stylisticOrigin	Jazz
+Indie pop	stylisticOrigin	Post-punk
+Darkstep	stylisticOrigin	Darkcore
+Darkstep	stylisticOrigin	Industrial music
+Darkstep	stylisticOrigin	Techstep
+British hip hop	stylisticOrigin	Hip hop music
+British hip hop	stylisticOrigin	Urban contemporary
+British hip hop	stylisticOrigin	Garage house
+Southern soul	stylisticOrigin	Soul music
+Southern soul	stylisticOrigin	Blues
+Southern soul	stylisticOrigin	Country music
+Southern soul	stylisticOrigin	Rock and roll
+Southern soul	stylisticOrigin	Gospel music
+Sunshine pop	stylisticOrigin	Pop rock
+Sunshine pop	stylisticOrigin	Surf music
+Sunshine pop	stylisticOrigin	Classical period (music)
+D-beat	stylisticOrigin	Hardcore punk
+D-beat	stylisticOrigin	Anarcho-punk
+D-beat	stylisticOrigin	New Wave of British Heavy Metal
+Italo house	stylisticOrigin	Italo disco
+Italo house	stylisticOrigin	House music
+Drone metal	stylisticOrigin	Doom metal
+Drone metal	stylisticOrigin	Drone music
+Drone metal	stylisticOrigin	Avant-garde metal
+Drone metal	stylisticOrigin	Noise (music)
+Drone metal	stylisticOrigin	Black metal
+Drone metal	stylisticOrigin	Minimal music
+Drone metal	stylisticOrigin	Sludge metal
+Drone metal	stylisticOrigin	Death metal
+Rap rock	stylisticOrigin	Hip hop music
+Rap rock	stylisticOrigin	Rock music
+Industrial folk music	stylisticOrigin	Folk music
+Funky house	stylisticOrigin	House music
+Funky house	stylisticOrigin	Funk
+Funky house	stylisticOrigin	Contemporary R&B
+Swing revival	stylisticOrigin	Big band
+Swing revival	stylisticOrigin	Swing music
+Swing revival	stylisticOrigin	Jump blues
+Swing revival	stylisticOrigin	Rock music
+Turbo-folk	stylisticOrigin	Music of Serbia
+Turbo-folk	stylisticOrigin	Music of the Republic of Macedonia#Newly composed folk music
+Turbo-folk	stylisticOrigin	Romani music
+Turbo-folk	stylisticOrigin	Arabesque (Turkish music)
+Turbo-folk	stylisticOrigin	Balkan Brass Band
+Turbo-folk	stylisticOrigin	Dance-pop
+Turbo-folk	stylisticOrigin	Pop music
+Turbo-folk	stylisticOrigin	Filmi
+Symphonic metal	stylisticOrigin	New Wave of British Heavy Metal
+Symphonic metal	stylisticOrigin	Symphonic rock
+Symphonic metal	stylisticOrigin	Gothic metal
+Symphonic metal	stylisticOrigin	Power metal#European power metal
+Symphonic metal	stylisticOrigin	Progressive metal
+Symphonic metal	stylisticOrigin	Neo-classical metal
+Symphonic metal	stylisticOrigin	Classical music
+Vocal trance	stylisticOrigin	Trance music
+Vocal trance	stylisticOrigin	Tech house
+Vocal trance	stylisticOrigin	House music
+Vocal trance	stylisticOrigin	Contemporary R&B
+Vocal trance	stylisticOrigin	Vocal house
+Vocal trance	stylisticOrigin	Europop
+Vocal trance	stylisticOrigin	Nu-disco
+Vocal trance	stylisticOrigin	Synthpop
+Kizomba	stylisticOrigin	Zouk
+Kizomba	stylisticOrigin	Zouk-love
+Kizomba	stylisticOrigin	Semba
+Western music (North America)	stylisticOrigin	Traditional music
+Grime (music)	stylisticOrigin	British hip hop
+Grime (music)	stylisticOrigin	UK garage
+Grime (music)	stylisticOrigin	Dancehall
+Grime (music)	stylisticOrigin	Drum and bass
+Grime (music)	stylisticOrigin	Ragga jungle
+Grime (music)	stylisticOrigin	Hip house
+Fuji music	stylisticOrigin	Were music
+Pinoy rock	stylisticOrigin	Rock music
+Pinoy rock	stylisticOrigin	Manila Sound
+Pinoy rock	stylisticOrigin	Philippine folk music
+Brazilian rock	stylisticOrigin	Rock music
+Brazilian rock	stylisticOrigin	Rock and roll
+Brazilian rock	stylisticOrigin	Blues
+Brazilian rock	stylisticOrigin	Music of Brazil#Brazilian folk/folk-rock
+Ryūkōka	stylisticOrigin	Traditional pop music
+Jit	stylisticOrigin	Chimurenga
+Jit	stylisticOrigin	Soukous
+Jit	stylisticOrigin	Tanzanian popular music
+Jit	stylisticOrigin	Rock and roll
+Jit	stylisticOrigin	Disco
+Italo disco	stylisticOrigin	Post-disco
+Benga music	stylisticOrigin	Luo peoples
+Benga music	stylisticOrigin	Rumba
+Electric folk	stylisticOrigin	Rock music
+Electric folk	stylisticOrigin	Traditional music
+Electric folk	stylisticOrigin	Folk music
+Electric folk	stylisticOrigin	Folk rock
+Celtic rock	stylisticOrigin	Rock music
+Celtic rock	stylisticOrigin	Folk rock
+Celtic rock	stylisticOrigin	Electric folk
+Celtic rock	stylisticOrigin	Celtic music
+Neofolk	stylisticOrigin	Folk music
+Neofolk	stylisticOrigin	Post-punk
+Neofolk	stylisticOrigin	Experimental music
+Neofolk	stylisticOrigin	Industrial music
+Neofolk	stylisticOrigin	Psychedelic rock
+Apala	stylisticOrigin	Music of Cuba
+Punta	stylisticOrigin	West Africa
+Punta	stylisticOrigin	Carib people
+Mathcore	stylisticOrigin	Metalcore
+Mathcore	stylisticOrigin	Math rock
+Mathcore	stylisticOrigin	Grindcore
+Psychedelic folk	stylisticOrigin	Psychedelic rock
+Psychedelic folk	stylisticOrigin	Folk rock
+Psychedelic folk	stylisticOrigin	Folk music
+Narcocorrido	stylisticOrigin	Mariachi
+Narcocorrido	stylisticOrigin	Ranchera
+Narcocorrido	stylisticOrigin	Polka
+Narcocorrido	stylisticOrigin	Country music
+Narcocorrido	stylisticOrigin	Jazz
+Narcocorrido	stylisticOrigin	Blues
+Narcocorrido	stylisticOrigin	Norteño (music)
+Narcocorrido	stylisticOrigin	Banda music
+Traditional heavy metal	stylisticOrigin	Rock music
+Traditional heavy metal	stylisticOrigin	Psychedelic rock
+Traditional heavy metal	stylisticOrigin	Blues rock
+New York hardcore	stylisticOrigin	Extreme metal
+New York hardcore	stylisticOrigin	Hardcore punk
+New York hardcore	stylisticOrigin	Street punk
+New York hardcore	stylisticOrigin	Oi!
+New York hardcore	stylisticOrigin	D-beat
+New York hardcore	stylisticOrigin	Crust punk
+New York hardcore	stylisticOrigin	Crossover thrash
+Psychedelic soul	stylisticOrigin	Psychedelic rock
+Psychedelic soul	stylisticOrigin	Rhythm and blues
+Psychedelic soul	stylisticOrigin	Soul music
+Southern Gospel	stylisticOrigin	Sacred Harp
+Southern Gospel	stylisticOrigin	Shape note
+Southern Gospel	stylisticOrigin	Hymn
+Soul blues	stylisticOrigin	Rock and roll
+Drone music	stylisticOrigin	Indian classical music
+Drone music	stylisticOrigin	Experimental music
+Drone music	stylisticOrigin	Minimal music
+Drone music	stylisticOrigin	Experimental rock
+Huapango	stylisticOrigin	Fandango
+Huapango	stylisticOrigin	Son (music)
+Darkcore	stylisticOrigin	Oldschool jungle
+Darkcore	stylisticOrigin	Nu skool breaks
+Zouglou	stylisticOrigin	Côte d'Ivoire
+Liquid funk	stylisticOrigin	Drum and bass
+Liquid funk	stylisticOrigin	Funk
+Liquid funk	stylisticOrigin	Disco
+Liquid funk	stylisticOrigin	Ambient music
+Liquid funk	stylisticOrigin	Breakbeat hardcore
+Liquid funk	stylisticOrigin	Trance music
+Liquid funk	stylisticOrigin	Soca
+Liquid funk	stylisticOrigin	Latin American music
+Liquid funk	stylisticOrigin	Acid jazz
+Liquid funk	stylisticOrigin	Jazz
+Liquid funk	stylisticOrigin	Trip hop
+Pop rock	stylisticOrigin	Pop music
+Pop rock	stylisticOrigin	Rock music
+Kundiman	stylisticOrigin	Philippine folk music
+Dappan koothu	stylisticOrigin	Ancient Tamil music
+Dappan koothu	stylisticOrigin	Tamil folk dances
+Parlour music	stylisticOrigin	Opera
+Parlour music	stylisticOrigin	Chamber music
+Parlour music	stylisticOrigin	Art song
+Parlour music	stylisticOrigin	Minstrel show
+Parlour music	stylisticOrigin	Folk music
+Sega music	stylisticOrigin	Music of Africa
+Sega music	stylisticOrigin	Music of Madagascar
+Sega music	stylisticOrigin	Polka
+Sega music	stylisticOrigin	Waltz
+UK hard house	stylisticOrigin	House music
+UK hard house	stylisticOrigin	Hi-NRG
+UK hard house	stylisticOrigin	Hard dance
+Technical death metal	stylisticOrigin	Death metal
+Technical death metal	stylisticOrigin	Progressive metal
+Heartland rock	stylisticOrigin	Rock and roll
+Heartland rock	stylisticOrigin	Rhythm and blues
+Heartland rock	stylisticOrigin	Garage rock
+Heartland rock	stylisticOrigin	Folk music
+Heartland rock	stylisticOrigin	Country music
+Compas music	stylisticOrigin	Haiti
+Compas music	stylisticOrigin	Music of Cuba
+Compas music	stylisticOrigin	Jazz
+Post-grunge	stylisticOrigin	Alternative rock
+Post-grunge	stylisticOrigin	Grunge
+Lowercase (music)	stylisticOrigin	Ambient music
+Lowercase (music)	stylisticOrigin	Minimal music
+Hip hop soul	stylisticOrigin	Hip hop music
+Hip hop soul	stylisticOrigin	Contemporary R&B
+Hip hop soul	stylisticOrigin	New jack swing
+Hip hop soul	stylisticOrigin	Neo soul
+Bounce music	stylisticOrigin	Southern hip hop
+Neurofunk	stylisticOrigin	Drum and bass
+Neurofunk	stylisticOrigin	Funk
+Neurofunk	stylisticOrigin	Techstep
+Neurofunk	stylisticOrigin	House music
+Neurofunk	stylisticOrigin	Jazz
+Neurofunk	stylisticOrigin	Techno
+Neurofunk	stylisticOrigin	Dark ambient
+Raga rock	stylisticOrigin	Rock music
+Raga rock	stylisticOrigin	Pop music
+Raga rock	stylisticOrigin	Raga
+Raga rock	stylisticOrigin	Music of India
+Hiplife	stylisticOrigin	Highlife
+Acid trance	stylisticOrigin	Acid house
+Acid trance	stylisticOrigin	Trance music
+Power noise	stylisticOrigin	Post-industrial music
+Power noise	stylisticOrigin	Noise (music)
+Power noise	stylisticOrigin	Japanoise
+Power noise	stylisticOrigin	Electro-industrial
+Power noise	stylisticOrigin	Hardcore techno
+Power noise	stylisticOrigin	Gabber
+Folk punk	stylisticOrigin	Celtic rock
+Folk punk	stylisticOrigin	Electric folk
+Folk punk	stylisticOrigin	Punk rock
+Samba rock	stylisticOrigin	Rock music
+Samba rock	stylisticOrigin	Samba
+Samba rock	stylisticOrigin	Brazilian rock
+Samba rock	stylisticOrigin	Soul music
+Samba rock	stylisticOrigin	Bebop
+Samba rock	stylisticOrigin	Jazz
+Sufi rock	stylisticOrigin	Rock and roll
+Sufi rock	stylisticOrigin	Sufi music
+Sufi rock	stylisticOrigin	Classical music
+Dance-punk	stylisticOrigin	Electronic dance music
+UK hardcore	stylisticOrigin	Happy hardcore
+UK hardcore	stylisticOrigin	4-beat
+UK hardcore	stylisticOrigin	Bouncy techno
+UK hardcore	stylisticOrigin	Hardcore techno
+UK hardcore	stylisticOrigin	Trance music
+UK hardcore	stylisticOrigin	Eurodance
+Post-industrial music	stylisticOrigin	Industrial music
+Romo	stylisticOrigin	New Romanticism
+Romo	stylisticOrigin	Glam rock
+Romo	stylisticOrigin	Disco
+Romo	stylisticOrigin	Hi-NRG
+Romo	stylisticOrigin	Contemporary R&B
+Romo	stylisticOrigin	Motown
+Romo	stylisticOrigin	Synthpop
+Baggy	stylisticOrigin	Madchester
+Yé-yé	stylisticOrigin	Rhythm and blues
+Arabesque (Turkish music)	stylisticOrigin	Music of Turkey
+Arabesque (Turkish music)	stylisticOrigin	Pop music
+Arabesque (Turkish music)	stylisticOrigin	Arabic music
+Arabesque (Turkish music)	stylisticOrigin	Middle Eastern music
+Comedy rock	stylisticOrigin	Rock music
+Punk Pathetique	stylisticOrigin	Punk rock
+Punk Pathetique	stylisticOrigin	Glam rock
+Punk Pathetique	stylisticOrigin	Pub rock (UK)
+Punk Pathetique	stylisticOrigin	Music hall
+Punk Pathetique	stylisticOrigin	Drinking song
+Punk Pathetique	stylisticOrigin	Football chant
+Punk Pathetique	stylisticOrigin	Oi!
+Punk Pathetique	stylisticOrigin	Novelty song
+Punk Pathetique	stylisticOrigin	Ribaldry#Blue comedy
+Punk Pathetique	stylisticOrigin	Comedian
+Punk Pathetique	stylisticOrigin	Monty Python
+Punk Pathetique	stylisticOrigin	Vivian Stanshall
+Punk Pathetique	stylisticOrigin	Kenny Everett
+Christian country music	stylisticOrigin	Country music
+Christian country music	stylisticOrigin	Southern Gospel
+Christian country music	stylisticOrigin	Hymn
+Christian country music	stylisticOrigin	Jesus music
+Christian punk	stylisticOrigin	Christian rock
+Christian punk	stylisticOrigin	Punk rock
+Christian punk	stylisticOrigin	Jesus music
+Deathcore	stylisticOrigin	Metalcore
+Deathcore	stylisticOrigin	Death metal
+Deathcore	stylisticOrigin	Hardcore punk
+Country rap	stylisticOrigin	Country music
+Country pop	stylisticOrigin	Country music
+Country pop	stylisticOrigin	Pop music
+Country pop	stylisticOrigin	Soft rock
+Minimal techno	stylisticOrigin	Minimal music
+Minimal techno	stylisticOrigin	Detroit techno
+Minimal techno	stylisticOrigin	Acid techno
+Minimal techno	stylisticOrigin	Ambient music
+Groove metal	stylisticOrigin	Heavy metal music
+Groove metal	stylisticOrigin	Thrash metal
+Groove metal	stylisticOrigin	Southern rock#Southern metal
+Groove metal	stylisticOrigin	Death metal
+Groove metal	stylisticOrigin	Funk
+Groove metal	stylisticOrigin	Dance music
+Groove metal	stylisticOrigin	Hip hop music
+Low Bap	stylisticOrigin	Hip hop music
+Psybient	stylisticOrigin	Goa trance
+Psybient	stylisticOrigin	Psychedelic trance
+Psybient	stylisticOrigin	Downtempo
+Psybient	stylisticOrigin	Ambient music
+Psybient	stylisticOrigin	Dub music
+Psybient	stylisticOrigin	New Age music
+Euro-Trance	stylisticOrigin	Trance music
+Euro-Trance	stylisticOrigin	Happy hardcore
+Euro-Trance	stylisticOrigin	Progressive electronic dance music
+Euro-Trance	stylisticOrigin	Eurodance
+Chopped and screwed	stylisticOrigin	Southern hip hop
+Chopped and screwed	stylisticOrigin	Gramophone record
+Chopped and screwed	stylisticOrigin	Purple drank
+Pagan rock	stylisticOrigin	Gothic rock
+Pagan rock	stylisticOrigin	Psychedelic folk
+Pagan rock	stylisticOrigin	Neofolk#Apocalyptic folk
+Pagan rock	stylisticOrigin	Ethereal Wave
+Pagan rock	stylisticOrigin	Neo-medieval
+Diva house	stylisticOrigin	House music
+Punk blues	stylisticOrigin	Punk rock
+Punk blues	stylisticOrigin	Protopunk
+Punk blues	stylisticOrigin	Blues
+Punk blues	stylisticOrigin	Garage rock
+Punk blues	stylisticOrigin	Blues rock
+Euro disco	stylisticOrigin	Disco
+Hyphy	stylisticOrigin	West Coast hip hop
+Hyphy	stylisticOrigin	Electro (music)
+Hyphy	stylisticOrigin	Techno
+Chill-out music	stylisticOrigin	Ambient music
+Chill-out music	stylisticOrigin	Electronica
+Chill-out music	stylisticOrigin	New Age music
+Space music	stylisticOrigin	Avant-garde music
+Space music	stylisticOrigin	Classical music
+Space music	stylisticOrigin	Electronic music
+Space music	stylisticOrigin	Jazz
+Space music	stylisticOrigin	Musique concrète
+Space music	stylisticOrigin	Progressive rock
+Space music	stylisticOrigin	Krautrock
+Space music	stylisticOrigin	New Age music
+Space music	stylisticOrigin	Minimalism
+Space music	stylisticOrigin	Psychedelic rock
+Space music	stylisticOrigin	Soft rock
+Space music	stylisticOrigin	Traditional music
+Space music	stylisticOrigin	World music
+Progressive country	stylisticOrigin	Country music
+Hard trance	stylisticOrigin	Acid trance
+Hard trance	stylisticOrigin	UK hard house
+Hard trance	stylisticOrigin	Happy hardcore
+Hard trance	stylisticOrigin	20th-century classical music
+Hard trance	stylisticOrigin	Ambient music
+Hard trance	stylisticOrigin	Electro (music)
+French house	stylisticOrigin	French music
+French house	stylisticOrigin	Eurodance
+French house	stylisticOrigin	Euro disco
+French house	stylisticOrigin	Disco
+French house	stylisticOrigin	Hi-NRG
+French house	stylisticOrigin	P-Funk
+French house	stylisticOrigin	Chicago house
+Progg	stylisticOrigin	Rock music
+Progg	stylisticOrigin	Pop music
+Progg	stylisticOrigin	Folk music
+Progg	stylisticOrigin	Blues
+Progg	stylisticOrigin	Reggae
+Progg	stylisticOrigin	Folk rock
+Progg	stylisticOrigin	Blues rock
+Suomisaundi	stylisticOrigin	Psychedelic trance
+Suomisaundi	stylisticOrigin	Goa trance
+Hatecore	stylisticOrigin	Hardcore punk
+Latin house	stylisticOrigin	House music
+Latin house	stylisticOrigin	Electronic dance music
+Latin house	stylisticOrigin	Latin American music
+Latin house	stylisticOrigin	Hip hop
+Latin house	stylisticOrigin	Reggaeton
+Martial industrial	stylisticOrigin	Neoclassicism (music)
+Martial industrial	stylisticOrigin	Neofolk
+Martial industrial	stylisticOrigin	March (music)
+Martial industrial	stylisticOrigin	Industrial music
+Martial industrial	stylisticOrigin	Post-industrial music
+Martial industrial	stylisticOrigin	Dark ambient
+Group Sounds	stylisticOrigin	Rock and roll
+Group Sounds	stylisticOrigin	Beat music
+Group Sounds	stylisticOrigin	British rock
+Group Sounds	stylisticOrigin	Kayōkyoku
+Melodic hardcore	stylisticOrigin	Hardcore punk
+Melodic hardcore	stylisticOrigin	Pop punk
+Melodic hardcore	stylisticOrigin	Skate punk
+Melodic hardcore	stylisticOrigin	Alternative rock
+List of math rock groups	stylisticOrigin	Rock music
+List of math rock groups	stylisticOrigin	Punk rock
+List of math rock groups	stylisticOrigin	Heavy metal music
+List of math rock groups	stylisticOrigin	Minimal music
+List of math rock groups	stylisticOrigin	Progressive rock
+Balearic beat	stylisticOrigin	House music
+Balearic beat	stylisticOrigin	Electronica
+Balearic beat	stylisticOrigin	Experimental music
+Contemporary R&B	stylisticOrigin	Funk
+Christian hardcore	stylisticOrigin	Hardcore punk
+Christian hardcore	stylisticOrigin	Post-punk
+Christian hardcore	stylisticOrigin	Alternative rock
+Christian hardcore	stylisticOrigin	Noise rock
+Christian hardcore	stylisticOrigin	Experimental rock
+Christian hardcore	stylisticOrigin	Christian rock
+Christian hardcore	stylisticOrigin	Christian punk
+Kayōkyoku	stylisticOrigin	Ryūkōka
+Dubstep	stylisticOrigin	Dub music
+Dubstep	stylisticOrigin	Grime (music)
+Dubstep	stylisticOrigin	2-step garage
+Dubstep	stylisticOrigin	Drum and bass
+Baroque pop	stylisticOrigin	Pop music
+Baroque pop	stylisticOrigin	Rock music
+Baroque pop	stylisticOrigin	Surf music
+Baroque pop	stylisticOrigin	Baroque music
+Baroque pop	stylisticOrigin	Classical period (music)
+Koothu	stylisticOrigin	Ancient Tamil music
+Koothu	stylisticOrigin	Dance forms of Tamil Nadu
+Mod revival	stylisticOrigin	Mod (subculture)
+Mod revival	stylisticOrigin	Rhythm and blues
+Mod revival	stylisticOrigin	Jazz
+Mod revival	stylisticOrigin	Reggae
+Mod revival	stylisticOrigin	Ska
+Mod revival	stylisticOrigin	Soul music
+Mod revival	stylisticOrigin	Beat music
+Mod revival	stylisticOrigin	Power pop
+Mod revival	stylisticOrigin	Pub rock (UK)
+Mod revival	stylisticOrigin	Punk rock
+Mod revival	stylisticOrigin	New Wave music
+Post-punk revival	stylisticOrigin	Alternative rock
+Post-punk revival	stylisticOrigin	Garage rock
+Post-punk revival	stylisticOrigin	Indie rock
+Post-punk revival	stylisticOrigin	New Wave music
+Post-punk revival	stylisticOrigin	Post-punk
+Post-punk revival	stylisticOrigin	Punk rock
+Jazz-funk	stylisticOrigin	Jazz
+Tribal house	stylisticOrigin	House music
+Tribal house	stylisticOrigin	South America
+Tribal house	stylisticOrigin	Africa
+Kuduro	stylisticOrigin	Batida music
+Kuduro	stylisticOrigin	Soca
+Kuduro	stylisticOrigin	Semba
+Kuduro	stylisticOrigin	Tribal house
+Kuduro	stylisticOrigin	Techno
+Music scene (programming)	stylisticOrigin	Video game music
+Music scene (programming)	stylisticOrigin	Electronic music
+Unblack metal	stylisticOrigin	Black metal
+Unblack metal	stylisticOrigin	Christian metal
+Baltimore club	stylisticOrigin	Hip hop music
+Baltimore club	stylisticOrigin	House music
+Baltimore club	stylisticOrigin	Breakbeat
+Caporales	stylisticOrigin	Afro-Bolivian Saya
+Dark cabaret	stylisticOrigin	Cabaret
+Dark cabaret	stylisticOrigin	Burlesque
+Dark cabaret	stylisticOrigin	Vaudeville
+Dark cabaret	stylisticOrigin	Punk rock
+Dark cabaret	stylisticOrigin	Post-punk
+Dark cabaret	stylisticOrigin	Glam rock
+Dark cabaret	stylisticOrigin	Deathrock
+Dark cabaret	stylisticOrigin	Dark Wave
+Dark cabaret	stylisticOrigin	Gothic rock
+Glam punk	stylisticOrigin	Protopunk
+Glam punk	stylisticOrigin	Rock and roll
+Glam punk	stylisticOrigin	Glam rock
+Glam punk	stylisticOrigin	Punk rock
+Breakstep	stylisticOrigin	2-step garage
+Breakstep	stylisticOrigin	Breakbeat
+Breakstep	stylisticOrigin	Drum and bass
+Breakstep	stylisticOrigin	Dubstep
+Game Boy music	stylisticOrigin	Video game music
+Game Boy music	stylisticOrigin	Electronic music
+Game Boy music	stylisticOrigin	Techno
+Game Boy music	stylisticOrigin	Trance music
+Game Boy music	stylisticOrigin	House music
+Game Boy music	stylisticOrigin	Synthpop
+Game Boy music	stylisticOrigin	Chiptune
+Uplifting trance	stylisticOrigin	Progressive electronic dance music
+Uplifting trance	stylisticOrigin	Trance music
+Berlin School of electronic music	stylisticOrigin	Krautrock
+Berlin School of electronic music	stylisticOrigin	Psychedelic rock
+Berlin School of electronic music	stylisticOrigin	Electronic music
+Berlin School of electronic music	stylisticOrigin	Minimal music
+Jumpstyle	stylisticOrigin	Hardcore techno
+Jumpstyle	stylisticOrigin	UK hard house
+Jumpstyle	stylisticOrigin	Gabber
+Jumpstyle	stylisticOrigin	Happy hardcore
+Jumpstyle	stylisticOrigin	Hardstyle
+Death industrial	stylisticOrigin	Power electronics (music)
+Death industrial	stylisticOrigin	Noise (music)
+Death industrial	stylisticOrigin	Dark ambient
+Death industrial	stylisticOrigin	Industrial music
+Death industrial	stylisticOrigin	Post-industrial music
+Celtic fusion	stylisticOrigin	Old-time music
+Celtic fusion	stylisticOrigin	Celtic rock
+Neotraditional country	stylisticOrigin	Country music
+Minneapolis sound	stylisticOrigin	Pop rock
+Minneapolis sound	stylisticOrigin	Funk
+Minneapolis sound	stylisticOrigin	New Wave music
+Minneapolis sound	stylisticOrigin	Synthpop
+Minneapolis sound	stylisticOrigin	Rhythm and blues
+Cadence-lypso	stylisticOrigin	Kadans
+Cadence-lypso	stylisticOrigin	Calypso music
+Art punk	stylisticOrigin	Art rock
+Art punk	stylisticOrigin	Protopunk
+Art punk	stylisticOrigin	Experimental rock
+Art punk	stylisticOrigin	Krautrock
+Art punk	stylisticOrigin	Punk rock
+Celtic punk	stylisticOrigin	Punk rock
+Latin pop	stylisticOrigin	Latin American music
+Latin pop	stylisticOrigin	Pop rock
+Mexican pop music	stylisticOrigin	Jazz
+Mexican pop music	stylisticOrigin	Rock and roll
+Mexican pop music	stylisticOrigin	Rhythm and blues
+Mexican pop music	stylisticOrigin	Disco
+Mexican pop music	stylisticOrigin	Dance music
+Mexican pop music	stylisticOrigin	Reggae
+Mexican pop music	stylisticOrigin	Hip hop music
+Gothic metal	stylisticOrigin	Gothic rock
+Gothic metal	stylisticOrigin	Heavy metal music
+Gothic metal	stylisticOrigin	Doom metal
+Gothic metal	stylisticOrigin	Death/doom
+Midwest hip hop	stylisticOrigin	Hip hop music
+Manipuri dance	stylisticOrigin	Manipuri dance
+Manipuri dance	stylisticOrigin	Historical Vedic religion
+Wizard rock	stylisticOrigin	Alternative rock
+Wizard rock	stylisticOrigin	Punk rock
+Wizard rock	stylisticOrigin	Indie rock
+Wizard rock	stylisticOrigin	Harry Potter
+Mbalax	stylisticOrigin	Rumba
+Mbalax	stylisticOrigin	Wolof music
+Mbalax	stylisticOrigin	Congolese music
+Red Dirt (music)	stylisticOrigin	American folk music
+Red Dirt (music)	stylisticOrigin	Country music
+Red Dirt (music)	stylisticOrigin	Western swing
+Red Dirt (music)	stylisticOrigin	Country rock
+Red Dirt (music)	stylisticOrigin	Blues
+Red Dirt (music)	stylisticOrigin	Southern rock
+Red Dirt (music)	stylisticOrigin	Tulsa Sound
+Asian American jazz	stylisticOrigin	Jazz
+Asian American jazz	stylisticOrigin	Music of Asia
+Classic female blues	stylisticOrigin	Folk music
+Classic female blues	stylisticOrigin	Work song
+Classic female blues	stylisticOrigin	Spiritual (music)
+Funk rock	stylisticOrigin	Funk
+Deep Funk	stylisticOrigin	Funk
+Japanoise	stylisticOrigin	Noise (music)
+Japanoise	stylisticOrigin	Avant-garde jazz
+Japanoise	stylisticOrigin	Free improvisation
+Japanoise	stylisticOrigin	Psychedelic rock
+Japanoise	stylisticOrigin	Industrial music
+Japanoise	stylisticOrigin	Surrealist music
+Electro-industrial	stylisticOrigin	Electronic body music
+Electro-industrial	stylisticOrigin	Industrial music
+Electro-industrial	stylisticOrigin	Dark Wave
+Electro-industrial	stylisticOrigin	Electro (music)
+Electro-industrial	stylisticOrigin	IDM
+Scottish Gaelic punk	stylisticOrigin	Punk rock
+Scottish Gaelic punk	stylisticOrigin	Celtic rock
+Scottish Gaelic punk	stylisticOrigin	Goidelic languages
+Scottish Gaelic punk	stylisticOrigin	Anarcho-punk
+Ragga jungle	stylisticOrigin	Dub music
+Progressive Southern gospel	stylisticOrigin	Sacred Harp
+Progressive Southern gospel	stylisticOrigin	Shape note
+Progressive Southern gospel	stylisticOrigin	Hymn
+Progressive Southern gospel	stylisticOrigin	Southern Gospel
+Snap music	stylisticOrigin	Southern hip hop
+Snap music	stylisticOrigin	Snap (fingers)
+Porro	stylisticOrigin	Cumbia
+Post-metal	stylisticOrigin	Post-rock
+Post-metal	stylisticOrigin	Heavy metal music
+Post-metal	stylisticOrigin	Sludge metal
+Post-metal	stylisticOrigin	Doom metal
+Dance-rock	stylisticOrigin	Post-punk
+Dance-rock	stylisticOrigin	Post-disco
+Dance-rock	stylisticOrigin	Dance music
+Dance-rock	stylisticOrigin	Contemporary R&B
+Dance-rock	stylisticOrigin	Rock and roll
+Dance-rock	stylisticOrigin	Rock music
+Ethereal Wave	stylisticOrigin	Dark Wave
+Ethereal Wave	stylisticOrigin	Gothic rock
+Ethereal Wave	stylisticOrigin	Ambient music
+Funk carioca	stylisticOrigin	Electro (music)
+Funk carioca	stylisticOrigin	Miami bass
+Funk carioca	stylisticOrigin	Freestyle music
+Funk carioca	stylisticOrigin	Rapping
+Funk carioca	stylisticOrigin	Funk
+Chutney Soca	stylisticOrigin	Soca music
+Viking rock	stylisticOrigin	Rockabilly
+Viking rock	stylisticOrigin	Oi!
+Viking rock	stylisticOrigin	Street punk
+Viking rock	stylisticOrigin	Folk music
+Deathgrind	stylisticOrigin	Death metal
+Deathgrind	stylisticOrigin	Grindcore
+Dark psytrance	stylisticOrigin	Psychedelic trance
+Dark psytrance	stylisticOrigin	Electro-industrial#Dark electro
+Dark psytrance	stylisticOrigin	Noise (music)
+Dark psytrance	stylisticOrigin	Industrial metal
+Dark psytrance	stylisticOrigin	Electro-industrial
+Electro house	stylisticOrigin	Tech house
+Electro house	stylisticOrigin	Progressive electronic dance music
+Electro house	stylisticOrigin	Electroclash
+Electro house	stylisticOrigin	Hi-NRG
+Electro house	stylisticOrigin	Electronic body music
+Electro house	stylisticOrigin	Alternative dance
+Neue Deutsche Härte	stylisticOrigin	Heavy metal music
+Neue Deutsche Härte	stylisticOrigin	Industrial metal
+Neue Deutsche Härte	stylisticOrigin	German rock
+Neue Deutsche Härte	stylisticOrigin	Hard rock
+Neue Deutsche Härte	stylisticOrigin	Groove metal
+Neue Deutsche Härte	stylisticOrigin	Alternative metal
+Neue Deutsche Härte	stylisticOrigin	Electronic music
+Neue Deutsche Härte	stylisticOrigin	Techno
+Philippine folk music	stylisticOrigin	Traditional music
+Coldwave	stylisticOrigin	New Wave music
+Coldwave	stylisticOrigin	Post-punk
+Coldwave	stylisticOrigin	Gothic rock
+Coldwave	stylisticOrigin	Dark Wave
+Coldwave	stylisticOrigin	Synthpunk
+Coldwave	stylisticOrigin	Industrial music
+Genge	stylisticOrigin	Hip hop
+Bouyon music	stylisticOrigin	Jing ping
+Bouyon music	stylisticOrigin	Cadence-lypso
+Tech trance	stylisticOrigin	Techno
+Tech trance	stylisticOrigin	Trance music
+Manila Sound	stylisticOrigin	Philippine folk music
+Dansband	stylisticOrigin	Country music
+Dansband	stylisticOrigin	Pop music
+Dansband	stylisticOrigin	Rock music
+Dansband	stylisticOrigin	Swing music
+New prog	stylisticOrigin	Progressive rock
+New prog	stylisticOrigin	Alternative rock
+New prog	stylisticOrigin	Experimental rock
+New prog	stylisticOrigin	Indie rock
+New prog	stylisticOrigin	Post-rock
+New prog	stylisticOrigin	Post-punk
+Dubtronica	stylisticOrigin	Electronica
+Dubtronica	stylisticOrigin	Dub music
+Dubtronica	stylisticOrigin	Reggae fusion
+Reggaeton Bachateo	stylisticOrigin	Reggaeton
+Reggaeton Bachateo	stylisticOrigin	Bachata (music)
+Sophisti-pop	stylisticOrigin	Rhythm and blues
+Sophisti-pop	stylisticOrigin	Blue-eyed soul
+Sophisti-pop	stylisticOrigin	Smooth jazz
+Sophisti-pop	stylisticOrigin	Jazz fusion
+Sophisti-pop	stylisticOrigin	Pop rock
+Kansas City jazz	stylisticOrigin	Blues
+Kansas City jazz	stylisticOrigin	Dixieland
+Kansas City jazz	stylisticOrigin	Ragtime
+Kansas City jazz	stylisticOrigin	Big band
+Kansas City jazz	stylisticOrigin	Swing music
+Kansas City jazz	stylisticOrigin	Stride (music)
+Kansas City jazz	stylisticOrigin	Bounty Music
+Iranian hip hop	stylisticOrigin	Funk
+Iranian hip hop	stylisticOrigin	Spoken word
+Iranian hip hop	stylisticOrigin	Signifyin'
+Iranian hip hop	stylisticOrigin	The Dozens
+Iranian hip hop	stylisticOrigin	Electronic music
+Portal:Electronic music/Selected article	stylisticOrigin	Electro (music)
+Portal:Electronic music/Selected article	stylisticOrigin	Industrial music
+Portal:Electronic music/Selected article	stylisticOrigin	Synthpop
+Portal:Electronic music/Selected article	stylisticOrigin	Electronic music
+Portal:Electronic music/Selected article	stylisticOrigin	Chicago house
+Nagoya kei	stylisticOrigin	Visual kei
+Kroncong	stylisticOrigin	Music of Portugal
+Brown-eyed soul	stylisticOrigin	Soul music
+Brown-eyed soul	stylisticOrigin	Doo-wop
+Brown-eyed soul	stylisticOrigin	Blues
+Brown-eyed soul	stylisticOrigin	Rhythm and blues
+Brown-eyed soul	stylisticOrigin	Latin American music
+Brown-eyed soul	stylisticOrigin	Rock and roll
+Skweee	stylisticOrigin	8-bit
+Skweee	stylisticOrigin	Minimal techno
+Skweee	stylisticOrigin	Electro (music)
+Skweee	stylisticOrigin	Funk
+Skweee	stylisticOrigin	Rhythm and blues
+Skweee	stylisticOrigin	Soul music
+Skweee	stylisticOrigin	Middle Eastern music
+Canadian blues	stylisticOrigin	Blues
+Cape jazz	stylisticOrigin	Jazz
+Russian pop	stylisticOrigin	Traditional pop music
+Russian pop	stylisticOrigin	Romance (music)
+Russian pop	stylisticOrigin	Classical music
+Russian pop	stylisticOrigin	Bard (Soviet Union)
+Son Jarocho	stylisticOrigin	Son (music)
+Son Huasteco	stylisticOrigin	Son (music)
+Son Huasteco	stylisticOrigin	Fandango
+Psychedelic pop	stylisticOrigin	Pop music
+Psychedelic pop	stylisticOrigin	Psychedelic folk
+Psychedelic pop	stylisticOrigin	Psychedelic rock
+Zouk-love	stylisticOrigin	Zouk
+BisRock	stylisticOrigin	Pinoy rock
+BisRock	stylisticOrigin	Music of the Philippines
+Post-bop	stylisticOrigin	Jazz
+Post-bop	stylisticOrigin	Bebop
+Post-bop	stylisticOrigin	Hard bop
+Post-bop	stylisticOrigin	Modal jazz
+Post-bop	stylisticOrigin	Avant-garde jazz
+Post-bop	stylisticOrigin	Free jazz
+Post-bop	stylisticOrigin	Impressionist music
+Cumbiaton	stylisticOrigin	Reggaeton
+New rave	stylisticOrigin	Post-punk revival
+New rave	stylisticOrigin	Dance-punk
+New rave	stylisticOrigin	Indie rock
+New rave	stylisticOrigin	Electronic rock
+New rave	stylisticOrigin	Breakbeat hardcore
+New rave	stylisticOrigin	Mashup (music)
+New rave	stylisticOrigin	Experimental music
+New rave	stylisticOrigin	Hip house
+New rave	stylisticOrigin	New Wave music
+Hard NRG	stylisticOrigin	Techno
+Hard NRG	stylisticOrigin	House music
+Hard NRG	stylisticOrigin	Trance music
+Hard NRG	stylisticOrigin	UK hard house
+Hard NRG	stylisticOrigin	Hi-NRG
+Hard NRG	stylisticOrigin	Synthpop
+Hard NRG	stylisticOrigin	New Wave music
+Hard NRG	stylisticOrigin	Italo disco
+Salsaton	stylisticOrigin	Salsa music
+Salsaton	stylisticOrigin	Reggaeton
+New Orleans blues	stylisticOrigin	Blues
+Political hip hop	stylisticOrigin	Hip hop
+Political hip hop	stylisticOrigin	Protest song
+Dirty rap	stylisticOrigin	Hip hop
+Dirty rap	stylisticOrigin	Adult contemporary music
+Freak folk	stylisticOrigin	Psychedelic folk
+Freak folk	stylisticOrigin	Baroque pop
+Freak folk	stylisticOrigin	Avant-garde music
+Funktronica	stylisticOrigin	Funk
+Funktronica	stylisticOrigin	Electro (music)
+Funktronica	stylisticOrigin	Electroclash
+Progressive folk music	stylisticOrigin	Traditional music
+Progressive folk music	stylisticOrigin	Folk music
+Progressive folk music	stylisticOrigin	World music
+Texas country music	stylisticOrigin	Country music
+Música sertaneja	stylisticOrigin	Fandango
+Kansas City blues	stylisticOrigin	Jump blues
+Kansas City blues	stylisticOrigin	Jazz
+Düsseldorf School of electronic music	stylisticOrigin	Krautrock
+Düsseldorf School of electronic music	stylisticOrigin	Funk
+Düsseldorf School of electronic music	stylisticOrigin	Electronic music
+Arabic pop music	stylisticOrigin	Arabic music
+Arabic pop music	stylisticOrigin	Traditional pop music
+Sadcore	stylisticOrigin	Indie rock
+Sadcore	stylisticOrigin	Shoegazing
+Sadcore	stylisticOrigin	Alternative country
+Brazilian thrash metal	stylisticOrigin	Heavy metal music
+Brazilian thrash metal	stylisticOrigin	Thrash metal
+Brazilian thrash metal	stylisticOrigin	Death metal
+Brazilian thrash metal	stylisticOrigin	Brazilian rock
+Bakersfield sound	stylisticOrigin	Country music
+Bakersfield sound	stylisticOrigin	Pop music
+Hip pop	stylisticOrigin	Pop music
+Hip pop	stylisticOrigin	Old school hip hop
+Hip pop	stylisticOrigin	Reggae
+Hip pop	stylisticOrigin	Rock music
+Hip pop	stylisticOrigin	Electronica
+Oi!	stylisticOrigin	Punk rock
+Oi!	stylisticOrigin	Glam rock
+Oi!	stylisticOrigin	Pub rock (UK)
+Oi!	stylisticOrigin	Drinking song
+Oi!	stylisticOrigin	Football chant
+Oi!	stylisticOrigin	Folk music
+Oi!	stylisticOrigin	Ska
+J-ska	stylisticOrigin	Ska
+J-ska	stylisticOrigin	Ska punk
+Hardbag	stylisticOrigin	Electronic dance music
+Hardbag	stylisticOrigin	Diva house
+Hardbag	stylisticOrigin	Hi-NRG
+Reggae fusion	stylisticOrigin	Dancehall
+Trip rock	stylisticOrigin	Trip hop
+Trip rock	stylisticOrigin	Experimental rock
+Trip rock	stylisticOrigin	Alternative rock
+Trip rock	stylisticOrigin	Psychedelic rock
+Proibidão	stylisticOrigin	Funk carioca
+Proibidão	stylisticOrigin	Rapping
+Proibidão	stylisticOrigin	Miami bass
+Proibidão	stylisticOrigin	Gangsta rap
+Nederbeat	stylisticOrigin	Beat music
+Nederbeat	stylisticOrigin	Nederpop
+Chimurenga music	stylisticOrigin	Mbira
+Chimurenga music	stylisticOrigin	Electric blues
+Romantikeo	stylisticOrigin	Contemporary R&B
+Romantikeo	stylisticOrigin	Pop music
+Romantikeo	stylisticOrigin	Reggaeton
+Malianteo	stylisticOrigin	Rapcore
+Malianteo	stylisticOrigin	Hip hop music
+Malianteo	stylisticOrigin	Reggaeton
+Fusion Music	stylisticOrigin	Reggaeton
+Starogradska muzika	stylisticOrigin	Traditional music
+Traditional black gospel	stylisticOrigin	Spiritual (music)
+Traditional black gospel	stylisticOrigin	Blues
+Traditional black gospel	stylisticOrigin	Hymn
+Nu-disco	stylisticOrigin	House music
+Nu-funk	stylisticOrigin	Funk
+Nu-funk	stylisticOrigin	Electronica
+Nu-funk	stylisticOrigin	Acid jazz
+Nu-funk	stylisticOrigin	Big beat
+Nu-funk	stylisticOrigin	Hip hop
+Cuban Rumba	stylisticOrigin	African people
+Cuban Rumba	stylisticOrigin	Spanish language
+Space disco	stylisticOrigin	Disco
+Space disco	stylisticOrigin	Science fiction film
+2-step garage	stylisticOrigin	UK garage
+2-step garage	stylisticOrigin	Drum and bass
+2-step garage	stylisticOrigin	Contemporary R&B
+Garage house	stylisticOrigin	House music
+Garage house	stylisticOrigin	Disco
+Garage house	stylisticOrigin	Gospel music
+Garage house	stylisticOrigin	Dub music
+Electro hop	stylisticOrigin	Hip hop music
+Electro hop	stylisticOrigin	Electro (music)
+Electro hop	stylisticOrigin	Electronic dance music
+New Wave of American Heavy Metal	stylisticOrigin	Heavy metal music
+New Wave of American Heavy Metal	stylisticOrigin	Groove metal
+New Wave of American Heavy Metal	stylisticOrigin	Nu metal
+New Wave of American Heavy Metal	stylisticOrigin	Alternative metal
+New Wave of American Heavy Metal	stylisticOrigin	Metalcore
+New Wave of American Heavy Metal	stylisticOrigin	Thrash metal
+New Wave of American Heavy Metal	stylisticOrigin	Post-hardcore
+New Wave of American Heavy Metal	stylisticOrigin	Progressive metal
+New Wave of American Heavy Metal	stylisticOrigin	New York hardcore
+Livetronica	stylisticOrigin	Electronica
+Livetronica	stylisticOrigin	Jazz
+Livetronica	stylisticOrigin	Instrumental rock
+Tech noire	stylisticOrigin	Industrial music
+Tech noire	stylisticOrigin	Dada
+Tech noire	stylisticOrigin	Musique concrète
+Tech noire	stylisticOrigin	Fluxus
+Tech noire	stylisticOrigin	Performance art
+Tech noire	stylisticOrigin	Electronic music
+Tech noire	stylisticOrigin	Punk rock
+Tech noire	stylisticOrigin	Noise (music)
+Indietronica	stylisticOrigin	Pop music
+Indietronica	stylisticOrigin	Rock music
+Indietronica	stylisticOrigin	Independent music
+Indietronica	stylisticOrigin	Electronica
+Indietronica	stylisticOrigin	Synthpop
+Comedy music	stylisticOrigin	Comedy
+Indie folk	stylisticOrigin	Folk music
+Indie folk	stylisticOrigin	Indie rock
+Indie folk	stylisticOrigin	Lo-fi music
+Indie folk	stylisticOrigin	Folk punk
+Sunshine Reggae	stylisticOrigin	Reggae
+Italo dance	stylisticOrigin	Eurodance
+Italo dance	stylisticOrigin	Italo disco
+Italo dance	stylisticOrigin	New Beat
+Free funk	stylisticOrigin	Free jazz
+Free funk	stylisticOrigin	Funk
+Garage punk	stylisticOrigin	Garage rock
+Garage punk	stylisticOrigin	Punk rock
+Garage punk	stylisticOrigin	Protopunk
+Garage punk	stylisticOrigin	Soul music
+Garage punk	stylisticOrigin	Beat music
+Garage punk	stylisticOrigin	Surf music
+Garage punk	stylisticOrigin	Power pop
+Garage punk	stylisticOrigin	Hardcore punk
+Garage punk	stylisticOrigin	Psychedelic rock
+Synthpunk	stylisticOrigin	Punk rock
+Gospel blues	stylisticOrigin	Spiritual (music)
+Gospel blues	stylisticOrigin	Blues
+Gospel blues	stylisticOrigin	Hymn
+Spoken word soul	stylisticOrigin	Poetry
+Spoken word soul	stylisticOrigin	Beat Generation
+Spoken word soul	stylisticOrigin	Neo soul
+Spoken word soul	stylisticOrigin	Bebop
+Spoken word soul	stylisticOrigin	Electronica
+Spoken word soul	stylisticOrigin	Southern soul
+Spoken word soul	stylisticOrigin	Jazz-funk
+Death/doom	stylisticOrigin	Death metal
+Death/doom	stylisticOrigin	Doom metal
+Death 'n' roll	stylisticOrigin	Death metal
+Death 'n' roll	stylisticOrigin	Rock and roll
+Post-disco	stylisticOrigin	Electronic music
+Post-disco	stylisticOrigin	Urban contemporary
+Post-disco	stylisticOrigin	Experimental music
+Post-disco	stylisticOrigin	Dub music
+Post-disco	stylisticOrigin	Disco
+Neo-trance	stylisticOrigin	Trance music
+Neo-trance	stylisticOrigin	Techno
+Neo-trance	stylisticOrigin	Minimal music
+Afro/Cosmic music	stylisticOrigin	Funk
+Afro/Cosmic music	stylisticOrigin	Dance music
+Afro/Cosmic music	stylisticOrigin	Electro (music)
+Afro/Cosmic music	stylisticOrigin	Jazz fusion#Jazz rock
+Afro/Cosmic music	stylisticOrigin	Music of Brazil
+Crossover thrash	stylisticOrigin	Thrash metal
+Crossover thrash	stylisticOrigin	Hardcore punk
+Crossover thrash	stylisticOrigin	Melodic hardcore
+Latin boogaloo	stylisticOrigin	Boogaloo
+Latin boogaloo	stylisticOrigin	Jump blues
+Latin boogaloo	stylisticOrigin	Mambo (music)
+Latin boogaloo	stylisticOrigin	Cha-cha-cha (music)
+Latin boogaloo	stylisticOrigin	Rhythm and blues
+Punk metal	stylisticOrigin	Heavy metal music
+Punk metal	stylisticOrigin	Hardcore punk
+Punk metal	stylisticOrigin	Punk rock
+Punk metal	stylisticOrigin	Thrash metal
+Balkan pop	stylisticOrigin	Traditional music
+Bassline (dance music)	stylisticOrigin	Speed garage
+Bassline (dance music)	stylisticOrigin	UK garage
+Bassline (dance music)	stylisticOrigin	Grime (music)
+Fidget house	stylisticOrigin	Electro house
+Fidget house	stylisticOrigin	Baltimore club
+Fidget house	stylisticOrigin	UK garage
+Fidget house	stylisticOrigin	Acid house
+Fidget house	stylisticOrigin	Bassline (dance music)
+Fidget house	stylisticOrigin	Breakbeat
+Fidget house	stylisticOrigin	Big beat
+Fidget house	stylisticOrigin	Wonky (music)
+Zoblazo	stylisticOrigin	Dance music
+Sambass	stylisticOrigin	Drum and bass
+Sambass	stylisticOrigin	Samba
+Sambass	stylisticOrigin	Samba rock
+Sambass	stylisticOrigin	Bossa nova
+Bodabil	stylisticOrigin	Philippine folk music
+UK garage	stylisticOrigin	Garage house
+UK garage	stylisticOrigin	Contemporary R&B
+UK garage	stylisticOrigin	Hip house
+UK garage	stylisticOrigin	Oldschool jungle
+Santé engagé	stylisticOrigin	Sega music
+Punk jazz	stylisticOrigin	Avant-garde jazz
+Punk jazz	stylisticOrigin	Free jazz
+Punk jazz	stylisticOrigin	Hardcore punk
+Punk jazz	stylisticOrigin	Jazz fusion
+Punk jazz	stylisticOrigin	No Wave
+Punk jazz	stylisticOrigin	Punk rock
+Punk jazz	stylisticOrigin	Post-punk
+Industrial hip hop	stylisticOrigin	East Coast hip hop
+Industrial hip hop	stylisticOrigin	Hip hop music
+Industrial hip hop	stylisticOrigin	Industrial music
+Industrial hip hop	stylisticOrigin	Dub music
+Tamborera	stylisticOrigin	Gaita Zuliana
+Tamborera	stylisticOrigin	Music of Africa
+Tamborera	stylisticOrigin	Calypso music
+Tamborera	stylisticOrigin	List of Caribbean music genres
+Lento Violento	stylisticOrigin	Italo disco
+Lento Violento	stylisticOrigin	Techno
+Lento Violento	stylisticOrigin	Acid trance
+Lento Violento	stylisticOrigin	Hardcore techno
+Lento Violento	stylisticOrigin	Hardstyle
+Techno-DNB	stylisticOrigin	Drum and bass
+Techno-DNB	stylisticOrigin	Techno
+Techno-DNB	stylisticOrigin	Techstep
+Techno-DNB	stylisticOrigin	Neurofunk
+Boogie rock	stylisticOrigin	Rock and roll
+Boogie rock	stylisticOrigin	Blues rock
+Boogie rock	stylisticOrigin	Rhythm and blues
+Boogie rock	stylisticOrigin	Hard rock
+Coupé-Décalé	stylisticOrigin	Zouglou
+Pinoy reggae	stylisticOrigin	Reggae
+Pinoy reggae	stylisticOrigin	Pinoy rock
+Pinoy reggae	stylisticOrigin	Philippine folk music
+Powerviolence	stylisticOrigin	Hardcore punk
+Powerviolence	stylisticOrigin	Thrashcore
+Powerviolence	stylisticOrigin	Grindcore
+Powerviolence	stylisticOrigin	Youth crew
+Powerviolence	stylisticOrigin	Noise (music)
+Powerviolence	stylisticOrigin	Sludge metal
+Hip hop music	stylisticOrigin	Funk
+Hip hop music	stylisticOrigin	Disco
+Hip hop music	stylisticOrigin	Dub music
+Hip hop music	stylisticOrigin	Rhythm and blues
+Hip hop music	stylisticOrigin	Reggae
+Hip hop music	stylisticOrigin	Dancehall
+Hip hop music	stylisticOrigin	Deejaying
+Hip hop music	stylisticOrigin	Performance poetry
+Hip hop music	stylisticOrigin	Spoken word
+Hip hop music	stylisticOrigin	Signifyin'
+Hip hop music	stylisticOrigin	The Dozens
+Hip hop music	stylisticOrigin	Scat singing
+Hip hop music	stylisticOrigin	Talking blues
+Melodic funk	stylisticOrigin	Funk carioca
+Melodic funk	stylisticOrigin	Freestyle music
+Latin soul	stylisticOrigin	Latin jazz
+Big beat	stylisticOrigin	Breakbeat
+Big beat	stylisticOrigin	Acid house
+Big beat	stylisticOrigin	Techno
+Big beat	stylisticOrigin	Hip hop music
+Big beat	stylisticOrigin	Psychedelic rock
+Big beat	stylisticOrigin	Alternative rock
+Cubaton	stylisticOrigin	Reggaeton
+Wonky (music)	stylisticOrigin	IDM
+Wonky (music)	stylisticOrigin	Glitch
+Wonky (music)	stylisticOrigin	Hip hop music
+Wonky (music)	stylisticOrigin	Crunk
+Wonky (music)	stylisticOrigin	Dubstep
+Wonky (music)	stylisticOrigin	Grime (music)
+Wonky (music)	stylisticOrigin	Chiptune
+Wonky (music)	stylisticOrigin	Electro (music)
+Wonky (music)	stylisticOrigin	Breakbeat
+Wonky (music)	stylisticOrigin	Skweee
+Street punk	stylisticOrigin	Punk rock
+Street punk	stylisticOrigin	Oi!
+Street punk	stylisticOrigin	Anarcho-punk
+Street punk	stylisticOrigin	Hardcore punk
+Homo hop	stylisticOrigin	Polish hip hop
+Experimental hip hop	stylisticOrigin	Alternative hip hop
+Experimental hip hop	stylisticOrigin	Acid jazz
+Experimental hip hop	stylisticOrigin	Folk rock
+Experimental hip hop	stylisticOrigin	Progressive rock
+Experimental hip hop	stylisticOrigin	Alternative rock
+Experimental hip hop	stylisticOrigin	Electronic music
+Experimental hip hop	stylisticOrigin	Post-punk
+Experimental hip hop	stylisticOrigin	Indie rock
+Experimental hip hop	stylisticOrigin	Psychedelic music
+Pornogrind	stylisticOrigin	Grindcore
+Pornogrind	stylisticOrigin	Death metal
+Wonky Pop	stylisticOrigin	Post-punk revival
+Smooth soul	stylisticOrigin	Soul music
+Smooth soul	stylisticOrigin	Funk
+Smooth soul	stylisticOrigin	Pop music
+Phleng phuea chiwit	stylisticOrigin	Folk music
+Phleng phuea chiwit	stylisticOrigin	Music of Thailand
+Phleng phuea chiwit	stylisticOrigin	Rock music
+Phleng phuea chiwit	stylisticOrigin	Country music
+Phleng phuea chiwit	stylisticOrigin	Folk music
+Phleng phuea chiwit	stylisticOrigin	Hard rock
+Phleng phuea chiwit	stylisticOrigin	Luk thung
+Phleng phuea chiwit	stylisticOrigin	Reggae
+Phleng phuea chiwit	stylisticOrigin	Traditional music
+Phleng phuea chiwit	stylisticOrigin	Music of Thailand
+UK funky	stylisticOrigin	UK garage
+UK funky	stylisticOrigin	African popular music
+UK funky	stylisticOrigin	Tribal house
+UK funky	stylisticOrigin	Electro house
+UK funky	stylisticOrigin	Broken beat
+UK funky	stylisticOrigin	Dancehall
+UK funky	stylisticOrigin	Grime
+Nu Gaze	stylisticOrigin	Shoegazing
+Nu Gaze	stylisticOrigin	Electronic music
+Medieval folk rock	stylisticOrigin	Rock music
+Medieval folk rock	stylisticOrigin	Folk rock
+Medieval folk rock	stylisticOrigin	Electric folk
+Medieval folk rock	stylisticOrigin	Early music
+Medieval folk rock	stylisticOrigin	Progressive folk music
+Reggae en Español	stylisticOrigin	Reggae
+Reggae en Español	stylisticOrigin	Dancehall
+Power electronics (music)	stylisticOrigin	Industrial music
+Power electronics (music)	stylisticOrigin	Noise (music)
+Power electronics (music)	stylisticOrigin	Death industrial
+Chinese ambient music	stylisticOrigin	Neoclassicism (music)
+Chinese ambient music	stylisticOrigin	C-pop
+Chinese ambient music	stylisticOrigin	Guoyue
+Chinese ambient music	stylisticOrigin	Electronic music
+Chinese ambient music	stylisticOrigin	Ambient music
+Chinese ambient music	stylisticOrigin	New Age music
+Chinese ambient music	stylisticOrigin	Minimal music
+Chinese ambient music	stylisticOrigin	Psychedelic rock
+Chinese ambient music	stylisticOrigin	Krautrock
+Chinese ambient music	stylisticOrigin	Space rock
+Chinese ambient music	stylisticOrigin	Symphonic rock
+Christian ska	stylisticOrigin	Contemporary Christian music
+Christian ska	stylisticOrigin	Christian alternative rock
+Christian ska	stylisticOrigin	Ska
+Christian ska	stylisticOrigin	Ska punk
+Isolationism (music)	stylisticOrigin	Electronic music#Elektronische Musik
+Isolationism (music)	stylisticOrigin	Industrial music
+Isolationism (music)	stylisticOrigin	Krautrock
+Isolationism (music)	stylisticOrigin	Musique concrète
+Country folk	stylisticOrigin	Christian country music
+Country folk	stylisticOrigin	Southern Gospel
+Country folk	stylisticOrigin	Folk music
+Country folk	stylisticOrigin	Progressive folk music
+Country folk	stylisticOrigin	Bluegrass music
+Pinoy pop	stylisticOrigin	Music of the Philippines#OPM (Original Pilipino Music)
+Pinoy pop	stylisticOrigin	Ballad
+Pinoy pop	stylisticOrigin	Crossover (music)
+Pinoy pop	stylisticOrigin	Disco
+Pinoy pop	stylisticOrigin	Novelty song
+Pinoy pop	stylisticOrigin	Pop music
+Pinoy pop	stylisticOrigin	Dance-pop
+Pinoy pop	stylisticOrigin	Vocal trance
+Acid house	stylisticOrigin	Chicago house
+Third stream	stylisticOrigin	Jazz
+Third stream	stylisticOrigin	Classical music
+British rock and roll	stylisticOrigin	Rock and roll
+British rock and roll	stylisticOrigin	Skiffle
+Alternative hip hop	stylisticOrigin	Hip hop music
+Alternative hip hop	stylisticOrigin	Alternative rock
+Alternative hip hop	stylisticOrigin	Jazz
+Alternative hip hop	stylisticOrigin	Funk
+Alternative hip hop	stylisticOrigin	Reggae
+Alternative hip hop	stylisticOrigin	Electronic music
+Alternative hip hop	stylisticOrigin	Post-punk
+Alternative hip hop	stylisticOrigin	Psychedelic music
+Alternative hip hop	stylisticOrigin	Rap rock
+Diablada	stylisticOrigin	Culture of Spain
+Diablada	stylisticOrigin	Andean music
+Stoner rock	stylisticOrigin	Blues rock
+Stoner rock	stylisticOrigin	Psychedelic rock
+Stoner rock	stylisticOrigin	Acid rock
+Stoner rock	stylisticOrigin	Heavy metal music
+Stoner rock	stylisticOrigin	Doom metal
+Stoner rock	stylisticOrigin	Grunge
+Stoner rock	stylisticOrigin	Sludge metal
+Jerkin'	stylisticOrigin	West Coast hip hop
+Jerkin'	stylisticOrigin	Hyphy
+Pop-folk	stylisticOrigin	Music of Southeastern Europe
+Lovers rock	stylisticOrigin	Reggae
+Lovers rock	stylisticOrigin	Soul music
+Lovers rock	stylisticOrigin	Rhythm and blues
+Könsrock	stylisticOrigin	Punk rock
+Könsrock	stylisticOrigin	Post-punk
+Könsrock	stylisticOrigin	Shock rock
+Techno	stylisticOrigin	Electro (music)
+Techno	stylisticOrigin	Synthpop
+Techno	stylisticOrigin	Post-disco
+Techno	stylisticOrigin	Chicago house
+Techno	stylisticOrigin	Industrial music
+Techno	stylisticOrigin	Funk
+Techno	stylisticOrigin	Hi-NRG
+Crunkcore	stylisticOrigin	Screamo
+Crunkcore	stylisticOrigin	Crunk
+Crunkcore	stylisticOrigin	Dance-pop
+Crunkcore	stylisticOrigin	Hip hop music
+Crunkcore	stylisticOrigin	Emo
+VIA music	stylisticOrigin	Russian music
+VIA music	stylisticOrigin	Folk music
+VIA music	stylisticOrigin	Rock music
+VIA music	stylisticOrigin	Pop music
+VIA music	stylisticOrigin	Disco
+VIA music	stylisticOrigin	Beat (music)
+VIA music	stylisticOrigin	Chanson
+VIA music	stylisticOrigin	Synthpop
+Alternative-reggaeton	stylisticOrigin	Hip hop
+Alternative dance	stylisticOrigin	Alternative rock
+Alternative dance	stylisticOrigin	Electronic dance music
+Alternative dance	stylisticOrigin	Indie rock
+Alternative dance	stylisticOrigin	Dance-rock
+Alternative dance	stylisticOrigin	New Wave music
+Alternative dance	stylisticOrigin	Disco
+Alternative dance	stylisticOrigin	Electronic body music
+Post-punk	stylisticOrigin	Punk rock
+Post-punk	stylisticOrigin	Art rock
+Post-punk	stylisticOrigin	Krautrock
+Post-punk	stylisticOrigin	Electronic music
+Post-punk	stylisticOrigin	Progressive rock
+Post-punk	stylisticOrigin	Dub music
+Post-punk	stylisticOrigin	Funk
+Post-punk	stylisticOrigin	Reggae
+Post-punk	stylisticOrigin	Experimental music
+Chillwave	stylisticOrigin	Synthpop
+Chillwave	stylisticOrigin	New Wave music
+Chillwave	stylisticOrigin	Psychedelic pop
+Chillwave	stylisticOrigin	Dream pop
+Chillwave	stylisticOrigin	Electronic music
+Chillwave	stylisticOrigin	Chill-out music
+Chillwave	stylisticOrigin	Low fidelity
+Chillwave	stylisticOrigin	Shoegazing
+Chillwave	stylisticOrigin	Ambient house
+Chillwave	stylisticOrigin	Rhythm and blues
+Chillwave	stylisticOrigin	Downtempo
+Chillwave	stylisticOrigin	Italo disco
+Boogie (genre)	stylisticOrigin	Funk
+Boogie (genre)	stylisticOrigin	Post-disco
+Boogie (genre)	stylisticOrigin	Jazz
+Girl group	stylisticOrigin	Music hall
+Girl group	stylisticOrigin	Vaudeville
+Girl group	stylisticOrigin	Swing music
+Girl group	stylisticOrigin	Jump blues
+Girl group	stylisticOrigin	Rhythm and blues
+Girl group	stylisticOrigin	Rock and roll
+Girl group	stylisticOrigin	Soul music
+Girl group	stylisticOrigin	Gospel music
+Girl group	stylisticOrigin	Traditional pop music
+Girl group	stylisticOrigin	Disco
+Girl group	stylisticOrigin	Rhythm and blues
+Girl group	stylisticOrigin	Power pop
+Girl group	stylisticOrigin	Pop rock
+Girl group	stylisticOrigin	Electronic dance music
+Girl group	stylisticOrigin	Pop music
+Girl group	stylisticOrigin	Dance-pop
+Girl group	stylisticOrigin	Teen pop
+Girl group	stylisticOrigin	Pop punk
+Girl group	stylisticOrigin	Indie rock
+Girl group	stylisticOrigin	Contemporary R&B
+Girl group	stylisticOrigin	Electronic dance music
+Girl group	stylisticOrigin	Hip hop
+Girl group	stylisticOrigin	Indie pop
+Girl group	stylisticOrigin	Synthpop
+Girl group	stylisticOrigin	Garage rock
+Girl group	stylisticOrigin	Dance-punk
+Girl group	stylisticOrigin	Hip hop music
+Girl group	stylisticOrigin	Emo
+Girl group	stylisticOrigin	Post-hardcore
+Girl group	stylisticOrigin	New rave
+Hipster hop	stylisticOrigin	Alternative hip hop
+Hipster hop	stylisticOrigin	Electro hop
+Hipster hop	stylisticOrigin	Electronic dance music
+Hipster hop	stylisticOrigin	Indie rock
+Post-Britpop	stylisticOrigin	Alternative rock
+Swing house	stylisticOrigin	House music
+Swing house	stylisticOrigin	Tech house
+Swing house	stylisticOrigin	Swing music
+Swing house	stylisticOrigin	Dixieland
+Swing house	stylisticOrigin	Rhythm and blues
+Swing house	stylisticOrigin	Ragtime
+Oruro Diablada	stylisticOrigin	Culture of Spain
+Oruro Diablada	stylisticOrigin	Andean music
+Ska/Pop	stylisticOrigin	Ska
+Bandana thrash	stylisticOrigin	Thrashcore
+Bandana thrash	stylisticOrigin	Crossover thrash
+Bandana thrash	stylisticOrigin	Youth crew
+Bandana thrash	stylisticOrigin	Powerviolence
+Nintendocore	stylisticOrigin	Chiptune
+Nintendocore	stylisticOrigin	Hardcore punk
+Nintendocore	stylisticOrigin	Metalcore
+Nintendocore	stylisticOrigin	Post-hardcore
+Nintendocore	stylisticOrigin	Video game music
+Art of Azerbaijani ashiqs	stylisticOrigin	World music
+Electro-swing	stylisticOrigin	House music
+Electro-swing	stylisticOrigin	Swing music
+Bitpop	stylisticOrigin	Electronica
+Bitpop	stylisticOrigin	Synthpop
+Bitpop	stylisticOrigin	Video game music
+Bitpop	stylisticOrigin	Chiptune
+Moombahton	stylisticOrigin	Reggaeton
+Moombahton	stylisticOrigin	Styles of house music
+Peruvian cumbia	stylisticOrigin	Cumbia
+Sesube	stylisticOrigin	Sega
+Sesube	stylisticOrigin	Isukuti
+Sesube	stylisticOrigin	Nyanza
+Sesube	stylisticOrigin	Benga
+Witch house (music genre)	stylisticOrigin	Chopped and screwed
+Witch house (music genre)	stylisticOrigin	Hip hop
+Witch house (music genre)	stylisticOrigin	Shoegazing
+Witch house (music genre)	stylisticOrigin	Industrial music
+Witch house (music genre)	stylisticOrigin	Noise (music)
+Witch house (music genre)	stylisticOrigin	Dark Wave
+Witch house (music genre)	stylisticOrigin	Ethereal Wave
+Witch house (music genre)	stylisticOrigin	Dubstep
+Witch house (music genre)	stylisticOrigin	Gothic rock
+Witch house (music genre)	stylisticOrigin	Chillwave
+Dubstyle	stylisticOrigin	Hardstyle
+Dubstyle	stylisticOrigin	Breakbeat
+Dubstyle	stylisticOrigin	Dubstep
+Dubstyle	stylisticOrigin	Industrial music
+Dubstyle	stylisticOrigin	Jumpstyle
+Psychedelic hip hop	stylisticOrigin	Hip hop music
+Psychedelic hip hop	stylisticOrigin	Acid jazz
+Psychedelic hip hop	stylisticOrigin	Lounge music
+Ragga hip hop	stylisticOrigin	Ragga
+Ragga hip hop	stylisticOrigin	Hip hop
+Southwest hip hop	stylisticOrigin	Hip hop music
+Urban contemporary gospel	stylisticOrigin	Traditional black gospel
+New Orleans soul	stylisticOrigin	Gospel music
+New Orleans soul	stylisticOrigin	Southern soul
+New Orleans soul	stylisticOrigin	Pop music
+New Orleans soul	stylisticOrigin	Boogie-woogie
+Dream trance	stylisticOrigin	House music
+Dream trance	stylisticOrigin	Trance music
+Leeds hip-hop	stylisticOrigin	Hip hop music
+Leeds hip-hop	stylisticOrigin	Funk
+Leeds hip-hop	stylisticOrigin	Jazz
+Tropipop	stylisticOrigin	Music of Colombia#Caribbean Region of Colombia
+Tropipop	stylisticOrigin	Vallenato
+Tropipop	stylisticOrigin	Salsa music
+Tropipop	stylisticOrigin	Pop music
+Tropipop	stylisticOrigin	Pop rock
+Tropipop	stylisticOrigin	Funk
+Tropipop	stylisticOrigin	Latin pop
+L-pop	stylisticOrigin	Pop music
+Plinkerpop	stylisticOrigin	Electronica
+Plinkerpop	stylisticOrigin	Alternative rock
+LGBT music	stylisticOrigin	Rhythm and blues
+Post-dubstep	stylisticOrigin	Dubstep
+Post-dubstep	stylisticOrigin	Rhythm and blues
+Post-dubstep	stylisticOrigin	2-step garage
+Post-dubstep	stylisticOrigin	Ambient
+Post-dubstep	stylisticOrigin	Minimal
+Post-dubstep	stylisticOrigin	IDM
+Experimental rock	stylisticOrigin	Experimental music
+Experimental rock	stylisticOrigin	Rock music
+Experimental rock	stylisticOrigin	Free jazz
+New Beat	stylisticOrigin	Electronic body music
+New Beat	stylisticOrigin	Acid house
+New Beat	stylisticOrigin	Hi-NRG
+New Beat	stylisticOrigin	Synthpop
+New Beat	stylisticOrigin	Industrial music
+New Beat	stylisticOrigin	Techno
+Djent	stylisticOrigin	Progressive metal
+Djent	stylisticOrigin	Groove metal
+Djent	stylisticOrigin	Mathcore
+Djent	stylisticOrigin	Technical death metal
+Djent	stylisticOrigin	Experimental rock
+Djent	stylisticOrigin	Progressive rock
+Djent	stylisticOrigin	Math rock
+Djent	stylisticOrigin	Metalcore
+Djent	stylisticOrigin	Post-rock
+Comedy hip hop	stylisticOrigin	Hip hop music
+Comedy hip hop	stylisticOrigin	Comedy music
+African blues	stylisticOrigin	Music of Africa
+African blues	stylisticOrigin	Music of West Africa
+African blues	stylisticOrigin	Blues
+Neo-Rockabilly	stylisticOrigin	Hillbilly
+Neo-Rockabilly	stylisticOrigin	Western swing
+Neo-Rockabilly	stylisticOrigin	Honky-tonk
+Neo-Rockabilly	stylisticOrigin	Rhythm and blues
+Neo-Rockabilly	stylisticOrigin	Boogie-woogie
+Neo-Rockabilly	stylisticOrigin	Swing music
+Neo-Rockabilly	stylisticOrigin	Soundtrack
+Neo-Rockabilly	stylisticOrigin	Punk rock
+Wangga	stylisticOrigin	Traditional music
+Dubtech	stylisticOrigin	Electro (music)
+Dubtech	stylisticOrigin	Synthpop
+Dubtech	stylisticOrigin	Industrial music
+Dubtech	stylisticOrigin	Dub music
+Dubtech	stylisticOrigin	Grime (music)
+Dubtech	stylisticOrigin	2-step garage
+Dubtech	stylisticOrigin	Drum and bass
+Dubtech	stylisticOrigin	Techno
+Latino hip hop	stylisticOrigin	Hip hop music
+Deep electronica	stylisticOrigin	Electronica
+Deep electronica	stylisticOrigin	Electroacoustic music
+Deep electronica	stylisticOrigin	Intelligent dance music
+New Chilean Cumbia	stylisticOrigin	Cumbia villera
+Bangla rock	stylisticOrigin	Rock and roll
+Bangla rock	stylisticOrigin	Electric blues
+Bangla rock	stylisticOrigin	Folk music
+Bangla rock	stylisticOrigin	Country music
+Bangla rock	stylisticOrigin	Blues
+Old time fiddle	stylisticOrigin	Music of the United Kingdom
+Old time fiddle	stylisticOrigin	Music of Africa
+Old time fiddle	stylisticOrigin	Minstrel show
+Old time fiddle	stylisticOrigin	Tin Pan Alley
+Old time fiddle	stylisticOrigin	Gospel music
+Old time fiddle	stylisticOrigin	Appalachian music
+Blues fiddle	stylisticOrigin	Folk music
+Blues fiddle	stylisticOrigin	Work song
+Blues fiddle	stylisticOrigin	Spiritual (music)
+Noise Khanyile	stylisticOrigin	World music
+Noise Khanyile	stylisticOrigin	Traditional music
+Noise Khanyile	stylisticOrigin	Roots music
+Noise Khanyile	stylisticOrigin	Pop rock
+Noise Khanyile	stylisticOrigin	Indie rock
+Noise Khanyile  Mbaqanga   1	stylisticOrigin	Marabi
+Noise Khanyile  Mbaqanga   1	stylisticOrigin	Kwela
+Jaiva	stylisticOrigin	World music
+Jaiva	stylisticOrigin	Traditional music
+Jaiva	stylisticOrigin	Roots music
+Jaiva	stylisticOrigin	Pop rock
+Jaiva	stylisticOrigin	Indie rock
+Métis fiddle	stylisticOrigin	Music of the United Kingdom
+Métis fiddle	stylisticOrigin	Music of Africa
+Métis fiddle	stylisticOrigin	Minstrel show
+Métis fiddle	stylisticOrigin	Tin Pan Alley
+Métis fiddle	stylisticOrigin	Gospel music
+Métis fiddle	stylisticOrigin	Appalachian music
+Cajun fiddle	stylisticOrigin	Ballad
+Bluegrass fiddle	stylisticOrigin	Folk music of England
+Bluegrass fiddle	stylisticOrigin	African American
+Bluegrass fiddle	stylisticOrigin	Blues
+Quebec fiddle	stylisticOrigin	Music of the United Kingdom
+Quebec fiddle	stylisticOrigin	Music of Africa
+Quebec fiddle	stylisticOrigin	Minstrel show
+Quebec fiddle	stylisticOrigin	Tin Pan Alley
+Quebec fiddle	stylisticOrigin	Gospel music
+Quebec fiddle	stylisticOrigin	Appalachian music
+Latin Ballad	stylisticOrigin	Bolero
+Klezmer fiddle	stylisticOrigin	Music of Romania
+Klezmer fiddle	stylisticOrigin	Bessarabia
+Klezmer fiddle	stylisticOrigin	Bukovina
+Klezmer fiddle	stylisticOrigin	Music of Ukraine
+Klezmer fiddle	stylisticOrigin	Music of Turkey
+Klezmer fiddle	stylisticOrigin	Music of Greece
+Benny Williams	stylisticOrigin	Folk music of England
+Benny Williams	stylisticOrigin	African American
+Benny Williams	stylisticOrigin	Blues
+Foghorn Stringband	stylisticOrigin	Music of the United Kingdom
+Foghorn Stringband	stylisticOrigin	Music of Africa
+Foghorn Stringband	stylisticOrigin	Minstrel show
+Foghorn Stringband	stylisticOrigin	Tin Pan Alley
+Foghorn Stringband	stylisticOrigin	Gospel music
+Foghorn Stringband	stylisticOrigin	Appalachian music
+Freeform Hardcore	stylisticOrigin	Happy hardcore
+Freeform Hardcore	stylisticOrigin	4-beat
+Freeform Hardcore	stylisticOrigin	Bouncy techno
+Freeform Hardcore	stylisticOrigin	Hardcore techno
+Freeform Hardcore	stylisticOrigin	Trance music
+Freeform Hardcore	stylisticOrigin	Psychedelic trance
+Yacht bounce	stylisticOrigin	Bounce
+Yacht bounce	stylisticOrigin	Soft rock
+Yacht bounce	stylisticOrigin	Hip hop
+Yacht bounce	stylisticOrigin	Funk
+Soldier's Joy (fiddle tune)	stylisticOrigin	Music of the United Kingdom
+Soldier's Joy (fiddle tune)	stylisticOrigin	Music of Africa
+Soldier's Joy (fiddle tune)	stylisticOrigin	Minstrel show
+Soldier's Joy (fiddle tune)	stylisticOrigin	Tin Pan Alley
+Soldier's Joy (fiddle tune)	stylisticOrigin	Gospel music
+Soldier's Joy (fiddle tune)	stylisticOrigin	Appalachian music
+Yew Piney Mountain	stylisticOrigin	Music of the United Kingdom
+Yew Piney Mountain	stylisticOrigin	Music of Africa
+Yew Piney Mountain	stylisticOrigin	Minstrel show
+Yew Piney Mountain	stylisticOrigin	Tin Pan Alley
+Yew Piney Mountain	stylisticOrigin	Gospel music
+Yew Piney Mountain	stylisticOrigin	Appalachian music

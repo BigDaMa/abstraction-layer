@@ -1,0 +1,10 @@
+Chrysler Slant-6 engine	oilSystem	Gerotor
+Lamborghini V8	oilSystem	Wet sump
+Cummins B Series engine	oilSystem	Wet sump
+Cummins L Series engine	oilSystem	Wet sump
+G60	oilSystem	Wet sump
+Ford Barra engine	oilSystem	Wet sump
+Wasserboxer	oilSystem	Wet sump
+Volkswagen air cooled engine	oilSystem	Wet sump
+Cummins M Series engine	oilSystem	Wet sump
+IKCO EF Engines	oilSystem	Wet sump

@@ -1,0 +1,2399 @@
+Amazon River	sourceElevation	5170.0
+Amu Darya	sourceElevation	4130.0
+Amu Darya	sourceElevation	4525.0
+Yangtze River	sourceElevation	5042.0
+Detroit River	sourceElevation	174.9552
+Euphrates	sourceElevation	3520.0
+Euphrates	sourceElevation	3290.0
+Göta älv	sourceElevation	44.0
+Ganges	sourceElevation	3892.0
+Ganges	sourceElevation	3891.9912
+Motala ström	sourceElevation	88.0
+Mississippi River	sourceElevation	449.58
+Missouri River	sourceElevation	1232.0016
+Madeira River	sourceElevation	180.0
+Neva River	sourceElevation	4.3
+Nile	sourceElevation	2700.0
+Ohio River	sourceElevation	682.752
+Ohio River	sourceElevation	222.504
+Rhine	sourceElevation	2345.0
+Sabine River (Texas–Louisiana)	sourceElevation	128.9304
+Snake River	sourceElevation	2720.9496
+Tigris	sourceElevation	1150.0
+Sacramento River	sourceElevation	1119.8352
+Weser	sourceElevation	116.0
+Rio Grande	sourceElevation	3657.6
+Vltava	sourceElevation	1172.0
+Saint Lawrence River	sourceElevation	74.7
+Krishna River	sourceElevation	1337.0
+Jordan River	sourceElevation	2814.0
+Godavari River	sourceElevation	920.0
+River Thames	sourceElevation	110.0
+Elbe	sourceElevation	1386.0
+River Severn	sourceElevation	610.0
+Delaware River	sourceElevation	682.752
+Delaware River	sourceElevation	268.224
+Tisza	sourceElevation	2020.0
+Yenisei River	sourceElevation	3351.0
+Ob River	sourceElevation	2300.0
+Ob River	sourceElevation	434.0
+Yakima River	sourceElevation	768.096
+Amur River	sourceElevation	2045.0
+Amur River	sourceElevation	1961.0
+Back River	sourceElevation	382.0
+Potomac River	sourceElevation	932.688
+Chesapeake Bay	sourceElevation	0.0
+Vedea River	sourceElevation	435.0
+Volga River	sourceElevation	225.0
+Tagus	sourceElevation	1593.0
+Guadiana	sourceElevation	608.0
+Mekong	sourceElevation	5224.0
+Illinois River	sourceElevation	153.924
+Syr Darya	sourceElevation	400.0
+Willamette River	sourceElevation	133.5024
+Orinoco	sourceElevation	1047.0
+River Shannon	sourceElevation	100.0
+Zambezi	sourceElevation	1500.0
+Ems (river)	sourceElevation	134.0
+Charles River	sourceElevation	106.68
+River Aire	sourceElevation	377.0
+River Witham	sourceElevation	130.0
+River Great Ouse	sourceElevation	150.0
+Red River of the North	sourceElevation	288.9504
+River Ouse, Yorkshire	sourceElevation	10.0
+River Avon (Bristol)	sourceElevation	120.0
+Avon River (Ontario)	sourceElevation	390.0
+River Frome, Dorset	sourceElevation	568.0
+River Hull	sourceElevation	19.812
+Derwent River (Tasmania)	sourceElevation	1544.7264
+River Derwent, Yorkshire	sourceElevation	260.0
+Hells Canyon	sourceElevation	514.5024
+Chao Phraya River	sourceElevation	25.0
+River Etherow	sourceElevation	500.0
+River Tay	sourceElevation	720.0
+Glomma	sourceElevation	690.0
+River Mole	sourceElevation	105.0
+Merrimack River	sourceElevation	85.344
+River Test	sourceElevation	90.0
+Los Angeles River	sourceElevation	242.0112
+Colorado River (Texas)	sourceElevation	999.744
+Colorado River	sourceElevation	3104.0832
+Brahmaputra River	sourceElevation	5210.0
+Río de la Plata	sourceElevation	0.0
+Altamaha River	sourceElevation	24.9936
+Red River (Mississippi River)	sourceElevation	467.868
+Pecos River	sourceElevation	3584.1432
+Salween River	sourceElevation	5400.0
+Monongahela River	sourceElevation	1383.792
+Monongahela River	sourceElevation	263.0424
+River Kennet	sourceElevation	200.0
+Muskegon River	sourceElevation	259.08
+River Trent	sourceElevation	275.0
+Susquehanna River	sourceElevation	359.664
+River Plym	sourceElevation	450.0
+Yarra River	sourceElevation	1200.0
+Savannah River	sourceElevation	199.644
+Ashuapmushuan River	sourceElevation	360.0
+River Medway	sourceElevation	149.0472
+Mojave River	sourceElevation	910.1328
+Athabasca River	sourceElevation	1520.0
+River Wye	sourceElevation	690.0
+Mackenzie River	sourceElevation	156.0
+Connecticut River	sourceElevation	810.768
+Minnesota River	sourceElevation	293.8272
+St. Marys River (Michigan–Ontario)	sourceElevation	182.88
+Santiam River	sourceElevation	67.6656
+Jiu River	sourceElevation	554.0
+Palo Duro Canyon	sourceElevation	1052.0
+Arkansas River	sourceElevation	2965.0944
+Platte River	sourceElevation	2453.64
+Platte River	sourceElevation	841.8576
+River Churnet	sourceElevation	460.0
+Chattahoochee River	sourceElevation	1082.04
+Peene	sourceElevation	28.0
+Crişul Repede River	sourceElevation	710.0
+River Dart	sourceElevation	450.0
+River Dart	sourceElevation	510.0
+Mohawk River	sourceElevation	280.416
+San Joaquin River	sourceElevation	2998.9272
+River Arun	sourceElevation	125.0
+Tennessee River	sourceElevation	247.8024
+Patuxent River	sourceElevation	238.0488
+Chehalis River (Washington)	sourceElevation	304.8
+Cowlitz River	sourceElevation	362.712
+White River (Arkansas)	sourceElevation	688.848
+Murrumbidgee River	sourceElevation	1600.0
+Papaloapan River	sourceElevation	3700.0
+Humber River (Ontario)	sourceElevation	300.0
+Caddo River	sourceElevation	426.72
+Deschutes River (Oregon)	sourceElevation	1446.8856
+Big Sandy River (Ohio River)	sourceElevation	793.6992
+Big Sandy River (Ohio River)	sourceElevation	166.116
+River Forth	sourceElevation	33.0
+River Forth	sourceElevation	32.9184
+Hron	sourceElevation	980.0
+Kura River	sourceElevation	2740.0
+River Teme	sourceElevation	506.0
+Yamuna	sourceElevation	3293.0
+River Exe	sourceElevation	440.0
+River Lea	sourceElevation	115.0
+Lena River	sourceElevation	1640.0
+Bruneau River	sourceElevation	748.8936
+Dnieper River	sourceElevation	220.0
+River Teign	sourceElevation	528.0
+Kings River (California)	sourceElevation	687.9336
+Tanana River	sourceElevation	509.6256
+Khabur River	sourceElevation	350.0
+Lusatian Neisse	sourceElevation	655.0
+Narew	sourceElevation	159.0
+River Lugg	sourceElevation	497.0
+Little Colorado River	sourceElevation	3048.0
+Little Colorado River	sourceElevation	2547.8232
+Pudding River	sourceElevation	289.56
+Molalla River	sourceElevation	1007.0592
+Pee Dee River	sourceElevation	82.99704
+Condamine River	sourceElevation	1375.0
+Iguazu River	sourceElevation	1200.0
+Genesee River	sourceElevation	682.752
+Schuylkill River	sourceElevation	469.392
+Schuylkill River	sourceElevation	158.496
+Cache La Poudre River	sourceElevation	3278.124
+Housatonic River	sourceElevation	438.912
+Santa Clara River (California)	sourceElevation	1767.84
+Klamath River	sourceElevation	1246.632
+Merced River	sourceElevation	2413.1016
+Rogue River (Michigan)	sourceElevation	253.8984
+D River	sourceElevation	2.7432
+Tuolumne River	sourceElevation	2616.0984
+Rogue River (Oregon)	sourceElevation	1621.536
+Uruguay River	sourceElevation	1800.0
+North Platte River	sourceElevation	2456.0784
+Green River (Washington)	sourceElevation	1000.6584
+Little Missouri River (North Dakota)	sourceElevation	1371.9048
+Big Thompson River	sourceElevation	3447.288
+Jordan River (Utah)	sourceElevation	1368.2472
+Tualatin River	sourceElevation	602.8944
+Flat River (Michigan)	sourceElevation	278.892
+Madawaska River (Ontario)	sourceElevation	450.0
+Powder River (Montana)	sourceElevation	1391.1072
+Mureş River	sourceElevation	850.0
+Piscataqua River	sourceElevation	0.0
+Rouge River (Ontario)	sourceElevation	320.0
+Gila River	sourceElevation	1905.6096
+Gila River	sourceElevation	1691.9448
+Gunnison River	sourceElevation	2440.8384
+Virgin River	sourceElevation	1146.9624
+New River (Kanawha River)	sourceElevation	946.0992
+New River (Kanawha River)	sourceElevation	776.0208
+Yampa River	sourceElevation	2387.4984
+White River (Utah)	sourceElevation	2112.8736
+Salt River (Arizona)	sourceElevation	3474.72
+Saint John River (Bay of Fundy)	sourceElevation	360.0
+St. John's River (California)	sourceElevation	85.0392
+Beaverhead River	sourceElevation	1690.116
+Sun River	sourceElevation	1762.0488
+Sun River	sourceElevation	1441.0944
+Mun River	sourceElevation	530.0
+River Cherwell	sourceElevation	179.0
+White River (South Dakota)	sourceElevation	1481.6328
+Niobrara River	sourceElevation	1676.4
+Laramie River	sourceElevation	2789.8344
+Ume River	sourceElevation	525.0
+Bow River	sourceElevation	1960.0
+Muskoka River	sourceElevation	525.0
+Truckee River	sourceElevation	1899.8184
+Sandy River (Oregon)	sourceElevation	1592.58
+Passaic River	sourceElevation	164.592
+Cedar River (Washington)	sourceElevation	676.656
+Haw River	sourceElevation	306.9336
+Raisin River (Ontario)	sourceElevation	96.0
+Maribyrnong River	sourceElevation	1000.0
+Mattawa River	sourceElevation	198.5
+Narva River	sourceElevation	30.0
+Eder	sourceElevation	648.0
+Eder	sourceElevation	188.976
+Michipicoten River	sourceElevation	330.0
+Bug River	sourceElevation	310.0
+James River (Dakotas)	sourceElevation	570.2808
+Chemung River	sourceElevation	284.988
+Hackensack River	sourceElevation	36.576
+Kanawha River	sourceElevation	776.0208
+Kanawha River	sourceElevation	199.0344
+Sammamish River	sourceElevation	9.144
+White River (Washington)	sourceElevation	1539.24
+Clackamas River	sourceElevation	1496.2632
+Canadian River	sourceElevation	2900.0
+Paraná River	sourceElevation	1148.0
+Snowy River	sourceElevation	2200.0
+Lehigh River	sourceElevation	626.6688
+Mattagami River	sourceElevation	330.0
+Nervión	sourceElevation	1000.0
+Umpqua River	sourceElevation	110.3376
+Etobicoke Creek	sourceElevation	300.0
+Agawa River	sourceElevation	435.0
+Juniata River	sourceElevation	201.168
+Batchawana River	sourceElevation	487.0
+Salmon River (Idaho)	sourceElevation	2810.256
+Wind River (Wyoming)	sourceElevation	2974.848
+Guadalupe River (California)	sourceElevation	59.1312
+Puyallup River	sourceElevation	694.944
+Lackawaxen River	sourceElevation	560.832
+Lackawaxen River	sourceElevation	381.0
+Torne River	sourceElevation	341.0
+Current River (Missouri)	sourceElevation	441.96
+St. Francis River	sourceElevation	477.9264
+Christina River	sourceElevation	115.824
+White Clay Creek	sourceElevation	78.9432
+Brandywine Creek (Christina River)	sourceElevation	259.08
+Brandywine Creek (Christina River)	sourceElevation	56.0832
+Appoquinimink River	sourceElevation	7.0104
+St. Jones River	sourceElevation	3.9624
+Beaver Kill	sourceElevation	841.248
+East Branch Delaware River	sourceElevation	475.488
+Neversink River	sourceElevation	902.208
+Neversink River	sourceElevation	487.68
+Tappan Zee	sourceElevation	0.0
+Tug Fork	sourceElevation	793.6992
+Levisa Fork	sourceElevation	809.8536
+Roanoke River	sourceElevation	363.9312
+Marys River	sourceElevation	200.8632
+Calapooia River	sourceElevation	1387.4496
+Santa Ana River	sourceElevation	2636.52
+Santa Ana River	sourceElevation	2130.8568
+Youghiogheny River	sourceElevation	762.0
+Yamhill River	sourceElevation	46.3296
+Humboldt River	sourceElevation	1712.976
+Shenandoah River	sourceElevation	304.8
+John Day River	sourceElevation	2743.2
+McKenzie River	sourceElevation	1088.136
+Teton River (Idaho)	sourceElevation	1837.0296
+Clark Fork (river)	sourceElevation	2097.6336
+Clark Fork (river)	sourceElevation	1461.516
+Pend Oreille River	sourceElevation	629.1072
+Spokane River	sourceElevation	607.7712
+Okanogan River	sourceElevation	807.72
+Kootenay River	sourceElevation	2261.0
+River Wandle	sourceElevation	35.0
+Quinn River	sourceElevation	932.688
+Chetco River	sourceElevation	975.6648
+Illinois River (Oregon)	sourceElevation	387.4008
+Coos River	sourceElevation	3.9624
+Coquille River	sourceElevation	5.1816
+Siletz River	sourceElevation	215.7984
+Smith River (Umpqua River)	sourceElevation	428.8536
+North Yamhill River	sourceElevation	751.9416
+South Yamhill River	sourceElevation	167.9448
+Salmon River (Lincoln County, Oregon)	sourceElevation	929.64
+Nestucca River	sourceElevation	685.4952
+Little Nestucca River	sourceElevation	255.7272
+Alsea River	sourceElevation	84.7344
+Grande Ronde River	sourceElevation	2268.9312
+Big River (Oregon)	sourceElevation	1002.1824
+Coast Fork Willamette River	sourceElevation	301.752
+Long Tom River	sourceElevation	344.7288
+Powder River (Oregon)	sourceElevation	1341.12
+River Raisin	sourceElevation	317.9064
+Nith River	sourceElevation	396.0
+Kuskokwim River	sourceElevation	1114.044
+Koyukuk River	sourceElevation	217.0176
+Paw Paw River	sourceElevation	209.0928
+Appomattox River	sourceElevation	249.936
+Wallowa River	sourceElevation	1371.2952
+St. Joseph River (Lake Michigan)	sourceElevation	334.0608
+Kankakee River	sourceElevation	220.98
+Black Warrior River	sourceElevation	21.9456
+Dirty Devil River	sourceElevation	1300.2768
+Bear River (Utah)	sourceElevation	2593.848
+Llano River	sourceElevation	827.0
+Pedernales River	sourceElevation	682.0
+Nooksack River	sourceElevation	1103.376
+Montreal River (Wisconsin–Michigan)	sourceElevation	491.0328
+Trask River	sourceElevation	85.6488
+Wilson River (Oregon)	sourceElevation	265.4808
+Kilchis River	sourceElevation	92.964
+Miami River (Oregon)	sourceElevation	543.1536
+Tillamook River	sourceElevation	226.7712
+Walker River	sourceElevation	2938.272
+Walker River	sourceElevation	1353.9216
+East Walker River	sourceElevation	2002.536
+Kings River (Nevada)	sourceElevation	2554.8336
+West Walker River	sourceElevation	2938.272
+River Blackwater (River Loddon)	sourceElevation	135.0
+North Santiam River	sourceElevation	1564.5384
+Middle Santiam River	sourceElevation	1264.6152
+South Santiam River	sourceElevation	588.8736
+Pit River	sourceElevation	1432.56
+Pit River	sourceElevation	1325.88
+Kern River	sourceElevation	3962.4
+Magdalena River	sourceElevation	3685.0
+Peace River (Canada)	sourceElevation	1140.0
+Peace River (Canada)	sourceElevation	5630.0
+River Chew	sourceElevation	305.0
+Feather River	sourceElevation	1656.8928
+Feather River	sourceElevation	274.9296
+Napa River	sourceElevation	1141.476
+McCloud River	sourceElevation	1425.5496
+Trinity River (California)	sourceElevation	1691.64
+Amargosa River	sourceElevation	368.1984
+Owens River	sourceElevation	2210.1048
+Eel River (California)	sourceElevation	1903.476
+Tijuana River	sourceElevation	187.1472
+Williamson River (Oregon)	sourceElevation	1554.48
+Sprague River (Oregon)	sourceElevation	1318.26
+Elwha River	sourceElevation	1114.044
+Lost River (California)	sourceElevation	1365.1992
+Queets River	sourceElevation	1289.304
+Hoh River	sourceElevation	2133.6
+Sauk River (Washington)	sourceElevation	366.9792
+Skagit River	sourceElevation	1365.504
+Nehalem River	sourceElevation	738.8352
+Skipanon River	sourceElevation	15.24
+Lewis and Clark River	sourceElevation	640.08
+Karmanasa River	sourceElevation	350.0
+Youngs River	sourceElevation	344.7288
+Klaskanine River	sourceElevation	9.144
+Wallooskee River	sourceElevation	270.0528
+Clatskanie River	sourceElevation	408.432
+Bogachiel River	sourceElevation	1207.008
+Necanicum River	sourceElevation	481.584
+Nisqually River	sourceElevation	1465.7832
+North Umpqua River	sourceElevation	1822.704
+South Umpqua River	sourceElevation	612.3432
+River Quaggy	sourceElevation	122.0
+Lewis River (Washington)	sourceElevation	2192.7312
+Salinas River (California)	sourceElevation	731.52
+Mahanadi River	sourceElevation	877.0
+Neretva	sourceElevation	1227.0
+Patapsco River	sourceElevation	79.248
+Allagash River	sourceElevation	283.464
+Jarama	sourceElevation	2119.0
+Aux Sables River (Spanish River)	sourceElevation	451.0
+Chi River	sourceElevation	30.0
+Shire River	sourceElevation	474.0
+Mississagi River	sourceElevation	520.0
+Nolichucky River	sourceElevation	1304.544
+Nolichucky River	sourceElevation	616.0008
+Lesum	sourceElevation	4.0
+Thompson River	sourceElevation	1113.0
+River Lambourn	sourceElevation	130.0
+Leaf River (Quebec)	sourceElevation	181.0
+Seguin River	sourceElevation	314.0
+Elk River (Tennessee)	sourceElevation	307.848
+River Irwell	sourceElevation	400.0
+Bighead River	sourceElevation	328.0
+Siret River	sourceElevation	1238.0
+Kagawong River	sourceElevation	210.0
+Mahakam River	sourceElevation	1681.0
+Seine River (Ontario)	sourceElevation	457.0
+Aguasabon River	sourceElevation	395.0
+Fall River (Ontario)	sourceElevation	193.0
+Volkhov River	sourceElevation	18.0
+River Lagan	sourceElevation	119.0
+Wabigoon River	sourceElevation	453.0
+Moira River	sourceElevation	355.0
+Petawawa River	sourceElevation	443.0
+Oatka Creek	sourceElevation	420.624
+Bonnechere River	sourceElevation	366.0
+Muskrat River	sourceElevation	164.0
+River Loddon	sourceElevation	100.0
+Ahr	sourceElevation	470.0
+Saint-Maurice River	sourceElevation	404.0
+Cheat River	sourceElevation	1408.176
+Cheat River	sourceElevation	494.0808
+Buffalo River (New York)	sourceElevation	441.96
+Han River (Yangtze River tributary)	sourceElevation	580.0
+Murg	sourceElevation	875.0
+Oswego River (New York)	sourceElevation	108.8136
+Bhagirathi River	sourceElevation	3892.0
+Bistriţa River (Siret)	sourceElevation	1649.0
+Monocacy River	sourceElevation	121.92
+River Dove, Central England	sourceElevation	84.0
+Körös River	sourceElevation	85.0
+Olt River	sourceElevation	1440.0
+San Gabriel River (California)	sourceElevation	448.9704
+River Rib	sourceElevation	130.0
+Barron River (Ontario)	sourceElevation	225.0
+Amable du Fond River	sourceElevation	407.0
+Skootamatta River	sourceElevation	315.0
+Sauble River (Ontario)	sourceElevation	305.0
+Rankin River	sourceElevation	208.0
+River Frome, Bristol	sourceElevation	156.972
+Breitenbush River	sourceElevation	686.0
+Little Huron River	sourceElevation	350.52
+Dâmbovița River	sourceElevation	1800.0
+Kafue River	sourceElevation	1350.0
+Son River	sourceElevation	600.0
+Orava (river)	sourceElevation	601.0
+Klickitat River	sourceElevation	1593.1896
+Coosa River	sourceElevation	175.26
+Ausable River (Lake Huron)	sourceElevation	334.0
+Argeș River	sourceElevation	2030.0
+Prahova River	sourceElevation	1037.0
+Crowe River	sourceElevation	341.0
+Burnt River (Ontario)	sourceElevation	392.0
+Berounka	sourceElevation	726.0
+Berounka	sourceElevation	869.0
+Sabarmati River	sourceElevation	782.0
+Seneca River (New York)	sourceElevation	250.2408
+Lužnice (river)	sourceElevation	970.0
+Chu River	sourceElevation	1802.0
+River Bain	sourceElevation	130.0
+Foudry Brook	sourceElevation	93.0
+River Enborne	sourceElevation	155.0
+Kaibuskong River	sourceElevation	236.0
+Fond du Lac River (Saskatchewan)	sourceElevation	395.0
+Taylor-Massey Creek	sourceElevation	169.0
+Chaliyar River	sourceElevation	11.183
+Jock River	sourceElevation	139.0
+Guadalupe River (Texas)	sourceElevation	676.0
+Fremont River (Utah)	sourceElevation	2688.0312
+Katun River	sourceElevation	2300.0
+Arram Beck	sourceElevation	0.0
+Flathead River	sourceElevation	950.976
+Bad River (Wisconsin)	sourceElevation	463.9056
+Androscoggin River	sourceElevation	378.8664
+Black Sturgeon River (Thunder Bay District)	sourceElevation	251.0
+Balikh River	sourceElevation	350.0
+Tungabhadra River	sourceElevation	610.0
+Yellow Medicine River	sourceElevation	541.3248
+Ken River	sourceElevation	550.0
+Umgeni River	sourceElevation	1825.0
+Hayes River	sourceElevation	221.0
+Ätran (river)	sourceElevation	332.0
+Barton Creek	sourceElevation	380.0
+Cimarron River (Arkansas River)	sourceElevation	1316.1264
+Kickapoo River	sourceElevation	365.76
+Ghaghara River	sourceElevation	3962.0
+Sandy Creek (Michigan)	sourceElevation	202.0824
+Musquash River (Ontario)	sourceElevation	221.0
+Albany River	sourceElevation	371.0
+Brightsand River	sourceElevation	465.0
+Spoon River	sourceElevation	201.4728
+Kurobe River	sourceElevation	2924.0
+Caniapiscau River	sourceElevation	638.0
+Redwood River	sourceElevation	581.8632
+Pic River	sourceElevation	321.0
+Sacandaga River	sourceElevation	526.0848
+Magpie River (Ontario)	sourceElevation	420.0
+Toyohira River	sourceElevation	850.0
+North Fork Gunnison River	sourceElevation	1972.056
+Lac qui Parle River	sourceElevation	534.924
+Crow Wing River	sourceElevation	348.996
+Markham River	sourceElevation	475.0
+Payette River	sourceElevation	2249.424
+Payette River	sourceElevation	850.392
+Ok Tedi River	sourceElevation	1619.0
+Sharavathi	sourceElevation	730.0
+Paranapanema River	sourceElevation	900.0
+Ouémé River	sourceElevation	465.0
+Ouham River	sourceElevation	1139.0
+Paranaíba River	sourceElevation	0.0
+Pelly River	sourceElevation	1465.0
+River Ure	sourceElevation	640.0
+Chrudimka	sourceElevation	700.0
+Purari River	sourceElevation	1240.0
+Little Wood River	sourceElevation	2996.7936
+Eagle River (Wisconsin)	sourceElevation	507.1872
+Greenbrier River	sourceElevation	1035.1008
+Greenbrier River	sourceElevation	826.008
+Motagua River	sourceElevation	1800.0
+Bhima River	sourceElevation	945.0
+Boeuf River	sourceElevation	33.528
+Broad River (Carolinas)	sourceElevation	880.872
+Chambal River	sourceElevation	843.0
+Cle Elum River	sourceElevation	1863.852
+Coyote Creek (Santa Clara County)	sourceElevation	801.624
+Coyote Creek (Santa Clara County)	sourceElevation	356.9208
+Vils (Danube)	sourceElevation	502.0
+Vils (Danube)	sourceElevation	502.0
+Arieş River (Mureş)	sourceElevation	570.0
+Crișul Negru River	sourceElevation	1460.0
+Hase	sourceElevation	165.0
+Olinda Creek	sourceElevation	580.0
+River Trym	sourceElevation	76.2
+Pyasina River	sourceElevation	28.0
+Emajõgi	sourceElevation	33.6
+Cobbs Creek	sourceElevation	469.392
+Gauley River	sourceElevation	1219.2
+Gauley River	sourceElevation	889.1016
+Wallkill River	sourceElevation	219.456
+Hanford Reach	sourceElevation	135.0264
+Rondout Creek	sourceElevation	908.304
+River Marden	sourceElevation	99.9744
+Harmony River (Ontario)	sourceElevation	456.0
+South Fork New River	sourceElevation	1079.9064
+South Fork New River	sourceElevation	946.0992
+Lainio River	sourceElevation	678.0
+Viskan	sourceElevation	226.0
+Elk River (West Virginia)	sourceElevation	1084.1736
+Elk River (West Virginia)	sourceElevation	812.9016
+Hughes River (West Virginia)	sourceElevation	327.3552
+Hughes River (West Virginia)	sourceElevation	187.1472
+Shade River	sourceElevation	259.9944
+Shade River	sourceElevation	174.9552
+West Fork River	sourceElevation	398.9832
+Săsar River	sourceElevation	1005.0
+Homla	sourceElevation	205.0
+Blue Earth River	sourceElevation	367.8936
+Blue Earth River	sourceElevation	327.9648
+Middle Island Creek	sourceElevation	242.0112
+Wild Rice River (North Dakota)	sourceElevation	391.0584
+Butte Creek (Butte County, California)	sourceElevation	1908.048
+Tygart Valley River	sourceElevation	1383.792
+Subarnarekha River	sourceElevation	610.0
+Paterson River	sourceElevation	256.0
+Bluestone River	sourceElevation	1093.9272
+Black Fork (Cheat River)	sourceElevation	1139.952
+Black Fork (Cheat River)	sourceElevation	518.16
+Blackwater River (West Virginia)	sourceElevation	1095.4512
+Shavers Fork	sourceElevation	1387.7544
+Dry Fork (Cheat River)	sourceElevation	1139.952
+North Fork New River	sourceElevation	1355.1408
+Stanislaus River	sourceElevation	374.904
+Yuba River	sourceElevation	344.1192
+Buckhannon River	sourceElevation	559.9176
+Williams River (West Virginia)	sourceElevation	1186.2816
+Williams River (West Virginia)	sourceElevation	1050.9504
+Kävlinge River	sourceElevation	19.0
+Río Negro (Argentina)	sourceElevation	770.0
+Río Negro (Argentina)	sourceElevation	2800.0
+Santa Ynez River	sourceElevation	1261.872
+Agno River	sourceElevation	2090.0
+Alamo River	sourceElevation	36.0
+River Eye, Gloucestershire	sourceElevation	160.0
+Gandaki River	sourceElevation	6268.0
+Oulujoki	sourceElevation	122.0
+San Diego River	sourceElevation	228.6
+Tule River	sourceElevation	316.0776
+Neosho River	sourceElevation	441.96
+Magog River	sourceElevation	208.0
+Mullet River	sourceElevation	313.0296
+River Mimram	sourceElevation	90.0
+Methow River	sourceElevation	1730.3496
+Cranberry River (West Virginia)	sourceElevation	1185.672
+Cranberry River (West Virginia)	sourceElevation	968.0448
+Twelvepole Creek	sourceElevation	389.2296
+Twelvepole Creek	sourceElevation	181.0512
+Paulins Kill	sourceElevation	228.6
+Link River	sourceElevation	1264.6152
+Redeye River	sourceElevation	466.9536
+Tärendö River	sourceElevation	210.0
+Cheakamus River	sourceElevation	1880.0
+Squamish River	sourceElevation	1294.7904
+Elaho River	sourceElevation	1128.9792
+Mamquam River	sourceElevation	1600.0
+Chilcotin River	sourceElevation	1591.9704
+Chilko River	sourceElevation	1175.004
+Barron River (Queensland)	sourceElevation	1200.0
+Knapp Creek	sourceElevation	1102.7664
+River Stort	sourceElevation	125.0
+Quesnel River	sourceElevation	729.0816
+Bull Run River (Oregon)	sourceElevation	1298.1432
+Le Sueur River	sourceElevation	389.8392
+Watonwan River	sourceElevation	466.0392
+Maramec Spring	sourceElevation	235.906056
+River Wylye	sourceElevation	148.0
+River Yarrow (Lancashire)	sourceElevation	325.0
+Black Creek (Toronto)	sourceElevation	209.0
+River Neb	sourceElevation	320.0
+River Neb	sourceElevation	290.0
+Chalakudy River	sourceElevation	1250.0
+Piscataway Creek	sourceElevation	68.8848
+Eskilstunaån	sourceElevation	22.0
+Pas (river)	sourceElevation	1200.0
+Pas (river)	sourceElevation	1200.0
+Saru River	sourceElevation	930.0
+Little Zab	sourceElevation	3000.0
+Great Zab	sourceElevation	3000.0
+Halifax River	sourceElevation	1.524
+Buttermilk Creek (Renfrew County, Ontario)	sourceElevation	148.0
+Snake River (Renfrew County)	sourceElevation	142.0
+Târnava Mică River	sourceElevation	1190.0
+Jijia River (Prut)	sourceElevation	410.0
+Thomson River (Victoria)	sourceElevation	950.0
+Minho River	sourceElevation	695.0
+River Dyfi	sourceElevation	579.12
+River Clywedog	sourceElevation	320.0
+Petaluma River	sourceElevation	101.1936
+Raccoon River	sourceElevation	259.08
+Sulm (Germany)	sourceElevation	463.0
+River Dun (River Kennet)	sourceElevation	120.0
+Ellicott Creek	sourceElevation	304.8
+Goffle Brook	sourceElevation	123.1392
+Diamond Brook	sourceElevation	35.9664
+River Garnock	sourceElevation	522.0
+River Barle	sourceElevation	400.0
+Larrys Creek	sourceElevation	530.352
+Bahlui River	sourceElevation	500.0
+Gurghiu River	sourceElevation	1200.0
+Saline River (Illinois)	sourceElevation	106.9848
+Carbon River	sourceElevation	1089.66
+Esopus Creek	sourceElevation	810.768
+White Deer Hole Creek	sourceElevation	664.464
+Seyhan River	sourceElevation	1500.0
+Chama River (Venezuela)	sourceElevation	2500.0
+Herbert River	sourceElevation	1070.0
+Otter Creek (Vermont)	sourceElevation	762.0
+Pliva (river)	sourceElevation	1227.0
+Malibu Creek	sourceElevation	231.648
+Zulia River	sourceElevation	4220.0
+Catatumbo River	sourceElevation	3850.0
+Sespe Creek	sourceElevation	1609.344
+Nacimiento River	sourceElevation	999.744
+Santa Maria River (California)	sourceElevation	107.8992
+San Luis Rey River	sourceElevation	800.7096
+South Fork Humboldt River	sourceElevation	1760.22
+Saint-François River	sourceElevation	289.0
+Calaveras River	sourceElevation	214.884
+Pajaro River	sourceElevation	44.5008
+Otay River	sourceElevation	119.4816
+Albion River	sourceElevation	243.84
+Whitewater River (California)	sourceElevation	1459.0776
+Peche River	sourceElevation	4476.0
+San Jacinto River (California)	sourceElevation	640.08
+Sweetwater River (California)	sourceElevation	1465.7832
+Garcia River	sourceElevation	260.9088
+Gualala River	sourceElevation	573.024
+Gualala River	sourceElevation	7.0104
+Noyo River	sourceElevation	475.488
+Mad River (California)	sourceElevation	1476.756
+Mattole River	sourceElevation	542.544
+Redwood Creek (Humboldt County)	sourceElevation	1341.12
+Alameda Creek	sourceElevation	899.16
+Van Duzen River	sourceElevation	1085.088
+Dry Creek (Sonoma County, California)	sourceElevation	231.648
+Scott River	sourceElevation	950.976
+Magothy River	sourceElevation	3.048
+Piru Creek	sourceElevation	1584.96
+Baker River (Washington)	sourceElevation	1767.84
+Brokenstraw Creek	sourceElevation	563.2704
+Ridley Creek	sourceElevation	664.464
+Conneaut Creek	sourceElevation	388.0104
+Pithole Creek	sourceElevation	524.256
+Big Creek (British Columbia)	sourceElevation	1929.9936
+Symmes Creek	sourceElevation	225.552
+Cibolo Creek	sourceElevation	623.0
+Ammonoosuc River	sourceElevation	1531.62
+Yamaska River	sourceElevation	194.0
+Câlniştea River	sourceElevation	117.0
+Goose Creek (Potomac River)	sourceElevation	316.992
+Fishkill Creek	sourceElevation	146.304
+Nodaway River	sourceElevation	288.036
+St. Francis River (Minnesota)	sourceElevation	380.0856
+Sonoma Creek	sourceElevation	755.904
+Tuckasegee River	sourceElevation	1111.0
+Bear Creek (Rogue River)	sourceElevation	561.4416
+Ping River	sourceElevation	1700.0
+Nan River	sourceElevation	1240.0
+Yom River	sourceElevation	347.0
+Black River (Jamaica)	sourceElevation	230.0
+Anaktuvuk River	sourceElevation	1834.5912
+Guaporé River	sourceElevation	631.0
+La Trobe River	sourceElevation	600.0
+Rio Chama (Rio Grande)	sourceElevation	2840.736
+Chillisquaque Creek	sourceElevation	426.72
+Agus River	sourceElevation	700.0
+Peckman River	sourceElevation	190.1952
+North Saskatchewan River	sourceElevation	2080.0
+Prairie Dog Town Fork Red River	sourceElevation	1058.0
+Collawash River	sourceElevation	704.6976
+Silvies River	sourceElevation	1706.2704
+Zigzag River	sourceElevation	2168.0424
+Oil Creek (Allegheny River)	sourceElevation	676.656
+Rotla	sourceElevation	785.0
+Warm Springs River	sourceElevation	1130.808
+Seneca Creek (North Fork South Branch Potomac River)	sourceElevation	1192.3776
+Seneca Creek (North Fork South Branch Potomac River)	sourceElevation	1142.0856
+Kadalundi River	sourceElevation	1160.0
+Donner und Blitzen River	sourceElevation	1989.4296
+Russian River (California)	sourceElevation	597.408
+Kander (Switzerland)	sourceElevation	2200.0
+Elk Creek (Lake Erie)	sourceElevation	415.4424
+East Dart River	sourceElevation	510.0
+West Dart River	sourceElevation	450.0
+East Branch Brandywine Creek	sourceElevation	201.168
+Provo River	sourceElevation	3184.5504
+Kinzua Creek	sourceElevation	676.656
+Los Gatos Creek (Santa Clara County, California)	sourceElevation	990.6
+Khalkhyn Gol	sourceElevation	1443.0
+River Beane	sourceElevation	90.0
+Shawangunk Kill	sourceElevation	377.952
+Matanzas Creek	sourceElevation	603.504
+Santa Rosa Creek	sourceElevation	591.312
+River Ash, Hertfordshire	sourceElevation	115.0
+Brush Creek (Sonoma County, California)	sourceElevation	175.8696
+Abiqua Creek	sourceElevation	1015.2888
+Crab Creek	sourceElevation	832.104
+Westfield River	sourceElevation	528.5232
+Westfield River	sourceElevation	281.0256
+Laguna de Santa Rosa	sourceElevation	79.248
+Spring Creek (Sonoma County, California)	sourceElevation	371.856
+Yulupa Creek	sourceElevation	329.184
+Straight River (southern Minnesota)	sourceElevation	370.0272
+Weymouth Back River	sourceElevation	6.2484
+Ostravice (river)	sourceElevation	900.0
+Imnaha River	sourceElevation	1622.7552
+Umba River (Russia)	sourceElevation	149.0
+Graham Creek	sourceElevation	658.368
+Carriger Creek (Sonoma County, California)	sourceElevation	658.368
+Carriger Creek (Sonoma County, California)  Fowler Creek   1	sourceElevation	14.9352
+Arroyo Seco Creek	sourceElevation	409.956
+Umba River (Tanzania)	sourceElevation	2000.0
+Washoe Creek	sourceElevation	121.92
+Chockalog River	sourceElevation	133.8072
+Holland Brook	sourceElevation	113.3856
+Berens River	sourceElevation	407.0
+Lochsa River	sourceElevation	1048.8168
+Paxton Creek	sourceElevation	371.856
+Americano Creek	sourceElevation	80.772
+Americano Creek  Estero Americano   1	sourceElevation	6.096
+San Francisquito Creek	sourceElevation	106.9848
+God's River	sourceElevation	178.0
+Cares	sourceElevation	1600.0
+Deva (river)	sourceElevation	1100.0
+Čeladenka	sourceElevation	850.0
+Rio Hondo (Northern New Mexico)	sourceElevation	3304.032
+Pasión River	sourceElevation	200.0
+Ninemile Creek (Onondaga Lake)	sourceElevation	239.268
+Quinebaug River	sourceElevation	210.312
+Rio Puerco (Rio Grande)	sourceElevation	3200.4
+San Leandro Creek	sourceElevation	347.472
+Umatilla River	sourceElevation	710.7936
+Sandy Creek (Ohio)	sourceElevation	395.9352
+Elkhorn Creek (Tug Fork)	sourceElevation	815.0352
+San Mateo Creek (San Francisco Bay Area)	sourceElevation	304.8
+Broadback River	sourceElevation	380.0
+Blue Rock Springs Creek	sourceElevation	121.92
+Applegate River	sourceElevation	772.3632
+Arroyo Corte Madera del Presidio	sourceElevation	268.224
+Peribonka River	sourceElevation	800.0
+Mistassibi River	sourceElevation	575.0
+Piner Creek	sourceElevation	150.876
+Cascade Canyon	sourceElevation	2755.0872
+Arroyo Seco (Alameda County)	sourceElevation	606.552
+Glady Fork	sourceElevation	961.3392
+Glady Fork	sourceElevation	865.9368
+Calabazas Creek (Sonoma County)	sourceElevation	161.544
+Middle Fork River	sourceElevation	1109.1672
+Middle Fork River	sourceElevation	701.9544
+Ropičanka	sourceElevation	850.0
+Wolf River (Kansas)	sourceElevation	359.9688
+Arroyo Mocho	sourceElevation	963.168
+Arroyo de la Laguna	sourceElevation	96.012
+River Cegidog	sourceElevation	320.0
+Milliken Creek	sourceElevation	563.88
+Stonecoal Creek	sourceElevation	442.8744
+Hackers Creek	sourceElevation	416.6616
+Elk Creek (West Virginia)	sourceElevation	467.868
+Simpson Creek	sourceElevation	463.9056
+Tenmile Creek (West Virginia)	sourceElevation	392.8872
+Ripoll (river)	sourceElevation	640.0
+Huff Run	sourceElevation	324.9168
+Castle Frank Brook	sourceElevation	177.0
+Radbuza	sourceElevation	869.0
+Mže	sourceElevation	726.0
+Geroldsbach	sourceElevation	1.9
+Kander (Germany)	sourceElevation	1000.0
+Tolay Creek	sourceElevation	68.58
+Tionesta Creek	sourceElevation	586.74
+Sausal Creek (Alameda County, California)	sourceElevation	138.0744
+Great Whale River	sourceElevation	500.0
+Wheeling Creek (Ohio)	sourceElevation	378.5616
+Wheeling Creek (West Virginia)	sourceElevation	408.1272
+Wheeling Creek (West Virginia)	sourceElevation	252.6792
+Cerrito Creek	sourceElevation	152.4
+Casimcea River	sourceElevation	300.0
+Johnson Creek (Willamette River)	sourceElevation	227.076
+Mill Creek (western West Virginia)	sourceElevation	311.2008
+Mill Creek (western West Virginia)	sourceElevation	185.928
+Sandy Creek (West Virginia)	sourceElevation	309.0672
+Sandy Creek (West Virginia)	sourceElevation	177.0888
+Ernée (river)	sourceElevation	225.0
+River Irvine	sourceElevation	246.888
+Whitefish River (Thunder Bay District)	sourceElevation	519.0
+Galien River	sourceElevation	219.456
+Yellow River (Indiana)	sourceElevation	245.0592
+Colville River (Washington)	sourceElevation	654.1008
+Naches River	sourceElevation	1786.128
+Tieton River	sourceElevation	1903.7808
+Bumping River	sourceElevation	1266.444
+American River (Washington)	sourceElevation	1597.4568
+Big Wood River	sourceElevation	2773.68
+Malad River	sourceElevation	1054.608
+Lemhi River	sourceElevation	1814.7792
+Pahsimeroi River	sourceElevation	2360.676
+Sanpoil River	sourceElevation	833.628
+Kipawa River	sourceElevation	318.0
+Teanaway River	sourceElevation	694.944
+Yaak River	sourceElevation	1496.568
+Fisher River (Montana)	sourceElevation	1258.824
+Crooked River (Oregon)	sourceElevation	1455.42
+Wildcat Creek (California)	sourceElevation	461.772
+Chiwawa River	sourceElevation	1920.24
+Nespelem River	sourceElevation	1173.48
+Whitefish River (Sudbury District, Ontario)	sourceElevation	230.0
+Mark West Creek	sourceElevation	585.8256
+Tajuña	sourceElevation	1244.0
+River Holford	sourceElevation	249.936
+Cottonwood River (Minnesota)	sourceElevation	503.8344
+Little Cottonwood River	sourceElevation	447.1416
+Butte Creek (Oregon)	sourceElevation	1082.04
+Tryon Creek	sourceElevation	195.3768
+Nea River	sourceElevation	851.0
+Ertil River	sourceElevation	180.0
+Pomme de Terre River (Minnesota)	sourceElevation	391.0584
+Middle Fork Willamette River	sourceElevation	1692.2496
+Credit River (Minnesota)	sourceElevation	344.1192
+Yellow Bank River	sourceElevation	560.2224
+Yellow Bank River	sourceElevation	302.0568
+Long Prairie River	sourceElevation	412.3944
+Saja (river)	sourceElevation	1700.0
+Shell River (Minnesota)	sourceElevation	462.9912
+Straight River (central Minnesota)	sourceElevation	459.0288
+Fish Hook River	sourceElevation	434.0352
+Blueberry River (Minnesota)	sourceElevation	459.0288
+Kettle River (Blueberry River)	sourceElevation	472.44
+Vişeu River	sourceElevation	1409.0
+Moodna Creek	sourceElevation	140.208
+Moodna Creek	sourceElevation	91.44
+Agârcia River	sourceElevation	815.0
+Albioara River	sourceElevation	588.0
+Birchii River	sourceElevation	578.0
+Roşia River (Crişul Negru)	sourceElevation	434.0
+Drăgoteni River	sourceElevation	250.0
+Săucani River	sourceElevation	226.0
+Strâmtura River	sourceElevation	376.0
+Meziad River	sourceElevation	828.0
+Valea Slabă River (Crişul Negru)	sourceElevation	285.0
+Sohodol River (Crişul Negru)	sourceElevation	868.0
+Godinoasa River	sourceElevation	672.0
+Şoimuş River (Crişul Negru)	sourceElevation	870.0
+Talpe River	sourceElevation	397.0
+Aleu River	sourceElevation	1341.0
+Albac River (Arieş)	sourceElevation	1281.0
+Anieşul Mare River	sourceElevation	1609.0
+Anieşul Mic River	sourceElevation	1581.0
+Anieş River	sourceElevation	679.0
+Runcu River (Anieş)	sourceElevation	1135.0
+Tomnatecu River (Anieş)	sourceElevation	1214.0
+Blidăreasa River	sourceElevation	1287.0
+Valea Secii River	sourceElevation	1355.0
+Valea Ursului River (Anieş)	sourceElevation	1620.0
+Apa Râpii River	sourceElevation	1133.0
+Arada River	sourceElevation	1244.0
+Ardeluţa River (Tarcău)	sourceElevation	1400.0
+Căşăria River (Azuga)	sourceElevation	1369.0
+Limbăşelu Mare River	sourceElevation	1350.0
+Limbăşelu Mic River	sourceElevation	1306.0
+Cenuşeroaia River	sourceElevation	1440.0
+Limbăşelu River	sourceElevation	1253.0
+Pârâul Roşu (Azuga)	sourceElevation	1543.0
+Valea Turcului River (Azuga)	sourceElevation	1520.0
+Neamţu River (Valea Turcului)	sourceElevation	1846.0
+Valea Roşie River (Azuga)	sourceElevation	1541.0
+Valea Lacului Roşu River	sourceElevation	1462.0
+Cazacu River	sourceElevation	1580.0
+Unghia Mică River	sourceElevation	1665.0
+Unghia Mare River	sourceElevation	1841.0
+Urechea River	sourceElevation	1515.0
+Ştevia River (Azuga)	sourceElevation	1614.0
+Retevoi River	sourceElevation	1543.0
+Glodu River (Azuga)	sourceElevation	1378.0
+Susai River (Azuga)	sourceElevation	1408.0
+Arieşul Mare River	sourceElevation	1260.0
+Arieşul Mic River	sourceElevation	1494.0
+Arin River	sourceElevation	1189.0
+Bâsca Roziliei River	sourceElevation	1500.0
+Desaguadero River (Bolivia)	sourceElevation	3811.0
+Egiin Gol	sourceElevation	1645.0
+Chelan River	sourceElevation	335.28
+Gándara	sourceElevation	950.0
+Mowich River	sourceElevation	2133.6
+Greenwater River	sourceElevation	1786.128
+Cârţibaşu River	sourceElevation	944.0
+Zmeu River	sourceElevation	1430.0
+Măria Mare River	sourceElevation	1400.0
+Măria Mică River	sourceElevation	1073.0
+Măria River	sourceElevation	804.0
+Valea Mare River (Valea Mare)	sourceElevation	1105.0
+Valea Blaznei River	sourceElevation	1158.0
+Muddy Kill	sourceElevation	121.92
+Cârţibaşu Mare River	sourceElevation	985.0
+Salmon River (Ontario)	sourceElevation	198.0
+Aţa River	sourceElevation	1174.0
+Calfpasture River	sourceElevation	1054.608
+Avrig River	sourceElevation	2011.0
+Gilort River	sourceElevation	2340.0
+San Pablo Creek	sourceElevation	228.6
+Luţ River	sourceElevation	790.0
+Baia River (Someş)	sourceElevation	1504.0
+Izvorul Mare River (Baia)	sourceElevation	1530.0
+Izvorul Roşu River (Baia)	sourceElevation	1800.0
+Izvorul Lăzilor River	sourceElevation	1750.0
+Secu River (Baia)	sourceElevation	1261.0
+Izvorul Laptelui River	sourceElevation	1492.0
+Izvorul Mare River (Anieş)	sourceElevation	1564.0
+Izvorul Cepelor River	sourceElevation	1631.0
+Izvorul Mihăiasa River	sourceElevation	1317.0
+Izvorul Butucilor River	sourceElevation	1391.0
+Izvorul Galaţului River	sourceElevation	1774.0
+Pârâul lui Mihai (Someş)	sourceElevation	1227.0
+Cormaia River	sourceElevation	1527.0
+Valea Caselor River (Maieru)	sourceElevation	1157.0
+Valea Vinului River (Cormaia)	sourceElevation	1482.0
+Izvorul Sec River	sourceElevation	1041.0
+Izvorul Pleşilor River	sourceElevation	1007.0
+Izvorul Craiului River	sourceElevation	1535.0
+Cormeiţa River	sourceElevation	1689.0
+Măgura River (Cormaia)	sourceElevation	1072.0
+Cutele River	sourceElevation	805.0
+Beneş River (Someşul Mare)	sourceElevation	1273.0
+Valea Bătrâna River (Tarcău)	sourceElevation	1176.0
+Valea Blidarului River	sourceElevation	1111.0
+Firiza River	sourceElevation	679.0
+Valea Neagră River (Firiza)	sourceElevation	887.0
+Valea Şturului River	sourceElevation	1076.0
+Valea Poienii River (Firiza)	sourceElevation	1073.0
+Izvorul Tăului River	sourceElevation	1074.0
+Biloaia River	sourceElevation	1056.0
+Preluci River (Someşul Mare)	sourceElevation	1258.0
+Corbu River (Preluci)	sourceElevation	1369.0
+Nichitaş River	sourceElevation	1480.0
+Gaia River	sourceElevation	1540.0
+Râul Fătăciunii	sourceElevation	1230.0
+Cobăşel River	sourceElevation	1702.0
+Valea Tatălui River	sourceElevation	596.0
+Runcu River (Borcut)	sourceElevation	801.0
+Valea Boului River (Arieş)	sourceElevation	1472.0
+Jiul de Vest River	sourceElevation	1398.0
+Valea Calului River (Timiş)	sourceElevation	1011.0
+Timiş River (Olt)	sourceElevation	1100.0
+Valea Carierei River (Timiş)	sourceElevation	1400.0
+Vlădeţul Mijlociu River	sourceElevation	1134.0
+Vlădeţul Mic River	sourceElevation	961.0
+Vlădeţ River	sourceElevation	1076.0
+Pojărel River	sourceElevation	973.0
+Pojaru River (Chiva)	sourceElevation	1062.0
+Chiva River	sourceElevation	1435.0
+Şipoaia River	sourceElevation	1515.0
+Varna Mică River	sourceElevation	909.0
+Vama Mică River	sourceElevation	1231.0
+Vama Mare River	sourceElevation	1264.0
+Varna Mare River	sourceElevation	1139.0
+Valea Dragă River	sourceElevation	1218.0
+Valea Lungă River (Timiş)	sourceElevation	874.0
+Larga Mică River (Timiş)	sourceElevation	761.0
+Larga Mare River (Timiş)	sourceElevation	755.0
+Lamba Mare River	sourceElevation	1264.0
+Valea Muşuroiului River	sourceElevation	912.0
+Timişul Sec de Sus River	sourceElevation	1610.0
+Timişul Sec de Jos River	sourceElevation	1474.0
+Valea Pietrei Mici River	sourceElevation	1687.0
+Valea Pietrei Mari River	sourceElevation	1500.0
+Susai River (Timiş)	sourceElevation	1297.0
+Valea Băii River	sourceElevation	1205.0
+Lipiaşul de Sus River	sourceElevation	988.0
+Horvatca River	sourceElevation	1280.0
+Valea Căşăriei River (Sinaia)	sourceElevation	1384.0
+Plunketts Creek (Loyalsock Creek)	sourceElevation	438.912
+Durbav River	sourceElevation	694.0
+Gârbău River (Durbav)	sourceElevation	616.0
+Gârbăul Mare River	sourceElevation	940.0
+Valea Morii River (Gârbău)	sourceElevation	770.0
+Cernat River (Durbav)	sourceElevation	760.0
+Gârbăul Mic River	sourceElevation	507.0
+Ghimbăşel River	sourceElevation	658.0
+Canalul Timiş	sourceElevation	646.0
+Valea Cetăţii River (Braşov)	sourceElevation	881.0
+Şcheiu River (Canalul Timiş)	sourceElevation	1276.0
+Valea Vălgului River	sourceElevation	1045.0
+Creanga River (Firiza)	sourceElevation	971.0
+Trestia River (Firiza)	sourceElevation	973.0
+Rostoşuica River	sourceElevation	952.0
+Polomestru River	sourceElevation	867.0
+Rastoşa River	sourceElevation	1132.0
+Pistruia Mică River	sourceElevation	1059.0
+Pistruia Mare River	sourceElevation	968.0
+Pistruia River	sourceElevation	746.0
+Valea Trei Crai River	sourceElevation	597.0
+Valea Roşie River (Firiza)	sourceElevation	541.0
+Valea Vălinelor River	sourceElevation	691.0
+Jolobodiul Mare River	sourceElevation	722.0
+Corneşiţa River	sourceElevation	697.0
+Călămari River	sourceElevation	1029.0
+Botin River	sourceElevation	489.0
+Franţuşca River	sourceElevation	689.0
+Highea River	sourceElevation	439.0
+Şonioca Mare River	sourceElevation	657.0
+Seicini River	sourceElevation	706.0
+Valea Cerbului River (Prahova)	sourceElevation	2352.0
+Valea Morarului River	sourceElevation	2300.0
+Valea Seacă a Baiului River	sourceElevation	1634.0
+Sulţa River	sourceElevation	1100.0
+Valea Colţilor River	sourceElevation	1700.0
+Valea Neagră River (Crişul Negru)	sourceElevation	419.0
+Valea cu Cale River (Aleu)	sourceElevation	991.0
+Berheci River	sourceElevation	316.0
+Tarcău River	sourceElevation	1537.0
+Dobra River (Sibişel)	sourceElevation	1146.0
+Valea Muntelui River (Sibişel)	sourceElevation	948.0
+Plaiu River (Sibişel)	sourceElevation	882.0
+Sibişel River (Cibin)	sourceElevation	1098.0
+Călţunu River	sourceElevation	2012.0
+Valea Vladului River	sourceElevation	2140.0
+Puriştoaca River	sourceElevation	1209.0
+Valea Izvorului River (Şteaza)	sourceElevation	1255.0
+Zgarbura River	sourceElevation	1835.0
+Izvorul Dorului River	sourceElevation	2139.0
+Stillman Creek (Illinois)	sourceElevation	206.9592
+Sfânta Ana River	sourceElevation	1887.0
+Valea Mărului River (Prahova)	sourceElevation	1294.0
+Rindler Creek	sourceElevation	256.032
+Boarcăşu River	sourceElevation	1850.0
+Colţii lui Andrei Mari River	sourceElevation	1906.0
+Colţii lui Andrei River	sourceElevation	1213.0
+Leurda River (Crişul Pietros)	sourceElevation	460.0
+Valea Lazului River (Criş)	sourceElevation	1178.0
+Crişul Pietros River	sourceElevation	448.0
+Valea Mare River (Aleu)	sourceElevation	640.0
+Borcutul River (Săsar)	sourceElevation	519.0
+Valea Slipului River (Săsar)	sourceElevation	1000.0
+Ereş River	sourceElevation	930.0
+Valea Limpede River (Săsar)	sourceElevation	963.0
+Chiuzbaia River	sourceElevation	529.0
+Valea Mare River (Măgura)	sourceElevation	1049.0
+Refugio Creek	sourceElevation	201.168
+San Pedro Creek	sourceElevation	42.672
+Valea Lazului River (Chiuzbaia)	sourceElevation	1092.0
+Pietroasa River (Topa)	sourceElevation	363.0
+Homochitto River	sourceElevation	115.824
+Crane Creek (California)	sourceElevation	467.868
+San Pedro River (Arizona)	sourceElevation	1359.408
+Valea Mare River (Crişul Pietros)	sourceElevation	1019.0
+Lăpuş River	sourceElevation	772.0
+Izvorul Negru River (Lăpuş)	sourceElevation	1153.0
+Izvorul Alb River (Lăpuş)	sourceElevation	1120.0
+Pârâul Porcului (Lăpuş)	sourceElevation	1078.0
+Pârâul Ulmului	sourceElevation	926.0
+Izvorul Văratecului River	sourceElevation	1045.0
+Conciul River	sourceElevation	957.0
+Valea Roţii River	sourceElevation	1063.0
+Strâmbu-Băiuţ River	sourceElevation	937.0
+Valea Morii River	sourceElevation	827.0
+Pleşcuţa River	sourceElevation	952.0
+Iza River	sourceElevation	1380.0
+Pârâul de Câmpie	sourceElevation	410.0
+Valea Vizuinii River	sourceElevation	650.0
+Valea lui Mihai River (Leorda)	sourceElevation	895.0
+Valea Pascului River	sourceElevation	1025.0
+Leorda River	sourceElevation	936.0
+Bloaja River (Lăpuş)	sourceElevation	717.0
+Paltinu River (Lăpuş)	sourceElevation	905.0
+Pleşca River (Strâmbu-Băiuţ)	sourceElevation	1130.0
+Sibila River	sourceElevation	841.0
+Deluţ River (Strâmbu-Băiuţ)	sourceElevation	926.0
+San Juan Creek	sourceElevation	1554.48
+Valea Mare River (Bradu)	sourceElevation	1086.0
+Bradu River (Suciu)	sourceElevation	1350.0
+Suciu River	sourceElevation	998.0
+Larga River (Suciu)	sourceElevation	861.0
+Grumba River	sourceElevation	533.0
+Râoaia River	sourceElevation	615.0
+Rotunda River (Lăpuş)	sourceElevation	366.0
+Big Timber Creek	sourceElevation	48.1584
+Valea Nimăieştilor River	sourceElevation	361.0
+Beiuşele River	sourceElevation	852.0
+Dobricu River	sourceElevation	500.0
+Costeni River	sourceElevation	560.0
+Ungureni River (Rotunda)	sourceElevation	421.0
+Botizu River	sourceElevation	882.0
+Tocila River (Lăpuş)	sourceElevation	1036.0
+Lugton Water	sourceElevation	120.396
+Văraştina River (Botizu)	sourceElevation	810.0
+Cheia Rea River	sourceElevation	1231.0
+Sighiştel River	sourceElevation	1062.0
+Valea Comenzii River (Sădurel)	sourceElevation	1870.0
+Izvorul Negovanului River	sourceElevation	1932.0
+Clăbucetul River	sourceElevation	1632.0
+Izvorul Vacii River	sourceElevation	1540.0
+Tarniţa River (Sădurel)	sourceElevation	1328.0
+Porcu River (Sădurel)	sourceElevation	1427.0
+Porcoviţa River	sourceElevation	1246.0
+Buceciul River	sourceElevation	1518.0
+Păntuţa River	sourceElevation	1476.0
+Valea Vălcii River	sourceElevation	1457.0
+Conţu River	sourceElevation	1497.0
+Drăgăneasa River (Sadu)	sourceElevation	1076.0
+Cârligele River (Sadu)	sourceElevation	894.0
+Ciupari River	sourceElevation	991.0
+Mesteacănu River (Sadu)	sourceElevation	736.0
+Măncuţa River	sourceElevation	1062.0
+Mancu River	sourceElevation	1204.0
+Juverţelul River	sourceElevation	957.0
+Juvertul River	sourceElevation	945.0
+Negovanu River (Sadu)	sourceElevation	1549.0
+Valea Luntrei River	sourceElevation	1316.0
+Varul River	sourceElevation	862.0
+Râul Lacului	sourceElevation	1007.0
+Priboiu River	sourceElevation	686.0
+Pop River (Sadu)	sourceElevation	933.0
+Prejba River (Sadu)	sourceElevation	1058.0
+Obreşti River	sourceElevation	978.0
+Puntea River	sourceElevation	1188.0
+Valea Hoţilor River	sourceElevation	1154.0
+Valea Şindilei River	sourceElevation	1150.0
+Valea Hotarelor River	sourceElevation	964.0
+Valea Pinului River	sourceElevation	1289.0
+Valea Şesului River	sourceElevation	1190.0
+Nanu River	sourceElevation	1554.0
+Tomnatecu River (Sadu)	sourceElevation	1257.0
+Lyre River	sourceElevation	178.6128
+Valea Vârjoghii River	sourceElevation	1210.0
+Valea Bonţii River	sourceElevation	949.0
+Valea Pitarului River	sourceElevation	1472.0
+Valea Plaiului River (Sadu)	sourceElevation	1380.0
+Valea Doamnei River	sourceElevation	1358.0
+Valea lui Ivan River (Sadu)	sourceElevation	1414.0
+Valea lui Roman River (Sadu)	sourceElevation	1076.0
+Valea Rece River (Valea lui Ivan)	sourceElevation	1314.0
+Tălmăcuţa River	sourceElevation	667.0
+Brădetul River (Tălmăcuţa)	sourceElevation	741.0
+Plopul River (Tălmăcuţa)	sourceElevation	838.0
+Râuşorul (Lungşoara)	sourceElevation	1147.0
+Strungarul River	sourceElevation	1202.0
+Ştefăniţa River (Lungşoara)	sourceElevation	954.0
+Valea Porumbenilor River	sourceElevation	87.0
+Buhăescu River	sourceElevation	1905.0
+Pietrosu River (Vişeu)	sourceElevation	1825.0
+Rodeo Creek	sourceElevation	298.704
+Pinole Creek	sourceElevation	332.232
+Nicasio Creek	sourceElevation	313.944
+San Gregorio Creek	sourceElevation	97.536
+Pescadero Creek	sourceElevation	573.024
+Valea Stupului River	sourceElevation	510.0
+Sebeş River (Cibin)	sourceElevation	616.0
+Topa River	sourceElevation	436.0
+Cubleş River (Blaju)	sourceElevation	643.0
+Holod River	sourceElevation	621.0
+Tur River	sourceElevation	1144.0
+Penitencia Creek	sourceElevation	900.684
+Pârâul Argintului	sourceElevation	908.0
+Pârâul Ursului (Pârâul Argintului)	sourceElevation	880.0
+Cheoah River	sourceElevation	601.0
+Neamţ River (Moldova)	sourceElevation	827.0
+Nemţişor River	sourceElevation	1360.0
+Domesnic River	sourceElevation	1000.0
+Secu River (Neamţ)	sourceElevation	1000.0
+Bârlui River	sourceElevation	259.0
+Râul Roşu (Olteţ)	sourceElevation	111.0
+Bobu River (Olteţ)	sourceElevation	145.0
+Oltişor River	sourceElevation	207.0
+Jugălia River	sourceElevation	104.0
+Vaslui River (Oltişor)	sourceElevation	213.0
+Voiniceşti River	sourceElevation	149.0
+Porcu River (Vaslui)	sourceElevation	190.0
+Dascălu River	sourceElevation	91.0
+Cahabón River	sourceElevation	1600.0
+Paşcu River	sourceElevation	1182.0
+Hoanca Moţului River	sourceElevation	1212.0
+Fleşcuţa River	sourceElevation	1170.0
+Crăiasa River	sourceElevation	1135.0
+Sebişel River (Aleu)	sourceElevation	1381.0
+Jinsha River	sourceElevation	4500.0
+Bear River (Feather River)	sourceElevation	2512.1616
+Nicolina River (Iaşi)	sourceElevation	300.0
+Bulz River	sourceElevation	1244.0
+Valea Şerpilor River (Aleu)	sourceElevation	1219.0
+Boga River	sourceElevation	1153.0
+Pârâul Rău (Bulz)	sourceElevation	1000.0
+Păuleasa River	sourceElevation	1064.0
+Budeasa River (Galbena)	sourceElevation	1072.0
+Runc River (Criş)	sourceElevation	532.0
+Inaru River	sourceElevation	858.0
+Valea Cohului River	sourceElevation	1300.0
+Valea Mare River (Nimăieşti)	sourceElevation	1040.0
+Râul Roşu (Sirca)	sourceElevation	928.0
+Sirca River	sourceElevation	1025.0
+Valea Frapţinilor River	sourceElevation	900.0
+Pârâul Sec (Valea Mare)	sourceElevation	1141.0
+Valea Mineii River	sourceElevation	920.0
+Valea Cuciului River	sourceElevation	1270.0
+Valea Seacă River (Galbena)	sourceElevation	1291.0
+Islais Creek	sourceElevation	0.3048
+Blaju River (Holod)	sourceElevation	622.0
+Viduţa River	sourceElevation	532.0
+Topliţa River (Holod)	sourceElevation	290.0
+Valea Ţiganului River (Holod)	sourceElevation	280.0
+Valea Pietrei River (Holod)	sourceElevation	273.0
+Cornet River (Holod)	sourceElevation	354.0
+Videşti River	sourceElevation	236.0
+Valea Copilului River (Topa)	sourceElevation	510.0
+Valea Codrului River	sourceElevation	462.0
+Miniş River (Topa)	sourceElevation	412.0
+Peştiş River (Topa)	sourceElevation	498.0
+Vârciorog River (Peştiş)	sourceElevation	507.0
+Păltiniş River (Arieş)	sourceElevation	1238.0
+Micoiu River	sourceElevation	1469.0
+Drăghiţa River	sourceElevation	1107.0
+Divaia River	sourceElevation	1305.0
+Dobrani River	sourceElevation	1124.0
+Vidrişoara River	sourceElevation	1124.0
+Tazlău River	sourceElevation	282.0
+Tazlăul Mare River	sourceElevation	1249.0
+Pârâul Negru (Tazlău)	sourceElevation	1115.0
+Valea Stânei River (Izvorul Dorului)	sourceElevation	1676.0
+Valea Călugărului River	sourceElevation	1968.0
+Valea Uscată River	sourceElevation	1783.0
+Valea cu Pietriş River	sourceElevation	1700.0
+Orăştie River	sourceElevation	1451.0
+Şesul River	sourceElevation	1251.0
+Tâmpu River	sourceElevation	1302.0
+Valea Şindrilelor River	sourceElevation	1169.0
+Strâmtosu River	sourceElevation	1510.0
+Molawin River	sourceElevation	1020.0
+Pârâul Mic (Ghimbăşel)	sourceElevation	1203.0
+Pârâul Rece	sourceElevation	963.0
+Pârâul Mare (Ghimbăşel)	sourceElevation	1190.0
+Valea Cheii River (Ghimbăşel)	sourceElevation	1131.0
+Valea Şoimului River (Ghimbăşel)	sourceElevation	1041.0
+Valea Poienii River (Ghimbăşel)	sourceElevation	1342.0
+Pârâul Sărăţii	sourceElevation	455.0
+Râul Tocilelor	sourceElevation	566.0
+Mizieş River	sourceElevation	293.0
+Arini River	sourceElevation	208.0
+Valea Cerii River	sourceElevation	225.0
+Săliştea River	sourceElevation	266.0
+Tocila Mică River (Tocila Mare)	sourceElevation	922.0
+Trei Brazi River	sourceElevation	1065.0
+Crăcănel River	sourceElevation	971.0
+Valea Ploştilelor River	sourceElevation	745.0
+Valea Merelor River (Ghimbăşel)	sourceElevation	871.0
+Valea cu Afine River	sourceElevation	775.0
+Valea Golomos River	sourceElevation	841.0
+Lerint River	sourceElevation	860.0
+Valea Barbului River (Ghimbăşel)	sourceElevation	827.0
+Valea Boaru River	sourceElevation	754.0
+Udroaia River	sourceElevation	904.0
+Valea Neagră River (Ghimbăşel)	sourceElevation	894.0
+Vanga Mare River	sourceElevation	1536.0
+Vanga Mică River	sourceElevation	1424.0
+Valea Lungă River (Ghimbăşel)	sourceElevation	1056.0
+Valea Sticlăriei River	sourceElevation	960.0
+Valea Cerbului River (Ghimbăşel)	sourceElevation	1100.0
+Valea Adâncă River (Ghimbăşel)	sourceElevation	957.0
+Valea cu Noroi River	sourceElevation	949.0
+Groapa de Aur River	sourceElevation	1558.0
+Tociliţa River	sourceElevation	1082.0
+Curtis Creek	sourceElevation	0.0
+Ordâncuşa River	sourceElevation	1314.0
+Gârda Seacă River	sourceElevation	1264.0
+Valea Glăjăriei River (Ghimbăşel)	sourceElevation	1308.0
+Armăsarul River (Ghimbăşel)	sourceElevation	1401.0
+Hoar Oak Water	sourceElevation	144.78
+East Lyn River	sourceElevation	230.0
+East Lyn River	sourceElevation	260.0
+Pennsylvania Canal (West Branch Division)	sourceElevation	170.0784
+Cracu River (Tazlău)	sourceElevation	1042.0
+Sititelec River	sourceElevation	172.0
+Valea cea Mare River	sourceElevation	222.0
+Gepiu River	sourceElevation	275.0
+Varieş River	sourceElevation	181.0
+Dumbrăviţa River (Bicaci)	sourceElevation	232.0
+Valea Neagră River (Gepiu)	sourceElevation	241.0
+Valea Nesecată River	sourceElevation	245.0
+Veljul Negreştilor River	sourceElevation	123.0
+Valea din Pustă River	sourceElevation	134.0
+Veljul Mic River	sourceElevation	125.0
+Veljul Mare River	sourceElevation	153.0
+Valea Măgurii River (Topa)	sourceElevation	418.0
+Valea lui Vasile River	sourceElevation	536.0
+Valea Mare River (Topa)	sourceElevation	252.0
+Valea Lupului River (Bozani)	sourceElevation	227.0
+Bozani River	sourceElevation	419.0
+Cârpeştii Mici River	sourceElevation	293.0
+Ostaş River	sourceElevation	292.0
+Pârâul Domnului	sourceElevation	205.0
+Hidişel River (Holod)	sourceElevation	297.0
+Pârâul Dumbrăvilor	sourceElevation	209.0
+Pusta River (Crişul Negru)	sourceElevation	277.0
+Pennsylvania Canal (North Branch Division)	sourceElevation	229.8192
+Burnt River (Oregon)	sourceElevation	1165.5552
+Valea Putredă River	sourceElevation	960.0
+Valea Tei River	sourceElevation	802.0
+Valea Dracului River (Şcheiu)	sourceElevation	921.0
+Valea Seacă River (Şcheiu)	sourceElevation	963.0
+Valea cu Apă River (Şcheiu)	sourceElevation	1320.0
+Marchington River (Ontario)	sourceElevation	390.0
+Valea Nouă River (Crişul Negru)	sourceElevation	236.0
+Mădărăsău River	sourceElevation	245.0
+Maca River	sourceElevation	251.0
+Pârâu River	sourceElevation	278.0
+Fonău River	sourceElevation	285.0
+Boboşiţa River	sourceElevation	260.0
+West Lyn River	sourceElevation	400.0
+West Lyn River	sourceElevation	300.0
+Pleşu River (Siret)	sourceElevation	425.0
+Gârbovul River	sourceElevation	1149.0
+Nedeuţa River (Gârbovul)	sourceElevation	1412.0
+Nedeia River (Gârbovul)	sourceElevation	1282.0
+Prisloapele River	sourceElevation	1353.0
+Scutura River	sourceElevation	1693.0
+Mătişeşti River	sourceElevation	958.0
+Ploştini River	sourceElevation	1298.0
+Kaladan River	sourceElevation	2564.0
+Wiconisco Canal	sourceElevation	116.1288
+Potoci River (Tarcău)	sourceElevation	1068.0
+Frăsiniş River	sourceElevation	918.0
+Row River	sourceElevation	341.6808
+Washford River	sourceElevation	182.88
+Nissequogue River	sourceElevation	8.8392
+Prigoana River	sourceElevation	1703.0
+Sebeș River (Alba)	sourceElevation	38.0
+Frunteşti River	sourceElevation	298.0
+San Antonio Creek (Marin County, California)	sourceElevation	240.792
+Estero de San Antonio	sourceElevation	121.92
+Radu River (Tarcău)	sourceElevation	941.0
+Răchita River (Tarcău)	sourceElevation	1043.0
+Răchitiş River (Tarcău)	sourceElevation	1143.0
+Murgoci River	sourceElevation	1132.0
+Măieruşu River	sourceElevation	1267.0
+Dumitru River	sourceElevation	1127.0
+Cichiva River	sourceElevation	1136.0
+Căşăria River (Tărcuţa)	sourceElevation	1317.0
+Ţapu River (Tarcău)	sourceElevation	1458.0
+Tărcuţa River	sourceElevation	1302.0
+Hanu River	sourceElevation	1223.0
+Bolovăniş River (Tarcău)	sourceElevation	1019.0
+Gonţu River	sourceElevation	1383.0
+Frasinu River (Tarcău)	sourceElevation	1290.0
+Brateş River	sourceElevation	1362.0
+Hermanu River	sourceElevation	1065.0
+Lăzăroaie River	sourceElevation	1314.0
+Vancea River	sourceElevation	1439.0
+Smida River (Tarcău)	sourceElevation	940.0
+Icoana River (Aţa)	sourceElevation	1005.0
+Cujbela River	sourceElevation	1146.0
+Oanţul River	sourceElevation	991.0
+Pârâul Radului (Oanţul)	sourceElevation	1100.0
+Salmon Creek (Sonoma County, California)	sourceElevation	243.84
+Austin Creek	sourceElevation	598.932
+Pranahita River	sourceElevation	146.0
+Maacama Creek	sourceElevation	1024.128
+Maacama Creek	sourceElevation	91.44
+Atascadero Creek (Sonoma County, California)	sourceElevation	251.46
+Green Valley Creek	sourceElevation	196.596
+Răchitoasa River (Zeletin)	sourceElevation	413.0
+Zeletin River (Berheci)	sourceElevation	435.0
+Highland Creek (Toronto)	sourceElevation	186.0
+Ismar River	sourceElevation	85.0
+Bratilov River	sourceElevation	100.0
+Milcovăţ River	sourceElevation	111.0
+Sericu River	sourceElevation	136.0
+Glavacioc River	sourceElevation	181.0
+Buta Mică River	sourceElevation	1311.0
+Buta River (Jiu)	sourceElevation	1756.0
+Aliso Creek (Orange County)	sourceElevation	701.04
+Myjava (river)	sourceElevation	660.0
+Adobe Creek (near Petaluma, California)	sourceElevation	621.792
+Lichau Creek	sourceElevation	525.78
+Walker Creek (Marin County, California)	sourceElevation	60.96
+Novato Creek	sourceElevation	335.28
+Miller Creek (Marin County, California)	sourceElevation	509.016
+Middle Fork Feather River	sourceElevation	1484.9856
+Bistra River (Sebeş)	sourceElevation	1478.0
+Miraş River	sourceElevation	1467.0
+Ciban River	sourceElevation	1170.0
+Curpătul Mare River	sourceElevation	1646.0
+Umbroasa River	sourceElevation	1509.0
+Pârâul Vacii (Curpătu)	sourceElevation	1570.0
+Curpătu River	sourceElevation	1386.0
+Smidele River	sourceElevation	1490.0
+Sălănele River	sourceElevation	1595.0
+Tărtărău River (Sebeş)	sourceElevation	1718.0
+Turişoara River	sourceElevation	1550.0
+Şuşu River	sourceElevation	1543.0
+Cristeşti River (Sebeş)	sourceElevation	1710.0
+Hurdubelu River	sourceElevation	1518.0
+Gâlceag River	sourceElevation	1491.0
+Costişa River	sourceElevation	1569.0
+Ruşinosu River	sourceElevation	1336.0
+Marginea River (Ciban)	sourceElevation	1771.0
+Gropata Lungă River	sourceElevation	1794.0
+Gropata Scurtă River	sourceElevation	1755.0
+Mijlocia River	sourceElevation	1472.0
+Tortura River	sourceElevation	1608.0
+Stănina River	sourceElevation	1374.0
+Larga Mare River (Sebeş)	sourceElevation	1394.0
+Valea Mare River (Sebeş)	sourceElevation	1752.0
+Valea Mierlei River	sourceElevation	970.0
+Praia River	sourceElevation	1713.0
+Pârâul dintre Stâne	sourceElevation	1555.0
+Urlieşu River (Sebeş)	sourceElevation	1416.0
+Gardu River (Sebeş)	sourceElevation	1374.0
+Diudiu River	sourceElevation	1946.0
+South Fork Kern River	sourceElevation	3307.08
+Crasna River (Bistriţa)	sourceElevation	1114.0
+Crasniţa River	sourceElevation	756.0
+Glodu River (Secu)	sourceElevation	918.0
+Ciungi River (Secu)	sourceElevation	824.0
+Falcău River (Calul)	sourceElevation	585.0
+Călui River	sourceElevation	246.0
+Căluieţ River	sourceElevation	224.0
+Geamărtălui River	sourceElevation	320.0
+Horezu River (Geamărtălui)	sourceElevation	321.0
+Dobreţu River	sourceElevation	262.0
+Barton River	sourceElevation	295.0464
+Bucşoiu River	sourceElevation	2098.0
+Valea Rea River (Ghimbăşel)	sourceElevation	2233.0
+Mălăieşti River (Ghimbăşel)	sourceElevation	1973.0
+Dutch Bill Creek	sourceElevation	159.1056
+Bălăneasa River (Buzău)	sourceElevation	1191.0
+Bâsca Mare River	sourceElevation	1466.0
+Patacu River	sourceElevation	1225.0
+Pârâul Popii (Patacu)	sourceElevation	1261.0
+Pârâul cu Scoc	sourceElevation	1248.0
+Ghiurca Mare River (Bâsca)	sourceElevation	1384.0
+Bâsculiţa River	sourceElevation	1142.0
+Porcu River (Bâsculiţa)	sourceElevation	1483.0
+Schindufu River	sourceElevation	1465.0
+Izvorul lui Aurel River	sourceElevation	1466.0
+Izvorul lui Ştefan River	sourceElevation	1460.0
+Pârâul Stânei (Tămăşoiu)	sourceElevation	1480.0
+Tămăşoiu River	sourceElevation	1524.0
+Corâiu River	sourceElevation	1340.0
+Wheatfield Fork Gualala River	sourceElevation	518.16
+Alhambra Creek	sourceElevation	315.1632
+Oso Creek	sourceElevation	392.2776
+Koukdjuak River	sourceElevation	28.0416
+Lespezea River	sourceElevation	978.0
+Lăzeşti River	sourceElevation	1162.0
+Dobreasca River	sourceElevation	1056.0
+Măgura River (Arieş)	sourceElevation	1165.0
+Neagra River (Arieş)	sourceElevation	1095.0
+Nkusi River	sourceElevation	1160.0
+Mayanja River	sourceElevation	1100.0
+Pârâul Săcat	sourceElevation	1068.0
+Muşica River	sourceElevation	1315.0
+Neagra River (Bâsca)	sourceElevation	1230.0
+Secuiu River	sourceElevation	990.0
+Şapte Izvoare River	sourceElevation	1505.0
+Paltinu River (Bâsca)	sourceElevation	1020.0
+Zănoaga River (Bâsca)	sourceElevation	1265.0
+Gada River (Bâsca Mică)	sourceElevation	1372.0
+Ciuta Mare River	sourceElevation	1050.0
+Bălescuţu River	sourceElevation	1260.0
+Bălescu Mare River	sourceElevation	1440.0
+Brebu River (Bâsca)	sourceElevation	1340.0
+Bouţu River	sourceElevation	920.0
+Varlaam River	sourceElevation	915.0
+Tainiţa River	sourceElevation	635.0
+Tigva River	sourceElevation	940.0
+Tega River	sourceElevation	1025.0
+Fulgeriş River (Bâsca)	sourceElevation	865.0
+Gotiş River	sourceElevation	600.0
+Păltinişul Mic River	sourceElevation	1300.0
+Păltinişul Mare River	sourceElevation	960.0
+Păltiniş River (Bâsca)	sourceElevation	611.0
+Bybrook River	sourceElevation	174.9552
+Bybrook River	sourceElevation	80.01
+Succor Creek	sourceElevation	2126.2848
+Vâlcelul Dihamului River	sourceElevation	1050.0
+Vâlcelul Îndrăcit River	sourceElevation	1506.0
+Velicanul River	sourceElevation	1845.0
+Valea Ţigăneşti River	sourceElevation	1965.0
+Valea Lupilor River	sourceElevation	1091.0
+Valea lui Şmit River	sourceElevation	1135.0
+Valea lui Dobre River	sourceElevation	889.0
+Beuca River	sourceElevation	1235.0
+Pârâul Turnului (Ghimbăşel)	sourceElevation	1675.0
+Graigăru River	sourceElevation	1088.0
+Năjila River	sourceElevation	968.0
+Pârâul Sticlăriei	sourceElevation	934.0
+Bratu River (Năjila)	sourceElevation	882.0
+Valea Joaderului River	sourceElevation	871.0
+Valea Hotarului River (Valea Joaderului)	sourceElevation	870.0
+Fundata River	sourceElevation	927.0
+Valea Cetăţii River (Ghimbăşel)	sourceElevation	988.0
+Valea Popii River (Ghimbăşel)	sourceElevation	716.0
+Valea Cărbunarilor River	sourceElevation	898.0
+Valea Dobricei River	sourceElevation	731.0
+Pârâul Românilor	sourceElevation	902.0
+Bradul Înalt River	sourceElevation	919.0
+Valea Vadului River (Black Sea)	sourceElevation	67.0
+Gales Creek (Oregon)	sourceElevation	727.5576
+South Fork Republican River	sourceElevation	1574.5968
+Lechinţa River (Mureş)	sourceElevation	440.0
+Tin Brook	sourceElevation	128.016
+Pârâul Crucii (Hânsaru)	sourceElevation	669.0
+Hânsaru River	sourceElevation	700.0
+Quassaick Creek	sourceElevation	207.264
+Lynch Creek	sourceElevation	594.36
+Stugariu River	sourceElevation	565.0
+Toplicioara River (Şoimuş)	sourceElevation	615.0
+Bulloo River	sourceElevation	290.0
+Vezurişte River	sourceElevation	519.0
+Berendeşti River	sourceElevation	485.0
+Valea Semnelor River	sourceElevation	444.0
+Valea Urzicarilor River	sourceElevation	476.0
+Sighileş River	sourceElevation	528.0
+Rogoazele River	sourceElevation	509.0
+Muncelul River (Someş)	sourceElevation	1287.0
+River Tiddy	sourceElevation	240.0
+Jepii Mari River	sourceElevation	1963.0
+Vâlcelul Vârful cu Dor River	sourceElevation	1842.0
+Vâlcelul Clinului River	sourceElevation	1780.0
+Ursoaia Mare River	sourceElevation	1225.0
+Ursoaia Mică River	sourceElevation	1222.0
+Valea Pichetului River	sourceElevation	1086.0
+Sita River	sourceElevation	1313.0
+Strâmba River (Cibin)	sourceElevation	1200.0
+Căşăria River (Râiosu)	sourceElevation	89.0
+Leica River (Câlniştea)	sourceElevation	87.0
+Iordana River (Câlniştea)	sourceElevation	77.0
+Valea Viei River (Glavacioc)	sourceElevation	142.0
+Sohodolul Prelucii River	sourceElevation	626.0
+Săraz River (Crişul Negru)	sourceElevation	200.0
+Bălăşiţa River	sourceElevation	181.0
+Ungureni River (Geamărtălui)	sourceElevation	215.0
+Valea lui Brad River	sourceElevation	1166.0
+Valea Largă River (Orăştie)	sourceElevation	1224.0
+Jărosul River	sourceElevation	979.0
+Pustiosu River	sourceElevation	1066.0
+Pârâul Alb (Orăştie)	sourceElevation	1271.0
+Valea Mică River (Anineş)	sourceElevation	1107.0
+Gârbava River	sourceElevation	1175.0
+Anineş River	sourceElevation	1241.0
+Peleşel River	sourceElevation	1912.0
+Valea Zadelor River	sourceElevation	1616.0
+Valea cu Genune River	sourceElevation	1937.0
+Rush Creek (Mono County, California)	sourceElevation	3749.04
+Glodul Mare River	sourceElevation	800.0
+River Gaunless	sourceElevation	230.0
+Jinari River	sourceElevation	1441.0
+Tomnatecu River (Sebeş)	sourceElevation	1121.0
+Slatina River (Arieş)	sourceElevation	835.0
+Drahura River	sourceElevation	580.0
+Runcşor River	sourceElevation	725.0
+Merişor River (Birchii)	sourceElevation	500.0
+Pârâul Cuţilor (Roşia)	sourceElevation	493.0
+Valea Pietrei Negre River	sourceElevation	663.0
+House Creek	sourceElevation	670.56
+Arroyo Las Positas	sourceElevation	146.9136
+Osoiu River	sourceElevation	432.0
+Cagayan River (Cagayan de Oro)	sourceElevation	2286.0
+Gur Beck	sourceElevation	79.8576
+Hagon Beck	sourceElevation	45.1104
+Gens de Terre River	sourceElevation	355.0
+Lérez	sourceElevation	900.0
+River Mease	sourceElevation	130.0
+Makomanai River	sourceElevation	913.0
+Tickfaw River	sourceElevation	85.0392
+Tangipahoa River	sourceElevation	81.9912
+Fanno Creek	sourceElevation	145.6944
+Balch Creek	sourceElevation	340.1568
+Columbia Slough	sourceElevation	3.048
+Little River (Little Shuswap Lake)	sourceElevation	346.8624
+Rautas River	sourceElevation	560.0
+Poiana River (Topa)	sourceElevation	498.0
+Clyde River (Vermont)	sourceElevation	388.62
+Tchoutacabouffa River	sourceElevation	0.0
+Black River (Lake Memphremagog)	sourceElevation	265.7856
+Hylebos Creek	sourceElevation	88.392
+Oak Grove Fork Clackamas River	sourceElevation	1133.5512
+River Menalhyl	sourceElevation	150.0
+Călacea River (Gârbou)	sourceElevation	558.0
+LeBoeuf Creek	sourceElevation	432.816
+Blanco Canyon	sourceElevation	973.0
+Laguna Canyon	sourceElevation	115.824
+West Kettle River	sourceElevation	6476.0
+Thompson River (Montana)	sourceElevation	1017.1176
+Nautsiyoki River	sourceElevation	153.0
+Zapadnaya Litsa River	sourceElevation	250.0
+Kuolajoki River	sourceElevation	207.0
+Sukhaya River	sourceElevation	368.0
+Varzina River	sourceElevation	224.0
+Kutsayoki River	sourceElevation	198.0
+Karelsky Bashkaus River	sourceElevation	249.0
+Coffee Creek (Brokenstraw Creek)	sourceElevation	563.88
+Suiattle River	sourceElevation	1852.2696
+White Chuck River	sourceElevation	1764.1824
+Boulder River (Washington)	sourceElevation	1185.0624
+Pilchuck River	sourceElevation	647.7
+Chewuch River	sourceElevation	1703.832
+North Fork John Day River	sourceElevation	2275.6368
+South Fork John Day River	sourceElevation	1644.7008
+Matilija Creek	sourceElevation	1584.96
+Bicol River	sourceElevation	6.0
+Rogue River (South Yamhill River)	sourceElevation	592.836
+Glade Creek (New River)	sourceElevation	997.0008
+George River (Quebec)	sourceElevation	488.0
+Tagoloan River	sourceElevation	6.0
+Abra River	sourceElevation	6.0
+Abulog	sourceElevation	6.0
+Lysakerelven	sourceElevation	145.0
+Bridge Creek (John Day River)	sourceElevation	1930.2984
+River Mole, Devon	sourceElevation	360.0
+Gull River (Balsam Lake)	sourceElevation	457.0
+Attawapiskat River	sourceElevation	241.0
+Kovik River	sourceElevation	325.0
+Pârâul Lupului (Izvorul Dorului)	sourceElevation	1911.0
+Afon Clun	sourceElevation	260.0
+Middle Fork John Day River	sourceElevation	1296.6192
+Wenlock River	sourceElevation	500.0
+Krupá	sourceElevation	350.0
+Ducie River	sourceElevation	150.0
+Tred Avon River	sourceElevation	19.812
+Crystal Springs Creek	sourceElevation	61.8744
+Chitose River	sourceElevation	248.0
+West Highland Creek	sourceElevation	185.0
+Dairy Creek (Oregon)	sourceElevation	46.0248
+Beaver Creek (York Region)	sourceElevation	219.0
+Fairview Creek	sourceElevation	84.7344
+San Diego Creek	sourceElevation	213.36
+Little Blitzen River	sourceElevation	2735.58
+Sturgeon River (Manitoba)	sourceElevation	119.0
+Suså River	sourceElevation	90.0
+Aliso Creek (Los Angeles County)	sourceElevation	792.48
+Stjørdalselva	sourceElevation	120.0
+Teshio River	sourceElevation	1558.0
+River Cladagh	sourceElevation	145.0
+Danube	sourceElevation	1078.0
+Danube	sourceElevation	940.0
+Cârnu River	sourceElevation	99.0
+Molly Ann Brook	sourceElevation	150.876
+Slippery Rock Brook	sourceElevation	115.5192
+Sweltzer River	sourceElevation	46.0248
+Ochoco Creek	sourceElevation	1654.4544
+Walnut Creek (Lake Erie)	sourceElevation	445.008
+Little Etobicoke Creek	sourceElevation	169.0
+West Branch Schuylkill River	sourceElevation	365.76
+Clear Creek (Washington)	sourceElevation	687.324
+Great Bear River	sourceElevation	186.0
+Sloan Creek	sourceElevation	1715.7192
+Mashel River	sourceElevation	1322.832
+Dwaar Kill (Wallkill River)	sourceElevation	207.264
+North Fork Clackamas River	sourceElevation	1207.9224
+Little Mashel River	sourceElevation	862.584
+Boeing Creek	sourceElevation	115.824
+Ashlu Creek	sourceElevation	1190.8536
+Rainy River (British Columbia)	sourceElevation	1068.0
+Stawamus River	sourceElevation	1040.0
+Narewka (river)	sourceElevation	159.0
+Clendinning Creek	sourceElevation	968.9592
+Rouvre	sourceElevation	316.0
+Sankh River	sourceElevation	1000.0
+Palmer Creek (Yamhill River)	sourceElevation	316.0776
+Clowhom River	sourceElevation	1747.1136
+Derjon	sourceElevation	1470.0
+Talfer	sourceElevation	2781.0
+Tzoonie River	sourceElevation	1346.0
+Acebo	sourceElevation	359.0
+Alvares (river)	sourceElevation	248.0
+Caudal (river)	sourceElevation	256.0
+Ibias (river)	sourceElevation	1600.0
+Piloña (river)	sourceElevation	201.0
+Rodil	sourceElevation	340.0
+Cubia (river)	sourceElevation	1300.0
+Pennamaquan River	sourceElevation	22.86
+Otter Kill	sourceElevation	140.208
+Templeton River	sourceElevation	1952.8536
+Deserted River	sourceElevation	1531.0104
+North Yuba River	sourceElevation	2139.0864
+Yūbari River	sourceElevation	850.0
+Mu River (Hokkaidō)	sourceElevation	740.0
+Kushiro River	sourceElevation	121.0
+Shiribetsu River	sourceElevation	1046.0
+Tokoro River	sourceElevation	940.0
+Little Yoho River	sourceElevation	2454.8592
+Abashiri River	sourceElevation	978.0
+Greer Spring	sourceElevation	171.9072
+Emerald River	sourceElevation	1288.0848
+Lempa River	sourceElevation	1200.0
+Kolvitsa River	sourceElevation	58.0
+Elochoman River	sourceElevation	504.1392
+Sulphide Creek	sourceElevation	1768.7544
+Akan River	sourceElevation	420.0
+Course of the Rogue River (Oregon)	sourceElevation	1621.536
+Mitsuishi River	sourceElevation	280.0
+Niikappu River	sourceElevation	2052.4
+Marron River	sourceElevation	644.9568
+Sulphur Creek (California)	sourceElevation	57.912
+Elk Creek (Rogue River)	sourceElevation	1502.9688
+South Fork Rogue River	sourceElevation	1712.6712
+Coyote Creek (San Gabriel River)	sourceElevation	701.04
+Grave Creek (Oregon)	sourceElevation	1388.6688
+Robson River	sourceElevation	1673.0472
+Brea Creek	sourceElevation	210.312
+Beatty Saugeen River	sourceElevation	484.0
+Shokotsu River	sourceElevation	1557.6
+Yūbetsu River	sourceElevation	1553.0
+Rumoi River	sourceElevation	730.2
+Shiribeshi-Toshibetsu River	sourceElevation	972.6
+Bell Canyon	sourceElevation	1219.2
+Trampas Canyon	sourceElevation	243.84
+Koetoi River	sourceElevation	313.0
+Swiftcurrent Creek (British Columbia)	sourceElevation	1918.4112
+Shibetsu River	sourceElevation	1061.0
+American River	sourceElevation	2414.9304
+American River	sourceElevation	77.1144
+Sezibwa River	sourceElevation	1200.0
+South Fork Eel River	sourceElevation	762.0
+Venoge (river)	sourceElevation	700.0
+McWay Creek	sourceElevation	914.4
+Cedar Creek (South Fork Eel River)	sourceElevation	237.1344
+Williams River (New South Wales)	sourceElevation	250.0
+Galena River (Indiana)	sourceElevation	219.456
+Hondo Creek	sourceElevation	577.0
+White River (Texas)	sourceElevation	973.0
+Yellow House Draw	sourceElevation	1143.0
+Ebro	sourceElevation	1980.0
+Upper Neretva	sourceElevation	1227.0
+Latah Creek	sourceElevation	523.0368
+South Fork Trinity River	sourceElevation	1759.9152
+Little Applegate River	sourceElevation	1748.028
+North Fork Clearwater River	sourceElevation	1645.92
+Icicle Creek	sourceElevation	1426.7688
+Alexis Creek	sourceElevation	1039.9776
+New Cut (Bristol)	sourceElevation	8.2296
+Kiul River	sourceElevation	605.0
+Streatfeild River	sourceElevation	181.0
+Lawashi Channel	sourceElevation	30.0
+Clearwater River (Idaho)	sourceElevation	442.8744
+Clearwater River (Idaho)	sourceElevation	371.856
+Esva River	sourceElevation	359.0
+Pysht River	sourceElevation	411.48
+Tamsa River	sourceElevation	610.0
+Gorzente	sourceElevation	646.0
+Kollaa River	sourceElevation	117.0
+Little Butte Creek (Rogue River)	sourceElevation	502.0056
+Mells River	sourceElevation	2.0
+Hazel Brook	sourceElevation	80.1624
+Schussen	sourceElevation	585.0
+Ostrach (stream)	sourceElevation	620.0
+Oca (river)	sourceElevation	1186.0
+Kings Creek (Jock River)	sourceElevation	136.0
+Kings Creek (Mississippi River Ontario)	sourceElevation	140.0
+Adobe Creek (near Los Altos, California)	sourceElevation	792.48
+Falls Creek (California)	sourceElevation	2895.6
+Salmon Falls Creek	sourceElevation	1719.9864
+Permanente Creek	sourceElevation	737.9208
+Whitesand River (Hewitson River)	sourceElevation	527.0
+Whitesand River (Hewitson River)	sourceElevation	502.0
+Hewitson River	sourceElevation	283.0
+Whitesand River (Lake Nipigon)	sourceElevation	334.0
+Poesten Kill	sourceElevation	150.876
+Jalón (river)	sourceElevation	1192.0
+Jiloca (river)	sourceElevation	950.0
+Jiloca (river)	sourceElevation	1036.0
+Piedra (Spain)	sourceElevation	1195.0
+Mission Creek (Marion County, Oregon)	sourceElevation	53.34
+Champoeg Creek	sourceElevation	36.8808
+Siston Brook	sourceElevation	103.0224
+Siston Brook	sourceElevation	74.9808
+River Boyd	sourceElevation	130.1496
+River Malago	sourceElevation	154.8384
+Brislington Brook	sourceElevation	145.0848
+Pleasant Run (New Jersey)	sourceElevation	95.0976
+Sand Canyon Wash	sourceElevation	49.6824
+Little Sandy River (Oregon)	sourceElevation	1031.1384
+Könkämäeno	sourceElevation	473.0
+Muddy Fork (Oregon)	sourceElevation	1795.272
+Little Zigzag River	sourceElevation	2130.2472
+Winston Creek (Kenora District, Ontario)	sourceElevation	378.0
+Winston Creek (Thunder Bay District)	sourceElevation	396.0
+South Fork Bull Run River	sourceElevation	993.648
+Blackett Creek	sourceElevation	325.0
+Lam Brook	sourceElevation	199.9488
+Gauze Brook	sourceElevation	114.9096
+Tetbury Avon	sourceElevation	114.3
+Red River (New Mexico)	sourceElevation	4011.4728
+Hale Creek	sourceElevation	164.592
+Woodbridge Brook	sourceElevation	113.9952
+Bolton River (Ontario)	sourceElevation	181.0
+Brinkworth Brook	sourceElevation	99.06
+Rapid River (Algoma District, Ontario)	sourceElevation	410.0
+Cocklemore Brook	sourceElevation	149.9616
+Bolton River (Manitoba)	sourceElevation	249.0
+Mink River (Manitoba)	sourceElevation	186.0
+Wesachewan River	sourceElevation	184.0
+Wesachewan River	sourceElevation	184.0
+Ekwan River	sourceElevation	239.0
+Conotton Creek	sourceElevation	377.952
+Coyote Creek (Marin County)	sourceElevation	213.36
+Kamuiwakka River	sourceElevation	880.0
+Still Fork	sourceElevation	359.664
+Puerco River	sourceElevation	2417.064
+Matadero Creek	sourceElevation	195.072
+Little Salmon River	sourceElevation	1914.144
+Potlatch River	sourceElevation	815.0352
+Yellow House Canyon	sourceElevation	959.0
+Rottnan	sourceElevation	521.0
+Blue Jay Creek	sourceElevation	275.0
+Little Rapid River (Ontario)	sourceElevation	447.0
+Rapid River (Sudbury District, Ontario)	sourceElevation	430.0
+Rapid River (British Columbia)	sourceElevation	1173.0
+Rapid River (Cree River)	sourceElevation	572.0
+Rapid River (Alaska-Yukon)	sourceElevation	745.0
+Rapid River (Churchill River)	sourceElevation	353.0
+At-Bashi River	sourceElevation	2837.0
+Big Butte Creek	sourceElevation	683.9712
+Tripoli Creek (Kenora District, Ontario)	sourceElevation	396.0
+Drive Creek (Ontario)	sourceElevation	393.0
+Tripoli Creek (Algoma District, Ontario)	sourceElevation	424.0
+Kabinakagami River	sourceElevation	442.0
+Casummit Creek	sourceElevation	391.0
+Tar River (Kyrgyzstan)	sourceElevation	3958.0
+Gatwick Stream	sourceElevation	115.0
+Kichi-Kemin River	sourceElevation	3495.0
+Double Mountain Fork Brazos River	sourceElevation	890.0
+Manyame River	sourceElevation	1752.0
+Matabitchuan River	sourceElevation	288.0
+Kharkai River	sourceElevation	928.0
+Moore Creek (Nipissing District, Ontario)	sourceElevation	441.0
+Moore Creek (Nipissing District, Ontario)	sourceElevation	448.0
+Moore Creek (Timiskaming District, Ontario)	sourceElevation	228.0
+Partridge Creek (Ontario)	sourceElevation	368.0
+South Fork Clackamas River	sourceElevation	1208.8368
+Clare River (Ontario)	sourceElevation	189.0
+Flinton Creek	sourceElevation	244.0
+Elzevir Creek	sourceElevation	257.0
+Merrill Creek (Ontario)	sourceElevation	368.0
+Rainy Creek (Lennox and Addington County, Ontario)	sourceElevation	349.0
+Deep Creek (Victoria)	sourceElevation	760.0
+North Toe River	sourceElevation	1304.544
+Killer Creek (Ontario)	sourceElevation	344.0
+Little Skootamatta Creek	sourceElevation	224.0
+Battle Creek (California)	sourceElevation	264.5664
+Chrysal Creek	sourceElevation	176.0
+Number Ten Creek	sourceElevation	139.0
+Rio Hondo (Southern New Mexico)	sourceElevation	1615.0
+Sulphide Creek (Hastings County, Ontario)	sourceElevation	209.0
+Otter Creek (Hastings County, Ontario)	sourceElevation	256.0
+Otter Creek (Hastings County, Ontario)	sourceElevation	212.0
+Water resources management in El Salvador	sourceElevation	1200.0
+Nura River	sourceElevation	950.0
+Paint Creek (Johnson County, Kentucky)	sourceElevation	213.9696
+River Terrig	sourceElevation	370.0
+Usal Creek	sourceElevation	481.584
+Weister Creek	sourceElevation	365.76
+Punpun River	sourceElevation	300.0
+Chehalem Creek	sourceElevation	170.688
+Marsh Creek (California)	sourceElevation	719.328
+Kamala River	sourceElevation	1200.0
+Chavanga River	sourceElevation	162.0
+Boise Creek	sourceElevation	1389.888
+Montmorency River	sourceElevation	907.0
+Matsesta River	sourceElevation	900.0
+Little Cottonwood Creek	sourceElevation	3505.2
+Big Cottonwood Creek	sourceElevation	2926.08
+Carp River (Ottawa, Ontario)	sourceElevation	113.0
+Cameron Creek	sourceElevation	92.0496
+Packwood Creek	sourceElevation	82.9056
+Red Butte Creek	sourceElevation	2438.4
+Middle Fork Eel River	sourceElevation	1950.1104
+North Fork Eel River	sourceElevation	647.0904
+City Creek (California)	sourceElevation	694.944
+Course of the Willamette River	sourceElevation	133.5024
+Saratoga Creek	sourceElevation	950.976
+Cregg River	sourceElevation	20.0
+Silver Creek (Huron County, Ontario)	sourceElevation	328.0
+Little Hocking River	sourceElevation	284.0736
+Töre River	sourceElevation	89.0
+Buttermilk Creek (Lambton County, Ontario)	sourceElevation	203.0
+Alsterån	sourceElevation	219.0
+Råån	sourceElevation	70.0
+Ammerån	sourceElevation	302.0
+Miellätno	sourceElevation	756.0
+Patroon Creek	sourceElevation	75.8952
+Allan Water (Ontario)	sourceElevation	417.0
+River Eitha	sourceElevation	430.0
+Rio Escondido (Coahuila)	sourceElevation	1000.0
+Rio San Rodrigo	sourceElevation	1260.0
+Montreal River (Timiskaming District, Ontario)	sourceElevation	378.0
+Montreal River (Algoma–Sudbury, Ontario)	sourceElevation	447.0
+Rio Pueblo de Taos	sourceElevation	3447.8976
+Rio Salado (New Mexico)	sourceElevation	2435.352
+Root River (Algoma District, Ontario)	sourceElevation	335.0
+Montreal River (Saskatchewan)	sourceElevation	489.0
+Grayson Creek	sourceElevation	259.08
+Black Sturgeon River (Kenora District, Ontario)	sourceElevation	341.0
+Little Black Sturgeon River	sourceElevation	380.0
+Tatsuushi River	sourceElevation	1306.0
+Bluejay Creek	sourceElevation	346.0
+Norsälven	sourceElevation	62.0
+Firesteel River (Ontario)	sourceElevation	495.0
+Boyne River (Manitoba)	sourceElevation	465.0
+Hayes River (Nunavut)	sourceElevation	496.0
+Kagiano River	sourceElevation	377.0
+Seine River Diversion	sourceElevation	414.5
+Santa Anita Creek	sourceElevation	1402.08
+Dolia River	sourceElevation	1225.0
+River Calder, West Yorkshire	sourceElevation	400.0
+Tărâţeni River	sourceElevation	1000.0
+Mihăeţ River	sourceElevation	1040.0
+Râul Neamţului cel Mare	sourceElevation	1360.0
+Redstone River (Haliburton County, Ontario)	sourceElevation	464.0
+Redstone River (Northeastern Ontario)	sourceElevation	366.0
+Mormântul River	sourceElevation	1244.0
+Curmătura cu Tină River	sourceElevation	1189.0
+Valea Mică River (Ciupari)	sourceElevation	742.0
+Night Hawk River	sourceElevation	357.0
+Porcupine River (Ontario)	sourceElevation	277.0
+Forks River	sourceElevation	351.0
+Whitefish River (Night Hawk Lake)	sourceElevation	366.0
+Frederick House River	sourceElevation	274.0
+Meeks Creek	sourceElevation	731.52
+Whitefish River (Yukon Territory)	sourceElevation	1107.0
+Ten Mile River (California)	sourceElevation	14.9352
+Whitefish River (Berens River)	sourceElevation	445.0
+Whitefish River (Lac Seul)	sourceElevation	383.0
+Whitefish River (Manitoba)	sourceElevation	260.0
+Whitefish River (Saskatchewan)	sourceElevation	464.0
+Kochkor River	sourceElevation	2200.0
+Whitefish River (Northwest Territories)	sourceElevation	480.0
+Sabău River	sourceElevation	519.0
+Ariniş River (Agârcia)	sourceElevation	740.0
+Custuri River	sourceElevation	740.0
+Râul Grădinii	sourceElevation	755.0
+Ponor River (Râul Grădinii)	sourceElevation	516.0
+Câmpu River	sourceElevation	701.0
+Bob's Creek (Ontario)	sourceElevation	281.0
+Bobs Creek (Ontario)	sourceElevation	287.0
+Peterson Creek (Clyde River)	sourceElevation	292.0
+Peterson Creek (Cataraqui River)	sourceElevation	147.0
+Cow Creek (South Umpqua River)	sourceElevation	1219.2
+Cow Creek (South Umpqua River)	sourceElevation	732.1296
+Coca River (Slănic)	sourceElevation	331.0
+Thiou	sourceElevation	446.8
+Stâna Giurgiului River	sourceElevation	1540.0
+Boul River (Muşa)	sourceElevation	1330.0
+Giurgiu River (Bâsca Mică)	sourceElevation	1550.0
+Manişca Mare River	sourceElevation	1510.0
+Muşa River	sourceElevation	1420.0
+Fehér Bükk River	sourceElevation	1300.0
+Fehér Bükk-Csuhi János River	sourceElevation	1400.0
+Harboca Mare River	sourceElevation	1440.0
+Tisa River (Bâsculiţa)	sourceElevation	1306.0
+Vineţişu River	sourceElevation	840.0
+Valea Largă River (Bâsca Roziliei)	sourceElevation	690.0
+Aniniş River (Bâsca Roziliei)	sourceElevation	750.0
+Arboga River	sourceElevation	32.0
+Criş Collector Canal	sourceElevation	96.0
+Orăscu River	sourceElevation	152.0
+Mill Creek (Lake Erie)	sourceElevation	313.6392
+Bicaci River	sourceElevation	193.0
+Corte Madera Creek (Marin County, California)	sourceElevation	10.9728
+Trif River (Crişul Negru)	sourceElevation	197.0
+Cipciroj River	sourceElevation	274.0
+Ghezaş River	sourceElevation	285.0
+Rush Creek (Marin County, California)	sourceElevation	6.096
+Halasău River	sourceElevation	224.0
+Rebi River	sourceElevation	203.0
+Palincăria River	sourceElevation	276.0
+Hidişel River (Peţa)	sourceElevation	286.0
+Rovine River (Fonău)	sourceElevation	255.0
+Fânaţ River	sourceElevation	107.0
+Veljul Gurbediului River	sourceElevation	128.0
+Veljul Pustei River	sourceElevation	161.0
+Ulvi River	sourceElevation	184.0
+On River	sourceElevation	205.0
+Coltităt River	sourceElevation	244.0
+Rovina River	sourceElevation	186.0
+Mociar River	sourceElevation	206.0
+Casele River (Holod)	sourceElevation	196.0
+Gropi River	sourceElevation	228.0
+Bicăcel River	sourceElevation	243.0
+Dicăneşti River	sourceElevation	247.0
+Tăniav River	sourceElevation	494.0
+Miereghiţa River	sourceElevation	491.0
+Surducel River	sourceElevation	1099.0
+Râturi River	sourceElevation	380.0
+Flonti River	sourceElevation	189.0
+Valea Peşterii River (Cârpeştii Mici)	sourceElevation	258.0
+Poiana River (Stracoş)	sourceElevation	410.0
+Stracoş River	sourceElevation	419.0
+Scaduza River	sourceElevation	387.0
+Dry River (Crooked River)	sourceElevation	1794.0528
+Silver Creek (Harney County, Oregon)	sourceElevation	1776.984
+Hălăstău River	sourceElevation	227.0
+Jordan Creek (Owyhee River)	sourceElevation	2301.5448
+Trout Creek (Deschutes River)	sourceElevation	1704.7464
+Fifteenmile Creek (Columbia River)	sourceElevation	1883.0544
+North Fork Coquille River	sourceElevation	579.12
+Gullspångsälven	sourceElevation	69.0
+Willow Creek (Columbia River)	sourceElevation	1326.1848
+Tărhăuş River (Tărcuţa)	sourceElevation	1377.0
+Valea Oiţei River	sourceElevation	1061.0
+Bully Creek (Malheur River)	sourceElevation	1303.9344
+Bulătău River	sourceElevation	1134.0
+Toroglej River	sourceElevation	1068.0
+Howqua River	sourceElevation	1680.0
+South Fork Coquille River	sourceElevation	1039.368
+South Fork Crooked River	sourceElevation	1456.6392
+Râul Cheii (Tarcău)	sourceElevation	1264.0
+Butter Creek (Oregon)	sourceElevation	1534.3632
+Rock Creek (John Day River)	sourceElevation	1326.1848
+West Little Owyhee River	sourceElevation	1983.6384
+Rattlesnake Creek (Oregon)	sourceElevation	1962.6072
+Dry Creek (Crooked Creek)	sourceElevation	1524.0
+Crooked Creek (Oregon)	sourceElevation	1195.1208
+Willow Creek (Malheur River)	sourceElevation	1135.0752
+Cow Creek (Jordan Creek)	sourceElevation	2148.2304
+Corte Madera Creek (San Mateo County, California)	sourceElevation	670.56
+Meleiuş River	sourceElevation	1022.0
+Râul Crucii (Brateş)	sourceElevation	1057.0
+Burghfield Brook	sourceElevation	95.0
+Clayhill Brook	sourceElevation	95.0
+The Teg	sourceElevation	90.0
+North Fork American River	sourceElevation	2418.588
+Scridoasa River	sourceElevation	841.0
+Cizma Mare River	sourceElevation	1017.0
+West End Brook	sourceElevation	103.0
+Valea Pietrei Albe River	sourceElevation	619.0
+Bucoi River	sourceElevation	331.0
+Prisaca River (Crişul Negru)	sourceElevation	215.0
+Strivinosu River	sourceElevation	293.0
+Izvorul Corbului River	sourceElevation	1493.0
+Mesteacănu River (Strâmbu-Băiuţ)	sourceElevation	778.0
+Cenuşaru River	sourceElevation	92.0
+Râul De Margine	sourceElevation	124.0
+Râul Frasinilor	sourceElevation	626.0
+Secătura River (Lăpuş)	sourceElevation	620.0
+Ursoaia River (Lăpuş)	sourceElevation	600.0
+Zâmbriţa River	sourceElevation	668.0
+Red Clover Creek	sourceElevation	2014.728
+Marcal	sourceElevation	240.0
+Enoşeşti River	sourceElevation	134.0
+Valea Adâncă River (Oltişor)	sourceElevation	215.0
+Arţăroasa River	sourceElevation	153.0
+Valea Pustie River	sourceElevation	832.0
+Chicera River (Cârţibaşu Mare)	sourceElevation	1177.0
+Covăcia River	sourceElevation	915.0
+Prisaca River (Pleşca)	sourceElevation	1200.0
+Valea Lungă River (Durbav)	sourceElevation	769.0
+Coşoaia River	sourceElevation	100.0
+Ciormolina River	sourceElevation	934.0
+Pintii River (Ciormolina)	sourceElevation	987.0
+Valea Mică River (Râul Roşu)	sourceElevation	146.0
+Valea Mare River (Râul Roşu)	sourceElevation	148.0
+Fagu River (Valea Mare)	sourceElevation	145.0
+Bucur River	sourceElevation	737.0
+Oboieni River	sourceElevation	693.0
+Elliot Water	sourceElevation	213.36
+Mezărei River	sourceElevation	856.0
+Râul cu Cale	sourceElevation	735.0
+Râul Peşterii	sourceElevation	562.0
+Dumbrăviţa River (Meziad)	sourceElevation	608.0
+Tartar river	sourceElevation	3120.0
+Los Trancos Creek	sourceElevation	633.984
+Dreaju River	sourceElevation	94.0
+Căldăraru River	sourceElevation	122.0
+Râoaia Mare River	sourceElevation	911.0
+Râoaia Mică River	sourceElevation	909.0
+Bear Creek (San Francisquito Creek)	sourceElevation	655.32
+Căpriţa River	sourceElevation	256.0
+Ioaniş River	sourceElevation	171.0
+Plaiu River (Nimăieşti)	sourceElevation	859.0
+Burău River	sourceElevation	895.0
+Puţul Bătrân River	sourceElevation	117.0
+Călăneşti River	sourceElevation	101.0
+Ciolpani River	sourceElevation	104.0
+Vârtej River	sourceElevation	104.0
+Valea Albă River (Câlniştea)	sourceElevation	93.0
+Puţul Butii River	sourceElevation	83.0
+Puţul lui Andrei River	sourceElevation	92.0
+Maniţa River	sourceElevation	92.0
+Levçay	sourceElevation	1284.0
+Ağdabançay	sourceElevation	881.0
+Turağayçay	sourceElevation	682.0
+Singureni River	sourceElevation	83.0
+Natashquan River	sourceElevation	630.0
+Liliacul River	sourceElevation	670.0
+Râul Titului	sourceElevation	697.0
+Sălătrucoasa River	sourceElevation	600.0
+Sunătoarea River (Râoaia)	sourceElevation	830.0
+Minghet River	sourceElevation	784.0
+Hij River	sourceElevation	961.0
+Drăgoieşti River	sourceElevation	620.0
+Valea Luncii River (Beiuşele)	sourceElevation	750.0
+Fagu River (Cârligele)	sourceElevation	987.0
+Mutu River	sourceElevation	99.0
+Şarpele River	sourceElevation	96.0
+West River (Ontario)	sourceElevation	221.0
+Cioha River	sourceElevation	1200.0
+Ciucileni River	sourceElevation	885.0
+Libărţana River	sourceElevation	1347.0
+North Fork Payette River	sourceElevation	1854.0984
+Râul Peştelui	sourceElevation	1005.0
+Iedera River	sourceElevation	433.0
+Periac River	sourceElevation	724.0
+Clocotiş River	sourceElevation	174.0
+Racoviţa River (Olteţ)	sourceElevation	179.0
+Ruo Shui	sourceElevation	3650.0
+Shule River	sourceElevation	5000.0
+Gomboş River	sourceElevation	955.0
+Valea Lungă River (Arieşul Mic)	sourceElevation	913.0
+Griff Creek	sourceElevation	2557.272
+Lupoaia River (Suciu)	sourceElevation	538.0
+Unguraşul River (Lupoaia)	sourceElevation	454.0
+Trestia River (Periac)	sourceElevation	560.0
+Balaura River	sourceElevation	159.0
+Balaura Mare River	sourceElevation	169.0
+Balaura Mică River	sourceElevation	175.0
+Verzasca River	sourceElevation	2864.0
+Râșdaș River	sourceElevation	1384.0
+Carp River (Lăcăuţi)	sourceElevation	1545.0
+Lăcăuţi River	sourceElevation	1532.0
+Mașa-Bașa River	sourceElevation	1540.0
+Samur River	sourceElevation	3648.0
+White River (California)	sourceElevation	2072.64
+Taudor River	sourceElevation	88.0
+Cornetu River (Taudor)	sourceElevation	88.0
+Damian River	sourceElevation	82.0
+Bârloaia River (Suciu)	sourceElevation	605.0
+Dobra River (Suciu)	sourceElevation	626.0
+Ciungiu River	sourceElevation	696.0
+Valea lui Saleu River	sourceElevation	533.0
+Hoghimaş River	sourceElevation	1571.0
+Cuţan River	sourceElevation	1309.0
+Reghin River	sourceElevation	1352.0
+Ţiganu River (Bâsca Mare)	sourceElevation	1448.0
+Balta Lungă River	sourceElevation	143.0
+Balta Râioasă River	sourceElevation	150.0
+Trout Creek (Lake Tahoe)	sourceElevation	2630.424
+Gubandru River	sourceElevation	184.0
+Drăchicova River	sourceElevation	183.0
+Râul Satului (Bălăşiţa)	sourceElevation	185.0
+Preoteasa River	sourceElevation	82.0
+Siliştea River (Valea Porumbenilor)	sourceElevation	86.0
+Şerpoaia River	sourceElevation	601.0
+Prihodiştea River (Larga)	sourceElevation	604.0
+Topliţa River (Bâsca Mare)	sourceElevation	1215.0
+Mahoş River	sourceElevation	1100.0
+Pârâul Adânc (Bâsca Mare)	sourceElevation	1124.0
+Pawnee River	sourceElevation	864.108
+Big Lost River	sourceElevation	2090.928
+Little Lost River	sourceElevation	1859.28
+Stephens Creek (Oregon)	sourceElevation	142.3416
+Negurici River	sourceElevation	175.0
+Gomuşa River	sourceElevation	200.0
+Strâmba River (Ungureni)	sourceElevation	165.0
+Birău River	sourceElevation	1014.0
+Lom River (Cârligătura)	sourceElevation	1078.0
+Corboaia River	sourceElevation	235.0
+Vârnava River	sourceElevation	191.0
+Valea Rea River (Bulz)	sourceElevation	1320.0
+Plaiu River (Bulz)	sourceElevation	911.0
+Călărăşanca River	sourceElevation	84.0
+Buciumeni River (Ismar)	sourceElevation	84.0
+Strâmba River (Geamărtălui)	sourceElevation	202.0
+Vlaşca River	sourceElevation	191.0
+Râul Ţigăncii	sourceElevation	186.0
+Oşelu River	sourceElevation	995.0
+Bulbuci River	sourceElevation	1150.0
+Valea Ţiganului River (Valea Seacă)	sourceElevation	1155.0
+Chino Creek	sourceElevation	237.744
+Luncşoru River	sourceElevation	202.0
+Valea lui Dan River (Ungureni)	sourceElevation	200.0
+Vârtopu River	sourceElevation	210.0
+Gorgota River	sourceElevation	191.0
+Ţibleş River (Bradu)	sourceElevation	1686.0
+Prelucele River	sourceElevation	1467.0
+Hudin River	sourceElevation	1246.0
+Şaroş River (Bâsca Mare)	sourceElevation	1177.0
+Dealul Bătrân River	sourceElevation	1260.0
+Dârnăul Mic River	sourceElevation	1050.0
+Beţaş River	sourceElevation	1285.0
+North Fork Kings River	sourceElevation	3438.144
+Fagu River (Crăiasa)	sourceElevation	1048.0
+Sibişoara River	sourceElevation	1202.0
+Cucuj River	sourceElevation	83.0
+Tiuleţ River	sourceElevation	83.0
+Mihalache River	sourceElevation	88.0
+Dârnăul Mare River	sourceElevation	1049.0
+Cosma River	sourceElevation	1094.0
+Cireşu River (Bâsca Mare)	sourceElevation	1028.0
+Trout Creek (Truckee River)	sourceElevation	1996.44
+San Antonio Creek (Vandenburg Air Force Base)	sourceElevation	426.72
+Crişan River (Galbena)	sourceElevation	1168.0
+Vânătoru River	sourceElevation	1232.0
+Ghiula River (Bâsca Mare)	sourceElevation	1136.0
+Prisaca River (Prigoana)	sourceElevation	1447.0
+Fericet River	sourceElevation	1121.0
+Lămăşoaia River	sourceElevation	1284.0
+Buhot River	sourceElevation	1100.0
+Râul Bisericii	sourceElevation	214.0
+Gruiţa River	sourceElevation	220.0
+Valea Căşii River	sourceElevation	1550.0
+Hudeasa River	sourceElevation	781.0
+Râul Subţire	sourceElevation	819.0
+Râul Ciutei	sourceElevation	692.0
+Vădureţi River	sourceElevation	692.0
+Valea Frumoasă River	sourceElevation	1143.0
+Ioviz River	sourceElevation	1112.0
+Mica River	sourceElevation	1309.0
+Surducul Mare River	sourceElevation	1209.0
+Albele River (Ismar)	sourceElevation	85.0
+Ciolanu River	sourceElevation	84.0
+Căpitanu River	sourceElevation	85.0
+Dani River	sourceElevation	84.0
+Olteneasa River	sourceElevation	800.0
+Hijlor River	sourceElevation	840.0
+Gârdicioaia River	sourceElevation	1195.0
+Izvorul Fântânii River	sourceElevation	1098.0
+Hayfork Creek	sourceElevation	1539.8496
+Sams River	sourceElevation	847.344
+Snahapish River	sourceElevation	224.028
+Solleks River	sourceElevation	826.008
+Leurda River (Geamărtălui)	sourceElevation	219.0
+Tabaci River	sourceElevation	198.0
+Valea lui Dan River (Geamărtălui)	sourceElevation	232.0
+North Fork Trinity River	sourceElevation	1737.36
+Captalan River	sourceElevation	860.0
+South Fork Kings River	sourceElevation	3764.8896
+Paltin River (Bâsca Mare)	sourceElevation	1269.0
+Coriile Mari River	sourceElevation	1206.0
+Coriile Mici River	sourceElevation	1198.0
+Neyinzaya River	sourceElevation	2671.0
+Mogoş River	sourceElevation	85.0
+Pimoreanca River	sourceElevation	82.0
+Patrani River	sourceElevation	82.0
+Seaca River (Ismar)	sourceElevation	80.0
+Şatra River	sourceElevation	672.0
+Râul Peştilor	sourceElevation	593.0
+Romaine River	sourceElevation	685.0
+White River (British Columbia)	sourceElevation	2360.0
+Tocila Mare River (Râul Tocilelor)	sourceElevation	1088.0
+Tocila Mică River (Râul Tocilelor)	sourceElevation	989.0
+Verdalselva	sourceElevation	41.0
+Inna (Verdal)	sourceElevation	415.0
+Helgåa	sourceElevation	361.0
+Valea Seacă River (Azuga)	sourceElevation	1224.0
+Colnici River	sourceElevation	765.0
+Găiţa River	sourceElevation	252.0
+Orga Mare River	sourceElevation	218.0
+Mijlociul River	sourceElevation	286.0
+Râul Crucii (Crişul Pietros)	sourceElevation	356.0
+Cocean River	sourceElevation	1189.0
+Paltinu River (Sebeş)	sourceElevation	1437.0
+Mişu River	sourceElevation	917.0
+Vâlcea River	sourceElevation	853.0
+Popasele River	sourceElevation	982.0
+Râcu River	sourceElevation	89.0
+Râul Rotund	sourceElevation	81.0
+Ogarca River	sourceElevation	82.0
+Pietrele River (Cormaia)	sourceElevation	1398.0
+Breaza River (Geamărtălui)	sourceElevation	224.0
+Bejanul River	sourceElevation	281.0
+Meiele River	sourceElevation	227.0
+Gardu River (Geamărtălui)	sourceElevation	235.0
+Sohodolul Chifului River	sourceElevation	891.0
+Măgura River (Sighiştel)	sourceElevation	991.0
+Frăsineasa River	sourceElevation	767.0
+Mill Creek (Mono Lake)	sourceElevation	3169.92
+Gotu River	sourceElevation	1277.0
+Tumtum River	sourceElevation	310.2864
+Valea Ţiganilor River	sourceElevation	1210.0
+Spurcatu River	sourceElevation	1296.0
+Câmpul Ascuns River	sourceElevation	85.0
+Ascâtar River	sourceElevation	83.0
+Izvorul Rece River (Ungureni)	sourceElevation	626.0
+Izvorul Coşului River	sourceElevation	568.0
+Izvorul Bârlogului River	sourceElevation	558.0
+Izvorul Mare River (Ungureni)	sourceElevation	499.0
+Płonia River	sourceElevation	48.0
+Chinit River	sourceElevation	502.0056
+Gunoaia River	sourceElevation	442.0
+Izvorul Bârledelor River	sourceElevation	1507.0
+Izvorul Durcăreţului River	sourceElevation	1062.0
+Kwango River	sourceElevation	502.0056
+Rogojina River	sourceElevation	223.0
+Godeanu River (Dobreţu)	sourceElevation	194.0
+Valea Lungă River (Valea Neagră)	sourceElevation	419.0
+Corlatu River	sourceElevation	1136.0
+Lee Vining Creek	sourceElevation	3236.0616
+Vulturu River	sourceElevation	1273.0
+Poliţa River	sourceElevation	872.0
+Căprioara River (Vulturu)	sourceElevation	1240.0
+Viile River	sourceElevation	82.0
+Bujonescu River	sourceElevation	77.0
+Cărbunaru River	sourceElevation	88.0
+Găvanu River	sourceElevation	87.0
+Carpinteria Creek	sourceElevation	1054.608
+Horton River (Canada)	sourceElevation	584.0
+Purul River	sourceElevation	408.0
+Big Tujunga Creek	sourceElevation	1758.0864
+Copper Creek (California)	sourceElevation	1826.3616
+Copper Creek (California)	sourceElevation	716.28
+Runc River (Costeni)	sourceElevation	739.0
+Stoiceni River	sourceElevation	540.0
+Green River (North Fork Toutle River)	sourceElevation	1452.372
+Sepik	sourceElevation	2170.0
+Târnava Mare River	sourceElevation	1455.0
+Big Sandy Creek (Cheat River)	sourceElevation	687.6288
+Bharathappuzha	sourceElevation	2461.0
+Pine River (Manistee River)	sourceElevation	335.8896
+Râul Negru (Gârbava)	sourceElevation	1306.0
+Ulmul River (Gârbava)	sourceElevation	1144.0
+Peel Watershed	sourceElevation	416.3568
+Oyabe River	sourceElevation	1572.0
+Valea Boţului River	sourceElevation	350.0
+Valea Salciei River	sourceElevation	301.0
+Bărboasa River	sourceElevation	284.0
+Godineşti River	sourceElevation	346.0
+Mulidişu River	sourceElevation	1053.0
+Valea Tătarilor River	sourceElevation	980.0
+Cuţitura River	sourceElevation	997.0
+Valea Mare River (Horezu)	sourceElevation	221.0
+Echoing River	sourceElevation	184.0
+Sturgeon River (Black Bay Peninsula)	sourceElevation	244.0
+Sturgeon River (Simcoe County)	sourceElevation	273.0
+Sturgeon River (Saskatchewan)	sourceElevation	728.0
+Sturgeon River (Prince Edward Island)	sourceElevation	72.0
+Baldhead River (Ontario)	sourceElevation	415.0
+Bald Head River (Newfoundland)	sourceElevation	96.0
+Vermilion River (Lac Seul)	sourceElevation	366.0
+Vermilion River (Sudbury District)	sourceElevation	425.0
+Agnes River (Spanish River)	sourceElevation	406.0
+Holly River	sourceElevation	890.016
+Holly River	sourceElevation	284.988
+Congost River	sourceElevation	1007.9736
+Thompson River (Missouri)	sourceElevation	414.528
+Union Creek (Rogue River)	sourceElevation	1659.3312
+Pistol River	sourceElevation	968.9592
+Millicoma River	sourceElevation	7.62
+East Fork Millicoma River	sourceElevation	585.5208
+Saasen (Reiskirchen)  Wieseck   1	sourceElevation	25.0
+West Fork Millicoma River	sourceElevation	462.9912
+South Fork Coos River	sourceElevation	154.5336
+Pasquatchai River	sourceElevation	185.0
+Sachigo River	sourceElevation	272.0
+Loire (river)	sourceElevation	1408.0
+Winchuck River	sourceElevation	49.9872
+River Muzizi	sourceElevation	1300.0
+River Kafu	sourceElevation	1100.0
+Arroyo Seco (Salinas River)	sourceElevation	1670.304
+Trail Creek (Lake Michigan)	sourceElevation	185.928
+Yarrowee River	sourceElevation	520.0
+East Arm Little Calumet River	sourceElevation	234.696
+Salt Creek (Little Calumet River)	sourceElevation	219.456
+San Antonio Creek (San Bernardino County)	sourceElevation	2865.12
+San Anselmo Creek	sourceElevation	365.76
+Waterfalls Canyon	sourceElevation	2791.968
+Cascade Creek (San Anselmo Creek)	sourceElevation	323.088
+Larkspur Creek	sourceElevation	268.224
+Guadalupe Valley	sourceElevation	298.704
+Tosor River	sourceElevation	3770.0
+Little Choptank River	sourceElevation	0.0
+Frog Mortar Creek	sourceElevation	9.144
+Corsica River	sourceElevation	0.0
+Bird River	sourceElevation	40.8432
+Boundary Channel	sourceElevation	0.0
+New Fork River	sourceElevation	3002.28
+Brown's Creek (St. Croix River)	sourceElevation	302.3616
+Purisima Creek (Santa Clara County)	sourceElevation	195.072
+Alice River (Queensland)	sourceElevation	405.0
+MacFarlane River (Ontario)	sourceElevation	345.0
+Ohanapecosh River	sourceElevation	1844.04
+Canyon River (Ontario)	sourceElevation	373.0
+Santa Clara River (Utah)	sourceElevation	2081.784

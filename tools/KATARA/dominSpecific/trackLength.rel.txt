@@ -1,0 +1,355 @@
+Hejaz Railway	trackLength	1320000.0
+Rhaetian Railway  Rhätische Bahn   1	trackLength	384000.0
+Hankyu Railway	trackLength	138400.0
+Tōkaidō Main Line	trackLength	713600.0
+Keretapi Tanah Melayu	trackLength	1699000.0
+Canadian National Railway	trackLength	3.28306176E7
+Konkan Railway	trackLength	738000.0
+London and North Eastern Railway	trackLength	1.060557696E7
+Austrian Federal Railways  Mariazell Railway   1	trackLength	84000.0
+Mount Washington Cog Railway	trackLength	4828.032
+Panama Canal Railway	trackLength	76604.7744
+Betuweroute	trackLength	160000.0
+Seikan Tunnel	trackLength	53850.0
+West Central Railway Zone (India)	trackLength	2911000.0
+Surrey Iron Railway	trackLength	14484.096
+Japanese National Railways	trackLength	2.14211E7
+Rimutaka Incline	trackLength	4828.032
+Leek and Manifold Valley Light Railway	trackLength	12874.752
+South Central Railway Zone (India)	trackLength	5734000.0
+Chicago Tunnel Company	trackLength	96560.64
+Exhibition railway line	trackLength	3400.0
+Ferny Grove railway line	trackLength	16100.0
+Airport railway line, Brisbane	trackLength	15900.0
+Doomben railway line	trackLength	9900.0
+Shorncliffe railway line	trackLength	20700.0
+Caboolture railway line	trackLength	49570.0
+Altamont Commuter Express	trackLength	0.0
+Cleveland railway line	trackLength	37300.0
+Taiwan Railway Administration	trackLength	1117900.0
+Northeast Corridor Line	trackLength	91893.5424
+Blue and Green Lines (Cleveland)	trackLength	28968.192
+Main Line (NJ Transit)	trackLength	152900.0
+Great North of Scotland Railway	trackLength	537520.896
+North Wales Narrow Gauge Railways	trackLength	19312.128
+Snailbeach District Railways	trackLength	4828.032
+Ashover Light Railway	trackLength	11265.408
+Glyn Valley Tramway	trackLength	12874.752
+Volk's Electric Railway	trackLength	1609.344
+West Lancashire Light Railway	trackLength	393.192
+Bergen County Line	trackLength	152900.0
+Rail transport in Victoria	trackLength	1712000.0
+Nashville, Chattanooga and St. Louis Railway	trackLength	1678545.792
+MBTA Commuter Rail	trackLength	634081.536
+Georgia and Florida Railway (2005)	trackLength	477975.168
+Llanberis Lake Railway	trackLength	4023.36
+Morristown Line	trackLength	92300.0
+North Jersey Coast Line	trackLength	104600.0
+Princeton Branch	trackLength	4500.0
+TransAdelaide    1	trackLength	120000.0
+Disneyland Railroad	trackLength	1931.2128
+State Railway of Thailand	trackLength	4070000.0
+Carson and Colorado Railway	trackLength	482803.2
+Toronto Civic Railways	trackLength	36000.0
+Beenleigh railway line	trackLength	40100.0
+Gold Coast railway line	trackLength	89450.0
+Greenford Branch Line	trackLength	4345.2288
+Sandy River and Rangeley Lakes Railroad	trackLength	180246.528
+Bridgton and Saco River Railroad	trackLength	33796.224
+West Chester and Philadelphia Railroad	trackLength	42454.49472
+Senseki Line	trackLength	50200.0
+Walt Disney World Railroad	trackLength	2382.6216
+Old Colony Railroad	trackLength	992965.248
+Hungarian State Railways	trackLength	7606000.0
+Jōban Line	trackLength	368000.0
+Hanko–Hyvinkää railway	trackLength	149000.0
+SouthWest Service	trackLength	65339.3664
+Abbey Light Railway	trackLength	1207.008
+New Haven Line	trackLength	119091.456
+Vestfold Line	trackLength	166000.0
+Southwold Railway	trackLength	12874.752
+Little Eaton Gangway	trackLength	8046.72
+Dakar–Niger Railway	trackLength	1287000.0
+Ruislip Lido Railway	trackLength	2414.016
+Ōu Main Line	trackLength	486300.0
+Roslagsbanan	trackLength	65000.0
+Weston, Clevedon and Portishead Light Railway	trackLength	22208.9472
+Alabama and Florida Railway	trackLength	69201.792
+Bantan Line	trackLength	65700.0
+Østfold Line	trackLength	241000.0
+Edaville Railroad	trackLength	3218.688
+Durango and Silverton Narrow Gauge Railroad	trackLength	72420.48
+Hudson Line (Metro-North)	trackLength	119091.456
+New Canaan Branch	trackLength	13200.0
+Port Jervis Line	trackLength	152887.68
+Tōbu Isesaki Line	trackLength	114500.0
+Chattahoochee and Gulf Railroad	trackLength	38946.1248
+Chattahoochee and Gulf Railroad  Chattahoochee Bay Railroad   1	trackLength	45383.5008
+Conecuh Valley Railroad	trackLength	24204.53376
+Georgia Southwestern Railroad	trackLength	376586.496
+Jones and Laughlin Steel Company	trackLength	396.24
+Mount Rainier Scenic Railroad	trackLength	11265.408
+Gallitzin Tunnel	trackLength	1100.9376
+Lidingöbanan	trackLength	9200.0
+Rhyl Miniature Railway	trackLength	1609.344
+Plynlimon and Hafan Tramway	trackLength	11265.408
+Orange Line (Dallas Area Rapid Transit)	trackLength	22530.816
+Hoved Line	trackLength	112000.0
+Duquesne Incline	trackLength	243.84
+Red Line (Cleveland)	trackLength	30577.536
+Evansville Western Railway	trackLength	200363.328
+Hagerman Tunnel	trackLength	658.6728
+Busk–Ivanhoe Tunnel	trackLength	2863.2912
+Purple Line (Maryland)	trackLength	26232.3072
+Baltimore Metro Subway	trackLength	54717.696
+Paris Métro Line 2	trackLength	12400.0
+Paris Métro Line 3	trackLength	11700.0
+Paris Métro Line 4	trackLength	10600.0
+Paris Métro Line 13	trackLength	24300.0
+Pacific Harbor Line, Inc.	trackLength	28968.192
+Uetsu Main Line	trackLength	274400.0
+Tanana Valley Railroad	trackLength	72420.48
+Chattahoochee Valley Railway	trackLength	15288.768
+Duffield Bank Railway	trackLength	1609.344
+Three Notch Railroad	trackLength	57936.384
+Wiregrass Central Railroad	trackLength	31382.208
+Lostwithiel and Fowey Railway	trackLength	7644.384
+Newquay and Cornwall Junction Railway	trackLength	5037.24672
+Corinda via South Brisbane railway line	trackLength	14500.0
+Broad Gauge Metallurgy Line	trackLength	600000.0
+Indiana Rail Road	trackLength	249448.32
+Great Laxey Mine Railway	trackLength	1609.344
+University Line (UTA TRAX)	trackLength	6115.5072
+Georgia Woodlands Railroad	trackLength	27841.6512
+Heart of Georgia Railroad	trackLength	352446.336
+Pittsburgh, Harmony, Butler and New Castle Railway	trackLength	189902.592
+TasRail (1978–2004)	trackLength	5.008278528E7
+Great Whipsnade Railway	trackLength	3218.688
+Lelystad–Zwolle railway	trackLength	50000.0
+Toledo, Peoria and Western Railway	trackLength	397507.968
+China Railways	trackLength	7.7050562688E7
+Freight Australia	trackLength	5.008278528E7
+Pittsburgh Railways	trackLength	643737.6
+Pittsburgh Railways	trackLength	975262.464
+Coast Line (Denmark)	trackLength	92000.0
+Grimsby and Immingham Electric Railway	trackLength	8046.72
+Nambour and Gympie North railway line	trackLength	172210.0
+Cooperstown and Charlotte Valley Railroad	trackLength	25749.504
+Tren a las Nubes	trackLength	434000.0
+Maroochydore railway line	trackLength	109000.0
+Ferrocarril Central Andino	trackLength	535000.0
+Russian Railways	trackLength	8.6E7
+Buckfastleigh, Totnes and South Devon Railway	trackLength	16141.72032
+Sakurajima Line	trackLength	4100.0
+Memphis and Charleston Railroad	trackLength	500505.984
+West Cornwall Railway	trackLength	41617.63584
+Dallas, Garland and Northeastern Railroad	trackLength	374977.152
+Eaton Hall Railway	trackLength	7242.048
+Picc-Vic tunnel	trackLength	4425.696
+Egyptian National Railways	trackLength	5063000.0
+Hendre-Ddu Tramway	trackLength	4828.032
+Pentewan Railway	trackLength	6437.376
+Bowaters Paper Railway	trackLength	16093.44
+Metropolitan Water Board Railway	trackLength	4828.032
+Kerry Tramway	trackLength	4828.032
+Jersey Railway	trackLength	11265.408
+Davington Light Railway	trackLength	4828.032
+Great Bush Railway	trackLength	1609.344
+Furzebrook Railway	trackLength	5632.704
+Kettering Ironstone Railway	trackLength	4828.032
+Redruth and Chasewater Railway	trackLength	14484.096
+Crewe Works Railway	trackLength	758.952
+Trefor Quarry railway	trackLength	1609.344
+Little Ormes Head Quarry tramway	trackLength	1609.344
+Alford and Sutton Tramway	trackLength	12874.752
+Naples–Portici railway	trackLength	7250.0
+Peach Bottom Railway	trackLength	32186.88
+Torbay and Brixham Railway	trackLength	3331.34208
+Franklin and Megantic Railway	trackLength	23335.488
+Phillips and Rangeley Railroad	trackLength	45061.632
+Martha's Vineyard Railroad	trackLength	14484.096
+Nantucket Railroad	trackLength	14484.096
+Green Mountain Cog Railway	trackLength	1770.2784
+The Loop (Chicago Transit Authority)	trackLength	3218.688
+Moretonhampstead and South Devon Railway	trackLength	19875.3984
+Colne Valley Waterworks railway	trackLength	1609.344
+Sakura-dōri Line	trackLength	19100.0
+Rhiwbach Tramway	trackLength	4828.032
+Jokioinen Museum Railway	trackLength	14200.0
+Penlee Quarry railway	trackLength	1609.344
+Bee Line Railroad	trackLength	16093.44
+West Side Lumber Company railway	trackLength	112654.08
+Society for the Preservation of Carter Railroad Resources	trackLength	1609.344
+City Tunnel (Malmö)	trackLength	28000.0
+East Cornwall Mineral Railway	trackLength	12874.752
+Vale of Neath Railway	trackLength	70811.136
+Porthgain Railway	trackLength	571.5
+Bryn Oer Tramway	trackLength	12874.752
+Llynvi and Ogmore Railway	trackLength	43452.288
+South Devon Railway Company	trackLength	85053.8304
+Tyholt Tunnel	trackLength	2700.0
+Haytor Granite Tramway	trackLength	16093.44
+Oslo Port Line	trackLength	2200.0
+Singsaker Line	trackLength	4500.0
+Elgeseter Line	trackLength	5000.0
+Sandy Ridge and Clear Lake Railway	trackLength	1219.2
+Assiniboine Valley Railway	trackLength	1127.76
+Sekihoku Main Line	trackLength	257800.0
+Hakubi Line	trackLength	138400.0
+Penang Hill Railway	trackLength	2220.0
+Meijō Line	trackLength	26400.0
+Meikō Line	trackLength	6000.0
+Higashiyama Line	trackLength	20600.0
+Tsurumai Line	trackLength	20400.0
+Götatunneln	trackLength	1600.0
+Melling Branch	trackLength	2990.0
+Jersey Eastern Railway	trackLength	9656.064
+Aerotrain (KLIA)	trackLength	1200.0
+Cowlyd Tramway	trackLength	6437.376
+Skøyen–Filipstad Line	trackLength	4000.0
+Cedryn Quarry Tramway	trackLength	6437.376
+Portsdown and Horndean Light Railway	trackLength	8046.72
+Deeside Tramway	trackLength	4828.032
+Creekmoor Light Railway	trackLength	804.672
+Oresund Line	trackLength	76000.0
+Continental Line	trackLength	39000.0
+Knoxville Incline	trackLength	805.8912
+Trento-Malè-Marilleva railway	trackLength	66000.0
+Pickens Railway	trackLength	59545.728
+Greenville and Western Railway	trackLength	20503.04256
+Cyprus Government Railway	trackLength	122310.144
+Erie and Pittsburgh Railroad	trackLength	133575.552
+Middlebere Plateway	trackLength	5632.704
+Carolina Piedmont Railroad	trackLength	54717.696
+Barking Park	trackLength	340.0
+Robertson Tunnel	trackLength	4988.9664
+Japanese Government Railways	trackLength	1.84E7
+San'yō Railway	trackLength	667716.8256
+Armenian Railways	trackLength	845000.0
+Crane Creek Lumber Company	trackLength	26554.176
+Yadkin Valley Railroad	trackLength	149668.992
+Weesp–Leiden railway	trackLength	30000.0
+Susquehanna and Eagles Mere Railroad	trackLength	37819.584
+Athabasca Northern Railway	trackLength	325000.0
+Kintetsu Tawaramoto Line	trackLength	10100.0
+Nanao Line	trackLength	87500.0
+Örkaggens Järnväg	trackLength	2301.36192
+Hawkhurst Branch Line	trackLength	17702.784
+Mexico City Metro Line 1	trackLength	18828.0
+Guntur Railway Division	trackLength	619000.0
+Mexico City Metro Line 2	trackLength	23431.0
+South Side Elevated Railroad	trackLength	31221.2736
+Paw Paw Railroad	trackLength	6437.376
+McCarran International Airport Automated People Movers	trackLength	434.52288
+McCarran International Airport Automated People Movers	trackLength	1046.0736
+Ludington and Northern Railway	trackLength	4490.06976
+Warrington Corporation Tramways	trackLength	11007.91296
+Cripple Creek and Victor Narrow Gauge Railroad	trackLength	6437.376
+Lackawanna and Bloomsburg Railroad	trackLength	128747.52
+Lillesand–Flaksvand Line	trackLength	18150.0
+Sand Hutton Miniature Railway	trackLength	1942.478208
+West Penn Railways	trackLength	545567.616
+Shimizukō Line	trackLength	8300.0
+Pine Belt Southern Railroad	trackLength	68236.1856
+Suigun Line	trackLength	147000.0
+Cuyahoga Valley Scenic Railroad	trackLength	82076.544
+Lviv Railways	trackLength	4521000.0
+Flats Industrial Railroad  former ConRail/PennCentralClark branch and DK yar  1	trackLength	6437.376
+Utah Division (D&RGW)	trackLength	534785.0112
+Kyūshū Railway	trackLength	712617.5232
+Puget Sound Electric Railway	trackLength	320903.1936
+Georgia and Alabama Railroad	trackLength	127138.176
+Georgian Railways	trackLength	1323900.0
+Southern Alabama Railroad	trackLength	24204.53376
+Royal Victoria Railway	trackLength	1609.344
+Västlänken	trackLength	8000.0
+Rothesay and Ettrick Bay Light Railway	trackLength	8046.72
+Purbeck miniature railway	trackLength	250.0
+Pittsburgh and Castle Shannon Railroad	trackLength	10460.736
+Castle Shannon Incline	trackLength	411.48
+Myanmar Railways	trackLength	5403000.0
+Turn Hole Tunnel	trackLength	274.32
+Newport and Shermans Valley Railroad	trackLength	49358.58048
+Pittsburgh Southern Railway	trackLength	59545.728
+Yangon Circular Railway	trackLength	45900.0
+Moreton Bay Rail Link	trackLength	40100.0
+Miller's line  Societies of the Sestroretsk railway   1	trackLength	9500.0
+Dubki horse-iron road	trackLength	2500.0
+Washington Run Railroad	trackLength	6437.376
+Baltimore and Ohio Short Line Railroad	trackLength	54717.696
+Railway electrification in Iran	trackLength	2200000.0
+East Norfolk Railway	trackLength	40233.6
+Chemins de Fer Syriens	trackLength	2423000.0
+Nippon Railway	trackLength	1385323.3152
+Kirkstead and Little Steeping Railway	trackLength	24140.16
+Lowestoft Corporation Tramways	trackLength	6566.12352
+Wolverton to Newport Pagnell Line	trackLength	6437.376
+Shoranur – Cochin Harbour section	trackLength	106000.0
+Blenheim Park Railway	trackLength	914.4
+Nizam's Guaranteed State Railway	trackLength	564879.744
+Hyderabad-Godavari Valley Railways	trackLength	629253.504
+Manchester Corporation Tramways	trackLength	469928.448
+Manchester Corporation Tramways	trackLength	262323.072
+Chemins de Fer Ottomans d'Anatolie	trackLength	1023000.0
+Chemin de Fer Moudania Brousse	trackLength	41000.0
+Sugar House Streetcar	trackLength	4409.60256
+A-train (Denton County Transportation Authority)	trackLength	0.0
+Tren del Sur	trackLength	6437.376
+Dresdner Parkeisenbahn	trackLength	7200.0
+Cotton Belt Rail Line	trackLength	108952.5888
+Ramona Branch	trackLength	4071.64032
+East Waterford Lumber Company	trackLength	12874.752
+Laurinburg and Southern Railroad	trackLength	45061.632
+Turkish State Railways	trackLength	1.0991E7
+Pittsburgh and Castle Shannon Plane	trackLength	259.08
+Coal Hill Coal Railroad	trackLength	2414.016
+El Paso and Northeastern Railway	trackLength	262323.072
+Petit train de banlieue	trackLength	80000.0
+Dakar-Saint-Louis railway	trackLength	265000.0
+Salisbury and Yeovil Railway	trackLength	64373.76
+Soviet Railways	trackLength	1.474E8
+Azerbaijan State Railways	trackLength	2932000.0
+Somerset Railroad (Maine)	trackLength	146450.304
+Carmarthenshire Railway	trackLength	18507.456
+Old Rouen tramway	trackLength	76000.0
+South Carolina Central Railroad	trackLength	99779.328
+Hatfield and St Albans Railway	trackLength	9656.064
+Pittsburgh, Knoxville & St. Clair Electric Railroad	trackLength	3218.688
+Banbury to Verney Junction Branch Line	trackLength	34198.56
+İstanbul Line	trackLength	25270.0
+Hedjaz Jordan Railway	trackLength	1320000.0
+Chemin de Fer de Hedjaz Syrie	trackLength	135700.0
+İZBAN	trackLength	80000.0
+Pensacola and Atlantic Railroad	trackLength	259104.384
+Knoxville and Holston River Railroad	trackLength	30545.34912
+Nash County Railroad	trackLength	23657.3568
+Gulf and Mississippi Railroad	trackLength	1147462.272
+Atlantic and Gulf Railroad (1991–1999)	trackLength	123919.488
+Greenville and Northern Railway	trackLength	18185.5872
+Andalusia and Conecuh Railroad	trackLength	14001.2928
+Georgia Great Southern Railroad	trackLength	38946.1248
+Columbia and Silver Creek Railroad	trackLength	46188.1728
+Lexington and Ohio Railroad (1996–2003)	trackLength	24140.16
+Morehead and South Fork Railroad	trackLength	15288.768
+Caney Fork and Western Railroad	trackLength	98169.984
+Belorussian Railways	trackLength	5491000.0
+Oregon Portage Railroad	trackLength	8046.72
+Faversham miniature railway	trackLength	1609.344
+Wellington and Manawatu Railway Company	trackLength	135000.0
+PO Corrèze	trackLength	94600.0
+Hoosier Heritage Port Authority	trackLength	59545.728
+Louisville, New Albany and Corydon Railroad	trackLength	12391.9488
+Louisville, New Albany and Corydon Railroad  Louisville, New Albany and Corydon Railway  1	trackLength	12391.9488
+Lucas Oil Rail Line	trackLength	12391.9488
+Boot Hill and Western Railway	trackLength	42000.0
+Norwich Electric Tramways	trackLength	24397.65504
+Ipswich Corporation Tramways	trackLength	17413.10208
+Colchester Corporation Tramways	trackLength	9237.63456
+Oregon and Northwestern Railroad	trackLength	80789.0688
+Luton Corporation Tramways	trackLength	8449.056
+Lansing Manufacturers Railroad	trackLength	8272.02816
+Great Yarmouth Corporation Tramways	trackLength	15996.87936
+Peterborough Tramways	trackLength	8545.61664
+Southend-on-Sea Corporation Tramways	trackLength	14838.15168
+M4 (İstanbul Metro)	trackLength	48441.2544
+M4 (İstanbul Metro)	trackLength	48500.0

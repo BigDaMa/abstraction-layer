@@ -1,0 +1,1867 @@
+London Underground	passengersPerDay	3
+London Underground	passengersPerDay	3
+Massachusetts Bay Transportation Authority	passengersPerDay	1220900
+Toronto Transit Commission	passengersPerDay	2487000
+Paris Métro	passengersPerDay	4500000
+Bay Area Rapid Transit	passengersPerDay	341151
+Moscow Metro	passengersPerDay	6550000
+SkyTrain (Vancouver)	passengersPerDay	381100
+Scarborough RT	passengersPerDay	39320
+Washington Metro	passengersPerDay	590625
+Washington Metro	passengersPerDay	771055
+MAX Light Rail	passengersPerDay	126200
+Warsaw Metro	passengersPerDay	553000
+Madrid Metro	passengersPerDay	627000000
+Portland Streetcar	passengersPerDay	11900
+TriMet	passengersPerDay	321100
+San Francisco Municipal Railway	passengersPerDay	686000
+Manchester Metrolink	passengersPerDay	56000
+CityRail	passengersPerDay	1000000
+MTR	passengersPerDay	3943000
+MTR	passengersPerDay	562000
+Hong Kong Tramways	passengersPerDay	240000
+Caltrain	passengersPerDay	41442
+Metropolitan Atlanta Rapid Transit Authority	passengersPerDay	482500
+Metropolitan Atlanta Rapid Transit Authority	passengersPerDay	259900
+Metropolitan Atlanta Rapid Transit Authority	passengersPerDay	220900
+Cobb Community Transit	passengersPerDay	10392
+List of Montreal Metro stations	passengersPerDay	1050800
+Tren Urbano	passengersPerDay	40000
+New York City Subway	passengersPerDay	4395063
+New York City Subway	passengersPerDay	5156913
+Dallas Area Rapid Transit	passengersPerDay	228300
+Midland Metro	passengersPerDay	14000
+Seoul Metropolitan Subway	passengersPerDay	5600000
+Port Authority Trans-Hudson	passengersPerDay	246000
+New Jersey Transit	passengersPerDay	940877
+New Jersey Transit	passengersPerDay	392613
+New Jersey Transit	passengersPerDay	216375
+Supertram (Sheffield)	passengersPerDay	36000
+Metropolitan Transit Authority of Harris County	passengersPerDay	278900
+Metropolitan Transit Authority of Harris County  METRORail   1	passengersPerDay	35000
+METRORail	passengersPerDay	34155
+Red Line (MBTA)	passengersPerDay	178657
+Kowloon Motor Bus	passengersPerDay	2700000
+Bucharest Metro	passengersPerDay	800000
+GO Transit	passengersPerDay	217000
+Maryland Transit Administration	passengersPerDay	359705
+Los Angeles County Metropolitan Transportation Authority	passengersPerDay	1401117
+Tyne and Wear Metro	passengersPerDay	112000
+Stockholm Metro	passengersPerDay	1122000
+Philippine National Railways	passengersPerDay	10000
+Ōsaki Station	passengersPerDay	123918
+Ōsaki Station	passengersPerDay	93326
+West Coast Express	passengersPerDay	10500
+Mumbai Suburban Railway	passengersPerDay	6950000
+Streetcars in New Orleans	passengersPerDay	17600
+Yamanote Line	passengersPerDay	3232190
+Metropolitan Transportation Authority (New York)	passengersPerDay	11574566
+Ebisu Station (Tokyo)  Ebisu   1	passengersPerDay	137826
+Ebisu Station (Tokyo)  Ebisu   2	passengersPerDay	99683
+Tokyo Metro	passengersPerDay	6220000
+Virginia Railway Express	passengersPerDay	17300
+Osaka Municipal Subway	passengersPerDay	2260000
+Chicago 'L'	passengersPerDay	650000
+Helsinki Metro	passengersPerDay	199339
+Mass Rapid Transit (Singapore)	passengersPerDay	1952000
+Athens Metro	passengersPerDay	1150000
+Grand River Transit	passengersPerDay	40000
+Green Line (MBTA)	passengersPerDay	237700
+PATCO Speedline	passengersPerDay	38000
+Hiawatha Line	passengersPerDay	33500
+Orange Line (MBTA)	passengersPerDay	182071
+JTA Skyway	passengersPerDay	1700
+Metra	passengersPerDay	301200
+Metra	passengersPerDay	121800
+Carmelit	passengersPerDay	8000
+C-TRAN (Washington)	passengersPerDay	6201190
+C-TRAN (Washington)	passengersPerDay	215357
+C-TRAN (Washington)	passengersPerDay	14086
+Glasgow Subway	passengersPerDay	37260
+Glasgow Subway	passengersPerDay	36055
+Glasgow Subway	passengersPerDay	39698
+BTS Skytrain	passengersPerDay	500000
+Tokyo subway	passengersPerDay	8700000
+Foothill Transit	passengersPerDay	41096
+Prague Metro	passengersPerDay	1472000
+Dublin Bus	passengersPerDay	500000
+Yellow Line (Chicago Transit Authority)	passengersPerDay	4980
+Red Line (Chicago Transit Authority)	passengersPerDay	248844
+Orange Line (Chicago Transit Authority)	passengersPerDay	55787
+Trinity Railway Express	passengersPerDay	9800
+Blue Line (Chicago Transit Authority)	passengersPerDay	154012
+Brown Line (Chicago Transit Authority)	passengersPerDay	98307
+Green Line (Chicago Transit Authority)	passengersPerDay	65156
+Purple Line (Chicago Transit Authority)	passengersPerDay	39799
+Blue Line (MBTA)	passengersPerDay	66933
+MARC Train	passengersPerDay	33300
+Ochanomizu Station	passengersPerDay	107205
+TransMilenio	passengersPerDay	1600000
+Berlin U-Bahn	passengersPerDay	1360000
+Berlin S-Bahn	passengersPerDay	1060000
+Copenhagen Metro	passengersPerDay	137000
+Norristown High Speed Line	passengersPerDay	9743
+Egged	passengersPerDay	25267
+Osaka Monorail	passengersPerDay	100602
+Long Island Bus	passengersPerDay	109878
+Ankara Metro	passengersPerDay	20
+Ankara Metro	passengersPerDay	175000
+Ankara Metro	passengersPerDay	20
+Ankara Metro	passengersPerDay	135660
+Silver Line (MBTA)	passengersPerDay	14709
+Miami-Dade Transit	passengersPerDay	391000
+Miami-Dade Transit  Metrobus   1	passengersPerDay	293000
+Tri-Rail	passengersPerDay	9879
+Metromover	passengersPerDay	30700
+Metromover	passengersPerDay	96000
+Metromover	passengersPerDay	8270000
+AC Transit	passengersPerDay	236000
+Sheppard line	passengersPerDay	47700
+Toronto subway and RT	passengersPerDay	948100
+Metrolink (Southern California)	passengersPerDay	41000
+Beijing Subway	passengersPerDay	7240000
+Bloor–Danforth line	passengersPerDay	495280
+Yonge–University–Spadina line	passengersPerDay	714210
+Kiev Metro	passengersPerDay	1380000
+Northstar Line	passengersPerDay	2100
+OC Transpo	passengersPerDay	535600
+Metro Transit (Minnesota)	passengersPerDay	252300
+Hudson–Bergen Light Rail	passengersPerDay	43000
+São Paulo Metro	passengersPerDay	3600000
+Luas	passengersPerDay	70000
+Mumbai Metro	passengersPerDay	513338
+MetroLink (St. Louis)	passengersPerDay	61573
+Santa Clara Valley Transportation Authority	passengersPerDay	102123
+Shanghai Metro	passengersPerDay	5550000
+Atami Station	passengersPerDay	9157
+Atami Station	passengersPerDay	5000
+Kōzu Station (Kanagawa)	passengersPerDay	6575
+Chigasaki Station	passengersPerDay	55990
+Fujisawa Station	passengersPerDay	102629
+Fujisawa Station	passengersPerDay	151985
+Fujisawa Station	passengersPerDay	20916
+Ōfuna Station	passengersPerDay	92839
+Sagamino Station	passengersPerDay	37516
+Shizuoka Station	passengersPerDay	60372
+Shin-Fuji Station (Shizuoka)	passengersPerDay	5017
+Mishima Station	passengersPerDay	29882
+Kakegawa Station	passengersPerDay	11738
+Hamamatsu Station	passengersPerDay	37250
+Buffalo Metro Rail	passengersPerDay	23200
+Ashmont–Mattapan High Speed Line	passengersPerDay	6684
+C-Train	passengersPerDay	267500
+RTA Rapid Transit	passengersPerDay	19300
+RTA Rapid Transit	passengersPerDay	10800
+OnTrack	passengersPerDay	75
+Seattle Center Monorail	passengersPerDay	7000
+TheBus (Honolulu)	passengersPerDay	215305
+Mejiro Station	passengersPerDay	40472
+WestCAT	passengersPerDay	8897
+Higashi-Totsuka Station	passengersPerDay	57523
+County Connection	passengersPerDay	11627
+BAT Community Connector	passengersPerDay	2090
+Sound Transit	passengersPerDay	78400
+Tama Toshi Monorail Line	passengersPerDay	120494
+Tachikawa Station	passengersPerDay	158123
+Caracas Metro	passengersPerDay	2000000
+Altamont Commuter Express	passengersPerDay	3700
+Katase-Enoshima Station	passengersPerDay	18066
+Mexico City Metro	passengersPerDay	3860000
+London Buses	passengersPerDay	6
+Taipei Metro	passengersPerDay	1574000
+Kaohsiung Mass Rapid Transit	passengersPerDay	135098
+Broad Street Line	passengersPerDay	136650
+Central Corridor (Minnesota)	passengersPerDay	42170
+S-train	passengersPerDay	357000
+Mass Rapid Transit System (Chennai)	passengersPerDay	76800
+Hillsborough Area Regional Transit	passengersPerDay	40000
+Northeast Corridor Line	passengersPerDay	53798
+Wenshan Line (TRTS)	passengersPerDay	91400
+AirTrain JFK	passengersPerDay	11384
+AirTrain (SFO)	passengersPerDay	123000
+Blue and Green Lines (Cleveland)	passengersPerDay	12400
+Santiago Metro	passengersPerDay	2300000
+Main Line (NJ Transit)	passengersPerDay	9160
+Buenos Aires Metro	passengersPerDay	1700000
+Futako-Tamagawa Station	passengersPerDay	103061
+Coaster (San Diego)	passengersPerDay	4300
+King County Metro	passengersPerDay	400457
+Numazu Station	passengersPerDay	22623
+Tammachi Station	passengersPerDay	13538
+Companhia Paulista de Trens Metropolitanos	passengersPerDay	2200000
+Bee-Line Bus System	passengersPerDay	108923
+Lynx (transportation)	passengersPerDay	84061
+UTA TRAX	passengersPerDay	43400
+Transportation in Los Angeles	passengersPerDay	3800000
+Vienna U-Bahn	passengersPerDay	1300000
+Cardinal (train)	passengersPerDay	342
+Cardinal (train)	passengersPerDay	107053
+Munich S-Bahn	passengersPerDay	800000
+Munich U-Bahn	passengersPerDay	990000
+Bergen County Line	passengersPerDay	4305
+Pyongyang Metro	passengersPerDay	300000
+Jacksonville Transportation Authority	passengersPerDay	28220
+Heartland Flyer	passengersPerDay	224
+Heartland Flyer	passengersPerDay	81749
+Ōsaka Abenobashi Station	passengersPerDay	175002
+Spokane Transit Authority	passengersPerDay	40176
+SamTrans	passengersPerDay	68410
+California High-Speed Rail	passengersPerDay	91
+Wuppertal Schwebebahn	passengersPerDay	82000
+Line A (Buenos Aires Metro)	passengersPerDay	307188
+Line C (Buenos Aires Metro)	passengersPerDay	338618
+Line D (Buenos Aires Metro)	passengersPerDay	440384
+Line H (Buenos Aires Metro)	passengersPerDay	14093
+Line H (Buenos Aires Metro)	passengersPerDay	23852
+Line E (Buenos Aires Metro)	passengersPerDay	135549
+Line B (Buenos Aires Metro)	passengersPerDay	412882
+Morristown Line	passengersPerDay	50000
+Tama-Plaza Station	passengersPerDay	68934
+North Jersey Coast Line	passengersPerDay	17862
+Downeaster	passengersPerDay	1311
+Metrorail (Miami)	passengersPerDay	65300
+Metrorail (Miami)	passengersPerDay	96000
+Lakeshore West line	passengersPerDay	52230
+Milton line	passengersPerDay	22353
+Georgetown line	passengersPerDay	15649
+Barrie line	passengersPerDay	8952
+Richmond Hill line	passengersPerDay	7950
+Stouffville line	passengersPerDay	10058
+Lakeshore East line	passengersPerDay	42852
+Vermonter	passengersPerDay	242
+Vermonter	passengersPerDay	86245
+Lyon Metro	passengersPerDay	708232
+Kitakyūshū Monorail	passengersPerDay	31700
+Shenzhen Metro	passengersPerDay	342000
+Edmonton Transit System	passengersPerDay	354440
+Market–Frankford Line	passengersPerDay	180060
+Okinawa Monorail	passengersPerDay	35000
+Sounder commuter rail	passengersPerDay	9761
+Las Vegas Monorail	passengersPerDay	14107
+IRT Lexington Avenue Line	passengersPerDay	1300000
+Muni Metro	passengersPerDay	151300
+Incheon Subway	passengersPerDay	199527
+Oslo Metro	passengersPerDay	268000
+BMT Broadway Line	passengersPerDay	1300000
+Sofia Metro	passengersPerDay	190
+Guangzhou Metro	passengersPerDay	4
+Guangzhou Metro	passengersPerDay	8
+N Judah	passengersPerDay	45252
+MBTA Bus	passengersPerDay	378500
+L Taraval	passengersPerDay	29842
+M Ocean View	passengersPerDay	28671
+K Ingleside	passengersPerDay	32746
+J Church	passengersPerDay	16695
+MiWay	passengersPerDay	108350
+Golden Gate Transit	passengersPerDay	21110
+RTC Transit	passengersPerDay	190000
+San Diego Trolley	passengersPerDay	91284
+Kanayama Station (Aichi)  JR Kanayama   1	passengersPerDay	56759
+Kanayama Station (Aichi)  Meitetsu Kanayama   1	passengersPerDay	73167
+Kanayama Station (Aichi)  Nagoya Municipal Subway Kanayama   1	passengersPerDay	71314
+Elektriraudtee	passengersPerDay	8438
+Metro Bilbao	passengersPerDay	238356
+Brampton Transit	passengersPerDay	45400
+Poma 2000	passengersPerDay	2500
+Saint Petersburg Metro	passengersPerDay	2300000
+Raritan Valley Line	passengersPerDay	12113
+Greater Dayton Regional Transit Authority	passengersPerDay	36000
+Walt Disney World Monorail System	passengersPerDay	250000
+Kawagoe Station  Kawagoe   1	passengersPerDay	120505
+Hampton Roads Transit	passengersPerDay	52845
+New York City Transit buses	passengersPerDay	2400000
+MTA Bus Company	passengersPerDay	362230
+Toronto streetcar system	passengersPerDay	285600
+Budapest Metro	passengersPerDay	1270000
+Hamburg U-Bahn	passengersPerDay	564000
+Société de transport de Montréal	passengersPerDay	2524500
+Morgantown Personal Rapid Transit	passengersPerDay	16000
+Manila Light Rail Transit System	passengersPerDay	600000
+O-Train	passengersPerDay	14200
+Monterrey Metro	passengersPerDay	370600
+List of Monterrey metro stations	passengersPerDay	370600
+Metro Rail (Los Angeles County)	passengersPerDay	301501
+Lowell Line	passengersPerDay	12569
+Coast Mountain Bus Company	passengersPerDay	730000
+Green Line "C" Branch	passengersPerDay	14522
+Green Line "B" Branch	passengersPerDay	30745
+Green Line "D" Branch	passengersPerDay	20960
+SEPTA Subway–Surface Trolley Lines	passengersPerDay	80996
+Cardiff Bus	passengersPerDay	95000
+Harlem Line	passengersPerDay	43076
+Sacramento Regional Transit District	passengersPerDay	33000000
+Sacramento Regional Transit District  Sacramento RT Light Rail   1	passengersPerDay	50000
+Warabi Station	passengersPerDay	59872
+Réseau de transport de la Capitale	passengersPerDay	62000
+SMRT Buses	passengersPerDay	790466
+Fairmount Line	passengersPerDay	1843
+Union Pacific/North Line	passengersPerDay	41000
+Union Pacific/West Line	passengersPerDay	30200
+Union Pacific/Northwest Line	passengersPerDay	42900
+BNSF Railway Line	passengersPerDay	63200
+512 St. Clair	passengersPerDay	31000
+Framingham/Worcester Line	passengersPerDay	17596
+Fitchburg Line	passengersPerDay	9898
+Big Blue Bus	passengersPerDay	56283
+North Central Service	passengersPerDay	5600
+Milwaukee District/North Line	passengersPerDay	24500
+Heritage Corridor	passengersPerDay	2700
+Milwaukee District/West Line	passengersPerDay	22100
+SouthWest Service	passengersPerDay	9500
+Rock Island District	passengersPerDay	32100
+Metra Electric District	passengersPerDay	39000
+New Haven Line	passengersPerDay	112000
+Urban Ring Project (MBTA)	passengersPerDay	282000
+Société de transport de Laval	passengersPerDay	55069
+Port Authority of Allegheny County	passengersPerDay	203103
+Memphis Area Transit Authority	passengersPerDay	11000000
+Milwaukee County Transit System	passengersPerDay	166600
+Charlotte Area Transit System	passengersPerDay	83100
+Tehran Metro	passengersPerDay	2000000
+Sokolnicheskaya Line	passengersPerDay	930534
+Zamoskvoretskaya Line	passengersPerDay	1230654
+Réseau de transport de Longueuil	passengersPerDay	122693
+Rennes Metro	passengersPerDay	120000
+First Essex	passengersPerDay	79450
+Rio de Janeiro Metro	passengersPerDay	580000
+501 Queen	passengersPerDay	43500
+Pune Mahanagar Parivahan Mahamandal Limited	passengersPerDay	807511
+Interurban Transit Partnership	passengersPerDay	25335
+Itsutsubashi Station	passengersPerDay	5380
+London Transit	passengersPerDay	52
+Namma Metro	passengersPerDay	10
+511 Bathurst	passengersPerDay	13600
+504 King	passengersPerDay	53100
+Helsinki tram	passengersPerDay	200000
+Oslo Tramway	passengersPerDay	110000
+Multi-Modal Transport System (Hyderabad)	passengersPerDay	150000
+Atagobashi Station	passengersPerDay	1729
+Trenton Line (SEPTA)	passengersPerDay	11423
+Airport Line (SEPTA)	passengersPerDay	6993
+Wilmington/Newark Line	passengersPerDay	9287
+Tsunashima Station	passengersPerDay	99302
+River Rail Streetcar	passengersPerDay	340
+Yōga Station	passengersPerDay	60661
+Chiba Urban Monorail	passengersPerDay	45430
+Yōkōdai Station	passengersPerDay	21989
+SEPTA Route 15	passengersPerDay	10992
+Regina Transit	passengersPerDay	48000
+Kaluzhsko-Rizhskaya Line	passengersPerDay	1283024
+Izumi-Chūō Station (Miyagi)	passengersPerDay	23059
+MAX Green Line	passengersPerDay	23200
+Franklin Line	passengersPerDay	12966
+Kawaramachi Station (Miyagi)	passengersPerDay	4217
+Nagamachi-Minami Station	passengersPerDay	10504
+Ichigao Station	passengersPerDay	43890
+Sembayashi Station	passengersPerDay	10686
+Regional Transportation Authority (Illinois)	passengersPerDay	2000000
+Nockebybanan	passengersPerDay	8000
+Stockholm Commuter Rail	passengersPerDay	230000
+Hanamaki Station	passengersPerDay	3308
+Kikuna Station	passengersPerDay	49566
+Gothenburg commuter rail	passengersPerDay	42000
+Regional Transportation District	passengersPerDay	313590
+Transport express régional	passengersPerDay	700000
+Bi-State Development Agency	passengersPerDay	147945
+Fresno Area Express	passengersPerDay	49452
+Brasília Metro	passengersPerDay	150000
+New Mexico Rail Runner Express	passengersPerDay	3800
+Catania Metro	passengersPerDay	1600
+Keikyū Kawasaki Station	passengersPerDay	58548
+Kōnandai Station	passengersPerDay	34648
+Novosibirsk Metro	passengersPerDay	256000
+TransJakarta	passengersPerDay	280000
+Red Line (Cleveland)	passengersPerDay	26500
+Tri Delta Transit	passengersPerDay	30000
+Bangalore Metropolitan Transport Corporation	passengersPerDay	4300000
+Purple Line (Maryland)	passengersPerDay	64800
+Billings METropolitan Transit	passengersPerDay	5000
+Baltimore Metro Subway	passengersPerDay	44970
+Baltimore Light Rail	passengersPerDay	36300
+Red Line (Baltimore)	passengersPerDay	59200
+Paris Métro Line 13	passengersPerDay	610050
+Capital Area Transit (Harrisburg)	passengersPerDay	8000
+Detroit Department of Transportation	passengersPerDay	121200
+Kami-noge Station	passengersPerDay	21065
+Rhode Island Public Transit Authority	passengersPerDay	49360
+Katori Station	passengersPerDay	232
+Keisei Narita Station	passengersPerDay	37499
+Higashi-Narita Station	passengersPerDay	2613
+Shibayama Railway	passengersPerDay	897230
+Airport Terminal 2 Station	passengersPerDay	4422
+Airport Terminal 2 Station	passengersPerDay	16012
+Narita Airport Station	passengersPerDay	5546
+Narita Airport Station	passengersPerDay	20386
+Kholodnohirsko–Zavodska Line	passengersPerDay	545070
+Saltivska Line	passengersPerDay	380250
+Oleksiivska Line	passengersPerDay	141150
+Sagami-Ōtsuka Station	passengersPerDay	2098
+DC Circulator	passengersPerDay	4000000
+Winnipeg Transit	passengersPerDay	110000
+Capital Area Transportation Authority	passengersPerDay	51500
+Frankfurt U-Bahn	passengersPerDay	310000
+Arbatsko-Pokrovskaya Line	passengersPerDay	954549
+Metrobus (Washington, D.C.)	passengersPerDay	439424
+Westside Express Service	passengersPerDay	1610
+Capital Metropolitan Transportation Authority	passengersPerDay	130000
+Southwest Corridor (Minnesota)	passengersPerDay	28100
+Music City Star	passengersPerDay	1000
+Sprinter (North County Transit District)	passengersPerDay	8308
+Nuremberg U-Bahn	passengersPerDay	316
+Medellín Metro	passengersPerDay	400000
+99 B-Line	passengersPerDay	50000
+Ebina Station	passengersPerDay	9315
+Ebina Station	passengersPerDay	119547
+Dnipropetrovsk Metro	passengersPerDay	37500
+First South Yorkshire	passengersPerDay	90000000
+Link Light Rail	passengersPerDay	24700
+Hirose-dōri Station	passengersPerDay	9370
+Ferrocarril Suburbano de la Zona Metropolitana del Valle de México	passengersPerDay	88000
+Kōzunomori Station	passengersPerDay	8521
+FrontRunner	passengersPerDay	4600
+Capital MetroRail	passengersPerDay	1600
+506 Carlton	passengersPerDay	41200
+Port Washington Branch	passengersPerDay	46808
+Umi-Shibaura Station	passengersPerDay	3
+Tacoma Link	passengersPerDay	600
+Twisto	passengersPerDay	25
+Rotterdam Metro	passengersPerDay	250
+Azamino Station	passengersPerDay	130785
+Azamino Station	passengersPerDay	40025
+Nagamachi-Itchōme Station	passengersPerDay	2767
+Tomizawa Station	passengersPerDay	5238
+505 Dundas	passengersPerDay	35200
+Lehigh and Northampton Transportation Authority	passengersPerDay	15000
+Nanjing Metro	passengersPerDay	710000
+Kōriyama Station (Fukushima)	passengersPerDay	17716
+Kurikoma-Kōgen Station	passengersPerDay	1206
+Mizusawa-Esashi Station	passengersPerDay	946
+Manila LRT Yellow Line	passengersPerDay	442000
+Kurihama Station	passengersPerDay	6960
+Bordeaux tramway	passengersPerDay	165000
+Onehunga Branch	passengersPerDay	1200
+Sound Transit Express	passengersPerDay	33351
+Kansas City Area Transportation Authority	passengersPerDay	65000
+Ōoka Station	passengersPerDay	1022
+Lille Metro	passengersPerDay	262465
+Thunder Bay Transit	passengersPerDay	9000
+Mitaka Station	passengersPerDay	89545
+Edmonton Light Rail Transit	passengersPerDay	93600
+Grenoble tramway	passengersPerDay	201600
+Southwest Ohio Regional Transit Authority	passengersPerDay	63900
+Kannai Station	passengersPerDay	57410
+Kannai Station	passengersPerDay	22325
+Higashi-Kanagawa Station	passengersPerDay	29952
+Shin-Koyasu Station	passengersPerDay	20488
+Ginza Station	passengersPerDay	274842
+Ishikawachō Station	passengersPerDay	34804
+Tsurumi Station	passengersPerDay	77851
+Motomachi-Chūkagai Station	passengersPerDay	53529
+Rouen tramway	passengersPerDay	65000
+Nihon-ōdōri Station	passengersPerDay	20314
+Bashamichi Station	passengersPerDay	31864
+Minatomirai Station	passengersPerDay	55829
+Shin-Takashima Station	passengersPerDay	5880
+Nantes Tramway	passengersPerDay	266300
+Ōmori Station (Tokyo)	passengersPerDay	89323
+Isogo Station	passengersPerDay	19047
+Negishi Station (Kanagawa)	passengersPerDay	20830
+Yamate Station	passengersPerDay	17242
+Kanazawa-Hakkei Station	passengersPerDay	54173
+Kanazawa-Bunko Station	passengersPerDay	74769
+Shin-Sugita Station	passengersPerDay	37422
+Shin-Sugita Station	passengersPerDay	16361
+Omotesandō Station	passengersPerDay	151667
+Funiculaire du Havre	passengersPerDay	1315
+Hongōdai Station	passengersPerDay	19304
+Greenbush Line	passengersPerDay	4570
+Valenciennes tramway	passengersPerDay	29000
+Karachi Circular Railway	passengersPerDay	700000
+Old Colony Lines (MBTA)	passengersPerDay	20109
+Needham Line	passengersPerDay	7604
+Haverhill Line	passengersPerDay	10457
+Newburyport/Rockport Line	passengersPerDay	18023
+Matsugaya Station	passengersPerDay	1336
+Cologne Stadtbahn	passengersPerDay	507000
+Tren de la Costa	passengersPerDay	2500
+Caen Guided Light Transit	passengersPerDay	42000
+MARTA rail stations	passengersPerDay	451064
+Capital Area Transit (Raleigh)	passengersPerDay	14000
+Nice tramway	passengersPerDay	70000
+Providence/Stoughton Line	passengersPerDay	27863
+Norwalk Transit District	passengersPerDay	2005
+Norwalk Transit District	passengersPerDay	2927
+Norwalk Transit District	passengersPerDay	523
+Oyster Bay Branch	passengersPerDay	6000
+Housatonic Area Regional Transit	passengersPerDay	3122
+Prague tram system	passengersPerDay	980000
+Kanazawa Station	passengersPerDay	20817
+New Jersey Transit Bus Operations	passengersPerDay	567967
+Island Transit (Washington)	passengersPerDay	3811
+Suburban Mobility Authority for Regional Transportation	passengersPerDay	44000
+Denton County Transportation Authority	passengersPerDay	13840
+Centre Area Transportation Authority	passengersPerDay	17200
+Kasumigaseki Station (Tokyo)	passengersPerDay	130748
+Omnitrans	passengersPerDay	43836
+Palm Tran	passengersPerDay	34000
+Maharashtra State Road Transport Corporation	passengersPerDay	7000000
+Nuremberg S-Bahn	passengersPerDay	40000
+Metrorail Western Cape	passengersPerDay	621000
+Pittsburgh Light Rail	passengersPerDay	25200
+Yamadera Station	passengersPerDay	549
+Long Beach Transit	passengersPerDay	82900
+Hiranumabashi Station	passengersPerDay	6533
+Nishi-Yokohama Station	passengersPerDay	12347
+Marseille Metro	passengersPerDay	708232
+Tennōchō Station	passengersPerDay	29773
+Hoshikawa Station (Kanagawa)	passengersPerDay	26730
+Wadamachi Station	passengersPerDay	15575
+Kamihoshikawa Station	passengersPerDay	22310
+Toulouse Metro	passengersPerDay	350000
+Nishiya Station	passengersPerDay	25635
+Tsurugamine Station	passengersPerDay	55206
+Futamatagawa Station	passengersPerDay	80949
+Kibōgaoka Station	passengersPerDay	34734
+Mitsukyō Station	passengersPerDay	61372
+Seya Station	passengersPerDay	42400
+Yamato Station (Kanagawa)	passengersPerDay	109502
+Yamato Station (Kanagawa)	passengersPerDay	111063
+Kashiwadai Station	passengersPerDay	19737
+Sugita Station (Kanagawa)	passengersPerDay	34261
+Kamiōoka Station	passengersPerDay	141879
+Kamiōoka Station	passengersPerDay	32772
+Hemi Station	passengersPerDay	5471
+Shioiri Station (Kanagawa)	passengersPerDay	23512
+Yokosuka-Chūō Station	passengersPerDay	70445
+Keikyū Tomioka Station	passengersPerDay	26141
+Nōkendai Station	passengersPerDay	31458
+Byōbugaura Station	passengersPerDay	18188
+Oppama Station	passengersPerDay	41712
+Horinouchi Station	passengersPerDay	13249
+Keikyū Kurihama Station	passengersPerDay	44842
+Misakiguchi Station	passengersPerDay	19256
+Hodogaya Station	passengersPerDay	31511
+Naka-Meguro Station	passengersPerDay	185998
+Tōbu-Dōbutsu-Kōen Station	passengersPerDay	33110
+Hinodechō Station	passengersPerDay	29315
+Kanagawa-Shimmachi Station	passengersPerDay	16860
+Nakakido Station	passengersPerDay	15457
+Kanagawa Station (Kanagawa)	passengersPerDay	5478
+Tobe Station	passengersPerDay	14986
+Idogaya Station	passengersPerDay	26968
+Gumyōji Station (Keikyū)	passengersPerDay	29448
+Koganechō Station	passengersPerDay	23009
+Minami-Ōta Station	passengersPerDay	17158
+Keikyū Taura Station	passengersPerDay	14291
+Anjinzuka Station	passengersPerDay	5163
+Kenritsu Daigaku Station	passengersPerDay	12724
+Keikyū Ōtsu Station	passengersPerDay	5798
+Maborikaigan Station	passengersPerDay	10814
+Uraga Station	passengersPerDay	24618
+Minnesota Valley Transit Authority	passengersPerDay	9000
+Keikyū Kamata Station	passengersPerDay	45428
+Sakura-dōri Line	passengersPerDay	85173
+Hiyoshi Station (Kanagawa)	passengersPerDay	163949
+Hiyoshi Station (Kanagawa)	passengersPerDay	21676
+San Diego Metropolitan Transit System	passengersPerDay	82000000
+San Diego Metropolitan Transit System	passengersPerDay	263000
+Société de Transport Interurbains du Val d'Oise	passengersPerDay	15
+Intercity Transit	passengersPerDay	14000
+Wolverine (train)	passengersPerDay	1314
+Wolverine (train)	passengersPerDay	479782
+Pere Marquette (train)	passengersPerDay	279
+Blue Water (train)	passengersPerDay	432
+Blue Water (train)	passengersPerDay	157709
+Noborito Station	passengersPerDay	145994
+Ryōgoku Station	passengersPerDay	38047
+Shiki Station (Saitama)	passengersPerDay	97708
+Minami-Makigahara Station	passengersPerDay	10511
+Tsujidō Station	passengersPerDay	45666
+Hiratsuka Station	passengersPerDay	60445
+Ōiso Station	passengersPerDay	7579
+Ninomiya Station	passengersPerDay	14530
+Montreal Metro	passengersPerDay	1111700
+Santo Domingo Metro	passengersPerDay	100
+Kamonomiya Station (Kanagawa)	passengersPerDay	12678
+Manazuru Station	passengersPerDay	4070
+Yugawara Station	passengersPerDay	6579
+Hayakawa Station	passengersPerDay	1550
+Skagit Transit	passengersPerDay	1308
+Valley Transit	passengersPerDay	3400
+Kamakura Station	passengersPerDay	40374
+Kita-Kamakura Station	passengersPerDay	8596
+Brunswick Line	passengersPerDay	7822
+Camden Line	passengersPerDay	5389
+Higashi-Hakuraku Station	passengersPerDay	13078
+Hakuraku Station	passengersPerDay	41390
+Myōrenji Station	passengersPerDay	25094
+Ōkurayama Station (Kanagawa)	passengersPerDay	50809
+Motosumiyoshi Station	passengersPerDay	62149
+Musashi-Kosugi Station  武蔵小杉   1	passengersPerDay	76831
+Musashi-Kosugi Station  武蔵小杉   2	passengersPerDay	205822
+Shin-Maruko Station	passengersPerDay	26670
+Metro Light Rail (Phoenix)	passengersPerDay	43509
+Huntsville Shuttle Bus	passengersPerDay	1500
+Iwaki Station (Fukushima)	passengersPerDay	6487
+Chitose-Karasuyama Station	passengersPerDay	75287
+Saint-Étienne tramway	passengersPerDay	53000
+RTD Bus & Light Rail	passengersPerDay	212100
+RTD Bus & Light Rail  RTD Light Rail   1	passengersPerDay	63100
+Lynx Rapid Transit Services	passengersPerDay	14300
+Yoyogi-Uehara Station	passengersPerDay	223176
+Yoyogi-Uehara Station	passengersPerDay	220239
+Trondheim Tramway	passengersPerDay	2000
+Trøndelag Commuter Rail	passengersPerDay	3300
+Kanegasaki Station	passengersPerDay	640
+Tashkent Metro	passengersPerDay	450
+Tachikawa-Kita Station	passengersPerDay	18316
+Sakado Station (Saitama)	passengersPerDay	27289
+Trolleybuses in Drammen	passengersPerDay	19000
+Trolleybuses in Oslo	passengersPerDay	96000
+Bergen Light Rail	passengersPerDay	26000
+Wadaura Station	passengersPerDay	118
+Yokosuka Station	passengersPerDay	6092
+Zushi Station	passengersPerDay	28513
+Hon-Chiba Station	passengersPerDay	8469
+Chūō-Rinkan Station	passengersPerDay	97532
+Chūō-Rinkan Station	passengersPerDay	90066
+Wakōshi Station	passengersPerDay	128306
+Matsudo Station	passengersPerDay	100591
+Matsudo Station	passengersPerDay	110072
+Kashiwa Station	passengersPerDay	121803
+Kashiwa Station	passengersPerDay	138360
+Hon-Atsugi Station	passengersPerDay	146668
+Soga Station	passengersPerDay	38945
+Hamano Station	passengersPerDay	6279
+Yawatajuku Station	passengersPerDay	12599
+Nishiarai Station	passengersPerDay	58180
+Nishinokyō Station	passengersPerDay	7287
+Aoto Station	passengersPerDay	44048
+Meitetsu Nagoya Main Line	passengersPerDay	221098
+Meijō Line	passengersPerDay	197082
+Higashiyama Line	passengersPerDay	200334
+Tsurumai Line	passengersPerDay	197082
+San Juan-Caguas Rail	passengersPerDay	25000
+Koyasu Station	passengersPerDay	8022
+Penn Line (MARC)	passengersPerDay	20419
+Shōwa Station (Kanagawa)	passengersPerDay	569
+Shitte Station	passengersPerDay	11667
+Haneda Airport Domestic Terminal Station	passengersPerDay	78188
+Plymouth Metrolink	passengersPerDay	1700
+Maple Grove Transit	passengersPerDay	2500
+Bottineau Boulevard Transitway	passengersPerDay	19500
+Connecticut Transit Stamford	passengersPerDay	2006
+Connecticut Transit Stamford	passengersPerDay	5071
+Connecticut Transit Stamford	passengersPerDay	2335
+Northeast Transportation Company	passengersPerDay	6782
+Northeast Transportation Company	passengersPerDay	3023
+Kashimada Station	passengersPerDay	17955
+Kingston Transit	passengersPerDay	13000
+Hirama Station	passengersPerDay	14303
+Yakō Station	passengersPerDay	15788
+Musashi-Nakahara Station	passengersPerDay	31396
+Line A (Rome Metro)	passengersPerDay	450000
+Musashi-Shinjō Station	passengersPerDay	30863
+Amami Station	passengersPerDay	479
+Meitetsu Komaki Line	passengersPerDay	14743
+Ashikagashi Station	passengersPerDay	7509
+Kami-Ōi Station	passengersPerDay	479
+Ajiyoshi Station (Meitetsu)	passengersPerDay	1908
+Meitetsu Hiromi Line	passengersPerDay	6521
+Meitetsu Inuyama Line	passengersPerDay	57443
+Meitetsu Tokoname Line	passengersPerDay	54177
+Takenotsuka Station	passengersPerDay	82167
+Meitetsu Toyota Line	passengersPerDay	20172
+Sagami-Kaneko Station	passengersPerDay	455
+RapidKL Light Rail Transit	passengersPerDay	326095
+Strasbourg tramway	passengersPerDay	300000
+Shin-Kawasaki Station	passengersPerDay	27989
+Johnson County Transit	passengersPerDay	2000
+Takanohara Station	passengersPerDay	36779
+Tomio Station	passengersPerDay	29254
+Yurigaoka Station	passengersPerDay	21674
+Musashi-Mizonokuchi Station	passengersPerDay	73315
+Tsudayama Station	passengersPerDay	3693
+GO ALRT	passengersPerDay	25000
+Meitetsu Mikawa Line	passengersPerDay	73556
+Ikuta Station	passengersPerDay	43990
+Yomiuri-Land-mae Station	passengersPerDay	34174
+Kakio Station	passengersPerDay	35443
+Shin-Yurigaoka Station	passengersPerDay	120516
+Sagami-Ōno Station	passengersPerDay	121338
+Odakyū-Sagamihara Station	passengersPerDay	55754
+Sōbudai-mae Station	passengersPerDay	39977
+Zama Station	passengersPerDay	11599
+Atsugi Station	passengersPerDay	6371
+Aikō-Ishida Station	passengersPerDay	49005
+Isehara Station	passengersPerDay	50564
+Tsurumaki-Onsen Station	passengersPerDay	16055
+Tōkaidaigaku-mae Station	passengersPerDay	37776
+Hadano Station	passengersPerDay	42324
+Shibusawa Station	passengersPerDay	28244
+Shin-Matsuda Station	passengersPerDay	25622
+Kayama Station	passengersPerDay	9554
+Kaisei Station	passengersPerDay	10234
+Tomizu Station	passengersPerDay	7003
+Hotaruda Station	passengersPerDay	5850
+Ashigara Station (Kanagawa)	passengersPerDay	3038
+Satsukidai Station	passengersPerDay	9220
+Kurokawa Station (Kanagawa)	passengersPerDay	8265
+Kurihira Station	passengersPerDay	21837
+Haruhino Station	passengersPerDay	5771
+Higashi-Rinkan Station	passengersPerDay	22176
+Tsuruma Station	passengersPerDay	26566
+Minami-Rinkan Station	passengersPerDay	36671
+Sakuragaoka Station	passengersPerDay	20891
+Kōza-Shibuya Station	passengersPerDay	21188
+Chōgo Station	passengersPerDay	36383
+Mutsuai-Nichidaimae Station	passengersPerDay	28307
+Zengyō Station	passengersPerDay	27168
+Fujisawa-Hommachi Station	passengersPerDay	20151
+Hon-Kugenuma Station	passengersPerDay	11691
+Kugenuma-Kaigan Station	passengersPerDay	19950
+Matsuda Station	passengersPerDay	3839
+Abekawa Station	passengersPerDay	4350
+Broward County Transit	passengersPerDay	125710
+Kita-Matsudo Station	passengersPerDay	21254
+Mabashi Station	passengersPerDay	24533
+Mabashi Station	passengersPerDay	1626
+Shim-Matsudo Station	passengersPerDay	36192
+Kita-Kogane Station	passengersPerDay	25624
+Minami-Kashiwa Station	passengersPerDay	31806
+Kita-Kashiwa Station	passengersPerDay	20357
+Abiko Station (Chiba)	passengersPerDay	30995
+Tennōdai Station	passengersPerDay	21950
+Higashi-Yamakita Station	passengersPerDay	966
+Hatsutomi Station	passengersPerDay	5930
+Kunugiyama Station	passengersPerDay	7064
+Kōjimachi Station	passengersPerDay	54889
+Ishigami Station	passengersPerDay	500
+Yanagikōji Station	passengersPerDay	2127
+Kugenuma Station	passengersPerDay	4538
+Shōnankaigankōen Station	passengersPerDay	1564
+Koshigoe Station	passengersPerDay	3059
+Kamakurakōkōmae Station	passengersPerDay	3143
+Shichirigahama Station	passengersPerDay	4832
+Inamuragasaki Station	passengersPerDay	4752
+Gokurakuji Station	passengersPerDay	1859
+Hase Station (Kanagawa)	passengersPerDay	8268
+Yuigahama Station	passengersPerDay	971
+Wadazuka Station	passengersPerDay	638
+Kannami Station	passengersPerDay	2119
+Katahama Station	passengersPerDay	2702
+Hara Station (Shizuoka)	passengersPerDay	2769
+Higashi-Tagonoura Station	passengersPerDay	1274
+Kōnodai Station	passengersPerDay	11284
+Ichikawa-Mama Station	passengersPerDay	7615
+Sugano Station	passengersPerDay	4119
+Keisei Yawata Station	passengersPerDay	32074
+Onigoe Station	passengersPerDay	4770
+Keisei Nakayama Station	passengersPerDay	3742
+Higashi-Nakayama Station	passengersPerDay	7340
+Kaijin Station	passengersPerDay	4529
+Keisei-Nishifuna Station	passengersPerDay	8297
+Keisei Funabashi Station	passengersPerDay	92190
+Daijingūshita Station	passengersPerDay	3916
+Funabashi-Keibajō Station	passengersPerDay	18908
+Yatsu Station (Chiba)	passengersPerDay	11234
+Keisei Tsudanuma Station	passengersPerDay	95397
+Keisei Ōkubo Station	passengersPerDay	30755
+Mimomi Station	passengersPerDay	22082
+Yachiyodai Station	passengersPerDay	48732
+Keisei Ōwada Station	passengersPerDay	12530
+Katsutadai Station	passengersPerDay	52004
+Shizu Station (Chiba)	passengersPerDay	16815
+Yūkarigaoka Station	passengersPerDay	22324
+Keisei-Sakura Station	passengersPerDay	20452
+Keisei-Usui Station	passengersPerDay	23386
+Ōsakura Station	passengersPerDay	470
+Keisei Shisui Station	passengersPerDay	6756
+Volusia County Public Transit System	passengersPerDay	9233
+Sōgosandō Station	passengersPerDay	2584
+Meinohama Station	passengersPerDay	18455
+Vélib'	passengersPerDay	110000
+MTA Maryland bus service	passengersPerDay	250000
+Inter-terminal train (George Bush Intercontinental Airport)	passengersPerDay	8000
+Yamakita Station	passengersPerDay	806
+The Plane Train	passengersPerDay	175000
+Nishikujō Station	passengersPerDay	23985
+Nishikujō Station	passengersPerDay	20578
+Volgograd Metrotram	passengersPerDay	136000
+Saint John Transit	passengersPerDay	2500000
+Ōhara Station (Chiba)	passengersPerDay	1758
+Ōhara Station (Chiba)	passengersPerDay	388
+Nishi-Ōhara Station	passengersPerDay	58
+Kazusa-Azuma Station	passengersPerDay	48
+Takashimachō Station	passengersPerDay	3278
+Shiraniwadai Station	passengersPerDay	6733
+Minami-Hashimoto Station	passengersPerDay	5443
+Banda Station	passengersPerDay	2990
+Harataima Station	passengersPerDay	4141
+Shimomizo Station	passengersPerDay	1001
+Sōbudaishita Station	passengersPerDay	1255
+Shake Station	passengersPerDay	1599
+Kadosawabashi Station	passengersPerDay	1845
+Kurami Station	passengersPerDay	1826
+Miyayama Station	passengersPerDay	2098
+Samukawa Station	passengersPerDay	6880
+Kita-Chigasaki Station	passengersPerDay	2709
+Kagawa Station (Kanagawa)	passengersPerDay	4754
+Shin-Ōtsu Station	passengersPerDay	6409
+Kitakurihama Station	passengersPerDay	26283
+YRP Nobi Station	passengersPerDay	20974
+Keikyū Nagasawa Station	passengersPerDay	7853
+Tsukuihama Station	passengersPerDay	6530
+Mutsuura Station	passengersPerDay	17126
+Jimmuji Station	passengersPerDay	6240
+Shin-Zushi Station	passengersPerDay	22969
+Ippommatsu Station (Saitama)	passengersPerDay	4043
+Miurakaigan Station	passengersPerDay	13021
+Wakaba Station	passengersPerDay	36643
+Kikugawa Station	passengersPerDay	4544
+Awa-Kamogawa Station	passengersPerDay	1678
+Ajiki Station	passengersPerDay	3471
+Kōchi Station (Kōchi)	passengersPerDay	5059
+Tōyō-Katsutadai Station	passengersPerDay	30814
+Nittano Station	passengersPerDay	13
+Kyūhōjiguchi Station	passengersPerDay	6566
+Kintetsu Yao Station	passengersPerDay	34116
+Kawachi-Yamamoto Station	passengersPerDay	22943
+Takayasu Station	passengersPerDay	11934
+Onji Station	passengersPerDay	5237
+Katashimo Station	passengersPerDay	3981
+Andō Station	passengersPerDay	2408
+Kawachi-Kokubu Station	passengersPerDay	16626
+Masuga Station	passengersPerDay	5298
+Miminashi Station	passengersPerDay	4012
+Bangkok Mass Transit Authority	passengersPerDay	3000000
+Murōguchi-Ōno Station	passengersPerDay	1443
+Tsuruse Station	passengersPerDay	40142
+Miyazakidai Station	passengersPerDay	44738
+Kyōbate Station	passengersPerDay	477
+Kaguyama Station	passengersPerDay	191
+Tamade Station (Nara)	passengersPerDay	429
+Wakigami Station	passengersPerDay	178
+Kitauchi Station	passengersPerDay	187
+Yoshinoguchi Station	passengersPerDay	862
+Yoshinoguchi Station	passengersPerDay	2187
+Gojō Station (Nara)	passengersPerDay	2357
+Yamato-Futami Station	passengersPerDay	259
+Funato Station	passengersPerDay	260
+Oshimi Station	passengersPerDay	2056
+Uenoshi Station	passengersPerDay	2065
+Lahore Metro	passengersPerDay	640000
+Kuniyoshi Station	passengersPerDay	107
+Sakudaira Station	passengersPerDay	2827
+Kisarazu Station	passengersPerDay	13866
+Mexico City Metro Line 1	passengersPerDay	631523
+Madison County Transit	passengersPerDay	8000
+Madison County Transit	passengersPerDay	40000
+Yaga Station (Kanagawa)	passengersPerDay	184
+Kōfu Station	passengersPerDay	14496
+Charlottetown Transit	passengersPerDay	250000
+Porto Alegre Metro	passengersPerDay	170000
+Nishi-Gifu Station	passengersPerDay	5402
+Belo Horizonte Metro	passengersPerDay	160000
+Recife Metro	passengersPerDay	210000
+Teresina Metro	passengersPerDay	20000
+Itabu Station	passengersPerDay	7
+Chiyoda Station	passengersPerDay	17181
+Trans-Bridge Lines	passengersPerDay	3688
+Transperth Trains	passengersPerDay	360000
+DeCamp Bus Lines	passengersPerDay	7282
+Suruga-Oyama Station	passengersPerDay	720
+Greater Bridgeport Transit Authority	passengersPerDay	16819
+Ashigara Station (Shizuoka)	passengersPerDay	614
+Gotemba Station	passengersPerDay	4698
+Nagatsuta Station	passengersPerDay	56066
+Minami-Gotemba Station	passengersPerDay	309
+Fujioka Station (Shizuoka)	passengersPerDay	833
+Takanekōdan Station	passengersPerDay	14697
+Iwanami Station	passengersPerDay	1721
+Shionomiya Station	passengersPerDay	2306
+Chihayaguchi Station	passengersPerDay	381
+Mikanodai Station	passengersPerDay	5682
+Mikkaichichō Station	passengersPerDay	19538
+Susono Station	passengersPerDay	2785
+PreMetro E2 (Buenos Aires)	passengersPerDay	6146
+CrimsonRide	passengersPerDay	13510
+Shimo-Togari Station	passengersPerDay	1252
+Suidōbashi Station	passengersPerDay	88449
+Suidōbashi Station	passengersPerDay	15097000
+Urquiza Line (Buenos Aires)	passengersPerDay	62000
+Metrobus (Istanbul)	passengersPerDay	875000
+Montpellier tramway	passengersPerDay	190000
+Athens Transit	passengersPerDay	6905
+UGA Campus Transit	passengersPerDay	39765
+Kinomiya Station	passengersPerDay	1144
+Izu-Taga Station	passengersPerDay	670
+SuperVia	passengersPerDay	540558
+Ajiro Station	passengersPerDay	670
+Usami Station	passengersPerDay	1448
+Itō Station	passengersPerDay	8960
+Nantes Busway	passengersPerDay	25000
+Tōkaichiba Station (Kanagawa)	passengersPerDay	21417
+Kuzuha Station	passengersPerDay	61802
+Mumbai Monorail	passengersPerDay	125000
+Kamagaya-Daibutsu Station	passengersPerDay	15206
+Higashi-Shizuoka Station	passengersPerDay	6331
+Yui Station	passengersPerDay	1703
+Kusanagi Station (JR Central)	passengersPerDay	8390
+Shimizu Station (Shizuoka)	passengersPerDay	11272
+Kusanagi Station (Shizuoka Railway)	passengersPerDay	3749
+Okitsu Station	passengersPerDay	2476
+QuayLink	passengersPerDay	2383
+Autoridad Metropolitana de Autobuses	passengersPerDay	112000
+Iseshi Station	passengersPerDay	6476
+Hamasaka Station	passengersPerDay	527
+Takidani Station	passengersPerDay	5618
+Takidanifudō Station	passengersPerDay	7695
+Hiratachō Station	passengersPerDay	5184
+Nishi-Ōya Station	passengersPerDay	2889
+Kawakado Station	passengersPerDay	14806
+Bushū-Nagase Station	passengersPerDay	5503
+Higashi-Moro Station	passengersPerDay	5321
+Bushū-Karasawa Station	passengersPerDay	2596
+Ogose Station	passengersPerDay	4627
+Tsurugashima Station	passengersPerDay	35156
+Kasumigaseki Station (Saitama)	passengersPerDay	28801
+Kawagoeshi Station	passengersPerDay	34543
+Kita-Ikebukuro Station	passengersPerDay	8464
+Takatsuno Station	passengersPerDay	1005
+Oiwake Station (Shiga)	passengersPerDay	1620
+Ogawamachi Station (Saitama)	passengersPerDay	11656
+Hachigata Station	passengersPerDay	1175
+Hatta Station  Hatta   1	passengersPerDay	5517
+Hatta Station  Hatta   2	passengersPerDay	1315
+Kuji Station (Kanagawa)	passengersPerDay	13294
+Nakagawa Station (Kanagawa)	passengersPerDay	8951
+Hiyoshi-Honchō Station	passengersPerDay	4610
+Takata Station (Kanagawa)	passengersPerDay	4125
+Higashi-Yamata Station	passengersPerDay	2727
+Kita-Yamata Station	passengersPerDay	8096
+Center-Kita Station	passengersPerDay	15451
+Shukugawara Station (Kanagawa)	passengersPerDay	7288
+Tsuzuki-Fureai-no-Oka Station	passengersPerDay	5571
+Kawawachō Station	passengersPerDay	2157
+Nakayama Station (Kanagawa)	passengersPerDay	36541
+Meitetsu Bisai Line	passengersPerDay	11897
+Fukiage Station (Saitama)	passengersPerDay	10349
+Kodomonokuni Station (Kanagawa)	passengersPerDay	10293
+Onda Station	passengersPerDay	848
+Urakami Station	passengersPerDay	3801
+Fudōmae Station (Tokyo)	passengersPerDay	28993
+Fukaya Station	passengersPerDay	10312
+Société de transport de Trois-Rivières	passengersPerDay	8200
+Mizonokuchi Station	passengersPerDay	174199
+Higashi-Matsuyama Station	passengersPerDay	30528
+Haginochaya Station	passengersPerDay	2066
+Kishinosato-Tamade Station	passengersPerDay	6860
+Tezukayama Station	passengersPerDay	7207
+Sawanochō Station	passengersPerDay	8098
+Sumiyoshihigashi Station	passengersPerDay	6867
+Abikomae Station	passengersPerDay	8395
+Asakayama Station	passengersPerDay	7458
+Mozuhachiman Station	passengersPerDay	4145
+Sakaihigashi Station	passengersPerDay	58661
+Shirasagi Station	passengersPerDay	9327
+MAX (UTA)	passengersPerDay	4100
+Gokurakubashi Station	passengersPerDay	43
+Rinkanden-entoshi Station	passengersPerDay	12058
+Rinkū Town Station	passengersPerDay	8334
+Chiyo-Kenchōguchi Station	passengersPerDay	3080
+Hatsushiba Station	passengersPerDay	19679
+Hagiharatenjin Station	passengersPerDay	7464
+Kitanoda Station	passengersPerDay	33907
+Sayama Station	passengersPerDay	6148
+Ōsakasayamashi Station	passengersPerDay	9023
+Kongō Station	passengersPerDay	38037
+Kimitōge Station	passengersPerDay	896
+Kawachinagano Station  Kawachinagano   1	passengersPerDay	31980
+Kawachinagano Station  Kawachi-Nagano   1	passengersPerDay	13637
+Miyukitsuji Station	passengersPerDay	3102
+Kudoyama Station	passengersPerDay	828
+Kii-Hosokawa Station	passengersPerDay	45
+Portage Area Regional Transportation Authority	passengersPerDay	1529327
+Hikifune Station	passengersPerDay	19995
+Kohama Station	passengersPerDay	4695
+Suminoe Station	passengersPerDay	12633
+Shichidō Station	passengersPerDay	8230
+Sakai Station	passengersPerDay	35528
+Tsuruhara Station	passengersPerDay	3177
+Iharanosato Station	passengersPerDay	3012
+Izumisano Station	passengersPerDay	21295
+Yoshiminosato Station	passengersPerDay	2862
+Okadaura Station	passengersPerDay	2554
+Wakayamashi Station	passengersPerDay	18198
+Wakayamakō Station	passengersPerDay	641
+Tada Station (Tochigi)	passengersPerDay	158
+Kyarabashi Station	passengersPerDay	1802
+Ahmedabad BRTS	passengersPerDay	115000
+Takabata Station	passengersPerDay	10231
+Iwatsuka Station	passengersPerDay	7639
+Nakamura Kōen Station	passengersPerDay	11988
+Nakamura Nisseki Station	passengersPerDay	3888
+Honjin Station	passengersPerDay	6888
+Kamejima Station	passengersPerDay	3976
+Fushimi Station (Aichi)	passengersPerDay	42584
+Shinsakae-machi Station (Aichi)	passengersPerDay	12286
+Imaike Station (Aichi)	passengersPerDay	20187
+Ikeshita Station	passengersPerDay	14184
+Kakuōzan Station	passengersPerDay	8896
+Motoyama Station (Aichi)	passengersPerDay	14034
+Hoshigaoka Station (Aichi)	passengersPerDay	24877
+Issha Station	passengersPerDay	14041
+Kamiyashiro Station	passengersPerDay	11032
+Hongō Station (Aichi)	passengersPerDay	11213
+Higashiyama Kōen Station (Aichi)	passengersPerDay	7176
+Fujigaoka Station (Aichi)	passengersPerDay	27682
+Fujigaoka Station (Aichi)  Fujigaoka   1	passengersPerDay	13158
+Kami-Otai Station	passengersPerDay	7365
+Shōnai Ryokuchi Kōen Station	passengersPerDay	3955
+Shōnai-dōri Station	passengersPerDay	6077
+Jōshin Station	passengersPerDay	6381
+Sengen-chō Station	passengersPerDay	4304
+Marunouchi Station (Nagoya)	passengersPerDay	15774
+Ōsu Kannon Station	passengersPerDay	6831
+Kamimaezu Station	passengersPerDay	20148
+Arahata Station	passengersPerDay	4061
+Tsurumai Station  Tsurumai   1	passengersPerDay	21424
+Tsurumai Station  Tsurumai   2	passengersPerDay	12834
+Gokiso Station	passengersPerDay	10212
+Kawana Station (Aichi)	passengersPerDay	4983
+Irinaka Station	passengersPerDay	7559
+Yagoto Station	passengersPerDay	15840
+Shiogama-guchi Station	passengersPerDay	13033
+Ueda Station (Aichi)	passengersPerDay	8422
+Hara Station (Aichi)	passengersPerDay	11268
+Hirabari Station	passengersPerDay	7989
+Akaike Station (Aichi)  Akaike   1	passengersPerDay	2513
+Akaike Station (Aichi)  Akaike   2	passengersPerDay	10430
+Higashi Betsuin Station	passengersPerDay	6098
+Yabachō Station	passengersPerDay	26622
+Meijō Kōen Station	passengersPerDay	4513
+Kurokawa Station (Aichi)	passengersPerDay	13324
+Shiga-hondōri Station	passengersPerDay	6100
+Heian-dōri Station	passengersPerDay	5890
+Chayagasaka Station	passengersPerDay	6009
+Sunadabashi Station	passengersPerDay	6641
+Sunadabashi Station  Sunadabashi   1	passengersPerDay	1310
+Jiyūgaoka Station (Aichi)	passengersPerDay	5932
+Nagoya Daigaku Station	passengersPerDay	9583
+Yagoto Nisseki Station	passengersPerDay	5526
+Sōgō Rihabiri Center Station	passengersPerDay	2807
+Mizuho Undōjō Higashi Station	passengersPerDay	3863
+Aratama-bashi Station	passengersPerDay	11008
+Myōon-dōri Station	passengersPerDay	2
+Horita Station (Nagoya Municipal Subway)	passengersPerDay	6986
+Temma-chō Station	passengersPerDay	6662
+Jingū-Nishi Station	passengersPerDay	3563
+Nishi Takakura Station	passengersPerDay	2561
+Nakamura Kuyakusho Station	passengersPerDay	5152
+Kokusai Center Station	passengersPerDay	4251
+Takaoka Station (Aichi)	passengersPerDay	6380
+Kurumamichi Station	passengersPerDay	6859
+Fukiage Station (Aichi)	passengersPerDay	6157
+Sakurayama Station	passengersPerDay	10368
+Mizuho Kuyakusho Station	passengersPerDay	7109
+Mizuho Undōjō Nishi Station	passengersPerDay	3046
+Sakura-hommachi Station	passengersPerDay	3766
+Tsurusato Station	passengersPerDay	2579
+Kamiiida Station	passengersPerDay	4925
+Meitetsu Tsushima Line	passengersPerDay	17352
+Yamazaki Station (Aichi)	passengersPerDay	532
+Tamano Station	passengersPerDay	471
+Hagiwara Station (Aichi)	passengersPerDay	1108
+Kamimizo Station	passengersPerDay	5728
+Nishiharu Station	passengersPerDay	10993
+Tokushige-Nagoya-Geidai Station	passengersPerDay	4654
+Taisanji Station	passengersPerDay	1011
+Ishibotoke Station	passengersPerDay	1479
+Iwakura Station (Aichi)	passengersPerDay	11790
+Hotei Station	passengersPerDay	4178
+Kōnan Station (Aichi)	passengersPerDay	12668
+Inuyama Station	passengersPerDay	16396
+Shin-Unuma Station	passengersPerDay	4165
+Sakaemachi Station (Aichi)	passengersPerDay	20456
+Higashiōte Station	passengersPerDay	1787
+Shimizu Station (Aichi)	passengersPerDay	1073
+Amagasaka Station	passengersPerDay	1553
+Morishita Station (Aichi)	passengersPerDay	1105
+Yada Station	passengersPerDay	537
+Moriyama-Jieitai-Mae Station	passengersPerDay	1097
+Hyōtan-yama Station (Aichi)	passengersPerDay	1988
+Obata Station (Aichi)	passengersPerDay	5749
+Kitayama Station (Aichi)	passengersPerDay	2909
+Ōmori-Kinjōgakuin-mae Station	passengersPerDay	5943
+Inba Station	passengersPerDay	4359
+Asahi-mae Station	passengersPerDay	4717
+Owari Asahi Station	passengersPerDay	7827
+Sangō Station (Aichi)	passengersPerDay	9914
+Shin-Seto Station	passengersPerDay	5018
+Mizuno Station	passengersPerDay	2103
+Seto-Shiyakusho-mae Station	passengersPerDay	1098
+Owari Seto Station	passengersPerDay	4810
+Ajima Station	passengersPerDay	1904
+Kasugai Station (Meitetsu)	passengersPerDay	1202
+Ushiyama Station	passengersPerDay	1041
+Manai Station	passengersPerDay	766
+Komakiguchi Station	passengersPerDay	1152
+Komaki Station	passengersPerDay	9503
+Komakihara Station	passengersPerDay	1251
+Ajioka Station	passengersPerDay	1653
+Tagata-jinja-mae Station	passengersPerDay	2379
+Gakuden Station (Aichi)	passengersPerDay	1400
+Haguro Station (Aichi)	passengersPerDay	1634
+Jimokuji Station	passengersPerDay	4678
+Shobata Station	passengersPerDay	2311
+Shippō Station	passengersPerDay	2067
+Aotsuka Station	passengersPerDay	1924
+Fujinami Station (Aichi)	passengersPerDay	1336
+Tomioka-mae Station	passengersPerDay	433
+Zenjino Station	passengersPerDay	300
+Nishi Kani Station	passengersPerDay	3101
+Kanigawa Station	passengersPerDay	817
+Nihon Rhine Imawatari Station	passengersPerDay	1532
+Shin-Kani Station	passengersPerDay	2549
+Akechi Station (Kani)	passengersPerDay	583
+Kariyashi Station	passengersPerDay	4895
+Ogakie Station	passengersPerDay	2383
+Yoshihama Station (Aichi)	passengersPerDay	1126
+Mikawa Takahama Station	passengersPerDay	1768
+Takahama Minato Station	passengersPerDay	841
+Kitashinkawa Station	passengersPerDay	1378
+Shinkawamachi Station	passengersPerDay	535
+Hekinan Chūō Station	passengersPerDay	2011
+Hanamizuki-dōri Station	passengersPerDay	2292
+Irigaike-kōen Station	passengersPerDay	3247
+Nagakute Kosenjō Station	passengersPerDay	1553
+Geidai-dōri Station	passengersPerDay	1589
+Kōen-nishi Station	passengersPerDay	1027
+Aichikyūhaku-kinen-kōen Station	passengersPerDay	4713
+Tōji-shiryōkan-minami Station	passengersPerDay	90
+Kōzōji Station  Kōzōji   1	passengersPerDay	21800
+Kishi Station (Osaka)	passengersPerDay	19779
+Tondabayashi Station	passengersPerDay	15836
+Tondabayashi-nishiguchi Station	passengersPerDay	5884
+Kawanishi Station (Osaka)	passengersPerDay	3953
+Fujimino Station	passengersPerDay	60862
+Asakadai Station	passengersPerDay	138352
+Kami-Fukuoka Station	passengersPerDay	53831
+Shinrinkōen Station (Saitama)	passengersPerDay	13882
+Kasugai Station (JR Central)	passengersPerDay	16192
+Kachigawa Station	passengersPerDay	14777
+Yoshiwara Station	passengersPerDay	3221
+Fuji Station	passengersPerDay	8838
+Fujikawa Station (Shizuoka)	passengersPerDay	1765
+Shin-Kambara Station	passengersPerDay	1981
+Kambara Station	passengersPerDay	874
+Mochimune Station	passengersPerDay	1715
+Yaizu Station	passengersPerDay	10973
+Nishi-Yaizu Station	passengersPerDay	6019
+Fujieda Station	passengersPerDay	11939
+Shimada Station	passengersPerDay	5875
+Rokugō Station	passengersPerDay	3179
+Kanaya Station	passengersPerDay	2471
+Fukuroi Station	passengersPerDay	5806
+Aino Station (Shizuoka)	passengersPerDay	2131
+Iwata Station (Shizuoka)	passengersPerDay	8028
+Toyodachō Station	passengersPerDay	3415
+Tenryūgawa Station	passengersPerDay	2565
+Takatsuka Station	passengersPerDay	2382
+Maisaka Station	passengersPerDay	2535
+Bentenjima Station	passengersPerDay	1165
+Araimachi Station	passengersPerDay	2713
+Washizu Station	passengersPerDay	3222
+Shinjohara Station	passengersPerDay	3636
+Shinjohara Station	passengersPerDay	558
+Anjō Station	passengersPerDay	10400
+Ōbu Station	passengersPerDay	12182
+Kiyosu Station	passengersPerDay	3588
+Inazawa Station	passengersPerDay	7111
+Owari-Ichinomiya Station	passengersPerDay	52776
+Hozumi Station	passengersPerDay	8754
+Kisogawa Station	passengersPerDay	3803
+Sekigahara Station	passengersPerDay	1051
+Yunoki Station (Fuji)	passengersPerDay	270
+Iriyamase Station	passengersPerDay	754
+Tatebori Station	passengersPerDay	925
+Fujine Station (Shizuoka)	passengersPerDay	428
+Fujinomiya Station	passengersPerDay	2444
+Nishi-Fujinomiya Station	passengersPerDay	1464
+Numakubo Station	passengersPerDay	28
+Shibakawa Station	passengersPerDay	254
+Gendōji Station	passengersPerDay	676
+Inako Station (Shizuoka)	passengersPerDay	32
+Miyamaedaira Station	passengersPerDay	46526
+Ajiyoshi Station (Jōhoku Line)	passengersPerDay	119
+Kira-Yoshida Station	passengersPerDay	2500
+Mikawa-Toba Station	passengersPerDay	177
+Nishi-Hazu Station	passengersPerDay	317
+Higashi-Hazu Station	passengersPerDay	256
+Kodomonokuni Station (Aichi)	passengersPerDay	82
+Nishiura Station	passengersPerDay	529
+Katahara Station	passengersPerDay	466
+Mikawa-Kashima Station	passengersPerDay	234
+Gamagōri-Kyōteijō-Mae Station	passengersPerDay	174
+Kita-Anjō Station	passengersPerDay	822
+Minami-Anjō Station	passengersPerDay	3962
+Hekikai-Furui Station	passengersPerDay	423
+Horiuchi-Kōen Station	passengersPerDay	143
+Sakurai Station (Aichi)	passengersPerDay	3793
+Minami-Sakurai Station (Aichi)	passengersPerDay	1742
+Yonezu Station	passengersPerDay	612
+Sakuramachi-mae Station	passengersPerDay	1039
+Nishioguchi Station	passengersPerDay	105
+Nishio Station	passengersPerDay	4762
+Fukuchi Station	passengersPerDay	264
+Kami-Yokosuka Station	passengersPerDay	1093
+Kamio Station	passengersPerDay	2
+Nukuri Station	passengersPerDay	2
+Shin-Hamamatsu Station	passengersPerDay	7749
+Dai-Ichi-dōri Station	passengersPerDay	1237
+Hachiman Station	passengersPerDay	1133
+Sukenobu Station	passengersPerDay	1238
+Enshū-Byōin Station	passengersPerDay	813
+Enshū-Hikuma Station	passengersPerDay	1204
+Enshū-Kamijima Station	passengersPerDay	1506
+Jidōsha-Gakkō-Mae Station	passengersPerDay	875
+Saginomiya Station (Shizuoka)	passengersPerDay	981
+Sekishi Station	passengersPerDay	903
+Enshū-Nishigasaki Station	passengersPerDay	772
+Enshū-Komatsu Station	passengersPerDay	1237
+Hamakita Station	passengersPerDay	1280
+Misono-Chūō-kōen Station	passengersPerDay	974
+Enshū-Kobayashi Station	passengersPerDay	1224
+Enshū-Shibamoto Station	passengersPerDay	645
+Enshū-Gansuiji Station	passengersPerDay	428
+Guangzhou-Shenzhen-Hong Kong Express Rail Link Hong Kong Section	passengersPerDay	99000
+Shin-Shibaura Station	passengersPerDay	316
+Asano Station	passengersPerDay	876
+Anzen Station	passengersPerDay	1132
+Ōkawa Station	passengersPerDay	965
+Musashi-Shiraishi Station	passengersPerDay	1601
+Hama-Kawasaki Station	passengersPerDay	2606
+Ōgimachi Station (Kanagawa)	passengersPerDay	611
+Bentembashi Station	passengersPerDay	5416
+Tsurumi-Ono Station	passengersPerDay	4949
+Kokudō Station	passengersPerDay	1532
+Higashi-Kaijin Station	passengersPerDay	5208
+Shimōsa-Manzaki Station	passengersPerDay	802
+Suzhou Subway	passengersPerDay	0
+Palm Jumeirah Monorail	passengersPerDay	600
+Pasig River Ferry Service	passengersPerDay	2000
+Asaka Station (Saitama)	passengersPerDay	59505
+PUTCO	passengersPerDay	230000
+Kioroshi Station	passengersPerDay	2609
+Nakasu-Kawabata Station	passengersPerDay	10837
+Ōhashi Station	passengersPerDay	34856
+Ijiri Station	passengersPerDay	22050
+Zasshonokuma Station	passengersPerDay	15673
+Kasugabaru Station	passengersPerDay	19796
+Shirakibaru Station	passengersPerDay	8876
+Shimoōri Station	passengersPerDay	15930
+Tofurōmae Station	passengersPerDay	6319
+Nishitetsu Futsukaichi Station	passengersPerDay	26207
+Kashii Station	passengersPerDay	11658
+Nishitetsu Gojō Station	passengersPerDay	6915
+Dazaifu Station	passengersPerDay	11349
+Haiki Station	passengersPerDay	2703
+Arita Station	passengersPerDay	1221
+St. Albert Transit	passengersPerDay	4047
+Kōyōen Station	passengersPerDay	6653
+Daidōchō Station	passengersPerDay	5512
+Shibata Station (Aichi)	passengersPerDay	2713
+Nawa Station (Aichi)	passengersPerDay	5114
+Shinnittetsu-mae Station	passengersPerDay	2292
+Shūrakuen Station	passengersPerDay	4450
+Ōtagawa Station	passengersPerDay	13243
+Airport Line (UTA TRAX)	passengersPerDay	10000
+Airport Line (UTA TRAX)	passengersPerDay	14000
+Ulster County Area Transit	passengersPerDay	1224
+Ulster County Area Transit	passengersPerDay	219
+Ulster County Area Transit	passengersPerDay	52
+Pasadena via Oak Knoll (Pacific Electric)	passengersPerDay	7693
+Sierra Madre (Pacific Electric)	passengersPerDay	1713
+Chikushi Station	passengersPerDay	5705
+Nishitetsu Ogōri Station	passengersPerDay	12317
+Pasadena Short Line (Pacific Electric)	passengersPerDay	7693
+Muromi Station	passengersPerDay	7360
+Fujisaki Station (Fukuoka)	passengersPerDay	9974
+Nishijin Station	passengersPerDay	20167
+Tōjinmachi Station	passengersPerDay	7190
+Ōhorikōen Station	passengersPerDay	7190
+Akasaka Station (Fukuoka)	passengersPerDay	12152
+Gion Station (Fukuoka)	passengersPerDay	5243
+Fukuokakūkō Station	passengersPerDay	20053
+Higashi-Hie Station	passengersPerDay	6873
+Gofukumachi Station (Fukuoka)	passengersPerDay	2504
+Hakozaki-Miyamae Station	passengersPerDay	2567
+Hakozaki-Kyūdai-mae Station	passengersPerDay	3213
+Minami-Fukuoka Station	passengersPerDay	8198
+Sakurazaka Station	passengersPerDay	1155
+Ropponmatsu Station	passengersPerDay	2323
+Befu Station (Fukuoka)	passengersPerDay	3219
+Chayama Station (Fukuoka)	passengersPerDay	1485
+Kanayama Station (Fukuoka)	passengersPerDay	2049
+Nanakuma Station	passengersPerDay	2605
+Fukudaimae Station	passengersPerDay	4463
+Umebayashi Station	passengersPerDay	810
+Kamo Station (Fukuoka)	passengersPerDay	1714
+Jirōmaru Station	passengersPerDay	1762
+Noke Station	passengersPerDay	2370
+Hashimoto Station (Fukuoka)	passengersPerDay	1900
+Sōka Station	passengersPerDay	79956
+Sōen Station	passengersPerDay	8830
+Nonami Station	passengersPerDay	16056
+Victor Valley Transit Authority	passengersPerDay	2795
+SüdostBayernBahn	passengersPerDay	26000
+Cairo Metro Line 1	passengersPerDay	1000000
+Kita-Sakado Station	passengersPerDay	20374
+Takasaka Station	passengersPerDay	27661
+Tōbu-Takezawa Station	passengersPerDay	848
+Vought Airtrans	passengersPerDay	250000000
+Meitetsu Airport Line	passengersPerDay	8695
+Line B (Rome Metro)	passengersPerDay	300000
+Ryokuentoshi Station	passengersPerDay	26488
+Satte Station	passengersPerDay	14824
+Hatchōnawate Station	passengersPerDay	13759
+Hatchōnawate Station	passengersPerDay	1132
+Rabbit Transit (York)	passengersPerDay	6000
+Nakanoshima Station (Kanagawa)	passengersPerDay	14145
+Inadazutsumi Station	passengersPerDay	21760
+Kawasaki-Shimmachi Station	passengersPerDay	1314
+Kamihongō Station	passengersPerDay	6798
+Matsudo-Shinden Station	passengersPerDay	6964
+Minoridai Station	passengersPerDay	7632
+Yabashira Station	passengersPerDay	45089
+Tokiwadaira Station	passengersPerDay	18286
+Gokō Station	passengersPerDay	31604
+Motoyama Station (Chiba)	passengersPerDay	19563
+Kita-Hatsutomi Station	passengersPerDay	5163
+Futawamukōdai Station	passengersPerDay	18640
+Takifudō Station	passengersPerDay	7074
+Misaki Station (Chiba)	passengersPerDay	12516
+Takanekido Station	passengersPerDay	8470
+Kita-Narashino Station	passengersPerDay	42312
+Kita-Narashino Station	passengersPerDay	35626
+Yakuendai Station	passengersPerDay	13793
+Narashino Station	passengersPerDay	13075
+Maebara Station	passengersPerDay	6840
+Shin-Tsudanuma Station	passengersPerDay	72175
+Kawama Station	passengersPerDay	18504
+Shimizu-kōen Station	passengersPerDay	3841
+Nanakōdai Station	passengersPerDay	4611
+Atago Station (Chiba)	passengersPerDay	9215
+Nodashi Station	passengersPerDay	10040
+Umesato Station	passengersPerDay	16091
+Edogawadai Station	passengersPerDay	25890
+Hatsuishi Station	passengersPerDay	18580
+Unga Station	passengersPerDay	22726
+Nagareyama-ōtakanomori Station	passengersPerDay	46233
+Nagareyama-ōtakanomori Station	passengersPerDay	27753
+Toyoshiki Station	passengersPerDay	14966
+Shin-Kashiwa Station	passengersPerDay	19346
+Sakasai Station	passengersPerDay	14096
+Masuo Station (Chiba)	passengersPerDay	13221
+Takayanagi Station	passengersPerDay	12147
+Mutsumi Station	passengersPerDay	15630
+Kamagaya Station	passengersPerDay	22448
+Magomezawa Station	passengersPerDay	26865
+Tsukada Station	passengersPerDay	13364
+Shin-Funabashi Station	passengersPerDay	4208
+Hasama Station	passengersPerDay	14954
+Funabashi-Nichidaimae Station	passengersPerDay	11370
+Yachiyo-Midorigaoka Station	passengersPerDay	27484
+Yachiyo-Chūō Station	passengersPerDay	18780
+Murakami Station (Chiba)	passengersPerDay	3355
+Kawatana Station	passengersPerDay	2006
+Metrotrén	passengersPerDay	25000
+Haramain High Speed Rail Project	passengersPerDay	38000
+Sagamihara Station	passengersPerDay	28185
+Railway electrification in Iran	passengersPerDay	30000
+Nishitetsu Kurume Station	passengersPerDay	40367
+Higashi-Mukōjima Station	passengersPerDay	16867
+Shin-Shizuoka Station	passengersPerDay	11070
+Wakabadai Station	passengersPerDay	21217
+Shin-Shimizu Station	passengersPerDay	3492
+SunLine Transit Agency	passengersPerDay	8219
+Guangzhou–Zhuhai Intercity Mass Rapid Transit	passengersPerDay	342000
+Gainesville Regional Transit System	passengersPerDay	24888
+Munich Tramway	passengersPerDay	250000
+Collier Area Transit	passengersPerDay	3850
+Lawrence Transit	passengersPerDay	1079
+Shigisanshita Station	passengersPerDay	3364
+Mukonosō Station	passengersPerDay	54220
+Otaru-Chikkō Station	passengersPerDay	2430
+Transport Est-Ouest Rouennais	passengersPerDay	45000
+Kamoi Station	passengersPerDay	39368
+Fuchinobe Station	passengersPerDay	38577
+Meitetsu Hashima Line	passengersPerDay	808
+Meitetsu Takehana Line	passengersPerDay	4657
+Nishi-Kasamatsu Station	passengersPerDay	1167
+Minami-Juku Station	passengersPerDay	397
+Suka Station	passengersPerDay	381
+Fuwa-Ishiki Station	passengersPerDay	442
+Takehana Station	passengersPerDay	1041
+Hashimashiyakushomae Station	passengersPerDay	1047
+Higashi-Nagoyakō Station	passengersPerDay	2613
+Topeka Transit	passengersPerDay	5732
+Kabaike Station	passengersPerDay	1076
+Enokido Station (Aichi)	passengersPerDay	1505
+Taya Station	passengersPerDay	960
+Tokoname Station	passengersPerDay	10065
+Takayokosuka Station	passengersPerDay	1301
+Minami-Kagiya Station	passengersPerDay	7199
+Yawata Shinden Station	passengersPerDay	1066
+Tatsumigaoka Station	passengersPerDay	7061
+Shirasawa Station (Aichi)	passengersPerDay	281
+Sakabe Station	passengersPerDay	380
+Agui Station	passengersPerDay	2324
+Handaguchi Station	passengersPerDay	215
+Uedai Station	passengersPerDay	551
+Fuki Station	passengersPerDay	343232
+Kōwaguchi Station	passengersPerDay	117217
+Kaminoma Station	passengersPerDay	346
+Mihama Ryokuen Station	passengersPerDay	204
+Chita-Okuda Station	passengersPerDay	3040
+Noma Station	passengersPerDay	335
+Utsumi Station	passengersPerDay	881
+Yawata Station	passengersPerDay	784
+Suwachō Station	passengersPerDay	1992
+Inariguchi Station	passengersPerDay	400
+Toyokawa-Inari Station	passengersPerDay	2279
+Hiyoshichō Station	passengersPerDay	581
+Otowachō Station	passengersPerDay	680
+Kasugachō Station	passengersPerDay	714
+Yunoki Station (Shizuoka, Shizuoka)	passengersPerDay	1397
+Naganuma Station (Shizuoka)	passengersPerDay	699
+Furushō Station	passengersPerDay	1353
+Ken-Sōgō Undōjō Station	passengersPerDay	1387
+Kenritsu Bijutsukanmae Station	passengersPerDay	846
+Mikadodai Station	passengersPerDay	1244
+Kitsunegasaki Station	passengersPerDay	2336
+Sakurabashi Station (Shizuoka)	passengersPerDay	2135
+Irieoka Station	passengersPerDay	259
+Shiyakusho-mae Station (Chiba)	passengersPerDay	2
+Sakaechō Station (Chiba)	passengersPerDay	242
+Yoshikawa-kōen Station	passengersPerDay	822
+Kenchō-mae Station (Chiba)	passengersPerDay	822
+Shisui Station	passengersPerDay	3176
+Kuzumi Station	passengersPerDay	238
+Namegawa Station	passengersPerDay	998
+Sakura Station (Chiba)	passengersPerDay	10736
+Shimōsa-Kōzaki Station	passengersPerDay	1022
+Ōto Station	passengersPerDay	243
+Suigō Station	passengersPerDay	185
+Sawara Station	passengersPerDay	3119
+Omigawa Station	passengersPerDay	1284
+Sasagawa Station	passengersPerDay	392
+Shimōsa-Tachibana Station	passengersPerDay	336
+Shiishiba Station	passengersPerDay	511
+Shimōsa-Toyosato Station	passengersPerDay	171
+Matsugishi Station	passengersPerDay	527
+Higashi-Abiko Station	passengersPerDay	729
+Kohoku Station	passengersPerDay	4356
+Fusa Station	passengersPerDay	3936
+Araki Station (Chiba)	passengersPerDay	2963
+Kobayashi Station (Chiba)	passengersPerDay	2602
+Higashi-Chiba Station	passengersPerDay	2098
+Tsuga Station	passengersPerDay	20124
+Tsuga Station	passengersPerDay	5607
+Yotsukaidō Station	passengersPerDay	21937
+Monoi Station	passengersPerDay	4108
+Minami-Shisui Station	passengersPerDay	208
+Enokido Station (Chiba)	passengersPerDay	2540
+Yachimata Station	passengersPerDay	6338
+Hyūga Station	passengersPerDay	1405
+Narutō Station	passengersPerDay	2973
+Matsuo Station (Chiba)	passengersPerDay	1109
+Yokoshiba Station	passengersPerDay	1469
+Iigura Station	passengersPerDay	449
+Yōkaichiba Station	passengersPerDay	2038
+Higata Station	passengersPerDay	891
+Asahi Station (Chiba)	passengersPerDay	1992
+Kurahashi Station	passengersPerDay	61
+Iioka Station	passengersPerDay	791
+Saruda Station	passengersPerDay	240
+Jūnikyō Station	passengersPerDay	55
+Ōami Station	passengersPerDay	11004
+Fukutawara Station	passengersPerDay	578
+Tōgane Station	passengersPerDay	4530
+Gumyō Station	passengersPerDay	1915
+Kamatori Station	passengersPerDay	18634
+Honda Station	passengersPerDay	6912
+Toke Station	passengersPerDay	13861
+Nagata Station (Chiba)	passengersPerDay	1311
+Honnō Station	passengersPerDay	1921
+Shin-Mobara Station	passengersPerDay	1452
+Mobara Station	passengersPerDay	11828
+Yatsumi Station	passengersPerDay	857
+Kazusa-Ichinomiya Station	passengersPerDay	3112
+Torami Station	passengersPerDay	81
+Taitō Station	passengersPerDay	614
+Chōjamachi Station	passengersPerDay	614
+Mikado Station	passengersPerDay	123
+Namihana Station	passengersPerDay	96
+Onjuku Station	passengersPerDay	650
+Katsuura Station	passengersPerDay	1315
+Ubara Station	passengersPerDay	108
+Kazusa-Okitsu Station	passengersPerDay	232
+Namegawa Island Station	passengersPerDay	19
+Awa-Kominato Station	passengersPerDay	242
+Awa-Amatsu Station	passengersPerDay	162
+Winston-Salem Transit Authority	passengersPerDay	10000
+Futako-Shinchi Station	passengersPerDay	18633
+Takatsu Station (Kanagawa)	passengersPerDay	27463
+Westgate (Pacific Electric)	passengersPerDay	31410
+Alhambra – San Gabriel (Pacific Electric)	passengersPerDay	1063529
+Balboa (Pacific Electric)	passengersPerDay	55390
+Sawtelle (Pacific Electric)	passengersPerDay	2286461
+Sherman (Pacific Electric)	passengersPerDay	5314149
+Owensmouth (Pacific Electric)	passengersPerDay	1038622
+Nagaura Station (Chiba)	passengersPerDay	6613
+Sodegaura Station	passengersPerDay	3891
+Iwane Station	passengersPerDay	2038
+Kimitsu Station	passengersPerDay	9018
+Aohori Station	passengersPerDay	1619
+Ōnuki Station	passengersPerDay	1245
+Sanukimachi Station	passengersPerDay	343
+Kazusa-Minato Station	passengersPerDay	924
+Takeoka Station	passengersPerDay	64
+Hamakanaya Station	passengersPerDay	342
+Hota Station (Chiba)	passengersPerDay	361
+Awa-Katsuyama Station	passengersPerDay	417
+Iwai Station	passengersPerDay	386
+Tomiura Station (Chiba)	passengersPerDay	287
+Nakofunakata Station	passengersPerDay	214
+Kokonoe Station	passengersPerDay	103
+Tateyama Station (Chiba)	passengersPerDay	2299
+Chikura Station	passengersPerDay	558
+Chitose Station (Chiba)	passengersPerDay	62
+Minamihara Station	passengersPerDay	481
+Emi Station	passengersPerDay	90
+Futomi Station	passengersPerDay	87
+Ōguchi Station	passengersPerDay	17164
+Kozukue Station	passengersPerDay	10199
+Kobuchi Station (Kanagawa)	passengersPerDay	21205
+Yabe Station	passengersPerDay	11324
+Rapid Metro Rail Gurgaon	passengersPerDay	100000
+Higashi-Zushi Station	passengersPerDay	5402
+Taura Station	passengersPerDay	2687
+Kinugasa Station	passengersPerDay	9326
+Shin-Nihombashi Station	passengersPerDay	19294
+Bakurochō Station	passengersPerDay	23742
+Gion Station (Chiba)	passengersPerDay	319
+Kazusa-Kiyokawa Station	passengersPerDay	254
+Higashi-Kiyokawa Station	passengersPerDay	86
+Yokota Station	passengersPerDay	236
+Higashi-Yokota Station	passengersPerDay	156
+Makuta Station	passengersPerDay	301
+Shimogōri Station	passengersPerDay	78
+Tawarada Station	passengersPerDay	64
+Obitsu Station	passengersPerDay	154
+Kururi Station	passengersPerDay	464
+Hirayama Station	passengersPerDay	48
+Kazusa-Matsuoka Station	passengersPerDay	81
+Kazusa-Kameyama Station	passengersPerDay	102
+Komazawa-daigaku Station	passengersPerDay	69558
+Kajigaya Station	passengersPerDay	36733
+Tabira-Hiradoguchi Station	passengersPerDay	302
+Saza Station	passengersPerDay	656
+Matsuura Station	passengersPerDay	716
+Sasebo-Chūō Station	passengersPerDay	783
+Huis Ten Bosch Station	passengersPerDay	1913
+Zagreb Tramway	passengersPerDay	560000
+Emukae-Shikamachi Station	passengersPerDay	677
+Kita-Sasebo Station	passengersPerDay	419
+Ōmura Station (Nagasaki)	passengersPerDay	4683
+İstanbul–Ankara high-speed railway	passengersPerDay	10005
+Sonogi Station	passengersPerDay	735
+Yoshii Station (Nagasaki)	passengersPerDay	335
+Senryūgataki Station	passengersPerDay	206
+Shimabara Station	passengersPerDay	1622
+Monroe County Transit Authority	passengersPerDay	1600
+List of Montreal bus routes	passengersPerDay	1403700
+Maybrook Line	passengersPerDay	0
+Daigaku Station	passengersPerDay	896
+Tramways in Łódź	passengersPerDay	5000000
+Greensboro Transit Authority	passengersPerDay	10410
+Naka-Sasebo Station	passengersPerDay	186
+Hidariishi Station	passengersPerDay	872
+Saginuma Station	passengersPerDay	60503
+Higashi-Tabira Station	passengersPerDay	24
+Mikuriya Station (Nagasaki)	passengersPerDay	446
+Takematsu Station	passengersPerDay	2106
+Hon-Isahaya Station	passengersPerDay	862
+Nishi-Tabira Station	passengersPerDay	446
+Uranosaki Station	passengersPerDay	86
+Shingashi Station	passengersPerDay	23222
+Mizuhodai Station	passengersPerDay	41169
+Yanasegawa Station	passengersPerDay	22531
+Koura Station	passengersPerDay	355
+Flint Mass Transportation Authority	passengersPerDay	19700
+Eda Station (Kanagawa)	passengersPerDay	35827
+Iwamatsu Station	passengersPerDay	274
+Zōshuku Station	passengersPerDay	28
+Nakazato Station	passengersPerDay	167
+Akebonobashi Station	passengersPerDay	36738
+Ōtsuka-Teikyō-Daigaku Station	passengersPerDay	3492
+Chūō-Daigaku-Meisei-Daigaku Station	passengersPerDay	14981
+Kōshū-Kaidō Station	passengersPerDay	3257
+Kamikitadai Station	passengersPerDay	6087
+Shibasaki-Taiikukan Station	passengersPerDay	3257
+Sakura-Kaidō Station	passengersPerDay	3468
+Sunagawa-Nanaban Station	passengersPerDay	2217
+Izumi-Taiikukan Station	passengersPerDay	2650
+Tachihi Station	passengersPerDay	1310
+Takamatsu Station (Tokyo)	passengersPerDay	2292
+Manganji Station	passengersPerDay	3382
+Hodokubo Station	passengersPerDay	916
+Tachikawa-Minami Station	passengersPerDay	14122
+Suwa Station	passengersPerDay	444
+Matsubara Station (Nagasaki)	passengersPerDay	219
+Midorichō Station	passengersPerDay	182
+Isaida Station	passengersPerDay	1403
+Gohyakurakan Station	passengersPerDay	841
+Anabe Station	passengersPerDay	723
+Iidaoka Station	passengersPerDay	923
+Sagami-Numata Station	passengersPerDay	1515
+Iwahara Station	passengersPerDay	886
+Tsukahara Station	passengersPerDay	1220
+Wadagahara Station	passengersPerDay	1816
+Fujifilm-Mae Station	passengersPerDay	672
+Daiyūzan Station	passengersPerDay	2591
+Mishima-Hirokōji Station	passengersPerDay	2396
+Mishima-Tamachi Station	passengersPerDay	1753
+Mishima-Futsukamachi Station	passengersPerDay	1431
+Daiba Station (Shizuoka)	passengersPerDay	2847
+Izu-Nitta Station	passengersPerDay	1666
+Baraki Station	passengersPerDay	341
+Nirayama Station	passengersPerDay	1697
+Izu-Nagaoka Station	passengersPerDay	2777
+Takyō Station	passengersPerDay	1493
+Ōhito Station	passengersPerDay	1751
+Makinokō Station	passengersPerDay	1493
+Shuzenji Station	passengersPerDay	2889
+Chiwata Station	passengersPerDay	334
+Whittier (Pacific Electric)	passengersPerDay	1139480
+Morishita Station (Tokyo)	passengersPerDay	121571
+Wuhan–Guangzhou High-Speed Railway	passengersPerDay	56400
+Honjō Station (Fukuoka)	passengersPerDay	1165
+Istanbul modern tram	passengersPerDay	2
+Jaipur Metro	passengersPerDay	600000
+Ferrovie regionali del Lazio	passengersPerDay	373
+Futajima Station	passengersPerDay	1392
+Wakamatsu Station	passengersPerDay	1426
+Takaosanguchi Station	passengersPerDay	9499
+Fuchū-Keiba-Seimon-mae Station	passengersPerDay	3479
+Chiba-kōen Station	passengersPerDay	724
+Sakusabe Station	passengersPerDay	1828
+Tendai Station	passengersPerDay	1757
+Anagawa Station (Chiba)	passengersPerDay	1403
+Sports Center Station	passengersPerDay	2383
+Dōbutsukōen Station	passengersPerDay	674
+Mitsuwadai Station	passengersPerDay	1750
+Sakuragi Station (Chiba)	passengersPerDay	1412
+Oguradai Station	passengersPerDay	1281
+Chishirodai-Kita Station	passengersPerDay	709
+Chishirodai Station	passengersPerDay	4436
+Carowinds Monorail	passengersPerDay	7000
+Yokokawa Station	passengersPerDay	313
+Daishimae Station	passengersPerDay	15228
+Keiō-Inadazutsumi Station	passengersPerDay	48323
+Iwamotochō Station	passengersPerDay	39348
+Ogawamachi Station (Tokyo)	passengersPerDay	66547
+Hamachō Station	passengersPerDay	21413
+Kikukawa Station	passengersPerDay	22193
+Funabori Station	passengersPerDay	22193
+Ōjima Station	passengersPerDay	30044
+Nishi-ōjima Station	passengersPerDay	23329
+Higashi-ōjima Station	passengersPerDay	30062
+Ichinoe Station	passengersPerDay	36545
+Mizue Station	passengersPerDay	47203
+Shinozaki Station	passengersPerDay	32343
+Tsurumi-Ichiba Station	passengersPerDay	18681
+Keikyū Tsurumi Station	passengersPerDay	28457
+Kagetsuen-mae Station	passengersPerDay	7603
+Namamugi Station	passengersPerDay	28173
+Keikyū Shin-Koyasu Station	passengersPerDay	8335
+Minatochō Station	passengersPerDay	3539
+Suzukichō Station	passengersPerDay	8058
+Kawasaki-Daishi Station	passengersPerDay	17295
+Higashimonzen Station	passengersPerDay	8924
+Sangyōdōro Station	passengersPerDay	9505
+Kojimashinden Station	passengersPerDay	21205
+Cariri Metro	passengersPerDay	1000
+Keisei Makuhari Station	passengersPerDay	7240
+Kemigawa Station	passengersPerDay	3596
+Keisei Inage Station	passengersPerDay	6247
+Midori-dai Station	passengersPerDay	6593
+Nishinobuto Station	passengersPerDay	2213
+Shin-Chiba Station	passengersPerDay	1375
+Keisei Chiba Station	passengersPerDay	24428
+Chiba-Chūō Station	passengersPerDay	15210
+Chibadera Station	passengersPerDay	3931
+Gakuenmae Station (Chiba)	passengersPerDay	4115
+Oyumino Station	passengersPerDay	4060
+Chiharadai Station	passengersPerDay	5044
+Ōmoridai Station	passengersPerDay	2730
+Yayoidai Station	passengersPerDay	16895
+Izumino Station	passengersPerDay	15311
+Izumi-chūō Station (Kanagawa)	passengersPerDay	15484
+Yumegaoka Station	passengersPerDay	1160
+Orléans tramway	passengersPerDay	42000
+Le Mans tramway	passengersPerDay	48000
+Airport Transport Service	passengersPerDay	7900000
+Nancy Guided Light Transit	passengersPerDay	50000
+Hudson Rail Link	passengersPerDay	1500
+Fujigaoka Station (Kanagawa)	passengersPerDay	26486
+Tana Station	passengersPerDay	10912
+La Habra-Yorba Linda (Pacific Electric)	passengersPerDay	100105
+Fullerton (Pacific Electric)	passengersPerDay	100105
+Redondo Beach via Gardena (Pacific Electric)	passengersPerDay	319602
+San Pedro via Dominguez (Pacific Electric)	passengersPerDay	1002051
+Tsukimino Station	passengersPerDay	10912
+Aobadai Station	passengersPerDay	110410
+Santa Ana (Pacific Electric)	passengersPerDay	1046974
+San Pedro via Gardena (Pacific Electric)	passengersPerDay	101461
+Beverly Hills (Pacific Electric)	passengersPerDay	4776982
+Hawthorne-El Segundo (Pacific Electric)	passengersPerDay	304996
+Long Beach (Pacific Electric)	passengersPerDay	1603476
+Shanghai–Nanjing Intercity High-Speed Railway	passengersPerDay	134000
+Shimoiida Station	passengersPerDay	2615
+Tateba Station	passengersPerDay	10015
+Nakada Station	passengersPerDay	8094
+Odoriba Station	passengersPerDay	8908
+Maioka Station	passengersPerDay	2325
+Shimonagaya Station	passengersPerDay	5700
+Kaminagaya Station	passengersPerDay	18783
+Kōnan-Chūō Station	passengersPerDay	8452
+Gumyōji Station (Yokohama Municipal Subway)	passengersPerDay	8558
+Maita Station (Kanagawa)	passengersPerDay	11315
+Yoshinochō Station	passengersPerDay	6447
+Bandōbashi Station	passengersPerDay	8150
+Isezaki-chōjamachi Station	passengersPerDay	7611
+Mitsuzawa-shimochō Station	passengersPerDay	5780
+Mitsuzawa-kamichō Station	passengersPerDay	7281
+Katakurachō Station	passengersPerDay	10141
+Kishine-kōen Station	passengersPerDay	5296
+Athens Tram	passengersPerDay	65000
+Trolleybuses in Vilnius	passengersPerDay	313
+Nakamachidai Station	passengersPerDay	14321
+Nippa Station	passengersPerDay	8361
+Kita Shin-Yokohama Station	passengersPerDay	5233
+Vilniaus autobusai	passengersPerDay	275380
+RATP Iaşi	passengersPerDay	150000
+First Coast Commuter Rail  North Corridor   1	passengersPerDay	1020
+First Coast Commuter Rail  Southwest Corridor   1	passengersPerDay	1490
+First Coast Commuter Rail  Southeast Corridor   1	passengersPerDay	2410
+Warminster Line	passengersPerDay	9433
+West Trenton Line (SEPTA)	passengersPerDay	12182
+Media/Elwyn Line	passengersPerDay	10492
+Lansdale/Doylestown Line	passengersPerDay	18967
+Paoli/Thorndale Line	passengersPerDay	22797
+Cynwyd Line	passengersPerDay	553
+Manayunk/Norristown Line	passengersPerDay	11234
+Fox Chase Line	passengersPerDay	5977
+Chestnut Hill East Line	passengersPerDay	6341
+Watts (Pacific Electric)	passengersPerDay	37436
+Watts (Pacific Electric)	passengersPerDay	4325
+Chestnut Hill West Line	passengersPerDay	6447
+747 Express Bus	passengersPerDay	3500
+İstanbul Line	passengersPerDay	22236
+Southern Line (İZBAN)	passengersPerDay	40500
+ESHOT	passengersPerDay	3
+Navi Mumbai Monorail	passengersPerDay	710557
+Pune Monorail	passengersPerDay	710557
+Maceió Metro	passengersPerDay	40000
+North South Railway (Saudi Arabia)	passengersPerDay	0
+Pune Suburban Service	passengersPerDay	17
+Guangzhou Bus Rapid Transit	passengersPerDay	1000000
+Fujinoki Station	passengersPerDay	285
+Okudōkai Station	passengersPerDay	471
+Shuttle-UM	passengersPerDay	2600000
+KPN Travels	passengersPerDay	6000
+Nakanochō Station	passengersPerDay	114
+Kannon Station	passengersPerDay	470
+Moto-Chōshi Station	passengersPerDay	470
+Kasagami-Kurohae Station	passengersPerDay	340
+Nishi-Ashikajima Station	passengersPerDay	162
+Ashikajima Station	passengersPerDay	486
+Kimigahama Station	passengersPerDay	60
+Inuboh Station	passengersPerDay	382
+Tokawa Station	passengersPerDay	526
+33 Langelier	passengersPerDay	16277
+165 Côte-des-Neiges	passengersPerDay	20592
+24 Sherbrooke	passengersPerDay	17899
+139 Pie-IX	passengersPerDay	36999
+121 Sauvé/Côte-Vertu	passengersPerDay	35634
+161 Van Horne	passengersPerDay	20565
+141 Jean Talon East	passengersPerDay	29285
+69 Gouin	passengersPerDay	27095
+51 Boulevard Édouard-Montpetit	passengersPerDay	24866
+18 Beaubien	passengersPerDay	22775
+45 Papineau	passengersPerDay	18262
+105 Sherbrooke	passengersPerDay	16111
+197 Rosemont	passengersPerDay	14559
+67 Saint-Michel	passengersPerDay	23217
+535 Reserve Lane Parc/Côte-des-Neiges	passengersPerDay	33425
+80 Avenue du Parc	passengersPerDay	12049
+55 Boulevard Saint-Laurent	passengersPerDay	13386
+132 Viau	passengersPerDay	10634
+171 Henri-Bourassa	passengersPerDay	11510
+211 Bord-du-Lac	passengersPerDay	9119
+106 Newman	passengersPerDay	9166
+506 Reserved Lane Newman	passengersPerDay	4491
+32 Lacordaire	passengersPerDay	12851
+44 Armand-Bombardier	passengersPerDay	9635
+64 Grenet	passengersPerDay	10844
+48 Perras	passengersPerDay	6786
+49 Maurice-Duplessis	passengersPerDay	10564
+90 Saint-Jacques	passengersPerDay	10707
+97 Mont-Royal	passengersPerDay	9304
+103 Monkland	passengersPerDay	8761
+187 René-Lévesque	passengersPerDay	4876
+470 Express Pierrefonds	passengersPerDay	8168
+467 Express Saint-Michel	passengersPerDay	17676
+427 Express Saint-Joseph	passengersPerDay	2000
+Kazusa-Nakagawa Station	passengersPerDay	20
+Shiromigaoka Station	passengersPerDay	20
+Ōtaki Station (Chiba)	passengersPerDay	374
+Koyamatsu Station	passengersPerDay	20
+Higashi-Fusamoto Station	passengersPerDay	10
+Kugahara Station (Chiba)	passengersPerDay	19
+Fusamoto Station	passengersPerDay	36
+Nishihata Station	passengersPerDay	29
+TransJakarta Corridors	passengersPerDay	280000
+MobiVie	passengersPerDay	1
+Patna Monorail	passengersPerDay	32000
+Ahmedabad Monorail	passengersPerDay	710557
+Ludhiana Metro	passengersPerDay	25000
+Bhopal Metro	passengersPerDay	60000
+Cebu Bus Rapid Transit System	passengersPerDay	317000
+Kanpur Monorail	passengersPerDay	35000
+Delhi Metro	passengersPerDay	1600000
+Rutgers Campus Buses	passengersPerDay	70000
+Rutgers Campus Buses	passengersPerDay	6000000
+Yōrōkeikoku Station	passengersPerDay	121
+Kazusa-Ōkubo Station	passengersPerDay	34
+Tsukizaki Station	passengersPerDay	15
+Satomi Station	passengersPerDay	22
+Takataki Station	passengersPerDay	37
+Kazusa-Kubo Station	passengersPerDay	10
+Kazusa-Tsurumai Station	passengersPerDay	15
+Kazusa-Kawama Station	passengersPerDay	8
+Kazusa-Ushiku Station	passengersPerDay	750
+Umatate Station	passengersPerDay	297
+Kōfūdai Station (Chiba)	passengersPerDay	493
+Kazusa-Yamada Station	passengersPerDay	167
+Kazusa-Mitsumata Station	passengersPerDay	171
+Amaariki Station	passengersPerDay	242
+Kazusa-Murakami Station	passengersPerDay	116
+Hangzhou BRT	passengersPerDay	40000
+Lucknow Mahanagar Parivahan Sewa	passengersPerDay	150000
+Indore Metro	passengersPerDay	90000
+Route 193 Jarry	passengersPerDay	13639
+M2 (İstanbul Metro)	passengersPerDay	170000

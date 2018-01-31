@@ -1,0 +1,138 @@
+Lancaster Canal	hasJunctionWith	River Lune
+Lancaster Canal	hasJunctionWith	Ribble Link
+River Gipping	hasJunctionWith	River Orwell
+Stratford-upon-Avon Canal	hasJunctionWith	Worcester and Birmingham Canal
+Stratford-upon-Avon Canal	hasJunctionWith	River Avon (Warwickshire)
+Kennet and Avon Canal	hasJunctionWith	Somerset Coal Canal
+Kennet and Avon Canal	hasJunctionWith	Wilts & Berks Canal
+Birmingham and Fazeley Canal	hasJunctionWith	BCN Main Line
+Birmingham and Fazeley Canal	hasJunctionWith	Coventry Canal
+Birmingham and Fazeley Canal	hasJunctionWith	Grand Union Canal
+Birmingham and Fazeley Canal	hasJunctionWith	Tame Valley Canal
+Trent and Mersey Canal	hasJunctionWith	Bridgewater Canal
+Thames and Severn Canal	hasJunctionWith	River Thames
+Thames and Severn Canal	hasJunctionWith	Stroudwater Navigation
+Thames and Severn Canal	hasJunctionWith	Wilts & Berks Canal
+Herefordshire and Gloucestershire Canal	hasJunctionWith	River Severn
+Liskeard and Looe Union Canal	hasJunctionWith	River Looe
+Foss Dyke	hasJunctionWith	River Trent
+Foss Dyke	hasJunctionWith	River Witham
+Manchester Ship Canal	hasJunctionWith	River Mersey
+Manchester Ship Canal	hasJunctionWith	River Irwell
+Manchester Ship Canal	hasJunctionWith	Bridgewater Canal
+Manchester Ship Canal	hasJunctionWith	Shropshire Union Canal
+Manchester Ship Canal	hasJunctionWith	River Weaver
+Bergse Maas	hasJunctionWith	Donge
+Basingstoke Canal	hasJunctionWith	Wey and Godalming Navigations
+Bridgewater Canal	hasJunctionWith	Rochdale Canal
+Bridgewater Canal	hasJunctionWith	Trent and Mersey Canal
+Bridgewater Canal	hasJunctionWith	Leeds and Liverpool Canal
+Bridgewater Canal	hasJunctionWith	Manchester Ship Canal
+Grand Canal (Ireland)	hasJunctionWith	River Shannon
+Royal Canal	hasJunctionWith	River Shannon
+Grantham Canal	hasJunctionWith	River Trent
+Ashton Canal	hasJunctionWith	Huddersfield Narrow Canal
+Ashton Canal	hasJunctionWith	Peak Forest Canal
+Ashton Canal	hasJunctionWith	Rochdale Canal
+Sankey Canal	hasJunctionWith	River Mersey
+Union Canal (Pennsylvania)	hasJunctionWith	Schuylkill Canal
+Union Canal (Pennsylvania)	hasJunctionWith	Main Line of Public Works#Eastern Division Canal
+Baybridge Canal	hasJunctionWith	River Adur
+Cromford Canal	hasJunctionWith	Erewash Canal
+Cromford Canal	hasJunctionWith	Nottingham Canal
+Dearne and Dove Canal	hasJunctionWith	River Don Navigation
+Dearne and Dove Canal	hasJunctionWith	Barnsley Canal
+Derby Canal	hasJunctionWith	Trent and Mersey Canal
+Derby Canal	hasJunctionWith	Erewash Canal
+Droitwich Canal	hasJunctionWith	River Severn
+Peak Forest Canal	hasJunctionWith	Ashton Canal
+Peak Forest Canal	hasJunctionWith	Macclesfield Canal
+Grand Surrey Canal	hasJunctionWith	River Thames
+Macclesfield Canal	hasJunctionWith	Peak Forest Canal
+Macclesfield Canal	hasJunctionWith	Trent and Mersey Canal
+Main Line of Public Works	hasJunctionWith	Delaware River
+Main Line of Public Works	hasJunctionWith	Schuylkill Canal
+Main Line of Public Works	hasJunctionWith	Transportation in Lancaster County, Pennsylvania#Canals
+Main Line of Public Works	hasJunctionWith	Susquehanna and Tidewater Canal
+Main Line of Public Works	hasJunctionWith	Codorus Navigation
+Main Line of Public Works	hasJunctionWith	Union Canal
+Main Line of Public Works	hasJunctionWith	Pennsylvania Canal (Susquehanna Division)
+Main Line of Public Works	hasJunctionWith	Allegheny River
+Main Line of Public Works	hasJunctionWith	Monongahela River
+Main Line of Public Works	hasJunctionWith	Ohio River
+Shrewsbury Canal	hasJunctionWith	Shropshire Union Canal
+Shrewsbury Canal	hasJunctionWith	Shropshire Canal
+Shrewsbury Canal	hasJunctionWith	Donnington Wood Canal
+Driffield Navigation	hasJunctionWith	River Hull
+Sheffield Canal	hasJunctionWith	River Don Navigation
+New Junction Canal	hasJunctionWith	Aire and Calder Navigation
+New Junction Canal	hasJunctionWith	River Don Navigation
+Market Weighton Canal	hasJunctionWith	Humber
+Coombe Hill Canal	hasJunctionWith	River Severn
+Junction Canal	hasJunctionWith	Chemung Canal
+Junction Canal	hasJunctionWith	Pennsylvania Canal (North Branch Division)
+Buckingham Arm	hasJunctionWith	Grand Union Canal
+Stourbridge Canal	hasJunctionWith	Staffordshire and Worcestershire Canal
+Stourbridge Canal	hasJunctionWith	Dudley Canal
+Aike Beck	hasJunctionWith	River Hull
+Stainforth and Keadby Canal	hasJunctionWith	River Don Navigation
+Stainforth and Keadby Canal	hasJunctionWith	River Trent
+Pocklington Canal	hasJunctionWith	River Derwent, Yorkshire
+Coalisland Canal	hasJunctionWith	River Blackwater, Northern Ireland
+Oakham Canal	hasJunctionWith	Melton Mowbray Navigation
+Pennsylvania and Ohio Canal	hasJunctionWith	Beaver and Erie Canal
+Pennsylvania and Ohio Canal	hasJunctionWith	Ohio and Erie Canal
+Stamford Canal	hasJunctionWith	River Welland
+Nutbrook Canal	hasJunctionWith	Erewash Canal
+Greasbrough Canal	hasJunctionWith	River Don Navigation
+Dukart's Canal	hasJunctionWith	Coalisland Canal
+Stover Canal	hasJunctionWith	River Teign
+Augustów Canal	hasJunctionWith	Bystry Canal
+Manchester and Salford Junction Canal	hasJunctionWith	Rochdale Canal
+Dingwall Canal	hasJunctionWith	Cromarty Firth
+Melton Mowbray Navigation	hasJunctionWith	Grand Union Canal
+Middle Level Navigations	hasJunctionWith	River Nene
+Stroudwater Navigation	hasJunctionWith	River Severn
+Stroudwater Navigation	hasJunctionWith	Thames and Severn Canal
+Salisbury and Southampton Canal	hasJunctionWith	Andover Canal
+Salisbury and Southampton Canal	hasJunctionWith	River Test
+Salisbury and Southampton Canal	hasJunctionWith	River Itchen, Hampshire
+Shropshire Canal	hasJunctionWith	Donnington Wood Canal
+Shropshire Canal	hasJunctionWith	Ketley Canal
+Shropshire Canal	hasJunctionWith	Wombridge Canal
+Ripon Canal	hasJunctionWith	River Ure
+Rother Link	hasJunctionWith	Chesterfield Canal
+Rother Link	hasJunctionWith	River Don Navigation
+Aberdare Canal	hasJunctionWith	Glamorganshire Canal
+Bald Eagle and Spring Creek Navigation	hasJunctionWith	Pennsylvania Canal (West Branch Division)#Extensions
+River Don Navigation	hasJunctionWith	New Junction Canal
+River Don Navigation	hasJunctionWith	Sheffield Canal
+Beaver and Erie Canal	hasJunctionWith	Ohio River
+Beaver and Erie Canal	hasJunctionWith	Sandy and Beaver Canal
+Beaver and Erie Canal	hasJunctionWith	Pennsylvania and Ohio Canal
+Beaver and Erie Canal	hasJunctionWith	Lake Erie
+Pennsylvania Canal (Susquehanna Division)	hasJunctionWith	Pennsylvania Canal (North Branch Division)
+Pennsylvania Canal (Susquehanna Division)	hasJunctionWith	Pennsylvania Canal (West Branch Division)
+Pennsylvania Canal (Susquehanna Division)	hasJunctionWith	Main Line of Public Works#Juniata Division Canal
+Pennsylvania Canal (Susquehanna Division)	hasJunctionWith	Main Line of Public Works#Eastern Division Canal
+Pennsylvania Canal (Susquehanna Division)	hasJunctionWith	Wiconisco Canal
+Leiper Canal	hasJunctionWith	Delaware River
+Codorus Navigation	hasJunctionWith	Susquehanna River
+Thanet Canal	hasJunctionWith	Leeds and Liverpool Canal
+Wisbech Canal	hasJunctionWith	River Nene
+Wisbech Canal	hasJunctionWith	Middle Level Navigations
+Susquehanna and Tidewater Canal	hasJunctionWith	Main Line of Public Works#Eastern Division Canal
+Susquehanna and Tidewater Canal	hasJunctionWith	Chesapeake Bay
+Birmingham and Liverpool Junction Canal	hasJunctionWith	Chester Canal
+Birmingham and Liverpool Junction Canal	hasJunctionWith	Staffordshire and Worcestershire Canal
+Slough Arm	hasJunctionWith	Grand Union Canal
+Sleaford Navigation	hasJunctionWith	River Witham
+Runcorn and Weston Canal	hasJunctionWith	Bridgewater Canal
+Runcorn and Weston Canal	hasJunctionWith	River Weaver
+Ivelchester and Langport Navigation	hasJunctionWith	River Parrett
+Arbury Canals	hasJunctionWith	Coventry Canal
+Cambridgeshire Lodes	hasJunctionWith	River Cam
+Cambridgeshire Lodes	hasJunctionWith	River Great Ouse
+Hulme Locks Branch Canal	hasJunctionWith	Mersey and Irwell Navigation
+Alamo Canal	hasJunctionWith	Alamo River
+Bystry Canal	hasJunctionWith	Augustów Canal

@@ -1,0 +1,93 @@
+Channel Tunnel	routeEndLocation	Coquelles
+Great Belt Fixed Link  The East Tunnel   1	routeEndLocation	Sprogø
+Queensway Tunnel	routeEndLocation	Birkenhead
+Queensway Tunnel	routeEndLocation	Merseyside
+Kingsway Tunnel	routeEndLocation	Wallasey
+Kingsway Tunnel	routeEndLocation	Merseyside
+Kilsby Tunnel	routeEndLocation	Crick
+Blackwall Tunnel	routeEndLocation	London Borough of Greenwich
+Seikan Tunnel	routeEndLocation	Hokkaido
+Sydney Harbour Tunnel	routeEndLocation	Cahill Expressway
+Gotthard Base Tunnel	routeEndLocation	Bodio
+Marmaray	routeEndLocation	Üsküdar
+Marmaray	routeEndLocation	Istanbul
+Marmaray	routeEndLocation	Turkey
+Ted Williams Tunnel	routeEndLocation	Logan International Airport
+Ted Williams Tunnel	routeEndLocation	East Boston
+Callahan Tunnel	routeEndLocation	East Boston
+Sumner Tunnel	routeEndLocation	Downtown Crossing
+Transbay Tube	routeEndLocation	West Oakland (BART station)
+Transbay Tube	routeEndLocation	Oakland, California
+Dudley Ward Tunnel	routeEndLocation	Europa Point
+Cross-Harbour Tunnel	routeEndLocation	Causeway Bay
+Cross-Harbour Tunnel	routeEndLocation	Hong Kong Island
+Cross-Harbour Tunnel	routeEndLocation	Canal Road, Hong Kong
+Twin Peaks Tunnel	routeEndLocation	West Portal Station
+Market Street Subway	routeEndLocation	Castro Street Station
+Fréjus Road Tunnel	routeEndLocation	Modane
+Furka Base Tunnel	routeEndLocation	Realp railway station
+Furka Base Tunnel	routeEndLocation	Canton of Uri
+Furka Base Tunnel	routeEndLocation	Switzerland
+Cross City Tunnel	routeEndLocation	Western Distributor
+Fort Pitt Tunnel	routeEndLocation	U.S. Route 19
+Lane Cove Tunnel	routeEndLocation	Gore Hill Freeway
+Lane Cove Tunnel	routeEndLocation	Artarmon, New South Wales
+Burnley Tunnel	routeEndLocation	Burnley, Victoria
+Squirrel Hill Tunnel	routeEndLocation	Nine Mile Run (New Jersey)
+Mount Victoria Tunnel	routeEndLocation	Hataitai
+Oslo Tunnel	routeEndLocation	Skøyen Station
+SMART Tunnel  Stormwater Management and Road Tunnel   1	routeEndLocation	Simpang Airport
+North River Tunnels	routeEndLocation	Pennsylvania Station (New York City)
+North River Tunnels	routeEndLocation	Manhattan
+North River Tunnels	routeEndLocation	New York City
+Hsuehshan Tunnel	routeEndLocation	Toucheng, Yilan
+Hsuehshan Tunnel	routeEndLocation	Yilan County, Taiwan
+Uptown Hudson Tubes	routeEndLocation	Hoboken Terminal
+Uptown Hudson Tubes	routeEndLocation	Newport (PATH station)
+Savio Rail Tunnel	routeEndLocation	Vuosaari
+Downtown Hudson Tubes	routeEndLocation	Exchange Place (PATH station)
+Hallandsås Tunnel	routeEndLocation	Båstad
+Otira Tunnel	routeEndLocation	Arthur's Pass
+Brenner Base Tunnel	routeEndLocation	Franzensfeste
+Brenner Base Tunnel	routeEndLocation	Italy
+Thomas P. O'Neill Jr. Tunnel	routeEndLocation	Leonard P. Zakim Bunker Hill Memorial Bridge
+City Tunnel (Malmö)	routeEndLocation	Hyllie railway station
+Traforo del Gran Sasso	routeEndLocation	Casale San Nicola
+Tyholt Tunnel	routeEndLocation	Lademoen
+Lieråsen Tunnel	routeEndLocation	Lier Station
+Romerike Tunnel	routeEndLocation	Lillestrøm Station
+Ulriken Tunnel	routeEndLocation	Bergen Station
+Atlantic Ocean Tunnel	routeEndLocation	Kirkelandet
+Atlantic Ocean Tunnel	routeEndLocation	Kristiansund
+Lyttelton Rail Tunnel	routeEndLocation	Heathcote River
+Hell Tunnel	routeEndLocation	Hell, Norway
+Hell Tunnel	routeEndLocation	Stjørdal
+KLCC Tunnel	routeEndLocation	Kuala Lumpur Middle Ring Road 1
+Hægebostad Tunnel	routeEndLocation	Snartemo Station
+Kvineshei Tunnel	routeEndLocation	Kvinesdal
+Bærum Tunnel	routeEndLocation	Engervannet
+Henryton Tunnel	routeEndLocation	Henryton, Maryland
+Tanum Tunnel	routeEndLocation	Årstad, Akershus
+Tanum Tunnel	routeEndLocation	Asker
+Gevingåsen Tunnel	routeEndLocation	Hell Station
+Västlänken	routeEndLocation	Liseberg
+Mount Washington Transit Tunnel	routeEndLocation	South Hills Junction (PAT station)
+Mt. Lebanon Tunnel	routeEndLocation	Mt. Lebanon (PAT station)
+Festning Tunnel	routeEndLocation	Filipstad, Norway
+Bjørvika Tunnel	routeEndLocation	Filipstad, Norway
+Access to the Region's Core	routeEndLocation	New York City
+Tauern Railway Tunnel	routeEndLocation	Mallnitz
+Tauern Railway Tunnel	routeEndLocation	Carinthia (state)
+Kanonersky Tunnel	routeEndLocation	Kanonersky Island
+Koralm Tunnel	routeEndLocation	Sankt Andrä
+Furka Summit Tunnel	routeEndLocation	Muttbach-Belvédère Station
+Furka Summit Tunnel	routeEndLocation	Valais
+Aktio–Preveza Undersea Tunnel	routeEndLocation	Preveza
+Aktio–Preveza Undersea Tunnel	routeEndLocation	Greece
+Freifjord Tunnel	routeEndLocation	Frei
+Kinuura tunnel	routeEndLocation	Hekinan, Aichi
+Karisaka Tunnel	routeEndLocation	Yamanashi, Yamanashi
+Karisaka Tunnel	routeEndLocation	Yamanashi Prefecture
+Eurasia Tunnel	routeEndLocation	Göztepe
+Eurasia Tunnel	routeEndLocation	Istanbul
+Eurasia Tunnel	routeEndLocation	Turkey

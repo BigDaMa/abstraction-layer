@@ -1,0 +1,307 @@
+George Washington Bridge	constructionMaterial	Steel
+Pont Neuf	constructionMaterial	Masonry
+Battersea Bridge	constructionMaterial	Cast iron
+Battersea Bridge	constructionMaterial	Granite
+Kew Bridge	constructionMaterial	Granite
+Ha'penny Bridge	constructionMaterial	Cast iron
+Ha'penny Bridge	constructionMaterial	Wood
+Miles Glacier Bridge	constructionMaterial	Steel
+Miles Glacier Bridge	constructionMaterial	Concrete
+Champlain Bridge, Montreal	constructionMaterial	Steel
+Champlain Bridge, Montreal	constructionMaterial	Concrete
+Champlain Bridge, Montreal	constructionMaterial	Asphalt
+Pulteney Bridge	constructionMaterial	Bath Stone
+Chelsea Bridge	constructionMaterial	Steel
+Auckland Harbour Bridge	constructionMaterial	Steel
+Menai Suspension Bridge	constructionMaterial	Wrought iron
+Menai Suspension Bridge	constructionMaterial	Rock (geology)
+Alaskan Way Viaduct	constructionMaterial	Concrete
+Interstate 195 (Florida)  Julia Tuttle Causeway   1	constructionMaterial	Slab
+Interstate 195 (Florida)  Julia Tuttle Causeway   1	constructionMaterial	Girder
+Britannia Bridge	constructionMaterial	Wrought iron
+Britannia Bridge	constructionMaterial	Rock (geology)
+Britannia Bridge	constructionMaterial	Steel
+Britannia Bridge	constructionMaterial	Concrete
+Fatih Sultan Mehmet Bridge	constructionMaterial	Steel
+Chesapeake Bay Bridge	constructionMaterial	Steel
+Chesapeake Bay Bridge	constructionMaterial	Concrete
+Chain Bridge (Budapest)	constructionMaterial	Wrought iron
+Chain Bridge (Budapest)	constructionMaterial	Rock (geology)
+Maidenhead Railway Bridge	constructionMaterial	Brick
+Tobin Bridge	constructionMaterial	Steel
+City Island Bridge	constructionMaterial	Steel
+City Island Bridge	constructionMaterial	Dimension stone
+General Rafael Urdaneta Bridge	constructionMaterial	Reinforced concrete
+Pelham Bridge	constructionMaterial	Concrete
+Pelham Bridge	constructionMaterial	Steel
+Kew Railway Bridge	constructionMaterial	Wrought iron
+Salginatobel Bridge	constructionMaterial	Reinforced concrete
+Boston University Bridge	constructionMaterial	Steel
+Calhoun Street Bridge (Trenton)	constructionMaterial	Iron
+London Bridge (Lake Havasu City)	constructionMaterial	Reinforced concrete
+O'Connell Bridge	constructionMaterial	Granite
+Höga Kusten Bridge	constructionMaterial	Concrete
+Höga Kusten Bridge	constructionMaterial	Steel
+Puente Nuevo	constructionMaterial	Rock (geology)
+Loopline Bridge	constructionMaterial	Wrought iron
+Richmond Bridge, London	constructionMaterial	Portland stone
+Frank Sherwin Bridge	constructionMaterial	Reinforced concrete
+Dingman's Ferry Bridge	constructionMaterial	Wrought iron
+Hockley Railway Viaduct	constructionMaterial	Brick
+Jamestown Verrazzano Bridge	constructionMaterial	Concrete
+Narrows Bridge (Perth)	constructionMaterial	Reinforced concrete
+Mahatma Gandhi Setu	constructionMaterial	Concrete
+High Level Bridge (Edmonton)	constructionMaterial	Truss bridge
+Nordhordland Bridge	constructionMaterial	Concrete
+Lake Shore Boulevard Bailey Bridge	constructionMaterial	Steel
+Tromsø Bridge	constructionMaterial	Reinforced concrete
+Sommarøy Bridge	constructionMaterial	Cantilever bridge
+Skjervøy Bridge	constructionMaterial	Beam bridge
+Stokkøy Bridge	constructionMaterial	Concrete
+Omsund Bridge	constructionMaterial	Concrete
+Sørsund Bridge, Kristiansund	constructionMaterial	Concrete
+Bolsøy Bridge	constructionMaterial	Concrete
+Sykkylven Bridge	constructionMaterial	Concrete
+Runcorn Railway Bridge	constructionMaterial	Wrought iron
+Wandsworth Bridge	constructionMaterial	Steel
+Richmond Railway Bridge	constructionMaterial	Steel
+Chiswick Bridge	constructionMaterial	Reinforced concrete
+Chiswick Bridge	constructionMaterial	Portland stone
+Sam Houston Ship Channel Bridge	constructionMaterial	Concrete
+Lewisville Lake Toll Bridge	constructionMaterial	Steel
+Lewisville Lake Toll Bridge	constructionMaterial	Concrete
+MacArthur Causeway	constructionMaterial	Slab
+MacArthur Causeway	constructionMaterial	Girder
+MacArthur Causeway	constructionMaterial	Embankment (transportation)
+Delaware River – Turnpike Toll Bridge	constructionMaterial	Steel
+Si-o-se Pol	constructionMaterial	Rock (geology)
+Burdekin Bridge	constructionMaterial	Steel
+Bosphorus Bridge	constructionMaterial	Steel
+Landwasser Viaduct	constructionMaterial	Limestone
+Perryville Railroad Bridge	constructionMaterial	Steel
+Lucan Bridge	constructionMaterial	Ashlar
+Islandbridge	constructionMaterial	Ashlar
+Liberty Bridge (Pittsburgh)	constructionMaterial	Steel
+Government Bridge	constructionMaterial	Steel
+Bollman Truss Railroad Bridge	constructionMaterial	Wrought iron
+Bloomington Viaduct    1	constructionMaterial	Sandstone
+Bloomington Viaduct    1	constructionMaterial	Concrete
+Old Dee Bridge	constructionMaterial	Sandstone
+University Bridge (Saskatoon)	constructionMaterial	Reinforced concrete
+Broadway Bridge (Saskatoon)	constructionMaterial	Reinforced concrete
+Senator Sid Buckwold Bridge	constructionMaterial	Reinforced concrete
+Emmerich Rhine Bridge	constructionMaterial	Steel
+Circle Drive Bridge	constructionMaterial	Reinforced concrete
+Circle Drive Bridge	constructionMaterial	Steel
+Hohenzollern Bridge	constructionMaterial	Concrete
+Mala Rijeka Viaduct	constructionMaterial	Concrete
+Reichsbrücke	constructionMaterial	Concrete
+Ross Bridge	constructionMaterial	Sandstone
+Barwon Heads Bridge	constructionMaterial	Lumber
+Barwon Heads Bridge	constructionMaterial	Steel
+Barwon Heads Bridge	constructionMaterial	Concrete
+The Rolling Bridge	constructionMaterial	Steel
+Garcon Point Bridge	constructionMaterial	Prestressed concrete
+Delaware River Viaduct	constructionMaterial	Reinforced concrete
+The Helix Bridge	constructionMaterial	Steel
+The Helix Bridge	constructionMaterial	Fritted-glass
+Nowra Bridge	constructionMaterial	Steel
+Albert Edward Bridge	constructionMaterial	Cast iron
+Puente de la Unidad	constructionMaterial	Concrete
+Suez Canal Bridge	constructionMaterial	Steel
+Suez Canal Bridge	constructionMaterial	Reinforced concrete
+Anderson Memorial Bridge	constructionMaterial	Concrete
+Haringvlietdam	constructionMaterial	Concrete
+Haringvlietdam	constructionMaterial	Steel
+Untertorbrücke	constructionMaterial	Sandstone
+Untertorbrücke	constructionMaterial	Tuff
+Roman Bridge (Trier)	constructionMaterial	Masonry
+Pont Julien	constructionMaterial	Limestone
+Ponte Pietra (Verona)	constructionMaterial	Travertine
+Staines Bridge	constructionMaterial	Masonry
+Stone Bridge (Johnstown, Pennsylvania)	constructionMaterial	Rock (geology)
+Manette Bridge	constructionMaterial	Steel
+Alconétar Bridge	constructionMaterial	Masonry
+Alconétar Bridge	constructionMaterial	Roman concrete
+Cornish–Windsor Covered Bridge	constructionMaterial	Wood
+Cortland Street Drawbridge	constructionMaterial	Steel
+Ann W. Richards Congress Avenue Bridge	constructionMaterial	Concrete
+Cut River Bridge	constructionMaterial	Iron
+Cut River Bridge	constructionMaterial	Structural steel
+Cut River Bridge	constructionMaterial	Prestressed concrete
+Fades viaduct	constructionMaterial	Steel
+Red Bridge (Tasmania)	constructionMaterial	Brick
+Red Bridge (Tasmania)	constructionMaterial	Rock (geology)
+Coldwater Covered Bridge	constructionMaterial	Wood
+Eiksund Bridge	constructionMaterial	Concrete
+Dunlap's Creek Bridge	constructionMaterial	Cast iron
+Pont de l'Archevêché	constructionMaterial	Masonry
+Pont Marie	constructionMaterial	Dimension stone
+Charles River Bridge (Commuter Rail)	constructionMaterial	Steel
+Valens Aqueduct	constructionMaterial	Brick
+Pont Neuf, Toulouse	constructionMaterial	Masonry
+Pont Valentré	constructionMaterial	Rock (geology)
+Swithland Viaduct	constructionMaterial	Brick
+Ponte della Costituzione	constructionMaterial	Steel
+Ponte della Costituzione	constructionMaterial	Istria
+Ponte della Costituzione	constructionMaterial	Toughened glass
+Arkadiko Bridge	constructionMaterial	Cyclopean masonry
+Fairfield Bridge	constructionMaterial	Concrete
+Aldford Iron Bridge	constructionMaterial	Iron
+Northgate, Chester	constructionMaterial	Sandstone
+Watergate, Chester	constructionMaterial	Sandstone
+Daly's bridge	constructionMaterial	Wrought iron
+Moselle Viaduct	constructionMaterial	Steel
+BP Pedestrian Bridge	constructionMaterial	Stainless steel
+BP Pedestrian Bridge	constructionMaterial	Concrete
+BP Pedestrian Bridge	constructionMaterial	Hardwood
+Tinkers Creek Aqueduct	constructionMaterial	Ashlar
+Alcántara Bridge	constructionMaterial	Masonry
+Ponte di Quintodecimo	constructionMaterial	Travertine
+Selinsgrove Bridge	constructionMaterial	Wrought iron
+Sangarius Bridge	constructionMaterial	Limestone
+Pont Gustave-Flaubert	constructionMaterial	Concrete
+Pont Gustave-Flaubert	constructionMaterial	Steel
+Pont de Recouvrance	constructionMaterial	Reinforced concrete
+Pont de Recouvrance	constructionMaterial	Steel
+Gemarrin Bridge	constructionMaterial	Basalt
+White Bridge (Mysia)	constructionMaterial	Brick
+White Bridge (Mysia)	constructionMaterial	Marble
+Ponte del Gran Caso	constructionMaterial	Travertine
+Pont de Pierre (Aosta)	constructionMaterial	Puddingstone (rock)
+Pont de Pierre (Aosta)	constructionMaterial	Roman concrete
+Kharaba Bridge	constructionMaterial	Basalt
+Bridge at Nimreh	constructionMaterial	Basalt
+Eurymedon Bridge (Aspendos)	constructionMaterial	Roman concrete
+Ganter Bridge	constructionMaterial	Reinforced concrete
+Limyra Bridge	constructionMaterial	Brick
+Limyra Bridge	constructionMaterial	Stonemasonry
+Limyra Bridge	constructionMaterial	Rubble
+Ravenna Bridge	constructionMaterial	Mortar (masonry)
+Schierstein Bridge	constructionMaterial	Prestressed concrete
+Lansky station crossover	constructionMaterial	Metal
+Liteyny bridge, Sestroretsk	constructionMaterial	Metal
+Zavodskaya sestra crossover	constructionMaterial	Metal
+Makestos Bridge	constructionMaterial	Masonry
+Makestos Bridge	constructionMaterial	Brick
+Puente Romano (Mérida)	constructionMaterial	Granite
+Pont Flavien	constructionMaterial	Ashlar
+Four bridges on three support	constructionMaterial	Metal
+Tea Gardens-Hawks Nest Bridge	constructionMaterial	Concrete
+Lakhtinsky crossover	constructionMaterial	Metal
+Minato Bridge	constructionMaterial	Steel
+Han River Bridge	constructionMaterial	Concrete
+Infinity Bridge	constructionMaterial	Weathering steel
+Infinity Bridge	constructionMaterial	Reinforced concrete
+Pergamon Bridge	constructionMaterial	Rubble masonry
+Pergamon Bridge	constructionMaterial	Ashlar
+Layton Bridge	constructionMaterial	Steel
+Ponte Nomentano	constructionMaterial	Travertine
+Old Youngs Bay Bridge	constructionMaterial	Steel
+Bluff Dale Suspension Bridge	constructionMaterial	Wrought iron
+Koilwar bridge	constructionMaterial	Concrete
+Ligovsky overpass	constructionMaterial	Reinforced concrete
+Novo-kamenniy Bridge	constructionMaterial	Wood
+Novo-kamenniy Bridge	constructionMaterial	Granite
+Novo-kamenniy Bridge	constructionMaterial	Reinforced concrete
+Bridge L-158	constructionMaterial	Wrought iron
+Great River Bridge (Westfield)	constructionMaterial	Steel
+Southdown Road Skew Bridge	constructionMaterial	Brick
+Neidpath Viaduct	constructionMaterial	Sandstone
+Frederick W. Panhorst Bridge	constructionMaterial	Reinforced concrete
+Lyne Viaduct	constructionMaterial	Sandstone
+Broadmeadow viaduct	constructionMaterial	Masonry
+Arch Bridge (Bellows Falls)	constructionMaterial	Steel
+Hacho Bridge	constructionMaterial	Puddling (metallurgy)
+Hereford Road Skew Bridge	constructionMaterial	Brick
+Horkstow Bridge	constructionMaterial	Lumber
+Victoria Bridge, Townsville	constructionMaterial	Steel
+Bridge in West Earl Township	constructionMaterial	Concrete
+Bull's Bridge	constructionMaterial	Wood
+Penponds Viaduct	constructionMaterial	Brick
+Borden Bridge	constructionMaterial	Reinforced concrete
+Allegheny Aqueduct (Pittsburgh)	constructionMaterial	Charcoal iron
+Rectory Junction Viaduct	constructionMaterial	Cast iron
+Pont-y-Cafnau	constructionMaterial	Cast iron
+Sheikh Zayed Bridge	constructionMaterial	Prestressed concrete
+Barton Road Swing Bridge	constructionMaterial	Steel
+North Bridge, Warsaw	constructionMaterial	Steel
+John Paul II Bridge, Puławy	constructionMaterial	Steel
+Basarab Overpass	constructionMaterial	Concrete
+Dickabram Bridge	constructionMaterial	Lumber
+Dickabram Bridge	constructionMaterial	Steel
+Forgan Bridge	constructionMaterial	Prestressed concrete
+Denison Bridge	constructionMaterial	Steel
+Urangan Pier	constructionMaterial	Lumber
+Lamington Bridge	constructionMaterial	Reinforced concrete
+Manayunk Bridge	constructionMaterial	Concrete
+Pecos River High Bridge	constructionMaterial	Steel
+Harrison Avenue Bridge	constructionMaterial	Concrete
+Band-e Kaisar	constructionMaterial	Sandstone
+Band-e Kaisar	constructionMaterial	Roman concrete
+Patapat Viaduct	constructionMaterial	Concrete
+Candaba Viaduct	constructionMaterial	Concrete
+Candaba Viaduct	constructionMaterial	Asphalt
+Red Bridge (Yerevan)	constructionMaterial	Tufa
+White Bridge	constructionMaterial	Rock (geology)
+Gründjitobel Viaduct	constructionMaterial	Reinforced concrete
+Langwieser Viaduct	constructionMaterial	Reinforced concrete
+Tomlinson Lift Bridge	constructionMaterial	Steel
+Solis Viaduct	constructionMaterial	Limestone
+Wiesen Viaduct	constructionMaterial	Limestone
+Schmittentobel Viaduct	constructionMaterial	Rock (geology)
+Brusio spiral viaduct	constructionMaterial	Rock (geology)
+Dyssebroen	constructionMaterial	Douglas-fir
+Castielertobel Viaduct	constructionMaterial	Rock (geology)
+Castielertobel Viaduct	constructionMaterial	Iron
+Padma Bridge	constructionMaterial	Steel
+Jubilee Bridge (Stockton-on-Tees)	constructionMaterial	Reinforced concrete
+Pont De Rennes bridge	constructionMaterial	Steel
+Schuylkill Arsenal Railroad Bridge	constructionMaterial	Wrought iron
+Albion River Bridge	constructionMaterial	Wood
+Albion River Bridge	constructionMaterial	Steel
+Eleutherna Bridge	constructionMaterial	Limestone
+Tanners' Bridge	constructionMaterial	Lanë
+Einasleigh River Bridge	constructionMaterial	Prestressed concrete
+Little Crystal Creek Bridge	constructionMaterial	Concrete
+Paton Bridge	constructionMaterial	Steel
+Rhodes Footbridge	constructionMaterial	Limestone
+New Jinja Bridge	constructionMaterial	Steel
+New Jinja Bridge	constructionMaterial	Concrete
+Circle Drive South Bridge	constructionMaterial	Reinforced concrete
+Circle Drive South Bridge	constructionMaterial	Steel
+Long Creek Bridge	constructionMaterial	Reinforced concrete
+Bras de la Plaine Bridge	constructionMaterial	Concrete
+Bras de la Plaine Bridge	constructionMaterial	Steel
+Solidarity Bridge	constructionMaterial	Steel
+Solidarity Bridge	constructionMaterial	Tower
+Legions of Marshal Józef Piłsudski Bridge	constructionMaterial	Steel
+Airport Flyover, Brisbane	constructionMaterial	Prestressed concrete
+Bridge in Jefferson Borough	constructionMaterial	Sandstone
+Jiaozhou Bay Bridge	constructionMaterial	Prestressed concrete
+Desmond Trannore Bridge	constructionMaterial	Concrete
+Martin Bridge	constructionMaterial	Steel
+Andrew Nixon Bridge	constructionMaterial	Concrete
+Rory O'More Bridge	constructionMaterial	Cast iron
+Rory O'More Bridge	constructionMaterial	Wrought iron
+Rory O'More Bridge	constructionMaterial	Granite
+Macleay River Bridge	constructionMaterial	Concrete
+Isis River Bridge	constructionMaterial	Concrete
+Ozimek Suspension Bridge	constructionMaterial	Wrought iron
+Ozimek Suspension Bridge	constructionMaterial	Steel
+Granville Bridge, Maryborough	constructionMaterial	Reinforced concrete
+Ponte Buriano	constructionMaterial	Rock (geology)
+Charlie Earp Bridge	constructionMaterial	Reinforced concrete
+Göltzsch Viaduct	constructionMaterial	Brick
+Bowker Overpass	constructionMaterial	Steel
+Grand Junction Railroad Bridge	constructionMaterial	Steel
+Don River Bridge, Rannes	constructionMaterial	Reinforced concrete
+Don River Bridge, Bowen	constructionMaterial	Reinforced concrete
+William Walter Mason Bridge	constructionMaterial	Prestressed concrete
+Mungindi Bridge	constructionMaterial	Prestressed concrete
+Sam White Bridge	constructionMaterial	Steel
+Sam White Bridge	constructionMaterial	Reinforced concrete
+Cathedral Bridge	constructionMaterial	Wrought iron
+High Bridge, Reading	constructionMaterial	Portland stone
+Old Rhine Bridge (Constance)	constructionMaterial	Steel
+Teston Bridge	constructionMaterial	Rag-stone

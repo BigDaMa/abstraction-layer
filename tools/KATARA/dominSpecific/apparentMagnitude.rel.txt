@@ -1,0 +1,160 @@
+Mercury (planet)	apparentMagnitude	2.6
+Miranda (moon)	apparentMagnitude	15.8
+Naiad (moon)	apparentMagnitude	23.9
+Telesto (moon)	apparentMagnitude	18.7
+Umbriel (moon)	apparentMagnitude	14.5
+Jupiter	apparentMagnitude	-1.6
+Europa (moon)	apparentMagnitude	5.29
+Callisto (moon)	apparentMagnitude	5.65
+Triton (moon)	apparentMagnitude	13.47
+Uranus	apparentMagnitude	5.9
+Pluto	apparentMagnitude	13.65
+Halley's Comet	apparentMagnitude	28.2
+4 Vesta	apparentMagnitude	5.1
+4179 Toutatis	apparentMagnitude	8.8
+16 Psyche	apparentMagnitude	9.22
+Amalthea (moon)	apparentMagnitude	14.1
+2 Pallas	apparentMagnitude	6.4
+Titan (moon)	apparentMagnitude	8.2
+Charon (moon)	apparentMagnitude	16.8
+Phobos (moon)	apparentMagnitude	11.3
+Puck (moon)	apparentMagnitude	20.5
+2060 Chiron	apparentMagnitude	15.6
+Ganymede (moon)	apparentMagnitude	4.61
+Ganymede (moon)	apparentMagnitude	4.38
+Rhea (moon)	apparentMagnitude	10.0
+Oberon (moon)	apparentMagnitude	14.1
+Deimos (moon)	apparentMagnitude	12.4
+3 Juno	apparentMagnitude	7.4
+Tethys (moon)	apparentMagnitude	10.2
+Iapetus (moon)	apparentMagnitude	10.2
+Leda (moon)	apparentMagnitude	20.2
+Proteus (moon)	apparentMagnitude	19.7
+Hyperion (moon)	apparentMagnitude	14.1
+65 Cybele	apparentMagnitude	10.67
+Elara (moon)	apparentMagnitude	16.3
+Himalia (moon)	apparentMagnitude	14.6
+Dione (moon)	apparentMagnitude	10.4
+Enceladus (moon)	apparentMagnitude	11.7
+Mimas (moon)	apparentMagnitude	12.9
+Titania (moon)	apparentMagnitude	13.9
+28978 Ixion	apparentMagnitude	19.6
+Ariel (moon)	apparentMagnitude	14.4
+624 Hektor	apparentMagnitude	13.79
+Larissa (moon)	apparentMagnitude	21.5
+20000 Varuna	apparentMagnitude	19.9
+5 Astraea	apparentMagnitude	8.74
+90482 Orcus	apparentMagnitude	19.1
+90377 Sedna	apparentMagnitude	21.1
+90377 Sedna	apparentMagnitude	20.5
+21 Lutetia	apparentMagnitude	9.25
+Callirrhoe (moon)	apparentMagnitude	20.7
+Sycorax (moon)	apparentMagnitude	20.8
+Thalassa (moon)	apparentMagnitude	23.3
+Despina (moon)	apparentMagnitude	22.0
+Galatea (moon)	apparentMagnitude	21.9
+6 Hebe	apparentMagnitude	7.5
+7968 Elst–Pizarro	apparentMagnitude	17.24
+511 Davida	apparentMagnitude	9.5
+762 Pulcova	apparentMagnitude	11.93
+1036 Ganymed	apparentMagnitude	8.1
+Ymir (moon)	apparentMagnitude	21.7
+3552 Don Quixote	apparentMagnitude	11.67
+1981 Midas	apparentMagnitude	11.8
+7 Iris	apparentMagnitude	6.7
+8 Flora	apparentMagnitude	7.9
+9 Metis	apparentMagnitude	8.1
+10 Hygiea	apparentMagnitude	9.0
+11 Parthenope	apparentMagnitude	8.68
+12 Victoria	apparentMagnitude	8.68
+13 Egeria	apparentMagnitude	9.71
+14 Irene	apparentMagnitude	8.85
+17 Thetis	apparentMagnitude	9.89
+15 Eunomia	apparentMagnitude	7.9
+18 Melpomene	apparentMagnitude	7.5
+19 Fortuna	apparentMagnitude	8.88
+20 Massalia	apparentMagnitude	8.3
+23 Thalia	apparentMagnitude	9.11
+27 Euterpe	apparentMagnitude	8.3
+29 Amphitrite	apparentMagnitude	8.65
+30 Urania	apparentMagnitude	9.36
+31 Euphrosyne	apparentMagnitude	10.16
+39 Laetitia	apparentMagnitude	8.97
+40 Harmonia	apparentMagnitude	9.31
+42 Isis	apparentMagnitude	9.18
+43 Ariadne	apparentMagnitude	8.8
+44 Nysa	apparentMagnitude	8.83
+68 Leto	apparentMagnitude	9.56
+79 Eurynome	apparentMagnitude	9.35
+89 Julia	apparentMagnitude	8.74
+107 Camilla    1	apparentMagnitude	11.53
+129 Antigone	apparentMagnitude	9.71
+144 Vibilia	apparentMagnitude	9.97
+147 Protogeneia	apparentMagnitude	12.4
+Cupid (moon)	apparentMagnitude	14.81
+Mab (moon)	apparentMagnitude	26.0
+704 Interamnia	apparentMagnitude	9.9
+Io (moon)	apparentMagnitude	5.02
+532 Herculina	apparentMagnitude	8.82
+210 Isabella	apparentMagnitude	12.2
+(148209) 2000 CR105	apparentMagnitude	23.8
+Fenrir (moon)	apparentMagnitude	25.0
+Haumea (dwarf planet)	apparentMagnitude	17.3
+Makemake (dwarf planet)	apparentMagnitude	16.7
+(15874) 1996 TL66	apparentMagnitude	21.0
+38628 Huya	apparentMagnitude	19.3
+(90568) 2004 GV9	apparentMagnitude	19.9
+(47171) 1999 TC36	apparentMagnitude	19.8
+(55565) 2002 AW197	apparentMagnitude	20.0
+471 Papagena	apparentMagnitude	9.27
+596 Scheila	apparentMagnitude	11.67
+702 Alauda	apparentMagnitude	11.42
+Nix (moon)	apparentMagnitude	23.38
+Hydra (moon)	apparentMagnitude	22.9
+2004 XR190	apparentMagnitude	22.04
+(55637) 2002 UX25	apparentMagnitude	19.8
+(84522) 2002 TC302	apparentMagnitude	20.5
+10370 Hylonome	apparentMagnitude	21.9
+(55636) 2002 TX300	apparentMagnitude	19.4
+Hi'iaka (moon)	apparentMagnitude	3.3
+Namaka (moon)	apparentMagnitude	4.6
+Ceres (dwarf planet)	apparentMagnitude	6.7
+Eris (dwarf planet)	apparentMagnitude	18.7
+2002 MS4	apparentMagnitude	20.6
+118401 LINEAR	apparentMagnitude	18.19
+(208996) 2003 AZ84	apparentMagnitude	20.2
+(145452) 2005 RN43	apparentMagnitude	20.1
+(174567) 2003 MW12	apparentMagnitude	20.5
+(84922) 2003 VS2	apparentMagnitude	19.7
+(15875) 1996 TP66	apparentMagnitude	21.0
+(119951) 2002 KX14	apparentMagnitude	20.4
+(42301) 2001 UR163	apparentMagnitude	21.2
+2006 QH181	apparentMagnitude	23.0
+(35671) 1998 SN165	apparentMagnitude	21.4
+(120348) 2004 TY364	apparentMagnitude	20.4
+1995 GJ	apparentMagnitude	22.9
+2007 NC7	apparentMagnitude	22.0
+52975 Cyllarus	apparentMagnitude	23.1
+1217 Maximiliana	apparentMagnitude	14.39
+11714 Mikebrown	apparentMagnitude	15.58
+(229762) 2007 UK126	apparentMagnitude	20.8
+2003 UZ413	apparentMagnitude	20.8
+(202421) 2005 UQ513	apparentMagnitude	20.8
+Neptune	apparentMagnitude	8.02
+2005 QU182	apparentMagnitude	20.6
+(225088) 2007 OR10	apparentMagnitude	21.3
+(131697) 2001 XH255	apparentMagnitude	23.8
+50000 Quaoar	apparentMagnitude	19.3
+2003 QX113	apparentMagnitude	22.6
+Vanth (moon)	apparentMagnitude	21.97
+2005 CB79	apparentMagnitude	21.1
+2010 EK139	apparentMagnitude	19.9
+2010 EK139	apparentMagnitude	19.6
+(278361) 2007 JJ43	apparentMagnitude	20.69
+(55638) 2002 VE95	apparentMagnitude	20.5
+2002 XV93	apparentMagnitude	21.1
+238P/Read	apparentMagnitude	19.62
+1999 CD158	apparentMagnitude	22.0
+(230965) 2004 XA192	apparentMagnitude	19.84
+(237442) 1999 TA10	apparentMagnitude	16.77
+S/2011 P 1	apparentMagnitude	26.1

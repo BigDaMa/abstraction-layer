@@ -1,0 +1,58 @@
+Ford 335 engine	valvetrain	I-head
+Ford Boss 302 engine	valvetrain	I-head
+Ford Windsor engine	valvetrain	I-head
+Chrysler Slant-6 engine	valvetrain	I-head
+Chevrolet Straight-6 engine	valvetrain	I-head
+Chevrolet Straight-6 engine  First Generation   1	valvetrain	I-head
+Chevrolet Straight-6 engine  Second generation   1	valvetrain	I-head
+Chevrolet Straight-6 engine  Third generation   1	valvetrain	I-head
+Toyota A engine  1A   1	valvetrain	SOHC
+Toyota A engine  2A   1	valvetrain	SOHC
+Toyota A engine  3A   1	valvetrain	SOHC
+Toyota A engine  4A   1	valvetrain	SOHC
+Toyota A engine  5A   1	valvetrain	DOHC
+Toyota A engine  6A   1	valvetrain	DOHC
+Toyota A engine  7A   1	valvetrain	DOHC
+Toyota A engine  8A   1	valvetrain	DOHC
+Nissan VK engine	valvetrain	DOHC
+Nissan VH engine	valvetrain	DOHC
+Nissan VG engine	valvetrain	SOHC
+Nissan VG engine	valvetrain	DOHC
+Nissan KA engine	valvetrain	SOHC
+Nissan KA engine	valvetrain	DOHC
+Ford HSC engine	valvetrain	I-head
+Cadillac V16 engine	valvetrain	I-head
+Nissan CA engine	valvetrain	DOHC
+Lamborghini V8	valvetrain	SOHC
+Lamborghini V8	valvetrain	DOHC
+Nissan H engine	valvetrain	I-head
+Nissan H engine	valvetrain	SOHC
+Nissan Z engine	valvetrain	SOHC
+Prince G engine	valvetrain	I-head
+Prince G engine	valvetrain	SOHC
+Prince G engine	valvetrain	DOHC
+Mercedes-Benz M104 engine	valvetrain	DOHC
+Nissan J engine	valvetrain	I-head
+Nissan MR engine	valvetrain	DOHC
+Nissan S20 engine	valvetrain	DOHC
+G60	valvetrain	SOHC
+Ford Cyclone engine	valvetrain	DOHC
+Nissan HR engine	valvetrain	DOHC
+Nissan CG engine	valvetrain	DOHC
+Detroit Diesel V8 engine	valvetrain	I-head
+Subaru EJ engine	valvetrain	DOHC
+Ford Barra engine	valvetrain	DOHC
+Nissan MA engine	valvetrain	SOHC
+Wasserboxer	valvetrain	I-head
+Volkswagen air cooled engine	valvetrain	I-head
+Nissan P engine	valvetrain	I-head
+Nissan CR engine	valvetrain	DOHC
+Toyota C engine	valvetrain	SOHC
+Toyota C engine  2C   1	valvetrain	SOHC
+Toyota C engine  3C   1	valvetrain	SOHC
+IKCO EF Engines	valvetrain	DOHC
+Mercedes-Benz OM606 engine	valvetrain	DOHC
+Mercedes-Benz OM605 engine	valvetrain	DOHC
+Mercedes-Benz OM604 engine	valvetrain	DOHC
+Hyundai Gamma engine	valvetrain	DOHC
+Hyundai Nu engine	valvetrain	DOHC

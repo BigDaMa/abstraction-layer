@@ -1,0 +1,49 @@
+Queensway Tunnel	numberOfLanes	4
+Kingsway Tunnel	numberOfLanes	4
+Blackwall Tunnel	numberOfLanes	4
+Sydney Harbour Tunnel	numberOfLanes	4
+Caldecott Tunnel	numberOfLanes	2
+Ted Williams Tunnel	numberOfLanes	3
+Callahan Tunnel	numberOfLanes	2
+Sumner Tunnel	numberOfLanes	2
+Jack Lynch Tunnel	numberOfLanes	2
+Dudley Ward Tunnel	numberOfLanes	2
+George Massey Tunnel	numberOfLanes	4
+Washburn Tunnel	numberOfLanes	2
+Sideling Hill Tunnel	numberOfLanes	2
+Rays Hill Tunnel	numberOfLanes	2
+Laurel Hill Tunnel	numberOfLanes	2
+Fort Pitt Tunnel	numberOfLanes	4
+Mount Bolu Tunnel	numberOfLanes	2
+Lane Cove Tunnel	numberOfLanes	4
+Domain Tunnel	numberOfLanes	3
+Burnley Tunnel	numberOfLanes	3
+Squirrel Hill Tunnel	numberOfLanes	4
+Allegheny Mountain Tunnel	numberOfLanes	4
+SMART Tunnel  Stormwater Management and Road Tunnel   1	numberOfLanes	4
+Hitra Tunnel	numberOfLanes	3
+Hsuehshan Tunnel	numberOfLanes	4
+Posey and Webster Street Tubes	numberOfLanes	2
+Thomas P. O'Neill Jr. Tunnel	numberOfLanes	4
+Eiksund Tunnel	numberOfLanes	3
+Harvey Tunnel	numberOfLanes	4
+Limerick Tunnel	numberOfLanes	2
+Vista Ridge Tunnels	numberOfLanes	6
+Waterview Connection	numberOfLanes	3
+Broadway Tunnel (San Francisco)	numberOfLanes	4
+Port of Miami Tunnel	numberOfLanes	2
+Tromsøysund Tunnel	numberOfLanes	4
+Carlin Tunnel	numberOfLanes	4
+Cave Rock Tunnel	numberOfLanes	4
+Stockton Street Tunnel	numberOfLanes	3
+Munt la Schera Tunnel	numberOfLanes	1
+Bjorøy Tunnel	numberOfLanes	2
+Festning Tunnel	numberOfLanes	6
+Bjørvika Tunnel	numberOfLanes	6
+Northbrae Tunnel	numberOfLanes	2
+Heroes Tunnel	numberOfLanes	4
+Héðinsfjarðargöng	numberOfLanes	2
+Kinuura tunnel	numberOfLanes	4
+Vardø Tunnel	numberOfLanes	2
+Wheeling Tunnel	numberOfLanes	2
+St Helena Tunnel	numberOfLanes	2

@@ -1,0 +1,2705 @@
+Visual cortex	dorlandsPrefix	c 57
+Putamen	dorlandsPrefix	p 43
+Broca's area	dorlandsPrefix	a 59
+Atlas (anatomy)	dorlandsPrefix	a 70
+Hippocampus	dorlandsPrefix	h 12
+Human pharynx	dorlandsPrefix	p 16
+Basal ganglia	dorlandsPrefix	n 11
+Amygdala	dorlandsPrefix	c 56
+Pudendal nerve	dorlandsPrefix	n 05
+Splanchnic nerves	dorlandsPrefix	n 04
+Amniotic sac	dorlandsPrefix	s 01
+Levator ani	dorlandsPrefix	m 22
+Acetabulum	dorlandsPrefix	a 06
+Thumb	dorlandsPrefix	p 27
+Pleural cavity	dorlandsPrefix	c 16
+Cardia	dorlandsPrefix	c 10
+Gallbladder	dorlandsPrefix	g 01
+Bile duct	dorlandsPrefix	d 29
+Limbic system	dorlandsPrefix	s 33
+Temporomandibular joint	dorlandsPrefix	a 64
+Medulla oblongata	dorlandsPrefix	m 06
+Salivary gland	dorlandsPrefix	g 06
+Intervertebral disc	dorlandsPrefix	d 22
+Ulna	dorlandsPrefix	u 01
+Trapezius muscle	dorlandsPrefix	m 22
+Acromion	dorlandsPrefix	a 10
+Scapula	dorlandsPrefix	s 04
+Vertebral subluxation	dorlandsPrefix	r 12
+Nephron  Renal tubule   1	dorlandsPrefix	t 22
+Facial nerve	dorlandsPrefix	n 05
+Mons pubis	dorlandsPrefix	m 20
+Subarachnoid space	dorlandsPrefix	s 16
+Blastula	dorlandsPrefix	b 14
+Biceps brachii muscle	dorlandsPrefix	m 22
+Brachioradialis	dorlandsPrefix	m 22
+Radial nerve	dorlandsPrefix	n 05
+Latissimus dorsi muscle	dorlandsPrefix	m 22
+Navel	dorlandsPrefix	u 02
+Median nerve	dorlandsPrefix	n 05
+Brachial plexus	dorlandsPrefix	p 24
+Sacrum	dorlandsPrefix	o 07
+Brachialis muscle	dorlandsPrefix	m 22
+Pronator quadratus muscle	dorlandsPrefix	m 22
+Hamstring	dorlandsPrefix	h 02
+Brainstem	dorlandsPrefix	b 21
+Eustachian tube	dorlandsPrefix	t 21
+Sciatic nerve	dorlandsPrefix	n 05
+Sartorius muscle	dorlandsPrefix	m 22
+Wrist	dorlandsPrefix	a 64
+Hepatic portal vein	dorlandsPrefix	v 05
+Lumbricals of the hand	dorlandsPrefix	m 22
+Mitral valve	dorlandsPrefix	v 02
+Tricuspid valve	dorlandsPrefix	v 02
+Flexor digitorum profundus muscle	dorlandsPrefix	m 22
+Thenar eminence	dorlandsPrefix	t 07
+Flexor digitorum superficialis muscle	dorlandsPrefix	m 22
+Coracoid process	dorlandsPrefix	p 34
+Anatomical snuff box	dorlandsPrefix	b 20
+Forearm	dorlandsPrefix	a 45
+Brachiocephalic artery	dorlandsPrefix	t 20
+Extensor carpi radialis brevis muscle	dorlandsPrefix	m 22
+Extensor carpi radialis longus muscle	dorlandsPrefix	m 22
+Extensor carpi ulnaris muscle	dorlandsPrefix	m 22
+Flexor carpi radialis muscle	dorlandsPrefix	m 22
+Femoral artery	dorlandsPrefix	a 61
+Femoral triangle	dorlandsPrefix	t 19
+Profunda femoris artery	dorlandsPrefix	a 61
+Great saphenous vein	dorlandsPrefix	v 05
+Peroneus longus	dorlandsPrefix	m 22
+Axillary nerve	dorlandsPrefix	n 05
+Ulnar nerve	dorlandsPrefix	n 05
+Brachiocephalic vein	dorlandsPrefix	v 04
+Levator labii superioris alaeque nasi muscle	dorlandsPrefix	m 22
+Trapezoid bone	dorlandsPrefix	o 07
+Cuboid bone	dorlandsPrefix	o 07
+Trigeminal nerve	dorlandsPrefix	n 05
+Glossopharyngeal nerve	dorlandsPrefix	n 05
+Trapezium (bone)	dorlandsPrefix	o 07
+Sigmoid colon	dorlandsPrefix	c 47
+Macula of retina	dorlandsPrefix	m 01
+Vomeronasal organ	dorlandsPrefix	o 06
+Left ventricle	dorlandsPrefix	v 06
+Left atrium	dorlandsPrefix	a 71
+Right atrium	dorlandsPrefix	a 71
+Adrenal cortex	dorlandsPrefix	c 57
+Synovial membrane	dorlandsPrefix	m 08
+Pineal gland	dorlandsPrefix	g 06
+Suboccipital nerve	dorlandsPrefix	n 05
+Greater occipital nerve	dorlandsPrefix	n 05
+Lesser occipital nerve	dorlandsPrefix	n 05
+Great auricular nerve	dorlandsPrefix	n 05
+Phrenic nerve	dorlandsPrefix	n 05
+Dorsal scapular nerve	dorlandsPrefix	n 05
+Long thoracic nerve	dorlandsPrefix	n 05
+Subclavian artery	dorlandsPrefix	a 61
+Oropharynx	dorlandsPrefix	p 07
+Nasopharynx	dorlandsPrefix	p 07
+Foramen ovale (skull)	dorlandsPrefix	f 12
+Mandibular nerve	dorlandsPrefix	n 05
+Human sternum	dorlandsPrefix	s 23
+Lens (anatomy)	dorlandsPrefix	l 06
+Shoulder	dorlandsPrefix	a 64
+Bronchiole	dorlandsPrefix	Bronchioles
+Bronchus	dorlandsPrefix	b 23
+Mammary gland	dorlandsPrefix	g 06
+Cornea	dorlandsPrefix	c 55
+Thoracic diaphragm	dorlandsPrefix	d 15
+Nasal bone	dorlandsPrefix	o 07
+Inferior nasal concha	dorlandsPrefix	c 50
+Zygomatic arch	dorlandsPrefix	a 58
+Palatine tonsil	dorlandsPrefix	t 13
+Pubic symphysis	dorlandsPrefix	s 31
+Parotid gland	dorlandsPrefix	g 06
+Anterior pituitary	dorlandsPrefix	a 14
+Ankle	dorlandsPrefix	a 64
+Extensor hallucis longus muscle	dorlandsPrefix	m 22
+Lateral geniculate nucleus	dorlandsPrefix	n 11
+Achilles tendon	dorlandsPrefix	t 04
+Laryngeal prominence	dorlandsPrefix	p 36
+Purkinje fibers	dorlandsPrefix	f 05
+Meninges	dorlandsPrefix	m 09
+Forehead	dorlandsPrefix	f 16z
+External carotid artery	dorlandsPrefix	a 61
+Ischiocavernosus muscle	dorlandsPrefix	m 22
+Frenulum of clitoris	dorlandsPrefix	f 16
+Epiphysis	dorlandsPrefix	e 12
+Fibrocartilage	dorlandsPrefix	f 06
+Cremaster muscle	dorlandsPrefix	m 22
+Scaphoid bone	dorlandsPrefix	o 07
+Incisive bone	dorlandsPrefix	o 07
+Leydig cell	dorlandsPrefix	c 18
+Capitate bone	dorlandsPrefix	o 07
+Hamate bone	dorlandsPrefix	o 07
+Lunate bone	dorlandsPrefix	o 07
+Olfactory bulb	dorlandsPrefix	b 26
+Sebaceous gland	dorlandsPrefix	g 06
+Sternocleidomastoid muscle	dorlandsPrefix	m 22
+Precuneus	dorlandsPrefix	p 32
+Third ventricle	dorlandsPrefix	v 06
+McBurney's point	dorlandsPrefix	p 26
+Corpus spongiosum penis	dorlandsPrefix	c 56
+Collecting duct system	dorlandsPrefix	t 22
+Papillary muscle	dorlandsPrefix	m 22
+Extrapyramidal system	dorlandsPrefix	s 33
+Globus pallidus	dorlandsPrefix	g 07
+Cerebral peduncle	dorlandsPrefix	p 10
+Neocortex	dorlandsPrefix	n 03
+Rhinencephalon	dorlandsPrefix	r 12
+Bowman's capsule	dorlandsPrefix	c 07
+Distal convoluted tubule	dorlandsPrefix	t 22
+Raphe nuclei	dorlandsPrefix	n 11
+Basilar membrane	dorlandsPrefix	l 02
+Pharyngeal tonsil	dorlandsPrefix	t 13
+Pulmonary artery	dorlandsPrefix	t 20
+Frenulum of labia minora	dorlandsPrefix	f 16
+Corpus luteum	dorlandsPrefix	c 55
+Proximal convoluted tubule	dorlandsPrefix	t 22
+Carotid body	dorlandsPrefix	g 07
+Respiratory bronchiole	dorlandsPrefix	b 23
+Nasal concha	dorlandsPrefix	t 23
+Utricle (ear)	dorlandsPrefix	u 04
+Retroperitoneal space	dorlandsPrefix	s 16
+Pylorus	dorlandsPrefix	v 02
+Choroid	dorlandsPrefix	c 32
+Brodmann area 40	dorlandsPrefix	g 13
+Wernicke's area	dorlandsPrefix	a 59
+Internal capsule	dorlandsPrefix	c 07
+Loop of Henle	dorlandsPrefix	a 44
+Nucleus accumbens	dorlandsPrefix	n 11
+Scalp	dorlandsPrefix	s 03
+Fascia	dorlandsPrefix	f 03
+Organ of Corti	dorlandsPrefix	o 06
+Intestinal villus	dorlandsPrefix	v 08
+Orbit (anatomy)	dorlandsPrefix	o 05
+Deltoid muscle	dorlandsPrefix	m 22
+Suprahyoid muscles	dorlandsPrefix	m 22
+Infrahyoid muscles	dorlandsPrefix	m 22
+Oogenesis	dorlandsPrefix	e 13
+Bulbospongiosus muscle	dorlandsPrefix	m 22
+Sinoatrial node	dorlandsPrefix	n 09
+Atrioventricular node	dorlandsPrefix	n 09
+Bundle of His	dorlandsPrefix	b 26
+Pulmonary vein	dorlandsPrefix	v 05
+Cooper's ligaments	dorlandsPrefix	l 09
+Supraoptic nucleus	dorlandsPrefix	n 11
+Paraventricular nucleus of hypothalamus	dorlandsPrefix	n 11
+Suprachiasmatic nucleus	dorlandsPrefix	n 11z
+Hard palate	dorlandsPrefix	p 02
+Gluteus maximus muscle	dorlandsPrefix	m 22
+Sella turcica	dorlandsPrefix	s 07
+Navicular bone	dorlandsPrefix	o 07
+Pisiform bone	dorlandsPrefix	o 07
+Triquetral bone	dorlandsPrefix	o 07
+Celiac plexus	dorlandsPrefix	p 24
+Epicardium	dorlandsPrefix	l 02
+Dorsal respiratory group	dorlandsPrefix	g 12
+Submandibular gland	dorlandsPrefix	g 06
+Glomerulus	dorlandsPrefix	g 07
+Pulvinar nuclei	dorlandsPrefix	p 42
+Gartner's duct	dorlandsPrefix	d 29
+Genitofemoral nerve	dorlandsPrefix	n 05
+Renal pelvis	dorlandsPrefix	p 10
+Renal capsule	dorlandsPrefix	c 07
+Pelvic floor	dorlandsPrefix	d 15
+Superior oblique muscle	dorlandsPrefix	m 22
+Hypoglossal nucleus	dorlandsPrefix	n 11
+Optic radiation	dorlandsPrefix	r 01
+Medial lemniscus	dorlandsPrefix	l 06
+Oculomotor nucleus	dorlandsPrefix	n 11
+Solitary nucleus	dorlandsPrefix	t 15
+Azygos vein	dorlandsPrefix	v 05
+Nucleus ambiguus	dorlandsPrefix	n 11
+Periosteum	dorlandsPrefix	p 13
+Medial longitudinal fasciculus	dorlandsPrefix	f 03
+Lateral lemniscus	dorlandsPrefix	l 06
+Ductus arteriosus	dorlandsPrefix	d 29
+Auerbach's plexus	dorlandsPrefix	p 24
+Cheek	dorlandsPrefix	c 25
+Levator scapulae muscle	dorlandsPrefix	m 22
+Rhomboid major muscle	dorlandsPrefix	m 22
+Rhomboid minor muscle	dorlandsPrefix	m 22
+Pectoralis major muscle	dorlandsPrefix	m 22
+Pectoralis minor muscle	dorlandsPrefix	m 22
+Fusiform gyrus	dorlandsPrefix	g 13
+Bowman's membrane	dorlandsPrefix	l 02
+Arcuate nucleus	dorlandsPrefix	n 11
+Common bile duct	dorlandsPrefix	d 29
+Cystic duct	dorlandsPrefix	d 29
+Tactile corpuscle	dorlandsPrefix	c 56
+Axilla	dorlandsPrefix	a 76
+Dartos	dorlandsPrefix	d 02
+Limbic lobe	dorlandsPrefix	l 13
+Pubococcygeus muscle	dorlandsPrefix	m 22
+Ovarian follicle	dorlandsPrefix	f 11
+Blastocoele	dorlandsPrefix	b 14
+Spinal canal	dorlandsPrefix	c 04
+Locus coeruleus	dorlandsPrefix	l 14
+Philtrum	dorlandsPrefix	p 17
+Muscles of mastication	dorlandsPrefix	m 22
+Nasolacrimal duct	dorlandsPrefix	d 29
+Aortic sinus	dorlandsPrefix	s 12
+Pinna (anatomy)	dorlandsPrefix	a 73
+Diaphysis	dorlandsPrefix	d 15
+Plantar fascia	dorlandsPrefix	a 53
+Stratum corneum	dorlandsPrefix	s 25
+Extensor digiti minimi muscle	dorlandsPrefix	m 22
+Omohyoid muscle	dorlandsPrefix	m 22
+Cervical plexus	dorlandsPrefix	p 24
+Digastric muscle	dorlandsPrefix	m 22
+Gingiva	dorlandsPrefix	g 05
+Corneal endothelium	dorlandsPrefix	e 13
+Ring finger	dorlandsPrefix	d 18
+Popliteal artery	dorlandsPrefix	a 61
+Peritoneal cavity	dorlandsPrefix	c 16
+Linea alba (abdomen)	dorlandsPrefix	l 10
+Little finger	dorlandsPrefix	d 18
+Endolymph	dorlandsPrefix	e 08
+Optic tract	dorlandsPrefix	t 15
+Uvea	dorlandsPrefix	t 22
+Postcentral gyrus	dorlandsPrefix	g 13
+Interneuron	dorlandsPrefix	i 10
+Superior frontal gyrus	dorlandsPrefix	g 13
+Postcentral sulcus	dorlandsPrefix	s 28
+Abdominal aorta	dorlandsPrefix	p 07
+Brunner's glands	dorlandsPrefix	g 06
+Artery of Adamkiewicz	dorlandsPrefix	r 02
+Superior temporal gyrus	dorlandsPrefix	g 13
+Centromedian nucleus	dorlandsPrefix	n 11
+Sublingual gland	dorlandsPrefix	g 06
+Middle meningeal artery	dorlandsPrefix	a 61
+Arcuate fasciculus	dorlandsPrefix	f 03
+Nasal septum	dorlandsPrefix	s 08
+Planum temporale	dorlandsPrefix	p 22
+Ciliary body	dorlandsPrefix	c 56
+Ventral spinocerebellar tract	dorlandsPrefix	t 15
+Dorsal spinocerebellar tract	dorlandsPrefix	t 15
+Cuneate nucleus	dorlandsPrefix	n 11
+Zona pellucida	dorlandsPrefix	z 01
+Index finger	dorlandsPrefix	i 06
+Piriformis muscle	dorlandsPrefix	m 22
+Pulp (tooth)	dorlandsPrefix	p 41
+Lacteal	dorlandsPrefix	l 01
+Gestational sac	dorlandsPrefix	s 01
+Dorsal root ganglion	dorlandsPrefix	g 02
+Mastoid process	dorlandsPrefix	p 34
+Fundiform ligament	dorlandsPrefix	l 09
+Lacrimal gland	dorlandsPrefix	g 06
+Rectus abdominis muscle	dorlandsPrefix	m 22
+Parallel fiber	dorlandsPrefix	f 05
+Elastic cartilage	dorlandsPrefix	c 12
+Endomysium	dorlandsPrefix	e 08
+Epimysium	dorlandsPrefix	e 12
+Carotid sinus	dorlandsPrefix	s 12
+Cervical vertebrae	dorlandsPrefix	v 07
+Mandibular foramen	dorlandsPrefix	f 12
+Subthalamic nucleus	dorlandsPrefix	n 11
+Suspensory muscle of duodenum	dorlandsPrefix	m 22
+Musculocutaneous nerve	dorlandsPrefix	n 05
+Teres minor muscle	dorlandsPrefix	m 22
+Triceps brachii muscle	dorlandsPrefix	m 22
+Osteon	dorlandsPrefix	o 08
+Mediastinum	dorlandsPrefix	m 06
+Duct of Bellini	dorlandsPrefix	d 29
+Cutis (anatomy)	dorlandsPrefix	c 68
+Inion	dorlandsPrefix	i 08
+Aortic body	dorlandsPrefix	b 17
+Orbicularis oris muscle	dorlandsPrefix	m 22
+Buccinator muscle	dorlandsPrefix	m 22
+Premolar	dorlandsPrefix	t 13
+Obliquus capitis inferior muscle	dorlandsPrefix	m 22
+Obliquus capitis superior muscle	dorlandsPrefix	m 22
+Pars intermedia	dorlandsPrefix	p 07
+Pars tuberalis	dorlandsPrefix	p 07
+Serous membrane	dorlandsPrefix	t 22
+Ciliary muscle	dorlandsPrefix	m 22
+Corticobulbar tract	dorlandsPrefix	t 15
+Median aperture	dorlandsPrefix	a 51
+Reticular activating system	dorlandsPrefix	s 33
+Efferent ducts	dorlandsPrefix	d 29
+Renal artery	dorlandsPrefix	a 61
+Foramen lacerum	dorlandsPrefix	f 12
+Epigastrium	dorlandsPrefix	r 07
+Inferior alveolar nerve	dorlandsPrefix	n 05
+Periaqueductal gray	dorlandsPrefix	s 27
+Pretectal area	dorlandsPrefix	a 59
+Insular cortex	dorlandsPrefix	i 09
+Suprascapular nerve	dorlandsPrefix	n 05
+Elastic fiber	dorlandsPrefix	f 05
+Reticular formation	dorlandsPrefix	f 13
+External jugular vein	dorlandsPrefix	v 05
+Internal jugular vein	dorlandsPrefix	v 05
+Archicortex	dorlandsPrefix	a 57
+Recurrent laryngeal nerve	dorlandsPrefix	n 05
+Olivary body	dorlandsPrefix	o 02
+Hypopharynx	dorlandsPrefix	h 22
+Blastopore	dorlandsPrefix	b 14
+Cerebellar vermis	dorlandsPrefix	v 06
+Eponychium	dorlandsPrefix	e 13
+Renal pyramids	dorlandsPrefix	p 03
+Trigone of urinary bladder	dorlandsPrefix	t 19
+Trabecular meshwork	dorlandsPrefix	r 10
+Procerus muscle	dorlandsPrefix	m 22
+Trapezoid body	dorlandsPrefix	c 56
+Common hepatic duct	dorlandsPrefix	d 29
+Pectineus muscle	dorlandsPrefix	m 22
+Gubernaculum	dorlandsPrefix	g 13
+Filum terminale	dorlandsPrefix	f 07
+Cribriform plate	dorlandsPrefix	l 02
+Masseter muscle	dorlandsPrefix	m 22
+Transitional epithelium	dorlandsPrefix	e 13
+Mastoid antrum	dorlandsPrefix	a 50
+Pyloric antrum	dorlandsPrefix	a 50
+Recto-uterine pouch	dorlandsPrefix	e 18
+Fungiform papilla	dorlandsPrefix	p 03
+Lingual tonsils	dorlandsPrefix	t 13
+Angular gyrus	dorlandsPrefix	g 13
+Vertebral artery	dorlandsPrefix	a 61
+Reid's base line	dorlandsPrefix	l 10
+Canthus	dorlandsPrefix	c 05
+Ear canal	dorlandsPrefix	m 06
+Zona reticularis	dorlandsPrefix	z 01
+Tibialis posterior muscle	dorlandsPrefix	m 22
+Pontine tegmentum	dorlandsPrefix	t 03
+Thalamic reticular nucleus	dorlandsPrefix	n 11
+Manubrium	dorlandsPrefix	m 03
+Celiac artery	dorlandsPrefix	t 20
+Suprapineal recess	dorlandsPrefix	r 05
+Adventitia	dorlandsPrefix	t 22
+Anal canal	dorlandsPrefix	c 04
+Stellate ganglion	dorlandsPrefix	g 02
+Descending aorta	dorlandsPrefix	p 07
+Acromioclavicular joint	dorlandsPrefix	a 64
+Coccygeus muscle	dorlandsPrefix	m 22
+Superior mesenteric artery	dorlandsPrefix	a 61
+Chordae tendineae	dorlandsPrefix	c 31
+Synovial bursa	dorlandsPrefix	b 27
+Epineurium	dorlandsPrefix	e 12
+Levator palpebrae superioris muscle	dorlandsPrefix	m 22
+Superior rectus muscle	dorlandsPrefix	m 22
+Inferior rectus muscle	dorlandsPrefix	m 22
+Lateral rectus muscle	dorlandsPrefix	m 22
+Medial rectus muscle	dorlandsPrefix	m 22
+Inferior oblique muscle	dorlandsPrefix	m 22
+Popliteal vein	dorlandsPrefix	v 05
+Tectospinal tract	dorlandsPrefix	t 15
+Rubrospinal tract	dorlandsPrefix	t 15
+Dental alveolus	dorlandsPrefix	a 27
+Tibialis anterior muscle	dorlandsPrefix	m 22
+Glabella	dorlandsPrefix	g 06
+Fibrous pericardium	dorlandsPrefix	p 12
+Serous pericardium	dorlandsPrefix	p 12
+Pericardial cavity	dorlandsPrefix	c 16
+Symphysis	dorlandsPrefix	s 31
+Rima glottidis	dorlandsPrefix	r 14
+Lateral cricoarytenoid muscle	dorlandsPrefix	m 22
+Posterior cricoarytenoid muscle	dorlandsPrefix	m 22
+Edinger-Westphal nucleus	dorlandsPrefix	n 11
+Femoral vein	dorlandsPrefix	v 05
+Red nucleus	dorlandsPrefix	n 11
+Abducens nucleus	dorlandsPrefix	n 11
+Thyroid cartilage	dorlandsPrefix	c 12
+Stapedius muscle	dorlandsPrefix	m 22
+Cephalic vein	dorlandsPrefix	v 05
+Subfornical organ	dorlandsPrefix	o 06
+Lip	dorlandsPrefix	l 01
+Meibomian gland	dorlandsPrefix	g 06
+Superior orbital fissure	dorlandsPrefix	f 08
+Nucleus pulposus	dorlandsPrefix	p 41
+Otic ganglion	dorlandsPrefix	g 02
+Pterygopalatine ganglion	dorlandsPrefix	g 02
+Cricothyroid muscle	dorlandsPrefix	m 22
+Chorda tympani	dorlandsPrefix	c 31
+Ophthalmic artery	dorlandsPrefix	a 61
+Central retinal artery	dorlandsPrefix	a 61
+Tensor tympani muscle	dorlandsPrefix	m 22
+Pituitary stalk	dorlandsPrefix	i 08
+Cancellous bone	dorlandsPrefix	s 27
+Obturator internus muscle	dorlandsPrefix	m 22
+Medial pterygoid muscle	dorlandsPrefix	m 22
+Lateral pterygoid muscle	dorlandsPrefix	m 22
+Pontine nuclei	dorlandsPrefix	n 11
+Platysma muscle	dorlandsPrefix	p 23
+Cubital fossa	dorlandsPrefix	f 14
+Serratus anterior muscle	dorlandsPrefix	m 22
+Helix (ear)	dorlandsPrefix	h 04
+Hyaloid artery	dorlandsPrefix	a 61
+Hip	dorlandsPrefix	h 12
+Transversus abdominis muscle	dorlandsPrefix	m 22
+Corrugator supercilii muscle	dorlandsPrefix	m 22
+Depressor labii inferioris muscle	dorlandsPrefix	m 22
+Geniohyoid muscle	dorlandsPrefix	m 22
+Mylohyoid muscle	dorlandsPrefix	m 22
+Stylohyoid muscle	dorlandsPrefix	m 22
+Levatores costarum muscles	dorlandsPrefix	m 22
+Interspinales muscles	dorlandsPrefix	m 22
+Intertransversarii muscle	dorlandsPrefix	m 22
+Bruch's membrane	dorlandsPrefix	l 02
+Nasalis muscle	dorlandsPrefix	m 22
+Profunda femoris vein	dorlandsPrefix	v 05
+Small saphenous vein	dorlandsPrefix	v 05
+Common iliac vein	dorlandsPrefix	v 05
+Dorsal venous arch of the foot	dorlandsPrefix	a 58
+External iliac vein	dorlandsPrefix	v 05
+Median cubital vein	dorlandsPrefix	v 05
+Basilic vein	dorlandsPrefix	v 05
+Brachial veins	dorlandsPrefix	v 05
+Posterior tibial vein	dorlandsPrefix	v 05
+Anterior tibial vein	dorlandsPrefix	v 05
+Fibular veins	dorlandsPrefix	v 05
+Posterior tibial artery	dorlandsPrefix	a 61
+Ductus venosus	dorlandsPrefix	d 29
+Supraspinatus muscle	dorlandsPrefix	m 22
+Laterodorsal tegmental nucleus	dorlandsPrefix	n 11
+Median plane	dorlandsPrefix	p 22
+Coronal plane	dorlandsPrefix	p 22
+Transverse plane	dorlandsPrefix	p 22
+Anterior tibial artery	dorlandsPrefix	a 61
+Axillary artery	dorlandsPrefix	a 61
+Internal thoracic artery	dorlandsPrefix	a 61
+Inferior mesenteric artery	dorlandsPrefix	a 61
+Pyramidalis muscle	dorlandsPrefix	m 22
+Transversus thoracis muscle	dorlandsPrefix	m 22
+Splenic artery	dorlandsPrefix	a 61
+Gastroduodenal artery	dorlandsPrefix	a 61
+Common hepatic artery	dorlandsPrefix	a 61
+Superior mesenteric vein	dorlandsPrefix	v 05
+Dorsalis pedis artery	dorlandsPrefix	a 61
+External iliac artery	dorlandsPrefix	a 61
+Common iliac artery	dorlandsPrefix	a 61
+Auricular branch of vagus nerve	dorlandsPrefix	r 02
+Infraspinatus muscle	dorlandsPrefix	m 22
+Axillary vein	dorlandsPrefix	v 05
+Radial veins	dorlandsPrefix	v 05
+Ulnar veins	dorlandsPrefix	v 05
+Prostatic utricle	dorlandsPrefix	u 04
+Marginal artery of the colon	dorlandsPrefix	a 61
+Inferior mesenteric vein	dorlandsPrefix	v 05
+Floating rib	dorlandsPrefix	c 58
+Hepatic vein	dorlandsPrefix	v 05
+Bronchial artery	dorlandsPrefix	r 02
+Rhombencephalon	dorlandsPrefix	r 12
+Myelencephalon	dorlandsPrefix	m 24
+Metencephalon	dorlandsPrefix	m 12
+Pedunculopontine nucleus	dorlandsPrefix	n 11
+Posterior horn of spinal cord	dorlandsPrefix	c 55
+Gluteal sulcus	dorlandsPrefix	s 28
+Apex of the heart	dorlandsPrefix	a 52
+Arbor vitae (anatomy)	dorlandsPrefix	a 56
+Cingulum (brain)	dorlandsPrefix	c 35
+Parahippocampal gyrus	dorlandsPrefix	g 13
+Diploic veins	dorlandsPrefix	v 05
+Emissary veins	dorlandsPrefix	v 05
+Tunica media	dorlandsPrefix	t 22
+Arytenoid cartilage	dorlandsPrefix	c 12
+Thalamocortical radiations	dorlandsPrefix	f 05
+Deep cerebellar nuclei	dorlandsPrefix	n 11
+Inferior cerebellar peduncle	dorlandsPrefix	p 10
+Globose nucleus	dorlandsPrefix	n 11
+Dentate nucleus	dorlandsPrefix	n 11
+Fastigial nucleus	dorlandsPrefix	n 11
+Extreme capsule	dorlandsPrefix	c 07
+Medial geniculate nucleus	dorlandsPrefix	c 56
+Cistern (neuroanatomy)	dorlandsPrefix	c 37
+Middle cerebral artery	dorlandsPrefix	a 61
+Stria terminalis	dorlandsPrefix	s 26
+Psoas major muscle	dorlandsPrefix	m 22
+Tibial nerve	dorlandsPrefix	n 05
+Zygomaticus major muscle	dorlandsPrefix	m 22
+Zygomaticus minor muscle	dorlandsPrefix	m 22
+Orbicularis oculi muscle	dorlandsPrefix	m 22
+Orbital part of frontal bone	dorlandsPrefix	p 07
+Frontalis muscle	dorlandsPrefix	m 22
+Depressor supercilii muscle	dorlandsPrefix	m 22
+Levator labii superioris	dorlandsPrefix	m 22
+Levator anguli oris	dorlandsPrefix	m 22
+Mentalis	dorlandsPrefix	m 22
+Depressor anguli oris muscle	dorlandsPrefix	m 22
+Risorius	dorlandsPrefix	m 22
+Occipitalis muscle	dorlandsPrefix	m 22
+Depressor septi nasi muscle	dorlandsPrefix	m 22
+Galea aponeurotica	dorlandsPrefix	g 01
+Facial artery	dorlandsPrefix	a 61
+Left coronary artery	dorlandsPrefix	a 61
+Right coronary artery	dorlandsPrefix	a 61
+Upper lip	dorlandsPrefix	l 01
+Common carotid artery	dorlandsPrefix	a 61
+Rathke's pouch	dorlandsPrefix	p 31
+Right main bronchus	dorlandsPrefix	b 23
+Flexor carpi ulnaris muscle	dorlandsPrefix	m 22
+Zona glomerulosa	dorlandsPrefix	z 01
+Cuneus	dorlandsPrefix	c 66
+Lateral thoracic artery	dorlandsPrefix	a 61
+Fossa ovalis (heart)	dorlandsPrefix	f 14
+Lesser omentum	dorlandsPrefix	o 03
+Subthalamus	dorlandsPrefix	s 28
+Tympanic cavity	dorlandsPrefix	c 16
+Uncinate process of ethmoid bone	dorlandsPrefix	p 34
+Anterior spinal artery	dorlandsPrefix	a 61
+Habenula	dorlandsPrefix	h 01
+Subdural space	dorlandsPrefix	s 16
+Arachnoid mater	dorlandsPrefix	a 56
+Occiput	dorlandsPrefix	o 01
+Costochondral joint	dorlandsPrefix	a 64
+Superior thoracic aperture	dorlandsPrefix	a 51
+Inferior thoracic aperture	dorlandsPrefix	a 51
+Frenulum of tongue	dorlandsPrefix	f 16
+Haustra	dorlandsPrefix	h 03
+Olecranon	dorlandsPrefix	o 02
+Syndesmosis	dorlandsPrefix	s 32
+Synarthrosis	dorlandsPrefix	s 32
+Left gastric artery	dorlandsPrefix	a 61
+Posterior root of spinal nerve	dorlandsPrefix	r 12
+Biceps femoris muscle	dorlandsPrefix	m 22
+Anterior root of spinal nerve	dorlandsPrefix	r 02
+Meniscus (anatomy)	dorlandsPrefix	m 09
+Ciliary ganglion	dorlandsPrefix	g 02
+Sagittal suture	dorlandsPrefix	s 30
+Lambdoid suture	dorlandsPrefix	s 30
+Coronal suture	dorlandsPrefix	s 30
+Interventricular septum	dorlandsPrefix	s 08
+Sternal angle	dorlandsPrefix	a 42
+Secondary bronchus	dorlandsPrefix	b 23
+Tertiary bronchus	dorlandsPrefix	b 23
+Lateral epicondyle of the humerus	dorlandsPrefix	e 11
+Iris dilator muscle	dorlandsPrefix	m 22
+Iris sphincter muscle	dorlandsPrefix	m 22
+Parotid duct	dorlandsPrefix	d 29
+Oral mucosa	dorlandsPrefix	t 22
+Accessory cuneate nucleus	dorlandsPrefix	n 11
+Ascending colon	dorlandsPrefix	c 47
+Laryngeal inlet	dorlandsPrefix	a 16
+Agger nasi	dorlandsPrefix	a 19
+Descemet's membrane	dorlandsPrefix	l 02
+Temple (anatomy)	dorlandsPrefix	t 04
+Glenohumeral joint	dorlandsPrefix	a 64
+Annulus of Zinn	dorlandsPrefix	a 50
+Ansa cervicalis	dorlandsPrefix	a 44
+Buccal nerve	dorlandsPrefix	n 05
+Ethmoid sinus	dorlandsPrefix	c 19
+Alveolar process	dorlandsPrefix	p 34
+Allocortex	dorlandsPrefix	a 25
+Alveus of hippocampus	dorlandsPrefix	a 27
+Ventromedial nucleus	dorlandsPrefix	n 11
+Greater petrosal nerve	dorlandsPrefix	n 05
+Ampulla of Vater	dorlandsPrefix	a 32
+Anterior choroidal artery	dorlandsPrefix	a 61
+Sternothyroid muscle	dorlandsPrefix	m 22
+Sternohyoid muscle	dorlandsPrefix	m 22
+Thyrohyoid muscle	dorlandsPrefix	m 22
+Longus capitis muscle	dorlandsPrefix	m 22
+Longus colli muscle	dorlandsPrefix	m 22
+Rectus capitis anterior muscle	dorlandsPrefix	m 22
+Rectus capitis lateralis muscle	dorlandsPrefix	m 22
+Rotatores muscles	dorlandsPrefix	m 22
+Multifidus muscle	dorlandsPrefix	m 22
+Splenius capitis muscle	dorlandsPrefix	m 22
+Splenius cervicis muscle	dorlandsPrefix	m 22
+Rectus capitis posterior minor muscle	dorlandsPrefix	m 22
+Rectus capitis posterior major muscle	dorlandsPrefix	m 22
+External intercostal muscles	dorlandsPrefix	m 22
+Internal intercostal muscles	dorlandsPrefix	m 22
+Subcostalis muscle	dorlandsPrefix	m 22
+Abdominal external oblique muscle	dorlandsPrefix	m 22
+Psoas minor muscle	dorlandsPrefix	m 22
+Quadratus lumborum muscle	dorlandsPrefix	m 22
+Sphincter ani internus muscle	dorlandsPrefix	m 22
+Sphincter ani externus muscle	dorlandsPrefix	m 22
+External sphincter muscle of male urethra	dorlandsPrefix	m 22
+Posterior cerebral artery	dorlandsPrefix	a 61
+Deep transverse perineal muscle	dorlandsPrefix	m 22
+Superficial transverse perineal muscle	dorlandsPrefix	m 22
+Subclavius muscle	dorlandsPrefix	m 22
+Subscapularis muscle	dorlandsPrefix	m 22
+Coracobrachialis muscle	dorlandsPrefix	m 22
+Teres major muscle	dorlandsPrefix	m 22
+Anconeus muscle	dorlandsPrefix	m 22
+Extensor digitorum muscle	dorlandsPrefix	m 22
+Flexor pollicis brevis muscle	dorlandsPrefix	m 22
+Extensor pollicis longus muscle	dorlandsPrefix	m 22
+Flexor pollicis longus muscle	dorlandsPrefix	m 22
+Pronator teres muscle	dorlandsPrefix	m 22
+Palmaris longus muscle	dorlandsPrefix	m 22
+Abductor pollicis brevis muscle	dorlandsPrefix	m 22
+Supinator muscle	dorlandsPrefix	m 22
+Abductor pollicis longus muscle	dorlandsPrefix	m 22
+Dorsal interossei of the foot	dorlandsPrefix	m 22
+Adductor pollicis muscle	dorlandsPrefix	m 22
+Extensor pollicis brevis muscle	dorlandsPrefix	m 22
+Palmar interossei muscles	dorlandsPrefix	m 22
+Palmaris brevis muscle	dorlandsPrefix	m 22
+Opponens digiti minimi muscle	dorlandsPrefix	m 22
+Opponens pollicis muscle	dorlandsPrefix	m 22
+Inferior gemellus muscle	dorlandsPrefix	m 22
+Iliacus muscle	dorlandsPrefix	m 22
+Obturator externus muscle	dorlandsPrefix	m 22
+Quadratus femoris muscle	dorlandsPrefix	m 22
+Adductor magnus muscle	dorlandsPrefix	m 22
+Gracilis muscle	dorlandsPrefix	m 22
+Semitendinosus muscle	dorlandsPrefix	m 22
+Semimembranosus muscle	dorlandsPrefix	m 22
+Flexor digitorum longus muscle	dorlandsPrefix	m 22
+Flexor hallucis longus muscle	dorlandsPrefix	m 22
+Extensor digitorum brevis muscle	dorlandsPrefix	m 22
+Extensor digitorum longus muscle	dorlandsPrefix	m 22
+Popliteus muscle	dorlandsPrefix	m 22
+Plantaris muscle	dorlandsPrefix	m 22
+Peroneus brevis	dorlandsPrefix	m 22
+Peroneus tertius	dorlandsPrefix	m 22
+Abductor hallucis muscle	dorlandsPrefix	m 22
+Adductor hallucis muscle	dorlandsPrefix	m 22
+Flexor hallucis brevis muscle	dorlandsPrefix	m 22
+Plantar interossei muscles	dorlandsPrefix	m 22
+Flexor digitorum brevis muscle	dorlandsPrefix	m 22
+Quadratus plantae muscle	dorlandsPrefix	m 22
+Lumbrical muscle (foot)	dorlandsPrefix	m 22
+Subscapular fossa	dorlandsPrefix	f 14
+Iliopsoas	dorlandsPrefix	m 22
+Serous gland	dorlandsPrefix	g 06
+Genioglossus	dorlandsPrefix	m 22
+Hyoglossus	dorlandsPrefix	m 22
+Styloglossus	dorlandsPrefix	m 22
+Palatoglossus muscle	dorlandsPrefix	m 22
+Crus of clitoris	dorlandsPrefix	c 64
+Cardiac skeleton	dorlandsPrefix	a 50
+Suprasternal notch	dorlandsPrefix	i 05
+Left main bronchus	dorlandsPrefix	b 23
+Lateral cord	dorlandsPrefix	f 03
+Thoracic aorta	dorlandsPrefix	p 07
+Superficial temporal artery	dorlandsPrefix	a 61
+Levator veli palatini	dorlandsPrefix	m 22
+Superior longitudinal muscle of tongue	dorlandsPrefix	m 22
+Vertical muscle of tongue	dorlandsPrefix	m 22
+Inferior longitudinal muscle of tongue	dorlandsPrefix	m 22
+Palatopharyngeus muscle	dorlandsPrefix	m 22
+Middle pharyngeal constrictor muscle	dorlandsPrefix	m 22
+Inferior pharyngeal constrictor muscle	dorlandsPrefix	m 22
+Salpingopharyngeus muscle	dorlandsPrefix	m 22
+Superior pharyngeal constrictor muscle	dorlandsPrefix	m 22
+Stylopharyngeus muscle	dorlandsPrefix	m 22
+Tensor veli palatini muscle	dorlandsPrefix	m 22
+Thoracoacromial artery	dorlandsPrefix	a 62
+Sacral plexus	dorlandsPrefix	p 24
+Common fibular nerve	dorlandsPrefix	n 05
+Intercostal nerves	dorlandsPrefix	n 05
+Tensor fasciae latae muscle	dorlandsPrefix	m 22
+Extensor hallucis brevis muscle	dorlandsPrefix	m 22
+Vestibular nerve	dorlandsPrefix	n 05
+Flocculus (cerebellar)	dorlandsPrefix	f 09
+Posterior cord	dorlandsPrefix	f 03
+Medial cord	dorlandsPrefix	f 03
+Medial pectoral nerve	dorlandsPrefix	n 05
+Thoracodorsal nerve	dorlandsPrefix	n 05
+Posterior interosseous nerve	dorlandsPrefix	n 05
+Posterior interosseous artery	dorlandsPrefix	a 61
+Radial recurrent artery	dorlandsPrefix	a 61
+Superficial fibular nerve	dorlandsPrefix	n 05
+Coronary sinus	dorlandsPrefix	s 12
+Asterion (anatomy)	dorlandsPrefix	a 67
+Cavernous sinus	dorlandsPrefix	s 12
+Bulb of vestibule	dorlandsPrefix	b 26
+Foramen spinosum	dorlandsPrefix	f 12
+Nasociliary nerve	dorlandsPrefix	n 05
+Carotid sheath	dorlandsPrefix	v 01
+First pharyngeal arch	dorlandsPrefix	a 57
+Occipitofrontalis muscle	dorlandsPrefix	m 22
+Cranial cavity	dorlandsPrefix	c 16
+Greater sac	dorlandsPrefix	s 01
+Internal iliac artery	dorlandsPrefix	a 61
+Dorsal scapular artery	dorlandsPrefix	a 61
+Ilium (bone)	dorlandsPrefix	p 10
+Sensory root of ciliary ganglion	dorlandsPrefix	r 02
+Primitive knot	dorlandsPrefix	k 04
+Opercular part of inferior frontal gyrus	dorlandsPrefix	p 07
+Fossa for lacrimal gland	dorlandsPrefix	f 14
+Metacarpophalangeal joint	dorlandsPrefix	a 64
+Zona fasciculata	dorlandsPrefix	z 01
+Clitoral glans	dorlandsPrefix	g 06
+Scala tympani	dorlandsPrefix	s 03
+Cochlear duct	dorlandsPrefix	d 29
+Reissner's membrane	dorlandsPrefix	p 06
+Helicotrema	dorlandsPrefix	h 04
+Deep fibular nerve	dorlandsPrefix	n 05
+Inguinal triangle	dorlandsPrefix	t 19
+Inferior epigastric artery	dorlandsPrefix	a 61
+Inferior epigastric vein	dorlandsPrefix	v 05
+Superior epigastric artery	dorlandsPrefix	a 61
+Internal thoracic vein	dorlandsPrefix	v 05
+Septal nuclei	dorlandsPrefix	n 11
+Posterior nucleus of hypothalamus	dorlandsPrefix	n 11
+Posterior nasal apertures	dorlandsPrefix	c 28
+Prevertebral ganglia	dorlandsPrefix	g 02
+Hypothenar eminence	dorlandsPrefix	h 23
+Superior epigastric vein	dorlandsPrefix	v 05
+Hepatic artery proper	dorlandsPrefix	a 61
+Posterior inferior cerebellar artery	dorlandsPrefix	a 61
+Linea aspera	dorlandsPrefix	l 10
+Aortic arch	dorlandsPrefix	a 58
+Lactiferous duct	dorlandsPrefix	d 29
+Ball and socket joint	dorlandsPrefix	a 64
+Zona incerta	dorlandsPrefix	z 01
+Central canal of spinal cord	dorlandsPrefix	c 04
+Obex	dorlandsPrefix	o 01
+Germinal center	dorlandsPrefix	c 20
+Hinge joint	dorlandsPrefix	g 05
+Hypoglossal canal	dorlandsPrefix	c 04
+Femoral nerve	dorlandsPrefix	n 05
+Interthalamic adhesion	dorlandsPrefix	a 15
+Pectoral girdle	dorlandsPrefix	c 35
+Arcuate nucleus (medulla)	dorlandsPrefix	n 11
+Articular capsule	dorlandsPrefix	c 07
+Perforant path	dorlandsPrefix	p 09
+Terminal bronchiole	dorlandsPrefix	b 23
+Gluteal tuberosity	dorlandsPrefix	t 21
+Geniculate ganglion	dorlandsPrefix	g 02
+Capillary lamina of choroid	dorlandsPrefix	l 02
+Inferior salivatory nucleus	dorlandsPrefix	n 11
+Golgi tendon organ	dorlandsPrefix	o 06
+Scalenus anterior	dorlandsPrefix	m 22
+Scalenus posterior	dorlandsPrefix	m 22
+Scalenus medius	dorlandsPrefix	m 2
+Superior cerebellar artery	dorlandsPrefix	a 61
+Bulbous corpuscle	dorlandsPrefix	c 56
+Popliteal fossa	dorlandsPrefix	f 14
+Semispinalis capitis	dorlandsPrefix	m 22
+Dural venous sinuses	dorlandsPrefix	s 12
+Diploë	dorlandsPrefix	c 04
+Connecting tubule	dorlandsPrefix	t 22
+Zonule of Zinn	dorlandsPrefix	z 01
+Confluence of sinuses	dorlandsPrefix	c 52
+Straight sinus	dorlandsPrefix	s 12
+Occipital sinus	dorlandsPrefix	s 12
+Superior sagittal sinus	dorlandsPrefix	s 12
+Inferior sagittal sinus	dorlandsPrefix	s 12
+Inferior petrosal sinus	dorlandsPrefix	s 12
+Occipital artery	dorlandsPrefix	a 61
+Posterior cutaneous nerve of thigh	dorlandsPrefix	n 05
+Inferior gluteal nerve	dorlandsPrefix	n 05
+Superior gluteal nerve	dorlandsPrefix	n 05
+Articularis genu muscle	dorlandsPrefix	m 22
+Abductor digiti minimi muscle of foot	dorlandsPrefix	m 22
+Flexor digiti minimi brevis muscle (foot)	dorlandsPrefix	m 22
+Dorsal interossei of the hand	dorlandsPrefix	m 22
+Subtalar joint	dorlandsPrefix	a 64
+Lumbar plexus	dorlandsPrefix	p 24
+Abductor digiti minimi muscle of hand	dorlandsPrefix	m 22
+Dilator naris muscle	dorlandsPrefix	d 19
+Thyroarytenoid muscle	dorlandsPrefix	m 22
+Chondroglossus	dorlandsPrefix	m 22
+Musculus uvulae	dorlandsPrefix	m 22
+Operculum (brain)	dorlandsPrefix	o 04
+Iliohypogastric nerve	dorlandsPrefix	n 05
+Ilioinguinal nerve	dorlandsPrefix	n 05
+Lumbar nerves	dorlandsPrefix	n 05
+Obturator nerve	dorlandsPrefix	n 05
+Lateral cutaneous nerve of thigh	dorlandsPrefix	n 05
+Anococcygeal nerve	dorlandsPrefix	n 05
+Perforating cutaneous nerve	dorlandsPrefix	n 05
+Cervical nerves	dorlandsPrefix	a 44
+Sacral nerves	dorlandsPrefix	n 05
+Ischium	dorlandsPrefix	o 07
+Lesser trochanter	dorlandsPrefix	t 20
+Ileocecal valve	dorlandsPrefix	v 02
+Erector spinae muscles	dorlandsPrefix	m 22
+Foramen rotundum	dorlandsPrefix	f 12
+Stylomastoid artery	dorlandsPrefix	a 61
+Stylomastoid foramen	dorlandsPrefix	f 12
+Pterygopalatine fossa	dorlandsPrefix	f 14
+Flexor retinaculum of the hand	dorlandsPrefix	r 10
+Palmar aponeurosis	dorlandsPrefix	a 53
+Conjoint tendon	dorlandsPrefix	f 02
+Jugular fossa	dorlandsPrefix	f 14
+Cystic artery	dorlandsPrefix	a 61
+Thoracolumbar fascia	dorlandsPrefix	f 03
+Greater cornu	dorlandsPrefix	c 55
+Lesser cornu	dorlandsPrefix	c 55
+Mental foramen	dorlandsPrefix	f 12
+Lateral cuneiform bone	dorlandsPrefix	o 07
+Ascending aorta	dorlandsPrefix	p 07
+Palatine aponeurosis	dorlandsPrefix	a 53
+Medial pterygoid plate	dorlandsPrefix	l 02
+Bregma	dorlandsPrefix	b 22
+Mylohyoid line	dorlandsPrefix	l 10
+Pharyngeal raphe	dorlandsPrefix	r 03
+Symphysis menti	dorlandsPrefix	s 31
+Vertebra prominens	dorlandsPrefix	v 07
+Costal cartilage	dorlandsPrefix	c 12
+Vestibulospinal tract	dorlandsPrefix	t 15
+Fascia lata	dorlandsPrefix	f 03
+Lingual nerve	dorlandsPrefix	n 05
+Superior semicircular canal	dorlandsPrefix	c 04
+Posterior semicircular canal	dorlandsPrefix	c 04
+Horizontal semicircular canal	dorlandsPrefix	c 04
+Round window	dorlandsPrefix	f 04
+Interphalangeal articulations of hand	dorlandsPrefix	a 64
+Frontal eye fields	dorlandsPrefix	f 07
+Juxtamedullary nephron	dorlandsPrefix	n 03
+Primitive streak	dorlandsPrefix	s 25
+Afferent arterioles	dorlandsPrefix	a 62
+Efferent arteriole	dorlandsPrefix	a 62
+Lateral cutaneous nerve of forearm	dorlandsPrefix	n 05
+Medial cutaneous nerve of forearm	dorlandsPrefix	n 05
+Medial cutaneous nerve of arm	dorlandsPrefix	n 05
+Skene's ducts	dorlandsPrefix	d 29
+Cuneiform cartilages	dorlandsPrefix	c 12
+Lingual artery	dorlandsPrefix	a 61
+Sural nerve	dorlandsPrefix	n 05
+Organum vasculosum of lamina terminalis	dorlandsPrefix	o 06
+Iliotibial tract	dorlandsPrefix	t 15
+Inferior temporal gyrus	dorlandsPrefix	g 13
+Sphenoidal sinus	dorlandsPrefix	s 12
+Epoophoron	dorlandsPrefix	e 13
+Calcarine fissure	dorlandsPrefix	s 28
+Posterior triangle of the neck	dorlandsPrefix	r 07
+Semilunar hiatus	dorlandsPrefix	h 11
+Supraorbital foramen	dorlandsPrefix	f 12
+Uterine artery	dorlandsPrefix	a 61
+Lacrimal nerve	dorlandsPrefix	n 05
+Supratrochlear nerve	dorlandsPrefix	n 05
+Suture (joint)	dorlandsPrefix	s 30
+Facial motor nucleus	dorlandsPrefix	n 11
+Superior thyroid artery	dorlandsPrefix	a 61
+Cochlear nuclei	dorlandsPrefix	n 11
+Dorsal cochlear nucleus	dorlandsPrefix	n 11
+Superior olivary complex	dorlandsPrefix	n 11
+Vestibular nuclei	dorlandsPrefix	n 11
+Trigeminal nerve nuclei	dorlandsPrefix	n 11
+Spinal trigeminal nucleus	dorlandsPrefix	n 11
+Trigeminal motor nucleus	dorlandsPrefix	n 11
+Bulbus cordis	dorlandsPrefix	b 26
+Hemiazygos vein	dorlandsPrefix	v 05
+Anterior commissure	dorlandsPrefix	c 49
+Gracile nucleus	dorlandsPrefix	n 11
+Horizontal fissure of cerebellum	dorlandsPrefix	f 08
+Middle superior alveolar nerve	dorlandsPrefix	r 02
+Ventral mesentery	dorlandsPrefix	m 10
+Ramus of the mandible	dorlandsPrefix	r 02
+Condyloid process	dorlandsPrefix	p 34
+Sphenoidal conchae	dorlandsPrefix	c 50
+Pterygoid processes of the sphenoid	dorlandsPrefix	p 34
+Greater wing of sphenoid bone	dorlandsPrefix	a 21
+Labyrinth of ethmoid	dorlandsPrefix	l 01
+Zygomatic nerve	dorlandsPrefix	n 05
+Inferior orbital fissure	dorlandsPrefix	f 08
+Tunica albuginea of testis	dorlandsPrefix	t 22
+Gonadal vein	dorlandsPrefix	v 04
+Superior gluteal artery	dorlandsPrefix	a 61
+Lateral sacral artery	dorlandsPrefix	a 61
+Vaginal artery	dorlandsPrefix	a 61
+Inferior gluteal artery	dorlandsPrefix	a 61
+Obturator artery	dorlandsPrefix	a 61
+Inferior vesical artery	dorlandsPrefix	a 61
+Middle rectal artery	dorlandsPrefix	a 61
+Superior vesical artery	dorlandsPrefix	a 61
+Perineal artery	dorlandsPrefix	a 61
+Inferior rectal artery	dorlandsPrefix	a 61
+Urethral artery	dorlandsPrefix	a 61
+Thyrocervical trunk	dorlandsPrefix	t 20
+Ligamentum venosum	dorlandsPrefix	l 09
+Tail of pancreas	dorlandsPrefix	c 15
+Circumflex scapular artery	dorlandsPrefix	a 61
+Iliocostalis	dorlandsPrefix	m 22
+Spinalis	dorlandsPrefix	m 22
+Vertebral vein	dorlandsPrefix	v 05
+Anterior jugular vein	dorlandsPrefix	v 05
+Nucleus raphe pallidus	dorlandsPrefix	n 11
+Median raphe nucleus	dorlandsPrefix	n 11
+Nucleus raphe magnus	dorlandsPrefix	n 11
+Nucleus raphe obscurus	dorlandsPrefix	n 11
+Dorsal raphe nucleus	dorlandsPrefix	n 11
+Transverse sinuses	dorlandsPrefix	s 12
+Iliococcygeus muscle	dorlandsPrefix	m 22
+Innermost intercostal muscle	dorlandsPrefix	m 22
+Puborectalis muscle	dorlandsPrefix	m 22
+Extensor indicis muscle	dorlandsPrefix	m 22
+Aryepiglottic muscle	dorlandsPrefix	p 07
+Oblique arytenoid	dorlandsPrefix	m 22
+Articularis cubiti muscle	dorlandsPrefix	m 22
+Flexor digiti minimi brevis (hand)	dorlandsPrefix	m 22
+Temporoparietalis muscle	dorlandsPrefix	m 22
+Common interosseous artery	dorlandsPrefix	a 61
+Facial vein	dorlandsPrefix	v 05
+Common facial vein	dorlandsPrefix	v 04
+Great cardiac vein	dorlandsPrefix	v 05
+Small cardiac vein	dorlandsPrefix	v 05
+Middle cardiac vein	dorlandsPrefix	v 05
+Short gastric veins	dorlandsPrefix	v 05
+Inferior phrenic vein	dorlandsPrefix	v 05
+Inferior thyroid veins	dorlandsPrefix	v 05
+Accessory hemiazygos vein	dorlandsPrefix	v 05
+Inferior ophthalmic vein	dorlandsPrefix	v 05
+Left gastroepiploic vein	dorlandsPrefix	v 05
+Superior thyroid vein	dorlandsPrefix	v 05
+Middle thyroid vein	dorlandsPrefix	v 05
+Inferior gluteal veins	dorlandsPrefix	v 05
+Superior gluteal veins	dorlandsPrefix	v 05
+Maxillary veins	dorlandsPrefix	v 05
+Supreme intercostal vein	dorlandsPrefix	v 05
+Greater pancreatic artery	dorlandsPrefix	a 61
+Inferior phrenic arteries	dorlandsPrefix	a 61
+Right gastro-omental artery	dorlandsPrefix	a 61
+Left gastro-omental artery	dorlandsPrefix	a 61
+Posterior intercostal arteries	dorlandsPrefix	a 62
+Buccal artery	dorlandsPrefix	a 61
+Median sacral artery	dorlandsPrefix	a 61
+Sigmoid arteries	dorlandsPrefix	a 61
+Right colic artery	dorlandsPrefix	a 61
+Left colic artery	dorlandsPrefix	a 61
+Ascending cervical artery	dorlandsPrefix	a 61
+Transverse cervical artery	dorlandsPrefix	a 61
+Esophageal branches of thoracic part of aorta	dorlandsPrefix	r 02
+Middle genicular artery	dorlandsPrefix	a 61
+Superior lateral genicular artery	dorlandsPrefix	a 61
+Superior medial genicular artery	dorlandsPrefix	a 61
+Inferior lateral genicular artery	dorlandsPrefix	a 61
+Inferior medial genicular artery	dorlandsPrefix	a 61
+Short gastric arteries	dorlandsPrefix	a 61
+Right gastric artery	dorlandsPrefix	a 61
+Inferior thyroid artery	dorlandsPrefix	a 61
+Musculophrenic artery	dorlandsPrefix	a 61
+Middle suprarenal arteries	dorlandsPrefix	a 61
+Ileocolic artery	dorlandsPrefix	a 61
+Posterior auricular artery	dorlandsPrefix	a 61
+Inferior alveolar artery	dorlandsPrefix	a 61
+Lateral circumflex femoral artery	dorlandsPrefix	a 61
+Medial circumflex femoral artery	dorlandsPrefix	a 61
+Anterior interosseous artery	dorlandsPrefix	a 61
+Ascending pharyngeal artery	dorlandsPrefix	a 61
+Superficial palmar arch	dorlandsPrefix	a 58
+Anterior ethmoidal artery	dorlandsPrefix	a 61
+Lumbar arteries	dorlandsPrefix	a 61
+Pericardiacophrenic artery	dorlandsPrefix	a 61
+Intestinal arteries	dorlandsPrefix	a 61
+Inferior pancreaticoduodenal artery	dorlandsPrefix	a 61
+Superior laryngeal artery	dorlandsPrefix	a 61
+Inferior laryngeal artery	dorlandsPrefix	a 61
+Deep palmar arch	dorlandsPrefix	a 58
+Lower lip	dorlandsPrefix	l 01
+Mental nerve	dorlandsPrefix	n 05
+Superior laryngeal nerve	dorlandsPrefix	n 05
+Lateral root of median nerve	dorlandsPrefix	r 02
+Medial root of median nerve	dorlandsPrefix	r 02
+Deep temporal nerves	dorlandsPrefix	n 05
+Infratrochlear nerve	dorlandsPrefix	n 05
+External nasal nerve	dorlandsPrefix	r 02
+Perineal nerve	dorlandsPrefix	n 05
+Zygomaticotemporal nerve	dorlandsPrefix	r 02
+Zygomaticofacial nerve	dorlandsPrefix	r 02
+Lower subscapular nerve	dorlandsPrefix	n 05
+Upper subscapular nerve	dorlandsPrefix	n 05
+Renal plexus	dorlandsPrefix	p 24
+Intercostobrachial nerve	dorlandsPrefix	n 05
+Lateral pectoral nerve	dorlandsPrefix	n 05
+Prostatic sinus	dorlandsPrefix	s 12
+Adductor canal	dorlandsPrefix	c 04
+Transverse colon	dorlandsPrefix	c 47
+Tuber cinereum	dorlandsPrefix	t 21
+Cardiac plexus	dorlandsPrefix	p 24
+Meningeal branch of the mandibular nerve	dorlandsPrefix	r 02
+Posterior ethmoidal foramen	dorlandsPrefix	f 12
+Anterior ethmoidal foramen	dorlandsPrefix	f 12
+Foramen cecum (frontal bone)	dorlandsPrefix	f 12
+Optic canal	dorlandsPrefix	c 04
+Internal carotid plexus	dorlandsPrefix	p 24
+Labyrinthine artery	dorlandsPrefix	a 61
+Trigeminal ganglion	dorlandsPrefix	g 02
+Zygomaticofacial foramen	dorlandsPrefix	f 12
+Zygomaticotemporal foramen	dorlandsPrefix	f 12
+Pterygomaxillary fissure	dorlandsPrefix	f 08
+Superior cervical ganglion	dorlandsPrefix	g 02
+Suprascapular artery	dorlandsPrefix	a 61
+Supraclavicular nerves	dorlandsPrefix	n 05
+Carotid canal	dorlandsPrefix	c 04
+Long ciliary nerves	dorlandsPrefix	n 05
+Anterior ethmoidal nerve	dorlandsPrefix	n 05
+Phalanges of the hand	dorlandsPrefix	o 07
+Transverse cervical nerve	dorlandsPrefix	n 05
+Superior nasal meatus	dorlandsPrefix	m 06
+Middle nasal meatus	dorlandsPrefix	m 06
+Inferior nasal meatus	dorlandsPrefix	m 06
+Sphenoethmoidal recess	dorlandsPrefix	r 05
+Submandibular duct	dorlandsPrefix	d 29
+Sympathetic trunk	dorlandsPrefix	t 20
+Pterygoid hamulus	dorlandsPrefix	h 02
+Mylohyoid nerve	dorlandsPrefix	n 05
+Retropharyngeal space	dorlandsPrefix	s 16
+Maxillary hiatus	dorlandsPrefix	h 11
+Internal laryngeal nerve	dorlandsPrefix	r 02
+External laryngeal nerve	dorlandsPrefix	r 02
+Maxillary artery	dorlandsPrefix	a 61
+Descending palatine artery	dorlandsPrefix	a 61
+Incisive canals	dorlandsPrefix	c 04
+Incisive foramen	dorlandsPrefix	f 12
+Sphenopalatine foramen	dorlandsPrefix	f 12
+Sphenopalatine artery	dorlandsPrefix	a 61
+Lingual veins	dorlandsPrefix	v 05
+Greater palatine artery	dorlandsPrefix	a 61
+Ascending palatine artery	dorlandsPrefix	a 61
+Greater palatine foramen	dorlandsPrefix	f 12
+Lesser palatine foramina	dorlandsPrefix	f 12
+Thyroid isthmus	dorlandsPrefix	i 14
+Torus tubarius	dorlandsPrefix	t 14
+Ovarian artery	dorlandsPrefix	a 61
+Inferior ulnar collateral artery	dorlandsPrefix	a 61
+Superior ulnar collateral artery	dorlandsPrefix	a 61
+Profunda brachii	dorlandsPrefix	a 61
+Radial sulcus	dorlandsPrefix	s 28
+Intertubercular sulcus	dorlandsPrefix	s 28
+Hypophyseal portal system	dorlandsPrefix	s 33
+Lateral pterygoid nerve	dorlandsPrefix	n 05
+Abdominal aortic plexus	dorlandsPrefix	p 24
+Theca interna	dorlandsPrefix	t 22
+Scarpa's ganglion	dorlandsPrefix	g 02
+Traube's space	dorlandsPrefix	s 16
+Intercostal space	dorlandsPrefix	s 16
+Intestinal gland	dorlandsPrefix	g 06
+Canal of Nuck	dorlandsPrefix	p 34
+Frontal vein	dorlandsPrefix	v 05
+Supraorbital vein	dorlandsPrefix	v 05
+Angular vein	dorlandsPrefix	v 05
+Superficial temporal vein	dorlandsPrefix	v 05
+Retromandibular vein	dorlandsPrefix	v 05
+Posterior auricular vein	dorlandsPrefix	v 05
+Occipital vein	dorlandsPrefix	v 05
+Pharyngeal veins	dorlandsPrefix	v 05
+Deep cervical vein	dorlandsPrefix	v 05
+Internal pudendal veins	dorlandsPrefix	v 05
+Sternocostal triangle	dorlandsPrefix	f 12
+Inferior cerebral veins	dorlandsPrefix	v 05
+Mastoid part of the temporal bone	dorlandsPrefix	p 07
+Petrous part of the temporal bone	dorlandsPrefix	p 07
+Tympanic part of the temporal bone	dorlandsPrefix	p 07
+Temporal styloid process	dorlandsPrefix	p 34
+Basilar part of occipital bone	dorlandsPrefix	p 07
+Squama occipitalis	dorlandsPrefix	s 21
+Supraorbital notch	dorlandsPrefix	i 05
+Hypochondrium	dorlandsPrefix	h 21
+Inferior ganglion of glossopharyngeal nerve	dorlandsPrefix	g 02
+Superior ganglion of vagus nerve	dorlandsPrefix	g 02
+Facial canal	dorlandsPrefix	c 04
+Submandibular ganglion	dorlandsPrefix	g 02
+Deep branch of radial nerve	dorlandsPrefix	r 02
+Superficial branch of radial nerve	dorlandsPrefix	r 02
+Muscular branches of the radial nerve	dorlandsPrefix	r 02
+Lacrimal artery	dorlandsPrefix	a 61
+Transversalis fascia	dorlandsPrefix	f 03
+Descending colon	dorlandsPrefix	c 47
+Sphenoidal emissary foramen	dorlandsPrefix	f 12
+Sole (foot)	dorlandsPrefix	p 22
+Amphiarthrosis	dorlandsPrefix	a 31
+Frontoethmoidal suture	dorlandsPrefix	s 30
+Squamosal suture	dorlandsPrefix	s 30
+Sphenozygomatic suture	dorlandsPrefix	s 30
+Sphenoparietal suture	dorlandsPrefix	s 30
+Sphenofrontal suture	dorlandsPrefix	s 30
+Sphenopetrosal fissure	dorlandsPrefix	f 08
+Zygomaticofrontal suture	dorlandsPrefix	s 30
+Zygomaticotemporal suture	dorlandsPrefix	s 30
+Sphenoethmoidal suture	dorlandsPrefix	s 30
+Occipitomastoid suture	dorlandsPrefix	s 30
+Petrosquamous suture	dorlandsPrefix	s 30
+Sphenosquamosal suture	dorlandsPrefix	s 30
+Ampullary cupula	dorlandsPrefix	c 67
+Body of sternum	dorlandsPrefix	c 56
+Articular disk	dorlandsPrefix	d 22
+Deep auricular artery	dorlandsPrefix	a 61
+Anterior tympanic artery	dorlandsPrefix	a 61
+Infraorbital artery	dorlandsPrefix	a 61
+Posterior superior alveolar artery	dorlandsPrefix	a 61
+Infratemporal fossa	dorlandsPrefix	f 14
+Tympanic nerve	dorlandsPrefix	n 05
+Posterior ethmoidal nerve	dorlandsPrefix	n 05
+Lesser petrosal nerve	dorlandsPrefix	n 05
+Posterior meningeal artery	dorlandsPrefix	a 61
+Posterior ethmoidal artery	dorlandsPrefix	a 61
+Erb's point (neurology)	dorlandsPrefix	p 26
+Sphincter of ampulla	dorlandsPrefix	s 18
+Sigmoid mesocolon	dorlandsPrefix	m 10
+Transverse mesocolon	dorlandsPrefix	m 10
+White ramus communicans	dorlandsPrefix	r 02
+Rami communicans	dorlandsPrefix	r 02
+Gray ramus communicans	dorlandsPrefix	r 02
+Pulmonary branches of vagus nerve	dorlandsPrefix	r 02
+Pulmonary plexus	dorlandsPrefix	p 24
+Postganglionic nerve fibers	dorlandsPrefix	n 06
+Preganglionic nerve fibers	dorlandsPrefix	n 06
+Superior hypogastric plexus	dorlandsPrefix	p 24
+Facial colliculus	dorlandsPrefix	c 46
+Zygomatic process of frontal bone	dorlandsPrefix	p 34
+Superciliary arches	dorlandsPrefix	a 58
+Sagittal sulcus	dorlandsPrefix	s 28
+Frontal crest	dorlandsPrefix	c 62
+Lesser sciatic foramen	dorlandsPrefix	f 12
+Foramen cecum (tongue)	dorlandsPrefix	f 12
+Foramen cecum (medulla oblongata)	dorlandsPrefix	f 12
+Fundic glands	dorlandsPrefix	g 06
+Sphenoidal lingula	dorlandsPrefix	l 11
+Subarcuate fossa	dorlandsPrefix	f 14
+Mastoid foramen	dorlandsPrefix	f 12
+Jugular process	dorlandsPrefix	p 34
+Petro-occipital fissure	dorlandsPrefix	f 08
+Condylar canal	dorlandsPrefix	c 04
+Jugular tubercle	dorlandsPrefix	t 21
+Tuberculum sellae	dorlandsPrefix	t 21
+Carotid groove	dorlandsPrefix	g 12
+Hypophysial fossa	dorlandsPrefix	f 14
+Posterior clinoid processes	dorlandsPrefix	p 34
+Anterior clinoid process	dorlandsPrefix	p 34
+Sigmoid sulcus	dorlandsPrefix	s 28
+Internal occipital protuberance	dorlandsPrefix	p 38
+Internal occipital crest	dorlandsPrefix	c 62
+Pudendal cleft	dorlandsPrefix	r 14
+Superior ganglion of glossopharyngeal nerve	dorlandsPrefix	g 02
+Parasympathetic ganglion	dorlandsPrefix	g 02
+Sympathetic ganglion	dorlandsPrefix	g 02
+Medial pterygoid nerve	dorlandsPrefix	n 05
+Duodenojejunal flexure	dorlandsPrefix	f 09
+Duodenal bulb	dorlandsPrefix	b 26
+Accessory pancreatic duct	dorlandsPrefix	d 29
+Suspensory ligament of penis	dorlandsPrefix	l 09
+Parametrium	dorlandsPrefix	p 05
+Pectineal line (femur)	dorlandsPrefix	l 10
+Superficial inguinal ring	dorlandsPrefix	a 50
+Deep inguinal ring	dorlandsPrefix	a 50
+Tunica vaginalis	dorlandsPrefix	t 22
+Appendix of testis	dorlandsPrefix	a 54
+Mesovarium	dorlandsPrefix	m 11
+Vitelline veins	dorlandsPrefix	v 04
+Body-stalk	dorlandsPrefix	s 21
+Common cardinal veins	dorlandsPrefix	v 04
+Oblique vein of the left atrium	dorlandsPrefix	v 05
+Posterior vein of the left ventricle	dorlandsPrefix	v 05
+Valve of coronary sinus	dorlandsPrefix	v 02
+Coronary sulcus	dorlandsPrefix	s 12
+Interatrial groove	dorlandsPrefix	g 12
+Fold of left vena cava	dorlandsPrefix	l 09
+Nasolacrimal canal	dorlandsPrefix	c 04
+Rostrum of corpus callosum	dorlandsPrefix	r 15
+Uncus	dorlandsPrefix	u 02
+Chordamesoderm	dorlandsPrefix	c 31
+Wolffian tubules	dorlandsPrefix	t 22
+Deep cervical fascia	dorlandsPrefix	l 05
+Lateral pterygoid plate	dorlandsPrefix	l 02
+Posterior interventricular artery	dorlandsPrefix	a 62
+Circumflex branch of left coronary artery	dorlandsPrefix	r 02
+Vaginal branches of uterine artery	dorlandsPrefix	a 62
+Short ciliary nerves	dorlandsPrefix	n 05
+Medial plantar nerve	dorlandsPrefix	n 05
+Lateral plantar nerve	dorlandsPrefix	n 05
+Aortic vestibule	dorlandsPrefix	v 08
+Ischioanal fossa	dorlandsPrefix	f 14
+Anal fascia	dorlandsPrefix	f 03
+Pudendal canal	dorlandsPrefix	c 04
+Fascia of Colles	dorlandsPrefix	c 46
+Superior ramus of the ischium	dorlandsPrefix	r 02
+Body of ischium	dorlandsPrefix	c 56
+Tuberosity of the ischium	dorlandsPrefix	t 21
+Sacral canal	dorlandsPrefix	c 04
+Pelvic cavity	dorlandsPrefix	c 16
+Head of fibula	dorlandsPrefix	c 08
+Body of fibula	dorlandsPrefix	c 56
+Lesser pelvis	dorlandsPrefix	p 10
+Greater pelvis	dorlandsPrefix	p 10
+Pelvic brim	dorlandsPrefix	b 22
+Linea terminalis	dorlandsPrefix	l 10
+Arcuate line of ilium	dorlandsPrefix	l 10
+Pubic arch	dorlandsPrefix	a 58
+Body of tibia	dorlandsPrefix	c 56
+Body of femur	dorlandsPrefix	s 09
+Wing of ilium	dorlandsPrefix	a 21
+Pelvic inlet	dorlandsPrefix	a 51
+Lateral aperture	dorlandsPrefix	a 51
+Lacrimal apparatus	dorlandsPrefix	a 54
+Lacrimal canaliculi	dorlandsPrefix	c 04
+Lacrimal sac	dorlandsPrefix	s 01
+Anterior commissure of labia majora	dorlandsPrefix	c 49
+Clavipectoral fascia	dorlandsPrefix	f 03
+Middle meningeal nerve	dorlandsPrefix	n 05
+Pterygopalatine nerves	dorlandsPrefix	n 05
+Superior labial nerve	dorlandsPrefix	r 02
+Inferior palpebral nerve	dorlandsPrefix	r 02
+Anterior superior alveolar nerve	dorlandsPrefix	r 02
+Posterior superior alveolar nerve	dorlandsPrefix	r 02
+Pharyngeal nerve	dorlandsPrefix	n 05
+Deep petrosal nerve	dorlandsPrefix	n 05
+Nerve of pterygoid canal	dorlandsPrefix	n 05
+Trigeminal cave	dorlandsPrefix	c 16
+Masseteric nerve	dorlandsPrefix	n 05
+Infraorbital plexus	dorlandsPrefix	p 24
+Pterygoid canal	dorlandsPrefix	c 04
+Infraorbital canal	dorlandsPrefix	c 04
+Palatovaginal canal	dorlandsPrefix	c 04
+Pterion	dorlandsPrefix	p 41
+Obelion	dorlandsPrefix	o 01
+Stephanion	dorlandsPrefix	s 23
+Temporal line	dorlandsPrefix	l 10
+Dacryon	dorlandsPrefix	d 01
+Frontal eminence	dorlandsPrefix	t 21
+Peritubular capillaries	dorlandsPrefix	c 06
+Zygomatico-orbital foramina	dorlandsPrefix	f 12
+Foramina of Scarpa	dorlandsPrefix	f 12
+Opisthion	dorlandsPrefix	b 05
+Basion	dorlandsPrefix	b 05
+Mandibular fossa	dorlandsPrefix	f 14
+Alveolar canals	dorlandsPrefix	c 04
+Frontonasal duct	dorlandsPrefix	d 29
+Condyloid fossa	dorlandsPrefix	f 14
+Pyramidal process of palatine bone	dorlandsPrefix	p 34
+Occipital groove	dorlandsPrefix	g 12
+Scaphoid fossa	dorlandsPrefix	f 14
+Pterygoid fossa	dorlandsPrefix	f 14
+Occipital plane	dorlandsPrefix	p 22
+Nuchal plane	dorlandsPrefix	p 22
+External occipital protuberance	dorlandsPrefix	p 38
+Anterior nasal spine	dorlandsPrefix	s 18
+Posterior nasal spine	dorlandsPrefix	s 18
+Mastoid notch	dorlandsPrefix	i 05
+Inferior tympanic canaliculus	dorlandsPrefix	c 04
+Cochlear aqueduct	dorlandsPrefix	a 55
+Sulcus for auditory tube	dorlandsPrefix	s 28
+Parietal eminence	dorlandsPrefix	t 21
+Parietal foramen	dorlandsPrefix	f 12
+Spine of sphenoid bone	dorlandsPrefix	s 18
+Articular tubercle	dorlandsPrefix	t 21
+Infratemporal crest	dorlandsPrefix	c 62
+Suprameatal triangle	dorlandsPrefix	f 15
+Petrotympanic fissure	dorlandsPrefix	f 08
+Pharyngeal tubercle	dorlandsPrefix	t 21
+Suprameatal spine	dorlandsPrefix	s 18
+Anterior nasal aperture	dorlandsPrefix	a 51
+Hiatus for greater petrosal nerve	dorlandsPrefix	h 11
+Posterior lacrimal crest	dorlandsPrefix	c 62
+Anterior lacrimal crest	dorlandsPrefix	c 62
+Intertubercular plane	dorlandsPrefix	p 22
+Transpyloric plane	dorlandsPrefix	p 22
+Sternoclavicular articulation	dorlandsPrefix	a 64
+Rectal venous plexus	dorlandsPrefix	p 24
+Metatarsophalangeal articulations	dorlandsPrefix	a 64
+Lateral condyle of tibia	dorlandsPrefix	c 51
+Medial condyle of tibia	dorlandsPrefix	c 51
+Medial condyle of femur	dorlandsPrefix	c 51
+Lateral condyle of femur	dorlandsPrefix	c 51
+Trochlear process	dorlandsPrefix	p 34
+Intercondylar eminence	dorlandsPrefix	e 06
+Lateral intermuscular septum of arm	dorlandsPrefix	s 08
+Lateral supracondylar ridge	dorlandsPrefix	l 10
+Trabeculae carneae	dorlandsPrefix	t 14
+Conus arteriosus	dorlandsPrefix	c 54
+Arches of the foot	dorlandsPrefix	a 58
+Anterior median fissure of spinal cord	dorlandsPrefix	f 08
+Posterior funiculus	dorlandsPrefix	f 17
+Anterior horn of spinal cord	dorlandsPrefix	c 55
+Posterior median sulcus of spinal cord	dorlandsPrefix	s 28
+Gracile fasciculus	dorlandsPrefix	f 03
+Cuneate fasciculus	dorlandsPrefix	f 03
+Pubic tubercle	dorlandsPrefix	t 21
+Intraparietal sulcus	dorlandsPrefix	12768887
+Intertrochanteric crest	dorlandsPrefix	c 62
+Obturator membrane	dorlandsPrefix	m 08
+Ischial spine	dorlandsPrefix	s 18
+Anterior inferior iliac spine	dorlandsPrefix	s 18
+Anterior gluteal line	dorlandsPrefix	l 10
+Tendinous arch of pelvic fascia	dorlandsPrefix	a 58
+Anterior humeral circumflex artery	dorlandsPrefix	a 61
+Posterior humeral circumflex artery	dorlandsPrefix	a 61
+Infraspinatous fossa	dorlandsPrefix	f 14
+Supraspinatous fossa	dorlandsPrefix	f 14
+Glenoid cavity	dorlandsPrefix	c 16
+Central gelatinous substance of spinal cord	dorlandsPrefix	s 27
+Substantia gelatinosa of Rolando	dorlandsPrefix	s 27
+Posterior commissure	dorlandsPrefix	c 49
+Temporal fascia	dorlandsPrefix	l 02
+Masseteric fascia	dorlandsPrefix	f 03
+Lateral horn of spinal cord	dorlandsPrefix	c 55
+Ganglion impar	dorlandsPrefix	g 02
+Posterior thoracic nucleus	dorlandsPrefix	n 11
+Funiculus (neurology)	dorlandsPrefix	f 17
+Anterior spinothalamic tract	dorlandsPrefix	t 15
+Foramen singulare	dorlandsPrefix	f 12
+Lateral vestibular nucleus	dorlandsPrefix	n 11
+Superior vestibular nucleus	dorlandsPrefix	n 11
+Femoral ring	dorlandsPrefix	a 50
+Femoral canal	dorlandsPrefix	c 04
+Infraorbital groove	dorlandsPrefix	s 28
+Lacrimal groove	dorlandsPrefix	s 28
+Trochlear fovea	dorlandsPrefix	f 15
+Pedicle of vertebral arch	dorlandsPrefix	p 09
+Lamina of the vertebral arch	dorlandsPrefix	l 02
+Vertebral foramen	dorlandsPrefix	f 12
+Iliopubic eminence	dorlandsPrefix	e 06
+Ulnar canal	dorlandsPrefix	c 04
+Posterior fontanelle	dorlandsPrefix	f 12
+Anterior fontanelle	dorlandsPrefix	f 12
+Visceral pleura	dorlandsPrefix	p 24
+Parietal pleura	dorlandsPrefix	p 24
+Mediastinal pleura	dorlandsPrefix	p 24
+Cervical pleura	dorlandsPrefix	c 67
+Iliac crest	dorlandsPrefix	c 62
+Diaphragmatic pleura	dorlandsPrefix	p 24
+Costal pleura	dorlandsPrefix	p 24
+Petrosquamous sinus	dorlandsPrefix	s 12
+Superior cerebral veins	dorlandsPrefix	v 05
+Internal auditory veins	dorlandsPrefix	v 05
+Coccygeal nerve	dorlandsPrefix	n 05
+Thoracic nerves	dorlandsPrefix	n 05
+Semispinalis dorsi	dorlandsPrefix	m 22
+Subcostal nerve	dorlandsPrefix	n 05
+Subcostal arteries	dorlandsPrefix	a 61
+Lateral arcuate ligament	dorlandsPrefix	l 09
+Medial arcuate ligament	dorlandsPrefix	l 09
+Pubic crest	dorlandsPrefix	c 62
+Fascia of Scarpa	dorlandsPrefix	f 03
+Accessory obturator nerve	dorlandsPrefix	n 05
+White pulp	dorlandsPrefix	n 09
+Red pulp	dorlandsPrefix	p 41
+Trochanteric fossa	dorlandsPrefix	f 14
+Acetabular notch	dorlandsPrefix	i 05
+Cruciate anastomosis	dorlandsPrefix	a 35
+Lateral umbilical fold	dorlandsPrefix	l 09
+Bile canaliculus	dorlandsPrefix	c 04
+Posterior intercondylar area	dorlandsPrefix	a 59
+Lobes of thyroid gland	dorlandsPrefix	l 13
+Vestibule of larynx	dorlandsPrefix	v 08
+Corniculate cartilages	dorlandsPrefix	c 12
+Aryepiglottic fold	dorlandsPrefix	p 24
+Primitive groove	dorlandsPrefix	g 12
+Atlanto-axial joint	dorlandsPrefix	a 64
+Atlanto-occipital joint	dorlandsPrefix	a 64
+Superficial epigastric artery	dorlandsPrefix	a 61
+Rhomboid fossa	dorlandsPrefix	f 14
+Substantia innominata	dorlandsPrefix	s 27
+Basal plate (placenta)	dorlandsPrefix	p 23
+Renal column	dorlandsPrefix	c 48
+Inferior ganglion of vagus nerve	dorlandsPrefix	g 02
+Buccopharyngeal membrane	dorlandsPrefix	m 08
+Superior thoracic artery	dorlandsPrefix	a 61
+Suprascapular notch	dorlandsPrefix	i 05
+Porta hepatis	dorlandsPrefix	p 29
+Medial forebrain bundle	dorlandsPrefix	f 03
+Lumbosacral plexus	dorlandsPrefix	p 24
+Meissner's plexus	dorlandsPrefix	p 24
+Diagonal band of Broca	dorlandsPrefix	s 26
+Palatine nerves	dorlandsPrefix	n 05
+Lateral corticospinal tract	dorlandsPrefix	t 15
+Anterior corticospinal tract	dorlandsPrefix	t 15
+Maxillary process of inferior nasal concha	dorlandsPrefix	p 34
+Nerve to the subclavius	dorlandsPrefix	n 05
+Superior lateral cutaneous nerve of arm	dorlandsPrefix	n 05
+Posterior cutaneous nerve of forearm	dorlandsPrefix	n 05
+Posterior cutaneous nerve of arm	dorlandsPrefix	n 05
+Spermatic plexus	dorlandsPrefix	p 24
+Aorticorenal ganglion	dorlandsPrefix	g 02
+Inferior mesenteric ganglion	dorlandsPrefix	g 02
+Superior mesenteric ganglion	dorlandsPrefix	g 02
+Superior mesenteric plexus	dorlandsPrefix	p 24
+Urachus	dorlandsPrefix	u 03
+Vitelline membrane	dorlandsPrefix	m 08
+Infraorbital nerve	dorlandsPrefix	n 05
+Medial palpebral ligament	dorlandsPrefix	l 09
+Body of maxilla	dorlandsPrefix	c 56
+Zygomatic process of maxilla	dorlandsPrefix	p 34
+Palatine process of maxilla	dorlandsPrefix	p 34
+Lacrimal punctum	dorlandsPrefix	p 42
+Lacrimal lake	dorlandsPrefix	l 01
+Antihelix	dorlandsPrefix	h 04
+Antitragus	dorlandsPrefix	a 49
+Ponticulus	dorlandsPrefix	p 29
+Earlobe	dorlandsPrefix	l 13
+Tactile corpuscles of Grandry	dorlandsPrefix	c 56
+Genital corpuscles	dorlandsPrefix	c 56
+Corpuscles of Herbst	dorlandsPrefix	c 56
+Superior tarsal muscle	dorlandsPrefix	m 22
+Obturator fascia	dorlandsPrefix	f 03
+Anococcygeal body	dorlandsPrefix	r 03
+Iliac fascia	dorlandsPrefix	f 03
+Femoral sheath	dorlandsPrefix	s 10
+Lumboinguinal nerve	dorlandsPrefix	r 02
+Iliopubic tract	dorlandsPrefix	a 57
+Cardiac notch of left lung	dorlandsPrefix	i 05
+Lateral spinothalamic tract	dorlandsPrefix	t 15
+Anterior external arcuate fibers	dorlandsPrefix	f 05
+Internal arcuate fibers	dorlandsPrefix	f 05
+Mammillothalamic fasciculus	dorlandsPrefix	f 03
+Ansa lenticularis	dorlandsPrefix	a 44
+Medullary striae of fourth ventricle	dorlandsPrefix	s 26
+Posterolateral tract	dorlandsPrefix	t 15
+Olivospinal tract	dorlandsPrefix	t 15
+Spinotectal tract	dorlandsPrefix	t 15
+Superior cerebellar peduncle	dorlandsPrefix	p 10
+Middle cerebellar peduncle	dorlandsPrefix	p 10
+Ventral supraoptic decussation	dorlandsPrefix	c 49
+Diaphragma sellae	dorlandsPrefix	d 15
+Stratum zonale of thalamus	dorlandsPrefix	s 25
+Tela chorioidea of third ventricle	dorlandsPrefix	t 03
+Tela chorioidea of fourth ventricle	dorlandsPrefix	t 03
+Taenia thalami	dorlandsPrefix	t 01
+Optic recess	dorlandsPrefix	r 05
+Posterior perforated substance	dorlandsPrefix	s 27
+Interpeduncular fossa	dorlandsPrefix	f 14
+Olivocerebellar tract	dorlandsPrefix	t 15
+Sublingual nucleus	dorlandsPrefix	n 11
+Solitary tract	dorlandsPrefix	t 15
+Infundibular recess	dorlandsPrefix	r 05
+Hypothalamic sulcus	dorlandsPrefix	s 28
+Projection fibers	dorlandsPrefix	f 05
+Commissural fiber	dorlandsPrefix	f 05
+Commissure of fornix	dorlandsPrefix	c 49
+Occipitofrontal fasciculus	dorlandsPrefix	f 03
+Superior rectal artery	dorlandsPrefix	a 61
+Iliac fossa	dorlandsPrefix	f 14
+Anterior cecal artery	dorlandsPrefix	a 61
+Posterior cecal artery	dorlandsPrefix	a 61
+Appendicular artery	dorlandsPrefix	a 61
+Splenium	dorlandsPrefix	s 19
+Superior medullary velum	dorlandsPrefix	v 05
+Olfactory tract	dorlandsPrefix	t 15
+Paraterminal gyrus	dorlandsPrefix	g 13
+Indusium griseum	dorlandsPrefix	i 06
+Subcallosal area	dorlandsPrefix	a 59
+Anterior perforated substance	dorlandsPrefix	s 27
+Suboccipital triangle	dorlandsPrefix	t 17
+Medial border of scapula	dorlandsPrefix	m 04
+Transverse processes	dorlandsPrefix	p 34
+Articular processes	dorlandsPrefix	p 34
+Princeps pollicis artery	dorlandsPrefix	a 61
+Palmar metacarpal arteries	dorlandsPrefix	a 61
+Radial artery of index finger	dorlandsPrefix	a 61
+Dorsal carpal arch	dorlandsPrefix	r 10
+Nutrient artery	dorlandsPrefix	a 61
+Lateral plantar artery	dorlandsPrefix	a 61
+Plantar metatarsal arteries	dorlandsPrefix	a 61
+Medial plantar artery	dorlandsPrefix	a 61
+Deep plantar artery	dorlandsPrefix	a 61
+Anterior medial malleolar artery	dorlandsPrefix	a 61
+Anterior tibial recurrent artery	dorlandsPrefix	a 61
+Angular artery	dorlandsPrefix	a 61
+Dorsal nasal artery	dorlandsPrefix	a 61
+Masseteric artery	dorlandsPrefix	a 61
+Mandibular notch	dorlandsPrefix	i 05
+Inferior suprarenal artery	dorlandsPrefix	a 61
+Internal iliac vein	dorlandsPrefix	v 05
+Basal vein	dorlandsPrefix	v 05
+Bulboid corpuscle	dorlandsPrefix	c 56
+Frontopontine fibers	dorlandsPrefix	f 05
+Temporopontine fibers	dorlandsPrefix	f 05
+Stroma of cornea	dorlandsPrefix	s 27
+Corneal epithelium	dorlandsPrefix	e 13
+Ciliary processes	dorlandsPrefix	p 34
+Inner plexiform layer	dorlandsPrefix	l 05
+Layer of rods and cones	dorlandsPrefix	l 05
+Retinal pigment epithelium	dorlandsPrefix	p 07
+Posterior chamber of eyeball	dorlandsPrefix	c 04
+Floor plate	dorlandsPrefix	l 02
+Sulcus limitans	dorlandsPrefix	s 28
+Vallate papilla	dorlandsPrefix	p 03
+Foliate papilla	dorlandsPrefix	p 03
+Terminal sulcus (heart)	dorlandsPrefix	s 28
+Lingual septum	dorlandsPrefix	s 08
+Fimbriated fold of tongue	dorlandsPrefix	p 24
+Greater alar cartilage	dorlandsPrefix	c 12
+Cartilage of the septum	dorlandsPrefix	c 12
+Lateral nasal cartilage	dorlandsPrefix	c 12
+Intervertebral foramina	dorlandsPrefix	f 12
+Transverse foramen	dorlandsPrefix	f 12
+Mammillary process	dorlandsPrefix	p 34
+Marginal mandibular branch of facial nerve	dorlandsPrefix	r 02
+Buccal branch of the facial nerve	dorlandsPrefix	r 02
+Posterior auricular nerve	dorlandsPrefix	n 05
+Medial intermuscular septum of arm	dorlandsPrefix	s 08
+Medial supracondylar ridge	dorlandsPrefix	l 10
+Medial epicondyle of the humerus	dorlandsPrefix	e 11
+Medial epicondyle of the femur	dorlandsPrefix	e 11
+Lesser tubercle	dorlandsPrefix	t 21
+Greater tubercle	dorlandsPrefix	t 21
+Antebrachial fascia	dorlandsPrefix	f 03
+Semispinalis cervicis	dorlandsPrefix	m 22
+Sternopericardiac ligaments	dorlandsPrefix	l 09
+Musculi pectinati	dorlandsPrefix	m 22
+Sternocostal surface of heart	dorlandsPrefix	f 01
+Anterior interventricular sulcus	dorlandsPrefix	s 28
+Diaphragmatic surface of heart	dorlandsPrefix	f 01
+Central tendon of diaphragm	dorlandsPrefix	c 20
+Right border of heart	dorlandsPrefix	m 04
+Deep cervical artery	dorlandsPrefix	a 61
+Costocervical trunk	dorlandsPrefix	t 20
+Bicipital aponeurosis	dorlandsPrefix	a 53
+Vincula tendina	dorlandsPrefix	v 08
+Interosseous recurrent artery	dorlandsPrefix	a 61
+Anterior ulnar recurrent artery	dorlandsPrefix	r 02
+Posterior ulnar recurrent artery	dorlandsPrefix	r 02
+Olecranon fossa	dorlandsPrefix	f 14
+Radial tuberosity	dorlandsPrefix	t 21
+Oblique cord	dorlandsPrefix	c 31
+Trochlear notch	dorlandsPrefix	i 05
+Radial notch	dorlandsPrefix	i 05
+Fovea of head of femur	dorlandsPrefix	f 15
+Zona orbicularis	dorlandsPrefix	z 01
+Intertrochanteric line	dorlandsPrefix	l 10
+Ulnar notch of the radius	dorlandsPrefix	i 05
+Proximal radioulnar articulation	dorlandsPrefix	a 64
+Distal radioulnar articulation	dorlandsPrefix	a 64
+Common palmar digital arteries	dorlandsPrefix	a 61
+Axillary fascia	dorlandsPrefix	f 03
+Pharyngeal branch of vagus nerve	dorlandsPrefix	r 02
+Cervical part of internal carotid artery	dorlandsPrefix	p 07
+Petrous portion of the internal carotid artery	dorlandsPrefix	p 07
+Cavernous part of internal carotid artery	dorlandsPrefix	p 07
+Cerebral portion of internal carotid artery	dorlandsPrefix	p 07
+Supraorbital artery	dorlandsPrefix	a 61
+Medial palpebral arteries	dorlandsPrefix	a 61
+Supratrochlear artery	dorlandsPrefix	a 61
+Long posterior ciliary arteries	dorlandsPrefix	a 61
+Anterior ciliary arteries	dorlandsPrefix	a 61
+Short posterior ciliary arteries	dorlandsPrefix	a 61
+Artery of the pterygoid canal	dorlandsPrefix	a 61
+Mastoid cells	dorlandsPrefix	c 19
+Middle temporal artery	dorlandsPrefix	a 61
+Deep temporal arteries	dorlandsPrefix	a 61
+Palatopharyngeal arch	dorlandsPrefix	a 58
+Palatoglossal arch	dorlandsPrefix	a 58
+Palatine glands	dorlandsPrefix	g 06
+Phalanges of the foot	dorlandsPrefix	o 07
+Sternocostal joints	dorlandsPrefix	a 64
+Adductor tubercle of femur	dorlandsPrefix	t 21
+Posterior scrotal nerves	dorlandsPrefix	n 05
+Inferior anal nerves	dorlandsPrefix	n 05
+Dental arches	dorlandsPrefix	a 58
+Septum spurium	dorlandsPrefix	s 08
+Posterior interventricular sulcus	dorlandsPrefix	s 28
+Crista terminalis	dorlandsPrefix	c 62
+Base of the heart	dorlandsPrefix	b 05
+Valve of inferior vena cava	dorlandsPrefix	v 02
+Left atrioventricular opening	dorlandsPrefix	o 09
+Aortic opening	dorlandsPrefix	o 09
+Openings of smallest cardiac veins	dorlandsPrefix	f 12
+Right atrioventricular orifice	dorlandsPrefix	o 09
+Left atrial appendage	dorlandsPrefix	a 73
+Limbus of fossa ovalis	dorlandsPrefix	l 10
+Intervenous tubercle	dorlandsPrefix	t 21
+Circular folds	dorlandsPrefix	p 24
+Nerve to the Piriformis	dorlandsPrefix	n 05
+Nerve to obturator internus	dorlandsPrefix	n 05
+Nerve to quadratus femoris	dorlandsPrefix	n 05
+Corpus cavernosum penis	dorlandsPrefix	c 56
+Dorsal artery of the penis	dorlandsPrefix	a 61
+Dorsal nerve of the penis	dorlandsPrefix	n 05
+Anterior sacral foramina	dorlandsPrefix	f 12
+Posterior sacral foramina	dorlandsPrefix	f 12
+Posterior inferior iliac spine	dorlandsPrefix	s 18
+Posterior superior iliac spine	dorlandsPrefix	s 18
+Iliac tuberosity	dorlandsPrefix	t 21
+Superior tibiofibular joint	dorlandsPrefix	a 64
+Inferior tibiofibular joint	dorlandsPrefix	s 32
+Sacrococcygeal symphysis	dorlandsPrefix	a 64
+Condyloid joint	dorlandsPrefix	a 64
+Saddle joint	dorlandsPrefix	a 64zPzhtm#
+Anterior arch of atlas	dorlandsPrefix	a 58
+Pivot joint	dorlandsPrefix	a 64
+Plane joint	dorlandsPrefix	a 64
+Membranous labyrinth	dorlandsPrefix	l 01
+Canalis reuniens of Hensen	dorlandsPrefix	d 29
+Endolymphatic duct	dorlandsPrefix	d 29
+Lagena	dorlandsPrefix	l 02
+Vestibular aqueduct	dorlandsPrefix	a 55
+Tectorial membrane (cochlea)	dorlandsPrefix	m 08
+Osseous spiral lamina	dorlandsPrefix	l 02
+Endolymphatic sac	dorlandsPrefix	s 01
+Blood-air barrier	dorlandsPrefix	m 08
+Pancreatic veins	dorlandsPrefix	v 05
+Pancreaticoduodenal veins	dorlandsPrefix	v 05
+Right gastroepiploic vein	dorlandsPrefix	v 05
+Pancreatic branches of splenic artery	dorlandsPrefix	r 02
+Ovarian veins	dorlandsPrefix	v 05
+Obturator veins	dorlandsPrefix	v 05
+Plantar digital veins	dorlandsPrefix	v 05
+Accessory cephalic vein	dorlandsPrefix	v 05
+Median antebrachial vein	dorlandsPrefix	v 05
+Basilar plexus	dorlandsPrefix	p 24
+Anterior segment of eyeball	dorlandsPrefix	s 07
+Posterior segment of eyeball	dorlandsPrefix	s 07
+Craniopharyngeal canal	dorlandsPrefix	c 04
+Zygomatic process of temporal bone	dorlandsPrefix	p 34
+Irregular bone	dorlandsPrefix	o 07
+Orbital septum	dorlandsPrefix	s 08
+Conceptus	dorlandsPrefix	c 50
+Dorsal metacarpal arteries	dorlandsPrefix	a 61
+Chin	dorlandsPrefix	c 27
+Anterior atlantoöccipital membrane	dorlandsPrefix	m 08
+Posterior atlantoöccipital membrane	dorlandsPrefix	m 08
+Tectorial membrane of atlanto-axial joint	dorlandsPrefix	m 08
+Costoxiphoid ligaments	dorlandsPrefix	l 09
+Cuneonavicular articulation	dorlandsPrefix	a 64
+Cuboideonavicular articulation	dorlandsPrefix	j 02
+Talocalcaneonavicular articulation	dorlandsPrefix	a 64
+Calcaneocuboid articulation	dorlandsPrefix	a 64
+Glenoid labrum	dorlandsPrefix	l 01
+Tarsometatarsal articulations	dorlandsPrefix	a 64
+Intermetatarsal articulations	dorlandsPrefix	a 64
+Interphalangeal articulations of foot	dorlandsPrefix	a 64
+Intertarsal articulations	dorlandsPrefix	a 64
+Intercarpal articulations	dorlandsPrefix	a 64
+Follicular fluid	dorlandsPrefix	f 10
+Cystohepatic triangle	dorlandsPrefix	t 17
+Inferior lateral cutaneous nerve of arm	dorlandsPrefix	n 05
+Secondary palate development	dorlandsPrefix	p 02
+Fundus (uterus)	dorlandsPrefix	f 17
+Fundus (stomach)	dorlandsPrefix	f 17
+Canal of the cervix	dorlandsPrefix	c 04
+Uterine cavity	dorlandsPrefix	c 16
+Internal orifice of the uterus	dorlandsPrefix	o 06
+External orifice of the uterus	dorlandsPrefix	o 09
+Esophageal hiatus	dorlandsPrefix	h 11
+Caval opening	dorlandsPrefix	f 12
+Aortic hiatus	dorlandsPrefix	h 11
+Deltoid tuberosity	dorlandsPrefix	t 21
+Supraglenoid tubercle	dorlandsPrefix	t 21
+Infraglenoid tubercle	dorlandsPrefix	t 21
+Greater sciatic notch	dorlandsPrefix	i 05
+Lesser sciatic notch	dorlandsPrefix	i 05
+Capitulum of the humerus	dorlandsPrefix	c 06
+Tail of Spence	dorlandsPrefix	t 01
+Anterior interosseous nerve	dorlandsPrefix	n 05
+Palmar branch of ulnar nerve	dorlandsPrefix	r 02
+Dorsal branch of ulnar nerve	dorlandsPrefix	r 02
+Proper palmar digital nerves of median nerve	dorlandsPrefix	n 05
+Common palmar digital nerves of median nerve	dorlandsPrefix	n 05
+Palmar branch of the median nerve	dorlandsPrefix	r 02
+Muscularis mucosae	dorlandsPrefix	m 22
+Esophageal glands	dorlandsPrefix	g 06
+Root of the hair	dorlandsPrefix	r 02
+Huxley's layer	dorlandsPrefix	l 05
+Henle's layer	dorlandsPrefix	l 05
+Palpebral fissure	dorlandsPrefix	r 14
+Middle colic vein	dorlandsPrefix	v 04
+Right colic vein	dorlandsPrefix	v 05
+Gonadal artery	dorlandsPrefix	a 62
+Testicular artery	dorlandsPrefix	a 62
+Testicular vein	dorlandsPrefix	v 04
+Superior rectal vein	dorlandsPrefix	v 05
+Kinocilium	dorlandsPrefix	k 03
+Solitary lymphatic nodule	dorlandsPrefix	n 09
+Sternalis	dorlandsPrefix	m 22
+Pectoral fascia	dorlandsPrefix	f 03
+Accessory meningeal artery	dorlandsPrefix	r 02
+Submental triangle	dorlandsPrefix	t 19
+Carotid triangle	dorlandsPrefix	t 19
+Submandibular triangle	dorlandsPrefix	t 19
+Muscular triangle	dorlandsPrefix	t 19
+Occipital triangle	dorlandsPrefix	t 17
+Pterygomandibular raphe	dorlandsPrefix	r 03
+Perineal raphe	dorlandsPrefix	r 03
+Appendix of epididymidis	dorlandsPrefix	a 54
+Tunica vasculosa testis	dorlandsPrefix	t 22
+Infraspinous fascia	dorlandsPrefix	f 14
+Supraspinous fascia	dorlandsPrefix	f 14
+Brachial fascia	dorlandsPrefix	f 03
+Posterior tubercle of cervical vertebra	dorlandsPrefix	t 21
+Lateral mass of atlas	dorlandsPrefix	m 04
+Bryant's triangle	dorlandsPrefix	t 17
+Triangle of auscultation	dorlandsPrefix	t 19
+Temporal branches of the facial nerve	dorlandsPrefix	r 02
+Zygomatic branches of the facial nerve	dorlandsPrefix	r 02
+Cervical branch of the facial nerve	dorlandsPrefix	r 02
+Pyramidal eminence	dorlandsPrefix	e 06
+Nerve to the stapedius	dorlandsPrefix	n 05
+Digastric branch of facial nerve	dorlandsPrefix	r 02
+Stylohyoid branch of facial nerve	dorlandsPrefix	r 02
+Umbo of tympanic membrane	dorlandsPrefix	u 02
+Radial styloid process	dorlandsPrefix	p 34
+Ulnar styloid process	dorlandsPrefix	p 34
+Third trochanter	dorlandsPrefix	t 20
+Aditus to mastoid antrum	dorlandsPrefix	a 16
+Antitragicus	dorlandsPrefix	m 22
+Tragicus	dorlandsPrefix	m 22
+Oblique muscle of auricle	dorlandsPrefix	m 22
+Transverse muscle of auricle	dorlandsPrefix	m 22
+Helicis minor	dorlandsPrefix	m 22
+Helicis major	dorlandsPrefix	m 22
+Spina helicis	dorlandsPrefix	s 18
+Cauda helicis	dorlandsPrefix	c 15
+Lacrimal papilla	dorlandsPrefix	p 03
+Tenon's capsule	dorlandsPrefix	t 04
+Orbitalis muscle	dorlandsPrefix	m 22
+Greater palatine nerve	dorlandsPrefix	n 05
+Tuberosity of the tibia	dorlandsPrefix	t 21
+Flat bone	dorlandsPrefix	o 07
+Short bone	dorlandsPrefix	o 07
+Ossification center	dorlandsPrefix	c 20
+Occipital condyle	dorlandsPrefix	c 51
+Annulus fibrosus disci intervertebralis	dorlandsPrefix	a 50
+Articulation of head of rib	dorlandsPrefix	a 64
+Costovertebral joints	dorlandsPrefix	a 64
+Interchondral articulations	dorlandsPrefix	a 64
+Fibrous capsule of Glisson	dorlandsPrefix	c 07
+Lisfranc ligament	dorlandsPrefix	l 09
+Submental artery	dorlandsPrefix	a 61
+Sublingual artery	dorlandsPrefix	a 61
+Thyroid ima artery	dorlandsPrefix	a 61
+Zygomatico-orbital artery	dorlandsPrefix	a 61
+Superior tympanic artery	dorlandsPrefix	a 61
+Cremasteric artery	dorlandsPrefix	a 61
+Bronchial veins	dorlandsPrefix	v 05
+Dermal papillae	dorlandsPrefix	p 03
+Thoracodorsal artery	dorlandsPrefix	a 61
+Radial collateral artery	dorlandsPrefix	a 61
+Medial collateral artery	dorlandsPrefix	a 61
+Suprapleural membrane	dorlandsPrefix	m 08
+Interosseous membrane of forearm	dorlandsPrefix	m 08
+Palmar carpal arch	dorlandsPrefix	a 57
+Plica semilunaris of conjunctiva	dorlandsPrefix	p 24
+Dorsal carpal branch of the ulnar artery	dorlandsPrefix	r 02
+Palmar carpal branch of radial artery	dorlandsPrefix	r 02
+Proper palmar digital arteries	dorlandsPrefix	a 61
+Dorsal venous network of hand	dorlandsPrefix	r 10
+Pontine raphe nucleus	dorlandsPrefix	n 11
+Obturator crest	dorlandsPrefix	c 62
+Taenia of fourth ventricle	dorlandsPrefix	t 01
+Corpus cavernosum of clitoris	dorlandsPrefix	c 56
+Stratum lucidum of hippocampus	dorlandsPrefix	s 25
+Inner nuclear layer	dorlandsPrefix	l 05
+Carina of trachea	dorlandsPrefix	c 11
+Inferior hypogastric plexus	dorlandsPrefix	p 24
+External limiting membrane	dorlandsPrefix	m 08
+Inner limiting membrane	dorlandsPrefix	l 05
+Outer plexiform layer	dorlandsPrefix	l 05
+Outer nuclear layer	dorlandsPrefix	l 05
+Nerve fiber layer	dorlandsPrefix	l 05
+Ganglion cell layer	dorlandsPrefix	l 05
+Fibrous tunic of eyeball	dorlandsPrefix	t 22
+Dorsomedial hypothalamic nucleus	dorlandsPrefix	n 11
+Anterior hypothalamic nucleus	dorlandsPrefix	n 11
+Preoptic area	dorlandsPrefix	n 11
+Vorticose veins	dorlandsPrefix	v 05
+Sattler's layer	dorlandsPrefix	l 05
+Suprachoroid lamina	dorlandsPrefix	l 02
+Olfactory glands	dorlandsPrefix	g 06
+Supraclavicular fossa	dorlandsPrefix	f 14
+Infraclavicular fossa	dorlandsPrefix	f 14
+Arcuate line of rectus sheath	dorlandsPrefix	l 10
+Extensor retinaculum of the hand	dorlandsPrefix	r 10
+Median umbilical ligament	dorlandsPrefix	l 09
+Medial umbilical ligament	dorlandsPrefix	l 09
+Deep circumflex iliac artery	dorlandsPrefix	a 61
+Posterior intercostal veins	dorlandsPrefix	v 05
+Perforating arteries	dorlandsPrefix	a 61
+Superficial circumflex iliac artery	dorlandsPrefix	a 61
+Lateral inguinal fossa	dorlandsPrefix	f 14
+Deep external pudendal artery	dorlandsPrefix	a 61
+Superficial external pudendal artery	dorlandsPrefix	a 61
+Anterior lateral malleolar artery	dorlandsPrefix	a 61
+Lateral tarsal artery	dorlandsPrefix	a 61
+Medial tarsal arteries	dorlandsPrefix	a 61
+Posterior tibial recurrent artery	dorlandsPrefix	a 61
+Descending genicular artery	dorlandsPrefix	a 61
+Patellar plexus	dorlandsPrefix	p 24
+Arcuate artery of the foot	dorlandsPrefix	a 61
+Sural arteries	dorlandsPrefix	a 61
+Accompanying artery of ischiadic nerve	dorlandsPrefix	a 61
+Artery of bulb of penis	dorlandsPrefix	a 61
+Deep artery of the penis	dorlandsPrefix	a 61
+Artery to the ductus deferens	dorlandsPrefix	a 61
+Plantar arch	dorlandsPrefix	a 58
+Superior phrenic vein	dorlandsPrefix	v 05
+Nasofrontal vein	dorlandsPrefix	v 05
+Deep facial vein	dorlandsPrefix	v 05
+Common digital veins	dorlandsPrefix	v 05
+Left marginal vein	dorlandsPrefix	v 04
+Right marginal vein	dorlandsPrefix	v 05
+Posterior spinal artery	dorlandsPrefix	a 61
+Meningeal branches of vertebral artery	dorlandsPrefix	r 02
+Highest intercostal artery	dorlandsPrefix	a 61
+Anterior intercostal branches of internal thoracic artery	dorlandsPrefix	r 02
+Submucosa	dorlandsPrefix	s 27
+Third occipital nerve	dorlandsPrefix	n 05
+Posterior ramus of spinal nerve	dorlandsPrefix	r 02
+Middle cervical ganglion	dorlandsPrefix	g 02
+Inferior cervical ganglion	dorlandsPrefix	g 02
+Pelvic splanchnic nerves	dorlandsPrefix	r 02
+Lumbar splanchnic nerves	dorlandsPrefix	n 05
+Sacral splanchnic nerves	dorlandsPrefix	n 05
+Linea semilunaris	dorlandsPrefix	l 10
+Intercrural fibres of superficial inguinal ring	dorlandsPrefix	f 05
+Trochlea of superior oblique	dorlandsPrefix	t 20
+Suprarenal plexus	dorlandsPrefix	p 24
+Splenic plexus	dorlandsPrefix	p 24
+Hepatic plexus	dorlandsPrefix	p 24
+Gastric plexuses	dorlandsPrefix	p 24
+Ovarian plexus	dorlandsPrefix	p 24
+Pancreatic plexus	dorlandsPrefix	p 24
+Phrenic plexus	dorlandsPrefix	p 24
+Uterovaginal plexus (nerves)	dorlandsPrefix	p 24
+Prostatic plexus (nervous)	dorlandsPrefix	p 24
+Vesical nervous plexus	dorlandsPrefix	p 24
+Lateral nasal branch of facial artery	dorlandsPrefix	r 02
+Parietal branch of superficial temporal artery	dorlandsPrefix	r 02
+Acetabular labrum	dorlandsPrefix	l 01
+Tonsillar branch of the facial artery	dorlandsPrefix	r 02
+Crus (lower leg)	dorlandsPrefix	c 64
+Subcostal vein	dorlandsPrefix	v 05
+Lumbar veins	dorlandsPrefix	v 05
+Ascending lumbar vein	dorlandsPrefix	v 05
+Transversospinales muscles	dorlandsPrefix	m 22
+Accessory process	dorlandsPrefix	p 34
+Spine of scapula	dorlandsPrefix	s 18
+Dorsal nucleus of vagus nerve	dorlandsPrefix	n 11
+Anterior surface of pancreas	dorlandsPrefix	f 01
+Neck of pancreas	dorlandsPrefix	n 02
+Superior margin of pancreas	dorlandsPrefix	m 04
+Anterior margin of pancreas	dorlandsPrefix	m 04
+Inferior margin of pancreas	dorlandsPrefix	m 04
+Uncinate process of pancreas	dorlandsPrefix	p 34
+Omental eminence of pancreas	dorlandsPrefix	t 21
+Head of pancreas	dorlandsPrefix	c 08
+Body of pancreas	dorlandsPrefix	c 56
+Pancreatic notch	dorlandsPrefix	i 05
+Midclavicular line	dorlandsPrefix	l 10
+Posterior arch of atlas	dorlandsPrefix	a 58
+Mesosalpinx	dorlandsPrefix	m 11
+Lumbosacral trunk	dorlandsPrefix	t 20
+Coccygeal plexus	dorlandsPrefix	p 24
+Perineal membrane	dorlandsPrefix	m 08
+Superficial perineal pouch	dorlandsPrefix	c 49
+Deep perineal pouch	dorlandsPrefix	s 01
+Apical ligament of dens	dorlandsPrefix	l 09
+Dens (anatomy)	dorlandsPrefix	d 08
+Femur neck	dorlandsPrefix	c 46
+Femur head	dorlandsPrefix	c 08
+Quadrate line	dorlandsPrefix	l 10
+Triangular fibrocartilage	dorlandsPrefix	d 22
+Right marginal branch of right coronary artery	dorlandsPrefix	r 02
+Esophageal plexus	dorlandsPrefix	p 24
+Urogenital triangle	dorlandsPrefix	r 07
+Anal triangle	dorlandsPrefix	r 07
+Perineal body	dorlandsPrefix	c 56
+Median arcuate ligament	dorlandsPrefix	l 09
+Anterior olfactory nucleus	dorlandsPrefix	n 11
+Base of the sacrum	dorlandsPrefix	b 05
+Dorsal surface of sacrum	dorlandsPrefix	f 01
+Pelvic surface of sacrum	dorlandsPrefix	f 01
+Lateral surface of sacrum	dorlandsPrefix	p 07
+Superior pubic ramus	dorlandsPrefix	r 02
+Inferior pubic ramus	dorlandsPrefix	r 02
+Lumbar enlargement	dorlandsPrefix	i 11
+Cervical enlargement	dorlandsPrefix	i 11
+Inferior angle of the scapula	dorlandsPrefix	a 42
+Superior angle of scapula	dorlandsPrefix	a 42
+Body of vertebra	dorlandsPrefix	c 56
+Hypogastric nerve	dorlandsPrefix	n 05
+Vertebral arch	dorlandsPrefix	a 58
+Inferior costal facet	dorlandsPrefix	f 15
+Superior costal facet	dorlandsPrefix	f 15
+Transverse costal facet	dorlandsPrefix	f 15
+Sacral hiatus	dorlandsPrefix	h 11
+Lateral sacral crest	dorlandsPrefix	c 62
+Medial sacral crest	dorlandsPrefix	c 62
+Median sacral crest	dorlandsPrefix	c 62
+First rib	dorlandsPrefix	c 58
+Head of rib	dorlandsPrefix	c 08
+Neck of rib	dorlandsPrefix	c 46
+Dorsal nerve of clitoris	dorlandsPrefix	n 05
+Posterior labial nerves	dorlandsPrefix	n 05
+Interosseous membrane of leg	dorlandsPrefix	m 08
+Internodal segment	dorlandsPrefix	s 07
+Anterior ramus of spinal nerve	dorlandsPrefix	r 02
+Lacuna (histology)	dorlandsPrefix	l 01
+Myelin incisure	dorlandsPrefix	i 05
+Endoneurium	dorlandsPrefix	e 09
+Perineurium	dorlandsPrefix	p 13
+Decussation of pyramids	dorlandsPrefix	d 04
+Pyramid (brainstem)	dorlandsPrefix	p 44
+Lesser alar cartilages	dorlandsPrefix	c 12
+Vomeronasal cartilage	dorlandsPrefix	c 12
+Accessory nasal cartilages	dorlandsPrefix	c 12
+Serous demilune	dorlandsPrefix	c 61
+Intercalated duct	dorlandsPrefix	d 29
+Pyloric glands	dorlandsPrefix	g 06
+Cardiac glands	dorlandsPrefix	g 06
+Tubular gland	dorlandsPrefix	g 06
+Alveolar gland	dorlandsPrefix	g 06
+Muscular layer	dorlandsPrefix	t 22
+Paranephric body	dorlandsPrefix	c 56
+Second rib	dorlandsPrefix	c 58
+External vertebral venous plexuses	dorlandsPrefix	p 24
+Internal vertebral venous plexuses	dorlandsPrefix	p 24
+Basivertebral veins	dorlandsPrefix	v 05
+Spinal veins	dorlandsPrefix	v 05
+Intervertebral veins	dorlandsPrefix	v 05
+Inferior cerebellar veins	dorlandsPrefix	v 05
+Xiphisternal joint	dorlandsPrefix	s 32
+Clavipectoral triangle	dorlandsPrefix	t 19
+True ribs	dorlandsPrefix	c 58
+False ribs	dorlandsPrefix	c 58
+Costal groove	dorlandsPrefix	s 28
+Zygapophysial joint	dorlandsPrefix	a 64
+External intercostal membrane	dorlandsPrefix	m 08
+Anterior axillary fold	dorlandsPrefix	f 11
+Costal margin	dorlandsPrefix	a 58
+Cardiac impression on lung	dorlandsPrefix	i 04
+Costal surface of lung	dorlandsPrefix	f 01
+Costodiaphragmatic recess	dorlandsPrefix	r 05
+Lingula of left lung	dorlandsPrefix	l 11
+Oblique fissure	dorlandsPrefix	f 08
+Prostatic urethra	dorlandsPrefix	p 07
+Spongy urethra	dorlandsPrefix	p 07
+Membranous urethra	dorlandsPrefix	p 07
+Deep dorsal vein of the penis	dorlandsPrefix	v 05
+Anterior cardiac veins	dorlandsPrefix	v 05
+Anterior interventricular branch of left coronary artery	dorlandsPrefix	r 02
+Posterior mediastinum	dorlandsPrefix	m 06
+Middle mediastinum	dorlandsPrefix	m 06
+Anterior mediastinum	dorlandsPrefix	m 06
+Superior mediastinum	dorlandsPrefix	m 06
+Mucous gland	dorlandsPrefix	g 06
+Facial muscles	dorlandsPrefix	m 22
+Transverse muscle of the chin	dorlandsPrefix	m 22
+Greater palatine canal	dorlandsPrefix	c 04
+Lesser palatine canals	dorlandsPrefix	c 04
+Hilum of lung	dorlandsPrefix	h 11
+Costomediastinal recess	dorlandsPrefix	r 05
+Base of lung	dorlandsPrefix	b 05
+Mediastinal surface of lung	dorlandsPrefix	f 01
+Apex of lung	dorlandsPrefix	a 52
+Eparterial bronchus	dorlandsPrefix	b 23
+Horizontal fissure of right lung	dorlandsPrefix	f 08
+Anterior vagal trunk	dorlandsPrefix	t 20
+Posterior vagal trunk	dorlandsPrefix	t 20
+Taenia coli	dorlandsPrefix	t 01
+Left margin of heart	dorlandsPrefix	m 04
+Septomarginal trabecula	dorlandsPrefix	t 14
+Sinuatrial nodal artery	dorlandsPrefix	r 02
+Atrial branches of coronary arteries	dorlandsPrefix	r 02
+Atrioventricular nodal branch	dorlandsPrefix	r 02
+Left marginal artery	dorlandsPrefix	r 02
+Incisura apicis cordis	dorlandsPrefix	i 05
+Anterior superior alveolar arteries	dorlandsPrefix	a 61
+Middle cardiac nerve	dorlandsPrefix	n 05
+Superior cardiac nerve	dorlandsPrefix	n 05
+Nervus intermedius	dorlandsPrefix	n 05
+Synchondrosis	dorlandsPrefix	s 32
+Body of sphenoid bone	dorlandsPrefix	c 56
+Transverse folds of rectum	dorlandsPrefix	p 24
+Urethral crest	dorlandsPrefix	c 62
+Superficial dorsal vein of the penis	dorlandsPrefix	v 05
+Dorsal pancreatic artery	dorlandsPrefix	a 61
+Mesoappendix	dorlandsPrefix	m 11
+Coronary ligament	dorlandsPrefix	l 09
+Thoracoepigastric vein	dorlandsPrefix	v 05
+Hassall's corpuscles	dorlandsPrefix	c 56
+Fibrous joint	dorlandsPrefix	j 02
+Filiform papilla	dorlandsPrefix	p 03
+Medial inguinal fossa	dorlandsPrefix	f 14
+Supravesical fossa	dorlandsPrefix	f 14
+Pectineal line (pubis)	dorlandsPrefix	p 09
+Cremasteric fascia	dorlandsPrefix	f 03
+External spermatic fascia	dorlandsPrefix	f 03
+Internal spermatic fascia	dorlandsPrefix	f 03
+Mediastinum testis	dorlandsPrefix	m 06
+Tubuli seminiferi recti	dorlandsPrefix	t 22
+Processus vaginalis	dorlandsPrefix	p 34
+Pampiniform venous plexus	dorlandsPrefix	p 24
+Mesorchium	dorlandsPrefix	m 11
+Lobules of testis	dorlandsPrefix	l 13
+Fimbriae of uterine tube	dorlandsPrefix	f 07
+Fimbria of hippocampus	dorlandsPrefix	f 07
+Paraumbilical vein	dorlandsPrefix	v 05
+Paracolic gutters	dorlandsPrefix	s 28
+Pharyngeal plexus of vagus nerve	dorlandsPrefix	p 24
+Bare area of the liver	dorlandsPrefix	a 59
+Internal urethral orifice	dorlandsPrefix	o 09
+External urethral orifice (female)	dorlandsPrefix	o 06
+Superior suprarenal artery	dorlandsPrefix	a 61
+Hilum of kidney	dorlandsPrefix	h 11
+Major calyx	dorlandsPrefix	c 03
+Minor calyx	dorlandsPrefix	c 03
+Major duodenal papilla	dorlandsPrefix	p 03
+Epiploic appendix	dorlandsPrefix	a 54
+Arterial arcades	dorlandsPrefix	a 56
+Superficial epigastric vein	dorlandsPrefix	v 05
+Tendinous intersection	dorlandsPrefix	i 10
+Superior fascia of pelvic diaphragm	dorlandsPrefix	f 03
+Pelvic fascia	dorlandsPrefix	f 03
+Genital branch of genitofemoral nerve	dorlandsPrefix	r 02
+Fascia cribrosa	dorlandsPrefix	f 03
+Fossa of vestibule of vagina	dorlandsPrefix	f 14
+Navicular fossa of male urethra	dorlandsPrefix	f 14
+Septa of testis	dorlandsPrefix	s 08
+Tunica albuginea (ovaries)	dorlandsPrefix	t 22
+Frenulum of prepuce of penis	dorlandsPrefix	f 16
+Vaginal orifice	dorlandsPrefix	o 09
+Ischiopubic ramus	dorlandsPrefix	r 02
+Dorsal artery of clitoris	dorlandsPrefix	a 61
+Artery of bulb of vestibule	dorlandsPrefix	a 61
+Pelvic outlet	dorlandsPrefix	a 51
+Posterior gluteal line	dorlandsPrefix	l 10
+Inferior gluteal line	dorlandsPrefix	l 10
+Vaginal fornix	dorlandsPrefix	f 14
+Anal columns	dorlandsPrefix	c 48
+Anal sinuses	dorlandsPrefix	s 12
+Anal valves	dorlandsPrefix	v 02
+Infundibulum of uterine tube	dorlandsPrefix	i 08
+Pararectal fossa	dorlandsPrefix	p 31
+Recto-uterine fold	dorlandsPrefix	p 24
+Vesico-uterine pouch	dorlandsPrefix	e 18
+Isthmus of uterine tube	dorlandsPrefix	i 14
+Mesometrium	dorlandsPrefix	m 11
+Ampulla of uterine tube	dorlandsPrefix	a 32
+Paravesical fossa	dorlandsPrefix	f 14
+Retropubic space	dorlandsPrefix	s 16
+Tunica albuginea (penis)	dorlandsPrefix	t 22
+Seminal colliculus	dorlandsPrefix	c 61
+Prostatic venous plexus	dorlandsPrefix	p 24
+Cystic vein	dorlandsPrefix	v 05
+Median sacral vein	dorlandsPrefix	v 05
+Lateral sacral veins	dorlandsPrefix	v 05
+Left gastric vein	dorlandsPrefix	v 05
+Middle rectal veins	dorlandsPrefix	v 05
+Inferior rectal veins	dorlandsPrefix	v 05
+Esophageal veins	dorlandsPrefix	v 05
+Deep circumflex iliac vein	dorlandsPrefix	v 05
+Uterine venous plexus	dorlandsPrefix	p 24
+Vaginal venous plexus	dorlandsPrefix	p 24
+Vesical venous plexus	dorlandsPrefix	p 24
+Hypogastrium	dorlandsPrefix	h 22
+Umbilical region	dorlandsPrefix	r 07
+Recto-vesical pouch	dorlandsPrefix	e 18
+Ileocecal fold	dorlandsPrefix	p 24
+Copula linguae	dorlandsPrefix	c 54
+Tuberculum impar	dorlandsPrefix	t 21
+Dorsal mesentery	dorlandsPrefix	m 10
+Trabeculae of corpus spongiosum of penis	dorlandsPrefix	t 14
+Trabeculae of corpora cavernosa of penis	dorlandsPrefix	t 14
+Crus of penis	dorlandsPrefix	c 64
+Bulb of penis	dorlandsPrefix	b 26
+Helicine arteries of penis	dorlandsPrefix	a 61
+Ampulla of ductus deferens	dorlandsPrefix	a 32
+Ductuli aberrantes	dorlandsPrefix	d 29
+Paradidymis	dorlandsPrefix	p 04
+Extraperitoneal space	dorlandsPrefix	s 16
+Superior fascia of the urogenital diaphragm	dorlandsPrefix	f 03
+Rectal ampulla	dorlandsPrefix	a 32
+Uterosacral ligament	dorlandsPrefix	l 09
+Pectinate line	dorlandsPrefix	l 10
+Cardinal ligament	dorlandsPrefix	l 09
+Paroophoron	dorlandsPrefix	p 07
+Sacrovertebral angle	dorlandsPrefix	a 41
+Ala of sacrum	dorlandsPrefix	a 21
+Detrusor urinae muscle	dorlandsPrefix	m 22
+Orifice of ureter	dorlandsPrefix	o 09
+Excretory duct of seminal gland	dorlandsPrefix	d 29
+Clivus (anatomy)	dorlandsPrefix	c 40
+Iliac colon	dorlandsPrefix	c 47
+External urethral orifice (male)	dorlandsPrefix	o 06
+Uvula of urinary bladder	dorlandsPrefix	u 04
+Vesicular appendages of epoophoron	dorlandsPrefix	a 54
+Prostatic ducts	dorlandsPrefix	d 29
+Trabeculae of spleen	dorlandsPrefix	t 14
+Accessory spleen    1	dorlandsPrefix	s 19
+Interlobular veins	dorlandsPrefix	v 05
+Interlobular arteries	dorlandsPrefix	a 61
+Straight venules of kidney	dorlandsPrefix	v 06
+Stellate veins	dorlandsPrefix	v 05
+Renal lobe	dorlandsPrefix	l 13
+Cortical lobule	dorlandsPrefix	l 13
+Arcuate arteries of the kidney	dorlandsPrefix	a 61
+Arcuate vein	dorlandsPrefix	v 05
+Interlobar arteries	dorlandsPrefix	a 61
+Interlobar veins	dorlandsPrefix	v 05
+Pancreatic bud	dorlandsPrefix	d 26
+Renal fascia	dorlandsPrefix	f 03
+Vascular pole	dorlandsPrefix	p 26
+Thin ascending limb of loop of Henle	dorlandsPrefix	l 10
+Thick ascending limb of loop of Henle	dorlandsPrefix	t 22
+Descending limb of loop of Henle	dorlandsPrefix	l 10
+Glomerular basement membrane	dorlandsPrefix	m 08
+Tunica externa (vessels)	dorlandsPrefix	t 22
+Gastric pits	dorlandsPrefix	f 15
+Subserosa	dorlandsPrefix	t 03
+Superior extensor retinaculum of foot	dorlandsPrefix	r 10
+Ovarian fossa	dorlandsPrefix	f 14
+Germinal epithelium (female)	dorlandsPrefix	e 13
+Germinal epithelium (male)	dorlandsPrefix	e 13
+Cumulus oophorus	dorlandsPrefix	c 66
+Membrana granulosa	dorlandsPrefix	m 08
+Ductuli transversi	dorlandsPrefix	d 29
+Theca of follicle	dorlandsPrefix	t 07
+Follicular antrum	dorlandsPrefix	a 50
+Arcuate vessels of uterus	dorlandsPrefix	r 02
+Uterine glands	dorlandsPrefix	g 06
+Placental cotyledon	dorlandsPrefix	c 58
+Decidual cells	dorlandsPrefix	c 18
+Corpus hemorrhagicum	dorlandsPrefix	c 56
+Superior longitudinal fasciculus	dorlandsPrefix	f 03
+Plantar venous arch	dorlandsPrefix	a 58
+Gastric mucosa	dorlandsPrefix	t 22
+Coccygeal glomus	dorlandsPrefix	g 07
+Superior hypophysial artery	dorlandsPrefix	a 61
+Inferior hypophysial artery	dorlandsPrefix	a 61
+Crista ampullaris	dorlandsPrefix	c 62
+Angular incisure	dorlandsPrefix	i 05
+Sacral promontory	dorlandsPrefix	p 36
+Vaginal portion of cervix	dorlandsPrefix	p 30
+Supravaginal portion of cervix	dorlandsPrefix	p 30
+Uterine horns	dorlandsPrefix	c 55
+Major sublingual duct	dorlandsPrefix	d 29
+Obturator canal	dorlandsPrefix	c 04
+Left colic vein	dorlandsPrefix	v 05
+Malleolus	dorlandsPrefix	m 02
+Lesser curvature of the stomach	dorlandsPrefix	c 67
+Right gastric vein	dorlandsPrefix	v 05
+Greater curvature of the stomach	dorlandsPrefix	c 67
+Perineal branches of posterior femoral cutaneous nerve	dorlandsPrefix	r 02
+Buck's fascia	dorlandsPrefix	f 03
+Root of the mesentery	dorlandsPrefix	r 02
+Cardiac notch of stomach	dorlandsPrefix	i 05
+Superior rectal plexus	dorlandsPrefix	p 24
+Tarsal tunnel	dorlandsPrefix	t 23
+Killian's dehiscence	dorlandsPrefix	d 06
+Cavernous nerves of penis	dorlandsPrefix	n 05
+Sensory decussation	dorlandsPrefix	d 04
+Genu of the corpus callosum	dorlandsPrefix	g 04
+Calcar avis	dorlandsPrefix	c 01
+Collateral eminence	dorlandsPrefix	e 06
+Collateral fissure	dorlandsPrefix	f 08
+Tapetum of corpus callosum	dorlandsPrefix	t 02
+Thoracic plane	dorlandsPrefix	p 22
+Midsternal line	dorlandsPrefix	l 10
+Frontal branch of superficial temporal artery	dorlandsPrefix	r 02
+Mylohyoid branch of inferior alveolar artery	dorlandsPrefix	r 02
+Pontine arteries	dorlandsPrefix	a 61
+Glandular branches of facial artery	dorlandsPrefix	r 02
+Pterygoid branches of maxillary artery	dorlandsPrefix	r 02
+Posterolateral sulcus of medulla oblongata	dorlandsPrefix	s 28
+Vagal trigone	dorlandsPrefix	t 19
+Anterior median fissure of the medulla oblongata	dorlandsPrefix	f 08
+Cerebellar tonsil	dorlandsPrefix	t 13
+Olfactory sulcus	dorlandsPrefix	s 28
+Coronoid process of the mandible	dorlandsPrefix	p 34
+Cervical sinus	dorlandsPrefix	s 12
+Pharyngeal branches of glossopharyngeal nerve	dorlandsPrefix	r 02
+Subclavian groove	dorlandsPrefix	s 28
+Intermediate cuneiform bone	dorlandsPrefix	o 07
+Medial cuneiform bone	dorlandsPrefix	o 07
+Tympanic plexus	dorlandsPrefix	p 24
+Promontory of tympanic cavity	dorlandsPrefix	p 36
+Vestibule of the ear	dorlandsPrefix	v 08
+Basilar crest	dorlandsPrefix	c 62
+Spiral ligament	dorlandsPrefix	l 09
+Sulcus spiralis internus	dorlandsPrefix	s 28
+Sulcus spiralis externus	dorlandsPrefix	s 28
+Saccular nerve	dorlandsPrefix	n 05
+Angle of the mandible	dorlandsPrefix	a 42
+Maxillary tuberosity	dorlandsPrefix	t 21
+Body of ulna	dorlandsPrefix	c 56
+Body of radius	dorlandsPrefix	c 56
+Mylohyoid groove	dorlandsPrefix	s 28
+Bipennate muscle	dorlandsPrefix	m 22
+Unipennate muscle	dorlandsPrefix	m 22
+Pharyngeal recess	dorlandsPrefix	r 05
+Prevertebral fascia	dorlandsPrefix	l 02
+Investing layer of deep cervical fascia	dorlandsPrefix	l 02
+Pretracheal fascia	dorlandsPrefix	l 02
+Coronoid process of the ulna	dorlandsPrefix	p 34
+Coronoid fossa of the humerus	dorlandsPrefix	f 14
+Tuberosity of the ulna	dorlandsPrefix	t 21
+Midcarpal joint	dorlandsPrefix	a 64
+Sphenoparietal sinus	dorlandsPrefix	s 12
+Caroticotympanic arteries	dorlandsPrefix	a 61
+Anterior auricular branches of superficial temporal artery	dorlandsPrefix	r 02
+Esophageal branches of inferior thyroid artery	dorlandsPrefix	r 02
+Esophageal arteries	dorlandsPrefix	a 62
+Esophageal branches of left gastric artery	dorlandsPrefix	r 02
+Tracheal branches of inferior thyroid artery	dorlandsPrefix	r 02
+Branch of glossopharyngeal nerve to carotid sinus	dorlandsPrefix	r 02
+Superior border of scapula	dorlandsPrefix	m 04
+Lateral border of the scapula	dorlandsPrefix	m 04
+Lateral angle of the scapula	dorlandsPrefix	a 42
+Anatomical neck of humerus	dorlandsPrefix	c 46
+Surgical neck of the humerus	dorlandsPrefix	c 46
+Radial fossa	dorlandsPrefix	f 14
+Transverse tarsal joint	dorlandsPrefix	a 64
+Patellar surface of femur	dorlandsPrefix	f 01
+Articular capsule of the knee joint	dorlandsPrefix	c 07
+Anterior intercondylar area	dorlandsPrefix	a 59
+Ethmoidal notch	dorlandsPrefix	i 05
+Orbital process of the zygomatic bone	dorlandsPrefix	f 01
+Nasal surface of the body of the maxilla	dorlandsPrefix	f 01
+Orbital surface of the body of the maxilla	dorlandsPrefix	f 01
+Infratemporal surface of the body of the maxilla	dorlandsPrefix	f 01
+Anterior surface of the body of the maxilla	dorlandsPrefix	f 01
+Lateral palpebral raphe	dorlandsPrefix	r 03
+Orbital lamina of ethmoid bone	dorlandsPrefix	l 02
+Ala of nose	dorlandsPrefix	a 21
+Lesser palatine nerve	dorlandsPrefix	n 05
+Labial glands	dorlandsPrefix	g 06
+Superior labial vein	dorlandsPrefix	v 05
+Inferior labial vein	dorlandsPrefix	v 05
+Pes anserinus (leg)	dorlandsPrefix	p 15
+Parotid plexus	dorlandsPrefix	p 15
+Saphenous opening	dorlandsPrefix	h 11
+Lateral thoracic vein	dorlandsPrefix	v 05
+Humeroradial joint	dorlandsPrefix	a 64
+Humeroulnar joint	dorlandsPrefix	a 64
+Conoid tubercle	dorlandsPrefix	t 21
+Trapezoid line	dorlandsPrefix	l 10
+Costal tuberosity of clavicle	dorlandsPrefix	i 04
+Palmar carpal branch of ulnar artery	dorlandsPrefix	r 02
+Dorsal carpal branch of the radial artery	dorlandsPrefix	r 02
+Superficial palmar branch of radial artery	dorlandsPrefix	r 02
+Posterior branches of sacral nerves	dorlandsPrefix	r 02
+Deep palmar branch of ulnar artery	dorlandsPrefix	r 02
+Capsule of hip joint	dorlandsPrefix	c 07
+Muscular branches of ulnar nerve	dorlandsPrefix	r 02
+Superficial branch of ulnar nerve	dorlandsPrefix	r 02
+Deep branch of ulnar nerve	dorlandsPrefix	r 02
+Dorsal digital arteries	dorlandsPrefix	a 61
+Intermediate dorsal cutaneous nerve	dorlandsPrefix	n 05
+Medial dorsal cutaneous nerve	dorlandsPrefix	n 05
+Inferior cluneal nerves	dorlandsPrefix	n 05
+Medial cluneal nerves	dorlandsPrefix	n 05
+Superior cluneal nerves	dorlandsPrefix	n 0
+Adductor hiatus	dorlandsPrefix	h 11
+Bipolar neuron	dorlandsPrefix	c 18
+Medial sural cutaneous nerve	dorlandsPrefix	n 05
+Lateral sural cutaneous nerve	dorlandsPrefix	n 05
+Superior thalamostriate vein	dorlandsPrefix	v 05
+Posterior branch of obturator nerve	dorlandsPrefix	r 02
+Anterior branch of obturator nerve	dorlandsPrefix	r 02
+Vestibular fold	dorlandsPrefix	p 24
+Anterior cutaneous branches of the femoral nerve	dorlandsPrefix	r 02
+Hamulus of hamate bone	dorlandsPrefix	h 02
+Soleal line	dorlandsPrefix	l 10
+Tegmental pontine reticular nucleus	dorlandsPrefix	n 11
+Lateral reticular nucleus	dorlandsPrefix	n 11
+Parvocellular reticular nucleus	dorlandsPrefix	n 11
+Oral pontine reticular nucleus	dorlandsPrefix	n 11
+Caudal pontine reticular nucleus	dorlandsPrefix	n 11
+Gigantocellular reticular nucleus	dorlandsPrefix	n 11
+Paramedian reticular nucleus	dorlandsPrefix	n 11
+Patellar network	dorlandsPrefix	r 10
+Cutaneous branch of the obturator nerve	dorlandsPrefix	r 02
+Circumflex fibular artery	dorlandsPrefix	r 02
+Plantar metatarsal veins	dorlandsPrefix	v 05
+Dorsal digital veins of the foot	dorlandsPrefix	v 05
+Condylar emissary vein	dorlandsPrefix	v 05
+Tubercle (rib)	dorlandsPrefix	t 21
+Angle (rib)	dorlandsPrefix	a 42
+Body of stomach	dorlandsPrefix	c 56
+Upper esophageal sphincter	dorlandsPrefix	s 18
+Medial calcaneal branches of the tibial nerve	dorlandsPrefix	r 02
+Posterior branch of the obturator artery	dorlandsPrefix	r 02
+Anterior branch of the obturator artery	dorlandsPrefix	r 02
+Splenic hilum	dorlandsPrefix	h 11
+Mouth	dorlandsPrefix	c 16
+Medial dorsal nucleus	dorlandsPrefix	n 11
+Body of hyoid bone	dorlandsPrefix	c 56
+Palatine raphe	dorlandsPrefix	r 03
+Incisive papilla	dorlandsPrefix	p 03
+Medial eminence of floor of fourth ventricle	dorlandsPrefix	e 06
+Chiasmatic groove	dorlandsPrefix	s 28
+Middle clinoid process	dorlandsPrefix	p 34
+Buccopharyngeal fascia	dorlandsPrefix	f 03
+Superior cerebellar veins	dorlandsPrefix	v 05
+Isthmus of the fauces	dorlandsPrefix	i 14
+Sublingual caruncle	dorlandsPrefix	c 13
+Mental protuberance	dorlandsPrefix	p 38
+Human nose	dorlandsPrefix	n 10
+Vitreous membrane	dorlandsPrefix	m 08
+Capsule of temporomandibular joint	dorlandsPrefix	c 07
+Ventricle of the larynx	dorlandsPrefix	v 06
+Infraglottic cavity	dorlandsPrefix	c 16
+Tracheal rings	dorlandsPrefix	c 12
+Calvaria (skull)	dorlandsPrefix	c 03
+Articular disk of the temporomandibular joint	dorlandsPrefix	d 22
+Pharyngobasilar fascia	dorlandsPrefix	f 03
+Anterior tubercle of cervical vertebra	dorlandsPrefix	t 21
+Piriform sinus	dorlandsPrefix	r 05
+Plica semilunaris of the fauces	dorlandsPrefix	p 24
+Tonsillar fossa	dorlandsPrefix	f 14
+Hyoglossal membrane	dorlandsPrefix	m 08
+Posterior tongue	dorlandsPrefix	p 07
+Anterior tongue	dorlandsPrefix	p 07
+Median sulcus of the tongue	dorlandsPrefix	s 28
+Mental tubercle	dorlandsPrefix	t 21
+Jugular lymph trunk	dorlandsPrefix	t 20
+Jugular venous arch	dorlandsPrefix	a 58
+Body of mandible	dorlandsPrefix	c 56
+Superior branch of oculomotor nerve	dorlandsPrefix	r 02
+Inferior branch of oculomotor nerve	dorlandsPrefix	r 02
+Occipital emissary vein	dorlandsPrefix	v 05
+Theca externa	dorlandsPrefix	t 22
+Costotransverse joint	dorlandsPrefix	a 64
+Coronary ligament of the liver	dorlandsPrefix	l 09
+Paleocortex	dorlandsPrefix	p 02
+Inferior frontal sulcus	dorlandsPrefix	s 28
+Superior frontal sulcus	dorlandsPrefix	s 28
+Ventral anterior nucleus	dorlandsPrefix	n 11
+Intermediolateral nucleus	dorlandsPrefix	n 11
+Hippocampal sulcus	dorlandsPrefix	s 28
+Medial parabrachial nucleus	dorlandsPrefix	n 11
+Paramedian arteries	dorlandsPrefix	a 61
+Inferior medullary velum	dorlandsPrefix	v 05
+Pontine cistern	dorlandsPrefix	c 37
+Interpeduncular cistern	dorlandsPrefix	c 37
+Principal sensory nucleus of trigeminal nerve	dorlandsPrefix	n 11
+Mesencephalic nucleus of trigeminal nerve	dorlandsPrefix	n 11
+Carpal tunnel	dorlandsPrefix	c 04
+Subcommissural organ	dorlandsPrefix	o 06
+Cerebral crus	dorlandsPrefix	c 64
+Posterior median sulcus of medulla oblongata	dorlandsPrefix	s 28
+Anterolateral sulcus of medulla	dorlandsPrefix	s 28
+Emboliform nucleus	dorlandsPrefix	n 11
+Straight gyrus	dorlandsPrefix	g 13
+Paracentral lobule	dorlandsPrefix	l 13
+Marginal sulcus	dorlandsPrefix	p 07
+Hypoglossal trigone	dorlandsPrefix	t 19
+Lateral recess	dorlandsPrefix	r 05
+Anterior nuclei of thalamus	dorlandsPrefix	n 11
+Ventral posteromedial nucleus	dorlandsPrefix	n 11
+Ventral posterolateral nucleus	dorlandsPrefix	n 11
+Midline nuclear group	dorlandsPrefix	n 11
+Intralaminar nuclei of thalamus	dorlandsPrefix	n 11
+Vestibulocerebellar tract	dorlandsPrefix	t 15
+Lenticular fasciculus	dorlandsPrefix	f 03
+Thalamic fasciculus	dorlandsPrefix	f 03
+Association fiber	dorlandsPrefix	f 05
+Semioval center	dorlandsPrefix	c 20
+Basilar part of pons	dorlandsPrefix	p 07
+Callosal sulcus	dorlandsPrefix	s 28
+Hip pointer	dorlandsPrefix	p 10
+Groove for sigmoid sinus	dorlandsPrefix	s 28
+Chiasmatic cistern	dorlandsPrefix	c 37
+Cistern of lateral cerebral fossa	dorlandsPrefix	c 37
+Cistern of great cerebral vein	dorlandsPrefix	c 37
+A delta fiber	dorlandsPrefix	f 05
+Inferior longitudinal fasciculus	dorlandsPrefix	f 03
+Anterior white commissure	dorlandsPrefix	c 49
+Pineal recess	dorlandsPrefix	r 05
+Reticulospinal tract	dorlandsPrefix	t 15
+Medial vestibular nucleus	dorlandsPrefix	n 11
+Anterior cochlear nucleus	dorlandsPrefix	n 11
+Modiolus (cochlea)	dorlandsPrefix	m 18
+Osseous ampullae	dorlandsPrefix	a 32
+Inner tunnel	dorlandsPrefix	t 23
+Macula of utricle	dorlandsPrefix	m 01
+Macula of saccule	dorlandsPrefix	m 01
+Corneal limbus	dorlandsPrefix	l 10
+Rostral interstitial nucleus of medial longitudinal fasciculus	dorlandsPrefix	n 11
+Ciliospinal center	dorlandsPrefix	c 20
+Inferior vestibular nucleus	dorlandsPrefix	n 11
+Vocal pedagogy	dorlandsPrefix	p 24
+Group C nerve fiber	dorlandsPrefix	f 05
+Deltoid fascia	dorlandsPrefix	f 03
+Subscapular aponeurosis	dorlandsPrefix	a 53
+Gluteal aponeurosis	dorlandsPrefix	a 53
+Gland of Moll	dorlandsPrefix	g 06
+Ethmoidal process of inferior nasal concha	dorlandsPrefix	p 34
+Central retinal vein	dorlandsPrefix	v 05
+Anterolateral central arteries	dorlandsPrefix	a 61
+Presacral space	dorlandsPrefix	s 16
+External pudendal vein	dorlandsPrefix	v 05
+Pudendal plexus (veins)	dorlandsPrefix	p 24
+Dorsal metacarpal veins	dorlandsPrefix	v 05
+Intercapitular veins of the hand	dorlandsPrefix	v 05
+Palmar digital veins	dorlandsPrefix	v 05
+Palmar metacarpal veins	dorlandsPrefix	v 05
+Superficial palmar venous arch	dorlandsPrefix	a 58
+Deep palmar venous arch	dorlandsPrefix	a 58
+Dorsal metatarsal veins	dorlandsPrefix	v 05
+Dorsal metatarsal arteries	dorlandsPrefix	a 61
+Posterior branches of thoracic nerves	dorlandsPrefix	r 02
+Posterior branch of coccygeal nerve	dorlandsPrefix	r 02
+Posterior branches of the lumbar nerves	dorlandsPrefix	r 02
+Posterior branches of cervical nerves	dorlandsPrefix	r 02
+Dorsal scapular vein	dorlandsPrefix	v 05
+Paravertebral ganglia	dorlandsPrefix	g 02
+Lumbar ganglia	dorlandsPrefix	g 02
+Thoracic aortic plexus	dorlandsPrefix	p 24
+Sacral ganglia	dorlandsPrefix	g 02
+Thoracic ganglia	dorlandsPrefix	g 02
+Retrovisceral space	dorlandsPrefix	s 16
+Superior phrenic artery	dorlandsPrefix	a 61
+Pericardiacophrenic veins	dorlandsPrefix	v 05
+Mediastinal branches of thoracic part of aorta	dorlandsPrefix	r 02
+Meningeal branch of vagus nerve	dorlandsPrefix	r 02
+Inferior cardiac branches of the vagus nerve	dorlandsPrefix	r 02
+Superior cervical cardiac branches of vagus nerve	dorlandsPrefix	r 02
+Deltoid branch of thoracoacromial artery	dorlandsPrefix	r 02
+Anterior auricular veins	dorlandsPrefix	v 05
+Suboccipital venous plexus	dorlandsPrefix	p 24
+Ileocolic vein	dorlandsPrefix	v 05
+Appendicular vein	dorlandsPrefix	v 05
+Posterior spinal veins	dorlandsPrefix	v 05
+Anterior spinal veins	dorlandsPrefix	v 05
+Anterior intercostal veins	dorlandsPrefix	v 05
+Thymic veins	dorlandsPrefix	v 05
+Thymic branches of internal thoracic artery	dorlandsPrefix	r 02
+Oblique line of thyroid cartilage	dorlandsPrefix	l 10
+Lateral palpebral arteries	dorlandsPrefix	a 61
+Crural fascia	dorlandsPrefix	f 03
+Posterior gastric branches of posterior vagal trunk	dorlandsPrefix	r 02
+Hepatic branches of anterior vagal trunk	dorlandsPrefix	r 02
+Anterior gastric branches of anterior vagal trunk	dorlandsPrefix	r 02
+Renal branches of vagus nerve	dorlandsPrefix	r 02
+Celiac branches of vagus nerve	dorlandsPrefix	r 02
+Heuser's membrane	dorlandsPrefix	m 08
+Lateral abdominal cutaneous branch of intercostal nerve	dorlandsPrefix	r 02
+Caroticotympanic nerves	dorlandsPrefix	n 05
+Prevertebral plexus	dorlandsPrefix	p 24
+Cartilaginous joint	dorlandsPrefix	j 02
+Appendix of the laryngeal ventricle	dorlandsPrefix	v 06
+Brachium of superior colliculus	dorlandsPrefix	b 20
+Brachium of inferior colliculus	dorlandsPrefix	b 20
+Lamina affixa	dorlandsPrefix	l 02
+Infraorbital margin	dorlandsPrefix	c 56
+Deep artery of clitoris	dorlandsPrefix	a 61
+Internal sphincter muscle of urethra	dorlandsPrefix	m 22
+Anterior scrotal nerves	dorlandsPrefix	n 05
+Posterior scrotal arteries	dorlandsPrefix	r 02
+Pyloric canal	dorlandsPrefix	c 04
+Anterior scrotal arteries	dorlandsPrefix	r 02
+Posterior labial arteries	dorlandsPrefix	r 02
+Minor duodenal papilla	dorlandsPrefix	p 03
+Testis cords	dorlandsPrefix	c 55
+Canals of Hering	dorlandsPrefix	c 04
+Interlobular bile ducts	dorlandsPrefix	d 29
+Jejunal arteries	dorlandsPrefix	a 61
+Ileal arteries	dorlandsPrefix	a 61
+Ileal veins	dorlandsPrefix	v 05
+Jejunal veins	dorlandsPrefix	v 05
+Colic branch of ileocolic artery	dorlandsPrefix	r 02
+Ileal branch of ileocolic artery	dorlandsPrefix	r 02
+Tracheoesophageal septum	dorlandsPrefix	s 08
+Epitympanic recess	dorlandsPrefix	r 05
+Latus (anatomy)	dorlandsPrefix	l 04
+Body of pubic bone	dorlandsPrefix	c 56
+Body of ilium	dorlandsPrefix	c 56
+Root sheath	dorlandsPrefix	s 10
+Supraduodenal artery	dorlandsPrefix	a 61
+Uterine veins	dorlandsPrefix	v 05
+Vesical veins	dorlandsPrefix	v 05
+Tubal branch of uterine artery	dorlandsPrefix	r 02
+Ovarian branch of uterine artery	dorlandsPrefix	r 02
+Tubal branches of ovarian artery	dorlandsPrefix	r 02
+Iliolumbar vein	dorlandsPrefix	v 05
+Vein of bulb of penis	dorlandsPrefix	v 05
+Vein of bulb of vestibule	dorlandsPrefix	v 05
+Superficial dorsal veins of clitoris	dorlandsPrefix	v 05
+Fundus of gallbladder	dorlandsPrefix	f 17
+Body of gallbladder	dorlandsPrefix	c 56
+Deep dorsal vein of clitoris	dorlandsPrefix	v 05
+Posterior scrotal veins	dorlandsPrefix	v 05
+Posterior labial veins	dorlandsPrefix	v 05
+Rectovaginal fascia	dorlandsPrefix	f 03
+Umbilical plane	dorlandsPrefix	p 22
+Hepatic lymph nodes	dorlandsPrefix	n 09
+Gastric lymph nodes	dorlandsPrefix	n 09
+Middle rectal plexus	dorlandsPrefix	p 24
+Neck of gallbladder	dorlandsPrefix	c 46
+Artery of round ligament of uterus	dorlandsPrefix	a 61
+Anterior cutaneous branch of iliohypogastric nerve	dorlandsPrefix	r 02
+Lateral cutaneous branch of iliohypogastric nerve	dorlandsPrefix	r 02
+Anterior labial nerves	dorlandsPrefix	n 05
+Posterior commissure of labia majora	dorlandsPrefix	c 49
+Ureteral branches of renal artery	dorlandsPrefix	r 02
+Lumbar branch of iliolumbar artery	dorlandsPrefix	r 02
+Iliac branch of iliolumbar artery	dorlandsPrefix	r 02
+Body of penis	dorlandsPrefix	c 56
+Root of penis	dorlandsPrefix	r 02
+Subcutaneous tissue of penis	dorlandsPrefix	t 03
+Septum of the penis	dorlandsPrefix	s 08
+Sacral tuberosity	dorlandsPrefix	t 21
+Apex of urinary bladder	dorlandsPrefix	a 52
+Inferior fascia of pelvic diaphragm	dorlandsPrefix	f 03
+Subcutaneous tissue of perineum	dorlandsPrefix	t 03
+Fascia of perineum	dorlandsPrefix	f 03
+Ileocolic lymph nodes	dorlandsPrefix	n 09
+Mesocolic lymph nodes	dorlandsPrefix	n 09
+Mesenteric lymph nodes	dorlandsPrefix	n 09
+Neck of urinary bladder	dorlandsPrefix	c 22
+Corona of glans penis	dorlandsPrefix	c 56
+Adipose capsule of kidney	dorlandsPrefix	c 07
+External sphincter muscle of female urethra	dorlandsPrefix	m 22
+Extraperitoneal fat	dorlandsPrefix	f 03
+Subcostal plane	dorlandsPrefix	p 22
+Interspinous plane	dorlandsPrefix	p 22
+Rectoprostatic fascia	dorlandsPrefix	f 03
+Sternal plane	dorlandsPrefix	p 22
+Subclavian lymph trunk	dorlandsPrefix	t 20
+Head of ulna	dorlandsPrefix	c 08
+Head of radius	dorlandsPrefix	c 08
+Posterior axillary fold	dorlandsPrefix	f 11
+Upper trunk	dorlandsPrefix	t 20
+Collateral ligaments of metacarpophalangeal articulations	dorlandsPrefix	l 09
+Palmar plate	dorlandsPrefix	l 09
+Synovial sheath	dorlandsPrefix	v 01
+Common flexor sheath of hand	dorlandsPrefix	v 01
+Medial crural cutaneous branches of saphenous nerve	dorlandsPrefix	r 02
+Infrapatellar branch of saphenous nerve	dorlandsPrefix	r 02
+Lateral dorsal cutaneous nerve	dorlandsPrefix	n 05
+Sural communicating branch of common fibular nerve	dorlandsPrefix	r 02
+Lateral calcaneal branches of sural nerve	dorlandsPrefix	r 02
+Superficial branch of lateral plantar nerve	dorlandsPrefix	r 02
+Deep branch of lateral plantar nerve	dorlandsPrefix	r 02
+Posterior crural intermuscular septum	dorlandsPrefix	s 08
+Anterior crural intermuscular septum	dorlandsPrefix	s 08
+Dorsal digital nerves of foot	dorlandsPrefix	n 05
+Dorsal digital nerves of radial nerve	dorlandsPrefix	n 05
+Dorsal digital nerves of ulnar nerve	dorlandsPrefix	n 05
+Proper plantar digital nerves of lateral plantar nerve	dorlandsPrefix	n 05
+Common plantar digital nerves of lateral plantar nerve	dorlandsPrefix	n 05
+Proper plantar digital nerves of medial plantar nerve	dorlandsPrefix	n 05
+Common plantar digital nerves of medial plantar nerve	dorlandsPrefix	n 05
+Lateral terminal branch of deep fibular nerve	dorlandsPrefix	b 21
+Medial terminal branch of deep fibular nerve	dorlandsPrefix	b 21
+Ascending branch of medial circumflex femoral artery	dorlandsPrefix	r 02
+Superficial branch of medial circumflex femoral artery	dorlandsPrefix	r 02
+Deep branch of medial circumflex femoral artery	dorlandsPrefix	r 02
+Acetabular branch of medial circumflex femoral artery	dorlandsPrefix	r 02
+Ascending branch of lateral circumflex femoral artery	dorlandsPrefix	r 02
+Transverse branch of lateral circumflex femoral artery	dorlandsPrefix	r 02
+Descending branch of lateral circumflex femoral artery	dorlandsPrefix	r 02
+Articular branches of descending genicular artery	dorlandsPrefix	r 02
+Saphenous branch of descending genicular artery	dorlandsPrefix	r 02
+Dorsal digital arteries of foot	dorlandsPrefix	a 61
+Common plantar digital arteries	dorlandsPrefix	a 61
+Proper plantar digital arteries	dorlandsPrefix	a 61
+Proper palmar digital nerves of ulnar nerve	dorlandsPrefix	n 05
+Common palmar digital nerves of ulnar nerve	dorlandsPrefix	n 05
+Fibrous membrane of articular capsule	dorlandsPrefix	m 08
+Articular capsule of the humerus	dorlandsPrefix	c 07
+Articular disk of sternoclavicular articulation	dorlandsPrefix	d 22
+Fibular notch	dorlandsPrefix	i 05
+Intercondylar fossa of femur	dorlandsPrefix	f 14
+Medial intercondylar tubercle	dorlandsPrefix	t 21
+Lateral intercondylar tubercle	dorlandsPrefix	t 21
+Head of talus	dorlandsPrefix	c 08
+Neck of talus	dorlandsPrefix	c 46
+Body of talus	dorlandsPrefix	c 56
+Posterior auricular muscle	dorlandsPrefix	m 22
+Superior auricular muscle	dorlandsPrefix	m 22
+Anterior auricular muscle	dorlandsPrefix	m 22
+Neurocranium	dorlandsPrefix	c 60
+Lambda (anatomy)	dorlandsPrefix	l 02
+Transverse arytenoid	dorlandsPrefix	m 22
+Lacrimal hamulus	dorlandsPrefix	h 02
+Lingula of mandible	dorlandsPrefix	l 11
+Wing of vomer	dorlandsPrefix	a 21
+Internasal suture	dorlandsPrefix	s 30
+Nasal foramina	dorlandsPrefix	f 12
+Sternocleidomastoid branches of occipital artery	dorlandsPrefix	r 02
+Superior thyroid notch	dorlandsPrefix	i 05
+Occipital branches of occipital artery	dorlandsPrefix	r 02
+Meningeal branch of occipital artery	dorlandsPrefix	r 02
+Alveolar part of mandible	dorlandsPrefix	p 07
+Premaxilla	dorlandsPrefix	p 32
+Stapedial branch of posterior auricular artery	dorlandsPrefix	r 02
+Epiglottic vallecula	dorlandsPrefix	v 02
+Vallecula of cerebellum	dorlandsPrefix	v 02
+Quadrangular membrane	dorlandsPrefix	m 08
+Cricoarytenoid articulation	dorlandsPrefix	a 64
+Cricothyroid articulation	dorlandsPrefix	a 64
+Palatomaxillary suture	dorlandsPrefix	s 30
+Superficial parotid lymph nodes	dorlandsPrefix	n 09
+Jugulo-omohyoid lymph node	dorlandsPrefix	n 09
+Jugulodigastric lymph node	dorlandsPrefix	n 09
+Deep lateral cervical lymph nodes	dorlandsPrefix	n 09
+Superficial lateral cervical lymph nodes	dorlandsPrefix	n 09
+Deep anterior cervical lymph nodes	dorlandsPrefix	n 09
+Superficial anterior cervical lymph nodes	dorlandsPrefix	n 09
+Anterior cervical lymph nodes	dorlandsPrefix	n 09
+Facial lymph nodes	dorlandsPrefix	n 09
+Nasolabial lymph node	dorlandsPrefix	n 09
+Mandibular lymph node	dorlandsPrefix	n 09
+Intraglandular deep parotid lymph nodes	dorlandsPrefix	n 09
+Infra-auricular deep parotid lymph nodes	dorlandsPrefix	n 09
+Pretracheal lymph nodes	dorlandsPrefix	n 09
+Prelaryngeal lymph nodes	dorlandsPrefix	n 09
+Thyroid lymph nodes	dorlandsPrefix	n 09
+Alar fascia	dorlandsPrefix	f 03
+Olfactory foramina	dorlandsPrefix	f 12
+Laryngeal cavity	dorlandsPrefix	c 16
+Rima vestibuli	dorlandsPrefix	r 14
+Pharyngeal opening of auditory tube	dorlandsPrefix	o 09
+Danger space	dorlandsPrefix	s 16
+Prevertebral space	dorlandsPrefix	s 16
+Cranial root of accessory nerves	dorlandsPrefix	r 02
+Vocal muscle	dorlandsPrefix	m 22
+Spinal root of accessory nerve	dorlandsPrefix	r 02
+Hiatus for lesser petrosal nerve	dorlandsPrefix	h 11
+Petrosal branch of middle meningeal artery	dorlandsPrefix	r 02
+Submandibular fovea	dorlandsPrefix	f 15
+Sublingual fovea	dorlandsPrefix	f 15
+Capsule of atlantooccipital articulation	dorlandsPrefix	c 07
+Superior root of ansa cervicalis	dorlandsPrefix	r 02
+Inferior root of ansa cervicalis	dorlandsPrefix	r 02
+Mucoperiosteum	dorlandsPrefix	m 21
+Salpingopharyngeal fold	dorlandsPrefix	p 24
+Salpingopalatine fold	dorlandsPrefix	p 24
+Suprascapular vein	dorlandsPrefix	v 05
+Transverse cervical veins	dorlandsPrefix	v 05
+Pharyngeal branches of inferior thyroid artery	dorlandsPrefix	r 02
+Nerve to tensor veli palatini	dorlandsPrefix	n 05
+Pharyngeal plexus (venous)	dorlandsPrefix	p 24
+Internal nasal branches of infraorbital nerve	dorlandsPrefix	r 02
+Inferior posterior nasal branches of greater palatine nerve	dorlandsPrefix	r 02
+Inferior tympanic artery	dorlandsPrefix	a 61
+Pharyngeal branches of ascending pharyngeal artery	dorlandsPrefix	r 02
+Ethmoidal veins	dorlandsPrefix	v 05
+Lingual branches of hypoglossal nerve	dorlandsPrefix	r 02
+Vestibule of mouth	dorlandsPrefix	v 08
+Stylopharyngeal branch of glossopharyngeal nerve	dorlandsPrefix	r 02
+Lingual branches of glossopharyngeal nerve	dorlandsPrefix	r 02
+Tonsillar branches of glossopharyngeal nerve	dorlandsPrefix	r 02
+Parasympathetic root of ciliary ganglion	dorlandsPrefix	r 02
+Sympathetic root of ciliary ganglion	dorlandsPrefix	r 02
+Periorbita	dorlandsPrefix	p 13
+Temporal process of the zygomatic bone	dorlandsPrefix	f 01
+Lateral process of the zygomatic bone	dorlandsPrefix	f 01
+Suprahyoid branch of lingual artery	dorlandsPrefix	r 02
+Deep lingual artery	dorlandsPrefix	a 61
+Dorsal lingual branches of lingual artery	dorlandsPrefix	r 02
+Deep lingual vein	dorlandsPrefix	v 05
+Dorsal lingual veins	dorlandsPrefix	v 05
+Sublingual vein	dorlandsPrefix	v 05
+Superior laryngeal vein	dorlandsPrefix	v 05
+Inferior laryngeal vein	dorlandsPrefix	v 05
+Vocal process	dorlandsPrefix	p 34
+Muscular process of arytenoid cartilage	dorlandsPrefix	p 34
+Posterior lateral nasal arteries	dorlandsPrefix	a 61
+Posterior septal branches of sphenopalatine artery	dorlandsPrefix	r 02
+Interarytenoid fold	dorlandsPrefix	p 24
+Infrahyoid branch of superior thyroid artery	dorlandsPrefix	r 02
+Sternocleidomastoid branch of superior thyroid artery	dorlandsPrefix	r 02
+Cricothyroid branch of superior thyroid artery	dorlandsPrefix	r 02
+Inferior horn of thyroid cartilage	dorlandsPrefix	c 55
+Superior horn of thyroid cartilage	dorlandsPrefix	c 55
+Mental branch of inferior alveolar artery	dorlandsPrefix	r 02
+Auricular branch of posterior auricular artery	dorlandsPrefix	r 02
+Occipital branch of posterior auricular artery	dorlandsPrefix	r 02
+Descending branch of occipital artery	dorlandsPrefix	r 02
+Auricular branch of occipital artery	dorlandsPrefix	r 02
+Muscles of larynx	dorlandsPrefix	m 22
+Acromial branch of suprascapular artery	dorlandsPrefix	r 02
+Glandular branches of the inferior thyroid artery	dorlandsPrefix	r 02
+Superior dental plexus	dorlandsPrefix	p 24
+Inferior dental plexus	dorlandsPrefix	p 24
+Thyroepiglottic muscle	dorlandsPrefix	p 07
+Anterior fornix erogenous zone	dorlandsPrefix	f 14
+Scrotum	dorlandsPrefix	s 06
+Mammalian eye	dorlandsPrefix	s 07
+Rectum	dorlandsPrefix	r 05
+Elbow	dorlandsPrefix	a 64
+Human skull	dorlandsPrefix	s 13
+Fallopian tube	dorlandsPrefix	t 21
+Abdominal fascia	dorlandsPrefix	f 03
+Oropharyngeal cancer	dorlandsPrefix	p 16
+Pelvis	dorlandsPrefix	p 10
+Nucleus basalis of Meynert	dorlandsPrefix	n 11
+Line of Gennari	dorlandsPrefix	l 10
+Fossa for lacrimal sac	dorlandsPrefix	f 14
+Denticulate ligaments	dorlandsPrefix	l 09
+Fibular artery	dorlandsPrefix	a 61
+Risser sign	dorlandsPrefix	p 10
+Neuromechanics of idiopathic scoliosis	dorlandsPrefix	p 22
+Scalene tubercle	dorlandsPrefix	c 58
+Groove for transverse sinus	dorlandsPrefix	p 38

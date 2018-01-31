@@ -1,0 +1,730 @@
+Yangtze River	maximumDischarge	110000.0
+Euphrates	maximumDischarge	2514.0
+Ganges	maximumDischarge	70000.0
+Mississippi River	maximumDischarge	86791.134807545
+Missouri River	maximumDischarge	20167.2581435346
+Madeira River	maximumDischarge	52804.0
+Niger River	maximumDischarge	27600.0
+Ohio River	maximumDischarge	52386.16619705
+Puget Sound	maximumDischarge	10392.282699631
+Snake River	maximumDischarge	11581.590256537
+Tigris	maximumDischarge	1825.0
+Sacramento River	maximumDischarge	18405.95028545
+Rio Grande	maximumDischarge	897.6440369981
+Congo River	maximumDischarge	75000.0
+Elbe	maximumDischarge	1232.0
+River Severn	maximumDischarge	533.48
+Delaware River	maximumDischarge	9316.242529097
+Yenisei River	maximumDischarge	190000.0
+Ob River	maximumDischarge	40200.0
+Yakima River	maximumDischarge	1682.0206876242
+Amur River	maximumDischarge	30700.0
+River Parrett	maximumDischarge	172.987615836637
+Potomac River	maximumDischarge	12034.659802025
+Chesapeake Bay	maximumDischarge	11015.253324677
+Douro	maximumDischarge	17000.0
+Guadiana	maximumDischarge	1500.0
+Mekong	maximumDischarge	39000.0
+Ottawa River	maximumDischarge	5351.0
+Willamette River	maximumDischarge	11893.07556906
+Rhone	maximumDischarge	13000.0
+Helge River	maximumDischarge	320.0
+Red River of the North	maximumDischarge	4329.6458440697
+River Avon (Bristol)	maximumDischarge	310.0
+Kansas River	maximumDischarge	3771.011094482996
+Smoky Hill River	maximumDischarge	5861.587244751
+Chao Phraya River	maximumDischarge	5960.0
+Glomma	maximumDischarge	4700.0
+River Mole	maximumDischarge	99.9
+Los Angeles River	maximumDischarge	3652.873210497
+Colorado River (Texas)	maximumDischarge	2381.4467984713
+Colorado River	maximumDischarge	8495.0539779
+Brahmaputra River	maximumDischarge	100000.0
+Altamaha River	maximumDischarge	5040.398693554
+Red River (Mississippi River)	maximumDischarge	6597.825256169
+Fraser River	maximumDischarge	17000.0
+Pecos River	maximumDischarge	4329.92901253563
+Monongahela River	maximumDischarge	2296.4962586923
+River Kennet	maximumDischarge	70.0
+River Trent	maximumDischarge	1018.35
+James River	maximumDischarge	8863.172983609
+Brazos River	maximumDischarge	2390.0
+Susquehanna River	maximumDischarge	31998.03665009
+Ashuapmushuan River	maximumDischarge	1050.0
+Mojave River	maximumDischarge	1999.1693694658
+Saskatchewan River	maximumDischarge	3000.0
+Athabasca River	maximumDischarge	4790.0
+Mackenzie River	maximumDischarge	31700.0
+Connecticut River	maximumDischarge	7985.350739226
+Snoqualmie River	maximumDischarge	1543.2681393185
+Santiam River	maximumDischarge	5720.003011786
+Arkansas River	maximumDischarge	19340.406223019
+Platte River	maximumDischarge	4530.69545488
+River Tamar	maximumDischarge	714.6
+Chattahoochee River	maximumDischarge	5521.785085635
+River Dart	maximumDischarge	40.0
+San Joaquin River	maximumDischarge	9202.975142725
+River Arun	maximumDischarge	78.5
+Tennessee River	maximumDischarge	14158.4232965
+Patuxent River	maximumDischarge	81.26934972191
+Chehalis River (Washington)	maximumDischarge	1330.891789871
+Cowlitz River	maximumDischarge	3936.041676427
+White River (Arkansas)	maximumDischarge	4360.794375322
+Caddo River	maximumDischarge	809.8618125598
+Mammoth Spring	maximumDischarge	19.651891535542
+Deschutes River (Oregon)	maximumDischarge	1990.6743154879
+River Churn	maximumDischarge	4.7
+Hron	maximumDischarge	1050.0
+Váh	maximumDischarge	1825.0
+Kura River	maximumDischarge	2250.0
+Wenatchee River	maximumDischarge	1279.9214660036
+River Exe	maximumDischarge	492.6
+Lena River	maximumDischarge	241000.0
+River Ravensbourne	maximumDischarge	28.4
+Kings River (California)	maximumDischarge	2576.833039963
+Khabur River	maximumDischarge	57.0
+Tongue River (Montana)	maximumDischarge	376.6140596869
+Little Colorado River	maximumDischarge	3398.02159116
+Pudding River	maximumDischarge	1237.4461961141
+Iguazu River	maximumDischarge	12799.0
+Orkhon River	maximumDischarge	190.2
+Schuylkill River	maximumDischarge	1141.1689176979
+Cache La Poudre River	maximumDischarge	172.16642728544
+Housatonic River	maximumDischarge	1376.1987444198
+Santa Clara River (California)	maximumDischarge	4672.279687845
+Klamath River	maximumDischarge	16508.721563719
+Merced River	maximumDischarge	2619.3083098525
+Tuolumne River	maximumDischarge	3681.19005709
+Rogue River (Oregon)	maximumDischarge	8211.88551197
+Yellowstone River	maximumDischarge	4502.378608287
+North Platte River	maximumDischarge	569.1686165193
+Green River (Washington)	maximumDischarge	795.7033892633
+Green River (Utah)	maximumDischarge	1928.3772529833
+Little Missouri River (North Dakota)	maximumDischarge	3114.85312523
+Big Thompson River	maximumDischarge	120.06342955432
+Tualatin River	maximumDischarge	747.5647500552
+Powder River (Montana)	maximumDischarge	877.822244383
+Rouge River (Ontario)	maximumDischarge	5.98
+Thornton Creek	maximumDischarge	3.652873210497
+Gila River	maximumDischarge	5663.3693186
+San Juan River (Colorado River)	maximumDischarge	1982.17926151
+Gunnison River	maximumDischarge	996.7530000736
+Virgin River	maximumDischarge	49.55448153775
+New River (Kanawha River)	maximumDischarge	6399.607330018
+Yampa River	maximumDischarge	940.1193068876
+Selenge River	maximumDischarge	601.0
+Okavango River	maximumDischarge	1000.0
+White River (Utah)	maximumDischarge	231.06546819888
+Salt River (Arizona)	maximumDischarge	4049.309062799
+Zeya River	maximumDischarge	14200.0
+Aroostook River	maximumDischarge	835.3469744935
+Beaverhead River	maximumDischarge	88.63172983609
+Sun River	maximumDischarge	1514.9512927255
+Mun River	maximumDischarge	10015.0
+White River (South Dakota)	maximumDischarge	1469.6443381767
+Niobrara River	maximumDischarge	1107.1887017863
+Laramie River	maximumDischarge	177.26345967218
+Souris River	maximumDischarge	20167.2581435346
+Bow River	maximumDischarge	1640.0
+Truckee River	maximumDischarge	492.7131307182
+Sandy River (Oregon)	maximumDischarge	2389.9418524492
+Passaic River	maximumDischarge	235.87933211969
+Cedar River (Washington)	maximumDischarge	300.1585738858
+James River (Dakotas)	maximumDischarge	832.5152898342
+Chemung River	maximumDischarge	1851.9217671822
+Hackensack River	maximumDischarge	24.91882500184
+Kanawha River	maximumDischarge	6116.438864088
+Sammamish River	maximumDischarge	80.13667585819
+White River (Washington)	maximumDischarge	481.386392081
+Clackamas River	maximumDischarge	2460.7339689317
+Canadian River	maximumDischarge	7957.033892633
+Paraná River	maximumDischarge	65000.0
+Lehigh River	maximumDischarge	331.3071051381
+Umpqua River	maximumDischarge	7503.964347145
+Willimantic River	maximumDischarge	10.47723323941
+Shetucket River	maximumDischarge	35.197840315099
+Juniata River	maximumDischarge	5918.220937937
+Salmon River (Idaho)	maximumDischarge	3652.873210497
+Wind River (Wyoming)	maximumDischarge	812.6934972191
+Deschutes River (Washington)	maximumDischarge	230.78229973295
+Puyallup River	maximumDischarge	1614.060255801
+Lackawaxen River	maximumDischarge	374.008909800344
+Current River (Missouri)	maximumDischarge	3681.19005709
+Beaver Kill	maximumDischarge	1766.9712274032
+East Branch Delaware River	maximumDischarge	2191.7239262982
+Neversink River	maximumDischarge	10.222381620073
+Hood River (Oregon)	maximumDischarge	940.1193068876
+Tug Fork	maximumDischarge	124.87729347513
+Levisa Fork	maximumDischarge	98.54262614364
+Osage River	maximumDischarge	6116.438864088
+Roanoke River	maximumDischarge	7390.696960773
+Marys River	maximumDischarge	385.1091136648
+Santa Ana River	maximumDischarge	8976.440369981
+Youghiogheny River	maximumDischarge	1005.2480540515
+Elk River (British Columbia)	maximumDischarge	1020.0
+Humboldt River	maximumDischarge	481.386392081
+John Day River	maximumDischarge	1115.6837557642
+McKenzie River	maximumDischarge	1588.5750938673
+Owyhee River	maximumDischarge	1415.84232965
+Teton River (Idaho)	maximumDischarge	48138.6392081
+Clark Fork (river)	maximumDischarge	5521.785085635
+Pend Oreille River	maximumDischarge	4850.6758213809
+Okanogan River	maximumDischarge	1291.2482046408
+Kootenay River	maximumDischarge	4020.0
+River Wandle	maximumDischarge	39.3
+Malheur River	maximumDischarge	588.9904091344
+Chetco River	maximumDischarge	2418.2586990422
+Illinois River (Oregon)	maximumDischarge	2610.8132558746
+Siletz River	maximumDischarge	1523.4463467034
+South Yamhill River	maximumDischarge	1333.7234745303
+Alsea River	maximumDischarge	1183.6441875874
+Grande Ronde River	maximumDischarge	1194.9709262246
+Coast Fork Willamette River	maximumDischarge	1656.5355256905
+Kobuk River	maximumDischarge	3000.0
+Koyukuk River	maximumDischarge	9344.55937569
+Appomattox River	maximumDischarge	1115.6837557642
+Wallowa River	maximumDischarge	131.39016819152
+Kankakee River	maximumDischarge	121.7624403499
+West Branch Susquehanna River	maximumDischarge	8126.934972191
+Bear River (Utah)	maximumDischarge	294.4952045672
+Nooksack River	maximumDischarge	1364.8720057826
+Trask River	maximumDischarge	637.1290483425
+Wilson River (Oregon)	maximumDischarge	1093.0302784898
+Walker River	maximumDischarge	92.87925682504
+East Walker River	maximumDischarge	79.85350739226
+West Walker River	maximumDischarge	318.28135570532
+Petitcodiac River	maximumDischarge	730.0
+Newaukum River	maximumDischarge	288.8318352486
+North Santiam River	maximumDischarge	2169.0704490238
+South Santiam River	maximumDischarge	2695.7637956536
+Pit River	maximumDischarge	2067.129801289
+Kern River	maximumDischarge	1330.891789871
+Magdalena River	maximumDischarge	12000.0
+Peace River (Canada)	maximumDischarge	9790.0
+River Chew	maximumDischarge	20.0
+Feather River	maximumDischarge	10109.114233701
+Napa River	maximumDischarge	741.9013807366
+McCloud River	maximumDischarge	1557.426562615
+Shasta River	maximumDischarge	608.8122017495
+Trinity River (California)	maximumDischarge	4757.230227624
+Amargosa River	maximumDischarge	300.1585738858
+Owens River	maximumDischarge	102.50698466666
+Eel River (California)	maximumDischarge	21294.268637936
+Santa Margarita River	maximumDischarge	1245.941250092
+Tijuana River	maximumDischarge	948.6143608655
+Williamson River (Oregon)	maximumDischarge	484.2180767403
+Skookumchuck River	maximumDischarge	242.39220683608
+Hamma Hamma River	maximumDischarge	170.18424802393
+Sprague River (Oregon)	maximumDischarge	421.9210142357
+Elwha River	maximumDischarge	1177.9808182688
+Queets River	maximumDischarge	3766.140596869
+Hoh River	maximumDischarge	1132.67386372
+Sauk River (Washington)	maximumDischarge	1979.3475768507
+Skagit River	maximumDischarge	5097.03238674
+Nehalem River	maximumDischarge	1990.6743154879
+Verde River	maximumDischarge	4247.52698895
+Nisqually River	maximumDischarge	147.81393921546
+North Umpqua River	maximumDischarge	4247.52698895
+South Umpqua River	maximumDischarge	3539.605824125
+Willapa River	maximumDischarge	362.4556363904
+Lewis River (Washington)	maximumDischarge	3652.873210497
+Salinas River (California)	maximumDischarge	2690.100426335
+Conejos River	maximumDischarge	108.17035398526
+Nissan (river)	maximumDischarge	155.0
+River Ingrebourne	maximumDischarge	29.0
+Allagash River	maximumDischarge	1158.1590256537
+Chi River	maximumDischarge	3960.0
+Thompson River	maximumDischarge	4200.0
+Klarälven	maximumDischarge	1650.0
+Elk River (Tennessee)	maximumDischarge	2973.268892265
+River Eden, Cumbria	maximumDischarge	1500.0
+River Brent	maximumDischarge	42.9
+Nizhnyaya Tunguska River	maximumDischarge	112000.0
+Mahakam River	maximumDischarge	3300.0
+River Colne, Hertfordshire	maximumDischarge	18.4
+Tuscarawas River	maximumDischarge	1325.2284205524
+Volkhov River	maximumDischarge	2900.0
+Oatka Creek	maximumDischarge	199.63376848065
+River Loddon	maximumDischarge	26.4
+Cheat River	maximumDischarge	198.217926151
+River Pang	maximumDischarge	6.5
+Buffalo River (New York)	maximumDischarge	216.62387643645
+Han River (Yangtze River tributary)	maximumDischarge	105000.0
+River Thame	maximumDischarge	53.1
+Oswego River (New York)	maximumDischarge	1047.723323941
+Bhagirathi River	maximumDischarge	3800.0
+Monocacy River	maximumDischarge	86.64955057458
+San Gabriel River (California)	maximumDischarge	1319.5650512338
+River Wye, Buckinghamshire	maximumDischarge	4.4
+Ipeľ	maximumDischarge	70.0
+River Frome, Bristol	maximumDischarge	70.027561624489
+Breitenbush River	maximumDischarge	478.5547074217
+Hogsmill River	maximumDischarge	26.3
+Orava (river)	maximumDischarge	1120.0
+Klickitat River	maximumDischarge	1132.67386372
+Credit River	maximumDischarge	501.0
+Coosa River	maximumDischarge	7249.112727808
+Kicking Horse River	maximumDischarge	402.0
+Snohomish River	maximumDischarge	4248.0
+Tolt River	maximumDischarge	322.8120511602
+River Coln	maximumDischarge	6.2
+Bureya River	maximumDischarge	18100.0
+River Roding	maximumDischarge	62.4
+Katun River	maximumDischarge	2930.0
+Flathead River	maximumDischarge	3114.85312523
+Porcupine River	maximumDischarge	8467.0
+Androscoggin River	maximumDischarge	3822.774290055
+Illecillewaet River	maximumDischarge	436.0
+Balikh River	maximumDischarge	12.0
+Palouse River	maximumDischarge	787.2083352854
+Yellow Medicine River	maximumDischarge	487.0497613996
+La Grande River	maximumDischarge	4450.0
+Cimarron River (Arkansas River)	maximumDischarge	4474.061761694
+Redwood River	maximumDischarge	557.8418778821
+North Fork Gunnison River	maximumDischarge	112.98421790607
+Lac qui Parle River	maximumDischarge	484.2180767403
+Bitterroot River	maximumDischarge	1084.5352245119
+Payette River	maximumDischarge	906.139090976
+River Roden, Shropshire	maximumDischarge	28.15
+Ouémé River	maximumDischarge	1175.0
+Pelly River	maximumDischarge	4160.0
+Little Wood River	maximumDischarge	82.1188551197
+Greenbrier River	maximumDischarge	288.8318352486
+Boeuf River	maximumDischarge	84.38420284714
+Mokelumne River	maximumDischarge	764.554858011
+Vils (Danube)	maximumDischarge	520.0
+Crișul Negru River	maximumDischarge	648.0
+Irrawaddy River	maximumDischarge	32600.0
+River Crane, London	maximumDischarge	13.4
+Cobbs Creek	maximumDischarge	1421.5056989686
+Gauley River	maximumDischarge	365.2873210497
+Karun	maximumDischarge	2995.0
+Hanford Reach	maximumDischarge	15500.6418250082
+Rondout Creek	maximumDischarge	991.089630755
+River Marden	maximumDischarge	43.296458440697
+South Fork New River	maximumDischarge	60.03171477716
+Ljungan	maximumDischarge	850.0
+Chaudière River	maximumDischarge	470.0
+Elk River (West Virginia)	maximumDischarge	396.435852302
+Shade River	maximumDischarge	441.7428068508
+Blue Earth River	maximumDischarge	1220.4560881583
+Wild Rice River (North Dakota)	maximumDischarge	270.14271649722
+Butte Creek (Butte County, California)	maximumDischarge	1008.0797387108
+Tygart Valley River	maximumDischarge	1727.327642173
+Bluestone River	maximumDischarge	546.5151392449
+Blackwater River (West Virginia)	maximumDischarge	35.67922670718
+Shavers Fork	maximumDischarge	27.297440115652
+Stanislaus River	maximumDischarge	1769.8029120625
+Yuba River	maximumDischarge	5097.03238674
+Williams River (West Virginia)	maximumDischarge	52.10299773112
+River Evenlode	maximumDischarge	26.7
+Río Negro (Argentina)	maximumDischarge	2068.0
+Santa Ynez River	maximumDischarge	3398.02159116
+Gandaki River	maximumDischarge	30000.0
+San Diego River	maximumDischarge	2675.9420030385
+Tule River	maximumDischarge	906.139090976
+Neosho River	maximumDischarge	4360.794375322
+Rio Conchos	maximumDischarge	1490.0
+River Windrush	maximumDischarge	21.6
+Methow River	maximumDischarge	770.2182273296
+Stehekin River	maximumDischarge	509.703238674
+Cranberry River (West Virginia)	maximumDischarge	97.69312074585
+Twelvepole Creek	maximumDischarge	2.803367812707
+Link River	maximumDischarge	266.1783579742
+River Rom	maximumDischarge	17.8
+Sobat River	maximumDischarge	680.0
+Bluestone Lake	maximumDischarge	2548.51619337
+Bull Run River (Oregon)	maximumDischarge	447.4061761694
+Le Sueur River	maximumDischarge	699.4261108471
+Watonwan River	maximumDischarge	393.6041676427
+Maramec Spring	maximumDischarge	21.80397187661
+River Wylye	maximumDischarge	0.6
+Eskilstunaån	maximumDischarge	110.0
+Little Zab	maximumDischarge	3420.0
+Great Zab	maximumDischarge	1320.0
+Jijia River (Prut)	maximumDischarge	340.0
+Petaluma River	maximumDischarge	272.40806422466
+Kelsey Creek	maximumDischarge	23.559616365376
+River Alyn	maximumDischarge	58.93
+Larrys Creek	maximumDischarge	3.228120511602
+Carbon River	maximumDischarge	339.802159116
+Esopus Creek	maximumDischarge	1849.0900825229
+White Deer Hole Creek	maximumDischarge	3.143169971823
+Ljusnan	maximumDischarge	2500.0
+River Ock	maximumDischarge	15.8
+Nacimiento River	maximumDischarge	207.84565399262
+Santa Maria River (California)	maximumDischarge	928.7925682504
+San Luis Rey River	maximumDischarge	727.7429574401
+Kaweah River	maximumDischarge	2285.1695200551
+Cache Creek (Sacramento River)	maximumDischarge	1172.3174489502
+Cispus River	maximumDischarge	277.5050966114
+Calaveras River	maximumDischarge	1415.84232965
+Pajaro River	maximumDischarge	710.7528494843
+Whitewater River (California)	maximumDischarge	322.8120511602
+San Jacinto River (California)	maximumDischarge	453.069545488
+Sweetwater River (California)	maximumDischarge	1288.4165199815
+Mad River (California)	maximumDischarge	2293.664574033
+Mattole River	maximumDischarge	2559.8429320072
+Redwood Creek (Humboldt County)	maximumDischarge	1430.0007529465
+Chowchilla River	maximumDischarge	849.50539779
+Piru Creek	maximumDischarge	1008.0797387108
+Baker River (Washington)	maximumDischarge	1036.3965853038
+Samish River	maximumDischarge	142.15056989686
+Putah Creek	maximumDischarge	2293.664574033
+Symmes Creek	maximumDischarge	201.0496108103
+Fishkill Creek	maximumDischarge	197.36842075321
+Tuckasegee River	maximumDischarge	1744.3177501288
+Bear Creek (Rogue River)	maximumDischarge	308.6536278637
+Ping River	maximumDischarge	2302.0
+Nan River	maximumDischarge	1522.0
+Yom River	maximumDischarge	1916.0
+Georgina River	maximumDischarge	200.0
+Rio Chama (Rio Grande)	maximumDischarge	424.752698895
+North Saskatchewan River	maximumDischarge	5660.0
+Thames River (Ontario)	maximumDischarge	1090.0
+San Juan River (Tamaulipas)	maximumDischarge	3250.0
+Donner und Blitzen River	maximumDischarge	120.91293495211
+Russian River (California)	maximumDischarge	2888.318352486
+Provo River	maximumDischarge	71.35845341436
+Crab Creek	maximumDischarge	26.504568411048
+Straight River (southern Minnesota)	maximumDischarge	172.16642728544
+Ostravice (river)	maximumDischarge	933.0
+Imnaha River	maximumDischarge	572.0003011786
+Lochsa River	maximumDischarge	993.9213154143
+Sopchoppy River	maximumDischarge	8.9
+Kettle River (Columbia River)	maximumDischarge	991.089630755
+Quinebaug River	maximumDischarge	74.75647500552
+Rio Puerco (Rio Grande)	maximumDischarge	991.089630755
+Umatilla River	maximumDischarge	560.6735625414
+Sandy Creek (Ohio)	maximumDischarge	424.752698895
+Applegate River	maximumDischarge	1345.0502131675
+Middle Fork River	maximumDischarge	472.8913381031
+Huff Run	maximumDischarge	2.26534772744
+Wheeling Creek (Ohio)	maximumDischarge	240.6931960405
+Wheeling Creek (West Virginia)	maximumDischarge	631.4656790239
+Issaquah Creek	maximumDischarge	90.6139090976
+Johnson Creek (Willamette River)	maximumDischarge	61.44755710681
+Entiat River	maximumDischarge	136.20403211233
+Raging River	maximumDischarge	94.57826762062
+American River (Washington)	maximumDischarge	177.82979660404
+Big Wood River	maximumDischarge	277.5050966114
+Malad River	maximumDischarge	181.2278181952
+Lemhi River	maximumDischarge	73.90696960773
+Pahsimeroi River	maximumDischarge	20.10496108103
+Sol Duc River	maximumDischarge	543.6834545856
+Canoe River (British Columbia)	maximumDischarge	116.0
+Spillimacheen River	maximumDischarge	311.0
+Yaak River	maximumDischarge	328.4754204788
+Moyie River	maximumDischarge	252.86944007549
+Fisher River (Montana)	maximumDischarge	220.58823495947
+Crooked River (Oregon)	maximumDischarge	188.59019830938
+Chiwawa River	maximumDischarge	199.06743154879
+Cottonwood River (Minnesota)	maximumDischarge	812.6934972191
+Little Cottonwood River	maximumDischarge	99.67530000736
+Tryon Creek	maximumDischarge	14.72476022836
+Shoshone River	maximumDischarge	489.8814460589
+Pomme de Terre River (Minnesota)	maximumDischarge	251.73676621177
+Middle Fork Willamette River	maximumDischarge	2661.783579742
+Yellow Bank River	maximumDischarge	196.51891535542
+Long Prairie River	maximumDischarge	92.59608835911
+Valley Creek	maximumDischarge	1.500792869429
+Straight River (central Minnesota)	maximumDischarge	4.219210142357
+Adăşeni River	maximumDischarge	1.55
+Chirivoaia River	maximumDischarge	10.2
+Bahna River (Mihăileni)	maximumDischarge	3.8
+Bahna River (Lozna)	maximumDischarge	7.6
+Bâsca Roziliei River	maximumDischarge	960.0
+Desaguadero River (Bolivia)	maximumDischarge	282.0
+Chelan River	maximumDischarge	521.0299773112
+Calfpasture River	maximumDischarge	620.1389403867
+Avrămeni River	maximumDischarge	26.8
+Valea Boului River (Başeu)	maximumDischarge	13.8
+Valea Bulgăriilor River	maximumDischarge	14.3
+Valea Ciolpanilor River	maximumDischarge	12.4
+Podriga River	maximumDischarge	190.0
+Valea Iazurilor River	maximumDischarge	3.0
+Valea lui Hurjui River	maximumDischarge	5.7
+Burla River (Romania)	maximumDischarge	135.0
+Valea Satului River (Jijia)	maximumDischarge	7.0
+Puturosu River (Burla)	maximumDischarge	4.4
+La Odaie River	maximumDischarge	4.8
+Homochitto River	maximumDischarge	3341.387897974
+Şuşiţa River (Rovinari)	maximumDischarge	369.0
+San Juan Creek	maximumDischarge	952.86188785445
+Valea Rea River (Miletin)	maximumDischarge	15.0
+Miletin River	maximumDischarge	220.0
+Bahluiul Mic River	maximumDischarge	8.9
+Rio Salado (Mexico)	maximumDischarge	1780.0
+Laslea River	maximumDischarge	0.345
+Valea Poienilor River (Siret)	maximumDischarge	6.7
+Gârla Sireţel	maximumDischarge	12.7
+Recea River (Miletin)	maximumDischarge	15.6
+Păiuşeni River	maximumDischarge	4.2
+Jinsha River	maximumDischarge	35000.0
+Pârâul Întors	maximumDischarge	13.0
+Buhai River	maximumDischarge	130.0
+Bahna River (Jijia)	maximumDischarge	3.0
+Bear River (Feather River)	maximumDischarge	1359.208636464
+Pârâul lui Martin (Jijia)	maximumDischarge	6.1
+Pârâul lui Vasile	maximumDischarge	9.4
+Pârâul Mare (Miletin)	maximumDischarge	17.2
+Prisaca River (Miletin)	maximumDischarge	17.2
+Horoghiuca River	maximumDischarge	17.2
+Râul Putred	maximumDischarge	7.3
+Varniţa River (Jijia)	maximumDischarge	37.6
+Scânteia River	maximumDischarge	33.0
+Robu River	maximumDischarge	10.4
+Părul River	maximumDischarge	2.1
+Păstoaia River	maximumDischarge	3.1
+Volovăţ River (Prut)	maximumDischarge	185.0
+River Horner	maximumDischarge	11.3
+Pişcov River	maximumDischarge	6.5
+Podul Popii River	maximumDischarge	26.1
+Balinţi River	maximumDischarge	27.5
+Bodeasa River	maximumDischarge	81.2
+Başeu River	maximumDischarge	150.0
+Pleşu River (Siret)	maximumDischarge	18.8
+Turbata River (Tudora)	maximumDischarge	6.8
+Poiana River (Prut)	maximumDischarge	8.6
+Herţa River	maximumDischarge	19.75
+Poiana River (Siret)	maximumDischarge	5.1
+Sihăstria River (Vorona)	maximumDischarge	8.9
+Vorona River (Romania)	maximumDischarge	5.1
+Molniţa River	maximumDischarge	15.3
+Vlădeni River	maximumDischarge	2.2
+Gârla Huţanilor	maximumDischarge	29.5
+Ponoara River	maximumDischarge	54.6
+Surina River	maximumDischarge	12.2
+Rănghileşti River	maximumDischarge	41.4
+Iazul lui Iancu River	maximumDischarge	17.9
+Corogea River	maximumDischarge	180.0
+Gard River (Jijia)	maximumDischarge	11.9
+Popoaia River	maximumDischarge	8.9
+Ursoiu River (Başeu)	maximumDischarge	13.8
+Răchita River (Başeu)	maximumDischarge	8.9
+Sărata River (Başeu)	maximumDischarge	34.9
+Ciolac River	maximumDischarge	37.3
+Glodul Alb River	maximumDischarge	11.3
+Izvoarele River (Başeu)	maximumDischarge	9.7
+Lişmăniţa River	maximumDischarge	39.8
+Porcăreasa River	maximumDischarge	4.1
+Morişca River	maximumDischarge	145.0
+Cotârgaci River	maximumDischarge	8.6
+Siliştea River (Sitna)	maximumDischarge	10.1
+Iazul Lipovanului River	maximumDischarge	5.7
+Row River	maximumDischarge	605.9805170902
+Putreda River (Jijia)	maximumDischarge	6.0
+Mihăiaşa River	maximumDischarge	4.5
+La Iazul cel Mare River	maximumDischarge	1.9
+Ibăneasa River	maximumDischarge	150.0
+Răchita River (Volovăţ)	maximumDischarge	1.57
+Zoitani River	maximumDischarge	1.24
+Rădăuţi River	maximumDischarge	13.0
+Corneşti River (Prut)	maximumDischarge	10.4
+Isnovăţ River	maximumDischarge	34.5
+Ghireni River	maximumDischarge	57.1
+Badu River	maximumDischarge	1.57
+Berza Veche River	maximumDischarge	17.9
+Aliso Creek (Orange County)	maximumDischarge	152.9109716022
+Juanita Creek	maximumDischarge	20.95446647882
+Myjava (river)	maximumDischarge	109.0
+Middle Fork Feather River	maximumDischarge	2440.9121763166
+Sitna River	maximumDischarge	300.0
+Dolina River (Brăeşti)	maximumDischarge	7.9
+Dolina River (Suliţa)	maximumDischarge	2.2
+Curmătura River (Sitna)	maximumDischarge	3.8
+Dresleuca River	maximumDischarge	130.0
+Băiceni River	maximumDischarge	9.5
+Teaşcu River	maximumDischarge	3.5
+Ionaşcu River	maximumDischarge	2.2
+Gornet River	maximumDischarge	7.8
+Zlătunoaia River	maximumDischarge	2.2
+Cozancea River	maximumDischarge	22.2
+Luizoaia River	maximumDischarge	4.4
+Urechioiu River	maximumDischarge	12.7
+Burduja River	maximumDischarge	4.8
+South Fork Kern River	maximumDischarge	116.0990710313
+Buzunosu River	maximumDischarge	8.7
+Drâslea River	maximumDischarge	74.6
+Ciornohal River	maximumDischarge	2.7
+Glăvăneşti River	maximumDischarge	6.4
+Gotcoaia River	maximumDischarge	2.7
+Chişcata River	maximumDischarge	1.4
+Crăcălia River	maximumDischarge	0.2
+Ghiţălăria River	maximumDischarge	15.0
+Găinăria River	maximumDischarge	17.4
+Guranda River	maximumDischarge	9.5
+Săvescu River	maximumDischarge	4.6
+Tinca River	maximumDischarge	1.0
+Lunca River (Jijia)	maximumDischarge	21.4
+Bezerc River	maximumDischarge	4.8
+Tălpeni River	maximumDischarge	2.4
+Oso Creek	maximumDischarge	161.68919404603
+Bybrook River	maximumDischarge	13.8072943987468
+Gales Creek (Oregon)	maximumDischarge	0.1812278181952
+Ghilăuca River (Ibăneasa)	maximumDischarge	13.5
+Tricova River	maximumDischarge	7.9
+Griviţa River	maximumDischarge	8.7
+Ghilăuca River (Putreda)	maximumDischarge	2.4
+Ghilea River	maximumDischarge	2.2
+Dintievici River	maximumDischarge	3.2
+Canapiştea River	maximumDischarge	2.4
+Vorniceasa River	maximumDischarge	2.1
+Iazul lui Stavri River	maximumDischarge	11.1
+Cordun River	maximumDischarge	13.6
+Maranda River	maximumDischarge	9.5
+Baranca River (Herţa)	maximumDischarge	7.8
+Rush Creek (Mono County, California)	maximumDischarge	30.29902585451
+Duncan River	maximumDischarge	807.0
+Granby River	maximumDischarge	385.0
+Manada Creek	maximumDischarge	27.948727587291
+Fanno Creek	maximumDischarge	30.86536278637
+Balch Creek	maximumDischarge	2.067129801289
+Columbia Slough	maximumDischarge	67.9604318232
+River Ray, Wiltshire	maximumDischarge	32.2
+Beaver River (Columbia River)	maximumDischarge	429.0
+Incomappleux River	maximumDischarge	570.0
+Blaeberry River	maximumDischarge	137.0
+River Wey	maximumDischarge	74.8
+Santiago Creek	maximumDischarge	311.485312523
+Hylebos Creek	maximumDischarge	11.694857642909
+Oak Grove Fork Clackamas River	maximumDischarge	141.584232965
+Laguna Canyon	maximumDischarge	56.633693186
+Pasayten River	maximumDischarge	114.0
+Tulameen River	maximumDischarge	374.0
+Salmo River	maximumDischarge	382.0
+West Kettle River	maximumDischarge	198.0
+Slocan River	maximumDischarge	694.0
+Bull River (British Columbia)	maximumDischarge	388.0
+Suiattle River	maximumDischarge	869.3271904051
+Pilchuck River	maximumDischarge	143.00007529465
+Chewuch River	maximumDischarge	170.18424802393
+North Fork John Day River	maximumDischarge	945.7826762062
+Matilija Creek	maximumDischarge	248.62191308654
+Bicol River	maximumDischarge	205.0
+Jalaur River	maximumDischarge	50.17
+Goldstream River (Columbia River)	maximumDischarge	122.0
+Lysakerelven	maximumDischarge	80.0
+Beaton Creek	maximumDischarge	24.4
+Bridge Creek (John Day River)	maximumDischarge	6.258023097053
+River Mole, Devon	maximumDischarge	188.0
+Gull River (Balsam Lake)	maximumDischarge	27.0
+Trabuco Creek	maximumDischarge	283.16846593
+Middle Fork John Day River	maximumDischarge	133.93868438489
+Dairy Creek (Oregon)	maximumDischarge	44.74061761694
+Fairview Creek	maximumDischarge	3.369704744567
+San Diego Creek	maximumDischarge	1231.7828267955
+Zarqa River	maximumDischarge	8.0
+Sultan River	maximumDischarge	569.1686165193
+Miller River	maximumDischarge	134.22185285082
+Great Bear River	maximumDischarge	995.0
+Mashel River	maximumDischarge	157.72483552301
+Wu River (Yangtze River tributary)	maximumDischarge	3340.0
+Boeing Creek	maximumDischarge	0.47742203355798
+Swamp Creek (Washington)	maximumDischarge	30.86536278637
+North Yuba River	maximumDischarge	2593.8231479188
+Big Spring (Missouri)	maximumDischarge	56.633693186
+Greer Spring	maximumDischarge	50.12081846961
+Stewart River	maximumDischarge	3940.0
+Course of the Rogue River (Oregon)	maximumDischarge	8211.88551197
+Naselle River	maximumDischarge	294.4952045672
+Sulphur Creek (California)	maximumDischarge	56.633693186
+Elk Creek (Rogue River)	maximumDischarge	543.6834545856
+South Fork Rogue River	maximumDischarge	198.50109461693
+Coyote Creek (San Gabriel River)	maximumDischarge	404.9309062799
+Grave Creek (Oregon)	maximumDischarge	226.534772744
+Adams River (British Columbia)	maximumDischarge	396.0
+American River	maximumDischarge	8891.489830202
+South Fork Eel River	maximumDischarge	5635.052472007
+Satsop River	maximumDischarge	1466.8126535174
+Alamito Creek	maximumDischarge	351.1288977532
+Terlingua Creek	maximumDischarge	17200.0
+Latah Creek	maximumDischarge	600.3171477716
+Calawah River	maximumDischarge	1078.8718551933
+Tye River (Washington)	maximumDischarge	42.4752698895
+Aji Chay	maximumDischarge	40.6
+South Fork Trinity River	maximumDischarge	2701.4271649722
+Mad River (Washington)	maximumDischarge	18.660801904787
+Beckler River	maximumDischarge	484.2180767403
+North Fork Clearwater River	maximumDischarge	3114.85312523
+Icicle Creek	maximumDischarge	560.6735625414
+Rex River	maximumDischarge	118.9307556906
+Clearwater River (Idaho)	maximumDischarge	3086.536278637
+North Fork Flathead River	maximumDischarge	1956.6940995763
+Middle Fork Flathead River	maximumDischarge	3964.35852302
+Pysht River	maximumDischarge	56.35052472007
+San Mateo Creek (Southern California)	maximumDischarge	353.9605824125
+Little Butte Creek (Rogue River)	maximumDischarge	283.16846593
+Salmon Falls Creek	maximumDischarge	212.3763494475
+Poesten Kill	maximumDischarge	82.033904579921
+Jiloca (river)	maximumDischarge	3.4
+River Boyd	maximumDischarge	27.722192814547
+San Dieguito River	maximumDischarge	2041.6446393553
+Sand Canyon Wash	maximumDischarge	33.9802159116
+Little Sandy River (Oregon)	maximumDischarge	150.64562387476
+South Fork Bull Run River	maximumDischarge	102.79015313259
+Tetbury Avon	maximumDischarge	3.992675369613
+Puerco River	maximumDischarge	504.0398693554
+Little Salmon River	maximumDischarge	356.7922670718
+North Fork Bull Run River	maximumDischarge	274.6734119521
+Potlatch River	maximumDischarge	230.78229973295
+Rottnan	maximumDischarge	63.0
+Big Butte Creek	maximumDischarge	475.7230227624
+Gatwick Stream	maximumDischarge	14.6
+Hedströmmen	maximumDischarge	90.0
+Chong-Kemin River	maximumDischarge	83.7
+Ysyk-Ata River	maximumDischarge	45.8
+Battle Creek (California)	maximumDischarge	699.4261108471
+Blazed Alder Creek	maximumDischarge	73.90696960773
+Fir Creek (Bull Run River)	maximumDischarge	47.85547074217
+Montmorency River	maximumDischarge	580.0
+Little Cottonwood Creek	maximumDischarge	149.79611847697
+Big Cottonwood Creek	maximumDischarge	10.76040170534
+Red Butte Creek	maximumDischarge	0.4162576449171
+Middle Fork Eel River	maximumDischarge	3822.774290055
+City Creek (California)	maximumDischarge	198.217926151
+Alter River	maximumDischarge	95.0
+Faxälven	maximumDischarge	650.0
+Patroon Creek	maximumDischarge	17.528128041067
+Rio Alamo	maximumDischarge	2470.0
+Rio Escondido (Coahuila)	maximumDischarge	883.0
+Rio San Rodrigo	maximumDischarge	1260.0
+Jemez River	maximumDischarge	103.07332159852
+Rio Pueblo de Taos	maximumDischarge	67.39409489134
+Sajur River	maximumDischarge	7.0
+Norsälven	maximumDischarge	192.0
+Santa Anita Creek	maximumDischarge	198.217926151
+Cow Creek (South Umpqua River)	maximumDischarge	1087.3669091712
+Jordan Creek (Owyhee River)	maximumDischarge	213.22585484529
+North Fork Coquille River	maximumDischarge	1087.3669091712
+Willow Creek (Columbia River)	maximumDischarge	478.5547074217
+Bully Creek (Malheur River)	maximumDischarge	254.28528240514
+South Fork Coquille River	maximumDischarge	1384.6937983977
+North Fork American River	maximumDischarge	3256.437358195
+North Fork Payette River	maximumDischarge	250.03775541619
+Shule River	maximumDischarge	2968.0
+White River (California)	maximumDischarge	78.15449659668
+Pawnee River	maximumDischarge	461.5645994659
+Big Lost River	maximumDischarge	70.7921164825
+Little Lost River	maximumDischarge	14.413274915837
+Chino Creek	maximumDischarge	359.6239517311
+North Fork Kings River	maximumDischarge	775.8815966482
+Đuống River	maximumDischarge	9000.0
+Hayfork Creek	maximumDischarge	832.5152898342
+North Fork Trinity River	maximumDischarge	1013.7431080294
+South Fork Kings River	maximumDischarge	393.6041676427
+White River (British Columbia)	maximumDischarge	103.0
+Lee Vining Creek	maximumDischarge	16.70693948987
+Big Tujunga Creek	maximumDischarge	1415.84232965
+Copper Creek (California)	maximumDischarge	356.7922670718
+Green River (North Fork Toutle River)	maximumDischarge	410.5942755985
+Big Sandy Creek (Cheat River)	maximumDischarge	26.362984178083
+Rock Creek (Clear Creek)	maximumDischarge	13.280601052117
+Rock Creek (Medicine Bow River)	maximumDischarge	13.280601052117
+Thompson River (Missouri)	maximumDischarge	2690.100426335
+Sachigo River	maximumDischarge	191.53
+Loire (river)	maximumDischarge	4150.0
+Arroyo Seco (Salinas River)	maximumDischarge	801.3667585819
+San Antonio Creek (San Bernardino County)	maximumDischarge	96.84361534806
+New Fork River	maximumDischarge	260.23182018967
+Ohanapecosh River	maximumDischarge	212.3763494475

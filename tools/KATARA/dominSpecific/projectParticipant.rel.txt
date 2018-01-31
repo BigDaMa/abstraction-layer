@@ -1,0 +1,231 @@
+SUPER	projectParticipant	IDS Scheer
+SUPER	projectParticipant	University of Innsbruck
+SUPER	projectParticipant	National University of Ireland, Galway
+SUPER	projectParticipant	Ontotext
+SUPER	projectParticipant	Open University
+SUPER	projectParticipant	Poznań University of Economics
+SUPER	projectParticipant	Eindhoven University of Technology
+SUPER	projectParticipant	University of Stuttgart
+SUPER	projectParticipant	SAP AG
+DAIDALOS	projectParticipant	Deutsche Telekom
+BEinGRID	projectParticipant	BT Group
+BEinGRID	projectParticipant	EPCC
+BEinGRID	projectParticipant	Logica
+BEinGRID	projectParticipant	Netherlands Organisation for Applied Scientific Research
+BEinGRID	projectParticipant	TXT e-solutions
+BEinGRID	projectParticipant	Atos
+SALERO	projectParticipant	Joanneum Research
+SALERO	projectParticipant	Corporació Catalana de Mitjans Audiovisuals
+SALERO	projectParticipant	Blitz Games
+SALERO	projectParticipant	Pompeu Fabra University
+SALERO	projectParticipant	Ramon Llull University
+SALERO	projectParticipant	Dublin Institute of Technology
+SALERO	projectParticipant	Aalto University School of Art and Design
+SALERO	projectParticipant	University of Glasgow
+SALERO	projectParticipant	University of Innsbruck
+SALERO	projectParticipant	Pompeu Fabra University
+Eurogentest	projectParticipant	Katholieke Universiteit Leuven
+Coconut (project)	projectParticipant	CERTESS S.A.
+Coconut (project)	projectParticipant	AeriLogic
+Coconut (project)	projectParticipant	University of Southampton
+Coconut (project)	projectParticipant	Certess
+Coconut (project)	projectParticipant	University of Paderborn
+Coconut (project)	projectParticipant	Graz University of Technology
+Coconut (project)	projectParticipant	Fondazione Bruno Kessler
+Coconut (project)	projectParticipant	CEA Leti
+Coconut (project)	projectParticipant	University of Verona
+Access-eGov	projectParticipant	University of Regensburg
+Access-eGov	projectParticipant	German University in Cairo
+Access-eGov	projectParticipant	Košice Self-governing Region
+Access-eGov	projectParticipant	Michalovce
+Access-eGov	projectParticipant	Gliwice
+Access-eGov	projectParticipant	Schleswig-Holstein
+Access-eGov	projectParticipant	Technical University of Košice
+InnoMed PredTox	projectParticipant	Bayer Schering Pharma
+InnoMed PredTox	projectParticipant	Boehringer Ingelheim
+InnoMed PredTox	projectParticipant	Johnson & Johnson Pharmaceutical Research and Development
+InnoMed PredTox	projectParticipant	Eli Lilly and Company
+InnoMed PredTox	projectParticipant	Merck Serono
+InnoMed PredTox	projectParticipant	Novartis
+InnoMed PredTox	projectParticipant	Novo Nordisk
+InnoMed PredTox	projectParticipant	Nycomed
+InnoMed PredTox	projectParticipant	Hoffmann–La Roche
+InnoMed PredTox	projectParticipant	Sanofi
+InnoMed PredTox	projectParticipant	Schering-Plough
+InnoMed PredTox	projectParticipant	Servier
+InnoMed PredTox	projectParticipant	University of Würzburg
+InnoMed PredTox	projectParticipant	University College Dublin
+InnoMed PredTox	projectParticipant	Hacettepe University
+InnoMed PredTox	projectParticipant	Bio-Rad Laboratories
+InnoMed PredTox	projectParticipant	Genedata
+InnoMed PredTox	projectParticipant	European Federation of Pharmaceutical Industries and Associations
+SOA4All	projectParticipant	BT Group
+SOA4All	projectParticipant	Open University
+SOA4All	projectParticipant	SAP AG
+SOA4All	projectParticipant	University of Innsbruck
+SOA4All	projectParticipant	National Institute for Research in Computer Science and Control
+SOA4All	projectParticipant	Karlsruhe Institute of Technology
+SOA4All	projectParticipant	University of Manchester
+SOA4All	projectParticipant	Seekda
+SOA4All	projectParticipant	University of Seville
+SOA4All	projectParticipant	Atos
+SeCSE	projectParticipant	Politecnico di Milano
+SeCSE	projectParticipant	Fiat
+SeCSE	projectParticipant	City University London
+SeCSE	projectParticipant	CA Technologies
+SeCSE	projectParticipant	Daimler AG
+SeCSE	projectParticipant	Microsoft
+SeCSE	projectParticipant	Lancaster University
+SeCSE	projectParticipant	Atos
+SeCSE	projectParticipant	Telecom Italia
+SeCSE	projectParticipant	Telefónica
+SeCSE	projectParticipant	University of Sannio
+SeCSE	projectParticipant	MIP Politecnico di Milano
+SeCSE	projectParticipant	National and Kapodistrian University of Athens
+SeCSE	projectParticipant	Foreca
+Fuel Cells and Hydrogen Joint Technology Initiative	projectParticipant	European Commission
+EMANICS	projectParticipant	University of Twente
+EMANICS	projectParticipant	Imperial College London
+EMANICS	projectParticipant	Jacobs University Bremen
+EMANICS	projectParticipant	Royal Institute of Technology
+EMANICS	projectParticipant	Oslo University College
+EMANICS	projectParticipant	Polytechnic University of Catalonia
+EMANICS	projectParticipant	Bundeswehr University Munich
+EMANICS	projectParticipant	Poznań
+EMANICS	projectParticipant	University of Zurich
+EMANICS	projectParticipant	Ludwig Maximilian University of Munich
+EMANICS	projectParticipant	University College London
+EMANICS	projectParticipant	Pitești
+EMANICS	projectParticipant	National Institute for Research in Computer Science and Control
+AssessGrid	projectParticipant	Åbo Akademi University
+AssessGrid	projectParticipant	University of Leeds
+AssessGrid	projectParticipant	University of Paderborn
+AssessGrid	projectParticipant	Wincor Nixdorf
+Large Knowledge Collider	projectParticipant	AstraZeneca
+Large Knowledge Collider	projectParticipant	University of Stuttgart
+Large Knowledge Collider	projectParticipant	Max Planck Institute for Human Development
+Large Knowledge Collider	projectParticipant	Siemens
+Large Knowledge Collider	projectParticipant	University of Sheffield
+Large Knowledge Collider	projectParticipant	Vrije Universiteit
+Large Knowledge Collider	projectParticipant	International Agency for Research on Cancer
+Large Knowledge Collider	projectParticipant	Information Retrieval Facility
+Large Knowledge Collider	projectParticipant	Ontotext
+Large Knowledge Collider	projectParticipant	University of Innsbruck
+TREAT-NMD	projectParticipant	Leiden University Muscular Center
+TREAT-NMD	projectParticipant	Imperial College London
+TREAT-NMD	projectParticipant	University of Basel
+TREAT-NMD	projectParticipant	Karolinska Institutet
+TREAT-NMD	projectParticipant	King's College London
+TREAT-NMD	projectParticipant	University of Helsinki
+TREAT-NMD	projectParticipant	Université catholique de Louvain
+TREAT-NMD	projectParticipant	Autonomous University of Barcelona
+TREAT-NMD	projectParticipant	Institut National de la Santé et de Recherche medical
+TREAT-NMD	projectParticipant	Muskeldystrophie Netzwerk e.V.
+TREAT-NMD	projectParticipant	Fodor Jozsef National Center for Public Health
+TREAT-NMD	projectParticipant	European Neuromuscular Center
+TREAT-NMD	projectParticipant	VASTox PLC
+TREAT-NMD	projectParticipant	Association Française contre les Myopathies, Genethon, Institut de Myologie
+TREAT-NMD	projectParticipant	European Organisation for Rare Diseases
+TREAT-NMD	projectParticipant	Santhera Pharmaceuticals (Switzerland) LTD Liab.Co
+TREAT-NMD	projectParticipant	Medical Research Council (UK)
+TREAT-NMD	projectParticipant	Fondazione Telethon
+TREAT-NMD	projectParticipant	GenoSafe SAS
+TREAT-NMD	projectParticipant	ACIES
+TREAT-NMD	projectParticipant	Newcastle University
+S-Cube	projectParticipant	Tilburg University
+S-Cube	projectParticipant	City University London
+S-Cube	projectParticipant	Consiglio Nazionale delle Ricerche
+S-Cube	projectParticipant	National Institute for Research in Computer Science and Control
+S-Cube	projectParticipant	Politecnico di Milano
+S-Cube	projectParticipant	University of Limerick
+S-Cube	projectParticipant	Vienna University of Technology
+S-Cube	projectParticipant	Claude Bernard University Lyon 1
+S-Cube	projectParticipant	University of Crete
+S-Cube	projectParticipant	Technical University of Madrid
+S-Cube	projectParticipant	University of Stuttgart
+S-Cube	projectParticipant	University of Hamburg
+S-Cube	projectParticipant	Vrije Universiteit
+S-Cube	projectParticipant	University of Duisburg-Essen
+MCiudad	projectParticipant	Alcatel-Lucent
+MCiudad	projectParticipant	Deutsches Forschungzentrum für Künstliche Intelligenz
+MCiudad	projectParticipant	Forschungzentrum Telekommunikation Wien
+MCiudad	projectParticipant	Telefónica
+MCiudad	projectParticipant	University of Surrey
+MCiudad	projectParticipant	VTT Technical Research Centre of Finland
+MCiudad	projectParticipant	YDREAMS Informática
+MCiudad	projectParticipant	Tecnalia-Robotiker
+USEM	projectParticipant	European Committee for Standardization
+SecureChange	projectParticipant	Budapest University of Technology and Economics
+SecureChange	projectParticipant	Gemalto
+SecureChange	projectParticipant	National Institute for Research in Computer Science and Control
+SecureChange	projectParticipant	Katholieke Universiteit Leuven
+SecureChange	projectParticipant	Open University
+SecureChange	projectParticipant	SINTEF
+SecureChange	projectParticipant	Thales Group
+SecureChange	projectParticipant	Telefónica
+SecureChange	projectParticipant	University of Innsbruck
+SecureChange	projectParticipant	Dortmund University of Technology
+SecureChange	projectParticipant	University of Trento
+TTC Project	projectParticipant	University of Stuttgart
+TTC Project	projectParticipant	University of Leeds
+TTC Project	projectParticipant	University of Nantes
+DARIAH	projectParticipant	Archaeology Data Service
+DARIAH	projectParticipant	Academy of Athens (modern)
+DARIAH	projectParticipant	French National Centre for Scientific Research
+DARIAH	projectParticipant	European University – Cyprus
+DARIAH	projectParticipant	Göttingen State and University Library
+DARIAH	projectParticipant	Ruđer Bošković Institute
+EGovMoNet	projectParticipant	Deloitte
+EGovMoNet	projectParticipant	Copenhagen Business School
+EGovMoNet	projectParticipant	Aalborg University
+EGovMoNet	projectParticipant	Technical University of Košice
+EGovMoNet	projectParticipant	University of Maribor
+EGovMoNet	projectParticipant	Manchester Metropolitan University
+EGovMoNet	projectParticipant	University of Manchester
+EGovMoNet	projectParticipant	Capgemini
+EGovMoNet	projectParticipant	Ghent University
+EGovMoNet	projectParticipant	University of Camerino
+EGovMoNet	projectParticipant	University of Agder
+PRoVisG	projectParticipant	Aberystwyth University
+PRoVisG	projectParticipant	German Aerospace Center
+PRoVisG	projectParticipant	Czech Technical University in Prague
+PRoVisG	projectParticipant	SciSys
+PRoVisG	projectParticipant	Astrium
+PRoVisG	projectParticipant	Berlin Institute of Technology
+PRoVisG	projectParticipant	University College London
+PRoVisG	projectParticipant	Ohio State University
+PRoVisG	projectParticipant	University of Surrey
+PRoVisG	projectParticipant	CSEM
+PRoVisG	projectParticipant	CNES
+PRoVisG	projectParticipant	Joanneum Research
+SmoothIT project	projectParticipant	NTT DoCoMo
+SmoothIT project	projectParticipant	Darmstadt University of Technology
+SmoothIT project	projectParticipant	Athens University of Economics and Business
+SmoothIT project	projectParticipant	PrimeTel
+SmoothIT project	projectParticipant	AGH University of Science and Technology
+SmoothIT project	projectParticipant	Intracom
+SmoothIT project	projectParticipant	Telefónica
+SmoothIT project	projectParticipant	University of Zurich
+EternalS Project	projectParticipant	Chalmers University of Technology
+EternalS Project	projectParticipant	National Institute for Research in Computer Science and Control
+EternalS Project	projectParticipant	Katholieke Universiteit Leuven
+EternalS Project	projectParticipant	Queen Mary, University of London
+EternalS Project	projectParticipant	Waterford Institute of Technology
+EternalS Project	projectParticipant	University of Trento
+Patent Language Translations Online	projectParticipant	Information Retrieval Facility
+Patent Language Translations Online	projectParticipant	Dublin City University
+FINNOV	projectParticipant	Open University
+FINNOV	projectParticipant	University of Cambridge
+FINNOV	projectParticipant	Sant'Anna School of Advanced Studies
+FINNOV	projectParticipant	Marche Polytechnic University
+FINNOV	projectParticipant	CERGE-EI
+FINNOV	projectParticipant	University of Bordeaux
+FINNOV	projectParticipant	University of Sussex
+FINNOV	projectParticipant	Mariana Mazzucato
+CyberEmotions	projectParticipant	Warsaw University of Technology
+CyberEmotions	projectParticipant	École Polytechnique Fédérale de Lausanne
+CyberEmotions	projectParticipant	University of Wolverhampton
+CyberEmotions	projectParticipant	ETH Zurich
+CyberEmotions	projectParticipant	Jožef Stefan Institute
+CyberEmotions	projectParticipant	Jacobs University Bremen
+CyberEmotions	projectParticipant	Berlin Institute of Technology

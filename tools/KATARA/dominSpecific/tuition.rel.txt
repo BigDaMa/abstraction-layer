@@ -1,0 +1,711 @@
+Institut Le Rosey	tuition	106000.0
+Phillips Exeter Academy	tuition	41800.0
+The Bush School	tuition	18050.0
+University of Toronto Schools	tuition	18300.0
+Miss Porter's School	tuition	45100.0
+Miss Porter's School	tuition	35450.0
+Milton Academy	tuition	45720.0
+Milton Academy	tuition	37530.0
+Jesuit High School (New Orleans)	tuition	7000.0
+Brownell-Talbot School	tuition	3400.0
+Malvern Preparatory School	tuition	23550.0
+Seattle Preparatory School	tuition	15000.0
+Sacred Hearts Academy	tuition	11000.0
+Rockhurst High School	tuition	10000.0
+Archbishop Molloy High School	tuition	7680.0
+St. Mary's Preparatory	tuition	9800.0
+Dalton School	tuition	33100.0
+Holy Names Academy	tuition	12396.0
+Harpeth Hall School	tuition	21125.0
+Pingry School	tuition	26750.0
+Bellarmine College Preparatory	tuition	13800.0
+St. Louis University High School	tuition	11750.0
+St. Louis University High School	tuition	12625.0
+Little Red School House	tuition	31000.0
+Gonzaga College High School	tuition	17000.0
+Harker School	tuition	25060.0
+Shrine Catholic High School	tuition	7850.0
+Mater Dei High School (Santa Ana, California)	tuition	10725.0
+Friends Seminary	tuition	32870.0
+Proctor Academy	tuition	41300.0
+Kellenberg Memorial High School	tuition	7400.0
+Marin Catholic High School	tuition	15500.0
+Walsh Jesuit High School	tuition	9200.0
+Hopkins School	tuition	31000.0
+Chaminade College Preparatory School (Missouri)	tuition	15195.0
+Saint Francis High School (La Cañada Flintridge)	tuition	11800.0
+Durham Academy	tuition	12080.0
+Elder High School	tuition	7550.0
+Loyola Blakefield	tuition	16075.0
+St. Ignatius College Prep	tuition	12980.0
+Don Bosco Technical Institute	tuition	9900.0
+Christian Brothers Academy (DeWitt, New York)	tuition	8185.0
+Christian Brothers Academy (DeWitt, New York)	tuition	7855.0
+Detroit Catholic Central High School	tuition	9400.0
+Kodaikanal International School	tuition	6.0
+Kodaikanal International School	tuition	7.0
+Browning School	tuition	33895.0
+Villanova Preparatory School	tuition	13900.0
+Bishop Feehan High School	tuition	8500.0
+Central Catholic High School (Pittsburgh, Pennsylvania)	tuition	7800.0
+Salesianum School	tuition	11475.0
+St. Xavier High School (Cincinnati)	tuition	10970.0
+Jesuit High School (Sacramento)	tuition	11510.0
+St. Augustine High School (San Diego, California)	tuition	13.0
+The Academy of Our Lady of Peace	tuition	10720.0
+Seton Hall Preparatory School	tuition	11150.0
+Brooks School	tuition	44370.0
+Brooks School	tuition	33060.0
+Saint Charles Preparatory School	tuition	7190.0
+Saint Joseph Academy (Brownsville, Texas)	tuition	8382.0
+Bullis School	tuition	28775.0
+Bullis School	tuition	30675.0
+Bullis School	tuition	31925.0
+Bullis School	tuition	32025.0
+Notre Dame High School (San Jose, California)	tuition	14250.0
+St. Joseph's Collegiate Institute	tuition	9540.0
+Canterbury School (Connecticut)	tuition	44500.0
+Archbishop Williams High School	tuition	10300.0
+Jesuit High School (Tampa)	tuition	12000.0
+Bishop O'Dowd High School	tuition	13840.0
+Bergen Catholic High School	tuition	12825.0
+Fenwick High School (Oak Park, Illinois)	tuition	12150.0
+Pope John XXIII Regional High School	tuition	14000.0
+Cary Academy	tuition	18300.0
+Notre Dame High School (Sherman Oaks, California)	tuition	10700.0
+Lake Forest High School (Illinois)	tuition	24611.0
+Boylan Catholic High School	tuition	5100.0
+Bishop Dwenger High School	tuition	4355.0
+Junípero Serra High School (San Mateo, California)	tuition	15540.0
+Academy of Holy Angels	tuition	11260.0
+Brooklyn Friends School	tuition	30950.0
+American Hebrew Academy	tuition	14910.0
+American Hebrew Academy	tuition	27660.0
+Fordham Preparatory School	tuition	400.0
+Carmel High School (Mundelein, Illinois)	tuition	9100.0
+Bishop Maginn High School	tuition	6000.0
+Saint Sebastian's School	tuition	30450.0
+Roman Catholic High School (Philadelphia)	tuition	5100.0
+Salisbury School	tuition	43950.0
+St. Pius X Catholic High School (DeKalb County, Georgia)	tuition	10800.0
+McDonogh School	tuition	21000.0
+Our Lady of Providence Junior-Senior High School	tuition	4275.0
+Morgan Park Academy	tuition	9530.0
+Sacred Heart Academy (Hamden, Connecticut)	tuition	10600.0
+ACS International Schools	tuition	4000.0
+St. Thomas Aquinas High School (Fort Lauderdale, Florida)	tuition	9500.0
+St. Thomas Aquinas High School (Fort Lauderdale, Florida)	tuition	7600.0
+St. Peter's Preparatory School	tuition	11500.0
+La Salle Academy	tuition	7250.0
+Mater Dei High School (Breese, Illinois)	tuition	3798.0
+Regis High School (New York City)	tuition	0.0
+Crespi Carmelite High School	tuition	12000.0
+Sacred Heart High School (Kingston, Massachusetts)	tuition	11700.0
+Mount Carmel High School (Chicago)	tuition	8250.0
+Notre Dame High School (Belmont, California)	tuition	16650.0
+Greenwich Country Day School	tuition	21200.0
+Paramus Catholic High School	tuition	7800.0
+Moeller High School	tuition	10190.0
+Archbishop Wood Catholic High School	tuition	5100.0
+Sacred Heart Cathedral Preparatory	tuition	12800.0
+International School of Islamabad	tuition	3900.0
+Gann Academy	tuition	24650.0
+St. Francis Preparatory School	tuition	7250.0
+Ursuline Academy (Delaware)	tuition	5200.0
+Quincy Notre Dame High School	tuition	4395.0
+Presentation High School	tuition	13375.0
+Dowling Catholic High School	tuition	5576.0
+Dowling Catholic High School	tuition	7796.0
+Divine Savior Holy Angels High School	tuition	9965.0
+Brother Rice High School (Chicago, Illinois)	tuition	8650.0
+St. Francis High School (Wheaton, Illinois)	tuition	8725.0
+Our Lady of Good Counsel High School (Montgomery County, Maryland)	tuition	15990.0
+Holy Ghost Preparatory School	tuition	15400.0
+Cardinal Hayes High School	tuition	5900.0
+Chaminade College Preparatory School (California)	tuition	10600.0
+Archbishop Curley High School	tuition	10300.0
+Covington Latin School	tuition	6600.0
+Bishop Eustace Preparatory School	tuition	14900.0
+Menlo School	tuition	33600.0
+Cardinal O'Hara High School	tuition	5130.0
+Cardinal Spellman High School (Brockton, Massachusetts)	tuition	8900.0
+Institute of Notre Dame	tuition	12225.0
+Marvelwood School	tuition	43000.0
+Woodside Priory School	tuition	32500.0
+Woodside Priory School	tuition	46500.0
+Saint Francis High School (Mountain View)	tuition	13000.0
+Delbarton School	tuition	26975.0
+Chapin School (Manhattan)	tuition	33400.0
+Immaculata High School (New Jersey)	tuition	8100.0
+Aquinas Institute	tuition	7200.0
+Santa Margarita Catholic High School	tuition	10400.0
+Cascia Hall Preparatory School	tuition	10875.0
+Purcell Marian High School	tuition	7995.0
+Cary Christian School	tuition	5600.0
+St. Joseph's High School (South Bend, Indiana)	tuition	5000.0
+Salesian High School (Los Angeles, California)	tuition	5400.0
+St. Joseph High School (Metuchen, New Jersey)	tuition	10900.0
+St. Anthony's High School (New York)	tuition	8500.0
+Notre Dame High School (Chattanooga, Tennessee)	tuition	7407.0
+Notre Dame High School (Chattanooga, Tennessee)	tuition	9999.0
+Xaverian High School	tuition	10600.0
+Cathedral High School (Los Angeles)	tuition	16555.0
+Georgetown Preparatory School	tuition	48160.0
+Georgetown Preparatory School	tuition	28215.0
+Georgetown Preparatory School	tuition	6360.0
+Mount Saint Joseph College	tuition	11500.0
+Eastside Catholic School	tuition	17260.0
+Servite High School	tuition	12100.0
+Reitz Memorial High School	tuition	4200.0
+Ursuline Academy of Dallas	tuition	15000.0
+Joliet Catholic Academy	tuition	7900.0
+Holy Cross High School (New Jersey)	tuition	8200.0
+Lancaster Catholic High School	tuition	1250.0
+La Salle College High School	tuition	17900.0
+Mount Michael Benedictine Abbey and High School	tuition	8480.0
+Marymount High School	tuition	25600.0
+Malden Catholic High School	tuition	11250.0
+Summit Country Day School	tuition	3650.0
+Summit Country Day School	tuition	18200.0
+American Embassy School	tuition	19020.0
+Little Flower Catholic High School for Girls	tuition	4860.0
+St. Viator High School	tuition	9400.0
+Marian Catholic High School	tuition	8650.0
+Cathedral Preparatory School	tuition	6010.0
+St. Agnes Boys High School	tuition	6250.0
+Padua Academy	tuition	8580.0
+Notre Dame High School (West Haven, Connecticut)	tuition	10200.0
+Cardinal Stritch High School	tuition	7900.0
+Holy Spirit High School (New Jersey)	tuition	7900.0
+Queen of Peace High School (Illinois)	tuition	8750.0
+Peoria Notre Dame High School	tuition	4230.0
+Cretin-Derham Hall High School	tuition	10000.0
+St. Thomas High School (Houston, Texas)	tuition	12300.0
+Oak Knoll School of the Holy Child	tuition	22900.0
+Oak Knoll School of the Holy Child	tuition	27600.0
+Providence Catholic High School	tuition	8183.0
+Bishop Amat Memorial High School	tuition	6435.0
+Notre Dame Academy (Toledo, Ohio)	tuition	8830.0
+Padua Franciscan High School	tuition	8750.0
+St. Elizabeth High School (Wilmington, Delaware)	tuition	8540.0
+St. Mark's High School	tuition	9196.0
+Stuart Country Day School	tuition	10000.0
+Stuart Country Day School	tuition	18700.0
+Stuart Country Day School	tuition	23775.0
+Stuart Country Day School	tuition	24545.0
+Stuart Country Day School	tuition	26915.0
+Stuart Country Day School	tuition	29165.0
+Westchester Country Day School	tuition	13125.0
+St. David's School (Raleigh, North Carolina)	tuition	18500.0
+St. David's School (Raleigh, North Carolina)	tuition	15900.0
+Justin-Siena High School	tuition	11200.0
+Bishop Timon – St. Jude High School	tuition	7300.0
+Fontbonne Academy	tuition	13125.0
+Walnut Hill School	tuition	44125.0
+St. Bede Academy	tuition	4450.0
+Mercy High School (San Francisco)	tuition	12500.0
+H. H. Ellis Technical High School	tuition	0.0
+Cardinal Spellman High School (New York City)	tuition	6500.0
+Saint Joseph Academy (Cleveland, Ohio)	tuition	9200.0
+St. Edward High School (Lakewood, Ohio)	tuition	11400.0
+Duke School (Durham, North Carolina)	tuition	9626.0
+Holy Cross High School, New Orleans	tuition	8000.0
+Holy Trinity High School (Chicago)	tuition	6750.0
+Notre Dame College Prep	tuition	9300.0
+St. Edmond's Academy	tuition	12587.0
+Cardinal Newman High School (Santa Rosa, California)	tuition	11480.0
+Miami Valley Christian Academy	tuition	7500.0
+St. Luke's School (Connecticut)	tuition	30800.0
+Pensacola Catholic High School	tuition	6000.0
+Pensacola Catholic High School	tuition	4572.0
+Nativity of Our Lord Catholic School	tuition	3995.0
+Ursuline Academy (Cincinnati, Ohio)	tuition	10800.0
+Leo Catholic High School	tuition	6150.0
+Saint Dominic Academy	tuition	7100.0
+Christian Brothers Academy (New Jersey)	tuition	12500.0
+Saint Francis Central Coast Catholic High School	tuition	9000.0
+Austin Preparatory School	tuition	14300.0
+Mount St. Mary Academy	tuition	16100.0
+Immaculate Heart High School (Los Angeles)	tuition	9800.0
+Our Lady of Mercy High School (New York)	tuition	7900.0
+St. Augustine College Preparatory School	tuition	12650.0
+Webb School of Knoxville	tuition	12700.0
+Webb School of Knoxville	tuition	14620.0
+Our Lady of Mercy Academy (New York)	tuition	7400.0
+Saint Lawrence Academy	tuition	12175.0
+Father Stephen T. Badin High School	tuition	7100.0
+Father Stephen T. Badin High School	tuition	7300.0
+St. Joseph High School (Connecticut)	tuition	11350.0
+Holyoke Catholic High School	tuition	5800.0
+Miss Hall's School	tuition	44350.0
+Archbishop Ryan High School	tuition	5350.0
+St. Joseph High School (Westchester, Illinois)	tuition	7450.0
+St. Stephen's Episcopal School (Austin, Texas)	tuition	20870.0
+Prout School	tuition	11500.0
+Church Farm School	tuition	25000.0
+Saint Francis High School (Athol Springs)	tuition	8385.0
+The Highland School	tuition	2318.0
+The Highland School	tuition	13950.0
+Saint Benedict at Auburndale	tuition	7750.0
+St. Mary's Ryken High School	tuition	11300.0
+Slinger High School	tuition	75.0
+Xavier College Preparatory (Arizona)	tuition	15016.0
+Bishop Moore High School	tuition	10000.0
+St. Patrick High School (Chicago)	tuition	8100.0
+Camden Catholic High School	tuition	6890.0
+Gordon Tech High School	tuition	8250.0
+Seven Hills School (Cincinnati, Ohio)	tuition	5500.0
+Nardin Academy	tuition	8665.0
+Archbishop Hannan High School	tuition	6800.0
+Juan Diego Catholic High School	tuition	9231.0
+Juan Diego Catholic High School    1	tuition	9231.0
+Pope John XXIII Central Catholic High School	tuition	2200.0
+Damien High School	tuition	6900.0
+Notre Dame-Cathedral Latin School	tuition	9200.0
+Lumen Christi Catholic High School	tuition	5775.0
+Iona Preparatory School	tuition	12850.0
+Mount Carmel Christian School	tuition	3700.0
+Mother Cabrini High School	tuition	7490.0
+Hudson Catholic Regional High School	tuition	7950.0
+Bishop Lynch High School	tuition	10400.0
+Lowell Catholic High School	tuition	8100.0
+Central Catholic High School (Lawrence, Massachusetts)	tuition	10250.0
+Catholic High School (Baton Rouge, Louisiana)	tuition	7205.0
+Beaver Country Day School	tuition	35005.0
+Towson Catholic High School	tuition	9500.0
+Dominican Academy	tuition	10500.0
+The John Carroll School	tuition	13300.0
+Salesian High School (New Rochelle, New York)	tuition	6025.0
+Bishop Kenny High School	tuition	6550.0
+Marin Country Day School	tuition	500.0
+Magnificat High School	tuition	10300.0
+Cristo Rey Jesuit High School (Chicago)	tuition	2800.0
+Beaumont School (Ohio)	tuition	10700.0
+Elyria Catholic High School (Elyria, Ohio)	tuition	6500.0
+Eleanor Gerson School	tuition	140.0
+Eleanor Gerson School	tuition	25200.0
+Temple Christian School (Lima, Ohio)	tuition	3025.0
+Bishop Hartley High School (Columbus, Ohio)	tuition	6725.0
+Tree of Life Christian Schools	tuition	6200.0
+Scranton Preparatory School	tuition	10200.0
+Collegiate School (Richmond, Virginia)	tuition	16870.0
+De La Salle Institute	tuition	9550.0
+St. Laurence High School	tuition	7975.0
+Archbishop Prendergast High School	tuition	4860.0
+Providence High School (San Antonio)	tuition	7540.0
+The Highlands School	tuition	11100.0
+St. John's High School (Massachusetts)	tuition	10850.0
+La Salle Institute	tuition	6860.0
+Bishop Dunne Catholic School	tuition	7500.0
+Marianapolis Preparatory School	tuition	11270.0
+Marianapolis Preparatory School	tuition	35200.0
+Bethlehem Catholic High School	tuition	6600.0
+Seton-La Salle Catholic High School	tuition	7045.0
+Redeemer-Seton High School	tuition	4500.0
+Seton Catholic Central High School	tuition	5150.0
+Convent of the Sacred Heart (New York)	tuition	17530.0
+Convent of the Sacred Heart (New York)	tuition	23070.0
+Loretto High School	tuition	15000.0
+Palma High School	tuition	10504.0
+De La Salle High School (New Orleans, Louisiana)	tuition	7225.0
+Mount Carmel Academy (Louisiana)	tuition	6915.0
+St. Thomas Aquinas High School (Dover, New Hampshire)	tuition	9735.0
+Bishop Ryan High School	tuition	3095.0
+Notre Dame Academy (Green Bay, Wisconsin)	tuition	4600.0
+Mater Dei High School (New Jersey)	tuition	9250.0
+Grand River Academy	tuition	32300.0
+Mace-Kingsley Ranch School	tuition	30000.0
+St. Pius X High School (Houston, Texas)	tuition	10800.0
+Devon Preparatory School	tuition	16700.0
+Devon Preparatory School	tuition	15700.0
+Bishop Brady High School	tuition	8250.0
+Albertus Magnus High School	tuition	8300.0
+West Philadelphia Catholic High School	tuition	5500.0
+Our Lady of the Desert School	tuition	2000.0
+Our Lady of the Desert School	tuition	2250.0
+Our Lady of the Desert School	tuition	2500.0
+Bishop Luers High School	tuition	4175.0
+Sandia Preparatory School	tuition	16450.0
+Bishop McDevitt High School (Harrisburg, Pennsylvania)	tuition	4425.0
+Charles E. Smith Jewish Day School	tuition	25040.0
+Sacred Heart-Griffin High School	tuition	6375.0
+Bishop McGann-Mercy Diocesan High School	tuition	7375.0
+St. Anthony High School (California)	tuition	8800.0
+St. Anthony High School (California)	tuition	5800.0
+St. Viator School (Las Vegas, Nevada)	tuition	600.0
+Mercy High School (Burlingame, California)	tuition	15325.0
+Helias High School	tuition	3400.0
+Mother McAuley Liberal Arts High School	tuition	7950.0
+Santa Clara High School (Oxnard, California)	tuition	6972.0
+Marist High School (Chicago, Illinois)	tuition	9350.0
+Trinity High School (Camp Hill, Pennsylvania)	tuition	5300.0
+McAuley High School (Cincinnati, Ohio)	tuition	8250.0
+Mother of Mercy High School (Cincinnati, Ohio)	tuition	7750.0
+Stella Maris High School	tuition	7100.0
+St. Ambrose Academy	tuition	4900.0
+Marion Catholic High School (Ohio)	tuition	4000.0
+Bourgade Catholic High School	tuition	9100.0
+American Community School at Beirut	tuition	10000.0
+Bishop Shanahan High School	tuition	5750.0
+Birla Balika Vidyapeeth	tuition	111700.0
+Seton High School (Manassas, Virginia)	tuition	5200.0
+Academy of Mount St. Ursula High School	tuition	6300.0
+St. Bonaventure High School	tuition	6460.0
+Garrison Forest School	tuition	4650.0
+Garrison Forest School	tuition	6800.0
+Garrison Forest School	tuition	10505.0
+Garrison Forest School	tuition	21720.0
+Garrison Forest School	tuition	22050.0
+St. Brendan High School	tuition	7250.0
+St. Joseph's Academy (Baton Rouge)	tuition	9185.0
+De Smet Jesuit High School	tuition	10440.0
+MMI Preparatory School	tuition	12250.0
+Flintridge Sacred Heart Academy	tuition	18700.0
+Flintridge Sacred Heart Academy	tuition	40700.0
+Montini Catholic High School (Lombard, Illinois)	tuition	9175.0
+St. Joseph High School (Lakewood, California)	tuition	7007.0
+American Heritage School (Plantation, Florida)	tuition	27303.0
+Verbum Dei High School	tuition	2500.0
+La Reina High School	tuition	9950.0
+Quigley Catholic High School	tuition	7800.0
+Loyola College Prep	tuition	6775.0
+Woodlands Academy of the Sacred Heart	tuition	21400.0
+Woodlands Academy of the Sacred Heart	tuition	40150.0
+Saint Monica Catholic High School	tuition	6900.0
+Bishop Connolly High School	tuition	7600.0
+Bishop Alemany High School	tuition	7635.0
+Trinity Academy of Raleigh	tuition	11497.0
+Trinity Academy of Raleigh	tuition	10497.0
+Trinity Academy of Raleigh	tuition	9997.0
+Bishop Conaty-Our Lady of Loretto High School	tuition	5885.0
+Marist High School (New Jersey)	tuition	6600.0
+St. Mary's Academy (Inglewood, California)	tuition	7200.0
+Trinity Catholic High School (Florida)	tuition	9000.0
+Trinity Catholic High School (Massachusetts)	tuition	8550.0
+Presentation of Mary Academy	tuition	8500.0
+St. Philip Catholic Central High School	tuition	5564.0
+John Carroll Catholic High School (Fort Pierce, Florida)	tuition	6780.0
+St. Mary's Academy (New Orleans, Louisiana)	tuition	4000.0
+St. Mary's Academy (New Orleans, Louisiana)	tuition	3750.0
+St. Mary's Academy (New Orleans, Louisiana)	tuition	4120.0
+St. Mary's Academy (New Orleans, Louisiana)	tuition	5000.0
+St. Mary's Academy (New Orleans, Louisiana)	tuition	6000.0
+Nazareth Academy (La Grange Park, Illinois)	tuition	9100.0
+Rosati-Kain High School	tuition	7150.0
+Roncalli High School (Indiana)	tuition	7275.0
+Roncalli High School (Indiana)	tuition	12190.0
+Roncalli High School (Indiana)	tuition	14300.0
+Friends Academy	tuition	25000.0
+Paterson Catholic High School	tuition	6200.0
+Francis W. Parker School (Chicago)	tuition	25780.0
+Oakland Catholic High School	tuition	9600.0
+Bishop Loughlin Memorial High School	tuition	7550.0
+Holy Name High School (Reading, Pennsylvania)	tuition	6000.0
+Archbishop Spalding High School	tuition	12695.0
+Villa Walsh Academy	tuition	14700.0
+O'Gorman Catholic High School (Sioux Falls, South Dakota)	tuition	3460.0
+Paul VI Catholic High School	tuition	9740.0
+Holy Trinity Catholic High School (Texas)	tuition	7147.0
+Catholic Central High School (Troy, New York)	tuition	5650.0
+Elk County Catholic High School	tuition	3645.0
+San Domenico School	tuition	9975.0
+San Domenico School	tuition	18600.0
+San Domenico School	tuition	21000.0
+San Domenico School	tuition	21750.0
+San Domenico School	tuition	22500.0
+San Domenico School	tuition	29950.0
+San Domenico School	tuition	42800.0
+Cornelia Connelly High School	tuition	11950.0
+Wesleyan School	tuition	13915.0
+Wesleyan School	tuition	14885.0
+Wesleyan School	tuition	16050.0
+Sacred Heart High School (Missouri)	tuition	1925.0
+Peninsula Catholic High School	tuition	8250.0
+Our Lady of Fatima High School	tuition	9400.0
+St. Bernard High School (Los Angeles, California)	tuition	6600.0
+Aurora Central Catholic High School	tuition	4625.0
+Cristo Rey New York High School	tuition	2000.0
+St. Mary's College High School	tuition	14280.0
+St. Francis High School (Sacramento, California)	tuition	11100.0
+Melbourne Central Catholic High School	tuition	9500.0
+Melbourne Central Catholic High School	tuition	10000.0
+Saint Joseph Academy (San Marcos, California)	tuition	4130.0
+Saint Joseph Academy (San Marcos, California)	tuition	5880.0
+Summit School (Winston-Salem, North Carolina)	tuition	9990.0
+Oldenburg Academy of the Immaculate Conception	tuition	6850.0
+Rivet High School (Vincennes, Indiana)	tuition	2280.0
+Rivet High School (Vincennes, Indiana)	tuition	2845.0
+St. Theodore Guerin High School	tuition	10750.0
+Bishop Noll Institute	tuition	6400.0
+Marquette Catholic High School (Michigan City, Indiana)	tuition	5710.0
+Regis Jesuit High School	tuition	11.0
+Monroe Catholic High School	tuition	4995.0
+Madonna High School (Weirton, West Virginia)	tuition	2800.0
+Parkersburg Catholic High School	tuition	4839.0
+Blessed Sacrament Huguenot	tuition	9700.0
+Oakcrest School (McLean, Virginia)	tuition	15696.0
+St. Thomas More Academy	tuition	6000.0
+Notre Dame Preparatory School (Towson, Maryland)	tuition	15750.0
+The Catholic High School of Baltimore	tuition	9400.0
+Elizabeth Seton High School	tuition	10000.0
+Mount St. Mary High School (Oklahoma)	tuition	5920.0
+St. Patrick High School (North Platte, Nebraska)	tuition	2590.0
+Roncalli Catholic High School (Omaha, Nebraska)	tuition	6300.0
+Cedar Catholic High School	tuition	2500.0
+St. Thomas More High School (South Dakota)	tuition	4453.0
+St. Edmond High School (Fort Dodge, Iowa)	tuition	3025.0
+Gehlen Catholic High School	tuition	2280.0
+Newman Catholic High School (Mason City, Iowa)	tuition	2570.0
+Newman Catholic High School (Mason City, Iowa)	tuition	3315.0
+St. Mary's High School (Phoenix, Arizona)	tuition	10400.0
+Bishop McGuinness Catholic High School (North Carolina)	tuition	9000.0
+Vanguard School (Florida)	tuition	22500.0
+St. Anne‒Pacelli Catholic School	tuition	4975.0
+St. Anne‒Pacelli Catholic School	tuition	5100.0
+St. Anne‒Pacelli Catholic School	tuition	5775.0
+Pinecrest Academy (Georgia)	tuition	11875.0
+Bishop Brossart High School	tuition	4975.0
+Holy Trinity Diocesan High School	tuition	7995.0
+St. Joseph Central High School (Pittsfield, Massachusetts)	tuition	6750.0
+Holy Name Central Catholic High School	tuition	6435.0
+Notre Dame Preparatory School (Fitchburg, Massachusetts)	tuition	24500.0
+St. Mary's Central Catholic High School (Worcester, Massachusetts)	tuition	4450.0
+Academy of Notre Dame (Tyngsboro, Massachusetts)	tuition	9625.0
+Academy of Notre Dame (Tyngsboro, Massachusetts)	tuition	5925.0
+Newton Country Day School	tuition	31450.0
+Notre Dame High School (Lawrence, Massachusetts)	tuition	2200.0
+St. Mary's High School (Lynn, Massachusetts)	tuition	7150.0
+Christ the King Regional High School	tuition	7775.0
+Notre Dame Academy (Hingham, Massachusetts)	tuition	14490.0
+Archbishop O'Hara High School	tuition	6500.0
+Cristo Rey Kansas City High School	tuition	2000.0
+Bishop LeBlond High School	tuition	4500.0
+John F. Kennedy Catholic High School (Manchester, Missouri)	tuition	7850.0
+Cardinal Ritter College Prep High School	tuition	6100.0
+Duchesne High School (Missouri)	tuition	7645.0
+St. Vincent High School (Perryville, Missouri)	tuition	2900.0
+Gateway Academy	tuition	2550.0
+Ursuline Academy (St. Louis, Missouri)	tuition	9900.0
+Villa Duchesne/Oak Hill School	tuition	5400.0
+Visitation Academy of St. Louis	tuition	15000.0
+Rosary High School (Aurora, Illinois)	tuition	7800.0
+St. Edward Central Catholic High School (Elgin, Illinois)	tuition	5668.0
+Gibault Catholic High School	tuition	6100.0
+Gibault Catholic High School	tuition	7500.0
+Alleman High School (Rock Island, Illinois)	tuition	3300.0
+Queen of Peace High School (New Jersey)	tuition	8250.0
+Marquette Catholic High School (Alton, Illinois)	tuition	5600.0
+St. Teresa High School (Decatur, Illinois)	tuition	4800.0
+St. Anthony High School (Illinois)	tuition	2700.0
+St. Anthony High School (Illinois)	tuition	5410.0
+Bishop McNamara High School (Kankakee, Illinois)	tuition	6640.0
+Immaculate Conception High School (Elmhurst, Illinois)	tuition	8600.0
+Our Lady of Tepeyac High School	tuition	4500.0
+Resurrection High School (Chicago, Illinois)	tuition	8200.0
+St. Scholastica Academy (Chicago, Illinois)	tuition	9600.0
+Notre Dame High School for Girls	tuition	7200.0
+Guerin College Preparatory High School	tuition	7300.0
+Mount Assisi Academy	tuition	6800.0
+Seton Academy (South Holland, Illinois)	tuition	8150.0
+St. Martin de Porres High School (Waukegan, Illinois)	tuition	2500.0
+St. Mary Central High School (Neenah, Wisconsin)	tuition	4700.0
+St. Vincent de Paul High School (Petaluma, California)	tuition	10109.0
+Mercy High School (Red Bluff, California)	tuition	8100.0
+Cristo Rey High School (Sacramento)	tuition	2200.0
+Convent of the Sacred Heart High School (California)	tuition	29200.0
+Immaculate Conception Academy (San Francisco, California)	tuition	4000.0
+Forest Ridge School of the Sacred Heart	tuition	25500.0
+John F. Kennedy Catholic High School (Burien, Washington)	tuition	7205.0
+St. Mary High School (Lake Leelanau, Michigan)	tuition	3162.0
+St. Mary High School (Lake Leelanau, Michigan)	tuition	5824.0
+Powers Catholic High School	tuition	7800.0
+Notre Dame High School (Easton, Pennsylvania)	tuition	6575.0
+San Joaquin Memorial High School	tuition	8100.0
+Catholic High School (New Iberia, Louisiana)	tuition	4100.0
+St. Anthony High School (New Jersey)	tuition	4900.0
+Ladywood High School	tuition	7000.0
+Loyola High School (Detroit)	tuition	4100.0
+Alverno High School	tuition	11600.0
+Mercy High School (Farmington Hills, Michigan)	tuition	10685.0
+St. Frederick Catholic High School (Monroe, Louisiana)	tuition	5406.0
+St. Hubert Catholic High School for Girls	tuition	4860.0
+Teurlings Catholic High School	tuition	4935.0
+Vermilion Catholic High School	tuition	4240.0
+St. Mary's High School (Natchitoches, Louisiana)	tuition	4515.0
+Saint Thomas Aquinas High School (Hammond, Louisiana)	tuition	4870.0
+St. John High School (Plaquemine, Louisiana)	tuition	4454.0
+Holy Rosary High School (New Orleans, Louisiana)	tuition	7900.0
+Ursuline Academy (New Orleans, Louisiana)	tuition	8300.0
+Mater Dei Catholic High School (Chula Vista, California)	tuition	9876.0
+Notre Dame High School (Riverside, California)	tuition	5950.0
+Aquinas High School (San Bernardino, California)	tuition	6500.0
+Xavier College Preparatory High School (California)	tuition	9940.0
+St. Michael's Preparatory School (Silverado, California)	tuition	16280.0
+Mary Star of the Sea High School	tuition	6400.0
+Notre Dame Catholic High School (Connecticut)	tuition	11340.0
+Academy of the Holy Family	tuition	4797.0
+St. Paul Catholic High School	tuition	9450.0
+Academy of Our Lady of Mercy, Lauralton Hall	tuition	14500.0
+St. John Neumann High School (Naples, Florida)	tuition	9900.0
+Santa Fe Catholic High School	tuition	8500.0
+Santa Fe Catholic High School	tuition	10500.0
+Cardinal Gibbons High School (Fort Lauderdale, Florida)	tuition	7200.0
+Cathedral High School (El Paso, Texas)	tuition	5000.0
+St. Anthony Catholic High School	tuition	7650.0
+Atonement Academy	tuition	6000.0
+John Paul II High School (Plano, Texas)	tuition	12600.0
+Mount Saint Dominic Academy	tuition	13100.0
+St. Joseph High School (Hammonton, New Jersey)	tuition	7470.0
+O'Connell College Preparatory School	tuition	7000.0
+Sacred Heart High School (Hallettsville, Texas)	tuition	2450.0
+John Paul II High School (Corpus Christi, Texas)	tuition	4400.0
+Villa Maria Academy (Erie, Pennsylvania)	tuition	6130.0
+Holy Spirit High School (Tuscaloosa, Alabama)	tuition	3960.0
+Mount Alvernia High School (Pittsburgh, Pennsylvania)	tuition	6925.0
+Geibel Catholic High School	tuition	5800.0
+Bishop Guilfoyle High School	tuition	4995.0
+Delone Catholic High School	tuition	4400.0
+Holy Cross High School (Pennsylvania)	tuition	5600.0
+Marian Catholic High School (Pennsylvania)	tuition	4100.0
+Sacred Heart High School (New Jersey)	tuition	7950.0
+St. Patrick High School (New Jersey)	tuition	5000.0
+Saints John Neumann and Maria Goretti Catholic High School	tuition	4860.0
+Bishop McDevitt High School (Wyncote, Pennsylvania)	tuition	5100.0
+Kennedy-Kenrick Catholic High School	tuition	4860.0
+Saint Pius X High School (Lower Pottsgrove Township, Pennsylvania)	tuition	4620.0
+Nazareth Academy High School	tuition	9500.0
+Saint Basil Academy (Jenkintown, Pennsylvania)	tuition	8900.0
+Villa Joseph Marie High School	tuition	10250.0
+Villa Victoria Academy	tuition	11500.0
+Villa Victoria Academy	tuition	9976.0
+Christ the King Preparatory School (New Jersey)	tuition	2500.0
+Cardinal Gibbons High School (Raleigh, North Carolina)	tuition	8345.0
+Saratoga Central Catholic High School	tuition	8500.0
+Notre Dame-Bishop Gibbons High School	tuition	6100.0
+Notre Dame High School (Batavia, New York)	tuition	7650.0
+Holy Angels Academy (Buffalo, New York)	tuition	7300.0
+Mount Saint Mary Academy (Kenmore, New York)	tuition	8650.0
+Archbishop Walsh High School	tuition	4150.0
+Cardinal O'Hara High School (Tonawanda, New York)	tuition	6650.0
+Bishop Ludden Junior/Senior High School	tuition	5650.0
+Immaculate Heart Central High School (Watertown, New York)	tuition	3800.0
+St. John the Baptist Diocesan High School	tuition	7995.0
+St. Mary's High School (Manhasset, New York)	tuition	8675.0
+St. Dominic High School (Oyster Bay, New York)	tuition	8300.0
+St. John's Preparatory School (New York City)	tuition	7200.0
+St. Agnes High School (Queens)	tuition	7100.0
+Catherine McAuley High School (Brooklyn)	tuition	5900.0
+Nazareth Regional High School (Brooklyn)	tuition	7225.0
+St. Edmund Preparatory High School (Brooklyn)	tuition	7000.0
+Bishop Ford Central Catholic High School	tuition	8500.0
+Junípero Serra High School (Gardena, California)	tuition	5350.0
+Monsignor Scanlan High School	tuition	5400.0
+St. Barnabas High School	tuition	6550.0
+St. Catharine Academy	tuition	5850.0
+Notre Dame School (Manhattan)	tuition	8615.0
+Archbishop Stepinac High School	tuition	7500.0
+Lexington Christian Academy (Kentucky)	tuition	1420.0
+Olney Friends School	tuition	27800.0
+Emily Griffith Opportunity School	tuition	47.0
+St. Gerard Catholic High School	tuition	4400.0
+St. Jean Baptiste High School	tuition	6450.0
+The Ursuline School	tuition	15675.0
+Our Lady of the Rosary Academy	tuition	5000.0
+Cathedral High School (New York City)	tuition	6500.0
+Rice High School (New York)	tuition	5750.0
+St. George Academy	tuition	5100.0
+St. Michael Academy (New York City)	tuition	6000.0
+St. John Villa Academy	tuition	7700.0
+St. Peter's High School for Girls	tuition	6900.0
+John A. Coleman Catholic High School	tuition	5695.0
+Academy of Our Lady of Good Counsel	tuition	7575.0
+Sacred Heart High School (Yonkers, New York)	tuition	7000.0
+The Montfort Academy	tuition	8500.0
+Jesuit College Preparatory School of Dallas	tuition	12935.0
+St. Croix USVI Country Day School	tuition	7350.0
+Northwoods Idaho	tuition	3950.0
+St. Mary's High School (Stockton, California)	tuition	7540.0
+American Cooperative School of Tunis	tuition	4000.0
+Shenandoah Valley Academy	tuition	17000.0
+Collège Alpin International Beau Soleil	tuition	130000.0
+Holland Christian High School	tuition	6960.0
+North Raleigh Christian Academy	tuition	7500.0
+North Raleigh Christian Academy	tuition	7020.0
+North Raleigh Christian Academy	tuition	6480.0
+Raleigh Christian Academy	tuition	5681.0
+Raleigh Christian Academy	tuition	5369.0
+The Howard School (United States)	tuition	22072.0
+The Howard School (United States)	tuition	21120.0
+Marian High School (Framingham, Massachusetts)	tuition	8700.0
+Wisconsin Lutheran High School	tuition	6250.0
+Saint Mary on the Hill Catholic School	tuition	5900.0
+Saint Mary on the Hill Catholic School	tuition	7775.0
+Oliverian School	tuition	55000.0
+Althoff Catholic High School	tuition	4950.0
+Jakarta International School	tuition	25000.0
+Dole Middle School	tuition	10.0
+Christ the King Jesuit College Prep High School	tuition	2400.0
+International Christian School (Hong Kong)	tuition	44100.0
+International Christian School (Hong Kong)	tuition	80500.0
+International Christian School (Hong Kong)	tuition	106500.0
+International Christian School (Hong Kong)	tuition	109300.0
+True Cross Catholic School (Dickinson, Texas)	tuition	4495.0
+Wake Christian Academy	tuition	6100.0
+Wake Christian Academy	tuition	5800.0
+Wake Christian Academy	tuition	5550.0
+St. Anselm's Abbey School	tuition	21300.0
+Anatolia College	tuition	12000.0
+Anatolia College	tuition	15000.0
+John Paul the Great Catholic High School (Indiana)	tuition	5000.0
+Saint Mary's School (Raleigh, North Carolina)	tuition	38972.0
+Saint Mary's School (Raleigh, North Carolina)	tuition	19697.0
+St. Thomas Aquinas Catholic High School (Guam)	tuition	7800.0
+Marist School (Georgia)	tuition	15225.0
+Sagesse High School	tuition	4000.0
+Town Centre Montessori Private School	tuition	8000.0
+Town Centre Montessori Private School	tuition	10000.0
+Eastside Preparatory School	tuition	18000.0
+Arendell Parrott Academy	tuition	12000.0
+St. Dominic Savio Catholic High School	tuition	8460.0
+Word of God Christian Academy	tuition	4700.0
+Word of God Christian Academy	tuition	4500.0
+Grace Christian School (North Carolina)	tuition	8410.0
+Grace Christian School (North Carolina)	tuition	7945.0
+Grace Christian School (North Carolina)	tuition	7425.0
+Friendship Christian School (North Carolina)	tuition	5221.0
+Friendship Christian School (North Carolina)	tuition	5075.0
+Friendship Christian School (North Carolina)	tuition	4926.0
+McLean School of Maryland	tuition	31000.0
+Neuse Christian Academy	tuition	4999.0
+Neuse Christian Academy	tuition	4700.0
+Neuse Christian Academy	tuition	4200.0
+Thacher Montessori School	tuition	12500.0
+Lancaster County Christian School	tuition	4800.0
+Sacred Heart of Jesus High School (Jackson, Tennessee)	tuition	4800.0
+Brimmer and May School	tuition	33200.0
+Rockbridge Academy	tuition	6110.0
+St. Rita of Cascia High School	tuition	9250.0
+King's High School	tuition	11000.0
+St. Croix Country Day School	tuition	7350.0
+Drew School	tuition	32400.0
+Great Falls Central Catholic High School	tuition	3850.0
+The Town School	tuition	19000.0
+The Geneva School	tuition	10000.0
+Xavier High School (Cedar Rapids, Iowa)	tuition	3850.0
+Caedmon School	tuition	12479.0
+St. Andrew's Episcopal School (Texas)	tuition	13500.0
+New Mexico School of Natural Therapeutics	tuition	8000.0
+Hamlin Robinson School	tuition	15600.0
+Middlesex School	tuition	44320.0
+Philadelphia Free School	tuition	9000.0
+Lydia Patterson Institute	tuition	2400.0
+The Winchendon School	tuition	42500.0
+St. Andrew's Episcopal School (Amarillo, Texas)	tuition	4500.0
+Keisung High School	tuition	5660.0
+The Westminster Schools	tuition	15440.0
+The Westminster Schools	tuition	18000.0
+Saint Gilbert School	tuition	2010.0
+Murphy Adventist Christian School	tuition	295.0
+Academy of the Sacred Heart, St. Charles	tuition	4125.0
+Academy of the Sacred Heart, St. Charles	tuition	7975.0
+St. Paul the Apostle Church and School	tuition	7300.0

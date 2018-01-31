@@ -1,0 +1,29 @@
+California State Legislature	house	California State Assembly
+California State Legislature	house	California State Senate
+California State Legislature	house	California State Senate
+California State Legislature	house	California State Assembly
+Michigan Legislature	house	Michigan House of Representatives
+Michigan Legislature	house	Michigan Senate
+Michigan Legislature	house	Michigan Senate
+Michigan Legislature	house	Michigan House of Representatives
+Alaska Legislature	house	Alaska Senate
+Alaska Legislature	house	Alaska House of Representatives
+Delaware General Assembly	house	Delaware Senate
+Delaware General Assembly	house	Delaware House of Representatives
+Connecticut General Assembly	house	Connecticut Senate
+Connecticut General Assembly	house	Connecticut House of Representatives
+Florida Legislature	house	Florida Senate
+Florida Legislature	house	Florida Senate
+Florida Legislature	house	Florida House of Representatives
+Parliament of Pakistan	house	National Assembly of Pakistan
+Parliament of Pakistan	house	Senate of Pakistan
+Parliament of Pakistan	house	Senate of Pakistan
+Parliament of Pakistan	house	National Assembly of Pakistan
+Illinois General Assembly	house	Illinois Senate
+Illinois General Assembly	house	Illinois House of Representatives
+Alabama Legislature	house	Alabama Senate
+Alabama Legislature	house	Alabama House of Representatives
+Parliament of the Czech Republic	house	Chamber of Deputies of the Parliament of the Czech Republic
+Parliament of the Czech Republic	house	Senate of the Parliament of the Czech Republic
+Parliament of the Czech Republic	house	Senate of the Parliament of the Czech Republic
+Parliament of the Czech Republic	house	Chamber of Deputies of the Parliament of the Czech Republic

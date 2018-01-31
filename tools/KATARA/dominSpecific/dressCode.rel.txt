@@ -1,0 +1,71 @@
+Café du Monde	dressCode	casual
+Philippe's	dressCode	Casual
+Katz's Delicatessen	dressCode	Casual
+Geno's Steaks	dressCode	Casual
+Blue Bayou Restaurant	dressCode	Casual
+Anchor Bar	dressCode	Casual
+The French Laundry	dressCode	Jacket Required
+Voodoo Doughnut	dressCode	Casual
+The Fat Duck	dressCode	None
+Ben's Chili Bowl	dressCode	Casual
+21 Club	dressCode	Jacket required, jeans not permitted
+Sally's Apizza	dressCode	Casual
+Frank Pepe Pizzeria Napoletana	dressCode	Casual
+Arthur Bryant's	dressCode	Casual
+The Ivy	dressCode	Smart casual
+Primanti Brothers	dressCode	Casual
+Carnegie Deli	dressCode	Casual
+Louis' Lunch	dressCode	Casual
+Lawry's	dressCode	Smart casual
+Gemini Bar and Grille	dressCode	casual
+Pink's Hot Dogs	dressCode	Casual
+Hansen's Sno-Bliz	dressCode	Casual
+The Apple Pan	dressCode	Casual
+Caprice (restaurant)	dressCode	Business casual
+Amber (restaurant)	dressCode	Smart casual
+The Pancake Manor	dressCode	None
+Tudor's Biscuit World	dressCode	Casual
+Pierre (restaurant)	dressCode	Smart casual
+Amigo (restaurant)	dressCode	Smart casual
+Durgin-Park	dressCode	Casual
+Hubig's New Orleans Style Pies	dressCode	None
+Fook Lam Moon	dressCode	Smart Casual
+Walter's Hot Dog Stand	dressCode	n/a
+Oyster Bar	dressCode	Casual
+Shady Glen	dressCode	Casual
+Noma (restaurant)	dressCode	None
+Zanaro's	dressCode	casual dining
+Rutt's Hut	dressCode	Casual
+El Adobe de Capistrano	dressCode	casual
+Modern Apizza	dressCode	Casual
+Yankee Doodle Coffee Shop	dressCode	Casual
+Stewart's Restaurants	dressCode	Casual
+Shore Club	dressCode	Casual
+Middendorf's	dressCode	Casual
+L'Espalier	dressCode	Jacket and tie most comfortable, but not required
+Kenny & Zuke's Delicatessen	dressCode	Casual
+Old Ebbitt Grill	dressCode	Casual
+Lung King Heen	dressCode	Smart casual
+Joël Robuchon (Las Vegas restaurant)	dressCode	Jacket Required
+Osteria Francescana	dressCode	None
+Joy Hing's Roasted Meat	dressCode	Casual
+Rhodes Twenty Four	dressCode	Formal
+Rhodes W1	dressCode	Formal
+Big Spring Cafe	dressCode	Casual
+Veselka	dressCode	Casual
+Matt's Bar	dressCode	Casual
+Zoukinis	dressCode	Casual
+Schwa (restaurant)	dressCode	Casual
+Ricky's Sports Theatre and Grill	dressCode	Casual
+Kilt and Clover	dressCode	Casual
+Matsugen	dressCode	Casual
+Park Grill	dressCode	Casual
+T-Room	dressCode	Casual
+Le Papillon (restaurant)	dressCode	Business casual
+Renaissance (restaurant)	dressCode	Casual dress
+Okonomi-mura	dressCode	Casual
+Quo Vadis (restaurant)	dressCode	None
+La Tante Claire	dressCode	Dress jacket and tie required
+Restaurant Gordon Ramsay	dressCode	Smart. No trainers, shorts or sportswear.
+Clinton St. Baking Company & Restaurant	dressCode	Casual
+Vegan Treats Bakery	dressCode	Casual

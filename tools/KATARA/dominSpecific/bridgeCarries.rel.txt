@@ -1,0 +1,2326 @@
+Dumbarton Bridge (California)	bridgeCarries	6 lanes of 20px SR 84, bike/pedestrian
+Golden Gate Bridge	bridgeCarries	6 lanes of , pedestrians and bicycles
+Mackinac Bridge	bridgeCarries	4 lanes of
+Sydney Harbour Bridge	bridgeCarries	Trains, Motor vehicles, pedestrians and bicycles
+Leonard P. Zakim Bunker Hill Memorial Bridge	bridgeCarries	Interstate 93 and U.S. Route 1
+Great Belt Fixed Link	bridgeCarries	Motor vehicles
+Great Belt Fixed Link  The West Bridge   1	bridgeCarries	Motor vehicles, trains
+Brooklyn Bridge	bridgeCarries	Motor vehicles (cars only)
+Brooklyn Bridge	bridgeCarries	Elevated trains (until 1944)
+Brooklyn Bridge	bridgeCarries	Streetcars (until 1950)
+Brooklyn Bridge	bridgeCarries	Pedestrians, and bicycles
+Blackfriars Bridge	bridgeCarries	Cyclists(A201 road)
+Blackfriars Bridge	bridgeCarries	pedestrians
+Tower Bridge	bridgeCarries	A100 Tower Bridge Road
+Tower Bridge	bridgeCarries	\u2013 motor vehicles, cyclists, pedestrians
+Millennium Bridge (London)	bridgeCarries	Pedestrians
+Øresund Bridge	bridgeCarries	Four lanes of European route E20
+Øresund Bridge	bridgeCarries	Double track Oresund Railway Line
+Tacoma Narrows Bridge	bridgeCarries	State Route 16
+Tsing Ma Bridge	bridgeCarries	6 lanes of roadway (upper)
+Tsing Ma Bridge	bridgeCarries	2 MTR rail tracks, 2 lanes of roadway (lower)
+Clifton Suspension Bridge	bridgeCarries	Cars, pedestrians and cycles
+London Bridge	bridgeCarries	5 lanes of A3
+Harvard Bridge	bridgeCarries	Route 2A
+Akashi Kaikyō Bridge	bridgeCarries	6 lanes of roadway
+Forth Road Bridge	bridgeCarries	Motor vehicles
+Forth Road Bridge	bridgeCarries	(A90 road)
+Forth Road Bridge	bridgeCarries	Cyclists
+Forth Road Bridge	bridgeCarries	(National Cycle Route 1)
+Forth Road Bridge	bridgeCarries	Pedestrians
+Forth Bridge	bridgeCarries	Rail traffic
+Tay Rail Bridge	bridgeCarries	Rail traffic
+Tay Road Bridge	bridgeCarries	Motor vehicles, cyclists and pedestrians
+Tay Road Bridge	bridgeCarries	4 lanes of A92
+Humber Bridge	bridgeCarries	Motor vehicles (on the A15), pedestrians and cyclists
+Lincoln Tunnel	bridgeCarries	6 lanes of NJ 495/NY 495
+Ed Koch Queensboro Bridge	bridgeCarries	10 lanes (4 upper, 6 lower) of NY 25
+San Francisco – Oakland Bay Bridge	bridgeCarries	10 lanes (5 westbound on upper level, 5 eastbound on lower) of
+Holland Tunnel	bridgeCarries	4 lanes of I-78 and NJ 139 (which ends at NJ/NY State Line)
+Story Bridge	bridgeCarries	Motor vehicles and pedestrians
+Sir Leo Hielscher Bridges	bridgeCarries	Motor vehicles
+Goodwill Bridge	bridgeCarries	Pedestrians and cyclists
+Captain Cook Bridge, Brisbane	bridgeCarries	Motor Vehicles
+Victoria Bridge, Brisbane	bridgeCarries	Motor vehicles, pedestrians and cyclists
+William Jolly Bridge	bridgeCarries	Motor vehicles, pedestrians and cyclists
+Centenary Bridge	bridgeCarries	Motor vehicles, pedestrians and cyclists
+Merivale Bridge	bridgeCarries	Railway
+Walter Taylor Bridge	bridgeCarries	Motor vehicles, pedestrians
+Albert Bridge, Brisbane	bridgeCarries	Railway
+George Washington Bridge	bridgeCarries	14 lanes (8 upper deck, 6 lower deck) of , pedestrians and bicycles
+Jack Pesch Bridge	bridgeCarries	Pedestrians, bicycles
+Confederation Bridge	bridgeCarries	2 lanes of NB Route 16/PEI Route 1 (Trans-Canada Highway)
+Ambassador Bridge	bridgeCarries	4 undivided lanes connecting I-75/I-96 and Ontario Highway 3
+Minami Bisan-Seto Bridge	bridgeCarries	4 lanes of roadway (upper)
+Minami Bisan-Seto Bridge	bridgeCarries	2 rail lines (lower)
+San Mateo – Hayward Bridge	bridgeCarries	6 lanes of 20px SR 92
+Throgs Neck Bridge	bridgeCarries	6 lanes of I-295
+Second Severn Crossing	bridgeCarries	6 lane M4 motorway
+Goethals Bridge	bridgeCarries	4 lanes of I-278
+Robert F. Kennedy Bridge	bridgeCarries	8 lanes of I-278
+Verrazano-Narrows Bridge	bridgeCarries	12 lanes (six lanes upper and six lanes lower) of I-278
+Roman Bridge (Chaves)	bridgeCarries	Road Astorga-Braga
+Tinsley Viaduct	bridgeCarries	M1, A631
+Hell Gate Bridge	bridgeCarries	Amtrak Northeast Corridor rail line (2 tracks); CSX Transportation/Canadian Pacific freight rail line (1 track)
+Royal Albert Bridge	bridgeCarries	Railway
+Steel Bridge	bridgeCarries	Upper: 2 outer traffic lanes and two inner lanes solely for MAX Light Rail
+Steel Bridge	bridgeCarries	Lower: Union Pacific Railroad (incl. Amtrak toward Eugene) and walkway
+Vauxhall Bridge	bridgeCarries	A202 road
+East River Mountain Tunnel	bridgeCarries	4 lanes of I-77/US 52
+Lambeth Bridge	bridgeCarries	Motor vehicles
+Lambeth Bridge	bridgeCarries	Pedestrians
+Hammersmith Bridge	bridgeCarries	Cyclists, Pedestrians
+Putney Bridge	bridgeCarries	Cyclists, pedestrians
+Battersea Bridge	bridgeCarries	A3220 road
+Kew Bridge	bridgeCarries	A205 road
+Cannon Street Railway Bridge	bridgeCarries	Railway
+Southwark Bridge	bridgeCarries	Motor vehicles
+Southwark Bridge	bridgeCarries	Pedestrians
+Waterloo Bridge	bridgeCarries	Cyclists,
+Waterloo Bridge	bridgeCarries	pedestrians
+Westminster Bridge	bridgeCarries	Motor vehicles
+Westminster Bridge	bridgeCarries	Pedestrians
+Prince Edward Viaduct	bridgeCarries	5 vehicle lanes and 2 bicycle lanes of Bloor Street/Danforth Avenue, and the Bloor\u2013Danforth Subway
+Hungerford Bridge and Golden Jubilee Bridges	bridgeCarries	Railway
+Blackfriars Railway Bridge	bridgeCarries	Thameslink Railway
+Grosvenor Bridge	bridgeCarries	Railway
+Ha'penny Bridge	bridgeCarries	Pedestrians
+Manhattan Bridge	bridgeCarries	7 lanes of roadway, 4 tracks of the  trains of the New York City Subway, pedestrians, and bicycles
+Pulaski Skyway	bridgeCarries	4 lanes of US 1/9 (no trucks)
+Tasman Bridge	bridgeCarries	20px|(A3) Tasman Highway
+St. Johns Bridge	bridgeCarries	U.S. Route 30 Bypass
+Hawthorne Bridge	bridgeCarries	vehicles, pedestrians, cyclists
+Miles Glacier Bridge	bridgeCarries	road bridge
+Outerbridge Crossing	bridgeCarries	4 lanes of NJ 440/NY 440
+Bayonne Bridge	bridgeCarries	4 lanes of NY 440/NJ 440
+Dames Point Bridge	bridgeCarries	six general purpose lanes
+Victoria Bridge (Montreal)	bridgeCarries	Route 112
+Victoria Bridge (Montreal)	bridgeCarries	Canadian National Railway, AMT Mont-Saint-Hilaire, Via Rail, and Amtrak
+Tyne Bridge	bridgeCarries	A167 road
+Tyne Bridge	bridgeCarries	Motor vehicles
+Tyne Bridge	bridgeCarries	Cyclists
+Tyne Bridge	bridgeCarries	Pedestrians
+Henry Hudson Bridge	bridgeCarries	7 lanes (3 upper, 4 lower) of NY 9A, (Henry Hudson Parkway)
+Lions Gate Bridge	bridgeCarries	Three lanes of British Columbia Highway 99/1A, pedestrians and bicycles
+Marine Parkway-Gil Hodges Memorial Bridge	bridgeCarries	Motor vehicles and pedestrians
+Brooklyn–Battery Tunnel	bridgeCarries	4 lanes of I-478
+Queens–Midtown Tunnel	bridgeCarries	4 lanes of I-495
+Williamsburg Bridge	bridgeCarries	8 lanes of roadway,
+Williamsburg Bridge	bridgeCarries	2 tracks of the  trains of the New York City Subway,
+Williamsburg Bridge	bridgeCarries	pedestrians, and bicycles
+Blue Water Bridge	bridgeCarries	6 lanes of I-69/I-94 and Highway 402 (westbound span, 3 lanes; eastbound span, 3 lanes)
+Lethbridge Viaduct	bridgeCarries	Railway
+Rio–Niterói Bridge	bridgeCarries	8 lanes of BR 101
+Quebec Bridge	bridgeCarries	3 lanes of roadway
+Quebec Bridge	bridgeCarries	1 rail line
+Quebec Bridge	bridgeCarries	(Canadian National Railway
+Quebec Bridge	bridgeCarries	and Via Rail)
+Quebec Bridge	bridgeCarries	1 pedestrian walkway
+Pierre Laporte Bridge	bridgeCarries	6 lanes of Autoroute 73
+Sault Ste. Marie International Bridge	bridgeCarries	Two lanes of traffic (Lake Superior Circle Tour, Lake Huron Circle Tour)
+Lewiston–Queenston Bridge	bridgeCarries	5 reversible lanes of Highway 405 and I-190
+Charles Bridge	bridgeCarries	Pedestrian only
+Whirlpool Rapids Bridge	bridgeCarries	2 lanes (lower)
+Whirlpool Rapids Bridge	bridgeCarries	1 rail line (upper)
+Charlestown High Bridge	bridgeCarries	I-93
+Charlestown High Bridge	bridgeCarries	US 1
+Batman Bridge	bridgeCarries	20px|(B73) Batman Highway
+ANZAC Bridge	bridgeCarries	Motor vehicles, pedestrians and bicycles
+Île d'Orléans Bridge	bridgeCarries	2-lane road
+Jacques Cartier Bridge	bridgeCarries	5 lanes of Route 134
+Champlain Bridge, Montreal	bridgeCarries	Commuter and transit traffic for Autoroute 10, 15, 20
+Thousand Islands Bridge	bridgeCarries	2 lanes of automotive traffic
+Pulteney Bridge	bridgeCarries	buses, taxis, pedestrians
+Lune Millennium Bridge	bridgeCarries	Pedestrians & cyclists
+Gateshead Millennium Bridge	bridgeCarries	Cyclists
+Gateshead Millennium Bridge	bridgeCarries	Pedestrians
+Eads Bridge	bridgeCarries	4 highway lanes
+Eads Bridge	bridgeCarries	2 MetroLink tracks
+Chelsea Bridge	bridgeCarries	A3216 road
+Governor Albert D. Rosellini Bridge—Evergreen Point	bridgeCarries	4 lanes of SR 520
+Lacey V. Murrow Memorial Bridge	bridgeCarries	I-90, eastbound lanes
+Sino-Korean Friendship Bridge	bridgeCarries	road and rail traffic
+Sunshine Skyway Bridge	bridgeCarries	4 General purpose lanes
+Blue Wonder	bridgeCarries	Motor vehicles (up to 15 tonnes), trams (until 1985), pedestrians and bicycles
+New Mississippi River Bridge	bridgeCarries	4 lanes of 20px I-70, expandable to 6
+Julien Dubuque Bridge	bridgeCarries	2 lanes of U.S. Route 20
+Julien Dubuque Bridge	bridgeCarries	1 pedestrian walkway
+Ironworkers Memorial Second Narrows Crossing	bridgeCarries	Six lanes of British Columbia Highway 1, pedestrians and bicycles
+Auckland Harbour Bridge	bridgeCarries	Motor vehicles
+Eagle Point Bridge	bridgeCarries	2 lanes of US 61/US 151
+Dubuque–Wisconsin Bridge	bridgeCarries	4 lanes of U.S. Route 61/U.S. Route 151
+Menai Suspension Bridge	bridgeCarries	(London to Holyhead)
+Millau Viaduct	bridgeCarries	4 lanes of the A75 autoroute
+Lincoln Memorial Bridge	bridgeCarries	Business U.S. Route 50
+Rainbow Bridge (Niagara Falls)	bridgeCarries	4 lanes of vehicular traffic (2 each way), pedestrian traffic
+Rainbow Bridge (Tokyo)	bridgeCarries	Vehicle, Yurikamome, Pedestrian
+Skye Bridge	bridgeCarries	A87, Station Road
+West Gate Bridge	bridgeCarries	10 lanes (5 inbound, 5 outbound) (After expansion)
+Sundial Bridge at Turtle Bay	bridgeCarries	Bicycles and pedestrians
+Tacony–Palmyra Bridge	bridgeCarries	3 lanes of PA Route 73 and NJ Route 73, and 2 sidewalks
+Burlington–Bristol Bridge	bridgeCarries	2 lanes of PA 413 and NJ 413
+Riverside–Delanco Bridge	bridgeCarries	2 lanes of County Route 543
+Delaware Memorial Bridge	bridgeCarries	25px 20px
+Delaware Memorial Bridge	bridgeCarries	8 lanes of I-295/US 40
+Betsy Ross Bridge	bridgeCarries	6 lanes of NJ 90
+Commodore Barry Bridge	bridgeCarries	5 lanes of US 322 & CR 536 (NJ) & 2 lanes of sidewalk
+Longfellow Bridge	bridgeCarries	Route 3, MBTA Red Line
+Kingston Bridge, Glasgow	bridgeCarries	Motor vehicles only (motorway bridge)
+Buckman Bridge	bridgeCarries	8 general purpose lanes
+Portage Lake Lift Bridge	bridgeCarries	US 41 and M-26
+Rio–Antirrio bridge	bridgeCarries	6 lanes, (2 lanes each way & 2 emergency lanes) & 1 pedestrian & bicycle lane
+Stone Arch Bridge (Minneapolis)	bridgeCarries	Pedestrian and bicycle lanes; formerly two tracks of the Great Northern Railway
+Queensborough Bridge	bridgeCarries	Four lanes of British Columbia Highway 91A, pedestrians and bicycles
+Tappan Zee Bridge	bridgeCarries	20px 25px 20px 7 lanes (3 northbound, 3 southbound, 1 reversible) of I-87/I-287 (New York State Thruway)
+Montlake Bridge	bridgeCarries	Montlake Boulevard (SR 513)
+George Washington Memorial Bridge	bridgeCarries	Aurora Avenue N. (SR 99)
+Ship Canal Bridge	bridgeCarries	Interstate 5
+Woodrow Wilson Bridge	bridgeCarries	12 lanes of I-95/I-495, pedestrian traffic
+Alaskan Way Viaduct	bridgeCarries	Washington State Route 99
+Scudder Falls Bridge	bridgeCarries	4 lanes of 20px I-95 (PA/NJ)
+Bronx–Whitestone Bridge	bridgeCarries	6 lanes of I-678
+Interstate 195 (Florida)  Julia Tuttle Causeway   1	bridgeCarries	6 lanes of I-195
+Öland Bridge	bridgeCarries	4 lanes of roadway for motor vehicles
+Jeremiah Morrow Bridge	bridgeCarries	Interstate 71
+Jeremiah Morrow Bridge    1	bridgeCarries	Interstate 71
+Vasco da Gama Bridge	bridgeCarries	Six road lanes
+Chesapeake Bay Bridge-Tunnel	bridgeCarries	4 lanes (4 on bridges, 2 in tunnels) of US 13
+Britannia Bridge	bridgeCarries	From 1850: North Wales Coast Line
+Britannia Bridge	bridgeCarries	From 1980:
+Alex Fraser Bridge	bridgeCarries	Six lanes of Highway 91, pedestrians and bicycles
+Richmond – San Rafael Bridge	bridgeCarries	4 lanes (2 WB on upper level, 2 EB on lower) of 25px I-580
+Rockville Bridge	bridgeCarries	2 rail lines for Norfolk Southern Railway and Amtrak Keystone Corridor
+Hood Canal Bridge	bridgeCarries	Washington SR 104
+Carl Perkins Bridge	bridgeCarries	20px
+Carl Perkins Bridge	bridgeCarries	20px 2 lanes of Truck U.S. Route 23 and 25px Ohio State Route 852
+Lake Pontchartrain Causeway	bridgeCarries	4 lanes of Causeway Blvd
+Moodna Viaduct	bridgeCarries	1 track of Norfolk Southern's Southern Tier Line
+Fremont Bridge (Portland)	bridgeCarries	Interstate 405 and U.S. Route 30
+Morrison Bridge	bridgeCarries	motor vehicles, pedestrians, cyclists
+Marquam Bridge	bridgeCarries	20px Interstate 5
+High Level Bridge	bridgeCarries	Public transport motor vehicles
+High Level Bridge	bridgeCarries	Railway traffic
+High Level Bridge	bridgeCarries	Pedestrians
+Severan Bridge	bridgeCarries	Road traffic and pedestrians
+Broadway Bridge (Portland)	bridgeCarries	vehicles and pedestrians
+Ross Island Bridge	bridgeCarries	20px US 26
+Interstate Bridge	bridgeCarries	Interstate 5
+Sellwood Bridge	bridgeCarries	cars, pedestrians, cyclists
+Fatih Sultan Mehmet Bridge	bridgeCarries	Road / Motorway / Freeway
+Burlington Northern Railroad Bridge 5.1	bridgeCarries	2 railroad tracks (incl. Amtrak toward Seattle or Spokane)
+Lewis and Clark Bridge (Columbia River)	bridgeCarries	State route 433
+Rialto Bridge	bridgeCarries	pedestrian bridge
+Middlesbrough Transporter Bridge	bridgeCarries	Motor vehicles
+Middlesbrough Transporter Bridge	bridgeCarries	A178 road
+Middlesbrough Transporter Bridge	bridgeCarries	Pedestrians
+Glenn L. Jackson Memorial Bridge	bridgeCarries	25px Interstate 205
+Seven Mile Bridge	bridgeCarries	2 lanes of US 1
+Astoria–Megler Bridge	bridgeCarries	2 lanes of US 101
+Mystic River Bascule Bridge	bridgeCarries	U.S. Route 1
+Newark Bay Bridge	bridgeCarries	4 lanes of I-78 (New Jersey Turnpike)
+Chesapeake Bay Bridge	bridgeCarries	5 lanes of US 50/US 301
+Chesapeake Bay Bridge	bridgeCarries	(2 eastbound, 2 westbound, 1 reversible)
+Chesapeake Bay Bridge	bridgeCarries	Automobile traffic only
+Hangzhou Bay Bridge	bridgeCarries	22pxShenhai Expressway, 6 lanes
+Chain Bridge (Budapest)	bridgeCarries	two road lanes
+Maidenhead Railway Bridge	bridgeCarries	Great Western Railway
+Hobart Bridge	bridgeCarries	Automobiles
+Windsor Bridge	bridgeCarries	Pedestrians and cycles
+Detroit–Windsor Tunnel	bridgeCarries	2 lanes connecting Jefferson Avenue (near I-375 and M-10) & Former Highway 3B
+Acosta Bridge	bridgeCarries	6 lanes of SR 13
+Acosta Bridge	bridgeCarries	2 monorail tracks
+Acosta Bridge	bridgeCarries	2 sidewalks
+Mathews Bridge	bridgeCarries	four general purpose lanes
+Ting Kau Bridge	bridgeCarries	6 lanes of roadway
+Conde McCullough Memorial Bridge	bridgeCarries	U.S. Route 101
+Yaquina Bay Bridge	bridgeCarries	U.S. Route 101
+Governor Harry W. Nice Memorial Bridge	bridgeCarries	2 lanes of U.S. Route 301
+West-Link	bridgeCarries	M50 motorway
+Tobin Bridge	bridgeCarries	U.S. Route 1
+Albert Bridge, London	bridgeCarries	A3031 road
+City Island Bridge	bridgeCarries	3 lanes of City Island Road
+Fuller Warren Bridge	bridgeCarries	Six lanes of Interstate 95
+Fuller Warren Bridge  old   1	bridgeCarries	four general purpose lanes
+Monitor-Merrimac Memorial Bridge-Tunnel	bridgeCarries	4 lanes of I-664
+Hampton Roads Bridge-Tunnel	bridgeCarries	4 lanes of I-64/US 60
+Hornibrook Bridge	bridgeCarries	trucks, bicycle
+Houghton Highway	bridgeCarries	20px|State Route 26 20px|State Route 27 Motor vehicles, 3 lanes
+Malaysia–Singapore Second Link	bridgeCarries	Motor vehicles
+Waco Suspension Bridge	bridgeCarries	Foot traffic
+Homer M. Hadley Memorial Bridge	bridgeCarries	Interstate 90
+Main Street Bridge (Jacksonville, Florida)	bridgeCarries	four general purpose lanes and two sidewalks
+Hart Bridge	bridgeCarries	four general purpose lanes
+Shands Bridge	bridgeCarries	2 general purpose lanes (SR 16))
+New River Tunnel	bridgeCarries	4 lanes of US 1
+New River Tunnel	bridgeCarries	1 sidewalk
+Bridge of Lions	bridgeCarries	2 general purpose lanes and 2 sidewalks
+St. Johns River Veterans Memorial Bridge	bridgeCarries	Interstate 4
+Pont des Arts	bridgeCarries	Pedestrians
+Kincardine Bridge	bridgeCarries	A985 road
+Whitchurch Bridge	bridgeCarries	B471 road
+Pennybacker Bridge	bridgeCarries	Motor vehicles, pedestrians, and bicycles
+General Rafael Urdaneta Bridge	bridgeCarries	vehicles
+Pelham Bridge	bridgeCarries	Motor vehicles, Pedestrians, Bicycles
+Angus L. Macdonald Bridge	bridgeCarries	Motor vehicles, pedestrians, and bicycles
+Kew Railway Bridge	bridgeCarries	London Overground North London Line
+Kew Railway Bridge	bridgeCarries	London Underground District Line
+Reading Bridge	bridgeCarries	B3345
+Goring and Streatley Bridge	bridgeCarries	B4009
+Newburgh–Beacon Bridge	bridgeCarries	20px 20px 6 lanes of I-84 and NY 52
+Koersch Viaduct	bridgeCarries	2 lanes
+Hennepin Avenue Bridge	bridgeCarries	6 lanes of Hennepin Avenue (CSAH 52)
+Newport Transporter Bridge	bridgeCarries	Motor vehicles, cyclists and pedestrians including buses and multi sized lorries.
+Victoria Falls Bridge	bridgeCarries	road, rail, foot traffic
+Caversham Bridge	bridgeCarries	A4155 road
+Sonning Bridge	bridgeCarries	Minor road
+Fraternity Bridge	bridgeCarries	vehicular traffic
+Bear Mountain Bridge	bridgeCarries	20px 25px 2 lanes of US 6/US 202 and Appalachian Trail and State Bike Route 9
+George P. Coleman Memorial Bridge	bridgeCarries	4 lanes of US 17
+James River Bridge	bridgeCarries	4 lanes of US 17/258/SR 32
+Abraham Lincoln Memorial Bridge	bridgeCarries	Four lanes of U.S. 51/I-39
+Boyne Viaduct	bridgeCarries	Rail
+Fort McHenry Tunnel	bridgeCarries	8 lanes of I-95
+Thomas J. Hatem Memorial Bridge	bridgeCarries	Four lanes of US 40
+Francis Scott Key Bridge (Baltimore)	bridgeCarries	4 lanes of
+Boyne River Bridge	bridgeCarries	4 lanes
+Knox Memorial Bridge	bridgeCarries	CR 2002
+Millard E. Tydings Memorial Bridge	bridgeCarries	6 lanes of I-95
+George Street Bridge, Newport	bridgeCarries	Motor vehicles, cyclists and pedestrians
+King Fahd Causeway	bridgeCarries	Motor vehicles
+25 de Abril Bridge	bridgeCarries	Six road lanes
+25 de Abril Bridge	bridgeCarries	Two train tracks
+Karni crossing	bridgeCarries	Containers
+Steinway Tunnel	bridgeCarries	2 tracks of the IRT Flushing Line ( trains) of the New York City Subway
+Broadway Bridge (Manhattan)	bridgeCarries	6 lanes of Broadway (US 9) (lower)
+Broadway Bridge (Manhattan)	bridgeCarries	3 tracks of IRT Broadway \u2013 Seventh Avenue Line ( train (upper)
+Royal Victoria Dock Bridge	bridgeCarries	Pedestrians
+St. Clair Tunnel	bridgeCarries	Rail lines
+Bowen Bridge	bridgeCarries	20px|(B35) Goodwood Road
+Siuslaw River Bridge	bridgeCarries	U.S. Route 101
+San Diego – Coronado Bridge	bridgeCarries	5 lanes of 20px SR 75
+Carquinez Bridge	bridgeCarries	8 lanes of 20px I-80, pedestrians and bicycles.
+Benicia–Martinez Bridge	bridgeCarries	9 lanes of 25px I-680, pedestrian and bicycle paths on southbound span
+Antioch Bridge	bridgeCarries	2 lanes of 25px SR 160
+Vincent Thomas Bridge	bridgeCarries	4 lanes of 20px SR 47
+Sam Hill Memorial Bridge	bridgeCarries	20px US 97
+Bolte Bridge	bridgeCarries	6 lanes (3 inbound, 3 outbound)
+Wicker Arches	bridgeCarries	Railway
+Pont de Normandie	bridgeCarries	A29 autoroute
+Penang Bridge    1	bridgeCarries	Motor vehicles
+Chain of Rocks Bridge	bridgeCarries	Pedestrians and bicycles
+Cleddau Bridge	bridgeCarries	A477 traffic, pedestrians and bicycles
+Tees Barrage	bridgeCarries	Tees Barrage Way - pedestrians and cyclists use the footbridge (Teesdale Way)
+Mount Hope Bridge	bridgeCarries	2 lanes of RI 114
+Three Nations Crossing	bridgeCarries	Two Lanes of Traffic
+Three Nations Crossing  South Channel Bridge of Three Nations Crossing   1	bridgeCarries	Two Lanes of Traffic
+Queen Elizabeth II Bridge	bridgeCarries	4 lanes of roadway
+A. Murray MacKay Bridge	bridgeCarries	Motor vehicles
+Sandridge Bridge	bridgeCarries	Pedestrians, cyclists
+Broadway Bridge (Daytona Beach)	bridgeCarries	4 lanes of U.S. Route 92
+Broadway Bridge (Daytona Beach)	bridgeCarries	VOTRAN bus routes
+Broadway Bridge (Daytona Beach)	bridgeCarries	pedestrians, and bicycles
+Varina-Enon Bridge	bridgeCarries	6 lanes of
+Great Seto Bridge	bridgeCarries	4 lanes of roadway (upper)
+Great Seto Bridge	bridgeCarries	2 rail lines (lower)
+Kap Shui Mun Bridge	bridgeCarries	6 lanes of roadway (upper)
+Kap Shui Mun Bridge	bridgeCarries	2 MTR rail lines, 2 lanes of roadway (lower)
+Silver Jubilee Bridge	bridgeCarries	Road traffic and pedestrians
+Juscelino Kubitschek bridge	bridgeCarries	vehicular, bicycle, pedestrian traffic
+Cape Coral Bridge	bridgeCarries	25px C.R. 867A (Cape Coral Bridge Road)
+Sanibel Causeway	bridgeCarries	Causeway Boulevard
+Midpoint Memorial Bridge	bridgeCarries	25px C.R. 884
+Hogg's Hollow Bridge	bridgeCarries	14 lanes of Highway 401
+Erskine Bridge	bridgeCarries	Motor vehicles, cyclists and pedestrians
+Laviolette Bridge	bridgeCarries	Autoroute 55
+St. George Island Bridge	bridgeCarries	25px State Road 300
+Rip Van Winkle Bridge	bridgeCarries	20px NY 23
+San Juanico Bridge	bridgeCarries	2 lanes of vehicular traffic; pedestrian sidewalks
+Friarton Bridge	bridgeCarries	M90
+Big Walker Mountain Tunnel	bridgeCarries	4 lanes of I-77
+Eastern span replacement of the San Francisco – Oakland Bay Bridge	bridgeCarries	20px|link= Interstate 80
+Mike O'Callaghan – Pat Tillman Memorial Bridge	bridgeCarries	20px|link= U.S. Route 93
+Livingston Avenue Bridge	bridgeCarries	CSX and Amtrak trains
+Pamban Bridge	bridgeCarries	2 lanes of road traffic
+Ludendorff Bridge	bridgeCarries	Rail transport
+Rock Island Centennial Bridge	bridgeCarries	4 lanes of US 67
+Pons Sublicius	bridgeCarries	Via Latina
+Tatara Bridge	bridgeCarries	4 lanes of roadway
+Tatara Bridge	bridgeCarries	bicycle/pedestrian lanes
+Calhoun Street Bridge (Trenton)	bridgeCarries	light vehicle traffic
+Mid-Hudson Bridge	bridgeCarries	20px 20px 3 lanes of US 44 and NY 55
+Qatar Bahrain Causeway	bridgeCarries	Motor vehicle and Rail
+Elbe Tunnel (1975)	bridgeCarries	8 lines
+Charles River Dam Bridge	bridgeCarries	six lanes of traffic (Route 28), two sidewalks
+Third Avenue Bridge (Minneapolis)	bridgeCarries	Four lanes of Minnesota State Highway 65
+Veterans' Glass City Skyway	bridgeCarries	6 lanes of Interstate 280
+Arthur Ravenel Jr. Bridge	bridgeCarries	Bikes and Pedestrians
+Arthur Ravenel Jr. Bridge	bridgeCarries	8 Lanes of
+Washington Avenue Bridge (Minneapolis)	bridgeCarries	Upper deck: Bicycles and pedestrians
+Washington Avenue Bridge (Minneapolis)	bridgeCarries	Lower deck: County Road 122, one auto lane each direction
+Whitney Young Memorial Bridge	bridgeCarries	Motor vehicles, pedestrians
+American Legion Memorial Bridge (Potomac River)	bridgeCarries	10 lanes of I-495, 8 thru lanes and 2 exit lanes
+Bridge of the Americas	bridgeCarries	Four lanes of Carretera Panama-Arraijan, pedestrians and bicycles
+Nanjing Yangtze River Bridge	bridgeCarries	4-lane road and Jinghu Railway
+Franklin Avenue Bridge	bridgeCarries	CSAH 5 (Franklin Avenue)
+10th Avenue Bridge	bridgeCarries	Four lanes of automobile traffic
+Union Bridge (Tweed)	bridgeCarries	1 lane of roadway
+Xihoumen Bridge	bridgeCarries	30pxYongzhou Expressway
+London Bridge (Lake Havasu City)	bridgeCarries	McCulloch Boulevard
+Swing Bridge, River Tyne	bridgeCarries	Motor vehicle; Pedestrians
+Kurushima-Kaikyō Bridge	bridgeCarries	4 lanes of roadway
+Kurushima-Kaikyō Bridge	bridgeCarries	moped lane
+Kurushima-Kaikyō Bridge	bridgeCarries	bicycle/pedestrian lane
+Elisabeth Bridge (Budapest)	bridgeCarries	Six-lane road bridge
+Claiborne Pell Newport Bridge	bridgeCarries	Four lanes of RI 138
+Margaret Bridge	bridgeCarries	two road lanes
+Árpád Bridge	bridgeCarries	2*3 roads+tram
+Shelby Street Bridge	bridgeCarries	pedestrians and bicycles
+Niagara Cantilever Bridge	bridgeCarries	Michigan Central Railway/Canada Southern Railway and successors
+Seán Heuston Bridge	bridgeCarries	Luas, pedestrians
+Millennium Bridge (Dublin)	bridgeCarries	Pedestrians
+Höga Kusten Bridge	bridgeCarries	4 lanes of European route E4
+Fred Schwengel Memorial Bridge	bridgeCarries	4 lanes of 20px I-80
+Bridgewater Bridge (Tasmania, Australia)	bridgeCarries	15px|(1) Midland Highway
+Bridgewater Bridge (Tasmania, Australia)	bridgeCarries	Rail Traffic
+Umpqua River Bridge	bridgeCarries	U.S. Route 101
+Howard Frankland Bridge	bridgeCarries	Interstate 275
+Patroon Island Bridge	bridgeCarries	6 lanes Interstate 90
+112th Street Bridge	bridgeCarries	New York State Route 470
+Stari Most	bridgeCarries	Pedestrians
+Three Sisters (Pittsburgh)	bridgeCarries	2 Vehicular lanes, 2 sidewalks
+Three Sisters (Pittsburgh)  Sixth Street Bridge   1	bridgeCarries	Sixth Street
+Three Sisters (Pittsburgh)  Seventh Street Bridge   1	bridgeCarries	Seventh Street
+Three Sisters (Pittsburgh)  Ninth Street Bridge   1	bridgeCarries	Ninth Street
+Ponte delle Guglie	bridgeCarries	pedestrians
+Stonecutters Bridge	bridgeCarries	Dual 3-lane highway
+Chesapeake & Delaware Canal Bridge	bridgeCarries	20px DE 1 (6 lanes)
+I-74 Bridge	bridgeCarries	4 lanes of 20px I-74 / 20px US 6
+Hercilio Luz Bridge	bridgeCarries	closed since 1991
+James Joyce Bridge	bridgeCarries	Road and pedestrian traffic
+Richard I. Bong Memorial Bridge	bridgeCarries	4 lanes of U.S. Highway 2
+Puente Viejo	bridgeCarries	Pedestrians
+Puente Nuevo	bridgeCarries	Vehicular traffic
+Loopline Bridge	bridgeCarries	Railway
+Richmond Bridge, London	bridgeCarries	A305 road
+Twickenham Bridge	bridgeCarries	A316 road
+Milford–Montague Toll Bridge	bridgeCarries	2 lanes of U.S. Route 206
+Marcelo Fernan Bridge	bridgeCarries	4 lanes of vehicular traffic; pedestrian sidewalks
+Niagara Falls Suspension Bridge	bridgeCarries	Trains and carriages
+Pie IX Bridge	bridgeCarries	6 lanes of Route 125
+Clyde Tunnel	bridgeCarries	4 lanes of the A739 road
+Dingman's Ferry Bridge	bridgeCarries	2 lanes of PA SR 2019 and NJ County Route 560
+Black Hawk Bridge	bridgeCarries	2 lanes of IA 9 and WI 82
+Kita Bisan-Seto Bridge	bridgeCarries	4 lanes of roadway (upper)
+Kita Bisan-Seto Bridge	bridgeCarries	2 rail lines (lower)
+Shimotsui-Seto Bridge	bridgeCarries	4 lanes of roadway (upper)
+Shimotsui-Seto Bridge	bridgeCarries	2 rail lines (lower)
+Jamestown Verrazzano Bridge	bridgeCarries	25px Route 138
+Jamestown Bridge	bridgeCarries	2 lanes of Rhode Island Route 138
+Burrard Bridge	bridgeCarries	5 lanes of Burrard Street
+Burrard Bridge	bridgeCarries	Pedestrians and bicycles
+Louis-Hippolyte Lafontaine Bridge-Tunnel	bridgeCarries	6 lanes of Autoroute 25
+Hitsuishijima Bridge	bridgeCarries	4 lanes of roadway (upper)
+Hitsuishijima Bridge	bridgeCarries	2 rail lines (lower)
+Iwakurojima Bridge	bridgeCarries	4 lanes of roadway (upper)
+Iwakurojima Bridge	bridgeCarries	2 rail lines (lower)
+Yoshima Bridge	bridgeCarries	4 lanes of roadway (upper)
+Yoshima Bridge	bridgeCarries	2 rail lines (lower)
+Golden Ears Bridge	bridgeCarries	6 lanes of Golden Ears Way, pedestrians and bicycles
+Benjamin Sheares Bridge	bridgeCarries	Motor vehicles and pedestrians
+Westham Island Bridge	bridgeCarries	One lane of Westham Island Road
+Capilano Suspension Bridge	bridgeCarries	Pedestrians
+Honoré Mercier Bridge	bridgeCarries	4 lanes of Route 138
+Granville Street Bridge	bridgeCarries	Eight lanes of British Columbia Highway 99, Granville Street, pedestrians, and bicycles
+Sakonnet River Bridge	bridgeCarries	20px RI 24
+Avonmouth Bridge	bridgeCarries	8 lanes of the M5 motorway
+Avonmouth Bridge	bridgeCarries	Bridleway
+Perrine's Bridge	bridgeCarries	Pedestrians only
+Perrine Bridge	bridgeCarries	4 lanes of US-93
+Arthur Laing Bridge	bridgeCarries	4 lanes of Grant McConachie Way, bicycles
+Talmadge Memorial Bridge	bridgeCarries	to
+Radcot Bridge	bridgeCarries	A4095 road
+Knight Street Bridge	bridgeCarries	4-6 lanes of Knight Street, pedestrians and bicycles
+Stillwater Bridge (St. Croix River)	bridgeCarries	Minnesota State Highway 36 and WIS 64
+Mezcala Bridge	bridgeCarries	Mexican Federal Highway 95 from Cuernavaca to Acapulco
+Million Dollar Bridge (Maine)	bridgeCarries	Motor vehicles and pedestrians
+Cambie Street Bridge	bridgeCarries	Six lanes of Cambie Street, pedestrians and bicycles
+City Bridge	bridgeCarries	Motor vehicles, cyclists and pedestrians
+William H. Natcher Bridge	bridgeCarries	4 lanes of 25px U.S. Highway 231
+Oak Street Bridge	bridgeCarries	Four lanes of British Columbia Highway 99, pedestrians and bicycles
+Port Mann Bridge	bridgeCarries	Five lanes of British Columbia Highway 1
+Pitt River Bridge	bridgeCarries	Seven lanes of British Columbia Highway 7, pedestrians and bicycles
+Pitt River Bridge  first   1	bridgeCarries	Four lanes of British Columbia Highway 7, Lougheed Highway
+Hörn Bridge	bridgeCarries	Pedestrians
+Michigan Central Railway Tunnel	bridgeCarries	2 tracks of the Canadian Pacific Railway
+Hoan Bridge	bridgeCarries	6 lanes of I-794
+Wilson Creek Bridge	bridgeCarries	Virginia Smart Road
+Main Street Tunnel	bridgeCarries	4 lanes of traffic
+Townline Tunnel	bridgeCarries	20px 2 lanes of traffic
+Townline Tunnel	bridgeCarries	2 tracks (only 1 used)
+Battersea Railway Bridge	bridgeCarries	Railway
+Bixby Creek Bridge	bridgeCarries	20px California State Route 1
+Köhlbrand Bridge	bridgeCarries	Cars
+Narrows Bridge (Perth)	bridgeCarries	Kwinana Freeway
+Narrows Bridge (Perth)	bridgeCarries	(Southbound road lanes)
+Narrows Bridge (Perth)  Narrows Bridge Northbound   1	bridgeCarries	Kwinana Freeway (Northbound road lanes);
+Narrows Bridge (Perth)  Narrows Bridge Northbound   1	bridgeCarries	Northbound railway line
+Narrows Bridge (Perth)  Narrows Rail Bridge   1	bridgeCarries	Southbound railway line
+Mahatma Gandhi Setu	bridgeCarries	4 lanes of roadway and pedestrian pathways each side
+Roebling's Delaware Aqueduct	bridgeCarries	Motor vehicles, pedestrians
+Tuscarora Mountain Tunnel	bridgeCarries	4 lanes of I-76 Pennsylvania Turnpike
+John P. Grace Memorial Bridge	bridgeCarries	US-17
+Silas N. Pearman Bridge	bridgeCarries	US-17
+Bourne Bridge	bridgeCarries	20px Route 28
+Sagamore Bridge	bridgeCarries	20px 4 lanes of U.S. Route 6
+Jefferson Barracks Bridge	bridgeCarries	6 lanes of I-255/US 50
+McKinley Bridge	bridgeCarries	1 dedicated service lane, 2 lanes of traffic, and 1 dedicated pedestrian/bicycle lane
+Poplar Street Bridge	bridgeCarries	8 lanes of 20px I-44 / 20px I-55 / 20px I-64 / 20px I-70 / 20px US 40
+MacArthur Bridge (St. Louis)	bridgeCarries	Terminal Railroad Association of St. Louis, Union Pacific, BNSF, Amtrak
+Huey P. Long Bridge (Jefferson Parish)	bridgeCarries	4 lanes of US 90
+Huey P. Long Bridge (Jefferson Parish)	bridgeCarries	2 tracks of the NOPB
+Berkley–Dighton Bridge	bridgeCarries	vehicular and pedestrian traffic
+Calvin Coolidge Bridge	bridgeCarries	20px Massachusetts Route 9
+Crescent City Connection	bridgeCarries	8 lanes of BUS US 90 / I-910
+Crescent City Connection	bridgeCarries	2 reversible HOV lanes
+Roberto Clemente Bridge	bridgeCarries	Sixth Street
+High Level Bridge (Edmonton)	bridgeCarries	109 Street,
+High Level Bridge (Edmonton)	bridgeCarries	High Level Bridge Streetcar
+Pattullo Bridge	bridgeCarries	Four lanes of King George Highway, pedestrians and bicycles
+Lower Trenton Bridge	bridgeCarries	2 lanes of Business US 1
+Alpine Tunnel	bridgeCarries	Rail lines
+Bidwell Bar Bridge	bridgeCarries	Pedestrian traffic (Original span); two lanes of 25px SR 162 (Current span)
+Hood River Bridge	bridgeCarries	Interstate 84 (west)
+Smithfield Street Bridge	bridgeCarries	4 lanes of roadway
+Smithfield Street Bridge	bridgeCarries	2 pedestrian walkways
+Fort Pitt Bridge	bridgeCarries	8 lanes (4 upper, 4 lower) of
+Fort Pitt Bridge	bridgeCarries	25px20px20px20px
+Fort Pitt Bridge	bridgeCarries	25px20px20px20px
+Drammen Bridge	bridgeCarries	Four lanes on European route E18
+Nordhordland Bridge	bridgeCarries	Two lanes of E39
+Nordhordland Bridge	bridgeCarries	One pedestrian/bicycle path
+Sannesund Bridge	bridgeCarries	Four lanes on European route E6
+Leaside Bridge	bridgeCarries	6 lanes
+Humber Bay Arch Bridge	bridgeCarries	pedestrian traffic
+Old Eastern Avenue Bridge	bridgeCarries	Unused
+Måløy Bridge	bridgeCarries	Riksvei 15
+Lake Shore Boulevard Bailey Bridge	bridgeCarries	Pedestrians
+Askøy Bridge	bridgeCarries	Riksvei 562 (motor vehicles, pedestrians, cyclists)
+Tromsø Bridge	bridgeCarries	Riksvei 862 (motor vehicles, pedestrians, cyclists)
+Skarnsund Bridge	bridgeCarries	Road vehicles and pedestrians
+Sotra Bridge	bridgeCarries	Two lanes of National Road 555
+Martin Luther King Bridge (St. Louis)	bridgeCarries	3 lanes (1 westbound and 2 eastbound) of Route 799
+Mark Twain Memorial Bridge	bridgeCarries	4 lanes of 20px I-72 and 20px US 36
+Mark Twain Memorial Bridge    1	bridgeCarries	20px US 36
+Sommarøy Bridge	bridgeCarries	Fylkesvei 55
+Sami Bridge	bridgeCarries	E75
+Skjervøy Bridge	bridgeCarries	Riksvei 866
+Rügen Bridge	bridgeCarries	50px|Bundesstra\u00DFe 96 Bundesstra\u00DFe 9650px|European route E22 E22
+Kylling Bridge	bridgeCarries	Raumabanen
+Ullasund Bridge	bridgeCarries	Fylkesvei 150
+Nerlandsøy Bridge	bridgeCarries	Fylkesvei 20
+Herøy Bridge	bridgeCarries	Riksvei 654
+Runde Bridge	bridgeCarries	Fylkesvei 18
+Remøy Bridge	bridgeCarries	Fylkesvei 18
+Norddalsfjord Bridge	bridgeCarries	Riksvei 614
+Cape Cod Canal Railroad Bridge	bridgeCarries	rail traffic
+Murray Baker Bridge	bridgeCarries	4 lanes of I-74
+Severn Bridge	bridgeCarries	4-lane M48 motorway
+Severn Bridge	bridgeCarries	National Cycle Route 4
+West Seattle Bridge	bridgeCarries	vehicles
+Alexander Hamilton Bridge	bridgeCarries	8 lanes of I-95 and US 1
+Queen Alexandra Bridge	bridgeCarries	Motor vehicles
+Queen Alexandra Bridge	bridgeCarries	(A1231 road)
+Queen Alexandra Bridge	bridgeCarries	Pedestrians
+Centennial Bridge, Panama	bridgeCarries	6 lanes of the Pan-American Highway
+Washington Bridge	bridgeCarries	6 lanes of roadway and pedestrians
+Boulevard Bridge	bridgeCarries	SR 161
+The Iron Bridge	bridgeCarries	pedestrian traffic
+Admiral Clarey Bridge	bridgeCarries	Ford Island Road
+Vale of Avoca	bridgeCarries	5 lanes of St. Clair Avenue
+Vale of Avoca	bridgeCarries	(originally 4 lanes with 2 streetcar tracks)
+Pons Fabricius	bridgeCarries	Connection Campus Martius-Tiber Island
+Bobby Hopper Tunnel	bridgeCarries	4 lanes of Interstate 540
+Roosevelt Island Bridge	bridgeCarries	2 lanes of 36th Ave and a sidewalk on the north side
+Runcorn Railway Bridge	bridgeCarries	Liverpool branch of the West Coast Main Line
+Ponte Sant'Angelo	bridgeCarries	Passage to Castel Sant'Angelo
+Dauphin Island Bridge	bridgeCarries	2 lanes of Alabama State Route 193
+Daniel Carter Beard Bridge	bridgeCarries	8 lanes of 25px I-471
+Brent Spence Bridge	bridgeCarries	20px20px 8 lanes of I-71 / I-75
+Gandy Bridge	bridgeCarries	U.S. Route 92
+Melbourne Causeway	bridgeCarries	2 general purpose lanes(each bridge)
+Melbourne Causeway    1	bridgeCarries	2 general purpose lanes(each bridge)
+Melbourne Causeway    2	bridgeCarries	4 general purpose lanes
+Newport Southbank Bridge	bridgeCarries	Pedestrians
+Airoli Bridge	bridgeCarries	Road Traffic
+Third Mainland Bridge	bridgeCarries	Vehicular Traffic
+Wandsworth Bridge	bridgeCarries	A217 road
+Hampden Bridge (Kangaroo Valley)	bridgeCarries	Motor vehicles
+Eau Gallie Causeway	bridgeCarries	Cars & Trucks
+Fulham Railway Bridge	bridgeCarries	London Underground
+Fulham Railway Bridge	bridgeCarries	Pedestrians
+Kingston Bridge, London	bridgeCarries	A308 road
+Kingston Railway Bridge	bridgeCarries	Kingston-Richmond loop line
+Teddington Lock Footbridges	bridgeCarries	Footpath
+Richmond Railway Bridge	bridgeCarries	Overground Network
+Chiswick Bridge	bridgeCarries	A316 road
+Barnes Railway Bridge	bridgeCarries	Railway
+Barnes Railway Bridge	bridgeCarries	Pedestrians
+Gwangan Bridge	bridgeCarries	motorway/freeway
+Florida Avenue Bridge	bridgeCarries	trains, cars
+Mountain Creek Lake Bridge	bridgeCarries	Motor vehicles
+Chertsey Bridge	bridgeCarries	B375 Road
+Suramadu Bridge	bridgeCarries	Vehicles
+Sam Houston Ship Channel Bridge	bridgeCarries	20px 20px Beltway 8
+Lewisville Lake Toll Bridge	bridgeCarries	4 lanes of FM 720 (Eldorado Parkway)
+Papago Freeway Tunnel	bridgeCarries	10 lanes of I-10 (5 westbound, 5 eastbound) plus 1 unused gated tunnel for city buses / emergency vehicles
+Wakota Bridge	bridgeCarries	Five lanes in each direction of Interstate 494.
+Mendota Bridge	bridgeCarries	Four lanes of Minnesota State Highway 55
+Fort Duquesne Bridge	bridgeCarries	8 lanes (4 upper, 4 lower) of
+Fort Duquesne Bridge	bridgeCarries	25px20px
+Fort Duquesne Bridge	bridgeCarries	25px20px
+Fort Duquesne Bridge	bridgeCarries	Pedestrian Walkway on downriver side of the lower deck
+11th Street Bridges	bridgeCarries	Motor vehicles, pedestrians
+Fred Hartman Bridge	bridgeCarries	8 lanes of
+Delaware Water Gap Toll Bridge	bridgeCarries	4 lanes of I-80 and the Appalachian Trail
+Yokohama Bay Bridge	bridgeCarries	3 lanes of Bayshore Route (upper), 1 lane of National Route 357 (lower), pedestrians and bicycles
+John McLoughlin Bridge	bridgeCarries	Oregon Route 99E
+Cavenagh Bridge	bridgeCarries	Pedestrians and bicycles (vehicles, rickshaws, horse and ox carts in the past)
+Kingston–Port Ewen Suspension Bridge	bridgeCarries	Wurts St. (Old 9W)
+Kingston–Rhinecliff Bridge	bridgeCarries	20px Two lanes of NY 199
+Elgin Bridge	bridgeCarries	Motor vehicles and pedestrians
+Poughkeepsie Bridge	bridgeCarries	Poughkeepsie Bridge Company (railroad), and many successors including Central New England Railway, New York, New Haven and Hartford Railroad and Penn Central. Out of service for railroad use since May 8, 1974
+Waldo–Hancock Bridge	bridgeCarries	U.S. Route 1
+Anderson Bridge	bridgeCarries	Motor vehicles and pedestrians
+Castleton Bridge	bridgeCarries	New York State Thruway
+Bulkeley Bridge	bridgeCarries	Motor vehicles, pedestrians and bicycles
+Svatopluk Čech Bridge	bridgeCarries	road, tram
+Crooked River High Bridge	bridgeCarries	U.S. Highway 97
+Lewis and Clark River Bridge	bridgeCarries	U.S. Route 101
+Sky Ride	bridgeCarries	fairgoers in suspended 36 passenger cars
+Wilburton Trestle	bridgeCarries	BNSF Woodinville Subdivision
+Cumberland Gap Tunnel	bridgeCarries	4 lanes of U.S. Route 25E
+Walnut Street Bridge (Harrisburg, Pennsylvania)	bridgeCarries	Pedestrians
+M. Harvey Taylor Memorial Bridge	bridgeCarries	Motor vehicles and pedestrians
+Columbia–Wrightsville Bridge	bridgeCarries	2 lanes of PA 462
+Gatehampton Railway Bridge	bridgeCarries	Great Western Main Line
+Replot Bridge	bridgeCarries	Finnish regional road 724
+Cable Bridge	bridgeCarries	Four lanes of State Route 397
+Market Street Bridge (Chattanooga)	bridgeCarries	4 lanes of North Market St.
+Henley Bridge	bridgeCarries	A4130 road
+Thaddeus Kosciusko Bridge	bridgeCarries	6 lanes (3 on NB bridge & 3 on SB bridge) of I-87
+Kosciuszko Bridge (New York City)	bridgeCarries	Brooklyn-Queens Expressway (I-278)
+MacArthur Causeway	bridgeCarries	6 lanes of SR A1A
+Airtight Bridge  1	bridgeCarries	Township road 275
+Godstow Bridge	bridgeCarries	minor road
+North–South Expressway Central Link  Batu Tiga flyover   1	bridgeCarries	Motor vehicles
+Bandra–Worli Sea Link	bridgeCarries	8 lanes of road traffic
+Courtney Campbell Causeway	bridgeCarries	Four lanes of SR 60
+Bayview Bridge	bridgeCarries	2 lanes of Westbound US 24
+Great River Bridge	bridgeCarries	4 lanes of US 34
+Queen Elizabeth Bridge	bridgeCarries	A332 road
+Quincy Memorial Bridge	bridgeCarries	2 lanes of Eastbound US 24
+Savanna–Sabula Bridge	bridgeCarries	2 lanes of U.S. Route 52/Iowa Highway 64/IL 64
+Mark N. Norris Bridge	bridgeCarries	2 lanes of Iowa Highway 136/IL-136
+Gateway Bridge (Illinois–Iowa)	bridgeCarries	2 lanes of U.S. Route 30
+Hutsonville Bridge	bridgeCarries	Former Illinois Route 135 / Indiana Route 154
+Putra Bridge	bridgeCarries	Motor vehicles, Pedestrians
+Keokuk–Hamilton Bridge	bridgeCarries	4 lanes of US 136
+Fort Madison Toll Bridge	bridgeCarries	2 lanes of IA 2 and IL 9 and rail lines
+Wallingford Bridge	bridgeCarries	Road
+Winterbrook Bridge	bridgeCarries	A4130 road
+Cotter Bridge	bridgeCarries	U.S. Route 62 Business
+Marquette–Joliet Bridge	bridgeCarries	2 lanes of US 18
+Prescott Drawbridge	bridgeCarries	U.S. Route 10
+North Channel Bridge	bridgeCarries	Two lanes of MN 43 and WI 54
+Wabasha–Nelson Bridge	bridgeCarries	Two lanes of MN 60 and WI 25
+Lafayette Bridge	bridgeCarries	Four lanes of U.S. Route 52
+High Bridge (St. Paul)	bridgeCarries	Two lanes of Minnesota State Highway 149
+Joseph P. Addabbo Memorial Bridge	bridgeCarries	Cross Bay Boulevard
+Coraopolis Bridge	bridgeCarries	Grand Avenue (Neville Twp)/Pennsylvania Route 51 (Coraopolis)
+Coraopolis Bridge  formerly the Pittsburgh Sixth St  1	bridgeCarries	Grand Avenue (Neville Twp)/Pennsylvania Route 51 (Coraopolis)
+George Nesmith Bridge	bridgeCarries	2 General purpose lanes (US 98)
+Uddevalla Bridge	bridgeCarries	European route E6
+Svinesund Bridge	bridgeCarries	Four lanes on European route E6
+Champ Clark Bridge	bridgeCarries	2 lanes of US 54
+Clark Bridge	bridgeCarries	4 lanes of US 67
+Luling Bridge	bridgeCarries	4 lanes of Interstate 310
+Gramercy Bridge	bridgeCarries	4 lanes of LA 3213
+Sunshine Bridge	bridgeCarries	4 lanes of LA 70
+Horace Wilkinson Bridge	bridgeCarries	6 lanes of I-10
+Huey P. Long Bridge (Baton Rouge)	bridgeCarries	4 lanes of US 190
+Huey P. Long Bridge (Baton Rouge)	bridgeCarries	1 Kansas City Southern rail line
+Natchez–Vidalia Bridge	bridgeCarries	4 lanes of US 84/US 425
+Vicksburg Bridge	bridgeCarries	4 lanes of I-20/US 80
+Old Vicksburg Bridge	bridgeCarries	1 Kansas City Southern rail line, one service lane
+Greenville Bridge	bridgeCarries	4 lanes of US 82 and US 278
+Benjamin G. Humphreys Bridge	bridgeCarries	Formerly 2 lanes of US 82 and US 278
+Charles W. Dean Bridge	bridgeCarries	4 lanes of I-69 and US 278
+Helena Bridge	bridgeCarries	2 lanes of US 49
+Memphis & Arkansas Bridge	bridgeCarries	4 lanes of I-55/US 61/US 64/US 70/US 79
+Alkaff Bridge	bridgeCarries	Pedestrians
+Frisco Bridge	bridgeCarries	1 BNSF Railway rail line
+Harahan Bridge	bridgeCarries	Rail line
+Hernando de Soto Bridge	bridgeCarries	6 lanes of I-40
+Caruthersville Bridge	bridgeCarries	4 lanes of I-155 / US 412
+Cairo Mississippi River Bridge	bridgeCarries	2 lanes of US 60/US 62
+Cairo I-57 Bridge	bridgeCarries	4 lanes of 20px I-57
+Thebes Bridge	bridgeCarries	Union Pacific, previously the Missouri Pacific Railroad
+Bill Emerson Memorial Bridge	bridgeCarries	4 lanes of MO 34/MO 74/IL 146
+Chester Bridge	bridgeCarries	2 lanes of MO 51/IL 150
+CRRNJ Newark Bay Bridge	bridgeCarries	Central Railroad of New Jersey
+William R. Bennett Bridge	bridgeCarries	Motor vehicles, pedestrians and bicycles
+New Chain of Rocks Bridge	bridgeCarries	4 lanes of I-270
+Delair Bridge	bridgeCarries	New Jersey Transit Atlantic City Line and Conrail
+Delaware River – Turnpike Toll Bridge	bridgeCarries	4 lanes of
+Delaware River – Turnpike Toll Bridge	bridgeCarries	20px
+Delaware River – Turnpike Toll Bridge	bridgeCarries	20px| 20px  I-276 (CURRENT, PA side)/I-95 (CURRENT, NJ side/FUTURE, entire span)
+Al Garhoud Bridge	bridgeCarries	Vehicles
+Arthur Kill Vertical Lift Bridge	bridgeCarries	CSX and M&E rail lines
+Trammell Bridge	bridgeCarries	4 lanes of SR 20
+Wright's Ferry Bridge	bridgeCarries	U.S. Route 30
+Susquehanna River Bridge	bridgeCarries	6 lanes of I-76
+Burdekin Bridge	bridgeCarries	Motor vehicles, Railway
+Merchants Bridge	bridgeCarries	Norfolk Southern, CSX, Terminal Railroad Association of St. Louis, Kansas City Southern
+Maidenhead Bridge	bridgeCarries	A4 road
+Trenton–Morrisville Toll Bridge	bridgeCarries	6 lanes of US 1
+Parit Sulong Bridge	bridgeCarries	Motor vehicles, Pedestrians
+Sultan Ismail Bridge	bridgeCarries	Motor vehicles, Pedestrians
+Muar Second Bridge	bridgeCarries	Motor vehicles, Pedestrians
+Raja Pemaisuri Bainun Bridge	bridgeCarries	Motor vehicles, Pedestrians
+Hosur Road  Bangalore Elevated Tollway   1	bridgeCarries	4 lanes of road traffic
+Welland Viaduct	bridgeCarries	Oakham to Kettering Line
+Landwasser Viaduct	bridgeCarries	Rhaetian Railway
+Sea Cliff Bridge	bridgeCarries	Motor vehicles, pedestrians and bicycles
+U.S. Grant Bridge	bridgeCarries	20px 2 lanes of U.S. Route 23
+U.S. Grant Bridge  former   1	bridgeCarries	20px 2 lanes of U.S. Route 23
+Sciotoville Bridge	bridgeCarries	Two tracks of CSX Transportation
+Moray Bridge	bridgeCarries	Two lanes of Sea Island Way, pedestrians and bicycles
+Sea Island Connector	bridgeCarries	Three lanes of Bridgeport Road, bicycles
+Hanover Street Bridge	bridgeCarries	Maryland Route 2
+Founders Bridge	bridgeCarries	Motor vehicles, pedestrians, and bicycles
+Sherman Minton Bridge	bridgeCarries	6 lanes (3 upper, 3 lower) of 20px Interstate 64 and
+Sherman Minton Bridge	bridgeCarries	25px U.S. Route 150
+Sultan Mahmud Bridge	bridgeCarries	Motor vehicles
+Buloh Kasap Bridge	bridgeCarries	Motor vehicles, Pedestrians
+Kuala Krai Bridge	bridgeCarries	Motor vehicles
+Sewickley Bridge	bridgeCarries	2 lanes of the Orange Belt
+Sewickley Bridge	bridgeCarries	1 pedestrian walkway
+Iron Cove Bridge	bridgeCarries	Motor vehicles, pedestrians and bicycles
+Permas Jaya Bridge	bridgeCarries	Motor vehicles, Pedestrians
+Raymond E. Baldwin Bridge	bridgeCarries	6 lanes of
+Gold Star Memorial Bridge	bridgeCarries	Motor vehicles and a pedestrian/bicycle path on the north span
+Cairo Ohio River Bridge	bridgeCarries	2 lanes of US 51/US 60/US 62
+Amtrak Susquehanna River Bridge	bridgeCarries	Amtrak Northeast Corridor
+Perryville Railroad Bridge	bridgeCarries	Railroad
+Norman Wood Bridge	bridgeCarries	PA 372
+Pennsylvania Railroad Bridge (Columbia, Pennsylvania)	bridgeCarries	railroad tracks and two-lane automobile roadway
+John Harris Bridge	bridgeCarries	I-83, Capital Beltway
+Philadelphia & Reading Railroad Bridge (Harrisburg, Pennsylvania)	bridgeCarries	Norfolk Southern
+Cumberland Valley Railroad Bridge	bridgeCarries	vacant
+Dinsmore Bridge	bridgeCarries	Two lanes of Gilbert Road, pedestrians and bicycles
+Louisiana Railroad Bridge	bridgeCarries	Single track rail line
+Eleanor Schonell Bridge	bridgeCarries	Buses, pedestrians, bicycles.
+Liffey Bridge (Phoenix Park Tunnel)	bridgeCarries	Railway
+Liberty Bridge (Pittsburgh)	bridgeCarries	4 lanes of roadway
+Veterans Bridge (Pittsburgh)	bridgeCarries	Interstate 579
+Cabrillo Bridge	bridgeCarries	El Prado
+I-90 Mississippi River Bridge	bridgeCarries	4 lanes of 20px Interstate 90
+Seri Wawasan Bridge	bridgeCarries	Motor vehicles, Pedestrians
+Seri Saujana Bridge	bridgeCarries	Motor vehicles, Pedestrians
+Beaver Bridge (Ohio River)	bridgeCarries	Two tracks of CSX Transportation.
+South Grand Island Bridge	bridgeCarries	22px 4 lanes of I-190
+North Grand Island Bridge	bridgeCarries	22px 4 lanes of I-190
+International Railway Bridge	bridgeCarries	Rail Traffic
+Morrisville–Trenton Railroad Bridge	bridgeCarries	Amtrak Northeast Corridor, SEPTA Trenton Line, and NJ Transit Northeast Corridor (non-revenue/deadhead to NJT's Morrisville rail yard)
+West Trenton Railroad Bridge	bridgeCarries	CSX and SEPTA West Trenton
+Wabash Bridge	bridgeCarries	1 track of Norfolk Southern Railway
+Seri Perdana Bridge	bridgeCarries	Motor vehicles, Pedestrians
+King Edward VII Bridge	bridgeCarries	Railway
+Redheugh Bridge	bridgeCarries	Motor vehicle
+Redheugh Bridge	bridgeCarries	A189 road
+Redheugh Bridge	bridgeCarries	Pedestrians
+Keokuk Rail Bridge	bridgeCarries	Double deck single track railway and highway bridge
+Burlington Rail Bridge	bridgeCarries	Double track rail line
+Grenland Bridge	bridgeCarries	Two lanes on European route E18
+Keithsburg Rail Bridge	bridgeCarries	Abandoned single railroad track
+Norbert F. Beckey Bridge	bridgeCarries	2 lanes of Iowa Highway 92 and IL 92
+I-280 Bridge	bridgeCarries	4 lanes of 25pxI-280
+Crescent Rail Bridge	bridgeCarries	1 Rail line
+Seri Gemilang Bridge	bridgeCarries	Motor vehicles, Pedestrians
+Seri Bestari Bridge	bridgeCarries	Motor vehicles, Pedestrians
+Seri Bakti Bridge	bridgeCarries	Motor vehicles, Pedestrians
+Seri Setia Bridge	bridgeCarries	Motor vehicles, Pedestrians
+John A. Blatnik Bridge	bridgeCarries	Interstate Highway 535 - U.S. 53
+MacArthur Bridge (Detroit)	bridgeCarries	5 lanes of East Grand Blvd.
+Joralemon Street Tunnel	bridgeCarries	2 tracks of the IRT Lexington Avenue Line ( trains) of the New York City Subway
+Montague Street Tunnel	bridgeCarries	2 tracks of the BMT Fourth Avenue Line ( trains) of the New York City Subway
+Clark Street Tunnel	bridgeCarries	2 tracks of the IRT Broadway \u2013 Seventh Avenue Line ( trains) of the New York City Subway
+Cranberry Street Tunnel	bridgeCarries	2 tracks of the IND Eighth Avenue Line ( trains) of the New York City Subway
+14th Street Tunnel	bridgeCarries	2 tracks of the BMT Canarsie Line ( train) of the New York City Subway
+53rd Street Tunnel	bridgeCarries	2 tracks of the IND Queens Boulevard Line ( trains) of the New York City Subway
+60th Street Tunnel	bridgeCarries	2 tracks of the  trains of the New York City Subway
+63rd Street Tunnel	bridgeCarries	2 tracks of the IND 63rd Street Line ( train) of the New York City Subway; 2 trackways for future use by the LIRR
+Rikers Island Bridge	bridgeCarries	3 lanes of roadway and 1 sidewalk
+Wards Island Bridge	bridgeCarries	Pedestrians
+Esplanade Bridge	bridgeCarries	Motor vehicles and pedestrians
+Lexington Avenue Tunnel	bridgeCarries	4 tracks of the  trains of the New York City Subway
+Park Avenue Bridge (New York City)	bridgeCarries	4 tracks of the Metro-North Railroad
+149th Street Tunnel	bridgeCarries	2 tracks of the  train of the New York City Subway
+University Heights Bridge	bridgeCarries	207th Street
+Spuyten Duyvil Bridge	bridgeCarries	Amtrak Empire Corridor (1 track)
+Alfred H. Smith Memorial Bridge	bridgeCarries	Railroad freight
+Dunn Memorial Bridge	bridgeCarries	8 lanes of US 9/US 20
+Martin Luther King Bridge (Port Arthur, Texas)	bridgeCarries	two lanes of Texas State Highway 82
+Menands Bridge	bridgeCarries	New York State Route 378
+Congress Street Bridge	bridgeCarries	New York State Route 2
+Green Island Bridge	bridgeCarries	4 traffic lanes of NY 915B
+Collar City Bridge	bridgeCarries	8 lanes of NY 7 and possibly I-787
+Troy–Waterford Bridge	bridgeCarries	US 4
+Michigan Avenue Bridge	bridgeCarries	Motor vehicles, pedestrians
+East River Tunnels	bridgeCarries	Amtrak Northeast Corridor and Long Island Rail Road
+Hudson River Way	bridgeCarries	Pedestrians and Cyclists
+Okanagan Lake Bridge	bridgeCarries	3 reversible traffic lanes of Highway 97, pedestrians
+Deer Isle Bridge	bridgeCarries	Motor vehicles
+Interstate 78 Toll Bridge	bridgeCarries	6 lanes of 20px Interstate 78
+Cedar Avenue Bridge (Minnesota River)	bridgeCarries	6 lanes of MN-77
+Yichang Bridge	bridgeCarries	Hu-Rong (Shanghai-Chongqing) Expressway
+Ōnaruto Bridge	bridgeCarries	4 lanes of roadway
+Simon Kenton Memorial Bridge	bridgeCarries	Business U.S. Route 62/Business U.S. Route 68;
+Simon Kenton Memorial Bridge	bridgeCarries	Ohio State Route 41
+Taylor–Southgate Bridge	bridgeCarries	20px 4 lanes of U.S. Route 27
+Taylor–Southgate Bridge	bridgeCarries	2 pedestrian sidewalks
+Clay Wade Bailey Bridge	bridgeCarries	20px 20px 25px 3 lanes of US 25 / US 42 / US 127
+Combs–Hehl Bridge	bridgeCarries	6 lanes of I-275
+Government Bridge	bridgeCarries	2 lanes of roadway
+Government Bridge	bridgeCarries	1 rail line
+Clinton Railroad Bridge	bridgeCarries	Double railroad track
+Sabula Rail Bridge	bridgeCarries	Single railroad track
+Dubuque Rail Bridge	bridgeCarries	Single rail track
+Judith Stewart Dresser Bridge	bridgeCarries	2 lanes of VA-5
+Robert Street Bridge	bridgeCarries	South Robert Street
+Mississippi River Bridge (La Crosse, Wisconsin)	bridgeCarries	4 lanes of U.S. Route 14/U.S. Route 61/WI 16
+Panhandle Bridge	bridgeCarries	2 tracks of the PAT \
+South Tenth Street Bridge	bridgeCarries	4 lanes of roadway
+Birmingham Bridge	bridgeCarries	6 lanes of roadway
+Birmingham Bridge	bridgeCarries	1 pedestrian walkway
+Hot Metal Bridge	bridgeCarries	South 29th Street
+Hot Metal Bridge	bridgeCarries	Mon Con: motor vehicles, 2 lanes
+Hot Metal Bridge	bridgeCarries	Hot Metal: converted for pedestrian and bicycles
+Glenwood Bridge	bridgeCarries	4 lanes of PA 885
+Glenwood B&O Railroad Bridge	bridgeCarries	Allegheny Valley Railroad
+Fort Wayne Railroad Bridge	bridgeCarries	2 tracks of Norfolk Southern / Amtrak
+Pinkerton's Landing Bridge	bridgeCarries	CSX Pittsburgh Subdivision
+C&O Railroad Bridge	bridgeCarries	2 tracks of CSX Transportation
+Hope Memorial Bridge	bridgeCarries	20px Route 10 (Carnegie Avenue)
+Detroit–Superior Bridge	bridgeCarries	20px US 6
+Detroit–Superior Bridge	bridgeCarries	20px US 20
+Detroit–Superior Bridge	bridgeCarries	20px US 42
+Detroit–Superior Bridge	bridgeCarries	20px OH 3 (unsigned)
+No. 2 Road Bridge	bridgeCarries	Four lanes of No. 2 Road, pedestrians and bicycles
+Georgia Viaduct	bridgeCarries	3 lanes of Georgia Street, 2 lanes of Dunsmuir Street, pedestrians and bicycles
+Pont de la Concorde (Montreal)	bridgeCarries	4 lanes of roadway
+Pont de la Concorde (Montreal)	bridgeCarries	Pedestrians and bicycles
+Charles M. Braga Jr. Memorial Bridge	bridgeCarries	I-195
+Lumberville – Raven Rock Bridge	bridgeCarries	pedestrians
+Wabasha Street Bridge	bridgeCarries	4 lanes of  Wabasha Street
+Pero's Bridge	bridgeCarries	Pedestrian
+West End Bridge (Pittsburgh)	bridgeCarries	4 lanes of 20px
+West End Bridge (Pittsburgh)	bridgeCarries	Two Pedestrian Walkways
+Derwent Way Bridge	bridgeCarries	Two lanes of Derwent Way, railway, pedestrians, bicycles
+Asparuhov most	bridgeCarries	cars and pedestrians; two lanes of the Cherno More motorway
+Covered Bridge, Lovech	bridgeCarries	pedestrians
+Belenski most	bridgeCarries	cars, pedestrians
+Rankin Bridge	bridgeCarries	4 lanes of the Green Belt
+John F. Kennedy Memorial Bridge	bridgeCarries	7 lanes of 20px Interstate 65
+Älvsborg Bridge	bridgeCarries	Six lanes of traffic, pedestrians and bicycles
+Carrollton Viaduct	bridgeCarries	Two tracks of CSX Transportation
+Thomas Viaduct	bridgeCarries	CSX Transportation
+Thomas Viaduct	bridgeCarries	2 Tracks
+Bloomington Viaduct    1	bridgeCarries	Railroad
+Wells Creek Bollman Bridge	bridgeCarries	Allegheny Highlands section of Great Allegheny Passage
+St. Georges Bridge (Delaware)	bridgeCarries	20px US 13 (2 lanes)
+Reedy Point Bridge	bridgeCarries	2 lanes of DE 9
+Chesapeake & Delaware Canal Lift Bridge	bridgeCarries	1 Norfolk Southern rail line
+Old Dee Bridge	bridgeCarries	Vehicles and pedestrians
+Summit Bridge	bridgeCarries	4 lanes of US 301 / DE 71 / DE 896
+Chesapeake City Bridge	bridgeCarries	2 lanes of MD 213
+Waibaidu Bridge	bridgeCarries	road and pedestrian
+Nusle Bridge	bridgeCarries	6 lanes of roadway, 2 tracks of Prague Metro Line C, pedestrians
+Mỹ Thuận Bridge	bridgeCarries	Motor vehicles
+Sarah Mildred Long Bridge	bridgeCarries	US 1 Bypass
+Pulau Bunting Bridge	bridgeCarries	Motor vehicles, Pedestrians
+Xiling Bridge	bridgeCarries	motor traffic
+Innoshima Bridge	bridgeCarries	4 lanes of roadway
+Innoshima Bridge	bridgeCarries	bicycle/pedestrian lanes
+Hakata-Ōshima Bridge	bridgeCarries	4 lanes of roadway
+Bob Cummings – Lincoln Trail Bridge	bridgeCarries	2 lanes of Indiana 237 and
+Bob Cummings – Lincoln Trail Bridge	bridgeCarries	Kentucky 69
+Connaught Bridge	bridgeCarries	Motor vehicles, Pedestrians
+Pelješac Bridge	bridgeCarries	4-lane wide expressway
+Merdeka Bridge, Malaysia	bridgeCarries	Motor vehicles, Pedestrians
+Seventh Street Improvement Arches	bridgeCarries	Four lanes of East Seventh Street (Minnesota State Highway 5)
+Črni Kal Viaduct	bridgeCarries	A1 motorway
+Old Bridge, Svilengrad	bridgeCarries	Traffic, pedestrians
+Joe H. Anderson Sr. Bridge	bridgeCarries	4 General purpose lanes (US 19)
+Fort Road Bridge	bridgeCarries	Four lanes of Minnesota State Highway 5
+Queen Elizabeth II Metro Bridge	bridgeCarries	Tyne and Wear Metro
+Intercity Bridge	bridgeCarries	Four lanes of vehicle traffic (Ford Parkway in St. Paul to 46th Street in Minneapolis)
+Lake Street-Marshall Bridge	bridgeCarries	Four lanes of vehicle traffic (Lake Street in Minneapolis to Marshall Ave. in St. Paul)
+Short Line Bridge	bridgeCarries	Minnesota Commercial Railway
+Dartmouth Bridge	bridgeCarries	Ten lanes of Interstate 94
+Northern Pacific Bridge Number 9	bridgeCarries	Bike and pedestrian lanes; formerly two railroad tracks
+Dyavolski most	bridgeCarries	pedestrians
+Allenby Bridge	bridgeCarries	Pedestrians
+Rickenbacker Causeway	bridgeCarries	6 lanes of SR 913
+Rachel Carson Bridge	bridgeCarries	Ninth Street
+Newport City footbridge	bridgeCarries	cyclists and pedestrians
+Danube Bridge	bridgeCarries	two lanes of road and railway traffic, pedestrians
+Sungai Johor Bridge	bridgeCarries	Motor vehicles
+St. Julian's railway bridge	bridgeCarries	Railway
+Red Wing Bridge	bridgeCarries	U.S. Route 63
+Princes Bridge	bridgeCarries	Trams, road vehicles, pedestrians, cyclists
+Traffic Bridge (Saskatoon)	bridgeCarries	2 lanes of Victoria Avenue/3rd Avenue South
+La Crosse Rail Bridge	bridgeCarries	One track of Canadian Pacific Railway, shared with Amtrak
+Hastings Rail Bridge	bridgeCarries	One track of the Canadian Pacific Railway
+University Bridge (Saskatoon)	bridgeCarries	4 lanes of College Drive/25th Street, pedestrians and bicycles
+Hastings High Bridge	bridgeCarries	Two lanes of U.S. Route 61
+Broadway Bridge (Saskatoon)	bridgeCarries	4 lanes of Broadway Avenue/4th Avenue South
+Senator Sid Buckwold Bridge	bridgeCarries	6 lanes of Idylwyld Drive/Expressway (Hwy 11/Hwy 16)
+Thuan Phuoc Bridge	bridgeCarries	Motor vehicles, pedestrians and cyclists
+Emmerich Rhine Bridge	bridgeCarries	4 lanes of 25px Bundesstra\u00DFe B 220, 2 cycle lanes and 2 sidewalks
+Yeongjong Bridge	bridgeCarries	highway, railway
+Neville Island Bridge	bridgeCarries	6 lanes of 20px20px
+McKees Rocks Bridge	bridgeCarries	20pxSR 3104 / Blue Belt
+McKees Rocks Bridge	bridgeCarries	3 lanes of roadway
+Margaret Hunt Hill Bridge	bridgeCarries	6 lane bridge connecting Singleton Boulevard to Woodall Rodgers Freeway
+Ohio Connecting Railroad Bridge	bridgeCarries	2 rail lines
+Ambridge–Aliquippa Bridge	bridgeCarries	2 lanes of roadway
+Circle Drive Bridge	bridgeCarries	6 lanes of Circle Drive
+Souleuvre Viaduct	bridgeCarries	Caen to Saint-L\u00F4 and Vire line
+Rochester–Monaca Bridge	bridgeCarries	2 lanes of PA 18
+Veterans Memorial Bridge (St. Louis)	bridgeCarries	10 lanes of Route 364
+Monaca – East Rochester Bridge	bridgeCarries	2 lanes of PA 51
+Robert C. Byrd Bridge	bridgeCarries	4 lanes of OH 527 / WV 527
+East Huntington Bridge	bridgeCarries	2 lanes of WV 106 / OH 775
+Ironton–Russell Bridge	bridgeCarries	2 lanes
+Jesse Stuart Memorial Bridge	bridgeCarries	25px Ohio State Route 253
+Norfolk Southern Bridge (Kenova, West Virginia)	bridgeCarries	Trackage of Norfolk Southern Railway
+Pomeroy–Mason Bridge	bridgeCarries	4 lanes of vehicle traffic & 1 sidewalk
+Simeon Willis Memorial Bridge	bridgeCarries	20px
+Simeon Willis Memorial Bridge	bridgeCarries	20px 3 lanes of Northbound U.S. Route 60
+Williamstown Bridge	bridgeCarries	20px20px WV 31/OH 60
+Williamstown Bridge	bridgeCarries	2 lanes plus sidewalk
+Paseo Bridge	bridgeCarries	4 lanes of 20px 20px 20px I-29/I-35/U.S. 71
+Anoka-Champlin Mississippi River Bridge	bridgeCarries	Four lanes of U.S. Route 169
+John James Audubon Bridge (Mississippi River)	bridgeCarries	4 lanes of LA 10
+Bebresh Viaduct	bridgeCarries	Hemus motorway
+Trinity Bridge (Saint Petersburg)	bridgeCarries	4 lanes of roadway, tram lines
+Minneapolis BNSF Rail Bridge	bridgeCarries	Two tracks of the BNSF Railway's Wayzata Subdivision
+Plymouth Avenue Bridge	bridgeCarries	Four lanes of Plymouth Avenue
+Broadway Avenue Bridge	bridgeCarries	Four lanes of West Broadway/Broadway Street Northeast
+Northern Pacific-BNSF Minneapolis Rail Bridge	bridgeCarries	Two tracks of the BNSF Railway
+Krk Bridge	bridgeCarries	Road vehicles
+Ellis Bridge	bridgeCarries	Road Traffic
+Nehru Bridge	bridgeCarries	Road Traffic
+Richmond Bridge (Tasmania)	bridgeCarries	Motor vehicles, pedestrians and bicycles
+Clifton Hampden Bridge	bridgeCarries	Road
+Omaha Road Bridge Number 15	bridgeCarries	One track of the Union Pacific Railroad and Soo Line Railroad
+Merriam Street Bridge	bridgeCarries	Two lanes of Merriam Street
+Discovery Bridge (Missouri)	bridgeCarries	6 lanes of Missouri Route 370
+Blanchette Memorial Bridge	bridgeCarries	10 lanes of Interstate 70
+16th Street Bridge (Pittsburgh)	bridgeCarries	4 lanes of 16th Street and 2 lanes of walkers
+Richard P. Braun Bridge	bridgeCarries	Several lanes of Minnesota State Highway 610
+I-694 Bridge	bridgeCarries	Four lanes of Interstate 694 westbound
+I-694 Bridge	bridgeCarries	Four lanes of Interstate 694 eastbound
+Camden Bridge	bridgeCarries	Four lanes of traffic
+Canadian Pacific Camden Place Rail Bridge	bridgeCarries	One track of the Canadian Pacific Railway
+Lowry Avenue Bridge	bridgeCarries	Four lanes of CSAH 153 (Lowry Avenue North)
+Lowry Avenue Bridge    1	bridgeCarries	Two lanes of CSAH 153 (Lowry Avenue North)
+I-35W Mississippi River bridge	bridgeCarries	8 lanes of I-35W
+Semyonovsky Bridge	bridgeCarries	traffic and pedestrian
+Belle Vernon Bridge	bridgeCarries	4 lanes of 20px I-70
+Sheppard Avenue Bridge	bridgeCarries	4 lanes of Sheppard Avenue West
+Great Egg Harbor Bridge	bridgeCarries	4 lanes of the Garden State Parkway and US 9
+St. Paul Union Pacific Vertical-lift Rail Bridge	bridgeCarries	One track of the Union Pacific Railroad
+St. Paul Union Pacific Rail Bridge	bridgeCarries	One track of the Union Pacific Railroad
+Betty Adkins Bridge	bridgeCarries	Four lanes of Minnesota State Highway 101
+Parrish Avenue Bridge	bridgeCarries	Two lanes of County Road 42
+Highway 25 Bridge (Minnesota)	bridgeCarries	Four lanes of Minnesota State Highway 25
+Highway 24 Bridge	bridgeCarries	Two lanes of Minnesota State Highway 24
+University Bridge (St. Cloud)	bridgeCarries	University Drive
+DeSoto Bridge	bridgeCarries	Four lanes of Minnesota State Highway 23
+Veterans Bridge (St. Cloud, Minnesota)	bridgeCarries	Four lanes of First Street North / East St. Germain Street
+St. Cloud Rail Bridge	bridgeCarries	One track of the BNSF Railway
+Sauk Rapids Bridge	bridgeCarries	Two lanes connecting First Street South, Sauk Rapids, MN and Ninth Avenue North, St. Cloud, MN (previously Minnesota State Highway 152 and Minnesota State Highway 15), pedestrians
+Bridge of Hope	bridgeCarries	Four lanes of Minnesota State Highway 15
+Daniel Boone Bridge	bridgeCarries	7 lanes (4 EB, 3 WB) of I-64/US 40/US 61
+Hohenzollern Bridge	bridgeCarries	Train and pedestrian traffic
+Claiborne Avenue Bridge	bridgeCarries	20px Louisiana Highway 39, Claiborne Avenue
+Isaac Lee Patterson Bridge	bridgeCarries	2 lanes of U.S. Route 101
+Bristol Bridge	bridgeCarries	motor vehicles
+Baltimore Harbor Tunnel	bridgeCarries	4 lanes of Interstate 895
+Gerald Desmond Bridge	bridgeCarries	4 lanes of 25px I-710
+Champlain Bridge (United States)	bridgeCarries	Two lanes of NY 185 and VT 17
+Mendota Road Bridge	bridgeCarries	Two lanes of Water Street
+Mathers Bridge	bridgeCarries	Cars & Trucks
+Little Current Swing Bridge	bridgeCarries	Highway 6
+Broadway Bridge (Kansas City)	bridgeCarries	U.S. Route 169
+Starrucca Viaduct	bridgeCarries	Two tracks of the New York, Susquehanna and Western Railway
+Albert Memorial Bridge (Regina)	bridgeCarries	4 lanes of Albert Street
+North Avenue Bridge	bridgeCarries	4 lanes of North Avenue (IL 64), 2 sidewalks
+Foresthill Bridge	bridgeCarries	Automobiles, Pedestrian traffic
+Tom Uglys Bridge	bridgeCarries	6 lanes of the Princes Highway, pedestrians and bicycles
+The Tridge	bridgeCarries	pedestrian and bicycle traffic
+George N. Wade Memorial Bridge	bridgeCarries	6 travel lanes of I-81
+Clarks Ferry Bridge	bridgeCarries	4 lanes of US 22/US 322
+Mala Rijeka Viaduct	bridgeCarries	1 rail track
+Franklin Street Bridge	bridgeCarries	Automobiles, Pedestrians
+Reichsbrücke	bridgeCarries	Light rail (tramway), road bridge
+Cape Fear Memorial Bridge	bridgeCarries	20px
+Cape Fear Memorial Bridge	bridgeCarries	20px I-20 (Future)
+Charter Oak Bridge	bridgeCarries	Motor vehicles, pedestrians, and bicycles
+Arrigoni Bridge	bridgeCarries	Route 66 and Route 17
+Marion Memorial Bridge	bridgeCarries	U.S. Route 41 and U.S. Route 72
+Canton Viaduct	bridgeCarries	2 tracks (standard gauge) presently serving:
+Canton Viaduct	bridgeCarries	*Amtrak's Northeast Corridor (passenger)
+Canton Viaduct	bridgeCarries	*MBTA's Providence/Stoughton Line (commuter)
+Canton Viaduct	bridgeCarries	*CSX's Boston Subdivision (freight)
+Tunkhannock Viaduct	bridgeCarries	railroad traffic
+Christopher S. Bond Bridge (Hermann)	bridgeCarries	2 lanes of MO-19 and a dedicated bike/pedestrian way
+Portland–Columbia Toll Bridge	bridgeCarries	2 lanes of New Jersey Route 94
+Mayo Bridge	bridgeCarries	US 360
+Manchester Bridge (Virginia)	bridgeCarries	US 60
+Old Clark Bridge	bridgeCarries	2 lanes of US 67
+Frank E. Bauer Bridge	bridgeCarries	Four lanes of the Bauer Parkway
+Swinford Toll Bridge	bridgeCarries	B4044 road
+Two Cent Bridge	bridgeCarries	Pedestrians
+Escambia Bay Bridge	bridgeCarries	6 lanes of Interstate 10
+Bayside Bridge (Pinellas County, Florida)	bridgeCarries	Pinellas County Road 611, 49th St North
+CNR Bridge	bridgeCarries	railway, single track
+Sultan Yahya Petra Bridge	bridgeCarries	Motor vehicles, Pedestrians
+Sultan Ahmad Shah II Bridge	bridgeCarries	Motor vehicles, Pedestrians
+Ross Bridge	bridgeCarries	Motor vehicles
+ASB Bridge	bridgeCarries	Railroads, and formerly Automobiles
+Hannibal Bridge	bridgeCarries	Railroad & Pedestrians
+Blue Bridge (Washington)	bridgeCarries	Four lanes of U.S. 395
+Big Obukhovsky Bridge	bridgeCarries	Saint Petersburg Ring Road (4 lanes each bridge, 8 lanes total)
+Đurđevića Tara Bridge	bridgeCarries	cars, pedestrians
+New Hope – Lambertville Toll Bridge	bridgeCarries	4 lanes of U.S. Route 202
+Parkersburg Bridge (CSX)	bridgeCarries	CSX Transportation
+George Rogers Clark Memorial Bridge	bridgeCarries	4 lanes of US Route 31
+Eko Bridge	bridgeCarries	Vehicular traffic
+Barwon Heads Bridge	bridgeCarries	Motor vehicles, Pedestrians on a separate bridge
+Wayne County Bridge	bridgeCarries	Grosse Ile Parkway
+Fourteenth Street Bridge (Ohio River)	bridgeCarries	CSX Transportation
+Tower Bridge (California)	bridgeCarries	Cars, pedestrians, and previously railroad
+Hawkesbury River Railway Bridge	bridgeCarries	Trains
+Megyeri Bridge	bridgeCarries	M0 beltway of Budapest
+Wanette–Byars Bridge	bridgeCarries	1 lane of Drummond Road
+Blagoveshchensky Bridge	bridgeCarries	pedestrian and vehicular traffic
+Thomas A. Mathis and J. Stanley Tunney Bridges	bridgeCarries	6 lanes of Route 37
+Penang Second Bridge    1	bridgeCarries	Motor vehicles
+Adolphe Bridge	bridgeCarries	Road traffic and pedestrians
+Ponte Amerigo Vespucci	bridgeCarries	automobiles, pedestrians
+Liteyny Bridge	bridgeCarries	6 lanes of roadway, tram lines
+Bolsheokhtinsky Bridge	bridgeCarries	4 lanes of roadway, 2 tram lines
+Lane Avenue Bridge	bridgeCarries	6 lanes of vehicle traffic
+Phra Pin-klao Bridge	bridgeCarries	6 lanes of roadway, pedestrians
+Ovingham Bridge	bridgeCarries	Road
+Liberty Tunnel	bridgeCarries	4 lanes of roadway
+Mid-Bay Bridge (Choctawhatchee Bay)	bridgeCarries	Florida State Road 293
+Old Sartell Bridge	bridgeCarries	Only utility lines
+Great Western Railway Usk bridge	bridgeCarries	Railway
+Sartell Bridge	bridgeCarries	Two lanes of Benton County Road 29 and Stearns County Road 78, pedestrians
+I-10 Twin Span Bridge	bridgeCarries	6 lanes of Interstate 10
+Sauk Rapids Regional Bridge	bridgeCarries	Four lanes connecting Second Street North (Benton CSAH 3), Sauk Rapids, MN and Ninth Avenue North, St. Cloud, MN, pedestrians
+Finland Railway Bridge	bridgeCarries	Finland Railway
+Newport Bridge, Newport	bridgeCarries	Motor vehicles, cyclists and pedestrians
+Hazen Bridge	bridgeCarries	Pedestrian and bicycle; formerly a single vehicle roadway Newcomb Township road 85
+Pons Cestius	bridgeCarries	Tiber Island-Trastevere
+Tees Newport Bridge	bridgeCarries	Motor vehicles, A1032 road
+125th Street Bridge	bridgeCarries	Two lanes of Stearns County Road 1 and Benton County Road 2 (125th Street NW)
+Dabong Bridge	bridgeCarries	Motor vehicles, Pedestrians
+Sultan Ismail Petra Bridge	bridgeCarries	Motor vehicles
+Murrumbidgee River Rail Bridge (Wagga Wagga)	bridgeCarries	Rail
+Sungai Linggi Bridge	bridgeCarries	Motor vehicles, Pedestrians
+The Rolling Bridge	bridgeCarries	Pedestrians
+Penobscot Narrows Bridge and Observatory	bridgeCarries	US 1 and ME 3
+Garcon Point Bridge	bridgeCarries	2 lanes of State Road 281
+First Avenue South Bridge	bridgeCarries	SR 99
+George Wallace Tunnel	bridgeCarries	4 lanes of I-10
+Glen Canyon Dam Bridge	bridgeCarries	U.S. Route 89
+Medway Viaducts	bridgeCarries	Original:4 lanes of M2 plus hard shoulder & Bridleway
+Medway Viaducts	bridgeCarries	New: 4 lanes of M2  plus hard shoulder
+Medway Viaducts	bridgeCarries	Rail: 2 tracks of High Speed 1
+Centennial Bridge (Leavenworth, Kansas)	bridgeCarries	MO 92 / K-92
+Pony Express Bridge	bridgeCarries	20px U.S. Route 36
+Fairfax Bridge (Missouri River)	bridgeCarries	U.S. Route 69 South
+Platte Purchase Bridge	bridgeCarries	U.S. Route 69 North
+Amelia Earhart Bridge	bridgeCarries	U.S. Route 59
+Delaware River Viaduct	bridgeCarries	Lackawanna Cut-Off
+Shocks Mills Bridge	bridgeCarries	Norfolk Southern Railway
+Centre Bridge–Stockton Bridge	bridgeCarries	2 lanes of PA 263
+Brightman Street Bridge	bridgeCarries	20px US 6
+Brightman Street Bridge	bridgeCarries	25px Rt. 138
+South Market Street Bridge (Wilmington)	bridgeCarries	3 lanes of Business U.S. 13 South
+Bankhead Tunnel	bridgeCarries	2 lanes of Route 98
+Cairo Rail Bridge	bridgeCarries	Single track of Canadian National Railway (formerly Illinois Central Railroad)
+CPR Bridge (Saskatoon)	bridgeCarries	Canadian Pacific Railway tracks
+New Hope – Lambertville Bridge	bridgeCarries	2 lanes of PA 179/NJ 179
+Leeds Bridge	bridgeCarries	Bridge End
+The Helix Bridge	bridgeCarries	Pedestrians
+Clyde Arc	bridgeCarries	Motor vehicles, cyclists and pedestrians
+Wabash Bridge (St. Charles, Missouri)	bridgeCarries	Norfolk Southern Railway
+Lewis Bridge (Missouri River)	bridgeCarries	4 lanes of US-67
+Nowra Bridge	bridgeCarries	Automobiles
+Lake Temenggor Bridge	bridgeCarries	Motor vehicles
+Wearmouth Bridge	bridgeCarries	Motor vehicles
+Wearmouth Bridge	bridgeCarries	A183 road, A1018 road
+Wearmouth Bridge	bridgeCarries	Pedestrians
+Veterans International Bridge at Los Tomates	bridgeCarries	vehicles, pedestrians
+Windsor Railway Bridge	bridgeCarries	Slough to Windsor & Eton Line
+Upper Hack Lift	bridgeCarries	One track of NJ Transit Main Line
+Albert Edward Bridge	bridgeCarries	Wenlock, Craven Arms and Lightmoor Extension Railway
+Union Pacific Missouri River Bridge	bridgeCarries	Railroad
+Bob Kerrey Pedestrian Bridge	bridgeCarries	Pedestrian and bicycle traffic
+Selat Lumut Bridge	bridgeCarries	Motor vehicles, Pedestrians
+Chestnut Street Bridge	bridgeCarries	Chestnut Street (PA 3 eastbound)
+Lachapelle Bridge	bridgeCarries	6 lanes of Route 117 25px
+Lachapelle Bridge	bridgeCarries	(3 lanes per span)
+Pont Viau	bridgeCarries	4 lanes of Route 335 25px and one bus lane
+Bordeaux Railway Bridge	bridgeCarries	CPR, CFQG  and the Blainville-Saint-Jerome Line (AMT)
+Piscataqua River Bridge	bridgeCarries	Interstate 95
+Memorial Bridge (Portsmouth, New Hampshire)	bridgeCarries	US 1
+Little Bay Bridge	bridgeCarries	US 4/NH 16/Spaulding Tpke.
+Bridge to Nowhere (San Gabriel Mountains)	bridgeCarries	Pedestrians
+Ada Covered Bridge	bridgeCarries	Fase/Bronson St. (footpath)
+Kingsferry Bridge	bridgeCarries	2 Lane Road
+Kingsferry Bridge	bridgeCarries	Single Track Railway
+Kingsferry Bridge	bridgeCarries	Pedestrians
+James River Bridge (Interstate 95)	bridgeCarries	I-95
+William H. Putnam Memorial Bridge	bridgeCarries	Route 3 Expressway
+Puente de la Unidad	bridgeCarries	vehicles
+Natchez Trace Parkway Bridge	bridgeCarries	Natchez Trace Parkway
+Wittpenn Bridge	bridgeCarries	4 Lanes of NJ Route 7
+Wylam Railway Bridge	bridgeCarries	Footpath
+Wylam Railway Bridge	bridgeCarries	Cycleway
+Wylam Railway Bridge	bridgeCarries	formerly Railway
+Bennerley Viaduct	bridgeCarries	Ex-Great Northern Railway
+Puente La Amistad de Taiwán	bridgeCarries	Two lanes of roadway and sidewalks
+Grand Trunk Bridge (Saskatoon)	bridgeCarries	Canadian National Railway tracks
+Big Dam Bridge	bridgeCarries	Pedestrians and bicycles
+Hong Kong-Shenzhen Western Corridor	bridgeCarries	6 lanes highway
+Suez Canal Bridge	bridgeCarries	vehicular traffic
+Parkhead Viaduct	bridgeCarries	Railway
+Bridge No. 5827-Zumbro Falls	bridgeCarries	TH 60
+Bethany Bridge	bridgeCarries	Red Top Mountain Road
+Easton–Phillipsburg Toll Bridge	bridgeCarries	4 lanes of U.S. Route 22 and 2 sidewalks
+Northampton Street Bridge	bridgeCarries	3 lanes of Northampton Street and 2 sidewalks
+Gimpo Bridge	bridgeCarries	Seoul Ring Expressway
+Laurel Creek Gorge Bridge	bridgeCarries	6 general purpose lanes
+Pink Bridge	bridgeCarries	12th Street
+Leo Frigo Memorial Bridge	bridgeCarries	4 lanes of I-43
+Sixth Street Viaduct	bridgeCarries	6th Street/Whittier Boulevard
+Second Orinoco crossing	bridgeCarries	road traffic, rail traffic
+Clackmannanshire Bridge	bridgeCarries	Motor vehicles
+Clackmannanshire Bridge	bridgeCarries	(A876 road)
+Clackmannanshire Bridge	bridgeCarries	Cyclists
+Clackmannanshire Bridge	bridgeCarries	(National Cycle Route 1)
+Clackmannanshire Bridge	bridgeCarries	Pedestrians
+Prai River Bridge	bridgeCarries	Motor vehicles
+Sorell Causeway	bridgeCarries	20px|(A3) Tasman Highway
+New Railroad Bridge	bridgeCarries	railway
+Wells Street Bridge (Chicago)	bridgeCarries	Automobiles
+Wells Street Bridge (Chicago)	bridgeCarries	Elevated Trains
+Wells Street Bridge (Chicago)	bridgeCarries	Pedestrians
+Clark Street Bridge	bridgeCarries	Motor Vehicles, Pedestrians
+Sheppey Crossing	bridgeCarries	4 Lane dual carriageway Road
+Shakespeare Bridge	bridgeCarries	Franklin Avenue
+Godavari Bridge	bridgeCarries	South Central Railway Line, Rajahmundry-Kovvur Road
+Paul Bryant Bridge	bridgeCarries	4 lanes of Alabama State Route 297, pedestrians and bicycles
+Coleman Bridge, Singapore	bridgeCarries	Vehicles and pedestrians
+Haringvlietdam	bridgeCarries	N57
+Tajik–Afghan Friendship Bridge	bridgeCarries	Commercial and passenger vehicles up to 25 metric tonnes
+Bourne End Railway Bridge	bridgeCarries	Marlow Branch Line
+Bourne End Railway Bridge	bridgeCarries	Thames Path
+Marlow By-pass Bridge	bridgeCarries	A404 road
+Verrazano Bridge (Maryland)	bridgeCarries	Two lanes of MD 611 and pedestrians/bicycles
+Mulberry Street Bridge	bridgeCarries	Motor vehicles and pedestrians
+Whites Bridge	bridgeCarries	Whites Bridge Road
+Tetsuo Harano Tunnels	bridgeCarries	4 lanes of Interstate H-3
+Hospital Rock Tunnels	bridgeCarries	4 lanes of Interstate H-3
+Washington Crossing Bridge	bridgeCarries	2 lanes of PA 532/CR 546
+Fallasburg Bridge	bridgeCarries	Covered Bridge Road
+Grand Tower Pipeline Bridge	bridgeCarries	Natural gas
+Fort Pike Bridge	bridgeCarries	2 lanes of US 90
+Craigmore Viaduct	bridgeCarries	Dublin\u2013Belfast railway line
+Rama VIII Bridge	bridgeCarries	4 lanes of roadway, pedestrians
+FEC Strauss Trunnion Bascule Bridge	bridgeCarries	2 tracks of the Florida East Coast Railway
+Chouteau Bridge	bridgeCarries	4 lanes of Chouteau Trafficway
+Danube Bridge 2	bridgeCarries	two lanes of roadway, one railway track, two walkways
+Severn River Bridge	bridgeCarries	Six lanes of US 50, US 301, and MD 2
+Naval Academy Bridge	bridgeCarries	Maryland Route 450
+Cochrane – Africatown USA Bridge	bridgeCarries	4 lanes of US 90/US 98 Truck
+Vanport Bridge	bridgeCarries	4 lanes of Interstate 376
+Shippingport Bridge	bridgeCarries	2 lanes of PA 168
+Wuhu Yangtze River Bridge	bridgeCarries	motorway, railway
+Henry Ford Bridge	bridgeCarries	Pacific Harbor Line
+Bloukrans Bridge	bridgeCarries	Road traffic
+Untertorbrücke	bridgeCarries	Two lanes and sidewalks
+Mauricio Báez Bridge	bridgeCarries	Main Road #4 (Bypass of San Pedro de Macor\u00EDs)
+Trout River Bridge	bridgeCarries	Six lanes of Interstate 95
+Pont Julien	bridgeCarries	Via Domitia
+Pont Ambroix	bridgeCarries	Via Domitia
+Podolsko Bridge	bridgeCarries	road
+Cold Spring Canyon Arch Bridge	bridgeCarries	2 lanes of 25px SR 154
+Pont-Saint-Martin (bridge)	bridgeCarries	Connection Po Valley-Gaul
+Pons Aemilius	bridgeCarries	Connection Forum Boarium-Trastevere
+Vista Bridge	bridgeCarries	Vehicles and pedestrians
+Vantage Bridge	bridgeCarries	20px Interstate 90
+Ponte d'Augusto (Rimini)	bridgeCarries	Via Aemilia
+Mooney Mooney Bridge	bridgeCarries	Road Traffic
+Centre Street Bridge (Calgary)	bridgeCarries	Centre Street
+Osney Bridge	bridgeCarries	A420 road
+Ma Wan Viaduct	bridgeCarries	Route 8
+Albertus L. Meyers Bridge	bridgeCarries	Two lanes northbound and one lane southbound of 8th Street, from Union Street to Lehigh Street, and 2 sidewalks
+French King Bridge	bridgeCarries	20px Rt. 2 pedestrian and vehicular traffic
+Moulsford Railway Bridge	bridgeCarries	Great Western Main Line
+Emory L. Bennett Causeway	bridgeCarries	Four lanes of State Road 528
+Bahia Honda Rail Bridge	bridgeCarries	Single track of Florida East Coast Railway
+Staines Bridge	bridgeCarries	A308 road
+High Steel Bridge	bridgeCarries	Passenger vehicles and logging trucks
+Stone Bridge (Johnstown, Pennsylvania)	bridgeCarries	railroad traffic
+Lansdowne Bridge Rohri	bridgeCarries	vehicles
+Laigh Milton Viaduct	bridgeCarries	Traffic suspended
+Skansen Bridge	bridgeCarries	Trains
+Hermann Bridge	bridgeCarries	Route 19
+McClugage Bridge	bridgeCarries	5 lanes (3 WB, 2 EB) of US 24/150
+Bob Michel Bridge	bridgeCarries	4 lanes of ILL 40, sidewalk
+Cedar Street Bridge	bridgeCarries	4 lanes of ILL 8/ILL 29/ILL 116
+Shade-Lohmann Bridge	bridgeCarries	4 lanes (2 each WB/EB) of I-474
+Broadway Bridge (Little Falls)	bridgeCarries	Broadway Street / 20px MN-27
+Walden Veterans' Memorial Bridge	bridgeCarries	Two lanes of NY 52
+Shillingford Bridge	bridgeCarries	Unclassified road
+Bi-State Vietnam Gold Star Bridges	bridgeCarries	20px 2 lanes each of US 41
+Sheridan Bridge (Oregon)	bridgeCarries	Bridge Street
+Victoria Bridge, Malaysia	bridgeCarries	Locomotive
+Victoria Bridge, Malaysia	bridgeCarries	Pedestrian
+Incheon Bridge	bridgeCarries	6-lane motorway
+Thanlwin Bridge (Mawlamyine)	bridgeCarries	2 lanes (SB and NB),  1 rail track (14 ft), 2 sidewalks(6 ft each)
+Taba Border Crossing	bridgeCarries	Pedestrians, Vehicles, Containers
+Wadi Araba Crossing	bridgeCarries	Pedestrians, Vehicles, Containers
+Jordan River Crossing	bridgeCarries	Pedestrians, Vehicles, Containers
+Nitzana Border Crossing	bridgeCarries	Containers
+Erez Crossing	bridgeCarries	Pedestrians, Containers
+La Crosse West Channel Bridge	bridgeCarries	4 lanes of U.S. Route 14/U.S. Route 61/MN 16/WI 16
+Quneitra Crossing	bridgeCarries	Pedestrians, Commercial Goods, Humanitarian Missions
+Mcgees Bridge	bridgeCarries	20px|(A3) Tasman Highway
+Second Hannibal Bridge	bridgeCarries	Railroad
+Perry Bridge	bridgeCarries	Now only pedestrian
+Kopu Bridge	bridgeCarries	Vehicles
+Girard Point Bridge	bridgeCarries	6 lanes of 20px
+Girard Point Bridge	bridgeCarries	(3 upper, 3 lower)
+Jerusalem Chords Bridge	bridgeCarries	Light rail (tramway) bridge / metro rail bridge
+Morell Bridge	bridgeCarries	Pedestrians and cyclists
+Newbridge, Oxfordshire	bridgeCarries	A415 road
+Don N. Holt Bridge	bridgeCarries	25px|alt=|link= I-526
+Bewdley Bridge	bridgeCarries	Motor vehicles, B4190 road
+James B. Edwards Bridge	bridgeCarries	25px|alt=|link= I-526
+Fulton Road Bridge	bridgeCarries	4 lanes of traffic across Fulton Road
+Nature Road Bridge	bridgeCarries	Morrison County Road 26 (Nature Road)
+George C. Platt Bridge	bridgeCarries	4 lanes of PA 291
+George C. Platt Bridge	bridgeCarries	(Penrose Avenue)
+Riegelsville Bridge	bridgeCarries	Delaware Road
+Cortland Street Drawbridge	bridgeCarries	Motor vehicles, pedestrians and bicycles
+Liberty Bridge at Falls Park on the Reedy	bridgeCarries	pedestrians
+Thelwall Viaduct	bridgeCarries	M6
+Gateway to the Americas International Bridge	bridgeCarries	Pedestrian
+Gateway to the Americas International Bridge	bridgeCarries	Non-commercial Vehicles
+Juárez–Lincoln International Bridge	bridgeCarries	Limited Commercial Vehicles
+Juárez–Lincoln International Bridge	bridgeCarries	Non-commercial Vehicles
+Colombia – Solidarity International Bridge	bridgeCarries	Commercial Vehicles
+Colombia – Solidarity International Bridge	bridgeCarries	Non-commercial Vehicles
+World Trade International Bridge	bridgeCarries	Commercial Vehicles Only
+Texas Mexican Railway International Bridge	bridgeCarries	Trains
+Sidney Sherman Bridge	bridgeCarries	10 general purpose lanes of Interstate 610
+Theodor Heuss Bridge (Düsseldorf)	bridgeCarries	Bundesstra\u00DFe 7
+Blennerhassett Island Bridge	bridgeCarries	20px (4 lanes)
+Dom Luís Bridge, Porto	bridgeCarries	Light rail (tramway) bridge / metro rail bridge
+Dom Luís Bridge, Porto	bridgeCarries	Road bridge
+Pearl Harbor Memorial Bridge (Connecticut)	bridgeCarries	Six lanes of I-95
+Pearl Harbor Memorial Bridge (Connecticut)  New Pearl Harbor Memorial Bridge   1	bridgeCarries	Ten lanes of I-95
+Star City Bridge	bridgeCarries	20px20px US 19/WV 7
+Star City Bridge	bridgeCarries	5 lanes (4 through plus 1 turn)
+Walton Bridge	bridgeCarries	A224 road
+M3 Chertsey Bridge	bridgeCarries	M3 motorway
+Staines Railway Bridge	bridgeCarries	Waterloo to Reading Line
+M25 Runnymede Bridge	bridgeCarries	M25 motorway
+M25 Runnymede Bridge	bridgeCarries	A30 road
+Ann W. Richards Congress Avenue Bridge	bridgeCarries	Motor vehicles, pedestrians, and bicycles
+Boone Bridge (Oregon)	bridgeCarries	20px Interstate 5
+Mid-Delaware Bridge	bridgeCarries	Four lanes of US 6/US 209
+Krotz Springs Bridge	bridgeCarries	4 lanes of US 190
+Lexington Bridge (Mississippi River)	bridgeCarries	Interstate 35E
+Burlington Northern Railroad Bridge 9.6	bridgeCarries	2 railroad tracks, used by freight and passenger trains
+Wharncliffe Viaduct	bridgeCarries	trains, telecommunications via cables
+ASEAN Bridge	bridgeCarries	Motor vehicles
+Chief Standing Bear Memorial Bridge	bridgeCarries	Road traffic
+Vermillion–Newcastle Bridge	bridgeCarries	2 lanes
+East Haddam Bridge	bridgeCarries	Route 82
+Dudley B. Menzies Bridge	bridgeCarries	Two tracks of the Edmonton LRT and a Pedestrian Walkway supported beneath the bridge
+Agen aqueduct	bridgeCarries	Canal de Garonne
+Business Bay Crossing	bridgeCarries	Motor vehicles
+Mill Avenue Bridges	bridgeCarries	Motor vehicles, pedestrians, and bicycles
+Cut River Bridge	bridgeCarries	Pedestrians, automobiles, trucks
+Tioronda Bridge	bridgeCarries	Two lanes of South Street
+Kate Shelley High Bridge	bridgeCarries	Heavy rail
+Verige bridge	bridgeCarries	4-lane motorway and two pedestrian sidewalks.
+Teodoro Moscoso Bridge	bridgeCarries	4 lanes of Jesus T. Pi\u00F1eiro Epwy (PR-17)
+Ward's Bridge	bridgeCarries	Two lanes of NY 17K
+Bodine's Bridge	bridgeCarries	Two lanes of NY 211
+Lyndon Bridge	bridgeCarries	pedestrian traffic
+Vietnam Memorial Bridge	bridgeCarries	pedestrian and vehicular traffic
+Vietnam Memorial Bridge	bridgeCarries	20px Route 116 (Massachusetts)
+Norwottuck Rail Trail Bridge	bridgeCarries	Norwottuck Rail Trail
+Fades viaduct	bridgeCarries	Railway
+Connecticut Southern railroad bridge	bridgeCarries	Rail traffic
+Memorial Bridge (Massachusetts)	bridgeCarries	pedestrian and vehicular traffic
+Memorial Bridge (Massachusetts)	bridgeCarries	20px Route 147 (Massachusetts)
+Penobscot River Bridge	bridgeCarries	Motor vehicles, cyclists, and pedestrians
+Grand Glaize Bridge	bridgeCarries	U.S. Route 54
+Kittanning Citizens Bridge	bridgeCarries	Motor vehicles (two lanes of Business US 422), pedestrians
+Foxburg Bridge (1921)	bridgeCarries	Motor vehicles, pedestrians, PA 58, trains (1921-1964)
+Dexter Coffin Bridge	bridgeCarries	Interstate 91
+Bridge Street Bridge	bridgeCarries	Route 140
+Enfield–Suffield Veterans Bridge	bridgeCarries	Route 190
+Bissell Bridge (Connecticut)	bridgeCarries	25px I-291
+Nelson Mandela Bridge	bridgeCarries	Road and pedestrian traffic
+Oregon Trunk Rail Bridge	bridgeCarries	Trains
+General Pierce Bridge	bridgeCarries	vehicular and pedestrian traffic
+Canalside Rail Trail Bridge	bridgeCarries	Canalside Rail Trail
+Gill–Montague Bridge	bridgeCarries	pedestrian and vehicular traffic
+Irvin S. Cobb Bridge	bridgeCarries	2 lanes of US 45
+Meridian Highway Bridge	bridgeCarries	Closed, previously 2 lanes of US 81
+I-35W Minnesota River bridge	bridgeCarries	Six lanes of Interstate 35W
+Pensacola Bay Bridge	bridgeCarries	4 lanes of U.S. Highway 98
+I-35W Saint Anthony Falls Bridge	bridgeCarries	10 Lanes of I-35W; light-rail or bus-way-ready
+Flehe Bridge	bridgeCarries	Automobiles, Pedestrians, and Cyclists
+Memorial Bridge, Bangkok	bridgeCarries	3 lanes of roadway, pedestrians
+Denver Millennium Bridge	bridgeCarries	Pedestrians
+Red Bridge (Tasmania)	bridgeCarries	Motor vehicles and Pedestrians
+Snake River Bridge	bridgeCarries	Passenger vehicles
+Discovery Bridge (Yankton)	bridgeCarries	4 lanes on US Route 81
+Shard Bridge	bridgeCarries	A588
+I-210 Calcasieu River High Bridge	bridgeCarries	Motor vehicles
+Lake Charles I-10 Bridge	bridgeCarries	Motor vehicles
+Buster Boyd Bridge	bridgeCarries	Motor vehicles, pedestrians, and bicycles /
+Red Cliff Bridge	bridgeCarries	Vehicle traffic
+Waldo Covered Bridge	bridgeCarries	bridge inaccessible
+Creve Coeur Lake Memorial Park Bridge	bridgeCarries	10 lanes of Route 364
+South Canon Bridge	bridgeCarries	Foot traffic
+Cherry Creek Bridge	bridgeCarries	Passenger vehicles
+Jiujiang Yangtze River Bridge	bridgeCarries	Huangxiao Expressway; China National Highway 105; Jingjiu railway
+Maroon Creek Bridge	bridgeCarries	Pedestrians
+Maroon Creek Bridge  New Maroon Creek Bridge   1	bridgeCarries	Passenger vehicles
+Corpus Christi Harbor Bridge	bridgeCarries	Motor vehicles
+Slade's Ferry Bridge	bridgeCarries	vehicular and rail traffic
+Swann Covered Bridge	bridgeCarries	bridge closed to motor traffic
+Coldwater Covered Bridge	bridgeCarries	pedestrian traffic
+Clarkson–Legg Covered Bridge	bridgeCarries	pedestrian traffic (vehicles until 1962)
+John T. Loughran Bridge	bridgeCarries	Four lanes of US 9W
+Horton Mill Covered Bridge	bridgeCarries	single lane motor traffic
+Easley Covered Bridge	bridgeCarries	bridge closed to motor traffic
+Kymulga Mill & Covered Bridge  Kymulga CB   1	bridgeCarries	pedestrian traffic
+U.S. Route 3 Bridge over the Connecticut River	bridgeCarries	20px US 3
+Maestri Bridge	bridgeCarries	2 lanes of US 11
+CSX Rigolets Pass Bridge	bridgeCarries	1 track of CSX
+Chef Menteur Bridge	bridgeCarries	2 lanes of US 90
+Janice Peaslee Bridge	bridgeCarries	pedestrian and vehicular traffic
+Salem-Shotwell Covered Bridge	bridgeCarries	pedestrian traffic
+Scott Brook Road bridge over the Connecticut River	bridgeCarries	Scott Brook Road
+Alamuchee-Bellamy Covered Bridge	bridgeCarries	pedestrian traffic
+Frederick Douglass – Susan B. Anthony Memorial Bridge	bridgeCarries	Eight lanes of I-490
+Gilliland-Reese Covered Bridge	bridgeCarries	pedestrian traffic
+Igelsta Bridge	bridgeCarries	V\u00E4stra Stambanan
+Old Union Crossing Covered Bridge	bridgeCarries	single lane motor traffic
+Market Street Bridge (Philadelphia)	bridgeCarries	Pennsylvania Route 3 eastbound
+Forest Access Road bridge over the Connecticut River	bridgeCarries	Forest Access Road
+Magalloway Road Bridge over the Connecticut River	bridgeCarries	Magalloway Road
+Martin Olav Sabo Bridge	bridgeCarries	Pedestrian and bicycle
+Lechmere Viaduct	bridgeCarries	Light rail
+Matanzas Pass Bridge	bridgeCarries	20px S.R. 865 (San Carlos Boulevard)
+MacRitchie Viaduct	bridgeCarries	Motor vehicles
+Old Blenheim Bridge	bridgeCarries	pedestrians
+Bridgeport Covered Bridge	bridgeCarries	Pedestrian
+Governor Thomas Johnson Bridge	bridgeCarries	2 lanes of MD 4
+Caloosahatchee Bridge	bridgeCarries	20px US 41 (Cleveland Avenue)
+Tuscarora Club Bridge	bridgeCarries	Pedestrian
+Grants Mills Bridge	bridgeCarries	Pedestrians
+Beaverkill Bridge	bridgeCarries	Sullivan County Route 30
+Tuthilltown Bridge	bridgeCarries	Two lanes of US 44/NY 55
+Papineau-Leblanc Bridge	bridgeCarries	6 lanes of 25px Autoroute 19
+Commodore Isaac Hull Memorial Bridge	bridgeCarries	6 lanes of Route 8
+Igor I. Sikorsky Memorial Bridge	bridgeCarries	6 lanes of Route 15
+Parker Bridge	bridgeCarries	Motor vehicles, pedestrians, PA 368
+Edison Bridge (Fort Myers, Florida)	bridgeCarries	20px
+Edison Bridge (Fort Myers, Florida)	bridgeCarries	20px 25px U.S. 41 Business Route/S.R. 739
+Nectar Covered Bridge	bridgeCarries	single lane motor traffic
+Halfpenny Bridge	bridgeCarries	A361 road
+Chikugo River Lift Bridge	bridgeCarries	Rail traffic
+Eiksund Bridge	bridgeCarries	Riksvei 653
+Wilson Pigott Bridge	bridgeCarries	20px FL 31
+Médéric Martin Bridge	bridgeCarries	Quebec Autoroute 15
+Matlacha Bridge	bridgeCarries	CR 78
+Louis Bisson Bridge	bridgeCarries	Quebec Autoroute 13
+Black Potts Railway Bridge	bridgeCarries	Staines to Windsor & Eton Line
+Main Street Bridge (Hillsboro, Oregon)	bridgeCarries	light rail
+M4 Thames Bridge	bridgeCarries	M4 Motorway
+Temple Footbridge	bridgeCarries	Thames Path
+Lafayette Avenue Bridge	bridgeCarries	20px 20px M-13/M-84
+Veterans Memorial Bridge (Bay City, Michigan)	bridgeCarries	20px M-25
+Eysey Footbridge	bridgeCarries	Thames Path
+Water Eaton House Bridge	bridgeCarries	Thames Path
+St. John's Bridge, Lechlade	bridgeCarries	A417 road
+Tadpole Bridge	bridgeCarries	unnumbered road
+Tenfoot Bridge	bridgeCarries	Footpath
+Most Świętokrzyski	bridgeCarries	Vehicles
+Charlestown Bridge	bridgeCarries	vehicular and pedestrian traffic
+Appleford Railway Bridge	bridgeCarries	Cherwell Valley Line
+Washington Street Bridge	bridgeCarries	20px MN-210
+Sutton Bridge, Oxfordshire	bridgeCarries	Minor road
+Abingdon Bridge	bridgeCarries	A415 road
+Nuneham Railway Bridge	bridgeCarries	Cherwell Valley Line
+Kennington Railway Bridge	bridgeCarries	Former Wycombe Railway
+Walden Low Bridge	bridgeCarries	Two lanes of Oak Street
+Isis Bridge	bridgeCarries	A423 road
+A34 Road Bridge	bridgeCarries	A34 road
+Shiplake Railway Bridge	bridgeCarries	Henley Branch Line
+Sonning Backwater Bridges	bridgeCarries	Minor road (B478)
+Moses Wheeler Bridge	bridgeCarries	6 lanes of I-95 (Connecticut Turnpike)
+Île aux Tourtes Bridge	bridgeCarries	Quebec Autoroute 40
+Galveston Causeway	bridgeCarries	Rail (old causeway)
+Galveston Causeway	bridgeCarries	Motor traffic (new causeway)
+Wilsonville railroad bridge	bridgeCarries	Portland and Western Railroad
+Des Plaines River Valley Bridge	bridgeCarries	6 lanes of I-355
+Alloa Swing Bridge	bridgeCarries	Rail traffic
+Veterans Memorial Bridge (Bristol County, Massachusetts)	bridgeCarries	vehicular and pedestrian traffic
+Summerleaze Footbridge	bridgeCarries	Footpath
+Dunlap's Creek Bridge	bridgeCarries	National Road
+Corporation Bridge	bridgeCarries	Motor vehicles, pedestrians
+Oakachoy Covered Bridge	bridgeCarries	pedestrian traffic
+Manchac Swamp bridge	bridgeCarries	Interstate 55
+Viaduc d'Austerlitz	bridgeCarries	Metro Traffic
+Hares Hill Road Bridge	bridgeCarries	single lane of PA State Route S.R.1045 in Chester County
+Low Level Bridge (Edmonton)	bridgeCarries	Motor vehicles, pedestrians
+Bob White Covered Bridge  Bob White CB   1	bridgeCarries	pedestrian traffic
+Main Street Bridge (Columbus)	bridgeCarries	three one-way general purpose lanes, one pedestrian
+Chenab Bridge	bridgeCarries	Kashmir Railway
+Jack's Creek Covered Bridge  Jack's Creek CB   1	bridgeCarries	pedestrian traffic
+Osney Rail Bridge	bridgeCarries	Cherwell Valley Line
+Rama IX Bridge	bridgeCarries	6 lanes of roadway
+Suffield and Thompsonville Bridge	bridgeCarries	vehicular and pedestrian traffic
+Irondequoit Bay Bridge	bridgeCarries	Motor vehicles
+Irondequoit Bay Outlet Bridge	bridgeCarries	Two lanes of Culver Road and Lake Road
+Anacostia Railroad Bridge	bridgeCarries	Railroad
+Mile-Long Bridge	bridgeCarries	8 lanes of I-294
+Market Street Bridge (Williamsport)	bridgeCarries	4 lanes of Route 15
+Market Street Bridge (Williamsport)	bridgeCarries	Pedestrian Walkway
+Welland Canal, Bridge 15	bridgeCarries	rail traffic
+Montrose Swing Bridge	bridgeCarries	Rail Traffic
+Pont Charles-de-Gaulle	bridgeCarries	Pedestrians, Vehicles and Cycles
+New Martinsville Bridge	bridgeCarries	20px 25px WV 7/OH 536
+Dutton Viaduct	bridgeCarries	West Coast Main Line
+Kanchanaphisek Bridge	bridgeCarries	6 lanes of Motorway Route 9
+Krungthep Bridge	bridgeCarries	4 lanes of roadway, pedestrians
+Rama III Bridge	bridgeCarries	6 lanes of roadway
+Taksin Bridge	bridgeCarries	6 lanes of roadway, Bangkok Skytrain, pedestrians
+Link Bridge	bridgeCarries	Upper deck: 8 express lanes of US 41
+Link Bridge	bridgeCarries	Lower deck: 6 local lanes of US 41, sidewalk
+Kingsmead Viaduct	bridgeCarries	dual 2 lane carriageways
+Pont Royal	bridgeCarries	Motor vehicles, pedestrians, and bicycles
+Pont amont	bridgeCarries	Motor vehicles
+Pont de l'Archevêché	bridgeCarries	Motor vehicles, pedestrians, and bicycles
+Alva Bridge	bridgeCarries	Broadway
+Willimansett Bridge	bridgeCarries	pedestrian and vehicular traffic
+Willimansett Bridge	bridgeCarries	Rt 116 and Route 141
+Willimansett Bridge	bridgeCarries	plumbing
+Pont Marie	bridgeCarries	Motor vehicles, pedestrians, and bicycles
+Welland Canal, bridge 13	bridgeCarries	Vehicular Traffic
+Bukit Bunga – Ban Buketa Bridge	bridgeCarries	Motor vehicles
+Charles River Bridge (Commuter Rail)	bridgeCarries	rail traffic over 4 tracks, split between the two bridges
+Leverett Circle Connector Bridge	bridgeCarries	highway access ramp
+Jubilee Parkway	bridgeCarries	4 lanes of Interstate 10
+Battleship Parkway	bridgeCarries	4 lanes of US 90 and US 98
+General W.K. Wilson Jr. Bridge	bridgeCarries	4 lanes of Interstate 65
+Phra Pok Klao Bridge	bridgeCarries	6 lanes of roadway
+Krung Thon Bridge	bridgeCarries	4 lanes of roadway, pedestrians
+Pont d'Austerlitz	bridgeCarries	Motor vehicles, pedestrians, and bicycles
+Benning Bridge	bridgeCarries	Motor vehicles, pedestrians
+Pont de Bercy	bridgeCarries	Motor vehicles
+Slate Creek Bridge	bridgeCarries	Vehicle traffic
+Dolores River Bridge	bridgeCarries	Vehicle traffic
+Amtrak Railroad Anacostia Bridge	bridgeCarries	Rail transport
+Skopje Aqueduct	bridgeCarries	Skopje Aqueduct
+Rama VI Bridge	bridgeCarries	2 Railway tracks, pedestrians
+Rama VII Bridge	bridgeCarries	6 lanes of roadway, pedestrians
+Pont au Double	bridgeCarries	Motor vehicles, pedestrians, and bicycles
+Dedaye Bridge	bridgeCarries	2 lanes ( SB and NB ),  2 sidewalks (6 feet each [])
+Valens Aqueduct	bridgeCarries	Aqueduct to Constantinople
+Kurilpa Bridge	bridgeCarries	Pedestrians and cyclists
+Caracău Viaduct	bridgeCarries	railway track
+Cernavodă Bridge	bridgeCarries	Motorway and dual railway track
+Lotru Bridge	bridgeCarries	road and railway track
+Hart's Weir Footbridge	bridgeCarries	Footpath
+Old Man's Bridge	bridgeCarries	Footpath
+Rande Bridge	bridgeCarries	Motor vehicles
+Eaton Footbridge	bridgeCarries	Footpath
+Bloomers Hole Footbridge	bridgeCarries	Footpath
+James C. Nance Memorial Bridge	bridgeCarries	2 lanes of 20px20px US-77/SH-39
+Rantau Panjang – Sungai Golok Bridge	bridgeCarries	Motor vehicles
+Valley View Bridge	bridgeCarries	25px I-480
+Rock Island Bridge (Kansas City)	bridgeCarries	formerly 1 track of Rock Island railroad
+Kansas City Southern Bridge	bridgeCarries	formerly 1 track of the Kansas City Southern Railway
+Highline Bridge (Kansas City)	bridgeCarries	4 tracks of the Kansas City Terminal Railway (KCTR), 2 on lowel level, 2 on upper
+Balclutha Road Bridge	bridgeCarries	Motor vehicles, pedestrians, cyclists
+Pont Notre-Dame	bridgeCarries	Motor vehicles, pedestrians, and bicycles
+Pont Saint-Michel	bridgeCarries	rue Saint-Denis
+Kaiser Bridge, Mainz	bridgeCarries	Railway (Mainbahn), pedestrians
+Parry Sound CPR Trestle	bridgeCarries	Canadian Pacific Railway
+Sauvie Island Bridge	bridgeCarries	Access from U.S. Route 30 to Sauvie Island
+Sioux Narrows Bridge	bridgeCarries	Highway 71
+Pont Louis-Philippe	bridgeCarries	Motor vehicles, pedestrians, and bicycles
+Portal Bridge	bridgeCarries	Amtrak, New Jersey Transit
+Pont aval	bridgeCarries	Motor vehicles
+Casco Bay Bridge	bridgeCarries	Motor vehicles and pedestrians
+Woolsey Finnell Bridge	bridgeCarries	4 lanes of U.S. 82
+Hugh R. Thomas Bridge	bridgeCarries	6 lanes of U.S. 43/S.R.69
+Sakonnet River rail bridge	bridgeCarries	Old Colony and Newport Railway
+Rex T. Barber Veterans Memorial Bridge	bridgeCarries	U.S. Highway 97
+Swithland Viaduct	bridgeCarries	Great Central Railway
+Łazienkowski Bridge	bridgeCarries	Vehicles
+Sheikh Rashid bin Saeed Crossing	bridgeCarries	Vehicles and Dubai Metro's Green Line
+23rd Street viaduct	bridgeCarries	4 lanes of Kansas Avenue in Kansas, 4 lanes of 23rd Street in Missouri
+Intercity Viaduct	bridgeCarries	7 lanes of 20px20px20px25px I-70/U.S. 24 /U.S. 40/U.S. 169 3 westbound, 4 eastbound; bike/pedestrian path
+18th Street Expressway Bridge	bridgeCarries	4 lanes of 18th Street, U.S. 69
+7th Street Trafficway Bridge	bridgeCarries	4 lanes of 25px U.S. 169, 7th Street Trafficway
+Union Pacific Bridge (Two Rivers Bridge)	bridgeCarries	1 track of Union Pacific Railroad
+James Street Bridge (Kansas City)	bridgeCarries	2 lanes of James Street
+McMillin Bridge	bridgeCarries	25px SR 162
+Christopher S. Bond Bridge, Kansas City	bridgeCarries	6 lanes of 20px 20px 20px I-29/I-35/U.S. 71 + 1 auxiliary lane for northbound vehicle traffic.
+Gasworks Bridge	bridgeCarries	Footpath
+Queshi Bridge	bridgeCarries	6 lanes
+Memorial Bridge (Roanoke, Virginia)	bridgeCarries	2 lanes of U.S. Route 11, pedestrians and bicycles
+Jordan River Bridge	bridgeCarries	20px|(B32) East Derwent Highway
+CSX Bellwood Subdivision James River Bridge	bridgeCarries	Bellwood Subdivision
+Norfolk Southern James River Bridge	bridgeCarries	Richmond District (Norfolk Southern)
+CSX A-Line Bridge	bridgeCarries	North End Subdivision
+Richmond and Petersburg Railroad Bridge	bridgeCarries	Richmond and Petersburg Railroad
+Atlantic Coast Line Railroad Bridge	bridgeCarries	Atlantic Coast Line Railroad
+Saint-Nazaire Bridge	bridgeCarries	Cars, pedestrians and cycles
+Peninsula Subdivision Trestle	bridgeCarries	Peninsula Subdivision
+Rivanna Subdivision Trestle	bridgeCarries	Rivanna Subdivision
+Fleisch Bridge	bridgeCarries	Connection between districts of St. Sebald and St. Lorenz
+Mont Clare Bridge	bridgeCarries	Bridge Street / 20px PA 29
+Central Avenue Bridge (Kansas City)	bridgeCarries	6 lanes of Central Avenue, 2 on lower level, 4 on upper
+Missouri Pacific Bridge	bridgeCarries	formerly 1 track of Missouri Pacific Railroad, now carries 1 track of Union Pacific railroad
+Union Pacific Intermodal Bridge	bridgeCarries	1 track of Union Pacific Railroad
+Northam Bridge	bridgeCarries	4 lanes (road)
+Interlachen Bridge	bridgeCarries	Two lanes of William Berry Parkway
+12th Street Bridge	bridgeCarries	2 lanes of 12th Street
+Kansas Avenue Bridge (West)	bridgeCarries	4 lanes of 20px K-32/Kansas Avenue
+Arkadiko Bridge	bridgeCarries	Mycenaean road Tiryns\u2013Epidauros
+Interstate 635 Bridge	bridgeCarries	6 lanes of 25px Interstate 635
+K-32 Turner Bridge	bridgeCarries	5 lanes of 20px K-32/Turner Diagonal (two east, three west)
+Interstate 435 Bridge	bridgeCarries	6 lanes of 25px I-435
+K-7 Bridge	bridgeCarries	4 lanes of 20px K-7
+Highway 2 Bridge	bridgeCarries	2 lanes of 20px K-2/Wyandotte Street
+222nd Street Bridge	bridgeCarries	2 lanes of 222nd Street
+U.S. 40 and 59 Bridges	bridgeCarries	20px20px US-40/59/Vermont Street/Massachusetts Street
+Kansas Turnpike Bridges	bridgeCarries	4 lanes of 20px20px I-70/Kansas Turnpike
+Schoharie Bridge	bridgeCarries	Pedestrians only
+Lecompton Road Bridge	bridgeCarries	2 lanes of Lecompton Road
+Oakland Expressway Bridge	bridgeCarries	20px K-4/Oakland Expressway
+Morse Street Bridge	bridgeCarries	2 lanes of Northeast Morse Street
+North Kansas Avenue Bridge	bridgeCarries	4 lanes of Kansas Avenue
+Vale Tunnel	bridgeCarries	formerly 1 track of the Chicago, Rock Island and Pacific railroad
+Eugene Tunnel	bridgeCarries	Formerly 1 track of the Chicago, Rock Island and Pacific railroad
+Koesltown Tunnel	bridgeCarries	formerly 1 track of the Rock Island railroad
+Freeburg Tunnel	bridgeCarries	Formerly 1 track of the Rock Island railroad
+United States Navy Seabees Bridge	bridgeCarries	NH 9
+Puh Bridge	bridgeCarries	2 lanes, pedestrians and bycicles
+Enfield–Suffield Covered Bridge	bridgeCarries	Bridge Lane (Enfield, Connecticut) to Bridge Street (Suffield, Connecticut)
+Fairfield Bridge	bridgeCarries	Motor vehicles, pedestrians
+Meghna Bridge	bridgeCarries	Motor vehicles and pedestrians
+I-670 Viaduct	bridgeCarries	6 lanes of I-670 in Kansas City
+Argentine Bridge	bridgeCarries	1 lane of Argentine Boulevard, 18th Street
+Perth Bridge	bridgeCarries	Two lanes of the A85
+Northgate, Chester	bridgeCarries	City wall
+Watergate, Chester	bridgeCarries	City wall
+Hulme Arch Bridge	bridgeCarries	Road, pavement
+Lake Oswego Railroad Bridge	bridgeCarries	rail traffic (1 track)
+Sunniberg Bridge	bridgeCarries	Motor vehicles
+Atchafalaya Basin Bridge	bridgeCarries	4 lanes of I-10
+Biloxi Bay Bridge	bridgeCarries	6 lanes of US 90
+Pascagoula River High Rise Bridge	bridgeCarries	8 lanes of US 90
+St. Louis Bay Bridge	bridgeCarries	4 lanes of US 90
+Groat Bridge	bridgeCarries	Motor vehicles, pedestrians
+Quesnell Bridge	bridgeCarries	Motor vehicles, pedestrians
+James MacDonald Bridge	bridgeCarries	Motor vehicles, pedestrians
+Merrill P. Barber Bridge	bridgeCarries	Florida State Road 60
+Red Skelton Memorial Bridge	bridgeCarries	20px US Route 50
+Daly's bridge	bridgeCarries	Pedestrians
+Sebastian Inlet Bridge	bridgeCarries	State Road A1A
+17th Street Bridge	bridgeCarries	State Route 656
+Wabasso Bridge	bridgeCarries	State Road 510
+Abdoun Bridge	bridgeCarries	Two wide lanes of car traffic
+Judge Perez Bridge	bridgeCarries	2 lanes of LA 23 North
+Ellsworth Street Bridge	bridgeCarries	U.S. Route 20
+Mactan-Mandaue Bridge	bridgeCarries	2 lanes of vehicular traffic; pedestrian sidewalks
+Eastvale Bridge	bridgeCarries	Motor vehicles, pedestrians, PA 588
+Moselle Viaduct	bridgeCarries	25px A 61
+Union Street Railroad Bridge	bridgeCarries	Pedestrian traffic
+Scotswood Bridge	bridgeCarries	Road
+Scotswood Bridge	bridgeCarries	Path
+Scotswood Railway Bridge	bridgeCarries	Water mains
+Scotswood Railway Bridge	bridgeCarries	Gas mains
+Scotswood Railway Bridge	bridgeCarries	formerly Railway
+Blaydon Bridge	bridgeCarries	A1 road
+Carter Bridge	bridgeCarries	Vehicular traffic
+Masnaa Border Crossing	bridgeCarries	Multiple Lanes of Traffic
+Pond Eddy Bridge	bridgeCarries	Quadrant Route 1011 (Pennsylvania)
+Pond Eddy Bridge	bridgeCarries	(New York)
+Topolog Viaduct	bridgeCarries	railway track
+Clover Bar Bridge	bridgeCarries	Alberta Highway 16
+Eglinton Tournament Bridge	bridgeCarries	Pedestrians
+Nichols Bridgeway	bridgeCarries	Pedestrians
+Livermore Bridge	bridgeCarries	US-431
+Moyie River Canyon Bridge	bridgeCarries	2 lanes of US-2
+University Avenue Bridge    2	bridgeCarries	University Avenue
+Little Wittenham Bridge	bridgeCarries	Footpath
+Hartford Bridge, Cheshire	bridgeCarries	A556
+Hylton Viaduct	bridgeCarries	Motor vehicles
+Hylton Viaduct	bridgeCarries	(A19 road)
+Hylton Viaduct	bridgeCarries	Pedestrians
+Wearmouth Rail Bridge	bridgeCarries	Rail
+Wearmouth Rail Bridge	bridgeCarries	Tyne and Wear Metro
+Victoria Viaduct	bridgeCarries	Rail (mothballed)
+Cox Green Footbridge	bridgeCarries	Pedestrians
+Chartershaugh Bridge	bridgeCarries	Motor vehicles
+Chartershaugh Bridge	bridgeCarries	(A182 road)
+Interstate 182 Bridge	bridgeCarries	Six lanes (three each) of 25px Interstate 182
+Hannington Bridge	bridgeCarries	Minor road
+Castle Eaton Bridge	bridgeCarries	Minor road
+BP Pedestrian Bridge	bridgeCarries	Pedestrians
+Walterdale Bridge	bridgeCarries	105 Street Northbound, Pedestrian Walkway
+Dawson Bridge	bridgeCarries	Motor vehicles, pedestrians
+A419 Road Bridge	bridgeCarries	A419 road
+Cricklade Town Bridge	bridgeCarries	A419 road
+33rd Street Railroad Bridge	bridgeCarries	Allegheny Valley Railroad (P&W Subdivision)
+Braunstone Gate Bridge	bridgeCarries	Great Central Railway (1899-1969)
+Braunstone Gate Bridge	bridgeCarries	Great Central Way (until 1997)
+Quezon Bridge	bridgeCarries	Quezon Boulevard
+Thames River Bridge (Amtrak)	bridgeCarries	Two railroad tracks
+Grandpont Bridge	bridgeCarries	Footpath, Cycleway
+Bayview Bridge (Toronto)	bridgeCarries	6 lanes of Bayview Avenue
+Long-Allen Bridge (Harrisonburg)	bridgeCarries	2 lanes of LA-8
+Long-Allen Bridge (Jonesville)	bridgeCarries	2 lanes of US 84
+Tinkers Creek Aqueduct	bridgeCarries	Ohio and Erie Canal
+Strawberry Mansion Bridge	bridgeCarries	Strawberry Mansion Drive
+Minnesota Highway 371 Bridge	bridgeCarries	20px MN-371
+Umatilla Bridge	bridgeCarries	Interstate 82/U.S. Route 395
+Vernita Bridge	bridgeCarries	Washington State Route 24
+Falls Bridge	bridgeCarries	2 lanes of Calumet Street
+Wylam Bridge	bridgeCarries	Road
+Bardwell's Ferry Bridge	bridgeCarries	Bardwell's Ferry Road
+Newburn Bridge	bridgeCarries	Road
+Newburn Bridge	bridgeCarries	Water mains
+Newburn Bridge	bridgeCarries	Gas mains
+Newburn Bridge	bridgeCarries	Telephone wires
+DB Draw	bridgeCarries	One track of NJ Transit Boonton Line
+Tom 'Diver' Derrick Bridge	bridgeCarries	Motor vehicles, pedestrians and bicycles
+Flats Industrial Railroad	bridgeCarries	Flats Industrial Railroad
+Jacques Bizard Bridge	bridgeCarries	3 lanes of Jacques Bizard Boulevard
+Saint-Laurent Railway Bridge	bridgeCarries	Canadian Pacific Railway
+Galipeault Bridge	bridgeCarries	Quebec Autoroute 20
+Nyali Bridge	bridgeCarries	Road traffic, pedestrians
+Nyali Bridge (1931)	bridgeCarries	Road traffic, pedestrians
+Fisher's Lane Bridge	bridgeCarries	2 lanes of Fisher's Lane
+Queens Bridge (Melbourne)	bridgeCarries	Road, trams, pedestrians
+Charles Grimes Bridge	bridgeCarries	Road
+Church Street Bridge	bridgeCarries	Road, trams, pedestrians
+Spencer Street Bridge	bridgeCarries	Road, trams, pedestrians
+MacRobertson Bridge	bridgeCarries	Road, pedestrians
+Ponte di Quintodecimo	bridgeCarries	Via Salaria
+John F. Kennedy Memorial Causeway	bridgeCarries	Motor vehicles
+Caruthers Bridge	bridgeCarries	TriMet MAX light rail and buses; bicycles and pedestrians
+Monongahela City Bridge	bridgeCarries	2 lanes of 20px PA 136
+Locust Creek Covered Bridge (West Virginia)	bridgeCarries	pedestrians
+Turners Falls Road Bridge	bridgeCarries	vehicular and pedestrian traffic
+Joseph E. Muller Bridge	bridgeCarries	20px U.S. Route 202 (Massachusetts)
+Amtrak/Springfield Terminal Railroad Bridge	bridgeCarries	Amtrak New Haven-Springfield Line
+Highlands – Sea Bright Bridge	bridgeCarries	4 lanes of , pedestrians and bicycles
+Springfield Terminal railroad bridge, Deerfield	bridgeCarries	Springfield Terminal Railway
+Bennett's Meadow Bridge	bridgeCarries	20px Rt. 10
+Rail Bridge, Northfield, Massachusetts	bridgeCarries	New England Central Railroad and Amtrak Vermonter
+John B. Whealton Memorial Causeway	bridgeCarries	Two lanes of VA 175
+West Cornwall Covered Bridge	bridgeCarries	Sharon-Goshen Turnpike (Connecticut Route 128)
+Locust Creek Covered Bridge (Missouri)	bridgeCarries	pedestrians
+Sultan Ahmad Shah Bridge	bridgeCarries	Motor vehicles, Pedestrians
+A25 Bridge	bridgeCarries	Six lanes of
+Selinsgrove Bridge	bridgeCarries	Railroad
+Veterans Memorial Bridge (Sunbury, Pennsylvania)	bridgeCarries	4 lanes of PA 61
+Le Gardeur Bridge	bridgeCarries	25px Route 138
+Charles de Gaulle Bridge	bridgeCarries	25px Quebec Autoroute 40
+Laurier Railway Bridge	bridgeCarries	Canadian National Railway Via Rail
+Shaw Bridge	bridgeCarries	Van Wyck Lane
+Qasr al-Nil Bridge	bridgeCarries	Al-Tahrir Street
+Tees Viaduct	bridgeCarries	Motor vehicles, A19 road
+Julia Butler Hansen Bridge	bridgeCarries	2 lanes of Washington State Route 409
+Flour Bridge	bridgeCarries	pedestrian
+Hermitage Bridge	bridgeCarries	traffic and pedestrian
+Hay Bridge	bridgeCarries	pedestrian
+Kokushkin Bridge	bridgeCarries	traffic, pedestrian
+Sangarius Bridge	bridgeCarries	Road from Constantinople to east in Byzantine times
+CSX Bridge (Painesville, Ohio)	bridgeCarries	Railroad traffic
+Blair Bridge (Union Pacific Railroad)	bridgeCarries	Union Pacific Railroad
+Blair Bridge (U.S. Route 30)	bridgeCarries	20px U.S. Route 30
+Kichi Sipi Bridge	bridgeCarries	Provincial Road 374
+Homeland Bridge	bridgeCarries	pedestrians, 4 lanes of traffic, space for 2 sets of railway tracks
+Suplacu de Barcău Viaduct	bridgeCarries	four lanes of motorway
+Dodger Point Bridge	bridgeCarries	Pedestrians
+Puddefjord Bridge	bridgeCarries	Six lanes on  Highway 555
+Puddefjord Bridge	bridgeCarries	Cyclists
+Puddefjord Bridge	bridgeCarries	Pedestrians
+River Suir Bridge	bridgeCarries	4 lanes
+Aqüeducte de les Ferreres	bridgeCarries	Aqueduct to Tarraco
+Washington Bridge (Connecticut)	bridgeCarries	4 lanes of U.S. Route 1
+Hal W. Adams Bridge	bridgeCarries	2 lanes of Florida State Road 51
+Queen's Bridge (South Bound Brook)	bridgeCarries	2 lanes of South Main Street
+Aigi Bridge	bridgeCarries	Automobile and pedestrian traffic
+Watertown Bridge	bridgeCarries	5 lanes of Rt. 16
+Watertown Bridge	bridgeCarries	& Galen St.
+Watertown Bridge	bridgeCarries	2 Pedestrian Walkways
+Pont de Recouvrance	bridgeCarries	Rue de Siam
+Pont National (Brest)	bridgeCarries	Rue de Siam
+Isle of Palms Connector Bridge	bridgeCarries	25px SC 517
+Campbell's Covered Bridge	bridgeCarries	123 Campbell Covered Bridge Rd.
+Satok Bridge	bridgeCarries	Pedestrian
+Datuk Patinggi Haji Abdul Rahman Bridge	bridgeCarries	Motor vehicles
+River Street Bridge	bridgeCarries	east-bound traffic on River Street to Cambridge Street
+Western Avenue Bridge	bridgeCarries	west-bound traffic on Western Avenue
+John W. Weeks Bridge	bridgeCarries	pedestrians
+Riparius Bridge	bridgeCarries	20px 2 traffic lanes of NY 8
+North Creek Bridge	bridgeCarries	20px 2 traffic lanes of NY 28N
+The Glen Bridge	bridgeCarries	20px 2 traffic lanes of NY 28
+Thurman Station Bridge	bridgeCarries	20px 2 traffic lanes of NY 418
+Mechanicville Bridge	bridgeCarries	NY 67
+Rock Island Swing Bridge	bridgeCarries	One and a half lanes of Washington CSAH 22, CSAH 38, and Dakota CSAH 24 and one railroad track
+Hurricane Deck Bridge	bridgeCarries	2 lanes of Route 5
+Metropolis Bridge	bridgeCarries	Single track of Paducah & Illinois Railroad (jointly-owned by Canadian National Railway and BNSF Railway)
+Niangua Bridge	bridgeCarries	2 lanes of Route 5 and Route 7
+Niangua Arm US 54 Bridge	bridgeCarries	2 lanes of US Route 54
+Van Veghten's Bridge	bridgeCarries	CR 533
+Giurgeni – Vadu Oii Bridge	bridgeCarries	Road
+Roman Bridge (Saint-Thibéry)	bridgeCarries	Via Domitia
+Gemarrin Bridge	bridgeCarries	Roman road to As-Suwayda
+White Bridge (Mysia)	bridgeCarries	Road to Gallipoli
+Ponte di Pioraco	bridgeCarries	Branch of Via Flaminia
+St. Charles Air Line Bridge	bridgeCarries	2 tracks of the Canadian National Railway
+Pont de Pierre (Aosta)	bridgeCarries	Connection Po Valley-Gaul
+Walney Bridge	bridgeCarries	A590 - motor vehicles, pedestrians
+Langley Covered Bridge	bridgeCarries	Covered Bridge Road
+Aomori Bay Bridge	bridgeCarries	Four lanes of automobile traffic for Aomori Port Road Route 2
+Pont d'Aël	bridgeCarries	Aqueduct to Augusta Pr\u00E6toria Salassorum (Aosta)
+Ponte San Lorenzo	bridgeCarries	Via San Francesco
+Thornton viaduct	bridgeCarries	Ex-Great Northern Railway
+Weidendammer Bridge	bridgeCarries	Motor vehicles, trams, pedestrians and bicycles
+Mears Memorial Bridge	bridgeCarries	Single track of Alaska Railroad
+Limyra Bridge	bridgeCarries	Pedestrian and pack animal traffic
+Indooroopilly Railway Bridge	bridgeCarries	Railway
+Puente Transbordador	bridgeCarries	Pedestrians, carts, cars and trams
+C215 Viaduct	bridgeCarries	High speed trains
+Schuylerville Bridge	bridgeCarries	New York State Route 29
+Nysa Bridge	bridgeCarries	Substructure for theatre square
+Port Orange Causeway	bridgeCarries	25px Four lanes of SR A1A
+Namhang Bridge	bridgeCarries	4 lanes of , pedestrians and bicycles
+Tajik–Afghan bridge at Tem-Demogan	bridgeCarries	Commercial and passenger vehicles up to 25 metric tonnes
+Granada Bridge (Ormond Beach)	bridgeCarries	20px Four lanes of SR 40
+Derby-Shelton Bridge	bridgeCarries	2 lanes of Bridge Street (SR 712)
+Pentele Bridge (Hungary)	bridgeCarries	Road
+Puente Rodolfo Robles	bridgeCarries	road traffic (formerly rail traffic also)
+Turnbridge Lift Bridge	bridgeCarries	Motor vehicles
+Shawneetown Bridge	bridgeCarries	20px20px Kentucky Route 56/Illinois Route 13
+Jinan Yellow River Bridge	bridgeCarries	road
+Capilano Bridge (Edmonton)	bridgeCarries	Wayne Gretzky Drive NW
+Marion Street Bridge	bridgeCarries	Marion Street/
+Marion Street Bridge	bridgeCarries	Oregon Route 22
+Center Street Bridge	bridgeCarries	Center Street/
+Center Street Bridge	bridgeCarries	Oregon Route 22
+Bergstresser/Dietz Covered Bridge	bridgeCarries	Pedestrian
+Tähtiniemi Bridge	bridgeCarries	Finnish national road 4 (E75)
+Ravenna Bridge	bridgeCarries	H\u00F6llentalbahn railway line
+Nasib Border Crossing	bridgeCarries	Commercial Goods, Vehicles
+Daraa Border Crossing	bridgeCarries	Commercial Goods, Vehicles, Train
+Arida Border Crossing	bridgeCarries	Commercial Goods, Vehicles
+Schierstein Bridge	bridgeCarries	Bundesautobahn 643
+Tauranga Harbour Bridge	bridgeCarries	Motor vehicles
+Rock Island Railroad Bridge (Columbia River)	bridgeCarries	1 railroad track
+Si Du River Bridge	bridgeCarries	Hurong Highway
+McKeesport Connecting Railroad Bridge	bridgeCarries	Great Allegheny Passage
+Coast Meridian Overpass	bridgeCarries	4 lanes of Coast Meridian Road, pedestrians and bicycles
+Old Bridge, Pontypridd	bridgeCarries	Pedestrians
+Lansky station crossover	bridgeCarries	Railroad
+Malir River Bridge	bridgeCarries	6 lanes
+Jarun Bridge	bridgeCarries	pedestrians, 6 lanes of traffic, 2 sets of metro tracks
+Busan-Geoje Fixed Link	bridgeCarries	NR 58
+Putnam Street Bridge	bridgeCarries	Putnam Street
+Pont Serme	bridgeCarries	Via Domitia
+Flat Bridge	bridgeCarries	1 lane
+Flintshire Bridge	bridgeCarries	4 lanes of A548
+Skytrail	bridgeCarries	Pedestrian (current)
+Skytrail	bridgeCarries	Railway (former)
+Liteyny bridge, Sestroretsk	bridgeCarries	Railroad
+London Road viaduct	bridgeCarries	Railway
+Lady Wimborne Bridge	bridgeCarries	Trains, pedestrians
+Fleming Park Bridge	bridgeCarries	Neville Rd, Fleming Park Rd; four lanes with divided sidewalk on upstream side
+Zavodskaya sestra crossover	bridgeCarries	Railroad
+Makestos Bridge	bridgeCarries	Hadrianu Therai-Miletopolis road
+Little Equinunk Bridge	bridgeCarries	1 lane of Adams Road
+Narrowsburg–Darbytown Bridge	bridgeCarries	2 lanes of Pennsylvania Route 652 and New York Route 52
+Skinners Falls – Milanville Bridge	bridgeCarries	1 lane of Skinners Falls Road
+Chain Bridge (Massachusetts)	bridgeCarries	Vehicular and pedestrian traffic
+Pont Flavien	bridgeCarries	Via Julia Augusta
+Four bridges on three support	bridgeCarries	two railroads
+Tea Gardens-Hawks Nest Bridge	bridgeCarries	motor vehicles, pedestrians
+Lakhtinsky crossover	bridgeCarries	One way railroads
+Barryville–Shohola Bridge	bridgeCarries	2 lanes of PA 434 and NY 55/Sullivan CR 11
+English Bridge (Saint Petersburg)	bridgeCarries	Pedestrian
+Ypsilon (bridge)	bridgeCarries	Pedestrians, cyclists
+Rach Mieu Bridge	bridgeCarries	2 lanes (1 each way) & 2 pedestrian lanes
+Museum Covered Bridge	bridgeCarries	Pedestrian
+Minato Bridge	bridgeCarries	vehicular traffic
+Han River Bridge	bridgeCarries	Motor vehicles, pedestrians and cyclists
+City to Sea Bridge	bridgeCarries	Pedestrians
+Hill to Hill Bridge	bridgeCarries	4 lanes of PA-378 and 2 sidewalks
+Cardè Bridge	bridgeCarries	Motor vehicles, pedestrians, and bicycles
+Gallox Bridge, Dunster	bridgeCarries	Pedestrians
+Arsenal Street Bridge	bridgeCarries	vehicular traffic
+Stevenson Dam Bridge	bridgeCarries	2 lanes of Connecticut Route 34
+Philip J. Fahy Memorial Bridge	bridgeCarries	4 lanes of New Street, 2 sidewalks
+Minsi Trail Bridge	bridgeCarries	4 lanes of Stefko Blvd. and 2 sidewalks
+Van Stadens Bridge	bridgeCarries	Road traffic
+Paul Sauer Bridge	bridgeCarries	Road traffic
+Pont y Werin	bridgeCarries	Cyclists
+Pont y Werin	bridgeCarries	Pedestrians
+Infinity Bridge	bridgeCarries	Pedestrians and cyclists
+Kentucky Route 2014 Bridge	bridgeCarries	1 lane of Kentucky Route 2014
+Pergamon Bridge	bridgeCarries	Red Basilica square
+Layton Bridge	bridgeCarries	Layton Road (SR 4038), originally Washington Run Railroad
+Karamagara Bridge	bridgeCarries	Roman road to Melitene
+Aesepus Bridge	bridgeCarries	Roman road to Kyzikos
+Ponte Nomentano	bridgeCarries	Via Nomentana
+Freixo Bridge	bridgeCarries	Motor vehicles
+Ponte Salario	bridgeCarries	Via Salaria (SS4)
+Ponte Molino (Padua)	bridgeCarries	Via Dante
+Siouxland Veterans Memorial Bridge	bridgeCarries	20px U.S. Route 77
+Ponte Corvo (bridge)	bridgeCarries	Via San Francesco
+Interstate Bridge (Marinette, Wisconsin – Menominee, Michigan)	bridgeCarries	US 41
+Wabash Avenue Bridge	bridgeCarries	Automobiles
+Wabash Avenue Bridge	bridgeCarries	Pedestrians
+Old Youngs Bay Bridge	bridgeCarries	25px US 101
+Bluff Dale Suspension Bridge	bridgeCarries	Pedestrian way
+Dollis Brook Viaduct	bridgeCarries	London Underground Northern line
+Kennedy Bridge (Bonn)	bridgeCarries	4 lanes of roadway (B56) and tram (\
+Malaysia–Singapore Third Crossing	bridgeCarries	Motor vehicles
+Labuan-Menumbok Bridge	bridgeCarries	Motor vehicles
+Jonathon Hulton Bridge	bridgeCarries	2 lanes of Allegheny County SR 2082
+Allegheny River Turnpike Bridge	bridgeCarries	6 lanes of Pennsylvania Turnpike / I-76
+Koilwar bridge	bridgeCarries	Kolkata-Delhi Main line + NH 30
+Sturgeon Bay Bridge	bridgeCarries	Michigan Street
+Corbridge Bridge	bridgeCarries	Road
+Hexham Bridge	bridgeCarries	Road
+Holt-Bragg Bridge	bridgeCarries	Road Traffic
+Hexham Old Bridge	bridgeCarries	Road
+Constantius Bridge	bridgeCarries	Road
+Border Counties Bridge	bridgeCarries	Rail
+Dubai Smile	bridgeCarries	Vehicles
+Eleanor Ward Bridge	bridgeCarries	4 lanes of traffic, pedestrians and bicycles
+Snow-Reed Swing Bridge	bridgeCarries	2 lanes, pedestrians, and bicycles
+Lennox Bridge, Glenbrook	bridgeCarries	Light Motor vehicles, pedestrians and bicycles
+Thomas Creek Bridge	bridgeCarries	U.S. Highway 101
+Cathedral Green Footbridge	bridgeCarries	Pedestrians & Cycles
+Exeter Bridge	bridgeCarries	Traffic
+Main Avenue Bridge	bridgeCarries	20px|OH 2|link= OH 2
+Ligovsky overpass	bridgeCarries	Auto, foot
+Iron Bridge, Satu Mare	bridgeCarries	1 rail line
+Iron Bridge, Satu Mare	bridgeCarries	(C\u0103ile Ferate Rom\u00E2ne)
+Iron Bridge, Satu Mare	bridgeCarries	2 pedestrian walkways
+Decebal Bridge, Satu Mare	bridgeCarries	4 lane road
+Decebal Bridge, Satu Mare	bridgeCarries	2 pedestrian walkways
+Golescu Bridge, Satu Mare	bridgeCarries	4 lane road
+Golescu Bridge, Satu Mare	bridgeCarries	2 pedestrian walkways
+Phu My Bridge	bridgeCarries	Motor vehicles, pedestrians and cyclists
+Styford Bridge	bridgeCarries	Road
+Novo-kamenniy Bridge	bridgeCarries	Vehicles, trams and pedestrians
+Bywell Bridge	bridgeCarries	Road
+Wadi Leban Bridge	bridgeCarries	6 lanes of highway traffic  (east and west 500?)
+Bridge L-158	bridgeCarries	Abandoned NYCRR right-of-way
+Waalbrug	bridgeCarries	vehicular traffic
+Knippelsbro	bridgeCarries	Motor vehicles, pedestrian and bicycle traffic
+Novo-Admiralteysky Bridge	bridgeCarries	Automobile, foot
+Maiden Lane Bridge	bridgeCarries	New York Central and Hudson River Railroad
+Topeka Boulevard Bridge	bridgeCarries	4 lanes of Topeka Boulevard
+Westgate Bridge (Topeka, Kansas)	bridgeCarries	4 lanes of U.S. 75
+Willard Bridge	bridgeCarries	2 lanes of Carlson Road
+Maple Hill Bridge	bridgeCarries	2 lanes of Maple Hill Road
+Paxico Road Bridge	bridgeCarries	2 lanes of Paxico Road
+K-99 Wamego Bridge	bridgeCarries	2 lanes of K-99
+Taipei Bridge	bridgeCarries	6 lanes of Provincial Highway No. 1A 25px
+Ostrovul Mare Bridge	bridgeCarries	road
+Bryggebroen	bridgeCarries	Pedestrian and bicycle traffic
+Southdown Road Skew Bridge	bridgeCarries	Midland Main Line railway
+Dan Patch Line Bridge	bridgeCarries	One rail crossing; formerly two traffic lanes
+Neidpath Viaduct	bridgeCarries	Footpath
+Frederick W. Panhorst Bridge	bridgeCarries	California State Highway 1
+Taschereau Bridge	bridgeCarries	Quebec Autoroute 20
+Princess of Wales Bridge	bridgeCarries	Teesdale Boulevard
+Rock Creek Canyon Bridge	bridgeCarries	Vehicular traffic
+Teesquay Millennium Footbridge	bridgeCarries	Pedestrians
+Lyne Viaduct	bridgeCarries	Footpath
+Kielder Viaduct	bridgeCarries	Footpath
+Broadmeadow viaduct	bridgeCarries	Dublin - Belfast railway
+Diocletianus Aqueduct	bridgeCarries	Diocletianus Aqueduct
+Confusion Hill Bridges	bridgeCarries	20px Two lanes of U.S. 101
+Kettle Falls Bridges	bridgeCarries	BNSF Railway (north bridge)
+Kettle Falls Bridges	bridgeCarries	SR 20/U.S. 395 (south bridge)
+Church Street Covered Bridge	bridgeCarries	Automobile
+Peace Bridge (Calgary)	bridgeCarries	Pedestrian pathway, bike path
+Maple Street Covered Bridge	bridgeCarries	Automobile
+Browns River Covered Bridge	bridgeCarries	Pedestrian
+Browns River Covered Bridge	bridgeCarries	(closed to motor traffic)
+Gates Farm Covered Bridge	bridgeCarries	Farm equipment
+Beebe Bridge	bridgeCarries	20px U.S. Route 97
+Arch Bridge (Bellows Falls)	bridgeCarries	Vehicles, pedestrians
+Thanlyin Bridge	bridgeCarries	2 lanes,  1 rail track,  2 pedestrian walk lanes
+Thanlyin Bridge 2	bridgeCarries	2 lanes,  1 rail track,  2 pedestrian walk lanes
+Louise Bridge	bridgeCarries	10th Street SW
+East Fairfield Covered Bridge	bridgeCarries	Automobile
+Poland Covered Bridge	bridgeCarries	Automobile
+Grist Mill Covered Bridge	bridgeCarries	Automobile
+Hereford Road Skew Bridge	bridgeCarries	Ledbury Town Trail
+Sultan Yusuf Bridge	bridgeCarries	Motor vehicles, Pedestrians
+Iskandariah Bridge	bridgeCarries	Motor vehicles, Pedestrians
+Kota Bridge	bridgeCarries	Motor vehicles, Pedestrians
+Sultan Abdul Jalil Shah Bridge	bridgeCarries	Motor vehicles, pedestrians
+Abu Bakar Bridge	bridgeCarries	Motor vehicles, Pedestrians
+Sultan Azlan Shah Bridge	bridgeCarries	Motor vehicles
+Sultan Idris Shah II Bridge	bridgeCarries	Motor vehicles, Pedestrians
+Sultan Salahuddin Abdul Aziz Shah Bridge	bridgeCarries	Motor vehicles, Pedestrians
+Zacatal Bridge	bridgeCarries	Mexican Federal Highway 180
+Ferry Street Bridge (Eugene, Oregon)	bridgeCarries	Four lanes of Coburg Road
+Power House Covered Bridge	bridgeCarries	Automobile
+Scribner Covered Bridge	bridgeCarries	Automobile
+Van Buren Street Bridge	bridgeCarries	Van Buren Street/Oregon Route 34 eastbound
+Hadley Parabolic Bridge	bridgeCarries	Hadley Road (Saratoga County Route 1)
+Victoria Bridge, Townsville	bridgeCarries	Pedestrians
+Bridge in West Earl Township	bridgeCarries	Farmersville Road (State Route 1010)
+Bigelow Bridge	bridgeCarries	Motor vehicles, pedestrians
+Cornwall Bridge	bridgeCarries	2 lanes of Route 4 and Route 7
+Bull's Bridge	bridgeCarries	Bull's Bridge Road
+Lover's Leap Bridge	bridgeCarries	Pedestrians
+Ted Smout Memorial Bridge	bridgeCarries	20px|State Route 26 20px|State Route 27
+Ted Smout Memorial Bridge	bridgeCarries	2 lanes, 1 T2 transit lane, 1 footpath
+North Bridge, Halifax	bridgeCarries	Motor vehicles
+North Bridge, Halifax	bridgeCarries	Pedestrians
+Loren Bridge	bridgeCarries	Automobile, foot
+Biryulka  Ice bridge in the village of Biryulka village   1	bridgeCarries	Automotive, foot
+Bridge to Russky Island	bridgeCarries	4 lanes, (2 lanes each way)
+Langebro	bridgeCarries	Motor vehicles, pedestrian and bicycle traffic
+Jalan Buroh Extradosed Bridge	bridgeCarries	Motor vehicles and pedestrians
+Jiak Kim Bridge	bridgeCarries	Pedestrians
+Valley Bridge	bridgeCarries	A165 road
+Terzijski Bridge	bridgeCarries	one (pedestrian) lane
+Penponds Viaduct	bridgeCarries	Cornish Main Line
+Carmine Liberta Bridge	bridgeCarries	NY 299
+Barker Crossing	bridgeCarries	Pedestrians
+Borden Bridge	bridgeCarries	Pedestrians
+Canadian Northern Railway Bridge (Prince Albert)	bridgeCarries	Carlton Trail Railway
+Crooked Bridge	bridgeCarries	Torch River Rail Inc.
+St. Louis Bridge	bridgeCarries	Traffic (Hwy 2)
+Grand Coulee Bridge	bridgeCarries	Washington State Route 155
+E. J. "Lionel" Grizzaffi Bridge	bridgeCarries	4 lanes of US 90
+Berwick Bay Bridge	bridgeCarries	1 track of Southern Pacific Railroad
+Long-Allen Bridge (Morgan City)	bridgeCarries	2 lanes of LA 182
+Union Railroad Port Perry Bridge	bridgeCarries	Pennsylvania Union Railroad
+PRR Port Perry Bridge	bridgeCarries	Norfolk Southern Railway Port Perry Branch
+McKeesport-Duquesne Bridge	bridgeCarries	2 lanes of South Duquesne Avenue
+W.D. Mansfield Memorial Bridge	bridgeCarries	4 divided lanes of traffic
+Clairton-Glassport Bridge	bridgeCarries	2 lanes of traffic
+Union Railroad Clairton Bridge	bridgeCarries	Pennsylvania Union Railroad
+Regis R. Malady Bridge	bridgeCarries	4 divided lanes of 20px PA 51
+Herr's Island Railroad Bridge	bridgeCarries	Three River Heritage Bike Trail
+30th Street Bridge	bridgeCarries	2 lanes of 30th Street
+31st Street Bridge	bridgeCarries	2 lanes of 31st Street
+Washington Crossing Bridge (Pittsburgh)	bridgeCarries	40th Street
+Senator Robert D. Fleming Bridge	bridgeCarries	4 lanes of 62nd Street
+Highland Park Bridge	bridgeCarries	4 lanes of traffic
+Brilliant Branch Railroad Bridge	bridgeCarries	Allegheny Valley Railroad Brilliant Branch
+Bessemer & Lake Erie Railroad Bridge	bridgeCarries	Canadian National Railway Bessemer and Lake Erie Railroad division
+Logans Ferry Mine Tunnel	bridgeCarries	formerly served mine carts
+C.L. Schmitt Bridge	bridgeCarries	2 lanes of traffic
+George D. Stuart Bridge	bridgeCarries	4 lanes of 25px PA 366
+Donald R. Lobaugh Bridge	bridgeCarries	4 lanes of 25px PA 356
+Donora-Webster Bridge	bridgeCarries	2 lanes of 10th Street
+Bridge of Glass	bridgeCarries	Pedestrian traffic
+Benjamin Franklin Bridge	bridgeCarries	7 lanes of 25px I-676 and 20px US 30, 2 PATCO rail lines, 2 sidewalks and 2 underground walkway tunnels on each end used to get to the other side of the bridge on foot.
+Walt Whitman Bridge	bridgeCarries	7 lanes of 20px I-76
+Langevin Bridge	bridgeCarries	Edmonton Trail
+Emlenton Bridge	bridgeCarries	I-80
+Jintang Bridge	bridgeCarries	30pxYongzhou Expressway
+Allegheny Aqueduct (Pittsburgh)	bridgeCarries	Pennsylvania Canal
+Swing Bridge, River Neath	bridgeCarries	Swansea District Line
+Taoyaomen Bridge	bridgeCarries	30pxYongzhou Expressway
+Broad River Bridge	bridgeCarries	4\u2013Lanes of
+Saugatuck River Bridge	bridgeCarries	Route 136
+Slauerhoffbrug	bridgeCarries	Traffic
+Bridge in Cumberland Township	bridgeCarries	Cunningham Road
+Rectory Junction Viaduct	bridgeCarries	Nottingham-Grantham Line
+Pont-y-Cafnau	bridgeCarries	(originally) Gurnos Tramway, aqueduct; (today) pedestrians
+Arapuni Suspension Bridge	bridgeCarries	Pedestrians and cyclists
+Sheikh Zayed Bridge	bridgeCarries	4 lanes each way
+Speers Railroad Bridge	bridgeCarries	Wheeling and Lake Erie Railway
+Viaducto de Montabliz	bridgeCarries	Cantabria-Plateau Highway
+Barton Road Swing Bridge	bridgeCarries	road traffic
+Jacob Beltzhoover  Monongahela Bridge   1	bridgeCarries	Smithfield Street
+Cochin Bridge	bridgeCarries	Pedestrian (current)
+Cochin Bridge	bridgeCarries	Road (former)
+Sherwood Forest Bridge	bridgeCarries	Road
+Park Bridge (Trans-Canada)	bridgeCarries	Trans-Canada Highway
+Beipanjiang River 2003 Bridge	bridgeCarries	Xingyi to Guiyang Highway
+Third Millennium John Paul II Bridge	bridgeCarries	Motor vehicles
+West Brownsville Junction Bridge	bridgeCarries	Norfolk Southern Railway
+Lane Bane Bridge	bridgeCarries	4 divided lanes of 20px U.S. Route 40
+Brownsville Bridge	bridgeCarries	SR 4025
+North Bridge, Warsaw	bridgeCarries	Motor vehicles, Light rail, Bicycles, Pedestrians
+Elm Street Stone Arch Bridge	bridgeCarries	Elm Street
+Highland Park Bridge (1902)	bridgeCarries	2 streetcar tracks paved for traffic
+John Paul II Bridge, Puławy	bridgeCarries	Motor vehicles, Bicycles, Pedestrians
+Brighouse Bridge	bridgeCarries	A641
+Rastrick Bridge	bridgeCarries	A643
+Blakeborough's Bridge	bridgeCarries	Footpath
+Currin Bridge	bridgeCarries	Pedestrians
+Foxburg Bridge (2008)	bridgeCarries	2 lanes of PA 58
+Ledgard Bridge	bridgeCarries	Newgate Street
+Reynolds Bridge	bridgeCarries	State Road 848 (Waterbury Road)
+Shaeffer Campbell Covered Bridge	bridgeCarries	Pedestrian
+Culham Bridge	bridgeCarries	Thames Path
+Mill Street Stone Arch Bridge	bridgeCarries	Mill Street
+Landing Masonry Bridge	bridgeCarries	2 lanes of Morris County Route 631 (Landing Road)
+Lipcani-Rădăuţi Bridge	bridgeCarries	two lanes of roadway
+Lowell Bridge	bridgeCarries	Pioneer Street
+Deh Cho Bridge	bridgeCarries	2 lanes of Highway 3
+Dragon River Bridge	bridgeCarries	Motor vehicles, pedestrians and cyclists
+Jules Wijdenbosch Bridge	bridgeCarries	2-lane wide highway (East-West Link)
+Coppename Bridge	bridgeCarries	2-lane wide highway (East-West Link)
+Oyapock River Bridge	bridgeCarries	2-lane wide highway
+Basarab Overpass	bridgeCarries	Motor vehicles, pedestrians, trams
+Michaelson Road Bridge	bridgeCarries	Michaelson Road - motor vehicles, pedestrians
+Holzbrücke Rapperswil-Hurden	bridgeCarries	Rapperswil and Hurden
+Nutty Narrows Bridge	bridgeCarries	Squirrels
+Dickabram Bridge	bridgeCarries	Motor vehicles, Railway
+Myllysilta	bridgeCarries	3 lanes of roadway
+Myllysilta	bridgeCarries	2 sidewalks
+Forgan Bridge	bridgeCarries	Motor vehicles, Pedestrians, automobiles
+Edmund Pettus Bridge	bridgeCarries	Motor vehicles, pedestrians
+Denison Bridge	bridgeCarries	Motor vehicles, Pedestrians,
+Urangan Pier	bridgeCarries	Pedestrians
+Urangan Pier	bridgeCarries	Used to carry trains & produce
+Windward Viaducts	bridgeCarries	4 lanes of Interstate H-3
+Lamington Bridge	bridgeCarries	Motor vehicles
+Bert Dosh Memorial Bridge	bridgeCarries	2 General purpose lanes (SR 40)
+Old Godavari Bridge	bridgeCarries	Railway Line (now not in use)
+Godavari Arch Bridge	bridgeCarries	Rail-cum-road bridge
+Tavy Bridge	bridgeCarries	Tamar Valley Line
+Roydhouse Bridge	bridgeCarries	Vehicles or foot traffic
+Chaotianmen Bridge	bridgeCarries	Trains, Motor vehicles, pedestrians
+Nijmegen railway bridge	bridgeCarries	2 railway lines and bicycles
+Sault Ste. Marie Bridge Company	bridgeCarries	single set of railroad tracks
+Manayunk Bridge	bridgeCarries	Former Cynwyd Line
+Mary Avenue Bridge	bridgeCarries	bicycles and pedestrians
+Cadishead Viaduct	bridgeCarries	Railway line
+Pecos River High Bridge	bridgeCarries	Southern Pacific Railroad
+Lehigh Valley Railroad Bridge	bridgeCarries	North Jersey Shared Assets
+Pennsylvania Railroad, Connecting Railway Bridge	bridgeCarries	SEPTA Trenton Line and Chestnut Hill West Line, Amtrak Northeast Corridor, NJT Atlantic City Line
+Harrison Avenue Bridge	bridgeCarries	Harrison Avenue (State Route 6011)
+Philadelphia and Reading Railroad, Schuylkill River Viaduct	bridgeCarries	railroad
+Twin Bridges (Philadelphia, Pennsylvania)	bridgeCarries	Roosevelt Expressway (US 1)
+José Leon de Carranza Bridge	bridgeCarries	N-443
+Band-e Kaisar	bridgeCarries	Sassanid road Pasargadae\u2212Ctesiphon
+Patapat Viaduct	bridgeCarries	2 lanes of traffic(1 lane each direction)
+Candaba Viaduct	bridgeCarries	North Luzon Expressway
+Diefenbaker Bridge	bridgeCarries	Highway 2
+Diefenbaker Bridge	bridgeCarries	Highway 3
+Burr's Ferry Bridge	bridgeCarries	2 lanes east and west
+Pit River Bridge	bridgeCarries	Interstate 5 and Great Northern Railway
+Yangluo Bridge	bridgeCarries	Wuhan Ring Road
+John O'Connell Bridge	bridgeCarries	2 lanes of AK-935
+Viaduct Považská Bystrica	bridgeCarries	4 lanes of D1 motorway
+White Bridge	bridgeCarries	pedestrians
+Lebaan Bridge	bridgeCarries	Motor vehicles
+Grand Rapids Swing Bridge	bridgeCarries	Amtrak, CSX
+Black Boys Bridge	bridgeCarries	Vehicles, pedestrians
+Belle Chasse Tunnel	bridgeCarries	2 lanes of LA 23 South
+Demirköprü	bridgeCarries	Trains
+Assawoman Bay Bridge	bridgeCarries	2 lanes of MD 90
+Harry W. Kelley Memorial Bridge	bridgeCarries	Four lanes of US 50, pedestrians and bicycles
+Veterans Memorial Bridge (Steubenville, Ohio)	bridgeCarries	20px U.S. Route 22
+St. Louis-San Francisco Overpass	bridgeCarries	US 62/AR 115
+Maslenica Bridge (A1)	bridgeCarries	A1 motorway
+Gründjitobel Viaduct	bridgeCarries	Rhaetian Railway
+Langwieser Viaduct	bridgeCarries	Rhaetian Railway
+Snowden Bridge	bridgeCarries	rail traffic(formerly carried automobile traffic)
+La Pepa Bridge	bridgeCarries	6 lanes, (2 lanes each way & 2 tram way)
+Maslenica Bridge (D8)	bridgeCarries	D8 state road
+Tomlinson Lift Bridge	bridgeCarries	four lanes of U.S. Route 1, 1 track of Providence & Worcester Railroad, sidewalk
+Solis Viaduct	bridgeCarries	Rhaetian Railway
+Wiesen Viaduct	bridgeCarries	Rhaetian Railway
+Schmittentobel Viaduct	bridgeCarries	Rhaetian Railway
+Brusio spiral viaduct	bridgeCarries	Rhaetian Railway
+Columbia Railroad Bridge	bridgeCarries	CSX Trenton Subdivision
+Dyssebroen	bridgeCarries	Pedestrian and bicycle traffic
+Castielertobel Viaduct	bridgeCarries	Rhaetian Railway
+Lyon Street Bridge	bridgeCarries	U.S. Route 20 westbound
+Nonthaburi City Bridge	bridgeCarries	6-lane extradosed concrete bridge
+E. L. Patton Yukon River Bridge	bridgeCarries	Dalton Highway
+E. L. Patton Yukon River Bridge	bridgeCarries	Alaska Pipeline
+Pont Briwet	bridgeCarries	Road and Railway (Cambrian Coast railway)
+Outlook Bridge	bridgeCarries	Traffic (Hwy 15)
+B&O Railroad Bridge	bridgeCarries	CSX Philadelphia Subdivision
+John S. Thompson-Brug	bridgeCarries	Provincial route N324
+Vembanad Rail Bridge	bridgeCarries	Rail
+Bukit Merah Lake Railway Bridge	bridgeCarries	Locomotive
+Padma Bridge	bridgeCarries	Motor vehicles, Railway
+Spadina Crescent Bridge (Saskatoon)	bridgeCarries	2 lanes of Spadina Crescent
+Jubilee Bridge (Stockton-on-Tees)	bridgeCarries	Queen Elizabeth Way
+Surtees Bridge	bridgeCarries	A66 road
+Victoria Bridge (Stockton-on-Tees)	bridgeCarries	Bridge Road (A1130)
+Pont De Rennes bridge	bridgeCarries	Pedestrians and bicycles
+Pequonnock River Railroad Bridge	bridgeCarries	Metro North New Haven Line
+Pequonnock River Railroad Bridge	bridgeCarries	Amtrak
+Schuylkill Arsenal Railroad Bridge	bridgeCarries	CSX Harrisburg Subdivision
+La Salle Street Bridge	bridgeCarries	Automobiles
+La Salle Street Bridge	bridgeCarries	Pedestrians
+Şirinyer Rail Tunnel	bridgeCarries	Turkish State Railways
+C. Vance DeiCas Memorial Bridge	bridgeCarries	4 divided lanes of SR 1022
+Gdańsk Bridge	bridgeCarries	Vehicles, tramways
+Devon Bridge (Alberta)	bridgeCarries	Motor vehicles, pedestrians
+Browns Bridge	bridgeCarries	2 lanes of Georgia State Route 369
+General William B. Westmoreland Bridge	bridgeCarries	25px|alt=|link= I-526
+Tukey's Bridge	bridgeCarries	eight auto lanes;
+Tukey's Bridge	bridgeCarries	30px I-295; 30px US 1; 30px ME 26
+Stoney Creek Bridge	bridgeCarries	Canadian Pacific Railway
+Vine Street Expressway Bridge	bridgeCarries	25px Interstate 676
+Vine Street Expressway Bridge	bridgeCarries	20px U.S. Route 30 Vine Street Expressway
+John F. Kennedy Boulevard Bridge	bridgeCarries	John F. Kennedy Boulevard
+Durra Border Crossing	bridgeCarries	Pedestrians, Vehicles, Containers
+Ždrelac Bridge	bridgeCarries	Road vehicles
+Cisco Bridges	bridgeCarries	Canadian National Railway
+Cisco Bridges  CPR Cisco Bridge   1	bridgeCarries	Canadian Pacific Railway
+Albion River Bridge	bridgeCarries	California State Highway 1
+Franjo Tuđman Bridge (Dubrovnik)	bridgeCarries	D8
+West River Drive Bridge	bridgeCarries	West River Drive
+Eleutherna Bridge	bridgeCarries	Footpath to Eleutherna
+Susegana Bridge	bridgeCarries	Via Claudia Augusta
+Krka Bridge	bridgeCarries	A1 motorway
+Gacka Bridge	bridgeCarries	A1 motorway
+Bar Aqueduct	bridgeCarries	Bar Aqueduct
+Schuylkill Expressway Bridge	bridgeCarries	Schuylkill Expressway 20px I-76
+Lytton CNR Thompson Bridge	bridgeCarries	Canadian National Railway
+Lytton CNR Fraser Bridge	bridgeCarries	Canadian National Railway
+Drežnik Viaduct	bridgeCarries	Road vehicles
+Jezerane Viaduct	bridgeCarries	Road vehicles
+Dabar Bridge	bridgeCarries	A1 motorway
+Raja Muda Nazrin Bridge	bridgeCarries	Motor vehicles, Pedestrians
+Einasleigh River Bridge	bridgeCarries	Motor vehicles,
+Little Crystal Creek Bridge	bridgeCarries	Motor vehicles,
+Te Rewa Rewa Bridge	bridgeCarries	pedestrians, cyclists
+Srijane Viaduct	bridgeCarries	Road vehicles
+Tanjung Sedili Bridge	bridgeCarries	Motor vehicles, Pedestrians
+Dobra Bridge (A1)	bridgeCarries	A1 motorway
+Rašćane Viaduct	bridgeCarries	A1 motorway
+Šare Viaduct	bridgeCarries	A1 motorway
+Pukete Bridge	bridgeCarries	Motor vehicles
+Paton Bridge	bridgeCarries	Automobiles
+Moskovskyi Bridge	bridgeCarries	Automobiles
+Victoria Bridge, Hamilton	bridgeCarries	Motor vehicles
+Kiev Metro Bridge	bridgeCarries	Automobiles, Metro
+Pivdennyi Bridge	bridgeCarries	Automobiles, Metro
+Mirna Bridge	bridgeCarries	A9 motorway
+Jesús Izcoa Moure Bridge	bridgeCarries	4 lanes for PR-5
+O Street Viaduct (Omaha, Nebraska)	bridgeCarries	O Street
+Endeavour Bridge	bridgeCarries	6 lanes of General Holmes Drive and pedestrians
+Crawford Street Bridge	bridgeCarries	single vehicle lanes for both directions
+Harbord Street Bridge	bridgeCarries	single vehicle lanes for both directions
+Sava River Bridge (A3)	bridgeCarries	A3 motorway
+Granite City Crossing	bridgeCarries	Four lanes of Minnesota State Highway 23
+Most Ljubavi	bridgeCarries	Pedestrians
+Rača Bridge	bridgeCarries	Road / railway-bridge
+Severinske Drage Viaduct	bridgeCarries	A6 motorway
+Zečeve Drage Viaduct	bridgeCarries	A6 motorway
+Golubinjak Viaduct	bridgeCarries	A6 motorway
+Hreljin Viaduct	bridgeCarries	A6 motorway
+Bajer Bridge	bridgeCarries	A6 motorway
+Kamačnik Bridge	bridgeCarries	A6 motorway
+Dobra Bridge (A6)	bridgeCarries	A6 motorway
+Bai Chay Bridge	bridgeCarries	4 lanes (cable-stayed section) and 6 lanes (the other sections), 2 lanes each way and 2 pedestrian lanes
+Benton City – Kiona Bridge	bridgeCarries	Two lanes of
+Powerscourt Covered Bridge	bridgeCarries	2-lane road (reduced to one lane + 2 sidewalks in 2010)
+Colonel Patrick O'Rorke Memorial Bridge	bridgeCarries	Four lanes of Pattonwood Drive (NY 943F)
+New Jinja Bridge	bridgeCarries	Kampala-Jinja Highway
+PC&Y Railroad Bridge	bridgeCarries	1 rail line
+Judge J. Frank Graff Bridge	bridgeCarries	Four lanes of 25px US 422/25px PA 28
+Rochester-Beaver Railroad Bridge	bridgeCarries	2 tracks of the Norfolk Southern Railway
+Masontown Bridge	bridgeCarries	2 divided lanes of 20px PA 21
+Ford City Veterans Bridge	bridgeCarries	Two lanes of 25px PA 128
+Circle Drive South Bridge	bridgeCarries	6 lanes of Circle Drive
+New Geneva Bridge	bridgeCarries	Norfolk Southern Monongahela Subdivision
+Fairmont Railroad Bridge	bridgeCarries	CSX Fairmont Subdivision
+Sergeant Carl F. Curran II Bridge	bridgeCarries	Two lanes of 25px PA 68
+Veterans Memorial Bridge (Essex County, Massachusetts)	bridgeCarries	vehicular and pedestrian traffic
+Long Creek Bridge	bridgeCarries	Roadway
+Kennerdell Bridge	bridgeCarries	Two lanes of Kennerdell Road (PA 3008)
+Rosendale trestle	bridgeCarries	Wallkill Valley Rail Trail, formerly Wallkill Valley Railroad
+Oil City Pennsylvania Railroad Bridge	bridgeCarries	Western New York and Pennsylvania Railroad
+Bras de la Plaine Bridge	bridgeCarries	Motor vehicles, Pedestrians and cyclists
+Preston Pipe Bridge	bridgeCarries	Water supply pipes
+Arenal Bridge	bridgeCarries	Motor vehicles
+Arenal Bridge	bridgeCarries	Streetcars
+Arenal Bridge	bridgeCarries	Pedestrians
+Solidarity Bridge	bridgeCarries	4 lanes (motor vehicles) of two national roads: national road no. 60 and national road no. 62
+Solidarity Bridge	bridgeCarries	Pedestrians and cyclists
+Rhine Bridge, Kehl	bridgeCarries	Rail traffic
+Legions of Marshal Józef Piłsudski Bridge	bridgeCarries	2 lanes (motor vehicles)
+Legions of Marshal Józef Piłsudski Bridge	bridgeCarries	1 railway track line (trains)
+Legions of Marshal Józef Piłsudski Bridge	bridgeCarries	Pedestrians and cyclists
+Airport Flyover, Brisbane	bridgeCarries	Motor vehicles
+Fallston Bridge	bridgeCarries	Front Street
+Smithton High-Level Bridge	bridgeCarries	20px I-70
+Boston Bridge	bridgeCarries	20px PA 48
+Memorial Bridge (Connellsville)	bridgeCarries	20px U.S. 119
+Malacca Strait Bridge	bridgeCarries	Motor vehicles
+Emlenton Low Level Bridge	bridgeCarries	Two lanes of 25px PA 38
+Eighth Street Bridge (Pennsylvania)	bridgeCarries	Two lanes of 25px U.S. 322
+Petroleum Street Bridge	bridgeCarries	Two lanes of 20px U.S. 62
+Veterans Memorial Bridge (Oil City, Pennsylvania)	bridgeCarries	State Street
+P&LE McKeesport Bridge	bridgeCarries	CSX Keystone Subdivision
+Bridge in Jefferson Borough	bridgeCarries	Cochran's Mill Road
+Jerome Street Bridge	bridgeCarries	George Lysle Boulevard
+Fifteenth Avenue Bridge	bridgeCarries	2 lanes of Fifteenth Avenue
+P&LE Liberty Boro Bridge	bridgeCarries	CSX Keystone Subdivision
+Sutersville Bridge	bridgeCarries	First Street (SR 2020)
+West Newton Bridge	bridgeCarries	20px PA 136
+Nagoya Port Drawbridge	bridgeCarries	Rail
+Hunter Station Bridge	bridgeCarries	Two lanes of 20px U.S. 62
+Saint Alkmund's Way Footbridge	bridgeCarries	Pedestrians & Cycles
+Tionesta Bridge	bridgeCarries	Two lanes of 20px U.S. 62/20px PA 36
+West Hickory Bridge	bridgeCarries	Two lanes of 25px PA 127
+Tidioute Bridge	bridgeCarries	Two lanes of 25px PA 127
+Smithton Low-Level Bridge	bridgeCarries	Two lanes of 20px PA 981
+Mill Bridge (Pennsylvania)	bridgeCarries	2 lanes of Mill Bridge Road
+Leechburg Bridge	bridgeCarries	2 lanes of Third Street
+Jiaozhou Bay Bridge	bridgeCarries	Motor vehicles
+Freeport Rail Bridge	bridgeCarries	1 track of the Norfolk Southern Railway
+New Harmony Toll Bridge	bridgeCarries	Two lanes of
+Hubners Bridge	bridgeCarries	Motor vehicles
+Desmond Trannore Bridge	bridgeCarries	Motor vehicles
+Memorial Bridge (Palatka, Florida)	bridgeCarries	4 lanes of SR 100 and US 17
+Memorial Bridge (Palatka, Florida)	bridgeCarries	2 sidewalks
+Third Nanjing Yangtze Bridge	bridgeCarries	3 lanes (in each direction)
+Petrofka Bridge	bridgeCarries	Highway 12
+Martin Bridge	bridgeCarries	Motor vehicles
+Berbice Bridge	bridgeCarries	2-lane wide highway
+Worli-Haji Ali Sea Link	bridgeCarries	8 lanes
+Andrew Nixon Bridge	bridgeCarries	Motor vehicles, Pedestrians
+Harbor Drive Pedestrian Bridge	bridgeCarries	Pedestrian traffic
+Vidyasagar Setu	bridgeCarries	Two way with 3 general purpose lanes each way
+Go Between Bridge	bridgeCarries	Motor vehicles, pedestrians and cyclists
+High Road Bridge	bridgeCarries	Motor vehicles
+Macleay River Bridge	bridgeCarries	Motor vehicles
+Nanpu bridge	bridgeCarries	7 lanes
+Isis River Bridge	bridgeCarries	Motor vehicles
+Ozimek Suspension Bridge	bridgeCarries	Pedestrians,
+Reiman Bridge	bridgeCarries	Pedestrians
+Juneau-Douglas Bridge	bridgeCarries	2 lanes of West 10th Street, pedestrians and bicycles
+Granville Bridge, Maryborough	bridgeCarries	Motor vehicles
+Illinois Central Missouri River Bridge	bridgeCarries	Railroad
+Ponte Buriano	bridgeCarries	vehicular traffic
+Charlie Earp Bridge	bridgeCarries	Motor vehicles, Pedestrians and cyclists
+Göltzsch Viaduct	bridgeCarries	Two railway tracks
+Hagwilget Canyon Bridge	bridgeCarries	Vehicular traffic, pedestrians
+Tokyo Gate Bridge	bridgeCarries	Vehicle, pedestrian
+Goteik viaduct	bridgeCarries	1 rail track
+Mahakam Bridge	bridgeCarries	two-wheeled vehicles, four-wheel vehicles, and pedestrians
+Bowker Overpass	bridgeCarries	Charlesgate Street
+Grand Junction Railroad Bridge	bridgeCarries	Grand Junction Railroad
+Don River Bridge, Rannes	bridgeCarries	Motor vehicles
+Don River Bridge, Bowen	bridgeCarries	Motor vehicles
+William Walter Mason Bridge	bridgeCarries	Motor vehicles
+Mungindi Bridge	bridgeCarries	Motor vehicles, Pedestrians
+Chamberlain Bridge	bridgeCarries	pedestrians, bicycles
+Sam White Bridge	bridgeCarries	Vehicle traffic
+Cathedral Bridge	bridgeCarries	Two railway tracks, one two-way lane road
+Yiling Bridge	bridgeCarries	Road/Motor Traffic (Four Lanes of roadway)
+Seohae Bridge	bridgeCarries	6 lanes motorway
+Iskandar Coastal Bridge	bridgeCarries	Motor vehicles, Pedestrians
+Wilton Bridge	bridgeCarries	B4260
+Outer Drive Bridge	bridgeCarries	Motor vehicles, pedestrians
+High Bridge, Reading	bridgeCarries	London Street
+Holmes Creek Covered Bridge	bridgeCarries	Automobile
+Quinlan's Covered Bridge	bridgeCarries	Automobile
+Spade Farm Covered Bridge	bridgeCarries	Pedestrian
+Spade Farm Covered Bridge	bridgeCarries	(closed to motor traffic)
+Pulp Mill Covered Bridge	bridgeCarries	Automobile
+Halpin Covered Bridge	bridgeCarries	Automobile
+Braley Covered Bridge	bridgeCarries	Automobile
+Gifford Covered Bridge	bridgeCarries	Automobile
+Kingsbury Covered Bridge	bridgeCarries	Automobile
+Scarborough Bridge	bridgeCarries	2 lanes of Covered Bridge Road
+Hawk Street Viaduct	bridgeCarries	Hawk Street
+Stony Brook Covered Bridge	bridgeCarries	Automobile
+Northfield Falls Covered Bridge	bridgeCarries	Automobile
+Slaughter House Covered Bridge	bridgeCarries	Automobile
+Lower Cox Brook Covered Bridge	bridgeCarries	Automobile
+Upper Cox Brook Covered Bridge	bridgeCarries	Automobile
+Pine Brook Covered Bridge	bridgeCarries	Automobile
+Great Eddy Covered Bridge	bridgeCarries	Automobile
+Warren Covered Bridge	bridgeCarries	Automobile
+Robbins Nest Covered Bridge	bridgeCarries	Automobile
+Robbins Nest Covered Bridge	bridgeCarries	(closed to public)
+Jewfish Creek Bridge	bridgeCarries	20px US 1 (Overseas Highway)
+Kharkiv Metro Bridge	bridgeCarries	, Kharkiv Metro
+Old Nicosia aqueduct	bridgeCarries	Aqueduct to Nicosia
+Berkley–Dighton Bridge (1896)	bridgeCarries	vehicular and pedestrian traffic
+Old Rhine Bridge (Constance)	bridgeCarries	Road and railway bridge, with bike and pedestrian lanes
+Nehru Setu	bridgeCarries	Grand Chord railway track
+Teston Bridge	bridgeCarries	B2163
+Sequin Covered Bridge	bridgeCarries	Automobile
+Hopkins Covered Bridge	bridgeCarries	Automobile
+Comstock Covered Bridge (Montgomery, Vermont)	bridgeCarries	Automobile
+Koshiji Bridge	bridgeCarries	Kashiwazaki Takahama Horinouchi Road No. 23
+Jawahar Setu	bridgeCarries	NH 2
+Rajendra Setu	bridgeCarries	Mokama-Barauni rail track, NH 31
+Second Mahanadi Rail Bridge	bridgeCarries	Howrah-Chennai railway track
+West Hill Covered Bridge	bridgeCarries	Automobile
+Fuller Covered Bridge	bridgeCarries	Automobile
+Hutchins Covered Bridge	bridgeCarries	Automobile
+Longley Covered Bridge	bridgeCarries	Automobile
+Mill Covered Bridge (Belvidere, Vermont)	bridgeCarries	Automobile
+Morgan Covered Bridge	bridgeCarries	Automobile
+Montgomery Covered Bridge	bridgeCarries	Automobile
+Danyang–Kunshan Grand Bridge	bridgeCarries	Rail
+Beijing Grand Bridge	bridgeCarries	Rail
+Muskoday Bridge	bridgeCarries	Traffic (Hwy 3)
+Oregon Slough Railroad Bridge	bridgeCarries	2 railroad tracks
+Minpu Bridge	bridgeCarries	Road and Pedestrian Traffic
+Minpu Bridge	bridgeCarries	A1 S32 Shenjiahuhu Expressway(Upper deck) From Pudong Airport to Zhejiang province
+Maungatapu Bridge	bridgeCarries	Motor vehicles

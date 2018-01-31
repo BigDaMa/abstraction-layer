@@ -1,0 +1,788 @@
+Adrastea (moon)	averageSpeed	112960.8
+Carme (moon)	averageSpeed	8110.8
+Earth	averageSpeed	107208.0
+Earth	averageSpeed	107200.0
+Lysithea (moon)	averageSpeed	11844.0
+Moon	averageSpeed	3679.2
+Mercury (planet)	averageSpeed	172332.0
+Nereid (moon)	averageSpeed	3362.4
+Venus	averageSpeed	126072.0
+433 Eros	averageSpeed	87696.0
+Jupiter	averageSpeed	47052.0
+Europa (moon)	averageSpeed	49464.0
+Callisto (moon)	averageSpeed	29534.4
+Saturn	averageSpeed	34884.0
+Uranus	averageSpeed	24516.0
+Pluto	averageSpeed	16797.6
+Metis (moon)	averageSpeed	113403.6
+52 Europa	averageSpeed	60732.0
+4 Vesta	averageSpeed	69624.0
+4179 Toutatis	averageSpeed	60084.0
+253 Mathilde	averageSpeed	64728.0
+16 Psyche	averageSpeed	62424.0
+Amalthea (moon)	averageSpeed	95652.0
+3753 Cruithne	averageSpeed	99828.0
+2 Pallas	averageSpeed	63540.0
+243 Ida	averageSpeed	732.96
+588 Achilles	averageSpeed	46800.0
+Phobos (moon)	averageSpeed	7696.8
+2060 Chiron	averageSpeed	27900.0
+Ganymede (moon)	averageSpeed	39168.0
+Moscow Metro	averageSpeed	41.55
+Deimos (moon)	averageSpeed	4860.0
+3 Juno	averageSpeed	64548.0
+Leda (moon)	averageSpeed	12240.0
+SkyTrain (Vancouver)	averageSpeed	45.0
+MAX Light Rail	averageSpeed	34.118008
+Proteus (moon)	averageSpeed	27442.8
+5145 Pholus	averageSpeed	21636.0
+(29075) 1950 DA	averageSpeed	76680.0
+141 Lumen	averageSpeed	64908.0
+65 Cybele	averageSpeed	57708.0
+Elara (moon)	averageSpeed	11772.0
+Himalia (moon)	averageSpeed	11923.2
+Ananke (moon)	averageSpeed	8521.2
+Pasiphaë (moon)	averageSpeed	8071.2
+Sinope (moon)	averageSpeed	8107.2
+24 Themis	averageSpeed	60336.0
+11169 Alkon	averageSpeed	67788.0
+San Francisco Municipal Railway	averageSpeed	11.26538
+Tren Urbano	averageSpeed	33.152404
+(143649) 2003 QQ47	averageSpeed	102024.0
+Mumbai Suburban Railway	averageSpeed	50.0
+624 Hektor	averageSpeed	46908.0
+20000 Varuna	averageSpeed	16308.0
+5 Astraea	averageSpeed	66204.0
+BTS Skytrain	averageSpeed	35.0
+944 Hidalgo	averageSpeed	44748.0
+1620 Geographos	averageSpeed	93312.0
+2063 Bacchus	averageSpeed	100044.0
+Berlin U-Bahn	averageSpeed	30.7
+90377 Sedna	averageSpeed	3744.0
+(15760) 1992 QB1	averageSpeed	16196.4
+2004 FH	averageSpeed	116053.2
+51826 Kalpanachawla	averageSpeed	61020.0
+Copenhagen Metro	averageSpeed	40.0
+Themisto (moon)	averageSpeed	14752.8
+21 Lutetia	averageSpeed	68256.0
+1862 Apollo	averageSpeed	81000.0
+2867 Šteins	averageSpeed	69372.0
+6 Hebe	averageSpeed	68148.0
+90 Antiope	averageSpeed	59976.0
+90 Antiope  S/2000 90 1   1	averageSpeed	64.8
+4015 Wilson–Harrington	averageSpeed	59004.0
+7968 Elst–Pizarro	averageSpeed	59904.0
+139 Juewa	averageSpeed	63792.0
+2685 Masursky	averageSpeed	66708.0
+45 Eugenia	averageSpeed	64908.0
+1566 Icarus	averageSpeed	82368.0
+Petit-Prince (moon)	averageSpeed	65.16
+216 Kleopatra	averageSpeed	64152.0
+511 Davida	averageSpeed	59724.0
+1036 Ganymed	averageSpeed	60696.0
+3908 Nyx	averageSpeed	72972.0
+4183 Cuno	averageSpeed	67777.2
+(4197) 1982 TA	averageSpeed	58572.0
+4486 Mithra	averageSpeed	63540.0
+719 Albert	averageSpeed	60732.0
+25143 Itokawa	averageSpeed	91332.0
+6489 Golevka	averageSpeed	61128.0
+(53319) 1999 JM8	averageSpeed	57636.0
+(66391) 1999 KW4	averageSpeed	133776.0
+51 Nemausa	averageSpeed	69624.0
+69230 Hermes	averageSpeed	74520.0
+2002 AA29	averageSpeed	107222.4
+2003 YN107	averageSpeed	107352.0
+3200 Phaethon	averageSpeed	71928.0
+18610 Arthurdent	averageSpeed	66384.0
+3552 Don Quixote	averageSpeed	44676.0
+3494 Purple Mountain	averageSpeed	69660.0
+3001 Michelangelo	averageSpeed	69764.4
+2985 Shakespeare	averageSpeed	63540.0
+2984 Chaucer	averageSpeed	68220.0
+1981 Midas	averageSpeed	71125.2
+2801 Huygens	averageSpeed	63576.0
+2747 Český Krumlov	averageSpeed	60876.0
+2709 Sagan	averageSpeed	72288.0
+7 Iris	averageSpeed	68508.0
+2436 Hatshepsut	averageSpeed	60012.0
+288 Glauke	averageSpeed	63864.0
+323 Brucia	averageSpeed	68040.0
+2004 JG6	averageSpeed	124488.0
+4065 Meinel	averageSpeed	68400.0
+11754 Herbig	averageSpeed	63072.0
+Mumbai Metro	averageSpeed	33.0
+MetroLink (St. Louis)	averageSpeed	39.750698
+8 Flora	averageSpeed	71820.0
+9 Metis	averageSpeed	69156.0
+10 Hygiea	averageSpeed	60336.0
+11 Parthenope	averageSpeed	68472.0
+12 Victoria	averageSpeed	70200.0
+13 Egeria	averageSpeed	66816.0
+14 Irene	averageSpeed	66672.0
+17 Thetis	averageSpeed	67932.0
+15 Eunomia	averageSpeed	65376.0
+18 Melpomene	averageSpeed	69912.0
+19 Fortuna	averageSpeed	68184.0
+20 Massalia	averageSpeed	68724.0
+23 Thalia	averageSpeed	65232.0
+25 Phocaea	averageSpeed	68076.0
+26 Proserpina	averageSpeed	65664.0
+27 Euterpe	averageSpeed	69444.0
+28 Bellona	averageSpeed	63972.0
+29 Amphitrite	averageSpeed	66996.0
+30 Urania	averageSpeed	69408.0
+31 Euphrosyne	averageSpeed	59652.0
+32 Pomona	averageSpeed	66528.0
+33 Polyhymnia	averageSpeed	61488.0
+34 Circe	averageSpeed	65232.0
+35 Leukothea	averageSpeed	61200.0
+36 Atalante	averageSpeed	63180.0
+37 Fides	averageSpeed	65448.0
+38 Leda	averageSpeed	64368.0
+39 Laetitia	averageSpeed	64224.0
+40 Harmonia	averageSpeed	71172.0
+41 Daphne	averageSpeed	63288.0
+42 Isis	averageSpeed	67752.0
+43 Ariadne	averageSpeed	71712.0
+44 Nysa	averageSpeed	68868.0
+46 Hestia	averageSpeed	66960.0
+48 Doris	averageSpeed	60732.0
+47 Aglaja	averageSpeed	62928.0
+50 Virginia	averageSpeed	64476.0
+53 Kalypso	averageSpeed	65556.0
+54 Alexandra	averageSpeed	64476.0
+56 Melete	averageSpeed	65592.0
+55 Pandora	averageSpeed	64224.0
+57 Mnemosyne	averageSpeed	60228.0
+58 Concordia	averageSpeed	65232.0
+59 Elpis	averageSpeed	64836.0
+60 Echo	averageSpeed	68724.0
+61 Danaë	averageSpeed	61668.0
+62 Erato	averageSpeed	60192.0
+63 Ausonia	averageSpeed	69012.0
+64 Angelina	averageSpeed	65196.0
+66 Maja	averageSpeed	65448.0
+67 Asia	averageSpeed	68328.0
+68 Leto	averageSpeed	63720.0
+71 Niobe	averageSpeed	64080.0
+72 Feronia	averageSpeed	70956.0
+73 Klytia	averageSpeed	65664.0
+74 Galatea	averageSpeed	63396.0
+75 Eurydike	averageSpeed	64044.0
+76 Freia	averageSpeed	57600.0
+77 Frigga	averageSpeed	65340.0
+78 Diana	averageSpeed	65520.0
+79 Eurynome	averageSpeed	67932.0
+80 Sappho	averageSpeed	70056.0
+81 Terpsichore	averageSpeed	62748.0
+82 Alkmene	averageSpeed	63720.0
+83 Beatrix	averageSpeed	68652.0
+84 Klio	averageSpeed	68796.0
+86 Semele	averageSpeed	60084.0
+85 Io	averageSpeed	65232.0
+87 Sylvia	averageSpeed	57384.0
+88 Thisbe	averageSpeed	64008.0
+89 Julia	averageSpeed	66564.0
+91 Aegina	averageSpeed	66420.0
+92 Undina	averageSpeed	59868.0
+93 Minerva	averageSpeed	64296.0
+94 Aurora	averageSpeed	60228.0
+95 Arethusa	averageSpeed	60876.0
+96 Aegle	averageSpeed	61056.0
+98 Ianthe	averageSpeed	64836.0
+97 Klotho	averageSpeed	64548.0
+99 Dike	averageSpeed	65052.0
+100 Hekate	averageSpeed	60552.0
+101 Helena	averageSpeed	66384.0
+103 Hera	averageSpeed	65124.0
+104 Klymene	averageSpeed	60012.0
+105 Artemis	averageSpeed	69048.0
+106 Dione	averageSpeed	59796.0
+107 Camilla	averageSpeed	87.12
+107 Camilla    1	averageSpeed	57420.0
+109 Felicitas	averageSpeed	63828.0
+110 Lydia	averageSpeed	64764.0
+111 Ate	averageSpeed	66384.0
+112 Iphigenia	averageSpeed	68436.0
+113 Amalthea	averageSpeed	69444.0
+114 Kassandra	averageSpeed	65232.0
+115 Thyra	averageSpeed	68868.0
+116 Sirona	averageSpeed	64116.0
+117 Lomia	averageSpeed	61992.0
+118 Peitho	averageSpeed	68220.0
+119 Althaea	averageSpeed	66636.0
+120 Lachesis	averageSpeed	60696.0
+121 Hermione	averageSpeed	79.2
+121 Hermione    1	averageSpeed	57384.0
+122 Gerda	averageSpeed	59724.0
+123 Brunhild	averageSpeed	65088.0
+124 Alkeste	averageSpeed	66024.0
+125 Liberatrix	averageSpeed	64656.0
+126 Velleda	averageSpeed	68472.0
+127 Johanna	averageSpeed	64512.0
+128 Nemesis	averageSpeed	64404.0
+129 Antigone	averageSpeed	62604.0
+130 Elektra	averageSpeed	82.8
+130 Elektra    1	averageSpeed	59976.0
+131 Vala	averageSpeed	68688.0
+132 Aethra	averageSpeed	63792.0
+134 Sophrosyne	averageSpeed	66744.0
+133 Cyrene	averageSpeed	61308.0
+135 Hertha	averageSpeed	68076.0
+136 Austria	averageSpeed	70776.0
+137 Meliboea	averageSpeed	59976.0
+138 Tolosa	averageSpeed	68076.0
+140 Siwa	averageSpeed	64080.0
+2069 Hubble	averageSpeed	59760.0
+142 Polana	averageSpeed	68652.0
+143 Adria	averageSpeed	64440.0
+144 Vibilia	averageSpeed	64908.0
+146 Lucina	averageSpeed	64944.0
+147 Protogeneia	averageSpeed	60552.0
+145 Adeona	averageSpeed	65232.0
+148 Gallia	averageSpeed	63864.0
+149 Medusa	averageSpeed	72648.0
+22 Kalliope	averageSpeed	62712.0
+160 Una	averageSpeed	64836.0
+159 Aemilia	averageSpeed	60696.0
+5020 Asimov	averageSpeed	72216.0
+181 Eucharis	averageSpeed	59904.0
+704 Interamnia	averageSpeed	60912.0
+2062 Aten	averageSpeed	108144.0
+(65407) 2002 RP120	averageSpeed	14328.0
+(137924) 2000 BD19	averageSpeed	85860.0
+15017 Cuppy	averageSpeed	69840.0
+1221 Amor	averageSpeed	73584.0
+5261 Eureka	averageSpeed	86796.0
+516 Amherstia	averageSpeed	64260.0
+3554 Amun	averageSpeed	106488.0
+(6178) 1986 DA	averageSpeed	63972.0
+201 Penelope	averageSpeed	65484.0
+Taipei Metro	averageSpeed	34.0
+Taipei Metro	averageSpeed	33.0
+366 Vincentina	averageSpeed	60372.0
+41450 Medkeff	averageSpeed	69048.0
+2001 Einstein	averageSpeed	76932.0
+Io (moon)	averageSpeed	62402.4
+4923 Clarke	averageSpeed	1129.275504
+99942 Apophis	averageSpeed	110620.8
+2101 Adonis	averageSpeed	65160.0
+25924 Douglasadams	averageSpeed	68508.0
+Muni Metro	averageSpeed	15.449664
+202 Chryseïs	averageSpeed	61164.0
+203 Pompeja	averageSpeed	64836.0
+204 Kallisto	averageSpeed	65592.0
+205 Martha	averageSpeed	64332.0
+206 Hersilia	averageSpeed	64764.0
+207 Hedda	averageSpeed	70956.0
+208 Lacrimosa	averageSpeed	63036.0
+209 Dido	averageSpeed	60444.0
+210 Isabella	averageSpeed	64980.0
+211 Isolda	averageSpeed	61488.0
+212 Medea	averageSpeed	60768.0
+213 Lilaea	averageSpeed	64620.0
+214 Aschera	averageSpeed	66348.0
+215 Oenone	averageSpeed	64476.0
+217 Eudora	averageSpeed	63252.0
+218 Bianca	averageSpeed	65664.0
+220 Stephania	averageSpeed	69984.0
+219 Thusnelda	averageSpeed	69876.0
+221 Eos	averageSpeed	61776.0
+222 Lucia	averageSpeed	60552.0
+223 Rosa	averageSpeed	60984.0
+224 Oceana	averageSpeed	65916.0
+225 Henrietta	averageSpeed	58320.0
+226 Weringia	averageSpeed	65124.0
+228 Agathe	averageSpeed	72288.0
+227 Philosophia	averageSpeed	60408.0
+229 Adelinda	averageSpeed	58032.0
+230 Athamantis	averageSpeed	69480.0
+231 Vindobona	averageSpeed	62784.0
+232 Russia	averageSpeed	67140.0
+233 Asterope	averageSpeed	65736.0
+234 Barbara	averageSpeed	69408.0
+235 Carolina	averageSpeed	63144.0
+236 Honoria	averageSpeed	64080.0
+238 Hypatia	averageSpeed	62892.0
+239 Adrastea	averageSpeed	62100.0
+237 Coelestina	averageSpeed	64512.0
+240 Vanadis	averageSpeed	65700.0
+241 Germania	averageSpeed	61344.0
+245 Vera	averageSpeed	60948.0
+244 Sita	averageSpeed	72720.0
+246 Asporina	averageSpeed	65304.0
+247 Eukrate	averageSpeed	64800.0
+249 Ilse	averageSpeed	69516.0
+248 Lameia	averageSpeed	68220.0
+250 Bettina	averageSpeed	60408.0
+251 Sophia	averageSpeed	60984.0
+252 Clementina	averageSpeed	60372.0
+254 Augusta	averageSpeed	72360.0
+255 Oppavia	averageSpeed	64728.0
+256 Walpurga	averageSpeed	61920.0
+257 Silesia	averageSpeed	60732.0
+259 Aletheia	averageSpeed	60516.0
+258 Tyche	averageSpeed	66312.0
+260 Huberta	averageSpeed	57780.0
+261 Prymno	averageSpeed	70236.0
+262 Valda	averageSpeed	67140.0
+263 Dresda	averageSpeed	63108.0
+264 Libussa	averageSpeed	64116.0
+266 Aline	averageSpeed	64044.0
+265 Anna	averageSpeed	68940.0
+267 Tirza	averageSpeed	64404.0
+268 Adorea	averageSpeed	60948.0
+269 Justitia	averageSpeed	66276.0
+270 Anahita	averageSpeed	72324.0
+272 Antonia	averageSpeed	64332.0
+271 Penthesilea	averageSpeed	61812.0
+273 Atropos	averageSpeed	69264.0
+275 Sapientia	averageSpeed	64404.0
+274 Philagoria	averageSpeed	61488.0
+276 Adelheid	averageSpeed	60768.0
+277 Elvira	averageSpeed	63108.0
+278 Paulina	averageSpeed	64584.0
+279 Thule	averageSpeed	51840.0
+280 Philia	averageSpeed	62316.0
+281 Lucretia	averageSpeed	72504.0
+282 Clorinde	averageSpeed	70128.0
+283 Emma	averageSpeed	61452.0
+285 Regina	averageSpeed	61092.0
+284 Amalia	averageSpeed	69804.0
+286 Iclea	averageSpeed	59976.0
+287 Nephthys	averageSpeed	69912.0
+289 Nenetta	averageSpeed	63288.0
+290 Bruna	averageSpeed	70128.0
+291 Alice	averageSpeed	71928.0
+292 Ludovica	averageSpeed	67428.0
+293 Brasilia	averageSpeed	63396.0
+294 Felicia	averageSpeed	60516.0
+295 Theresia	averageSpeed	64080.0
+297 Caecilia	averageSpeed	60300.0
+296 Phaëtusa	averageSpeed	71820.0
+298 Baptistina	averageSpeed	71280.0
+299 Thora	averageSpeed	68724.0
+300 Geraldina	averageSpeed	59868.0
+San Diego Trolley	averageSpeed	88.5137
+303 Josephina	averageSpeed	60696.0
+301 Bavaria	averageSpeed	64944.0
+302 Clarissa	averageSpeed	69156.0
+305 Gordonia	averageSpeed	60912.0
+306 Unitas	averageSpeed	69840.0
+304 Olga	averageSpeed	68306.4
+307 Nike	averageSpeed	62856.0
+310 Margarita	averageSpeed	64548.0
+309 Fraternitas	averageSpeed	65700.0
+308 Polyxo	averageSpeed	64656.0
+312 Pierretta	averageSpeed	64296.0
+311 Claudia	averageSpeed	63000.0
+313 Chaldaea	averageSpeed	69552.0
+314 Rosalia	averageSpeed	60444.0
+315 Constantia	averageSpeed	71640.0
+316 Goberta	averageSpeed	60228.0
+317 Roxane	averageSpeed	70920.0
+318 Magdalena	averageSpeed	60012.0
+320 Katharina	averageSpeed	61776.0
+321 Florentina	averageSpeed	63108.0
+319 Leona	averageSpeed	58248.0
+322 Phaeo	averageSpeed	64224.0
+325 Heidelberga	averageSpeed	59904.0
+324 Bamberga	averageSpeed	65448.0
+326 Tamara	averageSpeed	70416.0
+327 Columbia	averageSpeed	64368.0
+328 Gudrun	averageSpeed	60804.0
+330 Adalberta	averageSpeed	68256.0
+329 Svea	averageSpeed	68112.0
+331 Etheridgea	averageSpeed	61668.0
+332 Siri	averageSpeed	64404.0
+334 Chicago	averageSpeed	54324.0
+333 Badenia	averageSpeed	60660.0
+335 Roberta	averageSpeed	68148.0
+336 Lacadiera	averageSpeed	71460.0
+337 Devosa	averageSpeed	69480.0
+338 Budrosa	averageSpeed	62820.0
+339 Dorothea	averageSpeed	61740.0
+340 Eduarda	averageSpeed	64728.0
+342 Endymion	averageSpeed	66888.0
+341 California	averageSpeed	72288.0
+343 Ostara	averageSpeed	69048.0
+344 Desiderata	averageSpeed	66564.0
+346 Hermentaria	averageSpeed	64116.0
+347 Pariana	averageSpeed	66348.0
+345 Tercidina	averageSpeed	70308.0
+348 May	averageSpeed	62208.0
+349 Dembowska	averageSpeed	62676.0
+351 Yrsa	averageSpeed	64512.0
+350 Ornamenta	averageSpeed	60768.0
+352 Gisela	averageSpeed	72396.0
+353 Ruperto-Carola	averageSpeed	64872.0
+355 Gabriella	averageSpeed	67284.0
+354 Eleonora	averageSpeed	64080.0
+356 Liguria	averageSpeed	64620.0
+358 Apollonia	averageSpeed	63180.0
+357 Ninina	averageSpeed	60408.0
+359 Georgia	averageSpeed	64908.0
+360 Carlova	averageSpeed	61920.0
+361 Bononia	averageSpeed	53928.0
+362 Havnia	averageSpeed	66744.0
+363 Padua	averageSpeed	64692.0
+365 Corduba	averageSpeed	64044.0
+367 Amicitia	averageSpeed	71964.0
+368 Haidea	averageSpeed	61164.0
+369 Aëria	averageSpeed	65880.0
+370 Modestia	averageSpeed	70344.0
+371 Bohemia	averageSpeed	64908.0
+372 Palma	averageSpeed	60480.0
+374 Burgundia	averageSpeed	64296.0
+373 Melusina	averageSpeed	60768.0
+376 Geometria	averageSpeed	70884.0
+375 Ursula	averageSpeed	60660.0
+377 Campania	averageSpeed	65376.0
+378 Holmia	averageSpeed	64368.0
+379 Huenna	averageSpeed	60048.0
+380 Fiducia	averageSpeed	65484.0
+381 Myrrha	averageSpeed	59760.0
+382 Dodona	averageSpeed	60732.0
+383 Janina	averageSpeed	60516.0
+384 Burdigala	averageSpeed	65844.0
+385 Ilmatar	averageSpeed	63540.0
+386 Siegena	averageSpeed	63036.0
+387 Aquitania	averageSpeed	64800.0
+388 Charybdis	averageSpeed	61848.0
+389 Industria	averageSpeed	66384.0
+390 Alma	averageSpeed	65556.0
+391 Ingeborg	averageSpeed	68724.0
+393 Lampetia	averageSpeed	64332.0
+392 Wilhelmina	averageSpeed	63108.0
+394 Arduina	averageSpeed	64512.0
+395 Delia	averageSpeed	64260.0
+396 Aeolia	averageSpeed	64764.0
+397 Vienna	averageSpeed	66060.0
+398 Admete	averageSpeed	64764.0
+399 Persephone	averageSpeed	61344.0
+400 Ducrosa	averageSpeed	60624.0
+10979 Fristephenson	averageSpeed	68292.0
+401 Ottilia	averageSpeed	58572.0
+403 Cyane	averageSpeed	63972.0
+402 Chloë	averageSpeed	67032.0
+405 Thia	averageSpeed	66708.0
+404 Arsinoë	averageSpeed	66564.0
+406 Erna	averageSpeed	62820.0
+408 Fama	averageSpeed	60156.0
+407 Arachne	averageSpeed	66204.0
+409 Aspasia	averageSpeed	66780.0
+410 Chloris	averageSpeed	64908.0
+411 Xanthe	averageSpeed	62604.0
+412 Elisabetha	averageSpeed	64512.0
+413 Edburga	averageSpeed	66708.0
+414 Liriope	averageSpeed	57240.0
+416 Vaticana	averageSpeed	64188.0
+415 Palatia	averageSpeed	64188.0
+417 Suevia	averageSpeed	64080.0
+419 Aurelia	averageSpeed	66564.0
+420 Bertholda	averageSpeed	57852.0
+418 Alemannia	averageSpeed	66600.0
+421 Zähringia	averageSpeed	66204.0
+422 Berolina	averageSpeed	71820.0
+423 Diotima	averageSpeed	61236.0
+424 Gratia	averageSpeed	64404.0
+425 Cornelia	averageSpeed	63144.0
+426 Hippo	averageSpeed	63108.0
+427 Galene	averageSpeed	62172.0
+428 Monachia	averageSpeed	70596.0
+429 Lotis	averageSpeed	66384.0
+430 Hybris	averageSpeed	63540.0
+432 Pythia	averageSpeed	69660.0
+434 Hungaria	averageSpeed	76896.0
+431 Nephele	averageSpeed	60516.0
+435 Ella	averageSpeed	68508.0
+436 Patricia	averageSpeed	59868.0
+437 Rhodia	averageSpeed	69408.0
+438 Zeuxo	averageSpeed	67104.0
+439 Ohio	averageSpeed	60588.0
+440 Theodora	averageSpeed	72108.0
+441 Bathilde	averageSpeed	64008.0
+442 Eichsfeldia	averageSpeed	70020.0
+443 Photographica	averageSpeed	72036.0
+445 Edna	averageSpeed	59904.0
+444 Gyptis	averageSpeed	64368.0
+446 Aeternitas	averageSpeed	64224.0
+447 Valentine	averageSpeed	62028.0
+448 Natalie	averageSpeed	60516.0
+449 Hamburga	averageSpeed	67104.0
+450 Brigitta	averageSpeed	61776.0
+Walt Disney World Monorail System	averageSpeed	64.3736
+501 Urhixidur	averageSpeed	59940.0
+(148209) 2000 CR105	averageSpeed	5868.0
+36446 Cinodapistoia	averageSpeed	68184.0
+7939 Asphaug	averageSpeed	68940.0
+5819 Lauretta	averageSpeed	66960.0
+1685 Toro	averageSpeed	87181.2
+Haumea (dwarf planet)	averageSpeed	16142.4
+Makemake (dwarf planet)	averageSpeed	15908.4
+(15874) 1996 TL66	averageSpeed	10728.0
+19521 Chaos	averageSpeed	15815.16
+(19308) 1996 TO66	averageSpeed	16236.0
+1998 WW31	averageSpeed	16056.0
+71000 Hughdowns	averageSpeed	65052.0
+(26375) 1999 DE9	averageSpeed	13716.0
+38083 Rhadamanthus	averageSpeed	17028.0
+53311 Deucalion	averageSpeed	16081.2
+38628 Huya	averageSpeed	16668.0
+Namma Metro	averageSpeed	32.0
+11264 Claudiomaccone	averageSpeed	65844.0
+(84719) 2002 VR128	averageSpeed	16812.0
+(47171) 1999 TC36	averageSpeed	16884.0
+(55565) 2002 AW197	averageSpeed	15516.0
+20639 Michellouie	averageSpeed	65664.0
+4581 Asclepius	averageSpeed	102600.0
+2002 Euler	averageSpeed	68868.0
+Chiba Urban Monorail	averageSpeed	0.0
+4305 Clapton	averageSpeed	62748.0
+(87269) 2000 OO67	averageSpeed	3168.0
+11020 Orwell	averageSpeed	60588.0
+S/2000 (1998 WW31) 1	averageSpeed	7.2
+(10302) 1989 ML	averageSpeed	94608.0
+4409 Kissling	averageSpeed	61416.0
+473 Nolli	averageSpeed	65520.0
+475 Ocllo	averageSpeed	64116.0
+Stockholm Commuter Rail	averageSpeed	59.0
+1761 Edmondson	averageSpeed	59400.0
+8256 Shenzhou	averageSpeed	71208.0
+4349 Tibúrcio	averageSpeed	65268.0
+9885 Linux	averageSpeed	69732.0
+538 Friederike	averageSpeed	59904.0
+563 Suleika	averageSpeed	64188.0
+630 Euphemia	averageSpeed	65988.0
+728 Leonisis	averageSpeed	71280.0
+741 Botolphia	averageSpeed	64944.0
+804 Hispania	averageSpeed	63360.0
+809 Lundia	averageSpeed	70308.0
+817 Annika	averageSpeed	66096.0
+854 Frostia	averageSpeed	69156.0
+867 Kovacia	averageSpeed	61020.0
+21709 Sethmurray	averageSpeed	71172.0
+1958 Chandra	averageSpeed	60454.8
+2138 Swissair	averageSpeed	65340.0
+1089 Tama	averageSpeed	71784.0
+1313 Berna	averageSpeed	65052.0
+3529 Dowling	averageSpeed	68878.8
+3749 Balam	averageSpeed	71460.0
+1866 Sisyphus	averageSpeed	71917.2
+19367 Pink Floyd	averageSpeed	68112.0
+1627 Ivar	averageSpeed	75362.4
+1657 Roemera	averageSpeed	68986.8
+10515 Old Joe	averageSpeed	65736.0
+2009 Voloshina	averageSpeed	60444.0
+2004 XR190	averageSpeed	14112.0
+3360 Syrinx	averageSpeed	57531.6
+5335 Damocles	averageSpeed	24012.0
+1863 Antinous	averageSpeed	64224.0
+(55637) 2002 UX25	averageSpeed	16344.0
+3551 Verenia	averageSpeed	69501.6
+7796 Járacimrman	averageSpeed	65340.0
+6188 Robertpepin	averageSpeed	59796.0
+(15788) 1993 SB	averageSpeed	16704.0
+1993 RO	averageSpeed	16992.0
+(48639) 1995 TL8	averageSpeed	14616.0
+9793 Torvalds	averageSpeed	70956.0
+(84522) 2002 TC302	averageSpeed	14148.0
+7066 Nessus	averageSpeed	20052.0
+7672 Hawking	averageSpeed	71352.0
+21751 Jennytaylor	averageSpeed	69192.0
+60558 Echeclus	averageSpeed	30888.0
+(55636) 2002 TX300	averageSpeed	16272.0
+54598 Bienor	averageSpeed	26136.0
+1001 Gaussia	averageSpeed	59634.0
+2006 HZ51	averageSpeed	73728.0
+1322 Coppernicus	averageSpeed	65052.0
+2202 Pele	averageSpeed	65916.0
+Linus (moon)	averageSpeed	77.4
+2828 Iku-Turso	averageSpeed	71604.0
+115449 Robson	averageSpeed	64548.0
+112797 Grantjudy	averageSpeed	70416.0
+100596 Perrett	averageSpeed	61092.0
+100416 Syang	averageSpeed	77112.0
+100122 Alpes Maritimes	averageSpeed	59508.0
+100268 Rosenthal	averageSpeed	68148.0
+100051 Davidhernandez	averageSpeed	72468.0
+100049 Césarann	averageSpeed	69156.0
+100050 Carloshernandez	averageSpeed	65736.0
+100047 Leobaeck	averageSpeed	68184.0
+100029 Varnhagen	averageSpeed	62100.0
+100027 Hannaharendt	averageSpeed	68112.0
+100019 Gregorianik	averageSpeed	66456.0
+99950 Euchenor	averageSpeed	47232.0
+99906 Uofalberta	averageSpeed	59724.0
+99905 Jeffgrossman	averageSpeed	57600.0
+99861 Tscharnuter	averageSpeed	63360.0
+99503 Leewonchul	averageSpeed	68436.0
+99262 Bleustein	averageSpeed	60840.0
+99201 Sattler	averageSpeed	64440.0
+98825 Maryellen	averageSpeed	66024.0
+98722 Elenaumberto	averageSpeed	66060.0
+98494 Marsupilami	averageSpeed	69228.0
+112798 Kelindsey	averageSpeed	62388.0
+Ceres (dwarf planet)	averageSpeed	64375.2
+1002 Olbersia	averageSpeed	63864.0
+58534 Logos	averageSpeed	15876.0
+2000 Herschel	averageSpeed	67932.0
+1999 Hirayama	averageSpeed	60516.0
+1998 Titius	averageSpeed	68868.0
+1997 Leverrier	averageSpeed	71352.0
+1996 Adams	averageSpeed	66708.0
+2007 McCuskey	averageSpeed	69192.0
+77185 Cherryh	averageSpeed	66420.0
+2177 Oliver	averageSpeed	59868.0
+2521 Heidi	averageSpeed	64008.0
+8371 Goven	averageSpeed	65016.0
+2021 Poincaré	averageSpeed	70560.0
+Eris (dwarf planet)	averageSpeed	12369.6
+(90569) 2004 GY14	averageSpeed	46656.0
+7004 Markthiemens	averageSpeed	69768.0
+(60608) 2000 EE173	averageSpeed	14004.0
+1993 RP	averageSpeed	17496.0
+(15807) 1994 GV9	averageSpeed	16164.0
+2002 MS4	averageSpeed	16488.0
+1169 Alwine	averageSpeed	69984.0
+2006 Polonskaya	averageSpeed	69660.0
+51825 Davidbrown	averageSpeed	62172.0
+51824 Mikeanderson	averageSpeed	61668.0
+51823 Rickhusband	averageSpeed	59724.0
+51827 Laurelclark	averageSpeed	61236.0
+51828 Ilanramon	averageSpeed	64116.0
+51829 Williemccool	averageSpeed	70992.0
+118401 LINEAR	averageSpeed	59436.0
+3103 Eger	averageSpeed	145785.6
+5011 Ptah	averageSpeed	163695.6
+1054 Forsytia	averageSpeed	62460.0
+(119070) 2001 KP77	averageSpeed	16020.0
+2340 Hathor	averageSpeed	110566.8
+Montreal Metro	averageSpeed	40.0
+1056 Azalea	averageSpeed	71244.0
+Romulus (moon)	averageSpeed	97.2
+(119979) 2002 WC19	averageSpeed	15264.0
+Remus (moon)	averageSpeed	133.92
+(12538) 1998 OH	averageSpeed	82692.0
+(20161) 1996 TR66	averageSpeed	14868.0
+(174567) 2003 MW12	averageSpeed	15732.0
+(84922) 2003 VS2	averageSpeed	17100.0
+(15875) 1996 TP66	averageSpeed	16668.0
+(119951) 2002 KX14	averageSpeed	17172.0
+2001 QF298	averageSpeed	17028.0
+(15820) 1994 TB	averageSpeed	16668.0
+(19299) 1996 SZ4	averageSpeed	16812.0
+(20108) 1995 QZ9	averageSpeed	17028.0
+(42301) 2001 UR163	averageSpeed	14652.0
+(16684) 1994 JQ1	averageSpeed	16092.0
+(19255) 1994 VK8	averageSpeed	16416.0
+2003 QW90	averageSpeed	16200.0
+(26181) 1996 GQ21	averageSpeed	9936.0
+(119068) 2001 KC77	averageSpeed	13860.0
+(118702) 2000 OM67	averageSpeed	9756.0
+(24835) 1995 SM55	averageSpeed	16560.0
+(26308) 1998 SM165	averageSpeed	15012.0
+(119878) 2002 CY224	averageSpeed	14148.0
+(95625) 2002 GX32	averageSpeed	14076.0
+(118228) 1996 TQ66	averageSpeed	17064.0
+(33001) 1997 CU29	averageSpeed	16272.0
+(85627) 1998 HP151	averageSpeed	16092.0
+(120178) 2003 OP32	averageSpeed	16236.0
+1097 Vicia	averageSpeed	64512.0
+1098 Hakone	averageSpeed	65160.0
+1099 Figneria	averageSpeed	58932.0
+1100 Arnica	averageSpeed	62928.0
+1101 Clematis	averageSpeed	59544.0
+Geology of Mars	averageSpeed	86677.2
+Bergen Light Rail	averageSpeed	28.0
+18883 Domegge	averageSpeed	61092.0
+6980 Kyusakamoto	averageSpeed	63648.0
+Transmetro	averageSpeed	50.0
+35725 Tramuntana	averageSpeed	66312.0
+39748 Guccini	averageSpeed	66240.0
+1103 Sequoia	averageSpeed	76932.0
+99928 Brainard	averageSpeed	60552.0
+9902 Kirkpatrick	averageSpeed	72108.0
+9903 Leonhardt	averageSpeed	61153.130232
+Rho Indi b	averageSpeed	71712.0
+100033 Taizé	averageSpeed	59760.0
+1740 Paavo Nurmi	averageSpeed	67644.0
+3949 Mach	averageSpeed	72144.0
+1105 Fragaria	averageSpeed	61767.253512
+1105 Fragaria	averageSpeed	219600.0
+HD 41004	averageSpeed	522000.0
+3225 Hoag	averageSpeed	78206.216184
+4587 Rees	averageSpeed	61272.0
+7167 Laupheim	averageSpeed	60552.0
+Mars	averageSpeed	86677.2
+2007 VK184	averageSpeed	56268.0
+2007 WD5	averageSpeed	1.0044E8
+1404 Ajax	averageSpeed	46404.0
+1437 Diomedes	averageSpeed	47160.0
+1583 Antilochus	averageSpeed	47412.0
+1647 Menelaus	averageSpeed	46872.0
+1749 Telamon	averageSpeed	47016.0
+1868 Thersites	averageSpeed	46404.0
+1869 Philoctetes	averageSpeed	46656.0
+2146 Stentor	averageSpeed	46908.0
+2148 Epeios	averageSpeed	46944.0
+2260 Neoptolemus	averageSpeed	47052.0
+2456 Palamedes	averageSpeed	47232.0
+2759 Idomeneus	averageSpeed	47088.0
+2797 Teucer	averageSpeed	47376.0
+2920 Automedon	averageSpeed	47412.0
+3063 Makhaon	averageSpeed	47052.0
+3391 Sinon	averageSpeed	46512.0
+3540 Protesilaos	averageSpeed	46620.0
+3548 Eurybates	averageSpeed	47088.0
+3564 Talthybius	averageSpeed	46872.0
+3709 Polypoites	averageSpeed	46692.0
+Xi'an Metro	averageSpeed	40.0
+6398 Timhunter	averageSpeed	69156.0
+6216 San Jose	averageSpeed	776.350332
+2008 AF4	averageSpeed	41976.0
+8080 Intel	averageSpeed	62067.6
+Mumbai Monorail	averageSpeed	31.0
+16113 Ahmed	averageSpeed	352.763784
+10149 Cavagna	averageSpeed	72576.0
+8965 Citrinella	averageSpeed	6.02388E7
+6941 Dalgarno	averageSpeed	63684.0
+4706 Dennisreuter	averageSpeed	70668.0
+133296 Federicotosi	averageSpeed	64976.4
+3031 Houston	averageSpeed	71532.0
+20228 Jeanmarcmari	averageSpeed	7200.0
+4130 Ramanujan	averageSpeed	61308.0
+163693 Atira	averageSpeed	121248.0
+54509 YORP	averageSpeed	105516.0
+2243 Lönnrot	averageSpeed	1052.409708
+5178 Pattazhy	averageSpeed	71496.0
+172996 Stooke	averageSpeed	65556.0
+Pasig River Ferry Service	averageSpeed	18.52
+Neptune	averageSpeed	19548.0
+98127 Vilgusová	averageSpeed	940.513464
+Miami Seaquarium Spacerail	averageSpeed	9.65604
+2008 KV42	averageSpeed	14616.0
+951 Gaspra	averageSpeed	71568.0
+Indiana University Health People Mover	averageSpeed	27.35878
+50000 Quaoar	averageSpeed	16272.0
+2009 DD45	averageSpeed	2.5668648E9
+(31669) 1999 JT6	averageSpeed	1.13688E7
+(4953) 1990 MU	averageSpeed	1.71864E7
+Jetrail	averageSpeed	20.92142
+17516 Kogayukihito	averageSpeed	66780.0
+2009 YE7	averageSpeed	16092.0
+2010 AL30	averageSpeed	102600.0
+Carowinds Monorail	averageSpeed	28.96812
+24601 Valjean	averageSpeed	1072.368108
+Wirral Tramway	averageSpeed	19.31208
+25925 Jamesfenska	averageSpeed	70344.0
+Navi Mumbai Monorail	averageSpeed	31.0
+Pune Monorail	averageSpeed	31.0
+Patna Monorail	averageSpeed	31.0
+Ahmedabad Monorail	averageSpeed	31.0
+Ludhiana Metro	averageSpeed	33.0
+Kanpur Monorail	averageSpeed	31.0
+2029 Binomi	averageSpeed	69660.0
+Cuttack Railway Station	averageSpeed	50.0
+Bakersfield and Kern Electric Railway	averageSpeed	40.2335

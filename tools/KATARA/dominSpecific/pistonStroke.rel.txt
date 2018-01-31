@@ -1,0 +1,44 @@
+Ford 335 engine	pistonStroke	0.0762
+Ford 335 engine	pistonStroke	0.0889
+Ford 335 engine	pistonStroke	0.1016
+Ford Boss 302 engine	pistonStroke	0.0762
+GM Iron Duke engine	pistonStroke	0.0762
+Chevrolet Straight-6 engine  First Generation   1	pistonStroke	0.09525
+Chevrolet Straight-6 engine  Second generation   1	pistonStroke	0.09525
+Chevrolet Straight-6 engine  Second generation   1	pistonStroke	0.1000125
+Chevrolet Straight-6 engine  Third generation   1	pistonStroke	0.08255
+Chevrolet Straight-6 engine  Third generation   1	pistonStroke	0.08255
+Chevrolet Straight-6 engine  Third generation   1	pistonStroke	0.089662
+Chevrolet Straight-6 engine  Third generation   1	pistonStroke	0.104648
+Toyota A engine  1A   1	pistonStroke	0.077
+Toyota A engine  2A   1	pistonStroke	0.0714
+Toyota A engine  3A   1	pistonStroke	0.077
+Toyota A engine  4A   1	pistonStroke	0.077
+Toyota A engine  5A   1	pistonStroke	0.077
+Toyota A engine  6A   1	pistonStroke	0.077
+Toyota A engine  7A   1	pistonStroke	0.0855
+Toyota A engine  8A   1	pistonStroke	0.085
+Nissan KA engine	pistonStroke	0.096
+Ford HSC engine	pistonStroke	0.08382
+Ford HSC engine	pistonStroke	0.090932
+Cadillac V16 engine	pistonStroke	0.1016
+Lamborghini V8	pistonStroke	0.053
+Lamborghini V8	pistonStroke	0.0645
+Lamborghini V8	pistonStroke	0.075
+Mercedes-Benz M104 engine	pistonStroke	0.0802
+Nissan S20 engine	pistonStroke	0.0628
+G60	pistonStroke	0.0864
+G60	pistonStroke	0.072
+Ford Cyclone engine	pistonStroke	0.086614
+Detroit Diesel V8 engine	pistonStroke	0.09652
+Volkswagen air cooled engine  Volkswagen 1100 engine   1	pistonStroke	0.064
+Volkswagen air cooled engine  Volkswagen 1200 engine   1	pistonStroke	0.064
+Volkswagen air cooled engine  Volkswagen 1500 engine   1	pistonStroke	0.069
+Nissan P engine	pistonStroke	0.1143
+Cummins M Series engine	pistonStroke	0.1469898
+BMW S65	pistonStroke	0.0752
+Toyota C engine	pistonStroke	0.085
+Toyota C engine  2C   1	pistonStroke	0.085
+Toyota C engine  3C   1	pistonStroke	0.094
+Mercedes-Benz OM606 engine	pistonStroke	0.084
+Mercedes-Benz OM605 engine	pistonStroke	0.084

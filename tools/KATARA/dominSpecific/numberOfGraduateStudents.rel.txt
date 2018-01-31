@@ -1,0 +1,114 @@
+Pembroke College, Cambridge	numberOfGraduateStudents	294
+Trinity College, Cambridge	numberOfGraduateStudents	430
+Christ's College, Cambridge	numberOfGraduateStudents	95
+Peterhouse, Cambridge	numberOfGraduateStudents	138
+Downing College, Cambridge	numberOfGraduateStudents	252
+St John's College, Cambridge	numberOfGraduateStudents	340
+Somerville College, Oxford	numberOfGraduateStudents	88
+Clare College, Cambridge	numberOfGraduateStudents	210
+Magdalen College, Oxford	numberOfGraduateStudents	185
+All Souls College, Oxford	numberOfGraduateStudents	4
+Balliol College, Oxford	numberOfGraduateStudents	228
+Brasenose College, Oxford	numberOfGraduateStudents	190
+Campion Hall, Oxford	numberOfGraduateStudents	8
+Corpus Christi College, Oxford	numberOfGraduateStudents	126
+Christ Church, Oxford	numberOfGraduateStudents	250
+Exeter College, Oxford	numberOfGraduateStudents	200
+Green College, Oxford	numberOfGraduateStudents	205
+Hertford College, Oxford	numberOfGraduateStudents	216
+Lady Margaret Hall, Oxford	numberOfGraduateStudents	174
+Linacre College, Oxford	numberOfGraduateStudents	410
+Keble College, Oxford	numberOfGraduateStudents	245
+Mansfield College, Oxford	numberOfGraduateStudents	129
+Lincoln College, Oxford	numberOfGraduateStudents	299
+Jesus College, Oxford	numberOfGraduateStudents	150
+Merton College, Oxford	numberOfGraduateStudents	298
+New College, Oxford	numberOfGraduateStudents	180
+Nuffield College, Oxford	numberOfGraduateStudents	74
+Pembroke College, Oxford	numberOfGraduateStudents	119
+Oriel College, Oxford	numberOfGraduateStudents	158
+The Queen's College, Oxford	numberOfGraduateStudents	133
+St Antony's College, Oxford	numberOfGraduateStudents	400
+Regent's Park College, Oxford	numberOfGraduateStudents	50
+St Anne's College, Oxford	numberOfGraduateStudents	250
+St Catherine's College, Oxford	numberOfGraduateStudents	160
+St Cross College, Oxford	numberOfGraduateStudents	467
+St Edmund Hall, Oxford	numberOfGraduateStudents	220
+St Hilda's College, Oxford	numberOfGraduateStudents	150
+St Hugh's College, Oxford	numberOfGraduateStudents	205
+St Peter's College, Oxford	numberOfGraduateStudents	130
+St John's College, Oxford	numberOfGraduateStudents	200
+University College, Oxford	numberOfGraduateStudents	144
+Trinity College, Oxford	numberOfGraduateStudents	125
+Wadham College, Oxford	numberOfGraduateStudents	180
+Worcester College, Oxford	numberOfGraduateStudents	167
+Wolfson College, Oxford	numberOfGraduateStudents	614
+Selwyn College, Cambridge	numberOfGraduateStudents	180
+Trinity Hall, Cambridge	numberOfGraduateStudents	231
+King's College, Cambridge	numberOfGraduateStudents	280
+Churchill College, Cambridge	numberOfGraduateStudents	210
+Harris Manchester College, Oxford	numberOfGraduateStudents	40
+Kellogg College, Oxford	numberOfGraduateStudents	400
+Fitzwilliam College, Cambridge	numberOfGraduateStudents	275
+Magdalene College, Cambridge	numberOfGraduateStudents	239
+Sidney Sussex College, Cambridge	numberOfGraduateStudents	190
+Robinson College, Cambridge	numberOfGraduateStudents	162
+Emmanuel College, Cambridge	numberOfGraduateStudents	185
+Corpus Christi College, Cambridge	numberOfGraduateStudents	209
+Hughes Hall, Cambridge	numberOfGraduateStudents	325
+Wolfson College, Cambridge	numberOfGraduateStudents	650
+Queens' College, Cambridge	numberOfGraduateStudents	270
+St Catharine's College, Cambridge	numberOfGraduateStudents	165
+Lucy Cavendish College, Cambridge	numberOfGraduateStudents	110
+St Stephen's House, Oxford	numberOfGraduateStudents	15
+Girton College, Cambridge	numberOfGraduateStudents	123
+St Edmund's College, Cambridge	numberOfGraduateStudents	230
+Murray Edwards College, Cambridge	numberOfGraduateStudents	132
+Newnham College, Cambridge	numberOfGraduateStudents	148
+Homerton College, Cambridge	numberOfGraduateStudents	600
+Darwin College, Cambridge	numberOfGraduateStudents	591
+Clare Hall, Cambridge	numberOfGraduateStudents	145
+Jesuit High School (New Orleans)	numberOfGraduateStudents	259
+Saint Stephen's High School	numberOfGraduateStudents	200
+Lake Forest High School (Illinois)	numberOfGraduateStudents	435
+Subiaco Abbey and Academy	numberOfGraduateStudents	35
+Leechburg Area School District	numberOfGraduateStudents	46
+North Garland High School	numberOfGraduateStudents	395
+Ocean Springs High School	numberOfGraduateStudents	380
+Georgia-Cumberland Academy	numberOfGraduateStudents	64
+Concord Academy	numberOfGraduateStudents	5051
+Crystal River High School	numberOfGraduateStudents	94
+Middletown High School, Middletown, Maryland	numberOfGraduateStudents	336
+Brighton High School (Rochester, New York)	numberOfGraduateStudents	93
+Skyline High School (Dallas, Texas)	numberOfGraduateStudents	819
+Hamilton Southeastern High School	numberOfGraduateStudents	676
+Michigan City High School	numberOfGraduateStudents	346
+Kankakee Valley Middle School	numberOfGraduateStudents	72
+Purnell School	numberOfGraduateStudents	1292
+Armstrong School District (Pennsylvania)	numberOfGraduateStudents	343
+Instituto O'Higgins, Rancagua	numberOfGraduateStudents	120
+Casco Bay High School	numberOfGraduateStudents	57
+Trinity Catholic High School (Florida)	numberOfGraduateStudents	100
+Chalmette High School	numberOfGraduateStudents	275
+Martinsville High School (Indiana)	numberOfGraduateStudents	324
+Bishop McGuinness Catholic High School (North Carolina)	numberOfGraduateStudents	7056
+St. Catherine's High School (Racine, Wisconsin)	numberOfGraduateStudents	100
+Green Templeton College, Oxford	numberOfGraduateStudents	500
+Shiloh School District	numberOfGraduateStudents	8
+Millbury High School	numberOfGraduateStudents	147
+Eastbrook High School	numberOfGraduateStudents	74
+Thomasschule zu Leipzig	numberOfGraduateStudents	87
+Tri-Valley Central School	numberOfGraduateStudents	82
+Deer Lakes School District	numberOfGraduateStudents	150
+Rhea County High School	numberOfGraduateStudents	149
+San Leandro Unified School District	numberOfGraduateStudents	504
+San Marcos High School (Texas)	numberOfGraduateStudents	363
+Belle Vernon Area School District	numberOfGraduateStudents	96
+Gonville and Caius College, Cambridge	numberOfGraduateStudents	230
+Jesus College, Cambridge	numberOfGraduateStudents	270
+Marysville Exempted Village Schools District	numberOfGraduateStudents	95
+West Creek High School	numberOfGraduateStudents	149
+Mountain Valley High School	numberOfGraduateStudents	147
+Low Point-Washburn High School	numberOfGraduateStudents	94
+Subiaco Academy	numberOfGraduateStudents	35
+Bee Meadow School	numberOfGraduateStudents	69

@@ -1,0 +1,440 @@
+Jet Propulsion Laboratory	childOrganisation	Jet Propulsion Laboratory Science Division
+Schutzstaffel	childOrganisation	Ordnungspolizei
+Schutzstaffel	childOrganisation	SS-Reichssicherheitshauptamt
+Schutzstaffel	childOrganisation	Sicherheitsdienst
+Schutzstaffel	childOrganisation	SS-Totenkopfverbände
+Schutzstaffel	childOrganisation	Waffen-SS
+Schutzstaffel	childOrganisation	Allgemeine SS
+United States Department of the Treasury	childOrganisation	Bureau of Engraving and Printing
+United States Department of the Treasury	childOrganisation	United States Mint
+United States Department of the Treasury	childOrganisation	Internal Revenue Service
+Sturmabteilung	childOrganisation	Schutzstaffel
+United States Department of Transportation	childOrganisation	United States Maritime Administration
+United States Department of Transportation	childOrganisation	Federal Transit Administration
+United States Department of Transportation	childOrganisation	Federal Railroad Administration
+United States Department of Transportation	childOrganisation	Federal Highway Administration
+United States Department of Transportation	childOrganisation	Federal Aviation Administration
+United States Department of Homeland Security	childOrganisation	United States Secret Service
+United States Department of Homeland Security	childOrganisation	National Protection and Programs Directorate
+United States Department of Homeland Security	childOrganisation	United States Coast Guard
+United States Department of Homeland Security	childOrganisation	Transportation Security Administration
+United States Department of Homeland Security	childOrganisation	U.S. Immigration and Customs Enforcement
+United States Department of Homeland Security	childOrganisation	Federal Emergency Management Agency
+United States Department of Homeland Security	childOrganisation	U.S. Customs and Border Protection
+United States Department of Homeland Security	childOrganisation	United States Citizenship and Immigration Services
+Office québécois de la langue française	childOrganisation	Commission de toponymie du Québec
+Office québécois de la langue française	childOrganisation	Conseil supérieur de la langue française (Quebec)
+Department of Internal Affairs (New Zealand)	childOrganisation	New Zealand Office for the Community & Voluntary Sector
+Department of Internal Affairs (New Zealand)	childOrganisation	New Zealand Local Government Commission
+Department of Internal Affairs (New Zealand)	childOrganisation	Ministry of Civil Defence & Emergency Management (New Zealand)
+Department of Internal Affairs (New Zealand)	childOrganisation	New Zealand Lottery Grants Board
+Department of Internal Affairs (New Zealand)	childOrganisation	New Zealand Office of Ethnic Affairs
+Economics and Statistics Administration	childOrganisation	Bureau of Economic Analysis
+Economics and Statistics Administration	childOrganisation	United States Census Bureau
+United States Public Health Service	childOrganisation	United States Public Health Service Commissioned Corps
+Home Office	childOrganisation	Criminal Records Bureau
+Home Office	childOrganisation	UK Border Agency
+Home Office	childOrganisation	Identity and Passport Service
+National Weather Service	childOrganisation	National Centers for Environmental Prediction
+Goddard Space Flight Center	childOrganisation	Wallops Flight Facility
+Department for Culture, Media and Sport	childOrganisation	The Royal Parks
+United States Department of War	childOrganisation	United States Air Force
+United States Department of War	childOrganisation	United States Army
+Director of National Intelligence	childOrganisation	National Counterproliferation Center
+Director of National Intelligence	childOrganisation	National Counterterrorism Center
+SS-Reichssicherheitshauptamt	childOrganisation	Kriminalpolizei
+SS-Reichssicherheitshauptamt	childOrganisation	Sicherheitspolizei
+SS-Reichssicherheitshauptamt	childOrganisation	Sicherheitsdienst
+SS-Reichssicherheitshauptamt	childOrganisation	Gestapo
+The National Archives (United Kingdom)	childOrganisation	Office of Public Sector Information
+The National Archives (United Kingdom)	childOrganisation	Office of Public Sector Information
+HM Revenue and Customs	childOrganisation	Valuation Office Agency
+Department for Work and Pensions	childOrganisation	The Pension, Disability and Carers Service
+Department for Work and Pensions	childOrganisation	Jobcentre Plus
+Research and Analysis Wing	childOrganisation	Aviation Research Centre
+Research and Analysis Wing	childOrganisation	Radio Research Center
+Research and Analysis Wing	childOrganisation	Electronics and Technical Services
+Research and Analysis Wing	childOrganisation	National Technical Research Organisation
+Research and Analysis Wing	childOrganisation	Special Frontier Force
+Ministry of Education (New Zealand)	childOrganisation	New Zealand Qualifications Authority
+Department of Agriculture, Fisheries and Forestry (Australia)	childOrganisation	Australian Fisheries Management Authority
+Department of Agriculture, Fisheries and Forestry (Australia)	childOrganisation	Biosecurity Australia
+Department of Agriculture, Fisheries and Forestry (Australia)	childOrganisation	Bureau of Rural Sciences
+Department of Agriculture, Fisheries and Forestry (Australia)	childOrganisation	Australian Bureau of Agricultural and Resource Economics
+Department of Agriculture, Fisheries and Forestry (Australia)	childOrganisation	Australian Quarantine and Inspection Service
+Allgemeine SS	childOrganisation	SS-Rasse- und Siedlungshauptamt
+Allgemeine SS	childOrganisation	SS Personalhauptamt
+Allgemeine SS	childOrganisation	Hauptamt Volksdeutsche Mittelstelle
+Allgemeine SS	childOrganisation	Hauptamt SS-Gericht
+Allgemeine SS	childOrganisation	SS-Wirtschafts-Verwaltungshauptamt
+Allgemeine SS	childOrganisation	SS-Reichssicherheitshauptamt
+Allgemeine SS	childOrganisation	Sicherheitspolizei
+Allgemeine SS	childOrganisation	Sicherheitsdienst
+Allgemeine SS	childOrganisation	Kriminalpolizei#Nazi Germany
+Public Health Agency of Canada	childOrganisation	National Microbiology Laboratory
+Ministry of Education of the People's Republic of China	childOrganisation	China Scholarship Council
+Ministry of Education of the People's Republic of China	childOrganisation	National Office For Teaching Chinese as a Foreign Language
+San Francisco Municipal Transportation Agency	childOrganisation	San Francisco Municipal Railway
+Public Health – Seattle & King County	childOrganisation	Seattle & King County Emergency Medical Services System
+Federal Retirement Thrift Investment Board	childOrganisation	Thrift Savings Plan
+Taiwan Affairs Office	childOrganisation	Association for Relations Across the Taiwan Straits
+Ministry of Health (Singapore)	childOrganisation	Specialists Accreditation Board
+Ministry of Health (Singapore)	childOrganisation	Traditional Chinese Medicine Practitioners Board
+Ministry of Health (Singapore)	childOrganisation	Singapore Pharmacy Council
+Ministry of Health (Singapore)	childOrganisation	Singapore Nursing Board
+Ministry of Health (Singapore)	childOrganisation	Singapore Medical Council
+Ministry of Health (Singapore)	childOrganisation	Singapore Dental Council
+Ministry of Health (Singapore)	childOrganisation	Health Sciences Authority
+Ministry of Health (Singapore)	childOrganisation	Health Promotion Board
+National Offender Management Service	childOrganisation	National Probation Service (England and Wales)
+National Offender Management Service	childOrganisation	Her Majesty's Prison Service
+SS Führungshauptamt	childOrganisation	Waffen-SS
+SS Führungshauptamt	childOrganisation	Allgemeine SS
+Department of Foreign Affairs and Trade (Australia)	childOrganisation	Australian Centre for International Agricultural Research
+Department of Foreign Affairs and Trade (Australia)	childOrganisation	Export Finance and Insurance Corporation
+Department of Foreign Affairs and Trade (Australia)	childOrganisation	Australian Secret Intelligence Service
+Department of Foreign Affairs and Trade (Australia)	childOrganisation	Austrade
+Department of Foreign Affairs and Trade (Australia)	childOrganisation	AusAID
+Geological Survey of India	childOrganisation	Ministry of Mines (India)
+Ministry of Transport (New Zealand)	childOrganisation	Civil Aviation Authority of New Zealand
+Ministry of Transport (New Zealand)	childOrganisation	New Zealand Aviation Security Service
+Ministry of Transport (New Zealand)	childOrganisation	New Zealand Transport Agency
+Ministry of Transport (New Zealand)	childOrganisation	Maritime New Zealand
+Ministry of Transport (New Zealand)	childOrganisation	ONTRACK
+Ministry of Transport (New Zealand)	childOrganisation	Transport Accident Investigation Commission
+Security Bureau (Hong Kong)	childOrganisation	Immigration Department (Hong Kong)
+Security Bureau (Hong Kong)	childOrganisation	Hong Kong Police Force
+Security Bureau (Hong Kong)	childOrganisation	Government Flying Service (Hong Kong)
+Security Bureau (Hong Kong)	childOrganisation	Hong Kong Fire Services Department
+Security Bureau (Hong Kong)	childOrganisation	Customs and Excise Department (Hong Kong)
+Security Bureau (Hong Kong)	childOrganisation	Hong Kong Correctional Services
+Security Bureau (Hong Kong)	childOrganisation	Civil Aid Service
+Security Bureau (Hong Kong)	childOrganisation	Auxiliary Medical Service (Hong Kong)
+Ministry of Foreign Affairs (Singapore)	childOrganisation	List of diplomatic missions of Singapore
+Home Affairs Bureau	childOrganisation	Leisure and Cultural Services Department
+Home Affairs Bureau	childOrganisation	Legal Aid Department
+Home Affairs Bureau	childOrganisation	Information Services Department
+Home Affairs Bureau	childOrganisation	Home Affairs Department
+Fire and Emergency Services Authority of Western Australia	childOrganisation	State Emergency Service
+Ministry of Education (Singapore)	childOrganisation	Ministry of Education (Singapore)#Statutory boards
+Ministry of Education (Singapore)	childOrganisation	Science Centre Singapore
+Ministry of Education (Singapore)	childOrganisation	Council for Private Education
+Ministry of Education (Singapore)	childOrganisation	Singapore Examinations and Assessment Board
+Food and Environmental Hygiene Department	childOrganisation	Centre for Food Safety
+SS-Hauptamt	childOrganisation	SS-Totenkopfverbände
+SS-Hauptamt	childOrganisation	SS-Verfügungstruppe
+SS-Hauptamt	childOrganisation	Allgemeine SS
+New Jersey Department of Education	childOrganisation	New Jersey Commission on Holocaust Education
+Department of Broadband, Communications and the Digital Economy	childOrganisation	Australian Communications and Media Authority
+Ministry of Transport (Singapore)	childOrganisation	Public Transport Council
+Ministry of Transport (Singapore)	childOrganisation	Maritime and Port Authority of Singapore
+Ministry of Transport (Singapore)	childOrganisation	Land Transport Authority
+Ministry of Transport (Singapore)	childOrganisation	Civil Aviation Authority of Singapore
+Ministry of Transport (Singapore)	childOrganisation	Air Accident Investigation Bureau of Singapore
+Ministry of Finance (Singapore)	childOrganisation	Singapore Totalisator Board
+Ministry of Finance (Singapore)	childOrganisation	Accounting and Corporate Regulatory Authority
+Ministry of Finance (Singapore)	childOrganisation	Inland Revenue Authority of Singapore
+Ministry of Economic Development (New Zealand)	childOrganisation	New Zealand Trade and Enterprise
+Ministry of Economic Development (New Zealand)	childOrganisation	Intellectual Property Office of New Zealand
+Ministry of Economic Development (New Zealand)	childOrganisation	Companies Office
+Department of National Defense (Philippines)	childOrganisation	Philippine Veterans Affairs Office
+Department of National Defense (Philippines)	childOrganisation	National Defense College of the Philippines
+Department of National Defense (Philippines)	childOrganisation	Government Arsenal (Philippines)
+Department of National Defense (Philippines)	childOrganisation	Office of the Civil Defense (Philippines)
+Department of National Defense (Philippines)	childOrganisation	Armed Forces of the Philippines
+Ministry of Strategy and Finance	childOrganisation	Public Procurement Service
+Ministry of Strategy and Finance	childOrganisation	Korea National Statistical Office
+Ministry of Strategy and Finance	childOrganisation	Korea Customs Service
+Ministry of Strategy and Finance	childOrganisation	National Tax Service
+Department of Arts and Culture	childOrganisation	National Archives of South Africa
+Department of Science and Technology (Philippines)	childOrganisation	Philippine Institute of Volcanology and Seismology
+Department of Science and Technology (Philippines)	childOrganisation	Philippine Atmospheric, Geophysical and Astronomical Services Administration
+Department of Science and Technology (Philippines)	childOrganisation	Philippine Nuclear Research Institute
+Department of Science and Technology (Philippines)	childOrganisation	Food and Nutrition Research Institute (Philippines)
+Department of Communications (South Africa)	childOrganisation	Universal Service and Access Agency of South Africa
+Department of Communications (South Africa)	childOrganisation	National Electronic Media Institute of South Africa
+Department of Communications (South Africa)	childOrganisation	.za
+Department of Communications (South Africa)	childOrganisation	Independent Communications Authority of South Africa
+Department of Communications (South Africa)	childOrganisation	Sentech
+Department of Communications (South Africa)	childOrganisation	South African Broadcasting Corporation
+Department of Communications (South Africa)	childOrganisation	South African Post Office
+New Zealand Treasury	childOrganisation	New Zealand Treasury
+Department of Defence (Australia)	childOrganisation	Defence Materiel Organisation
+Department of Defence (Australia)	childOrganisation	Defence Science and Technology Organisation
+Department of Defence (Australia)	childOrganisation	Defence Signals Directorate
+Department of Defence (Australia)	childOrganisation	Defence Intelligence Group
+Department of Defence (Australia)	childOrganisation	Headquarters Joint Operations Command (Australia)
+Department of Infrastructure and Transport	childOrganisation	Office of Transport Security
+Department of Infrastructure and Transport	childOrganisation	Australian Transport Safety Bureau
+Department of Infrastructure and Transport	childOrganisation	Civil Aviation Safety Authority
+Department of Infrastructure and Transport	childOrganisation	Infrastructure Australia
+Department of the Treasury (Australia)	childOrganisation	Reserve Bank of Australia
+Ministry of Foreign Affairs and Cooperation (Spain)	childOrganisation	Instituto Cervantes
+Ministry of Foreign Affairs and Cooperation (Spain)	childOrganisation	Diplomatic School of Spain
+Health Protection Agency	childOrganisation	National Radiological Protection Board
+Metrolinx	childOrganisation	Presto card
+Metrolinx	childOrganisation	Union-Pearson Rail Link
+Metrolinx	childOrganisation	GO Transit
+Ministry of Foreign Affairs and Trade (New Zealand)	childOrganisation	New Zealand Agency for International Development
+New Jersey Department of Environmental Protection	childOrganisation	New Jersey Division of Parks and Forestry
+New Jersey Department of Environmental Protection	childOrganisation	New Jersey Division of Fish and Wildlife
+Naval Oceanographic Office	childOrganisation	Naval Ice Center
+Naval Oceanographic Office	childOrganisation	Fleet Survey Team
+Michigan Department of Natural Resources	childOrganisation	Mackinac Island State Park Commission
+Ministry of the Environment and Water Resources	childOrganisation	Public Utilities Board
+Ministry of the Environment and Water Resources	childOrganisation	National Environment Agency
+California Natural Resources Agency	childOrganisation	California Conservation Corps
+California Natural Resources Agency	childOrganisation	California Department of Water Resources
+California Natural Resources Agency	childOrganisation	California Department of Parks and Recreation
+California Natural Resources Agency	childOrganisation	California Department of Forestry and Fire Protection
+California Natural Resources Agency	childOrganisation	California Department of Fish and Game
+California Natural Resources Agency	childOrganisation	CALFED Bay-Delta Program
+California Natural Resources Agency	childOrganisation	California Department of Conservation
+California Natural Resources Agency	childOrganisation	California Department of Boating and Waterways
+Ministry of Petroleum (Iran)	childOrganisation	National Iranian Oil Refining and Distribution Company
+Ministry of Petroleum (Iran)	childOrganisation	National Iranian Gas Company
+Ministry of Petroleum (Iran)	childOrganisation	National Iranian Petrochemical Company
+Ministry of Petroleum (Iran)	childOrganisation	National Iranian Oil Company
+Oklahoma Department of Public Safety	childOrganisation	Oklahoma Office of Homeland Security
+Oklahoma Department of Public Safety	childOrganisation	Oklahoma Highway Patrol
+New Jersey Division of Parks and Forestry	childOrganisation	New Jersey State Park Service
+New Jersey Division of Parks and Forestry	childOrganisation	NJ State Park Police
+New Jersey Division of Parks and Forestry	childOrganisation	New Jersey Office of Natural Lands Management
+New Jersey Division of Parks and Forestry	childOrganisation	New Jersey Forest Fire Service
+New Jersey Division of Parks and Forestry	childOrganisation	New Jersey Forest Service
+Pennsylvania Department of Conservation and Natural Resources	childOrganisation	Pennsylvania Bureau of State Parks
+Australian Defence Organisation	childOrganisation	Australian Defence Force
+Australian Defence Organisation	childOrganisation	Department of Defence (Australia)
+Ministry of Social Development (New Zealand)	childOrganisation	Ministry of Social Development (New Zealand)
+Ministry of Social Development (New Zealand)	childOrganisation	Office for Disability Issues
+Ministry of Social Development (New Zealand)	childOrganisation	Office for Senior Citizens
+Ministry of Social Development (New Zealand)	childOrganisation	Heartland Services
+Ministry of Social Development (New Zealand)	childOrganisation	Family and Community Services
+Ministry of Social Development (New Zealand)	childOrganisation	Child, Youth and Family (New Zealand)
+Ministry of Social Development (New Zealand)	childOrganisation	War Pension Services
+Ministry of Social Development (New Zealand)	childOrganisation	New Zealand Office for the Community & Voluntary Sector
+Ministry of Social Development (New Zealand)	childOrganisation	Ministry of Social Development (New Zealand)
+Ministry of Social Development (New Zealand)	childOrganisation	International Services
+Ministry of Social Development (New Zealand)	childOrganisation	Ministry of Youth Development
+Ministry of Transport (Colombia)	childOrganisation	Superintendency of Ports and Transport (Colombia)
+Ministry of Transport (Colombia)	childOrganisation	National Roads Institute (Colombia)
+Ministry of Transport (Colombia)	childOrganisation	National Institute of Concessions (Colombia)
+Ministry of Transport (Colombia)	childOrganisation	Special Administrative Unit of Civil Aeronautics
+Ministry of the Interior and Justice	childOrganisation	National Printing Office of Colombia
+Ministry of the Interior and Justice	childOrganisation	National Directorate of Copyright (Colombia)
+Ministry of the Interior and Justice	childOrganisation	Nasa Kiwe Corporation
+Ministry of the Interior and Justice	childOrganisation	National Penitentiary and Prison Institute (Colombia)
+Ministry of Commerce, Industry and Tourism (Colombia)	childOrganisation	Superintendency of Corporations
+Ministry of Commerce, Industry and Tourism (Colombia)	childOrganisation	Superintendency of Industry and Commerce
+Ministry of Commerce, Industry and Tourism (Colombia)	childOrganisation	National Guarantees Fund
+Ministry of Commerce, Industry and Tourism (Colombia)	childOrganisation	Artesanías de Colombia
+Ministry of Commerce, Industry and Tourism (Colombia)	childOrganisation	Fiducoldex
+Ministry of Commerce, Industry and Tourism (Colombia)	childOrganisation	Bancóldex
+Ministry of Commerce, Industry and Tourism (Colombia)	childOrganisation	Proexport
+Australian Capital Territory Emergency Services Agency	childOrganisation	ACT State Emergency Service
+Australian Capital Territory Emergency Services Agency	childOrganisation	ACT Rural Fire Service
+Australian Capital Territory Emergency Services Agency	childOrganisation	Australian Capital Territory Fire Brigade
+Australian Capital Territory Emergency Services Agency	childOrganisation	Australian Capital Territory Ambulance Service
+Bundesfinanzdirektion	childOrganisation	Hauptzollamt
+Ministry of Justice (United Kingdom)	childOrganisation	The National Archives (United Kingdom)
+Ministry of Justice (United Kingdom)	childOrganisation	Office of the Public Guardian
+Ministry of Justice (United Kingdom)	childOrganisation	HM Land Registry
+Ministry of Justice (United Kingdom)	childOrganisation	National Offender Management Service
+Ministry of Justice (United Kingdom)	childOrganisation	Her Majesty's Courts and Tribunals Service
+Secretariat of Foreign Affairs (Mexico)	childOrganisation	List of diplomatic missions of Mexico
+Ministry of Information, Communications and the Arts	childOrganisation	National Library Board
+Ministry of Information, Communications and the Arts	childOrganisation	National Heritage Board (Singapore)
+Ministry of Information, Communications and the Arts	childOrganisation	National Arts Council (Singapore)
+Ministry of Information, Communications and the Arts	childOrganisation	Media Development Authority
+Ministry of Information, Communications and the Arts	childOrganisation	Infocomm Development Authority of Singapore
+Hyderabad Urban Development Authority	childOrganisation	Housing and Urban Development Corporation
+Office of the Inspector General of Colombia	childOrganisation	Ombudsman's Office of Colombia
+Ministry of Community Development, Youth and Sports	childOrganisation	People's Association
+Ministry of Community Development, Youth and Sports	childOrganisation	National Council of Social Service
+Ministry of Community Development, Youth and Sports	childOrganisation	Majlis Ugama Islam Singapura
+Ministry of Community Development, Youth and Sports	childOrganisation	Singapore Sports Council
+California Business, Transportation and Housing Agency	childOrganisation	California Office of Tourism
+California Business, Transportation and Housing Agency	childOrganisation	California Department of Motor Vehicles
+California Business, Transportation and Housing Agency	childOrganisation	California Highway Patrol
+California Business, Transportation and Housing Agency	childOrganisation	California Department of Transportation
+California Business, Transportation and Housing Agency	childOrganisation	California Housing Finance Agency
+California Business, Transportation and Housing Agency	childOrganisation	California Department of Alcoholic Beverage Control
+National Administrative Department of Statistics	childOrganisation	Geographic Institute Agustín Codazzi
+Ministry of Justice (Republic of China)	childOrganisation	Ministry of Justice Investigation Bureau
+Food and Health Bureau	childOrganisation	Government Laboratory
+Food and Health Bureau	childOrganisation	Food and Environmental Hygiene Department
+Food and Health Bureau	childOrganisation	Department of Health (Hong Kong)
+Food and Health Bureau	childOrganisation	Agriculture, Fisheries and Conservation Department
+New Jersey Department of Law and Public Safety	childOrganisation	New Jersey State Police
+New Jersey Department of Law and Public Safety	childOrganisation	New Jersey State Athletic Control Board
+New Jersey Department of Law and Public Safety	childOrganisation	New Jersey Division of Consumer Affairs
+California Environmental Protection Agency	childOrganisation	California Office of Environmental Health Hazard Assessment
+California Environmental Protection Agency	childOrganisation	California Air Resources Board
+California Environmental Protection Agency	childOrganisation	California Department of Toxic Substances Control
+California Environmental Protection Agency	childOrganisation	California Integrated Waste Management Board
+Ministry of Home Affairs (Singapore)	childOrganisation	Singapore Prison Service
+Ministry of Home Affairs (Singapore)	childOrganisation	Singapore Police Force
+Ministry of Home Affairs (Singapore)	childOrganisation	Singapore Corporation of Rehabilitative Enterprises
+Ministry of Home Affairs (Singapore)	childOrganisation	Singapore Civil Defence Force
+Ministry of Home Affairs (Singapore)	childOrganisation	Internal Security Department
+Ministry of Home Affairs (Singapore)	childOrganisation	Immigration and Checkpoints Authority
+Ministry of Home Affairs (Singapore)	childOrganisation	Home Team Academy
+Ministry of Home Affairs (Singapore)	childOrganisation	Central Narcotics Bureau
+Ministry of Home Affairs (Singapore)	childOrganisation	Casino Regulatory Authority of Singapore
+Ministry of Industry and Information Technology of the People's Republic of China	childOrganisation	China Post
+Austrian Academy of Sciences	childOrganisation	Acoustics Research Institute
+Austrian Academy of Sciences	childOrganisation	Institute for Quantum Optics and Quantum Information
+New Jersey Division of Consumer Affairs	childOrganisation	New Jersey Legalized Games of Chance Control Commission
+Michigan Department of History, Arts and Libraries	childOrganisation	Michigan Historical Center
+Michigan Department of History, Arts and Libraries	childOrganisation	Michigan film incentive
+Michigan Department of History, Arts and Libraries	childOrganisation	Michigan Historical Center
+Michigan Department of History, Arts and Libraries	childOrganisation	Library of Michigan
+Land Information New Zealand	childOrganisation	New Zealand Geographic Board
+Land Information New Zealand	childOrganisation	Overseas Investment Office
+Land Information New Zealand	childOrganisation	New Zealand Geospatial Office
+Ministry of Manpower (Singapore)	childOrganisation	Singapore Workforce Development Agency
+Ministry of Manpower (Singapore)	childOrganisation	Singapore Labour Foundation
+Ministry of Manpower (Singapore)	childOrganisation	Central Provident Fund
+Maryland Emergency Management Agency	childOrganisation	Maryland Joint Operations Center
+Oklahoma Military Department	childOrganisation	Oklahoma National Guard
+Prime Minister's Office (Singapore)	childOrganisation	Monetary Authority of Singapore
+Ministry of National Development (Singapore)	childOrganisation	Urban Redevelopment Authority
+Ministry of National Development (Singapore)	childOrganisation	National Parks Board
+Ministry of National Development (Singapore)	childOrganisation	Housing and Development Board
+Ministry of National Development (Singapore)	childOrganisation	Building and Construction Authority
+Controller and Auditor-General of New Zealand	childOrganisation	Controller and Auditor-General of New Zealand#Audit New Zealand
+DIRCOTE	childOrganisation	Special Intelligence Group
+Instituto de Antropología e Historia	childOrganisation	Departamento de Conservación y Restauración de Bienes Culturales
+Instituto de Antropología e Historia	childOrganisation	Centro de Restauración de Bienes Muebles
+Hyderabad Metropolitan Development Authority	childOrganisation	Housing and Urban Development Corporation
+Michigan Department of Military and Veterans Affairs	childOrganisation	Michigan Air National Guard
+Michigan Department of Military and Veterans Affairs	childOrganisation	Michigan Army National Guard
+Ministry of Civil Defence & Emergency Management (New Zealand)	childOrganisation	National Crisis Management Centre
+Commander, Naval Meteorology and Oceanography Command	childOrganisation	Naval Meteorology and Oceanography Professional Development Center
+Commander, Naval Meteorology and Oceanography Command	childOrganisation	Commander, Undersea Surveillance/Integrated Undersea Surveillance System
+Commander, Naval Meteorology and Oceanography Command	childOrganisation	Naval Oceanography Operations Command
+Commander, Naval Meteorology and Oceanography Command	childOrganisation	United States Naval Observatory
+Commander, Naval Meteorology and Oceanography Command	childOrganisation	Fleet Numerical Meteorology and Oceanography Center
+Commander, Naval Meteorology and Oceanography Command	childOrganisation	Naval Oceanographic Office
+Financial Services Commission (South Korea)	childOrganisation	Financial Supervisory Service (South Korea)
+Wyoming Department of Transportation	childOrganisation	Wyoming Highway Patrol
+California Health and Human Services Agency	childOrganisation	California Health and Human Services Agency#Departments
+Florida Department of Agriculture and Consumer Services	childOrganisation	Vegetable
+National Planning Department (Colombia)	childOrganisation	National Fund for Development Projects
+National Planning Department (Colombia)	childOrganisation	Superintendency of Residential Public Services (Colombia)
+National Planning Department (Colombia)	childOrganisation	Administrative Department of Science, Technology and Innovation
+Office of the Comptroller General of Colombia	childOrganisation	Office of the Auditor General of Colombia
+State Post Bureau	childOrganisation	China Post
+Ministry of the Interior (Republic of China)	childOrganisation	National Police Agency (Republic of China)
+National Fire Agency	childOrganisation	Taiwan
+Home Office of the Basque Government	childOrganisation	Basque Police Academy
+Home Office of the Basque Government	childOrganisation	SOS Deiak
+Home Office of the Basque Government	childOrganisation	Ertzaintza
+Department of Agriculture, Forestry and Fisheries (South Africa)	childOrganisation	Ncera Farms
+Department of Agriculture, Forestry and Fisheries (South Africa)	childOrganisation	Perishable Products Export Control Board
+Department of Agriculture, Forestry and Fisheries (South Africa)	childOrganisation	Onderstepoort Biological Products
+Department of Agriculture, Forestry and Fisheries (South Africa)	childOrganisation	National Agricultural Marketing Council
+Department of Agriculture, Forestry and Fisheries (South Africa)	childOrganisation	Agricultural Research Council (South Africa)
+Main Department of the Civil Service of Ukraine	childOrganisation	School of Senior Civil Service
+Main Department of the Civil Service of Ukraine	childOrganisation	Center for Adaptation of Civil Service to the Standards of the European Union
+Ministry of Culture (Colombia)	childOrganisation	Colombian Institute of Anthropology and History
+Ministry of Culture (Colombia)	childOrganisation	Caro and Cuervo Institute
+Ministry of Culture (Colombia)	childOrganisation	Coldeportes
+Ministry of Culture (Colombia)	childOrganisation	General Archive of the Nation (Colombia)
+Ministry of Culture (Colombia)	childOrganisation	National Library of Colombia
+Ministry of Culture (Colombia)	childOrganisation	Colombian National Museum
+Secretariat of Public Security (Mexico)	childOrganisation	Federal Police (Mexico)
+Michigan Department of Technology, Management, and Budget	childOrganisation	Michigan Department of Technology, Management, and Budget#State Administrative Board
+Michigan Department of Technology, Management, and Budget	childOrganisation	Michigan Department of Technology, Management, and Budget#Civil Service Commission
+Michigan Department of Technology, Management, and Budget	childOrganisation	Michigan Department of Technology, Management, and Budget#Office of Children's Ombudsman
+Michigan Department of Technology, Management, and Budget	childOrganisation	Michigan Department of Technology, Management, and Budget#Office of the State Employer
+Michigan Department of Technology, Management, and Budget	childOrganisation	Michigan Department of Technology, Management, and Budget#State Budget Office
+Surat Urban Development Authority	childOrganisation	Housing and Urban Development Corporation
+Ministry of Power and Energy	childOrganisation	Ceylon Electricity Board
+Ministry of National Education (Algeria)	childOrganisation	Ellipsis
+Ministry of National Education (Algeria)	childOrganisation	Ellipsis
+Oregon Business Development Department	childOrganisation	Oregon Arts Commission
+Ministry of Welfare and Social Security (Iran)	childOrganisation	Civil Servants Pension Organization (Iran)
+Ministry of Welfare and Social Security (Iran)	childOrganisation	Social Security Organization (Iran)
+Ministry of Information Technologies and Communications	childOrganisation	Radio Televisión Nacional de Colombia
+State Security Agency (South Africa)	childOrganisation	COMSEC (South Africa)
+State Security Agency (South Africa)	childOrganisation	National Communications Centre
+State Security Agency (South Africa)	childOrganisation	South African National Academy of Intelligence
+State Security Agency (South Africa)	childOrganisation	South African Secret Service
+State Security Agency (South Africa)	childOrganisation	National Intelligence Agency (South Africa)
+Department of Justice and Constitutional Development	childOrganisation	South African Law Reform Commission
+Department of Justice and Constitutional Development	childOrganisation	National Prosecuting Authority
+Ministry of Foreign Affairs (Uzbekistan)	childOrganisation	University of World Economy and Diplomacy
+Proexport	childOrganisation	Colombia is Passion
+Proexport	childOrganisation	Zeiky
+Oklahoma Secretary of the Environment	childOrganisation	Oklahoma Water Resources Board
+Oklahoma Secretary of the Environment	childOrganisation	Oklahoma Department of Wildlife Conservation
+Oklahoma Secretary of the Environment	childOrganisation	Oklahoma Department of Environmental Quality
+Oklahoma Secretary of Energy	childOrganisation	Oklahoma Energy Resources Board
+Oklahoma Secretary of Energy	childOrganisation	Oklahoma Department of Mines
+Oklahoma Secretary of Energy	childOrganisation	Oklahoma Corporation Commission
+National Natural Parks System (Colombia)	childOrganisation	National System of Protected Areas (Colombia)
+Bancóldex	childOrganisation	Centros Empresariales Bancóldex
+Bancóldex	childOrganisation	Banca de las Oportunidades
+Ministry of Foreign Trade (Colombia)	childOrganisation	Fiducoldex
+Ministry of Foreign Trade (Colombia)	childOrganisation	Bancóldex
+Ministry of Foreign Trade (Colombia)	childOrganisation	Proexport
+Ministry of Economic Development (Colombia)	childOrganisation	Potable Water and Basic Sanitation Regulation Commission
+Ministry of Economic Development (Colombia)	childOrganisation	Superintendency of Industry and Commerce
+Ministry of Economic Development (Colombia)	childOrganisation	Superintendency of Corporations
+Oklahoma Secretary of Agriculture	childOrganisation	Oklahoma Conservation Commission
+Oklahoma Secretary of Agriculture	childOrganisation	Oklahoma Department of Agriculture, Food, and Forestry
+Oklahoma Secretary of Commerce and Tourism	childOrganisation	Oklahoma Historical Society
+Oklahoma Secretary of Commerce and Tourism	childOrganisation	Oklahoma Employment Security Commission
+Oklahoma Secretary of Commerce and Tourism	childOrganisation	Oklahoma Department of Labor
+Oklahoma Secretary of Commerce and Tourism	childOrganisation	Oklahoma Department of Tourism and Recreation
+Oklahoma Secretary of Commerce and Tourism	childOrganisation	Oklahoma Department of Commerce
+Oklahoma Secretary of Safety and Security	childOrganisation	Oklahoma Bureau of Narcotics and Dangerous Drugs Control
+Oklahoma Secretary of Safety and Security	childOrganisation	Oklahoma State Bureau of Investigation
+Oklahoma Secretary of Safety and Security	childOrganisation	Oklahoma Department of Emergency Management
+Oklahoma Secretary of Safety and Security	childOrganisation	Oklahoma Department of Corrections
+Oklahoma Secretary of Safety and Security	childOrganisation	Oklahoma Department of Public Safety
+Ministry of Fuel and Energy (Ukraine)	childOrganisation	Ukrinterenergo
+Ministry of Fuel and Energy (Ukraine)	childOrganisation	Energy Company of Ukraine
+Ministry of Fuel and Energy (Ukraine)	childOrganisation	Ukrenerho
+Ministry of Fuel and Energy (Ukraine)	childOrganisation	Energoatom
+Ministry of Fuel and Energy (Ukraine)	childOrganisation	Naftogaz Ukrainy
+Oklahoma Secretary of Finance and Revenue	childOrganisation	Oklahoma Department of Consumer Credit
+Oklahoma Secretary of Finance and Revenue	childOrganisation	Oklahoma Department of Securities
+Oklahoma Secretary of Finance and Revenue	childOrganisation	Oklahoma Department of Insurance
+Oklahoma Secretary of Finance and Revenue	childOrganisation	Oklahoma State Banking Department
+Oklahoma Secretary of Finance and Revenue	childOrganisation	Oklahoma Office of State Finance
+Oklahoma Secretary of Finance and Revenue	childOrganisation	Oklahoma Tax Commission
+Oklahoma Secretary of Human Resources and Administration	childOrganisation	Oklahoma Department of Central Services
+Oklahoma Secretary of Human Resources and Administration	childOrganisation	Oklahoma Office of Personnel Management
+Oklahoma Secretary of Veterans Affairs	childOrganisation	Oklahoma Department of Veterans Affairs
+Oklahoma Secretary of Transportation	childOrganisation	Oklahoma Aeronautics Commission
+Oklahoma Secretary of Transportation	childOrganisation	Oklahoma Turnpike Authority
+Oklahoma Secretary of Transportation	childOrganisation	Oklahoma Department of Transportation
+Oklahoma Secretary of Science and Technology	childOrganisation	Oklahoma Center for the Advancement of Science and Technology
+Oklahoma Secretary of Health	childOrganisation	Oklahoma Health Care Authority
+Oklahoma Secretary of Health	childOrganisation	Oklahoma Department of Mental Health and Substance Abuse Services
+Oklahoma Secretary of Health	childOrganisation	Oklahoma State Department of Health
+Oklahoma Secretary of Health and Human Services	childOrganisation	Oklahoma Office of Juvenile Affairs
+Oklahoma Secretary of Health and Human Services	childOrganisation	Oklahoma Department of Rehabilitation Services
+Oklahoma Secretary of Health and Human Services	childOrganisation	Oklahoma Department of Human Services
+Oklahoma Secretary of Health and Human Services	childOrganisation	Oklahoma Health Care Authority
+Oklahoma Secretary of Health and Human Services	childOrganisation	Oklahoma Department of Mental Health and Substance Abuse Services
+Oklahoma Secretary of Health and Human Services	childOrganisation	Oklahoma State Department of Health
+Oklahoma Secretary of Human Services	childOrganisation	Oklahoma Office of Juvenile Affairs
+Oklahoma Secretary of Human Services	childOrganisation	Oklahoma Department of Rehabilitation Services
+Oklahoma Secretary of Human Services	childOrganisation	Oklahoma Department of Human Services
+Oklahoma Secretary of Education	childOrganisation	Oklahoma Department of Career and Technology Education
+Oklahoma Secretary of Education	childOrganisation	Oklahoma State Regents for Higher Education
+Oklahoma Secretary of Education	childOrganisation	Oklahoma State Department of Education
+State Maritime Administration (Azerbaijan)	childOrganisation	Baku International Sea Trade Port
+Ohio Department of Public Safety	childOrganisation	Ohio State Highway Patrol
+Ministry of Infrastructure (Ukraine)	childOrganisation	Ukrainian Sea and River Fleet
+Ministry of Infrastructure (Ukraine)	childOrganisation	Roads in Ukraine
+Ministry of Infrastructure (Ukraine)	childOrganisation	Ukrainian Railways
+Ministry of Infrastructure (Ukraine)	childOrganisation	State Aviation Administration (Ukraine)
+Ministry of Economy and Sustainable Development (Georgia)	childOrganisation	United Transport Administration (Georgia)
+Rhode Island Department of Public Safety	childOrganisation	Rhode Island State Police
+Department of Tourism (Kerala)	childOrganisation	Tourist Resorts (Kerala)
+Department of Tourism (Kerala)	childOrganisation	Kerala Tourism Development Corporation
+Department of Revenue and Land Survey (Kerala)	childOrganisation	Kerala State Land Bank

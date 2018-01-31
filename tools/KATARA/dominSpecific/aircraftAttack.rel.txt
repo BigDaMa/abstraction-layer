@@ -1,0 +1,365 @@
+Luftwaffe	aircraftAttack	Panavia Tornado
+Qatar Armed Forces	aircraftAttack	Aérospatiale Gazelle
+Royal Air Force	aircraftAttack	Panavia Tornado
+Royal Air Force	aircraftAttack	Eurofighter Typhoon variants#Typhoon FGR4
+Royal Air Force	aircraftAttack	General Atomics MQ-9 Reaper
+Royal Navy	aircraftAttack	Westland Lynx
+Military of Togo	aircraftAttack	Aermacchi MB-326
+United States Air Force	aircraftAttack	Fairchild Republic A-10 Thunderbolt II
+United States Air Force	aircraftAttack	Lockheed AC-130
+Uganda People's Defence Force	aircraftAttack	Mikoyan-Gurevich MiG-23
+Uganda People's Defence Force	aircraftAttack	Sukhoi Su-30
+Cuban Revolutionary Armed Forces	aircraftAttack	Aero
+Cuban Revolutionary Armed Forces	aircraftAttack	Mil Mi-24
+Israeli Air Force	aircraftAttack	McDonnell Douglas F-15E Strike Eagle
+Air National Guard	aircraftAttack	Fairchild Republic A-10 Thunderbolt II
+Air Force of Zimbabwe	aircraftAttack	Mil Mi-24
+Hellenic Air Force	aircraftAttack	General Dynamics F-16 Fighting Falcon
+Hellenic Air Force	aircraftAttack	Dassault Mirage 2000
+Hellenic Air Force	aircraftAttack	Dassault Mirage 2000
+Hellenic Air Force	aircraftAttack	McDonnell Douglas F-4 Phantom II
+Pakistan Air Force	aircraftAttack	Dassault Mirage 5
+Bangladesh Air Force	aircraftAttack	Nanchang Q-5
+Bangladesh Air Force	aircraftAttack	Aero L-39 Albatros
+Bangladesh Air Force	aircraftAttack	Mil Mi-17
+Royal Jordanian Air Force	aircraftAttack	Bell AH-1 Cobra
+Egyptian Air Force	aircraftAttack	Dassault/Dornier Alpha Jet
+Egyptian Air Force	aircraftAttack	Aero L-59 Super Albatros
+Egyptian Air Force	aircraftAttack	McDonnell Douglas F-4 Phantom II
+Syrian Air Force	aircraftAttack	Mikoyan-Gurevich MiG-23
+Syrian Air Force	aircraftAttack	Sukhoi Su-24
+Syrian Air Force	aircraftAttack	Sukhoi Su-17
+Syrian Air Force	aircraftAttack	Mil Mi-24
+Syrian Air Force	aircraftAttack	Aérospatiale Gazelle
+People's Liberation Army Air Force	aircraftAttack	Nanchang Q-5
+People's Liberation Army Air Force	aircraftAttack	Xian JH-7
+Indian Air Force	aircraftAttack	SEPECAT Jaguar
+Indian Air Force	aircraftAttack	Mikoyan MiG-27
+Indian Air Force	aircraftAttack	IAI Harpy
+Islamic Republic of Iran Air Force	aircraftAttack	McDonnell Douglas F-4 Phantom II
+Islamic Republic of Iran Air Force	aircraftAttack	Sukhoi Su-24
+Islamic Republic of Iran Air Force	aircraftAttack	Northrop F-5
+Islamic Republic of Iran Air Force	aircraftAttack	HESA Saeqeh
+Attack Squadron 12 (United States Navy)	aircraftAttack	Douglas A-4 Skyhawk
+Attack Squadron 12 (United States Navy)	aircraftAttack	LTV A-7 Corsair II
+Royal Norwegian Air Force	aircraftAttack	General Dynamics F-16 Fighting Falcon
+South African Air Force	aircraftAttack	Denel AH-2 Rooivalk
+Nigerian Air Force	aircraftAttack	Dassault/Dornier Alpha Jet
+Republic of Singapore Air Force	aircraftAttack	McDonnell Douglas F-15E Strike Eagle#F-15SG
+Republic of Singapore Air Force	aircraftAttack	Boeing AH-64 Apache#AH-64D
+VMFA-212	aircraftAttack	Douglas A-1 Skyraider
+Polish Air Force	aircraftAttack	Sukhoi Su-17
+Indian Navy	aircraftAttack	British Aerospace Sea Harrier
+Air Corps (Ireland)	aircraftAttack	Pilatus PC-9
+Royal Netherlands Air Force	aircraftAttack	Boeing AH-64 Apache
+VT-8	aircraftAttack	Douglas TBD Devastator
+VT-8	aircraftAttack	Grumman TBF Avenger
+VAQ-129	aircraftAttack	Northrop Grumman EA-6B Prowler
+VAQ-129	aircraftAttack	Boeing EA-18G Growler
+VAQ-129	aircraftAttack	Douglas A-3 Skywarrior
+Swiss Air Force	aircraftAttack	McDonnell Douglas F/A-18 Hornet
+Albanian Air Force	aircraftAttack	Mikoyan-Gurevich MiG-15
+Albanian Air Force	aircraftAttack	Mikoyan-Gurevich MiG-17
+Albanian Air Force	aircraftAttack	Shenyang J-5
+Albanian Air Force	aircraftAttack	Shenyang J-5
+No. 42 Squadron RAF	aircraftAttack	Hawker Hurricane
+No. 42 Squadron RAF	aircraftAttack	Republic P-47 Thunderbolt
+No. 42 Squadron RAF	aircraftAttack	Bristol Beaufighter
+Brazilian Navy	aircraftAttack	Douglas A-4 Skyhawk
+835 Naval Air Squadron	aircraftAttack	Fairey Swordfish
+Uruguayan Air Force	aircraftAttack	FMA IA 58 Pucará
+Peruvian Air Force	aircraftAttack	Sukhoi Su-25
+Peruvian Air Force	aircraftAttack	Cessna A-37 Dragonfly
+Brazilian Air Force	aircraftAttack	AMX International AMX
+Brazilian Air Force	aircraftAttack	Embraer EMB 314 Super Tucano
+Brazilian Air Force	aircraftAttack	Mil Mi-24
+Argentine Air Force	aircraftAttack	FMA IA 58 Pucará
+Ukrainian Air Force	aircraftAttack	Sukhoi Su-24
+Ukrainian Air Force	aircraftAttack	Sukhoi Su-25
+Ukrainian Air Force	aircraftAttack	Mil Mi-24
+Royal Malaysian Air Force	aircraftAttack	BAE Hawk
+Polish Air Forces in France and Great Britain	aircraftAttack	Caudron C.714
+Polish Air Forces in France and Great Britain	aircraftAttack	Hawker Hurricane
+Polish Air Forces in France and Great Britain	aircraftAttack	Supermarine Spitfire
+Côte d'Ivoire Air Force	aircraftAttack	Sukhoi Su-25
+VFA-82	aircraftAttack	LTV A-7 Corsair II
+VFA-82	aircraftAttack	McDonnell Douglas F/A-18 Hornet
+VFA-86	aircraftAttack	Douglas A-4 Skyhawk
+VFA-86	aircraftAttack	LTV A-7 Corsair II
+VFA-15	aircraftAttack	Douglas TBD Devastator
+VFA-15	aircraftAttack	Grumman TBF Avenger
+VFA-15	aircraftAttack	Douglas A-1 Skyraider
+VFA-15	aircraftAttack	Douglas A-4 Skyhawk
+VFA-15	aircraftAttack	LTV A-7 Corsair II
+VFA-15	aircraftAttack	McDonnell Douglas F/A-18 Hornet
+VFA-87	aircraftAttack	LTV A-7 Corsair II
+VFA-37	aircraftAttack	LTV A-7 Corsair II
+Royal Bahraini Air Force	aircraftAttack	Bell AH-1 Cobra
+Royal Bahraini Air Force	aircraftAttack	Bell AH-1 Cobra
+Royal Bahraini Air Force	aircraftAttack	Bell AH-1 Cobra
+Mexican Air Force	aircraftAttack	Pilatus PC-7
+Mexican Air Force	aircraftAttack	Pilatus PC-9
+VMA-223	aircraftAttack	Douglas A-4 Skyhawk
+VMA-223	aircraftAttack	McDonnell Douglas AV-8B Harrier II
+Royal Thai Air Force	aircraftAttack	Aero L-39 Albatros
+Royal Thai Air Force	aircraftAttack	Dassault/Dornier Alpha Jet
+Royal Thai Air Force	aircraftAttack	Pilatus PC-6
+Australian First Tactical Air Force	aircraftAttack	Bristol Beaufighter
+Turkish Air Force	aircraftAttack	General Dynamics F-16 Fighting Falcon
+Turkish Air Force	aircraftAttack	F-4 Phantom II non-U.S. operators#Upgrades 4
+Turkish Air Force	aircraftAttack	McDonnell Douglas F-4 Phantom II
+Turkish Air Force	aircraftAttack	Northrop F-5
+Pakistan Army	aircraftAttack	Bell AH-1 Cobra
+VMFA-333	aircraftAttack	Douglas A-1 Skyraider
+Romanian Air Force	aircraftAttack	Mikoyan-Gurevich MiG-21
+Romanian Air Force	aircraftAttack	IAR 330
+Afghan National Army Air Force	aircraftAttack	Mil Mi-24
+Spanish Army	aircraftAttack	Eurocopter Tiger
+VAQ-135	aircraftAttack	Douglas A-3 Skywarrior
+VAQ-135	aircraftAttack	Northrop Grumman EA-6B Prowler
+Japan Air Self-Defense Force	aircraftAttack	Mitsubishi F-2
+Organization of the Luftwaffe (1933–1945)	aircraftAttack	Messerschmitt Bf 109
+Organization of the Luftwaffe (1933–1945)	aircraftAttack	Focke-Wulf Fw 190
+Serbian Air Force and Air Defence	aircraftAttack	Soko J-22 Orao
+Serbian Air Force and Air Defence	aircraftAttack	Soko G-4 Super Galeb
+Serbian Air Force and Air Defence	aircraftAttack	Aérospatiale Gazelle
+VMA-211	aircraftAttack	Douglas A-1 Skyraider
+VMA-211	aircraftAttack	Douglas A-4 Skyhawk
+VMA-211	aircraftAttack	McDonnell Douglas AV-8B Harrier II
+VMA-214	aircraftAttack	Douglas A-4 Skyhawk
+VMA-214	aircraftAttack	McDonnell Douglas AV-8B Harrier II
+VMA-513	aircraftAttack	Hawker Siddeley Harrier
+VMA-513	aircraftAttack	McDonnell Douglas AV-8B Harrier II
+VAQ-137	aircraftAttack	Northrop Grumman EA-6B Prowler
+69 Squadron (Israel)	aircraftAttack	McDonnell Douglas F-4 Phantom II
+Austrian Air Force	aircraftAttack	Eurofighter Typhoon
+Tanzania People's Defence Force	aircraftAttack	Shenyang J-5
+No. 1 Squadron RAAF	aircraftAttack	Boeing F/A-18E/F Super Hornet
+No. 6 Squadron RAAF	aircraftAttack	McDonnell Douglas F-4 Phantom II
+No. 6 Squadron RAAF	aircraftAttack	Boeing F/A-18E/F Super Hornet
+VMAQ-1	aircraftAttack	Douglas A-1 Skyraider
+VMFA-134	aircraftAttack	Douglas A-4 Skyhawk
+Czech Air Force	aircraftAttack	Aero L-39 Albatros
+Czech Air Force	aircraftAttack	Aero L-159 Alca
+Spanish Air Force	aircraftAttack	Dassault Mirage F1
+Spanish Air Force	aircraftAttack	McDonnell Douglas F/A-18 Hornet
+VMA-231	aircraftAttack	Hawker Siddeley Harrier
+VMA-231	aircraftAttack	McDonnell Douglas AV-8B Harrier II
+Hungarian Air Force	aircraftAttack	Mil Mi-24
+Hungarian Air Force	aircraftAttack	Aero L-159 Alca
+No. 618 Squadron RAF	aircraftAttack	Bristol Beaufighter
+Azerbaijani Air Forces	aircraftAttack	Sukhoi Su-17
+Azerbaijani Air Forces	aircraftAttack	Sukhoi Su-24
+Azerbaijani Air Forces	aircraftAttack	Mil Mi-24
+Azerbaijani Air Forces	aircraftAttack	Mil Mi-24 variants
+VMA-542	aircraftAttack	Hawker Siddeley Harrier
+VMA-542	aircraftAttack	McDonnell Douglas AV-8B Harrier II
+VMFA(AW)-225	aircraftAttack	Douglas A-1 Skyraider
+VMFA(AW)-225	aircraftAttack	Douglas A-4 Skyhawk
+VMFA(AW)-225	aircraftAttack	Grumman A-6 Intruder
+VMFA(AW)-224	aircraftAttack	Douglas A-4 Skyhawk
+VMFA(AW)-224	aircraftAttack	Grumman A-6 Intruder
+VMFA-251	aircraftAttack	Douglas A-1 Skyraider
+VMFA(AW)-121	aircraftAttack	Douglas A-1 Skyraider
+VMFA(AW)-121	aircraftAttack	Douglas A-4 Skyhawk
+VMFA(AW)-121	aircraftAttack	Grumman A-6 Intruder
+Chilean Air Force	aircraftAttack	General Dynamics F-16 Fighting Falcon
+Kuwait Air Force	aircraftAttack	McDonnell Douglas F/A-18 Hornet
+Kuwait Air Force	aircraftAttack	Boeing AH-64 Apache
+816 Naval Air Squadron	aircraftAttack	Fairey Swordfish
+816 Naval Air Squadron	aircraftAttack	Supermarine Seafire
+816 Naval Air Squadron	aircraftAttack	Grumman F4F Wildcat
+816 Naval Air Squadron	aircraftAttack	Fairey Barracuda
+816 Naval Air Squadron	aircraftAttack	Fairey Firefly
+Michigan Air National Guard	aircraftAttack	Fairchild Republic A-10 Thunderbolt II
+VMFA(AW)-242	aircraftAttack	Grumman A-6 Intruder
+VMFA(AW)-242	aircraftAttack	Douglas A-4 Skyhawk
+No. 82 Wing RAAF	aircraftAttack	Boeing F/A-18E/F Super Hornet
+National Air Force of Angola	aircraftAttack	Sukhoi Su-25
+National Air Force of Angola	aircraftAttack	Sukhoi Su-17
+National Air Force of Angola	aircraftAttack	Mil Mi-24
+VMFA(AW)-533	aircraftAttack	Douglas A-4 Skyhawk
+VMFA(AW)-533	aircraftAttack	Grumman A-6 Intruder
+VMFA(AW)-332	aircraftAttack	Douglas A-1 Skyraider
+VMFA(AW)-332	aircraftAttack	Douglas A-4 Skyhawk
+VMFA(AW)-332	aircraftAttack	Grumman A-6 Intruder
+SFR Yugoslav Air Force	aircraftAttack	Soko J-21 Jastreb
+SFR Yugoslav Air Force	aircraftAttack	Soko J-22 Orao
+SFR Yugoslav Air Force	aircraftAttack	Soko G-4 Super Galeb
+SFR Yugoslav Air Force	aircraftAttack	Soko G-2 Galeb
+SFR Yugoslav Air Force	aircraftAttack	Aérospatiale Gazelle
+Korean People's Air Force	aircraftAttack	Sukhoi Su-7
+VAQ-142	aircraftAttack	Northrop Grumman EA-6B Prowler
+Republika Srpska Air Force	aircraftAttack	Soko J-22 Orao
+Republika Srpska Air Force	aircraftAttack	Soko G-4 Super Galeb
+Republika Srpska Air Force	aircraftAttack	Soko J-21 Jastreb
+Republika Srpska Air Force	aircraftAttack	Aérospatiale Gazelle
+No. 7 Squadron, Indian Air Force	aircraftAttack	Dassault Mirage 2000
+Vietnam Air Force	aircraftAttack	Dassault MD 315 Flamant
+Vietnam Air Force	aircraftAttack	North American T-28 Trojan
+Vietnam Air Force	aircraftAttack	Douglas A-1 Skyraider
+Vietnam Air Force	aircraftAttack	Cessna A-37 Dragonfly
+Vietnam Air Force	aircraftAttack	Douglas AC-47 Spooky
+Vietnam Air Force	aircraftAttack	Fairchild AC-119
+VMA-124	aircraftAttack	Douglas A-4 Skyhawk
+Venezuelan Air Force	aircraftAttack	North American Rockwell OV-10 Bronco
+Venezuelan Air Force	aircraftAttack	Sukhoi Su-30
+Lithuanian Air Force	aircraftAttack	Aero L-39 Albatros
+Sri Lanka Air Force	aircraftAttack	Mikoyan MiG-27
+Sri Lanka Air Force	aircraftAttack	Mil Mi-24
+Colombian Air Force	aircraftAttack	Embraer EMB 314 Super Tucano
+Colombian Air Force	aircraftAttack	Cessna A-37 Dragonfly
+Colombian Air Force	aircraftAttack	North American Rockwell OV-10 Bronco
+Colombian Air Force	aircraftAttack	Douglas AC-47 Spooky
+German Army Aviation Corps	aircraftAttack	MBB Bo 105
+German Army Aviation Corps	aircraftAttack	Eurocopter Tiger
+No. 1 Squadron, Indian Air Force	aircraftAttack	Dassault Mirage 2000
+404 Maritime Patrol and Training Squadron	aircraftAttack	Bristol Beaufighter
+404 Maritime Patrol and Training Squadron	aircraftAttack	De Havilland Mosquito
+Algerian Air Force	aircraftAttack	Sukhoi Su-30
+Algerian Air Force	aircraftAttack	Sukhoi Su-24
+Algerian Air Force	aircraftAttack	Aero L-39 Albatros
+Algerian Air Force	aircraftAttack	Mil Mi-24
+Algerian Air Force	aircraftAttack	Yakovlev Yak-130
+VMA-131	aircraftAttack	Douglas A-4 Skyhawk
+VMA-133	aircraftAttack	Douglas A-4 Skyhawk
+Libyan Air Force	aircraftAttack	Sukhoi Su-17
+Libyan Air Force	aircraftAttack	Soko J-21 Jastreb
+Libyan Air Force	aircraftAttack	Mil Mi-14
+Libyan Air Force	aircraftAttack	Mil Mi-24
+Libyan Air Force	aircraftAttack	Bell 206
+Royal Moroccan Air Force	aircraftAttack	Dassault Mirage F1
+Royal Moroccan Air Force	aircraftAttack	Dassault Mirage F1
+Royal Moroccan Air Force	aircraftAttack	General Dynamics F-16 Fighting Falcon
+Royal Moroccan Air Force	aircraftAttack	Dassault/Dornier Alpha Jet
+Royal Moroccan Air Force	aircraftAttack	Aérospatiale Gazelle
+Royal Moroccan Air Force	aircraftAttack	Northrop F-5
+Royal Moroccan Air Force	aircraftAttack	McDonnell Douglas MD 500 Defender
+Armenian Air Force	aircraftAttack	Sukhoi Su-25
+Armenian Air Force	aircraftAttack	Mil Mi-24
+Armenian Air Force	aircraftAttack	Aero L-39 Albatros
+Indonesian Air Force	aircraftAttack	Sukhoi Su-30
+Indonesian Air Force	aircraftAttack	Douglas A-4 Skyhawk
+Indonesian Air Force	aircraftAttack	BAE Hawk
+Indonesian Air Force	aircraftAttack	North American Rockwell OV-10 Bronco
+Abkhazian Air Force	aircraftAttack	Sukhoi Su-25
+Abkhazian Air Force	aircraftAttack	Aero L-39 Albatros
+Abkhazian Air Force	aircraftAttack	Mil Mi-24
+Georgian Air Force	aircraftAttack	Sukhoi Su-25
+Georgian Air Force	aircraftAttack	Mil Mi-24
+Georgian Air Force	aircraftAttack	Mil Mi-24
+Belarusian Air Force	aircraftAttack	Sukhoi Su-25
+Belarusian Air Force	aircraftAttack	Mil Mi-24
+VMA-144	aircraftAttack	Douglas A-4 Skyhawk
+Cameroon Air Force	aircraftAttack	Aermacchi MB-326
+Bulgarian Air Force	aircraftAttack	Sukhoi Su-25
+Bulgarian Air Force	aircraftAttack	Mil Mi-24
+Myanmar Air Force	aircraftAttack	Nanchang Q-5
+Eritrean Air Force	aircraftAttack	Aermacchi MB-339
+Eritrean Air Force	aircraftAttack	Mil Mi-24
+Eritrean Air Force	aircraftAttack	Sukhoi Su-25
+Air Force of Serbia and Montenegro	aircraftAttack	Soko J-22 Orao
+Air Force of Serbia and Montenegro	aircraftAttack	Soko G-4 Super Galeb
+Air Force of Serbia and Montenegro	aircraftAttack	Mil Mi-24
+Air Force of Serbia and Montenegro	aircraftAttack	Aérospatiale Gazelle
+No. 455 Squadron RAAF	aircraftAttack	Bristol Beaufighter
+United Arab Emirates Air Force	aircraftAttack	Boeing AH-64 Apache
+United Arab Emirates Air Force	aircraftAttack	Sikorsky UH-60 Black Hawk
+United Arab Emirates Air Force	aircraftAttack	Alenia Aermacchi M-346 Master
+Spanish Navy Air Arm	aircraftAttack	McDonnell Douglas AV-8B Harrier II
+Spanish Navy Air Arm	aircraftAttack	Bell UH-1N Twin Huey
+Spanish Navy Air Arm	aircraftAttack	Sikorsky SH-60 Seahawk
+Spanish Navy Air Arm	aircraftAttack	McDonnell Douglas MD 500 Defender
+Slovak Air Force	aircraftAttack	Mil Mi-24
+Slovak Air Force	aircraftAttack	Aero L-39 Albatros
+Spanish Republican Air Force	aircraftAttack	Breguet 19
+Spanish Republican Air Force	aircraftAttack	Vickers Vildebeest
+Spanish Republican Air Force	aircraftAttack	Potez 25
+Spanish Republican Air Force	aircraftAttack	Beechcraft Staggerwing
+Spanish Republican Air Force	aircraftAttack	Gourdou-Leseurre GL.30
+Spanish Republican Air Force	aircraftAttack	Potez 25
+Senegalese Air Force	aircraftAttack	Mil Mi-24
+Schlachtgeschwader 2	aircraftAttack	Junkers Ju 87
+Schlachtgeschwader 2	aircraftAttack	Focke-Wulf Fw 190
+Asas de Portugal	aircraftAttack	Dassault/Dornier Alpha Jet
+VAQ-139	aircraftAttack	Northrop Grumman EA-6B Prowler
+Leteće zvezde	aircraftAttack	Soko J-21 Jastreb
+No. 9 Operational Group RAAF	aircraftAttack	Bristol Beaufort
+No. 9 Operational Group RAAF	aircraftAttack	Bristol Beaufighter
+Air Force of the Independent State of Croatia	aircraftAttack	Rogozarski PVT
+Air Force of the Independent State of Croatia	aircraftAttack	Breguet 19
+3rd Army Aviation Regiment (Ukraine)	aircraftAttack	Mil Mi-24
+7th Army Aviation Regiment (Ukraine)	aircraftAttack	Mil Mi-24
+VMA-217	aircraftAttack	Douglas A-4 Skyhawk
+VMA-233	aircraftAttack	Douglas A-1 Skyraider
+VMA-233	aircraftAttack	Douglas A-4 Skyhawk
+Maryland Air National Guard	aircraftAttack	Fairchild Republic A-10 Thunderbolt II
+Attack Squadron 163 (United States Navy)	aircraftAttack	Douglas A-4 Skyhawk
+Brazilian Army Aviation Command	aircraftAttack	Eurocopter Fennec
+Attack Squadron 46 (United States Navy)	aircraftAttack	Douglas A-4 Skyhawk
+Attack Squadron 46 (United States Navy)	aircraftAttack	LTV A-7 Corsair II
+736 Naval Air Squadron	aircraftAttack	Blackburn Buccaneer
+736 Naval Air Squadron	aircraftAttack	Supermarine Scimitar
+7th Tactical Squadron	aircraftAttack	Sukhoi Su-17
+7th Tactical Squadron	aircraftAttack	Sukhoi Su-17
+40th Tactical Squadron	aircraftAttack	Sukhoi Su-17
+40th Tactical Squadron	aircraftAttack	Sukhoi Su-17
+8th Tactical Squadron	aircraftAttack	Sukhoi Su-17
+8th Tactical Squadron	aircraftAttack	Sukhoi Su-17
+301 Squadron (Portugal)	aircraftAttack	Dassault/Dornier Alpha Jet
+302 Squadron (Portugal)	aircraftAttack	LTV A-7 Corsair II
+304 Squadron (Portugal)	aircraftAttack	LTV A-7 Corsair II
+VAQ-209	aircraftAttack	Northrop Grumman EA-6B Prowler
+Macedonian Air Force	aircraftAttack	Sukhoi Su-25
+Macedonian Air Force	aircraftAttack	Mil Mi-24
+VAQ-130	aircraftAttack	Douglas A-1 Skyraider
+VAQ-130	aircraftAttack	Northrop Grumman EA-6B Prowler
+VAQ-133	aircraftAttack	Douglas A-3 Skywarrior
+VAQ-133	aircraftAttack	Northrop Grumman EA-6B Prowler
+VAQ-132	aircraftAttack	Douglas A-3 Skywarrior
+VAQ-132	aircraftAttack	Douglas A-3 Skywarrior
+VAQ-132	aircraftAttack	Northrop Grumman EA-6B Prowler
+VAQ-132	aircraftAttack	Boeing EA-18G Growler
+VAQ-134	aircraftAttack	Douglas A-3 Skywarrior
+VAQ-134	aircraftAttack	Northrop Grumman EA-6B Prowler
+United States Navy	aircraftAttack	McDonnell Douglas F/A-18 Hornet
+United States Navy	aircraftAttack	Boeing F/A-18E/F Super Hornet
+813 Naval Air Squadron	aircraftAttack	Westland Wyvern
+813 Naval Air Squadron	aircraftAttack	Blackburn Firebrand
+VAQ-141	aircraftAttack	Boeing EA-18G Growler
+VAQ-138	aircraftAttack	Boeing EA-18G Growler
+VMA-543	aircraftAttack	Douglas A-4 Skyhawk
+53d Test and Evaluation Group	aircraftAttack	Fairchild Republic A-10 Thunderbolt II
+Attack Squadron 75 (United States Navy)	aircraftAttack	Douglas A-1 Skyraider
+Attack Squadron 75 (United States Navy)	aircraftAttack	Grumman A-6 Intruder
+Attack Squadron 44 (United States Navy)	aircraftAttack	Curtiss SB2C Helldiver
+Attack Squadron 44 (United States Navy)	aircraftAttack	Douglas A-1 Skyraider
+Attack Squadron 44 (United States Navy)	aircraftAttack	Martin AM Mauler
+Attack Squadron 44 (United States Navy)	aircraftAttack	Douglas A-4 Skyhawk
+Army Aviation Corps (India)	aircraftAttack	HAL Dhruv
+Slovenian Air Force and Air Defence	aircraftAttack	Pilatus PC-9
+No. 71 Wing RAAF	aircraftAttack	Bristol Beaufort
+No. 71 Wing RAAF	aircraftAttack	Bristol Beaufighter
+15th Aviation Brigade (Slovenian Armed Forces)	aircraftAttack	Pilatus PC-9
+Montenegrin Air Force	aircraftAttack	Soko G-4 Super Galeb
+No. 5 Squadron, Indian Air Force	aircraftAttack	SEPECAT Jaguar
+No. 73 Wing RAAF	aircraftAttack	Douglas A-20 Havoc
+No. 73 Wing RAAF	aircraftAttack	Bristol Beaufighter
+Pakistan Naval Air Arm	aircraftAttack	Westland Lynx
+Pakistan Naval Air Arm	aircraftAttack	Dassault Mirage 5
+Philippine Air Force	aircraftAttack	North American Rockwell OV-10 Bronco
+Philippine Air Force	aircraftAttack	Aermacchi SF.260
+Philippine Air Force	aircraftAttack	McDonnell Douglas MD 500 Defender
+Schlachtgeschwader 10	aircraftAttack	Focke-Wulf Fw 190
+No. 77 Wing RAAF	aircraftAttack	Vultee A-31 Vengeance
+No. 77 Wing RAAF	aircraftAttack	Douglas A-20 Havoc
+No. 77 Wing RAAF	aircraftAttack	Bristol Beaufighter
+No. 79 Wing RAAF	aircraftAttack	Bristol Beaufort
+No. 72 Wing RAAF	aircraftAttack	Vultee A-31 Vengeance
+Zambian Air Force	aircraftAttack	Mikoyan-Gurevich MiG-21
+Vietnam People's Air Force	aircraftAttack	Sukhoi Su-17
+Vietnam People's Air Force	aircraftAttack	Mil Mi-24
+No. 27 Squadron (Pakistan Air Force)	aircraftAttack	Dassault Mirage 5
+No. 7 Squadron (Pakistan Air Force)	aircraftAttack	Nanchang Q-5
+No. 26 Squadron (Pakistan Air Force)	aircraftAttack	Nanchang Q-5
+No. 16 Squadron (Pakistan Air Force)	aircraftAttack	Nanchang Q-5

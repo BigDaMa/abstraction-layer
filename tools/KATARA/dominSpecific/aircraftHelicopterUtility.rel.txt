@@ -1,0 +1,26 @@
+United States Army Aviation Branch	aircraftHelicopterUtility	Sikorsky UH-60 Black Hawk
+United States Army Aviation Branch	aircraftHelicopterUtility	Eurocopter UH-72 Lakota
+Nicaraguan Air Force	aircraftHelicopterUtility	Mil Mi-17
+3rd Tactical Squadron	aircraftHelicopterUtility	Mil Mi-2
+1st Tactical Squadron	aircraftHelicopterUtility	Mil Mi-2
+2nd Transport-Liaison Squadron	aircraftHelicopterUtility	PZL W-3 Sokół
+36th Special Aviation Regiment	aircraftHelicopterUtility	Bell 412
+36th Special Aviation Regiment	aircraftHelicopterUtility	PZL W-3 Sokół
+36th Special Aviation Regiment	aircraftHelicopterUtility	Mil Mi-8
+31st Tactical Air Base	aircraftHelicopterUtility	Mil Mi-2
+1st Flying Training Centre	aircraftHelicopterUtility	MI-2
+3rd Ship Flotilla	aircraftHelicopterUtility	Kaman SH-2 Seasprite
+3rd Ship Flotilla	aircraftHelicopterUtility	PZL W-3 Sokół
+3rd Ship Flotilla	aircraftHelicopterUtility	Mil Mi-14
+3rd Ship Flotilla	aircraftHelicopterUtility	Mil Mi-17
+28th Naval Aviation Squadron	aircraftHelicopterUtility	Kaman SH-2 Seasprite
+28th Naval Aviation Squadron	aircraftHelicopterUtility	PZL W-3 Sokół
+Peruvian Naval Aviation	aircraftHelicopterUtility	Sikorsky SH-3 Sea King
+Peruvian Naval Aviation	aircraftHelicopterUtility	Mil Mi-8
+HMLA-469	aircraftHelicopterUtility	Bell UH-1Y Venom
+Military Emergencies Unit	aircraftHelicopterUtility	Canadair CL-215
+Military Emergencies Unit	aircraftHelicopterUtility	Eurocopter EC135
+National Liberation Army (Libya)	aircraftHelicopterUtility	Mil Mi-14
+Free Libyan Air Force	aircraftHelicopterUtility	Mil Mi-14
+1st Aviation Regiment (United States)	aircraftHelicopterUtility	Sikorsky UH-60 Black Hawk
+82nd Aviation Regiment (United States)	aircraftHelicopterUtility	Sikorsky UH-60 Black Hawk

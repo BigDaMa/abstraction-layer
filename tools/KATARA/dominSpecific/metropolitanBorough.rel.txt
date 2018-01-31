@@ -1,0 +1,1197 @@
+Holmfirth	metropolitanBorough	Kirklees
+Haworth	metropolitanBorough	City of Bradford
+Worstead	metropolitanBorough	North Norfolk
+Batley	metropolitanBorough	Kirklees
+Bingley	metropolitanBorough	City of Bradford
+Boston Spa	metropolitanBorough	City of Leeds
+Brighouse	metropolitanBorough	Calderdale
+Castleford	metropolitanBorough	City of Wakefield
+Elland	metropolitanBorough	Calderdale
+Dewsbury	metropolitanBorough	Kirklees
+Esholt	metropolitanBorough	City of Bradford
+Gomersal	metropolitanBorough	Kirklees
+Greetland	metropolitanBorough	Calderdale
+Guiseley	metropolitanBorough	City of Leeds
+Harewood	metropolitanBorough	City of Leeds
+Thornhill, West Yorkshire	metropolitanBorough	Kirklees
+Walton, Wakefield	metropolitanBorough	City of Wakefield
+West Bretton	metropolitanBorough	City of Wakefield
+Wetherby	metropolitanBorough	City of Leeds
+Mirfield	metropolitanBorough	Kirklees
+Mytholmroyd	metropolitanBorough	Calderdale
+Wakefield	metropolitanBorough	City of Wakefield
+Heptonstall	metropolitanBorough	Calderdale
+Oxenhope	metropolitanBorough	City of Bradford
+Ossett	metropolitanBorough	City of Wakefield
+Pontefract	metropolitanBorough	City of Wakefield
+Hebden Bridge	metropolitanBorough	Calderdale
+Otley	metropolitanBorough	City of Leeds
+Rastrick	metropolitanBorough	Calderdale
+Ripponden	metropolitanBorough	Calderdale
+Rothwell, West Yorkshire	metropolitanBorough	City of Leeds
+Copley, West Yorkshire	metropolitanBorough	Calderdale
+Cleckheaton	metropolitanBorough	Kirklees
+Kirkburton	metropolitanBorough	Kirklees
+Keighley	metropolitanBorough	City of Bradford
+Kirkstall	metropolitanBorough	City of Leeds
+Meltham	metropolitanBorough	Kirklees
+Marsden, West Yorkshire	metropolitanBorough	Kirklees
+Morley, West Yorkshire	metropolitanBorough	City of Leeds
+Scarcroft	metropolitanBorough	City of Leeds
+Shibden	metropolitanBorough	Calderdale
+Slaithwaite	metropolitanBorough	Kirklees
+Sowerby Bridge	metropolitanBorough	Calderdale
+Shipley, West Yorkshire	metropolitanBorough	City of Bradford
+Todmorden	metropolitanBorough	Calderdale
+Pudsey	metropolitanBorough	City of Leeds
+Baildon	metropolitanBorough	City of Bradford
+Ilkley	metropolitanBorough	City of Bradford
+Huddersfield	metropolitanBorough	Kirklees
+Conisbrough	metropolitanBorough	Metropolitan Borough of Doncaster
+Doncaster	metropolitanBorough	Metropolitan Borough of Doncaster
+Darlington	metropolitanBorough	Darlington (UK Parliament constituency)
+Leasowe	metropolitanBorough	Metropolitan Borough of Wirral
+Broadbottom	metropolitanBorough	Tameside
+Stalybridge	metropolitanBorough	Tameside
+Mottram in Longdendale	metropolitanBorough	Tameside
+Arthington	metropolitanBorough	City of Leeds
+Moseley and Kings Heath (ward)	metropolitanBorough	Birmingham
+Oldham	metropolitanBorough	Metropolitan Borough of Oldham
+Salford, Greater Manchester	metropolitanBorough	City of Salford
+Denton, Greater Manchester	metropolitanBorough	Tameside
+Wallsend	metropolitanBorough	North Tyneside
+Jarrow	metropolitanBorough	South Tyneside
+Anston	metropolitanBorough	Metropolitan Borough of Rotherham
+Barnsley	metropolitanBorough	Metropolitan Borough of Barnsley
+Chorlton-cum-Hardy	metropolitanBorough	Manchester
+Earlsdon	metropolitanBorough	Coventry
+Birkenhead	metropolitanBorough	Metropolitan Borough of Wirral
+Walsall	metropolitanBorough	Metropolitan Borough of Walsall
+West Bromwich	metropolitanBorough	Sandwell
+Washington, Tyne and Wear	metropolitanBorough	City of Sunderland
+Sunderland, Tyne and Wear	metropolitanBorough	City of Sunderland
+Gateshead	metropolitanBorough	Metropolitan Borough of Gateshead
+Dudley	metropolitanBorough	Metropolitan Borough of Dudley
+Tipton	metropolitanBorough	Sandwell
+Altrincham	metropolitanBorough	Trafford
+Prescot	metropolitanBorough	Metropolitan Borough of Knowsley
+Halewood	metropolitanBorough	Metropolitan Borough of Knowsley
+Kirkby	metropolitanBorough	Metropolitan Borough of Knowsley
+Huyton	metropolitanBorough	Metropolitan Borough of Knowsley
+Bury	metropolitanBorough	Metropolitan Borough of Bury
+Stockport	metropolitanBorough	Metropolitan Borough of Stockport
+Ashton-under-Lyne	metropolitanBorough	Tameside
+Southport	metropolitanBorough	Metropolitan Borough of Sefton
+Armley	metropolitanBorough	City of Leeds
+Attercliffe	metropolitanBorough	Sheffield
+Rainhill	metropolitanBorough	Metropolitan Borough of St Helens
+Earlestown	metropolitanBorough	Metropolitan Borough of St Helens
+Castlefield	metropolitanBorough	Manchester
+Bootle	metropolitanBorough	Metropolitan Borough of Sefton
+Great Crosby	metropolitanBorough	Metropolitan Borough of Sefton
+Newton-le-Willows	metropolitanBorough	Metropolitan Borough of St Helens
+Edge Hill, Merseyside	metropolitanBorough	Liverpool
+Litherland	metropolitanBorough	Metropolitan Borough of Sefton
+Formby	metropolitanBorough	Metropolitan Borough of Sefton
+Aigburth	metropolitanBorough	Liverpool
+Maghull	metropolitanBorough	Metropolitan Borough of Sefton
+Allerton, Merseyside	metropolitanBorough	City of Liverpool
+St Michael's Hamlet	metropolitanBorough	City of Liverpool
+Little Crosby	metropolitanBorough	Metropolitan Borough of Sefton
+Waterloo, Merseyside	metropolitanBorough	Metropolitan Borough of Sefton
+Crosby, Merseyside	metropolitanBorough	Metropolitan Borough of Sefton
+Dore	metropolitanBorough	Sheffield
+Crumpsall	metropolitanBorough	Manchester
+Aston	metropolitanBorough	Birmingham
+Smethwick	metropolitanBorough	Sandwell
+Stocksbridge	metropolitanBorough	Sheffield
+Bradfield, South Yorkshire	metropolitanBorough	Sheffield
+High Bradfield	metropolitanBorough	Sheffield
+Wednesbury	metropolitanBorough	Sandwell
+Oldbury, West Midlands	metropolitanBorough	Sandwell
+Rowley Regis	metropolitanBorough	Sandwell
+Dinnington	metropolitanBorough	Metropolitan Borough of Rotherham
+Dunford Bridge	metropolitanBorough	Metropolitan Borough of Barnsley
+Aldridge	metropolitanBorough	Metropolitan Borough of Walsall
+Bolton	metropolitanBorough	Metropolitan Borough of Bolton
+Woodlands, South Yorkshire	metropolitanBorough	Metropolitan Borough of Doncaster
+Sale, Greater Manchester	metropolitanBorough	Trafford
+Sutton Coldfield	metropolitanBorough	Birmingham
+Askern	metropolitanBorough	Metropolitan Borough of Doncaster
+Bilston	metropolitanBorough	Wolverhampton
+Whitley Bay	metropolitanBorough	North Tyneside
+South Shields	metropolitanBorough	South Tyneside
+Tynemouth	metropolitanBorough	North Tyneside
+Penistone	metropolitanBorough	Metropolitan Borough of Barnsley
+Blackheath, West Midlands	metropolitanBorough	Sandwell
+Bawtry	metropolitanBorough	Metropolitan Borough of Doncaster
+Willenhall	metropolitanBorough	Metropolitan Borough of Walsall
+Halesowen	metropolitanBorough	Metropolitan Borough of Dudley
+Moortown, Leeds	metropolitanBorough	City of Leeds
+Knowle	metropolitanBorough	Metropolitan Borough of Solihull
+Yeadon, West Yorkshire	metropolitanBorough	City of Leeds
+Ashton-in-Makerfield	metropolitanBorough	Metropolitan Borough of Wigan
+Knottingley	metropolitanBorough	City of Wakefield
+Stourbridge	metropolitanBorough	Metropolitan Borough of Dudley
+Austhorpe	metropolitanBorough	City of Leeds
+Bebington	metropolitanBorough	Metropolitan Borough of Wirral
+Headingley	metropolitanBorough	City of Leeds
+Toxteth	metropolitanBorough	Liverpool
+Birkdale	metropolitanBorough	Metropolitan Borough of Sefton
+Rusholme	metropolitanBorough	Manchester
+Chadderton	metropolitanBorough	Metropolitan Borough of Oldham
+Brierley Hill	metropolitanBorough	Metropolitan Borough of Dudley
+Brownhills	metropolitanBorough	Metropolitan Borough of Walsall
+Reddish	metropolitanBorough	Metropolitan Borough of Stockport
+Leigh, Greater Manchester	metropolitanBorough	Metropolitan Borough of Wigan
+Hampton-in-Arden	metropolitanBorough	Metropolitan Borough of Solihull
+Irlam	metropolitanBorough	City of Salford
+Withington	metropolitanBorough	Manchester
+New York, Tyne and Wear	metropolitanBorough	North Tyneside
+Killingworth	metropolitanBorough	North Tyneside
+Four Heatons	metropolitanBorough	Metropolitan Borough of Stockport
+Dukinfield	metropolitanBorough	Tameside
+Manchester city centre	metropolitanBorough	Manchester
+Fallowfield	metropolitanBorough	Manchester
+Hoylake	metropolitanBorough	Metropolitan Borough of Wirral
+Hyde, Greater Manchester	metropolitanBorough	Tameside
+Hollingworth	metropolitanBorough	Tameside
+Flowery Field	metropolitanBorough	Tameside
+Hattersley	metropolitanBorough	Tameside
+Audenshaw	metropolitanBorough	Tameside
+Mossley	metropolitanBorough	Tameside
+Handsworth, South Yorkshire	metropolitanBorough	Sheffield
+Glodwick	metropolitanBorough	Metropolitan Borough of Oldham
+Edgbaston	metropolitanBorough	Birmingham
+Egerton, Greater Manchester	metropolitanBorough	Metropolitan Borough of Bolton
+Droylsden	metropolitanBorough	Tameside
+Newton Heath	metropolitanBorough	Manchester
+Grimethorpe	metropolitanBorough	Metropolitan Borough of Barnsley
+Failsworth	metropolitanBorough	Metropolitan Borough of Oldham
+Heckmondwike	metropolitanBorough	Kirklees
+Moss Side	metropolitanBorough	Manchester
+West Derby	metropolitanBorough	Liverpool
+Darton	metropolitanBorough	Metropolitan Borough of Barnsley
+Thorne, South Yorkshire	metropolitanBorough	Doncaster
+Norris Green	metropolitanBorough	Liverpool
+Tickhill	metropolitanBorough	Metropolitan Borough of Doncaster
+Sedgley	metropolitanBorough	Metropolitan Borough of Dudley
+Horbury	metropolitanBorough	City of Wakefield
+Hemsworth	metropolitanBorough	City of Wakefield
+Saddleworth	metropolitanBorough	Metropolitan Borough of Oldham
+Harborne	metropolitanBorough	Birmingham
+Soho, West Midlands	metropolitanBorough	Birmingham
+Compstall	metropolitanBorough	Metropolitan Borough of Stockport
+Green Moor	metropolitanBorough	Metropolitan Borough of Barnsley
+Oxspring	metropolitanBorough	Metropolitan Borough of Barnsley
+Rochdale	metropolitanBorough	Metropolitan Borough of Rochdale
+Hetton-le-Hole	metropolitanBorough	City of Sunderland
+Bournville	metropolitanBorough	Birmingham
+Everton, Liverpool	metropolitanBorough	Liverpool
+Darfield, South Yorkshire	metropolitanBorough	Metropolitan Borough of Barnsley
+Whitefield, Greater Manchester	metropolitanBorough	Metropolitan Borough of Bury
+Houghton-le-Spring	metropolitanBorough	City of Sunderland
+Hall Green	metropolitanBorough	Birmingham
+Kings Norton	metropolitanBorough	Birmingham
+Northfield, Birmingham	metropolitanBorough	Birmingham
+Perry Barr	metropolitanBorough	Birmingham
+Selly Oak	metropolitanBorough	Birmingham
+Erdington	metropolitanBorough	Birmingham
+Acocks Green	metropolitanBorough	Birmingham
+Sparkbrook	metropolitanBorough	Birmingham
+Ladywood	metropolitanBorough	Birmingham
+Hodge Hill	metropolitanBorough	Birmingham
+Meriden, West Midlands	metropolitanBorough	Metropolitan Borough of Solihull
+Wortley, Leeds	metropolitanBorough	City of Leeds
+Firbeck	metropolitanBorough	Metropolitan Borough of Rotherham
+Austerfield	metropolitanBorough	Metropolitan Borough of Doncaster
+Finningley	metropolitanBorough	Metropolitan Borough of Doncaster
+Blaxton	metropolitanBorough	Metropolitan Borough of Doncaster
+Hatfield, South Yorkshire	metropolitanBorough	Metropolitan Borough of Doncaster
+Moorends	metropolitanBorough	Metropolitan Borough of Doncaster
+Sykehouse	metropolitanBorough	Metropolitan Borough of Doncaster
+Norton, Doncaster	metropolitanBorough	Metropolitan Borough of Doncaster
+Maltby, South Yorkshire	metropolitanBorough	Metropolitan Borough of Rotherham
+Great Houghton, South Yorkshire	metropolitanBorough	Metropolitan Borough of Barnsley
+Royston, South Yorkshire	metropolitanBorough	Metropolitan Borough of Barnsley
+Staincross	metropolitanBorough	Metropolitan Borough of Barnsley
+Cadishead	metropolitanBorough	City of Salford
+Bramhall	metropolitanBorough	Metropolitan Borough of Stockport
+Kexbrough	metropolitanBorough	Metropolitan Borough of Barnsley
+High Hoyland	metropolitanBorough	Metropolitan Borough of Barnsley
+Thorpe Salvin	metropolitanBorough	Metropolitan Borough of Rotherham
+Harthill, South Yorkshire	metropolitanBorough	Metropolitan Borough of Rotherham
+Wales, South Yorkshire	metropolitanBorough	Metropolitan Borough of Rotherham
+Cheadle Hulme	metropolitanBorough	Metropolitan Borough of Stockport
+Kiveton Park	metropolitanBorough	Metropolitan Borough of Rotherham
+New Frankley	metropolitanBorough	Birmingham
+Sutton Trinity (ward)	metropolitanBorough	Birmingham
+Milnrow	metropolitanBorough	Metropolitan Borough of Rochdale
+Croxteth	metropolitanBorough	Liverpool
+Skelmanthorpe	metropolitanBorough	Kirklees
+Chorlton-on-Medlock	metropolitanBorough	Manchester
+Salford Quays	metropolitanBorough	City of Salford
+Farnworth	metropolitanBorough	Metropolitan Borough of Bolton
+Featherstone	metropolitanBorough	City of Wakefield
+Athersley	metropolitanBorough	Metropolitan Borough of Barnsley
+Wombwell	metropolitanBorough	Metropolitan Borough of Barnsley
+Worsbrough	metropolitanBorough	Metropolitan Borough of Barnsley
+Mapplewell	metropolitanBorough	Metropolitan Borough of Barnsley
+Dodworth	metropolitanBorough	Metropolitan Borough of Barnsley
+Carlton, South Yorkshire	metropolitanBorough	Metropolitan Borough of Barnsley
+Lundwood	metropolitanBorough	Metropolitan Borough of Barnsley
+Cubley, South Yorkshire	metropolitanBorough	Metropolitan Borough of Barnsley
+Barugh Green	metropolitanBorough	Metropolitan Borough of Barnsley
+Cudworth, South Yorkshire	metropolitanBorough	Metropolitan Borough of Barnsley
+Cawthorne	metropolitanBorough	Metropolitan Borough of Barnsley
+Ardsley, South Yorkshire	metropolitanBorough	Metropolitan Borough of Barnsley
+Jump, South Yorkshire	metropolitanBorough	Metropolitan Borough of Barnsley
+Monk Bretton	metropolitanBorough	Metropolitan Borough of Barnsley
+Goldthorpe	metropolitanBorough	Metropolitan Borough of Barnsley
+Gawber	metropolitanBorough	Metropolitan Borough of Barnsley
+Thurnscoe	metropolitanBorough	Metropolitan Borough of Barnsley
+Hoyland	metropolitanBorough	Metropolitan Borough of Barnsley
+Stairfoot	metropolitanBorough	Metropolitan Borough of Barnsley
+Silkstone Common	metropolitanBorough	Metropolitan Borough of Barnsley
+Anfield, Liverpool	metropolitanBorough	City of Liverpool
+Malin Bridge	metropolitanBorough	Sheffield
+Horsforth	metropolitanBorough	City of Leeds
+Bloxwich	metropolitanBorough	Metropolitan Borough of Walsall
+Wylde Green	metropolitanBorough	Birmingham
+Bartley Green	metropolitanBorough	Birmingham
+Billesley, West Midlands	metropolitanBorough	Birmingham
+Bordesley Green	metropolitanBorough	Birmingham
+Boldmere	metropolitanBorough	Birmingham
+Castle Vale	metropolitanBorough	Birmingham
+Compton, Wolverhampton	metropolitanBorough	Wolverhampton
+Wednesfield	metropolitanBorough	Wolverhampton
+Rednal	metropolitanBorough	Birmingham
+Quinton, Birmingham	metropolitanBorough	Birmingham
+Shard End	metropolitanBorough	Birmingham
+Tyburn, West Midlands	metropolitanBorough	Birmingham
+Stockland Green	metropolitanBorough	Birmingham
+Washwood Heath	metropolitanBorough	Birmingham
+West Heath, West Midlands	metropolitanBorough	Birmingham
+Shirley, West Midlands	metropolitanBorough	Metropolitan Borough of Solihull
+Castle Bromwich	metropolitanBorough	Metropolitan Borough of Solihull
+Tettenhall	metropolitanBorough	Wolverhampton
+South Yardley	metropolitanBorough	Birmingham
+Birdwell, South Yorkshire	metropolitanBorough	Metropolitan Borough of Barnsley
+Darlaston	metropolitanBorough	Metropolitan Borough of Walsall
+Whiston, South Yorkshire	metropolitanBorough	Metropolitan Borough of Rotherham
+Kimberworth	metropolitanBorough	Metropolitan Borough of Rotherham
+Worsley	metropolitanBorough	City of Salford
+Aintree	metropolitanBorough	Metropolitan Borough of Sefton
+Ackworth, West Yorkshire	metropolitanBorough	City of Wakefield
+Streetly	metropolitanBorough	Walsall
+Ashmore Park	metropolitanBorough	Wolverhampton
+Harehills	metropolitanBorough	City of Leeds
+Seacroft	metropolitanBorough	City of Leeds
+Chapeltown, Leeds	metropolitanBorough	City of Leeds
+Hunslet	metropolitanBorough	City of Leeds
+Alwoodley	metropolitanBorough	City of Leeds
+Bramley, Leeds	metropolitanBorough	City of Leeds
+Roundhay	metropolitanBorough	City of Leeds
+Gipton	metropolitanBorough	City of Leeds
+Hyde Park, Leeds	metropolitanBorough	City of Leeds
+Halton, Leeds	metropolitanBorough	City of Leeds
+Beeston, Leeds	metropolitanBorough	City of Leeds
+Timperley	metropolitanBorough	Trafford
+Middleton, Leeds	metropolitanBorough	City of Leeds
+Belle Isle, Leeds	metropolitanBorough	City of Leeds
+West Park, Leeds	metropolitanBorough	City of Leeds
+Burmantofts	metropolitanBorough	City of Leeds
+Little London, Leeds	metropolitanBorough	City of Leeds
+Lovell Park	metropolitanBorough	City of Leeds
+Blenheim, Leeds	metropolitanBorough	City of Leeds
+East End Park, Leeds	metropolitanBorough	City of Leeds
+Meanwood	metropolitanBorough	City of Leeds
+Honley	metropolitanBorough	Kirklees
+Bessacarr	metropolitanBorough	Metropolitan Borough of Doncaster
+Marple, Greater Manchester	metropolitanBorough	Metropolitan Borough of Stockport
+Boothstown	metropolitanBorough	Metropolitan Borough of Wigan
+Boothstown	metropolitanBorough	City of Salford
+Kingswinford	metropolitanBorough	Metropolitan Borough of Dudley
+Port Sunlight	metropolitanBorough	Metropolitan Borough of Wirral
+Dingle, Liverpool	metropolitanBorough	Liverpool
+Lydiate	metropolitanBorough	Metropolitan Borough of Sefton
+North Shields	metropolitanBorough	North Tyneside
+Melling, Merseyside	metropolitanBorough	Metropolitan Borough of Sefton
+East Ardsley	metropolitanBorough	City of Leeds
+Bill Quay	metropolitanBorough	Metropolitan Borough of Gateshead
+Adel, Leeds	metropolitanBorough	City of Leeds
+Bramhope	metropolitanBorough	City of Leeds
+Sefton, Merseyside	metropolitanBorough	Metropolitan Borough of Sefton
+Rainford	metropolitanBorough	Metropolitan Borough of St Helens
+Speke	metropolitanBorough	Liverpool
+Childwall	metropolitanBorough	Liverpool
+Tuebrook	metropolitanBorough	City of Liverpool
+Woolton	metropolitanBorough	Liverpool
+Fazakerley	metropolitanBorough	Liverpool
+Wavertree	metropolitanBorough	Liverpool
+Walton, Liverpool	metropolitanBorough	Liverpool
+Hunts Cross	metropolitanBorough	Liverpool
+Knotty Ash	metropolitanBorough	Liverpool
+Liscard	metropolitanBorough	Metropolitan Borough of Wirral
+Clubmoor	metropolitanBorough	Liverpool
+Grassendale	metropolitanBorough	City of Liverpool
+Netherley, Liverpool	metropolitanBorough	Liverpool
+Mossley Hill	metropolitanBorough	Liverpool
+Old Swan	metropolitanBorough	Liverpool
+Pingewood	metropolitanBorough	West Berkshire
+Monkseaton	metropolitanBorough	North Tyneside
+Rossington	metropolitanBorough	Metropolitan Borough of Doncaster
+Hulme	metropolitanBorough	Manchester
+Crosspool	metropolitanBorough	Sheffield
+Thornton, West Yorkshire	metropolitanBorough	City of Bradford
+Farnley, Leeds	metropolitanBorough	City of Leeds
+Hale, Greater Manchester	metropolitanBorough	Trafford
+Westhoughton	metropolitanBorough	Metropolitan Borough of Bolton
+Stretford	metropolitanBorough	Trafford
+Ainsdale	metropolitanBorough	Metropolitan Borough of Sefton
+Haydock	metropolitanBorough	Metropolitan Borough of St Helens
+Bidston	metropolitanBorough	Metropolitan Borough of Wirral
+Whiston, Merseyside	metropolitanBorough	Metropolitan Borough of Knowsley
+Bromborough	metropolitanBorough	Metropolitan Borough of Wirral
+Pensby	metropolitanBorough	Metropolitan Borough of Wirral
+New Ferry	metropolitanBorough	Metropolitan Borough of Wirral
+West Kirby	metropolitanBorough	Metropolitan Borough of Wirral
+Heswall	metropolitanBorough	Metropolitan Borough of Wirral
+Meols	metropolitanBorough	Metropolitan Borough of Wirral
+Oxton, Merseyside	metropolitanBorough	Metropolitan Borough of Wirral
+Seacombe	metropolitanBorough	Metropolitan Borough of Wirral
+Roby, Merseyside	metropolitanBorough	Metropolitan Borough of Knowsley
+Eastham, Merseyside	metropolitanBorough	Metropolitan Borough of Wirral
+Moreton, Merseyside	metropolitanBorough	Metropolitan Borough of Wirral
+Kings Heath	metropolitanBorough	Birmingham
+Mexborough	metropolitanBorough	Metropolitan Borough of Doncaster
+Middleton, Greater Manchester	metropolitanBorough	Metropolitan Borough of Rochdale
+Ryhope	metropolitanBorough	City of Sunderland
+Seaburn	metropolitanBorough	City of Sunderland
+Clifton, West Yorkshire	metropolitanBorough	Calderdale
+Roker	metropolitanBorough	City of Sunderland
+Crossens	metropolitanBorough	Metropolitan Borough of Sefton
+Marshside, Merseyside	metropolitanBorough	Metropolitan Borough of Sefton
+Blowick	metropolitanBorough	Metropolitan Borough of Sefton
+Normanton, West Yorkshire	metropolitanBorough	City of Wakefield
+Blaydon-on-Tyne	metropolitanBorough	Metropolitan Borough of Gateshead
+Churchtown, Merseyside	metropolitanBorough	Metropolitan Borough of Sefton
+St Helens, Merseyside	metropolitanBorough	Metropolitan Borough of St Helens
+Freshfield	metropolitanBorough	Metropolitan Borough of Sefton
+Littleborough, Greater Manchester	metropolitanBorough	Metropolitan Borough of Rochdale
+Greenfield, Greater Manchester	metropolitanBorough	Metropolitan Borough of Oldham
+Silsden	metropolitanBorough	City of Bradford
+Castleton, Greater Manchester	metropolitanBorough	Metropolitan Borough of Rochdale
+Tranmere, Merseyside	metropolitanBorough	Metropolitan Borough of Wirral
+Upton, Merseyside	metropolitanBorough	Metropolitan Borough of Wirral
+Lunt	metropolitanBorough	Metropolitan Borough of Sefton
+Little Altcar	metropolitanBorough	Metropolitan Borough of Sefton
+Worrall	metropolitanBorough	Sheffield
+Hightown, Merseyside	metropolitanBorough	Metropolitan Borough of Sefton
+Ince Blundell	metropolitanBorough	Metropolitan Borough of Sefton
+Netherton, Merseyside	metropolitanBorough	Metropolitan Borough of Sefton
+Thornton, Merseyside	metropolitanBorough	Metropolitan Borough of Sefton
+Clock Face, St Helens	metropolitanBorough	Metropolitan Borough of St Helens
+Thingwall	metropolitanBorough	Metropolitan Borough of Wirral
+Irby, Merseyside	metropolitanBorough	Metropolitan Borough of Wirral
+Chelmsley Wood	metropolitanBorough	Metropolitan Borough of Solihull
+South Elmsall	metropolitanBorough	City of Wakefield
+Heaton Norris	metropolitanBorough	Metropolitan Borough of Stockport
+Miles Platting	metropolitanBorough	Manchester
+Didsbury	metropolitanBorough	Manchester
+Chiserley	metropolitanBorough	Calderdale
+Cragg Vale	metropolitanBorough	Calderdale
+Old Town, West Yorkshire	metropolitanBorough	Calderdale
+Orrell, Greater Manchester	metropolitanBorough	Metropolitan Borough of Wigan
+Totley	metropolitanBorough	Sheffield
+Earsdon	metropolitanBorough	North Tyneside
+Royton	metropolitanBorough	Metropolitan Borough of Oldham
+Harpurhey	metropolitanBorough	Manchester
+Sharrow	metropolitanBorough	Sheffield
+Ringway, Manchester	metropolitanBorough	Manchester
+Tividale	metropolitanBorough	Sandwell
+Amblecote	metropolitanBorough	Dudley
+Coseley	metropolitanBorough	Wolverhampton
+Coseley	metropolitanBorough	Metropolitan Borough of Dudley
+Woodley, Greater Manchester	metropolitanBorough	Metropolitan Borough of Stockport
+Hindley, Greater Manchester	metropolitanBorough	Metropolitan Borough of Wigan
+Heywood, Greater Manchester	metropolitanBorough	Metropolitan Borough of Rochdale
+Horwich	metropolitanBorough	Metropolitan Borough of Bolton
+Ecclesfield	metropolitanBorough	Sheffield
+High Lane	metropolitanBorough	Metropolitan Borough of Stockport
+Garston, Merseyside	metropolitanBorough	Liverpool
+Thornbury, West Yorkshire	metropolitanBorough	City of Bradford
+Wythenshawe	metropolitanBorough	Manchester
+Longsight	metropolitanBorough	Manchester
+Newbottle, Tyne and Wear	metropolitanBorough	City of Sunderland
+Penshaw	metropolitanBorough	City of Sunderland
+Wallasey	metropolitanBorough	Metropolitan Borough of Wirral
+Easington Lane	metropolitanBorough	City of Sunderland
+Stainforth, South Yorkshire	metropolitanBorough	Metropolitan Borough of Doncaster
+Ramsbottom	metropolitanBorough	Metropolitan Borough of Bury
+Burnage	metropolitanBorough	Manchester
+Heaton Chapel	metropolitanBorough	Metropolitan Borough of Stockport
+Hazel Grove	metropolitanBorough	Metropolitan Borough of Stockport
+Brandhall	metropolitanBorough	Sandwell
+New Brighton, Merseyside	metropolitanBorough	Metropolitan Borough of Wirral
+Gorton	metropolitanBorough	Manchester
+Meersbrook	metropolitanBorough	Sheffield
+Levenshulme	metropolitanBorough	Manchester
+Balsall Common	metropolitanBorough	Metropolitan Borough of Solihull
+Felling, Tyne and Wear	metropolitanBorough	Metropolitan Borough of Gateshead
+Upperthong	metropolitanBorough	Kirklees
+Urmston	metropolitanBorough	Trafford
+Oxley, Wolverhampton	metropolitanBorough	Wolverhampton
+Ardwick	metropolitanBorough	Manchester
+Blackley	metropolitanBorough	Manchester
+Moston, Greater Manchester	metropolitanBorough	Manchester
+Whalley Range (Manchester)	metropolitanBorough	Manchester
+Clayton, Greater Manchester	metropolitanBorough	Manchester
+Northenden	metropolitanBorough	Manchester
+Fenham	metropolitanBorough	Newcastle upon Tyne
+Cullingworth	metropolitanBorough	City of Bradford
+Millhouses	metropolitanBorough	Sheffield
+Ashbrooke	metropolitanBorough	City of Sunderland
+Linton, West Yorkshire	metropolitanBorough	City of Leeds
+Garforth	metropolitanBorough	City of Leeds
+Hockley, West Midlands	metropolitanBorough	Birmingham
+Blakenhall	metropolitanBorough	Wolverhampton
+Bushbury	metropolitanBorough	Wolverhampton
+Walmley	metropolitanBorough	Birmingham
+Clayton, West Yorkshire	metropolitanBorough	City of Bradford
+Bradley, West Midlands	metropolitanBorough	Wolverhampton
+Ringinglow	metropolitanBorough	Sheffield
+Adwick le Street	metropolitanBorough	Metropolitan Borough of Doncaster
+Rawdon, West Yorkshire	metropolitanBorough	City of Leeds
+Atherton, Greater Manchester	metropolitanBorough	Metropolitan Borough of Wigan
+Treeton	metropolitanBorough	Metropolitan Borough of Rotherham
+Blakenall Heath	metropolitanBorough	Metropolitan Borough of Walsall
+Romiley	metropolitanBorough	Metropolitan Borough of Stockport
+Heaton, West Yorkshire	metropolitanBorough	City of Bradford
+Rowlands Gill	metropolitanBorough	Metropolitan Borough of Gateshead
+Prestwich	metropolitanBorough	Metropolitan Borough of Bury
+Heeley	metropolitanBorough	Sheffield
+Ranmoor	metropolitanBorough	Sheffield
+Wadsley Bridge	metropolitanBorough	Sheffield
+Wadsley	metropolitanBorough	Sheffield
+Owlerton	metropolitanBorough	Sheffield
+Woodseats	metropolitanBorough	Sheffield
+Tottington, Greater Manchester	metropolitanBorough	Metropolitan Borough of Bury
+Radcliffe, Greater Manchester	metropolitanBorough	Metropolitan Borough of Bury
+Pendlebury	metropolitanBorough	City of Salford
+Eccles, Greater Manchester	metropolitanBorough	City of Salford
+Pitsmoor	metropolitanBorough	Sheffield
+Oughtibridge	metropolitanBorough	Sheffield
+Aberford	metropolitanBorough	City of Leeds
+Marsden, Tyne and Wear	metropolitanBorough	South Tyneside
+Weoley Castle	metropolitanBorough	Birmingham
+Barwick-in-Elmet	metropolitanBorough	City of Leeds
+Heald Green	metropolitanBorough	Metropolitan Borough of Stockport
+Cross Gates	metropolitanBorough	City of Leeds
+Cheadle, Greater Manchester	metropolitanBorough	Metropolitan Borough of Stockport
+Garswood	metropolitanBorough	Metropolitan Borough of St Helens
+Bryn	metropolitanBorough	Metropolitan Borough of Wigan
+Swinton, Greater Manchester	metropolitanBorough	City of Salford
+Standish, Greater Manchester	metropolitanBorough	Metropolitan Borough of Wigan
+Peel Green	metropolitanBorough	City of Salford
+Aspull	metropolitanBorough	Metropolitan Borough of Wigan
+Marston Green	metropolitanBorough	Metropolitan Borough of Solihull
+Holme Moss	metropolitanBorough	Kirklees
+Handsworth Wood	metropolitanBorough	Birmingham
+Lozells and East Handsworth (ward)	metropolitanBorough	Birmingham
+Oscott (ward)	metropolitanBorough	Birmingham
+Sutton Vesey (ward)	metropolitanBorough	Birmingham
+Haigh, Greater Manchester	metropolitanBorough	Metropolitan Borough of Wigan
+The Boldons	metropolitanBorough	South Tyneside
+Templeborough	metropolitanBorough	Metropolitan Borough of Rotherham
+Toller	metropolitanBorough	City of Bradford
+Jewellery Quarter	metropolitanBorough	Birmingham
+Longbridge	metropolitanBorough	Birmingham
+Sutton New Hall (ward)	metropolitanBorough	Birmingham
+Sutton Four Oaks (ward)	metropolitanBorough	Birmingham
+Sheldon, West Midlands	metropolitanBorough	Birmingham
+Stechford and Yardley North (ward)	metropolitanBorough	Birmingham
+Warburton, Greater Manchester	metropolitanBorough	Trafford
+Heaton Mersey	metropolitanBorough	Metropolitan Borough of Stockport
+Hale Barns	metropolitanBorough	Trafford
+Lockwood, West Yorkshire	metropolitanBorough	Kirklees
+Delph	metropolitanBorough	Metropolitan Borough of Oldham
+Wideopen	metropolitanBorough	North Tyneside
+Wath-upon-Dearne	metropolitanBorough	Metropolitan Borough of Rotherham
+Higham, South Yorkshire	metropolitanBorough	Metropolitan Borough of Barnsley
+Liversedge	metropolitanBorough	Kirklees
+Heaton Moor	metropolitanBorough	Metropolitan Borough of Stockport
+Mellor, Greater Manchester	metropolitanBorough	Metropolitan Borough of Stockport
+Skellow	metropolitanBorough	Metropolitan Borough of Doncaster
+Offerton, Greater Manchester	metropolitanBorough	Metropolitan Borough of Stockport
+Ryton, Tyne and Wear	metropolitanBorough	Metropolitan Borough of Gateshead
+Ancoats	metropolitanBorough	Manchester
+Crawcrook	metropolitanBorough	Metropolitan Borough of Gateshead
+Whitmore Reans	metropolitanBorough	Wolverhampton
+Little Lever	metropolitanBorough	Metropolitan Borough of Bolton
+Thorpe Hesley	metropolitanBorough	Metropolitan Borough of Rotherham
+Strines	metropolitanBorough	Metropolitan Borough of Stockport
+Deighton, West Yorkshire	metropolitanBorough	Kirklees
+Bradley, West Yorkshire	metropolitanBorough	Kirklees
+Shevington	metropolitanBorough	Metropolitan Borough of Wigan
+Hollinwood, Greater Manchester	metropolitanBorough	Metropolitan Borough of Oldham
+Longwood, West Yorkshire	metropolitanBorough	Kirklees
+Wickersley	metropolitanBorough	Metropolitan Borough of Rotherham
+Queensbury, West Yorkshire	metropolitanBorough	City of Bradford
+Haughton Green	metropolitanBorough	Tameside
+Denby Dale	metropolitanBorough	Kirklees
+Brinnington	metropolitanBorough	Metropolitan Borough of Stockport
+Nechells	metropolitanBorough	Birmingham
+Barston	metropolitanBorough	Metropolitan Borough of Solihull
+Bournbrook	metropolitanBorough	Birmingham
+Bingley Rural	metropolitanBorough	City of Bradford
+Cheetham Hill	metropolitanBorough	Manchester
+Seaforth, Merseyside	metropolitanBorough	Metropolitan Borough of Sefton
+Ford, Merseyside	metropolitanBorough	Metropolitan Borough of Sefton
+Fulwell, Sunderland	metropolitanBorough	City of Sunderland
+Collyhurst	metropolitanBorough	Manchester
+Uppermill	metropolitanBorough	Metropolitan Borough of Oldham
+Old Trafford, Greater Manchester	metropolitanBorough	Trafford
+Silksworth	metropolitanBorough	City of Sunderland
+Catcliffe	metropolitanBorough	Metropolitan Borough of Rotherham
+Pennywell	metropolitanBorough	City of Sunderland
+Dorridge	metropolitanBorough	Metropolitan Borough of Solihull
+Ford Estate	metropolitanBorough	City of Sunderland
+Platt Bridge	metropolitanBorough	Metropolitan Borough of Wigan
+Bredbury	metropolitanBorough	Metropolitan Borough of Stockport
+Pallion	metropolitanBorough	City of Sunderland
+Barnsdale	metropolitanBorough	Metropolitan Borough of Doncaster
+Swinton, South Yorkshire	metropolitanBorough	Metropolitan Borough of Rotherham
+Woodford, Greater Manchester	metropolitanBorough	Metropolitan Borough of Stockport
+Northern Quarter (Manchester)	metropolitanBorough	Manchester
+Worth Valley	metropolitanBorough	City of Bradford
+Chapeltown, South Yorkshire	metropolitanBorough	Sheffield
+Crossflatts	metropolitanBorough	City of Bradford
+Wharfedale (ward)	metropolitanBorough	City of Bradford
+Bolton and Undercliffe	metropolitanBorough	City of Bradford
+Carrbrook	metropolitanBorough	Tameside
+Wrenthorpe	metropolitanBorough	City of Wakefield
+Bowling and Barkerend	metropolitanBorough	City of Bradford
+Burghwallis	metropolitanBorough	Metropolitan Borough of Doncaster
+Hemingfield	metropolitanBorough	Metropolitan Borough of Barnsley
+Holcombe, Greater Manchester	metropolitanBorough	Metropolitan Borough of Bury
+Bingley (ward)	metropolitanBorough	City of Bradford
+Armthorpe	metropolitanBorough	Metropolitan Borough of Doncaster
+Abram, Greater Manchester	metropolitanBorough	Metropolitan Borough of Wigan
+Park Village	metropolitanBorough	Wolverhampton
+Merridale	metropolitanBorough	Wolverhampton
+Pendeford	metropolitanBorough	Wolverhampton
+Low Hill	metropolitanBorough	Wolverhampton
+Broom, South Yorkshire	metropolitanBorough	Metropolitan Borough of Rotherham
+Addingham	metropolitanBorough	City of Bradford
+Adwalton	metropolitanBorough	City of Leeds
+Adwick upon Dearne	metropolitanBorough	Metropolitan Borough of Doncaster
+Affetside	metropolitanBorough	Metropolitan Borough of Bury
+Menston	metropolitanBorough	City of Bradford
+Fitzwilliam, West Yorkshire	metropolitanBorough	City of Wakefield
+Turf Lea	metropolitanBorough	Metropolitan Borough of Stockport
+South Hylton	metropolitanBorough	City of Sunderland
+Hawk Green	metropolitanBorough	Metropolitan Borough of Stockport
+Cheylesmore	metropolitanBorough	Coventry
+Backworth	metropolitanBorough	North Tyneside
+Astley, Greater Manchester	metropolitanBorough	Metropolitan Borough of Wigan
+Luddenden	metropolitanBorough	Calderdale
+Clifton, Greater Manchester	metropolitanBorough	City of Salford
+Warley Town	metropolitanBorough	Calderdale
+Wardle, Greater Manchester	metropolitanBorough	Metropolitan Borough of Rochdale
+Birtley, Tyne and Wear	metropolitanBorough	Metropolitan Borough of Gateshead
+Great Bridge, West Midlands	metropolitanBorough	Sandwell
+Lindley, West Yorkshire	metropolitanBorough	Kirklees
+Olton	metropolitanBorough	Metropolitan Borough of Solihull
+Lees, Greater Manchester	metropolitanBorough	Metropolitan Borough of Oldham
+Hendon, Sunderland	metropolitanBorough	City of Sunderland
+Sprotbrough and Cusworth	metropolitanBorough	Metropolitan Borough of Doncaster
+Wyke	metropolitanBorough	City of Bradford
+Cornholme	metropolitanBorough	Calderdale
+Birstall, West Yorkshire	metropolitanBorough	Kirklees
+Wollaston, West Midlands	metropolitanBorough	Metropolitan Borough of Dudley
+Whickham	metropolitanBorough	Metropolitan Borough of Gateshead
+Grangetown, Sunderland	metropolitanBorough	City of Sunderland
+Marple Bridge	metropolitanBorough	Metropolitan Borough of Stockport
+Castletown, Sunderland	metropolitanBorough	City of Sunderland
+Ince-in-Makerfield	metropolitanBorough	Metropolitan Borough of Wigan
+Newburn	metropolitanBorough	Newcastle upon Tyne
+Wortley, South Yorkshire	metropolitanBorough	Metropolitan Borough of Barnsley
+Eccleston, St Helens	metropolitanBorough	Metropolitan Borough of St Helens
+Lamesley	metropolitanBorough	Metropolitan Borough of Gateshead
+Longbenton	metropolitanBorough	North Tyneside
+Bramham cum Oglethorpe	metropolitanBorough	City of Leeds
+Wordsley	metropolitanBorough	Metropolitan Borough of Dudley
+Birdsedge	metropolitanBorough	Kirklees
+Kippax, West Yorkshire	metropolitanBorough	City of Leeds
+Odsal	metropolitanBorough	City of Bradford
+Caldy	metropolitanBorough	Metropolitan Borough of Wirral
+Greasby	metropolitanBorough	Metropolitan Borough of Wirral
+Chat Moss	metropolitanBorough	City of Salford
+Allerton Bywater	metropolitanBorough	City of Leeds
+Dinnington, Tyne and Wear	metropolitanBorough	North Tyneside
+Dinnington, Tyne and Wear	metropolitanBorough	Newcastle upon Tyne
+Hazlerigg	metropolitanBorough	North Tyneside
+Hazlerigg	metropolitanBorough	Newcastle City Council
+North Gosforth	metropolitanBorough	Newcastle upon Tyne
+Woolsington	metropolitanBorough	Newcastle upon Tyne
+Blakelaw and North Fenham	metropolitanBorough	Newcastle upon Tyne
+Burdon	metropolitanBorough	City of Sunderland
+Warden Law	metropolitanBorough	City of Sunderland
+Doxford Park	metropolitanBorough	City of Sunderland
+Colton, Leeds	metropolitanBorough	City of Leeds
+Prenton	metropolitanBorough	Metropolitan Borough of Wirral
+Blackrod	metropolitanBorough	Metropolitan Borough of Bolton
+Allesley	metropolitanBorough	Coventry
+Partington	metropolitanBorough	Trafford
+Fordbridge	metropolitanBorough	Metropolitan Borough of Solihull
+Bickenhill	metropolitanBorough	Metropolitan Borough of Solihull
+Kingshurst	metropolitanBorough	Metropolitan Borough of Solihull
+Smith's Wood	metropolitanBorough	Metropolitan Borough of Solihull
+Berkswell	metropolitanBorough	Metropolitan Borough of Solihull
+Hockley Heath	metropolitanBorough	Metropolitan Borough of Solihull
+Carrington, Greater Manchester	metropolitanBorough	Trafford
+Dunham Massey	metropolitanBorough	Trafford
+Worthington, Greater Manchester	metropolitanBorough	Metropolitan Borough of Wigan
+Shaw and Crompton	metropolitanBorough	Metropolitan Borough of Oldham
+Denholme	metropolitanBorough	City of Bradford
+Prestolee	metropolitanBorough	Metropolitan Borough of Bolton
+Darcy Lever	metropolitanBorough	Metropolitan Borough of Bolton
+Burley in Wharfedale	metropolitanBorough	City of Bradford
+Brampton Bierlow	metropolitanBorough	Metropolitan Borough of Rotherham
+Golborne	metropolitanBorough	Metropolitan Borough of Wigan
+Monkwearmouth	metropolitanBorough	City of Sunderland
+Davyhulme	metropolitanBorough	Trafford
+Billinge, Merseyside	metropolitanBorough	Metropolitan Borough of St Helens
+Tyldesley	metropolitanBorough	Metropolitan Borough of Wigan
+Carr Houses	metropolitanBorough	Metropolitan Borough of Sefton
+Auckley	metropolitanBorough	Metropolitan Borough of Doncaster
+Badsworth	metropolitanBorough	City of Wakefield
+Barnburgh	metropolitanBorough	Metropolitan Borough of Doncaster
+Barnby Dun with Kirk Sandall	metropolitanBorough	Metropolitan Borough of Doncaster
+Kearsley	metropolitanBorough	Metropolitan Borough of Bolton
+Gosforth	metropolitanBorough	Newcastle upon Tyne
+Billingley	metropolitanBorough	Metropolitan Borough of Barnsley
+Bowdon, Greater Manchester	metropolitanBorough	Trafford
+Stanley, West Yorkshire	metropolitanBorough	City of Wakefield
+Silkstone	metropolitanBorough	Metropolitan Borough of Barnsley
+Bold, St Helens	metropolitanBorough	Metropolitan Borough of St Helens
+Thurgoland	metropolitanBorough	Metropolitan Borough of Barnsley
+Braithwell	metropolitanBorough	Metropolitan Borough of Doncaster
+Brodsworth	metropolitanBorough	Metropolitan Borough of Doncaster
+Cadeby, South Yorkshire	metropolitanBorough	Metropolitan Borough of Doncaster
+Carlton, Rothwell	metropolitanBorough	City of Leeds
+Hood Green	metropolitanBorough	Metropolitan Borough of Barnsley
+Barton-upon-Irwell	metropolitanBorough	City of Salford
+Catherine-de-Barnes	metropolitanBorough	Metropolitan Borough of Solihull
+Chadwick End	metropolitanBorough	Metropolitan Borough of Solihull
+Greenmount, Greater Manchester	metropolitanBorough	Metropolitan Borough of Bury
+Steeton with Eastburn	metropolitanBorough	City of Bradford
+Wadworth	metropolitanBorough	Metropolitan Borough of Doncaster
+Canning, Liverpool	metropolitanBorough	Liverpool
+Blundellsands	metropolitanBorough	Metropolitan Borough of Sefton
+Kirkdale, Merseyside	metropolitanBorough	Liverpool
+Altofts	metropolitanBorough	City of Wakefield
+Belle Vale, Liverpool	metropolitanBorough	Liverpool
+Spital, Merseyside	metropolitanBorough	Metropolitan Borough of Wirral
+Stoneycroft	metropolitanBorough	Liverpool
+Farringdon, Sunderland	metropolitanBorough	City of Sunderland
+Grindon, Sunderland	metropolitanBorough	City of Sunderland
+Hastings Hill	metropolitanBorough	City of Sunderland
+Herrington	metropolitanBorough	City of Sunderland
+Shiney Row	metropolitanBorough	City of Sunderland
+Egremont, Merseyside	metropolitanBorough	Metropolitan Borough of Wirral
+Norden, Greater Manchester	metropolitanBorough	Metropolitan Borough of Rochdale
+Hyde Park, South Yorkshire	metropolitanBorough	Sheffield
+Flixton, Greater Manchester	metropolitanBorough	Trafford
+Broughton, Greater Manchester	metropolitanBorough	City of Salford
+Woodside, Merseyside	metropolitanBorough	Metropolitan Borough of Wirral
+Ashton upon Mersey	metropolitanBorough	Trafford
+Thornham, Greater Manchester	metropolitanBorough	Metropolitan Borough of Rochdale
+Thornham, Greater Manchester	metropolitanBorough	Metropolitan Borough of Oldham
+Drighlington	metropolitanBorough	City of Leeds
+Knowsley, Merseyside	metropolitanBorough	Metropolitan Borough of Knowsley
+Diggle, Greater Manchester	metropolitanBorough	Metropolitan Borough of Oldham
+Barnston, Merseyside	metropolitanBorough	Metropolitan Borough of Wirral
+Annitsford	metropolitanBorough	North Tyneside
+Thornton Hough	metropolitanBorough	Metropolitan Borough of Wirral
+Belle Vue, Greater Manchester	metropolitanBorough	Manchester
+Clayton West	metropolitanBorough	Kirklees
+Scissett	metropolitanBorough	Kirklees
+Sowerby, West Yorkshire	metropolitanBorough	Calderdale
+Skircoat Green	metropolitanBorough	Calderdale
+Hebburn	metropolitanBorough	South Tyneside
+Ferrybridge	metropolitanBorough	City of Wakefield
+Shiremoor	metropolitanBorough	North Tyneside
+Crosland Moor	metropolitanBorough	Kirklees
+Greenside	metropolitanBorough	Metropolitan Borough of Gateshead
+Poulton, Merseyside	metropolitanBorough	Metropolitan Borough of Wirral
+Wallasey Village	metropolitanBorough	Metropolitan Borough of Wirral
+Havercroft	metropolitanBorough	City of Wakefield
+Farsley	metropolitanBorough	City of Leeds
+Kensington, Liverpool	metropolitanBorough	Liverpool
+Bailiff Bridge	metropolitanBorough	Calderdale
+Saltley	metropolitanBorough	Birmingham
+Thurstaston	metropolitanBorough	Metropolitan Borough of Wirral
+Springfield, Birmingham	metropolitanBorough	Birmingham
+Brandwood (ward)	metropolitanBorough	Birmingham
+High Crompton	metropolitanBorough	Metropolitan Borough of Oldham
+Swillington	metropolitanBorough	City of Leeds
+Gildersome	metropolitanBorough	City of Leeds
+Calverley	metropolitanBorough	City of Leeds
+Thorner	metropolitanBorough	City of Leeds
+Kirkheaton	metropolitanBorough	Kirklees
+Greasbrough	metropolitanBorough	Metropolitan Borough of Rotherham
+Outlane	metropolitanBorough	Kirklees
+Shepley	metropolitanBorough	Kirklees
+Walshaw	metropolitanBorough	Metropolitan Borough of Bury
+Upper Cumberworth	metropolitanBorough	Kirklees
+Flockton	metropolitanBorough	Kirklees
+Emley, West Yorkshire	metropolitanBorough	Kirklees
+Moor Grange	metropolitanBorough	City of Leeds
+Milnsbridge	metropolitanBorough	Kirklees
+Lightcliffe	metropolitanBorough	Calderdale
+Scapegoat Hill	metropolitanBorough	Kirklees
+Northowram	metropolitanBorough	Calderdale
+Southowram	metropolitanBorough	Calderdale
+Luddendenfoot	metropolitanBorough	Calderdale
+Stoneclough	metropolitanBorough	Metropolitan Borough of Bolton
+Newsome	metropolitanBorough	Kirklees
+Cowlersley	metropolitanBorough	Kirklees
+Fartown, Huddersfield	metropolitanBorough	Kirklees
+West Moor	metropolitanBorough	North Tyneside
+Harwood, Greater Manchester	metropolitanBorough	Metropolitan Borough of Bolton
+Newhey	metropolitanBorough	Metropolitan Borough of Rochdale
+Brockholes	metropolitanBorough	Kirklees
+Outwood, West Yorkshire	metropolitanBorough	City of Wakefield
+Seedley	metropolitanBorough	City of Salford
+Westwood, Greater Manchester	metropolitanBorough	Metropolitan Borough of Oldham
+Baguley	metropolitanBorough	Manchester
+Kilnhurst	metropolitanBorough	Metropolitan Borough of Rotherham
+Hipperholme	metropolitanBorough	Calderdale
+High Green	metropolitanBorough	Sheffield
+Thatto Heath	metropolitanBorough	Metropolitan Borough of St Helens
+Grenoside	metropolitanBorough	Sheffield
+Killingworth Village	metropolitanBorough	North Tyneside
+Lofthouse, West Yorkshire	metropolitanBorough	City of Leeds
+Preston, Tyne and Wear	metropolitanBorough	North Tyneside
+Pelaw	metropolitanBorough	Metropolitan Borough of Gateshead
+Whelley	metropolitanBorough	Metropolitan Borough of Wigan
+Thurlstone	metropolitanBorough	Metropolitan Borough of Barnsley
+Cleadon	metropolitanBorough	South Tyneside
+Thurstonland	metropolitanBorough	Kirklees
+Shadwell, West Yorkshire	metropolitanBorough	City of Leeds
+Jackson Bridge	metropolitanBorough	Kirklees
+Hepworth, West Yorkshire	metropolitanBorough	Kirklees
+Sheriff Hill	metropolitanBorough	Metropolitan Borough of Gateshead
+Wrekenton	metropolitanBorough	Metropolitan Borough of Gateshead
+Lostock, Bolton	metropolitanBorough	Metropolitan Borough of Bolton
+Halliwell, Greater Manchester	metropolitanBorough	Metropolitan Borough of Bolton
+Kibblesworth	metropolitanBorough	Metropolitan Borough of Gateshead
+Farnley Tyas	metropolitanBorough	Kirklees
+Hall Bower	metropolitanBorough	Kirklees
+Sheffield City Centre	metropolitanBorough	Sheffield
+Dalton, West Yorkshire	metropolitanBorough	Kirklees
+Berry Brow	metropolitanBorough	Kirklees
+Alkrington	metropolitanBorough	Metropolitan Borough of Rochdale
+Rock Ferry	metropolitanBorough	Metropolitan Borough of Wirral
+Leeds city centre	metropolitanBorough	City of Leeds
+Great Lever	metropolitanBorough	Metropolitan Borough of Bolton
+Burnden	metropolitanBorough	Metropolitan Borough of Bolton
+Oakwood, Leeds	metropolitanBorough	City of Leeds
+Richmond Hill, Leeds	metropolitanBorough	City of Leeds
+Holbeck	metropolitanBorough	City of Leeds
+Lemington	metropolitanBorough	Newcastle upon Tyne
+Woodchurch	metropolitanBorough	Metropolitan Borough of Wirral
+Saughall Massie	metropolitanBorough	Metropolitan Borough of Wirral
+Noctorum	metropolitanBorough	Metropolitan Borough of Wirral
+Frankby	metropolitanBorough	Metropolitan Borough of Wirral
+Newton, Merseyside	metropolitanBorough	Metropolitan Borough of Wirral
+Solihull	metropolitanBorough	Metropolitan Borough of Solihull
+Cottingley, Bradford	metropolitanBorough	City of Bradford
+Meols Cop	metropolitanBorough	Metropolitan Borough of Sefton
+Monton	metropolitanBorough	City of Salford
+Winstanley, Greater Manchester	metropolitanBorough	Metropolitan Borough of Wigan
+Unsworth	metropolitanBorough	Metropolitan Borough of Bury
+Brandlesholme	metropolitanBorough	Metropolitan Borough of Bury
+Park Bridge	metropolitanBorough	Tameside
+Osmington Mills	metropolitanBorough	Dorset
+Edlington	metropolitanBorough	Metropolitan Borough of Doncaster
+Lawnswood	metropolitanBorough	City of Leeds
+Gee Cross	metropolitanBorough	Tameside
+Godley, Greater Manchester	metropolitanBorough	Tameside
+Middlewood, South Yorkshire	metropolitanBorough	Sheffield
+Todwick	metropolitanBorough	Metropolitan Borough of Rotherham
+Far Headingley	metropolitanBorough	City of Leeds
+Upton, West Yorkshire	metropolitanBorough	City of Wakefield
+Dunham Town	metropolitanBorough	Trafford
+Collingham, West Yorkshire	metropolitanBorough	City of Leeds
+Halton Moor	metropolitanBorough	City of Leeds
+Walkden	metropolitanBorough	City of Salford
+Southwick, Sunderland	metropolitanBorough	City of Sunderland
+Crigglestone	metropolitanBorough	City of Wakefield
+Fairfield, Liverpool	metropolitanBorough	Liverpool
+Bardsey, West Yorkshire	metropolitanBorough	City of Leeds
+Ogden, West Yorkshire	metropolitanBorough	Calderdale
+Burley, Leeds	metropolitanBorough	City of Leeds
+Bolton upon Dearne	metropolitanBorough	Metropolitan Borough of Barnsley
+Openshaw	metropolitanBorough	Manchester
+Pemberton, Greater Manchester	metropolitanBorough	Metropolitan Borough of Wigan
+Winton, Greater Manchester	metropolitanBorough	City of Salford
+Breightmet	metropolitanBorough	Metropolitan Borough of Bolton
+Pool-in-Wharfedale	metropolitanBorough	City of Leeds
+Radford, Coventry	metropolitanBorough	Coventry
+Heights, Greater Manchester	metropolitanBorough	Metropolitan Borough of Oldham
+Dovecot, Merseyside	metropolitanBorough	Liverpool
+Ryhill	metropolitanBorough	City of Wakefield
+Brimstage	metropolitanBorough	Metropolitan Borough of Wirral
+Landican	metropolitanBorough	Metropolitan Borough of Wirral
+Raby, Merseyside	metropolitanBorough	Metropolitan Borough of Wirral
+Storeton	metropolitanBorough	Metropolitan Borough of Wirral
+Coldhurst	metropolitanBorough	Metropolitan Borough of Oldham
+Ovenden	metropolitanBorough	Calderdale
+Fixby	metropolitanBorough	Kirklees
+Birkenshaw, West Yorkshire	metropolitanBorough	Kirklees
+Castleshaw	metropolitanBorough	Metropolitan Borough of Oldham
+Deane, Greater Manchester	metropolitanBorough	Metropolitan Borough of Bolton
+East Rainton	metropolitanBorough	City of Sunderland
+Laughton-en-le-Morthen	metropolitanBorough	Metropolitan Borough of Rotherham
+Hathershaw	metropolitanBorough	Metropolitan Borough of Oldham
+Gatley	metropolitanBorough	Metropolitan Borough of Stockport
+Werneth, Greater Manchester	metropolitanBorough	Metropolitan Borough of Oldham
+Stockbridge Village	metropolitanBorough	Metropolitan Borough of Knowsley
+Sutton, St Helens	metropolitanBorough	Metropolitan Borough of St Helens
+Kersal	metropolitanBorough	City of Salford
+Beckett Park	metropolitanBorough	City of Leeds
+Denaby Main	metropolitanBorough	Metropolitan Borough of Doncaster
+Patricroft	metropolitanBorough	City of Salford
+Forest Hall	metropolitanBorough	North Tyneside
+Abbey Hey	metropolitanBorough	Manchester
+Heyrod	metropolitanBorough	Tameside
+Gilley Law	metropolitanBorough	City of Sunderland
+Thorney Close	metropolitanBorough	City of Sunderland
+Parr, St Helens	metropolitanBorough	Metropolitan Borough of St Helens
+West End, Sheffield	metropolitanBorough	Sheffield
+Clifford, West Yorkshire	metropolitanBorough	City of Leeds
+Blackbrook, St Helens	metropolitanBorough	Metropolitan Borough of St Helens
+Armitage Bridge	metropolitanBorough	Kirklees
+Kirkhamgate	metropolitanBorough	City of Wakefield
+Heaton, Greater Manchester	metropolitanBorough	Metropolitan Borough of Bolton
+Walsden	metropolitanBorough	Calderdale
+Bradshaw, Greater Manchester	metropolitanBorough	Metropolitan Borough of Bolton
+Firswood	metropolitanBorough	Trafford
+Lowton	metropolitanBorough	Metropolitan Borough of Wigan
+Wigan	metropolitanBorough	Metropolitan Borough of Wigan
+East Keswick	metropolitanBorough	City of Leeds
+Thongsbridge	metropolitanBorough	Kirklees
+South Turton	metropolitanBorough	Metropolitan Borough of Bolton
+Springhead, Greater Manchester	metropolitanBorough	Metropolitan Borough of Oldham
+Canklow	metropolitanBorough	Metropolitan Borough of Rotherham
+Higher End	metropolitanBorough	Metropolitan Borough of Wigan
+Smallbridge, Greater Manchester	metropolitanBorough	Metropolitan Borough of Rochdale
+Orrell, Merseyside	metropolitanBorough	Metropolitan Borough of Sefton
+Brooklands, Manchester	metropolitanBorough	Manchester
+Tunstall, Sunderland	metropolitanBorough	City of Sunderland
+Middlebrook, Greater Manchester	metropolitanBorough	Metropolitan Borough of Bolton
+Buckley, Greater Manchester	metropolitanBorough	Metropolitan Borough of Rochdale
+Wingates	metropolitanBorough	Metropolitan Borough of Bolton
+Bardsley, Greater Manchester	metropolitanBorough	Metropolitan Borough of Oldham
+Scholes, South Yorkshire	metropolitanBorough	Metropolitan Borough of Rotherham
+Trafford Park	metropolitanBorough	Trafford
+Eagley	metropolitanBorough	Metropolitan Borough of Bolton
+Bishopwearmouth	metropolitanBorough	City of Sunderland
+Little Hulton	metropolitanBorough	City of Salford
+Ellenbrook, Greater Manchester	metropolitanBorough	City of Salford
+Beswick, Greater Manchester	metropolitanBorough	Manchester
+Woodcross	metropolitanBorough	Wolverhampton
+Mosley Common	metropolitanBorough	Metropolitan Borough of Wigan
+Langsett	metropolitanBorough	Metropolitan Borough of Barnsley
+Weaste	metropolitanBorough	City of Salford
+Ordsall, Greater Manchester	metropolitanBorough	City of Salford
+Ainsworth, Greater Manchester	metropolitanBorough	Metropolitan Borough of Bury
+Wallsuches	metropolitanBorough	Metropolitan Borough of Bolton
+Gateacre	metropolitanBorough	Liverpool
+North Kenton	metropolitanBorough	Newcastle upon Tyne
+North Hylton	metropolitanBorough	City of Sunderland
+Kingstanding	metropolitanBorough	Birmingham
+Walbottle	metropolitanBorough	Newcastle upon Tyne
+Austerlands	metropolitanBorough	Metropolitan Borough of Oldham
+Clara Vale	metropolitanBorough	Metropolitan Borough of Gateshead
+Fatfield	metropolitanBorough	City of Sunderland
+Swarcliffe	metropolitanBorough	City of Leeds
+Woodall, South Yorkshire	metropolitanBorough	Metropolitan Borough of Rotherham
+Brierdene	metropolitanBorough	North Tyneside
+Cowcliffe	metropolitanBorough	Kirklees
+Poolstock	metropolitanBorough	Metropolitan Borough of Wigan
+Claughton, Merseyside	metropolitanBorough	Metropolitan Borough of Wirral
+Crookes	metropolitanBorough	Sheffield
+Gayton, Merseyside	metropolitanBorough	Metropolitan Borough of Wirral
+Brinsworth	metropolitanBorough	Metropolitan Borough of Rotherham
+Bromley Cross	metropolitanBorough	Metropolitan Borough of Bolton
+Brackenhall	metropolitanBorough	Kirklees
+Scouthead	metropolitanBorough	Metropolitan Borough of Oldham
+Scholes, Greater Manchester	metropolitanBorough	Metropolitan Borough of Wigan
+Shelf, West Yorkshire	metropolitanBorough	Calderdale
+Longshaw	metropolitanBorough	Metropolitan Borough of Wigan
+Thrybergh	metropolitanBorough	Metropolitan Borough of Rotherham
+Ulley	metropolitanBorough	Metropolitan Borough of Rotherham
+Langley, Greater Manchester	metropolitanBorough	Metropolitan Borough of Rochdale
+Summerseat	metropolitanBorough	Metropolitan Borough of Bury
+Woodvale, Merseyside	metropolitanBorough	Metropolitan Borough of Sefton
+Coppice, Greater Manchester	metropolitanBorough	Metropolitan Borough of Oldham
+Moor Park, Crosby	metropolitanBorough	Metropolitan Borough of Sefton
+Gigg, Greater Manchester	metropolitanBorough	Metropolitan Borough of Bury
+Ravenfield	metropolitanBorough	Metropolitan Borough of Rotherham
+Sandal Magna	metropolitanBorough	City of Wakefield
+Carcroft	metropolitanBorough	Metropolitan Borough of Doncaster
+Aston, South Yorkshire	metropolitanBorough	Rotherham
+Robin Hood, West Yorkshire	metropolitanBorough	City of Leeds
+Waterhead, Greater Manchester	metropolitanBorough	Metropolitan Borough of Oldham
+Stone Cross, West Midlands	metropolitanBorough	Sandwell
+Newton, Greater Manchester	metropolitanBorough	Tameside
+Eastwood, West Yorkshire	metropolitanBorough	Calderdale
+Batley Carr	metropolitanBorough	Kirklees
+Apperley Bridge	metropolitanBorough	City of Bradford
+Crofton, West Yorkshire	metropolitanBorough	City of Wakefield
+Thurcroft	metropolitanBorough	Metropolitan Borough of Rotherham
+Harlington, South Yorkshire	metropolitanBorough	Metropolitan Borough of Doncaster
+Besses o' th' Barn	metropolitanBorough	Metropolitan Borough of Bury
+Abdy	metropolitanBorough	Metropolitan Borough of Rotherham
+Agbrigg	metropolitanBorough	City of Wakefield
+Aldwarke	metropolitanBorough	Metropolitan Borough of Rotherham
+Allerton, West Yorkshire	metropolitanBorough	City of Bradford
+Almholme	metropolitanBorough	Metropolitan Borough of Doncaster
+Alverthorpe	metropolitanBorough	City of Wakefield
+Arksey	metropolitanBorough	Metropolitan Borough of Doncaster
+Battyeford	metropolitanBorough	Kirklees
+Boothroyd, West Yorkshire	metropolitanBorough	Kirklees
+Boothtown	metropolitanBorough	Calderdale
+Old Boston	metropolitanBorough	St Helens, Merseyside
+Bagley, West Yorkshire	metropolitanBorough	City of Leeds
+Tarbock	metropolitanBorough	Metropolitan Borough of Knowsley
+Calder, West Yorkshire	metropolitanBorough	City of Wakefield
+Calderbrook	metropolitanBorough	Metropolitan Borough of Rochdale
+Linnyshaw	metropolitanBorough	City of Salford
+Brandy Carr	metropolitanBorough	City of Wakefield
+Walsall Wood	metropolitanBorough	Metropolitan Borough of Walsall
+Bramstan	metropolitanBorough	City of Leeds
+Brecks	metropolitanBorough	Metropolitan Borough of Rotherham
+Brooklands, Trafford	metropolitanBorough	Trafford
+Grotton	metropolitanBorough	Metropolitan Borough of Oldham
+Windle, St Helens	metropolitanBorough	Metropolitan Borough of St Helens
+Norland, West Yorkshire	metropolitanBorough	Calderdale
+Wheatley Hills	metropolitanBorough	Metropolitan Borough of Doncaster
+Buttershaw	metropolitanBorough	City of Bradford
+Sandy Lane, West Yorkshire	metropolitanBorough	City of Bradford
+Springwell Village	metropolitanBorough	City of Sunderland
+Hillsborough, Sheffield	metropolitanBorough	Sheffield
+Swalwell	metropolitanBorough	Newcastle upon Tyne
+Worsley Mesnes	metropolitanBorough	Metropolitan Borough of Wigan
+Hawkley Hall	metropolitanBorough	Metropolitan Borough of Wigan
+Brown Moor	metropolitanBorough	City of Leeds
+Aughton, South Yorkshire	metropolitanBorough	Metropolitan Borough of Rotherham
+Derker	metropolitanBorough	Metropolitan Borough of Oldham
+Greenacres, Greater Manchester	metropolitanBorough	Metropolitan Borough of Oldham
+Sholver	metropolitanBorough	Metropolitan Borough of Oldham
+Philadelphia, Tyne and Wear	metropolitanBorough	City of Sunderland
+Chinatown, Manchester	metropolitanBorough	Manchester
+Moses Gate	metropolitanBorough	Metropolitan Borough of Bolton
+Hexthorpe	metropolitanBorough	Metropolitan Borough of Doncaster
+Tunshill	metropolitanBorough	Metropolitan Borough of Rochdale
+Guide Bridge	metropolitanBorough	Tameside
+Heworth, Tyne and Wear	metropolitanBorough	Metropolitan Borough of Gateshead
+Sharlston	metropolitanBorough	City of Wakefield
+Norwood Green, West Yorkshire	metropolitanBorough	Calderdale
+Dovecotes	metropolitanBorough	Wolverhampton
+Hindley Green	metropolitanBorough	Metropolitan Borough of Wigan
+Chinatown, Liverpool	metropolitanBorough	Liverpool
+Cross Roads, West Yorkshire	metropolitanBorough	City of Bradford
+Vauxhall, Liverpool	metropolitanBorough	Liverpool
+Gillmoss	metropolitanBorough	Liverpool
+Page Moss	metropolitanBorough	Metropolitan Borough of Knowsley
+Wolverton, Hampshire	metropolitanBorough	Hampshire
+Kew, Merseyside	metropolitanBorough	Metropolitan Borough of Sefton
+Chapelfields, Coventry	metropolitanBorough	Coventry
+Raby Mere	metropolitanBorough	Metropolitan Borough of Wirral
+Bowring Park, Merseyside	metropolitanBorough	Metropolitan Borough of Knowsley
+Dobcross	metropolitanBorough	Metropolitan Borough of Oldham
+Rawmarsh	metropolitanBorough	Metropolitan Borough of Rotherham
+Rotherham	metropolitanBorough	Metropolitan Borough of Rotherham
+Clatterbridge	metropolitanBorough	Metropolitan Borough of Wirral
+Hopwood, Greater Manchester	metropolitanBorough	Metropolitan Borough of Rochdale
+Milton, Staffordshire	metropolitanBorough	Stoke-on-Trent
+Masbrough	metropolitanBorough	Metropolitan Borough of Rotherham
+Blackfriars, Greater Manchester	metropolitanBorough	City of Salford
+Darnhill	metropolitanBorough	Metropolitan Borough of Rochdale
+Conanby	metropolitanBorough	Metropolitan Borough of Doncaster
+Buslingthorpe, Leeds	metropolitanBorough	City of Leeds
+Neepsend	metropolitanBorough	Sheffield
+Jesmond	metropolitanBorough	Newcastle upon Tyne
+Crank, Merseyside	metropolitanBorough	Metropolitan Borough of St Helens
+Shuttleworth, Greater Manchester	metropolitanBorough	Metropolitan Borough of Bury
+Owston, South Yorkshire	metropolitanBorough	Metropolitan Borough of Doncaster
+Stockport Etchells	metropolitanBorough	Metropolitan Borough of Stockport
+Northen Etchells	metropolitanBorough	Manchester
+Cheadle Moseley	metropolitanBorough	Metropolitan Borough of Stockport
+Cheadle Bulkeley	metropolitanBorough	Metropolitan Borough of Stockport
+Chorltonville	metropolitanBorough	Manchester
+Birtle, Greater Manchester	metropolitanBorough	Metropolitan Borough of Rochdale
+Spotland	metropolitanBorough	Metropolitan Borough of Rochdale
+Belfield, Greater Manchester	metropolitanBorough	Metropolitan Borough of Rochdale
+Greengates	metropolitanBorough	City of Bradford
+Burley Woodhead	metropolitanBorough	City of Bradford
+Mixenden	metropolitanBorough	Calderdale
+Halifax, West Yorkshire	metropolitanBorough	Calderdale
+Brunswick Village	metropolitanBorough	North Tyneside
+Burghfield Bridge	metropolitanBorough	West Berkshire
+Lower Padworth	metropolitanBorough	West Berkshire
+Billingbear	metropolitanBorough	Bracknell Forest
+Chavey Down	metropolitanBorough	Bracknell Forest
+Colthrop	metropolitanBorough	West Berkshire
+Crockham Heath	metropolitanBorough	West Berkshire
+Crookham, Berkshire	metropolitanBorough	West Berkshire
+Elcot, Berkshire	metropolitanBorough	West Berkshire
+Eling, Berkshire	metropolitanBorough	West Berkshire
+Fifield, Berkshire	metropolitanBorough	Royal Borough of Windsor and Maidenhead
+Hare Hatch	metropolitanBorough	Wokingham
+Harmans Water	metropolitanBorough	Bracknell Forest
+Heads Hill	metropolitanBorough	West Berkshire
+Hoe Benham	metropolitanBorough	West Berkshire
+Holme Green	metropolitanBorough	Wokingham
+Honey Bottom	metropolitanBorough	West Berkshire
+Hunts Green, Berkshire	metropolitanBorough	West Berkshire
+Hungerford Newtown	metropolitanBorough	West Berkshire
+Hyde End, Berkshire	metropolitanBorough	West Berkshire
+Inkpen Common	metropolitanBorough	West Berkshire
+Gardeners Green	metropolitanBorough	Wokingham
+Little Sandhurst	metropolitanBorough	Bracknell Forest
+Lower Denford	metropolitanBorough	West Berkshire
+Maidens Green	metropolitanBorough	Bracknell Forest
+Marlston	metropolitanBorough	West Berkshire
+Midgham Green	metropolitanBorough	West Berkshire
+Nuptown	metropolitanBorough	Bracknell Forest
+Odney	metropolitanBorough	Royal Borough of Windsor and Maidenhead
+Owlsmoor	metropolitanBorough	Bracknell Forest
+Ownham	metropolitanBorough	West Berkshire
+Shurlock Row	metropolitanBorough	Royal Borough of Windsor and Maidenhead
+Snelsmore	metropolitanBorough	West Berkshire
+Upper Culham	metropolitanBorough	Wokingham
+Upper Denford	metropolitanBorough	West Berkshire
+Upper Eddington	metropolitanBorough	West Berkshire
+Warren Row	metropolitanBorough	Royal Borough of Windsor and Maidenhead
+Wash Water	metropolitanBorough	West Berkshire
+Whistley Green	metropolitanBorough	West Berkshire
+Wickham Heath	metropolitanBorough	West Berkshire
+Woodspeen	metropolitanBorough	West Berkshire
+Goddard's Green, Berkshire	metropolitanBorough	West Berkshire
+Bullbrook	metropolitanBorough	Bracknell Forest
+Home Farm, Bracknell	metropolitanBorough	Bracknell Forest
+Priestwood	metropolitanBorough	Bracknell Forest
+Temple Park	metropolitanBorough	Bracknell Forest
+Whitegrove	metropolitanBorough	Bracknell Forest
+Brock Hill	metropolitanBorough	Bracknell Forest
+Brookside, Berkshire	metropolitanBorough	Bracknell Forest
+Burleigh, Berkshire	metropolitanBorough	Bracknell Forest
+Cranbourne, Berkshire	metropolitanBorough	Bracknell Forest
+Hawthorn Hill, Berkshire	metropolitanBorough	Royal Borough of Windsor and Maidenhead split with Bracknell Forest along the line of Pendrys Lane
+College Town, Berkshire	metropolitanBorough	Bracknell Forest
+Jealott's Hill	metropolitanBorough	Bracknell Forest
+Moss End	metropolitanBorough	Bracknell Forest
+The Warren, Bracknell Forest	metropolitanBorough	Bracknell Forest
+Woodside, Berkshire	metropolitanBorough	Royal Borough of Windsor and Maidenhead
+Woodside, Berkshire	metropolitanBorough	Bracknell Forest
+Bramley, Rotherham	metropolitanBorough	Metropolitan Borough of Rotherham
+Morthen	metropolitanBorough	Metropolitan Borough of Rotherham
+Kirkthorpe	metropolitanBorough	City of Wakefield
+Stainland	metropolitanBorough	Calderdale
+Barkisland	metropolitanBorough	Calderdale
+Sowood, West Yorkshire	metropolitanBorough	Calderdale
+Holywell Green	metropolitanBorough	Calderdale
+Tinsley, South Yorkshire	metropolitanBorough	Sheffield
+Chapel House Estate	metropolitanBorough	Newcastle upon Tyne
+Tudor Hill	metropolitanBorough	Birmingham
+Allesley Green	metropolitanBorough	Coventry
+Illingworth, West Yorkshire	metropolitanBorough	Calderdale
+West Vale	metropolitanBorough	Calderdale
+Coxlodge	metropolitanBorough	Newcastle upon Tyne
+Orrell Park	metropolitanBorough	Liverpool
+Seaburn Dene	metropolitanBorough	City of Sunderland
+Witherwack	metropolitanBorough	City of Sunderland
+Kennessee Green	metropolitanBorough	Metropolitan Borough of Sefton
+Selly Park	metropolitanBorough	Birmingham
+Druids Heath	metropolitanBorough	Birmingham
+Yardley Wood	metropolitanBorough	Birmingham
+Pogmoor	metropolitanBorough	Metropolitan Borough of Barnsley
+Murton, Tyne and Wear	metropolitanBorough	North Tyneside
+Denshaw	metropolitanBorough	Metropolitan Borough of Oldham
+Fearnville	metropolitanBorough	City of Leeds
+Ravenhead	metropolitanBorough	Metropolitan Borough of St Helens
+Bagnum	metropolitanBorough	Hampshire
+Bank, Hampshire	metropolitanBorough	Hampshire
+Beggarwood	metropolitanBorough	Hampshire
+Burradon, Tyne and Wear	metropolitanBorough	North Tyneside
+Carbrook, South Yorkshire	metropolitanBorough	Sheffield
+Brightside, South Yorkshire	metropolitanBorough	Sheffield
+Beckhill	metropolitanBorough	City of Leeds
+Seaton Burn	metropolitanBorough	North Tyneside
+Midgley	metropolitanBorough	Calderdale
+Darnall	metropolitanBorough	Sheffield
+Burngreave	metropolitanBorough	Sheffield
+Cheadle Heath	metropolitanBorough	Metropolitan Borough of Stockport
+Ashted	metropolitanBorough	Birmingham
+Ainsty, Wetherby	metropolitanBorough	City of Leeds
+Laisterdyke	metropolitanBorough	City of Bradford
+Carrington Moss	metropolitanBorough	Trafford
+Hallfield	metropolitanBorough	City of Leeds
+Low Moor, Bradford	metropolitanBorough	City of Bradford
+Shakerley	metropolitanBorough	Metropolitan Borough of Wigan
+Whalley Range, Blackburn	metropolitanBorough	Blackburn
+Bradford	metropolitanBorough	City of Bradford
+Kirk Bramwith	metropolitanBorough	Metropolitan Borough of Doncaster
+Loversall	metropolitanBorough	Metropolitan Borough of Doncaster
+Moss, South Yorkshire	metropolitanBorough	Metropolitan Borough of Doncaster
+Warmsworth	metropolitanBorough	Metropolitan Borough of Doncaster
+Bamford, Greater Manchester	metropolitanBorough	Metropolitan Borough of Rochdale
+Potterton, West Yorkshire	metropolitanBorough	City of Leeds
+Walkley	metropolitanBorough	Sheffield
+Highpark, Merseyside	metropolitanBorough	Metropolitan Borough of Sefton
+Gornal, West Midlands	metropolitanBorough	Metropolitan Borough of Dudley
+Tonge, Greater Manchester	metropolitanBorough	Metropolitan Borough of Bolton
+Leverhulme Park	metropolitanBorough	Metropolitan Borough of Bolton
+Queen's Park, Bolton	metropolitanBorough	Metropolitan Borough of Bolton
+Moss Bank Park, Bolton	metropolitanBorough	Metropolitan Borough of Bolton
+Victoria Park, Swinton	metropolitanBorough	City of Salford
+Seven Acres Country Park, Bolton	metropolitanBorough	Metropolitan Borough of Bolton
+Jumbles Country Park	metropolitanBorough	Metropolitan Borough of Bolton
+New Islington	metropolitanBorough	Manchester
+Bromford	metropolitanBorough	Birmingham
+Blossomfield	metropolitanBorough	Birmingham
+Brownhills West	metropolitanBorough	Birmingham
+Bishopsgate Green	metropolitanBorough	Coventry
+Bradley Fold	metropolitanBorough	Metropolitan Borough of Bury
+Reaside Junior School	metropolitanBorough	Birmingham
+Whitley Lower	metropolitanBorough	Kirklees
+Brighton-le-Sands, Merseyside	metropolitanBorough	Metropolitan Borough of Sefton
+Waddicar	metropolitanBorough	Metropolitan Borough of Sefton
+Lady Green, Merseyside	metropolitanBorough	Metropolitan Borough of Sefton
+Portsmouth, West Yorkshire	metropolitanBorough	Calderdale
+East Denton	metropolitanBorough	Newcastle upon Tyne
+Balderstone, Greater Manchester	metropolitanBorough	Metropolitan Borough of Rochdale
+West Allotment	metropolitanBorough	North Tyneside
+Northumberland Park, Tyne and Wear	metropolitanBorough	North Tyneside
+California, Birmingham	metropolitanBorough	Birmingham
+Liverpool City Centre	metropolitanBorough	Liverpool
+Toll Bar	metropolitanBorough	Metropolitan Borough of Doncaster
+Barkerend	metropolitanBorough	City of Bradford
+Hylton Red House	metropolitanBorough	City of Sunderland
+Hindsford	metropolitanBorough	Metropolitan Borough of Wigan
+Howe Bridge	metropolitanBorough	Metropolitan Borough of Wigan
+Grange Moor	metropolitanBorough	Kirklees
+West Allotment, Tyne and Wear	metropolitanBorough	North Tyneside
+Hart Common	metropolitanBorough	Metropolitan Borough of Bolton
+Dumplington	metropolitanBorough	Trafford
+Gleadless Townend	metropolitanBorough	Sheffield
+Broadgreen	metropolitanBorough	Liverpool
+Chapel Allerton	metropolitanBorough	City of Leeds
+Topham, South Yorkshire	metropolitanBorough	Metropolitan Borough of Doncaster
+Staithgate	metropolitanBorough	City of Bradford

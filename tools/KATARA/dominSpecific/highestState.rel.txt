@@ -1,0 +1,250 @@
+Kalahari Desert	highestState	Namibia
+Madeira    1	highestState	Santana, Madeira
+Arabian Desert	highestState	Saudi Arabia
+Chaves Municipality, Portugal	highestState	Chaves Municipality, Portugal
+São Miguel Island	highestState	Nordeste (Azores)
+Bragança Municipality	highestState	Bragança District
+Eastern Ghats	highestState	Andhra Pradesh
+Sacavém	highestState	Loures Municipality
+Camarate	highestState	Loures Municipality
+Terceira Island	highestState	Angra do Heroísmo
+Vila do Conde	highestState	Vila do Conde (parish)
+Porto Santo Island	highestState	Porto Santo (Madeira)
+Formigas	highestState	Azores
+Loriga	highestState	Seia Municipality
+Aveleda (Bragança)	highestState	Bragança Municipality
+Alfaião	highestState	Bragança Municipality
+Babe (Bragança)	highestState	Bragança Municipality
+Praia da Vitória	highestState	Praia da Vitória (parish)
+Paradinha	highestState	Moimenta da Beira Municipality
+Vila do Porto (Azores)	highestState	Vila do Porto (parish)
+Sete Cidades (Ponta Delgada)	highestState	Ponta Delgada (Azores)
+Praia (Santa Cruz da Graciosa)	highestState	Santa Cruz da Graciosa (Azores)
+Luz (Santa Cruz da Graciosa)	highestState	Santa Cruz da Graciosa (Azores)
+Manadas	highestState	Velas (Azores)
+Velas (Azores)	highestState	Velas (parish)
+Norte Grande (Azores)	highestState	Velas (Azores)
+Rosais	highestState	Velas (Azores)
+Santo Amaro (Velas)	highestState	Velas (Azores)
+Urzelina	highestState	Velas (Azores)
+São Mateus (Madalena)	highestState	Madalena (Azores)
+São Jorge Island	highestState	Velas (parish)
+Calheta (Azores)	highestState	Calheta (Azores)
+Norte Pequeno	highestState	Calheta (Azores)
+Ribeira Seca (Calheta)	highestState	Calheta (Azores)
+Santo Antão (Calheta)	highestState	Calheta (Azores)
+Topo (Calheta)	highestState	Calheta (Azores)
+Nossa Senhora do Rosário	highestState	Lagoa (Azores)
+Calheta, Madeira	highestState	Calheta, Madeira
+Santa Cruz das Flores (Azores)	highestState	Santa Cruz das Flores (parish)
+Fajã Grande	highestState	Lajes das Flores (Azores)
+Lajedo (Lajes das Flores)	highestState	Lajes das Flores (Azores)
+Lomba (Lajes das Flores)	highestState	Lajes das Flores (Azores)
+Fajãzinha	highestState	Lajes das Flores (Azores)
+Fazenda (Lajes das Flores)	highestState	Lajes das Flores (Azores)
+Mosteiro (Lajes das Flores)	highestState	Lajes das Flores (Azores)
+Angústias	highestState	Horta (Azores)
+Castelo Branco (Horta)	highestState	Horta (Azores)
+Conceição (Horta)	highestState	Horta (Azores)
+Cedros (Horta)	highestState	Horta (Azores)
+Pedro Miguel	highestState	Horta (Azores)
+Feteira (Horta)	highestState	Horta (Azores)
+Matriz (Horta)	highestState	Horta (Azores)
+Praia do Almoxarife	highestState	Horta (Azores)
+Praia do Norte	highestState	Horta (Azores)
+Salão	highestState	Horta (Azores)
+Ribeirinha (Horta)	highestState	Horta (Azores)
+Madalena (Azores)	highestState	Madalena (parish)
+Bandeiras (Madalena)	highestState	Madalena (Azores)
+Candelária (Ponta Delgada)	highestState	Ponta Delgada (Azores)
+Candelária (Madalena)	highestState	Madalena (Azores)
+São Caetano (Madalena)	highestState	Madalena (Azores)
+Criação Velha	highestState	Madalena (Azores)
+São Roque do Pico (Azores)	highestState	São Roque do Pico (parish)
+Prainha (São Roque do Pico)	highestState	São Roque do Pico (Azores)
+Santa Luzia (São Roque do Pico)	highestState	São Roque do Pico (Azores)
+Santo Amaro (São Roque do Pico)	highestState	São Roque do Pico (Azores)
+Santo António (São Roque do Pico)	highestState	São Roque do Pico (Azores)
+Piedade (Lajes do Pico)	highestState	Lajes do Pico (Azores)
+Ribeiras	highestState	Lajes do Pico (Azores)
+Ribeirinha (Lajes do Pico)	highestState	Lajes do Pico (Azores)
+São João (Lajes do Pico)	highestState	Lajes do Pico (Azores)
+Altares	highestState	Angra do Heroísmo
+Cinco Ribeiras	highestState	Angra do Heroísmo
+Doze Ribeiras	highestState	Angra do Heroísmo
+Feteira (Angra do Heroísmo)	highestState	Angra do Heroísmo
+Nossa Senhora da Conceição	highestState	Angra do Heroísmo
+Porto Judeu	highestState	Angra do Heroísmo
+Posto Santo	highestState	Angra do Heroísmo
+Raminho	highestState	Angra do Heroísmo
+Ribeirinha (Angra do Heroísmo)	highestState	Angra do Heroísmo
+Santa Bárbara (Angra do Heroísmo)	highestState	Angra do Heroísmo
+Santa Luzia (Angra do Heroísmo)	highestState	Angra do Heroísmo
+São Bartolomeu de Regatos	highestState	Angra do Heroísmo
+São Bento (Angra do Heroísmo)	highestState	Angra do Heroísmo
+São Mateus da Calheta	highestState	Angra do Heroísmo
+São Pedro (Angra do Heroísmo)	highestState	Angra do Heroísmo
+Sé (Angra do Heroísmo)	highestState	Angra do Heroísmo
+Serreta (Azores)	highestState	Angra do Heroísmo
+Vila de São Sebastião	highestState	Angra do Heroísmo
+Agualva (Praia da Vitória)	highestState	Praia da Vitória
+Biscoitos	highestState	Praia da Vitória
+Cabo da Praia	highestState	Praia da Vitória
+Fonte do Bastardo	highestState	Praia da Vitória
+Lajes (Praia da Vitória)	highestState	Praia da Vitória
+Porto Martins	highestState	Praia da Vitória
+São Brás (Praia da Vitória)	highestState	Praia da Vitória
+Vila Nova (Praia da Vitória)	highestState	Praia da Vitória
+Ajuda da Bretanha	highestState	Ponta Delgada (Azores)
+Arrifes	highestState	Ponta Delgada (Azores)
+Capelas	highestState	Ponta Delgada (Azores)
+Covoada	highestState	Ponta Delgada (Azores)
+Fajã de Baixo	highestState	Ponta Delgada (Azores)
+Fajã de Cima	highestState	Ponta Delgada (Azores)
+Fenais da Luz	highestState	Ponta Delgada (Azores)
+Feteiras	highestState	Ponta Delgada (Azores)
+Ginetes	highestState	Ponta Delgada (Azores)
+Fontinhas	highestState	Praia da Vitória
+Livramento (Ponta Delgada)	highestState	Ponta Delgada (Azores)
+Pilar da Bretanha	highestState	Ponta Delgada (Azores)
+Relva	highestState	Ponta Delgada (Azores)
+Remédios	highestState	Ponta Delgada (Azores)
+Santa Bárbara (Ponta Delgada)	highestState	Ponta Delgada (Azores)
+Santa Clara (Ponta Delgada)	highestState	Ponta Delgada (Azores)
+Santo António (Ponta Delgada)	highestState	Ponta Delgada (Azores)
+São José (Ponta Delgada)	highestState	Ponta Delgada (Azores)
+São Roque, Ponta Delgada	highestState	Ponta Delgada (Azores)
+São Pedro (Ponta Delgada)	highestState	Ponta Delgada (Azores)
+São Sebastião (Ponta Delgada)	highestState	Ponta Delgada (Azores)
+São Vicente Ferreira	highestState	Ponta Delgada (Azores)
+Lagoa (Azores)	highestState	Lagoa (Azores)
+Água de Pau	highestState	Lagoa (Azores)
+Cabouco	highestState	Lagoa (Azores)
+Ribeira Chã	highestState	Lagoa (Azores)
+Santa Cruz (Lagoa)	highestState	Lagoa (Azores)
+Calhetas	highestState	Ribeira Grande (Azores)
+Ribeira Grande (Azores)	highestState	Ribeira Grande (Azores)
+Conceição (Ribeira Grande)	highestState	Ribeira Grande (Azores)
+Fenais da Ajuda	highestState	Ribeira Grande (Azores)
+Lomba da Maia	highestState	Ribeira Grande (Azores)
+Lomba de São Pedro	highestState	Ribeira Grande (Azores)
+Maia (Ribeira Grande)	highestState	Ribeira Grande (Azores)
+Matriz (Ribeira Grande)	highestState	Ribeira Grande (Azores)
+Pico da Pedra	highestState	Ribeira Grande (Azores)
+Porto Formoso	highestState	Ribeira Grande (Azores)
+Rabo de Peixe	highestState	Ribeira Grande (Azores)
+Ribeira Seca (Ribeira Grande)	highestState	Ribeira Grande (Azores)
+Ribeirinha (Ribeira Grande)	highestState	Ribeira Grande (Azores)
+Mosteiros (Ponta Delgada)	highestState	Ponta Delgada (Azores)
+Santa Bárbara (Ribeira Grande)	highestState	Ribeira Grande (Azores)
+São Brás (Ribeira Grande)	highestState	Ribeira Grande (Azores)
+Água de Alto	highestState	Vila Franca do Campo (Azores)
+Ponta Garça	highestState	Vila Franca do Campo (Azores)
+Ribeira das Tainhas	highestState	Vila Franca do Campo (Azores)
+Ribeira Seca (Vila Franca do Campo)	highestState	Ribeira Seca (Vila Franca do Campo)
+São Miguel (Vila Franca do Campo)	highestState	Vila Franca do Campo (Azores)
+São Pedro (Vila Franca do Campo)	highestState	Vila Franca do Campo (Azores)
+Povoação (Azores)	highestState	Povoação (Azores)
+Água Retorta	highestState	Povoação (Azores)
+Faial da Terra	highestState	Povoação (Azores)
+Nossa Senhora dos Remédios (Povoação)	highestState	Povoação (Azores)
+Furnas	highestState	Povoação (Azores)
+Ribeira Quente	highestState	Povoação (Azores)
+Nordeste (Azores)	highestState	Nordeste (Azores)
+Achada	highestState	Nordeste (Azores)
+Achadinha	highestState	Nordeste (Azores)
+Algarvia	highestState	Nordeste (Azores)
+Lomba da Fazenda	highestState	Nordeste (Azores)
+Salga	highestState	Nordeste (Azores)
+Santana (Nordeste)	highestState	Nordeste (Azores)
+Santo António de Nordestinho	highestState	Nordeste (Azores)
+São Pedro de Nordestinho	highestState	Nordeste (Azores)
+Santa Maria Island	highestState	Vila do Porto (parish)
+Almagreira (Vila do Porto)	highestState	Vila do Porto (Azores)
+Santo Espírito	highestState	Vila do Porto (Azores)
+São Pedro (Vila do Porto)	highestState	Vila do Porto (Azores)
+Santa Bárbara (Vila do Porto)	highestState	Vila do Porto (Azores)
+Machico	highestState	Machico (parish)
+Água de Pena	highestState	Machico
+Caniçal	highestState	Machico
+Porto da Cruz	highestState	Machico
+Santo António da Serra (Machico)	highestState	Machico
+Santa Maria de Belém	highestState	Lisbon
+Porto Moniz	highestState	Porto Moniz (parish)
+Achadas da Cruz	highestState	Porto Moniz
+Ribeira da Janela	highestState	Porto Moniz
+Seixal (Porto Moniz)	highestState	Porto Moniz
+Arco da Calheta	highestState	Calheta, Madeira
+Estreito da Calheta	highestState	Calheta, Madeira
+Fajã da Ovelha	highestState	Calheta, Madeira
+Jardim do Mar	highestState	Calheta, Madeira
+Ponta do Pargo	highestState	Calheta, Madeira
+Prazeres, Madeira	highestState	Calheta, Madeira
+Canhas	highestState	Ponta do Sol, Madeira
+Madalena do Mar	highestState	Ponta do Sol, Madeira
+Campanário, Madeira	highestState	Ribeira Brava, Madeira
+Imaculado Coração de Maria	highestState	Funchal
+Santa Luzia (Funchal)	highestState	Funchal
+Monte (Funchal)	highestState	Funchal
+Santa Maria Maior (Funchal)	highestState	Funchal
+Santo António (Funchal)	highestState	Funchal
+São Gonçalo (Funchal)	highestState	Funchal
+São Martinho (Funchal)	highestState	Funchal
+São Pedro (Funchal)	highestState	Funchal
+São Roque (Funchal)	highestState	Funchal
+Castro Verde Municipality	highestState	Castro Verde Municipality
+Alandroal Municipality	highestState	Alandroal Municipality
+Albergaria-a-Velha Municipality	highestState	Aveiro District
+Sé (Funchal)	highestState	Funchal
+Ponta do Sol, Madeira	highestState	Ponta do Sol (parish)
+Paul do Mar	highestState	Calheta, Madeira
+Desertas Islands	highestState	Santa Cruz, Madeira
+Alcântara (Lisbon)	highestState	Lisbon District
+Felgueiras (Resende)	highestState	Resende Municipality, Portugal
+Portela (Loures)	highestState	Loures Municipality
+Arcas (Macedo de Cavaleiros)	highestState	Macedo de Cavaleiros Municipality
+Bombarral Municipality	highestState	Bombarral Municipality
+Labruja	highestState	Ponte de Lima Municipality
+Alfândega da Fé Municipality	highestState	Alfândega da Fé (parish)
+Aguiar da Beira Municipality	highestState	Aguiar da Beira Municipality
+Boticas Municipality	highestState	Boticas Municipality
+Vila do Porto (parish)	highestState	Vila do Porto (Azores)
+São Vicente (Abrantes)	highestState	Abrantes Municipality
+Favaios (Alijó)	highestState	Alijó Municipality
+Amareleja	highestState	Moura Municipality
+Ponta Delgada (district)	highestState	Nordeste (Azores)
+Mindelo (Vila do Conde)	highestState	Vila do Conde
+Horta (district)	highestState	Pico Island
+Patagonian Desert	highestState	Chile
+Angeja	highestState	Albergaria-a-Velha Municipality
+Ponta Delgada (Azores)	highestState	Ponta Delgada (Azores)
+Sierra de Chuacús	highestState	Quiché Department
+Sangalhos	highestState	Anadia Municipality, Portugal
+Fornos (Freixo de Espada à Cinta)	highestState	Freixo de Espada à Cinta Municipality
+Pena (Lisbon)	highestState	Lisboa Region
+Alvor Parish	highestState	Portimão
+Covas do Barroso	highestState	Boticas Municipality
+Casével	highestState	Castro Verde Municipality
+Santiago de Piães	highestState	Cinfães Municipality
+Alcains	highestState	Castelo Branco Municipality
+Alcanede	highestState	Santarém Municipality
+Whitefish Range	highestState	British Columbia
+Óbidos Municipality	highestState	Óbidos Muncipality
+Mirandela Municipality	highestState	Mirandela Municipality
+Miranda do Douro Municipality	highestState	Miranda do Douro (parish)
+Santa Cruz das Flores (parish)	highestState	Santa Cruz das Flores (Azores)
+Frechas	highestState	Mirandela Municipality
+Lajes das Flores (parish)	highestState	Lajes das Flores (Azores)
+Torre de Dona Chama	highestState	Mirandela Municipality
+Celeirós (Sabrosa)	highestState	Sabrosa
+Bobadela	highestState	Boticas Municipality
+Cacia	highestState	Aveiro Municipality
+Fontelo	highestState	Armamar Municipality
+Fermentelos	highestState	Águeda Municipality
+Monchique Islet	highestState	Azores
+Terra Chã	highestState	Angra do Heroísmo
+Comporta	highestState	Alcácer do Sal Municipality
+Arcos (Vila do Conde)	highestState	Vila do Conde
+Agrobom (Alfândega da Fé)	highestState	Alfândega da Fé Municipality
+Cerejais (Alfândega da Fé)	highestState	Alfândega da Fé Municipality
+Nossa Senhora da Tourega (Évora)	highestState	Évora Municipality

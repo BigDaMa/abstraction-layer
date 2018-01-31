@@ -1,0 +1,1168 @@
+Aberdeen	distanceToLondon	649000.0
+Aberdeen	distanceToLondon	648565.632
+Accrington	distanceToLondon	357274.368
+Dundee	distanceToLondon	582582.528
+Hastings	distanceToLondon	85295.232
+Hawick	distanceToLondon	469928.448
+Princetown	distanceToLondon	291291.264
+Truro	distanceToLondon	373367.808
+Kidderminster	distanceToLondon	131.1
+Dover	distanceToLondon	125206.9632
+Bath, Somerset	distanceToLondon	159325.056
+Slough	distanceToLondon	35405.568
+Caernarfon	distanceToLondon	397668.9024
+Canterbury	distanceToLondon	101066.8032
+Hereford	distanceToLondon	135.7
+Beaulieu, Hampshire	distanceToLondon	149025.2544
+Bacup	distanceToLondon	281635.2
+Worcester	distanceToLondon	182499.6096
+Ludlow	distanceToLondon	250413.9264
+Chatham, Kent	distanceToLondon	53108.352
+Swindon	distanceToLondon	130356.864
+Carlisle, Cumbria	distanceToLondon	420038.784
+Henley-on-Thames	distanceToLondon	58580.1216
+Gloucester	distanceToLondon	113.0
+Lewes	distanceToLondon	70811.136
+Glasgow	distanceToLondon	648565.632
+Bedford	distanceToLondon	57.4
+Salisbury	distanceToLondon	136794.24
+Arbroath	distanceToLondon	597066.624
+Folkestone	distanceToLondon	114746.2272
+Ingham, Norfolk	distanceToLondon	217261.44
+Blakeney, Norfolk	distanceToLondon	207605.376
+Cley next the Sea	distanceToLondon	207605.376
+Lowestoft	distanceToLondon	177000.0
+Lowestoft	distanceToLondon	177027.84
+King's Lynn	distanceToLondon	156106.368
+Holt, Norfolk	distanceToLondon	204386.688
+Wallingford, Oxfordshire	distanceToLondon	76443.84
+Arundel	distanceToLondon	78857.856
+Burgess Hill	distanceToLondon	61155.072
+Bexhill-on-Sea	distanceToLondon	82076.544
+Uckfield	distanceToLondon	61155.072
+Inverness	distanceToLondon	902841.984
+North Queensferry	distanceToLondon	543958.272
+Ripon	distanceToLondon	358883.712
+Milton Keynes	distanceToLondon	77087.5776
+Bingley	distanceToLondon	337962.24
+Littleport, Cambridgeshire	distanceToLondon	108469.7856
+Droitwich Spa	distanceToLondon	125.0
+Newhaven, East Sussex	distanceToLondon	78857.856
+Seaford, East Sussex	distanceToLondon	107826.048
+Rodmell	distanceToLondon	74029.824
+Otley	distanceToLondon	310603.392
+Todmorden	distanceToLondon	280025.856
+Grantham	distanceToLondon	180246.528
+Endon	distanceToLondon	222089.472
+Chester	distanceToLondon	315431.424
+Disley	distanceToLondon	299337.984
+Abingdon, Oxfordshire	distanceToLondon	100744.9344
+Lichfield	distanceToLondon	199558.656
+Darlington	distanceToLondon	352446.336
+Guisborough	distanceToLondon	410543.6544
+Wadhurst	distanceToLondon	57936.384
+Shoreham-by-Sea	distanceToLondon	91732.608
+Lancing, West Sussex	distanceToLondon	75639.168
+Crowborough	distanceToLondon	53108.352
+Crewe	distanceToLondon	280025.856
+Oldham	distanceToLondon	263932.416
+Salford, Greater Manchester	distanceToLondon	263932.416
+Maidstone	distanceToLondon	51499.008
+Market Harborough	distanceToLondon	141622.272
+Wokingham	distanceToLondon	53108.352
+Telford	distanceToLondon	225308.16
+Littlehampton	distanceToLondon	82076.544
+Sleaford	distanceToLondon	185074.56
+Banbury	distanceToLondon	101388.672
+East Grinstead	distanceToLondon	41842.944
+Aylesbury	distanceToLondon	41.6
+Corby	distanceToLondon	115068.096
+Workington	distanceToLondon	416820.096
+Towcester	distanceToLondon	104607.36
+Runcorn	distanceToLondon	268760.448
+Barnsley	distanceToLondon	246229.632
+Church Stretton	distanceToLondon	254276.352
+Brodick	distanceToLondon	712939.392
+Dunoon	distanceToLondon	698455.296
+Newport, Shropshire	distanceToLondon	238182.912
+Wantage	distanceToLondon	116355.5712
+Fleet, Hampshire	distanceToLondon	64856.5632
+Govan	distanceToLondon	556833.024
+Burwell, Cambridgeshire	distanceToLondon	91088.8704
+Bannockburn	distanceToLondon	659831.04
+Skipton	distanceToLondon	358883.712
+Isle of Portland	distanceToLondon	200000.0
+Walsall	distanceToLondon	199558.656
+Horsted Keynes	distanceToLondon	51499.008
+West Bromwich	distanceToLondon	202777.344
+Livingston, Scotland	distanceToLondon	516599.424
+Sunderland, Tyne and Wear	distanceToLondon	386242.56
+Harrogate	distanceToLondon	339571.584
+Dudley	distanceToLondon	130.5
+Sherborne	distanceToLondon	199558.656
+Montrose, Angus	distanceToLondon	597066.624
+Wellingborough	distanceToLondon	112332.2112
+Abbotsbury	distanceToLondon	223698.816
+Cranwell	distanceToLondon	197949.312
+Altrincham	distanceToLondon	259104.384
+East Ruston	distanceToLondon	218870.784
+Kirkby	distanceToLondon	289681.92
+Stockport	distanceToLondon	252667.008
+Brumstead	distanceToLondon	215652.096
+Falmer	distanceToLondon	69201.792
+Ashton-under-Lyne	distanceToLondon	257495.04
+St Michael's Mount	distanceToLondon	466709.76
+Tewkesbury	distanceToLondon	151278.336
+Lamlash	distanceToLondon	712939.392
+Rainhill	distanceToLondon	278416.512
+Burnley	distanceToLondon	291291.264
+Kempston	distanceToLondon	54.6
+Paisley	distanceToLondon	558442.368
+Blackburn	distanceToLondon	296119.296
+Hartlepool	distanceToLondon	416000.0
+Stockton-on-Tees	distanceToLondon	252.5
+Selby	distanceToLondon	260713.728
+Kendal	distanceToLondon	358883.712
+Herne Bay, Kent	distanceToLondon	107826.048
+Gosport	distanceToLondon	131966.208
+Didcot	distanceToLondon	54.7
+Haywards Heath	distanceToLondon	54717.696
+Bishop Auckland	distanceToLondon	365321.088
+Wednesbury	distanceToLondon	125.9
+Lochranza	distanceToLondon	712939.392
+Welwyn Garden City	distanceToLondon	32186.88
+Pevensey	distanceToLondon	80467.2
+Melton Mowbray	distanceToLondon	168981.12
+Royal Tunbridge Wells	distanceToLondon	53108.352
+Ashford, Kent	distanceToLondon	91893.5424
+Aldershot	distanceToLondon	68236.1856
+Kettering	distanceToLondon	130356.864
+Bognor Regis	distanceToLondon	88513.92
+Chichester	distanceToLondon	86904.576
+Skegness	distanceToLondon	183465.216
+Newport, Isle of Wight	distanceToLondon	145259.38944
+Bromsgrove	distanceToLondon	191511.936
+Barrow-in-Furness	distanceToLondon	357274.368
+Falkirk	distanceToLondon	555223.68
+Kirkcaldy	distanceToLondon	548786.304
+Oundle	distanceToLondon	128747.52
+Bo'ness	distanceToLondon	552004.992
+Dumbarton	distanceToLondon	572926.464
+Helensburgh	distanceToLondon	584191.872
+Hertford	distanceToLondon	30899.4048
+Blandford Forum	distanceToLondon	189902.592
+Sale, Greater Manchester	distanceToLondon	260713.728
+Alsager	distanceToLondon	231745.536
+Bewdley	distanceToLondon	215973.9648
+Bangor, Gwynedd	distanceToLondon	415210.752
+Rothesay, Bute	distanceToLondon	729032.832
+Broadstairs	distanceToLondon	131322.4704
+Eastwood, Nottinghamshire	distanceToLondon	186683.904
+Okehampton	distanceToLondon	323478.144
+Settle	distanceToLondon	384633.216
+Malvern, Worcestershire	distanceToLondon	195213.4272
+Beaminster	distanceToLondon	233354.88
+Moretonhampstead	distanceToLondon	346008.96
+Brackley	distanceToLondon	109435.392
+Olney, Buckinghamshire	distanceToLondon	96560.64
+Rye, East Sussex	distanceToLondon	85295.232
+Winchelsea	distanceToLondon	86904.576
+Pershore	distanceToLondon	168176.448
+Dufftown	distanceToLondon	692017.92
+Ivybridge	distanceToLondon	292900.608
+Chagford	distanceToLondon	312212.736
+Petworth	distanceToLondon	65983.104
+Jedburgh	distanceToLondon	471161.205504
+Great Missenden	distanceToLondon	61155.072
+St Leonards, Buckinghamshire	distanceToLondon	48280.32
+Bletchley	distanceToLondon	43.0
+Chipping Norton	distanceToLondon	119896.128
+Cholesbury	distanceToLondon	45061.632
+Upton-upon-Severn	distanceToLondon	113.5
+Grangemouth	distanceToLondon	555223.68
+Ashton-in-Makerfield	distanceToLondon	278416.512
+Burghead	distanceToLondon	893185.92
+Stourport-on-Severn	distanceToLondon	135.4
+Thame	distanceToLondon	74834.496
+Hawridge	distanceToLondon	43452.288
+Egham	distanceToLondon	32186.88
+Edenbridge, Kent	distanceToLondon	61155.072
+Blyth, Northumberland	distanceToLondon	482803.2
+Chadderton	distanceToLondon	265541.76
+Berkeley, Gloucestershire	distanceToLondon	193121.28
+Gillingham, Kent	distanceToLondon	57292.6464
+Brownhills	distanceToLondon	205996.032
+Reddish	distanceToLondon	255885.696
+Leigh, Greater Manchester	distanceToLondon	271979.136
+Coatbridge	distanceToLondon	548786.304
+Peacehaven	distanceToLondon	78857.856
+Market Rasen	distanceToLondon	209214.72
+Faversham	distanceToLondon	86904.576
+Sheerness	distanceToLondon	59545.728
+Cheshunt	distanceToLondon	20921.472
+Mildenhall, Suffolk	distanceToLondon	120700.8
+Thirsk	distanceToLondon	365321.088
+Sutton Bonington	distanceToLondon	188293.248
+Irlam	distanceToLondon	267151.104
+Withington	distanceToLondon	257495.04
+Beith	distanceToLondon	682361.856
+Polegate	distanceToLondon	78857.856
+Dukinfield	distanceToLondon	257495.04
+Manchester city centre	distanceToLondon	262323.072
+Audenshaw	distanceToLondon	257495.04
+Angmering	distanceToLondon	78857.856
+Droylsden	distanceToLondon	259104.384
+Newton Heath	distanceToLondon	262323.072
+Failsworth	distanceToLondon	262323.072
+Midhurst	distanceToLondon	72420.48
+Carterton, Oxfordshire	distanceToLondon	116516.5056
+Faringdon	distanceToLondon	125046.0288
+Woodstock, Oxfordshire	distanceToLondon	100423.0656
+Moss Side	distanceToLondon	260713.728
+Margate	distanceToLondon	103158.9504
+Kineton	distanceToLondon	117482.112
+Saddleworth	distanceToLondon	259104.384
+Fordwich	distanceToLondon	105894.8352
+Avonmouth	distanceToLondon	200202.3936
+Prestatyn	distanceToLondon	233.9
+Barnt Green	distanceToLondon	160934.4
+Llanidloes	distanceToLondon	339571.584
+Llanwrtyd Wells	distanceToLondon	318650.112
+Glenrothes	distanceToLondon	714548.736
+Rochdale	distanceToLondon	271979.136
+Bredon	distanceToLondon	149668.992
+Whitefield, Greater Manchester	distanceToLondon	270369.792
+Cheadle Hulme	distanceToLondon	252667.008
+Milnrow	distanceToLondon	270369.792
+Deal, Kent	distanceToLondon	135023.9616
+Cerne Abbas	distanceToLondon	181051.2
+Abberley	distanceToLondon	180246.528
+Stenhousemuir	distanceToLondon	558442.368
+Dyce	distanceToLondon	657000.0
+Dyce	distanceToLondon	656612.352
+Oswaldtwistle	distanceToLondon	292900.608
+Ferndown	distanceToLondon	160934.4
+Rothley	distanceToLondon	149668.992
+Bordesley, Worcestershire	distanceToLondon	156106.368
+Castle Bromwich	distanceToLondon	186201.1008
+Sandbach	distanceToLondon	254276.352
+Alkborough	distanceToLondon	245000.0
+Cramond	distanceToLondon	534302.208
+Carnoustie	distanceToLondon	590629.248
+Clapham, West Sussex	distanceToLondon	75639.168
+Billingham	distanceToLondon	410382.72
+Cuckfield	distanceToLondon	54717.696
+Wilburton	distanceToLondon	96560.64
+Steyning	distanceToLondon	69201.792
+Pickering, North Yorkshire	distanceToLondon	385116.0192
+Nelson, Lancashire	distanceToLondon	296119.296
+Washington, West Sussex	distanceToLondon	69201.792
+Measham	distanceToLondon	177000.0
+Hartfield	distanceToLondon	46670.976
+Pagham	distanceToLondon	91732.608
+Shawbury	distanceToLondon	262323.072
+Battle, East Sussex	distanceToLondon	77248.512
+Aldermaston	distanceToLondon	72420.48
+Wing, Rutland	distanceToLondon	130356.864
+Middlewich	distanceToLondon	246229.632
+Hulme	distanceToLondon	260713.728
+Isfield	distanceToLondon	64373.76
+Ashmore	distanceToLondon	186683.904
+Burton Bradstock	distanceToLondon	233354.88
+Affpuddle	distanceToLondon	194730.624
+Alderholt	distanceToLondon	168981.12
+Alton Pancras	distanceToLondon	209214.72
+Batcombe, Dorset	distanceToLondon	225308.16
+Bere Regis	distanceToLondon	189902.592
+Bincombe	distanceToLondon	215652.096
+Stretford	distanceToLondon	262323.072
+Hurstpierpoint	distanceToLondon	62764.416
+Odiham	distanceToLondon	62764.416
+Melcombe Horsey	distanceToLondon	223698.816
+Hailsham	distanceToLondon	98813.7216
+Waddington, Lincolnshire	distanceToLondon	185074.56
+Arne, Dorset	distanceToLondon	194730.624
+Middleton, Greater Manchester	distanceToLondon	267151.104
+Airth	distanceToLondon	561661.056
+Bellshill	distanceToLondon	548786.304
+Denny, Falkirk	distanceToLondon	560051.712
+Littleborough, Greater Manchester	distanceToLondon	273588.48
+Barnards Green	distanceToLondon	165762.432
+Stowmarket	distanceToLondon	143392.5504
+Castleton, Greater Manchester	distanceToLondon	270369.792
+Chew Stoke	distanceToLondon	178637.184
+Worth, West Sussex	distanceToLondon	43452.288
+Wollaston, Northamptonshire	distanceToLondon	112332.2112
+Linton, Kent	distanceToLondon	54717.696
+Burwash	distanceToLondon	65983.104
+Lockeridge	distanceToLondon	119091.456
+Cuckmere Valley	distanceToLondon	80467.2
+Elmer, West Sussex	distanceToLondon	85295.232
+Long Man	distanceToLondon	77248.512
+Selsey	distanceToLondon	96560.64
+Miles Platting	distanceToLondon	262323.072
+Kibworth	distanceToLondon	162543.744
+Henfield	distanceToLondon	64373.76
+Netherlee	distanceToLondon	550395.648
+Royton	distanceToLondon	265541.76
+Crick, Northamptonshire	distanceToLondon	125528.832
+Ashby St Ledgers	distanceToLondon	125528.832
+Barby, Northamptonshire	distanceToLondon	135184.896
+Badby	distanceToLondon	120700.8
+Boughton, Northamptonshire	distanceToLondon	115872.768
+West Haddon	distanceToLondon	130356.864
+Coseley	distanceToLondon	182338.6752
+Croughton, Northamptonshire	distanceToLondon	109435.392
+Hollowell	distanceToLondon	119091.456
+Creaton	distanceToLondon	117482.112
+Cottesbrooke	distanceToLondon	131966.208
+Horam	distanceToLondon	67592.448
+Withyham	distanceToLondon	48280.32
+Dartford	distanceToLondon	30255.6672
+Stoke Bruerne	distanceToLondon	102998.016
+Heywood, Greater Manchester	distanceToLondon	271979.136
+Salehurst	distanceToLondon	70811.136
+Stretton, Rutland	distanceToLondon	141622.272
+Barnton	distanceToLondon	294509.952
+Horwich	distanceToLondon	284853.888
+Cropredy	distanceToLondon	131483.4048
+Barry, Vale of Glamorgan	distanceToLondon	264093.3504
+Langham, Rutland	distanceToLondon	140012.928
+Maresfield	distanceToLondon	57936.384
+Saltburn-by-the-Sea	distanceToLondon	263.1
+Malton, North Yorkshire	distanceToLondon	371275.6608
+Boxgrove	distanceToLondon	82076.544
+Slindon	distanceToLondon	78857.856
+Ae, Scotland	distanceToLondon	547176.96
+Ramsbottom	distanceToLondon	280025.856
+Robertsbridge	distanceToLondon	70811.136
+Wick, Highland	distanceToLondon	1015496.064
+Old Basing	distanceToLondon	79823.4624
+Pickworth, Rutland	distanceToLondon	138403.584
+Mountsorrel	distanceToLondon	152887.68
+Turriff	distanceToLondon	915716.736
+Bedminster, Bristol	distanceToLondon	124.0
+Flash, Staffordshire	distanceToLondon	170.7
+Alvechurch	distanceToLondon	159325.056
+Wootton Wawen	distanceToLondon	173809.152
+Great Casterton	distanceToLondon	133575.552
+Urmston	distanceToLondon	265541.76
+Churchill, Oxfordshire	distanceToLondon	124402.2912
+Ryhall	distanceToLondon	133575.552
+Bacton, Norfolk	distanceToLondon	223698.816
+Walcott, Norfolk	distanceToLondon	220480.128
+Blackley	distanceToLondon	186.0
+Northenden	distanceToLondon	255885.696
+Areley Kings	distanceToLondon	175418.496
+Little Casterton	distanceToLondon	133575.552
+Southwick, West Sussex	distanceToLondon	74029.824
+All Stretton	distanceToLondon	254276.352
+Little Stretton, Shropshire	distanceToLondon	254276.352
+Greater Glasgow	distanceToLondon	648565.632
+Loftus, North Yorkshire	distanceToLondon	423740.2752
+Strathpeffer	distanceToLondon	965606.4
+Bosham	distanceToLondon	91732.608
+Barnwell, Northamptonshire	distanceToLondon	125528.832
+King's Sutton	distanceToLondon	99779.328
+Sompting	distanceToLondon	75639.168
+Cranfield	distanceToLondon	83685.888
+Sulgrave	distanceToLondon	117482.112
+Castle Ashby	distanceToLondon	104607.36
+Lyminster	distanceToLondon	80467.2
+Ashton, South Northamptonshire	distanceToLondon	107826.048
+Cogenhoe	distanceToLondon	114263.424
+Grafton Regis	distanceToLondon	102998.016
+Turners Hill	distanceToLondon	43452.288
+Harpole	distanceToLondon	111044.736
+Helmdon	distanceToLondon	115872.768
+Potterspury	distanceToLondon	98169.984
+Bodiam	distanceToLondon	72420.48
+Winsford	distanceToLondon	249448.32
+Dorrington, Lincolnshire	distanceToLondon	175418.496
+Yardley Hastings	distanceToLondon	102998.016
+Yardley Gobion	distanceToLondon	99779.328
+Woodend, Northamptonshire	distanceToLondon	111044.736
+Gedney Hill	distanceToLondon	159325.056
+Wilby, Northamptonshire	distanceToLondon	112332.2112
+Whiston, Northamptonshire	distanceToLondon	115872.768
+Haughton-le-Skerne	distanceToLondon	405554.688
+Atherton, Greater Manchester	distanceToLondon	275197.824
+Welton, Northamptonshire	distanceToLondon	222089.472
+Addlethorpe	distanceToLondon	230136.192
+Rye Harbour	distanceToLondon	86904.576
+Ringmer	distanceToLondon	69201.792
+Ditchling	distanceToLondon	59545.728
+Tixover	distanceToLondon	127138.176
+Hurlford	distanceToLondon	650174.976
+Hassocks	distanceToLondon	64373.76
+Prestwich	distanceToLondon	267151.104
+Radcliffe, Greater Manchester	distanceToLondon	273588.48
+Pendlebury	distanceToLondon	268760.448
+Eccles, Greater Manchester	distanceToLondon	265541.76
+Meads	distanceToLondon	86904.576
+North Luffenham	distanceToLondon	128747.52
+Woodseaves	distanceToLondon	241401.6
+Whitwell, Rutland	distanceToLondon	135184.896
+Charlwood	distanceToLondon	45061.632
+Trimingham	distanceToLondon	223698.816
+Swinton, Greater Manchester	distanceToLondon	268760.448
+Herstmonceux	distanceToLondon	74029.824
+Overstrand	distanceToLondon	220480.128
+Hurst Green, East Sussex	distanceToLondon	67592.448
+Glynde and Beddingham	distanceToLondon	72420.48
+Firle	distanceToLondon	75639.168
+Cronton	distanceToLondon	275197.824
+Barcombe	distanceToLondon	65983.104
+Curdworth	distanceToLondon	186201.1008
+Braunston-in-Rutland	distanceToLondon	135184.896
+Aspley Guise	distanceToLondon	77248.512
+Normanton on Soar	distanceToLondon	188293.248
+Flimwell	distanceToLondon	62764.416
+Balsham	distanceToLondon	94951.296
+Waltham Cross	distanceToLondon	19312.128
+Mendlesham	distanceToLondon	117700.0
+Mendlesham	distanceToLondon	117699.37344
+Cockerham	distanceToLondon	328306.176
+Rothersthorpe	distanceToLondon	106216.704
+Fairlight, East Sussex	distanceToLondon	86904.576
+Cosgrove, Northamptonshire	distanceToLondon	99779.328
+Bramber	distanceToLondon	70811.136
+Findon, West Sussex	distanceToLondon	72420.48
+East Hoathly with Halland	distanceToLondon	67592.448
+Southwater	distanceToLondon	54717.696
+Delph	distanceToLondon	263932.416
+Rustington	distanceToLondon	82076.544
+Whissendine	distanceToLondon	143231.616
+Bugbrooke	distanceToLondon	119091.456
+Aldwick	distanceToLondon	90123.264
+Oakley, Hampshire	distanceToLondon	77248.512
+Pulborough	distanceToLondon	65983.104
+Catshill	distanceToLondon	164153.088
+Milton Malsor	distanceToLondon	106216.704
+Ashwell, Rutland	distanceToLondon	141622.272
+Ayston	distanceToLondon	128747.52
+Barleythorpe	distanceToLondon	138403.584
+Barrow, Rutland	distanceToLondon	141622.272
+Barrowden	distanceToLondon	125528.832
+Belton-in-Rutland	distanceToLondon	131966.208
+Bisbrooke	distanceToLondon	127138.176
+Brooke, Rutland	distanceToLondon	133575.552
+Burley, Rutland	distanceToLondon	138403.584
+Caldecott, Rutland	distanceToLondon	122310.144
+Clipsham	distanceToLondon	141622.272
+Cottesmore, Rutland	distanceToLondon	140012.928
+Edith Weston	distanceToLondon	131966.208
+Egleton	distanceToLondon	135184.896
+Empingham	distanceToLondon	133575.552
+Essendine	distanceToLondon	135184.896
+Exton, Rutland	distanceToLondon	136794.24
+Glaston	distanceToLondon	127138.176
+Greetham, Rutland	distanceToLondon	140012.928
+Gunthorpe, Rutland	distanceToLondon	133575.552
+Hambleton, Rutland	distanceToLondon	135184.896
+Ketton	distanceToLondon	128747.52
+Lyddington	distanceToLondon	125528.832
+Lyndon, Rutland	distanceToLondon	130356.864
+Manton, Rutland	distanceToLondon	131966.208
+Market Overton	distanceToLondon	141622.272
+Morcott	distanceToLondon	127138.176
+Normanton, Rutland	distanceToLondon	131966.208
+Pilton, Rutland	distanceToLondon	128747.52
+Preston, Rutland	distanceToLondon	130356.864
+Ridlington	distanceToLondon	131966.208
+Seaton, Rutland	distanceToLondon	125528.832
+Stoke Dry	distanceToLondon	125528.832
+Teigh	distanceToLondon	143231.616
+South Luffenham	distanceToLondon	127138.176
+Thorpe by Water	distanceToLondon	123919.488
+Thistleton	distanceToLondon	143231.616
+Tinwell	distanceToLondon	131966.208
+Tickencote	distanceToLondon	133575.552
+Ticehurst	distanceToLondon	62764.416
+Cholsey	distanceToLondon	72420.48
+Earnley	distanceToLondon	96560.64
+Hook, Hart	distanceToLondon	67592.448
+Martinsthorpe	distanceToLondon	133575.552
+Beaumont Chase	distanceToLondon	127138.176
+Wormshill	distanceToLondon	77248.512
+Leighfield	distanceToLondon	131966.208
+Horn, Rutland	distanceToLondon	136794.24
+Hollinwood, Greater Manchester	distanceToLondon	262323.072
+Ninfield	distanceToLondon	78857.856
+Edenfield	distanceToLondon	281957.0688
+Queensbury, West Yorkshire	distanceToLondon	342790.272
+Great Alne	distanceToLondon	177027.84
+Icklesham	distanceToLondon	85295.232
+Whissonsett	distanceToLondon	180246.528
+Poling, West Sussex	distanceToLondon	78857.856
+Fernhurst	distanceToLondon	65983.104
+West Hoathly	distanceToLondon	46670.976
+Felpham	distanceToLondon	86904.576
+Camber, East Sussex	distanceToLondon	90123.264
+Cheetham Hill	distanceToLondon	263932.416
+Stanford Dingley	distanceToLondon	73064.2176
+Uppermill	distanceToLondon	259104.384
+Heathfield, East Sussex	distanceToLondon	64373.76
+Bredbury	distanceToLondon	252667.008
+Woodford, Greater Manchester	distanceToLondon	246229.632
+Etchingham	distanceToLondon	67592.448
+Northern Quarter (Manchester)	distanceToLondon	262323.072
+Hartwell, Northamptonshire	distanceToLondon	99779.328
+Blakedown	distanceToLondon	173809.152
+Lostock Hall	distanceToLondon	302556.672
+Kinnerley	distanceToLondon	278416.512
+Livingston Village	distanceToLondon	516599.424
+Prickwillow	distanceToLondon	104607.36
+Ab Kettleby	distanceToLondon	154497.024
+Ab Lench	distanceToLondon	148059.648
+Abberton, Worcestershire	distanceToLondon	149668.992
+Abbots Morton	distanceToLondon	149668.992
+Inverie	distanceToLondon	716158.08
+Abram, Greater Manchester	distanceToLondon	278416.512
+Ashurst Wood	distanceToLondon	45061.632
+Modbury	distanceToLondon	291291.264
+Buxted	distanceToLondon	59545.728
+Thurlestone	distanceToLondon	294509.952
+Addingham	distanceToLondon	352929.1392
+Inverkip	distanceToLondon	579363.84
+Kilmacolm	distanceToLondon	571317.12
+Astley, Greater Manchester	distanceToLondon	262323.072
+Assynt	distanceToLondon	1025152.128
+Wardle, Greater Manchester	distanceToLondon	273588.48
+Tilton on the Hill	distanceToLondon	137116.1088
+Crofton, Cumbria	distanceToLondon	420038.784
+Olton	distanceToLondon	188293.248
+Hooe, East Sussex	distanceToLondon	80467.2
+Eydon	distanceToLondon	117482.112
+Newick	distanceToLondon	59545.728
+Buckland Common	distanceToLondon	46670.976
+Amberley, West Sussex	distanceToLondon	72420.48
+Watlington, Oxfordshire	distanceToLondon	69201.792
+Northwold	distanceToLondon	153000.0
+Foulsham	distanceToLondon	191511.936
+Whitwell, Isle of Wight	distanceToLondon	153096.89472
+Balcombe, West Sussex	distanceToLondon	49889.664
+Grayrigg	distanceToLondon	360493.056
+Whitecrook	distanceToLondon	563270.4
+Middleton-on-Sea	distanceToLondon	85295.232
+Ardingly	distanceToLondon	49889.664
+Airton	distanceToLondon	376586.496
+Peasmarsh	distanceToLondon	80467.2
+Appin	distanceToLondon	820765.44
+Westbourne, West Sussex	distanceToLondon	90123.264
+Avonbridge	distanceToLondon	547176.96
+Mauchline	distanceToLondon	611550.72
+Storrington and Sullington	distanceToLondon	69201.792
+Forest Row	distanceToLondon	46670.976
+Southease	distanceToLondon	75639.168
+Alderton, Northamptonshire	distanceToLondon	99779.328
+Croxton Kerrial	distanceToLondon	156106.368
+Crowhurst, East Sussex	distanceToLondon	80467.2
+Withington, Herefordshire	distanceToLondon	180000.0
+Burghill	distanceToLondon	140.0
+Appleby Magna	distanceToLondon	163000.0
+Swepstone	distanceToLondon	172000.0
+Albourne	distanceToLondon	54717.696
+Alciston	distanceToLondon	77248.512
+Blackrod	distanceToLondon	284853.888
+Hockley Heath	distanceToLondon	180246.528
+Shaw and Crompton	distanceToLondon	267151.104
+Monifieth	distanceToLondon	590629.248
+Aldborough, Norfolk	distanceToLondon	214042.752
+Aldingbourne	distanceToLondon	83685.888
+Alby with Thwaite	distanceToLondon	212433.408
+Aldington, Worcestershire	distanceToLondon	140012.928
+Alfrick	distanceToLondon	173809.152
+Alfriston	distanceToLondon	78857.856
+Antingham	distanceToLondon	215652.096
+Apethorpe	distanceToLondon	120700.8
+Apuldram	distanceToLondon	90123.264
+Appletreewick	distanceToLondon	305775.36
+Arlington, East Sussex	distanceToLondon	75639.168
+North Horsham	distanceToLondon	48280.32
+Quinton, Northamptonshire	distanceToLondon	106216.704
+Tyldesley	distanceToLondon	273588.48
+Ashington, West Sussex	distanceToLondon	65983.104
+Ashley, Northamptonshire	distanceToLondon	148059.648
+Ashton under Hill	distanceToLondon	144840.96
+Ashurst, West Sussex	distanceToLondon	64373.76
+Askerswell	distanceToLondon	225308.16
+Aston le Walls	distanceToLondon	115872.768
+Aylmerton	distanceToLondon	220480.128
+Baconsthorpe	distanceToLondon	209214.72
+Badsey	distanceToLondon	140012.928
+Barlavington	distanceToLondon	72420.48
+Barnham, West Sussex	distanceToLondon	82076.544
+Barsham, Norfolk	distanceToLondon	188293.248
+Barton Bendish	distanceToLondon	162543.744
+Barton Seagrave	distanceToLondon	130356.864
+Bayton	distanceToLondon	186683.904
+Beckford, Worcestershire	distanceToLondon	146450.304
+Billingshurst	distanceToLondon	57936.384
+Beckley, East Sussex	distanceToLondon	77248.512
+Beeston Regis	distanceToLondon	225308.16
+Belbroughton	distanceToLondon	170590.464
+Benefield	distanceToLondon	133575.552
+Beoley	distanceToLondon	152887.68
+Bepton	distanceToLondon	75639.168
+Berrow, Worcestershire	distanceToLondon	160934.4
+Bersted	distanceToLondon	88513.92
+Berwick, East Sussex	distanceToLondon	77248.512
+Besford	distanceToLondon	154497.024
+Bickmarsh	distanceToLondon	140012.928
+Bignor	distanceToLondon	69201.792
+Church, Lancashire	distanceToLondon	371758.464
+Broadstone, Dorset	distanceToLondon	175418.496
+Westfield, East Sussex	distanceToLondon	82076.544
+Norton-on-Derwent	distanceToLondon	372241.2672
+Binham	distanceToLondon	199558.656
+Birdham	distanceToLondon	93341.952
+Birlingham	distanceToLondon	152887.68
+Birtsmorton	distanceToLondon	160934.4
+Bishampton	distanceToLondon	151278.336
+Bishop's Caundle	distanceToLondon	207605.376
+Blakesley	distanceToLondon	112654.08
+Blatherwycke	distanceToLondon	125528.832
+Blickling	distanceToLondon	205996.032
+Blisworth	distanceToLondon	106216.704
+Blyton	distanceToLondon	246229.632
+Upper Beeding	distanceToLondon	69201.792
+Bockleton	distanceToLondon	191511.936
+Boddington, Northamptonshire	distanceToLondon	107826.048
+Bodham	distanceToLondon	210824.064
+Bolney	distanceToLondon	56327.04
+Bolton Percy	distanceToLondon	337962.24
+Boughton, Norfolk	distanceToLondon	157232.9088
+Bournheath	distanceToLondon	165762.432
+Kilmaurs	distanceToLondon	543958.272
+Bozeat	distanceToLondon	104607.36
+Saham Toney	distanceToLondon	162543.744
+Broadbridge Heath	distanceToLondon	49889.664
+Bradden	distanceToLondon	111044.736
+Ingworth	distanceToLondon	207605.376
+Toftrees	distanceToLondon	181855.872
+Lindfield, West Sussex	distanceToLondon	54717.696
+Parham, West Sussex	distanceToLondon	69201.792
+Whitbourne, Herefordshire	distanceToLondon	146.0
+Sedgeford	distanceToLondon	170000.0
+Chiddingly	distanceToLondon	69201.792
+Stretham	distanceToLondon	102998.016
+Neilston	distanceToLondon	553614.336
+Sloley	distanceToLondon	205996.032
+Mountfield, East Sussex	distanceToLondon	74029.824
+Rotherfield	distanceToLondon	56327.04
+Fletching, East Sussex	distanceToLondon	57936.384
+North Runcton	distanceToLondon	164153.088
+Gunthorpe, Norfolk	distanceToLondon	196339.968
+Hindringham	distanceToLondon	196339.968
+Silsoe	distanceToLondon	62764.416
+Brede, East Sussex	distanceToLondon	80467.2
+Brightling	distanceToLondon	69201.792
+Catsfield	distanceToLondon	78857.856
+Dallington, East Sussex	distanceToLondon	69201.792
+East Guldeford	distanceToLondon	85295.232
+Ewhurst, East Sussex	distanceToLondon	74029.824
+Guestling	distanceToLondon	85295.232
+Iden, East Sussex	distanceToLondon	82076.544
+Northiam	distanceToLondon	75639.168
+Pett	distanceToLondon	86904.576
+Playden	distanceToLondon	83685.888
+Rye Foreign	distanceToLondon	82076.544
+Sedlescombe	distanceToLondon	77248.512
+Udimore	distanceToLondon	83685.888
+Whatlington	distanceToLondon	75639.168
+Danehill, East Sussex	distanceToLondon	53108.352
+East Dean and Friston	distanceToLondon	85295.232
+Mayfield and Five Ashes	distanceToLondon	59545.728
+Easebourne	distanceToLondon	70811.136
+Willingdon and Jevington	distanceToLondon	82076.544
+Stody	distanceToLondon	201168.0
+Heathfield and Waldron	distanceToLondon	64373.76
+Framfield	distanceToLondon	62764.416
+Hellingly	distanceToLondon	72420.48
+Laughton, East Sussex	distanceToLondon	69201.792
+Little Horsted	distanceToLondon	62764.416
+Frant	distanceToLondon	53108.352
+Cropthorne	distanceToLondon	144840.96
+Piddinghoe	distanceToLondon	77248.512
+Washingborough	distanceToLondon	228526.848
+Hadlow Down	distanceToLondon	59545.728
+Selmeston	distanceToLondon	75639.168
+Warbleton	distanceToLondon	67592.448
+Wartling	distanceToLondon	78857.856
+Chailey	distanceToLondon	48280.32
+East Chiltington	distanceToLondon	65983.104
+Glynde	distanceToLondon	72420.48
+Hamsey	distanceToLondon	67592.448
+Iford, East Sussex	distanceToLondon	72420.48
+Kingston near Lewes	distanceToLondon	72420.48
+Plumpton, East Sussex	distanceToLondon	65983.104
+St Ann Without	distanceToLondon	70811.136
+St John Without	distanceToLondon	65983.104
+Wivelsfield	distanceToLondon	59545.728
+Telscombe	distanceToLondon	77248.512
+Westmeston	distanceToLondon	65983.104
+Streat	distanceToLondon	64373.76
+South Heighton	distanceToLondon	78857.856
+Tarring Neville	distanceToLondon	77248.512
+Westham	distanceToLondon	82076.544
+Coombes	distanceToLondon	72420.48
+Burpham	distanceToLondon	75639.168
+Clymping	distanceToLondon	83685.888
+Dumbleton	distanceToLondon	144840.96
+Ansty and Staplefield	distanceToLondon	56327.04
+Ferring	distanceToLondon	80467.2
+Eastergate	distanceToLondon	82076.544
+East Preston, West Sussex	distanceToLondon	80467.2
+Houghton, West Sussex	distanceToLondon	74029.824
+Ford, West Sussex	distanceToLondon	82076.544
+Broughton, Greater Manchester	distanceToLondon	265541.76
+Madehurst	distanceToLondon	77248.512
+Patching	distanceToLondon	77248.512
+South Stoke, West Sussex	distanceToLondon	75639.168
+Walberton	distanceToLondon	80467.2
+Warningcamp	distanceToLondon	77248.512
+Yapton	distanceToLondon	83685.888
+Kingston by Ferring	distanceToLondon	80467.2
+Ashton upon Mersey	distanceToLondon	260713.728
+Denton, East Sussex	distanceToLondon	78857.856
+Fulking	distanceToLondon	67592.448
+Lindfield Rural	distanceToLondon	54717.696
+Newtimber	distanceToLondon	65983.104
+Poynings	distanceToLondon	67592.448
+Pyecombe	distanceToLondon	67592.448
+Slaugham	distanceToLondon	51499.008
+Twineham	distanceToLondon	59545.728
+Castle Acre	distanceToLondon	165762.432
+Fovant	distanceToLondon	160934.4
+Sowerby, West Yorkshire	distanceToLondon	273588.48
+Stanford, Norfolk	distanceToLondon	147898.7136
+Illington	distanceToLondon	148542.4512
+Irchester	distanceToLondon	93341.952
+Bonnybridge	distanceToLondon	558442.368
+Heyshott	distanceToLondon	74029.824
+Stedham with Iping	distanceToLondon	72420.48
+Lodsworth	distanceToLondon	67592.448
+Deanshanger	distanceToLondon	88513.92
+Elworth	distanceToLondon	254276.352
+Kinwarton	distanceToLondon	142909.7472
+Sambourne	distanceToLondon	193121.28
+Graffham	distanceToLondon	72420.48
+Lurgashall	distanceToLondon	64373.76
+Trotton with Chithurst	distanceToLondon	74029.824
+Rogate	distanceToLondon	75639.168
+Milland	distanceToLondon	70811.136
+Harting	distanceToLondon	77248.512
+Cocking, West Sussex	distanceToLondon	75639.168
+Blackness, Linlithgow	distanceToLondon	548786.304
+West Lavington, West Sussex	distanceToLondon	72420.48
+Linch	distanceToLondon	69201.792
+Elsted and Treyford	distanceToLondon	77248.512
+Linchmere	distanceToLondon	65983.104
+Happisburgh	distanceToLondon	220480.128
+Felbrigg	distanceToLondon	218870.784
+Shawforth	distanceToLondon	278416.512
+Horton, Northamptonshire	distanceToLondon	99779.328
+Thakeham	distanceToLondon	65983.104
+Tide Mills, East Sussex	distanceToLondon	80467.2
+Snitterfield	distanceToLondon	162543.744
+Killearn	distanceToLondon	643737.6
+Maidford	distanceToLondon	114263.424
+Ifold	distanceToLondon	56327.04
+Hanworth, Norfolk	distanceToLondon	214042.752
+Olivers Battery	distanceToLondon	62.2
+Barry, Angus	distanceToLondon	590629.248
+Chalvington with Ripe	distanceToLondon	74029.824
+East Blatchington	distanceToLondon	107826.048
+Wood End, Atherstone	distanceToLondon	157715.712
+Morvern	distanceToLondon	912498.048
+Morvern	distanceToLondon	846514.944
+Allandale, Falkirk	distanceToLondon	558442.368
+Haggs	distanceToLondon	558442.368
+Banknock	distanceToLondon	560051.712
+Reepham, Norfolk	distanceToLondon	202777.344
+Kingston Lisle	distanceToLondon	102998.016
+Aldreth	distanceToLondon	99779.328
+Piddington, Northamptonshire	distanceToLondon	104607.36
+Netherton, Worcestershire	distanceToLondon	144840.96
+Sunninghill, Berkshire	distanceToLondon	37014.912
+Mundesley	distanceToLondon	218870.784
+Hawley, Hampshire	distanceToLondon	53108.352
+Appleby Parva	distanceToLondon	163000.0
+Dunipace	distanceToLondon	561661.056
+Strathblane	distanceToLondon	576145.152
+Sheffield City Centre	distanceToLondon	231745.536
+Leeds city centre	distanceToLondon	305775.36
+Lelant	distanceToLondon	482803.2
+West Hunsbury	distanceToLondon	107826.048
+Solihull	distanceToLondon	181855.872
+West Chiltington	distanceToLondon	64373.76
+Plaistow, West Sussex	distanceToLondon	57936.384
+Staylittle	distanceToLondon	339571.584
+Roade	distanceToLondon	106216.704
+Nuthurst	distanceToLondon	54717.696
+Spernall	distanceToLondon	181855.872
+Letheringsett with Glandford	distanceToLondon	202777.344
+East Lexham	distanceToLondon	170590.464
+West Lexham	distanceToLondon	168981.12
+Northlew	distanceToLondon	333134.208
+Collingtree	distanceToLondon	104607.36
+Weybourne, Norfolk	distanceToLondon	210824.064
+Longcroft, Falkirk	distanceToLondon	556833.024
+Upton, Northamptonshire	distanceToLondon	109435.392
+Ravenscraig	distanceToLondon	632472.192
+Nutley, East Sussex	distanceToLondon	53108.352
+Old Malden	distanceToLondon	16093.44
+Hebden, North Yorkshire	distanceToLondon	309798.72
+Thorpe Abbotts	distanceToLondon	170590.464
+Topcroft	distanceToLondon	191511.936
+Saxlingham	distanceToLondon	202777.344
+Hindolveston	distanceToLondon	210824.064
+Briningham	distanceToLondon	199558.656
+Brinton, Norfolk	distanceToLondon	201168.0
+Briston	distanceToLondon	201168.0
+Catfield	distanceToLondon	218870.784
+Colby, Norfolk	distanceToLondon	210824.064
+Little Snoring	distanceToLondon	189902.592
+Lessingham	distanceToLondon	218870.784
+Kingston Blount	distanceToLondon	53108.352
+Helhoughton	distanceToLondon	180246.528
+East Beckham	distanceToLondon	220480.128
+Tatterford	distanceToLondon	180246.528
+Langham, Norfolk	distanceToLondon	202777.344
+Kelling	distanceToLondon	209214.72
+Plumstead, Norfolk	distanceToLondon	215652.096
+Edgefield, Norfolk	distanceToLondon	204386.688
+Knapton	distanceToLondon	215652.096
+Guestwick	distanceToLondon	210824.064
+West Beckham	distanceToLondon	210824.064
+Roughton, Norfolk	distanceToLondon	215652.096
+Fulmodeston	distanceToLondon	193121.28
+Wappenham	distanceToLondon	112654.08
+Tiffield	distanceToLondon	107826.048
+St Vigeans	distanceToLondon	597066.624
+Pewsham	distanceToLondon	138403.584
+Waterfoot, East Renfrewshire	distanceToLondon	547176.96
+Mileham	distanceToLondon	207605.376
+Singleton, West Sussex	distanceToLondon	78857.856
+Selsey Bill	distanceToLondon	96560.64
+East Hunsbury	distanceToLondon	106216.704
+Astley, Worcestershire	distanceToLondon	175418.496
+Tangmere	distanceToLondon	83685.888
+Redding, Falkirk	distanceToLondon	552004.992
+Brightons	distanceToLondon	550395.648
+Westquarter	distanceToLondon	552004.992
+Camelon	distanceToLondon	556833.024
+Newton, Derbyshire	distanceToLondon	197949.312
+Hinton-in-the-Hedges	distanceToLondon	112654.08
+Fixby	distanceToLondon	265541.76
+Warnham	distanceToLondon	48280.32
+Abthorpe	distanceToLondon	101388.672
+Deane, Greater Manchester	distanceToLondon	278416.512
+Chidham and Hambrook	distanceToLondon	91732.608
+Hollybush, Worcestershire	distanceToLondon	149668.992
+Deane, Hampshire	distanceToLondon	57.6
+Hanley Swan	distanceToLondon	156106.368
+Pattishall	distanceToLondon	115872.768
+Honing, Norfolk	distanceToLondon	217261.44
+Gayton, Northamptonshire	distanceToLondon	111044.736
+Heighington, Lincolnshire	distanceToLondon	225308.16
+Wigan	distanceToLondon	283244.544
+Christmas Common	distanceToLondon	69201.792
+Wardley, Rutland	distanceToLondon	130356.864
+Gayton, Norfolk	distanceToLondon	175418.496
+Buckley, Greater Manchester	distanceToLondon	273588.48
+Oving, West Sussex	distanceToLondon	85295.232
+Loxwood	distanceToLondon	54717.696
+North Witham	distanceToLondon	164153.088
+Northchapel	distanceToLondon	61155.072
+Flaxley	distanceToLondon	167371.776
+West Grinstead	distanceToLondon	61155.072
+Little Hulton	distanceToLondon	273588.48
+Pitton	distanceToLondon	120926.10816
+Ridlington, Norfolk	distanceToLondon	222089.472
+Tovil	distanceToLondon	53108.352
+Tacolneston	distanceToLondon	140012.928
+Loose, Kent	distanceToLondon	54717.696
+Furner's Green	distanceToLondon	53108.352
+Ainsworth, Greater Manchester	distanceToLondon	276807.168
+Tillington, West Sussex	distanceToLondon	67592.448
+Clayton, West Sussex	distanceToLondon	65983.104
+Matlaske	distanceToLondon	218870.784
+Wickmere	distanceToLondon	214042.752
+Sustead	distanceToLondon	217261.44
+Sidestrand	distanceToLondon	222089.472
+Tuttington	distanceToLondon	207605.376
+Sibdon Carwood	distanceToLondon	246229.632
+Bell End	distanceToLondon	168981.12
+Cove, Hampshire	distanceToLondon	53108.352
+Quarrier's Village	distanceToLondon	569707.776
+Coldwaltham	distanceToLondon	69201.792
+Blackwell, Worcestershire	distanceToLondon	160934.4
+Lavant, West Sussex	distanceToLondon	83685.888
+Scholes, Greater Manchester	distanceToLondon	283244.544
+Kislingbury	distanceToLondon	111044.736
+Teviothead	distanceToLondon	547176.96
+Dordon	distanceToLondon	159325.056
+North Warnborough	distanceToLondon	61155.072
+Wisborough Green	distanceToLondon	59545.728
+Southbourne, West Sussex	distanceToLondon	91732.608
+Grange Park, Northamptonshire	distanceToLondon	104607.36
+Courteenhall	distanceToLondon	104607.36
+East Farleigh	distanceToLondon	51499.008
+Coxheath	distanceToLondon	54717.696
+Fishbourne, West Sussex	distanceToLondon	88513.92
+Aston Fields	distanceToLondon	164153.088
+Muchalls	distanceToLondon	820765.44
+Hackleton	distanceToLondon	102998.016
+Well Hill	distanceToLondon	25749.504
+Owston Ferry	distanceToLondon	225308.16
+Fittleworth	distanceToLondon	67592.448
+Upwaltham	distanceToLondon	75639.168
+Chineham	distanceToLondon	68879.9232
+Gopsall	distanceToLondon	170000.0
+Haxey	distanceToLondon	222089.472
+Bigbury-on-Sea	distanceToLondon	297728.64
+Ebernoe	distanceToLondon	49889.664
+Duncton	distanceToLondon	70811.136
+Kirdford	distanceToLondon	61155.072
+Gisburn	distanceToLondon	305775.36
+East Lavington	distanceToLondon	72420.48
+Stopham	distanceToLondon	67592.448
+Flitcham, Norfolk	distanceToLondon	180246.528
+Sutton, West Sussex	distanceToLondon	72420.48
+Woodmancote, West Sussex	distanceToLondon	65983.104
+Eartham	distanceToLondon	78857.856
+Woolbeding	distanceToLondon	70811.136
+Sidlesham	distanceToLondon	91732.608
+Atch Lench	distanceToLondon	146450.304
+Astley Cross	distanceToLondon	175418.496
+Bank Street, Worcestershire	distanceToLondon	186683.904
+Baughton	distanceToLondon	156106.368
+Berrow Green	distanceToLondon	175418.496
+Besford Bridge	distanceToLondon	154497.024
+Birts Street	distanceToLondon	164153.088
+Blackminster	distanceToLondon	140012.928
+Bliss Gate	distanceToLondon	181855.872
+Bowling Green, Worcestershire	distanceToLondon	165762.432
+Blakeshall	distanceToLondon	178637.184
+Bradley Green, Worcestershire	distanceToLondon	156106.368
+Bransford	distanceToLondon	168981.12
+Bretforton	distanceToLondon	138403.584
+Bricklehampton	distanceToLondon	148059.648
+Clent	distanceToLondon	168981.12
+Himbleton	distanceToLondon	160934.4
+Banningham	distanceToLondon	207605.376
+Barcombe Cross	distanceToLondon	64373.76
+West Wittering	distanceToLondon	96560.64
+Bury, West Sussex	distanceToLondon	72420.48
+Ashton, Cambridgeshire	distanceToLondon	125528.832
+East Dean, West Sussex	distanceToLondon	77248.512
+Bainsford	distanceToLondon	556833.024
+West Dean, West Sussex	distanceToLondon	80467.2
+Caldecote, Northamptonshire	distanceToLondon	106216.704
+Slamannan	distanceToLondon	550395.648
+Walsall Wood	distanceToLondon	202777.344
+Barcombe Mills	distanceToLondon	64373.76
+Rudgwick	distanceToLondon	51499.008
+Navenby	distanceToLondon	178637.184
+Drewsteignton	distanceToLondon	305775.36
+Upper Sheringham	distanceToLondon	212433.408
+Wallacestone	distanceToLondon	552004.992
+Northrepps	distanceToLondon	218870.784
+Bale, Norfolk	distanceToLondon	197949.312
+South Raynham	distanceToLondon	175418.496
+West Raynham	distanceToLondon	177027.84
+East Raynham	distanceToLondon	177027.84
+Lenwade	distanceToLondon	197949.312
+Keymer	distanceToLondon	64373.76
+Cowfold	distanceToLondon	57936.384
+Gidleigh	distanceToLondon	315431.424
+Swafield	distanceToLondon	212433.408
+Ronkswood	distanceToLondon	166888.9728
+Thorpe Market	distanceToLondon	217261.44
+West Thorney	distanceToLondon	94951.296
+Westhampnett	distanceToLondon	85295.232
+Thornage	distanceToLondon	201168.0
+Compton, West Sussex	distanceToLondon	83685.888
+Little Houghton, Northamptonshire	distanceToLondon	112654.08
+Cold Higham	distanceToLondon	114263.424
+Stoughton, West Sussex	distanceToLondon	85295.232
+Little Barningham	distanceToLondon	214042.752
+Duggleby	distanceToLondon	373367.808
+Southrepps	distanceToLondon	218870.784
+Brentwood, Essex	distanceToLondon	32186.88
+Sea Palling	distanceToLondon	225308.16
+Suffield, Norfolk	distanceToLondon	212433.408
+Hempton	distanceToLondon	183465.216
+Torwood	distanceToLondon	561661.056
+Tunshill	distanceToLondon	270369.792
+Eltisley	distanceToLondon	80467.2
+Ryburgh	distanceToLondon	188293.248
+Skeyton	distanceToLondon	207605.376
+Smallburgh	distanceToLondon	212433.408
+Stibbard	distanceToLondon	193121.28
+Walesby, Lincolnshire	distanceToLondon	214042.752
+Rusper	distanceToLondon	43452.288
+Donnington, West Sussex	distanceToLondon	90123.264
+East Wittering and Bracklesham	distanceToLondon	96560.64
+Funtington	distanceToLondon	86904.576
+Hunston, West Sussex	distanceToLondon	90123.264
+Marden, West Sussex	distanceToLondon	82076.544
+North Mundham	distanceToLondon	88513.92
+Plaistow and Ifold	distanceToLondon	56327.04
+West Itchenor	distanceToLondon	93341.952
+Paston, Norfolk	distanceToLondon	223698.816
+Up Marden	distanceToLondon	83685.888
+West Harting	distanceToLondon	77248.512
+Alfrick Pound	distanceToLondon	173809.152
+Colgate, West Sussex	distanceToLondon	46670.976
+Itchingfield	distanceToLondon	53108.352
+Lower Beeding	distanceToLondon	53108.352
+Shermanbury	distanceToLondon	61155.072
+Shipley, West Sussex	distanceToLondon	59545.728
+Slinfold	distanceToLondon	72420.48
+Wiston, West Sussex	distanceToLondon	67592.448
+Crookham Village	distanceToLondon	67592.448
+Glen Village	distanceToLondon	553614.336
+Chapelfields, Coventry	distanceToLondon	144840.96
+Sedgebrook	distanceToLondon	160934.4
+Stratton Strawless	distanceToLondon	197949.312
+Spixworth	distanceToLondon	194730.624
+Ermington, Devon	distanceToLondon	294509.952
+Dobcross	distanceToLondon	260713.728
+Blackdown, Dorset	distanceToLondon	231745.536
+Crostwight	distanceToLondon	220480.128
+Dodford, Worcestershire	distanceToLondon	196339.968
+Milton, Staffordshire	distanceToLondon	261357.4656
+Forncett St Mary	distanceToLondon	140012.928
+Ashburnham and Penhurst	distanceToLondon	70811.136
+Beddingham	distanceToLondon	72420.48
+Nyewood	distanceToLondon	78857.856
+Melplash	distanceToLondon	233354.88
+Cornwood	distanceToLondon	294509.952
+Jesmond	distanceToLondon	389000.0
+Salehurst and Robertsbridge	distanceToLondon	70811.136
+Weymouth, Dorset	distanceToLondon	195000.0
+Shuttleworth, Greater Manchester	distanceToLondon	280025.856
+Cross In Hand	distanceToLondon	80467.2
+Skinnand	distanceToLondon	178637.184
+Sidley, East Sussex	distanceToLondon	82076.544
+Carberry, East Lothian	distanceToLondon	595457.28
+Bengeworth	distanceToLondon	141622.272
+Belfield, Greater Manchester	distanceToLondon	271979.136
+Aylesbury Urban Area	distanceToLondon	41.6
+High Wycombe Urban Area	distanceToLondon	41.6
+Westby-with-Plumptons	distanceToLondon	315431.424
+Haydon Hill	distanceToLondon	41.6
+Eastbourne	distanceToLondon	86904.576
+Sharrington	distanceToLondon	199558.656
+Aviemore	distanceToLondon	675924.48
+Denton, Northamptonshire	distanceToLondon	101388.672
+Barney, Norfolk	distanceToLondon	194730.624
+Saxthorpe	distanceToLondon	210824.064
+Langford, Norfolk	distanceToLondon	147898.7136
+Bradfield, Norfolk	distanceToLondon	217261.44
+Hilborough	distanceToLondon	149990.8608
+Larling	distanceToLondon	151278.336
+Little Ellingham	distanceToLondon	167371.776
+Greatworth	distanceToLondon	115872.768
+Peopleton	distanceToLondon	155301.696
+Newton by Castle Acre	distanceToLondon	167371.776
+Tunstead, Norfolk	distanceToLondon	207605.376
+Stramshall	distanceToLondon	230136.192
+Church Leigh	distanceToLondon	238182.912
+Little Thetford	distanceToLondon	99779.328
+Dines Green	distanceToLondon	167371.776
+Swanton Novers	distanceToLondon	197949.312
+Prince's Cairn	distanceToLondon	867436.416
+Quarles, Norfolk	distanceToLondon	196339.968
+Nethergate, Norfolk	distanceToLondon	210824.064
+Pitkeathly Wells	distanceToLondon	708111.36
+Corpach	distanceToLondon	804672.0
+Pettywell	distanceToLondon	205996.032
+Shieldhill, Falkirk	distanceToLondon	552004.992
+Chipping Warden	distanceToLondon	112654.08
+Denshaw	distanceToLondon	265541.76
+Slapton, Northamptonshire	distanceToLondon	111044.736
+Pakefield	distanceToLondon	202777.344
+Tutnall and Cobley	distanceToLondon	160934.4
+Hunworth	distanceToLondon	204386.688
+Carronshore	distanceToLondon	558442.368
+Outwell	distanceToLondon	156106.368
+North Barningham	distanceToLondon	222089.472
+Alderbury	distanceToLondon	125013.84192
+Emneth	distanceToLondon	160290.6624
+Tilney St Lawrence	distanceToLondon	167371.776
+Walsoken	distanceToLondon	165762.432
+West Walton	distanceToLondon	168981.12
+Downham West	distanceToLondon	154818.8928
+Tuffley	distanceToLondon	113.0
+Leziate	distanceToLondon	170590.464
+Stradsett	distanceToLondon	155140.7616
+Sheepstor	distanceToLondon	296119.296
+Skelmersdale	distanceToLondon	289681.92
+Frogshall	distanceToLondon	218870.784
+Alethorpe	distanceToLondon	217261.44
+Hurstpierpoint and Sayers Common	distanceToLondon	61155.072
+Kennford	distanceToLondon	255885.696
+Dalston, Cumbria	distanceToLondon	420038.784
+Furtho	distanceToLondon	88513.92
+Tibenham, Norfolk	distanceToLondon	138403.584
+Scarning	distanceToLondon	160934.4
+Strensham	distanceToLondon	152887.68
+Shakerley	distanceToLondon	273588.48
+Leigh and Bransford	distanceToLondon	170300.78208
+Shrewsbury	distanceToLondon	241401.6
+Tutnall	distanceToLondon	160934.4
+Bradford	distanceToLondon	280025.856
+Glencarse	distanceToLondon	585801.216
+Hardwick, Northamptonshire	distanceToLondon	112332.2112
+Woking	distanceToLondon	37014.912
+Glensanda	distanceToLondon	912498.048
+Dunachton	distanceToLondon	671096.448
+St Madoes	distanceToLondon	585801.216
+Caswell, Northamptonshire	distanceToLondon	104607.36
+Maddiston	distanceToLondon	552004.992
+Dunmore, Falkirk	distanceToLondon	563270.4
+Laurieston, Falkirk	distanceToLondon	553614.336
+Whitecross, Falkirk	distanceToLondon	548786.304
+Culworth	distanceToLondon	117482.112
+Evenley	distanceToLondon	98169.984
+Farthinghoe	distanceToLondon	114263.424
+Litchborough	distanceToLondon	111044.736
+Skinflats	distanceToLondon	556833.024
+Holt, Wiltshire	distanceToLondon	160934.4
+The Heath	distanceToLondon	194730.624
+Edgcote	distanceToLondon	107826.048
+Coleby, North Lincolnshire	distanceToLondon	241401.6
+Poolbrook	distanceToLondon	165762.432
+National Collection of Yeast Cultures	distanceToLondon	185074.56
+Newmill-on-Teviot	distanceToLondon	555223.68
+Wyche, Worcestershire	distanceToLondon	167371.776
+Burnfoot, Scottish Borders	distanceToLondon	561661.056
+Low Hauxley	distanceToLondon	434522.88
+Sherrard's Green	distanceToLondon	165762.432
+Hanley, Worcestershire	distanceToLondon	156428.2368
+Come-to-Good	distanceToLondon	373367.808
+Muirdrum	distanceToLondon	592238.592
+Hindsford	distanceToLondon	273588.48
+Howe Bridge	distanceToLondon	273588.48
+Walterstone	distanceToLondon	200000.0
+Llanveynoe	distanceToLondon	200000.0
+Harford, Devon	distanceToLondon	291291.264
+Westhide	distanceToLondon	175000.0
+Easton Neston Parish	distanceToLondon	106216.704
+Inchyra	distanceToLondon	585801.216
+Duntisbourne Leer	distanceToLondon	135184.896
+Loveclough	distanceToLondon	362102.4
+South Alloa	distanceToLondon	566489.088
+Fankerton	distanceToLondon	561661.056
+Greenhill, Falkirk	distanceToLondon	556833.024
+Carron, Falkirk	distanceToLondon	558442.368
+High Bonnybridge	distanceToLondon	556833.024
+Muirhouses, Falkirk	distanceToLondon	550395.648
+Stoneywood, Falkirk	distanceToLondon	561661.056
+Poulton, Gloucestershire	distanceToLondon	144840.96
+Londonthorpe	distanceToLondon	185074.56
+Normanton, Lincolnshire	distanceToLondon	188293.248

@@ -1,0 +1,256 @@
+Hepatic portal vein	drainsTo	Liver sinusoid
+Great saphenous vein	drainsTo	Femoral vein
+Brachiocephalic vein	drainsTo	Superior vena cava
+Inferior vena cava	drainsTo	Heart
+Thoracic duct	drainsTo	Subclavian vein
+Thoracic duct	drainsTo	Internal jugular vein
+Pulmonary vein	drainsTo	Left atrium
+Azygos vein	drainsTo	Superior vena cava
+Great cerebral vein	drainsTo	Straight sinus
+Jugular vein	drainsTo	Superior vena cava
+External jugular vein	drainsTo	Subclavian vein
+Internal jugular vein	drainsTo	Brachiocephalic vein
+Renal vein	drainsTo	Inferior vena cava
+Popliteal vein	drainsTo	Femoral vein
+Paratracheal lymph nodes	drainsTo	Tracheobronchial lymph nodes
+Femoral vein	drainsTo	External iliac vein
+Cephalic vein	drainsTo	Axillary vein
+Cephalic vein	drainsTo	Median cubital vein
+Subclavian vein	drainsTo	Brachiocephalic vein
+Profunda femoris vein	drainsTo	Femoral vein
+Small saphenous vein	drainsTo	Popliteal vein
+Common iliac vein	drainsTo	Inferior vena cava
+Dorsal venous arch of the foot	drainsTo	Small saphenous vein
+Dorsal venous arch of the foot	drainsTo	Great saphenous vein
+External iliac vein	drainsTo	Common iliac vein
+Median cubital vein	drainsTo	Basilic vein
+Basilic vein	drainsTo	Axillary vein
+Brachial veins	drainsTo	Axillary vein
+Posterior tibial vein	drainsTo	Popliteal vein
+Anterior tibial vein	drainsTo	Popliteal vein
+Fibular veins	drainsTo	Posterior tibial vein
+Ductus venosus	drainsTo	Inferior vena cava
+Superior mesenteric vein	drainsTo	Hepatic portal vein
+Splenic vein	drainsTo	Hepatic portal vein
+Axillary vein	drainsTo	Subclavian vein
+Radial veins	drainsTo	Brachial veins
+Ulnar veins	drainsTo	Brachial veins
+Inferior mesenteric vein	drainsTo	Splenic vein
+Hepatic vein	drainsTo	Inferior vena cava
+Cisterna chyli	drainsTo	Thoracic duct
+Coronary sinus	drainsTo	Right atrium
+Cavernous sinus	drainsTo	Inferior petrosal sinus
+Cavernous sinus	drainsTo	Superior petrosal sinus
+Inferior epigastric vein	drainsTo	External iliac vein
+Internal thoracic vein	drainsTo	Brachiocephalic vein
+Superior epigastric vein	drainsTo	Internal thoracic vein
+Confluence of sinuses	drainsTo	Transverse sinuses
+Straight sinus	drainsTo	Confluence of sinuses
+Occipital sinus	drainsTo	Confluence of sinuses
+Superior sagittal sinus	drainsTo	Confluence of sinuses
+Inferior sagittal sinus	drainsTo	Straight sinus
+Superior petrosal sinus	drainsTo	Sigmoid sinus
+Inferior petrosal sinus	drainsTo	Internal jugular vein
+Superior ophthalmic vein	drainsTo	Cavernous sinus
+Hemiazygos vein	drainsTo	Azygos vein
+Sigmoid sinus	drainsTo	Internal jugular vein
+Vertebral vein	drainsTo	Brachiocephalic vein
+Anterior jugular vein	drainsTo	External jugular vein
+Transverse sinuses	drainsTo	Sigmoid sinus
+Ophthalmic veins	drainsTo	Cavernous sinus
+Facial vein	drainsTo	Internal jugular vein
+Common facial vein	drainsTo	Jugular vein
+Great cardiac vein	drainsTo	Coronary sinus
+Small cardiac vein	drainsTo	Coronary sinus
+Middle cardiac vein	drainsTo	Coronary sinus
+Short gastric veins	drainsTo	Splenic vein
+Inferior phrenic vein	drainsTo	Inferior vena cava
+Inferior thyroid veins	drainsTo	Brachiocephalic vein
+Accessory hemiazygos vein	drainsTo	Hemiazygos vein
+Accessory hemiazygos vein	drainsTo	Azygos vein
+Inferior ophthalmic vein	drainsTo	Superior ophthalmic vein
+Inferior ophthalmic vein	drainsTo	Cavernous sinus
+Left gastroepiploic vein	drainsTo	Splenic vein
+Superior thyroid vein	drainsTo	Internal jugular vein
+Middle thyroid vein	drainsTo	Internal jugular vein
+Inferior gluteal veins	drainsTo	Internal iliac vein
+Superior gluteal veins	drainsTo	Internal iliac vein
+Maxillary veins	drainsTo	Retromandibular vein
+Pterygoid plexus	drainsTo	Maxillary veins
+Supreme intercostal vein	drainsTo	Brachiocephalic vein
+Lingual veins	drainsTo	Internal jugular vein
+Supraorbital vein	drainsTo	Angular vein
+Angular vein	drainsTo	Facial vein
+Superficial temporal vein	drainsTo	Retromandibular vein
+Retromandibular vein	drainsTo	External jugular vein
+Posterior auricular vein	drainsTo	External jugular vein
+Occipital vein	drainsTo	Suboccipital venous plexus
+Pharyngeal veins	drainsTo	Internal jugular vein
+Deep cervical vein	drainsTo	Vertebral vein
+Internal pudendal veins	drainsTo	Internal iliac vein
+Inferior cerebral veins	drainsTo	Dural venous sinuses
+Oblique vein of the left atrium	drainsTo	Coronary sinus
+Rectal venous plexus	drainsTo	Superior rectal vein
+Superior cerebral veins	drainsTo	Superior sagittal sinus
+Internal auditory veins	drainsTo	Inferior petrosal sinus
+Internal auditory veins	drainsTo	Transverse sinuses
+Right lymphatic duct	drainsTo	Internal jugular vein
+External iliac lymph nodes	drainsTo	Common iliac lymph nodes
+Basal vein	drainsTo	Internal cerebral veins
+Pancreatic veins	drainsTo	Splenic vein
+Pancreaticoduodenal veins	drainsTo	Hepatic portal vein
+Pancreaticoduodenal veins	drainsTo	Superior mesenteric vein
+Right gastroepiploic vein	drainsTo	Superior mesenteric vein
+Obturator veins	drainsTo	Internal iliac vein
+Plantar digital veins	drainsTo	Plantar metatarsal veins
+Accessory cephalic vein	drainsTo	Cephalic vein
+Median antebrachial vein	drainsTo	Basilic vein
+Median antebrachial vein	drainsTo	Median cubital vein
+Superficial middle cerebral vein	drainsTo	Cavernous sinus
+Superficial middle cerebral vein	drainsTo	Basal vein
+Internal cerebral veins	drainsTo	Great cerebral vein
+Middle colic vein	drainsTo	Superior mesenteric vein
+Right colic vein	drainsTo	Superior mesenteric vein
+Ovarian vein	drainsTo	Inferior vena cava
+Testicular vein	drainsTo	Inferior vena cava
+Testicular vein	drainsTo	Renal vein
+Superior rectal vein	drainsTo	Inferior mesenteric vein
+Bronchial veins	drainsTo	Azygos vein
+Bronchial veins	drainsTo	Hemiazygos vein
+Dorsal venous network of hand	drainsTo	Cephalic vein
+Dorsal venous network of hand	drainsTo	Basilic vein
+Vorticose veins	drainsTo	Inferior ophthalmic vein
+Vorticose veins	drainsTo	Superior ophthalmic vein
+Superior intercostal vein	drainsTo	Azygos vein
+Superior intercostal vein	drainsTo	Brachiocephalic vein
+Superior phrenic vein	drainsTo	Azygos vein
+Superior phrenic vein	drainsTo	Hemiazygos vein
+Nasofrontal vein	drainsTo	Superior ophthalmic vein
+Deep facial vein	drainsTo	Facial vein
+Left marginal vein	drainsTo	Great cardiac vein
+Right marginal vein	drainsTo	Right atrium
+Subcostal vein	drainsTo	Ascending lumbar vein
+Lumbar veins	drainsTo	Inferior vena cava
+Ascending lumbar vein	drainsTo	Azygos vein
+Ascending lumbar vein	drainsTo	Hemiazygos vein
+Inferior cerebellar veins	drainsTo	Dural venous sinuses
+Deep dorsal vein of the penis	drainsTo	Prostatic venous plexus
+Anterior cardiac veins	drainsTo	Right atrium
+Tracheobronchial lymph nodes	drainsTo	Bronchomediastinal lymph trunk
+Superficial dorsal vein of the penis	drainsTo	External pudendal vein
+Thoracoepigastric vein	drainsTo	Lateral thoracic vein
+Thoracoepigastric vein	drainsTo	Femoral vein
+Pampiniform venous plexus	drainsTo	Testicular vein
+Superficial epigastric vein	drainsTo	Great saphenous vein
+Prostatic venous plexus	drainsTo	Vesical venous plexus
+Prostatic venous plexus	drainsTo	Pudendal plexus (veins)
+Cystic vein	drainsTo	Hepatic portal vein
+Lateral sacral veins	drainsTo	Internal iliac vein
+Left gastric vein	drainsTo	Hepatic portal vein
+Middle rectal veins	drainsTo	Internal iliac vein
+Inferior rectal veins	drainsTo	Internal pudendal veins
+Deep circumflex iliac vein	drainsTo	External iliac vein
+Uterine venous plexus	drainsTo	Uterine veins
+Vesical venous plexus	drainsTo	Internal iliac vein
+Pararectal lymph nodes	drainsTo	Inferior mesenteric lymph nodes
+Retroaortic lymph nodes	drainsTo	Cisterna chyli
+Preaortic lymph node	drainsTo	Intestinal lymph trunk
+Lateral aortic lymph nodes	drainsTo	Lumbar lymph trunk
+Superficial inguinal lymph nodes	drainsTo	Deep inguinal lymph nodes
+Inferior mesenteric lymph nodes	drainsTo	Preaortic lymph node
+Internal iliac lymph nodes	drainsTo	Common iliac lymph nodes
+Common iliac lymph nodes	drainsTo	Lateral aortic lymph nodes
+Lumbar lymph trunk	drainsTo	Cisterna chyli
+Intestinal lymph trunk	drainsTo	Cisterna chyli
+Deep inguinal lymph nodes	drainsTo	External iliac lymph nodes
+Interlobular veins	drainsTo	Arcuate vein
+Straight venules of kidney	drainsTo	Arcuate vein
+Stellate veins	drainsTo	Interlobular veins
+Arcuate vein	drainsTo	Interlobar veins
+Interlobar veins	drainsTo	Renal vein
+Trabecular veins	drainsTo	Splenic vein
+Left colic vein	drainsTo	Inferior mesenteric vein
+Right gastric vein	drainsTo	Hepatic portal vein
+Central veins of liver	drainsTo	Hepatic vein
+Mastoid lymph nodes	drainsTo	Superior deep cervical lymph nodes
+Popliteal lymph nodes	drainsTo	Deep inguinal lymph nodes
+Deltopectoral lymph nodes	drainsTo	Apical lymph nodes
+Central lymph nodes	drainsTo	Apical lymph nodes
+Brachial lymph nodes	drainsTo	Central lymph nodes
+Pectoral axillary lymph nodes	drainsTo	Central lymph nodes
+Subscapular axillary lymph nodes	drainsTo	Central lymph nodes
+Apical lymph nodes	drainsTo	Subclavian lymph trunk
+Supratrochlear lymph nodes	drainsTo	Brachial lymph nodes
+Deep cervical lymph nodes	drainsTo	Jugular lymph trunk
+Sphenoparietal sinus	drainsTo	Cavernous sinus
+Superior labial vein	drainsTo	Facial vein
+Inferior labial vein	drainsTo	Facial vein
+Lateral thoracic vein	drainsTo	Axillary vein
+Superior thalamostriate vein	drainsTo	Internal cerebral veins
+Plantar metatarsal veins	drainsTo	Plantar venous arch
+Dorsal digital veins of the foot	drainsTo	Dorsal metatarsal veins
+Superior cerebellar veins	drainsTo	Dural venous sinuses
+Inferior deep cervical lymph nodes	drainsTo	Jugular lymph trunk
+Superior deep cervical lymph nodes	drainsTo	Inferior deep cervical lymph nodes
+Superior deep cervical lymph nodes	drainsTo	Jugular lymph trunk
+Preauricular deep parotid lymph nodes	drainsTo	Superior deep cervical lymph nodes
+Jugular venous arch	drainsTo	Anterior jugular vein
+Occipital emissary vein	drainsTo	Occipital vein
+Superficial cervical lymph nodes	drainsTo	Superior deep cervical lymph nodes
+Retropharyngeal lymph nodes	drainsTo	Superior deep cervical lymph nodes
+Central retinal vein	drainsTo	Superior ophthalmic vein
+Central retinal vein	drainsTo	Cavernous sinus
+Bronchomediastinal lymph trunk	drainsTo	Thoracic duct
+Bronchomediastinal lymph trunk	drainsTo	Right lymphatic duct
+External pudendal vein	drainsTo	Great saphenous vein
+Dorsal metacarpal veins	drainsTo	Dorsal venous network of hand
+Intercapitular veins of the hand	drainsTo	Median antebrachial vein
+Palmar digital veins	drainsTo	Intercapitular veins of the hand
+Palmar digital veins	drainsTo	Superficial palmar venous arch
+Palmar metacarpal veins	drainsTo	Deep palmar venous arch
+Superficial palmar venous arch	drainsTo	Ulnar veins
+Deep palmar venous arch	drainsTo	Radial veins
+Dorsal metatarsal veins	drainsTo	Dorsal venous arch of the foot
+Dorsal scapular vein	drainsTo	Subclavian vein
+Pericardiacophrenic veins	drainsTo	Brachiocephalic vein
+Parasternal lymph nodes	drainsTo	Bronchomediastinal lymph trunk
+Anterior auricular veins	drainsTo	Superficial temporal vein
+Suboccipital venous plexus	drainsTo	Vertebral vein
+Ileocolic vein	drainsTo	Superior mesenteric vein
+Appendicular vein	drainsTo	Ileocolic vein
+Anterior intercostal veins	drainsTo	Internal thoracic vein
+Thymic veins	drainsTo	Brachiocephalic vein
+Intercostal lymph nodes	drainsTo	Right lymphatic duct
+Intercostal lymph nodes	drainsTo	Thoracic duct
+Ileal veins	drainsTo	Superior mesenteric vein
+Jejunal veins	drainsTo	Superior mesenteric vein
+Uterine veins	drainsTo	Internal iliac vein
+Vesical veins	drainsTo	Internal iliac vein
+Iliolumbar vein	drainsTo	Internal iliac vein
+Vein of bulb of penis	drainsTo	Internal pudendal veins
+Vein of bulb of vestibule	drainsTo	Internal pudendal veins
+Superficial dorsal veins of clitoris	drainsTo	External pudendal vein
+Deep dorsal vein of clitoris	drainsTo	Vesical plexus
+Posterior scrotal veins	drainsTo	Vesical venous plexus
+Posterior labial veins	drainsTo	Vesical venous plexus
+Superior mesenteric lymph nodes	drainsTo	Preaortic lymph node
+Celiac lymph nodes	drainsTo	Preaortic lymph node
+Sacral lymph nodes	drainsTo	Common iliac lymph nodes
+Splenic lymph nodes	drainsTo	Celiac lymph nodes
+Hepatic lymph nodes	drainsTo	Celiac lymph nodes
+Gastric lymph nodes	drainsTo	Celiac lymph nodes
+Subclavian lymph trunk	drainsTo	Thoracic duct
+Subclavian lymph trunk	drainsTo	Right lymphatic duct
+Nasolabial lymph node	drainsTo	Buccinator lymph node
+Mandibular lymph node	drainsTo	Submandibular lymph nodes
+Suprascapular vein	drainsTo	External jugular vein
+Transverse cervical veins	drainsTo	External jugular vein
+Ethmoidal veins	drainsTo	Superior ophthalmic vein
+Deep lingual vein	drainsTo	Lingual veins
+Dorsal lingual veins	drainsTo	Lingual veins
+Sublingual vein	drainsTo	Lingual veins
+Superior laryngeal vein	drainsTo	Superior thyroid vein
+Inferior laryngeal vein	drainsTo	Inferior thyroid veins
+Deep middle cerebral vein	drainsTo	Basal vein
+Medial marginal vein	drainsTo	Great saphenous vein
+Lateral marginal vein	drainsTo	Small saphenous vein

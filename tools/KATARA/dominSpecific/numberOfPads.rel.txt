@@ -1,0 +1,50 @@
+Broglio Space Centre	numberOfPads	2
+Kennedy Space Center Launch Complex 39	numberOfPads	2
+Vandenberg AFB Space Launch Complex 3	numberOfPads	2
+Cape Canaveral Air Force Station Launch Complex 1	numberOfPads	1
+Cape Canaveral Air Force Station Launch Complex 2	numberOfPads	1
+Vandenberg AFB Space Launch Complex 6	numberOfPads	1
+Cape Canaveral Air Force Station Launch Complex 34	numberOfPads	1
+Cape Canaveral Air Force Station Space Launch Complex 37	numberOfPads	2
+Cape Canaveral Air Force Station Space Launch Complex 17	numberOfPads	2
+Cape Canaveral Air Force Station Launch Complex 19	numberOfPads	1
+Cape Canaveral Air Force Station Space Launch Complex 41	numberOfPads	1
+Cape Canaveral Air Force Station Launch Complex 14	numberOfPads	1
+Spaceport Florida Launch Complex 36	numberOfPads	2
+Cape Canaveral Air Force Station Space Launch Complex 40	numberOfPads	1
+Gagarin's Start	numberOfPads	1
+Vandenberg AFB Space Launch Complex 10	numberOfPads	2
+Vandenberg AFB Space Launch Complex 2	numberOfPads	2
+Cape Canaveral Air Force Station Launch Complex 3	numberOfPads	1
+ELA-3	numberOfPads	1
+Baikonur Cosmodrome Site 31	numberOfPads	1
+Woomera Launch Area 5	numberOfPads	3
+Vandenberg AFB Space Launch Complex 4	numberOfPads	2
+Baikonur Cosmodrome Site 200	numberOfPads	2
+Vandenberg AFB Space Launch Complex 5	numberOfPads	1
+Vandenberg AFB Space Launch Complex 8	numberOfPads	1
+Baikonur Cosmodrome Site 45	numberOfPads	2
+ELA-2	numberOfPads	1
+Baikonur Cosmodrome Site 81	numberOfPads	2
+Baikonur Cosmodrome Site 109	numberOfPads	1
+Yoshinobu Launch Complex	numberOfPads	2
+Mid-Atlantic Regional Spaceport Launch Pad 0	numberOfPads	2
+Stargazer (aircraft)	numberOfPads	1
+Cape Canaveral Air Force Station Launch Complex 6	numberOfPads	1
+Cape Canaveral Air Force Station Launch Complex 9	numberOfPads	1
+Cape Canaveral Air Force Station Launch Complex 11	numberOfPads	1
+Cape Canaveral Air Force Station Launch Complex 31	numberOfPads	2
+Cape Canaveral Air Force Station Launch Complex 21	numberOfPads	2
+Cape Canaveral Air Force Station Launch Complex 22	numberOfPads	1
+Vandenberg AFB Launch Facility 02	numberOfPads	1
+Vandenberg AFB Launch Facility 03	numberOfPads	1
+Vandenberg AFB Launch Facility 04	numberOfPads	1
+Vandenberg AFB Launch Facility 05	numberOfPads	1
+Vandenberg AFB Launch Facility 06	numberOfPads	1
+Vandenberg AFB Launch Facility 07	numberOfPads	1
+Vandenberg AFB Launch Facility 08	numberOfPads	1
+Vandenberg AFB Launch Facility 09	numberOfPads	1
+Vandenberg AFB Launch Facility 10	numberOfPads	1
+Vandenberg AFB Launch Facility 21	numberOfPads	1
+Cape Canaveral Air Force Station Launch Complex 32	numberOfPads	2
+Baikonur Cosmodrome Site 110	numberOfPads	2

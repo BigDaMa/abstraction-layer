@@ -1,0 +1,1340 @@
+Mazda MX-5	automobilePlatform	Mazda N platform
+Mazda MX-5  First Generation NA   1	automobilePlatform	Mazda N platform
+Mazda MX-5  Second Generation NB   1	automobilePlatform	Mazda N platform
+Mazda MX-5  Third Generation NC   1	automobilePlatform	Mazda N platform
+Volkswagen Kübelwagen	automobilePlatform	Volkswagen Beetle
+Porsche Cayenne	automobilePlatform	Volkswagen Group PL71 platform
+Toyota Celica  Second generation   1	automobilePlatform	Toyota A transmission#A40
+Toyota Celica  Camry   1	automobilePlatform	Toyota A transmission#A40
+Toyota Celica  Sixth generation   1	automobilePlatform	Toyota T2xx
+Toyota Celica  Seventh generation   1	automobilePlatform	Toyota T2xx
+Volkswagen Golf	automobilePlatform	Volkswagen Group A platform
+Volkswagen Scirocco  First generation   1	automobilePlatform	Volkswagen Group A platform#A1
+Volkswagen Scirocco  Second generation   1	automobilePlatform	Volkswagen Group A platform#A1
+Volkswagen Scirocco  Third generation   1	automobilePlatform	Volkswagen Group A platform#A5 (PQ35)
+Pontiac GTO  First generation   1	automobilePlatform	GM A platform (RWD)
+Pontiac GTO  Second generation   1	automobilePlatform	GM A platform (RWD)
+Pontiac GTO  Third generation   1	automobilePlatform	GM X platform
+Pontiac GTO  Fourth generation   1	automobilePlatform	GM V platform
+Chevrolet Camaro	automobilePlatform	GM F platform
+Chevrolet Camaro	automobilePlatform	GM Zeta platform
+Saab 900  NG   1	automobilePlatform	GM2900 platform
+Chevrolet Impala  Third generation   1	automobilePlatform	GM B platform
+Chevrolet Impala  Fourth generation   1	automobilePlatform	GM B platform
+Chevrolet Impala  Fifth generation   1	automobilePlatform	GM B platform
+Chevrolet Impala  Sixth generation   1	automobilePlatform	GM B platform
+Chevrolet Impala  1	automobilePlatform	GM B platform
+Chevrolet Impala  Eighth generation   1	automobilePlatform	GM W platform
+Chevrolet Impala  Ninth generation   1	automobilePlatform	GM W platform
+Chevrolet Impala  Tenth generation   1	automobilePlatform	GM Epsilon platform#Epsilon II
+Ford Crown Victoria	automobilePlatform	Ford Panther platform
+Saab 9-3  First generation   1	automobilePlatform	GM2900 platform
+Saab 9-3  Second generation   1	automobilePlatform	GM Epsilon platform
+Volkswagen Jetta	automobilePlatform	Volkswagen Group A platform
+Volkswagen Jetta  A1, Typ 16   1	automobilePlatform	Volkswagen Group A platform#A1
+Volkswagen Jetta  A2, Typ 1G   1	automobilePlatform	Volkswagen Group A platform#A2
+Volkswagen Jetta  Volkswagen Vento A3, Typ 1H   1	automobilePlatform	Volkswagen Group A platform#A3
+Volkswagen Jetta  Volkswagen Bora A4, Typ 1J   1	automobilePlatform	Volkswagen Group A platform#A4
+Volkswagen Jetta  A5, Typ 1K   1	automobilePlatform	Volkswagen Group A platform#A5
+Volkswagen Jetta  NCS   1	automobilePlatform	Volkswagen Group A platform#A5
+Plymouth Road Runner  First generation   1	automobilePlatform	Chrysler B platform
+Plymouth Road Runner  Second generation   1	automobilePlatform	Chrysler B platform
+Plymouth Road Runner  Third generation   1	automobilePlatform	Chrysler F platform
+Plymouth Superbird	automobilePlatform	Chrysler B platform
+Lancia Delta  Third generation   1	automobilePlatform	Fiat C-platform
+Saab 9000	automobilePlatform	Type Four chassis
+Ford Windstar  First generation   1	automobilePlatform	Ford D186 platform
+Ford Windstar  Second generation   1	automobilePlatform	Ford V platform
+Ford Contour	automobilePlatform	Ford CDW27 platform
+Nissan Maxima  Sixth generation   1	automobilePlatform	Nissan FF-L platform
+Nissan Maxima  Seventh generation   1	automobilePlatform	Nissan D platform
+Dodge Caravan  Generation I   1	automobilePlatform	Chrysler S platform
+Dodge Caravan  Generation II   1	automobilePlatform	Chrysler S platform
+Dodge Caravan  Generation III   1	automobilePlatform	Chrysler S platform
+Dodge Caravan  Generation IV   1	automobilePlatform	Chrysler S platform
+Dodge Caravan  Generation V Dodge Grand Caravan   1	automobilePlatform	Chrysler S platform
+Dodge Aries	automobilePlatform	Chrysler K platform
+Chevrolet Avalanche  First generation / GMT800   1	automobilePlatform	GM GMT platform#GMT 800
+Chevrolet Avalanche  Second generation GMT900   1	automobilePlatform	GM GMT platform#GMT 900
+Saab 9-5  First generation   1	automobilePlatform	GM2900 platform
+Saab 9-5  Second generation   1	automobilePlatform	GM Epsilon platform#Epsilon II
+Chevrolet Chevelle	automobilePlatform	GM A platform (RWD)
+Chevrolet Corvair  First generation   1	automobilePlatform	GM Y platform
+Chevrolet Corvair  Second generation   1	automobilePlatform	GM Z platform
+Ford Telstar	automobilePlatform	Mazda G platform#GC
+Ford Telstar	automobilePlatform	Mazda G platform#GD
+Ford Telstar	automobilePlatform	Mazda G platform#GE
+Ford Telstar	automobilePlatform	Mazda C platform#CG
+Ford Telstar	automobilePlatform	Mazda G platform#GF
+Ford Mondeo  Mk4   1	automobilePlatform	Ford EUCD platform
+Volkswagen Polo	automobilePlatform	Volkswagen Group A0 platform
+Volkswagen Polo  Mark I   1	automobilePlatform	Volkswagen A0 platform#A01
+Volkswagen Polo  Mark II 86C   1	automobilePlatform	Volkswagen A0 platform#A02
+Volkswagen Polo  Mark III 6N   1	automobilePlatform	Volkswagen A0 platform#A03
+Volkswagen Polo  Mark IIIF 6N2   1	automobilePlatform	Volkswagen A0 platform#A03
+Volkswagen Polo  Mark IV 9N and Mark IVF 9N3   1	automobilePlatform	Volkswagen A0 platform#PQ24
+Volkswagen Polo  Mark V   1	automobilePlatform	Volkswagen A0 platform#PQ25
+Opel Astra  stra F   1	automobilePlatform	GM T platform
+Opel Astra  stra G   1	automobilePlatform	GM T platform
+Opel Astra  stra H   1	automobilePlatform	GM Delta platform
+Opel Astra  stra J   1	automobilePlatform	GM Delta platform#Delta II
+Opel Vectra  A   1	automobilePlatform	GM2900 platform
+Opel Vectra  B   1	automobilePlatform	GM2900 platform
+Opel Vectra  C   1	automobilePlatform	GM Epsilon platform
+Vauxhall Cavalier  Mark II Cavalier   1	automobilePlatform	GM J platform
+Vauxhall Cavalier  Mark III Cavalier   1	automobilePlatform	GM2900 platform
+Pontiac Sunfire	automobilePlatform	GM J platform
+Pontiac Sunbird  First generation   1	automobilePlatform	GM H platform (RWD)
+Pontiac Sunbird  Second generation   1	automobilePlatform	GM J platform
+Pontiac Sunbird  Third generation   1	automobilePlatform	GM J platform
+Buick Skylark  Fourth generation   1	automobilePlatform	GM X platform
+Buick Skylark  Fifth generation   1	automobilePlatform	GM X platform
+Buick Skylark  Sixth generation   1	automobilePlatform	GM N platform
+Buick Skylark  Seventh generation   1	automobilePlatform	GM N platform
+Ford Country Squire  Seventh generation   1	automobilePlatform	Ford Panther platform
+Ford Freestar	automobilePlatform	Ford V platform
+Ford Freestar  Mercury Monterey   1	automobilePlatform	Ford V platform
+Pontiac Firebird	automobilePlatform	GM F platform
+Pontiac Firebird  First generation   1	automobilePlatform	GM F platform
+Pontiac Firebird  Second generation   1	automobilePlatform	GM F platform
+Pontiac Firebird  Third generation   1	automobilePlatform	GM F platform
+Pontiac Firebird  Fourth generation   1	automobilePlatform	GM F platform
+Pontiac Firebird  Trans Am   1	automobilePlatform	GM F platform
+Chevrolet Biscayne  Fourth generation   1	automobilePlatform	GM B platform
+Nissan Pathfinder  Third generation   1	automobilePlatform	Nissan F-Alpha platform
+Volvo S60  First generation   1	automobilePlatform	Ford D3 platform
+Volvo S60  Second generation   1	automobilePlatform	Ford EUCD platform
+Ford Festiva  First generation   1	automobilePlatform	Mazda D platform#DA
+Dodge Rampage	automobilePlatform	Chrysler L platform
+Opel Kadett  D   1	automobilePlatform	GM T platform
+Opel Kadett  E   1	automobilePlatform	GM T platform
+Chevrolet Caprice	automobilePlatform	GM B platform
+Chevrolet Bel Air  Seventh generation   1	automobilePlatform	GM B platform
+Chevrolet Bel Air  Eighth generation   1	automobilePlatform	GM B platform
+Mercedes-Benz C-Class  W202   1	automobilePlatform	Mercedes-Benz C-Class#W202
+Mercedes-Benz C-Class  W203   1	automobilePlatform	Mercedes-Benz C-Class#W203
+Mercedes-Benz C-Class  W204   1	automobilePlatform	Mercedes-Benz C-Class#W204
+Jaguar X-Type	automobilePlatform	Ford CDW27 platform
+Cadillac Escalade  GMT 400   1	automobilePlatform	GM GMT platform#GMT 400
+Cadillac Escalade  GMT 800   1	automobilePlatform	GM GMT platform#GMT 800
+Cadillac Escalade  GMT 900   1	automobilePlatform	GM GMT platform#GMT 900
+Cadillac Eldorado  Fourth generation   1	automobilePlatform	GM E platform
+Cadillac Eldorado  Fifth generation   1	automobilePlatform	GM E platform
+Cadillac Eldorado  Sixth generation   1	automobilePlatform	GM E platform
+Cadillac Eldorado  Seventh generation   1	automobilePlatform	GM E platform
+Cadillac Eldorado  Eighth generation   1	automobilePlatform	GM E platform
+Volkswagen Phaeton	automobilePlatform	Volkswagen Group D platform#D1s
+Nissan Navara  Second Generation D40   1	automobilePlatform	Nissan F-Alpha platform
+Ford Five Hundred	automobilePlatform	Ford D3 platform
+Pontiac G6	automobilePlatform	GM Epsilon platform
+Pontiac Solstice	automobilePlatform	GM Kappa platform
+Oldsmobile Cutlass  First generation   1	automobilePlatform	GM A platform
+Oldsmobile Cutlass  econd generation   1	automobilePlatform	GM A platform
+Oldsmobile Cutlass  Third generation   1	automobilePlatform	GM A platform
+Oldsmobile Cutlass  Fourth generation   1	automobilePlatform	GM A platform
+Oldsmobile Cutlass  Fifth generation   1	automobilePlatform	GM A platform (RWD)
+Oldsmobile Cutlass  Fifth generation   1	automobilePlatform	GM G platform (RWD)
+Oldsmobile Cutlass  ixth generation   1	automobilePlatform	GM N platform
+Ford Ka  Mark II   1	automobilePlatform	Fiat Mini platform
+Mercedes-Benz E-Class  W124   1	automobilePlatform	Mercedes-Benz W124
+Mercedes-Benz E-Class  W210   1	automobilePlatform	Mercedes-Benz W210
+Mercedes-Benz E-Class  W211   1	automobilePlatform	Mercedes-Benz W211
+Fiat Croma    1	automobilePlatform	Type Four chassis
+Fiat Croma    2	automobilePlatform	GM Epsilon platform
+SEAT Ibiza  Mk2 6K   1	automobilePlatform	Volkswagen Group A0 platform#A03
+SEAT Ibiza  Mk3 6L   1	automobilePlatform	Volkswagen Group A0 platform#A04
+SEAT Ibiza  Mk4 6J   1	automobilePlatform	Volkswagen Group A0 platform#PQ25
+Ford Fiesta  Mark III   1	automobilePlatform	Ford B platform
+Ford Fiesta  Mark IV   1	automobilePlatform	Ford B platform
+Ford Fiesta  Mark V   1	automobilePlatform	Ford B3 platform
+Ford Fiesta  Mark VI   1	automobilePlatform	Ford B3 platform
+Fiat Uno  "Novo" Fiat Uno   1	automobilePlatform	Fiat Mini platform
+Volkswagen Lupo	automobilePlatform	Volkswagen Group A00 platform
+Fiat Panda  Second generation   1	automobilePlatform	Fiat Mini platform
+Plymouth Reliant	automobilePlatform	Chrysler K platform
+Chevrolet Chevette	automobilePlatform	GM T platform
+Austin Metro  MG Metro 6R4   1	automobilePlatform	Mid-engine, four-wheel drive layout
+SEAT Alhambra  Mk2   1	automobilePlatform	Volkswagen Group A platform#A5
+SEAT León	automobilePlatform	Volkswagen Group A platform
+SEAT León  Mk1 1M   1	automobilePlatform	Volkswagen Group A platform#A4
+SEAT León  Mk2 1P   1	automobilePlatform	Volkswagen Group A platform#A5
+Mercedes-Benz 300SEL 6.3	automobilePlatform	Mercedes-Benz W108
+Jaguar S-Type	automobilePlatform	Ford DEW platform
+Mercedes-Benz CLS-Class	automobilePlatform	Mercedes-Benz W219
+Chevrolet Corsica	automobilePlatform	GM L platform
+Mazda MX-3	automobilePlatform	Mazda E platform#EC
+TVR Tuscan Speed 6	automobilePlatform	Fiberglass
+Opel Zafira  A   1	automobilePlatform	GM T platform
+Opel Zafira  B   1	automobilePlatform	GM Delta platform
+Cadillac Seville  First Generation   1	automobilePlatform	GM K platform (RWD)
+Cadillac Seville  Second Generation   1	automobilePlatform	GM K platform (FWD)
+Cadillac Seville  Third Generation   1	automobilePlatform	GM K platform (FWD)
+Cadillac Seville  Fourth Generation   1	automobilePlatform	GM K platform (FWD)
+Cadillac Seville  Fifth Generation   1	automobilePlatform	GM K platform (FWD)
+Aston Martin Vanquish	automobilePlatform	Aston Martin VH platform
+Buick Riviera  Second generation   1	automobilePlatform	GM E platform
+Buick Riviera  Third generation   1	automobilePlatform	GM E platform
+Buick Riviera  Fourth generation   1	automobilePlatform	GM E platform
+Buick Riviera  Fifth generation   1	automobilePlatform	GM B platform
+Buick Riviera  Sixth generation   1	automobilePlatform	GM E platform
+Buick Riviera  Seventh generation   1	automobilePlatform	GM E platform
+Buick Riviera  Eighth generation   1	automobilePlatform	GM G platform (FWD)
+Cadillac Coupe de Ville	automobilePlatform	GM C platform
+Cadillac Coupe de Ville  Fifth generation   1	automobilePlatform	GM C platform
+Buick Electra  Fourth generation   1	automobilePlatform	GM C platform
+Buick Electra  Fifth generation   1	automobilePlatform	GM C platform
+Buick Electra  Sixth generation   1	automobilePlatform	GM C platform
+Aston Martin DB9	automobilePlatform	Aston Martin VH platform
+Pontiac Grand Prix  First generation   1	automobilePlatform	GM B platform
+Pontiac Grand Prix  Second generation   1	automobilePlatform	GM G platform (RWD)
+Pontiac Grand Prix  Third generation   1	automobilePlatform	GM A platform (RWD)
+Pontiac Grand Prix  Fourth generation   1	automobilePlatform	GM A platform (RWD)
+Pontiac Grand Prix  Fourth generation   1	automobilePlatform	GM G platform (RWD)
+Pontiac Grand Prix  Fifth generation   1	automobilePlatform	GM W platform
+Pontiac Grand Prix  Sixth generation   1	automobilePlatform	GM W platform
+Pontiac Grand Prix  Seventh generation   1	automobilePlatform	GM W platform
+Audi A6	automobilePlatform	Volkswagen Group C platform
+Audi A6  C4   1	automobilePlatform	Volkswagen Group C platform#C4
+Audi A6  C5   1	automobilePlatform	Volkswagen Group C platform#C5
+Audi A6  C6   1	automobilePlatform	Volkswagen Group C platform#C6
+Audi A6  C7   1	automobilePlatform	Volkswagen Group MLB platform
+Ford Explorer  Fifth generation U502   1	automobilePlatform	Ford D3 platform#D4
+Oldsmobile 98  Fifth generation   1	automobilePlatform	GM C platform
+Oldsmobile 98  Sixth generation   1	automobilePlatform	GM C platform
+Oldsmobile 98  Seventh generation   1	automobilePlatform	GM C platform
+Oldsmobile 98  Eighth generation   1	automobilePlatform	GM C platform
+Oldsmobile 98  Ninth generation   1	automobilePlatform	GM C platform
+Oldsmobile 98  Tenth generation   1	automobilePlatform	GM C platform
+Oldsmobile 98  Eleventh generation   1	automobilePlatform	GM C platform
+Pontiac Catalina  Seventh generation   1	automobilePlatform	GM B platform
+Oldsmobile 88  Fourth generation   1	automobilePlatform	GM B platform
+Oldsmobile 88  Fifth generation   1	automobilePlatform	GM B platform
+Oldsmobile 88  Sixth generation   1	automobilePlatform	GM B platform
+Oldsmobile 88  Seventh generation   1	automobilePlatform	GM B platform
+Oldsmobile 88  Eighth generation   1	automobilePlatform	GM B platform
+Oldsmobile 88  Ninth generation   1	automobilePlatform	GM B platform
+Oldsmobile 88  Tenth generation   1	automobilePlatform	GM H platform (FWD)
+Oldsmobile 88  Eleventh generation   1	automobilePlatform	GM H platform (FWD)
+Pontiac Bonneville  Second generation   1	automobilePlatform	GM B platform
+Pontiac Bonneville  Third generation   1	automobilePlatform	GM B platform
+Pontiac Bonneville  Fourth generation   1	automobilePlatform	GM B platform
+Pontiac Bonneville  Fifth generation   1	automobilePlatform	GM B platform
+Pontiac Bonneville  Sixth generation   1	automobilePlatform	GM G platform (RWD)
+Pontiac Bonneville  Seventh generation   1	automobilePlatform	GM H platform (FWD)
+Pontiac Bonneville  ighth generation   1	automobilePlatform	GM H platform (FWD)
+Pontiac Bonneville  Ninth generation   1	automobilePlatform	GM H platform (FWD)
+Lincoln Town Car	automobilePlatform	Ford Panther platform
+Oldsmobile Toronado	automobilePlatform	GM E platform
+Renault Clio  Third generation   1	automobilePlatform	Nissan B platform
+Ford Probe  First generation   1	automobilePlatform	Mazda G platform#GD
+Ford Probe  Second generation   1	automobilePlatform	Mazda G platform#GE
+Eagle Talon  First generation   1	automobilePlatform	Chrysler D platform
+Eagle Talon  Second generation   1	automobilePlatform	Chrysler D platform#PJ
+Chrysler Cirrus	automobilePlatform	Chrysler JA platform
+Volkswagen Corrado	automobilePlatform	Volkswagen Group A platform#A2
+Volkswagen Type 2	automobilePlatform	Volkswagen Transporter
+Volkswagen Type 2  T1   1	automobilePlatform	Volkswagen Transporter#T1
+Volkswagen Type 2  T2   1	automobilePlatform	Volkswagen Transporter#T2
+Mercedes-Benz R-Class	automobilePlatform	Mercedes-Benz W251
+Volkswagen Passat	automobilePlatform	Volkswagen Group B platform
+Audi TT	automobilePlatform	Volkswagen Group A platform
+Audi TT  8N   1	automobilePlatform	Volkswagen Group A platform#A4
+Audi TT  8J   1	automobilePlatform	Volkswagen Group A platform#A5
+Mercedes-Benz 450SEL 6.9	automobilePlatform	Mercedes-Benz W116
+Volkswagen Touareg	automobilePlatform	Volkswagen Group PL71 platform
+Volkswagen Transporter (T4)	automobilePlatform	Volkswagen Transporter#T4
+Mitsubishi Eclipse  First generation   1	automobilePlatform	Chrysler D platform
+Mitsubishi Eclipse  cond generation   1	automobilePlatform	Chrysler D platform#PJ
+Mitsubishi Eclipse  Third generation   1	automobilePlatform	Chrysler D platform#ST-22
+Mitsubishi Eclipse  Fourth generation   1	automobilePlatform	Mitsubishi PS platform
+Cadillac Cimarron	automobilePlatform	GM J platform
+Renault Mégane  II   1	automobilePlatform	Nissan C platform
+Renault Mégane  III   1	automobilePlatform	Nissan C platform
+Dodge Daytona	automobilePlatform	Chrysler K platform
+Cadillac Allanté	automobilePlatform	GM V platform (FWD)
+Volkswagen Santana	automobilePlatform	Volkswagen Group B platform#B2
+Volkswagen Gol  Fifth generation G5   1	automobilePlatform	Volkswagen Group A0 platform#PQ24
+Mercury Cougar  Fifth generation   1	automobilePlatform	Ford Fox platform
+Mercury Cougar  Sixth generation   1	automobilePlatform	Ford Fox platform
+Mercury Cougar  Seventh generation   1	automobilePlatform	Ford MN12 platform
+Mercury Cougar  Eighth generation   1	automobilePlatform	Ford CDW27 platform
+Bentley Continental GT  First Generation   1	automobilePlatform	Volkswagen Group D platform#D1s
+Oldsmobile 442  First generation   1	automobilePlatform	GM A platform (RWD)
+Oldsmobile 442  Second generation   1	automobilePlatform	GM A platform (RWD)
+Oldsmobile 442  Third generation   1	automobilePlatform	GM A platform (RWD)
+Oldsmobile 442  Fourth generation   1	automobilePlatform	GM A platform (RWD)
+Lincoln Continental  Fifth Generation   1	automobilePlatform	Full-size Ford
+Lincoln Continental  Seventh generation   1	automobilePlatform	Ford Fox platform
+Lincoln Continental  Eighth Generation   1	automobilePlatform	Ford D186 platform
+Lincoln Continental  Ninth generation   1	automobilePlatform	Ford D186 platform
+Nissan Altima  Third generation   1	automobilePlatform	Nissan FF-L platform
+Nissan Altima  Fourth generation   1	automobilePlatform	Nissan D platform
+Volvo S80  First generation   1	automobilePlatform	Ford D3 platform
+Volvo S80  Second generation   1	automobilePlatform	Ford EUCD platform
+Mitsubishi Galant  Ninth generation   1	automobilePlatform	Mitsubishi PS platform
+Audi 100	automobilePlatform	Volkswagen Group C platform
+Audi 100  C1   1	automobilePlatform	Volkswagen Group C platform#C1
+Audi 100  & 200 C2   1	automobilePlatform	Volkswagen Group C platform#C2
+Audi 100  & 200 C3   1	automobilePlatform	Volkswagen Group C platform#C3
+Audi 100  C4   1	automobilePlatform	Volkswagen Group C platform#C4
+Audi 80	automobilePlatform	Volkswagen Group B platform
+Audi 80  B1   1	automobilePlatform	Volkswagen B platform#B1
+Audi 80  B2   1	automobilePlatform	Volkswagen Group B platform#B2
+Audi 80  B3   1	automobilePlatform	Volkswagen Group B platform#B3
+Audi 80  B4   1	automobilePlatform	Volkswagen Group B platform#B4
+Audi A3	automobilePlatform	Volkswagen Group A platform
+Audi A3  8L   1	automobilePlatform	Volkswagen Group A platform#PQ34
+Audi A3  8P   1	automobilePlatform	Volkswagen Group A platform#PQ35
+Audi A3  Audi S3 8L   1	automobilePlatform	Volkswagen A platform#A4
+Audi A3  Audi S3 8P/8PA   1	automobilePlatform	Volkswagen Group A platform#PQ35
+Audi A3  Audi RS 3 Sportback   1	automobilePlatform	Volkswagen Group A platform#PQ35
+Opel Omega	automobilePlatform	GM V platform (RWD)
+Oldsmobile Intrigue	automobilePlatform	GM W platform
+Oldsmobile Aurora	automobilePlatform	GM G platform (FWD)
+Dodge Spirit	automobilePlatform	Chrysler A platform
+Pontiac 6000	automobilePlatform	GM A platform (FWD)
+Chevrolet Lumina  First Generation   1	automobilePlatform	GM W platform
+Chevrolet Lumina  Second Generation:   1	automobilePlatform	GM W platform
+Chevrolet Celebrity	automobilePlatform	GM A platform (FWD)
+Dodge Shadow	automobilePlatform	Chrysler K platform
+Chrysler New Yorker  1965–1968   1	automobilePlatform	Chrysler C platform
+Chrysler New Yorker  1969–1973   1	automobilePlatform	Chrysler C platform
+Chrysler New Yorker  1974–1978   1	automobilePlatform	Chrysler C platform
+Chrysler New Yorker  1979–1981   1	automobilePlatform	Chrysler R platform
+Chrysler New Yorker  1982   1	automobilePlatform	Chrysler M platform
+Chrysler New Yorker  1983–1988   1	automobilePlatform	Chrysler E platform
+Chrysler New Yorker  1988–1993   1	automobilePlatform	Chrysler C platform
+Chrysler New Yorker  1994–1996   1	automobilePlatform	Chrysler LH platform
+Oldsmobile Alero	automobilePlatform	GM N platform
+Chrysler Crossfire	automobilePlatform	Mercedes-Benz R170
+Audi A8	automobilePlatform	Volkswagen Group D platform
+Audi A8  Audi D2 A8 Typ 4D   1	automobilePlatform	Volkswagen Group D platform#D2
+Audi A8  Audi D3 A8 Typ 4E   1	automobilePlatform	Volkswagen Group D platform#D3
+Audi A8  Audi D4 A8 Typ 4H   1	automobilePlatform	Volkswagen Group MLB platform
+Dodge Lancer	automobilePlatform	Front-engine, rear-wheel drive layout
+Dodge Lancer	automobilePlatform	Front-engine, front-wheel drive layout
+Dodge Lancer  1961–1962   1	automobilePlatform	Chrysler A platform
+Dodge Lancer  1985–1989   1	automobilePlatform	Chrysler K platform
+Dodge Dynasty	automobilePlatform	Chrysler C platform
+Audi A5	automobilePlatform	Volkswagen B platform#MLB
+Dodge Challenger  First generation   1	automobilePlatform	Chrysler E platform
+Dodge Challenger  Third generation   1	automobilePlatform	Chrysler LX platform#LC
+Buick Special  1961   1	automobilePlatform	GM Y platform
+Buick Special  1962–1963   1	automobilePlatform	GM Y platform
+Buick Special  1964–1969   1	automobilePlatform	GM A platform (RWD)
+Audi A4	automobilePlatform	Volkswagen Group B platform
+Audi A4  B5   1	automobilePlatform	Volkswagen Group B platform#B5
+Audi A4  B6   1	automobilePlatform	Volkswagen Group B platform#B6
+Audi A4  B7   1	automobilePlatform	Volkswagen Group B platform#B7
+Audi A4  B8   1	automobilePlatform	Volkswagen Group B platform#B8
+Ford Ikon	automobilePlatform	Ford B3 platform
+Renault Laguna  III   1	automobilePlatform	Nissan D platform
+Pontiac Fiero	automobilePlatform	GM P platform
+Chevrolet Cavalier	automobilePlatform	GM J platform
+Volvo XC60	automobilePlatform	Ford EUCD platform
+Nissan 240SX	automobilePlatform	Nissan S platform
+Chrysler 300	automobilePlatform	Chrysler LX platform
+Chrysler 300  First generation   1	automobilePlatform	Chrysler LX platform
+Chrysler 300  Second generation   1	automobilePlatform	Chrysler LX platform
+Pontiac Tempest  First generation   1	automobilePlatform	GM Y platform
+Pontiac Tempest  Second generation   1	automobilePlatform	GM A platform (RWD)
+Pontiac Tempest  hird generation   1	automobilePlatform	GM L platform
+Chevrolet El Camino  Second generation   1	automobilePlatform	GM A platform (RWD)
+Chevrolet El Camino  Third generation   1	automobilePlatform	GM A platform (RWD)
+Chevrolet El Camino  Fourth generation   1	automobilePlatform	GM A platform (RWD)
+Chevrolet El Camino  Fifth generation   1	automobilePlatform	GM A platform (RWD)
+Chevrolet El Camino  Fifth generation   1	automobilePlatform	GM G platform (RWD)
+Volvo C30	automobilePlatform	Ford C1 platform
+Volkswagen Fox	automobilePlatform	Volkswagen Group A0 platform#PQ24
+Holden Camira	automobilePlatform	GM J platform
+Oldsmobile Cutlass Supreme  First generation   1	automobilePlatform	GM A platform (RWD)
+Oldsmobile Cutlass Supreme  Second generation   1	automobilePlatform	GM A platform (RWD)
+Oldsmobile Cutlass Supreme  Third generation   1	automobilePlatform	GM A platform (RWD)
+Oldsmobile Cutlass Supreme  Fourth generation   1	automobilePlatform	GM A platform (RWD)
+Oldsmobile Cutlass Supreme  Fourth generation   1	automobilePlatform	GM G platform (RWD)
+Oldsmobile Cutlass Supreme  Fifth generation   1	automobilePlatform	GM W platform
+Buick Century  Third generation   1	automobilePlatform	GM A platform (RWD)
+Buick Century  Fourth generation   1	automobilePlatform	GM A platform (RWD)
+Buick Century  Fifth generation   1	automobilePlatform	GM A platform (FWD)
+Buick Century  Sixth generation   1	automobilePlatform	GM W platform
+Buick Regal  First generation   1	automobilePlatform	GM A platform (RWD)
+Buick Regal  Second generation   1	automobilePlatform	GM A platform (RWD)
+Buick Regal  Second generation   1	automobilePlatform	GM G platform (RWD)
+Buick Regal  Third generation   1	automobilePlatform	GM W platform
+Buick Regal  Fourth generation   1	automobilePlatform	GM W platform
+Buick Regal  Fifth generation   1	automobilePlatform	GM Epsilon platform#Epsilon II
+Plymouth Valiant	automobilePlatform	Chrysler A platform
+Plymouth Barracuda  First generation   1	automobilePlatform	Chrysler A platform
+Plymouth Barracuda  Second generation   1	automobilePlatform	Chrysler A platform
+Plymouth Barracuda  Third generation   1	automobilePlatform	Chrysler E platform
+Plymouth Duster  First generation   1	automobilePlatform	Chrysler A platform
+Plymouth Duster  Second generation   1	automobilePlatform	Chrysler L platform
+Plymouth Duster  Third generation   1	automobilePlatform	Chrysler K platform
+Chrysler Fifth Avenue  First generation   1	automobilePlatform	Chrysler M platform
+Chrysler Fifth Avenue  Second generation   1	automobilePlatform	Chrysler K platform
+Mazda 929  Third generation   1	automobilePlatform	Mazda H platform#HB
+Mazda 929  Fourth generation   1	automobilePlatform	Mazda H platform#HC
+Mazda 929  Fifth generation   1	automobilePlatform	Mazda H platform#HD
+Mazda 929  Sixth generation   1	automobilePlatform	Mazda H platform#HD
+Mazda 626  Mark 2   1	automobilePlatform	Mazda G platform#GC
+Mazda 626  Mark 3   1	automobilePlatform	Mazda G platform#GD
+Mazda 626  Mark 4   1	automobilePlatform	Mazda G platform#GE
+Mazda 626  Mark 5   1	automobilePlatform	Mazda G platform#GF
+Mazda MPV  First generation   1	automobilePlatform	Mazda L platform#LV
+Mazda MPV  Second generation   1	automobilePlatform	Mazda L platform#LW
+Mazda MPV  Third generation Asia-Pacific   1	automobilePlatform	Mazda L platform#LY
+Mazda MX-6  First generation   1	automobilePlatform	Mazda G platform#GD
+Mazda MX-6  Second generation   1	automobilePlatform	Mazda G platform#GE
+Mercedes-Benz G-Class  460   1	automobilePlatform	Mercedes-Benz 460
+Mercedes-Benz G-Class  463   1	automobilePlatform	Mercedes-Benz 463
+Dodge Charger Daytona  First generation   1	automobilePlatform	Chrysler B platform
+Dodge Charger Daytona  Second generation   1	automobilePlatform	Chrysler LX platform
+Dodge Dart  hird generation   1	automobilePlatform	Chrysler A platform
+Dodge Dart  Fourth generation   1	automobilePlatform	Chrysler A platform
+Volkswagen Touran	automobilePlatform	Volkswagen Group A platform#A5
+Opel Calibra	automobilePlatform	GM2900 platform
+Nissan Micra  K12   1	automobilePlatform	Nissan B platform
+Nissan Micra  K13   1	automobilePlatform	Nissan V platform
+Mercedes-Benz SL-Class  First generation   1	automobilePlatform	Mercedes-Benz 190SL
+Mercedes-Benz SL-Class  First generation   1	automobilePlatform	Mercedes-Benz 300SL
+Mercedes-Benz SL-Class  econd generation   1	automobilePlatform	Mercedes-Benz W113
+Mercedes-Benz SL-Class  Third generation   1	automobilePlatform	Mercedes-Benz R107 and C107
+Mercedes-Benz SL-Class  Fourth generation   1	automobilePlatform	Mercedes-Benz R129
+Mercedes-Benz SL-Class  Fifth generation   1	automobilePlatform	Mercedes-Benz R230
+Mercedes-Benz SL-Class  Fifth Generation Facelift   1	automobilePlatform	Mercedes-Benz R230
+Chevrolet Omega  A   1	automobilePlatform	Front-engine, rear-wheel drive layout
+Chevrolet Omega  B   1	automobilePlatform	Front-engine, rear-wheel drive layout
+Chevrolet Omega  C   1	automobilePlatform	Front-engine, rear-wheel drive layout
+Chrysler Horizon	automobilePlatform	Chrysler L platform
+Cadillac CTS  First generation   1	automobilePlatform	GM Sigma platform
+Cadillac CTS  econd generation   1	automobilePlatform	GM Sigma platform#Sigma II
+Imperial (automobile)  Second generation   1	automobilePlatform	Chrysler D platform (RWD)
+Imperial (automobile)  Third generation   1	automobilePlatform	Chrysler C platform
+Imperial (automobile)  Fourth generation   1	automobilePlatform	Chrysler C platform
+Imperial (automobile)  Fifth generation   1	automobilePlatform	Chrysler C platform
+Imperial (automobile)  Sixth generation   1	automobilePlatform	Chrysler J platform
+Imperial (automobile)  Crown Imperial   1	automobilePlatform	Chrysler D platform (RWD)
+Ford Escape	automobilePlatform	Ford CD2 platform
+Mazda Tribute	automobilePlatform	Ford CD2 platform
+Opel Sintra	automobilePlatform	GM U platform
+Volkswagen LT	automobilePlatform	Volkswagen Group/Daimler AG LT/T1N platform
+Fiat Stilo	automobilePlatform	Fiat C-platform
+Mercedes-Benz SLK-Class  R170   1	automobilePlatform	Mercedes-Benz R170
+Mercedes-Benz SLK-Class  R171   1	automobilePlatform	Mercedes-Benz R171
+Mercedes-Benz CL-Class  First generation   1	automobilePlatform	Mercedes-Benz W140
+Mercedes-Benz CL-Class  econd generation   1	automobilePlatform	Mercedes-Benz C215
+Mercedes-Benz CL-Class  Third generation   1	automobilePlatform	Mercedes-Benz C216
+Mercedes-Benz M-Class  W163   1	automobilePlatform	Mercedes-Benz M-Class#W163
+Mercedes-Benz M-Class  W164   1	automobilePlatform	Mercedes-Benz M-Class#W164
+Mazda Demio  DW   1	automobilePlatform	Mazda D platform#DW
+Mazda Demio  DY   1	automobilePlatform	Mazda D platform#DY
+Mazda Demio  DE   1	automobilePlatform	Mazda D platform#DE
+Ford Fairmont	automobilePlatform	Ford Fox platform
+Mercury Zephyr	automobilePlatform	Ford Fox platform
+Oldsmobile Silhouette	automobilePlatform	GM U platform
+Dodge Omni	automobilePlatform	Chrysler L platform
+Buick LaCrosse  First generationNorth America   1	automobilePlatform	GM W platform
+Buick LaCrosse  First generationChina   1	automobilePlatform	GM W platform
+Buick LaCrosse  cond generation   1	automobilePlatform	GM Epsilon platform#Epsilon II
+Saturn L-Series	automobilePlatform	GM2900 platform
+Saturn S-Series	automobilePlatform	GM Z platform
+Saturn Vue  First generation   1	automobilePlatform	GM Theta platform
+Saturn Ion	automobilePlatform	GM Delta platform
+Chrysler TC by Maserati	automobilePlatform	Chrysler K platform
+Chrysler E-Class	automobilePlatform	Chrysler E platform
+Plymouth Caravelle	automobilePlatform	Chrysler E platform
+Plymouth Caravelle	automobilePlatform	Chrysler K platform
+Dodge 600	automobilePlatform	Chrysler E platform
+Dodge 600	automobilePlatform	Chrysler K platform
+Dodge 400	automobilePlatform	Chrysler K platform
+Chrysler LeBaron  Classic generation   1	automobilePlatform	Chrysler
+Chrysler LeBaron  Imperial generation   1	automobilePlatform	Frame (vehicle)#Perimeter Frame
+Chrysler LeBaron  Imperial generation   1	automobilePlatform	Monocoque#Automobiles
+Chrysler LeBaron  First generation   1	automobilePlatform	Chrysler M platform
+Chrysler LeBaron  Second generation   1	automobilePlatform	Chrysler K platform
+Chrysler LeBaron  GTS/LeBaron   1	automobilePlatform	Chrysler K platform
+Chrysler LeBaron  Third generation coupe/convertible   1	automobilePlatform	Chrysler J platform
+Chrysler LeBaron  Third generation sedan   1	automobilePlatform	Chrysler K platform
+Plymouth Laser	automobilePlatform	Chrysler D platform
+Eagle Vision	automobilePlatform	Chrysler LH platform
+Chrysler Concorde	automobilePlatform	Chrysler LH platform
+Plymouth Voyager  Full-size Voyager   1	automobilePlatform	Chrysler AB platform
+Plymouth Voyager  Generation I - minivan   1	automobilePlatform	Chrysler S platform
+Plymouth Voyager  Generation II   1	automobilePlatform	Chrysler S platform
+Plymouth Voyager  Generation III   1	automobilePlatform	Chrysler S platform
+Chrysler 300M	automobilePlatform	Chrysler LH platform
+Eagle Premier	automobilePlatform	Chrysler B platform
+Plymouth Sundance	automobilePlatform	Chrysler K platform
+Shelby Charger	automobilePlatform	Chrysler L platform
+Dodge Stratus  First generation   1	automobilePlatform	Chrysler JA platform
+Dodge Stratus  econd generation   1	automobilePlatform	Chrysler JA platform
+Dodge Stratus  tratus Coupe   1	automobilePlatform	Chrysler D platform
+Chrysler Voyager  Generation I   1	automobilePlatform	Chrysler S platform
+Chrysler Voyager  Generation II   1	automobilePlatform	Chrysler S platform#AS
+Chrysler Voyager  Generation III   1	automobilePlatform	Chrysler S platform#GS
+Chrysler Voyager  Generation III   1	automobilePlatform	Chrysler S platform#NS
+Chrysler Voyager  Generation IV   1	automobilePlatform	Chrysler S platform#RG
+Chrysler Voyager  Generation IV   1	automobilePlatform	Chrysler S platform#RS
+Chrysler Voyager  Generation V   1	automobilePlatform	Chrysler S platform#RT
+Plymouth Breeze	automobilePlatform	Chrysler JA platform
+Lancia Thema	automobilePlatform	Type Four chassis
+GMC Envoy	automobilePlatform	GMT360
+Chevrolet Silverado  GMT800 Half-ton   1	automobilePlatform	GM GMT platform#GMT 800
+Chevrolet Silverado  GMT800 Heavy Duty   1	automobilePlatform	GM GMT platform#GMT 800
+Chevrolet Silverado  GMT900 Half-ton   1	automobilePlatform	GM GMT platform#GMT 900
+Chevrolet Silverado  GMT900 Heavy Duty   1	automobilePlatform	GM GMT platform#GMT 900
+Chevrolet Silverado  COMBATT / MILCOT Milverado   1	automobilePlatform	GM GMT platform#GMT 900
+Chevrolet C/K  Fourth generation / GMT400   1	automobilePlatform	GMT400
+Ford E-Series  Third generation   1	automobilePlatform	Ford VN platform
+Ford E-Series  Fourth generation   1	automobilePlatform	Ford VN platform
+Chrysler Sebring  First generation   1	automobilePlatform	Chrysler JA platform
+Chrysler Sebring  First generation   1	automobilePlatform	Chrysler D platform
+Chrysler Sebring  Second generation   1	automobilePlatform	Chrysler JA platform
+Chrysler Sebring  Second generation   1	automobilePlatform	Chrysler D platform
+Chrysler Sebring  Third generation   1	automobilePlatform	Mitsubishi GS platform
+Dodge Avenger  coupe   1	automobilePlatform	Chrysler D platform
+Dodge Avenger  sedan   1	automobilePlatform	Mitsubishi GS platform
+Pontiac Astre	automobilePlatform	GM H platform (RWD)
+Buick Skyhawk  First generation   1	automobilePlatform	GM H platform (RWD)
+Buick Skyhawk  Second generation   1	automobilePlatform	GM J platform
+Oldsmobile Starfire  First generation   1	automobilePlatform	GM B platform
+Chevrolet Vega	automobilePlatform	GM H platform (RWD)
+Oldsmobile Firenza	automobilePlatform	GM J platform
+Chevrolet Monza	automobilePlatform	GM H platform
+Audi A6 allroad quattro	automobilePlatform	Volkswagen Group C platform
+Audi A6 allroad quattro  Audi allroad quattro C5   1	automobilePlatform	Volkswagen Group C platform#C5
+Audi A6 allroad quattro  C6   1	automobilePlatform	Volkswagen Group C platform#C6
+Oldsmobile Bravada  First generation   1	automobilePlatform	GM GMT platform#GMT 325/330
+Oldsmobile Bravada  Second generation   1	automobilePlatform	GM GMT platform#GMT 325/330
+Oldsmobile Bravada  Third generation   1	automobilePlatform	GMT360
+Mercury Montego  2005–2007   1	automobilePlatform	Ford D3 platform
+Mercury Marauder  First generation   1	automobilePlatform	Full-size Ford
+Mercury Marauder  Third generation   1	automobilePlatform	Ford Panther platform
+Mercury Grand Marquis	automobilePlatform	Ford Panther platform
+Mercury Grand Marquis  1	automobilePlatform	Full-size Ford
+Mercury Grand Marquis  1	automobilePlatform	Ford Panther platform
+BMW 6 Series (E63)	automobilePlatform	BMW 6 Series (E63)
+Land Rover Freelander  Second generation   1	automobilePlatform	Ford EUCD platform
+Chevrolet Citation	automobilePlatform	GM X platform
+Mercury Villager	automobilePlatform	Ford VX54 platform
+Nissan 350Z	automobilePlatform	Nissan FM platform
+Mercury Sable  First generation   1	automobilePlatform	Ford D186 platform
+Mercury Sable  Second generation   1	automobilePlatform	Ford D186 platform
+Mercury Sable  Third generation   1	automobilePlatform	Ford D186 platform
+Mercury Sable  Fourth generation   1	automobilePlatform	Ford D186 platform
+Mercury Sable  Fifth generation   1	automobilePlatform	Ford D3 platform
+Tata Indigo  Manza   1	automobilePlatform	Tata X1 platform
+Chrysler Imperial  Seventh Generation   1	automobilePlatform	Chrysler K platform
+Mercury Mariner	automobilePlatform	Ford CD2 platform
+Cadillac XLR	automobilePlatform	GM Y platform
+Cadillac STS	automobilePlatform	GM Sigma platform
+Buick Rendezvous	automobilePlatform	GM U platform
+Ford F-Series  Tenth generation   1	automobilePlatform	Ford P platform
+Ford F-Series  Eleventh generation   1	automobilePlatform	Ford P platform#P2
+Ford F-Series  Twelfth generation   1	automobilePlatform	Ford P platform#P2
+Mercury Topaz	automobilePlatform	Ford CE14 platform
+Mercury Capri  Second generation   1	automobilePlatform	Ford Fox platform
+Ford LTD (Americas)  Fourth generation   1	automobilePlatform	Ford Panther platform
+Ford LTD (Americas)  Fifth generation   1	automobilePlatform	Ford Fox platform
+Porsche 935	automobilePlatform	Porsche 911
+Nissan Skyline  V35   1	automobilePlatform	Nissan FM platform
+Nissan Skyline  V36, J50   1	automobilePlatform	Nissan FM platform
+Cadillac Catera	automobilePlatform	GM V platform
+Opel Senator  B   1	automobilePlatform	GM V platform (RWD)
+Chrysler Cordoba  First generation   1	automobilePlatform	Chrysler B platform
+Chrysler Cordoba  Second generation   1	automobilePlatform	Chrysler J platform
+Audi 50	automobilePlatform	Volkswagen Group A0 platform#A01
+Chrysler Town & Country  Generation I   1	automobilePlatform	Chrysler S platform#T-115
+Chrysler Town & Country  Generation II   1	automobilePlatform	Chrysler S platform#AS
+Chrysler Town & Country  Generation III   1	automobilePlatform	Chrysler S platform#NS
+Chrysler Town & Country  Generation IV   1	automobilePlatform	Chrysler S platform#RS
+Chrysler Town & Country  Generation V   1	automobilePlatform	Chrysler S platform
+Pontiac LeMans  1961–1963   1	automobilePlatform	GM Y platform
+Pontiac LeMans  1964–1969   1	automobilePlatform	GM A platform (RWD)
+Pontiac LeMans  1970–1972   1	automobilePlatform	GM A platform (RWD)
+Pontiac LeMans  1973–1977   1	automobilePlatform	GM A platform (RWD)
+Pontiac LeMans  1978–1981   1	automobilePlatform	GM A platform (RWD)
+Pontiac Aztek	automobilePlatform	GM U platform
+Pontiac Trans Sport	automobilePlatform	GM U platform
+Mercury Milan	automobilePlatform	Ford CD3 platform
+Audi Quattro	automobilePlatform	Volkswagen B platform#B2
+Chevrolet Tahoe  GMT400   1	automobilePlatform	GM GMT platform#GMT 400
+Chevrolet Tahoe  GMT800   1	automobilePlatform	GM GMT platform#GMT 800
+Chevrolet Tahoe  GMT900   1	automobilePlatform	GM GMT platform#GMT 900
+Chevrolet Colorado	automobilePlatform	GM GMT platform#GMT 355
+Chevrolet Equinox  First generation   1	automobilePlatform	GM Theta platform
+Chevrolet Equinox  Second generation   1	automobilePlatform	GM Theta platform
+Chevrolet Suburban  GMT400   1	automobilePlatform	GMT400
+Chevrolet Suburban  GMT800   1	automobilePlatform	GM GMT platform#GMT 800
+Chevrolet Suburban  GMT900   1	automobilePlatform	GM GMT platform#GMT 900
+Dodge Magnum  1978–1979   1	automobilePlatform	Chrysler B platform
+Dodge Magnum  Brazilian Dodge Magnum 1979–1981   1	automobilePlatform	Chrysler A platform
+Dodge Magnum  exican Dodge Magnum 1981–1982   1	automobilePlatform	Chrysler M platform
+Dodge Magnum  exican Dodge Magnum 400/Magnum K 1983–1988   1	automobilePlatform	Chrysler K platform
+Dodge Magnum  2005–2008   1	automobilePlatform	Chrysler LX platform
+Volvo S40  Second generation   1	automobilePlatform	Ford C1 platform
+Ford Expedition  First generation UN93   1	automobilePlatform	Ford U platform
+Ford Expedition  Second generation U222   1	automobilePlatform	Ford U platform
+Ford Expedition  Third generation U324   1	automobilePlatform	Ford T platform
+Ford Expedition  EL U354   1	automobilePlatform	Ford T platform
+Lincoln Aviator	automobilePlatform	Ford U platform
+Lincoln Navigator  First generation UN173   1	automobilePlatform	Ford U platform
+Lincoln Navigator  Second generation U228   1	automobilePlatform	Ford U platform
+Lincoln Navigator  Third generation U326   1	automobilePlatform	Ford T platform
+Lincoln LS	automobilePlatform	Ford DEW platform
+Lincoln Blackwood	automobilePlatform	Ford P platform
+Lincoln Mark VIII	automobilePlatform	Ford MN12 platform
+Lincoln Continental Mark VII	automobilePlatform	Ford Fox platform
+Ford Aerostar	automobilePlatform	Ford VN platform
+Ford Aerostar  Second generation   1	automobilePlatform	Ford VN platform
+Vauxhall VX220	automobilePlatform	Lotus Elise
+Volkswagen Type 2 (T3)	automobilePlatform	Volkswagen Group T platform#T3
+Isuzu Aska  First generation   1	automobilePlatform	GM J platform
+Alfa Romeo 164	automobilePlatform	Type Four chassis
+Ford EcoSport	automobilePlatform	Ford B3 platform
+Mitsubishi Starion	automobilePlatform	Front-engine, rear-wheel drive layout
+Volvo XC90    1	automobilePlatform	Ford D3 platform
+Nissan Fuga  Y50   1	automobilePlatform	Nissan FM platform
+Nissan Fuga  Y51   1	automobilePlatform	Nissan FM platform
+Infiniti M	automobilePlatform	Nissan FM platform
+Infiniti M  Y50   1	automobilePlatform	Nissan FM platform
+Infiniti M  Y51   1	automobilePlatform	Nissan FM platform
+Škoda Superb	automobilePlatform	Volkswagen Group B platform
+Škoda Superb  B5, Typ 3U   1	automobilePlatform	Volkswagen Group B platform#B5
+Škoda Superb  B6, Typ 3T   1	automobilePlatform	Volkswagen Group A platform#PQ46
+Ford Fusion Hybrid	automobilePlatform	Ford CD3 platform
+Mercedes-Benz A-Class  W168   1	automobilePlatform	Mercedes-Benz A-Class
+Mercedes-Benz A-Class  W169   1	automobilePlatform	Mercedes-Benz A-Class
+Shelby Mustang	automobilePlatform	Front-engine, rear-wheel drive layout
+Shelby Mustang  Second generation   1	automobilePlatform	Ford D2C platform
+Dodge Aspen	automobilePlatform	Chrysler F platform
+Dodge Dakota  First generation   1	automobilePlatform	Chrysler N platform
+Dodge Dakota  Second generation   1	automobilePlatform	Chrysler N platform
+Dodge Diplomat	automobilePlatform	Chrysler M platform
+Dodge Durango  First generation   1	automobilePlatform	Chrysler N platform
+Dodge Ram  First generation   1	automobilePlatform	Chrysler AD platform
+Dodge Ram  Second generation   1	automobilePlatform	Chrysler BR platform
+Dodge Ram  Third generation   1	automobilePlatform	Chrysler DR platform
+Dodge Monaco  First generation   1	automobilePlatform	Chrysler C platform
+Dodge Monaco  Second generation   1	automobilePlatform	Chrysler C platform
+Dodge Monaco  Third generation   1	automobilePlatform	Chrysler B platform
+Dodge Monaco  Fourth generation   1	automobilePlatform	Chrysler B platform
+Chrysler Neon	automobilePlatform	Chrysler PL platform
+Dodge SRT-4	automobilePlatform	Chrysler PL platform
+Dodge Mirada	automobilePlatform	Chrysler J platform
+Dodge Coronet  Fifth generation   1	automobilePlatform	Chrysler B platform
+Audi Q7	automobilePlatform	Volkswagen Group PL71 platform
+Mitsubishi Raider	automobilePlatform	Chrysler N platform
+Lincoln Mark LT	automobilePlatform	Ford P platform
+Chevrolet Malibu  Second generation   1	automobilePlatform	GM A platform (RWD)
+Chevrolet Malibu  Fourth generation   1	automobilePlatform	GM A platform (RWD)
+Chevrolet Malibu  Fourth generation   1	automobilePlatform	GM G platform (RWD)
+Chevrolet Malibu  Fifth generation   1	automobilePlatform	GM N platform
+Chevrolet Malibu  Sixth generation   1	automobilePlatform	GM Epsilon platform
+Chevrolet Malibu  Seventh generation   1	automobilePlatform	GM Epsilon platform
+Chevrolet Malibu  Eighth generation   1	automobilePlatform	GM Epsilon platform#Epsilon II
+Chevrolet Venture	automobilePlatform	GM U platform
+Chevrolet Lumina APV	automobilePlatform	GM U platform
+Pontiac Montana	automobilePlatform	GM U platform
+Chevrolet Uplander	automobilePlatform	GM U platform
+Buick Terraza	automobilePlatform	GM U platform
+Efini MS-8	automobilePlatform	Mazda M platform
+Mazda Cronos	automobilePlatform	Mazda G platform#GE
+Autozam Revue	automobilePlatform	Mazda D platform#DB
+Autozam AZ-1	automobilePlatform	Fibre-reinforced plastic
+Mazda6  First generation   1	automobilePlatform	Mazda G platform#GG
+Mazda6  Second generation   1	automobilePlatform	Mazda G platform#GH
+Mazda Persona	automobilePlatform	Mazda M platform#MA
+Mazda Sentia	automobilePlatform	Mazda H platform#HD
+Mazda Sentia	automobilePlatform	Mazda H platform#HE
+SEAT Altea	automobilePlatform	Volkswagen Group A platform#A5
+Mazda3  First generation   1	automobilePlatform	Ford C1 platform
+Mercury Lynx	automobilePlatform	Ford CE14 platform
+Ford Tempo	automobilePlatform	Ford CE14 platform
+Nissan Sentra  Second generation   1	automobilePlatform	Nissan B platform
+Nissan Sentra  Third generation   1	automobilePlatform	Nissan B platform
+Nissan Sentra  Fourth generation   1	automobilePlatform	Nissan B platform
+Nissan Sentra  Fifth generation   1	automobilePlatform	Nissan MS platform
+Nissan Sentra  Sixth generation   1	automobilePlatform	Nissan C platform
+Nissan Sentra  sian Version   1	automobilePlatform	Nissan MS platform
+Chevrolet Beretta	automobilePlatform	GM L platform
+Chevrolet TrailBlazer	automobilePlatform	GMT360
+Geo Storm	automobilePlatform	GM R platform
+Geo/Chevrolet Prizm	automobilePlatform	GM S platform
+Chevrolet Chevy II / Nova  Third generation   1	automobilePlatform	GM X platform
+Chevrolet Chevy II / Nova  Fourth generation   1	automobilePlatform	GM X platform
+Sileighty	automobilePlatform	Nissan S platform
+Yenko Camaro	automobilePlatform	GM F platform
+Holden Caprice	automobilePlatform	GM V platform (RWD)
+Holden Caprice	automobilePlatform	GM Zeta platform
+Oldsmobile Cutlass Calais	automobilePlatform	GM N platform
+Oldsmobile Cutlass Ciera	automobilePlatform	GM A platform (FWD)
+Cadillac Calais	automobilePlatform	GM C platform
+Cadillac Calais  econd generation   1	automobilePlatform	GM C platform
+Buick Reatta	automobilePlatform	GM E platform
+Oldsmobile Omega	automobilePlatform	GM X platform
+Pontiac Phoenix	automobilePlatform	GM X platform
+Buick Estate  1971–1976 Buick Estate Wagon   1	automobilePlatform	GM C platform
+Buick Estate  Buick Electra Estate   1	automobilePlatform	GM B platform
+Buick Roadmaster  1991-1996   1	automobilePlatform	GM B platform
+Oldsmobile Custom Cruiser  First generation   1	automobilePlatform	GM C platform
+Oldsmobile Custom Cruiser  Second generation   1	automobilePlatform	GM B platform
+Oldsmobile Custom Cruiser  Third generation   1	automobilePlatform	GM B platform
+Cadillac Brougham	automobilePlatform	GM D platform
+Lotus Exige	automobilePlatform	Lotus Elise
+Holden Gemini  First generation   1	automobilePlatform	GM T platform
+Holden Gemini  Second generation   1	automobilePlatform	GM R platform
+Isuzu Gemini  First generation   1	automobilePlatform	GM T platform
+Isuzu Gemini  Second generation   1	automobilePlatform	GM R platform
+Isuzu Gemini  Third generation   1	automobilePlatform	GM R platform
+Dacia Logan	automobilePlatform	Nissan B platform
+Buick Park Avenue  First generation   1	automobilePlatform	GM C platform
+Buick Park Avenue  Second generation   1	automobilePlatform	GM C platform
+Buick Park Avenue  Third Generation   1	automobilePlatform	GM Zeta platform
+Buick LeSabre  Third generation   1	automobilePlatform	GM B platform
+Buick LeSabre  Fifth generation   1	automobilePlatform	GM B platform
+Buick LeSabre  Sixth generation   1	automobilePlatform	GM B platform
+Buick LeSabre  Seventh generation   1	automobilePlatform	GM H platform
+Buick LeSabre  ight generation   1	automobilePlatform	GM H platform (FWD)
+Buick LeSabre  Ninth generation   1	automobilePlatform	GM H platform (FWD)
+Volvo V70  Second generation   1	automobilePlatform	Ford D3 platform
+Volvo V70  Third generation   1	automobilePlatform	Ford EUCD platform
+Jeep Liberty  First generation   1	automobilePlatform	Chrysler KJ platform
+Jeep Liberty  Second generation   1	automobilePlatform	Chrysler KK platform
+Jeep Comanche	automobilePlatform	Jeep MJ platform
+Jeep Wagoneer  SJ   1	automobilePlatform	Jeep SJ
+Nissan Teana	automobilePlatform	Nissan FF-L platform
+Nissan Teana  J32   1	automobilePlatform	Nissan D platform
+Pontiac Torrent	automobilePlatform	GM Theta platform
+Chevrolet Monte Carlo  First generation   1	automobilePlatform	GM G platform (RWD)
+Chevrolet Monte Carlo  Second generation   1	automobilePlatform	GM A platform (RWD)
+Chevrolet Monte Carlo  Third generation   1	automobilePlatform	GM A platform (RWD)
+Chevrolet Monte Carlo  Fourth generation   1	automobilePlatform	GM A platform (RWD)
+Chevrolet Monte Carlo  Fourth generation   1	automobilePlatform	GM G platform (RWD)
+Chevrolet Monte Carlo  Fifth generation   1	automobilePlatform	GM W platform
+Chevrolet Monte Carlo  Sixth generation   1	automobilePlatform	GM W platform
+Isuzu Ascender	automobilePlatform	GMT360
+SEAT Toledo	automobilePlatform	Volkswagen Group A platform
+SEAT Toledo  Typ 1L   1	automobilePlatform	Volkswagen Group A platform#A2
+SEAT Toledo  Typ 1M   1	automobilePlatform	Volkswagen Group A platform#A4
+SEAT Toledo  Typ 5P   1	automobilePlatform	Volkswagen Group A platform#A5
+Ford Puma	automobilePlatform	Ford B platform
+Plymouth Fury  Second generation   1	automobilePlatform	Chrysler B platform
+Plymouth Fury  Third generation   1	automobilePlatform	Chrysler C platform
+Plymouth Fury  Fourth generation   1	automobilePlatform	Chrysler C platform
+Plymouth Fury  Fifth generation   1	automobilePlatform	Chrysler C platform
+Plymouth Fury  Sixth generation   1	automobilePlatform	Chrysler B platform
+Oldsmobile Achieva	automobilePlatform	GM N platform
+Ford C-Max    1	automobilePlatform	Ford C1 platform
+Ford C-Max    2	automobilePlatform	Ford C1 platform
+Ford C-Max  Ford Grand C-Max   1	automobilePlatform	Ford C1 platform
+Shelby GLHS	automobilePlatform	Chrysler L platform
+Shelby Lancer	automobilePlatform	Chrysler K platform
+Shelby CSX	automobilePlatform	Chrysler K platform
+Shelby Dakota	automobilePlatform	Chrysler N platform
+Saturn Sky	automobilePlatform	GM Kappa platform
+Volkswagen New Beetle	automobilePlatform	Volkswagen Group A platform
+Volkswagen New Beetle    1	automobilePlatform	Volkswagen Group A platform#A4 (PQ34)
+Volkswagen New Beetle  Volkswagen Beetle   1	automobilePlatform	Volkswagen Group A platform#A5 (PQ35)
+Cadillac SRX  First generation   1	automobilePlatform	GM Sigma platform
+Cadillac SRX  Second generation   1	automobilePlatform	GM Theta platform
+Chrysler PT Cruiser	automobilePlatform	Chrysler PT Cruiser
+Audi V8	automobilePlatform	Volkswagen Group D platform#D1
+Dodge Ram Van	automobilePlatform	Chrysler AB platform
+Nissan Tiida  First generation   1	automobilePlatform	Nissan B platform
+Nissan Tiida  Second generation   1	automobilePlatform	Nissan B platform
+SEAT Arosa	automobilePlatform	Volkswagen Group A00 platform
+Pontiac Grand Am  First generation   1	automobilePlatform	GM A platform (RWD)
+Pontiac Grand Am  Second generation   1	automobilePlatform	GM A platform (RWD)
+Pontiac Grand Am  Third generation   1	automobilePlatform	GM N platform
+Pontiac Grand Am  Fourth generation   1	automobilePlatform	GM N platform
+Chevrolet SSR	automobilePlatform	GMT360
+IKCO Samand	automobilePlatform	Peugeot 405
+Pontiac Parisienne  Second generation   1	automobilePlatform	GM B platform
+Pontiac Parisienne  Third generation   1	automobilePlatform	GM B platform
+Pontiac Parisienne  Fourth generation   1	automobilePlatform	GM B platform
+Pontiac Parisienne  Fifth generation   1	automobilePlatform	GM B platform
+Renault Modus	automobilePlatform	Alliance B platform
+Ford Galaxy  Mk1   1	automobilePlatform	Volkswagen Group B-VX62 platform
+Ford Galaxy  Mk2   1	automobilePlatform	Volkswagen Group B-VX62 platform
+Mitsubishi Outlander  Second generation   1	automobilePlatform	Mitsubishi GS platform
+Nissan Titan	automobilePlatform	Nissan F-Alpha platform
+Nissan Murano  First generation Z50   1	automobilePlatform	Nissan FF-L platform
+Nissan Murano  Second generation Z51   1	automobilePlatform	Nissan D platform
+Nissan Xterra  Second generation   1	automobilePlatform	Nissan F-Alpha platform
+BMW New Six	automobilePlatform	BMW New Six
+Holden Suburban	automobilePlatform	Front-engine, four-wheel drive layout
+Nissan Armada	automobilePlatform	Nissan F-Alpha platform
+BMW Z1	automobilePlatform	BMW 3 Series (E30)
+Chevrolet Cobalt	automobilePlatform	GM Delta platform
+Chevrolet HHR	automobilePlatform	GM Delta platform
+Toyota Stout	automobilePlatform	Frame (vehicle)#Ladder Frame
+Toyota Stout  RK45, RK100, RK101   1	automobilePlatform	Frame (vehicle)#Ladder Frame
+Toyota Stout  RK110   1	automobilePlatform	Frame (vehicle)#Ladder Frame
+Saturn Aura	automobilePlatform	GM Epsilon platform
+Buick Apollo	automobilePlatform	GM X platform
+Pontiac Ventura  First generation   1	automobilePlatform	GM B platform
+Pontiac Ventura  Second generation   1	automobilePlatform	GM X platform
+Saab 9-7X	automobilePlatform	GMT360
+Bentley Continental Flying Spur (2005)	automobilePlatform	Volkswagen Group D platform#D1s
+Toyota Sera	automobilePlatform	Front-engine, front-wheel drive layout
+Fiat Doblò  Second generation   1	automobilePlatform	GM Gamma platform
+Lancia Fulvia	automobilePlatform	Front-engine, front-wheel drive layout
+Nissan Figaro	automobilePlatform	Nissan B platform
+Buick Lucerne	automobilePlatform	GM H platform (FWD)
+Cadillac DTS	automobilePlatform	GM K platform (FWD)
+Plymouth Belvedere  Third generation   1	automobilePlatform	Chrysler B platform
+Plymouth Belvedere  Fourth generation   1	automobilePlatform	Chrysler B platform
+Plymouth Belvedere  Fifth generation   1	automobilePlatform	Chrysler B platform
+Audi S4  Audi C4 S4   1	automobilePlatform	Volkswagen Group C platform#C4
+Audi S4  Audi B5 S4 quattro   1	automobilePlatform	Volkswagen Group B platform#B5
+Audi S4  Audi B6 S4 quattro   1	automobilePlatform	Volkswagen Group B platform#B6
+Audi S4  Audi B7 S4 quattro   1	automobilePlatform	Volkswagen Group B platform#B7
+Audi S4  Audi B8 S4 quattro   1	automobilePlatform	Volkswagen Group B platform#MLB
+Cadillac Fleetwood  Second generation   1	automobilePlatform	GM D platform
+Cadillac Fleetwood  Third generation   1	automobilePlatform	GM D platform
+Cadillac Fleetwood  Fourth generation   1	automobilePlatform	GM C platform
+Cadillac Fleetwood  Fourth generation   1	automobilePlatform	GM D platform
+Cadillac Fleetwood  Fifth generation   1	automobilePlatform	GM C platform
+Cadillac Fleetwood  Sixth generation   1	automobilePlatform	GM C platform
+Cadillac Fleetwood  Seventh generation   1	automobilePlatform	GM D platform
+Audi RS6	automobilePlatform	Volkswagen Group C platform
+Audi RS6  Audi C5 RS6 quattro   1	automobilePlatform	Volkswagen Group C platform#C5
+Audi RS6  Audi C6 RS6 5.0 TFSI quattro   1	automobilePlatform	Volkswagen Group C platform#C6
+Škoda Fabia	automobilePlatform	Volkswagen Group A0 platform
+Škoda Fabia  Mk1 6Y   1	automobilePlatform	Volkswagen Group A0 platform#A04 (PQ24)
+Škoda Fabia  Mk2 5J   1	automobilePlatform	Volkswagen Group A0 platform#PQ24
+Isuzu Hombre	automobilePlatform	GM GMT platform
+Proton Saga  Second generation   1	automobilePlatform	Proton Savvy
+Volvo C70  Second generation   1	automobilePlatform	Ford C1 platform
+Cadillac BLS	automobilePlatform	GM Epsilon platform
+Chevrolet S-10 Blazer  First generation   1	automobilePlatform	GM GMT platform#GMT 325/330
+Chevrolet S-10 Blazer  Second generation   1	automobilePlatform	GM GMT platform#GMT 325/330
+Buick Wildcat	automobilePlatform	GM B platform
+Buick Somerset	automobilePlatform	GM N platform
+Opel Meriva	automobilePlatform	GM Gamma platform
+SEAT Córdoba	automobilePlatform	Volkswagen Group A0 platform
+SEAT Córdoba  - First generation   1	automobilePlatform	Volkswagen Group A0 platform#A03
+Alfa Romeo Brera	automobilePlatform	GM/Fiat Premium platform
+Alfa Romeo 159	automobilePlatform	GM/Fiat Premium platform
+Dodge Ramcharger	automobilePlatform	Front-engine design
+Dodge Ramcharger	automobilePlatform	Automobile layout#Rear wheel drive layouts
+Dodge Ramcharger	automobilePlatform	Four-wheel drive
+Dodge Ramcharger  First generation   1	automobilePlatform	Chrysler AD platform
+Dodge Ramcharger  Second generation   1	automobilePlatform	Chrysler AD platform
+Dodge Ramcharger  Third generation   1	automobilePlatform	Chrysler BR platform
+Audi Q5	automobilePlatform	Volkswagen B platform#MLB
+Ford Transit Connect	automobilePlatform	Ford C170 platform
+Suzuki Cultus  Third generation   1	automobilePlatform	GM M platform
+Hummer H3	automobilePlatform	GM GMT platform#GMT 355
+Schuppan 962CR	automobilePlatform	Porsche 962
+Isuzu i-Series	automobilePlatform	GM GMT platform#GMT 355
+Ford Mustang Mach 1  New Edge   1	automobilePlatform	Ford Fox platform
+Jeep Compass	automobilePlatform	Mitsubishi GS platform
+Chrysler LHS	automobilePlatform	Chrysler LH platform
+Cadillac Series 60	automobilePlatform	GM B platform
+Cadillac Sixty Special  Second generation   1	automobilePlatform	GM C platform
+Cadillac Sixty Special  Third generation   1	automobilePlatform	GM C platform
+Cadillac Sixty Special  Fourth generation   1	automobilePlatform	GM C platform
+Cadillac Sixty Special  Fifth generation   1	automobilePlatform	GM C platform
+Cadillac Sixty Special  Sixth generation   1	automobilePlatform	GM C platform
+Cadillac Sixty Special  Seventh generation   1	automobilePlatform	GM C platform
+Cadillac Sixty Special  Eighth generation   1	automobilePlatform	GM C platform
+Cadillac Sixty Special  Ninth generation   1	automobilePlatform	GM C platform
+Cadillac Sixty Special  Tenth generation   1	automobilePlatform	GM C platform
+Cadillac Sixty Special  Eleventh generation   1	automobilePlatform	GM C platform
+Cadillac Fleetwood Brougham  Eighth generation   1	automobilePlatform	GM D platform
+Cadillac Series 70  Sixth generation   1	automobilePlatform	GM D platform
+Cadillac Series 62  Second generation   1	automobilePlatform	GM C platform
+Cadillac Series 62  Third Generation   1	automobilePlatform	GM C platform
+Cadillac Series 62  Fourth generation   1	automobilePlatform	GM C platform
+Cadillac Series 62  Fifth generation   1	automobilePlatform	GM C platform
+Cadillac Series 62  Sixth generation   1	automobilePlatform	GM C platform
+Cadillac Series 62  Seventh generation   1	automobilePlatform	GM C platform
+Audi S8	automobilePlatform	Volkswagen Group D platform
+Audi S8  4.2 quattro D2   1	automobilePlatform	Volkswagen Group D platform#D2
+Audi S8  5.2 FSI quattro D3   1	automobilePlatform	Volkswagen Group D platform#D3
+Dodge Super Bee  First generation   1	automobilePlatform	Chrysler B platform
+Dodge Super Bee  Second generation   1	automobilePlatform	Chrysler B platform
+Dodge Super Bee  First generation Mexico   1	automobilePlatform	Chrysler A platform
+Dodge Super Bee  Second generation Mexico   1	automobilePlatform	Chrysler F platform
+Dodge D Series	automobilePlatform	Chrysler AD platform
+Plymouth Prowler	automobilePlatform	Chrysler PR platform
+Daewoo LeMans	automobilePlatform	GM T platform
+Daewoo Matiz  Third generation M300   1	automobilePlatform	GM Gamma platform
+Chrysler Pacifica	automobilePlatform	Chrysler S platform
+Bentley T-series	automobilePlatform	Monocoque
+Mercedes-Benz W114	automobilePlatform	Front-engine, rear-wheel drive layout
+Mercury Colony Park  Sixth generation   1	automobilePlatform	Ford Panther platform
+Infiniti FX	automobilePlatform	Nissan FM platform
+Ford EXP	automobilePlatform	Ford CE14 platform
+Nissan Cube  First generation   1	automobilePlatform	Nissan B platform
+Nissan Cube  Second generation   1	automobilePlatform	Nissan B platform
+Nissan Cube  Third generation   1	automobilePlatform	Nissan B platform
+Daewoo Espero	automobilePlatform	GM J platform
+Daewoo Lanos	automobilePlatform	GM T platform
+Chevrolet Captiva	automobilePlatform	GM Theta platform
+Chevrolet Celta	automobilePlatform	GM4200 platform
+Nissan X-Trail  First generation   1	automobilePlatform	Nissan MS platform
+Nissan X-Trail  Second generation   1	automobilePlatform	Nissan C platform
+Audi RS4	automobilePlatform	Volkswagen Group B platform
+Audi RS4  Audi B5 RS4 Avant quattro   1	automobilePlatform	Volkswagen Group B platform#B5
+Audi RS4  Audi B7 RS4 quattro   1	automobilePlatform	Volkswagen Group B platform#B7
+Giocattolo	automobilePlatform	Alfa Romeo Sprint
+BMW M Roadster	automobilePlatform	BMW Z3 (E36/4)
+BMW M Roadster  BMW E85 M Roadster   1	automobilePlatform	BMW Z4 (E85)
+Ford Mustang SVT Cobra	automobilePlatform	Ford Fox platform
+Mercedes-Benz W221	automobilePlatform	Front-engine design
+Mercedes-Benz W221	automobilePlatform	Automobile layout#Rear wheel drive layouts
+Mercedes-Benz W221	automobilePlatform	Four-wheel drive
+Aston Martin Vantage (2005)	automobilePlatform	Aston Martin VH platform
+Dodge Caliber	automobilePlatform	Mitsubishi GS platform
+Škoda Octavia	automobilePlatform	Volkswagen Group A platform
+Škoda Octavia  Mk1 1U   1	automobilePlatform	Volkswagen Group A platform#A4
+Škoda Octavia  Mk2 1Z   1	automobilePlatform	Volkswagen Group A platform#A5
+Nissan Quest  First generation   1	automobilePlatform	Ford VX54 platform
+Nissan Quest  Second generation   1	automobilePlatform	Ford VX54 platform
+Nissan Quest  hird generation   1	automobilePlatform	Nissan FF-L platform
+Nissan Quest  Fourth Generation   1	automobilePlatform	Nissan D platform
+Audi S6	automobilePlatform	Volkswagen Group C platform
+Audi S6  C4   1	automobilePlatform	Volkswagen Group C platform#C4
+Audi S6  quattro C5   1	automobilePlatform	Volkswagen Group C platform#C5
+Audi S6  quattro C6   1	automobilePlatform	Volkswagen Group C platform#C6
+Phantom Corsair	automobilePlatform	Cord 810
+Peugeot 4007	automobilePlatform	Mitsubishi GS platform
+Dodge Omni 024	automobilePlatform	Chrysler L platform
+Ford Escort (North America)  First generation   1	automobilePlatform	Ford CE14 platform
+Ford Escort (North America)  Second generation   1	automobilePlatform	Mazda B platform
+Ford Escort (North America)  Third generation   1	automobilePlatform	Mazda B platform
+Ford Escort (North America)  ZX2   1	automobilePlatform	Mazda B platform
+Mitsubishi 380	automobilePlatform	Mitsubishi PS platform
+Dodge St. Regis	automobilePlatform	Chrysler R platform
+SEAT Inca	automobilePlatform	Volkswagen Group A0 platform#A03
+Lotus Carlton	automobilePlatform	GM V platform (RWD)
+Saturn Outlook	automobilePlatform	GM Lambda platform
+Mercury Marquis  Fourth generation   1	automobilePlatform	Ford Panther platform
+Mercury Marquis  Fifth generation   1	automobilePlatform	Ford Fox platform
+Plymouth Satellite	automobilePlatform	Chrysler B platform
+Plymouth Acclaim	automobilePlatform	Chrysler K platform
+Fiat Fiorino  Third generation   1	automobilePlatform	GM Gamma platform
+Lancia Ypsilon    2	automobilePlatform	Fiat Mini platform
+Ford Taurus SHO  First generation   1	automobilePlatform	Ford D186 platform
+Ford Taurus SHO  Second generation   1	automobilePlatform	Ford D186 platform
+Ford Taurus SHO  Third generation   1	automobilePlatform	Ford D186 platform
+Ford Taurus SHO  Fourth generation   1	automobilePlatform	Ford D3 platform
+Messerschmitt KR175	automobilePlatform	Messerschmitt Kabinenroller
+Volkswagen Eos	automobilePlatform	Volkswagen Group A platform#A5 (PQ35)
+Pontiac Star Chief  Third generation   1	automobilePlatform	GM B platform
+Plymouth GTX	automobilePlatform	Chrysler B platform
+Oldsmobile Vista Cruiser	automobilePlatform	GM A platform (RWD)
+Opel Antara	automobilePlatform	GM Theta platform
+Ford Mustang SVO	automobilePlatform	Ford Fox platform
+Ford Fusion (Americas)	automobilePlatform	Ford CD3 platform
+Mitsubishi i	automobilePlatform	Mitsubishi MR platform
+Hyundai Aero	automobilePlatform	Mitsubishi Fuso Aero Bus
+Hyundai 8 to 25-ton truck	automobilePlatform	Mitsubishi Fuso Super Great
+Hyundai 4.5 to 5-ton truck	automobilePlatform	Mitsubishi Fuso Fighter
+Hyundai RB (buses)	automobilePlatform	Mitsubishi Fuso Bus Chassis
+Hyundai FB	automobilePlatform	Mitsubishi Fuso
+Citroën C-Crosser	automobilePlatform	Mitsubishi GS platform
+Mitsubishi Endeavor	automobilePlatform	Mitsubishi PS platform
+Chrysler Town & Country (1941–1988)  Fourth generation   1	automobilePlatform	Chrysler C platform
+Chrysler Town & Country (1941–1988)  Fifth generation   1	automobilePlatform	Chrysler C platform
+Chrysler Town & Country (1941–1988)  Sixth generation   1	automobilePlatform	Chrysler M platform
+Chrysler Town & Country (1941–1988)  Sixth generation   1	automobilePlatform	Chrysler F platform
+Chrysler Town & Country (1941–1988)  Seventh generation   1	automobilePlatform	Chrysler K platform
+Wayne Busette	automobilePlatform	Ford E-Series
+Wayne Lifeguard	automobilePlatform	Wayne Lifeguard#Chassis Suppliers
+Ford Edge	automobilePlatform	Ford CD3 platform
+Ford LTD Crown Victoria	automobilePlatform	Ford Panther platform
+Infiniti G  35 V35   1	automobilePlatform	Nissan FM platform
+Infiniti G  25, G35 and G37 V36   1	automobilePlatform	Nissan FM platform
+Dacia Solenza	automobilePlatform	Dacia Nova
+Saab 9-4X	automobilePlatform	GM Theta platform
+GMC Acadia	automobilePlatform	GM Lambda platform
+Ascari Ecosse	automobilePlatform	Rear mid-engine, rear-wheel drive layout
+GMC Sprint / Caballero  First generation Sprint   1	automobilePlatform	GM A platform (RWD)
+GMC Sprint / Caballero  Second generation Sprint   1	automobilePlatform	GM A platform (RWD)
+GMC Sprint / Caballero  GMC Caballero   1	automobilePlatform	GM A platform (RWD)
+GMC Sprint / Caballero  GMC Caballero   1	automobilePlatform	GM G platform (RWD)
+Renault Samsung SM7	automobilePlatform	Nissan FF-L platform
+Dodge Polara  Third generation   1	automobilePlatform	Chrysler C platform
+Dodge Polara  Fourth generation   1	automobilePlatform	Chrysler C platform
+Buick Enclave	automobilePlatform	GM Lambda platform
+Plymouth Gran Fury  First generation   1	automobilePlatform	Chrysler C platform
+Plymouth Gran Fury  Second generation   1	automobilePlatform	Chrysler R platform
+Plymouth Gran Fury  Third generation   1	automobilePlatform	Chrysler M platform
+Nissan NX	automobilePlatform	Nissan B platform
+Jeep Patriot	automobilePlatform	Mitsubishi GS platform
+Daihatsu Hijet	automobilePlatform	Mid-engine design
+Daihatsu Hijet	automobilePlatform	Automobile layout#Rear wheel drive layouts
+Daihatsu Hijet	automobilePlatform	Four-wheel drive
+Buick GL8	automobilePlatform	GM U platform
+Chevrolet Cobalt SS	automobilePlatform	GM Delta platform
+Chevrolet Corvette (C6)	automobilePlatform	GM Y platform
+Lincoln Mark series  Mark VII   1	automobilePlatform	Ford Fox platform
+Lincoln Mark series  Mark VIII   1	automobilePlatform	Ford MN12 platform
+Lincoln MKX	automobilePlatform	Ford CD3 platform
+Ford Mustang SSP	automobilePlatform	Front-engine, rear-wheel drive layout
+Chrysler Newport  Fourth generation   1	automobilePlatform	Chrysler C platform
+Chrysler Newport  Fifth generation   1	automobilePlatform	Chrysler C platform
+Chrysler Newport  Sixth generation   1	automobilePlatform	Chrysler C platform
+Chrysler Newport  Seventh generation   1	automobilePlatform	Chrysler R platform
+Chrysler Valiant Charger	automobilePlatform	Chrysler A platform
+Lincoln MKS	automobilePlatform	Ford D3 platform
+Suzuki XL7  Second generation   1	automobilePlatform	GM Theta platform
+Aston Martin Rapide	automobilePlatform	Aston Martin VH platform
+Fiat Grande Punto	automobilePlatform	GM Gamma platform
+Jeep Cherokee (SJ)	automobilePlatform	Jeep SJ
+Proton Persona	automobilePlatform	Proton Gen-2
+Dodge Charger (L-body)	automobilePlatform	Chrysler L platform
+Dodge Charger (LX)	automobilePlatform	Chrysler LX platform
+Dodge Charger (B-body)	automobilePlatform	Chrysler B platform
+Saturn Curve	automobilePlatform	GM Kappa platform
+Pontiac Chieftain	automobilePlatform	GM A platform (RWD)
+Pontiac Executive	automobilePlatform	GM B platform
+Chevrolet Nomad  Second generation   1	automobilePlatform	GM B platform
+Chevrolet Nomad  Third generation   1	automobilePlatform	GM A platform (RWD)
+Pontiac Grand Ville  First generation   1	automobilePlatform	GM C platform
+Pontiac Grand Ville  Second generation   1	automobilePlatform	GM B platform
+Saturn Relay	automobilePlatform	GM U platform
+Mazda CX-9	automobilePlatform	Ford CD3 platform
+Audi Shooting Brake	automobilePlatform	Volkswagen A platform#A5 (PQ35)
+Audi Roadjet	automobilePlatform	Volkswagen Group A platform#A5 (PQ35)
+Lincoln MKZ	automobilePlatform	Ford CD3 platform
+Chevrolet Greenbrier  First generation   1	automobilePlatform	GM Y platform
+Chevrolet Greenbrier  Second generation   1	automobilePlatform	GM A platform (RWD)
+Pontiac G5	automobilePlatform	GM Delta platform
+Buick Velite	automobilePlatform	GM Zeta platform
+Nissan Note	automobilePlatform	Nissan B platform
+Cadillac CTS-V  First generation   1	automobilePlatform	GM Sigma platform
+Cadillac CTS-V  Second generation   1	automobilePlatform	GM Sigma platform
+Ford Tourneo	automobilePlatform	Ford Transit
+Chevrolet Corvette (C5)	automobilePlatform	GM Y platform
+Chevrolet Corvette (C4)	automobilePlatform	GM Y platform
+Ford S-Max	automobilePlatform	Ford EUCD platform
+Nissan 180SX	automobilePlatform	Nissan S platform
+Dodge Ram SRT-10	automobilePlatform	Chrysler DR platform
+Tata Sierra	automobilePlatform	Tata Estate
+Cadillac STS-V	automobilePlatform	GM Sigma platform
+EDAG Biwak	automobilePlatform	Volkswagen Group A platform#A5 (PQ35)
+Pontiac Grand Safari  Generation one   1	automobilePlatform	GM C platform
+Pontiac Grand Safari  Generation two   1	automobilePlatform	GM B platform
+Boss 302 Mustang  2012 Boss 302   1	automobilePlatform	Ford Mustang#Fifth generation (2005–present)
+Nissan Qashqai	automobilePlatform	Nissan C platform
+Opel Signum	automobilePlatform	GM Epsilon platform
+Opel Combo  B   1	automobilePlatform	GM4200 platform
+Opel Combo  C   1	automobilePlatform	GM Gamma platform
+Opel Combo  D   1	automobilePlatform	GM Gamma platform
+Mercedes-Benz 190SL	automobilePlatform	Mercedes-Benz W120/121
+Nissan Be-1	automobilePlatform	Nissan B platform
+Eurovans  First generation   1	automobilePlatform	Sevel#Sevel Nord
+Eurovans  econd generation   1	automobilePlatform	Sevel#Sevel Nord
+Saab 9-1X	automobilePlatform	GM Delta platform#Delta II
+Ford Crown Victoria Police Interceptor	automobilePlatform	Ford Panther platform
+Hindustan Contessa	automobilePlatform	General Motors
+Aston Martin DBS V12	automobilePlatform	Aston Martin VH platform
+Proton Satria R3	automobilePlatform	Front-engine, front-wheel drive layout
+Nissan Cherry  E10   1	automobilePlatform	Front-engine, front-wheel drive layout
+Nissan Cherry  F-II F10   1	automobilePlatform	Front-engine, front-wheel drive layout
+Nissan Cherry  Nissan Pulsar N10/11   1	automobilePlatform	Front-engine, front-wheel drive layout
+Nissan Cherry  Nissan Pulsar N12   1	automobilePlatform	Front-engine, front-wheel drive layout
+Škoda Roomster	automobilePlatform	Volkswagen Group A platform#A4
+Zastava 10	automobilePlatform	Fiat Punto
+Renault Fluence	automobilePlatform	Nissan C platform
+Wrightspeed X1	automobilePlatform	Ariel Atom
+Holden VZ Commodore	automobilePlatform	GM V platform (RWD)
+Hyundai Aero City	automobilePlatform	Mitsubishi Fuso Aero Star
+Hyundai Aero City	automobilePlatform	Hyundai Bus Chassis
+Hyundai Aero Town	automobilePlatform	Hyundai Bus Chassis
+Hyundai Super Truck	automobilePlatform	Bering HDMX
+Hyundai Super Truck Medium	automobilePlatform	Bering MS
+Fiat 500 (2007)	automobilePlatform	Fiat Mini platform
+Hyundai Mega Truck	automobilePlatform	Bering MD
+Hyundai New Power Truck	automobilePlatform	Bering HD
+Hyundai New Power Truck	automobilePlatform	Bering HDMX
+Buick Sport Wagon	automobilePlatform	GM A platform (RWD)
+Hyundai Global 900	automobilePlatform	Hyundai Bus Chassis
+Hyundai Mighty	automobilePlatform	Mitsubishi Fuso Canter
+Hyundai Chorus	automobilePlatform	Mitsubishi Fuso Rosa
+Volkswagen Tiguan	automobilePlatform	Volkswagen Group A platform
+Renault Samsung SM3    1	automobilePlatform	Nissan C platform
+Holden VE Commodore	automobilePlatform	GM Zeta platform
+Holden VY Commodore	automobilePlatform	GM V platform (RWD)
+Honda Civic GX  First generation   1	automobilePlatform	Honda Civic (sixth generation)
+Honda Civic GX  Second generation   1	automobilePlatform	Honda Civic (seventh generation)
+Honda Civic GX  Third generation   1	automobilePlatform	Honda Civic (eighth generation)
+Callaway Cars  Callaway C16   1	automobilePlatform	Fiberglass
+Volkswagen Derby	automobilePlatform	Volkswagen Group A0 platform#A01
+Volkswagen Derby  Mexico   1	automobilePlatform	Volkswagen Group A0 platform
+Chrysler Natrium	automobilePlatform	Chrysler S platform#RS
+Daytona Sportscar	automobilePlatform	Front-engine, rear-wheel drive layout
+Suzuki APV	automobilePlatform	Frame (vehicle)#Ladder Frame
+Holden WM Caprice	automobilePlatform	GM Zeta platform
+Holden VB Commodore	automobilePlatform	GM V platform (RWD)
+Holden VC Commodore	automobilePlatform	GM V platform (RWD)
+Audi Q3	automobilePlatform	Volkswagen Group A platform#A5 (PQ35)
+Volkswagen Polo Mk1	automobilePlatform	Volkswagen Group A0 platform#A01
+Volkswagen Polo Mk1    1	automobilePlatform	Volkswagen Group A0 platform#A01
+Volkswagen Polo Mk1  F   1	automobilePlatform	Volkswagen Group A0 platform#A01
+Volkswagen Polo Mk2	automobilePlatform	Volkswagen Group A0 platform#A02
+Volkswagen Polo Mk2  Vokswagen Polo Mk2   1	automobilePlatform	Volkswagen Group A0 platform#A02
+Volkswagen Polo Mk2  F 86C   1	automobilePlatform	Volkswagen Group A0 platform#A02
+Volkswagen Polo Mk4	automobilePlatform	Volkswagen Group A0 platform#A04 (PQ24)
+Volkswagen Polo Mk3	automobilePlatform	Volkswagen Group A0 platform
+Ford Tourneo Connect	automobilePlatform	Ford C170 platform
+Volkswagen Crafter	automobilePlatform	Volkswagen Group/Daimler AG LT/T1N platform
+Renault Koleos	automobilePlatform	Nissan C platform
+Volkswagen Polo Playa	automobilePlatform	Volkswagen Group A0 platform#A03
+Alfa Romeo Scighera	automobilePlatform	Mid-engine design
+AC Propulsion eBox	automobilePlatform	Scion xB
+Holden VH Commodore	automobilePlatform	GM V platform (RWD)
+Holden VN Commodore	automobilePlatform	GM V platform (RWD)
+Jeep DJ	automobilePlatform	Jeep CJ
+John Goss Special	automobilePlatform	Front-engine, rear-wheel drive layout
+Fiat Linea	automobilePlatform	GM Gamma platform
+Nissan Rogue	automobilePlatform	Nissan C platform
+Chrysler Executive	automobilePlatform	Chrysler K platform
+Ford Falcon Cobra	automobilePlatform	Front-engine, rear-wheel drive layout
+Holden VL Commodore	automobilePlatform	GM V platform (RWD)
+AmphiCoach GTS-1	automobilePlatform	Irisbus
+Chrysler Nassau	automobilePlatform	Chrysler LX platform
+Holden VP Commodore	automobilePlatform	GM V platform (RWD)
+Pontiac G8	automobilePlatform	GM Zeta platform
+Jaguar XF	automobilePlatform	Ford DEW platform
+Audi A1	automobilePlatform	Volkswagen Group A0 platform#PQ25
+Volkswagen Golf Mk3	automobilePlatform	Volkswagen Group A platform#A3
+Volkswagen Golf Mk4	automobilePlatform	Volkswagen Group A platform#A4
+Volkswagen Golf Mk5	automobilePlatform	Volkswagen Group A platform#A5
+Volkswagen Golf Mk2	automobilePlatform	Volkswagen Group A platform#A2
+Volkswagen Golf Mk1	automobilePlatform	Volkswagen Group A platform#A1
+Dacia SupeRNova	automobilePlatform	Dacia Nova
+Ford Interceptor	automobilePlatform	Ford D2C platform
+Lincoln MKR	automobilePlatform	Ford D2C platform
+Chevrolet Camaro (fifth generation)	automobilePlatform	GM Zeta platform
+Chevrolet Camaro (fourth generation)	automobilePlatform	GM F platform
+Hyundai Trago	automobilePlatform	Hyundai New Power Truck
+Hyundai Universe	automobilePlatform	Hyundai Bus Chassis
+Mitsubishi Nessie	automobilePlatform	Mitsubishi Pajero
+Chevrolet Camaro (third generation)	automobilePlatform	GM F platform
+Holden VT Commodore	automobilePlatform	GM V platform (RWD)
+Chevrolet Camaro (second generation)	automobilePlatform	GM F platform
+Holden VR Commodore	automobilePlatform	Front-engine, rear-wheel drive layout
+Holden VS Commodore	automobilePlatform	Front-engine, rear-wheel drive layout
+Holden VX Commodore	automobilePlatform	GM V platform (RWD)
+Chevrolet Camaro (first generation)	automobilePlatform	GM F platform
+Holden VK Commodore	automobilePlatform	Front-engine, rear-wheel drive layout
+Ford EL Falcon	automobilePlatform	Front-engine, rear-wheel drive layout
+Nissan GT-R	automobilePlatform	Nissan PM platform
+Alfa Romeo MiTo	automobilePlatform	GM Gamma platform
+HSV Clubsport	automobilePlatform	GM V platform (RWD)
+HSV Clubsport	automobilePlatform	GM Zeta platform
+Perodua Rusa	automobilePlatform	Front-engine, front-wheel drive layout
+Toyota AA	automobilePlatform	Body-on-frame
+Toyota AA  A, AB   1	automobilePlatform	Body-on-frame
+Toyota AA  C   1	automobilePlatform	Body-on-frame
+Toyota AA  E   1	automobilePlatform	Body-on-frame
+GAZ 46	automobilePlatform	GAZ-69
+Ford Flex	automobilePlatform	Ford D3 platform#D4
+Alfa Romeo 33.2	automobilePlatform	Rear mid-engine, rear-wheel drive layout
+Volkswagen Routan	automobilePlatform	Chrysler S platform
+Nissan Bluebird Sylphy  First Generation   1	automobilePlatform	Nissan MS platform
+Nissan Bluebird Sylphy  Second Generation   1	automobilePlatform	Nissan B platform
+Chevrolet Traverse	automobilePlatform	GM Lambda platform
+Toyota Verossa	automobilePlatform	Front-engine design
+Toyota Verossa	automobilePlatform	Automobile layout#Rear wheel drive layouts
+Toyota Verossa	automobilePlatform	Automobile layout#Four wheel drive layouts
+Dodge Journey	automobilePlatform	Mitsubishi GS platform
+Dodge Intrepid	automobilePlatform	Chrysler LH platform
+Toyota Classic	automobilePlatform	Toyota Hilux
+Kia Enterprise	automobilePlatform	Mazda H platform#HE
+Infiniti EX	automobilePlatform	Nissan FM platform
+Nissan 370Z	automobilePlatform	Nissan FM platform
+AIL Storm  -240 Storm Mark I   1	automobilePlatform	Jeep Wrangler#YJ (1987–1995)
+AIL Storm  -240 Storm Mark I   1	automobilePlatform	Jeep CJ#CJ-6
+AIL Storm  -242 Storm Mark II   1	automobilePlatform	Jeep Wrangler#TJ (1997–2006)
+Ford Kuga	automobilePlatform	Ford C1 platform
+Toyota SA	automobilePlatform	Backbone chassis
+Nissan Pulsar GTI-R	automobilePlatform	Nissan PM platform
+TVR Tuscan Challenge	automobilePlatform	Fiberglass
+Goggomobil Dart	automobilePlatform	Goggomobil
+Dacia Sandero	automobilePlatform	Nissan B platform
+Opel Flextreme	automobilePlatform	GM Delta platform
+Opel Flextreme	automobilePlatform	GM Voltec powertrain
+Rustic bus	automobilePlatform	Blue Bird Corporation
+Rustic bus	automobilePlatform	Dodge
+Rustic bus	automobilePlatform	Ford Motor Company
+Purvis Eureka	automobilePlatform	Volkswagen Beetle
+Citroën C-Cactus	automobilePlatform	Citroën C4
+SEAT Tribu	automobilePlatform	Volkswagen Group A platform#A5 (PQ35)
+Chevrolet Corvette C5 Z06	automobilePlatform	GM Y platform
+Chevrolet Cruze  First generation J300   1	automobilePlatform	GM Delta platform#Delta II
+Volkswagen Passat CC	automobilePlatform	Volkswagen Group A platform#A5 (PQ35)
+GMC Terrain	automobilePlatform	GM Theta platform
+Opel Insignia	automobilePlatform	GM Epsilon platform#Epsilon II
+Suzuki Equator	automobilePlatform	Nissan F-Alpha platform
+Lancia Trevi	automobilePlatform	Lancia Beta
+HSV Maloo	automobilePlatform	Front-engine, rear-wheel drive layout
+Mazda Furai	automobilePlatform	Courage C65
+Alfa Romeo Visconti	automobilePlatform	GM/Fiat Premium platform
+Chevrolet Corvette C6 ZR1	automobilePlatform	Chevrolet
+Lincoln MKT	automobilePlatform	Ford D3 platform
+Cadillac Provoq	automobilePlatform	GM Voltec powertrain
+Ford Granada (North America)	automobilePlatform	Ford Fox platform
+Hummer H3T	automobilePlatform	GM GMT platform#GMT 355
+Briggs & Stratton Animal	automobilePlatform	Midship engine
+GMC Denali XT	automobilePlatform	GM Voltec powertrain
+Ford Mustang (third generation)	automobilePlatform	Ford Fox platform
+Ford Mustang (fourth generation)	automobilePlatform	Ford Fox platform
+Ford Mustang (fifth generation)	automobilePlatform	Ford D2C platform
+Daewoo Prince	automobilePlatform	GM V platform (RWD)
+Daewoo Royale	automobilePlatform	GM V platform (RWD)
+HSV W427	automobilePlatform	GM Zeta platform
+Holden Coupe 60	automobilePlatform	GM Zeta platform
+Shanghai-Volkswagen Lavida	automobilePlatform	Volkswagen Group A platform#A4 (PQ34)
+Volkswagen Polo G40	automobilePlatform	Volkswagen Group A0 platform#A02
+Toyota Curren	automobilePlatform	Toyota T2xx
+BAV 485	automobilePlatform	ZiS-151
+Blue Bird Vision	automobilePlatform	Blue Bird Corporation
+Toyota Corolla (E110)	automobilePlatform	Toyota Corolla
+Alfa Romeo Carabo	automobilePlatform	Rear mid-engine, rear-wheel drive layout
+Dacia Duster	automobilePlatform	Nissan B platform
+SEAT Exeo	automobilePlatform	Volkswagen Group B platform#B7
+TVR 420 SEAC	automobilePlatform	TVR Wedges
+TVR 450 SEAC	automobilePlatform	TVR Wedges
+TVR 390SE	automobilePlatform	TVR Wedges
+TVR Tasmin 280i	automobilePlatform	TVR Wedges
+Volkswagen Golf Cabriolet	automobilePlatform	Volkswagen Group A platform
+Volkswagen Golf Cabriolet  Volkswagen Golf Mk1 Cabriolet   1	automobilePlatform	Volkswagen Group A platform#A1
+Volkswagen Golf Cabriolet  Volkswagen Golf Mk3/3.5 Cabriolet   1	automobilePlatform	Volkswagen Group A platform#A3
+Volkswagen Golf Variant	automobilePlatform	Volkswagen Group A platform
+Volkswagen Golf Variant  Volkswagen Golf Mk3 Variant 1H   1	automobilePlatform	Volkswagen Group A platform
+Volkswagen Golf Variant  Volkswagen Golf Mk4 Variant 1J   1	automobilePlatform	Volkswagen Group A platform
+Volkswagen Golf Variant  Volkswagen Golf Mk5 Variant 1K   1	automobilePlatform	Volkswagen Group A platform
+Ford Taurus (first generation)	automobilePlatform	Ford D186 platform
+Ford Taurus (second generation)	automobilePlatform	Ford D186 platform
+Volkswagen Transporter (T5)	automobilePlatform	Volkswagen Transporter#T5
+Presidential State Car (Brazil)	automobilePlatform	Ford CD3 platform
+Presidential State Car (Brazil)  Ceremonial State Car   1	automobilePlatform	Rolls-Royce Silver Wraith
+Ford Taurus (third generation)	automobilePlatform	Ford D186 platform
+Ford Taurus (fourth generation)	automobilePlatform	Ford D186 platform
+Ford Taurus (fifth generation)	automobilePlatform	Ford D3 platform
+Ford Taurus (sixth generation)	automobilePlatform	Ford D3 platform
+Volkswagen Golf Mk6	automobilePlatform	Volkswagen Group A platform#A5
+SEAT Altea XL/Freetrack	automobilePlatform	Volkswagen Group A platform#A5
+BMW X1	automobilePlatform	BMW 3 Series
+Škoda Yeti	automobilePlatform	Volkswagen Group A platform#A5
+Chevrolet Orlando	automobilePlatform	GM Delta platform#Delta II
+Renault Celtaquatre	automobilePlatform	Renault Primaquatre
+Renault Primastella	automobilePlatform	Renault Vivastella
+Alfa Romeo Navajo	automobilePlatform	Rear mid-engine, rear-wheel drive layout
+Pontiac Firebird (third generation)	automobilePlatform	GM F platform
+Lotus Mark IX	automobilePlatform	Space frame
+Alfa Romeo 2000 Sportiva	automobilePlatform	Front-engine, rear-wheel drive layout
+Renault Samsung SM5  Second generation A34R   1	automobilePlatform	Nissan FF-L platform
+Renault Samsung SM5  Third generation L43   1	automobilePlatform	Nissan D platform
+Fiat Bravo (2007)	automobilePlatform	Fiat C-platform
+Audi A7	automobilePlatform	Volkswagen Group MLB platform
+Citroën DS5	automobilePlatform	Peugeot 3008
+Nissan Juke	automobilePlatform	Nissan B platform
+Chrysler 200C EV	automobilePlatform	Chrysler LX platform#LC
+BMW Concept 5 Series Gran Turismo	automobilePlatform	BMW 5 Series Gran Turismo
+Volkswagen Polo Mk5	automobilePlatform	Volkswagen Group A0 platform#PQ25
+IKCO Runna	automobilePlatform	Peugeot 206
+Toyota concept vehicles, 1970-1979  Toyota Electronics Car   1	automobilePlatform	Toyota Corona#T90
+Toyota concept vehicles, 1970-1979  Toyota SV-1   1	automobilePlatform	Toyota Celica#A20
+Toyota concept vehicles, 1970-1979  Toyota RV-1   1	automobilePlatform	Toyota Celica#A20
+Toyota concept vehicles, 1970-1979  Toyota RV-2   1	automobilePlatform	Toyota Mark II#X10
+Toyota concept vehicles, 1970-1979  Toyota RV-2   1	automobilePlatform	Toyota Crown#S70
+Toyota concept vehicles, 1970-1979  Toyota Century Gas Turbine Hybrid   1	automobilePlatform	Toyota Century
+SEAT León Twin drive	automobilePlatform	Volkswagen Group A platform#A5 (PQ35)
+Ford Thunderbird (eighth generation)	automobilePlatform	Ford Fox platform
+Ford Thunderbird (ninth generation)	automobilePlatform	Ford Fox platform
+Ford Thunderbird (tenth generation)	automobilePlatform	Ford MN12 platform
+Ford Thunderbird (eleventh generation)	automobilePlatform	Ford DEW platform
+Toyota concept vehicles, 1980-1989	automobilePlatform	Toyota Soarer#Z10
+Toyota concept vehicles, 1980-1989  Toyota RV-5   1	automobilePlatform	Toyota Tercel#L20
+Toyota concept vehicles, 1980-1989  Toyota GTV   1	automobilePlatform	Toyota Carina#T150
+Toyota concept vehicles, 1980-1989  Toyota AXV-II   1	automobilePlatform	Toyota Starlet#P70
+Toyota concept vehicles, 1990-1999  Toyota AXV-III   1	automobilePlatform	Toyota Carina#T190
+Toyota concept vehicles, 1990-1999  Toyota Celica Cruising Deck   1	automobilePlatform	Toyota Celica#T230
+Toyota concept vehicles, 2000-2009  Toyota DMT   1	automobilePlatform	Toyota Previa#Second Generation (2000-2006)
+Toyota concept vehicles, 2000-2009  Toyota RSC   1	automobilePlatform	Toyota RAV4#XA20
+Toyota concept vehicles, 2000-2009  Toyota MR2 Street Affair   1	automobilePlatform	Toyota MR2#W30
+Toyota concept vehicles, 2000-2009  Toyota X Runner   1	automobilePlatform	Toyota modular platform
+Toyota concept vehicles, 2000-2009  Toyota FSC   1	automobilePlatform	Toyota Camry (XV30)
+Toyota concept vehicles, 2000-2009  Toyota FT-EV   1	automobilePlatform	Toyota iQ
+Toyota concept vehicles, 2000-2009  Toyota FT-EV II   1	automobilePlatform	Toyota iQ
+Toyota concept vehicles, 2000-2009  Scion iQ Concept   1	automobilePlatform	Toyota iQ
+Toyota concept vehicles, 2000-2009  FT-86 Concept   1	automobilePlatform	Subaru Impreza
+Toyota concept vehicles, 2000-2009  Prius Plug-In Hybrid Concept   1	automobilePlatform	Toyota Prius#XW30
+Nissan NV200	automobilePlatform	Nissan B platform
+Racing Green Endurance	automobilePlatform	Radical Sportscars
+Cadillac Sedan de Ville  First generation   1	automobilePlatform	GM C platform
+Cadillac Sedan de Ville  Third generation   1	automobilePlatform	GM C platform
+Cadillac Sedan de Ville  Sixth generation   1	automobilePlatform	GM C platform
+Cadillac Sedan de Ville  ighth generation   1	automobilePlatform	GM C platform
+Cadillac Sedan de Ville  Ninth generation   1	automobilePlatform	GM C platform
+Cadillac Sedan de Ville  Tenth generation   1	automobilePlatform	GM K platform (FWD)
+Cadillac Sedan de Ville  leventh generation   1	automobilePlatform	GM K platform (FWD)
+Bertone Mantide	automobilePlatform	Chevrolet
+Infiniti QX  56   1	automobilePlatform	Nissan F-Alpha platform
+Volvo V60	automobilePlatform	Ford EUCD platform
+Audi A4 (B8)	automobilePlatform	Volkswagen Group B platform#B8
+Tobe M'car	automobilePlatform	Nissan March#K11
+Tobe M'car	automobilePlatform	Geely MR
+Tobe M'car	automobilePlatform	Toyota Aygo
+BMW Concept ActiveE	automobilePlatform	BMW 1 Series
+GMC Granite	automobilePlatform	GM Delta platform#Delta II
+Toyota concept vehicles, 2010-2019  Toyota iQ EV Prototype   1	automobilePlatform	Toyota iQ
+Proton Inspira	automobilePlatform	Mitsubishi GS platform
+Ford F-150 SVT Raptor	automobilePlatform	Ford P platform#P2
+Ford Focus (third generation)	automobilePlatform	Ford C1 platform
+Renault Latitude	automobilePlatform	Nissan D platform
+Blue Bird Micro Bird	automobilePlatform	Blue Bird Micro Bird#Chassis Manufacturers
+Buick Excelle XT  别克英朗XT   1	automobilePlatform	GM Delta platform
+Buick Excelle XT  Buick Excelle GT 别克英朗GT   1	automobilePlatform	GM Delta platform
+KSU Gazal-1	automobilePlatform	Mercedes-Benz 463
+Mitsuoka Himiko	automobilePlatform	Mazda N platform
+BMW New Class coupé	automobilePlatform	BMW New Class
+IKCO Samand Soren	automobilePlatform	Peugeot 405
+IKCO Samand Soren	automobilePlatform	Peugeot 405
+Chevrolet Impala (fifth generation)	automobilePlatform	GM B platform
+Chevrolet Impala (fourth generation)	automobilePlatform	GM B platform
+Chrysler 200	automobilePlatform	Mitsubishi GS platform
+TVR 350i	automobilePlatform	TVR Wedges
+Porsche Cajun	automobilePlatform	Volkswagen B platform#MLB
+Audi quattro concept	automobilePlatform	Volkswagen Group MLB platform
+Buick Verano	automobilePlatform	GM Delta platform#Delta II
+TVR 400SE	automobilePlatform	TVR Wedges
+Pontiac T1000/1000	automobilePlatform	GM T platform
+Chevrolet Aveo  Second generation T300   1	automobilePlatform	GM Gamma platform
+Volkswagen Passat (B1)	automobilePlatform	Volkswagen Group B platform#B1
+Volkswagen Passat (B3)	automobilePlatform	Volkswagen Group B platform#B3
+Volkswagen Passat (B2)	automobilePlatform	Volkswagen Group B platform#B2
+Volkswagen Passat (B4)	automobilePlatform	Volkswagen Group B platform#B4
+Volkswagen Passat (B5)	automobilePlatform	Volkswagen Group B platform#B5
+Volkswagen Passat (B6)	automobilePlatform	Volkswagen Group A platform#A5
+Chevrolet Cosworth Vega	automobilePlatform	GM H platform (RWD)
+Audi Coupé (B2)	automobilePlatform	Volkswagen Group B platform#B2
+Audi RS2 Avant	automobilePlatform	Volkswagen Group B platform#B4
+Buick Rainier	automobilePlatform	GMT360
+The General Lee	automobilePlatform	Front-engine, rear-wheel drive layout
+Mazda Premacy  First generation   1	automobilePlatform	Mazda C platform#CP
+Mazda Premacy  Second generation   1	automobilePlatform	Ford C1 platform
+Nissan Silvia  CSP311   1	automobilePlatform	Datsun Sports#SP311
+Nissan Silvia  S10   1	automobilePlatform	Nissan S platform
+Nissan Silvia  S110   1	automobilePlatform	Nissan S platform
+Nissan Silvia  S12   1	automobilePlatform	Nissan S platform
+Nissan Silvia  S13   1	automobilePlatform	Nissan S platform
+Nissan Silvia  S14   1	automobilePlatform	Nissan S platform
+Nissan Silvia  S15   1	automobilePlatform	Nissan S platform
+Opel Astra 200t S	automobilePlatform	GM T platform
+Chevrolet Caprice 9C1 Police	automobilePlatform	GM B platform
+Opel Corsa  A   1	automobilePlatform	GM4200 platform
+Opel Corsa  B   1	automobilePlatform	GM4200 platform
+Opel Corsa  C   1	automobilePlatform	GM Gamma platform
+Opel Corsa  D   1	automobilePlatform	GM Gamma platform
+IKCO Dena	automobilePlatform	Peugeot 405
+Ford Focus (second generation, Europe)	automobilePlatform	Ford C1 platform
+Ford Focus (first generation)  Europe   1	automobilePlatform	Ford C170 platform

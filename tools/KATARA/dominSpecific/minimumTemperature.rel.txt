@@ -1,0 +1,19 @@
+Earth	minimumTemperature	183.95
+Earth	minimumTemperature	184.0
+Moon	minimumTemperature	70.0
+Moon	minimumTemperature	100.0
+Mercury (planet)	minimumTemperature	80.0
+Mercury (planet)	minimumTemperature	100.0
+Europa (moon)	minimumTemperature	50.0
+Uranus	minimumTemperature	49.0
+Pluto	minimumTemperature	33.0
+Rhea (moon)	minimumTemperature	53.0
+Enceladus (moon)	minimumTemperature	32.9
+Titania (moon)	minimumTemperature	60.0
+Io (moon)	minimumTemperature	90.0
+Eris (dwarf planet)	minimumTemperature	30.0
+Geology of Mars	minimumTemperature	360.15
+Geology of Mars	minimumTemperature	186.0
+Mars	minimumTemperature	360.15
+Mars	minimumTemperature	186.0
+238P/Read	minimumTemperature	142.0

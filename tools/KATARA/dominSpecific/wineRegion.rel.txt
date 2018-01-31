@@ -1,0 +1,303 @@
+Malvasia	wineRegion	California wine
+Sauvignon blanc	wineRegion	Chile
+Sauvignon blanc	wineRegion	New Zealand
+Sauvignon blanc	wineRegion	California
+Sauvignon blanc	wineRegion	Loire Valley
+Sauvignon blanc	wineRegion	Bordeaux
+Riesling	wineRegion	Germany
+Riesling	wineRegion	Luxembourg
+Riesling	wineRegion	Alsace
+Riesling	wineRegion	Austria
+Riesling	wineRegion	Italy
+Riesling	wineRegion	Australia
+Riesling	wineRegion	New Zealand
+Riesling	wineRegion	South Africa
+Cabernet Franc	wineRegion	Bordeaux wine
+Cabernet Franc	wineRegion	Loire Valley (wine)
+Malbec	wineRegion	Chilean wine
+Malbec	wineRegion	Cahors wine
+Pinotage	wineRegion	South Africa
+Zinfandel	wineRegion	Dalmatia
+Aurore (grape)	wineRegion	United States
+Aurore (grape)	wineRegion	Canada
+Aurore (grape)	wineRegion	United Kingdom
+Alicante Bouschet	wineRegion	California
+Pinot blanc	wineRegion	Pinot blanc#Origins and regional production
+Carignan	wineRegion	Languedoc
+Carignan	wineRegion	Sardinia
+Carignan	wineRegion	Algeria
+Carignan	wineRegion	Central Valley (California)
+Carignan	wineRegion	Catalan wine
+Gewürztraminer	wineRegion	Alsace wine
+Gewürztraminer	wineRegion	New Zealand wine
+Pinot gris	wineRegion	Pinot gris#Regions
+Roussanne	wineRegion	Australian wine
+Roussanne	wineRegion	California wine
+Barbera	wineRegion	California wine
+Barbera	wineRegion	Australian wine
+Barbera	wineRegion	Argentine wine
+Pinot meunier	wineRegion	Württemberg (wine region)
+Pinot meunier	wineRegion	Oregon wine
+Marsanne	wineRegion	Australian wine
+Marsanne	wineRegion	California wine
+Chasselas	wineRegion	Switzerland
+Chasselas	wineRegion	Loire Valley (wine)
+Carménère	wineRegion	Chilean wine
+Carménère	wineRegion	Washington (state)
+Carménère	wineRegion	California wine
+Chenin blanc	wineRegion	Loire
+Chenin blanc	wineRegion	South African wine
+Dolcetto	wineRegion	Piedmont
+Durif	wineRegion	Australia
+Durif	wineRegion	California
+Durif	wineRegion	France
+Durif	wineRegion	Israel
+Garganega	wineRegion	Italy
+Grignolino	wineRegion	Piemonte (wine)
+Grüner Veltliner	wineRegion	Czech wine
+Mauzac (grape)	wineRegion	Gaillac AOC
+Mauzac (grape)	wineRegion	Limoux wine
+Grenache	wineRegion	Rioja (wine)
+Grenache	wineRegion	Priorat (DOQ)
+Grenache	wineRegion	Sardinia
+Grenache	wineRegion	Spain
+Sangiovese	wineRegion	Tuscany
+Beta (grape)	wineRegion	Minnesota
+Beta (grape)	wineRegion	New York
+Beta (grape)	wineRegion	Finland
+Tempranillo	wineRegion	Rioja (wine)#Wine regions
+Tempranillo	wineRegion	Spain
+Tempranillo	wineRegion	Ribera del Duero
+Tempranillo	wineRegion	Tempranillo#Regions
+Zweigelt	wineRegion	Austria
+Petit Verdot	wineRegion	Bordeaux
+Petit Verdot	wineRegion	Argentina
+Ruby Cabernet	wineRegion	California
+Ruby Cabernet	wineRegion	South African wine
+Alvarelhão	wineRegion	Douro
+Alvarelhão	wineRegion	Dão DOC
+Bastardo (grape)	wineRegion	California wine
+Bastardo (grape)	wineRegion	Chablis
+Bastardo (grape)	wineRegion	Jura Mountains
+Blaufränkisch	wineRegion	Sopron
+Blaufränkisch	wineRegion	Villány
+Blaufränkisch	wineRegion	Szekszárd
+Blaufränkisch	wineRegion	Eger (wine)
+Boal (grape)	wineRegion	Portuguese wine
+Boal (grape)	wineRegion	Spanish wine
+Viura	wineRegion	Rioja (wine)
+Viura	wineRegion	Catalonia
+Rotberger	wineRegion	Baden
+Rotberger	wineRegion	Württemberg
+Rotberger	wineRegion	Ahr
+Dornfelder	wineRegion	Germany
+Sémillon	wineRegion	French wine
+Sémillon	wineRegion	Australian wine
+Sémillon	wineRegion	South African wine
+Aligoté	wineRegion	Aligoté#Regional production
+Trebbiano	wineRegion	Italy
+Airén	wineRegion	La Mancha
+Hárslevelű	wineRegion	Tokaj-Hegyalja
+Pedro Ximénez	wineRegion	Australian wine
+Müller-Thurgau	wineRegion	Austria
+Müller-Thurgau	wineRegion	Czech Republic
+Müller-Thurgau	wineRegion	Germany
+Müller-Thurgau	wineRegion	Hungary
+Müller-Thurgau	wineRegion	Luxembourg
+Müller-Thurgau	wineRegion	Slavonia
+Müller-Thurgau	wineRegion	Slovakia
+Touriga Nacional	wineRegion	Douro
+Touriga Nacional	wineRegion	Dão DOC
+Albariño	wineRegion	Galicia (Spain)
+Albariño	wineRegion	Spain
+Albariño	wineRegion	Minho VR
+Albariño	wineRegion	Portugal
+Acolon	wineRegion	Württemberg
+Acolon	wineRegion	Germany
+Agiorgitiko	wineRegion	Greece
+Trollinger	wineRegion	Württemberg (wine region)
+Trollinger	wineRegion	Trentino
+Trollinger	wineRegion	South Tyrol
+Negroamaro	wineRegion	Apulia
+Nero d'Avola	wineRegion	Sicily
+Assyrtiko	wineRegion	Greece
+Xinomavro	wineRegion	Naousa, Imathia
+Xinomavro	wineRegion	Goumenissa
+Xinomavro	wineRegion	Amyntaio
+Picolit	wineRegion	Friuli-Venezia Giulia wine
+Welschriesling	wineRegion	Hungarian wine
+Welschriesling	wineRegion	Croatian wine
+Welschriesling	wineRegion	Austrian wine
+Welschriesling	wineRegion	Czech wine
+Arbois (grape)	wineRegion	Loire Valley (wine)
+Silvaner	wineRegion	Alsace wine
+Silvaner	wineRegion	Franconia (wine region)
+Crouchen	wineRegion	Australia
+Crouchen	wineRegion	South Africa
+Touriga Francesa	wineRegion	Douro
+Touriga Francesa	wineRegion	Dão DOC
+Trousseau gris	wineRegion	Jura wine
+Trousseau gris	wineRegion	California
+Clairette blanche	wineRegion	Provence wine
+Clairette blanche	wineRegion	Rhône wine
+Bourboulenc	wineRegion	Rhône wine
+Bourboulenc	wineRegion	Provence wine
+Bourboulenc	wineRegion	Languedoc-Roussillon wine
+Tannat	wineRegion	Madiran wine
+Tannat	wineRegion	Uruguayan wine
+Barbaroux	wineRegion	Italian wine
+Barbaroux	wineRegion	Provence
+Barbaroux	wineRegion	Corsica
+Scheurebe	wineRegion	Austria
+Scheurebe	wineRegion	Germany
+Savagnin	wineRegion	Jura wine
+Savagnin	wineRegion	France
+Parellada	wineRegion	Catalonia
+Regent (grape)	wineRegion	Rheinhessen (wine region)
+Regent (grape)	wineRegion	Palatinate (wine region)
+Rondo (grape)	wineRegion	Danish wine
+Rondo (grape)	wineRegion	Wine from the United Kingdom
+Rondo (grape)	wineRegion	Ireland
+Rondo (grape)	wineRegion	Netherlands
+Busuioacă de Bohotin	wineRegion	Iași County
+Blauer Portugieser	wineRegion	Rhenish Hesse
+Blauer Portugieser	wineRegion	Palatinate (wine region)
+Counoise	wineRegion	Rhône wine
+Sauvignon vert	wineRegion	Chile
+Sauvignon vert	wineRegion	Friuli
+Juhfark	wineRegion	Somló
+Canaiolo	wineRegion	Toscana (wine)
+Ancellotta	wineRegion	Emilia-Romagna
+Bondola	wineRegion	Ticino (wine region)
+Torrontés	wineRegion	Argentine wine
+Xynisteri	wineRegion	Troodos Mountains
+Kadarka	wineRegion	Hungarian wine
+Kadarka	wineRegion	Bulgarian wine
+Black Muscat	wineRegion	California wine
+Black Muscat	wineRegion	Virginia wine
+Black Muscat	wineRegion	Pacific Northwest
+Black Muscat	wineRegion	Vancouver Island
+Savagnin Rose	wineRegion	Alsace wine
+Aleatico	wineRegion	Apulia
+Aleatico	wineRegion	Lazio
+Aleatico	wineRegion	Chile
+Aleatico	wineRegion	New South Wales
+Aleatico	wineRegion	California
+Mondeuse Noire	wineRegion	Savoy wine
+Aubun	wineRegion	Rhône wine
+Terret noir	wineRegion	Rhône wine
+Piquepoul	wineRegion	Languedoc-Roussillon wine
+Négrette	wineRegion	South West France (wine region)
+Abouriou	wineRegion	California
+Duras (grape)	wineRegion	Gaillac AOC
+Aramon (grape)	wineRegion	Languedoc-Roussillon wine
+Bonarda Piemontese	wineRegion	Piemonte (wine)
+Braquet	wineRegion	Provence wine
+Gaglioppo	wineRegion	Calabria
+Morio Muscat	wineRegion	German wine
+Siegerrebe	wineRegion	Germany
+Siegerrebe	wineRegion	United Kingdom
+Siegerrebe	wineRegion	United States
+Delaware (grape)	wineRegion	United States
+Isabella (grape)	wineRegion	United States
+Isabella (grape)	wineRegion	India
+Isabella (grape)	wineRegion	Latin America
+Noah (grape)	wineRegion	United States
+Noah (grape)	wineRegion	France
+Noah (grape)	wineRegion	Romania
+Noah (grape)	wineRegion	Croatia
+Noah (grape)	wineRegion	Italy
+Alarije	wineRegion	Extremadura
+Albarello (grape)	wineRegion	Spain
+Grenache Blanc	wineRegion	Spain
+Grenache Blanc	wineRegion	Châteauneuf-du-Pape AOC
+Kerner (grape)	wineRegion	Germany
+Durella	wineRegion	Veneto
+Auxerrois Blanc	wineRegion	Alsace
+Xarel·lo	wineRegion	Catalonia
+Aubin Vert	wineRegion	Lorraine (region)
+Blatina	wineRegion	Herzegovina
+Schönburger	wineRegion	Germany
+Schönburger	wineRegion	United Kingdom
+Schönburger	wineRegion	United States
+Marselan	wineRegion	Languedoc
+Marselan	wineRegion	California
+Petit Meslier	wineRegion	Champagne (wine region)
+Bachet Noir	wineRegion	Aube
+Knipperlé	wineRegion	Alsace wine
+Picardan	wineRegion	Rhône wine
+Peurion	wineRegion	Franche-Comté
+Dameron	wineRegion	Jura wine
+Elbling	wineRegion	Mosel (wine region)
+Elbling	wineRegion	Luxembourg
+Orléans (grape)	wineRegion	Germany
+Bukettraube	wineRegion	South Africa
+Len de l'El	wineRegion	South West France (wine region)
+Petit Manseng	wineRegion	Languedoc-Roussillon wine
+Zierfandler	wineRegion	Wienerwald, Austria
+Schioppettino	wineRegion	Friuli-Venezia Giulia wine
+Schioppettino	wineRegion	Prepotto
+Schioppettino	wineRegion	Slovenia
+Ribolla Gialla	wineRegion	Friuli-Venezia Giulia wine
+Fiano (grape)	wineRegion	Campania
+Arneis	wineRegion	Piemonte (wine)
+Refosco dal Peduncolo Rosso	wineRegion	Friuli-Venezia Giulia
+Refosco dal Peduncolo Rosso	wineRegion	Slovenia
+Refosco dal Peduncolo Rosso	wineRegion	Veneto
+Athiri	wineRegion	Rhodes
+Grechetto	wineRegion	Italy
+Solaris (grape)	wineRegion	Germany
+Rotgipfler	wineRegion	Gumpoldskirchen
+Rotgipfler	wineRegion	Wienerwald, Austria
+Faberrebe	wineRegion	Rhenish Hesse
+Ortega (grape)	wineRegion	Rhenish Hesse
+Räuschling	wineRegion	Swiss wine
+Rara neagră	wineRegion	Nistreana (wine)
+Altesse	wineRegion	Savoy wine
+Altesse	wineRegion	Bugey wine
+Jacquère	wineRegion	Savoy wine
+Bǎtuta Neagră	wineRegion	Nistreana (wine)
+Albana (grape)	wineRegion	Emilia-Romagna
+Albillo	wineRegion	Ribera del Duero
+Amigne	wineRegion	Valais
+Ansonica	wineRegion	Sicily
+Petite Arvine	wineRegion	Valais
+Azal Branco	wineRegion	Vinho Verde
+Bical	wineRegion	Bairrada DOC
+Bombino Bianco	wineRegion	Apulia
+Arbane	wineRegion	Champagne (wine)
+Cayetana	wineRegion	Jerez de la Frontera
+Catarratto	wineRegion	Emilia-Romagna
+Debina (grape)	wineRegion	Zitsa
+Doradillo	wineRegion	Riverland
+Encruzado	wineRegion	Dão DOC
+Erbaluce	wineRegion	Piemonte (wine)
+Ezerjó	wineRegion	Mór
+Favorita (grape)	wineRegion	Piemonte (wine)
+Fernão Pires	wineRegion	Tejo VR
+Fernão Pires	wineRegion	Bairrada DOC
+Goldburger	wineRegion	Burgenland (wine)
+Humagne Blanche	wineRegion	Valais
+Pigato	wineRegion	Liguria
+Bronner (grape)	wineRegion	Germany
+Merzling	wineRegion	Germany
+Garrido Fino	wineRegion	Huelva
+Parraleta	wineRegion	Somontano
+Arnsburger	wineRegion	Germany
+Arnsburger	wineRegion	Madeira
+Arnsburger	wineRegion	Italy
+Arnsburger	wineRegion	New Zealand
+Bogdanuša	wineRegion	Croatia
+Pinot Noir Précoce	wineRegion	Germany
+Cabernet Cortis	wineRegion	Germany
+Falanghina	wineRegion	Campania
+Gamaret	wineRegion	Canton of Geneva
+Cornalin d'Aoste	wineRegion	Valais
+Rouge du Pays	wineRegion	Valais
+Glera (grape)	wineRegion	Veneto
+Azal Tinto	wineRegion	Minho
+Cserszegi Fűszeres	wineRegion	Hungarian wine
+Juwel (grape)	wineRegion	Rheinhessen (wine region)
+Kanzler (grape)	wineRegion	Rheinhessen (wine region)
+Thomcord	wineRegion	San Joaquin Valley
+Thomcord	wineRegion	California

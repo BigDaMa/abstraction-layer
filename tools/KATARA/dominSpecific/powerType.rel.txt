@@ -1,0 +1,1455 @@
+USS John C. Stennis (CVN-74)  1	powerType	Watt#Megawatt
+USS Monitor  1	powerType	Marine steam engine#Vibrating lever
+Pennsylvania class battleship	powerType	Sea trial
+SS Eastland  1	powerType	Steam engine#Multiple expansion engines
+RMS Olympic  1	powerType	Reciprocating engine
+RMS Olympic  1	powerType	Horsepower
+SS Great Britain  1	powerType	Cylinder (engine)
+SS Great Britain  1	powerType	Stroke (engine)
+SS Great Britain  1	powerType	Revolutions per minute
+HMHS Britannic  1	powerType	Horsepower
+USS Arizona (BB-39)  1	powerType	Sea trial
+NS Savannah  1	powerType	Babcock & Wilcox
+USS Dolphin (SS-169)  1	powerType	Diesel engine
+USS Dolphin (SS-169)  1	powerType	Electric motor
+Richard Trevithick  "Pen-y-Darren Locomotive"   1	powerType	Steam
+RV Polarstern  1	powerType	Watt#Kilowatt
+RV Polarstern  1	powerType	Horsepower
+USS Sand Lance (SSN-660)  1	powerType	Horsepower#Shaft horsepower
+SS Princess Alice (1865)  1	powerType	Horsepower#Nominal horsepower
+EMD SD80MAC	powerType	Diesel-electric transmission
+PS General Slocum  1	powerType	Bore (engine)
+PS General Slocum  1	powerType	Stroke (engine)
+MS Adventure of the Seas  1	powerType	Diesel-electric transmission#Ships
+MS Adventure of the Seas  1	powerType	Watt#Kilowatt
+USS Bonefish (SS-582)  1	powerType	Diesel engine
+USS Bonefish (SS-582)  1	powerType	Electric motor
+USS Argonaut (SM-1)  1	powerType	Exide
+USS Argonaut (SM-1)  1	powerType	Electric motor
+USS Richard B. Russell (SSN-687)  1	powerType	Horsepower#Shaft horsepower
+USS Pogy (SSN-647)  1	powerType	Horsepower#Shaft horsepower
+USS Archerfish (SSN-678)  1	powerType	Horsepower#Shaft horsepower
+British Rail Class 53	powerType	Diesel-electric transmission
+Duncan class battleship	powerType	Horsepower#Indicated horsepower
+RMS Lusitania  1	powerType	Scotch marine boiler
+USS Hawkbill (SSN-666)  1	powerType	Horsepower#Shaft horsepower
+RMS Empress of Ireland  1	powerType	Steam engine#Multiple expansion engines
+HMS Erebus (1826)  1	powerType	Horsepower#Nominal horsepower
+HMS Triumph (1903)  1	powerType	Horsepower#Indicated horsepower
+USS Parche (SSN-683)  1	powerType	Horsepower#Shaft horsepower
+British Rail Class 52	powerType	Diesel locomotive#Diesel-hydraulic
+MS Estonia  cruiseferry   1	powerType	MAN SE
+MS Estonia  cruiseferry   1	powerType	Diesel engine
+MS Estonia  cruiseferry   1	powerType	Watt
+MS Estonia  cruiseferry   1	powerType	Horsepower
+HMS Hood (1891)  1	powerType	Horsepower#Indicated horsepower
+USS Grayling (SSN-646)  1	powerType	Horsepower#Shaft horsepower
+CSS Alabama  1	powerType	Horsepower
+British Rail Class 02	powerType	Diesel locomotive#Diesel-hydraulic
+British Rail Class 03	powerType	Diesel locomotive#Diesel-mechanical
+British Rail Class 04	powerType	Diesel locomotive#Diesel-mechanical
+British Rail Class 05	powerType	Diesel locomotive
+British Rail Class 06	powerType	Diesel locomotive
+British Rail Class 07	powerType	Diesel-electric transmission
+British Rail Class 08	powerType	Diesel locomotive#Diesel-electric
+SS Great Western  3	powerType	Henry Maudslay
+SS Great Western  3	powerType	Horsepower
+British Rail Class 10	powerType	Diesel-electric transmission
+British Rail Class 14	powerType	Diesel locomotive#Diesel-hydraulic
+USS Greenwich Bay (AVP-41)  1	powerType	Horsepower
+Amoco Cadiz  1	powerType	Diesel engine
+Freewinds  1	powerType	Wärtsilä
+USCGC Absecon (WAVP-374)  1	powerType	Horsepower
+USS Absecon (AVP-23)  1	powerType	Horsepower
+GE Genesis	powerType	Diesel-electric transmission
+MS Mikhail Lermontov  1	powerType	Sulzer (manufacturer)
+PS Waverley  1	powerType	Horsepower#Indicated horsepower
+MS Gabriella  1	powerType	SEMT Pielstick
+RMS Mauretania (1906)  1	powerType	Parsons Marine Steam Turbine Company
+SS Sir Walter Scott  1	powerType	Compound engine#Multiple expansion engines
+GE U25B	powerType	Diesel-electric transmission
+SS Normandie  1	powerType	Turbo-electric
+USNS Yukon (T-AO-202)  1	powerType	Horsepower
+USS William H. Bates (SSN-680)  1	powerType	Horsepower#Shaft horsepower
+USS Pintado (SSN-672)  1	powerType	Horsepower#Shaft horsepower
+RMS Laconia (1911)  1	powerType	Steam engine#Multiple expansion engines
+USS Guitarro (SSN-665)  1	powerType	Horsepower#Shaft horsepower
+USS L. Mendel Rivers (SSN-686)  1	powerType	Horsepower#Shaft horsepower
+USS Bergall (SSN-667)  1	powerType	Horsepower#Shaft horsepower
+USS Sea Devil (SSN-664)  1	powerType	Horsepower#Shaft horsepower
+USS Aspro (SSN-648)  1	powerType	Horsepower#Shaft horsepower
+USS Trepang (SSN-674)  1	powerType	Horsepower#Shaft horsepower
+USS Gurnard (SSN-662)  1	powerType	Horsepower#Shaft horsepower
+USS Bluefish (SSN-675)  1	powerType	Horsepower#Shaft horsepower
+USS Spadefish (SSN-668)  1	powerType	Horsepower#Shaft horsepower
+USS Puffer (SSN-652)  1	powerType	Horsepower#Shaft horsepower
+USS Sunfish (SSN-649)  1	powerType	Horsepower#Shaft horsepower
+USS Ray (SSN-653)  1	powerType	Horsepower#Shaft horsepower
+USS Queenfish (SSN-651)  1	powerType	Horsepower#Shaft horsepower
+USS Pargo (SSN-650)  1	powerType	Horsepower#Shaft horsepower
+USS Seahorse (SSN-669)  1	powerType	Horsepower#Shaft horsepower
+USS Silversides (SSN-679)  1	powerType	Horsepower#Shaft horsepower
+USS Hammerhead (SSN-663)  1	powerType	Horsepower#Shaft horsepower
+USS Lapon (SSN-661)  1	powerType	Horsepower#Shaft horsepower
+USS Cavalla (SSN-684)  1	powerType	Horsepower#Shaft horsepower
+USS Flying Fish (SSN-673)  1	powerType	Horsepower#Shaft horsepower
+USS Finback (SSN-670)  1	powerType	Horsepower#Shaft horsepower
+USS Billfish (SSN-676)  1	powerType	Horsepower#Shaft horsepower
+USS Batfish (SSN-681)  1	powerType	Horsepower#Shaft horsepower
+USS Drum (SSN-677)  1	powerType	Horsepower#Shaft horsepower
+British Rail Class 47	powerType	Diesel locomotive#Diesel-electric
+HMS Albemarle (1901)  1	powerType	Horsepower#Indicated horsepower
+HMS Africa (1905)  1	powerType	Horsepower#Indicated horsepower
+MS Mariella  1	powerType	Wärtsilä
+MS Marco Polo  1	powerType	Sulzer (manufacturer)
+MS Marco Polo  1	powerType	Watt
+MS Marco Polo  2	powerType	Sulzer (manufacturer)
+MS Marco Polo  2	powerType	Watt
+SS Europa (1928)  1	powerType	Steam turbine
+EMD F40PH	powerType	Diesel-electric transmission
+S class ferry	powerType	Horsepower
+EMD GP30	powerType	Diesel-electric transmission
+CSS Shenandoah  1	powerType	Horsepower#Mechanical horsepower
+SS Thistlegorm  1	powerType	Steam engine
+USS Mattabesett (1863)  1	powerType	Horsepower
+Kilo class submarine	powerType	Diesel-electric transmission
+Yorkshire Engine Company Janus	powerType	Diesel-electric transmission
+MSC Armonia  1	powerType	Wärtsilä
+EMC E2	powerType	Diesel-electric transmission
+Carnival Paradise  1	powerType	Sulzer (manufacturer)
+Flying Yankee	powerType	Diesel engine
+EMC E1	powerType	Diesel-electric transmission
+HMS Britannia (1904)  1	powerType	Horsepower#Indicated horsepower
+EMD SD70 series	powerType	Diesel-electric transmission
+MS Pride of Bilbao  1	powerType	Wärtsilä
+Krasin (icebreaker)  1	powerType	Shaft horsepower#Shaft horsepower
+EMD SD90MAC	powerType	Diesel-electric transmission
+ALCO DH643	powerType	Diesel locomotive#Diesel-hydraulic
+EMD SW1	powerType	Diesel-electric transmission
+MS Zuiderdam  1	powerType	Gas turbine
+MS Zuiderdam  1	powerType	Sulzer (manufacturer)
+MS Zuiderdam  1	powerType	Watt#Kilowatt
+EMD DD35	powerType	Diesel-electric transmission
+ALCO HH series	powerType	Diesel-electric transmission
+EMD TR1	powerType	Diesel-electric transmission
+MV Aurora (2000)  1	powerType	MAN SE
+MV Aurora (2000)  1	powerType	Diesel engine
+MV Aurora (2000)  1	powerType	Watt#Kilowatt
+EMD NW5	powerType	Diesel-electric transmission
+HMS Clio (1858)  1	powerType	Horsepower#Nominal horsepower
+Baldwin DR-4-4-15	powerType	Diesel-electric transmission
+USS H-3 (SS-30)  1	powerType	Diesel engine
+USS H-3 (SS-30)  1	powerType	Electric motor
+Kaikō  1	powerType	Lithium-ion battery
+USS Makin Island (LHD-8)  2	powerType	Gas turbine
+ORP Burza  1	powerType	Horsepower
+MT Tempera  1	powerType	Wärtsilä
+MT Mastera  1	powerType	Wärtsilä
+MS Amorella  1	powerType	Wärtsilä
+TSMS Lakonia  1	powerType	Sulzer (manufacturer)
+HMS Challenger (1858)  1	powerType	Horsepower#Nominal horsepower
+Cachalot class submarine	powerType	Exide
+GTS Finnjet  1	powerType	Pratt & Whitney
+GTS Finnjet  2	powerType	Pratt & Whitney
+GTS Finnjet  2	powerType	Wärtsilä
+FM Consolidated line	powerType	Diesel-electric transmission
+Formidable class frigate	powerType	Isotta-Fraschini
+HMS M1  1	powerType	Diesel engine
+USS Lafayette (AP-53)  1	powerType	Turbo-electric
+USS Medusa (AR-1)  1	powerType	Horsepower#Shaft horsepower
+MS Silja Serenade  1	powerType	Wärtsilä
+MS Silja Festival  1	powerType	Wärtsilä
+MS Cristal  1	powerType	Wärtsilä
+British B class submarine	powerType	Gasoline
+HMS Hibernia (1905)  1	powerType	Horsepower#Indicated horsepower
+Mistral class amphibious assault ship	powerType	Wärtsilä
+Mistral class amphibious assault ship	powerType	Wärtsilä Vasa
+LMS diesel shunters	powerType	Diesel locomotive
+Cycloped	powerType	Horse
+FM H-24-66	powerType	Diesel-electric transmission
+Mein Schiff 1  1	powerType	MAN SE
+USS Niagara (1813)  yes   2	powerType	Diesel engine
+USS Freedom (LCS-1)    1	powerType	Isotta-Fraschini
+MV Joseph and Clara Smallwood  1	powerType	Maschinenbau Kiel
+MV Caribou  1	powerType	Maschinenbau Kiel
+USS James Adger  1	powerType	Marine steam engine#Side-lever
+USS James Adger  1	powerType	Paddle wheel
+EMD GP38	powerType	Diesel-electric transmission
+EMD GP40	powerType	Diesel locomotive#Diesel-electric
+EMD SDP40	powerType	Diesel-electric transmission
+EMD SD40	powerType	Diesel-electric transmission
+British Rail Class D20/2	powerType	Diesel locomotive#Diesel-hydraulic
+Kruzenshtern (ship)  1	powerType	Horsepower#Brake hoursepower
+British Rail Class 97/6	powerType	Diesel-electric transmission
+GWR 2251 Class	powerType	Steam locomotive
+USS Suisun (AVP-53)  1	powerType	Horsepower
+USNS Rappahannock (T-AO-204)  1	powerType	Horsepower
+British Rail Class 20	powerType	Diesel-electric transmission
+USCGC Unimak (WAVP-379)  2	powerType	Horsepower
+Aurora Australis (icebreaker)  Antarctic research and resupply vessel   1	powerType	Wärtsilä
+NS Class 600	powerType	Diesel-electric transmission
+SNCF Class BB 67300	powerType	Diesel fuel
+SNCF Class BB 67400	powerType	Diesel fuel
+SS Nomadic (1911)  1	powerType	Scotch marine boiler
+MS Mariner of the Seas  1	powerType	Diesel-electric transmission
+MV Manx Viking  1	powerType	SEMT Pielstick
+DSRV-2 Avalon  1	powerType	Horsepower#Shaft horsepower
+MS Amsterdam  1	powerType	Diesel-electric#Ships
+MS Amsterdam  1	powerType	Watt#Kilowatt
+HMS Resolution (1892)  1	powerType	Horsepower#Indicated horsepower
+HMS Cornwallis (1901)  1	powerType	Horsepower#Indicated horsepower
+British Rail Class 42	powerType	Diesel locomotive#Diesel-hydraulic
+GE AC4400CW	powerType	Diesel-electric transmission
+MS Freedom of the Seas  1	powerType	Wärtsilä
+SS Sankt Erik  1	powerType	Horsepower
+SS Sankt Erik  1	powerType	Boiler
+MS Viking Cinderella  1	powerType	Wärtsilä
+MS Isabella  1	powerType	Wärtsilä
+MS Expedition  1	powerType	B&W
+TGR K class	powerType	Steam
+Aaron Manby  1	powerType	Oscillating cylinder steam engine
+USS Duxbury Bay (AVP-38)  1	powerType	Horsepower
+USS Nantucket (IX-18)  1	powerType	Horsepower#Indicated horsepower
+USS Nantucket (IX-18)  1	powerType	Revolutions per minute
+ALCO RS-1	powerType	Diesel-electric transmission
+Victoria Star 2  1	powerType	Detroit Diesel
+MS Noordam  Vista class cruise ship   1	powerType	Diesel-electric transmission
+AIDAaura  1	powerType	Diesel-electric#Ships
+AIDAaura  1	powerType	Watt#Kilowatt
+Pacific Jewel  as built, 1990   1	powerType	MAN SE
+AIDAcara  1	powerType	Diesel-electric#Ships
+AIDAcara  1	powerType	Watt#Kilowatt
+MS ARV 1  1	powerType	MAN SE
+MS ARV 1  1	powerType	Diesel engine
+MS ARV 1  1	powerType	Watt
+SS Princess Sophia  1	powerType	Steam engine#Multiple expansion engines
+MS Regina Della Pace  1	powerType	Wärtsilä
+MS Vana Tallinn  1	powerType	B&W-Helsingør
+MS Vana Tallinn  2	powerType	Zgoda Sulzer
+MS Regina Baltica  1	powerType	SEMT Pielstick
+SS Republic (1853)  1	powerType	Steam engine
+British Rail Class 58	powerType	Diesel-electric transmission
+NS Class 1500	powerType	Electricity
+TGR X class	powerType	Diesel-electric transmission
+British Rail Class 21	powerType	Diesel-electric transmission
+Celebrity Summit  1	powerType	General Electric
+MV Colombo Express  1	powerType	Diesel engine
+GER Class S56	powerType	Steam locomotive
+Yavari (ship)  1	powerType	Bolinder-Munktell
+HMS Active (1869)  1	powerType	Horsepower#Indicated horsepower
+Victorian Railways F class (diesel)	powerType	Diesel-electric transmission
+Carnival Conquest  1	powerType	Diesel-electric#Ships
+Carnival Conquest  1	powerType	Watt#Kilowatt
+Union Pacific 6936	powerType	Diesel-electric transmission
+Caribbean Princess  1	powerType	Diesel-electric#Ships
+Caribbean Princess  1	powerType	Watt#Kilowatt
+HMS Kingfisher (1879)  1	powerType	Horsepower#Indicated horsepower
+HMS Dido (1869)  1	powerType	Horsepower
+Carnival Fascination  1	powerType	Sulzer (manufacturer)
+SS Waratah  1	powerType	Boiler
+ORP Gryf (1944)  1	powerType	Compound engine
+MV Seabourn Spirit  1	powerType	Normo-Bergen
+MV Seabourn Spirit  1	powerType	Watt
+MS Empress  1	powerType	Wärtsilä
+Moshulu  1	powerType	Steam engine
+MS Norwegian Dream  1	powerType	MAN SE
+MS Louis Majesty  1	powerType	Wärtsilä
+Star Pisces  as Kalypso   1	powerType	Wärtsilä
+MS Pride of Dover  1	powerType	Sulzer (manufacturer)
+Celebrity Millennium  1	powerType	General Electric
+NSB El 18	powerType	Electric locomotive
+NSB El 17	powerType	Electric locomotive
+USS Walter X. Young (DE-723)  1	powerType	Horsepower#Shaft horsepower
+SS Liberty Glo  1	powerType	Steam turbine
+USS Lejeune (AP-74)  1	powerType	Horsepower#Shaft horesepower
+SNCF Class T 2000	powerType	Autorail
+MV Neptuna  1	powerType	Horsepower#Nominal horsepower
+MV Havengore  1	powerType	L. Gardner and Sons
+GER Class C53	powerType	Steam locomotive
+RMS Leinster  1	powerType	Steam engine#Multiple expansion engines
+MV Crosline  1	powerType	Horsepower
+NOAAS Rude (S 590)  1	powerType	Horsepower#Shaft horsepower
+NOAAS Rainier (S 221)  2	powerType	Horsepower#Shaft horsepower
+Carnival Liberty  1	powerType	Diesel-electric#Ships
+Carnival Liberty  1	powerType	Watt#Kilowatt
+MS The World  1	powerType	Diesel engine
+Baldwin VO-1000	powerType	Diesel-electric transmission
+Baldwin VO-660	powerType	Diesel-electric transmission
+MV Illahee  1	powerType	Diesel-electric transmission
+MV Klickitat  1	powerType	Diesel-electric transmission
+MV Quinault  1	powerType	Diesel-electric transmission
+Steel Electric class ferry	powerType	Diesel-electric transmission
+Ocean Princess (ship)  1	powerType	Wärtsilä
+Crown Princess (ship)  1	powerType	Wärtsilä
+PKP class SM42	powerType	Diesel locomotive
+NOAAS Oceanographer (R 101)  1	powerType	Horsepower#Shaft horsepower
+NSB El 9	powerType	Electric locomotive
+NSB Di 3	powerType	Diesel locomotive#Diesel-electric
+PKP class SM03	powerType	Diesel locomotive
+Milwaukee Road class ES-1	powerType	Electric locomotive
+Milwaukee Road class ES-2	powerType	Electric locomotive
+USS Zeppelin (1914)  1	powerType	Horsepower#Nominal horsepower
+MS Bohus  1	powerType	NOHAB
+MS Color Viking  1	powerType	Burmeister & Wain
+MS Color Viking  1	powerType	Watt#Kilowatt
+Baldwin DRS-4-4-1000	powerType	Diesel-electric transmission
+MV Ocean Pearl  1	powerType	Sulzer-Wärtsilä
+MV Ocean Pearl  1	powerType	Watt
+MV Ocean Pearl  2	powerType	Sulzer-Wärtsilä
+MV Ocean Pearl  2	powerType	Watt
+MS Color Fantasy  1	powerType	Wärtsilä
+MS Color Fantasy  1	powerType	Watt
+MS Bahamas Celebration  1	powerType	Stork
+MS Bahamas Celebration  2	powerType	Wärtsilä
+MS Oscar Wilde  1	powerType	Diesel engine
+MS Oscar Wilde  1	powerType	Diesel engine
+MS Oscar Wilde  1	powerType	Watt
+MS Mega Smeralda  1	powerType	Diesel engine
+MS Mega Smeralda  1	powerType	Watt
+MS Mega Smeralda  2	powerType	Diesel engine
+MS Mega Smeralda  2	powerType	Watt
+MS Julia  1	powerType	SEMT Pielstick
+MS Julia  1	powerType	Watt#Kilowatt
+MS SNAV Toscana  1	powerType	B&W
+USS Winchester (SP-156)  1	powerType	Horsepower
+NZR EB class	powerType	Electric locomotive
+MS Brilliance of the Seas  1	powerType	Gas turbine
+MS Brilliance of the Seas  1	powerType	Bow thruster
+NS Class 1600	powerType	Electricity
+Stevens Battery  1	powerType	Horsepower#Indicated horsepower
+Stevens Battery  1	powerType	Horsepower#Indicated horsepower
+SNCF Class Y 8000	powerType	Diesel fuel
+British Rail 11104	powerType	Diesel locomotive#Diesel-mechanical
+USCGC Matagorda (WPB-1303)  1	powerType	Horsepower
+British Rail Class D3/12	powerType	Diesel locomotive#Diesel-electric
+British Rail Class D2/10	powerType	List of British Rail classes
+Carnival Glory  1	powerType	Diesel-electric#Ships
+Carnival Glory  1	powerType	Watt#Kilowatt
+Carnival Legend  1	powerType	Diesel-electric#Ships
+Carnival Legend  1	powerType	Watt#Kilowatt
+Carnival Miracle  1	powerType	Diesel-electric#Ships
+Carnival Miracle  1	powerType	Watt#Kilowatt
+MV Oriana (1995)  1	powerType	MAN SE
+MV Oriana (1995)  1	powerType	Diesel engine
+MV Oriana (1995)  1	powerType	Watt
+PKP class OKl27	powerType	Steam locomotive
+DSRV-1 Mystic  1	powerType	Horsepower#Shaft horsepower
+HMS Pelorus (1857)  1	powerType	Horsepower#Nominal horsepower
+HMS Pegasus (1878)  1	powerType	Horsepower#Indicated horsepower
+HMS Gannet (1878)  1	powerType	Horsepower#Indicated horsepower
+MV Pacific Dream  1	powerType	MAN SE
+Oasis class cruise ship	powerType	Wärtsilä
+Oasis class cruise ship	powerType	Wärtsilä
+NZR DQ class	powerType	Diesel-electric transmission
+SS Constitution  1	powerType	Bethlehem Steel
+MS Jan Heweliusz  1	powerType	Combined diesel and diesel
+Arahura (ferry)  1	powerType	Wärtsilä
+MS Westerdam  2	powerType	Diesel-electric transmission
+Carnival Triumph  1	powerType	Diesel-electric#Ships
+Carnival Triumph  1	powerType	Watt#Kilowatt
+Norwegian Jewel  1	powerType	MAN SE
+USNS John Ericsson (T-AO-194)  1	powerType	Horsepower
+Pride of America  2	powerType	Wärtsilä
+HMS Commonwealth (1903)  1	powerType	Horsepower#Indicated horsepower
+MV Queen of the North  1	powerType	MAN Diesel
+MV Queen of the North  1	powerType	Diesel engine
+MV Queen of the North  1	powerType	Watt
+MV Queen of the North  1	powerType	Horsepower
+MV Normandie  1	powerType	Wärtsilä
+MV Mont St Michel  1	powerType	ThyssenKrupp
+Carnival Victory  1	powerType	Diesel-electric#Ships
+Carnival Victory  1	powerType	Watt#Kilowatt
+Carnival Valor  1	powerType	Watt#Kilowatt
+Carnival Spirit  1	powerType	Diesel-electric#Ships
+Carnival Spirit  1	powerType	Watt#Kilowatt
+Carnival Ecstasy  1	powerType	Sulzer (manufacturer)
+Carnival Pride  1	powerType	Wärtsilä
+Carnival Pride  1	powerType	Watt#Kilowatt
+Carnival Fantasy  1	powerType	Sulzer (manufacturer)
+Carnival Imagination  1	powerType	Sulzer (manufacturer)
+Carnival Inspiration  1	powerType	Sulzer (manufacturer)
+Carnival Sensation  1	powerType	Sulzer (manufacturer)
+Grand Celebration  1	powerType	Sulzer (manufacturer)
+MS Sovereign  1	powerType	Diesel engine
+MS Sovereign  1	powerType	Watt
+Costa Atlantica  1	powerType	Wärtsilä
+MS Thomson Dream  1	powerType	B&W
+Costa Allegra  1	powerType	Wärtsilä
+USNS Pecos (T-AO-197)  1	powerType	Horsepower
+Crystal Symphony  1	powerType	Wärtsilä
+MV Zenith  1	powerType	MAN SE
+MV Zenith  1	powerType	Watt
+RMS Transvaal Castle  1	powerType	Pametrada-Brown
+RMS Transvaal Castle  1	powerType	Horsepower
+Pacific Sun (ship)  1	powerType	Sulzer (manufacturer)
+MV Bretagne  1	powerType	Wärtsilä
+MV Pont L'Abbé  1	powerType	Lindholmen
+HSC Normandie Express  1	powerType	Paxman (engines)
+HSC Condor Vitesse  1	powerType	Ruston (engine builder)
+American Queen  3	powerType	Steam engine
+American Queen  3	powerType	Diesel-electric transmission
+MS Deutschland  1	powerType	Maschinenbau Kiel
+MS Pride of Calais  1	powerType	Sulzer (manufacturer)
+MS European Seaway  1	powerType	Sulzer (manufacturer)
+MS Pride of Burgundy  1	powerType	Sulzer (manufacturer)
+MS Pride of Kent  1	powerType	Sulzer (manufacturer)
+MS Pride of Canterbury  1	powerType	Sulzer (manufacturer)
+HMS Plumper (1848)  1	powerType	Horsepower#Indicated horsepower
+SS Galileo Galilei  1	powerType	De Laval-San Andrea
+SS Galileo Galilei  1	powerType	Watt
+MS The Calypso  1	powerType	Fiat
+Spirit class cruise ship	powerType	Wärtsilä
+NOAAS Albatross IV (R 342)  1	powerType	Horsepower#Brake horsepower
+NOAAS John N. Cobb (R 552)  1	powerType	Horsepower#Brake horsepower
+NOAAS Delaware II (R 445)  1	powerType	Horsepower#Brake horsepower
+USNS Guadalupe (T-AO-200)  1	powerType	Horsepower
+Pacific Princess  1	powerType	Wärtsilä
+Pacific Dawn (ship)  1	powerType	MAN Diesel
+Freedom class cruise ship	powerType	Wärtsilä
+MV Oceana  1	powerType	Sulzer (manufacturer)
+MV Oceana  1	powerType	Watt
+Ocean Dream (ship)  1	powerType	Sulzer (manufacturer)
+MV Reine Mathilde  1	powerType	SEMT Pielstick
+MS King Seaways  1	powerType	Maschinenbau Kiel
+HMS Swiftsure (1903)  1	powerType	Horsepower#Indicated horsepower
+MV Artania  1	powerType	Wärtsilä
+MV Artania  1	powerType	Watt
+Pacific (ship)  1	powerType	Fiat
+MS Mona Lisa  1	powerType	Horsepower
+Robert H. Smith class destroyer	powerType	Horsepower
+HSC Condor Express  1	powerType	Ruston (engine builder)
+MV Cotentin  1	powerType	Maschinenbau Kiel
+MV Cotentin  1	powerType	Watt
+SS Oceanic (1965)  1	powerType	DeLaval
+SS Oceanic (1965)  1	powerType	Watt
+MS Thomson Destiny  1	powerType	Sulzer (manufacturer)
+NZR DC class	powerType	Diesel-electric transmission
+NZR DA class	powerType	Diesel-electric transmission
+NZR DB class	powerType	Diesel-electric transmission
+HSC Fjord Cat  1	powerType	Ruston (engine builder)
+Atlantic Star (cruise ship)  1	powerType	Steam turbine
+NZR DE class	powerType	Diesel-electric transmission
+Bora class guided missile hovercraft	powerType	Watt#Kilowatt
+YAG training vessels	powerType	Yanmar
+GER Class G15	powerType	Steam locomotive
+MS Wolin  1	powerType	MAN Diesel
+PL42AC	powerType	Diesel-electric transmission
+Thetis class frigate	powerType	Detroit Diesel
+Thetis class frigate	powerType	Emergency power system
+Schooner Black Douglas  1	powerType	Volvo Penta
+GER Class F48	powerType	Steam locomotive
+GER Class G58	powerType	Steam locomotive
+GER Class T19	powerType	Steam locomotive
+GER Class T19  R“Humpty Dumpty”   1	powerType	Steam locomotive
+GER Class T19  GER T19R 4-4-0LNER Class D13   1	powerType	Steam locomotive
+GER Class T26	powerType	Steam locomotive
+GER Class P43	powerType	Steam locomotive
+GER Class E22	powerType	Steam locomotive
+SNCF Class B 82500	powerType	Diesel engine
+SNCF Class B 82500	powerType	Direct current
+SNCF Class B 82500	powerType	Alternating current
+SNCF Class B 81500	powerType	Diesel engine
+SNCF Class B 81500	powerType	Direct current
+Thomas W. Lawson (ship)  1	powerType	Steam donkey
+Edward M. Cotter (fireboat)  1	powerType	Steam engine
+NZR DSG class	powerType	Switcher
+MS Smyril  1	powerType	MAN Diesel
+SuperStar Virgo  1	powerType	MAN SE
+HSC Speedrunner III  1	powerType	Ruston (engine builder)
+HSC Speedrunner IV  1	powerType	Ruston (engine builder)
+HMS Hornet (1854)  1	powerType	Horsepower#Nominal horsepower
+MDV1200 class fast ferry	powerType	Ruston (engine builder)
+ALCO RS-27	powerType	Diesel-electric transmission
+ALCO RS-36	powerType	Diesel-electric transmission
+HSC Tallink AutoExpress 2  1	powerType	MTU Friedrichshafen
+Batillus  1	powerType	Horsepower
+MS Pearl of Scandinavia  1	powerType	Wärtsilä
+MS Jamaa II  1	powerType	Diesel engine
+MS Jamaa II  1	powerType	Watt
+SNCF Class X 2400	powerType	Autorail
+MS Svea Corona  1	powerType	Diesel engine
+SNCF Class X 4900	powerType	Autorail
+Voiture de banlieue à 2 niveaux	powerType	Passenger car (rail)
+Voiture État à 2 étages	powerType	Passenger car (rail)
+Endurance class landing platform dock ship	powerType	Ruston (engine builder)
+USS Mackinac (AVP-13)  1	powerType	Horsepower
+Tubize 2069	powerType	Steam
+EMD SD75M	powerType	Diesel-electric transmission
+EMD SD75I	powerType	Diesel-electric transmission
+MS Moby Otta  1	powerType	SEMT Pielstick
+MS Moby Otta  1	powerType	Watt
+HMS Hindustan (1903)  1	powerType	Horsepower#Indicated horsepower
+SS Pasteur (1939)  1	powerType	Volt-ampere
+SS Pasteur (1939)  1	powerType	Watt#Kilowatt
+Saga Ruby  1	powerType	Sulzer (manufacturer)
+USS DeKalb (ID-3010)  1	powerType	Horsepower#Boiler horsepower
+RMS Viceroy of India  1	powerType	British Thomson-Houston
+EMD DH1	powerType	Diesel locomotive#Diesel-hydraulic
+GMD GMDH-1	powerType	Diesel locomotive#Diesel-hydraulic
+RMS Umbria  1	powerType	Coal
+Iore	powerType	Electric locomotive
+GMD GMDH-3	powerType	Diesel locomotive#Diesel-hydraulic
+MS Lagan Seaways  1	powerType	MAN Diesel
+New South Wales 45 class locomotive	powerType	Diesel-electric transmission
+MS Romantika  1	powerType	Wärtsilä
+MS Galaxy  1	powerType	Wärtsilä
+MV Adonia  1	powerType	Wärtsilä
+MS Salamis Filoxenia  1	powerType	Wärtsilä
+Preußen (ship)  1	powerType	Auxiliary propulsion
+Preußen (ship)  1	powerType	Steam donkey#Design and usage
+Preußen (ship)  1	powerType	Loading gear
+Preußen (ship)  1	powerType	Pump
+Preußen (ship)  1	powerType	Electric generator
+MS Dunkerque Seaways  1	powerType	MAN SE
+USCGC Eastwind (WAGB-279)  1	powerType	Horsepower#Brake horsepower
+EMD GT22CUM-1	powerType	Diesel-electric transmission
+USNS Indomitable (T-AGOS-7)  1	powerType	Horsepower
+SS Mount Ida  1	powerType	Steam engine#Multiple expansion engines
+MS Kaptain Boris  1	powerType	Ruston (engine builder)
+MS Kaptain Boris  1	powerType	Horsepower
+MS Kaptain Boris  2	powerType	Maschinenbau Kiel
+MS Kaptain Boris  2	powerType	Watt
+Celebrity Solstice  1	powerType	Wärtsilä
+NS 50 Years Since Victory  1	powerType	Nuclear reactor technology
+MV Leif Ericson  1	powerType	Sulzer (manufacturer)
+TSS Duke of Lancaster (1956)  1	powerType	Steam turbine
+Celebrity Equinox  1	powerType	Wärtsilä
+Celebrity Eclipse  1	powerType	Wärtsilä
+New South Wales 49 class locomotive	powerType	Diesel-electric transmission
+RMS Campania  1	powerType	Boiler
+RMS Campania  1	powerType	Steam engine#Multiple expansion engines
+RMS Lucania  1	powerType	Boiler
+RMS Lucania  1	powerType	Steam engine#Multiple expansion engines
+MS Superfast VII  1	powerType	Wärtsilä
+MS Superfast VIII  1	powerType	Wärtsilä
+MV Atlantic Vision  1	powerType	Wärtsilä
+North River Steamboat  1	powerType	Steam engine
+North River Steamboat  1	powerType	Sailing ship
+MS Thomson Celebration  1	powerType	Sulzer (manufacturer)
+MS Thomson Celebration  1	powerType	Watt
+Đuro Đaković Series 732	powerType	Diesel locomotive#Diesel-hydraulic
+MS Eurodam  1	powerType	Diesel-electric transmission
+USS San Pablo (AVP-30)  1	powerType	Horsepower
+102hp Walker railmotor	powerType	Diesel engine
+LNWR 1185 Class	powerType	Steam locomotive
+LNWR 380 Class	powerType	Steam locomotive
+GCR Class 8H	powerType	Steam locomotive
+LNWR 17in Coal Engine	powerType	Steam locomotive
+153hp Walker railmotor	powerType	Diesel engine
+MS Nordlys  1	powerType	Maschinenbau Kiel
+MS Sea Diamond  1	powerType	Wärtsilä
+MS Sea Diamond  1	powerType	Watt
+HDMS Thetis (F357)  1	powerType	Detroit Diesel
+HDMS Thetis (F357)  1	powerType	Emergency power system
+SS Megantic (1908)  1	powerType	Steam engine
+SS Laurentic (1908)  1	powerType	Steam engine
+SS Laurentic (1908)  1	powerType	Horsepower#Indicated horsepower
+MS Winston Churchill  1	powerType	MAN Diesel
+MS Moby Prince  1	powerType	MAN Diesel
+GER Class D27	powerType	Steam locomotive
+GER Class R24	powerType	Steam locomotive
+M&GN Class C	powerType	Steam locomotive
+SuperStar Aquarius  1	powerType	MAN SE
+Viking ADCC  1	powerType	Wärtsilä
+Swiftsure class battleship (1903)	powerType	Horsepower#Indicated horsepower
+AES Railcar	powerType	Railway electrification system
+MS Birger Jarl  1	powerType	Steam engine
+MS Birger Jarl  2	powerType	MAN SE
+Hansa class ferry	powerType	Diesel engine
+Hansa class ferry	powerType	Watt
+NOAAS Thomas Jefferson (S 222)  1	powerType	Horsepower#Brake horsepower
+NOAAS Mount Mitchell (S 222)  1	powerType	Horsepower#Shaft horsepower
+RV Laurence M. Gould  1	powerType	Diesel engine
+AIDAblu  1	powerType	Diesel-electric#Ships
+AIDAblu  1	powerType	Watt#Kilowatt
+Victorian Railways L class (electric)	powerType	Electricity
+SS Independence  1	powerType	Bethlehem Steel
+USNS Tippecanoe (T-AO-199)    1	powerType	Horsepower
+SS John Oxley  1	powerType	Horsepower#Indicated horsepower
+MF Tycho Brahe  1	powerType	Wärtsilä
+MF Tycho Brahe  1	powerType	Wärtsilä
+USS Biscayne (AVP-11)  1	powerType	Horsepower
+VR Class Dr16	powerType	Diesel-electric transmission
+HSC Condor 10  1	powerType	Ruston (engine builder)
+MV Westpac Express (HSV-4676)  1	powerType	Caterpillar Inc.
+MS European Endeavour  1	powerType	Wärtsilä
+SS Pfalz  1	powerType	Horsepower#Nominal horsepower
+USS Terrebonne Parish (LST-1156)  1	powerType	Horsepower#Shaft horsepower
+SS Suevic  1	powerType	Steam engine
+USS Terrell County (LST-1157)    1	powerType	Horsepower#Shaft horsepower
+USNS Joshua Humphreys (T-AO-188)  1	powerType	Horsepower
+MS Island Escape  1	powerType	B&W
+HMS Russell (1901)  1	powerType	Horsepower#Indicated horsepower
+HMS Pearl (1855)  1	powerType	Horsepower#Nominal horsepower
+MS Bleu de France  1	powerType	MAN SE
+Katanpää class mine countermeasure vessel	powerType	MTU Friedrichshafen
+SNCF Class Y 8400	powerType	Diesel fuel
+Deepwater Horizon  ABS +A1 DPS-3 Column Stabilized MODU   1	powerType	Wärtsilä
+Deepwater Horizon  ABS +A1 DPS-3 Column Stabilized MODU   1	powerType	ABB Group
+China Railways HXN3	powerType	Diesel-electric transmission
+USS Onslow (AVP-48)  1	powerType	Horsepower
+SNCB Class 62	powerType	Diesel engine
+USS Casco (AVP-12)  1	powerType	Horsepower
+USCGC Casco (WAVP-370)  1	powerType	Horsepower
+USS Yakutat (AVP-32)  1	powerType	Horsepower
+USCGC Yakutat (WAVP-380)  1	powerType	Horsepower
+USS Shelikof (AVP-52)  1	powerType	Horsepower
+USCGC Bering Strait (WAVP-382)  1	powerType	Horsepower
+USS Bering Strait (AVP-34)  1	powerType	Horsepower
+USS Coos Bay (AVP-25)  1	powerType	Horsepower
+USCGC Coos Bay (WAVP-376)  1	powerType	Horsepower
+USS Floyds Bay (AVP-40)  1	powerType	Horsepower
+USS Cook Inlet (AVP-36)  1	powerType	Horsepower
+USCGC Cook Inlet (WAVP-384)  1	powerType	Horsepower
+USS Unimak (AVP-31)  1	powerType	Horsepower
+USS Corson (AVP-37)  1	powerType	Horsepower
+SNCB Class 50	powerType	Diesel engine
+SNCB Class 51	powerType	Diesel engine
+SNCB Class 19	powerType	Electric locomotive
+SNCB Class 21	powerType	Electricity
+VR Class Dv12	powerType	Diesel fuel
+Lima LRS-1200	powerType	Diesel-electric transmission
+Lima LT-2500	powerType	Diesel-electric transmission
+Ruby Princess  1	powerType	Gas turbine
+Ruby Princess  1	powerType	Watt#Kilowatt
+Mira (AK-84)  1	powerType	Horsepower#Shaft horsepower
+MS Mersey Seaways  1	powerType	MAN Diesel
+SNCB Class 55	powerType	Diesel engine
+Deepwater Millennium  American Bureau of Shipping   1	powerType	Wärtsilä
+Deepwater Millennium  American Bureau of Shipping   1	powerType	Engine-generator
+Deepwater Millennium  American Bureau of Shipping   1	powerType	Wärtsilä
+Deepwater Millennium  American Bureau of Shipping   1	powerType	Engine-generator
+Voiture État	powerType	Passenger car (rail)
+MS Stena Saga  1	powerType	Wärtsilä
+PKP class SM01	powerType	Diesel locomotive
+PKP class SM02	powerType	Diesel locomotive
+PKP class SM25	powerType	Diesel locomotive
+RMS Sylvania  1	powerType	Steam turbine
+MV Ocean Life  1	powerType	Sulzer (manufacturer)
+Santa Fe 2913	powerType	Steam locomotive
+Nusret (ship)  1	powerType	Horsepower#Indicated horsepower
+SNCB Class 73	powerType	Diesel engine
+MS Superstar  1	powerType	Wärtsilä
+HMCyS Vijaya  1	powerType	Horsepower
+MS Queen Elizabeth  1	powerType	Maschinenbau Kiel
+Nereus (underwater vehicle)  1	powerType	Lithium-ion battery
+USS Magnolia (1854)  1	powerType	Marine steam engine
+MS Normandy  1	powerType	NOHAB
+MS Normandy  1	powerType	Watt
+Balmoral (cruise ship)  1	powerType	Maschinenbau Kiel
+MS Shota Rustaveli  1	powerType	Sulzer (manufacturer)
+MS Taras Shevchenko (1967)  1	powerType	Sulzer (manufacturer)
+MS Taras Shevchenko (1967)  1	powerType	Watt
+EMD SD89MAC	powerType	Diesel-electric transmission
+Lima LS-1000	powerType	Diesel locomotive#Diesel-electric
+HMS Exmouth (1901)  1	powerType	Horsepower#Indicated horsepower
+HMS Duncan (1901)  1	powerType	Horsepower#Indicated horsepower
+HMS Dominion (1903)  1	powerType	Horsepower#Indicated horsepower
+HMS New Zealand (1904)  1	powerType	Horsepower#Indicated horsepower
+HMS Iris (1877)  1	powerType	Horsepower#Indicated horsepower
+HMS Zephyr (1895)  1	powerType	Horsepower#Indicated horsepower
+DSB Class MX	powerType	Diesel-electric transmission
+DSB Class EA	powerType	Electricity
+USS Glaucus (1863)  1	powerType	Marine steam engine
+Sumter & Choctaw 102	powerType	Steam locomotive
+Baldwin RS-12	powerType	Diesel-electric transmission
+USCGC Winnebago (WHEC-40)  1	powerType	Horsepower#Shaft horsepower
+HSC Express  1	powerType	Caterpillar Inc.
+USS Idaho (1864)  1	powerType	Morgan Iron Works
+HSC Snaefell  1	powerType	Ruston (engine builder)
+MSC Poesia  1	powerType	Wärtsilä
+MSC Poesia  1	powerType	Watt#Kilowatt
+MSC Splendida  1	powerType	Diesel engine
+MSC Splendida  1	powerType	Watt#Kilowatt
+Downer EDI Rail GT46C	powerType	Diesel-electric transmission
+SS California (1907)  1	powerType	Horsepower
+HSC Hellenic Wind  MDV1200 class fast ferry   1	powerType	Alstom
+MSC Sinfonia  1	powerType	Wärtsilä
+MSC Melody  1	powerType	Fiat
+No. 1 (yacht)  1	powerType	Kilogram
+No. 1 (yacht)  1	powerType	Hydrogen tank
+HMS Cruizer (1852)  1	powerType	Horsepower#Nominal horsepower
+Costa Pacifica  1	powerType	Diesel-electric transmission
+Costa Pacifica  1	powerType	Watt#Kilowatt
+Potosi (ship)  1	powerType	Steam engine
+V/Line G class	powerType	Diesel locomotive#Diesel-electric
+USS Vernon County (LST-1161)  1	powerType	Horsepower#Shaft horsepower
+Palm Beach Princess  1	powerType	Wärtsilä
+Palm Beach Princess  2	powerType	Wärtsilä
+Palm Beach Princess  2	powerType	NOHAB
+SS Maxim Gorkiy  1	powerType	AEG
+Fortuna (steamboat)  1	powerType	Steam engine
+Canadian Pacific 2816	powerType	Steam locomotive
+MS Athena  1	powerType	Götaverken
+MS Athena  2	powerType	Wärtsilä
+Kwa-di Tabil	powerType	Diesel engine
+144 Auto Ferry	powerType	Diesel engine
+SS Shalom  1	powerType	Parsons Marine Steam Turbine Company
+Cromer Lifeboat H F Bailey III ON 777  1	powerType	Diesel engine
+Cromer Lifeboat H F Bailey III ON 777  1	powerType	Horsepower#Brake horsepower
+Islander (steamboat)  1	powerType	Steam engine
+Islander (steamboat)  1	powerType	Horsepower
+HMS Sparrow (1889)  1	powerType	Horsepower#Indicated horsepower
+MS Stockholm (1941)  1	powerType	Sulzer (manufacturer)
+MS Stockholm (1941)  2	powerType	Sulzer (manufacturer)
+MS Baltic Princess  1	powerType	Wärtsilä
+SS Donau  1	powerType	Horsepower#Nominal horsepower
+MS Superspeed 1  1	powerType	Wärtsilä
+Belorussiya class	powerType	Wärtsilä
+Brookville BL20GH	powerType	Diesel locomotive#Diesel-electric
+MV Transpacific (T-1)  1	powerType	Yanmar
+Rosalie (steamship)  1	powerType	Steam engine
+SJ T44	powerType	Diesel-electric transmission
+Greyhound (sternwheeler 1890)  1	powerType	Iowa Iron Works
+Greyhound (sternwheeler 1890)  1	powerType	Dubuque, Iowa
+Lurline (sternwheeler 1878)  1	powerType	Newburgh (city), New York
+TCDD DH4100	powerType	Diesel locomotive#Diesel-hydraulic
+TCDD DH6000	powerType	Diesel locomotive#Diesel-hydraulic
+TCDD DH6500	powerType	Diesel locomotive#Diesel-hydraulic
+TCDD DH11500	powerType	Diesel locomotive#Diesel-hydraulic
+TCDD DH27000	powerType	Diesel locomotive#Diesel-hydraulic
+TCDD DH44100	powerType	Diesel locomotive#Diesel-hydraulic
+MS Kungsholm (1953)  1	powerType	Burmeister & Wain
+MV TransAtlantic  1	powerType	Wärtsilä
+MS Regatta  1	powerType	Wärtsilä
+SS Irish Oak (1919)  1	powerType	Steam engine#Multiple expansion engines
+SJ U	powerType	Electric locomotive
+Wilson G. Hunt (sidewheeler)  1	powerType	Steam engine
+SJ Tp	powerType	Diesel locomotive#Diesel-hydraulic
+Flyer (steamboat)  1	powerType	Steam engine
+Nez Perce Chief (sternwheeler)  1	powerType	Horsepower
+MS Stena Scandinavica (1973)  1	powerType	SEMT Pielstick
+Annie Faxon (sternwheeler)  1	powerType	Horsepower
+Railpower RP20CD	powerType	Diesel locomotive#Diesel-electric
+MS SNAV Sardegna  1	powerType	Zgoda
+Onward (sternwheeler 1858)  1	powerType	Horsepower
+USS Oyster Bay (AGP-6)  1	powerType	Horsepower
+MS Mega Express Four  1	powerType	Wärtsilä
+Willamette Chief (sternwheeler)  yes   1	powerType	Horsepower
+MS SeaFrance Molière  1	powerType	Wärtsilä
+Rossland (sternwheeler)  1	powerType	Horsepower
+Minto (sternwheeler)  1	powerType	Bertram Engineering Company
+Minto (sternwheeler)  1	powerType	Horsepower
+Kootenai (sternwheeler)  1	powerType	Willamette Iron and Steel Works
+Kootenai (sternwheeler)  1	powerType	Horsepower
+Lytton (sternwheeler)  1	powerType	Albion Iron Works
+Columbia (Arrow Lakes sternwheeler)  1	powerType	Harlan and Hollingsworth
+Nakusp (sternwheeler)  1	powerType	Steam engine
+Nakusp (sternwheeler)  1	powerType	Horsepower
+Nakusp (sternwheeler)  1	powerType	Iowa Iron Works
+Nakusp (sternwheeler)  1	powerType	Dubuque, Iowa
+SS Asbury Park  1	powerType	Steam engine
+SS Asbury Park  1	powerType	Diesel-electric transmission
+Vista class cruise ship	powerType	Diesel-electric transmission
+MS Lady of Mann  as Lady of Mann   1	powerType	SEMT Pielstick
+GER Class 527	powerType	Steam locomotive
+MS European Mariner  1	powerType	Krupp
+MS Merchant Brilliant  1	powerType	Krupp
+MS Phocine  1	powerType	Krupp
+Hannover Bridge  1	powerType	Diesel engine
+SS Patroclus (1923)  1	powerType	Steam turbine
+MV Lady Rose  1	powerType	Diesel engine
+HMS Dryad (1866)  Screw Sloop   1	powerType	Horsepower
+Amazon class sloop	powerType	Horsepower
+SS Sarpedon (1923)  1	powerType	Steam turbine
+RSS Stalwart (72)  1	powerType	Isotta-Fraschini
+USNS Henry Eckford (T-AO-192)  1	powerType	Horsepower
+MS Spirit of Tasmania I  1	powerType	Wärtsilä
+MS Spirit of Tasmania II  1	powerType	Wärtsilä
+Downer EDI Rail GT46C ACe	powerType	Diesel-electric transmission
+MS Oasis of the Seas  1	powerType	Wärtsilä
+MS Oasis of the Seas  1	powerType	Wärtsilä
+LB&SCR I2 class	powerType	Steam locomotive
+Baldwin DS-4-4-1000	powerType	Diesel-electric transmission
+Baldwin DS-4-4-1000  Balwin DS-4-4-1000 606SC   1	powerType	Diesel-electric transmission
+LB&SCR I1 class	powerType	Steam locomotive
+SECR L class	powerType	Steam locomotive
+SECR B1 class	powerType	Steam locomotive
+SS Canadiana  1	powerType	Steam Engine#Multiple expansion engines
+MS Stena Europe  1	powerType	Wärtsilä
+MSC Fantasia  1	powerType	Diesel-electric#Ships
+MF Storegut  1	powerType	MWM International Motores
+RjB 20–22	powerType	Diesel locomotive#Diesel-hydraulic
+MV Governor  1	powerType	Diesel-electric transmission
+SS Transylvania (1914)  1	powerType	Scotch boiler#Scotch marine boiler
+SS Transylvania (1914)  1	powerType	Steam turbine
+MS Enchanted Capri  1	powerType	SEMT Pielstick
+BRP Andres Bonifacio (PF-7)  1	powerType	Horsepower#Brake horsepower
+USS Chincoteague (AVP-24)  1	powerType	Horsepower
+BRP Diego Silang (PF-9)  1	powerType	Horsepower
+BRP Francisco Dagohoy (PF-10)  1	powerType	Horsepower#Brake horsepower
+BRP Gregorio del Pilar (PF-8)  1	powerType	Horsepower#Brake horsepower
+USS Castle Rock (AVP-35)  1	powerType	Horsepower
+FS Class D341	powerType	Diesel fuel
+FS Class D443	powerType	Diesel fuel
+USS Cacique (ID-2213)  1	powerType	Marine steam engine#Triple or multiple expansion
+FS Class D345	powerType	Diesel engine
+FS Class E550	powerType	Electricity
+AIDAbella  1	powerType	Diesel-electric transmission#Ships
+AIDAbella  1	powerType	Watt#Kilowatt
+Spanish sloop Jorge Juan	powerType	Horsepower#Indicated horsepower
+MS Baltic Queen  1	powerType	Wärtsilä
+Freedom class littoral combat ship	powerType	Isotta-Fraschini
+USS Humboldt (AVP-21)  1	powerType	Horsepower
+USCGC Humboldt (WAVP-372)  1	powerType	Horsepower
+USS Matagorda (AVP-22)  1	powerType	Horsepower
+USS Rockaway (AVP-29)  1	powerType	Horsepower
+RMS Moldavia  1	powerType	Steam engine#Multiple expansion engines
+HSC Jaume II  1	powerType	Ruston (engine builder)
+MS Pride of Bruges  1	powerType	Wärtsilä
+SNCF Class BB 69400	powerType	Diesel fuel
+HMS Cormorant (1877)  1	powerType	Horsepower#Indicated horsepower
+USS Pawcatuck (AO-108)  1	powerType	Horsepower
+Fantome class sloop	powerType	Horsepower#Nominal horsepower
+Algerine class gunboat	powerType	Horsepower#Nominal horsepower
+Krauss-Maffei ML 4000 C'C'	powerType	Diesel locomotive#Diesel-hydraulic
+Victorian Railways E class (electric)	powerType	Electricity
+RMS Titanic  1	powerType	Scotch marine boiler
+RMS Titanic  1	powerType	Steam engine#Multiple expansion engines
+RMS Titanic  1	powerType	Horsepower
+SS Komagata Maru  1	powerType	Steam engine#Multiple expansion engines
+SS Komagata Maru  1	powerType	Propeller#Marine
+HHS Glasgow  1	powerType	Horsepower#Nominal horsepower
+PS Duchess of Montrose  2	powerType	Horsepower#Nominal horsepower
+HMS Thrush (1889)  1	powerType	Horsepower#Indicated horsepower
+Eclipse class sloop	powerType	Horsepower#Nominal horsepower
+Redbreast class gunboat	powerType	Horsepower#Indicated horsepower
+USNS Kanawha (T-AO-196)  1	powerType	Horsepower
+MS Asuka II  1	powerType	Man (disambiguation)
+USS Barnegat (AVP-10)  1	powerType	Horsepower
+New South Wales 70 class locomotive	powerType	Diesel locomotive#Diesel-hydraulic
+USNS Benjamin Isherwood (T-AO-191)  1	powerType	Horsepower
+MV Carolyn Chouest  1	powerType	Caterpillar Inc.
+USNS Henry J. Kaiser (T-AO-187)  1	powerType	Horsepower
+USNS John Lenthall (T-AO-189)  1	powerType	Horsepower
+USNS Andrew J. Higgins (T-AO-190)  1	powerType	Horsepower
+USNS Walter S. Diehl (T-AO-193)  1	powerType	Horsepower
+USNS Leroy Grumman (T-AO-195)  1	powerType	Horsepower
+USNS Big Horn (T-AO-198)  1	powerType	Horsepower
+USNS Patuxent (T-AO-201)  1	powerType	Horsepower
+USNS Laramie (T-AO-203)  1	powerType	Horsepower
+USNS Potomac (T-AO-181)  1	powerType	Horsepower#Shaft horsepower
+MS Birka Paradise  1	powerType	Wärtsilä
+USS Wachapreague (AGP-8)  1	powerType	Horsepower
+USS Willoughby (AGP-9)  1	powerType	Horsepower
+USS Mobjack (AGP-7)  1	powerType	Horsepower
+USS Wahkiakum County (LST-1162)  1	powerType	Horsepower#Shaft horsepower
+USS Half Moon (AVP-26)  1	powerType	Horsepower
+Cromer Lifeboat H F Bailey ON 670  1	powerType	Diesel engine
+RMS Carinthia (1956)  1	powerType	Steam turbine
+MV Cristina A  1	powerType	Watt#Kilowatt
+MS Astor  1	powerType	Sulzer (manufacturer)
+USS Walworth County (LST-1164)  1	powerType	Horsepower#Shaft horsepower
+MS Nieuw Amsterdam  Signature class cruise ship   1	powerType	Diesel-electric transmission
+USS Waldo County (LST-1163)  1	powerType	Horsepower#Shaft horsepower
+MS Azura  1	powerType	Wärtsilä
+USS Washoe County (LST-1165)  1	powerType	Horsepower#Shaft horsepower
+USS Wexford County (LST-1168)  1	powerType	Horsepower#Shaft horsepower
+R.P. Rithet (sternwheeler)  1	powerType	San Francisco
+USS Traverse County (LST-1160)  1	powerType	Horsepower#Shaft horsepower
+USS Tioga County (LST-1158)  1	powerType	Horsepower#Shaft horsepower
+USS Whitfield County (LST-1169)    1	powerType	Horsepower#Shaft horsepower
+USS Windham County (LST-1170)  1	powerType	Horsepower#Shaft horsepower
+Klahowya (sternwheeler)  1	powerType	Horsepower
+USS Wanamassa (YTB-820)  1	powerType	Horsepower
+North Star (sternwheeler 1897)  1	powerType	Steam engine
+Gwendoline (sternwheeler)  1	powerType	Steam engine
+Gwendoline (sternwheeler)  1	powerType	Horsepower
+Gwendoline (sternwheeler)  1	powerType	Tilsonburgh, Ontario
+Selkirk (sternwheeler 1895)  1	powerType	Horsepower
+Marion (sternwheeler)  1	powerType	Horsepower
+USS Wantuck (APD-125)  1	powerType	Horsepower#Shaft horsepower
+USS Wapakoneta (YTB-766)  1	powerType	Horsepower
+Annerly (sternwheeler)  1	powerType	Steam engine
+Nowitka (sternwheeler)  1	powerType	Steam engine
+Nowitka (sternwheeler)  1	powerType	Horsepower
+Nowitka (sternwheeler)  1	powerType	Sorel-Tracy, Quebec
+Isabella McCormack (sternwheeler)  1	powerType	Steam engine
+Isabella McCormack (sternwheeler)  1	powerType	Horsepower
+USS Horace A. Bass (APD-124)  2	powerType	Horsepower#Shaft horsepower
+USS Wapato (YTB-788)  1	powerType	Horsepower
+USS Washtucna (YTB-826)  1	powerType	Horsepower
+Cruizer class sloop	powerType	Horsepower#Nominal horsepower
+Cruizer class sloop	powerType	Horsepower#Nominal horsepower
+USS Wathena (YTB-825)  1	powerType	Horsepower
+USS Barataria (AVP-33)  1	powerType	Horsepower
+USS Gardiners Bay (AVP-39)  1	powerType	Horsepower
+USS Orca (AVP-49)  1	powerType	Horsepower
+USS Rehoboth (AVP-50)  1	powerType	Horsepower
+NBR J class	powerType	Steam locomotive
+Pert (sidewheeler)  1	powerType	Bateau
+Pert (sidewheeler)  1	powerType	Steam engine
+Pert (sidewheeler)  1	powerType	Horsepower
+MS Golden Princess (2000)  1	powerType	Wärtsilä
+LB&SCR I3 class	powerType	Steam locomotive
+LB&SCR J1 class	powerType	Steam locomotive
+Ptarmigan (sternwheeler)  1	powerType	Steam engine
+Ptarmigan (sternwheeler)  1	powerType	Horsepower
+Ptarmigan (sternwheeler)  1	powerType	Sorel-Tracy, Quebec
+Hyak (sternwheeler)  1	powerType	Steam engine
+Hyak (sternwheeler)  1	powerType	Horsepower
+Hyak (sternwheeler)  1	powerType	Sherbrooke
+Barnegat class seaplane tender	powerType	Horsepower
+HMS Discovery (1874)  1	powerType	Horsepower#Indicated horsepower
+USS Timbalier (AVP-54)  1	powerType	Horsepower
+USS Valcour (AVP-55)  1	powerType	Horsepower
+USS Hatteras (AVP-42)	powerType	Horsepower
+USS Hempstead (AVP-43)	powerType	Horsepower
+USS Kamishak (AVP-44)	powerType	Horsepower
+USS Magothy (AVP-45)  1	powerType	Horsepower
+USS Matanzas (AVP-46)	powerType	Horsepower
+USS Metomkin (AVP-47)  1	powerType	Horsepower
+USS Hempstead (APA-241)	powerType	Horsepower#Shaft horsepower
+USCGC Gresham (WAVP-387)  1	powerType	Horsepower
+MS Nautica  1	powerType	Wärtsilä
+USCGC Mackinac (WAVP-371)  1	powerType	Horsepower
+USCGC Matagorda (WAVP-373)  1	powerType	Horsepower
+USCGC Chincoteague (WAVP-375)  1	powerType	Horsepower
+Cromer Lifeboat H F Bailey ON 694  1	powerType	Petrol engine
+USCGC Half Moon (WAVP-378)  1	powerType	Horsepower
+USCGC Barataria (WAVP-381)  1	powerType	Horsepower
+USCGC Rockaway (WAVP-377)  1	powerType	Horsepower
+USCGC Castle Rock (WAVP-383)  1	powerType	Horsepower
+USCGC McCulloch (WAVP-386)  1	powerType	Horsepower
+USCGC Dexter (WAVP-385)  2	powerType	Horsepower
+USCGC Dexter (1925)  1	powerType	Horsepower#Brake horsepower
+USRC Dallas (1874)  1	powerType	Horsepower#Indicated horsepower
+USC&GS Pioneer (OSS 31)  1	powerType	Horsepower
+USC&GS Pioneer (1918)  1	powerType	Horsepower#Shaft horsepower
+USC&GS Pioneer (1929)  1	powerType	Horsepower
+USC&GS Pioneer (1929)  1	powerType	Watt#Megawatt
+MS Amadea  1	powerType	Man (disambiguation)
+UGL Rail C44aci	powerType	Diesel-electric transmission
+Cromer Lifeboat Henry Blogg ON 840  1	powerType	Diesel engine
+Italian aircraft carrier Sparviero  1	powerType	Horsepower
+SS Chesapeake (AOT-5084)  1	powerType	Horsepower
+RVNS Tran Quang Khai (HQ-02)  1	powerType	Horsepower
+RVNS Tran Nhat Duat (HQ-03)  1	powerType	Horsepower
+RVNS Tran Quoc Toan (HQ-06)  1	powerType	Horsepower
+RVNS Tran Binh Trong (HQ-05)  1	powerType	Horsepower
+RVNS Ly Thuong Kiet (HQ-16)  1	powerType	Horsepower
+RVNS Ngo Quyen (HQ-17)  1	powerType	Horsepower
+RVNS Pham Ngu Lao (HQ-15)  1	powerType	Horsepower
+PRVSN Pham Ngu Lao (HQ-01)  1	powerType	Horsepower
+Bristol (1866)  1	powerType	Steam engine
+Bristol (1866)  1	powerType	Horsepower#Indicated horsepower
+Providence (1866)  1	powerType	Steam engine
+Providence (1866)  1	powerType	Horsepower#Indicated horsepower
+Cromer Lifeboat Harriot Dixon ON 770  1	powerType	Diesel engine
+HNoMS Haakon VII (A537)  1	powerType	Horsepower#Brake horsepower
+MS Thomson Spirit  1	powerType	Diesel engine
+Cromer Lifeboat Lester ON 1287  1	powerType	Diesel engine
+USS Patrol No. 10 (SP-85)  1	powerType	Horsepower
+Cromer Lifeboat Ruby and Arthur Reed II ON 1097  1	powerType	Diesel engine
+Tashmoo (sidewheeler)  1	powerType	Horsepower#Indicated horsepower
+SS City of Erie  1	powerType	Horsepower#Indicated horsepower
+NOAAS Surveyor (S 132)  1	powerType	Horsepower#Shaft horsepower
+USS Mystery (SP-428)  1	powerType	Horsepower
+MV Larkspur  1	powerType	Wärtsilä
+USCGC Active (WPC-125)  2	powerType	Horsepower#Brake horsepower
+USS Dawn (SP-26)  1	powerType	Horsepower
+USS Dawn (SP-26)  1	powerType	Electric motor
+MV Black Prince (1966)  1	powerType	Crossley
+SS Mopang	powerType	Steam engine
+SS Mopang	powerType	Horsepower
+MV Boudicca  1	powerType	Wärtsilä
+MV Boudicca  2	powerType	Man (disambiguation)
+Baldwin RS-4-TC	powerType	Diesel-electric transmission
+USS Brilliant (ID-1329)  1	powerType	Horsepower#Indicated horsepower
+Baldwin DRS-6-4-1000	powerType	Diesel-electric transmission
+Baldwin DRS-6-4-750	powerType	Diesel-electric transmission
+Baldwin DRS-6-4-660NA	powerType	Diesel-electric transmission
+Baldwin 0-6-6-0 1000	powerType	Diesel-electric transmission
+MV Ancona  1	powerType	SEMT Pielstick
+Viola (trawler)  1	powerType	Steamboat
+USS Charlton Hall (ID-1359)  1	powerType	Horsepower#Indicated horsepower
+USS Caspian (ID-1380)  1	powerType	Horsepower#Indicated horsepower
+USS Carrillo (ID-1406)  1	powerType	Horsepower#Indicated horsepower
+USS Alameda (ID-1432)  1	powerType	Horsepower#Indicated horsepower
+SAL 2027	powerType	Diesel-electric transmission
+USS Carolinian (ID-1445)  1	powerType	Horsepower#Indicated horsepower
+USS Craster Hall (ID-1486)  1	powerType	Horsepower#Indicated horsepower
+USS Cape May (ID-3520)  1	powerType	Horsepower#Indicated horsepower
+USS Alaskan (ID-4542)  1	powerType	Horsepower#Indicated horsepower
+USS Arizonan (ID-4542A)  1	powerType	Horsepower#Indicated horsepower
+FS Class E380	powerType	Electric locomotive
+SS Chusan  1	powerType	Horsepower
+Rebel (train)	powerType	Diesel-electric transmission
+USS Aniwa (ID-3146)  1	powerType	Horsepower#Indicated horsepower
+MV Pentalina-B  1	powerType	Paxman (engines)
+USS Kangaroo (SP-1284)  1	powerType	Horsepower#Brake horsepower
+USCGC Kangaroo (1917)  1	powerType	Horsepower#Brake horsepower
+MS Skania  1	powerType	Wärtsilä
+Euphrates class troopship	powerType	Horsepower#Nominal horsepower
+Euphrates class troopship	powerType	Horsepower#Indicated horsepower
+Princess Selandia  1	powerType	Horsepower#Metric horsepower
+FV Time Bandit  1	powerType	Cummins
+HSC Benchijigua Express  8,973 tonnes   1	powerType	MTU
+Paddle steamer Stadt Zürich  1	powerType	Horsepower
+Paddle steamer Stadt Rapperswil  1	powerType	Horsepower
+HSC Stena Lynx III  1	powerType	Ruston (engine builder)
+AIDAluna  1	powerType	Caterpillar Inc.
+AIDAluna  1	powerType	Watt#Kilowatt
+AIDAluna  1	powerType	Horsepower
+Robert Dollar Co. No. 3	powerType	Steam locomotive
+MV Malibu Papoose  1	powerType	Volvo
+USS Cauto (ID-1538)  1	powerType	Horsepower#Indicated horsepower
+HSC Jonathan Swift  1	powerType	Caterpillar Inc.#Engines
+Tractor Tug William M	powerType	Horsepower#Shaft horsepower
+USS LST-547  1	powerType	Horsepower
+USS LST-548  1	powerType	Horsepower
+USS LST-549  1	powerType	Horsepower
+USS LST-550  1	powerType	Horsepower
+USS LST-552  1	powerType	Horsepower
+USS LST-553  1	powerType	Horsepower
+USS LST-554  1	powerType	Horsepower
+USS LST-555  1	powerType	Horsepower
+USS LST-556  1	powerType	Horsepower
+USS LST-557  1	powerType	Horsepower
+MÁV Class V43	powerType	Electric locomotive
+USS LST-559  1	powerType	Horsepower
+USS LST-560  1	powerType	Horsepower
+USS LST-562  1	powerType	Horsepower
+USS LST-564  1	powerType	Horsepower
+USS Comber (SP-344)  1	powerType	Horsepower#Indicated horsepower
+USS LST-565  1	powerType	Horsepower
+USS LST-567  1	powerType	Horsepower
+USS LST-568  1	powerType	Horsepower
+HMS Surprise (1856)  1	powerType	Horsepower#Nominal horsepower
+MV Kulshan  1	powerType	Diesel-electric transmission
+Vigilant class gunvessel	powerType	Horsepower#Nominal horsepower
+Hikitia  1	powerType	Scotch marine boiler
+MV Horizon-1	powerType	Watt#Kilowatt
+SS Archimedes  1	powerType	Horsepower
+SS Archimedes  1	powerType	Revolutions per minute
+MS Stena Nautica  1	powerType	Burmeister & Wain
+MS Stena Nautica  1	powerType	Watt#Kilowatt
+MS Stena Vision  1	powerType	Sulzer (manufacturer)
+MS Stena Spirit  1	powerType	Sulzer (manufacturer)
+MS Stena Adventurer (2003)  1	powerType	MAN Diesel
+MS Stena Nordica (2004)  1	powerType	Wärtsilä
+MS Stena Nordica (2004)  1	powerType	Wärtsilä
+MS Stena Caledonia  1	powerType	SEMT Pielstick
+MS Stena Caledonia  2	powerType	SEMT Pielstick
+MS Stena Danica  1	powerType	Sulzer (manufacturer)
+EMD GP22ECO	powerType	Diesel-electric transmission
+EMD SD22ECO	powerType	Diesel-electric transmission
+Tacoma (steamship)  1	powerType	Steam engine
+MV Mill Bay  2	powerType	L. Gardner and Sons
+HMS Pyramus (1897)  1	powerType	Horsepower#Indicated horsepower
+USS Rogers Blood (APD-115)  1	powerType	Horsepower#Shaft horsepower
+USS William M. Wood (DE-287)  1	powerType	Horsepower#Shaft horsepower
+USS William R. Rush (DE-288)  1	powerType	Horsepower#Shaft horsepower
+USS Williams (DE-290)  1	powerType	Horsepower#Shaft horsepower
+USS Vogelgesang (DE-284)  1	powerType	Horsepower#Shaft horsepower
+USS Weeks (DE-285)  1	powerType	Horsepower#Shaft horsepower
+USS Sutton (DE-286)  1	powerType	Horsepower#Shaft horsepower
+EMD G22CU	powerType	Diesel-electric transmission
+USS John P. Gray (APD-74)  1	powerType	Horsepower#Shaft horsepower
+USS Bassett (APD-73)  1	powerType	Horsepower#Shaft horsepower
+USS Jack C. Robinson (APD-72)  1	powerType	Horsepower#Shaft horsepower
+USS Odum (APD-71)  1	powerType	Horsepower#Shaft horsepower
+MLW RS-18	powerType	Diesel-electric transmission
+USS Pavlic (APD-70)  1	powerType	Horsepower#Shaft horsepower
+USS Yokes (APD-69)  1	powerType	Horsepower#Shaft horsepower
+USS Emerald (SP-177)  1	powerType	Horsepower#Indicated horsepower
+USS Helori (SP-181)  1	powerType	Horsepower
+MV Loch Bhrusda  1	powerType	Cummins
+RMS Scotia  1	powerType	Horsepower
+USS Hiawatha (ID-2892)  1	powerType	Horsepower#Indicated horsepower
+SS West Elcajon  1	powerType	Steam turbine
+SS West Hosokie  1	powerType	Steam turbine
+SS West Gotomska  1	powerType	Steam turbine
+SS Edenton  1	powerType	Horsepower#Indicated horsepower
+SS West Loquassuck  1	powerType	Steam turbine
+SS West Cressey  1	powerType	Marine steam engine
+SS West Mahomet  1	powerType	Steam turbine
+USS West Elcasco (ID-3661)  1	powerType	Steam turbine
+SS West Eldara  1	powerType	Steam turbine
+USS West Haven (ID-2159)  1	powerType	IHP
+USS Western Front (ID-1787)  1	powerType	Steam turbine
+USS West Hobomac (ID-3335)  1	powerType	Steam turbine
+SS West Humhaw  1	powerType	Steam turbine
+SS West Lashaway  1	powerType	Steam turbine
+SS West Maximus  1	powerType	Steam turbine
+HMS Rapid (1860)  1	powerType	Horsepower#Indicated horsepower
+HMS Rosario (1860)  1	powerType	Horsepower#Indicated horsepower
+Design 1013 ship	powerType	Steam turbine
+Design 1013 ship	powerType	Marine steam engine
+EMD SD32ECO	powerType	Diesel-electric transmission
+Lindus (1881)  1	powerType	Compound engine
+MV Loch Ranza  1	powerType	Volvo Penta
+USS Fulton (SP-247)  1	powerType	Horsepower#Indicated horsepower
+MS Clipper Pennant  1	powerType	Wärtsilä
+RMS Persia  1	powerType	Cylinder (engine)
+RMS Persia  1	powerType	Stroke (engine)
+USS Tillamook (AT-16)  1	powerType	Horsepower#Shaft horsepower
+USS Tillamook (ATA-192)  1	powerType	Horsepower#Shaft horsepower
+USC&GS Discoverer (1918)  1	powerType	Horsepower#Shaft horsepower
+NOAAS Heck (S 591)  1	powerType	Horsepower#Shaft horsepower
+USAT McClellan  1	powerType	Horsepower
+Echo (sternwheeler 1865)  1	powerType	Horsepower
+USC&GS Guide (1918)  1	powerType	Horsepower#Shaft horsepower
+USC&GS Guide (1929)  1	powerType	Horsepower#Shaft horsepower
+NOAAS McArthur (S 330)  1	powerType	Horsepower
+TS Leda  1	powerType	Horsepower#Shaft horsepower
+NOAAS Davidson (S 331)  1	powerType	Horsepower
+Tenino (sternwheeler)  1	powerType	Horsepower
+Beaver (sternwheeler 1873)  yes   1	powerType	Horsepower
+Canemah (sidewheeler)  1	powerType	Horsepower
+Carrie Ladd (sternwheeler)  1	powerType	Horsepower
+Carrie Ladd (sternwheeler)  1	powerType	Wilmington, Delaware
+SR L1 class	powerType	Steam locomotive
+Multnomah (sidewheeler 1851)  1	powerType	Horsepower
+Spanish seaplane carrier Dédalo  1	powerType	Horsepower#Shaft horsepower
+NOAAS McArthur II (R 330)  1	powerType	Horsepower
+NOAAS Hi'ialakai (R 334)  1	powerType	Horsepower
+MV McArthur  1	powerType	Horsepower
+Shoalwater (sidewheeler 1852)  yes   1	powerType	Horsepower
+Washington (steamboat 1851)  1	powerType	Steam engine
+ORP Poznań  1	powerType	H. Cegielski – Poznań
+Progress Rail PR30C	powerType	Diesel-electric transmission
+Altoona Works BP4	powerType	Electric locomotive#Battery locomotive
+Railpower RP20BD	powerType	Diesel locomotive#Diesel-electric
+Railpower RP14BD	powerType	Diesel locomotive#Diesel-electric
+USNS Navajo (T-ATF-169)  1	powerType	Watt#Megawatt
+USNS Navajo (T-ATF-169)  1	powerType	Horsepower
+USNS Powhatan (T-ATF-166)  1	powerType	Watt#Megawatt
+USNS Powhatan (T-ATF-166)  1	powerType	Horsepower
+USNS Sioux (T-ATF-171)  1	powerType	Watt#Megawatt
+USNS Sioux (T-ATF-171)  1	powerType	Horsepower
+Rival (sternwheeler)  yes   1	powerType	Horsepower
+Governor Grover (sternwheeler)  yes   1	powerType	Horsepower
+MS Georges Philippar  1	powerType	Diesel engine
+USS Mikawe (SP-309)  1	powerType	Horsepower
+USC&GS Mikawe  1	powerType	Horsepower
+USS Aloha (SP-317)  1	powerType	Horsepower#Indicated horsepower
+Casco class cutter	powerType	Horsepower
+Rosario class sloop	powerType	Horsepower#Indicated horsepower
+USS Skenandoa (YTB-835)  1	powerType	Horsepower
+MV Danny F II  1	powerType	Sulzer (manufacturer)
+MV Loch Striven  1	powerType	Volvo Penta
+MV Loch Linnhe  1	powerType	Volvo Penta
+MV Loch Riddon  1	powerType	Volvo Penta
+MV Isle of Cumbrae  1	powerType	Gardner Engines Ltd
+MV Isle of Cumbrae  1	powerType	Manchester
+Utopia (cruise ship)  1	powerType	Wärtsilä
+MS Masarrah  1	powerType	Wärtsilä
+Rhaetian Railway Ge 3/3	powerType	Electric locomotive
+MS Stena Seafarer  1	powerType	Deutz AG
+MS Stena Pioneer  1	powerType	Deutz AG
+Abby Sunderland  2	powerType	Yanmar
+MT Indiga  1	powerType	Wärtsilä
+MT Indiga  1	powerType	Wärtsilä
+MT Varzuga  1	powerType	Wärtsilä
+MT Varzuga  1	powerType	Wärtsilä
+Engin de débarquement amphibie rapide  1	powerType	MTU Friedrichshafen
+SS Ellengowan  1	powerType	Marine steam engine#Direct acting
+Prairial (supertanker)  1	powerType	Watt#Kilowatt
+Prairial (supertanker)  1	powerType	Horsepower
+Pierre Guillaumat (supertanker)  1	powerType	Watt#Kilowatt
+Pierre Guillaumat (supertanker)  1	powerType	Horsepower
+Príncipe de Asturias (ocean liner)  1	powerType	Steam engine#Multiple expansion engines
+SS Empire Cabot  1	powerType	Steam engine#Multiple expansion engines
+SS Empire Caicos  1	powerType	Steam engine#Multiple expansion engines
+SS Stettin (1923)  1	powerType	Steam engine#Multiple expansion engines
+SS Ingénieur Général Haarbleicher  1	powerType	Steam engine#Multiple expansion engines
+SS Ceuta (1929)  1	powerType	Compound engine
+SS Empire Cameron  1	powerType	Steam engine#Multiple expansion engines
+SS Yelkenci  1	powerType	Steam engine#Multiple expansion engines
+SS Empire Candida  1	powerType	Steam engine#Multiple expansion engines
+SS Holmbury (1943)  1	powerType	Steam engine#Multiple expansion engines
+SS Empire Capulet  1	powerType	Steam engine#Multiple expansion engines
+SS Ragnhild (1941)  1	powerType	Steam engine#Multiple expansion engines
+SS Empire Caribou  1	powerType	Steam engine#Multiple expansion engines
+SS Empire Carpenter  1	powerType	Steam engine#Multiple expansion engines
+SS Claus Rickmers  1	powerType	Steam engine#Multiple expansion engines
+SS Clan Mackenzie (1942)  1	powerType	Steam engine#Multiple expansion engines
+HMS Sparrowhawk (1856)  1	powerType	Horsepower#Nominal horsepower
+Cromer Lifeboat Ruby and Arthur Reed ON 990  1	powerType	Diesel engine
+SS Avondale Park  1	powerType	Steam engine#Multiple expansion engines
+HMS Niger (1846)  1	powerType	Horsepower#Indicated horsepower
+SS Letchworth (1942)  1	powerType	Steam engine#Multiple expansion engines
+HMS Prince (1854)  1	powerType	Horsepower#Nominal horsepower
+HMS Fawn (1856)  1	powerType	Horsepower#Nominal horsepower
+HMS Harrier (1854)  1	powerType	Horsepower#Nominal horsepower
+SS Empire Celt  1	powerType	Steam engine#Multiple expansion engines
+Sheringham Lifeboat The Manchester Unity of Oddfellows ON 960  1	powerType	Diesel engine
+Sheringham Lifeboat The Manchester Unity of Oddfellows ON 960  1	powerType	Diesel engine
+SS Empire Celtic  1	powerType	Steam engine#Multiple expansion engines
+Sheringham Lifeboat Lloyds II ON 986  1	powerType	Diesel engine
+SS Belgian Captain  1	powerType	Steam engine#Multiple expansion engines
+SS Empire Chamois  1	powerType	Steam engine#Multiple expansion engines
+SS Empire Chaucer  1	powerType	Steam engine#Multiple expansion engines
+MS Ostend Spirit  1	powerType	Sulzer (manufacturer)
+SS Cap Tafelneh  1	powerType	Steam engine#Multiple expansion engines
+Fantasia class cruise ship	powerType	Diesel-electric transmission
+SS Dumbo  1	powerType	Steam engine#Multiple expansion engines
+HMS Eclipse (1860)  1	powerType	Horsepower#Nominal horsepower
+SS Messina  1	powerType	Compound engine
+SS Saltfleet  1	powerType	Steam engine#Multiple expansion engines
+SS Polar Chief  1	powerType	Steam engine#Multiple expansion engines
+MS Marina  1	powerType	Diesel-electric transmission
+SS Inkosi (1937)  1	powerType	Steam engine#Multiple expansion engines
+SS Wahehe (1922)  1	powerType	Steam engine#Multiple expansion engines
+MV Shen Neng 1  1	powerType	Sulzer (manufacturer)
+SS Queenworth  1	powerType	Steam engine#Multiple expansion engines
+HMS Falcon (1854)  1	powerType	Horsepower#Nominal horsepower
+HMS Druid (1869)  1	powerType	Horsepower#Nominal horsepower
+SS Clan Matheson (1919)  1	powerType	Steam engine#Multiple expansion engines
+MV Finlaggan  ro-ro vehicle and passenger ferry   1	powerType	Wärtsilä
+SS Empire Clarion  1	powerType	Steam engine#Multiple expansion engines
+SS Belgian Crew  1	powerType	Steam engine#Multiple expansion engines
+SS Empire Clive  1	powerType	Steam engine#Multiple expansion engines
+MÁV Class V63	powerType	Electric locomotive
+SS Empire Cloud  1	powerType	Steam engine#Multiple expansion engines
+SS Empire Clough  1	powerType	Steam engine#Multiple expansion engines
+SS Tuxpam  1	powerType	Steam engine#Multiple expansion engines
+SS Empire Cobbett  1	powerType	Steam engine#Multiple expansion engines
+SS Empire Coleridge  1	powerType	Steam engine#Multiple expansion engines
+Havila Neptune  1	powerType	Maschinenbau Kiel
+Havila Neptune  1	powerType	Caterpillar Inc.
+South African Class 26 4-8-4	powerType	Steam locomotive
+SS Empire Collins  1	powerType	Steam engine#Multiple expansion engines
+MS Spirit of Britain  1	powerType	MAN Diesel
+MS Spirit of France  1	powerType	MAN Diesel
+SS Katong  1	powerType	Steam engine
+SS Goodleigh  1	powerType	Steam engine#Multiple expansion engines
+SS Minna (1922)  1	powerType	Steam engine#Multiple expansion engines
+Thunder Horse PDQ  ABS: A1, column stabilized unit, floating offshore  1	powerType	Watt#Multiples
+SS Lasknes  1	powerType	Steam engine#Multiple expansion engines
+SS Corona  1	powerType	Steam engine#Multiple expansion engines
+SS Ernst Brockelmann  1	powerType	Steam engine#Multiple expansion engines
+MS Madeleine  1	powerType	Maschinenbau Kiel
+SS Klio (1924)  1	powerType	Steam engine#Multiple expansion engines
+SS Walter L M Russ  1	powerType	Steam engine#Multiple expansion engines
+SS Theresia L M Russ  1	powerType	Steam engine#Multiple expansion engines
+HMS Charybdis (1859)  1	powerType	Horsepower#Nominal horsepower
+HMS Shannon (1855)  1	powerType	Horsepower#Nominal horsepower
+SS Quersee  1	powerType	Steam engine#Multiple expansion engines
+SS Günther Russ  1	powerType	Steam engine#Multiple expansion engines
+MV Jadran  1	powerType	Caterpillar Inc.
+MV Biokovo  1	powerType	Caterpillar Inc.
+MV Sveti Krševan  1	powerType	Caterpillar Inc.
+SS I P Suhr  1	powerType	Compound engine
+SS Badenia (1912)  1	powerType	Steam engine#Multiple expansion engines
+HSC Highspeed 6  1	powerType	Ruston (engine builder)
+SS Borussia (1912)  1	powerType	Steam engine#Multiple expansion engines
+SS Elbe (1921)  1	powerType	Steam engine#Multiple expansion engines
+SS Narva  1	powerType	Compound engine
+MS SNAV Lazio  1	powerType	Zgoda
+Deepwater Nautilus  ABS +A1 Column Stabilized CDS, P, PAS   1	powerType	Wärtsilä
+Deepwater Nautilus  ABS +A1 Column Stabilized CDS, P, PAS   1	powerType	ABB Group
+SS Erna  1	powerType	Steam engine#Multiple expansion engines
+SS Nordmark  1	powerType	Steam engine#Multiple expansion engines
+SS Söderhamn  1	powerType	Steam engine#Multiple expansion engines
+SS Saar  1	powerType	Compound engine
+SS Deneb  1	powerType	Steam engine#Multiple expansion engines
+CS Sovereign  ABS Ice Class 1C 14445 kw, AMS, ACCU, DPS2   1	powerType	Wärtsilä
+SL 11  1	powerType	Maybach
+SS Orlanda  1	powerType	Steam engine#Multiple expansion engines
+SS Marie Fisser  1	powerType	Compound engine
+TE10	powerType	Diesel-electric transmission
+SS Armenian  1	powerType	Turboexpander
+SS Armenian  1	powerType	Horsepower
+SS Armenian  1	powerType	Knot
+ABISMO  1	powerType	Lithium-ion battery
+SS Edenhurst  1	powerType	Steam engine#Multiple expansion engines
+SS Charlotte Cords  1	powerType	Steam engine#Multiple expansion engines
+SS Lulworth Hill  1	powerType	Horsepower#Indicated horsepower
+SS Dover Hill  1	powerType	Horsepower#Nominal horsepower
+SS Johannes C Russ  1	powerType	Steam engine#Multiple expansion engines
+SS Brita (1908)  1	powerType	Steam engine#Multiple expansion engines
+SS Heinrich Arp  1	powerType	Steam engine#Multiple expansion engines
+ST Mies  1	powerType	Steam engine#Multiple expansion engines
+MS Sobieski  1	powerType	Greenock
+MV Amalthea  1	powerType	Bhp
+SS Justinian  1	powerType	Compound engine
+Victorian Railways M class (diesel-hydraulic)	powerType	Diesel locomotive#Diesel-hydraulic
+SS Ilse L M Russ  1	powerType	Steam engine#Multiple expansion engines
+TS Pretoria  1	powerType	Horsepower#Shaft horsepower
+SS Ljusneälf  1	powerType	Steam engine#Multiple expansion engines
+SS Gracechurch  1	powerType	Horsepower#Nominal horsepower
+SS Canadian Constructor  1	powerType	Horsepower#Nominal horsepower
+SS Empire Celia  1	powerType	Steam engine#Multiple expansion engines
+MV Lochiel (1939)  1	powerType	Paxman (engines)
+Progress Rail PR43C	powerType	Diesel-electric transmission
+SS Empire Conrad  1	powerType	Steam engine#Multiple expansion engines
+SS Runa  1	powerType	Compound engine
+SS Friedrich Bischoff  1	powerType	Compound engine
+MV Paul R. Tregurtha  1	powerType	SEMT Pielstick
+SS Ganter  1	powerType	Steam engine#Multiple expansion engines
+HMS Penguin (1876)  1	powerType	Horsepower#Indicated horsepower
+SS Gisela L M Russ  1	powerType	Steam engine#Multiple expansion engines
+Brazilian ironclad Brasil  1	powerType	Horsepower#Nominal horsepower
+SS Dimitry Laptev  1	powerType	Steam engine#Multiple expansion engines
+SS Dollart  1	powerType	Compound engine
+SS Memel  1	powerType	Steam engine#Multiple expansion engines
+Carnegie (ship)  1	powerType	Horsepower
+SS Selnes  1	powerType	Steam engine#Multiple expansion engines
+SS Pinnau  1	powerType	Steam engine#Multiple expansion engines
+SS Haga (1938)  1	powerType	Compound engine
+SS Malmö (1918)  1	powerType	Steam engine#Multiple expansion engines
+SS Barlind  1	powerType	Compound engine
+Welshpool and Llanfair Light Railway steam locomotive number 19	powerType	Steam
+SS Alk  1	powerType	Steam engine#Multiple expansion engines
+MV Karadeniz Powership Doğan Bey	powerType	Horsepower
+SS Laura (1908)  1	powerType	Steam engine#Multiple expansion engines
+HMS Phoenix (1832)  1	powerType	Horsepower#Nominal horsepower
+HMS Phoenix (1832)  2	powerType	Horsepower#Nominal horsepower
+SS Jean Marie (1922)  1	powerType	Steam engine#Multiple expansion engines
+HMS Swinger (1872)  1	powerType	Horsepower#Nominal horsepower
+SS Manganese  1	powerType	Steam engine#Multiple expansion engines
+Racer class sloop	powerType	Horsepower#Nominal horsepower
+MV Lisco Gloria  2	powerType	Wärtsilä
+Swallow class sloop	powerType	Horsepower#Nominal horsepower
+MS Insignia  1	powerType	Wärtsilä
+HMS Myrmidon (1867)  1	powerType	Horsepower#Nominal horsepower
+SS Principe Perfeito  1	powerType	Steam turbine
+SS Aenos (1944)  1	powerType	Compound engine
+MS Stena Jutlandica  1	powerType	MAN Diesel
+SS Heidberg  1	powerType	Steam engine#Multiple expansion engines
+SS Frontier (1922)  1	powerType	Steam engine#Multiple expansion engines
+HMS Danae (1867)  1	powerType	Horsepower#Nominal horsepower
+HMS Nymphe (1866)  Screw Sloop   1	powerType	Horsepower#Nominal horsepower
+SS Empire Conveyor  1	powerType	Marine steam engine#Triple or multiple expansion
+SS Anakriya  1	powerType	Steam engine#Multiple expansion engines
+SS Kolno  1	powerType	Compound engine
+SS Hastier (1919)  1	powerType	Steam engine#Multiple expansion engines
+HMS Goldfinch (1889)  1	powerType	Horsepower#Indicated horsepower
+2TE116	powerType	Diesel-electric transmission
+SS Wilhelm Russ  1	powerType	Steam engine#Multiple expansion engines
+United States Lightship LV-87  1	powerType	Compound engine
+United States Lightship LV-87  1	powerType	Electro-Motive Diesel
+SS Empire Conyngham  1	powerType	Steam engine#Multiple expansion engines
+MS Scandinavia (1980)  1	powerType	MAN Diesel
+SNCF Class Y 7100	powerType	Diesel fuel
+SNCF Class Y 7400	powerType	Diesel fuel
+SS Empire Copperfield  1	powerType	Steam engine#Multiple expansion engines
+Greyhound class sloop	powerType	Horsepower#Nominal horsepower
+TSS Duke of Argyll (1956)  1	powerType	Steam turbine
+TSS Duke of Rothesay	powerType	Steam turbine
+Ariel class gunboat	powerType	Horsepower#Nominal horsepower
+Baltic (tug)  Luz de Mar salvage tug   1	powerType	General Electric
+Baltic (tug)  Luz de Mar salvage tug   1	powerType	Watt
+MS Pascal Paoli  1	powerType	Wärtsilä
+Baragoola  1	powerType	English Electric
+Lantern Queen  1	powerType	Watt#Kilowatt
+USS Comet (AP-166)  1	powerType	Watt#Kilowatt
+USS Comet (AP-166)  1	powerType	Barrel (unit)
+Thames class lifeboat	powerType	Diesel engine
+MS Jupiter  1	powerType	SEMT Pielstick
+GSP Jupiter  1	powerType	Horsepower
+GSP Saturn  1	powerType	Horsepower
+GSP Atlas  1	powerType	Horsepower
+GSP Orizont  1	powerType	Horsepower
+GSP Prometeu  1	powerType	Horsepower
+SNCF Class Y 9000	powerType	Diesel fuel
+MS Liverpool Seaways  1	powerType	Wärtsilä
+ChS8	powerType	Electric locomotive
+SS Zealandic (1911)  1	powerType	Horsepower#Nominal horsepower
+MCP Altona  1	powerType	Daihatsu
+French cruiser Émile Bertin  1	powerType	Horsepower#Shaft horsepower
+French cruiser Émile Bertin  1	powerType	Horsepower#Shaft horsepower
+HMS M2  1	powerType	Diesel engine
+FS Class E330	powerType	Electric locomotive
+Brookville BL36PH	powerType	Diesel locomotive#Diesel-electric
+MS Norsea  1	powerType	Wärtsilä
+MV Blue Puttees  1	powerType	Maschinenbau Kiel
+SMS Hansa (1872)  1	powerType	Horsepower#Nominal horsepower
+HSC Norman Arrow  1	powerType	MAN Diesel
+MS Stena Germanica (2001)  1	powerType	Sulzer (manufacturer)
+Intrepid class gunvessel	powerType	Horsepower#Nominal horsepower
+SS Derwentfield  1	powerType	Steam engine#Multiple expansion engines
+State of Washington (sternwheeler)  1	powerType	Indicated horse power
+Tyconda  1	powerType	Horsepower
+Northern Light (sternwheeler)  1	powerType	Horsepower
+Monte Cristo (sternwheeler)  1	powerType	Horsepower
+Hyak (steamboat 1909)  1	powerType	Steam engine#Multiple expansion engines
+MS Stena Scandinavica (2003)  1	powerType	MAN Diesel
+SS Western Maid  1	powerType	Steam turbine
+HMS Jaseur (1857)  1	powerType	Horsepower#Nominal horsepower
+HMS Trent (1877)  1	powerType	Horsepower#Nominal horsepower
+MS Kronprins Frederik  1	powerType	Maschinenbau Kiel
+MS Kronprins Frederik  1	powerType	Maschinenbau Kiel
+Goliah (steam tug 1849)  1	powerType	Marine steam engine#Walking beam
+MV Mary the Queen  1	powerType	SEMT Pielstick
+Alice (steam tug 1897)  1	powerType	Diesel engine
+Lady of the Lake (steamboat)  1	powerType	Quickstep (steamboat)
+Daisy (steamboat)  1	powerType	Horsepower
+D.R. Campbell (sternwheeler)  1	powerType	Horsepower
+Moran sternwheelers	powerType	Horsepower
+Moran sternwheelers	powerType	Horsepower
+Otter (sternwheeler)  1	powerType	Mary Belle
+Otter (sternwheeler)  1	powerType	Horsepower
+Dode (steamboat)  1	powerType	Horsepower
+El Primero  1	powerType	Horsepower
+El Primero  1	powerType	Horsepower
+El Primero  1	powerType	Diesel engine
+TSS Dover  1	powerType	Steam turbine
+TSS Caledonian Princess  1	powerType	Steam turbine
+General Miles  1	powerType	Fairbanks-Morse
+City of Seattle (steam ferry)  1	powerType	Boiler
+West Seattle (steam ferry)  1	powerType	Steam engine
+Leschi (steam ferry)  1	powerType	Steam engine
+City of Mukilteo (steam ferry)  1	powerType	Steam engine
+City of Clinton (steam ferry)  1	powerType	Steam engine
+SS William Mackinnon  1	powerType	Compound engine#Multiple expansion engines
+SS Nyanza (1907)  1	powerType	Compound engine#Multiple expansion engines
+SS Rusinga  1	powerType	Compound engine#Multiple expansion engines
+SS Usoga  1	powerType	Compound engine#Multiple expansion engines
+PS Sudan  1	powerType	Horsepower#Indicated horsepower
+Colo Colo (ship)  1	powerType	Horsepower#Indicated horsepower
+Cikaran  1	powerType	Compound engine#Multiple expansion engines
+SS Clement Hill  1	powerType	Horsepower#Indicated horsepower
+King County (steam ferry)  1	powerType	Steam engine
+C.C. Calkins  1	powerType	Steam engine
+Kirkland (sidewheeler)  1	powerType	Steam engine
+SS Winifred (1901)  1	powerType	Compound engine#Multiple expansion engines
+SS Sybil (1901)  1	powerType	Compound engine#Multiple expansion engines
+PS Speke  1	powerType	Horsepower#Indicated horsepower
+SS Glentworth  1	powerType	Horsepower#Nominal horsepower
+SS Pensylvanie  1	powerType	Horsepower#Nominal horsepower
+MV Lochnevis (1934)  1	powerType	Paxman (engines)
+MV Lochfyne  1	powerType	Paxman (engines)
+MV Lochfyne  1	powerType	Metropolitan-Vickers
+Florence J.  1	powerType	Petrol engine
+SS Empire Tower  1	powerType	Horsepower#Nominal horsepower
+Betty Earles  1	powerType	Petrol engine
+Storm King (ferry)  1	powerType	Petrol engine
+Kulshan (steamship)  1	powerType	Steam engine
+Potlatch (steamship)  1	powerType	Steam engine
+Sol Duc (steamship)  1	powerType	Steam engine
+Sioux (steamship)  1	powerType	Steam engine
+Camano (steamboat)  1	powerType	Steam engine
+Alverene (motor launch)  1	powerType	Petrol engine
+HMS Waterwitch (1866)  1	powerType	Horsepower#Nominal horsepower
+Atlanta (steamboat 1908)  1	powerType	Steam engine
+Atlanta (steamboat 1908)  1	powerType	Diesel engine
+T.M. Richardson  1	powerType	Steam engine
+T.M. Richardson  1	powerType	Horsepower
+Suquamish (motor vessel)  1	powerType	Diesel engine
+Eagle (steamboat)  1	powerType	Steam engine
+State of Pennsylvania (steamboat)  1	powerType	Steam engine#Multiple expansion engines
+Lotus (motor vessel)  1	powerType	Horsepower
+SS Wandle (1932)  1	powerType	Marine steam engine#Triple or multiple expansion
+Capilano (steamboat)  1	powerType	Steam engine
+Comox (steamboat)  1	powerType	Steam engine
+VR Class Dr14	powerType	Diesel fuel
+Cutch (steamship)  1	powerType	Steam engine
+Princess Norah (steamship)  1	powerType	Steam engine
+Lady Alexandra  1	powerType	Steam engine
+RFA Lady Cory-Wright  1	powerType	Marine steam engine#Triple or multiple expansion
+Cheslakee (steamship)  1	powerType	Steam engine
+SS Lanthorn  1	powerType	Horsepower#Nominal horsepower
+Cowichan (steamship)  1	powerType	Steam engine
+Princess Beatrice (steamship)  1	powerType	Steam engine
+Princess Royal (steamship)  1	powerType	Steam engine
+Princess May (steamship)  1	powerType	Steam engine
+FS Class E405	powerType	Electric locomotive
+Oregona (sternwheeler)  1	powerType	Steam engine
+Grey Eagle (sternwheeler)  1	powerType	Steam engine
+Sarah Dixon (sternwheeler)  1	powerType	Steam engine
+Princess Louise (sidewheeler)  1	powerType	Steam engine
+Finnish icebreaker Sampo (1898)  1	powerType	Marine steam engine#Triple or multiple expansion
+Medina class gunboat	powerType	Horsepower#Nominal horsepower

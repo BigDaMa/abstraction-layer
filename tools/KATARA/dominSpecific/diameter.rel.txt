@@ -1,0 +1,2123 @@
+Ariane 5	diameter	5.4
+AIM-7 Sparrow	diameter	0.2032
+AIM-120 AMRAAM	diameter	0.1778
+AGM-88 HARM	diameter	0.254
+AIM-54 Phoenix	diameter	0.381
+AGM-65 Maverick	diameter	0.3048
+RUR-5 ASROC	diameter	0.42164
+Blue Steel (missile)	diameter	1.22
+Fat Man	diameter	1.524
+Little Boy	diameter	0.7112
+UGM-73 Poseidon	diameter	1.8796
+Space Shuttle	diameter	8.7
+Smiling Buddha	diameter	1.25
+GAM-87 Skybolt	diameter	0.889
+Tomahawk (missile)	diameter	0.51816
+V-2	diameter	1.65
+FIM-92 Stinger	diameter	0.07
+MGM-31 Pershing	diameter	1.02
+MGM-31 Pershing  MGM-31A Pershing IA   1	diameter	1.02
+MGM-31 Pershing  II   1	diameter	1.02
+MGM-51 Shillelagh	diameter	0.1524
+AGM-114 Hellfire	diameter	0.1778
+Hydra 70	diameter	0.06985
+LGM-30 Minuteman	diameter	1.6764000000000001
+MIM-104 Patriot  missile   1	diameter	0.41
+Jupiter-C	diameter	1.78
+Juno I	diameter	1.78
+SSM-N-8 Regulus	diameter	1.2192
+Tycho (crater)	diameter	86210.0
+Ariane 4	diameter	3.8
+Europa (rocket)	diameter	3.05
+Diamant	diameter	1.34
+Rapier (missile)	diameter	0.133
+Polar Satellite Launch Vehicle	diameter	2.8
+Tsar Bomba	diameter	2.1
+SM-65 Atlas	diameter	3.048
+Ariane 3	diameter	3.8
+Ariane 2	diameter	3.8
+Proton (rocket)	diameter	7.4
+Mark 24 Tigerfish	diameter	0.533
+Spearfish torpedo	diameter	0.533
+HGM-25A Titan I	diameter	3.05
+Arrow (missile)	diameter	0.8
+GBU-43/B Massive Ordnance Air Blast bomb	diameter	1.0287
+Strela 2	diameter	0.072
+Mark 84 bomb	diameter	0.4572
+GBU-28	diameter	0.356
+Mark 82 bomb	diameter	0.27305
+Mark 83 bomb	diameter	14060.0
+LGM-118 Peacekeeper	diameter	2.3114
+PGM-11 Redstone	diameter	1.776984
+Ariane 1	diameter	3.8
+Salyut 2	diameter	4.15
+Salyut 5	diameter	4.15
+Salyut 6	diameter	4.15
+Shahab-3	diameter	1.2
+R-39 Rif	diameter	2.4
+Amundsen (crater)	diameter	105000.0
+AIM-132 ASRAAM	diameter	0.166
+MBDA Meteor	diameter	0.178
+ALARM (missile)	diameter	0.23
+Storm Shadow	diameter	0.48
+9M133 Kornet	diameter	0.152
+MILAN	diameter	0.125
+Fritz X	diameter	0.853
+Henschel Hs 293	diameter	0.47
+Wasserfall	diameter	2.51
+Starstreak (missile)	diameter	0.13
+Blowpipe (missile)	diameter	0.076
+Javelin (surface-to-air missile)	diameter	0.076
+FGM-148 Javelin	diameter	0.127
+Mistral (missile)	diameter	0.09
+Python (missile)	diameter	0.16
+IRIS-T	diameter	0.127
+Giordano Bruno (crater)	diameter	22000.0
+BGM-71 TOW	diameter	0.152
+Long March 2F	diameter	3.35
+Alphonsus (crater)	diameter	119000.0
+Copernicus (lunar crater)	diameter	93000.0
+MIM-14 Nike-Hercules	diameter	0.8001
+Alder (crater)	diameter	77000.0
+Voskhod (rocket)	diameter	2.99
+Exocet	diameter	0.348
+PGM-17 Thor	diameter	2.4384
+Fermat (crater)	diameter	39000.0
+Agni-III	diameter	2.0
+Delta II	diameter	2.44
+Bingham (crater)	diameter	33000.0
+Vega (rocket)	diameter	3.0
+Anaximander (crater)	diameter	68000.0
+Anaximenes (crater)	diameter	80000.0
+Anaxagoras (crater)	diameter	51000.0
+Mills bomb	diameter	61000.0
+Hermite (crater)	diameter	104000.0
+Hilbert (crater)	diameter	151000.0
+RSD-10 Pioneer	diameter	1.8
+Aster (missile family)	diameter	0.18
+Cantor (crater)	diameter	81000.0
+RIM-2 Terrier	diameter	0.3429
+P-15 Termit	diameter	0.76
+Black Knight (rocket)	diameter	0.91
+Black Arrow	diameter	2.0
+Saturn IB	diameter	6.605016
+MICA (missile)	diameter	0.16
+Cabannes (crater)	diameter	80000.0
+Type 93 torpedo	diameter	0.61
+Sea Wolf (missile)	diameter	0.3
+RIM-7 Sea Sparrow	diameter	8000.0
+Bristol Bloodhound	diameter	0.546
+Mark 48 torpedo	diameter	0.5334
+Mark 46 torpedo	diameter	0.32385
+Manned Orbiting Laboratory	diameter	3.05
+Daedalus (crater)	diameter	93000.0
+Aristarchus (crater)	diameter	40000.0
+Sea Cat	diameter	0.22
+Delta IV	diameter	5.0
+Saturn I	diameter	6.52
+M4 (missile)	diameter	1000.0
+M45 (missile)	diameter	1.93
+AGM-154 Joint Standoff Weapon	diameter	0.3302
+UGM-96 Trident I	diameter	1.8
+UGM-133 Trident II	diameter	2.11
+Sea Dart (missile)	diameter	0.42
+Zvezda (ISS module)	diameter	4.15
+Zenit (rocket family)	diameter	3.9
+N1 (rocket)	diameter	17.0
+PGM-19 Jupiter	diameter	2.67
+Arzachel (crater)	diameter	96000.0
+Tsyklon	diameter	3.0
+Shavit	diameter	2.3
+Pegasus (rocket)	diameter	1.27
+Penguin (missile)	diameter	0.28
+Brimstone (missile)	diameter	0.178
+Tallboy (bomb)	diameter	0.95
+Nikolayev (crater)	diameter	41000.0
+Fra Mauro (crater)	diameter	95000.0
+Castle Bravo	diameter	1.369
+Falcon 5	diameter	3.65
+Falcon 1	diameter	1.7
+LGM-25C Titan II	diameter	3.05
+Titan IV	diameter	3.05
+Titan IIIB	diameter	3.05
+Titan IIIC	diameter	3.05
+Meggers (crater)	diameter	52000.0
+Atlas II	diameter	3.04
+Linné (crater)	diameter	2400.0
+Albategnius (crater)	diameter	129000.0
+M-V	diameter	2.5
+Vanguard (rocket)	diameter	1.139952
+Sea Slug (missile)	diameter	1000.0
+Aristoteles (crater)	diameter	87000.0
+M47 Dragon	diameter	0.14
+Kosmos-3M	diameter	2.4
+Eratosthenes (crater)	diameter	58000.0
+Bailly (crater)	diameter	303000.0
+Bullialdus (crater)	diameter	61000.0
+H-IIA	diameter	4.0
+Ammonius (crater)	diameter	9000.0
+Ptolemaeus (lunar crater)	diameter	153000.0
+Wargentin (crater)	diameter	84000.0
+Wichmann (crater)	diameter	11000.0
+Delta III	diameter	4.0
+Archimedes (crater)	diameter	83000.0
+Bancroft (crater)	diameter	13100.0
+Fabricius (crater)	diameter	78000.0
+Janssen (lunar crater)	diameter	190000.0
+MacMillan (crater)	diameter	8000.0
+Langrenus (crater)	diameter	132000.0
+Metius (crater)	diameter	88000.0
+Pupin (crater)	diameter	2000.0
+Spurr (crater)	diameter	11000.0
+Beaumont (crater)	diameter	53000.0
+Fracastorius (crater)	diameter	124000.0
+Hesiodus (crater)	diameter	43000.0
+Lamé (crater)	diameter	84000.0
+Maestlin (crater)	diameter	7000.0
+Messier (crater)	diameter	9000.0
+Moretus (crater)	diameter	114000.0
+Müller (lunar crater)	diameter	24000.0
+Piccolomini (crater)	diameter	88000.0
+Pitatus (crater)	diameter	97000.0
+Vendelinus (crater)	diameter	147000.0
+Plinius (crater)	diameter	43000.0
+Chacornac (crater)	diameter	51000.0
+Daniell (crater)	diameter	30000.0
+Dawes (lunar crater)	diameter	18000.0
+Menelaus (crater)	diameter	27000.0
+Neper (crater)	diameter	137000.0
+Brackett (crater)	diameter	9000.0
+Posidonius (crater)	diameter	95000.0
+Pythagoras (crater)	diameter	130000.0
+Rheita (crater)	diameter	70000.0
+Rosse (crater)	diameter	12000.0
+Ramsden (crater)	diameter	25000.0
+Regiomontanus (crater)	diameter	126000.0
+Thebit (crater)	diameter	57000.0
+Bayer (crater)	diameter	47000.0
+Eddington (crater)	diameter	125000.0
+Schiller (crater)	diameter	179000.0
+Seleucus (crater)	diameter	61000.0
+Lehmann (lunar crater)	diameter	53000.0
+Struve (crater)	diameter	170000.0
+Schickard (crater)	diameter	227000.0
+Russell (lunar crater)	diameter	103000.0
+Galilaei (lunar crater)	diameter	15500.0
+Krafft (crater)	diameter	51000.0
+Golgi (crater)	diameter	5000.0
+Aldrin (crater)	diameter	3400.0
+Ångström (crater)	diameter	9800.0
+Armstrong (crater)	diameter	4600.0
+Artemis (crater)	diameter	2000.0
+Artsimovich (crater)	diameter	9000.0
+Aryabhata (crater)	diameter	22000.0
+Banting (crater)	diameter	5000.0
+Beer (lunar crater)	diameter	10000.0
+Airy (lunar crater)	diameter	37000.0
+Bessarion (crater)	diameter	10200.0
+Birt (crater)	diameter	17000.0
+Brayley (crater)	diameter	14500.0
+Carlini (crater)	diameter	11000.0
+Caventou (crater)	diameter	3000.0
+Collins (crater)	diameter	2400.0
+Cyrillus (crater)	diameter	98000.0
+Draper (crater)	diameter	9000.0
+Humason (crater)	diameter	4000.0
+Huxley (lunar crater)	diameter	4000.0
+Ibn-Rushd (crater)	diameter	33000.0
+Landsteiner (crater)	diameter	6000.0
+Luther (crater)	diameter	10000.0
+Mädler (lunar crater)	diameter	28000.0
+Manners (crater)	diameter	15000.0
+McDonald (crater)	diameter	8000.0
+Menzel (crater)	diameter	3000.0
+Moltke (crater)	diameter	6500.0
+Naumann (crater)	diameter	10000.0
+Nicholson (lunar crater)	diameter	38000.0
+Sampson (crater)	diameter	1500.0
+Sirsalis (crater)	diameter	42000.0
+Smithson (crater)	diameter	5000.0
+Theophilus (crater)	diameter	100000.0
+Trouvelot (lunar crater)	diameter	9000.0
+Wollaston (crater)	diameter	10000.0
+Zinner (crater)	diameter	4000.0
+Wallach (crater)	diameter	6000.0
+Abetti (crater)	diameter	1500.0
+Bobillier (crater)	diameter	6500.0
+Borel (crater)	diameter	5000.0
+Catharina (crater)	diameter	100000.0
+Ching-Te (crater)	diameter	4000.0
+Deseilligny (crater)	diameter	6600.0
+Finsch (crater)	diameter	4000.0
+Plato (crater)	diameter	109000.0
+Very (lunar crater)	diameter	5000.0
+Zach (crater)	diameter	71000.0
+Zagut (crater)	diameter	84000.0
+Zähringer (crater)	diameter	11000.0
+Zasyadko (crater)	diameter	11000.0
+Zeeman (crater)	diameter	184000.0
+Zeno (crater)	diameter	65000.0
+Zöllner (crater)	diameter	47000.0
+Zsigmondy (crater)	diameter	65000.0
+Zucchius (crater)	diameter	64000.0
+Zupus (crater)	diameter	38000.0
+Zanstra (crater)	diameter	42000.0
+Zelinskiy (crater)	diameter	53000.0
+Zhukovskiy (crater)	diameter	81000.0
+Zwicky (crater)	diameter	150000.0
+Zernike (crater)	diameter	48000.0
+Fahrenheit (crater)	diameter	6000.0
+Ameghino (crater)	diameter	9000.0
+Amontons (crater)	diameter	3000.0
+Boethius (lunar crater)	diameter	10000.0
+Censorinus (crater)	diameter	3800.0
+Euclides (crater)	diameter	12000.0
+Al-Marrakushi (crater)	diameter	8000.0
+Kuiper (lunar crater)	diameter	7000.0
+Kundt (crater)	diameter	15000.0
+Lubbock (crater)	diameter	13000.0
+R-77 (missile)	diameter	0.2
+Puiseux (crater)	diameter	25000.0
+Seeliger (crater)	diameter	9000.0
+Theiler (crater)	diameter	8000.0
+Winthrop (crater)	diameter	18000.0
+Stadius (crater)	diameter	69000.0
+Balmer (crater)	diameter	112000.0
+Biot (crater)	diameter	13000.0
+Blagg (crater)	diameter	5400.0
+Bruce (crater)	diameter	6700.0
+Daguerre (crater)	diameter	46000.0
+Dembowski (crater)	diameter	26000.0
+Hyginus (crater)	diameter	11000.0
+Kane (crater)	diameter	55000.0
+Kies (crater)	diameter	44000.0
+Lade (crater)	diameter	56000.0
+Lamont (lunar crater)	diameter	75000.0
+Lick (crater)	diameter	31000.0
+Lippershey (crater)	diameter	7000.0
+Marth (lunar crater)	diameter	7000.0
+Murchison (crater)	diameter	58000.0
+Oersted (crater)	diameter	42000.0
+Rutherfurd (crater)	diameter	48000.0
+Wallace (lunar crater)	diameter	26000.0
+Air-Sol Moyenne Portée	diameter	0.3
+Abbe (crater)	diameter	66000.0
+Abul Wafa (crater)	diameter	55000.0
+Aitken (crater)	diameter	135000.0
+Alden (crater)	diameter	104000.0
+Alter (crater)	diameter	64000.0
+Al-Khwarizmi (crater)	diameter	65000.0
+Amici (crater)	diameter	54000.0
+Anders (crater)	diameter	40000.0
+Hainzel (crater)	diameter	70000.0
+Clavius (crater)	diameter	225000.0
+Deslandres (crater)	diameter	256000.0
+Grimaldi (crater)	diameter	173490.0
+Maginus (crater)	diameter	194000.0
+Humboldt (crater)	diameter	207000.0
+RT-2UTTKh Topol M	diameter	1.9
+Herodotus (crater)	diameter	35000.0
+Hipparchus (lunar crater)	diameter	150000.0
+Longomontanus (crater)	diameter	145000.0
+Petavius (crater)	diameter	177000.0
+Riccioli (crater)	diameter	146000.0
+Stöfler (crater)	diameter	126000.0
+Walther (crater)	diameter	132000.0
+Newton (lunar crater)	diameter	79000.0
+Anderson (crater)	diameter	109000.0
+Andersson (crater)	diameter	13000.0
+Antoniadi (lunar crater)	diameter	143000.0
+De Havilland Firestreak	diameter	0.223
+Red Top (missile)	diameter	0.23
+Abbot (crater)	diameter	10000.0
+Al-Bakri (crater)	diameter	12000.0
+Acosta (crater)	diameter	13000.0
+Alpetragius (crater)	diameter	40000.0
+Anville (crater)	diameter	11000.0
+Aratus (crater)	diameter	10600.0
+Argelander (crater)	diameter	34000.0
+Asada (crater)	diameter	12000.0
+Avery (crater)	diameter	9000.0
+Beketov (crater)	diameter	8400.0
+Bettinus (crater)	diameter	71000.0
+Klein (crater)	diameter	44000.0
+Parrot (crater)	diameter	70000.0
+Vogel (lunar crater)	diameter	27000.0
+Burnham (crater)	diameter	25000.0
+Ritchey (lunar crater)	diameter	25000.0
+Jansen (crater)	diameter	23000.0
+Street (crater)	diameter	58000.0
+Pictet (crater)	diameter	62000.0
+Lohse (lunar crater)	diameter	42000.0
+Holden (lunar crater)	diameter	47000.0
+Väisälä (crater)	diameter	8000.0
+Mitchell (crater)	diameter	30000.0
+Egede (crater)	diameter	37000.0
+Galle (lunar crater)	diameter	21000.0
+Segner (crater)	diameter	67000.0
+Nasmyth (crater)	diameter	77000.0
+Phocylides (crater)	diameter	114000.0
+Nöggerath (crater)	diameter	31000.0
+Bombelli (crater)	diameter	10000.0
+Born (crater)	diameter	15000.0
+Bowen (crater)	diameter	9000.0
+Brewster (crater)	diameter	11000.0
+Cajal (crater)	diameter	9000.0
+Cameron (crater)	diameter	11000.0
+Carrel (crater)	diameter	16000.0
+Carrillo (crater)	diameter	16000.0
+Cartan (crater)	diameter	16000.0
+Cauchy (crater)	diameter	12000.0
+C. Herschel (crater)	diameter	13400.0
+Crile (crater)	diameter	9000.0
+Clerke (crater)	diameter	7000.0
+Curtis (crater)	diameter	3000.0
+Joy (crater)	diameter	6000.0
+Apollonius (crater)	diameter	53000.0
+Picard (crater)	diameter	23000.0
+Taruntius (crater)	diameter	56000.0
+Yerkes (crater)	diameter	36000.0
+Timocharis (crater)	diameter	34000.0
+Bartels (crater)	diameter	37000.0
+Bode (crater)	diameter	18600.0
+Chladni (crater)	diameter	13600.0
+Euler (crater)	diameter	28000.0
+Faraday (crater)	diameter	70000.0
+Fauth (crater)	diameter	12000.0
+Fernelius (crater)	diameter	65000.0
+Gay-Lussac (crater)	diameter	26000.0
+Halley (lunar crater)	diameter	36000.0
+Hind (crater)	diameter	29000.0
+König (crater)	diameter	23000.0
+Lubiniezky (crater)	diameter	44000.0
+Pallas (crater)	diameter	50000.0
+Horrocks (crater)	diameter	30000.0
+Pickering (lunar crater)	diameter	15000.0
+Rhaeticus (crater)	diameter	43000.0
+Polybius (crater)	diameter	41000.0
+Saunder (crater)	diameter	45000.0
+Schiaparelli (lunar crater)	diameter	24000.0
+Schröter (lunar crater)	diameter	34500.0
+Sharp (crater)	diameter	40000.0
+Sheepshanks (crater)	diameter	25000.0
+Suess	diameter	9000.0
+Tacitus (crater)	diameter	40000.0
+Theaetetus (crater)	diameter	25000.0
+Cleomedes (crater)	diameter	126000.0
+Proclus (crater)	diameter	28000.0
+Endymion (crater)	diameter	125000.0
+Gassendi (crater)	diameter	110000.0
+Hommel (crater)	diameter	120000.0
+Letronne (crater)	diameter	120000.0
+Maurolycus (crater)	diameter	114000.0
+Orontius (crater)	diameter	122000.0
+Purbach (crater)	diameter	118000.0
+Scheiner (crater)	diameter	110000.0
+Triesnecker (crater)	diameter	26000.0
+Sacrobosco (crater)	diameter	98000.0
+Snellius (crater)	diameter	83000.0
+Blancanus (crater)	diameter	105000.0
+Boguslawsky (crater)	diameter	97000.0
+Hevelius (crater)	diameter	106000.0
+Marius (crater)	diameter	41000.0
+Milichius (crater)	diameter	13000.0
+Abulfeda (crater)	diameter	62000.0
+Grand Slam (bomb)	diameter	1.1684
+Scott (crater)	diameter	108000.0
+Auzout (crater)	diameter	33000.0
+Ariadaeus (crater)	diameter	11200.0
+Arago (lunar crater)	diameter	26000.0
+Aristillus (crater)	diameter	55000.0
+Atlas (crater)	diameter	87000.0
+Autolycus (crater)	diameter	39000.0
+Abenezra (crater)	diameter	42000.0
+Bohnenberger (crater)	diameter	33000.0
+Bonpland (crater)	diameter	60000.0
+Bessel (crater)	diameter	16000.0
+Boscovich (crater)	diameter	46000.0
+Byrgius (crater)	diameter	87000.0
+Capella (crater)	diameter	49000.0
+Cardanus (crater)	diameter	50000.0
+Cavalerius (crater)	diameter	58000.0
+Cavendish (crater)	diameter	56000.0
+De Gasparis (crater)	diameter	30000.0
+Delisle (crater)	diameter	25000.0
+Descartes (crater)	diameter	48000.0
+Dionysius (crater)	diameter	18000.0
+Diophantus (crater)	diameter	19000.0
+Doppelmayer (crater)	diameter	64000.0
+Eudoxus (lunar crater)	diameter	67000.0
+Fedorov (crater)	diameter	7000.0
+Flammarion (lunar crater)	diameter	75000.0
+Flamsteed (crater)	diameter	21000.0
+Furnerius (crater)	diameter	125000.0
+Gambart (crater)	diameter	25000.0
+Gärtner (crater)	diameter	102000.0
+Goclenius (crater)	diameter	54000.0
+Guericke (crater)	diameter	58000.0
+Gutenberg (crater)	diameter	74000.0
+Hansteen (crater)	diameter	45000.0
+Hercules (crater)	diameter	69000.0
+Herschel (lunar crater)	diameter	41000.0
+Hippalus (crater)	diameter	58000.0
+Hortensius (crater)	diameter	15000.0
+Julius Caesar (crater)	diameter	90000.0
+Kepler (lunar crater)	diameter	32000.0
+La Caille (crater)	diameter	68000.0
+Lalande (crater)	diameter	24000.0
+Lambert (lunar crater)	diameter	30000.0
+Lansberg (crater)	diameter	39000.0
+Le Monnier (crater)	diameter	61000.0
+Lee (crater)	diameter	41000.0
+Lichtenberg (crater)	diameter	20000.0
+Littrow (crater)	diameter	31000.0
+Manilius (crater)	diameter	39000.0
+Maraldi (lunar crater)	diameter	40000.0
+Maskelyne (crater)	diameter	24000.0
+Mercator (crater)	diameter	47000.0
+Mersenius (crater)	diameter	84000.0
+Meton (crater)	diameter	122000.0
+Mösting (crater)	diameter	26000.0
+Prinz (crater)	diameter	46000.0
+Pytheas (crater)	diameter	20000.0
+Réaumur (crater)	diameter	53000.0
+Reiner (crater)	diameter	30000.0
+Reinhold (crater)	diameter	48000.0
+Ritter (crater)	diameter	29000.0
+Römer (crater)	diameter	40000.0
+Sabine (crater)	diameter	30000.0
+Secchi (lunar crater)	diameter	25000.0
+Silberschlag (crater)	diameter	13000.0
+Sosigenes (crater)	diameter	18000.0
+Stevinus (crater)	diameter	75000.0
+Strabo (crater)	diameter	55000.0
+Sulpicius Gallus (crater)	diameter	12000.0
+Thales (crater)	diameter	32000.0
+Timaeus (crater)	diameter	33000.0
+Torricelli (crater)	diameter	23000.0
+Tsiolkovskiy (crater)	diameter	180000.0
+Tacquet (crater)	diameter	7000.0
+Vitruvius (crater)	diameter	30000.0
+Werner (crater)	diameter	70000.0
+Agatharchides (crater)	diameter	49000.0
+Nielsen (crater)	diameter	10000.0
+Bianchini (lunar crater)	diameter	38000.0
+Van de Graaff (crater)	diameter	233000.0
+Thomson (crater)	diameter	117000.0
+O'Day (crater)	diameter	71000.0
+Le Verrier (lunar crater)	diameter	20000.0
+Landau (crater)	diameter	214000.0
+La Condamine (crater)	diameter	37000.0
+Hohmann (crater)	diameter	16000.0
+Helicon (crater)	diameter	25000.0
+Gagarin (crater)	diameter	265000.0
+Doppler (crater)	diameter	110000.0
+De Vico (crater)	diameter	20000.0
+Bürg (crater)	diameter	40000.0
+Geosynchronous Satellite Launch Vehicle	diameter	2.8
+AIR-2 Genie	diameter	0.4445
+Toscanelli (crater)	diameter	7000.0
+Type 91 torpedo	diameter	0.45
+RBS 70	diameter	0.106
+Abel (crater)	diameter	122000.0
+Adams (lunar crater)	diameter	66000.0
+Agrippa (crater)	diameter	46000.0
+Al-Biruni (crater)	diameter	77000.0
+Hanno (crater)	diameter	56000.0
+Alekhin (crater)	diameter	70000.0
+Alexander (crater)	diameter	81000.0
+Shackleton (crater)	diameter	21000.0
+Glushko (crater)	diameter	43000.0
+Alfraganus (crater)	diameter	20000.0
+Alhazen (crater)	diameter	32000.0
+Olbers (crater)	diameter	74000.0
+Aliacensis (crater)	diameter	79000.0
+Korolev (lunar crater)	diameter	437000.0
+Swingfire	diameter	0.17
+Thermos Bomb	diameter	2750.0
+AGM-122 Sidearm	diameter	0.127
+Terminal High Altitude Area Defense	diameter	0.34
+Almanon (crater)	diameter	49000.0
+Aloha (crater)	diameter	3000.0
+Anděl (crater)	diameter	35000.0
+Andronov (crater)	diameter	16000.0
+Burckhardt (crater)	diameter	57000.0
+Delambre (crater)	diameter	52000.0
+Barocius (crater)	diameter	82000.0
+Encke (crater)	diameter	28000.0
+Franklin (crater)	diameter	56000.0
+Geminus (crater)	diameter	86000.0
+Godin (crater)	diameter	35000.0
+Gruithuisen (crater)	diameter	16000.0
+Harpalus (crater)	diameter	39000.0
+Heraclitus (crater)	diameter	90000.0
+Mairan (crater)	diameter	40000.0
+Palitzsch (crater)	diameter	41000.0
+RIM-162 ESSM	diameter	0.254
+Ansgarius (crater)	diameter	94000.0
+Apianus (crater)	diameter	63000.0
+Apollo (crater)	diameter	537000.0
+Appleton (crater)	diameter	63000.0
+Archytas (crater)	diameter	32000.0
+Armiński (crater)	diameter	26000.0
+Arrhenius (lunar crater)	diameter	40000.0
+Arnold (crater)	diameter	95000.0
+Artem'ev (crater)	diameter	67000.0
+Artamonov (crater)	diameter	60000.0
+Asclepi (crater)	diameter	42000.0
+Ashbrook (crater)	diameter	156000.0
+Aston (crater)	diameter	43000.0
+Atwood (crater)	diameter	29000.0
+Auwers (crater)	diameter	20000.0
+Avicenna (crater)	diameter	74000.0
+Avogadro (crater)	diameter	139000.0
+Azophi (crater)	diameter	47000.0
+Anuchin (crater)	diameter	57000.0
+Baade (crater)	diameter	55000.0
+Babakin (lunar crater)	diameter	20000.0
+Babcock (crater)	diameter	99000.0
+Borman (crater)	diameter	50000.0
+Boss (crater)	diameter	47000.0
+Babbage (crater)	diameter	143000.0
+Norman (crater)	diameter	10000.0
+Peary (crater)	diameter	73000.0
+Shaler (crater)	diameter	48000.0
+Baillaud (crater)	diameter	89000.0
+Barrow (crater)	diameter	92000.0
+Byrd (lunar crater)	diameter	94000.0
+Hale (lunar crater)	diameter	83000.0
+Schrödinger (crater)	diameter	312000.0
+Backlund (crater)	diameter	75000.0
+Baco (crater)	diameter	69000.0
+Birmingham (crater)	diameter	92000.0
+Back (crater)	diameter	35000.0
+Parry (crater)	diameter	48000.0
+Sarabhai (crater)	diameter	8000.0
+Balboa (lunar crater)	diameter	69000.0
+Baily (crater)	diameter	26000.0
+Democritus (crater)	diameter	39000.0
+Pons (crater)	diameter	44000.0
+R-36 (missile)	diameter	3.05
+RT-2PM Topol	diameter	1.8
+Poincaré (crater)	diameter	319000.0
+Hess (crater)	diameter	88000.0
+Barnard (lunar crater)	diameter	105000.0
+Geber (crater)	diameter	45000.0
+Bilharz (crater)	diameter	43000.0
+Ctesibius (crater)	diameter	36000.0
+Heron (crater)	diameter	24000.0
+King (crater)	diameter	76000.0
+Balandin (crater)	diameter	12000.0
+Naonobu (crater)	diameter	34000.0
+Tolansky (crater)	diameter	13000.0
+Vesalius (crater)	diameter	61000.0
+Bergstrand (crater)	diameter	43000.0
+Davy (crater)	diameter	34000.0
+Donati (crater)	diameter	36000.0
+Hase (crater)	diameter	83000.0
+Heaviside (lunar crater)	diameter	165000.0
+Legendre (crater)	diameter	78000.0
+Palisa (crater)	diameter	33000.0
+Tempel (crater)	diameter	45000.0
+Vertregt (crater)	diameter	187000.0
+Scaliger (crater)	diameter	84000.0
+Milne (crater)	diameter	272000.0
+Joliot (crater)	diameter	164000.0
+Goddard (crater)	diameter	93341.952
+Billy (crater)	diameter	45000.0
+Blanchinus (crater)	diameter	58000.0
+Bose (crater)	diameter	91000.0
+Boyle (crater)	diameter	57000.0
+Von Kármán (lunar crater)	diameter	180000.0
+Beals (crater)	diameter	48000.0
+Calippus (crater)	diameter	32000.0
+Crommelin (lunar crater)	diameter	94000.0
+Doerfel (crater)	diameter	68000.0
+Dawson (crater)	diameter	45000.0
+Fizeau (crater)	diameter	111000.0
+Hansen (crater)	diameter	39000.0
+Lassell (lunar crater)	diameter	23000.0
+Ohm (crater)	diameter	64000.0
+Moissan (crater)	diameter	59000.0
+Robertson (crater)	diameter	88000.0
+Saenger (crater)	diameter	75000.0
+K-13 (missile)	diameter	0.127
+Bel'kovich (crater)	diameter	214000.0
+Bellot (crater)	diameter	17000.0
+Bernoulli (crater)	diameter	47000.0
+Brown (crater)	diameter	34000.0
+Buch (crater)	diameter	54000.0
+Behaim (crater)	diameter	55000.0
+Bohr (crater)	diameter	71000.0
+Boole (crater)	diameter	63000.0
+Büsching (crater)	diameter	52000.0
+Chamberlin (lunar crater)	diameter	58000.0
+Compton (crater)	diameter	162000.0
+D'Arrest (crater)	diameter	30000.0
+Olivier (crater)	diameter	69000.0
+Fechner (crater)	diameter	63000.0
+Plaskett (crater)	diameter	109000.0
+Schmidt (lunar crater)	diameter	11000.0
+Theon Junior (crater)	diameter	17000.0
+Theon Senior (crater)	diameter	18000.0
+W. Bond (crater)	diameter	156000.0
+KEPD 350	diameter	1.08
+Kh-15 (missile)	diameter	0.455
+R-60 (missile)	diameter	0.12
+Prithvi (missile)	diameter	1.1
+Kh-55 (missile family)	diameter	0.514
+Kh-22	diameter	1.81
+Brianchon (crater)	diameter	145000.0
+Kirkwood (crater)	diameter	67000.0
+Lindblad (crater)	diameter	66000.0
+Nishina (crater)	diameter	65000.0
+Biela (crater)	diameter	76000.0
+Komarov (crater)	diameter	78000.0
+Van Rhijn (crater)	diameter	46000.0
+Bridgman (crater)	diameter	80000.0
+Becquerel (lunar crater)	diameter	65000.0
+Birkhoff (crater)	diameter	345000.0
+Bowditch (crater)	diameter	40000.0
+Bragg (crater)	diameter	84000.0
+Gioja (crater)	diameter	41000.0
+Boltzmann (crater)	diameter	76000.0
+Brashear (lunar crater)	diameter	40000.0
+Grotrian (crater)	diameter	37000.0
+Van Wijk (crater)	diameter	32000.0
+Wexler (crater)	diameter	51000.0
+Rost (crater)	diameter	48000.0
+Briggs (crater)	diameter	37000.0
+Desargues (crater)	diameter	85000.0
+Karrer (crater)	diameter	51000.0
+Main (lunar crater)	diameter	46000.0
+Poinsot (crater)	diameter	68000.0
+Borda (crater)	diameter	44000.0
+Webb (crater)	diameter	21000.0
+Lilius (crater)	diameter	61000.0
+Lovelace (crater)	diameter	54000.0
+Mutus (crater)	diameter	78000.0
+Pontécoulant (crater)	diameter	91000.0
+Rozhdestvenskiy (crater)	diameter	177000.0
+Sylvester (crater)	diameter	58000.0
+Krieger (crater)	diameter	22000.0
+De La Rue (crater)	diameter	136000.0
+Fontenelle (crater)	diameter	38000.0
+Heymans (crater)	diameter	50000.0
+Karpinskiy (crater)	diameter	92000.0
+Keldysh (crater)	diameter	22000.0
+Kramers (crater)	diameter	61000.0
+Nicolai (crater)	diameter	42000.0
+Oenopides (crater)	diameter	67000.0
+Paneth (crater)	diameter	65000.0
+Protagoras (crater)	diameter	22000.0
+Cepheus (crater)	diameter	40000.0
+Fabry (crater)	diameter	184000.0
+Maury (crater)	diameter	18000.0
+Bell (crater)	diameter	86000.0
+Bellinsgauzen (crater)	diameter	63000.0
+Belyaev (crater)	diameter	54000.0
+Benedict (crater)	diameter	14000.0
+Berlage (crater)	diameter	92000.0
+Rowland (crater)	diameter	171000.0
+Störmer (crater)	diameter	69000.0
+Ellison (crater)	diameter	36000.0
+Barringer (lunar crater)	diameter	68000.0
+Sinas (crater)	diameter	12000.0
+Pingré (crater)	diameter	89000.0
+Peek (crater)	diameter	12000.0
+Clausius (crater)	diameter	25000.0
+Deluc (crater)	diameter	47000.0
+Kugler (crater)	diameter	65000.0
+Porter (lunar crater)	diameter	52000.0
+Tannerus (crater)	diameter	29000.0
+Watt (crater)	diameter	66000.0
+Cabeus (crater)	diameter	98000.0
+De Gerlache (crater)	diameter	32400.0
+Neumayer (crater)	diameter	76000.0
+Schomberger (crater)	diameter	85000.0
+Ball (crater)	diameter	41000.0
+Baldet (lunar crater)	diameter	55000.0
+Banachiewicz (crater)	diameter	92000.0
+Barbier (crater)	diameter	66000.0
+Barkla (crater)	diameter	42000.0
+Bečvář (crater)	diameter	67000.0
+Beijerinck (crater)	diameter	70000.0
+Bergman (crater)	diameter	21000.0
+Berkner (crater)	diameter	92000.0
+Lacroix (crater)	diameter	38000.0
+Breislak (crater)	diameter	50000.0
+Brisbane (lunar crater)	diameter	44000.0
+Brenner (crater)	diameter	97000.0
+Bouguer (lunar crater)	diameter	22000.0
+Blackett (crater)	diameter	141000.0
+Black (crater)	diameter	18000.0
+Bhabha (crater)	diameter	64000.0
+Berosus (crater)	diameter	74000.0
+Berzelius (crater)	diameter	51000.0
+Birkeland (lunar crater)	diameter	82000.0
+Bunsen (crater)	diameter	52000.0
+Blazhko (crater)	diameter	54000.0
+Bok (lunar crater)	diameter	45000.0
+Lemaître (crater)	diameter	91000.0
+Haret (crater)	diameter	29000.0
+Bobone (crater)	diameter	31000.0
+Blanchard (crater)	diameter	40000.0
+Brunner (crater)	diameter	53000.0
+De Morgan (crater)	diameter	10000.0
+Lucian (crater)	diameter	7000.0
+Lyell (lunar crater)	diameter	32000.0
+Ross (lunar crater)	diameter	24000.0
+Sömmering (crater)	diameter	28000.0
+Turner (crater)	diameter	12000.0
+Ukert (crater)	diameter	23000.0
+Whewell (crater)	diameter	13000.0
+Boussingault (crater)	diameter	131000.0
+Buisson (crater)	diameter	56000.0
+Buys-Ballot (crater)	diameter	55000.0
+Butlerov (crater)	diameter	40000.0
+Watts (crater)	diameter	15000.0
+Lawrence (crater)	diameter	24000.0
+Novator K-100	diameter	0.4
+Liouville (crater)	diameter	16000.0
+Daly (lunar crater)	diameter	17000.0
+Darney (crater)	diameter	15000.0
+Greaves (crater)	diameter	14000.0
+Herigonius (crater)	diameter	15000.0
+Hermann (crater)	diameter	16000.0
+Condorcet (crater)	diameter	74000.0
+Oppolzer (crater)	diameter	43000.0
+Petit (crater)	diameter	5000.0
+Respighi (crater)	diameter	18000.0
+Sabatier (crater)	diameter	10000.0
+Scheele (crater)	diameter	4000.0
+Shapley (crater)	diameter	23000.0
+Stewart (crater)	diameter	13000.0
+Wildt (crater)	diameter	11000.0
+S-mine	diameter	0.102
+AIM-4 Falcon	diameter	0.163
+Carpenter (crater)	diameter	59000.0
+Conon (crater)	diameter	21000.0
+Curtius (crater)	diameter	95000.0
+Cuvier (crater)	diameter	75000.0
+Belopol'skiy (crater)	diameter	59000.0
+Bjerknes (lunar crater)	diameter	48000.0
+Bolyai (crater)	diameter	135000.0
+Brouwer (crater)	diameter	158000.0
+Campanus (crater)	diameter	48000.0
+C. Mayer (crater)	diameter	38000.0
+Thor-Able	diameter	2.44
+Mark 81 bomb	diameter	0.2286
+R-40 (missile)	diameter	0.31
+R-33 (missile)	diameter	0.38
+R-73 (missile)	diameter	0.165
+Boris (crater)	diameter	1000.0
+Bredikhin (crater)	diameter	59000.0
+Bronk (crater)	diameter	64000.0
+Cannon (crater)	diameter	56000.0
+Capuanus (crater)	diameter	60000.0
+Carmichael (crater)	diameter	20000.0
+Cayley (crater)	diameter	14000.0
+Condon (crater)	diameter	35000.0
+Cremona (crater)	diameter	85000.0
+Cusanus (crater)	diameter	63000.0
+Da Vinci (lunar crater)	diameter	38000.0
+Glaisher (crater)	diameter	16000.0
+Goldschmidt (crater)	diameter	113000.0
+Gould (crater)	diameter	34000.0
+Krogh (crater)	diameter	20000.0
+Pomortsev (crater)	diameter	23000.0
+Tebbutt (crater)	diameter	31000.0
+Townley (crater)	diameter	18000.0
+Van Albada (crater)	diameter	21000.0
+Malkara (missile)	diameter	0.203
+Dubyago (crater)	diameter	51000.0
+Firmicus (crater)	diameter	56000.0
+Buffon (crater)	diameter	106000.0
+Gauss (crater)	diameter	177000.0
+J. Herschel (crater)	diameter	165000.0
+Lyot (lunar crater)	diameter	132000.0
+Maupertuis (crater)	diameter	45000.0
+Peirce (crater)	diameter	18000.0
+Swift (lunar crater)	diameter	10000.0
+Wrottesley (crater)	diameter	57000.0
+Hell (crater)	diameter	32550.0
+Huggins (lunar crater)	diameter	65000.0
+Klaproth (crater)	diameter	119000.0
+Kopff (crater)	diameter	41000.0
+Opelt (crater)	diameter	48000.0
+Rittenhouse (crater)	diameter	26000.0
+Steinheil (crater)	diameter	67000.0
+Tralles (crater)	diameter	43000.0
+Gaudibert (crater)	diameter	33000.0
+Hypatia (crater)	diameter	41000.0
+Isidorus (crater)	diameter	42000.0
+Riccius (crater)	diameter	71000.0
+Gemma Frisius (crater)	diameter	88000.0
+Jacobi (crater)	diameter	68000.0
+Poisson (crater)	diameter	42000.0
+Scoresby (crater)	diameter	56000.0
+Playfair (lunar crater)	diameter	47000.0
+Zhiritskiy (crater)	diameter	35000.0
+Valmara 69	diameter	0.13
+Haldane (lunar crater)	diameter	38000.0
+De Roy (crater)	diameter	43000.0
+Marco Polo (crater)	diameter	28000.0
+K-9 (missile)	diameter	0.25
+R-27 (air-to-air missile)	diameter	0.23
+T. Mayer (crater)	diameter	33000.0
+Akash (missile)	diameter	0.35
+M51 (missile)	diameter	2.3
+Casatus (crater)	diameter	111000.0
+Loewy (crater)	diameter	22000.0
+Philolaus (crater)	diameter	70000.0
+Vitello (crater)	diameter	42000.0
+Damoiseau (crater)	diameter	37000.0
+Hedin (crater)	diameter	150000.0
+Mee (crater)	diameter	132000.0
+Sikorsky (crater)	diameter	98000.0
+Crüger (crater)	diameter	45000.0
+South (lunar crater)	diameter	104000.0
+Lexell (crater)	diameter	63000.0
+Mercurius (crater)	diameter	68000.0
+Miller (crater)	diameter	75000.0
+Pitiscus (crater)	diameter	82000.0
+Rabbi Levi (crater)	diameter	81000.0
+Taylor (crater)	diameter	41000.0
+Licetus (crater)	diameter	75000.0
+Marinus (crater)	diameter	58000.0
+Messala (crater)	diameter	125000.0
+Nasireddin (crater)	diameter	52000.0
+Vlacq (crater)	diameter	89000.0
+Gilbert (lunar crater)	diameter	107000.0
+Golitsyn (crater)	diameter	36000.0
+Santos-Dumont (crater)	diameter	8000.0
+Dollond (crater)	diameter	11000.0
+Drude (crater)	diameter	24000.0
+Rayleigh (lunar crater)	diameter	107000.0
+Kramarov (crater)	diameter	20000.0
+Maclaurin (crater)	diameter	50000.0
+Maunder (lunar crater)	diameter	55000.0
+Hausen (crater)	diameter	167000.0
+Pettit (lunar crater)	diameter	35000.0
+Schubert (lunar crater)	diameter	54000.0
+Cook (crater)	diameter	47000.0
+Yangel' (crater)	diameter	8000.0
+Wolf (crater)	diameter	25000.0
+Spörer (crater)	diameter	27000.0
+Colombo (crater)	diameter	76000.0
+Crozier (crater)	diameter	22000.0
+Riemann (crater)	diameter	110000.0
+Cysatus (crater)	diameter	49000.0
+Maclear (crater)	diameter	20000.0
+Geissler (crater)	diameter	16000.0
+Galen (crater)	diameter	10000.0
+Gardner (crater)	diameter	18000.0
+Freud (crater)	diameter	2000.0
+Fredholm (crater)	diameter	14000.0
+Franck (crater)	diameter	12000.0
+Feuillée (crater)	diameter	9000.0
+Fabbroni (crater)	diameter	11000.0
+Eckert (crater)	diameter	3000.0
+Elger (crater)	diameter	21000.0
+Esclangon (crater)	diameter	15000.0
+Dechen (crater)	diameter	12000.0
+Dunthorne (crater)	diameter	16000.0
+Daubrée (crater)	diameter	14000.0
+Elmer (crater)	diameter	16000.0
+Haidinger (crater)	diameter	22000.0
+Hall (lunar crater)	diameter	35000.0
+Harding (crater)	diameter	22000.0
+Hargreaves (crater)	diameter	16000.0
+Heinrich (crater)	diameter	6000.0
+Heis (crater)	diameter	14000.0
+Hill (crater)	diameter	16000.0
+Macrobius (crater)	diameter	64000.0
+Hornsby (crater)	diameter	3000.0
+Horrebow (crater)	diameter	24000.0
+Ibn Battuta (crater)	diameter	11000.0
+Kirch (crater)	diameter	11000.0
+Knox-Shaw (crater)	diameter	12000.0
+Kunowsky (lunar crater)	diameter	18000.0
+Lallemand (crater)	diameter	18000.0
+Leakey (crater)	diameter	12000.0
+Lindbergh (crater)	diameter	12000.0
+Matra Durandal	diameter	0.223
+Hadès (missile)	diameter	0.53
+Darwin (lunar crater)	diameter	120000.0
+Focas (lunar crater)	diameter	10000.0
+Gerard (crater)	diameter	90000.0
+Pluton (missile)	diameter	0.65
+AGM-53 Condor	diameter	0.4318
+Raman (crater)	diameter	10000.0
+Rankine (crater)	diameter	8000.0
+Nicollet (crater)	diameter	15000.0
+Peters (crater)	diameter	15000.0
+Piazzi Smyth (crater)	diameter	13000.0
+Morley (crater)	diameter	14000.0
+Demonax (crater)	diameter	114000.0
+Einstein (crater)	diameter	198000.0
+Hecataeus (crater)	diameter	167000.0
+Lagrange (crater)	diameter	225000.0
+Lamarck (crater)	diameter	100000.0
+Le Gentil (crater)	diameter	113000.0
+Drygalski (crater)	diameter	149000.0
+Somerville (crater)	diameter	15000.0
+Theophrastus (crater)	diameter	9000.0
+Van Biesbroeck (crater)	diameter	10000.0
+Virchow (crater)	diameter	17000.0
+Volta (crater)	diameter	123000.0
+Wilhelm (crater)	diameter	107000.0
+Xenophanes (crater)	diameter	125000.0
+Young (crater)	diameter	71000.0
+Cleostratus (crater)	diameter	62000.0
+Nansen (lunar crater)	diameter	104000.0
+Pascal (crater)	diameter	115000.0
+Moiseev (crater)	diameter	59000.0
+Poncelet (crater)	diameter	69000.0
+De Forest (crater)	diameter	57000.0
+Fermi (crater)	diameter	183000.0
+Helmholtz (lunar crater)	diameter	94000.0
+R.550 Magic	diameter	0.157
+Epigenes (crater)	diameter	55000.0
+H. G. Wells (crater)	diameter	114000.0
+Moore (lunar crater)	diameter	54000.0
+Perrine (crater)	diameter	86000.0
+Rayet (crater)	diameter	27000.0
+Sumner (crater)	diameter	50000.0
+Cassegrain (crater)	diameter	55000.0
+Catalán (crater)	diameter	25000.0
+Chaffee (crater)	diameter	49000.0
+Chant (crater)	diameter	33000.0
+Chebyshev (crater)	diameter	178000.0
+Cori (lunar crater)	diameter	65000.0
+Dryden (crater)	diameter	51000.0
+Yakovkin (crater)	diameter	37000.0
+Celsius (crater)	diameter	36000.0
+Coblentz (lunar crater)	diameter	33000.0
+Chrétien (crater)	diameter	88000.0
+Challis (crater)	diameter	56000.0
+Clairaut (crater)	diameter	75000.0
+Clark (lunar crater)	diameter	49000.0
+Carver (crater)	diameter	59000.0
+Crocco (crater)	diameter	75000.0
+Davisson (crater)	diameter	87000.0
+Lorentz (crater)	diameter	312000.0
+Campbell (lunar crater)	diameter	219000.0
+D'Alembert (crater)	diameter	248000.0
+Harkhebi (crater)	diameter	237000.0
+Leibnitz (crater)	diameter	245000.0
+Mendeleev (crater)	diameter	313000.0
+Oppenheimer (crater)	diameter	208000.0
+Pasteur (lunar crater)	diameter	224000.0
+Planck (crater)	diameter	314000.0
+Poczobutt (crater)	diameter	195000.0
+Schwarzschild (crater)	diameter	212000.0
+Bliss (crater)	diameter	20000.0
+Bondarenko (crater)	diameter	30000.0
+De Sitter (crater)	diameter	65000.0
+Courtney (crater)	diameter	1000.0
+Shoemaker (lunar crater)	diameter	50900.0
+De Moraes (crater)	diameter	53000.0
+Cailleux (crater)	diameter	50000.0
+Cajori (crater)	diameter	70000.0
+Cannizzaro (crater)	diameter	56000.0
+Carnot (crater)	diameter	126000.0
+Chadwick (crater)	diameter	30000.0
+Dugan (crater)	diameter	50000.0
+2K12 Kub  9M336 also known as 3M9   1	diameter	0.335
+S-125 Neva/Pechora  V-600   1	diameter	0.375
+2K11 Krug  9M8   1	diameter	0.86
+Chapman (crater)	diameter	71000.0
+Chappell (crater)	diameter	80000.0
+Chevallier (crater)	diameter	52000.0
+Cooper (crater)	diameter	36000.0
+Coriolis (crater)	diameter	78000.0
+Couder (crater)	diameter	21000.0
+Coulomb (crater)	diameter	89000.0
+Crookes (crater)	diameter	49000.0
+Cyrano (crater)	diameter	80000.0
+Debye (crater)	diameter	142000.0
+Dyson (crater)	diameter	63000.0
+G. Bond (crater)	diameter	20000.0
+9K33 Osa  9M33   1	diameter	0.2096
+9K31 Strela-1  9M31   1	diameter	0.12
+9K38 Igla	diameter	0.072
+Buk missile system  9М38   1	diameter	0.4
+Tor missile system  9M330   1	diameter	0.235
+9K35 Strela-10  9M37   1	diameter	0.12
+Faustini (crater)	diameter	39000.0
+Ganswindt (crater)	diameter	74000.0
+Kimura (crater)	diameter	28000.0
+Kircher (crater)	diameter	72000.0
+Lamb (crater)	diameter	106000.0
+Lyman (crater)	diameter	84000.0
+Nearch (crater)	diameter	76000.0
+Petrov (crater)	diameter	49000.0
+Simpelius (crater)	diameter	70000.0
+Stoney (lunar crater)	diameter	45000.0
+Galvani (crater)	diameter	80000.0
+Hertzsprung (crater)	diameter	591000.0
+Langley (crater)	diameter	59000.0
+Stokes (lunar crater)	diameter	51000.0
+Carrington (crater)	diameter	30000.0
+Cichus (crater)	diameter	40000.0
+Dale (crater)	diameter	22000.0
+Debes (crater)	diameter	30000.0
+Foucault (crater)	diameter	23000.0
+Inghirami (crater)	diameter	91000.0
+Plana (crater)	diameter	44000.0
+Robinson (crater)	diameter	24000.0
+Sasserides (crater)	diameter	90000.0
+Swann (crater)	diameter	42000.0
+Heinsius (crater)	diameter	64000.0
+Delmotte (crater)	diameter	32000.0
+Dove (crater)	diameter	30000.0
+Drebbel (crater)	diameter	30000.0
+Grove (crater)	diameter	28000.0
+Hahn (crater)	diameter	84000.0
+Delaunay (crater)	diameter	46000.0
+Champollion (crater)	diameter	58000.0
+Charlier (lunar crater)	diameter	99000.0
+Chernyshev (crater)	diameter	58000.0
+Curie (lunar crater)	diameter	151000.0
+Markov (crater)	diameter	40000.0
+Regnault (crater)	diameter	47000.0
+Repsold (crater)	diameter	107000.0
+Crotale (missile)	diameter	0.165
+Euctemon (crater)	diameter	62000.0
+Moigno (crater)	diameter	37000.0
+Mouchez (crater)	diameter	81000.0
+Petermann (crater)	diameter	73000.0
+RIM-24 Tartar	diameter	0.3429
+Dnepr-1	diameter	3.0
+Malapert	diameter	69000.0
+Hayn (crater)	diameter	87000.0
+Schwabe (crater)	diameter	25000.0
+Il'in (crater)	diameter	13000.0
+Izsak (crater)	diameter	30000.0
+Jarvis (crater)	diameter	38000.0
+Lavoisier (crater)	diameter	70000.0
+Louville (crater)	diameter	36000.0
+Ulugh Beigh (crater)	diameter	54000.0
+Hooke (lunar crater)	diameter	36000.0
+Kirchhoff (crater)	diameter	25000.0
+Lamèch (crater)	diameter	13000.0
+Mason (crater)	diameter	33000.0
+Williams (lunar crater)	diameter	36000.0
+AGM-86 ALCM	diameter	0.6096
+Sparta (rocket)	diameter	1.78
+DF-4	diameter	2.24
+Chandler (crater)	diameter	85000.0
+Chaplygin (crater)	diameter	137000.0
+Comstock (crater)	diameter	72000.0
+Taepodong-1	diameter	1.8
+Dalton (crater)	diameter	60000.0
+Shuckburgh (crater)	diameter	38000.0
+Einthoven (crater)	diameter	69000.0
+Schumacher (crater)	diameter	60000.0
+Voskresenskiy (crater)	diameter	50000.0
+Franz (crater)	diameter	25000.0
+Newcomb (lunar crater)	diameter	39000.0
+Tisserand (crater)	diameter	37000.0
+Eimmart (crater)	diameter	46000.0
+Hubble (crater)	diameter	81000.0
+Lyapunov (crater)	diameter	66000.0
+Liebig (crater)	diameter	37000.0
+Palmieri (crater)	diameter	40000.0
+Vasco da Gama (crater)	diameter	83000.0
+HN-5	diameter	0.072
+Jansky (crater)	diameter	73000.0
+Jenkins (crater)	diameter	38000.0
+Plutarch (crater)	diameter	68000.0
+Seneca (crater)	diameter	46000.0
+Tacchini (crater)	diameter	40000.0
+Urey (crater)	diameter	38000.0
+Gyldén (crater)	diameter	47000.0
+Hartwig (lunar crater)	diameter	80000.0
+Lohrmann (crater)	diameter	31000.0
+Schlüter (crater)	diameter	89000.0
+R-14 Usovaya	diameter	2.4
+R-37 (missile)	diameter	0.38
+Kant (crater)	diameter	32000.0
+Lindsay (crater)	diameter	32000.0
+Magelhaens (lunar crater)	diameter	41000.0
+No 69 grenade	diameter	60000.0
+Houtermans (crater)	diameter	29000.0
+Kapteyn (crater)	diameter	49000.0
+Kästner (crater)	diameter	49000.0
+La Pérouse (crater)	diameter	78000.0
+Kiess (crater)	diameter	63000.0
+Jackson (crater)	diameter	71000.0
+Kreiken	diameter	23000.0
+Von Behring (crater)	diameter	39000.0
+Weierstrass (crater)	diameter	33000.0
+Widmannstätten (crater)	diameter	46000.0
+Chang Heng (crater)	diameter	43000.0
+Chaucer (crater)	diameter	45000.0
+Chauvenet (crater)	diameter	81000.0
+Krasnov (crater)	diameter	42000.0
+Eichstadt (crater)	diameter	49000.0
+Fontana (lunar crater)	diameter	31000.0
+Comrie (crater)	diameter	59000.0
+Henry (lunar crater)	diameter	41000.0
+Cockcroft (crater)	diameter	93000.0
+Henry Frères (crater)	diameter	42000.0
+Van Vleck (crater)	diameter	31000.0
+Vieta (crater)	diameter	87000.0
+Wilkins (crater)	diameter	57000.0
+Krusenstern (crater)	diameter	47000.0
+Faye (crater)	diameter	36000.0
+Weinek (crater)	diameter	32000.0
+Congreve (crater)	diameter	57000.0
+Hagecius (crater)	diameter	76000.0
+McClure (crater)	diameter	24000.0
+Monge (crater)	diameter	37000.0
+MU90 Impact	diameter	0.3237
+Fourier (crater)	diameter	51000.0
+Gibbs (crater)	diameter	76000.0
+Graff (lunar crater)	diameter	36000.0
+Lepaute	diameter	16000.0
+Neander (crater)	diameter	50000.0
+Phillips (lunar crater)	diameter	124000.0
+Piazzi (crater)	diameter	101000.0
+Pontanus (crater)	diameter	58000.0
+Santbech (crater)	diameter	64000.0
+Schorr (crater)	diameter	53000.0
+Wright (lunar crater)	diameter	40000.0
+FIM-43 Redeye	diameter	0.07
+Lagalla (crater)	diameter	85000.0
+Epimenides (crater)	diameter	27000.0
+Gauricus (crater)	diameter	79000.0
+Montanari (crater)	diameter	77000.0
+Weiss (crater)	diameter	66000.0
+Nonius (crater)	diameter	69000.0
+Proctor (lunar crater)	diameter	52000.0
+Saussure (crater)	diameter	54000.0
+Wurzelbauer (crater)	diameter	88000.0
+Goodacre (crater)	diameter	46000.0
+Kaiser (lunar crater)	diameter	52000.0
+Wöhler (crater)	diameter	27000.0
+Lockyer (lunar crater)	diameter	34000.0
+Rothmann (crater)	diameter	42000.0
+Spallanzani (lunar crater)	diameter	32000.0
+Stiborius (crater)	diameter	44000.0
+Lindenau (crater)	diameter	53000.0
+Chappe (crater)	diameter	59000.0
+Fraunhofer (crater)	diameter	56000.0
+Gum (crater)	diameter	55000.0
+Mallet (crater)	diameter	58000.0
+Peirescius (crater)	diameter	62000.0
+Reimarus (crater)	diameter	48000.0
+Vega (crater)	diameter	76000.0
+ERYX	diameter	0.136
+Hamilton (crater)	diameter	57000.0
+Oken (crater)	diameter	72000.0
+Reichenbach (crater)	diameter	71000.0
+Pilâtre (crater)	diameter	50000.0
+AGM-45 Shrike	diameter	8000.0
+Wilson (crater)	diameter	69000.0
+Pentland (crater)	diameter	56000.0
+Short (crater)	diameter	70000.0
+Weigel (crater)	diameter	35000.0
+Gruemberger (crater)	diameter	93000.0
+Gill (lunar crater)	diameter	66000.0
+Ideler (crater)	diameter	38000.0
+Kinau (crater)	diameter	42000.0
+Manzinus (crater)	diameter	98000.0
+Rosenberger (crater)	diameter	96000.0
+Helmert (crater)	diameter	26000.0
+Kao (crater)	diameter	34000.0
+Lebesgue (crater)	diameter	11000.0
+Runge (crater)	diameter	38000.0
+Swasey (crater)	diameter	13000.0
+Talbot (crater)	diameter	11000.0
+Tucker (crater)	diameter	7000.0
+Chalonge (crater)	diameter	30000.0
+Hédervári (crater)	diameter	69000.0
+Nobile (crater)	diameter	73000.0
+Von Braun (crater)	diameter	60000.0
+Harlan (crater)	diameter	65000.0
+Warner (crater)	diameter	35000.0
+MIM-23 Hawk	diameter	0.3683
+AGM-12 Bullpup	diameter	0.4572
+Froelich (crater)	diameter	58000.0
+Ricco (crater)	diameter	65000.0
+Seares (crater)	diameter	110000.0
+Shi Shen (crater)	diameter	43000.0
+Ibn Firnas (crater)	diameter	89000.0
+BL755	diameter	0.419
+Douglass (lunar crater)	diameter	49000.0
+Kulik (crater)	diameter	58000.0
+Neison (crater)	diameter	53000.0
+Dziewulski (crater)	diameter	63000.0
+Jeans (lunar crater)	diameter	79000.0
+Lovell (crater)	diameter	34000.0
+Steklov (crater)	diameter	36000.0
+Kinetic Energy Interceptor	diameter	40000.0
+Gernsback (crater)	diameter	48000.0
+Julienne (crater)	diameter	2000.0
+Van der Waals (crater)	diameter	104000.0
+Von Neumann (crater)	diameter	78000.0
+Nobili (crater)	diameter	42000.0
+Sea Skua	diameter	0.25
+MGM-1 Matador	diameter	1.3716
+Danjon (crater)	diameter	71000.0
+Dante (crater)	diameter	54000.0
+D'Arsonval (crater)	diameter	28000.0
+Lockheed X-17	diameter	1000.0
+Das (crater)	diameter	38000.0
+Delporte (crater)	diameter	45000.0
+De Vries (crater)	diameter	59000.0
+Debus (crater)	diameter	20000.0
+Dellinger (crater)	diameter	81000.0
+Denning (lunar crater)	diameter	44000.0
+Deutsch (crater)	diameter	50000.0
+Dewar (crater)	diameter	50000.0
+Diderot (crater)	diameter	20000.0
+Dirichlet (crater)	diameter	47000.0
+Donna (crater)	diameter	2000.0
+Dobrovol'skiy (crater)	diameter	38000.0
+Donner (crater)	diameter	58000.0
+Dreyer (crater)	diameter	61000.0
+Dufay (crater)	diameter	39000.0
+Dunér (crater)	diameter	62000.0
+Edison (crater)	diameter	62000.0
+Ehrlich (crater)	diameter	30000.0
+Eijkman (crater)	diameter	54000.0
+Ellerman (crater)	diameter	47000.0
+Elvey (crater)	diameter	74000.0
+Emden (crater)	diameter	111000.0
+Engel'gardt	diameter	43000.0
+Eötvös (crater)	diameter	99000.0
+LY-60 / FD-60 / PL10	diameter	0.203
+R-12 Dvina	diameter	1.65
+Erro (crater)	diameter	66000.0
+Esnault-Pelterie (crater)	diameter	79000.0
+Espin (crater)	diameter	75000.0
+Evans (crater)	diameter	67000.0
+HJ-8	diameter	0.12
+HOT (missile)	diameter	0.15
+Evershed (crater)	diameter	66000.0
+Evdokimov (crater)	diameter	50000.0
+Lipskiy (crater)	diameter	80000.0
+Fényi (crater)	diameter	38000.0
+Feoktistov (crater)	diameter	23000.0
+Fersman (crater)	diameter	151000.0
+Fesenkov (lunar crater)	diameter	35000.0
+Finsen (crater)	diameter	72000.0
+Firsov (crater)	diameter	51000.0
+Xenophon (crater)	diameter	25000.0
+Yablochkov (crater)	diameter	99000.0
+Yamamoto (crater)	diameter	76000.0
+Fischer (crater)	diameter	30000.0
+FitzGerald (crater)	diameter	110000.0
+Fleming (crater)	diameter	106000.0
+Florensky (crater)	diameter	71000.0
+Foster (crater)	diameter	33000.0
+Fowler (crater)	diameter	146000.0
+Fox (crater)	diameter	24000.0
+Freundlich (crater)	diameter	85000.0
+Frost (crater)	diameter	75000.0
+Fryxell (crater)	diameter	18000.0
+Astra (missile)	diameter	0.178
+Gadomski (crater)	diameter	65000.0
+Fridman (crater)	diameter	102000.0
+Galois (crater)	diameter	222000.0
+Gamow (crater)	diameter	129000.0
+Garavito (crater)	diameter	74000.0
+Gavrilov (crater)	diameter	60000.0
+Geiger (crater)	diameter	34000.0
+Gerasimovich (crater)	diameter	86000.0
+Ginzel (crater)	diameter	55000.0
+Glauber (crater)	diameter	15000.0
+Mark 54 MAKO Lightweight Torpedo	diameter	0.32385
+Aggregate (rocket family)	diameter	1.65
+BrahMos	diameter	0.6
+Glazenap (crater)	diameter	43000.0
+Golovin (crater)	diameter	46000.0
+Grachev (crater)	diameter	35000.0
+Green (lunar crater)	diameter	65000.0
+GX (rocket)	diameter	3.3
+Sverdrup (crater)	diameter	35000.0
+Wiechert (crater)	diameter	41000.0
+Quetelet (crater)	diameter	55000.0
+Idel'son (crater)	diameter	60000.0
+Ganskiy (crater)	diameter	43000.0
+Grave (crater)	diameter	40000.0
+Grissom (crater)	diameter	58000.0
+Guillaume (crater)	diameter	57000.0
+Guthnick (crater)	diameter	36000.0
+Guyot (crater)	diameter	92000.0
+Atlas V	diameter	3.81
+Mendel (lunar crater)	diameter	138000.0
+Minnaert (crater)	diameter	125000.0
+Numerov (crater)	diameter	113000.0
+Harvey (crater)	diameter	60000.0
+Harden (crater)	diameter	15000.0
+Harriot (crater)	diameter	56000.0
+Hartmann (crater)	diameter	61000.0
+Hagen (crater)	diameter	55000.0
+Hatanaka (crater)	diameter	26000.0
+Omar Khayyam (crater)	diameter	70000.0
+Type 93 Surface-to-air missile	diameter	0.08
+Hayford (crater)	diameter	27000.0
+Healy (crater)	diameter	38000.0
+Hippocrates (lunar crater)	diameter	60000.0
+Hume (crater)	diameter	23000.0
+Hutton (lunar crater)	diameter	50000.0
+Grigg (crater)	diameter	36000.0
+Gregory (lunar crater)	diameter	67000.0
+Helberg (crater)	diameter	62000.0
+Sklodowska (lunar crater)	diameter	127000.0
+Hertz (crater)	diameter	90000.0
+Hogg (crater)	diameter	38000.0
+Holetschek (crater)	diameter	38000.0
+Gullstrand (crater)	diameter	43000.0
+Hirayama (crater)	diameter	132000.0
+Hopmann (crater)	diameter	88000.0
+Ibn Yunus (crater)	diameter	58000.0
+Icarus (crater)	diameter	96000.0
+Type 81 Surface-to-air Missile	diameter	0.16
+Oberth (crater)	diameter	60000.0
+Taurus (rocket)	diameter	2.35
+Sting Ray torpedo	diameter	0.324
+Ghaznavi (missile)	diameter	0.88
+Henderson (crater)	diameter	47000.0
+Hendrix (crater)	diameter	18000.0
+Henyey (crater)	diameter	63000.0
+Lacchini (crater)	diameter	58000.0
+Mach (crater)	diameter	180000.0
+Rynin (crater)	diameter	75000.0
+Segers (crater)	diameter	17000.0
+Seyfert (crater)	diameter	110000.0
+Stoletov (crater)	diameter	42000.0
+Walker (crater)	diameter	32000.0
+Long March 3	diameter	3.35
+Long March 3A	diameter	3.35
+Heyrovsky (crater)	diameter	16000.0
+Houzeau (crater)	diameter	71000.0
+Ingalls (crater)	diameter	37000.0
+Isaev (crater)	diameter	90000.0
+Naro-1	diameter	3.0
+Innes (crater)	diameter	42000.0
+Ioffe (crater)	diameter	86000.0
+Jenner (crater)	diameter	71000.0
+Joule (crater)	diameter	96000.0
+Jules Verne (crater)	diameter	143000.0
+Kamerlingh Onnes (crater)	diameter	66000.0
+Klute (crater)	diameter	75000.0
+Necho (crater)	diameter	30000.0
+Katchalsky (crater)	diameter	32000.0
+Kearons (crater)	diameter	23000.0
+Keeler (lunar crater)	diameter	160000.0
+Koch (crater)	diameter	95000.0
+Rydberg (crater)	diameter	49000.0
+Shuleykin (crater)	diameter	15000.0
+Sidolówka	diameter	0.055
+Filipinka	diameter	53000.0
+Kekulé (crater)	diameter	94000.0
+Kepinski (crater)	diameter	31000.0
+Khvol'son (crater)	diameter	54000.0
+Kleymenov (crater)	diameter	55000.0
+Kolhörster (crater)	diameter	97000.0
+Kovalevskaya (crater)	diameter	115000.0
+McAdie (crater)	diameter	45000.0
+Nöther (crater)	diameter	67000.0
+Pauli (crater)	diameter	84000.0
+Raspletin (crater)	diameter	48000.0
+Stark (crater)	diameter	49000.0
+Kosberg (crater)	diameter	15000.0
+Kidinnu (crater)	diameter	56000.0
+Lomonosov (lunar crater)	diameter	92000.0
+Lowell (lunar crater)	diameter	66000.0
+Merrill (crater)	diameter	57000.0
+Mezentsev (crater)	diameter	89000.0
+Moulton (crater)	diameter	49000.0
+Petzval (crater)	diameter	90000.0
+Poynting (lunar crater)	diameter	128000.0
+Priestley (lunar crater)	diameter	52000.0
+Sommerfeld (crater)	diameter	169000.0
+Stefan (crater)	diameter	125000.0
+Trumpler (lunar crater)	diameter	77000.0
+Patsaev (crater)	diameter	55000.0
+Langevin (crater)	diameter	58000.0
+Vashakidze (crater)	diameter	44000.0
+UR-100	diameter	2.0
+Litke (crater)	diameter	39000.0
+Planté (crater)	diameter	37000.0
+MR-UR-100 Sotka	diameter	2.25
+Volkov (crater)	diameter	40000.0
+UR-100N	diameter	2.5
+Lander (crater)	diameter	40000.0
+RT-21 Temp 2S	diameter	1.79
+Sherrington (crater)	diameter	18000.0
+R-21 (missile)	diameter	1.2
+Schönfeld (crater)	diameter	25000.0
+Kohlschütter (crater)	diameter	53000.0
+Mandel'shtam (crater)	diameter	197000.0
+Winkler (crater)	diameter	22000.0
+Ludwig (crater)	diameter	23000.0
+TR-1 Temp	diameter	1.01
+Vickers Vigilant	diameter	0.12
+Titius (crater)	diameter	73000.0
+Langmuir (crater)	diameter	91000.0
+OTR-23 Oka	diameter	0.89
+Lauritsen (crater)	diameter	52000.0
+Lebedev (crater)	diameter	102000.0
+Lippmann (crater)	diameter	160000.0
+Recht (crater)	diameter	20000.0
+Resnik (crater)	diameter	20000.0
+Richards (lunar crater)	diameter	16000.0
+Richardson (lunar crater)	diameter	141000.0
+Rocca (crater)	diameter	89000.0
+Wróblewski (crater)	diameter	21000.0
+Leeuwenhoek (crater)	diameter	125000.0
+RGZ-89 grenade	diameter	0.058
+Nunn (crater)	diameter	19000.0
+Ostwald (crater)	diameter	104000.0
+Viviani (crater)	diameter	26000.0
+Rutherford (lunar crater)	diameter	13000.0
+Kibal'chich (crater)	diameter	40000.0
+Konoplev (crater)	diameter	25000.0
+Onizuka (crater)	diameter	29000.0
+RIM-8 Talos	diameter	0.7112
+Anza (missile)	diameter	0.072
+Rumford (crater)	diameter	61000.0
+Orlov (crater)	diameter	81000.0
+Nassau (crater)	diameter	76000.0
+Paracelsus (crater)	diameter	83000.0
+Ghauri (missile)	diameter	1.35
+McAuliffe (crater)	diameter	19000.0
+McNair (crater)	diameter	29000.0
+Sundman (crater)	diameter	40000.0
+Sierpinski (crater)	diameter	69000.0
+AGM-129 ACM	diameter	0.7366
+AGM-83 Bulldog	diameter	0.3
+Kurchatov (crater)	diameter	106000.0
+Kostinskiy (crater)	diameter	75000.0
+Konstantinov (crater)	diameter	66000.0
+Millikan (crater)	diameter	98000.0
+Minkowski (crater)	diameter	113000.0
+Neujmin (crater)	diameter	101000.0
+Pogson (crater)	diameter	50000.0
+Love (crater)	diameter	54000.0
+Kuo Shou Ching (crater)	diameter	34000.0
+Subbotin (crater)	diameter	67000.0
+Szilard (crater)	diameter	122000.0
+Wegener (lunar crater)	diameter	88000.0
+9K11 Malyutka	diameter	0.125
+Perepelkin (lunar crater)	diameter	97000.0
+Ley (crater)	diameter	79000.0
+Marconi (crater)	diameter	73000.0
+BGM-109G Ground Launched Cruise Missile	diameter	0.52
+Pannekoek (crater)	diameter	71000.0
+Paschen (crater)	diameter	124000.0
+Saha (crater)	diameter	99000.0
+Stebbins (crater)	diameter	131000.0
+Sisakyan (crater)	diameter	34000.0
+Shirakatsi (crater)	diameter	51000.0
+Nušl (crater)	diameter	61000.0
+Pikel'ner (crater)	diameter	47000.0
+Stetson (crater)	diameter	64000.0
+Tiling (crater)	diameter	38000.0
+Watson (crater)	diameter	64000.0
+F1 grenade (Russia)	diameter	0.055
+RGD-5	diameter	0.058
+RG-42	diameter	0.055
+9K111 Fagot	diameter	0.12
+9M113 Konkurs	diameter	0.135
+Kondratyuk (crater)	diameter	108000.0
+Koval'skiy (crater)	diameter	49000.0
+Kozyrev (crater)	diameter	65000.0
+Krasovskiy (crater)	diameter	59000.0
+Krylov (crater)	diameter	49000.0
+Lampland (lunar crater)	diameter	65000.0
+Langemak (crater)	diameter	97000.0
+Laue (crater)	diameter	87000.0
+Leonov (crater)	diameter	33000.0
+Lents (crater)	diameter	21000.0
+Pavlov (crater)	diameter	148000.0
+Osiris (lunar crater)	diameter	1000.0
+Roche (crater)	diameter	160000.0
+OTR-21 Tochka	diameter	0.65
+SS.10	diameter	0.16
+ENTAC	diameter	0.152
+SS.11	diameter	0.165
+9K115 Metis	diameter	0.094
+Roland (missile)	diameter	0.16
+Taepodong-2	diameter	2000.0
+Larmor (crater)	diameter	97000.0
+Lebedinskiy (crater)	diameter	62000.0
+Leucippus (crater)	diameter	56000.0
+Leuschner (crater)	diameter	49000.0
+Levi-Civita (crater)	diameter	102000.0
+Lobachevskiy (crater)	diameter	84000.0
+Lodygin (crater)	diameter	62000.0
+Malyy (crater)	diameter	41000.0
+Marci (crater)	diameter	25000.0
+Waterman (crater)	diameter	76000.0
+M67 grenade	diameter	0.0635
+Type 10 grenade	diameter	1970.0
+Wan-Hoo (crater)	diameter	52000.0
+Weber (crater)	diameter	42000.0
+Weyl (crater)	diameter	108000.0
+White (crater)	diameter	39000.0
+Wiener (crater)	diameter	120000.0
+Wilsing (crater)	diameter	73000.0
+Winlock (crater)	diameter	65000.0
+Woltjer (crater)	diameter	46000.0
+Wood (crater)	diameter	78000.0
+C-802	diameter	0.36
+Lane (crater)	diameter	55000.0
+Lewis (crater)	diameter	42000.0
+Lucretius (crater)	diameter	63000.0
+Lundmark (crater)	diameter	106000.0
+Van't Hoff (crater)	diameter	92000.0
+Van den Bergh (crater)	diameter	42000.0
+Van den Bos (crater)	diameter	22000.0
+Van Gent (crater)	diameter	43000.0
+Van Maanen (crater)	diameter	60000.0
+Virtanen (crater)	diameter	44000.0
+Von Zeipel (crater)	diameter	83000.0
+Leavitt (crater)	diameter	66000.0
+PL-12	diameter	0.203
+Babur (cruise missile)	diameter	0.52
+Soyuz-U	diameter	10.3
+RGO hand grenade	diameter	0.06
+RGN hand grenade	diameter	0.06
+Mariotte (crater)	diameter	65000.0
+Vavilov (crater)	diameter	98000.0
+Ventris (crater)	diameter	95000.0
+Vening Meinesz (crater)	diameter	87000.0
+Vernadskiy (crater)	diameter	91000.0
+Volterra (crater)	diameter	52000.0
+Von Békésy (crater)	diameter	96000.0
+Maxwell (crater)	diameter	107000.0
+McLaughlin (lunar crater)	diameter	79000.0
+McNally (crater)	diameter	47000.0
+Meitner (lunar crater)	diameter	87000.0
+Mitra (crater)	diameter	92000.0
+Milankovic (lunar crater)	diameter	101000.0
+Mineur (crater)	diameter	73000.0
+Möbius (crater)	diameter	50000.0
+AGM-123 Skipper II	diameter	0.5
+Tiangong (spacecraft)	diameter	3.0
+Maksutov (crater)	diameter	83000.0
+Mechnikov (crater)	diameter	60000.0
+Mills (crater)	diameter	32000.0
+Morse (crater)	diameter	77000.0
+Murakami (crater)	diameter	45000.0
+P-120 Malakhit	diameter	0.762
+AIM-97 Seekbat	diameter	0.3429
+SS.12/AS.12	diameter	0.18
+Rokot	diameter	2.5
+AGM-78 Standard ARM	diameter	0.343
+No. 73 Grenade	diameter	0.0889
+Grom (missile)	diameter	0.072
+RGD-33 grenade	diameter	0.045
+Nagaoka (crater)	diameter	46000.0
+Mees (crater)	diameter	50000.0
+Nernst (crater)	diameter	116000.0
+Niepce (crater)	diameter	57000.0
+Obruchev (crater)	diameter	71000.0
+Olcott (crater)	diameter	81000.0
+Oresme (crater)	diameter	76000.0
+BA 330	diameter	6.7
+H-IIB	diameter	5.2
+Hera (rocket)	diameter	1.32
+Prandtl (crater)	diameter	91000.0
+Paraskevopoulos (crater)	diameter	94000.0
+Parkhurst (crater)	diameter	96000.0
+Parsons (crater)	diameter	40000.0
+Petropavlovsky (crater)	diameter	63000.0
+Pizzetti (crater)	diameter	44000.0
+Petrie (crater)	diameter	33000.0
+Michelson (crater)	diameter	123000.0
+Popov (crater)	diameter	65000.0
+Racah (crater)	diameter	63000.0
+Raimond (crater)	diameter	70000.0
+Ramsay (crater)	diameter	81000.0
+Razumov (crater)	diameter	70000.0
+Roberts (crater)	diameter	89000.0
+Slocum (crater)	diameter	13000.0
+Šafařík (crater)	diameter	27000.0
+Sarton (crater)	diameter	69000.0
+Schlesinger (crater)	diameter	97000.0
+Schneller (crater)	diameter	54000.0
+Sanford (crater)	diameter	55000.0
+Schjellerup (crater)	diameter	62000.0
+Scobee (crater)	diameter	40000.0
+Sharonov (lunar crater)	diameter	74000.0
+Shatalov (crater)	diameter	21000.0
+Slipher (lunar crater)	diameter	69000.0
+Smoluchowski (crater)	diameter	83000.0
+Spencer Jones (crater)	diameter	156000.0
+Stearns (crater)	diameter	36000.0
+Stein (lunar crater)	diameter	33000.0
+Steno (lunar crater)	diameter	31000.0
+Sternfeld (crater)	diameter	100000.0
+Strömgren (crater)	diameter	61000.0
+Tsinger (crater)	diameter	44000.0
+Tsu Chung-Chi (crater)	diameter	28000.0
+Tyndall (lunar crater)	diameter	18000.0
+Falcon 9	diameter	3.66
+Sniadecki (crater)	diameter	43000.0
+Tesla (crater)	diameter	31000.0
+Thiel (crater)	diameter	32000.0
+Thiessen (crater)	diameter	66000.0
+Tikhov (lunar crater)	diameter	83000.0
+Timiryazev (crater)	diameter	53000.0
+Von der Pahlen (crater)	diameter	56000.0
+Mohorovičić (crater)	diameter	51000.0
+Montgolfier (crater)	diameter	88000.0
+Pawsey (crater)	diameter	60000.0
+Pirquet (crater)	diameter	65000.0
+Perkin (crater)	diameter	62000.0
+Plummer (crater)	diameter	73000.0
+Rosseland (crater)	diameter	75000.0
+McKellar (crater)	diameter	51000.0
+McMath (crater)	diameter	86000.0
+Meshcherskiy (crater)	diameter	65000.0
+Morozov (crater)	diameter	42000.0
+Moseley (crater)	diameter	90000.0
+Nobel (crater)	diameter	48000.0
+Papaleksi (crater)	diameter	97000.0
+Parenago (crater)	diameter	93000.0
+Pease (crater)	diameter	38000.0
+Perel'man (crater)	diameter	46000.0
+Polzunov (crater)	diameter	67000.0
+Prager (crater)	diameter	60000.0
+Purkyně (crater)	diameter	48000.0
+Riedel (crater)	diameter	47000.0
+Ritz (crater)	diameter	51000.0
+Röntgen (crater)	diameter	126000.0
+Wyld (crater)	diameter	93000.0
+Schaeberle (lunar crater)	diameter	62000.0
+Schuster (crater)	diameter	108000.0
+Sechenov (crater)	diameter	62000.0
+Seidel (crater)	diameter	62000.0
+Shayn (crater)	diameter	93000.0
+Shternberg (crater)	diameter	70000.0
+Siedentopf (crater)	diameter	61000.0
+Smith (lunar crater)	diameter	34000.0
+Soddy (crater)	diameter	42000.0
+Schliemann (crater)	diameter	80000.0
+St. John (crater)	diameter	68000.0
+Stratton (crater)	diameter	70000.0
+Nijland (crater)	diameter	35000.0
+Tamm (crater)	diameter	38000.0
+Teisserenc (lunar crater)	diameter	62000.0
+Ten Bruggencate (crater)	diameter	59000.0
+Tereshkova (crater)	diameter	31000.0
+Tikhomirov (crater)	diameter	65000.0
+Tiselius (crater)	diameter	53000.0
+Titov (crater)	diameter	31000.0
+Tsander (crater)	diameter	181000.0
+Tseraskiy (crater)	diameter	56000.0
+Valier (crater)	diameter	67000.0
+Vestine (crater)	diameter	96000.0
+Vil'ev (crater)	diameter	45000.0
+Vetchinkin (crater)	diameter	98000.0
+Northrop AQM-38	diameter	0.3048
+Chiron (missile)	diameter	0.08
+DF-5	diameter	3.35
+M26 grenade	diameter	0.057
+R-29RM Shtil	diameter	1.9
+RSM-56 Bulava	diameter	2.0
+S-75 Dvina  V-750   1	diameter	0.7
+Martel (missile)	diameter	0.4
+RBS-15	diameter	0.5
+Long March 2C	diameter	3.35
+UUM-125 Sea Lance	diameter	0.533
+Umkhonto (missile)	diameter	0.18
+AGM-142 Have Nap	diameter	0.533
+LIM-49 Spartan	diameter	1.0922
+9M119 Svir	diameter	0.125
+9M123 Khrizantema	diameter	0.15
+9K121 Vikhr	diameter	0.13
+Moskit	diameter	0.8
+Hatf-I	diameter	0.56
+Abdali-I	diameter	0.56
+Ghauri-II	diameter	1.35
+Satellite Launch Vehicle	diameter	1.0
+AGM-169 Joint Common Missile	diameter	0.178
+Bumper (rocket)	diameter	1.524
+P-800 Oniks	diameter	0.7
+Zenit-3SL	diameter	3.9
+MGM-134 Midgetman	diameter	1.17
+Augmented Satellite Launch Vehicle	diameter	1.0
+Kh-29	diameter	0.38
+Kh-31	diameter	0.36
+Kh-25	diameter	0.275
+Kh-59	diameter	0.38
+Zenit-2M	diameter	3.9
+Cassini (lunar crater)	diameter	57000.0
+Shafrir	diameter	0.16002
+FL-7	diameter	0.54
+DARDO	diameter	1.7
+Barak (missile)	diameter	0.17
+Barak (missile)  Barak 8   1	diameter	27000.0
+Fateh-110	diameter	0.61
+Oghab	diameter	0.23
+Kowsar	diameter	0.18
+LAHAT	diameter	0.105
+Shahab-2	diameter	0.885
+V40 Mini-Grenade	diameter	4000.0
+MGM-52 Lance	diameter	0.56
+Misagh-1	diameter	0.71
+QW-1 Vanguard	diameter	0.071
+Kh-58	diameter	0.38
+M16 mine	diameter	0.102
+HB 876 mine	diameter	0.1
+DF-15	diameter	1.0
+Agni-II	diameter	1.0
+Gabriel (missile)	diameter	0.34
+KS-1 Komet	diameter	1.2
+Saturn INT-21	diameter	10.0
+DF-31	diameter	2.25
+Kh-35	diameter	0.42
+Ares V	diameter	10.0
+Ares I	diameter	5.5
+Zelzal-2	diameter	0.61
+Type 99 grenade	diameter	0.041
+9K720 Iskander	diameter	0.92
+J-600T missile	diameter	0.6
+9K52 Luna-M	diameter	0.54864
+Ingwe (missile)	diameter	0.127
+Type 90 Ship-to-Ship Missile	diameter	0.35
+Atlas III	diameter	3.05
+Type 88 Surface-to-Ship Missile	diameter	0.35
+Saturn INT-20	diameter	10.0
+Type 91 Surface-to-air missile	diameter	0.08
+Geosynchronous Satellite Launch Vehicle Mk III	diameter	4.0
+Super 530	diameter	0.26
+Type 91 Air-to-Ship Missile	diameter	0.35
+Genesis I	diameter	2.54
+Athena (rocket family)	diameter	2.36
+Type 80 Air-to-Ship Missile	diameter	0.35
+Type 93 Air-to-Ship Missile	diameter	0.35
+Tellermine 29	diameter	0.25
+Sagarika (missile)	diameter	0.74
+Otomat	diameter	0.4
+PL-9	diameter	0.157
+Type 99 mine	diameter	0.12
+HJ-9	diameter	0.152
+RPG-43	diameter	0.095
+Saturn II	diameter	10.6
+Martin Marietta Spacemaster	diameter	8.0
+LORA (missile)	diameter	0.61
+Start-1	diameter	1.61
+MKTBT mine	diameter	0.375
+Priroda	diameter	4.35
+SpaceLoft XL	diameter	0.26543
+Ryder (crater)	diameter	17000.0
+VLS-1	diameter	1.01
+Agni (missile)	diameter	1.0
+Dulle Griet	diameter	0.905
+M24 mine	diameter	0.089
+Saturn C-8	diameter	12.19
+Starchaser 4	diameter	1.254
+Saturn-Shuttle	diameter	10.0
+CY-1	diameter	0.4
+DH-10	diameter	0.75
+C-701	diameter	0.18
+TL-6	diameter	0.28
+TL-10	diameter	0.18
+Terne ASW	diameter	0.21
+Minotaur I	diameter	1.67
+H-II	diameter	4.0
+GQM-163 Coyote	diameter	0.35
+Pantsir-S1  57E6   1	diameter	0.17
+Soyuz-2 (rocket)	diameter	2.95
+Soyuz-FG	diameter	10.3
+M84 stun grenade	diameter	0.043942
+ASM-135 ASAT	diameter	0.508
+MGM-18 Lacrosse	diameter	20500.0
+DF-21	diameter	1.4
+Polyot (rocket)	diameter	2.99
+Genesis II	diameter	2.54
+Zenit-2	diameter	3.9
+Cobra (missile)	diameter	0.1
+Type 64 MAT	diameter	0.12
+3M-54 Klub	diameter	0.533
+DCTN F17	diameter	0.55
+SPYDER	diameter	0.16
+A-Darter (missile)	diameter	0.166
+R-Darter (missile)	diameter	0.16
+UUM-44 SUBROC	diameter	0.5334
+TY-90	diameter	0.09
+Mark 14 torpedo	diameter	0.5334
+Spike (missile)	diameter	0.17
+Kh-23	diameter	0.275
+Kh-28	diameter	0.43
+Saturn A-1	diameter	6.52
+Long March 4B	diameter	3.35
+Galaxy (spacecraft)	diameter	3.3
+Jarvis (rocket)	diameter	8.38
+Saturn V-B	diameter	10.06
+Saturn IB-D	diameter	6.61
+Shaheen-II	diameter	1.4
+BILL 1 Anti-tank guided weapon	diameter	0.15
+RS-24	diameter	2.0
+Sundancer	diameter	6.3
+Rehbar-I	diameter	0.42
+Kosmos 1686	diameter	4.15
+AS 15 TT	diameter	0.185
+AS-20	diameter	0.25
+KSR-2 (Russian rocket)	diameter	1.0
+Joint Air-to-Ground Missile	diameter	0.1778
+RPG-6	diameter	0.103
+Nirbhay	diameter	0.52
+RUR-4 Weapon Alpha	diameter	0.32385
+AS.34 Kormoran	diameter	0.344
+Yu-1 torpedo	diameter	0.533
+AS-30L	diameter	0.34
+M20 (missile)	diameter	1.5
+Proton-M	diameter	7.4
+Long March 2D	diameter	3.35
+Rb 05	diameter	0.3
+Taurus II	diameter	3.9
+PL-5	diameter	0.127
+Molniya-M	diameter	2.95
+Thorad-Agena	diameter	2.44
+Atlas I	diameter	3.05
+Thor-Burner	diameter	2.44
+Type 79 Jyu-MAT	diameter	0.153
+RIM-66 Standard	diameter	0.3429
+Ashoura (missile)	diameter	1.2
+Mathogo	diameter	0.102
+GAM-63 RASCAL	diameter	1.2192
+JB-2 Loon	diameter	0.8636
+VB-6 Felix	diameter	0.47244
+McDonnell LBD Gargoyle	diameter	0.508
+GB-4	diameter	0.6096
+GB-8	diameter	0.6096
+R.530	diameter	0.263
+TM-72 mine	diameter	0.25
+T-93 mine	diameter	0.105
+Brazo	diameter	0.2032
+C-602	diameter	0.54
+ABM-1 Galosh	diameter	2.57
+YJ-91	diameter	0.3602
+Indian Ballistic Missile Defense Program  Advanced Air Defence AAD   1	diameter	0.5
+Nag (missile)	diameter	0.19
+Tsyklon-2	diameter	3.0
+Tsyklon-3	diameter	3.0
+Safir (rocket)	diameter	1.25
+FN-6	diameter	72.0
+RIM-161 Standard Missile 3	diameter	0.34
+Juno II	diameter	2.67
+9K115-2 Metis-M	diameter	0.13
+PL-8 (missile)	diameter	0.15
+Sputnik (rocket)	diameter	2.99
+Kosmos-2I	diameter	1.6
+HG 85	diameter	0.065
+Long March 3B	diameter	3.35
+Long March 3C	diameter	3.35
+Long March 4A	diameter	3.35
+Strela (rocket)	diameter	2.5
+Long March 2A	diameter	3.35
+Long March 2E	diameter	3.35
+RIM-174 Standard ERAM	diameter	0.5334
+VS-30	diameter	0.56
+Scout X-2	diameter	1.01
+DF-41	diameter	2.0
+ALV X-1	diameter	1.524
+DM-39 mine	diameter	0.1
+DM-11 mine	diameter	0.3
+TN 753	diameter	54000.0
+Thor-Ablestar	diameter	2.44
+Kugelhandgranate	diameter	0.08
+MAUS mine	diameter	0.089
+Disney bomb	diameter	0.381
+Mortier de 150 mm T Mle 1917 Fabry	diameter	0.15
+20 cm leichter Ladungswerfer	diameter	0.2
+38 cm schwerer Ladungswerfer	diameter	0.38
+Iron Dome	diameter	0.16
+F1 grenade (Australia)	diameter	0.058
+Roketsan Cirit	diameter	0.06985
+Minotaur IV	diameter	2.34
+7.7 cm FK 96	diameter	0.077
+AIM-9 Sidewinder	diameter	0.127
+H-I	diameter	2.44
+N-I (rocket)	diameter	2.44
+N-II (rocket)	diameter	2.44
+UMTAS	diameter	0.16
+Tiangong 1	diameter	2.8
+Tiangong 2	diameter	4.2
+Delilah (missile)	diameter	0.33
+Kosmos-1	diameter	2.4
+Kosmos-3	diameter	2.4
+VEPR	diameter	18000.0
+Type 96 Multi-Purpose Missile System	diameter	0.16
+Sajjil	diameter	1500.0
+Shaurya (missile)	diameter	0.74
+R-29RMU Sineva	diameter	1.9
+Hwasong-6	diameter	0.0
+Saturn V	diameter	10.0584
+ALAS (missile)	diameter	0.175
+Agni-I	diameter	1.0
+Bumbar	diameter	0.136
+Soyuz-U2	diameter	2.95
+Haas (rocket)	diameter	3.6
+ENERGA anti-tank rifle grenade	diameter	0.075
+C-803	diameter	0.36
+NOTS-EV-1 Pilot	diameter	0.76
+Feng Bao 1	diameter	3.35
+Titan IIIA	diameter	3.05
+Titan IIID	diameter	3.05
+Titan IIIE	diameter	3.05
+MA-31	diameter	0.36068
+British 18 inch torpedo	diameter	0.450088
+British 18 inch torpedo  18 inch Mark XIV   1	diameter	0.450088
+RK-55	diameter	0.51
+Bayard 1908	diameter	6000.0
+RB 04	diameter	0.5
+High Velocity Aircraft Rocket	diameter	0.127
+5-Inch Forward Firing Aircraft Rocket	diameter	0.127
+Proton-K	diameter	7.4
+Unha	diameter	2.41
+PAPOP	diameter	0.00556
+CJ-1	diameter	0.533
+YJ-12	diameter	0.3
+M69 grenade	diameter	2500.0
+PL-2	diameter	0.127
+PL-4 (missile)	diameter	0.19
+BM25 Musudan	diameter	1.5
+HQ-61	diameter	0.286
+Soyuz-1 (rocket)	diameter	3.0
+Zenit-3SLB	diameter	3.9
+Zenit-3F	diameter	3.9
+Soyuz (rocket)	diameter	10.3
+Soyuz-L	diameter	10.3
+Soyuz-M	diameter	10.3
+Mercury-Redstone Launch Vehicle	diameter	1.78
+Minotaur V	diameter	1.67
+Titan 23G	diameter	3.05
+Titan II GLV	diameter	3.05
+J-201	diameter	0.1
+Lambda 4S	diameter	0.74
+Atlas LV-3B	diameter	3.048
+Pye Wacket	diameter	1.778
+Z13 torpedo	diameter	0.55
+Al Hussein (missile)	diameter	0.9
+NOTS-EV-2 Caleb	diameter	0.6
+Pumhart von Steyr	diameter	76000.0
+Scout X	diameter	1.02
+Scout X-1	diameter	1.01
+RM-90 Blue Scout II	diameter	1.02
+RM-89 Blue Scout I	diameter	1.02
+Scout X-1A	diameter	1.01
+Mahindra Marksman	diameter	23.75
+SM-70	diameter	0.15
+Torped 613	diameter	0.533
+Scout X-2M	diameter	1.02
+Scout X-2B	diameter	1.02
+61 cm Type 90 torpedo	diameter	0.609
+No. 15 Ball grenade	diameter	0.0762
+No. 6 grenade	diameter	2000.0
+LCAW	diameter	0.1238
+Jupiter (rocket family)	diameter	8.41
+Model 1914 grenade	diameter	0.045
+M17 rifle grenade	diameter	0.057
+Rus-M	diameter	11.6
+Shaheen-I	diameter	1.0
+UGM-89 Perseus	diameter	0.762
+Erlanger (crater)	diameter	9900.0
+Falcon 1e	diameter	1.7
+Long March 6	diameter	2.25
+Harpoon (missile)	diameter	0.33528
+MAR-1	diameter	0.23
+Masurca	diameter	0.406
+VS-40	diameter	1.01
+AN/DRC-8 Emergency Rocket Communications System	diameter	1.6764000000000001
+S3 (missile)	diameter	1.5
+APAV40	diameter	0.04
+AC58	diameter	0.058
+Hermes (missile)	diameter	0.21
+British 21 inch torpedo	diameter	0.5334
+British 21 inch torpedo  21 inch Mark IV   1	diameter	0.5334
+British 21 inch torpedo  21 inch Mark V   1	diameter	0.5334
+British 21 inch torpedo  21 inch Mark VII   1	diameter	0.5334
+British 21 inch torpedo  21 inch Mark 20   1	diameter	21000.0
+M31 HEAT rifle grenade	diameter	66000.0
+Athena I	diameter	2.36
+Athena II	diameter	2.36
+RPK-9 Medvedka	diameter	0.4
+Ibn Bajja (crater)	diameter	12600.0
+Aepinus (crater)	diameter	17500.0
+Bosch (crater)	diameter	18600.0
+Long March 7	diameter	3.35
+MAT-120	diameter	0.12
+Type 3 Chū-SAM	diameter	0.32
+Small Smart Weapon	diameter	0.10795
+Haworth (crater)	diameter	35000.0
+Bigelow Commercial Space Station	diameter	6.7
+Braude (crater)	diameter	10500.0
+Fibiger (crater)	diameter	17700.0
+Florey (crater)	diameter	54700.0
+Gore (crater)	diameter	8500.0
+Grignard (crater)	diameter	12200.0
+Haber (crater)	diameter	55500.0
+Haskin (crater)	diameter	58400.0
+Hevesy (crater)	diameter	49500.0
+Hinshelwood (crater)	diameter	14200.0
+Houssay (crater)	diameter	24500.0
+Kocher (crater)	diameter	21700.0
+Kuhn (crater)	diameter	16000.0
+Laveran (crater)	diameter	12600.0
+Lenard (crater)	diameter	48000.0
+Nefed'ev (crater)	diameter	40200.0
+Svedberg (crater)	diameter	14400.0
+Von Baeyer (crater)	diameter	13800.0
+Wapowski (crater)	diameter	11600.0
+Whipple (crater)	diameter	15700.0
+KM-SAM	diameter	0.275
+MQM-42 Redhead	diameter	0.3
+SSM-N-9 Regulus II	diameter	1.27
+Cai Lun (crater)	diameter	43000.0
+Zhang Yuzhe (crater)	diameter	35000.0
+GBU-53/B	diameter	6000.0
+Bi Sheng (crater)	diameter	55000.0
+Mark 10 torpedo	diameter	0.5334
+BA 2100	diameter	12.6
+KAN Little Joe	diameter	0.577
+Orbital Technologies Commercial Space Station	diameter	3.0
+107mm M1938 mortar	diameter	0.107
+Hawker Siddeley SRAAM	diameter	0.165
+75 mm Gun M1916	diameter	1.4224
+Bold Orion	diameter	0.79
+High Virgo	diameter	0.7874
+Alpha Draco	diameter	0.7874
+Wagtail (missile)	diameter	0.3048
+AQM-127 SLAT	diameter	0.54
+MQR-16 Gunrunner	diameter	0.508
+GTR-18 Smokey Sam	diameter	0.0508
+MQR-13 BMTS	diameter	0.4191
+BOAR (rocket)	diameter	0.7747
+LOCAT	diameter	0.24384
+Torped 62	diameter	0.533
+Ram (rocket)	diameter	0.1651
+Sky Scorcher	diameter	0.4572
+Gimlet (rocket)	diameter	0.0508
+Diamondback (missile)	diameter	0.3048
+Crow (missile)	diameter	0.2032
+Terasca	diameter	0.4572
+Cajun (rocket)	diameter	0.2032
+Shavetail	diameter	0.1524
+3.5-Inch Forward Firing Aircraft Rocket	diameter	0.0889
+2.25-Inch Sub-Caliber Aircraft Rocket	diameter	0.05715
+AGR-14 ZAP	diameter	0.1524
+ASM-A-1 Tarzon	diameter	0.9652
+Liberty (rocket)	diameter	5.4
+AAM-A-1 Firebird	diameter	0.2032
+AA.20	diameter	0.25
+Troposphere (rocket family)	diameter	0.16
+AA.25	diameter	0.25
+Matra M.04	diameter	0.25
+R.511	diameter	0.26
+ASM-N-8 Corvus	diameter	0.48
+Falcon Heavy	diameter	3.66
+Khalij Fars	diameter	0.61
+Black Shark Torpedo	diameter	0.5334
+Prahaar (missile)	diameter	0.42

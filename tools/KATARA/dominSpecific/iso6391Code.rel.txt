@@ -1,0 +1,13 @@
+Norwegian language	iso6391Code	Bokmål
+Norwegian language	iso6391Code	Nynorsk
+Bokmål	iso6391Code	Bokmål
+Bokmål	iso6391Code	Nynorsk
+Nynorsk	iso6391Code	Bokmål
+Nynorsk	iso6391Code	Nynorsk
+Chamorro language	iso6391Code	Ch (digraph)
+Sassarese language	iso6391Code	Sardinian language
+Sassarese language	iso6391Code	Corsican language
+Maithili language	iso6391Code	Bihari languages
+Bhojpuri language	iso6391Code	Bihari languages
+Angika language	iso6391Code	Bihari languages
+Musasa language	iso6391Code	Bihari languages

@@ -1,0 +1,80 @@
+Aspirin	atcSupplemental	,
+Cocaine	atcSupplemental	, ,
+Ketoprofen	atcSupplemental	,
+Methadone	atcSupplemental	,
+Oxycodone	atcSupplemental	(in combinations)
+Scopolamine	atcSupplemental	,
+Paclitaxel	atcSupplemental	(paclitaxel poliglumex)
+Phenytoin	atcSupplemental	,
+Citalopram	atcSupplemental	N06AB10
+Metformin	atcSupplemental	(with sulfonylureas)
+Metformin	atcSupplemental	(with rosiglitazone)
+Metformin	atcSupplemental	(with pioglitazone)
+Metformin	atcSupplemental	(with sitagliptin)
+Metformin	atcSupplemental	(with vildagliptin)
+Neomycin	atcSupplemental	, , , , , , ,
+Diethylstilbestrol	atcSupplemental	,
+Metronidazole	atcSupplemental	, , , , ,
+Dexamethasone	atcSupplemental	, , , , , ,
+Cortisol	atcSupplemental	(and others)
+Diclofenac	atcSupplemental	, ,
+Diphenhydramine	atcSupplemental	,
+Naproxen	atcSupplemental	,
+Benzocaine	atcSupplemental	, , ,
+Clonidine	atcSupplemental	,
+Prednisolone	atcSupplemental	, , , , , , , ,
+Fluticasone	atcSupplemental	&  (topical)
+Fluticasone	atcSupplemental	* (nasal)
+Fluticasone	atcSupplemental	* (inhaled)
+Fluticasone	atcSupplemental	* (furoate)
+Amphotericin B	atcSupplemental	, ,
+Chlorhexidine	atcSupplemental	, , , , , ,
+Promethazine	atcSupplemental	,
+Propylhexedrine	atcSupplemental	?
+Natamycin	atcSupplemental	, , ,
+Indometacin	atcSupplemental	, ,
+Triamcinolone	atcSupplemental	, , , , , ,
+Phenylephrine	atcSupplemental	, , , ,
+Ofloxacin	atcSupplemental	&#32;,,
+Piroxicam	atcSupplemental	,
+Oxymetazoline	atcSupplemental	,
+Clavulanic acid	atcSupplemental	(combinations with penicillins)
+Methylprednisolone	atcSupplemental	, ,
+Beclometasone dipropionate	atcSupplemental	, ,
+Fluticasone propionate	atcSupplemental	&  (topical)
+Fluticasone propionate	atcSupplemental	* (nasal)
+Fluticasone propionate	atcSupplemental	* (inhaled)
+Peginterferon alfa-2a	atcSupplemental	(in combinations)
+Ibritumomab tiuxetan	atcSupplemental	(90Y)
+Amikacin	atcSupplemental	,
+Olmesartan	atcSupplemental	(with diuretics)
+Olmesartan	atcSupplemental	(with amlodipine)
+Fluorometholone	atcSupplemental	, , , ,
+Flurbiprofen	atcSupplemental	, , ,
+Nedocromil	atcSupplemental	,
+Perindopril	atcSupplemental	(with diuretics)
+Perindopril	atcSupplemental	(with amlodipine)
+Azelastine	atcSupplemental	,
+Vildagliptin	atcSupplemental	(with metformin)
+Mometasone furoate	atcSupplemental	, ,
+Idoxuridine	atcSupplemental	,
+Tositumomab	atcSupplemental	(sequential regimen with 131I form)
+Megestrol	atcSupplemental	,
+Lumefantrine	atcSupplemental	(combination with artemether)
+Becaplermin	atcSupplemental	,
+Alimemazine	atcSupplemental	,
+Iobenguane	atcSupplemental	(123I)
+Iobenguane	atcSupplemental	(131I, diagnostic)
+Iobenguane	atcSupplemental	(131I, therapeutic)
+Dienogest	atcSupplemental	(combination with estrogen)
+Technetium (99mTc) exametazime	atcSupplemental	(labelled leucocytes)
+Laropiprant	atcSupplemental	(combination with niacin)
+Panipenem	atcSupplemental	(with betamipron)
+Betamipron	atcSupplemental	(with panipenem)
+Sulfametrole	atcSupplemental	(with trimethoprim)
+Tetroxoprim	atcSupplemental	(with sulfadiazine)
+Fluticasone furoate	atcSupplemental	&
+Medroxyprogesterone 17-acetate	atcSupplemental	,
+Medrogestone	atcSupplemental	(with estrogen)
+Sipuleucel-T	atcSupplemental	AX
+Budesonide	atcSupplemental	, ,

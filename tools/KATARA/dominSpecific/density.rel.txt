@@ -1,0 +1,160 @@
+Adrastea (moon)	density	860.0
+Carme (moon)	density	2600.0
+Earth	density	5515.0
+Lysithea (moon)	density	2600.0
+Mercury (planet)	density	5427.0
+Nereid (moon)	density	1500.0
+Naiad (moon)	density	1300.0
+Venus	density	5204.0
+Jupiter	density	1326.0
+Europa (moon)	density	3010.0
+Triton (moon)	density	2061.0
+Saturn	density	687.0
+Uranus	density	1270.0
+Metis (moon)	density	860.0
+4 Vesta	density	3420.0
+4179 Toutatis	density	2100.0
+253 Mathilde	density	1300.0
+2 Pallas	density	2800.0
+588 Achilles	density	2000.0
+Phobos (moon)	density	1876.0
+Puck (moon)	density	1300.0
+Ganymede (moon)	density	1936.0
+Deimos (moon)	density	1471.0
+Cordelia (moon)	density	1300.0
+Ophelia (moon)	density	1300.0
+Bianca (moon)	density	1300.0
+Cressida (moon)	density	1300.0
+Desdemona (moon)	density	1300.0
+Juliet (moon)	density	1300.0
+Rosalind (moon)	density	1300.0
+Belinda (moon)	density	1300.0
+Thebe (moon)	density	860.0
+Leda (moon)	density	2600.0
+Proteus (moon)	density	1300.0
+141 Lumen	density	1400.0
+Caliban (moon)	density	1300.0
+Elara (moon)	density	2600.0
+Himalia (moon)	density	2600.0
+Himalia (moon)	density	1630.0
+Ananke (moon)	density	2600.0
+Pasiphaë (moon)	density	2600.0
+Sinope (moon)	density	2600.0
+Larissa (moon)	density	1200.0
+20000 Varuna	density	992.0
+5 Astraea	density	3300.0
+944 Hidalgo	density	2000.0
+Themisto (moon)	density	2600.0
+Setebos (moon)	density	1300.0
+21 Lutetia	density	3400.0
+19P/Borrelly	density	300.0
+Portia (moon)	density	1300.0
+Sycorax (moon)	density	1300.0
+Prospero (moon)	density	1300.0
+Thalassa (moon)	density	1200.0
+Despina (moon)	density	1200.0
+Galatea (moon)	density	750.0
+Tempel 1	density	620.0
+2685 Masursky	density	2700.0
+762 Pulcova	density	900.0
+1036 Ganymed	density	2000.0
+Iocaste (moon)	density	2600.0
+Stephano (moon)	density	1300.0
+Trinculo (moon)	density	1300.0
+6489 Golevka	density	2700.0
+(66391) 1999 KW4	density	2000.0
+2984 Chaucer	density	2000.0
+8 Flora	density	3300.0
+37 Fides	density	2000.0
+38 Leda	density	2000.0
+43 Ariadne	density	2700.0
+44 Nysa	density	2000.0
+61 Danaë	density	1100.0
+85 Io	density	1400.0
+100 Hekate	density	2700.0
+101 Helena	density	2000.0
+107 Camilla    1	density	1900.0
+108 Hecuba	density	2700.0
+125 Liberatrix	density	2000.0
+142 Polana	density	2000.0
+143 Adria	density	2000.0
+144 Vibilia	density	2000.0
+146 Lucina	density	2000.0
+147 Protogeneia	density	2000.0
+Perdita (moon)	density	1300.0
+145 Adeona	density	2000.0
+148 Gallia	density	2000.0
+149 Medusa	density	2000.0
+159 Aemilia	density	1400.0
+Cupid (moon)	density	1300.0
+Mab (moon)	density	1300.0
+Francisco (moon)	density	1300.0
+Margaret (moon)	density	1300.0
+Ferdinand (moon)	density	1300.0
+516 Amherstia	density	2000.0
+(6178) 1986 DA	density	5000.0
+Io (moon)	density	3528.0
+532 Herculina	density	4000.0
+244 Sita	density	2700.0
+258 Tyche	density	2700.0
+281 Lucretia	density	2700.0
+291 Alice	density	2700.0
+292 Ludovica	density	2700.0
+324 Bamberga	density	1800.0
+333 Badenia	density	1400.0
+341 California	density	2700.0
+352 Gisela	density	2700.0
+379 Huenna	density	1200.0
+390 Alma	density	2700.0
+501 Urhixidur	density	2000.0
+Makemake (dwarf planet)	density	2000.0
+1998 WW31	density	1500.0
+38628 Huya	density	2000.0
+(47171) 1999 TC36	density	542.0
+2002 Euler	density	2000.0
+617 Patroclus	density	800.0
+4349 Tibúrcio	density	2000.0
+538 Friederike	density	1400.0
+630 Euphemia	density	2700.0
+741 Botolphia	density	2000.0
+804 Hispania	density	4900.0
+817 Annika	density	2700.0
+867 Kovacia	density	1400.0
+1313 Berna	density	1100.0
+(55636) 2002 TX300	density	1000.0
+Hi'iaka (moon)	density	1000.0
+1322 Coppernicus	density	1100.0
+Linus (moon)	density	3400.0
+58534 Logos	density	1000.0
+1999 Hirayama	density	2000.0
+2006 SU49	density	2600.0
+(208996) 2003 AZ84	density	2000.0
+(79360) 1997 CS29	density	2000.0
+2006 XG1	density	2600.0
+(19255) 1994 VK8	density	2000.0
+Geology of Mars	density	3934.0
+(15809) 1994 JS	density	2000.0
+2007 CA19	density	2600.0
+1404 Ajax	density	2000.0
+1437 Diomedes	density	2000.0
+1583 Antilochus	density	2000.0
+1647 Menelaus	density	2000.0
+1749 Telamon	density	2000.0
+2260 Neoptolemus	density	2000.0
+2456 Palamedes	density	2000.0
+2759 Idomeneus	density	2000.0
+2797 Teucer	density	2000.0
+2920 Automedon	density	2000.0
+3063 Makhaon	density	2000.0
+3548 Eurybates	density	2000.0
+3564 Talthybius	density	2000.0
+3709 Polypoites	density	2000.0
+65489 Ceto	density	1370.0
+2003 UZ413	density	2000.0
+Neptune	density	1638.0
+951 Gaspra	density	2700.0
+(145480) 2005 TB190	density	2000.0
+(126154) 2001 YH140	density	2000.0
+(248835) 2006 SX368	density	1000.0
+(55638) 2002 VE95	density	2000.0
+2002 XV93	density	2000.0

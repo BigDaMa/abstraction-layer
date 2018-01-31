@@ -1,0 +1,1424 @@
+Catherine Coleman	mission	STS-73
+Catherine Coleman	mission	STS-93
+Catherine Coleman	mission	Soyuz TMA-20
+Catherine Coleman	mission	Expedition 26
+Catherine Coleman	mission	Expedition 27
+Harrison Schmitt  Harrison Hagan "Jack" Schmitt   1	mission	Apollo 17
+Neil Armstrong	mission	Gemini 8
+Neil Armstrong	mission	Apollo 11
+Tamara E. Jernigan	mission	STS-40
+Tamara E. Jernigan	mission	STS-52
+Tamara E. Jernigan	mission	STS-67
+Tamara E. Jernigan	mission	STS-80
+Tamara E. Jernigan	mission	STS-96
+Yuri Gagarin	mission	Vostok 1
+Roger B. Chaffee	mission	Apollo 1
+Edward Higgins White	mission	Gemini 4
+Edward Higgins White	mission	Apollo 1
+Gus Grissom	mission	Mercury-Redstone 4
+Gus Grissom	mission	Gemini 3
+Gus Grissom	mission	Apollo 1
+Toktar Aubakirov	mission	Soyuz TM-13
+Toktar Aubakirov	mission	Soyuz TM-12
+John Glenn  John Herschel Glenn Jr.   1	mission	Mercury-Atlas 6
+John Glenn  John Herschel Glenn Jr.   1	mission	STS-95
+Sonny Carter	mission	STS-33
+Alan Shepard	mission	Mercury-Redstone 3
+Alan Shepard	mission	Apollo 14
+Vladimir Komarov	mission	Voskhod 1
+Vladimir Komarov	mission	Soyuz 1
+Buzz Aldrin	mission	Gemini 12
+Buzz Aldrin	mission	Apollo 11
+Roberta Bondar	mission	STS-42
+Chris Hadfield	mission	STS-74
+Chris Hadfield	mission	STS-100
+Frank Borman	mission	Gemini 7
+Frank Borman	mission	Apollo 8
+Loren Acton	mission	STS-51-F
+William Anders	mission	Apollo 8
+Christa McAuliffe	mission	STS-51-L
+Sally Ride	mission	STS-7
+Sally Ride	mission	STS-41-G
+Michael Collins (astronaut)	mission	Gemini 10
+Michael Collins (astronaut)	mission	Apollo 11
+Alan Bean	mission	Apollo 12
+Alan Bean	mission	Skylab 3
+Ilan Ramon	mission	STS-107
+Kalpana Chawla	mission	STS-87
+Kalpana Chawla	mission	STS-107
+Rick Husband	mission	STS-96
+Rick Husband	mission	STS-107
+William Cameron McCool	mission	STS-107
+David McDowell Brown	mission	STS-107
+Laurel Clark	mission	STS-107
+Michael P. Anderson	mission	STS-89
+Michael P. Anderson	mission	STS-107
+Ronald McNair	mission	STS-41-B
+Ronald McNair	mission	STS-51-L
+Gregory Jarvis	mission	Space Shuttle Challenger disaster
+Ellison Onizuka	mission	STS-51-C
+Ellison Onizuka	mission	STS-51-L
+Michael J. Smith (astronaut)	mission	Space Shuttle Challenger disaster
+Dick Scobee	mission	STS-41-C
+Dick Scobee	mission	Space Shuttle Challenger disaster
+Ulf Merbold	mission	STS-9
+Ulf Merbold	mission	STS-42
+Ulf Merbold	mission	Soyuz TM-20
+Ulf Merbold	mission	Soyuz TM-19
+Sigmund Jähn	mission	Soyuz 31
+Sigmund Jähn	mission	Soyuz 29
+Marc Garneau	mission	STS-41-G
+Marc Garneau	mission	STS-77
+Marc Garneau	mission	STS-97
+Ulrich Walter	mission	STS-55
+Pete Conrad	mission	Gemini 5
+Pete Conrad	mission	Gemini 11
+Pete Conrad	mission	Apollo 12
+Pete Conrad	mission	Skylab 2
+Svetlana Savitskaya	mission	Soyuz T-7
+Svetlana Savitskaya	mission	Salyut 7
+Svetlana Savitskaya	mission	Soyuz T-5
+Svetlana Savitskaya	mission	Soyuz T-12
+Valentina Tereshkova	mission	Vostok 6
+Gherman Titov	mission	Vostok 2
+Andriyan Nikolayev	mission	Vostok 3
+Andriyan Nikolayev	mission	Soyuz 9
+Valery Bykovsky	mission	Vostok 5
+Valery Bykovsky	mission	Soyuz 22
+Valery Bykovsky	mission	Soyuz 31
+Pavel Popovich	mission	Vostok 4
+Pavel Popovich	mission	Soyuz 14
+Konstantin Feoktistov	mission	Voskhod 1
+Boris Yegorov	mission	Voskhod 1
+Pavel Belyayev	mission	Voskhod 2
+Alexey Leonov	mission	Voskhod 2
+Alexey Leonov	mission	Apollo–Soyuz Test Project
+Georgy Beregovoy	mission	Soyuz 3
+Vladimir Shatalov	mission	Soyuz 4
+Vladimir Shatalov	mission	Soyuz 8
+Vladimir Shatalov	mission	Soyuz 10
+Boris Volynov	mission	Soyuz 5
+Boris Volynov	mission	Soyuz 21
+Yevgeny Khrunov	mission	Soyuz 5
+Yevgeny Khrunov	mission	Soyuz 4
+Aleksei Yeliseyev	mission	Soyuz 5
+Aleksei Yeliseyev	mission	Soyuz 4
+Aleksei Yeliseyev	mission	Soyuz 8
+Aleksei Yeliseyev	mission	Soyuz 10
+Valeri Kubasov	mission	Soyuz 6
+Valeri Kubasov	mission	Apollo–Soyuz Test Project
+Valeri Kubasov	mission	Soyuz 36
+Georgy Shonin	mission	Soyuz 6
+Anatoly Filipchenko	mission	Soyuz 7
+Viktor Gorbatko	mission	Soyuz 7
+Vladislav Volkov	mission	Soyuz 7
+Vladislav Volkov	mission	Soyuz 11
+Vitaly Sevastyanov	mission	Soyuz 9
+Vitaly Sevastyanov	mission	Soyuz 18
+Nikolai Rukavishnikov	mission	Soyuz 10
+Nikolai Rukavishnikov	mission	Soyuz 16
+Nikolai Rukavishnikov	mission	Soyuz 33
+Georgy Dobrovolsky	mission	Soyuz 11
+Viktor Patsayev	mission	Soyuz 11
+Mae Jemison	mission	STS-47
+Oleg Grigoryevich Makarov	mission	Soyuz 12
+Oleg Grigoryevich Makarov	mission	Soyuz 18a
+Oleg Grigoryevich Makarov	mission	Soyuz 27
+Oleg Grigoryevich Makarov	mission	Soyuz 26
+Oleg Grigoryevich Makarov	mission	Soyuz T-3
+Richard Garriott    1	mission	Soyuz TMA-13
+Richard Garriott    1	mission	Soyuz TMA-12
+Eugene Cernan	mission	Gemini 9A
+Eugene Cernan	mission	Apollo 10
+Eugene Cernan	mission	Apollo 17
+John Young (astronaut)	mission	Gemini 3
+John Young (astronaut)	mission	Gemini 10
+John Young (astronaut)	mission	Apollo 10
+John Young (astronaut)	mission	Apollo 16
+John Young (astronaut)	mission	STS-1
+John Young (astronaut)	mission	STS-9
+Edgar Mitchell	mission	Apollo 14
+Judith Resnik	mission	STS-41-D
+Judith Resnik	mission	STS-51-L
+John Casper	mission	STS-36
+John Casper	mission	STS-54
+John Casper	mission	STS-62
+John Casper	mission	STS-77
+Dumitru Prunariu	mission	Soyuz 40
+Jerome Apt	mission	STS-37
+Jerome Apt	mission	STS-47
+Jerome Apt	mission	STS-59
+Jerome Apt	mission	STS-79
+James Irwin	mission	Apollo 15
+Joe F. Edwards, Jr.	mission	STS-89
+David Scott	mission	Gemini 8
+David Scott	mission	Apollo 9
+David Scott	mission	Apollo 15
+Charles Duke	mission	Apollo 16
+Scott Carpenter	mission	Mercury-Atlas 7
+Deke Slayton	mission	Apollo–Soyuz Test Project
+Wally Schirra	mission	Mercury-Atlas 8
+Wally Schirra	mission	Gemini 6A
+Wally Schirra	mission	Apollo 7
+Gordon Cooper	mission	Mercury-Atlas 9
+Gordon Cooper	mission	Gemini 5
+Rusty Schweickart	mission	Apollo 9
+Eileen Collins	mission	STS-63
+Eileen Collins	mission	STS-84
+Eileen Collins	mission	STS-93
+Eileen Collins	mission	STS-114
+Stuart Roosa	mission	Apollo 14
+Yang Liwei	mission	Shenzhou 5
+Vasily Lazarev	mission	Soyuz 12
+Jim Lovell	mission	Gemini 7
+Jim Lovell	mission	Gemini 12
+Jim Lovell	mission	Apollo 8
+Jim Lovell	mission	Apollo 13
+Taylor Wang	mission	STS-51-B
+Pyotr Klimuk	mission	Soyuz 13
+Pyotr Klimuk	mission	Soyuz 18
+Pyotr Klimuk	mission	Soyuz 30
+Valentin Lebedev	mission	Soyuz 13
+Valentin Lebedev	mission	Salyut 7
+Julie Payette	mission	STS-96
+Julie Payette	mission	STS-127
+Yury Artyukhin	mission	Soyuz 14
+Lev Dyomin	mission	Soyuz 15
+Gennadi Sarafanov	mission	Soyuz 15
+Georgy Grechko	mission	Soyuz 17
+Georgy Grechko	mission	Salyut 4
+Georgy Grechko	mission	Salyut 6
+Georgy Grechko	mission	Soyuz 27
+Georgy Grechko	mission	Soyuz T-14
+Georgy Grechko	mission	Salyut 7
+Georgy Grechko	mission	Soyuz T-13
+Aleksei Gubarev	mission	Soyuz 17
+Aleksei Gubarev	mission	Soyuz 28
+Reinhard Furrer	mission	STS-61-A
+Rakesh Sharma	mission	Soyuz T-11
+Rakesh Sharma	mission	Soyuz T-10
+Bill Nelson  Clarence William "Bill" Nelson   1	mission	STS-61-C
+Jack Swigert	mission	Apollo 13
+Fred Haise	mission	Apollo 13
+Fred Haise	mission	Approach and Landing Tests
+Naoko Yamazaki	mission	STS-131
+Andy Thomas	mission	STS-77
+Andy Thomas	mission	STS-89
+Andy Thomas	mission	Mir
+Andy Thomas	mission	STS-91
+Andy Thomas	mission	STS-102
+Andy Thomas	mission	STS-114
+Story Musgrave	mission	STS-6
+Story Musgrave	mission	STS-51-F
+Story Musgrave	mission	STS-33
+Story Musgrave	mission	STS-44
+Story Musgrave	mission	STS-61
+Story Musgrave	mission	STS-80
+Vitaly Zholobov	mission	Soyuz 21
+Robert Thirsk	mission	STS-78
+Robert Thirsk	mission	Soyuz TMA-15
+Robert Thirsk	mission	Expedition 20
+Robert Thirsk	mission	Expedition 21
+Vladimir Dzhanibekov	mission	Soyuz 27
+Vladimir Dzhanibekov	mission	Soyuz 39
+Vladimir Dzhanibekov	mission	Soyuz T-6
+Vladimir Dzhanibekov	mission	Soyuz T-12
+Vladimir Dzhanibekov	mission	Soyuz T-13
+Dennis Tito	mission	Expedition 2#ISS EP-1
+Dennis Tito	mission	Soyuz TM-31
+Talgat Musabayev	mission	Mir EO-16
+Talgat Musabayev	mission	Mir EO-25
+Talgat Musabayev	mission	Expedition 2#ISS EP-1
+Talgat Musabayev	mission	Soyuz TM-31
+Yuri Malenchenko	mission	Soyuz TM-19
+Yuri Malenchenko	mission	STS-106
+Yuri Malenchenko	mission	Soyuz TMA-2
+Yuri Malenchenko	mission	Expedition 7
+Yuri Malenchenko	mission	Soyuz TMA-11
+Yuri Malenchenko	mission	Expedition 16
+Barbara Morgan	mission	STS-118
+Yuri Baturin	mission	Mir EP-4
+Yuri Baturin	mission	Soyuz TM-27
+Yuri Baturin	mission	Expedition 2#ISS EP-1
+Yuri Baturin	mission	Soyuz TM-31
+Robert Crippen	mission	STS-1
+Robert Crippen	mission	STS-7
+Robert Crippen	mission	STS-41-C
+Robert Crippen	mission	STS-41-G
+Guion Bluford	mission	STS-8
+Guion Bluford	mission	STS-61-A
+Guion Bluford	mission	STS-39
+Guion Bluford	mission	STS-53
+Claudie Haigneré	mission	Soyuz TM-24
+Claudie Haigneré	mission	Soyuz TM-23
+Claudie Haigneré	mission	Soyuz TM-33
+Claudie Haigneré	mission	Soyuz TM-32
+Mirosław Hermaszewski	mission	Soyuz 30
+Thomas Akers	mission	STS-41
+Thomas Akers	mission	STS-49
+Thomas Akers	mission	STS-61
+Thomas Akers	mission	STS-79
+Scott Altman	mission	STS-90
+Scott Altman	mission	STS-106
+Scott Altman	mission	STS-109
+Scott Altman	mission	STS-125
+Ed Lu	mission	STS-84
+Ed Lu	mission	STS-106
+Ed Lu	mission	Soyuz TMA-2
+Ed Lu	mission	Expedition 7
+Michael Foale	mission	STS-45
+Michael Foale	mission	STS-56
+Michael Foale	mission	STS-63
+Michael Foale	mission	STS-84
+Michael Foale	mission	List of Mir Expeditions#Mir NASA-4
+Michael Foale	mission	STS-86
+Michael Foale	mission	STS-103
+Michael Foale	mission	Soyuz TMA-3
+Michael Foale	mission	Expedition 8
+Aleksandr Kaleri	mission	Soyuz TM-14
+Aleksandr Kaleri	mission	Soyuz TM-24
+Aleksandr Kaleri	mission	Soyuz TM-30
+Aleksandr Kaleri	mission	Soyuz TMA-3
+Aleksandr Kaleri	mission	Expedition 8
+Aleksandr Kaleri	mission	Soyuz TMA-01M
+Aleksandr Kaleri	mission	Expedition 25
+Aleksandr Kaleri	mission	Expedition 26
+Pedro Duque	mission	STS-95
+Pedro Duque	mission	Soyuz TMA-3
+Pedro Duque	mission	Soyuz TMA-2
+Nikolai Budarin	mission	STS-71
+Nikolai Budarin	mission	Soyuz TM-21
+Nikolai Budarin	mission	Soyuz TM-27
+Nikolai Budarin	mission	STS-113
+Nikolai Budarin	mission	Expedition 6
+Nikolai Budarin	mission	Soyuz TMA-1
+Ken Bowersox	mission	STS-50
+Ken Bowersox	mission	STS-61
+Ken Bowersox	mission	STS-73
+Ken Bowersox	mission	STS-82
+Ken Bowersox	mission	STS-113
+Ken Bowersox	mission	Expedition 6
+Ken Bowersox	mission	Soyuz TMA-1
+Donald Pettit	mission	STS-113
+Donald Pettit	mission	Expedition 6
+Donald Pettit	mission	Soyuz TMA-1
+Donald Pettit	mission	STS-126
+Jim Wetherbee	mission	STS-32
+Jim Wetherbee	mission	STS-52
+Jim Wetherbee	mission	STS-63
+Jim Wetherbee	mission	STS-86
+Jim Wetherbee	mission	STS-102
+Jim Wetherbee	mission	STS-113
+Paul Lockhart	mission	STS-111
+Paul Lockhart	mission	STS-113
+Michael López-Alegría	mission	STS-73
+Michael López-Alegría	mission	STS-92
+Michael López-Alegría	mission	STS-113
+Michael López-Alegría	mission	Soyuz TMA-9
+Michael López-Alegría	mission	Expedition 14
+John Herrington	mission	STS-113
+Sergei Zalyotin	mission	Soyuz TM-30
+Sergei Zalyotin	mission	Soyuz TMA-1
+Sergei Zalyotin	mission	Soyuz TM-34
+Yury Lonchakov	mission	STS-100
+Yury Lonchakov	mission	Soyuz TMA-1
+Yury Lonchakov	mission	Soyuz TM-34
+Yury Lonchakov	mission	Soyuz TMA-13
+Yury Lonchakov	mission	Expedition 18
+Sandra Magnus	mission	STS-112
+Sandra Magnus	mission	STS-126
+Sandra Magnus	mission	Expedition 18
+Sandra Magnus	mission	STS-119
+Sandra Magnus	mission	STS-135
+Piers Sellers	mission	STS-112
+Piers Sellers	mission	STS-121
+Piers Sellers	mission	STS-132
+Pamela Melroy	mission	STS-92
+Pamela Melroy	mission	STS-112
+Pamela Melroy	mission	STS-120
+Jeffrey Ashby	mission	STS-93
+Jeffrey Ashby	mission	STS-100
+Jeffrey Ashby	mission	STS-112
+David Wolf (astronaut)	mission	STS-58
+David Wolf (astronaut)	mission	List of Mir Expeditions
+David Wolf (astronaut)	mission	STS-89
+David Wolf (astronaut)	mission	STS-112
+David Wolf (astronaut)	mission	STS-127
+Kenneth Cockrell	mission	STS-56
+Kenneth Cockrell	mission	STS-69
+Kenneth Cockrell	mission	STS-80
+Kenneth Cockrell	mission	STS-98
+Kenneth Cockrell	mission	STS-111
+Franklin Chang-Diaz	mission	STS-61-C
+Franklin Chang-Diaz	mission	STS-34
+Franklin Chang-Diaz	mission	STS-46
+Franklin Chang-Diaz	mission	STS-60
+Franklin Chang-Diaz	mission	STS-75
+Franklin Chang-Diaz	mission	STS-91
+Franklin Chang-Diaz	mission	STS-111
+Peggy Whitson	mission	STS-111
+Peggy Whitson	mission	Expedition 5
+Peggy Whitson	mission	STS-113
+Peggy Whitson	mission	Soyuz TMA-11
+Peggy Whitson	mission	Expedition 16
+Michael J. Bloomfield	mission	STS-86
+Michael J. Bloomfield	mission	STS-97
+Michael J. Bloomfield	mission	STS-110
+Stephen Frick	mission	STS-110
+Stephen Frick	mission	STS-122
+Abdul Ahad Mohmand	mission	Mir EP-3
+Abdul Ahad Mohmand	mission	Soyuz TM-5
+Jerry L. Ross	mission	STS-61-B
+Jerry L. Ross	mission	STS-27
+Jerry L. Ross	mission	STS-37
+Jerry L. Ross	mission	STS-55
+Jerry L. Ross	mission	STS-74
+Jerry L. Ross	mission	STS-88
+Jerry L. Ross	mission	STS-110
+Dominic L. Pudwill Gorie	mission	STS-91
+Dominic L. Pudwill Gorie	mission	STS-99
+Dominic L. Pudwill Gorie	mission	STS-108
+Dominic L. Pudwill Gorie	mission	STS-123
+Janet L. Kavandi	mission	STS-91
+Janet L. Kavandi	mission	STS-99
+Janet L. Kavandi	mission	STS-104
+Janice E. Voss	mission	STS-57
+Janice E. Voss	mission	STS-63
+Janice E. Voss	mission	STS-83
+Janice E. Voss	mission	STS-94
+Janice E. Voss	mission	STS-99
+James D. Halsell	mission	STS-65
+James D. Halsell	mission	STS-74
+James D. Halsell	mission	STS-83
+James D. Halsell	mission	STS-94
+James D. Halsell	mission	STS-101
+Scott J. Horowitz	mission	STS-75
+Scott J. Horowitz	mission	STS-82
+Scott J. Horowitz	mission	STS-101
+Scott J. Horowitz	mission	STS-105
+Terrence W. Wilcutt	mission	STS-68
+Terrence W. Wilcutt	mission	STS-79
+Terrence W. Wilcutt	mission	STS-89
+Terrence W. Wilcutt	mission	STS-106
+Jeffrey Williams (astronaut)	mission	STS-101
+Jeffrey Williams (astronaut)	mission	Soyuz TMA-8
+Jeffrey Williams (astronaut)	mission	Expedition 13
+Jeffrey Williams (astronaut)	mission	Soyuz TMA-16
+Jeffrey Williams (astronaut)	mission	Expedition 21
+Jeffrey Williams (astronaut)	mission	Expedition 22
+Daniel C. Burbank	mission	STS-106
+Daniel C. Burbank	mission	STS-115
+William S. McArthur	mission	STS-58
+William S. McArthur	mission	STS-74
+William S. McArthur	mission	STS-92
+William S. McArthur	mission	Soyuz TMA-7
+William S. McArthur	mission	Expedition 12
+Marsha Ivins	mission	STS-32
+Marsha Ivins	mission	STS-46
+Marsha Ivins	mission	STS-62
+Marsha Ivins	mission	STS-81
+Marsha Ivins	mission	STS-98
+Jean-François Clervoy	mission	STS-66
+Jean-François Clervoy	mission	STS-84
+Jean-François Clervoy	mission	STS-103
+Maurizio Cheli	mission	STS-75
+Takao Doi	mission	STS-87
+Takao Doi	mission	STS-123
+Umberto Guidoni	mission	STS-75
+Umberto Guidoni	mission	STS-100
+Mamoru Mohri	mission	STS-47
+Mamoru Mohri	mission	STS-99
+Hans Schlegel	mission	STS-55
+Hans Schlegel	mission	STS-122
+Koichi Wakata	mission	STS-72
+Koichi Wakata	mission	STS-92
+Koichi Wakata	mission	STS-119
+Koichi Wakata	mission	Expedition 18
+Koichi Wakata	mission	Expedition 19
+Koichi Wakata	mission	Expedition 20
+Koichi Wakata	mission	STS-127
+Jean-Pierre Haigneré	mission	Soyuz TM-17
+Jean-Pierre Haigneré	mission	List of Mir Expeditions
+Jean-Pierre Haigneré	mission	Soyuz TM-16
+Jean-Pierre Haigneré	mission	Soyuz TM-29
+Kathryn D. Sullivan	mission	STS-41-G
+Kathryn D. Sullivan	mission	STS-31
+Kathryn D. Sullivan	mission	STS-45
+Henry Hartsfield	mission	STS-4
+Henry Hartsfield	mission	STS-41-D
+Henry Hartsfield	mission	STS-61-A
+Michael Coats	mission	STS-41-D
+Michael Coats	mission	STS-29
+Michael Coats	mission	STS-39
+Steven Hawley	mission	STS-41-D
+Steven Hawley	mission	STS-61-C
+Steven Hawley	mission	STS-31
+Steven Hawley	mission	STS-82
+Steven Hawley	mission	STS-93
+Charles D. Walker	mission	STS-41-D
+Charles D. Walker	mission	STS-51-D
+Charles D. Walker	mission	STS-61-B
+Richard Mullane	mission	STS-41-D
+Richard Mullane	mission	STS-27
+Richard Mullane	mission	STS-36
+Frederick Hauck	mission	STS-7
+Frederick Hauck	mission	STS-51-A
+Frederick Hauck	mission	STS-26
+Yelena Kondakova	mission	Soyuz TM-20
+Yelena Kondakova	mission	Mir
+Yelena Kondakova	mission	STS-84
+Shannon Lucid	mission	STS-51-G
+Shannon Lucid	mission	STS-34
+Shannon Lucid	mission	STS-43
+Shannon Lucid	mission	STS-58
+Shannon Lucid	mission	STS-76
+Shannon Lucid	mission	List of Mir Expeditions
+Shannon Lucid	mission	STS-79
+William Shepherd	mission	STS-27
+William Shepherd	mission	STS-41
+William Shepherd	mission	STS-52
+William Shepherd	mission	Soyuz TM-31
+William Shepherd	mission	Expedition 1
+William Shepherd	mission	STS-102
+Richard N. Richards	mission	STS-28
+Richard N. Richards	mission	STS-41
+Richard N. Richards	mission	STS-50
+Richard N. Richards	mission	STS-64
+Joseph P. Allen	mission	STS-5
+Joseph P. Allen	mission	STS-51-A
+Dale Gardner	mission	STS-8
+Dale Gardner	mission	STS-51-A
+Jon McBride	mission	STS-41-G
+David Leestma	mission	STS-41-G
+David Leestma	mission	STS-28
+David Leestma	mission	STS-45
+Paul Scully-Power	mission	STS-41-G
+Loren Shriver	mission	STS-51-C
+Loren Shriver	mission	STS-31
+Loren Shriver	mission	STS-46
+James Buchli	mission	STS-51-C
+James Buchli	mission	STS-61-A
+James Buchli	mission	STS-29
+James Buchli	mission	STS-48
+Gary Payton (astronaut)	mission	STS-51-C
+Karol J. Bobko	mission	STS-6
+Karol J. Bobko	mission	STS-51-D
+Karol J. Bobko	mission	STS-51-J
+Donald E. Williams	mission	STS-51-D
+Donald E. Williams	mission	STS-34
+Bruce McCandless II	mission	STS-41-B
+Bruce McCandless II	mission	STS-31
+Charles F. Bolden, Jr.  Charles Frank "Charlie" Bolden, Jr.   1	mission	STS-61-C
+Charles F. Bolden, Jr.  Charles Frank "Charlie" Bolden, Jr.   1	mission	STS-31
+Charles F. Bolden, Jr.  Charles Frank "Charlie" Bolden, Jr.   1	mission	STS-45
+Charles F. Bolden, Jr.  Charles Frank "Charlie" Bolden, Jr.   1	mission	STS-60
+Joe Engle	mission	X-15#Highest flights
+Joe Engle	mission	X-15#Highest flights
+Joe Engle	mission	X-15#Highest flights
+Joe Engle	mission	Approach and Landing Tests
+Joe Engle	mission	STS-2
+Joe Engle	mission	STS-51-I
+Richard H. Truly	mission	Approach and Landing Tests
+Richard H. Truly	mission	STS-2
+Richard H. Truly	mission	STS-8
+Stephen Robinson	mission	STS-85
+Stephen Robinson	mission	STS-95
+Stephen Robinson	mission	STS-114
+Stephen Robinson	mission	STS-130
+Jack R. Lousma	mission	Skylab 3
+Jack R. Lousma	mission	STS-3
+C. Gordon Fullerton	mission	Approach and Landing Tests
+C. Gordon Fullerton	mission	STS-3
+C. Gordon Fullerton	mission	STS-51-F
+Vance D. Brand	mission	Apollo–Soyuz Test Project
+Vance D. Brand	mission	STS-5
+Vance D. Brand	mission	STS-41-B
+Vance D. Brand	mission	STS-35
+Robert F. Overmyer	mission	STS-5
+Robert F. Overmyer	mission	STS-51-B
+William B. Lenoir	mission	STS-5
+Sultan bin Salman bin Abdul-Aziz Al Saud	mission	STS-51-G
+Richard O. Covey	mission	STS-51-I
+Richard O. Covey	mission	STS-26
+Richard O. Covey	mission	STS-38
+Richard O. Covey	mission	STS-61
+Bjarni Tryggvason	mission	STS-85
+Jan Davis	mission	STS-47
+Jan Davis	mission	STS-60
+Jan Davis	mission	STS-85
+Curtis Brown	mission	STS-47
+Curtis Brown	mission	STS-66
+Curtis Brown	mission	STS-77
+Curtis Brown	mission	STS-85
+Curtis Brown	mission	STS-95
+Curtis Brown	mission	STS-103
+Kent Rominger	mission	STS-73
+Kent Rominger	mission	STS-80
+Kent Rominger	mission	STS-85
+Kent Rominger	mission	STS-96
+Kent Rominger	mission	STS-100
+Robert Curbeam	mission	STS-85
+Robert Curbeam	mission	STS-98
+Robert Curbeam	mission	STS-116
+Steven MacLean (astronaut)	mission	STS-52
+Steven MacLean (astronaut)	mission	STS-115
+Dafydd Williams	mission	STS-90
+Dafydd Williams	mission	STS-118
+Paul J. Weitz	mission	Skylab 2
+Paul J. Weitz	mission	STS-6
+Donald H. Peterson	mission	STS-6
+Norman Thagard	mission	STS-7
+Norman Thagard	mission	STS-51-B
+Norman Thagard	mission	STS-30
+Norman Thagard	mission	STS-42
+Norman Thagard	mission	Soyuz TM-21
+Norman Thagard	mission	List of Mir Expeditions
+Norman Thagard	mission	STS-71
+John M. Fabian	mission	STS-7
+John M. Fabian	mission	STS-51-G
+Daniel Brandenstein	mission	STS-8
+Daniel Brandenstein	mission	STS-51-G
+Daniel Brandenstein	mission	STS-32
+Daniel Brandenstein	mission	STS-49
+William E. Thornton	mission	STS-8
+William E. Thornton	mission	STS-51-B
+Frank De Winne	mission	Soyuz TMA-1
+Frank De Winne	mission	Soyuz TM-34
+Frank De Winne	mission	Soyuz TMA-15
+Frank De Winne	mission	Expedition 20
+Frank De Winne	mission	Expedition 21
+Claude Nicollier	mission	STS-46
+Claude Nicollier	mission	STS-61
+Claude Nicollier	mission	STS-75
+Claude Nicollier	mission	STS-103
+Vladimir Kovalyonok	mission	Soyuz 25
+Vladimir Kovalyonok	mission	Soyuz 29
+Vladimir Kovalyonok	mission	Soyuz T-4
+Richard Hieb	mission	STS-39
+Richard Hieb	mission	STS-49
+Richard Hieb	mission	STS-65
+Brewster H. Shaw	mission	STS-9
+Brewster H. Shaw	mission	STS-61-B
+Brewster H. Shaw	mission	STS-28
+Robert A. Parker	mission	STS-9
+Robert A. Parker	mission	STS-35
+Owen K. Garriott	mission	Skylab 3
+Owen K. Garriott	mission	STS-9
+Byron K. Lichtenberg	mission	STS-9
+Byron K. Lichtenberg	mission	STS-45
+Robert L. Stewart	mission	STS-41-B
+Robert L. Stewart	mission	STS-51-J
+Robert L. Gibson	mission	STS-41-B
+Robert L. Gibson	mission	STS-61-C
+Robert L. Gibson	mission	STS-27
+Robert L. Gibson	mission	STS-47
+Robert L. Gibson	mission	STS-71
+Andrew M. Allen	mission	STS-46
+Andrew M. Allen	mission	STS-62
+Andrew M. Allen	mission	STS-75
+George Nelson (astronaut)	mission	STS-41-C
+George Nelson (astronaut)	mission	STS-61-C
+George Nelson (astronaut)	mission	STS-26
+James van Hoften	mission	STS-41-C
+James van Hoften	mission	STS-51-I
+Terry Hart	mission	STS-41-C
+Margaret Rhea Seddon	mission	STS-51-D
+Margaret Rhea Seddon	mission	STS-40
+Margaret Rhea Seddon	mission	STS-58
+Jeffrey A. Hoffman	mission	STS-51-D
+Jeffrey A. Hoffman	mission	STS-35
+Jeffrey A. Hoffman	mission	STS-46
+Jeffrey A. Hoffman	mission	STS-61
+Jeffrey A. Hoffman	mission	STS-75
+S. David Griggs	mission	STS-51-D
+Jake Garn  Edwin Jacob Garn   1	mission	STS-51-D
+John E. Blaha	mission	STS-29
+John E. Blaha	mission	STS-33
+John E. Blaha	mission	STS-43
+John E. Blaha	mission	STS-58
+John E. Blaha	mission	STS-79
+John E. Blaha	mission	STS-81
+David M. Walker (astronaut)	mission	STS-51-A
+David M. Walker (astronaut)	mission	STS-30
+David M. Walker (astronaut)	mission	STS-53
+David M. Walker (astronaut)	mission	STS-69
+Lodewijk van den Berg	mission	STS-51-B
+Wubbo Ockels	mission	STS-61-A
+Ken Mattingly	mission	Apollo 16
+Ken Mattingly	mission	STS-4
+Ken Mattingly	mission	STS-51-C
+James C. Adamson	mission	STS-28
+James C. Adamson	mission	STS-43
+Viktor Mikhailovich Afanasyev	mission	Soyuz TM-11
+Viktor Mikhailovich Afanasyev	mission	Soyuz TM-18
+Viktor Mikhailovich Afanasyev	mission	Soyuz TM-29
+Viktor Mikhailovich Afanasyev	mission	Soyuz TM-33
+Viktor Mikhailovich Afanasyev	mission	Soyuz TM-32
+James P. Bagian	mission	STS-29
+James P. Bagian	mission	STS-40
+Ellen S. Baker	mission	STS-34
+Ellen S. Baker	mission	STS-50
+Ellen S. Baker	mission	STS-71
+Michael A. Baker	mission	STS-43
+Michael A. Baker	mission	STS-52
+Michael A. Baker	mission	STS-68
+Michael A. Baker	mission	STS-81
+John-David F. Bartoe	mission	STS-51-F
+Daniel T. Barry	mission	STS-72
+Daniel T. Barry	mission	STS-96
+Daniel T. Barry	mission	STS-105
+Patrick Baudry	mission	STS-51-G
+Charles E. Brady, Jr.	mission	STS-78
+Roy D. Bridges, Jr.	mission	STS-51-F
+Mark N. Brown	mission	STS-28
+Mark N. Brown	mission	STS-48
+Daniel W. Bursch	mission	STS-51
+Daniel W. Bursch	mission	STS-68
+Daniel W. Bursch	mission	STS-77
+Daniel W. Bursch	mission	Expedition 4
+Daniel W. Bursch	mission	STS-111
+Robert D. Cabana	mission	STS-41
+Robert D. Cabana	mission	STS-53
+Robert D. Cabana	mission	STS-65
+Robert D. Cabana	mission	STS-88
+Kenneth D. Cameron	mission	STS-37
+Kenneth D. Cameron	mission	STS-56
+Kenneth D. Cameron	mission	STS-74
+Duane G. Carey	mission	STS-109
+Gerald P. Carr	mission	Skylab 4
+Robert J. Cenker	mission	STS-61-C
+Leroy Chiao	mission	STS-65
+Leroy Chiao	mission	STS-72
+Leroy Chiao	mission	STS-92
+Leroy Chiao	mission	Soyuz TMA-5
+Leroy Chiao	mission	Expedition 10
+Kevin P. Chilton	mission	STS-49
+Kevin P. Chilton	mission	STS-59
+Kevin P. Chilton	mission	STS-76
+Mary L. Cleave	mission	STS-61-B
+Mary L. Cleave	mission	STS-30
+John Oliver Creighton	mission	STS-51-G
+John Oliver Creighton	mission	STS-36
+John Oliver Creighton	mission	STS-48
+Michael R. Clifford	mission	STS-53
+Michael R. Clifford	mission	STS-59
+Michael R. Clifford	mission	STS-76
+Roger K. Crouch	mission	STS-83
+Roger K. Crouch	mission	STS-94
+Walter Cunningham	mission	Apollo 7
+Nancy J. Currie	mission	STS-57
+Nancy J. Currie	mission	STS-70
+Nancy J. Currie	mission	STS-88
+Nancy J. Currie	mission	STS-109
+Lawrence J. DeLucas	mission	STS-50
+Brian Duffy (astronaut)	mission	STS-45
+Brian Duffy (astronaut)	mission	STS-57
+Brian Duffy (astronaut)	mission	STS-72
+Brian Duffy (astronaut)	mission	STS-92
+Bonnie J. Dunbar	mission	STS-61-A
+Bonnie J. Dunbar	mission	STS-32
+Bonnie J. Dunbar	mission	STS-50
+Bonnie J. Dunbar	mission	STS-71
+Bonnie J. Dunbar	mission	STS-89
+Samuel T. Durrance	mission	STS-35
+Samuel T. Durrance	mission	STS-67
+Donn F. Eisele	mission	Apollo 7
+Anthony W. England	mission	STS-51-F
+Ronald Evans	mission	Apollo 17
+Léopold Eyharts	mission	Soyuz TM-27
+Léopold Eyharts	mission	Soyuz TM-26
+Léopold Eyharts	mission	STS-122
+Léopold Eyharts	mission	Expedition 16
+Léopold Eyharts	mission	STS-123
+Jean-Jacques Favier	mission	STS-78
+Martin J. Fettman	mission	STS-58
+Patrick G. Forrester	mission	STS-105
+Patrick G. Forrester	mission	STS-117
+Patrick G. Forrester	mission	STS-128
+Dirk Frimout	mission	STS-45
+F. Drew Gaffney	mission	STS-40
+Charles D. Gemar	mission	STS-38
+Charles D. Gemar	mission	STS-48
+Charles D. Gemar	mission	STS-62
+Richard F. Gordon, Jr.	mission	Gemini 11
+Richard F. Gordon, Jr.	mission	Apollo 12
+Edward Gibson	mission	Skylab 4
+Ronald J. Grabe	mission	STS-51-J
+Ronald J. Grabe	mission	STS-30
+Ronald J. Grabe	mission	STS-42
+Ronald J. Grabe	mission	STS-57
+William G. Gregory	mission	STS-67
+Sidney M. Gutierrez	mission	STS-40
+Sidney M. Gutierrez	mission	STS-59
+John M. Grunsfeld	mission	STS-67
+John M. Grunsfeld	mission	STS-81
+John M. Grunsfeld	mission	STS-103
+John M. Grunsfeld	mission	STS-109
+John M. Grunsfeld	mission	STS-125
+Frederick D. Gregory	mission	STS-51-B
+Frederick D. Gregory	mission	STS-33
+Frederick D. Gregory	mission	STS-44
+Linda M. Godwin	mission	STS-37
+Linda M. Godwin	mission	STS-59
+Linda M. Godwin	mission	STS-76
+Linda M. Godwin	mission	STS-108
+Michael L. Gernhardt	mission	STS-69
+Michael L. Gernhardt	mission	STS-83
+Michael L. Gernhardt	mission	STS-94
+Michael L. Gernhardt	mission	STS-104
+André Kuipers	mission	DELTA mission
+André Kuipers	mission	Soyuz TMA-3
+L. Blaine Hammond	mission	STS-39
+L. Blaine Hammond	mission	STS-64
+Gregory J. Harbaugh	mission	STS-39
+Gregory J. Harbaugh	mission	STS-54
+Gregory J. Harbaugh	mission	STS-71
+Gregory J. Harbaugh	mission	STS-82
+Bernard A. Harris, Jr.	mission	STS-55
+Bernard A. Harris, Jr.	mission	STS-63
+Terence T. Henricks	mission	STS-44
+Terence T. Henricks	mission	STS-55
+Terence T. Henricks	mission	STS-70
+Terence T. Henricks	mission	STS-78
+Susan J. Helms	mission	STS-54
+Susan J. Helms	mission	STS-64
+Susan J. Helms	mission	STS-78
+Susan J. Helms	mission	STS-101
+Susan J. Helms	mission	Expedition 2
+Susan J. Helms	mission	STS-105
+David C. Hilmers	mission	STS-51-J
+David C. Hilmers	mission	STS-26
+David C. Hilmers	mission	STS-36
+David C. Hilmers	mission	STS-42
+Kathryn P. Hire	mission	STS-90
+Kathryn P. Hire	mission	STS-130
+Thomas J. Hennen	mission	STS-44
+Charles O. Hobaugh	mission	STS-104
+Charles O. Hobaugh	mission	STS-118
+Charles O. Hobaugh	mission	STS-129
+Millie Hughes-Fulford	mission	STS-40
+Yuri Gidzenko	mission	Soyuz TM-22
+Yuri Gidzenko	mission	List of Mir Expeditions
+Yuri Gidzenko	mission	Soyuz TM-31
+Yuri Gidzenko	mission	Expedition 1
+Yuri Gidzenko	mission	STS-102
+Yuri Gidzenko	mission	Soyuz TM-34
+Yuri Gidzenko	mission	Soyuz TM-33
+Brent W. Jett, Jr.	mission	STS-72
+Brent W. Jett, Jr.	mission	STS-81
+Brent W. Jett, Jr.	mission	STS-97
+Brent W. Jett, Jr.	mission	STS-115
+Mark Shuttleworth	mission	Soyuz TM-34
+Mark Shuttleworth	mission	Soyuz TM-33
+Frank L. Culbertson, Jr.	mission	STS-38
+Frank L. Culbertson, Jr.	mission	STS-51
+Frank L. Culbertson, Jr.	mission	STS-105
+Frank L. Culbertson, Jr.	mission	Expedition 3
+Frank L. Culbertson, Jr.	mission	STS-108
+Thomas David Jones	mission	STS-59
+Thomas David Jones	mission	STS-68
+Thomas David Jones	mission	STS-80
+Thomas David Jones	mission	STS-98
+Franz Viehböck	mission	Soyuz TM-13
+Franz Viehböck	mission	Soyuz TM-12
+Joseph P. Kerwin	mission	Skylab 2
+Kevin R. Kregel	mission	STS-70
+Kevin R. Kregel	mission	STS-78
+Kevin R. Kregel	mission	STS-87
+Kevin R. Kregel	mission	STS-99
+Guy Gardner (astronaut)	mission	STS-27
+Guy Gardner (astronaut)	mission	STS-35
+Scott Kelly (astronaut)	mission	STS-103
+Scott Kelly (astronaut)	mission	STS-118
+Scott Kelly (astronaut)	mission	Expedition 25
+Scott Kelly (astronaut)	mission	Expedition 26
+Mark Kelly (astronaut)	mission	STS-108
+Mark Kelly (astronaut)	mission	STS-121
+Mark Kelly (astronaut)	mission	STS-124
+Mark Kelly (astronaut)	mission	STS-134
+Valery Korzun	mission	Soyuz TM-24
+Valery Korzun	mission	STS-111
+Valery Korzun	mission	Expedition 5
+Valery Korzun	mission	STS-113
+Sergei Krikalev	mission	Mir EO-4
+Sergei Krikalev	mission	List of Mir Expeditions
+Sergei Krikalev	mission	Soyuz TM-13
+Sergei Krikalev	mission	STS-60
+Sergei Krikalev	mission	STS-88
+Sergei Krikalev	mission	Expedition 1
+Sergei Krikalev	mission	STS-102
+Sergei Krikalev	mission	Expedition 11
+Mark C. Lee	mission	STS-30
+Mark C. Lee	mission	STS-47
+Mark C. Lee	mission	STS-64
+Mark C. Lee	mission	STS-82
+Don L. Lind	mission	STS-51-B
+Jerry M. Linenger	mission	STS-64
+Jerry M. Linenger	mission	STS-81
+Jerry M. Linenger	mission	Mir
+Jerry M. Linenger	mission	STS-84
+John M. Lounge	mission	STS-51-I
+John M. Lounge	mission	STS-26
+John M. Lounge	mission	STS-35
+G. David Low	mission	STS-32
+G. David Low	mission	STS-43
+G. David Low	mission	STS-57
+Wendy B. Lawrence	mission	STS-67
+Wendy B. Lawrence	mission	STS-86
+Wendy B. Lawrence	mission	STS-91
+Wendy B. Lawrence	mission	STS-114
+Richard M. Linnehan	mission	STS-78
+Richard M. Linnehan	mission	STS-90
+Richard M. Linnehan	mission	STS-109
+Richard M. Linnehan	mission	STS-123
+Steven Lindsey	mission	STS-87
+Steven Lindsey	mission	STS-95
+Steven Lindsey	mission	STS-104
+Steven Lindsey	mission	STS-121
+Steven Lindsey	mission	STS-133
+Frederick W. Leslie	mission	STS-73
+Gregory T. Linteris	mission	STS-83
+Gregory T. Linteris	mission	STS-94
+James M. Kelly	mission	STS-102
+James M. Kelly	mission	STS-114
+Michael J. McCulley	mission	STS-34
+Donald R. McMonagle	mission	STS-39
+Donald R. McMonagle	mission	STS-54
+Donald R. McMonagle	mission	STS-66
+James McDivitt	mission	Gemini 4
+James McDivitt	mission	Apollo 9
+Carl J. Meade	mission	STS-38
+Carl J. Meade	mission	STS-50
+Carl J. Meade	mission	STS-64
+Bruce E. Melnick	mission	STS-41
+Bruce E. Melnick	mission	STS-49
+Michael J. Massimino	mission	STS-109
+Michael J. Massimino	mission	STS-125
+Richard Mastracchio	mission	STS-106
+Richard Mastracchio	mission	STS-118
+Richard Mastracchio	mission	STS-131
+Lee Morin	mission	STS-110
+Franco Malerba	mission	STS-46
+Ernst Messerschmid	mission	STS-61-A
+Chiaki Mukai	mission	STS-65
+Chiaki Mukai	mission	STS-95
+Boris Morukov	mission	STS-106
+James H. Newman	mission	STS-51
+James H. Newman	mission	STS-69
+James H. Newman	mission	STS-88
+James H. Newman	mission	STS-109
+Steven R. Nagel	mission	STS-51-G
+Steven R. Nagel	mission	STS-61-A
+Steven R. Nagel	mission	STS-37
+Steven R. Nagel	mission	STS-55
+Carlos I. Noriega	mission	STS-84
+Carlos I. Noriega	mission	STS-97
+Rodolfo Neri Vela	mission	STS-61-B
+Stephen S. Oswald	mission	STS-42
+Stephen S. Oswald	mission	STS-56
+Stephen S. Oswald	mission	STS-67
+Ellen Ochoa	mission	STS-56
+Ellen Ochoa	mission	STS-66
+Ellen Ochoa	mission	STS-96
+Ellen Ochoa	mission	STS-110
+Bryan D. O'Connor	mission	STS-61-B
+Bryan D. O'Connor	mission	STS-40
+Yury Onufriyenko	mission	Soyuz TM-23
+Yury Onufriyenko	mission	STS-108
+Yury Onufriyenko	mission	Expedition 4
+Yury Onufriyenko	mission	STS-111
+William R. Pogue	mission	Skylab 4
+Scott E. Parazynski	mission	STS-66
+Scott E. Parazynski	mission	STS-86
+Scott E. Parazynski	mission	STS-95
+Scott E. Parazynski	mission	STS-100
+Scott E. Parazynski	mission	STS-120
+John L. Phillips	mission	STS-100
+John L. Phillips	mission	Soyuz TMA-6
+John L. Phillips	mission	Expedition 11
+John L. Phillips	mission	STS-119
+Mark L. Polansky	mission	STS-98
+Mark L. Polansky	mission	STS-116
+Mark L. Polansky	mission	STS-127
+Charles J. Precourt	mission	STS-55
+Charles J. Precourt	mission	STS-71
+Charles J. Precourt	mission	STS-84
+Charles J. Precourt	mission	STS-91
+Philippe Perrin	mission	STS-111
+William A. Pailes	mission	STS-51-J
+Ronald A. Parise	mission	STS-35
+Ronald A. Parise	mission	STS-67
+James A. Pawelczyk	mission	STS-90
+Gennady Padalka	mission	Soyuz TM-28
+Gennady Padalka	mission	Soyuz TMA-4
+Gennady Padalka	mission	Expedition 9
+Gennady Padalka	mission	Soyuz TMA-14
+Gennady Padalka	mission	Expedition 19
+Gennady Padalka	mission	Expedition 20
+Aleksandr Poleshchuk	mission	Soyuz TM-16
+Thomas Patten Stafford	mission	Gemini 6A
+Thomas Patten Stafford	mission	Gemini 9A
+Thomas Patten Stafford	mission	Apollo 10
+Thomas Patten Stafford	mission	Apollo–Soyuz Test Project
+Kenneth S. Reightler, Jr.	mission	STS-48
+Kenneth S. Reightler, Jr.	mission	STS-60
+Paul W. Richards	mission	STS-102
+William F. Readdy	mission	STS-42
+William F. Readdy	mission	STS-51
+William F. Readdy	mission	STS-79
+James F. Reilly	mission	STS-89
+James F. Reilly	mission	STS-104
+James F. Reilly	mission	STS-117
+Mario Runco, Jr.	mission	STS-44
+Mario Runco, Jr.	mission	STS-54
+Mario Runco, Jr.	mission	STS-77
+Roman Romanenko	mission	Soyuz TMA-15
+Roman Romanenko	mission	Expedition 20
+Roman Romanenko	mission	Expedition 21
+Valery Ryumin	mission	Soyuz 25
+Valery Ryumin	mission	Soyuz 32
+Valery Ryumin	mission	Soyuz 35
+Valery Ryumin	mission	Soyuz 34
+Valery Ryumin	mission	STS-91
+Winston E. Scott	mission	STS-72
+Winston E. Scott	mission	STS-87
+Richard A. Searfoss	mission	STS-58
+Richard A. Searfoss	mission	STS-76
+Richard A. Searfoss	mission	STS-90
+Ronald M. Sega	mission	STS-60
+Ronald M. Sega	mission	STS-76
+Sherwood C. Spring	mission	STS-61-B
+Robert C. Springer	mission	STS-29
+Robert C. Springer	mission	STS-38
+Albert Sacco	mission	STS-73
+Salizhan Sharipov	mission	STS-89
+Salizhan Sharipov	mission	Soyuz TMA-5
+Salizhan Sharipov	mission	Expedition 10
+Anatoly Solovyev	mission	Mir EO-3#Mir EP-2
+Anatoly Solovyev	mission	Soyuz TM-4
+Anatoly Solovyev	mission	Soyuz TM-9
+Anatoly Solovyev	mission	Soyuz TM-15
+Anatoly Solovyev	mission	STS-71
+Anatoly Solovyev	mission	Mir
+Anatoly Solovyev	mission	Soyuz TM-21
+Anatoly Solovyev	mission	Soyuz TM-26
+Gennadi Strekalov	mission	Soyuz T-3
+Gennadi Strekalov	mission	Soyuz T-8
+Gennadi Strekalov	mission	Soyuz T-10-1
+Gennadi Strekalov	mission	Soyuz T-11
+Gennadi Strekalov	mission	Soyuz TM-10
+Gennadi Strekalov	mission	Soyuz TM-21
+Gennadi Strekalov	mission	STS-71
+Steven Smith (astronaut)	mission	STS-68
+Steven Smith (astronaut)	mission	STS-82
+Steven Smith (astronaut)	mission	STS-103
+Steven Smith (astronaut)	mission	STS-110
+Jay C. Buckey	mission	STS-90
+Frederick W. Sturckow	mission	STS-88
+Frederick W. Sturckow	mission	STS-105
+Frederick W. Sturckow	mission	STS-117
+Frederick W. Sturckow	mission	STS-128
+Vladimir Dezhurov	mission	Soyuz TM-21
+Vladimir Dezhurov	mission	STS-71
+Vladimir Dezhurov	mission	STS-105
+Vladimir Dezhurov	mission	Expedition 3
+Vladimir Dezhurov	mission	STS-108
+Kathryn C. Thornton	mission	STS-33
+Kathryn C. Thornton	mission	STS-49
+Kathryn C. Thornton	mission	STS-61
+Kathryn C. Thornton	mission	STS-73
+Pierre J. Thuot	mission	STS-36
+Pierre J. Thuot	mission	STS-49
+Pierre J. Thuot	mission	STS-62
+Joseph R. Tanner	mission	STS-66
+Joseph R. Tanner	mission	STS-82
+Joseph R. Tanner	mission	STS-97
+Joseph R. Tanner	mission	STS-115
+Gerhard Thiele	mission	STS-99
+Michel Tognini	mission	Soyuz TM-15
+Michel Tognini	mission	Soyuz TM-14
+Michel Tognini	mission	STS-93
+Valeri Tokarev	mission	STS-96
+Valeri Tokarev	mission	Soyuz TMA-7
+Valeri Tokarev	mission	Expedition 12
+Vladimir Titov	mission	Soyuz T-8
+Vladimir Titov	mission	Soyuz T-10-1
+Vladimir Titov	mission	Mir EO-3
+Vladimir Titov	mission	Soyuz TM-6
+Vladimir Titov	mission	STS-63
+Vladimir Titov	mission	STS-86
+Daniel M. Tani	mission	STS-108
+Daniel M. Tani	mission	STS-120
+Daniel M. Tani	mission	Expedition 16
+Daniel M. Tani	mission	STS-122
+Eugene H. Trinh	mission	STS-50
+Mikhail Tyurin	mission	STS-105
+Mikhail Tyurin	mission	Expedition 3
+Mikhail Tyurin	mission	STS-108
+Mikhail Tyurin	mission	Soyuz TMA-9
+Mikhail Tyurin	mission	Expedition 14
+Sergei Treshchov	mission	STS-111
+Sergei Treshchov	mission	Expedition 5
+Sergei Treshchov	mission	STS-113
+Yury Usachov	mission	Mir EO-15
+Yury Usachov	mission	Mir EO-21
+Yury Usachov	mission	STS-101
+Yury Usachov	mission	Expedition 2
+Yury Usachov	mission	STS-105
+James S. Voss	mission	STS-44
+James S. Voss	mission	STS-53
+James S. Voss	mission	STS-69
+James S. Voss	mission	STS-101
+James S. Voss	mission	STS-102
+James S. Voss	mission	Expedition 2
+James S. Voss	mission	STS-105
+Charles L. Veach	mission	STS-39
+Charles L. Veach	mission	STS-52
+Roberto Vittori	mission	Soyuz TM-34
+Roberto Vittori	mission	Soyuz TM-33
+Roberto Vittori	mission	Soyuz TMA-6
+Roberto Vittori	mission	Soyuz TMA-5
+Roberto Vittori	mission	STS-134
+Rex J. Walheim	mission	STS-110
+Rex J. Walheim	mission	STS-122
+Rex J. Walheim	mission	STS-135
+Alfred Worden	mission	Apollo 15
+Carl E. Walz	mission	STS-51
+Carl E. Walz	mission	STS-65
+Carl E. Walz	mission	STS-79
+Carl E. Walz	mission	STS-108
+Carl E. Walz	mission	Expedition 4
+Carl E. Walz	mission	STS-111
+Peter Wisoff	mission	STS-57
+Peter Wisoff	mission	STS-68
+Peter Wisoff	mission	STS-81
+Peter Wisoff	mission	STS-92
+Mary E. Weber	mission	STS-70
+Mary E. Weber	mission	STS-101
+Fyodor Yurchikhin	mission	STS-112
+Fyodor Yurchikhin	mission	Expedition 15
+Fyodor Yurchikhin	mission	Expedition 24
+Fyodor Yurchikhin	mission	Expedition 25
+Karl Gordon Henize	mission	STS-51-F
+Donald A. Thomas	mission	STS-65
+Donald A. Thomas	mission	STS-70
+Donald A. Thomas	mission	STS-83
+Donald A. Thomas	mission	STS-94
+Susan Still Kilrain	mission	STS-83
+Susan Still Kilrain	mission	STS-94
+Bertalan Farkas	mission	Soyuz 36
+Bertalan Farkas	mission	Soyuz 35
+Charles Simonyi    1	mission	Soyuz TMA-10
+Charles Simonyi    1	mission	Soyuz TMA-9
+Charles Simonyi    1	mission	Soyuz TMA-14
+Charles Simonyi    1	mission	Soyuz TMA-13
+Brian Binnie	mission	SpaceShipOne flight 17P
+Mike Melvill	mission	SpaceShipOne flight 15P
+Mike Melvill	mission	SpaceShipOne flight 16P
+Michael Fincke	mission	Soyuz TMA-4
+Michael Fincke	mission	Expedition 9
+Michael Fincke	mission	Soyuz TMA-13
+Michael Fincke	mission	Expedition 18
+Michael Fincke	mission	STS-134
+Joseph A. Walker	mission	X-15#Highest flights
+Joseph A. Walker	mission	X-15#Highest flights
+José Hernández (astronaut)	mission	STS-128
+Aleksandr Aleksandrovich Volkov	mission	Soyuz T-14
+Aleksandr Aleksandrovich Volkov	mission	Mir EO-4
+Aleksandr Aleksandrovich Volkov	mission	Soyuz TM-13
+Anatoly Artsebarsky	mission	Soyuz TM-12
+Anatoly Artsebarsky	mission	List of Mir Expeditions
+Phạm Tuân	mission	Soyuz 37
+Phạm Tuân	mission	Soyuz 36
+Jügderdemidiin Gürragchaa	mission	Soyuz 39
+Vladimír Remek	mission	Soyuz 28
+Arnaldo Tamayo Méndez	mission	Soyuz 38
+Georgi Ivanov	mission	Soyuz 33
+Michael J. Adams	mission	X-15 Flight 3-65-97
+Konstantin Kozeyev	mission	Soyuz TM-33
+Konstantin Kozeyev	mission	Soyuz TM-32
+Ivan Bella	mission	Soyuz TM-29
+Ivan Bella	mission	Soyuz TM-28
+Sergei Avdeyev	mission	Soyuz TM-15
+Sergei Avdeyev	mission	Soyuz TM-22
+Sergei Avdeyev	mission	Soyuz TM-28
+Pavel Vinogradov	mission	Soyuz TM-26
+Pavel Vinogradov	mission	Soyuz TMA-8
+Pavel Vinogradov	mission	Expedition 13
+Vasily Tsibliyev	mission	Soyuz TM-17
+Vasily Tsibliyev	mission	Soyuz TM-25
+Aleksandr Lazutkin	mission	Soyuz TM-25
+Reinhold Ewald	mission	Soyuz TM-25
+Reinhold Ewald	mission	Soyuz TM-24
+Thomas Reiter	mission	Soyuz TM-22
+Thomas Reiter	mission	List of Mir Expeditions
+Thomas Reiter	mission	STS-121
+Thomas Reiter	mission	Expedition 13
+Thomas Reiter	mission	Expedition 14
+Thomas Reiter	mission	STS-116
+Aleksandr Viktorenko	mission	Mir EO-2#Mir EP-1
+Aleksandr Viktorenko	mission	Soyuz TM-2
+Aleksandr Viktorenko	mission	Soyuz TM-8
+Aleksandr Viktorenko	mission	Soyuz TM-14
+Aleksandr Viktorenko	mission	Soyuz TM-20
+Valeri Polyakov	mission	Mir EO-3
+Valeri Polyakov	mission	Mir EO-4
+Valeri Polyakov	mission	Soyuz TM-7
+Valeri Polyakov	mission	Mir EO-15
+Valeri Polyakov	mission	Mir EO-16
+Valeri Polyakov	mission	Mir EO-17
+Valeri Polyakov	mission	Soyuz TM-20
+Aleksandr Serebrov	mission	Soyuz T-7
+Aleksandr Serebrov	mission	Soyuz T-8
+Aleksandr Serebrov	mission	Soyuz TM-8
+Aleksandr Serebrov	mission	Soyuz TM-17
+Gennadi Manakov	mission	Soyuz TM-10
+Gennadi Manakov	mission	Soyuz TM-16
+Klaus-Dietrich Flade	mission	Soyuz TM-14
+Klaus-Dietrich Flade	mission	Soyuz TM-13
+Helen Sharman	mission	Soyuz TM-12
+Helen Sharman	mission	Soyuz TM-11
+Musa Manarov	mission	Mir EO-3
+Musa Manarov	mission	Soyuz TM-6
+Musa Manarov	mission	Soyuz TM-11
+Toyohiro Akiyama	mission	Soyuz TM-11
+Toyohiro Akiyama	mission	Soyuz TM-10
+Aleksandr Balandin	mission	Soyuz TM-9
+Aleksandr Panayotov Aleksandrov	mission	Mir EO-3#Mir EP-2
+Aleksandr Panayotov Aleksandrov	mission	Soyuz TM-4
+Aleksandr Pavlovich Aleksandrov	mission	Soyuz T-9
+Aleksandr Pavlovich Aleksandrov	mission	Mir EO-2
+Vladimir Lyakhov	mission	Soyuz 32
+Vladimir Lyakhov	mission	Soyuz T-9
+Vladimir Lyakhov	mission	Mir EP-3
+Vladimir Lyakhov	mission	Soyuz TM-5
+Viktor Savinykh	mission	Soyuz T-4
+Viktor Savinykh	mission	Soyuz T-13
+Viktor Savinykh	mission	Mir EO-3#Mir EP-2
+Viktor Savinykh	mission	Soyuz TM-4
+Anatoli Levchenko	mission	Buran program#Spaceflight of Anatoli Levchenko
+Anatoli Levchenko	mission	Soyuz TM-3
+Muhammed Faris	mission	Mir EO-2#Mir EP-1
+Muhammed Faris	mission	Soyuz TM-2
+Aleksandr Laveykin	mission	Mir EO-2
+Leonid Kizim	mission	Soyuz T-3
+Leonid Kizim	mission	Soyuz T-10
+Leonid Kizim	mission	Soyuz T-15
+Vladimir Vasyutin	mission	Salyut 7 EO-4
+Igor Volk	mission	Soyuz T-12
+Yury Vasilyevich Malyshev	mission	Soyuz T-2
+Yury Vasilyevich Malyshev	mission	Soyuz T-11
+Vladimir Alekseyevich Solovyov	mission	Soyuz T-10
+Vladimir Alekseyevich Solovyov	mission	Soyuz T-15
+Leonid Popov	mission	Soyuz 35
+Leonid Popov	mission	Soyuz 40
+Leonid Popov	mission	Soyuz T-7
+Oleg Atkov	mission	Soyuz T-10
+Oleg Atkov	mission	Soyuz T-11
+Anatoly Berezovoy	mission	Soyuz T-5
+Aleksandr Ivanchenkov	mission	Soyuz 29
+Aleksandr Ivanchenkov	mission	Soyuz T-6
+Vladimir Aksyonov	mission	Soyuz 22
+Vladimir Aksyonov	mission	Soyuz T-2
+Yury Glazkov	mission	Soyuz 24
+Vyacheslav Zudov	mission	Soyuz 23
+Valery Rozhdestvensky	mission	Soyuz 23
+Bill Dana (pilot)	mission	X-15#Highest flights
+William J. Knight	mission	X-15#Highest flights
+Milton Orville Thompson	mission	X-15#Highest flights
+Joseph M. Acaba	mission	STS-119
+William Frederick Fisher	mission	STS-51-I
+Yuri Shargin	mission	Soyuz TMA-5
+Yuri Shargin	mission	Soyuz TMA-4
+John B. McKay	mission	X-15#Highest flights
+Robert A. Rushworth	mission	X-15#Highest flights
+Robert Michael White	mission	X-15#Highest flights
+Liu Boming (astronaut)	mission	Shenzhou 7
+Marcos Pontes	mission	Soyuz TMA-8
+Marcos Pontes	mission	Soyuz TMA-7
+Pratiwi Sudarmono	mission	STS-61-H
+Robert S. Kimbrough	mission	STS-126
+Anna Lee Fisher	mission	STS-51-A
+Leonid Kadeniuk	mission	STS-87
+Soichi Noguchi	mission	STS-114
+Soichi Noguchi	mission	Soyuz TMA-17
+Soichi Noguchi	mission	Expedition 22
+Soichi Noguchi	mission	Expedition 23
+Guy Laliberté    1	mission	Soyuz TMA-16
+Guy Laliberté    1	mission	Soyuz TMA-14
+Christer Fuglesang	mission	STS-116
+Christer Fuglesang	mission	STS-128
+Charles Camarda	mission	STS-114
+Zhai Zhigang	mission	Shenzhou 7
+Nie Haisheng	mission	Shenzhou 6
+Fei Junlong	mission	Shenzhou 6
+Jing Haipeng	mission	Shenzhou 7
+Michael E. Fossum	mission	STS-121
+Michael E. Fossum	mission	STS-124
+Michael E. Fossum	mission	Soyuz TMA-02M
+Michael E. Fossum	mission	Expedition 28
+Stephanie Wilson	mission	STS-121
+Stephanie Wilson	mission	STS-120
+Stephanie Wilson	mission	STS-131
+Lisa Nowak	mission	STS-121
+Gregory Olsen	mission	Soyuz TMA-7
+Gregory Olsen	mission	Soyuz TMA-6
+Sunita Williams	mission	STS-116
+Sunita Williams	mission	Expedition 14
+Sunita Williams	mission	Expedition 15
+Sunita Williams	mission	STS-117
+Kenneth Ham	mission	STS-124
+Kenneth Ham	mission	STS-132
+Eberhard Köllner	mission	Soyuz 31
+Nicholas Patrick	mission	STS-116
+Nicholas Patrick	mission	STS-130
+Yury Romanenko	mission	Salyut 6 EO-1
+Yury Romanenko	mission	Soyuz 27
+Yury Romanenko	mission	Soyuz 38
+Yury Romanenko	mission	Mir EO-2
+Yury Romanenko	mission	Soyuz TM-3
+Christopher Ferguson	mission	STS-115
+Christopher Ferguson	mission	STS-126
+Christopher Ferguson	mission	STS-135
+William Oefelein	mission	STS-116
+Joan Higginbotham	mission	STS-116
+Steven Swanson	mission	STS-117
+Steven Swanson	mission	STS-119
+Lee Archambault	mission	STS-117
+Lee Archambault	mission	STS-119
+Timothy Kopra	mission	STS-127
+Timothy Kopra	mission	Expedition 20
+Timothy Kopra	mission	STS-128
+Douglas H. Wheelock	mission	STS-120
+Douglas H. Wheelock	mission	Soyuz TMA-19
+Douglas H. Wheelock	mission	Expedition 24
+Douglas H. Wheelock	mission	Expedition 25
+James Dutton (astronaut)	mission	STS-131
+Eric Boe	mission	STS-126
+Eric Boe	mission	STS-133
+Gregory H. Johnson	mission	STS-123
+Gregory H. Johnson	mission	STS-134
+Terry W. Virts	mission	STS-130
+Clayton Anderson	mission	STS-117
+Clayton Anderson	mission	Expedition 15
+Clayton Anderson	mission	Expedition 16
+Clayton Anderson	mission	STS-120
+Clayton Anderson	mission	STS-131
+Alan G. Poindexter	mission	STS-122
+Alan G. Poindexter	mission	STS-131
+Michael Foreman	mission	STS-123
+Michael Foreman	mission	STS-129
+John D. Olivas	mission	STS-117
+John D. Olivas	mission	STS-128
+George D. Zamka	mission	STS-120
+George D. Zamka	mission	STS-130
+Heidemarie Stefanyshyn-Piper	mission	STS-115
+Heidemarie Stefanyshyn-Piper	mission	STS-126
+Paolo A. Nespoli	mission	STS-120
+Paolo A. Nespoli	mission	Soyuz TMA-20
+Paolo A. Nespoli	mission	Expedition 26
+Paolo A. Nespoli	mission	Expedition 27
+Oleg Kotov	mission	Soyuz TMA-10
+Oleg Kotov	mission	Expedition 15
+Oleg Kotov	mission	Soyuz TMA-17
+Oleg Kotov	mission	Expedition 22
+Oleg Kotov	mission	Expedition 23
+Stanley G. Love	mission	STS-122
+Leland D. Melvin	mission	STS-122
+Garrett Reisman	mission	STS-123
+Garrett Reisman	mission	Expedition 16
+Garrett Reisman	mission	Expedition 17
+Garrett Reisman	mission	STS-124
+Garrett Reisman	mission	STS-132
+Mikhail Korniyenko	mission	Soyuz TMA-18
+Mikhail Korniyenko	mission	Expedition 23
+Mikhail Korniyenko	mission	Expedition 24
+Andrew J. Feustel	mission	STS-125
+Andrew J. Feustel	mission	STS-134
+Sheikh Muszaphar Shukor	mission	Soyuz TMA-11
+Sheikh Muszaphar Shukor	mission	Soyuz TMA-10
+Dominic A. Antonelli	mission	STS-119
+Dominic A. Antonelli	mission	STS-132
+Gregory C. Johnson	mission	STS-125
+Timothy Creamer	mission	Soyuz TMA-17
+Timothy Creamer	mission	Expedition 22
+Timothy Creamer	mission	Expedition 23
+Gregory Chamitoff	mission	STS-124
+Gregory Chamitoff	mission	Expedition 17
+Gregory Chamitoff	mission	Expedition 18
+Gregory Chamitoff	mission	STS-126
+Gregory Chamitoff	mission	STS-134
+Karen L. Nyberg	mission	STS-124
+K. Megan McArthur	mission	STS-125
+Shannon Walker	mission	Soyuz TMA-19
+Shannon Walker	mission	Expedition 24
+Shannon Walker	mission	Expedition 25
+Dorothy Metcalf-Lindenburger	mission	STS-131
+Nicole Stott	mission	STS-128
+Nicole Stott	mission	Expedition 20
+Nicole Stott	mission	Expedition 21
+Nicole Stott	mission	STS-129
+Nicole Stott	mission	STS-133
+Robert Satcher	mission	STS-129
+Randolph Bresnik	mission	STS-129
+Thomas Marshburn	mission	STS-127
+Christopher Cassidy	mission	STS-127
+Satoshi Furukawa	mission	Soyuz TMA-02M
+Satoshi Furukawa	mission	Expedition 28
+Akihiko Hoshide	mission	STS-124
+Kevin A. Ford	mission	STS-128
+Barry E. Wilmore	mission	STS-129
+Ronald J. Garan, Jr.	mission	STS-124
+Ronald J. Garan, Jr.	mission	Soyuz TMA-21
+Ronald J. Garan, Jr.	mission	Expedition 27
+Ronald J. Garan, Jr.	mission	Expedition 28
+Michael T. Good	mission	STS-125
+Michael T. Good	mission	STS-132
+Michael Barratt (astronaut)	mission	Expedition 19
+Michael Barratt (astronaut)	mission	Expedition 20
+Michael Barratt (astronaut)	mission	STS-133
+Robert L. Behnken	mission	STS-123
+Robert L. Behnken	mission	STS-130
+Stephen Bowen (astronaut)	mission	STS-126
+Stephen Bowen (astronaut)	mission	STS-132
+Stephen Bowen (astronaut)	mission	STS-133
+Alvin Drew	mission	STS-118
+Alvin Drew	mission	STS-133
+Douglas G. Hurley	mission	STS-127
+Douglas G. Hurley	mission	STS-135
+Yi So-Yeon	mission	Soyuz TMA-12
+Yi So-Yeon	mission	Soyuz TMA-11
+Oleg Kononenko	mission	Soyuz TMA-12
+Oleg Kononenko	mission	Expedition 17
+Sergey Alexandrovich Volkov	mission	Soyuz TMA-12
+Sergey Alexandrovich Volkov	mission	Expedition 17
+Sergey Alexandrovich Volkov	mission	Soyuz TMA-02M
+Sergey Alexandrovich Volkov	mission	Expedition 28
+Maksim Surayev	mission	Soyuz TMA-16
+Maksim Surayev	mission	Expedition 21
+Maksim Surayev	mission	Expedition 22
+Richard R. Arnold	mission	STS-119
+Andrei Borisenko	mission	Soyuz TMA-21
+Andrei Borisenko	mission	Expedition 27
+Andrei Borisenko	mission	Expedition 28
+Dmitri Kondratyev	mission	Soyuz TMA-20
+Dmitri Kondratyev	mission	Expedition 26
+Dmitri Kondratyev	mission	Expedition 27
+Oleg Skripochka	mission	Soyuz TMA-01M
+Oleg Skripochka	mission	Expedition 25
+Oleg Skripochka	mission	Expedition 26
+Aleksandr Samokutyayev	mission	Soyuz TMA-21
+Aleksandr Samokutyayev	mission	Expedition 27
+Aleksandr Samokutyayev	mission	Expedition 28
+Aleksandr Aleksandrovich Skvortsov	mission	Soyuz TMA-18
+Aleksandr Aleksandrovich Skvortsov	mission	Expedition 23
+Aleksandr Aleksandrovich Skvortsov	mission	Expedition 24
+Tracy Caldwell Dyson	mission	STS-118
+Tracy Caldwell Dyson	mission	Soyuz TMA-18
+Tracy Caldwell Dyson	mission	Expedition 23
+Tracy Caldwell Dyson	mission	Expedition 24
+Jean-Loup Chrétien	mission	Soyuz T-6
+Jean-Loup Chrétien	mission	Soyuz TM-7
+Jean-Loup Chrétien	mission	Mir EO-4#Mir Aragatz
+Jean-Loup Chrétien	mission	Soyuz TM-6
+Jean-Loup Chrétien	mission	STS-86

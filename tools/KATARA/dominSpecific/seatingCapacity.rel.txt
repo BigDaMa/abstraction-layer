@@ -1,0 +1,1781 @@
+Melbourne Cricket Ground	seatingCapacity	100018
+Dominion Theatre	seatingCapacity	2163
+Globe Theatre	seatingCapacity	3000
+CenturyLink Field	seatingCapacity	67000
+CenturyLink Field	seatingCapacity	35700
+Abbey Theatre	seatingCapacity	600
+Camp Nou	seatingCapacity	99354
+Santiago Bernabéu Stadium	seatingCapacity	80
+Palace Theatre, London	seatingCapacity	1400
+London Palladium	seatingCapacity	2286
+Royal Opera House	seatingCapacity	2268
+South London Theatre	seatingCapacity	96
+South London Theatre	seatingCapacity	30
+Liceu	seatingCapacity	2292
+Croke Park	seatingCapacity	82300
+Crystal Palace National Sports Centre	seatingCapacity	16000
+Lansdowne Road	seatingCapacity	48000
+National Indoor Arena	seatingCapacity	12802
+National Indoor Arena	seatingCapacity	14150
+National Exhibition Centre	seatingCapacity	200000
+National Exhibition Centre  LG Arena   1	seatingCapacity	13928
+National Exhibition Centre  LG Arena   1	seatingCapacity	15643
+Crucible Theatre	seatingCapacity	980
+Seoul World Cup Stadium	seatingCapacity	66806
+De Montfort Hall	seatingCapacity	400
+Estádio do Dragão	seatingCapacity	50399
+Wahconah Park	seatingCapacity	3500
+Windmill Theatre	seatingCapacity	320
+Empire, Leicester Square	seatingCapacity	2000
+Empire, Leicester Square	seatingCapacity	3000
+Ibrox Stadium	seatingCapacity	51082
+Sadler's Wells Theatre	seatingCapacity	1560
+Sadler's Wells Theatre	seatingCapacity	200
+Estádio Municipal de Braga	seatingCapacity	30154
+Aggborough	seatingCapacity	6250
+Villa Park	seatingCapacity	42789
+Bloomsbury Theatre	seatingCapacity	535
+Cochrane Theatre	seatingCapacity	314
+Docklands Stadium	seatingCapacity	53359
+Docklands Stadium	seatingCapacity	56347
+Hampden Park	seatingCapacity	52063
+Maine Road	seatingCapacity	35150
+Maine Road	seatingCapacity	88000
+Old Vic	seatingCapacity	1067
+Comedy Theatre	seatingCapacity	796
+Noël Coward Theatre	seatingCapacity	872
+Duke of York's Theatre	seatingCapacity	640
+Ambassadors Theatre	seatingCapacity	444
+Gielgud Theatre	seatingCapacity	973
+Cotton Bowl (stadium)	seatingCapacity	92100
+Haymarket Theatre	seatingCapacity	888
+Glasgow Royal Concert Hall	seatingCapacity	2475
+Glasgow Royal Concert Hall	seatingCapacity	500
+Glasgow Royal Concert Hall	seatingCapacity	300
+Glasgow Royal Concert Hall	seatingCapacity	300
+Glasgow Royal Concert Hall	seatingCapacity	300
+Glasgow Royal Concert Hall	seatingCapacity	120
+The Tabernacle	seatingCapacity	2600
+Conseco Fieldhouse	seatingCapacity	18165
+Coliseum Theatre	seatingCapacity	2358
+Forbes Field	seatingCapacity	23000
+Letzigrund	seatingCapacity	23605
+Letzigrund	seatingCapacity	48000
+Letzigrund  new stadium   1	seatingCapacity	25000
+Letzigrund  new stadium   1	seatingCapacity	30930
+Letzigrund  new stadium   1	seatingCapacity	30000
+Letzigrund  new stadium   1	seatingCapacity	50000
+Old Trafford	seatingCapacity	75957
+Sportsman's Park	seatingCapacity	8000
+Sportsman's Park	seatingCapacity	18000
+Sportsman's Park	seatingCapacity	34000
+Sportsman's Park	seatingCapacity	30500
+Studio 54	seatingCapacity	1006
+Emirates Stadium	seatingCapacity	60361
+Bristol Old Vic	seatingCapacity	400
+Bristol Old Vic	seatingCapacity	150
+Adelphi Theatre	seatingCapacity	1500
+Café du Monde	seatingCapacity	400
+Pauley Pavilion	seatingCapacity	12829
+Rheinpark Stadion	seatingCapacity	6127
+Pitt Stadium	seatingCapacity	56500
+Manchester Velodrome	seatingCapacity	3500
+Exposition Park (Pittsburgh)	seatingCapacity	16000
+Winter Garden Theatre	seatingCapacity	1526
+Hiram Bithorn Stadium	seatingCapacity	18000
+Old Tivoli	seatingCapacity	21300
+Long Island Arena	seatingCapacity	4000
+Long Island Arena	seatingCapacity	6500
+Robison Field	seatingCapacity	14500
+Robison Field	seatingCapacity	15200
+Robison Field	seatingCapacity	21000
+Semple Stadium	seatingCapacity	53500
+Páirc Uí Chaoimh	seatingCapacity	43500
+Morton H. Meyerson Symphony Center	seatingCapacity	2062
+Nashville Municipal Auditorium	seatingCapacity	9700
+Queen's Theatre	seatingCapacity	1099
+Queen's Theatre	seatingCapacity	1200
+De Grolsch Veste	seatingCapacity	24000
+Arena Manawatu	seatingCapacity	18000
+Galway United F.C.  Terryland Park   1	seatingCapacity	5000
+DKB-Arena	seatingCapacity	17000
+DKB-Arena	seatingCapacity	25500
+DKB-Arena	seatingCapacity	29000
+DKB-Arena	seatingCapacity	25000
+Cathkin Park	seatingCapacity	50000
+Millennium Stadium	seatingCapacity	74500
+Hartwall Areena	seatingCapacity	13349
+Hartwall Areena	seatingCapacity	12000
+Hartwall Areena	seatingCapacity	3000
+Nowlan Park	seatingCapacity	24000
+Mississippi Nights	seatingCapacity	1000
+Panthessaliko Stadium	seatingCapacity	22700
+White City Stadium	seatingCapacity	93000
+Imperial Theatre	seatingCapacity	1417
+Beaver Stadium	seatingCapacity	107282
+Cheney Stadium	seatingCapacity	9600
+Allen Arena	seatingCapacity	5028
+Gateshead International Stadium	seatingCapacity	11800
+Mixed Blood Theatre Company	seatingCapacity	200
+Her Majesty's Theatre	seatingCapacity	1216
+Fir Park	seatingCapacity	13742
+Brann Stadion	seatingCapacity	17317
+Boundary Park	seatingCapacity	10638
+McCoy Stadium	seatingCapacity	10031
+Rice–Eccles Stadium	seatingCapacity	45017
+Stadion Galgenwaard	seatingCapacity	24426
+Massey Hall	seatingCapacity	2752
+Four Seasons Centre	seatingCapacity	2071
+Sony Centre for the Performing Arts	seatingCapacity	3000
+Comédie-Française	seatingCapacity	1100
+Theatre Royal, Newcastle	seatingCapacity	1294
+Dongdaemun Stadium	seatingCapacity	22706
+Apollo Theatre	seatingCapacity	775
+BJK İnönü Stadium	seatingCapacity	32086
+Romanian Athenaeum	seatingCapacity	794
+Aspmyra Stadion	seatingCapacity	7354
+Chukchansi Park	seatingCapacity	12500
+Shaftesbury Theatre	seatingCapacity	1400
+Casa Bonita	seatingCapacity	1100
+Westpac Stadium	seatingCapacity	36000
+Nicollet Park	seatingCapacity	4000
+Open Air Theatre, Regent's Park	seatingCapacity	1200
+Donmar Warehouse	seatingCapacity	251
+Almeida Theatre	seatingCapacity	325
+Battersea Arts Centre	seatingCapacity	500
+Battersea Arts Centre	seatingCapacity	140
+Hippodrome, London	seatingCapacity	1340
+Home Park	seatingCapacity	19500
+Koko (venue)	seatingCapacity	2434
+Koko (venue)	seatingCapacity	1410
+Fitzgerald Theater	seatingCapacity	1058
+Theatre Royal Stratford East	seatingCapacity	460
+Boleyn Ground	seatingCapacity	35303
+Thunder Bay Community Auditorium	seatingCapacity	1511
+Sunderland Empire Theatre	seatingCapacity	2200
+Yager Stadium (Miami University)	seatingCapacity	24286
+Theatre Royal, Drury Lane	seatingCapacity	2196
+New London Theatre	seatingCapacity	1040
+Criterion Theatre	seatingCapacity	588
+Prince Edward Theatre	seatingCapacity	1618
+Princess of Wales Theatre	seatingCapacity	2000
+Constant Vanden Stock Stadium	seatingCapacity	28063
+Constant Vanden Stock Stadium	seatingCapacity	6900
+Palace Theatre, Manchester	seatingCapacity	1955
+UC Santa Barbara Events Center	seatingCapacity	5600
+UC Santa Barbara Events Center	seatingCapacity	5814
+Stadio Flaminio	seatingCapacity	32000
+Pavilion Theatre (Glasgow)	seatingCapacity	1449
+Cambridge Theatre	seatingCapacity	1231
+Prince of Wales Theatre	seatingCapacity	1160
+Yost Ice Arena	seatingCapacity	6637
+Vaudeville Theatre	seatingCapacity	1046
+Vaudeville Theatre	seatingCapacity	690
+Excelsior Stadium	seatingCapacity	10171
+National Opera of Ukraine	seatingCapacity	1683
+The French Laundry	seatingCapacity	60
+Gene Hooks Field at Wake Forest Baseball Park	seatingCapacity	6280
+Aldwych Theatre	seatingCapacity	1200
+Curran Theatre	seatingCapacity	1667
+Queen's Theatre, Hornchurch	seatingCapacity	500
+O2 Apollo Manchester	seatingCapacity	3500
+Stephen Joseph Theatre	seatingCapacity	404
+Stephen Joseph Theatre	seatingCapacity	165
+Saitama Super Arena	seatingCapacity	5000
+Théâtre des Champs-Élysées	seatingCapacity	1905
+Young Vic	seatingCapacity	420
+Young Vic	seatingCapacity	160
+Young Vic	seatingCapacity	80
+Tricycle Theatre	seatingCapacity	235
+Fortune Theatre	seatingCapacity	432
+Dalymount Park	seatingCapacity	12000
+Páirc Uí Rinn	seatingCapacity	18000
+Dell Diamond	seatingCapacity	8722
+Kino Veterans Memorial Stadium	seatingCapacity	11500
+Michigan Theater (Detroit, Michigan)	seatingCapacity	4050
+Savage Arena	seatingCapacity	7300
+Savage Arena	seatingCapacity	8300
+Fitzgerald Stadium	seatingCapacity	43000
+Dean Court	seatingCapacity	10700
+Landmark Theater (Richmond, Virginia)	seatingCapacity	3565
+Kings Theatre (Brooklyn, New York)	seatingCapacity	3676
+Haas Pavilion	seatingCapacity	11877
+Headingley Stadium	seatingCapacity	20500
+University of Dayton Arena	seatingCapacity	13455
+HK Arena	seatingCapacity	11
+HK Arena	seatingCapacity	820
+Ericsson Globe	seatingCapacity	13850
+Ericsson Globe	seatingCapacity	16000
+Old Rep	seatingCapacity	383
+Don Haskins Center	seatingCapacity	12222
+Alaska Airlines Arena at Hec Edmundson Pavilion	seatingCapacity	10000
+Alaska Airlines Arena at Hec Edmundson Pavilion	seatingCapacity	7900
+Alaska Airlines Arena at Hec Edmundson Pavilion	seatingCapacity	12961
+Herb Brooks Arena	seatingCapacity	7700
+Virginia Beach Sportsplex	seatingCapacity	6000
+Yuva Bharati Krirangan	seatingCapacity	120000
+Bojangles' Coliseum	seatingCapacity	9605
+Dix Stadium	seatingCapacity	20500
+Dix Stadium	seatingCapacity	29287
+Dix Stadium	seatingCapacity	30520
+Vaught–Hemingway Stadium	seatingCapacity	60580
+Memorial Stadium (Seattle)	seatingCapacity	12000
+Memorial Stadium (Seattle)	seatingCapacity	17000
+Teatro Massimo	seatingCapacity	1
+Chiles Center	seatingCapacity	4852
+Beasley Coliseum	seatingCapacity	11566
+Plough Lane	seatingCapacity	15876
+Harder Stadium	seatingCapacity	17000
+Surprise Stadium	seatingCapacity	10500
+Tempe Diablo Stadium	seatingCapacity	9785
+Scottsdale Stadium	seatingCapacity	12000
+Jackie Robinson Ballpark    1	seatingCapacity	4200
+O'Brien Field	seatingCapacity	7500
+Kansas Coliseum	seatingCapacity	12200
+Great Lakes Sports City Superior Arena	seatingCapacity	3400
+Selland Arena	seatingCapacity	11300
+Garrett Coliseum	seatingCapacity	13500
+Viaero Event Center	seatingCapacity	5000
+Howard J. Lamade Stadium	seatingCapacity	40000
+Estadio Mestalla	seatingCapacity	55000
+Nottingham Playhouse	seatingCapacity	770
+Wade Stadium	seatingCapacity	4200
+Estadio Azul	seatingCapacity	35161
+Stade 19 Mai 1956	seatingCapacity	50000
+Olympic Stadium (Phnom Penh)	seatingCapacity	50000
+Estadio Tres de Marzo	seatingCapacity	30015
+Healy Park	seatingCapacity	18500
+Mark Taper Forum	seatingCapacity	739
+Bloomfield Road	seatingCapacity	16220
+Turners Cross (stadium)	seatingCapacity	7385
+Canon Theatre	seatingCapacity	2200
+Bootham Crescent	seatingCapacity	7872
+Bren Events Center	seatingCapacity	4984
+Bren Events Center	seatingCapacity	5430
+Bren Events Center	seatingCapacity	5608
+Dudy Noble Field, Polk-DeMent Stadium	seatingCapacity	15000
+Birmingham Hippodrome	seatingCapacity	1935
+New Alexandra Theatre	seatingCapacity	1347
+Fortune Theatre, Dunedin	seatingCapacity	227
+Fortune Theatre, Dunedin	seatingCapacity	104
+Dallas Sportatorium	seatingCapacity	4500
+Majestic Theatre (Broadway)	seatingCapacity	1655
+Lerkendal Stadion	seatingCapacity	21116
+Yarrow Stadium	seatingCapacity	30000
+Jermyn Street Theatre	seatingCapacity	70
+London Velopark	seatingCapacity	6000
+London Velopark	seatingCapacity	6000
+Brunton Park	seatingCapacity	16980
+Finborough Theatre	seatingCapacity	50
+Lyceum Theatre (Sheffield)	seatingCapacity	1068
+El Molinón	seatingCapacity	29538
+Community Field	seatingCapacity	3200
+Nelson W. Wolff Municipal Stadium	seatingCapacity	9200
+Salem Memorial Baseball Stadium	seatingCapacity	6300
+L. P. Frans Stadium	seatingCapacity	5092
+Grayson Stadium	seatingCapacity	8000
+Howard Johnson Field	seatingCapacity	3800
+Gaelic Grounds	seatingCapacity	49500
+Estadio de Béisbol Monterrey	seatingCapacity	27000
+Estadio Monumental Isidro Romero Carbo	seatingCapacity	59283
+Alexander Stadium	seatingCapacity	12700
+Atlantic Theater Company	seatingCapacity	165
+The Muny	seatingCapacity	11000
+Stade François Coty	seatingCapacity	12000
+Loew's Jersey Theatre	seatingCapacity	3021
+Walnut Street Theatre	seatingCapacity	1054
+Walter Pyramid	seatingCapacity	5000
+Alex G. Spanos Center	seatingCapacity	6150
+Vicente Calderón Stadium	seatingCapacity	54851
+Bristol Hippodrome	seatingCapacity	1951
+June 11 Stadium	seatingCapacity	67000
+Patriot Stadium	seatingCapacity	3000
+Estádio Fonte Nova	seatingCapacity	60000
+Estadio Hernando Siles	seatingCapacity	42000
+Duchess Theatre	seatingCapacity	479
+Garrick Theatre	seatingCapacity	656
+Garrick Theatre	seatingCapacity	800
+Wyndham's Theatre	seatingCapacity	759
+Thialf	seatingCapacity	12500
+Håkons Hall	seatingCapacity	11500
+Warner Theatre (Erie, Pennsylvania)	seatingCapacity	2250
+Edmonton Gardens	seatingCapacity	5200
+Estádio Olímpico Monumental	seatingCapacity	45000
+Falkirk Stadium	seatingCapacity	9706
+The Rex, Berkhamsted	seatingCapacity	350
+Welford Road Stadium	seatingCapacity	24000
+Kisstadion	seatingCapacity	14000
+Kisstadion	seatingCapacity	16800
+Budapest Sports Arena	seatingCapacity	12500
+Budapest Sports Arena	seatingCapacity	15000
+Mediolanum Forum	seatingCapacity	12000
+Petersburg Sports and Concert Complex	seatingCapacity	25
+The Shay	seatingCapacity	10061
+Jawaharlal Nehru Stadium, Delhi	seatingCapacity	60000
+Ferguson Center for the Arts	seatingCapacity	1753
+Little League Volunteer Stadium	seatingCapacity	5000
+Estadio Revolución	seatingCapacity	8500
+Pearse Stadium	seatingCapacity	34000
+Belgrade Arena	seatingCapacity	19982
+Belgrade Arena	seatingCapacity	25000
+Stade de Suisse, Wankdorf	seatingCapacity	32000
+Stade de Suisse, Wankdorf	seatingCapacity	45000
+Gaelic Park	seatingCapacity	2000
+Casement Park	seatingCapacity	32600
+Parnell Park	seatingCapacity	13499
+Cusack Park (Ennis)	seatingCapacity	28000
+O'Moore Park	seatingCapacity	27000
+Walsh Park	seatingCapacity	17000
+St Tiernach's Park	seatingCapacity	36000
+Dr. Hyde Park	seatingCapacity	30000
+Dr. Cullen Park	seatingCapacity	21000
+Páirc Tailteann	seatingCapacity	30000
+McHale Park	seatingCapacity	42000
+Breffni Park	seatingCapacity	32000
+Páirc Esler	seatingCapacity	20000
+Drogheda Park	seatingCapacity	7000
+O'Byrne Park	seatingCapacity	10000
+Morton Stadium	seatingCapacity	4000
+Musgrave Park, Cork	seatingCapacity	8300
+Celtic Park (Derry)	seatingCapacity	22000
+Vikingskipet	seatingCapacity	10600
+Vikingskipet	seatingCapacity	20000
+Greenwich Theatre	seatingCapacity	421
+Stadion Kralj Petar I	seatingCapacity	6000
+Estadio José Amalfitani	seatingCapacity	49540
+Mesker Amphitheatre	seatingCapacity	8500
+Hen and Chickens Theatre	seatingCapacity	54
+Etcetera Theatre	seatingCapacity	42
+Estadio Benito Villamarín	seatingCapacity	52745
+Estadio Ramón de Carranza	seatingCapacity	19500
+Balaídos	seatingCapacity	31800
+Estadio Riazor	seatingCapacity	34600
+Estadio La Rosaleda	seatingCapacity	28963
+Capitoline Grounds	seatingCapacity	5000
+Royal Danish Theatre	seatingCapacity	1600
+Victoria Palace Theatre	seatingCapacity	1550
+WakeMed Soccer Park	seatingCapacity	10000
+Arlene Schnitzer Concert Hall	seatingCapacity	2776
+Stadion Kantrida	seatingCapacity	10600
+Landon Arena	seatingCapacity	10000
+Landon Arena	seatingCapacity	7777
+Vale Park	seatingCapacity	19052
+The Centre (Evansville)	seatingCapacity	2500
+The Centre (Evansville)	seatingCapacity	4000
+Peaks Ice Arena	seatingCapacity	2300
+Olympic Hall Juan Antonio Samaranch	seatingCapacity	12000
+Stade du Pays de Charleroi	seatingCapacity	25000
+Wexford Park	seatingCapacity	25000
+St Jarlath's Park	seatingCapacity	25000
+Páirc Seán Mac Diarmada	seatingCapacity	17000
+Austin Stack Park	seatingCapacity	18000
+Athletic Grounds	seatingCapacity	19500
+Stade de Genève	seatingCapacity	30084
+St Conleth's Park	seatingCapacity	13000
+Conneff Park	seatingCapacity	5000
+Estadio Ciudad de La Plata	seatingCapacity	36000
+Estadio Ciudad de La Plata	seatingCapacity	53000
+Estadio Tomás Adolfo Ducó	seatingCapacity	48314
+Aronoff Center	seatingCapacity	3306
+MacCumhail Park	seatingCapacity	17500
+Brewster Park (Enniskillen)	seatingCapacity	18000
+Pearse Park	seatingCapacity	18000
+Cusack Park (Mullingar)	seatingCapacity	15000
+Nene Park	seatingCapacity	6441
+Parkstadion	seatingCapacity	62008
+Parkstadion	seatingCapacity	55877
+O'Connor Park	seatingCapacity	20000
+St Brendan's Park	seatingCapacity	11000
+Melico Salazar Theatre	seatingCapacity	2752
+Arts Theatre	seatingCapacity	350
+Ayresome Park	seatingCapacity	26667
+Memorial Stadium (Bristol)	seatingCapacity	12100
+Gershwin Theatre	seatingCapacity	1933
+Centre Sportif Lacroix-Dutil	seatingCapacity	2476
+Boris Paichadze Stadium	seatingCapacity	54549
+İzmir Atatürk Stadium	seatingCapacity	51295
+Stadion Za Lužánkami	seatingCapacity	50000
+St. Jakob Stadium	seatingCapacity	51500
+Bush Theatre	seatingCapacity	81
+Estadio Ramón Sánchez Pizjuán	seatingCapacity	45500
+Estádio Santa Cruz	seatingCapacity	28562
+Joseph Meyerhoff Symphony Hall	seatingCapacity	2443
+His Majesty's Theatre	seatingCapacity	1470
+His Majesty's Theatre	seatingCapacity	2300
+City of Salford Stadium	seatingCapacity	12000
+Estádio das Laranjeiras	seatingCapacity	4300
+Cappielow	seatingCapacity	11100
+Estádio Heriberto Hülse	seatingCapacity	28749
+Capitol Theatre (Moncton)	seatingCapacity	800
+State Theatre (Melbourne)	seatingCapacity	2079
+Hardturm	seatingCapacity	17666
+Hardturm	seatingCapacity	27500
+Tehelné pole	seatingCapacity	30085
+Piccadilly Theatre	seatingCapacity	1232
+Estádio dos Aflitos	seatingCapacity	19800
+Stadio Città di Arezzo	seatingCapacity	13128
+Motorpoint Arena Cardiff	seatingCapacity	5000
+Motorpoint Arena Cardiff	seatingCapacity	7500
+Brockville Park	seatingCapacity	7500
+Brockville Park	seatingCapacity	8000
+La Romareda	seatingCapacity	34596
+Bobcat Bite	seatingCapacity	24
+New Wimbledon Theatre	seatingCapacity	1700
+New Wimbledon Theatre	seatingCapacity	50
+Jeonju World Cup Stadium	seatingCapacity	43348
+Jay Pritzker Pavilion	seatingCapacity	11000
+Richard Rodgers Theatre	seatingCapacity	1319
+Esprit Arena	seatingCapacity	54500
+Esprit Arena	seatingCapacity	66500
+Mermaid Theatre	seatingCapacity	600
+University Arena (Western Michigan University)	seatingCapacity	5421
+Odsal Stadium	seatingCapacity	27491
+Odsal Stadium  Odsal Sports Village   1	seatingCapacity	18000
+Daniel–Meyer Coliseum	seatingCapacity	7166
+Yad Eliyahu Arena	seatingCapacity	11700
+Richmond Theatre	seatingCapacity	840
+Estadi de Sarrià	seatingCapacity	44000
+Salem Football Stadium	seatingCapacity	7157
+Fant–Ewing Coliseum	seatingCapacity	7000
+Bartow Arena	seatingCapacity	8508
+Gutterson Fieldhouse	seatingCapacity	4035
+Theatre Royal, Glasgow	seatingCapacity	1541
+Georgi Asparuhov Stadium	seatingCapacity	25
+James M. Shuart Stadium	seatingCapacity	15000
+The Town Hall	seatingCapacity	1495
+Stagg Memorial Stadium	seatingCapacity	28000
+Legion Stadium	seatingCapacity	6000
+Mott Gym	seatingCapacity	3032
+Matadome	seatingCapacity	1600
+UC Riverside Student Recreation Center	seatingCapacity	3168
+Skyline Sports Complex	seatingCapacity	4000
+Alumni Memorial Field	seatingCapacity	10000
+Bragg Memorial Stadium	seatingCapacity	25500
+Armstrong Stadium	seatingCapacity	17000
+William H. Greene Stadium	seatingCapacity	10000
+Hughes Stadium (Morgan State)	seatingCapacity	10000
+William "Dick" Price Stadium	seatingCapacity	30000
+Oliver C. Dawson Stadium	seatingCapacity	22000
+Grand Theatre, Leeds	seatingCapacity	1550
+Kidd Brewer Stadium	seatingCapacity	10000
+Kidd Brewer Stadium	seatingCapacity	18000
+Kidd Brewer Stadium	seatingCapacity	16650
+Kidd Brewer Stadium	seatingCapacity	20150
+Kidd Brewer Stadium	seatingCapacity	21650
+Jack Spinks Stadium	seatingCapacity	22500
+Ratcliffe Stadium	seatingCapacity	13000
+Synergia-areena	seatingCapacity	4628
+Vaasa Arena	seatingCapacity	4448
+Intrust Bank Arena	seatingCapacity	15750
+Intrust Bank Arena	seatingCapacity	10100
+Alhambra Theatre (Sacramento)	seatingCapacity	1990
+Randal Tyson Track Center	seatingCapacity	5500
+Jake Gaither Gymnasium	seatingCapacity	3500
+Butler Bowl	seatingCapacity	7500
+Sports Centre at MCC	seatingCapacity	2500
+Elmore Gymnasium	seatingCapacity	6000
+Dunn–Oliver Acadome	seatingCapacity	7400
+Stade de la Meinau	seatingCapacity	29320
+Kabuki-za	seatingCapacity	1867
+Wilderspool Stadium	seatingCapacity	9000
+Croatian National Theatre in Zagreb	seatingCapacity	785
+Helong Stadium	seatingCapacity	55000
+Pakhtakor Markaziy Stadium	seatingCapacity	35000
+Estadio Olímpico Atahualpa	seatingCapacity	39816
+Fraher Field	seatingCapacity	15000
+Vivaldão	seatingCapacity	43000
+Dynama Stadium (Minsk)	seatingCapacity	41040
+Weserstadion	seatingCapacity	42500
+Desert Sun Stadium	seatingCapacity	10500
+Goodwin Field	seatingCapacity	3500
+V.A. Memorial Stadium	seatingCapacity	3000
+Chorley F.C.  Victory Park   1	seatingCapacity	4100
+Rugby Town F.C.  1	seatingCapacity	6000
+Markaziy Stadium	seatingCapacity	25000
+Theatre Royal, Bury St Edmunds	seatingCapacity	360
+The Willows, Salford	seatingCapacity	11363
+Forum Theatre	seatingCapacity	3371
+Juventus Arena	seatingCapacity	41000
+Changwon Civic Stadium	seatingCapacity	27085
+Barradão	seatingCapacity	35632
+Cammell Laird F.C.  Kirklands Stadium   1	seatingCapacity	2000
+Accra Sports Stadium	seatingCapacity	40000
+Estádio Municipal Radialista Mário Helênio	seatingCapacity	35000
+Mayflower Theatre	seatingCapacity	2300
+Essar Centre	seatingCapacity	5000
+Essar Centre	seatingCapacity	6497
+Essar Centre	seatingCapacity	5524
+Essar Centre	seatingCapacity	4923
+Essar Centre	seatingCapacity	3143
+EPRU Stadium	seatingCapacity	33852
+Estadio Florencio Sola	seatingCapacity	34901
+Estadio Juan Carmelo Zerillo	seatingCapacity	21400
+Stadionul Dan Păltinişanu	seatingCapacity	32972
+Farum Park	seatingCapacity	10100
+Tropical Park Stadium	seatingCapacity	10000
+Melbourne Athenaeum	seatingCapacity	1000
+Donbass Arena	seatingCapacity	51504
+Hersheypark Stadium	seatingCapacity	15641
+Hersheypark Stadium	seatingCapacity	30000
+Cairo Military Academy Stadium	seatingCapacity	22000
+Peery's Egyptian Theater	seatingCapacity	800
+PalaLottomatica	seatingCapacity	10500
+Choa Chu Kang Stadium	seatingCapacity	4000
+WRAL Soccer Center	seatingCapacity	3200
+Mary G. Steiner Egyptian Theatre	seatingCapacity	266
+Palazzetto dello Sport	seatingCapacity	3500
+Powell Symphony Hall	seatingCapacity	2689
+Hersheypark Arena	seatingCapacity	7286
+Son Moix	seatingCapacity	23142
+Estadio Nuevo José Zorrilla	seatingCapacity	26512
+Stade Grimonprez-Jooris	seatingCapacity	21128
+Stade Saint-Symphorien	seatingCapacity	26700
+Rat Verlegh Stadion	seatingCapacity	19000
+Sports City Stadium	seatingCapacity	47500
+Stade Jules Deschaseaux	seatingCapacity	16382
+Charmilles Stadium	seatingCapacity	9250
+Stade Olympique de la Pontaise	seatingCapacity	50000
+Stade Olympique de la Pontaise	seatingCapacity	25000
+Stade Olympique de la Pontaise	seatingCapacity	15850
+Cornaredo Stadium	seatingCapacity	15000
+Tunavallen	seatingCapacity	7800
+Stade Général Seyni Kountché	seatingCapacity	35000
+Tainan County Stadium	seatingCapacity	30000
+Sóstói Stadion	seatingCapacity	14300
+Mandala Stadium	seatingCapacity	30000
+Yanggakdo Stadium	seatingCapacity	30000
+Stade Olympique de Sousse	seatingCapacity	30000
+Manor Ground, Oxford	seatingCapacity	9500
+Clark–LeClair Stadium	seatingCapacity	3000
+Lacerdão	seatingCapacity	30000
+Rose Theatre Brampton	seatingCapacity	880
+Bogart's	seatingCapacity	1464
+Amharclann Ghaoth Dobhair	seatingCapacity	300
+Louis' Lunch	seatingCapacity	30
+Richmond Olympic Oval	seatingCapacity	8000
+Panaad Stadium	seatingCapacity	15500
+Estadio Reyno de Navarra	seatingCapacity	19553
+Loyola Field House	seatingCapacity	6500
+U.S. Cellular Center	seatingCapacity	7200
+U.S. Cellular Center	seatingCapacity	10000
+D.C. Armory	seatingCapacity	10000
+Prince Louis Rwagasore Stadium	seatingCapacity	22
+Setsoto Stadium	seatingCapacity	20000
+Stade Anjalay	seatingCapacity	15000
+Stade Amahoro	seatingCapacity	30000
+Novello Theatre	seatingCapacity	1105
+Dasarath Rangasala Stadium	seatingCapacity	25000
+Dasarath Rangasala Stadium	seatingCapacity	5000
+Windsor Park (Dominica)	seatingCapacity	12000
+James B. Sheffield Olympic Skating Rink	seatingCapacity	7500
+Veterans Memorial Stadium (Pago Pago)	seatingCapacity	10000
+Ginásio do Ibirapuera	seatingCapacity	11000
+Palau Sant Jordi	seatingCapacity	12000
+Palau Sant Jordi	seatingCapacity	16500
+Palau Sant Jordi	seatingCapacity	17000
+Utah Olympic Oval	seatingCapacity	3000
+Utah Olympic Oval	seatingCapacity	6500
+Wiener Stadthalle	seatingCapacity	16000
+Prenton Park	seatingCapacity	16567
+Solitude (football ground)	seatingCapacity	6224
+Estadio de A Malata	seatingCapacity	12024
+Recreation Park, Alloa	seatingCapacity	3412
+Stadion Lachen	seatingCapacity	10350
+Tivoli-Neu	seatingCapacity	17400
+Daknamstadion	seatingCapacity	9560
+Ichihara Seaside Stadium	seatingCapacity	14051
+The Broadway Theatre	seatingCapacity	1761
+Tacoma School of the Arts  OTA Theatre   1	seatingCapacity	450
+Stadion Grbavica	seatingCapacity	20841
+Ethel Barrymore Theatre	seatingCapacity	1058
+Gerald Schoenfeld Theatre	seatingCapacity	1080
+Marquis Theatre	seatingCapacity	1611
+John Golden Theatre	seatingCapacity	804
+Longacre Theatre	seatingCapacity	1096
+Foxwoods Theatre	seatingCapacity	1829
+Minskoff Theatre	seatingCapacity	1621
+Booth Theatre	seatingCapacity	766
+Broadhurst Theatre	seatingCapacity	1156
+Ambassador Theatre (New York)	seatingCapacity	1108
+Cort Theatre	seatingCapacity	1082
+Belasco Theatre	seatingCapacity	1016
+Ambassador Theatre (St. Louis)	seatingCapacity	3000
+Apollo Theater Chicago	seatingCapacity	440
+Apollo Theater Chicago  Apollo Theater   1	seatingCapacity	1703
+5th Avenue Theatre	seatingCapacity	2130
+Stadion Aldo Drosina	seatingCapacity	9200
+Stadion Anđelko Herjavec	seatingCapacity	10800
+Stadion Kranjčevićeva	seatingCapacity	8850
+Ammochostos Stadium	seatingCapacity	5500
+Regent Theatre (Sydney)	seatingCapacity	2258
+Olympic Park Stadium	seatingCapacity	18500
+The Darlington Arena	seatingCapacity	25000
+Melbourne Sports and Aquatic Centre	seatingCapacity	1800
+His Majesty's Theatre, Perth	seatingCapacity	1263
+Knowsley Road	seatingCapacity	17500
+Kópavogsvöllur	seatingCapacity	5501
+Gradski stadion Kratovo	seatingCapacity	5000
+Stadionul Oţelul	seatingCapacity	13500
+Omladinski stadion	seatingCapacity	14600
+SNP Stadium	seatingCapacity	10000
+Štadión pod Dubňom	seatingCapacity	11181
+Rambergsvallen	seatingCapacity	8
+Stadion Breite	seatingCapacity	7300
+The Oval (Caernarfon)	seatingCapacity	3000
+Stebonheath Park	seatingCapacity	3700
+Y Traeth	seatingCapacity	2000
+Recreation Ground (Llansantffraid-ym-Mechain)	seatingCapacity	2000
+Stade Omar Hammadi	seatingCapacity	10000
+Pohang Steel Yard	seatingCapacity	25000
+Bishan Stadium	seatingCapacity	4200
+Estadio José Rafael Fello Meza Ivankovich	seatingCapacity	13500
+Estadio Ebal Rodríguez	seatingCapacity	3000
+Estadio Municipal de Calama	seatingCapacity	13000
+Estadio San Carlos de Apoquindo	seatingCapacity	16000
+Estadio Bellavista	seatingCapacity	20000
+Stephen Sondheim Theatre	seatingCapacity	1055
+Estadio Pedro Marrero	seatingCapacity	28000
+Stadion der Freundschaft (Cottbus)	seatingCapacity	22528
+Craven Park, Hull	seatingCapacity	10000
+Grand Theatre, Swansea	seatingCapacity	1000
+DVTK Stadion	seatingCapacity	17
+Stadion Woudestein	seatingCapacity	3531
+Estadio de Béisbol Beto Ávila	seatingCapacity	9500
+Estadio De Béisbol Veinte de Noviembre	seatingCapacity	6500
+Estadio De Béisbol Monclova	seatingCapacity	9000
+Estadio De Béisbol Beisborama 72	seatingCapacity	12000
+Estadio De Béisbol Francisco I. Madero	seatingCapacity	16000
+Estadio Wilfrido Massieu	seatingCapacity	15000
+Swedbank Arena, Solna	seatingCapacity	50000
+Swedbank Arena, Solna	seatingCapacity	50000
+Swedbank Arena, Solna	seatingCapacity	65000
+Trolli Arena	seatingCapacity	15000
+Feethams	seatingCapacity	8500
+Centrum Arena (Prestwick)	seatingCapacity	2733
+Swan Theatre (Stratford)	seatingCapacity	450
+Kentucky Repertory Theatre	seatingCapacity	346
+Trafalgar Park, Nelson	seatingCapacity	20080
+Ivaylo Stadium	seatingCapacity	25000
+Estadio Regional de Antofagasta	seatingCapacity	26339
+Trikala Municipal Stadium	seatingCapacity	16
+Anthi Karagianni Stadium	seatingCapacity	10500
+Serres Municipal Stadium	seatingCapacity	9500
+Peristeri Stadium	seatingCapacity	10200
+Oriel Park	seatingCapacity	4500
+Stadionul Dunărea	seatingCapacity	23000
+Stadion FK Smederevo	seatingCapacity	17200
+Leimbachstadion	seatingCapacity	19
+Recreation Ground (Bath)	seatingCapacity	12300
+Kingston Park (stadium)	seatingCapacity	10200
+North Ipswich Reserve	seatingCapacity	10000
+Unicorn Theatre	seatingCapacity	340
+Unicorn Theatre	seatingCapacity	120
+Alex Rodriguez Park at Mark Light Field	seatingCapacity	5000
+Mini Estadi	seatingCapacity	15276
+Dvorana Mirza Delibašić	seatingCapacity	6500
+Leangen Ishall	seatingCapacity	3000
+Stadsparksvallen	seatingCapacity	5200
+Eisstadion Biel	seatingCapacity	7000
+Patinoire des Vernets	seatingCapacity	6700
+North Shore Events Centre	seatingCapacity	4500
+Palaverde	seatingCapacity	5134
+Palasport Mens Sana	seatingCapacity	7025
+Pazo Provincial dos Deportes	seatingCapacity	6500
+Lavington Sports Ground	seatingCapacity	20000
+Teatro Real	seatingCapacity	1746
+Stadium Nord Lille Métropole	seatingCapacity	17754
+Memorial Stadium (Mesquite, Texas)	seatingCapacity	20000
+Packard Stadium	seatingCapacity	7875
+Jassim Bin Hamad Stadium	seatingCapacity	15000
+Ambedkar Stadium	seatingCapacity	20000
+Stadionul Municipal (Bacău)	seatingCapacity	17500
+Warta Stadion	seatingCapacity	60000
+Balmoor Stadium	seatingCapacity	4000
+Borough Briggs	seatingCapacity	4927
+Victoria Stadium	seatingCapacity	5046
+Emil and Patricia Jones Convocation Center	seatingCapacity	7000
+Fatorda Stadium	seatingCapacity	27300
+Botchan Stadium	seatingCapacity	30000
+Seiffert Oval	seatingCapacity	15000
+Firs Park	seatingCapacity	1800
+Tilak Maidan Stadium	seatingCapacity	12000
+Music Hall Aberdeen	seatingCapacity	1281
+Village Theatre	seatingCapacity	488
+AutoC Park Randers	seatingCapacity	12000
+Greenfield Stadium (Trelawny)	seatingCapacity	25000
+Baypark Stadium	seatingCapacity	19800
+Bellville Velodrome	seatingCapacity	10200
+HaMakhtesh Stadium	seatingCapacity	5500
+Gjøvik Olympic Cavern Hall	seatingCapacity	5500
+RDS Arena	seatingCapacity	18500
+Estadi Cornellà-El Prat	seatingCapacity	40500
+Estadio Omnilife	seatingCapacity	49850
+Zerão	seatingCapacity	10000
+Ernst-Abbe-Sportfeld	seatingCapacity	12990
+Stade Taïeb Mhiri	seatingCapacity	30000
+Torch Theatre, Milford Haven	seatingCapacity	297
+Torch Theatre, Milford Haven	seatingCapacity	102
+Camp de Les Corts	seatingCapacity	60000
+Regent Theatre, Dunedin	seatingCapacity	1684
+Ruby Skye	seatingCapacity	900
+Capitol Theatre, Sydney	seatingCapacity	2094
+Palatrieste	seatingCapacity	6943
+Cardines Field	seatingCapacity	3250
+Byham Theater	seatingCapacity	1300
+Cawley Memorial Stadium	seatingCapacity	6000
+St George's Hall, Bradford	seatingCapacity	1672
+Hollywood Sportatorium	seatingCapacity	15532
+Stadion Hajduk	seatingCapacity	11000
+Čačak Stadium	seatingCapacity	5000
+Stadion Ivanjica	seatingCapacity	5000
+Somerset Park	seatingCapacity	10185
+Ira S. Wilson Ice Arena	seatingCapacity	2500
+Guru Gobind Singh Stadium	seatingCapacity	22000
+Gajayana Stadium	seatingCapacity	35000
+Ahmed bin Ali Stadium	seatingCapacity	21282
+Al-Wakrah Stadium	seatingCapacity	43500
+Mohammed Bin Zayed Stadium	seatingCapacity	42056
+Al-Gharafa Stadium	seatingCapacity	25000
+Cliftonhill	seatingCapacity	2496
+Théâtre des Bouffes du Nord	seatingCapacity	503
+Wagga Wagga Civic Theatre	seatingCapacity	488
+Lyric Theatre, London	seatingCapacity	967
+Manhattan Theatre Club	seatingCapacity	650
+Goss Stadium at Coleman Field	seatingCapacity	3248
+PalaWhirlpool	seatingCapacity	5300
+Philippi Stadium	seatingCapacity	10000
+Centro Insular de Deportes	seatingCapacity	4500
+Edgar Street	seatingCapacity	5075
+Mike Rose Soccer Complex	seatingCapacity	2500
+Royalty Theatre	seatingCapacity	657
+Ewen Fields	seatingCapacity	4250
+Moss Lane	seatingCapacity	6085
+Millennium Center	seatingCapacity	5000
+Gaiety Theatre, London	seatingCapacity	2000
+New Theatre, Cardiff	seatingCapacity	1144
+Stade 20 Août	seatingCapacity	8000
+Bright House Networks Stadium	seatingCapacity	45301
+Grand Theatre, Lancaster	seatingCapacity	457
+Central Park (Wigan)	seatingCapacity	18000
+Cougar Park	seatingCapacity	7800
+Stansbury Hall (West Virginia University)	seatingCapacity	6000
+Stadion Šubićevac	seatingCapacity	8000
+Stadion Brügglifeld	seatingCapacity	9249
+Stade Tourbillon	seatingCapacity	16263
+Theatre Royal, Bath	seatingCapacity	900
+Alex G. Spanos Stadium	seatingCapacity	11075
+Richardson Stadium	seatingCapacity	6000
+D. B. Milne Field	seatingCapacity	5000
+ASA Hall of Fame Stadium	seatingCapacity	7300
+Princess Theatre, Melbourne	seatingCapacity	1488
+Theatre Royal, Brighton	seatingCapacity	952
+Churchill Theatre	seatingCapacity	785
+King's Theatre, Glasgow	seatingCapacity	1785
+Milton Keynes Theatre	seatingCapacity	900
+New Victoria Theatre	seatingCapacity	1300
+Bradford Alhambra	seatingCapacity	1456
+Wycombe Swan	seatingCapacity	1076
+Theatre Royal, Plymouth	seatingCapacity	1315
+Hyochang Stadium	seatingCapacity	15194
+Palace Theatre, Mansfield	seatingCapacity	535
+Copenhagen Concert Hall	seatingCapacity	1800
+St Martin's Theatre	seatingCapacity	550
+The Playhouse, Weston-super-Mare	seatingCapacity	664
+Alexandra Theatre, Bognor Regis	seatingCapacity	364
+John F. Kennedy Stadium (Bridgeport)	seatingCapacity	12000
+White Rock Theatre	seatingCapacity	1066
+Roxy Theatre (New York City)	seatingCapacity	5920
+Little Theatre (Leicester)	seatingCapacity	349
+Alpine Energy Stadium	seatingCapacity	12000
+Floral Pavilion Theatre	seatingCapacity	814
+Estadio Nelson Barrera	seatingCapacity	6000
+Lichfield Garrick Theatre	seatingCapacity	480
+Victoria Theatre (Halifax)	seatingCapacity	1512
+Marlowe Theatre	seatingCapacity	1200
+Princes Hall	seatingCapacity	690
+Buffalo City Stadium	seatingCapacity	16000
+Qatar SC Stadium	seatingCapacity	20000
+Palasport Del Mauro	seatingCapacity	5300
+Herti Allmend Stadion	seatingCapacity	4900
+Gurzelen Stadion	seatingCapacity	15000
+Qingdao Tiantai Stadium	seatingCapacity	20525
+Stade René Gaillard	seatingCapacity	10898
+Erith Playhouse	seatingCapacity	195
+Stadion Karađorđev park	seatingCapacity	13500
+Novi Pazar City Stadium	seatingCapacity	15000
+O. C. Lewis Gymnasium	seatingCapacity	3000
+Suzanne Roberts Theatre	seatingCapacity	365
+Riada Stadium	seatingCapacity	218
+Kozani Stadium	seatingCapacity	4000
+Pabellón Multiusos Fontes do Sar	seatingCapacity	6050
+Theatre Royal, Nottingham	seatingCapacity	1186
+The Lamb Ground	seatingCapacity	4000
+Oriental Theatre (Milwaukee)	seatingCapacity	2100
+Station Road, Swinton	seatingCapacity	60000
+Nottingham Royal Concert Hall	seatingCapacity	2499
+Maryland SoccerPlex	seatingCapacity	5126
+Odessa Opera and Ballet Theater	seatingCapacity	1636
+Kerkyra Stadium	seatingCapacity	2685
+Farrar Road Stadium	seatingCapacity	1500
+Jalan Besar Stadium	seatingCapacity	6000
+Stadion Allmend	seatingCapacity	13000
+Stadion Allmend	seatingCapacity	25000
+Sekondi-Takoradi Stadium	seatingCapacity	20000
+Taipei Municipal Stadium	seatingCapacity	20000
+Greenwich Playhouse	seatingCapacity	84
+Stade Germain Comarmond	seatingCapacity	5000
+Grand Theatre, Blackpool	seatingCapacity	1100
+Live Arts	seatingCapacity	270
+Werk Arena	seatingCapacity	5200
+Tatravagónka Arena	seatingCapacity	5000
+Platinum Arena	seatingCapacity	7100
+Viking Park	seatingCapacity	8000
+Viking Park	seatingCapacity	6000
+Milton Frank Stadium	seatingCapacity	12000
+Estadio El Toralín	seatingCapacity	8200
+Alfredo di Stéfano Stadium	seatingCapacity	6000
+Alfredo di Stéfano Stadium	seatingCapacity	24000
+Hackney Empire	seatingCapacity	1275
+Regina A. Quick Center for the Arts	seatingCapacity	740
+Pirelli Stadium	seatingCapacity	6912
+Church Road (football stadium)	seatingCapacity	4500
+Butcher's Arms Ground	seatingCapacity	3000
+The Northolme	seatingCapacity	4304
+Caprice (restaurant)	seatingCapacity	100
+Saville Theatre	seatingCapacity	1426
+The Gnoll	seatingCapacity	5000
+Caravan Farm Theatre	seatingCapacity	500
+Tengiz Burjanadze Stadium	seatingCapacity	8300
+Municipal Stadium (Telavi)	seatingCapacity	12000
+Givi Kiladze Stadium	seatingCapacity	12000
+Phoenix Theatre (London)	seatingCapacity	1012
+Gradski stadion Štip	seatingCapacity	5000
+Pentameters Theatre	seatingCapacity	60
+Stade George V	seatingCapacity	6200
+Stade Auguste Vollaire	seatingCapacity	4000
+Dan Anyiam Stadium	seatingCapacity	10000
+St. James Theatre, Wellington	seatingCapacity	3000
+Al-Khawr Stadium	seatingCapacity	20000
+Prison Oval	seatingCapacity	2000
+Elleston Wakeland Stadium	seatingCapacity	3000
+Emmett Park	seatingCapacity	4000
+Dixon Park	seatingCapacity	5333
+Lesser Hampden	seatingCapacity	12000
+Surf Reality	seatingCapacity	65
+Godthåbhallen	seatingCapacity	1000
+Velòdrom d'Horta	seatingCapacity	3200
+Velòdrom d'Horta	seatingCapacity	11000
+Original Shaftesbury Theatre	seatingCapacity	1196
+Olympic Stadium (Hoquiam)	seatingCapacity	9000
+Christensen Stadium	seatingCapacity	4000
+GVSU Fieldhouse	seatingCapacity	4100
+Muzzy Field	seatingCapacity	4900
+Paterson Field	seatingCapacity	7000
+Mahaney Diamond	seatingCapacity	500
+Winkin Sports Complex	seatingCapacity	3000
+All Sports Stadium	seatingCapacity	12000
+Brooks Field (Wilmington)	seatingCapacity	3000
+Bicentennial Park (Allentown)	seatingCapacity	4600
+The Pancake Manor	seatingCapacity	150
+Surrey Theatre	seatingCapacity	1865
+Zemplin Stadium	seatingCapacity	4500
+Soho Theatre	seatingCapacity	144
+Delamere Park	seatingCapacity	400
+Polk Theatre (Lakeland, Florida)	seatingCapacity	1400
+Capitol Grounds	seatingCapacity	6000
+Stade de Maradi	seatingCapacity	10000
+Palais Theatre	seatingCapacity	2896
+Tema Sports Stadium	seatingCapacity	10000
+Charlie W. Johnson Stadium	seatingCapacity	11000
+Albany Municipal Coliseum	seatingCapacity	10000
+Abbott Memorial Alumni Stadium	seatingCapacity	10000
+Fox Theater (Bakersfield, California)	seatingCapacity	1500
+The Drill Hall	seatingCapacity	200
+Jack Coombs Field	seatingCapacity	2000
+The Theatre of Small Convenience	seatingCapacity	12
+Amway Center	seatingCapacity	2450230
+Amway Center	seatingCapacity	19000
+Amway Center	seatingCapacity	16000
+Amway Center	seatingCapacity	20000
+Amway Center	seatingCapacity	17200
+Mackenzie Stadium	seatingCapacity	4100
+Titan Stadium (Cal State Fullerton)	seatingCapacity	10000
+Hoxton Hall	seatingCapacity	120
+Estadio Adolfo López Mateos	seatingCapacity	7000
+Estadio Centenario 27 de Febrero	seatingCapacity	10500
+Estadio Universitario Beto Ávila	seatingCapacity	7782
+Marston Road (Stafford)	seatingCapacity	3000
+Bloch Park	seatingCapacity	1500
+Main Street Armory	seatingCapacity	6500
+Lyric Theatre (Hammersmith)	seatingCapacity	550
+Lyric Theatre (Hammersmith)	seatingCapacity	110
+Jurong West Stadium	seatingCapacity	3000
+Yellow Dragon Sports Center	seatingCapacity	51000
+Broadway Theatre, Catford	seatingCapacity	800
+Broadway Theatre, Catford	seatingCapacity	100
+Heinz Hall for the Performing Arts	seatingCapacity	2676
+WFCU Centre	seatingCapacity	6500
+O'Donnell Park	seatingCapacity	2500
+O'Donnell Park	seatingCapacity	1300
+AFG Arena	seatingCapacity	19694
+Petah Tikva Stadium	seatingCapacity	11500
+Petah Tikva Stadium	seatingCapacity	20000
+AEL FC Arena	seatingCapacity	16118
+Wilton's Music Hall	seatingCapacity	400
+Stadion Mladost (Lučani)	seatingCapacity	8000
+Proctor's Theatre (Schenectady, New York)	seatingCapacity	3250
+Paramount Theatre (Abilene, Texas)	seatingCapacity	1199
+Sportplatz at Rothenbaum	seatingCapacity	27000
+NAC Stadion	seatingCapacity	20000
+Estádio do Campo Grande	seatingCapacity	25000
+Estadio Lluís Sitjar	seatingCapacity	18000
+Estadio de Nervión	seatingCapacity	20000
+New Recreation Ground	seatingCapacity	4100
+Recreation Ground (Aldershot)	seatingCapacity	7100
+Pittwater Park	seatingCapacity	10000
+Regent Theatre, Melbourne	seatingCapacity	2162
+Albert-Daly Field	seatingCapacity	1000
+Baltika Stadium	seatingCapacity	14660
+Sodovik Stadium	seatingCapacity	5
+Sodovik Stadium	seatingCapacity	180
+Stadio Comunale Mario Battaglini	seatingCapacity	6000
+Donnybrook Stadium	seatingCapacity	6000
+Edinburgh Playhouse	seatingCapacity	3059
+Echo Arena Liverpool	seatingCapacity	11000
+White Hart Lane Community Sports Centre	seatingCapacity	5000
+Alhambra Theatre Glasgow	seatingCapacity	2800
+UCF Soccer and Track Stadium	seatingCapacity	2000
+Nou Mestalla	seatingCapacity	75000
+Sewell Barn Theatre	seatingCapacity	100
+Durgin-Park	seatingCapacity	250
+Palace Theatre (Cleveland, Ohio)	seatingCapacity	2714
+Stadion FK Bežanija	seatingCapacity	5000
+Her Majesty's Theatre, Melbourne	seatingCapacity	1706
+Coliseum Theatre (Kuala Lumpur)	seatingCapacity	900
+Philharmonie Luxembourg	seatingCapacity	1500
+Aldo Santaga Stadium	seatingCapacity	3500
+Klabat Stadium	seatingCapacity	10000
+Osotsapa Stadium	seatingCapacity	3000
+Soghlom Avlod Stadium	seatingCapacity	18360
+Metallurg Bekabad Stadium	seatingCapacity	11000
+Britannia Theatre	seatingCapacity	3000
+Jahnstadion (Regensburg)	seatingCapacity	11800
+Cherry Lane Theatre	seatingCapacity	179
+Magnitogorsk Arena	seatingCapacity	7800
+Cardiff International Sports Stadium	seatingCapacity	4953
+Inni í Dal	seatingCapacity	300
+Naka no Shibai	seatingCapacity	1200
+Gene Cox Stadium	seatingCapacity	5500
+Central Stadion	seatingCapacity	14500
+Ohio Theatre (Cleveland, Ohio)	seatingCapacity	1000
+Estadio Padre Ernesto Martearena	seatingCapacity	20408
+Rudi-Sedlmayer-Halle	seatingCapacity	6800
+Roger Bannister running track	seatingCapacity	499
+Millennium Forum	seatingCapacity	1000
+Millennium Forum	seatingCapacity	1500
+Kristins Hall	seatingCapacity	3197
+Theatre Three	seatingCapacity	408
+Jordal Amfi	seatingCapacity	4450
+Wembley Stadium	seatingCapacity	90000
+Wembley Stadium	seatingCapacity	86000
+Wembley Stadium	seatingCapacity	75000
+Wembley Stadium	seatingCapacity	15000
+Wembley Stadium	seatingCapacity	68400
+Glenn Warner Soccer Facility	seatingCapacity	1600
+Taft Theatre	seatingCapacity	2500
+Merle Reskin Theatre	seatingCapacity	1325
+Courtyard, Hereford	seatingCapacity	400
+Courtyard, Hereford	seatingCapacity	120
+Auestadion	seatingCapacity	17993
+Westside Theatre	seatingCapacity	299
+Westside Theatre	seatingCapacity	249
+State Theatre (Cleveland, Ohio)	seatingCapacity	3
+Everyman Palace Theatre	seatingCapacity	650
+Leicester Square Theatre	seatingCapacity	420
+Studio Theatre (Sheffield)	seatingCapacity	400
+King's Theatre, Edinburgh	seatingCapacity	1350
+Diamond Park	seatingCapacity	1500
+Malthouse Theatre, Melbourne	seatingCapacity	520
+Theatre 503	seatingCapacity	65
+Tron Theatre	seatingCapacity	230
+Tron Theatre	seatingCapacity	50
+Lowell Memorial Auditorium	seatingCapacity	2800
+Orange Tree Theatre	seatingCapacity	172
+Chelsea Theatre	seatingCapacity	110
+Harris Theater (Chicago, Illinois)	seatingCapacity	1525
+Penydarren Park	seatingCapacity	10000
+Kings Theatre, Southsea	seatingCapacity	1600
+Estádio das Amoreiras	seatingCapacity	20000
+La Comedia Dinner Theatre	seatingCapacity	612
+Hampstead Theatre	seatingCapacity	140
+Hampstead Theatre	seatingCapacity	80
+Melaleuca Field	seatingCapacity	3400
+Comfort Dental Amphitheatre	seatingCapacity	18000
+Ranga Shankara	seatingCapacity	320
+Nagai Ball Gall Field	seatingCapacity	20500
+Beck Theatre	seatingCapacity	600
+Mazda Stadium	seatingCapacity	32000
+Mazda Stadium	seatingCapacity	300
+Estadio Multiusos de San Lázaro	seatingCapacity	14000
+Amakhosi Stadium	seatingCapacity	35000
+Olympic Theatre	seatingCapacity	889
+Olympic Theatre	seatingCapacity	2150
+Lucille Lortel Theatre	seatingCapacity	299
+Cutting Hall	seatingCapacity	430
+Globe Theatre (Newcastle Street)	seatingCapacity	1800
+Menier Chocolate Factory	seatingCapacity	180
+Peacock Theatre	seatingCapacity	999
+Peacock Theatre	seatingCapacity	2600
+Playhouse Theatre	seatingCapacity	786
+Allen Theatre	seatingCapacity	3003
+Hanna Theatre	seatingCapacity	550
+Rondo Theatre	seatingCapacity	105
+Ankara Ice Palace	seatingCapacity	1150
+Weston's Music Hall	seatingCapacity	2000
+United Palace Theater	seatingCapacity	3293
+Morrone Stadium	seatingCapacity	4500
+John Charles Centre for Sport	seatingCapacity	4000
+The Broadway (theatre)	seatingCapacity	341
+Recreation Ground (Whitehaven)	seatingCapacity	7500
+Hilton Park (stadium)	seatingCapacity	10000
+Crown Flatt	seatingCapacity	3500
+Pavilion Theatre (Brighton)	seatingCapacity	232
+Pavilion Theatre (Brighton)	seatingCapacity	350
+Shin-Kiba 1st Ring	seatingCapacity	350
+Orfeo Superdomo	seatingCapacity	14
+Oud Sluis	seatingCapacity	40
+San Mamés Barria	seatingCapacity	56
+Det Ny Theater	seatingCapacity	1000
+Det Ny Theater	seatingCapacity	300
+Stadionul Cetate (Alba Iulia)	seatingCapacity	18000
+Warwick Student Cinema	seatingCapacity	312
+Congress Theater	seatingCapacity	2990
+Old Red Lion Theatre	seatingCapacity	60
+S&T Bank Arena	seatingCapacity	600
+American Classical Music Hall of Fame and Museum	seatingCapacity	600
+Jerry Kindall Field at Frank Sancet Stadium	seatingCapacity	6500
+Harold Washington Cultural Center	seatingCapacity	1000
+Markievicz Park	seatingCapacity	20000
+Asteras Tripolis Stadium	seatingCapacity	6430
+Memorial Stadium (Savannah)	seatingCapacity	15000
+Millfield Theatre	seatingCapacity	362
+Pontardawe Arts Centre	seatingCapacity	450
+New Nottingham Forest Stadium	seatingCapacity	41500
+Stockholmsarenan	seatingCapacity	30000
+Stockholmsarenan	seatingCapacity	30000
+Stockholmsarenan	seatingCapacity	40000
+Poladi Stadium	seatingCapacity	10720
+McLendon–McDougald Gymnasium	seatingCapacity	3050
+Stadion Čukarički	seatingCapacity	7000
+Comedy Theatre, Melbourne	seatingCapacity	997
+The Blakehay Theatre, Weston-super-Mare	seatingCapacity	220
+National Theatre, Melbourne	seatingCapacity	783
+House Park	seatingCapacity	6000
+Shaw Theatre	seatingCapacity	446
+The Ice Sheet at Ogden	seatingCapacity	2000
+Carnie Smith Stadium	seatingCapacity	8343
+Darwin Football Stadium	seatingCapacity	6000
+Estadio Quintana Roo	seatingCapacity	20000
+InfoCision Stadium – Summa Field	seatingCapacity	27000
+Haugesund Stadion	seatingCapacity	8800
+Royal Lyceum Theatre	seatingCapacity	658
+Northern Stage, Newcastle upon Tyne	seatingCapacity	2
+The Journal Tyne Theatre	seatingCapacity	1100
+Lefkotheo	seatingCapacity	2200
+Levita Stadium	seatingCapacity	5500
+Mokdong Stadium	seatingCapacity	20236
+New Regal Theater	seatingCapacity	2250
+Coface Arena	seatingCapacity	34034
+Kohtla-Järve Spordikeskuse staadion	seatingCapacity	2200
+Artsdepot	seatingCapacity	395
+Artsdepot	seatingCapacity	158
+Festspielhaus Hellerau	seatingCapacity	560
+Nuevo Estadio de Malabo	seatingCapacity	15250
+Estadio La Libertad	seatingCapacity	4000
+Passionfruit Theatre	seatingCapacity	50
+Tower Theatre (Salt Lake City, Utah)	seatingCapacity	342
+Konpira Grand Theatre	seatingCapacity	1000
+Theatro Circo	seatingCapacity	899
+Kimmel Arena	seatingCapacity	3400
+Her Majesty's Theatre, Sydney	seatingCapacity	2000
+Estadio Chihuahua	seatingCapacity	14500
+Folly Theatre	seatingCapacity	900
+Charing Cross Music Hall	seatingCapacity	400
+Charing Cross Music Hall	seatingCapacity	300
+Charing Cross Music Hall	seatingCapacity	270
+ETO Park	seatingCapacity	16000
+Royal Hippodrome Theatre	seatingCapacity	630
+Kirk Douglas Theatre	seatingCapacity	317
+Venetian Arena	seatingCapacity	15000
+Derby Theatre	seatingCapacity	535
+Arena Fonte Nova	seatingCapacity	50000
+Congress Theatre (Eastbourne)	seatingCapacity	1689
+Impuls Arena	seatingCapacity	30660
+The Castle Theatre, Wellingborough	seatingCapacity	503
+Strømmen Stadion	seatingCapacity	1800
+Gjemselund Stadion	seatingCapacity	5202
+Melbourne Recital Centre	seatingCapacity	1000
+PalaSojourner	seatingCapacity	3550
+Ombaka National Stadium	seatingCapacity	35000
+The Apollo (Glasgow)	seatingCapacity	3500
+Opera House, Wellington	seatingCapacity	1361
+King's Hall, Belfast	seatingCapacity	7800
+Sirrine Stadium	seatingCapacity	15000
+Minami-za	seatingCapacity	1086
+Gaiety Theatre, Isle of Man	seatingCapacity	898
+Darwin Entertainment Centre	seatingCapacity	1290
+Grand Theatre, Wolverhampton	seatingCapacity	1200
+Hakata-za	seatingCapacity	1454
+The Grand (Calgary)	seatingCapacity	2006
+Malha Arena	seatingCapacity	3000
+The Anvil, Basingstoke	seatingCapacity	1400
+Strand Theater (Zelienople, Pennsylvania)	seatingCapacity	300
+Riverside Sports Complex	seatingCapacity	2500
+Ustinov Studio	seatingCapacity	126
+Mission Theatre	seatingCapacity	100
+Apollo Victoria Theatre	seatingCapacity	2208
+AKA Arena	seatingCapacity	4256
+Rose Theatre, Kingston	seatingCapacity	899
+Ashcroft Theatre	seatingCapacity	749
+Cockpit Theatre, Marylebone	seatingCapacity	180
+Orpheum Theatre (Los Angeles, California)	seatingCapacity	2000
+Devonshire Park Theatre	seatingCapacity	936
+Kaohsiung National Stadium	seatingCapacity	55000
+Paradise Center for the Arts	seatingCapacity	915
+Layard Theatre	seatingCapacity	296
+Lace Market Theatre	seatingCapacity	118
+Little Angel Theatre	seatingCapacity	100
+Craterian Ginger Rogers Theater	seatingCapacity	732
+Portage Theater	seatingCapacity	2250
+Class of 1923 Arena	seatingCapacity	2900
+The Whistler Sliding Centre	seatingCapacity	12000
+Melching Field at Conrad Park	seatingCapacity	2500
+Bedford Civic Theatre	seatingCapacity	270
+University of Bedfordshire Theatre	seatingCapacity	280
+Cameron Stadium	seatingCapacity	5000
+Åbo Svenska Teater	seatingCapacity	315
+Vanderbilt Theatre	seatingCapacity	780
+Liberty Theatre (New York, New York)	seatingCapacity	1055
+Maaspoort Sports end Events	seatingCapacity	3500
+Maaspoort Sports end Events	seatingCapacity	4000
+Parc y Scarlets	seatingCapacity	14870
+Paul Thomas Sr. Field	seatingCapacity	1200
+Carl's Ice Cream	seatingCapacity	0
+Canterbury Music Hall	seatingCapacity	1852
+Canterbury Music Hall	seatingCapacity	1854
+Limerick Athenaeum	seatingCapacity	600
+Theatro da Paz	seatingCapacity	787
+Stadion Goce Delčev	seatingCapacity	15000
+Fyli Stadium	seatingCapacity	4000
+MHSK Stadium	seatingCapacity	16000
+Queen's Theatre, Long Acre	seatingCapacity	1847
+Queen's Theatre, Long Acre	seatingCapacity	1867
+Stadion Mladost (Kruševac)	seatingCapacity	10811
+Sanford Center	seatingCapacity	4700
+National Bowling Stadium	seatingCapacity	1100
+Dynamo Stadium (Houston)	seatingCapacity	22000
+Estadio La Granja	seatingCapacity	8000
+Capitol Arts Center	seatingCapacity	840
+Estadio de Fútbol Monterrey	seatingCapacity	50000
+New St Helens Stadium	seatingCapacity	18000
+The Sports Ground, Stompond Lane	seatingCapacity	2000
+The Colosseum at Caesars Palace	seatingCapacity	4100
+Cressing Road	seatingCapacity	4151
+Swonder Ice Arena	seatingCapacity	1500
+New Castleford Stadium	seatingCapacity	15000
+The Spa, Bridlington	seatingCapacity	3800
+Tabard Theatre	seatingCapacity	79
+Cove Road Stadium	seatingCapacity	1000
+Stadio Comunale Bellinzona	seatingCapacity	6000
+Las Vegas Little Theater	seatingCapacity	155
+Memorial Hall (Kansas City, Kansas)	seatingCapacity	3500
+Maly Theatre (Moscow)	seatingCapacity	953
+Maly Theatre (Moscow)	seatingCapacity	760
+Yack Arena	seatingCapacity	3800
+James Whatman Way	seatingCapacity	3000
+Barnstable High School Performing Arts Center	seatingCapacity	1440
+Wa Sports Stadium	seatingCapacity	5000
+Nob Hill Masonic Center	seatingCapacity	3165
+Belgo	seatingCapacity	440
+Anheuser-Busch Center	seatingCapacity	6200
+ŽŠD Ljubljana Stadium	seatingCapacity	3986
+Pritchard Gymnasium	seatingCapacity	1760
+Winnipesaukee Playhouse	seatingCapacity	83
+Galabank	seatingCapacity	500
+B2net Stadium	seatingCapacity	10600
+Pan American Arena	seatingCapacity	1000
+Theatre Royal, Sydney	seatingCapacity	1180
+Stadion FK Jagodina	seatingCapacity	15000
+Stadion Pivare	seatingCapacity	3000
+Stadion Detelinara	seatingCapacity	5000
+Shore Club	seatingCapacity	230
+Stadion kraj Valjaonice	seatingCapacity	4500
+Stadion Hajduk Lion	seatingCapacity	4500
+The Stables	seatingCapacity	398
+North Park Theatre	seatingCapacity	850
+Taichung Football Field	seatingCapacity	5000
+Darien Sportsplex Ice Arena	seatingCapacity	1250
+Brown Theatre	seatingCapacity	1400
+Palace Theatre, Melbourne	seatingCapacity	1855
+Handball Arena (2012 Olympics)	seatingCapacity	7000
+Gimnasio Hermanos Lairet	seatingCapacity	9
+Barker–Lane Stadium	seatingCapacity	5000
+Lindenwood Ice Arena	seatingCapacity	1000
+St. Augustine Amphitheatre	seatingCapacity	3493
+Centerville High School Performing Arts Center	seatingCapacity	1228
+Royal Aquarium	seatingCapacity	1293
+72-years Anniversary Stadium	seatingCapacity	15000
+Biljanini Izvori Sports Hall	seatingCapacity	3500
+Shree Shiv Chhatrapati Sports Complex	seatingCapacity	20000
+Venice Theatre	seatingCapacity	432
+Broussard's	seatingCapacity	380
+Midwest Training & Ice Center	seatingCapacity	1500
+Revolution Arena	seatingCapacity	1000
+Stillman Stadium	seatingCapacity	9000
+Albert J. Sloan–Alumni Stadium	seatingCapacity	8500
+Alumni Field (Kentucky State)	seatingCapacity	6000
+Ma On Shan Sports Ground	seatingCapacity	1400
+Auburn Softball Complex	seatingCapacity	1200
+Ulster Performing Arts Center	seatingCapacity	1500
+Stadionul Snagov	seatingCapacity	2000
+Teatro del Silenzio	seatingCapacity	7490
+Alpine Theatre Project	seatingCapacity	454
+Ilut Stadium	seatingCapacity	4932
+Ghostlight Theatre	seatingCapacity	214
+Hopper Field	seatingCapacity	10478
+Nottingham Greyhound Stadium	seatingCapacity	1500
+Süreyya Opera House	seatingCapacity	570
+L'Espalier	seatingCapacity	90
+Estadio Teresa Rivero	seatingCapacity	15500
+Meiji-za	seatingCapacity	1368
+Parque 18 de marzo de 1938	seatingCapacity	7500
+Kenny & Zuke's Delicatessen	seatingCapacity	67
+Faisal Al-Husseini International Stadium	seatingCapacity	12500
+Shinbashi Enbujō	seatingCapacity	1428
+Hollywood Pacific Theatre	seatingCapacity	1500
+Stadionul Municipal (Râmnicu Sărat)	seatingCapacity	7000
+Stadio Franco Ossola	seatingCapacity	8213
+Bethlehem Area School District Stadium	seatingCapacity	13600
+York Theatre	seatingCapacity	178
+Deertrees Theatre	seatingCapacity	299
+Cougar Softball Stadium	seatingCapacity	1200
+Capitol Theatre (New York City)	seatingCapacity	4000
+Gaiety Theatre, Manchester	seatingCapacity	2500
+Kinsley Greyhound Stadium	seatingCapacity	3000
+Stadion Otoka	seatingCapacity	5000
+Worcester Foothills Theatre	seatingCapacity	349
+The Sevens (stadium)	seatingCapacity	50000
+Alumni Field (Keene)	seatingCapacity	4100
+The White Bear Theatre	seatingCapacity	50
+Stoklosa Alumni Field	seatingCapacity	4000
+Hwangju Riverside Stadium	seatingCapacity	7500
+Kimchaek Municipal Stadium	seatingCapacity	5000
+Goodall Park	seatingCapacity	950
+Montpelier Recreation Field	seatingCapacity	1200
+Barnstormers Theatre	seatingCapacity	282
+Centre sportif de Colovray Nyon	seatingCapacity	7200
+Sandy Park	seatingCapacity	10744
+Albany Theatre	seatingCapacity	300
+Emery Theatre	seatingCapacity	2211
+Theatre 99	seatingCapacity	137
+The Old Recreation Ground	seatingCapacity	35000
+Taft Stadium	seatingCapacity	18200
+Palace Theatre (Columbus, Ohio)	seatingCapacity	2827
+Ridgefield Playhouse	seatingCapacity	500
+Riederwaldstadion	seatingCapacity	6000
+Sala Stadium	seatingCapacity	10000
+Hammermill Center	seatingCapacity	2800
+West Meadows Ice Arena	seatingCapacity	1000
+Théâtre Hébertot	seatingCapacity	630
+Théâtre Hébertot	seatingCapacity	110
+Mahalia Jackson Theater of the Performing Arts	seatingCapacity	2100
+Terry's Theatre	seatingCapacity	800
+Rhoads Stadium	seatingCapacity	3395
+Paul Greifzu Stadium	seatingCapacity	20000
+Akasaka Blitz	seatingCapacity	1298
+Akasaka Blitz	seatingCapacity	604
+Aviva Stadium	seatingCapacity	51700
+Aviva Stadium	seatingCapacity	65000
+Grant Fine Arts Center	seatingCapacity	794
+National Taiwan University Sports Center	seatingCapacity	4200
+Kandurata Kites	seatingCapacity	35000
+Farmington Civic Theatre	seatingCapacity	410
+Mount Lebanon Ice Center	seatingCapacity	700
+80th Birthday Stadium	seatingCapacity	20141
+The Seagull (theatre)	seatingCapacity	108
+Trabrennbahn Bahrenfeld	seatingCapacity	30000
+Trabrennbahn Bahrenfeld	seatingCapacity	90000
+Gilliam Indoor Track Stadium	seatingCapacity	5000
+Hanover Theatre for the Performing Arts	seatingCapacity	2300
+Performing Garage	seatingCapacity	99
+The Kitchin	seatingCapacity	60
+Rhosymedre Stadium	seatingCapacity	3000
+Stade Universitaire Saint-Léonard	seatingCapacity	9000
+New Tivoli	seatingCapacity	32960
+New Tivoli	seatingCapacity	27250
+Forrest Theatre	seatingCapacity	1851
+Yeshurun Hall	seatingCapacity	1000
+Ritchie Coliseum	seatingCapacity	1500
+Stadion Borča	seatingCapacity	2500
+Criterion Theatre (Sydney)	seatingCapacity	991
+Polar Palace Arena	seatingCapacity	1200
+Deeside Stadium	seatingCapacity	420
+Wayamba Wolves	seatingCapacity	10000
+Atelje 212	seatingCapacity	386
+Atelje 212	seatingCapacity	141
+Teaching Gym (Florida A&M)	seatingCapacity	9639
+Madlenianum Opera and Theatre	seatingCapacity	524
+No. 2 Court (Wimbledon)	seatingCapacity	4000
+Tony Ireland Stadium	seatingCapacity	10000
+Stadion Neufeld	seatingCapacity	14000
+Worcester Memorial Auditorium	seatingCapacity	3508
+Paradise Theater (Bronx, New York)	seatingCapacity	3885
+Red House Arts Center	seatingCapacity	89
+Shiraz Stadium	seatingCapacity	50000
+Thornton's Restaurant	seatingCapacity	60
+Kanchanaburi Stadium	seatingCapacity	13000
+Paide Ühisgümnaasiumi stadium	seatingCapacity	268
+Buca Arena	seatingCapacity	10000
+E.J. Thomas Hall	seatingCapacity	2400
+Herbert Wells Ice Arena	seatingCapacity	600
+Monto Water Rats	seatingCapacity	200
+Jacksons Lane	seatingCapacity	160
+Nuevo Estadio de San José	seatingCapacity	43000
+Camp Municipal Narcís Sala	seatingCapacity	15000
+Théâtre National Populaire	seatingCapacity	871
+Stadion Brühl	seatingCapacity	15100
+Stadion Brühl	seatingCapacity	2100
+PalaRuffini	seatingCapacity	4500
+Bishan Sports Hall	seatingCapacity	1920
+Romema Arena	seatingCapacity	3200
+Nedre Eiker Stadion	seatingCapacity	4500
+Wheater's Field	seatingCapacity	20000
+Winston Theatre	seatingCapacity	250
+Fanny Blankers-Koen Stadion	seatingCapacity	15200
+Cherno More Sports Complex	seatingCapacity	1500
+Artisan Center Theater	seatingCapacity	150
+Henry Memorial Center	seatingCapacity	2000
+Henry Memorial Center	seatingCapacity	300
+Zosimades Stadium	seatingCapacity	7534
+Wilder Field	seatingCapacity	810
+Royal Danish Playhouse	seatingCapacity	650
+Royal Danish Playhouse	seatingCapacity	100
+Stadionul Parc (Breaza)	seatingCapacity	800
+Pantomimeteatret	seatingCapacity	120
+Pantomimeteatret	seatingCapacity	1000
+Arena Nova	seatingCapacity	5000
+Gasværket	seatingCapacity	812
+Vancouver Olympic/Paralympic Centre	seatingCapacity	6000
+Deanes	seatingCapacity	100
+Rhodes Twenty Four	seatingCapacity	85
+Rhodes W1	seatingCapacity	45
+Soldiers and Sailors Memorial Coliseum	seatingCapacity	2400
+Soldiers and Sailors Memorial Coliseum	seatingCapacity	4055
+Glasgow Empire Theatre	seatingCapacity	2100
+Druid Park	seatingCapacity	2500
+McCracken Park	seatingCapacity	1000
+Stadion Mladost, Strumica	seatingCapacity	6500
+SRC Biljanini Izvori	seatingCapacity	3000
+The Airfield	seatingCapacity	1600
+Druzhba Palace of Sports	seatingCapacity	3500
+Druzhba Palace of Sports	seatingCapacity	4700
+Druzhba Palace of Sports	seatingCapacity	5100
+Stadthalle Graz	seatingCapacity	1000
+Big Spring Cafe	seatingCapacity	2
+Sham Shui Po Sports Ground	seatingCapacity	2194
+Corner Theatre ETC	seatingCapacity	100
+Gorleston Pavilion	seatingCapacity	300
+Salt River Fields at Talking Stick	seatingCapacity	11000
+Manchester Regional Arena	seatingCapacity	6500
+Majestic Theatre (Dallas, Texas)  Majestic Theatre   1	seatingCapacity	1570
+Kalita Humphreys Theater	seatingCapacity	497
+P.C. Cobb Stadium	seatingCapacity	22000
+Whittier Field	seatingCapacity	9000
+Energia Areena	seatingCapacity	3500
+Celtic Park (Castlebar)	seatingCapacity	1500
+Bellevue Teatret	seatingCapacity	700
+JAR Stadium	seatingCapacity	10000
+Hartmeyer Ice Arena	seatingCapacity	3500
+St Boniface Arena	seatingCapacity	2000
+Stockland Park	seatingCapacity	12000
+Stadionul Săgeata	seatingCapacity	3000
+Théâtre Marigny	seatingCapacity	1024
+Théâtre Marigny	seatingCapacity	311
+Oast Theatre, Tonbridge	seatingCapacity	112
+Tevfik Sırrı Gür Stadium	seatingCapacity	10128
+Pors Stadion	seatingCapacity	7000
+McFarlin Memorial Auditorium	seatingCapacity	2386
+Estadio Las Gaunas	seatingCapacity	16000
+Atano III fronton	seatingCapacity	1876
+Ogueta fronton	seatingCapacity	2155
+Estádio Municipal Antônio Fernandes	seatingCapacity	6840
+Peabody Auditorium	seatingCapacity	2521
+Dee and Charles Wyly Theatre	seatingCapacity	600
+Margot and Bill Winspear Opera House	seatingCapacity	2300
+Arena Zenica	seatingCapacity	6200
+Development Area Stadium	seatingCapacity	25000
+Caesar Uyesaka Stadium	seatingCapacity	1000
+Astelena fronton	seatingCapacity	1250
+Gros fronton	seatingCapacity	670
+Deportivo fronton	seatingCapacity	950
+Beotibar fronton	seatingCapacity	950
+Manglerudhallen	seatingCapacity	2000
+Municipal de Barreiro	seatingCapacity	1500
+Varsity Field (Binghamton baseball)	seatingCapacity	1000
+Fiondella Field	seatingCapacity	1000
+Joe Nathan Field	seatingCapacity	1000
+Matador Soccer Field	seatingCapacity	1550
+George Allen Field	seatingCapacity	1000
+Time Warner Cable Stadium	seatingCapacity	500
+Aggie Field	seatingCapacity	1000
+Anteater Stadium	seatingCapacity	2500
+UCR Soccer Stadium	seatingCapacity	900
+Municipal de Santo Domingo (Alcorcón)	seatingCapacity	5400
+Jim Houlihan Park at Jack Coffey Field	seatingCapacity	1000
+Robertson Gymnasium	seatingCapacity	2600
+Barcroft Park	seatingCapacity	1000
+Electric Cinema (Notting Hill)	seatingCapacity	98
+Den Dreef	seatingCapacity	7435
+Ashkelon Sports Arena	seatingCapacity	3000
+Hank DeVincent Field	seatingCapacity	1000
+Stoughton Opera House	seatingCapacity	495
+Gradski stadion (Kutina)	seatingCapacity	2000
+Teatro de la Maestranza	seatingCapacity	1800
+Joe Faber Field	seatingCapacity	2000
+Milwaukee Theatre	seatingCapacity	4086
+Gateshead F.C. new stadium	seatingCapacity	7856
+St. Lawrence Centre for the Arts	seatingCapacity	876
+St. Lawrence Centre for the Arts	seatingCapacity	498
+Estadio Municipal de Pasarón	seatingCapacity	12500
+Hippodroom Waregem	seatingCapacity	30000
+Robbie Mills Field	seatingCapacity	1200
+Jõhvi linnastaadion	seatingCapacity	500
+Schwa (restaurant)	seatingCapacity	26
+Opera House Theatre, Blackpool	seatingCapacity	2920
+CSKA Ice Palace	seatingCapacity	5600
+Physical Education Complex	seatingCapacity	4100
+Cooks Gardens	seatingCapacity	20700
+Connaught Theatre	seatingCapacity	512
+Finch Field	seatingCapacity	2000
+Oriental Theatre (Portland)	seatingCapacity	2038
+John Cunningham Stadium	seatingCapacity	1200
+Red McEwen Field	seatingCapacity	2500
+Reese Smith Jr. Field	seatingCapacity	2600
+Robin Baggett Stadium	seatingCapacity	1534
+Long Field at Mauck Stadium	seatingCapacity	1200
+Presley Askew Field	seatingCapacity	750
+Ball Diamond	seatingCapacity	1700
+Olga Mural Field at Schoonover Stadium	seatingCapacity	1148
+Creighton Sports Complex	seatingCapacity	2000
+Creighton Sports Complex	seatingCapacity	1000
+John Sessions Stadium	seatingCapacity	1500
+CofC Baseball Stadium at Patriot's Point	seatingCapacity	2000
+Maes Tegid	seatingCapacity	3000
+Lamb's Theatre	seatingCapacity	350
+NAC stadion Heuvelstraat	seatingCapacity	5500
+NAC Stadion t Ploegske	seatingCapacity	3000
+Giant Olive Theatre Company	seatingCapacity	60
+Thyagaraj Sports Complex	seatingCapacity	4494
+Forestburgh Playhouse	seatingCapacity	290
+Brewhouse Theatre	seatingCapacity	350
+Kiev Academic Puppet Theatre	seatingCapacity	300
+Kiev Academic Puppet Theatre	seatingCapacity	100
+Arclight Theatre	seatingCapacity	99
+DnB NOR Arena	seatingCapacity	2000
+Estadio Vicente Carreño Alonso	seatingCapacity	2000
+Stadio Stefano Lotti	seatingCapacity	3600
+Southampton Guildhall	seatingCapacity	1749
+National Theatre in Niš	seatingCapacity	687
+Wavertree Athletics Centre	seatingCapacity	480
+University of Santo Tomas Sports Complex	seatingCapacity	5792
+Marina Theatre	seatingCapacity	751
+Changwon Football Center	seatingCapacity	15500
+BGŻ Arena	seatingCapacity	1800
+Mokpo International Football Center	seatingCapacity	5952
+National Theatre in Subotica	seatingCapacity	266
+National Theatre in Subotica	seatingCapacity	60
+Teatro Verga	seatingCapacity	1000
+French Field (Kent, Washington)	seatingCapacity	3600
+Livestrong Sporting Park	seatingCapacity	18467
+Livestrong Sporting Park	seatingCapacity	25000
+Pizzeria Bianco	seatingCapacity	42
+Beijing National Stadium	seatingCapacity	8000091000
+Olimpijski Bazen Otoka	seatingCapacity	558
+Estádio Monte Pe Largo	seatingCapacity	10
+Globe Arena (football stadium)	seatingCapacity	6476
+Olympic Stadium (Słubice)	seatingCapacity	10000
+Bimbo's 365 Club	seatingCapacity	475
+Bimbo's 365 Club	seatingCapacity	685
+Georg-Gaßmann-Stadion	seatingCapacity	12000
+Park Grill	seatingCapacity	300
+Stadion an der Gisselberger Straße	seatingCapacity	4000
+Woodforest Bank Stadium	seatingCapacity	9600
+Garden City Soccer Complex	seatingCapacity	500
+National Theatre "Toša Jovanović"	seatingCapacity	314
+Rudolf-Kalweit-Stadion	seatingCapacity	18000
+David Abashidze Stadium	seatingCapacity	4558
+Stadion Oboj	seatingCapacity	247
+Drill Field	seatingCapacity	6000
+Stadion Park mladeži	seatingCapacity	4075
+Friedrichstadt Palast	seatingCapacity	1895
+The Lamb Theatre	seatingCapacity	80
+El Gouna Stadium	seatingCapacity	12000
+Omnisport Apeldoorn	seatingCapacity	5000
+Omnisport Apeldoorn	seatingCapacity	2000
+The Cock Tavern Theatre	seatingCapacity	56
+Theatre of N.O.T.E.	seatingCapacity	99
+ARK Theatre Company	seatingCapacity	99
+Theatre Royal, Lincoln	seatingCapacity	482
+Oiler Park	seatingCapacity	4000
+Petersen Sports Complex	seatingCapacity	735
+Petersen Sports Complex	seatingCapacity	900
+Petersen Sports Complex	seatingCapacity	600
+Volos Municipal Stadium	seatingCapacity	9000
+Ossian C. Bird Arena	seatingCapacity	2000
+University of Illinois Ice Arena	seatingCapacity	2000
+Ames/ISU Ice Arena	seatingCapacity	1000
+Stadion Hrvatski vitezovi	seatingCapacity	5200
+Vélodrome de Bordeaux	seatingCapacity	4560
+Peter Jubeck  Clara's Lansing Station   1	seatingCapacity	260
+Peter Jubeck  Clara's on the River   1	seatingCapacity	375
+University of Lethbridge Community Stadium	seatingCapacity	2000
+Baku Puppet Theatre	seatingCapacity	210
+Perth SpeedDome	seatingCapacity	1500
+ADT Event Center	seatingCapacity	2450
+South Alabama Soccer Complex	seatingCapacity	500
+Dugdale Field	seatingCapacity	15000
+No. 3 Court (Wimbledon)	seatingCapacity	2000
+Centre In The Square	seatingCapacity	2047
+Scully-Fahey Field	seatingCapacity	1600
+Rabat Ajax Football Ground	seatingCapacity	700
+Makhulong Stadium	seatingCapacity	10000
+Coetzenburg Stadium	seatingCapacity	14000
+Sabancı Cultural Center	seatingCapacity	368
+Ice Line Quad Rinks	seatingCapacity	500
+Bonnie Castle Recreation Center	seatingCapacity	3500
+Pop Keeney Stadium	seatingCapacity	4500
+Guling Street Avant-garde Theatre	seatingCapacity	50
+Philadelphia United German-Hungarians  Field 1   1	seatingCapacity	2000
+Théâtre Silvia-Monfort	seatingCapacity	456
+Gary Hogan Field	seatingCapacity	2550
+Le Papillon (restaurant)	seatingCapacity	65
+Malcolm U. Pitt Field	seatingCapacity	600
+Tomlinson Stadium–Kell Field	seatingCapacity	1000
+Matador Field	seatingCapacity	1200
+FAU Baseball Stadium	seatingCapacity	2000
+Mission Theatre & Pub	seatingCapacity	300
+Warhawk Field	seatingCapacity	1800
+T. Henry Wilson, Jr. Field	seatingCapacity	700
+Walter C. Latham Park	seatingCapacity	2000
+Strode Theatre	seatingCapacity	343
+West Lake Restaurant	seatingCapacity	5000
+Bowditch Field	seatingCapacity	5800
+Estadio Pepe Rojo	seatingCapacity	5000
+Stadio Tre Fontane	seatingCapacity	4000
+Stade d'Angondjé	seatingCapacity	40000
+Spokane Civic Theatre	seatingCapacity	339
+The Iceberg Arena	seatingCapacity	1245
+College Stadium	seatingCapacity	2000
+Afrikaanderplein	seatingCapacity	2
+Kromme Zandweg	seatingCapacity	12
+Corrigan Park	seatingCapacity	5500
+Estadio de Bata	seatingCapacity	22000
+Sports Plus Arena	seatingCapacity	1200
+Stadion der Freundschaft (Frankfurt (Oder))	seatingCapacity	12000
+Compass Theatre	seatingCapacity	158
+Stadion Koturaška	seatingCapacity	10000
+Stadionul Dunărea Zimnicea	seatingCapacity	2000
+Marsaxlokk Ground	seatingCapacity	1000
+Stadion Radnik	seatingCapacity	8000
+Lokomotiv Stadium (Stara Zagora)	seatingCapacity	10000
+Nikaia Municipal Gymnasium	seatingCapacity	4
+New Corinthians Stadium	seatingCapacity	65000
+Historic Sanford Memorial Stadium	seatingCapacity	2015
+The Valley (football ground)	seatingCapacity	1000
+Clifton Lane	seatingCapacity	2500
+Mennaye Field	seatingCapacity	3500
+Castle Park rugby stadium	seatingCapacity	3075
+Ackerville Stadium	seatingCapacity	11000
+Botshabelo Stadium	seatingCapacity	20000
+Pilditch Stadium	seatingCapacity	20000
+Richards Bay Stadium	seatingCapacity	8000
+Ulundi Stadium	seatingCapacity	8000
+Lebowakgomo Stadium	seatingCapacity	2000
+Pegula Ice Arena	seatingCapacity	6000
+Cathedral Prep Events Center	seatingCapacity	2500
+59E59 Theaters	seatingCapacity	196
+Forshaw Park	seatingCapacity	2000
+Théâtre Antoine-Simone Berriau	seatingCapacity	780
+Estadio Alfonso Murube	seatingCapacity	6500
+Théâtre Pigalle	seatingCapacity	1100
+Los Roques Restaurante	seatingCapacity	40
+Shinjuku Face	seatingCapacity	600
+Capitol Theatre (Woodstock, Ontario)	seatingCapacity	1400
+Minne Lusa Theater	seatingCapacity	400
+Annette Strauss Square	seatingCapacity	5000
+Arena Fyn	seatingCapacity	4000
+Arena Fyn	seatingCapacity	5500
+Victor Tedesco Stadium	seatingCapacity	6000
+Doha Port Stadium	seatingCapacity	45000
+Il-Foss	seatingCapacity	1000
+STAR Soccer Complex	seatingCapacity	5400
+Heroes Stadium	seatingCapacity	11122
+The Rapids Theatre	seatingCapacity	1700
+Delhi University Stadium	seatingCapacity	10132
+Aylesbury Waterside Theatre	seatingCapacity	1200
+Høddvoll Stadion	seatingCapacity	3120
+Randaberg Stadion	seatingCapacity	3000
+Føyka Stadion	seatingCapacity	2000
+Wealthy Theatre	seatingCapacity	400
+Stade Imam Lyes de Médéa	seatingCapacity	12000
+Théâtre Déjazet	seatingCapacity	600
+Royal & Derngate	seatingCapacity	583
+Alice Noble Ice Arena	seatingCapacity	900
+Stanford Field	seatingCapacity	15000
+Clonmel GAA Ground	seatingCapacity	5000
+Narrabundah Ballpark	seatingCapacity	1500
+Woodside Road	seatingCapacity	4000
+Stade Harry Latour	seatingCapacity	2000
+BlackRock Center for the Arts	seatingCapacity	200
+Toleafoa J.S Blatter Soccer Stadium	seatingCapacity	3500
+Capitol Theatre Center	seatingCapacity	852
+Lusail Iconic Stadium	seatingCapacity	86250
+Al-Shamal Stadium	seatingCapacity	45330
+Umm Salal Stadium	seatingCapacity	45000
+Education City Stadium	seatingCapacity	45000
+Qatar University Stadium	seatingCapacity	43500
+Park Performing Arts Center	seatingCapacity	1400
+Al-Khor Stadium	seatingCapacity	45000
+Rugby League Park	seatingCapacity	10000
+Rajarshi Shahu Stadium	seatingCapacity	10000
+Stony Brook University Arena	seatingCapacity	4160
+Latham Baseball Stadium	seatingCapacity	2000
+Théâtre de la Madeleine	seatingCapacity	709
+Taichung Metropolitan Opera House	seatingCapacity	2011
+Crenshaw Memorial Stadium	seatingCapacity	6000
+J. I. Clements Stadium	seatingCapacity	3000
+UNCG Baseball Stadium	seatingCapacity	3500
+Joe Lee Griffin Stadium	seatingCapacity	1000
+Russell C. King Field	seatingCapacity	2500
+Falcon Baseball Field	seatingCapacity	1000
+Prince's Theatre, Manchester	seatingCapacity	1590
+Puppet Theatre Barge	seatingCapacity	50
+Alabama Soccer Stadium	seatingCapacity	1500
+Stadio Gino Manni	seatingCapacity	3000
+Murbat Stadium	seatingCapacity	21442
+Wadi Al Rabi Stadium	seatingCapacity	50000
+Al Kremiah Stadium	seatingCapacity	25000
+Billy Hayes Track	seatingCapacity	3200
+Théâtre Espace Go	seatingCapacity	160
+Wigston Road Ground	seatingCapacity	5000
+Chowdiah Memorial Hall	seatingCapacity	1100
+Jericho International Stadium	seatingCapacity	15000
+Kaliningrad Stadium	seatingCapacity	45015
+Moscow Region Stadium	seatingCapacity	44257
+Samara Stadium	seatingCapacity	44918
+Nizhny Novgorod Stadium	seatingCapacity	44899
+Saransk Stadium	seatingCapacity	45015
+Krasnodar Stadium	seatingCapacity	50015
+Rostov-on-Don Stadium	seatingCapacity	43702
+Hardtwaldstadion	seatingCapacity	10231
+Academy of Music Theatre	seatingCapacity	800
+Birmingham Repertory Theatre	seatingCapacity	824
+Karaiskakis Stadium	seatingCapacity	33334
+Irondale Center	seatingCapacity	250
+G'uzor Stadium	seatingCapacity	7000
+Progress Stadium	seatingCapacity	5000
+Hamar stadion	seatingCapacity	30000
+Buccaneer Ballpark	seatingCapacity	1500
+Tuscaloosa Amphitheater	seatingCapacity	7470
+Shurtan Stadium	seatingCapacity	30000
+Théâtre de Paris	seatingCapacity	1100
+Paljor Stadium	seatingCapacity	15000
+Paljor Stadium	seatingCapacity	25000
+Studio Theatre in Łódź	seatingCapacity	60
+Trinity Theatre	seatingCapacity	350
+Kartli Stadium	seatingCapacity	1500
+Eugene B. Depew Field	seatingCapacity	500
+Sonny Pittaro Field	seatingCapacity	2000
+USF Baseball Stadium	seatingCapacity	3211
+Buck Owens Crystal Palace	seatingCapacity	550
+Gray–Minor Stadium	seatingCapacity	1400
+Utena Arena	seatingCapacity	2000
+Utena Arena	seatingCapacity	3000
+Bakersfield Ice Sports Center	seatingCapacity	500
+Warehouse Theatre	seatingCapacity	100
+Estadio Alejandro Ortea	seatingCapacity	2000
+Wheeler Opera House	seatingCapacity	503
+Zamboanga City Coliseum	seatingCapacity	15000
+Centre Park	seatingCapacity	3000
+Amherst Audubon Field	seatingCapacity	500
+Evgrapi Shevardnadze Stadium	seatingCapacity	22000
+Théâtre de l'Atelier	seatingCapacity	563
+Footes Lane	seatingCapacity	5000
+HaKiriya Arena	seatingCapacity	1200
+HaKiriya Arena	seatingCapacity	760
+Café de la Gare	seatingCapacity	450
+Ravindra Kalakshetra	seatingCapacity	1500
+Comalander Stadium	seatingCapacity	10952
+La Cigale	seatingCapacity	954
+La Cigale	seatingCapacity	1389
+Chungju Stadium	seatingCapacity	15000
+Stadio Rino Mercante	seatingCapacity	2952
+The House (restaurant)	seatingCapacity	36
+Fred Stillwell Stadium	seatingCapacity	1200
+Polideportivo El Plantío	seatingCapacity	2500
+Peacock Alley (restaurant)	seatingCapacity	60
+Ken Dugan Field at Stephen Lee Marsh Stadium	seatingCapacity	1500
+Steel Slovakia aréna	seatingCapacity	2500
+Štadión Rapid	seatingCapacity	3000
+Shiro (restaurant)	seatingCapacity	18
+Restaurant Gordon Ramsay	seatingCapacity	45
+New Minaa Stadium	seatingCapacity	30000
+Claude Smith Field	seatingCapacity	500
+Atlantic Grill	seatingCapacity	220
+Babbacombe Theatre	seatingCapacity	600
+Dunderry Lodge	seatingCapacity	140
+Clinton St. Baking Company & Restaurant	seatingCapacity	32
+Cleveland S. Harley Baseball Park	seatingCapacity	500
+Gunther Park	seatingCapacity	5000
+Metro Sports Center	seatingCapacity	500
+Newmarket Stadium	seatingCapacity	15000
+Heath Park (Brisbane)	seatingCapacity	1000
+Goodwin Park	seatingCapacity	1500
+A.J. Kelly Park	seatingCapacity	1500
+Bear Stadium	seatingCapacity	1000
+Wynberg Military Base Stadium	seatingCapacity	2500
+Nischwitz Stadium	seatingCapacity	750
+Mtskheta Park	seatingCapacity	2000
+Stærekassen	seatingCapacity	775
+University of the Western Cape Stadium	seatingCapacity	2500
+Underwood Park, Rochedale	seatingCapacity	5000
+Carmichael Park, Tingalpa	seatingCapacity	4000
+Henderson Stadium (Macon, Georgia)	seatingCapacity	8400
+Kenwyn Rugby Ground	seatingCapacity	5800
+Brian Friel Theatre	seatingCapacity	120
+Yunost Stadium (Armavir)	seatingCapacity	3
+Yunost Stadium (Armavir)	seatingCapacity	400
+Kabokweni Stadium	seatingCapacity	8000
+Arena Savaria	seatingCapacity	3500
+Arena Savaria	seatingCapacity	7000
+Magvassy Mihály Sportcsarnok	seatingCapacity	2800
+KaNyamazane Stadium	seatingCapacity	15000
+John Walker Soccer Complex	seatingCapacity	1500
+Tiszaligeti Sportcsarnok	seatingCapacity	3000
+West Bengal football team  Salt Lake Stadium   1	seatingCapacity	120000
+Eighth Kilometer District Stadium	seatingCapacity	11000
+New Bordeaux stadium	seatingCapacity	42566
+Dimitar Burkov Stadium	seatingCapacity	10000
+Arena Thun	seatingCapacity	10000
+Gradski Stadion (Gradiška)	seatingCapacity	5000
+Maktoum Bin Rashid Al Maktoum Stadium	seatingCapacity	18000
+Baniyas Stadium	seatingCapacity	22000
+UAA Community Arena	seatingCapacity	5600
+Alhambra (Paris)	seatingCapacity	600
+National Indoor BMX Arena	seatingCapacity	2000
+Estadio Pedro Escartín	seatingCapacity	5000
+Kiggins Theatre	seatingCapacity	340
+Charles H. Braun Stadium	seatingCapacity	1200
+Duffy Bass Field	seatingCapacity	1200
+Estadio El Serpentario	seatingCapacity	12000
+Abe Martin Field	seatingCapacity	2000

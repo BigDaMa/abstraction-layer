@@ -1,0 +1,23 @@
+Apollo 8	serviceModule	SM-103 mass
+Apollo 11	serviceModule	SM-107
+Apollo 11	serviceModule	mass
+Apollo 13	serviceModule	SM-109
+Apollo 13	serviceModule	mass
+Apollo 7	serviceModule	SM-101
+Apollo 9	serviceModule	SM-104
+Apollo 10	serviceModule	SM-106
+Apollo 1	serviceModule	SM-012
+Apollo 15	serviceModule	SM-112
+Apollo 15	serviceModule	mass
+Apollo 14	serviceModule	SM-110
+Apollo 12	serviceModule	SM-108
+Apollo 16	serviceModule	SM-113
+Apollo 16	serviceModule	mass
+Apollo 17	serviceModule	SM-114
+Apollo 17	serviceModule	mass
+Apollo 6	serviceModule	SM-014
+Apollo 6	serviceModule	CM+SM mass
+Apollo 4	serviceModule	SM-017
+Apollo 4	serviceModule	CM+SM  mass
+AS-201	serviceModule	SM-009
+AS-202	serviceModule	SM-011

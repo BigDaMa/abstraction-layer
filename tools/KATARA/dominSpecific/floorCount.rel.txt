@@ -1,0 +1,3688 @@
+Bank of China Tower, Hong Kong	floorCount	72
+Bank of China Tower, Hong Kong	floorCount	4
+CN Tower	floorCount	147
+Chrysler Building	floorCount	77
+Central Plaza, Hong Kong	floorCount	78
+Central Plaza, Hong Kong	floorCount	3
+Eiffel Tower	floorCount	3
+Empire State Building	floorCount	102
+Hopewell Centre, Hong Kong	floorCount	64
+Willis Tower	floorCount	108
+The Center	floorCount	73
+United States Capitol	floorCount	5
+Palace of Culture and Science, Warsaw	floorCount	42
+John Hancock Center	floorCount	100
+Aon Center (Chicago)	floorCount	83
+Aon Center (Chicago)	floorCount	5
+Transamerica Pyramid	floorCount	48
+Tour Montparnasse	floorCount	59
+Tribune Tower	floorCount	36
+Radcliffe Camera	floorCount	2
+Tolworth  Tower   1	floorCount	22
+Mall of America	floorCount	4
+Petronas Towers	floorCount	88
+Commerzbank Tower	floorCount	56
+BT Tower	floorCount	36
+Fox Plaza (Los Angeles)	floorCount	35
+International Finance Centre	floorCount	88
+One Canada Square	floorCount	50
+30 St Mary Axe	floorCount	40
+Tower 42	floorCount	47
+United Nations Headquarters	floorCount	39
+Two World Trade Center	floorCount	88
+Taipei 101	floorCount	101
+Space Needle	floorCount	6
+Flatiron Building	floorCount	22
+Woolworth Building	floorCount	57
+Smith Tower	floorCount	38
+Roppongi Hills	floorCount	54
+8 Canada Square	floorCount	45
+Singer Building	floorCount	47
+7 World Trade Center	floorCount	52
+Vidhana Soudha	floorCount	4
+Sheffield Town Hall	floorCount	6
+JPMorgan Chase Tower (Houston)	floorCount	75
+Bank of America Plaza (Atlanta)	floorCount	55
+SunTrust Plaza	floorCount	60
+One Atlantic Center	floorCount	50
+191 Peachtree Tower	floorCount	50
+Georgia-Pacific Tower	floorCount	52
+Westin Peachtree Plaza Hotel	floorCount	73
+Promenade II	floorCount	38
+U.S. Bank Tower (Los Angeles)	floorCount	73
+Seagram Building	floorCount	38
+Harkness Tower	floorCount	9
+Ryugyong Hotel	floorCount	105
+Moshe Aviv Tower	floorCount	74
+Shalom Meir Tower	floorCount	34
+Hedonism Resorts	floorCount	2
+Hedonism Resorts  Hedonism III   1	floorCount	3
+Ostankino Tower	floorCount	120
+MetLife Building	floorCount	59
+Time Warner Center	floorCount	55
+Columbia Center	floorCount	76
+Bank of America Plaza (Dallas)	floorCount	72
+Lincoln Bank Tower	floorCount	22
+Michael's Gate	floorCount	7
+HSBC Main Building, Hong Kong	floorCount	44
+Chinese People's Liberation Army Forces Hong Kong Building	floorCount	28
+Hotel Vancouver	floorCount	17
+Belcourt Castle	floorCount	3
+Rialto Towers	floorCount	63
+Jin Mao Tower	floorCount	88
+Oriental Pearl Tower	floorCount	14
+Merchandise Mart	floorCount	18
+Chase Tower (Indianapolis)	floorCount	48
+Näsinneula tower	floorCount	2
+Portland Building	floorCount	15
+Renaissance Tower (Dallas)	floorCount	56
+Comerica Bank Tower	floorCount	60
+Balfron Tower	floorCount	27
+Chase Tower (Dallas)	floorCount	55
+Fountain Place	floorCount	63
+Key Tower	floorCount	57
+Williams Tower	floorCount	64
+GE Building	floorCount	70
+John Hancock Tower	floorCount	60
+Bank of America Center (Houston)	floorCount	56
+Wells Fargo Plaza (Houston)	floorCount	71
+Franklin Center (Chicago)	floorCount	60
+Franklin Center (Chicago)	floorCount	2
+U.S. Steel Tower	floorCount	64
+John Rylands Library	floorCount	5
+Citigroup Centre, London	floorCount	45
+American International Building	floorCount	66
+Lloyd's building	floorCount	14
+One Worldwide Plaza	floorCount	50
+Toronto-Dominion Centre	floorCount	22
+Waldorf-Astoria Hotel	floorCount	47
+Bank of America Corporate Center	floorCount	60
+International Commerce Centre	floorCount	118
+Philadelphia City Hall	floorCount	9
+Eureka Tower	floorCount	91
+Atlanta Marriott Marquis	floorCount	52
+W. E. B. Du Bois Library	floorCount	26
+Beograđanka	floorCount	30
+555 California Street	floorCount	52
+Burj Al Arab	floorCount	70
+IDS Center	floorCount	57
+Q1 (building)	floorCount	80
+Milad Tower	floorCount	12
+Kuala Lumpur Tower	floorCount	6
+Home Insurance Building	floorCount	10
+One Churchill Place	floorCount	32
+25 Bank Street	floorCount	33
+10 Upper Bank Street	floorCount	32
+St Helen's (Building)	floorCount	28
+London Hilton on Park Lane	floorCount	28
+The London Ark	floorCount	10
+State of Georgia Building	floorCount	44
+40 Wall Street	floorCount	70
+Price Tower	floorCount	19
+CITIC Plaza	floorCount	80
+Shun Hing Square	floorCount	69
+Broadcasting House	floorCount	9
+Goldman Sachs Tower	floorCount	42
+Newport Tower (Jersey City)	floorCount	37
+Avala Tower	floorCount	38
+Triumph Palace	floorCount	52
+BBC Television Centre	floorCount	8
+Trump International Hotel and Tower (Chicago)	floorCount	98
+Rotunda (Birmingham)	floorCount	25
+Freedom Ship	floorCount	25
+Flatiron Building (Atlanta)	floorCount	11
+Madonna Inn	floorCount	1
+Madonna Inn	floorCount	2
+Eric Williams Plaza	floorCount	22
+First Hawaiian Center	floorCount	30
+MLC Centre	floorCount	60
+ExxonMobil Building	floorCount	44
+Torre Picasso	floorCount	46
+Shard London Bridge	floorCount	87
+Burj Khalifa	floorCount	163
+Burj Khalifa	floorCount	2
+Sky City 1000	floorCount	196
+Keeling House	floorCount	16
+X-Seed 4000	floorCount	800
+Emirates Office Tower	floorCount	54
+Tuntex Sky Tower	floorCount	85
+Bell Atlantic Tower	floorCount	55
+Tokyo Metropolitan Government Building	floorCount	48
+Energy Plaza	floorCount	49
+Bourke Place	floorCount	51
+120 Collins Street	floorCount	52
+Shreepati Arcade	floorCount	45
+Manhattan Life Insurance Building	floorCount	18
+Park Row Building	floorCount	30
+San Francisco City Hall	floorCount	4
+Sunshine 60	floorCount	60
+Sunshine 60	floorCount	5
+Trump World Tower	floorCount	72
+Citigroup Center	floorCount	59
+CitySpire Center	floorCount	73
+One Chase Manhattan Plaza	floorCount	60
+311 South Wacker Drive	floorCount	65
+Two Prudential Plaza	floorCount	64
+900 North Michigan	floorCount	66
+Chase Tower (Chicago)	floorCount	60
+Samsung Tower Palace 3 – Tower G	floorCount	73
+Berlaymont building	floorCount	14
+Wrest Point Hotel Casino	floorCount	17
+Public Service Enterprise Group  80 Park Plaza   1	floorCount	26
+Turning Torso	floorCount	54
+Prudential Tower	floorCount	52
+Federal Reserve Bank Building (Boston)	floorCount	32
+111 Huntington Avenue	floorCount	36
+Midland Bank building, Manchester	floorCount	10
+Osgoode Hall	floorCount	3
+Jumeirah Emirates Towers Hotel	floorCount	56
+Four Seasons Hotel Miami	floorCount	70
+Southeast Financial Center	floorCount	55
+Kenyatta International Conference Centre	floorCount	30
+385 Bourke Street	floorCount	41
+Palace of the Soviets	floorCount	100
+60 State Street	floorCount	38
+Exchange Place (Boston)	floorCount	40
+Custom House Tower	floorCount	32
+One Boston Place	floorCount	41
+28 State Street	floorCount	40
+One Devonshire Place	floorCount	42
+One International Place	floorCount	46
+33 Arch Street	floorCount	33
+One Federal Street	floorCount	39
+One Financial Center	floorCount	46
+One Beacon Street	floorCount	37
+Carlton Centre	floorCount	50
+Old City Hall (Toronto)	floorCount	7
+Renaissance Center	floorCount	73
+Renaissance Center	floorCount	39
+Renaissance Center	floorCount	21
+Renaissance Center  Detroit Marriott at the Renaissance Center   1	floorCount	72
+Corn Palace	floorCount	2
+Royal Museum	floorCount	3
+Place Ville-Marie	floorCount	47
+London Road Fire Station, Manchester	floorCount	4
+Westin Bonaventure Hotel	floorCount	35
+Los Angeles City Hall	floorCount	32
+Torre Mayor	floorCount	55
+Torre Latinoamericana	floorCount	44
+World Trade Center Mexico City	floorCount	52
+1000 de La Gauchetière	floorCount	51
+Fairmont Royal York	floorCount	28
+Queen Elizabeth Hotel	floorCount	21
+Genex Tower	floorCount	35
+Radio City Tower	floorCount	2
+Trump Tower (New York City)	floorCount	58
+PPG Place	floorCount	40
+BNY Mellon Center (Pittsburgh)	floorCount	55
+Hotel del Coronado	floorCount	7
+AT&T Building (Nashville)	floorCount	33
+Regions Center (Nashville)	floorCount	28
+Baltimore World Trade Center	floorCount	30
+Complexe Desjardins	floorCount	40
+BNY Mellon Center (Philadelphia)	floorCount	54
+South Tower (Brussels)	floorCount	38
+Sun Life Building	floorCount	24
+Aurora Tower	floorCount	69
+Tour CIBC	floorCount	45
+Victoria Palace	floorCount	3
+Saudi-Pak Tower	floorCount	19
+Central Plaza 1, Brisbane	floorCount	44
+Riparian Plaza	floorCount	53
+AMP Place, Brisbane	floorCount	35
+1100 Peachtree	floorCount	28
+Tomorrow Square	floorCount	55
+Yokohama Landmark Tower	floorCount	70
+Lever House	floorCount	24
+Cheung Kong Center	floorCount	62
+Tower at Cityplace	floorCount	42
+Life & Casualty Tower	floorCount	30
+Wells Fargo Center (Minneapolis)	floorCount	57
+Tour de la Bourse	floorCount	48
+Scotia Plaza	floorCount	68
+Goodnow Hall (Kansas State University)	floorCount	6
+Spinnaker Tower	floorCount	4
+Jardine House	floorCount	52
+Chater House	floorCount	30
+Hong Kong Club Building (1897)	floorCount	5
+United Nations Secretariat Building	floorCount	39
+Windsor Tower (Madrid)	floorCount	3
+Gran Hotel Bali	floorCount	52
+Church Office Building	floorCount	28
+Central Park (skyscraper)	floorCount	51
+BankWest Tower	floorCount	52
+Metropolitan Life North Building	floorCount	30
+Brooks Building	floorCount	12
+Tour Initiale	floorCount	30
+Al Faisaliyah Center	floorCount	44
+One Detroit Center	floorCount	43
+Trump International Hotel and Tower (Toronto)	floorCount	57
+Oxon Hoath	floorCount	3
+Menara Telekom	floorCount	55
+Celtic Manor Resort	floorCount	11
+Kingdom Centre	floorCount	41
+Kingdom Centre	floorCount	2
+Roppongi Hills Mori Tower	floorCount	54
+Roppongi Hills Mori Tower	floorCount	6
+Sapporo TV Tower	floorCount	5
+Atakule Tower	floorCount	4
+Baiyoke Tower II	floorCount	85
+Alpha Tower	floorCount	28
+103 Colmore Row	floorCount	23
+103 Colmore Row  Approved   1	floorCount	35
+Five Ways Tower	floorCount	23
+Centre City Tower (Birmingham)	floorCount	21
+1 Snow Hill Plaza	floorCount	20
+Quayside Tower	floorCount	19
+Colmore Gate	floorCount	15
+The McLaren Building	floorCount	21
+Metropolitan House	floorCount	19
+Edgbaston House	floorCount	18
+BT Tower (Birmingham)	floorCount	31
+60 Wall Street	floorCount	55
+One Times Square	floorCount	25
+1250 René-Lévesque	floorCount	47
+KOMTAR	floorCount	65
+BMW Headquarters	floorCount	22
+City-Hochhaus Leipzig	floorCount	29
+Park Inn Berlin	floorCount	37
+Arabella High-Rise Building	floorCount	23
+Hotel Macdonald	floorCount	11
+The Oracle (building)	floorCount	50
+Arts Tower	floorCount	20
+Dorint Hotel Tower	floorCount	35
+122 Leadenhall Street	floorCount	19
+122 Leadenhall Street  he Leadenhall Building   1	floorCount	48
+Sevilla Hotel	floorCount	10
+Providence Biltmore	floorCount	18
+Messeturm	floorCount	63
+Metropolitan Life Insurance Company Tower	floorCount	50
+Canada Life Building	floorCount	15
+Brewster-Douglass Housing Projects	floorCount	14
+Metro Hall	floorCount	27
+West Pearl Tower	floorCount	17
+One Wall Centre	floorCount	48
+Torre Agbar	floorCount	33
+PBCom Tower	floorCount	52
+Marlatt Hall	floorCount	6
+21st Century Tower	floorCount	55
+1501 McGill College	floorCount	36
+Biodesign Institute	floorCount	4
+New York Marriott Marquis	floorCount	49
+Tour KPMG	floorCount	34
+Fairmont Singapore	floorCount	26
+8 Shenton Way	floorCount	52
+Torre Ejecutiva Pemex	floorCount	54
+Sorrento, Hong Kong	floorCount	75
+OUB Centre	floorCount	63
+OUB Centre	floorCount	4
+Republic Plaza (Singapore)	floorCount	66
+Capital Tower (Singapore)	floorCount	52
+George Washington Masonic National Memorial	floorCount	9
+California State Capitol	floorCount	3
+Wells Fargo Center (Portland, Oregon)	floorCount	41
+Willis Building (London)	floorCount	26
+Taj Mahal Palace & Tower	floorCount	22
+Sunlight House	floorCount	14
+Fox Tower	floorCount	27
+US Bancorp Tower	floorCount	42
+Congress Center	floorCount	23
+PacWest Center	floorCount	30
+Standard Insurance Center	floorCount	27
+Gate of Europe	floorCount	26
+Canada Place	floorCount	23
+Edgbaston Hall	floorCount	3
+KOIN Center	floorCount	35
+Emirates Towers	floorCount	56
+Fairmont Palliser Hotel	floorCount	12
+Gaylord Opryland Resort & Convention Center	floorCount	6
+Albuquerque Plaza	floorCount	22
+Hyatt Regency Albuquerque	floorCount	20
+Compass Bank Building (Albuquerque)	floorCount	18
+Bank of the West Tower, Albuquerque	floorCount	15
+Bank of the West Tower (Albuquerque)	floorCount	17
+Bishopsgate Tower	floorCount	63
+Gaylord Palms Resort & Convention Center	floorCount	9
+Marina City	floorCount	65
+Bank of America Tower (New York City)	floorCount	58
+Gold Building	floorCount	14
+Dennis Chavez Federal Building	floorCount	13
+PNM Building	floorCount	12
+Simms Building	floorCount	13
+Pete V. Domenici United States Courthouse	floorCount	7
+63 Building	floorCount	63
+Maintower	floorCount	56
+SEG Plaza	floorCount	70
+Ponte City Apartments	floorCount	54
+11 Diagonal Street	floorCount	20
+Trust Bank Building	floorCount	31
+UCS Building	floorCount	29
+IBM Building, Johannesburg	floorCount	25
+Marble Towers	floorCount	32
+Absa Tower	floorCount	32
+The Empress Hotel (New Jersey)	floorCount	4
+Suncor Energy Centre	floorCount	53
+Raffles City	floorCount	42
+Raffles City	floorCount	3
+Miami Tower	floorCount	47
+AXA Center	floorCount	54
+The Cullinan	floorCount	68
+Admiralty House, London	floorCount	3
+Chicago Spire	floorCount	150
+Penang Times Square	floorCount	30
+Federal Reserve Bank of Boston	floorCount	32
+The Algonquin	floorCount	6
+Summit Square	floorCount	27
+Vienna Twin Tower	floorCount	37
+David Whitney Building	floorCount	19
+1180 Peachtree	floorCount	41
+Torres de Colón	floorCount	23
+Comcast Center (Philadelphia)	floorCount	58
+Citigroup Center (Chicago)	floorCount	42
+Trump Hotel Las Vegas	floorCount	64
+Millennium Tower (London)	floorCount	92
+The Illinois	floorCount	528
+Nichols Hall	floorCount	3
+Pui Tak Center	floorCount	3
+Gonda Building	floorCount	21
+Palazzo Versace Australia	floorCount	5
+Castlemead	floorCount	18
+Lake Point Tower	floorCount	70
+Federation Tower	floorCount	93
+Federation Tower	floorCount	62
+Hearst Tower (New York City)	floorCount	46
+Plantation Place	floorCount	16
+Heron Tower	floorCount	46
+Smurfit-Stone Building	floorCount	41
+Gulf Tower	floorCount	44
+Star City Casino	floorCount	17
+Koppers Tower	floorCount	34
+Grant Building	floorCount	40
+Fifth Avenue Place (Pittsburgh)	floorCount	31
+Oxford Centre	floorCount	46
+Frick Building	floorCount	20
+Blue Cross Centre	floorCount	9
+Metropolitan Tower (New York)	floorCount	77
+Carnegie Hall Tower	floorCount	60
+Oregon Convention Center	floorCount	4
+Three World Financial Center	floorCount	51
+Moorhouse (building)	floorCount	19
+Freshwater Place	floorCount	60
+The Imperial (Mumbai)	floorCount	60
+Trianon (Frankfurt am Main)	floorCount	45
+New York World Building	floorCount	20
+Grand Hotel, Vienna	floorCount	5
+10 Universal City Plaza, Universal City, California	floorCount	36
+Milwaukee City Hall	floorCount	15
+One HSBC Center	floorCount	40
+Wells Fargo Center (Denver)	floorCount	52
+W. R. Grace Building	floorCount	50
+Genesee Towers	floorCount	19
+Glenkerry House	floorCount	14
+Mark O. Hatfield United States Courthouse	floorCount	16
+Morris Castle	floorCount	4
+Old Government House, Queensland	floorCount	2
+Russia Tower	floorCount	118
+Llao Llao Hotel	floorCount	3
+Claremont Resort	floorCount	10
+Customs House, Brisbane	floorCount	3
+Riverside Centre, Brisbane	floorCount	40
+1 Police Plaza	floorCount	13
+Vancouver City Hall	floorCount	12
+One King Street West	floorCount	51
+Château Champlain	floorCount	40
+Manulife Centre	floorCount	51
+Hershey's Chocolate World	floorCount	2
+Olympic Tower	floorCount	51
+Brookfield Place	floorCount	53
+Brookfield Place	floorCount	49
+Gallileo	floorCount	38
+Mandarin Orchard Singapore	floorCount	40
+Mandarin Orchard Singapore	floorCount	2
+Marina Mandarin Singapore	floorCount	21
+Marina Mandarin Singapore	floorCount	1
+Vienna International Centre	floorCount	28
+Sun Life Centre	floorCount	28
+New York Life Insurance Building, Montreal	floorCount	8
+Mandarin Oriental, Hong Kong	floorCount	26
+Tour Telus	floorCount	34
+Old Toronto Star Building	floorCount	22
+Shaw Tower (Vancouver)	floorCount	42
+The Fairmont Pacific Rim	floorCount	22
+Canterra Tower	floorCount	45
+Western Canadian Place	floorCount	41
+Scotia Centre (Calgary)	floorCount	41
+TD Canada Trust Tower, Calgary	floorCount	40
+First Canadian Centre	floorCount	41
+Co-operative Insurance Tower	floorCount	25
+Édifice Marie-Guyart	floorCount	31
+Simcoe Place	floorCount	33
+Pantages Tower	floorCount	45
+Hudson's Bay Centre	floorCount	35
+Four Seasons Hotel Toronto	floorCount	31
+Two Bloor West	floorCount	34
+Cosmopolitan of Las Vegas	floorCount	53
+Buffalo City Court Building	floorCount	10
+Liberty Building (Buffalo, New York)	floorCount	23
+Andaluz Hotel	floorCount	10
+Nauru House	floorCount	52
+Jurys Inn Birmingham	floorCount	18
+Hotel Charlottetown	floorCount	5
+Fort Garry Hotel	floorCount	10
+Jasper Park Lodge	floorCount	1
+Hotel Beauséjour	floorCount	10
+Bush Tower	floorCount	30
+Marriott Gateway on the Falls Hotel	floorCount	31
+The Uptown Residences	floorCount	48
+Canadian Pacific Building (Toronto)	floorCount	15
+Society Hill Towers	floorCount	31
+Édifice Price	floorCount	18
+Bentall 5	floorCount	35
+Tour de la Banque Royale	floorCount	22
+Durland–Rathbone–Fiedler Hall	floorCount	3
+George Vari Engineering and Computing Centre	floorCount	4
+Langham Place, Hong Kong	floorCount	59
+World Finance Tower	floorCount	43
+Bank of China Tower, Shanghai	floorCount	53
+Bank of Shanghai Headquarters	floorCount	46
+Hong Kong New World Tower	floorCount	61
+Shimao International Plaza	floorCount	61
+BOK Tower	floorCount	52
+Optus Centre	floorCount	34
+Tribune Tower (Oakland)	floorCount	21
+Westmount Square	floorCount	22
+Ušće Tower	floorCount	25
+One London Place	floorCount	24
+Palace Albanija	floorCount	13
+Millenia Tower	floorCount	41
+Millenia Tower	floorCount	2
+OCBC Centre	floorCount	52
+One Lincoln Tower	floorCount	41
+The Pan Pacific Singapore	floorCount	37
+The Pan Pacific Singapore	floorCount	1
+Conrad Centennial Singapore	floorCount	21
+Westendstraße 1	floorCount	53
+Skyper	floorCount	38
+995 Fifth Avenue	floorCount	16
+Post and Mail building, Birmingham	floorCount	16
+Sengkang Community Hub	floorCount	5
+Anniesland Court	floorCount	24
+Columbus Tower (San Francisco)	floorCount	8
+Four Seasons Hotel Hong Kong	floorCount	45
+San Francisco Federal Building	floorCount	18
+Hotel Europe (Vancouver)	floorCount	6
+Saugeen–Maitland Hall	floorCount	36
+The Mondrian	floorCount	20
+Reunification Palace	floorCount	4
+Shangri-La Hotel Singapore	floorCount	38
+Shangri-La Hotel Singapore	floorCount	3
+GMA Network Center	floorCount	17
+Utah State Capitol	floorCount	4
+Grand Hotel (Taipei)	floorCount	12
+Hotel Tryp Habana Libre	floorCount	25
+The Tipton Hotel	floorCount	25
+One Kansas City Place	floorCount	42
+Town Pavilion	floorCount	38
+Abraj Al Bait Towers	floorCount	95
+One Liberty Plaza	floorCount	54
+Dentsu Building	floorCount	53
+Cerulean Tower	floorCount	47
+Shinjuku Park Tower	floorCount	57
+10 Holloway Circus	floorCount	39
+NEC Supertower	floorCount	47
+Hearst Tower (Charlotte)	floorCount	47
+Skanskaskrapan	floorCount	23
+Cira Centre	floorCount	29
+City Hall and City Duma	floorCount	71
+Dolce Vita (Dubai)	floorCount	25
+U.S. Bank Center (Milwaukee)	floorCount	42
+Kavanagh building	floorCount	29
+Ryōunkaku	floorCount	12
+Waterview Tower	floorCount	90
+West Riding House	floorCount	20
+Metropolis Building	floorCount	8
+Time-Life Building	floorCount	48
+Bridgewater Place	floorCount	32
+Hennepin County Government Center	floorCount	24
+Altino Arantes Building	floorCount	36
+Riverpoint	floorCount	15
+Lippo Centre, Hong Kong	floorCount	48
+Main Building (University of Texas at Austin)	floorCount	28
+Hotel Saskatchewan	floorCount	10
+College of Medicine Building, Singapore	floorCount	3
+Lipstick Building	floorCount	34
+Chicago Temple Building	floorCount	23
+Cibona Tower	floorCount	25
+Zagrepčanka	floorCount	27
+Beetham Tower, Manchester	floorCount	48
+Beetham Tower, Liverpool	floorCount	29
+O. T. Bassett Tower	floorCount	15
+The Tower (Dubai)	floorCount	54
+Rose Tower	floorCount	72
+Ford Hall	floorCount	9
+One Metropolitan Square	floorCount	42
+Tower 49	floorCount	45
+Flower of the East Hotel	floorCount	45
+Hotel Windsor (Melbourne)	floorCount	5
+V Building	floorCount	51
+Assumption Place	floorCount	20
+Bankers Hall	floorCount	52
+MacDonald House	floorCount	10
+Georgia Power Company Corporate Headquarters	floorCount	24
+Royal Palace, Luang Prabang	floorCount	1
+151 Incheon Tower	floorCount	151
+Samsung Tower Palace	floorCount	73
+House with Chimaeras	floorCount	3
+House with Chimaeras	floorCount	6
+The Sail @ Marina Bay	floorCount	70
+The Sail @ Marina Bay	floorCount	63
+Manulife Place	floorCount	36
+Louisville Museum Plaza	floorCount	62
+Palacio Salvo	floorCount	29
+Dâmbovița Center	floorCount	35
+Vision Brisbane	floorCount	72
+One Astor Plaza	floorCount	54
+The Heritage at Millennium Park	floorCount	57
+340 on the Park	floorCount	62
+927 Fifth Avenue	floorCount	12
+Canton Tower	floorCount	108
+Confederation Building (Newfoundland and Labrador)	floorCount	11
+Government House (Alberta)	floorCount	4
+Menara Alor Setar	floorCount	4
+Senedd	floorCount	3
+1 William Street	floorCount	11
+Westpac House	floorCount	31
+Allegheny County Courthouse	floorCount	5
+The New York Times Building	floorCount	52
+Voplex building	floorCount	2
+CNA Center	floorCount	44
+Gaylord National Resort & Convention Center	floorCount	18
+Australia Square	floorCount	50
+Emirates Park Towers Hotel & Spa	floorCount	77
+Almas Tower	floorCount	74
+Living Shangri-La	floorCount	62
+Living Shangri-La  Hotel, Vancouver   1	floorCount	62
+The Ritz-Carlton Millenia Singapore	floorCount	32
+The Ritz-Carlton Millenia Singapore	floorCount	2
+Theemuge	floorCount	3
+Heritage Plaza	floorCount	53
+FirstMerit Tower	floorCount	27
+Burj Al Alam	floorCount	108
+Trammell Crow Center	floorCount	50
+Trammell Crow Center	floorCount	6
+Bank of America Building (Providence)	floorCount	26
+Soul (building)	floorCount	77
+Circle on Cavill	floorCount	50
+Circle on Cavill	floorCount	70
+Tour Total	floorCount	48
+Tour Areva	floorCount	44
+Nina Tower	floorCount	80
+611 Place	floorCount	42
+Tour Gan	floorCount	44
+Faust Landmark	floorCount	15
+Tours Société Générale	floorCount	37
+Tour EDF	floorCount	41
+Horizon Blue Cross and Blue Shield of New Jersey	floorCount	17
+Peabody Hotel	floorCount	14
+Cœur Défense	floorCount	40
+New Yorker Hotel	floorCount	43
+One Prudential Plaza	floorCount	41
+Marriott's Grande Vista	floorCount	6
+RBC Centre	floorCount	43
+Hotel Concorde La Fayette	floorCount	33
+Tour First	floorCount	50
+Tour Adria	floorCount	40
+Tour Égée	floorCount	40
+Tour Ariane	floorCount	36
+Tour Les Poissons	floorCount	42
+Tour Pleyel	floorCount	37
+Tour CBX	floorCount	36
+Tour Défense 2000	floorCount	47
+Tour T1	floorCount	37
+Northwest Territories Legislative Building	floorCount	2
+Tour Granite	floorCount	35
+Tour Europlaza	floorCount	31
+Tour Descartes	floorCount	40
+Tour France	floorCount	40
+Tour Daewoo	floorCount	35
+Les Mercuriales	floorCount	33
+Tour Franklin	floorCount	33
+Tour Sequoia	floorCount	33
+Hôtel Méridien Montparnasse	floorCount	26
+Palace Hotel, San Francisco	floorCount	9
+Tour Super-Italie	floorCount	38
+Waterfront Place, Brisbane	floorCount	40
+Tours de Levallois	floorCount	42
+Qasr Kharana	floorCount	2
+One Financial Plaza	floorCount	30
+Marina Towers Observatory	floorCount	4
+The Connaught (hotel)	floorCount	6
+Centro Cultural General San Martín	floorCount	12
+Ontario Tower	floorCount	29
+Préfecture des Hauts-de-Seine	floorCount	42
+Habib Bank Plaza	floorCount	22
+MCB Tower	floorCount	27
+Minsheng Bank Building	floorCount	68
+Bocom Financial Towers	floorCount	52
+One Shell Square	floorCount	51
+Seton Hall University School of Law  One Newark Center   1	floorCount	22
+101 Collins Street	floorCount	57
+Rinku Gate Tower Building	floorCount	56
+The Harbourside	floorCount	74
+Highcliff	floorCount	73
+Place St. Charles	floorCount	53
+Plaza Tower	floorCount	45
+Wisma 46	floorCount	48
+Bank of America Tower (Jacksonville)	floorCount	43
+Place Bonaventure	floorCount	12
+Hotel Arts	floorCount	44
+Chase Tower (Oklahoma City)	floorCount	36
+101 California Street	floorCount	48
+Vision Tower	floorCount	60
+Marcus Nanotechnology Research Center	floorCount	4
+Mid-Continent Tower	floorCount	36
+Dallas City Hall	floorCount	7
+One Devonshire Gardens	floorCount	3
+Seattle Ice Arena	floorCount	3
+Southport Central	floorCount	40
+Plaza Rakyat	floorCount	79
+20 Exchange Place	floorCount	59
+Trump International Hotel and Tower (New Orleans)	floorCount	70
+China Central Television Headquarters	floorCount	44
+Piccadilly Tower	floorCount	58
+Seaton Hall	floorCount	3
+Orion Building	floorCount	28
+Highbury, Birmingham	floorCount	3
+Al Hamra Tower	floorCount	80
+Signature Tower	floorCount	50
+One World Trade Center	floorCount	105
+Liberty Place	floorCount	61
+Cebu International Convention Center	floorCount	3
+Regions Center	floorCount	30
+Energy Centre	floorCount	39
+The Marina Torch	floorCount	80
+Lumiere (skyscraper)	floorCount	55
+Michael Fowler Centre	floorCount	3
+Criterion Place	floorCount	53
+17 & 19 Newhall Street, Birmingham	floorCount	3
+Kluczynski Federal Building	floorCount	1
+Al Rajhi Tower	floorCount	94
+Eighth Avenue Place	floorCount	49
+Trump International Hotel and Tower (Dubai)	floorCount	62
+Capita Centre	floorCount	31
+Chifley Tower	floorCount	53
+World Tower	floorCount	73
+Citigroup Centre, Sydney	floorCount	50
+Bank of Mauritius Tower	floorCount	22
+Columbus Tower (London)	floorCount	65
+RSA Battle House Tower	floorCount	35
+Broadgate Tower	floorCount	35
+Hedden Construction Company	floorCount	50
+Casablanca Twin Center	floorCount	28
+Europa Tower	floorCount	33
+Nanjing Greenland Financial Center	floorCount	89
+The Peak Twin Towers	floorCount	55
+The Peak Twin Towers	floorCount	35
+Outer Drive East	floorCount	40
+The Buckingham (Chicago, Illinois)	floorCount	44
+Blue Cross Blue Shield Tower	floorCount	57
+Sterick Building    1	floorCount	29
+Obel Tower	floorCount	28
+One America Plaza	floorCount	34
+Port Tower Complex	floorCount	117
+First Bank and Trust Tower	floorCount	36
+Sony Building (New York)	floorCount	37
+Brisbane Administration Centre	floorCount	22
+1 Cabot Square	floorCount	21
+Trump International Hotel and Tower (Fort Lauderdale)	floorCount	24
+UniSource Energy Tower	floorCount	23
+Infinity Tower	floorCount	73
+Maybank Tower (Singapore)	floorCount	32
+Maybank Tower (Singapore)	floorCount	1
+Frost Bank Tower	floorCount	33
+Jumeirah Bay	floorCount	41
+Torre Mapfre	floorCount	44
+Alfred E. Smith Building	floorCount	34
+Argent Centre	floorCount	4
+Chateau Qu'Appelle	floorCount	10
+Loews Philadelphia Hotel	floorCount	36
+Pilsotas	floorCount	34
+L'Auberge du Lac Resort	floorCount	26
+Chicago Title and Trust Center	floorCount	50
+Three First National Plaza	floorCount	57
+One North Wacker	floorCount	50
+Clark Tower (Memphis, Tennessee)	floorCount	34
+Erastus Corning Tower	floorCount	44
+Dayabumi Complex	floorCount	35
+Parkview Square	floorCount	24
+Parkview Square	floorCount	2
+Epic Center	floorCount	22
+Elite Tower	floorCount	85
+NBC Tower	floorCount	37
+One Rincon Hill  North Tower   1	floorCount	45
+Morgans Hotel	floorCount	19
+Clift	floorCount	15
+Trump Ocean Club International Hotel and Tower	floorCount	70
+St Pauls Tower	floorCount	32
+St Pauls Tower	floorCount	9
+Millennium Tower (San Francisco)	floorCount	58
+Berkeley Building	floorCount	26
+The Tower, Meridian Quay	floorCount	29
+One Museum Park	floorCount	62
+Beetham Tower, London	floorCount	49
+One Woodward Avenue	floorCount	28
+Buhl Building	floorCount	29
+David Stott Building	floorCount	37
+Cadillac Tower	floorCount	40
+Westin Book Cadillac Hotel	floorCount	29
+Book Tower	floorCount	38
+211 West Fort Street	floorCount	27
+1300 Lafayette East Cooperative	floorCount	29
+150 West Jefferson	floorCount	26
+David Broderick Tower	floorCount	35
+Detroit Free Press Building	floorCount	16
+First National Building	floorCount	26
+1001 Woodward	floorCount	25
+Millender Center Apartments	floorCount	33
+Southfield Town Center	floorCount	32
+Southfield Town Center	floorCount	28
+Southfield Town Center	floorCount	28
+Southfield Town Center	floorCount	20
+Southfield Town Center	floorCount	12
+American Center	floorCount	26
+The St. Regis Hotel	floorCount	20
+Hotel Nacional de Cuba	floorCount	8
+Deutsche Bank Place	floorCount	39
+Andaz West Hollywood	floorCount	14
+Maxdo Centre	floorCount	55
+Empire Landmark Hotel	floorCount	42
+Chicago Place	floorCount	49
+Boeing International Headquarters	floorCount	36
+Masonic Temple (Chicago, Illinois)	floorCount	22
+Harbor Towers	floorCount	40
+The Clare at Water Tower	floorCount	53
+Kostabi World Trade Center	floorCount	160
+834 Fifth Avenue	floorCount	16
+State Tower	floorCount	68
+Nicholas Tower	floorCount	21
+One Riverside Drive	floorCount	14
+Bank of Commerce Building, Windsor	floorCount	19
+Canada Building (Windsor)	floorCount	14
+Park Tower (Tampa)	floorCount	36
+Paramount Hotel	floorCount	22
+Hibernia Bank Building	floorCount	23
+Joffrey Tower	floorCount	31
+College Hall (La Salle University)	floorCount	4
+Paul Martin Sr. Building	floorCount	5
+Mercantile National Bank Building	floorCount	31
+One American Place	floorCount	24
+Ocean Club	floorCount	16
+Moore Hall (Kansas State University)	floorCount	9
+Chase Tower (Phoenix)	floorCount	40
+Mercury City Tower	floorCount	70
+Kales Building	floorCount	18
+West Hall (Kansas State University)	floorCount	5
+Haymaker Hall	floorCount	9
+Torre de Madrid	floorCount	36
+Eurasia (building)	floorCount	67
+St. Regis Museum Tower	floorCount	42
+J. L. Hudson Department Store and Addition	floorCount	29
+Textron Tower	floorCount	23
+AT&T Michigan Headquarters	floorCount	17
+Dime Building	floorCount	23
+Penobscot Building Annex	floorCount	23
+Jeffersonian Apartments	floorCount	30
+One Progress Plaza	floorCount	28
+Edificio España	floorCount	25
+15 Westferry Circus	floorCount	10
+Patrick V. McNamara Federal Building	floorCount	27
+Water Board Building	floorCount	23
+Millenium Hilton Hotel	floorCount	55
+Tapu Te Ranga Marae	floorCount	10
+One George Street	floorCount	23
+Victoria Point (building)	floorCount	42
+50 Kennedy Plaza	floorCount	20
+Skybridge, Chicago	floorCount	39
+Grand Park Centre	floorCount	19
+Fort Washington Plaza	floorCount	16
+Hammond Building	floorCount	10
+Infomart	floorCount	7
+Metropolitan Building (Detroit)	floorCount	15
+Minto Metropole	floorCount	33
+Dubai Towers Doha	floorCount	88
+Elphinstone Place	floorCount	39
+Lafayette Building (Detroit)	floorCount	14
+Courtyard by Marriott – Downtown Detroit	floorCount	21
+One Kennedy Square	floorCount	10
+Top of Troy	floorCount	25
+Hyatt Regency Dearborn	floorCount	14
+Compuware World Headquarters	floorCount	18
+United Artists Theatre Building	floorCount	18
+DTE Energy Headquarters	floorCount	25
+Broad Street Tower	floorCount	41
+Pan Peninsula	floorCount	48
+Pan Peninsula	floorCount	38
+Dolmabahçe Clock Tower	floorCount	4
+One Business Bay	floorCount	35
+Torre Caja Madrid	floorCount	45
+Fort Dunlop	floorCount	7
+NTT Docomo Yoyogi Building	floorCount	27
+NTT Docomo Yoyogi Building	floorCount	3
+City Gallery Wellington	floorCount	2
+Aqua (skyscraper)	floorCount	86
+Carlton Hotel (Atascadero, California)	floorCount	3
+Pearl Continental Tower	floorCount	42
+The Infinity	floorCount	37
+One Beale	floorCount	30
+AIA Central	floorCount	40
+Commerce Square	floorCount	41
+Union Trust Building (Pittsburgh)	floorCount	15
+23 Marina	floorCount	90
+Princess Tower	floorCount	101
+Sheikh Zayed Center Tower 2	floorCount	45
+The Address Downtown Dubai	floorCount	63
+Ahmed Abdul Rahim Al Attar Tower	floorCount	78
+Sama Tower	floorCount	51
+Al Yaqoub Tower	floorCount	79
+Alamgir Tower Lahore	floorCount	31
+The Index (Dubai)	floorCount	80
+Ocean Heights (Dubai)	floorCount	83
+Martin Tower	floorCount	21
+Lotte World II Hotel	floorCount	112
+International Business Center	floorCount	130
+Three International Finance Centre	floorCount	55
+South Ferry Plaza	floorCount	60
+1 New York Place	floorCount	90
+DAMAC Heights	floorCount	85
+Ice Tower	floorCount	104
+Torre Generali	floorCount	52
+Torre Planetarium	floorCount	92
+Suyong Bay Tower	floorCount	102
+Northeast Asia Trade Tower	floorCount	68
+Westin Building	floorCount	34
+Wells Fargo Building (Philadelphia)	floorCount	29
+Mark Hopkins Hotel	floorCount	19
+Ames Building	floorCount	13
+AEGON Center	floorCount	35
+National City Tower	floorCount	40
+PNC Plaza	floorCount	30
+The 800 Apartments	floorCount	29
+Park Lane Hotel	floorCount	8
+Albany Crown Tower	floorCount	54
+Harbor Point (skyscraper)	floorCount	54
+Skatteskrapan	floorCount	26
+55 Public Square	floorCount	22
+Nexen Building, Calgary	floorCount	37
+Marina Bay Financial Centre	floorCount	33
+Marina Bay Financial Centre	floorCount	50
+Marina Bay Financial Centre	floorCount	46
+Marina Bay Financial Centre	floorCount	55
+Marina Bay Financial Centre	floorCount	65
+Somerset Mall (South Africa)	floorCount	1
+Karachi Creek Marina	floorCount	27
+Avaz Twist Tower	floorCount	36
+Jumeirah Essex House	floorCount	43
+One SeaGate	floorCount	32
+First Interstate Center	floorCount	20
+Belaire Apartments	floorCount	42
+The Bow (skyscraper)	floorCount	58
+The Bow (skyscraper)	floorCount	53
+The Bow (skyscraper)	floorCount	2
+The Bow (skyscraper)	floorCount	4
+The Bow (skyscraper)	floorCount	3
+Council House, Perth	floorCount	13
+LaSalle National Bank Building	floorCount	45
+State Insurance Building	floorCount	30
+New Central Bank Tower	floorCount	38
+City Tower, Manchester	floorCount	30
+Confucius Plaza	floorCount	44
+Kincaid Towers	floorCount	22
+Mount Rubidoux Manor	floorCount	16
+Rahimtulla Tower	floorCount	22
+Bitexco Financial Tower	floorCount	68
+Alfred Denny Building	floorCount	7
+Leaside Towers	floorCount	44
+Calgary Courts Centre	floorCount	24
+500 Boylston Street	floorCount	25
+Westin Providence	floorCount	25
+Telus Plaza	floorCount	34
+Marriott's Orlando World Center	floorCount	27
+Hotel Pennsylvania	floorCount	22
+U.S. Bank Center (Phoenix)	floorCount	31
+Bank of America Tower (Phoenix)	floorCount	24
+Gettysburg National Tower	floorCount	4
+IBM Building (Seattle)	floorCount	20
+McDonald Investment Center	floorCount	23
+Towers of Chevron Renaissance	floorCount	40
+Towers of Chevron Renaissance	floorCount	50
+Towers of Chevron Renaissance	floorCount	40
+One Lincoln Street	floorCount	36
+One Post Office Square	floorCount	40
+125 High Street	floorCount	30
+Budge Hall	floorCount	3
+The Residences at the Westin	floorCount	31
+Rufino Pacific Tower	floorCount	41
+Century Plaza Towers	floorCount	44
+Paramount, San Francisco	floorCount	40
+555 Mission Street	floorCount	33
+201 Folsom Street	floorCount	43
+201 Folsom Street  201 Folsom II   1	floorCount	38
+Shanghai World Financial Center	floorCount	101
+G. Fred DiBona Jr. Building	floorCount	45
+Dalian International Trade Center	floorCount	78
+Skycity (Mandaluyong)	floorCount	80
+Marina 101	floorCount	101
+Campus of the Massachusetts Institute of Technology	floorCount	4
+Campus of the Massachusetts Institute of Technology  Senior House   1	floorCount	6
+Campus of the Massachusetts Institute of Technology  Gray House   1	floorCount	4
+Campus of the Massachusetts Institute of Technology  Rogers Building   1	floorCount	5
+Campus of the Massachusetts Institute of Technology  Building 20   1	floorCount	3
+Campus of the Massachusetts Institute of Technology  Rockwell Cage   1	floorCount	1
+Campus of the Massachusetts Institute of Technology  Baker House   1	floorCount	6
+Campus of the Massachusetts Institute of Technology  Hayden Memorial Library   1	floorCount	5
+Campus of the Massachusetts Institute of Technology  Chapel   1	floorCount	2
+Campus of the Massachusetts Institute of Technology  Kresge Auditorium   1	floorCount	3
+Campus of the Massachusetts Institute of Technology  Eastgate   1	floorCount	29
+Campus of the Massachusetts Institute of Technology  Stratton Student Center   1	floorCount	5
+Campus of the Massachusetts Institute of Technology  Green Building   1	floorCount	23
+Campus of the Massachusetts Institute of Technology  Dreyfus Building   1	floorCount	8
+Campus of the Massachusetts Institute of Technology  Landau Building   1	floorCount	6
+Campus of the Massachusetts Institute of Technology  Wiesner Building   1	floorCount	6
+Campus of the Massachusetts Institute of Technology  Tang Hall   1	floorCount	24
+Campus of the Massachusetts Institute of Technology  Whitaker College   1	floorCount	7
+Campus of the Massachusetts Institute of Technology  Howard W. Johnson Athletic Center   1	floorCount	3
+Campus of the Massachusetts Institute of Technology  Koch Biology Building   1	floorCount	8
+Campus of the Massachusetts Institute of Technology  Tang Center   1	floorCount	4
+Campus of the Massachusetts Institute of Technology  Zesiger Sports and Fitness Center   1	floorCount	5
+Campus of the Massachusetts Institute of Technology  Simmons Hall   1	floorCount	10
+JW Marriott International Finance Centre	floorCount	102
+Palacio de la Bahia	floorCount	93
+Faros del Panamá	floorCount	84
+China World Trade Center Tower III	floorCount	74
+Mag 218 Tower	floorCount	66
+Guangzhou International Finance Center	floorCount	103
+Gran Torre Costanera	floorCount	70
+Wenzhou World Trade Center	floorCount	68
+Najd Tower	floorCount	82
+BDNI Center 1	floorCount	62
+One Shell Plaza	floorCount	50
+Marina Gardens	floorCount	75
+Ocean 1 Tower	floorCount	91
+HHHR Tower	floorCount	72
+Mizuho Bank Head Office Building	floorCount	36
+Warsaw Trade Tower	floorCount	42
+Mandarin Oriental, Chicago	floorCount	74
+Hilton Springfield	floorCount	30
+Phare Tower	floorCount	71
+Riverside South (Canary Wharf)	floorCount	45
+Riverside South (Canary Wharf)	floorCount	37
+Icon Loft	floorCount	41
+Icon Loft	floorCount	46
+Tour Sans Fins	floorCount	100
+Four World Financial Center	floorCount	34
+Heron Quays West	floorCount	40
+Heron Quays West	floorCount	29
+Eaton's / John Maryon Tower	floorCount	140
+Grande Bretagne	floorCount	8
+Maccabees Building	floorCount	15
+Manchester Civil Justice Centre	floorCount	17
+Two World Financial Center	floorCount	44
+Nakagin Capsule Tower	floorCount	13
+Worcester Plaza	floorCount	24
+Knights of Columbus Building (New Haven, Connecticut)	floorCount	23
+Sky Mark Tower	floorCount	24
+Millennium Tower (Frankfurt)	floorCount	97
+One Citizens Plaza	floorCount	13
+140 William Street	floorCount	41
+First National Bank Tower	floorCount	45
+Woodmen Tower	floorCount	30
+Union Pacific Center	floorCount	19
+Empire World Towers	floorCount	93
+Vero Centre	floorCount	38
+100 Front Street	floorCount	20
+InterContinental San Francisco	floorCount	32
+50 Fremont Center	floorCount	43
+Chevron Tower	floorCount	22
+Tech Tower	floorCount	4
+Tech Tower	floorCount	7
+Candler Building (Atlanta)	floorCount	17
+Diamond of Istanbul	floorCount	53
+Diamond of Istanbul	floorCount	8
+Diamond of Istanbul	floorCount	61
+Capital One Tower (Lake Charles)	floorCount	22
+Istanbul Sapphire	floorCount	54
+Istanbul Sapphire	floorCount	10
+Istanbul Sapphire	floorCount	64
+Busan Lotte World Tower	floorCount	110
+HSBC Tower, Mexico City	floorCount	12
+HSBC Tower, Mexico City	floorCount	23
+Boji Tower	floorCount	23
+Wells Fargo Center (Salt Lake City)	floorCount	24
+111 George Street	floorCount	31
+666 Fifth Avenue	floorCount	41
+Boerentoren	floorCount	26
+Pan American Life Center	floorCount	28
+100 North Main	floorCount	37
+Torre Espacio	floorCount	57
+Peachtree Summit	floorCount	31
+San Francisco Transbay development	floorCount	80
+San Francisco Transbay development  Renzo Piano Towers I & II   1	floorCount	101
+Centennial Tower (Atlanta)	floorCount	36
+W. W. Griest Building	floorCount	14
+1440 Canal	floorCount	24
+InterContinental Chicago	floorCount	42
+InterContinental Chicago  North   1	floorCount	71
+Detroit Athletic Club	floorCount	6
+Eliseyev Emporium (Saint Petersburg)	floorCount	5
+I&M Bank Tower	floorCount	16
+Ningbo Twin Towers	floorCount	93
+Aspire Tower	floorCount	51
+44 Montgomery	floorCount	43
+One Sansome Street	floorCount	39
+The Peninsula Manila	floorCount	11
+One Market Plaza	floorCount	43
+One Market Plaza  Steuart Tower   1	floorCount	27
+Brickell on the River	floorCount	42
+Brickell on the River  South Tower   1	floorCount	46
+Buenos Aires Forum	floorCount	200
+The St. James	floorCount	45
+Arizona Center	floorCount	19
+Arizona Center  Two Arizona Center   1	floorCount	20
+Sackville Street (Manchester)	floorCount	12
+Moat House, Sutton Coldfield	floorCount	3
+One Museum Park West	floorCount	54
+Houston City Hall	floorCount	17
+Centara Grand and Bangkok Convention Centre	floorCount	57
+Maxis Tower	floorCount	49
+Singapore Conference Hall	floorCount	5
+El Faro Towers	floorCount	46
+Repsol-YPF tower	floorCount	44
+One Broadway	floorCount	42
+Jade at Brickell Bay	floorCount	48
+Espirito Santo Plaza	floorCount	36
+Elite Residence	floorCount	91
+The Club at Brickell Bay	floorCount	42
+Vue at Brickell	floorCount	37
+Santa Maria (building)	floorCount	51
+Marinablue	floorCount	57
+Ten Museum Park	floorCount	50
+One Biscayne Tower	floorCount	39
+Opera Tower	floorCount	60
+Sabadell Financial Center	floorCount	31
+SunTrust International Center	floorCount	31
+Hotel Intercontinental Miami	floorCount	35
+Miami Center	floorCount	34
+Jumeirah Beach Hotel	floorCount	26
+Crystal Tower (Dubai)	floorCount	20
+Torre de Cristal	floorCount	52
+Mondrian Hotel	floorCount	12
+One Miami	floorCount	45
+One Miami  East Tower   1	floorCount	44
+Museum Tower (Miami)	floorCount	30
+Stephen P. Clark Government Center	floorCount	31
+50 Biscayne	floorCount	55
+Lefcourt Colonial Building	floorCount	45
+Costa Del Sol, Singapore	floorCount	30
+Tequesta Point	floorCount	46
+Tequesta Point  wo Tequesta Point   1	floorCount	40
+Tequesta Point  One Tequesta Point   1	floorCount	30
+The Loft 2	floorCount	35
+701 Brickell Avenue	floorCount	34
+1800 Club	floorCount	40
+Blue on the Bay	floorCount	37
+New World Tower	floorCount	30
+Marquis Residences	floorCount	67
+Clara Shortridge Foltz Criminal Justice Center	floorCount	21
+900 Biscayne Bay	floorCount	63
+Legg Mason Building	floorCount	40
+JPMorgan Chase Building (San Francisco)	floorCount	31
+Pacific Gas & Electric Building	floorCount	34
+333 Bush Street	floorCount	43
+California Automobile Association Building	floorCount	29
+Four Seasons Hotel, San Francisco	floorCount	40
+PacBell Building	floorCount	26
+Shaklee Terraces	floorCount	38
+McKesson Plaza	floorCount	38
+425 Market Street	floorCount	38
+Post Montgomery Center	floorCount	38
+The Summit, San Francisco	floorCount	32
+Phillip Burton Federal Building	floorCount	21
+101 Second Street	floorCount	26
+W San Francisco	floorCount	33
+150 California Street	floorCount	24
+199 Fremont Street	floorCount	27
+50 California Street	floorCount	37
+650 California Street	floorCount	34
+Russ Building	floorCount	31
+Campbell Mithun Tower	floorCount	42
+Royalton Hotel	floorCount	16
+Landmark Place	floorCount	44
+Stelco Tower	floorCount	26
+Pype Hayes Hall	floorCount	3
+25 Cabot Square	floorCount	17
+Maple Leaf Square	floorCount	54
+One Island East	floorCount	70
+Ellen Fairclough Building	floorCount	20
+Isbank Tower 1	floorCount	52
+Şişli Plaza	floorCount	46
+Garden Plaza	floorCount	44
+Tekstilkent Plaza	floorCount	44
+Tasyapi Hotel	floorCount	40
+Sabancı Center	floorCount	39
+Olympia Apartments (Hamilton, Ontario)	floorCount	33
+BDC Building	floorCount	22
+Crowne Plaza Liverpool John Lennon Airport Hotel	floorCount	3
+Dariush Grand Hotel	floorCount	4
+Commerce Place II	floorCount	16
+Commerce Place I	floorCount	16
+The Pinnacle (Chicago, Illinois)	floorCount	49
+Karachi Financial Towers	floorCount	40
+Pioneer Building (Seattle, Washington)	floorCount	6
+345 California Center	floorCount	48
+Embarcadero West	floorCount	34
+Three Embarcadero Center	floorCount	31
+Two Embarcadero Center	floorCount	30
+One Embarcadero Center	floorCount	45
+City Creek condominium tower	floorCount	30
+Riverfront West	floorCount	55
+Riverfront West  he Ivy   1	floorCount	45
+Infinity at Brickell	floorCount	52
+Plaza on Brickell	floorCount	56
+Plaza on Brickell  Tower II   1	floorCount	48
+Sky Office Tower	floorCount	22
+Quantum on the Bay	floorCount	44
+Quantum on the Bay  South Tower   1	floorCount	51
+Icon Brickell	floorCount	58
+Icon Brickell  South Tower   1	floorCount	58
+Icon Brickell  Viceroy Tower   1	floorCount	50
+Meyerson Hall	floorCount	6
+Vizcayne	floorCount	49
+Wind (Miami)	floorCount	41
+1450 Brickell	floorCount	40
+Ronald V. Dellums Federal Building	floorCount	18
+Bargate	floorCount	2
+Morgan Stanley Building	floorCount	42
+Park Michigan	floorCount	80
+East One	floorCount	55
+300 North LaSalle	floorCount	60
+New York Life Insurance Building, Chicago	floorCount	14
+29 South LaSalle	floorCount	51
+Towers on Capitol Mall	floorCount	53
+Freeport McMoRan Building	floorCount	23
+Poydras Center	floorCount	27
+Texaco Center	floorCount	32
+Benson Tower (New Orleans)	floorCount	26
+1250 Poydras Plaza	floorCount	24
+Sheraton New Orleans	floorCount	49
+New Orleans Marriott	floorCount	42
+One Canal Place	floorCount	32
+1010 Common	floorCount	31
+World Trade Center New Orleans	floorCount	33
+225 Baronne Street	floorCount	29
+Entergy Tower	floorCount	28
+1555 Poydras	floorCount	22
+1515 Poydras	floorCount	29
+Hilton New Orleans Riverside	floorCount	29
+National American Bank Building	floorCount	23
+Firth Court	floorCount	10
+Elysian, Chicago	floorCount	60
+Hicks Building	floorCount	9
+Legacy Tower	floorCount	72
+Sheffield Bioincubator	floorCount	7
+100 Pine Center	floorCount	33
+45 Fremont Center	floorCount	34
+Lamar Towers	floorCount	73
+Brown's Hotel	floorCount	5
+Sciences Library (Brown University)	floorCount	15
+WallStreet Tower Omaha	floorCount	32
+Seat of the European Parliament in Strasbourg	floorCount	20
+Torre Caney	floorCount	38
+State Bank Tower	floorCount	16
+Azm Palace	floorCount	2
+Maybank Tower (Kuala Lumpur)	floorCount	50
+Columbia Centre	floorCount	6
+Leonardo City Tower Hotel	floorCount	37
+One Financial Plaza (Fort Lauderdale)	floorCount	28
+Festival Towers	floorCount	41
+155 North Wacker	floorCount	45
+Samford Hall	floorCount	4
+Grand Hyatt Islamabad	floorCount	45
+U.S. Bank Tower (Sacramento)	floorCount	25
+Grand Gateway Shanghai	floorCount	52
+Kansas City City Hall	floorCount	30
+Commerce Place (Edmonton)	floorCount	27
+CN Tower (Edmonton)	floorCount	26
+South Station Tower	floorCount	41
+The Westin Paris - Vendôme	floorCount	5
+PECO Building	floorCount	27
+100 North Main Street	floorCount	34
+Avari Towers	floorCount	20
+100 East Wisconsin	floorCount	37
+Bell Tower (building)	floorCount	31
+City Tower (Prague)	floorCount	27
+Stanford Court Hotel	floorCount	8
+Citygate Ecotower	floorCount	108
+Amoco Building (New Orleans)	floorCount	21
+Chevron Place	floorCount	21
+First Place Hamilton (building)	floorCount	25
+Walsall St Pauls bus station	floorCount	2
+Sheraton Hamilton	floorCount	19
+Pittsburgh City-County Building	floorCount	10
+Rand Building	floorCount	29
+Main Place Tower	floorCount	26
+20 Fenchurch Street	floorCount	36
+20 Fenchurch Street  .JPG   1	floorCount	34
+Spencer W. Kimball Tower	floorCount	12
+First National Center (Oklahoma City)	floorCount	33
+Latitude on the River	floorCount	44
+Latitude on the River  Latitude One   1	floorCount	23
+Elveden Centre (Calgary)	floorCount	20
+Kotelnicheskaya Embankment	floorCount	32
+Metropolitan National Bank Tower	floorCount	40
+Charlemagne building	floorCount	15
+Trilogy Tower	floorCount	70
+3344 Peachtree	floorCount	50
+Bechtel Building	floorCount	23
+The Sentinels	floorCount	31
+Fox Plaza (San Francisco)	floorCount	29
+ABN AMRO Plaza	floorCount	29
+Zhongshan Hall	floorCount	4
+Suncorp Metway Plaza	floorCount	26
+One Bayfront Plaza	floorCount	80
+One Bayfront Plaza  100 South Biscayne II   1	floorCount	70
+First World Hotel	floorCount	28
+Mubarak Center	floorCount	60
+Millennium Tower (Dubai)	floorCount	60
+Reflections at Keppel Bay	floorCount	41
+375 East Wacker Drive	floorCount	76
+Horizon Apartments	floorCount	43
+University Club Tower (Milwaukee)	floorCount	36
+Gordon B. Hinckley Alumni and Visitors Center	floorCount	3
+Peddimore Hall	floorCount	2
+Powhatan Apartments	floorCount	22
+35 East Wacker	floorCount	40
+Allerton Hotel	floorCount	25
+Pentominium	floorCount	122
+Brickell World Plaza	floorCount	40
+Brickell World Plaza  Brickell Financial Centre II   1	floorCount	68
+West One	floorCount	8
+Buffalo City Tower	floorCount	40
+One M & T Plaza	floorCount	21
+Key Center North Tower	floorCount	17
+Key Center South Tower	floorCount	13
+10 Lafayette Square	floorCount	20
+333 North Michigan	floorCount	34
+1700 Pacific	floorCount	50
+Elm Place	floorCount	52
+Naberezhnaya Tower	floorCount	17
+Flatiron Building (Fort Worth)	floorCount	7
+Government of Canada Building, Moncton	floorCount	9
+Torre Cuscatlán	floorCount	18
+The Galleria (Metairie, Louisiana)	floorCount	21
+Reid, Murdoch & Co. Building	floorCount	7
+Whitacre Tower	floorCount	37
+Sheraton Dallas Hotel	floorCount	42
+TWELVE Centennial Park	floorCount	39
+33 Thomas Street	floorCount	29
+Hinwick House	floorCount	3
+Mutual Benefit Life Insurance Company  Mutual Benefit Life Building   1	floorCount	20
+West Tower	floorCount	40
+Lighthouse Tower	floorCount	64
+Crown Las Vegas	floorCount	142
+Hotel Icon	floorCount	12
+Oxford Tower (Edmonton)	floorCount	29
+1700 East 56th Street	floorCount	40
+Eaton Hall (Oregon)	floorCount	4
+Centre Square	floorCount	32
+801 Grand	floorCount	45
+Hong Kong Hilton	floorCount	26
+Beaconsfield House	floorCount	6
+White Magnolia Plaza	floorCount	67
+Westin St. Francis	floorCount	13
+The Gateway (Singapore)	floorCount	37
+Ayala Tower One	floorCount	35
+Hilton Washington	floorCount	12
+Barwa Tower	floorCount	108
+Mutual of Omaha Building	floorCount	14
+Industrial-Stevens Apartments	floorCount	22
+Washington Square (Detroit)	floorCount	28
+Republic Plaza (Denver)	floorCount	56
+Manulife Plaza	floorCount	52
+Thayer Hotel	floorCount	5
+Vista Tower	floorCount	62
+Bow Valley Square, Calgary	floorCount	39
+India Tower	floorCount	125
+Fifth Avenue Place (Calgary)	floorCount	35
+Sun Life Plaza (Calgary)	floorCount	28
+Oregon Supreme Court Building	floorCount	3
+Westpac Place	floorCount	33
+Manhattan Heights	floorCount	55
+First National Bank of Commerce Building	floorCount	19
+Loews New Orleans Hotel	floorCount	22
+The Watermark Detroit	floorCount	9
+Dragon and Tiger Pagodas	floorCount	7
+Hyatt Regency New Orleans	floorCount	27
+Three Lakeway Center	floorCount	34
+One California Plaza	floorCount	42
+Sennott Square	floorCount	6
+Theodore Levin United States Courthouse	floorCount	10
+One World Financial Center	floorCount	40
+Two Lakeway Center	floorCount	19
+Heritage Plaza (Metairie, Louisiana)	floorCount	18
+Executive Tower One	floorCount	14
+One Lakeway Center	floorCount	14
+80 South Street	floorCount	56
+First National Bank Building (Boston, Massachusetts)	floorCount	37
+First National Center (Omaha)	floorCount	22
+Equitable Building (Atlanta)	floorCount	33
+Blue Cross & Blue Shield of Rhode Island Headquarters	floorCount	13
+Providence County Courthouse	floorCount	7
+Turk's Head Building	floorCount	16
+Hyatt Regency Chicago	floorCount	33
+MATRADE Exhibition and Convention Centre	floorCount	24
+PNC Bank Building	floorCount	39
+One PNC Plaza	floorCount	30
+Dome Tower, Calgary	floorCount	30
+Home Oil Tower, Calgary	floorCount	29
+Renold Building	floorCount	8
+Maths and Social Sciences Building	floorCount	15
+Nokomis Community Library	floorCount	2
+The New 7th Storey Hotel	floorCount	9
+Chelsea Tower	floorCount	49
+One Park West	floorCount	17
+South Bay Tower	floorCount	67
+101 Clarendon Street	floorCount	35
+100 Montgomery Street	floorCount	25
+Al Fattan Marine Towers	floorCount	51
+Park Place (Dubai)	floorCount	56
+Alan Turing Building	floorCount	5
+Trump Tower (Tampa)	floorCount	52
+City Place I	floorCount	38
+1201 North Market Street	floorCount	23
+U.S. Bank Plaza (Boise)	floorCount	20
+Guggenheim Building	floorCount	21
+Mayo Building	floorCount	18
+Opus Imaging Research Building	floorCount	3
+Colston Tower	floorCount	15
+Former Bristol and West Building	floorCount	17
+Torre del Caballito	floorCount	35
+Detroit Riverside Hotel	floorCount	25
+1221 Avenue of the Americas	floorCount	51
+580 California Street	floorCount	23
+Kettering Tower	floorCount	30
+Torre Bicentenario	floorCount	70
+Telstra Corporate Centre	floorCount	47
+Oakwood Broadway Plaza	floorCount	29
+Chrysler Headquarters and Technology Center	floorCount	14
+Union Bank of California Tower	floorCount	15
+Yeon Building	floorCount	15
+Wells Fargo Building (Portland, Oregon)	floorCount	12
+Asia Insurance Building	floorCount	20
+Shin Kong Life Tower	floorCount	51
+Seattle Municipal Tower	floorCount	62
+Tour Generali	floorCount	46
+Fourth and Blanchard Building	floorCount	25
+Redstone Building	floorCount	3
+The Sister Dominica Manor	floorCount	16
+Henry M. Jackson Federal Building	floorCount	37
+Seattle Tower	floorCount	27
+Prince Rupert's Tower	floorCount	1
+Opernturm	floorCount	42
+State Street Bank Building	floorCount	33
+Millennium Place	floorCount	38
+100 Summer Street	floorCount	32
+McCormack Building	floorCount	22
+Keystone Building	floorCount	32
+Saltonstall Building	floorCount	22
+Russia Wharf	floorCount	32
+Hayward City Hall	floorCount	4
+Wells Fargo Center (Sacramento)	floorCount	30
+100 Bishopsgate	floorCount	40
+Hobart Building	floorCount	21
+Lewis Tower	floorCount	33
+LaSalle-Wacker Building	floorCount	41
+Pittsfield Building	floorCount	38
+Capitol Grand Tower	floorCount	70
+The Majestic, Singapore	floorCount	3
+1818 Market Street	floorCount	40
+Montpelier City Hall	floorCount	4
+Five Penn Center	floorCount	36
+The Tower at Hayward City Center	floorCount	11
+Two Logan Square	floorCount	35
+The Residences at The Ritz-Carlton (Philadelphia)	floorCount	48
+Pearl Bank Apartments	floorCount	38
+Sky Plaza	floorCount	37
+Pearl Tower	floorCount	70
+People's Park Complex	floorCount	31
+Opal Tower (Leeds)	floorCount	26
+Two PNC Plaza	floorCount	34
+Kansas City Power and Light Building	floorCount	34
+Fyfe Building	floorCount	14
+Golden Mile Complex	floorCount	16
+John Ross Tower	floorCount	31
+Wright-Kay Building	floorCount	6
+Commerce Tower	floorCount	32
+The Concourse	floorCount	41
+Tamani Hotel Marina	floorCount	54
+1201 Walnut	floorCount	30
+Murjan Tower	floorCount	200
+Washington County Courthouse (Oregon)	floorCount	3
+City Center Square	floorCount	30
+One Arts Plaza	floorCount	24
+Two Arts Plaza	floorCount	18
+2100 Ross Avenue	floorCount	33
+Five World Trade Center	floorCount	52
+Four World Trade Center	floorCount	72
+Three World Trade Center	floorCount	80
+One Nashville Place	floorCount	25
+Exchange Building (Seattle)	floorCount	23
+Tamani Exclusive at B2B Tower	floorCount	2
+Dubai Towers Dubai	floorCount	57
+333 Market Street	floorCount	33
+Equitable Life Building (New York City)	floorCount	7
+One South Broad	floorCount	28
+2000 Market Street	floorCount	29
+1700 Market	floorCount	32
+1835 Market Street	floorCount	29
+Aramark Tower	floorCount	32
+One Logan Square	floorCount	31
+World Trade Square	floorCount	42
+Murano (skyscraper)	floorCount	43
+Parkway22	floorCount	37
+Fifth Third Center (Nashville)	floorCount	31
+Keangnam Hanoi Landmark Tower	floorCount	70
+Saigon Times Square	floorCount	43
+TripleOne Somerset	floorCount	17
+BayWalk (St. Petersburg, Florida)	floorCount	2
+Metropolitan Courthouse	floorCount	9
+Bahrain World Trade Center	floorCount	50
+Tan Teck Guan Building	floorCount	2
+Esquire Tower	floorCount	22
+Victory Tower	floorCount	43
+The Convent (Gibraltar)	floorCount	3
+Alcide de Gasperi Building	floorCount	23
+Hilton Luxembourg	floorCount	20
+Chilehaus	floorCount	10
+The Fullerton Hotel Singapore	floorCount	9
+Portland Plaza	floorCount	25
+Public Service Building (Portland, Oregon)	floorCount	15
+Asia (Miami)	floorCount	36
+The Residences at Packard Place	floorCount	30
+Avenue on Brickell	floorCount	47
+Avenue on Brickell  West Tower   1	floorCount	47
+Axis at Brickell Village	floorCount	40
+Axis at Brickell Village  South Tower   1	floorCount	40
+The Mark on Brickell	floorCount	36
+Carbonell Condominium	floorCount	40
+The Palace (Miami)	floorCount	42
+500 Brickell	floorCount	42
+Tehran International Tower	floorCount	54
+One Bush Plaza	floorCount	20
+Paramount Bay at Edgewater Square	floorCount	47
+Menara Great Eastern	floorCount	20
+181 Fremont Street	floorCount	54
+Harbor Village Resort	floorCount	61
+Palace Hotel Residential Tower	floorCount	60
+350 Mission Street	floorCount	27
+UAW-Ford National Programs Center	floorCount	10
+Mulieris towers	floorCount	44
+Chateau Tower of Puerto Madero	floorCount	48
+VTP200	floorCount	10
+Coast Edmonton House	floorCount	45
+Portland Tower	floorCount	21
+Stamford House, Singapore	floorCount	3
+Bank of America Plaza (Tampa)	floorCount	42
+Signature Towers	floorCount	79
+Yue Hwa Building	floorCount	6
+Sanno Park Tower	floorCount	48
+Kuršas (building)	floorCount	40
+Hong Kong Hotel	floorCount	6
+Pennzoil Place	floorCount	36
+McCarthy Building (Chicago, Illinois)	floorCount	5
+Ruan Center	floorCount	36
+Cairo Marriott Hotel	floorCount	19
+Fenn Tower	floorCount	22
+Marine Parade Community Building	floorCount	3
+Executive Tower	floorCount	12
+International Plaza (Singapore)	floorCount	50
+Waldorf-Astoria Hotel and Residence Tower	floorCount	107
+Puget Sound Plaza	floorCount	21
+Lopez Center Tower	floorCount	52
+Alex Giualini Plaza	floorCount	3
+Enterprise Plaza	floorCount	55
+Hillsboro Civic Center	floorCount	5
+Langham Place Hotel	floorCount	42
+IYLO	floorCount	20
+Folksamhuset	floorCount	23
+100 First Plaza	floorCount	27
+One California	floorCount	32
+San Francisco Marriott Marquis	floorCount	39
+Providian Financial Building	floorCount	30
+Diwang International Commerce Center	floorCount	54
+China International Center	floorCount	62
+Beijing Yintai Centre Tower 2	floorCount	63
+Hangzhou No.2 Telecom Hub	floorCount	41
+595 Market Street	floorCount	30
+123 Mission Street	floorCount	29
+101 Montgomery	floorCount	28
+Dalian World Trade Center	floorCount	50
+R&F Centre	floorCount	54
+Panglin Plaza	floorCount	57
+Beach Hotel (Galveston)	floorCount	5
+Kuningan Place	floorCount	32
+Towers Karpoš IV Tower I	floorCount	19
+Towers Karpoš IV Tower II	floorCount	19
+Dubai Marriott Harbour Hotel & Suites	floorCount	59
+Bank of China Mansion, Qingdao	floorCount	54
+Beijing TV Centre	floorCount	41
+Tianjin Xinda Plaza	floorCount	51
+AF and AM Lodge 687	floorCount	3
+Sears, Roebuck, and Company Complex  Sears Merchandise Building Tower   1	floorCount	15
+Torre Bicentenario II	floorCount	77
+The Cube (building)	floorCount	23
+Ordway Building	floorCount	28
+Cloud Nine (Shanghai)	floorCount	58
+New World Center (Shenzhen)	floorCount	53
+Future International	floorCount	54
+Gifu City Tower 43	floorCount	43
+West Bar scheme	floorCount	27
+West Bar scheme	floorCount	15
+Parus Business Centre	floorCount	34
+Mirax-Plaza Ukraine	floorCount	46
+One Maritime Plaza	floorCount	27
+Active Voice Building	floorCount	11
+Bryan Tower	floorCount	34
+Harwood Center	floorCount	36
+KPMG Centre	floorCount	34
+Renaissance Hotel (Dallas)	floorCount	30
+One Main Place (Dallas)	floorCount	33
+1600 Pacific Tower	floorCount	33
+Shin-Marunouchi Building	floorCount	42
+Museum Tower (Dallas)	floorCount	42
+Antilia (building)	floorCount	27
+Praetorian Building	floorCount	15
+Constitution Center (Washington, D.C.)	floorCount	10
+Paramount Plaza	floorCount	48
+Torre Sacyr Vallehermoso	floorCount	52
+Tower Palace One	floorCount	66
+The Harbourfront Landmark	floorCount	70
+The Arch (Hong Kong)	floorCount	65
+The Arch (Hong Kong)	floorCount	2
+International Ocean Shipping Building	floorCount	50
+Suzhou Xindi Center	floorCount	54
+Esplanada City Center	floorCount	70
+Charles de Gaulle Plaza	floorCount	16
+BRD Tower Bucharest	floorCount	19
+Bucharest Tower Center	floorCount	26
+Bucharest Financial Plaza	floorCount	18
+InterContinental Bucharest	floorCount	25
+Jamieson Place (Calgary)	floorCount	38
+St George Wharf Tower	floorCount	49
+Central Tower (San Francisco)	floorCount	21
+Floreasca City Center	floorCount	37
+Administrative Palace, Satu Mare	floorCount	18
+Al Seef Tower	floorCount	44
+Heffron Hall (St. Mary's University)	floorCount	4
+Government Center, Newark, New Jersey	floorCount	16
+333 Wacker Drive	floorCount	36
+Commercial Union Assurance Building	floorCount	16
+Hyatt Regency Atlanta	floorCount	24
+European Central Bank Headquarters	floorCount	48
+Essen City Hall	floorCount	22
+Centennial Place (Calgary)	floorCount	39
+Centennial Place (Calgary)	floorCount	23
+RWE Tower	floorCount	29
+Tun Mustapha Tower	floorCount	30
+25 North Colonnade	floorCount	15
+Hale Library	floorCount	5
+Information Commons, Sheffield	floorCount	7
+Bayside Residence	floorCount	24
+Chant Tower	floorCount	30
+Le Rêve (Dubai)	floorCount	52
+Velocity Tower	floorCount	30
+Marina Heights Tower	floorCount	55
+Marina Crown	floorCount	52
+Shangri-La Hotel (Dubai)	floorCount	43
+Horizon Tower	floorCount	45
+Capricorn Tower	floorCount	46
+Marina Terrace	floorCount	38
+APIIC Tower	floorCount	100
+CenterPoint Energy Plaza	floorCount	47
+Magnolia Hotel (Houston)	floorCount	22
+Club Quarters Hotel (Houston)	floorCount	16
+Texas Company Annex	floorCount	13
+Emirates Crown	floorCount	63
+Nuaimi Tower	floorCount	40
+Shatha Tower	floorCount	41
+Dusit Dubai	floorCount	40
+Falcon Tower	floorCount	41
+D1 (building)	floorCount	80
+The Monarch Office Tower	floorCount	40
+Al Attar Business Tower	floorCount	38
+Sulafa Tower	floorCount	75
+Four Points by Sheraton Sheikh Zayed Road Dubai	floorCount	43
+Marina Pinnacle	floorCount	73
+Etisalat Tower 1	floorCount	17
+Etisalat Tower 2	floorCount	33
+Goldcrest Views 1	floorCount	40
+Goldcrest Views 2	floorCount	39
+The Fairmont Dubai	floorCount	37
+Al Kazim Towers	floorCount	53
+Saeed Tower 2	floorCount	38
+Saba Tower 1	floorCount	37
+Khalid Al Attar Tower 2	floorCount	66
+Al Tayer Tower	floorCount	59
+The Address Dubai Mall	floorCount	37
+George W. Romney Building	floorCount	13
+The Palladium (Dubai)	floorCount	35
+Dubai Arch Tower	floorCount	41
+Tiara United Towers	floorCount	61
+The Buildings by Daman	floorCount	65
+Latifa Tower	floorCount	56
+Rolex Tower	floorCount	59
+Ubora Towers	floorCount	58
+Hilton New Orleans	floorCount	20
+Platinum Tower (Beirut)	floorCount	34
+Platinum Tower (Dubai)	floorCount	44
+The Citadel (Dubai)	floorCount	42
+Al Salam Tecom Tower	floorCount	47
+Lake Terrace	floorCount	40
+Dubai Tower	floorCount	45
+Media 1 Tower	floorCount	43
+Dusit Residence	floorCount	35
+Pier 8	floorCount	40
+Iris Bay (Dubai)	floorCount	32
+Liberty House (Dubai)	floorCount	42
+Goldcrest Executive	floorCount	40
+Lake Shore Tower 1	floorCount	46
+Sky Gardens	floorCount	45
+Time Place	floorCount	35
+AG Tower	floorCount	37
+AU Tower	floorCount	35
+Laguna Tower	floorCount	41
+The Skyscraper (Dubai)	floorCount	65
+Cathedral Plaza Bucharest	floorCount	19
+Millennium Business Center	floorCount	19
+Howard Johnson Hotel Bucharest	floorCount	18
+Tregunter Towers	floorCount	66
+World Trade Centre Residence	floorCount	38
+Duja Tower	floorCount	51
+The Dome (Dubai)	floorCount	41
+Swiss Tower	floorCount	40
+Minto Midtown	floorCount	37
+Euro Tower	floorCount	19
+Ontario Tower (Dubai)	floorCount	29
+The Oberoi Business Bay	floorCount	30
+The Prism (Dubai)	floorCount	36
+Al Manara (tower)	floorCount	35
+The Bay Gate	floorCount	53
+Bayswater (Dubai)	floorCount	29
+The Binary (Dubai)	floorCount	30
+The Exchange (Dubai)	floorCount	29
+The Conclave (Dubai)	floorCount	27
+Business Tower	floorCount	25
+West Bay Tower	floorCount	25
+XL Tower	floorCount	25
+The Peninsula (Dubai)	floorCount	23
+B2B Tower	floorCount	20
+Sky Tower 1	floorCount	30
+Park Lane Tower (Dubai)	floorCount	30
+The Court (Dubai)	floorCount	31
+The Regal Tower	floorCount	32
+The Forum (Dubai)	floorCount	35
+Rawasi Tower	floorCount	35
+Latter & Blum Building	floorCount	11
+Robot Building	floorCount	20
+Hotel des Arts	floorCount	4
+M-Towers	floorCount	33
+360 Condominiums	floorCount	44
+The Belcher's	floorCount	61
+William R. Snodgrass Tennessee Tower	floorCount	31
+Kennesaw State University Social Sciences Building	floorCount	5
+Time Residences	floorCount	30
+Nebotičnik	floorCount	13
+One Bloor East	floorCount	80
+The Wave Tower	floorCount	92
+Tour du Crédit Lyonnais	floorCount	42
+AAM Tower	floorCount	46
+Dubai Jewel Tower	floorCount	43
+Concorde Tower	floorCount	45
+Mag 214 Tower	floorCount	40
+Aura (Toronto)	floorCount	75
+Snowhill	floorCount	43
+Fortune Plaza Office Building 1	floorCount	63
+Grand Lisboa	floorCount	52
+Dalian Futures Square 1	floorCount	53
+Espace Léopold	floorCount	17
+Old Main (Geneva College)	floorCount	3
+Torre Europa	floorCount	30
+Al Bateen Tower	floorCount	54
+Silver Star (Dubai)	floorCount	40
+Trident Grand Residence	floorCount	45
+Al Hekma Tower	floorCount	64
+Lake Point Tower (Dubai)	floorCount	45
+Elephant Building	floorCount	32
+SCB Park Plaza	floorCount	37
+Supalai Park Towers	floorCount	33
+Providence Tower	floorCount	57
+Nashville City Center	floorCount	27
+The Pinnacle at Symphony Place	floorCount	29
+Nili Tower	floorCount	57
+ARY Digital Tower	floorCount	45
+The Sheffield Tower	floorCount	46
+Prime Tower (Dubai)	floorCount	36
+Abjar Tower	floorCount	67
+Indianapolis City–County Building	floorCount	28
+Madou Plaza Tower	floorCount	33
+Al Manara Tower	floorCount	36
+Al Sahab Tower 1	floorCount	24
+Dubai Gate 1	floorCount	40
+O2 Residence	floorCount	41
+The Bonnington Tower	floorCount	41
+LIWA Heights	floorCount	41
+Ritz-Carlton Toronto	floorCount	53
+West End Summit	floorCount	25
+Palmer Plaza	floorCount	18
+Viridian Tower	floorCount	31
+King George Tower	floorCount	81
+One Congress Plaza	floorCount	30
+University of Washington Plaza	floorCount	22
+Millennium Centre (Chicago)	floorCount	59
+Heller International Building	floorCount	45
+Madison Plaza	floorCount	45
+I-Rise	floorCount	37
+Al Thuraya Tower 2	floorCount	30
+Marina Quays West	floorCount	39
+Zumurud Tower	floorCount	30
+Orra Marina	floorCount	31
+Barclay Tower	floorCount	56
+The Orion	floorCount	58
+Sun Towers	floorCount	42
+City Tech Tower	floorCount	65
+Tower Verre	floorCount	82
+Sheikh Zayed Complex	floorCount	60
+COSCO Tower	floorCount	53
+Grand Millennium Plaza II	floorCount	30
+Lighthouse Landing	floorCount	22
+Lighthouse Landing	floorCount	18
+Great American Tower at Queen City Square	floorCount	41
+Society for Savings Building	floorCount	10
+Marriott at Key Center	floorCount	25
+Leigh Court	floorCount	4
+Superior Building    1	floorCount	22
+Penton Media Building	floorCount	21
+Ohio Savings Plaza	floorCount	17
+Ameritech Center	floorCount	16
+Bank of America Center (Tulsa)	floorCount	32
+110 West 7th Building	floorCount	28
+University Club Tower (Tulsa)	floorCount	32
+Liberty Towers	floorCount	23
+Boulder Towers	floorCount	15
+One Meridian Plaza	floorCount	38
+First National Bank Building (Tulsa, Oklahoma)	floorCount	20
+Thompson Building	floorCount	15
+909 Walnut	floorCount	32
+The Westin at Tulsa Garden Square	floorCount	15
+Hyatt Regency Crown Center	floorCount	40
+2345 Grand	floorCount	28
+The Elysian	floorCount	17
+Renaissance Tower (Sacramento)	floorCount	28
+Dynamic Tower	floorCount	80
+Dubai Star	floorCount	45
+V3 Tower	floorCount	39
+Winecoff Hotel	floorCount	15
+925 Grand	floorCount	16
+Oliver Building (Pittsburgh)	floorCount	25
+Bertelsmann Building	floorCount	42
+Continental Center I	floorCount	53
+Marina Towers (Beirut)	floorCount	26
+Marina Towers (Beirut)	floorCount	9
+Times Square Tower	floorCount	47
+Commerce Trust Building	floorCount	17
+Southwestern Bell Building	floorCount	28
+General Motors Building (New York)	floorCount	50
+Sheraton on the Falls	floorCount	22
+Oak Tower	floorCount	28
+New York Life Building (Kansas City, Missouri)	floorCount	12
+Premium Plaza	floorCount	15
+Europa Group Towers	floorCount	23
+City Gate Towers	floorCount	18
+Alia Apartments	floorCount	22
+Sema Parc Hotel	floorCount	22
+Cefin Tower	floorCount	36
+Madison Square Garden Towers	floorCount	112
+One US Bank Plaza	floorCount	35
+AT&T Center (St. Louis)	floorCount	44
+Laclede Gas Building	floorCount	31
+Civil Courts Building	floorCount	13
+388 Greenwich Street	floorCount	39
+500 Fifth Avenue	floorCount	60
+Americas Tower	floorCount	50
+Independent Square	floorCount	37
+V1 (building)	floorCount	15
+375 Pearl Street	floorCount	32
+Dream Tower	floorCount	150
+Samsung Town	floorCount	44
+Hotel Carter, Manhattan	floorCount	25
+Copley Square Hotel	floorCount	7
+PSA Building	floorCount	42
+DBS Building Tower One	floorCount	50
+Golden Gate Tower	floorCount	28
+Bank of America Building (Baltimore)	floorCount	37
+33 South Sixth	floorCount	50
+Bahia Center	floorCount	31
+Singapore Land Tower	floorCount	48
+Raffles Hotel, Perth	floorCount	2
+ION Orchard and The Orchard Residences    1	floorCount	56
+ION Orchard and The Orchard Residences    1	floorCount	4
+Hyatt Regency Phoenix	floorCount	24
+Wayne L. Morse United States Courthouse	floorCount	6
+Victoria Complex	floorCount	18
+Rin Grand Hotel	floorCount	15
+Anantara Towers	floorCount	45
+The Ardea	floorCount	30
+Mandarin Oriental, Las Vegas	floorCount	56
+The Tokyo Towers	floorCount	60
+MRT Center	floorCount	25
+Gaylord Texan Resort Hotel & Convention Center	floorCount	9
+Hotel Bossert	floorCount	14
+Wells Fargo Plaza (Phoenix)	floorCount	27
+Grand Hyatt San Francisco	floorCount	35
+SGX Centre	floorCount	30
+Pickering Operations Complex	floorCount	43
+Central Plaza, San Francisco	floorCount	23
+450 Sutter Street	floorCount	26
+SIA Building	floorCount	40
+Shell Building (San Francisco)	floorCount	29
+6 Battery Road	floorCount	44
+Samsung Hub	floorCount	30
+SUNTECH Tower	floorCount	22
+CPF Building	floorCount	46
+Bank of China Building (Singapore)	floorCount	36
+Hitachi Tower	floorCount	37
+Park Towers at DIFC	floorCount	46
+Fuji Xerox Towers	floorCount	38
+Springleaf Tower	floorCount	37
+The Lancaster	floorCount	30
+The Regatta	floorCount	44
+The Shoreham	floorCount	46
+Hong Leong Building	floorCount	45
+The Tides	floorCount	51
+The Chandler	floorCount	35
+777 Tower	floorCount	52
+Two California Plaza	floorCount	54
+Council House 2	floorCount	10
+Centennial Tower (Singapore)	floorCount	37
+Centennial Tower (Singapore)	floorCount	2
+Victory Plaza	floorCount	52
+Victory Plaza	floorCount	36
+One Marina Boulevard	floorCount	32
+Chevron House	floorCount	33
+Schuster Laboratory	floorCount	7
+Jordan Gate Towers	floorCount	44
+Wells Fargo Plaza (Billings)	floorCount	14
+Crowne Plaza Hotel Billings	floorCount	22
+Granite Tower	floorCount	11
+Radisson Northern Hotel	floorCount	10
+Viad Tower	floorCount	24
+Veterans Way at College Avenue (Tempe Transportation Center) (Sun Devil Stadium) (METRO Light Rail station)  Tempe Transportation Center   1	floorCount	3
+One Indiana Square	floorCount	36
+OneAmerica Tower	floorCount	38
+Wells Fargo Tower (Birmingham)	floorCount	34
+Axis Tower	floorCount	18
+The Austonian	floorCount	56
+Sigma Towers	floorCount	35
+44 Monroe	floorCount	34
+Sheraton Phoenix Downtown	floorCount	31
+Hochhaus Uptown München	floorCount	38
+Kirya Tower	floorCount	42
+99 Church Street	floorCount	68
+Hotel President	floorCount	14
+Mirante do Vale	floorCount	51
+One Wells Fargo Center	floorCount	42
+Daniel Building	floorCount	20
+Neve Tzedek Tower	floorCount	44
+Tel Aviv Towers	floorCount	42
+IEC Tower	floorCount	30
+Symphony Towers	floorCount	34
+Marganit Tower	floorCount	17
+First International Bank Tower	floorCount	32
+Levinstein Tower	floorCount	33
+Tzameret Towers	floorCount	34
+Diamond Tower	floorCount	32
+Gibor Sport House	floorCount	32
+Plaza Büro Center	floorCount	47
+Rambam Square	floorCount	1
+Rambam Square	floorCount	2
+Isrotel Tower	floorCount	29
+Bank Discount Tower	floorCount	30
+Park Plaza Condominiums	floorCount	14
+Grosvenor House (Dubai)	floorCount	48
+Bank of America Plaza (Charlotte)	floorCount	78
+Main Court Building	floorCount	13
+Duke Energy Center	floorCount	48
+Wind Towers	floorCount	38
+Sterling Tower	floorCount	21
+Angsana Hotel & Suites	floorCount	49
+SunTrust Plaza (Nashville)	floorCount	13
+121 West Trade	floorCount	32
+The Met Condos	floorCount	43
+Sheraton Centre Toronto Hotel	floorCount	43
+The Palace Pier	floorCount	46
+Full Moon Hotel    1	floorCount	35
+Loews Vanderbilt Hotel	floorCount	12
+Three Wells Fargo Center	floorCount	32
+Fifth Third Center (Charlotte)	floorCount	30
+U.S. Bank Plaza (Sacramento)	floorCount	26
+Deira Twin Towers	floorCount	22
+National Bank of Dubai (building)	floorCount	20
+Dubai Chamber of Commerce and Industry (building)	floorCount	18
+Two Wells Fargo Center	floorCount	32
+400 South Tryon	floorCount	34
+1740 Broadway	floorCount	26
+Shanghai Tower	floorCount	128
+W New Orleans	floorCount	23
+Windsor Court Hotel	floorCount	23
+Avenue (Charlotte)	floorCount	36
+North Tower (Salford)	floorCount	23
+Carillon Tower	floorCount	24
+Great Northern Tower	floorCount	25
+Charlotte Plaza	floorCount	27
+525 North Tryon	floorCount	19
+210 Trade	floorCount	53
+Aurora Plaza	floorCount	37
+TradeMark	floorCount	28
+First Citizens Plaza	floorCount	23
+The Vue	floorCount	50
+The Arlington	floorCount	24
+101 Independence Center	floorCount	20
+Ocean Financial Centre	floorCount	43
+BB&T Center	floorCount	22
+200 South Tryon	floorCount	18
+111 Piccadilly	floorCount	18
+Commonwealth Building (Louisville)	floorCount	21
+Isozaki Atea	floorCount	22
+Iberdrola Tower	floorCount	41
+112 Tryon Plaza	floorCount	22
+129 West Trade	floorCount	15
+The Corinthian (New York)	floorCount	57
+Dubai Creek Tower	floorCount	29
+Burns Manor	floorCount	3
+399 Park Avenue	floorCount	41
+Twelve Hotels & Residences at Third Ward	floorCount	39
+BRD Tower Cluj-Napoca	floorCount	12
+Central Market Project	floorCount	88
+Westin Virginia Beach Town Center	floorCount	38
+111 First Street	floorCount	52
+Dain Rauscher Plaza	floorCount	40
+Ameriprise Financial Center	floorCount	31
+The Pinnacle@Duxton	floorCount	50
+Plaza VII	floorCount	36
+The Carlyle	floorCount	41
+US Bancorp Center	floorCount	32
+AT&T Tower (Minneapolis)	floorCount	34
+Accenture Tower	floorCount	33
+LaSalle Plaza	floorCount	30
+One Financial Plaza (Minneapolis)	floorCount	28
+Marriott Hotel City Center	floorCount	32
+100 Washington Square	floorCount	22
+110 Grant Apartments	floorCount	34
+Midwest Plaza	floorCount	20
+La Rive Condominiums	floorCount	29
+Churchill Apartments	floorCount	33
+IVY Hotel + Residences	floorCount	25
+Oasis Skyway Garden Hotel	floorCount	52
+Renaissance Nashville Hotel	floorCount	31
+Cable TV Tower	floorCount	41
+525 William Penn Place	floorCount	41
+Raffles City Shanghai	floorCount	49
+The Regent Shanghai	floorCount	53
+Regional Enterprise Tower	floorCount	30
+Federated Tower	floorCount	27
+William S. Moorhead Federal Building	floorCount	23
+Bell Telephone Building (Pittsburgh, Pennsylvania)	floorCount	20
+Three PNC Plaza	floorCount	23
+Shanghai Dong Hai Plaza	floorCount	52
+Epcor Tower	floorCount	28
+CityLife (Milan)	floorCount	50
+CityLife (Milan)  "Crooks"   1	floorCount	40
+CityLife (Milan)  "The Curve"   1	floorCount	34
+Titanium La Portada	floorCount	55
+King Tower	floorCount	38
+Four Leaf Towers	floorCount	40
+The Carlyle (Pittsburgh)	floorCount	21
+Commonwealth Building (Pittsburgh)	floorCount	21
+1400 Smith Street	floorCount	50
+Outrigger Pandanas	floorCount	29
+Hyatt Regency Houston	floorCount	30
+Pudong International Information Port	floorCount	40
+Sofitel Jin Jiang Oriental Pudong Hotel	floorCount	47
+First City Tower	floorCount	49
+1500 Louisiana Street	floorCount	40
+Wedge International Tower	floorCount	43
+The Mercer West Tower	floorCount	30
+American General Center	floorCount	42
+Mayapada Tower	floorCount	22
+AT&T Building (Omaha)	floorCount	16
+Northern Natural Gas Building	floorCount	19
+Marathon Oil Tower	floorCount	41
+KBR Tower	floorCount	40
+Devon Energy Tower (Houston)	floorCount	36
+Reliant Energy Plaza	floorCount	36
+The Huntingdon	floorCount	34
+El Paso Energy Building	floorCount	33
+Calpine Center	floorCount	33
+Phoenix Tower	floorCount	34
+The Spires (Houston)	floorCount	40
+One City Centre	floorCount	32
+Bob Lanier Public Works Building	floorCount	27
+BG Group Place	floorCount	46
+One Park Place	floorCount	37
+Sun Hung Kai Centre	floorCount	53
+Longfellow House	floorCount	3
+Techirghiol TV Tower	floorCount	1
+Blue Water Offices Iaşi	floorCount	20
+International Financial Center (Jersey City)	floorCount	19
+Franklin Lofts	floorCount	8
+The James Monroe	floorCount	34
+Marbella Apartments	floorCount	40
+Kiseleff Business Plaza	floorCount	31
+Romfelt Plaza	floorCount	24
+Avalon Cove	floorCount	25
+Liberty View Towers	floorCount	36
+Burns Building	floorCount	6
+Hudson Greene	floorCount	48
+Hudson Greene  70 Greene Street   1	floorCount	48
+Trump Plaza (Jersey City)	floorCount	55
+Trump Plaza (Jersey City)  Trump Plaza II   1	floorCount	50
+The Metropolitan (Jersey City)	floorCount	67
+50 Hudson Street	floorCount	30
+26 Journal Square	floorCount	15
+99 Hudson Street	floorCount	37
+Kingkey 100	floorCount	100
+5900 Wilshire	floorCount	32
+MCI Center (Los Angeles)	floorCount	33
+DIB-200	floorCount	200
+AT&T Switching Center	floorCount	17
+AT&T Center (Los Angeles)	floorCount	32
+Equitable Life Building (Los Angeles)	floorCount	34
+1100 Wilshire	floorCount	37
+Conrad Dubai	floorCount	51
+Sidra Tower	floorCount	45
+Key Bank Center	floorCount	16
+ARCO Tower (Los Angeles)	floorCount	33
+Constellation Place	floorCount	35
+Union Bank Plaza	floorCount	40
+Evolution on Gardiner	floorCount	33
+Dubai Islamic Bank Tower	floorCount	38
+1801 California Street	floorCount	53
+707 17th Street	floorCount	42
+633 17th Street	floorCount	32
+Brooks Tower	floorCount	42
+555 17th Street	floorCount	40
+621 17th Street	floorCount	28
+Safeco Plaza (Seattle)	floorCount	50
+Alaska Building	floorCount	14
+Concord Tower	floorCount	40
+TCW Tower	floorCount	39
+City National Plaza	floorCount	52
+SunAmerica Center	floorCount	39
+Texaco Building	floorCount	13
+Park Central Building	floorCount	14
+A.G. Bartlett Building	floorCount	14
+Security Building (Los Angeles)	floorCount	11
+Continental Building	floorCount	13
+225 Bush Street	floorCount	22
+Ernst & Young Plaza	floorCount	41
+Phoenix Corporate Center	floorCount	26
+Citigroup Center (Los Angeles)	floorCount	48
+The Stahlman	floorCount	12
+Courtyard Nashville Downtown	floorCount	12
+One Shenton Way	floorCount	50
+Palace II	floorCount	22
+Figueroa at Wilshire	floorCount	53
+Solaris Tower Constanţa	floorCount	23
+Tender Financial Center	floorCount	45
+3670 Wilshire Boulevard	floorCount	46
+Continental Bank Building	floorCount	48
+Walnut Hall	floorCount	4
+1111 Third Avenue	floorCount	34
+Qwest Plaza	floorCount	33
+1000 Second Avenue	floorCount	43
+901 Fifth Avenue	floorCount	42
+Bank of America Fifth Avenue Plaza	floorCount	42
+Wells Fargo Center (Seattle)	floorCount	47
+U.S. Bank Centre	floorCount	44
+Fifth and Columbia Tower	floorCount	43
+505 Madison	floorCount	40
+Heron/Pagoda Towers	floorCount	46
+1918 Eighth Avenue	floorCount	36
+Seattle Civic Square	floorCount	40
+811 Stewart Hotel	floorCount	51
+Sky Towers Cluj Napoca	floorCount	32
+The One Tower	floorCount	51
+Emirates Airlines Staff Accommodation	floorCount	29
+Al Thuraya Tower 1	floorCount	28
+Ahmad Ali Abdulla Al Abdulla Building	floorCount	30
+Bolueta Towers	floorCount	28
+Johns Manville Plaza	floorCount	29
+One Tabor Center	floorCount	30
+1999 Broadway	floorCount	43
+U.S. Bank Tower (Denver)	floorCount	26
+17th Street Plaza	floorCount	33
+1670 Broadway	floorCount	36
+Hyatt Regency Denver at the Colorado Convention Center	floorCount	38
+Graphic Arts Building (Kansas City, Missouri)  Graphic Arts Building   1	floorCount	8
+The Curtis	floorCount	30
+1600 Broadway	floorCount	26
+United Western Financial Center	floorCount	24
+1125 17th Street	floorCount	25
+Denver World Trade Center	floorCount	28
+Lincoln Center (Denver)	floorCount	30
+Dominion Plaza	floorCount	28
+Denver Financial Center	floorCount	32
+1600 Glenarm Place	floorCount	32
+Trump Tower Denver	floorCount	60
+Four Seasons Hotel Denver	floorCount	45
+200 North Riverside Plaza	floorCount	50
+560 North Fairbanks	floorCount	58
+Blue and Green Diamond	floorCount	44
+Ritz Plaza Hotel	floorCount	12
+The Blackstone	floorCount	13
+The Aetna Building (Jacksonville)	floorCount	22
+Cityfront Plaza Towers	floorCount	65
+G.T. International Tower	floorCount	47
+353 North Clark	floorCount	44
+200 South Wacker Drive	floorCount	41
+Nishi-Shinjuku 3-Chōme Redevelopment	floorCount	77
+TD Tower (Edmonton)	floorCount	28
+Fairbanks-Morse Warehouse (Saskatoon)	floorCount	4
+120 North LaSalle	floorCount	39
+Epic (skyscraper)	floorCount	48
+10 South LaSalle	floorCount	37
+One Superior Place	floorCount	52
+Matcal Tower	floorCount	17
+400 East Ohio Street	floorCount	50
+321 North Clark	floorCount	35
+300 North Meridian	floorCount	27
+Harris Bank Addition II	floorCount	38
+The Streeter	floorCount	50
+One Financial Place	floorCount	39
+401 East Ontario	floorCount	51
+191 North Wacker	floorCount	37
+Courthouse Center (Miami, Florida)	floorCount	30
+The Columbian (Chicago)	floorCount	47
+Unitrin Building	floorCount	41
+River Plaza	floorCount	56
+Elysées Condominiums	floorCount	56
+One South Wacker	floorCount	40
+30 North LaSalle	floorCount	44
+Newberry Plaza	floorCount	53
+1000 Lake Shore Plaza	floorCount	55
+Mid-Continental Plaza	floorCount	49
+Huron Plaza	floorCount	56
+One South Dearborn	floorCount	39
+190 South LaSalle Street	floorCount	40
+North Harbor Tower	floorCount	55
+Citadel Center	floorCount	39
+North Pier Apartments	floorCount	61
+Key Bank Building	floorCount	20
+The Condominiums at North Bank Park	floorCount	20
+Midland Building	floorCount	21
+Motorists Mutual Building	floorCount	21
+Fifth Third Center (Columbus)	floorCount	25
+PNC Bank Building (Columbus)	floorCount	24
+Continental Center	floorCount	26
+Capitol Square	floorCount	26
+Columbus Center (Ohio)	floorCount	25
+Torre Fundadores	floorCount	60
+One Columbus Center	floorCount	26
+Borden Building	floorCount	34
+AEP Building	floorCount	31
+Vern Riffe State Office Tower	floorCount	32
+William Green Building	floorCount	33
+303 East 51st Street	floorCount	44
+Hilton San Diego Bayfront	floorCount	32
+Union Bank of California Building	floorCount	27
+Freeport-McMoRan Center	floorCount	26
+56 Leonard Street	floorCount	58
+GiraSole (New York)	floorCount	67
+Executive Complex	floorCount	25
+50 West Street	floorCount	63
+15 Penn Plaza	floorCount	68
+Bryan Simpson United States Courthouse	floorCount	14
+360 Tenth Avenue	floorCount	61
+55 Water Street	floorCount	53
+Calyon Building	floorCount	45
+First National Bank Building (Pittsburgh)	floorCount	26
+Farmers Bank Building (Pittsburgh)	floorCount	27
+Continental Life Building	floorCount	22
+1166 (building)	floorCount	44
+590 Madison Avenue	floorCount	41
+750 7th Avenue	floorCount	36
+The Epic	floorCount	58
+425 Fifth Avenue	floorCount	55
+599 Lexington Avenue	floorCount	50
+712 5th Avenue	floorCount	52
+245 Park Avenue	floorCount	48
+8 East Broad Street	floorCount	17
+Trump Palace Condominiums	floorCount	54
+Burlington House (New York City)	floorCount	50
+Shinjuku Sumitomo Building	floorCount	52
+888 7th Avenue	floorCount	46
+345 Park Avenue	floorCount	44
+One Dag Hammarskjold Plaza	floorCount	49
+101 Park Avenue	floorCount	49
+1095 Avenue of the Americas	floorCount	41
+Home Insurance Plaza	floorCount	44
+Havelock City	floorCount	22
+Aquarius Tower	floorCount	38
+1138 Peachtree	floorCount	50
+TWELVE Midtown	floorCount	58
+Torre Reforma	floorCount	57
+The Grand Doubletree	floorCount	42
+1280 West	floorCount	38
+2828 Peachtree	floorCount	34
+Park Place (Atlanta)	floorCount	40
+Seattle City Hall	floorCount	7
+Atlanta Plaza	floorCount	32
+One Park Tower (Atlanta)	floorCount	32
+Spire (Atlanta)	floorCount	28
+The Mansion on Peachtree	floorCount	42
+Peel County Courthouse	floorCount	3
+ViewPoint	floorCount	36
+Skyline Tower	floorCount	24
+Park Avenue Condominiums	floorCount	44
+Equitable Building (Atlanta 1892)	floorCount	8
+The Imperial, New Delhi	floorCount	3
+Sky Las Vegas	floorCount	45
+Marriott's Grand Chateau	floorCount	37
+Lanco Hills Signature Tower	floorCount	114
+Flatiron Las Vegas	floorCount	50
+Conrad Majestic Las Vegas	floorCount	55
+Dynasty Towers	floorCount	63
+EP 07 Tower	floorCount	125
+GIFT Diamond Tower	floorCount	86
+Soleil (Brisbane)	floorCount	74
+109 Bluevale Street	floorCount	31
+McDonald's Cycle Center	floorCount	2
+Eugene C. Eppley Administration Building	floorCount	2
+Hilton Capitol Center	floorCount	11
+Old Government Buildings, Wellington	floorCount	4
+IT Tower	floorCount	47
+Charles W. Eisemann Center for Performing Arts	floorCount	3
+UB City	floorCount	19
+Maison Lafrance	floorCount	11
+Luther Tower	floorCount	22
+William Penn Hotel	floorCount	20
+Ritz-Carlton Denver	floorCount	38
+JW Marriott Indianapolis	floorCount	34
+Grand Hotel Tijuana	floorCount	28
+Hotel Mehran	floorCount	8
+Market Tower	floorCount	32
+Capitol Records Building	floorCount	13
+New City Residential	floorCount	27
+100 North Tampa	floorCount	42
+United States Air Force Academy Cadet Chapel	floorCount	2
+Henderson Village	floorCount	1
+The Ascent at Roebling's Bridge	floorCount	22
+300 East Pratt Street	floorCount	50
+Centura Tower	floorCount	16
+Hospital Angeles Tijuana	floorCount	11
+La Renaissance Apartments	floorCount	24
+Houston Center	floorCount	40
+Houston Center  Fulbright Tower   1	floorCount	52
+414 Water Street	floorCount	31
+Legg Mason Tower	floorCount	24
+Four Seasons Baltimore and Residences	floorCount	44
+William Donald Schaefer Building	floorCount	37
+Commerce Place (Baltimore)	floorCount	31
+Fidelity Building (Baltimore)	floorCount	15
+100 East Pratt Street	floorCount	28
+Hyatt Regency Columbus	floorCount	20
+Birmingham Magistrates' Court (building)	floorCount	15
+Island House (Birmingham)	floorCount	3
+Two Charles Center	floorCount	30
+Blaustein Building	floorCount	30
+250 West Pratt Street	floorCount	24
+Element (Tampa)	floorCount	34
+Towers at Harbor Court	floorCount	28
+201 North Charles Street Building	floorCount	28
+HarborView Condominium	floorCount	29
+Wachovia Tower (Baltimore)	floorCount	24
+M&T Bank Building	floorCount	22
+Silo Point	floorCount	24
+Vue Harbor East	floorCount	30
+One Mack-Cali Center	floorCount	21
+Torre Altus	floorCount	45
+The Stovall	floorCount	22
+City Square (skyscraper)	floorCount	46
+The Alagon on Bayshore	floorCount	23
+Fifth Third Center (Tampa)	floorCount	19
+Franklin Exchange Building	floorCount	22
+M&I Plaza	floorCount	31
+Wells Fargo Center (Tampa)	floorCount	22
+Tampa Marriott Waterside	floorCount	27
+SkyPoint	floorCount	32
+Rivergate Tower	floorCount	32
+SunTrust Financial Centre	floorCount	36
+101 West Ohio	floorCount	22
+Old Perth Technical School	floorCount	4
+St Martins Tower	floorCount	33
+World Trade Center (Colombo)	floorCount	40
+AT&T Building (Indianapolis)	floorCount	22
+Market Square Center	floorCount	20
+Simon Property Group Headquarters	floorCount	14
+Conrad Indianapolis	floorCount	23
+One Franklin Square	floorCount	12
+One Franklin Square	floorCount	4
+Capitol View (building)	floorCount	12
+Onyx on First	floorCount	14
+Capital Center South Tower	floorCount	22
+700 Eleventh Street	floorCount	13
+1090 Vermont Avenue	floorCount	12
+Renaissance Washington DC Hotel	floorCount	15
+Hilton Indianapolis	floorCount	18
+1111 Pennsylvania Avenue	floorCount	14
+Riley Towers	floorCount	30
+AT&T 220 Building	floorCount	23
+Fifth Third Bank Tower	floorCount	17
+30 South Meridian	floorCount	13
+JW Marriott Shanghai	floorCount	60
+Tower Building (Washington, D.C.)	floorCount	14
+Avalon at Foxhall	floorCount	14
+Barnes and Thornburg Building	floorCount	17
+One North Pennsylvania	floorCount	16
+1900 K Street	floorCount	13
+Thomas Building	floorCount	13
+The Pennsylvania North	floorCount	14
+110 East Washington Street	floorCount	15
+Fletcher Trust Building	floorCount	16
+8888 Keystone Crossing	floorCount	18
+Marriott Indianapolis	floorCount	19
+Sheraton Indianapolis City Centre	floorCount	21
+Hyatt Regency Indianapolis	floorCount	22
+Wells Fargo Plaza (El Paso)	floorCount	21
+Chase Tower (El Paso)	floorCount	20
+Capitol Place	floorCount	12
+1101 New York Avenue	floorCount	12
+1625 Eye Street	floorCount	12
+Hallmark Place	floorCount	27
+The Summit (Hong Kong)	floorCount	65
+Goldin Finance 117	floorCount	117
+Gate Tower Building	floorCount	16
+Grand Promenade	floorCount	66
+Victoria Towers	floorCount	62
+William T. Golden Center for Science and Engineering	floorCount	12
+455 Massachusetts Avenue	floorCount	12
+1001 Pennsylvania Avenue	floorCount	14
+1201 Pennsylvania Avenue	floorCount	13
+600 Thirteenth Street	floorCount	12
+Manhattan Hill	floorCount	51
+Connecticut Connection	floorCount	12
+Washington Gas Building	floorCount	15
+1701 Pennsylvania Avenue	floorCount	13
+Westin Washington, D.C. City Center	floorCount	14
+1000 Connecticut Avenue	floorCount	12
+Executive Tower (Washington, D.C.)	floorCount	12
+Wyndham Washington DC	floorCount	14
+1310 G Street	floorCount	12
+The Investment Building	floorCount	13
+1010 Mass	floorCount	15
+1111 19th Street	floorCount	12
+1333 H Street	floorCount	12
+1620 L Street	floorCount	12
+1430 K Street	floorCount	12
+Army and Navy Club Building	floorCount	12
+Republic Building (Washington, D.C.)	floorCount	13
+1875 K Street	floorCount	12
+Capital Hilton	floorCount	13
+Indi Home	floorCount	56
+May House	floorCount	47
+China Online Centre	floorCount	52
+Queensway Government Offices	floorCount	56
+Aigburth (Hong Kong)	floorCount	48
+9 Queen's Road Central	floorCount	39
+The Westpoint	floorCount	41
+Standard Chartered Bank Building	floorCount	42
+Sino Plaza	floorCount	38
+Ocean Pointe	floorCount	54
+Immigration Tower	floorCount	49
+Revenue Tower	floorCount	49
+AIA Tower	floorCount	44
+Metroplaza Towers	floorCount	47
+Hilton Portland Hotel	floorCount	22
+Indiana Government Center North	floorCount	14
+Balti jaam	floorCount	2
+James K. Polk State Office Building	floorCount	24
+Phoenix City Hall	floorCount	20
+3300 North Central Avenue	floorCount	27
+Great American Tower	floorCount	24
+Riverfront Cluj Napoca	floorCount	22
+Edificio Panamericano	floorCount	17
+David Citadel Hotel	floorCount	10
+Marina Sky Towers	floorCount	60
+Mamaia North Complex	floorCount	42
+Fontainebleau Resort Las Vegas	floorCount	63
+Mamaia Beach Residential	floorCount	17
+1 Ilica Street	floorCount	16
+Tour Signal	floorCount	71
+Lex building	floorCount	15
+Flatiron Building (San Francisco)	floorCount	10
+Hermitage Plaza	floorCount	93
+Hermitage Plaza	floorCount	91
+Bahrain Financial Harbour	floorCount	53
+Las Vegas City Hall	floorCount	11
+Capitol Center (Columbia)	floorCount	25
+Elephant Tea Rooms	floorCount	3
+Langdon Hall	floorCount	2
+Crowne Plaza Niagara Falls – Fallsview	floorCount	12
+Manchester Grand Hyatt Hotel	floorCount	40
+Vantage Pointe Condominium	floorCount	41
+Torre Titanium	floorCount	27
+880 West Broadway	floorCount	34
+CITIC Tower	floorCount	33
+Fulbright Tower	floorCount	52
+The Peninsula at St. Johns Center	floorCount	36
+Sofitel New York Hotel	floorCount	30
+Corder House and Sydenham House	floorCount	4
+Wells Fargo Tower (Colorado Springs)	floorCount	16
+FirstBank Building	floorCount	14
+SANAE IV	floorCount	2
+The Century (Century City)	floorCount	42
+Alexandra Tower, Liverpool	floorCount	27
+Colosseum Tower Bucharest	floorCount	32
+Empire Tower, Bangkok	floorCount	62
+Houston Tower	floorCount	500
+Bank of the Southwest Tower	floorCount	82
+Manhattan West	floorCount	66
+Manhattan West  Tower 2   1	floorCount	60
+Flamenco Residences	floorCount	20
+Almoayyed Tower	floorCount	47
+Everett Building (New York)	floorCount	16
+Lincoln Center (Oregon)	floorCount	12
+Centro Médico Excel	floorCount	20
+Green View Tower	floorCount	27
+Tower at 1301 Gervais	floorCount	20
+Devon Tower	floorCount	50
+Abraj Al Lulu	floorCount	40
+Xerox Tower	floorCount	30
+The Residences	floorCount	23
+K2 (building)	floorCount	20
+610 Lexington Avenue	floorCount	62
+22 Park Circus, Glasgow	floorCount	4
+Hess Tower	floorCount	29
+The Water Club	floorCount	43
+Wells Fargo Building (Englewood, Colorado)	floorCount	10
+Chase Tower (Englewood, Colorado)	floorCount	10
+The Waterford	floorCount	14
+Omni Interlocken Resort	floorCount	11
+Westin Westminster	floorCount	13
+Pagcor Tower	floorCount	112
+Tom Monaghan's Leaning Tower of Pizza	floorCount	30
+Niro Hotel Tower	floorCount	22
+Olympic Tower Bucharest	floorCount	33
+Bank of the West Tower (Sacramento)	floorCount	25
+Biscuit Company Lofts	floorCount	7
+City-Haus	floorCount	42
+JLofts on the Market	floorCount	6
+Federal Land Tower	floorCount	66
+Malecon Center	floorCount	31
+Malecon Center	floorCount	21
+Hotel Habana Riviera	floorCount	21
+800 Westchester Avenue	floorCount	7
+Hotarumachi	floorCount	50
+SkyTurn Braşov	floorCount	30
+Zhong Tian Plaza	floorCount	59
+Bell Labs Holmdel Complex	floorCount	6
+Pigott Building	floorCount	18
+Newman Brothers Coffin Furniture Factory	floorCount	3
+Oregon Civic Justice Center	floorCount	3
+275 George Street	floorCount	32
+Rolling Hills Asylum	floorCount	2
+Professional Building (Phoenix, Arizona)	floorCount	12
+Banco de Bilbao Tower	floorCount	4
+P-17 (Dubai)	floorCount	78
+Encinal Tower	floorCount	56
+Lincoln American Tower    1	floorCount	22
+The Old Mill Restaurant	floorCount	3
+Verde Residences and Offices	floorCount	32
+Verde Residences and Offices  Verde Residences   1	floorCount	48
+Dubai City Tower	floorCount	400
+Midtown Tower	floorCount	54
+Midtown Tower	floorCount	5
+Starhill Tower	floorCount	31
+The Times Square Building	floorCount	18
+DuMont Building	floorCount	42
+Kasumigaseki Building	floorCount	30
+Kasumigaseki Building	floorCount	3
+Olive 8	floorCount	39
+Fifteen Twenty-One Second Avenue	floorCount	32
+QV.1	floorCount	40
+Saskatoon Square	floorCount	16
+The Vale Niseko	floorCount	7
+Exchange Plaza	floorCount	40
+Woodside Plaza	floorCount	27
+Woodside Plaza	floorCount	2
+Art Building (Willamette University)	floorCount	3
+Business Center Niederösterreich	floorCount	77
+Seventh at Westlake Tower	floorCount	31
+One Corporate Centre	floorCount	45
+The Residences at Greenbelt – San Lorenzo Tower	floorCount	57
+Phoenix City Square	floorCount	17
+Phoenix City Square  4000 North Central   1	floorCount	23
+Merck headquarters	floorCount	3
+The Residences at Greenbelt – Manila Tower	floorCount	48
+The Residences at Greenbelt – Laguna Tower	floorCount	48
+Selsdon Park Hotel	floorCount	3
+Shangri-La at the Fort, Manila	floorCount	60
+Petron Megaplaza	floorCount	45
+LKG Tower	floorCount	38
+41 Park Row	floorCount	13
+Robinsons Summit Center	floorCount	38
+Philamlife Tower	floorCount	48
+Summit One Tower	floorCount	49
+1322 Golden Empire Tower	floorCount	55
+195 Broadway	floorCount	29
+Rhodes-Haverty Building	floorCount	21
+RSA Tower	floorCount	22
+The Enterprise Center Tower 1	floorCount	40
+One San Miguel Avenue	floorCount	54
+Nobu Hotel and Residences	floorCount	65
+World Product Center	floorCount	60
+BSA Tower	floorCount	37
+Lodha Bellissimo	floorCount	48
+UnionBank Plaza	floorCount	49
+Robinsons Equitable Tower	floorCount	45
+Northern Lights Astana	floorCount	42
+Astana Markets	floorCount	88
+Emerald Towers	floorCount	54
+The Spiral Astana	floorCount	20
+Grand Alatau	floorCount	43
+Ken Dala Towers	floorCount	34
+Ritz-Carlton Astana	floorCount	60
+Le Royal Hotel (Amman)	floorCount	31
+The Shang Grand Tower	floorCount	46
+Noida Tower	floorCount	135
+The Beacon – Roces Tower	floorCount	44
+The Beacon – Arnaiz Tower	floorCount	50
+The Beacon – Amorsolo Tower	floorCount	44
+Waldorf Astoria Hotel & Residences Philadelphia	floorCount	58
+Pacific Plaza Towers	floorCount	53
+1 Lincoln Plaza	floorCount	43
+Tower 2000	floorCount	34
+Moorfoot Building	floorCount	10
+Ladd Tower	floorCount	23
+East Pacific Business Center	floorCount	74
+William Barlow House	floorCount	2
+Leatop Plaza	floorCount	66
+Global Financial Building	floorCount	79
+The Wharf Times Square	floorCount	83
+Sino-Steel Tower	floorCount	80
+Shenyang International Finance Center	floorCount	89
+Grand International Mansion	floorCount	59
+Gezhouba International Plaza	floorCount	69
+Tianjin World Financial Center	floorCount	76
+Hanging Village of Huaxi	floorCount	74
+Strata (building)	floorCount	43
+One Roxas Triangle	floorCount	51
+The St. Francis Shangri-La Place	floorCount	60
+Royal Horseguards Hotel	floorCount	9
+Unico Buenos Aires Hotel	floorCount	57
+DuPont Building	floorCount	13
+Pearl of the Orient Tower	floorCount	42
+Beehive (Gatwick Airport)	floorCount	3
+Prime Tower (Zurich)	floorCount	36
+City House	floorCount	12
+100 McAllister Street	floorCount	28
+Allendale Square	floorCount	34
+140 St Georges Terrace	floorCount	30
+NAB Building	floorCount	14
+EdenH Real Arena Hotel	floorCount	4
+Bronco Student Center	floorCount	2
+Olympic Village (Montreal)	floorCount	23
+N.O.C. Tower	floorCount	26
+Tron Tower	floorCount	25
+Pinnacle Marina Tower	floorCount	36
+Plaza 440	floorCount	50
+Hilton Glasgow hotel	floorCount	20
+Thomas Jefferson Hotel	floorCount	20
+Hyatt Regency Dallas	floorCount	30
+Aspira	floorCount	37
+Candela Hotel & Residences	floorCount	36
+Champasak Palace	floorCount	5
+Plumeria (Lao Royal Residence)	floorCount	2
+Elco International Tower	floorCount	45
+AKD Tower	floorCount	35
+Crown Regency Hotel and Towers	floorCount	38
+Citibank House	floorCount	18
+Glenn & Viola Walters Cultural Arts Center	floorCount	3
+Dacia Hotel	floorCount	3
+Hilton Izmir	floorCount	35
+Reno Center	floorCount	8
+The Westin Dragonara	floorCount	8
+One Lujiazui	floorCount	47
+The Landmark (Abu Dhabi)	floorCount	72
+Kodak Tower	floorCount	19
+Dorobanţi Tower	floorCount	50
+Orhideea Business Center	floorCount	21
+Shinjuku Mitsui Building	floorCount	55
+Guangdong International Building	floorCount	63
+Metro Plaza	floorCount	48
+Metro Plaza	floorCount	28
+Teem Plaza	floorCount	45
+Pacific Park Plaza	floorCount	30
+Silver Towers	floorCount	57
+The Michelangelo	floorCount	22
+Gillender Building	floorCount	20
+MTA Building	floorCount	25
+AVA (Building)	floorCount	39
+Observatory Building	floorCount	13
+Icono Tower	floorCount	37
+Phoenix Financial Center	floorCount	19
+Concord Free Public Library	floorCount	3
+Shiodome Media Tower	floorCount	34
+Beresford Hotel	floorCount	10
+New York Estonian House	floorCount	3
+Jumbohostel	floorCount	2
+Kyoto Grand Hotel and Gardens	floorCount	21
+L'Enfant Plaza Hotel	floorCount	5
+La Concha	floorCount	7
+Exportbank Plaza	floorCount	36
+Beverly Hilton Hotel	floorCount	7
+Mutual Life & Citizens Assurance Company Building	floorCount	9
+West Avenue tower	floorCount	32
+Mode Gakuen Cocoon Tower	floorCount	50
+Mode Gakuen Cocoon Tower	floorCount	3
+Northpoint (skyscraper)	floorCount	54
+Northpoint (skyscraper)	floorCount	46
+Centro Financiero Confinanzas	floorCount	45
+Burj Al Anoud	floorCount	23
+Khan al-Umdan	floorCount	2
+Mode Gakuen Spiral Towers	floorCount	36
+Mode Gakuen Spiral Towers	floorCount	3
+W New York Downtown Hotel and Residences	floorCount	57
+Jaffa Clock Tower	floorCount	3
+Fife House	floorCount	5
+Doha Convention Center Tower	floorCount	112
+Hermosillo tower	floorCount	15
+Avalon hotel (Gothenburg)	floorCount	6
+100 St Georges Terrace	floorCount	23
+Livingstone Tower	floorCount	13
+Weston Centre (San Antonio)	floorCount	32
+Company Business Towers	floorCount	46
+Sompo Japan Building	floorCount	43
+Sompo Japan Building	floorCount	6
+The Ilikai	floorCount	20
+Partnership House	floorCount	10
+RBC Plaza	floorCount	33
+Khan As'ad Pasha	floorCount	2
+Khan Jaqmaq	floorCount	2
+Khan Sulayman Pasha	floorCount	2
+Tour Oxygène	floorCount	28
+Allen Center	floorCount	34
+Allen Center  Three Allen Center   1	floorCount	50
+OHSU Center for Health & Healing	floorCount	16
+Le Parc Figueroa Alcorta	floorCount	45
+Le Parc Figueroa Alcorta	floorCount	29
+Renoir Towers	floorCount	51
+Renoir Towers	floorCount	41
+International Finance Complex	floorCount	52
+Tour Incity	floorCount	36
+Hotel Kenney	floorCount	3
+Finance Tower	floorCount	36
+26 Broadway	floorCount	31
+Umpqua Bank Plaza	floorCount	19
+Blackstone Hotel (Ft. Worth, Texas)	floorCount	23
+Menara ExxonMobil	floorCount	30
+Menara Carigali	floorCount	59
+Fairmont Beijing	floorCount	25
+KeyBank Tower	floorCount	27
+110 N. Main Street	floorCount	20
+Beijing Television Cultural Center	floorCount	34
+The Haas Building	floorCount	12
+China Resources Tower	floorCount	53
+Three Nationwide Plaza	floorCount	27
+Three Nationwide Plaza	floorCount	3
+Regal Tower	floorCount	56
+Cardiff Central Library	floorCount	6
+Masindi Hotel	floorCount	1
+Al Subeaei Tower Complex	floorCount	16
+Hugayat Tower	floorCount	36
+Saudi Investment Bank Tower	floorCount	18
+One Capital Center	floorCount	14
+Wilson Tower	floorCount	33
+Trump Ocean Resort Baja Mexico	floorCount	27
+The Wave (building)	floorCount	34
+Newton Suites	floorCount	36
+North Shore Towers	floorCount	34
+Atlanta Centre	floorCount	35
+The Gramercy Residences	floorCount	73
+Lausanne Hall	floorCount	4
+120 Wall Street	floorCount	34
+Joy-Nostalg Center	floorCount	41
+City of Capitals	floorCount	73
+City of Capitals	floorCount	62
+One Galleon Place	floorCount	75
+The Stratford Residences	floorCount	70
+JAKA Tower	floorCount	49
+Anara Tower	floorCount	135
+1 Park Avenue	floorCount	116
+Meraas Tower	floorCount	112
+Metro Tower (Lubbock)	floorCount	20
+The Knightsbridge Residences	floorCount	60
+Philadelphia Bourse	floorCount	9
+Britannia Adelphi Hotel	floorCount	6
+Tour Carpe Diem	floorCount	36
+Hotel Rodina	floorCount	25
+Sohmer Piano Building	floorCount	13
+Memorial Union (Oregon State University)	floorCount	4
+Four Seasons Hotel Mumbai	floorCount	37
+Chase Tower (Rochester)	floorCount	27
+Hyatt Regency Birmingham	floorCount	24
+Riverfront Condominiums Detroit	floorCount	26
+Riverfront Condominiums Detroit	floorCount	29
+Riverfront Condominiums Detroit	floorCount	29
+First Federal Plaza	floorCount	21
+Bausch & Lomb Place	floorCount	20
+Times Square Building (Rochester)	floorCount	14
+One HSBC Plaza	floorCount	21
+Newcastle City Library	floorCount	6
+Hyatt Regency Rochester	floorCount	25
+Tehran Twin Towers	floorCount	40
+Temple Building (Rochester, New York)	floorCount	14
+Faber Towers	floorCount	21
+Fisherman's Cove	floorCount	2
+Qwest Tower (Sioux Falls)	floorCount	11
+AT&T Tower (Jacksonville)	floorCount	32
+McLeod Building	floorCount	9
+Altolusso	floorCount	23
+Towers Karpoš IV Tower III	floorCount	19
+Mushroom House	floorCount	2
+City Place Tower (Oklahoma City)	floorCount	33
+Oklahoma Tower	floorCount	31
+Tower Petroleum Building	floorCount	23
+K&L Gates Center	floorCount	39
+Emerald Plaza (San Diego)	floorCount	30
+Harbor Club Condominiums	floorCount	41
+The Grande at Santa Fe Place	floorCount	39
+Advanced Equities Plaza	floorCount	23
+The Mark (building)	floorCount	33
+Hilton Bandung	floorCount	12
+Sapphire Tower (San Diego)	floorCount	32
+First National Bank Center (San Diego, California)	floorCount	27
+Meridian Condominiums	floorCount	28
+San Diego Marriott Hotel and Marina	floorCount	25
+Imperial Bank Tower	floorCount	24
+AT&T Building (San Diego)	floorCount	20
+Comerica Bank Building	floorCount	23
+Wells Fargo Plaza (San Diego)	floorCount	23
+NBC Building	floorCount	22
+Omni San Diego Hotel	floorCount	32
+Yoo Pune	floorCount	35
+Southern Cross Tower	floorCount	39
+President Hotel Ashgabat	floorCount	16
+Torre Insignia	floorCount	25
+Grosvenor Place (Sydney)	floorCount	44
+One Moody Plaza	floorCount	23
+Goodyear Polymer Center	floorCount	12
+Sky Tower 41	floorCount	41
+AT&T City Center	floorCount	30
+Hilton Prague	floorCount	11
+City Hall Plaza (Manchester)	floorCount	20
+Main Seneca Building	floorCount	17
+Sofitel Silom	floorCount	38
+Tryp Bellver	floorCount	16
+CityScape (Phoenix)	floorCount	27
+MahaNakhon	floorCount	77
+Cape Town Civic Centre	floorCount	26
+Constanţa Tower	floorCount	35
+EQT Plaza	floorCount	32
+Kempinski Hotel N'Djamena	floorCount	9
+Sede do BankBoston	floorCount	35
+Dallas Statler Hilton	floorCount	20
+Ice Hotel (Quebec)	floorCount	1
+Shanghai Wheelock Square	floorCount	58
+Bulger Hall	floorCount	16
+Hotel Inglaterra	floorCount	4
+Crystal Palace, Ljubljana	floorCount	20
+NH Gran Hotel Provincial	floorCount	4
+Hotel Capri (Havana)	floorCount	19
+Gatlinburg Space Needle	floorCount	3
+Ministry of Health (Uganda)	floorCount	5
+Hyatt Regency Hotel, Lexington	floorCount	17
+Corinthia Hotel Tripoli	floorCount	28
+Sheraton Metechi Palace Hotel	floorCount	12
+Sheraton Tirana Hotel and Towers	floorCount	8
+Sheraton Ankara	floorCount	24
+Sava City	floorCount	13
+Russell Investments Center	floorCount	42
+Shangri-La Toronto	floorCount	65
+Hilton San Francisco Financial District	floorCount	30
+461 Fifth Avenue	floorCount	28
+Adam Clayton Powell Jr. State Office Building	floorCount	19
+Sea Opera	floorCount	1
+Sea Opera	floorCount	2
+Qatar National Bank Tower	floorCount	101
+ME Cancun	floorCount	11
+National Newark Building	floorCount	35
+Astoria Hotel, Satu Mare	floorCount	2
+MasterCard International Global Headquarters	floorCount	3
+University Village, New York	floorCount	30
+Eggenberg Castle, Graz	floorCount	3
+Palazzo Versace Dubai	floorCount	10
+Hoylake Parade community centre	floorCount	2
+2009 Lakanal House tower block fire	floorCount	14
+TIPS China Building	floorCount	67
+Wells Fargo Building (Lubbock)	floorCount	15
+Mosfilm tower	floorCount	54
+Mosfilm tower	floorCount	34
+Santos Place	floorCount	38
+Hyatt Regency Sha Tin	floorCount	26
+Baron Hotel	floorCount	3
+Mandaue Presidencia	floorCount	2
+Davidson Fort	floorCount	2
+Comcentre	floorCount	32
+Lippo Centre (Singapore)	floorCount	34
+Array Operations Center	floorCount	3
+Ritz-Carlton Jakarta	floorCount	48
+UIC Building	floorCount	37
+X Condominium	floorCount	45
+Van Antwerp Building	floorCount	11
+Regions Bank Building (Mobile)	floorCount	18
+Renaissance Riverview Plaza Hotel	floorCount	28
+Mobile Government Plaza	floorCount	12
+Mobile Marriott	floorCount	20
+Bell Lightbox	floorCount	42
+Morey Mansion	floorCount	3
+Malibu (Toronto)	floorCount	32
+Kaiser Center	floorCount	28
+Brooklyner	floorCount	51
+Leonardo Plaza Hotel Jerusalem	floorCount	22
+Azm Palace (Hama)	floorCount	2
+Telus Tower	floorCount	32
+Corus Quay	floorCount	8
+Mesa Laboratory	floorCount	7
+Manchester Unity Building	floorCount	12
+Casa Condominio Residenza	floorCount	46
+Kenmore Hotel	floorCount	6
+Skyline Apartments	floorCount	47
+Wachovia Building (Mobile)	floorCount	16
+Murano, Toronto	floorCount	41
+Millennium Hotel St. Louis	floorCount	28
+Millennium Hotel St. Louis  Millennium Hotel Tower II   1	floorCount	11
+Capital Square	floorCount	42
+Capital Square	floorCount	4
+Menara Multi Purpose	floorCount	40
+The Troika (Kuala Lumpur)	floorCount	50
+Providence Hospital (Mobile)	floorCount	11
+Burj Al Fattan	floorCount	97
+One Park Avenue	floorCount	99
+Marina Arcade	floorCount	65
+The Grand Boulevard Tower	floorCount	69
+The Mansion at Burj Khalifa	floorCount	60
+JB Tower	floorCount	60
+Burj Park III	floorCount	60
+Khan al-Harir	floorCount	2
+The Royal Victoria Hotel	floorCount	3
+One One One Eagle Street	floorCount	50
+Cuprom Tower	floorCount	19
+Piraeus Bank Tower Bucharest	floorCount	15
+Carol Tower	floorCount	35
+Ana Tower	floorCount	28
+Kron Tower	floorCount	30
+Eleven 80	floorCount	35
+Nusco Tower	floorCount	20
+Asmita Gardens	floorCount	5
+Carlton Bloc	floorCount	14
+PGV Tower	floorCount	15
+Bucharest Corporate Center	floorCount	15
+Dexia Tower	floorCount	38
+World Trade Center (Brussels)	floorCount	28
+Anadarko Tower	floorCount	32
+Belgacom Towers	floorCount	32
+Gemini Residence	floorCount	8
+Timişoara High Tower	floorCount	33
+Fructus Tower	floorCount	16
+Pipera Business Tower	floorCount	13
+TVR Tower	floorCount	13
+UN Plaza	floorCount	18
+BSE Tower	floorCount	16
+Chamber of Commerce and Industry of Romania building	floorCount	9
+Anchor Plaza	floorCount	12
+Hotel Continental Sibiu	floorCount	13
+BCR Tower Sibiu	floorCount	13
+Hotel Euroil	floorCount	14
+Mercantile Continental Building	floorCount	11
+Telecom Tower Islamabad	floorCount	24
+Islamabad Stock Exchange Tower	floorCount	19
+Express Towers Mumbai	floorCount	25
+Sama Beirut	floorCount	50
+Business Development Center Bucharest	floorCount	17
+BOS Tower	floorCount	16
+Griro Tower	floorCount	15
+Hotel Pullman Bucharest	floorCount	13
+Oracle Tower Bucharest	floorCount	14
+Griviţa Bloc	floorCount	14
+Hotel Best Western Park	floorCount	13
+Astro Tower	floorCount	31
+North Galaxy Towers	floorCount	28
+PNC Center (Akron)	floorCount	23
+Ernst & Young Tower	floorCount	31
+Shiraz World Trade Center	floorCount	47
+Select World Tower	floorCount	8
+Jenisch House	floorCount	4
+Dana Complex	floorCount	15
+Kuching Tower	floorCount	50
+Ministry of Finance Building, Brunei	floorCount	21
+The Atlantic (Atlanta)	floorCount	46
+Wisma Sanyan	floorCount	27
+Edith Green – Wendell Wyatt Federal Building	floorCount	18
+10 Murray Street	floorCount	14
+South City	floorCount	35
+12 Fife Lane	floorCount	1
+Trump Towers Istanbul	floorCount	39
+Trump Towers Istanbul	floorCount	37
+Kenneth R. Fox Student Union	floorCount	18
+Trump SoHo	floorCount	46
+The Osborne	floorCount	11
+The Osborne	floorCount	15
+Omni Dallas Convention Center Hotel	floorCount	23
+Bunkyo Civic Center	floorCount	28
+Vdara	floorCount	57
+Leslie Dan Faculty of Pharmacy	floorCount	15
+Hilton Chicago	floorCount	29
+Burano (building)	floorCount	48
+Tour Bretagne	floorCount	32
+Four Seasons Hotel and Residences	floorCount	55
+Four Seasons Hotel and Residences	floorCount	30
+Novotel Nha Trang	floorCount	16
+Novotel Nha Trang	floorCount	1
+Woermann Tower	floorCount	18
+Bank of America Tower (Hong Kong)	floorCount	38
+Skirvin Hilton Hotel	floorCount	13
+Mobberly hotel	floorCount	3
+Potter Building	floorCount	11
+Whitehall Building	floorCount	20
+Whitehall Building  Annex   1	floorCount	31
+Oakland City Hall	floorCount	18
+Sluseholmen Canal District	floorCount	4
+HLW International	floorCount	25
+World Trade Center (Tokyo)	floorCount	40
+World Trade Center (Tokyo)	floorCount	3
+Engineer's Office of the Former Pumping Station	floorCount	2
+Bank of America Building (Midland)	floorCount	24
+Mountain Dwellings	floorCount	11
+39 Conduit Road	floorCount	46
+Bank of America Building (Oakland)	floorCount	18
+Wilco Building	floorCount	22
+Lake Merritt Plaza	floorCount	27
+Cebu Provincial Capitol	floorCount	3
+Cebu Provincial Capitol	floorCount	2
+Kaiser Engineering Building	floorCount	25
+Elihu M Harris State Office Building	floorCount	22
+Gledden Building	floorCount	7
+L Tower	floorCount	58
+Permian Building	floorCount	6
+Petroleum Building (Midland)	floorCount	12
+Centennial Tower (Midland)	floorCount	15
+Lotte World Premium Tower	floorCount	123
+Royal Edward Arms	floorCount	8
+Kempinski Hotel Zografski	floorCount	22
+Princess Hotel Sofia	floorCount	17
+Twelve west (building)	floorCount	22
+Prince Arthur Hotel	floorCount	6
+Infinity Tower (Brisbane)	floorCount	81
+Adobe Systems headquarters complex	floorCount	16
+Sky Tower (Wrocław)	floorCount	85
+Cass Building	floorCount	5
+One Rockwell West Tower	floorCount	55
+One Rockwell East Tower	floorCount	44
+The World Centre	floorCount	30
+The Met (skyscraper)	floorCount	69
+400 George Street	floorCount	34
+Hotel Wooten	floorCount	16
+Roman L. Hruska Federal Courthouse	floorCount	6
+Ritz-Carlton Philadelphia	floorCount	30
+Digital Media City Landmark Building	floorCount	130
+Iaan Exodium	floorCount	54
+Zuellig Building	floorCount	33
+23 Furnival Gate	floorCount	19
+1 Furnival Square	floorCount	17
+Westbrook Tower	floorCount	17
+Pennine Centre	floorCount	13
+Administration Building (Texas Tech University)	floorCount	4
+Royal Plaza on Scotts	floorCount	15
+Veer Towers	floorCount	37
+Harmon Hotel	floorCount	27
+The Infinity Fort Bonifacio	floorCount	48
+Hotel Grand Chancellor, Launceston	floorCount	7
+Buchanan's Hotel	floorCount	3
+NASA Headquarters	floorCount	9
+Dominion Tower (Norfolk)	floorCount	26
+King Edward Tower	floorCount	54
+150 West Main Street	floorCount	20
+Norfolk Waterside Marriott	floorCount	23
+Plaza on DeWitt	floorCount	43
+Suite Vollard	floorCount	15
+Pingan International Finance Center	floorCount	115
+Renaissance Chancery Court Hotel	floorCount	7
+Grange City Hotel	floorCount	12
+Royal Garden Hotel	floorCount	10
+Ritchie Mill	floorCount	5
+Alwyn Williams (geologist)  Sir Alwyn Williams Building   1	floorCount	5
+Weatherly Building	floorCount	12
+Hotel Landmark Canton	floorCount	37
+1080 Brickell	floorCount	43
+Hotel Valley Ho	floorCount	7
+Grand Hyatt New York	floorCount	26
+Hooper House (Baltimore County, Maryland)	floorCount	1
+The Ritz-Carlton, Washington, D.C.	floorCount	11
+Collins Place	floorCount	46
+Collins Place	floorCount	50
+1 Sheaf Square	floorCount	11
+Sheffield Telephone House	floorCount	15
+Lincoln Hall (Portland, Oregon)	floorCount	4
+Dog Bark Park Inn	floorCount	2
+Singer Building (Dallas, Texas)	floorCount	3
+Neiman Marcus Building	floorCount	9
+Capital Gate	floorCount	35
+Ocean Two	floorCount	73
+Highgrove, Stamford	floorCount	18
+Old Dallas Central Library	floorCount	4
+Grand Soho Makati	floorCount	41
+Cassa Hotel & Residences	floorCount	48
+Victor Hotel	floorCount	4
+Hotel Ambos Mundos (Havana)	floorCount	5
+Capital Tower (Amman, Jordan)	floorCount	76
+411 East Wisconsin Center	floorCount	30
+Dalian Eton Center	floorCount	81
+Miapolis	floorCount	160
+Tower 185	floorCount	55
+Kampala Serena Hotel	floorCount	7
+Kampala Sheraton Hotel	floorCount	14
+Hotel Africana	floorCount	12
+Kampala Hilton Hotel	floorCount	24
+Expedia Building	floorCount	20
+Westhafen Tower	floorCount	30
+Die Pyramide	floorCount	23
+SandRidge Center	floorCount	30
+Valliance Bank Tower	floorCount	22
+Bank of Oklahoma Plaza	floorCount	16
+Leadership Square North	floorCount	22
+Regency Tower	floorCount	24
+Dowell Center	floorCount	20
+Mid America Tower	floorCount	19
+360 at Founders Plaza	floorCount	20
+Union Plaza	floorCount	18
+The Classen	floorCount	21
+Colcord Hotel	floorCount	14
+100 Park Avenue Building	floorCount	12
+Robinson Renaissance	floorCount	12
+101 Park Avenue Building	floorCount	16
+Hartford Building (Dallas, Texas)	floorCount	14
+Bank of America Center (Baltimore)	floorCount	18
+Al Quds Endowment Tower	floorCount	101
+Dominion Public Building (Halifax)	floorCount	13
+425 California Street	floorCount	29
+The Century Towers	floorCount	27
+211 North Ervay	floorCount	20
+Westin San Francisco Market Street	floorCount	34
+Corrigan Tower	floorCount	17
+Intercontinental Tower, Manchester	floorCount	30
+One Main Place (Portland, Oregon)	floorCount	20
+Treptowers	floorCount	32
+Memorial by Windsor	floorCount	25
+Imperial Botanical Beach Hotel	floorCount	4
+Unity Buildings	floorCount	27
+Unity Buildings	floorCount	16
+2727 Kirby	floorCount	30
+Imperial Resort Beach Hotel	floorCount	4
+Imperial Golf View Hotel	floorCount	3
+Clarion Hotel, Limerick	floorCount	17
+Al Sahab Tower 2	floorCount	44
+Al Sahab Towers	floorCount	24
+City of Calgary Water Centre	floorCount	4
+1 Princes Dock	floorCount	22
+Linked Hybrid	floorCount	21
+45 Christopher Street	floorCount	18
+1200 Travis	floorCount	28
+Hollenden Hotel	floorCount	8
+Tsui Sing Lau Pagoda	floorCount	3
+Southern Pacific Building	floorCount	12
+Radisson Blu Iveria Hotel, Tbilisi	floorCount	18
+The Forum at 343 East 74th Street	floorCount	25
+Hyatt Regency San Francisco	floorCount	20
+Met 1	floorCount	40
+Met 3	floorCount	76
+Royal Albion Hotel	floorCount	4
+Marshall's Hotel	floorCount	2
+Hotel Grand Chancellor, Hobart	floorCount	12
+Mid Rivers Mall	floorCount	2
+Chow Tai Fook Centre	floorCount	116
+Broadway Chambers Building	floorCount	18
+Thistle Atlantic Tower	floorCount	13
+1 Bligh Street	floorCount	29
+KölnTurm	floorCount	43
+One City Center (St. Louis)	floorCount	25
+Black Diamond (library)	floorCount	7
+Townsville Post Office	floorCount	7
+Galleria Tower	floorCount	17
+Meydan Tower	floorCount	75
+Dubai Beachfront Hotel	floorCount	60
+Georgian Terrace Hotel	floorCount	10
+Georgian Terrace Hotel	floorCount	19
+CRA Building	floorCount	26
+Al Boraq Tower	floorCount	45
+Workingman's Institute and Memorial Hall	floorCount	2
+Burjside Terrace	floorCount	62
+Escan Tower	floorCount	60
+Dream Tower, Dubai	floorCount	48
+Fortune Araames	floorCount	45
+Saba Tower 4	floorCount	47
+IRIS Mist	floorCount	54
+Chase Park Plaza Hotel	floorCount	28
+Gedempte Zalmhaven	floorCount	59
+3 Hardman Street	floorCount	16
+The Plaza, Liverpool	floorCount	18
+New Hall Place	floorCount	13
+United States Post Office and Courthouse (Dallas, Texas)	floorCount	5
+Grand Tower (Lansing)	floorCount	16
+O-14 (Dubai)	floorCount	23
+The Lenox Hotel	floorCount	11
+Odeon Tower (Monaco)	floorCount	49
+Odeon Tower (Monaco)	floorCount	47
+Holiday Inn, Townsville	floorCount	23
+Copenhagen Admiral Hotel	floorCount	6
+InterContinental Toronto Centre	floorCount	25
+One Sutton Place South	floorCount	14
+Trio Towers	floorCount	75
+Carnegie 57	floorCount	75
+Triangle building	floorCount	7
+Bangalore Town Hall	floorCount	2
+200 West Street	floorCount	44
+Connecticut Financial Center	floorCount	26
+360 State Street	floorCount	31
+Pearl of the Pacific	floorCount	107
+Continental (building)	floorCount	35
+Union and New Haven Trust Building	floorCount	12
+Southern New England Telephone Company Administration Building  The Southern New England Telephone Company Adminis  1	floorCount	17
+Kline Biology Tower	floorCount	16
+Crown Towers (New Haven, Connecticut)	floorCount	22
+Edelweiss (skyscraper)	floorCount	43
+Tŷ Pont Haearn	floorCount	21
+Palais Royale, Mumbai	floorCount	67
+Orchid Heights	floorCount	80
+Bently Nob Hill	floorCount	10
+Orchid Crown	floorCount	75
+RiverFront Place Condos	floorCount	12
+Plot 3a Princes Dock	floorCount	33
+30 Pall Mall	floorCount	18
+Mann Island Buildings	floorCount	13
+Hammam Yalbugha	floorCount	1
+Shell Building (St Louis)	floorCount	13
+Neely Nuclear Research Center	floorCount	1
+Unite Grand Central	floorCount	13
+Television City Tower	floorCount	130
+ArcelorMittal Orbit	floorCount	2
+Villa Lysis	floorCount	3
+The PuLi Hotel and Spa	floorCount	26
+Swissôtel Krasnye Holmy Moscow	floorCount	34
+National Shrine of Saint Joseph Mandaue	floorCount	3
+Evolution Tower	floorCount	48
+1000 Park Avenue	floorCount	12
+Total Plaza	floorCount	35
+The St. Regis Mexico City	floorCount	31
+100 North Central Expressway	floorCount	12
+505 North Ervay	floorCount	11
+Stillman House	floorCount	2
+Pacific Place (Dallas, Texas)	floorCount	20
+Fasken Center	floorCount	28
+Spring (building)	floorCount	43
+W Austin Hotel and Residences	floorCount	37
+The Ashton	floorCount	36
+Austin Hilton Convention Center Hotel	floorCount	31
+Bank of America (Austin)	floorCount	26
+25 The Esplanade	floorCount	33
+WNB Tower	floorCount	12
+Agustín Ross Hotel	floorCount	1
+Flood Building	floorCount	12
+Novotel Century Hong Kong	floorCount	23
+Bank of California Building (San Francisco)	floorCount	22
+Miramar (mansion)	floorCount	3
+John W. Lederle Graduate Research Center	floorCount	16
+Abenobashi Terminal Building Tower	floorCount	62
+Abenobashi Terminal Building Tower	floorCount	6
+Swissôtel Nankai Osaka	floorCount	36
+JW Marriott Grand Rapids	floorCount	23
+15 Broad Street	floorCount	43
+Shamrock Hotel (Bendigo)	floorCount	5
+Scoular Building	floorCount	5
+Novotel Nathan Road Kowloon Hong Kong	floorCount	15
+Bank of America Plaza (Fort Lauderdale)	floorCount	23
+110 Tower	floorCount	30
+North American Building	floorCount	21
+Las Olas River House	floorCount	42
+Ambasador Hotel	floorCount	17
+Carter House Inn	floorCount	3
+Hays Hall	floorCount	5
+Home Office Building  Fireman's Insurance Company Home Office   1	floorCount	10
+Home Office Building  Fireman's Insurance Company Building   1	floorCount	19
+Lake Victoria Serena Resort	floorCount	4
+John Quincy Adams Tower	floorCount	22
+John Adams Tower	floorCount	22
+John F. Kennedy Tower	floorCount	22
+George Washington Tower	floorCount	22
+Calvin Coolidge Tower	floorCount	22
+Taj Mahal Hotel (Delhi)	floorCount	11
+Torre Futura	floorCount	20
+Moultrie Courthouse	floorCount	7
+Tour Scotia	floorCount	27
+Tour de la Banque Nationale	floorCount	28
+700 de La Gauchetière	floorCount	28
+1000 Sherbrooke West	floorCount	28
+Tour Terminal	floorCount	30
+Le Port-Royal Apartments	floorCount	33
+Bayscape	floorCount	32
+Murray D. Lincoln Campus Center	floorCount	14
+The Burnett Center	floorCount	3
+PVN Tower	floorCount	79
+Orchid Enclave	floorCount	52
+Astor Court Building	floorCount	13
+Hilton Niagara Falls Tower 2	floorCount	58
+Technology Center (Washington & Jefferson College)	floorCount	4
+Hotel Nikko Düsseldorf	floorCount	11
+Hilton New York	floorCount	44
+Ya Po Ah Terrace	floorCount	18
+The Residences at 2211 Camelback	floorCount	12
+Willamette Towers	floorCount	13
+Professional Building (Eugene)	floorCount	8
+U.S. Bank Center (Eugene)	floorCount	9
+Main and Gervais	floorCount	19
+Comerica Bank Building (Lansing)	floorCount	15
+West Hall (Valdosta State University)	floorCount	3
+Orchard Towers	floorCount	18
+Palazzo Lombardia	floorCount	39
+SunTrust Center	floorCount	35
+Alabama Power Headquarters Building	floorCount	18
+Absheron Hotel	floorCount	16
+Mandarin Oriental, Miami	floorCount	18
+Murchison Building	floorCount	11
+Radisson Blu Hotel Hamburg	floorCount	32
+Ponce De Leon Boutique Hotel	floorCount	6
+Edward B. Bunn S.J. Intercultural Center	floorCount	7
+Menara Citibank	floorCount	50
+Sussex Heights	floorCount	24
+Ramazanoğlu Hall	floorCount	3
+Yiwu market	floorCount	5
+Mother Mary Ward Elementary School    1	floorCount	2
+Adana Center for Arts and Culture	floorCount	3
+Lotte Center Hanoi	floorCount	65
+Hailong Market	floorCount	7
+Kemao Market	floorCount	24
+Rio Tinto Tower	floorCount	31
+Central Plaza Complex	floorCount	44
+Central Plaza Complex  Central Plaza 2   1	floorCount	30
+Central Plaza Complex  Central Plaza 3   1	floorCount	14
+Hotel Ambacang	floorCount	6
+World One	floorCount	117
+Shanghai Tower (Liverpool)	floorCount	60
+Southeastern Conference Academic Consortium	floorCount	2
+Number One Bloor	floorCount	65
+Hylton Performing Arts Center	floorCount	9
+Colonial Brookwood Center	floorCount	9
+LG Gangnam Tower	floorCount	38
+The Pyramids (Indianapolis)	floorCount	11
+Planet Godrej	floorCount	51
+Kips Bay Towers	floorCount	20
+BT Riverside Tower	floorCount	14
+Becton, Dickinson and Company headquarters	floorCount	3
+George's Quay Plaza	floorCount	13
+Saigon M&C	floorCount	42
+Central Park Plaza	floorCount	15
+Bispebjerg Bakke (building)	floorCount	3
+Bispebjerg Bakke (building)	floorCount	9
+Saigon Trade Center	floorCount	34
+36 East 72nd Street	floorCount	15
+Saigon Centre	floorCount	25
+250 West 90th Street	floorCount	22
+353 Central Park West	floorCount	19
+Maison Astral	floorCount	30
+Southwest (North) Dormitory III	floorCount	22
+Chase Tower (Milwaukee)	floorCount	22
+One Madison Park	floorCount	50
+Wisconsin Tower	floorCount	22
+1000 North Water Street	floorCount	16
+Sheraton Aleppo Hotel	floorCount	6
+Kilbourn Tower	floorCount	33
+Pichilemu railway station	floorCount	1
+Sabeco World Trade Center	floorCount	40
+Meridian Gate, Cardiff	floorCount	21
+Pichilemu post-office building	floorCount	2
+Tower East	floorCount	12
+350 West Mart Center	floorCount	24
+1049 5th Avenue	floorCount	23
+The Masterpiece	floorCount	64
+Helmont House	floorCount	12
+W St. Petersburg	floorCount	8
+Pioneer Hotel	floorCount	11
+Wells Fargo Center (Miami)	floorCount	46
+Met 2 Marriott Marquis	floorCount	31
+Grand Hyatt Cairo	floorCount	41
+Decker Towers	floorCount	11
+Radisson Royal Hotel, Moscow	floorCount	34
+CJ International House	floorCount	7
+LG-POSCO Hall	floorCount	6
+Centennial Memorial Samsung Hall	floorCount	5
+Military Park Building	floorCount	21
+Gateway Center (Newark)  Gateway II   1	floorCount	18
+Gateway Center (Newark)  Gateway III   1	floorCount	19
+Gateway Center (Newark)  Gateway IV   1	floorCount	16
+The Murray Hotel	floorCount	4
+Carnival House	floorCount	5
+Hotel Majestic (Tunis)	floorCount	4
+Tirana International Hotel	floorCount	12
+La Salle Hotel	floorCount	22
+One Theater Square	floorCount	44
+Pittsburgh State Office Building	floorCount	16
+The Lovat Hotel	floorCount	2
+Newark Legal Center	floorCount	20
+Penn Plaza East	floorCount	12
+Penn Plaza East  3 Penn Plaza East   1	floorCount	17
+Edison Plaza	floorCount	17
+Century Tower (Beaumont)	floorCount	13
+International Mugam Center of Azerbaijan	floorCount	3
+Al Rostamani Maze Tower	floorCount	56
+440 West 42nd Street	floorCount	55
+299 Park Avenue	floorCount	42
+Don Chan Palace	floorCount	14
+JW Marriott Bogotá	floorCount	10
+Robert Treat Center	floorCount	14
+Oriental Hotel (Kobe, Japan)	floorCount	16
+The Garden Hotel, Guangzhou	floorCount	30
+Bogotá Marriott Hotel	floorCount	11
+Santander Bank Tower	floorCount	52
+Nara Hotel	floorCount	3
+One Commerce Square	floorCount	30
+Vagif Mausoleum	floorCount	1
+Mills Building (San Francisco)	floorCount	10
+Prudential Headquarters	floorCount	11
+Prudential Headquarters  Gibraltar Building   1	floorCount	14
+Prudential Headquarters  Prudential Building   1	floorCount	21
+Prudential Headquarters  Prudential Plaza   1	floorCount	24
+180 Montgomery Street	floorCount	24
+601 California Street	floorCount	22
+505 Montgomery Street	floorCount	24
+Stevenson Place	floorCount	28
+KPMG Building	floorCount	25
+Hunter-Dulin Building	floorCount	22
+Wyndham Grand Pittsburgh Downtown	floorCount	22
+Altitude Montréal	floorCount	33
+Gateway Towers	floorCount	27
+32 Avenue of the Americas	floorCount	27
+Mandarin Oriental, San Francisco	floorCount	11
+JW Marriott San Francisco Union Square	floorCount	21
+Derby Dining Center	floorCount	2
+ANZ Bank Centre	floorCount	46
+Le Méridien San Francisco	floorCount	25
+Fortis Building	floorCount	12
+CMA CGM Tower	floorCount	33
+The Mansion on O Street	floorCount	4
+Morgan Keegan Tower	floorCount	21
+Le Méridien Copacabana	floorCount	37
+The Old Princeton School	floorCount	1
+Treasury of Bahman Mirza	floorCount	1
+One Bank of America Plaza	floorCount	17
+Two Hannover Square	floorCount	29
+Wachovia Capitol Center	floorCount	30
+United Way Community Services Building	floorCount	12
+Dallas Cotton Exchange Building	floorCount	17
+Malmaison Hotel, Liverpool	floorCount	11
+Elmwood Tower (Omaha, Nebraska)	floorCount	21
+1211 Avenue of the Americas	floorCount	45
+World's littlest skyscraper	floorCount	4
+World Trade Center Montevideo	floorCount	22
+World Trade Center Montevideo	floorCount	40
+Independence Plaza	floorCount	16
+Manchester Courts	floorCount	7
+Millennium Bailey's Hotel	floorCount	5
+Summit Building (Midland)	floorCount	12
+Washington Athletic Club	floorCount	21
+Woodmen of the World Building (Omaha, Nebraska)	floorCount	19
+Millennium Building	floorCount	9
+Salcedo Park Twin Towers	floorCount	45
+C. K. Choi Building	floorCount	3
+TID Tower	floorCount	25
+Amex House	floorCount	9
+Consultancy House	floorCount	7
+Greece – Bosnia and Herzegovina Friendship Building	floorCount	21
+Vanna Venturi House	floorCount	2
+The Setai Fifth Avenue	floorCount	57
+Hotel St. Moritz	floorCount	36
+JW Marriott Kuala Lumpur	floorCount	29
+Sheraton Imperial Kuala Lumpur	floorCount	22
+The Federal Kuala Lumpur	floorCount	18
+E-Tower	floorCount	37
+Northside Tower	floorCount	9
+Dubai Pearl	floorCount	73
+Butchers Wheel	floorCount	4
+Mövenpick Hotel Ramallah	floorCount	6
+River House Condominiums	floorCount	34
+Garlington Building (Missoula, Montana)	floorCount	6
+San Ysidro Port of Entry	floorCount	4
+Marathon Futurex	floorCount	38
+Mercantil Tower	floorCount	40
+Phoenix Heights	floorCount	23
+Phoenix Heights	floorCount	21
+One McKinley Place	floorCount	43
+75 State Street	floorCount	31
+1501 Broadway	floorCount	33
+Sky Towers	floorCount	34
+Sky Towers	floorCount	47
+11 Times Square	floorCount	40
+One World Trade Center (Long Beach)	floorCount	30
+SOCAR Tower	floorCount	40
+Wells Fargo Place	floorCount	37
+Mnawi Basha Hotel	floorCount	5
+The Vue at Lake Eola	floorCount	36
+Bank of America Center (Orlando)	floorCount	28
+55 West on the Esplanade	floorCount	32
+Nanning Marriott	floorCount	27
+The Setai Miami Beach	floorCount	38
+Budynok Uryadu	floorCount	10
+Budynok Uryadu	floorCount	7
+Budynok Uryadu	floorCount	8
+LA Central I	floorCount	45
+LA Central II	floorCount	33
+Tokyo Ginko Kyokai Building	floorCount	20
+Sepehr Tower	floorCount	33
+Bachelor Hall (Miami University)	floorCount	3
+Newell Simon Hall	floorCount	5
+Bank Markazi Tower	floorCount	20
+Farmer School of Business Building (Miami University)	floorCount	4
+Yosemite Lodge at the Falls	floorCount	1
+Nido Spitalfields	floorCount	34
+Kenya Commercial Bank Plaza	floorCount	21
+Business Instructional Facility	floorCount	4
+Pousada Marina Infante	floorCount	11
+Orient Square	floorCount	38
+Orient Square	floorCount	7
+URBN hotels Shanghai	floorCount	4
+Padre Hotel	floorCount	8
+Siebens Building	floorCount	14
+Williams Hall (Miami University)	floorCount	2
+Starhotels Anderson	floorCount	9
+Justin S. Morrill Science Center	floorCount	4
+Atlantic Hotel (Missoula, Montana)	floorCount	3
+Turlington Building	floorCount	19
+Mutual Building	floorCount	12
+Vertex Tower	floorCount	34
+Eventi	floorCount	46
+1715 Broadway	floorCount	67
+511 Building (Minneapolis, Minnesota)	floorCount	3
+Hugh C. Bailey Science Center	floorCount	3
+Azadi Cinema	floorCount	8
+Regions-Harbert Plaza	floorCount	32
+First Interstate Center (Missoula)	floorCount	6
+First Security Bank (Downtown Missoula)	floorCount	6
+Power tower (Linz)	floorCount	19
+20 Times Square	floorCount	42
+SeaWorld SkyTower	floorCount	2
+Solaire at the Plaza	floorCount	30
+Fernald Hall	floorCount	4
+UpGround	floorCount	16
+River Landing Village	floorCount	20
+Townhouse Designhotel Maastricht	floorCount	3
+Hip Hotel St. Martenslane	floorCount	2
+Qbic Hotels	floorCount	2
+Capital Fort	floorCount	36
+2 Horatio Street	floorCount	18
+The Duke of Edinburgh Hotel	floorCount	4
+Ho Tung Gardens	floorCount	2
+Ho Tung Gardens	floorCount	5
+One Avighna Park	floorCount	64
+Lokhandwala Minerva	floorCount	82
+Marble Hall (Hong Kong)	floorCount	2
+J. Mack Robinson College of Business Administration Building	floorCount	14
+Council House (Salt Lake City)	floorCount	2
+Oberoi Trident Towers	floorCount	25
+Air India Building	floorCount	24
+World Trade Centre (Mumbai)	floorCount	35
+World Trade Centre (Mumbai)  IDBI Tower   1	floorCount	26
+55 Marietta Street	floorCount	21
+Draper Hall Annex	floorCount	1
+Namaste Tower	floorCount	62
+Sunwah Tower	floorCount	21
+Schloss Stainz	floorCount	3
+Antlers Hotel (Kingsland, Texas)	floorCount	2
+8 Spruce Street	floorCount	76
+Richard B. Russell Federal Building	floorCount	26
+Four Points by Sheraton Niagara Falls	floorCount	18
+City Square House	floorCount	14
+Two Progress Plaza	floorCount	19
+Scott County Courthouse (Iowa)	floorCount	3
+West Point (Building)	floorCount	17
+Al Rasheed Hotel	floorCount	18
+Hotel Newfoundland	floorCount	8
+11 Stanwix Street	floorCount	23
+Act Tower	floorCount	45
+Melbourne Mansions	floorCount	5
+3 Times Square	floorCount	32
+Canada Building (Saskatoon)	floorCount	8
+The View on Fifth	floorCount	22
+The Peninsula Bangkok	floorCount	37
+Canyon Ranch Miami Beach	floorCount	37
+Canyon Ranch Miami Beach  Canyon Ranch South Tower   1	floorCount	22
+Radisson Hotel Saskatoon	floorCount	18
+The Peninsula Chicago	floorCount	20
+The Peninsula New York	floorCount	23
+Kampala Intercontinental Hotel	floorCount	34
+Ramsay Hall	floorCount	7
+Novotel Grand Hotel de L'Independance	floorCount	12
+Le Meridien Mariador Palace	floorCount	4
+Blackstone Apartments	floorCount	4
+Old National Bank Building	floorCount	16
+St Elmo Courts	floorCount	7
+Halls of residence at University College London	floorCount	7
+Chartwell Court	floorCount	18
+Henry Fite House	floorCount	3
+Apiary Laboratory	floorCount	3
+One Progress Plaza (Raleigh, North Carolina)	floorCount	21
+Cork International Airport Hotel	floorCount	4
+Buckingham Hotel	floorCount	7
+Wilshire Grand Tower I	floorCount	65
+Mapeera House	floorCount	17
+Arthur Cook Building	floorCount	3
+Tour AXA (Montreal)	floorCount	26
+Iowa Memorial Union	floorCount	4
+Hoge Heren	floorCount	34
+Pacific Medical Center	floorCount	16
+Marina Park Constanţa	floorCount	39
+299 West 12th Street	floorCount	18
+302 West 12th Street	floorCount	18
+59 West 12th Street	floorCount	18
+Old Chapel (Amherst, Massachusetts)	floorCount	3
+The Blade Reading	floorCount	14
+Qaqortoq Hostel	floorCount	1
+Beau-Rivage Geneva	floorCount	6
+Hilton Baku	floorCount	25
+Portside Tower	floorCount	34
+Hancock & Lant Tower	floorCount	16
+The Avant	floorCount	16
+Federal Courthouse (Buffalo)	floorCount	10
+British Colonial Hilton Nassau	floorCount	7
+Apple Farm Inn (San Luis Obispo, California)	floorCount	3
+Apple Farm Inn (San Luis Obispo, California)	floorCount	1
+Sofitel Chicago Water Tower	floorCount	33
+Boulevard Plaza	floorCount	37
+Boulevard Plaza	floorCount	30
+Burj Al Salam	floorCount	56
+Detroit Harbor Terminals / Boblo Island Detroit Dock Building	floorCount	10
+Osama bin Laden's compound in Abbottabad	floorCount	3
+Limketkai Hotel	floorCount	33
+Limketkai Hotel	floorCount	21
+Van Dick 73	floorCount	2
+The Forbury Hotel	floorCount	4
+Esmeralda County Courthouse	floorCount	2
+Friars Walk, Reading	floorCount	3
+Vachel Almshouses	floorCount	2
+Hotel Koresco	floorCount	9
+Hotel Koresco	floorCount	4
+Larkin Terminal Warehouse	floorCount	10
+Crowne Plaza Glasgow	floorCount	15
+St. Andrews House (Glasgow)	floorCount	17
+Bella Sky Hotel	floorCount	23
+Exchange Building (San Antonio)	floorCount	10
+184 38th Street	floorCount	2
+Niyamasabha	floorCount	5
+New Broadcasting House	floorCount	6
+Tower at PNC Plaza	floorCount	40
+Varyap Meridian Grand Tower 1	floorCount	61
+Tesoro Corporation Headquarters	floorCount	16
+Tesoro Corporation Headquarters	floorCount	6
+Television Centre, Southampton	floorCount	2
+31 Building	floorCount	31
+Michelangelo Towers	floorCount	34
+The Moderne	floorCount	30
+Chamberlain West Hollywood Hotel	floorCount	4
+Dunton Technical Centre	floorCount	4
+Palácio Quitandinha	floorCount	6
+Palace of Happiness	floorCount	5
+Skycourts Towers	floorCount	21
+Clarendon Tower	floorCount	17
+Naspers Centre	floorCount	22
+Sheraton Incheon Hotel	floorCount	22
+VIA Corporativo	floorCount	14
+Songdo First World	floorCount	3
+Songdo Posco E&C Headquarters	floorCount	39
+Kalkin House (Shelburne Museum)	floorCount	2
+Chamran Grand Hotel	floorCount	50
+Tokyo Building	floorCount	33
+The Cavendish Hotel	floorCount	15
+MiMA (building)	floorCount	63
+Exchange Building, Memphis	floorCount	19
+University of Memphis, School of Law campus	floorCount	5
+Wuhan Greenland Financial Center	floorCount	119
+Ritz-Carlton Hotel (Atlantic City)	floorCount	18
+James A. Byrne Courthouse	floorCount	26
+Dalian Greenland Center	floorCount	85
+171 17th Street	floorCount	22
+Brasilia Digital TV Tower	floorCount	62
+Chase Park Plaza	floorCount	28
+Charles W. Stockey Centre for the Performing Arts	floorCount	3
+The Falls (Victoria)	floorCount	18
+Cajasol Tower	floorCount	40
+René C. Davidson Courthouse	floorCount	12
+Walsh's Building	floorCount	6
+Ritz-Carlton Atlantic City	floorCount	18
+Fort Pitt Blockhouse	floorCount	2
+Al Sharq Tower	floorCount	102
+Plantation Place South	floorCount	9
+Sofitel Macau At Ponte 16	floorCount	20
+River Place Condominiums	floorCount	18
+Lamar Building	floorCount	17
+Millennium Towers (Las Vegas)	floorCount	188
+West Athens Towers	floorCount	47
+Villa Marina Hotel	floorCount	14
+MG on the Halifax	floorCount	25
+Rochdale Town Hall	floorCount	3

@@ -1,0 +1,318 @@
+Bundestag	politicalPartyInLegislature	Cabinet Merkel II
+Bundestag	politicalPartyInLegislature	Christian Democratic Union (Germany)
+Bundestag	politicalPartyInLegislature	Christian Social Union of Bavaria
+Bundestag	politicalPartyInLegislature	Free Democratic Party (Germany)
+Bundestag	politicalPartyInLegislature	Social Democratic Party of Germany
+Bundestag	politicalPartyInLegislature	The Left (Germany)
+Bundestag	politicalPartyInLegislature	Alliance '90/The Greens
+European Parliament	politicalPartyInLegislature	European People's Party
+European Parliament	politicalPartyInLegislature	Progressive Alliance of Socialists and Democrats
+European Parliament	politicalPartyInLegislature	Group of the Alliance of Liberals and Democrats for Europe
+European Parliament	politicalPartyInLegislature	European Conservatives and Reformists
+European Parliament	politicalPartyInLegislature	The Greens–European Free Alliance
+European Parliament	politicalPartyInLegislature	European United Left–Nordic Green Left
+European Parliament	politicalPartyInLegislature	Europe of Freedom and Democracy
+European Parliament	politicalPartyInLegislature	Non-Inscrits
+Dáil Éireann	politicalPartyInLegislature	Government of Ireland
+Dáil Éireann	politicalPartyInLegislature	Fine Gael
+Dáil Éireann	politicalPartyInLegislature	Labour Party (Ireland)
+Dáil Éireann	politicalPartyInLegislature	Opposition (politics)
+Dáil Éireann	politicalPartyInLegislature	Fianna Fáil
+Dáil Éireann	politicalPartyInLegislature	Sinn Féin
+Dáil Éireann	politicalPartyInLegislature	Socialist Party (Ireland)
+Dáil Éireann	politicalPartyInLegislature	People Before Profit Alliance
+Dáil Éireann	politicalPartyInLegislature	Workers and Unemployed Action Group
+Dáil Éireann	politicalPartyInLegislature	Independent (politician)
+Dáil Éireann	politicalPartyInLegislature	Ceann Comhairle
+Parliament of Finland	politicalPartyInLegislature	Coalition government
+Parliament of Finland	politicalPartyInLegislature	National Coalition Party
+Parliament of Finland	politicalPartyInLegislature	Social Democratic Party of Finland
+Parliament of Finland	politicalPartyInLegislature	Left Alliance (Finland)
+Parliament of Finland	politicalPartyInLegislature	Green League
+Parliament of Finland	politicalPartyInLegislature	Swedish People's Party of Finland
+Parliament of Finland	politicalPartyInLegislature	Elisabeth Nauclér
+Parliament of Finland	politicalPartyInLegislature	Christian Democrats (Finland)
+Parliament of Finland	politicalPartyInLegislature	Opposition (politics)
+Parliament of Finland	politicalPartyInLegislature	True Finns
+Parliament of Finland	politicalPartyInLegislature	Centre Party (Finland)
+Rajya Sabha	politicalPartyInLegislature	National Democratic Alliance (India)
+Rajya Sabha	politicalPartyInLegislature	United Progressive Alliance
+Legislative Council of Hong Kong	politicalPartyInLegislature	Democratic Alliance for the Betterment and Progress of Hong Kong
+Legislative Council of Hong Kong	politicalPartyInLegislature	Hong Kong Federation of Trade Unions
+Legislative Council of Hong Kong	politicalPartyInLegislature	Liberal Party (Hong Kong)
+Legislative Council of Hong Kong	politicalPartyInLegislature	New People's Party (Hong Kong)
+Legislative Council of Hong Kong	politicalPartyInLegislature	Federation of Hong Kong and Kowloon Labour Unions
+Legislative Council of Hong Kong	politicalPartyInLegislature	Economic Synergy
+Legislative Council of Hong Kong	politicalPartyInLegislature	Professional Forum
+Legislative Council of Hong Kong	politicalPartyInLegislature	Democratic Party (Hong Kong)
+Legislative Council of Hong Kong	politicalPartyInLegislature	Civic Party
+Legislative Council of Hong Kong	politicalPartyInLegislature	People Power (Hong Kong)
+Legislative Council of Hong Kong	politicalPartyInLegislature	League of Social Democrats
+Legislative Council of Hong Kong	politicalPartyInLegislature	Hong Kong Confederation of Trade Unions
+Legislative Council of Hong Kong	politicalPartyInLegislature	Association for Democracy and People's Livelihood
+Legislative Council of Hong Kong	politicalPartyInLegislature	Civic Act-up
+Legislative Council of Hong Kong	politicalPartyInLegislature	Neighbourhood and Worker's Service Centre
+Legislative Council of Hong Kong	politicalPartyInLegislature	Hong Kong Social Workers' General Union
+Lok Sabha	politicalPartyInLegislature	National Democratic Alliance (India)
+Lok Sabha	politicalPartyInLegislature	United Progressive Alliance
+Dublin City Council	politicalPartyInLegislature	Labour Party (Ireland)
+Dublin City Council	politicalPartyInLegislature	Fine Gael
+Dublin City Council	politicalPartyInLegislature	Fianna Fáil
+Dublin City Council	politicalPartyInLegislature	Sinn Féin
+Dublin City Council	politicalPartyInLegislature	People Before Profit Alliance
+Dublin City Council	politicalPartyInLegislature	Éirígí
+Dublin City Council	politicalPartyInLegislature	Independent (politician)
+Nebraska Legislature	politicalPartyInLegislature	Non-partisan democracy
+California State Legislature	politicalPartyInLegislature	Democratic Party (United States)
+California State Legislature	politicalPartyInLegislature	Republican Party (United States)
+California State Legislature	politicalPartyInLegislature	Democratic Party (United States)
+California State Legislature	politicalPartyInLegislature	Republican Party (United States)
+Alaska Legislature	politicalPartyInLegislature	Republican Party of Alaska
+Alaska Legislature	politicalPartyInLegislature	Alaska Democratic Party
+Delaware General Assembly	politicalPartyInLegislature	Democratic Party (United States)
+Delaware General Assembly	politicalPartyInLegislature	Republican Party (United States)
+Connecticut General Assembly	politicalPartyInLegislature	Democratic Party (United States)
+Connecticut General Assembly	politicalPartyInLegislature	Republican Party (United States)
+Florida Legislature	politicalPartyInLegislature	Democratic Party (United States)
+Florida Legislature	politicalPartyInLegislature	Republican Party (United States)
+Florida Legislature	politicalPartyInLegislature	Democratic Party (United States)
+Florida Legislature	politicalPartyInLegislature	Republican Party (United States)
+California State Assembly	politicalPartyInLegislature	California Democratic Party
+California State Assembly	politicalPartyInLegislature	California Republican Party
+Wisconsin State Senate	politicalPartyInLegislature	Republican Party (United States)
+Wisconsin State Senate	politicalPartyInLegislature	Democratic Party (United States)
+Wisconsin State Assembly	politicalPartyInLegislature	Republican Party (United States)
+Wisconsin State Assembly	politicalPartyInLegislature	Democratic Party (United States)
+Wisconsin State Assembly	politicalPartyInLegislature	Independent (politician)
+New York State Assembly	politicalPartyInLegislature	New York State Democratic Committee
+New York State Assembly	politicalPartyInLegislature	New York Republican State Committee
+New York State Assembly	politicalPartyInLegislature	Independence Party of New York
+Florida House of Representatives	politicalPartyInLegislature	Republican Party of Florida
+Florida House of Representatives	politicalPartyInLegislature	Florida Democratic Party
+Colorado Senate	politicalPartyInLegislature	Colorado Democratic Party
+Colorado Senate	politicalPartyInLegislature	Colorado Republican Party
+Hawaii Senate	politicalPartyInLegislature	Democratic Party of Hawaii
+Hawaii Senate	politicalPartyInLegislature	Hawaii Republican Party
+Hawaii House of Representatives	politicalPartyInLegislature	Democratic Party of Hawaii
+Hawaii House of Representatives	politicalPartyInLegislature	Hawaii Republican Party
+Illinois General Assembly	politicalPartyInLegislature	Democratic Party (United States)
+Illinois General Assembly	politicalPartyInLegislature	Republican Party (United States)
+Illinois Senate	politicalPartyInLegislature	Democratic Party (United States)
+Illinois Senate	politicalPartyInLegislature	Republican Party (United States)
+Illinois House of Representatives	politicalPartyInLegislature	Democratic Party (United States)
+Illinois House of Representatives	politicalPartyInLegislature	Republican Party (United States)
+Georgia House of Representatives	politicalPartyInLegislature	Georgia Republican Party
+Georgia House of Representatives	politicalPartyInLegislature	Democratic Party of Georgia
+Georgia House of Representatives	politicalPartyInLegislature	Independent (politician)
+Georgia State Senate	politicalPartyInLegislature	Georgia Republican Party
+Georgia State Senate	politicalPartyInLegislature	Democratic Party of Georgia
+Alaska Senate	politicalPartyInLegislature	Coalition
+Alaska Senate	politicalPartyInLegislature	Republican Party of Alaska
+Alaska House of Representatives	politicalPartyInLegislature	Republican Party of Alaska
+Alaska House of Representatives	politicalPartyInLegislature	Alaska Democratic Party
+Indiana House of Representatives	politicalPartyInLegislature	Indiana Republican Party
+Indiana House of Representatives	politicalPartyInLegislature	Indiana Democratic Party
+New York State Senate	politicalPartyInLegislature	New York Republican State Committee
+New York State Senate	politicalPartyInLegislature	New York State Democratic Committee
+New York State Senate	politicalPartyInLegislature	Independent Democrat
+Virginia House of Delegates	politicalPartyInLegislature	Republican Party (United States)
+Virginia House of Delegates	politicalPartyInLegislature	Democratic Party (United States)
+Virginia House of Delegates	politicalPartyInLegislature	Independent (politician)
+Connecticut House of Representatives	politicalPartyInLegislature	Democratic State Central Committee of Connecticut
+Connecticut House of Representatives	politicalPartyInLegislature	Connecticut Republican Party
+Connecticut Senate	politicalPartyInLegislature	Democratic State Central Committee of Connecticut
+Connecticut Senate	politicalPartyInLegislature	Connecticut Republican Party
+Senate of Virginia	politicalPartyInLegislature	Democratic Party (United States)
+Senate of Virginia	politicalPartyInLegislature	Republican Party (United States)
+Florida Senate	politicalPartyInLegislature	Republican Party of Florida
+Florida Senate	politicalPartyInLegislature	Florida Democratic Party
+New Mexico House of Representatives	politicalPartyInLegislature	Democratic Party of New Mexico
+New Mexico House of Representatives	politicalPartyInLegislature	Republican Party of New Mexico
+New Mexico House of Representatives	politicalPartyInLegislature	Independent (politician)
+Cork City Council	politicalPartyInLegislature	Fine Gael
+Cork City Council	politicalPartyInLegislature	Labour Party (Ireland)
+Cork City Council	politicalPartyInLegislature	Fianna Fáil
+Cork City Council	politicalPartyInLegislature	Sinn Féin
+Cork City Council	politicalPartyInLegislature	Socialist Party (Ireland)
+Cork City Council	politicalPartyInLegislature	Workers' Party of Ireland
+Cork City Council	politicalPartyInLegislature	Independent (politician)
+New Mexico Senate	politicalPartyInLegislature	Democratic Party of New Mexico
+New Mexico Senate	politicalPartyInLegislature	Republican Party of New Mexico
+Delaware Senate	politicalPartyInLegislature	Delaware Democratic Party
+Delaware Senate	politicalPartyInLegislature	Republican State Committee of Delaware
+Delaware House of Representatives	politicalPartyInLegislature	Delaware Democratic Party
+Delaware House of Representatives	politicalPartyInLegislature	Republican State Committee of Delaware
+Kentucky Senate	politicalPartyInLegislature	Republican Party of Kentucky
+Kentucky Senate	politicalPartyInLegislature	Kentucky Democratic Party
+Kentucky Senate	politicalPartyInLegislature	Independent (politician)
+Kentucky House of Representatives	politicalPartyInLegislature	Kentucky Democratic Party
+Kentucky House of Representatives	politicalPartyInLegislature	Republican Party of Kentucky
+Pennsylvania House of Representatives	politicalPartyInLegislature	Republican Party (United States)
+Pennsylvania House of Representatives	politicalPartyInLegislature	Democratic Party (United States)
+Majlis of the Maldives	politicalPartyInLegislature	Dhivehi Rayyithunge Party
+Majlis of the Maldives	politicalPartyInLegislature	Maldivian Democratic Party
+Majlis of the Maldives	politicalPartyInLegislature	People's Alliance (Maldives)
+Majlis of the Maldives	politicalPartyInLegislature	Republican Party (Maldives)
+Majlis of the Maldives	politicalPartyInLegislature	National Alliance (Maldives)
+Majlis of the Maldives	politicalPartyInLegislature	Independent (politician)
+Arizona House of Representatives	politicalPartyInLegislature	Arizona Republican Party
+Arizona House of Representatives	politicalPartyInLegislature	Alaska Democratic Party
+Lancashire County Council	politicalPartyInLegislature	Conservative Party (UK)
+Lancashire County Council	politicalPartyInLegislature	Labour Party (UK)
+Lancashire County Council	politicalPartyInLegislature	Liberal Democrats
+Lancashire County Council	politicalPartyInLegislature	Independent (politician)
+Lancashire County Council	politicalPartyInLegislature	British National Party
+Lancashire County Council	politicalPartyInLegislature	Idle Toad
+Arkansas Senate	politicalPartyInLegislature	Democratic Party of Arkansas
+Arkansas Senate	politicalPartyInLegislature	Republican Party of Arkansas
+Arkansas House of Representatives	politicalPartyInLegislature	Democratic Party of Arkansas
+Arkansas House of Representatives	politicalPartyInLegislature	Republican Party of Arkansas
+Alabama Legislature	politicalPartyInLegislature	Alabama Republican Party
+Alabama Legislature	politicalPartyInLegislature	Alabama Democratic Party
+Alabama Legislature	politicalPartyInLegislature	Independent (politician)
+Alabama Senate	politicalPartyInLegislature	Alabama Republican Party
+Alabama Senate	politicalPartyInLegislature	Alabama Democratic Party
+Alabama Senate	politicalPartyInLegislature	Independent (politician)
+Alabama House of Representatives	politicalPartyInLegislature	Alabama Republican Party
+Alabama House of Representatives	politicalPartyInLegislature	Alabama Democratic Party
+Parliament of the Czech Republic	politicalPartyInLegislature	Czech Social Democratic Party
+Parliament of the Czech Republic	politicalPartyInLegislature	Civic Democratic Party (Czech Republic)
+Parliament of the Czech Republic	politicalPartyInLegislature	TOP 09
+Parliament of the Czech Republic	politicalPartyInLegislature	Communist Party of Bohemia and Moravia
+Parliament of the Czech Republic	politicalPartyInLegislature	Public Affairs (political party)
+Parliament of the Czech Republic	politicalPartyInLegislature	Civic Democratic Party (Czech Republic)
+Parliament of the Czech Republic	politicalPartyInLegislature	Czech Social Democratic Party
+Parliament of the Czech Republic	politicalPartyInLegislature	Christian and Democratic Union – Czechoslovak People's Party
+Parliament of the Czech Republic	politicalPartyInLegislature	Communist Party of Bohemia and Moravia
+Parliament of the Czech Republic	politicalPartyInLegislature	SNK European Democrats
+Indiana Senate	politicalPartyInLegislature	Indiana Republican Party
+Indiana Senate	politicalPartyInLegislature	Indiana Democratic Party
+Galway County Council	politicalPartyInLegislature	Fine Gael
+Galway County Council	politicalPartyInLegislature	Fianna Fáil
+Galway County Council	politicalPartyInLegislature	Labour Party (Ireland)
+Galway County Council	politicalPartyInLegislature	Sinn Féin
+Galway County Council	politicalPartyInLegislature	Republican Sinn Féin
+Galway County Council	politicalPartyInLegislature	Independent (politician)
+Clare County Council	politicalPartyInLegislature	Fine Gael
+Clare County Council	politicalPartyInLegislature	Fianna Fáil
+Clare County Council	politicalPartyInLegislature	Labour Party (Ireland)
+Clare County Council	politicalPartyInLegislature	Green Party (Ireland)
+Clare County Council	politicalPartyInLegislature	Independent (politician)
+Donegal County Council	politicalPartyInLegislature	Fianna Fáil
+Donegal County Council	politicalPartyInLegislature	Fine Gael
+Donegal County Council	politicalPartyInLegislature	Sinn Féin
+Donegal County Council	politicalPartyInLegislature	Labour Party (Ireland)
+Donegal County Council	politicalPartyInLegislature	Independent (politician)
+Carlow County Council	politicalPartyInLegislature	Fine Gael
+Carlow County Council	politicalPartyInLegislature	Labour Party (Ireland)
+Carlow County Council	politicalPartyInLegislature	Fianna Fáil
+Carlow County Council	politicalPartyInLegislature	Independent (politician)
+Laois County Council	politicalPartyInLegislature	Fine Gael
+Laois County Council	politicalPartyInLegislature	Fianna Fáil
+Laois County Council	politicalPartyInLegislature	Sinn Féin
+Laois County Council	politicalPartyInLegislature	Labour Party (Ireland)
+Laois County Council	politicalPartyInLegislature	Independent (politician)
+Kerry County Council	politicalPartyInLegislature	Fine Gael
+Kerry County Council	politicalPartyInLegislature	Fianna Fáil
+Kerry County Council	politicalPartyInLegislature	Labour Party (Ireland)
+Kerry County Council	politicalPartyInLegislature	Sinn Féin
+Kerry County Council	politicalPartyInLegislature	South Kerry Independent Alliance
+Kerry County Council	politicalPartyInLegislature	Independent (politician)
+Meath County Council	politicalPartyInLegislature	Fine Gael
+Meath County Council	politicalPartyInLegislature	Fianna Fáil
+Meath County Council	politicalPartyInLegislature	Labour Party (Ireland)
+Meath County Council	politicalPartyInLegislature	Sinn Féin
+Meath County Council	politicalPartyInLegislature	Independent (politician)
+Louth County Council	politicalPartyInLegislature	Fine Gael
+Louth County Council	politicalPartyInLegislature	Sinn Féin
+Louth County Council	politicalPartyInLegislature	Fianna Fáil
+Louth County Council	politicalPartyInLegislature	Labour Party (Ireland)
+Louth County Council	politicalPartyInLegislature	Green Party (Ireland)
+Louth County Council	politicalPartyInLegislature	Independent (politician)
+Waterford County Council	politicalPartyInLegislature	Fine Gael
+Waterford County Council	politicalPartyInLegislature	Fianna Fáil
+Waterford County Council	politicalPartyInLegislature	Labour Party (Ireland)
+Waterford County Council	politicalPartyInLegislature	Sinn Féin
+Waterford County Council	politicalPartyInLegislature	Independent (politician)
+Wexford County Council	politicalPartyInLegislature	Fine Gael
+Wexford County Council	politicalPartyInLegislature	Fianna Fáil
+Wexford County Council	politicalPartyInLegislature	Labour Party (Ireland)
+Wexford County Council	politicalPartyInLegislature	Independent (politician)
+Wicklow County Council	politicalPartyInLegislature	Fine Gael
+Wicklow County Council	politicalPartyInLegislature	Labour Party (Ireland)
+Wicklow County Council	politicalPartyInLegislature	Fianna Fáil
+Wicklow County Council	politicalPartyInLegislature	Sinn Féin
+Wicklow County Council	politicalPartyInLegislature	Independent (politician)
+Roscommon County Council	politicalPartyInLegislature	Fine Gael
+Roscommon County Council	politicalPartyInLegislature	Fianna Fáil
+Roscommon County Council	politicalPartyInLegislature	Sinn Féin
+Roscommon County Council	politicalPartyInLegislature	Labour Party (Ireland)
+Roscommon County Council	politicalPartyInLegislature	Independent (politician)
+Sligo County Council	politicalPartyInLegislature	Fine Gael
+Sligo County Council	politicalPartyInLegislature	Fianna Fáil
+Sligo County Council	politicalPartyInLegislature	Labour Party (Ireland)
+Sligo County Council	politicalPartyInLegislature	Sinn Féin
+Sligo County Council	politicalPartyInLegislature	Independent (politician)
+Limerick County Council	politicalPartyInLegislature	Fine Gael
+Limerick County Council	politicalPartyInLegislature	Fianna Fáil
+Limerick County Council	politicalPartyInLegislature	Labour Party (Ireland)
+Limerick County Council	politicalPartyInLegislature	Independent (politician)
+Cork County Council	politicalPartyInLegislature	Fine Gael
+Cork County Council	politicalPartyInLegislature	Fianna Fáil
+Cork County Council	politicalPartyInLegislature	Labour Party (Ireland)
+Cork County Council	politicalPartyInLegislature	Sinn Féin
+Cork County Council	politicalPartyInLegislature	Independent (politician)
+South Tipperary County Council	politicalPartyInLegislature	Fine Gael
+South Tipperary County Council	politicalPartyInLegislature	Fianna Fáil
+South Tipperary County Council	politicalPartyInLegislature	Labour Party (Ireland)
+South Tipperary County Council	politicalPartyInLegislature	Workers and Unemployed Action Group
+South Tipperary County Council	politicalPartyInLegislature	Independent (politician)
+North Tipperary County Council	politicalPartyInLegislature	Fianna Fáil
+North Tipperary County Council	politicalPartyInLegislature	Fine Gael
+North Tipperary County Council	politicalPartyInLegislature	Labour Party (Ireland)
+North Tipperary County Council	politicalPartyInLegislature	Sinn Féin
+North Tipperary County Council	politicalPartyInLegislature	Independent (politician)
+Wyoming House of Representatives	politicalPartyInLegislature	Republican Party (United States)
+Wyoming House of Representatives	politicalPartyInLegislature	Democratic Party (United States)
+Wyoming Senate	politicalPartyInLegislature	Republican Party (United States)
+Wyoming Senate	politicalPartyInLegislature	Democratic Party (United States)
+Kansas House of Representatives	politicalPartyInLegislature	Kansas Republican Party
+Kansas House of Representatives	politicalPartyInLegislature	Kansas Democratic Party
+Kansas Senate	politicalPartyInLegislature	Kansas Republican Party
+Kansas Senate	politicalPartyInLegislature	Kansas Democratic Party
+Utah State Senate	politicalPartyInLegislature	Republican Party (United States)
+Utah State Senate	politicalPartyInLegislature	Democratic Party (United States)
+Municipal Corporation of Delhi	politicalPartyInLegislature	Bharatiya Janata Party
+Municipal Corporation of Delhi	politicalPartyInLegislature	Indian National Congress
+Municipal Corporation of Delhi	politicalPartyInLegislature	Bahujan Samaj Party
+Louisiana State Senate	politicalPartyInLegislature	Republican Party of Louisiana
+Louisiana State Senate	politicalPartyInLegislature	Louisiana Democratic Party
+Iowa Senate	politicalPartyInLegislature	Iowa Democratic Party
+Iowa Senate	politicalPartyInLegislature	Republican Party of Iowa
+Iowa House of Representatives	politicalPartyInLegislature	Republican Party of Iowa
+Iowa House of Representatives	politicalPartyInLegislature	Iowa Democratic Party
+Idaho House of Representatives	politicalPartyInLegislature	Idaho Republican Party
+Idaho House of Representatives	politicalPartyInLegislature	Idaho Democratic Party
+Idaho Senate	politicalPartyInLegislature	Idaho Republican Party
+Idaho Senate	politicalPartyInLegislature	Idaho Democratic Party
+Louisiana House of Representatives	politicalPartyInLegislature	Republican Party of Louisiana
+Louisiana House of Representatives	politicalPartyInLegislature	Louisiana Democratic Party
+Louisiana House of Representatives	politicalPartyInLegislature	Independent (politician)
+Fingal County Council	politicalPartyInLegislature	Labour Party (Ireland)
+Fingal County Council	politicalPartyInLegislature	Fine Gael
+Fingal County Council	politicalPartyInLegislature	Fianna Fáil
+Fingal County Council	politicalPartyInLegislature	Socialist Party (Ireland)
+Fingal County Council	politicalPartyInLegislature	Independent (politician)
+Parliament of the Central Tibetan Administration	politicalPartyInLegislature	Non-partisan democracy
+Seanad Éireann	politicalPartyInLegislature	Fine Gael
+Seanad Éireann	politicalPartyInLegislature	Fianna Fáil
+Seanad Éireann	politicalPartyInLegislature	Labour Party (Ireland)
+Seanad Éireann	politicalPartyInLegislature	Sinn Féin
+Seanad Éireann	politicalPartyInLegislature	Independent (politician)
+Central Executive Committee of Ukraine	politicalPartyInLegislature	Communism
+Greystones Town Council	politicalPartyInLegislature	Fine Gael
+Greystones Town Council	politicalPartyInLegislature	Labour Party (Ireland)
+Greystones Town Council	politicalPartyInLegislature	Fianna Fáil
+Greystones Town Council	politicalPartyInLegislature	Independent (politician)
+Canarian Parliament	politicalPartyInLegislature	People's Party (Spain)
+Canarian Parliament	politicalPartyInLegislature	Canarian Coalition

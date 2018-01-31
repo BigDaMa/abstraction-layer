@@ -1,0 +1,423 @@
+Ford Pinto	modelEndYear	1980
+Pontiac Vibe	modelEndYear	2010
+Pontiac Vibe  First generation   1	modelEndYear	2008
+Pontiac Vibe  Second generation   1	modelEndYear	2010
+Chevrolet Corvette	modelEndYear	1953
+Chevrolet Camaro	modelEndYear	1967
+Chevrolet Impala	modelEndYear	1958
+Chevrolet Impala  First generation   1	modelEndYear	1958
+Chevrolet Impala  Second generation   1	modelEndYear	1960
+Chevrolet Impala  Third generation   1	modelEndYear	1964
+Chevrolet Impala  Fourth generation   1	modelEndYear	1970
+Chevrolet Impala  Fifth generation   1	modelEndYear	1976
+Chevrolet Impala  Sixth generation   1	modelEndYear	1985
+Chevrolet Impala  1	modelEndYear	1996
+Chevrolet Impala  Eighth generation   1	modelEndYear	2005
+Toyota Matrix  First generation   1	modelEndYear	2008
+Nissan Maxima  1	modelEndYear	1980
+Nissan Maxima  First generation   1	modelEndYear	1984
+Nissan Maxima  Second generation   1	modelEndYear	1988
+Nissan Maxima  Third generation   1	modelEndYear	1994
+Nissan Maxima  Fourth generation   1	modelEndYear	1999
+Nissan Maxima  Fifth generation   1	modelEndYear	2003
+Nissan Maxima  Sixth generation   1	modelEndYear	2008
+Dodge Caravan  Generation I   1	modelEndYear	1990
+Dodge Caravan  Generation IV   1	modelEndYear	2007
+Chevrolet Chevelle	modelEndYear	1977
+Chevrolet Chevelle  First-generation   1	modelEndYear	1967
+Chevrolet Chevelle  Second-generation   1	modelEndYear	1972
+Chevrolet Chevelle  Third generation   1	modelEndYear	1977
+Chevrolet Corvair	modelEndYear	1969
+Chevrolet Corvair  First generation   1	modelEndYear	1964
+Chevrolet Corvair  Second generation   1	modelEndYear	1969
+Pontiac Sunbird	modelEndYear	1976
+Pontiac Sunbird  First generation   1	modelEndYear	1980
+Pontiac Sunbird  Second generation   1	modelEndYear	1988
+Pontiac Sunbird  Third generation   1	modelEndYear	1994
+Buick Skylark	modelEndYear	1953
+Buick Skylark  First generation   1	modelEndYear	1954
+Buick Skylark  Second generation   1	modelEndYear	1963
+Buick Skylark  Third generation   1	modelEndYear	1972
+Buick Skylark  Fourth generation   1	modelEndYear	1979
+Buick Skylark  Fifth generation   1	modelEndYear	1985
+Buick Skylark  Sixth generation   1	modelEndYear	1991
+Buick Skylark  Seventh generation   1	modelEndYear	1998
+Chevrolet Biscayne  First generation   1	modelEndYear	1960
+Chevrolet Biscayne  Second generation   1	modelEndYear	1964
+Chevrolet Biscayne  Third generation   1	modelEndYear	1970
+Chevrolet Biscayne  Fourth generation   1	modelEndYear	1975
+Chevrolet Caprice	modelEndYear	1996
+Chevrolet Caprice  First generation   1	modelEndYear	1970
+Chevrolet Caprice  Second generation   1	modelEndYear	1976
+Chevrolet Caprice  Third generation   1	modelEndYear	1990
+Chevrolet Caprice  Fourth generation   1	modelEndYear	1996
+Chevrolet Bel Air	modelEndYear	1975
+Chevrolet Bel Air  First generation   1	modelEndYear	1954
+Chevrolet Bel Air  Second generation   1	modelEndYear	1957
+Chevrolet Bel Air  Third generation   1	modelEndYear	1958
+Chevrolet Bel Air  Fourth generation   1	modelEndYear	1960
+Chevrolet Bel Air  Fifth generation   1	modelEndYear	1964
+Chevrolet Bel Air  Sixth generation   1	modelEndYear	1970
+Chevrolet Bel Air  Seventh generation   1	modelEndYear	1975
+Chevrolet Bel Air  Eighth generation   1	modelEndYear	1981
+Acura TSX  First-generation CL9   1	modelEndYear	2008
+Lexus RX (XU30)	modelEndYear	2009
+Ford Five Hundred	modelEndYear	2007
+Pontiac G6	modelEndYear	2010
+Pontiac Solstice	modelEndYear	2009
+Honda Insight	modelEndYear	2000
+Honda Insight  First generation ZE1   1	modelEndYear	2006
+Acura TL  Third generation   1	modelEndYear	2008
+Chevrolet Chevette	modelEndYear	1987
+Mercedes-Benz CLS-Class	modelEndYear	2006
+Honda Civic Hybrid  First generation   1	modelEndYear	2005
+Honda Civic Hybrid  Second generation   1	modelEndYear	2011
+Buick Riviera	modelEndYear	1999
+Buick Riviera  First generation   1	modelEndYear	1965
+Buick Riviera  Second generation   1	modelEndYear	1970
+Buick Riviera  Third generation   1	modelEndYear	1973
+Buick Riviera  Fourth generation   1	modelEndYear	1976
+Buick Riviera  Fifth generation   1	modelEndYear	1978
+Buick Riviera  Sixth generation   1	modelEndYear	1985
+Buick Riviera  Seventh generation   1	modelEndYear	1993
+Buick Riviera  Eighth generation   1	modelEndYear	1999
+Cadillac Coupe de Ville  Fourth generation   1	modelEndYear	1960
+Cadillac Coupe de Ville  Seventh generation   1	modelEndYear	1976
+Buick Electra  First generation   1	modelEndYear	1960
+Buick Electra  Second generation   1	modelEndYear	1964
+Buick Electra  Third generation   1	modelEndYear	1970
+Buick Electra  Fourth generation   1	modelEndYear	1976
+Buick Electra  Fifth generation   1	modelEndYear	1984
+Buick Electra  Sixth generation   1	modelEndYear	1990
+Oldsmobile 98  First generation   1	modelEndYear	1941
+Oldsmobile 98  Second generation   1	modelEndYear	1953
+Oldsmobile 98  Third generation   1	modelEndYear	1956
+Oldsmobile 98  Fourth generation   1	modelEndYear	1958
+Oldsmobile 98  Fifth generation   1	modelEndYear	1960
+Oldsmobile 98  Sixth generation   1	modelEndYear	1964
+Oldsmobile 98  Seventh generation   1	modelEndYear	1970
+Oldsmobile 98  Eighth generation   1	modelEndYear	1976
+Oldsmobile 98  Ninth generation   1	modelEndYear	1984
+Oldsmobile 98  Tenth generation   1	modelEndYear	1990
+Oldsmobile 98  Eleventh generation   1	modelEndYear	1996
+Lotus Esprit	modelEndYear	2004
+Lotus Esprit  First generation   1	modelEndYear	1979
+Lotus Esprit  Second generation   1	modelEndYear	1986
+Lotus Esprit  hird generation   1	modelEndYear	1992
+Lotus Esprit  Fourth generation   1	modelEndYear	2004
+Toyota Avalon  First generation   1	modelEndYear	1999
+Toyota Avalon  Second generation   1	modelEndYear	2004
+Mercury Cougar	modelEndYear	2002
+Mercury Cougar  First generation   1	modelEndYear	1970
+Mercury Cougar  Second generation   1	modelEndYear	1973
+Mercury Cougar  Third generation   1	modelEndYear	1976
+Mercury Cougar  Fourth generation   1	modelEndYear	1979
+Mercury Cougar  Fifth generation   1	modelEndYear	1982
+Mercury Cougar  Sixth generation   1	modelEndYear	1988
+Mercury Cougar  Seventh generation   1	modelEndYear	1997
+Mercury Cougar  Eighth generation   1	modelEndYear	2002
+Lincoln Continental  First generation   1	modelEndYear	1948
+Lincoln Continental  Second generation   1	modelEndYear	1957
+Lincoln Continental  Third generation   1	modelEndYear	1960
+Lincoln Continental  Fourth generation   1	modelEndYear	1969
+Lincoln Continental  Fifth Generation   1	modelEndYear	1979
+Lincoln Continental  Seventh generation   1	modelEndYear	1987
+Lincoln Continental  Eighth Generation   1	modelEndYear	1994
+Lincoln Continental  Ninth generation   1	modelEndYear	2002
+Oldsmobile Aurora  First generation   1	modelEndYear	1999
+Oldsmobile Aurora  Second generation   1	modelEndYear	2003
+Audi A4  B5   1	modelEndYear	2001
+Audi A4  B6   1	modelEndYear	2002
+Audi A4  B7   1	modelEndYear	2005
+Lexus GS  econd generation   1	modelEndYear	2005
+Chevrolet Cavalier  First generation   1	modelEndYear	1987
+Chevrolet Cavalier  Second generation   1	modelEndYear	1994
+Chevrolet Cavalier  Third generation   1	modelEndYear	2005
+Chevrolet El Camino	modelEndYear	1959
+Chevrolet El Camino  First generation   1	modelEndYear	1960
+Chevrolet El Camino  Second generation   1	modelEndYear	1967
+Chevrolet El Camino  Third generation   1	modelEndYear	1972
+Chevrolet El Camino  Fourth generation   1	modelEndYear	1977
+Chevrolet El Camino  Fifth generation   1	modelEndYear	1987
+Buick Century	modelEndYear	1936
+Buick Century  First generation full-size Century   1	modelEndYear	1942
+Buick Century  Second generation full-size Century   1	modelEndYear	1958
+Buick Century  Third generation   1	modelEndYear	1977
+Buick Century  Fourth generation   1	modelEndYear	1981
+Buick Century  Fifth generation   1	modelEndYear	1996
+Buick Century  Sixth generation   1	modelEndYear	2005
+Buick Regal	modelEndYear	1973
+Buick Regal  First generation   1	modelEndYear	1977
+Buick Regal  Second generation   1	modelEndYear	1987
+Buick Regal  Third generation   1	modelEndYear	1996
+Buick Regal  Fourth generation   1	modelEndYear	1997
+Buick Regal  Fifth generation   1	modelEndYear	2009
+Toyota Camry  V10   1	modelEndYear	1986
+Toyota Camry  XV10   1	modelEndYear	1996
+Toyota Camry  XV20   1	modelEndYear	2001
+Toyota Camry  XV30   1	modelEndYear	2006
+Ford Torino Talladega	modelEndYear	1969
+Nissan Micra  K13   1	modelEndYear	2011
+Lexus IS  First generation   1	modelEndYear	2005
+Toyota Starlet	modelEndYear	1999
+Toyota Starlet  40 Series   1	modelEndYear	1978
+Toyota Starlet  60 Series   1	modelEndYear	1984
+Toyota Starlet  70 Series   1	modelEndYear	1990
+Toyota Starlet  80 Series   1	modelEndYear	1990
+Toyota Starlet  90 Series   1	modelEndYear	1999
+Cadillac CTS  First generation   1	modelEndYear	2007
+Imperial (automobile)  First generation   1	modelEndYear	1956
+Imperial (automobile)  Second generation   1	modelEndYear	1966
+Imperial (automobile)  Third generation   1	modelEndYear	1968
+Imperial (automobile)  Fourth generation   1	modelEndYear	1973
+Imperial (automobile)  Fifth generation   1	modelEndYear	1975
+Imperial (automobile)  Sixth generation   1	modelEndYear	1983
+Imperial (automobile)  Crown Imperial   1	modelEndYear	1965
+Ford Escape  First generation   1	modelEndYear	2007
+Mazda Tribute  First generation   1	modelEndYear	2006
+Mercedes-Benz M-Class  W163   1	modelEndYear	2005
+Mercedes-Benz M-Class  W164   1	modelEndYear	2011
+Lada Kalina	modelEndYear	2011
+Oldsmobile Silhouette	modelEndYear	2004
+Buick LaCrosse  First generationNorth America   1	modelEndYear	2009
+Buick LaCrosse  First generationChina   1	modelEndYear	2009
+Saturn Vue	modelEndYear	2010
+Saturn Vue  First generation   1	modelEndYear	2007
+Plymouth Laser	modelEndYear	1994
+Dodge Colt	modelEndYear	1994
+Eagle Premier	modelEndYear	1992
+Chrysler Sebring	modelEndYear	2010
+Pontiac Astre	modelEndYear	1977
+Buick Skyhawk	modelEndYear	1975
+Buick Skyhawk  First generation   1	modelEndYear	1980
+Buick Skyhawk  Second generation   1	modelEndYear	1989
+Oldsmobile Starfire  First generation   1	modelEndYear	1966
+Oldsmobile Starfire  Second generation   1	modelEndYear	1980
+Chevrolet Vega	modelEndYear	1977
+Chevrolet Monza	modelEndYear	1980
+Mercury Grand Marquis	modelEndYear	2011
+Mercury Grand Marquis  1	modelEndYear	1982
+Mercury Grand Marquis  First generation   1	modelEndYear	1991
+Mercury Grand Marquis  econd generation   1	modelEndYear	1997
+Mercury Grand Marquis  Third generation   1	modelEndYear	2002
+Mercury Grand Marquis  Fourth generation   1	modelEndYear	2011
+BMW X5 (E53)	modelEndYear	2006
+Cadillac XLR	modelEndYear	2009
+Buick Rendezvous	modelEndYear	2007
+Scion tC  First generation   1	modelEndYear	2010
+Subaru Alcyone SVX	modelEndYear	1997
+Pontiac Trans Sport	modelEndYear	1999
+Mercury Milan	modelEndYear	2011
+Lincoln Navigator  First generation UN173   1	modelEndYear	2002
+Lincoln Navigator  Second generation U228   1	modelEndYear	2006
+Lincoln LS	modelEndYear	2006
+BMW X5  E53   1	modelEndYear	2006
+Ford Aerostar	modelEndYear	1997
+Ford Aerostar  First generation   1	modelEndYear	1991
+Ford Aerostar  Second generation   1	modelEndYear	1997
+Scion xB    1	modelEndYear	2006
+Lexus LS  First generation LS 400   1	modelEndYear	1994
+Lexus LS  econd generation LS 400   1	modelEndYear	2000
+Lexus LS  Third generation LS 430   1	modelEndYear	2006
+Infiniti M  Y34   1	modelEndYear	2004
+Infiniti M  Y50   1	modelEndYear	2010
+Ford Ranger (North America)	modelEndYear	2011
+Dodge Durango  Second generation   1	modelEndYear	2009
+Mitsubishi Raider	modelEndYear	2009
+Hyundai Tucson  First generation   1	modelEndYear	2009
+Chevrolet Malibu	modelEndYear	1964
+Chevrolet Malibu  Second generation   1	modelEndYear	1975
+Chevrolet Malibu  Fifth generation   1	modelEndYear	1997
+Chevrolet Malibu  Sixth generation   1	modelEndYear	2007
+Chevrolet Malibu  Seventh generation   1	modelEndYear	2012
+Chevrolet Venture	modelEndYear	2005
+Pontiac Montana	modelEndYear	1997
+Pontiac Montana  Second generation   1	modelEndYear	2005
+Chevrolet Uplander	modelEndYear	2009
+Chevrolet TrailBlazer	modelEndYear	2009
+Chevrolet Chevy II / Nova	modelEndYear	1962
+Chevrolet Chevy II / Nova  First generation   1	modelEndYear	1965
+Chevrolet Chevy II / Nova  Second generation   1	modelEndYear	1967
+Chevrolet Chevy II / Nova  Third generation   1	modelEndYear	1974
+Chevrolet Chevy II / Nova  Fourth generation   1	modelEndYear	1979
+Chevrolet Chevy II / Nova  Fifth generation   1	modelEndYear	1988
+Oldsmobile Cutlass Ciera	modelEndYear	1996
+Jeep Grand Cherokee  ZJ   1	modelEndYear	1998
+Pontiac Phoenix	modelEndYear	1984
+Pontiac Phoenix  First generation   1	modelEndYear	1979
+Pontiac Phoenix  Second generation   1	modelEndYear	1984
+Buick Estate  1971–1976 Buick Estate Wagon   1	modelEndYear	1976
+Buick Estate  Buick Electra Estate   1	modelEndYear	1990
+Oldsmobile Custom Cruiser  First generation   1	modelEndYear	1976
+Oldsmobile Custom Cruiser  Second generation   1	modelEndYear	1990
+Oldsmobile Custom Cruiser  Third generation   1	modelEndYear	1992
+Buick Park Avenue	modelEndYear	2005
+Buick Park Avenue  First generation   1	modelEndYear	1996
+Buick Park Avenue  Second generation   1	modelEndYear	2005
+Buick LeSabre	modelEndYear	2005
+Buick LeSabre  First generation   1	modelEndYear	1960
+Buick LeSabre  Second generation   1	modelEndYear	1964
+Buick LeSabre  Third generation   1	modelEndYear	1970
+Buick LeSabre  Fifth generation   1	modelEndYear	1976
+Buick LeSabre  Sixth generation   1	modelEndYear	1985
+Buick LeSabre  Seventh generation   1	modelEndYear	1991
+Buick LeSabre  ight generation   1	modelEndYear	1999
+Buick LeSabre  Ninth generation   1	modelEndYear	2005
+Jeep Liberty  First generation   1	modelEndYear	2007
+Toyota Tacoma  First generation   1	modelEndYear	2004
+Pontiac Torrent	modelEndYear	2009
+Hyundai Elantra  First generation   1	modelEndYear	1995
+Hyundai Elantra  Second generation   1	modelEndYear	2000
+Hyundai Elantra  Third generation XD   1	modelEndYear	2006
+Hyundai Elantra  Fourth generation HD   1	modelEndYear	2010
+Ferrari 348	modelEndYear	1995
+Honda Pilot  First generation   1	modelEndYear	2008
+Hummer H1	modelEndYear	2004
+Saturn Sky	modelEndYear	2009
+Toyota Sienna  First generation   1	modelEndYear	2003
+Toyota Sienna  Second generation   1	modelEndYear	2010
+Toyota Cressida  First generation   1	modelEndYear	1980
+Toyota Cressida  Second generation   1	modelEndYear	1984
+Toyota Cressida  Third generation   1	modelEndYear	1988
+Toyota Cressida  Fourth generation   1	modelEndYear	1992
+Nissan Tiida  First generation   1	modelEndYear	2012
+Toyota Camry Solara	modelEndYear	2008
+IKCO Samand	modelEndYear	2010
+Toyota Sequoia  First generation   1	modelEndYear	2007
+Toyota Tundra  First generation   1	modelEndYear	2006
+Toyota 4Runner  First generation   1	modelEndYear	1989
+Toyota 4Runner  Second generation   1	modelEndYear	1995
+Toyota 4Runner  Third generation   1	modelEndYear	2002
+Toyota 4Runner  Fourth generation   1	modelEndYear	2009
+Lexus ES  econd generation   1	modelEndYear	1996
+Lexus ES  Third generation   1	modelEndYear	2001
+Lexus ES  Fourth generation   1	modelEndYear	2006
+AMC Eagle	modelEndYear	1988
+GMC motorhome	modelEndYear	1978
+Toyota RAV4  First generation   1	modelEndYear	2000
+Toyota RAV4  Second generation   1	modelEndYear	2005
+Chevrolet Cobalt	modelEndYear	2010
+Toyota Hilux  Fourth generation   1	modelEndYear	1989
+Saturn Aura	modelEndYear	2009
+Pontiac Ventura  Second generation   1	modelEndYear	1977
+Hyundai Sonata  Fifth generation NF   1	modelEndYear	2010
+Buick Lucerne	modelEndYear	2011
+Chevrolet K5 Blazer  First generation   1	modelEndYear	1972
+Chevrolet K5 Blazer  Second generation   1	modelEndYear	1991
+Chevrolet K5 Blazer  Third generation   1	modelEndYear	1992
+Ford Explorer Sport Trac	modelEndYear	2001
+Ford Explorer Sport Trac  First generation   1	modelEndYear	2005
+Ford Explorer Sport Trac  Second generation   1	modelEndYear	2010
+Chrysler LHS  First generation   1	modelEndYear	1997
+Cadillac Sixty Special  First generation   1	modelEndYear	1941
+Cadillac Sixty Special  Second generation   1	modelEndYear	1947
+Cadillac Sixty Special  Third generation   1	modelEndYear	1949
+Cadillac Sixty Special  Fourth generation   1	modelEndYear	1953
+Cadillac Sixty Special  Fifth generation   1	modelEndYear	1956
+Cadillac Sixty Special  Sixth generation   1	modelEndYear	1958
+Cadillac Sixty Special  Seventh generation   1	modelEndYear	1960
+Cadillac Sixty Special  Eighth generation   1	modelEndYear	1964
+Cadillac Sixty Special  Tenth generation   1	modelEndYear	1976
+Cadillac Sixty Special  Eleventh generation   1	modelEndYear	1993
+Cadillac Series 70  Tenth generation   1	modelEndYear	1976
+Isuzu Trooper  Second generation   1	modelEndYear	2002
+Chrysler Pacifica	modelEndYear	2008
+Infiniti FX  First generation   1	modelEndYear	2008
+Hyundai Coupe  Second generation   1	modelEndYear	2008
+Hyundai Santa Fe  First generation SM   1	modelEndYear	2006
+Lexus GX  First generation   1	modelEndYear	2009
+Lexus LX  First generation   1	modelEndYear	1998
+Lexus LX  Second generation   1	modelEndYear	2007
+Ford Super Duty  First generation   1	modelEndYear	1999
+Vector W8	modelEndYear	1992
+Kia Cerato  First generation   1	modelEndYear	2009
+Toyota Highlander  First generation   1	modelEndYear	2007
+Saturn Outlook	modelEndYear	2010
+Devrim	modelEndYear	1961
+Chrysler Aspen	modelEndYear	2009
+Ford Taurus SHO	modelEndYear	1989
+Ford Taurus SHO  First generation   1	modelEndYear	1991
+Ford Taurus SHO  Second generation   1	modelEndYear	1995
+Ford Taurus SHO  Third generation   1	modelEndYear	1999
+Oldsmobile Vista Cruiser	modelEndYear	1977
+Oldsmobile Vista Cruiser  First generation   1	modelEndYear	1967
+Oldsmobile Vista Cruiser  Second generation   1	modelEndYear	1972
+Oldsmobile Vista Cruiser  Third generation   1	modelEndYear	1977
+Ford Fusion (Americas)  2006-2009   1	modelEndYear	2009
+Mitsubishi Endeavor	modelEndYear	2011
+Honda Phantom	modelEndYear	2010
+Wayne Busette	modelEndYear	1990
+Infiniti G  25, G35 and G37 V36   1	modelEndYear	2007
+GMC Sprint / Caballero	modelEndYear	1971
+GMC Sprint / Caballero  First generation Sprint   1	modelEndYear	1972
+GMC Sprint / Caballero  Second generation Sprint   1	modelEndYear	1977
+GMC Sprint / Caballero  GMC Caballero   1	modelEndYear	1987
+Chevrolet Cobalt SS	modelEndYear	2010
+Lincoln Mark series  Mark III, IV and V 1958–1960   1	modelEndYear	1960
+Proton Persona	modelEndYear	2010
+Dodge Charger (LX)  First generation   1	modelEndYear	2010
+Chevrolet Greenbrier  Second generation   1	modelEndYear	1972
+Pontiac G5	modelEndYear	2005
+Lincoln Premiere  1958-60 Lincoln Premiere   1	modelEndYear	1960
+Lincoln Capri  1	modelEndYear	1959
+Dacia Pick-Up	modelEndYear	1975
+Chevrolet Corvette (C5)	modelEndYear	2004
+Chevrolet Corvette (C1)	modelEndYear	1962
+Chevrolet Corvette (C2)	modelEndYear	1967
+Chevrolet Corvette (C3)	modelEndYear	1982
+Chevrolet Corvette (C4)	modelEndYear	1996
+Chrysler Airstream	modelEndYear	1936
+Pontiac Grand Safari  Generation one   1	modelEndYear	1976
+Pontiac Grand Safari  Generation two   1	modelEndYear	1978
+Lincoln Continental Mark VI	modelEndYear	1983
+Presidential state car (United States)	modelEndYear	2009
+Suzuki GSX-R/4	modelEndYear	2001
+Chevrolet Camaro B4C	modelEndYear	2002
+Dacia 1300	modelEndYear	1969
+Mack R series	modelEndYear	2005
+Pontiac G8	modelEndYear	2009
+Dacia Nova	modelEndYear	1995
+Gillig Phantom	modelEndYear	2008
+Chevrolet Chevelle Laguna	modelEndYear	1976
+Chevrolet Camaro (second generation)	modelEndYear	1981
+Chevrolet Camaro (first generation)	modelEndYear	1969
+Ford Focus (second generation, North America)	modelEndYear	2011
+Buick Y-Job	modelEndYear	1938
+Plymouth Slingshot	modelEndYear	1988
+Chevrolet Traverse	modelEndYear	2009
+Ford Granada (North America)	modelEndYear	1982
+Gillig Transit Coach School Bus	modelEndYear	1982
+Hummer H3T	modelEndYear	2010
+Ford Mustang (fifth generation)  2005–2009 Mustang   1	modelEndYear	2009
+Lada Nadezhda	modelEndYear	1999
+Toyota Corolla (E120)	modelEndYear	2008
+Honda Civic (seventh generation)	modelEndYear	2005
+Honda Civic (eighth generation)	modelEndYear	2011
+BMW X1	modelEndYear	2011
+Honda Rincon	modelEndYear	2005
+Honda Rincon    1	modelEndYear	2011
+Nissan Saurus	modelEndYear	1987
+Pennant (automobile)	modelEndYear	1925
+Subaru Legacy (third generation)	modelEndYear	2003
+Micro Trend	modelEndYear	2003
+Jaguar X350	modelEndYear	2007
+Toyota Camry (XV30)	modelEndYear	2006
+Honda Accord (North America seventh generation)	modelEndYear	2007
+Hennessey Venom GT	modelEndYear	2011
+BMW 3 Series (F30)	modelEndYear	2013
+Hyundai Elantra (HD)	modelEndYear	2010
+IKCO Samand Soren	modelEndYear	1386
+Chevrolet Impala (fifth generation)	modelEndYear	1976
+Chevrolet Impala (fourth generation)	modelEndYear	1970
+Toyota Prius (XW20)	modelEndYear	2009
+Pontiac T1000/1000	modelEndYear	1987
+Ford Transit bus	modelEndYear	1947
+Huayra Pronello Ford	modelEndYear	1970
+Chevrolet Cosworth Vega	modelEndYear	1976
+Lotus Etna	modelEndYear	1984
+Buick Rainier	modelEndYear	2007
+Lexus RX  First generation XU10   1	modelEndYear	2003
+Lexus RX  Second generation XU30   1	modelEndYear	2009
+EVcort	modelEndYear	1994
+Ford Focus (first generation)  North America   1	modelEndYear	2007
+SSC Tuatara	modelEndYear	2012

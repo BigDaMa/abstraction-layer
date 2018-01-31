@@ -1,0 +1,76 @@
+2003 European Grand Prix	firstDriverCountry	Germany
+2004 European Grand Prix	firstDriverCountry	Germany
+1950 Italian Grand Prix	firstDriverCountry	Italy
+1951 Italian Grand Prix	firstDriverCountry	Italy
+1952 Italian Grand Prix	firstDriverCountry	Italy
+1954 Argentine Grand Prix	firstDriverCountry	Argentina
+1973 Brazilian Grand Prix	firstDriverCountry	Brazil
+1977 Swedish Grand Prix	firstDriverCountry	France
+1984 Austrian Grand Prix	firstDriverCountry	Austria
+1985 San Marino Grand Prix	firstDriverCountry	Italy
+1986 Brazilian Grand Prix	firstDriverCountry	Brazil
+1988 French Grand Prix	firstDriverCountry	France
+1989 San Marino Grand Prix	firstDriverCountry	1989 Brazilian Grand Prix
+1989 French Grand Prix	firstDriverCountry	France
+1990 San Marino Grand Prix	firstDriverCountry	Italy
+1990 French Grand Prix	firstDriverCountry	France
+1991 Brazilian Grand Prix	firstDriverCountry	Brazil
+1993 Brazilian Grand Prix	firstDriverCountry	Brazil
+1995 Pacific Grand Prix	firstDriverCountry	1995 German Grand Prix
+2000 European Grand Prix	firstDriverCountry	Germany
+2001 European Grand Prix	firstDriverCountry	Germany
+2001 German Grand Prix	firstDriverCountry	Germany
+2002 German Grand Prix	firstDriverCountry	Germany
+2004 German Grand Prix	firstDriverCountry	Germany
+1926 German Grand Prix	firstDriverCountry	Germany
+2006 European Grand Prix	firstDriverCountry	Germany
+2006 Spanish Grand Prix	firstDriverCountry	Spain
+2006 German Grand Prix	firstDriverCountry	Germany
+2006 Brazilian Grand Prix	firstDriverCountry	Brazil
+1936 German Grand Prix	firstDriverCountry	Germany
+1937 German Grand Prix	firstDriverCountry	Germany
+1931 Italian Grand Prix	firstDriverCountry	Italy
+1932 Italian Grand Prix	firstDriverCountry	Italy
+1932 German Grand Prix	firstDriverCountry	Germany
+1938 Italian Grand Prix	firstDriverCountry	Italy
+1939 German Grand Prix	firstDriverCountry	Germany
+1931 German Grand Prix	firstDriverCountry	Germany
+1946 René le Bègue Cup	firstDriverCountry	France
+1946 Turin Grand Prix	firstDriverCountry	Italy
+1947 Italian Grand Prix	firstDriverCountry	Italy
+1980 Australian Grand Prix	firstDriverCountry	Australia
+1912 French Grand Prix	firstDriverCountry	France
+1913 French Grand Prix	firstDriverCountry	France
+2008 Brazilian Grand Prix	firstDriverCountry	Brazil
+1979 Australian Grand Prix	firstDriverCountry	Australia
+1965 Race of Champions	firstDriverCountry	United Kingdom
+1964 Australian Grand Prix	firstDriverCountry	Australia
+1974 Australian Grand Prix	firstDriverCountry	Australia
+1970 Australian Grand Prix	firstDriverCountry	Australia
+1971 Australian Grand Prix	firstDriverCountry	Australia
+1975 Australian Grand Prix	firstDriverCountry	Australia
+1976 Australian Grand Prix	firstDriverCountry	Australia
+1977 Australian Grand Prix	firstDriverCountry	Australia
+1963 Australian Grand Prix	firstDriverCountry	Australia
+1947 Roussillon Grand Prix	firstDriverCountry	France
+1946 Roussillon Grand Prix	firstDriverCountry	France
+1948 Roussillon Grand Prix	firstDriverCountry	France
+1950 Paris Grand Prix	firstDriverCountry	France
+1950 Bari Grand Prix	firstDriverCountry	Italy
+1922 Italian Grand Prix	firstDriverCountry	Italy
+1949 Italian Grand Prix	firstDriverCountry	Italy
+1923 Italian Grand Prix	firstDriverCountry	Italy
+1924 Italian Grand Prix	firstDriverCountry	Italy
+1925 Italian Grand Prix	firstDriverCountry	Italy
+2009 European Grand Prix	firstDriverCountry	Brazil
+1925 French Grand Prix	firstDriverCountry	France
+1964 New Zealand Grand Prix	firstDriverCountry	New Zealand
+1926 French Grand Prix	firstDriverCountry	France
+1934 German Grand Prix	firstDriverCountry	Germany
+1970 Race of Champions	firstDriverCountry	United Kingdom
+1969 Race of Champions	firstDriverCountry	United Kingdom
+1912 American Grand Prize	firstDriverCountry	United States
+1911 American Grand Prize	firstDriverCountry	United States
+1914 American Grand Prize	firstDriverCountry	United States
+1947 French Grand Prix	firstDriverCountry	France
+1900 Gordon Bennett Cup	firstDriverCountry	France

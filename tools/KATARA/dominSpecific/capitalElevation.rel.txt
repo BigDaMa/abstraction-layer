@@ -1,0 +1,53 @@
+Azores	capitalElevation	22.0
+Albany County, New York	capitalElevation	60.96
+Rensselaer County, New York	capitalElevation	9.144
+Boone County, Missouri	capitalElevation	214.884
+Algarve	capitalElevation	11.0
+San Cristóbal Province	capitalElevation	33.0
+Bocas del Toro Province	capitalElevation	3.0
+Prešov Region	capitalElevation	250.0
+Liberec Region	capitalElevation	374.0
+Plzeň Region	capitalElevation	310.0
+Azua Province	capitalElevation	83.0
+Baoruco Province	capitalElevation	30.0
+Barahona Province	capitalElevation	10.0
+Duarte Province	capitalElevation	110.0
+Dajabón Province	capitalElevation	35.0
+Elías Piña Province	capitalElevation	395.0
+El Seibo	capitalElevation	117.0
+Espaillat Province	capitalElevation	183.0
+Hato Mayor Province	capitalElevation	102.0
+Independencia Province	capitalElevation	31.0
+La Altagracia Province	capitalElevation	106.0
+La Romana Province	capitalElevation	10.0
+La Vega Province	capitalElevation	100.0
+María Trinidad Sánchez Province	capitalElevation	3.0
+Monseñor Nouel Province	capitalElevation	173.0
+Monte Cristi Province	capitalElevation	16.0
+Monte Plata Province	capitalElevation	56.0
+Pedernales Province	capitalElevation	10.0
+Peravia Province	capitalElevation	61.0
+Hermanas Mirabal Province	capitalElevation	196.0
+Samaná Province	capitalElevation	5.0
+Puerto Plata Province	capitalElevation	8.0
+Sánchez Ramírez Province	capitalElevation	66.0
+San Pedro de Macorís Province	capitalElevation	4.0
+San José de Ocoa Province	capitalElevation	475.0
+Santiago Rodríguez Province	capitalElevation	124.0
+Santiago Province (Dominican Republic)	capitalElevation	175.0
+Valverde Province	capitalElevation	78.0
+Distrito Nacional	capitalElevation	14.0
+Trenčín Region	capitalElevation	342.0
+Trnava Region	capitalElevation	342.0
+Nitra Region	capitalElevation	190.0
+Bratislava Region	capitalElevation	134.0
+Bragança District	capitalElevation	679.0
+Žilina Region	capitalElevation	342.0
+Banská Bystrica Region	capitalElevation	362.0
+Košice Region	capitalElevation	206.0
+Centro Region, Portugal	capitalElevation	119.0
+Lisboa Region	capitalElevation	2.0
+Talamanca Canton	capitalElevation	43.0
+Colón Island	capitalElevation	3.0
+San Juan Province (Dominican Republic)	capitalElevation	415.0
+Bocas del Toro Archipelago	capitalElevation	3.0

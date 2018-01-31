@@ -1,0 +1,524 @@
+British Airways	destination	British Airways destinations
+Silver City Airways	destination	British Isles
+Silver City Airways	destination	Europe
+Avianca	destination	Avianca#Destinations
+Avianca	destination	Avianca Brazil
+Aerolíneas Argentinas	destination	Aerolíneas Argentinas destinations
+PLUNA	destination	PLUNA destinations
+Hapag-Lloyd Flug	destination	TUIfly
+Kenya Airways	destination	Kenya Airways destinations
+Cathay Pacific	destination	Cathay Pacific destinations
+Malaysia Airlines	destination	Malaysia Airlines destinations
+Air Mauritius	destination	Air Mauritius destinations
+Culebra Air Services	destination	Luis Muñoz Marín International Airport
+Culebra Air Services	destination	Culebra, Puerto Rico
+EasyJet	destination	EasyJet destinations
+SAM Colombia	destination	Avianca destinations
+Austral Líneas Aéreas	destination	Austral Líneas Aéreas destinations
+KLM uk	destination	United Kingdom
+KLM uk	destination	Continental Europe
+LTU International	destination	Air Berlin
+Air Midwest	destination	Air Midwest destinations
+Reeve Aleutian Airways	destination	Aleutian Islands
+Reeve Aleutian Airways	destination	Seattle
+Our Airline	destination	Brisbane
+Our Airline	destination	Honiara
+Our Airline	destination	South Tarawa
+Sudan Airways	destination	Sudan Airways destinations
+Ethiopian Airlines	destination	Ethiopian Airlines destinations
+Air Namibia	destination	Air Namibia destinations
+British Caledonian	destination	British Isles
+British Caledonian	destination	Continental Europe
+British Caledonian	destination	West Africa
+British Caledonian	destination	Southern Africa
+British Caledonian	destination	Middle East
+British Caledonian	destination	Far East
+British Caledonian	destination	North America
+Carnival Air Lines	destination	Hartford, Connecticut
+Carnival Air Lines	destination	Worcester, Massachusetts
+Carnival Air Lines	destination	Newburgh (city), New York
+Carnival Air Lines	destination	Islip (town), New York
+Carnival Air Lines	destination	White Plains, New York
+Carnival Air Lines	destination	New York City
+Carnival Air Lines	destination	Newark, New Jersey
+Carnival Air Lines	destination	Los Angeles
+Carnival Air Lines	destination	Orlando, Florida
+Carnival Air Lines	destination	West Palm Beach, Florida
+Carnival Air Lines	destination	Tampa, Florida
+Carnival Air Lines	destination	Fort Lauderdale, Florida
+Carnival Air Lines	destination	Fort Myers, Florida
+Carnival Air Lines	destination	Miami
+Carnival Air Lines	destination	Nassau, Bahamas
+Carnival Air Lines	destination	Port-au-Prince
+Carnival Air Lines	destination	Aguadilla, Puerto Rico
+Carnival Air Lines	destination	Ponce, Puerto Rico
+Carnival Air Lines	destination	San Juan, Puerto Rico
+US Airways Shuttle	destination	Boston
+US Airways Shuttle	destination	New York City
+US Airways Shuttle	destination	Washington, D.C.
+ACES Colombia	destination	Avianca destinations
+SCADTA	destination	Avianca destinations#Terminated destinations
+Hapag-Lloyd Express	destination	TUIfly
+Air Europe	destination	Europe
+Air Europe	destination	North America
+Air 2000	destination	Europe
+Air 2000	destination	North America
+Air 2000	destination	Africa
+Mohawk Airlines	destination	Albany, New York
+Mohawk Airlines	destination	Buffalo, New York
+Mohawk Airlines	destination	Erie, Pennsylvania
+Mohawk Airlines	destination	Glens Falls, New York
+Mohawk Airlines	destination	Ithaca, New York
+Mohawk Airlines	destination	New York
+Mohawk Airlines	destination	Newark, New Jersey
+Mohawk Airlines	destination	Hartford, Connecticut
+Mohawk Airlines	destination	Montreal
+Mohawk Airlines	destination	Rochester, New York
+Mohawk Airlines	destination	Syracuse, New York
+Mohawk Airlines	destination	Utica, New York
+Air Niagara	destination	Newark, New Jersey
+Air Niagara	destination	Niagara Falls
+SAHSA	destination	Central America
+SAHSA	destination	North America
+SAHSA	destination	South America
+Air Zimbabwe	destination	Air Zimbabwe destinations
+Air Rhodesia	destination	South Africa
+Air Rhodesia	destination	Malawi
+Air Rhodesia	destination	Mozambique
+Air Madagascar	destination	Air Madagascar destinations
+EUjet	destination	Ireland
+CityFlyer Express	destination	British Isles
+CityFlyer Express	destination	Continental Europe
+TEAL	destination	Auckland
+TEAL	destination	Sydney
+TEAL	destination	Wellington
+TEAL	destination	Melbourne
+TEAL	destination	Fiji
+TEAL	destination	Tahiti
+TEAL	destination	Cook Islands
+National Airways Corporation	destination	Kaitaia
+National Airways Corporation	destination	Whangarei
+National Airways Corporation	destination	Auckland
+National Airways Corporation	destination	Hamilton, New Zealand
+National Airways Corporation	destination	Tauranga
+National Airways Corporation	destination	Whakatane
+National Airways Corporation	destination	Rotorua
+National Airways Corporation	destination	Taupo
+National Airways Corporation	destination	Gisborne, New Zealand
+National Airways Corporation	destination	Napier, New Zealand
+National Airways Corporation	destination	New Plymouth
+National Airways Corporation	destination	Whanganui
+National Airways Corporation	destination	Palmerston North
+National Airways Corporation	destination	Wellington
+National Airways Corporation	destination	Blenheim, New Zealand
+National Airways Corporation	destination	Nelson, New Zealand
+National Airways Corporation	destination	Westport, New Zealand
+National Airways Corporation	destination	Hokitika
+National Airways Corporation	destination	Christchurch
+National Airways Corporation	destination	Oamaru
+National Airways Corporation	destination	Timaru
+National Airways Corporation	destination	Dunedin
+National Airways Corporation	destination	Invercargill
+AirUK	destination	British Isles
+AirUK	destination	Continental Europe
+Laker Airways	destination	Europe
+Laker Airways	destination	North America
+Laker Airways	destination	Asia
+Eastern Provincial Airways	destination	Atlantic Canada
+Eastern Provincial Airways	destination	Montreal
+Eastern Provincial Airways	destination	Ottawa
+Eastern Provincial Airways	destination	Toronto
+Nordair	destination	Canada
+TAAG Angola Airlines	destination	TAAG Angola Airlines destinations
+Sunshine Express Airlines	destination	Brisbane
+Sunshine Express Airlines	destination	Biloela
+Sunshine Express Airlines	destination	Coffs Harbour
+Sunshine Express Airlines	destination	Port Macquarie
+Sunshine Express Airlines	destination	Hervey Bay
+Sunshine Express Airlines	destination	Maryborough, Queensland
+Sunshine Express Airlines	destination	Sunshine Coast, Queensland
+Sunshine Express Airlines	destination	Tamworth, New South Wales
+Norfolk Jet Express	destination	Norfolk Island
+Norfolk Jet Express	destination	Brisbane
+Norfolk Jet Express	destination	Sydney
+Norfolk Jet Express	destination	Auckland
+Aeromás	destination	Uruguay
+Aeromás	destination	Argentina
+Aeromás	destination	Brazil
+Aeromás	destination	Paraguay
+AeroHonduras	destination	Managua
+AeroHonduras	destination	Miami
+Air Littoral	destination	France
+Air Jamaica Express	destination	Jamaica
+LAM Mozambique Airlines	destination	LAM Mozambique Airlines destinations
+Jatayu Airlines	destination	Asia
+Somali Airlines	destination	Amsterdam
+Somali Airlines	destination	Jeddah
+Somali Airlines	destination	Nairobi
+Somali Airlines	destination	Djibouti
+Somali Airlines	destination	Addis Ababa
+Somali Airlines	destination	Dubai
+Somali Airlines	destination	Sana'a
+Somali Airlines	destination	Aden
+Somali Airlines	destination	Kuwait
+Somali Airlines	destination	Moscow
+Somali Airlines	destination	Seychelles
+Somali Airlines	destination	Frankfurt
+Somali Airlines	destination	London
+Somali Airlines	destination	Cairo
+Somali Airlines	destination	Rome
+Zoom Airways	destination	Dhaka
+Royal Aviation	destination	Canada
+Air Nunavut	destination	Air charter
+Air Nunavut	destination	Medical evacuation
+Origin Pacific Airways	destination	Origin Pacific Airways#Destinations
+Air Haïti	destination	Toussaint Louverture International Airport
+Air Haïti	destination	East Lébér International Airport
+Air Haïti	destination	Pairs Orly airport
+European Air Transport	destination	Europe
+Copenhagen Air Taxi	destination	Roskilde
+Copenhagen Air Taxi	destination	Anholt
+Copenhagen Air Taxi	destination	Læsø
+Manchukuo National Airways	destination	Empire of Japan
+Manchukuo National Airways	destination	Germany
+Medavia	destination	Tripoli International Airport
+Medavia	destination	Libyan Desert
+Heli Air Monaco	destination	Nice Côte d'Azur Airport
+Airmark Indonesia	destination	Indonesia
+Airmark Indonesia	destination	Denpasar
+Airmark Indonesia	destination	Seoul
+Airmark Indonesia	destination	Ukraine
+Airmark Indonesia	destination	Kiev
+Air Hokkaido	destination	Hakodate Airport
+Air Hokkaido	destination	Kansai International Airport
+Air Hokkaido	destination	Kitakyūshū Airport
+Air Hokkaido	destination	Naha Airport
+LAN Perú	destination	LAN Perú destinations
+Greyhound Air	destination	Canada
+AeroSucre	destination	Colombia
+Air Afrique	destination	Air Afrique destinations
+Air Vegas	destination	Grand Canyon
+Air Vegas	destination	Arizona
+Aéropostale (aviation)	destination	Barcelona
+Aéropostale (aviation)	destination	Dakar
+Aéropostale (aviation)	destination	Casablanca
+AV8 Air	destination	Cape Town
+Aspiring Air	destination	Queenstown, New Zealand
+Oasis Hong Kong Airlines	destination	Hong Kong
+Oasis Hong Kong Airlines	destination	London
+Oasis Hong Kong Airlines	destination	Vancouver
+NetJets	destination	Point-to-point transit
+Kenmore Air	destination	Olympic Peninsula
+Kenmore Air	destination	San Juan Islands
+Kenmore Air	destination	Victoria, British Columbia
+Air Nelson	destination	Kerikeri
+Air Nelson	destination	Auckland
+Air Nelson	destination	Hamilton, New Zealand
+Air Nelson	destination	Tauranga
+Air Nelson	destination	Rotorua
+Air Nelson	destination	Gisborne
+Air Nelson	destination	New Plymouth
+Air Nelson	destination	Napier, New Zealand
+Air Nelson	destination	Palmerston North
+Air Nelson	destination	Paraparaumu
+Air Nelson	destination	Wellington
+Air Nelson	destination	Nelson, New Zealand
+Air Nelson	destination	Blenheim, New Zealand
+Air Nelson	destination	Hokitika
+Air Nelson	destination	Christchurch
+Air Nelson	destination	Dunedin
+Air Nelson	destination	Invercargill
+Airtours International Airways	destination	Europe
+Airtours International Airways	destination	North America
+DHL Aero Expreso	destination	Latin America
+Air Nepal International	destination	Kathmandu
+Air Nepal International	destination	Kuala Lumpur
+Air Nepal International	destination	Doha
+Air Nepal International	destination	Dubai
+Air Nepal International	destination	Bangkok
+British United Airways	destination	British Isles
+British United Airways	destination	Continental Europe
+British United Airways	destination	East Africa
+British United Airways	destination	West Africa
+British United Airways	destination	Southern Africa
+British United Airways	destination	South America
+Cascade Airways	destination	Seattle
+Cascade Airways	destination	Salt Lake City
+Cascade Airways	destination	Spokane, Washington
+Cascade Airways	destination	Pullman, Washington
+Cascade Airways	destination	Boise, Idaho
+Cascade Airways	destination	Yakima, Washington
+Cascade Airways	destination	Washington (state)
+Cascade Airways	destination	Washington (state)
+Cascade Airways	destination	Washington (state)
+Eco Airlines	destination	Brisbane
+Eco Airlines	destination	Honiara
+Eco Airlines	destination	Tarawa
+Eco Airlines	destination	Pacific Islands
+KD Air	destination	Vancouver
+KD Air	destination	Qualicum Beach, British Columbia
+KD Air	destination	Port Alberni
+Air Inter	destination	France
+Air Inter	destination	Europe
+NorOntair	destination	Kapuskasing
+NorOntair	destination	Timmins
+NorOntair	destination	North Bay, Ontario
+NorOntair	destination	Greater Sudbury
+NorOntair	destination	Sault Ste. Marie, Ontario
+NorOntair	destination	Thunder Bay
+NorOntair	destination	Fort Frances
+NorOntair	destination	Hearst, Ontario
+NorOntair	destination	Chapleau, Ontario
+NorOntair	destination	Armstrong, Ontario
+NorOntair	destination	Elliot Lake
+NorOntair	destination	Greenstone, Ontario
+NorOntair	destination	Gore Bay, Ontario
+NorOntair	destination	Hornepayne, Ontario
+NorOntair	destination	Kirkland Lake
+NorOntair	destination	Terrace Bay
+NorOntair	destination	Pickle Lake, Ontario
+NorOntair	destination	Red Lake, Ontario
+NorOntair	destination	Kenora
+NorOntair	destination	Atikokan
+NorOntair	destination	Sioux Lookout
+NorOntair	destination	Wawa, Ontario
+Cougar Helicopters	destination	Hibernia Gravity Base Structure
+Cougar Helicopters	destination	White Rose oil field
+Val Air	destination	Quebec City
+Haïti Ambassador Airlines	destination	John F. Kennedy International Airport
+Haïti Ambassador Airlines	destination	Toussaint Louverture International Airport
+Helicol	destination	Avianca destinations
+Galaxy Airlines (Japan)	destination	New Chitose Airport
+Galaxy Airlines (Japan)	destination	Kansai International Airport
+Galaxy Airlines (Japan)	destination	Kitakyūshū Airport
+Galaxy Airlines (Japan)	destination	Naha Airport
+Nigeria Airways	destination	Nigeria Airways destinations
+Air Turquoise	destination	London
+Air Turquoise	destination	Bordeaux
+Air Turquoise	destination	Marseille
+Golden Bay Air	destination	Wellington
+Golden Bay Air	destination	Karamea
+Sounds Air	destination	Wellington
+Sounds Air	destination	Picton, New Zealand
+Sounds Air	destination	Nelson, New Zealand
+Sounds Air	destination	Blenheim, New Zealand
+British United Island Airways	destination	Europe
+TranStar Airlines	destination	Texas
+TranStar Airlines	destination	California
+Canadian Affair	destination	Toronto
+Prince Aviation	destination	Very Important Person
+British Island Airways	destination	Europe
+Avianca Cargo	destination	Avianca destinations
+Lamb Air	destination	Canada
+Rhodesian Air Services	destination	Mozambique
+Air Trans Africa	destination	Africa
+Air Trans Africa	destination	Europe
+Manx Airlines	destination	Birmingham Airport, England
+Cal Air International	destination	Europe
+Cal Air International	destination	Africa
+Cal Air International	destination	United States
+Cal Air International	destination	Canada
+Novair International Airways	destination	Mediterranean Sea
+Novair International Airways	destination	North America
+British United Air Ferries	destination	Channel Islands
+British United Air Ferries	destination	Continental Europe
+Mountain Air (Nepal)	destination	Nepal
+Mountain Air (Nepal)	destination	Siddharthanagar
+Mountain Air (Nepal)	destination	Biratnagar
+Mountain Air (Nepal)	destination	Nepalgunj
+Mountain Air (Nepal)	destination	Pokhara
+La Costeña	destination	Waspam
+La Costeña	destination	Puerto Cabezas
+La Costeña	destination	Bonanza
+La Costeña	destination	Siuna
+La Costeña	destination	Rosita
+La Costeña	destination	Bluefields
+La Costeña	destination	San Carlos, Río San Juan
+La Costeña	destination	Corn Islands
+Jetalliance	destination	Europe
+Mountain Air Cargo	destination	Caribbean
+AccessAir	destination	Los Angeles
+Airwork Services	destination	East Africa
+Airwork Services	destination	Central Africa
+Airwork Services	destination	Southern Africa
+Airwork Services	destination	West Africa
+Pacific Air Express	destination	Brisbane
+Pacific Air Express	destination	Honiara
+Pacific Air Express	destination	Port Vila
+Sierra National Airlines	destination	London
+Sierra National Airlines	destination	Banjul
+Sierra National Airlines	destination	Monrovia
+Sierra National Airlines	destination	Conakry
+Sierra National Airlines	destination	Amsterdam
+British Eagle	destination	United Kingdom
+British Eagle	destination	Europe
+British Eagle	destination	Bermuda
+British Eagle	destination	The Bahamas
+British Eagle	destination	United States
+British Eagle	destination	Western Hemisphere
+Orionair	destination	Europe
+Flying Colours Airlines	destination	Europe
+Flying Colours Airlines	destination	North America
+Flying Colours Airlines	destination	Caribbean
+Eagle Air (Sierra Leone)	destination	Nzérékoré
+Eagle Air (Sierra Leone)	destination	Kankan
+Eagle Air (Sierra Leone)	destination	Kindia
+Eagle Air (Sierra Leone)	destination	Boké
+Eagle Air (Sierra Leone)	destination	Labé
+Eagle Air (Sierra Leone)	destination	Monrovia
+Eagle Air (Sierra Leone)	destination	Sierra Leone
+Eagle Air (Sierra Leone)	destination	Banjul
+Eagle Air (Sierra Leone)	destination	Dakar
+Superior Airways	destination	Canada
+Nicon Airways	destination	Lagos
+Nicon Airways	destination	Abuja
+Nicon Airways	destination	Jos
+Allied Air	destination	Entebbe
+Allied Air	destination	Accra
+Imperial Air Cargo	destination	Johannesburg
+Air Sylhet	destination	Amritsar
+United p.s.	destination	John F. Kennedy International Airport
+United p.s.	destination	Los Angeles International Airport
+United p.s.	destination	San Francisco International Airport
+Central African Airways	destination	South Africa
+Central African Airways	destination	Malawi
+Central African Airways	destination	Mozambique
+Central African Airways	destination	United Kingdom
+Rhodesia United Air Carriers	destination	South Africa
+Air New Orleans	destination	Southeastern United States
+Société Générale des Transports Aériens	destination	Croydon Airport
+Société Générale des Transports Aériens	destination	Surrey
+Société Générale des Transports Aériens	destination	United Kingdom
+Air New Zealand Link	destination	Air New Zealand Link#Destinations
+Air Ferry Limited	destination	British Isles
+Air Ferry Limited	destination	Continental Europe
+Alaska Coastal Airlines	destination	Alaska
+Alaska Coastal Airlines	destination	British Columbia
+Red Baron Airlines	destination	Gainesville, Florida
+Red Baron Airlines	destination	Tallahassee, Florida
+Florida Commuter Airlines	destination	Gainesville, Florida
+Florida Commuter Airlines	destination	Tallahassee, Florida
+Florida Commuter Airlines	destination	Jacksonville, Florida
+Florida Commuter Airlines	destination	Freeport, Bahamas
+Los Angeles Airways	destination	Disneyland
+Los Angeles Airways	destination	Newport Beach, California
+Líneas Aéreas Nacionales S. A. (Peru)	destination	Cusco
+Líneas Aéreas Nacionales S. A. (Peru)	destination	Iquitos
+Shoal Air	destination	Kimberley (Western Australia)
+Shoal Air	destination	Top End
+Wataniya Airways	destination	Codeshare agreement
+Compagnie des Messageries Aériennes	destination	Brussels Haren Airport
+Compagnie des Messageries Aériennes	destination	Brussels
+Compagnie des Messageries Aériennes	destination	Belgium
+Compagnie des Messageries Aériennes	destination	Lille Airport
+Compagnie des Messageries Aériennes	destination	Lille
+Compagnie des Messageries Aériennes	destination	France
+Compagnie des Messageries Aériennes	destination	Hounslow Heath Aerodrome
+Compagnie des Messageries Aériennes	destination	Middlesex
+Compagnie des Messageries Aériennes	destination	United Kingdom
+Air Union	destination	Croydon Airport
+Laker Airways (Bahamas)	destination	Gatwick Airport
+Laker Airways (Bahamas)	destination	Manchester Airport
+Laker Airways (Bahamas)	destination	Glasgow Prestwick Airport
+Laker Airways (Bahamas)	destination	Miami International Airport
+Laker Airways (Bahamas)	destination	Cincinnati/Northern Kentucky International Airport
+Laker Airways (Bahamas)	destination	Raleigh-Durham International Airport
+Laker Airways (Bahamas)	destination	Richmond International Airport
+Laker Airways (Bahamas)	destination	Nashville International Airport
+ElbaFly	destination	Milan
+ElbaFly	destination	Pisa
+ElbaFly	destination	Florence
+Nova Airline	destination	Khartoum
+Ukrvozdukhput	destination	Odessa
+Ukrvozdukhput	destination	Kiev
+Ukrvozdukhput	destination	Moscow
+Ukrvozdukhput	destination	Rostov-on-Don
+Jes Air	destination	Singapore
+Channel Air Bridge	destination	United Kingdom
+Channel Air Bridge	destination	Continental Europe
+Bond Offshore Helicopters	destination	BP
+Belau Air	destination	Airai
+Belau Air	destination	Peleliu
+Belau Air	destination	Angaur
+LANCO	destination	LANCO#Destinations
+Hunting-Clan Air Transport	destination	British Isles
+Hunting-Clan Air Transport	destination	Continental Europe
+Hunting-Clan Air Transport	destination	Mediterranean Sea
+Hunting-Clan Air Transport	destination	East Africa
+Hunting-Clan Air Transport	destination	Central Africa
+Hunting-Clan Air Transport	destination	Southern Africa
+Hunting-Clan Air Transport	destination	West Africa
+Transair (UK)	destination	British Isles
+Transair (UK)	destination	Europe
+Morton Air Services	destination	British Isles
+Morton Air Services	destination	Continental Europe
+East African Air	destination	Mwanza
+East African Air	destination	Mount Kilimanjaro
+East African Air	destination	Nairobi
+East African Air	destination	Johannesburg
+Jersey Airlines	destination	Europe
+Intra Airways	destination	British Isles
+Intra Airways	destination	Continental Europe
+Ryan Air Services	destination	The Bush (Alaska)
+United Airways Limited	destination	Isle of Man
+United Airways Limited	destination	Carlisle, Cumbria
+Ontario Central Airlines	destination	Red Lake Airport
+Silverfly (airline)	destination	Medan
+Silverfly (airline)	destination	Kota Bharu
+Silverfly (airline)	destination	Subang, Selangor
+Silverfly (airline)	destination	Singapore
+Salt Air	destination	Kerikeri
+Inter European Airways	destination	Europe
+Grant Aviation	destination	Grant Aviation destinations
+Intair	destination	Toronto
+Intair	destination	Montreal
+Intair	destination	Orlando, Florida
+Intair	destination	Fort Lauderdale, Florida
+Nesma Airlines	destination	Europe
+AeroLyon	destination	Caribbean
+AeroLyon	destination	Caribbean
+XOJET	destination	Point-to-point transit
+Rayyan Air	destination	Kuwait
+Rayyan Air	destination	United Arab Emirates
+Rayyan Air	destination	Bahrain
+Pentastar aviation	destination	Point-to-point transit
+Union de Transports Aériens	destination	Europe
+Union de Transports Aériens	destination	North Africa
+Union de Transports Aériens	destination	West Africa
+Union de Transports Aériens	destination	Senegal
+Union de Transports Aériens	destination	Southern Africa
+Union de Transports Aériens	destination	South Africa
+Union de Transports Aériens	destination	Réunion
+Union de Transports Aériens	destination	Middle East
+Union de Transports Aériens	destination	Bahrain
+Union de Transports Aériens	destination	Oman
+Union de Transports Aériens	destination	South Asia
+Union de Transports Aériens	destination	Southeast Asia
+Union de Transports Aériens	destination	Indonesia
+Union de Transports Aériens	destination	Malaysia
+Union de Transports Aériens	destination	Singapore
+Union de Transports Aériens	destination	Far East
+Union de Transports Aériens	destination	Australia
+Union de Transports Aériens	destination	New Zealand
+Union de Transports Aériens	destination	Tahiti
+Union de Transports Aériens	destination	North America
+Union de Transports Aériens	destination	United States
+Union de Transports Aériens	destination	Los Angeles
+Union de Transports Aériens	destination	San Francisco
+Florida Airways	destination	Miami
+Florida Airways	destination	Atlanta
+Czech Connect Airlines	destination	Moscow
+Czech Connect Airlines	destination	Saint Petersburg
+Czech Connect Airlines	destination	Yekaterinburg
+Air Timor	destination	Dili
+Air Timor	destination	Singapore
+Air Nicaragua	destination	Caracas
+Air Nicaragua	destination	Havana
+Air Nicaragua	destination	Mexico
+European Air Transport Leipzig	destination	Europe
+European Air Transport Leipzig	destination	Middle East
+Sol del Paraguay	destination	Sol del Paraguay#destinations
+Skyways Coach-Air Limited	destination	United Kingdom
+Skyways Coach-Air Limited	destination	Europe
+Skyways Coach-Air Limited  Skyways International   1	destination	United Kingdom
+Skyways Coach-Air Limited  Skyways International   1	destination	Europe

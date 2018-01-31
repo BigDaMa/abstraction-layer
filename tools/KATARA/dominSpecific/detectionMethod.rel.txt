@@ -1,0 +1,6 @@
+Rho Indi b	detectionMethod	Doppler Spectroscopy
+HD 41004	detectionMethod	radial velocity
+HD 41004 Ab	detectionMethod	radial velocity
+HD 75289 b	detectionMethod	Radial velocity
+HD 121504 b	detectionMethod	Radial velocity
+HD 121504 b	detectionMethod	(CORALIE)

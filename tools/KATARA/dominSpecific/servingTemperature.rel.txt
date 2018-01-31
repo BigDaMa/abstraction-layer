@@ -1,0 +1,205 @@
+Caesar salad	servingTemperature	Chilled or Room Temperature
+Cookie	servingTemperature	Variable
+French fries	servingTemperature	Hot, generally salted, often served with ketchup, vinegar, barbecue sauce, mayonnaise, or other sauces on the side
+Gazpacho	servingTemperature	Cold
+Grits	servingTemperature	warm to hot
+Potato chip	servingTemperature	Room temperature
+Spam (food)	servingTemperature	Hot or Cold
+Tapas	servingTemperature	Warm or cold
+Hamburger	servingTemperature	Hot
+Paella	servingTemperature	hot
+Tamale	servingTemperature	Warm/Hot
+Ceviche	servingTemperature	Cold; cooked or raw (marinated)
+Corned beef	servingTemperature	Hot or cold
+Poutine	servingTemperature	Hot
+Hummus	servingTemperature	Cold
+BLT	servingTemperature	Hot
+Buffalo wing	servingTemperature	Hot
+Cheeseburger	servingTemperature	Hot
+Falafel	servingTemperature	Hot
+Pasty	servingTemperature	Hot/Cold
+Hot dog	servingTemperature	Hot
+Waldorf salad	servingTemperature	Chilled
+Spanish omelette	servingTemperature	Hot or cold
+Black pudding	servingTemperature	Hot or cold
+Chicken fried steak	servingTemperature	Hot
+Chili con carne	servingTemperature	Hot (60 degrees Celsius +/-10)
+Cheesesteak	servingTemperature	Hot
+Churro	servingTemperature	Hot
+Crème caramel	servingTemperature	Cold
+Carbonara	servingTemperature	hot over pasta
+Chicken tikka masala	servingTemperature	Hot
+Pierogi	servingTemperature	Hot
+Pirozhki	servingTemperature	Warm or hot
+Macaroni and cheese	servingTemperature	Hot
+Fettuccine alfredo	servingTemperature	Hot
+Rendang	servingTemperature	Hot or room temperature
+Empanada	servingTemperature	Hot or Cold
+Stargazy pie	servingTemperature	Hot
+Fabada Asturiana	servingTemperature	Hot
+Fudge	servingTemperature	Room temperature
+Corn dog	servingTemperature	Hot
+Moussaka	servingTemperature	Hot
+Alfajor	servingTemperature	Cold
+Fried dough	servingTemperature	Warm
+Clam chowder	servingTemperature	Hot
+Bakewell tart	servingTemperature	Warm (freshly baked) or cold
+French dip sandwich	servingTemperature	Hot
+Bonda	servingTemperature	Hot
+Doner kebab	servingTemperature	Hot
+General Tso's chicken	servingTemperature	Hot
+Gulab jamun	servingTemperature	Hot, cold, or room temp
+Sloppy joe	servingTemperature	Hot, sometimes served cold after improvising on the original burger
+Frikadeller	servingTemperature	Hot or cold
+Tabbouleh	servingTemperature	cold
+Æbleskiver	servingTemperature	Hot
+Deviled egg	servingTemperature	Cold
+Asam Pedas	servingTemperature	Hot or room temperature
+Arroz a la cubana	servingTemperature	Hot
+Karedok	servingTemperature	room temperature
+Orange chicken	servingTemperature	Hot
+Jamón serrano	servingTemperature	Cold
+Salmorejo	servingTemperature	Cold
+Chicken fingers	servingTemperature	Hot
+Tater Tots	servingTemperature	Hot
+French onion soup	servingTemperature	hot
+Gado-gado	servingTemperature	room temperature
+Maple taffy	servingTemperature	Cold
+Migas	servingTemperature	Warm
+Ensaïmada	servingTemperature	Cold
+Smalahove	servingTemperature	Hot
+Cashew chicken	servingTemperature	Hot
+Beef on weck sandwich	servingTemperature	Hot
+Chicago-style hot dog	servingTemperature	Hot
+American chop suey	servingTemperature	Hot
+Kibbeh	servingTemperature	Hot
+Chicharrón	servingTemperature	Hot or cold
+Arròs negre	servingTemperature	Hot
+Sweet and sour pork	servingTemperature	Hot
+Sinigang	servingTemperature	Hot
+Lumpia	servingTemperature	hot or room temperature
+Tinola	servingTemperature	Hot
+Mechado	servingTemperature	Hot
+Puri (food)	servingTemperature	Hot or room temperature
+Arrabbiata sauce	servingTemperature	Hot over pasta
+Cheese sandwich	servingTemperature	Cold/hot
+Nasi uduk	servingTemperature	hot or room temperature
+Spam musubi	servingTemperature	Hot or cold
+Salt potatoes	servingTemperature	Hot
+Kare-kare	servingTemperature	Hot
+Coney Island hot dog	servingTemperature	Hot
+Boston cream pie	servingTemperature	Room temperature or chilled
+Sincronizada	servingTemperature	Warm
+Spaghetti alla puttanesca	servingTemperature	hot
+Barfi	servingTemperature	cold
+Puran Poli	servingTemperature	Hot, sometimes room temperature
+Canelé	servingTemperature	Room temperature
+Sisig	servingTemperature	hot
+White hot	servingTemperature	Hot
+Humita	servingTemperature	Hot
+Curanto	servingTemperature	Hot
+Lemon chicken	servingTemperature	Hot
+Taho	servingTemperature	room temperature
+Bibingka	servingTemperature	Hot or warm
+Jamón ibérico	servingTemperature	Room temperature
+Cecina (meat)	servingTemperature	Cold
+Café con leche	servingTemperature	Hot
+Sugo all'amatriciana	servingTemperature	hot over pasta
+Pannekoek	servingTemperature	warm
+Canarian wrinkly potatoes	servingTemperature	Warm
+Mojama	servingTemperature	Cold
+Chicken and waffles	servingTemperature	Hot
+Pljeskavica	servingTemperature	Grilled
+Bánh chưng	servingTemperature	Hot, room temperature, fried
+Espetada	servingTemperature	Hot
+Slavink	servingTemperature	Hot
+Spaghetti with meatballs	servingTemperature	Hot
+Tarta de Santiago	servingTemperature	chilled
+Chicken (food)	servingTemperature	Hot and Cold
+Mie goreng	servingTemperature	Hot
+Half-smoke	servingTemperature	Hot
+Ajoblanco	servingTemperature	Cold
+Sayur asem	servingTemperature	hot and room temperature
+Dinuguan	servingTemperature	Hot
+Chicken sandwich	servingTemperature	Hot
+Rinderbraten	servingTemperature	Hot
+Batchoy	servingTemperature	Hot
+Ginataan	servingTemperature	Hot or cold
+Asocena	servingTemperature	Hot or room temperature
+Siomay	servingTemperature	hot
+Swikee	servingTemperature	Hot
+Lincolnshire sausage	servingTemperature	Hot, or cold in sausage rolls
+Pempek	servingTemperature	hot
+Pinchitos	servingTemperature	Hot
+Crab Louie	servingTemperature	Chilled or Room Temperature
+Kalamay	servingTemperature	hot, room temperature, cold
+Puto	servingTemperature	room temperature
+Masgouf	servingTemperature	Hot
+Porotos con rienda	servingTemperature	Hot
+Dahi chutney	servingTemperature	served as accompaniment to Hyderabadi Biryani
+Bagara khana	servingTemperature	Hot
+Kaldereta	servingTemperature	Hot
+Russian tea cake	servingTemperature	Hot or cold
+Hot wiener	servingTemperature	Hot
+Fatteh	servingTemperature	Warm
+Cocido madrileño	servingTemperature	Hot
+Gachas	servingTemperature	Warm
+Poire belle Hélène	servingTemperature	Cold
+Gulaman	servingTemperature	cold
+Fried chicken	servingTemperature	Hot
+Baklava	servingTemperature	Cold, room temperature or re-warmed
+Balushahi	servingTemperature	hot
+Glorified rice	servingTemperature	Cold
+Banana split	servingTemperature	Cold
+Seven-layer salad	servingTemperature	Cold
+Black cake	servingTemperature	Christmas, Parties, and Weddings
+Sapin-sapin	servingTemperature	room temperature
+Snickers salad	servingTemperature	Cold
+Bacon Explosion	servingTemperature	Hot
+Tumpeng	servingTemperature	hot or room temperature
+Chicken fried bacon	servingTemperature	Hot
+Binignit	servingTemperature	Hot or cold
+Adobo (Filipino cuisine)	servingTemperature	Hot
+Flaki	servingTemperature	Hot
+Cookie salad	servingTemperature	Cold
+Chiburekki	servingTemperature	Hot
+Nasi kuning	servingTemperature	Hot and room temperature
+Litti (cuisine)	servingTemperature	Melted pure desi ghee and Bharta
+Date shake	servingTemperature	Cold
+Ruske Kape	servingTemperature	Chilled
+Tatws Pum Munud	servingTemperature	Hot
+Pepes	servingTemperature	Hot or room temperature
+Squab pie	servingTemperature	Hot
+Hot chicken	servingTemperature	Hot
+Nasi liwet	servingTemperature	Hot
+Coconut doughnut	servingTemperature	Hot or cold
+Mandazi	servingTemperature	Warm or room temperature
+Fabes con almejas	servingTemperature	hot
+Turkish delight	servingTemperature	Room temperature
+Rawon	servingTemperature	hot
+Zeeuws spek	servingTemperature	Hot or cold
+Baye baye	servingTemperature	Cold
+Calf's liver and bacon	servingTemperature	Hot or cold
+Qutab	servingTemperature	Hot
+Sushi pizza	servingTemperature	Hot
+Palm flour jelly ball	servingTemperature	cooked
+Kansar	servingTemperature	Hot
+Kerak telor	servingTemperature	hot
+Curacha	servingTemperature	Hot
+Krobesh	servingTemperature	hot or cold
+Tekwan	servingTemperature	hot
+Mie celor	servingTemperature	hot
+Mie aceh	servingTemperature	hot
+Donkey Burger	servingTemperature	Hot
+Bacon ice cream	servingTemperature	Cold
+Jucy Lucy	servingTemperature	Hot
+Asinan	servingTemperature	room temperature
+Konro	servingTemperature	hot
+Serranito	servingTemperature	Warm
+Stuffed chine	servingTemperature	Cold
+Maja blanca	servingTemperature	room temperature, cold
+Empal gentong	servingTemperature	hot
+Cap cai	servingTemperature	Hot
+Nasi tim	servingTemperature	Hot
+Sarburma	servingTemperature	Hot
+Tongseng	servingTemperature	Hot

@@ -1,0 +1,1010 @@
+WAPA-TV	otherChannel	WNJX-TV 4.1 Mayag\u00FCez
+WAPA-TV	otherChannel	WTIN-TV 4.1 Ponce
+Fuji Television  JOCX- D TV   1	otherChannel	Hachi\u014Dji, Tokyo
+Fuji Television  JOCX- D TV   1	otherChannel	Analog: Channel 31
+Fuji Television  JOCX- D TV   1	otherChannel	Tama, Tokyo
+Fuji Television  JOCX- D TV   1	otherChannel	Analog: Channel 55
+Fuji Television  JOCX- D TV   1	otherChannel	Chichi-jima, Ogasawara Islands
+Fuji Television  JOCX- D TV   1	otherChannel	Analog: Channel 57
+Fuji Television  JOCX- D TV   1	otherChannel	Haha-jima, Ogasawara Islands
+Fuji Television  JOCX- D TV   1	otherChannel	Analog: Channel 58
+Fuji Television  JOCX- D TV   1	otherChannel	Mito, Ibaraki
+Fuji Television  JOCX- D TV   1	otherChannel	Analog: Channel 38
+Fuji Television  JOCX- D TV   1	otherChannel	Digital: Channel 19
+Fuji Television  JOCX- D TV   1	otherChannel	Hitachi, Ibaraki
+Fuji Television  JOCX- D TV   1	otherChannel	Analog: Channel 58
+Fuji Television  JOCX- D TV   1	otherChannel	Utsunomiya, Tochigi
+Fuji Television  JOCX- D TV   1	otherChannel	Analog: Channel 57
+Fuji Television  JOCX- D TV   1	otherChannel	Digital: Channel 35
+Fuji Television  JOCX- D TV   1	otherChannel	Maebashi, Gunma
+Fuji Television  JOCX- D TV   1	otherChannel	Analog: Channel 58
+Fuji Television  JOCX- D TV   1	otherChannel	Digital: Channel 42
+Fuji Television  JOCX- D TV   1	otherChannel	Chichibu, Saitama
+Fuji Television  JOCX- D TV   1	otherChannel	Analog: Channel 29
+Fuji Television  JOCX- D TV   1	otherChannel	Narita, Chiba
+Fuji Television  JOCX- D TV   1	otherChannel	Analog: Channel 57
+Fuji Television  JOCX- D TV   1	otherChannel	Tateyama, Chiba
+Fuji Television  JOCX- D TV   1	otherChannel	Analog: Channel 58
+Fuji Television  JOCX- D TV   1	otherChannel	Yokohama Minato Mirai 21, Kanagawa
+Fuji Television  JOCX- D TV   1	otherChannel	Analog: Channel 58
+Fuji Television  JOCX- D TV   1	otherChannel	Yokosuka-Kurihama, Kanagawa
+Fuji Television  JOCX- D TV   1	otherChannel	Analog: Channel 37
+Fuji Television  JOCX- D TV   1	otherChannel	Hiratsuka, Kanagawa
+Fuji Television  JOCX- D TV   1	otherChannel	Analog: Channel 39
+Fuji Television  JOCX- D TV   1	otherChannel	Digital: Channel 21
+Fuji Television  JOCX- D TV   1	otherChannel	Kitadait\u014D, Okinawa
+Fuji Television  JOCX- D TV   1	otherChannel	Analog: Channel 46
+Fuji Television  JOCX- D TV   1	otherChannel	Minami Daito, Okinawa
+Fuji Television  JOCX- D TV   1	otherChannel	Analog: Channel 58
+WKAQ-TV	otherChannel	W09AT 9 Fajardo
+WKAQ-TV	otherChannel	W32AJ 32 Utuado
+WKAQ-TV	otherChannel	W68BU 68 Adjuntas
+WSTE-DT	otherChannel	WSTE-DT1 7 Ponce
+WSTE-DT	otherChannel	WSTE-DT2 7 San Juan
+WSTE-DT	otherChannel	WSTE-DT3 7 Mayag\u00FCez
+WSTE-DT	otherChannel	WSTE-DT4 7 Arecibo
+WLII-DT	otherChannel	WORA-TV 5.1 Mayag\u00FCez
+WLII-DT	otherChannel	WSUR-DT 9.1 Ponce
+KCET	otherChannel	(see article)
+CKVR-TV	otherChannel	12 CKVR-TV-1 Parry Sound
+CFPL-TV	otherChannel	8 CKNX-TV Wingham
+KARE	otherChannel	(see article)
+Tokyo Broadcasting System  JORX- D TV   1	otherChannel	Niijima, Tokyo
+Tokyo Broadcasting System  JORX- D TV   1	otherChannel	Analog: Channel 56
+Tokyo Broadcasting System  JORX- D TV   1	otherChannel	Mito, Ibaraki
+Tokyo Broadcasting System  JORX- D TV   1	otherChannel	Analog: Channel 40
+Tokyo Broadcasting System  JORX- D TV   1	otherChannel	Digital: Channel 15
+Tokyo Broadcasting System  JORX- D TV   1	otherChannel	Utsunomiya, Tochigi
+Tokyo Broadcasting System  JORX- D TV   1	otherChannel	Analog: Channel 55
+Tokyo Broadcasting System  JORX- D TV   1	otherChannel	Digital: Channel 15
+Tokyo Broadcasting System  JORX- D TV   1	otherChannel	Maebashi, Gunma
+Tokyo Broadcasting System  JORX- D TV   1	otherChannel	Analog: Channel 56
+Tokyo Broadcasting System  JORX- D TV   1	otherChannel	Digital: Channel 43
+Tokyo Broadcasting System  JORX- D TV   1	otherChannel	Kiry\u016B, Gunma
+Tokyo Broadcasting System  JORX- D TV   1	otherChannel	Analog: Channel 55
+Tokyo Broadcasting System  JORX- D TV   1	otherChannel	Chichibu, Saitama
+Tokyo Broadcasting System  JORX- D TV   1	otherChannel	Analog: Channel 18
+Tokyo Broadcasting System  JORX- D TV   1	otherChannel	Narita, Chiba
+Tokyo Broadcasting System  JORX- D TV   1	otherChannel	Analog: Channel 55
+Tokyo Broadcasting System  JORX- D TV   1	otherChannel	Tateyama, Chiba
+Tokyo Broadcasting System  JORX- D TV   1	otherChannel	Analog: Channel 56
+Tokyo Broadcasting System  JORX- D TV   1	otherChannel	Yokohama Minato Mirai 21, Kanagawa
+Tokyo Broadcasting System  JORX- D TV   1	otherChannel	Analog: Channel 56
+Tokyo Broadcasting System  JORX- D TV   1	otherChannel	Yokosuka-Kurihama, Kanagawa
+Tokyo Broadcasting System  JORX- D TV   1	otherChannel	Analog: Channel 39
+Tokyo Broadcasting System  JORX- D TV   1	otherChannel	Hiratsuka, Kanagawa
+Tokyo Broadcasting System  JORX- D TV   1	otherChannel	Analog: Channel 37
+Tokyo Broadcasting System  JORX- D TV   1	otherChannel	Digital: Channel 22
+Tokyo Broadcasting System  JORX- D TV   1	otherChannel	Odawara, Kanagawa
+Tokyo Broadcasting System  JORX- D TV   1	otherChannel	Analog: Channel 56
+KAAL	otherChannel	33 (UHF) Mason City
+WNYT (TV)	otherChannel	18 Troy
+WNYT (TV)	otherChannel	21 W21CP-D Gloversville
+WNYT (TV)	otherChannel	28 W28DA-D Pittsfield, MA
+WNYT (TV)	otherChannel	38 W38DL-D Adams, MA
+WNYT (TV)	otherChannel	45 Glens Falls
+Nippon Television  JOAX- D TV   1	otherChannel	Mito, Ibaraki
+Nippon Television  JOAX- D TV   1	otherChannel	Analog: Channel 42
+Nippon Television  JOAX- D TV   1	otherChannel	Digital: Channel 14
+Nippon Television  JOAX- D TV   1	otherChannel	Hitachi, Ibaraki
+Nippon Television  JOAX- D TV   1	otherChannel	Analog: Channel 54
+Nippon Television  JOAX- D TV   1	otherChannel	Utsunomiya, Tochigi
+Nippon Television  JOAX- D TV   1	otherChannel	Analog: Channel 53
+Nippon Television  JOAX- D TV   1	otherChannel	Digital: Channel 34
+Nippon Television  JOAX- D TV   1	otherChannel	Nikk\u014D, Tochigi
+Nippon Television  JOAX- D TV   1	otherChannel	Analog: Channel 54
+Nippon Television  JOAX- D TV   1	otherChannel	Maebashi, Gunma
+Nippon Television  JOAX- D TV   1	otherChannel	Analog: Channel 54
+Nippon Television  JOAX- D TV   1	otherChannel	Digital: Channel 33
+Nippon Television  JOAX- D TV   1	otherChannel	Kiry\u016B, Gunma
+Nippon Television  JOAX- D TV   1	otherChannel	Analog: Channel 53
+Nippon Television  JOAX- D TV   1	otherChannel	Numata, Gunma
+Nippon Television  JOAX- D TV   1	otherChannel	Analog: Channel 53
+Nippon Television  JOAX- D TV   1	otherChannel	Hiratsuka, Kanagawa
+Nippon Television  JOAX- D TV   1	otherChannel	Analog: Channel 35
+Nippon Television  JOAX- D TV   1	otherChannel	Digital: Channel 25
+CJOH-TV	otherChannel	see below
+CKWS-TV	otherChannel	see below
+WCFE-TV	otherChannel	W25AT Tupper Lake
+WCFE-TV	otherChannel	W25BT Monkton, VT
+WCFE-TV	otherChannel	W60AO Port Henry
+WCFE-TV	otherChannel	W67AR Willsboro
+WMTW	otherChannel	26 (UHF) Portland
+TV Asahi  テレビ朝日EX   1	otherChannel	Hachi\u014Dji, Tokyo
+TV Asahi  テレビ朝日EX   1	otherChannel	Analog: Channel 45
+TV Asahi  テレビ朝日EX   1	otherChannel	Tama, Tokyo
+TV Asahi  テレビ朝日EX   1	otherChannel	Analog: Channel 57
+TV Asahi  テレビ朝日EX   1	otherChannel	Chichi-jima, Ogasawara Islands
+TV Asahi  テレビ朝日EX   1	otherChannel	Analog: Channel 59
+TV Asahi  テレビ朝日EX   1	otherChannel	Mito, Ibaraki
+TV Asahi  テレビ朝日EX   1	otherChannel	Analog: Channel 36
+TV Asahi  テレビ朝日EX   1	otherChannel	Digital: Channel 17
+TV Asahi  テレビ朝日EX   1	otherChannel	Hitachi, Ibaraki
+TV Asahi  テレビ朝日EX   1	otherChannel	Analog: Channel 60
+TV Asahi  テレビ朝日EX   1	otherChannel	Utsunomiya, Tochigi
+TV Asahi  テレビ朝日EX   1	otherChannel	Analog: Channel 41
+TV Asahi  テレビ朝日EX   1	otherChannel	Digital: Channel 17
+TV Asahi  テレビ朝日EX   1	otherChannel	Maebashi, Gunma
+TV Asahi  テレビ朝日EX   1	otherChannel	Analog: Channel 60
+TV Asahi  テレビ朝日EX   1	otherChannel	Digital: Channel 43
+TV Asahi  テレビ朝日EX   1	otherChannel	Chichibu, Saitama
+TV Asahi  テレビ朝日EX   1	otherChannel	Analog: Channel 38
+TV Asahi  テレビ朝日EX   1	otherChannel	Narita, Chiba
+TV Asahi  テレビ朝日EX   1	otherChannel	Analog: Channel 59
+TV Asahi  テレビ朝日EX   1	otherChannel	Tateyama, Chiba
+TV Asahi  テレビ朝日EX   1	otherChannel	Analog: Channel 60
+TV Asahi  テレビ朝日EX   1	otherChannel	Yokohama Minato Mirai 21, Kanagawa
+TV Asahi  テレビ朝日EX   1	otherChannel	Analog: Channel 60
+TV Asahi  テレビ朝日EX   1	otherChannel	Yokosuka-Kurihama, Kanagawa
+TV Asahi  テレビ朝日EX   1	otherChannel	Analog: Channel 35
+TV Asahi  テレビ朝日EX   1	otherChannel	Hiratsuka, Kanagawa
+TV Asahi  テレビ朝日EX   1	otherChannel	Analog: Channel 41
+TV Asahi  テレビ朝日EX   1	otherChannel	Digital: Channel 24
+TV Asahi  テレビ朝日EX   1	otherChannel	Kitadait\u014D, Okinawa
+TV Asahi  テレビ朝日EX   1	otherChannel	Analog: Channel 48
+TV Asahi  テレビ朝日EX   1	otherChannel	Minami Daito, Okinawa
+TV Asahi  テレビ朝日EX   1	otherChannel	Analog: Channel 60
+TVOntario	otherChannel	see below
+CJON-TV	otherChannel	see below
+CKCO-TV	otherChannel	see below
+DXAG-TV	otherChannel	DXAM-TV (Studio 23)
+CITY-TV	otherChannel	see below
+CKXT-TV	otherChannel	see below
+TV Tokyo	otherChannel	Mito, Ibaraki
+TV Tokyo	otherChannel	Digital: Channel 18
+KMSP-TV	otherChannel	(see article)
+WCCO-TV	otherChannel	(see article)
+CHFD-TV	otherChannel	CKAR-TV 8 Armstrong (0.01 kW)
+CKPR-TV	otherChannel	16 CBLK-TV Nipigon
+CHCH-TV	otherChannel	see below
+CKND-TV	otherChannel	2 CKND-TV-2 Minnedosa
+CHWI-TV	otherChannel	26 CHWI-TV-26 Windsor
+CHRO-TV	otherChannel	43 CHRO-TV-43 Ottawa
+CIVI-TV	otherChannel	17 CIVI-TV-2 Vancouver
+WCNC-TV	otherChannel	W30CR Biscoe, NC
+WCNC-TV	otherChannel	W24AY Lilesville, NC
+WCCB	otherChannel	W20DD-D Marion
+CITV-TV	otherChannel	10 CITV-TV-1 Red Deer
+Television Osaka	otherChannel	Taishi-Kanan, Osaka
+Television Osaka	otherChannel	Digital: Channel 21
+Television Osaka	otherChannel	Hirakata, Osaka Mino, Osaka
+Television Osaka	otherChannel	Digital: Channel 27
+Television Osaka	otherChannel	Ikeda, Osaka
+Television Osaka	otherChannel	Digital: Channel 28
+WNEP-TV	otherChannel	see article
+CKVU-TV	otherChannel	5 CKVU-TV-1 Courtenay (Station off air due to transmitter fire)
+CKVU-TV	otherChannel	''21 CJWM-TV Whistler
+WBRE-TV	otherChannel	28 (UHF) Waymart
+CFMT-TV	otherChannel	see below
+CJMT-TV	otherChannel	see below
+CKX-TV	otherChannel	see below
+CBWT	otherChannel	see below
+CHNU-TV	otherChannel	21 CHNU-TV-1 (Victoria)
+CBOT (TV)	otherChannel	see below
+CHNM-TV	otherChannel	29 CHNM-TV-1 Victoria
+WSYT	otherChannel	16 W16AX Ithaca
+CITS-TV	otherChannel	see below
+CFYK-TV	otherChannel	see below
+CBXT	otherChannel	see below
+CBRT (TV)	otherChannel	see below
+CBKST	otherChannel	see below
+CBUT	otherChannel	(see article)
+CBKT	otherChannel	see below
+CBLT	otherChannel	see below
+CBAT-TV	otherChannel	see below
+CBMT	otherChannel	see below
+CBCT (TV)	otherChannel	see below
+Twin Cities Public Television	otherChannel	KTCA:
+Twin Cities Public Television	otherChannel	K45EH 45 (Jackson)
+Twin Cities Public Television	otherChannel	K46AA 46 (St. James)
+Twin Cities Public Television	otherChannel	K44AE 44 (Willmar)
+WVVA	otherChannel	43 Beckley
+WVVA	otherChannel	(construction permit)
+KTTC	otherChannel	50 W50DR-D (UHF)
+KTTC	otherChannel	La Crosse, WI
+KTTC	otherChannel	62 K62EV (UHF) Winona
+WXOW	otherChannel	26 (UHF) Tomah, WI
+WXOW	otherChannel	(construction permit)
+CICI-TV	otherChannel	3 CICI-TV-1 Elliot Lake
+CICI-TV	otherChannel	11 CKNY-TV-11 Huntsville
+CICI-TV	otherChannel	(both to cease operations 2009/08/31)
+CHBX-TV	otherChannel	7 CHBX-TV-1 Wawa
+CITO-TV	otherChannel	see below
+CKEM-TV	otherChannel	4 CKEM-TV-1 Red Deer
+CKAL-TV	otherChannel	2 CKAL-TV-1 Lethbridge
+WTSP	otherChannel	4 (VHF) St. Petersburg
+WTSP	otherChannel	(construction permit)
+KIRO-TV	otherChannel	(see article)
+KOMO-TV	otherChannel	11 K11EZ Cashmere/Leavenworth
+KOMO-TV	otherChannel	55 K55AQ Neah Bay
+KING-TV	otherChannel	13 K13ER Cashmere/Leavenworth
+KING-TV	otherChannel	57 K57AI  Neah Bay
+KSL-TV	otherChannel	(see article)
+CKCK-TV	otherChannel	see below
+CFQC-TV	otherChannel	see below
+KCTS-TV	otherChannel	(see article)
+KCPQ	otherChannel	(see article)
+KSTW	otherChannel	(see article)
+WSB-TV	otherChannel	31 (UHF) (2.5) Athens
+WSB-TV	otherChannel	46 (UHF) (2.7) Gainesville
+WSB-TV	otherChannel	17 (UHF) Newnan
+WSB-TV	otherChannel	(construction permit)
+WSB-TV	otherChannel	14 (UHF) Rome
+WSB-TV	otherChannel	(application)
+KTTV	otherChannel	(see article)
+KSCI	otherChannel	KUAN-LP 48 Poway/San Diego
+WLS-TV	otherChannel	7 (VHF) Chicago
+KCAL-TV	otherChannel	(see article)
+CIII-TV	otherChannel	see Transmitters and facilities
+KPBS (TV)	otherChannel	K59AL La Jolla
+KPBS (TV)	otherChannel	K67AM La Jolla
+WGTV	otherChannel	W13DJ-D 13 Carrollton
+WGTV	otherChannel	W08EG-D 8 Toccoa
+CHAN-TV	otherChannel	See list
+KOAA-TV	otherChannel	47 (UHF) Woodland Park, CO
+KOAA-TV	otherChannel	(construction permit)
+KOAA-TV	otherChannel	K30JM-D Colorado Springs
+KOAA-TV	otherChannel	(for others, see article)
+KWGN-TV	otherChannel	K14JZ-D Peetz, CO
+KWGN-TV	otherChannel	K49EX-D Anton, CO
+KWGN-TV	otherChannel	K31IQ-D Sterling, CO
+KCNC-TV	otherChannel	(see article)
+KUSA (TV)	otherChannel	(see article)
+KDVR	otherChannel	KFCT 22 Fort Collins, CO
+KDVR	otherChannel	K14JZ-D Peetz, CO
+KDVR	otherChannel	K49EX-D Anton, CO
+KDVR	otherChannel	K31IQ-D Sterling, CO
+KTVD	otherChannel	K14JZ-D Peetz, Colorado
+KTVD	otherChannel	K49EX-D Anton, Colorado
+KTVD	otherChannel	K31IQ-D Sterling, Colorado
+KTVD	otherChannel	(see below)
+KPXC-TV	otherChannel	KPXH-LP 52 (UHF)
+KPXC-TV	otherChannel	Fort Collins
+KREX-TV	otherChannel	see article
+WSOC-TV	otherChannel	30 (UHF) (9.5) Shelby, NC
+WSOC-TV	otherChannel	46 (UHF) Statesville, NC
+WSOC-TV	otherChannel	(construction permit)
+WSOC-TV	otherChannel	WAXNTV1 36 (UHF) (9.7)China Grove, NC
+WSOC-TV	otherChannel	W42DR-D 42 (UHF) (6.1) Marion, NC
+KRCR-TV	otherChannel	(see article)
+CBHT	otherChannel	see below
+CHEK-TV	otherChannel	see below
+CHEX-TV	otherChannel	4 CHEX-TV-1 Bancroft
+WATC-DT	otherChannel	36 (UHF) Union City
+WATC-DT	otherChannel	(construction permit)
+WUVG-DT	otherChannel	17 (UHF) Athens
+CHCA-TV	otherChannel	see below
+CJFB-TV	otherChannel	CBCP-TV-1 7 Shaunavon
+CJFB-TV	otherChannel	CBCP-TV-2 2 Cypress Hills/Eastend/Val Marie
+CJFB-TV	otherChannel	CBCP-TV-3 3 Ponteix
+CJFB-TV	otherChannel	CBKT-5 10 Riverhurst
+CHBC-TV	otherChannel	see below
+WIAT	otherChannel	42 (UHF) Tuscaloosa
+WIAT	otherChannel	(construction permit)
+KMTR	otherChannel	(see article)
+CKCW-TV	otherChannel	see below
+CJCB-TV	otherChannel	see below
+CKLT-TV	otherChannel	see below
+ATN	otherChannel	72
+WTAE-TV	otherChannel	22 (UHF) (4.3) Pittsburgh's Oakland neighborhood
+WPXI	otherChannel	23 (UHF) Uniontown, PA
+WPXI	otherChannel	33 (UHF) New Castle, PA
+WPXI	otherChannel	(construction permit)
+WPXI	otherChannel	21 (UHF) Derry, PA
+WPXI	otherChannel	(application)
+KNBC	otherChannel	(see article)
+WLBZ	otherChannel	4 WGCI-LD Skowhegan
+WSAZ-TV	otherChannel	16 W16CE Charleston
+CBLFT	otherChannel	see below
+CBOFT	otherChannel	see below
+CKNC-TV	otherChannel	see below
+CBWFT	otherChannel	see below
+CBFT	otherChannel	see below
+CBVT	otherChannel	see below
+CKMI-TV	otherChannel	see below
+WSPA-TV	otherChannel	see article
+WRGB	otherChannel	24 (UHF) Kingston
+WRGB	otherChannel	19 (UHF) Pittsfield, MA
+WRGB	otherChannel	39 (UHF) Glens Falls
+WRGB	otherChannel	(construction permits)
+WTEN	otherChannel	4 W04AE Herkimer
+WMHT (TV)	otherChannel	W04AJ Glens Falls
+WMHT (TV)	otherChannel	W04BD Schoharie
+WMHT (TV)	otherChannel	W42AE Poughkeepsie
+KTVB	otherChannel	KTFT-LD 20 (7.7)
+KTVB	otherChannel	Twin Falls
+KTVB	otherChannel	(for others, see article)
+KXMB-TV	otherChannel	K09FG Lemmon (relays KXMB)
+KXMC-TV	otherChannel	K07EZ Beulah
+KXMC-TV	otherChannel	(repeats KXMC-TV)
+KMOT	otherChannel	K13PL Glendive MT
+KMOT	otherChannel	(repeats KUMV)
+KFYR-TV	otherChannel	KO7FG Lemmon
+KFYR-TV	otherChannel	K09EZ Beulah
+KFYR-TV	otherChannel	(both repeating KFYR-TV)
+KFXK-TV	otherChannel	KFXL-LP 30 Lufkin
+WOOD-TV	otherChannel	46 (UHF) Muskegon
+WOOD-TV	otherChannel	WOGC-CA 25 Holland
+KCBS-TV	otherChannel	(see article)
+WSVN	otherChannel	WKIZ-LP 49 Key West, FL
+CISA-TV	otherChannel	see below
+WCBS-TV	otherChannel	22 (UHF) Plainview, NY
+WCBS-TV	otherChannel	(construction permit)
+CICT-TV	otherChannel	see below
+CFCN-TV	otherChannel	see below
+CFRN-TV	otherChannel	see below
+CITL-TV	otherChannel	see below
+CIPA-TV	otherChannel	see below
+CBYT	otherChannel	see below
+CBUFT	otherChannel	see below
+CBXFT	otherChannel	see below
+CBNT	otherChannel	see below
+CBKFT	otherChannel	see below
+CBAFT	otherChannel	see below
+KPXM-TV	otherChannel	K17FA-D 17 (Willmar, Minnesota)
+KSTP-TV	otherChannel	(see article)
+KWCM-TV	otherChannel	K30AF 30 Alexandria
+KWCM-TV	otherChannel	K45EH 45 Jackson
+KWCM-TV	otherChannel	K49FA 49 Fergus Falls
+KWCM-TV	otherChannel	K60AD 60 Windom
+KWCM-TV	otherChannel	K45IX 45 Frost
+WLNY-TV	otherChannel	WLNY-CD 45 Mineola NY
+WLNY-TV	otherChannel	W27CD Stamford CT
+WLNY-TV	otherChannel	WLIG-LD 17 Morristown NJ
+CICC-TV	otherChannel	see below
+WNYA	otherChannel	WNYA-CA 15 (UHF) Albany
+KMEX-DT	otherChannel	K39DW 39 Daggett, etc.
+W49AY	otherChannel	W15AZ Alabaster AL
+WAXN-TV	otherChannel	36 WAXNTV1 China Grove
+WAXN-TV	otherChannel	42 W42DR-D Marion
+WAXN-TV	otherChannel	30 WSOCTV1, Shebly
+WCIU-TV	otherChannel	WFBN-LP 33 Rockford, IL
+WCIU-TV	otherChannel	WFBN-LD 35 Rockford, IL
+KVRR	otherChannel	(see article)
+WTVI	otherChannel	14 (UHF) Hickory
+WFMZ-TV	otherChannel	45 (UHF) Philadelphia
+WFMZ-TV	otherChannel	(construction permit)
+WVUA-CA	otherChannel	WDVZ-CA 3 Greensboro
+WVUA-CA	otherChannel	WJMY-CA 25 Demopolis
+WPLG	otherChannel	W47AC Big Pine Key, FL
+WKMG-TV	otherChannel	W42DJ-D Ocala
+KSBY	otherChannel	K10PV-D Santa Barbara
+WMVS	otherChannel	36 (UHF) Milwaukee
+WMVS	otherChannel	(construction permit)
+KBTC-TV	otherChannel	K24IC-D Bellingham
+KBTC-TV	otherChannel	K41KT-D Grays River
+KGW	otherChannel	see list below
+WOIO	otherChannel	24 (UHF) Shaker Heights
+WOIO	otherChannel	(construction permit)
+CKSA-TV	otherChannel	see below
+WVIA-TV	otherChannel	see table below
+KGO-TV	otherChannel	35 (UHF) San Jose
+KGO-TV	otherChannel	(construction permit)
+KIXE-TV	otherChannel	KIXE-LD 18 Chico
+KIXE-TV	otherChannel	(see article)
+KLVX	otherChannel	see list below
+KNXT	otherChannel	KNXT-LP 38 Bakersfield
+KYAZ	otherChannel	KTJA-LP 51 (Victoria, Texas)
+KYAZ	otherChannel	KYAZ-LP 41 (Midland-Odessa)
+WBKI-TV	otherChannel	WBKI-CA 28 (UHF)
+WBKI-TV	otherChannel	WBKI-LD 34 (UHF)
+KUNS-TV	otherChannel	(see article)
+KPBI (TV)	otherChannel	KWFT-LP 34 Fort Smith
+WWLP	otherChannel	28 WFXQ-CD (UHF)
+KEZI	otherChannel	K27CL-D Coos Bay/North Bend
+KEZI	otherChannel	K46KS-D Roseburg
+KEZI	otherChannel	(for others see article)
+WXMI	otherChannel	W17DF-D 17 Muskegon
+WXMI	otherChannel	W42CB-D 42 Hesperia
+KNXV-TV	otherChannel	(see article)
+WXSP-CD	otherChannel	See below
+CFJC-TV	otherChannel	see below
+KTWU	otherChannel	36 (UHF) Emporia
+KTWU	otherChannel	36 (UHF) Lawrence
+KTWU	otherChannel	47 (UHF) Manhattan
+KTWU	otherChannel	(construction permits)
+KTWU	otherChannel	K30AL-D Iola
+WVIZ	otherChannel	W63CT 63 Thompson
+WVIZ	otherChannel	W64AK 64 Sheffield Twp.
+WYBE	otherChannel	WFME-TV 66.4, West Milford, New Jersey/New York
+WRNN-TV	otherChannel	WRNN-LP 57 Nyack, N.Y.
+WDCW	otherChannel	W51CY Chambersburg, PA
+KABC-TV	otherChannel	(see article)
+WYOU	otherChannel	25 (UHF) Waymart
+KTVU	otherChannel	Analog:
+KTVU	otherChannel	K06FA 6 Hopland
+KTVU	otherChannel	K39AG 39 Ukiah
+KTVU	otherChannel	Digital:
+KTVU	otherChannel	48 (UHF) San Jose
+KTVU	otherChannel	(construction permit)
+CFVS-TV	otherChannel	20 CFVS-TV-1 Rouyn-Noranda
+CFTF-TV	otherChannel	see below
+CFER-TV	otherChannel	5 CFER-TV-2 Sept-\u00CEles
+CHAU-TV	otherChannel	see below
+CFEM-TV	otherChannel	10 CFEM-TV-1 Val-d'Or
+CJPM-TV	otherChannel	10 CJPM-TV-1 Roberval
+CIMT-TV	otherChannel	see below
+KRON-TV	otherChannel	K41AF 41 Ukiah, CA
+KVCR-DT	otherChannel	KVCR-DT3:
+KVCR-DT	otherChannel	K09XW Palm Springs
+KVCR-DT	otherChannel	KJHP-LP 18 Morongo Valley
+KICU-TV	otherChannel	K29AB Monterey area
+KICU-TV	otherChannel	K31GK Ukiah
+KICU-TV	otherChannel	K33CH Lakeport
+KICU-TV	otherChannel	K64AZ Lakeport
+KRXI-TV	otherChannel	17 K17CA Carson City
+KRXI-TV	otherChannel	21 KRXI-TV1 Reno
+KRXI-TV	otherChannel	35 K35FL-D Silver Springs
+KOCE-TV	otherChannel	KBAB-LD 50 Santa Barbara, CA
+KOCE-TV	otherChannel	KODG-LP 17 Palm Springs, CA
+KERA-TV	otherChannel	K44GS-D ch. 44 (UHF), Wichita Falls, Texas
+KUVN-DT	otherChannel	KUVN-CA (Ch. 47), Fort Worth http://www.fcc.gov/fcc-bin/tvq?state=TX&call=KUVN&arn=&city=Fort+Worth&chan=&cha2=69&serv=&type=0&facid=&list=0&dist=&dlat2=&mlat2=&slat2=&dlon2=&mlon2=&slon2=&size=9
+WMUR-TV	otherChannel	W27BL 27 Berlin
+WMUR-TV	otherChannel	WMUR-LP 29 Littleton
+WMUR-TV	otherChannel	W38CB 38 Littleton
+KTLA	otherChannel	(see article)
+KAZT-TV	otherChannel	KAZT-CD 36 Phoenix
+KAZT-TV	otherChannel	(for others, see list in article)
+KPAZ-TV	otherChannel	(see article)
+KOIN	otherChannel	KBNZ-LD 7 Bend
+KOIN	otherChannel	see list below
+KPTV	otherChannel	(see article)
+KPDX	otherChannel	KUBN-LP 50 Bend
+KPDX	otherChannel	(for others see article)
+WESH	otherChannel	24 (UHF) Ocala
+WESH	otherChannel	18 (UHF) Orange City
+WESH	otherChannel	(construction permit)
+KWHY-TV	otherChannel	K46GF 46 Santa Maria
+KWHY-TV	otherChannel	K47GD 47 San Luis Obispo
+KFOR-TV	otherChannel	K18BV May/Gage
+KFOR-TV	otherChannel	K53CI Seiling
+KFOR-TV	otherChannel	K60ER Cherokee/Alva
+KFOR-TV	otherChannel	K61CW Mooreland/Woodward
+KUSI-TV	otherChannel	K12PO Murrieta
+WREG-TV	otherChannel	K62DA Malden MO
+CFRE-TV	otherChannel	6 CFRE-TV-2 Fort Qu'Appelle
+KAET	otherChannel	See below
+KXLY-TV	otherChannel	KMNZ-LP 38 Coeur D'Alene
+KXLY-TV	otherChannel	KUMN-LP 43 Moses Lake
+KXLY-TV	otherChannel	K24EX Wenatchee
+KXLY-TV	otherChannel	(for others, see article)
+KREM (TV)	otherChannel	(see article)
+KHQ-TV	otherChannel	(see article)
+KAYU-TV	otherChannel	(see article)
+KQUP	otherChannel	KQUP-LP 47 Coeur d'Alene, ID
+WDSI-TV	otherChannel	25 WPDP-LP Cleveland
+KVEW	otherChannel	K14HT Walla Walla
+KLEW-TV	otherChannel	22 (UHF) Moscow
+KLEW-TV	otherChannel	(construction permit)
+KUAM-TV	otherChannel	WSZE 10, Saipan, MP
+KQEG-CA	otherChannel	51 (UHF) WIBU-LP
+KJLA	otherChannel	(see below)
+KUPX-TV	otherChannel	K33HO Soda Springs ID
+KUPX-TV	otherChannel	K46IM Malad City ID
+KELO-TV	otherChannel	See table
+WISH-TV	otherChannel	17 (UHF) Indianapolis
+CJCH-TV	otherChannel	see below
+WTOG	otherChannel	W23CN-D Sebring
+WTOG	otherChannel	W26DP-D Inverness
+WGSA (TV)	otherChannel	WGSA-CA 50 Savannah (city)
+WGSA (TV)	otherChannel	W25CQ Statesboro
+WGSA (TV)	otherChannel	W41CR Hinesville
+WGSA (TV)	otherChannel	W32BJ Beaufort SC
+WUPL	otherChannel	WBXN-CA 18 New Orleans (city)
+KTWO-TV	otherChannel	see below
+K26ES	otherChannel	K11RN Douglas, WY
+KGWN-TV	otherChannel	19 K19FX Laramie, WY
+WLUK-TV	otherChannel	W40AN-D 40 Escanaba, MI
+WTVF	otherChannel	50 (UHF) Nashville
+KCCI	otherChannel	31 (UHF) Des Moines
+KCCI	otherChannel	(construction permit)
+KCCI	otherChannel	K23CI Ottumwa
+WPRU-LP	otherChannel	W26DK-D 26.1 San Juan
+WPRU-LP	otherChannel	W31DL-D 36.1 Ponce
+WPRU-LP	otherChannel	W51DJ-D 51.1 Mayag\u00FCez
+WPBN-TV	otherChannel	50 (UHF) Harrietta
+WSJP-LP	otherChannel	W26DK-D 26.2 San Juan
+WSJP-LP	otherChannel	W36DB-D 36.2 Ponce
+WSJP-LP	otherChannel	W51DJ-D 51.2 Mayag\u00FCez
+WEAU-TV	otherChannel	25 (UHF) Eau Claire
+WEAU-TV	otherChannel	(construction permit)
+WORA-TV	otherChannel	W10BG 10 Mayag\u00FCez
+KASA-TV	otherChannel	41 low-power translators; see article
+KXGN-TV	otherChannel	(see article)
+KNVA	otherChannel	See section
+WJW (TV)	otherChannel	21 (UHF) Canton
+WJW (TV)	otherChannel	46 (UHF) Austintown, OH
+WJW (TV)	otherChannel	(Applications)
+Television Hokkaido	otherChannel	Asahikawa
+Television Hokkaido	otherChannel	Digital: Channel 21
+Television Hokkaido	otherChannel	Hakodate
+Television Hokkaido	otherChannel	Digital: Channel 19
+Television Hokkaido	otherChannel	Muroran
+Television Hokkaido	otherChannel	Digital: Channel 26
+WAND	otherChannel	W31BX-D Danville
+KWWL (TV)	otherChannel	7 (VHF) Dubuque
+KWWL (TV)	otherChannel	(construction permit)
+WEVV-TV	otherChannel	W47EE-D Evansville
+WEVV-TV	otherChannel	(HD simulcast of 44.2)
+WSIL-TV	otherChannel	K10KM-D 10 Cape Girardeau, MO
+WMGM-TV	otherChannel	WMGM-LP 7 (VHF) Pleasantville
+WSAW-TV	otherChannel	42 W42DH-D Sayner/Vilas County
+WSAW-TV	otherChannel	57 W57AR Sayner/Vilas County
+WJFW-TV	otherChannel	27 W27AU-D Wausau
+KRCW-TV	otherChannel	KRCW-LP 5 (VHF) Portland
+WOLE-DT	otherChannel	W21CX-D 21.1 Mayag\u00FCez
+WPSD-TV	otherChannel	10 (VHF) W10AH Carbondale, IL
+KAKE	otherChannel	(see article)
+KSCW-DT	otherChannel	33 (UHF) KSCW-LD Wichita
+KIVI-TV	otherChannel	27 K27DX 27 McCall
+KWSU-TV	otherChannel	K15CH Lewiston ID
+KVIA-TV	otherChannel	K41KY-D 41 Las Cruces & Organ
+KTDO	otherChannel	K48IK 48 (El Paso, Texas)
+KOTA-TV	otherChannel	(see below)
+KNBN	otherChannel	KKRA-LP 24 Rapid City
+KNBN	otherChannel	KWBH-LP 27(simulcasts CW on 21.2)
+KNBN	otherChannel	K40GS Rapid City/Black Hills
+KESQ-TV	otherChannel	K27DS 27 Yucca Valley
+KMYA-DT	otherChannel	KKYK-CD 20 Little Rock
+WVNY	otherChannel	9 W09BB Schroon Lake, NY
+CFCL-TV	otherChannel	see below
+WCMU-TV	otherChannel	46 (UHF) W46AD (analog)
+WCMU-TV	otherChannel	69 (UHF) W69AV (analog)
+WWTV	otherChannel	40 (UHF) Traverse City
+WWTV	otherChannel	(construction permit)
+KPXG-TV	otherChannel	KPXG-LD Portland
+KPXG-TV	otherChannel	K14LP-D Cottage Grove
+WHO-DT	otherChannel	K27CV 27 Ottumwa
+WOI-DT	otherChannel	50 (UHF) Ames
+WOSU-TV	otherChannel	W31AA Newark
+WOSU-TV	otherChannel	W47AB Mansfield
+KUOK	otherChannel	KCHM-LP 36 Oklahoma City
+KUOK	otherChannel	KWDW-LP 48 Oklahoma City
+KUOK	otherChannel	KOKT-LP 20 Sulphur
+KSBI	otherChannel	(see article)
+WNYB	otherChannel	WBNF-CA 15 Buffalo
+WNYB	otherChannel	W42CO-D Rochester
+WSFX-TV	otherChannel	19 W19CA Lumberton
+WYFF	otherChannel	W06AE 6 Clayton, GA
+WYFF	otherChannel	W09AS 9 Burnsville, NC
+WYFF	otherChannel	W11AH-D 11 Tryon & Columbus
+WTLH	otherChannel	35 WBVJ-LP (UHF) Valdosta, GA
+WHME-TV	otherChannel	WHNW-LD 18 Gary
+WHME-TV	otherChannel	WHVI-LP 24 Valparaiso
+WHME-TV	otherChannel	WHCH-LD 40 Chesterton
+WPXD-TV	otherChannel	W48AV 48 Detroit
+KVAL-TV	otherChannel	(see article)
+KMSB	otherChannel	K50FV Tucson
+KVOA	otherChannel	K04QP-D Casas Adobes
+KVOA	otherChannel	K20FO Sierra Vista
+KVOA	otherChannel	K43CN Duncan
+KGUN-TV	otherChannel	K16EO Oro Valley
+KGUN-TV	otherChannel	K65DM Duncan
+KHRR	otherChannel	K28EY Douglas
+WVBT	otherChannel	36 WPMC-CA Mappsville
+WVBT	otherChannel	45 WNLO-CD Norfolk
+KTBN-TV	otherChannel	K15DB Santa Barbara
+KTBN-TV	otherChannel	K21FP Bakersfield
+KTBN-TV	otherChannel	K26GN Lancaster
+KTBN-TV	otherChannel	K40ID Palm Springs
+KTFK-DT	otherChannel	KEXT-CA 27 Modesto
+WVEN-TV	otherChannel	WVCI-LP 16 Orlando (city)
+WVEN-TV	otherChannel	W46DB 46 Melbourne
+WQCW	otherChannel	WVCW-LP 45 Huntington WV
+WQCW	otherChannel	WOCW-LP 21 Charleston WV
+WPXC-TV	otherChannel	WPXJ-LP 41 Jacksonville
+WMTJ	otherChannel	WQTO 26.1 Ponce
+CKTV-TV	otherChannel	27 CKTV-TV-1 St-Fulgence
+CKRN-TV	otherChannel	see below
+KOMU-TV	otherChannel	K07SD Rolla
+CKRT-TV	otherChannel	see below
+WCNY-TV	otherChannel	W59AU Utica
+KXXV	otherChannel	KRHD-CD 40 Bryan/College Station
+WBGR-LP	otherChannel	Channel 12 on Time Warner Cable
+KGPE	otherChannel	K07HA Camp Nelson
+KYUR	otherChannel	K03FW 3 Kenai
+KYES-TV	otherChannel	14 (UHF) Anchorage
+KYES-TV	otherChannel	(construction permit)
+KYES-TV	otherChannel	KYEX-LP 18 Anchorage
+KYES-TV	otherChannel	K22HN-D 22 Anchorage
+KYES-TV	otherChannel	K06MF 6 Kenai
+KYES-TV	otherChannel	K08LW 8 Soldotna
+KYES-TV	otherChannel	K09X0 9 Homer-Seldovia
+KFPH-DT	otherChannel	KFPH-CA 35.1 Phoenix
+KFPH-DT	otherChannel	K16FB Globe/Miami
+KFPH-DT	otherChannel	K21GC Safford
+KTGM	otherChannel	KPPI-LP 7 Saipan, MP
+KUAM-LP	otherChannel	Simulcast on KUAM-TV 8.2
+KOLD-TV	otherChannel	13 (VHF) Tucson
+CFWH-TV	otherChannel	see below
+CFFB-TV	otherChannel	see below
+WVXF	otherChannel	W26DK-D 26.3 San Juan, Puerto Rico
+WVXF	otherChannel	W36DB-D 36.3 Ponce, Puerto Rico
+WVXF	otherChannel	W51DJ-D 51.3 Mayag\u00FCez, Puerto Rico
+KPMR	otherChannel	Analog 10 (LPTV)
+WDWO-CD	otherChannel	27 WFHD-LP (Ann Arbor (silent)
+KVER-CA	otherChannel	KVES-LP 28 (UHF) Palm Springs CA
+KSWT	otherChannel	(see below)
+WSET-TV	otherChannel	W05AA-D 5 Roanoke
+WDBJ	otherChannel	W04AG 4 Garden City, VA
+KLWB (TV)	otherChannel	KXKW-LD 32 Lafayette
+KSTS	otherChannel	K15CU 15/K47LC-D 47 Salinas
+KRCB	otherChannel	K27EE Ukiah
+Network Knowledge	otherChannel	W08DP Springfield
+KDLH	otherChannel	see article
+WIPR-TV	otherChannel	WIPM-TV 35 Mayag\u00FCez
+KNOP-TV	otherChannel	K35AL Lexington
+KNOP-TV	otherChannel	K20DK Beaver Lake
+KNOP-TV	otherChannel	K09GW Broken Bow
+KNOP-TV	otherChannel	K18DH Broken Bow
+KNOP-TV	otherChannel	K21CY Ogallala
+KEYC-TV	otherChannel	K19CA 19 St. James
+KBEH	otherChannel	KSBT-LP 32 Santa Barbara
+KHIZ	otherChannel	K39GY Victorville
+KHIZ	otherChannel	K49HV  Morongo Valley/Palm Springs
+WAZE-TV	otherChannel	WAZE-LP 17 Evansville
+WAZE-TV	otherChannel	WJPS-LP 4 Evansville
+WAZE-TV	otherChannel	WIKY-LP 5 Evansville
+WTSN-LD	otherChannel	WYYW-LP 41 Evansville
+KJCT	otherChannel	Analog: 28 (UHF)
+KJCT	otherChannel	K28AD, Montrose
+WVIR-TV	otherChannel	listed at left
+KFTU-DT	otherChannel	KFTU-CA 34 Tucson
+KFTU-DT	otherChannel	K48GX Tucson
+WCYB-TV	otherChannel	21 (UHF) Kingsport
+WCYB-TV	otherChannel	29 (UHF) Bristol, VA
+WCYB-TV	otherChannel	(construction permits)
+CFTO-TV	otherChannel	see below
+KCPM (TV)	otherChannel	KVNJ-LP 33 Fargo
+WTVJ	otherChannel	W44AC 44 Key West
+KBVO	otherChannel	KBVO-CD 51 (UHF) Austin
+WENY-TV	otherChannel	6 W06AR Hornell
+WITF-TV	otherChannel	W33CR-D Chambersburg
+WITF-TV	otherChannel	W24CS Reading
+KTXS-TV	otherChannel	KTXE-LP 38 San Angelo
+KIDK	otherChannel	38 (UHF) Rexburg
+KIDK	otherChannel	(for others, see below)
+WWBI-LP	otherChannel	W14CK 14 (UHF, Newport, Vermont)
+KLSR-TV	otherChannel	(see article)
+KEVU-CD	otherChannel	(See article)
+KNOE-TV	otherChannel	K18AB El Dorado AR
+KFSM-TV	otherChannel	24 (UHF) Van Buren, AR
+KFSM-TV	otherChannel	K62DQ 62 Fayetteville, AR
+WMDT	otherChannel	WEVD-LP 27 (UHF)
+WMDT	otherChannel	Dover, DE
+KULR-TV	otherChannel	K06FE-D 6 Miles City
+WNTZ-TV	otherChannel	K47DW Alexandria, LA
+WNTZ-TV	otherChannel	K51FO (ch. 52) Leesville, LA
+KSVI	otherChannel	K25BP Billings (city)
+KSVI	otherChannel	K16DH Miles City
+KCAU-TV	otherChannel	30 (UHF) Sioux City
+KFDA-TV	otherChannel	(see article)
+WINM	otherChannel	W38EA Fort Wayne
+WSVI	otherChannel	WFIG-LP 5 Charlotte Amalie
+WSVI	otherChannel	WZVI 43.1 Charlotte Amalie
+WEMT	otherChannel	43 W43BO Marion, VA
+KOLN	otherChannel	(see article)
+KOLO-TV	otherChannel	see list below
+KAWE	otherChannel	K42CU Roseau
+WXON-LP	otherChannel	9 (VHF) W09CK
+KAUZ-TV	otherChannel	K29FR Quanah
+KMYU	otherChannel	KUTV 2.2 Salt Lake City
+KJBO-LP	otherChannel	40 K40FL Altus, Oklahoma
+KJBO-LP	otherChannel	47 K47DK Grandfield, Oklahoma
+KJBO-LP	otherChannel	24 K24GG Hollis, Oklahoma
+KJBO-LP	otherChannel	53 K53DS Lawton, Oklahoma
+KJBO-LP	otherChannel	33 K33HG Quanah, Texas
+WBME-TV	otherChannel	Analog:
+WBME-TV	otherChannel	WYTU-LP 63 (UHF)
+WBME-TV	otherChannel	(analog simulcast service)
+WBGN-CD	otherChannel	(see article)
+KUNP	otherChannel	KUNP-LP 47 Portland
+KUNP	otherChannel	KABH-CA 15 Bend
+WJSP-TV	otherChannel	former W49AD Carrollton
+WCES-TV	otherChannel	W11DD-D 11 Hartwell/Royston
+WRDM-CA	otherChannel	WDMR-LP 51 (UHF, Springfield, MA)
+CKPG-TV	otherChannel	see below
+WSYR-TV	otherChannel	7 W07BA Dewitt
+WSKG-TV	otherChannel	W60AD Savona
+WNGH-TV	otherChannel	W12DK-D 12 Young Harris,
+WNGH-TV	otherChannel	W50AB 50 Hiawassee
+CHAT-TV	otherChannel	see below
+WEVU-LP	otherChannel	WBSP-CA Naples (7, VHF)
+WOLF-TV	otherChannel	47 (UHF) Waymart
+WMAK	otherChannel	WEZK-LP 28 Knoxville (city)
+WMAK	otherChannel	WJZC-LP 22 Sevierville
+KTVF	otherChannel	11 (VHF) Fairbanks
+KTVF	otherChannel	(construction permit)
+KAME-TV	otherChannel	23 K23DT-D Tahoe City, CA
+KAME-TV	otherChannel	32 K32GW-D Carson City
+WIBW-TV	otherChannel	44 (UHF) Topeka
+KRCG	otherChannel	K11OJ Sedalia
+WGSR-LD	otherChannel	47.1 - WGSR HD (720p)
+WGSR-LD	otherChannel	47.2 - WGSR SD (480i)
+WGSR-LD	otherChannel	47.3 - WMDV441 Martinsville (480i)
+WHBF-TV	otherChannel	47 (UHF) Rock Island
+WDNN-CA	otherChannel	WTNB-CA 27 (Cleveland, TN)
+WDNN-CA	otherChannel	WRNG-LP 63 (Ringgold, GA)
+WDNN-CA	otherChannel	WLFW-LP 41 (LaFayette, GA)
+WDNN-CA	otherChannel	WSUT-LP 21 (Summerville-Triton, GA)
+WDNN-CA	otherChannel	WCTN-LP 21 (Chattanooga, Tennessee)
+KMSG-LP	otherChannel	(See article)
+KVPT	otherChannel	K09VI 9 Springville
+KVPT	otherChannel	K18HD-D 18 Bakersfield
+WTJX-TV	otherChannel	W05AW Christiansted
+KEQI-LP	otherChannel	Simulcast on KTGM 14.2
+WNGN-LP	otherChannel	42 WNGX-LP Troy, New York
+WGGN-TV	otherChannel	W33BW ch.33, Ashland, Ohio
+KLBK-TV	otherChannel	K44FG Snyder
+WMEI	otherChannel	(see table)
+W07DP-D	otherChannel	W16CO-D Middleburg
+KTFF-DT	otherChannel	KTFF-LP 41 Fresno (city)
+W10BM	otherChannel	W07BY 7 (VHF)
+KMOH-TV	otherChannel	KEJR-LD 40 Phoenix
+KVIQ	otherChannel	(see article)
+KHSL-TV	otherChannel	KHSL-LD 36 Redding
+KHSL-TV	otherChannel	K42HL-D Oroville
+KHSL-TV	otherChannel	K04DD-D Weaverville
+KHSL-TV	otherChannel	K04FL Lakehead
+KHSL-TV	otherChannel	K49CT Paradise
+KHSL-TV	otherChannel	K54EE Chester, Westwood
+KCVU	otherChannel	K08NH Oroville (Analog signal for Chico)
+KCVU	otherChannel	K38FQ Anderson (Analog signal for Redding)
+KCVU	otherChannel	K14MN Fortuna (Analog signal for Eureka)
+KTIV	otherChannel	K48CH Norfolk NE
+CFTK-TV	otherChannel	6 CFTK-TV-1 Prince Rupert
+WQPX-TV	otherChannel	49 (UHF) Waymart
+WHSV-TV	otherChannel	42 (UHF) Harrisonburg
+WHSV-TV	otherChannel	51 (UHF) Staunton
+KCEN-TV	otherChannel	KAGS-LD 23 Bryan/College Station
+KCOP-TV	otherChannel	K13WJ Morongo Valley
+KCOP-TV	otherChannel	K50HV Daggett
+KCOP-TV	otherChannel	K18FH Twentynine Palms
+KCOP-TV	otherChannel	K13NF  Ridgecrest
+KCOP-TV	otherChannel	K49AA Ridgecrest
+KEGS (TV)	otherChannel	KEGS-LP 30 Las Vegas
+KEGS (TV)	otherChannel	KRRI-LP 43 Reno
+WWCP-TV	otherChannel	59/17 W59AI State College
+WXEL-TV	otherChannel	W44AY 44 Fort Pierce
+WXEL-TV	otherChannel	W31DC-D 31 Fort Pierce
+KOBI	otherChannel	(see article)
+KOTI	otherChannel	(see article)
+KMVU-DT	otherChannel	(see article)
+KTVL	otherChannel	K19HH-D 19 Klamath Falls
+KTVL	otherChannel	K47LD-D 47 Medford
+KTVL	otherChannel	for others, (see article)
+KDRV	otherChannel	(see article)
+KBLN	otherChannel	(see article)
+WFME-TV	otherChannel	WYBE 35.66, Philadelphia PA
+KTVC	otherChannel	KAMK-LP 53 Eugene (moving to 49)
+Southern Oregon Public Television	otherChannel	(see article)
+WTMO-CA	otherChannel	WKME-CA 15 Kissimmee
+WTMO-CA	otherChannel	WDYB-LP 28 Daytona Beach
+WTMO-CA	otherChannel	WMVJ-LP 29 Melbourne
+WACX	otherChannel	WACX-LP 9 Tallahassee
+WACX	otherChannel	W03AO Madison
+WACX	otherChannel	W40CQ-D Alachua/Gainesville
+KUIL-LD	otherChannel	K36ID-D 36 Beaumont
+KUIL-LD	otherChannel	K27JJ-D 27 Forbes/Jasper, TX
+KLKN	otherChannel	31 (UHF) Lincoln
+WHDT	otherChannel	WHDT-LD 44 (9.1) Miami
+WHDT	otherChannel	WXDT-LP 23 Naples
+WHDT	otherChannel	WYDT-CA 32 Naples
+WHDT	otherChannel	WZDT-LP 39 Naples
+KDTP	otherChannel	KDPH-LP 48 Phoenix
+KFBI-LD	otherChannel	K41ID ch. 41 (UHF) Klamath Falls/Mt. Shasta
+CJBR-TV	otherChannel	see below
+WBGT-CA	otherChannel	26 W26BZ Victor
+WTCT	otherChannel	W54AE Paducah KY
+WTCT	otherChannel	KCGI-CA 45 Cape Girardeau MO
+WTCT	otherChannel	K54CA Sikeston MO
+KMCC	otherChannel	KNBX-CA 31 Las Vegas
+KMCC	otherChannel	K57JO Laughlin
+WTJP-TV	otherChannel	W46BU Tuscaloosa
+WTJP-TV	otherChannel	W51BY Jasper
+WHFE-LP	otherChannel	WIIB-LP 7 Farmersburg
+WHFE-LP	otherChannel	WKMF-LP 32 Sullivan
+KKAX-LP	otherChannel	K23BJ Lake Havasu City AZ, WPYN246 Bullhead City AZ
+KNLJ	otherChannel	KNJD-LP 59 Branson
+KNLJ	otherChannel	K64FW Joplin
+KNLJ	otherChannel	K17FU Marshfield
+KNLJ	otherChannel	K54FH Green Forest AR
+KNLJ	otherChannel	WLCF-LD 45 Effingham IL
+KUCO-LP	otherChannel	K46HI Redding
+WSJN-CD	otherChannel	WQSJ-LP 48 Quebradillas
+KINC	otherChannel	KTNL-LP 47 Laughlin
+KINC	otherChannel	KWWB-LP 45 Mesquite
+KUVE-DT	otherChannel	KUVE-CA 38 Tucson (city)
+KBMT	otherChannel	KVHP-LD 44 Jasper, TX
+KTAB-TV	otherChannel	KAXW-LP 61 Mullin
+K68DJ	otherChannel	K38EB 32 Kingsville, Texas
+K68DJ	otherChannel	K49DV 49 Beeville, Texas
+WQPT-TV	otherChannel	W48CK Sterling Analog
+WECN	otherChannel	WRUA 33 (34.1) Fajardo
+WECN	otherChannel	(On air)
+KJST-LP	otherChannel	KRGT-LP ch.6 (VHF), Rio Grande City
+KSFE-LP	otherChannel	KTIZ-LP ch.52, Harlingen, Texas
+KFQX	otherChannel	KXHD-LP 36 Montrose
+WWAZ-TV	otherChannel	15 (UHF) Ripon, WI
+WWAZ-TV	otherChannel	30 (UHF) Columbus, WI
+WWAZ-TV	otherChannel	(construction permits)
+WCCV-TV	otherChannel	W08AB 8 Guayama
+WCCV-TV	otherChannel	W54AQ 54 Yauco
+WCCV-TV	otherChannel	W63BF 63 Aguada
+WCCV-TV	otherChannel	WVSN 68.1 Humacao
+WUJA	otherChannel	WQHA 50 Aguada
+KBDI-TV	otherChannel	(see article)
+TV Setouchi	otherChannel	Takamatsu Nishi-Sanuki,Kasaoka,Niimi
+TV Setouchi	otherChannel	Digital: Channel 18
+TV Setouchi	otherChannel	Tsuyama,Takahashi
+TV Setouchi	otherChannel	Digital: Channel 14
+TV Setouchi	otherChannel	Shodo-shima,Shiratori
+TV Setouchi	otherChannel	Digital: Channel 46
+WSBS-TV	otherChannel	WSBS-CD 50 Miami, etc.
+WGEN-TV	otherChannel	(see article)
+KUAT-TV	otherChannel	K20GG Duncan
+KYOU-TV	otherChannel	25 K25DE Ottumwa
+KYOU-TV	otherChannel	34 K34CW Kirksville
+K27EC	otherChannel	K16GB Kingman AZ
+WAZT-CA	otherChannel	(see article)
+KEET	otherChannel	DT38 Fortuna
+KEET	otherChannel	DT8 Hoopa
+KEET	otherChannel	K09PM Covelo
+KEET	otherChannel	K12OV Shelter Cove
+KBTZ	otherChannel	KBTZ-LP 32 Bozeman
+KTEL-LP	otherChannel	K28IR Las Vegas
+KTEL-LP	otherChannel	K30HS Taos
+KTEL-LP	otherChannel	K46GY Santa Fe
+KEYU	otherChannel	KEYU-LP 41 Amarillo
+KEYU	otherChannel	KEAT-LP 22 Amarillo
+KEYU	otherChannel	K59HG Amarillo (silent)
+KNPB	otherChannel	see list below
+KPAX-TV	otherChannel	KAJJ-CA 18 Kalispell
+KRTV	otherChannel	KXLH-LD 9 Helena
+KRTV	otherChannel	(see article for others)
+DZBB-TV	otherChannel	D-5-ZG 5 Iba, Zambales
+DZBB-TV	otherChannel	D-5-ZB 5 Baler, Aurora
+DZBB-TV	otherChannel	D13ZR 13 Occ. Mindoro
+DWWX-TV	otherChannel	D12ZT 12 Olongapo City
+DWWX-TV	otherChannel	D13ZA 13 Botolan, Zambales
+DWET-TV	otherChannel	DWDZ-TV 47 Metro Manila
+Tri-Valley Community Television	otherChannel	28 & 29
+KFBB-TV	otherChannel	KHBB-LD 21 Helena
+K26GS-D	otherChannel	K07XL-D 7 Mountain Home, Arkansas
+KTMF	otherChannel	KTMF-LP 42 Kalispell
+KTMF	otherChannel	K19GD Kalispell
+KTMF	otherChannel	K14LT Polson
+KTMF	otherChannel	K11KE Woods Bay
+KHCE-TV	otherChannel	K20BW San Antonio (city)
+KWYB	otherChannel	KWYB-LD 28 Bozeman
+KMMF	otherChannel	KMMF-LP 34 Kalispell
+KTAS	otherChannel	K07TA Santa Maria
+KTAS	otherChannel	K09UF Morro Bay
+KVFW-LP	otherChannel	(see article)
+KFDF-CA	otherChannel	KFFS-CA 36 (UHF) Fayetteville AR
+KXOK-LP	otherChannel	32 (UHF)
+KOHD	otherChannel	K53JV 53 Bend
+KUJH-LP	otherChannel	K27FR 27 Overland Park
+K47DR	otherChannel	K21HJ Gallup / Tohatchi NM
+K47DR	otherChannel	K32DK Shiprock NM / Chinle AZ
+DYXX-TV	otherChannel	DYEN-TV 13 Bacolod & D10YA 10 Sipalay, Negros Occ.
+KSVN-CA	otherChannel	K39JS-D 39.1 Salt Lake City, Utah
+KXMN-LP	otherChannel	KAPP-DT 14.2 (UHF, Yakima)
+KXMN-LP	otherChannel	KVEW-DT 44.2 (UHF, Kennewick)
+K12OZ	otherChannel	K03HK 3 Fresno
+KEJT-LP	otherChannel	KUTA-LP 8 Logan UT
+KEJT-LP	otherChannel	K57JB \
+K08MM	otherChannel	K24GS 24 Bakersfield
+WUVF-LP	otherChannel	WLZE-LP Fort Myers (51, UHF)
+WLOT-LP	otherChannel	WBQZ-LP 34 Watertown NY
+KNWS-LP	otherChannel	KRZG-CA 35 (UHF, McAllen)
+KNWS-LP	otherChannel	KAZH-LP 57 (UHF, McAllen)
+KTSB-LP	otherChannel	K10OG Lompoc CA
+KTSB-LP	otherChannel	K17GD Paso Robles CA
+KTSB-LP	otherChannel	K28FK San Luis Obispo CA
+KTSB-LP	otherChannel	K35ER Santa Maria CA
+KAJN-LP	otherChannel	KAGN-LP ch.31, Crowley
+KAJN-LP	otherChannel	KFAM-LP ch.14, Lake Charles
+WVBK-CA	otherChannel	47 WVBQ-LP Newport - Charlestown, NH
+K30DJ	otherChannel	K20DN Wichita Falls TX
+KSBO-CA	otherChannel	(See article)
+KJCN-LP	otherChannel	K22EE Morro Bay CA
+KJCN-LP	otherChannel	K23CL Lompoc CA
+KJCN-LP	otherChannel	K51GB Santa Maria CA
+CHET-TV	otherChannel	CHET-TV-1 33 (Hasler Flats)
+KIDZ-LP	otherChannel	KXVA 15.2
+KIDZ-LP	otherChannel	See Translators section
+ABC (TV station)	otherChannel	Analog: ABC49 Conder
+ABC (TV station)	otherChannel	ABC55 Mount Taylor
+ABC (TV station)	otherChannel	ABC56 Fraser
+ABC (TV station)	otherChannel	ABC60 Tuggeranong Hill
+ABC (TV station)	otherChannel	Digital: ABC59 Mount Taylor and Tuggeranong Hill
+WUPT-CA	otherChannel	WUPT-LP ch.43 (UHF, Republic, Michigan)
+K21GX	otherChannel	K26GJ-D ch.26 (UHF), Portland, Oregon
+K32GS	otherChannel	K53FF ch.53 (UHF), Coeur d'Alene, Idaho
+KRLB-LP	otherChannel	KWWO-LP ch.47.1, Walla Walla
+KTFD-DT	otherChannel	KDVT-LP 36 Denver, Colorado
+DYSS-TV	otherChannel	D-5-YB 5 Dumaguete
+DYSS-TV	otherChannel	D-11-YC 11 Samboan, Cebu
+DYSS-TV	otherChannel	D-11-YD 11 Barili, Cebu
+DYSS-TV	otherChannel	D-11-YE 11 Jagna, Bohol
+WHCQ-LP	otherChannel	WEBU-LP ch.11, Webb
+WHCQ-LP	otherChannel	WPRQ-LP ch.12, Clarksdale
+KZCO-LP	otherChannel	KMGH-DT2 7.2 Denver
+KZCO-LP	otherChannel	KZCS-LP 23 Colorado Springs
+KZCO-LP	otherChannel	KZFC-LP 36 Windsor
+WSCP-CA	otherChannel	W41CF 41 Altoona
+KVTF-CA	otherChannel	KFTN-CA ch.30 (UHF), La Feria KTFV-CA ch.32 (UHF), McAllen
+CBNLT	otherChannel	9 CBNLT-1 Churchill Falls
+WPAN	otherChannel	W50CF Mobile AL
+KSPK-LP	otherChannel	K34GI 34 Trinidad
+CHAK-TV	otherChannel	see below
+KZFW-LP	otherChannel	(see article)
+KFMD-LP	otherChannel	KEFM-LP 6 Chico, California
+KCDO-TV	otherChannel	23 (UHF) Kimball, NE
+KCDO-TV	otherChannel	34 (UHF) Sidney, NE
+KCDO-TV	otherChannel	KLPD-LD 28.3 Denver, CO
+KCDO-TV	otherChannel	K22JL-D Peetz, CO
+KCDO-TV	otherChannel	K39KL-D Akron, CO
+Oaxaca TV  XHAOX-TV   1	otherChannel	see table
+XHGJG-TV	otherChannel	see below
+XHPAH-TV	otherChannel	see below
+XHTLX-TV	otherChannel	see below
+XHMOR-TV	otherChannel	see below
+KNVN	otherChannel	K42HL-D Oroville
+KUNW-CA	otherChannel	(see article)
+WLLP	otherChannel	Analog:  10 (VHF)
+WWCI-CA	otherChannel	WWCI-LP 32
+MyTV Northern California	otherChannel	K04QC Oroville
+DZRR-TV	otherChannel	DWZO-TV (Studio 23)
+TV2 (Virgin Islands)	otherChannel	22 (UHF)
+TV2 (Virgin Islands)	otherChannel	(WMNS-LP, Charlotte Amalie)
+WMDV-LD	otherChannel	44-1 Martinsville's Own
+WMDV-LD	otherChannel	44-2 Danville's Own
+WMDV-LD	otherChannel	44-3 Route 44 Country
+WMDV-LD	otherChannel	44-4 Faith TV (Religious)
+Tokyo Broadcasting System Television  JORX- D TV   1	otherChannel	Niijima, Tokyo
+Tokyo Broadcasting System Television  JORX- D TV   1	otherChannel	Analog: Channel 56
+Tokyo Broadcasting System Television  JORX- D TV   1	otherChannel	Mito, Ibaraki
+Tokyo Broadcasting System Television  JORX- D TV   1	otherChannel	Analog: Channel 40
+Tokyo Broadcasting System Television  JORX- D TV   1	otherChannel	Digital: Channel 15
+Tokyo Broadcasting System Television  JORX- D TV   1	otherChannel	Utsunomiya, Tochigi
+Tokyo Broadcasting System Television  JORX- D TV   1	otherChannel	Analog: Channel 55
+Tokyo Broadcasting System Television  JORX- D TV   1	otherChannel	Digital: Channel 15
+Tokyo Broadcasting System Television  JORX- D TV   1	otherChannel	Maebashi, Gunma
+Tokyo Broadcasting System Television  JORX- D TV   1	otherChannel	Analog: Channel 56
+Tokyo Broadcasting System Television  JORX- D TV   1	otherChannel	Digital: Channel 43
+Tokyo Broadcasting System Television  JORX- D TV   1	otherChannel	Kiry\u016B, Gunma
+Tokyo Broadcasting System Television  JORX- D TV   1	otherChannel	Analog: Channel 55
+Tokyo Broadcasting System Television  JORX- D TV   1	otherChannel	Chichibu, Saitama
+Tokyo Broadcasting System Television  JORX- D TV   1	otherChannel	Analog: Channel 18
+Tokyo Broadcasting System Television  JORX- D TV   1	otherChannel	Narita, Chiba
+Tokyo Broadcasting System Television  JORX- D TV   1	otherChannel	Analog: Channel 55
+Tokyo Broadcasting System Television  JORX- D TV   1	otherChannel	Tateyama, Chiba
+Tokyo Broadcasting System Television  JORX- D TV   1	otherChannel	Analog: Channel 56
+Tokyo Broadcasting System Television  JORX- D TV   1	otherChannel	Yokohama Minato Mirai 21, Kanagawa
+Tokyo Broadcasting System Television  JORX- D TV   1	otherChannel	Analog: Channel 56
+Tokyo Broadcasting System Television  JORX- D TV   1	otherChannel	Yokosuka-Kurihama, Kanagawa
+Tokyo Broadcasting System Television  JORX- D TV   1	otherChannel	Analog: Channel 39
+Tokyo Broadcasting System Television  JORX- D TV   1	otherChannel	Hiratsuka, Kanagawa
+Tokyo Broadcasting System Television  JORX- D TV   1	otherChannel	Analog: Channel 37
+Tokyo Broadcasting System Television  JORX- D TV   1	otherChannel	Digital: Channel 22
+Tokyo Broadcasting System Television  JORX- D TV   1	otherChannel	Odawara, Kanagawa
+Tokyo Broadcasting System Television  JORX- D TV   1	otherChannel	Analog: Channel 56
+W34DV	otherChannel	Analog:W53AF Channel 53
+Nishinippon Broadcasting  JOKF- D TV   1	otherChannel	See #Stations
+TV Verdes Mares	otherChannel	10 on SKY Brasil
+TV Verdes Mares	otherChannel	10 on NET Sobral/Cariri
+TV Verdes Mares	otherChannel	19 on NET Fortaleza
+Setonaikai Broadcasting	otherChannel	See #Stations
+CKY-TV	otherChannel	see below
+KEYT-TV	otherChannel	KSBB-LP 17 Santa Barbara (city)
+KEYT-TV	otherChannel	K57BC San Luis Obispo
+KCOY-TV	otherChannel	K44DN 44 Paso Robles
+CJIL-TV	otherChannel	see below
+KNDX	otherChannel	K38HA Dickinson (relays KNDX)
+KNDX	otherChannel	K38HS Williston (relays KXND)
+WGTW-TV	otherChannel	W60CX Atlantic City, NJ
+KAEP-LP	otherChannel	KVIA-TV 7.4, El Paso, Texas
+DZNC-TV	otherChannel	D10ZB 10 Albay
+XHSTA-TV	otherChannel	see below

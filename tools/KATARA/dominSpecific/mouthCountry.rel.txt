@@ -1,0 +1,456 @@
+Amazon River	mouthCountry	Brazil
+Amu Darya	mouthCountry	Uzbekistan
+Euphrates	mouthCountry	Iraq
+Ganges	mouthCountry	Bangladesh
+Indus River	mouthCountry	Pakistan
+Madeira River	mouthCountry	Brazil
+Niger River	mouthCountry	Nigeria
+Rhine	mouthCountry	Netherlands
+Tigris	mouthCountry	Iraq
+Yukon River	mouthCountry	United States
+Krishna River	mouthCountry	India
+Godavari River	mouthCountry	India
+Elbe	mouthCountry	Germany
+Delaware River	mouthCountry	United States
+Tisza	mouthCountry	Serbia
+Waal (river)	mouthCountry	Netherlands
+Amur River	mouthCountry	Russia
+Potomac River	mouthCountry	United States
+Tagus	mouthCountry	Portugal
+IJssel	mouthCountry	Netherlands
+Douro	mouthCountry	Portugal
+Guadiana	mouthCountry	Portugal
+Mekong	mouthCountry	Vietnam
+Syr Darya	mouthCountry	Kazakhstan
+Rhone	mouthCountry	France
+Orinoco	mouthCountry	Venezuela
+Han River (Korea)	mouthCountry	South Korea
+Han River (Korea)	mouthCountry	North Korea
+Charles River	mouthCountry	United States
+Derwent River (Tasmania)	mouthCountry	AUS
+Glomma	mouthCountry	Norway
+Merrimack River	mouthCountry	United States
+Río de la Plata	mouthCountry	Argentina
+Fraser River	mouthCountry	Canada
+Salween River	mouthCountry	Burma
+River Trent	mouthCountry	England
+Susquehanna River	mouthCountry	United States
+Yarra River	mouthCountry	Australia
+Mackenzie River	mouthCountry	Canada
+River Huntspill	mouthCountry	England
+River Churnet	mouthCountry	England
+Crişul Repede River	mouthCountry	Hungary
+River Tone	mouthCountry	England
+Patuxent River	mouthCountry	United States
+Rio Negro (Amazon)	mouthCountry	Brazil
+Don River (Ontario)	mouthCountry	Canada
+River Wye, Derbyshire	mouthCountry	England
+River Ashop	mouthCountry	England
+Geum River	mouthCountry	South Korea
+Humber River (Ontario)	mouthCountry	Canada
+Kura River	mouthCountry	Azerbaijan
+River Teme	mouthCountry	England
+Aruwimi River	mouthCountry	Africa
+Yamuna	mouthCountry	India
+Dnieper River	mouthCountry	Ukraine
+Lusatian Neisse	mouthCountry	Germany
+Nysa Kłodzka	mouthCountry	Poland
+Narew	mouthCountry	Poland
+River Clwyd	mouthCountry	Wales
+River Lugg	mouthCountry	England
+Bagmati River	mouthCountry	Nepal
+Iguazu River	mouthCountry	Argentina
+Iguazu River	mouthCountry	Brazil
+Schuylkill River	mouthCountry	United States
+Housatonic River	mouthCountry	United States
+Uruguay River	mouthCountry	Argentina
+Red Cedar River (Michigan)	mouthCountry	United States
+Flat River (Michigan)	mouthCountry	United States
+Mureş River	mouthCountry	Hungary
+Piscataqua River	mouthCountry	United States
+Rouge River (Ontario)	mouthCountry	Canada
+Okavango River	mouthCountry	Botswana
+Ume River	mouthCountry	Sweden
+Haw River	mouthCountry	United States
+Southern Bug	mouthCountry	Ukraine
+Bug River	mouthCountry	Poland
+Sammamish River	mouthCountry	United States
+Goulburn River (Victoria)	mouthCountry	Australia
+Paraná River	mouthCountry	Argentina
+Snowy River	mouthCountry	Australia
+Lehigh River	mouthCountry	United States
+Nervión	mouthCountry	Spain
+Juniata River	mouthCountry	United States
+Sand River (Ontario)	mouthCountry	Canada
+Desna River	mouthCountry	Ukraine
+Torne River	mouthCountry	Finland
+Torne River	mouthCountry	Sweden
+Brandywine Creek (Christina River)	mouthCountry	United States
+Okanogan River	mouthCountry	United States
+Kootenay River	mouthCountry	Canada
+Black Warrior River	mouthCountry	United States
+Magdalena River	mouthCountry	Colombia
+River Chew	mouthCountry	England
+Verde River	mouthCountry	United States
+Mahanadi River	mouthCountry	India
+Neretva	mouthCountry	Croatia
+Calcasieu River	mouthCountry	United States
+Doe River	mouthCountry	United States
+River Gowy	mouthCountry	England
+Mahakam River	mouthCountry	Indonesia
+Ozama River	mouthCountry	Dominican Republic
+Ahr	mouthCountry	Germany
+River Conwy	mouthCountry	Wales
+Timiș River	mouthCountry	Serbia
+Paraguay River	mouthCountry	Argentina
+Paraguay River	mouthCountry	Paraguay
+River Dove, Central England	mouthCountry	England
+River Frome, Bristol	mouthCountry	England
+Grande River	mouthCountry	Brazil
+Little Huron River	mouthCountry	United States
+Kafue River	mouthCountry	Zambia
+Son River	mouthCountry	India
+Mimico Creek	mouthCountry	Canada
+Taddle Creek	mouthCountry	Canada
+Garrison Creek	mouthCountry	Canada
+Târnava River	mouthCountry	Romania
+Chu River	mouthCountry	Kazakhstan
+River Cary	mouthCountry	England
+River Amber	mouthCountry	England
+Russell Creek (Ontario)	mouthCountry	Canada
+Lule River	mouthCountry	Sweden
+German Mills Creek (Don)	mouthCountry	Canada
+Tungabhadra River	mouthCountry	India
+Umgeni River	mouthCountry	South Africa
+Ulhas River	mouthCountry	India
+Fly River	mouthCountry	Papua New Guinea
+Ghaghara River	mouthCountry	India
+Kurobe River	mouthCountry	Japan
+Toyohira River	mouthCountry	Japan
+Klondike River	mouthCountry	Canada
+Mahananda River	mouthCountry	Bangladesh
+Markham River	mouthCountry	Papua New Guinea
+Suceava River	mouthCountry	Romania
+Strickland River	mouthCountry	Papua New Guinea
+Ok Tedi River	mouthCountry	Papua New Guinea
+Ramu	mouthCountry	Papua New Guinea
+Ouémé River	mouthCountry	Benin
+Ouham River	mouthCountry	Chad
+River Ure	mouthCountry	England
+Chrudimka	mouthCountry	Czech Republic
+Purari River	mouthCountry	Papua New Guinea
+Bhima River	mouthCountry	India
+Chambal River	mouthCountry	India
+Gamtoos River	mouthCountry	South Africa
+Coco River	mouthCountry	Nicaragua
+Little Avon River	mouthCountry	United Kingdom
+Mokelumne River	mouthCountry	United States
+Vologda River	mouthCountry	Russia
+Logone River	mouthCountry	Chad
+Ulúa River	mouthCountry	Honduras
+Irrawaddy River	mouthCountry	Burma
+Chehalis River (British Columbia)	mouthCountry	Canada
+River Trym	mouthCountry	England
+Cobbs Creek	mouthCountry	United States
+Adyar (River)	mouthCountry	Tamil Nadu
+Yarkon River	mouthCountry	Israel
+Viskan	mouthCountry	Sweden
+Ponoy River	mouthCountry	Russia
+Homla	mouthCountry	Norway
+Someş River	mouthCountry	Hungary
+Paterson River	mouthCountry	Australia
+Umfolozi River	mouthCountry	South Africa
+Timok (river)	mouthCountry	Serbia
+Timok (river)	mouthCountry	Bulgaria
+Gandaki River	mouthCountry	India
+Oulujoki	mouthCountry	Finland
+Magog River	mouthCountry	Canada
+Sil (river)	mouthCountry	Spain
+Parbati River (Rajasthan)	mouthCountry	India
+Nera River (Danube)	mouthCountry	Romania
+Queen River	mouthCountry	AUS
+Payaswini	mouthCountry	India
+River Ash, Surrey	mouthCountry	England
+River Ash, Surrey	mouthCountry	United Kingdom
+Sobat River	mouthCountry	South Sudan
+White River (Ontario)	mouthCountry	Canada
+Koshi River	mouthCountry	India
+Saru River	mouthCountry	Japan
+Little Zab	mouthCountry	Iraq
+Great Zab	mouthCountry	Iraq
+Thomson River (Victoria)	mouthCountry	Australia
+Minho River	mouthCountry	Spain
+Sundays River	mouthCountry	South Africa
+Vermilion River (Louisiana)	mouthCountry	United States
+Goffle Brook	mouthCountry	United States
+Diamond Brook	mouthCountry	United States
+Congresbury Yeo	mouthCountry	England
+Seyhan River	mouthCountry	Turkey
+Eem	mouthCountry	Netherlands
+Saint-François River	mouthCountry	Canada
+Bârzava River (Timiş)	mouthCountry	Serbia
+Samish River	mouthCountry	United States
+Ammonoosuc River	mouthCountry	United States
+Apies River	mouthCountry	South Africa
+Choluteca River	mouthCountry	Honduras
+King's Sedgemoor Drain	mouthCountry	England
+Arun River, China-Nepal	mouthCountry	Nepal
+Oshiwara River	mouthCountry	India
+Guaporé River	mouthCountry	Brazil
+Guaporé River	mouthCountry	Bolivia
+La Trobe River	mouthCountry	Australia
+Peckman River	mouthCountry	United States
+Crum Creek	mouthCountry	United States
+River Alport	mouthCountry	England
+Goascorán River	mouthCountry	El Salvador
+Goascorán River	mouthCountry	Honduras
+Rotla	mouthCountry	Norway
+Ross River (Queensland)	mouthCountry	Australia
+Kadalundi River	mouthCountry	India
+Kander (Switzerland)	mouthCountry	Switzerland
+Cam Brook	mouthCountry	England
+Wellow Brook	mouthCountry	England
+River Somer	mouthCountry	England
+Sittaung River	mouthCountry	Burma
+Bécancour River	mouthCountry	Canada
+Cutler River (New Hampshire)	mouthCountry	United States
+Khalkhyn Gol	mouthCountry	Mongolia
+Wappinger Creek	mouthCountry	United States
+Glenelg River (Victoria)	mouthCountry	Australia
+Weymouth Back River	mouthCountry	United States
+Umba River (Tanzania)	mouthCountry	Tanzania
+Holland Brook	mouthCountry	United States
+Ninemile Creek (Onondaga Lake)	mouthCountry	United States
+Quinebaug River	mouthCountry	United States
+Tuloma River	mouthCountry	Russia
+Burbage Brook	mouthCountry	England
+Manjira River	mouthCountry	India
+Poisar River	mouthCountry	India
+Nea River	mouthCountry	Norway
+Bentley Brook	mouthCountry	England
+Bâsca Roziliei River	mouthCountry	Buzău County
+Desaguadero River (Bolivia)	mouthCountry	Bolivia
+Tes River	mouthCountry	Mongolia
+Souffel	mouthCountry	France
+Moraviţa River (Timiş)	mouthCountry	Serbia
+Guadaíra	mouthCountry	Spain
+Vouga River	mouthCountry	Portugal
+San Pedro Creek	mouthCountry	United States
+Marin Creek	mouthCountry	United States
+Ilba River	mouthCountry	Romania
+Khrami River	mouthCountry	Azerbaijan
+San Pedro River (Arizona)	mouthCountry	United States
+Hindon River	mouthCountry	India
+Corhana River	mouthCountry	Hungary
+Culişer Canal	mouthCountry	Hungary
+Kaladan River	mouthCountry	Burma
+Vyg River	mouthCountry	Russia
+Barcău River (Criş)	mouthCountry	Hungary
+Berzasca River	mouthCountry	Romania
+Pere Marquette River	mouthCountry	United States
+River Sheppey	mouthCountry	England
+River Aller	mouthCountry	England
+Barton River	mouthCountry	United States
+Aji River (Gujarat)	mouthCountry	India
+Khava River	mouthCountry	Russia
+Nkusi River	mouthCountry	Uganda
+Mayanja River	mouthCountry	Uganda
+Bybrook River	mouthCountry	England
+Galaţca River	mouthCountry	Serbia
+Vicinic River	mouthCountry	Serbia
+Ilidija	mouthCountry	Serbia
+Crasna Veche River	mouthCountry	Hungary
+Valea Neagră River (Crasna)	mouthCountry	Hungary
+Aporliget	mouthCountry	Hungary
+Horea River	mouthCountry	Hungary
+Giucoşin River	mouthCountry	Serbia
+River Bush	mouthCountry	Northern Ireland
+Cagayan River (Cagayan de Oro)	mouthCountry	Philippines
+Cameniţa River (Danube)	mouthCountry	Romania
+Caoniţa River	mouthCountry	Romania
+Cruşoviţa River	mouthCountry	Romania
+Suva River, Danube	mouthCountry	Romania
+Sirina River	mouthCountry	Romania
+Iuţi River	mouthCountry	Romania
+Suhodolu River	mouthCountry	Romania
+Liubotina River	mouthCountry	Romania
+Liuborajdia River	mouthCountry	Romania
+Livadica	mouthCountry	Serbia
+Alibeg River (Danube)	mouthCountry	Romania
+Cozla River	mouthCountry	Romania
+Zascoc River	mouthCountry	Romania
+Elişeva River	mouthCountry	Romania
+Mala River	mouthCountry	Romania
+Groţca River	mouthCountry	Romania
+Plavişeviţa River	mouthCountry	Romania
+Paolina River	mouthCountry	Romania
+Reciţa River	mouthCountry	Romania
+Lérez	mouthCountry	Spain
+River Mease	mouthCountry	England
+Atea River	mouthCountry	Hungary
+Makomanai River	mouthCountry	Japan
+Wadi Fa'rah	mouthCountry	West Bank
+Jones Falls	mouthCountry	United States
+Manada Creek	mouthCountry	United States
+Khabur (Tigris)	mouthCountry	Iraq
+Clyde River (Vermont)	mouthCountry	United States
+Mapusa River	mouthCountry	India
+Black River (Lake Memphremagog)	mouthCountry	United States
+Mirna (Croatia)	mouthCountry	Croatia
+River Og	mouthCountry	United Kingdom
+Mörrumsån	mouthCountry	Sweden
+Lysakerelven	mouthCountry	Norway
+Storms River	mouthCountry	South Africa
+Mu River	mouthCountry	Burma
+Dreisam	mouthCountry	Germany
+Guadiaro	mouthCountry	Spain
+Sandvikselva	mouthCountry	Norway
+Øverlandselva	mouthCountry	Norway
+Baviaanskloof River	mouthCountry	South Africa
+Chitose River	mouthCountry	Japan
+Van Stadens River	mouthCountry	South Africa
+Stjørdalselva	mouthCountry	Norway
+Teshio River	mouthCountry	Japan
+Danube	mouthCountry	Romania
+Wami River	mouthCountry	Tanzania
+Molly Ann Brook	mouthCountry	United States
+Slippery Rock Brook	mouthCountry	United States
+Little Etobicoke Creek	mouthCountry	Canada
+Huron River (northern Michigan)	mouthCountry	United States
+Narewka (river)	mouthCountry	Poland
+Bhargavi River	mouthCountry	India
+Rouvre	mouthCountry	France
+Ahr (South Tyrol)	mouthCountry	Italy
+Derjon	mouthCountry	Italy
+Talfer	mouthCountry	Italy
+Aller (Caudal)	mouthCountry	Spain
+Yūbari River	mouthCountry	Japan
+Mu River (Hokkaidō)	mouthCountry	Japan
+Tokachi River	mouthCountry	Japan
+Kushiro River	mouthCountry	Japan
+Shiribetsu River	mouthCountry	Japan
+Tokoro River	mouthCountry	Japan
+Abashiri River	mouthCountry	Japan
+Rifle River	mouthCountry	United States
+Lempa River	mouthCountry	El Salvador
+Akan River	mouthCountry	Japan
+Mitsuishi River	mouthCountry	Japan
+Niikappu River	mouthCountry	Japan
+Sandalysh River	mouthCountry	Kyrgyzstan
+Kanakarayan River	mouthCountry	Sri Lanka
+Parangi Aru	mouthCountry	Sri Lanka
+Pali Aru	mouthCountry	Sri Lanka
+Nay Aru (Mannar)	mouthCountry	Sri Lanka
+Per Aru	mouthCountry	Sri Lanka
+Pallavarayankaddu Aru	mouthCountry	Sri Lanka
+Akkarayan Aru	mouthCountry	Sri Lanka
+Mandekal Aru	mouthCountry	Sri Lanka
+Netheli Aru	mouthCountry	Sri Lanka
+Theravil Aru	mouthCountry	Sri Lanka
+Piramenthal Aru	mouthCountry	Sri Lanka
+Nay Aru (Mullaitivu)	mouthCountry	Sri Lanka
+Kodalikkallu Aru	mouthCountry	Sri Lanka
+Adams River (British Columbia)	mouthCountry	Canada
+Sixaola River	mouthCountry	Costa Rica
+Shokotsu River	mouthCountry	Japan
+Yūbetsu River	mouthCountry	Japan
+Rumoi River	mouthCountry	Japan
+Shiribeshi-Toshibetsu River	mouthCountry	Japan
+Koetoi River	mouthCountry	Japan
+Shibetsu River	mouthCountry	Japan
+Groot River (Eastern Cape)	mouthCountry	South Africa
+Choluteca river basin	mouthCountry	Honduras
+Sezibwa River	mouthCountry	Uganda
+Lazaretto Creek	mouthCountry	United States
+Venoge (river)	mouthCountry	Switzerland
+Little Maple River	mouthCountry	United States
+Ebro	mouthCountry	Spain
+Upper Neretva	mouthCountry	Croatia
+New Cut (Bristol)	mouthCountry	England
+Kurshab River	mouthCountry	Kyrgyzstan
+Middle Fork Flathead River	mouthCountry	United States
+Oder	mouthCountry	Poland
+Hazel Brook	mouthCountry	England
+Schussen	mouthCountry	Eriskirch
+Schussen	mouthCountry	Lake Constance
+Poesten Kill	mouthCountry	United States
+Jalón (river)	mouthCountry	Aragon
+Jiloca (river)	mouthCountry	Aragon
+Piedra (Spain)	mouthCountry	Spain
+Siston Brook	mouthCountry	England
+River Boyd	mouthCountry	England
+River Malago	mouthCountry	England
+Brislington Brook	mouthCountry	England
+Pleasant Run (New Jersey)	mouthCountry	United States
+Tenniöjoki	mouthCountry	Finland
+Lam Brook	mouthCountry	England
+Gauze Brook	mouthCountry	England
+Tetbury Avon	mouthCountry	England
+Ratua Khola	mouthCountry	India
+Groot Brak River (Western Cape)	mouthCountry	South Africa
+Woodbridge Brook	mouthCountry	England
+Brinkworth Brook	mouthCountry	England
+Cocklemore Brook	mouthCountry	England
+Pendé River	mouthCountry	Chad
+Bahr Aouk River	mouthCountry	Chad
+Kamuiwakka River	mouthCountry	Japan
+Pequonnock River	mouthCountry	United States
+Verlorevlei River	mouthCountry	South Africa
+Bot River	mouthCountry	South Africa
+Klein River	mouthCountry	South Africa
+Uilkraal River	mouthCountry	South Africa
+Little Brak River	mouthCountry	South Africa
+Rapid River (Alaska-Yukon)	mouthCountry	United States
+White Umfolozi River	mouthCountry	South Africa
+At-Bashi River	mouthCountry	Kyrgyzstan
+Kichi-Kemin River	mouthCountry	Kyrgyzstan
+Kharkai River	mouthCountry	India
+Chong-Kemin River	mouthCountry	Kyrgyzstan
+Ysyk-Ata River	mouthCountry	Kyrgyzstan
+Water resources management in El Salvador	mouthCountry	El Salvador
+South Karo River	mouthCountry	India
+North Karo River	mouthCountry	India
+Kamala River	mouthCountry	India
+Mechi River	mouthCountry	India
+Kankai River	mouthCountry	India
+Cameron Creek	mouthCountry	United States
+Packwood Creek	mouthCountry	United States
+Anano River	mouthCountry	Japan
+Cregg River	mouthCountry	Ireland
+Töre River	mouthCountry	Sweden
+Patroon Creek	mouthCountry	United States
+Sajur River	mouthCountry	Syria
+Tatsuushi River	mouthCountry	Japan
+Sorraia River	mouthCountry	Portugal
+Kochkor River	mouthCountry	Kyrgyzstan
+Killi river	mouthCountry	India
+Criş Collector Canal	mouthCountry	Romania
+Jordan River (Victoria)	mouthCountry	Australia
+Howqua River	mouthCountry	Australia
+Normans Kill	mouthCountry	New York
+Kariega River	mouthCountry	South Africa
+Tartar river	mouthCountry	Azerbaijan
+On Archa River	mouthCountry	Kyrgyzstan
+Turağayçay	mouthCountry	Azerbaijan
+Joon Aryk	mouthCountry	Kyrgyzstan
+Samur River	mouthCountry	Russia
+Samur-Absheron channel	mouthCountry	Azerbaijan
+Đuống River	mouthCountry	Vietnam
+Gadar River	mouthCountry	Iran
+Zolotonoshka River	mouthCountry	Ukraine
+Verdalselva	mouthCountry	Norway
+Inna (Verdal)	mouthCountry	Norway
+Helgåa	mouthCountry	Norway
+Maple River (Grand River)	mouthCountry	United States
+Sepik	mouthCountry	Papua New Guinea
+Bharathappuzha	mouthCountry	India
+Prut	mouthCountry	Moldova
+Pine River (Manistee River)	mouthCountry	United States
+Oyabe River	mouthCountry	Japan
+Hezil Suyu	mouthCountry	Turkey
+Congost River	mouthCountry	Spain
+River Muzizi	mouthCountry	Uganda
+River Kafu	mouthCountry	Uganda
+Tosor River	mouthCountry	Kyrgyzstan
+Oxoboxo River	mouthCountry	United States
+Pardinho River	mouthCountry	Brazil

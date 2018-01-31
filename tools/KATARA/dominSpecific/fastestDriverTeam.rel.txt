@@ -1,0 +1,918 @@
+2004 San Marino Grand Prix	fastestDriverTeam	Scuderia Ferrari
+2003 San Marino Grand Prix	fastestDriverTeam	Scuderia Ferrari
+2004 Malaysian Grand Prix	fastestDriverTeam	Williams F1
+2004 Australian Grand Prix	fastestDriverTeam	Scuderia Ferrari
+2004 Bahrain Grand Prix	fastestDriverTeam	Scuderia Ferrari
+2003 Australian Grand Prix	fastestDriverTeam	McLaren
+2003 Malaysian Grand Prix	fastestDriverTeam	Scuderia Ferrari
+2003 Spanish Grand Prix	fastestDriverTeam	Scuderia Ferrari
+2003 Monaco Grand Prix	fastestDriverTeam	McLaren
+2003 European Grand Prix	fastestDriverTeam	McLaren
+2004 Spanish Grand Prix	fastestDriverTeam	Scuderia Ferrari
+2004 Monaco Grand Prix	fastestDriverTeam	Scuderia Ferrari
+2003 United States Grand Prix	fastestDriverTeam	Scuderia Ferrari
+2002 Australian Grand Prix	fastestDriverTeam	McLaren
+2001 Australian Grand Prix	fastestDriverTeam	Scuderia Ferrari
+2000 Australian Grand Prix	fastestDriverTeam	Scuderia Ferrari
+2004 Japanese Grand Prix	fastestDriverTeam	Scuderia Ferrari
+2004 European Grand Prix	fastestDriverTeam	Scuderia Ferrari
+2004 Brazilian Grand Prix	fastestDriverTeam	Williams F1
+1950 British Grand Prix	fastestDriverTeam	Alfa Romeo in Formula One
+1950 Monaco Grand Prix	fastestDriverTeam	Alfa Romeo in Formula One
+1950 Swiss Grand Prix	fastestDriverTeam	Alfa Romeo in Formula One
+1950 Belgian Grand Prix	fastestDriverTeam	Alfa Romeo
+1951 Swiss Grand Prix	fastestDriverTeam	Alfa Romeo
+1950 Italian Grand Prix	fastestDriverTeam	Alfa Romeo in Formula One
+1950 French Grand Prix	fastestDriverTeam	Alfa Romeo in Formula One
+1951 Belgian Grand Prix	fastestDriverTeam	Alfa Romeo
+1951 French Grand Prix	fastestDriverTeam	Alfa Romeo in Formula One
+1951 British Grand Prix	fastestDriverTeam	Alfa Romeo in Formula One
+1951 German Grand Prix	fastestDriverTeam	Alfa Romeo in Formula One
+1951 Italian Grand Prix	fastestDriverTeam	Alfa Romeo in Formula One
+1951 Spanish Grand Prix	fastestDriverTeam	Alfa Romeo in Formula One
+1952 Belgian Grand Prix	fastestDriverTeam	Scuderia Ferrari
+1952 British Grand Prix	fastestDriverTeam	Scuderia Ferrari
+1953 Argentine Grand Prix	fastestDriverTeam	Scuderia Ferrari
+1952 Italian Grand Prix	fastestDriverTeam	Scuderia Ferrari
+1953 Dutch Grand Prix	fastestDriverTeam	Scuderia Ferrari
+1953 Belgian Grand Prix	fastestDriverTeam	Maserati
+1953 Swiss Grand Prix	fastestDriverTeam	Scuderia Ferrari
+1953 British Grand Prix	fastestDriverTeam	Scuderia Ferrari
+1953 German Grand Prix	fastestDriverTeam	Scuderia Ferrari
+1953 French Grand Prix	fastestDriverTeam	Maserati
+1954 Argentine Grand Prix	fastestDriverTeam	Scuderia Ferrari
+1953 Italian Grand Prix	fastestDriverTeam	Maserati
+1954 Belgian Grand Prix	fastestDriverTeam	Maserati
+1954 French Grand Prix	fastestDriverTeam	Mercedes GP
+1954 British Grand Prix	fastestDriverTeam	Maserati
+1954 German Grand Prix	fastestDriverTeam	Mercedes GP
+1955 Monaco Grand Prix	fastestDriverTeam	Mercedes GP
+1956 Monaco Grand Prix	fastestDriverTeam	Scuderia Ferrari
+1956 Argentine Grand Prix	fastestDriverTeam	Scuderia Ferrari
+1956 Belgian Grand Prix	fastestDriverTeam	Maserati
+1956 British Grand Prix	fastestDriverTeam	Maserati
+1955 British Grand Prix	fastestDriverTeam	Mercedes GP
+1956 Italian Grand Prix	fastestDriverTeam	Maserati in motorsport
+1957 British Grand Prix	fastestDriverTeam	Vanwall
+1958 Belgian Grand Prix	fastestDriverTeam	Scuderia Ferrari
+1959 French Grand Prix	fastestDriverTeam	British Racing Motors
+1959 British Grand Prix	fastestDriverTeam	British Racing Motors
+1960 British Grand Prix	fastestDriverTeam	British Racing Motors
+1960 Italian Grand Prix	fastestDriverTeam	Scuderia Ferrari
+1960 United States Grand Prix	fastestDriverTeam	Cooper Car Company
+1961 Dutch Grand Prix	fastestDriverTeam	Team Lotus
+1961 Monaco Grand Prix	fastestDriverTeam	Scuderia Ferrari
+1961 Belgian Grand Prix	fastestDriverTeam	Scuderia Ferrari
+1961 British Grand Prix	fastestDriverTeam	British Racing Motors
+1961 French Grand Prix	fastestDriverTeam	Scuderia Ferrari
+1961 Italian Grand Prix	fastestDriverTeam	Scuderia Ferrari
+1962 Dutch Grand Prix	fastestDriverTeam	Cooper Car Company
+1962 Monaco Grand Prix	fastestDriverTeam	Team Lotus
+1962 French Grand Prix	fastestDriverTeam	British Racing Motors
+1961 German Grand Prix	fastestDriverTeam	Scuderia Ferrari
+1962 British Grand Prix	fastestDriverTeam	Team Lotus
+1962 German Grand Prix	fastestDriverTeam	British Racing Motors
+1962 South African Grand Prix	fastestDriverTeam	Team Lotus
+1962 Italian Grand Prix	fastestDriverTeam	British Racing Motors
+1962 Belgian Grand Prix	fastestDriverTeam	Team Lotus
+1963 Monaco Grand Prix	fastestDriverTeam	Scuderia Ferrari
+1963 Dutch Grand Prix	fastestDriverTeam	Team Lotus
+1963 French Grand Prix	fastestDriverTeam	Team Lotus
+1963 British Grand Prix	fastestDriverTeam	Scuderia Ferrari
+1963 Belgian Grand Prix	fastestDriverTeam	Team Lotus
+1963 German Grand Prix	fastestDriverTeam	Scuderia Ferrari
+1963 United States Grand Prix	fastestDriverTeam	Team Lotus
+1963 Mexican Grand Prix	fastestDriverTeam	Team Lotus
+1963 Italian Grand Prix	fastestDriverTeam	Team Lotus
+1964 French Grand Prix	fastestDriverTeam	Brabham
+1964 British Grand Prix	fastestDriverTeam	Team Lotus
+1963 South African Grand Prix	fastestDriverTeam	Brabham
+1965 Belgian Grand Prix	fastestDriverTeam	Team Lotus
+1965 British Grand Prix	fastestDriverTeam	British Racing Motors
+1965 United States Grand Prix	fastestDriverTeam	British Racing Motors
+1966 French Grand Prix	fastestDriverTeam	Scuderia Ferrari
+1966 United States Grand Prix	fastestDriverTeam	Cooper Car Company
+1967 South African Grand Prix	fastestDriverTeam	Brabham
+1967 French Grand Prix	fastestDriverTeam	Team Lotus
+1967 German Grand Prix	fastestDriverTeam	All American Racers
+1967 Italian Grand Prix	fastestDriverTeam	Team Lotus
+1968 Spanish Grand Prix	fastestDriverTeam	Matra
+1968 Monaco Grand Prix	fastestDriverTeam	British Racing Motors
+1968 Belgian Grand Prix	fastestDriverTeam	Honda Racing F1
+1968 South African Grand Prix	fastestDriverTeam	Team Lotus
+1968 French Grand Prix	fastestDriverTeam	British Racing Motors
+1968 Dutch Grand Prix	fastestDriverTeam	Matra
+1968 British Grand Prix	fastestDriverTeam	Team Lotus
+1968 German Grand Prix	fastestDriverTeam	Matra
+1968 Italian Grand Prix	fastestDriverTeam	Team Lotus
+1968 United States Grand Prix	fastestDriverTeam	Matra
+1968 Canadian Grand Prix	fastestDriverTeam	Team Lotus
+1969 South African Grand Prix	fastestDriverTeam	Matra
+1968 Mexican Grand Prix	fastestDriverTeam	Team Lotus
+1969 Spanish Grand Prix	fastestDriverTeam	Team Lotus
+1969 Monaco Grand Prix	fastestDriverTeam	Matra
+1969 Dutch Grand Prix	fastestDriverTeam	Matra
+1969 French Grand Prix	fastestDriverTeam	Matra
+1969 British Grand Prix	fastestDriverTeam	Matra
+1969 Italian Grand Prix	fastestDriverTeam	Matra
+1969 Mexican Grand Prix	fastestDriverTeam	Brabham
+1970 South African Grand Prix	fastestDriverTeam	Brabham
+1970 Spanish Grand Prix	fastestDriverTeam	Brabham
+1970 Monaco Grand Prix	fastestDriverTeam	Team Lotus
+1970 United States Grand Prix	fastestDriverTeam	Scuderia Ferrari
+1971 Spanish Grand Prix	fastestDriverTeam	Scuderia Ferrari
+1971 South African Grand Prix	fastestDriverTeam	Scuderia Ferrari
+1971 United States Grand Prix	fastestDriverTeam	Scuderia Ferrari
+1972 Austrian Grand Prix	fastestDriverTeam	McLaren
+1972 British Grand Prix	fastestDriverTeam	Tyrrell Racing
+1972 United States Grand Prix	fastestDriverTeam	Tyrrell Racing
+1973 Brazilian Grand Prix	fastestDriverTeam	Team Lotus
+1973 Belgian Grand Prix	fastestDriverTeam	Tyrrell Racing
+1973 British Grand Prix	fastestDriverTeam	March Engineering
+1973 Dutch Grand Prix	fastestDriverTeam	Team Lotus
+1973 German Grand Prix	fastestDriverTeam	Surtees
+1973 United States Grand Prix	fastestDriverTeam	March Engineering
+1974 Argentine Grand Prix	fastestDriverTeam	Scuderia Ferrari
+1974 German Grand Prix	fastestDriverTeam	Tyrrell Racing
+1975 Spanish Grand Prix	fastestDriverTeam	Vel's Parnelli Jones Racing
+1975 Monaco Grand Prix	fastestDriverTeam	Tyrrell Racing
+1975 Austrian Grand Prix	fastestDriverTeam	March Engineering
+1975 United States Grand Prix	fastestDriverTeam	McLaren
+1976 Monaco Grand Prix	fastestDriverTeam	Scuderia Ferrari
+1976 German Grand Prix	fastestDriverTeam	Tyrrell Racing
+1976 Dutch Grand Prix	fastestDriverTeam	Scuderia Ferrari
+1976 Japanese Grand Prix	fastestDriverTeam	Kojima Engineering
+1977 Argentine Grand Prix	fastestDriverTeam	McLaren
+1976 Canadian Grand Prix	fastestDriverTeam	Tyrrell Racing
+1977 South African Grand Prix	fastestDriverTeam	Brabham
+1977 Brazilian Grand Prix	fastestDriverTeam	McLaren
+1977 Spanish Grand Prix	fastestDriverTeam	Equipe Ligier
+1977 Monaco Grand Prix	fastestDriverTeam	Walter Wolf Racing
+1977 Belgian Grand Prix	fastestDriverTeam	Team Lotus
+1977 French Grand Prix	fastestDriverTeam	Team Lotus
+1977 Swedish Grand Prix	fastestDriverTeam	Team Lotus
+1977 British Grand Prix	fastestDriverTeam	McLaren
+1977 German Grand Prix	fastestDriverTeam	Scuderia Ferrari
+1977 Austrian Grand Prix	fastestDriverTeam	Brabham
+1977 Canadian Grand Prix	fastestDriverTeam	Team Lotus
+1977 Italian Grand Prix	fastestDriverTeam	Team Lotus
+1977 Dutch Grand Prix	fastestDriverTeam	Scuderia Ferrari
+1977 Japanese Grand Prix	fastestDriverTeam	Walter Wolf Racing
+1978 Argentine Grand Prix	fastestDriverTeam	Scuderia Ferrari
+1978 Brazilian Grand Prix	fastestDriverTeam	Scuderia Ferrari
+1978 South African Grand Prix	fastestDriverTeam	Team Lotus
+1978 Monaco Grand Prix	fastestDriverTeam	Brabham
+1978 Spanish Grand Prix	fastestDriverTeam	Team Lotus
+1978 Belgian Grand Prix	fastestDriverTeam	Team Lotus
+1978 French Grand Prix	fastestDriverTeam	Scuderia Ferrari
+1978 British Grand Prix	fastestDriverTeam	Brabham
+1978 German Grand Prix	fastestDriverTeam	Team Lotus
+1978 Austrian Grand Prix	fastestDriverTeam	Team Lotus
+1978 Italian Grand Prix	fastestDriverTeam	Team Lotus
+1978 Swedish Grand Prix	fastestDriverTeam	Brabham
+1978 Canadian Grand Prix	fastestDriverTeam	Williams F1
+1979 Argentine Grand Prix	fastestDriverTeam	Equipe Ligier
+1978 Dutch Grand Prix	fastestDriverTeam	Brabham
+1979 South African Grand Prix	fastestDriverTeam	Scuderia Ferrari
+1979 Spanish Grand Prix	fastestDriverTeam	Scuderia Ferrari
+1979 Brazilian Grand Prix	fastestDriverTeam	Equipe Ligier
+1979 Belgian Grand Prix	fastestDriverTeam	Scuderia Ferrari
+1979 Monaco Grand Prix	fastestDriverTeam	Equipe Ligier
+1979 French Grand Prix	fastestDriverTeam	Renault F1
+1979 British Grand Prix	fastestDriverTeam	Williams F1
+1979 German Grand Prix	fastestDriverTeam	Scuderia Ferrari
+1979 Dutch Grand Prix	fastestDriverTeam	Scuderia Ferrari
+1979 Canadian Grand Prix	fastestDriverTeam	Williams F1
+1979 Italian Grand Prix	fastestDriverTeam	Williams F1
+1979 Austrian Grand Prix	fastestDriverTeam	Renault F1
+1980 Argentine Grand Prix	fastestDriverTeam	Williams F1
+1980 Argentine Grand Prix	fastestDriverTeam	Ford Motor Company
+1980 Brazilian Grand Prix	fastestDriverTeam	Renault F1
+1980 South African Grand Prix	fastestDriverTeam	Renault F1
+1980 Belgian Grand Prix	fastestDriverTeam	Equipe Ligier
+1980 Monaco Grand Prix	fastestDriverTeam	Williams F1
+1980 British Grand Prix	fastestDriverTeam	Equipe Ligier
+1980 French Grand Prix	fastestDriverTeam	Williams F1
+1980 German Grand Prix	fastestDriverTeam	Williams F1
+1980 Austrian Grand Prix	fastestDriverTeam	Renault F1
+1980 Dutch Grand Prix	fastestDriverTeam	Renault F1
+1980 Italian Grand Prix	fastestDriverTeam	Williams F1
+1980 Canadian Grand Prix	fastestDriverTeam	Equipe Ligier
+1981 Brazilian Grand Prix	fastestDriverTeam	Ensign (racing team)
+1981 Argentine Grand Prix	fastestDriverTeam	Brabham
+1981 San Marino Grand Prix	fastestDriverTeam	Scuderia Ferrari
+1981 Monaco Grand Prix	fastestDriverTeam	Williams F1
+1981 Belgian Grand Prix	fastestDriverTeam	Williams F1
+1981 Spanish Grand Prix	fastestDriverTeam	Williams F1
+1981 French Grand Prix	fastestDriverTeam	Renault F1
+1981 British Grand Prix	fastestDriverTeam	Renault F1
+1981 Austrian Grand Prix	fastestDriverTeam	Equipe Ligier
+1981 German Grand Prix	fastestDriverTeam	Williams F1
+1981 Dutch Grand Prix	fastestDriverTeam	Williams F1
+1981 Canadian Grand Prix	fastestDriverTeam	McLaren
+1981 Caesars Palace Grand Prix	fastestDriverTeam	Scuderia Ferrari
+1982 South African Grand Prix	fastestDriverTeam	Renault F1
+1981 Italian Grand Prix	fastestDriverTeam	Williams F1
+1982 San Marino Grand Prix	fastestDriverTeam	Scuderia Ferrari
+1982 Brazilian Grand Prix	fastestDriverTeam	Renault F1
+1982 Belgian Grand Prix	fastestDriverTeam	McLaren
+1982 Dutch Grand Prix	fastestDriverTeam	Toleman
+1982 Canadian Grand Prix	fastestDriverTeam	Scuderia Ferrari
+1982 British Grand Prix	fastestDriverTeam	Tyrrell Racing
+1982 Monaco Grand Prix	fastestDriverTeam	Brabham
+1982 French Grand Prix	fastestDriverTeam	Brabham
+1982 German Grand Prix	fastestDriverTeam	Brabham
+1982 Austrian Grand Prix	fastestDriverTeam	Brabham
+1982 Swiss Grand Prix	fastestDriverTeam	Renault F1
+1982 Italian Grand Prix	fastestDriverTeam	Renault F1
+1982 Caesars Palace Grand Prix	fastestDriverTeam	Tyrrell Racing
+1983 Brazilian Grand Prix	fastestDriverTeam	Brabham
+1983 San Marino Grand Prix	fastestDriverTeam	Brabham
+1983 Belgian Grand Prix	fastestDriverTeam	Alfa Romeo in Formula One
+1983 Monaco Grand Prix	fastestDriverTeam	Brabham
+1983 Canadian Grand Prix	fastestDriverTeam	Scuderia Ferrari
+1983 French Grand Prix	fastestDriverTeam	Renault F1
+1983 German Grand Prix	fastestDriverTeam	Scuderia Ferrari
+1983 Dutch Grand Prix	fastestDriverTeam	Scuderia Ferrari
+1983 Austrian Grand Prix	fastestDriverTeam	Renault F1
+1983 British Grand Prix	fastestDriverTeam	Renault F1
+1983 Italian Grand Prix	fastestDriverTeam	Brabham
+1983 European Grand Prix	fastestDriverTeam	Team Lotus
+1983 South African Grand Prix	fastestDriverTeam	Brabham
+1984 Brazilian Grand Prix	fastestDriverTeam	McLaren
+1984 South African Grand Prix	fastestDriverTeam	Renault F1
+1984 Belgian Grand Prix	fastestDriverTeam	Scuderia Ferrari
+1984 French Grand Prix	fastestDriverTeam	McLaren
+1984 San Marino Grand Prix	fastestDriverTeam	Brabham
+1984 Monaco Grand Prix	fastestDriverTeam	Toleman
+1984 Canadian Grand Prix	fastestDriverTeam	Brabham
+1984 British Grand Prix	fastestDriverTeam	McLaren
+1984 German Grand Prix	fastestDriverTeam	McLaren
+1984 Dallas Grand Prix	fastestDriverTeam	McLaren
+1984 Austrian Grand Prix	fastestDriverTeam	McLaren
+1984 Italian Grand Prix	fastestDriverTeam	McLaren
+1984 Dutch Grand Prix	fastestDriverTeam	Scuderia Ferrari
+1984 Portuguese Grand Prix	fastestDriverTeam	McLaren
+1984 European Grand Prix	fastestDriverTeam	Brabham
+1985 Brazilian Grand Prix	fastestDriverTeam	McLaren
+1985 Portuguese Grand Prix	fastestDriverTeam	Team Lotus
+1985 San Marino Grand Prix	fastestDriverTeam	Scuderia Ferrari
+1985 Canadian Grand Prix	fastestDriverTeam	Team Lotus
+1985 Monaco Grand Prix	fastestDriverTeam	Scuderia Ferrari
+1985 British Grand Prix	fastestDriverTeam	McLaren
+1985 French Grand Prix	fastestDriverTeam	Williams F1
+1985 German Grand Prix	fastestDriverTeam	McLaren
+1985 Austrian Grand Prix	fastestDriverTeam	McLaren
+1985 Italian Grand Prix	fastestDriverTeam	Williams F1
+1985 Dutch Grand Prix	fastestDriverTeam	McLaren
+1985 Belgian Grand Prix	fastestDriverTeam	McLaren
+1985 European Grand Prix	fastestDriverTeam	Equipe Ligier
+1985 South African Grand Prix	fastestDriverTeam	Williams F1
+1985 Australian Grand Prix	fastestDriverTeam	Williams F1
+1986 Brazilian Grand Prix	fastestDriverTeam	Williams F1
+1986 Spanish Grand Prix	fastestDriverTeam	Williams F1
+1986 San Marino Grand Prix	fastestDriverTeam	Williams F1
+1986 Monaco Grand Prix	fastestDriverTeam	McLaren
+1986 Belgian Grand Prix	fastestDriverTeam	McLaren
+1986 French Grand Prix	fastestDriverTeam	Williams F1
+1986 British Grand Prix	fastestDriverTeam	Williams F1
+1986 German Grand Prix	fastestDriverTeam	Benetton Formula
+1986 Canadian Grand Prix	fastestDriverTeam	Williams F1
+1986 Hungarian Grand Prix	fastestDriverTeam	Williams F1
+1986 Italian Grand Prix	fastestDriverTeam	Benetton Formula
+1986 Portuguese Grand Prix	fastestDriverTeam	Williams F1
+1986 Austrian Grand Prix	fastestDriverTeam	Benetton Formula
+1986 Mexican Grand Prix	fastestDriverTeam	Williams F1
+1987 Brazilian Grand Prix	fastestDriverTeam	Williams F1
+1986 Australian Grand Prix	fastestDriverTeam	Williams F1
+1987 Belgian Grand Prix	fastestDriverTeam	McLaren
+1987 Monaco Grand Prix	fastestDriverTeam	Team Lotus
+1987 San Marino Grand Prix	fastestDriverTeam	Benetton Formula
+1987 French Grand Prix	fastestDriverTeam	Williams F1
+1987 German Grand Prix	fastestDriverTeam	Williams F1
+1987 Austrian Grand Prix	fastestDriverTeam	Williams F1
+1987 Hungarian Grand Prix	fastestDriverTeam	Williams F1
+1987 British Grand Prix	fastestDriverTeam	Williams F1
+1987 Italian Grand Prix	fastestDriverTeam	Team Lotus
+1987 Portuguese Grand Prix	fastestDriverTeam	Scuderia Ferrari
+1987 Mexican Grand Prix	fastestDriverTeam	Williams F1
+1987 Japanese Grand Prix	fastestDriverTeam	McLaren
+1987 Spanish Grand Prix	fastestDriverTeam	Scuderia Ferrari
+1987 Australian Grand Prix	fastestDriverTeam	Scuderia Ferrari
+1988 Brazilian Grand Prix	fastestDriverTeam	Scuderia Ferrari
+1988 San Marino Grand Prix	fastestDriverTeam	McLaren
+1988 Monaco Grand Prix	fastestDriverTeam	McLaren
+1988 Mexican Grand Prix	fastestDriverTeam	McLaren
+1988 Canadian Grand Prix	fastestDriverTeam	McLaren
+1988 French Grand Prix	fastestDriverTeam	McLaren
+1988 British Grand Prix	fastestDriverTeam	Williams F1
+1988 German Grand Prix	fastestDriverTeam	Benetton Formula
+1988 Hungarian Grand Prix	fastestDriverTeam	McLaren
+1988 Belgian Grand Prix	fastestDriverTeam	Scuderia Ferrari
+1988 Italian Grand Prix	fastestDriverTeam	Scuderia Ferrari
+1988 Portuguese Grand Prix	fastestDriverTeam	Scuderia Ferrari
+1988 Spanish Grand Prix	fastestDriverTeam	McLaren
+1988 Australian Grand Prix	fastestDriverTeam	McLaren
+1988 Japanese Grand Prix	fastestDriverTeam	McLaren
+1989 Brazilian Grand Prix	fastestDriverTeam	Williams F1
+1989 San Marino Grand Prix	fastestDriverTeam	McLaren
+1989 Mexican Grand Prix	fastestDriverTeam	Scuderia Ferrari
+1989 Monaco Grand Prix	fastestDriverTeam	McLaren
+1989 United States Grand Prix	fastestDriverTeam	McLaren
+1989 Canadian Grand Prix	fastestDriverTeam	Tyrrell Racing
+1989 French Grand Prix	fastestDriverTeam	March Engineering
+1989 British Grand Prix	fastestDriverTeam	Scuderia Ferrari
+1989 German Grand Prix	fastestDriverTeam	McLaren
+1989 Italian Grand Prix	fastestDriverTeam	McLaren
+1989 Belgian Grand Prix	fastestDriverTeam	McLaren
+1989 Hungarian Grand Prix	fastestDriverTeam	Scuderia Ferrari
+1989 Spanish Grand Prix	fastestDriverTeam	McLaren
+1989 Portuguese Grand Prix	fastestDriverTeam	Scuderia Ferrari
+1989 Japanese Grand Prix	fastestDriverTeam	McLaren
+1989 Australian Grand Prix	fastestDriverTeam	Team Lotus
+1990 United States Grand Prix	fastestDriverTeam	McLaren
+1990 Brazilian Grand Prix	fastestDriverTeam	McLaren
+1990 Monaco Grand Prix	fastestDriverTeam	McLaren
+1990 San Marino Grand Prix	fastestDriverTeam	Benetton Formula
+1990 Canadian Grand Prix	fastestDriverTeam	McLaren
+1990 Mexican Grand Prix	fastestDriverTeam	Scuderia Ferrari
+1990 French Grand Prix	fastestDriverTeam	Scuderia Ferrari
+1990 British Grand Prix	fastestDriverTeam	Scuderia Ferrari
+1990 German Grand Prix	fastestDriverTeam	Williams F1
+1990 Hungarian Grand Prix	fastestDriverTeam	Williams F1
+1990 Belgian Grand Prix	fastestDriverTeam	Scuderia Ferrari
+1990 Portuguese Grand Prix	fastestDriverTeam	Williams F1
+1990 Italian Grand Prix	fastestDriverTeam	McLaren
+1990 Japanese Grand Prix	fastestDriverTeam	Williams F1
+1990 Spanish Grand Prix	fastestDriverTeam	Williams F1
+1991 United States Grand Prix	fastestDriverTeam	Scuderia Ferrari
+1990 Australian Grand Prix	fastestDriverTeam	Scuderia Ferrari
+1991 Monaco Grand Prix	fastestDriverTeam	Scuderia Ferrari
+1991 Canadian Grand Prix	fastestDriverTeam	Williams F1
+1991 Brazilian Grand Prix	fastestDriverTeam	Williams F1
+1991 Mexican Grand Prix	fastestDriverTeam	Williams F1
+1991 San Marino Grand Prix	fastestDriverTeam	McLaren
+1991 British Grand Prix	fastestDriverTeam	Williams F1
+1991 Hungarian Grand Prix	fastestDriverTeam	Jordan Grand Prix
+1991 Belgian Grand Prix	fastestDriverTeam	Benetton Formula
+1991 German Grand Prix	fastestDriverTeam	Williams F1
+1991 Portuguese Grand Prix	fastestDriverTeam	Williams F1
+1991 Italian Grand Prix	fastestDriverTeam	McLaren
+1991 Spanish Grand Prix	fastestDriverTeam	Williams F1
+1991 Japanese Grand Prix	fastestDriverTeam	McLaren
+1991 Australian Grand Prix	fastestDriverTeam	McLaren
+1992 South African Grand Prix	fastestDriverTeam	Williams F1
+1992 Mexican Grand Prix	fastestDriverTeam	McLaren
+1992 Brazilian Grand Prix	fastestDriverTeam	Williams F1
+1992 Spanish Grand Prix	fastestDriverTeam	Williams F1
+1992 San Marino Grand Prix	fastestDriverTeam	Williams F1
+1992 Canadian Grand Prix	fastestDriverTeam	McLaren
+1992 French Grand Prix	fastestDriverTeam	Williams F1
+1992 Monaco Grand Prix	fastestDriverTeam	Williams F1
+1992 British Grand Prix	fastestDriverTeam	Williams F1
+1992 Belgian Grand Prix	fastestDriverTeam	Benetton Formula
+1992 German Grand Prix	fastestDriverTeam	Williams F1
+1992 Italian Grand Prix	fastestDriverTeam	Williams F1
+1992 Hungarian Grand Prix	fastestDriverTeam	Williams F1
+1992 Portuguese Grand Prix	fastestDriverTeam	McLaren
+1992 Japanese Grand Prix	fastestDriverTeam	Williams F1
+1992 Australian Grand Prix	fastestDriverTeam	Benetton Formula
+1993 South African Grand Prix	fastestDriverTeam	Williams F1
+1993 Brazilian Grand Prix	fastestDriverTeam	Benetton Formula
+1993 European Grand Prix	fastestDriverTeam	McLaren
+1993 Monaco Grand Prix	fastestDriverTeam	Williams F1
+1993 Spanish Grand Prix	fastestDriverTeam	Benetton Formula
+1993 San Marino Grand Prix	fastestDriverTeam	Williams F1
+1993 Belgian Grand Prix	fastestDriverTeam	Williams F1
+1993 Portuguese Grand Prix	fastestDriverTeam	Williams F1
+1993 Italian Grand Prix	fastestDriverTeam	Williams F1
+1993 Japanese Grand Prix	fastestDriverTeam	Williams F1
+1993 Australian Grand Prix	fastestDriverTeam	Williams F1
+1994 Brazilian Grand Prix	fastestDriverTeam	Benetton Formula
+1994 Pacific Grand Prix	fastestDriverTeam	Benetton Formula
+1994 Monaco Grand Prix	fastestDriverTeam	Benetton Formula
+1994 Canadian Grand Prix	fastestDriverTeam	Benetton Formula
+1994 Spanish Grand Prix	fastestDriverTeam	Benetton Formula
+1994 British Grand Prix	fastestDriverTeam	Williams F1
+1994 German Grand Prix	fastestDriverTeam	Williams F1
+1994 Hungarian Grand Prix	fastestDriverTeam	Benetton Formula
+1994 Belgian Grand Prix	fastestDriverTeam	Williams F1
+1994 Italian Grand Prix	fastestDriverTeam	Williams F1
+1994 Portuguese Grand Prix	fastestDriverTeam	Williams F1
+1994 European Grand Prix	fastestDriverTeam	Benetton Formula
+1994 Japanese Grand Prix	fastestDriverTeam	Williams F1
+1994 Australian Grand Prix	fastestDriverTeam	Benetton Formula
+1995 Brazilian Grand Prix	fastestDriverTeam	Benetton Formula
+1995 Argentine Grand Prix	fastestDriverTeam	Benetton Formula
+1995 San Marino Grand Prix	fastestDriverTeam	Scuderia Ferrari
+1995 Spanish Grand Prix	fastestDriverTeam	Williams F1
+1995 French Grand Prix	fastestDriverTeam	Benetton Formula
+1995 Canadian Grand Prix	fastestDriverTeam	Benetton Formula
+1995 Monaco Grand Prix	fastestDriverTeam	Scuderia Ferrari
+1995 Hungarian Grand Prix	fastestDriverTeam	Williams F1
+1995 German Grand Prix	fastestDriverTeam	Benetton Formula
+1995 British Grand Prix	fastestDriverTeam	Williams F1
+1995 Belgian Grand Prix	fastestDriverTeam	Williams F1
+1995 Portuguese Grand Prix	fastestDriverTeam	Williams F1
+1995 Italian Grand Prix	fastestDriverTeam	Scuderia Ferrari
+1995 Pacific Grand Prix	fastestDriverTeam	Benetton Formula
+1995 European Grand Prix	fastestDriverTeam	Benetton Formula
+1995 Japanese Grand Prix	fastestDriverTeam	Benetton Formula
+1996 Australian Grand Prix	fastestDriverTeam	Williams F1
+1995 Australian Grand Prix	fastestDriverTeam	Williams F1
+1996 Brazilian Grand Prix	fastestDriverTeam	Williams F1
+1996 Argentine Grand Prix	fastestDriverTeam	Benetton Formula
+1996 European Grand Prix	fastestDriverTeam	Williams F1
+1996 San Marino Grand Prix	fastestDriverTeam	Williams F1
+1996 Spanish Grand Prix	fastestDriverTeam	Scuderia Ferrari
+1996 Monaco Grand Prix	fastestDriverTeam	Benetton Formula
+1996 Japanese Grand Prix	fastestDriverTeam	Williams F1
+1997 Australian Grand Prix	fastestDriverTeam	Williams F1
+1997 Argentine Grand Prix	fastestDriverTeam	Benetton Formula
+1997 Brazilian Grand Prix	fastestDriverTeam	Williams F1
+1997 San Marino Grand Prix	fastestDriverTeam	Williams F1
+1997 Monaco Grand Prix	fastestDriverTeam	Scuderia Ferrari
+1997 Canadian Grand Prix	fastestDriverTeam	McLaren
+1997 Spanish Grand Prix	fastestDriverTeam	Jordan Grand Prix
+1997 French Grand Prix	fastestDriverTeam	Scuderia Ferrari
+1997 British Grand Prix	fastestDriverTeam	Scuderia Ferrari
+1997 Belgian Grand Prix	fastestDriverTeam	Williams F1
+1997 Hungarian Grand Prix	fastestDriverTeam	Williams F1
+1997 German Grand Prix	fastestDriverTeam	Benetton Formula
+1997 Italian Grand Prix	fastestDriverTeam	McLaren
+1997 Luxembourg Grand Prix	fastestDriverTeam	Williams F1
+1997 Austrian Grand Prix	fastestDriverTeam	Williams F1
+1997 Japanese Grand Prix	fastestDriverTeam	Williams F1
+1998 Brazilian Grand Prix	fastestDriverTeam	McLaren
+1998 Australian Grand Prix	fastestDriverTeam	McLaren
+1997 European Grand Prix	fastestDriverTeam	Williams F1
+1998 Argentine Grand Prix	fastestDriverTeam	Benetton Formula
+1998 San Marino Grand Prix	fastestDriverTeam	Scuderia Ferrari
+1998 Spanish Grand Prix	fastestDriverTeam	McLaren
+1998 Monaco Grand Prix	fastestDriverTeam	McLaren
+1998 Canadian Grand Prix	fastestDriverTeam	Scuderia Ferrari
+1998 French Grand Prix	fastestDriverTeam	McLaren
+1998 British Grand Prix	fastestDriverTeam	Scuderia Ferrari
+1998 Austrian Grand Prix	fastestDriverTeam	McLaren
+1998 Hungarian Grand Prix	fastestDriverTeam	Scuderia Ferrari
+1998 German Grand Prix	fastestDriverTeam	McLaren
+1998 Italian Grand Prix	fastestDriverTeam	McLaren
+1998 Luxembourg Grand Prix	fastestDriverTeam	McLaren
+1998 Belgian Grand Prix	fastestDriverTeam	Scuderia Ferrari
+1998 Japanese Grand Prix	fastestDriverTeam	Scuderia Ferrari
+1999 Australian Grand Prix	fastestDriverTeam	Scuderia Ferrari
+1999 Brazilian Grand Prix	fastestDriverTeam	McLaren
+1999 San Marino Grand Prix	fastestDriverTeam	Scuderia Ferrari
+1999 Monaco Grand Prix	fastestDriverTeam	McLaren
+1999 Canadian Grand Prix	fastestDriverTeam	Scuderia Ferrari
+1999 Spanish Grand Prix	fastestDriverTeam	Scuderia Ferrari
+1999 French Grand Prix	fastestDriverTeam	McLaren
+1999 British Grand Prix	fastestDriverTeam	McLaren
+1999 German Grand Prix	fastestDriverTeam	McLaren
+1999 Austrian Grand Prix	fastestDriverTeam	McLaren
+1999 Belgian Grand Prix	fastestDriverTeam	McLaren
+1999 Italian Grand Prix	fastestDriverTeam	Williams F1
+1999 Hungarian Grand Prix	fastestDriverTeam	McLaren
+1999 European Grand Prix	fastestDriverTeam	McLaren
+1999 Malaysian Grand Prix	fastestDriverTeam	Scuderia Ferrari
+2000 Brazilian Grand Prix	fastestDriverTeam	Scuderia Ferrari
+2000 San Marino Grand Prix	fastestDriverTeam	McLaren
+2000 British Grand Prix	fastestDriverTeam	McLaren
+1999 Japanese Grand Prix	fastestDriverTeam	Scuderia Ferrari
+2000 Spanish Grand Prix	fastestDriverTeam	McLaren
+2000 Monaco Grand Prix	fastestDriverTeam	McLaren
+2000 Canadian Grand Prix	fastestDriverTeam	McLaren
+2000 European Grand Prix	fastestDriverTeam	Scuderia Ferrari
+2000 French Grand Prix	fastestDriverTeam	McLaren
+2000 Austrian Grand Prix	fastestDriverTeam	McLaren
+2000 German Grand Prix	fastestDriverTeam	Scuderia Ferrari
+2000 Hungarian Grand Prix	fastestDriverTeam	McLaren
+2000 Belgian Grand Prix	fastestDriverTeam	Scuderia Ferrari
+2000 United States Grand Prix	fastestDriverTeam	McLaren
+2000 Malaysian Grand Prix	fastestDriverTeam	McLaren
+2001 Malaysian Grand Prix	fastestDriverTeam	McLaren
+2001 Spanish Grand Prix	fastestDriverTeam	Scuderia Ferrari
+2001 San Marino Grand Prix	fastestDriverTeam	Williams F1
+2001 Austrian Grand Prix	fastestDriverTeam	McLaren
+2001 Brazilian Grand Prix	fastestDriverTeam	Williams F1
+2001 Monaco Grand Prix	fastestDriverTeam	McLaren
+2001 Canadian Grand Prix	fastestDriverTeam	Williams F1
+2001 European Grand Prix	fastestDriverTeam	Williams F1
+2001 German Grand Prix	fastestDriverTeam	Williams F1
+2001 Belgian Grand Prix	fastestDriverTeam	Scuderia Ferrari
+2001 British Grand Prix	fastestDriverTeam	McLaren
+2001 Japanese Grand Prix	fastestDriverTeam	Williams F1
+2001 Italian Grand Prix	fastestDriverTeam	Williams F1
+2001 United States Grand Prix	fastestDriverTeam	Williams F1
+2002 Brazilian Grand Prix	fastestDriverTeam	Williams F1
+2002 Malaysian Grand Prix	fastestDriverTeam	Williams F1
+2002 San Marino Grand Prix	fastestDriverTeam	Scuderia Ferrari
+2002 Spanish Grand Prix	fastestDriverTeam	Scuderia Ferrari
+2002 Canadian Grand Prix	fastestDriverTeam	Williams F1
+2002 Monaco Grand Prix	fastestDriverTeam	Scuderia Ferrari
+2002 Austrian Grand Prix	fastestDriverTeam	Scuderia Ferrari
+2002 European Grand Prix	fastestDriverTeam	Scuderia Ferrari
+2002 British Grand Prix	fastestDriverTeam	Scuderia Ferrari
+2002 German Grand Prix	fastestDriverTeam	Scuderia Ferrari
+2002 French Grand Prix	fastestDriverTeam	McLaren
+2002 Hungarian Grand Prix	fastestDriverTeam	Scuderia Ferrari
+2002 Belgian Grand Prix	fastestDriverTeam	Scuderia Ferrari
+2002 Italian Grand Prix	fastestDriverTeam	Scuderia Ferrari
+2002 United States Grand Prix	fastestDriverTeam	Scuderia Ferrari
+2002 Japanese Grand Prix	fastestDriverTeam	Scuderia Ferrari
+2003 Brazilian Grand Prix	fastestDriverTeam	Scuderia Ferrari
+2003 Austrian Grand Prix	fastestDriverTeam	Scuderia Ferrari
+2003 French Grand Prix	fastestDriverTeam	Williams F1
+2003 Canadian Grand Prix	fastestDriverTeam	Renault F1
+2003 British Grand Prix	fastestDriverTeam	Scuderia Ferrari
+2003 German Grand Prix	fastestDriverTeam	Williams F1
+2003 Hungarian Grand Prix	fastestDriverTeam	Williams F1
+2003 Japanese Grand Prix	fastestDriverTeam	Williams F1
+2004 French Grand Prix	fastestDriverTeam	Scuderia Ferrari
+2004 Canadian Grand Prix	fastestDriverTeam	Scuderia Ferrari
+2004 United States Grand Prix	fastestDriverTeam	Scuderia Ferrari
+2004 British Grand Prix	fastestDriverTeam	Scuderia Ferrari
+2004 German Grand Prix	fastestDriverTeam	McLaren
+2004 Belgian Grand Prix	fastestDriverTeam	McLaren
+2004 Italian Grand Prix	fastestDriverTeam	Scuderia Ferrari
+1976 United States Grand Prix West	fastestDriverTeam	Scuderia Ferrari
+1978 United States Grand Prix West	fastestDriverTeam	Williams F1
+1977 United States Grand Prix West	fastestDriverTeam	Scuderia Ferrari
+1979 United States Grand Prix West	fastestDriverTeam	Scuderia Ferrari
+1980 United States Grand Prix West	fastestDriverTeam	Brabham
+1981 United States Grand Prix West	fastestDriverTeam	Williams F1
+1982 Detroit Grand Prix	fastestDriverTeam	Renault F1
+1982 United States Grand Prix West	fastestDriverTeam	McLaren
+1983 Detroit Grand Prix	fastestDriverTeam	McLaren
+1983 United States Grand Prix West	fastestDriverTeam	McLaren
+1984 Detroit Grand Prix	fastestDriverTeam	Renault F1
+1978 United States Grand Prix	fastestDriverTeam	Team Lotus
+1977 United States Grand Prix	fastestDriverTeam	Tyrrell Racing
+1979 United States Grand Prix	fastestDriverTeam	Brabham
+1980 United States Grand Prix	fastestDriverTeam	Williams F1
+1958 Moroccan Grand Prix	fastestDriverTeam	Vanwall
+2005 Australian Grand Prix	fastestDriverTeam	Renault F1
+2005 Malaysian Grand Prix	fastestDriverTeam	McLaren
+2005 Bahrain Grand Prix	fastestDriverTeam	McLaren
+2005 San Marino Grand Prix	fastestDriverTeam	Scuderia Ferrari
+2005 Spanish Grand Prix	fastestDriverTeam	Renault F1
+2005 Monaco Grand Prix	fastestDriverTeam	Scuderia Ferrari
+2005 European Grand Prix	fastestDriverTeam	Renault F1
+2005 Canadian Grand Prix	fastestDriverTeam	McLaren
+2005 United States Grand Prix	fastestDriverTeam	Scuderia Ferrari
+2005 French Grand Prix	fastestDriverTeam	McLaren
+2005 British Grand Prix	fastestDriverTeam	McLaren
+1936 Hungarian Grand Prix	fastestDriverTeam	Alfa Romeo in motorsport
+2005 Hungarian Grand Prix	fastestDriverTeam	McLaren
+2005 Turkish Grand Prix	fastestDriverTeam	McLaren
+2005 Italian Grand Prix	fastestDriverTeam	McLaren
+2005 Belgian Grand Prix	fastestDriverTeam	Toyota Racing
+2005 Brazilian Grand Prix	fastestDriverTeam	McLaren
+1937 Donington Grand Prix	fastestDriverTeam	Auto Union
+1937 Masaryk Grand Prix	fastestDriverTeam	Mercedes-Benz
+1937 Italian Grand Prix	fastestDriverTeam	Mercedes-Benz
+1937 Swiss Grand Prix	fastestDriverTeam	Auto Union
+2005 Japanese Grand Prix	fastestDriverTeam	McLaren
+1935 German Grand Prix	fastestDriverTeam	Mercedes-Benz
+2005 Chinese Grand Prix	fastestDriverTeam	McLaren
+1994 San Marino Grand Prix	fastestDriverTeam	Williams F1
+2006 Bahrain Grand Prix	fastestDriverTeam	Williams F1
+2006 Malaysian Grand Prix	fastestDriverTeam	Renault F1
+2006 Australian Grand Prix	fastestDriverTeam	McLaren
+2006 San Marino Grand Prix	fastestDriverTeam	Renault F1
+2006 European Grand Prix	fastestDriverTeam	Scuderia Ferrari
+2006 Spanish Grand Prix	fastestDriverTeam	Scuderia Ferrari
+2006 Monaco Grand Prix	fastestDriverTeam	Scuderia Ferrari
+2006 British Grand Prix	fastestDriverTeam	Renault F1
+1957 Moroccan Grand Prix	fastestDriverTeam	Maserati
+2006 Canadian Grand Prix	fastestDriverTeam	McLaren
+2006 United States Grand Prix	fastestDriverTeam	Scuderia Ferrari
+2006 French Grand Prix	fastestDriverTeam	Scuderia Ferrari
+1906 French Grand Prix	fastestDriverTeam	Brasier
+2006 German Grand Prix	fastestDriverTeam	Scuderia Ferrari
+2006 Hungarian Grand Prix	fastestDriverTeam	Scuderia Ferrari
+2006 Turkish Grand Prix	fastestDriverTeam	Scuderia Ferrari
+2006 Chinese Grand Prix	fastestDriverTeam	Renault F1
+2006 Japanese Grand Prix	fastestDriverTeam	Renault F1
+2006 Brazilian Grand Prix	fastestDriverTeam	Scuderia Ferrari
+1929 Monaco Grand Prix	fastestDriverTeam	Bugatti
+1939 Belgian Grand Prix	fastestDriverTeam	Mercedes-Benz
+1978 BRDC International Trophy	fastestDriverTeam	Fittipaldi Automotive
+1962 Mexican Grand Prix	fastestDriverTeam	Team Lotus
+1971 BRDC International Trophy	fastestDriverTeam	Tyrrell Racing
+1980 Spanish Grand Prix	fastestDriverTeam	Williams F1
+1933 Monaco Grand Prix	fastestDriverTeam	Bugatti
+2007 Australian Grand Prix	fastestDriverTeam	Scuderia Ferrari
+1950 BRDC International Trophy	fastestDriverTeam	Alfa Romeo in Formula One
+2007 Malaysian Grand Prix	fastestDriverTeam	McLaren
+2007 Bahrain Grand Prix	fastestDriverTeam	Scuderia Ferrari
+1966 BRDC International Trophy	fastestDriverTeam	Brabham
+1935 Belgian Grand Prix	fastestDriverTeam	Mercedes-Benz
+1935 Swiss Grand Prix	fastestDriverTeam	Mercedes-Benz
+1935 Italian Grand Prix	fastestDriverTeam	Alfa Romeo in motorsport
+1935 Spanish Grand Prix	fastestDriverTeam	Auto Union
+1936 Monaco Grand Prix	fastestDriverTeam	Auto Union
+1936 German Grand Prix	fastestDriverTeam	Auto Union
+1936 Swiss Grand Prix	fastestDriverTeam	Auto Union
+1936 Italian Grand Prix	fastestDriverTeam	Auto Union
+1937 Belgian Grand Prix	fastestDriverTeam	Mercedes-Benz
+1937 German Grand Prix	fastestDriverTeam	Auto Union
+1937 Monaco Grand Prix	fastestDriverTeam	Mercedes-Benz
+1938 French Grand Prix	fastestDriverTeam	Mercedes-Benz
+1938 German Grand Prix	fastestDriverTeam	Mercedes-Benz
+1938 Swiss Grand Prix	fastestDriverTeam	Mercedes-Benz
+1931 Italian Grand Prix	fastestDriverTeam	Alfa Romeo in motorsport
+1931 French Grand Prix	fastestDriverTeam	Maserati
+1931 Belgian Grand Prix	fastestDriverTeam	Bugatti
+1932 Italian Grand Prix	fastestDriverTeam	Alfa Romeo in motorsport
+1932 French Grand Prix	fastestDriverTeam	Alfa Romeo in motorsport
+2007 Spanish Grand Prix	fastestDriverTeam	Scuderia Ferrari
+2007 Monaco Grand Prix	fastestDriverTeam	McLaren
+2007 Japanese Grand Prix	fastestDriverTeam	McLaren
+2007 Belgian Grand Prix	fastestDriverTeam	Scuderia Ferrari
+2007 Italian Grand Prix	fastestDriverTeam	McLaren
+2007 Canadian Grand Prix	fastestDriverTeam	McLaren
+2007 United States Grand Prix	fastestDriverTeam	Scuderia Ferrari
+2007 French Grand Prix	fastestDriverTeam	Scuderia Ferrari
+2007 British Grand Prix	fastestDriverTeam	Scuderia Ferrari
+2007 European Grand Prix	fastestDriverTeam	Scuderia Ferrari
+2007 Hungarian Grand Prix	fastestDriverTeam	Scuderia Ferrari
+1932 German Grand Prix	fastestDriverTeam	Alfa Romeo in motorsport
+1938 Italian Grand Prix	fastestDriverTeam	Mercedes-Benz
+2007 Chinese Grand Prix	fastestDriverTeam	Scuderia Ferrari
+2007 Turkish Grand Prix	fastestDriverTeam	Scuderia Ferrari
+2007 Brazilian Grand Prix	fastestDriverTeam	Scuderia Ferrari
+1939 French Grand Prix	fastestDriverTeam	Mercedes-Benz
+1939 German Grand Prix	fastestDriverTeam	Mercedes-Benz
+1939 Swiss Grand Prix	fastestDriverTeam	Mercedes-Benz
+1931 German Grand Prix	fastestDriverTeam	Bugatti
+1946 René le Bègue Cup	fastestDriverTeam	Alfa Romeo in motorsport
+1946 Nations Grand Prix	fastestDriverTeam	Alfa Romeo in motorsport
+1946 Turin Grand Prix	fastestDriverTeam	Alfa Romeo in motorsport
+1947 Swiss Grand Prix	fastestDriverTeam	Alfa Romeo in motorsport
+1975 Race of Champions	fastestDriverTeam	Shadow Racing Cars
+1952 Monaco Grand Prix	fastestDriverTeam	Ferrari
+1947 Belgian Grand Prix	fastestDriverTeam	Alfa Romeo in motorsport
+1947 Italian Grand Prix	fastestDriverTeam	Alfa Romeo in motorsport
+2008 German Grand Prix	fastestDriverTeam	BMW in Formula One#BMW Sauber
+2008 Australian Grand Prix	fastestDriverTeam	McLaren
+2008 British Grand Prix	fastestDriverTeam	Scuderia Ferrari
+1925 Belgian Grand Prix	fastestDriverTeam	Alfa Romeo in motorsport
+1983 Race of Champions	fastestDriverTeam	Scuderia Ferrari
+2008 Malaysian Grand Prix	fastestDriverTeam	BMW in Formula One#BMW Sauber
+1962 Danish Grand Prix	fastestDriverTeam	Team Lotus
+1907 French Grand Prix	fastestDriverTeam	Lorraine-Dietrich
+1908 French Grand Prix	fastestDriverTeam	Mercedes (car)
+1912 French Grand Prix	fastestDriverTeam	Fiat
+2008 Singapore Grand Prix	fastestDriverTeam	Scuderia Ferrari
+1913 French Grand Prix	fastestDriverTeam	Delage
+1948 British Grand Prix	fastestDriverTeam	Maserati
+2008 Bahrain Grand Prix	fastestDriverTeam	McLaren
+2008 Spanish Grand Prix	fastestDriverTeam	Scuderia Ferrari
+2008 Turkish Grand Prix	fastestDriverTeam	Scuderia Ferrari
+2008 Canadian Grand Prix	fastestDriverTeam	Scuderia Ferrari
+2008 Monaco Grand Prix	fastestDriverTeam	Scuderia Ferrari
+2008 French Grand Prix	fastestDriverTeam	Scuderia Ferrari
+2008 Hungarian Grand Prix	fastestDriverTeam	Scuderia Ferrari
+2008 European Grand Prix	fastestDriverTeam	Scuderia Ferrari
+2008 Belgian Grand Prix	fastestDriverTeam	Scuderia Ferrari
+2008 Italian Grand Prix	fastestDriverTeam	Scuderia Ferrari
+2008 Chinese Grand Prix	fastestDriverTeam	McLaren
+2008 Japanese Grand Prix	fastestDriverTeam	Scuderia Ferrari
+2008 Brazilian Grand Prix	fastestDriverTeam	Scuderia Ferrari
+1994 French Grand Prix	fastestDriverTeam	Williams F1
+1933 Penya Rhin Grand Prix	fastestDriverTeam	Bugatti
+1965 BRDC International Trophy	fastestDriverTeam	Scuderia Ferrari
+1979 Australian Grand Prix	fastestDriverTeam	Lola Cars
+1979 Australian Grand Prix	fastestDriverTeam	Lola Cars
+1964 BRDC International Trophy	fastestDriverTeam	Brabham
+1963 BRDC International Trophy	fastestDriverTeam	Team Lotus
+1962 BRDC International Trophy	fastestDriverTeam	Team Lotus
+1976 BRDC International Trophy	fastestDriverTeam	McLaren
+1975 BRDC International Trophy	fastestDriverTeam	Hesketh Racing
+1974 BRDC International Trophy	fastestDriverTeam	Hesketh Racing
+1971 Argentine Grand Prix	fastestDriverTeam	Matra
+1965 Mediterranean Grand Prix	fastestDriverTeam	Team Lotus
+1964 Mediterranean Grand Prix	fastestDriverTeam	Team Lotus
+1979 Race of Champions	fastestDriverTeam	Brabham
+1963 Mediterranean Grand Prix	fastestDriverTeam	Scuderia Ferrari
+1962 Mediterranean Grand Prix	fastestDriverTeam	Scuderia Ferrari
+1961 Danish Grand Prix	fastestDriverTeam	Team Lotus
+1962 Pau Grand Prix	fastestDriverTeam	Team Lotus
+1961 Pau Grand Prix	fastestDriverTeam	Team Lotus
+1963 Pau Grand Prix	fastestDriverTeam	Team Lotus
+1965 Race of Champions	fastestDriverTeam	Team Lotus
+1961 Glover Trophy	fastestDriverTeam	Cooper Car Company
+1962 Glover Trophy	fastestDriverTeam	Lola Cars
+1963 Glover Trophy	fastestDriverTeam	British Racing Motors
+1964 News of the World Trophy	fastestDriverTeam	British Racing Motors
+1965 Sunday Mirror Trophy	fastestDriverTeam	British Racing Motors
+1961 Solitude Grand Prix	fastestDriverTeam	Porsche in motorsport#Single-seaters
+1949 Buenos Aires Grand Prix	fastestDriverTeam	Alfa Romeo in Formula One
+1962 Solitude Grand Prix	fastestDriverTeam	Porsche in motorsport#Single-seaters
+1964 Solitude Grand Prix	fastestDriverTeam	Team Lotus
+1939 Belgrade City Race	fastestDriverTeam	Auto Union
+1963 Solitude Grand Prix	fastestDriverTeam	Team Lotus
+1963 Austrian Grand Prix	fastestDriverTeam	Brabham
+1961 International Gold Cup	fastestDriverTeam	Ferguson Research Ltd
+1962 International Gold Cup	fastestDriverTeam	Team Lotus
+1963 International Gold Cup	fastestDriverTeam	Team Lotus
+1961 Kanonloppet	fastestDriverTeam	Team Lotus
+1962 Kanonloppet	fastestDriverTeam	Team Lotus
+1963 Kanonloppet	fastestDriverTeam	Team Lotus
+1954 I Cornwall MRC Formula 1 Race	fastestDriverTeam	Connaught Engineering
+1954 II Cornwall MRC Formula 1 Race	fastestDriverTeam	Cooper Car Company
+1955 Cornwall MRC Formula 1 Race	fastestDriverTeam	Connaught Engineering
+1961 Syracuse Grand Prix	fastestDriverTeam	Porsche in motorsport#Single-seaters
+1963 Syracuse Grand Prix	fastestDriverTeam	Team Lotus
+1964 Syracuse Grand Prix	fastestDriverTeam	Scuderia Ferrari
+1965 Syracuse Grand Prix	fastestDriverTeam	Team Lotus
+1965 Rand Grand Prix	fastestDriverTeam	Brabham
+1964 Rand Grand Prix	fastestDriverTeam	Team Lotus
+1963 Rand Grand Prix	fastestDriverTeam	Scuderia Ferrari
+1962 Rand Grand Prix	fastestDriverTeam	Team Lotus
+1961 Rand Grand Prix	fastestDriverTeam	Porsche in motorsport#Single-seaters
+1961 Lewis-Evans Trophy	fastestDriverTeam	British Racing Motors
+1961 Silver City Trophy	fastestDriverTeam	Team Lotus
+1961 London Trophy	fastestDriverTeam	Cooper Car Company
+1961 London Trophy	fastestDriverTeam	Team Lotus
+1961 Coppa Italia	fastestDriverTeam	Cooper Car Company
+1961 Vienna Grand Prix	fastestDriverTeam	Team Lotus
+1960 Glover Trophy	fastestDriverTeam	Cooper Car Company
+1966 Syracuse Grand Prix	fastestDriverTeam	Scuderia Ferrari
+1967 Syracuse Grand Prix	fastestDriverTeam	Scuderia Ferrari
+1914 French Grand Prix	fastestDriverTeam	Mercedes (car)
+1971 World Championship Victory Race	fastestDriverTeam	Team Lotus
+1908 American Grand Prize	fastestDriverTeam	Fiat
+2009 Abu Dhabi Grand Prix	fastestDriverTeam	Red Bull Racing
+1961 Aintree 200	fastestDriverTeam	Cooper Car Company
+1962 Aintree 200	fastestDriverTeam	Team Lotus
+1978 Australian Grand Prix	fastestDriverTeam	Graham McRae
+1972 Australian Grand Prix	fastestDriverTeam	Graham McRae
+1967 Australian Grand Prix	fastestDriverTeam	British Racing Motors
+1964 Australian Grand Prix	fastestDriverTeam	Brabham
+1965 Australian Grand Prix	fastestDriverTeam	Brabham
+1966 Australian Grand Prix	fastestDriverTeam	British Racing Motors
+1966 Australian Grand Prix	fastestDriverTeam	British Racing Motors
+1968 Australian Grand Prix	fastestDriverTeam	Ferrari
+1969 Australian Grand Prix	fastestDriverTeam	Ferrari
+1973 Australian Grand Prix	fastestDriverTeam	Graham McRae
+1974 Australian Grand Prix	fastestDriverTeam	Lola Cars
+1973 Singapore Grand Prix	fastestDriverTeam	Brian Hart Ltd.
+1970 Australian Grand Prix	fastestDriverTeam	McLaren
+1971 Australian Grand Prix	fastestDriverTeam	Matich
+1975 Australian Grand Prix	fastestDriverTeam	Lola Cars
+2009 Australian Grand Prix	fastestDriverTeam	Williams F1
+1976 Australian Grand Prix	fastestDriverTeam	Matich
+1976 Australian Grand Prix	fastestDriverTeam	Elfin Sports Cars
+1977 Australian Grand Prix	fastestDriverTeam	Lola Cars
+1921 French Grand Prix	fastestDriverTeam	Duesenberg
+1921 Italian Grand Prix	fastestDriverTeam	Fiat
+1922 French Grand Prix	fastestDriverTeam	Fiat
+1963 Australian Grand Prix	fastestDriverTeam	Lola Cars
+1950 Pau Grand Prix	fastestDriverTeam	Maserati
+1950 Richmond Trophy	fastestDriverTeam	Maserati
+1949 Roussillon Grand Prix	fastestDriverTeam	Maserati 4CL and 4CLT
+2009 Japanese Grand Prix	fastestDriverTeam	Red Bull Racing
+1947 Roussillon Grand Prix	fastestDriverTeam	Maserati 4CM
+1946 Roussillon Grand Prix	fastestDriverTeam	Maserati 4CL and 4CLT
+1948 Roussillon Grand Prix	fastestDriverTeam	Gordini
+1979 Dino Ferrari Grand Prix	fastestDriverTeam	Scuderia Ferrari
+2009 British Grand Prix	fastestDriverTeam	Red Bull Racing
+1963 Aintree 200	fastestDriverTeam	Team Lotus
+1964 Aintree 200	fastestDriverTeam	Team Lotus
+1966 South African Grand Prix	fastestDriverTeam	Brabham
+1950 San Remo Grand Prix	fastestDriverTeam	Scuderia Ferrari
+1963 Rome Grand Prix	fastestDriverTeam	Lola Cars
+1963 Imola Grand Prix	fastestDriverTeam	Team Lotus
+1962 Lavant Cup	fastestDriverTeam	Cooper Car Company
+2009 Monaco Grand Prix	fastestDriverTeam	Scuderia Ferrari
+1962 Crystal Palace Trophy	fastestDriverTeam	Team Lotus
+1962 International 2000 Guineas	fastestDriverTeam	Lola Cars
+1950 Paris Grand Prix	fastestDriverTeam	Talbot-Lago
+1950 British Empire Trophy	fastestDriverTeam	English Racing Automobiles
+1950 Bari Grand Prix	fastestDriverTeam	Alfa Romeo in Formula One
+1962 Reims Grand Prix	fastestDriverTeam	British Racing Motors
+1950 Jersey Road Race	fastestDriverTeam	Maserati
+1961 Lombank Trophy	fastestDriverTeam	Team Lotus
+1962 Lombank Trophy	fastestDriverTeam	Team Lotus
+1922 Italian Grand Prix	fastestDriverTeam	Fiat
+1963 Lombank Trophy	fastestDriverTeam	British Racing Motors
+1923 French Grand Prix	fastestDriverTeam	Fiat
+1964 Daily Mirror Trophy	fastestDriverTeam	Team Lotus
+1966 International Gold Cup	fastestDriverTeam	Brabham
+1967 Race of Champions	fastestDriverTeam	All American Racers
+1962 Cape Grand Prix	fastestDriverTeam	Team Lotus
+1961 Natal Grand Prix	fastestDriverTeam	Team Lotus
+1962 Natal Grand Prix	fastestDriverTeam	Team Lotus
+1961 Modena Grand Prix	fastestDriverTeam	Team Lotus
+1961 Flugplatzrennen	fastestDriverTeam	Team Lotus
+1949 Italian Grand Prix	fastestDriverTeam	Scuderia Ferrari
+1923 Italian Grand Prix	fastestDriverTeam	Fiat
+2009 Malaysian Grand Prix	fastestDriverTeam	Brawn GP
+2009 Chinese Grand Prix	fastestDriverTeam	Brawn GP
+2009 Bahrain Grand Prix	fastestDriverTeam	Toyota Racing
+2009 Brazilian Grand Prix	fastestDriverTeam	Red Bull Racing
+1949 British Grand Prix	fastestDriverTeam	Alfa Romeo in Formula One
+1949 Belgian Grand Prix	fastestDriverTeam	Maserati in motorsport
+1949 Swiss Grand Prix	fastestDriverTeam	Maserati in motorsport
+1924 French Grand Prix	fastestDriverTeam	Sunbeam (car company)
+1924 Italian Grand Prix	fastestDriverTeam	Alfa Romeo in motorsport
+2009 Spanish Grand Prix	fastestDriverTeam	Brawn GP
+1925 Italian Grand Prix	fastestDriverTeam	Duesenberg
+1926 Italian Grand Prix	fastestDriverTeam	Bugatti
+1927 Italian Grand Prix	fastestDriverTeam	Delage
+2009 Turkish Grand Prix	fastestDriverTeam	Brawn GP
+2009 German Grand Prix	fastestDriverTeam	Renault F1
+2009 Hungarian Grand Prix	fastestDriverTeam	Red Bull Racing
+2009 Singapore Grand Prix	fastestDriverTeam	Renault F1
+2009 European Grand Prix	fastestDriverTeam	Toyota Racing
+2009 Belgian Grand Prix	fastestDriverTeam	Red Bull Racing
+2009 Italian Grand Prix	fastestDriverTeam	Force India
+1925 French Grand Prix	fastestDriverTeam	Sunbeam (car company)
+1962 Australian Grand Prix	fastestDriverTeam	Brabham
+1961 Australian Grand Prix	fastestDriverTeam	Cooper Car Company
+1960 Australian Grand Prix	fastestDriverTeam	Aston Martin
+1967 International Gold Cup	fastestDriverTeam	Brabham
+1968 International Gold Cup	fastestDriverTeam	Matra
+1959 Australian Grand Prix	fastestDriverTeam	Maserati
+1958 Australian Grand Prix	fastestDriverTeam	Chevrolet
+1964 New Zealand Grand Prix	fastestDriverTeam	Brabham
+1965 New Zealand Grand Prix	fastestDriverTeam	Brabham
+1966 New Zealand Grand Prix	fastestDriverTeam	British Racing Motors
+1926 French Grand Prix	fastestDriverTeam	Bugatti
+1969 Madrid Grand Prix	fastestDriverTeam	McLaren
+1971 Jochen Rindt Gedächtnisrennen	fastestDriverTeam	Scuderia Ferrari
+1926 San Sebastián Grand Prix	fastestDriverTeam	Delage
+1926 British Grand Prix	fastestDriverTeam	Talbot
+1967 New Zealand Grand Prix	fastestDriverTeam	Team Lotus
+1957 Australian Grand Prix	fastestDriverTeam	Ferrari
+1968 Deutschland Trophäe	fastestDriverTeam	Matra
+1934 German Grand Prix	fastestDriverTeam	Auto Union
+2010 British Grand Prix	fastestDriverTeam	Scuderia Ferrari
+1970 Race of Champions	fastestDriverTeam	Brabham
+1956 Australian Grand Prix	fastestDriverTeam	Maserati
+1955 Australian Grand Prix	fastestDriverTeam	Cooper Car Company
+1955 Australian Grand Prix	fastestDriverTeam	Maserati
+1954 Australian Grand Prix	fastestDriverTeam	Ferrari
+1968 New Zealand Grand Prix	fastestDriverTeam	Scuderia Ferrari
+2010 Bahrain Grand Prix	fastestDriverTeam	Scuderia Ferrari
+2010 Australian Grand Prix	fastestDriverTeam	Red Bull Racing
+2010 Turkish Grand Prix	fastestDriverTeam	Renault F1
+2010 Malaysian Grand Prix	fastestDriverTeam	Red Bull Racing
+2010 Spanish Grand Prix	fastestDriverTeam	McLaren
+2010 Canadian Grand Prix	fastestDriverTeam	Renault F1
+2010 Monaco Grand Prix	fastestDriverTeam	Red Bull Racing
+2010 European Grand Prix	fastestDriverTeam	McLaren
+1969 New Zealand Grand Prix	fastestDriverTeam	Team Lotus
+1970 New Zealand Grand Prix	fastestDriverTeam	McLaren
+1952 Australian Grand Prix	fastestDriverTeam	Talbot-Lago
+2010 Hungarian Grand Prix	fastestDriverTeam	Red Bull Racing
+2010 German Grand Prix	fastestDriverTeam	Red Bull Racing
+2010 Chinese Grand Prix	fastestDriverTeam	McLaren
+2010 Belgian Grand Prix	fastestDriverTeam	McLaren
+2010 Italian Grand Prix	fastestDriverTeam	Scuderia Ferrari
+2010 Japanese Grand Prix	fastestDriverTeam	Red Bull Racing
+2010 Singapore Grand Prix	fastestDriverTeam	Scuderia Ferrari
+2010 Korean Grand Prix	fastestDriverTeam	Scuderia Ferrari
+2010 Abu Dhabi Grand Prix	fastestDriverTeam	McLaren
+2010 Brazilian Grand Prix	fastestDriverTeam	McLaren
+1951 Australian Grand Prix	fastestDriverTeam	Cooper Car Company
+1950 Australian Grand Prix	fastestDriverTeam	Alfa Romeo in motorsport
+1950 Australian Grand Prix	fastestDriverTeam	Ford Motor Company
+1961 Naples Grand Prix	fastestDriverTeam	Scuderia Ferrari
+1962 Naples Grand Prix	fastestDriverTeam	Scuderia Ferrari
+1949 Australian Grand Prix	fastestDriverTeam	Delahaye
+1949 Australian Grand Prix	fastestDriverTeam	Hudson Motor Car Company
+1948 Australian Grand Prix	fastestDriverTeam	Alfa Romeo in motorsport
+1972 World Championship Victory Race	fastestDriverTeam	Team Lotus
+1939 Australian Grand Prix	fastestDriverTeam	Alfa Romeo in motorsport
+1937 Australian Grand Prix	fastestDriverTeam	Bugatti
+1966 Canadian Grand Prix	fastestDriverTeam	Lola Cars
+1968 Race of Champions	fastestDriverTeam	McLaren
+1969 Race of Champions	fastestDriverTeam	Team Lotus
+1960 Cape Grand Prix	fastestDriverTeam	Porsche in motorsport#Single-seaters
+1960 South African Grand Prix	fastestDriverTeam	Porsche in motorsport#Single-seaters
+1971 Race of Champions	fastestDriverTeam	Brabham
+1947 French Grand Prix	fastestDriverTeam	Maserati in motorsport
+1948 Monaco Grand Prix	fastestDriverTeam	Maserati
+1948 Swiss Grand Prix	fastestDriverTeam	Alfa Romeo
+1948 French Grand Prix	fastestDriverTeam	Alfa Romeo in motorsport
+1948 Italian Grand Prix	fastestDriverTeam	Alfa Romeo in Formula One
+1949 French Grand Prix	fastestDriverTeam	Scuderia Ferrari
+1934 Swiss Grand Prix	fastestDriverTeam	Auto Union
+1949 San Remo Grand Prix	fastestDriverTeam	Maserati in motorsport
+2011 Canadian Grand Prix	fastestDriverTeam	McLaren
+2011 British Grand Prix	fastestDriverTeam	Scuderia Ferrari
+2011 Australian Grand Prix	fastestDriverTeam	Scuderia Ferrari
+2011 Chinese Grand Prix	fastestDriverTeam	Red Bull Racing
+2011 European Grand Prix	fastestDriverTeam	Red Bull Racing
+2011 German Grand Prix	fastestDriverTeam	McLaren
+2011 Monaco Grand Prix	fastestDriverTeam	Red Bull Racing
+2011 Malaysian Grand Prix	fastestDriverTeam	Red Bull Racing
+2011 Spanish Grand Prix	fastestDriverTeam	McLaren
+2011 Turkish Grand Prix	fastestDriverTeam	Red Bull Racing
+1985 Detroit Grand Prix	fastestDriverTeam	Team Lotus
+1986 Detroit Grand Prix	fastestDriverTeam	Williams F1
+1987 Detroit Grand Prix	fastestDriverTeam	Team Lotus
+1988 Detroit Grand Prix	fastestDriverTeam	McLaren

@@ -1,0 +1,19 @@
+Lamborghini V8	fuelType	petrol
+Cummins B Series engine	fuelType	diesel
+Alfa Romeo Flat-4 engine	fuelType	petrol
+Cummins L Series engine	fuelType	diesel
+Nissan MR engine	fuelType	diesel
+G60	fuelType	petrol
+Detroit Diesel V8 engine	fuelType	diesel
+Subaru EJ engine	fuelType	petrol
+Wasserboxer	fuelType	petrol
+Volkswagen air cooled engine	fuelType	petrol
+Cummins M Series engine	fuelType	diesel
+Toyota C engine	fuelType	diesel
+Toyota C engine  2C   1	fuelType	diesel
+Toyota C engine  3C   1	fuelType	diesel
+International Harvester IDI	fuelType	diesel
+IKCO EF Engines	fuelType	petrol
+Mercedes-Benz OM606 engine	fuelType	diesel
+Mercedes-Benz OM605 engine	fuelType	diesel
+Mercedes-Benz OM604 engine	fuelType	diesel

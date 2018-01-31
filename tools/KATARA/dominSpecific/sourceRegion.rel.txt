@@ -1,0 +1,743 @@
+Amazon River	sourceRegion	Arequipa Region
+Amu Darya	sourceRegion	Pamir Mountains
+Amu Darya	sourceRegion	Pamir Mountains
+Yangtze River	sourceRegion	Qinghai
+Mississippi River	sourceRegion	Clearwater County, Minnesota
+Rhine	sourceRegion	Surselva District
+Rhine	sourceRegion	Graubünden
+Rhine	sourceRegion	Graubünden
+Yukon River	sourceRegion	British Columbia
+Sacramento River	sourceRegion	Siskiyou County, California
+Vltava	sourceRegion	Bohemian Forest
+Krishna River	sourceRegion	Maharashtra
+Jordan River	sourceRegion	Golan Heights
+Delaware River	sourceRegion	Schoharie County, New York
+Delaware River	sourceRegion	Delaware County, New York
+Ob River	sourceRegion	Altai Republic
+Ob River	sourceRegion	Altai Republic
+Back River	sourceRegion	Northwest Territories
+Potomac River	sourceRegion	Preston County, West Virginia
+Volga River	sourceRegion	Tver Oblast
+Tagus	sourceRegion	Province of Teruel
+Guadiana	sourceRegion	Castile-La Mancha
+Ottawa River	sourceRegion	Outaouais (region)
+Willamette River	sourceRegion	Lane County, Oregon
+Rhone	sourceRegion	Valais
+Orinoco	sourceRegion	Parima
+River Shannon	sourceRegion	County Cavan
+Han River (Korea)	sourceRegion	Taebaek
+River Tyne	sourceRegion	Northumberland
+River Welland	sourceRegion	Northamptonshire
+River Nene	sourceRegion	Northamptonshire
+River Little Ouse	sourceRegion	Norfolk
+River Stour, Suffolk	sourceRegion	Cambridgeshire
+River Ouse, Yorkshire	sourceRegion	Linton-on-Ouse
+River Avon (Hampshire)	sourceRegion	Wiltshire
+Derwent River (Tasmania)	sourceRegion	Central Highlands (Tasmania)
+River Derwent, Yorkshire	sourceRegion	Yorkshire
+River Mersey	sourceRegion	Cheshire
+River Tay	sourceRegion	Scottish Highlands
+Glomma	sourceRegion	Sør-Trøndelag
+River Mole	sourceRegion	West Sussex
+Los Angeles River	sourceRegion	San Fernando Valley
+River Kennet	sourceRegion	Wiltshire
+St. Croix River (Wisconsin–Minnesota)	sourceRegion	Douglas County, Wisconsin
+Susquehanna River	sourceRegion	Otsego County, New York
+Susquehanna River	sourceRegion	Cambria County, Pennsylvania
+Yarra River	sourceRegion	Victoria (Australia)
+River Medway	sourceRegion	West Sussex
+Mojave River	sourceRegion	San Bernardino Mountains
+Connecticut River	sourceRegion	Coös County, New Hampshire
+Minnesota River	sourceRegion	Big Stone County, Minnesota
+Arkansas River	sourceRegion	Rocky Mountains
+Arkansas River	sourceRegion	Colorado
+Platte River	sourceRegion	Jackson County, Colorado
+Platte River	sourceRegion	Colorado
+Platte River	sourceRegion	Weld County, Colorado
+Platte River	sourceRegion	Colorado
+Chattahoochee River	sourceRegion	Chattahoochee-Oconee National Forest
+Mohawk River	sourceRegion	Oneida County, New York
+San Joaquin River	sourceRegion	Sierra Nevada (U.S.)
+River Arun	sourceRegion	West Sussex
+Chehalis River (Washington)	sourceRegion	Lewis County, Washington
+White River (Arkansas)	sourceRegion	Madison County, Arkansas
+River Wye, Derbyshire	sourceRegion	Derbyshire
+Humber River (Ontario)	sourceRegion	Regional Municipality of York
+Ouachita River	sourceRegion	Polk County, Arkansas
+Mammoth Spring	sourceRegion	The Ozarks
+Deschutes River (Oregon)	sourceRegion	Deschutes County, Oregon
+Big Sandy River (Ohio River)	sourceRegion	McDowell County, West Virginia
+Big Sandy River (Ohio River)	sourceRegion	Buchanan County, Virginia
+River Churn	sourceRegion	Gloucestershire
+River Weaver	sourceRegion	Cheshire
+Váh	sourceRegion	High Tatras
+Kura River	sourceRegion	Kars, Turkey
+River Exe	sourceRegion	Somerset
+Bruneau River	sourceRegion	Elko County, Nevada
+Lusatian Neisse	sourceRegion	Liberec Region
+River Stour, Worcestershire	sourceRegion	Worcestershire
+Little Colorado River	sourceRegion	White Mountains (Arizona)
+Pudding River	sourceRegion	Marion County, Oregon
+Iguazu River	sourceRegion	Paraná (state)
+Genesee River	sourceRegion	Potter County, Pennsylvania
+Genesee River	sourceRegion	Potter County, Pennsylvania
+Schuylkill River	sourceRegion	Schuylkill County, Pennsylvania
+Schuylkill River	sourceRegion	Schuylkill County, Pennsylvania
+Housatonic River	sourceRegion	Berkshire County, Massachusetts
+Santa Clara River (California)	sourceRegion	Los Angeles County, California
+Merced River	sourceRegion	Madera County, California
+D River	sourceRegion	Lincoln County, Oregon
+Tuolumne River	sourceRegion	Sierra Crest
+Tuolumne River	sourceRegion	Sierra Crest
+North Platte River	sourceRegion	Colorado
+Little Missouri River (North Dakota)	sourceRegion	Crook County, Wyoming
+Jordan River (Utah)	sourceRegion	Utah County, Utah
+Tualatin River	sourceRegion	Washington County, Oregon
+Madawaska River (Ontario)	sourceRegion	Nipissing District
+Powder River (Montana)	sourceRegion	Wyoming
+Rouge River (Ontario)	sourceRegion	Regional Municipality of York
+Gila River	sourceRegion	Grant County, New Mexico
+Gila River	sourceRegion	Catron County, New Mexico
+San Juan River (Colorado River)	sourceRegion	Colorado
+Virgin River	sourceRegion	Dixie National Forest
+New River (Kanawha River)	sourceRegion	Watauga County, North Carolina
+White River (Utah)	sourceRegion	Colorado
+Zeya River	sourceRegion	Amur Oblast
+Saint John River (Bay of Fundy)	sourceRegion	Quebec
+Sun River	sourceRegion	Lewis and Clark County, Montana
+Sun River	sourceRegion	Lewis and Clark County, Montana
+River Cherwell	sourceRegion	Northamptonshire
+Sandy River (Oregon)	sourceRegion	Clackamas County, Oregon
+Haw River	sourceRegion	Forsyth County, North Carolina
+Maribyrnong River	sourceRegion	Victoria (Australia)
+Southern Bug	sourceRegion	Lviv Oblast
+Bug River	sourceRegion	Lviv Oblast
+James River (Dakotas)	sourceRegion	North Dakota
+Hackensack River	sourceRegion	Rockland County, New York
+Kanawha River	sourceRegion	Pocahontas County, West Virginia
+Clackamas River	sourceRegion	Marion County, Oregon
+Goulburn River (Victoria)	sourceRegion	Victoria (Australia)
+Lehigh River	sourceRegion	Wayne County, Pennsylvania
+Nervión	sourceRegion	Álava
+Umpqua River	sourceRegion	Douglas County, Oregon
+Willimantic River	sourceRegion	Tolland County, Connecticut
+Shetucket River	sourceRegion	Windham County, Connecticut
+Connoquenessing Creek	sourceRegion	Butler County, Pennsylvania
+Beaver River (Pennsylvania)	sourceRegion	Lawrence County, Pennsylvania
+Beaver River (Pennsylvania)	sourceRegion	Lawrence County, Pennsylvania
+Etobicoke Creek	sourceRegion	Ontario
+Juniata River	sourceRegion	Somerset County, Pennsylvania
+Wind River (Wyoming)	sourceRegion	Teton County, Wyoming
+Torne River	sourceRegion	Norrbotten County
+Christina River	sourceRegion	Chester County, Pennsylvania
+White Clay Creek	sourceRegion	Chester County, Pennsylvania
+White Clay Creek	sourceRegion	Chester County, Pennsylvania
+Brandywine Creek (Christina River)	sourceRegion	Chester County, Pennsylvania
+Brandywine Creek (Christina River)	sourceRegion	Chester County, Pennsylvania
+Neversink River	sourceRegion	Ulster County, New York
+Loup River	sourceRegion	Howard County, Nebraska
+Roanoke River	sourceRegion	Virginia
+Marys River	sourceRegion	Benton County, Oregon
+Youghiogheny River	sourceRegion	Preston County, West Virginia
+Yamhill River	sourceRegion	Yamhill County, Oregon
+Humboldt River	sourceRegion	Elko County, Nevada
+Teton River (Idaho)	sourceRegion	Teton County, Idaho
+Clark Fork (river)	sourceRegion	Silver Bow County, Montana
+Clark Fork (river)	sourceRegion	Granite County, Montana
+Okanogan River	sourceRegion	British Columbia
+Kootenay River	sourceRegion	British Columbia
+Malheur River	sourceRegion	Grant County, Oregon
+Chetco River	sourceRegion	Curry County, Oregon
+Illinois River (Oregon)	sourceRegion	Josephine County, Oregon
+Coos River	sourceRegion	Coos County, Oregon
+Siletz River	sourceRegion	Polk County, Oregon
+Smith River (Umpqua River)	sourceRegion	Douglas County, Oregon
+North Yamhill River	sourceRegion	Yamhill County, Oregon
+South Yamhill River	sourceRegion	Yamhill County, Oregon
+Salmon River (Lincoln County, Oregon)	sourceRegion	Lincoln County, Oregon
+Nestucca River	sourceRegion	Tillamook County, Oregon
+Little Nestucca River	sourceRegion	Polk County, Oregon
+Alsea River	sourceRegion	Lane County, Oregon
+Nith River	sourceRegion	Regional Municipality of Waterloo
+Kuskokwim River	sourceRegion	Yukon–Koyukuk Census Area, Alaska
+West Branch Susquehanna River	sourceRegion	Cambria County, Pennsylvania
+Black Warrior River	sourceRegion	Alabama
+Dirty Devil River	sourceRegion	Wayne County, Utah
+Bear River (Utah)	sourceRegion	Summit County, Utah
+Llano River	sourceRegion	Edwards Plateau
+Trask River	sourceRegion	Tillamook, Oregon
+Walker River	sourceRegion	California
+Walker River	sourceRegion	California
+River Blackwater (River Loddon)	sourceRegion	Hampshire
+North Santiam River	sourceRegion	Linn County, Oregon
+Middle Santiam River	sourceRegion	Linn County, Oregon
+South Santiam River	sourceRegion	Linn County, Oregon
+Peace River (Canada)	sourceRegion	British Columbia
+Peace River (Canada)	sourceRegion	British Columbia
+Feather River	sourceRegion	Plumas County, California
+Feather River	sourceRegion	Plumas County, California
+McCloud River	sourceRegion	Siskiyou County, California
+McCloud River	sourceRegion	Siskiyou County, California
+Shasta River	sourceRegion	Siskiyou County, California
+Trinity River (California)	sourceRegion	Trinity County, California
+Amargosa River	sourceRegion	Nye County, Nevada
+Owens River	sourceRegion	Mono County, California
+Eel River (California)	sourceRegion	Mendocino County
+Santa Margarita River	sourceRegion	Riverside County, California
+Sprague River (Oregon)	sourceRegion	Klamath County, Oregon
+Sycan River	sourceRegion	Lake County, Oregon
+Hoh River	sourceRegion	Olympic Mountains
+Skagit River	sourceRegion	British Columbia
+Nehalem River	sourceRegion	Tillamook County, Oregon
+Skipanon River	sourceRegion	Clatsop County, Oregon
+Lewis and Clark River	sourceRegion	Clatsop County, Oregon
+Karmanasa River	sourceRegion	Kaimur Range
+Youngs River	sourceRegion	Clatsop County, Oregon
+Klaskanine River	sourceRegion	Clatsop County, Oregon
+Wallooskee River	sourceRegion	Clatsop County, Oregon
+Clatskanie River	sourceRegion	Columbia County, Oregon
+Necanicum River	sourceRegion	Clatsop County, Oregon
+South Umpqua River	sourceRegion	Cascade Range
+Lewis River (Washington)	sourceRegion	Skamania County, Washington
+Neretva	sourceRegion	Dinaric Alps
+Aux Sables River (Spanish River)	sourceRegion	Algoma District
+Mississagi River	sourceRegion	Sudbury District
+River Gowy	sourceRegion	Cheshire
+River Eden, Kent	sourceRegion	Surrey
+River Brent	sourceRegion	Greater London
+Fall River (Ontario)	sourceRegion	Frontenac County, Ontario
+River Taff	sourceRegion	Merthyr Tydfil
+Ozama River	sourceRegion	Sierra de Yamasá
+Ahr	sourceRegion	Eifel
+Ahr	sourceRegion	North Rhine-Westphalia
+Paraguay River	sourceRegion	Mato Grosso
+Paraguay River	sourceRegion	Mato Grosso
+Han River (Yangtze River tributary)	sourceRegion	Shaanxi
+Monocacy River	sourceRegion	Carroll County, Maryland
+Monocacy River	sourceRegion	Maryland
+River Dove, Central England	sourceRegion	Peak District
+Rio Tinto (river)	sourceRegion	Andalusia
+San Gabriel River (California)	sourceRegion	San Gabriel Mountains
+San Gabriel River (California)	sourceRegion	San Gabriel Mountains
+River Wye, Buckinghamshire	sourceRegion	Chiltern Hills
+Ipeľ	sourceRegion	Slovakia
+Barron River (Ontario)	sourceRegion	Northeastern Ontario
+Churchill River (Hudson Bay)	sourceRegion	Saskatchewan
+Skootamatta River	sourceRegion	Lennox and Addington County, Ontario
+Sauble River (Ontario)	sourceRegion	Grey County, Ontario
+River Frome, Bristol	sourceRegion	South Gloucestershire
+Breitenbush River	sourceRegion	Mount Jefferson Wilderness
+Orava (river)	sourceRegion	Orava
+Klickitat River	sourceRegion	Yakima County, Washington
+Kicking Horse River	sourceRegion	Yoho National Park
+Ausable River (Lake Huron)	sourceRegion	Perth County, Ontario
+Burnt River (Ontario)	sourceRegion	Haliburton County, Ontario
+Taddle Creek	sourceRegion	Toronto
+Garrison Creek	sourceRegion	Toronto
+Chu River	sourceRegion	Naryn Province
+River Bain	sourceRegion	Lincolnshire Wolds
+Mutha River	sourceRegion	Western Ghats
+Bureya River	sourceRegion	Khabarovsk Krai
+Alster	sourceRegion	Schleswig-Holstein
+Russell Creek (Ontario)	sourceRegion	Toronto
+Chaliyar River	sourceRegion	Kerala
+German Mills Creek (Don)	sourceRegion	Regional Municipality of York
+River Neath	sourceRegion	Powys
+Jock River	sourceRegion	Lanark County, Ontario
+Katun River	sourceRegion	Altai Republic
+Illecillewaet River	sourceRegion	Glacier National Park (Canada)
+Eastern Yar	sourceRegion	Isle of Wight
+Ätran (river)	sourceRegion	Västergötland
+Cimarron River (Arkansas River)	sourceRegion	Cimarron County, Oklahoma
+Kickapoo River	sourceRegion	Wisconsin
+Spoon River	sourceRegion	Stark County, Illinois
+Kurobe River	sourceRegion	Toyama Prefecture
+Damodar River	sourceRegion	Chota Nagpur Plateau
+Toyohira River	sourceRegion	Hokkaido
+Pampanga River	sourceRegion	Central Luzon
+Chrudimka	sourceRegion	Pardubice Region
+Sázava (river)	sourceRegion	Vysočina Region
+Little Wood River	sourceRegion	Blaine County, Idaho
+Bhima River	sourceRegion	Maharashtra
+Broad River (Carolinas)	sourceRegion	Buncombe County, North Carolina
+Coco River	sourceRegion	Choluteca Department
+Mindanao River	sourceRegion	Northern Mindanao
+Vils (Danube)	sourceRegion	Upper Bavaria
+Vils (Danube)	sourceRegion	Lower Bavaria
+Hase	sourceRegion	Teutoburg Forest
+Ulúa River	sourceRegion	La Esperanza, Honduras
+Olinda Creek	sourceRegion	Victoria (Australia)
+River Trym	sourceRegion	West of England
+Cobbs Creek	sourceRegion	Montgomery County, Pennsylvania
+Gauley River	sourceRegion	Pocahontas County, West Virginia
+Wallkill River	sourceRegion	Sussex County, New Jersey
+Jukskei River	sourceRegion	Johannesburg
+Slippery Rock Creek	sourceRegion	Butler County, Pennsylvania
+Naryn River	sourceRegion	Naryn Province
+Viskan	sourceRegion	Västra Götaland County
+Ponoy River	sourceRegion	Murmansk Oblast
+Elk River (West Virginia)	sourceRegion	Pocahontas County, West Virginia
+Shade River	sourceRegion	Meigs County, Ohio
+Shade River	sourceRegion	Athens County, Ohio
+Homla	sourceRegion	Sør-Trøndelag
+Butte Creek (Butte County, California)	sourceRegion	Butte County, California
+Skellefte River	sourceRegion	Norrbotten County
+Paterson River	sourceRegion	Hunter Region
+Black Fork (Cheat River)	sourceRegion	Randolph County, West Virginia
+Black Fork (Cheat River)	sourceRegion	Tucker County, West Virginia
+Dry Fork (Cheat River)	sourceRegion	Randolph County, West Virginia
+Stanislaus River	sourceRegion	Tuolumne County, California
+Yuba River	sourceRegion	Yuba County, California
+Yuba River	sourceRegion	Nevada County, California
+Williams River (West Virginia)	sourceRegion	Pocahontas County, West Virginia
+Williams River (West Virginia)	sourceRegion	Pocahontas County, West Virginia
+River Evenlode	sourceRegion	Cotswolds
+Río Negro (Argentina)	sourceRegion	Neuquén Province
+Río Negro (Argentina)	sourceRegion	Neuquén Province
+Alamo River	sourceRegion	Baja California
+Tule River	sourceRegion	Tulare County, California
+Mula River (India)	sourceRegion	Western Ghats
+Magog River	sourceRegion	Estrie
+Mullet River	sourceRegion	Fond du Lac County, Wisconsin
+Sil (river)	sourceRegion	Castile and León
+River Windrush	sourceRegion	Cotswolds
+Parbati River (Rajasthan)	sourceRegion	Rajasthan
+Queen River	sourceRegion	West Coast, Tasmania
+Cranberry River (West Virginia)	sourceRegion	Pocahontas County, West Virginia
+Twelvepole Creek	sourceRegion	Mingo County, West Virginia
+Twelvepole Creek	sourceRegion	Mingo County, West Virginia
+Cheakamus River	sourceRegion	Coast Mountains
+River Ash, Surrey	sourceRegion	Spelthorne
+Chagrin River	sourceRegion	Greater Cleveland
+Dean River	sourceRegion	Chilcotin District
+Bull Run River (Oregon)	sourceRegion	Clackamas County, Oregon
+River Yarrow (Lancashire)	sourceRegion	Anglezarke
+Black Creek (Toronto)	sourceRegion	Regional Municipality of York
+Saru River	sourceRegion	Hidaka Subprefecture
+Halifax River	sourceRegion	Volusia County, Florida
+Thomson River (Victoria)	sourceRegion	Victoria (Australia)
+Minho River	sourceRegion	Galicia (Spain)
+Ellicott Creek	sourceRegion	Genesee County, New York
+Goffle Brook	sourceRegion	Bergen County, New Jersey
+Diamond Brook	sourceRegion	Bergen County, New Jersey
+River Garnock	sourceRegion	Ayrshire
+Larrys Creek	sourceRegion	Lycoming County, Pennsylvania
+Temescal Creek (Northern California)	sourceRegion	Alameda County, California
+Saline River (Illinois)	sourceRegion	Illinois
+Apple River (Illinois)	sourceRegion	Lafayette County, Wisconsin
+Seyhan River	sourceRegion	Adana Province
+Sespe Creek	sourceRegion	California
+Somonauk Creek	sourceRegion	Illinois
+Amgun River	sourceRegion	Khabarovsk Krai
+Nacimiento River	sourceRegion	San Luis Obispo County, California
+San Luis Rey River	sourceRegion	Cleveland National Forest
+San Luis Rey River	sourceRegion	San Diego County, California
+Saint-François River	sourceRegion	Estrie
+Whitewater River (California)	sourceRegion	San Bernardino County, California
+San Jacinto River (California)	sourceRegion	San Bernardino National Forest
+San Jacinto River (California)	sourceRegion	Riverside County, California
+Van Duzen River	sourceRegion	Trinity County, California
+Chowchilla River	sourceRegion	Mariposa County, California
+Piru Creek	sourceRegion	Ventura County, California
+Baker River (Washington)	sourceRegion	Whatcom County, Washington
+Brokenstraw Creek	sourceRegion	Chautauqua County, New York
+Love River	sourceRegion	Kaohsiung
+Conneaut Creek	sourceRegion	Crawford County, Pennsylvania
+Pithole Creek	sourceRegion	Forest County, Pennsylvania
+Ammonoosuc River	sourceRegion	Coös County, New Hampshire
+Yamaska River	sourceRegion	Canton le Est
+Apies River	sourceRegion	Gauteng
+Choluteca River	sourceRegion	Choluteca Department
+Guaporé River	sourceRegion	Mato Grosso
+La Trobe River	sourceRegion	Victoria (Australia)
+Rio Chama (Rio Grande)	sourceRegion	Rio Grande National Forest
+Chillisquaque Creek	sourceRegion	Columbia County, Pennsylvania
+Agus River	sourceRegion	ARMM
+Peckman River	sourceRegion	Essex County, New Jersey
+North Saskatchewan River	sourceRegion	Alberta
+Crum Creek	sourceRegion	Chester County, Pennsylvania
+Tuul River	sourceRegion	Khentii Mountains
+Collawash River	sourceRegion	Clackamas County, Oregon
+Oil Creek (Allegheny River)	sourceRegion	Crawford County, Pennsylvania
+Keowee River	sourceRegion	Oconee County, South Carolina
+Rotla	sourceRegion	Nord-Trøndelag
+Seneca Creek (North Fork South Branch Potomac River)	sourceRegion	Pendleton County, West Virginia
+Seneca Creek (North Fork South Branch Potomac River)	sourceRegion	Pocahontas County, West Virginia
+Donner und Blitzen River	sourceRegion	Harney County, Oregon
+Jackson River (Virginia)	sourceRegion	Highland County, Virginia
+Liddel Water	sourceRegion	Scottish Borders
+Mill Creek (White Clay Creek)	sourceRegion	Chester County, Pennsylvania
+Broad Run (White Clay Creek)	sourceRegion	Chester County, Pennsylvania
+Elk Creek (Lake Erie)	sourceRegion	Erie County, Pennsylvania
+East Branch Brandywine Creek	sourceRegion	Chester County, Pennsylvania
+Provo River	sourceRegion	Summit County, Utah
+Sittaung River	sourceRegion	Bago Region
+Bécancour River	sourceRegion	Chaudière-Appalaches
+Kinzua Creek	sourceRegion	McKean County, Pennsylvania
+Cutler River (New Hampshire)	sourceRegion	New England
+Shawangunk Kill	sourceRegion	New York
+Abiqua Creek	sourceRegion	Marion County, Oregon
+Crab Creek	sourceRegion	Lincoln County, Washington
+Westfield River	sourceRegion	The Berkshires
+Laguna de Santa Rosa	sourceRegion	California
+Glenelg River (Victoria)	sourceRegion	Victoria (Australia)
+River Glaven	sourceRegion	North Norfolk
+Washoe Creek	sourceRegion	California
+Holland Brook	sourceRegion	Central Jersey
+Berens River	sourceRegion	Ontario
+Lochsa River	sourceRegion	Idaho County, Idaho
+Paxton Creek	sourceRegion	Dauphin County, Pennsylvania
+Kettle River (Columbia River)	sourceRegion	British Columbia
+Quinebaug River	sourceRegion	Tolland County, Connecticut
+Sandy Creek (Ohio)	sourceRegion	Columbiana County, Ohio
+Applegate River	sourceRegion	Siskiyou County, California
+Kara Darya	sourceRegion	Osh Province
+Glady Fork	sourceRegion	Randolph County, West Virginia
+Glady Fork	sourceRegion	Randolph County, West Virginia
+River Cegidog	sourceRegion	Flintshire
+Breakneck Creek	sourceRegion	Allegheny County, Pennsylvania
+Breakneck Creek	sourceRegion	Butler County, Pennsylvania
+Barakar River	sourceRegion	Chota Nagpur Plateau
+Ripoll (river)	sourceRegion	Catalonia
+Huff Run	sourceRegion	Carroll County, Ohio
+Tionesta Creek	sourceRegion	Warren County, Pennsylvania
+Sausal Creek (Alameda County, California)	sourceRegion	Oakland, California
+Addison Creek (Salt Creek tributary)	sourceRegion	DuPage County, Illinois
+Tuloma River	sourceRegion	Lapland (Finland)
+Johnson Creek (Willamette River)	sourceRegion	Clackamas County, Oregon
+Ernée (river)	sourceRegion	Pays de la Loire
+River Irvine	sourceRegion	Lanarkshire
+Galien River	sourceRegion	Berrien County, Michigan
+Marikina River	sourceRegion	CALABARZON
+Burbage Brook	sourceRegion	Derbyshire
+Tieton River	sourceRegion	Goat Rocks Wilderness
+Big Wood River	sourceRegion	Blaine County, Idaho
+Jennings Run	sourceRegion	Backbone Mountain
+Jennings Run    1	sourceRegion	Savage Mountain
+Manjira River	sourceRegion	Maharashtra
+Selizharovka River	sourceRegion	Tver Oblast
+Tajuña	sourceRegion	Province of Guadalajara
+Butte Creek (Oregon)	sourceRegion	Marion County, Oregon
+Tryon Creek	sourceRegion	Multnomah County, Oregon
+Nea River	sourceRegion	Sør-Trøndelag
+Ewenny River	sourceRegion	Bridgend
+Tes River	sourceRegion	Tsagaan-Uul, Khövsgöl
+Salmon River (Ontario)	sourceRegion	Frontenac County, Ontario
+Calfpasture River	sourceRegion	Augusta County, Virginia
+Plunketts Creek (Loyalsock Creek)	sourceRegion	Sullivan County, Pennsylvania
+Bajhang River	sourceRegion	Chiayi County
+Chapare River	sourceRegion	Carrasco National Park
+Stillman Creek (Illinois)	sourceRegion	Ogle County, Illinois
+Bistriţa River (Jiu)	sourceRegion	Vâlcan Mountains
+Bistriţa River (Jiu)	sourceRegion	Mount Oslea
+Bistriţa River (Jiu)	sourceRegion	Negoiu River (Jiu)
+Bistriţa River (Jiu)	sourceRegion	Groapele River (Bistriţa)
+Batten Kill	sourceRegion	Green Mountains
+Batten Kill	sourceRegion	Taconic Mountains
+Iruvanjippuzha	sourceRegion	Wayanad district
+Valea Câmpului River (Perişani)	sourceRegion	Mlăceni, Vâlcea
+Jinsha River	sourceRegion	Qinghai
+Corhana River	sourceRegion	Romania
+Marchington River (Ontario)	sourceRegion	Thunder Bay District
+Kaladan River	sourceRegion	Chin State
+Parañaque River	sourceRegion	Metro Manila
+Row River	sourceRegion	Lane County, Oregon
+River Tweed, Leicestershire	sourceRegion	Leicestershire
+Myjava (river)	sourceRegion	White Carpathians
+Bejan River	sourceRegion	Transylvania
+Middle Fork Feather River	sourceRegion	Plumas County, California
+South Fork Kern River	sourceRegion	Inyo County, California
+River Aller	sourceRegion	Exmoor
+Barton River	sourceRegion	Orleans County,Vermont
+Khava River	sourceRegion	Voronezh Oblast
+Nkusi River	sourceRegion	Western Region, Uganda
+Mayanja River	sourceRegion	Central Region, Uganda
+Bybrook River	sourceRegion	South Gloucestershire
+Bybrook River	sourceRegion	South Gloucestershire
+Succor Creek	sourceRegion	Owyhee County, Idaho
+Vermilion River (British Columbia)	sourceRegion	British Columbia
+Rush Creek (Mono County, California)	sourceRegion	California
+Cagayan River (Cagayan de Oro)	sourceRegion	Northern Mindanao
+Lérez	sourceRegion	Galicia (Spain)
+River Mease	sourceRegion	Leicestershire
+Makomanai River	sourceRegion	Hokkaido
+Caboolture River	sourceRegion	South East Queensland
+Manada Creek	sourceRegion	Lebanon County, Pennsylvania
+Fanno Creek	sourceRegion	Multnomah County, Oregon
+Balch Creek	sourceRegion	Multnomah County, Oregon
+Rocky River (South Carolina)	sourceRegion	Anderson County, South Carolina
+Columbia Slough	sourceRegion	Multnomah County, Oregon
+Incomappleux River	sourceRegion	Selkirk Mountains
+Blaeberry River	sourceRegion	Canadian Rockies
+Khabur (Tigris)	sourceRegion	Şırnak Province
+River Wey	sourceRegion	Hampshire
+River Wey	sourceRegion	West Sussex
+Clyde River (Vermont)	sourceRegion	Essex County,Vermont
+Black River (Lake Memphremagog)	sourceRegion	Orleans County, Vermont
+Oak Grove Fork Clackamas River	sourceRegion	Clackamas County, Oregon
+Mirna (Croatia)	sourceRegion	Istria
+LeBoeuf Creek	sourceRegion	Erie County, Pennsylvania
+Yoho River	sourceRegion	Yoho National Park
+Coffee Creek (Brokenstraw Creek)	sourceRegion	Warren County, Pennsylvania
+North Fork John Day River	sourceRegion	Grant County, Oregon
+South Fork John Day River	sourceRegion	Harney County, Oregon
+Matilija Creek	sourceRegion	Santa Barbara County, California
+Bicol River	sourceRegion	Bicol Region
+Tagoloan River	sourceRegion	Northern Mindanao
+Abra River	sourceRegion	Cordillera Administrative Region
+Abulog	sourceRegion	Cordillera Administrative Region
+Bridge Creek (John Day River)	sourceRegion	Wheeler County, Oregon
+River Mole, Devon	sourceRegion	Devon
+Gull River (Balsam Lake)	sourceRegion	Haliburton County, Ontario
+Middle Fork John Day River	sourceRegion	Grant County, Oregon
+Øverlandselva	sourceRegion	Bærum
+Chitose River	sourceRegion	Hokkaido
+Dairy Creek (Oregon)	sourceRegion	Washington County, Oregon
+Fairview Creek	sourceRegion	Multnomah County, Oregon
+San Diego Creek	sourceRegion	Lake Forest, California
+Little Blitzen River	sourceRegion	Harney County, Oregon
+Sturgeon River (Manitoba)	sourceRegion	Northwestern Ontario
+Aliso Creek (Los Angeles County)	sourceRegion	Santa Susana Mountains
+Stjørdalselva	sourceRegion	Nord-Trøndelag
+Teshio River	sourceRegion	Hokkaido
+Danube	sourceRegion	Black Forest
+River Batherm	sourceRegion	Somerset
+Molly Ann Brook	sourceRegion	Bergen County, New Jersey
+Slippery Rock Brook	sourceRegion	Passaic County, New Jersey
+Ochoco Creek	sourceRegion	Wheeler County, Oregon
+Walnut Creek (Lake Erie)	sourceRegion	Erie County, Pennsylvania
+Little Etobicoke Creek	sourceRegion	Ontario
+Kunur River	sourceRegion	Faridpur, Durgapur
+Great Bear River	sourceRegion	Northwest Territories
+Mashel River	sourceRegion	Pierce County, Washington
+North Fork Clackamas River	sourceRegion	Clackamas County, Oregon
+Little Mashel River	sourceRegion	Pierce County, Washington
+Hinglo River	sourceRegion	Santhal Pargana division
+Boeing Creek	sourceRegion	King County, Washington
+River Gadder	sourceRegion	Breckland (district)
+Rouvre	sourceRegion	Orne
+Silver Creek (Marion County, Oregon)	sourceRegion	Marion County, Oregon
+North Yuba River	sourceRegion	Sierra County, California
+Yūbari River	sourceRegion	Hokkaido
+Mu River (Hokkaidō)	sourceRegion	Hokkaido
+Tokachi River	sourceRegion	Hokkaido
+Kushiro River	sourceRegion	Hokkaido
+Shiribetsu River	sourceRegion	Hokkaido
+Tokoro River	sourceRegion	Hokkaido
+Little Yoho River	sourceRegion	Yoho National Park
+Abashiri River	sourceRegion	Hokkaido
+Big Spring (Missouri)	sourceRegion	The Ozarks
+Greer Spring	sourceRegion	The Ozarks
+Lempa River	sourceRegion	Chiquimula Department
+Elochoman River	sourceRegion	Cowlitz County, Washington
+Akan River	sourceRegion	Hokkaido
+Mitsuishi River	sourceRegion	Hokkaido
+Niikappu River	sourceRegion	Hokkaido
+Sandalysh River	sourceRegion	Jalal-Abad Province
+Elk Creek (Rogue River)	sourceRegion	Jackson County, Oregon
+Kanakarayan River	sourceRegion	Vavuniya District
+Parangi Aru	sourceRegion	Vavuniya District
+Pali Aru	sourceRegion	Vavuniya District
+Nay Aru (Mannar)	sourceRegion	Vavuniya District
+Per Aru	sourceRegion	Vavuniya District
+Pallavarayankaddu Aru	sourceRegion	Mullaitivu District
+Akkarayan Aru	sourceRegion	Mullaitivu District
+Mandekal Aru	sourceRegion	Mullaitivu District
+Netheli Aru	sourceRegion	Mullaitivu District
+Theravil Aru	sourceRegion	Mullaitivu District
+Piramenthal Aru	sourceRegion	Mullaitivu District
+Nay Aru (Mullaitivu)	sourceRegion	Mullaitivu District
+Kodalikkallu Aru	sourceRegion	Mullaitivu District
+Fourmile Creek	sourceRegion	Erie County, Pennsylvania
+South Fork Rogue River	sourceRegion	Klamath County, Oregon
+Grave Creek (Oregon)	sourceRegion	Douglas County, Oregon
+Sixaola River	sourceRegion	Limón Province
+Shokotsu River	sourceRegion	Hokkaido
+Yūbetsu River	sourceRegion	Hokkaido
+Rumoi River	sourceRegion	Hokkaido
+Shiribeshi-Toshibetsu River	sourceRegion	Hokkaido
+Koetoi River	sourceRegion	Hokkaido
+Shibetsu River	sourceRegion	Hokkaido
+Choluteca river basin	sourceRegion	Choluteca Department
+American River	sourceRegion	Placer County, California
+American River	sourceRegion	El Dorado County, California
+Lazaretto Creek	sourceRegion	Chatham County, Georgia
+Irondequoit Creek	sourceRegion	Ontario County, New York
+Galena River (Indiana)	sourceRegion	LaPorte County, Indiana
+Ebro	sourceRegion	Cantabria
+Latah Creek	sourceRegion	Benewah County, Idaho
+South Fork Trinity River	sourceRegion	Humboldt County, California
+Little Applegate River	sourceRegion	Jackson County, Oregon
+Dwarka River	sourceRegion	Santhal Pargana division
+Brahmani River (Birbhum)	sourceRegion	Santhal Pargana division
+Afon Alun (Vale of Glamorgan)	sourceRegion	Vale of Glamorgan
+Kurshab River	sourceRegion	Osh Province
+Clearwater River (Idaho)	sourceRegion	Idaho County, Idaho
+Clearwater River (Idaho)	sourceRegion	Idaho County, Idaho
+Tamsa River	sourceRegion	Kaimur Range
+Gorzente	sourceRegion	Liguria
+Gorzente	sourceRegion	Piedmont
+Little Butte Creek (Rogue River)	sourceRegion	Jackson County, Oregon
+Hazel Brook	sourceRegion	West of England
+Schussen	sourceRegion	Baden-Württemberg
+Ostrach (stream)	sourceRegion	Baden-Württemberg
+Tambre River	sourceRegion	A Coruña
+Oca (river)	sourceRegion	Montes de Oca (shire)
+Kings Creek (Jock River)	sourceRegion	Lanark County, Ontario
+Keleghai River	sourceRegion	Jhargram subdivision
+Salmon Falls Creek	sourceRegion	Jarbidge Mountains
+Poesten Kill	sourceRegion	New York
+Jalón (river)	sourceRegion	Sistema Ibérico
+Jiloca (river)	sourceRegion	Province of Teruel
+Jiloca (river)	sourceRegion	Province of Teruel
+Piedra (Spain)	sourceRegion	Castile-La Mancha
+Siston Brook	sourceRegion	South Gloucestershire
+Siston Brook	sourceRegion	South Gloucestershire
+River Boyd	sourceRegion	South Gloucestershire
+River Malago	sourceRegion	Somerset
+River Malago	sourceRegion	Bristol
+Pleasant Run (New Jersey)	sourceRegion	Central Jersey
+Little Sandy River (Oregon)	sourceRegion	Clackamas County, Oregon
+Muddy Fork (Oregon)	sourceRegion	Clackamas County, Oregon
+South Fork Bull Run River	sourceRegion	Clackamas County, Oregon
+Lam Brook	sourceRegion	South Gloucestershire
+Lam Brook	sourceRegion	South Gloucestershire
+Gauze Brook	sourceRegion	Wiltshire
+Tetbury Avon	sourceRegion	Gloucestershire
+Woodbridge Brook	sourceRegion	Wiltshire
+Brinkworth Brook	sourceRegion	Wiltshire
+Cocklemore Brook	sourceRegion	Wiltshire
+Almonte (river)	sourceRegion	Extremadura
+Conotton Creek	sourceRegion	Harrison County, Ohio
+Kamuiwakka River	sourceRegion	Hokkaido
+Still Fork	sourceRegion	Carroll County, Ohio
+Little Salmon River	sourceRegion	Adams County, Idaho
+North Fork Bull Run River	sourceRegion	Multnomah County, Oregon
+Potlatch River	sourceRegion	Latah County, Idaho
+Rapid River (Sudbury District, Ontario)	sourceRegion	Sudbury District
+Rapid River (Alaska-Yukon)	sourceRegion	Yukon
+At-Bashi River	sourceRegion	Naryn Province
+Big Butte Creek	sourceRegion	Jackson County, Oregon
+Kabinakagami River	sourceRegion	Algoma District
+Tar River (Kyrgyzstan)	sourceRegion	Osh Province
+Gatwick Stream	sourceRegion	West Sussex
+Partridge Creek (Ontario)	sourceRegion	Hastings County
+South Fork Clackamas River	sourceRegion	Clackamas County, Oregon
+Clare River (Ontario)	sourceRegion	Lennox and Addington County, Ontario
+Flinton Creek	sourceRegion	Lennox and Addington County, Ontario
+Merrill Creek (Ontario)	sourceRegion	Lennox and Addington County, Ontario
+Hedströmmen	sourceRegion	Dalarna County
+Deep Creek (Victoria)	sourceRegion	Victoria (Australia)
+Little Skootamatta Creek	sourceRegion	Lennox and Addington County, Ontario
+Sulphide Creek (Hastings County, Ontario)	sourceRegion	Lennox and Addington County, Ontario
+Otter Creek (Hastings County, Ontario)	sourceRegion	Lennox and Addington County, Ontario
+Otter Creek (Hastings County, Ontario)	sourceRegion	Frontenac County, Ontario
+Blazed Alder Creek	sourceRegion	Clackamas County, Oregon
+The Cut, Berkshire	sourceRegion	Bracknell Forest
+River Terrig	sourceRegion	Denbighshire
+South Karo River	sourceRegion	Orissa
+Koina River	sourceRegion	Orissa
+Weister Creek	sourceRegion	Wisconsin
+Punpun River	sourceRegion	Chota Nagpur Plateau
+Kamala River	sourceRegion	Mahabharat Range
+Fir Creek (Bull Run River)	sourceRegion	Clackamas County, Oregon
+Matsesta River	sourceRegion	Krasnodar Krai
+Middle Fork Eel River	sourceRegion	Trinity County, California
+North Fork Eel River	sourceRegion	Trinity County, California
+Course of the Willamette River	sourceRegion	Lane County, Oregon
+Saratoga Creek	sourceRegion	Santa Clara County, California
+Anano River	sourceRegion	Hokkaido
+Cregg River	sourceRegion	County Galway
+Patroon Creek	sourceRegion	New York
+Montreal River (Algoma–Sudbury, Ontario)	sourceRegion	Sudbury District
+Tatsuushi River	sourceRegion	Hokkaido
+Santa Anita Creek	sourceRegion	San Gabriel Mountains
+River Calder, West Yorkshire	sourceRegion	Calderdale
+River Calder, West Yorkshire	sourceRegion	West Yorkshire
+Redstone River (Northeastern Ontario)	sourceRegion	Sudbury District
+Night Hawk River	sourceRegion	Timiskaming District
+Forks River	sourceRegion	Timiskaming District
+Whitefish River (Night Hawk Lake)	sourceRegion	Timiskaming District
+Peterson Creek (Clyde River)	sourceRegion	Frontenac County, Ontario
+Peterson Creek (Cataraqui River)	sourceRegion	Frontenac County, Ontario
+Cow Creek (South Umpqua River)	sourceRegion	Umpqua National Forest
+Cow Creek (South Umpqua River)	sourceRegion	Jackson County, Oregon
+Cow Creek (South Umpqua River)	sourceRegion	Umpqua National Forest
+Cow Creek (South Umpqua River)	sourceRegion	Jackson County, Oregon
+Silver Creek (Harney County, Oregon)	sourceRegion	Harney County, Oregon
+Jordan Creek (Owyhee River)	sourceRegion	Owyhee County, Idaho
+Trout Creek (Deschutes River)	sourceRegion	Crook County, Oregon
+Fifteenmile Creek (Columbia River)	sourceRegion	Hood River County, Oregon
+Rock Creek (Owens River)	sourceRegion	Inyo National Forest
+North Fork Coquille River	sourceRegion	Coos County, Oregon
+Willow Creek (Columbia River)	sourceRegion	Morrow County, Oregon
+Jordan River (Victoria)	sourceRegion	Victoria (Australia)
+Bully Creek (Malheur River)	sourceRegion	Malheur County, Oregon
+South Fork Coquille River	sourceRegion	Mount Bolivar
+South Fork Crooked River	sourceRegion	Deschutes County, Oregon
+Cow Creek (Jordan Creek)	sourceRegion	Owyhee County, Idaho
+Clayhill Brook	sourceRegion	Berkshire
+North Fork American River	sourceRegion	El Dorado County, California
+Normans Kill	sourceRegion	Schenectady County, New York
+Kariega River	sourceRegion	Eastern Cape
+Rissec	sourceRegion	Catalonia
+Tartar river	sourceRegion	Kalbajar Rayon
+Levçay	sourceRegion	Kalbajar Rayon
+Ağdabançay	sourceRegion	Kalbajar Rayon
+Turağayçay	sourceRegion	Tartar Rayon
+Kinderhook Creek	sourceRegion	Taconic Mountains
+North Fork Payette River	sourceRegion	Valley County, Idaho
+Taghkanic Creek	sourceRegion	Taconic Mountains
+Ruo Shui	sourceRegion	Gansu
+Shule River	sourceRegion	Qinghai
+Natchaug River	sourceRegion	Tolland County, Connecticut
+Samur River	sourceRegion	Republic of Dagestan
+White River (California)	sourceRegion	Tulare County, California
+Samur-Absheron channel	sourceRegion	Khachmaz Rayon
+Pawnee River	sourceRegion	Gray County, Kansas
+Little Lost River	sourceRegion	Butte County, Idaho
+Sams River	sourceRegion	Olympic National Park
+Snahapish River	sourceRegion	Olympic Peninsula
+Solleks River	sourceRegion	Olympic Peninsula
+Shamkirchay	sourceRegion	Gadabay Rayon
+Neyinzaya River	sourceRegion	Ton Zang Township
+Tumtum River	sourceRegion	Lincoln County, Oregon
+Płonia River	sourceRegion	Myślibórz County
+Carpinteria Creek	sourceRegion	Los Padres National Forest
+Green River (North Fork Toutle River)	sourceRegion	Lewis County, Washington
+Oyabe River	sourceRegion	Toyama Prefecture
+Echoing River	sourceRegion	Northwestern Ontario
+Sturgeon River (Saskatchewan)	sourceRegion	Division No. 16, Saskatchewan
+Cannington Brook	sourceRegion	Somerset
+Hezil Suyu	sourceRegion	Şırnak Province
+Congost River	sourceRegion	Catalonia
+Captina Creek	sourceRegion	Midwestern United States
+Clam River (Wisconsin)	sourceRegion	Burnett County, Wisconsin
+Thompson River (Missouri)	sourceRegion	Iowa
+Union Creek (Rogue River)	sourceRegion	Cascade Range
+Pistol River	sourceRegion	Southern Oregon Coast Range
+East Fork Millicoma River	sourceRegion	Southern Oregon Coast Range
+White Lick Creek	sourceRegion	Indiana
+Saasen (Reiskirchen)  Wieseck   1	sourceRegion	Reiskirchen
+West Fork Millicoma River	sourceRegion	Southern Oregon Coast Range
+South Fork Coos River	sourceRegion	Southern Oregon Coast Range
+Williams River (Oregon)	sourceRegion	Southern Oregon Coast Range
+Loire (river)	sourceRegion	Ardèche
+Cadoxton River	sourceRegion	Vale of Glamorgan
+River Kenfig	sourceRegion	Neath Port Talbot
+River Thaw	sourceRegion	Vale of Glamorgan
+Afon Col-huw	sourceRegion	Vale of Glamorgan
+Winchuck River	sourceRegion	Rogue River – Siskiyou National Forest
+River Muzizi	sourceRegion	Central Region, Uganda
+River Kafu	sourceRegion	Western Region, Uganda
+Arroyo Seco (Salinas River)	sourceRegion	California Coast Ranges
+Oakhanger Stream	sourceRegion	Hampshire
+Yarrowee River	sourceRegion	Victoria (Australia)
+East Arm Little Calumet River	sourceRegion	LaPorte County, Indiana
+Salt Creek (Little Calumet River)	sourceRegion	Porter County, Indiana
+Ak-Suu River	sourceRegion	Chuy Province
+San Antonio Creek (San Bernardino County)	sourceRegion	Los Angeles County, California
+Trade River	sourceRegion	Polk County, Wisconsin
+Larkspur Creek	sourceRegion	Marin County, California
+Clyne River	sourceRegion	Swansea
+New Fork River	sourceRegion	Bridger National Forest

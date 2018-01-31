@@ -1,0 +1,497 @@
+Algeria	officialLanguage	Arabic language
+Andorra	officialLanguage	Catalan language
+Angola	officialLanguage	Portuguese language
+Aruba	officialLanguage	Dutch language
+Aruba	officialLanguage	Papiamento
+Afghanistan	officialLanguage	Dari (Persian)
+Afghanistan	officialLanguage	Pashto language
+Azerbaijan	officialLanguage	Azerbaijani language
+Albania	officialLanguage	Albanian language
+Antigua and Barbuda	officialLanguage	English language
+Anguilla	officialLanguage	English language
+Belgium	officialLanguage	Dutch language
+Belgium	officialLanguage	French language
+Belgium	officialLanguage	German language
+Brazil	officialLanguage	Portuguese language
+The Bahamas	officialLanguage	English language
+Bulgaria	officialLanguage	Bulgarian language
+Barbados	officialLanguage	English language
+Belarus	officialLanguage	Belarusian language
+Belarus	officialLanguage	Russian language
+Bangladesh	officialLanguage	Bengali language
+Benin	officialLanguage	French language
+Belize	officialLanguage	English language
+Bolivia	officialLanguage	Spanish language
+Bolivia	officialLanguage	Quechua languages
+Bolivia	officialLanguage	Aymara language
+Botswana	officialLanguage	English language
+Botswana	officialLanguage	Tswana language
+Bosnia and Herzegovina	officialLanguage	Bosnian language
+Bosnia and Herzegovina	officialLanguage	Croatian language
+Bosnia and Herzegovina	officialLanguage	Serbian language
+Brunei	officialLanguage	Malay language
+British Virgin Islands	officialLanguage	English language
+Colombia	officialLanguage	Spanish people
+Czech Republic	officialLanguage	Czech language
+Cameroon	officialLanguage	French language
+Cameroon	officialLanguage	English language
+Central African Republic	officialLanguage	French language
+Central African Republic	officialLanguage	Sango language
+Chad	officialLanguage	French language
+Chad	officialLanguage	Arabic language
+Christmas Island	officialLanguage	De facto
+Chile	officialLanguage	Spanish language
+Cocos (Keeling) Islands	officialLanguage	De facto
+Costa Rica	officialLanguage	Spanish language
+Croatia	officialLanguage	Croatian language
+Cyprus	officialLanguage	Greek language
+Cyprus	officialLanguage	Turkish language
+Cook Islands	officialLanguage	English language
+Cook Islands	officialLanguage	Cook Islands Māori
+Dominican Republic	officialLanguage	Spanish people
+England	officialLanguage	English language
+Ecuador	officialLanguage	Spanish language
+El Salvador	officialLanguage	Spanish language
+Equatorial Guinea	officialLanguage	Spanish language
+Equatorial Guinea	officialLanguage	French language
+Finland	officialLanguage	Finnish language
+Finland	officialLanguage	Swedish language
+Fiji	officialLanguage	English language
+Fiji	officialLanguage	Fijian language
+Fiji	officialLanguage	Fiji Hindi
+French Southern and Antarctic Lands	officialLanguage	French language
+Federated States of Micronesia	officialLanguage	English language
+Germany	officialLanguage	Germans
+Guam	officialLanguage	English language
+Guam	officialLanguage	Chamorro language
+Gabon	officialLanguage	French language
+Ghana	officialLanguage	English language
+Greece	officialLanguage	Modern Greek
+Greenland	officialLanguage	Greenlandic language
+Guinea-Bissau	officialLanguage	Portuguese language
+Hungary	officialLanguage	Hungarian language
+Honduras	officialLanguage	Spanish language
+Haiti	officialLanguage	French language
+Haiti	officialLanguage	Haitian Creole language
+Hong Kong	officialLanguage	English language
+Iceland	officialLanguage	Icelandic language
+Italy	officialLanguage	Italian language
+Republic of Ireland	officialLanguage	Irish language
+Republic of Ireland	officialLanguage	English language
+Indonesia	officialLanguage	Indonesian language
+Iran	officialLanguage	Persian language
+Isle of Man	officialLanguage	English language
+Isle of Man	officialLanguage	Manx language
+Jamaica	officialLanguage	Jamaican English
+Kazakhstan	officialLanguage	Kazakh language
+Kazakhstan	officialLanguage	Russian language
+Kiribati	officialLanguage	Gilbertese language
+Korea	officialLanguage	Korean language
+Kerguelen Islands	officialLanguage	French language
+Luxembourg	officialLanguage	Luxembourgish language
+Luxembourg	officialLanguage	French language
+Luxembourg	officialLanguage	German language
+Latvia	officialLanguage	Latvian language
+Lithuania	officialLanguage	Lithuanian language
+Libya	officialLanguage	Arabic language
+Laos	officialLanguage	Lao language
+Lebanon	officialLanguage	Arabic language
+Lebanon	officialLanguage	French language
+Lesotho	officialLanguage	Sotho language
+Lesotho	officialLanguage	English language
+Liberia	officialLanguage	English language
+Politics of Libya	officialLanguage	Arabic language
+Liechtenstein	officialLanguage	German language
+Madagascar	officialLanguage	Malagasy language
+Madagascar	officialLanguage	French language
+Macau	officialLanguage	Varieties of Chinese
+Macau	officialLanguage	Portuguese language
+Malawi	officialLanguage	English language
+Malawi	officialLanguage	Chewa language
+Maldives	officialLanguage	Maldivian language
+Malta	officialLanguage	Maltese language
+Malta	officialLanguage	English language
+Mauritius	officialLanguage	English language
+Mayotte	officialLanguage	French language
+Monaco	officialLanguage	French language
+Moldova	officialLanguage	Moldovan language
+Montserrat	officialLanguage	English language
+Mongolia	officialLanguage	Mongolian language
+Morocco	officialLanguage	Arabic language
+Morocco	officialLanguage	Berber languages
+Mozambique	officialLanguage	Portuguese language
+Burma	officialLanguage	Burmese language
+Montenegro	officialLanguage	Montenegrin language
+Netherlands	officialLanguage	Dutch language
+Niue	officialLanguage	Niuean language
+Niue	officialLanguage	English language
+North Korea	officialLanguage	Korean language
+Norway	officialLanguage	Norwegian language
+Norway	officialLanguage	Nynorsk
+Northern Ireland	officialLanguage	English language
+Northern Ireland	officialLanguage	Irish language
+Northern Ireland	officialLanguage	Ulster Scots dialects
+Nauru	officialLanguage	English language
+Nauru	officialLanguage	Nauruan language
+New Caledonia	officialLanguage	Caldoche
+Nicaragua	officialLanguage	Spanish language
+Nigeria	officialLanguage	English language
+Northern Mariana Islands	officialLanguage	English language
+Northern Mariana Islands	officialLanguage	Chamorro language
+Northern Mariana Islands	officialLanguage	Carolinian language
+Norfolk Island	officialLanguage	English language
+Norfolk Island	officialLanguage	Norfuk language
+Nevis	officialLanguage	British language
+Oman	officialLanguage	Arabic language
+Papua New Guinea	officialLanguage	English language
+Papua New Guinea	officialLanguage	Tok Pisin
+Papua New Guinea	officialLanguage	Hiri Motu language
+Panama	officialLanguage	Spanish language
+Puerto Rico	officialLanguage	Spanish language
+Puerto Rico	officialLanguage	English language
+Portugal	officialLanguage	Portuguese language
+Pakistan	officialLanguage	Urdu
+Palau	officialLanguage	English language
+Palau	officialLanguage	Palauan language
+Paraguay	officialLanguage	Spanish language
+Philippines	officialLanguage	Filipino language
+Philippines	officialLanguage	English language
+Pitcairn Islands	officialLanguage	English language
+Palestinian National Authority	officialLanguage	Arabic language
+Russia	officialLanguage	Russian language
+Russia	officialLanguage	Languages of Russia
+Romania	officialLanguage	Romanian language
+Rwanda	officialLanguage	Kinyarwanda
+Rwanda	officialLanguage	French language
+Rwanda	officialLanguage	English language
+Republic of China	officialLanguage	Standard Chinese
+Spain	officialLanguage	Spanish language
+Sri Lanka	officialLanguage	Sinhala language
+Sri Lanka	officialLanguage	Tamil language
+Switzerland	officialLanguage	German language
+Switzerland	officialLanguage	French language
+Switzerland	officialLanguage	Italian language
+Switzerland	officialLanguage	Romansh language
+Suriname	officialLanguage	Dutch language
+Slovakia	officialLanguage	Slovak language
+Saint Helena	officialLanguage	English language
+Scotland	officialLanguage	Scottish English
+South Korea	officialLanguage	Korean language
+Saint Lucia	officialLanguage	English language
+Saint Pierre and Miquelon	officialLanguage	French language
+Saint Vincent and the Grenadines	officialLanguage	English language
+Samoa	officialLanguage	Samoan language
+Samoa	officialLanguage	English language
+San Marino	officialLanguage	Italian language
+Seychelles	officialLanguage	French language
+Seychelles	officialLanguage	English language
+Seychelles	officialLanguage	Seychellois Creole
+Sierra Leone	officialLanguage	English language
+Singapore	officialLanguage	Malay language
+Singapore	officialLanguage	Standard Chinese
+Singapore	officialLanguage	Tamil language
+Slovenia	officialLanguage	Slovene language
+Somalia	officialLanguage	Somali language
+Somalia	officialLanguage	Arabic language
+Sudan	officialLanguage	Arabic language
+Sudan	officialLanguage	English language
+Svalbard	officialLanguage	Norwegian language
+Swaziland	officialLanguage	English language
+Swaziland	officialLanguage	Swazi language
+Savoy	officialLanguage	French language
+Serbia	officialLanguage	Serbian language
+Tajikistan	officialLanguage	Tajik language
+Tanzania	officialLanguage	Swahili language
+Tanzania	officialLanguage	English language
+Thailand	officialLanguage	Thai language
+Togo	officialLanguage	French language
+Tokelau	officialLanguage	Tokelauan language
+Tokelau	officialLanguage	English language
+Tonga	officialLanguage	Tongan language
+Tonga	officialLanguage	English language
+Tunisia	officialLanguage	Arabic language
+Turks and Caicos Islands	officialLanguage	English language
+Tuvalu	officialLanguage	Tuvaluan language
+Tuvalu	officialLanguage	English language
+Tristan da Cunha	officialLanguage	English language
+United Kingdom	officialLanguage	English language
+Ukraine	officialLanguage	Ukrainian language
+Uganda	officialLanguage	English language
+Uganda	officialLanguage	Swahili language
+Uruguay	officialLanguage	Spanish language
+Uzbekistan	officialLanguage	Uzbek language
+United States Minor Outlying Islands	officialLanguage	English language
+Venezuela	officialLanguage	Spanish language
+Vatican City	officialLanguage	List of English exonyms for Italian toponyms
+Vanuatu	officialLanguage	Bislama
+Vanuatu	officialLanguage	English language
+Vanuatu	officialLanguage	French language
+Western Sahara	officialLanguage	Arabic language
+Zimbabwe	officialLanguage	South African English
+Zimbabwe	officialLanguage	Shona language
+Zimbabwe	officialLanguage	Northern Ndebele language
+Zambia	officialLanguage	English language
+Adjara	officialLanguage	Georgian language
+Dalmatia	officialLanguage	Croatian language
+Crimea	officialLanguage	Ukrainian language
+Georgia (country)	officialLanguage	Georgian language
+Somaliland	officialLanguage	Somali language
+Somaliland	officialLanguage	Arabic language
+Somaliland	officialLanguage	English language
+French Equatorial Africa	officialLanguage	French language
+Easter Island	officialLanguage	Spanish language
+Easter Island	officialLanguage	Rapa Nui language
+Sahrawi Arab Democratic Republic	officialLanguage	Arabic language
+Sahrawi Arab Democratic Republic	officialLanguage	Spanish language
+Curaçao	officialLanguage	Papiamento
+Curaçao	officialLanguage	Dutch language
+The Gambia	officialLanguage	English language
+Herm	officialLanguage	English language
+Herm	officialLanguage	French language
+United Arab Emirates	officialLanguage	Arabic language
+Democratic Republic of the Congo	officialLanguage	French language
+Sovereign Military Order of Malta	officialLanguage	Italian language
+Denmark	officialLanguage	Danish language
+Sark	officialLanguage	English language
+Sark	officialLanguage	French language
+Frisia	officialLanguage	Frisian languages
+Frisia	officialLanguage	North Frisian language
+Frisia	officialLanguage	Saterland Frisian language
+Frisia	officialLanguage	Low German
+Frisia	officialLanguage	Gronings
+Frisia	officialLanguage	Dutch language
+Frisia	officialLanguage	German language
+Frisia	officialLanguage	Danish language
+Palestinian territories	officialLanguage	Arabic language
+Palestinian territories	officialLanguage	Hebrew language
+Palestinian territories	officialLanguage	English language
+Carriacou and Petite Martinique	officialLanguage	English language
+Carriacou and Petite Martinique	officialLanguage	Patois
+Bonaire	officialLanguage	Dutch language
+Bonaire	officialLanguage	Papiamento
+Tobago	officialLanguage	English language
+Tobago	officialLanguage	Tobagonian Creole
+Kyrgyzstan	officialLanguage	Kyrgyz language
+Kyrgyzstan	officialLanguage	Russian language
+Peru	officialLanguage	Spanish language
+Nepal	officialLanguage	Nepali language
+Alderney	officialLanguage	English language
+Alderney	officialLanguage	French language
+Vojvodina	officialLanguage	Serbian language
+Vojvodina	officialLanguage	Hungarian people
+Vojvodina	officialLanguage	Slovak language
+Vojvodina	officialLanguage	Official status of Romanian language in Vojvodina
+Vojvodina	officialLanguage	Croatian language
+Vojvodina	officialLanguage	Pannonian Rusyn language
+Anjouan	officialLanguage	Comorian language
+Anjouan	officialLanguage	Arabic language
+Anjouan	officialLanguage	French language
+Ethiopia	officialLanguage	Amharic language
+Kenya	officialLanguage	Swahili language
+Turkmenistan	officialLanguage	Turkmen language
+Vietnam	officialLanguage	Vietnamese language
+Jubaland	officialLanguage	Somali language
+Jubaland	officialLanguage	Arabic language
+Puntland	officialLanguage	Somali language
+Puntland	officialLanguage	Arabic language
+State of Palestine	officialLanguage	Arabic language
+Northern Cyprus	officialLanguage	Turkish language
+Saba	officialLanguage	Dutch language
+Saba	officialLanguage	English language
+Sint Eustatius	officialLanguage	Dutch language
+Sint Eustatius	officialLanguage	English language
+Buganda	officialLanguage	English language
+Buganda	officialLanguage	Luganda
+South Ossetia	officialLanguage	Ossetic language
+South Ossetia	officialLanguage	Georgian language
+South Ossetia	officialLanguage	Russian language
+Rotuma	officialLanguage	Rotuman language
+Rotuma	officialLanguage	English language
+Cambodia	officialLanguage	Khmer language
+Adélie Land	officialLanguage	French language
+Republika Srpska	officialLanguage	Serbian language
+Republika Srpska	officialLanguage	Bosnian language
+Republika Srpska	officialLanguage	Croatian language
+Saudi Arabia	officialLanguage	Arabic language
+Yemen	officialLanguage	Arabic language
+Karakalpakstan	officialLanguage	Karakalpak language
+Karakalpakstan	officialLanguage	Uzbek language
+Rodrigues	officialLanguage	English language
+Rodrigues	officialLanguage	French language
+Rodrigues	officialLanguage	Rodriguan Creole
+Transnistria	officialLanguage	Russian language
+Transnistria	officialLanguage	Moldovan language
+Transnistria	officialLanguage	Moldovan Cyrillic alphabet
+Transnistria	officialLanguage	Ukrainian language
+Federation of Bosnia and Herzegovina	officialLanguage	Bosnian language
+Federation of Bosnia and Herzegovina	officialLanguage	Croatian language
+Federation of Bosnia and Herzegovina	officialLanguage	Serbian language
+Nakhchivan	officialLanguage	Azerbaijani language
+Gagauzia	officialLanguage	Gagauz language
+Gagauzia	officialLanguage	Moldovan language
+Gagauzia	officialLanguage	Russian language
+Southwestern Somalia	officialLanguage	Somali language
+Southwestern Somalia	officialLanguage	Arabic language
+Italian Somaliland	officialLanguage	Italian language
+Italian Somaliland	officialLanguage	Somali language
+Darfur	officialLanguage	Arabic language
+Darfur	officialLanguage	English language
+Kingdom of Galicia and Lodomeria	officialLanguage	German language
+Iraqi Kurdistan	officialLanguage	Kurdish language
+Iraqi Kurdistan	officialLanguage	Arabic languages
+Basque Country (greater region)	officialLanguage	Basque language
+Basque Country (greater region)	officialLanguage	Spanish language
+Basque Country (greater region)	officialLanguage	French language
+Yemen Arab Republic	officialLanguage	Arabic language
+Mohéli	officialLanguage	Comorian language
+Mohéli	officialLanguage	Arabic language
+Mohéli	officialLanguage	French language
+Grande Comore	officialLanguage	Comorian language
+Grande Comore	officialLanguage	Arabic language
+Grande Comore	officialLanguage	French language
+Bunyoro	officialLanguage	Nyoro language
+Nagorno-Karabakh Republic	officialLanguage	Armenian language
+Akrotiri and Dhekelia	officialLanguage	English language
+Akrotiri and Dhekelia	officialLanguage	Greek language
+Government of Free Vietnam	officialLanguage	Vietnamese language
+Government of Free Vietnam	officialLanguage	English language
+North Sentinel Island	officialLanguage	Sentinelese language
+Kingdom of Denmark	officialLanguage	Danish language
+Kingdom of Denmark	officialLanguage	Faroese language
+Kingdom of Denmark	officialLanguage	Greenlandic
+Twente	officialLanguage	Tweants
+Twente	officialLanguage	Dutch language
+Bhutan	officialLanguage	Dzongkha
+Kingdom of Serbia	officialLanguage	Serbian language
+Principality of Serbia	officialLanguage	Serbian language
+Trinidad and Tobago	officialLanguage	English language
+Malaysia	officialLanguage	Malaysian language
+Malaysia	officialLanguage	English language
+Mexico	officialLanguage	Spanish language
+New Zealand	officialLanguage	Māori language
+New Zealand	officialLanguage	New Zealand Sign Language
+Cuba	officialLanguage	Spanish language
+Canada	officialLanguage	Canadian English
+Canada	officialLanguage	Canadian French
+Sweden	officialLanguage	Swedish language
+Islamic Courts Union	officialLanguage	Somali language
+Islamic Courts Union	officialLanguage	Arabic language
+France	officialLanguage	French language
+Government of the Autonomous Republic of Abkhazia	officialLanguage	Abkhaz language
+Government of the Autonomous Republic of Abkhazia	officialLanguage	Georgian language
+Free City of Lübeck	officialLanguage	German language
+Syria	officialLanguage	Arabic language
+Kuwait	officialLanguage	Arabic language
+Iraq	officialLanguage	Arabic language
+Iraq	officialLanguage	Kurdish language
+Jordan	officialLanguage	Arabic language
+Gibraltar	officialLanguage	English language
+Chesterfield Islands	officialLanguage	French language
+Egypt	officialLanguage	Arabic language
+Qatar	officialLanguage	Arabic language
+Galmudug	officialLanguage	Somali language
+Galmudug	officialLanguage	English language
+Nineveh plains	officialLanguage	Syriac language
+Nineveh plains	officialLanguage	Arabic language
+Nineveh plains	officialLanguage	Kurdish language
+Israel	officialLanguage	Hebrew language
+Israel	officialLanguage	Arabic language
+Collectivity of Saint Martin	officialLanguage	French language
+Sint Maarten	officialLanguage	Dutch language
+Sint Maarten	officialLanguage	English language
+Armenia	officialLanguage	Armenian language
+Turkey	officialLanguage	Turkish language
+Rigsfællesskabet	officialLanguage	Danish language
+Rigsfællesskabet	officialLanguage	Faroese language
+Rigsfællesskabet	officialLanguage	Greenlandic language
+Dominica	officialLanguage	English language
+Maakhir	officialLanguage	Somali language
+Maakhir	officialLanguage	Arabic language
+Portal:Bangladesh/FactSheet	officialLanguage	Bengali language
+Northland State	officialLanguage	Somali language
+Northland State	officialLanguage	Arabic language
+Abyei	officialLanguage	Arabic language
+Abyei	officialLanguage	English language
+Darfur Regional Authority	officialLanguage	Arabic language
+Darfur Regional Authority	officialLanguage	English language
+Republic of Lakotah	officialLanguage	Lakota language
+Autonomous Province of Kosovo and Metohija	officialLanguage	Serbian language
+Autonomous Province of Kosovo and Metohija	officialLanguage	Albanian language
+Italian Cyrenaica	officialLanguage	Italian language
+Italian Cyrenaica	officialLanguage	Arabic language
+Provisional Administrative Entity of South Ossetia	officialLanguage	Ossetic language
+Provisional Administrative Entity of South Ossetia	officialLanguage	Georgian language
+Cricket Samoa	officialLanguage	Samoan language
+Djibouti	officialLanguage	French language
+Djibouti	officialLanguage	Arabic language
+Guatemala	officialLanguage	Spanish language
+Eritrea	officialLanguage	Tigrinya language
+Eritrea	officialLanguage	Arabic language
+Faroe Islands	officialLanguage	Faroese language
+Faroe Islands	officialLanguage	Danish language
+Grenada	officialLanguage	English language
+Guyana	officialLanguage	English language
+Italian Trans-Juba	officialLanguage	Italian language
+Italian Trans-Juba	officialLanguage	Somali language
+Mauritania	officialLanguage	Arabic language
+Bahrain	officialLanguage	Arabic language
+Abkhazia	officialLanguage	Abkhaz language
+Abkhazia	officialLanguage	Russian language
+Abkhazia  Government of the Autonomous Republic of Abkhaziaa  1	officialLanguage	Abkhaz language
+Abkhazia  Government of the Autonomous Republic of Abkhaziaa  1	officialLanguage	Georgian language
+Kingdom of the Netherlands	officialLanguage	Dutch language
+Kingdom of the Netherlands	officialLanguage	West Frisian language
+Kingdom of the Netherlands	officialLanguage	Papiamento
+Kingdom of the Netherlands	officialLanguage	English language
+British Indian Ocean Territory	officialLanguage	English language
+Argentina	officialLanguage	Spanish language
+Ascension Island	officialLanguage	English language
+Cape Verde	officialLanguage	Portuguese language
+East Timor	officialLanguage	Tetum language
+East Timor	officialLanguage	Portuguese language
+East Timor	officialLanguage	Indonesian language
+East Timor	officialLanguage	English language
+Republic of the Congo	officialLanguage	French language
+Cabeça do Cachorro	officialLanguage	Portuguese language
+Cabeça do Cachorro	officialLanguage	Nheengatu language
+São Tomé and Príncipe	officialLanguage	Portuguese language
+American Samoa	officialLanguage	English language
+American Samoa	officialLanguage	Samoan language
+Burundi	officialLanguage	Kirundi
+Burundi	officialLanguage	French language
+Pontianak Sultanate	officialLanguage	Indonesian
+Republic of Macedonia	officialLanguage	Macedonian language
+Seneca Nation of New York	officialLanguage	Seneca language
+Seneca Nation of New York	officialLanguage	English language
+Åland Islands	officialLanguage	Swedish language
+Saint Helena, Ascension and Tristan da Cunha	officialLanguage	English language
+Zhedna	officialLanguage	Bulgarian language
+Zamboanga City	officialLanguage	Chavacano language
+Austria	officialLanguage	Austrian German
+Caribbean Netherlands	officialLanguage	Dutch language
+Caribbean Netherlands	officialLanguage	English language
+Caribbean Netherlands	officialLanguage	Papiamento
+Estonia	officialLanguage	Estonian language
+Svalbard in fiction	officialLanguage	Norwegian language
+Awdalland	officialLanguage	Somali language
+Awdalland	officialLanguage	Arabic language
+Kingdom of Tahiti	officialLanguage	Tahitian language
+Saint Barthélemy	officialLanguage	French language
+National Transitional Council	officialLanguage	Libyan Arabic
+National Transitional Council	officialLanguage	Berber languages
+National Transitional Council	officialLanguage	Nafusi language
+Uganda (Commonwealth Realm)	officialLanguage	English language
+Uganda (Commonwealth Realm)	officialLanguage	Swahili language
+Malawi (commonwealth realm)	officialLanguage	English language
+Malawi (commonwealth realm)	officialLanguage	Chewa language
+Trinidad and Tobago (commonwealth realm)	officialLanguage	English language
+Portal:Somaliland	officialLanguage	Somali language
+Portal:Somaliland	officialLanguage	Arabic language
+Portal:Somaliland	officialLanguage	English language
+Lagos Colony	officialLanguage	English language
+Emirates eGovernment	officialLanguage	Arabic language
+Mauritius (commonwealth realm)	officialLanguage	Mauritian Creole
+Mauritius (commonwealth realm)	officialLanguage	French language
+Mauritius (commonwealth realm)	officialLanguage	English language
+Mauritius (commonwealth realm)	officialLanguage	Rodriguan Creole
+South Sudan	officialLanguage	English language

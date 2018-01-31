@@ -1,0 +1,226 @@
+Ariane 5	maidenFlight	1996-06-04
+Ariane 5	maidenFlight	2004-03-02
+Ariane 5	maidenFlight	2005-08-11
+Ariane 5	maidenFlight	2002-12-11
+Ariane 5	maidenFlight	2008-03-09
+Space Shuttle	maidenFlight	1981-04-12
+Energia	maidenFlight	1987-05-15
+Jupiter-C	maidenFlight	1956-09-20
+Juno I	maidenFlight	1958-02-01
+Ariane 4	maidenFlight	1990-01-22
+Ariane 4	maidenFlight	1990-11-20
+Ariane 4	maidenFlight	1993-05-12
+Ariane 4	maidenFlight	1991-04-04
+Ariane 4	maidenFlight	1988-06-15
+Ariane 4	maidenFlight	1989-06-05
+Europa (rocket)	maidenFlight	1964-06-04
+Europa (rocket)	maidenFlight	1967-08-04
+Europa (rocket)	maidenFlight	1968-11-29
+Europa (rocket)	maidenFlight	1971-11-05
+Diamant	maidenFlight	1965-11-26
+Diamant	maidenFlight	1970-03-10
+Diamant	maidenFlight	1975-02-06
+Polar Satellite Launch Vehicle	maidenFlight	1993-09-20
+Polar Satellite Launch Vehicle	maidenFlight	2007-04-23
+Polar Satellite Launch Vehicle	maidenFlight	2008-10-22
+Ariane 3	maidenFlight	1984-08-04
+Ariane 2	maidenFlight	1986-05-31
+Proton (rocket)	maidenFlight	1965-07-16
+Proton (rocket)	maidenFlight	1967-03-10
+Proton (rocket)	maidenFlight	2001-04-07
+Soyuz (rocket family)	maidenFlight	1966-11-28
+HGM-25A Titan I	maidenFlight	1959-02-06
+Ariane 1	maidenFlight	1979-12-24
+Long March 2F	maidenFlight	1999-11-19
+Vostok (rocket family)	maidenFlight	1960-05-15
+Voskhod (rocket)	maidenFlight	1963-11-16
+Delta II	maidenFlight	1989-02-14
+Delta II	maidenFlight	1990-11-26
+Delta II	maidenFlight	2003-07-08
+Black Knight (rocket)	maidenFlight	1958-09-07
+Black Arrow	maidenFlight	1969-06-27
+Saturn IB	maidenFlight	1966-02-26
+Delta IV	maidenFlight	2003-03-11
+Delta IV	maidenFlight	2002-11-20
+Delta IV	maidenFlight	2009-12-06
+Delta IV	maidenFlight	2004-12-21
+Saturn I	maidenFlight	1961-10-27
+UGM-96 Trident I	maidenFlight	1977-01-18
+UGM-133 Trident II	maidenFlight	1987-01-15
+Zenit (rocket family)	maidenFlight	1985-04-13
+Zenit (rocket family)	maidenFlight	1999-03-28
+Zenit (rocket family)	maidenFlight	2007-06-29
+Zenit (rocket family)	maidenFlight	2008-04-28
+N1 (rocket)	maidenFlight	1969-02-21
+Tsyklon	maidenFlight	1967-10-27
+Shavit	maidenFlight	1988-09-19
+Pegasus (rocket)	maidenFlight	1990-04-05
+Falcon 1	maidenFlight	2006-03-24
+LGM-25C Titan II	maidenFlight	1962-03-12
+Titan IV	maidenFlight	1989-06-14
+Titan IV	maidenFlight	1997-02-23
+Titan IIIB	maidenFlight	1966-07-29
+Titan IIIC	maidenFlight	1965-06-18
+Atlas II	maidenFlight	1991-12-07
+Atlas II	maidenFlight	1992-06-10
+Atlas II	maidenFlight	1993-12-16
+M-V	maidenFlight	2000-02-10
+M-V	maidenFlight	1997-02-12
+Vanguard (rocket)	maidenFlight	1957-10-23
+Kosmos-3M	maidenFlight	1967-05-15
+H-IIA	maidenFlight	2001-08-29
+H-IIA	maidenFlight	2006-12-18
+H-IIA	maidenFlight	2005-02-26
+H-IIA	maidenFlight	2002-02-04
+Delta III	maidenFlight	1998-08-27
+Geosynchronous Satellite Launch Vehicle	maidenFlight	2001-04-18
+Geosynchronous Satellite Launch Vehicle	maidenFlight	2010-04-15
+Thor-Able	maidenFlight	1958-04-24
+Soviet manned lunar programs	maidenFlight	1969-02-21
+Atlas-Centaur	maidenFlight	1962-05-09
+Dnepr-1	maidenFlight	1999-04-21
+Sparta (rocket)	maidenFlight	1966-11-28
+Atlas V	maidenFlight	2002-08-21
+Atlas V	maidenFlight	2006-04-20
+Atlas V	maidenFlight	2007-10-10
+Atlas V	maidenFlight	2005-03-11
+Atlas V	maidenFlight	2010-04-22
+Atlas V	maidenFlight	2003-07-17
+Atlas V	maidenFlight	2010-08-14
+Atlas V	maidenFlight	2006-01-19
+Long March 3	maidenFlight	1984-01-29
+Long March 3A	maidenFlight	1994-02-08
+Naro-1	maidenFlight	2009-08-25
+Soyuz-U	maidenFlight	1973-05-18
+Rokot	maidenFlight	1994-12-26
+H-IIB	maidenFlight	2009-09-10
+Falcon 9	maidenFlight	2010-06-04
+Mesquito	maidenFlight	2008-05-06
+Long March 2C	maidenFlight	1975-11-26
+Satellite Launch Vehicle	maidenFlight	1979-08-10
+Bumper (rocket)	maidenFlight	1948-05-13
+Zenit-3SL	maidenFlight	1999-03-28
+Augmented Satellite Launch Vehicle	maidenFlight	1987-03-24
+Zenit-2M	maidenFlight	2007-06-29
+Atlas III	maidenFlight	2000-05-24
+Atlas III	maidenFlight	2002-02-21
+Atlas-Agena	maidenFlight	1960-02-26
+Start-1	maidenFlight	1993-03-25
+SpaceLoft XL	maidenFlight	2006-09-25
+VLS-1	maidenFlight	1997-11-02
+Minotaur I	maidenFlight	2000-01-27
+H-II	maidenFlight	1994-02-03
+Soyuz-2 (rocket)	maidenFlight	2004-11-08
+Soyuz-2 (rocket)	maidenFlight	2006-12-27
+Soyuz-FG	maidenFlight	2001-05-20
+Soyuz-FG	maidenFlight	2003-06-02
+Delta G	maidenFlight	1966-12-14
+Polyot (rocket)	maidenFlight	1963-11-01
+Zenit-2	maidenFlight	1985-04-13
+Long March 4B	maidenFlight	1999-05-10
+Rehbar-I	maidenFlight	1961-06-07
+Rehbar-I	maidenFlight	1962-06-11
+Rehbar-I	maidenFlight	1964-03-18
+Proton-M	maidenFlight	2001-04-07
+Long March 2D	maidenFlight	1992-08-09
+Molniya-M	maidenFlight	1964-02-19
+Thorad-Agena	maidenFlight	1966-08-09
+Thorad-Agena	maidenFlight	1969-06-05
+Atlas I	maidenFlight	1990-07-25
+Thor-Burner	maidenFlight	1965-05-20
+Tsyklon-2	maidenFlight	1969-08-06
+Tsyklon-3	maidenFlight	1977-06-24
+Safir (rocket)	maidenFlight	2007-02-25
+Safir (rocket)	maidenFlight	2008-02-04
+Safir (rocket)	maidenFlight	2008-08-17
+Juno II	maidenFlight	1958-12-06
+Sputnik (rocket)	maidenFlight	1957-10-04
+Sputnik (rocket)	maidenFlight	1958-04-27
+Kosmos-2I	maidenFlight	1961-10-27
+Kosmos-2I	maidenFlight	1966-05-24
+Long March 3B	maidenFlight	1996-02-14
+Long March 3B	maidenFlight	2007-05-13
+Long March 3C	maidenFlight	2008-04-25
+Long March 4A	maidenFlight	1988-09-06
+Long March 4C	maidenFlight	2007-11-11
+Strela (rocket)	maidenFlight	2003-12-05
+Long March 2A	maidenFlight	1974-11-05
+Long March 2E	maidenFlight	1990-07-16
+VS-30	maidenFlight	1997-04-28
+Titan 34D	maidenFlight	1982-10-30
+SM-65A Atlas	maidenFlight	1957-06-11
+SM-65B Atlas	maidenFlight	1958-07-19
+SM-65C Atlas	maidenFlight	1958-12-24
+Scout X-2	maidenFlight	1962-03-29
+Delta E	maidenFlight	1965-11-06
+Thor-Ablestar	maidenFlight	1960-04-13
+Minotaur IV	maidenFlight	2010-04-22
+H-I	maidenFlight	1986-08-12
+N-I (rocket)	maidenFlight	1975-09-09
+N-II (rocket)	maidenFlight	1981-02-11
+Kosmos-1	maidenFlight	1964-08-18
+Kosmos-3	maidenFlight	1966-11-16
+Saturn V	maidenFlight	1967-11-09
+Soyuz-U2	maidenFlight	1982-12-23
+SM-65D Atlas	maidenFlight	1959-04-14
+SM-65E Atlas	maidenFlight	1960-10-11
+SM-65F Atlas	maidenFlight	1961-08-08
+Atlas E/F	maidenFlight	1965-08-05
+NOTS-EV-1 Pilot	maidenFlight	1958-07-04
+NOTS-EV-1 Pilot	maidenFlight	1958-07-25
+Feng Bao 1	maidenFlight	1972-08-10
+Titan IIIA	maidenFlight	1964-09-01
+Titan IIID	maidenFlight	1971-06-15
+Titan IIIE	maidenFlight	1971-06-15
+Atlas G	maidenFlight	1984-06-09
+Atlas H	maidenFlight	1983-02-09
+Atlas SLV-3	maidenFlight	1966-06-01
+Atlas-Able	maidenFlight	1959-11-26
+Commercial Titan III	maidenFlight	1990-01-01
+Thor DSV-2U	maidenFlight	1976-09-11
+Thor-Delta	maidenFlight	1960-05-13
+Delta A	maidenFlight	1962-10-02
+Delta B	maidenFlight	1962-12-13
+Delta C	maidenFlight	1963-11-27
+Delta D	maidenFlight	1964-08-19
+Delta L	maidenFlight	1969-08-27
+Delta M	maidenFlight	1968-09-18
+Delta N	maidenFlight	1968-09-18
+Delta 0100	maidenFlight	1972-07-23
+Delta 1000	maidenFlight	1972-09-23
+Delta 2000	maidenFlight	1974-01-19
+Delta 3000	maidenFlight	1975-12-13
+Delta 4000	maidenFlight	1989-08-28
+Proton-K	maidenFlight	1967-03-10
+R-7A Semyorka	maidenFlight	1959-12-23
+Unha	maidenFlight	2009-04-05
+Paektusan (rocket)	maidenFlight	1998-08-31
+Zenit-3SLB	maidenFlight	2008-04-28
+Vostok-L	maidenFlight	1960-05-15
+Vostok-K	maidenFlight	1960-12-22
+Vostok-2 (rocket)	maidenFlight	1962-06-01
+Vostok-2M	maidenFlight	1964-08-28
+Soyuz/Vostok	maidenFlight	1965-12-27
+Soyuz (rocket)	maidenFlight	1966-11-28
+Soyuz-L	maidenFlight	1970-11-24
+Soyuz-M	maidenFlight	1971-12-27
+Mercury-Redstone Launch Vehicle	maidenFlight	1960-11-21
+Titan 23G	maidenFlight	1988-09-05
+Titan II GLV	maidenFlight	1964-04-08
+Minotaur II	maidenFlight	2000-05-28
+Lambda 4S	maidenFlight	1966-09-26
+Atlas LV-3B	maidenFlight	1960-07-29
+NOTS-EV-2 Caleb	maidenFlight	1960-07-28
+NOTS-EV-2 Caleb	maidenFlight	1961-10-01
+NOTS-EV-2 Caleb	maidenFlight	1961-10-05
+Scout X-1	maidenFlight	1960-07-02
+RM-90 Blue Scout II	maidenFlight	1961-03-03
+RM-89 Blue Scout I	maidenFlight	1961-01-07
+Scout X-2M	maidenFlight	1962-05-24
+VS-40	maidenFlight	1993-04-02
+Athena I	maidenFlight	1995-08-15
+Athena II	maidenFlight	1998-01-07
+Terasca	maidenFlight	1959-05-01
+Cajun (rocket)	maidenFlight	1956-06-20
+Troposphere (rocket family)	maidenFlight	2008-07-10
+Troposphere (rocket family)  Troposphere 5   1	maidenFlight	2009-03-29

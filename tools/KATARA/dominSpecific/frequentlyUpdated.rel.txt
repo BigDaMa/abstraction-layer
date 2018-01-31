@@ -1,0 +1,847 @@
+AbiWord	frequentlyUpdated	yes
+AOL Instant Messenger	frequentlyUpdated	yes
+BearShare	frequentlyUpdated	yes
+Bash (Unix shell)	frequentlyUpdated	yes
+Berkeley DB	frequentlyUpdated	Yes
+Freenet	frequentlyUpdated	yes
+GIMP	frequentlyUpdated	yes
+Gzip	frequentlyUpdated	yes
+Gzip  NetBSD Gzip / FreeBSD Gzip   1	frequentlyUpdated	no
+GnuCash	frequentlyUpdated	yes
+Gnumeric	frequentlyUpdated	yes
+Galeon	frequentlyUpdated	No
+BitchX	frequentlyUpdated	yes
+MIRC	frequentlyUpdated	yes
+Irssi	frequentlyUpdated	yes
+XChat	frequentlyUpdated	yes
+K-Meleon	frequentlyUpdated	yes
+Links (web browser)	frequentlyUpdated	yes
+Lightworks	frequentlyUpdated	Yes
+Lynx (web browser)	frequentlyUpdated	yes
+MySQL	frequentlyUpdated	yes
+Microsoft Word	frequentlyUpdated	yes
+Microsoft Word  for Mac   1	frequentlyUpdated	yes
+Napster    1	frequentlyUpdated	yes
+PhpWiki	frequentlyUpdated	yes
+QuickTime	frequentlyUpdated	Yes
+QuickTime  X   1	frequentlyUpdated	Yes
+UseModWiki	frequentlyUpdated	no
+Vim (text editor)	frequentlyUpdated	yes
+WordPerfect	frequentlyUpdated	yes
+W3m	frequentlyUpdated	yes
+XMMS	frequentlyUpdated	yes
+Wine (software)	frequentlyUpdated	yes
+GNU Octave	frequentlyUpdated	yes
+Mathematica	frequentlyUpdated	yes
+IBM Informix	frequentlyUpdated	yes
+GNU bison	frequentlyUpdated	yes
+TextEdit	frequentlyUpdated	yes
+Beonex Communicator	frequentlyUpdated	no
+IBM Lotus Notes	frequentlyUpdated	yes
+Zinf	frequentlyUpdated	yes
+OpenOffice.org	frequentlyUpdated	yes
+Shareaza	frequentlyUpdated	yes
+QuarkXPress	frequentlyUpdated	yes
+Scribes (software)	frequentlyUpdated	yes
+Winamp	frequentlyUpdated	yes
+Nautilus (file manager)	frequentlyUpdated	yes
+ChatZilla	frequentlyUpdated	yes
+Trillian (software)	frequentlyUpdated	yes
+ICab	frequentlyUpdated	yes
+AberMUD	frequentlyUpdated	no
+MAME	frequentlyUpdated	yes
+Elm (e-mail client)	frequentlyUpdated	yes
+Netscape Communicator	frequentlyUpdated	yes
+IBM DB2	frequentlyUpdated	yes
+Apache Subversion	frequentlyUpdated	yes
+Rsync	frequentlyUpdated	yes
+WinZip	frequentlyUpdated	Yes
+Dillo	frequentlyUpdated	yes
+MPlayer	frequentlyUpdated	Yes
+GNU TeXmacs	frequentlyUpdated	yes
+GNU LilyPond	frequentlyUpdated	yes
+InterNetNews	frequentlyUpdated	no
+GiFT	frequentlyUpdated	no
+ITunes	frequentlyUpdated	yes
+Pidgin (software)	frequentlyUpdated	yes
+WorldWideWeb	frequentlyUpdated	yes
+Camino	frequentlyUpdated	Yes
+Privoxy	frequentlyUpdated	yes
+KDevelop	frequentlyUpdated	yes
+Adobe Acrobat	frequentlyUpdated	Yes
+Sylpheed	frequentlyUpdated	yes
+Gedit	frequentlyUpdated	yes
+Mozilla Thunderbird	frequentlyUpdated	yes
+Kopete	frequentlyUpdated	yes
+WinDVD	frequentlyUpdated	yes
+OpenACS	frequentlyUpdated	yes
+Ardour (software)	frequentlyUpdated	yes
+OmniWeb	frequentlyUpdated	yes
+MLDonkey	frequentlyUpdated	yes
+Gtk-gnutella	frequentlyUpdated	yes
+Proxomitron	frequentlyUpdated	yes
+PhpBB	frequentlyUpdated	yes
+IChat	frequentlyUpdated	yes
+Miranda IM	frequentlyUpdated	yes
+Adium	frequentlyUpdated	yes
+Centericq	frequentlyUpdated	yes
+Foobar2000	frequentlyUpdated	yes
+Soulseek	frequentlyUpdated	yes
+TWiki	frequentlyUpdated	yes
+Dock (Mac OS X)	frequentlyUpdated	With every version of Mac OS X
+GNU GRUB	frequentlyUpdated	yes
+Xine  -lib   1	frequentlyUpdated	yes
+Xine  -ui   1	frequentlyUpdated	yes
+Xine  gxine   1	frequentlyUpdated	yes
+Xine  -plugin   1	frequentlyUpdated	yes
+Adaptive Server Enterprise	frequentlyUpdated	yes
+Visual IRC	frequentlyUpdated	yes
+Fire (instant messaging client)	frequentlyUpdated	yes
+Bersirc	frequentlyUpdated	yes
+IBM OpenDX	frequentlyUpdated	yes
+Ares Galaxy	frequentlyUpdated	yes
+7-Zip	frequentlyUpdated	maybe
+MediaWiki	frequentlyUpdated	yes
+ZynAddSubFX	frequentlyUpdated	no
+Audacity	frequentlyUpdated	yes
+Morpheus (software)	frequentlyUpdated	no
+Slrn	frequentlyUpdated	no
+Avant Browser	frequentlyUpdated	Yes
+Accelerated-X	frequentlyUpdated	no
+Simutrans	frequentlyUpdated	yes
+Texinfo	frequentlyUpdated	yes
+Unreal Engine	frequentlyUpdated	Yes
+Object Windows Library	frequentlyUpdated	Yes
+RTLinux	frequentlyUpdated	no
+Skype	frequentlyUpdated	yes
+Trac	frequentlyUpdated	yes
+Rosegarden	frequentlyUpdated	yes
+OpenSSL	frequentlyUpdated	yes
+DikuMUD	frequentlyUpdated	no
+PIRCH	frequentlyUpdated	yes
+Aqua (user interface)	frequentlyUpdated	yes
+Mozilla Sunbird	frequentlyUpdated	No; development ceased
+VLC media player	frequentlyUpdated	yes
+ViolaWWW	frequentlyUpdated	yes
+CURL	frequentlyUpdated	yes
+Metacity	frequentlyUpdated	yes
+Musicmatch Jukebox	frequentlyUpdated	yes
+X.Org Server	frequentlyUpdated	yes
+Maxthon	frequentlyUpdated	yes
+KWin	frequentlyUpdated	yes
+Game Maker	frequentlyUpdated	yes
+BioPerl	frequentlyUpdated	yes
+PhpMyAdmin	frequentlyUpdated	yes
+Invision Power Board	frequentlyUpdated	yes
+VBulletin	frequentlyUpdated	yes
+Psi (instant messaging client)	frequentlyUpdated	yes
+AMule	frequentlyUpdated	yes
+Adobe Atmosphere	frequentlyUpdated	yes
+The Bat!	frequentlyUpdated	yes
+Pegasus Mail	frequentlyUpdated	no
+Kazehakase	frequentlyUpdated	yes
+Acquisition (software)	frequentlyUpdated	yes 2.0
+POPFile	frequentlyUpdated	yes
+RealPlayer	frequentlyUpdated	yes
+FLTK	frequentlyUpdated	yes
+Amaya (web browser)	frequentlyUpdated	yes
+GNU Screen	frequentlyUpdated	yes
+Anjuta	frequentlyUpdated	yes
+Eggdrop	frequentlyUpdated	yes
+JCreator	frequentlyUpdated	yes
+Apache Lenya	frequentlyUpdated	yes
+Glade Interface Designer	frequentlyUpdated	yes
+LMule	frequentlyUpdated	yes
+XMule	frequentlyUpdated	yes
+Picasa	frequentlyUpdated	yes
+XBMC	frequentlyUpdated	yes
+PunkBuster	frequentlyUpdated	Yes
+BookmarkSync	frequentlyUpdated	Yes
+OpenVPN	frequentlyUpdated	Yes
+Grsecurity	frequentlyUpdated	yes
+WinRAR	frequentlyUpdated	yes
+BitComet	frequentlyUpdated	yes
+Volkov Commander	frequentlyUpdated	yes
+FAR Manager	frequentlyUpdated	yes
+Steam (software)	frequentlyUpdated	yes
+Microsoft Visual Studio Express	frequentlyUpdated	yes
+PHPEdit	frequentlyUpdated	yes
+BitTornado	frequentlyUpdated	yes
+GNU Core Utilities	frequentlyUpdated	yes
+GnuTLS	frequentlyUpdated	yes
+NeoOffice	frequentlyUpdated	yes
+PhpLDAPadmin	frequentlyUpdated	yes
+ThinkFree Office	frequentlyUpdated	yes
+JuK	frequentlyUpdated	yes
+Notepad2	frequentlyUpdated	yes
+Cairo (graphics)	frequentlyUpdated	yes
+Objecteering	frequentlyUpdated	yes
+Norton AntiVirus	frequentlyUpdated	Yes
+Amarok (software)	frequentlyUpdated	yes
+FileZilla	frequentlyUpdated	Yes
+Proteus (instant messaging client)	frequentlyUpdated	yes
+Snak	frequentlyUpdated	yes
+Crystal Reports	frequentlyUpdated	yes
+Webmin	frequentlyUpdated	yes
+Conkeror	frequentlyUpdated	yes
+FlashGet	frequentlyUpdated	yes
+SpinRite	frequentlyUpdated	yes
+Cyclopedia (iPhone application)	frequentlyUpdated	once
+Quintessential Player	frequentlyUpdated	yes
+Liferea	frequentlyUpdated	yes
+ERC (IRC client)	frequentlyUpdated	yes
+Udev	frequentlyUpdated	yes
+Netscape Browser	frequentlyUpdated	yes
+Lighttpd	frequentlyUpdated	yes
+Grail (web browser)	frequentlyUpdated	No
+GetRight	frequentlyUpdated	yes
+Net Transport	frequentlyUpdated	yes
+CDBurnerXP	frequentlyUpdated	yes
+ConTEXT	frequentlyUpdated	yes
+Notepad++	frequentlyUpdated	yes
+SlipKnot (web browser)	frequentlyUpdated	no
+Denemo	frequentlyUpdated	yes
+Code Aster	frequentlyUpdated	yes
+Ecasound	frequentlyUpdated	yes
+Pages	frequentlyUpdated	yes
+GObject	frequentlyUpdated	yes
+IDMS	frequentlyUpdated	yes
+GNU Guile	frequentlyUpdated	yes
+Norton Internet Security	frequentlyUpdated	Yes
+Kontact	frequentlyUpdated	yes
+Beep Media Player	frequentlyUpdated	yes
+Media Center (software application)	frequentlyUpdated	yes
+LDE(X)	frequentlyUpdated	yes
+GLib	frequentlyUpdated	yes
+Final Cut Express	frequentlyUpdated	Discontinued
+IZArc	frequentlyUpdated	yes
+Colloquy (software)	frequentlyUpdated	yes
+Microsoft GIF Animator	frequentlyUpdated	No
+Becky!	frequentlyUpdated	yes
+Google Talk	frequentlyUpdated	yes
+BitlBee	frequentlyUpdated	yes
+SeaMonkey	frequentlyUpdated	yes
+Netscape (version 7)	frequentlyUpdated	yes
+Xfire	frequentlyUpdated	yes
+PowerBuilder	frequentlyUpdated	yes
+WebDev	frequentlyUpdated	yes
+MusikCube	frequentlyUpdated	no
+WinSCP	frequentlyUpdated	yes
+Monotone (software)	frequentlyUpdated	yes
+ABC (Yet Another BitTorrent Client)	frequentlyUpdated	yes
+Adobe Flash Player	frequentlyUpdated	Yes
+Generic Mapping Tools	frequentlyUpdated	no
+FreeMED	frequentlyUpdated	yes
+Elvis (text editor)	frequentlyUpdated	no
+Git (software)	frequentlyUpdated	yes
+Apache2Triad	frequentlyUpdated	yes
+Jarte	frequentlyUpdated	yes
+NetSurf	frequentlyUpdated	yes
+PHP-Fusion	frequentlyUpdated	yes
+Gajim	frequentlyUpdated	yes
+Pandion (software)	frequentlyUpdated	yes
+MacPorts	frequentlyUpdated	yes
+GNU readline	frequentlyUpdated	yes
+Hoard memory allocator	frequentlyUpdated	yes
+BitTorrent (software)	frequentlyUpdated	yes
+Kaffeine	frequentlyUpdated	yes
+TiddlyWiki	frequentlyUpdated	yes
+ZipTorrent	frequentlyUpdated	yes
+Internet Explorer 2	frequentlyUpdated	no
+Zekr	frequentlyUpdated	yes
+Capistrano	frequentlyUpdated	yes
+TARGET 3001!	frequentlyUpdated	Yes
+Simple Machines Forum	frequentlyUpdated	yes
+BitLord	frequentlyUpdated	yes
+GnucDNA	frequentlyUpdated	yes
+GnucDNA  Gnucleus   1	frequentlyUpdated	yes
+Mozilla Application Suite	frequentlyUpdated	no
+CloneDVD	frequentlyUpdated	yes
+AnyDVD	frequentlyUpdated	yes
+Google Earth	frequentlyUpdated	yes
+Music Player Daemon	frequentlyUpdated	no
+Music Player Daemon  GMPC   1	frequentlyUpdated	Yes
+Ark (software)	frequentlyUpdated	6 months
+The Core Pocket Media Player	frequentlyUpdated	No
+SilkTest	frequentlyUpdated	yes
+GeneXus	frequentlyUpdated	yes
+KTorrent	frequentlyUpdated	yes
+RTorrent	frequentlyUpdated	yes
+Agilent VEE	frequentlyUpdated	yes
+KDE Software Compilation 4	frequentlyUpdated	yes
+TerraIM	frequentlyUpdated	yes
+WinMerge	frequentlyUpdated	yes
+Zend Studio	frequentlyUpdated	yes
+Cabos	frequentlyUpdated	yes
+XML Interface for Network Services	frequentlyUpdated	yes
+MediaMonkey	frequentlyUpdated	Yes
+Ghemical	frequentlyUpdated	yes
+IGOR Pro	frequentlyUpdated	yes
+EMule Plus	frequentlyUpdated	yes
+Firestarter (firewall)	frequentlyUpdated	Yes
+Jubster	frequentlyUpdated	yes
+WinPlay3	frequentlyUpdated	no
+Avidemux	frequentlyUpdated	yes
+Yahoo! Music Jukebox	frequentlyUpdated	no
+Valve Anti-Cheat	frequentlyUpdated	Yes
+Ogle DVD Player	frequentlyUpdated	yes
+Roxio Toast	frequentlyUpdated	yes
+Tomato Torrent	frequentlyUpdated	yes
+Flock (web browser)	frequentlyUpdated	No
+ΜTorrent	frequentlyUpdated	yes
+QuteCom	frequentlyUpdated	yes
+XnView	frequentlyUpdated	Yes
+Openfiler	frequentlyUpdated	yes
+Arachne (web browser)	frequentlyUpdated	yes
+Cpio	frequentlyUpdated	yes
+TorrentFlux	frequentlyUpdated	yes
+Obelisk SRC	frequentlyUpdated	yes
+Bits on Wheels	frequentlyUpdated	yes
+Lua Player	frequentlyUpdated	yes
+QuickPlayer	frequentlyUpdated	yes
+FireFTP	frequentlyUpdated	yes
+Zx Sniffer	frequentlyUpdated	yes
+Opera Mini	frequentlyUpdated	Yes
+GNOME Keyring	frequentlyUpdated	yes
+RootkitRevealer	frequentlyUpdated	no
+WinFixer	frequentlyUpdated	no
+Beamer (LaTeX)	frequentlyUpdated	yes
+Yafc	frequentlyUpdated	yes
+TORQUE Resource Manager	frequentlyUpdated	yes
+Transmission (BitTorrent client)	frequentlyUpdated	yes
+Meadow (programming)	frequentlyUpdated	yes
+PLECS	frequentlyUpdated	yes
+Vicious Engine	frequentlyUpdated	Yes
+Banshee (media player)	frequentlyUpdated	yes
+DVD Player (software)	frequentlyUpdated	yes
+Citadel/UX	frequentlyUpdated	yes
+Dolphin (emulator)	frequentlyUpdated	yes
+Ltrack	frequentlyUpdated	yes
+Songbird (software)	frequentlyUpdated	Yes
+Sleipnir (web browser)	frequentlyUpdated	Yes
+ShixxNOTE	frequentlyUpdated	yes
+Audacious (software)	frequentlyUpdated	Yes
+Emacspeak	frequentlyUpdated	yes
+Free Download Manager	frequentlyUpdated	yes
+OpenBabel	frequentlyUpdated	yes
+Libxml2	frequentlyUpdated	yes
+Radiance (software)	frequentlyUpdated	yes
+Ekiga	frequentlyUpdated	yes
+OpenJPEG	frequentlyUpdated	SVN
+Sage (mathematics software)	frequentlyUpdated	yes
+KSnapshot	frequentlyUpdated	yes
+NProtect GameGuard	frequentlyUpdated	yes
+WorldsAway	frequentlyUpdated	yes
+DOS/4G	frequentlyUpdated	no
+Groff (software)	frequentlyUpdated	yes
+GOIM	frequentlyUpdated	yes
+Blog Torrent	frequentlyUpdated	yes
+Jmol	frequentlyUpdated	yes
+Miro (software)	frequentlyUpdated	yes
+Mactracker	frequentlyUpdated	yes
+Das U-Boot	frequentlyUpdated	yes
+Scintilla (editing component)	frequentlyUpdated	yes
+Cog (software)	frequentlyUpdated	yes
+Freegate	frequentlyUpdated	no
+Max (ripping software)	frequentlyUpdated	yes
+Visual Test	frequentlyUpdated	yes
+FileZilla Server	frequentlyUpdated	yes
+CGI:IRC	frequentlyUpdated	yes
+Chemistry Development Kit	frequentlyUpdated	yes
+Interactive C	frequentlyUpdated	yes
+CoreAVC	frequentlyUpdated	yes
+Regina (program)	frequentlyUpdated	yes
+Seashore (software)	frequentlyUpdated	yes
+IRip	frequentlyUpdated	yes
+Baudline	frequentlyUpdated	yes
+Project Dogwaffle	frequentlyUpdated	no
+Foxit Reader	frequentlyUpdated	yes
+Gaphor	frequentlyUpdated	yes
+Executor (software)	frequentlyUpdated	no
+KDE Plasma Workspaces	frequentlyUpdated	yes
+EditGrid	frequentlyUpdated	yes
+FreeNAS	frequentlyUpdated	yes
+Bioclipse	frequentlyUpdated	yes
+EMule	frequentlyUpdated	yes
+Audiobook Cutter Free Edition	frequentlyUpdated	yes
+Cmus	frequentlyUpdated	yes
+KGet	frequentlyUpdated	no
+BumpTop	frequentlyUpdated	(about) every 2 weeks
+AppleWin	frequentlyUpdated	Yes
+Firefly Media Server	frequentlyUpdated	yes
+Swiftfox	frequentlyUpdated	yes
+Praat	frequentlyUpdated	yes
+Abaco (web browser)	frequentlyUpdated	yes
+Mothra (web browser)	frequentlyUpdated	yes
+QBittorrent	frequentlyUpdated	yes
+Twinkle (software)	frequentlyUpdated	yes
+TISFAT	frequentlyUpdated	yes
+BALL	frequentlyUpdated	yes
+K-Multimedia Player	frequentlyUpdated	yes
+Cookiesafe	frequentlyUpdated	yes
+Util-linux	frequentlyUpdated	yes
+ZNC	frequentlyUpdated	Yes
+K9Copy	frequentlyUpdated	yes
+Torrent Swapper	frequentlyUpdated	yes
+GOM Player	frequentlyUpdated	yes
+VASSAL Engine	frequentlyUpdated	yes
+Gwyddion (image data analysis program)	frequentlyUpdated	yes
+MonoTorrent	frequentlyUpdated	yes
+OpenSSO	frequentlyUpdated	Yes
+AllPeers	frequentlyUpdated	no
+Lightning (software)	frequentlyUpdated	yes
+Farsight	frequentlyUpdated	yes
+ALZip	frequentlyUpdated	yes
+ALFTP	frequentlyUpdated	yes
+Beryl (window manager)	frequentlyUpdated	yes
+Vidalia project	frequentlyUpdated	yes
+Matita	frequentlyUpdated	yes
+PPS.tv	frequentlyUpdated	Yes
+Flashbackup	frequentlyUpdated	yes
+Gnuzilla	frequentlyUpdated	yes
+IBM Rational Rose XDE	frequentlyUpdated	yes
+Turtle F2F	frequentlyUpdated	yes
+Deluge (software)	frequentlyUpdated	yes
+Zmanda Recovery Manager	frequentlyUpdated	yes
+IrcII	frequentlyUpdated	yes
+Tribler	frequentlyUpdated	yes
+BTSharp	frequentlyUpdated	yes
+VAG-COM	frequentlyUpdated	yes
+SpeedFan	frequentlyUpdated	yes
+Zotero	frequentlyUpdated	yes
+DBMail IMAP and POP3 server	frequentlyUpdated	yes
+Zune Software	frequentlyUpdated	Yes
+WebERP	frequentlyUpdated	yes
+AICCU	frequentlyUpdated	yes
+Claws Mail	frequentlyUpdated	yes
+WinDev	frequentlyUpdated	yes
+Programmer's Notepad	frequentlyUpdated	yes
+Vuze	frequentlyUpdated	yes
+LXDE	frequentlyUpdated	yes
+SiteBar	frequentlyUpdated	yes
+CoolTalk	frequentlyUpdated	No
+Dcraw	frequentlyUpdated	yes
+BitThief	frequentlyUpdated	yes
+BitTyrant	frequentlyUpdated	yes
+Jitsi	frequentlyUpdated	yes
+VirtualBox	frequentlyUpdated	yes
+CricketGraph	frequentlyUpdated	no
+MCabber	frequentlyUpdated	yes
+Gravit	frequentlyUpdated	no
+Semcat	frequentlyUpdated	yes
+NonVisual Desktop Access	frequentlyUpdated	Yes
+Punchscan	frequentlyUpdated	yes
+CastBlaster	frequentlyUpdated	yes
+PeaZip	frequentlyUpdated	Yes
+Dvdisaster	frequentlyUpdated	yes
+Librsvg	frequentlyUpdated	yes
+Peel (software)	frequentlyUpdated	yes
+Microsoft Silverlight	frequentlyUpdated	Yes
+Palo (OLAP database)	frequentlyUpdated	yes
+ChipVault	frequentlyUpdated	yes
+Hyperwords	frequentlyUpdated	yes
+MP3Gain	frequentlyUpdated	yes
+Spiceworks	frequentlyUpdated	Yes
+DownThemAll!	frequentlyUpdated	yes
+Marble (software)	frequentlyUpdated	yes
+Hallmark Card Studio	frequentlyUpdated	Hallmark Card Studio Deluxe 2011
+WSJT (Amateur radio software)	frequentlyUpdated	yes
+Xunlei	frequentlyUpdated	yes
+Nginx	frequentlyUpdated	yes
+Roundup (issue tracker)	frequentlyUpdated	yes
+CrystalPlayer	frequentlyUpdated	yes
+Devhelp	frequentlyUpdated	yes
+DBG	frequentlyUpdated	yes
+Netscape Navigator 9	frequentlyUpdated	yes
+Project Elliott	frequentlyUpdated	yes
+IBM Rational Business Developer Extension	frequentlyUpdated	yes
+Babylon (program)	frequentlyUpdated	yes
+General Architecture for Text Engineering	frequentlyUpdated	yes
+Netscape Composer	frequentlyUpdated	yes
+Orbit Downloader	frequentlyUpdated	yes
+Gears (software)	frequentlyUpdated	no
+Eureka Email	frequentlyUpdated	yes
+Netscape Messenger 9	frequentlyUpdated	yes
+Spatiotemporal Epidemiological Modeler	frequentlyUpdated	weekly build
+Moonlight (runtime)	frequentlyUpdated	yes
+Mailplane (software)	frequentlyUpdated	yes
+Icy Phoenix	frequentlyUpdated	yes
+Columba (e-mail client)	frequentlyUpdated	no
+Netscape Mail & Newsgroups	frequentlyUpdated	yes
+Sandboxie	frequentlyUpdated	Weekly (Beta versions)
+Orca (assistive technology)	frequentlyUpdated	yes
+Camfrog	frequentlyUpdated	yes
+Moses (machine translation)	frequentlyUpdated	yes
+MacWWW	frequentlyUpdated	no
+Pyro Desktop	frequentlyUpdated	yes
+Empathy (software)	frequentlyUpdated	yes
+StationRipper	frequentlyUpdated	yes
+Filzip	frequentlyUpdated	yes
+Foxmail	frequentlyUpdated	yes
+Expresso spreadsheet	frequentlyUpdated	yes
+Tagsistant	frequentlyUpdated	yes
+Phex	frequentlyUpdated	yes
+KRISTAL Audio Engine	frequentlyUpdated	no
+IVONA	frequentlyUpdated	yes
+MUMPS (software)	frequentlyUpdated	yes
+MyDefrag	frequentlyUpdated	yes
+SmartMusic	frequentlyUpdated	yes
+Kaspersky Internet Security	frequentlyUpdated	yes
+Nuvoiz Communicator	frequentlyUpdated	yes
+GtkHTML	frequentlyUpdated	yes
+IBM Rational Software Architect	frequentlyUpdated	yes
+CouchDB	frequentlyUpdated	yes
+IBM Rational Asset Manager	frequentlyUpdated	yes
+IBM Rational Software Modeler	frequentlyUpdated	yes
+Decibel Audio Player	frequentlyUpdated	yes
+LinDVD	frequentlyUpdated	yes
+Windows Libraries for OS/2	frequentlyUpdated	yes
+GridMathematica	frequentlyUpdated	yes
+AMD Catalyst	frequentlyUpdated	yes
+ITK-SNAP	frequentlyUpdated	yes
+MadCat Media Browser	frequentlyUpdated	yes
+SystemTap	frequentlyUpdated	yes
+HMailServer	frequentlyUpdated	Yes
+Vimperator	frequentlyUpdated	yes
+PLplot	frequentlyUpdated	yes
+Microsoft Visual Studio	frequentlyUpdated	yes
+ReQall	frequentlyUpdated	yes
+ATunes	frequentlyUpdated	yes
+GyazMail	frequentlyUpdated	Yes
+Scribe Mail	frequentlyUpdated	yes
+Software Testing Automation Framework	frequentlyUpdated	yes
+Soprano (KDE)	frequentlyUpdated	yes
+Geany	frequentlyUpdated	yes
+SmartCam	frequentlyUpdated	yes
+Trixbox	frequentlyUpdated	yes
+Caachi	frequentlyUpdated	yes
+Opticks (software)	frequentlyUpdated	yes
+OnyX	frequentlyUpdated	yes
+PackageKit	frequentlyUpdated	Yes
+Moji extension	frequentlyUpdated	Yes
+Digsby	frequentlyUpdated	Yes
+Mika VM	frequentlyUpdated	yes
+Mnemosyne (software)	frequentlyUpdated	Yes
+Libxslt	frequentlyUpdated	yes
+Subsonic (media server)	frequentlyUpdated	yes
+DevForce	frequentlyUpdated	yes
+Gnaural	frequentlyUpdated	yes
+VUE (Visual Understanding Environment)	frequentlyUpdated	yes
+DrJava	frequentlyUpdated	yes
+Ikiwiki	frequentlyUpdated	yes
+Tinyproxy	frequentlyUpdated	yes
+Rapid Evolution	frequentlyUpdated	yes
+MP3 Rocket	frequentlyUpdated	yes
+FreeProxy	frequentlyUpdated	yes
+SCO Skunkware	frequentlyUpdated	ftp://ftp2.sco.com/pub/skunkware/
+Ekg2	frequentlyUpdated	yes
+Mod4Win	frequentlyUpdated	no
+Mpxplay	frequentlyUpdated	Yes
+Smalltalk YX	frequentlyUpdated	no
+Anki	frequentlyUpdated	Yes
+Multitran	frequentlyUpdated	yes
+N2n	frequentlyUpdated	Yes
+Piggy Market Squeak	frequentlyUpdated	yes
+Impulse (content delivery)	frequentlyUpdated	yes
+Final Draft	frequentlyUpdated	bi-annually
+Chroma (software)	frequentlyUpdated	?
+PointUI Home	frequentlyUpdated	yes
+IBM Lotus Notes Traveler	frequentlyUpdated	yes
+Ren'Py	frequentlyUpdated	Yes
+OpenThinClient	frequentlyUpdated	yes
+Midori (web browser)	frequentlyUpdated	Yes
+InCtrl5	frequentlyUpdated	No
+EasyBCD	frequentlyUpdated	Yes
+ClearHealth	frequentlyUpdated	yes
+Cooliris (plugin)	frequentlyUpdated	Yes
+BlackBerry Messenger	frequentlyUpdated	no
+AME Accounting Software	frequentlyUpdated	yes
+GNU Paint	frequentlyUpdated	No
+ULE scheduler	frequentlyUpdated	yes
+FilesWire	frequentlyUpdated	yes
+Xmarks	frequentlyUpdated	Yes
+IYOUIT	frequentlyUpdated	Yes
+DVDFab	frequentlyUpdated	yes
+Cython	frequentlyUpdated	yes
+Boxee	frequentlyUpdated	yes
+Apache Cassandra	frequentlyUpdated	yes
+Gammu (software)	frequentlyUpdated	yes
+Wammu	frequentlyUpdated	yes
+Altibase	frequentlyUpdated	yes
+Rcirc	frequentlyUpdated	yes
+Ktrace	frequentlyUpdated	yes
+RemoteView	frequentlyUpdated	multiple/yearly
+NDSTokyoTrim	frequentlyUpdated	yes
+I Am Rich	frequentlyUpdated	no
+Go-oo	frequentlyUpdated	yes
+InSpeak Communicator	frequentlyUpdated	yes
+Image Xplorer	frequentlyUpdated	Yes
+Journalness	frequentlyUpdated	No
+GrADS	frequentlyUpdated	yes
+Uncomplicated Firewall  Gufw GUI for Uncomplicated Firewall   1	frequentlyUpdated	With every Ubuntu release
+Firefox for mobile	frequentlyUpdated	Yes
+DbForge Studio for MySQL	frequentlyUpdated	yes
+Emacs	frequentlyUpdated	yes
+Adobe Pixel Bender	frequentlyUpdated	No
+Bwping	frequentlyUpdated	yes
+V8 (JavaScript engine)	frequentlyUpdated	yes
+Shoes (GUI toolkit)	frequentlyUpdated	yes
+MorphXT	frequentlyUpdated	yes
+PowerDVD	frequentlyUpdated	yes
+RipIt	frequentlyUpdated	yes
+Physics2D.Net	frequentlyUpdated	Yes
+Dropbox (service)	frequentlyUpdated	yes
+Lunascape	frequentlyUpdated	Yes
+JAD (JAva Decompiler)	frequentlyUpdated	Only until 2006
+ELinks	frequentlyUpdated	yes
+TestComplete	frequentlyUpdated	yes
+Libtorrent (Rasterbar)	frequentlyUpdated	yes
+PackJacket	frequentlyUpdated	yes
+Firefox Sync	frequentlyUpdated	Yes
+Redmine	frequentlyUpdated	yes
+Xmove	frequentlyUpdated	no
+OpenXPKI	frequentlyUpdated	yes
+Tor (anonymity network)	frequentlyUpdated	yes
+Steel (web browser)	frequentlyUpdated	Yes
+ExpanDrive	frequentlyUpdated	yes
+Construct (software)	frequentlyUpdated	yes
+GNU.FREE	frequentlyUpdated	no
+Process Lasso	frequentlyUpdated	yes
+JMule	frequentlyUpdated	Yes
+FUDforum	frequentlyUpdated	yes
+Open Cobalt	frequentlyUpdated	Yes
+Comodo Internet Security	frequentlyUpdated	yes
+SFLphone	frequentlyUpdated	yes
+MIN Test Framework	frequentlyUpdated	yes
+Bean (word processor)	frequentlyUpdated	yes
+Linux kernel	frequentlyUpdated	yes
+GNU Gatekeeper	frequentlyUpdated	yes
+Iris Browser	frequentlyUpdated	yes
+PHPEd	frequentlyUpdated	yes
+WhiskerControl	frequentlyUpdated	yes
+PS3 Media Server	frequentlyUpdated	Yes
+ProtoShare	frequentlyUpdated	Every couple months
+Eucalyptus (computing)	frequentlyUpdated	yes
+OneSwarm	frequentlyUpdated	yes
+Gravity (software)	frequentlyUpdated	no
+LastPass	frequentlyUpdated	yes
+Lphant	frequentlyUpdated	yes
+MongoDB	frequentlyUpdated	yes
+OpenCOBOL	frequentlyUpdated	yes
+Muziic	frequentlyUpdated	yes
+Docky	frequentlyUpdated	yes
+JQuranTree	frequentlyUpdated	yes
+OpenTelegard/2	frequentlyUpdated	Yes
+Fresco (web browser)	frequentlyUpdated	No
+DVDStyler	frequentlyUpdated	no
+WeeChat	frequentlyUpdated	yes
+Nimbus (cloud computing)	frequentlyUpdated	yes
+Smuxi	frequentlyUpdated	yes
+Clairlib	frequentlyUpdated	yes
+Delphi Prism	frequentlyUpdated	yes
+Osiris (Serverless Portal System)	frequentlyUpdated	No
+Phatch	frequentlyUpdated	yes
+Intelligent Input Bus	frequentlyUpdated	yes
+DirSync Pro	frequentlyUpdated	Yes
+Qt Creator	frequentlyUpdated	yes
+I-net Crystal-Clear	frequentlyUpdated	yes
+LTTng	frequentlyUpdated	yes
+F9 Financial Reporting	frequentlyUpdated	yes
+Vaadin	frequentlyUpdated	yes
+UZard Web	frequentlyUpdated	Yes
+Chromium (web browser)	frequentlyUpdated	yes
+Xdebug	frequentlyUpdated	yes
+Exaile	frequentlyUpdated	Yes
+COPERT	frequentlyUpdated	Yes
+Bitblinder	frequentlyUpdated	yes
+Gearman	frequentlyUpdated	Yes
+Ultimate++	frequentlyUpdated	yes
+Chewing (Input Method)	frequentlyUpdated	yes
+Galio	frequentlyUpdated	Yes
+Virtual Shield	frequentlyUpdated	yes
+Sharelin	frequentlyUpdated	yes
+Advantage Database Server	frequentlyUpdated	yes
+Origyn Web Browser	frequentlyUpdated	Yes
+Voice Operator Panel	frequentlyUpdated	yes
+IMule	frequentlyUpdated	yes
+GoodSync	frequentlyUpdated	No
+Xdelta	frequentlyUpdated	yes
+PillarOne.RiskAnalytics	frequentlyUpdated	yes
+GNOME	frequentlyUpdated	yes
+Jupp (editor)	frequentlyUpdated	yes
+Calibre (software)	frequentlyUpdated	yes
+Adminer	frequentlyUpdated	yes
+Clipgenerator	frequentlyUpdated	yes
+MCU 8051 IDE	frequentlyUpdated	yes
+IBM Rational Team Concert	frequentlyUpdated	yes
+ArgusMonitor	frequentlyUpdated	yes
+Brain Fuck Scheduler	frequentlyUpdated	yes
+YourTube (Java ME)	frequentlyUpdated	yes
+Sipdroid	frequentlyUpdated	yes
+AC3Filter	frequentlyUpdated	yes
+Fluidinfo	frequentlyUpdated	yes
+Kingsoft Internet Security	frequentlyUpdated	Real time
+Scanner (software)	frequentlyUpdated	no
+VDownloader	frequentlyUpdated	yes
+AQtime	frequentlyUpdated	yes
+Prey (software)	frequentlyUpdated	Yes (Every 6 to 7 weeks)
+Konversation	frequentlyUpdated	yes
+Grindstone (time tracking software)	frequentlyUpdated	yes
+Distributed Access Control System	frequentlyUpdated	Yes
+Classilla	frequentlyUpdated	yes
+Quiet Internet Pager	frequentlyUpdated	yes
+Redis (data store)	frequentlyUpdated	yes
+MariaDB	frequentlyUpdated	yes
+Advance Guard Game Engine	frequentlyUpdated	Yes
+Rational Project Conductor	frequentlyUpdated	yes
+Pixetell	frequentlyUpdated	Yes
+PolarSSL	frequentlyUpdated	yes
+InfoZoom	frequentlyUpdated	yes
+PicoSpan	frequentlyUpdated	NO
+CUBRID	frequentlyUpdated	yes, once in one to four months
+TclMon	frequentlyUpdated	yes
+FarPoint Spread	frequentlyUpdated	yes
+TopBT	frequentlyUpdated	yes
+Neo4j	frequentlyUpdated	yes
+Personas for Firefox	frequentlyUpdated	Yes
+QQdownload	frequentlyUpdated	Yes
+Freeplane	frequentlyUpdated	yes
+AdBlock (Chrome)	frequentlyUpdated	yes
+Palcrypt	frequentlyUpdated	no
+GameSalad	frequentlyUpdated	Yes
+Habitat (software)	frequentlyUpdated	no
+GLPI	frequentlyUpdated	Yes
+MS Antivirus (malware)	frequentlyUpdated	yes
+FormatFactory	frequentlyUpdated	yes
+MusicBee	frequentlyUpdated	Yes
+Swish (SFTP client)	frequentlyUpdated	yes
+PreSonus Studio One	frequentlyUpdated	yes
+OpenAM	frequentlyUpdated	Yes
+Emissary (Internet Software)	frequentlyUpdated	no
+PSF Lab	frequentlyUpdated	yes
+Gwibber	frequentlyUpdated	yes
+Goalbit	frequentlyUpdated	yes
+Tonido	frequentlyUpdated	yes
+KDE Software Compilation	frequentlyUpdated	yes
+Seed (programming)	frequentlyUpdated	yes
+FrameGang	frequentlyUpdated	no
+Keyspace (data store)	frequentlyUpdated	yes
+Frame-IT!	frequentlyUpdated	no
+Alchemy (software)	frequentlyUpdated	yes
+Simply AJAX Forum System (SAFS)	frequentlyUpdated	yes
+Colectica	frequentlyUpdated	yes
+BennuGD	frequentlyUpdated	Yes
+Bonnie++	frequentlyUpdated	Yes
+Findutils	frequentlyUpdated	yes
+EXMARaLDA	frequentlyUpdated	yes
+Linkinus	frequentlyUpdated	yes
+Radium (software)	frequentlyUpdated	yes
+Fastmake	frequentlyUpdated	yes
+WSPR (Amateur radio software)	frequentlyUpdated	yes
+XBMC4Xbox	frequentlyUpdated	yes
+CyaSSL	frequentlyUpdated	yes
+Monal (software)	frequentlyUpdated	yes
+Xtreme Mod	frequentlyUpdated	yes
+TextCrypt	frequentlyUpdated	yes
+Timberwolf (web browser)	frequentlyUpdated	Yes
+Kdemultimedia	frequentlyUpdated	yes
+FileSalvage	frequentlyUpdated	yes
+Kdewebdev	frequentlyUpdated	yes
+CopyCatX	frequentlyUpdated	yes
+X-Ray Engine	frequentlyUpdated	Updated when a new game comes out that supports the X-Ray Engine
+DasBoot	frequentlyUpdated	yes
+Style Jukebox	frequentlyUpdated	Yes
+Sirannon (streaming)	frequentlyUpdated	yes
+Rainwave	frequentlyUpdated	Yes
+Nightingale (software)	frequentlyUpdated	Yes
+TinkerTool	frequentlyUpdated	Yes
+Ircle	frequentlyUpdated	yes
+OpenChrom	frequentlyUpdated	yes
+Minbar (software)	frequentlyUpdated	yes
+Bump (application)	frequentlyUpdated	yes
+Systemd	frequentlyUpdated	yes
+IRIS (transportation software)	frequentlyUpdated	yes
+DispcalGUI	frequentlyUpdated	Yes
+UMFPACK	frequentlyUpdated	yes
+Pino (software)	frequentlyUpdated	yes
+Discuz!	frequentlyUpdated	yes
+YouTube Instant	frequentlyUpdated	yes
+Series60-Remote	frequentlyUpdated	yes
+Hibari (database)	frequentlyUpdated	yes
+LibreOffice	frequentlyUpdated	Yes
+Papaya CMS	frequentlyUpdated	yes
+Adobe Ovation	frequentlyUpdated	No
+CommonGround (software)	frequentlyUpdated	yes
+KVIrc	frequentlyUpdated	yes
+BitSpirit	frequentlyUpdated	No
+MyDLP	frequentlyUpdated	yes
+Unity (user interface)	frequentlyUpdated	Yes
+Terrastore	frequentlyUpdated	yes
+Glary Utilities	frequentlyUpdated	Yes
+Agfa impax 6	frequentlyUpdated	yes
+Flingo	frequentlyUpdated	yes
+Arm (software)	frequentlyUpdated	yes
+DbForge Data Compare for Oracle	frequentlyUpdated	yes
+XenForo	frequentlyUpdated	yes
+Kik Messenger	frequentlyUpdated	yes
+Smartface	frequentlyUpdated	yes
+PJIRC	frequentlyUpdated	yes
+WenQuanYi	frequentlyUpdated	Yes
+Evilvte	frequentlyUpdated	yes
+TkWWW	frequentlyUpdated	no
+Unified Code Count (UCC)	frequentlyUpdated	yes
+VzRoom	frequentlyUpdated	yes
+Appetizer (software)	frequentlyUpdated	Yes
+BOUML	frequentlyUpdated	no
+Biosphere3D	frequentlyUpdated	Yes (Every 4 to 5 weeks)
+Vtiger CRM	frequentlyUpdated	yes
+Nettle (cryptographic library)	frequentlyUpdated	yes
+PhonerLite	frequentlyUpdated	yes
+OpenNebula	frequentlyUpdated	yes
+Wakame-vdc	frequentlyUpdated	yes
+Gitit (software)	frequentlyUpdated	yes
+QtdSync	frequentlyUpdated	yes
+TekTrak	frequentlyUpdated	yes
+DbForge SQL Complete	frequentlyUpdated	yes
+BetterZip	frequentlyUpdated	yes
+OpenCaster	frequentlyUpdated	yes
+I-Novae (game engine)	frequentlyUpdated	Yes
+KWrite	frequentlyUpdated	yes
+Go Cloud	frequentlyUpdated	yes
+IBM Lotus Domino	frequentlyUpdated	yes
+Totem (media player)	frequentlyUpdated	yes
+PHPIDS	frequentlyUpdated	Yes
+DaDaBIK	frequentlyUpdated	yes
+OpenDJ	frequentlyUpdated	Yes
+Virastyar	frequentlyUpdated	yes
+WebWhacker	frequentlyUpdated	no
+Brekeke SIP Server	frequentlyUpdated	yes
+DOS/32	frequentlyUpdated	no
+CSipSimple	frequentlyUpdated	yes
+Phpliteadmin	frequentlyUpdated	yes
+Listaller	frequentlyUpdated	True
+Aegir Hosting System	frequentlyUpdated	yes
+Brekeke PBX	frequentlyUpdated	yes
+TestArchitect	frequentlyUpdated	yes
+Hector (API)	frequentlyUpdated	yes
+ASUS WebStorage	frequentlyUpdated	yes
+DbForge Schema Compare for Oracle	frequentlyUpdated	yes
+Songr	frequentlyUpdated	yes
+Vanilla (forum)	frequentlyUpdated	yes
+Quassel IRC	frequentlyUpdated	yes
+Ultrareach	frequentlyUpdated	no
+TenFourFox	frequentlyUpdated	yes
+Video Reality	frequentlyUpdated	No
+Bookyt	frequentlyUpdated	yes
+Cream Desktop Environment	frequentlyUpdated	yes
+CloudTran	frequentlyUpdated	yes
+OpenSC	frequentlyUpdated	yes
+OrientDB	frequentlyUpdated	yes
+Paintbrush (software)	frequentlyUpdated	yes
+Pokeware	frequentlyUpdated	yes
+FL Studio Mobile	frequentlyUpdated	yes
+BeeCrypt	frequentlyUpdated	yes
+CA IDMS Server	frequentlyUpdated	yes
+BaseX	frequentlyUpdated	yes
+MatrixSSL	frequentlyUpdated	yes
+SafeWallet	frequentlyUpdated	yes

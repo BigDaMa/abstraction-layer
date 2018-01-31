@@ -1,0 +1,1094 @@
+Adrastea (moon)	volume	2.345E12
+Cayuga Lake	volume	9.46E9
+Carme (moon)	volume	5.1E13
+Dead Sea	volume	1.47E11
+Earth	volume	1.08321E9
+Gusana	volume	5.8E10
+International Space Station	volume	837.0
+International Space Station	volume	21.0
+Lake Ontario	volume	1.6380954573981558E12
+Lake Erie	volume	4.835090917511096E11
+Lake Michigan	volume	4.918454554019908E12
+Lake Superior	volume	1.208772729377774E13
+Lake Ladoga	volume	8.37E11
+Lake Champlain	volume	2.58E10
+Lake Balaton	volume	1.9E9
+Lake Toba	volume	2.4E11
+Lysithea (moon)	volume	2.44E13
+Lake Nicaragua	volume	1.08E11
+Mälaren	volume	1.4E10
+Mercury (planet)	volume	6.083E9
+Mercury (planet)	volume	0.056
+Miranda (moon)	volume	54.0
+Naiad (moon)	volume	1.5E9
+Red Sea	volume	2.33E14
+Seneca Lake (New York)	volume	1.6E10
+Skylab	volume	283.219
+Umbriel (moon)	volume	837.0
+Vänern	volume	1.53E11
+Venus	volume	9.38E9
+Venus	volume	0.857
+Jupiter	volume	1.4313
+Jupiter	volume	1321.3
+Europa (moon)	volume	1.593E9
+Callisto (moon)	volume	5.9E9
+Triton (moon)	volume	10.0
+Saturn	volume	8.2713E9
+Saturn	volume	763.59
+Uranus	volume	6.833E9
+Uranus	volume	63.086
+Pluto	volume	6.39E9
+Pluto	volume	0.0059
+Metis (moon)	volume	4.27E13
+Lake Van	volume	6.07E11
+Amalthea (moon)	volume	2.43
+Titan (moon)	volume	0.066
+Atlas (moon)	volume	1.44E13
+Lake Huron	volume	3.539E12
+Charon (moon)	volume	9.027E9
+Charon (moon)	volume	8.0E-4
+Phobos (moon)	volume	5.68E12
+Phobos (moon)	volume	5.0
+Puck (moon)	volume	2.225E15
+Ganymede (moon)	volume	7.6E9
+Lake Baikal	volume	2.361539E13
+Lake Zug	volume	3.2E9
+Lake Chad	volume	7.2E10
+Lake Teletskoye	volume	4.0E10
+Lake Zurich	volume	3.9E9
+Lake Malawi	volume	8.4E12
+Oberon (moon)	volume	3.0
+Aral Sea	volume	2.7E10
+Sea of Galilee	volume	4.0E9
+Lake Victoria	volume	2.75E12
+Cordelia (moon)	volume	3.89E13
+Ophelia (moon)	volume	4.1E13
+Bianca (moon)	volume	7.1E13
+Cressida (moon)	volume	2.6E14
+Desdemona (moon)	volume	1.64E14
+Juliet (moon)	volume	6.32E14
+Rosalind (moon)	volume	2.0E14
+Belinda (moon)	volume	3.8E14
+Lake Constance	volume	1.0
+Mir	volume	350.0
+Thebe (moon)	volume	5.0E14
+Lake Vostok	volume	5.4E12
+Leda (moon)	volume	4.2E12
+Crater Lake	volume	1.8715136396228294E10
+Lake Taupo	volume	5.9E10
+Derwentwater	volume	29.0
+Lake Titicaca	volume	8.93E11
+Janus (moon)	volume	3.0E15
+Epimetheus (moon)	volume	780.0
+Ladybower Reservoir	volume	2.78E7
+Lake Manitoba	volume	1.41E10
+Lake Winnipeg	volume	2.94E11
+Lake Geneva	volume	8.9E10
+Lake Tanganyika	volume	1.89E13
+Proteus (moon)	volume	3.4
+Pandora (moon)	volume	2.8E14
+Caliban (moon)	volume	2.0E14
+Elara (moon)	volume	3.33E14
+Himalia (moon)	volume	2.57E15
+Ananke (moon)	volume	1.15E13
+Pasiphaë (moon)	volume	1.13E14
+Sinope (moon)	volume	2.87E13
+Lake Lucerne	volume	1.18E10
+Mimas (moon)	volume	32.0
+Lake Burtnieks	volume	9.11E7
+Titania (moon)	volume	3.0
+Prometheus (moon)	volume	3.4E14
+Issyk Kul	volume	1.738E12
+Lake Nyos	volume	1.5E8
+Salyut 1	volume	99.0
+Salyut 2	volume	99.0
+Salyut 4	volume	90.0
+Salyut 5	volume	100.0
+Salyut 3	volume	90.0
+Salyut 7	volume	90.0
+Salyut 6	volume	90.0
+Lake Garda	volume	5.035E10
+Lake Como	volume	2.25E10
+Lake Mweru	volume	3.82E10
+Detroit Lake	volume	3.47E8
+Loch Lomond	volume	2.6E9
+Lake Maracaibo	volume	2.8E11
+Saimaa	volume	3.6E10
+Lac de Serre-Ponçon	volume	1.2E9
+Lake Simcoe	volume	1.16E10
+Lake Annecy	volume	1124.0
+Lake Lugano	volume	6.5E9
+Golyam Beglik	volume	62.1
+Studen Kladenets	volume	4.89E8
+Lake Neuchâtel	volume	1.377E10
+Lake Nasser	volume	1.32E11
+Lake Albert (Africa)	volume	1.32E11
+Lake Biwa	volume	2.75E10
+Lake Sakakawea	volume	1.58E10
+Lake Mead	volume	3.192E10
+Lake Mead	volume	1.368E10
+Lake Powell	volume	3.0E10
+Lake Powell	volume	1.898E10
+28978 Ixion	volume	3.0
+Lake Hume	volume	3.0365E9
+Lake Onega	volume	2.85E11
+Lake Peipus	volume	2.5E10
+Ariel (moon)	volume	8.126E17
+Lake Athabasca	volume	2.04E11
+Coniston Water	volume	113.3
+Lough Neagh	volume	3.528E9
+Larissa (moon)	volume	3.5E9
+Salton Sea	volume	9.25E9
+Canandaigua Lake	volume	1.62394165362E9
+Carsington Water	volume	35412.0
+Great Slave Lake	volume	1.58E12
+Lake Mashū	volume	2.86E9
+Lake Okeechobee	volume	5.21022728180075E9
+Rybinsk Reservoir	volume	2.54E10
+Skaneateles Lake	volume	1.60501459472E9
+Lake Saint Clair (North America)	volume	3.417909096861292E9
+Lake Vištytis	volume	2.58E8
+Lake Pedder	volume	2.9E9
+Great Bear Lake	volume	2.236E12
+Okanagan Lake	volume	2.46E10
+Lake Turkana	volume	2.036E11
+Lake Balkhash	volume	4.418272734967036E11
+Lake Thun	volume	6.5E9
+Lake Brienz	volume	5.17E9
+Lake Biel	volume	1.12E9
+Lake Murten	volume	5.5E8
+Lake Bangweulu	volume	5000.0
+Lake Kivu	volume	5.0E11
+Lake Edward	volume	3.95E10
+Lake Abaya	volume	8.2E9
+Quabbin Reservoir	volume	1.55958965336E9
+Lake Maninjau	volume	1.04E10
+Manicouagan Reservoir	volume	1.398E11
+Lake Nipissing	volume	3.8E9
+Poyang Lake	volume	2.95E9
+Themisto (moon)	volume	2.7E11
+Setebos (moon)	volume	5.8E13
+21 Lutetia	volume	650.0
+Portia (moon)	volume	1.3E15
+Sycorax (moon)	volume	1.8E15
+Prospero (moon)	volume	6.5E13
+Thalassa (moon)	volume	2.9E9
+Despina (moon)	volume	1.8E9
+Galatea (moon)	volume	2.8E9
+Lake Burley Griffin	volume	3.3E7
+Iocaste (moon)	volume	7.4E10
+Stephano (moon)	volume	2.0E13
+Trinculo (moon)	volume	3.0E12
+4660 Nereus	volume	0.019
+Warragamba Dam	volume	2.031E9
+Lake Burragorang	volume	2.031E9
+Lake Gordon	volume	1.25E10
+Lake Inari	volume	15.0
+Lake Delton	volume	2271247.068
+Lake Eildon	volume	3.334158E9
+Kielder Water	volume	2.0E11
+Loch Awe	volume	1.2E9
+Loch Maree	volume	1.09039315E9
+Loch Morar	volume	2.3E9
+Walensee	volume	2.5E9
+Cahora Bassa	volume	5.58E10
+Lake Kariba	volume	1.8E11
+Erhai Lake	volume	2.5E9
+Owasco Lake	volume	8.0250729736E8
+Draycote Water	volume	2.3E7
+Ullswater	volume	223.0
+Siljan (lake)	volume	4.2E10
+Medicine Lake Volcano  Medicine Lake   1	volume	1.34E7
+Þingvallavatn	volume	2.856E9
+Sultartangalón	volume	1.09E8
+Lake Maggiore	volume	3.7E10
+Lake Tappan	volume	1.324894123E7
+Lake Alexandrina (South Australia)	volume	1.61E9
+Perdita (moon)	volume	1.4E13
+Cupid (moon)	volume	3.0E12
+Mab (moon)	volume	8.0E12
+Francisco (moon)	volume	6.0E12
+Margaret (moon)	volume	4.2E12
+Ferdinand (moon)	volume	4.2E12
+Dellen	volume	1226.0
+Loch Lochy	volume	1.1E9
+Lake Sevan	volume	3.2921E10
+Lake Sevan	volume	5.85E10
+Lake Tharthar	volume	3.518E10
+Woodcliff Lake Reservoir	volume	3297093.66038
+Greifensee	volume	1.48E8
+Lake Chelan	volume	1.9507090943062008E10
+Tulsi Lake	volume	2.294E9
+Vihar Lake	volume	4.1824028E7
+Lake Vyrnwy	volume	59666.0
+Space Station Freedom	volume	878.0
+Space Station Freedom	volume	877.9789
+Lesser Slave Lake	volume	1.369E10
+Lac de Paladru	volume	9.7E7
+Lake Scugog	volume	9.57E7
+Lakes Kaban	volume	1.18E7
+Chiemsee	volume	2048.0
+Lake Ilmen	volume	1.2E10
+Lake Päijänne	volume	1.81E10
+Lough Derg (Shannon)	volume	8.87E8
+Mjøsa	volume	5.6E10
+Iliamna Lake	volume	1.1545863656470462E11
+Io (moon)	volume	2.53E9
+Lake Mainit	volume	1.8E10
+Lake Neusiedl	volume	3.25E11
+Femund	volume	6.0E9
+Lake Ohau	volume	4.02E9
+Lake Pukaki	volume	4.66E9
+Lake Tekapo	volume	6.0E9
+Lake Towada	volume	4.19
+Chew Valley Lake	volume	2.0457405E7
+Lake Fryxell	volume	2.52E7
+Chilika Lake	volume	4.0E9
+Haweswater Reservoir	volume	7.66E7
+Lake Alaotra	volume	9.45E8
+Waranga Basin	volume	4.11E8
+Lake Ohrid	volume	5.54E10
+Great Sacandaga Lake	volume	29.92
+Great Sacandaga Lake	volume	7.8
+Königssee	volume	5.11785E8
+Honeoye Lake	volume	3.596141191E7
+Lake Izvorul Muntelui	volume	1250.0
+Squantz Pond State Park	volume	2.0E9
+Gosaikunda	volume	1472000.0
+Kamloops Lake	volume	3.7E9
+Green Lake (New York)	volume	7235900.0
+Lake Conroe	volume	7.31E9
+Lake Ossiach	volume	2.06E11
+Røssvatnet	volume	1.48E10
+Randsfjorden	volume	7.31E9
+Tyrifjorden	volume	1.31E10
+Hornindalsvatnet	volume	1.21E10
+Lake Volta	volume	1.48E11
+Flathead Lake	volume	2.3175090949449738E10
+Loch Shiel	volume	8.0E8
+Lake Chapala	volume	8.1E9
+Lake Bolsena	volume	9.2E9
+Khecheopalri Lake	volume	272880.0
+Khövsgöl Nuur	volume	4.807E11
+Wolfgangsee	volume	6.6707E8
+Lake Argyle	volume	1.0763E10
+Lake Hemet	volume	1.0E9
+Lake Orta	volume	1.3E9
+Lake Volvi	volume	0.94
+Möhne Reservoir	volume	1.35E8
+Ashtamudi Lake	volume	7.6E10
+Caniapiscau Reservoir	volume	5.38E10
+Lake Wingra	volume	6000000.0
+Lake Vanda	volume	1.6E8
+Lake of the Ozarks	volume	2.44537600988E9
+Hjälmaren	volume	3.0E9
+Qiandao Lake	volume	1.78E10
+Smith Mountain Lake	volume	2.8E9
+Lac du Bourget	volume	3600.0
+Lake Chagan	volume	100000.0
+Bass Lake (California)	volume	5.61E7
+Dal Lake	volume	983.0
+Lake Taymyr	volume	1.28E10
+Lake Alakol	volume	5.86E10
+Lower Seletar Reservoir	volume	9500000.0
+Perry Barr Reservoir	volume	8.3E7
+Lake Starnberg	volume	2.998E9
+Guarapiranga	volume	1.71E8
+Lake Michigan-Huron	volume	8.457E12
+Round Valley Reservoir	volume	2.081976479E8
+Williston Lake	volume	7.4E10
+Zarivar Lake	volume	30.0
+Lake Shala	volume	3.67E10
+Võrtsjärv	volume	8.0E8
+Pielinen	volume	8.5E9
+Burnhope Reservoir	volume	6400000.0
+Lake Eppalock	volume	3.04651E8
+Wood Lake (British Columbia)	volume	1.995E8
+Ägerisee	volume	3.6E8
+Pushkar Lake	volume	0.79
+Lake Coeur d'Alene	volume	2.8E9
+Makemake (dwarf planet)	volume	1.5E9
+Sarez Lake	volume	1.6074E10
+Kainji Lake	volume	1.5E10
+Wabamun Lake	volume	5.13E8
+Lake Wendouree	volume	3860.0
+North Aral Sea	volume	2.7E10
+Stuart Lake	volume	9.3E9
+Lake Tōya	volume	8.19E9
+Namtso	volume	7.68E11
+Torneträsk	volume	17.1
+Prettyboy Reservoir	volume	7.192282382E7
+Hebgen Lake	volume	4.00953505078436E8
+Lake Marathon	volume	3.4E7
+BA 330	volume	330.0
+Wachusett Reservoir	volume	2.460517657E8
+Sperillen	volume	1.3E10
+Amaravathi Reservoir	volume	8.49657E7
+Lac de Montbel	volume	6.0E7
+Springfield Lake	volume	2560000.0
+Lake Somerset	volume	380.0
+Harrison Lake	volume	33.0
+Lake Sibhayi	volume	7.0E8
+Bosten Lake	volume	8.0E9
+Aibi Lake	volume	760.0
+Sihlsee	volume	9.6E7
+Lac de la Cavayère	volume	1500000.0
+Lake Amatitlán	volume	2.86E8
+Argentino Lake	volume	2.199E11
+Akkajaure	volume	5.9E9
+Lake Singkarak	volume	1.61E10
+Sobradinho Reservoir	volume	3.41E10
+Jellyfish Lake	volume	1710000.0
+Hinze Dam	volume	3.097E8
+Kuybyshev Reservoir	volume	5.73E10
+Bratsk Reservoir	volume	1.6927E11
+Pok Fu Lam Reservoir	volume	2.6E11
+Lake Moogerah	volume	83.0
+Lake Diefenbaker	volume	9.4E9
+Honey Lake	volume	120000.0
+Loweswater	volume	5.4
+Blagdon Lake	volume	8456.0
+Tegernsee (lake)	volume	3.24E8
+Clywedog reservoir	volume	50000.0
+Vansjø	volume	2.64E8
+Lake Tinaroo	volume	4.389E8
+Sarsang reservoir	volume	5.6E8
+Lake Varna	volume	1.65E8
+Lake Jindabyne	volume	689790.0
+Lake Eucumbene	volume	6735300.0
+Tunnsjøen	volume	8.68E9
+Limingen	volume	8.34
+Ashokan Reservoir	volume	4.652E8
+Tinnsjå	volume	9.71E9
+Blåsjø	volume	3.1E9
+Štrbské pleso	volume	1284.0
+Śniardwy	volume	6.5E8
+Tuttle Creek Lake	volume	4.1E8
+Nisser	volume	7.19E9
+Storsjøen (Rendalen)	volume	7.07E9
+Aurora Reservoir	volume	3.9E7
+Kardzhali Reservoir	volume	4.972E8
+Leslie Harrison Dam	volume	2.48E7
+Millstätter See	volume	1.205E9
+Aydar Lake	volume	4.43E10
+Lake Guthridge	volume	325.0
+Lake Ihotry	volume	3.95E8
+Tyin	volume	3.13E8
+Gjende	volume	1030.0
+Buško Blato	volume	7.82E8
+Shellmouth Reservoir	volume	4.8E8
+San Roque Lake	volume	1.8E8
+Helin	volume	1.86E7
+Nesjøen	volume	3.4E8
+Selbusjø	volume	4.03E9
+Lopez Lake	volume	6.07E7
+Maroon Dam	volume	44.0
+Nodlandsvatnet	volume	2.0E7
+Tivoli Lake	volume	36.0
+Washington Park Lake	volume	44986.50596
+Bandak	volume	3.17E9
+Lundevatn	volume	4.49E9
+Totak	volume	2.36E9
+Kremenchuk Reservoir	volume	1.35E10
+Vegår	volume	3.37E11
+Wilson Lake (Kansas)	volume	9.08E8
+Kiev Reservoir	volume	3.7E9
+Suldalsvatnet	volume	4.49E9
+Salsvatn	volume	6.87E9
+Lake Springfield	volume	6.624470615E7
+Topaz Lake	volume	7.3E7
+Kakhovka Reservoir	volume	1.82E10
+Bucura Lake	volume	625000.0
+North Pine Dam	volume	214.0
+New Hogan Lake	volume	3.91E8
+Vidra Lake	volume	3.4E8
+Strawberry Reservoir	volume	2447014.4
+Blue Mesa Reservoir	volume	940800.0
+Dniprodzerzhynsk Reservoir	volume	2.45E9
+Kaniv Reservoir	volume	2.6E9
+Dnieper Reservoir	volume	3.3E9
+Iskar Reservoir	volume	6.73E8
+Pepacton Reservoir	volume	430256.0
+Lake Nojiri	volume	0.096
+Lake of Banyoles	volume	120000.0
+Torch Lake (Antrim County, Michigan)	volume	3.251181823843668E9
+Cannonsville Reservoir	volume	3.62E7
+Kensico Reservoir	volume	1.135623534E8
+Amawalk Reservoir	volume	2.5362258926E7
+Bog Brook Reservoir	volume	4.4E9
+Croton Falls Reservoir	volume	5.3752847276E7
+Lake Needwood	volume	741940.70888
+Lake Bernard Frank	volume	882000.94474
+Dalešice Dam	volume	1.273E8
+Lake Mistassini	volume	1.5E11
+Botn (Sør-Trøndelag)	volume	1.12E8
+Kennisis Lake	volume	3.3205E8
+Genesis I	volume	11.5
+Ögii Lake	volume	0.17
+Waldo Lake	volume	9.537E8
+Angram Reservoir	volume	4736.0
+Scar House Reservoir	volume	10064.0
+Stocks Reservoir	volume	1.2E7
+Lake Sempach	volume	6.6E8
+Lake Sarnen	volume	2.39E8
+Lake Baldegg	volume	1.73E8
+Lake Hallwil	volume	2.85E8
+Lake of Gruyère	volume	2.2E8
+Lake Wohlen	volume	2.5E7
+Faaker See	volume	3.524E7
+Lake Beloye (Vologda Oblast)	volume	6.2E9
+Vesijärvi	volume	484.0
+Burdekin Dam	volume	1.86E9
+Lake Solina	volume	4.72E8
+Lake Engure	volume	1.68E7
+Uglich Reservoir	volume	1.24E9
+Ivankovo Reservoir	volume	1.12E9
+Scituate Reservoir	volume	3.9E10
+Lake Kizaki	volume	0.025
+Don Juan Pond	volume	3.0
+Green Lake (Wisconsin)	volume	1.6277270654E7
+Lake Shafer	volume	1.6E7
+Nakaumi	volume	4.7E8
+Woodhead Reservoir	volume	1.181E9
+Torside Reservoir	volume	6700000.0
+Rhodeswood Reservoir	volume	5.0E8
+Valehouse Reservoir	volume	3.43E8
+Bottoms Reservoir (Derbyshire)	volume	4.07E8
+Arnfield Reservoir	volume	2.09E8
+Hollingworth Reservoir	volume	7.3E7
+Lake Bohinj	volume	9.97E7
+Furesø (lake)	volume	1.271E8
+Priroda	volume	66.0
+Étang de Berre	volume	9.0E8
+Orlík Dam	volume	7.038E8
+Trevallyn Dam	volume	1.233E7
+Stratos (lake)	volume	60.0
+Mingachevir reservoir	volume	1.573E10
+Weston Reservoir	volume	757082.356
+Otis Reservoir	volume	5.6E9
+Maharana Pratap Sagar	volume	8570.0
+Wollaston Lake	volume	7.5E10
+Lake Todos los Santos	volume	3.44E10
+Lake Awoonga	volume	7.77E8
+Lipno Dam	volume	3.06E8
+Olallie Scenic Area	volume	3824479.334436
+Yan Yean Reservoir	volume	3.0E7
+Glenlyon Dam	volume	254.0
+(208996) 2003 AZ84	volume	2.7E9
+Matabeleland Zambezi Water Project	volume	634.0
+Monksville Reservoir	volume	5000000.0
+Lake Sils	volume	1.37E8
+Lake Silvaplana	volume	1.4E8
+Pfäffikersee	volume	5.9E7
+Lago di Lei	volume	1.97E8
+Hillsborough Reservoir	volume	1000000.0
+William Girling Reservoir	volume	1.65E7
+Rara Lake	volume	1.0E9
+Lake Kerinci	volume	1.6E9
+Lake Ranau	volume	2.195E10
+Lake Poso	volume	2.16E8
+King George V Reservoir	volume	0.012492
+(119979) 2002 WC19	volume	3.9E9
+Gorky Reservoir	volume	1.29E10
+Yerevan Lake	volume	0.0050
+Lake Kari	volume	357.0
+Geist Reservoir	volume	2.3091011858E7
+Sulby Reservoir	volume	4546090.0
+Puyehue Lake	volume	1.26E10
+Lake Inawashiro	volume	5.4E9
+Lünersee	volume	1.56E8
+Tranque Puclaro	volume	2.0E8
+El Atazar Dam	volume	4.26E8
+Banks Lake	volume	1.59744377116E9
+Großer Plöner See	volume	3.73E8
+Liberty Reservoir	volume	4.3E10
+Upper Yarra Reservoir	volume	200000.0
+Lake Der-Chantecoq	volume	3.5E8
+Champagne Pool	volume	50000.0
+Geology of Mars	volume	1.6318E9
+Geology of Mars	volume	0.151
+Grimselsee	volume	9.5E7
+Phoksundo Lake	volume	4.09E8
+Lago di Poschiavo	volume	1.2E8
+(15809) 1994 JS	volume	9.28
+Robert-Bourassa Reservoir	volume	61.7
+Pymatuning Reservoir	volume	2.92313587E8
+Ross River Dam	volume	250.0
+Silverwood Lake	volume	9.0E7
+Lake Lans	volume	262.5
+Natterer See	volume	84000.0
+Popovo Lake	volume	1270000.0
+Volderer See	volume	70.69
+Lanser Moor	volume	24.0
+Černé jezero	volume	2878000.0
+Foremark Reservoir	volume	2900.0
+Baggersee Innsbruck	volume	923000.0
+Genesis II	volume	11.5
+Lake Qaraoun	volume	2.2E8
+Lake Assad	volume	1.0E10
+Rocky Creek Dam	volume	1.4E7
+Lake Skinner	volume	5.44E7
+Lake Chivero	volume	250.0
+Zervreilasee	volume	1.01E8
+Vail Lake	volume	6.15E7
+Lac d'Emosson	volume	2.27E8
+Amsoldingersee	volume	2552682.0
+Lake Shikotsu	volume	2.09E10
+Hatzlacke	volume	31160.7
+Lake Campotosto	volume	2.3E8
+Stubensee	volume	110153.0
+Totensee	volume	2500000.0
+Gampriner Seele	volume	367566.35
+Lake Cadagno	volume	2420000.0
+Lac de Bret	volume	5000000.0
+Lac de Moiry	volume	7.8E7
+Lake Hoare	volume	1.75E7
+Llyn Cefni	volume	4.0E8
+Lac Courte Oreilles	volume	168800.0
+Štěchovice Reservoir	volume	1.12E7
+Shivasagar lake	volume	2.7974E9
+Quesnel Lake	volume	4.18E10
+Wraysbury Reservoir	volume	34000.0
+Island Barn Reservoir	volume	9.92E8
+Queen Elizabeth II Reservoir	volume	4300.0
+Sasthamkotta Lake	volume	22.4
+Lago del Sambuco	volume	775000.0
+Lago Ritom	volume	4.8E7
+Limmernsee	volume	9.3E7
+Lago di Mergozzo	volume	8.29E7
+Toktogul Reservoir	volume	1.95E10
+Galaxy (spacecraft)	volume	16.7
+Lake Tanzawa	volume	6.49E13
+Yalchik Lake	volume	10439.0
+Yalchik Lake	volume	2580.0
+Wimbleball Lake	volume	21000.0
+Arnensee	volume	1.05E7
+Gelmersee	volume	1.3E7
+Räterichsbodensee	volume	2.5E7
+Göscheneralpsee	volume	7.6E7
+Lake Eau d'Heure	volume	8.6E7
+Barker Meadow Reservoir	volume	14.185
+Lake Herbert G. West	volume	4.65E8
+Lake Eupen	volume	2.5E7
+Lake Gileppe	volume	2.64E7
+Lake Nisramont	volume	3000000.0
+Lake Robertville	volume	8000000.0
+Lake Ry de Rome	volume	2200000.0
+Lake Warfaaz	volume	360000.0
+Rimrock Lake	volume	2.4425545497081915E8
+Bumping Lake	volume	4.1681818254406E7
+Cle Elum Lake	volume	5.389459100294696E7
+Kachess Lake	volume	2.9469045505865043E8
+Keechelus Lake	volume	1.9465409124807602E8
+Mattmarksee	volume	1.05E7
+Lago di Vogorno	volume	1.05E8
+Judarn	volume	179000.0
+Caumasee	volume	650000.0
+Kyrksjön	volume	76500.0
+Råcksta Träsk	volume	4.71E10
+Lillsjön (Ulvsunda)	volume	196000.0
+Laduviken	volume	117000.0
+Lappkärret	volume	16000.0
+Lake Letas	volume	8.0E8
+Magelungen	volume	1.16E7
+Drevviken	volume	3.7E7
+Flaten	volume	4560000.0
+Ältasjön	volume	2710000.0
+Sicklasjön	volume	466000.0
+Zhelin Reservoir	volume	8.0E9
+Myponga Reservoir	volume	26800.0
+Långsjön	volume	617000.0
+Trekanten (Stockholm)	volume	570000.0
+Mansfield Hollow Lake	volume	6.4007494E7
+Sundancer	volume	180.0
+Gömmaren	volume	724000.0
+Zemplínska šírava	volume	3.34E8
+Trehörningen (Sjödalen)	volume	1090000.0
+Lost Lake (California)	volume	12500.0
+Hacksjön	volume	77000.0
+Tantangara Reservoir	volume	2.54E8
+Vlasina Lake	volume	1.65E9
+Lago Bianco	volume	1.86E7
+Lago di Livigno	volume	1.646E8
+Lake Kasumigaura	volume	8.48E8
+Paravani Lake	volume	9.1E7
+Cardinia Reservoir	volume	287000.0
+Cospudener See	volume	1.09E8
+Embalse La Paloma	volume	7.5E8
+Oologah Lake	volume	522210.0
+Lake Dusia	volume	3.40791E11
+Chatyr-Kul	volume	6.2E8
+Lake Siriu	volume	155.0
+Lake Mattoon	volume	9842070.628
+Lower Nihotupu Reservoir	volume	4810000.0
+Reschensee	volume	1.2E8
+Jablanica lake	volume	290.0
+Lai da Nalps	volume	4.5E7
+Lac de Montsalvens	volume	1.26E7
+Stausee Gibidum	volume	9200000.0
+Gigerwaldsee	volume	3.56E7
+Lac de Tseuzier	volume	5.1E7
+Steinhuder Meer	volume	8.8E7
+Engstlensee	volume	1.07E7
+Tannensee	volume	3800000.0
+Sufnersee	volume	1.75E7
+Illsee	volume	6600000.0
+Griessee	volume	1.86E7
+Lac de Moron	volume	2.06E7
+Lac des Toules	volume	2.015E7
+Lago del Narèt	volume	3.16E7
+Lai da Curnera	volume	4.11E7
+Lago di Lucendro	volume	2.5E7
+Lac de Cleuson	volume	2.0E7
+Lac du Vieux Emosson	volume	1.38E7
+Lago dei Cavagnöö	volume	2.9E7
+Lake Lauerz	volume	2.34E7
+Hüttwilersee	volume	2680000.0
+Lac de Pérolles	volume	400000.0
+Lake Segara Anak	volume	3.6E7
+Stausee Ferden	volume	1890000.0
+Hüttnersee	volume	1045000.0
+Pyhäjärvi (Satakunta)	volume	8.4E8
+Lac d'Icogne	volume	40000.0
+Sternenweiher	volume	100000.0
+Lake Kilpisjärvi	volume	7.3E8
+Caballo Lake	volume	4.28E8
+Split Rock Dam	volume	397000.0
+Pindari Dam	volume	3.12E8
+Chaffey Dam	volume	62.0
+Chichester Dam	volume	21500.0
+Lake Moondarra	volume	1.07E8
+Teufenbachweiher	volume	230000.0
+Seebergsee	volume	3.8E8
+Beacon Reservoir (Dutchess County, New York)	volume	473176.4725
+Hasensee	volume	434000.0
+Namekagon Lake	volume	52032.0
+Laguna de Gallocanta	volume	5000000.0
+Bannalpsee	volume	1700000.0
+Chapfensee	volume	430000.0
+Gübsensee	volume	1500000.0
+Traveston Crossing Dam	volume	153000.0
+Mirror Lake (Ohio)	volume	2577.2929
+Zaza Reservoir	volume	7.5E8
+Nussbaumersee	volume	1067000.0
+Wichelsee	volume	400000.0
+Lago di Palagnedra	volume	4260000.0
+C. W. Bill Young Regional Reservoir	volume	1.55E10
+Baslerweiher	volume	150000.0
+Canim Lake (British Columbia)	volume	4.7E9
+Moberly Lake (British Columbia)	volume	5.34E8
+Lake Hibara	volume	1.3E8
+Banbury Reservoir	volume	2.95E9
+Trübtensee	volume	1100000.0
+Sheksna Reservoir	volume	6.5E9
+Lockwood Reservoir	volume	2500000.0
+Lake Rotoroa, Waikato	volume	106.0
+High Maynard Reservoir	volume	680000.0
+Oaşa Dam	volume	1.36E8
+Brădişor Dam	volume	3.9E7
+Lotru-Ciunget Hydroelectric Power Station	volume	3.4E8
+Low Maynard Reservoir	volume	150000.0
+Jacqueline Kennedy Onassis Reservoir	volume	3800000.0
+Loch Raven Reservoir	volume	8.706447094E7
+East Warwick Reservoir	volume	960000.0
+West Warwick Reservoir	volume	800000.0
+Mars	volume	1.6318E9
+Mars	volume	0.151
+Gibson Lake (Indiana)	volume	2.6876423638E7
+Lake Hamana	volume	3.5E8
+Lake Kurwongbah	volume	1.45E7
+Leslie Dam	volume	1.062E8
+Atkinson Dam	volume	3.05E7
+Cressbrook Dam	volume	8.1842E7
+Cooby Dam	volume	2.3092E7
+Perseverance Dam	volume	3.014E7
+Borumba Dam	volume	4.6E7
+Fairbairn Dam	volume	1.301E9
+Fred Haigh Dam	volume	5.62E8
+Bjelke-Petersen Dam	volume	1.349E8
+Boondooma Dam	volume	2.042E8
+Wuruma Dam	volume	1.654E8
+Wappa Dam	volume	4610000.0
+Cooloolabin Dam	volume	1.36E7
+Gold Creek Dam	volume	1800000.0
+E.J. Beardmore Dam	volume	8.17E7
+Gordonbrook Dam	volume	6600000.0
+Bill Gunn Dam	volume	6940000.0
+Eungella Dam	volume	1.124E8
+Peter Faust Dam	volume	4.914E8
+Rifle Creek Dam	volume	9488000.0
+Lake Julius	volume	1.075E8
+Lake Clarendon	volume	2.433E7
+Lake Harku	volume	453600.0
+Ewen Maddock Dam	volume	1.67E7
+Baroon Pocket Dam	volume	6.1E7
+Cania Dam	volume	8.85E7
+Paluma Dam	volume	11800.0
+Splityard Creek Dam	volume	2.87E7
+Bromelton Offstream Storage	volume	8000000.0
+Cedar Grove Weir	volume	1040000.0
+Callide Dam	volume	1.363E8
+Theresa Creek Dam	volume	1.0E7
+Kinchant Dam	volume	6.28E7
+Teemburra Dam	volume	1.475E8
+Paradise Dam (Queensland)	volume	3.0E8
+Cedar Pocket Dam	volume	730000.0
+Kroombit Dam	volume	1.46E7
+Coolmunda Dam	volume	6.9E7
+Lake Manchester Dam	volume	2.6E7
+Six Mile Creek Dam	volume	8.0
+Boobir Dam	volume	179000.0
+Lenthalls Dam	volume	2.84E7
+Obersee (Arosa)	volume	500000.0
+McCauley Weir	volume	320000.0
+Lake Bonney (Antarctica)	volume	6.48E7
+Biggera Creek Dam	volume	3700000.0
+Ruieni Hydroelectric Power Station	volume	9.62E7
+Râul Mare Hydroelectric Power Station	volume	2.0E8
+Remeţi Hydroelectric Power Station	volume	1.12E8
+Mărişelu Hydroelectric Power Station	volume	2.56E8
+Lago del Zött	volume	1650000.0
+Wyaralong Dam	volume	1.03E8
+Lai da Ova Spin	volume	7400000.0
+Connolly Dam	volume	2592000.0
+Southedge Dam	volume	1.29E8
+Ben Anderson Barrage	volume	3.03E7
+Manyuchi Dam	volume	303.0
+Placer Dam	volume	136000.0
+Lake Belmore	volume	5800000.0
+Phewa Lake	volume	4.6E7
+Bortelsee	volume	3660000.0
+Wild River Dam	volume	260000.0
+Return Creek Dam	volume	6790000.0
+King George VI Reservoir	volume	1.587949237E7
+Husemersee	volume	500000.0
+Chadwick Lake	volume	2316672.00936
+Stausee Mapragg	volume	5300000.0
+Albysjön (Botkyrka)	volume	9.7E9
+Albysjön (Tyresö)	volume	0.79
+Ågestasjön	volume	320000.0
+Orlången	volume	1.23E7
+Mörtsjön	volume	281000.0
+Grändalssjön	volume	3.8E8
+Lake of Bays (Ontario)	volume	1.567519824E9
+Fatburen	volume	8.95E8
+Lake Sélingué	volume	2.166E12
+Lake Manantali	volume	1.13E10
+Little Seneca Lake	volume	1.6088000065E7
+Morávka Dam	volume	500000.0
+Rocky Gorge Reservoir	volume	2.081976479E7
+Triadelphia Reservoir	volume	2.3469553036E7
+Puslinch Lake	volume	2270000.0
+Lake Burrumbeet	volume	3.8E7
+Charvak Lake	volume	2.0E9
+Zaovine Lake	volume	1.5E7
+Lago di Alserio	volume	6650000.0
+Roadford Lake	volume	3.45E7
+Lake Ikeda	volume	1.47E9
+Lake Pichola	volume	13.08
+Fateh Sagar Lake	volume	2100000.0
+Spelga Reservoir	volume	2727654.0
+Lac d'Apremont	volume	3800000.0
+Bang Lang Reservoir	volume	1420.0
+Aliyar Reservoir	volume	1.09416297E8
+Lake Musters and Lake Colhue Huapi	volume	8.28E9
+Lake Musters and Lake Colhue Huapi  Lake Colhué Huapi   1	volume	1.62E9
+Övre Rudasjön	volume	0.386
+Lake Sarysu	volume	6.0E7
+Khar-Us Nuur	volume	3.432E9
+Lake Boyukshor	volume	4.5E7
+DOS-2	volume	100.0
+Nehoiaşu Hydro Power Plant	volume	500000.0
+Zavoj Lake	volume	1.7E8
+Lac Vert (Passy)	volume	28000.0
+Nizhnekamsk Reservoir	volume	2.8E9
+Karabash Reservoir	volume	5.23E7
+Lake Hamrin	volume	2.0E9
+Achensee	volume	4.81E8
+Walchensee	volume	1.324E9
+Chabařovice Lake	volume	3.5E7
+Lac de Vassivière	volume	1.06E8
+Llanishen Reservoir	volume	1440909.0
+Lake Timsah	volume	8.0E7
+Lac de Montriond	volume	2700000.0
+Lac d'Aiguebelette	volume	1.66E8
+Lac d'Anterne	volume	760000.0
+Lake Tshangalele	volume	1.063E12
+Frying Pan Lake	volume	200000.0
+Kama Reservoir	volume	1.22E10
+Votkinsk Reservoir	volume	9.4E9
+Argazi Reservoir	volume	6.5E8
+Grimwith Reservoir	volume	2.1772E7
+Neptune	volume	6.254E9
+Neptune	volume	57.74
+Kangaroo Creek Reservoir	volume	19160.0
+Lac de Chermignon	volume	130000.0
+Lake Leake, Tasmania  Lake Leake   1	volume	22.076
+Lake Sagami	volume	6.32E7
+Tooms Lake, Tasmania  Tooms Lake   1	volume	25.362
+Silver Lake Reservoir	volume	3000000.0
+Manasbal Lake	volume	1.28E7
+Caspian Sea	volume	6.94E13
+Embsay Reservoir	volume	795000.0
+Lake Kussharo	volume	2.25E9
+Hesaraghatta Lake	volume	2.824E7
+Lake of Sainte-Croix	volume	7.6E8
+Big Jažinačko Lake	volume	500.0
+Futalaufquen Lake	volume	4.51E18
+Grindstone Lake	volume	92111.0
+Chogray Reservoir	volume	0.7
+Morris Lake (Nova Scotia)	volume	5920000.0
+Russell Lake (Nova Scotia)	volume	1290000.0
+Lake Saroma	volume	1.3E9
+Volgograd Reservoir	volume	3.15E10
+Ross Creek Reservoir	volume	162000.0
+Loch Ness	volume	7.4E9
+Godley Reservoir	volume	2.8E8
+Berijam Lake	volume	2180000.0
+Lake Miyagase	volume	1.93E8
+Clatworthy Reservoir	volume	5.364E9
+Topolnitsa Reservoir	volume	1.37E8
+Lake Büyükçekmece	volume	1.6161E10
+Koprinka Reservoir	volume	1.4E8
+Straussee	volume	1.348E7
+Delsjön	volume	1.21E7
+Weitsee	volume	2217000.0
+Maschsee	volume	160000.0
+Windebyer Noor	volume	2.5E7
+Abtsdorfer See	volume	9423000.0
+Großer Arbersee	volume	450000.0
+Kleiner Arbersee	volume	250000.0
+Rachelsee	volume	180000.0
+Haddebyer Noor	volume	2951000.0
+Speicherbecken Lohsa	volume	9.7E7
+Haselbacher See	volume	2.38E7
+Maltby Lake	volume	292000.0
+Osterseen	volume	2.09751E7
+Bärwalder See	volume	1.74E8
+Eibsee	volume	2.161E7
+Kulkwitzer See	volume	2.68E7
+Werbeliner See	volume	4.3E7
+Pilsensee	volume	1.8095E7
+Werbellinsee	volume	1.73E8
+Rampart Reservoir	volume	4.921035314E7
+Funtensee	volume	100000.0
+Simssee	volume	8700000.0
+Hopfensee	volume	8980000.0
+Bannwaldsee	volume	1.409E7
+Weißensee (Füssen)	volume	1.652E7
+Großer Alpsee	volume	3.268E7
+Barmsee	volume	9070000.0
+Kummerower See	volume	3.0E8
+Belauer See	volume	1.018E7
+Alatsee	volume	1840000.0
+Goldberger See	volume	1.628E7
+Barniner See	volume	5430000.0
+Neumühler See	volume	1.355E7
+Hainer See	volume	7.3E7
+Putzarer See	volume	730000.0
+Lieps	volume	9700000.0
+Bothkamper See	volume	2000000.0
+Soinsee	volume	208000.0
+Großer Auesee	volume	135000.0
+Grüner See (Lower Saxony)	volume	1000.0
+Lankower See (Schwerin)	volume	2800000.0
+Grünsee (Berchtesgadener Land)	volume	204000.0
+Orankesee	volume	106050.0
+Schladitzer See	volume	2.5E7
+Salzgittersee	volume	1875000.0
+Ziegeleisee	volume	294650.0
+Flughafensee	volume	3610000.0
+Ziegelsee	volume	3.0E7
+Neustädter See	volume	8950000.0
+Medeweger See	volume	1.016E7
+Franzosenwoog	volume	7600.0
+Spitzingsee	volume	2049000.0
+Parumer See	volume	3990000.0
+Neustädter Binnenwasser	volume	1.35
+Arkenberger Baggersee	volume	409151.0
+Kuhgrabensee	volume	1800000.0
+Schwansee	volume	580000.0
+Niedersonthofener See	volume	1.35E7
+Parsteiner See	volume	7.7E7
+Öjendorfer See	volume	17474.0
+Zeuthener See	volume	5840000.0
+Großer Plessower See	volume	2.0E7
+Borkener See	volume	3.5E7
+Wolziger See	volume	3.2E7
+Wockersee	volume	2260000.0
+Schöhsee	volume	8500000.0
+Bordesholmer See	volume	2230000.0
+Woseriner See	volume	1.967E7
+Brautsee	volume	111000.0
+Selker Noor	volume	1737000.0
+Hohen Sprenzer See	volume	1.578E7
+Woezer See	volume	610000.0
+Großer Wostevitzer Teich	volume	710000.0
+Käbelicksee	volume	8900000.0
+Strines Reservoir	volume	2058924.161
+Lac de Gérardmer	volume	1.951E7
+Lac de Grangent	volume	6.6E7
+Lac du Chambon	volume	5.4E7
+Lac de Madine	volume	3.5E7
+Lac de Saint-Cassien	volume	6.0E7
+Lac de Pannecière	volume	8.25E7
+Lac des Settons	volume	1.95E7
+Lac du Bourdon	volume	9300000.0
+Lac de Castillon	volume	1.5E8
+Lac de Mondély	volume	4000000.0
+Lac d'Izourt	volume	7900000.0
+Lac de Gnioure	volume	2.84E7
+Lac d'Alfeld	volume	1020000.0
+Lac de Naussac	volume	1.9E8
+Lac du Crescent	volume	1.425E7
+Lac de Chaumeçon	volume	1.9E7
+Lac d'Esparron	volume	8.0E7
+Étangs de Vaux et de Baye	volume	6630000.0
+Lake Băneasa	volume	630000.0
+Lago Ampollino	volume	6.8E7
+Lago di Pontesei	volume	62750.0
+Lago della Piastra	volume	1.2E10
+Druid Lake	volume	96627.0
+Lago Arancio	volume	3.2E7
+Lago del Chiotas	volume	2.73E10
+Lago della Rovina	volume	1.2E9
+Lago di Santa Rosalia	volume	2.47E7
+Lake Calibato	volume	29600.0
+Lakes Pandin and Yambo	volume	6600.0
+Aasee (Bocholt)	volume	1400000.0
+Weißer See (Berlin)	volume	360606.0
+Nyskie Lake	volume	1.24E8
+John Redmond Dam and Reservoir	volume	6.0E7
+Lake Magenta	volume	1540000.0
+Solar Lake	volume	10244.0
+Antholzer See	volume	1.1E7
+Durnholzer See	volume	744000.0
+Haidersee	volume	6000000.0
+Kalterer See	volume	6000000.0
+Montiggler Seen	volume	1490000.0
+Lake Kepwari	volume	3.0E7
+Pragser Wildsee	volume	5300000.0
+Toblacher See	volume	286000.0
+Lake Tanuki	volume	1200000.0
+Colbún Lake	volume	1490000.0
+Svitiaz	volume	1.8E8
+Lake Abashiri	volume	2.327E8
+Bradley Lake (Oregon)	volume	655963.0
+Lake Akan	volume	2.3E8
+Lake Coghinas	volume	2.54E8
+Khar Nuur (Khovd)	volume	2.422E9
+Zlatar Lake	volume	1.65E9
+Vättern	volume	7.7E10
+Clarrie Hall Dam	volume	1.6E7
+Toonumbar Dam	volume	1.1E7
+Khyargas Nuur	volume	6.6034E10
+Lake Chinancocha	volume	1.1443E7
+Kabinakagami Lake	volume	3.5776524E8
+Aishihik Lake	volume	4.0
+Lake Amara (Ialomiţa County)	volume	2600000.0
+Lake Omodeo	volume	7.48E8
+Buffalo Pound Lake	volume	0.0898
+Lake Albacutya	volume	2.3E8
+Bassin de Saint-Ferréol	volume	6300000.0
+San Vicente Reservoir	volume	1.110332784E8
+Lake Liscia	volume	1.05E8
+Phu Ninh Lake	volume	3.44E8
+Liujiaxia Reservoir	volume	4.24E9
+Lake Moomaw	volume	4.0E10
+Lake Guinas	volume	693000.0
+Otjikoto Lake	volume	229500.0
+Lake Leśnia	volume	1.5E7
+Lake Ogawara	volume	7.14E8
+Newark Reservoir	volume	3.18E8
+Lake Ptuj	volume	2.0E7
+Lake Palčje	volume	1.0
+Lake Aurora	volume	7.97087472E8
+Lake San Cristobal	volume	1.4E7
+Lake Bagsværd	volume	2400000.0
+Lake Verevi	volume	453600.0
+Loch Sgadabhagh	volume	1.1836442E7
+Spring Hollow Reservoir	volume	3.3E9
+Chagan Lake (China)	volume	7.0E8
+Hálslón Reservoir	volume	2.1E9
+Atwood Lake	volume	23600.0
+Hope Valley Reservoir	volume	2840.0
+Leesville Lake (Ohio)	volume	19500.0
+Vanajavesi	volume	9.52E11
+Toisvesi	volume	5.29E11
+Kyrösjärvi	volume	1.02E9
+Suontee	volume	7.0E8
+Miguel Alemán Lake	volume	6.77E9
+Ward's Reservoir	volume	150000.0
+Water resources management in Nicaragua  Lake Nicaragua   1	volume	1.08E11
+Little Para Reservoir	volume	20800.0
+Lake Muhazi	volume	3.3E8
+Lake Harney	volume	1.4465351103E10
+Staunton Harold Reservoir	volume	1400.0
+Lake Kununurra	volume	9.0E7
+Lake Cerrillos	volume	47900.0
+Lake Plastiras	volume	4.0E7
+Attabad Lake	volume	26.0
+Upper Stillwater Reservoir	volume	3.0
+Slezská Harta Dam	volume	218.0
+Lake Chala	volume	3.4E8
+Lake Okabena	volume	2.2446468E8
+Bigelow Commercial Space Station	volume	1500.0
+Bigelow Commercial Space Station  .jpg   1	volume	690.0
+Bigelow Commercial Space Station  Complex Bravo Model.jpg   1	volume	1320.0
+Vombsjön	volume	7.8274E10
+Zainsk Reservoir	volume	5.23E7
+Black Moss Reservoirs	volume	204568.0
+Lower Ogden Reservoir	volume	715989.0
+Upper Ogden Reservoir	volume	247755.0
+Léré Lake	volume	1.6E8
+Lake Tõhela	volume	5295000.0
+Lake Koosa	volume	3540000.0
+Lake Aheru	volume	7956000.0
+Lake Jaala	volume	940800.0
+Lake Käsmu	volume	860000.0
+Lake Kavadi	volume	959000.0
+Lake Murati	volume	2394000.0
+Lake Vanamõisa	volume	429600.0
+Lake Vissi	volume	125000.0
+Boyuk Alagol	volume	24.3
+Orto-Tokoy Reservoir	volume	4.7E8
+Åresjön	volume	6.1275E10
+Lake Hancock	volume	1.9356996839559186E7
+Crooked Lake (Florida)	volume	2.1649953572E10
+Nydalasjön	volume	4.784E9
+Durgam Cheruvu	volume	1679430.0
+Lake Ağgöl	volume	4.47E7
+Shamkir reservoir	volume	2677.0
+Lake Kezanoiam	volume	1.6E9
+Agstafachay reservoir	volume	1.2E8
+Khanbulanchay reservoir	volume	5.2E7
+Yenikend reservoir	volume	1.58E8
+BA 2100	volume	2100.0
+Jeyranbatan reservoir	volume	1.86E8
+Orbital Technologies Commercial Space Station	volume	20.0
+Chard Reservoir	volume	795000.0
+Hawkridge Reservoir	volume	8.64E8
+Sutton Bingham Reservoir	volume	2614.0
+Lake Burton, Antarctica	volume	9690000.0
+Pipmuacan Reservoir	volume	1.39E10
+Lake Namakagon	volume	52032.0
+Xinfengjiang Reservoir	volume	1.398E10
+Budaki Lagoon	volume	3.874E8
+Harrisville Pond	volume	6.745E8
+Ticha Reservoir	volume	3.118E8
+Lake Hindmarsh	volume	3.78E8
+Minster Pool	volume	28000.0
+Little Langdale  Tarn   1	volume	200.0
+Waskerley Reservoir	volume	2000000.0
+Smiddy Shaw Reservoir	volume	1350000.0
+Jiangkou Reservoir	volume	497000.0
+Lake Bridgeport (Texas)	volume	366236.0
+Stithians Reservoir	volume	5205.0
+Sanabria Lake	volume	9.6289887E7
+Chatuge Lake	volume	740089.0
+Yen Lap Lake	volume	2.26E8
+Shadow Mountain Lake	volume	16848.0
+Martnaham Loch	volume	4.7E7
+Laanecoorie Weir	volume	1.83E7
+Lake Cachí	volume	5.1E7
+Gravelly Lake	volume	2.024904416E8

@@ -1,0 +1,45 @@
+Northrop Grumman B-2 Spirit	programCost	4.475E10
+Concorde	programCost	1.3E9
+Bell-Boeing V-22 Osprey	programCost	2.7E10
+Lockheed Martin F-22 Raptor	programCost	6.5E10
+North American XB-70 Valkyrie	programCost	1.5E9
+McDonnell XF-88 Voodoo	programCost	6600000.0
+Dassault Rafale	programCost	3.96E10
+Northrop F-20 Tigershark	programCost	1.2E9
+Convair YB-60	programCost	1.43E7
+Skylon (spacecraft)	programCost	7.1E9
+Curtiss-Wright XF-87 Blackhawk	programCost	1.13E7
+Northrop YB-35	programCost	6.6E7
+McDonnell Douglas A-12 Avenger II	programCost	5.7E10
+HAL Tejas	programCost	1.2E9
+North American XF-108 Rapier	programCost	1.419E8
+Sukhoi Superjet 100	programCost	1.4E9
+Tupolev Tu-334	programCost	1.0E9
+AgustaWestland Apache	programCost	4.1E9
+Republic XF-103	programCost	1.04E8
+Antonov An-148	programCost	4.0E8
+Lockheed P-7	programCost	9.15E8
+Curtiss P-60	programCost	8880000.0
+Fisher P-75 Eagle	programCost	5.012E7
+Irkut MS-21	programCost	8.0E9
+Sukhoi PAK FA	programCost	8.0
+Hall XPTBH	programCost	309000.0
+Bell YFM-1 Airacuda	programCost	3600000.0
+Northrop Grumman Switchblade	programCost	1.03E7
+BAE Taranis	programCost	1.43E8
+UAC/HAL Il-214	programCost	6.0E8
+Fairchild Dornier 428JET	programCost	1.5E8
+General Atomics MQ-1C Grey Eagle	programCost	1.0E9
+TAI Anka	programCost	1.07E8
+Boeing TB	programCost	199000.0
+Helwan HA-300	programCost	1.35E8
+PIK-26	programCost	12000.0
+Sukhoi/HAL FGFA	programCost	8.0
+Platt-LePage XR-1	programCost	500000.0
+Piasecki PA-97	programCost	4.0E7
+Gloster VI	programCost	25000.0
+General Dynamics F-111C	programCost	2.3775E8
+De Bothezat helicopter	programCost	200000.0
+UTIAS Snowbird	programCost	200000.0
+Solar-Powered Aircraft Developments Solar One	programCost	16000.0
+Church Midwing JC-1	programCost	890.0

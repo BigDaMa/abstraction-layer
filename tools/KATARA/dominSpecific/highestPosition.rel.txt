@@ -1,0 +1,979 @@
+Alps	highestPosition	Alps  highestPosition  1
+Andes	highestPosition	Andes  highestPosition  1
+Azores	highestPosition	Azores  highestPosition  1
+Ceuta	highestPosition	Ceuta  highestPosition  1
+Kalahari Desert	highestPosition	Kalahari Desert  highestPosition  1
+Pyrenees	highestPosition	Pyrenees  highestPosition  1
+Rocky Mountains	highestPosition	Rocky Mountains  highestPosition  1
+Sudetes	highestPosition	Sudetes  highestPosition  1
+Snowy Mountains	highestPosition	Snowy Mountains  highestPosition  1
+Snowdonia	highestPosition	Snowdonia  highestPosition  1
+Himalayas	highestPosition	Himalayas  highestPosition  1
+San Juan Mountains	highestPosition	San Juan Mountains  highestPosition  1
+Hindu Kush	highestPosition	Hindu Kush  ighestPosition  1
+Atlas Mountains	highestPosition	Atlas Mountains  highestPosition  1
+Sierra Nevada (U.S.)	highestPosition	Sierra Nevada (U.S.)  highestPosition  1
+Albany County, New York	highestPosition	Albany County, New York  highestPosition  1
+Albany, New York	highestPosition	Albany, New York  highestPosition  1
+Sangre de Cristo Range	highestPosition	Sangre de Cristo Range  highestPosition  1
+Rensselaer County, New York	highestPosition	Rensselaer County, New York  highestPosition  1
+Adirondack Mountains	highestPosition	Adirondack Mountains  highestPosition  1
+Great Dividing Range	highestPosition	Great Dividing Range  highestPosition  1
+Albula Alps	highestPosition	Albula Alps  highestPosition  1
+Lepontine Alps	highestPosition	Lepontine Alps  highestPosition  1
+Dauphiné Alps	highestPosition	Dauphiné Alps  highestPosition  1
+Dolomites	highestPosition	Dolomites  highestPosition  1
+Cottian Alps	highestPosition	Cottian Alps  highestPosition  1
+Pennine Alps	highestPosition	Pennine Alps  highestPosition  1
+Bernese Alps	highestPosition	Bernese Alps  highestPosition  1
+Maritime Alps	highestPosition	Maritime Alps  highestPosition  1
+Glarus Alps	highestPosition	Glarus Alps  highestPosition  1
+Graian Alps	highestPosition	Graian Alps  highestPosition  1
+Cascade Range	highestPosition	Cascade Range  highestPosition  1
+Porto	highestPosition	Porto  highestPosition  1
+Downers Grove, Illinois	highestPosition	Downers Grove, Illinois  highestPosition  1
+Cohoes, New York	highestPosition	Cohoes, New York  highestPosition  1
+Fleischmanns, New York	highestPosition	Fleischmanns, New York  highestPosition  1
+Margaretville, New York	highestPosition	Margaretville, New York  highestPosition  1
+Millbrook, New York	highestPosition	Millbrook, New York  highestPosition  1
+Tivoli, New York	highestPosition	Tivoli, New York  highestPosition  1
+Middleport, New York	highestPosition	Middleport, New York  highestPosition  1
+Cornwall, New York	highestPosition	Cornwall, New York  highestPosition  1
+Maybrook, New York	highestPosition	Maybrook, New York  highestPosition  1
+Middletown, Orange County, New York	highestPosition	Middletown, Orange County, New York  highestPosition  1
+Woodbury, Orange County, New York	highestPosition	Woodbury, Orange County, New York  highestPosition  1
+Medina, New York	highestPosition	Medina, New York  highestPosition  1
+Patterson, New York	highestPosition	Patterson, New York  highestPosition  1
+Hoosick Falls, New York	highestPosition	Hoosick Falls, New York  highestPosition  1
+Woodridge, New York	highestPosition	Woodridge, New York  highestPosition  1
+Denning, New York	highestPosition	Denning, New York  highestPosition  1
+Scandinavian Mountains	highestPosition	Scandinavian Mountains  highestPosition  1
+Wayne National Forest	highestPosition	Wayne National Forest  highestPosition  1
+White Mountains (New Hampshire)	highestPosition	White Mountains (New Hampshire)  highestPosition  1
+Coast Mountains	highestPosition	Coast Mountains  highestPosition  1
+Bregenzerwald	highestPosition	Bregenzerwald  highestPosition  1
+Ore Mountains	highestPosition	Ore Mountains  highestPosition  1
+Arabian Desert	highestPosition	Arabian Desert  highestPosition  1
+Apennine Mountains	highestPosition	Apennine Mountains  highestPosition  1
+Santa Cruz Mountains	highestPosition	Santa Cruz Mountains  highestPosition  1
+Tian Shan	highestPosition	Tian Shan  highestPosition  1
+Olympic Mountains	highestPosition	Olympic Mountains  highestPosition  1
+Karakoram	highestPosition	Karakoram  highestPosition  1
+Brooks Range	highestPosition	Brooks Range  highestPosition  1
+Great Basin	highestPosition	Great Basin  highestPosition  1
+Caucasus Mountains	highestPosition	Caucasus Mountains  highestPosition  1
+Julian Alps	highestPosition	Julian Alps  highestPosition  1
+Alaska Range	highestPosition	Alaska Range  highestPosition  1
+Aleutian Range	highestPosition	Aleutian Range  highestPosition  1
+Chugach Mountains	highestPosition	Chugach Mountains  highestPosition  1
+Waterbury, Connecticut	highestPosition	Waterbury, Connecticut  highestPosition  1
+Albion (village), New York	highestPosition	Albion (village), New York  highestPosition  1
+Litchfield (borough), Connecticut	highestPosition	Litchfield (borough), Connecticut  highestPosition  1
+Pawling (town), New York	highestPosition	Pawling (town), New York  highestPosition  1
+Poughkeepsie, New York	highestPosition	Poughkeepsie, New York  highestPosition  1
+Bergen (village), New York	highestPosition	Bergen (village), New York  highestPosition  1
+Le Roy (village), New York	highestPosition	Le Roy (village), New York  highestPosition  1
+Chester (village), New York	highestPosition	Chester (village), New York  highestPosition  1
+Monroe (village), New York	highestPosition	Monroe (village), New York  highestPosition  1
+Montgomery (town), New York	highestPosition	Montgomery (town), New York  highestPosition  1
+Montgomery (village), New York	highestPosition	Montgomery (village), New York  highestPosition  1
+Cohocton (village), New York	highestPosition	Cohocton (village), New York  highestPosition  1
+Exmoor	highestPosition	Exmoor  highestPosition  1
+Mendip Hills	highestPosition	Mendip Hills  highestPosition  1
+Pico Island	highestPosition	Pico Island  highestPosition  1
+Rhodope Mountains	highestPosition	Rhodope Mountains  highestPosition  1
+Dinaric Alps	highestPosition	Dinaric Alps  highestPosition  1
+Absaroka Range	highestPosition	Absaroka Range  highestPosition  1
+Rätikon	highestPosition	Rätikon  highestPosition  1
+Silvretta Alps	highestPosition	Silvretta Alps  highestPosition  1
+Texas Panhandle	highestPosition	Texas Panhandle  highestPosition  1
+Mono–Inyo Craters	highestPosition	Mono–Inyo Craters  highestPosition  1
+Sahara	highestPosition	Sahara  highestPosition  1
+Presidential Range	highestPosition	Presidential Range  highestPosition  1
+White Mountains (California)	highestPosition	White Mountains (California)  highestPosition  1
+White Mountains (Arizona)	highestPosition	White Mountains (Arizona)  highestPosition  1
+Great Barrington, Massachusetts	highestPosition	Great Barrington, Massachusetts  highestPosition  1
+St. Francois Mountains	highestPosition	St. Francois Mountains  highestPosition  1
+Canadian Rockies	highestPosition	Canadian Rockies  highestPosition  1
+Balkan Mountains	highestPosition	Balkan Mountains  highestPosition  1
+Berlengas	highestPosition	Berlengas  highestPosition  1
+Picos de Europa	highestPosition	Picos de Europa  highestPosition  1
+Massif Central	highestPosition	Massif Central  highestPosition  1
+Corvo Island	highestPosition	Corvo Island  highestPosition  1
+São Miguel Island	highestPosition	São Miguel Island  highestPosition  1
+Flores Island (Azores)	highestPosition	Flores Island (Azores)  highestPosition  1
+Penteliko Mountain	highestPosition	Penteliko Mountain  highestPosition  1
+Cévennes	highestPosition	Cévennes  highestPosition  1
+The Berkshires	highestPosition	The Berkshires  highestPosition  1
+Maya Mountains	highestPosition	Maya Mountains  highestPosition  1
+Blue Ridge Mountains	highestPosition	Blue Ridge Mountains  highestPosition  1
+Front Range	highestPosition	Front Range  highestPosition  1
+Wrangell Mountains	highestPosition	Wrangell Mountains  highestPosition  1
+Catskill Mountains	highestPosition	Catskill Mountains  highestPosition  1
+Big Horn Mountains	highestPosition	Big Horn Mountains  highestPosition  1
+Capital District	highestPosition	Capital District  highestPosition  1
+Karavanke	highestPosition	Karavanke  highestPosition  1
+Kamnik–Savinja Alps	highestPosition	Kamnik–Savinja Alps  highestPosition  1
+Pamir Mountains	highestPosition	Pamir Mountains  highestPosition  1
+Allegheny Mountains	highestPosition	Allegheny Mountains  highestPosition  1
+Wicklow Mountains	highestPosition	Wicklow Mountains  highestPosition  1
+Wind River Range	highestPosition	Wind River Range  highestPosition  1
+Adirondack Park	highestPosition	Adirondack Park  highestPosition  1
+Catskill Park	highestPosition	Catskill Park  highestPosition  1
+Ahaggar Mountains	highestPosition	Ahaggar Mountains  highestPosition  1
+Watchung Mountains	highestPosition	Watchung Mountains  highestPosition  1
+Sandia Mountains	highestPosition	Sandia Mountains  highestPosition  1
+Sir Winston Churchill Range	highestPosition	Sir Winston Churchill Range  highestPosition  1
+Elbe Sandstone Mountains	highestPosition	Elbe Sandstone Mountains  highestPosition  1
+Great Smoky Mountains	highestPosition	Great Smoky Mountains  highestPosition  1
+Ellsworth Mountains	highestPosition	Ellsworth Mountains  highestPosition  1
+Saint Elias Mountains	highestPosition	Saint Elias Mountains  highestPosition  1
+United States Range	highestPosition	United States Range  highestPosition  1
+Sawatch Range	highestPosition	Sawatch Range  highestPosition  1
+Terceira Island	highestPosition	Terceira Island  highestPosition  1
+Marrah Mountains	highestPosition	Marrah Mountains  highestPosition  1
+Backbone Mountain	highestPosition	Backbone Mountain  highestPosition  1
+Nipesotsu-Maruyama Volcanic Group	highestPosition	Nipesotsu-Maruyama Volcanic Group  highestPosition  1
+Teton Range	highestPosition	Teton Range  highestPosition  1
+Wallowa Mountains	highestPosition	Wallowa Mountains  highestPosition  1
+Torngat Mountains	highestPosition	Torngat Mountains  highestPosition  1
+Fairholme Range	highestPosition	Fairholme Range  highestPosition  1
+Ball Range	highestPosition	Ball Range  highestPosition  1
+Kananaskis Range	highestPosition	Kananaskis Range  highestPosition  1
+San Bernardino Mountains	highestPosition	San Bernardino Mountains  highestPosition  1
+Inyo Mountains	highestPosition	Inyo Mountains  highestPosition  1
+Porto Santo Island	highestPosition	Porto Santo Island  highestPosition  1
+Calapooya Mountains	highestPosition	Calapooya Mountains  highestPosition  1
+Huron Mountains	highestPosition	Huron Mountains  highestPosition  1
+Formigas	highestPosition	Formigas  highestPosition  1
+Pangaion Hills	highestPosition	Pangaion Hills  highestPosition  1
+Pirin	highestPosition	Pirin  highestPosition  1
+Kitzbühel Alps	highestPosition	Kitzbühel Alps  highestPosition  1
+Satpura Range	highestPosition	Satpura Range  highestPosition  1
+Vindhya Range	highestPosition	Vindhya Range  highestPosition  1
+Cordillera del Paine	highestPosition	Cordillera del Paine  highestPosition  1
+Sangre de Cristo Mountains	highestPosition	Sangre de Cristo Mountains  highestPosition  1
+Cordillera Huayhuash	highestPosition	Cordillera Huayhuash  ighestPosition  1
+Aravalli Range	highestPosition	Aravalli Range  highestPosition  1
+Serra da Estrela	highestPosition	Serra da Estrela  highestPosition  1
+Toiyabe Range	highestPosition	Toiyabe Range  highestPosition  1
+Ötztal Alps	highestPosition	Ötztal Alps  highestPosition  1
+Stubai Alps	highestPosition	Stubai Alps  highestPosition  1
+Monongahela National Forest	highestPosition	Monongahela National Forest  highestPosition  1
+Chiricahua Mountains	highestPosition	Chiricahua Mountains  highestPosition  1
+Avra Valley	highestPosition	Avra Valley  highestPosition  1
+Allegheny Front	highestPosition	Allegheny Front  highestPosition  1
+Dolly Sods Wilderness	highestPosition	Dolly Sods Wilderness  highestPosition  1
+McPherson Range	highestPosition	McPherson Range  highestPosition  1
+French Alps	highestPosition	French Alps  highestPosition  1
+Transantarctic Mountains	highestPosition	Transantarctic Mountains  highestPosition  1
+Świętokrzyskie Mountains	highestPosition	Świętokrzyskie Mountains  highestPosition  1
+Massif des Écrins	highestPosition	Massif des Écrins  highestPosition  1
+Shawangunk Ridge	highestPosition	Shawangunk Ridge  highestPosition  1
+Praia da Vitória	highestPosition	Praia da Vitória  highestPosition  1
+British Empire Range	highestPosition	British Empire Range  highestPosition  1
+Garibaldi Volcanic Belt	highestPosition	Garibaldi Volcanic Belt  highestPosition  1
+Wenatchee Mountains	highestPosition	Wenatchee Mountains  highestPosition  1
+Chiwaukum Mountains	highestPosition	Chiwaukum Mountains  highestPosition  1
+Vila do Porto (Azores)	highestPosition	Vila do Porto (Azores)  highestPosition  1
+Vienna Woods	highestPosition	Vienna Woods  highestPosition  1
+Arrochar Alps	highestPosition	Arrochar Alps  highestPosition  1
+Qinling Mountains	highestPosition	Qinling Mountains  highestPosition  1
+Brazilian Highlands	highestPosition	Brazilian Highlands  highestPosition  1
+Sierra de Gata	highestPosition	Sierra de Gata  highestPosition  1
+Sete Cidades (Ponta Delgada)	highestPosition	Sete Cidades (Ponta Delgada)  highestPosition  1
+Admiralty Mountains	highestPosition	Admiralty Mountains  highestPosition  1
+Angra do Heroísmo	highestPosition	Angra do Heroísmo  highestPosition  1
+Bitterroot Mountains	highestPosition	Bitterroot Mountains  highestPosition  1
+Bitterroot Mountains  Northern Bitterroot Range   1	highestPosition	Bitterroot Mountains  Northern Bitterroot Range   1  highestPosition  1
+Bitterroot Mountains  Central Bitterroot Range   1	highestPosition	Bitterroot Mountains  Central Bitterroot Range   1  highestPosition  1
+Sentinel Range	highestPosition	Sentinel Range  highestPosition  1
+Praia (Santa Cruz da Graciosa)	highestPosition	Praia (Santa Cruz da Graciosa)  highestPosition  1
+Santa Cruz da Graciosa (Azores)	highestPosition	Santa Cruz da Graciosa (Azores)  highestPosition  1
+Karwendel	highestPosition	Karwendel  highestPosition  1
+Guadalupe (Santa Cruz da Graciosa)	highestPosition	Guadalupe (Santa Cruz da Graciosa)  highestPosition  1
+Luz (Santa Cruz da Graciosa)	highestPosition	Luz (Santa Cruz da Graciosa)  highestPosition  1
+Manadas	highestPosition	Manadas  highestPosition  1
+Velas (Azores)	highestPosition	Velas (Azores)  highestPosition  1
+Norte Grande (Azores)	highestPosition	Norte Grande (Azores)  highestPosition  1
+Rosais	highestPosition	Rosais  highestPosition  1
+Santo Amaro (Velas)	highestPosition	Santo Amaro (Velas)  highestPosition  1
+Urzelina	highestPosition	Urzelina  highestPosition  1
+São Mateus (Madalena)	highestPosition	São Mateus (Madalena)  highestPosition  1
+São Jorge Island	highestPosition	São Jorge Island  highestPosition  1
+Calheta (Azores)	highestPosition	Calheta (Azores)  highestPosition  1
+Norte Pequeno	highestPosition	Norte Pequeno  highestPosition  1
+Ribeira Seca (Calheta)	highestPosition	Ribeira Seca (Calheta)  highestPosition  1
+Santo Antão (Calheta)	highestPosition	Santo Antão (Calheta)  highestPosition  1
+Topo (Calheta)	highestPosition	Topo (Calheta)  highestPosition  1
+Nossa Senhora do Rosário	highestPosition	Nossa Senhora do Rosário  highestPosition  1
+Calheta, Madeira	highestPosition	Calheta, Madeira  highestPosition  1
+Vila do Corvo (Azores)	highestPosition	Vila do Corvo (Azores)  highestPosition  1
+Santa Cruz das Flores (Azores)	highestPosition	Santa Cruz das Flores (Azores)  highestPosition  1
+Caveira	highestPosition	Caveira  highestPosition  1
+Cedros (Santa Cruz das Flores)	highestPosition	Cedros (Santa Cruz das Flores)  highestPosition  1
+Ponta Delgada, Santa Cruz das Flores	highestPosition	Ponta Delgada, Santa Cruz das Flores  highestPosition  1
+Lajes das Flores (Azores)	highestPosition	Lajes das Flores (Azores)  highestPosition  1
+Fajã Grande	highestPosition	Fajã Grande  highestPosition  1
+Lajedo (Lajes das Flores)	highestPosition	Lajedo (Lajes das Flores)  highestPosition  1
+Sierra Madre Occidental	highestPosition	Sierra Madre Occidental  highestPosition  1
+Sierra Madre Oriental	highestPosition	Sierra Madre Oriental  highestPosition  1
+Lomba (Lajes das Flores)	highestPosition	Lomba (Lajes das Flores)  highestPosition  1
+Fajãzinha	highestPosition	Fajãzinha  highestPosition  1
+Fazenda (Lajes das Flores)	highestPosition	Fazenda (Lajes das Flores)  highestPosition  1
+Mosteiro (Lajes das Flores)	highestPosition	Mosteiro (Lajes das Flores)  highestPosition  1
+Wichita Mountains	highestPosition	Wichita Mountains  highestPosition  1
+Horta (Azores)	highestPosition	Horta (Azores)  highestPosition  1
+Faial Island	highestPosition	Faial Island  highestPosition  1
+Royal Society Range	highestPosition	Royal Society Range  highestPosition  1
+Selkirk Mountains	highestPosition	Selkirk Mountains  highestPosition  1
+Angústias	highestPosition	Angústias  highestPosition  1
+Castelo Branco (Horta)	highestPosition	Castelo Branco (Horta)  highestPosition  1
+Capelo	highestPosition	Capelo  highestPosition  1
+Conceição (Horta)	highestPosition	Conceição (Horta)  highestPosition  1
+Cedros (Horta)	highestPosition	Cedros (Horta)  highestPosition  1
+Flamengos	highestPosition	Flamengos  highestPosition  1
+Pedro Miguel	highestPosition	Pedro Miguel  highestPosition  1
+Feteira (Horta)	highestPosition	Feteira (Horta)  highestPosition  1
+Matriz (Horta)	highestPosition	Matriz (Horta)  highestPosition  1
+Praia do Almoxarife	highestPosition	Praia do Almoxarife  highestPosition  1
+Praia do Norte	highestPosition	Praia do Norte  highestPosition  1
+Salão	highestPosition	Salão  highestPosition  1
+Ribeirinha (Horta)	highestPosition	Ribeirinha (Horta)  highestPosition  1
+Madalena (Azores)	highestPosition	Madalena (Azores)  highestPosition  1
+The Poconos	highestPosition	The Poconos  highestPosition  1
+Bandeiras (Madalena)	highestPosition	Bandeiras (Madalena)  highestPosition  1
+Candelária (Ponta Delgada)	highestPosition	Candelária (Ponta Delgada)  highestPosition  1
+Candelária (Madalena)	highestPosition	Candelária (Madalena)  highestPosition  1
+São Caetano (Madalena)	highestPosition	São Caetano (Madalena)  highestPosition  1
+Criação Velha	highestPosition	Criação Velha  highestPosition  1
+Tibesti Mountains	highestPosition	Tibesti Mountains  highestPosition  1
+Northern Limestone Alps	highestPosition	Northern Limestone Alps  highestPosition  1
+Southern Limestone Alps	highestPosition	Southern Limestone Alps  highestPosition  1
+Central Eastern Alps	highestPosition	Central Eastern Alps  highestPosition  1
+São Roque do Pico (Azores)	highestPosition	São Roque do Pico (Azores)  highestPosition  1
+Cordillera Blanca	highestPosition	Cordillera Blanca  highestPosition  1
+Prainha (São Roque do Pico)	highestPosition	Prainha (São Roque do Pico)  highestPosition  1
+Santa Luzia (São Roque do Pico)	highestPosition	Santa Luzia (São Roque do Pico)  highestPosition  1
+Kaweka Range	highestPosition	Kaweka Range  highestPosition  1
+Santo Amaro (São Roque do Pico)	highestPosition	Santo Amaro (São Roque do Pico)  highestPosition  1
+Owen Stanley Range	highestPosition	Owen Stanley Range  highestPosition  1
+Queen Elizabeth Ranges	highestPosition	Queen Elizabeth Ranges  highestPosition  1
+Carnic Alps	highestPosition	Carnic Alps  highestPosition  1
+Bare Range	highestPosition	Bare Range  highestPosition  1
+Santo António (São Roque do Pico)	highestPosition	Santo António (São Roque do Pico)  highestPosition  1
+Lajes do Pico (Azores)	highestPosition	Lajes do Pico (Azores)  highestPosition  1
+President Range	highestPosition	President Range  highestPosition  1
+Calheta de Nesquim	highestPosition	Calheta de Nesquim  highestPosition  1
+Piedade (Lajes do Pico)	highestPosition	Piedade (Lajes do Pico)  highestPosition  1
+Ribeiras	highestPosition	Ribeiras  highestPosition  1
+Aurès Mountains	highestPosition	Aurès Mountains  highestPosition  1
+Ribeirinha (Lajes do Pico)	highestPosition	Ribeirinha (Lajes do Pico)  highestPosition  1
+Southern Carpathians	highestPosition	Southern Carpathians  highestPosition  1
+São João (Lajes do Pico)	highestPosition	São João (Lajes do Pico)  highestPosition  1
+Altares	highestPosition	Altares  highestPosition  1
+Cinco Ribeiras	highestPosition	Cinco Ribeiras  highestPosition  1
+Doze Ribeiras	highestPosition	Doze Ribeiras  highestPosition  1
+Feteira (Angra do Heroísmo)	highestPosition	Feteira (Angra do Heroísmo)  highestPosition  1
+Nossa Senhora da Conceição	highestPosition	Nossa Senhora da Conceição  highestPosition  1
+Porto Judeu	highestPosition	Porto Judeu  highestPosition  1
+Posto Santo	highestPosition	Posto Santo  highestPosition  1
+Raminho	highestPosition	Raminho  highestPosition  1
+Ribeirinha (Angra do Heroísmo)	highestPosition	Ribeirinha (Angra do Heroísmo)  highestPosition  1
+Santa Bárbara (Angra do Heroísmo)	highestPosition	Santa Bárbara (Angra do Heroísmo)  highestPosition  1
+Santa Luzia (Angra do Heroísmo)	highestPosition	Santa Luzia (Angra do Heroísmo)  highestPosition  1
+São Bartolomeu de Regatos	highestPosition	São Bartolomeu de Regatos  highestPosition  1
+São Bento (Angra do Heroísmo)	highestPosition	São Bento (Angra do Heroísmo)  highestPosition  1
+São Mateus da Calheta	highestPosition	São Mateus da Calheta  highestPosition  1
+São Pedro (Angra do Heroísmo)	highestPosition	São Pedro (Angra do Heroísmo)  highestPosition  1
+Sé (Angra do Heroísmo)	highestPosition	Sé (Angra do Heroísmo)  highestPosition  1
+Serreta (Azores)	highestPosition	Serreta (Azores)  highestPosition  1
+Vila de São Sebastião	highestPosition	Vila de São Sebastião  highestPosition  1
+San Francisco Peaks	highestPosition	San Francisco Peaks  highestPosition  1
+Agualva (Praia da Vitória)	highestPosition	Agualva (Praia da Vitória)  highestPosition  1
+Biscoitos	highestPosition	Biscoitos  highestPosition  1
+Hohe Tauern	highestPosition	Hohe Tauern  highestPosition  1
+Cabo da Praia	highestPosition	Cabo da Praia  highestPosition  1
+Fonte do Bastardo	highestPosition	Fonte do Bastardo  highestPosition  1
+Samnaun Alps	highestPosition	Samnaun Alps  highestPosition  1
+Verwall Alps	highestPosition	Verwall Alps  highestPosition  1
+Brenta group	highestPosition	Brenta group  highestPosition  1
+Sierra Estrella	highestPosition	Sierra Estrella  highestPosition  1
+Lajes (Praia da Vitória)	highestPosition	Lajes (Praia da Vitória)  highestPosition  1
+Porto Martins	highestPosition	Porto Martins  highestPosition  1
+Quatro Ribeiras	highestPosition	Quatro Ribeiras  highestPosition  1
+São Brás (Praia da Vitória)	highestPosition	São Brás (Praia da Vitória)  highestPosition  1
+Vila Nova (Praia da Vitória)	highestPosition	Vila Nova (Praia da Vitória)  highestPosition  1
+Ajuda da Bretanha	highestPosition	Ajuda da Bretanha  highestPosition  1
+Arrifes	highestPosition	Arrifes  highestPosition  1
+Capelas	highestPosition	Capelas  highestPosition  1
+Covoada	highestPosition	Covoada  highestPosition  1
+Fajã de Baixo	highestPosition	Fajã de Baixo  highestPosition  1
+Fajã de Cima	highestPosition	Fajã de Cima  highestPosition  1
+Fenais da Luz	highestPosition	Fenais da Luz  highestPosition  1
+Feteiras	highestPosition	Feteiras  highestPosition  1
+Ginetes	highestPosition	Ginetes  highestPosition  1
+Fontinhas	highestPosition	Fontinhas  highestPosition  1
+Livramento (Ponta Delgada)	highestPosition	Livramento (Ponta Delgada)  highestPosition  1
+Pilar da Bretanha	highestPosition	Pilar da Bretanha  highestPosition  1
+Hudson Highlands State Park	highestPosition	Hudson Highlands State Park  highestPosition  1
+Glyderau	highestPosition	Glyderau  highestPosition  1
+Relva	highestPosition	Relva  highestPosition  1
+Remédios	highestPosition	Remédios  highestPosition  1
+Santa Bárbara (Ponta Delgada)	highestPosition	Santa Bárbara (Ponta Delgada)  highestPosition  1
+Santo António (Ponta Delgada)	highestPosition	Santo António (Ponta Delgada)  highestPosition  1
+West Papua (region)	highestPosition	West Papua (region)  highestPosition  1
+São José (Ponta Delgada)	highestPosition	São José (Ponta Delgada)  highestPosition  1
+São Roque, Ponta Delgada	highestPosition	São Roque, Ponta Delgada  highestPosition  1
+São Pedro (Ponta Delgada)	highestPosition	São Pedro (Ponta Delgada)  highestPosition  1
+São Sebastião (Ponta Delgada)	highestPosition	São Sebastião (Ponta Delgada)  highestPosition  1
+São Vicente Ferreira	highestPosition	São Vicente Ferreira  highestPosition  1
+Lagoa (Azores)	highestPosition	Lagoa (Azores)  highestPosition  1
+Água de Pau	highestPosition	Água de Pau  highestPosition  1
+Cabouco	highestPosition	Cabouco  highestPosition  1
+Ribeira Chã	highestPosition	Ribeira Chã  highestPosition  1
+Santa Cruz (Lagoa)	highestPosition	Santa Cruz (Lagoa)  highestPosition  1
+Calhetas	highestPosition	Calhetas  highestPosition  1
+Ribeira Grande (Azores)	highestPosition	Ribeira Grande (Azores)  highestPosition  1
+Conceição (Ribeira Grande)	highestPosition	Conceição (Ribeira Grande)  highestPosition  1
+Fenais da Ajuda	highestPosition	Fenais da Ajuda  highestPosition  1
+Lomba da Maia	highestPosition	Lomba da Maia  highestPosition  1
+Lomba de São Pedro	highestPosition	Lomba de São Pedro  highestPosition  1
+Blackdown Hills	highestPosition	Blackdown Hills  highestPosition  1
+Maia (Ribeira Grande)	highestPosition	Maia (Ribeira Grande)  highestPosition  1
+Matriz (Ribeira Grande)	highestPosition	Matriz (Ribeira Grande)  highestPosition  1
+Santa Catalina Mountains	highestPosition	Santa Catalina Mountains  highestPosition  1
+Pico da Pedra	highestPosition	Pico da Pedra  highestPosition  1
+Porto Formoso	highestPosition	Porto Formoso  highestPosition  1
+Rabo de Peixe	highestPosition	Rabo de Peixe  highestPosition  1
+Ribeira Seca (Ribeira Grande)	highestPosition	Ribeira Seca (Ribeira Grande)  highestPosition  1
+Ribeirinha (Ribeira Grande)	highestPosition	Ribeirinha (Ribeira Grande)  highestPosition  1
+Mosteiros (Ponta Delgada)	highestPosition	Mosteiros (Ponta Delgada)  highestPosition  1
+Santa Bárbara (Ribeira Grande)	highestPosition	Santa Bárbara (Ribeira Grande)  highestPosition  1
+São Brás (Ribeira Grande)	highestPosition	São Brás (Ribeira Grande)  highestPosition  1
+Vila Franca do Campo (Azores)	highestPosition	Vila Franca do Campo (Azores)  highestPosition  1
+Água de Alto	highestPosition	Água de Alto  highestPosition  1
+Ponta Garça	highestPosition	Ponta Garça  highestPosition  1
+Ribeira das Tainhas	highestPosition	Ribeira das Tainhas  highestPosition  1
+Ribeira Seca (Vila Franca do Campo)	highestPosition	Ribeira Seca (Vila Franca do Campo)  highestPosition  1
+São Miguel (Vila Franca do Campo)	highestPosition	São Miguel (Vila Franca do Campo)  highestPosition  1
+São Pedro (Vila Franca do Campo)	highestPosition	São Pedro (Vila Franca do Campo)  highestPosition  1
+Povoação (Azores)	highestPosition	Povoação (Azores)  highestPosition  1
+Água Retorta	highestPosition	Água Retorta  highestPosition  1
+Faial da Terra	highestPosition	Faial da Terra  highestPosition  1
+George Washington and Jefferson National Forests	highestPosition	George Washington and Jefferson National Forests  highestPosition  1
+Ruby Mountains	highestPosition	Ruby Mountains  highestPosition  1
+Nossa Senhora dos Remédios (Povoação)	highestPosition	Nossa Senhora dos Remédios (Povoação)  highestPosition  1
+Furnas	highestPosition	Furnas  highestPosition  1
+Ribeira Quente	highestPosition	Ribeira Quente  highestPosition  1
+Nordeste (Azores)	highestPosition	Nordeste (Azores)  highestPosition  1
+Graciosa	highestPosition	Graciosa  highestPosition  1
+Achada	highestPosition	Achada  highestPosition  1
+Achadinha	highestPosition	Achadinha  highestPosition  1
+Hakkōda Mountains	highestPosition	Hakkōda Mountains  highestPosition  1
+Algarvia	highestPosition	Algarvia  highestPosition  1
+Lomba da Fazenda	highestPosition	Lomba da Fazenda  highestPosition  1
+High Atlas	highestPosition	High Atlas  highestPosition  1
+Salga	highestPosition	Salga  highestPosition  1
+Santana (Nordeste)	highestPosition	Santana (Nordeste)  highestPosition  1
+Santo António de Nordestinho	highestPosition	Santo António de Nordestinho  highestPosition  1
+São Pedro de Nordestinho	highestPosition	São Pedro de Nordestinho  highestPosition  1
+Santa Maria Island	highestPosition	Santa Maria Island  highestPosition  1
+Almagreira (Vila do Porto)	highestPosition	Almagreira (Vila do Porto)  highestPosition  1
+Santo Espírito	highestPosition	Santo Espírito  highestPosition  1
+São Pedro (Vila do Porto)	highestPosition	São Pedro (Vila do Porto)  highestPosition  1
+Santa Bárbara (Vila do Porto)	highestPosition	Santa Bárbara (Vila do Porto)  highestPosition  1
+Porto Santo (Madeira)	highestPosition	Porto Santo (Madeira)  highestPosition  1
+Santana, Madeira	highestPosition	Santana, Madeira  highestPosition  1
+Achadas da Cruz	highestPosition	Achadas da Cruz  highestPosition  1
+Guadalupe Mountains	highestPosition	Guadalupe Mountains  highestPosition  1
+Arco da Calheta	highestPosition	Arco da Calheta  highestPosition  1
+Eastern California	highestPosition	Eastern California  highestPosition  1
+Clark Range (California)	highestPosition	Clark Range (California)  highestPosition  1
+Prazeres, Madeira	highestPosition	Prazeres, Madeira  highestPosition  1
+Clark Range (Canada)	highestPosition	Clark Range (Canada)  highestPosition  1
+Never Summer Mountains	highestPosition	Never Summer Mountains  highestPosition  1
+Cabo Girão	highestPosition	Cabo Girão  highestPosition  1
+Imaculado Coração de Maria	highestPosition	Imaculado Coração de Maria  highestPosition  1
+Kaumajet Mountains	highestPosition	Kaumajet Mountains  highestPosition  1
+Gore Range	highestPosition	Gore Range  highestPosition  1
+Park Range (Colorado)	highestPosition	Park Range (Colorado)  highestPosition  1
+São Roque (Funchal)	highestPosition	São Roque (Funchal)  highestPosition  1
+Mosquito Range	highestPosition	Mosquito Range  highestPosition  1
+Mummy Range	highestPosition	Mummy Range  highestPosition  1
+Elk Mountains (Colorado)	highestPosition	Elk Mountains (Colorado)  highestPosition  1
+Crazy Mountains	highestPosition	Crazy Mountains  highestPosition  1
+Monte Rosa Massif	highestPosition	Monte Rosa Massif  highestPosition  1
+Elk Range (Canada)	highestPosition	Elk Range (Canada)  highestPosition  1
+Mackenzie Mountains	highestPosition	Mackenzie Mountains  highestPosition  1
+Beaverfoot Range	highestPosition	Beaverfoot Range  highestPosition  1
+Davis Mountains	highestPosition	Davis Mountains  highestPosition  1
+Chic-Choc Mountains	highestPosition	Chic-Choc Mountains  highestPosition  1
+Rabbit Ears Range	highestPosition	Rabbit Ears Range  highestPosition  1
+San Andres Mountains	highestPosition	San Andres Mountains  highestPosition  1
+Ortler Alps	highestPosition	Ortler Alps  highestPosition  1
+Adamello-Presanella	highestPosition	Adamello-Presanella  highestPosition  1
+Bergamo Alps	highestPosition	Bergamo Alps  highestPosition  1
+Bernina Range	highestPosition	Bernina Range  highestPosition  1
+Livigno Range	highestPosition	Livigno Range  highestPosition  1
+Sesvenna Range	highestPosition	Sesvenna Range  highestPosition  1
+Central California	highestPosition	Central California  highestPosition  1
+Dollabarat	highestPosition	Dollabarat  highestPosition  1
+Zillertal Alps	highestPosition	Zillertal Alps  highestPosition  1
+Tux Alps	highestPosition	Tux Alps  highestPosition  1
+Oberhalbstein Range	highestPosition	Oberhalbstein Range  highestPosition  1
+Plessur Range	highestPosition	Plessur Range  highestPosition  1
+Shenandoah Mountain	highestPosition	Shenandoah Mountain  highestPosition  1
+Beartooth Mountains	highestPosition	Beartooth Mountains  highestPosition  1
+White Carpathians	highestPosition	White Carpathians  highestPosition  1
+Abajo Mountains	highestPosition	Abajo Mountains  highestPosition  1
+The Bugaboos	highestPosition	The Bugaboos  highestPosition  1
+Purcell Mountains	highestPosition	Purcell Mountains  highestPosition  1
+Akademiya Nauk Range	highestPosition	Akademiya Nauk Range  highestPosition  1
+Monashee Mountains	highestPosition	Monashee Mountains  highestPosition  1
+Columbia Mountains	highestPosition	Columbia Mountains  highestPosition  1
+Bismarck Range	highestPosition	Bismarck Range  highestPosition  1
+Greater Caucasus	highestPosition	Greater Caucasus  highestPosition  1
+Armenian Highland	highestPosition	Armenian Highland  highestPosition  1
+Blue Mountains (Jamaica)	highestPosition	Blue Mountains (Jamaica)  highestPosition  1
+Shiretoko Peninsula	highestPosition	Shiretoko Peninsula  highestPosition  1
+Seminary Ridge	highestPosition	Seminary Ridge  highestPosition  1
+Retezat Mountains	highestPosition	Retezat Mountains  highestPosition  1
+Cantabrian Mountains	highestPosition	Cantabrian Mountains  highestPosition  1
+Desertas Islands	highestPosition	Desertas Islands  highestPosition  1
+Lusatian Mountains	highestPosition	Lusatian Mountains  highestPosition  1
+Javorníky	highestPosition	Javorníky  highestPosition  1
+High Tatras	highestPosition	High Tatras  highestPosition  1
+Totes Gebirge	highestPosition	Totes Gebirge  highestPosition  1
+Blue Mountain (Pennsylvania)	highestPosition	Blue Mountain (Pennsylvania)  highestPosition  1
+Sacramento Mountains (New Mexico)	highestPosition	Sacramento Mountains (New Mexico)  highestPosition  1
+Tanzawa Mountains	highestPosition	Tanzawa Mountains  highestPosition  1
+Napier Mountains	highestPosition	Napier Mountains  highestPosition  1
+Henry Mountains	highestPosition	Henry Mountains  highestPosition  1
+Chisos Mountains	highestPosition	Chisos Mountains  highestPosition  1
+Shavers Fork Mountain Complex	highestPosition	Shavers Fork Mountain Complex  highestPosition  1
+Aravis Range	highestPosition	Aravis Range  highestPosition  1
+Eastern Alps	highestPosition	Eastern Alps  highestPosition  1
+Clear Range	highestPosition	Clear Range  highestPosition  1
+Pacific Ranges	highestPosition	Pacific Ranges  highestPosition  1
+Garibaldi Ranges	highestPosition	Garibaldi Ranges  highestPosition  1
+Bendor Range	highestPosition	Bendor Range  highestPosition  1
+Pantheon Range	highestPosition	Pantheon Range  highestPosition  1
+Tantalus Range	highestPosition	Tantalus Range  highestPosition  1
+Whitemantle Range	highestPosition	Whitemantle Range  highestPosition  1
+Waddington Range	highestPosition	Waddington Range  highestPosition  1
+Rainbow Range (Chilcotin Plateau)	highestPosition	Rainbow Range (Chilcotin Plateau)  highestPosition  1
+Rainbow Range (Rocky Mountains)	highestPosition	Rainbow Range (Rocky Mountains)  highestPosition  1
+Shulaps Range	highestPosition	Shulaps Range  highestPosition  1
+Dickson Range	highestPosition	Dickson Range  highestPosition  1
+Camelsfoot Range	highestPosition	Camelsfoot Range  highestPosition  1
+Cayoosh Range	highestPosition	Cayoosh Range  highestPosition  1
+Cantilever Range	highestPosition	Cantilever Range  highestPosition  1
+Cariboo Mountains	highestPosition	Cariboo Mountains  highestPosition  1
+Niedere Tauern	highestPosition	Niedere Tauern  highestPosition  1
+Boundary Ranges	highestPosition	Boundary Ranges  highestPosition  1
+Mischabelhörner	highestPosition	Mischabelhörner  highestPosition  1
+Virgin Mountains	highestPosition	Virgin Mountains  highestPosition  1
+Arakan Mountains	highestPosition	Arakan Mountains  highestPosition  1
+Cordillera Central (Puerto Rico)	highestPosition	Cordillera Central (Puerto Rico)  highestPosition  1
+Sierra Madrona	highestPosition	Sierra Madrona  highestPosition  1
+Mayacamas Mountains	highestPosition	Mayacamas Mountains  highestPosition  1
+Sulphur Spring Range	highestPosition	Sulphur Spring Range  highestPosition  1
+Franklin Mountains (Texas)	highestPosition	Franklin Mountains (Texas)  highestPosition  1
+Mont Blanc massif	highestPosition	Mont Blanc massif  highestPosition  1
+Krkonoše National Park	highestPosition	Krkonoše National Park  highestPosition  1
+Šumava National Park	highestPosition	Šumava National Park  highestPosition  1
+Schell Creek Range	highestPosition	Schell Creek Range  highestPosition  1
+Rax	highestPosition	Rax  highestPosition  1
+Ayubia National Park	highestPosition	Ayubia National Park  highestPosition  1
+Willapa Hills	highestPosition	Willapa Hills  highestPosition  1
+Black Hills (Washington)	highestPosition	Black Hills (Washington)  highestPosition  1
+Baden Hill	highestPosition	Baden Hill  highestPosition  1
+Elkhorn Mountains	highestPosition	Elkhorn Mountains  highestPosition  1
+Hidaka Mountains	highestPosition	Hidaka Mountains  highestPosition  1
+Teshio Mountains	highestPosition	Teshio Mountains  highestPosition  1
+Cordillera Real (Bolivia)	highestPosition	Cordillera Real (Bolivia)  highestPosition  1
+Cheat Mountain	highestPosition	Cheat Mountain  highestPosition  1
+Black Mountains (North Carolina)	highestPosition	Black Mountains (North Carolina)  highestPosition  1
+Mantiqueira Mountains	highestPosition	Mantiqueira Mountains  highestPosition  1
+Greater Fatra	highestPosition	Greater Fatra  highestPosition  1
+Daisetsuzan Volcanic Group	highestPosition	Daisetsuzan Volcanic Group  highestPosition  1
+Sunnmørsalpene	highestPosition	Sunnmørsalpene  highestPosition  1
+Tokachi Volcanic Group	highestPosition	Tokachi Volcanic Group  highestPosition  1
+Shikaribetsu Volcanic Group	highestPosition	Shikaribetsu Volcanic Group  highestPosition  1
+Coeur d'Alene Mountains	highestPosition	Coeur d'Alene Mountains  highestPosition  1
+Sistema Central	highestPosition	Sistema Central  highestPosition  1
+Jizera Mountains	highestPosition	Jizera Mountains  highestPosition  1
+Phantom Canyon (Pikes Peak Area)	highestPosition	Phantom Canyon (Pikes Peak Area)  highestPosition  1
+Přerov nad Labem	highestPosition	Přerov nad Labem  highestPosition  1
+Sierra de Gredos	highestPosition	Sierra de Gredos  highestPosition  1
+Judith Mountains	highestPosition	Judith Mountains  highestPosition  1
+Tenmile Range	highestPosition	Tenmile Range  highestPosition  1
+Batura Muztagh	highestPosition	Batura Muztagh  ighestPosition  1
+Trans-Pecos	highestPosition	Trans-Pecos  highestPosition  1
+Cordillera de Guanacaste	highestPosition	Cordillera de Guanacaste  highestPosition  1
+Cordillera de Talamanca	highestPosition	Cordillera de Talamanca  highestPosition  1
+Caprock Escarpment	highestPosition	Caprock Escarpment  highestPosition  1
+Cordillera Central (Costa Rica)	highestPosition	Cordillera Central (Costa Rica)  highestPosition  1
+Ennstal Alps	highestPosition	Ennstal Alps  highestPosition  1
+Baltoro Muztagh	highestPosition	Baltoro Muztagh  ighestPosition  1
+Masherbrum Mountains	highestPosition	Masherbrum Mountains  highestPosition  1
+Lewis Range	highestPosition	Lewis Range  highestPosition  1
+Livingston Range	highestPosition	Livingston Range  highestPosition  1
+Prokletije	highestPosition	Prokletije  highestPosition  1
+Neacola Mountains	highestPosition	Neacola Mountains  highestPosition  1
+Chigmit Mountains	highestPosition	Chigmit Mountains  highestPosition  1
+Tordrillo Mountains	highestPosition	Tordrillo Mountains  highestPosition  1
+Sierra de Guadarrama	highestPosition	Sierra de Guadarrama  highestPosition  1
+Fairweather Range	highestPosition	Fairweather Range  highestPosition  1
+Huy, Germany  Huy   1	highestPosition	Huy, Germany  Huy   1  highestPosition  1
+Saltoro Mountains	highestPosition	Saltoro Mountains  highestPosition  1
+Great Western Divide	highestPosition	Great Western Divide  highestPosition  1
+La Sal Mountains	highestPosition	La Sal Mountains  highestPosition  1
+Gurans Himal	highestPosition	Gurans Himal  highestPosition  1
+Vila do Porto (parish)	highestPosition	Vila do Porto (parish)  highestPosition  1
+Independence Mountains	highestPosition	Independence Mountains  highestPosition  1
+Snake Range	highestPosition	Snake Range  highestPosition  1
+Northern Cordilleran Volcanic Province	highestPosition	Northern Cordilleran Volcanic Province  highestPosition  1
+Marin Hills	highestPosition	Marin Hills  highestPosition  1
+Big Round Top	highestPosition	Big Round Top  highestPosition  1
+Picket Range	highestPosition	Picket Range  highestPosition  1
+Mahoosuc Range	highestPosition	Mahoosuc Range  highestPosition  1
+Montes de León	highestPosition	Montes de León  highestPosition  1
+Pohorje	highestPosition	Pohorje  highestPosition  1
+Mount Rogers National Recreation Area	highestPosition	Mount Rogers National Recreation Area  highestPosition  1
+Spruce Knob-Seneca Rocks National Recreation Area	highestPosition	Spruce Knob-Seneca Rocks National Recreation Area  highestPosition  1
+Premier Range	highestPosition	Premier Range  highestPosition  1
+Innuitian Mountains	highestPosition	Innuitian Mountains  highestPosition  1
+Pinaleno Mountains	highestPosition	Pinaleno Mountains  highestPosition  1
+Skeena Mountains	highestPosition	Skeena Mountains  highestPosition  1
+Alsek Ranges	highestPosition	Alsek Ranges  highestPosition  1
+Belledonne	highestPosition	Belledonne  highestPosition  1
+Silesian Beskids	highestPosition	Silesian Beskids  highestPosition  1
+Canada Hudson Bay drainage	highestPosition	Canada Hudson Bay drainage  highestPosition  1
+De Smet Range	highestPosition	De Smet Range  highestPosition  1
+Western Carpathians	highestPosition	Western Carpathians  highestPosition  1
+Collegiate Peaks	highestPosition	Collegiate Peaks  highestPosition  1
+Misty Range	highestPosition	Misty Range  highestPosition  1
+Needle Mountains	highestPosition	Needle Mountains  highestPosition  1
+Arthur Range	highestPosition	Arthur Range  highestPosition  1
+Sierra Madre de Chiapas	highestPosition	Sierra Madre de Chiapas  highestPosition  1
+Kozara National Park	highestPosition	Kozara National Park  highestPosition  1
+Bow Range	highestPosition	Bow Range  highestPosition  1
+High Rock Range	highestPosition	High Rock Range  highestPosition  1
+Crowsnest Range	highestPosition	Crowsnest Range  highestPosition  1
+Aurunci Mountains	highestPosition	Aurunci Mountains  highestPosition  1
+Little Carpathians	highestPosition	Little Carpathians  highestPosition  1
+Cordillera Sarmiento	highestPosition	Cordillera Sarmiento  highestPosition  1
+Gangotri Group	highestPosition	Gangotri Group  highestPosition  1
+Mentasta Mountains	highestPosition	Mentasta Mountains  highestPosition  1
+Spectrum Range	highestPosition	Spectrum Range  highestPosition  1
+Vancouver Island Ranges	highestPosition	Vancouver Island Ranges  highestPosition  1
+Sandwich Range	highestPosition	Sandwich Range  highestPosition  1
+Basque Mountains	highestPosition	Basque Mountains  highestPosition  1
+Strawberry Range	highestPosition	Strawberry Range  highestPosition  1
+Serra da Cantareira	highestPosition	Serra da Cantareira  highestPosition  1
+Sourland Mountain	highestPosition	Sourland Mountain  highestPosition  1
+Allegheny Mountain (West Virginia – Virginia)	highestPosition	Allegheny Mountain (West Virginia – Virginia)  highestPosition  1
+Mahalangur Himal	highestPosition	Mahalangur Himal  highestPosition  1
+Owl Mountains	highestPosition	Owl Mountains  highestPosition  1
+Western Sudetes	highestPosition	Western Sudetes  highestPosition  1
+Ponta Delgada (district)	highestPosition	Ponta Delgada (district)  highestPosition  1
+Philmont, New York	highestPosition	Philmont, New York  highestPosition  1
+Mansiri Himal	highestPosition	Mansiri Himal  highestPosition  1
+Pontic Mountains	highestPosition	Pontic Mountains  highestPosition  1
+Sonoma Mountains	highestPosition	Sonoma Mountains  highestPosition  1
+North Fork Mountain	highestPosition	North Fork Mountain  highestPosition  1
+East Potrillo Mountains	highestPosition	East Potrillo Mountains  highestPosition  1
+West Potrillo Mountains	highestPosition	West Potrillo Mountains  highestPosition  1
+Milbanke Sound Group	highestPosition	Milbanke Sound Group  highestPosition  1
+Insular Mountains	highestPosition	Insular Mountains  highestPosition  1
+Arctic Cordillera	highestPosition	Arctic Cordillera  highestPosition  1
+Gamburtsev Mountain Range	highestPosition	Gamburtsev Mountain Range  highestPosition  1
+Poloniny National Park	highestPosition	Poloniny National Park  highestPosition  1
+Great Craggy Mountains	highestPosition	Great Craggy Mountains  highestPosition  1
+Moravian-Silesian Beskids	highestPosition	Moravian-Silesian Beskids  highestPosition  1
+Cassiar Mountains	highestPosition	Cassiar Mountains  highestPosition  1
+Tuya Range	highestPosition	Tuya Range  highestPosition  1
+Thudaka Range	highestPosition	Thudaka Range  highestPosition  1
+Interior Mountains	highestPosition	Interior Mountains  highestPosition  1
+Itcha Range	highestPosition	Itcha Range  highestPosition  1
+Hostýnsko-vsetínská hornatina	highestPosition	Hostýnsko-vsetínská hornatina  highestPosition  1
+Cascade Volcanoes	highestPosition	Cascade Volcanoes  highestPosition  1
+Magdalena Mountains	highestPosition	Magdalena Mountains  highestPosition  1
+Cane Creek Mountains	highestPosition	Cane Creek Mountains  highestPosition  1
+Big Hatchet Mountains	highestPosition	Big Hatchet Mountains  highestPosition  1
+Flourmill Volcanoes	highestPosition	Flourmill Volcanoes  highestPosition  1
+Horta (district)	highestPosition	Horta (district)  highestPosition  1
+Gurvan Saikhan Uul	highestPosition	Gurvan Saikhan Uul  highestPosition  1
+Beskydy Protected Landscape Area	highestPosition	Beskydy Protected Landscape Area  highestPosition  1
+Level Mountain Range	highestPosition	Level Mountain Range  highestPosition  1
+Český les Landscape Protected Area	highestPosition	Český les Landscape Protected Area  highestPosition  1
+Bregaglia Range	highestPosition	Bregaglia Range  highestPosition  1
+Fannin Range	highestPosition	Fannin Range  highestPosition  1
+Cheam Range	highestPosition	Cheam Range  highestPosition  1
+Sierra Nevada de Mérida	highestPosition	Sierra Nevada de Mérida  highestPosition  1
+Chūgoku Mountains	highestPosition	Chūgoku Mountains  highestPosition  1
+Ilgachuz Range	highestPosition	Ilgachuz Range  highestPosition  1
+Clearwater Mountains	highestPosition	Clearwater Mountains  highestPosition  1
+Sawtooth Range (Idaho)	highestPosition	Sawtooth Range (Idaho)  highestPosition  1
+Gallatin Range	highestPosition	Gallatin Range  highestPosition  1
+Parâng Mountains	highestPosition	Parâng Mountains  highestPosition  1
+Serra de Tramuntana	highestPosition	Serra de Tramuntana  highestPosition  1
+Cordillera Domeyko	highestPosition	Cordillera Domeyko  highestPosition  1
+Hurrungane	highestPosition	Hurrungane  highestPosition  1
+Tafjordfjella	highestPosition	Tafjordfjella  highestPosition  1
+Northern Oregon Coast Range	highestPosition	Northern Oregon Coast Range  highestPosition  1
+České Středohoří	highestPosition	České Středohoří  highestPosition  1
+Patagonian Desert	highestPosition	Patagonian Desert  highestPosition  1
+Hottentots-Holland	highestPosition	Hottentots-Holland  highestPosition  1
+Sylan	highestPosition	Sylan  highestPosition  1
+Central Oregon Coast Range	highestPosition	Central Oregon Coast Range  highestPosition  1
+Oregon Coast Range	highestPosition	Oregon Coast Range  highestPosition  1
+Back Allegheny Mountain	highestPosition	Back Allegheny Mountain  highestPosition  1
+Cabinet Mountains	highestPosition	Cabinet Mountains  highestPosition  1
+Blackstairs Mountains	highestPosition	Blackstairs Mountains  highestPosition  1
+Bradshaw Mountains	highestPosition	Bradshaw Mountains  highestPosition  1
+Southern Oregon Coast Range	highestPosition	Southern Oregon Coast Range  highestPosition  1
+Southern Rocky Mountains	highestPosition	Southern Rocky Mountains  highestPosition  1
+Great Balsam Mountains	highestPosition	Great Balsam Mountains  highestPosition  1
+Franconia Range	highestPosition	Franconia Range  highestPosition  1
+La Plata Mountains	highestPosition	La Plata Mountains  highestPosition  1
+North Mountain (Nova Scotia)	highestPosition	North Mountain (Nova Scotia)  highestPosition  1
+Urner Alps	highestPosition	Urner Alps  highestPosition  1
+Appenzell Alps	highestPosition	Appenzell Alps  highestPosition  1
+Allgäu Alps	highestPosition	Allgäu Alps  highestPosition  1
+Pálava Landscape Protected Area	highestPosition	Pálava Landscape Protected Area  highestPosition  1
+Southern Yatsugatake Volcanic Group	highestPosition	Southern Yatsugatake Volcanic Group  highestPosition  1
+Breheimen	highestPosition	Breheimen  highestPosition  1
+Baffin Mountains	highestPosition	Baffin Mountains  highestPosition  1
+Fatra-Tatra Area	highestPosition	Fatra-Tatra Area  highestPosition  1
+Challenger Mountains	highestPosition	Challenger Mountains  highestPosition  1
+Princess Margaret Range	highestPosition	Princess Margaret Range  highestPosition  1
+Shavers Mountain	highestPosition	Shavers Mountain  highestPosition  1
+Byam Martin Mountains	highestPosition	Byam Martin Mountains  highestPosition  1
+Vanoise massif	highestPosition	Vanoise massif  highestPosition  1
+Cunningham Mountains	highestPosition	Cunningham Mountains  highestPosition  1
+Garfield Range	highestPosition	Garfield Range  highestPosition  1
+Bruce Mountains	highestPosition	Bruce Mountains  highestPosition  1
+Krieger Mountains	highestPosition	Krieger Mountains  highestPosition  1
+Blue Mountains (Nunavut)	highestPosition	Blue Mountains (Nunavut)  highestPosition  1
+Prince of Wales Mountains	highestPosition	Prince of Wales Mountains  highestPosition  1
+Main Range (Snowy Mountains)	highestPosition	Main Range (Snowy Mountains)  highestPosition  1
+Conger Range	highestPosition	Conger Range  highestPosition  1
+Joy Range	highestPosition	Joy Range  highestPosition  1
+Stokes Range	highestPosition	Stokes Range  highestPosition  1
+Black Rock Forest	highestPosition	Black Rock Forest  highestPosition  1
+Osborn Range	highestPosition	Osborn Range  highestPosition  1
+Selamiut Range	highestPosition	Selamiut Range  highestPosition  1
+Precipitous Mountains	highestPosition	Precipitous Mountains  highestPosition  1
+Adam Range	highestPosition	Adam Range  highestPosition  1
+Jeffries Range	highestPosition	Jeffries Range  highestPosition  1
+Blackwelder Mountains	highestPosition	Blackwelder Mountains  highestPosition  1
+Haddington Range	highestPosition	Haddington Range  highestPosition  1
+Grogan Morgan Range	highestPosition	Grogan Morgan Range  highestPosition  1
+Everett Mountains	highestPosition	Everett Mountains  highestPosition  1
+Douro Range	highestPosition	Douro Range  highestPosition  1
+Sawtooth Range (Nunavut)	highestPosition	Sawtooth Range (Nunavut)  highestPosition  1
+Hartz Mountains (Nunavut)	highestPosition	Hartz Mountains (Nunavut)  highestPosition  1
+Grinnell Range	highestPosition	Grinnell Range  highestPosition  1
+Krag Mountains	highestPosition	Krag Mountains  highestPosition  1
+Black Mountains (Nevada)	highestPosition	Black Mountains (Nevada)  highestPosition  1
+Black Mountains (Arizona)	highestPosition	Black Mountains (Arizona)  highestPosition  1
+Gila Mountains (Graham County)	highestPosition	Gila Mountains (Graham County)  highestPosition  1
+Ponta Delgada (Azores)	highestPosition	Ponta Delgada (Azores)  highestPosition  1
+Pogórze Bukowskie	highestPosition	Pogórze Bukowskie  highestPosition  1
+Chehalem Mountains	highestPosition	Chehalem Mountains  highestPosition  1
+Chablais Alps	highestPosition	Chablais Alps  highestPosition  1
+Queen Charlotte Mountains	highestPosition	Queen Charlotte Mountains  highestPosition  1
+Otter Creek Wilderness	highestPosition	Otter Creek Wilderness  highestPosition  1
+Doły Jasielsko-Sanockie	highestPosition	Doły Jasielsko-Sanockie  highestPosition  1
+Laurel Fork South Wilderness	highestPosition	Laurel Fork South Wilderness  highestPosition  1
+Laurel Fork North Wilderness	highestPosition	Laurel Fork North Wilderness  highestPosition  1
+Low Beskids	highestPosition	Low Beskids  highestPosition  1
+MacIntyre Mountains	highestPosition	MacIntyre Mountains  highestPosition  1
+Dix Range	highestPosition	Dix Range  highestPosition  1
+Samuel Black Range	highestPosition	Samuel Black Range  highestPosition  1
+Apolobamba	highestPosition	Apolobamba  highestPosition  1
+Beaufort Range	highestPosition	Beaufort Range  highestPosition  1
+Refugium Range	highestPosition	Refugium Range  highestPosition  1
+Big Salmon Range	highestPosition	Big Salmon Range  highestPosition  1
+Sierra de los Cuchumatanes	highestPosition	Sierra de los Cuchumatanes  highestPosition  1
+Hieroglyphic Mountains	highestPosition	Hieroglyphic Mountains  highestPosition  1
+Pelham Range	highestPosition	Pelham Range  highestPosition  1
+Newcastle Ridge	highestPosition	Newcastle Ridge  highestPosition  1
+Blackfoot Mountains	highestPosition	Blackfoot Mountains  highestPosition  1
+Sierra del Lacandón	highestPosition	Sierra del Lacandón  highestPosition  1
+Bald Mountains	highestPosition	Bald Mountains  highestPosition  1
+Northern Yatsugatake Volcanic Group	highestPosition	Northern Yatsugatake Volcanic Group  highestPosition  1
+Cranberry Wilderness	highestPosition	Cranberry Wilderness  highestPosition  1
+Valkyr Range	highestPosition	Valkyr Range  highestPosition  1
+Upstate California	highestPosition	Upstate California  highestPosition  1
+Madison Range	highestPosition	Madison Range  highestPosition  1
+Sweetwater Mountains	highestPosition	Sweetwater Mountains  highestPosition  1
+Niseko Volcanic Group	highestPosition	Niseko Volcanic Group  highestPosition  1
+Highland Range (Lincoln County)	highestPosition	Highland Range (Lincoln County)  highestPosition  1
+Hays Canyon Range	highestPosition	Hays Canyon Range  highestPosition  1
+Mount Raiden Volcanic Group	highestPosition	Mount Raiden Volcanic Group  highestPosition  1
+Chief Range	highestPosition	Chief Range  highestPosition  1
+Peters Mountain	highestPosition	Peters Mountain  highestPosition  1
+Central Ishikari Mountains	highestPosition	Central Ishikari Mountains  highestPosition  1
+Akan Volcanic Complex	highestPosition	Akan Volcanic Complex  highestPosition  1
+Broken Hills (Virginia)	highestPosition	Broken Hills (Virginia)  highestPosition  1
+Lagorai	highestPosition	Lagorai  highestPosition  1
+Kootenay Ranges	highestPosition	Kootenay Ranges  highestPosition  1
+White Cloud Mountains	highestPosition	White Cloud Mountains  highestPosition  1
+Bazalgette Range	highestPosition	Bazalgette Range  highestPosition  1
+Beaverdell Range	highestPosition	Beaverdell Range  highestPosition  1
+Catskill Escarpment	highestPosition	Catskill Escarpment  highestPosition  1
+Lechtal Alps	highestPosition	Lechtal Alps  highestPosition  1
+Schober group	highestPosition	Schober group  highestPosition  1
+Pine Grove Hills	highestPosition	Pine Grove Hills  highestPosition  1
+Pioche Hills	highestPosition	Pioche Hills  highestPosition  1
+Serras de Sudeste	highestPosition	Serras de Sudeste  highestPosition  1
+Nallamala Hills	highestPosition	Nallamala Hills  highestPosition  1
+Spearhead Range	highestPosition	Spearhead Range  highestPosition  1
+Sierra Vicuña Mackenna	highestPosition	Sierra Vicuña Mackenna  highestPosition  1
+Cordillera Negra (Chile)	highestPosition	Cordillera Negra (Chile)  highestPosition  1
+Wetterstein	highestPosition	Wetterstein  highestPosition  1
+Boundary Range	highestPosition	Boundary Range  highestPosition  1
+Ashington Range	highestPosition	Ashington Range  highestPosition  1
+Burniston Range	highestPosition	Burniston Range  highestPosition  1
+Wharncliffe Range	highestPosition	Wharncliffe Range  highestPosition  1
+Dezadeash Range	highestPosition	Dezadeash Range  highestPosition  1
+Trachyte Hills	highestPosition	Trachyte Hills  highestPosition  1
+Sierra Carapé	highestPosition	Sierra Carapé  highestPosition  1
+Bedded Range	highestPosition	Bedded Range  highestPosition  1
+Sierra de Francia	highestPosition	Sierra de Francia  highestPosition  1
+Britannia Range (Canada)	highestPosition	Britannia Range (Canada)  highestPosition  1
+Kispiox Range	highestPosition	Kispiox Range  highestPosition  1
+Howson Range	highestPosition	Howson Range  highestPosition  1
+Serra Monte Cristo	highestPosition	Serra Monte Cristo  highestPosition  1
+Nikanassin Range	highestPosition	Nikanassin Range  highestPosition  1
+Atna Range	highestPosition	Atna Range  highestPosition  1
+Bait Range	highestPosition	Bait Range  highestPosition  1
+Driftwood Range	highestPosition	Driftwood Range  highestPosition  1
+Cuchilla Grande	highestPosition	Cuchilla Grande  highestPosition  1
+Delta Mountains	highestPosition	Delta Mountains  highestPosition  1
+Snežnik	highestPosition	Snežnik  highestPosition  1
+Sistema Ibérico	highestPosition	Sistema Ibérico  highestPosition  1
+Quanchus Range	highestPosition	Quanchus Range  highestPosition  1
+Battle Range	highestPosition	Battle Range  highestPosition  1
+Norns Range	highestPosition	Norns Range  highestPosition  1
+Sir Sandford Range	highestPosition	Sir Sandford Range  highestPosition  1
+Big Bend Ranges	highestPosition	Big Bend Ranges  highestPosition  1
+Windy Range	highestPosition	Windy Range  highestPosition  1
+Whatshan Range	highestPosition	Whatshan Range  highestPosition  1
+Badshot Range	highestPosition	Badshot Range  highestPosition  1
+Bonnington Range	highestPosition	Bonnington Range  highestPosition  1
+Ruby Range (Valhalla Ranges)	highestPosition	Ruby Range (Valhalla Ranges)  highestPosition  1
+Valhalla Ranges	highestPosition	Valhalla Ranges  highestPosition  1
+Duncan Ranges	highestPosition	Duncan Ranges  highestPosition  1
+Dawson Range (British Columbia)	highestPosition	Dawson Range (British Columbia)  highestPosition  1
+Kii Mountains	highestPosition	Kii Mountains  highestPosition  1
+Berchtesgaden Alps	highestPosition	Berchtesgaden Alps  highestPosition  1
+Pawling Nature Reserve	highestPosition	Pawling Nature Reserve  highestPosition  1
+Clachnacudainn Range	highestPosition	Clachnacudainn Range  highestPosition  1
+Alpi Apuane	highestPosition	Alpi Apuane  highestPosition  1
+Fitzsimmons Range	highestPosition	Fitzsimmons Range  highestPosition  1
+Kitami Mountains	highestPosition	Kitami Mountains  highestPosition  1
+Ochoco Mountains	highestPosition	Ochoco Mountains  highestPosition  1
+Pueblo Mountains	highestPosition	Pueblo Mountains  highestPosition  1
+Sarntal Alps	highestPosition	Sarntal Alps  highestPosition  1
+Trout Creek Mountains	highestPosition	Trout Creek Mountains  highestPosition  1
+Mafinga Hills	highestPosition	Mafinga Hills  highestPosition  1
+Chinati Mountains	highestPosition	Chinati Mountains  highestPosition  1
+Twin Range	highestPosition	Twin Range  highestPosition  1
+Roaring Plains West Wilderness	highestPosition	Roaring Plains West Wilderness  highestPosition  1
+Salzburg Slate Alps	highestPosition	Salzburg Slate Alps  highestPosition  1
+Santiago de Piães	highestPosition	Santiago de Piães  highestPosition  1
+Alwington, Kingston	highestPosition	Alwington, Kingston  highestPosition  1
+Spice Run Wilderness	highestPosition	Spice Run Wilderness  highestPosition  1
+Krkonoše	highestPosition	Krkonoše  highestPosition  1
+Mühlig-Hofmann Mountains	highestPosition	Mühlig-Hofmann Mountains  highestPosition  1
+Orvin Mountains	highestPosition	Orvin Mountains  highestPosition  1
+Sverdrup Mountains	highestPosition	Sverdrup Mountains  highestPosition  1
+Preakness Range	highestPosition	Preakness Range  highestPosition  1
+Südliche Petermann Range	highestPosition	Südliche Petermann Range  highestPosition  1
+Conrad Mountains	highestPosition	Conrad Mountains  highestPosition  1
+Gagarin Mountains	highestPosition	Gagarin Mountains  highestPosition  1
+Wesergebirge	highestPosition	Wesergebirge  highestPosition  1
+Ebbegebirge	highestPosition	Ebbegebirge  highestPosition  1
+Lippe Uplands	highestPosition	Lippe Uplands  highestPosition  1
+Lennegebirge	highestPosition	Lennegebirge  highestPosition  1
+Saalhausen Hills	highestPosition	Saalhausen Hills  highestPosition  1
+Solling	highestPosition	Solling  highestPosition  1
+Flathead Range	highestPosition	Flathead Range  highestPosition  1
+Park Ranges	highestPosition	Park Ranges  highestPosition  1
+Goffle Hill	highestPosition	Goffle Hill  highestPosition  1
+Sierra de la Demanda	highestPosition	Sierra de la Demanda  highestPosition  1
+Slieveardagh Hills	highestPosition	Slieveardagh Hills  highestPosition  1
+Kenosha Mountains	highestPosition	Kenosha Mountains  highestPosition  1
+Rampart Range	highestPosition	Rampart Range  highestPosition  1
+Waterman Mountains	highestPosition	Waterman Mountains  highestPosition  1
+Worcester Range	highestPosition	Worcester Range  highestPosition  1
+Sierra de la Culebra	highestPosition	Sierra de la Culebra  highestPosition  1
+Santa Cruz das Flores (parish)	highestPosition	Santa Cruz das Flores (parish)  highestPosition  1
+Allegheny Mountain (Pennsylvania)	highestPosition	Allegheny Mountain (Pennsylvania)  highestPosition  1
+Walters Shoals	highestPosition	Walters Shoals  highestPosition  1
+Sierra de la Ventana (mountains)	highestPosition	Sierra de la Ventana (mountains)  highestPosition  1
+Hudson, New York	highestPosition	Hudson, New York  highestPosition  1
+Homburg Forest	highestPosition	Homburg Forest  highestPosition  1
+Spruce Mountain (West Virginia)	highestPosition	Spruce Mountain (West Virginia)  highestPosition  1
+Lajes das Flores (parish)	highestPosition	Lajes das Flores (parish)  highestPosition  1
+Lizard Range	highestPosition	Lizard Range  highestPosition  1
+Leitha Mountains	highestPosition	Leitha Mountains  highestPosition  1
+Santa Cruz da Graciosa (parish)	highestPosition	Santa Cruz da Graciosa (parish)  highestPosition  1
+Meili Xue Shan	highestPosition	Meili Xue Shan  highestPosition  1
+Badger Hills	highestPosition	Badger Hills  highestPosition  1
+Beaverhead Mountains	highestPosition	Beaverhead Mountains  highestPosition  1
+Big Snowy Mountains	highestPosition	Big Snowy Mountains  highestPosition  1
+Black Reef	highestPosition	Black Reef  highestPosition  1
+Boulder Hills (Montana)	highestPosition	Boulder Hills (Montana)  highestPosition  1
+Castle Mountains (Montana)	highestPosition	Castle Mountains (Montana)  highestPosition  1
+Boulder Mountains	highestPosition	Boulder Mountains  highestPosition  1
+Bull Mountains	highestPosition	Bull Mountains  highestPosition  1
+Butcher Hills	highestPosition	Butcher Hills  highestPosition  1
+Calderwood Hills	highestPosition	Calderwood Hills  highestPosition  1
+Cayuse Hills	highestPosition	Cayuse Hills  highestPosition  1
+Chalk Buttes (Montana)	highestPosition	Chalk Buttes (Montana)  highestPosition  1
+Dahl Hills	highestPosition	Dahl Hills  highestPosition  1
+Wilson Range	highestPosition	Wilson Range  highestPosition  1
+Dickie Hills	highestPosition	Dickie Hills  highestPosition  1
+Dry Range	highestPosition	Dry Range  highestPosition  1
+Ekalaka Hills	highestPosition	Ekalaka Hills  highestPosition  1
+Flathead Alps	highestPosition	Flathead Alps  highestPosition  1
+Flattops (Montana)	highestPosition	Flattops (Montana)  highestPosition  1
+Wolf Mountains	highestPosition	Wolf Mountains  highestPosition  1
+Flint Creek Range	highestPosition	Flint Creek Range  highestPosition  1
+Franklin Hills (Montana)	highestPosition	Franklin Hills (Montana)  highestPosition  1
+Garnet Range	highestPosition	Garnet Range  highestPosition  1
+Granite Range (Montana)	highestPosition	Granite Range (Montana)  highestPosition  1
+Gravelly Range	highestPosition	Gravelly Range  highestPosition  1
+Greenhorn Range	highestPosition	Greenhorn Range  highestPosition  1
+Henrys Lake Mountains	highestPosition	Henrys Lake Mountains  highestPosition  1
+Highland Mountains	highestPosition	Highland Mountains  highestPosition  1
+Honeycomb Hills	highestPosition	Honeycomb Hills  highestPosition  1
+Horn Mountains	highestPosition	Horn Mountains  highestPosition  1
+Horseshoe Hills	highestPosition	Horseshoe Hills  highestPosition  1
+Long Pines	highestPosition	Long Pines  highestPosition  1
+Humbolt Hills	highestPosition	Humbolt Hills  highestPosition  1
+Taylor Hills	highestPosition	Taylor Hills  highestPosition  1
+John Long Mountains	highestPosition	John Long Mountains  highestPosition  1
+Larb Hills	highestPosition	Larb Hills  highestPosition  1
+Lewis and Clark Range	highestPosition	Lewis and Clark Range  highestPosition  1
+Limestone Hills (Montana)	highestPosition	Limestone Hills (Montana)  highestPosition  1
+Little Snowy Mountains	highestPosition	Little Snowy Mountains  highestPosition  1
+Little Wolf Mountains	highestPosition	Little Wolf Mountains  highestPosition  1
+Spanish Peaks (Montana)	highestPosition	Spanish Peaks (Montana)  highestPosition  1
+Milk River Hills	highestPosition	Milk River Hills  highestPosition  1
+North Hills (Montana)	highestPosition	North Hills (Montana)  highestPosition  1
+North Moccasin Mountains	highestPosition	North Moccasin Mountains  highestPosition  1
+Opheim Hills	highestPosition	Opheim Hills  highestPosition  1
+The Wedge (Montana)	highestPosition	The Wedge (Montana)  highestPosition  1
+Tendoy Mountains	highestPosition	Tendoy Mountains  highestPosition  1
+Papoose Hills	highestPosition	Papoose Hills  highestPosition  1
+Park Hills (Montana)	highestPosition	Park Hills (Montana)  highestPosition  1
+Pike Creek Hills	highestPosition	Pike Creek Hills  highestPosition  1
+Piney Buttes	highestPosition	Piney Buttes  highestPosition  1
+Pryor Mountains	highestPosition	Pryor Mountains  highestPosition  1
+Rocky Hills	highestPosition	Rocky Hills  highestPosition  1
+Ruby Range (Montana)	highestPosition	Ruby Range (Montana)  highestPosition  1
+Sawtooth Range (Montana)	highestPosition	Sawtooth Range (Montana)  highestPosition  1
+Smoky Range	highestPosition	Smoky Range  highestPosition  1
+Snowcrest Range	highestPosition	Snowcrest Range  highestPosition  1
+Three Buttes	highestPosition	Three Buttes  highestPosition  1
+Fernow Experimental Forest	highestPosition	Fernow Experimental Forest  highestPosition  1
+Thoeny Hills	highestPosition	Thoeny Hills  highestPosition  1
+The Pinnacles (Montana)	highestPosition	The Pinnacles (Montana)  highestPosition  1
+The Pine Hills	highestPosition	The Pine Hills  highestPosition  1
+Sweet Grass Hills	highestPosition	Sweet Grass Hills  highestPosition  1
+Spokane Hills	highestPosition	Spokane Hills  highestPosition  1
+South Hills (Montana)	highestPosition	South Hills (Montana)  highestPosition  1
+Spear Hills	highestPosition	Spear Hills  highestPosition  1
+South Moccasin Mountains	highestPosition	South Moccasin Mountains  highestPosition  1
+Altar Valley	highestPosition	Altar Valley  highestPosition  1
+Peloncillo Mountains (Cochise County)	highestPosition	Peloncillo Mountains (Cochise County)  highestPosition  1
+Peloncillo Mountains (Hidalgo County)	highestPosition	Peloncillo Mountains (Hidalgo County)  highestPosition  1
+Nicholas Range (Antarctic)	highestPosition	Nicholas Range (Antarctic)  highestPosition  1
+Mashike Mountains	highestPosition	Mashike Mountains  highestPosition  1
+Shokanbetsudake Mountains	highestPosition	Shokanbetsudake Mountains  highestPosition  1
+Patagonia Mountains	highestPosition	Patagonia Mountains  highestPosition  1
+Gettys-Black divide	highestPosition	Gettys-Black divide  highestPosition  1
+Squamish volcanic field	highestPosition	Squamish volcanic field  highestPosition  1
+Satah Mountain volcanic field	highestPosition	Satah Mountain volcanic field  highestPosition  1
+Silver Bell Mountains	highestPosition	Silver Bell Mountains  highestPosition  1
+Gjelsvik Mountains	highestPosition	Gjelsvik Mountains  highestPosition  1
+Pajarito Mountains	highestPosition	Pajarito Mountains  highestPosition  1
+Nor'Wester Mountains	highestPosition	Nor'Wester Mountains  highestPosition  1
+Serra de Na Burguesa	highestPosition	Serra de Na Burguesa  highestPosition  1
+Buckskin Mountains	highestPosition	Buckskin Mountains  highestPosition  1
+Galiuro Mountains	highestPosition	Galiuro Mountains  highestPosition  1
+Weaver Mountains	highestPosition	Weaver Mountains  highestPosition  1
+Black Hills (Yavapai County)	highestPosition	Black Hills (Yavapai County)  highestPosition  1
+Granite Wash Mountains	highestPosition	Granite Wash Mountains  highestPosition  1
+Gila Bend Mountains	highestPosition	Gila Bend Mountains  highestPosition  1
+New Paltz (village), New York	highestPosition	New Paltz (village), New York  highestPosition  1
+New Paltz, New York	highestPosition	New Paltz, New York  highestPosition  1
+Cambridge (village), New York	highestPosition	Cambridge (village), New York  highestPosition  1
+West Silver Bell Mountains	highestPosition	West Silver Bell Mountains  highestPosition  1
+Little Rincon Mountains	highestPosition	Little Rincon Mountains  highestPosition  1
+Gros Ventre Range	highestPosition	Gros Ventre Range  highestPosition  1
+Arnspitze Group	highestPosition	Arnspitze Group  highestPosition  1
+Black Hills (Greenlee County)	highestPosition	Black Hills (Greenlee County)  highestPosition  1
+Belmont Mountains	highestPosition	Belmont Mountains  highestPosition  1
+Little Burro Mountains	highestPosition	Little Burro Mountains  highestPosition  1
+San Augustin Mountains	highestPosition	San Augustin Mountains  highestPosition  1
+Canyon Creek Mountains	highestPosition	Canyon Creek Mountains  highestPosition  1
+Otish Mountains	highestPosition	Otish Mountains  highestPosition  1
+Les Monts Groulx	highestPosition	Les Monts Groulx  highestPosition  1
+Cedar Mountain Range	highestPosition	Cedar Mountain Range  highestPosition  1
+Pyramid Mountains	highestPosition	Pyramid Mountains  highestPosition  1
+Luera Mountains	highestPosition	Luera Mountains  highestPosition  1
+Alamo Hueco Mountains	highestPosition	Alamo Hueco Mountains  highestPosition  1
+Big Burro Mountains	highestPosition	Big Burro Mountains  highestPosition  1
+Fra Cristobal Range	highestPosition	Fra Cristobal Range  highestPosition  1
+Endicott Mountains	highestPosition	Endicott Mountains  highestPosition  1
+Poachie Range	highestPosition	Poachie Range  highestPosition  1
+Guadalupe Mountains (Hidalgo County)	highestPosition	Guadalupe Mountains (Hidalgo County)  highestPosition  1
+Antelope Valley (Lander County)	highestPosition	Antelope Valley (Lander County)  highestPosition  1
+Montes de Toledo	highestPosition	Montes de Toledo  highestPosition  1
+Goshute Valley	highestPosition	Goshute Valley  highestPosition  1
+Antelope Valley (Eureka County)	highestPosition	Antelope Valley (Eureka County)  highestPosition  1
+Antelope Valley (Elko-White Pine Counties)	highestPosition	Antelope Valley (Elko-White Pine Counties)  highestPosition  1
+Pahute Mesa (landform)	highestPosition	Pahute Mesa (landform)  highestPosition  1
+Date Creek Mountains	highestPosition	Date Creek Mountains  highestPosition  1
+Lake Valley (Nevada)	highestPosition	Lake Valley (Nevada)  highestPosition  1
+Bull Valley Mountains	highestPosition	Bull Valley Mountains  highestPosition  1
+Fermentelos	highestPosition	Fermentelos  highestPosition  1
+Serra del Cadí	highestPosition	Serra del Cadí  highestPosition  1
+Farnham Group	highestPosition	Farnham Group  highestPosition  1
+Toby Glacier	highestPosition	Toby Glacier  highestPosition  1
+Sierra de Ávila	highestPosition	Sierra de Ávila  highestPosition  1
+Sarcobatus Flat	highestPosition	Sarcobatus Flat  highestPosition  1
+Florida Mountains	highestPosition	Florida Mountains  highestPosition  1
+Cookes Range	highestPosition	Cookes Range  highestPosition  1
+New River Mountains	highestPosition	New River Mountains  highestPosition  1
+Santa Maria Mountains	highestPosition	Santa Maria Mountains  highestPosition  1
+Aquarius Mountains	highestPosition	Aquarius Mountains  highestPosition  1
+Monchique Islet	highestPosition	Monchique Islet  highestPosition  1
+Mount Choqa	highestPosition	Mount Choqa  highestPosition  1
+Terra Chã	highestPosition	Terra Chã  highestPosition  1
+Eternal Light Peace Memorial	highestPosition	Eternal Light Peace Memorial  highestPosition  1
+Bridgeport Valley	highestPosition	Bridgeport Valley  highestPosition  1
+Mount Kirishima	highestPosition	Mount Kirishima  highestPosition  1
+Köroğlu Mountains	highestPosition	Köroğlu Mountains  highestPosition  1
+Sierra de Villuercas	highestPosition	Sierra de Villuercas  highestPosition  1
+Pennsylvania State Memorial	highestPosition	Pennsylvania State Memorial  highestPosition  1
+East Tintic Mountains	highestPosition	East Tintic Mountains  highestPosition  1
+Caballo Mountains	highestPosition	Caballo Mountains  highestPosition  1
+Sierra de la Cabrera	highestPosition	Sierra de la Cabrera  highestPosition  1
+Sierra de Santa Cruz (Guatemala)	highestPosition	Sierra de Santa Cruz (Guatemala)  highestPosition  1
+Arrowsmith Range	highestPosition	Arrowsmith Range  highestPosition  1
+Henry Mountains Bison Herd	highestPosition	Henry Mountains Bison Herd  highestPosition  1
+Braeburn Range	highestPosition	Braeburn Range  highestPosition  1
+Namcha Barwa Himal	highestPosition	Namcha Barwa Himal  highestPosition  1
+Tsiv-Gombori Range	highestPosition	Tsiv-Gombori Range  highestPosition  1
+Sierra de las Ánimas	highestPosition	Sierra de las Ánimas  highestPosition  1
+Faial Nature Park	highestPosition	Faial Nature Park  highestPosition  1
+Marlboro Mountains	highestPosition	Marlboro Mountains  highestPosition  1

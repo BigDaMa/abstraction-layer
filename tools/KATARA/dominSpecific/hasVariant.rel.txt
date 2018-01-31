@@ -1,0 +1,193 @@
+Coca-Cola	hasVariant	Coca-Cola#Brand portfolio
+Gazpacho	hasVariant	Salmorejo
+Paella	hasVariant	Valencian Community
+Paella	hasVariant	Seafood
+7 Up	hasVariant	DnL
+7 Up	hasVariant	7 Up#Variations
+Cognac (brandy)	hasVariant	Cognac (brandy)#Grades
+BLT	hasVariant	Club sandwich
+Diet Coke	hasVariant	Caffeine-Free Coca-Cola
+Diet Coke	hasVariant	Diet Coke
+Diet Coke	hasVariant	Coca-Cola with Lime
+Diet Coke	hasVariant	Coca-Cola Raspberry
+Diet Coke	hasVariant	Coca-Cola Black Cherry Vanilla
+Diet Coke	hasVariant	Diet Coke
+Diet Coke	hasVariant	Diet Coke Plus
+Tango (drink)	hasVariant	Tango (drink)#List of flavours and variants
+Stewart's Fountain Classics	hasVariant	Birch beer
+Dosa	hasVariant	Rava dosa
+Dosa	hasVariant	Neer dosa
+Faygo	hasVariant	Faygo#Brand portfolio
+Ovaltine	hasVariant	Malt
+Fanta	hasVariant	Fanta#International availability
+Crème caramel	hasVariant	Crème brûlée
+Crème caramel	hasVariant	Crème brûlée#Crema catalana
+Carbonara	hasVariant	Mushroom
+Roti	hasVariant	Chapati
+Roti	hasVariant	Makki di roti
+Roti	hasVariant	Tandoori roti
+Roti	hasVariant	Roti canai
+Fettuccine alfredo	hasVariant	Broccoli
+Fettuccine alfredo	hasVariant	Parsley
+Fettuccine alfredo	hasVariant	Garlic
+Fettuccine alfredo	hasVariant	Chicken (food)
+Fettuccine alfredo	hasVariant	Shrimp
+Empanada	hasVariant	Pasty
+Fabada Asturiana	hasVariant	Olla podrida
+Fabada Asturiana	hasVariant	Cassoulet
+Żubrówka	hasVariant	Coumarin
+Tab (soft drink)	hasVariant	Tab Clear
+Tab (soft drink)	hasVariant	Tab (soft drink)
+Tab (soft drink)	hasVariant	Tab Energy
+Alfajor	hasVariant	Argentina
+Alfajor	hasVariant	Uruguay
+Fried dough	hasVariant	Zeppole
+Vimto	hasVariant	Soft drink
+Vimto	hasVariant	Squash (drink)
+Pakora	hasVariant	Potato
+Pakora	hasVariant	Onion
+Pakora	hasVariant	Cauliflower
+General Tso's chicken	hasVariant	Orange chicken
+Paneer	hasVariant	Rasgulla
+Double Cola    1	hasVariant	Ski (soda)
+Raita	hasVariant	Dahi chutney
+Haleem	hasVariant	Hyderabadi haleem
+Haleem	hasVariant	Khichra
+Ketel One	hasVariant	Lemon
+Ketel One	hasVariant	Orange (fruit)
+Clamato	hasVariant	Clamato
+Clamato	hasVariant	Nutrimato
+Shasta (soft drink)  Shasta Cola   1	hasVariant	Cherry
+Shasta (soft drink)  Shasta Cola   1	hasVariant	Vanilla
+Jalebi	hasVariant	Imarti
+Jalebi	hasVariant	Imarti
+Karedok	hasVariant	Gado-gado
+Garlic chutney	hasVariant	Dahi chutney
+Garlic chutney	hasVariant	Raita
+Jamón serrano	hasVariant	Jamón ibérico
+Wai-Wai (food)	hasVariant	Chicken
+Wai-Wai (food)	hasVariant	Vegetarianism
+Salmorejo	hasVariant	Gazpacho
+Gado-gado	hasVariant	Karedok
+Laddu	hasVariant	Bombay rava
+Kheer	hasVariant	Gil e firdaus
+Kheer	hasVariant	Barley
+Pakola	hasVariant	Orange soft drink
+Pakola	hasVariant	Lemonade
+Pakola	hasVariant	Ice cream soda
+Pakola	hasVariant	Lychee
+Pakola	hasVariant	Raspberry
+Papadum	hasVariant	Rice
+Rasgulla	hasVariant	Orissa
+Sinigang	hasVariant	Pork
+Sinigang	hasVariant	Shrimp
+Sinigang	hasVariant	Chicken
+Tinola	hasVariant	Moringa oleifera
+Mechado	hasVariant	Beef tongue
+Vault (soft drink)	hasVariant	Vault (soft drink)
+Puri (food)	hasVariant	Bhatoora
+Puri (food)	hasVariant	Luchi
+Puri (food)	hasVariant	Puri (food)
+Arrabbiata sauce	hasVariant	Basil
+Arrabbiata sauce	hasVariant	Parsley
+Gueuze	hasVariant	Lambic
+Nasi uduk	hasVariant	Nasi lemak
+Kaju Katli	hasVariant	Peda
+Kaju Katli	hasVariant	Barfi
+Kaju Katli	hasVariant	Kaju barfi
+Kare-kare	hasVariant	Domestic goat#Goat uses
+Spaghetti alla puttanesca	hasVariant	Tuna
+Barfi	hasVariant	Peda
+Barfi	hasVariant	Kaju Katli
+Jamón ibérico	hasVariant	Jamón serrano
+Cecina (meat)	hasVariant	Jamón
+Café con leche	hasVariant	Café au lait
+Café con leche	hasVariant	Latte
+Sugo all'amatriciana	hasVariant	Onion
+Sugo all'amatriciana	hasVariant	Garlic
+Sugo all'amatriciana	hasVariant	Black pepper
+White Mountain Cooler	hasVariant	Wine cooler
+Urge (soft drink)	hasVariant	Surge (soft drink)
+Amrat Cola	hasVariant	Orange soft drink
+Amrat Cola	hasVariant	Lemonade
+Slavink	hasVariant	Veal
+Spaghetti with meatballs	hasVariant	Marinara sauce
+Spaghetti with meatballs	hasVariant	Fettuccine
+Spaghetti with meatballs	hasVariant	Tagliatelle
+Apotekarnes Cola	hasVariant	Julmust
+Apotekarnes Cola	hasVariant	Sockerdricka
+Apotekarnes Cola	hasVariant	Hallonmust
+Farmers Union Iced Coffee	hasVariant	Farmers Union Light Iced Coffee
+Farmers Union Iced Coffee	hasVariant	Farmers Union Strong Iced Coffee
+Siomay	hasVariant	Batagor
+Siomay	hasVariant	Shumai
+Malai Laddu	hasVariant	Laddu
+Rava idli	hasVariant	Ghee
+Lincolnshire sausage	hasVariant	Chipolata
+Lotus vodka	hasVariant	White Lotus
+Lotus vodka	hasVariant	Blue lotus
+Perú Cola	hasVariant	Cola
+Pinchitos	hasVariant	Beef
+Pinchitos	hasVariant	Lamb and mutton
+Rasabali	hasVariant	Gulab jamun
+Joose	hasVariant	Orange (fruit)
+Joose	hasVariant	Cranberry
+Joose	hasVariant	Watermelon
+Joose	hasVariant	Granny Smith
+Joose	hasVariant	Punch (drink)
+Joose	hasVariant	Raspberry Lemonade
+Masgouf	hasVariant	Tandoor
+Besan barfi	hasVariant	Barfi
+Cassinelli	hasVariant	Cola
+Kheersagar	hasVariant	Kheer
+Concordia (beverage)	hasVariant	Fragaria
+Concordia (beverage)	hasVariant	Pineapple
+Beed Cola	hasVariant	Cola
+Powerking	hasVariant	Light
+Artic (vodka)	hasVariant	Fragaria
+Artic (vodka)	hasVariant	Peach
+Artic (vodka)	hasVariant	Lemon
+Artic (vodka)	hasVariant	Apple
+Artic (vodka)	hasVariant	Peppermint
+Artic (vodka)	hasVariant	Liquorice
+Keglevich	hasVariant	Fragaria
+Keglevich	hasVariant	Peach
+Keglevich	hasVariant	Lemon
+Keglevich	hasVariant	Melon
+Keglevich	hasVariant	Apple
+Keglevich	hasVariant	Mentha
+Keglevich	hasVariant	Blueberry
+Keglevich	hasVariant	Berry
+Keglevich	hasVariant	Fragaria
+Keglevich	hasVariant	Cream
+Keglevich	hasVariant	Liquorice
+Keglevich	hasVariant	Mango
+Keglevich	hasVariant	Passiflora edulis
+Keglevich	hasVariant	Green tea
+Pulp (juice)	hasVariant	Apricot
+Grapico	hasVariant	Grapico
+Venom Energy	hasVariant	Energy shot
+Adobo (Filipino cuisine)	hasVariant	Pork
+Adobo (Filipino cuisine)	hasVariant	Chicken
+Chhena jalebi	hasVariant	Jalebi
+Dalcha	hasVariant	Sambar (dish)
+Pepes	hasVariant	Buntil
+Pepes	hasVariant	Botok
+Pepes	hasVariant	Otak-otak
+Vita Coco	hasVariant	Coconut water
+Mandazi	hasVariant	Coconut milk
+Mandazi	hasVariant	Peanut
+Mandazi	hasVariant	Almond
+Fabes con almejas	hasVariant	Fabada Asturiana
+Hamdog	hasVariant	Chili con carne
+Hamdog	hasVariant	Cheese
+Hamdog	hasVariant	Onion
+Hamdog	hasVariant	Egg (food)
+Hamdog	hasVariant	Potato
+Hamdog	hasVariant	Hoagie roll
+Arctic Velvet	hasVariant	Vodka
+Arctic Velvet	hasVariant	Gin
+Arctic Velvet	hasVariant	Whisky
+Arctic Velvet	hasVariant	Aqua vitae
+Sprite (soft drink)	hasVariant	Sprite (soft drink)#Brand portfolio
+Tongseng	hasVariant	Curry#Indonesian cuisine

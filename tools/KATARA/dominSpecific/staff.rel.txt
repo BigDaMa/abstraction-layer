@@ -1,0 +1,3495 @@
+Crandall University	staff	27
+Crandall University	staff	27
+Acadia University	staff	211
+Acadia University	staff	37
+Bob Jones University	staff	1450
+Chalmers University of Technology	staff	2500
+Drexel University	staff	1404
+Eindhoven University of Technology	staff	2200
+University of Gothenburg	staff	4700
+University of Gothenburg	staff	2500
+Indian Institute of Technology Kanpur	staff	1200
+Ithaca College	staff	989
+KAIST	staff	322
+Kent State University	staff	3453
+Lund University	staff	5300
+Macquarie University	staff	2365
+BI Norwegian Business School	staff	800
+Ohio State University	staff	5584
+Oberlin College	staff	1058
+Princeton University	staff	1103
+Royal Institute of Technology	staff	2935
+Rice University	staff	2152
+Stockholm School of Economics	staff	300
+Stockholm University	staff	6000
+University of Washington	staff	16174
+University of Bergen	staff	3200
+University of Oslo	staff	2598
+Uppsala University	staff	6000
+University of Rochester	staff	1225
+University of California, Davis	staff	21372
+University of California	staff	90296
+University of Sydney	staff	3081
+University of Southern California	staff	10774
+University of Texas at Austin	staff	14000
+University of Tulsa	staff	306
+Utrecht University	staff	8614
+University of Sussex	staff	2120
+University of New Brunswick	staff	620
+University of Victoria	staff	6048
+University of Utah	staff	14362
+University of Manitoba	staff	2348
+University of Manchester Institute of Science and Technology	staff	1500
+University of Chicago	staff	14772
+University for Peace	staff	80
+United States Military Academy	staff	600
+Victoria University, Australia	staff	2854
+York University	staff	7000
+University of California, Los Angeles	staff	26139
+Johns Hopkins University	staff	15000
+University of Glasgow	staff	5807
+Lehigh University	staff	1255
+University of Southern Denmark	staff	2200
+Odense University	staff	1000
+Michigan Technological University	staff	1269
+Mendel University Brno	staff	595
+University College London	staff	8000
+Eton College	staff	135
+Duke University	staff	8057
+Amherst College	staff	190
+Aalto University School of Science and Technology	staff	3300
+University of Bristol	staff	5809
+Boston University	staff	7410
+University of Warwick	staff	4448
+École nationale supérieure des télécommunications de Bretagne	staff	300
+University of Barcelona	staff	4715
+Autonomous University of Barcelona	staff	2908
+Springfield Elementary School	staff	6
+University of Brighton	staff	2600
+Marlboro College	staff	41
+North Carolina State University	staff	6087
+Juniata College	staff	403
+University of Waterloo	staff	2184
+United States Air Force Academy	staff	600
+United States Air Force Academy	staff	75
+University of Stirling	staff	1872
+University of North Carolina	staff	30664
+University of North Carolina at Greensboro	staff	2530
+South Dakota State University	staff	694
+Central Washington University	staff	1458
+University of Lausanne	staff	2227
+Rutgers University	staff	6414
+Brandeis University	staff	961
+Rochester Institute of Technology	staff	1831
+Nanyang Technological University	staff	2500
+University of Manchester	staff	10407
+Western Connecticut State University	staff	876
+University of Miami	staff	10437
+St. Mary's University, Texas	staff	183
+University of Bonn	staff	6500
+East Carolina University	staff	5354
+University of North Carolina at Chapel Hill	staff	8534
+University of Calgary	staff	5363
+Complutense University of Madrid	staff	11162
+Roskilde University	staff	893
+University of Otago	staff	3751
+Heidelberg University	staff	4196
+University of Twente	staff	1352
+Georgetown University	staff	1500
+University of Tromsø	staff	2500
+Delft University of Technology	staff	1905
+Jacobs University Bremen	staff	137
+Morgan State University	staff	1556
+University of Ottawa	staff	4057
+University of Puerto Rico	staff	14177
+Milton Abbey School	staff	50
+Technical University of Denmark	staff	4500
+National Autonomous University of Mexico	staff	35679
+University of New South Wales	staff	6014
+Northwestern College (Iowa)	staff	174
+San Francisco State University	staff	2010
+University of Central Florida	staff	8425
+Brunel University	staff	1616
+University of York	staff	3091
+University of Tehran	staff	3243
+Institut Le Rosey	staff	70
+Eastern Michigan University	staff	700
+Al-Quds University	staff	1000
+Dulwich College	staff	193
+University of Kansas	staff	10727
+Monmouth College	staff	128
+Linköping University	staff	3284
+University of Tokyo	staff	5779
+University of Maribor	staff	1326
+University of Ljubljana	staff	3500
+University of Surrey	staff	2338
+University of Surrey	staff	150
+University of Missouri–Kansas City	staff	2029
+Westminster School	staff	105
+University of Münster	staff	13000
+Virginia Commonwealth University	staff	18657
+Hampshire College	staff	115
+Illinois State University	staff	3481
+University of Missouri System	staff	16638
+Western Washington University	staff	1172
+John Abbott College	staff	700
+University of Göttingen	staff	11
+University of St Andrews	staff	1804
+University of St Andrews	staff	817
+Gallaudet University	staff	293
+Kenyon College	staff	182
+West Virginia University	staff	7566
+Missouri State University	staff	2981
+Kyoto University	staff	5397
+University of the Philippines	staff	6491
+University of the Philippines	staff	3553
+La Trobe University	staff	2749
+University of Applied Sciences Giessen-Friedberg	staff	630
+Seoul National University	staff	991
+University of Leeds	staff	8000
+University of New England (Australia)	staff	1500
+University of East Anglia	staff	2966
+Berlin Institute of Technology	staff	7499
+University of Greenland	staff	21
+Franklin W. Olin College of Engineering	staff	31
+Western Carolina University	staff	1642
+Dr Challoner's Grammar School	staff	150
+Newcastle University	staff	5000
+Fiorello H. LaGuardia High School	staff	163
+University of Kent	staff	2887
+University of Adelaide	staff	1353
+Carleton University	staff	4260
+Aston University	staff	1000
+ETH Zurich	staff	9809
+Mississippi State University	staff	3361
+University of Aberdeen	staff	3515
+Lund School of Economics and Management	staff	300
+Luleå University of Technology	staff	1600
+Lund Institute of Technology	staff	1400
+Swedish University of Agricultural Sciences	staff	3000
+Karolinska Institutet	staff	3600
+Halmstad University, Sweden	staff	230
+Mälardalen University College	staff	1145
+Södertörn University College	staff	800
+Karlstad University	staff	1100
+Örebro University	staff	1
+Jackson State University	staff	1200
+Birla Institute of Technology and Science, Pilani	staff	593
+Middlesex University	staff	3320
+Åbo Akademi University	staff	1127
+University of Helsinki	staff	8150
+Ferris State University	staff	832
+University of Strathclyde	staff	3200
+Portland State University	staff	2248
+University of California, Riverside	staff	1938
+University of Western Australia	staff	3222
+Norwegian University of Science and Technology	staff	4300
+École Polytechnique de Montréal	staff	220
+University of Nevada, Las Vegas	staff	3282
+Florida State University	staff	6129
+Boston College	staff	1368
+Tampere University of Technology	staff	1564
+Seton Hall University	staff	860
+Villanova University	staff	2000
+Michigan State University	staff	6355
+University of Alberta	staff	10640
+University of Texas System	staff	62982
+RWTH Aachen University	staff	6883
+RWTH Aachen University	staff	1896
+Lewis & Clark College	staff	745
+Ruhr University Bochum	staff	5300
+Swinburne University of Technology	staff	1422
+University of Massachusetts Amherst	staff	1174
+University of Massachusetts	staff	16561
+University of Massachusetts Lowell	staff	740
+Ludwig Maximilian University of Munich	staff	13602
+Ludwig Maximilian University of Munich	staff	700
+University of Salford	staff	2781
+University of Jyväskylä	staff	2300
+Télécom ParisTech	staff	340
+University of Oregon	staff	1666
+University of South Dakota	staff	400
+Cleveland State University	staff	1000
+Utah State University	staff	1614
+University of Oulu	staff	3000
+Ghent University	staff	7100
+Maharishi University of Management	staff	200
+Clark University	staff	186
+Bowling Green State University	staff	1915
+University of Tirana	staff	600
+Louisiana State University	staff	5000
+University of Kentucky	staff	11546
+Australian National University	staff	3945
+San Diego State University	staff	1684
+University of Vermont	staff	1185
+Arkansas State University	staff	965
+William Paterson University	staff	1123
+Drew University	staff	345
+Miami University	staff	1400
+Monmouth University	staff	590
+Kean University	staff	352
+Montclair State University	staff	4500
+École nationale d'administration	staff	229
+University of Arkansas	staff	2942
+Appalachian State University	staff	2872
+Connecticut College	staff	486
+Charles Darwin University	staff	1156
+University of Freiburg	staff	4578
+Brentwood School (Essex)	staff	114
+University of Texas at El Paso	staff	1511
+University of Western Sydney	staff	2551
+University of Western Sydney	staff	1151
+University of Western Sydney	staff	1400
+Humboldt University of Berlin	staff	407
+University of Delaware	staff	4004
+University of Sheffield	staff	5306
+Lawrence University	staff	156
+University of Technology, Sydney	staff	2682
+Free University of Berlin	staff	4871
+Free University of Berlin	staff	422
+Free University of Berlin	staff	1200
+Emmanuel College (Massachusetts)	staff	92
+Lancaster University	staff	3025
+Swansea University	staff	2500
+The Evergreen State College	staff	495
+École Normale Supérieure de Lyon	staff	350
+University of the Witwatersrand	staff	1951
+Brooklyn College	staff	519
+Brooklyn College	staff	444
+Suffolk University	staff	505
+Oklahoma State University–Stillwater	staff	1857
+Auburn University	staff	1200
+Ateneo de Manila University	staff	1103
+University of Essex	staff	1420
+Mohawk College	staff	1100
+Cardiff University	staff	5230
+Loughborough University	staff	2915
+North Dakota State University	staff	5878
+University of Leipzig	staff	3246
+Laurentian University	staff	922
+Lakehead University	staff	2250
+Nipissing University	staff	1338
+OCAD University	staff	156
+OCAD University	staff	229
+Beijing Institute of Technology	staff	1400
+Bastyr University	staff	264
+University of Newcastle (Australia)	staff	2190
+Technical University Munich	staff	9057
+Technical University Munich	staff	5564
+University of Graz	staff	3000
+University of Wales, Lampeter	staff	200
+University of Jena	staff	2161
+Hokkaido University	staff	6250
+Hope College	staff	250
+Royal Military College of Canada	staff	200
+San Rafael High School	staff	90
+Moscow State University	staff	15000
+Keio University	staff	2662
+Université de Sherbrooke	staff	3200
+École nationale d'administration publique	staff	143
+Howard University	staff	1950
+Aalborg University	staff	1639
+Universidade Federal de Minas Gerais	staff	4445
+University of Illinois at Urbana–Champaign	staff	8085
+University of Louisville	staff	3875
+Vrije Universiteit Brussel	staff	2582
+Université libre de Bruxelles	staff	4400
+London South Bank University	staff	1700
+Florida International University	staff	4172
+University of Iceland	staff	1259
+Nihon University	staff	1720
+Illinois Mathematics and Science Academy	staff	55
+Brock University	staff	915
+Bellarmine University	staff	240
+Liverpool John Moores University	staff	1095
+Shandong University	staff	7898
+Loras College	staff	172
+Université catholique de Louvain	staff	5139
+Cosumnes River College	staff	400
+Dhirubhai Ambani Institute of Information and Communication Technology	staff	70
+Aarhus University	staff	11000
+ESADE	staff	1215
+Idaho State University	staff	1269
+University of Lapland	staff	626
+University of New Mexico	staff	6899
+University of Dundee	staff	3000
+University of Passau	staff	564
+Griffith University	staff	4000
+University of North Carolina Wilmington	staff	1252
+University of Plymouth	staff	3000
+Sydney Grammar School	staff	63
+Sydney Grammar School	staff	15
+Sydney Grammar School	staff	21
+King Edward's School, Birmingham	staff	70
+University of Canberra	staff	853
+University of North Dakota	staff	1906
+University of New England (United States)	staff	495
+University of the West of Scotland	staff	1300
+California Polytechnic State University	staff	1383
+Eastern Kentucky University	staff	1664
+University of Regina	staff	1283
+University of Michigan–Flint	staff	510
+University of Pisa	staff	1900
+Sharif University of Technology	staff	395
+University of Milan	staff	2455
+University of Parma	staff	1100
+University of Florence	staff	2288
+University of Trieste	staff	1000
+University of Turin	staff	690
+University of Turin	staff	611
+University of Turin	staff	761
+University of Turin	staff	28
+University of Turin	staff	1514
+University of Puerto Rico at Mayagüez	staff	1336
+Saint Joseph's University	staff	960
+Serampore College	staff	79
+University of Genoa	staff	1711
+Illinois Wesleyan University	staff	600
+University of Wollongong	staff	900
+Saskatchewan Institute of Applied Science and Technology	staff	1438
+Xidian University	staff	2860
+Loyola University New Orleans	staff	240
+American University of Beirut	staff	717
+Colorado State University	staff	4379
+University of Reading	staff	4024
+University of Patras	staff	754
+Azusa Pacific University	staff	617
+Atlantic College	staff	100
+United States Merchant Marine Academy	staff	250
+Belarusian State University	staff	7400
+Baruch College	staff	700
+Pitzer College	staff	200
+University of Phoenix	staff	12000
+Voronezh State University	staff	1700
+King's College (Pennsylvania)	staff	180
+Southern Connecticut State University	staff	403
+Central Connecticut State University	staff	416
+University of Wisconsin–Stout	staff	390
+University of Wisconsin–Superior	staff	322
+University of Wisconsin–Eau Claire	staff	1150
+University of New Haven	staff	367
+University of Hartford	staff	718
+University of Mobile	staff	200
+University of New Hampshire	staff	586
+University of South Alabama	staff	992
+University of Maryland Eastern Shore	staff	828
+Georgia State University	staff	1716
+Université du Québec à Trois-Rivières	staff	1200
+Vermont Technical College	staff	100
+Kelvinside Academy	staff	100
+Kanto Gakuin University	staff	299
+Bar-Ilan University	staff	1250
+Darton College	staff	235
+Wells College	staff	120
+University of Southern Queensland	staff	1396
+Fayetteville State University	staff	600
+Winston-Salem State University	staff	200
+University of Beira Interior	staff	631
+USC School of Cinematic Arts	staff	135
+USC School of Cinematic Arts	staff	300
+George S. Parker High School	staff	188
+University of Cincinnati	staff	3932
+University of Medicine and Dentistry of New Jersey	staff	12728
+University of Texas Medical Branch	staff	12000
+Westminster Under School	staff	39
+College of Idaho	staff	250
+Institute of Technology, Carlow	staff	220
+British Columbia Institute of Technology	staff	2262
+Castleton State College	staff	200
+Lyndon State College	staff	60
+London School of Hygiene & Tropical Medicine	staff	766
+State University of New York at Plattsburgh	staff	270
+Monroe Community College	staff	601
+Nassau Community College	staff	1500
+University of East London	staff	609
+University of Poitiers	staff	2300
+University of Wyoming	staff	1846
+Wellington College, Berkshire	staff	100
+University of Denver	staff	1628
+Mater Dei Institute of Education	staff	43
+University of Trier	staff	470
+Institute of Technology, Blanchardstown	staff	200
+Maastricht University	staff	3538
+Landmark College	staff	80
+Niigata University	staff	2293
+Texas Southern University	staff	350
+Reutlingen University	staff	329
+University of Amsterdam	staff	2294
+Thammasat University	staff	1505
+University of Kiel	staff	2175
+Davidson College	staff	549
+Moravian College	staff	120
+University of Hull	staff	2300
+Marshall University	staff	735
+Bethel University (Minnesota)	staff	370
+Lanzhou University	staff	2444
+University of Portsmouth	staff	2204
+Washington College	staff	468
+North Seattle Community College	staff	174
+North Country Community College	staff	35
+Kobe University	staff	1241
+Gakushuin University	staff	279
+Tohoku University	staff	5756
+Southern Oregon University	staff	749
+Austin College	staff	104
+King Saud University	staff	5000
+University of Salamanca	staff	1252
+Royal Northern College of Music	staff	265
+College of Charleston	staff	836
+Institute of Technology, Tallaght	staff	400
+Western Kentucky University	staff	1903
+École supérieure de chimie physique électronique de Lyon	staff	400
+University College School	staff	100
+University College School	staff	23
+Crown College, University of California, Santa Cruz	staff	22
+University of Alaska Fairbanks	staff	350
+University of Crete	staff	544
+Northland Baptist Bible College	staff	141
+University of Tampere	staff	1081
+Boğaziçi University	staff	1007
+Işık University	staff	648
+University of Greifswald	staff	5400
+Sichuan University	staff	11357
+University of Texas Southwestern Medical Center	staff	7103
+Montana State University – Bozeman	staff	1924
+Deakin University	staff	3031
+Cheltenham College	staff	88
+Northern Arizona University	staff	608
+Marmara University	staff	1375
+Minnesota State University Moorhead	staff	789
+Minnesota State University, Mankato	staff	1300
+St. Cloud State University	staff	845
+Lamar University	staff	550
+Camosun College	staff	950
+Drake University	staff	362
+Tennessee Technological University	staff	500
+California State University, Sacramento	staff	1590
+Weber State University	staff	820
+Austin Peay State University	staff	629
+University of Tennessee at Martin	staff	650
+Minzu University of China	staff	2014
+Columbus State University	staff	572
+McNeese State University	staff	848
+China University of Petroleum	staff	1497
+Bristol Community College	staff	432
+University of Copenhagen Faculty of Health Sciences	staff	1800
+Saint Petersburg State University	staff	11854
+Concordia College (Moorhead)	staff	400
+Heriot-Watt University	staff	450
+Regent University	staff	381
+University of Pavia	staff	1061
+University of Rostock	staff	3
+Bristol Grammar School	staff	110
+Adelphi University	staff	956
+Valencia College	staff	2557
+SAIT Polytechnic	staff	1938
+University of Buckingham	staff	89
+Eötvös Loránd University	staff	1500
+Montana State University Billings	staff	500
+York St John University	staff	618
+Sri Venkateswara College of Engineering	staff	210
+Istanbul University	staff	6000
+California State University, Bakersfield	staff	546
+California State University, Channel Islands	staff	370
+University of the Pacific (United States)	staff	966
+Sabancı University	staff	276
+Cranfield University	staff	1800
+University of Huddersfield	staff	1100
+University of Huddersfield	staff	900
+Leeds Metropolitan University	staff	3601
+University of Lincoln	staff	1276
+Staffordshire University	staff	1375
+Teesside University	staff	2284
+Institute of Cancer Research	staff	1096
+Bocconi University	staff	1369
+University of Ballarat	staff	260
+Pontifical Catholic University of Chile	staff	2732
+Glasgow Caledonian University	staff	1500
+Edinburgh Napier University	staff	1660
+University of Turku	staff	3000
+University of Lyon	staff	11500
+University of Coimbra	staff	1663
+University of New Orleans	staff	698
+University of Halle-Wittenberg	staff	5017
+Loyola University Maryland	staff	307
+Communication University of China	staff	1897
+Marquette University	staff	730
+University of St. Gallen	staff	285
+Transylvania University	staff	100
+Abbot's Hill School	staff	70
+McDaniel College	staff	103
+Butler University	staff	328
+Georgia Southern University	staff	1821
+Royal Military College Saint-Jean	staff	20
+Stratford High School (Houston, Texas)	staff	130
+University of Central Missouri	staff	439
+Hanze University Groningen, University of Applied Sciences	staff	2700
+Østfold University College	staff	480
+Algonquin College	staff	1151
+University of Bolton	staff	700
+University of Chester	staff	1396
+Merrimack College	staff	330
+Dresden University of Technology	staff	6123
+Federal University of São Carlos	staff	1705
+Richard Ivey School of Business	staff	77
+Richard Ivey School of Business	staff	4
+Oslo University College	staff	1100
+Bethel College (Kansas)	staff	60
+Dover College	staff	50
+Blundell's School	staff	66
+Plymouth College	staff	60
+Pensacola Christian College	staff	1500
+St. Thomas More College	staff	135
+Southern Adventist University	staff	254
+Ohio Wesleyan University	staff	200
+Raffles Institution (Secondary)	staff	500
+Rowan University	staff	893
+Glenbrook North High School	staff	321
+Savannah College of Art and Design	staff	1186
+Nevada State College	staff	74
+Mount St. Mary's College	staff	283
+Tongji University	staff	8182
+Peoples' Friendship University of Russia	staff	7000
+Denison University	staff	212
+Colchester Royal Grammar School	staff	105
+University of Puerto Rico, Río Piedras Campus	staff	2406
+De La Salle Canlubang	staff	174
+Yonsei University	staff	6714
+Carroll University	staff	96
+Florida Atlantic University	staff	1652
+Bunkyo University	staff	147
+Federal University of Rio de Janeiro	staff	8491
+Universidade Federal do Rio Grande do Sul	staff	4494
+Hong Kong Institute of Education	staff	400
+St. Joseph's College (New York)	staff	500
+Stellenbosch University	staff	2430
+Quincy University	staff	116
+Northern Kentucky University	staff	1021
+Polytechnic University of Turin	staff	5308
+Sheldon Jackson College	staff	18
+Fujian Agriculture and Forestry University	staff	2300
+Hebei University of Science and Technology	staff	2600
+Shijiazhuang University	staff	829
+Handan College	staff	795
+Zhengzhou University of Light Industry	staff	2400
+Zhengzhou University	staff	5926
+Jilin University	staff	15626
+Liaoning Normal University	staff	1732
+Shanxi University	staff	1000
+Beijing Jiaotong University	staff	1445
+Inner Mongolia University	staff	1111
+Beijing Language and Culture University	staff	829
+Western Chongqing University	staff	1342
+Donghua University	staff	3300
+University of the Andes (Colombia)	staff	1880
+University of Shanghai for Science and Technology	staff	1098
+Shanghai Institute of Technology	staff	1800
+Civil Aviation University of China	staff	1000
+Tianjin Medical University	staff	7943
+Sanda University	staff	450
+North China University of Technology	staff	550
+Capital University of Medical Sciences	staff	20000
+University of Vaasa	staff	430
+Menntaskólinn Hraðbraut	staff	25
+International Institute for Management Development	staff	300
+Chinese Culture University	staff	717
+Chinese Culture University	staff	266
+Chinese Culture University	staff	195
+Shih Chien University	staff	301
+University of Texas at San Antonio	staff	4000
+Oregon Institute of Technology	staff	222
+College of the Ozarks	staff	150
+University of Agder	staff	1000
+Glendon College	staff	225
+Trinity Baptist College	staff	28
+Western Oregon University	staff	313
+Southern University	staff	1465
+University of Toulouse	staff	6113
+University of Paderborn	staff	2
+University of Tennessee at Chattanooga	staff	422
+Slade School of Fine Art	staff	51
+Siena Heights University	staff	133
+University of Turabo	staff	200
+Southwestern Assemblies of God University	staff	110
+Université du Québec en Outaouais	staff	175
+Université du Québec à Chicoutimi	staff	209
+Université du Québec à Rimouski	staff	400
+St. John's College, University of Manitoba	staff	20
+Christendom College	staff	41
+Bradfield College	staff	120
+Jamia Millia Islamia	staff	997
+University of Klagenfurt	staff	804
+University of Klagenfurt	staff	501
+Greenhead College	staff	100
+National Technical University of Athens	staff	1350
+San Juan Bautista School of Medicine	staff	50
+Harvard Divinity School	staff	110
+Ponce School of Medicine	staff	325
+Eastern University (United States)	staff	350
+Madan Mohan Malaviya Engineering College	staff	100
+Çukurova University	staff	1903
+Centenary College of Louisiana	staff	228
+University of Szeged	staff	6600
+AGH University of Science and Technology	staff	4042
+Osaka University	staff	8675
+University of Houston System	staff	4981
+University of Houston–Downtown	staff	476
+Mountain Pointe High School	staff	109
+Nanjing University of Finance and Economics	staff	1686
+Dana College	staff	45
+Lenoir–Rhyne University	staff	240
+Tiffin School	staff	95
+Mysore Medical College	staff	250
+Branston Community Academy	staff	70
+Reykjavík University	staff	100
+Hacettepe University	staff	4
+Southwestern University	staff	125
+Kutztown University of Pennsylvania	staff	563
+École nationale supérieure de l'aéronautique et de l'espace	staff	36
+UCL School of Slavonic and East European Studies	staff	60
+University of Botswana	staff	2658
+Harker School	staff	386
+University of Wisconsin–Platteville	staff	336
+Norwegian School of Economics	staff	300
+The Castle School	staff	100
+University of Montevallo	staff	175
+Florida Christian College	staff	31
+University of Bern	staff	3224
+Millikin University	staff	1393
+Royal Grammar School, Guildford	staff	100
+University of Aveiro	staff	927
+Holland College	staff	634
+Danville Area Community College	staff	123
+Fairfax County Public Schools	staff	22150
+Monta Vista High School	staff	162
+Northwest Missouri State University	staff	876
+Xavier Institute of Management, Bhubaneswar	staff	200
+Warsaw School of Economics	staff	1400
+University of Tabriz	staff	957
+Corvinus University of Budapest	staff	867
+Concordia Language Villages	staff	1300
+Ashridge Business School	staff	400
+Viterbo University	staff	1
+Kim Il-sung University	staff	2800
+Dickinson State University	staff	212
+National University of Colombia	staff	2862
+Allama Iqbal Open University	staff	1899
+Royal Grammar School, Newcastle	staff	91
+Sapienza University of Rome	staff	10144
+National Institute of Engineering	staff	117
+Wageningen University and Research Centre	staff	6500
+Fairmont State University	staff	450
+Lincoln Memorial University	staff	152
+Willetton Senior High School	staff	200
+Grey Court School	staff	59
+Principia College	staff	66
+Sri Lanka Institute of Information Technology	staff	100
+University of Tennessee system	staff	6950
+Oakham School	staff	160
+Minghsin University of Science and Technology	staff	443
+Alverno College	staff	450
+Sophia University	staff	1000
+Los Angeles Trade–Technical College	staff	269
+Capella University	staff	1488
+University of Salzburg	staff	1600
+Northwest University (China)	staff	2300
+Southern University of Chile	staff	776
+University of Talca	staff	334
+Mayville State University	staff	175
+Williston State College	staff	70
+Asan Information and Technology Polytechnic College	staff	35
+Harvard Graduate School of Arts and Sciences	staff	1096
+Lebanese American University	staff	302
+Lebanese American University	staff	385
+Yong-In University	staff	234
+De La Salle – College of Saint Benilde	staff	1262
+Dhaka Medical College and Hospital	staff	3406
+University of Applied Arts Vienna	staff	340
+Danube University Krems	staff	445
+Harper College	staff	555
+King Edward VI Aston	staff	88
+King Edward VI Five Ways	staff	100
+Bucheon College	staff	90
+Anne Arundel Community College	staff	510
+Southern Illinois University Edwardsville	staff	2451
+Vanguard University of Southern California	staff	162
+Catholic University of Korea	staff	289
+Saddleback College	staff	697
+University of Chittagong	staff	1900
+Carson–Newman College	staff	199
+Chang Shin College	staff	60
+Jeju National University	staff	345
+Baekseok Culture University	staff	110
+Westmont College	staff	235
+UCL Institute of Archaeology	staff	70
+Framingham State University	staff	167
+Chittagong College	staff	400
+King William's College	staff	67
+Chiba University	staff	2572
+Anhui University of Technology	staff	1700
+Ashtree Primary School	staff	20
+Brighton College	staff	150
+Georgia College & State University	staff	407
+George Walton Academy	staff	130
+Glenbrook South High School	staff	290
+National Chung Hsing University	staff	416
+Durham Academy	staff	197
+Elder High School	staff	96
+Fergusson College	staff	130
+Truro School	staff	65
+Tung Wah Group of Hospitals S. C. Gaw Memorial College	staff	56
+Grenoble Institute of Technology	staff	350
+Augusta State University	staff	300
+Florida Gulf Coast University	staff	681
+Maine West High School	staff	287
+West Leyden High School	staff	120
+Oak Park and River Forest High School	staff	436
+Clarenceville School District	staff	119
+Magdalen College School, Oxford	staff	160
+Ontario Police College	staff	165
+MBM Engineering College	staff	150
+University of Texas of the Permian Basin	staff	140
+Ingraham High School	staff	97
+Kilgore College	staff	138
+Nipissing Lakers	staff	1338
+University of Texas Health Science Center at Houston	staff	3648
+Baldwin–Wallace College	staff	167
+Baldwin–Wallace College	staff	596
+Emily Carr University of Art and Design	staff	83
+Marine Institute of Memorial University of Newfoundland	staff	300
+Indiana Wesleyan University	staff	1113
+University of Bielsko-Biała	staff	350
+Lingnan University (Hong Kong)	staff	538
+Hymers College	staff	105
+St. Lawrence College, Ontario	staff	1000
+Chiang Mai University	staff	2171
+Federal University of Paraná	staff	3704
+Bournemouth School	staff	120
+Glenalmond College	staff	52
+Tokyo University of the Arts	staff	227
+San Diego Mesa College	staff	526
+The Bartlett	staff	250
+Edinboro University of Pennsylvania	staff	392
+Loma Linda University	staff	1068
+Foundation University	staff	200
+Beirut Arab University	staff	1245
+Politecnico di Milano	staff	1200
+University of Stavanger	staff	1200
+The Downs School (Herefordshire)	staff	79
+Berg Upper Secondary School	staff	80
+Eirias High School	staff	115
+University of Edinburgh School of Law	staff	67
+National Institute of Foundry and Forge Technology	staff	110
+Montgomery County Public Schools	staff	22229
+Pate's Grammar School	staff	87
+Bielefeld University	staff	1585
+Universidade Federal de Santa Maria	staff	2616
+Cathedral High School (Springfield, Massachusetts)	staff	25
+Wayne Community College	staff	250
+Harvard School of Public Health	staff	300
+University of Music and Theatre Leipzig	staff	519
+Tarlac State University	staff	179
+Tarlac State University	staff	355
+University of Colombo	staff	1600
+University of Moratuwa	staff	500
+Milligan College	staff	94
+Tusculum College	staff	272
+Bryan College	staff	188
+University of the Azores	staff	231
+Trinity School of John Whitgift	staff	184
+Pennsylvania Highlands Community College	staff	168
+Taras Shevchenko National University of Kyiv	staff	3420
+Broward College	staff	1000
+Bethany Bible College	staff	40
+Homestead High School (Cupertino, California)	staff	97
+Nova Southeastern University	staff	4319
+Bishop Luffa School	staff	90
+Collins College (Phoenix)	staff	200
+Rajshahi University	staff	2000
+Bishop of Llandaff Church in Wales High School	staff	110
+Nikan High School	staff	40
+Harlaw Academy	staff	85
+Oldmachar Academy	staff	70
+University of Primorska	staff	260
+Rocky Mountain College of Art and Design	staff	34
+Kagoshima University	staff	2444
+Fort Valley State University	staff	400
+Naperville North High School	staff	273
+Jesse O. Sanderson High School	staff	133
+Portchester Community School	staff	96
+University of Arkansas for Medical Sciences	staff	10552
+College of Southern Idaho	staff	152
+Latymer Upper School	staff	98
+High School of Dundee	staff	106
+Kwansei Gakuin University	staff	279
+Darmstadt University of Technology	staff	2100
+Arcadia University	staff	300
+George Heriot's School	staff	129
+Postipuu School	staff	60
+Bryant University	staff	265
+M. S. Ramaiah Institute of Technology	staff	700
+Full Sail University	staff	1400
+The Presbyterian College, Montreal	staff	5
+McKendree University	staff	225
+St. Mary's University College (Twickenham)	staff	443
+Newcastle-under-Lyme School	staff	91
+Yukon College	staff	220
+Aurora College	staff	200
+Miranda House	staff	326
+Universidade Federal de Santa Catarina	staff	4539
+Konstfack	staff	210
+Charter School of Wilmington	staff	66
+Warwick Business School	staff	319
+Chesapeake College	staff	152
+Robert E. Lee High School (Jacksonville, Florida)	staff	100
+Universiti Teknologi Malaysia	staff	1874
+St. Joseph's College, Edmonton	staff	19
+St. Joseph's College, Edmonton	staff	14
+Elk Grove High School (Elk Grove Village, Illinois)	staff	222
+Henry Ford Community College	staff	741
+Lally School of Management & Technology	staff	56
+Saint Bonaventure's College	staff	39
+Colfe's School	staff	100
+North Island College	staff	400
+University of Regensburg	staff	4200
+Tabor College (Kansas)	staff	140
+King Edward's School, Bath	staff	70
+King Edward's School, Bath	staff	90
+HACC, Central Pennsylvania's Community College	staff	255
+Landstown High School	staff	164
+Des Moines University	staff	331
+University of Calabria	staff	800
+Cuesta College	staff	245
+Charlestown High School	staff	115
+Ålesund University College	staff	150
+University of the Ryukyus	staff	1265
+P.E.S. Institute of Technology	staff	300
+University of Erfurt	staff	538
+Shahjalal University of Science and Technology	staff	500
+Stanton College Preparatory School	staff	100
+Pamukkale University	staff	2451
+Newport News Public Schools	staff	5113
+Menlo-Atherton High School	staff	125
+University of Economics, Prague	staff	1150
+Delta College (Michigan)	staff	435
+California University of Pennsylvania	staff	463
+Anadolu University	staff	1776
+North Idaho College	staff	162
+Ewha Womans University	staff	369
+Bainbridge Graduate Institute	staff	25
+Appalachian School of Law	staff	50
+Olds College	staff	436
+Shelton State Community College	staff	168
+Anglo-Chinese School (International) Singapore	staff	100
+IT University of Copenhagen	staff	450
+Akershus University College	staff	300
+Columbia River High School	staff	122
+Louisburg College	staff	107
+Cary Academy	staff	40
+Ankara University	staff	3720
+Pontificia Universidad Católica del Perú	staff	3156
+University of Navarre	staff	969
+John Marshall High School (Los Angeles, California)	staff	200
+University of Perugia	staff	1200
+Prospect Hill Academy	staff	129
+Deerfield High School (Illinois)	staff	287
+Whitgift School	staff	128
+List of Williams College people	staff	286
+Etobicoke Collegiate Institute	staff	105
+School for Advanced Studies in the Social Sciences	staff	450
+City College of San Francisco	staff	1836
+University of Osnabrück	staff	694
+Trinity School for Ministry	staff	25
+Ain Shams University	staff	8800
+Andrews University	staff	298
+Anglo-Chinese School (Independent)	staff	327
+Tokyo Gakugei University	staff	342
+IESE	staff	98
+IESE	staff	350
+College of Engineering, Pune	staff	400
+École nationale de l'aviation civile	staff	950
+Swansea College	staff	1000
+University of Houston–Victoria	staff	251
+Ladue Horton Watkins High School	staff	130
+Moscow State Institute of International Relations	staff	1100
+San Diego City College	staff	543
+Court Moor School	staff	68
+Birkenhead School	staff	80
+Lille University of Science and Technology	staff	2750
+University of Washington, Bothell	staff	214
+Prescott College	staff	45
+St Mary MacKillop College, Canberra	staff	199
+Ilford County High School	staff	88
+Mbarara University of Science and Technology	staff	200
+Nkumba University	staff	123
+University of Tsukuba	staff	4129
+Independence High School (San Jose, California)	staff	166
+MacDuffie School	staff	12
+Gordon Institute of TAFE	staff	800
+Tech College Aalborg	staff	700
+University of Stuttgart	staff	5000
+Bryanston School	staff	118
+Homewood-Flossmoor High School	staff	301
+University of Rome Tor Vergata	staff	1492
+University of Rome Tor Vergata	staff	962
+Roma Tre University	staff	1370
+University of Palermo	staff	2000
+University of Catania	staff	1623
+St Michael's Grammar School	staff	202
+Henan University	staff	3547
+Episcopal School of Jacksonville	staff	60
+Braunschweig University of Technology	staff	4
+Highgate School	staff	125
+Brockenhurst College	staff	190
+Helsinki Polytechnic Stadia	staff	745
+The Radclyffe School	staff	23002
+Christ College, Brecon	staff	40
+Ithaca High School (Ithaca, New York)	staff	160
+Thangal Kunju Musaliar College of Engineering, Kollam	staff	136
+Framlingham College	staff	76
+Georgia Health Sciences University	staff	3500
+St. Petersburg College	staff	1707
+Columbus School of Law	staff	120
+Pennsylvania College of Art and Design	staff	28
+Cardinal Stefan Wyszyński University in Warsaw	staff	1
+Jonesboro High School (Jonesboro, Arkansas)	staff	118
+Lycée Français Charles de Gaulle	staff	105
+Malaviya National Institute of Technology Jaipur	staff	150
+Hebron University	staff	132
+Bishop Stopford's School at Enfield	staff	100
+MF Norwegian School of Theology	staff	100
+Cleveden Secondary School	staff	78
+Wesley College, Melbourne	staff	564
+Indian Statistical Institute	staff	1000
+National University of Laos	staff	437
+Birzeit University	staff	799
+Institute of Chemical Technology in Prague	staff	656
+Institute of Chemical Technology in Prague	staff	186
+Academy of Sciences of the Czech Republic	staff	7771
+University of Liège	staff	4300
+St Catherine's School, Ventnor	staff	100
+University of Nordland	staff	600
+University of Lugano	staff	181
+Sathyabama University	staff	67
+University of Minho	staff	1100
+Maidstone Grammar School	staff	120
+University of Michigan College of Engineering	staff	500
+President Kennedy School and Community College	staff	85
+Colston's School	staff	100
+Hipperholme Grammar School	staff	51
+York School (California)	staff	10
+Lawrence School, Sanawar	staff	70
+Open College of the Arts	staff	200
+Sudan University of Science and Technology	staff	960
+Maastricht Academy of Music	staff	135
+Wyndham College	staff	50
+Atlantic University	staff	7
+University of Brasília	staff	2391
+Merchiston Castle School	staff	49
+Rowlett High School	staff	194
+Alberto Hurtado University	staff	500
+Morgan Park Academy	staff	70
+Calderstones School	staff	138
+Federal University of Alagoas	staff	1126
+Rio Salado College	staff	485
+Florida Institute of Oceanography	staff	10
+University of Aizu	staff	150
+International School for Advanced Studies	staff	46
+Franklin High School (Seattle, Washington)	staff	107
+Cypress Creek High School (Harris County, Texas)	staff	245
+University of Peshawar	staff	2693
+University of Medicine, Mandalay	staff	727
+Solusi University	staff	221
+University of Ostrava	staff	592
+Grand Canyon University	staff	1600
+Paradise Valley Community College	staff	253
+Lille 2 University of Health and Law	staff	1050
+Victoria College, Jersey	staff	53
+Bergen Cathedral School	staff	95
+Oslo School of Architecture and Design	staff	100
+Cégep de l'Outaouais	staff	609
+Sarvajanik College of Engineering and Technology	staff	200
+Tarbiat Modares University	staff	478
+Auburn High School (Alabama)	staff	83
+Carlmont High School	staff	108
+Downers Grove South High School	staff	301
+Pontifical Xavierian University	staff	3040
+Charité	staff	10400
+Damascus University	staff	2173
+Musicians Institute	staff	1400
+Massasoit Community College	staff	300
+SIM University	staff	249
+University of Jordan	staff	3095
+East Leyden High School	staff	121
+The Chase (school)	staff	100
+The Norwegian Filmschool	staff	22
+Loara High School	staff	111
+William G. Enloe High School	staff	148
+Gdańsk Medical University	staff	1657
+Bramhall High School	staff	124
+University of Medical Sciences and Technology	staff	0
+Mount Carmel High School (Chicago)	staff	84
+Manteo High School	staff	69
+Wesley College, Colombo	staff	275
+Holy Spirit Preparatory School	staff	153
+Waterloo High School (New York)	staff	75
+Hereford Sixth Form College	staff	170
+Woodrow Wilson High School (Los Angeles, California)	staff	45
+Ballard High School (Seattle, Washington)	staff	137
+Aberdeen Grammar School	staff	143
+Maltepe University	staff	300
+Lycée Français de Shanghai	staff	150
+Dulwich College Shanghai	staff	170
+John Paul Academy	staff	51
+Vista University	staff	6000
+University of Economics in Katowice	staff	489
+Ballymena Academy	staff	93
+University of Mostar	staff	156
+University of Worcester	staff	400
+Centreville High School (Fairfax County, Virginia)	staff	247
+Chorister School, Durham	staff	35
+Tokyo Medical and Dental University	staff	1205
+Georgetown University School of Foreign Service in Qatar	staff	100
+Multnomah University	staff	230
+Independence High School (Charlotte, North Carolina)	staff	141
+Chatham House Grammar School	staff	110
+Archbishop Wood Catholic High School	staff	85
+Paxon School for Advanced Studies	staff	107
+Owens Community College	staff	1300
+Mead Senior High School	staff	140
+National University of La Plata	staff	10400
+Huron University College	staff	125
+Bethany School (Goudhurst, Kent)	staff	55
+Achimota School	staff	82
+Sogang University	staff	234
+University of Engineering and Technology, Taxila	staff	350
+St. Anselm's College	staff	44
+ALBA Graduate Business School	staff	65
+Midland Public Schools	staff	1101
+Technical University of Ostrava	staff	1150
+Menlo College	staff	202
+QSI International School of Yerevan	staff	27
+P. S. Senior Secondary School	staff	100
+Smithdon High School	staff	130
+Leighton Park School	staff	100
+University of Paris 1 Pantheon-Sorbonne	staff	2770
+University of Kelaniya	staff	771
+Hottentots Holland High School	staff	44
+Carson High School (Carson City, Nevada)	staff	122
+Campion School (Bugbrooke)	staff	120
+Markkula Center for Applied Ethics	staff	14
+Sacred Heart High School (London)	staff	50
+Rickmansworth School	staff	80
+Le Bocage International School	staff	70
+Kooralbyn International School	staff	26
+Duval High School (New South Wales)	staff	68
+De Lisle Catholic Science College	staff	80
+Los Alamos High School	staff	256
+Riverland Community College	staff	300
+Blackburn College (Illinois)	staff	51
+Tiffin Girls' School	staff	30
+American University of Sharjah	staff	475
+Chabot College	staff	516
+Kim Chaek University of Technology	staff	2000
+University for Foreigners Perugia	staff	150
+Purbrook Park School	staff	120
+Wardle High School	staff	200
+Symbiosis Institute of Media and Communication	staff	40
+Royal Latin School	staff	160
+Hibbing Community College	staff	568
+Waterloo Lutheran Seminary	staff	3
+Greenwich Community College	staff	660
+St George's College, Weybridge	staff	100
+University of Northampton	staff	485
+University of Northampton	staff	476
+University of Northampton	staff	143
+University of Ferrara	staff	600
+St. Francis High School (Wheaton, Illinois)	staff	81
+Hononegah Community High School	staff	187
+East Stroudsburg University of Pennsylvania	staff	400
+Pforta	staff	48
+East Hills Girls High School	staff	76
+Loretto School	staff	112
+Trondheim Cathedral School	staff	100
+Danville High School (Illinois)	staff	189
+West Potomac High School	staff	234
+The Henry Cort Community College	staff	150
+Neville Lovett Community School	staff	100
+Yangon Technological University	staff	89
+Udyogamandal School	staff	15
+Poole Grammar School	staff	100
+University of Michigan College of Literature, Science, and the Arts	staff	2200
+University of Michigan Health System	staff	18923
+Chaparral High School (Colorado)	staff	183
+First Colonial High School	staff	145
+Kyiv Polytechnic Institute	staff	2500
+Çankaya University	staff	213
+Camden County College	staff	345
+Padma Ratna English School	staff	53
+Pearson Peacekeeping Centre	staff	200
+King Edward VI School Stratford-upon-Avon	staff	32
+Pasadena High School, South Australia	staff	36
+Midway College	staff	131
+University of Zadar	staff	500
+Strathallan School	staff	109
+William Ellis School	staff	95
+University of New Brunswick Faculty of Law	staff	20
+Katholieke Universiteit Leuven Campus Kortrijk	staff	150
+Montrose Academy	staff	79
+Northland College (Wisconsin)	staff	181
+Princess Anne High School	staff	146
+Sant'Anna School of Advanced Studies	staff	82
+Goldman School of Dental Medicine	staff	325
+Taipei Municipal Nei-Hu Senior High School	staff	43
+Veer Surendra Sai University of Technology, Burla	staff	500
+Henrico County Public Schools	staff	3761
+San Bernardino Valley College	staff	459
+University of Winchester	staff	650
+Royal Hospital School	staff	72
+Ninestiles School	staff	100
+Hazelwood East High School	staff	134
+Hazelwood West High School (Hazelwood, Missouri)	staff	176
+Central University of Venezuela	staff	9778
+Leicester Grammar School	staff	75
+Jawaharlal Institute of Postgraduate Medical Education and Research	staff	2500
+Spyken	staff	45
+Downers Grove North High School	staff	222
+Firrhill High School	staff	120
+National University of Kaohsiung	staff	601
+Misericordia University	staff	257
+Deep Run High School	staff	100
+Deep Run High School	staff	8
+Dr. Ambedkar Institute of Technology	staff	300
+Sigmund Freud University Vienna	staff	80
+Imperial Valley College	staff	150
+George Washington High School (Charleston, West Virginia)	staff	68
+Noel-Baker Community School	staff	95
+Cheltenham Ladies' College	staff	215
+Lynn University	staff	200
+Talbot School of Theology	staff	15
+University of the Virgin Islands	staff	450
+Marvelwood School	staff	20
+University of Vigo	staff	1500
+Kuban State University of Technology	staff	1300
+Ohio State University, Lima Campus	staff	95
+Ohio State University, Mansfield Campus	staff	41
+Ohio State University, Marion Campus	staff	108
+Ohio State University, Newark Campus	staff	135
+University of Electro-Communications	staff	250
+Bethany Lutheran Theological Seminary	staff	3
+Kyiv National University of Construction and Architecture	staff	700
+Savonia University of Applied Sciences	staff	600
+King Abdulaziz University	staff	2300
+Bethlehem University	staff	300
+Aquinas Institute	staff	46
+Toulouse 1 University Capitole	staff	1045
+Faculdade de Engenharia da Universidade do Porto	staff	1560
+Queen's Theological College	staff	14
+Palm Beach State College	staff	1038
+Marlwood School	staff	80
+Cary Christian School	staff	85
+Columbia College Hollywood	staff	40
+Wa Ying College	staff	65
+Southern Taiwan University of Technology	staff	550
+Alexandria University	staff	18450
+University of Pardubice	staff	622
+MiraCosta College	staff	458
+SDM College of Engineering and Technology	staff	135
+Sussex Downs College	staff	1600
+Worksop College	staff	57
+Saarland University	staff	2000
+Mansoura University	staff	5159
+North Garland High School	staff	194
+Moore Public Schools	staff	2345
+Collège de Bois-de-Boulogne	staff	350
+Mintlaw Academy	staff	70
+Wheeling High School	staff	248
+Community College of Vermont	staff	130
+University of Duisburg-Essen	staff	4285
+Robert Wood Johnson Medical School	staff	2280
+Floyd E. Kellam High School	staff	129
+Forest School (Horsham)	staff	120
+St Joseph's College, Gregory Terrace	staff	160
+Penn State Abington	staff	107
+York Community High School	staff	314
+Southern University at New Orleans	staff	156
+The Michener Institute	staff	135
+United States Air Force Academy Preparatory School	staff	60
+Millersville University of Pennsylvania	staff	613
+Green Run High School	staff	138
+Pakistan Air Force Academy	staff	300
+Strathmore University	staff	422
+Falls Church High School	staff	207
+Georgia Military College	staff	150
+Illinois College of Optometry	staff	48
+Cagayan State University	staff	846
+Sindh Agriculture University  Faculty of Agricultural Engineering   1	staff	60
+Sindh Agriculture University  Information Technology Center   1	staff	40
+St Peter's College, Colombo	staff	400
+University of Washington Tacoma	staff	345
+Geelong High School	staff	89
+Urmston Grammar Academy	staff	65
+Frank H. Peterson Academies of Technology	staff	81
+Kookmin University	staff	321
+College of The Bahamas	staff	373
+Umeå School of Business	staff	250
+National Institute of Advanced Industrial Science and Technology	staff	3200
+Technical University of Hamburg	staff	1150
+Jönköping University Foundation	staff	800
+Gorseinon College	staff	350
+La Salle College High School	staff	135
+Tunisia Polytechnic School	staff	140
+Great River Charter Montessori School	staff	24
+Royal School Dungannon	staff	50
+Hamdard University	staff	1000
+Brevard Community College	staff	185
+Keele University Medical School	staff	80
+Bute Medical School	staff	54
+University of Neuchâtel	staff	860
+Caerleon Comprehensive School	staff	170
+An-Najah National University	staff	900
+Trinity High School (River Forest, Illinois)	staff	12
+Sierra Nevada College	staff	24
+Sierra Nevada College	staff	50
+Bayero University Kano	staff	1060
+Central Newcastle High School	staff	120
+Monash University, Parkville campus	staff	140
+Armenian National Academy of Sciences	staff	3700
+Ludgrove School	staff	50
+Manipal University	staff	7200
+University of Chichester	staff	600
+Codsall Community High School	staff	100
+Litcham High School	staff	40
+Morpeth School	staff	100
+Morpeth School	staff	90
+Alexandria City Public Schools	staff	1048
+Housatonic Valley Regional High School	staff	90
+Vlerick Leuven Gent Management School	staff	300
+Sandbach School	staff	153
+Pius X High School (Nebraska)	staff	95
+Ashlawn School	staff	110
+Wesley Girls' High School	staff	68
+St. Viator High School	staff	118
+Dallas Christian College	staff	112
+University of Zaragoza	staff	3161
+Minufiya University	staff	1463
+Long Beach City College	staff	529
+Faculty of Medicine Siriraj Hospital, Mahidol University	staff	9315
+Bodiam Manor School	staff	40
+Manchester Central High School	staff	159
+Loyola Catholic School	staff	88
+Farringdon Community Sports College	staff	88
+Denstone College	staff	70
+Mearns Castle High School	staff	122
+Magdalen College School, Brackley	staff	100
+Ellon Academy	staff	110
+Gresham's School	staff	90
+L. D. Bell High School	staff	149
+Eastbourne College	staff	236
+Academy of Information Technology and Engineering	staff	40
+University of Alberta Faculty of Law	staff	39
+Ysgol Bryn Elian	staff	51
+Universidad Autónoma Agraria Antonio Narro	staff	617
+St. Philip's Christian College	staff	150
+Queen of Peace High School (Illinois)	staff	77
+Bangalore Medical College and Research Institute	staff	266
+Monsignor McClancy Memorial High School	staff	26
+St. John's Medical College	staff	608
+Plovdiv University	staff	561
+Sacred Heart Catholic High School (Newcastle upon Tyne)	staff	350
+Instituto Tecnológico de Saltillo	staff	258
+School of Medicine, University of Manchester	staff	1200
+University of Potsdam	staff	400
+Broad Run High School	staff	117
+Loudoun County Public Schools	staff	3200
+Collingwood College, Surrey	staff	260
+Holy Family High School (Broomfield, Colorado)	staff	52
+Prince George's County Public Schools	staff	18300
+Heritage Institute of Technology, Kolkata	staff	112
+Peak to Peak Charter School	staff	153
+New Paltz High School	staff	6
+Addison Trail High School	staff	138
+Western University of Health Sciences	staff	700
+Carrickfergus Grammar School	staff	53
+Li Sing Primary School	staff	26
+Sri Ramachandra Medical College and Research Institute	staff	1020
+Northern Melbourne Institute of TAFE	staff	1103
+Cool Climate Oenology and Viticulture Institute	staff	10
+Darrow School	staff	52
+Lanark Grammar School	staff	94
+University Marine Biological Station Millport	staff	4
+Spalding Grammar School	staff	68
+University of Sarajevo	staff	990
+Harrogate Grammar School	staff	120
+Bishop Gorman High School	staff	130
+Royton and Crompton School	staff	78
+Marywood University	staff	259
+Macon State College	staff	425
+University of Technology of Compiègne	staff	1000
+Ermysted's Grammar School	staff	50
+Barlaeus Gymnasium	staff	90
+Shri Govindram Seksaria Institute of Technology and Science	staff	200
+Cape Henlopen High School	staff	100
+Darmstadt University of Applied Sciences	staff	740
+Khon Kaen University	staff	2075
+Parrs Wood High School	staff	250
+Academy of Media Arts Cologne	staff	120
+A.V.C. College	staff	221
+Aarhus School of Business	staff	450
+École polytechnique de l'université de Nantes	staff	165
+Abant Izzet Baysal University	staff	900
+Sachse High School	staff	190
+Glenbard West High School	staff	208
+Mill Hill County High School	staff	150
+Dortmund University of Technology	staff	3346
+Paisley Grammar School	staff	100
+Sir Salimullah Medical College	staff	2000
+Humphreys College	staff	60
+Mt. Spokane High School	staff	133
+Crystal River High School	staff	79
+Brampton Manor School	staff	100
+Atascadero High School	staff	91
+Presentation College, Bray	staff	55
+Katedralskolan, Lund	staff	50
+Saint Mary's University (Halifax)	staff	393
+Fayetteville-Manlius Central School District	staff	378
+Herbert Henry Dow High School	staff	59
+Çanakkale Onsekiz Mart University	staff	960
+Ranby House School	staff	33
+University of Bahrain	staff	1666666666
+Guangxi Normal University	staff	2180
+Badminton School	staff	45
+Chittagong Government High School	staff	52
+Adichunchanagiri Institute of Technology	staff	102
+Marystown Central High School	staff	42
+Garinger High School	staff	107
+Harding University High School	staff	83
+The National Centre for Biological Sciences	staff	100
+Universidad San Francisco de Quito	staff	600
+Prudhoe Community High School	staff	110
+Penn State Greater Allegheny	staff	151
+Penn State Altoona	staff	500
+Robert E. Lee High School (Fairfax County, Virginia)	staff	198
+St Stephen's School, Perth	staff	316
+Muskego-Norway School District	staff	19
+Academy of Performing Arts in Prague	staff	575
+Launceston Christian School	staff	80
+University of Swaziland	staff	298
+Federal University of Pernambuco	staff	1670
+Collège Ahuntsic	staff	900
+CCC Heep Woh College	staff	60
+Open University of Hong Kong	staff	1446
+Buckswood School	staff	40
+Shinshu University	staff	2000
+Barnard Castle School	staff	80
+Coleg Glan Hafren	staff	500
+Southwest University	staff	2650
+Universidad Tecnológica de México	staff	5000
+Knightswood Secondary School	staff	110
+Chung Hua University	staff	166
+Innisfree House School	staff	52
+University of Peradeniya	staff	2973
+St Mary's Academy (Rawalpindi)	staff	150
+UCL Faculty of Laws	staff	150
+The Fallibroome Academy	staff	80
+University of Seoul	staff	1229
+Mandan High School	staff	127
+University of Calgary Faculty of Law	staff	21
+Marymount International School of Rome	staff	100
+Dartington College of Arts	staff	30
+Marian College (Dublin)	staff	35
+Lumen Christi Junior/Senior High School	staff	11
+West Coast Baptist College	staff	32
+Marche Polytechnic University	staff	1300
+Seth M.R.Jaipuria School, Lucknow	staff	200
+Marianna High School	staff	41
+Birmingham Conservatoire	staff	50
+Haddonfield Friends School	staff	21
+Cadillac High School	staff	68
+American School for the Deaf	staff	200
+University of Bayreuth	staff	1183
+Norwegian International School	staff	15
+Westhill Central Schools	staff	135
+Pierre and Marie Curie University	staff	10
+University of Fukui	staff	1396
+Central University of Technology	staff	222
+Duke School (Durham, North Carolina)	staff	90
+Grange Primary School	staff	40
+Kenmore State High School	staff	120
+Jamaica College	staff	97
+Azerbaijan Technical University	staff	1099
+Lyons Township High School	staff	592
+Instituto Tecnológico Superior de Zacapoaxtla	staff	93
+East High School (Duluth, Minnesota)	staff	91
+Islamic University of Technology	staff	201
+El Dorado High School (Placerville, California)	staff	107
+Abbots Bromley School for Girls	staff	21
+Free University of Bozen-Bolzano	staff	1
+University of Brescia	staff	500
+University of Bergamo	staff	194
+University Iuav of Venice	staff	450
+Fairwater High School	staff	50
+University of Yamanashi	staff	1451
+Dakota County Technical College	staff	130
+Monarch High School (Colorado)	staff	172
+Canadian Forces Leadership and Recruit School	staff	700
+University of Washington School of Public Health	staff	505
+Kings International College	staff	75
+Queen Elizabeth's Grammar School, Alford	staff	44
+Queen Elizabeth's Grammar School, Alford	staff	21
+Medical University Pleven	staff	341
+Touro University Nevada	staff	76
+Grove Academy	staff	78
+University of Teramo	staff	198
+University of Sassari	staff	700
+Università Campus Bio-Medico	staff	65
+Massachusetts Bay Community College	staff	74
+Massachusetts Bay Community College	staff	250
+S. Pio V University of Rome	staff	145
+Libera Università Internazionale degli Studi Sociali Guido Carli	staff	1290
+Manchester Memorial High School	staff	168
+Khyber Medical College	staff	1200
+Galveston College	staff	150
+Axia College	staff	12000
+Archbishop Shaw High School	staff	55
+University of Naples Federico II	staff	4535
+De La Salle Health Sciences Institute	staff	1166
+Neath Port Talbot College	staff	800
+University of Camerino	staff	620
+Hitchin Girls' School	staff	75
+Clearfield High School	staff	173
+University of Niš	staff	1502
+Somerset College	staff	180
+Marlborough House School	staff	40
+Institute of Management Technology, Dubai	staff	36
+National University of Distance Education	staff	9630
+Kelly College	staff	66
+Green Lawns High School	staff	110
+Ravenscroft School	staff	207
+Whitchurch High School	staff	153
+Brethren Christian Junior/Senior High School	staff	50
+National University of Córdoba	staff	8203
+Fredonia High School (New York)	staff	35
+Diponegoro University	staff	1065
+University of Mosul	staff	740
+University of Nice Sophia Antipolis	staff	770
+University of Dubrovnik	staff	160
+College of Central Florida	staff	377
+Mead Education Alternative Department Alternative High School	staff	11
+Claude Bernard University Lyon 1	staff	10000
+University of Banja Luka	staff	1500
+University of Montenegro	staff	1273
+Madisonville Community College	staff	127
+Harding Academy (Searcy, Arkansas)	staff	61
+Oberon High School	staff	150
+Freedom High School (Tampa, Florida)	staff	80
+Cobblestone School	staff	2
+Francis W. Parker Charter Essential School	staff	43
+Archbishop Tenison's Church of England High School, Croydon	staff	90
+Moldova State University	staff	1145
+Instituto Tecnológico de Ciudad Juárez	staff	258
+Universidade Federal de Goiás	staff	2266
+De La Salle University – Dasmariñas	staff	1027
+Helsby High School	staff	100
+De La Salle Araneta University	staff	318
+Huffines Middle School	staff	113
+Tunis University	staff	1300
+Tunis El Manar University	staff	2500
+University of Monastir	staff	559
+University of Sfax	staff	2495
+Dharmatma Inter College, Arrah	staff	45
+Father Stephen T. Badin High School	staff	69
+South High School (Denver)	staff	52
+First Grammar School, Celje	staff	79
+University of Pavol Jozef Šafárik	staff	1250
+National Institute of Technology, Agartala	staff	45
+Mt. Lebanon School District	staff	224
+St Boniface's Catholic College	staff	63
+University of Galaţi	staff	1091
+University of Cantabria	staff	1088
+Africa University	staff	135
+University of Ruhuna	staff	1144
+University of West Bohemia	staff	1172
+Weald of Kent Grammar School	staff	109
+President of Bucknell University	staff	293
+Terry College of Business	staff	120
+John R. Rogers High School	staff	147
+Kolej Yayasan UEM	staff	120
+Sierra Vista High School (Spring Valley, Nevada)	staff	150
+Campion School, Mumbai	staff	35
+St. Patrick's High School, Secunderabad	staff	100
+Xiangtan University	staff	984
+Henrietta Barnett School	staff	50
+Louise-Schroeder-Gymnasium	staff	70
+Harbor City International School	staff	24
+Shenyang Normal University	staff	1400
+Ponderosa High School (Parker, Colorado)	staff	180
+University of Georgia College of Agricultural and Environmental Sciences	staff	903
+Chang Jung Christian University	staff	500
+St. George's Grammar School (Cape Town)	staff	52
+Central Bucks High School South	staff	90
+Elgin Academy, Scotland	staff	80
+Scotts Valley High School	staff	48
+École supérieure d'optique	staff	200
+Calrossy Anglican School	staff	180
+Carre's Grammar School	staff	49
+Kesteven and Sleaford High School	staff	45
+St. Catherine of Siena School (Martinez, California)	staff	13
+Huonville High School	staff	30
+West Bengal University of Technology	staff	1000
+Belgrade-Brooten-Elrosa High School	staff	24
+Queen Elizabeth's School, Wimborne Minster	staff	108
+Bucerius Law School	staff	121
+Parmiter's School	staff	80
+St. Clement of Ohrid University of Bitola	staff	377
+Tomlinscote School	staff	120
+John Carroll Catholic High School (Birmingham, Alabama)	staff	70
+Royal National College for the Blind	staff	175
+Ocean Lakes High School	staff	238
+San Diego Miramar College	staff	285
+St. Stephen's Episcopal School (Austin, Texas)	staff	80
+Carroll High School (Dayton, Ohio)	staff	12
+Loudoun Academy of Science	staff	4
+St George Christian School	staff	90
+Tallwood High School	staff	141
+Bayside High School (Virginia Beach, Virginia)	staff	141
+Salem High School (Virginia Beach, Virginia)	staff	133
+Poljane Grammar School	staff	100
+Falls Church City Public Schools	staff	350
+Los Angeles Southwest College	staff	125
+University of Burgundy	staff	2900
+Skyline High School (Dallas, Texas)	staff	328
+York House School (Redheath)	staff	24
+York House School (Redheath)	staff	11
+Aurora Central High School	staff	202
+St George's School, Windsor Castle	staff	50
+American University of Central Asia	staff	120
+Affiliated Senior High School of National Taiwan Normal University	staff	299
+International Center For Management and Indian Studies	staff	12
+Ysgol Bryn Alyn	staff	50
+Institute of Engineering and Management, Kolkata	staff	50
+Runshaw College	staff	800
+École nationale supérieure d'ingénieurs de constructions aéronautiques	staff	30
+Holmen High School	staff	95
+Perry Traditional Academy	staff	97
+Perry Traditional Academy	staff	63
+Perry Traditional Academy	staff	7
+Perry Traditional Academy	staff	7
+Perry Traditional Academy	staff	4
+Perry Traditional Academy	staff	4
+Perry Traditional Academy	staff	2
+Perry Traditional Academy	staff	6
+Buffalo Academy of the Sacred Heart	staff	32
+Littleover Community School	staff	103
+Hazelwood Central High School	staff	191
+University Press of Florida	staff	41
+Foxcroft Academy	staff	60
+Lyman School for Boys	staff	40
+Sehome High School	staff	31
+Shahid Bahonar University of Kerman	staff	1000
+Ahvaz Jundishapur University of Medical Sciences	staff	15000
+Glenaeon Rudolf Steiner School	staff	58
+Manipal College of Dental Sciences	staff	300
+De La Salle Philippines	staff	8141
+Kyle Academy	staff	70
+Queen Margaret Academy	staff	60
+Carrick Academy	staff	86
+Marr College	staff	90
+Girvan Academy	staff	53
+Coláiste Ráithín	staff	25
+Portlethen Academy	staff	64
+Ysgol Aberconwy	staff	120
+Bukidnon State University	staff	1500
+Elida High School (Elida, Ohio)	staff	54
+North and South Cowton Community Primary School	staff	2
+Gifu University	staff	810
+Leicester College	staff	1600
+Abraham Lincoln High School (Denver, Colorado)	staff	4
+Lincoln-Way Central High School	staff	536
+Effat University	staff	221
+Parkside Secondary School	staff	50
+Dharmaraja College	staff	175
+Institute for the Psychological Sciences	staff	10
+Hazlehead Academy	staff	75
+Waycross College	staff	74
+Riseholme College	staff	127
+Netherhall School	staff	89
+Golden State Baptist College	staff	40
+De La Salle Andres Soriano Memorial College	staff	66
+University of St. La Salle	staff	576
+Karlsruhe Institute of Technology	staff	8000
+Cairo University School of Medicine	staff	2773
+Fred J. Page High School	staff	80
+University of Ruse	staff	243
+San Diego Community College District	staff	1303
+Wadebridge School	staff	65
+Harrogate High School	staff	85
+Jerudong International School	staff	150
+Mie University	staff	1740
+Archbishop Edward A. McCarthy High School	staff	80
+Oklahoma City Community College	staff	534
+University of Shizuoka	staff	339
+University of Shizuoka	staff	76
+Ruston High School	staff	85
+University of Applied Sciences Wedel	staff	26
+Hill House School	staff	110
+Bohai University	staff	1069
+Tyler Independent School District	staff	2582
+Trinity High School (Euless, Texas)	staff	164
+Sant Longowal Institute of Engineering and Technology	staff	500
+McPherson College	staff	70
+St. Scholastica's College Manila	staff	800
+Chapman High School (Chapman, Kansas)	staff	15
+Holy Names High School (Oakland, California)	staff	12
+Gayatri Vidya Parishad College of Engineering	staff	111
+Williamson Senior High School	staff	55
+China Three Gorges University	staff	2336
+Columbus City Schools	staff	7181
+Williamson Central School District	staff	125
+Williamson Central School District	staff	19
+Williamson Central School District	staff	59
+RVR & JC College of Engineering	staff	249
+El Camino High School (South San Francisco)	staff	66
+Thriveni Academy	staff	800
+Open Universities Australia	staff	70
+Ystrad Mynach College	staff	500
+St John's Grammar School	staff	100
+La Salle University (Ozamiz City)	staff	243
+Cocoa High School	staff	78
+Atkinson Graduate School of Management	staff	20
+Central American Technological University	staff	360
+Grant MacEwan University	staff	3351
+Michigan City High School	staff	110
+La Salle Academy (Iligan City)	staff	478
+Kaunas University of Technology	staff	3000
+Jaime Hilario Integrated School – La Salle	staff	8
+River Ridge High School (Lacey, Washington)	staff	68
+Bishop Cotton Girls' School	staff	150
+Paul Cézanne University	staff	930
+Distance Education Centre, Victoria	staff	120
+St. George's School, Ascot	staff	49
+Olympian High School	staff	145
+Welham Boys School	staff	70
+DeWitt Perry Middle School	staff	80
+Woodstock Academy	staff	54
+Warren Harding High School	staff	104
+Freedom High School (Pennsylvania)	staff	163
+Delia School of Canada	staff	80
+Polytechnic José Antonio Echeverría	staff	770
+University of Curaçao	staff	80
+Southampton Academy	staff	16
+Assiniboine Community College	staff	350
+Aoyama Gakuin University	staff	1983
+Lincoln Prairie School	staff	45
+Bayside High School (Palm Bay, Florida)	staff	122
+University of Basrah	staff	4631
+St. Charles Community College	staff	324
+United College of Hong Kong	staff	300
+Paladin Academy	staff	15
+National Autonomous University of Nicaragua	staff	709
+Oregon Coast Community College	staff	45
+Highcrest Academy	staff	85
+University of Alberta School of Business	staff	150
+KIIT University	staff	2500
+Paul Roos Gymnasium	staff	120
+La Salle College Antipolo	staff	123
+University Centre in Svalbard	staff	65
+San Diego State University College of Business Administration	staff	87
+D'Evelyn Junior/Senior High School	staff	20
+Smoky Hill High School	staff	141
+Burscough Priory Science College	staff	90
+Komazawa University	staff	600
+College of the Resurrection	staff	5
+Bingley Grammar School	staff	467
+Bishop Ready High School (Columbus, Ohio)	staff	45
+Franklin Heights High School (Columbus, Ohio)	staff	34
+Kalaidos University of Applied Sciences	staff	35
+King Alfred School, London	staff	94
+Chittagong University of Engineering & Technology	staff	400
+De La Salle John Bosco College	staff	147
+East Community Learning Center	staff	48
+Istituto Europeo di Design	staff	1200
+St Columban's College, Caboolture	staff	54
+IIT Campus School	staff	20
+Highlands Ranch High School	staff	51
+Kew College	staff	30
+Vaasa University of Applied Sciences	staff	250
+Crosfields School	staff	67
+Universiti Teknikal Malaysia Melaka	staff	1329
+Portlethen Primary School	staff	15
+Sheffield High School (South Yorkshire)	staff	80
+King Edward VII School (King's Lynn)	staff	278
+Atlanta International School	staff	27
+St. Joseph's College, Dumfries	staff	60
+Ripley St Thomas Church of England Academy	staff	150
+Graeme College	staff	33
+Graeme College	staff	13
+Beaconsfield School	staff	101
+St Laurence's College	staff	180
+Tenison Woods College	staff	100
+Monk's Walk School	staff	100
+Kapaun Mt. Carmel High School	staff	17
+Nevada Union High School	staff	300
+Penn Manor School District	staff	272
+Goodwin College of Professional Studies	staff	50
+Goodwin College of Professional Studies	staff	400
+Goodwin College of Professional Studies	staff	46
+Bankura Unnayani Institute of Engineering	staff	100
+Thayne Center	staff	1
+Mahinda College	staff	175
+Crown College (Tennessee)	staff	100
+Portswood Primary School	staff	52
+Mazenod College, Victoria	staff	140
+Franciscan Montessori Earth School & Saint Francis Academy	staff	60
+Aylesford School	staff	112
+Dyce Academy	staff	90
+The Prebendal School	staff	44
+JMA Armstrong High School	staff	34
+Sungshin Women's University	staff	382
+Friedensau Adventist University	staff	89
+The King's School, Grantham	staff	90
+Kesteven and Grantham Girls' School	staff	70
+Bathurst High School (New Brunswick)	staff	44
+Brumby Engineering College	staff	53
+Yunnan University	staff	2372
+Dedman School of Law	staff	50
+Newberry High School (Florida)	staff	65
+Samaritan Residential Schools	staff	40
+Red Sea Institute of Cinematic Arts	staff	14
+European University Institute	staff	129
+Brookfield Community School	staff	85
+San Marcos Baptist Academy	staff	35
+St Pauls Episcopal School	staff	14
+El Camino High School (Rohnert Park)	staff	6
+Franklin High School (Livonia, Michigan)	staff	170
+Chonbuk National University	staff	637
+Burlington High School (Burlington, Kansas)	staff	30
+Francis Howell Central High School	staff	140
+Rogers Middle School for the Creative and Performing Arts	staff	13
+Rocky Run Middle School	staff	85
+Stord/Haugesund University College	staff	260
+John Jay High School (Hopewell Junction, New York)	staff	172
+Al-Baath University	staff	600
+Megatrend University	staff	500
+Stonelaw High School	staff	91
+Baum School of Art	staff	13
+Symbiosis Institute of Operations Management	staff	15
+Sheboygan North High School	staff	75
+Chatham Grammar School for Girls	staff	64
+Olde Columbine High School	staff	57
+Anand Bhawan School	staff	150
+Calumet College of St. Joseph	staff	139
+Handong Global University	staff	144
+Pachhunga University College	staff	81
+Royal High School, Edinburgh	staff	155
+Blanchet Catholic School	staff	24
+Fontys University of Applied Sciences	staff	4
+École nationale supérieure d'électronique et de radioélectricité de Grenoble	staff	56
+Soltorgsgymnasiet	staff	68
+Lyme-Old Lyme High School	staff	57
+Thompson Valley High School	staff	30
+Deeside College	staff	1000
+University of Tuzla	staff	200
+North Allegheny Intermediate High School	staff	226
+Atomic Energy Central School  AECS   4	staff	50
+Meadow Ridge Elementary	staff	54
+Leasowes Community College	staff	130
+Motherwell College	staff	530
+University of Provence	staff	835
+King's House School	staff	54
+Mount View High School (West Virginia)	staff	75
+Banha University	staff	2039
+Frederick Irwin Anglican School	staff	169
+Weldon School of Biomedical Engineering	staff	27
+Utah County Academy of Sciences	staff	9
+Bourne Grammar School	staff	150
+Waverley Christian College	staff	157
+Southeast High School (Ravenna, Ohio)	staff	49
+Harbin Engineering University	staff	2600
+Central Sussex College	staff	900
+Jackson Technology Center	staff	76
+Tashkent State Institute of Law	staff	220
+Technical University of Crete	staff	270
+Institute for International Political Studies	staff	70
+Tulita Elementary School	staff	10
+Central Mindanao University	staff	800
+Our Lady of Sion College	staff	100
+Homefield Preparatory School	staff	40
+University of Education	staff	394
+Niles West High School	staff	342
+Thomas A Becket Middle School	staff	37
+Seattle Institute of Oriental Medicine	staff	8
+Pennsylvania Leadership Charter School	staff	75
+Institute of Sound and Vibration Research	staff	130
+National College of Ireland	staff	130
+Alleghany County Public Schools (Alleghany County, Virginia)	staff	248
+Saint Louis University School of Law	staff	84
+University of Sulaymaniyah	staff	3686
+Potchefstroom High School for Boys	staff	36
+The Sterling Foundation School	staff	35
+Darton High School	staff	130
+Broomfield High School	staff	173
+Simon Langton Girls' Grammar School	staff	72
+Angelina College	staff	340
+La Fémis	staff	650
+Klaipėda University	staff	600
+Spartanburg Community College	staff	170
+North High School (Eau Claire, Wisconsin)	staff	169
+Garforth Community College	staff	70
+Saint Joseph University	staff	480
+Edison Elementary School (Edison, Washington)	staff	45
+Southwest Petroleum University	staff	1340
+Hillcrest High School (Country Club Hills, Illinois)	staff	107
+Beaver Technology Center	staff	41
+Yeshivat Eretz HaTzvi	staff	20
+Delmar High School	staff	42
+Washingtonville High School	staff	137
+Tarremah Steiner School	staff	15
+Tokyo University of Foreign Studies	staff	337
+Monroe-Woodbury High School	staff	156
+The Art Institute of Fort Lauderdale	staff	125
+The University of Georgia (Tbilisi)	staff	177
+Dugway High School	staff	11
+Hochschule für Gestaltung Offenbach	staff	27
+Jan Matejko Academy of Fine Arts	staff	353
+Blaise Pascal University	staff	600
+Kocaeli University	staff	3
+City College of New York	staff	401
+New York University	staff	15286
+McGill University	staff	3457
+Université de Montréal	staff	4379
+University of Toronto	staff	4795
+Cardinal Newman Catholic High School (Luton)	staff	100
+Union Vale Middle School	staff	179
+Wheat Ridge High School	staff	90
+Lincoln Christian University	staff	95
+St. Francis Xavier's College (Liverpool)	staff	130
+Louisiana Culinary Institute	staff	15
+Englewood High School (Jacksonville, Florida)	staff	116
+Divine Word College of Laoag	staff	185
+International School Yangon	staff	48
+Merrimack Valley High School	staff	50
+Institute of Tropical Medicine Antwerp	staff	450
+Cornwall Central High School	staff	76
+Royal Guard of Oman Technical College	staff	45
+No. 2 High School Attached to East China Normal University	staff	140
+Cincinnati State Technical and Community College	staff	300
+Grace Baptist School	staff	17
+Duta Wacana Christian University	staff	182
+St. Augustine's College (Cape Coast)	staff	66
+Higher Technical Institute of Cyprus	staff	100
+Sir M. Visvesvaraya Institute of Technology	staff	145
+Hartpury College	staff	450
+University of Kentucky College of Medicine	staff	1810
+Larne Grammar School	staff	50
+John G. Borden Middle School	staff	9
+Wallkill Senior High School	staff	87
+Quest Academy	staff	59
+Berkshire Community College	staff	162
+North Shore Community College	staff	700
+Horizon High School (Thornton, Colorado)	staff	229
+Mercer University School of Engineering	staff	31
+Beal High School	staff	250
+Circleville Elementary School	staff	4
+ASJA Boys' College	staff	30
+Peninsula College of Medicine and Dentistry	staff	400
+St. Catherine High School	staff	100
+Netaji Subhash Engineering College	staff	40
+Kharkiv Polytechnic Institute	staff	3700
+Nathan Bedford Forrest High School (Jacksonville, Florida)	staff	100
+Toho University	staff	3365
+Strode College	staff	800
+William M. Raines High School	staff	92
+Terry Parker High School	staff	134
+Valand School of Fine Arts	staff	12
+A. Philip Randolph Academies of Technology	staff	62
+National Taiwan University of Science and Technology	staff	317
+Woodbridge High School (London)	staff	125
+Bridgeport High School (West Virginia)	staff	65
+Matematička gimnazija	staff	160
+Matematička gimnazija	staff	25
+Matematička gimnazija	staff	38
+Matematička gimnazija	staff	16
+Matematička gimnazija	staff	11
+Matematička gimnazija	staff	10
+Our Lady of the Desert School	staff	6
+Institute of Food and Agricultural Sciences	staff	1102
+Moon Valley High School	staff	58
+Universidad Anáhuac México Norte	staff	900
+Vidya Prasarak Mandal's Polytechnic	staff	40
+Ralston Valley High School	staff	129
+Memorial High School (Eau Claire, Wisconsin)	staff	167
+Boswells School	staff	300
+The New School for Drama	staff	12
+Willowbrook High School	staff	139
+Winston Churchill High School (Wayne County, Michigan)	staff	119
+Gordon's School	staff	100
+Dhaka Residential Model College	staff	162
+Royal University of Phnom Penh	staff	420
+St. Edwards Church of England School	staff	100
+Waverly-Shell Rock Community School District	staff	111
+Princeton High School (West Virginia)	staff	91
+Al Fateh University	staff	2500
+Northern University, Bangladesh	staff	150
+K. K. Wagh College of Engineering	staff	132
+West Hatch High School	staff	80
+Arroyo Grande High School	staff	36
+Mimar Sinan University of Fine Arts	staff	500
+Leweston School	staff	120
+Sawston Village College	staff	110
+Monache High School	staff	82
+Unity School District (Wisconsin)	staff	136
+Lutterworth College	staff	700
+Faculty of Medicine Naresuan University	staff	175
+Akdeniz University	staff	1400
+Hanoi University of Science and Technology	staff	2067
+Federal University of Campina Grande	staff	2000
+Odessa University	staff	1800
+Sweetwater High School (National City, California)	staff	201
+Dwight D. Eisenhower High School (Blue Island, Illinois)	staff	173
+Indira Gandhi National Open University	staff	1462
+Norton High School (Ohio)	staff	60
+Tallmadge High School	staff	60
+South Tahoe High School	staff	86
+Millfield High School	staff	152
+Edmond Santa Fe High School	staff	116
+St Patrick's Academy, Dungannon	staff	129
+Immaculate Conception Seminary School of Theology	staff	35
+Bowie High School (Austin, Texas)	staff	215
+Bilton Grange	staff	100
+Forestview High School	staff	145
+Bridgewater High School (Warrington)	staff	120
+Naval Nuclear Power Training Command	staff	500
+Hameldon Community College	staff	100
+Carson High School (Carson, California)	staff	141
+Mount Vernon Academy	staff	22
+Conyers' School	staff	100
+Sør-Trøndelag University College	staff	780
+Historical and statistical detail for Broad Run High School	staff	117
+Rogers High School (Wyoming, Michigan)	staff	81
+Saint Ambrose University	staff	299
+St. George's British International School	staff	90
+Deyes High School	staff	170
+Austin Friars St Monica's School	staff	55
+The Hague University of Applied Science	staff	1700
+Bede College	staff	30
+Saint Leo the Great School (Pennsylvania)	staff	23
+Duy Tan University	staff	523
+Sri Ramswaroop Memorial College of Engineering and Management Lucknow	staff	70
+Electronic Classroom of Tomorrow	staff	700
+The King's School, Ottery St Mary	staff	100
+Bexleyheath School	staff	200
+Friern Barnet Secondary School	staff	108
+Gleed Boys' School	staff	40
+Valley Central High School	staff	124
+Padma Seshadri Bala Bhavan	staff	600
+Galatasaray University	staff	200
+Sir James Smith's School	staff	60
+Alvechurch Church of England Middle School	staff	24
+Bishops' Blue Coat Church of England High School	staff	143
+Centre for Energy, Petroleum and Mineral Law and Policy	staff	33
+Northridge High School (Indiana)	staff	64
+Matthew Arnold School (Oxford)	staff	100
+Australian International School, Sharjah	staff	90
+European College of Parma	staff	8
+Thornton High School (Colorado)	staff	130
+Montini Catholic High School (Lombard, Illinois)	staff	84
+Sale Grammar School	staff	100
+Rootstown High School	staff	40
+Uganda Martyrs University	staff	300
+Polytechnic University of the Philippines, Taguig	staff	50
+Spokane Falls Community College	staff	389
+Sidney High School (Ohio)	staff	70
+Monarch High School (Florida)	staff	175
+Mackie Academy	staff	70
+Douglas County High School (Castle Rock, Colorado)	staff	210
+Newburgh Free Academy	staff	24
+Faith Lutheran Jr/Sr High School	staff	78
+Bembridge School	staff	40
+Cracow University of Technology	staff	1232
+Ilia State University	staff	2000
+RAJUK Uttara Model College	staff	41
+Derby Grammar School	staff	45
+Kangwon National University	staff	562
+Sausalito Marin City School District	staff	44
+Sausalito Marin City School District  Willow Creek Academy   1	staff	17
+Conifer High School	staff	82
+Bishop Walsh Catholic School	staff	70
+Ayr Academy	staff	67
+St. John's Seminary (California)	staff	37
+Pomona High School (Arvada, Colorado)	staff	25
+Trinity Academy of Raleigh	staff	56
+School of the Arts (Rochester, New York)	staff	167
+De La Salle College (Jersey)	staff	44
+Korea National University of Education	staff	508
+San Miguel National High School	staff	5
+St. Bernard's College, Melbourne	staff	100
+St. Bernard's College, Melbourne	staff	30
+Yashwantrao Chavan Maharashtra Open University	staff	4300
+Bolinas-Stinson Union School District	staff	24
+Bolinas-Stinson Union School District    1	staff	3
+University of Lübeck	staff	1
+Orwell High School	staff	170
+Emanuel School	staff	114
+Chatsworth Avenue School	staff	2
+Westbourne House School Penarth	staff	24
+Children's Paradise School	staff	6
+Whitley Abbey Community School	staff	90
+Yarm School	staff	73
+Yarm School	staff	12
+South Hadley High School	staff	94
+Bishop Hall Jubilee School	staff	54
+Dedworth Middle School	staff	50
+Hefei University of Technology	staff	3768
+New English School (Jordan)	staff	350
+Rosati-Kain High School	staff	47
+Muzaffarpur Institute of Technology	staff	100
+D. S. Senanayake College	staff	275
+Mount Carmel High School (Varroville)	staff	84
+Vietnam National University, Ho Chi Minh City	staff	4302
+Great Yarmouth High School	staff	102
+Villa Maria Academy (Malvern, Pennsylvania)	staff	62
+Fullbrook School	staff	100
+Technical University of Košice	staff	900
+El Alsson School	staff	140
+University of Culture, Yangon	staff	384
+Delany College	staff	51
+University of Granada	staff	3400
+Yezin Agricultural University	staff	661
+School District of Osceola County, Florida	staff	3549
+Nathan Hale High School (West Allis, Wisconsin)	staff	130
+UCLA School of Public Health	staff	200
+Christleton High School	staff	140
+Ririe High School	staff	11
+Willamette University School of Education	staff	10
+Pakistan International School Jeddah	staff	325
+Arvada High School	staff	39
+Westhill Academy	staff	110
+Lower Dauphin High School	staff	29
+Practising School Yangon Institute of Education	staff	160
+Christian Service University College	staff	32
+Westhill Primary	staff	30
+Polytechnical University of Kabul	staff	125
+Hamsavahini Vidyalaya	staff	130
+DeRuyter Central School	staff	56
+Samakkhi Witthayakhom School	staff	400
+Plekhanov Russian Economic University	staff	700
+University of Wisconsin School of Medicine and Public Health	staff	1345
+Gateway High School (Monroeville, Pennsylvania)	staff	169
+County Upper School	staff	80
+Dirigo High School	staff	38
+Lumen Christi College	staff	75
+Varndean School	staff	170
+Webster County High School (West Virginia)	staff	31
+Mackellar Girls Campus	staff	60
+Sandalwood High School	staff	241
+Sámi University College	staff	100
+Downham Market College	staff	30
+Arya Central School	staff	1200
+Arya Central School	staff	2
+Queen Maud's College of Early Childhood Education	staff	90
+Savannah State University	staff	385
+Saint Petersburg State Medical Academy	staff	750
+Saint Petersburg State Medical Academy	staff	167
+Surigao del Sur Polytechnic State College	staff	300
+Peninsula Catholic High School	staff	12
+Moreton Bay Boys' College	staff	52
+Harristown State High School	staff	200
+Apollo High School (St. Cloud, Minnesota)	staff	200
+Dearborn Center for Math, Science and Technology	staff	6
+John Ogilvie High School	staff	74
+University of Prešov	staff	1050
+Eskişehir Osmangazi University	staff	1233
+Wako University	staff	355
+St. Margaret's School (Virginia)	staff	80
+Caldicott School	staff	50
+Grand Blanc East Middle School	staff	63
+Woodland Middle School (Duluth, Minnesota)	staff	43
+Indira Gandhi Institute of Developmental Research	staff	24
+Arbor Creek Middle School	staff	85
+Faculty of Science, Mahidol University	staff	813
+Taunggyi University	staff	245
+College of Economics – Bourgas	staff	50
+Titus Salt School	staff	135
+Nicholas Breakspear School	staff	125
+University of Oklahoma Health Sciences Center	staff	2400
+Cumbernauld High School	staff	60
+South Suburban School (Main)	staff	5
+SDM College of Medical Sciences	staff	1500
+Littlehampton Community School	staff	125
+Tunxis Community College	staff	142
+Harrisburg Christian School	staff	47
+Université de technologie de Belfort-Montbéliard	staff	424
+Downham Market High School	staff	250
+Woolston School	staff	50
+Hallmark Institute of Photography	staff	40
+Kyambogo University	staff	488
+Littlemoss High School	staff	55
+University High School (Spokane Valley, Washington)	staff	103
+Sabaragamuwa University of Sri Lanka	staff	200
+Westering High School	staff	45
+King's Grove High School	staff	100
+Gosforth Central Middle School	staff	27
+Pampanga High School	staff	320
+Rampart High School	staff	155
+Denny High School	staff	129
+Rio de Janeiro State University	staff	4174
+Toyota National College of Technology	staff	130
+University of Eastern Finland	staff	2800
+Johnston Community College	staff	250
+Hirosaki University	staff	776
+Jönköping International Business School	staff	240
+St. Joseph's R.C. Comprehensive School	staff	157
+Woodkirk High School	staff	225
+Hannover Medical School	staff	4285
+Barton Peveril Sixth Form College	staff	117
+Bulacan State University	staff	89
+Bulacan State University	staff	135
+O'Banion Middle School	staff	16
+Saint Gertrude High School	staff	19
+Heritage University	staff	147
+The King's School Senior	staff	40
+The New School for Jazz and Contemporary Music	staff	13
+Chosen Hill School	staff	150
+University of Warsaw	staff	5531
+Cheyenne Mountain Charter Academy	staff	77
+Homewood School	staff	250
+Nord-Trøndelag University College	staff	390
+Derby College	staff	1500
+King Edward VII School (Melton Mowbray)	staff	120
+Universitat d'Andorra	staff	178
+Archbishop O'Hara High School	staff	10
+Washburn High School	staff	95
+Cardinal Ritter College Prep High School	staff	22
+St Stanislaus College (Bathurst)	staff	56
+Alderwasley Hall School	staff	134
+Faculty of Geodesy, University of Zagreb	staff	80
+Vandyke Upper School	staff	80
+Saint Pius X School	staff	44
+Antwerp Management School	staff	65
+Woodside High School (Woodside, California)	staff	101
+Weston Road High School	staff	67
+St Thomas More Catholic Upper School	staff	56
+Moultrie Technical College	staff	130
+Dronfield Henry Fanshawe School	staff	150
+Holy Family Catholic High School (Minnesota)	staff	28
+National Aviation Academy	staff	51
+New Bedford High School	staff	199
+Pattonville High School	staff	142
+Indian Institute of Space Science and Technology	staff	100
+Bel Forest Academy	staff	30
+Heritage High School (Maryville,Tennessee)	staff	59
+American Sports University	staff	10
+Rydon Community College	staff	30
+Kanazawa University	staff	2480
+G. A. R. Memorial Junior Senior High School	staff	65
+Perry High School (Georgia)	staff	90
+Post Oak Middle School	staff	108
+Llysfasi College	staff	1000
+Beauchamps High School	staff	65
+Pacific College of Oriental Medicine	staff	105
+Gogte Institute of Technology	staff	225
+Earlsheaton Technology College	staff	125
+Sparrows Point High School	staff	81
+François Rabelais University	staff	1
+Braeview Academy	staff	64
+Stetson School	staff	320
+Daniel Pearl Magnet High School	staff	3
+Roundhay School	staff	120
+Adisadel College	staff	93
+Silverado High School (Las Vegas, Nevada)	staff	150
+Hotelschool The Hague	staff	200
+Chiltern Edge School	staff	53
+William Henry Smith School	staff	52
+Glenda Dawson High School	staff	97
+Turnbull High School	staff	63
+Hogeschool-Universiteit Brussel	staff	1100
+Richard Lander School	staff	150
+Penair School	staff	115
+Babcock Graduate School of Management	staff	40
+University of Wollongong in Dubai	staff	235
+Northampton Community College	staff	1300
+Briary Primary School	staff	81
+Cranbourne Business and Enterprise College	staff	97
+Charles Henderson High School	staff	64
+Bangladesh National University	staff	1800
+Polytechnic University of the Philippines, Quezon City	staff	14
+Oulton College	staff	50
+NATO School	staff	190
+Yangtze Normal University	staff	1320
+Hull Collegiate School	staff	100
+Cardinal Wiseman Catholic Technology College	staff	45
+Kendall Central School District	staff	67
+Kendall Central School District  Kendall Elementary School   1	staff	34
+St. Jago High School	staff	120
+East Syracuse-Minoa Central School District	staff	173
+Universidade Federal de Ciências da Saúde de Porto Alegre	staff	287
+Augusta Christian Schools	staff	70
+Priory Preparatory School	staff	35
+St Cyres Comprehensive School	staff	130
+Ullens School	staff	50
+Paducah Tilghman High School	staff	66
+Green End Primary School	staff	14
+University of Dodoma	staff	300
+Kennesaw State University	staff	1400
+Burnage High School	staff	55
+Bankstown Girls High School	staff	80
+Los Angeles Recording School	staff	350
+Wigan and Leigh College	staff	1000
+St. Joseph School – La Salle	staff	99
+Florida Gateway College	staff	212
+Oaks Park High School	staff	80
+Lyman Ward Military Academy	staff	12
+Northridge High School (Alabama)	staff	70
+Pleckgate High School	staff	169
+Okayama University	staff	1201
+Federal School of Saxony – Saint Afra	staff	65
+St. Anthony's Senior Secondary School, Barabanki	staff	150
+Erikson Institute	staff	51
+Mechanical Engineering Department of Amirkabir University of Technology	staff	48
+Defence College of Management and Technology	staff	425
+Wolverhampton Girls' High School	staff	60
+University of South Africa	staff	4
+Polytechnic of Namibia	staff	670
+Heartland Baptist Bible College	staff	50
+Mahamaya Girls' College, Kandy	staff	185
+Wren Park Primary School	staff	28
+Evergreen Elementary	staff	53
+Washington Irving Middle School (Los Angeles)	staff	125
+St. Mary's School, Menston	staff	130
+Menomonie High School	staff	107
+Brighton Hill Community College	staff	150
+Goshen Central High School	staff	7
+Catholic College Bendigo	staff	200
+Royal Netherlands Naval College	staff	90
+Hereward House School	staff	20
+Brookfield Community School and Language College	staff	150
+Comilla University	staff	24
+Cyber University	staff	55
+La Salle High School Faisalabad	staff	91
+Inverclyde Academy	staff	50
+University of Saskatchewan Agriculture & Bioresources College	staff	350
+Henan Normal University	staff	2100
+Manila Central University	staff	400
+Rochester Independent College	staff	80
+Horizon High School (Texas)	staff	229
+Narula Institute of Technology	staff	110
+Bishop Ludden Junior/Senior High School	staff	20
+Lansbridge University	staff	14
+Joseph Whitaker School	staff	80
+Tasker-Milward V.C. School	staff	155
+Crestwood Elementary School (California)	staff	41
+Crowley Elementary School	staff	26
+Australian National Academy of Music	staff	15
+St Bede's Inter-Church School	staff	50
+Institute of Engineering and Technology	staff	350
+University of South Florida College of Medicine	staff	215
+University of South Florida College of Nursing	staff	25
+University of South Florida College of Public Health	staff	215
+Rushmoor School	staff	32
+St. Nicholas Grammar School	staff	40
+Evangel Christian Academy	staff	15
+Mongolia International University	staff	40
+Bishop Barrington School	staff	65
+University of Siegen	staff	1550
+University of Wuppertal	staff	1
+Doncaster College	staff	1072
+Webb Middle School	staff	89
+ESPA College	staff	200
+Sagar Institute of Technology and Management	staff	70
+Sacred Heart RC Secondary School	staff	90
+University of Northwestern Ohio	staff	244
+RCC Institute of Technology	staff	27
+University of Franche-Comté	staff	850
+Katedralskolan, Växjö	staff	145
+Gosford Hill School	staff	90
+Australian National University Medical School	staff	250
+St. Mary's Convent School Kasauli	staff	60
+Academy of Fine Arts, Prague	staff	75
+Academy of Fine Arts, Prague	staff	16
+Sophia Mundi Steiner School	staff	20
+Kendriya Vidyalaya Mankhurd	staff	32
+Shahwilayat Public School	staff	150
+Oxford High School (Oxford, Mississippi)	staff	54
+Bell Baxter High School	staff	100
+President of Savannah State University	staff	385
+Mountainside Middle School	staff	74
+Woodleigh School, North Yorkshire	staff	20
+Petroleum University of Technology	staff	95
+Northwood Middle School (Spokane, Washington)	staff	76
+M S Ramaiah School of Advanced Studies	staff	170
+Mircea cel Bătrân Naval Academy	staff	150
+St. Peter's College, Agra	staff	100
+Norwegian School of Veterinary Science	staff	450
+Tromsø University College	staff	300
+Erskine Academy	staff	56
+SNS College of Engineering	staff	120
+Columbia Bible College (Abbotsford, British Columbia)	staff	60
+Fitzgerald High School	staff	10
+Goce Delčev University of Štip	staff	500
+Summit Middle Charter School	staff	38
+The Stentor	staff	30
+Bear Creek High School (Denver, Colorado)	staff	141
+Northpoint Training Center	staff	285
+Blackburn Correctional Complex	staff	128
+Presentation College Headford	staff	60
+Middletown High School (New York)	staff	140
+Colton-Pierrepont Central School	staff	19
+Newbold College	staff	64
+KD Grammar School for Boys	staff	16
+S. S. Seward Institute	staff	48
+Hillcrest School (Hastings, East Sussex)	staff	100
+Mater Maria Catholic College	staff	65
+National University of Samoa	staff	300
+Cardigan County Secondary School	staff	46
+Cardigan County Secondary School	staff	12
+Shelley College	staff	87
+Colbert Elementary	staff	59
+Johnsburg High School	staff	88
+Midway Elementary	staff	44
+Shiloh Hills Elementary	staff	52
+B.M.S. Institute of Technology	staff	109
+The American University of Iraq – Sulaimani	staff	220
+Todmorden High School	staff	135
+St Thomas More RC	staff	88
+Thomasschule zu Leipzig	staff	67
+Invicta Grammar School	staff	129
+Linden School	staff	51
+Faculdade de Economia da Universidade Nova de Lisboa	staff	150
+Ash Green School	staff	50
+Monhagen Middle School	staff	68
+Gwangju Foreign School	staff	6
+Castelldefels School of Technology	staff	170
+Zeppelin University	staff	90
+Derby High School, Derby	staff	45
+Lockers Park School	staff	40
+Annan Academy	staff	80
+A.J. Moore Academy	staff	70
+Stanwell School	staff	96
+SuccessTech Academy	staff	30
+Spa School	staff	70
+Suffield High School	staff	76
+University of Incheon	staff	255
+South Charnwood High School	staff	150
+Kishwaukee College	staff	206
+Labour India Gurukulam Public School	staff	30
+Juraj Dobrila University of Pula	staff	250
+Purdue University School of Veterinary Medicine	staff	332
+Carlton Bolling College	staff	200
+University of Montpellier 1	staff	692
+Universidad Juárez Autónoma de Tabasco	staff	1087
+Versailles Saint-Quentin-en-Yvelines University	staff	2600
+Hobart High School	staff	60
+Cathkin High School	staff	81
+South Chadderton School	staff	54
+Austin Academy for Excellence	staff	70
+Stephen-Argyle School District	staff	66
+International School Hannover Region	staff	93
+Henri Poincaré University	staff	1146
+University of Rennes 2 – Upper Brittany	staff	1095
+University of Technology of Troyes	staff	190
+Largs Academy	staff	84
+Birla Institute of Technology & Science, Pilani – Goa Campus	staff	300
+Theological University of Northern Italy – Turin Campus	staff	5
+Cheam High School	staff	250
+Hull Grammar School	staff	100
+All Hallows Catholic College, Macclesfield	staff	1
+Abilene High School (Abilene, Kansas)	staff	32
+International Indian School Jeddah	staff	300
+Tring School	staff	200
+Leeds University Business School	staff	118
+Bangor High School (Maine)	staff	115
+Orono High School (Maine)	staff	30
+Hai Phong University	staff	712
+Purdue University College of Health and Human Sciences	staff	355
+Westchester Academy for International Studies	staff	35
+Barstow Community College	staff	150
+Herefordshire College of Technology	staff	450
+Lakewood Ranch High School	staff	142
+Abraham Darby Academy	staff	144
+Working Men's College	staff	125
+Oak Mountain High School	staff	126
+Rajiv Gandhi College of Veterinary and Animal Sciences	staff	59
+Granby Memorial High School	staff	23
+Ysgol Gymraeg Treganna	staff	21
+South Park Primary School	staff	90
+Newport High School (Newport, South Wales)	staff	80
+Oulu University of Applied Sciences	staff	800
+Clarendon House Grammar School	staff	50
+University of Edinburgh Medical School	staff	1244
+University of Valle	staff	1228
+Woodhouse High School	staff	100
+Universidade Federal do ABC	staff	403
+Central Foundation Boys' School	staff	110
+Carey Baptist College	staff	12
+Carey Baptist College	staff	21
+Middle College High School at DTCC	staff	9
+Han Chiang High School	staff	90
+Jutland Art Academy	staff	13
+Jutland Art Academy	staff	8
+Chail Military School	staff	100
+Little Ilford School	staff	250
+Cirencester Kingshill School	staff	100
+Springmead Preparatory School	staff	30
+Thomas County Central High School	staff	25
+North Hall High School	staff	122
+Penn Hills School District	staff	822
+Central High School (Aberdeen, South Dakota)	staff	100
+Jinling High School	staff	236
+Buddhist and Pali University of Sri Lanka	staff	160
+St Nicholas Catholic Primary School (Birmingham)	staff	11
+Queensland Academy for Health Sciences	staff	34
+College of Charleston School of Business and Economics	staff	70
+National Academy of Management	staff	200
+University of Pittsburgh Graduate School of Public Health	staff	520
+Institute of Technology and Marine Engineering	staff	100
+Ellenville Elementary School	staff	53
+Bishop Challoner RC School	staff	90
+La Plata High School	staff	150
+Hi-Tech Institute Of Technology, Aurangabad	staff	100
+St. Mary's High School (Rajkot)	staff	20
+Willenhall School Sports College	staff	150
+Dundalk Grammar School	staff	60
+Miyagi University of Education	staff	77
+Kanagawa University	staff	361
+Ellenville Middle School	staff	42
+Frederick County Public Schools (Maryland)	staff	5452
+Ellenville High School	staff	47
+Hill House Kindergarten	staff	5
+M.E.S Indian school	staff	600
+Tri-Valley Central School	staff	177
+Oak Ridge High School (Orlando, Florida)	staff	31
+Oak Ridge High School (Orlando, Florida)	staff	4
+St. Anthony's College, Shillong	staff	100
+Seton Hall University College of Nursing	staff	36
+Oaklands Catholic School	staff	71
+Admiral Makarov National University of Shipbuilding	staff	136
+Pecatonica High School (Wisconsin)	staff	20
+Military Academy Karlberg	staff	120
+Montsaye Community College	staff	100
+St Brendan-Shaw College	staff	70
+Faculty of Medicine, Chulalongkorn University	staff	400
+Walden Elementary School	staff	47
+Le Quy Don Technical University	staff	800
+Chestatee High School	staff	105
+FON University	staff	245
+University of Hyogo	staff	555
+University of Applied Sciences Leiden	staff	700
+White County High School (Cleveland, Georgia)	staff	98
+Queensland Institute of Business and Technology	staff	80
+Purbaya Polytechnic Institute	staff	4
+Lomond School	staff	67
+Collège Alpin International Beau Soleil	staff	120
+Notre Dame University – Louaize	staff	190
+Ethridge Elementary School	staff	11
+Leon Sheffield Elementary School	staff	28
+Thibodaux High School	staff	148
+Northwest Classen High School	staff	90
+Salisbury Cathedral School	staff	38
+Garrison Union Free School	staff	34
+Vermont Center for the Deaf and Hard of Hearing	staff	175
+Cheadle High School	staff	71
+North Raleigh Christian Academy	staff	135
+Raleigh Christian Academy	staff	70
+Seattle Girls' School	staff	13
+Kolding Gymnasium	staff	71
+Fırat University	staff	1473
+Clayton Hall Business and Language College	staff	100
+East Barnet School	staff	286
+Fryderyk Chopin University of Music in Warsaw	staff	509
+John Jay Middle School	staff	132
+Chapel Hill – Chauncy Hall School	staff	64
+Cardinal Newman High School, Bellshill	staff	90
+Castlemilk High School	staff	51
+Staten Island Technical High School	staff	72
+Amman Valley Comprehensive School	staff	100
+Parkhill Junior School	staff	70
+Priesthorpe Specialist Sports College	staff	86
+Durango High School (Nevada)	staff	140
+Aarhus University, Institute of Business and Technology	staff	225
+Asahikawa Medical College	staff	1025
+Nara Institute of Science and Technology	staff	368
+Fulford School	staff	135
+Oslo National Academy of the Arts	staff	181
+Asian University for Women	staff	100
+Khorugh State University	staff	200
+An Giang University	staff	738
+Lee Middle School	staff	50
+Bennett Memorial Diocesan School	staff	102
+Munich School of Political Science	staff	150
+MVM Arts and Science College	staff	33
+Yamagata University	staff	1834
+Eastern Polytechnic	staff	378
+Foundation Public School	staff	500
+Providence Christian Academy (Murfreesboro, Tennessee)	staff	8
+The Royal School of Library and Information Science	staff	140
+Rutgers–New Brunswick	staff	5309
+Glasgow Metropolitan College	staff	500
+University of Toyama	staff	1051
+MacKillop College, Swan Hill	staff	80
+Mary MacKillop College	staff	71
+Hyde Park Junior School	staff	13
+Hyde Park Junior School	staff	30
+Oakbank School, Keighley	staff	200
+Northern Lakes College	staff	275
+Elkins High School (West Virginia)	staff	75
+Taylor College and Seminary	staff	10
+Gulu University	staff	287
+Busitema University	staff	20
+National Dali Senior High School	staff	27
+Reigate School	staff	100
+Hinsdale Central School	staff	7
+Freeman Catholic College	staff	114
+Carlisle College	staff	300
+Cornwall College	staff	2800
+Sandwich High School	staff	83
+Govt. Azizul Haque College	staff	50
+West Hall High School	staff	82
+Sacred Heart College, New Town	staff	100
+Hebburn Comprehensive School	staff	70
+Canadian International School of Hong Kong	staff	55
+Wiltshire College	staff	300
+Mott Community College	staff	407
+Mott Community College	staff	421
+University of Santa Monica	staff	40
+Belgaum Military School	staff	100
+Elfed High School	staff	60
+Elgin High School (Scotland)	staff	57
+Proctor High School	staff	98
+Misamis University	staff	394
+Baldwin Girls High School	staff	150
+Population Research Laboratory	staff	120
+Northeastern Illinois University	staff	1762
+Ashfold School	staff	50
+Cyber Village Academy	staff	2
+East Granby High School	staff	18
+P.D. Memorial Religious and Educational Association	staff	500
+Huntington-Surrey High School	staff	15
+South Craven School	staff	200
+Ipswich Academy	staff	70
+Pace University	staff	1527
+Samuel W. Wolfson High School	staff	125
+Tarek ibn Ziyad Academy	staff	9
+Saraswathi Vidyalaya Matriculation Higher Secondary School	staff	75
+San Leandro Unified School District	staff	693
+Chinmaya Vidyalaya, Vazhuthacaud	staff	8
+Duncan U. Fletcher High School	staff	152
+Abingdon Preparatory School	staff	41
+Dalian No. 24 High School	staff	123
+The Volgograd State Medical University	staff	763
+PDM College of Engineering	staff	137
+Slidell High School	staff	45
+Great Plains College	staff	50
+Wesley Seminary	staff	5
+Western Wyoming Community College	staff	111
+Yeshivat Lev Hatorah	staff	23
+Delaware School for the Deaf	staff	90
+Canadian College of Naturopathic Medicine	staff	100
+Annada Government High School	staff	100
+George W. Woodruff School of Mechanical Engineering	staff	55
+Christ School (North Carolina)	staff	40
+Federal University of Uberlândia	staff	4601
+Arran High School	staff	50
+Estrella Mountain Community College	staff	206
+Mathematics, Civics and Sciences Charter School	staff	63
+Bethany College (Saskatchewan)	staff	20
+Government College for Women Dhoke Kala Khan	staff	15
+Mutah University	staff	2500
+University of Sydney Faculty of Veterinary Science	staff	98
+UNSW School of Photovoltaic and Renewable Energy Engineering	staff	43
+Classical Center at Brandenburg Middle School	staff	80
+Dorsey Elementary School	staff	9
+Trakia University	staff	800
+Bussey Middle School	staff	13
+Government Engineering College, Ajmer	staff	60
+Korea Military Academy	staff	160
+G D Birla Memorial School	staff	250
+Baguio City National High School	staff	339
+Sha Tin Junior School	staff	90
+Elmer L. Meyers Junior/Senior High School	staff	67
+Mar Gregorios College of Arts and Science, Chennai	staff	80
+Auchmuty High School	staff	80
+Cardonald College	staff	1500
+St Joseph's In The Park	staff	28
+Keystone Junior/Senior High School	staff	29
+St Mary's Convent High School (Hyderabad)	staff	170
+Mechanicstown Elementary School	staff	59
+Ash Manor School	staff	70
+Higher education in Newfoundland and Labrador  College of the North Atlantic   1	staff	599
+Higher education in Prince Edward Island  Holland College   1	staff	435
+Aalto University	staff	4938
+Warwick Valley High School	staff	103
+Caerleon Endowed Junior School	staff	39
+National University of the South	staff	3703
+Monks' Dyke Technology College	staff	85
+St Mary's School (Calne)	staff	90
+B. N. College, Dhubri	staff	200
+Alsager School	staff	150
+Franklin Delano Roosevelt High School	staff	455
+Holtville High School	staff	40
+North East Institute of Science and Technology, Jorhat	staff	300
+Tarves Primary School	staff	6
+Bishop Manogue High School	staff	86
+Chicopee Public Library	staff	35
+Nanjing University of Posts and Telecommunications	staff	1588
+Doddinghurst CofE Junior School	staff	16
+Stanground College	staff	110
+Launceston College	staff	160
+Hendon School	staff	150
+National University of Catamarca	staff	13199
+National University of Río Cuarto	staff	1500
+Salwan Public School	staff	150
+Titusville Area School District	staff	319
+The Regis School	staff	196
+St Ambrose Barlow RC High School	staff	81
+University of Zielona Góra	staff	1
+Little Kingshill School	staff	25
+J. F. Drake Middle School	staff	57
+Government Science College	staff	150
+Kyorin University	staff	2029
+Brawijaya University	staff	957
+Bandarawela Central College	staff	120
+St Michael's Roman Catholic School	staff	25
+New Territories Heung Yee Kuk Yuen Long District Secondary School	staff	61
+Education in Congleton Borough	staff	8
+Education in Congleton Borough	staff	8
+Gyula Andrássy High School	staff	53
+Dr. M. G. R. Home and Higher Secondary School for the Speech and Hearing Impaired	staff	70
+Birla Institute of Technology & Science, Pilani – Dubai	staff	98
+University of Arkansas College of Engineering	staff	102
+Ain Shams University Faculty of Medicine	staff	2500
+Holden Lane High School	staff	20
+Jiangxi Agricultural University	staff	1400
+St. John's Church of England Primary School, Roundhay	staff	10
+Harvard University	staff	2497
+Harvard University	staff	10674
+FH Aachen	staff	670
+Holy Cross Catholic Primary School (Leicestershire)	staff	12
+Luckley-Oakfield School	staff	42
+True Cross Catholic School (Dickinson, Texas)	staff	37
+Munsang College (Hong Kong Island)	staff	64
+Green Bay Southwest High School	staff	118
+Bear River High School	staff	44
+Nanjing No.1 High School	staff	230
+Connecticut School of Broadcasting	staff	420
+Excel Christian School	staff	4
+Centrale Graduate School	staff	2900
+Jawahar Navodaya Vidyalaya, Mandaphia	staff	42
+Parkland College (Saskatchewan)	staff	100
+China West Normal University	staff	1820
+Polytech'Paris-UPMC	staff	70
+Qassim University	staff	3500
+South Leicestershire College	staff	500
+Touro University Rome	staff	5
+List of Georgia Southern University alumni	staff	2000
+Patrick Henry High School (Ashland, Virginia)	staff	128
+Nanikhir High School	staff	150
+Pond Meadow School	staff	15
+Collis Primary School	staff	71
+Merritt Island High School	staff	30
+Birkdale High School (Sefton)	staff	53
+German Sport University Cologne	staff	916
+Leonides S. Virata Memorial School	staff	45
+Chilton Cantelo School	staff	54
+Colchester High School	staff	86
+Leesville High School	staff	62
+Faculty of Law, Thammasat University	staff	85
+Menno Simons College	staff	6
+Kearney Public Schools	staff	380
+MODUL University Vienna	staff	50
+St Aloysius' College (Melbourne)	staff	68
+Writtle College	staff	100
+Writtle College	staff	15
+Writtle College	staff	50
+Writtle College	staff	80
+Harvard Business School	staff	1100
+Cotham School	staff	90
+IKE Group	staff	24
+Presentation Convent Girls High School	staff	0
+Northgate High School (Walnut Creek, California)	staff	64
+David Young Community Academy	staff	120
+Faculty of Medicine Ramathibodi Hospital, Mahidol University	staff	649
+Moscow State Aviation Technological University	staff	1218
+Cumhuriyet University	staff	1035
+William Angliss Institute of TAFE	staff	400
+Berwick Area Senior High School	staff	9
+Goulburn Ovens Institute of TAFE	staff	400
+International University of Sarajevo	staff	150
+Islamic Azad University of Damavand	staff	200
+Kanawha Valley Community and Technical College	staff	41
+Riverdale Kingsbridge Academy	staff	117
+Muhammadiyah University of Makassar	staff	750
+Penn Foster Career School	staff	538
+National Institute for Materials Science	staff	1500
+Durango Institute of Technology	staff	635
+Austine school	staff	175
+Cwrt Sart Comprehensive School	staff	60
+Middlesboro High School	staff	23
+St. Peter's College, Dunboyne	staff	78
+Joseph Vaz College	staff	120
+Polytechnic University of the Philippines	staff	707
+Cane Bay High School	staff	74
+Brighouse High School	staff	70
+IE University	staff	400
+Seinäjoki University of Applied Sciences	staff	400
+Suranaree University of Technology	staff	993
+Faculty of Economics of Kazimierz Pułaski Technical University of Radom	staff	125
+St. Joseph's Catholic College, Bradford	staff	69
+Woodroffe School	staff	100
+Lucerne University of Applied Sciences	staff	789
+Mullion School	staff	38
+Ryton Comprehensive School	staff	112
+University of Vermont College of Medicine	staff	447
+Beijing No.4 High School	staff	90
+Northridge High School (Colorado)	staff	39
+John Spendluffe Foundation Technology College	staff	44
+John Spendluffe Foundation Technology College	staff	21
+Lakers Public School	staff	13
+Kazimierz Pułaski Technical University of Radom	staff	978
+Brunswick (Brittonkill) Central School District	staff	53
+Dortmund University of Applied Sciences and Arts	staff	466
+Connors State College	staff	100
+Caerleon Endowed Infants School	staff	26
+Sikkim University	staff	2000
+East Wake High School	staff	148
+Chafyn Grove School	staff	107
+Kimberley School	staff	85
+Gravesend Grammar School for Girls	staff	67
+SITE Engineering College	staff	50
+Highland High School (Ault, Colorado)	staff	10
+University of Maryland, College Park	staff	5116
+Pasco County Schools	staff	8471
+Bandaranayake College	staff	200
+Hogeschool van Arnhem en Nijmegen	staff	2690
+Royal Academy of Music in Aarhus	staff	200
+Delmar Middle School	staff	42
+Valdez High School	staff	23
+St. John's Business and Enterprise College	staff	17
+Amridge University	staff	96
+Watson Technology Center	staff	39
+Grangewood Independent School	staff	13
+Geneva City School District	staff	126
+Geneva City School District  Geneva Middle School   1	staff	118
+Geneva City School District  North Street School   1	staff	106
+Geneva City School District  West Street School   1	staff	116
+Bright School, Baroda	staff	921
+Manuel S. Enverga University Foundation	staff	605
+Walnut Glen Academy for Excellence	staff	41
+Science and Technology Policy Research	staff	70
+Technological University of Panama	staff	1525
+Campie Primary School	staff	123
+Hickman Elementary School	staff	54
+Spring Creek Elementary School	staff	52
+Cooper Elementary School	staff	51
+Furze Platt Senior School	staff	150
+Danum School Technology College	staff	270
+Lyles Middle School	staff	83
+The English College in Prague	staff	18
+Coyle Middle School	staff	81
+Prospect School	staff	250
+Hudson Middle School	staff	88
+The Towers School	staff	100
+The King's School, Pontefract	staff	55
+European Standard School (ESS)	staff	200
+Babasaheb Ambedkar Technological University	staff	146
+St Aubyn's School	staff	100
+Hill House School, Doncaster	staff	50
+Riga Graduate School of Law	staff	11
+Grand Blanc West Middle School	staff	63
+East Bakersfield High School	staff	108
+Shahen Academy	staff	200
+Northlands College	staff	120
+Krishna Kanta Handique State Open University	staff	80
+ICD Business School	staff	10
+Nipawin Bible College	staff	10
+UiTM Malaysia Law School	staff	69
+University of Dental Medicine, Mandalay	staff	190
+German University of Technology in Oman	staff	50
+National Institute of Technology and Evaluation	staff	400
+Walker-Hackensack-Akeley High School	staff	46
+Zhangzhou Normal University	staff	1257
+A'takamul International School	staff	150
+No.1 Senior High School of Urumqi	staff	155
+Woodheys Primary School	staff	39
+Mersin University	staff	866
+Gayhurst School	staff	38
+Northwoods Community Secondary School	staff	13
+Department of Physical Education	staff	49
+Rockledge High School	staff	78
+Edmond S. Meany Middle School	staff	37
+Broadland High School	staff	70
+Manuel A. Roxas High School	staff	185
+Central Hindu College	staff	45
+Alloa Academy	staff	76
+High School for Girls	staff	75
+Hochschule für Technik Rapperswil	staff	230
+Notre Dame High School (Guam)	staff	10
+School of Business at Clayton State University	staff	13
+Experimental High School Attached to Beijing Normal University	staff	300
+Geneva High School (New York)	staff	126
+University of Glasgow School of Law	staff	44
+Bangladesh M.H.M High School & College, Doha-Qatar	staff	149
+Mandalay Institute of Nursing	staff	220
+University of Glasgow School of Veterinary Medicine	staff	300
+St. James High School (Philippines)	staff	30
+Jiangnan University	staff	1568
+Averill Park Central School District	staff	131
+Mougins School	staff	37
+Istanbul Commerce University	staff	170
+Vyasanagar College	staff	31
+Bartlett High School (Bartlett, Texas)	staff	85
+Rye High School (Rye, Colorado)	staff	18
+Rye High School (Rye, New York)	staff	11
+Charles E. Brown Middle School	staff	63
+Montgomery Elementary School	staff	45
+Coláiste Rís	staff	40
+New Mills School Business & Enterprise College	staff	59
+University of Borås	staff	650
+Chang Gung University	staff	1176
+Chang Gung University	staff	211
+Cleves School, Weybridge	staff	29
+Kangwon National University School of Law	staff	27
+Loudoun Country Day School	staff	14
+UNIO High School	staff	94
+Dulwich College Suzhou	staff	56
+East Providence High School	staff	43
+Siena College	staff	150
+Colorado's Finest Alternative High School	staff	28
+Hainan University	staff	2527
+Houston Community College System	staff	954
+Universidade Federal Rural do Rio de Janeiro	staff	1086
+Ridgeway High School (Birkenhead)	staff	100
+Wuyi University	staff	610
+Hebei University of Engineering	staff	2835
+Anhui Medical University	staff	6276
+Weifang Medical University	staff	1096
+Chongqing University of Science and Technology	staff	1200
+Berea Elementary School (Montgomery, New York)	staff	38
+Beijing Materials University	staff	693
+Jiaying University	staff	1392
+University College of Applied Sciences	staff	553
+School of Health and Rehabilitation (Keele University)	staff	40
+Center for Imaging Science	staff	1831
+Duchesne High School (Utah)	staff	23
+Naogaon Govt. College	staff	54
+Guangdong Pharmaceutical University	staff	2387
+Civil Aviation Flight University of China	staff	1100
+Central Bukidnon Institute	staff	20
+Imi-Nova International Management Institute	staff	34
+Donetsk State University of Management	staff	340
+Qiqihar University	staff	500
+Centre for Innovation, Research and Competence in the Learning Economy	staff	33
+Weifang University	staff	1758
+Shaoxing University	staff	1500
+Zhejiang Normal University	staff	2458
+Taizhou University	staff	800
+Wenzhou University	staff	1950
+Zhejiang Ocean University	staff	1156
+Piliyandala Central College	staff	150
+St. Hilda's School, Bushey	staff	21
+Zhejiang Forestry University	staff	1400
+Jiangsu University	staff	4500
+Guangdong Institute of Science and Technology	staff	1000
+Yangon International School	staff	40
+Dulwich College Beijing	staff	150
+Guiyang Medical University	staff	2447
+Guiyang College of Traditional Chinese Medicine	staff	214
+Anhui University of Technology and Science	staff	1200
+Barnhill Primary School	staff	35
+Zurich University of Applied Sciences	staff	2722
+North Glasgow College	staff	167
+Kennedy Junior High School	staff	83
+Bristol Law School	staff	98
+ISCTE – Lisbon University Institute	staff	200
+St Joseph's Higher Secondary School, Thalassery	staff	69
+SVCE Indore	staff	100
+Jamia Tawakkulia Renga Madrasah	staff	42
+Sacred Heart Girls High School, Thalassery	staff	42
+Conemaugh Township Area School District	staff	147
+Prentiss High School	staff	38
+Université Saint-Esprit de Kaslik	staff	804
+Université Saint-Esprit de Kaslik	staff	290
+Pine Technical College	staff	115
+Shantou Experimental School	staff	175
+Portland State University School of Business Administration	staff	30
+Sorbonne Graduate Business School	staff	400
+Finance University under the Government of the Russian Federation	staff	2100
+Professional Skills Institute	staff	47
+Forres Academy	staff	87
+Spring Forest Middle School (Houston, Texas)	staff	58
+Petitcodiac Regional School	staff	48
+George F. Baker High School	staff	28
+Buryat State University	staff	2000
+Oakwood Park Grammar School	staff	65
+Pakistan Urdu School, Bahrain	staff	100
+Hart County High School	staff	105
+Front Range Community College	staff	337
+Burlington Middle School (Burlington, Kansas)	staff	22
+Clemson University Graduate School	staff	2950
+Illinois Valley Community College	staff	541
+Sarada Vidyalayam	staff	4
+Cerro Coso Community College	staff	200
+Lealands High School	staff	57
+St Benedict's College Colombo	staff	120
+Brighton High School (Brighton, Colorado)	staff	136
+Centralia College	staff	212
+D.B.M.S. English School	staff	60
+Donbas State Technical University	staff	1500
+St Dominic's Priory School (Stone)	staff	45
+Jilin Provincial Experimental School	staff	248
+Dr. M.G.R. Educational and Research Institute	staff	796
+St. Lawrence University (Uganda)	staff	70
+Royal University of Agriculture, Cambodia	staff	250
+Tevis Jr. High	staff	135
+School of Humanities, Languages and Social Sciences (UWE)	staff	102
+Overton Grange School	staff	150
+Winter Haven Christian School	staff	24
+Crickhowell High School	staff	70
+Port Huron High School	staff	142
+School of Electronics and Computer Science, University of Southampton	staff	349
+School of Education (UWE)	staff	102
+Berlin Central School District	staff	53
+Accra Academy	staff	45
+Cumnor House School	staff	30
+Ann Arbor Public Schools	staff	3007
+Bedok Green Secondary School	staff	75
+Beijing Chen Jing Lun High School	staff	25
+Costa Rica Rainforest Outward Bound School	staff	20
+St John's Catholic School for the Deaf	staff	25
+Gleniffer High School	staff	135
+Maxim Tank Belarusian State Pedagogical University	staff	1373
+Parkwood Secondary College	staff	35
+St. Brigid's High School	staff	19
+James Monroe High School (Rochester, New York)	staff	189
+Adcote	staff	58
+Stockholm International School	staff	70
+Legacy Christian School	staff	7
+TC Beirne School of Law	staff	45
+North Pointe Preparatory	staff	50
+The Wellington Academy	staff	130
+Options Secondary School	staff	22
+Oklahoma Christian University	staff	153
+Hoi Pa Street Government Primary School	staff	53
+West Mecklenburg High School	staff	165
+Larrabee Elementary School	staff	10
+Noadswood School	staff	150
+Macquarie University Faculty of Arts	staff	400
+International Christian School (Caracas)	staff	9
+Hyde Park Elementary School	staff	22
+Naval Justice School	staff	125
+Graham Local School District	staff	119
+Stanborough School, Watford	staff	25
+National University of Mar del Plata	staff	4734
+Rich East High School	staff	179
+Institut Pendidikan Guru Malaysia, Kampus Kota Bharu	staff	56
+Craigholme School	staff	42
+Techno India	staff	50
+National Hualien Senior High School	staff	18
+Handsworth Grange Community Sports College	staff	73
+Acharya Jagadish Chandra Bose College	staff	30
+Faculté des Sciences de Luminy	staff	320
+Bedford Area School District  Bedford Area High School   1	staff	21
+Bedford Area School District  Hyndman Middle Senior High School   1	staff	8
+Renaissance School of Art and Reasoning (Sammamish, Washington)	staff	7
+Belmont House School	staff	55
+Busan Foreign School	staff	31
+The Harwich School	staff	197
+Commercial Academy of Satu Mare	staff	40
+Alexander Hamilton Jr./Sr. High School	staff	80
+SMK PGRI 05 Jember	staff	30
+Davao Oriental State College of Science and Technology	staff	35
+Campion College, Regina	staff	12
+National University of Uzbekistan	staff	1200
+Cumbernauld College	staff	415
+Georg-Cantor-Gymnasium	staff	60
+Baden Powell College	staff	100
+Five Branches University	staff	76
+University of Aberdeen School of Law	staff	42
+Unity University	staff	2000
+Frenchtown High School	staff	62
+Sahmyook Language School	staff	1200
+Hochschule Mittweida	staff	180
+Don Bosco Catholic School	staff	6
+Bradford Area High School	staff	13
+University of Pretoria	staff	4
+Kazan State Medical University	staff	1400
+Monterrey College of Music and Dance	staff	120
+The Manor School	staff	185
+West Jefferson Hills School District	staff	54
+Hong Kong Adventist Academy	staff	2
+University of New Brunswick Faculty of Business Administration	staff	38
+Taipei Municipal Song Shan Senior High School	staff	210
+Abildsø skole	staff	85
+Universidad Del Pacifico – Ecuador	staff	112
+Parisutham Institute of Technology & Science	staff	150
+Marton-Cum-Grafton Primary School	staff	13
+Shiva Institute of Engineering and Technology, Bilaspur	staff	100
+School of Health Professions	staff	20
+Moscow State University of Economics, Statistics, and Informatics	staff	1100
+Mihai Eminescu National College (Satu Mare)	staff	72
+Ioan Slavici National College	staff	66
+Kölcsey Ferenc National College	staff	73
+Doamna Stanca National College (Satu Mare)	staff	52
+Bridgewater School	staff	33
+Pioneer Union Elementary School District (Kings County)	staff	64
+Mount St Benedict College	staff	113
+St. Mark's School (Hong Kong)	staff	61
+Realschule Hirschaid	staff	60
+Brookway High School & Sports College	staff	46
+Abberley Hall School	staff	38
+San Diego Continuing Education	staff	245
+St. Mary's High School, Peshawar	staff	70
+National Academy for Educational Management	staff	142
+Valliammai Engineering College	staff	173
+Kampala International University	staff	250
+St. Catherine of Siena School (Vallejo, California)	staff	13
+Technological University, Thanlyin	staff	54
+Missouri University of Science and Technology	staff	851
+University of Missouri–St. Louis	staff	1178
+University of Missouri	staff	12165
+VisLab	staff	21
+Nuclear Power School	staff	500
+Walnut Creek Intermediate	staff	75
+The Edward Richardson Community Primary School	staff	16
+Jawahar Navodaya Vidyalaya, Jaipur	staff	50
+Bridgeport Academy	staff	17
+VIA University College	staff	2000
+University College of Northern Denmark	staff	750
+University College Lillebaelt	staff	700
+West Jutland University College	staff	350
+University College South	staff	400
+Christ Church Anglo-Indian Higher Secondary School	staff	100
+Slippery Rock University of Pennsylvania	staff	867
+Centre for Population, Poverty and Public Policy Studies	staff	111
+M.S.Bidve Engineering College, Latur	staff	100
+Bishop Walsh Primary School	staff	56
+Bishop Walsh Primary School	staff	100
+West Suffolk College	staff	480
+Swindon Academy	staff	127
+University of Civil Engineering of Vietnam	staff	619
+Shorecrest Preparatory School	staff	105
+South Park School District	staff	252
+Medical College of Nanchang University	staff	865
+Balderstone Technology College	staff	150
+Henry County Public Schools	staff	1670
+Tabernacle Baptist College	staff	21
+Clydebank High School	staff	150
+Department of Electronic and Computer Engineering, SLIIT	staff	17
+Grantham Preparatory School	staff	11
+Witham Hall	staff	39
+The Michigan Every Three Weekly	staff	30
+Gangneung-Wonju National University	staff	229
+Maharashtra College of Engineering Nilanga	staff	100
+Meoncross School	staff	46
+Ringgold High School (Georgia)	staff	78
+ANU College of Physical & Mathematical Sciences	staff	1044
+St. Philip Howard Catholic Primary School	staff	35
+HAS Den Bosch	staff	225
+Kent State University at East Liverpool	staff	37
+Bonab Higher Education Complex	staff	20
+Jamal Mohamed College	staff	292
+Department of Computer Engineering, University of Peradeniya	staff	10
+Banking Institute / College of Banking	staff	350
+National Mining University of Ukraine	staff	850
+Emmanuel Christian School, Oxfordshire	staff	10
+Odessa National Polytechnic University	staff	4000
+St. Rita of Cascia High School	staff	91
+Guru Harkrishan Public School, Indore	staff	10
+William Farr School	staff	217
+C.S.I. Ewart Matriculation Higher Secondary School	staff	150
+Hai Phong Medical University	staff	321
+Busoga University	staff	170
+Lüneburg University	staff	690
+National University of Northwestern Buenos Aires	staff	323
+Kabale University	staff	15
+Oromocto High School	staff	100
+Sheryl Searcy Ninth Grade Center	staff	80
+Power and Water University of Technology	staff	120
+Crimea State Medical University named after S. I. Georgievsky	staff	850
+Bottisham Village College	staff	143
+Enrico Fermi High School	staff	15
+Buena Vista High School (Buena Vista, Colorado)	staff	17
+All Saints University	staff	26
+Fairland University	staff	28
+Daneshill School	staff	50
+Faculty of Sociology and Anthropology Thammasat University	staff	30
+Muteesa I Royal University	staff	100
+University of Community Health, Magway	staff	256
+Institute of Agri-Food and Land Use (IAFLU)	staff	18
+Witton Park High School	staff	70
+St Mary's School Winchester, MA	staff	3
+Islamia English School	staff	150
+Sonapur Ali Akber High School	staff	8
+Lyons-Decatur Northeast Schools	staff	23
+Wollemi College	staff	25
+Devonshire House Preparatory School	staff	75
+Prydniprovska State Academy of Civil Engineering and Architecture	staff	590
+The University of Western Australia Business School	staff	40
+University of Michigan School of Art & Design	staff	40
+Immaculate High School	staff	8
+East Hall High School	staff	100
+Hengshui High School	staff	490
+Greenbrier Episcopal School	staff	13
+Andersons Primary School	staff	14
+CARRS-Q	staff	13
+Bataan Military Academy	staff	20
+Bataan Military Academy	staff	2
+Kings Park Secondary School	staff	100
+Hanoi University of Civil Engineering	staff	619
+Sunchon National University	staff	559
+Jefferson Community School	staff	3
+Western Visayas College of Science and Technology	staff	58
+Davao del Norte State College	staff	48
+Alan B. Shepard High School	staff	173
+Senanayake National College, Madampe	staff	84
+Kozminski University	staff	350
+Saint Clair Area School District	staff	19
+Czech Technical University in Prague	staff	3954
+Heart of the Earth Survival School	staff	7
+Higher National Veterinary School	staff	2
+Faculty of Engineering, Ain Shams University	staff	780
+Mykolayiv State Agrarian University	staff	427
+Great Falls Central Catholic High School	staff	6
+Danville New Tech High	staff	189
+Tangshan NO.1 high school	staff	120
+Birla Institute of Technology and Science, Pilani – Hyderabad	staff	82
+Peter-Petersenschool	staff	2
+Bebington High School	staff	50
+Lambrook	staff	50
+Maiden Erlegh School	staff	200
+Ostwestfalen-Lippe University of Applied Sciences	staff	520
+Cults Academy	staff	100
+St. Aubyns Preparatory School	staff	25
+Bilasipara College, Bilasipara	staff	77
+Goalpara College	staff	110
+Regional School District 15	staff	380
+Port Charlotte High School	staff	180
+Gelehrtenschule des Johanneums	staff	46
+Agricultural University of Tirana	staff	480
+Faculty of Education, Law and Social Sciences (Birmingham City University)	staff	190
+Nano and Micro Devices Center	staff	6
+Silver Creek Central School District	staff	127
+Faculty of Engineering, University of Peradeniya	staff	349
+The School of Social Work, Odense – University College, Little Belt	staff	100
+Pimpri Chinchwad College of Engineering, Pune	staff	220
+Arcadia Valley School District	staff	54
+Sekolah Menengah Sains Kuala Selangor	staff	86
+St Columba's High School, Clydebank	staff	65
+Óbuda University	staff	500
+Het 4e Gymnasium	staff	56
+Queens Paideia School	staff	3
+Christ Church Girls' School, Barbados	staff	30
+Academy of Technology	staff	25
+University of Cambridge	staff	1539
+Wargrave House	staff	7
+Ryerson University	staff	1656
+Ottumwa School District	staff	257
+Agusan del Sur College	staff	60
+Guru Nanak Institute of Technology	staff	20
+Harton Technology College	staff	185
+International School of Business Management	staff	30
+Welch Elementary School	staff	34
+Fan Noli University	staff	94
+Fan Noli University	staff	115
+Watsonville Primary School	staff	3
+American Christian School	staff	17
+Center of Excellence in Nanotechnology at AIT	staff	5
+Portage High School	staff	130
+HEIG-VD	staff	640
+Don Bosco Thanjavur	staff	54
+Stanes Anglo Indian Higher Secondary School	staff	136
+Kastamonu University	staff	740
+Kastamonu University	staff	453
+College of Computer Studies – Central Philippine University	staff	7
+The Vanguard School (Pennsylvania)	staff	133
+Rutherford County Schools (Tennessee)	staff	1306
+Central Philippine University College of Nursing	staff	5
+Waterloo Central School District	staff	70
+Waterloo Central School District  LaFayette Intermediate School   1	staff	57
+Waterloo Central School District  Skoi-Yase Primary School   1	staff	62
+Waterloo Central School District  Main Street Elementary   1	staff	26
+Mynderse Academy	staff	77
+Kempsville High School	staff	135
+Law Development Centre	staff	50
+Central Philippine University College of Medicine	staff	5
+Jawahar Navodaya Vidyalaya Veleru	staff	40
+Central Philippine University College of Theology	staff	5
+Central Philippine University Development High School	staff	5
+SKH Bishop Mok Sau Tseng Secondary School	staff	60
+Siksha O Anusandhan University	staff	2500
+Citrus Hill High School	staff	11
+Buford High School	staff	78
+Police College of Finland	staff	200
+Wood-Dene School	staff	29
+Kona Pacific Public Charter School	staff	14
+University College Dublin	staff	3267
+Seneca Falls Central School District	staff	118
+Seneca Falls Central School District  Elizabeth Cady Stanton School   1	staff	47
+Seneca Falls Central School District  Frank Knight Elementary   1	staff	47
+Loreto College, Coleraine	staff	53
+Shenzhen Institute of Information Technology	staff	611
+PEARL Institute of Management and Information Technology	staff	20
+Kung Yik She Secondary School	staff	57
+CITY College, International Faculty of the University of Sheffield	staff	70
+Impscet	staff	15
+New Brunswick Bible Institute	staff	28
+SM Sultan Abdul Halim	staff	71
+Wellacre Academy	staff	100
+Naples Central School District	staff	123
+Naples Central School District  Naples Elementary School   1	staff	128
+Tavistock College	staff	300
+Norfolk County Agricultural High School	staff	21
+Macarthur Adventist College	staff	18
+Carmel Garden Matriculation Higher Secondary School	staff	95
+University of Rijeka Department of Informatics	staff	24
+Warren-Prescott School	staff	45
+T John Institute of Technology	staff	60
+Omaha Nation Public Schools	staff	35
+Hooghly Engineering and Technology College	staff	60
+Sri Rahula College Kandy	staff	144
+Marysville Exempted Village Schools District	staff	200
+Lake County High School (Tiptonville, Tennessee)	staff	17
+James Bradfield Primary School	staff	20
+Delta Career Education Corporation	staff	2685
+British Overseas School	staff	50
+MKCE	staff	30
+University of Rijeka Department of Mathematics	staff	24
+Scoil Aireagail	staff	46
+Paul Nicholas School of Acting & Performing Arts	staff	130
+Zalma R-5 School District	staff	22
+Leopold R-3 School District	staff	18
+Pikes Peak Christian School	staff	24
+Mexico Central School District	staff	123
+Mexico Central School District  Mexico Middle School   1	staff	107
+Mexico Central School District  Mexico Elementary School   1	staff	56
+Mexico Central School District  New Haven Elementary   1	staff	38
+Mexico Central School District  Palermo Elementary   1	staff	47
+Riverside School District (Arkansas)	staff	63
+Technical University of Moldova	staff	800
+Jose Maria Agurrie T9	staff	100
+Nanchang WES Academy	staff	7
+Changsha WES Academy	staff	8
+Valley Park School	staff	143
+Norwich City School District  Stanford J. Gibson Elementary School   1	staff	56
+Paulet High School	staff	100
+Sekolah Menengah Kebangsaan Bandar Baru Sultan Suleiman (SMKBBSS)	staff	78
+Faculty of Administration, Ljubljana	staff	70
+Music Works Northwest	staff	8
+Seshadripuram public school	staff	30
+Montabella Community Schools	staff	9
+Weasenham school	staff	8
+VIT University School of Computing Science and Engineering	staff	100
+SRM Polytechnic College	staff	38
+Nishtar Institute of Dentistry	staff	150
+United States University	staff	60
+Brainworks Learning Systems	staff	120
+The Raleigh Latin School	staff	1
+Pensacola State College	staff	448
+Sekolah Menengah Kebangsaan Subang Jaya	staff	90
+University of Applied Sciences Technikum Wien	staff	400
+Kamala Niketan Montessori School	staff	150
+Sun Rise English School	staff	109
+Oakleaf High School	staff	125
+Samui Centre of Learning	staff	50
+VIT University School of Information Technology & Engineering	staff	100
+Malmö University College	staff	1394
+Presbyterian University of East Africa	staff	50
+Riverview High School (Pennsylvania)	staff	60
+University of Applied Sciences Mainz	staff	210
+Bukovinian State Medical University	staff	966
+Ansar English School	staff	150
+Dar Al Uloom University	staff	75
+Feltre School	staff	4
+Heilbronn University	staff	492
+Faculty of Science, University of Peradeniya	staff	230
+Abbey College, Malvern	staff	40
+Copenhagen Hospitality College	staff	167
+Miami-Jacobs Career College	staff	150
+Asahikawa Medical University	staff	1025
+Ardrossan Academy	staff	71
+Haskayne School of Business	staff	144
+KaosPilots	staff	16
+Leeds Law School	staff	35
+Peabody-Burns Junior/Senior High School	staff	19
+University of Kentucky College of Arts and Sciences	staff	350
+Taratahi Agricultural Training Centre	staff	58
+SMK Agama Tun Ahmadshah	staff	55
+First Flight High School	staff	40
+Abaarso Tech	staff	40
+Islamic Azad University North Tehran Branch	staff	562
+Mediterranean School of Business	staff	200
+UCL Faculty of Arts and Humanities	staff	180
+Kenwood High School (Tennessee)	staff	71
+UCL Faculty of Social and Historical Sciences	staff	292
+UCL Faculty of Biomedical Sciences	staff	1971
+UCL Faculty of Life Sciences	staff	591
+UCL Faculty of Engineering Sciences	staff	391
+UCL Faculty of Mathematical and Physical Sciences	staff	445
+De La Salle College (Cronulla, NSW)	staff	36
+University of Montana Phyllis J. Washington College of Education and Human Sciences	staff	9
+Bayside Comprehensive School Gibraltar	staff	169
+QSI International School of Shekou	staff	137
+University of Tennessee	staff	6950
+Agrasen DAV Public School	staff	70
+Tanner High School	staff	68
+Bowbrook House School	staff	30
+Instituto Tecnológico de Oaxaca	staff	211
+Light University Online	staff	50
+Louis Armstrong Middle School	staff	112
+M.S.S.Wakf Board College	staff	46
+The Mosslands School	staff	100
+Gyeongnam International Foreign School	staff	16
+Kemnay Academy	staff	70
+Yeshivat Ma'ale Gilboa	staff	20
+University of Szczecin	staff	1500
+Knowsley Park Centre for Learning	staff	112
+Institute of Philology and Pedagogics of Kazimierz Pułaski Technical University of Radom	staff	22
+Grombalia High School	staff	42
+University of St. La Salle–Integrated School	staff	150
+TEI of Kavala	staff	96
+Dicle University	staff	3500
+Ramakrishna Sarada Mission Vivekananda Vidyabhavan	staff	19
+Woolman Semester	staff	9
+Northop College	staff	1000
+University of Zenica	staff	200
+Ballycraigy Primary School	staff	14
+USU-Tooele	staff	10
+Harmony School of Science	staff	60
+Punjab International Public High School	staff	3
+Farm and Industry Short Course	staff	4
+Farm and Industry Short Course	staff	3
+Farm and Industry Short Course	staff	6
+Bhawani Dayal Arya College	staff	47
+Stedelijk Gymnasium Haarlem	staff	61
+Middelbare Technische School (Haarlem)	staff	82
+Katholieke Universiteit Leuven	staff	8871
+Wyoming Public Schools	staff	81
+Botswana Accountancy College	staff	61
+Marion High School (Kansas)	staff	27
+Faculty of Agricultural Science and Food in Skopje	staff	2700
+Institute of Animal Biotechnology	staff	2700
+Frederic Remington High School	staff	30
+Arunai Engineering College	staff	170
+St. Mary's School Harda	staff	72
+Ponteland High School	staff	350
+Aalto University School of Electrical Engineering	staff	690
+Delhi Public School, Dhanbad	staff	120
+Fana gymnas	staff	58
+Skippers Hill Manor Preparatory School	staff	33
+Immanuel Christian School, New Zealand	staff	12
+West Hill Primary School	staff	34
+Tipton St John Church of England Primary School	staff	34
+Pakistan Institute of Engineering and Applied Sciences	staff	550
+Christelijke Hogeschool Ede	staff	400
+Northern Westmoreland Career and Technology Center	staff	8
+Brookville Area Jr./Sr. High School	staff	5
+Allegheny-Clarion Valley Junior/Senior High School	staff	15
+Oakhyrst Grange School	staff	14
+Jamiah Darul Uloom Zahedan	staff	83
+Qiongzhou University	staff	721
+Riga Stradiņš University	staff	956
+Bee Meadow School	staff	78
+De La Salle University (Indonesia)	staff	100
+Kincorth Academy	staff	100
+Dare County Alternative School	staff	10
+Brink Junior High School	staff	60
+GSS Institute of Technology	staff	107
+University of Pembangunan Nasional Veteran	staff	315
+Sheng Kung Hui Tsoi Kung Po Secondary School	staff	62
+Zurich University of Applied Sciences in Business Administration (HWZ)	staff	265
+Guangdong Zhongyuan High School	staff	200
+QSI International School of Chengdu	staff	47
+Higher Colleges of Technology	staff	950
+Catholic University of Portugal	staff	1571
+Institute of Management Sciences, Lahore	staff	1000
+Ohlone College	staff	235
+Clayton State University	staff	356
+Hochschule Konstanz	staff	350
+Pai Chai University	staff	570
+University of Warmia and Mazury in Olsztyn	staff	3035
+Naperville Central High School	staff	273
+Bloomsburg University of Pennsylvania	staff	520
+Vienna University of Economics and Business	staff	723
+University of San Francisco	staff	506
+Zurich University of Applied Sciences/ZHAW	staff	1473
+CMR Institute of Technology	staff	300
+University School of Colorado Springs	staff	4
+Jogesh Chandra Chaudhuri Law College	staff	24
+St Martha's Senior School	staff	15
+Benito Soliven Academy	staff	35
+Amnatcharoen School	staff	158
+Faculty of Engineering, AUTH	staff	650
+Broomfield Academy	staff	20
+TEI of Piraeus	staff	250
+Ali Fahiye Geedi Primary and intermediary School	staff	10
+Maryland Institute for Technology in the Humanities	staff	19
+Islamic Azad University Central Tehran Branch	staff	950
+South Central University for Nationalities	staff	1891
+Yongbuk Middle School	staff	8
+Peotone High School	staff	128
+Aggrey Memorial A.M.E. Zion Senior High School	staff	85
+Zenos Academy	staff	90
+Hayesville High School	staff	44
+Deepika English Medium School	staff	130
+Liceo de Zamboanga	staff	3
+Kendriya Vidyalaya Rourkela	staff	31
+Department of Computer Engineering, Chulalongkorn University	staff	13
+Delhi Public School, Rourkela	staff	120
+Purushottam School of Engineering and Technology, Rourkela	staff	103
+RheinMain University of Applied Sciences	staff	600
+State Council for Technical Education & Vocational Training	staff	2780
+Rourkela Institute of Technology	staff	91
+LNCT Indore	staff	100
+Mountain View Middle School (Spokane)	staff	44
+Chinmaya Vidyalaya, Rourkela	staff	160
+Arambagh High School	staff	59
+St. Joseph Convent School, Rourkela	staff	290
+DAV Public School, Rourkela	staff	146
+MGM English Medium School, Rourkela	staff	178
+Institut Pendidikan Guru Kampus Pendidikan Teknik	staff	186
+Govt. Highschool Uditnagar, Rourkela	staff	80
+East Valley Middle School (Spokane)	staff	39
+East Valley High School (Spokane, Washington)	staff	114
+East Farms Elementary (Spokane)	staff	45
+Universidade do Extremo Sul Catarinense	staff	513
+Desouza's English Medium School, Rourkela	staff	130
+Burnside State High School	staff	45
+Islamic Azad University of Anar	staff	100
+St. George's College, Agra	staff	100
+Digos City National High School	staff	21
+Mountain Youth School (North Carolina)	staff	11
+Hayesville Middle School	staff	44
+Hayesville Elementary School	staff	72
+Department of International Relations, University of Karachi	staff	22
+Esdi, Escola Superior de Disseny	staff	25
+Roger L Putnam Vocational-Technical High School	staff	165
+Debiganj Girls' High School	staff	30
+Kurmitola High School	staff	16
+Department of Persian, University of Karachi	staff	14
+Jamia Luthfia Anwarul Uloom Hamidnagar	staff	55
+Cheonan Girls' High School	staff	78
+Benedict School	staff	300
+Pelkhil School	staff	40
+Army School, Agra	staff	100
+Mountain View College Academy	staff	2
+Winship Elementary School	staff	39
+Sakubva High School	staff	30
+Robert B. Glenn High School	staff	150
+Institute of Java and Software Engineering	staff	30
+Sha'am High School	staff	35
+UAM School of Mathematical and Natural Sciences	staff	1
+Daqing No.1 Middle School	staff	1110
+Autonomous University of Baja California	staff	1724
+Saraswati Vidya Mandir, Rourkela	staff	48
+University of Applied Sciences Biberach	staff	240
+Hüllhorst Comprehensive School	staff	95
+Mutanda Primary School	staff	35
+SJK (Tamil) Bandar Mentakab	staff	55
+Mallabhum institute of technology	staff	100
+Upper Nile University	staff	50
+Sylhet Polytechnic Institute	staff	50
+St. Mary's High School, Quetta	staff	150
+Army Public School, Binnaguri	staff	53
+The Bridge University	staff	30
+Rumbek University	staff	40
+Buckswood International School - Tbilisi	staff	50

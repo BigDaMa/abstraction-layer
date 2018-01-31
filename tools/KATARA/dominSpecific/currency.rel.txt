@@ -1,0 +1,1194 @@
+Algeria	currency	Algerian dinar
+Andorra	currency	Euro
+Angola	currency	Angolan kwanza
+Aruba	currency	Aruban florin
+Afghanistan	currency	Afghan afghani
+Azerbaijan	currency	Azerbaijani manat
+Albania	currency	Albanian lek
+Antigua and Barbuda	currency	East Caribbean dollar
+Anguilla	currency	East Caribbean dollar
+Almoravid dynasty	currency	Dinar
+Austria-Hungary	currency	Austro-Hungarian gulden
+Austria-Hungary	currency	Austro-Hungarian krone
+Archbishopric of Riga	currency	Livonian language
+Archbishopric of Riga	currency	Livonian language
+Belgium	currency	Euro sign
+Brazil	currency	Brazilian real
+The Bahamas	currency	Bahamian dollar
+Bulgaria	currency	Bulgarian lev
+Barbados	currency	Barbadian dollar
+Belarus	currency	Belarusian ruble
+Bangladesh	currency	Bangladeshi taka
+Benin	currency	West African CFA franc
+Belize	currency	Belize dollar
+Bermuda	currency	Bermudian dollar
+Bolivia	currency	Bolivian boliviano
+Botswana	currency	Botswana pula
+Bosnia and Herzegovina	currency	Bosnia and Herzegovina convertible mark
+Brunei	currency	Brunei dollar
+British Virgin Islands	currency	United States dollar
+Burkina Faso	currency	West African CFA franc
+Bishopric of Brandenburg	currency	Rixdollar
+Colombia	currency	Colombian peso
+Czechoslovakia	currency	Czechoslovak koruna
+Czech Republic	currency	Czech koruna
+People's Republic of China	currency	Renminbi
+Cameroon	currency	Central African CFA franc
+Cayman Islands	currency	Cayman Islands dollar
+Central African Republic	currency	Central African CFA franc
+Chad	currency	Central African CFA franc
+Christmas Island	currency	Australian dollar
+Chile	currency	Chilean peso
+Cocos (Keeling) Islands	currency	Australian dollar
+Costa Rica	currency	Costa Rican colón
+Croatia	currency	Croatian kuna
+Cyprus	currency	Euro
+Confederate States of America	currency	Confederate States of America dollar
+Confederate States of America	currency	Southern States Confederate Currency
+Cook Islands	currency	New Zealand dollar
+Cook Islands	currency	Cook Islands dollar
+Dominican Republic	currency	Dominican peso
+England	currency	Pound sterling
+Ecuador	currency	United States dollar
+El Salvador	currency	United States dollar
+Equatorial Guinea	currency	Central African CFA franc
+European Free Trade Association	currency	Icelandic króna
+European Free Trade Association	currency	Norwegian krone
+European Free Trade Association	currency	Swiss franc
+East Pakistan	currency	Pakistani rupee
+Finland	currency	Euro
+Fiji	currency	Fijian dollar
+French Guinea	currency	French West African franc
+French Guinea	currency	CFA franc
+French Southern and Antarctic Lands	currency	Euro
+French Polynesia	currency	CFP franc
+Federated States of Micronesia	currency	United States dollar
+Germany	currency	Euro
+Guam	currency	United States dollar
+Gabon	currency	Central African CFA franc
+Gaza Strip	currency	Egyptian pound
+Gaza Strip	currency	Israeli new shekel
+Ghana	currency	Ghana cedi
+Greece	currency	Euro
+Greenland	currency	Danish krone
+Guinea	currency	Guinean franc
+Guernsey	currency	Pound sterling
+Guinea-Bissau	currency	West African CFA franc
+German Empire	currency	Vereinsthaler
+German Empire	currency	South German gulden
+German Empire	currency	Bremen thaler
+German Empire	currency	Hamburg mark
+German Empire	currency	French franc
+German Empire	currency	German gold mark
+German Empire	currency	German Papiermark
+East Germany	currency	East German mark
+East Germany	currency	Deutsche Mark
+Hungary	currency	Hungarian forint
+Honduras	currency	Honduran lempira
+Haiti	currency	Haitian gourde
+Hong Kong	currency	Hong Kong dollar
+Second Polish Republic	currency	Polish marka
+Second Polish Republic	currency	Polish złoty
+Iceland	currency	Icelandic króna
+India	currency	Indian rupee
+Italy	currency	Euro
+Republic of Ireland	currency	Euro sign
+Indonesia	currency	Indonesian rupiah
+Iran	currency	Iranian rial
+Isle of Man	currency	Pound sterling
+Japan	currency	Japanese yen
+Jamaica	currency	Jamaican dollar
+Jersey	currency	Pound sterling
+Jersey	currency	Euro
+Khazars	currency	Yarmaq
+Kazakhstan	currency	Kazakhstani tenge
+Kiribati	currency	Kiribati dollar
+Kiribati	currency	Australian dollar
+Korea	currency	Korean won
+Korea	currency	South Korean won
+Kerguelen Islands	currency	Euro
+Kosovo	currency	Euro sign
+Kosovo	currency	Serbian dinar
+Luxembourg	currency	Euro
+Latvia	currency	Latvian lats
+Lithuania	currency	Lithuanian litas
+Libya	currency	Libyan dinar
+Laos	currency	Lao kip
+Lebanon	currency	Lebanese pound
+Lesotho	currency	Lesotho loti
+Liberia	currency	Liberian dollar
+Liechtenstein	currency	Swiss franc
+Madagascar	currency	Malagasy ariary
+Macau	currency	Macanese pataca
+Malawi	currency	Malawian kwacha
+Maldives	currency	Maldivian rufiyaa
+Mali	currency	West African CFA franc
+Malta	currency	Euro
+Mauritius	currency	Mauritian rupee
+Mayotte	currency	Euro
+Moldova	currency	Moldovan leu
+Montserrat	currency	East Caribbean dollar
+Mongolia	currency	Mongolian tögrög
+Morocco	currency	Moroccan dirham
+Mozambique	currency	Mozambican metical
+Burma	currency	Burmese kyat
+Montenegro	currency	Euro sign
+Netherlands	currency	Euro
+Netherlands	currency	United States dollar
+Nazi Germany	currency	Reichsmark
+Niue	currency	New Zealand dollar
+North Korea	currency	North Korean won
+Norway	currency	Norwegian krone
+Northern Ireland	currency	Pound sterling
+Namibia	currency	Namibian dollar
+Nauru	currency	Australian dollar
+Netherlands Antilles	currency	Netherlands Antillean guilder
+New Caledonia	currency	CFP franc
+Nicaragua	currency	Nicaraguan córdoba
+Niger	currency	West African CFA franc
+Nigeria	currency	Nigerian naira
+Northern Mariana Islands	currency	United States dollar
+Norfolk Island	currency	Australian dollar
+Nevis	currency	East Caribbean dollar
+Ottoman Empire	currency	Akçe
+Ottoman Empire	currency	Para (currency)
+Ottoman Empire	currency	Kuruş
+Ottoman Empire	currency	Ottoman lira
+Ottoman Empire	currency	Sultani
+Oman	currency	Omani rial
+Papua New Guinea	currency	Papua New Guinean kina
+Poland	currency	Polish złoty
+Panama	currency	Panamanian balboa
+Panama	currency	United States dollar
+Puerto Rico	currency	United States dollar
+Portugal	currency	Euro
+Pakistan	currency	Pakistani rupee
+Palau	currency	United States dollar
+Paraguay	currency	Paraguayan guaraní
+Philippines	currency	Philippine peso
+Pitcairn Islands	currency	New Zealand dollar
+Palestinian National Authority	currency	Jordanian dinar
+Palestinian National Authority	currency	Egyptian pound
+Palestinian National Authority	currency	Israeli new shekel
+Province of Canada	currency	Canadian pound
+Province of Canada	currency	Canadian dollar
+Qing Dynasty	currency	Chinese yuan
+Qing Dynasty	currency	Cash (Chinese coin)
+Russia	currency	Russian ruble
+Republic of Texas	currency	Texas Dollar
+Romania	currency	Romanian leu
+Roman Empire	currency	Aureus
+Roman Empire	currency	Denarius
+Roman Empire	currency	Solidus (coin)
+Roman Empire	currency	Argenteus
+Roman Empire	currency	Solidus (coin)
+Roman Empire	currency	Siliqua
+Rwanda	currency	Rwanda franc
+Republic of China	currency	New Taiwan dollar
+Roman Republic	currency	Roman currency
+Rhodesia	currency	Rhodesian pound
+Rhodesia	currency	Rhodesian dollar
+Spain	currency	Euro
+Sri Lanka	currency	Sri Lankan rupee
+Switzerland	currency	Swiss franc
+Soviet Union	currency	Soviet ruble
+Suriname	currency	Surinamese dollar
+Slovakia	currency	Euro sign
+Saint Helena	currency	Saint Helena pound
+Scotland	currency	Pound sterling
+South Korea	currency	South Korean won
+Saint Kitts and Nevis	currency	East Caribbean dollar
+Saint Lucia	currency	East Caribbean dollar
+Saint Pierre and Miquelon	currency	Euro
+Saint Vincent and the Grenadines	currency	East Caribbean dollar
+Samoa	currency	Samoan tālā
+San Marino	currency	Euro
+Senegal	currency	West African CFA franc
+Serbia and Montenegro	currency	Yugoslav dinar
+Serbia and Montenegro	currency	Serbian dinar
+Serbia and Montenegro	currency	Deutsche Mark
+Serbia and Montenegro	currency	Euro
+Seychelles	currency	Seychellois rupee
+Sierra Leone	currency	Sierra Leonean leone
+Singapore	currency	Singapore dollar
+Slovenia	currency	Euro
+Somalia	currency	Somali shilling
+South Georgia and the South Sandwich Islands	currency	Pound sterling
+Sudan	currency	Sudanese pound
+Svalbard	currency	Norwegian krone
+Swaziland	currency	Swazi lilangeni
+South African Republic	currency	South African pound
+Serbia	currency	Serbian dinar
+Tajikistan	currency	Tajikistani somoni
+Tanzania	currency	Tanzanian shilling
+Thailand	currency	Thai baht
+Togo	currency	CFA franc
+Tokelau	currency	New Zealand dollar
+Tonga	currency	Tongan paʻanga
+Tunisia	currency	Tunisian dinar
+Turks and Caicos Islands	currency	United States dollar
+Tuvalu	currency	Tuvaluan dollar
+Tuvalu	currency	Australian dollar
+Trust Territory of the Pacific Islands	currency	United States dollar
+Tristan da Cunha	currency	Pound sterling
+United Kingdom	currency	Pound sterling
+Ukraine	currency	Ukrainian hryvnia
+Uganda	currency	Ugandan shilling
+Uruguay	currency	Uruguayan peso
+Uzbekistan	currency	Uzbekistani som
+United States Minor Outlying Islands	currency	United States dollar
+Venezuela	currency	Venezuelan bolívar
+Vanuatu	currency	Vanuatu vatu
+West Germany	currency	Deutsche Mark
+West Germany	currency	Saarland
+West Germany	currency	Saar franc
+Wallis and Futuna	currency	CFP franc
+Western Sahara	currency	Sahrawi Peseta
+Western Sahara	currency	Morocco
+Weimar Republic	currency	German Papiermark
+Weimar Republic	currency	German Rentenmark
+Weimar Republic	currency	Reichsmark
+West Pakistan	currency	Pakistani rupee
+Zambia	currency	Zambian kwacha
+Zaire	currency	Congolese franc
+Zaire	currency	Zairean zaire
+Economic Community of West African States	currency	Ghana cedi
+Economic Community of West African States	currency	Gambian dalasi
+Economic Community of West African States	currency	Guinean franc
+Economic Community of West African States	currency	Liberian dollar
+Economic Community of West African States	currency	Nigerian naira
+Economic Community of West African States	currency	Sierra Leonean leone
+Viceroyalty of New Granada	currency	Spanish real
+United Nations Interim Administration Mission in Kosovo	currency	Euro
+Mercia	currency	Pound sterling
+Italian East Africa	currency	Italian East African lira
+Upper Canada	currency	Canadian pound
+Republic of Upper Volta	currency	West African CFA franc
+Irish Free State	currency	Irish pound#Saorstát pound
+South-West Africa	currency	South West African pound
+South-West Africa	currency	South African rand
+Ming Dynasty	currency	Chinese cash (currency unit)
+Ming Dynasty	currency	Ancient Chinese coinage
+Ming Dynasty	currency	Banknote
+Sui Dynasty	currency	Ancient Chinese coinage
+Sui Dynasty	currency	Chinese cash
+Qin Dynasty	currency	Ancient Chinese coinage#Ban Liang coins
+Tang Dynasty	currency	Ancient Chinese coinage
+Tang Dynasty	currency	Cash (Chinese coin)
+Zhou Dynasty	currency	Ancient Chinese coinage#Pre-Imperial .28770-220 BC.29
+Xia Dynasty	currency	Cowry
+Han Dynasty	currency	Ancient Chinese coinage#Ban Liang coins
+Han Dynasty	currency	Ancient Chinese coinage#Western Han and the Wu Zhu coins
+Adjara	currency	Georgian lari
+Biafra	currency	Biafran pound
+Danish West Indies	currency	Danish West Indian rigsdaler
+Danish West Indies	currency	Danish West Indian daler
+United Arab Republic	currency	Egyptian pound
+Portuguese Timor	currency	Portuguese Timorese pataca
+Portuguese Timor	currency	Portuguese Timorese escudo
+Lower Canada	currency	Canadian pound
+Moldavia	currency	Thaler
+Dalmatia	currency	Croatian kuna
+Crimea	currency	Ukrainian hryvnia
+Georgia (country)	currency	Georgian lari
+Abbasid Caliphate	currency	Abbasid Caliphate
+Almohad Caliphate	currency	Dinar
+Almohad Caliphate	currency	Dobla
+Straits Settlements	currency	Straits dollar
+Straits Settlements	currency	Malayan dollar
+British Somaliland	currency	East African shilling
+Somaliland	currency	Somaliland shilling
+French Indochina	currency	French Indochinese piastre
+French Equatorial Africa	currency	French Equatorial African franc
+French Equatorial Africa	currency	Central African CFA franc
+Easter Island	currency	Chilean peso
+Jin Dynasty (265–420)	currency	Ancient Chinese coinage
+Jin Dynasty (265–420)	currency	Chinese cash (currency unit)
+Jin Dynasty (1115–1234)	currency	Ancient Chinese coinage
+Jin Dynasty (1115–1234)	currency	Chinese cash
+Manchukuo	currency	Manchukuo yuan
+Fatimid Caliphate	currency	Dinar
+Netherlands New Guinea	currency	Netherlands New Guinean gulden
+Song Dynasty	currency	Jiaozi (currency)
+Song Dynasty	currency	Huizi (currency)
+Song Dynasty	currency	Chinese cash
+Song Dynasty	currency	Ancient Chinese coinage
+Song Dynasty	currency	Coin
+Côte d'Ivoire	currency	West African CFA franc
+Belgian Congo	currency	Congolese franc
+Grand Duchy of Baden	currency	Baden gulden
+Grand Duchy of Baden	currency	Baden thaler
+Grand Duchy of Baden	currency	German gold mark
+Grand Duchy of Baden	currency	German Papiermark
+Papal States	currency	Roman scudo
+Papal States	currency	Papal lira
+South Vietnam	currency	South Vietnamese đồng
+South Vietnam	currency	French Indochinese piastre
+Republic of Benin (1967)	currency	Biafran pound
+Republic of Benin (1967)	currency	Nigerian pound
+Sahrawi Arab Democratic Republic	currency	Sahrawi Peseta
+French First Republic	currency	French franc
+Bourbon Restoration	currency	French franc
+New Spain	currency	Spanish colonial real
+Curaçao	currency	Netherlands Antillean guilder
+The Gambia	currency	Gambian dalasi
+Provisional Revolutionary Government of the Republic of South Vietnam	currency	South Vietnamese đồng#Second (Liberation) đồng, 1975-1978
+Herm	currency	Pound sterling
+United Arab Emirates	currency	United Arab Emirates dirham
+Wales	currency	Pound sterling
+Democratic Republic of the Congo	currency	Congolese franc
+Sovereign Military Order of Malta	currency	Maltese scudo
+Sovereign Military Order of Malta	currency	Euro
+Denmark	currency	Danish krone
+Kamakura shogunate	currency	Ryō (Japanese coin)
+Ashikaga shogunate	currency	Japanese mon (currency)
+Tokugawa shogunate	currency	Japanese mon (currency)
+United Nations Transitional Administration in East Timor	currency	United States dollar
+Sark	currency	Pound sterling
+Palestinian territories	currency	Jordanian dinar
+Palestinian territories	currency	Egyptian pound
+Palestinian territories	currency	Israeli new shekel
+Cayor	currency	Shell money
+Carriacou and Petite Martinique	currency	East Caribbean dollar
+Bonaire	currency	United States dollar
+Free Territory of Trieste	currency	Italian lira
+Free Territory of Trieste	currency	AM-lira
+Free Territory of Trieste	currency	Jugolira
+Free Territory of Trieste	currency	Yugoslav dinar
+Annam (French protectorate)	currency	French Indochinese piastre
+United Kingdom of Great Britain and Ireland	currency	Pound sterling
+Irish Republic	currency	Pound sterling
+Mount Athos	currency	Euro
+New France	currency	New France livre
+Kingdom of Nepal	currency	Nepalese mohar
+Kingdom of Nepal	currency	Nepalese rupee
+Commonwealth of the Philippines	currency	Philippine peso
+Ross Dependency	currency	New Zealand dollar
+Tobago	currency	Trinidad and Tobago dollar
+History of Cologne	currency	Thaler
+OPEC	currency	Price of petroleum
+Transkei	currency	South African rand
+Kyrgyzstan	currency	Kyrgyzstani som
+Peru	currency	Peruvian nuevo sol
+Nepal	currency	Nepalese rupee
+Hasmoneans	currency	Hasmonean coinage
+Alderney	currency	Pound sterling
+British Honduras	currency	Belize dollar
+Parthenopean Republic (Napoleonic)	currency	Napoletan tornese
+Parthenopean Republic (Napoleonic)	currency	Napoletan carlino
+Central African Empire	currency	Central African CFA franc
+Mali Empire	currency	Gold Dust
+Mali Empire	currency	Salt
+Mali Empire	currency	Copper
+Mali Empire	currency	Shell money
+Empire of Japan	currency	Japanese yen
+Empire of Japan	currency	Korean yen
+Empire of Japan	currency	Taiwanese yen
+Empire of Japan	currency	Japanese military yen
+Anjouan	currency	Comorian franc
+Ifni	currency	Spanish peseta
+Republic of Hawaii	currency	Hawaiian dollar
+Republic of Hawaii	currency	United States dollar
+Ethiopia	currency	Ethiopian birr
+Kenya	currency	Kenyan shilling
+German East Africa	currency	German East African rupie
+Turkmenistan	currency	Turkmenistan manat
+British Guiana	currency	British West Indies dollar
+Azuchi–Momoyama period	currency	Japanese mon (currency)
+Nyasaland	currency	Rhodesian pound
+British Antarctic Territory	currency	Pound sterling
+French Union	currency	French franc
+French Union	currency	CFA franc
+French Union	currency	CFP franc
+French Union	currency	French Indochinese piastre
+Jubaland	currency	Somali shilling
+Tuvan People's Republic	currency	Tuvan akşa
+Coalition Provisional Authority	currency	Iraqi dinar
+Inini	currency	French franc
+Saint-Domingue	currency	Haitian livre
+Mosquito Coast	currency	Pound sterling
+Second French Empire	currency	French franc
+Union between Sweden and Norway	currency	Swedish riksdaler
+Union between Sweden and Norway	currency	Norwegian speciedaler
+Union between Sweden and Norway	currency	Swedish krona
+Union between Sweden and Norway	currency	Norwegian krone
+West Indies Federation	currency	British West Indies dollar
+British North America	currency	Pound sterling
+British North America	currency	Canadian pound
+British North America	currency	Canadian dollar
+Zengid dynasty	currency	Dinar
+Ayyubid dynasty	currency	Dinar
+Cooperation Council for the Arab States of the Gulf	currency	Khaleeji (currency)
+New Hebrides	currency	New Hebrides franc
+French Third Republic	currency	French franc
+Kingdom of Yugoslavia	currency	Yugoslav krone
+Kingdom of Yugoslavia	currency	Yugoslav dinar
+Puntland	currency	Somali shilling
+Cochinchina	currency	French Indochinese piastre
+Serbian Empire	currency	Serbian perper
+Mongol Empire	currency	Coin
+Mongol Empire	currency	Sukhe
+Mongol Empire	currency	Banknote
+Mongol Empire	currency	Chao (currency)
+State of Palestine	currency	Jordanian dinar
+State of Palestine	currency	Egyptian pound
+State of Palestine	currency	Israeli shekel
+Kingdom of Prussia	currency	Reichsthaler
+Kingdom of Prussia	currency	Prussian thaler
+Kingdom of Prussia	currency	Vereinsthaler
+Kingdom of Prussia	currency	German gold mark
+Kingdom of Prussia	currency	German Papiermark
+Khmer Republic	currency	Cambodian riel
+French Fifth Republic	currency	CFP franc
+Negros (island)  República de Negros   1	currency	Philippine peso
+Kenmu Restoration	currency	Ryō (Japanese coin)
+Archbishopric of Bremen	currency	Reichsthaler
+Archbishopric of Bremen	currency	Bremen
+Hesse-Kassel	currency	Hesse-Kassel thaler
+Hesse-Kassel	currency	Hesse-Kassel vereinsthaler
+Kingdom of Naples	currency	Neapolitan piastra
+Kingdom of Naples	currency	Neapolitan lira
+British Central Africa Protectorate	currency	Rhodesian pound
+Solomon Islands	currency	Solomon Islands dollar
+Empire of Brazil	currency	Brazilian real (old)
+Northern Cyprus	currency	Turkish lira
+Shu Han	currency	Ancient Chinese coinage
+Shu Han	currency	Chinese cash
+Cao Wei	currency	Ancient Chinese coinage
+Cao Wei	currency	Chinese cash
+Eastern Wu	currency	Ancient Chinese coinage
+Eastern Wu	currency	Chinese cash
+Viceroyalty of Peru	currency	Peso
+Viceroyalty of Peru	currency	Spanish colonial real
+Northern Rhodesia	currency	Southern Rhodesian pound
+Southern Rhodesia	currency	Southern Rhodesian pound
+Southern Rhodesia	currency	Rhodesian pound
+Southern Rhodesia	currency	Rhodesian dollar
+Xin Dynasty	currency	Ancient Chinese coinage
+Xin Dynasty	currency	Gold
+Xin Dynasty	currency	Silver
+Xin Dynasty	currency	Tortoiseshell material
+Xin Dynasty	currency	Seashell
+Duchy of Brittany	currency	Wikt:denier#French
+Han (state)	currency	Ancient Chinese coinage
+Republic of Florence	currency	Florin (Italian coin)
+French West Africa	currency	French West African franc
+Saba	currency	United States dollar
+Sint Eustatius	currency	United States dollar
+Francoist Spain	currency	Spanish peseta
+Company rule in India	currency	History of the rupee
+Kingdom of Romania	currency	Romanian leu
+Buganda	currency	Ugandan shilling
+Socialist Federal Republic of Yugoslavia	currency	Yugoslav dinar
+Hyderabad State	currency	Hyderabadi rupee
+German Samoa	currency	German gold mark
+Republic of Formosa	currency	Qing Dynasty
+Federation of Malaya	currency	Malaya and British Borneo dollar
+French Second Republic	currency	French franc
+Zhao (state)	currency	Ancient Chinese coinage
+Italian Social Republic	currency	Italian lira
+Panama Canal Zone	currency	Panamanian balboa
+South Ossetia	currency	Russian ruble
+Mongolian People's Republic	currency	Mongolian tögrög
+Cambodia	currency	Cambodian riel
+French Fourth Republic	currency	French franc
+Federated Malay States	currency	Straits dollar
+Federated Malay States	currency	Malayan dollar
+General Government	currency	Polish złoty
+Jin (state)	currency	Ancient Chinese coinage
+Korea under Japanese rule	currency	Korean yen
+Korean Empire	currency	Korean won
+Zimbabwe Rhodesia	currency	Rhodesian dollar
+Senegambia and Niger	currency	French West African franc
+Kushan Empire	currency	Kushan Coinage
+Upper Senegal and Niger	currency	French West African franc
+Stellaland	currency	South African pound
+Adélie Land	currency	Euro
+Northern Han	currency	Chinese cash
+Northern Han	currency	Ancient Chinese coinage
+Northern Han	currency	Coin
+Republika Srpska	currency	Bosnia and Herzegovina convertible mark
+Maratha Empire	currency	Hon
+Maratha Empire	currency	Rupee
+Maratha Empire	currency	Paisa
+Maratha Empire	currency	Mohor
+Maratha Empire	currency	Shivrai
+Saudi Arabia	currency	Saudi riyal
+Yemen	currency	Yemeni rial
+Karakalpakstan	currency	Uzbekistani som
+Cisalpine Republic	currency	Milanese scudo
+Cisalpine Republic	currency	Lira
+Cisalpine Republic	currency	Soldo
+Cisalpine Republic	currency	Matteo Messina Denaro
+People's Republic of Poland	currency	Polish złoty
+Reichskommissariat Ostland	currency	De facto
+Qin (state)	currency	Ancient Chinese coinage
+Qi (Shandong)	currency	Ancient Chinese coinage
+Rodrigues	currency	Mauritian rupee
+German New Guinea	currency	German gold mark
+July Monarchy	currency	French franc
+Congress Poland	currency	Polish złoty
+Congress Poland	currency	Polish rubel
+Independent State of Croatia	currency	Independent State of Croatia kuna
+Transnistria	currency	Transnistrian ruble
+Ukrainian Soviet Socialist Republic	currency	Soviet ruble
+France in the Middle Ages	currency	French livre
+France in the Middle Ages	currency	Écu
+France in the Middle Ages	currency	French franc
+Federation of Bosnia and Herzegovina	currency	Bosnia and Herzegovina convertible mark
+Nakhchivan	currency	Azerbaijani manat
+Gagauzia	currency	Moldovan leu
+North Borneo	currency	British North Borneo dollar
+North Borneo	currency	Malaya and British Borneo dollar
+Democratic Republic of Georgia	currency	Georgian maneti
+Somali Democratic Republic	currency	Somali shilling
+Bechuanaland Protectorate	currency	South African rand
+Central European Free Trade Agreement	currency	Albanian lek
+Central European Free Trade Agreement	currency	Bosnia and Herzegovina convertible mark
+Central European Free Trade Agreement	currency	Croatian kuna
+Central European Free Trade Agreement	currency	Euro
+Central European Free Trade Agreement	currency	Macedonian denar
+Central European Free Trade Agreement	currency	Moldovan leu
+Central European Free Trade Agreement	currency	Serbian dinar
+Free City of Danzig	currency	German Papiermark
+Free City of Danzig	currency	Danzig gulden
+Mountain Autonomous Soviet Socialist Republic	currency	Ruble
+Province of New Hampshire	currency	Pound sterling
+Province of New Hampshire	currency	Spanish dollar
+Southwestern Somalia	currency	Somali shilling
+Province of New York	currency	Pound sterling
+Province of New York	currency	Spanish dollar
+Province of Pennsylvania	currency	Pound sterling
+Province of Pennsylvania	currency	Spanish dollar
+Portuguese India	currency	Portuguese Indian rupia
+Portuguese India	currency	Portuguese Indian escudo
+Province of Massachusetts Bay	currency	Pound sterling
+Province of Massachusetts Bay	currency	Spanish dollar
+Western Roman Empire	currency	Roman currency
+Italian Somaliland	currency	Italian Somaliland rupia
+Italian Somaliland	currency	Italian lira
+Free City of Kraków	currency	Polish złoty
+Free City of Kraków	currency	Kraków złoty
+Republic of Serbian Krajina	currency	Krajina dinar
+French Somaliland	currency	French franc
+French Somaliland	currency	French Somaliland franc
+French Territory of the Afars and the Issas	currency	French Territory of the Afars and the Issas franc
+Vermont Republic	currency	Vermont coppers
+Maurya Empire	currency	Indian coinage
+Estado Novo (Portugal)	currency	Portuguese escudo
+Songhai Empire	currency	Cowry
+First Mexican Empire	currency	Mexican real
+Second Mexican Empire	currency	Mexican peso
+Territory of Papua	currency	Australian pound
+Republic of Venice	currency	Venetian lira
+Russian Republic	currency	Russian ruble
+Kingdom of Poland (1916–1918)	currency	Polish marka
+Kingdom of Poland (1916–1918)	currency	Russian ruble
+Kingdom of Poland (1916–1918)	currency	Austro-Hungarian krone
+Grand Duchy of Finland	currency	Russian ruble
+Grand Duchy of Finland	currency	Finnish markka
+Grand Duchy of Finland	currency	Finnish markka
+Kingdom of Sicily	currency	Sicilian piastra
+Hammadid	currency	Dinar
+Zirid dynasty	currency	Dinar
+Duchy of Courland and Semigallia	currency	Thaler
+Ubangi-Shari	currency	French Equatorial African franc
+Ubangi-Shari	currency	Central African CFA franc
+Portuguese Guinea	currency	Portuguese Guinean escudo
+Duchy of Milan	currency	Milanese scudo
+Duchy of Milan	currency	Lira
+Duchy of Milan	currency	Soldo
+Duchy of Milan	currency	Matteo Messina Denaro
+Duchy of Parma	currency	Parman lira
+Grand Duchy of Tuscany	currency	Tuscan pound
+Grand Duchy of Tuscany	currency	Tuscan florin
+Kingdom of Saxony	currency	Saxon thaler
+Kingdom of Saxony	currency	Saxon vereinsthaler
+Kingdom of Saxony	currency	German gold mark
+Kingdom of Saxony	currency	German Papiermark
+Iraqi Kurdistan	currency	Iraqi dinar
+Dominion of Newfoundland	currency	Newfoundland dollar
+First Spanish Republic	currency	Spanish peseta
+Roman Republic (18th century)	currency	Roman scudo
+Roman Republic (18th century)	currency	Roman baiocco
+Provisional Government of Hawaii	currency	Hawaiian dollar
+Provisional Government of Hawaii	currency	United States dollar
+Bremen-Verden	currency	Rixdollar
+Spanish Sahara	currency	Spanish peseta
+Togoland	currency	German gold mark
+Sennar (sultanate)	currency	Barter
+French protectorate of Morocco	currency	Moroccan rial
+French protectorate of Morocco	currency	Moroccan franc
+Kingdom of Hanover	currency	Hanoverian vereinsthaler
+French India	currency	French Indian rupee
+Union State	currency	Belarusian ruble
+Union State	currency	Russian ruble
+Mohéli	currency	Comorian franc
+Grande Comore	currency	Comorian franc
+Griqualand East	currency	Token coin
+Belarusian People's Republic	currency	Ruble
+Chagatai Khanate	currency	Coin
+Chagatai Khanate	currency	Kebek
+Chu (state)	currency	Ancient Chinese coinage
+Bunyoro	currency	Ugandan shilling
+Anglo-Egyptian Sudan	currency	Egyptian pound
+Nagorno-Karabakh Republic	currency	Armenian dram
+Saint Christopher-Nevis-Anguilla	currency	East Caribbean dollar
+Wu (state)	currency	Ancient Chinese coinage
+Akrotiri and Dhekelia	currency	Euro
+Spanish Protectorate of Morocco	currency	Spanish peseta
+Karafuto Prefecture	currency	Japanese yen
+Viceroyalty of the Río de la Plata	currency	Spanish real
+Yangshao culture	currency	Cowry
+Longshan culture	currency	Cowry
+Early modern France	currency	French livre
+Early modern France	currency	Écu
+Early modern France	currency	French franc
+Early modern France	currency	Louis d'or
+Ziyyanid dynasty	currency	Dinar
+Los Altos, Central America	currency	Central American Republic real
+Septinsular Republic	currency	Ionian gazeta
+Canada (New France)	currency	New France livre
+Yue (state)	currency	Ancient Chinese coinage
+Transcaucasian Democratic Federative Republic	currency	Transcaucasian ruble
+State of Vietnam	currency	French Indochinese piastre
+Azad Hind	currency	Indian rupee
+Ruanda-Urundi	currency	Congolese franc
+Angevin Empire	currency	French livre
+Angevin Empire	currency	Pound sterling
+Spanish West Africa	currency	Spanish peseta
+Ukrainian People's Republic	currency	Ukrainian karbovanets
+Ukrainian People's Republic	currency	Ukrainian hryvnia
+Mali Federation	currency	CFA franc
+Jovan Nenad	currency	Serbian perper
+Dutch Formosa	currency	Spanish real
+Ligurian Republic	currency	Genoan pound
+Italian Republic (Napoleonic)	currency	Milanese scudo
+Italian Republic (Napoleonic)	currency	Lira
+Italian Republic (Napoleonic)	currency	Soldo
+Italian Republic (Napoleonic)	currency	Matteo Messina Denaro
+Kingdom of Denmark	currency	Danish krone
+Kingdom of Denmark	currency	Faroese króna
+Kingdom of Tungning	currency	Tael
+Kingdom of Etruria	currency	Tuscan pound
+Wuyue	currency	Cash (Chinese coin)
+Wuyue	currency	Ancient Chinese coinage
+Duchy of Lucca	currency	Luccan pound
+Cispadane Republic	currency	Bolognese lira
+Kingdom of Lombardy–Venetia	currency	Lombardy-Venetia pound
+Kingdom of Lombardy–Venetia	currency	Lombardy-Venetia florin
+Kingdom of Italy (Napoleonic)	currency	Italian lira
+First East Turkestan Republic	currency	Pul
+First East Turkestan Republic	currency	Tanga
+First East Turkestan Republic	currency	Tilla Satellite Launch Center
+First East Turkestan Republic	currency	Kashgar
+Marinid dynasty	currency	Dinar
+Saar (protectorate)	currency	Saar mark
+Saar (protectorate)	currency	Saar franc
+East Francia	currency	Solidus (coin)
+East Francia	currency	Triens
+East Francia	currency	Denarius
+East Francia	currency	Pfennig
+Chu (Ten Kingdoms)	currency	Silk
+Chu (Ten Kingdoms)	currency	Coin
+South Pacific Mandate	currency	Japanese yen
+Norway in 1814	currency	Norwegian rigsdaler
+Duchy of Mantua	currency	Mantuan solidus
+Duchy of Mantua	currency	Mantuan lira
+Czech and Slovak Federal Republic	currency	Czechoslovak koruna
+Czechoslovak Socialist Republic	currency	Czechoslovak koruna
+Kingdom of Burundi	currency	German East African rupie
+Moldavian Autonomous Soviet Socialist Republic	currency	Soviet ruble
+Twente	currency	Euro
+Spain under the Restoration	currency	Spanish peseta
+Egypt Eyalet	currency	Egyptian piastre
+Egypt Eyalet	currency	Egyptian pound
+Trần Dynasty	currency	Banknote
+Provisional Government of the Republic of Korea	currency	Korean won
+French Community	currency	French franc
+French Community	currency	CFA franc
+French Community	currency	CFP franc
+Japanese occupation of Hong Kong	currency	Japanese military yen
+Kingdom of Slavonia	currency	Austro-Hungarian gulden
+Arab Maghreb Union	currency	Algerian dinar
+Arab Maghreb Union	currency	Moroccan dirham
+Arab Maghreb Union	currency	Tunisian dinar
+Arab Maghreb Union	currency	Libyan dinar
+Arab Maghreb Union	currency	Mauritanian ouguiya
+Second East Turkestan Republic	currency	Som (currency)
+First Republic of South Korea	currency	South Korean won (1945–1953)
+First Republic of South Korea	currency	South Korean hwan
+People's Republic of Korea	currency	South Korean won (1945–1953)
+United States Army Military Government in Korea	currency	South Korean won (1945–1953)
+Hatay State	currency	Syrian pound
+Hatay State	currency	Turkish lira
+Second Republic of South Korea	currency	South Korean hwan
+Azerbaijan Democratic Republic	currency	Azerbaijani manat
+Bhutan	currency	Bhutanese ngultrum
+Mountainous Republic of the Northern Caucasus	currency	Ruble
+Sikh Empire	currency	Nanakshahi calendar
+Aztec Triple Alliance	currency	Aztec#Economy
+Aztec Triple Alliance	currency	Cocoa bean
+Flensburg Government	currency	Reichsmark
+Portuguese First Republic	currency	Portuguese real
+Portuguese First Republic	currency	Portuguese escudo
+Protectorate of South Arabia	currency	East African shilling
+Kingdom of France	currency	French livre
+Republic of Maryland	currency	United States dollar
+Serbian Despotate	currency	Serbian perper
+Captaincy General of Chile	currency	Peso
+Later Jin Dynasty (Five Dynasties)	currency	Chinese cash
+Later Jin Dynasty (Five Dynasties)	currency	Ancient Chinese coinage
+Later Jin Dynasty (Five Dynasties)	currency	Coin
+Kingdom of Greece	currency	Greek drachma
+Republic of Ragusa	currency	Perpera
+Allied-occupied Germany	currency	Reichsmark
+Allied-occupied Germany	currency	German Rentenmark
+Allied-occupied Germany	currency	Deutsche Mark
+Allied-occupied Germany	currency	Bizone
+Allied-occupied Germany	currency	East German mark
+Allied-occupied Germany	currency	Soviet occupation zone
+Allied-occupied Germany	currency	Saar mark
+Allied-occupied Germany	currency	Saar (protectorate)
+Allied-occupied Germany	currency	Saar franc
+Allied-occupied Germany	currency	Saar (protectorate)
+United Provinces of the Río de la Plata	currency	Argentine real
+United Provinces of the Río de la Plata	currency	Argentine sol
+United Provinces of the Río de la Plata	currency	Argentine peso#History
+Kingdom of Bavaria	currency	Bavarian gulden
+Kingdom of Bavaria	currency	German gold mark
+Kingdom of Bavaria	currency	German Papiermark
+History of Mahdist Sudan	currency	Legal tender
+History of Mahdist Sudan	currency	De facto currency
+History of Mahdist Sudan	currency	Maria Theresa thaler
+Democratic Republic of Armenia	currency	Armenian ruble
+Kingdom of Croatia-Slavonia	currency	Austro-Hungarian gulden
+Kingdom of Croatia-Slavonia	currency	Austro-Hungarian krone
+Buryat Autonomous Soviet Socialist Republic	currency	Soviet ruble
+Free State of Fiume	currency	Fiume Krone
+Free State of Fiume	currency	Italian lira
+History of Portugal (1834–1910)	currency	Portuguese real
+Ditadura Nacional	currency	Portuguese escudo
+Reichskommissariat Ukraine	currency	Ukrainian karbovanets#Second karbovanets
+Kingdom of Kongo	currency	Shell money
+Kingdom of Kongo	currency	Raffia palm
+Spanish East Indies	currency	Philippine peso
+Kingdom of Montenegro	currency	Montenegrin perper
+Republic of Užice	currency	Yugoslav dinar
+Kingdom of Fez	currency	Falus
+Danish India	currency	Danish Indian rupee
+United States	currency	United States dollar
+West Francia	currency	Solidus (coin)
+West Francia	currency	Triens
+West Francia	currency	Denarius
+West Francia	currency	Pfennig
+Timor Timur	currency	Indonesian rupiah
+Trinidad and Tobago	currency	Trinidad and Tobago dollar
+Malaysia	currency	Malaysian ringgit
+Principality of Bulgaria	currency	Bulgarian lev
+Kingdom of Bulgaria	currency	Bulgarian lev
+Territory of New Guinea	currency	Australian pound
+Aro Confederacy	currency	Manillas
+Aro Confederacy	currency	Cowry
+Aro Confederacy	currency	African slave trade
+Principality of Montenegro	currency	Montenegrin perper
+Captaincy General of Guatemala	currency	Peso
+Captaincy General of the Philippines	currency	Spanish dollar
+Captaincy General of the Philippines	currency	Philippine peso
+Mexico	currency	Mexican peso
+Tulunids	currency	Dinar
+Beiyang Government	currency	Chinese yuan
+Jaffna kingdom	currency	Setu coins
+East Bengal	currency	Pakistani rupee
+United Kingdom of Portugal, Brazil and the Algarves	currency	Portuguese real
+Republic of Alba (1944)	currency	Italian lira
+British Raj	currency	History of the rupee
+Sultanate of Maguindanao	currency	Barter
+Parthian Empire	currency	Greek drachma
+British America	currency	Pound sterling
+Republic of Bosnia and Herzegovina	currency	Bosnia and Herzegovina convertible mark
+Australia	currency	Australian dollar
+Provisional Government of the French Republic	currency	French franc
+Crown of Castile	currency	Spanish real
+Crown of Castile	currency	Spanish maravedí
+New Zealand	currency	New Zealand dollar
+Minyue	currency	Ancient Chinese coinage
+Serbia under German occupation	currency	Serbian dinar
+Cuba	currency	Cuban peso
+Cuba	currency	Cuban convertible peso
+Canada	currency	Canadian dollar
+Sweden	currency	Swedish krona
+Saar (League of Nations)	currency	Saar franc
+Croatian Republic of Herzeg-Bosnia	currency	Croatian dinar
+Chechen Republic of Ichkeria	currency	Russian ruble
+Chechen Republic of Ichkeria	currency	Chechen naxar
+Islamic Courts Union	currency	Somali shilling
+State of Somaliland	currency	Somali shilling
+Kaabu	currency	Shell money
+Kingdom of Württemberg	currency	Württemberg gulden
+Kingdom of Württemberg	currency	German gold mark
+Kingdom of Württemberg	currency	German Papiermark
+United States Civil Administration of the Ryukyu Islands	currency	B yen
+First Philippine Republic	currency	Philippine peso
+History of the Philippines (1965–1986)	currency	Philippine peso
+History of the Philippines (1946–1965)	currency	Philippine peso
+France	currency	Euro
+France	currency	CFP franc
+Taiwan under Japanese rule	currency	Taiwanese yen
+United States of the Ionian Islands	currency	Ionian obol
+United States of the Ionian Islands	currency	Greek lepton
+Duchy of Florence	currency	Florin (Italian coin)
+People's Republic of Benin	currency	West African CFA franc
+Government of the Autonomous Republic of Abkhazia	currency	Georgian lari
+German Austria	currency	Austro-Hungarian krone
+German Austria	currency	Overprint
+German Austria	currency	Heller (money)
+Commune of the Working People of Estonia	currency	Russian ruble
+Provisional National Government of the Southwestern Caucasus	currency	Kuruş
+Provisional National Government of the Southwestern Caucasus	currency	Turkish lira
+Spanish West Indies	currency	Spanish dollar
+East Hebei Autonomous Council	currency	Japanese yen
+East Hebei Autonomous Council	currency	Manchukuo yuan
+Hungarian Democratic Republic	currency	Hungarian korona
+Nieuwe Republiek	currency	South African pound
+Kingdom of Sarawak	currency	Sarawak dollar
+Free City of Frankfurt	currency	South German gulden
+Syria	currency	Syrian pound
+Kuwait	currency	Kuwaiti dinar
+Iraq	currency	Iraqi dinar
+Jordan	currency	Jordanian dinar
+Falkland Islands	currency	Falkland Islands pound
+Ptolemaic Kingdom	currency	Greek drachma
+Gibraltar	currency	Pound sterling
+Later Han Dynasty (Five Dynasties)	currency	Chinese cash
+Later Han Dynasty (Five Dynasties)	currency	Ancient Chinese coinage
+Later Han Dynasty (Five Dynasties)	currency	Coin
+Later Zhou Dynasty	currency	Chinese cash
+Later Zhou Dynasty	currency	Ancient Chinese coinage
+Later Zhou Dynasty	currency	Coin
+Chesterfield Islands	currency	CFP franc
+Abkhaz Autonomous Soviet Socialist Republic	currency	Soviet ruble
+Second Philippine Republic	currency	Japanese government-issued Philippine fiat peso
+Kingdom of the Lombards	currency	Tremissis
+Kingdom of Hungary in the Middle Ages	currency	Denarius
+Egypt	currency	Egyptian pound
+Shun Dynasty	currency	Ancient Chinese coinage
+Shun Dynasty	currency	Chinese cash
+Territory of Papua and New Guinea	currency	New Guinean pound
+Territory of Papua and New Guinea	currency	Australian dollar
+Territory of Papua and New Guinea	currency	Papua New Guinean kina
+Qatar	currency	Qatari riyal
+Straits Settlement of Malacca	currency	Straits dollar
+Straits Settlement of Malacca	currency	Malayan dollar
+First Czechoslovak Republic	currency	Czechoslovak koruna
+Tsardom of Russia	currency	Russian ruble
+Rashidun Caliphate	currency	Dinar
+Rashidun Caliphate	currency	Dirham
+Galmudug	currency	Somali shilling
+New Kingdom of Granada	currency	Spanish real
+Pridnestrovian Moldavian Soviet Socialist Republic	currency	Soviet ruble
+British Ceylon	currency	Ceylonese rixdollar
+British Ceylon	currency	Pound sterling
+United Provinces of New Granada	currency	Spanish real
+Republic of New Granada	currency	Colombian peso
+Granadine Confederation	currency	Colombian peso
+Second Hellenic Republic	currency	Greek drachma
+Socialist Soviet Republic of Abkhazia	currency	Soviet ruble
+Israel	currency	Israeli new shekel
+Taiwan under Qing Dynasty rule	currency	Qing Dynasty
+Kingdom of Portugal	currency	Portuguese dinheiro
+Kingdom of Portugal	currency	Portuguese real
+Collectivity of Saint Martin	currency	Euro
+Sint Maarten	currency	Netherlands Antillean guilder
+Moravian Serbia	currency	Serbian perper
+First Hellenic Republic	currency	Greek phoenix
+United Nations Transitional Authority in Cambodia	currency	Cambodian riel
+Kingdom of Libya	currency	Libyan pound
+Beylik of Tunis	currency	Tunisian rial
+Provisional Government of Oregon	currency	United States dollar
+Provisional Government of Oregon	currency	Wheat
+Provisional Government of Oregon	currency	Beaver Coins
+African Union	currency	Central banks and currencies of Africa
+Albanian Kingdom	currency	Albanian lek
+Albanian Kingdom	currency	Franga
+Albanian Republic	currency	Franga
+Albanian Republic	currency	Albanian lek
+Principality of Albania	currency	Albanian lek
+Armenia	currency	Armenian dram
+Albanian Kingdom (1939–1943)	currency	Albanian lek
+Albanian Kingdom (1939–1943)	currency	Italian lira
+Duchy of Courland and Semigallia (1918)	currency	German ostmark
+Duchy of Courland and Semigallia (1918)	currency	German ostruble
+Duchy of Courland and Semigallia (1918)	currency	German Papiermark
+Duchy of Courland and Semigallia (1918)	currency	Russian ruble
+Turkey	currency	Turkish lira
+Yanam, French India	currency	French Indian rupee
+Donetsk-Krivoy Rog Soviet Republic	currency	Ruble
+Kingdom of Montenegro (1941–1944)	currency	Montenegrin perper
+Kingdom of Montenegro (1941–1944)	currency	Italian lira
+Kingdom of Montenegro (1941–1944)	currency	Reichsmark
+Odessa Soviet Republic	currency	Ruble
+Kingdom of Hungary (1920–1946)	currency	Hungarian korona
+Kingdom of Hungary (1920–1946)	currency	Hungarian pengő
+Qi (Henan)	currency	Ancient Chinese coinage
+Kingdom of Croatia (Habsburg)	currency	Austro-Hungarian gulden
+Dominica	currency	East Caribbean dollar
+Republic of Yucatán	currency	Peso
+Maakhir	currency	Somali shilling
+Dominion of Ceylon	currency	Sri Lankan rupee
+Kuban People's Republic	currency	Russian ruble
+Portal:Bangladesh/FactSheet	currency	Bangladeshi taka
+Albanian Kingdom (1943–1944)	currency	Albanian lek
+Northland State	currency	Somali shilling
+Classical Athens	currency	Greek drachma
+Republic of the United States of Indonesia	currency	Indonesian rupiah
+Falkland Islands Dependencies	currency	Falkland Islands pound
+Kingdom of Nri	currency	Manillas
+Zulu Kingdom	currency	Cattle
+Second Czechoslovak Republic	currency	Czechoslovak koruna
+Reichskommissariat Niederlande	currency	Dutch guilder
+Reichskommissariat Norwegen	currency	Norwegian krone
+Republic of Lakotah	currency	United States dollar
+Taifa of Seville	currency	Dirham
+Taifa of Seville	currency	Islamic gold dinar
+Republic of Serbia (1990–2006)	currency	Yugoslav dinar
+Republic of Serbia (1990–2006)	currency	Serbian dinar
+Republic of Montenegro (1992–2006)	currency	Deutsche Mark
+People's Republic of Angola	currency	Angolan kwanza
+Taifa of Almería	currency	Dirham
+Taifa of Almería	currency	Islamic gold dinar
+Taifa of Granada	currency	Dirham
+Taifa of Granada	currency	Islamic gold dinar
+United Nations Temporary Executive Authority	currency	Netherlands New Guinean gulden
+Bosnia and Herzegovina (Austro-Hungarian condominium)	currency	Austro-Hungarian krone
+International Coffee Organization	currency	United States dollar
+Autonomous Province of Kosovo and Metohija	currency	Serbian dinar
+State of Malta	currency	Maltese lira
+French Upper Volta	currency	French West African franc
+French Upper Volta	currency	West African CFA franc
+French Dahomey	currency	French West African franc
+French Dahomey	currency	West African CFA franc
+Republic of Dahomey	currency	West African CFA franc
+Republic of Croatia (1990–1991)	currency	Yugoslav dinar
+Provisional Administrative Entity of South Ossetia	currency	Georgian lari
+Taifa of Córdoba	currency	Dirham
+Taifa of Córdoba	currency	Islamic gold dinar
+Kingdom of Armenia (Middle Ages)	currency	Hyperpyron
+Kingdom of Armenia (Middle Ages)	currency	Abbasid Caliphate
+Byzantine Empire	currency	Solidus (coin)
+Byzantine Empire	currency	Byzantine coinage
+Yan (Anshi)	currency	Ancient Chinese coinage
+Yan (Anshi)	currency	Chinese cash
+Djibouti	currency	Djiboutian franc
+Guatemala	currency	Guatemalan quetzal
+Eritrea	currency	Eritrean nakfa
+Faroe Islands	currency	Faroese króna
+Grenada	currency	East Caribbean dollar
+Guyana	currency	Guyanese dollar
+South Africa	currency	South African rand
+Captaincy General of Santo Domingo	currency	Spanish dollar
+Captaincy General of Santo Domingo  1	currency	Spanish dollar
+Haitian occupation of Santo Domingo	currency	Haitian gourde
+Don Republic	currency	Russian ruble
+Transcaucasian Commissariat	currency	Ruble
+Transcaucasian Commissariat	currency	Transcaucasian ruble
+Italian Trans-Juba	currency	Italian lira
+Mauritania	currency	Mauritanian ouguiya
+Bahrain	currency	Bahraini dinar
+Abkhazia	currency	Abkhazian apsar
+Abkhazia	currency	Russian ruble
+Abkhazia  Government of the Autonomous Republic of Abkhaziaa  1	currency	Georgian lari
+Kingdom of the Netherlands	currency	Euro
+Kingdom of the Netherlands	currency	United States dollar
+Kingdom of the Netherlands	currency	Caribbean Netherlands
+Kingdom of the Netherlands	currency	Netherlands Antillean guilder
+Kingdom of the Netherlands	currency	Curaçao
+Kingdom of the Netherlands	currency	Sint Maarten
+Kingdom of the Netherlands	currency	Aruban florin
+British Indian Ocean Territory	currency	United States dollar
+Argentina	currency	Argentine peso
+Khedivate of Egypt	currency	Egyptian pound
+Ascension Island	currency	Saint Helena pound
+Ascension Island	currency	United States dollar
+Cape Verde	currency	Cape Verdean escudo
+French occupation of Santo Domingo	currency	Spanish dollar
+French occupation of Santo Domingo	currency	Haitian livre
+Taifa of Zaragoza	currency	Dirham
+Taifa of Zaragoza	currency	Islamic gold dinar
+Taifa of Albarracín	currency	Dirham
+Taifa of Albarracín	currency	Islamic gold dinar
+Taifa of Algeciras	currency	Dirham
+Taifa of Algeciras	currency	Islamic gold dinar
+Taifa of Alpuente	currency	Dirham
+Taifa of Alpuente	currency	Islamic gold dinar
+Taifa of Arcos	currency	Dirham
+Taifa of Arcos	currency	Islamic gold dinar
+Taifa of Baeza	currency	Dirham
+Taifa of Baeza	currency	Islamic gold dinar
+Taifa of Carmona	currency	Dirham
+Taifa of Carmona	currency	Islamic gold dinar
+Taifa of Guadix and Baza	currency	Dirham
+Taifa of Guadix and Baza	currency	Islamic gold dinar
+Taifa of Jaén	currency	Dirham
+Taifa of Jaén	currency	Islamic gold dinar
+Taifa of Lisbon	currency	Dirham
+Taifa of Lisbon	currency	Islamic gold dinar
+Taifa of Málaga	currency	Dirham
+Taifa of Málaga	currency	Islamic gold dinar
+Taifa of Menorca	currency	Dirham
+Taifa of Menorca	currency	Islamic gold dinar
+Taifa of Mértola	currency	Dirham
+Taifa of Mértola	currency	Islamic gold dinar
+Taifa of Molina	currency	Dirham
+Taifa of Molina	currency	Islamic gold dinar
+Taifa of Morón	currency	Dirham
+Taifa of Morón	currency	Islamic gold dinar
+Taifa of Murviedro and Sagunto	currency	Dirham
+Taifa of Murviedro and Sagunto	currency	Islamic gold dinar
+Taifa of Orihuela	currency	Dirham
+Taifa of Orihuela	currency	Islamic gold dinar
+Taifa of Ronda	currency	Dirham
+Taifa of Ronda	currency	Islamic gold dinar
+Taifa of Saltés and Huelva	currency	Dirham
+Taifa of Saltés and Huelva	currency	Islamic gold dinar
+Taifa of Santa Maria do Algarve	currency	Dirham
+Taifa of Santa Maria do Algarve	currency	Islamic gold dinar
+Taifa of Tejada	currency	Dirham
+Taifa of Tejada	currency	Islamic gold dinar
+Taifa of Toledo	currency	Dirham
+Taifa of Toledo	currency	Islamic gold dinar
+Taifa of Arjona	currency	Dirham
+Taifa of Arjona	currency	Islamic gold dinar
+Taifa of Constantina and Hornachuelos	currency	Dirham
+Taifa of Constantina and Hornachuelos	currency	Islamic gold dinar
+Taifa of Valencia	currency	Dirham
+Taifa of Valencia	currency	Islamic gold dinar
+Taifa of Jerez	currency	Dirham
+Taifa of Jerez	currency	Islamic gold dinar
+Taifa of Silves	currency	Dirham
+Taifa of Silves	currency	Islamic gold dinar
+Taifa of Niebla	currency	Dirham
+Taifa of Niebla	currency	Islamic gold dinar
+Spanish occupation of the Dominican Republic	currency	Spanish dollar
+Governorate of New Castile	currency	Peso
+Independent State of Macedonia	currency	Macedonian lev
+Republic of the Congo	currency	Central African CFA franc
+Yuan Dynasty	currency	Banknote
+Yuan Dynasty	currency	Cash (Chinese coin)
+Republic of Hungary (1946–1949)	currency	Hungarian pengő
+Republic of Hungary (1946–1949)	currency	Hungarian forint
+Cabeça do Cachorro	currency	Brazilian real
+São Tomé and Príncipe	currency	São Tomé and Príncipe dobra
+British occupation of Manila	currency	Spanish dollar
+Vichy France	currency	French franc
+Aksumite Empire	currency	Aksumite currency
+American Samoa	currency	United States dollar
+Russian Empire	currency	Russian ruble
+Federation of Rhodesia and Nyasaland	currency	Rhodesia and Nyasaland pound
+New Kingdom of León	currency	Peso
+Swedish Empire	currency	Swedish riksdaler
+Swedish Empire	currency	Mark (unit)
+Swedish Empire	currency	Carolin
+First French Empire	currency	French franc
+Grand Duchy of Moscow	currency	Russian ruble
+Denmark–Norway	currency	Danish rigsdaler
+Denmark–Norway	currency	Norwegian rigsdaler
+Kievan Rus'	currency	Ukrainian hryvnia
+Kingdom of Sardinia	currency	Piedmont scudo
+Kingdom of Sardinia	currency	Sardinian scudo
+Kingdom of Sardinia	currency	Sardinian lira
+Burundi	currency	Burundian franc
+Taifa of Lorca	currency	Dirham
+Taifa of Lorca	currency	Islamic gold dinar
+Taifa of Majorca	currency	Dirham
+Taifa of Majorca	currency	Islamic gold dinar
+Taifa of Tortosa	currency	Dirham
+Taifa of Tortosa	currency	Islamic gold dinar
+Taifa of Purchena	currency	Dirham
+Taifa of Purchena	currency	Islamic gold dinar
+Taifa of Santarém	currency	Dirham
+Taifa of Santarém	currency	Islamic gold dinar
+Taifa of Segura	currency	Dirham
+Taifa of Segura	currency	Islamic gold dinar
+Taifa of Tavira	currency	Dirham
+Taifa of Tavira	currency	Islamic gold dinar
+Ajuuraan State	currency	Mogadishu currency
+Frisian Kingdom	currency	Sceat
+Kiautschou Bay concession	currency	German gold mark
+Kingdom of Scotland	currency	Pound Scots
+Kingdom of Hawaii	currency	Hawaiian dollar
+Kingdom of Hawaii	currency	United States dollar
+Dutch East Indies	currency	Netherlands Indies gulden
+Liao Dynasty	currency	Chinese cash
+Liao Dynasty	currency	Ancient Chinese coinage
+Liao Dynasty	currency	Coin
+Kingdom of France (1791–1792)	currency	Assignat
+North Vietnam	currency	North Vietnamese đồng
+Republic of Macedonia	currency	Macedonian denar
+6 January Dictatorship	currency	Yugoslav dinar
+Colony of Tasmania	currency	Pound sterling
+Nordic countries	currency	Danish krone
+Nordic countries	currency	Icelandic króna
+Nordic countries	currency	Norwegian krone
+Nordic countries	currency	Swedish krona
+Nordic countries	currency	Euro
+Seneca Nation of New York	currency	United States dollar
+Quisling regime	currency	Norwegian krone
+Åland Islands	currency	Euro
+Taifa of Dénia	currency	Dirham
+Taifa of Dénia	currency	Islamic gold dinar
+Saint Helena, Ascension and Tristan da Cunha	currency	Saint Helena pound
+Saint Helena, Ascension and Tristan da Cunha	currency	Pound sterling
+Portuguese period in Ceylon	currency	Portuguese Tanga
+Principality of Lucca and Piombino	currency	French franc
+Northern Liao	currency	Chinese cash
+Northern Liao	currency	Ancient Chinese coinage
+Northern Liao	currency	Coin
+Kingdom of Dazhou	currency	Ancient Chinese coinage
+Kingdom of Dazhou	currency	Chinese cash
+Dutch Virgin Islands	currency	Guilder
+Ba'athist Iraq	currency	Iraqi dinar
+Russian Democratic Federative Republic	currency	Ruble
+Occupation of the Falkland Islands	currency	Argentine peso ley
+Kingdom of Spain (Napoleonic)	currency	Spanish real
+German South-West Africa	currency	German South West African mark
+E (state)	currency	Ancient Chinese coinage
+Iraq (1958–1968)	currency	Iraqi dinar
+Austria	currency	Euro
+Turkish Federated State of Cyprus	currency	Turkish lira
+Caribbean Netherlands	currency	United States dollar
+British Hong Kong	currency	Hong Kong dollar
+Provisional People's Committee for North Korea	currency	Korean won
+Italian Eritrea	currency	Eritrean tallero
+Italian Eritrea	currency	Italian lira
+French protectorate of Tunisia	currency	Tunisian rial
+French protectorate of Tunisia	currency	Tunisian franc
+Portuguese Goa State	currency	Portuguese Indian rupia
+Portuguese Goa State	currency	Portuguese Indian escudo
+Cherokee Nation (19th century)	currency	United States dollar
+North Caucasian Emirate	currency	Ruble
+Sui (state)	currency	Ancient Chinese coinage
+Quan (state)	currency	Ancient Chinese coinage
+Pi (state)	currency	Ancient Chinese coinage
+Svalbard in fiction	currency	Norwegian krone
+Awdalland	currency	Somali shilling
+Kingdom of Tahiti	currency	Pound sterling
+Kingdom of Tahiti	currency	French franc
+Saint Barthélemy	currency	Euro
+Autonomous Albanian Republic of Korçë	currency	Korçë frange
+Western Samoa Trust Territory	currency	Pound sterling
+Vaspurakan Kingdom	currency	Solidus (coin)
+Vaspurakan Kingdom	currency	Hyperpyron
+Governorate of New Toledo	currency	Peso
+Taifa of Murcia	currency	Dirham
+Taifa of Murcia	currency	Islamic gold dinar
+Taifa of Badajoz	currency	Dirham
+Taifa of Badajoz	currency	Islamic gold dinar
+Achaemenid Empire	currency	Persian daric
+Achaemenid Empire	currency	Achaemenid coinage#Siglos
+State of Buenos Aires	currency	Argentine peso moneda corriente
+Provisional Government of the Republic of China (1912)	currency	Chinese yuan
+Portal:Somaliland	currency	Somaliland shilling
+Emirates eGovernment	currency	United Arab Emirates dirham
+South Sudan	currency	South Sudanese pound
+Prince-Bishopric of Montenegro	currency	Montenegrin perun

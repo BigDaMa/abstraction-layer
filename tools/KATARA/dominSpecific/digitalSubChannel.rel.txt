@@ -1,0 +1,2204 @@
+WABC-TV	digitalSubChannel	(see article)
+WAPA-TV	digitalSubChannel	4.1 Independent
+WAPA-TV	digitalSubChannel	4.2 Universal Sports
+WAPA-TV	digitalSubChannel	4.3 Canal del Tiempo
+WPXN-TV	digitalSubChannel	31.1 ION Television
+WPXN-TV	digitalSubChannel	31.2 Qubo
+WPXN-TV	digitalSubChannel	31.3 ION Life
+WPIX	digitalSubChannel	(see article)
+WGN-TV	digitalSubChannel	(see article)
+WKAQ-TV	digitalSubChannel	2.1 Telemundo HD
+WKAQ-TV	digitalSubChannel	2.2 Punto 2
+WSTE-DT	digitalSubChannel	7.1 Independent
+WSTE-DT	digitalSubChannel	Univision (secondary)
+WLII-DT	digitalSubChannel	11.1 Univision
+WNET	digitalSubChannel	13.1 WNET/PBS
+WNET	digitalSubChannel	13.2 Kids
+WNET	digitalSubChannel	13.3 V-me
+KCET	digitalSubChannel	(see article)
+Iowa Public Television	digitalSubChannel	.1 PBS (IPTV Digital)
+Iowa Public Television	digitalSubChannel	.2 PBS (IPTV Learns)
+Iowa Public Television	digitalSubChannel	.3 PBS (IPTV World)
+WEWS-TV	digitalSubChannel	5.1 ABC
+WEWS-TV	digitalSubChannel	5.2 Live Well Network (as of Sept. 2011)
+KARE	digitalSubChannel	11.1 NBC
+KARE	digitalSubChannel	11.2 KARE WX NOW
+KAAL	digitalSubChannel	6.1 ABC
+WDIO-DT	digitalSubChannel	10.1/13.1 ABC (HDTV)
+WDIO-DT	digitalSubChannel	10.2/13.2 RTV
+KSTC-TV	digitalSubChannel	45.1 Independent
+KSTC-TV	digitalSubChannel	ABC(secondary)
+KSTC-TV	digitalSubChannel	45.2 This TV
+KSAX	digitalSubChannel	42.1 / 43.1 ABC
+WNYT (TV)	digitalSubChannel	13.1 NBC
+WNYT (TV)	digitalSubChannel	13.2 MeTV
+WNYT (TV)	digitalSubChannel	13.3 Local Weather
+WWNY-TV	digitalSubChannel	7.1 CBS
+WWNY-TV	digitalSubChannel	7.2 Fox
+WMTW	digitalSubChannel	8.1 ABC
+WMTW	digitalSubChannel	8.2 AccuWX
+WRAL-TV	digitalSubChannel	5.1 CBS-HD
+WRAL-TV	digitalSubChannel	5.2 This TV
+WTVD	digitalSubChannel	11.1 ABC
+WTVD	digitalSubChannel	11.2 Live Well HD
+WTVD	digitalSubChannel	11.3 Live Well SD
+WRAZ (TV)	digitalSubChannel	50.1 Fox (HD)
+WRAZ (TV)	digitalSubChannel	50.2 MeTV
+WGBH-TV	digitalSubChannel	2.1 PBS HD
+WGBH-TV	digitalSubChannel	2.2 PBS SD
+KMSP-TV	digitalSubChannel	9.1 Fox (HD)
+KMSP-TV	digitalSubChannel	9.2 WFTC/MNTV (SD)
+WCCO-TV	digitalSubChannel	4.1 CBS
+WBTV	digitalSubChannel	3.1 CBS
+WBTV	digitalSubChannel	3.2 This TV
+WTVT	digitalSubChannel	13.1 Fox
+WNEP-TV	digitalSubChannel	16.1 ABC
+WNEP-TV	digitalSubChannel	16.2 Antenna TV
+WBRE-TV	digitalSubChannel	28.1 NBC
+WBZ-TV	digitalSubChannel	4.1 CBS
+WCMH-TV	digitalSubChannel	4.1 NBC
+WCMH-TV	digitalSubChannel	4.2 RTV
+WSTR-TV	digitalSubChannel	64.1 MyNetworkTV
+WSTR-TV	digitalSubChannel	64.2 TheCoolTV
+WKEF	digitalSubChannel	22.1 ABC
+WKEF	digitalSubChannel	22.2 TheCoolTV
+WRGT-TV	digitalSubChannel	45.1 Fox
+WRGT-TV	digitalSubChannel	45.2 MyNetworkTV & This TV
+WTTA	digitalSubChannel	38.1 MyNetworkTV
+WTTA	digitalSubChannel	38.2 TheCoolTV
+WICS	digitalSubChannel	20.1 ABC
+WICD (TV)	digitalSubChannel	15.1 ABC
+KGAN	digitalSubChannel	2.1 CBS
+KGAN	digitalSubChannel	2.2 TheCoolTV
+KDSM-TV	digitalSubChannel	17.1 Fox
+KDSM-TV	digitalSubChannel	17.2 TheCoolTV
+KDSM-TV	digitalSubChannel	17.3 The Country Network
+KBSI	digitalSubChannel	23.1 Fox
+KBSI	digitalSubChannel	23.2 MyNetworkTV
+WBFF	digitalSubChannel	45.1 Fox
+WBFF	digitalSubChannel	45.2 This TV
+WBFF	digitalSubChannel	45.3 The Country Network
+WGGB-TV	digitalSubChannel	40.1 ABC
+WGGB-TV	digitalSubChannel	40.2 Fox (primary)
+WGGB-TV	digitalSubChannel	MyNetworkTV (secondary)
+WSMH	digitalSubChannel	66.1 Fox
+WSMH	digitalSubChannel	66.2 TheCoolTV
+WSMH	digitalSubChannel	66.3 The Country Network
+WNYO-TV	digitalSubChannel	49.1 MyNetworkTV
+WNYO-TV	digitalSubChannel	49.2 TheCoolTV
+KDNL-TV	digitalSubChannel	30.1 ABC
+KDNL-TV	digitalSubChannel	30.2 TheCoolTV
+KDNL-TV	digitalSubChannel	30.3 The Country Network
+WUHF	digitalSubChannel	31.1 Fox
+WUHF	digitalSubChannel	31.2 TheCoolTV
+WNYS-TV	digitalSubChannel	43.1 MyNetworkTV
+WNYS-TV	digitalSubChannel	43.2 TheCoolTV
+WSYT	digitalSubChannel	68.1 Fox
+WSYT	digitalSubChannel	68.2 TCN
+WMYA-TV	digitalSubChannel	40.1 MyNetworkTV
+WMYA-TV	digitalSubChannel	40.2 TheCoolTV
+WMYA-TV	digitalSubChannel	40.3 The Country Network
+WPMY	digitalSubChannel	22.1 MyNetworkTV
+WPMY	digitalSubChannel	22.2 WPGH-TV Fox SD
+WZTV	digitalSubChannel	17.1 Fox HD
+WZTV	digitalSubChannel	17.2 Fox SD
+WUXP-TV	digitalSubChannel	30.1 MyNetworkTV
+WUXP-TV	digitalSubChannel	30.2 theCoolTV
+WNAB	digitalSubChannel	58.1 The CW
+WNAB	digitalSubChannel	58.2 The Country Network
+WBNS-TV	digitalSubChannel	10.1 CBS
+WBNS-TV	digitalSubChannel	10.2 AccuWeather
+Twin Cities Public Television	digitalSubChannel	2.1 tpt-2HD/PBS (KTCA)
+Twin Cities Public Television	digitalSubChannel	2.2 tpt-MN (KTCA)
+Twin Cities Public Television	digitalSubChannel	2.3 tpt-Life (KTCI)
+Twin Cities Public Television	digitalSubChannel	2.4 tpt-WX (KTCA)
+WSJV	digitalSubChannel	28.1 Fox
+KTTC	digitalSubChannel	10.1 NBC
+KTTC	digitalSubChannel	10.2 The CW
+WQOW	digitalSubChannel	18.1 ABC
+WQOW	digitalSubChannel	18.2 The CW
+WQOW	digitalSubChannel	18.3 This TV (temporarily WEAU-TV/NBC)
+WXOW	digitalSubChannel	19.1 ABC
+WXOW	digitalSubChannel	19.2 The CW
+WXOW	digitalSubChannel	19.3 This TV
+WAOW	digitalSubChannel	9.1/34.1 ABC
+WAOW	digitalSubChannel	9.2/34.2 The CW
+WAOW	digitalSubChannel	9.3/34.3 This TV
+WTSP	digitalSubChannel	10.1 CBS
+WTSP	digitalSubChannel	10.2 10 Weather Now
+KIRO-TV	digitalSubChannel	(see article)
+KOMO-TV	digitalSubChannel	4.1 ABC
+KOMO-TV	digitalSubChannel	4.2 This TV
+KING-TV	digitalSubChannel	(see article)
+KSL-TV	digitalSubChannel	5.1 NBC
+KSL-TV	digitalSubChannel	5.2 Universal Sports
+KSL-TV	digitalSubChannel	5.3 Live 5 Weather Channel
+WKRG-TV	digitalSubChannel	5.1 CBS
+WKRG-TV	digitalSubChannel	5.2 Weather radar
+WKRG-TV	digitalSubChannel	5.3 Retro Television Network
+WPMI-TV	digitalSubChannel	15.1 NBC
+WPMI-TV	digitalSubChannel	15.2 weather
+WJXX	digitalSubChannel	25.1 ABC
+WJXX	digitalSubChannel	25.2 First Coast News WX
+WTLV	digitalSubChannel	12.1 NBC
+WTLV	digitalSubChannel	12.2 Universal Sports
+KCTS-TV	digitalSubChannel	KCTS:
+KCTS-TV	digitalSubChannel	9.1 KCTS-DT
+KCTS-TV	digitalSubChannel	9.2 V-me
+KCTS-TV	digitalSubChannel	9.3 Create
+KCTS-TV	digitalSubChannel	KYVE:
+KCTS-TV	digitalSubChannel	47.1 KYVE-DT
+KCTS-TV	digitalSubChannel	47.2 V-me
+KCTS-TV	digitalSubChannel	47.3 Create
+KCPQ	digitalSubChannel	(see article)
+KONG (TV)	digitalSubChannel	16.1 KONG-DT (HD)
+KONG (TV)	digitalSubChannel	16.2 KONG-DT (SD)
+KWPX-TV	digitalSubChannel	33.1 KWPX-DT
+KWPX-TV	digitalSubChannel	33.2 qubo
+KWPX-TV	digitalSubChannel	33.3 ION Life
+WSB-TV	digitalSubChannel	2.1 ABC
+WSB-TV	digitalSubChannel	2.2 MeTV
+KQED (TV)	digitalSubChannel	9.1 HD
+KQED (TV)	digitalSubChannel	9.2 KQEH (SD)
+KQED (TV)	digitalSubChannel	9.3 PBS World
+WGCL-TV	digitalSubChannel	46.1 - CBS (1080i)
+WGCL-TV	digitalSubChannel	46.2 - March Madness (480i)
+WATL	digitalSubChannel	36.1 - MyNetworkTV
+WATL	digitalSubChannel	36.2 - Weather Info Zone
+WUPA	digitalSubChannel	69.1 The CW
+WGBA-TV	digitalSubChannel	26.1 NBC
+WGBA-TV	digitalSubChannel	26.2 TheCoolTV
+WHDH (TV)	digitalSubChannel	7.1 NBC
+WHDH (TV)	digitalSubChannel	7.2 This TV
+KTVK	digitalSubChannel	See below
+KHON-TV	digitalSubChannel	2.1 Fox
+KHON-TV	digitalSubChannel	2.2 The CW
+KHNL	digitalSubChannel	13.1 NBC
+KHNL	digitalSubChannel	13.2 NBC Plus
+KITV	digitalSubChannel	4.1 ABC
+KITV	digitalSubChannel	4.2 The AccuWeather Channel/More TV Hawaii (evenings only)/MeTV Hawaii (Starting August 15, 2011)
+KGMB	digitalSubChannel	5.1 CBS
+KGMB	digitalSubChannel	5.2 This TV
+KHET	digitalSubChannel	11.1 PBS-HD
+KHET	digitalSubChannel	11.2 Kids
+KPXO-TV	digitalSubChannel	66.1 ION
+KPXO-TV	digitalSubChannel	66.2 qubo
+KPXO-TV	digitalSubChannel	66.3 Life
+KFVE	digitalSubChannel	9.1 MyNetworkTV
+KIKU	digitalSubChannel	20.1 Ind.
+KTVI	digitalSubChannel	2.1 Fox
+KTVI	digitalSubChannel	2.2 Antenna TV
+KMOV	digitalSubChannel	4.1 CBS
+KMOV	digitalSubChannel	4.2 Live Well Network
+KLTV	digitalSubChannel	7.1 ABC
+KLTV	digitalSubChannel	7.2 This TV
+KLTV	digitalSubChannel	7.3 Telemundo
+KLTV	digitalSubChannel	TBA Bounce TV
+KSDK	digitalSubChannel	5.1 NBC
+KSDK	digitalSubChannel	5.2 AccuWeather
+KETC	digitalSubChannel	9.1/39.1 Nine PBS
+KETC	digitalSubChannel	9.2/39.2 Nine Kids
+KETC	digitalSubChannel	9.3/39.3 Nine World
+KETC	digitalSubChannel	9.4/39.4 Nine Create
+KPLR-TV	digitalSubChannel	11.1 The CW
+KPLR-TV	digitalSubChannel	11.2 This TV
+KNLC	digitalSubChannel	24.1 KNLC
+KNLC	digitalSubChannel	24.2 RES
+WRBU	digitalSubChannel	46.1 MyTV
+WRBU	digitalSubChannel	46.2 MeTV
+WLS-TV	digitalSubChannel	(see article)
+WDRB	digitalSubChannel	41.1 Fox
+WDRB	digitalSubChannel	41.2 Antenna TV
+KATU	digitalSubChannel	2.1 ABC
+KATU	digitalSubChannel	2.2 This TV
+WFXT	digitalSubChannel	25.1 Fox
+WDTN	digitalSubChannel	2.1 NBC HD
+WDTN	digitalSubChannel	2.2 NBC SD
+WPBA (TV)	digitalSubChannel	30.1 - PBS (1970-Present) (1080i)
+KOAA-TV	digitalSubChannel	5.1 NBC
+KOAA-TV	digitalSubChannel	5.2 KOAA News 5 Now
+KKTV	digitalSubChannel	11.1 CBS
+KKTV	digitalSubChannel	11.2 MNTV
+KXRM-TV	digitalSubChannel	21.1 Fox
+KXRM-TV	digitalSubChannel	21.2 The CW
+KWGN-TV	digitalSubChannel	2.1 The CW
+KWGN-TV	digitalSubChannel	2.2 This TV
+KRDO-TV	digitalSubChannel	13.1 ABC
+KRDO-TV	digitalSubChannel	13.2 Telemundo
+KCNC-TV	digitalSubChannel	4.1 CBS
+KMGH-TV	digitalSubChannel	7.1 ABC
+KMGH-TV	digitalSubChannel	7.2 Azteca America (KZCO-LP)
+KMGH-TV	digitalSubChannel	7.3 The Cool TV
+KMGH-TV	digitalSubChannel	7.4 24/7 News
+Rocky Mountain PBS	digitalSubChannel	1 PBS
+Rocky Mountain PBS	digitalSubChannel	2 V-me
+Rocky Mountain PBS	digitalSubChannel	3 Create
+Rocky Mountain PBS	digitalSubChannel	5 Audio-only radio reading service
+KUSA (TV)	digitalSubChannel	9.1 NBC
+KUSA (TV)	digitalSubChannel	9.2 AccuWX
+KDVR	digitalSubChannel	31.1 Fox
+KDVR	digitalSubChannel	31.2 Antenna TV
+KDVR  KFCT   1	digitalSubChannel	22.1 Fox
+KDVR  KFCT   1	digitalSubChannel	22.2 Antenna TV
+KTVD	digitalSubChannel	20.1 MNT
+KTVD	digitalSubChannel	20.2 Universal Sports
+KCEC (TV)	digitalSubChannel	50.1 UNI  50.2 LATV
+KPXC-TV	digitalSubChannel	59.1 ION Television
+KPXC-TV	digitalSubChannel	59.2 qubo
+KPXC-TV	digitalSubChannel	59.3 ION Life
+KREX-TV	digitalSubChannel	5.1 CBS
+KREX-TV	digitalSubChannel	5.2 KGJT-LP
+WUCW	digitalSubChannel	23.1 The CW (HD)
+WUCW	digitalSubChannel	23.2 TheCoolTV
+WUCW	digitalSubChannel	23.3 The Country Network
+WSOC-TV	digitalSubChannel	9.1 ABC
+WSOC-TV	digitalSubChannel	9.2 Severe Weather Center 9 NOW
+WLBT	digitalSubChannel	3.1 NBC
+WLBT	digitalSubChannel	3.2 WX+
+WLBT	digitalSubChannel	3.3 This TV
+KRCR-TV	digitalSubChannel	7.1 ABC
+KRCR-TV	digitalSubChannel	7.2 MeTV
+KTVQ	digitalSubChannel	2.1 CBS/MTN
+KTVQ	digitalSubChannel	2.2 The CW
+WCSH	digitalSubChannel	6.1 NBC
+WCSH	digitalSubChannel	6.2 local news
+WCSH	digitalSubChannel	and weather
+KZTV	digitalSubChannel	10.1 CBS
+KVIE	digitalSubChannel	6.1 SD and HD
+KVIE	digitalSubChannel	6.2 KVIE2
+KVIE	digitalSubChannel	6.3 V-Me
+KCRA-TV	digitalSubChannel	(see article)
+KXTV	digitalSubChannel	(see article)
+WBQC-LD	digitalSubChannel	(see article)
+WSKC-CD	digitalSubChannel	22.1 - MBC (704\u00D7480i)
+WSKC-CD	digitalSubChannel	22.2 - unknown
+WATC-DT	digitalSubChannel	57.1 - WATC (480i)
+WATC-DT	digitalSubChannel	57.2 - WATC too (480i)
+WDTA-LD	digitalSubChannel	53.1 - Daystar
+WIRE-CD	digitalSubChannel	40.1/2/3- separate infomercials (480i) 40.4 3ABN religion/health network
+WUVG-DT	digitalSubChannel	34.1 - Univision (1080i)
+WUVG-DT	digitalSubChannel	34.2 - TeleFutura (480i)
+WTBS-LD	digitalSubChannel	26.1 - France 24 (480i)
+WTBS-LD	digitalSubChannel	26.2 - Untamed Sports (480i)
+WTBS-LD	digitalSubChannel	26.3 - Tuff TV (480i)
+WTBS-LD	digitalSubChannel	26.4 - Jewelry TV (480i)
+WTBS-LD	digitalSubChannel	26.5 - Oldie Goldie (480i)
+WTBS-LD	digitalSubChannel	26.6 - prism (480i)
+WTBS-LD	digitalSubChannel	26.7 - this TV (480i)
+WTBS-LD	digitalSubChannel	26.9 - LATV (480i)
+WTBS-LD	digitalSubChannel	26.10 - Vida TV (480i))
+WANN-LD	digitalSubChannel	(see article)
+WKTB-CD	digitalSubChannel	47.1 - Telemundo (480i)
+WKTB-CD	digitalSubChannel	47.2 - KTN, KBS (480i)
+WKTB-CD	digitalSubChannel	47.3 - Arirang (480i)
+WKTB-CD	digitalSubChannel	47.4 - Midwest Christian (480i)
+WNWO-TV	digitalSubChannel	24.1 NBC
+WNWO-TV	digitalSubChannel	24.2 RTV/A1
+WNYW	digitalSubChannel	(see article)
+KATC (TV)	digitalSubChannel	3.1 ABC
+KATC (TV)	digitalSubChannel	3.2 The CW
+WABM	digitalSubChannel	68.1: MyNetworkTV (HD)
+WABM	digitalSubChannel	68.2: TheCoolTV (SD)
+WBMA-LD	digitalSubChannel	See table below
+WBRC	digitalSubChannel	6.1 Fox
+WIAT	digitalSubChannel	42.1 CBS
+WIAT	digitalSubChannel	42.2 Untamed Sports TV
+WIAT	digitalSubChannel	42.3 Weather
+WPXH-TV	digitalSubChannel	44.1 Ion Television
+WPXH-TV	digitalSubChannel	44.2 qubo
+WPXH-TV	digitalSubChannel	44.3 ION Life
+WVTM-TV	digitalSubChannel	13.1 NBC
+WVTM-TV	digitalSubChannel	13.2 RTV
+WRC-TV	digitalSubChannel	(see article)
+WVII-TV	digitalSubChannel	7.1 ABC
+WVII-TV	digitalSubChannel	7.2 Fox (primary)
+WVII-TV	digitalSubChannel	MyNetworkTV (secondary)
+WPBS-DT	digitalSubChannel	16/18.1: WPBS-TV/WNPI-TV
+WPBS-DT	digitalSubChannel	16/18.2: Create, ThinkBright
+WPBS-DT	digitalSubChannel	16/18.3: PBS-HD
+WNBC	digitalSubChannel	(see article)
+KMTV-TV	digitalSubChannel	3.1 CBS
+KMTV-TV	digitalSubChannel	3.2 The Cool TV
+WOWT-TV	digitalSubChannel	6.1 NBC
+WOWT-TV	digitalSubChannel	6.2 62O (Ind./Universal Sports)
+KETV	digitalSubChannel	7.1 ABC
+KETV	digitalSubChannel	7.2 AccuWeather
+WPCW	digitalSubChannel	19.1 The CW
+WTAE-TV	digitalSubChannel	4.1 ABC
+WTAE-TV	digitalSubChannel	4.2 This TV
+WPXI	digitalSubChannel	11.1 NBC HD
+WPXI	digitalSubChannel	11.2 MeTV
+WPGH-TV	digitalSubChannel	53.1 Fox
+WPGH-TV	digitalSubChannel	53.2 The Country Network
+KNBC	digitalSubChannel	4.1 NBC
+KNBC	digitalSubChannel	4.2 NBC California Nonstop
+KNBC	digitalSubChannel	4.4 Universal Sports
+WLWT	digitalSubChannel	5.1 NBC
+WLWT	digitalSubChannel	5.2 MeTV
+WLBZ	digitalSubChannel	2.1 NBC
+WLBZ	digitalSubChannel	2.2 local news
+WLBZ	digitalSubChannel	and weather
+WSPA-TV	digitalSubChannel	7.1 CBS
+WSPA-TV	digitalSubChannel	7.2 RTV
+WSPA-TV	digitalSubChannel	7.x MeTV
+WRGB	digitalSubChannel	6.1 CBS
+WRGB	digitalSubChannel	6.2 This TV
+WTEN	digitalSubChannel	10.1/19.1 ABC
+WTEN	digitalSubChannel	10.2 Local Weather
+WTEN	digitalSubChannel	10.3 RTV
+WMHT (TV)	digitalSubChannel	17.1 PBS
+WMHT (TV)	digitalSubChannel	17.2 ThinkBright/Create
+WMHT (TV)	digitalSubChannel	17.3 PBS World
+KTVB	digitalSubChannel	7.1 NBC
+KTVB	digitalSubChannel	7.2 24/7 NewsChannel
+KTVB	digitalSubChannel	7.3 NW Cable News
+WFLA-TV	digitalSubChannel	8.1 NBC
+WFLA-TV	digitalSubChannel	8.2 RTV
+KXMB-TV	digitalSubChannel	KXMB: 12.1 CBS
+KXMB-TV	digitalSubChannel	12.3 Weather
+KXMB-TV	digitalSubChannel	KXMA: 2.1 CBS
+KXMB-TV	digitalSubChannel	2.2 KBMY/ABC
+KXMB-TV	digitalSubChannel	2.3 Weather
+KXMC-TV	digitalSubChannel	KXMC: 13.1 CBS
+KXMC-TV	digitalSubChannel	13.3 Weather
+KXMC-TV	digitalSubChannel	KXMD: 11.1 CBS
+KXMC-TV	digitalSubChannel	11.2 KMCY/ABC
+KXMC-TV	digitalSubChannel	11.3 Weather
+KMOT	digitalSubChannel	10.1/8.1 NBC (HDTV)
+KVLY-TV	digitalSubChannel	11.1 NBC
+KVLY-TV	digitalSubChannel	11.1 Weather (Monday Latenights)
+KVLY-TV	digitalSubChannel	11.2 This TV (NBC alternate affiliate)
+KFYR-TV	digitalSubChannel	5.1/7.1 NBC (HDTV)
+KXJB-TV	digitalSubChannel	4.1 CBS
+KXJB-TV	digitalSubChannel	4.1 Weather (Monday Latenights)
+WPHL-TV	digitalSubChannel	17.1 MyNetworkTV
+WPHL-TV	digitalSubChannel	17.2 Antenna TV
+WPHL-TV	digitalSubChannel	17.3 This TV
+WPHL-TV	digitalSubChannel	17.4 Tango Traffic
+WNIT (TV)	digitalSubChannel	34.1 PBS-HD
+WNIT (TV)	digitalSubChannel	34.2 PBS
+KTRK-TV	digitalSubChannel	(see article)
+WZZM	digitalSubChannel	13.1 ABC
+WZZM	digitalSubChannel	13.2 13 Weather Network AccuWX
+WOOD-TV	digitalSubChannel	8.1 NBC
+WOOD-TV	digitalSubChannel	8.2 MyNetworkTV
+WOOD-TV	digitalSubChannel	8.3 weather radar
+KCBS-TV	digitalSubChannel	2.1 CBS
+WXXA-TV	digitalSubChannel	23.1 Fox
+WXXA-TV	digitalSubChannel	23.2 theCoolTV
+WCBS-TV	digitalSubChannel	2.1 CBS
+WFTC	digitalSubChannel	29.1 MyNetworkTV (HD)
+WFTC	digitalSubChannel	29.2 KMSP-TV/Fox (SD)
+KPXM-TV	digitalSubChannel	41.1 Ion
+KPXM-TV	digitalSubChannel	41.2 qubo
+KPXM-TV	digitalSubChannel	41.3 ION Life
+KSTP-TV	digitalSubChannel	5.1 ABC
+KSTP-TV	digitalSubChannel	5.2 Eyewitness News Direct
+KPLC	digitalSubChannel	7.1 NBC
+KPLC	digitalSubChannel	7.2 KPLC Weather Channel
+KPLC	digitalSubChannel	7.3 This TV
+Prairie Public Television	digitalSubChannel	see table below
+KWCM-TV	digitalSubChannel	10/20.1 PBS (Pioneer HD)
+KWCM-TV	digitalSubChannel	10/20.2 PBS (Create)
+KWCM-TV	digitalSubChannel	10/20.3 PBS (MN Channel)
+KWCM-TV	digitalSubChannel	10/20.4 PBS (Pioneer SD)
+WIFR	digitalSubChannel	23.1 CBS
+WIFR	digitalSubChannel	23.2 AccuWeather
+WCWN	digitalSubChannel	45.1 The CW
+WCWN	digitalSubChannel	45. 2 Universal Sports
+WNYA	digitalSubChannel	51.1 MyNetworkTV
+WNYA	digitalSubChannel	51.2 Antenna TV
+WJXT	digitalSubChannel	4.1 Independent
+WJXT	digitalSubChannel	4.2 This TV
+WJXT	digitalSubChannel	4.3 LATV
+WJZY	digitalSubChannel	46.1 The CW (HD)
+WJZY	digitalSubChannel	46.2 Antenna TV
+WAXN-TV	digitalSubChannel	64.1 Independent HD
+KBMY	digitalSubChannel	17.1 / 14.1  ABC
+KBMY	digitalSubChannel	(Also seen on KXMA 2.2 Dickinson and KXMD 11.2 Williston)
+WNCN	digitalSubChannel	(see article)
+WCIU-TV	digitalSubChannel	(see article)
+WWAY	digitalSubChannel	3.1 ABC
+WWAY	digitalSubChannel	3.2 RTV
+WFMY-TV	digitalSubChannel	2.1: CBS
+WFMY-TV	digitalSubChannel	2.2: weather
+WECT	digitalSubChannel	6.1 NBC
+WECT	digitalSubChannel	6.2 local weather
+WILM-LD	digitalSubChannel	10.1 CBS
+WXLV-TV	digitalSubChannel	45.1 ABC
+WXLV-TV	digitalSubChannel	45.2 The Country Network
+WCTI-TV	digitalSubChannel	12.1 ABC
+WCTI-TV	digitalSubChannel	12.3 This TV
+WNCT-TV	digitalSubChannel	9.1 CBS
+WNCT-TV	digitalSubChannel	9.2 The CW
+KVRR	digitalSubChannel	15.1 Fox (HDTV)
+WMAQ-TV	digitalSubChannel	(see article)
+WLVT-TV	digitalSubChannel	39.1 PBS-HD
+WLVT-TV	digitalSubChannel	39.2 V-me
+WLVT-TV	digitalSubChannel	39.3 Create
+WFMZ-TV	digitalSubChannel	69.1 WFMZ (Ind.)
+WFMZ-TV	digitalSubChannel	69.2 AccuWX
+WFMZ-TV	digitalSubChannel	69.3 MeTV
+WFMZ-TV	digitalSubChannel	69.4 RTV
+WVUA-CA	digitalSubChannel	23.1 HDTV
+WVUA-CA	digitalSubChannel	23.2 SDTV
+WVUA-CA	digitalSubChannel	23.3 Alabama Public Radio (audio only)
+WVUA-CA	digitalSubChannel	23.4 XPoNential Radio (audio only)
+WBTW	digitalSubChannel	13.1 CBS
+WBTW	digitalSubChannel	13.2 MyNetworkTV & RTV
+WCSC-TV	digitalSubChannel	5.1 CBS
+WCSC-TV	digitalSubChannel	5.2 Independent
+WPLG	digitalSubChannel	10.1 - ABC (720p60)
+WPLG	digitalSubChannel	10.2 - LATV (480i60)
+KPRC-TV	digitalSubChannel	(see article)
+WKMG-TV	digitalSubChannel	6.1 CBS
+WKMG-TV	digitalSubChannel	6.2 LATV
+WDIV-TV	digitalSubChannel	(see article)
+WTMJ-TV	digitalSubChannel	4.1 NBC
+WTMJ-TV	digitalSubChannel	4.2 Storm Team 4 TV
+WTMJ-TV	digitalSubChannel	4.3 TheCoolTV (music videos)
+WCAX-TV	digitalSubChannel	3.1 CBS
+WCAX-TV	digitalSubChannel	3.2 local news
+WCAX-TV	digitalSubChannel	and weather
+WPTZ	digitalSubChannel	5.1 NBC
+WPTZ	digitalSubChannel	5.2 This TV
+KSBY	digitalSubChannel	6.1 NBC
+KSBY	digitalSubChannel	6.2 KWCA/The CW
+WITI (TV)	digitalSubChannel	6.1 Fox
+WITI (TV)	digitalSubChannel	6.2 Antenna TV
+WDJT-TV	digitalSubChannel	(see article)
+WCGV-TV	digitalSubChannel	24.1 MyNetworkTV
+WCGV-TV	digitalSubChannel	24.2 The Country Network
+WBBJ-TV	digitalSubChannel	7.1 ABC HD
+WBBJ-TV	digitalSubChannel	7.2 ABC SD
+WBBJ-TV	digitalSubChannel	7.3 weather radar
+KBTC-TV	digitalSubChannel	.1 KBTC/KCKA-HD
+KBTC-TV	digitalSubChannel	.2 MHz Worldview
+KBTC-TV	digitalSubChannel	.3 TVW
+KGW	digitalSubChannel	Local news and weather (DT2)
+KGW	digitalSubChannel	Estrella TV (DT3)
+KYW-TV	digitalSubChannel	3.1 CBS
+WTXF-TV	digitalSubChannel	29.1 Fox
+WPVI-TV	digitalSubChannel	(see article)
+WCAU	digitalSubChannel	(see article)
+WPSG	digitalSubChannel	57.1 The CW
+WCVB-TV	digitalSubChannel	5.1 ABC
+WJBK	digitalSubChannel	2.1 Fox
+WXYZ-TV	digitalSubChannel	(see article)
+WOIO	digitalSubChannel	19.1 CBS
+WOIO	digitalSubChannel	19.2 Weather Now
+WOIO	digitalSubChannel	(MeTV as of 8/1/11)
+KMOS-TV	digitalSubChannel	6.1 PBS
+KMOS-TV	digitalSubChannel	6.2 PBS-HD6.3 Create / MHz Worldview
+WUAB	digitalSubChannel	43.1 WUAB-HD
+WUAB	digitalSubChannel	43.2 This TV
+WGRZ	digitalSubChannel	2.1 NBC
+WGRZ	digitalSubChannel	2.2 Universal Sports
+WGRZ	digitalSubChannel	2.3 RTV
+WVIA-TV	digitalSubChannel	44.1 PBS
+WVIA-TV	digitalSubChannel	44.2 Local
+WVIA-TV	digitalSubChannel	44.3 Create
+WBNX-TV	digitalSubChannel	55.1 The CW
+WBNX-TV	digitalSubChannel	55.2 Independent
+WPBT	digitalSubChannel	2.1 WPBT HD
+WPBT	digitalSubChannel	2.2 Create
+WPBT	digitalSubChannel	2.3 V-me
+WCIV	digitalSubChannel	4.1 ABC
+WCIV	digitalSubChannel	4.2 AccuWeather
+WCBD-TV	digitalSubChannel	2.1 NBC
+WCBD-TV	digitalSubChannel	2.2 The CW
+KGO-TV	digitalSubChannel	(see article)
+WDAZ-TV	digitalSubChannel	8.1 ABC HD
+WDAZ-TV	digitalSubChannel	8.2 The CW
+WDAZ-TV	digitalSubChannel	8.3 Storm Tracker/WDAY Radio audio
+WWBT	digitalSubChannel	12.1 NBC
+WWBT	digitalSubChannel	12.2 local weather
+WHTV	digitalSubChannel	18.1 MyNetworkTV
+KIXE-TV	digitalSubChannel	9.1 HD
+KIXE-TV	digitalSubChannel	9.2 Create
+KIXE-TV	digitalSubChannel	9.3 PBS World
+WALA-TV	digitalSubChannel	10.1 Fox
+WPWR-TV	digitalSubChannel	50.1 MyTV
+KDOC-TV	digitalSubChannel	56.1 Main programming
+KDOC-TV	digitalSubChannel	56.2 ESNE
+KDOC-TV	digitalSubChannel	56.3 MeTV
+KDOC-TV	digitalSubChannel	56.4 Pegasus TV
+KNSD	digitalSubChannel	39.1 NBC
+KNSD	digitalSubChannel	39.2 NBC California Nonstop
+KNSD	digitalSubChannel	39.3 Universal Sports
+KGTV	digitalSubChannel	10.1 ABC
+KGTV	digitalSubChannel	10.2 TheCoolTV
+KGTV	digitalSubChannel	10.15 KZSD-LP/Azteca America
+KFMB-TV	digitalSubChannel	8.1 CBS
+KFMB-TV	digitalSubChannel	8.2 CBS standard definition
+WFNA (TV)	digitalSubChannel	55.1 CW
+WREX	digitalSubChannel	13.1 NBC
+WREX	digitalSubChannel	13.2 The CW
+WFAA	digitalSubChannel	(See article)
+WKBW-TV	digitalSubChannel	7.1 ABC
+KPNX	digitalSubChannel	See below
+WCWJ	digitalSubChannel	17.1/17.2 The CW HD/SD
+KLVX	digitalSubChannel	10.1 PBS
+KLVX	digitalSubChannel	10.2 Create
+KLVX	digitalSubChannel	10.3 V-me
+KXAS-TV	digitalSubChannel	(see article)
+WAWS	digitalSubChannel	30.1 Fox
+WAWS	digitalSubChannel	30.2 MyNetworkTV (primary)
+WAWS	digitalSubChannel	RTV (secondary)
+WKTV	digitalSubChannel	2.1 NBC
+WKTV	digitalSubChannel	2.2 The CW
+WSBT-TV	digitalSubChannel	22.1 CBS
+WSBT-TV	digitalSubChannel	22.2 SBT2
+WSBT-TV	digitalSubChannel	22.3 Stormtracker WX
+WNDU-TV	digitalSubChannel	16.1 NBC-HD
+WNDU-TV	digitalSubChannel	16.2 NBC-SD
+KEYE-TV	digitalSubChannel	42.1 CBS
+KEYE-TV	digitalSubChannel	42.2 Telemundo
+KYAZ	digitalSubChannel	51.1 Azteca Am\u00E9rica
+KYAZ	digitalSubChannel	51.2 Infomercials
+KYAZ	digitalSubChannel	51.3 Biz Television
+WEDU	digitalSubChannel	(see table in article)
+WCPO-TV	digitalSubChannel	9.1 ABC
+WCPO-TV	digitalSubChannel	9.2 Weather Tracker
+KVVU-TV	digitalSubChannel	5.1 Fox TV
+KVVU-TV	digitalSubChannel	5.2 Fox 5 Weather 24/7
+WAVE (TV)	digitalSubChannel	3.1 NBC
+WAVE (TV)	digitalSubChannel	3.2 This TV
+WAVE (TV)	digitalSubChannel	3.3 WAVE 3 Weather
+WHAS-TV	digitalSubChannel	11.1 ABC
+WHAS-TV	digitalSubChannel	11.2 WHAS StormTeam Weather/The Local AccuWeather Channel
+WHAS-TV	digitalSubChannel	11.3 Wazoo Sports
+WLKY-TV	digitalSubChannel	32.1 CBS
+WLKY-TV	digitalSubChannel	32.2 to be MeTV
+WBKI-TV	digitalSubChannel	34.1 The CW
+WBKI-TV	digitalSubChannel	34.2 VasalloVision
+WTVO	digitalSubChannel	17.1 ABC
+WTVO	digitalSubChannel	17.2 MyNetworkTV
+WLVI	digitalSubChannel	56.1 The CW
+WLVI	digitalSubChannel	56.2 TCN
+WGEM-TV	digitalSubChannel	10.1 NBC
+WGEM-TV	digitalSubChannel	10.2 The CW
+WGEM-TV	digitalSubChannel	10.3 Fox
+WKOW	digitalSubChannel	27.1 ABC
+WKOW	digitalSubChannel	27.2 MeTV
+WKOW	digitalSubChannel	27.3 This TV
+KXLT-TV	digitalSubChannel	47.1 Fox
+KXLT-TV	digitalSubChannel	47.2 MeTV
+KPBI (TV)	digitalSubChannel	34.1 RTV
+KPBI (TV)	digitalSubChannel	34.2 KXUN-LP
+WJAR	digitalSubChannel	10.1 NBC
+WJAR	digitalSubChannel	10.2 RTV
+WLNE-TV	digitalSubChannel	6.1 ABC
+WMYD	digitalSubChannel	20.1 MyNetworkTV
+WWLP	digitalSubChannel	22.1 NBC
+WWLP	digitalSubChannel	22.2 TheCoolTV
+WJLA-TV	digitalSubChannel	7.1 ABC
+WJLA-TV	digitalSubChannel	7.2 Weather Now
+WJLA-TV	digitalSubChannel	7.3 RTV
+WLIW	digitalSubChannel	21.1 PBS
+WLIW	digitalSubChannel	21.2 Create
+WLIW	digitalSubChannel	21.3 PBS World
+WXMI	digitalSubChannel	17.1 Fox (1986-Present)
+WXMI	digitalSubChannel	17.2 Antenna TV
+WXMI	digitalSubChannel	17.3 This TV
+WKRC-TV	digitalSubChannel	12.1 CBS12.2 The CW
+WXIX-TV	digitalSubChannel	19.1 Fox
+WXIX-TV	digitalSubChannel	19.2 This TV
+KPHO-TV	digitalSubChannel	See below
+KNXV-TV	digitalSubChannel	(see article)
+WXSP-CD	digitalSubChannel	15.1 MyNetworkTV
+KTWU	digitalSubChannel	11.1 PBS (HD)
+KTWU	digitalSubChannel	11.2 MHz Worldview
+KTWU	digitalSubChannel	11.3 KTWU Enhance (generally PBS Create)
+KCWX	digitalSubChannel	2.1 MyNetworkTV
+KCWX	digitalSubChannel	2.2 This TV
+WUVP-DT	digitalSubChannel	65.1 Univisi\u00F3n
+WJZ-TV	digitalSubChannel	13.1 CBS
+WVIZ	digitalSubChannel	25.1 WVIZ/PBS HD
+WVIZ	digitalSubChannel	25.2 Ohio Channel
+WVIZ	digitalSubChannel	25.3 PBS World
+WVIZ	digitalSubChannel	25.4 PBS Create25.9 Cleveland Sight Center Network
+WWSB	digitalSubChannel	40.1 ABC
+WFTS-TV	digitalSubChannel	28.1 ABC
+WFTS-TV	digitalSubChannel	28.2 AccuWeather
+WKYC	digitalSubChannel	3.1 NBC
+WKYC	digitalSubChannel	3.2 WX
+WFUT-DT	digitalSubChannel	68.1 TeleFutura
+WFUT-DT	digitalSubChannel	68.2 WXTV-DT (Univision)
+WMBC-TV	digitalSubChannel	63.1 WMBC
+WMBC-TV	digitalSubChannel	63.2 Korean
+WMBC-TV	digitalSubChannel	63.3 CGNTV
+WMBC-TV	digitalSubChannel	63.4 SinoVision
+WMBC-TV	digitalSubChannel	63.5 NTDTV
+WMBC-TV	digitalSubChannel	63.6 Azteca America
+WMBC-TV	digitalSubChannel	63.7 WDNJ-FM
+WMBC-TV	digitalSubChannel	63.8 KCBN
+KPIX-TV	digitalSubChannel	5.1 HD
+WHUT-TV	digitalSubChannel	32.1 HD
+WHUT-TV	digitalSubChannel	32.2 SD
+WDCW	digitalSubChannel	50.1 The CW
+WDCW	digitalSubChannel	50.2 Antenna TV
+WDCW	digitalSubChannel	50.3 This TV
+WTNH	digitalSubChannel	8.1 ABC
+KABC-TV	digitalSubChannel	(see article)
+WYOU	digitalSubChannel	22.1 CBS
+South Carolina Educational Television	digitalSubChannel	South Carolina Channel XX.2
+South Carolina Educational Television	digitalSubChannel	ETV World XX.3
+KTXL	digitalSubChannel	40.1 KTXL-DT
+KTXL	digitalSubChannel	40.2 Antenna TV
+WICU-TV	digitalSubChannel	12.1 NBC
+WICU-TV	digitalSubChannel	12.2 The CW
+WICU-TV	digitalSubChannel	12.3 CBS
+KTVU	digitalSubChannel	(see article)
+KRCA	digitalSubChannel	62.1 KRCA (Spanish)
+KRCA	digitalSubChannel	62.2 HTTV USA (Mandarin)
+KRCA	digitalSubChannel	62.3 Vida TV (Spanish)
+WHKY-TV	digitalSubChannel	14.1: Ind.
+WHKY-TV	digitalSubChannel	14.2: RTV
+WHKY-TV	digitalSubChannel	14.3: Tuff TV
+WHKY-TV	digitalSubChannel	14.4: My Family TV
+KRON-TV	digitalSubChannel	(see article)
+WBAL-TV	digitalSubChannel	11.1 NBC
+WBAL-TV	digitalSubChannel	11.2 WBAL Plus
+WTRF-TV	digitalSubChannel	7.1 CBS
+WTRF-TV	digitalSubChannel	7.2 Fox (primary)
+WTRF-TV	digitalSubChannel	MyNetworkTV (secondary)
+WTRF-TV	digitalSubChannel	7.3 ABC
+WYPX-TV	digitalSubChannel	55.1 ION Television
+WYPX-TV	digitalSubChannel	55.2 Qubo
+WYPX-TV	digitalSubChannel	55.3 ION Life
+WYCC	digitalSubChannel	20.1 PBS
+WYCC	digitalSubChannel	20.3 MHz Worldview
+WTOV-TV	digitalSubChannel	9.1 NBC
+WTOV-TV	digitalSubChannel	9.2 RTV
+WROC-TV	digitalSubChannel	8.1 CBS
+KVCR-DT	digitalSubChannel	24.1 KVCR-TV HD
+KVCR-DT	digitalSubChannel	24.2 KVCR-TV SD
+KVCR-DT	digitalSubChannel	24.3 KVCR-TV Desert Cities
+KVCR-DT	digitalSubChannel	24.4 PBS Create
+KICU-TV	digitalSubChannel	36.1 KICU
+KICU-TV	digitalSubChannel	36.2 Korean Broadcasting System
+KICU-TV	digitalSubChannel	36.3 CCTV News
+KRXI-TV	digitalSubChannel	11.1 Fox
+KRXI-TV	digitalSubChannel	11.2 RTV
+KVUE	digitalSubChannel	24.1 ABC
+KVUE	digitalSubChannel	24.2 Estrella TV
+KVUE	digitalSubChannel	24.3 Weather radar
+KOCE-TV	digitalSubChannel	50.1 KOCE-HD
+KOCE-TV	digitalSubChannel	50.2 OC Channel
+KOCE-TV	digitalSubChannel	50.3 Daystar
+KOCE-TV	digitalSubChannel	50.4 PBS World
+KTMD	digitalSubChannel	(see article)
+KXTX-TV	digitalSubChannel	(See article)
+KUVN-DT	digitalSubChannel	23.1 Univision
+WIS	digitalSubChannel	10.1 NBC
+WIS	digitalSubChannel	10.2 This TV
+WIS	digitalSubChannel	10.3 WIS 10 Weather Plus
+WWL-TV	digitalSubChannel	4.1 WWL / CBS HD
+WWL-TV	digitalSubChannel	4.2 Live Well Network
+WMUR-TV	digitalSubChannel	9.1 ABC
+WMAR-TV	digitalSubChannel	2.1 ABC HD
+WMAR-TV	digitalSubChannel	2.2 ABC SD
+WMAR-TV	digitalSubChannel	2.3 Local weather radar
+KTLA	digitalSubChannel	5.1 KTLA5.2 Antenna TV5.3 This TV
+KAZT-TV	digitalSubChannel	See below
+KTAV-LP	digitalSubChannel	69.1 Almavision
+KTVW-DT	digitalSubChannel	See below
+WTHR	digitalSubChannel	13.1 NBC
+WTHR	digitalSubChannel	13.2 SkyTrak WX Network
+WTHR	digitalSubChannel	13.3 Universal Sports
+KPPX-TV	digitalSubChannel	See below
+WFRV-TV	digitalSubChannel	5.1 CBS
+WWMT	digitalSubChannel	3.1 CBS
+WWMT	digitalSubChannel	3.2 The CW
+WOTV	digitalSubChannel	41.1 ABC
+WOTV	digitalSubChannel	41.2 TheCoolTV
+WTLJ	digitalSubChannel	54.1 Standard TCT schedule
+WTLJ	digitalSubChannel	54.2 TCT HD schedule
+KSTU	digitalSubChannel	13.1 Fox
+KSTU	digitalSubChannel	13.2 Antenna TV
+KUED	digitalSubChannel	7.1 KUED
+KUED	digitalSubChannel	7.2 KUED World
+KUED	digitalSubChannel	7.3 v-me
+KUEN	digitalSubChannel	9.1 UEN-TV
+KUEN	digitalSubChannel	9.2 MHz Worldview
+KUEN	digitalSubChannel	9.91 KUER (Radio)
+WMC-TV	digitalSubChannel	5.1 NBC
+WMC-TV	digitalSubChannel	5.2 Action News 5 Weather Plus
+WMC-TV	digitalSubChannel	5.3 This TV
+KSWB-TV	digitalSubChannel	69.1 Fox
+KSWB-TV	digitalSubChannel	69.2 Antenna TV
+KSWB-TV	digitalSubChannel	69.3 This TV
+WHBQ-TV	digitalSubChannel	13.1 Fox
+WREG-TV	digitalSubChannel	3.1 CBS HD
+WREG-TV	digitalSubChannel	3.2 NewsChannel 3 Anytime
+WREG-TV	digitalSubChannel	3.3 Antenna TV
+MHz Networks	digitalSubChannel	(see article)
+KADN-TV	digitalSubChannel	15.1 Fox
+KADN-TV	digitalSubChannel	15.2 MyNetworkTV (KLAF-LP)
+KUCW	digitalSubChannel	30.1 The CW
+KUCW	digitalSubChannel	30.2 The Country Network
+KGNS-TV	digitalSubChannel	8.1 NBC
+KGNS-TV	digitalSubChannel	8.2 The CW
+KGNS-TV	digitalSubChannel	8.3 Telemundo
+KVTV	digitalSubChannel	13.1 CBS
+KAET	digitalSubChannel	See below
+KXLY-TV	digitalSubChannel	4.1 ABC
+KXLY-TV	digitalSubChannel	4.2 KXMN-LP (MyNetworkTV)
+KAIT	digitalSubChannel	8.1 ABC
+KAIT	digitalSubChannel	8.2 24-7 Weather
+KREM (TV)	digitalSubChannel	2.1 CBS
+KREM (TV)	digitalSubChannel	2.2 The Cool TV
+KHQ-TV	digitalSubChannel	6.1 NBC
+KHQ-TV	digitalSubChannel	6.2 SWX
+KSKN	digitalSubChannel	22.1 The CW, 22.2 Universal Sports
+WAGM-TV	digitalSubChannel	8.1 Fox
+WAGM-TV	digitalSubChannel	8.2 CBS
+WPTY-TV	digitalSubChannel	24.1 ABC
+WLMT	digitalSubChannel	30.1 The CW
+WLMT	digitalSubChannel	30.2 MyNetworkTV & RTV
+KTAZ	digitalSubChannel	39.1 Telemundo
+KTAZ	digitalSubChannel	39.2 Inmigrante TV
+WRCB	digitalSubChannel	3.1 NBC
+WRCB	digitalSubChannel	3.2 RTV
+WDEF-TV	digitalSubChannel	12.1 CBS
+WDEF-TV	digitalSubChannel	12.2 Tuff TV
+WTVC	digitalSubChannel	9.1 ABC
+WTVC	digitalSubChannel	9.2 This TV
+WFLI-TV	digitalSubChannel	53.1 The CW
+WFLI-TV	digitalSubChannel	53.2 MeTV
+WDSI-TV	digitalSubChannel	61.1 Fox
+WDSI-TV	digitalSubChannel	61.2 MyNetworkTV
+WFOR-TV	digitalSubChannel	4.1 CBS
+WISC-TV	digitalSubChannel	3.1 CBS
+WISC-TV	digitalSubChannel	3.2 MyNetworkTV
+KAPP	digitalSubChannel	35.1 ABC-HD
+KAPP	digitalSubChannel	35.2 KXMN-LP (MyNetworkTV)
+KTRE	digitalSubChannel	9.1 ABC HD
+KTRE	digitalSubChannel	9.2 Telemundo
+KTRE	digitalSubChannel	9.3 ABC SD
+KIMA-TV	digitalSubChannel	29.1 CBS
+KIMA-TV	digitalSubChannel	29.2 The CW
+KSLA	digitalSubChannel	12.1 CBS
+KSLA	digitalSubChannel	12.2 This TV
+KSLA	digitalSubChannel	12.3 Stormtracker 12 WX
+WABI-TV	digitalSubChannel	5.1 CBS
+WABI-TV	digitalSubChannel	5.2 The CW
+WJRT-TV	digitalSubChannel	(see article)
+WRTV	digitalSubChannel	6.1 ABC
+WRTV	digitalSubChannel	6.2 Hometown Sports and News
+KTXT-TV	digitalSubChannel	5.1 PBS
+KTXT-TV	digitalSubChannel	5.3 PBS-HD
+WTTV	digitalSubChannel	4.1/29.1 The CW
+WTTV	digitalSubChannel	4.2/29.2 This TV
+KMPH-TV	digitalSubChannel	26.1 Fox HD
+KMPH-TV	digitalSubChannel	26.2 This TV-SD
+KUAM-TV	digitalSubChannel	8.1 NBC
+KUAM-TV	digitalSubChannel	8.2 CBS (KUAM-LP)
+WPFO	digitalSubChannel	23.1 Fox
+WTVR-TV	digitalSubChannel	6.1 CBS
+WTVR-TV	digitalSubChannel	6.2 Antenna TV
+WTVR-TV	digitalSubChannel	6.3 CBS6 Xtra
+WCIA	digitalSubChannel	3.1 CBS
+WCIA	digitalSubChannel	3.2 MyNetworkTV
+WCFN	digitalSubChannel	49.1 MyNetworkTV
+WCFN	digitalSubChannel	49.2 CBS
+KJLA	digitalSubChannel	(see below)
+KUPX-TV	digitalSubChannel	16.1: ION Television
+KUPX-TV	digitalSubChannel	16.2: Qubo
+KUPX-TV	digitalSubChannel	16.3: ION Life
+KQEH	digitalSubChannel	54.1 KQEH SD
+KQEH	digitalSubChannel	54.2 KQED SD
+KQEH	digitalSubChannel	54.3 KQED Life
+KQEH	digitalSubChannel	54.4 KQED Kids
+KQEH	digitalSubChannel	54.5 V-me
+WBDT	digitalSubChannel	26.1 The CW HD
+KCSG	digitalSubChannel	14.1 Retro Television Network
+KCSG	digitalSubChannel	14.2 My Family TV
+KCSG	digitalSubChannel	14.3 Local Info/Music
+KELO-TV	digitalSubChannel	x.1 CBS
+KELO-TV	digitalSubChannel	x.2 (except KCLO) MNTV/Sportsman
+KELO-TV	digitalSubChannel	x.3 (KCLO 15.2) Weather
+KXAN-TV	digitalSubChannel	36.1 NBC
+WPEC	digitalSubChannel	12.1 CBS
+WPEC	digitalSubChannel	12.2 Hola TV
+WPEC	digitalSubChannel	12.3 local weather
+WCCT-TV	digitalSubChannel	20.1 The CW
+WCCT-TV	digitalSubChannel	20.2 This TV
+WVUE-DT	digitalSubChannel	8.1 WVUE / Fox HD
+WVUE-DT	digitalSubChannel	8.2 RTV
+WISH-TV	digitalSubChannel	8.1 CBS
+WISH-TV	digitalSubChannel	8.2 local weather
+WISH-TV	digitalSubChannel	8.3 weather radar
+WBGU-TV	digitalSubChannel	27.1 PBS
+WBGU-TV	digitalSubChannel	27.2 Kids and Encore
+WBGU-TV	digitalSubChannel	27.3 Create
+WJCL (TV)	digitalSubChannel	22.1 ABC
+WTGS	digitalSubChannel	28.1 Fox
+WGSA (TV)	digitalSubChannel	34.1 The CW
+WGSA (TV)	digitalSubChannel	34.2 The CW Plus
+WGSA (TV)	digitalSubChannel	34.3 Universal Sports
+WGSA (TV)	digitalSubChannel	34.4 Telemundo
+WDSU	digitalSubChannel	6.1 WDSU / NBC HD
+WDSU	digitalSubChannel	6.2 WDSU eXact Weather, News & Traffic
+WGNO	digitalSubChannel	26.1 ABC
+WGNO	digitalSubChannel	26.2 Antenna TV
+WNOL-TV	digitalSubChannel	38.1 CW
+WNOL-TV	digitalSubChannel	38.2 This TV
+WSMV-TV	digitalSubChannel	4.1 NBC
+WSMV-TV	digitalSubChannel	4.2 On-Air with No Programming
+WSFL-TV	digitalSubChannel	39.1 - The CW
+WSFL-TV	digitalSubChannel	39.2 - Azteca America
+WSFL-TV	digitalSubChannel	39.3 - Antenna TV
+WSFL-TV	digitalSubChannel	39.4 - This TV
+WBFS-TV	digitalSubChannel	33.1 MyNetworkTV
+WAMI-DT	digitalSubChannel	69.1 Telefutura
+KTWO-TV	digitalSubChannel	2.1 KTWO / ABC
+KLWY	digitalSubChannel	27.1 KLWY
+KLWY	digitalSubChannel	27.2 KTWO
+KGWN-TV	digitalSubChannel	KGWN:
+KGWN-TV	digitalSubChannel	5.1 CBS HD (PSIP)
+KGWN-TV	digitalSubChannel	5.2 CBS SD (PSIP)
+KGWN-TV	digitalSubChannel	KSTF: 10.1 CBS SD (PSIP)
+WLUK-TV	digitalSubChannel	11.1 Fox
+WCWF	digitalSubChannel	14.1 The CW
+WKRN-TV	digitalSubChannel	2.1 ABC
+WKRN-TV	digitalSubChannel	2.2 Nashville WX Channel
+WNPT (TV)	digitalSubChannel	8.1 PBS
+WNPT (TV)	digitalSubChannel	8.2 Npt2
+WTVF	digitalSubChannel	5.1 CBS
+WTVF	digitalSubChannel	5.2 Independent
+WTVF	digitalSubChannel	5.3 This TV
+WPXX-TV	digitalSubChannel	50.1 ION TV
+WPXX-TV	digitalSubChannel	50.2 qubo
+WPXX-TV	digitalSubChannel	50.3 Life
+KCCI	digitalSubChannel	8.1 CBS
+KCCI	digitalSubChannel	8.2 MeTV
+WLLA	digitalSubChannel	64.1 FamilyNet
+WLLA	digitalSubChannel	64.2 Retro Television Network
+WLLA	digitalSubChannel	64.3 My Family TV
+KFVS-TV	digitalSubChannel	12.1 CBS
+KFVS-TV	digitalSubChannel	12.2 The CW
+KFVS-TV	digitalSubChannel	12.3 local weather
+WATE-TV	digitalSubChannel	6.1 ABC
+WATE-TV	digitalSubChannel	6.2 The Country Network
+WBIR-TV	digitalSubChannel	10.1 NBC
+WBIR-TV	digitalSubChannel	10.2 NBC Plus
+WBPX-TV	digitalSubChannel	68.1 ION
+WBPX-TV	digitalSubChannel	68.2 Qubo
+WBPX-TV	digitalSubChannel	68.3 ION Life
+WXFT-DT	digitalSubChannel	60.1 TeleFutura HD
+WXFT-DT	digitalSubChannel	60.2 TeleFutura SD
+WGBO-DT	digitalSubChannel	66.1 Univisi\u00F3n
+WFMJ-TV	digitalSubChannel	21.1 NBC
+WFMJ-TV	digitalSubChannel	21.2 The CW
+WPTD	digitalSubChannel	16.1 PBS HD
+WPTD	digitalSubChannel	16.2 Again
+WPTD	digitalSubChannel	16.3 Life
+WPTD	digitalSubChannel	16.4 Ohio Channel
+WPTD	digitalSubChannel	16.5 PBS
+WPTD  WPTO   1	digitalSubChannel	14.1 PBS HD
+WPTD  WPTO   1	digitalSubChannel	14.2 Prime
+WPTD  WPTO   1	digitalSubChannel	14.3 Learn/PBS Kids
+WPTD  WPTO   1	digitalSubChannel	14.4 PBS World/Ohio Channel
+WPTD  WPTO   1	digitalSubChannel	14.5 PBS
+KOFY-TV	digitalSubChannel	20.1 KOFY
+KOFY-TV	digitalSubChannel	20.4 Azteca Am\u00E9rica
+WRDQ	digitalSubChannel	27.1 Independent
+WRDQ	digitalSubChannel	27.2 RTV
+WOPX-TV	digitalSubChannel	56.1 Ion
+WPBN-TV	digitalSubChannel	7.1/4.1 NBC
+WPBN-TV	digitalSubChannel	7.2/4.2 ABC
+WVIT	digitalSubChannel	30.1 NBC
+WVIT	digitalSubChannel	30.2 NBC Plus
+WVIT	digitalSubChannel	30.3 Universal Sports
+WFYI (TV)	digitalSubChannel	20.1 WFYI 1
+WFYI (TV)	digitalSubChannel	20.2 WFYI 2
+WFYI (TV)	digitalSubChannel	20.3 WFYI 3
+WNDY-TV	digitalSubChannel	23.1 MyNetworkTV23.2 TheCoolTV
+WEAU-TV	digitalSubChannel	13.1 NBC
+WEAU-TV	digitalSubChannel	13.2  24/7 Weather
+WORA-TV	digitalSubChannel	5.1 Univision
+WORA-TV	digitalSubChannel	5.2 Local programming
+KFTH-DT	digitalSubChannel	67.1 TeleFutura
+KFTH-DT	digitalSubChannel	36.2 Univisi\u00F3n
+KUBE-TV	digitalSubChannel	57.1 Independent
+KUBE-TV	digitalSubChannel	57.2 La Mera TV
+KUBE-TV	digitalSubChannel	57.3 BYN
+KUBE-TV	digitalSubChannel	57.4 PegasusTV
+KUBE-TV	digitalSubChannel	57.5 MeTV
+WVPX-TV	digitalSubChannel	23.1 Ion TV
+WVPX-TV	digitalSubChannel	23.2 qubo
+WVPX-TV	digitalSubChannel	23.3 Life
+KXGN-TV	digitalSubChannel	5.1 CBS (through
+KXGN-TV	digitalSubChannel	Montana Television Network)
+KXGN-TV	digitalSubChannel	5.2 NBC
+WINP-TV	digitalSubChannel	16.1 ShopNBC
+WINP-TV	digitalSubChannel	16.2 ION
+WINP-TV	digitalSubChannel	16.3 qubo
+WINP-TV	digitalSubChannel	16.4 Life
+WQHS-DT	digitalSubChannel	61.1 Univision (1080i)
+WQHS-DT	digitalSubChannel	airdate                  = January 13, 1981
+KPXD-TV	digitalSubChannel	68.1 Main KPXD Feed
+KPXD-TV	digitalSubChannel	68.2 qubo
+KPXD-TV	digitalSubChannel	68.3 ION Life
+KNVA	digitalSubChannel	54.1 The CW
+KNVA	digitalSubChannel	54.2 theCoolTV
+WYES-TV	digitalSubChannel	12.1 PBS
+WYES-TV	digitalSubChannel	12.2 Local Programming
+WYES-TV	digitalSubChannel	12.3 Create
+WJW (TV)	digitalSubChannel	8.1 Fox
+WJW (TV)	digitalSubChannel	8.2 Antenna TV
+WALB	digitalSubChannel	10.1 NBC
+WALB	digitalSubChannel	10.2 ABC
+WUVN	digitalSubChannel	18.1 Univision HD
+WUVN	digitalSubChannel	18.2 WHTX (Univision SD)
+WUVN	digitalSubChannel	18.3 WUTH-CA (Telefutura)
+WUVN	digitalSubChannel	18.4 LATV
+WAND	digitalSubChannel	17.1 NBC
+WAND	digitalSubChannel	17.2 Local Weather
+WBUI	digitalSubChannel	23.1 The CW
+WBUI	digitalSubChannel	23.2 This TV
+WRSP-TV	digitalSubChannel	55.1/27.1 Fox
+WRSP-TV	digitalSubChannel	27.2 descriptive video service
+KCRG-TV	digitalSubChannel	9.1 ABC-HD
+KCRG-TV	digitalSubChannel	9.2 \
+KWWL (TV)	digitalSubChannel	7.1 NBC-HD
+KWWL (TV)	digitalSubChannel	7.2 This TV
+KWWL (TV)	digitalSubChannel	7.3 MeTV
+WFIE	digitalSubChannel	14.1 NBC
+WFIE	digitalSubChannel	14.2 local news
+WFIE	digitalSubChannel	& weather
+WFIE	digitalSubChannel	14.3 This TV
+WSIL-TV	digitalSubChannel	3.1/15.1 ABC HD
+WSIL-TV	digitalSubChannel	3.2/15.2 ABC SD
+WTHI-TV	digitalSubChannel	10.1 CBS
+WTHI-TV	digitalSubChannel	10.2 theCoolTV
+WTHI-TV	digitalSubChannel	10.3 Storm Team 10 Fury Radar/WXK72 weather radio audio
+WMGM-TV	digitalSubChannel	40.1 NBC
+WFXW	digitalSubChannel	38.1 Fox
+WJFW-TV	digitalSubChannel	12.1 NBC
+WJFW-TV	digitalSubChannel	12.2 Antenna TV
+KFXB-TV	digitalSubChannel	40.1 CTN
+KFXA	digitalSubChannel	28.1 Fox HD
+KFXA	digitalSubChannel	28.2 The Country Network SD
+WKBT-DT	digitalSubChannel	8.1 CBS
+WKBT-DT	digitalSubChannel	8.2 MyNetworkTV
+WLAX	digitalSubChannel	WLAX:
+WLAX	digitalSubChannel	25.1 Fox (HD)
+WLAX	digitalSubChannel	25.2 NBC (SD)
+WLAX	digitalSubChannel	WEUX:
+WLAX	digitalSubChannel	48.1 Fox (HD)
+WLAX	digitalSubChannel	48.2 Fox (SD)
+KRCW-TV	digitalSubChannel	32.1 The CW
+KRCW-TV	digitalSubChannel	32.2 Antenna TV
+KRCW-TV	digitalSubChannel	32.3 Universal Sports
+WPXL-TV	digitalSubChannel	49.1 WPXL / ion HD
+WPXL-TV	digitalSubChannel	49.2 qubo
+WPXL-TV	digitalSubChannel	49.3 ion life
+WHNO	digitalSubChannel	20.1 WHNO Main
+WHNO	digitalSubChannel	20.2 WHT
+WBUW	digitalSubChannel	57.1
+WKBN-TV	digitalSubChannel	27.1 CBS
+WKBN-TV	digitalSubChannel	27.2 Fox
+WYTV	digitalSubChannel	33.1 ABC
+WYTV	digitalSubChannel	33.2 MyNetworkTV
+WYTV	digitalSubChannel	33.3 local weather
+WOLE-DT	digitalSubChannel	12.1 Telemundo
+WOLE-DT	digitalSubChannel	12.2 Punto 2
+WMBD-TV	digitalSubChannel	31.1 (PSIP)
+WPSD-TV	digitalSubChannel	6.1 NBC
+WPSD-TV	digitalSubChannel	6.2 RTV
+WPSD-TV	digitalSubChannel	6.3 local weather
+KWCH-DT	digitalSubChannel	(see article)
+KAKE	digitalSubChannel	(see article)
+KSAS-TV	digitalSubChannel	(see article)
+KSCW-DT	digitalSubChannel	(see article)
+KMTW	digitalSubChannel	36.1 MyNetworkTV
+KMTW	digitalSubChannel	36.2 The Country Network
+KIVI-TV	digitalSubChannel	6.1 ABC
+KIVI-TV	digitalSubChannel	6.2 Mexicanal
+KIVI-TV	digitalSubChannel	6.3 TheCoolTV
+KTRV-TV	digitalSubChannel	12.1 Fox
+KTRV-TV	digitalSubChannel	12.2 MyNetworkTV & This TV
+KWSU-TV	digitalSubChannel	10.1 KWSU PBS-SD
+KWSU-TV	digitalSubChannel	10.2 Research Channel
+KWSU-TV	digitalSubChannel	31.1 PBS-HD
+KWSU-TV	digitalSubChannel	31.2 KTNW PBS-SD
+KWSU-TV	digitalSubChannel	31.3 KTNW MHz Worldview
+KNDO	digitalSubChannel	23.1 NBC
+KNDO	digitalSubChannel	23.3 SWX Right Now
+KNDU	digitalSubChannel	25.1 NBC-HD
+KNDU	digitalSubChannel	25.3 SWX Right Now
+KINT-TV	digitalSubChannel	26.1 Univision HD 1080i
+KINT-TV	digitalSubChannel	26.2 (65.1) KTFN/ Telefutura SD 480i
+KINT-TV	digitalSubChannel	26.3 LATV SD 480i
+KTFN	digitalSubChannel	65.1 TeleFutura HD 1080i
+KTFN	digitalSubChannel	65.2 TeleFutura SD 480i
+KTFN	digitalSubChannel	65.3 LATV SD 480i
+KLJB	digitalSubChannel	18.1 Fox
+KLJB	digitalSubChannel	18.2 The CW
+KLJB	digitalSubChannel	18.3 This TV
+KOTA-TV	digitalSubChannel	3.1 ABC
+KOTA-TV	digitalSubChannel	3.2 RTV
+KOTA-TV	digitalSubChannel	3.3 This TV
+KEVN-TV	digitalSubChannel	7.1/5.1 Fox
+KNBN	digitalSubChannel	21.1 NBC (HDTV)
+KNBN	digitalSubChannel	21.2 KWBH-LP (The CW)
+KNBN	digitalSubChannel	21.3 RTN/MNT
+KESQ-TV	digitalSubChannel	42.1 ABC
+KESQ-TV	digitalSubChannel	33.2 Fox
+KESQ-TV	digitalSubChannel	15.1 Telemundo
+KESQ-TV	digitalSubChannel	2.3 The CW
+KESQ-TV	digitalSubChannel	42.2 AccuWeather
+KARK-TV	digitalSubChannel	4.1 NBC
+KTHV	digitalSubChannel	11.1 CBS
+KTHV	digitalSubChannel	11.2 THV2
+KLRT-TV	digitalSubChannel	16.1 Fox
+KLRT-TV	digitalSubChannel	16.2 TheCoolTV
+KASN	digitalSubChannel	38.1 The CW
+KASN	digitalSubChannel	38.2 The Country Network
+KCSM-TV	digitalSubChannel	60.1 KCSM-TV
+KCSM-TV	digitalSubChannel	60.2 MHz Worldview
+KCSM-TV	digitalSubChannel	60.3 JazzTV simulcast of KCSM-FM
+WVNY	digitalSubChannel	22.1 ABC
+WFFF-TV	digitalSubChannel	44.1 Fox
+WFFF-TV	digitalSubChannel	44.2 The CW
+WHIZ-TV	digitalSubChannel	18.1 NBC
+WPRI-TV	digitalSubChannel	12.1 CBS
+WPRI-TV	digitalSubChannel	12.2 TheCoolTV
+WUPW	digitalSubChannel	36.1 Fox HD
+WUPW	digitalSubChannel	36.2 TheCoolTV
+WBSF	digitalSubChannel	46.1 The CW
+WBSF	digitalSubChannel	46.2 NBC
+WWTV	digitalSubChannel	9.1 / 10.1 CBS
+WWTV	digitalSubChannel	9.2 / 10.2 FOX
+WGTU	digitalSubChannel	29.1/8.1 ABC
+WGTU	digitalSubChannel	29.2/8.2 NBC
+KMTP-TV	digitalSubChannel	32.1 KMTP Digital
+KMTP-TV	digitalSubChannel	32.2 The World Network
+KMTP-TV	digitalSubChannel	32.4 Wedding Network
+KMTP-TV	digitalSubChannel	32.5 NTD TV
+WPXT	digitalSubChannel	51.1 The CW
+WPXT	digitalSubChannel	51.2 MeTV
+WINK-TV	digitalSubChannel	11.1 CBS
+KDTV-DT	digitalSubChannel	14.1 KDTV
+KDTV-DT	digitalSubChannel	14.2 KFSF (Telefutura)
+WFTX-TV	digitalSubChannel	36.1 Fox
+WFTX-TV	digitalSubChannel	36.2 LATV
+WZVN-TV	digitalSubChannel	26.1 ABC HD
+WZVN-TV	digitalSubChannel	26.2 MeTV
+WBBH-TV	digitalSubChannel	20.1 NBC
+WBBH-TV	digitalSubChannel	20.2 NBC 2 News Now (local news and weather)
+WHO-DT	digitalSubChannel	13.1: NBC
+WHO-DT	digitalSubChannel	13.2: Weather
+WHO-DT	digitalSubChannel	13.3: Antenna TV
+WOI-DT	digitalSubChannel	5.1 ABC HD
+WOI-DT	digitalSubChannel	5.2 RTN
+KCWI-TV	digitalSubChannel	23.1 CW
+WOAY-TV	digitalSubChannel	50.1 ABC (HD)
+WOAY-TV	digitalSubChannel	50.2 ABC (SD)
+KKPX-TV	digitalSubChannel	65.1 Ion TV
+KKPX-TV	digitalSubChannel	65.2 qubo
+KKPX-TV	digitalSubChannel	65.3 ION Life
+WOSU-TV	digitalSubChannel	34.1 PBS-HD
+WOSU-TV	digitalSubChannel	34.2 Ohio Channel
+WOSU-TV	digitalSubChannel	34.3  WOSU Plus
+KCTV	digitalSubChannel	5.1 CBS
+KMBC-TV	digitalSubChannel	9.1 ABC
+KMBC-TV	digitalSubChannel	9.2 MeTV
+KSHB-TV	digitalSubChannel	41.1 NBC
+KSHB-TV	digitalSubChannel	41.2 Action WeatherPlus
+KSHB-TV	digitalSubChannel	41.3 Live Well Network (as of Sept. 2011)
+KSMO-TV	digitalSubChannel	62.1 MyNetworkTV
+KCWE	digitalSubChannel	29.1 The CW
+KCWE	digitalSubChannel	29.2 This TV
+KMCI-TV	digitalSubChannel	(see section)
+KPXE-TV	digitalSubChannel	50.1 ION Television
+KPXE-TV	digitalSubChannel	50.2 qubo
+KPXE-TV	digitalSubChannel	50.3 ION Life
+WDAF-TV	digitalSubChannel	4.1 WDAF / Fox HD
+WDAF-TV	digitalSubChannel	4.2 Antenna TV
+WLAE-TV	digitalSubChannel	32.1 WLAE Main
+WLAE-TV	digitalSubChannel	32.2 LPB2/MHz
+WLAE-TV	digitalSubChannel	32.3 V-me
+WNYB	digitalSubChannel	26.1 TCT SD
+WNYB	digitalSubChannel	26.2 TCT HD
+WNYB	digitalSubChannel	26.3 TCT Family
+WNYB	digitalSubChannel	26.4 La Fuente
+WNGS	digitalSubChannel	67.1 This TV
+WNGS	digitalSubChannel	67.2 This TV
+WNGS	digitalSubChannel	67.3 (test pattern)
+WNGS	digitalSubChannel	67.4 Daystar
+WNLO	digitalSubChannel	23.1 The CW
+WSFX-TV	digitalSubChannel	26.1 Fox
+WSFX-TV	digitalSubChannel	26.2 This TV
+WYFF	digitalSubChannel	4.1 NBC
+WYFF	digitalSubChannel	4.2 This TV
+WYCW	digitalSubChannel	62.1 The CW
+WYCW	digitalSubChannel	62.2 CBS
+WLFL	digitalSubChannel	22.1 The CW
+WLFL	digitalSubChannel	22.2 The Country Network
+WTVX	digitalSubChannel	34.1 The CW (2006-Present)
+WTVX	digitalSubChannel	34.2 Azteca America
+WTVX	digitalSubChannel	34.3 MyNetworkTV
+WTVX	digitalSubChannel	34.4 LATV
+WCTV	digitalSubChannel	6.1 CBS
+WCTV	digitalSubChannel	6.2 MyNetworkTV (Primary)  ThisTV (Secondary)
+WTLH	digitalSubChannel	49.1 Fox
+WTLH	digitalSubChannel	49.2 The CW
+WTLH	digitalSubChannel	49.3 MeTV
+WHME-TV	digitalSubChannel	46.1 LeSEA
+Western Reserve Public Media	digitalSubChannel	45.1/49.1 WNEO/WEAO HD
+Western Reserve Public Media	digitalSubChannel	45.2/49.2 Fusion
+Western Reserve Public Media	digitalSubChannel	45.3/49.3 MHz Worldview
+Western Reserve Public Media	digitalSubChannel	45.4/49.4 V-me
+WPXD-TV	digitalSubChannel	(see article)
+KFSF-DT	digitalSubChannel	66.1 KFSF (Telefutura)
+KFSF-DT	digitalSubChannel	66.2 KDTV (Univisi\u00F3n)
+KTTU (TV)	digitalSubChannel	18.1 MyTV
+KTTU (TV)	digitalSubChannel	18.2 Estrella TV
+KMSB	digitalSubChannel	11.1 Fox
+KMSB	digitalSubChannel	11.2 This TV
+KHRR	digitalSubChannel	40.1 Telemundo
+WAVY-TV	digitalSubChannel	10.1 NBC
+WHRO-TV	digitalSubChannel	15.1 PBS
+WHRO-TV	digitalSubChannel	15.2 PBS World
+WHRO-TV	digitalSubChannel	15.3 PBS Kids
+WHRO-TV	digitalSubChannel	Create (Cox/Verizon only)
+WGNT	digitalSubChannel	27.1 The CW
+WGNT	digitalSubChannel	27.2 Antenna TV
+WVBT	digitalSubChannel	43.1 Fox
+KTUL	digitalSubChannel	8.1 ABC
+KTUL	digitalSubChannel	8.2 Weather
+KTUL	digitalSubChannel	8.3 RTV
+WRLH-TV	digitalSubChannel	35.1 Fox
+WRLH-TV	digitalSubChannel	35.2 MyNetworkTV &
+WRLH-TV	digitalSubChannel	This TV
+WRLH-TV	digitalSubChannel	35.3 TheCoolTV
+WUPV	digitalSubChannel	65.1 The CW
+WRIC-TV	digitalSubChannel	8.1 ABC
+WRIC-TV	digitalSubChannel	8.2 The Country Network
+WKCF	digitalSubChannel	18.1 The CW
+WKCF	digitalSubChannel	18.2 This TV
+WKCF	digitalSubChannel	18.3 Estrella TV
+WVEN-TV	digitalSubChannel	26.1- WVEN-HD Univision
+WVEN-TV	digitalSubChannel	26.2- WOTF SD TeleFutura
+WSJU-TV	digitalSubChannel	31.1 Mega TV
+WSJU-TV	digitalSubChannel	31.2 PlayTV
+WSJU-TV	digitalSubChannel	31.3 Megavision
+WGAL	digitalSubChannel	8.1 NBC
+WGAL	digitalSubChannel	8.2 This TV
+WGBY-TV	digitalSubChannel	57.1 PBS
+WGBY-TV	digitalSubChannel	57.2 PBS World
+WGBY-TV	digitalSubChannel	57.3 PBS Kids
+WGBY-TV	digitalSubChannel	57.4 Create
+KBTX-TV	digitalSubChannel	3.1 CBS
+KBTX-TV	digitalSubChannel	3.2 The CW
+WWDP	digitalSubChannel	46.1 ShopNBC
+WMFP	digitalSubChannel	62.1 RTV
+WUTF-DT	digitalSubChannel	66.1 TeleFutura
+WBIN-TV	digitalSubChannel	50.1 MyNetworkTV
+WBIN-TV	digitalSubChannel	50.2 Universal Sports
+WLWC	digitalSubChannel	28.1 The CW
+WLWC	digitalSubChannel	28.2 LATV
+WTVM	digitalSubChannel	9.1 ABC
+WTVM	digitalSubChannel	9.2 Storm Team 9 Weather Now
+WQCW	digitalSubChannel	30.1 The CW
+WNAC-TV	digitalSubChannel	64.1 Fox
+WNAC-TV	digitalSubChannel	64.2 MyNetworkTV
+KWKB	digitalSubChannel	20.1 The CW-HD
+KWKB	digitalSubChannel	20.2 Antenna TV
+KCPT	digitalSubChannel	19.1 KCPT
+KCPT	digitalSubChannel	19.2 KCPT2
+KCPT	digitalSubChannel	19.3 Create
+WMTJ	digitalSubChannel	40.1 PBS
+WMTJ	digitalSubChannel	40.5 PBS HD
+KCBD	digitalSubChannel	11.1 NBC
+KCBD	digitalSubChannel	11.2 This TV
+WBRZ-TV	digitalSubChannel	2.1 ABC - HD
+WBRZ-TV	digitalSubChannel	2.2 WBRZ News Rebroadcast
+WBRZ-TV	digitalSubChannel	2.3 WBRZ Weather
+WPXJ-TV	digitalSubChannel	51.1 Ion TV
+WPXJ-TV	digitalSubChannel	51.2 qubo
+WPXJ-TV	digitalSubChannel	51.3 ION Life
+KOMU-TV	digitalSubChannel	8.1 NBC
+KOMU-TV	digitalSubChannel	8.2 Universal Sports
+KOMU-TV	digitalSubChannel	8.3 The CW
+WAFB	digitalSubChannel	9.1 CBS
+WAFB	digitalSubChannel	9.2 Local Weather
+WAFB	digitalSubChannel	9.4 MyNetworkTV
+KTAL-TV	digitalSubChannel	6.1 NBC-HD
+KTAL-TV	digitalSubChannel	6.2 NBC-SD
+WSHM-LD	digitalSubChannel	3.1 CBS (SD)
+WSHM-LD	digitalSubChannel	3.2 CBS (HD)
+WSHM-LD	digitalSubChannel	3.3 local weather
+WJPX	digitalSubChannel	24.1 CV Network
+WJPX	digitalSubChannel	24.2 Horse racing
+WBXX-TV	digitalSubChannel	20.1 The CW
+WSAH	digitalSubChannel	43.1 Infomercials & RTV
+WSAH	digitalSubChannel	43.2 Chinese
+KXXV	digitalSubChannel	25.1 ABC
+KXXV	digitalSubChannel	25.2 Telemundo
+KXXV	digitalSubChannel	25.3 25 Weather Now
+KFSN-TV	digitalSubChannel	(see article)
+WPME	digitalSubChannel	35.1 MyNetworkTV
+WPME	digitalSubChannel	35.2 local programming
+KGPE	digitalSubChannel	47.1 CBS
+KGPE	digitalSubChannel	47.2 Untamed Sports TV
+WHOI (TV)	digitalSubChannel	19.1 ABC
+WHOI (TV)	digitalSubChannel	19.2 The CW
+WDBD	digitalSubChannel	40.1 Fox
+WAPT (TV)	digitalSubChannel	16.1 ABC
+WAPT (TV)	digitalSubChannel	16.2 Weather radar
+WUFX	digitalSubChannel	35.1 MyNetworkTV
+WJTV	digitalSubChannel	12.1 CBS
+WJTV	digitalSubChannel	12.2 local weather
+WJTV	digitalSubChannel	12.3 RTV
+WTVG	digitalSubChannel	13.1 ABC
+WTVG	digitalSubChannel	13.2 Live Well  Network
+WTVG	digitalSubChannel	13.3 13 ABC Live Doppler 13000 HD
+WVLA-TV	digitalSubChannel	33.1 NBC-HD
+WVLA-TV	digitalSubChannel	33.2 This TV
+KTGM	digitalSubChannel	14.1 ABC
+KTGM	digitalSubChannel	14.2 Simulcast of KEQI-LP
+KGTF	digitalSubChannel	12.1 PBS
+KTNC-TV	digitalSubChannel	(see article)
+KOLD-TV	digitalSubChannel	(see article)
+WSBE-TV	digitalSubChannel	36.1 PBS, 36.2 LEARN
+WJBF	digitalSubChannel	6.1 ABC
+WJBF	digitalSubChannel	6.2 RTV
+WRDW-TV	digitalSubChannel	12.1 CBS
+WRDW-TV	digitalSubChannel	12.2 MyNetworkTV
+WRDW-TV	digitalSubChannel	12.3 The Country Network
+WAGT	digitalSubChannel	26.1 NBC
+WAGT	digitalSubChannel	26.2 The CW
+WOUB-TV	digitalSubChannel	20.1 WOUB-HD
+WOUB-TV	digitalSubChannel	20.2 Classic
+WOUB-TV	digitalSubChannel	20.3 Learns
+WOUB-TV	digitalSubChannel	44.1 WOUC-HD
+WOUB-TV	digitalSubChannel	44.2 Unlimited
+WOUB-TV	digitalSubChannel	44.3 Select
+KRNV-DT	digitalSubChannel	KRNV:
+KRNV-DT	digitalSubChannel	4.1 NBC
+KRNV-DT	digitalSubChannel	4.2 This TV
+KRNV-DT	digitalSubChannel	KENV:
+KRNV-DT	digitalSubChannel	10.1 NBC
+KRNV-DT	digitalSubChannel	10.2 Universal Sports
+WJMN-TV	digitalSubChannel	3.1 CBS
+WMFE-TV	digitalSubChannel	24.1-3 V-me
+WYZZ-TV	digitalSubChannel	43.1 Fox
+WYZZ-TV	digitalSubChannel	43.2 TheCoolTV
+WVXF	digitalSubChannel	17.1 Live Well Network
+KSBW	digitalSubChannel	8.1 NBC
+KSBW	digitalSubChannel	8.2 ABC
+WCLF	digitalSubChannel	22.1 CTN
+WCLF	digitalSubChannel	22.2 CTNi
+KPMR	digitalSubChannel	38.1 Univisi\u00F3n
+KPMR	digitalSubChannel	38.2 KTSB/TeleFutura
+WEEK-TV	digitalSubChannel	25.1 NBC
+WEEK-TV	digitalSubChannel	25.2 AccuWeather
+WDWO-CD	digitalSubChannel	18.1 TCT/Cornerstone Television
+WDWO-CD	digitalSubChannel	18.2 TCT HD
+WDWO-CD	digitalSubChannel	18.3 TCT Family (alternate programming)
+WDWO-CD	digitalSubChannel	18.4 La Fuente (Spanish-language religious programming)
+WLNS-TV	digitalSubChannel	6.1 CBS
+WLNS-TV	digitalSubChannel	6.2 The Country Network
+WPXQ-TV	digitalSubChannel	69.1 Ion TV
+WPXQ-TV	digitalSubChannel	69.2 qubo
+WPXQ-TV	digitalSubChannel	69.3 Life
+WILX-TV	digitalSubChannel	10.1 NBC
+WILX-TV	digitalSubChannel	10.2 AccuWeather
+WTOL	digitalSubChannel	11.1 CBS
+WTOL	digitalSubChannel	11.2 WTOL 11 News Now
+WGTE-TV	digitalSubChannel	30.1 PBS
+WGTE-TV	digitalSubChannel	30.2 Family
+WGTE-TV	digitalSubChannel	30.3 Create
+KCWQ-LP	digitalSubChannel	2.3 The CW (via The CW Plus)
+KECY-TV	digitalSubChannel	9.1 Fox (primary)
+KECY-TV	digitalSubChannel	MyNetworkTV (secondary)
+KECY-TV	digitalSubChannel	9.2 ABC
+KECY-TV	digitalSubChannel	9.3 The CW
+KECY-TV	digitalSubChannel	9.4 Telemundo
+KSWT	digitalSubChannel	13.1 CBS
+KSWT	digitalSubChannel	13.2 Universal Sports
+KSWT	digitalSubChannel	13.3 Estrella TV
+WSET-TV	digitalSubChannel	13.1 ABC
+WSET-TV	digitalSubChannel	13.2 RTV
+WSLS-TV	digitalSubChannel	10.1 NBC
+WSLS-TV	digitalSubChannel	10.2 Weather
+WSLS-TV	digitalSubChannel	10.3 MeTV
+KNAZ-TV	digitalSubChannel	2.1 NBC
+KSNV-DT	digitalSubChannel	3.1 NBC
+KSNV-DT	digitalSubChannel	3.2 Untamed Sports TV
+KSNV-DT	digitalSubChannel	3.3 Universal Sports
+WLAJ	digitalSubChannel	53.1 ABC
+WLAJ	digitalSubChannel	53.2 The CW
+WSYM-TV	digitalSubChannel	47.1 Fox
+WSYM-TV	digitalSubChannel	47.2 TheCoolTV
+KTVN	digitalSubChannel	2.1 CBS
+KTVN	digitalSubChannel	2.2 The AccuWeather Channel
+KLWB (TV)	digitalSubChannel	50.1 This TV
+KLWB (TV)	digitalSubChannel	50.2 MeTV
+WBOC-TV	digitalSubChannel	16.1 CBS
+WBOC-TV	digitalSubChannel	21.2 Fox
+KSTS	digitalSubChannel	48.1 Telemundo
+KRCB	digitalSubChannel	22.1 KRCB SD
+KRCB	digitalSubChannel	22.2 Create
+KTSF	digitalSubChannel	(see article)
+KBJR-TV	digitalSubChannel	KBJR subchannels
+KBJR-TV	digitalSubChannel	6.1 NBC
+KBJR-TV	digitalSubChannel	6.2 MyNetworkTV
+KBJR-TV	digitalSubChannel	KRII subchannels
+KBJR-TV	digitalSubChannel	11.1 NBC
+KBJR-TV	digitalSubChannel	11.2 The CW
+KBJR-TV	digitalSubChannel	11.3 CBS
+KBJR-TV	digitalSubChannel	11.9 MyNetworkTV
+KDLH	digitalSubChannel	3.1 CBS
+KDLH	digitalSubChannel	3.2 The CW
+WIPR-TV	digitalSubChannel	(see article)
+KNOP-TV	digitalSubChannel	2.1 NBC
+KNOP-TV	digitalSubChannel	2.2 The Country Network
+KNOP-TV	digitalSubChannel	(coming soon)
+KEYC-TV	digitalSubChannel	12.1 CBS
+KEYC-TV	digitalSubChannel	12.2 Fox
+KTVO	digitalSubChannel	3.1 ABC
+KTVO	digitalSubChannel	3.2 CBS
+WLUC-TV	digitalSubChannel	6.1 NBC
+WLUC-TV	digitalSubChannel	6.2 Fox (primary)
+WLUC-TV	digitalSubChannel	America One (secondary)
+WPTA	digitalSubChannel	21.1 ABC
+WPTA	digitalSubChannel	21.2 The CW
+WPTA	digitalSubChannel	21.3  Pinpoint VIPIR HD
+KIMT	digitalSubChannel	3.1 CBS
+KIMT	digitalSubChannel	3.2 MyNetworkTV
+KIMT	digitalSubChannel	3.3 local weather
+WDSC-TV	digitalSubChannel	15.1 Public television programming-HD
+WDSC-TV	digitalSubChannel	15.2 WDSC-ED (FL Channel)
+WDSC-TV	digitalSubChannel	15.3 WDSC-WV
+XEPM-TV	digitalSubChannel	2.1 TuCanal-HD Future
+XHJCI-TV	digitalSubChannel	32.1 Canal de las Estrellas-HD
+XHJCI-TV	digitalSubChannel	32.2 Canal de las Estrellas-SD
+WVEA-TV	digitalSubChannel	62.1 Univisi\u00F3n
+WVEA-TV	digitalSubChannel	62.2 LATV
+WTVW	digitalSubChannel	7.1 Independent/MeTV
+WMAZ-TV	digitalSubChannel	13.1 CBS
+WMAZ-TV	digitalSubChannel	13.3 Weather
+WGXA	digitalSubChannel	24.1 Fox
+WGXA	digitalSubChannel	24.2 ABC
+WMGT-TV	digitalSubChannel	41.1 NBC
+WMGT-TV	digitalSubChannel	41.2 MyNetworkTV
+WPGA-TV	digitalSubChannel	58.1 Ind.
+WPGA-TV	digitalSubChannel	58.2 This TV
+KYTV (TV)	digitalSubChannel	3.1 NBC
+KYTV (TV)	digitalSubChannel	3.2 local weather
+KOLR	digitalSubChannel	10.1 CBS
+KSPR	digitalSubChannel	33.1 ABC
+KSPR	digitalSubChannel	33.2 The CW
+WLEX-TV	digitalSubChannel	18.1 NBC
+WLEX-TV	digitalSubChannel	18.2 Wazoo Sports Network
+KJCT	digitalSubChannel	8.1 ABC
+KJCT	digitalSubChannel	8.2 Telemundo
+KJCT	digitalSubChannel	8.3 The CW
+WCAV	digitalSubChannel	19.1 CBS
+WCAV	digitalSubChannel	19.2 AccuWeather
+WCAV	digitalSubChannel	19.3 Fox
+WVAW-LD	digitalSubChannel	16.1 ABC
+WVAW-LD	digitalSubChannel	16.2 CBS
+WVIR-TV	digitalSubChannel	29.1 NBC
+WVIR-TV	digitalSubChannel	29.2 local weather
+WVIR-TV	digitalSubChannel	29.3 The CW
+WCYB-TV	digitalSubChannel	5.1 NBC
+WCYB-TV	digitalSubChannel	5.2 The CW
+KQCA	digitalSubChannel	58.1 MyNetworkTV/HD
+KQCA	digitalSubChannel	58.2 This TV
+KCPM (TV)	digitalSubChannel	27.1 MyNetworkTV
+WTVJ	digitalSubChannel	6.1 NBC
+WTVJ	digitalSubChannel	6.2 NBC Plus
+WTVJ	digitalSubChannel	6.3 Universal Sports
+WPCH-TV	digitalSubChannel	17.1 - Peachtree TV
+WNED-TV	digitalSubChannel	17.1 PBS-HD
+WNED-TV	digitalSubChannel	17.2 PBS
+WNED-TV	digitalSubChannel	17.3 ThinkBright
+WJHG-TV	digitalSubChannel	7.1 NBC
+WJHG-TV	digitalSubChannel	7.2 The CW
+WJHG-TV	digitalSubChannel	7.3 MyNetworkTV
+WJHG-TV	digitalSubChannel	7.4 WX
+WSTM-TV	digitalSubChannel	3.1 NBC
+WSTM-TV	digitalSubChannel	3.2 The CW
+WSTM-TV	digitalSubChannel	3.3 local weather
+WENY-TV	digitalSubChannel	36.1 ABC
+WENY-TV	digitalSubChannel	36.2 CBS
+WENY-TV	digitalSubChannel	36.3 The CW
+WETM-TV	digitalSubChannel	18.1 NBC
+WETM-TV	digitalSubChannel	18.2 Independent
+WNNE	digitalSubChannel	31.1 NBC
+WBKP	digitalSubChannel	5.1 The CW
+WBKP	digitalSubChannel	5.2 ABC
+WTVQ-DT	digitalSubChannel	36.1 ABC
+WTVQ-DT	digitalSubChannel	36.2 MyNetworkTV
+WTVQ-DT	digitalSubChannel	36.3 Local Weather
+WKYT-TV	digitalSubChannel	27.1 CBS
+WKYT-TV	digitalSubChannel	27.2 The CW
+WKYT-TV	digitalSubChannel	27.3 WX
+WYMT-TV	digitalSubChannel	57.1 CBS HD
+WYMT-TV	digitalSubChannel	57.2 CBS SD (WKYT feed)
+KQDS-TV	digitalSubChannel	21.1 Fox
+WDSE	digitalSubChannel	8.1/31.1 PBS/WPT HD
+WDSE	digitalSubChannel	8.2/31.2 2nd Chance PBS Delayed Schedule
+WDSE	digitalSubChannel	8.3/31.3 Create
+WDSE	digitalSubChannel	8.4/31.4 Minnesota Channel
+WBUP	digitalSubChannel	10.1 ABC
+WBUP	digitalSubChannel	10.2 The CW
+WPDE-TV	digitalSubChannel	15.1 ABC
+WPDE-TV	digitalSubChannel	15.2 local weather
+KTXS-TV	digitalSubChannel	12.1 ABC
+KTXS-TV	digitalSubChannel	12.2 CW
+KTXS-TV	digitalSubChannel	12.3 This TV
+KGET-TV	digitalSubChannel	17.1 NBC
+KGET-TV	digitalSubChannel	17.2 The CW
+KGET-TV	digitalSubChannel	17.3 Telemundo
+KIDK	digitalSubChannel	3.1 CBS
+KIDK	digitalSubChannel	3.2 MyNetworkTV
+KPVI-DT	digitalSubChannel	6.1 NBC
+KPVI-DT	digitalSubChannel	6.2 Universal Sports
+KPVI-DT	digitalSubChannel	6.3 This TV
+KFXP	digitalSubChannel	31.1 Fox TV
+WISE-TV	digitalSubChannel	33.1 NBC
+WISE-TV	digitalSubChannel	33.2 MyNetworkTV
+WVLT-TV	digitalSubChannel	8.1 CBS
+WVLT-TV	digitalSubChannel	8.2 MyNetworkTV
+WLGA	digitalSubChannel	66.1 Ind.
+KLSR-TV	digitalSubChannel	34.1 Fox HD
+KLSR-TV	digitalSubChannel	34.2 KEVU (My Network TV)
+WBKB-TV	digitalSubChannel	11.1 CBS
+WBKB-TV	digitalSubChannel	11.2 Fox (primary)
+WBKB-TV	digitalSubChannel	MyNetworkTV (secondary)
+WJHL-TV	digitalSubChannel	11.1 CBS
+WJHL-TV	digitalSubChannel	11.2 local weather
+KFSM-TV	digitalSubChannel	5.1 CBS
+KFSM-TV	digitalSubChannel	5.2 MyNetworkTV
+KNWA-TV	digitalSubChannel	51.1 NBC
+KNWA-TV	digitalSubChannel	51.2 Fox
+WHTM-TV	digitalSubChannel	27.1 ABC
+WHTM-TV	digitalSubChannel	27.2 RTV
+WHTM-TV	digitalSubChannel	27.3 AccuWeather
+WTXL-TV	digitalSubChannel	27.1 ABC
+WTXL-TV	digitalSubChannel	27.2 AccuWX
+WKPT-TV	digitalSubChannel	19.1 ABC
+WKPT-TV	digitalSubChannel	19.2 MyNetworkTV
+WKPT-TV	digitalSubChannel	19.3 RTV
+KDLT-TV	digitalSubChannel	46.1/5.1 NBC
+KDLT-TV	digitalSubChannel	46.2/5.2 Universal Sports
+WLTX	digitalSubChannel	19.1 CBS HD
+WLTX	digitalSubChannel	19.3 Weather
+KTTW	digitalSubChannel	7.1/12.1 Fox (HDTV)
+KTTW	digitalSubChannel	7.2/12.2 This TV
+KSFY-TV	digitalSubChannel	13.1 ABC
+WMDT	digitalSubChannel	47.1 ABC
+WMDT	digitalSubChannel	47.2 The CW
+WDAY-TV	digitalSubChannel	6.1 ABC HD6.2 The CW
+WDAY-TV	digitalSubChannel	6.3 Storm Tracker/WDAY Radio audio
+KULR-TV	digitalSubChannel	8.1/3.1 NBC
+KULR-TV	digitalSubChannel	8.2/3.2 AccuWeather
+KDEN-TV	digitalSubChannel	25.1 Telemundo
+KHMT	digitalSubChannel	4.1 Fox
+KSVI	digitalSubChannel	6.1 ABC
+KWBM	digitalSubChannel	31.1 Daystar
+KWBM	digitalSubChannel	31.2 RTN
+KCAU-TV	digitalSubChannel	9.1 ABC-HD
+KCAU-TV	digitalSubChannel	9.2 AccuWeather
+KACV-TV	digitalSubChannel	2.1 PBS-HD
+KACV-TV	digitalSubChannel	2.2 V-me
+WORO-DT	digitalSubChannel	13.1 Independent
+WPMT	digitalSubChannel	see article
+WTVP	digitalSubChannel	47.1 PBS
+WTVP	digitalSubChannel	47.2 PBS World
+WTVP	digitalSubChannel	47.3 Create
+WRBJ (TV)	digitalSubChannel	34.1 The CW
+KHBS	digitalSubChannel	40.1/29.1 ABC
+KHBS	digitalSubChannel	40.2/29.2 The CW
+KCIT	digitalSubChannel	14.1 Fox
+KCIT	digitalSubChannel	14.2 This TV
+WTAJ-TV	digitalSubChannel	10.1 CBS
+KXII	digitalSubChannel	12.1 CBS
+KXII	digitalSubChannel	12.2 MyNetworkTV
+KXII	digitalSubChannel	12.3 Fox
+WYGA-LD	digitalSubChannel	16.1 - Mexicanal
+WYGA-LD	digitalSubChannel	16.2 - blank
+WYGA-LD	digitalSubChannel	16.3 - Retro TV
+KFDA-TV	digitalSubChannel	10.1 CBS
+KFDA-TV	digitalSubChannel	10.2 News Channel 10 Too
+KFDA-TV	digitalSubChannel	10.3 Telemundo
+KFDA-TV	digitalSubChannel	10.4 LATV
+KION-TV	digitalSubChannel	46.1 CBS
+KION-TV	digitalSubChannel	46.2 The CW
+KCBA	digitalSubChannel	35.1 Fox TV
+KCBA	digitalSubChannel	35.2 The CW
+KFRE-TV	digitalSubChannel	59.1 The CW
+KFRE-TV	digitalSubChannel	59.2 Estrella TV
+KERO-TV	digitalSubChannel	23.1 ABC (HD)
+KERO-TV	digitalSubChannel	42.2 Azteca America (SD)
+KERO-TV	digitalSubChannel	23.3 The Cool TV (SD)
+KBAK-TV	digitalSubChannel	29.1 CBS (HD)
+KBAK-TV	digitalSubChannel	58.2 Fox
+KBFX-CA	digitalSubChannel	58.1 Fox
+KBFX-CA	digitalSubChannel	29.2This TV
+KUVI-DT	digitalSubChannel	45.1 MyNetworkTV (720p HD)
+KUVI-DT	digitalSubChannel	45.2 (39.1) KABE-LD / Univision (480i SD)
+KUVI-DT	digitalSubChannel	45.3 (31.1) KBTF-LP / Telefutura (480i SD)
+WDTV	digitalSubChannel	5.1 CBS
+WDTV	digitalSubChannel	5.2 AccuWeather
+WBOY-TV	digitalSubChannel	12.1 NBC
+WBOY-TV	digitalSubChannel	12.2 ABC
+WVFX	digitalSubChannel	46.1 Fox
+WVFX	digitalSubChannel	46.2 The CW
+WFFT-TV	digitalSubChannel	55.1 Fox
+WANE-TV	digitalSubChannel	15.1 CBS
+WANE-TV	digitalSubChannel	15.2 TheCoolTV
+WANE-TV	digitalSubChannel	15.3 local weather
+WPXE-TV	digitalSubChannel	55.1 Ion Television
+WPXE-TV	digitalSubChannel	55.2 qubo
+WPXE-TV	digitalSubChannel	55.3 ION Life
+WTAP-TV	digitalSubChannel	15.1 NBC
+WTAP-TV	digitalSubChannel	15.2 Fox
+WTAP-TV	digitalSubChannel	15.3 MyNetworkTV
+WSVI	digitalSubChannel	8.1 ABC
+WEMT	digitalSubChannel	39.1 Fox HD
+WEMT	digitalSubChannel	39.2 Fox SD
+WTVA	digitalSubChannel	9.1 NBC
+WTVA	digitalSubChannel	9.2 FamilyNet
+WWMB	digitalSubChannel	21.1 The CW
+WWMB	digitalSubChannel	21.2 The CW Plus
+WFXB	digitalSubChannel	43.1 Fox
+WFXB	digitalSubChannel	43.2 SAP/DVS
+WFXB	digitalSubChannel	43.3 local weather
+WFXB	digitalSubChannel	43.4 MeTV
+WOLO-TV	digitalSubChannel	25.1 ABC-HD
+WOLO-TV	digitalSubChannel	25.2 Simulcast of 25.1
+WOLO-TV	digitalSubChannel	25.3 Weather
+WOLO-TV	digitalSubChannel	25.4 MeTV
+WZRB	digitalSubChannel	47.1 The CW
+WACH	digitalSubChannel	57.1 Fox
+WAOE	digitalSubChannel	59.1 MyNetworkTV
+WAOE	digitalSubChannel	59.2 Antenna TV
+WPTV-TV	digitalSubChannel	5.1 NBC
+WPTV-TV	digitalSubChannel	5.2 local weather
+KPXJ	digitalSubChannel	21.1 The CW HD
+KPXJ	digitalSubChannel	21.2 MeTV
+KOLN	digitalSubChannel	10.1/11.1 CBS
+KOLN	digitalSubChannel	10.2/11.2 MyNetworkTV
+WJCT (TV)	digitalSubChannel	7.1 PBS-HD
+WJCT (TV)	digitalSubChannel	7.2 Create
+WJCT (TV)	digitalSubChannel	7.3 PBS World
+WJCT (TV)	digitalSubChannel	7.4 Florida Channel
+WJCT (TV)	digitalSubChannel	7.5 Florida Knowledge Network
+WHP-TV	digitalSubChannel	21.1 CBS
+WHP-TV	digitalSubChannel	21.2 MyNetworkTV
+WAHU-CD	digitalSubChannel	27.1 Fox
+WAHU-CD	digitalSubChannel	27.2 MyNetworkTV &
+WAHU-CD	digitalSubChannel	This TV
+KOLO-TV	digitalSubChannel	8.1 ABC
+KOLO-TV	digitalSubChannel	8.2 Universal Sports
+WZDX	digitalSubChannel	54.1 Fox
+WZDX	digitalSubChannel	54.2 MyNetworkTV
+WTVH	digitalSubChannel	5.1 CBS
+KAWE	digitalSubChannel	9/22.1 PBS (PBS)
+KAWE	digitalSubChannel	9/22.2 PBS (Lakeland Digital)
+KAWE	digitalSubChannel	9/22.3 PBS (PBS Kids)
+KAWE	digitalSubChannel	9/22.4 PBS (Create)
+KAWE	digitalSubChannel	9/22.5 PBS (Lakeland Plus)
+KAWE	digitalSubChannel	9/22.6 PBS (MN Channel)
+KMEG	digitalSubChannel	14.1 CBS
+KMEG	digitalSubChannel	14.2 Azteca America
+WWTI	digitalSubChannel	50.1 ABC
+WWTI	digitalSubChannel	50.2 The CW
+KPTH	digitalSubChannel	44.1 Fox TV
+KPTH	digitalSubChannel	44.2 MyNetworkTV
+KPTH	digitalSubChannel	44.3 This TV
+KTEN	digitalSubChannel	10.1 NBC
+KTEN	digitalSubChannel	10.2 The CW
+KTEN	digitalSubChannel	10.3 ABC
+KWSD	digitalSubChannel	36.1 The CW
+KWSD	digitalSubChannel	36.2 KAUN-LP (RTN)
+KWES-TV	digitalSubChannel	9.2 LATV
+KWES-TV	digitalSubChannel	9.3 KTLD-LP/KTLE-LP (Telemundo)
+WBME-TV	digitalSubChannel	49.1 MeTV
+WBME-TV	digitalSubChannel	49.4 WYTU-LD/Telemundo
+KREN-TV	digitalSubChannel	27.1 Univision
+KREN-TV	digitalSubChannel	27.2 The CW (via The CW Plus)
+KREN-TV	digitalSubChannel	27.3 TeleFutura
+WAAY-TV	digitalSubChannel	31.1 ABC
+WHNT-TV	digitalSubChannel	19.1 CBS
+WHNT-TV	digitalSubChannel	19.2 Antenna TV
+WFXG	digitalSubChannel	54.1 Fox
+WFXG	digitalSubChannel	54.2 This TV
+WAFF (TV)	digitalSubChannel	48.1 NBC
+WAFF (TV)	digitalSubChannel	48.2 This TV
+KSNT	digitalSubChannel	27.1 NBC
+KSNT	digitalSubChannel	27.2 Fox
+WSYR-TV	digitalSubChannel	9.1 ABC
+WSYR-TV	digitalSubChannel	9.2 Independent
+WSKG-TV	digitalSubChannel	46.1 PBS
+WSKG-TV	digitalSubChannel	46.2 ThinkBright
+WSKG-TV	digitalSubChannel	46.3 Create
+WDHN	digitalSubChannel	18.1 ABC
+WNCF	digitalSubChannel	32.1 ABC
+WNCF	digitalSubChannel	32.2 The CW
+KTKA-TV	digitalSubChannel	(see article)
+KMIZ	digitalSubChannel	17.1 ABC
+KMIZ	digitalSubChannel	17.2 ABC 17 Stormtrack 24/7
+KMIZ	digitalSubChannel	17.3 MyNetworkTV
+WGNM	digitalSubChannel	45.1 CTN
+WGNM	digitalSubChannel	45.2 CTN International
+WPBF	digitalSubChannel	25.1 ABC
+WPBF	digitalSubChannel	25.2 Estrella TV
+WIVT	digitalSubChannel	34.1 ABC
+WIVT	digitalSubChannel	34.2 NBC
+KSNF	digitalSubChannel	16.1 NBC
+WBND-LP	digitalSubChannel	57.1 WBND-LP/ABC HD
+WBND-LP	digitalSubChannel	57.2 MeTV
+KGMC (TV)	digitalSubChannel	43.1 Ind./JTV
+KGMC (TV)	digitalSubChannel	43.2 Azteca America
+KGMC (TV)	digitalSubChannel	43.3 Daystar
+KGMC (TV)	digitalSubChannel	43.4 HSN
+KGMC (TV)	digitalSubChannel	43.5 Antenna TV
+KGMC (TV)	digitalSubChannel	43.6 MeTV
+WXCW	digitalSubChannel	46.1 The CW
+WSWB	digitalSubChannel	38.1 The CW
+WSWB	digitalSubChannel	38.2 MeTV
+WOLF-TV	digitalSubChannel	56.1 Fox
+WOLF-TV	digitalSubChannel	56.2 The CW
+WOLF-TV	digitalSubChannel	56.3 MyNetworkTV
+WMAK	digitalSubChannel	7.1 RTV
+WFLX	digitalSubChannel	29.1 Fox
+KFXF	digitalSubChannel	7.1 Fox TV
+KFXF	digitalSubChannel	13.1 K13XD
+KAME-TV	digitalSubChannel	21.1 MyNetworkTV
+KAME-TV	digitalSubChannel	21.2 MeTV
+WTLF	digitalSubChannel	24.1 The CW
+WTLF	digitalSubChannel	(via The CW Plus)
+WMFD-TV	digitalSubChannel	68.1 WMFD
+WMFD-TV	digitalSubChannel	68.2 WOHZ-CA
+WNYF-CD	digitalSubChannel	28.1 Fox
+WNYF-CD	digitalSubChannel	28.2 CBS
+WFXL	digitalSubChannel	31.1 Fox
+WSEE-TV	digitalSubChannel	35.1 CBS
+WSEE-TV	digitalSubChannel	35.2 The CW
+WIBW-TV	digitalSubChannel	13.1 CBS
+WIBW-TV	digitalSubChannel	13.2 MyNetworkTV
+WYIN	digitalSubChannel	56.1 PBS
+WTNZ	digitalSubChannel	43.1 Fox
+WTNZ	digitalSubChannel	43.2 This TV
+WDKY-TV	digitalSubChannel	56.1 Fox
+WDKY-TV	digitalSubChannel	56.2 TheCoolTV
+WSCV	digitalSubChannel	51.1 Telemundo
+KRCG	digitalSubChannel	13.1 CBS
+KWHE	digitalSubChannel	14.1 LeSEA
+KAAH-TV	digitalSubChannel	26.1 TBN
+KBFD-DT	digitalSubChannel	32.1 Ind.
+KALO	digitalSubChannel	38.1 Ind. Rel.
+KWBN	digitalSubChannel	44.1 Daystar
+KKAI	digitalSubChannel	50.1 Faith TV
+KUPU	digitalSubChannel	56.1 Ind Rel.
+KSDI-LP	digitalSubChannel	33.1, 2, 3, 4, 5, 6
+WHBF-TV	digitalSubChannel	4.1 CBS
+WHBF-TV	digitalSubChannel	4.2 RTV
+WQAD-TV	digitalSubChannel	8.1 ABC
+WQAD-TV	digitalSubChannel	8.2 Antenna TV
+WQAD-TV	digitalSubChannel	8.3 MyNetworkTV
+KWQC-TV	digitalSubChannel	6.1 NBC
+KWQC-TV	digitalSubChannel	6.2 KWQC 24/7 Weather
+KVPT	digitalSubChannel	18.1 PBS-HD
+KVPT	digitalSubChannel	18.2 Create-SD
+KVPT	digitalSubChannel	18.3 V-me
+WTBY-TV	digitalSubChannel	(see article)
+WOGX	digitalSubChannel	51.1 Fox
+WLOX	digitalSubChannel	13.1 ABC
+WLOX	digitalSubChannel	13.2 WX
+WLOX	digitalSubChannel	13.3 This TV
+WDAM-TV	digitalSubChannel	7.1 NBC
+WDAM-TV	digitalSubChannel	7.2 This TV
+WHLT	digitalSubChannel	22.1 CBS
+WRAY-TV	digitalSubChannel	30.1 TCT
+WRAY-TV	digitalSubChannel	30.2 TCT HD
+WRLM (TV)	digitalSubChannel	47.1 Standard TCT schedule
+WRLM (TV)	digitalSubChannel	47.2 TCT HD schedule
+WRLM (TV)	digitalSubChannel	47.3 TCT SD 2 (variety)
+WRLM (TV)	digitalSubChannel	47.4 TCT SD3 (variety)
+WHAG-TV	digitalSubChannel	25.1 NBC
+KHQA-TV	digitalSubChannel	7.1 CBS
+KHQA-TV	digitalSubChannel	7.2 ABC (primary)
+KHQA-TV	digitalSubChannel	America One (secondary)
+WFXR	digitalSubChannel	27.1/21.2 Fox
+WFXR	digitalSubChannel	27.2/21.1 The CW
+WBKO	digitalSubChannel	13.1 ABC
+WBKO	digitalSubChannel	13.2 Fox
+WBKO	digitalSubChannel	13.3 The CW
+WTCV	digitalSubChannel	18.1 Independent
+KSFX-TV	digitalSubChannel	27.1 Fox
+KOZK	digitalSubChannel	21.1/26.1: PBS
+KOZK	digitalSubChannel	21.2/26.2: PBS-HD
+KOZK	digitalSubChannel	21.3/26.3: Create
+WLRN-TV	digitalSubChannel	17.1 PBS
+WTVY (TV)	digitalSubChannel	4.1 WTVY/CBS
+WTVY (TV)	digitalSubChannel	4.2 MyNetworkTV
+WTVY (TV)	digitalSubChannel	4.3 The CW
+WLTV-DT	digitalSubChannel	23.1 Univision
+WDFX-TV	digitalSubChannel	34.1 Fox
+KABE-LD	digitalSubChannel	39.1 Univision HD
+KABE-LD	digitalSubChannel	39.2 Univision SD
+WLYH-TV	digitalSubChannel	15.1 The CW
+WLYH-TV	digitalSubChannel	15.2 TheCoolTV
+WJET-TV	digitalSubChannel	24.1 ABC
+WGMB-TV	digitalSubChannel	44.1 Fox - HD
+WGMB-TV	digitalSubChannel	44.2 The CW - SD
+KSPX-TV	digitalSubChannel	29.1 KSPX ION
+KSPX-TV	digitalSubChannel	29.2 qubo
+KSPX-TV	digitalSubChannel	29.3 ION Life
+KMOH-TV	digitalSubChannel	See below
+KVIQ	digitalSubChannel	17.1 CBS
+KVIQ	digitalSubChannel	17.2 MyTV Northern California
+KVIQ	digitalSubChannel	17.3 The CW
+KHSL-TV	digitalSubChannel	12.1 CBS-HD
+KHSL-TV	digitalSubChannel	12.2 The CW
+KCVU	digitalSubChannel	xx.1 Fox
+KCVU	digitalSubChannel	xx.2 This TV
+KKJB	digitalSubChannel	39.1 Daystar Television Network
+KKJB	digitalSubChannel	39.2 Universal Sports
+KKJB	digitalSubChannel	39.3 America One
+KTIV	digitalSubChannel	4.1 NBC
+KTIV	digitalSubChannel	4.2 The CW
+WBNG-TV	digitalSubChannel	12.1 CBS
+WBNG-TV	digitalSubChannel	12.2 The CW
+WCBI-TV	digitalSubChannel	4.1 CBS
+WCBI-TV	digitalSubChannel	4.2 MyNetworkTV
+WCBI-TV	digitalSubChannel	4.3 The CW
+WJAC-TV	digitalSubChannel	6.1 NBC
+WJAC-TV	digitalSubChannel	6.2 MeTV
+WHSV-TV	digitalSubChannel	3.1 ABC
+WHSV-TV	digitalSubChannel	3.2 Fox
+WHSV-TV	digitalSubChannel	3.3 TV3 Winchester
+WHSV-TV	digitalSubChannel	3.4 MyNetworkTV
+WLIO	digitalSubChannel	8.1 NBC
+WLIO	digitalSubChannel	8.2 Fox (primary)
+WLIO	digitalSubChannel	MyNetworkTV (secondary)
+WRBL	digitalSubChannel	3.1 CBS
+WRBL	digitalSubChannel	3.2 RTN
+WRBL	digitalSubChannel	3.3 AccuWX
+KCEN-TV	digitalSubChannel	6.1 NBC
+KCEN-TV	digitalSubChannel	6.2 This TV
+KJTV-TV	digitalSubChannel	34.1 Fox TV
+KJTV-TV	digitalSubChannel	34.2 AccuWX
+KJTV-TV	digitalSubChannel	34.3 independent
+WLTZ	digitalSubChannel	38.1 NBC
+WLTZ	digitalSubChannel	38.2 The CW
+KCOP-TV	digitalSubChannel	13.1 MyNetworkTV
+Media in The Simpsons	digitalSubChannel	6.1 KBBL-HDTV
+KQCK	digitalSubChannel	33.1 VasalloVision
+WFXP	digitalSubChannel	66.1 Fox
+KPTM	digitalSubChannel	42.1 Fox
+KPTM	digitalSubChannel	42.2 MyNetworkTV &
+KPTM	digitalSubChannel	This TV
+KPTM	digitalSubChannel	42.3 Estrella TV
+WXEL-TV	digitalSubChannel	42.1 PBS HD
+WXEL-TV	digitalSubChannel	42.2 PBS Create
+WXEL-TV	digitalSubChannel	42.3 V-Me
+WXEL-TV	digitalSubChannel	42.4 Florida Knowledge          Network/
+WXEL-TV	digitalSubChannel	The Florida Channel
+WSWG	digitalSubChannel	44.1 CBS
+WSWG	digitalSubChannel	44.2 MyNetworkTV
+WSWG	digitalSubChannel	44.3 The CW
+WGFL	digitalSubChannel	53.1 CBS
+WGFL	digitalSubChannel	53.2 MyNetworkTV
+WUTR	digitalSubChannel	20.1 ABC
+WUTR	digitalSubChannel	20.2 MyNetworkTV
+WMBB	digitalSubChannel	13.1 ABC
+WMBB	digitalSubChannel	13.2 This TV
+WFXV	digitalSubChannel	33.1 Fox
+WSPX-TV	digitalSubChannel	56.1 Ion TV
+WSPX-TV	digitalSubChannel	56.2 qubo
+WSPX-TV	digitalSubChannel	56.3 ION Life
+KALB-TV	digitalSubChannel	5.1 NBC
+KALB-TV	digitalSubChannel	5.2 CBS
+WQMY	digitalSubChannel	see article
+WAKA	digitalSubChannel	8.1 CBS
+WAKA	digitalSubChannel	8.2 descriptive video service
+WAKA	digitalSubChannel	8.3 weather radar
+WAKA	digitalSubChannel	8.x MeTV
+WSFA	digitalSubChannel	12.1 NBC
+WSFA	digitalSubChannel	12.2 RTV
+WCOV-TV	digitalSubChannel	20.1 Fox
+WCOV-TV	digitalSubChannel	20.2 AccuWeather
+WCOV-TV	digitalSubChannel	20.3 This TV
+WABG-TV	digitalSubChannel	6.1 ABC
+WABG-TV	digitalSubChannel	6.2 Fox
+WXVT	digitalSubChannel	15.1 CBS
+WATM-TV	digitalSubChannel	23.1 ABC HD
+WATM-TV	digitalSubChannel	23.2 Fox HD
+WATM-TV	digitalSubChannel	23.3 This TV SD
+WJAL	digitalSubChannel	68.1 Ind.
+WJFB	digitalSubChannel	44.1 Jewelry Television
+WJFB	digitalSubChannel	44.2 America One
+WTOK-TV	digitalSubChannel	11.1 ABC
+WTOK-TV	digitalSubChannel	11.2 MyNetworkTV
+WTOK-TV	digitalSubChannel	11.3 The CW
+KOBI	digitalSubChannel	5.1 HD
+KOBI	digitalSubChannel	5.2 The AccuWeather Channel
+KOTI	digitalSubChannel	2.1 NBC-HD
+KOTI	digitalSubChannel	2.2 AccuWX
+WFRZ-LP	digitalSubChannel	34.1 FamilyNet
+KTVL	digitalSubChannel	10.1 HD
+KTVL	digitalSubChannel	10.2 The CW
+KTVL	digitalSubChannel	10.3 CBS SD
+KGEC-LP	digitalSubChannel	26.1 Retro Television
+KGEC-LP	digitalSubChannel	26.2 Tuff TV
+KGEC-LP	digitalSubChannel	26.3 My Family TV
+KGEC-LP	digitalSubChannel	26.4 NASA
+KGEC-LP	digitalSubChannel	founded        = 1997
+KBLN	digitalSubChannel	30.1 3ABN
+WNKY	digitalSubChannel	40.1 NBC
+WNKY	digitalSubChannel	40.2 CBS
+KECI-TV	digitalSubChannel	See below
+WMDN	digitalSubChannel	24.1 CBS
+WMDN	digitalSubChannel	24.2 AccuWeather
+K15CZ	digitalSubChannel	15.1 The CW
+WGBC	digitalSubChannel	30.1 Fox
+WGBC	digitalSubChannel	30.2 NBC
+KWWT	digitalSubChannel	See article
+KMVT	digitalSubChannel	11.1 CBS
+KMVT	digitalSubChannel	11.2 The CW
+KMVT	digitalSubChannel	11.3 Mexicanal
+KLAX-TV	digitalSubChannel	31.1 ABC
+Southern Oregon Public Television	digitalSubChannel	x.1 SOPTV-HD (1080i)
+Southern Oregon Public Television	digitalSubChannel	x.2 SOPTV (480i)
+Southern Oregon Public Television	digitalSubChannel	x.3 Create (480i)
+KGCW (TV)	digitalSubChannel	26.1 The CW
+KGCW (TV)	digitalSubChannel	26.2 This TV
+WBCC	digitalSubChannel	(see article)
+WLOV-TV	digitalSubChannel	21.1 Fox
+WLOV-TV	digitalSubChannel	27.2 This TV
+WKDH	digitalSubChannel	45.1 ABC
+WGCU (TV)	digitalSubChannel	30.1 - PBS HD (1080i)
+WGCU (TV)	digitalSubChannel	30.2 - PBS World (480i)
+WGCU (TV)	digitalSubChannel	30.3 - Create (480i)
+WGCU (TV)	digitalSubChannel	30.4 - Florida Knowledge Network & The Florida Channel (480i)
+WICZ-TV	digitalSubChannel	40.1 Fox
+WICZ-TV	digitalSubChannel	40.2 MyNetworkTV
+KUIL-LD	digitalSubChannel	12.3 MyNetworkTV
+KUIL-LD	digitalSubChannel	12.4 Azteca America
+WRDE-LD	digitalSubChannel	59.1 MyNetworkTV & RTV
+KRGV-TV	digitalSubChannel	(see article)
+KVEO-TV	digitalSubChannel	23.1 NBC
+KVEO-TV	digitalSubChannel	23.2 Estrella TV
+KGBT-TV	digitalSubChannel	4.1 CBS HD
+KGBT-TV	digitalSubChannel	4.2 Mexicanal
+KGBT-TV	digitalSubChannel	4.3 Inmigrante TV
+KOAM-TV	digitalSubChannel	7.1 CBS
+KOAM-TV	digitalSubChannel	7.2 Fox (Simulcast of KFJX)
+KHGI-TV	digitalSubChannel	13.1/6.1 ABC
+KHGI-TV	digitalSubChannel	13.2/6.2 Fox (KFXL)
+KFBI-LD	digitalSubChannel	48.1 My Network TV
+KFBI-LD	digitalSubChannel	48.2 This TV
+WLCN-CD	digitalSubChannel	18.1 Independent
+WLCN-CD	digitalSubChannel	18.2 RTV
+WLCN-CD	digitalSubChannel	18.3 UTS
+KCTU-LD	digitalSubChannel	(see article)
+KFJX	digitalSubChannel	14.1 Fox
+KFJX	digitalSubChannel	14.2 KOAM-TV
+WQLN (TV)	digitalSubChannel	54.1 PBS
+WQLN (TV)	digitalSubChannel	54.3 Create
+WQLN (TV)	digitalSubChannel	54.3 PBS World
+KPXR-TV	digitalSubChannel	48.1 Ion TV
+KPXR-TV	digitalSubChannel	48.2 qubo
+KPXR-TV	digitalSubChannel	48.3 ION Life
+WEPX-TV	digitalSubChannel	38.1 Ion TV
+WEPX-TV	digitalSubChannel	38.2 qubo
+WEPX-TV	digitalSubChannel	38.3 Life
+WPXR-TV	digitalSubChannel	38.1 Ion TV
+WPXR-TV	digitalSubChannel	38.2 qubo
+WPXR-TV	digitalSubChannel	38.3 Life
+WOHL-CD	digitalSubChannel	35.1 ABC
+WOHL-CD	digitalSubChannel	35.2 CBS
+KCSO-LD	digitalSubChannel	33.1 Telemundo
+KCSO-LD	digitalSubChannel	33.2 MeTV
+WIYC	digitalSubChannel	48.1 TCN
+WXXV-TV	digitalSubChannel	25.1 Fox TV
+WXXV-TV	digitalSubChannel	25.2 myNetworkTV
+KQTV	digitalSubChannel	2.1 ABC
+WSJN-CD	digitalSubChannel	15.1 Religious
+KUVE-DT	digitalSubChannel	46.1 Univisi\u00F3n
+KFDM	digitalSubChannel	6.1 CBS
+KFDM	digitalSubChannel	6.2 The CW
+KBMT	digitalSubChannel	12.1 ABC HD
+KBMT	digitalSubChannel	12.2 NBC HD
+WDLI-TV	digitalSubChannel	17.1 TBN
+WDLI-TV	digitalSubChannel	17.2 Church
+WDLI-TV	digitalSubChannel	17.3 JCTV
+WDLI-TV	digitalSubChannel	17.4 Enlace
+WDLI-TV	digitalSubChannel	17.5 Smile
+WOCK-CD	digitalSubChannel	13.1 Mega TV
+WOCK-CD	digitalSubChannel	13.2 Arirang (WOCH-CA)
+WOCK-CD	digitalSubChannel	13.3 LATV
+WOCK-CD	digitalSubChannel	13.4 America One
+KHAS-TV	digitalSubChannel	5.1 NBC HD
+KHAS-TV	digitalSubChannel	5.2 This TV
+WTPM-LD	digitalSubChannel	45.1 Religious
+WQPT-TV	digitalSubChannel	24.1 PBS
+WQPT-TV	digitalSubChannel	24.2 MHz Worldview
+KAVU-TV	digitalSubChannel	25.1 ABC
+KAVU-TV	digitalSubChannel	25.2 NBC
+KAVU-TV	digitalSubChannel	25.3 MyNetworkTV
+KAVU-TV	digitalSubChannel	25.4 25 Now
+KIDY	digitalSubChannel	6.1 Fox
+KIDY	digitalSubChannel	6.2 MyNetworkTV
+KXVA	digitalSubChannel	15.1 Fox
+KXVA	digitalSubChannel	15.2 KIDZ-LP/MyNetworkTV
+KVCT	digitalSubChannel	19.1 Fox
+KVCT	digitalSubChannel	19.2 Telemundo
+KVCT	digitalSubChannel	19.3 This TV
+KSFE-LP	digitalSubChannel	67.1 XHRIO-TV (Fox/MNTV/Tr3\u0301s)
+KSFE-LP	digitalSubChannel	67.2 The CW
+KETF-CD	digitalSubChannel	31.2 Fox
+KETF-CD	digitalSubChannel	31.3 LATV
+KFTA-TV	digitalSubChannel	24.1 Fox
+KFTA-TV	digitalSubChannel	24.2 NBC
+KJJM-LD	digitalSubChannel	34.1 Universal Access Network
+KJJM-LD	digitalSubChannel	34.2 Infomercials
+KJJM-LD	digitalSubChannel	34.3 Test pattern
+KVAT-LD	digitalSubChannel	17.1 Mexicanal
+KVAT-LD	digitalSubChannel	17.2 Retro Television Network
+WMOW	digitalSubChannel	4.1 The CW
+WMOW	digitalSubChannel	(via The CW Plus)
+WMOW	digitalSubChannel	4.2 ABC
+WMOW	digitalSubChannel	4.3 This TV
+WDEM-CD	digitalSubChannel	17.1 Universal Sports
+WDEM-CD	digitalSubChannel	17.2 Telemundo
+WDEM-CD	digitalSubChannel	17.3 America One
+KDMI	digitalSubChannel	19.1 This TV
+KDMI	digitalSubChannel	19.2 KCWI (CW)
+WJKT	digitalSubChannel	16.1 Fox
+WCCV-TV	digitalSubChannel	54.1 Religious independent
+KBDI-TV	digitalSubChannel	(see article)
+WIDP	digitalSubChannel	46.1 Main WIDP Programming
+WIDP	digitalSubChannel	46.2 EBN Music
+WSBS-TV	digitalSubChannel	22.1 - Mega TV (1080i)
+WLJC-TV	digitalSubChannel	65.1 TBN
+WVLR	digitalSubChannel	48.1 CTN
+WYDC	digitalSubChannel	48.1 Fox
+WVPT	digitalSubChannel	51.1/42.1 PBS-HD
+WVPT	digitalSubChannel	51.2/42.2 Create
+WVPT	digitalSubChannel	51.3/42.3 V-me
+WMCN-TV	digitalSubChannel	53.1
+WBIH	digitalSubChannel	29.1 Legacy TV
+WTCE-TV	digitalSubChannel	(see article)
+WBMM	digitalSubChannel	22.1 The CW
+WBMM	digitalSubChannel	22.2 ABC
+KSMQ-TV	digitalSubChannel	15.1 PBS
+KSMQ-TV	digitalSubChannel	15.2 MHz Worldview
+KSMQ-TV	digitalSubChannel	15.3 Create
+KSMQ-TV	digitalSubChannel	15.4 Minnesota Channel
+KLCW-TV	digitalSubChannel	22.1 The CW
+KLCW-TV	digitalSubChannel	22.2 KMYL-LP/MyTV
+KLCW-TV	digitalSubChannel	22.3 KXTQ-CA/Telemundo
+K38IZ-D	digitalSubChannel	See below
+KPHE-LP	digitalSubChannel	See below
+KFXO-LP	digitalSubChannel	39.1 Fox
+KUAT-TV	digitalSubChannel	(see article)
+XHBR-TV	digitalSubChannel	11.2 Televisa Nuevo Laredo
+KCYU-LD	digitalSubChannel	41.1:  Fox
+KCYU-LD	digitalSubChannel	41.2:  This TV
+KYOU-TV	digitalSubChannel	15.1 Fox
+W23BZ-D	digitalSubChannel	23.1 Independent
+W23BZ-D	digitalSubChannel	23.2 Azteca Am\u00E9rica
+KSMS-TV	digitalSubChannel	67.1 Univisi\u00F3n HD 67.2 KDJT/Telefutura SD 67.3 LATV
+WCDN-LD	digitalSubChannel	53.1 Daystar
+WCDN-LD	digitalSubChannel	53.2 HSN (former)
+KFFV	digitalSubChannel	44.1 Infomercials
+KFFV	digitalSubChannel	44.2 Azteca Am\u00E9rica
+KFFV	digitalSubChannel	44.3 AAT Television
+KFFV	digitalSubChannel	44.4 YTN
+KTVH-DT	digitalSubChannel	12.1 NBC
+KTBW-TV	digitalSubChannel	(see article)
+KEET	digitalSubChannel	13.1 (720p)HD
+KEET	digitalSubChannel	13.2 PBS World
+KEET	digitalSubChannel	13.3 Create
+KEET	digitalSubChannel	13.4 Audio Feed
+KTMW	digitalSubChannel	20.1-3 KTMW
+KTMW	digitalSubChannel	20.4 Multimedios Television
+KETD	digitalSubChannel	53.1 Estrella TV
+KETD	digitalSubChannel	53.2 LeSEA
+KAZD	digitalSubChannel	55.1 Azteca Am\u00E9rica
+KAZD	digitalSubChannel	55.2 Infomercials
+KAZD	digitalSubChannel	55.3 Biz Television
+KAZD	digitalSubChannel	55.4 LATV
+KEYU	digitalSubChannel	31.1 Univisi\u00F3n
+KEYU	digitalSubChannel	31.2 KAMT/TeleFutura
+KNPB	digitalSubChannel	5.1 PBS
+KNPB	digitalSubChannel	5.2 Create
+KNPB	digitalSubChannel	5.3 V-me
+KRTV	digitalSubChannel	3.1 CBS/MTN
+KRTV	digitalSubChannel	3.2 The CW
+K26GS-D	digitalSubChannel	26.1 RTV
+K26GS-D	digitalSubChannel	26.2 Antenna TV
+K26GS-D	digitalSubChannel	26.3 This TV
+K26GS-D	digitalSubChannel	26.4 Tuff TV
+K26GS-D	digitalSubChannel	MeTV (Coming Soon)
+KLDO-TV	digitalSubChannel	19.2 TeleFutura
+KLDO-TV	digitalSubChannel	19.3 Fox / MyNetworkTV
+KLDO-TV	digitalSubChannel	19.4 LATV
+KNVO (TV)	digitalSubChannel	48.1 KNVO/Univision
+KNVO (TV)	digitalSubChannel	48.2 KVTF-CA/TeleFutura
+KNVO (TV)	digitalSubChannel	48.3 XHRIO-TV/Fox/MNTV/MTV3
+KNVO (TV)	digitalSubChannel	48.4 KSFE-LP/The CW
+KFTL-CD	digitalSubChannel	xx.1 Religious
+KFTL-CD	digitalSubChannel	xx.2 HSN
+KTAS	digitalSubChannel	33.1 Telemundo
+KOHD	digitalSubChannel	51.1 ABC
+KTVX	digitalSubChannel	4.1 ABC
+KTVX	digitalSubChannel	4.2 TheCoolTV
+KPTN-LD	digitalSubChannel	7.1 HSN
+KPTN-LD	digitalSubChannel	7.2 color bars
+KPTN-LD	digitalSubChannel	7.3 color bars
+KPTN-LD	digitalSubChannel	7.4 color bars
+KPVM-LP	digitalSubChannel	(see article)
+KUTA-LD	digitalSubChannel	8.1 KUTA
+KUTA-LD	digitalSubChannel	8.2-3 (future subchannels)
+WFXQ-CD	digitalSubChannel	28.1 NBC
+WFXQ-CD	digitalSubChannel	28.2 TheCoolTV
+K58GC	digitalSubChannel	(not on air yet)
+K58GC	digitalSubChannel	58.1 3ABN
+K58GC	digitalSubChannel	58.2 3ABN Latino
+K58GC	digitalSubChannel	58.3 3ABN Radio
+KGPT-CA	digitalSubChannel	(see article)
+KSMI-LP	digitalSubChannel	(see article)
+K31GL-D	digitalSubChannel	31.1 Genesis (Spanish)
+K31GL-D	digitalSubChannel	31.2 Mexicanal
+K31GL-D	digitalSubChannel	31.3 Hot TV
+K31GL-D	digitalSubChannel	31.4 RTV
+KHLM-LD	digitalSubChannel	(see article)
+WMBF-TV	digitalSubChannel	32.1 NBC
+WMBF-TV	digitalSubChannel	32.2 local news
+WMBF-TV	digitalSubChannel	and weather
+WMBF-TV	digitalSubChannel	32.3 This TV
+K61GH	digitalSubChannel	(see article)
+K17FA-D	digitalSubChannel	41.1 Ion
+K17FA-D	digitalSubChannel	41.2 qubo
+K17FA-D	digitalSubChannel	41.3 ION Life
+WFXZ-CD	digitalSubChannel	24.1 Azteca America
+KRET-CA	digitalSubChannel	(see article)
+WCHU-LP	digitalSubChannel	61.1 - Azteca America (480i)
+WCHU-LP	digitalSubChannel	61.2 - WLFM-LP (smooth jazz audio) (480i)
+WAGA-TV	digitalSubChannel	5.1 WAGA / Fox HD
+KLMV-LP	digitalSubChannel	15.2 Test screen
+KLMV-LP	digitalSubChannel	15.3 Test screen
+KLMV-LP	digitalSubChannel	15.4 Test screen
+KOHC-CD	digitalSubChannel	(see article)
+KTFD-DT	digitalSubChannel	14.1 TeleFutura
+WKFK-LD	digitalSubChannel	7.1 A1/AMGTV/My Family TV/Worship/ION/qubo
+WKFK-LD	digitalSubChannel	7.2 RTN
+WKFK-LD	digitalSubChannel	7.3 ION
+WCSN-LD	digitalSubChannel	32-1 Mexicanal
+WCSN-LD	digitalSubChannel	32-2 color bars
+WCSN-LD	digitalSubChannel	32-3 Dalmar TV
+WCSN-LD	digitalSubChannel	32-4 color bars
+KGLA-DT	digitalSubChannel	42.1 Telemundo
+WGHP	digitalSubChannel	8.1 Fox
+WGHP	digitalSubChannel	8.2 Antenna TV
+K46DY	digitalSubChannel	(not on air yet)
+K46DY	digitalSubChannel	46.1 TBN
+K46DY	digitalSubChannel	46.2 JCTV
+K46DY	digitalSubChannel	46.3 Church Channel
+K46DY	digitalSubChannel	46.4 TBN Enlace
+K46DY	digitalSubChannel	46.5 Smile of a Child
+KRTO (Rialto)	digitalSubChannel	99 AT&T U-verse
+KYMB-LD	digitalSubChannel	27.1 This TV
+KYMB-LD	digitalSubChannel	27.2 Coastal TV Network
+KYMB-LD	digitalSubChannel	MeTV (Coming Soon)
+KYMB-LD	digitalSubChannel	27.3 TheCoolTV
+KYMB-LD	digitalSubChannel	27.4 America One
+KFLA-LD	digitalSubChannel	8.1 Retro TV
+KFLA-LD	digitalSubChannel	8.2 Corner Store TV
+KFLA-LD	digitalSubChannel	8.3 Tuff TV
+KCWV	digitalSubChannel	27.1 My Family TV
+KNMD-TV	digitalSubChannel	9.1 PBS World
+KNMD-TV	digitalSubChannel	9.2 Create
+KDCU-DT	digitalSubChannel	(see article)
+KAMU-TV	digitalSubChannel	12.1 PBS
+KAMU-TV	digitalSubChannel	12.2 Weather
+WARZ-LP	digitalSubChannel	34.1 Independent
+WARZ-LP	digitalSubChannel	34.2 World Harvest Television
+KSNL-LD	digitalSubChannel	47.1 NBC
+WNBW-DT	digitalSubChannel	9.1 NBC
+WNBW-DT	digitalSubChannel	9.2 MeTV
+KCDO-TV	digitalSubChannel	3.1 Ind
+KCDO-TV	digitalSubChannel	3.3 HSN
+WDPM-DT	digitalSubChannel	31.1 Daystar TV
+KHVM-LD	digitalSubChannel	28.1 / 50.1 Cornerstone Television
+KOMI-LP	digitalSubChannel	24.1 Ind.
+KNVN	digitalSubChannel	24.1 NBC-HD
+KNVN	digitalSubChannel	24.2 The AccuWeather Channel
+WIMP-CD	digitalSubChannel	25.1 - Elementos TV
+WIMP-CD	digitalSubChannel	25.2~25.4 - unknown
+WFUN-LD	digitalSubChannel	48.1 - CaribeVision
+WWCI-CA	digitalSubChannel	10.2 (NVision), 10.3 (Travel), 10.4 (News)
+KFPB-LP	digitalSubChannel	See below
+MyTV Northern California	digitalSubChannel	xx.1 MyNetworkTV
+K17HI-D	digitalSubChannel	17.1 3ABN
+K17HI-D	digitalSubChannel	17.2 3ABN Latino
+K17HI-D	digitalSubChannel	17.3 3ABN Radio
+K17HI-D	digitalSubChannel	17.4 Radio 74
+WTPX-TV	digitalSubChannel	46.1 Ion
+WTPX-TV	digitalSubChannel	46.2 qubo
+WTPX-TV	digitalSubChannel	46.3 Ion Life
+K19ER	digitalSubChannel	16.1 Text Info
+K19ER	digitalSubChannel	16.2 EWTN
+K19ER	digitalSubChannel	16.3 EWTN16.4 EWTN16.5 EWTN
+WHDO-CA	digitalSubChannel	38 and 38.1 (Independent)
+WHDO-CA	digitalSubChannel	38.2 (Mega TV)
+KBNZ-LD	digitalSubChannel	7.1 CBS
+K25IA-D	digitalSubChannel	(see article)
+WMGT-DT2	digitalSubChannel	41.1 NBC
+WMGT-DT2	digitalSubChannel	41.2 MyNetworkTV
+KLPD-LD	digitalSubChannel	28.1 HSN
+KLPD-LD	digitalSubChannel	28.2 Tr3s
+KLPD-LD	digitalSubChannel	28.3 Ind. (KCDO)
+KLPD-LD	digitalSubChannel	28.4 Colorado Country
+KLPD-LD	digitalSubChannel	28.5 BIZ TV
+KDEO-LP	digitalSubChannel	23.1 EWTN 1
+KDEO-LP	digitalSubChannel	23.2 My Family
+KDEO-LP	digitalSubChannel	23.3 EWTN 2
+KDEO-LP	digitalSubChannel	23.4 Vida
+K17DL-D	digitalSubChannel	17.1 Branson Visitors TV
+KNRC-LD	digitalSubChannel	14.1 Estrella TV
+KNRC-LD	digitalSubChannel	14.2 KNRC Classic
+KNRC-LD	digitalSubChannel	14.3 Unknown
+KNRC-LD	digitalSubChannel	14.4 Unknown
+KNRC-LD	digitalSubChannel	14.5 Better Life Broadcasting Network
+East Tennessee PBS	digitalSubChannel	2.1/15.1 PBS
+East Tennessee PBS	digitalSubChannel	2.2/15.2 PBS World
+East Tennessee PBS	digitalSubChannel	2.3/15.3 Create
+WRWR-LD	digitalSubChannel	38.1 America One
+WRWR-LD	digitalSubChannel	38.2 Universal Sports
+WNBD-LD	digitalSubChannel	33.1 NBC
+WFMJ-DT2	digitalSubChannel	21.2 CW+
+WSNS-TV	digitalSubChannel	44.1 Telemundo HD
+WSNS-TV	digitalSubChannel	44.2 Inmigrante TV SD
+WFXS-DT	digitalSubChannel	55.1 Fox
+WFXS-DT	digitalSubChannel	55.2 MeTV
+WFXS-DT	digitalSubChannel	55.3 RTV
+KEYT-TV	digitalSubChannel	3.1 ABC
+KEYT-TV	digitalSubChannel	3.2 My/RTV
+KARZ-TV	digitalSubChannel	44.1 MyNetworkTV
+KARZ-TV	digitalSubChannel	44.2 This TV
+KCOY-TV	digitalSubChannel	12.1 CBS
+KCOY-TV	digitalSubChannel	12.2 KKFX-CA
+KNDX	digitalSubChannel	26.1 / 24.1 / 38.1 Fox
+WMYV	digitalSubChannel	48.1 MyNetworkTV
+WMYV	digitalSubChannel	48.2 TheCoolTV
+KMIR-TV	digitalSubChannel	36.1 NBC
+KMIR-TV	digitalSubChannel	36.2 Mexicanal
+WMNN-LD	digitalSubChannel	(see article)
+WLEP-LD	digitalSubChannel	(see article)
+KSAW-LD	digitalSubChannel	51.1 ABC
+Medford Cable News	digitalSubChannel	84.1 Analog

@@ -1,0 +1,265 @@
+Apollo 8	launchPad	Kennedy Space Center Launch Complex 39
+Apollo 11	launchPad	Kennedy Space Center Launch Complex 39
+Apollo 13	launchPad	Kennedy Space Center Launch Complex 39
+Apollo 13	launchPad	Florida
+Apollo 7	launchPad	Cape Canaveral Air Force Station Launch Complex 34
+Apollo 7	launchPad	Florida
+Apollo 7	launchPad	United States
+Apollo 9	launchPad	Kennedy Space Center Launch Complex 39
+Apollo 9	launchPad	Florida
+Apollo 9	launchPad	United States
+Apollo 10	launchPad	Kennedy Space Center Launch Complex 39
+Apollo 1	launchPad	Cape Canaveral Air Force Station Launch Complex 34
+Apollo 1	launchPad	Florida
+Apollo 1	launchPad	United States
+Apollo 15	launchPad	Kennedy Space Center Launch Complex 39
+Apollo 15	launchPad	Florida
+Apollo 15	launchPad	United States
+Apollo 14	launchPad	Kennedy Space Center Launch Complex 39
+Apollo 14	launchPad	Florida
+Apollo 14	launchPad	United States
+Apollo 12	launchPad	Kennedy Space Center Launch Complex 39
+Apollo 16	launchPad	Kennedy Space Center Launch Complex 39
+Apollo 16	launchPad	Florida
+Apollo 16	launchPad	United States
+Apollo 17	launchPad	Kennedy Space Center Launch Complex 39
+Apollo 17	launchPad	Florida
+Apollo 17	launchPad	United States
+STS-51-F	launchPad	Kennedy Space Center Launch Complex 39
+Gemini 10	launchPad	Cape Canaveral Air Force Station Launch Complex 19
+Vostok 1	launchPad	Gagarin's Start
+Vostok 1	launchPad	Baikonur Cosmodrome
+Soyuz 1	launchPad	Gagarin's Start
+Soyuz 1	launchPad	Baikonur Cosmodrome
+STS-107	launchPad	Kennedy Space Center Launch Complex 39
+STS-1	launchPad	Kennedy Space Center
+STS-1	launchPad	Kennedy Space Center Launch Complex 39
+Soyuz 2	launchPad	Gagarin's Start
+Soyuz 5	launchPad	Gagarin's Start
+Soyuz 18	launchPad	Gagarin's Start
+Soyuz 18a	launchPad	Gagarin's Start
+Vostok 2	launchPad	Gagarin's Start
+Vostok 2	launchPad	Baikonur Cosmodrome
+Vostok 3	launchPad	Gagarin's Start
+Vostok 3	launchPad	Baikonur Cosmodrome
+Vostok 4	launchPad	Gagarin's Start
+Vostok 4	launchPad	Baikonur Cosmodrome
+Vostok 5	launchPad	Gagarin's Start
+Vostok 5	launchPad	Baikonur Cosmodrome
+Vostok 6	launchPad	Gagarin's Start
+Vostok 6	launchPad	Baikonur Cosmodrome
+Voskhod 1	launchPad	Gagarin's Start
+Voskhod 1	launchPad	Baikonur Cosmodrome
+Voskhod 2	launchPad	Gagarin's Start
+Voskhod 2	launchPad	Baikonur Cosmodrome
+Soyuz 3	launchPad	Baikonur Cosmodrome Site 31
+Soyuz 4	launchPad	Baikonur Cosmodrome Site 31
+Soyuz 6	launchPad	Baikonur Cosmodrome Site 31
+Soyuz 8	launchPad	Baikonur Cosmodrome Site 31
+Soyuz 7	launchPad	Gagarin's Start
+Soyuz 9	launchPad	Baikonur Cosmodrome Site 31
+Soyuz 10	launchPad	Gagarin's Start
+Soyuz 11	launchPad	Gagarin's Start
+Soyuz 12	launchPad	Gagarin's Start
+Soyuz 21	launchPad	Gagarin's Start
+Gemini 3	launchPad	Cape Canaveral Air Force Station Launch Complex 19
+Mercury-Redstone 4	launchPad	Cape Canaveral Air Force Station Launch Complex 5
+Mercury-Redstone 3	launchPad	Cape Canaveral Air Force Station Launch Complex 5
+Mercury-Atlas 6	launchPad	Cape Canaveral Air Force Station Launch Complex 14
+Mercury-Atlas 7	launchPad	Cape Canaveral Air Force Station Launch Complex 14
+Mercury-Atlas 9	launchPad	Cape Canaveral Air Force Station Launch Complex 14
+Mercury-Atlas 8	launchPad	Cape Canaveral Air Force Station Launch Complex 14
+Soyuz TMA-2	launchPad	Gagarin's Start
+Apollo 5	launchPad	Cape Canaveral Air Force Station Space Launch Complex 37
+Apollo 5	launchPad	Cape Canaveral Air Force Station
+Apollo 5	launchPad	Florida
+Apollo 5	launchPad	United States
+Apollo 6	launchPad	Kennedy Space Center Launch Complex 39
+Apollo 6	launchPad	Florida
+Apollo 6	launchPad	United States
+Apollo 4	launchPad	Kennedy Space Center Launch Complex 39
+Apollo 4	launchPad	Kennedy Space Center
+Apollo 4	launchPad	Florida
+Apollo 4	launchPad	United States
+Soyuz 29	launchPad	Gagarin's Start
+Apollo–Soyuz Test Project	launchPad	Kennedy Space Center Launch Complex 39
+Apollo–Soyuz Test Project	launchPad	Florida
+Apollo–Soyuz Test Project  Soyuz 19   1	launchPad	Gagarin's Start
+Apollo–Soyuz Test Project  Soyuz 19   1	launchPad	Kazakh Soviet Socialist Republic
+Shenzhou 5	launchPad	Jiuquan Satellite Launch Center
+Soyuz TMA-3	launchPad	Gagarin's Start
+Soyuz 13	launchPad	Gagarin's Start
+Soyuz 14	launchPad	Gagarin's Start
+Soyuz 15	launchPad	Gagarin's Start
+Soyuz 16	launchPad	Gagarin's Start
+Soyuz 17	launchPad	Gagarin's Start
+Soyuz 22	launchPad	Gagarin's Start
+Soyuz 23	launchPad	Gagarin's Start
+Skylab 2	launchPad	Kennedy Space Center
+Skylab 2	launchPad	Florida
+Skylab 2	launchPad	Kennedy Space Center Launch Complex 39
+Shenzhou 6	launchPad	Jiuquan Satellite Launch Center
+Gemini 4	launchPad	Cape Canaveral Air Force Station Launch Complex 19
+Gemini 4	launchPad	Cape Canaveral Air Force Station
+Gemini 4	launchPad	Florida
+Gemini 5	launchPad	Cape Canaveral Air Force Station Launch Complex 19
+Gemini 7	launchPad	Cape Canaveral Air Force Station Launch Complex 19
+Gemini 6A	launchPad	Cape Canaveral Air Force Station Launch Complex 19
+Gemini 8	launchPad	Cape Canaveral Air Force Station Launch Complex 19
+Gemini 9A	launchPad	Cape Canaveral Air Force Station Launch Complex 19
+Gemini 1	launchPad	Cape Canaveral Air Force Station Launch Complex 19
+AS-201	launchPad	Cape Canaveral Air Force Station
+AS-201	launchPad	Cape Canaveral Air Force Station Launch Complex 34
+AS-203	launchPad	Cape Canaveral Air Force Station
+AS-203	launchPad	Cape Canaveral Air Force Station Space Launch Complex 37
+Mercury-Atlas 5	launchPad	Cape Canaveral Air Force Station Launch Complex 14
+AS-202	launchPad	Cape Canaveral
+AS-202	launchPad	Cape Canaveral Air Force Station Launch Complex 34
+SA-1 (Apollo)	launchPad	Cape Canaveral Air Force Station Launch Complex 34
+SA-2 (Apollo)	launchPad	Cape Canaveral Air Force Station Launch Complex 34
+SA-3 (Apollo)	launchPad	Cape Canaveral Air Force Station Launch Complex 34
+SA-4 (Apollo)	launchPad	Cape Canaveral
+SA-4 (Apollo)	launchPad	Cape Canaveral Air Force Station Launch Complex 34
+SA-5 (Apollo)	launchPad	Cape Canaveral
+SA-5 (Apollo)	launchPad	Cape Canaveral Air Force Station Space Launch Complex 37
+Pad Abort Test-1 (Apollo)	launchPad	White Sands Missile Range
+A-101 (SA-6)	launchPad	Cape Canaveral Air Force Station Space Launch Complex 37
+A-102 (SA-7)	launchPad	Cape Canaveral
+A-102 (SA-7)	launchPad	Cape Canaveral Air Force Station Space Launch Complex 37
+Gemini 2	launchPad	Cape Canaveral Air Force Station Launch Complex 19
+Soyuz 28	launchPad	Gagarin's Start
+Soyuz 27	launchPad	Gagarin's Start
+Gemini 11	launchPad	Cape Canaveral Air Force Station Launch Complex 19
+Gemini 12	launchPad	Cape Canaveral Air Force Station Launch Complex 19
+Soyuz 24	launchPad	Gagarin's Start
+Soyuz 25	launchPad	Gagarin's Start
+Soyuz 26	launchPad	Gagarin's Start
+STS-41-B	launchPad	Kennedy Space Center Launch Complex 39
+STS-51-G	launchPad	Kennedy Space Center
+STS-51-J	launchPad	Kennedy Space Center Launch Complex 39
+STS-61-A	launchPad	Kennedy Space Center Launch Complex 39
+STS-61-B	launchPad	Kennedy Space Center Launch Complex 39
+STS-61-C	launchPad	Kennedy Space Center Launch Complex 39
+STS-39	launchPad	Kennedy Space Center Launch Complex 39
+STS-42	launchPad	Kennedy Space Center Launch Complex 39
+STS-55	launchPad	Kennedy Space Center Launch Complex 39
+STS-113	launchPad	Kennedy Space Center Launch Complex 39
+STS-112	launchPad	Kennedy Space Center Launch Complex 39
+STS-114	launchPad	Kennedy Space Center Launch Complex 39
+STS-105	launchPad	Kennedy Space Center Launch Complex 39
+STS-108	launchPad	Kennedy Space Center Launch Complex 39
+STS-109	launchPad	Kennedy Space Center Launch Complex 39
+STS-110	launchPad	Kennedy Space Center Launch Complex 39
+Skylab 3	launchPad	Kennedy Space Center
+Skylab 3	launchPad	Florida
+Skylab 3	launchPad	Kennedy Space Center Launch Complex 39
+Soyuz TMA-4	launchPad	Gagarin's Start
+Little Joe 2	launchPad	Wallops Flight Facility
+Skylab 4	launchPad	Kennedy Space Center
+Skylab 4	launchPad	Florida
+Skylab 4	launchPad	Kennedy Space Center Launch Complex 39
+Big Joe 1	launchPad	Cape Canaveral Air Force Station
+Big Joe 1	launchPad	Cape Canaveral Air Force Station Launch Complex 14
+Mercury-Redstone 1	launchPad	Cape Canaveral Air Force Station
+Mercury-Redstone 1	launchPad	Cape Canaveral Air Force Station Launch Complex 5
+Mercury-Redstone 1A	launchPad	Cape Canaveral Air Force Station
+Mercury-Redstone 1A	launchPad	Cape Canaveral Air Force Station Launch Complex 5
+Mercury-Redstone 2	launchPad	Cape Canaveral Air Force Station Launch Complex 5
+SpaceShipOne flight 15P	launchPad	Scaled Composites White Knight
+Mercury-Atlas 4	launchPad	Cape Canaveral Air Force Station Launch Complex 14
+Little Joe 1	launchPad	Wallops Island
+Beach Abort	launchPad	Wallops Flight Facility
+Little Joe 1B	launchPad	Wallops Flight Facility
+Soyuz TMA-1	launchPad	Gagarin's Start
+A-104 (SA-8)	launchPad	Cape Canaveral
+A-104 (SA-8)	launchPad	Cape Canaveral Air Force Station Space Launch Complex 37
+A-103 (SA-9)	launchPad	Cape Canaveral
+A-103 (SA-9)	launchPad	Cape Canaveral Air Force Station Space Launch Complex 37
+A-105 (SA-10)	launchPad	Cape Canaveral
+Pad Abort Test-2 (Apollo)	launchPad	White Sands Missile Range
+A-001	launchPad	White Sands Missile Range
+A-002	launchPad	White Sands Missile Range
+A-003	launchPad	White Sands Missile Range
+A-004	launchPad	White Sands Missile Range
+QTV	launchPad	White Sands Missile Range
+STS-121	launchPad	Kennedy Space Center Launch Complex 39
+SpaceShipOne flight 16P	launchPad	Scaled Composites White Knight
+Soyuz 30	launchPad	Gagarin's Start
+Soyuz 20	launchPad	Gagarin's Start
+Soyuz 31	launchPad	Gagarin's Start
+Soyuz T-2	launchPad	Gagarin's Start
+Soyuz T-7	launchPad	Gagarin's Start
+Soyuz T-12	launchPad	Baikonur
+Soyuz T-13	launchPad	Gagarin's Start
+Soyuz TM-30	launchPad	Gagarin's Start
+Soyuz TM-30	launchPad	Baikonur Cosmodrome
+STS-115	launchPad	Kennedy Space Center Launch Complex 39
+SpaceShipOne flight 17P	launchPad	Scaled Composites White Knight
+Shenzhou 1	launchPad	Jiuquan Satellite Launch Center
+Shenzhou 2	launchPad	Jiuquan Satellite Launch Center
+Shenzhou 3	launchPad	Jiuquan Satellite Launch Center
+Shenzhou 4	launchPad	Jiuquan Satellite Launch Center
+Soyuz TMA-5	launchPad	Gagarin's Start
+Kosmos 140	launchPad	Gagarin's Start
+Kosmos 140	launchPad	Baikonur Cosmodrome
+Shenzhou 7	launchPad	Jiuquan Satellite Launch Center
+Soyuz TMA-6	launchPad	Gagarin's Start
+STS-116	launchPad	Kennedy Space Center Launch Complex 39
+STS-117	launchPad	Kennedy Space Center Launch Complex 39
+STS-118	launchPad	Kennedy Space Center Launch Complex 39
+STS-119	launchPad	Kennedy Space Center Launch Complex 39
+STS-3xx	launchPad	Kennedy Space Center Launch Complex 39
+STS-3xx	launchPad	Kennedy Space Center
+Soyuz TMA-7	launchPad	Gagarin's Start
+STS-120	launchPad	Kennedy Space Center Launch Complex 39
+Soyuz TMA-8	launchPad	Gagarin's Start
+Soyuz TMA-8	launchPad	Baikonur Cosmodrome
+STS-122	launchPad	Kennedy Space Center Launch Complex 39
+STS-51-L	launchPad	Kennedy Space Center Launch Complex 39
+STS-127	launchPad	Kennedy Space Center Launch Complex 39
+Soyuz TMA-9	launchPad	Gagarin's Start
+Soyuz TMA-10	launchPad	Gagarin's Start
+Soyuz TMA-10	launchPad	Baikonur Cosmodrome
+Soyuz TMA-11	launchPad	Gagarin's Start
+Soyuz TMA-11	launchPad	Baikonur Cosmodrome
+STS-126	launchPad	Kennedy Space Center Launch Complex 39
+STS-125	launchPad	Kennedy Space Center Launch Complex 39
+STS-123	launchPad	Kennedy Space Center Launch Complex 39
+STS-124	launchPad	Launch complex 39#LC-39A
+Soyuz TMA-12	launchPad	Gagarin's Start
+Soyuz TMA-12	launchPad	Baikonur Cosmodrome
+Ares V-Y	launchPad	Kennedy Space Center Launch Complex 39
+STS-62-A	launchPad	Vandenberg AFB Space Launch Complex 6
+Soyuz TMA-13	launchPad	Gagarin's Start
+Soyuz TMA-13	launchPad	Baikonur Cosmodrome
+STS-41-F	launchPad	Kennedy Space Center Launch Complex 39
+Ares I-X	launchPad	Kennedy Space Center
+Soyuz TMA-14	launchPad	Gagarin's Start
+Soyuz TMA-14	launchPad	Baikonur Cosmodrome
+Soyuz TMA-15	launchPad	Gagarin's Start
+Soyuz TMA-15	launchPad	Baikonur Cosmodrome
+Soyuz TMA-16	launchPad	Gagarin's Start
+Soyuz TMA-16	launchPad	Baikonur Cosmodrome
+Ares I-Y	launchPad	Kennedy Space Center Launch Complex 39
+STS-400	launchPad	Kennedy Space Center Launch Complex 39
+STS-400	launchPad	Kennedy Space Center
+Soyuz TMA-17	launchPad	Gagarin's Start
+Soyuz TMA-17	launchPad	Baikonur Cosmodrome
+STS-134	launchPad	Kennedy Space Center Launch Complex 39
+Soyuz TMA-01M	launchPad	Baikonur Cosmodrome
+Soyuz TMA-18	launchPad	Baikonur Cosmodrome
+Soyuz TMA-19	launchPad	Gagarin's Start
+Soyuz TMA-19	launchPad	Baikonur Cosmodrome
+Soyuz TMA-20	launchPad	Baikonur Cosmodrome
+Soyuz TMA-21	launchPad	Baikonur Cosmodrome
+STS-135	launchPad	Kennedy Space Center Launch Complex 39
+Soyuz TMA-02M	launchPad	Gagarin's Start
+Soyuz TMA-02M	launchPad	Baikonur Cosmodrome
+Pad Abort 1 (Orion)	launchPad	White Sands Missile Range
+Hypersonic Flight Experiment	launchPad	Satish Dhawan Space Centre
+Hypersonic Flight Experiment	launchPad	Sriharikota
+Salyut 6 EP-1	launchPad	Gagarin's Start
+Kosmos 656	launchPad	Gagarin's Start
+Kosmos 656	launchPad	Baikonur Cosmodrome
+Kosmos 396	launchPad	Plesetsk Cosmodrome Site 43
+Kosmos 396	launchPad	Plesetsk Cosmodrome

@@ -1,0 +1,2137 @@
+Sheffield station  /Sheffield Hallam University   1	stationStructure	Elevated
+Union Station (Toronto)	stationStructure	At-grade
+Spring Valley (DART station)	stationStructure	Elevated
+LBJ/Central (DART station)	stationStructure	At grade
+Cityplace (DART station)	stationStructure	Underground
+St. Paul (DART station)	stationStructure	At grade
+Pearl (DART station)	stationStructure	At grade
+West End (DART station)	stationStructure	At grade
+Akard (DART station)	stationStructure	At grade
+Hampton (DART station)	stationStructure	At grade
+Downtown Garland (DART station)	stationStructure	At-grade
+Forest/Jupiter (DART station)	stationStructure	At-grade
+LBJ/Skillman (DART station)	stationStructure	At-grade
+Tenleytown–AU (WMATA station)	stationStructure	Underground
+Metro Center (WMATA station)	stationStructure	Underground
+Foggy Bottom – GWU (WMATA station)	stationStructure	Underground
+Farragut North (WMATA station)	stationStructure	Underground
+Dupont Circle (WMATA station)	stationStructure	Underground
+Woodley Park – Zoo / Adams Morgan (WMATA station)	stationStructure	Underground
+Van Ness – UDC (WMATA station)	stationStructure	Underground
+Cleveland Park (WMATA station)	stationStructure	Underground
+Friendship Heights (WMATA station)	stationStructure	Underground
+Medical Center (WMATA station)	stationStructure	Underground
+Bethesda (WMATA station)	stationStructure	Underground
+White Flint (WMATA station)	stationStructure	Open-cut
+Twinbrook (WMATA station)	stationStructure	Surface
+Shady Grove (WMATA station)	stationStructure	Surface
+Gallery Place – Chinatown (WMATA station)	stationStructure	Underground
+Judiciary Square (WMATA station)	stationStructure	Underground
+Union Station (WMATA station)	stationStructure	Underground
+New York Avenue–Florida Avenue–Gallaudet University (WMATA station)	stationStructure	Surface
+Rhode Island Avenue – Brentwood (WMATA station)	stationStructure	Elevated
+Brookland–CUA (WMATA station)	stationStructure	Surface
+Takoma (WMATA station)	stationStructure	Surface
+Grosvenor–Strathmore (WMATA station)	stationStructure	Open-cut
+Forest Glen (WMATA station)	stationStructure	Underground
+Wheaton (WMATA station)	stationStructure	Underground
+Glenmont (WMATA station)	stationStructure	Underground
+Vienna/Fairfax–GMU (WMATA station)	stationStructure	Surface
+Dunn Loring – Merrifield (WMATA station)	stationStructure	Surface
+West Falls Church – VT/UVA (WMATA station)	stationStructure	Surface
+East Falls Church (WMATA station)	stationStructure	Surface
+Ballston–MU (WMATA station)	stationStructure	Underground
+Crystal City (WMATA station)	stationStructure	Underground
+Virginia Square – GMU (WMATA station)	stationStructure	Underground
+Clarendon (WMATA station)	stationStructure	Underground
+Court House (WMATA station)	stationStructure	Underground
+Rosslyn (WMATA station)	stationStructure	Underground
+Farragut West (WMATA station)	stationStructure	Underground
+McPherson Square (WMATA station)	stationStructure	Underground
+Federal Triangle (WMATA station)	stationStructure	Underground
+Smithsonian (WMATA station)	stationStructure	Underground
+King Street (WMATA station)	stationStructure	Embankment
+Eisenhower Avenue (WMATA station)	stationStructure	Elevated
+Braddock Road (WMATA station)	stationStructure	Embankment
+Ronald Reagan Washington National Airport (WMATA station)	stationStructure	Elevated
+Pentagon City (WMATA station)	stationStructure	Underground
+Pentagon (WMATA station)	stationStructure	Underground
+Arlington Cemetery (WMATA station)	stationStructure	Open-cut
+L'Enfant Plaza (WMATA station)	stationStructure	Underground
+Mount Vernon Square / 7th Street – Convention Center (WMATA station)	stationStructure	Underground
+Archives – Navy Memorial – Penn Quarter (WMATA station)	stationStructure	Underground
+Federal Center SW (WMATA station)	stationStructure	Underground
+Eastern Market (WMATA station)	stationStructure	Underground
+Capitol South (WMATA station)	stationStructure	Underground
+Stadium–Armory (WMATA station)	stationStructure	Underground
+Potomac Avenue (WMATA station)	stationStructure	Underground
+Capitol Heights (WMATA station)	stationStructure	Underground
+Benning Road (WMATA station)	stationStructure	Underground
+Morgan Boulevard (WMATA station)	stationStructure	Open-cut
+Largo Town Center (WMATA station)	stationStructure	Elevated
+Minnesota Avenue (WMATA station)	stationStructure	Surface
+Cheverly (WMATA station)	stationStructure	Surface
+Deanwood (WMATA station)	stationStructure	Surface
+Landover (WMATA station)	stationStructure	Embankment
+Shaw – Howard University (WMATA station)	stationStructure	Underground
+U Street / African-American Civil War Memorial / Cardozo (WMATA station)	stationStructure	Underground
+Columbia Heights (WMATA station)	stationStructure	Underground
+Georgia Avenue – Petworth (WMATA station)	stationStructure	Underground
+West Hyattsville (WMATA station)	stationStructure	Elevated
+Prince George's Plaza (WMATA station)	stationStructure	Open-cut
+Waterfront–SEU (WMATA station)	stationStructure	Underground
+Navy Yard (WMATA station)	stationStructure	Underground
+Congress Heights (WMATA station)	stationStructure	Underground
+Anacostia (WMATA station)	stationStructure	Underground
+Southern Avenue (WMATA station)	stationStructure	Open-cut
+Naylor Road (WMATA station)	stationStructure	Elevated
+Suitland (WMATA station)	stationStructure	Open-cut
+Branch Avenue (WMATA station)	stationStructure	Open-cut
+Lahore Railway Station	stationStructure	Standard (On Ground Station)
+Didube (Tbilisi Metro)	stationStructure	On the ground
+King George Station	stationStructure	Elevated
+City Hall MRT Station	stationStructure	Underground
+Jurong East MRT Station	stationStructure	Elevated
+Raffles Place MRT Station	stationStructure	Underground
+Paya Lebar MRT Station	stationStructure	Elevated (East West Line)
+Paya Lebar MRT Station	stationStructure	Underground (Circle Line)
+Dhoby Ghaut MRT Station	stationStructure	Underground
+Buona Vista MRT Station	stationStructure	Elevated/Underground
+Pasir Ris MRT Station	stationStructure	Elevated
+Bishan MRT Station	stationStructure	At-Grade (North-South Line)
+Bishan MRT Station	stationStructure	Underground (Circle Line)
+Boon Lay MRT Station	stationStructure	Elevated
+Marina Bay MRT Station	stationStructure	Underground
+Chinatown MRT Station	stationStructure	Underground
+Changi Airport MRT Station	stationStructure	Underground
+Little India MRT Station	stationStructure	Underground
+Simei MRT Station	stationStructure	Elevated
+Ang Mo Kio MRT Station	stationStructure	Elevated
+Downsview (TTC)	stationStructure	underground
+Dupont (TTC)	stationStructure	underground
+St. Clair West (TTC)	stationStructure	underground
+Spadina (TTC)	stationStructure	underground
+St. George (TTC)	stationStructure	underground
+Museum (TTC)	stationStructure	underground
+St. Patrick (TTC)	stationStructure	underground
+Osgoode (TTC)	stationStructure	underground
+St. Andrew (TTC)	stationStructure	underground
+Queen's Park (TTC)	stationStructure	underground
+Union (TTC)	stationStructure	underground
+King (TTC)	stationStructure	underground
+Queen (TTC)	stationStructure	underground
+College (TTC)	stationStructure	underground
+Wellesley (TTC)	stationStructure	underground
+Dundas (TTC)	stationStructure	underground
+Bloor-Yonge (TTC)	stationStructure	underground
+Rosedale (TTC)	stationStructure	open cut
+Summerhill (TTC)	stationStructure	underground
+St. Clair (TTC)	stationStructure	underground
+Davisville (TTC)	stationStructure	above ground
+Eglinton (TTC)	stationStructure	underground
+Lawrence (TTC)	stationStructure	underground
+York Mills (TTC)	stationStructure	underground
+Sheppard–Yonge (TTC)	stationStructure	underground
+North York Centre (TTC)	stationStructure	underground
+Finch (TTC)	stationStructure	underground
+Bayview (TTC)	stationStructure	underground
+Bessarion (TTC)	stationStructure	underground
+Leslie (TTC)	stationStructure	underground
+Don Mills (TTC)	stationStructure	underground
+Kennedy (TTC)	stationStructure	underground (BD line)
+Kennedy (TTC)	stationStructure	elevated (SRT line)
+Lawrence East (TTC)	stationStructure	at grade
+Ellesmere (TTC)	stationStructure	at grade
+Midland (TTC)	stationStructure	elevated
+Scarborough Centre (TTC)	stationStructure	elevated
+McCowan (TTC)	stationStructure	elevated
+Kipling (TTC)	stationStructure	underground
+Islington (TTC)	stationStructure	underground
+Royal York (TTC)	stationStructure	underground
+Old Mill (TTC)	stationStructure	underground/elevated
+Jane (TTC)	stationStructure	underground
+High Park (TTC)	stationStructure	underground
+Runnymede (TTC)	stationStructure	underground
+Dundas West (TTC)	stationStructure	Underground
+Keele (TTC)	stationStructure	elevated
+Lansdowne (TTC)	stationStructure	underground
+Dufferin (TTC)	stationStructure	underground
+Ossington (TTC)	stationStructure	underground
+Christie (TTC)	stationStructure	underground
+Bathurst (TTC)	stationStructure	underground
+Bay (TTC)	stationStructure	underground
+Sherbourne (TTC)	stationStructure	underground
+Castle Frank (TTC)	stationStructure	underground
+Broadview (TTC)	stationStructure	underground
+Pape (TTC)	stationStructure	underground
+Chester (TTC)	stationStructure	underground
+Donlands (TTC)	stationStructure	underground
+Greenwood (TTC)	stationStructure	underground
+Coxwell (TTC)	stationStructure	underground
+Woodbine (TTC)	stationStructure	underground
+Main Street (TTC)	stationStructure	underground
+Warden (TTC)	stationStructure	elevated
+Victoria Park (TTC)	stationStructure	elevated
+Hollywood (Tri-Rail station)	stationStructure	at grade
+Bloor GO Station	stationStructure	Shelter
+Weston GO Station	stationStructure	Waiting room and washroom
+Etobicoke North GO Station	stationStructure	Waiting room and washroom
+Malton GO Station	stationStructure	Waiting room and washroom
+Nollendorfplatz (Berlin U-Bahn)	stationStructure	Elevated (U2), Underground (U1, U3-4)
+Dixie GO Station	stationStructure	Brick station building
+Cooksville GO Station	stationStructure	Brick station building
+Erindale GO Station	stationStructure	Brick station building and elevators to platforms
+Streetsville GO Station	stationStructure	Brick station building with a tunnel and elevators to platforms
+Meadowvale GO Station	stationStructure	Brick station building and additional shelters on the platform
+Milton GO Station	stationStructure	Brick station building
+8th Street (SEPTA station)	stationStructure	Underground
+Georgetown GO Station	stationStructure	Via Rail heritage station building
+Bucharest North Railway Station	stationStructure	terminal station
+York University GO Station	stationStructure	Shelter on platform
+Burrard Station	stationStructure	Underground
+Granville Station (TransLink)	stationStructure	Underground
+Stadium–Chinatown Station	stationStructure	At grade, partially elevated, and underground
+Main Street – Science World Station	stationStructure	Elevated
+Metrotown Station	stationStructure	Elevated
+Scott Road Station	stationStructure	Elevated
+Columbia Station	stationStructure	Underground
+Greenboro Station (OC Transpo)	stationStructure	At-grade and above grade (walkway)
+Carling Station (OC Transpo)	stationStructure	Platform and track are below-grade with the station entrance at surface
+Nanaimo Station	stationStructure	Elevated
+Patterson Station	stationStructure	Elevated
+Royal Oak Station (TransLink)	stationStructure	Elevated
+29th Avenue Station	stationStructure	At grade
+Joyce–Collingwood Station	stationStructure	Elevated
+Sapperton Station	stationStructure	Elevated
+Braid Station	stationStructure	Elevated
+Eureka Station	stationStructure	underground
+Danforth GO Station	stationStructure	Station building on north side
+Long Branch GO Station	stationStructure	Station building
+Oriole GO Station	stationStructure	Station building with public washroom and waiting room
+Tampines MRT Station	stationStructure	Elevated (East West Line)
+Tampines MRT Station	stationStructure	Underground (Downtown Line)
+Dover MRT Station	stationStructure	Elevated
+Expo MRT Station	stationStructure	Elevated (East West Line)
+Expo MRT Station	stationStructure	Underground (Downtown Line)
+Hatfield Government Center (MAX station)	stationStructure	At-grade
+Portland International Airport (MAX station)	stationStructure	At-grade
+King City GO Station	stationStructure	Brick station building
+Maple GO Station	stationStructure	Wood frame historic station building
+Aurora GO Station	stationStructure	Heritage wood frame station building
+Rutherford GO Station	stationStructure	Brick station building
+East Gwillimbury GO Station	stationStructure	Brick station building
+Old Cummer GO Station	stationStructure	Station building with public washroom and waiting room
+Richmond Hill GO Station	stationStructure	Station building with public washroom and waiting room
+Langstaff GO Station	stationStructure	Station building with public washroom and waiting room
+Agincourt GO Station	stationStructure	Brick station building
+Milliken GO Station	stationStructure	Station building
+Centennial GO Station	stationStructure	No building and only minimum facilities
+Unionville GO Station	stationStructure	Station building with public washroom and waiting room
+Markham GO Station	stationStructure	Station building with public washroom and waiting room
+Mount Joy GO Station	stationStructure	Station building
+Kennedy GO Station	stationStructure	None
+Stouffville GO Station	stationStructure	Historic station building
+Port Credit GO Station	stationStructure	Station building
+Clarkson GO Station	stationStructure	Station building
+Appleby GO Station	stationStructure	Station building
+Burlington GO Station	stationStructure	Station building
+Oakville GO Station	stationStructure	New station building is under construction
+Aldershot GO Station	stationStructure	Station building with a waiting room and public washroom
+Bronte GO Station	stationStructure	Station building
+Mimico GO Station	stationStructure	Station building
+Eglinton GO Station	stationStructure	Station building
+Scarborough GO Station	stationStructure	Station building
+Rouge Hill GO Station	stationStructure	Station building
+Ajax GO Station	stationStructure	Station building with tunnel and elevator access to tracks
+Guildwood GO Station	stationStructure	Station building with tunnels and elevators to all tracks
+Pickering GO Station	stationStructure	Station building and tunnels and elevators to platforms
+Oshawa GO Station	stationStructure	Via Rail building with manned ticket counter, public washrooms and waiting room
+Whitby GO Station	stationStructure	Station building
+Clementi MRT Station	stationStructure	Elevated
+İstanbul Haydarpaşa Terminal	stationStructure	At-grade
+Bukit Batok MRT Station	stationStructure	Elevated
+Lisgar GO Station	stationStructure	Brick station building
+Orchard MRT Station	stationStructure	Underground
+Buangkok MRT Station	stationStructure	Underground
+Somerset MRT Station	stationStructure	Underground
+Potong Pasir MRT Station	stationStructure	Underground
+Newton MRT Station	stationStructure	Underground
+Serangoon MRT Station	stationStructure	Underground
+Kovan MRT Station	stationStructure	Underground
+Hougang MRT Station	stationStructure	Underground
+Farrer Park MRT Station	stationStructure	Underground
+Tanah Merah MRT Station	stationStructure	Elevated
+Ruoholahti metro station	stationStructure	Underground
+Kamppi metro station	stationStructure	Underground
+Rautatientori metro station	stationStructure	Underground
+Kaisaniemi metro station	stationStructure	Underground
+Hakaniemi metro station	stationStructure	Underground
+Sörnäinen metro station	stationStructure	Underground
+Puotila metro station	stationStructure	Underground
+Botanic Gardens MRT Station	stationStructure	Underground
+MacPherson MRT Station	stationStructure	Underground
+Promenade MRT Station	stationStructure	Underground
+Toa Payoh MRT Station	stationStructure	Underground
+Sembawang MRT Station	stationStructure	Elevated
+Yishun MRT Station	stationStructure	Elevated
+Sokolniki (Moscow Metro)	stationStructure	Shallow column tri-vault
+Ulitsa Podbelskogo	stationStructure	Shallow column tri-vault
+Cherkizovskaya	stationStructure	Shallow single-vault
+Preobrazhenskaya Ploshchad	stationStructure	Shallow column tri-vault
+Krasnoselskaya	stationStructure	Shallow column double-vault
+Komsomolskaya (Sokolnicheskaya Line)	stationStructure	Shallow column tri-vault
+Lubyanka (Moscow Metro)	stationStructure	Deep pylon triple-vault station
+Okhotny Ryad (Moscow Metro)	stationStructure	Pylon triple-vault station
+Biblioteka Imeni Lenina	stationStructure	Single-vault station
+Park Kultury (Sokolnicheskaya Line)	stationStructure	Shallow column triple-vault
+Frunzenskaya (Moscow Metro)	stationStructure	Deep pylon triple-vault station
+Surrey Central Station	stationStructure	Elevated
+Novena MRT Station	stationStructure	Underground
+Braddell MRT Station	stationStructure	Underground
+Bugis MRT Station	stationStructure	Underground
+Sportivnaya (Moscow Metro)	stationStructure	Deep pylon triple-vault station
+Universitet (Moscow Metro)	stationStructure	deep pylon triple-vault station
+Prospekt Vernadskogo (Moscow Metro)	stationStructure	Shallow column triple-vault
+Yugo-Zapadnaya	stationStructure	Shallow column triple-vault station
+Boon Keng MRT Station	stationStructure	Underground
+Woodleigh MRT Station	stationStructure	Underground
+Commonwealth MRT Station	stationStructure	Elevated
+Tiong Bahru MRT Station	stationStructure	Underground
+Yorkdale Bus Terminal	stationStructure	Lower level of an office building, with waiting room, refreshments and public washrooms
+Union Station Bus Terminal	stationStructure	Yes
+Kashirskaya	stationStructure	Shallow column (\
+Kantemirovskaya (Moscow Metro)	stationStructure	Shallow one-vault
+Central Station (Montreal)	stationStructure	At-grade
+Bukit Gombak MRT Station	stationStructure	Elevated
+Yew Tee MRT Station	stationStructure	Elevated
+Kranji MRT Station	stationStructure	Elevated
+Marsiling MRT Station	stationStructure	Elevated
+Woodlands MRT Station	stationStructure	Elevated
+Admiralty MRT Station	stationStructure	Elevated
+Khatib MRT Station	stationStructure	Elevated
+Yio Chu Kang MRT Station	stationStructure	Elevated
+Bedok MRT Station	stationStructure	Elevated
+Kembangan MRT Station	stationStructure	Elevated
+Aljunied MRT Station	stationStructure	Elevated
+Eunos MRT Station	stationStructure	Elevated
+Lavender MRT Station	stationStructure	Underground
+Kallang MRT Station	stationStructure	Elevated
+Tanjong Pagar MRT Station	stationStructure	Underground
+Redhill MRT Station	stationStructure	Elevated
+Chinese Garden MRT Station	stationStructure	Elevated
+Lakeside MRT Station	stationStructure	Elevated
+Queenstown MRT Station	stationStructure	Elevated
+Joo Koon MRT Station	stationStructure	Elevated
+Pioneer MRT Station	stationStructure	Elevated
+Stadium MRT Station	stationStructure	Underground
+Nicoll Highway MRT Station	stationStructure	Underground
+Dakota MRT Station	stationStructure	Underground
+Mountbatten MRT Station	stationStructure	Underground
+Tai Seng MRT Station	stationStructure	Underground
+Bartley MRT Station	stationStructure	Underground
+Marymount MRT Station	stationStructure	Underground
+Lorong Chuan MRT Station	stationStructure	Underground
+Bras Basah MRT Station	stationStructure	Underground
+Esplanade MRT Station	stationStructure	Underground
+Downtown MRT Station	stationStructure	Underground
+Telok Ayer MRT Station	stationStructure	Underground
+Bayfront MRT Station	stationStructure	Underground
+Tsaritsyno (Moscow Metro)	stationStructure	Shallow column tri-vault
+Orekhovo (Moscow Metro)	stationStructure	Shallow column triple-vault
+Domodedovskaya (Moscow Metro)	stationStructure	Shallow column tri-vault
+Union Station (South Bend, Indiana)	stationStructure	Art Deco architecture
+Krasnogvardeyskaya (Moscow Metro)	stationStructure	Shallow one-vault
+New Westminster Station	stationStructure	Elevated
+Chennai Egmore	stationStructure	Standard on-ground station
+Royapuram	stationStructure	Standard on-ground station
+Park Pobedy (Moscow Metro)	stationStructure	Deep pylon tri-span
+Krylatskoye (Moscow Metro)	stationStructure	Shallow single-vault
+Molodyozhnaya (Moscow Metro)	stationStructure	Shallow column tri-vault
+Kuntsevskaya	stationStructure	Ground
+Napanee railway station	stationStructure	Shelter
+Trenton Junction railway station	stationStructure	Shelter and washrooms
+Kitchener railway station	stationStructure	Heritage station
+Stratford, Ontario railway station	stationStructure	Two storey station building
+One-north MRT Station	stationStructure	Underground
+Lougheed Town Centre Station	stationStructure	Elevated
+Daylesford (SEPTA station)	stationStructure	Platformed-plexiglass shelter
+Downingtown (SEPTA station)	stationStructure	Enclosed plexiglas shelters
+Turku Central railway station	stationStructure	ground station
+Helsinki Central railway station	stationStructure	ground station
+Pasila railway station	stationStructure	bridge station
+Copenhagen Central Station	stationStructure	Architect: Heinrich Wenck
+Gare do Oriente	stationStructure	Concrete
+Niagara Falls, Ontario railway station	stationStructure	Heritage building
+St. Catharines railway station	stationStructure	station and express building
+Renfrew Station	stationStructure	Elevated
+Senja LRT Station	stationStructure	Elevated
+Production Way – University Station	stationStructure	Elevated
+Brentwood Town Centre Station	stationStructure	Elevated
+Rupert Station	stationStructure	Elevated
+Holdom Station	stationStructure	Elevated
+Pasir Panjang MRT Station	stationStructure	Underground
+Kent Ridge MRT Station	stationStructure	Underground
+Haw Par Villa MRT Station	stationStructure	Underground
+Labrador Park MRT Station	stationStructure	Underground
+Telok Blangah MRT Station	stationStructure	Underground
+Holland Village MRT Station	stationStructure	Underground
+Bukit Brown MRT Station	stationStructure	Underground
+Farrer Road MRT Station	stationStructure	Underground
+Caldecott MRT Station	stationStructure	Underground
+Kurskaya (Koltsevaya Line)	stationStructure	Deep column tri-vault
+Komsomolskaya (Koltsevaya Line)	stationStructure	Deep column tri-vault
+Prospekt Mira (Koltsevaya Line)	stationStructure	1 island platform
+Pacific Central Station	stationStructure	Neoclassical Revival, heritage railway station building
+Novoslobodskaya	stationStructure	Deep pylon tri-span
+Krasnopresnenskaya	stationStructure	Deep pylon tri-span
+Medvedkovo (Moscow Metro)	stationStructure	Shallow pillar tri-vault
+Babushkinskaya	stationStructure	Shallow single-vault
+Sviblovo (Moscow Metro)	stationStructure	Shallow column tri-vault
+Kitay-gorod (Moscow Metro)	stationStructure	connected to two subways with at least 11 unique exits, two transfer coridors between the platforms
+VCC–Clark Station	stationStructure	Elevated
+Tretyakovskaya (Moscow Metro)	stationStructure	Deep pylon triple-vault station
+Oktyabrskaya (Kaluzhsko-Rizhskaya Line)	stationStructure	Deep pylon tri-span
+Royal Centre tram stop	stationStructure	On street
+5th Street (SEPTA Market–Frankford Line station)	stationStructure	Underground
+11th Street (SEPTA Market–Frankford Line station)	stationStructure	Underground
+15th Street (SEPTA station)	stationStructure	Underground
+Warszawa Gdańska station	stationStructure	Underground
+Seneca (Metro Rail)	stationStructure	At-grade
+Church (Metro Rail)	stationStructure	At-grade
+Theater (Metro Rail)	stationStructure	At-grade
+Erie Canal Harbor (Metro Rail)	stationStructure	At-grade
+Special Events (Metro Rail)	stationStructure	At-grade
+Fountain Plaza (Metro Rail)	stationStructure	At-grade
+Lafayette Square (Metro Rail)	stationStructure	At-grade
+Allen-Medical Campus (Metro Rail)	stationStructure	Underground (depth, 40ft.)
+Summer–Best (Metro Rail)	stationStructure	Underground (depth, 40ft.)
+Utica (Metro Rail)	stationStructure	Underground (depth, appr. 40ft.)
+Humboldt–Hospital (Metro Rail)	stationStructure	Underground (depth, 75ft.)
+Delavan / Canisius College (Metro Rail)	stationStructure	Underground (depth, 85ft.)
+Amherst Street (Metro Rail)	stationStructure	Underground (depth, 40ft.)
+LaSalle (Metro Rail)	stationStructure	Underground (depth, 47ft.)
+University (Metro Rail)	stationStructure	Underground (depth, 55ft.)
+South Acton (MBTA station)	stationStructure	at-grade
+Eastwick (SEPTA station)	stationStructure	Surface
+Prospect Park (SEPTA station)	stationStructure	Elevated
+Pennbrook (SEPTA station)	stationStructure	Open acrylic glass shelters
+Fort Washington (SEPTA station)	stationStructure	elevated
+Veterans Square (SEPTA Route 101 station)	stationStructure	None
+Olive Street (SEPTA Route 101 station)	stationStructure	None
+City Hall (SEPTA station)	stationStructure	Underground
+33rd Street (SEPTA station)	stationStructure	Underground
+Novoyasenevskaya (Moscow Metro)	stationStructure	Shallow column tri-vault
+Chistye Prudy (Moscow Metro)	stationStructure	Deep pylon tri-vault
+Krasnye Vorota (Moscow Metro)	stationStructure	Deep pylon tri-vault
+Edmonds Station	stationStructure	At grade
+22nd Street Station (TransLink)	stationStructure	Elevated
+Gateway Station	stationStructure	Elevated
+Planernaya (Moscow Metro)	stationStructure	Southern exit - local with no bus service, Northern - interchange point
+Finland Station	stationStructure	at-grade
+Wells Street Terminal (Chicago)	stationStructure	Elevated
+Punggol Point LRT Station	stationStructure	Elevated
+Newmarket Bus Terminal	stationStructure	Waiting room and public washrooms
+Wheeler (METRORail station)	stationStructure	At grade
+South View LRT Station	stationStructure	Elevated
+Teck Whye LRT Station	stationStructure	Elevated
+Keat Hong LRT Station	stationStructure	Elevated
+Phoenix LRT Station	stationStructure	Elevated
+Petir LRT Station	stationStructure	Elevated
+Pending LRT Station	stationStructure	Elevated
+Bangkit LRT Station	stationStructure	Elevated
+Fajar LRT Station	stationStructure	Elevated
+Segar LRT Station	stationStructure	Elevated
+Jelapang LRT Station	stationStructure	Elevated
+Ten Mile Junction LRT Station	stationStructure	Elevated (within a building)
+Compassvale LRT Station	stationStructure	Elevated
+Rumbia LRT Station	stationStructure	Elevated
+Bakau LRT Station	stationStructure	Elevated
+Ranggung LRT Station	stationStructure	Elevated
+Cheng Lim LRT Station	stationStructure	Elevated
+Kangkar LRT Station	stationStructure	Elevated
+Farmway LRT Station	stationStructure	Elevated
+Kupang LRT Station	stationStructure	Elevated
+Fernvale LRT Station	stationStructure	Elevated
+Thanggam LRT Station	stationStructure	Elevated
+Layar LRT Station	stationStructure	Elevated
+Tongkang LRT Station	stationStructure	Elevated
+Renjong LRT Station	stationStructure	Elevated
+Cove LRT Station	stationStructure	Elevated
+Coral Edge LRT Station	stationStructure	Elevated
+Kadaloor LRT Station	stationStructure	Elevated
+Meridian LRT Station	stationStructure	Elevated
+Riviera LRT Station	stationStructure	Elevated
+Oasis LRT Station	stationStructure	Elevated
+Damai LRT Station, Singapore	stationStructure	Elevated
+Sam Kee LRT Station	stationStructure	Elevated
+Teck Lee LRT Station	stationStructure	Elevated
+Samudera LRT Station	stationStructure	Elevated
+Sumang LRT Station	stationStructure	Elevated
+Nibong LRT Station	stationStructure	Elevated
+Soo Teck LRT Station	stationStructure	Elevated
+Howard (CTA station)	stationStructure	Elevated
+Lake City Way Station	stationStructure	Elevated
+Fannin South (METRORail station)	stationStructure	At-grade
+Chinatown (SEPTA Broad Street Line station)	stationStructure	Underground
+Central (JTA Skyway)	stationStructure	Elevated
+Hemming Plaza (JTA Skyway)	stationStructure	Elevated
+Rosa L. Parks/FCCJ (JTA Skyway)	stationStructure	Elevated
+Jefferson (JTA Skyway)	stationStructure	Elevated
+Convention Center (JTA Skyway)	stationStructure	Elevated
+San Marco (JTA Skyway)	stationStructure	Elevated
+Riverplace (JTA Skyway)	stationStructure	Elevated
+Kings Avenue (JTA Skyway)	stationStructure	Elevated
+Nørreport Station	stationStructure	Underground
+Milano Rogoredo railway station	stationStructure	at-grade, crossing station
+Sperling – Burnaby Lake Station	stationStructure	Elevated
+Gilmore Station	stationStructure	Elevated
+Tysons–McLean (WMATA station)	stationStructure	Elevated
+Tysons Central (WMATA station)	stationStructure	Open-cut
+Tysons – Spring Hill Road (WMATA station)	stationStructure	Elevated
+Reston – Wiehle Avenue (WMATA station)	stationStructure	Surface
+Herndon – Reston West (WMATA station)	stationStructure	Surface
+Reston Town Center (WMATA station)	stationStructure	Surface
+Herndon – Dulles East (WMATA station)	stationStructure	Surface
+Dulles International Airport (WMATA station)	stationStructure	Underground
+Route 606 (WMATA station)	stationStructure	Surface
+Route 772 (WMATA station)	stationStructure	Surface
+Zinkensdamm metro station	stationStructure	underground
+95th/Dan Ryan (CTA station)	stationStructure	Surface Level
+Washington/State (CTA station)	stationStructure	Subway
+Avtovo (Saint Petersburg Metro)	stationStructure	Underground
+Chicago (CTA Red Line station)	stationStructure	Subway
+Alliance (Amtrak station)	stationStructure	At-grade
+Paseo de San Antonio (VTA)	stationStructure	Shelters
+Saint James (VTA)	stationStructure	Shelters
+Santa Clara (VTA)	stationStructure	Shelters
+Rådmansgatan metro station	stationStructure	Underground
+13th Street (SEPTA station)	stationStructure	Underground
+Granville (CTA station)	stationStructure	Elevated
+Quincy (CTA station)	stationStructure	Elevated
+Berwyn (CTA station)	stationStructure	Elevated
+Loyola (CTA station)	stationStructure	Elevated
+Belmont (CTA North Side Main Line station)	stationStructure	Elevated
+Washington/Wells (CTA station)	stationStructure	Elevated
+Merchandise Mart (CTA station)	stationStructure	Elevated
+Chicago (CTA Brown and Purple Lines station)	stationStructure	Elevated
+Argyle (CTA station)	stationStructure	Elevated
+37th Street (SEPTA station)	stationStructure	Underground
+36th Street (SEPTA station)	stationStructure	Underground
+22nd Street (SEPTA station)	stationStructure	Underground
+Noyes (CTA station)	stationStructure	Elevated
+Blumentritt LRT Station	stationStructure	Viaduct
+Islands Brygge Station	stationStructure	Underground
+Central (CTA Purple Line station)	stationStructure	Elevated
+Douglas railway station	stationStructure	Station Building
+Lansdowne Station (TransLink)	stationStructure	Elevated
+Richmond–Brighouse Station	stationStructure	Elevated
+Aberdeen Station (TransLink)	stationStructure	Elevated
+Foster (CTA station)	stationStructure	Elevated
+Walter Rand Transportation Center	stationStructure	River Line: At-grade
+Walter Rand Transportation Center	stationStructure	PATCO: Underground
+Merced (Amtrak station)	stationStructure	at-grade
+Arts Center (MARTA station)	stationStructure	Underground
+Midtown (MARTA station)	stationStructure	Underground
+North Avenue (MARTA station)	stationStructure	Underground
+Civic Center (MARTA station)	stationStructure	Elevated
+Union Station (Winnipeg)	stationStructure	At-grade
+Peachtree Center (MARTA station)	stationStructure	Underground
+Lindbergh Center (MARTA station)	stationStructure	At-grade
+Five Points (MARTA station)	stationStructure	Underground
+Georgia State (MARTA station)	stationStructure	At-grade
+Decatur (MARTA station)	stationStructure	underground
+Doraville (MARTA station)	stationStructure	Elevated
+Avondale (MARTA station)	stationStructure	At-grade
+Bratislavskaya (Moscow Metro)	stationStructure	Shallow pillar bi-span
+Inman Park / Reynoldstown (MARTA station)	stationStructure	At-grade
+Edgewood / Candler Park (MARTA station)	stationStructure	Elevated
+King Memorial (MARTA station)	stationStructure	Elevated
+East Lake (MARTA station)	stationStructure	At-grade
+Buckhead (MARTA station)	stationStructure	At-grade
+Lenox (MARTA station)	stationStructure	Underground
+Dome / GWCC / Philips Arena / CNN Center (MARTA station)	stationStructure	At-grade
+Vine City (MARTA station)	stationStructure	At-grade
+Garnett (MARTA station)	stationStructure	Elevated
+West End (MARTA station)	stationStructure	Elevated
+Ashby (MARTA station)	stationStructure	underground
+Brookhaven/Oglethorpe (MARTA station)	stationStructure	Elevated
+Chamblee (MARTA station)	stationStructure	Elevated
+Oakland City (MARTA station)	stationStructure	Elevated
+Lakewood / Fort McPherson (MARTA station)	stationStructure	At-grade
+College Park (MARTA station)	stationStructure	At-grade
+Airport (MARTA station)	stationStructure	Elevated
+East Point (MARTA station)	stationStructure	At-grade
+Kensington (MARTA station)	stationStructure	At-grade
+Indian Creek (MARTA station)	stationStructure	At-grade
+Bankhead (MARTA station)	stationStructure	Elevated
+West Lake (MARTA station)	stationStructure	at-grade
+Hamilton E. Holmes (MARTA station)	stationStructure	elevated
+Medical Center (MARTA station)	stationStructure	At-grade
+Dunwoody (MARTA station)	stationStructure	Elevated
+Sandy Springs (MARTA station)	stationStructure	Underground
+North Springs (MARTA station)	stationStructure	Elevated
+Vokzalna (Kiev Metro)	stationStructure	underground
+Vesterport station	stationStructure	Below grade
+Universytet (Kiev Metro)	stationStructure	underground
+Ballabeg (IoMR) railway station	stationStructure	Platelayers' Hut
+Colby railway station	stationStructure	Open Shelter
+Bridgeport Station (TransLink)	stationStructure	Elevated
+Forum Station	stationStructure	Underground
+YVR–Airport Station	stationStructure	Elevated
+Marine Drive Station	stationStructure	Elevated
+Langara – 49th Avenue Station	stationStructure	Underground
+Oakridge – 41st Avenue Station	stationStructure	Underground
+Khreshchatyk (Kiev Metro)	stationStructure	underground
+Sea Island Centre Station	stationStructure	At grade
+Templeton Station	stationStructure	At grade
+King Edward Station	stationStructure	Underground
+Broadway – City Hall Station	stationStructure	Underground
+Olympic Village Station	stationStructure	Underground
+Yaletown–Roundhouse Station	stationStructure	Underground
+Vancouver City Centre Station	stationStructure	Underground
+Doroteo Jose LRT Station	stationStructure	Elevated
+Arsenalna (Kiev Metro)	stationStructure	underground
+Dnipro (Kiev Metro)	stationStructure	bridge
+Frederiksberg Station	stationStructure	Underground
+Central Terminal LRT Station	stationStructure	Viaduct
+Gil Puyat LRT Station	stationStructure	Elevated
+EDSA LRT Station	stationStructure	Elevated
+Baclaran LRT Station	stationStructure	Viaduct
+Teatralna (Kiev Metro)	stationStructure	underground
+Recto LRT Station	stationStructure	Overpass
+18th (CTA station)	stationStructure	Elevated
+Araneta Center-Cubao LRT Station	stationStructure	Overpass
+Tayuman LRT Station	stationStructure	Elevated
+United Nations LRT Station	stationStructure	Elevated
+Carriedo LRT Station	stationStructure	Viaduct
+Libertad LRT Station	stationStructure	Elevated
+Wellington Railway Station	stationStructure	At-grade terminal station
+Katipunan LRT Station	stationStructure	Underground
+Port Soderick railway station	stationStructure	Station Building, Waiting Shelters
+Santon railway station	stationStructure	Station Building
+Ballasalla railway station	stationStructure	Station Building & Water Tower
+Castletown railway station	stationStructure	Station Building & Goods Shed
+Level railway station	stationStructure	Crossing Keepers' Hut
+Ronaldsway railway station	stationStructure	None
+Port St Mary railway station	stationStructure	Station Building & Goods Shed
+Port Erin railway station	stationStructure	Station Building, Goods Shed, Loco Shed, Carriage Shed
+Addison (CTA Red Line station)	stationStructure	Elevated
+Sheridan (CTA station)	stationStructure	Elevated
+V. Mapa LRT Station	stationStructure	Elevated
+Legarda LRT Station	stationStructure	Overpass
+Santolan LRT Station	stationStructure	Overpass
+Vestamager Station	stationStructure	Elevated
+Stadium (ETS)	stationStructure	Surface
+Minsk Passazhirsky railway station	stationStructure	at-grade
+North Avenue MRT Station	stationStructure	Elevated
+Shaw Boulevard MRT Station	stationStructure	Elevated
+Tower City (RTA Rapid Transit station)	stationStructure	Underground
+North Coast (RTA Rapid Transit station)	stationStructure	At grade
+Shaker Square (RTA Rapid Transit station)	stationStructure	At-grade
+Flats East Bank (RTA Rapid Transit station)	stationStructure	At grade
+Cleveland Hopkins International Airport (RTA Rapid Transit station)	stationStructure	Underground
+Araneta Center-Cubao MRT Station	stationStructure	Elevated
+Ayala MRT Station	stationStructure	Concourse: Elevated
+Ayala MRT Station	stationStructure	Platform area: Underground
+Beresteiska (Kiev Metro)	stationStructure	underground
+Kamuning MRT Station	stationStructure	Elevated
+West Park (RTA Rapid Transit station)	stationStructure	At grade
+West 25th – Ohio City (RTA Rapid Transit station)	stationStructure	Below grade
+Moskovsky Rail Terminal (Saint Petersburg)	stationStructure	at-grade
+Quezon Avenue MRT Station	stationStructure	Elevated
+Taft Avenue MRT Station	stationStructure	Concourse: Elevated
+Taft Avenue MRT Station	stationStructure	Platform area: At-grade
+Charbagh Railway Station	stationStructure	Standard on-ground station
+Matsonford (SEPTA station)	stationStructure	Elevated
+Zhytomyrska (Kiev Metro)	stationStructure	underground
+Jackson Street (SEPTA Route 101 station)	stationStructure	None
+Akademmistechko (Kiev Metro)	stationStructure	underground
+Ilmala railway station	stationStructure	ground station
+Huopalahti railway station	stationStructure	ground station
+Kimball (CTA station)	stationStructure	At-grade
+Kedzie (CTA Brown Line station)	stationStructure	At-grade
+Francisco (CTA station)	stationStructure	At-grade
+Rockwell (CTA station)	stationStructure	At-grade
+Western (CTA Brown Line station)	stationStructure	Elevated
+Damen (CTA Brown Line station)	stationStructure	Elevated
+Montrose (CTA Brown Line station)	stationStructure	Elevated
+Irving Park (CTA Brown Line station)	stationStructure	Elevated
+Addison (CTA Brown Line station)	stationStructure	Elevated
+Paulina (CTA station)	stationStructure	Elevated
+Southport (CTA station)	stationStructure	Elevated
+Kholodna Hora (Kharkiv Metro)	stationStructure	underground
+Pivdennyi Vokzal (Kharkiv Metro)	stationStructure	underground
+DR Byen Station	stationStructure	Elevated
+Lergravsparken Station	stationStructure	Underground
+Cape Town railway station	stationStructure	At-grade
+Tsentralnyi Rynok (Kharkiv Metro)	stationStructure	underground
+Union Station (Ogden, Utah)	stationStructure	at-grade
+Radianska (Kharkiv Metro)	stationStructure	underground
+Prospekt Haharina (Kharkiv Metro)	stationStructure	underground
+Amagerbro Station	stationStructure	Underground
+Vyrlytsia (Kiev Metro)	stationStructure	underground
+Boryspilska (Kiev Metro)	stationStructure	underground
+Sportyvna (Kharkiv Metro)	stationStructure	underground
+Syrets (Kiev Metro)	stationStructure	underground
+Universytet (Kharkiv Metro)	stationStructure	underground
+Guadalupe MRT Station	stationStructure	Elevated
+Hamburg-Altona station	stationStructure	At-grade and underground
+2nd Street (SEPTA Market–Frankford Line station)	stationStructure	Underground
+Girard (SEPTA Market–Frankford Line station)	stationStructure	Elevated
+Berks (SEPTA station)	stationStructure	Elevated
+York–Dauphin (SEPTA station)	stationStructure	Elevated
+Davis (CTA station)	stationStructure	Elevated
+Dempster (CTA Purple Line station)	stationStructure	Elevated
+Main (CTA station)	stationStructure	Elevated
+South Boulevard (CTA station)	stationStructure	Elevated
+Linden (CTA station)	stationStructure	At-grade
+Huntingdon (SEPTA station)	stationStructure	Elevated
+Dempster-Skokie (CTA station)	stationStructure	At-grade
+Jarvis (CTA station)	stationStructure	Elevated
+Morse (CTA station)	stationStructure	Elevated
+Somerset (SEPTA station)	stationStructure	Elevated
+Allegheny (SEPTA Market–Frankford Line station)	stationStructure	Elevated
+Tioga (SEPTA Market–Frankford Line station)	stationStructure	Elevated
+Erie–Torresdale (SEPTA station)	stationStructure	Elevated
+Church (SEPTA Market–Frankford Line station)	stationStructure	Elevated
+Vitebsky Rail Terminal	stationStructure	elevated
+Sadguris Moedani I (Tbilisi Metro)	stationStructure	Underground
+Thorndale (CTA station)	stationStructure	Elevated
+Wilson (CTA station)	stationStructure	Elevated
+Huntingdon Valley (SEPTA station)	stationStructure	station shed (demolished)
+Hidropark (Kiev Metro)	stationStructure	surface platform
+Laxey station	stationStructure	Station / Waiting Room / Cafe
+County Line (SEPTA station)	stationStructure	station shed (demolished)
+Fullerton (CTA station)	stationStructure	Elevated
+Livoberezhna (Kiev Metro)	stationStructure	bridge
+63rd Street (SEPTA station)	stationStructure	Elevated
+40th Street (SEPTA Market–Frankford Line station)	stationStructure	Underground
+Holland (SEPTA station)	stationStructure	station shed (demolished)
+George School (SEPTA station)	stationStructure	demolished
+Newtown (SEPTA station)	stationStructure	station shed (demolished)
+Konstanzer Straße (Berlin U-Bahn)	stationStructure	underground
+Joseph Scelsi Intermodal Transportation Center	stationStructure	at-grade
+34th Street (SEPTA station)	stationStructure	Underground
+Kalasatama metro station	stationStructure	Elevated
+Clybourn (Metra)	stationStructure	Separate platforms
+Clark/Division (CTA station)	stationStructure	Subway
+Borisovsky Trakt (Minsk Metro)	stationStructure	Underground
+Uruchcha (Minsk Metro)	stationStructure	Underground
+Vostok (Minsk Metro)	stationStructure	Underground
+Parnas (Saint Petersburg Metro)	stationStructure	Underground
+Green (RTA Rapid Transit station)	stationStructure	At-grade
+Sedgwick (CTA station)	stationStructure	Elevated
+Chennai Beach	stationStructure	Standard on-ground station
+Clareview (ETS)	stationStructure	Surface
+Belvedere (ETS)	stationStructure	Surface
+Coliseum (ETS)	stationStructure	Surface
+Churchill (ETS)	stationStructure	Underground
+Central (ETS)	stationStructure	Underground
+Bay/Enterprise Square (ETS)	stationStructure	Underground
+Corona (ETS)	stationStructure	Underground
+Grandin (ETS)	stationStructure	underground
+University (ETS)	stationStructure	Underground
+Health Sciences (ETS)	stationStructure	Surface
+McKernan/Belgravia (ETS)	stationStructure	Surface
+South Campus (ETS)	stationStructure	Surface
+Southgate (ETS)	stationStructure	Surface
+Century Park (ETS)	stationStructure	Surface
+Clark/Lake (CTA station)	stationStructure	Subway (Blue) & Elevated (Loop)
+35th–Bronzeville–IIT (CTA station)	stationStructure	Elevated
+Bryn Mawr (CTA station)	stationStructure	Elevated
+Lawrence (CTA station)	stationStructure	Elevated
+Roosevelt/Wabash (CTA station)	stationStructure	Elevated
+Roosevelt/State (CTA station)	stationStructure	Subway
+Indiana (CTA station)	stationStructure	Elevated
+43rd (CTA station)	stationStructure	Elevated
+47th (CTA Green Line station)	stationStructure	Elevated
+51st (CTA station)	stationStructure	Elevated
+Garfield (CTA Green Line station)	stationStructure	Elevated
+Halsted (CTA Green Line station)	stationStructure	Elevated
+Ashland/63rd (CTA station)	stationStructure	Elevated
+King Drive (CTA station)	stationStructure	Elevated
+Cottage Grove (CTA station)	stationStructure	Elevated
+Sox–35th (CTA station)	stationStructure	Surface Level
+Adams/Wabash (CTA station)	stationStructure	Elevated
+State/Lake (CTA station)	stationStructure	Elevated
+Randolph/Wabash (CTA station)	stationStructure	Elevated
+Clinton (CTA Green and Pink Lines station)	stationStructure	Elevated
+Ashland (CTA Green and Pink Lines station)	stationStructure	Elevated
+California (CTA Green Line station)	stationStructure	Elevated
+Kedzie (CTA Green Line station)	stationStructure	Elevated
+Conservatory – Central Park Drive (CTA station)	stationStructure	Elevated
+Pulaski (CTA Green Line station)	stationStructure	Elevated
+Cicero (CTA Green Line station)	stationStructure	Elevated
+Laramie (CTA station)	stationStructure	Elevated
+Central (CTA Green Line station)	stationStructure	Elevated
+Ridgeland (CTA station)	stationStructure	Elevated
+Oak Park (CTA Green Line station)	stationStructure	elevated
+Austin (CTA Green Line station)	stationStructure	Elevated
+Harlem (CTA Green Line station)	stationStructure	Elevated
+North/Clybourn (CTA station)	stationStructure	Subway
+Harold Washington Library – State/Van Buren (CTA station)	stationStructure	Elevated
+LaSalle/Van Buren (CTA station)	stationStructure	Elevated
+O'Hare (CTA station)	stationStructure	Subway
+Slavyansky Bulvar	stationStructure	Shallow single-span
+Halsted (CTA Orange Line station)	stationStructure	Elevated
+Ashland (CTA Orange Line station)	stationStructure	Elevated
+35th/Archer (CTA station)	stationStructure	Elevated
+Western (CTA Orange Line station)	stationStructure	Elevated
+Kedzie (CTA Orange Line station)	stationStructure	Elevated
+Pulaski (CTA Orange Line station)	stationStructure	Elevated
+Midway (CTA station)	stationStructure	Surface Level
+Vendôme (AMT)	stationStructure	At-grade
+Grand (CTA Red Line station)	stationStructure	Underground
+Lake/State (CTA station)	stationStructure	Subway
+Monroe/State (CTA station)	stationStructure	Subway
+Jackson/State (CTA station)	stationStructure	Subway
+Harrison (CTA station)	stationStructure	Subway
+Cermak–Chinatown (CTA station)	stationStructure	Elevated
+47th (CTA Red Line station)	stationStructure	Surface Level
+Garfield (CTA Red Line station)	stationStructure	Surface Level
+Rosemont (CTA station)	stationStructure	Elevated
+63rd (CTA Red Line station)	stationStructure	Surface Level
+69th (CTA station)	stationStructure	Surface Level
+79th (CTA station)	stationStructure	Surface Level
+87th (CTA station)	stationStructure	Surface Level
+Wellington (CTA station)	stationStructure	Elevated
+Armitage (CTA station)	stationStructure	Elevated
+Diversey (CTA station)	stationStructure	Elevated
+Petrogradskaya (Saint Petersburg Metro)	stationStructure	Underground
+Cumberland (CTA station)	stationStructure	Surface Level
+Harlem (CTA Blue Line O'Hare branch station)	stationStructure	Surface Level
+Montrose (CTA Blue Line station)	stationStructure	Surface Level
+Irving Park (CTA Blue Line station)	stationStructure	Elevated
+Addison (CTA Blue Line station)	stationStructure	Surface Level
+Belmont (CTA Blue Line station)	stationStructure	Subway
+Logan Square (CTA station)	stationStructure	Subway
+California (CTA Blue Line station)	stationStructure	Elevated
+Western (CTA Blue Line O'Hare branch station)	stationStructure	Elevated
+Damen (CTA Blue Line station)	stationStructure	Elevated
+Division (CTA station)	stationStructure	Subway
+Chicago (CTA Blue Line station)	stationStructure	Subway
+Grand (CTA Blue Line station)	stationStructure	Subway
+Washington/Dearborn (CTA station)	stationStructure	Subway
+Monroe/Dearborn (CTA station)	stationStructure	Subway
+LaSalle (CTA Blue Line station)	stationStructure	Subway
+Jackson/Dearborn (CTA station)	stationStructure	Subway
+Clinton (CTA Blue Line station)	stationStructure	Subway
+UIC–Halsted (CTA station)	stationStructure	Surface Level
+Racine (CTA Blue Line station)	stationStructure	Surface Level
+Illinois Medical District (CTA station)	stationStructure	Surface Level
+Western (CTA Blue Line Congress branch station)	stationStructure	Surface Level
+Kedzie–Homan (CTA station)	stationStructure	Surface Level
+Pulaski (CTA Blue Line station)	stationStructure	Surface Level
+Cicero (CTA Blue Line station)	stationStructure	Surface Level
+Austin (CTA Blue Line station)	stationStructure	Surface Level
+Oak Park (CTA Blue Line station)	stationStructure	Surface Level
+Harlem (CTA Blue Line Congress branch station)	stationStructure	Surface Level
+Forest Park (CTA station)	stationStructure	Elevated
+Polk (CTA station)	stationStructure	Elevated
+Damen (CTA Pink Line station)	stationStructure	Elevated
+Western (CTA Pink Line station)	stationStructure	Elevated
+California (CTA Pink Line station)	stationStructure	Elevated
+Central Park (CTA station)	stationStructure	Elevated
+Pulaski (CTA Pink Line station)	stationStructure	Elevated
+Kedzie (CTA Pink Line station)	stationStructure	Elevated
+Kostner (CTA Pink Line station)	stationStructure	At-grade
+Cicero (CTA Pink Line station)	stationStructure	At-grade
+54th/Cermak (CTA station)	stationStructure	At-grade
+Masjid Jamek LRT station	stationStructure	Elevated (Ampang Line)
+Masjid Jamek LRT station	stationStructure	Undergound (Kelana Jaya Line)
+Kupchino (Saint Petersburg Metro)	stationStructure	Underground
+Nevsky Prospekt (Saint Petersburg Metro)	stationStructure	Underground
+Vokzalna (Dnipropetrovsk Metro)	stationStructure	underground
+Metrobudivnykiv (Dnipropetrovsk Metro)	stationStructure	underground
+KLCC LRT station	stationStructure	Underground
+Kelana Jaya LRT station	stationStructure	Elevated
+Dorohozhychi (Kiev Metro)	stationStructure	underground
+Taman Bahagia LRT station	stationStructure	Elevated
+Taman Paramount LRT station	stationStructure	Elevated
+Lukianivska (Kiev Metro)	stationStructure	underground
+Lvivska Brama (Kiev Metro)	stationStructure	underground
+Zoloti Vorota (Kiev Metro)	stationStructure	underground
+Susquehanna–Dauphin (SEPTA station)	stationStructure	Underground
+New Delhi (Delhi Metro)	stationStructure	Underground
+Chandni Chowk (Delhi Metro)	stationStructure	Underground
+Southport (Metro-North station)	stationStructure	At-grade
+Ortigas MRT Station	stationStructure	Elevated
+Palats Sportu (Kiev Metro)	stationStructure	underground
+Antioch-Pittsburg (Amtrak station)	stationStructure	at-grade
+Fasanvej Station	stationStructure	Underground
+Lindevang Station	stationStructure	Elevated
+Sundby Station	stationStructure	Elevated
+Bella Center Station	stationStructure	Elevated
+Øresund Station	stationStructure	Through cut
+Femøren Station	stationStructure	Elevated
+San Luis Obispo (Amtrak station)	stationStructure	Spanish Colonial Revival architecture
+Bakersfield (Amtrak station)	stationStructure	at-grade
+Martinez (Amtrak station)	stationStructure	at-grade
+Darnytsia (Kiev Metro)	stationStructure	surface platform
+30th Street (SEPTA station)	stationStructure	Underground
+Chernihivska (Kiev Metro)	stationStructure	surface platform
+Lisova (Kiev Metro)	stationStructure	surface platform
+Politekhnichnyi Instytut (Kiev Metro)	stationStructure	underground
+Zavodska (Dnipropetrovsk Metro)	stationStructure	underground
+Metalurhiv (Dnipropetrovsk Metro)	stationStructure	underground
+Komunarivska (Dnipropetrovsk Metro)	stationStructure	underground
+Prospekt Svobody (Dnipropetrovsk Metro)	stationStructure	underground
+Parc (AMT)	stationStructure	At-grade
+Shimokawazoi Station	stationStructure	Two-way
+Gostiny Dvor (Saint Petersburg Metro)	stationStructure	Underground
+Primorskaya (Saint Petersburg Metro)	stationStructure	Underground
+Crystal City (VRE station)	stationStructure	At-grade
+7th Street (LYNX station)	stationStructure	At-grade
+3rd Street (LYNX station)	stationStructure	Elevated
+Charlotte Transportation Center / Arena (LYNX station)	stationStructure	At-grade
+Stonewall (LYNX station)	stationStructure	Elevated
+I-485 / South Boulevard (LYNX station)	stationStructure	At-grade
+Tyvola (LYNX station)	stationStructure	Elevated
+Archdale (LYNX station)	stationStructure	At-grade
+Carson (LYNX station)	stationStructure	At-grade
+Bland Street (LYNX station)	stationStructure	At-grade
+East/West Boulevard (LYNX station)	stationStructure	At-grade
+New Bern (LYNX station)	stationStructure	At-grade
+Scaleybark (LYNX station)	stationStructure	At-grade
+Woodlawn (LYNX station)	stationStructure	At-grade
+Arrowood (LYNX station)	stationStructure	At-grade
+Sharon Road West (LYNX station)	stationStructure	At-grade
+Sportivnaya (Saint Petersburg Metro)	stationStructure	Underground
+Gorkovskaya (Saint Petersburg Metro)	stationStructure	Underground
+Grazhdansky Prospekt (Saint Petersburg Metro)	stationStructure	Underground
+Shuliavska (Kiev Metro)	stationStructure	underground
+Nyvky (Kiev Metro)	stationStructure	underground
+Sviatoshyn (Kiev Metro)	stationStructure	underground
+Maidan Nezalezhnosti (Kiev Metro)	stationStructure	underground
+Poshtova Ploshcha (Kiev Metro)	stationStructure	underground
+Kontraktova Ploshcha (Kiev Metro)	stationStructure	underground
+Ploshcha Lva Tolstoho (Kiev Metro)	stationStructure	underground
+Olimpiiska (Kiev Metro)	stationStructure	underground
+Tarasa Shevchenka (Kiev Metro)	stationStructure	underground
+Petrivka (Kiev Metro)	stationStructure	underground
+Obolon (Kiev Metro)	stationStructure	underground
+Minska (Kiev Metro)	stationStructure	underground
+Heroiv Dnipra (Kiev Metro)	stationStructure	underground
+Moore Market	stationStructure	Standard on-ground station
+Devyatkino (Saint Petersburg Metro)	stationStructure	Underground
+Riverside-La Sierra (Metrolink station)	stationStructure	At-grade
+Oulunkylä railway station	stationStructure	bridge station
+Pohjois-Haaga railway station	stationStructure	Elevated station
+Pukinmäki railway station	stationStructure	Elevated station
+Leninsky Prospekt (Saint Petersburg Metro)	stationStructure	Underground
+Espoo railway station	stationStructure	ground station
+Kirkkonummi railway station	stationStructure	ground station
+Orivesi railway station	stationStructure	ground station
+Jyväskylä railway station	stationStructure	ground station
+Hamburg-Neugraben station	stationStructure	At grade
+Varkaus railway station	stationStructure	ground station
+Tekhnologichesky Institut (Saint Petersburg Metro)	stationStructure	Underground
+Stockton – San Joaquin Street (Amtrak station)	stationStructure	at-grade
+Ploshchad Lenina (Saint Petersburg Metro)	stationStructure	Underground
+Masala railway station	stationStructure	ground station
+Malmi railway station	stationStructure	bridge station
+Karis railway station	stationStructure	ground station
+Arden / Del Paso	stationStructure	at-grade
+Jorvas railway station	stationStructure	ground station
+Tapanila railway station	stationStructure	ground station
+MLK, Jr. (DART station)	stationStructure	At grade
+Beurs (Rotterdam Metro)	stationStructure	Underground
+Roseville Road	stationStructure	at-grade
+Coolhaven (Rotterdam Metro)	stationStructure	Underground
+Dijkzigt (Rotterdam Metro)	stationStructure	Underground
+Tolsa railway station	stationStructure	ground station
+Puistola railway station	stationStructure	ground station
+Broadway (Sacramento RT)	stationStructure	at-grade
+4th Avenue / Wayne Hultgren	stationStructure	at-grade
+City College (Sacramento RT)	stationStructure	at-grade
+Fruitridge (Sacramento RT)	stationStructure	at-grade
+47th Avenue (Sacramento RT)	stationStructure	at-grade
+Florin (Sacramento RT)	stationStructure	at-grade
+Meadowview (Sacramento RT)	stationStructure	at-grade
+Siuntio railway station	stationStructure	ground station
+Hiekkaharju railway station	stationStructure	ground station
+Institut Kultury (Minsk Metro)	stationStructure	Underground
+Koivukylä railway station	stationStructure	ground station
+Corcoran (Amtrak station)	stationStructure	at-grade
+Korso railway station	stationStructure	ground station
+Chervony Khutir (Kiev Metro)	stationStructure	underground
+Fuglebakken station	stationStructure	Side platforms
+Nørrebro station	stationStructure	Elevated
+Kannelmäki railway station	stationStructure	ground station
+Malminkartano railway station	stationStructure	tunnel station
+Myyrmäki railway station	stationStructure	ground station
+Martinlaakso railway station	stationStructure	ground station
+Louhela railway station	stationStructure	ground station
+Vantaankoski railway station	stationStructure	ground station
+Watt/I-80 (Sacramento RT)	stationStructure	at-grade
+Hanford (Amtrak station)	stationStructure	at-grade
+Kauklahti railway station	stationStructure	ground station
+Salo railway station	stationStructure	ground station
+Fair Park (DART station)	stationStructure	At grade
+Kupittaa railway station	stationStructure	bridge station
+Termini (Rome Metro)	stationStructure	Underground
+Battistini (Rome Metro)	stationStructure	Underground
+Baldo degli Ubaldi (Rome Metro)	stationStructure	Underground
+Valle Aurelia (Rome Metro)	stationStructure	Underground
+Highbury Vale tram stop	stationStructure	At-grade
+Farmers Branch (DART station)	stationStructure	At grade
+Cipro (Rome Metro)	stationStructure	Underground
+Cornelia (Rome Metro)	stationStructure	Underground
+Ottaviano – San Pietro – Musei Vaticani (Rome Metro)	stationStructure	Underground
+Roosevelt LRT Station	stationStructure	Overpass
+Balintawak LRT Station	stationStructure	Overpass
+North Avenue LRT Station	stationStructure	Overpass (LRT-1, MRT-3, MRT-7)
+North Avenue LRT Station	stationStructure	Underground (MRT-9)
+Buendia MRT Station	stationStructure	Concourse: Elevated
+Buendia MRT Station	stationStructure	Platform area: Underground
+Boni MRT Station	stationStructure	At-grade
+Santolan MRT Station	stationStructure	Elevated
+Magallanes MRT Station	stationStructure	Elevated
+Lepanto (Rome Metro)	stationStructure	Underground
+Swanston (Sacramento RT)	stationStructure	at-grade
+Marconi Arcade	stationStructure	at-grade
+Royal Oaks (Sacramento RT)	stationStructure	at-grade
+Alkali Flat / La Valentina	stationStructure	at-grade
+Flaminio – Piazza del Popolo (Rome Metro)	stationStructure	Underground
+Spagna (Rome Metro)	stationStructure	Underground
+Barberini – Fontana di Trevi (Rome Metro)	stationStructure	Underground
+Library (PAT station)	stationStructure	at-grade
+Repubblica – Teatro dell'Opera (Rome Metro)	stationStructure	Underground
+Järvenpää railway station	stationStructure	ground station
+Barrie South GO Station	stationStructure	Brick station building
+Wolf Trap (WMATA station)	stationStructure	Surface
+Abad Santos LRT Station	stationStructure	Elevated
+Watt / I-80 West	stationStructure	at-grade
+Globe (Sacramento RT)	stationStructure	at-grade
+University / 65th Street	stationStructure	at-grade
+Luoma railway station	stationStructure	ground station / halt
+Savio railway station	stationStructure	ground station
+Mankki railway station	stationStructure	ground station / halt
+Mäntsälä railway station	stationStructure	ground station
+Haarajoki railway station	stationStructure	ground station
+Hyvinkää railway station	stationStructure	ground station
+Jokela railway station	stationStructure	ground station
+Bukit Panjang LRT Station	stationStructure	Elevated
+Betty Go-Belmonte LRT Station	stationStructure	Overpass
+West 3rd (RTA Rapid Transit station)	stationStructure	At grade
+Settlers Landing (RTA Rapid Transit station)	stationStructure	At grade
+Kemijärvi railway station	stationStructure	ground station
+Pureza LRT Station	stationStructure	Overpass
+Wien Hauptbahnhof	stationStructure	at-grade
+Chkalovskaya (Saint Petersburg Metro)	stationStructure	Underground
+Butterfield (Sacramento RT)	stationStructure	at-grade
+Baltiyskaya (Saint Petersburg Metro)	stationStructure	Underground
+Carterton Railway Station	stationStructure	Vogel Class 2 Gable
+Kajaani railway station	stationStructure	ground station
+Botanichnyi Sad (Kharkiv Metro)	stationStructure	underground
+Louis Stokes Station at Windermere	stationStructure	Elevated
+Superior (RTA Rapid Transit station)	stationStructure	Elevated
+Euclid – East 120th (RTA Rapid Transit station)	stationStructure	At grade
+East 105th – Quincy (RTA Rapid Transit station)	stationStructure	At grade
+East 55th (RTA Rapid Transit station)	stationStructure	At-grade
+West 65th – Lorain (RTA Rapid Transit station)	stationStructure	Below grade
+West Boulevard – Cudell (RTA Rapid Transit station)	stationStructure	Below grade
+West 117th – Madison (RTA Rapid Transit station)	stationStructure	At grade
+Triskett (RTA Rapid Transit station)	stationStructure	At-grade
+Puritas (RTA Rapid Transit station)	stationStructure	At-grade
+Brookpark (RTA Rapid Transit station)	stationStructure	Elevated
+South Harbor (RTA Rapid Transit station)	stationStructure	At grade
+South Woodland (RTA Rapid Transit station)	stationStructure	At grade
+Solway Railway Station	stationStructure	Vogel class 6
+Drexmore (RTA Rapid Transit station)	stationStructure	At grade
+Southington (RTA Blue Line Rapid Transit station)	stationStructure	At grade
+Onaway (RTA Rapid Transit station)	stationStructure	At grade
+Ashby (RTA Rapid Transit station)	stationStructure	At grade
+Avalon (RTA Rapid Transit station)	stationStructure	At-grade
+Kenmore (RTA Rapid Transit station)	stationStructure	At grade
+Lee (RTA Blue Line Rapid Transit station)	stationStructure	Below grade
+Lynnfield (RTA Rapid Transit station)	stationStructure	At grade
+Lee (RTA Green Line Rapid Transit station)	stationStructure	At grade
+Ellsworth–Federal (SEPTA station)	stationStructure	Underground
+Coventry (RTA Rapid Transit station)	stationStructure	At-grade
+Woodhill (RTA Rapid Transit station)	stationStructure	At-grade
+East 116th (RTA Rapid Transit station)	stationStructure	Below grade
+Farnsleigh (RTA Rapid Transit station)	stationStructure	At grade
+Warrensville (RTA Blue Line Rapid Transit station)	stationStructure	At grade
+Warrensville (RTA Green Line Rapid Transit station)	stationStructure	At grade
+Shawmut (MBTA station)	stationStructure	Subway
+Tiber (Sacramento RT)	stationStructure	at-grade
+Courtland (RTA Rapid Transit station)	stationStructure	At grade
+Palats "Ukrayina" (Kiev Metro)	stationStructure	underground
+Lybidska (Kiev Metro)	stationStructure	underground
+Habibganj	stationStructure	Railway Station
+Harvard (Metra)	stationStructure	Brick
+Braddan Bridge	stationStructure	Booking Hall
+Union Mills railway station	stationStructure	Station Building
+Crosby railway station	stationStructure	Station Building & Goods Shed
+Peel railway station	stationStructure	Station Building & Water Tower
+Peel Road railway station	stationStructure	Office, Goods Store & Shelter
+St John's railway station	stationStructure	Station Building & Water Tower
+Ramsey railway station	stationStructure	Station Building, Loco Shed, Water Tower
+Ballaugh railway station	stationStructure	Station (Demolished)
+Sulby Glen railway station	stationStructure	Station Building & Goods Shed
+Derby Castle terminus	stationStructure	Booking Office / Shelter
+Baldrine railway station	stationStructure	Waiting Shelter
+Cornaa railway station	stationStructure	Waiting Shelter
+Glen Mona railway station	stationStructure	Waiting Shelter
+Lewaigue railway station	stationStructure	Waiting Shelter
+Bungalow railway station	stationStructure	Brick Station
+Akademiya Nauk (Minsk Metro)	stationStructure	Underground
+Tukwila International Boulevard (Link station)	stationStructure	Elevated
+Irving Park (Metra)	stationStructure	Elevated
+Weymouth Landing/East Braintree (MBTA station)	stationStructure	Open-cut
+Snaefell Summit railway station	stationStructure	Hotel Building
+Gresham (Metra)	stationStructure	Elevated
+Littleton/Route 495 (MBTA station)	stationStructure	at-grade
+Bennäs railway station	stationStructure	ground station
+Ylivieska railway station	stationStructure	ground station
+Oulainen railway station	stationStructure	ground station
+Vihanti railway station	stationStructure	Ground station
+Kokkola railway station	stationStructure	ground station
+Wasco (Amtrak station)	stationStructure	at-grade
+Madera (Amtrak station)	stationStructure	at-grade
+Modesto (Amtrak station)	stationStructure	at-grade
+Hersey (MBTA station)	stationStructure	below grade
+Turlock/Denair (Amtrak station)	stationStructure	at-grade
+Lincolnville GO Station	stationStructure	Shelters
+Lodi (Amtrak station)	stationStructure	at-grade
+Carleton railway station	stationStructure	at-grade
+Caplan railway station	stationStructure	at-grade
+New Carlisle railway station	stationStructure	at-grade
+Port-Daniel railway station	stationStructure	at-grade
+Chandler railway station	stationStructure	at-grade
+Grande-Rivière railway station	stationStructure	at-grade
+Percé railway station	stationStructure	at-grade
+Campbellton railway station	stationStructure	at-grade
+Miramichi railway station	stationStructure	at grade
+Rogersville railway station	stationStructure	at-grade
+Causapscal railway station	stationStructure	at-grade
+Montmagny railway station	stationStructure	at-grade
+Fallowfield, Ontario railway station	stationStructure	Station building with ticket office, waiting room, vending machines and washrooms
+Congress Park (Metra)	stationStructure	Shelters
+Erode Junction	stationStructure	Elevated
+Jerusalem Binyanei HaUma Railway Station	stationStructure	Underground
+Tinley Park (Metra)	stationStructure	Above Ground Station
+Frankford Junction, Pennsylvania	stationStructure	demolished (2008)
+Ramsey (Plaza) tram station	stationStructure	Waiting Room (Incl. Office & Toilets)
+Lezayre railway station	stationStructure	Station House
+Jefferson Park Transit Center	stationStructure	Elevated (Metra), Surface-Level (CTA)
+Zion (Metra)	stationStructure	Enclosed Shelter
+Longwood (Metra)	stationStructure	Plexiglass Open Shelter
+Strogino (Moscow Metro)	stationStructure	Shallow single-vault
+Modi'in Central Railway Station	stationStructure	underground
+Tinley Park – 80th Avenue (Metra)	stationStructure	at-grade
+Hudson Lake (NICTD)	stationStructure	At-grade platform with bus shelter
+Fox River Grove (Metra)	stationStructure	Enclosed Shelter
+Vittorio Emanuele (Rome Metro)	stationStructure	Underground
+Forest Glen (Metra)	stationStructure	Open Shelter
+Lufthavnen Station	stationStructure	Elevated
+Vasileostrovskaya (Saint Petersburg Metro)	stationStructure	Underground
+Grayland (Metra)	stationStructure	Open shelter
+Ballacraine railway station	stationStructure	Gatekeepers' Lodge
+Demiivska (Kiev Metro)	stationStructure	underground
+Cecil B. Moore (SEPTA station)	stationStructure	Underground
+Bilbao-Abando	stationStructure	At-grade
+Milton (MBTA station)	stationStructure	grade-separated
+Roma Quattro Venti railway station	stationStructure	Underground
+West Pullman (Metra)	stationStructure	Sheltered Platform
+87th Street (Metra Electric)	stationStructure	Closed-sheltered platform
+83rd Street (Metra Electric)	stationStructure	Closed-sheltered platform
+Square One Bus Terminal	stationStructure	Bus shelters
+Ajax Plaza Bus Terminal	stationStructure	Enclosed waiting room
+Riverdale (Metra)	stationStructure	Elevated
+Guelph Bus Terminal	stationStructure	Ticket office, waiting room, refreshments, public washroom
+Scarborough Centre Bus Terminal	stationStructure	Waiting room
+Edgebrook (Metra)	stationStructure	One shelter, one covered platform
+Matteson (Metra)	stationStructure	Elevated
+Klovska (Kiev Metro)	stationStructure	underground
+Pecherska (Kiev Metro)	stationStructure	underground
+Beacon Hill (Link station)	stationStructure	Tunnel
+Tukwila (Amtrak station)	stationStructure	At-grade
+Kent (Sounder station)	stationStructure	At-grade
+Auburn (Sounder station)	stationStructure	At-grade
+Sumner (Sounder station)	stationStructure	At-grade
+Puyallup (Sounder station)	stationStructure	At-grade
+Tacoma Dome (Sounder station)	stationStructure	At-grade
+Druzhby Narodiv (Kiev Metro)	stationStructure	underground
+Ametyevo (Kazan Metro)	stationStructure	Elevated
+Wilsonville Station	stationStructure	At grade
+Bnei Brak Railway Station	stationStructure	At-grade
+Thomas M. Brian Tigard Transit Center	stationStructure	At grade
+Race–Vine (SEPTA station)	stationStructure	underground
+Salt Lake City Intermodal Hub	stationStructure	at-grade
+9th Street (Charlotte Trolley station)	stationStructure	At-grade
+Morehead (Charlotte Trolley station)	stationStructure	At-grade
+Tremont (Charlotte Trolley station)	stationStructure	At-grade
+Atherton Mill (Charlotte Trolley station)	stationStructure	At-grade
+Pleasant View (UTA station)	stationStructure	at-grade
+University Medical Center (UTA station)	stationStructure	at-grade
+Hamburg Dammtor station	stationStructure	elevated
+Holstenstrasse station	stationStructure	Elevated
+Sternschanze station	stationStructure	elevated
+Berliner Tor station	stationStructure	At-grade, elevated, and underground
+Norderstedt Mitte (Hamburg U-Bahn station)	stationStructure	Underground
+Rosebank railway station	stationStructure	At-grade
+Barmbek station	stationStructure	Elevated
+Bahrenfeld station	stationStructure	Elevated
+Old Greek Town (UTA station)	stationStructure	at-grade
+Planetarium (UTA station)	stationStructure	at-grade
+Arena (UTA station)	stationStructure	at-grade
+Temple Square (UTA station)	stationStructure	at-grade
+Gallivan Plaza (UTA station)	stationStructure	at-grade
+Roy (UTA station)	stationStructure	at-grade
+Clearfield (UTA station)	stationStructure	at-grade
+Layton (UTA station)	stationStructure	at-grade
+Farmington (UTA station)	stationStructure	at-grade
+Woods Cross (UTA station)	stationStructure	at-grade
+Trolley (UTA station)	stationStructure	at-grade
+900 East (UTA station)	stationStructure	at-grade
+University South Campus (UTA station)	stationStructure	at-grade
+Stadium (UTA station)	stationStructure	at-grade
+Fort Douglas (UTA station)	stationStructure	at-grade
+Courthouse (UTA station)	stationStructure	at-grade
+900 South (UTA station)	stationStructure	at-grade
+Central Pointe (UTA station)	stationStructure	at-grade
+Ball Park (UTA station)	stationStructure	at-grade
+Millcreek (UTA station)	stationStructure	at-grade
+Meadowbrook (UTA station)	stationStructure	at-grade
+Murray North (UTA station)	stationStructure	at-grade
+Murray Central (UTA station)	stationStructure	at-grade
+Fashion Place West (UTA station)	stationStructure	at-grade
+Midvale Fort Union (UTA station)	stationStructure	at-grade
+Midvale Center (UTA station)	stationStructure	at-grade
+Historic Sandy (UTA station)	stationStructure	at-grade
+Sandy Expo (UTA station)	stationStructure	at-grade
+Sandy Civic Center (UTA station)	stationStructure	at-grade
+Vydubychi (Kiev Metro)	stationStructure	underground
+Kharkivska (Kiev Metro)	stationStructure	underground
+Pozniaky (Kiev Metro)	stationStructure	underground
+Osokorky (Kiev Metro)	stationStructure	underground
+Slavutych (Kiev Metro)	stationStructure	underground
+Othmarschen station	stationStructure	Elevated
+Klein Flottbek station	stationStructure	At-grade
+Hochkamp station	stationStructure	Elevated
+Lohmühlenstraße (Hamburg U-Bahn station)	stationStructure	Underground
+Hamburg-Harburg station	stationStructure	Main line: at-grade
+Hamburg-Harburg station	stationStructure	Rapid transit: underground
+Diebsteich station	stationStructure	Elevated
+Skarpnäck metro station	stationStructure	Underground
+Langenfelde station	stationStructure	Elevated
+Stellingen station	stationStructure	Elevated
+Eidelstedt station	stationStructure	Elevated
+Elbgaustrasse station	stationStructure	Elevated
+Halstenbek station	stationStructure	Elevated
+Krupunder station	stationStructure	Elevated
+Thesdorf station	stationStructure	At-grade
+Richtweg (Hamburg U-Bahn station)	stationStructure	At-grade
+Simon's Town railway station	stationStructure	At-grade
+Königstrasse station	stationStructure	Underground
+Gettysburg Railroad Station	stationStructure	at-grade
+Stadthausbrücke station	stationStructure	Underground
+Pingree Road (Metra)	stationStructure	Elevated
+Sunrise (Sacramento RT)	stationStructure	at-grade
+13th Street (Sacramento RT)	stationStructure	at-grade
+CERIA/COOVI metro station	stationStructure	Underground
+Delacroix metro station	stationStructure	Elevated
+Hammerbrook station	stationStructure	Elevated
+Iaşi railway station	stationStructure	At-grade
+Racine Avenue (Metra)	stationStructure	Open-Sheltered Platform
+Cary (Metra)	stationStructure	Brick
+Rochor MRT Station	stationStructure	Underground
+Stevens MRT Station	stationStructure	Underground
+Tan Kah Kee MRT Station	stationStructure	Underground
+Sixth Avenue MRT Station	stationStructure	Underground
+King Albert Park MRT Station	stationStructure	Underground
+Beauty World MRT Station	stationStructure	Underground
+Hillview MRT Station	stationStructure	Underground
+Cashew MRT Station	stationStructure	Underground
+Anagnina (Rome Metro)	stationStructure	Underground
+Oakton-Skokie (CTA station)	stationStructure	Street Level
+Messberg (Hamburg U-Bahn station)	stationStructure	Underground
+Capen Street (MBTA station)	stationStructure	Grade-separated right-of-way
+Veddel station	stationStructure	At grade
+Tualatin Station	stationStructure	At grade
+Hazel Crest (Metra)	stationStructure	Elevated
+Petrovsko-Razumovskaya	stationStructure	Deep column triple-span
+Calumet (Metra)	stationStructure	Elevated
+Flossmoor (Metra)	stationStructure	Tudor revival on Elevated
+Olympia Fields (Metra)	stationStructure	Elevated
+Milano Cadorna railway station	stationStructure	at-grade, terminal station
+58th (CTA station)	stationStructure	Elevated
+Drexel Hill Junction (SEPTA station)	stationStructure	Three sheds
+Åkeshov metro station	stationStructure	At grade
+Akalla metro station	stationStructure	Underground
+Abrahamsberg metro station	stationStructure	Elevated
+Vårby gård metro station	stationStructure	Elevated
+Lansdowne Avenue (SEPTA station)	stationStructure	Open shelter
+Springfield Mall (SEPTA Route 101 station)	stationStructure	Open acrylic glass shelter
+Pine Ridge (SEPTA Route 101 station)	stationStructure	Open brick shelter
+Vårberg metro station	stationStructure	Elevated
+Congress Avenue (SEPTA station)	stationStructure	Open shelter
+Beverly Boulevard (SEPTA station)	stationStructure	Open shelters
+Buffalo Metropolitan Transportation Center	stationStructure	Low rise bus terminal with an eight storey office tower
+Buffalo Metropolitan Transportation Center	stationStructure	Architects:Cannon Design
+Fairfield Avenue (SEPTA station)	stationStructure	Open shelter
+Walnut Street (SEPTA station)	stationStructure	Open shelters
+Avon Road (SEPTA station)	stationStructure	Open shelters
+Hilltop Road (SEPTA station)	stationStructure	Open shelters
+Beatty Road (SEPTA Route 101 station)	stationStructure	Open plexiglass shelter
+Shisler Avenue (SEPTA Route 102 station)	stationStructure	None
+Anonas LRT Station	stationStructure	Overpass
+Zvyozdnaya	stationStructure	Underground
+Providence Road (SEPTA Route 102 station)	stationStructure	Enclosed shelter
+Moskovskaya (Saint Petersburg Metro)	stationStructure	Underground
+Park Pobedy (Saint Petersburg Metro)	stationStructure	Underground
+Bambang LRT Station	stationStructure	Elevated
+Gilmore LRT Station	stationStructure	Overpass
+Leamy Avenue (SEPTA Route 101 station)	stationStructure	None
+Woodland Avenue (SEPTA Route 101 station)	stationStructure	Brick shelter
+Magnolia Avenue (SEPTA Route 102 station)	stationStructure	None
+Edgemont Street (SEPTA Route 101 station)	stationStructure	None
+Monroe Street (SEPTA Route 101 station)	stationStructure	None
+Manchester Avenue (SEPTA Route 101 station)	stationStructure	None
+Walkley Yard (OC Transpo)	stationStructure	2 At-grade sheds
+Irvington Road (SEPTA station)	stationStructure	None
+Drexel Manor (SEPTA Route 102 station)	stationStructure	None
+Marshall Road (SEPTA Route 102 station)	stationStructure	Open shelter
+Thomson Avenue (SEPTA Route 101 station)	stationStructure	Open shed
+School Lane (SEPTA Route 101 station)	stationStructure	Open stucco shed
+J. Ruiz LRT Station	stationStructure	Overpass
+Myakinino (Moscow Metro)	stationStructure	Ground covered single-vault
+Volokolamskaya (Moscow Metro)	stationStructure	Shallow column tri-vault
+Chernyshevskaya (Saint Petersburg Metro)	stationStructure	Underground
+Ploshchad Vosstaniya (Saint Petersburg Metro)	stationStructure	Underground
+Mayakovskaya (Saint Petersburg Metro)	stationStructure	Underground
+Sennaya Ploshchad (Saint Petersburg Metro)	stationStructure	Underground
+Santa Mesa railway station	stationStructure	At grade
+Morgan (CTA station)	stationStructure	Elevated
+Pedley (Metrolink station)	stationStructure	Grade-level
+Ballabeg (ME) railway station	stationStructure	Waiting Shelter
+Silverstream Railway Station	stationStructure	Island
+South Cape Halt	stationStructure	Waiting shelter
+Fairy Cottage Halt	stationStructure	Waiting Shelter
+Garwick Glen Halt	stationStructure	Demolished
+Balladromma Beg Halt	stationStructure	Demolished
+Groudle Glen railway station	stationStructure	Open Shelter
+Howstrake Camp Halt	stationStructure	Stone Shelter
+Majestic Halt	stationStructure	Small Shelter
+Port Jack Halt	stationStructure	None
+Minorca Halt	stationStructure	Shelter Only
+Ballaragh Halt	stationStructure	None
+Dhoon Glen Halt	stationStructure	Waiting Shelter / Cafe
+Ballaglass Glen Halt	stationStructure	Waiting Shelter
+Belle Vue Halt	stationStructure	Waiting Shelter
+Queens Drive Halt	stationStructure	None
+Racine (CTA Green Line station)	stationStructure	Elevated
+Hall/Nimbus	stationStructure	At grade
+East Ontario (Metrolink station)	stationStructure	Grade-level
+Industry (Metrolink station)	stationStructure	Grade-level
+Montebello/Commerce (Metrolink station)	stationStructure	Grade-level
+Congress Terminal	stationStructure	Elevated
+Fontana (Metrolink station)	stationStructure	At-grade
+Oostplein (Rotterdam Metro)	stationStructure	Underground
+Stadhuis (Rotterdam Metro)	stationStructure	Underground
+Leuvehaven (Rotterdam Metro)	stationStructure	Underground
+Delfshaven (Rotterdam Metro)	stationStructure	Underground
+Marconiplein (Rotterdam Metro)	stationStructure	Underground
+Cavour (Rome Metro)	stationStructure	Underground
+Tiburtina (Rome Metro)	stationStructure	Underground
+Rebibbia (Rome Metro)	stationStructure	Underground
+Ponte Mammolo (Rome Metro)	stationStructure	Elevated
+Santa Maria del Soccorso (Rome Metro)	stationStructure	Underground
+Pietralata (Rome Metro)	stationStructure	Underground
+Monti Tiburtini (Rome Metro)	stationStructure	Underground
+Quintiliani (Rome Metro)	stationStructure	Underground
+Bologna (Rome Metro)	stationStructure	Underground
+Policlinico (Rome Metro)	stationStructure	Underground
+Castro Pretorio (Rome Metro)	stationStructure	Underground
+Colosseo (Rome Metro)	stationStructure	Underground
+Circo Massimo (Rome Metro)	stationStructure	Underground
+Piramide (Rome Metro)	stationStructure	Aboveground
+Garbatella (Rome Metro)	stationStructure	Aboveground
+Basilica San Paolo (Rome Metro)	stationStructure	Aboveground
+Marconi (Rome Metro)	stationStructure	Aboveground
+EUR Magliana	stationStructure	Aboveground
+EUR Palasport	stationStructure	Underground
+EUR Fermi	stationStructure	Underground
+Laurentina (Rome Metro)	stationStructure	Underground
+Brommaplan metro station	stationStructure	Elevated
+Temagami Railway Station	stationStructure	station, freight shed and earlier wooden station
+Englehart railway station	stationStructure	modern train station
+Swastika railway station	stationStructure	train station
+Matheson railway station	stationStructure	single station building
+Redditt railway station	stationStructure	none
+Skanstull metro station	stationStructure	Underground
+Terminal 1 (AirTrain JFK station)	stationStructure	modern type
+P4 (AirTrain Newark station)	stationStructure	Elevated
+Terminal C (AirTrain Newark station)	stationStructure	Elevated
+Terminal B (AirTrain Newark station)	stationStructure	Elevated
+Terminal A (AirTrain Newark station)	stationStructure	Elevated
+P3 (AirTrain Newark station)	stationStructure	Elevated
+P2 (AirTrain Newark station)	stationStructure	Elevated
+P1 (AirTrain Newark station)	stationStructure	Elevated
+Odenplan metro station	stationStructure	Underground
+Allermöhe station	stationStructure	Elevated
+Sestroretsk railway station (1871–1924)	stationStructure	at-grade
+Retreat railway station	stationStructure	At-grade
+Miller's pier	stationStructure	at-grade
+Bellville railway station	stationStructure	At-grade
+Napoli Afragola railway station	stationStructure	at-grade, crossing station
+Coimbatore Junction	stationStructure	Railway Station
+Torino Porta Susa railway station	stationStructure	at-grade, crossing station
+Sestroretsk railway station	stationStructure	at-grade
+Lisy Nos, before 1928	stationStructure	at-grade
+Kurort	stationStructure	at-grade
+Roma Porta San Paolo railway station	stationStructure	at-grade, terminal station
+Hamburg Airport station	stationStructure	Underground
+Kaupilovo	stationStructure	at-grade
+Gorskaya, Sestroretsk	stationStructure	at-grade
+Alexandrovskaya, Saint Petersburg	stationStructure	at-grade
+Ohlsdorf station	stationStructure	Elevated
+Laramie (CTA Blue Line station)	stationStructure	Street Level
+Tarkhovka	stationStructure	at-grade
+12th & I	stationStructure	at-grade
+Archives Plaza	stationStructure	at-grade
+16th Street (Sacramento RT)	stationStructure	at-grade
+23rd Street (Sacramento RT)	stationStructure	at-grade
+29th Street (Sacramento RT)	stationStructure	at-grade
+39th Street (Sacramento RT)	stationStructure	at-grade
+48th Street (Sacramento RT)	stationStructure	at-grade
+59th Street (Sacramento RT)	stationStructure	at-grade
+Power Inn	stationStructure	at-grade
+College Greens	stationStructure	at-grade
+Watt/Manlove	stationStructure	at-grade
+Starfire (Sacramento RT)	stationStructure	at-grade
+Mather Field / Mills (Sacramento RT)	stationStructure	at-grade
+Zinfandel (Sacramento RT)	stationStructure	at-grade
+Cordova Town Center	stationStructure	at-grade
+Hazel (Sacramento RT)	stationStructure	at-grade
+Iron Point (Sacramento RT)	stationStructure	at-grade
+Glenn (Sacramento RT)	stationStructure	at-grade
+Historic Folsom	stationStructure	at-grade
+España railway station	stationStructure	At grade
+Buendia railway station	stationStructure	At grade
+Glen Riddle (SEPTA station)	stationStructure	demolished
+Lenni (SEPTA station)	stationStructure	demolished
+Wawa (SEPTA station)	stationStructure	demolished
+Darlington (SEPTA station)	stationStructure	demolished
+Glen Mills (SEPTA station)	stationStructure	Queen Anne gothic
+Barmouth (SEPTA station)	stationStructure	shelter
+Locksley (SEPTA station)	stationStructure	shelter
+Bhopal Habibganj Railway Station	stationStructure	Railway Station
+Central (CTA Congress Line station)	stationStructure	Elevated
+Gorman (ETS)	stationStructure	Surface
+Manzoni – Museo della Liberazione (Rome Metro)	stationStructure	Underground
+West Chester University (SEPTA station)	stationStructure	shelter
+Westtown (SEPTA station)	stationStructure	Frame building
+Cheyney (SEPTA station)	stationStructure	Wooden frame structure
+New Delhi Railway Station	stationStructure	Standard (On Ground Station)
+Bukit Panjang MRT Station	stationStructure	Underground
+Isabella (CTA station)	stationStructure	At-grade
+Karachi Cantonment Railway Station	stationStructure	Standard (On Ground Station)
+Vasylkivska (Kiev Metro)	stationStructure	underground
+Port Elizabeth railway station	stationStructure	At-grade
+Bloemfontein railway station	stationStructure	At-grade
+MacEwan (ETS)	stationStructure	Surface
+Dostoyevskaya (Moscow Metro)	stationStructure	Deep column-wall station
+Calvary (CRT station)	stationStructure	Elevated
+Ellerslie (ETS)	stationStructure	Surface
+Sandy Creek (PAT station)	stationStructure	street level
+Beagle (PAT station)	stationStructure	street level
+Sarah (PAT station)	stationStructure	street level
+Munroe (PAT station)	stationStructure	street level
+Latimer (PAT station)	stationStructure	street level
+Mesta (PAT station)	stationStructure	street level
+Lindermer (PAT station)	stationStructure	street level
+Center (PAT station)	stationStructure	street level
+Smith Road (PAT station)	stationStructure	street level
+St. Anne's (PAT station)	stationStructure	street level
+Martin Villa (PAT station)	stationStructure	street level
+Nichols railway station	stationStructure	At grade
+Menemen railway station	stationStructure	At-grade
+Groudle Lane Halt	stationStructure	Bus Shelter
+Café Royale Halt	stationStructure	None
+Braeside Halt	stationStructure	Bus Shelter
+Far End Halt	stationStructure	Bus Shelter
+Derby Castle Depôt	stationStructure	Various (See Text)
+Eskadale Halt	stationStructure	None
+Ankara Central Station	stationStructure	At-grade
+Scarffe's Crossing	stationStructure	None
+Ballamenagh Halt	stationStructure	Bus Shelter
+Sunnycott Halt	stationStructure	None
+Ballagawne Halt	stationStructure	None
+Lamb's Crossing	stationStructure	None
+Preston's Crossing	stationStructure	None
+Miller's Crossing Halt	stationStructure	None
+Skinscoe Halt	stationStructure	None
+Ballamoar (Bottom) Halt	stationStructure	None
+Ballamoar (Top) Halt	stationStructure	None
+Burn's Crossing	stationStructure	None
+Dhoon Farm Halt	stationStructure	None
+Thalloo Mitchell	stationStructure	None
+Brown's Crossing	stationStructure	None
+Ballellin Halt	stationStructure	None
+Ballig Halt	stationStructure	None
+Ballasholague Halt	stationStructure	None
+Corkill's Crossing	stationStructure	None
+The Garey	stationStructure	None
+Ballagorry Halt	stationStructure	None
+Watson's Crossing	stationStructure	None
+Dolland Halt	stationStructure	None
+Crowcreen Halt	stationStructure	None
+Ballaskeig Halt	stationStructure	None
+Ballafayle (Corteen's) Halt	stationStructure	None
+Ballacannell Halt	stationStructure	None
+Ballafayle (Kerruish) Halt	stationStructure	None
+Rome's Crossing	stationStructure	None
+Ballajora (ME) Halt	stationStructure	Waiting Shelter
+Ballajora Quarry Halt	stationStructure	None
+Dreemskerry Halt	stationStructure	None
+Crowville Halt	stationStructure	None
+Ballure Halt	stationStructure	None
+Dreemskerry Farm Halt	stationStructure	None
+Walpole Drive Halt	stationStructure	None
+Ballastowell Halt	stationStructure	None
+Dhoon Quarry Halt	stationStructure	Cottage (Extant)
+Lhen Coan railway station	stationStructure	Various
+Lime Kiln Halt railway station	stationStructure	Wooden Shelters
+Sea Lion Rocks railway station	stationStructure	Tea Room & Visitor Centre
+Giulio Agricola (Rome Metro)	stationStructure	Underground
+Laxey Car Sheds	stationStructure	Three-Road Shed
+Zvenigorodskaya	stationStructure	Underground
+İzmit Central Station	stationStructure	At-grade
+Kingsway (ETS)	stationStructure	Surface
+NAIT (ETS)	stationStructure	Surface
+Narvskaya (Saint Petersburg Metro)	stationStructure	Underground
+Buena (CTA station)	stationStructure	Elevated
+Grace (CTA station)	stationStructure	Elevated
+Clark (CTA station)	stationStructure	Elevated
+Nusaybin railway station	stationStructure	At-grade
+Albany railway station	stationStructure	Wooden single story
+Commercial–Broadway Station	stationStructure	Two separated sets of platforms; elevated and below grade
+Vito Cruz railway station	stationStructure	At grade
+Ravenswood (CTA station)	stationStructure	Elevated
+Trinity Mills (DART station)	stationStructure	At grade
+Sanremo railway station	stationStructure	at-grade, crossing station
+Deep Ellum (DART station)	stationStructure	At grade
+Latur Railway Station	stationStructure	Standard (On Ground Station)
+Khurai Railway Station	stationStructure	Railway Station
+Halkapınar (İzmir Metro)	stationStructure	At-grade
+Halkapınar railway station	stationStructure	At-grade
+Bornova (İzmir Metro)	stationStructure	Underground
+Baylor University Medical Center (DART station)	stationStructure	At grade
+Inwood/Love Field (DART station)	stationStructure	Elevated
+Southwestern Medical District / Parkland (DART station)	stationStructure	Elevated
+Market Center (DART station)	stationStructure	At grade
+Bachman (DART station)	stationStructure	At Grade
+Royal Lane (DART station)	stationStructure	Elevated
+Walnut Hill / Denton (DART station)	stationStructure	Elevated
+Downtown Carrollton (DART station)	stationStructure	Elevated
+North Carrollton / Frankford (DART station)	stationStructure	At grade
+Hatcher (DART station)	stationStructure	At grade
+Lawnview (DART station)	stationStructure	At grade
+Lake June (DART station)	stationStructure	At grade
+Buckner (DART station)	stationStructure	At grade
+University of Dallas (DART station)	stationStructure	At Grade
+Loop 12 (DART station)	stationStructure	At Grade
+South Las Colinas (DART station)	stationStructure	At Grade
+Las Colinas Urban Center (DART station)	stationStructure	At Grade
+Irving Convention Center (DART station)	stationStructure	At Grade
+North Lake College (DART station)	stationStructure	At Grade
+Belt Line (DART station)	stationStructure	At Grade
+Las Colinas Carpenter Ranch (DART station)	stationStructure	At Grade
+DFW Airport (DART station)	stationStructure	At Grade
+DFW North (DART station)	stationStructure	At Grade
+Knox–Henderson Station	stationStructure	Underground
+Wrightwood (CTA station)	stationStructure	Elevated
+EDSA railway station	stationStructure	At grade
+Charles St. Transit Terminal	stationStructure	Ticket office, washrooms, waiting room, restaurant, covered platforms
+Webster (CTA station)	stationStructure	Elevated
+San Andres railway station	stationStructure	At grade
+Bicutan railway station	stationStructure	At grade
+Pasay Road railway station	stationStructure	At grade
+Willow (CRT station)	stationStructure	Elevated
+Halsted (CTA North Side Main Line station)	stationStructure	Elevated
+Larrabee (CTA station)	stationStructure	Elevated
+Nesselande (Rotterdam Metro)	stationStructure	Elevated
+Slinge (Rotterdam Metro)	stationStructure	Elevated
+Parkweg (Rotterdam Metro)	stationStructure	Underground
+Tussenwater (Rotterdam Metro)	stationStructure	Elevated
+Juridicum (SWB)	stationStructure	underground station
+Viking railway station	stationStructure	yes
+Evansburg railway station	stationStructure	no
+Edson railway station	stationStructure	no
+Hinton, Alberta railway station	stationStructure	shelter
+Akshardham (Delhi Metro)	stationStructure	Elevated
+Moosonee railway station	stationStructure	passenger terminal, diesel shed, freight/express shed
+Perambur (Railway Station)	stationStructure	Standard on-ground station
+Moskovskyi Prospekt (Kharkiv Metro)	stationStructure	underground
+Park Kultury (Nizhny Novgorod Metro)	stationStructure	underground
+Govindpuri Railway Station	stationStructure	Railway station
+Cordusio (Milan Metro)	stationStructure	Underground
+Cairoli (Milan Metro)	stationStructure	Underground
+Newtown Road (Tide station)	stationStructure	At-grade
+Thompson railway station	stationStructure	Station building with animal cage, baggage room, telephones and washrooms
+Lausanne-Flon station	stationStructure	underground
+Schiller (CTA station)	stationStructure	Elevated
+Division (CTA North Side Main Line station)	stationStructure	Elevated
+Oak (CTA station)	stationStructure	Elevated
+FTI railway station	stationStructure	At grade
+Grand (CTA North Side Main Line station)	stationStructure	Elevated
+Kinzie (Northwestern Elevated station)	stationStructure	Elevated
+Fifth/Lake (Union Elevated Railroad station)	stationStructure	Elevated
+Milano Porta Garibaldi railway station	stationStructure	At-grade and partly underground, through station
+Duomo (Milan Metro)	stationStructure	Underground
+Bilbao-Atxuri Station	stationStructure	At-grade
+Bolueta Station	stationStructure	At-grade (EuskoTren), Elevated (Metro Bilbao)
+Casco Viejo Station	stationStructure	Underground
+San Mames Station	stationStructure	Underground (Metro Bilbao and Cercan\u00EDas Bilbao)
+San Mames Station	stationStructure	At-grade (EuskoTran and Termibus)
+San Babila (Milan Metro)	stationStructure	Underground
+Palestro (Milan Metro)	stationStructure	Underground
+Zuidplein (Rotterdam Metro)	stationStructure	Elevated
+Maashaven (Rotterdam Metro)	stationStructure	Elevated
+Rijnhaven (Rotterdam Metro)	stationStructure	Elevated
+Wilhelminaplein (Rotterdam Metro)	stationStructure	Underground
+Poortugaal (Rotterdam Metro)	stationStructure	Elevated
+Cadorna (Milan Metro)	stationStructure	Underground
+Conciliazione (Milan Metro)	stationStructure	Underground
+Sucat railway station	stationStructure	At grade
+Porta Venezia (Milan Metro)	stationStructure	Underground
+Lima (Milan Metro)	stationStructure	Underground
+61st (CTA station)	stationStructure	Elevated
+Kharkiv Railway Station	stationStructure	Standard (On Ground Station)
+Courtenay railway station	stationStructure	Heritage station building, with washrooms
+Union Bay railway station	stationStructure	none
+Plimmerton Railway Station	stationStructure	Station Building
+Wellington, British Columbia railway station	stationStructure	none
+Ladysmith railway station	stationStructure	Unmanned heated station
+Ainslie St. Transit Terminal	stationStructure	Waiting room, washroom, ticket counter
+Cowichan railway station	stationStructure	Flagstop
+Paremata Railway Station	stationStructure	Shelter
+Cermak (CTA station)	stationStructure	Elevated
+University (CTA station)	stationStructure	Elevated
+Alabang railway station	stationStructure	At grade
+Pandacan railway station	stationStructure	At grade
+Asistio Avenue railway station	stationStructure	At grade
+Solis railway station	stationStructure	At grade
+İzmir Basmane Terminal	stationStructure	At-grade
+26th (CTA station)	stationStructure	Elevated
+29th (CTA station)	stationStructure	Elevated
+31st (CTA station)	stationStructure	Elevated
+33rd (CTA station)	stationStructure	Elevated
+Pershing (CTA station)	stationStructure	Elevated
+MacArthur Square (Tide station)	stationStructure	At-grade
+Marina Pier MRT Station	stationStructure	Underground
+Nouvelle railway station	stationStructure	at-grade, shingle style
+Noida City Centre (Delhi Metro)	stationStructure	Elevated
+Noida Golf Course (Delhi Metro)	stationStructure	Elevated
+Botanical Garden (Delhi Metro)	stationStructure	Elevated
+Noida Sector 18 (Delhi Metro)	stationStructure	Elevated
+Noida Sector 16 (Delhi Metro)	stationStructure	Elevated
+Noida Sector 15 (Delhi Metro)	stationStructure	Elevated
+New Ashok Nagar (Delhi Metro)	stationStructure	Elevated
+Dilshad Garden (Delhi Metro)	stationStructure	Elevated
+Jhilmil (Delhi Metro)	stationStructure	Elevated
+Mansarovar Park (Delhi Metro)	stationStructure	Elevated
+Shahdara (Delhi Metro)	stationStructure	At Grade
+Welcome (Delhi Metro)	stationStructure	At Grade
+Seelampur (Delhi Metro)	stationStructure	At Grade
+Shastri Park (Delhi Metro)	stationStructure	At Grade
+Kashmere Gate (Delhi Metro)	stationStructure	Underground
+Tis Hazari (Delhi Metro)	stationStructure	Elevated
+Pul Bangash (Delhi Metro)	stationStructure	Elevated
+Pratap Nagar (Delhi Metro)	stationStructure	Elevated
+Shastri Nagar (Delhi Metro)	stationStructure	Elevated
+Inderlok (Delhi Metro)	stationStructure	Elevated
+Kanhiya Nagar (Delhi Metro)	stationStructure	Elevated
+Keshav Puram (Delhi Metro)	stationStructure	Elevated
+Netaji Subhash Place (Delhi Metro)	stationStructure	Elevated
+Kohat Enclave (Delhi Metro)	stationStructure	Elevated
+Rohini East (Delhi Metro)	stationStructure	Elevated
+Pitam Pura (Delhi Metro)	stationStructure	Elevated
+Rohini West (Delhi Metro)	stationStructure	Elevated
+Rithala (Delhi Metro)	stationStructure	Elevated
+Jahangirpuri (Delhi Metro)	stationStructure	Elevated
+Adarsh Nagar (Delhi Metro)	stationStructure	Elevated
+Azadpur (Delhi Metro)	stationStructure	Elevated
+Model Town (Delhi Metro)	stationStructure	Elevated
+GTB Nagar (Delhi Metro)	stationStructure	Underground
+Vishwa Vidyalaya (Delhi Metro)	stationStructure	Underground
+Vidhan Sabha (Delhi Metro)	stationStructure	Underground
+Civil Lines (Delhi Metro)	stationStructure	Underground
+Chawri Bazar (Delhi Metro)	stationStructure	Underground
+Rajiv Chowk (Delhi Metro)	stationStructure	Underground
+Patel Chowk (Delhi Metro)	stationStructure	Underground
+Central Secretariat (Delhi Metro)	stationStructure	Underground
+Ashok Park Main (Delhi Metro)	stationStructure	Elevated
+Punjabi Bagh East (Delhi Metro)	stationStructure	Elevated
+Shivaji Park (Delhi Metro)	stationStructure	Elevated
+Madipur (Delhi Metro)	stationStructure	Elevated
+Paschim Vihar East (Delhi Metro)	stationStructure	Elevated
+Paschim Vihar West (Delhi Metro)	stationStructure	Elevated
+Peera Garhi (Delhi Metro)	stationStructure	Elevated
+Udyog Nagar (Delhi Metro)	stationStructure	Elevated
+Surajmal Stadium (Delhi Metro)	stationStructure	Elevated
+Nangloi (Delhi Metro)	stationStructure	Elevated
+Nangloi Railway station (Delhi Metro)	stationStructure	Elevated
+Rajdhani Park (Delhi Metro)	stationStructure	Elevated
+Mundka (Delhi Metro)	stationStructure	Elevated
+Pietermaritzburg railway station	stationStructure	At-grade Red Brick Victorian
+Mayur Vihar Extension (Delhi Metro)	stationStructure	Elevated
+Mayur Vihar-I (Delhi Metro)	stationStructure	Elevated
+Yamuna Bank (Delhi Metro)	stationStructure	At-grade
+Laxmi Nagar (Delhi Metro)	stationStructure	Elevated
+Preet Vihar (Delhi Metro)	stationStructure	Elevated
+Nirman Vihar (Delhi Metro)	stationStructure	Elevated
+Karkarduma (Delhi Metro)	stationStructure	Elevated
+Anand Vihar (Delhi Metro)	stationStructure	Elevated
+Indraprastha (Delhi Metro)	stationStructure	Elevated
+Pragati Maidan (Delhi Metro)	stationStructure	Elevated
+Mandi House (Delhi Metro)	stationStructure	Underground
+Barakhamba Road (Delhi Metro)	stationStructure	Underground
+Ramakrishna Ashram Marg (Delhi Metro)	stationStructure	Elevated
+Jhandewalan (Delhi Metro)	stationStructure	Elevated
+Karol Bagh (Delhi Metro)	stationStructure	Elevated
+Rajendra Place (Delhi Metro)	stationStructure	Elevated
+Patel Nagar (Delhi Metro)	stationStructure	Elevated
+Shadipur (Delhi Metro)	stationStructure	Elevated
+Kirti Nagar (Delhi Metro)	stationStructure	Elevated
+Moti Nagar (Delhi Metro)	stationStructure	Elevated
+Ramesh Nagar (Delhi Metro)	stationStructure	Elevated
+Rajouri Garden (Delhi Metro)	stationStructure	Elevated
+Tagore Garden (Delhi Metro)	stationStructure	Elevated
+Subhash Nagar (Delhi Metro)	stationStructure	Elevated
+Tilak Nagar (Delhi Metro)	stationStructure	Elevated
+Janakpuri East (Delhi Metro)	stationStructure	Elevated
+Janakpuri West (Delhi Metro)	stationStructure	Elevated
+Uttam Nagar East (Delhi Metro)	stationStructure	Elevated
+Uttam Nagar West (Delhi Metro)	stationStructure	Elevated
+Nawada (Delhi Metro)	stationStructure	Elevated
+Dwarka Mor (Delhi Metro)	stationStructure	Elevated
+Dwarka (Delhi Metro)	stationStructure	Elevated
+Dwarka Sector 14 (Delhi Metro)	stationStructure	Elevated
+Dwarka Sector 13 (Delhi Metro)	stationStructure	Elevated
+Dwarka Sector 12 (Delhi Metro)	stationStructure	Elevated
+Dwarka Sector 11 (Delhi Metro)	stationStructure	Elevated
+Dwarka Sector 10 (Delhi Metro)	stationStructure	Elevated
+Dwarka Sector 9 (Delhi Metro)	stationStructure	Elevated
+De Aar railway station	stationStructure	At-grade
+Adana Central Station	stationStructure	At-grade
+Maryina Roshcha (Moscow Metro)	stationStructure	Deep pylon triple-vault station
+İzmir Alsancak Terminal	stationStructure	At-grade
+Woodstock railway station (Cape Town)	stationStructure	Elevated
+Salt River railway station	stationStructure	Elevated
+Afyon Ali Çetinkaya Station	stationStructure	At-grade
+Mutual railway station	stationStructure	At-grade
+18th (CTA South Side Elevated station)	stationStructure	Elevated
+Congress/Wabash (CTA station)	stationStructure	Elevated
+Torbalı railway station	stationStructure	At-grade
+Quesnel railway station	stationStructure	two storey building
+Kamloops railway station	stationStructure	2 storey heritage building
+Crawford railway station (Cape Town)	stationStructure	At-grade
+Observatory railway station	stationStructure	At-grade
+Pretoria railway station	stationStructure	At-grade
+Naga railway station	stationStructure	At grade
+Mowbray railway station	stationStructure	At-grade
+Rondebosch railway station	stationStructure	At-grade
+Huguenot railway station	stationStructure	At-grade
+Wellington railway station (South Africa)	stationStructure	At-grade
+East London railway station	stationStructure	At-grade
+Kimberley railway station (South Africa)	stationStructure	At-grade
+Sevastopolskaya (Moscow Metro)	stationStructure	Shallow column tri-vault
+Newlands railway station	stationStructure	At-grade
+Tirana Rail Station	stationStructure	Concrete
+Washington Square Transit Center	stationStructure	Sheltered waiting areas
+Dearborn/Van Buren (CTA station)	stationStructure	Elevated
+Katpadi Junction	stationStructure	Railway Station
+Vellore Cantonment	stationStructure	Railway Station
+Claremont railway station (Cape Town)	stationStructure	At-grade
+Kemer (İZBAN)	stationStructure	At-grade
+Randolph/Wells (CTA station)	stationStructure	Elevated
+Madison/Wells (CTA station)	stationStructure	Elevated
+Aliağa (İZBAN)	stationStructure	At-grade
+Biçerova (İZBAN)	stationStructure	At-grade
+Bayındır railway station	stationStructure	At-grade
+Tire railway station	stationStructure	At-grade
+Ödemiş railway station	stationStructure	At-grade
+Şirinyer (İZBAN)	stationStructure	Underground
+Cumaovası railway station	stationStructure	At-grade
+Buca railway station	stationStructure	At-grade
+Main (CTA Niles Center station)	stationStructure	At-grade
+Gerdesiaweg (Rotterdam Metro)	stationStructure	Underground
+Voorschoterlaan (Rotterdam Metro)	stationStructure	Underground
+Pernis (Rotterdam Metro)	stationStructure	Elevated
+Hoogvliet (Rotterdam Metro)	stationStructure	Elevated
+Zalmplaat (Rotterdam Metro)	stationStructure	Elevated
+Kars railway station	stationStructure	At-grade
+Selim Railway Station	stationStructure	At-grade
+Sarıkamış railway station	stationStructure	At-grade
+Topdağ Railway Station	stationStructure	At-grade
+Süngütaşı Railway Station	stationStructure	At-grade
+Akyaka Railway Station	stationStructure	At-grade
+Mezra Railway Station	stationStructure	At-grade
+Doğukapı Railway Station	stationStructure	At-grade
+Benliahmet Railway Staion	stationStructure	At-grade
+Soğanlı Railway Station	stationStructure	At-grade
+Söğütlüçeşme Railway Station	stationStructure	Elevated
+River Valley MRT Station	stationStructure	Underground
+Bencoolen MRT Station	stationStructure	Underground
+Sungei Road MRT Station	stationStructure	Underground
+Jalan Besar MRT Station	stationStructure	Underground
+Kallang Bahru MRT Station	stationStructure	Underground
+Mattar MRT Station	stationStructure	Underground
+Ubi MRT Station	stationStructure	Underground
+Kaki Bukit MRT Station	stationStructure	Underground
+Upper Changi MRT Station	stationStructure	Underground
+Tampines East MRT Station	stationStructure	Underground
+Tampines West MRT Station	stationStructure	Underground
+Bedok Reservoir MRT Station	stationStructure	Underground
+Bedok Town Park MRT Station	stationStructure	Underground
+Eskişehir Central Station	stationStructure	At-Grade
+Tiruchirappalli Junction	stationStructure	Railway Station
+Chhatarpur (Delhi Metro)	stationStructure	Elevated
+HUDA City Centre (Delhi Metro)	stationStructure	Elevated
+Udyog Bhawan (Delhi Metro)	stationStructure	Underground
+Race Course (Delhi Metro)	stationStructure	Underground
+Jor Bagh (Delhi Metro)	stationStructure	Underground
+INA (Delhi Metro)	stationStructure	Underground
+AIIMS (Delhi Metro)	stationStructure	Underground
+Green Park (Delhi Metro)	stationStructure	Underground
+Hauz Khas (Delhi Metro)	stationStructure	Underground
+Malviya Nagar (Delhi Metro)	stationStructure	Underground
+Saket (Delhi Metro)	stationStructure	Underground
+Qutab Minar (Delhi Metro)	stationStructure	Elevated
+Sultanpur (Delhi Metro)	stationStructure	Elevated
+Ghitorni (Delhi Metro)	stationStructure	Elevated
+Arjan Garh (Delhi Metro)	stationStructure	Elevated
+Guru Dronacharya (Delhi Metro)	stationStructure	Elevated
+Sikandarpur (Delhi Metro)	stationStructure	Elevated
+IFFCO Chowk (Delhi Metro)	stationStructure	Elevated
+MG Road (Delhi Metro)	stationStructure	Elevated
+Holosiivska (Kiev Metro)	stationStructure	underground
+Koşu (İZBAN)	stationStructure	At-grade
+Spijkenisse Centrum (Rotterdam Metro)	stationStructure	Elevated
+Heemraadlaan (Rotterdam Metro)	stationStructure	Elevated
+Thielenbruch (KVB)	stationStructure	at-grade
+Neumarkt (KVB)	stationStructure	underground, at-grade
+Hipodrom Railway Station	stationStructure	At-grade
+Yenice Railway Station	stationStructure	At-grade
+Gaziantep railway station	stationStructure	At-Grade
+İslahiye railway station	stationStructure	At-grade
+Jawaharlal Nehru Stadium (Delhi Metro)	stationStructure	Underground
+Khan Market (Delhi Metro)	stationStructure	Underground
+Jangpura (Delhi Metro)	stationStructure	Underground
+Lajpat Nagar (Delhi Metro)	stationStructure	Elevated
+Moolchand (Delhi Metro)	stationStructure	Elevated
+Kailash Colony (Delhi Metro)	stationStructure	Elevated
+Nehru Place (Delhi Metro)	stationStructure	Elevated
+Kalkaji Mandir (Delhi Metro)	stationStructure	Elevated
+Jasola Apollo (Delhi Metro)	stationStructure	Elevated
+Govind Puri (Delhi Metro)	stationStructure	Elevated
+Okhla (Delhi Metro)	stationStructure	Elevated
+Sarita Vihar (Delhi Metro)	stationStructure	Elevated
+Mohan Estate (Delhi Metro)	stationStructure	Elevated
+Tughlakabad (Delhi Metro)	stationStructure	Elevated
+Badarpur (Delhi Metro)	stationStructure	Elevated
+Marshala Zhukova (Kharkiv Metro)	stationStructure	underground
+Radianskoi Armii (Kharkiv Metro)	stationStructure	underground
+Imeni O.S. Maselskoho (Kharkiv Metro)	stationStructure	underground
+Traktornyi Zavod (Kharkiv Metro)	stationStructure	underground
+Zavod Imeni Malysheva (Kharkiv Metro)	stationStructure	underground
+Proletarska (Kharkiv Metro)	stationStructure	underground
+Istorychnyi Muzei (Kharkiv Metro)	stationStructure	underground
+Pushkinska (Kharkiv Metro)	stationStructure	underground
+Kyivska (Kharkiv Metro)	stationStructure	underground
+Akademika Barabashova (Kharkiv Metro)	stationStructure	underground
+Akademika Pavlova (Kharkiv Metro)	stationStructure	underground
+Studentska (Kharkiv Metro)	stationStructure	underground
+Heroiv Pratsi (Kharkiv Metro)	stationStructure	underground
+23 Serpnia (Kharkiv Metro)	stationStructure	underground
+Naukova (Kharkiv Metro)	stationStructure	underground
+Derzhprom (Kharkiv Metro)	stationStructure	underground
+Arkhitektora Beketova (Kharkiv Metro)	stationStructure	underground
+Ploshcha Povstannia (Kharkiv Metro)	stationStructure	underground
+Metrobudivnykiv imeni H.I. Vashchenka (Kharkiv Metro)	stationStructure	underground
+Schaan-Vaduz railway station	stationStructure	at-grade
+Dwarka Sector 8 (Delhi Metro)	stationStructure	Elevated
+Dwarka Sector 21 (Delhi Metro)	stationStructure	Underground
+Muntinlupa railway station	stationStructure	At grade
+Fort Norfolk / Medical Center (Tide station)	stationStructure	At-grade
+York Street / Freemason (Tide station)	stationStructure	At-grade
+Monticello (Tide station)	stationStructure	At-grade
+Civic Plaza (Tide station)	stationStructure	At-grade
+Harbor Park (Tide station)	stationStructure	At-grade
+Ballentine / Broad Creek (Tide station)	stationStructure	At-grade
+NSU (Tide station)	stationStructure	Elevated
+Ingleside Road (Tide station)	stationStructure	At-grade
+Military Highway (Tide station)	stationStructure	At-grade
+Santa Rosa railway station	stationStructure	At grade
+Golden City 2 railway station	stationStructure	At grade
+Aluva Railway Station	stationStructure	Standard on-ground station
+Moskovskaya (Minsk Metro)	stationStructure	Underground
+Park Chelyuskintsev (Minsk Metro)	stationStructure	Underground
+Ploshchad Yakuba Kolasa (Minsk Metro)	stationStructure	Underground
+Ploshchad Pobedy (Minsk Metro)	stationStructure	Underground
+Oktyabrskaya (Minsk Metro)	stationStructure	Underground
+Ploshchad Lenina (Minsk Metro)	stationStructure	Underground
+Kupalovskaya (Minsk Metro)	stationStructure	Underground
+Nemiga (Minsk Metro)	stationStructure	Underground
+Frunzenskaya (Minsk Metro)	stationStructure	Underground
+Molodyozhnaya (Minsk Metro)	stationStructure	Underground
+Sudbury railway station, Ontario	stationStructure	Manned station building
+Balıkesir Railway Station	stationStructure	At-grade
+Vaishali (Delhi Metro)	stationStructure	Elevated
+Körnerstraße (KVB)	stationStructure	underground
+Piusstraße (KVB)	stationStructure	underground
+Leyendeckerstraße (KVB)	stationStructure	underground
+Äußere Kanalstraße (KVB)	stationStructure	underground
+Akazienweg (KVB)	stationStructure	underground
+Friesenplatz (KVB)	stationStructure	underground
+Bensberg (KVB)	stationStructure	underground
+Kalk Kapelle (KVB)	stationStructure	underground
+Königsforst (KVB)	stationStructure	at-grade
+Sülzgürtel (KVB)	stationStructure	at-grade
+L'Enfant (VRE station)	stationStructure	Elevated
+Highland Hills Mall  Transit Terminal   1	stationStructure	Bus shelters
+Chapleau railway station	stationStructure	Unmanned station building
+Bolkow railway station	stationStructure	none
+Dalton, Ontario railway station	stationStructure	none
+White River railway station	stationStructure	shelter
+Oleksiivska (Kharkiv Metro)	stationStructure	underground
+Kostner (CTA Niles Center station)	stationStructure	At-grade
+Crawford-East Prairie (CTA station)	stationStructure	At-grade
+Dodge (CTA station)	stationStructure	Elevated
+Asbury (CTA station)	stationStructure	Below-grade
+Ridge (CTA station)	stationStructure	Below-grade
+Carandiru (São Paulo Metro)	stationStructure	Elevated
+Armênia (São Paulo Metro)	stationStructure	Elevated
+Tiradentes (São Paulo Metro)	stationStructure	Underground
+Luz (São Paulo Metro)	stationStructure	Underground
+São Bento (São Paulo Metro)	stationStructure	Underground
+Sé (São Paulo Metro)	stationStructure	Underground
+Vijfsluizen (Rotterdam Metro)	stationStructure	Elevated
+South Station (MBTA station)	stationStructure	Underground
+Liberdade (São Paulo Metro)	stationStructure	Underground
+São Joaquim (São Paulo Metro)	stationStructure	Underground
+Vergueiro (São Paulo Metro)	stationStructure	Underground
+Paraíso (São Paulo Metro)	stationStructure	underground
+Ana Rosa (São Paulo Metro)	stationStructure	underground
+Vila Mariana (São Paulo Metro)	stationStructure	Underground
+Santa Cruz (São Paulo Metro)	stationStructure	underground
+Praça da Árvore (São Paulo Metro)	stationStructure	underground
+Saúde (São Paulo Metro)	stationStructure	underground
+São Judas (São Paulo Metro)	stationStructure	underground
+Conceição (São Paulo Metro)	stationStructure	underground
+Jabaquara (São Paulo Metro)	stationStructure	underground
+Vila Madalena (São Paulo Metro)	stationStructure	underground
+Santuário Nossa Senhora de Fátima-Sumaré (São Paulo Metro)	stationStructure	elevated
+Clínicas (São Paulo Metro)	stationStructure	underground
+Consolação (São Paulo Metro)	stationStructure	underground
+Trianon-Masp (São Paulo Metro)	stationStructure	underground
+Brigadeiro (São Paulo Metro)	stationStructure	underground
+Chácara Klabin (São Paulo Metro)	stationStructure	underground
+Santos-Imigrantes (São Paulo Metro)	stationStructure	semi-elevated
+Alto do Ipiranga (São Paulo Metro)	stationStructure	underground
+Sacomã (São Paulo Metro)	stationStructure	underground
+Tamanduateí (São Paulo Metro)	stationStructure	elevated
+Vila Prudente (São Paulo Metro)	stationStructure	underground
+Palmeiras-Barra Funda (São Paulo Metro)	stationStructure	at-grade
+Marechal Deodoro (São Paulo Metro)	stationStructure	underground
+Prospekt Veteranov (Saint Petersburg Metro)	stationStructure	Underground
+Santa Cecília (São Paulo Metro)	stationStructure	underground
+República (São Paulo Metro)	stationStructure	underground
+Anhangabaú (São Paulo Metro)	stationStructure	underground
+Pedro II (São Paulo Metro)	stationStructure	elevated
+Brás (São Paulo Metro)	stationStructure	elevated
+Bresser-Mooca (São Paulo Metro)	stationStructure	at grade
+Belém (São Paulo Metro)	stationStructure	at grade
+Obvodny Kanal (Saint Petersburg Metro)	stationStructure	Underground
+Volkovskaya (Saint Petersburg Metro)	stationStructure	Underground
+Tatuapé (São Paulo Metro)	stationStructure	at grade
+Carrão (São Paulo Metro)	stationStructure	at grade
+Penha (São Paulo Metro)	stationStructure	at grade
+Vila Matilde (São Paulo Metro)	stationStructure	at grade
+Guilhermina-Esperança (São Paulo Metro)	stationStructure	at grade
+Patriarca (São Paulo Metro)	stationStructure	semi-elevated
+Artur Alvim (São Paulo Metro)	stationStructure	semi-elevated
+Corinthians-Itaquera (São Paulo Metro)	stationStructure	elevated
+Higienópolis-Mackenzie (São Paulo Metro)	stationStructure	underground
+Oscar Freire (São Paulo Metro)	stationStructure	underground
+Fradique Coutinho (São Paulo Metro)	stationStructure	underground
+Faria Lima (São Paulo Metro)	stationStructure	underground
+Pinheiros (São Paulo Metro)	stationStructure	underground
+Butantã (São Paulo Metro)	stationStructure	underground
+São Paulo-Morumbi (São Paulo Metro)	stationStructure	underground
+Vila Sônia (São Paulo Metro)	stationStructure	underground
+Capão Redondo (São Paulo Metro)	stationStructure	elevated
+Campo Limpo (São Paulo Metro)	stationStructure	elevated
+Vila das Belezas (São Paulo Metro)	stationStructure	elevated
+Giovanni Gronchi (São Paulo Metro)	stationStructure	elevated
+Santo Amaro (São Paulo Metro)	stationStructure	elevated
+Largo Treze (São Paulo Metro)	stationStructure	underground
+Tuas MRT Station	stationStructure	Elevated
+Tuas Crescent MRT Station	stationStructure	Elevated
+Tuas West MRT Station	stationStructure	Elevated
+Tuas Link MRT Station	stationStructure	Elevated
+Thendara Station	stationStructure	at-grade
+Kaushambi (Delhi Metro)	stationStructure	Elevated
+Centennial Park Station	stationStructure	at-grade
+Tampa Bay Federal Credit Union Station	stationStructure	at-grade
+Streetcar Society Station	stationStructure	at-grade
+Salhane (İZBAN)	stationStructure	At-grade
+Bayraklı (İZBAN)	stationStructure	At-grade
+Turan (İZBAN)	stationStructure	At-grade
+Naldöken (İZBAN)	stationStructure	At-grade
+Alaybey (İZBAN)	stationStructure	Underground
+Karşıyaka (İZBAN)	stationStructure	Underground
+Nergiz (İZBAN)	stationStructure	Underground
+Demirköprü (İZBAN)	stationStructure	At-grade
+Şemikler (İZBAN)	stationStructure	At-grade
+Mavişehir (İZBAN)	stationStructure	At-grade
+Egekent (İZBAN)	stationStructure	At-grade
+Ulukent (İZBAN)	stationStructure	At-grade
+Egekent 2 (İZBAN)	stationStructure	At-grade
+Hatundere (İZBAN)	stationStructure	At-grade
+Streator Station	stationStructure	at-grade
+Tekirdağ Railway Station	stationStructure	At-grade
+Mazon Station	stationStructure	at-grade
+Bundesrechnungshof (SWB)	stationStructure	underground station
+Coal City Station	stationStructure	at-grade
+Millsdale Station	stationStructure	at-grade
+Van Dorn Street (WMATA station)	stationStructure	Embankment
+Airport (Delhi Metro)	stationStructure	Underground
+Delhi Aerocity (Delhi Metro)	stationStructure	Underground
+Dhaula Kuan (Delhi Metro)	stationStructure	Elevated
+Shivaji Stadium (Delhi Metro)	stationStructure	Underground
+Mana Railway Station	stationStructure	Shelter
+Kalk Post (KVB)	stationStructure	underground
+Romeoville Station	stationStructure	at-grade
+Appellhofplatz (KVB)	stationStructure	underground
+McCook Station (Illinois)	stationStructure	at-grade
+Cauvery Railway Station	stationStructure	Standard on-ground station
+Vystavkovyi Tsentr (Kiev Metro)	stationStructure	underground
+Minooka Station	stationStructure	at-grade
+Grimsby railway station	stationStructure	waiting area and shed
+Punggol MRT/LRT Station	stationStructure	Underground / Elevated
+Sengkang MRT/LRT Station	stationStructure	Underground / Elevated
+Choa Chu Kang MRT/LRT Station	stationStructure	Elevated
+Ebertplatz (KVB)	stationStructure	underground
+Reichenspergerplatz (KVB)	stationStructure	underground
+Limon Railroad Depot	stationStructure	at-grade
+San Giovanni (Rome Metro)	stationStructure	Underground
+Ancona Station (Illinois)	stationStructure	at-grade
+Emiralem railway station	stationStructure	At-Grade
+Seneca Station (Illinois)	stationStructure	at-grade
+Ottawa Station (Rock Island Line)	stationStructure	at-grade
+Utica Station (Illinois)	stationStructure	at-grade
+Marconi (Turin Metro)	stationStructure	Underground
+Nizza (Turin Metro)	stationStructure	Underground
+Dante (Turin Metro)	stationStructure	Underground
+Carducci-Molinette (Turin Metro)	stationStructure	Underground
+Lingotto (Turin Metro)	stationStructure	Underground
+Spezia (Turin Metro)	stationStructure	Underground
+Fermi (Turin Metro)	stationStructure	Underground
+Rocky Ford Station	stationStructure	at-grade
+Santa Fe Railway Manzanola Depot	stationStructure	at-grade
+Nottingham Trent University tram stop	stationStructure	On street
+Peru–LaSalle Station	stationStructure	at-grade
+Pagano (Milan Metro)	stationStructure	Underground
+Station Street tram stop	stationStructure	Elevated
+Chicago, Burlington & Quincy Railroad Depot (Wyoming, Illinois)	stationStructure	at-grade
+Bingham Junction (UTA station)	stationStructure	at-grade
+Historic Gardner (UTA station)	stationStructure	at-grade
+West Jordan City Center (UTA station)	stationStructure	at-grade
+2700 West (UTA station)	stationStructure	at-grade
+Jordan Valley (UTA station)	stationStructure	at-grade
+4800 West (UTA station)	stationStructure	at-grade
+5600 West (UTA station)	stationStructure	at-grade
+Santa Fe Railway Depot (Galesburg, Illinois)	stationStructure	at-grade
+South Jordan Parkway (UTA station)	stationStructure	at-grade
+Daybreak Parkway (UTA station)	stationStructure	at-grade
+River Trail (UTA station)	stationStructure	at-grade
+Redwood Junction (UTA station)	stationStructure	at-grade
+Great Bend Station	stationStructure	at-grade
+Proletarskaya (Minsk Metro)	stationStructure	Underground
+Pervomaiskaya (Minsk Metro)	stationStructure	Underground
+Traktornyi Zavod (Minsk Metro)	stationStructure	Underground
+Patizanskaya (Minsk Metro)	stationStructure	Underground
+Avtozavodskaya (Minsk Metro)	stationStructure	Underground
+Mogilevskaya (Minsk Metro)	stationStructure	Underground
+Pushkinskaya (Minsk Metro)	stationStructure	Underground
+Sportivnaya (Minsk Metro)	stationStructure	Underground
+Kuntsevshchina (Minsk Metro)	stationStructure	Underground
+Kamennaya Gorka (Minsk Metro)	stationStructure	Underground
+Isleta Station	stationStructure	at-grade
+Zarechnaya (Nizhny Novgorod Metro)	stationStructure	underground
+Frunzenskaya (Saint Petersburg Metro)	stationStructure	Underground
+Moskovskiye Vorota (Saint Petersburg Metro)	stationStructure	Underground
+Elektrosila (Saint Petersburg Metro)	stationStructure	Underground
+Chornaya Rechka (Saint Petersburg Metro)	stationStructure	Underground
+Pionerskaya (Saint Petersburg Metro)	stationStructure	Underground
+Udelnaya (Saint Petersburg Metro)	stationStructure	Underground
+Ozerki (Saint Petersburg Metro)	stationStructure	Underground
+Prospekt Prosvescheniya (Saint Petersburg Metro)	stationStructure	Underground
+Akademicheskaya (Saint Petersburg Metro)	stationStructure	Underground
+Politekhnicheskaya (Saint Petersburg Metro)	stationStructure	Underground
+Ploschad Muzhestva (Saint Petersburg Metro)	stationStructure	Underground
+Lesnaya (Saint Petersburg Metro)	stationStructure	Underground
+Vyborgskaya (Saint Petersburg Metro)	stationStructure	Underground
+Vladimirskaya (Saint Petersburg Metro)	stationStructure	Underground
+Pushkinskaya (Saint Petersburg Metro)	stationStructure	Underground
+Kirovsky Zavod (Saint Petersburg Metro)	stationStructure	Underground
+Shahid Khudiram Metro Station	stationStructure	elevated
+Rabindra Sarobar Metro Station	stationStructure	Underground
+Belgachhia Metro Station	stationStructure	Underground
+Dum Dum Metro Station	stationStructure	Elevated
+Bakersfield (Southern Pacific station)	stationStructure	at-grade
+Rho Fiera (Milan Metro)	stationStructure	Underground
+Ploshchad Alexandra Nevskogo I (Saint Petersburg Metro)	stationStructure	Underground
+Yelizarovskaya (Saint Petersburg Metro)	stationStructure	Underground
+Lomonosovskaya (Saint Petersburg Metro)	stationStructure	Underground
+Proletarskaya (Saint Petersburg Metro)	stationStructure	Underground
+Obukhovo (Saint Petersburg Metro)	stationStructure	Underground
+Rybatskoye (Saint Petersburg Metro)	stationStructure	Underground
+Ploshchad Alexandra Nevskogo II (Saint Petersburg Metro)	stationStructure	Underground
+Ligovsky Prospekt (Saint Petersburg Metro)	stationStructure	Underground
+Dostoyevskaya (Saint Petersburg Metro)	stationStructure	Underground
+Novocherkasskaya (Saint Petersburg Metro)	stationStructure	Underground
+Ladozhskaya (Saint Petersburg Metro)	stationStructure	Underground
+Prospekt Bolshevikov (Saint Petersburg Metro)	stationStructure	Underground
+Ulitsa Dybenko (Saint Petersburg Metro)	stationStructure	Underground
+Sadovaya (Saint Petersburg Metro)	stationStructure	Underground
+Krestovsky Ostrov (Saint Petersburg Metro)	stationStructure	Underground
+Staraya Derevnya (Saint Petersburg Metro)	stationStructure	Underground
+Komendantsky Prospekt (Saint Petersburg Metro)	stationStructure	Underground
+Bisceglie (Milan Metro)	stationStructure	Underground
+Zayeltsovskaya (Novosibirsk Metro)	stationStructure	Underground
+Gagarinskaya (Novosibirsk Metro)	stationStructure	Underground
+Krasny Prospekt (Novosibirsk Metro)	stationStructure	Underground
+Oktyabrskaya (Novosibirsk Metro)	stationStructure	Underground
+Ploshchad Lenina (Novosibirsk Metro)	stationStructure	Underground
+Rechnoy Vokzal (Novosibirsk Metro)	stationStructure	Underground
+Studencheskaya (Novosibirsk Metro)	stationStructure	Underground
+Ploshchad Marksa (Novosibirsk Metro)	stationStructure	Underground
+Sibirskaya (Novosibirsk Metro)	stationStructure	Underground
+Ploshchad Garina-Mikhaylovskogo (Novosibirsk Metro)	stationStructure	Underground
+Marshala Pokryshkina (Novosibirsk Metro)	stationStructure	Underground
+Beryozovaya Roshcha (Novosibirsk Metro)	stationStructure	Underground
+Akhmetelis Teatri (Tbilisi Metro)	stationStructure	Underground
+Sarajishvili (Tbilisi Metro)	stationStructure	Underground
+Guramishvili (Tbilisi Metro)	stationStructure	Underground
+Ghrmaghele (Tbilisi Metro)	stationStructure	Underground
+Nadzaladevi (Tbilisi Metro)	stationStructure	Underground
+Marjanishvili (Tbilisi Metro)	stationStructure	Underground
+Rudolfplatz (KVB)	stationStructure	underground and at-grade
+Poststraße (KVB)	stationStructure	underground
+Barbarossaplatz (KVB)	stationStructure	at-grade
+Meadowvale Town Centre Bus Terminal	stationStructure	bus loop
+South Common Centre Bus Terminal	stationStructure	transit mall
+Westwood Mall Bus Terminal	stationStructure	bus terminal
+Gotsiridze (Tbilisi Metro)	stationStructure	On the ground
+Peremoha (Kharkiv Metro)	stationStructure	underground
+Wiener Platz (KVB)	stationStructure	underground and at-grade
+Stadion Narodowy metro station	stationStructure	Underground
+Dworzec Wileński metro station	stationStructure	Underground
+Vigo railway station	stationStructure	At-grade
+Havana Central railway station	stationStructure	At-grade

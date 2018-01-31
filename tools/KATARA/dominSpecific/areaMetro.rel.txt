@@ -1,0 +1,405 @@
+Amsterdam	areaMetro	1.815E9
+Aarhus	areaMetro	9.997E9
+Athens	areaMetro	2.928717E9
+Austin, Texas	areaMetro	1.109991E10
+Latin American Integration Association	areaMetro	1.95215E13
+Atlanta	areaMetro	2.1693740412174335E10
+Copenhagen	areaMetro	3.03E9
+Cairo	areaMetro	8.6369E10
+Chicago	areaMetro	2.8163530711793663E10
+Denver	areaMetro	2.1793195955611237E10
+Detroit	areaMetro	1.0134623475744768E10
+Fredericton	areaMetro	4.52172E9
+Fredericton	areaMetro	4.521601243024589E9
+Fort Wayne, Indiana	areaMetro	3.554E9
+Fort Wayne, Indiana	areaMetro	3.543103734939648E9
+Gothenburg	areaMetro	3.717E9
+Hamilton, Ontario	areaMetro	1.37176E9
+Jerusalem	areaMetro	6.52E8
+Kabul	areaMetro	4.25E8
+Lansing, Michigan	areaMetro	4.4408E9
+Lansing, Michigan	areaMetro	4.440793613982105E9
+Malmö	areaMetro	2.53576E9
+Moncton	areaMetro	2.406E9
+Moncton	areaMetro	2.406098954502144E9
+Mecca	areaMetro	1.2E9
+North American Free Trade Agreement	areaMetro	2.1783851278509145E13
+North American Free Trade Agreement	areaMetro	2.178385E13
+Ottawa	areaMetro	5.31836E9
+Oslo	areaMetro	8.9E9
+Organization of American States	areaMetro	4.255350465282048E13
+Organization of American States	areaMetro	4.2549E13
+Organization for Security and Co-operation in Europe	areaMetro	5.0119801E13
+Pittsburgh	areaMetro	1.3838306473525248E10
+Riga	areaMetro	1.0132E10
+Reykjavík	areaMetro	7.77E8
+Rio de Janeiro	areaMetro	4.557343078947226E9
+Stockholm	areaMetro	6.519E9
+Sidon	areaMetro	2.5E7
+Saint John, New Brunswick	areaMetro	1.0061E8
+Tyre, Lebanon	areaMetro	1.7E7
+Tel Aviv	areaMetro	1.516E9
+Victoria, British Columbia	areaMetro	5.404E8
+Visegrád Group	areaMetro	5.33615E11
+Vancouver	areaMetro	2.87852E9
+Warsaw	areaMetro	6.10043E9
+Whitehorse, Yukon	areaMetro	8.48848E9
+Whitehorse, Yukon	areaMetro	8.488427032815207E9
+Windsor, Ontario	areaMetro	1.02284E9
+Wellington	areaMetro	1.39E9
+Budapest	areaMetro	7.626E9
+Economic Community of West African States	areaMetro	5.112903298578629E12
+Economic Community of West African States	areaMetro	5.112903E12
+Beirut	areaMetro	2.0E8
+Montevideo	areaMetro	1.35E9
+London, Ontario	areaMetro	2.66528E9
+Monterrey	areaMetro	5.3468E9
+Thessaloniki	areaMetro	1.45562E9
+Dakar	areaMetro	5.47E8
+San Francisco	areaMetro	9.1281540960682E9
+Philadelphia	areaMetro	1.1989E10
+Philadelphia	areaMetro	1.1989054962745344E10
+Islamabad	areaMetro	2.33E8
+Riyadh	areaMetro	1.815E9
+Santiago	areaMetro	1.54032E10
+San Jose, California	areaMetro	2.2681E10
+San Jose, California	areaMetro	2.283851515694285E10
+Miami	areaMetro	1.5894757033132032E10
+New Orleans	areaMetro	9.7266E9
+New Orleans	areaMetro	9.725923351933746E9
+Caracas	areaMetro	1.93E9
+Belgrade	areaMetro	3.22268E9
+Ouagadougou	areaMetro	2.805E9
+Bergen	areaMetro	2.755E9
+Bangkok	areaMetro	7.7615E9
+Chişinău	areaMetro	6.35E8
+Georgetown, Guyana	areaMetro	1.47629322289152E8
+Accra	areaMetro	8.94E8
+Accra	areaMetro	8.940120959257805E8
+Asunción	areaMetro	1.0E9
+Kuwait City	areaMetro	2.0E8
+Muscat, Oman	areaMetro	3.5E9
+Caribbean Community	areaMetro	4.584796952916787E8
+Caribbean Community	areaMetro	4.5848E8
+Panama City	areaMetro	2.5608E9
+San Salvador	areaMetro	6.2086E8
+San Salvador	areaMetro	6.208201500475392E8
+Tehran	areaMetro	1.274E9
+Metz	areaMetro	2.77E8
+Baalbek	areaMetro	1.6E7
+Timişoara	areaMetro	1.0704E9
+Campinas	areaMetro	3.645E9
+Toronto	areaMetro	7.125E9
+Recife	areaMetro	2.768E9
+Recife	areaMetro	2.7679202935160832E9
+Brașov	areaMetro	1.3685E9
+St. John's, Newfoundland and Labrador	areaMetro	8.0463E8
+St. John's, Newfoundland and Labrador	areaMetro	8.047093058813952E8
+Guadalajara, Jalisco	areaMetro	2.734E9
+North Bay, Ontario	areaMetro	7.7137E8
+Casper, Wyoming	areaMetro	1.3923E10
+Casper, Wyoming	areaMetro	1.3923776081166336E10
+Homs	areaMetro	1.04E8
+Sarnia, Ontario	areaMetro	7.9977E8
+Greater Los Angeles Area	areaMetro	8.749E10
+Greater Los Angeles Area	areaMetro	8.794045629834854E10
+Belo Horizonte	areaMetro	9.4591E9
+Belo Horizonte	areaMetro	9.458636578947071E9
+Lancaster, Pennsylvania	areaMetro	2.077170464489472E9
+Lima	areaMetro	2.8193E9
+Kitchener, Ontario	areaMetro	8.2707E8
+Tampa, Florida	areaMetro	6.614829633798144E9
+Ruhr	areaMetro	4.435E9
+Edmonton	areaMetro	9.41788E9
+Cluj-Napoca	areaMetro	1.5375E9
+Rocky Mount, North Carolina	areaMetro	2.718E9
+Rocky Mount, North Carolina	areaMetro	2.7194875158528E9
+Regina, Saskatchewan	areaMetro	3.40826E9
+Regina, Saskatchewan	areaMetro	3.408268953915556E9
+Quebec City	areaMetro	3.27653E9
+Winnipeg	areaMetro	5.30298E9
+ASEAN	areaMetro	7.195309942030767E12
+ASEAN	areaMetro	4.4792105E12
+Kendall, Florida	areaMetro	1.5894757033132032E10
+The Hammocks, Florida	areaMetro	1.5894757033132032E10
+Brunswick, Georgia	areaMetro	3.367E9
+Brunswick, Georgia	areaMetro	3.3669845434368E9
+West Lafayette, Indiana	areaMetro	2.342903244609946E9
+Lafayette, Indiana	areaMetro	2.342903244609946E9
+Evansville, Indiana	areaMetro	6.130501857165312E9
+Kingston, Ontario	areaMetro	1.90682E9
+Lafayette, Louisiana	areaMetro	1.3602617555484673E10
+Jacksonville, North Carolina	areaMetro	2.353E9
+Jacksonville, North Carolina	areaMetro	2.354299192295424E9
+Greenville, North Carolina	areaMetro	1.102E9
+Greenville, North Carolina	areaMetro	1.77414185558016E9
+Allentown, Pennsylvania	areaMetro	1.17482E9
+Allentown, Pennsylvania	areaMetro	1.89069132054528E9
+Del Rio, Texas	areaMetro	8.370841572605952E9
+El Cenizo, Texas	areaMetro	4.1896E8
+El Cenizo, Texas	areaMetro	4.1895647672795135E8
+Rio Bravo, Texas	areaMetro	4.1896E8
+Rio Bravo, Texas	areaMetro	4.1895647672795135E8
+Laredo, Texas	areaMetro	4.1896E8
+Laredo, Texas	areaMetro	4.1895647672795135E8
+Langley, Washington	areaMetro	6.786E7
+Langley, Washington	areaMetro	6.78576884908032E7
+Manhattan, Kansas	areaMetro	4.889E9
+Manhattan, Kansas	areaMetro	4.889897552314368E9
+Shreveport, Louisiana	areaMetro	6.9878E9
+Shreveport, Louisiana	areaMetro	6.987787921686528E9
+Springfield, Missouri	areaMetro	7.824E9
+Springfield, Missouri	areaMetro	7.824354081325056E9
+Bethlehem, Pennsylvania	areaMetro	1.17482E9
+Bethlehem, Pennsylvania	areaMetro	1.89069132054528E9
+Mount Athos	areaMetro	3.3563655921844226E8
+Mount Athos	areaMetro	3.3563E8
+OPEC	areaMetro	1.185497645824947E13
+OPEC	areaMetro	1.1854977E13
+Edmundston	areaMetro	9.0218E8
+Dieppe, New Brunswick	areaMetro	1.17309E8
+Bathurst, New Brunswick	areaMetro	2.08797E9
+Campbellton, New Brunswick	areaMetro	1.63035E9
+Stavanger	areaMetro	2.598E9
+Byblos	areaMetro	1.7E7
+Leamington, Ontario	areaMetro	5.0876E8
+Cornwall, Ontario	areaMetro	5.0898E8
+Guelph	areaMetro	3.7845E8
+Brockville	areaMetro	8.8903E8
+Belleville, Ontario	areaMetro	7.4061E8
+Brantford	areaMetro	1.0729E9
+Barrie	areaMetro	8.9747E8
+Niagara Falls, Ontario	areaMetro	1.3975E9
+Owen Sound	areaMetro	6.278E8
+Manila	areaMetro	6.3855E8
+Alma, Quebec	areaMetro	4.0176E8
+Saguenay, Quebec	areaMetro	1.75369E9
+Villahermosa	areaMetro	1.612E9
+Villahermosa	areaMetro	1.6120085998731265E9
+Latakia	areaMetro	1.08E8
+Nakhon Ratchasima	areaMetro	7.6798E8
+Nakhon Ratchasima	areaMetro	7.679832744768307E8
+Quito	areaMetro	4.204E9
+Surabaya	areaMetro	1.80508E9
+Sherbrooke	areaMetro	1.23186E9
+Iași	areaMetro	8.08E8
+Inland Empire (California)	areaMetro	7.0669E10
+Inland Empire (California)	areaMetro	7.070149543595213E10
+St. Catharines	areaMetro	1.3975E9
+Thunder Bay	areaMetro	2.5504E9
+Peterborough, Ontario	areaMetro	1.50556E9
+Sault Ste. Marie, Ontario	areaMetro	7.4815E8
+Chiang Mai	areaMetro	2.905E9
+Trois-Rivières	areaMetro	8.8036E8
+Brandon, Manitoba	areaMetro	1.71237E9
+Maracaibo	areaMetro	1.393E9
+Santos, São Paulo	areaMetro	2.373E9
+Santos, São Paulo	areaMetro	2.372947106689843E9
+Buenos Aires	areaMetro	4.758E9
+Buenos Aires	areaMetro	4.757808158687232E9
+Olinda	areaMetro	2.768E9
+Olinda	areaMetro	2.7679202935160832E9
+Constanța	areaMetro	1.0135E9
+Craiova	areaMetro	5.501E8
+Tripoli, Lebanon	areaMetro	4.1E7
+Jeddah	areaMetro	3.0E9
+Lethbridge	areaMetro	2.97559E9
+Rijeka	areaMetro	7.88E8
+Rijeka	areaMetro	7.87356385542144E8
+Bacolod	areaMetro	5.7865E8
+Bacolod	areaMetro	5.786551436112691E8
+Andean Community of Nations	areaMetro	3.809100693847376E12
+Al Karak	areaMetro	7.65E8
+Al Karak	areaMetro	7.6404649254912E8
+Maringá	areaMetro	3.179987E9
+Greater Houston	areaMetro	2.6061E10
+Greater Houston	areaMetro	2.6060460366200832E10
+Kamloops	areaMetro	5.68619E9
+Dallas–Fort Worth metroplex	areaMetro	2.4059E10
+Dallas–Fort Worth metroplex	areaMetro	2.4050629592580097E10
+Granby, Quebec	areaMetro	3.1707E8
+Saint-Hyacinthe, Quebec	areaMetro	4.0956E8
+Penticton	areaMetro	2.21276E9
+North Battleford	areaMetro	8.5534E8
+North Battleford	areaMetro	8.55343573438464E8
+Quesnel, British Columbia	areaMetro	2.176574E10
+Pacific Islands Forum	areaMetro	8.538293E12
+Greater Sudbury	areaMetro	3.21119E9
+İzmit	areaMetro	3.524E9
+Medellín	areaMetro	1.152E9
+Bandung	areaMetro	2.2166E9
+Upper Silesian metropolitan area	areaMetro	5.4E9
+Greater Tokyo Area	areaMetro	1.3754E10
+Sept-Îles, Quebec	areaMetro	1.77052E9
+São Paulo	areaMetro	7.943818E9
+La Plata	areaMetro	4.758E9
+Mashhad	areaMetro	3.946E9
+South Asian Association for Regional Cooperation	areaMetro	5.130745726670733E12
+South Asian Association for Regional Cooperation	areaMetro	5.130746E12
+Delaware Valley	areaMetro	1.3256E10
+Delaware Valley	areaMetro	1.3255559148699648E10
+Umm al-Quwain	areaMetro	7.5E8
+Curitiba	areaMetro	1.54169E10
+Curitiba	areaMetro	1.5415609232719872E10
+Central European Free Trade Agreement	areaMetro	3.0912544092104297E11
+Central European Free Trade Agreement	areaMetro	3.09125E11
+Goiânia	areaMetro	7.39E8
+San Miguel de Tucumán	areaMetro	4.8E8
+San Miguel de Tucumán	areaMetro	5.420845114933248E8
+Tangshan	areaMetro	1.3472E10
+Corner Brook	areaMetro	2.551E8
+Rhine-Ruhr	areaMetro	7.11E9
+Kano	areaMetro	4.99E8
+Rivière-du-Loup	areaMetro	4.0956E8
+Keihanshin	areaMetro	1.1169E10
+Keihanshin	areaMetro	1.1168028731768831E10
+Shawinigan	areaMetro	9.6269E8
+Zaprešić	areaMetro	2.5125E8
+Enugu	areaMetro	2.0E8
+Onitsha	areaMetro	3.619E7
+Baie-Comeau	areaMetro	3.48568E10
+New York City	areaMetro	1.7405E10
+New York City	areaMetro	1.740472010145792E10
+La Tuque, Quebec	areaMetro	2.543176E10
+Greater Buenos Aires	areaMetro	3.83E9
+Amos, Quebec	areaMetro	1.89416E9
+Hamburg Metropolitan Region	areaMetro	1.98E10
+Union State	areaMetro	1.7282874110807162E13
+Union State	areaMetro	1.7283E13
+La Ceiba	areaMetro	2.5E7
+La Ceiba	areaMetro	1.1010039457038336E7
+Cajamar	areaMetro	7.943818E9
+Irbid	areaMetro	4.1E8
+Irbid	areaMetro	4.099951178661888E8
+Franca	areaMetro	3.43978E9
+GUAM Organization for Democracy and Economic Development	areaMetro	8.105056992723271E11
+GUAM Organization for Democracy and Economic Development	areaMetro	8.10506E11
+Organization of Ibero-American States	areaMetro	3.146257468712013E13
+Organization of Ibero-American States	areaMetro	2.1462574E13
+Buraidah	areaMetro	1.2906E9
+Taipei–Keelung metropolitan area	areaMetro	2.45713E9
+Taipei–Keelung metropolitan area	areaMetro	2.265177701418762E9
+East African Community	areaMetro	1.8156541850126255E12
+East African Community	areaMetro	1.817945E12
+Ajloun	areaMetro	3.0E7
+Salt, Jordan	areaMetro	7.9E7
+Madaba	areaMetro	1.0E8
+Tafilah	areaMetro	3.8771E7
+São Bernardo do Campo	areaMetro	2.1254E8
+Pereira, Colombia	areaMetro	6.28E8
+Pagadian	areaMetro	3.2534E8
+Uyo	areaMetro	1.68E8
+Nizwa	areaMetro	3.5E9
+Ma'an	areaMetro	1.0E8
+Salinas, Ecuador	areaMetro	7.35E7
+Saxon triangle	areaMetro	1.21E10
+Fuheis	areaMetro	1.7E7
+Port Elizabeth	areaMetro	1.959E9
+Callander, Ontario	areaMetro	7.7137E8
+Jixi	areaMetro	7.92E7
+Lam Tin	areaMetro	1334000.0
+Arab Maghreb Union	areaMetro	6.041261226835575E12
+Arab Maghreb Union	areaMetro	6.041261E12
+Principality of Orange	areaMetro	2.79718715916288E8
+Chichigalpa	areaMetro	3500000.0
+Kisii, Kenya	areaMetro	2.9E7
+Guarne	areaMetro	1.51E8
+Rhine-Neckar	areaMetro	5.637E9
+Dhiban	areaMetro	2.035E7
+Washington, D.C. metropolitan area	areaMetro	1.4412E10
+Washington, D.C. metropolitan area	areaMetro	1.4412247838775705E10
+Cumbayá	areaMetro	4.204E9
+Abaetetuba, Brazil	areaMetro	1.54169E10
+Abaetetuba, Brazil	areaMetro	1.5415609232719872E10
+São Sebastião, São Paulo	areaMetro	2.373E9
+São Sebastião, São Paulo	areaMetro	2.372947106689843E9
+Pittsburgh metropolitan area	areaMetro	1.4778472157577215E10
+Istanbul	areaMetro	5.343E9
+Jastrebarsko	areaMetro	6.2871E8
+Chūkyō Metropolitan Area	areaMetro	6.38E9
+Chūkyō Metropolitan Area	areaMetro	6.379140715757568E9
+Slavic Europe	areaMetro	1.8716278E13
+Magangué	areaMetro	3.1E7
+Mafraq	areaMetro	1.28E8
+Nabatieh	areaMetro	2.1E7
+Turbo, Colombia	areaMetro	3.055E9
+North Port–Bradenton–Sarasota, Florida Metropolitan Statistical Area	areaMetro	1.5896E10
+North Port–Bradenton–Sarasota, Florida Metropolitan Statistical Area	areaMetro	1.5894757033132032E10
+Libertador Bolivarian Municipality	areaMetro	4.33E8
+Melanesian Spearhead Group	areaMetro	1.2189E10
+Melanesian Spearhead Group	areaMetro	2.38062E11
+Montreal	areaMetro	4.259E9
+Montreal	areaMetro	4.257940453392384E9
+Bremen	areaMetro	1.1627E10
+Green Garden Township, Will County, Illinois	areaMetro	0.0
+Green Garden Township, Will County, Illinois	areaMetro	0.0
+Peotone Township, Will County, Illinois	areaMetro	0.0
+Peotone Township, Will County, Illinois	areaMetro	0.0
+Stuttgart Metropolitan Region	areaMetro	1.54E10
+Bay Roberts	areaMetro	1.0371E8
+Eket	areaMetro	2.14E8
+Seattle	areaMetro	2.1202E10
+Seattle	areaMetro	2.1201642671210495E10
+SaarLorLux	areaMetro	6.54E10
+Colonsay, Saskatchewan	areaMetro	1.728E8
+Uli, Anambra	areaMetro	2.56E8
+Palala	areaMetro	5.7E7
+Oghuz Yabgu State	areaMetro	1.5E12
+Sharjah (city)	areaMetro	2.355E8
+Calgary	areaMetro	5.10743E9
+Central American Integration System	areaMetro	5.7251E11
+Sacramento metropolitan area	areaMetro	1.087772E10
+Sacramento metropolitan area	areaMetro	5.5501373214012215E10
+Charlottetown	areaMetro	8.2339E8
+Charlottetown	areaMetro	8.233572202758144E8
+Deir Jarir	areaMetro	3.34E7
+Juma, Mozambique	areaMetro	6.9E7
+Juma, Mozambique	areaMetro	1.78709179613184E8
+Taunsa Sharif	areaMetro	0.0
+Little Rock, Arkansas	areaMetro	1.059394E10
+Little Rock, Arkansas	areaMetro	1.0593931967231754E10
+Madrid	areaMetro	1.0506E10
+Madrid	areaMetro	1.0507581763633152E10
+Auckland	areaMetro	5.6E9
+Atlanta metropolitan area	areaMetro	2.1694E10
+Atlanta metropolitan area	areaMetro	2.1693740412174335E10
+Arequipa	areaMetro	2.92353E9
+Bregana	areaMetro	5600000.0
+Bregana	areaMetro	5594374.31832576
+Meuse-Rhine Euroregion	areaMetro	1.1E10
+Hagerstown, Maryland	areaMetro	2.637E9
+Hagerstown, Maryland	areaMetro	2.639197884432384E9
+Euroregion Tyrol – South Tyrol – Trentino	areaMetro	2.6254E10
+Tabacundo	areaMetro	3.36E8
+Hannover–Braunschweig–Göttingen–Wolfsburg Metropolitan Region	areaMetro	1.86E10
+Johfiyeh	areaMetro	4000000.0
+Johfiyeh	areaMetro	3884982.165504
+Menogeia	areaMetro	1.5E8
+Glavatičevo	areaMetro	3000000.0
+Recife metropolitan area	areaMetro	2.7689E9
+Recife metropolitan area	areaMetro	2.769992284004352E9
+San Diego metropolitan area	areaMetro	1.087772E10
+San Diego metropolitan area	areaMetro	1.0877665164719063E10
+Greater Goiânia	areaMetro	5.787E9
+Hautat Sudair	areaMetro	2.5E7
+Urban water management in Monterrey, Mexico	areaMetro	5.3468E9
+Integrated urban water management in Buenos Aires, Argentina	areaMetro	4.758E9
+Integrated urban water management in Medellín, Colombia	areaMetro	1.152E9
+Boston	areaMetro	1.1683E10
+Boston	areaMetro	1.1683436365725697E10
+St. John's Metropolitan Area	areaMetro	8.0463E8
+St. John's Metropolitan Area	areaMetro	8.047093058813952E8
+Gran Ciudad del Este	areaMetro	1.2E8
+Gran Ciudad del Este	areaMetro	1.19139453075456E8
+Shoubak	areaMetro	1.5E7
+Alpine Space Programme	areaMetro	4.5E11
+Barelias	areaMetro	3.5E7
+Zahlé	areaMetro	2.0E7
+Customs Union of Belarus, Kazakhstan and Russia	areaMetro	3.2199527314047023E13
+Customs Union of Belarus, Kazakhstan and Russia	areaMetro	2.000786E13
+Koplik i Sipërm	areaMetro	1.24E8
+Berlin/Brandenburg Metropolitan Region	areaMetro	5.73E9
+Kazan metropolitan area	areaMetro	1.0E9
+Shuwaikh Port	areaMetro	3.6E7
+Frankfurt Rhine-Main	areaMetro	1.48E10
+Osasco	areaMetro	7.943818E9

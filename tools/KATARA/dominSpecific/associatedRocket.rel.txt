@@ -1,0 +1,140 @@
+Broglio Space Centre	associatedRocket	Nike-Apache
+Broglio Space Centre	associatedRocket	Scout (rocket family)
+Broglio Space Centre	associatedRocket	Nike-Apache
+Broglio Space Centre	associatedRocket	Nike Tomahawk
+Broglio Space Centre	associatedRocket	TE-416 Tomahawk
+Broglio Space Centre	associatedRocket	Arcas (rocket)
+Broglio Space Centre	associatedRocket	Black Brant (rocket)
+Broglio Space Centre	associatedRocket	Astrobee
+Kennedy Space Center Launch Complex 39	associatedRocket	Saturn V
+Kennedy Space Center Launch Complex 39	associatedRocket	Saturn IB
+Kennedy Space Center Launch Complex 39	associatedRocket	Space Shuttle
+Kennedy Space Center Launch Complex 39	associatedRocket	Ares I-X
+Kennedy Space Center Launch Complex 39	associatedRocket	Saturn V
+Kennedy Space Center Launch Complex 39	associatedRocket	Saturn INT-21
+Kennedy Space Center Launch Complex 39	associatedRocket	Space Shuttle
+Vandenberg AFB Space Launch Complex 3	associatedRocket	Atlas-Agena
+Vandenberg AFB Space Launch Complex 3	associatedRocket	Atlas (rocket family)
+Vandenberg AFB Space Launch Complex 3	associatedRocket	Atlas II
+Vandenberg AFB Space Launch Complex 3	associatedRocket	Atlas V
+Vandenberg AFB Space Launch Complex 3	associatedRocket	Atlas-Agena
+Vandenberg AFB Space Launch Complex 3	associatedRocket	Thorad-Agena
+Vandenberg AFB Space Launch Complex 3	associatedRocket	Thor-Agena
+Vandenberg AFB Space Launch Complex 3	associatedRocket	Atlas (rocket family)
+Vandenberg AFB Space Launch Complex 6	associatedRocket	Titan (rocket family)#Titan III
+Vandenberg AFB Space Launch Complex 6	associatedRocket	Space Shuttle
+Vandenberg AFB Space Launch Complex 6	associatedRocket	Athena (rocket family)
+Vandenberg AFB Space Launch Complex 6	associatedRocket	Delta IV
+Cape Canaveral Air Force Station Space Launch Complex 37	associatedRocket	Saturn I
+Cape Canaveral Air Force Station Space Launch Complex 37	associatedRocket	Saturn IB
+Cape Canaveral Air Force Station Space Launch Complex 37	associatedRocket	Delta IV
+Cape Canaveral Air Force Station Space Launch Complex 17	associatedRocket	PGM-17 Thor
+Cape Canaveral Air Force Station Space Launch Complex 17	associatedRocket	Delta (rocket family)
+Cape Canaveral Air Force Station Space Launch Complex 17	associatedRocket	Delta II
+Cape Canaveral Air Force Station Space Launch Complex 17	associatedRocket	Delta III
+Cape Canaveral Air Force Station Space Launch Complex 17	associatedRocket	PGM-17 Thor
+Cape Canaveral Air Force Station Space Launch Complex 17	associatedRocket	Delta (rocket family)
+Cape Canaveral Air Force Station Space Launch Complex 17	associatedRocket	Delta II
+Spaceport Florida Launch Complex 36	associatedRocket	Atlas (rocket family)
+Spaceport Florida Launch Complex 36	associatedRocket	Atlas II
+Spaceport Florida Launch Complex 36	associatedRocket	Atlas III
+Spaceport Florida Launch Complex 36	associatedRocket	Atlas (rocket family)
+Spaceport Florida Launch Complex 36	associatedRocket	Atlas II
+Vandenberg AFB Space Launch Complex 10	associatedRocket	Thor (rocket family)
+Vandenberg AFB Space Launch Complex 10	associatedRocket	Thor (rocket family)
+Vandenberg AFB Space Launch Complex 2	associatedRocket	Thor-Agena
+Vandenberg AFB Space Launch Complex 2	associatedRocket	Delta (rocket family)
+Vandenberg AFB Space Launch Complex 2	associatedRocket	Delta II
+Vandenberg AFB Space Launch Complex 2	associatedRocket	Delta (rocket family)
+Vandenberg AFB Space Launch Complex 2	associatedRocket	Thor-Agena
+Vandenberg AFB Space Launch Complex 2	associatedRocket	Thorad-Agena
+Vandenberg AFB Space Launch Complex 4	associatedRocket	Atlas-Agena
+Vandenberg AFB Space Launch Complex 4	associatedRocket	Titan (rocket family)#Titan III
+Vandenberg AFB Space Launch Complex 4	associatedRocket	Titan 34D
+Vandenberg AFB Space Launch Complex 4	associatedRocket	Titan IV
+Vandenberg AFB Space Launch Complex 4	associatedRocket	Falcon Heavy
+Vandenberg AFB Space Launch Complex 4	associatedRocket	Atlas-Agena
+Vandenberg AFB Space Launch Complex 4	associatedRocket	Titan IIIB
+Vandenberg AFB Space Launch Complex 4	associatedRocket	Titan 23G
+Baikonur Cosmodrome Site 200	associatedRocket	Proton-K
+Baikonur Cosmodrome Site 200	associatedRocket	Angara (rocket family)
+Baikonur Cosmodrome Site 200	associatedRocket	Proton-K
+Baikonur Cosmodrome Site 200	associatedRocket	Proton-M
+Vandenberg AFB Space Launch Complex 5	associatedRocket	Scout (rocket family)
+Vandenberg AFB Space Launch Complex 8	associatedRocket	Minotaur I
+Vandenberg AFB Space Launch Complex 8	associatedRocket	Minotaur IV
+Vandenberg AFB Space Launch Complex 8	associatedRocket	Athena I
+Vandenberg AFB Space Launch Complex 8	associatedRocket	Athena II
+Baikonur Cosmodrome Site 81	associatedRocket	Proton (rocket)
+Baikonur Cosmodrome Site 81	associatedRocket	Proton-K
+Baikonur Cosmodrome Site 81	associatedRocket	Proton-M
+Baikonur Cosmodrome Site 81	associatedRocket	Proton (rocket)
+Baikonur Cosmodrome Site 81	associatedRocket	Proton-K
+Baikonur Cosmodrome Site 81	associatedRocket	Proton-M
+Mid-Atlantic Regional Spaceport Launch Pad 0	associatedRocket	Minotaur (rocket family)
+Mid-Atlantic Regional Spaceport Launch Pad 0	associatedRocket	ATK Launch Vehicle
+Mid-Atlantic Regional Spaceport Launch Pad 0	associatedRocket	Minotaur IV
+Mid-Atlantic Regional Spaceport Launch Pad 0	associatedRocket	Minotaur V
+Mid-Atlantic Regional Spaceport Launch Pad 0	associatedRocket	Conestoga (rocket)
+Mid-Atlantic Regional Spaceport Launch Pad 0	associatedRocket	Taurus II
+Cape Canaveral Air Force Station Launch Complex 4	associatedRocket	CIM-10 Bomarc
+Cape Canaveral Air Force Station Launch Complex 4	associatedRocket	CIM-10 Bomarc
+Cape Canaveral Air Force Station Launch Complex 4	associatedRocket	MGM-1 Matador
+Cape Canaveral Air Force Station Launch Complex 4	associatedRocket	PGM-11 Redstone
+Cape Canaveral Air Force Station Launch Complex 11	associatedRocket	SM-65B Atlas
+Cape Canaveral Air Force Station Launch Complex 11	associatedRocket	SM-65D Atlas
+Cape Canaveral Air Force Station Launch Complex 11	associatedRocket	SM-65E Atlas
+Cape Canaveral Air Force Station Launch Complex 11	associatedRocket	SM-65F Atlas
+Plesetsk Cosmodrome Site 133	associatedRocket	Kosmos-2I
+Plesetsk Cosmodrome Site 133	associatedRocket	Kosmos-3M
+Plesetsk Cosmodrome Site 133	associatedRocket	Rokot
+Plesetsk Cosmodrome Site 32	associatedRocket	Tsyklon-3
+Plesetsk Cosmodrome Site 32	associatedRocket	Tsyklon-3
+Plesetsk Cosmodrome Site 131	associatedRocket	Kosmos-3M
+Plesetsk Cosmodrome Site 131	associatedRocket	R-14 Usovaya
+Plesetsk Cosmodrome Site 41	associatedRocket	R-7A Semyorka
+Plesetsk Cosmodrome Site 41	associatedRocket	Vostok-2 (rocket)
+Plesetsk Cosmodrome Site 41	associatedRocket	Vostok-2M
+Plesetsk Cosmodrome Site 41	associatedRocket	Voskhod (rocket)
+Plesetsk Cosmodrome Site 41	associatedRocket	Soyuz-U
+Plesetsk Cosmodrome Site 16	associatedRocket	R-7A Semyorka
+Plesetsk Cosmodrome Site 16	associatedRocket	Soyuz-U
+Plesetsk Cosmodrome Site 16	associatedRocket	Molniya-M
+Plesetsk Cosmodrome Site 43	associatedRocket	R-7A Semyorka
+Plesetsk Cosmodrome Site 43	associatedRocket	Vostok-2M
+Plesetsk Cosmodrome Site 43	associatedRocket	Voskhod (rocket)
+Plesetsk Cosmodrome Site 43	associatedRocket	Molniya-M
+Plesetsk Cosmodrome Site 43	associatedRocket	Soyuz-U
+Plesetsk Cosmodrome Site 43	associatedRocket	Soyuz-M
+Plesetsk Cosmodrome Site 43	associatedRocket	Soyuz-2 (rocket)
+Plesetsk Cosmodrome Site 43	associatedRocket	R-7A Semyorka
+Plesetsk Cosmodrome Site 43	associatedRocket	Vostok-2M
+Plesetsk Cosmodrome Site 43	associatedRocket	Voskhod (rocket)
+Plesetsk Cosmodrome Site 43	associatedRocket	Molniya-M
+Plesetsk Cosmodrome Site 43	associatedRocket	Soyuz-U
+Cape Canaveral Air Force Station Launch Complex 18	associatedRocket	PGM-17 Thor
+Cape Canaveral Air Force Station Launch Complex 18	associatedRocket	Blue Scout I
+Cape Canaveral Air Force Station Launch Complex 18	associatedRocket	RM-90 Blue Scout II
+Cape Canaveral Air Force Station Launch Complex 18	associatedRocket	Viking (rocket)
+Cape Canaveral Air Force Station Launch Complex 18	associatedRocket	Vanguard (rocket)
+Cape Canaveral Air Force Station Launch Complex 18	associatedRocket	Blue Scout Junior
+Vandenberg AFB Probe Launch Complex C	associatedRocket	Aerobee
+Vandenberg AFB Probe Launch Complex C	associatedRocket	Tomahawk (rocket)
+Point Arguello Launch Complex A	associatedRocket	Scout (rocket family)
+Point Arguello Launch Complex A	associatedRocket	Astrobee
+Point Arguello Launch Complex A	associatedRocket	Black Brant (rocket)
+Point Arguello Launch Complex A	associatedRocket	DAC Roc
+Point Arguello Launch Complex A	associatedRocket	Honest John-Nike-Nike
+Point Arguello Launch Complex A	associatedRocket	Javelin (rocket)
+Point Arguello Launch Complex A	associatedRocket	Journeyman (rocket)
+Point Arguello Launch Complex A	associatedRocket	Nike-Asp
+Point Arguello Launch Complex A	associatedRocket	Seagull (rocket)
+Point Arguello Launch Complex B	associatedRocket	Astrobee
+Point Arguello Launch Complex B	associatedRocket	Deacon-Arrow
+Point Arguello Launch Complex B	associatedRocket	Kiva-Hopi
+Point Arguello Launch Complex B	associatedRocket	Nike-Cajun
+Point Arguello Launch Complex B	associatedRocket	Nike-Viper
+Point Arguello Launch Complex B	associatedRocket	Terrier-Asp
+Cape Canaveral Air Force Station Launch Complex 21	associatedRocket	MGM-13 Mace
+Cape Canaveral Air Force Station Launch Complex 21	associatedRocket	XSM-73 Goose
+Cape Canaveral Air Force Station Launch Complex 21	associatedRocket	MGM-13 Mace

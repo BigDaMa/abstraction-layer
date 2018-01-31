@@ -1,0 +1,2911 @@
+AGM-88 HARM	usedInWar	Gulf War
+AGM-88 HARM	usedInWar	Kosovo War
+AGM-88 HARM	usedInWar	Iraq War
+Gatling gun	usedInWar	American Civil War
+Gatling gun	usedInWar	War of the Pacific
+Gatling gun	usedInWar	Spanish–American War
+Gatling gun	usedInWar	Russo-Japanese War
+Katyusha rocket launcher	usedInWar	World War II
+Katyusha rocket launcher	usedInWar	Korean War
+Katyusha rocket launcher	usedInWar	Vietnam War
+Katyusha rocket launcher	usedInWar	Iran–Iraq War
+Katyusha rocket launcher	usedInWar	2006 Lebanon War
+M16 rifle	usedInWar	Vietnam War
+M16 rifle	usedInWar	Somali Civil War
+M16 rifle	usedInWar	Iraq War
+M16 rifle	usedInWar	War in Afghanistan (2001–present)
+V-1 flying bomb	usedInWar	World War II
+M18 Claymore mine	usedInWar	Vietnam War
+M18 Claymore mine	usedInWar	Iraq War
+M18 Claymore mine	usedInWar	Bosnian War
+M1 Abrams	usedInWar	Gulf War
+M1 Abrams	usedInWar	War in Afghanistan (2001–present)
+M1 Abrams	usedInWar	Iraq War
+M102 howitzer	usedInWar	Vietnam War
+M102 howitzer	usedInWar	Gulf War
+M102 howitzer	usedInWar	Iraq War
+FIM-92 Stinger	usedInWar	Falklands War
+FIM-92 Stinger	usedInWar	Soviet war in Afghanistan
+FIM-92 Stinger	usedInWar	Angolan Civil War
+FIM-92 Stinger	usedInWar	Kargil War
+FIM-92 Stinger	usedInWar	Yugoslav Wars
+FIM-92 Stinger	usedInWar	Invasion of Grenada
+M551 Sheridan	usedInWar	Vietnam War
+M551 Sheridan	usedInWar	United States invasion of Panama
+M551 Sheridan	usedInWar	Gulf War#Operation Desert Shield
+M551 Sheridan	usedInWar	Gulf War
+M61 Vulcan	usedInWar	Vietnam War
+M61 Vulcan	usedInWar	Gulf War
+M61 Vulcan	usedInWar	War on Terror
+Gladius	usedInWar	Roman Republic
+Gladius	usedInWar	Roman Empire
+M4 Sherman	usedInWar	World War II
+M4 Sherman	usedInWar	Greek Civil War
+M4 Sherman	usedInWar	Arab–Israeli conflict
+M4 Sherman	usedInWar	Korean War
+M4 Sherman	usedInWar	Suez Crisis
+M4 Sherman	usedInWar	Indo-Pakistani War of 1965
+M4 Sherman	usedInWar	Six-Day War
+M4 Sherman	usedInWar	Indo-Pakistani War of 1971
+M4 Sherman	usedInWar	Yom Kippur War
+M4 Sherman	usedInWar	1958 Lebanon crisis
+M4 Sherman	usedInWar	Lebanese Civil War
+M4 Sherman	usedInWar	Cuban Revolution
+M4 Sherman	usedInWar	Nicaraguan Revolution
+IMI Galil	usedInWar	1982 Lebanon War
+IMI Galil	usedInWar	Unified Task Force
+IMI Galil	usedInWar	South African Border War
+IMI Galil	usedInWar	International Security Assistance Force
+IMI Galil	usedInWar	Iraq War
+IMI Galil	usedInWar	Insurgency in the Philippines
+IMI Galil	usedInWar	Guatemalan Civil War
+IMI Galil	usedInWar	Colombian armed conflict (1964–present)
+Uzi	usedInWar	Vietnam War
+Uzi	usedInWar	Suez Crisis
+Uzi	usedInWar	Six-Day War
+Uzi	usedInWar	Yom Kippur War
+Uzi	usedInWar	Sri Lankan Civil War
+Uzi	usedInWar	Portuguese Colonial War
+Uzi	usedInWar	Falklands War
+Uzi	usedInWar	South African Border War
+Uzi	usedInWar	Rhodesian Bush War
+Uzi	usedInWar	Somali Civil War
+Uzi	usedInWar	Mexican Drug War
+SA80	usedInWar	The Troubles
+SA80	usedInWar	Operation Granby
+SA80	usedInWar	Bosnian War
+SA80	usedInWar	Kosovo War
+SA80	usedInWar	Sierra Leone Civil War
+SA80	usedInWar	Operation Veritas
+SA80	usedInWar	Operation Telic
+Phalanx CIWS	usedInWar	Gulf War
+Mosin–Nagant	usedInWar	Boxer Rebellion
+Mosin–Nagant	usedInWar	Russo-Japanese War
+Mosin–Nagant	usedInWar	World War I
+Mosin–Nagant	usedInWar	Finnish Civil War
+Mosin–Nagant	usedInWar	Russian Revolution (1917)
+Mosin–Nagant	usedInWar	Russian Civil War
+Mosin–Nagant	usedInWar	Turkish War of Independence
+Mosin–Nagant	usedInWar	Chinese Civil War
+Mosin–Nagant	usedInWar	Spanish Civil War
+Mosin–Nagant	usedInWar	Second Sino-Japanese War
+Mosin–Nagant	usedInWar	Winter War
+Mosin–Nagant	usedInWar	Continuation War
+Mosin–Nagant	usedInWar	World War II
+Mosin–Nagant	usedInWar	Eastern Front (World War II)
+Mosin–Nagant	usedInWar	First Indochina War
+Mosin–Nagant	usedInWar	Korean War
+Mosin–Nagant	usedInWar	Cuban Revolution
+Mosin–Nagant	usedInWar	Vietnam War
+Mosin–Nagant	usedInWar	Laotian Civil War
+Mosin–Nagant	usedInWar	Cambodian Civil War
+Mosin–Nagant	usedInWar	Cambodian–Vietnamese War
+Mosin–Nagant	usedInWar	Thai–Laotian Border War
+Mosin–Nagant	usedInWar	Afghan civil war
+Mosin–Nagant	usedInWar	Soviet war in Afghanistan
+Mosin–Nagant	usedInWar	Yugoslav Wars
+Mosin–Nagant	usedInWar	First Chechen War
+Mosin–Nagant	usedInWar	Second Chechen War
+Mosin–Nagant	usedInWar	War in Afghanistan (2001–present)
+Mosin–Nagant	usedInWar	Iraq War
+AK-74	usedInWar	Soviet war in Afghanistan
+AK-74	usedInWar	Asia
+AK-74	usedInWar	Middle East
+FN FAL	usedInWar	FN FAL#Conflicts
+Luger P08 pistol	usedInWar	World War I
+Luger P08 pistol	usedInWar	Spanish Civil War
+Luger P08 pistol	usedInWar	World War II
+Luger P08 pistol	usedInWar	Second Sino-Japanese War
+Luger P08 pistol	usedInWar	Chinese Civil War
+Thompson submachine gun	usedInWar	Banana Wars
+Browning Hi-Power	usedInWar	World War II
+Lee-Enfield	usedInWar	Second Boer War
+Lee-Enfield	usedInWar	World War I
+Lee-Enfield	usedInWar	World War II
+Lee-Enfield	usedInWar	British Empire
+Lee-Enfield	usedInWar	Irish War of Independence
+Lee-Enfield	usedInWar	Irish Civil War
+Lee-Enfield	usedInWar	Malayan Emergency
+Lee-Enfield	usedInWar	Korean War
+Lee-Enfield	usedInWar	1948 Arab–Israeli War
+Lee-Enfield	usedInWar	Nepalese Civil War
+Lee-Enfield	usedInWar	War in Afghanistan (2001–present)
+High Mobility Artillery Rocket System	usedInWar	Operation Enduring Freedom
+M1 Garand	usedInWar	World War II
+M1 Garand	usedInWar	Korean War
+M1 Garand	usedInWar	Arab–Israeli conflict
+M1 Garand	usedInWar	Hukbalahap Rebellion
+M1 Garand	usedInWar	First Indochina War
+M1 Garand	usedInWar	Suez Crisis
+M1 Garand	usedInWar	Vietnam War
+M1 Garand	usedInWar	Cambodian Civil War
+M1 Garand	usedInWar	The Troubles
+Merkava	usedInWar	1982 Lebanon War
+Merkava	usedInWar	South Lebanon conflict (1982–2000)
+Merkava	usedInWar	2006 Lebanon War
+Merkava	usedInWar	First Intifada
+Merkava	usedInWar	Second Intifada
+Merkava	usedInWar	Gaza War
+Challenger 2	usedInWar	Iraq War
+M1 carbine	usedInWar	World War II
+M1 carbine	usedInWar	Hukbalahap Rebellion
+M1 carbine	usedInWar	Malayan Emergency
+M1 carbine	usedInWar	Suez Crisis
+M1 carbine	usedInWar	Korean War
+M1 carbine	usedInWar	Cuban Revolution
+M1 carbine	usedInWar	First Indochina War
+M1 carbine	usedInWar	Vietnam War
+M1 carbine	usedInWar	Cambodian Civil War
+M1911 pistol	usedInWar	Service pistol
+M1911 pistol	usedInWar	World War II
+M1911 pistol	usedInWar	Korean War
+M1911 pistol	usedInWar	Vietnam War
+M1911 pistol	usedInWar	Gulf War
+M1911 pistol	usedInWar	War in Afghanistan (2001–present)
+M1911 pistol	usedInWar	Iraq War
+Charleville musket	usedInWar	War of the Austrian Succession
+Charleville musket	usedInWar	French and Indian War
+Charleville musket	usedInWar	Seven Years' War
+Charleville musket	usedInWar	American Revolution
+Charleville musket	usedInWar	War of 1812
+Charleville musket	usedInWar	Napoleonic Wars
+Brown Bess	usedInWar	Napoleonic Wars
+Brown Bess	usedInWar	War of 1812
+Brown Bess	usedInWar	American Revolutionary War
+Brown Bess	usedInWar	American Indian Wars
+Brown Bess	usedInWar	Texas Revolution
+Brown Bess	usedInWar	Seven Years' War
+Brown Bess	usedInWar	Anglo-Zulu War
+Leopard 1	usedInWar	Bosnian War
+Leopard 1	usedInWar	War in Afghanistan (2001–present)
+T-34	usedInWar	World War II
+Tiger II	usedInWar	World War II
+Iosif Stalin tank	usedInWar	World War II
+Iosif Stalin tank	usedInWar	Hungarian Revolution of 1956
+Iosif Stalin tank	usedInWar	Six-Day War
+Iosif Stalin tank	usedInWar	Warsaw Pact invasion of Czechoslovakia
+Kliment Voroshilov tank	usedInWar	World War II
+Kliment Voroshilov tank  liment Voroshilov 2   1	usedInWar	World War II
+T-80	usedInWar	First Chechen War
+T-80	usedInWar	Second Chechen War
+T-80	usedInWar	2008 South Ossetia war
+T-26	usedInWar	Spanish Civil War
+T-26	usedInWar	Second Sino-Japanese War
+T-26	usedInWar	Soviet–Japanese Border Wars
+T-26	usedInWar	Soviet invasion of Poland
+T-26	usedInWar	Winter War
+T-26	usedInWar	Eastern Front (World War II)
+T-26	usedInWar	Anglo-Soviet invasion of Iran
+T-26	usedInWar	Soviet invasion of Manchuria
+T-26	usedInWar	Chinese Civil War
+T-28	usedInWar	World War II
+T-35	usedInWar	World War II
+Lion of Babylon	usedInWar	Gulf War
+Lion of Babylon	usedInWar	2003 invasion of Iraq
+BT-7	usedInWar	Soviet–Japanese Border Wars
+BT-7	usedInWar	World War II
+BT-7	usedInWar	Winter War
+BT tank	usedInWar	Spanish Civil War
+BT tank	usedInWar	Battles of Khalkhin Gol
+BT tank	usedInWar	World War II
+Panzer I	usedInWar	Spanish Civil War
+Panzer I	usedInWar	World War II
+Panzer I	usedInWar	Second Sino-Japanese War
+Combat Vehicle 90	usedInWar	War in Afghanistan (2001–present)
+Combat Vehicle 90	usedInWar	United Nations Mission in Liberia
+Matilda II	usedInWar	World War II
+Matilda II	usedInWar	1948 Arab–Israeli War
+Canon de 76 FRC	usedInWar	World War II
+Skoda 75 mm Model 15	usedInWar	World War I
+Skoda 75 mm Model 15	usedInWar	World War II
+Skoda 75 mm Model 1928	usedInWar	World War II
+Skoda 75 mm Model 1939	usedInWar	World War II
+Skoda 100 mm Model 1916	usedInWar	World War I
+Skoda 100 mm Model 1916	usedInWar	World War II
+Skoda 100 mm Model 16/19	usedInWar	World War II
+Skoda 105 mm Model 1939	usedInWar	World War II
+Skoda 150 mm Model 1918	usedInWar	World War II
+Canon d'Infanterie de 37 modèle 1916 TRP	usedInWar	World War I
+Canon d'Infanterie de 37 modèle 1916 TRP	usedInWar	World War II
+Canon de 65 M (montagne) modele 1906	usedInWar	World War I
+Canon de 65 M (montagne) modele 1906	usedInWar	World War II
+Canon de 65 M (montagne) modele 1906	usedInWar	Polish–Soviet War
+Canon de 65 M (montagne) modele 1906	usedInWar	Greco-Turkish War (1919–1922)
+Canon de 65 M (montagne) modele 1906	usedInWar	1948 Arab–Israeli War
+Canon de 75 M(montagne) modele 1919 Schneider	usedInWar	World War II
+Canon de 75 M(montagne) modele 1928	usedInWar	World War II
+Canon de 76 M(montagne) modele 1909 Schneider	usedInWar	World War I
+Canon de 76 M(montagne) modele 1909 Schneider	usedInWar	World War II
+Canon Court de 105 M(montagne) modèle 1919 Schneider	usedInWar	World War II
+Panzer II	usedInWar	Spanish Civil War
+Panzer II	usedInWar	World War II
+BMP-1	usedInWar	BMP-1#Service history
+BMP-1	usedInWar	BMP-1#Combat history
+FAMAS	usedInWar	1982 Lebanon War
+PIAT	usedInWar	World War II
+Bazooka	usedInWar	World War II
+Bazooka	usedInWar	Korean War
+MP 40	usedInWar	World War II
+MP 40	usedInWar	Cold War
+MG 34	usedInWar	World War II
+MG 34	usedInWar	Second Sino-Japanese War
+MG 34	usedInWar	Chinese Civil War
+MG 34	usedInWar	Korean War
+MG 34	usedInWar	Vietnam War
+MG 42	usedInWar	World War II
+MG 42	usedInWar	Portuguese Colonial War
+StG 44	usedInWar	World War II
+Sten	usedInWar	World War II
+Sten	usedInWar	Second Sino-Japanese War
+Sten	usedInWar	Chinese Civil War
+Sten	usedInWar	Indonesian National Revolution
+Sten	usedInWar	Korean War
+Sten	usedInWar	Mau Mau Uprising
+Sten	usedInWar	Suez Crisis
+Sten	usedInWar	1948 Arab–Israeli War
+Sten	usedInWar	Sino-Indian War
+Sten	usedInWar	Vietnam War
+Sten	usedInWar	Indo-Pakistani wars and conflicts
+Sten	usedInWar	Border Campaign (Irish Republican Army)
+Karabiner 98k	usedInWar	Spanish Civil War
+Karabiner 98k	usedInWar	World War II
+Karabiner 98k	usedInWar	Second Sino-Japanese War
+Karabiner 98k	usedInWar	Korean War
+Karabiner 98k	usedInWar	First Indochina War
+Karabiner 98k	usedInWar	Chinese Civil War
+Karabiner 98k	usedInWar	Suez Crisis
+Karabiner 98k	usedInWar	Portuguese Colonial War
+Karabiner 98k	usedInWar	Algerian War
+Karabiner 98k	usedInWar	Greek Civil War
+Karabiner 98k	usedInWar	Vietnam War
+Karabiner 98k	usedInWar	Six-Day War
+Karabiner 98k	usedInWar	Yom Kippur War
+Karabiner 98k	usedInWar	Iran–Iraq War
+Karabiner 98k	usedInWar	Yugoslav Wars
+Karabiner 98k	usedInWar	Romanian Revolution of 1989
+Karabiner 98k	usedInWar	Iraq War
+Bren light machine gun	usedInWar	World War II
+Bren light machine gun	usedInWar	Malayan Emergency
+Bren light machine gun	usedInWar	Korean War
+Bren light machine gun	usedInWar	Chinese Civil War
+Bren light machine gun	usedInWar	Suez Crisis
+Bren light machine gun	usedInWar	Congo Crisis
+Bren light machine gun	usedInWar	Falklands War
+Bren light machine gun	usedInWar	Indonesia
+Bren light machine gun	usedInWar	Gulf War
+Bren light machine gun	usedInWar	The Troubles
+Bren light machine gun	usedInWar	Mau Mau Uprising
+Bren light machine gun	usedInWar	1948 Arab–Israeli War
+Bren light machine gun	usedInWar	Sino-Indian War
+Bren light machine gun	usedInWar	Indo-Pakistani wars and conflicts
+Lewis Gun	usedInWar	World War I
+Lewis Gun	usedInWar	Banana Wars
+Lewis Gun	usedInWar	World War II
+Lewis Gun	usedInWar	Korean War
+Lewis Gun	usedInWar	Arab–Israeli conflict
+Panzer III	usedInWar	World War II
+Panzer IV	usedInWar	World War II
+Panzer IV	usedInWar	Six-Day War
+Chauchat	usedInWar	Polish–Soviet War
+Chauchat	usedInWar	Winter War
+Chauchat	usedInWar	Continuation War
+M2 Browning	usedInWar	World War II
+M2 Browning	usedInWar	Korean War
+M2 Browning	usedInWar	First Indochina War
+M2 Browning	usedInWar	Suez Crisis
+M2 Browning	usedInWar	Vietnam War
+M2 Browning	usedInWar	Cambodian Civil War
+M2 Browning	usedInWar	Cambodian–Vietnamese War
+M2 Browning	usedInWar	Falklands War
+M2 Browning	usedInWar	South African Border War
+M2 Browning	usedInWar	United States invasion of Panama
+M2 Browning	usedInWar	Gulf War
+M2 Browning	usedInWar	Somali Civil War
+M2 Browning	usedInWar	Croatian War of Independence
+M2 Browning	usedInWar	War in Afghanistan (2001–present)
+M2 Browning	usedInWar	Iraq War
+Steyr AUG	usedInWar	War in Afghanistan (2001–present)
+Katzbalger	usedInWar	Italian Wars
+Pindad SS1	usedInWar	Aceh
+Pindad SS1	usedInWar	East Timor
+Pindad SS1	usedInWar	Papua (province)
+Pindad SS1	usedInWar	Cambodian–Thai border dispute
+Bangalore torpedo	usedInWar	World War I
+Bangalore torpedo	usedInWar	World War II
+FG 42	usedInWar	World War II
+Panzerfaust	usedInWar	World War II
+Maxim gun	usedInWar	Second Boer War
+Maxim gun	usedInWar	Mahdist War
+Maxim gun	usedInWar	Boxer Rebellion
+Maxim gun	usedInWar	Russo-Japanese War
+Maxim gun	usedInWar	Finnish Civil War
+Maxim gun	usedInWar	World War II
+R4M (rocket)	usedInWar	World War II
+M50 Ontos	usedInWar	Vietnam War
+M26 Pershing	usedInWar	World War II
+M26 Pershing	usedInWar	Chinese Civil War
+M26 Pershing	usedInWar	Korean War
+ALARM (missile)	usedInWar	Gulf War
+ALARM (missile)	usedInWar	Iraq War
+16"/50 caliber Mark 7 gun	usedInWar	World War II
+16"/50 caliber Mark 7 gun	usedInWar	Korean War
+16"/50 caliber Mark 7 gun	usedInWar	Vietnam War
+16"/50 caliber Mark 7 gun	usedInWar	Gulf War
+Fritz X	usedInWar	World War II
+Henschel Hs 293	usedInWar	World War II
+Blowpipe (missile)	usedInWar	Falklands War
+Blowpipe (missile)	usedInWar	Soviet war in Afghanistan
+Blowpipe (missile)	usedInWar	Gulf War
+Blowpipe (missile)	usedInWar	Cenepa War
+Javelin (surface-to-air missile)	usedInWar	Soviet war in Afghanistan
+FGM-148 Javelin	usedInWar	Operation Enduring Freedom
+FGM-148 Javelin	usedInWar	Iraq War
+M14 rifle	usedInWar	Vietnam War
+M4 carbine	usedInWar	War in Afghanistan (2001–present)
+M4 carbine	usedInWar	Iraq War
+M4 carbine	usedInWar	Colombian armed conflict (1964–present)
+SU-122	usedInWar	Eastern Front (World War II)
+ISU-152	usedInWar	World War II
+ISU-152	usedInWar	Korean War
+ISU-152	usedInWar	Hungarian Revolution of 1956
+ISU-152	usedInWar	Arab–Israeli conflict
+Panzer 38(t)	usedInWar	World War II
+Gewehr 43	usedInWar	World War II
+M3 Lee	usedInWar	World War II
+M22 Locust	usedInWar	World War II
+M22 Locust	usedInWar	1948 Arab–Israeli War
+M24 Chaffee	usedInWar	World War II
+M24 Chaffee	usedInWar	Korean War
+M24 Chaffee	usedInWar	First Indochina War
+M24 Chaffee	usedInWar	Algerian War
+M24 Chaffee	usedInWar	Indo-Pakistani War of 1971
+Dragunov sniper rifle	usedInWar	Vietnam War
+Dragunov sniper rifle	usedInWar	Cambodian–Vietnamese War
+Dragunov sniper rifle	usedInWar	Soviet war in Afghanistan
+Dragunov sniper rifle	usedInWar	Iraq War
+Dragunov sniper rifle	usedInWar	Yugoslav Wars
+Dragunov sniper rifle	usedInWar	First Chechen War
+Dragunov sniper rifle	usedInWar	Second Chechen War
+Dragunov sniper rifle	usedInWar	2008 South Ossetia war
+Dragunov sniper rifle	usedInWar	Kargil War
+Hetzer	usedInWar	World War II
+IMI Negev	usedInWar	Second Intifada
+IMI Negev	usedInWar	2006 Lebanon War
+IMI Negev	usedInWar	Gaza War
+Renault FT	usedInWar	World War I
+Renault FT	usedInWar	Russian Civil War
+Renault FT	usedInWar	Polish–Soviet War
+Renault FT	usedInWar	Chinese Civil War
+Renault FT	usedInWar	Spanish Civil War
+Renault FT	usedInWar	World War II
+Renault FT	usedInWar	Franco-Thai War
+Renault FT	usedInWar	Turkish War of Independence
+Renault FT	usedInWar	1948 Arab–Israeli War
+Renault FT	usedInWar	Winter War
+Panther tank	usedInWar	World War II
+Long rifle	usedInWar	French and Indian War
+Long rifle	usedInWar	American Indian Wars
+Long rifle	usedInWar	American Revolutionary War
+Long rifle	usedInWar	War of 1812
+M1918 Browning Automatic Rifle	usedInWar	World War I
+M1918 Browning Automatic Rifle	usedInWar	World War II
+M1918 Browning Automatic Rifle	usedInWar	Chinese Civil War
+M1918 Browning Automatic Rifle	usedInWar	Korean War
+M1918 Browning Automatic Rifle	usedInWar	First Indochina War
+M1918 Browning Automatic Rifle	usedInWar	Bay of Pigs Invasion
+M1918 Browning Automatic Rifle	usedInWar	Vietnam War
+M1918 Browning Automatic Rifle	usedInWar	Cambodian Civil War
+M1918 Browning Automatic Rifle	usedInWar	Thai–Laotian Border War
+M1918 Browning Automatic Rifle	usedInWar	Palestinian Civil War
+S-25 Berkut	usedInWar	Cold War
+M1903 Springfield	usedInWar	World War I
+M1903 Springfield	usedInWar	World War II
+M1903 Springfield	usedInWar	Second Sino-Japanese War
+M1903 Springfield	usedInWar	Chinese Civil War
+M1903 Springfield	usedInWar	Cuban Revolution
+M1903 Springfield	usedInWar	Korean War
+M1903 Springfield	usedInWar	Vietnam War
+Brunswick rifle	usedInWar	American Civil War
+Gewehr 41	usedInWar	World War II
+MK 108 cannon	usedInWar	World War II
+IMI Tavor TAR-21	usedInWar	Operation Defensive Shield
+IMI Tavor TAR-21	usedInWar	2006 Israel–Gaza conflict
+IMI Tavor TAR-21	usedInWar	2006 Lebanon War
+IMI Tavor TAR-21	usedInWar	Operation Hot Winter
+IMI Tavor TAR-21	usedInWar	Gaza War
+IMI Tavor TAR-21	usedInWar	Colombian armed conflict (1964–present)
+IMI Tavor TAR-21	usedInWar	2008 South Ossetia war
+IMI Tavor TAR-21	usedInWar	Cambodian–Thai border dispute
+Shoulder-launched Multipurpose Assault Weapon	usedInWar	Gulf War
+Shoulder-launched Multipurpose Assault Weapon	usedInWar	War in Afghanistan (2001–present)
+Shoulder-launched Multipurpose Assault Weapon	usedInWar	Iraq War
+Canon de 75 modèle 1897	usedInWar	Boxer Rebellion
+Canon de 75 modèle 1897	usedInWar	World War I
+Canon de 75 modèle 1897	usedInWar	Polish–Soviet War
+Canon de 75 modèle 1897	usedInWar	Rif War
+Canon de 75 modèle 1897	usedInWar	Spanish Civil War
+Canon de 75 modèle 1897	usedInWar	World War II
+Lebel Model 1886 rifle	usedInWar	Boxer Rebellion
+Lebel Model 1886 rifle	usedInWar	French colonial empires#Second French colonial empire
+Lebel Model 1886 rifle	usedInWar	World War I
+Lebel Model 1886 rifle	usedInWar	Polish–Soviet War
+Lebel Model 1886 rifle	usedInWar	Spanish Civil War
+Lebel Model 1886 rifle	usedInWar	World War II
+Mauser C96	usedInWar	Second Boer War
+Mauser C96	usedInWar	Xinhai Revolution
+Mauser C96	usedInWar	World War I
+Mauser C96	usedInWar	Irish War of Independence
+Mauser C96	usedInWar	Russian Civil War
+Mauser C96	usedInWar	Spanish Civil War
+Mauser C96	usedInWar	Second Sino-Japanese War
+Mauser C96	usedInWar	World War II
+Mauser C96	usedInWar	Chinese Civil War
+Mauser C96	usedInWar	Korean War
+Mauser C96	usedInWar	Vietnam War
+Jungle Carbine	usedInWar	World War II
+Jungle Carbine	usedInWar	Korean War
+Jungle Carbine	usedInWar	Malayan Emergency
+SVT-40	usedInWar	Chinese Civil War
+SVT-40	usedInWar	Second Sino-Japanese War
+SVT-40	usedInWar	Eastern Front (World War II)
+SVT-40	usedInWar	World War II
+SVT-40	usedInWar	Korean War
+SVT-40	usedInWar	Vietnam War
+SVT-40	usedInWar	Cuban Revolution
+SVT-40	usedInWar	Yugoslav Wars
+SVT-40	usedInWar	First Chechen War
+SVT-40	usedInWar	Second Chechen War
+M50 Reising	usedInWar	World War II
+Carcano	usedInWar	First Italo-Ethiopian War
+Carcano	usedInWar	Boxer Rebellion
+Carcano	usedInWar	World War I
+Carcano	usedInWar	Second Italo-Abyssinian War
+Carcano	usedInWar	Winter War
+Carcano	usedInWar	World War II
+Carcano	usedInWar	2011 Libyan civil war
+M113 armored personnel carrier	usedInWar	Vietnam War
+M113 armored personnel carrier	usedInWar	Yom Kippur War
+M113 armored personnel carrier	usedInWar	Lebanese Civil War
+M113 armored personnel carrier	usedInWar	United States invasion of Panama
+M113 armored personnel carrier	usedInWar	Iran–Iraq War
+M113 armored personnel carrier	usedInWar	Gulf War
+M113 armored personnel carrier	usedInWar	Kosovo War
+M113 armored personnel carrier	usedInWar	Operation Enduring Freedom
+M113 armored personnel carrier	usedInWar	Iraq War
+8.8 cm Flak 18/36/37/41	usedInWar	Spanish Civil War
+8.8 cm Flak 18/36/37/41	usedInWar	World War II
+M203 grenade launcher	usedInWar	Vietnam War
+M48 Patton	usedInWar	Vietnam War
+M48 Patton	usedInWar	Six-Day War
+M48 Patton	usedInWar	Indo-Pakistani War of 1965
+M48 Patton	usedInWar	Indo-Pakistani War of 1971
+M48 Patton	usedInWar	Lebanese Civil War
+M48 Patton	usedInWar	Iran–Iraq War
+M48 Patton	usedInWar	Battle of Mogadishu (1993)
+M60 Patton	usedInWar	Six-Day War
+M60 Patton	usedInWar	Yom Kippur War
+M60 Patton	usedInWar	Iran–Iraq War
+M60 Patton	usedInWar	Gulf War
+M60 Patton	usedInWar	Western Sahara War
+Colt Canada C7 rifle	usedInWar	United Nations Assistance Mission for Rwanda
+Colt Canada C7 rifle	usedInWar	Gulf War
+Colt Canada C7 rifle	usedInWar	Operation Enduring Freedom
+Colt Canada C7 rifle	usedInWar	War in Afghanistan (2001–present)
+Colt Canada C7 rifle	usedInWar	Iraq War
+Colt Canada C7 rifle  C8 carbine   1	usedInWar	War on Terror
+Colt Canada C7 rifle  C8 carbine   1	usedInWar	Iraq War
+VSS Vintorez	usedInWar	Soviet war in Afghanistan
+VSS Vintorez	usedInWar	Chechen War
+VSS Vintorez	usedInWar	2008 South Ossetia war
+Carl Gustav recoilless rifle	usedInWar	Falklands War
+Carl Gustav recoilless rifle	usedInWar	Kargil War
+Carl Gustav recoilless rifle	usedInWar	War in Afghanistan (2001–present)
+Carl Gustav recoilless rifle	usedInWar	Iraq War
+Carl Gustav recoilless rifle	usedInWar	2011 Libyan civil war
+Winchester Model 1897	usedInWar	Philippine–American War
+Winchester Model 1897	usedInWar	World War I
+Winchester Model 1897	usedInWar	World War II
+Winchester Model 1897	usedInWar	Korean War
+Winchester Model 1897	usedInWar	Vietnam War
+FN P90	usedInWar	Gulf War
+M60 machine gun	usedInWar	Vietnam War
+M60 machine gun	usedInWar	Cambodian Civil War
+M60 machine gun	usedInWar	Cambodian–Vietnamese War
+M60 machine gun	usedInWar	Gulf War
+M60 machine gun	usedInWar	War in Afghanistan (2001–present)
+M60 machine gun	usedInWar	Iraq War
+M60 machine gun	usedInWar	Cambodian–Thai border dispute
+M60 machine gun	usedInWar	2011 Libyan civil war
+Valentine tank	usedInWar	World War II
+Colt Single Action Army	usedInWar	American Indian Wars
+Colt Single Action Army	usedInWar	Spanish–American War
+Colt Single Action Army	usedInWar	Philippine–American War
+Colt Single Action Army	usedInWar	Range war
+GC-45 howitzer	usedInWar	Iran–Iraq War
+GC-45 howitzer	usedInWar	Gulf War
+GC-45 howitzer	usedInWar	Cambodian–Thai border dispute
+Cromwell tank	usedInWar	World War II
+Cromwell tank	usedInWar	1948 Arab–Israeli War
+Cromwell tank	usedInWar	Korean War
+Lanchester submachine gun	usedInWar	World War II
+M24 Sniper Weapon System	usedInWar	Gulf War
+M24 Sniper Weapon System	usedInWar	Iraq War
+M24 Sniper Weapon System	usedInWar	Operation Enduring Freedom
+Beretta M 1935	usedInWar	World War II
+Crusader tank	usedInWar	World War II
+Heckler & Koch G3	usedInWar	Portuguese Colonial War
+Heckler & Koch G3	usedInWar	Rhodesian Bush War
+Heckler & Koch G3	usedInWar	Six-Day War
+Heckler & Koch G3	usedInWar	Carnation Revolution
+Heckler & Koch G3	usedInWar	Iran–Iraq War
+Heckler & Koch G3	usedInWar	Salvadoran Civil War
+Heckler & Koch G3	usedInWar	Northern Ireland
+Heckler & Koch G3	usedInWar	Turkey – Kurdistan Workers' Party conflict
+Heckler & Koch G3	usedInWar	Sierra Leone Civil War
+Heckler & Koch G3	usedInWar	Ethiopian Civil War
+Heckler & Koch G3	usedInWar	War in North-West Pakistan
+Heckler & Koch G3	usedInWar	International Security Assistance Force
+Heckler & Koch G3	usedInWar	Iraq War
+MG 151 cannon	usedInWar	World War II
+MG 151 cannon  MG 151/20   1	usedInWar	World War II
+MG 151 cannon  MG 151/20   1	usedInWar	Algerian War
+MG 151 cannon  MG 151/20   1	usedInWar	Rhodesian Bush War
+M728 Combat Engineer Vehicle	usedInWar	Vietnam War
+M728 Combat Engineer Vehicle	usedInWar	Gulf War
+Type 93 torpedo	usedInWar	World War II
+Mk 19 grenade launcher	usedInWar	Vietnam War
+Mk 19 grenade launcher	usedInWar	2006 Lebanon War
+Mk 19 grenade launcher	usedInWar	Gulf War
+Mk 19 grenade launcher	usedInWar	Iraq War
+Mk 19 grenade launcher	usedInWar	Operation Enduring Freedom
+Makarov pistol	usedInWar	Soviet war in Afghanistan
+Makarov pistol	usedInWar	Vietnam War
+G6 howitzer	usedInWar	South African Border War
+Leopard 2	usedInWar	Kosovo War
+Leopard 2	usedInWar	War in Afghanistan (2001–present)
+A7V	usedInWar	World War I
+Bouncing bomb	usedInWar	World War II
+Kaiten	usedInWar	World War II
+M224 mortar	usedInWar	Gulf War
+M224 mortar	usedInWar	War in Afghanistan (2001–present)
+M224 mortar	usedInWar	Iraq War
+M252 mortar	usedInWar	Gulf War
+M240 machine gun	usedInWar	Gulf War
+Bofors 40 mm	usedInWar	Indo-Pakistani wars and conflicts
+Bofors 40 mm	usedInWar	Arab–Israeli conflict
+Bofors 40 mm	usedInWar	Korean War
+Bofors 40 mm	usedInWar	Indonesia–Malaysia confrontation
+Bofors 40 mm	usedInWar	Vietnam War
+Bofors 40 mm	usedInWar	South African Border War
+Bofors 40 mm	usedInWar	Falklands War
+Bofors 40 mm	usedInWar	Gulf War
+Bofors 40 mm	usedInWar	Yugoslav Wars
+Bofors 40 mm	usedInWar	Iraq War
+Bofors 40 mm	usedInWar	Lebanese Civil War
+M79 grenade launcher	usedInWar	Vietnam War
+M79 grenade launcher	usedInWar	Cambodian Civil War
+M79 grenade launcher	usedInWar	Falklands War
+M79 grenade launcher	usedInWar	Iraq War
+M79 grenade launcher	usedInWar	Cambodian–Thai border dispute
+M79 grenade launcher	usedInWar	2010–2011 Burma border clashes
+BMD-1	usedInWar	BMD-1#Service history
+BMD-1	usedInWar	BMD-1#Combat history
+BMD-2	usedInWar	BMD-2#Service history
+BT-42	usedInWar	Continuation War
+V-3 cannon	usedInWar	World War II
+Char 2C	usedInWar	World War II
+Webley Revolver	usedInWar	World War I
+Webley Revolver	usedInWar	World War II
+Webley Revolver	usedInWar	Korean War
+Webley Revolver	usedInWar	British Empire
+Webley Revolver  Webley Mk IV .38/200 Service Revolver   1	usedInWar	World War II
+Webley Revolver  Webley Mk IV .38/200 Service Revolver   1	usedInWar	Korean War
+Webley Revolver  Webley Mk IV .38/200 Service Revolver   1	usedInWar	British Empire
+Big Bertha (howitzer)	usedInWar	World War I
+Sturmtiger	usedInWar	World War II
+Sea Cat	usedInWar	Indo-Pakistani War of 1971
+Sea Cat	usedInWar	Falklands War
+Sea Cat	usedInWar	South African Border War
+Sturmgeschütz III	usedInWar	World War II
+Sturmgeschütz III	usedInWar	Six-Day War
+Vickers machine gun	usedInWar	World War I
+Vickers machine gun	usedInWar	Chaco War
+Vickers machine gun	usedInWar	World War II
+Vickers machine gun	usedInWar	Indo-Pakistani War of 1947
+Vickers machine gun	usedInWar	1948 Arab–Israeli War
+Vickers machine gun	usedInWar	Korean War
+Vickers machine gun	usedInWar	Congo Crisis
+Comet tank	usedInWar	World War II
+Comet tank	usedInWar	Korean War
+Breda 30	usedInWar	World War II
+Eland Mk7	usedInWar	Angolan Civil War
+Eland Mk7	usedInWar	Western Sahara War
+Vis pistol	usedInWar	Invasion of Poland
+Vis pistol	usedInWar	World War II
+R4 assault rifle	usedInWar	South African Border War
+Martini-Henry	usedInWar	British Empire
+Martini-Henry	usedInWar	Second Anglo-Afghan War
+Martini-Henry	usedInWar	Anglo-Zulu War
+Martini-Henry	usedInWar	First Boer War
+Sexton (artillery)	usedInWar	World War II
+Marder III	usedInWar	World War II
+Archer (tank destroyer)	usedInWar	World War II
+Archer (tank destroyer)	usedInWar	Suez Crisis
+IDF Achzarit	usedInWar	South Lebanon conflict (1982–2000)
+IDF Achzarit	usedInWar	Second Intifada
+IDF Achzarit	usedInWar	2006 Lebanon War
+IDF Achzarit	usedInWar	Gaza War
+Ordnance QF 17 pounder	usedInWar	World War II
+Ordnance QF 17 pounder	usedInWar	Korean War
+Type 69/79	usedInWar	Iran–Iraq War
+Type 69/79	usedInWar	Gulf War
+Type 69/79	usedInWar	Iraq War
+Benelli M4	usedInWar	Iraq War
+Benelli M4	usedInWar	War in Afghanistan (2001–present)
+De Lisle carbine	usedInWar	World War II
+De Lisle carbine	usedInWar	Korean War
+Heckler & Koch G36	usedInWar	Kosovo War
+Heckler & Koch G36	usedInWar	War in Afghanistan (2001–present)
+Heckler & Koch G36	usedInWar	Iraq War
+Heckler & Koch G36	usedInWar	2008 South Ossetia war
+Heckler & Koch G36	usedInWar	Operation Banner
+Accuracy International AWM	usedInWar	War in Afghanistan (2001–present)
+Accuracy International AWM	usedInWar	Iraq War
+Accuracy International Arctic Warfare	usedInWar	Iraq War
+Accuracy International Arctic Warfare	usedInWar	War in Afghanistan (2001–present)
+Mk 12 Special Purpose Rifle	usedInWar	Operation Enduring Freedom
+Mk 12 Special Purpose Rifle	usedInWar	Iraq War
+Pedersen device	usedInWar	World War I
+Brimstone (missile)	usedInWar	Operation Telic
+Brimstone (missile)	usedInWar	Operation Herrick
+Brimstone (missile)	usedInWar	Operation Ellamy
+Suomi KP/-31	usedInWar	Winter War
+Suomi KP/-31	usedInWar	World War II
+Suomi KP/-31	usedInWar	Lapland War
+Suomi KP/-31	usedInWar	1948 Arab–Israeli War
+Tallboy (bomb)	usedInWar	World War II
+Mitrailleuse	usedInWar	Franco-Prussian War
+Castle Bravo	usedInWar	Cold War
+Walther PP	usedInWar	World War II
+Lancia IZM	usedInWar	World War I
+Lancia IZM	usedInWar	World War II
+Sd.Kfz. 251	usedInWar	World War II
+Paris Gun	usedInWar	World War I
+MAT-49	usedInWar	First Indochina War
+MAT-49	usedInWar	Suez Crisis
+MAT-49	usedInWar	Algerian War
+MAT-49	usedInWar	Vietnam War
+MAT-49	usedInWar	2011 Libyan civil war
+M40 rifle	usedInWar	Iraq War
+M40 rifle	usedInWar	War in Afghanistan (2001–present)
+M40 rifle	usedInWar	Gulf War
+M40 rifle	usedInWar	Invasion of Grenada
+M40 rifle	usedInWar	Multinational Force in Lebanon
+M40 rifle	usedInWar	Vietnam War
+Sea Slug (missile)	usedInWar	Falklands War
+Kbs wz. 1996 Beryl	usedInWar	War in Afghanistan (2001–present)
+Kbs wz. 1996 Beryl	usedInWar	Kosovo War
+Kbs wz. 1996 Beryl	usedInWar	Iraq War
+Kbs wz. 1996 Beryl	usedInWar	EUFOR Tchad/RCA
+M47 Dragon	usedInWar	Iran–Iraq War
+M47 Dragon	usedInWar	Gulf War
+Panzerhaubitze 2000	usedInWar	War in Afghanistan (2001–present)
+Paixhans gun	usedInWar	Second Opium War
+Paixhans gun	usedInWar	Anglo-French blockade of the Río de la Plata
+Paixhans gun	usedInWar	Mexican-American War
+Paixhans gun	usedInWar	Second Schleswig War
+Paixhans gun	usedInWar	Crimean War
+Paixhans gun	usedInWar	American Civil War
+Amphibious Assault Vehicle	usedInWar	1982 invasion of the Falkland Islands
+Amphibious Assault Vehicle	usedInWar	Gulf War
+Amphibious Assault Vehicle	usedInWar	Unified Task Force
+Amphibious Assault Vehicle	usedInWar	Iraq War
+Véhicule de l'Avant Blindé	usedInWar	Gulf War
+Véhicule de l'Avant Blindé	usedInWar	War in Afghanistan (2001–present)
+Panzerjäger I	usedInWar	World War II
+BTR-152	usedInWar	BTR-152#Service history
+QF 4.5 inch Mk I – V naval gun	usedInWar	World War II
+QF 4.5 inch Mk I – V naval gun	usedInWar	Korean War
+Baker rifle	usedInWar	Napoleonic Wars
+Baker rifle	usedInWar	War of 1812
+Baker rifle	usedInWar	American Indian Wars
+Baker rifle	usedInWar	Texas Revolution
+M36 tank destroyer	usedInWar	World War II
+M36 tank destroyer	usedInWar	Korean War
+M36 tank destroyer	usedInWar	First Indochina War
+M36 tank destroyer	usedInWar	Indo-Pakistani War of 1965
+M36 tank destroyer	usedInWar	Croatian War of Independence
+M36 tank destroyer	usedInWar	Bosnian War
+FN Five-seven	usedInWar	War in Afghanistan (2001–present)
+PP-19 Bizon	usedInWar	Invasion of Dagestan (1999)
+PP-19 Bizon	usedInWar	Second Chechen War
+PP-19 Bizon	usedInWar	2008 South Ossetia war
+Krupp K5	usedInWar	World War II
+ZK-383	usedInWar	World War II
+Valmet M76	usedInWar	Indonesia
+FN MAG	usedInWar	Rhodesian Bush War
+FN MAG	usedInWar	South African Border War
+FN MAG	usedInWar	Yom Kippur War
+FN MAG	usedInWar	Falklands War
+FN MAG	usedInWar	Gulf War
+FN MAG	usedInWar	Iraq War
+FN MAG	usedInWar	War in Afghanistan (2001–present)
+Fusil Gras mle 1874	usedInWar	French colonial empires#Second French colonial empire
+Fusil Gras mle 1874	usedInWar	War of the Pacific
+Fusil Gras mle 1874	usedInWar	Chilean Civil War
+Fusil Gras mle 1874	usedInWar	Keelung Campaign
+Fusil Gras mle 1874	usedInWar	Thousand Days' War
+Grand Slam (bomb)	usedInWar	World War II
+Ultimax 100	usedInWar	Yugoslavia
+Ultimax 100	usedInWar	Indonesia
+Ultimax 100	usedInWar	Philippines
+Ultimax 100	usedInWar	2006 Fijian coup d'état
+Ultimax 100	usedInWar	Solomon Islands
+Ultimax 100	usedInWar	Afghanistan
+Ultimax 100	usedInWar	Sri Lankan Civil War
+Type 91 torpedo	usedInWar	World War II
+Armbrust	usedInWar	Cambodian–Vietnamese War
+Armbrust	usedInWar	Croatian War of Independence
+Armbrust	usedInWar	Ten-Day War
+Armbrust	usedInWar	Cambodian–Thai border dispute
+FN 303	usedInWar	Afghan civil war
+FV101 Scorpion	usedInWar	Iran–Iraq War
+FV101 Scorpion	usedInWar	Falklands War
+FV101 Scorpion	usedInWar	Gulf War
+FV107 Scimitar	usedInWar	Falklands War
+FV107 Scimitar	usedInWar	Gulf War
+FV107 Scimitar	usedInWar	Bosnian War
+FV107 Scimitar	usedInWar	Kosovo
+FV107 Scimitar	usedInWar	Iraq War
+FV107 Scimitar	usedInWar	Afghanistan
+M230 Chain Gun	usedInWar	Gulf War
+Thermos Bomb	usedInWar	World War II
+Sterling submachine gun	usedInWar	Operation Market Garden
+Sterling submachine gun	usedInWar	Suez Crisis
+Sterling submachine gun	usedInWar	Aden Emergency
+Sterling submachine gun	usedInWar	Cold War
+Sterling submachine gun	usedInWar	Falklands War
+Sterling submachine gun	usedInWar	The Troubles
+Sterling submachine gun	usedInWar	Gulf War
+G5 howitzer	usedInWar	South African Border War
+G5 howitzer	usedInWar	Iran–Iraq War
+AR-10	usedInWar	Portuguese Colonial War#Armament and tactics
+AR-10	usedInWar	Portuguese Colonial War#Armament and tactics
+AR-10	usedInWar	Sudanese Civil War
+AR-10	usedInWar	Dominican Republic
+FN Model 1949	usedInWar	Korean War
+FN Model 1949	usedInWar	Congo Crisis
+FN Model 1949	usedInWar	Suez Crisis
+FN Model 1949	usedInWar	Falklands War
+M26 Modular Accessory Shotgun System	usedInWar	Iraq War
+Type 56 assault rifle	usedInWar	Vietnam War
+Type 56 assault rifle	usedInWar	Laotian Civil War
+Type 56 assault rifle	usedInWar	Cambodian Civil War
+Type 56 assault rifle	usedInWar	Cambodian–Vietnamese War
+Type 56 assault rifle	usedInWar	Sino-Vietnamese War
+Type 56 assault rifle	usedInWar	Sri Lankan Civil War
+Type 56 assault rifle	usedInWar	Soviet war in Afghanistan
+Type 56 assault rifle	usedInWar	Iran–Iraq War
+Type 56 assault rifle	usedInWar	Croatian War of Independence
+Type 56 assault rifle	usedInWar	Bosnian War
+Type 56 assault rifle	usedInWar	Kosovo War
+Type 56 assault rifle	usedInWar	Cambodian–Thai border dispute
+Type 56 assault rifle	usedInWar	War on Terror
+Vz. 58	usedInWar	War in Afghanistan (2001–present)
+Schwerer Gustav	usedInWar	World War II
+Type 63 assault rifle	usedInWar	Vietnam War
+Type 63 assault rifle	usedInWar	Cambodian Civil War
+Type 63 assault rifle	usedInWar	Cambodian–Vietnamese War
+Type 63 assault rifle	usedInWar	Sino-Vietnamese War
+Type 63 assault rifle	usedInWar	Soviet war in Afghanistan
+MAS-49 rifle	usedInWar	First Indochina War
+MAS-49 rifle	usedInWar	Algerian War
+MAS-49 rifle	usedInWar	Suez Crisis
+MAS-49 rifle	usedInWar	Vietnam War
+MAS-49 rifle	usedInWar	Shaba II
+Ak 5	usedInWar	Kosovo War
+Ak 5	usedInWar	War in Afghanistan (2001–present)
+Ak 5	usedInWar	Civil war in Chad (2005–2010)
+United States Marine Corps Squad Advanced Marksman Rifle	usedInWar	Operation Enduring Freedom
+United States Marine Corps Squad Advanced Marksman Rifle	usedInWar	Iraq War
+Lee-Metford	usedInWar	Boer Wars
+Lee-Metford	usedInWar	British Empire
+Lee-Metford	usedInWar	World War I
+Ordnance QF 25 pounder	usedInWar	World War II
+Ordnance QF 25 pounder	usedInWar	Malayan Emergency
+Ordnance QF 25 pounder	usedInWar	Korean War
+Ordnance QF 25 pounder	usedInWar	Rhodesian Bush War
+Ordnance QF 25 pounder	usedInWar	South African Border War
+Ordnance QF 25 pounder	usedInWar	Dhofar Rebellion
+Ordnance QF 25 pounder	usedInWar	Turkish invasion of Cyprus
+Ordnance QF 25 pounder	usedInWar	Sri Lankan Civil War
+Ordnance QF 25 pounder	usedInWar	Iraq War
+Ordnance QF 18 pounder	usedInWar	World War I
+Ordnance QF 18 pounder	usedInWar	Third Anglo-Afghan War
+Ordnance QF 18 pounder	usedInWar	Russian Civil War
+Ordnance QF 18 pounder	usedInWar	Irish Civil War
+Ordnance QF 18 pounder	usedInWar	Waziristan campaign (1936–1939)
+Ordnance QF 18 pounder	usedInWar	World War II
+Degtyaryov machine gun	usedInWar	Spanish Civil War
+Degtyaryov machine gun	usedInWar	Winter War
+Degtyaryov machine gun	usedInWar	World War II
+Degtyaryov machine gun	usedInWar	Korean War
+Degtyaryov machine gun	usedInWar	Chinese Civil War
+Degtyaryov machine gun	usedInWar	Vietnam War
+Degtyaryov machine gun	usedInWar	Cambodian Civil War
+Degtyaryov machine gun	usedInWar	Cambodian–Vietnamese War
+Degtyaryov machine gun	usedInWar	2011 Libyan civil war
+TT pistol	usedInWar	World War II
+TT pistol	usedInWar	Korean War
+TT pistol	usedInWar	Chinese Civil War
+TT pistol	usedInWar	Vietnam War
+TT pistol	usedInWar	Laotian Civil War
+TT pistol	usedInWar	Cambodian Civil War
+TT pistol	usedInWar	Cambodian–Vietnamese War
+TT pistol	usedInWar	Sino-Vietnamese War
+TT pistol	usedInWar	Soviet war in Afghanistan
+TT pistol	usedInWar	Cambodian–Thai border dispute
+Nudelman-Suranov NS-23	usedInWar	Cold War
+AMX-30	usedInWar	Gulf War
+Chieftain tank	usedInWar	Iran–Iraq War
+Chieftain tank	usedInWar	Invasion of Kuwait
+Khopesh	usedInWar	Battle of Kadesh
+Carl Gustav M/45	usedInWar	Vietnam War
+Carl Gustav M/45	usedInWar	Congo Crisis
+Carl Gustav M/45	usedInWar	Arab–Israeli conflict
+BRDM-2	usedInWar	BRDM-2#Service history
+FN F2000	usedInWar	2011 Libyan civil war
+Daewoo Precision Industries K5	usedInWar	Operation Enduring Freedom
+Daewoo Precision Industries K5	usedInWar	Iraq War
+M2 flamethrower	usedInWar	World War II
+M2 flamethrower	usedInWar	Korean War
+M2 flamethrower	usedInWar	Vietnam War
+15 cm sIG 33	usedInWar	World War II
+Maultier	usedInWar	World War II
+Sd.Kfz. 250	usedInWar	World War II
+PK machine gun	usedInWar	Vietnam War
+PK machine gun	usedInWar	Cambodian Civil War
+PK machine gun	usedInWar	Cambodian–Vietnamese War
+PK machine gun	usedInWar	Soviet war in Afghanistan
+PK machine gun	usedInWar	Iran–Iraq War
+PK machine gun	usedInWar	First Chechen War
+PK machine gun	usedInWar	Second Chechen War
+PK machine gun	usedInWar	Iraq War
+PK machine gun	usedInWar	War in Afghanistan (2001–present)
+PK machine gun	usedInWar	Cambodian–Thai border dispute
+AGS-17	usedInWar	Soviet war in Afghanistan
+AGS-17	usedInWar	First Chechen War
+MATADOR (weapon)	usedInWar	Gaza War
+FP-45 Liberator	usedInWar	World War II
+United States Marine Corps Designated Marksman Rifle	usedInWar	Iraq War
+United States Marine Corps Designated Marksman Rifle	usedInWar	War in Afghanistan (2001–present)
+90 mm Gun M1/M2/M3	usedInWar	World War II
+Fiat L6/40	usedInWar	World War II
+3.7 cm kanon PÚV vz. 34	usedInWar	World War II
+Skoda 37 mm A7	usedInWar	World War II
+Nambu pistol	usedInWar	World War II
+Nambu pistol	usedInWar	Second Sino-Japanese War
+Nambu pistol	usedInWar	Chinese Civil War
+Skoda K-series	usedInWar	World War II
+Cannone da 65/17 modello 13	usedInWar	World War I
+Cannone da 65/17 modello 13	usedInWar	Spanish Civil War
+Cannone da 65/17 modello 13	usedInWar	World War II
+RPG-29	usedInWar	Iraq War
+RPG-29	usedInWar	2006 Lebanon War
+DShK	usedInWar	World War II
+DShK	usedInWar	Korean War
+DShK	usedInWar	Chinese Civil War
+DShK	usedInWar	Vietnam War
+DShK	usedInWar	Cambodian Civil War
+DShK	usedInWar	Cambodian–Vietnamese War
+DShK	usedInWar	Six-Day War
+DShK	usedInWar	Yom Kippur War
+DShK	usedInWar	Iran–Iraq War
+DShK	usedInWar	The Troubles
+DShK	usedInWar	Gulf War
+DShK	usedInWar	Yugoslav Wars
+DShK	usedInWar	Iraq War
+DShK	usedInWar	War in Afghanistan (2001–present)
+DShK	usedInWar	Cambodian–Thai border dispute
+DShK	usedInWar	2011 Libyan civil war
+Marder I	usedInWar	World War II
+S-mine	usedInWar	World War II
+S-mine	usedInWar	Winter War
+S-mine	usedInWar	Continuation War
+Stoner 63	usedInWar	Vietnam War
+Stoner 63	usedInWar	Invasion of Grenada
+Hispano-Suiza HS.404	usedInWar	World War II
+Hispano-Suiza HS.404	usedInWar	Korean War
+Hispano-Suiza HS.404  Hispano Mk.V   1	usedInWar	World War II
+Hispano-Suiza HS.404  Hispano Mk.V   1	usedInWar	Korean War
+RPK	usedInWar	Vietnam War
+RPK	usedInWar	Cambodian Civil War
+RPK	usedInWar	Cambodian–Vietnamese War
+RPK	usedInWar	Soviet war in Afghanistan
+RPK	usedInWar	First Chechen War
+RPK	usedInWar	Second Chechen War
+RPK	usedInWar	Iraq War
+RPK	usedInWar	War in Afghanistan (2001–present)
+RPK	usedInWar	Cambodian–Thai border dispute
+RPK	usedInWar	2011 Libyan civil war
+R-40 (missile)	usedInWar	Gulf War
+R-40 (missile)	usedInWar	Operation Southern Watch
+M1917 Browning machine gun	usedInWar	World War I
+M1917 Browning machine gun	usedInWar	World War II
+M1917 Browning machine gun	usedInWar	Korean War
+M1917 Browning machine gun	usedInWar	Vietnam War
+AA-52 machine gun	usedInWar	First Indochina War
+AA-52 machine gun	usedInWar	Algerian War
+AA-52 machine gun	usedInWar	Suez Crisis
+AA-52 machine gun	usedInWar	Gulf War
+AA-52 machine gun	usedInWar	Bosnian War
+AA-52 machine gun	usedInWar	War in Afghanistan (2001–present)
+Panhard AML	usedInWar	Portuguese Colonial War
+Panhard AML	usedInWar	Rhodesian Bush War
+Panhard AML	usedInWar	Mozambican War of Independence
+Panhard AML	usedInWar	Western Sahara War
+Panhard AML	usedInWar	Angolan Civil War
+Panhard AML	usedInWar	Falklands War
+Panhard AML	usedInWar	Lebanese Civil War
+Grille (artillery)	usedInWar	World War II
+2.75 inch Mountain Gun	usedInWar	World War I
+Brixia Model 35	usedInWar	World War II
+Matra Durandal	usedInWar	Gulf War
+MG 08	usedInWar	Xinhai Revolution
+MG 08	usedInWar	World War I
+MG 08	usedInWar	World War II
+MG 08	usedInWar	Second Sino-Japanese War
+MG 08	usedInWar	Chinese Civil War
+MG 08	usedInWar	Vietnam War
+MG 08	usedInWar	Finnish Civil War
+M67 recoilless rifle	usedInWar	Vietnam War
+M67 recoilless rifle	usedInWar	War in Afghanistan (2001–present)
+40.6 cm SK C/34 gun	usedInWar	World War II
+2K12 Kub	usedInWar	Yom Kippur War
+2K12 Kub	usedInWar	Chadian Civil War
+2K12 Kub	usedInWar	Iran–Iraq War
+2K12 Kub	usedInWar	1982 Lebanon War
+2K12 Kub	usedInWar	Gulf War
+2K12 Kub	usedInWar	Yugoslav Wars
+S-125 Neva/Pechora	usedInWar	Yom Kippur War
+S-125 Neva/Pechora	usedInWar	Kosovo War
+S-125 Neva/Pechora	usedInWar	Iran–Iraq War
+S-125 Neva/Pechora	usedInWar	Gulf War
+S-125 Neva/Pechora	usedInWar	Angolan Civil War
+9K33 Osa	usedInWar	1982 Lebanon War
+9K33 Osa	usedInWar	Angolan Civil War
+9K33 Osa	usedInWar	Gulf War
+9K33 Osa	usedInWar	2011 Libyan civil war
+9K31 Strela-1	usedInWar	Arab–Israeli conflict
+9K31 Strela-1	usedInWar	Western Sahara War
+9K31 Strela-1	usedInWar	Yugoslav Wars
+9K31 Strela-1	usedInWar	Multinational Force in Lebanon#Later confrontations and withdrawal
+9K31 Strela-1	usedInWar	Iran–Iraq War
+9K31 Strela-1	usedInWar	2003 invasion of Iraq
+Buk missile system	usedInWar	9K37 Buk#Operators
+Steyr-Mannlicher M1895	usedInWar	World War I
+Steyr-Mannlicher M1895	usedInWar	World War II
+Boys anti-tank rifle	usedInWar	World War II
+MP 18	usedInWar	World War I
+MP 18	usedInWar	Second Sino-Japanese War
+MP 18	usedInWar	Chaco War
+MP 18	usedInWar	Chinese Civil War
+MP 18	usedInWar	World War II
+BTR-60	usedInWar	BTR-60#List of Conflicts
+Sedgley OSS .38	usedInWar	World War II
+French 100 mm naval gun	usedInWar	Gulf War
+Walther P38	usedInWar	World War II
+MG 131 machine gun	usedInWar	World War II
+Mark I tank	usedInWar	Russian Civil War
+MG FF cannon	usedInWar	World War II
+Rolls-Royce Armoured Car	usedInWar	World War I
+Rolls-Royce Armoured Car	usedInWar	Irish Civil War
+Rolls-Royce Armoured Car	usedInWar	World War II
+T-70	usedInWar	World War II
+Mauser 1918 T-Gewehr	usedInWar	World War I
+Mauser 1918 T-Gewehr	usedInWar	German Revolution of 1918–19
+Cruiser Mk III	usedInWar	World War II
+R-14 Usovaya	usedInWar	Cold War
+Gammon bomb	usedInWar	World War II
+Close Quarters Battle Receiver	usedInWar	War in Afghanistan (2001–present)
+Close Quarters Battle Receiver	usedInWar	Iraq War
+United States Army Squad Designated Marksman Rifle	usedInWar	War in Afghanistan (2001–present)
+United States Army Squad Designated Marksman Rifle	usedInWar	Iraq War
+Hawkins grenade	usedInWar	World War II
+No 1 Grenade	usedInWar	World War I
+ZSU-57-2	usedInWar	ZSU-57-2#Service history
+ZSU-57-2	usedInWar	ZSU-57-2#Combat history
+FIM-43 Redeye	usedInWar	Soviet war in Afghanistan
+Type 81 assault rifle	usedInWar	Sino-Vietnamese War
+Type 81 assault rifle	usedInWar	Sri Lankan Civil War
+AGM-45 Shrike	usedInWar	Vietnam War
+AGM-45 Shrike	usedInWar	Falklands War
+AGM-12 Bullpup	usedInWar	Vietnam War
+PGM Hécate II	usedInWar	War in Afghanistan (2001–present)
+M56 Scorpion	usedInWar	Vietnam War
+XM25 CDTE	usedInWar	War in Afghanistan (2001–present)
+Spencer repeating rifle	usedInWar	American Civil War
+Spencer repeating rifle	usedInWar	American Indian Wars
+Spencer repeating rifle	usedInWar	Boshin War
+BL755	usedInWar	Falklands War
+BL755	usedInWar	Gulf War
+BL755	usedInWar	Bosnian War
+MAC 1934	usedInWar	World War II
+PG-7VR	usedInWar	Iraq War
+PG-7VR	usedInWar	Second Chechen War
+Sea Skua	usedInWar	Falklands War
+Sea Skua	usedInWar	Gulf War
+Winchester Model 70	usedInWar	Vietnam War
+QF 2 pounder naval gun	usedInWar	World War I
+QF 2 pounder naval gun	usedInWar	World War II
+T-10 Heavy Tank	usedInWar	Yom Kippur War
+Mk 14 Enhanced Battle Rifle	usedInWar	Iraq War
+Mk 14 Enhanced Battle Rifle	usedInWar	War in Afghanistan (2001–present)
+Yasin (RPG)	usedInWar	Second Intifada
+INSAS rifle	usedInWar	Kargil War
+INSAS rifle	usedInWar	Nepalese Civil War
+M93 Fox	usedInWar	Gulf War
+M93 Fox	usedInWar	Iraq War
+Type 100 submachine gun	usedInWar	Second Sino-Japanese War
+Type 100 submachine gun	usedInWar	World War II
+Azon	usedInWar	World War II
+Obice da 210/22	usedInWar	World War II
+HJ-8	usedInWar	Yugoslav Wars
+ASLAV	usedInWar	Iraq War
+ASLAV	usedInWar	War in Afghanistan (2001–present)
+ASLAV	usedInWar	East Timor
+Springfield Model 1861	usedInWar	American Civil War
+LeMat Revolver	usedInWar	American Civil War
+Vickers S	usedInWar	World War II
+Pinaka Multi Barrel Rocket Launcher	usedInWar	Kargil War
+37 mm kanon P.U.V. vz. 37	usedInWar	World War II
+Ordnance QF 6 pounder	usedInWar	World War II
+Ordnance QF 2 pounder	usedInWar	World War II
+Type 97 20 mm anti-tank rifle	usedInWar	Second Sino-Japanese War
+Type 97 20 mm anti-tank rifle	usedInWar	World War II
+Type 98 20 mm AA Machine Cannon	usedInWar	World War II
+Type 2 20 mm AA Machine Cannon	usedInWar	World War II
+Type 11 75 mm AA Gun	usedInWar	Second Sino-Japanese War
+Type 88 75 mm AA Gun	usedInWar	Second Sino-Japanese War
+Type 88 75 mm AA Gun	usedInWar	Soviet–Japanese Border Wars
+Type 88 75 mm AA Gun	usedInWar	World War II
+Type 4 75 mm AA Gun	usedInWar	World War II
+Type 99 88 mm AA Gun	usedInWar	World War II
+Type 14 10 cm AA Gun	usedInWar	Second Sino-Japanese War
+Type 14 10 cm AA Gun	usedInWar	World War II
+Type 3 12 cm AA Gun	usedInWar	World War II
+Type 5 15 cm AA Gun	usedInWar	World War II
+Type 10 120 mm AA Gun	usedInWar	World War II
+Type 96 25 mm AT/AA Gun	usedInWar	World War II
+Springfield Model 1863	usedInWar	American Civil War
+Heckler & Koch AG36	usedInWar	War in Afghanistan (2001–present)
+Heckler & Koch AG36	usedInWar	Iraq War
+Blacker Bombard	usedInWar	World War II
+Type 1 Ho-Ha	usedInWar	World War II
+Hotchkiss M1914 machine gun	usedInWar	Mexican Revolution
+Hotchkiss M1914 machine gun	usedInWar	World War I
+Hotchkiss M1914 machine gun	usedInWar	World War II
+Hotchkiss M1914 machine gun	usedInWar	Polish–Soviet War
+Hotchkiss M1914 machine gun	usedInWar	Spanish Civil War
+Fedorov Avtomat	usedInWar	World War I
+Fedorov Avtomat	usedInWar	Russian Civil War
+Fedorov Avtomat	usedInWar	Spanish Civil War
+Fedorov Avtomat	usedInWar	Winter War
+Fedorov Avtomat	usedInWar	World War II
+WIST-94	usedInWar	2003 invasion of Iraq
+Ram tank	usedInWar	World War II
+Oerlikon 20 mm cannon	usedInWar	World War II
+Gun Carrier Mark I	usedInWar	World War I
+PM M1910	usedInWar	World War I
+PM M1910	usedInWar	Russian Revolution (1917)
+PM M1910	usedInWar	Russian Civil War
+PM M1910	usedInWar	Polish–Soviet War
+PM M1910	usedInWar	Finnish Civil War
+PM M1910	usedInWar	Spanish Civil War
+PM M1910	usedInWar	Winter War
+PM M1910	usedInWar	World War II
+PM M1910	usedInWar	Second Sino-Japanese War
+PM M1910	usedInWar	Korean War
+PM M1910	usedInWar	Vietnam War
+PM M1910	usedInWar	Chinese Civil War
+Type 99 rifle	usedInWar	Second Sino-Japanese War
+Type 99 rifle	usedInWar	World War II
+Type 99 rifle	usedInWar	Korean War
+Type 99 rifle	usedInWar	Indonesian National Revolution
+Type 11 light machine gun	usedInWar	Second Sino-Japanese War
+Type 11 light machine gun	usedInWar	Soviet–Japanese Border Wars
+Type 11 light machine gun	usedInWar	World War II
+Type 11 light machine gun	usedInWar	Chinese Civil War
+Type 96 Light Machine Gun	usedInWar	Second Sino-Japanese War
+Type 96 Light Machine Gun	usedInWar	Soviet–Japanese Border Wars
+Type 96 Light Machine Gun	usedInWar	World War II
+Type 96 Light Machine Gun	usedInWar	Indonesian National Revolution
+Type 96 Light Machine Gun	usedInWar	Chinese Civil War
+Type 96 Light Machine Gun	usedInWar	Korean War
+Type 99 Light Machine Gun	usedInWar	World War II
+Type 99 Light Machine Gun	usedInWar	Korean War
+Type 99 Light Machine Gun	usedInWar	Chinese Civil War
+Type 99 Light Machine Gun	usedInWar	Vietnam War
+Type 92 Heavy Machine Gun	usedInWar	World War II
+Type 92 Heavy Machine Gun	usedInWar	Korean War
+Type 92 Heavy Machine Gun	usedInWar	Chinese Civil War
+Type 1 Heavy Machine Gun	usedInWar	World War II
+Type 1 Heavy Machine Gun	usedInWar	Chinese Civil War
+Type 38 rifle	usedInWar	Russo-Japanese War
+Type 38 rifle	usedInWar	Russian Civil War
+Type 38 rifle	usedInWar	World War I
+Type 38 rifle	usedInWar	World War II
+Type 38 rifle	usedInWar	Indonesian National Revolution
+Type 44 carbine	usedInWar	Second Sino-Japanese War
+Type 44 carbine	usedInWar	World War II
+Type 44 carbine	usedInWar	Korean War
+Type 44 carbine	usedInWar	Chinese Civil War
+Type 97 sniper rifle	usedInWar	Second Sino-Japanese War
+Type 97 sniper rifle	usedInWar	World War II
+Type 97 sniper rifle	usedInWar	Korean War
+Type 97 sniper rifle	usedInWar	Chinese Civil War
+Type 4 rifle	usedInWar	Pacific War
+Type 26 revolver	usedInWar	Russo-Japanese War
+Type 26 revolver	usedInWar	Second Sino-Japanese War
+Type 26 revolver	usedInWar	World War I
+Type 26 revolver	usedInWar	World War II
+Nambu Type 94 pistol	usedInWar	Second Sino-Japanese War
+Nambu Type 94 pistol	usedInWar	World War II
+Dardo IFV	usedInWar	Iraq War
+Dardo IFV	usedInWar	War in Afghanistan (2001–present)
+Light Tank Mk VII Tetrarch	usedInWar	World War II
+Sticky bomb	usedInWar	World War II
+BL 5.5 inch Medium Gun	usedInWar	World War II
+BL 5.5 inch Medium Gun	usedInWar	Korean War
+BL 5.5 inch Medium Gun	usedInWar	North Yemen Civil War
+BL 5.5 inch Medium Gun	usedInWar	Indonesia–Malaysia confrontation
+BL 5.5 inch Medium Gun	usedInWar	Angolan Civil War
+M114 155 mm howitzer	usedInWar	World War II
+M114 155 mm howitzer	usedInWar	Korean War
+M114 155 mm howitzer	usedInWar	Vietnam War
+M114 155 mm howitzer	usedInWar	Lebanese Civil War
+JP233	usedInWar	Gulf War
+M-84	usedInWar	Gulf War
+M-84	usedInWar	Yugoslav Wars
+LAV III	usedInWar	LAV III#Service history
+Enfield revolver	usedInWar	British Empire
+Enfield revolver	usedInWar	World War I
+Enfield revolver	usedInWar	World War II
+Enfield revolver  Enfield No 2 Mk I Revolver   1	usedInWar	World War II
+Enfield revolver  Enfield No 2 Mk I Revolver   1	usedInWar	Korean War
+Enfield revolver  Enfield No 2 Mk I Revolver   1	usedInWar	British Empire
+MAS-36 rifle	usedInWar	World War II
+MAS-36 rifle	usedInWar	Algerian War
+MAS-36 rifle	usedInWar	First Indochina War
+MAS-36 rifle	usedInWar	Suez Crisis
+MAS-36 rifle	usedInWar	Vietnam War
+MAS-36 rifle	usedInWar	Cambodian Civil War
+FM 24/29 light machine gun	usedInWar	World War II
+FM 24/29 light machine gun	usedInWar	First Indochina War
+FM 24/29 light machine gun	usedInWar	Algerian War
+FM 24/29 light machine gun	usedInWar	Suez Crisis
+M3 Scout Car	usedInWar	World War II
+M3 Scout Car	usedInWar	1948 Arab–Israeli War
+M3 Scout Car	usedInWar	First Indochina War
+M3 Scout Car	usedInWar	Algerian War
+UKM-2000	usedInWar	Iraq
+UKM-2000	usedInWar	Afghanistan
+Gewehr 98	usedInWar	Spanish–American War
+Gewehr 98	usedInWar	Boxer Rebellion
+Gewehr 98	usedInWar	Herero and Namaqua Genocide
+Gewehr 98	usedInWar	Xinhai Revolution
+Gewehr 98	usedInWar	World War I
+Gewehr 98	usedInWar	Spanish Civil War
+Gewehr 98	usedInWar	World War II
+Gewehr 98	usedInWar	Second Sino-Japanese War
+Gewehr 98	usedInWar	Chinese Civil War
+M1941 Johnson machine gun	usedInWar	World War II
+Anza (missile)	usedInWar	Kargil War
+Bat (guided bomb)	usedInWar	World War II
+RPG-2	usedInWar	First Indochina War
+RPG-2	usedInWar	Vietnam War
+RPG-2	usedInWar	Cambodian Civil War
+RPG-2	usedInWar	Cambodian–Vietnamese War
+RPG-2	usedInWar	Sino-Vietnamese War
+RPG-2	usedInWar	Cambodian–Thai border dispute
+MAS-38	usedInWar	World War II
+MAS-38	usedInWar	First Indochina War
+Karl-Gerät	usedInWar	World War II
+9K11 Malyutka	usedInWar	Yom Kippur War
+9K11 Malyutka	usedInWar	Vietnam War
+9K11 Malyutka	usedInWar	Western Sahara War
+9K11 Malyutka	usedInWar	Iran–Iraq War
+9K11 Malyutka	usedInWar	Gulf War
+9K11 Malyutka	usedInWar	Croatian War of Independence
+9K11 Malyutka	usedInWar	2006 Lebanon War
+9K11 Malyutka	usedInWar	First Chechen War
+9K11 Malyutka	usedInWar	Second Chechen War
+MP35	usedInWar	World War II
+Beretta M12	usedInWar	Vietnam War
+Beretta M12	usedInWar	Afghan civil war
+Beretta M12	usedInWar	Iraq War
+Beretta M12	usedInWar	2011 Libyan civil war
+Beretta Model 38	usedInWar	World War II
+Błyskawica submachine gun	usedInWar	World War II
+Cristobal (carbine)	usedInWar	Cuban Revolution
+Austen submachine gun	usedInWar	World War II
+Owen submachine gun	usedInWar	World War II
+Owen submachine gun	usedInWar	Malayan Emergency
+Owen submachine gun	usedInWar	Korean War
+Owen submachine gun	usedInWar	Vietnam War
+XM148 grenade launcher	usedInWar	Vietnam War
+XM148 grenade launcher	usedInWar	1989 Philippine coup attempt
+MP 3008	usedInWar	World War II
+Loyd Carrier	usedInWar	World War II
+T-12 antitank gun	usedInWar	Gulf War
+T-12 antitank gun	usedInWar	Invasion of Dagestan (1999)
+AMX 10 RC	usedInWar	Gulf War
+M40 recoilless rifle	usedInWar	Vietnam War
+M40 recoilless rifle	usedInWar	Indo-Pakistani War of 1971
+M40 recoilless rifle	usedInWar	Rhodesian Bush War
+M40 recoilless rifle	usedInWar	Falklands War
+M40 recoilless rifle	usedInWar	2011 Libyan civil war
+Light Tank Mk VI	usedInWar	World War II
+QF 3.7 inch AA gun	usedInWar	World War II
+Vz. 24	usedInWar	Chaco War
+Vz. 24	usedInWar	Spanish Civil War
+Vz. 24	usedInWar	World War II
+Mk 2 grenade	usedInWar	World War I
+Mk 2 grenade	usedInWar	World War II
+Mk 2 grenade	usedInWar	Korean War
+Mk 2 grenade	usedInWar	Suez Crisis
+Mk 2 grenade	usedInWar	Six-Day War
+Ithaca 37	usedInWar	World War II
+Henry rifle	usedInWar	American Civil War
+Henry rifle	usedInWar	American Indian Wars
+Type 11 70 mm Infantry Mortar	usedInWar	World War II
+Type 31 75 mm Mountain Gun	usedInWar	Russo-Japanese War
+Type 41 75 mm Mountain Gun	usedInWar	World War I
+Type 41 75 mm Mountain Gun	usedInWar	Second Sino-Japanese War
+Type 41 75 mm Mountain Gun	usedInWar	World War II
+Type 93 and 100 flamethrowers	usedInWar	Second Sino-Japanese War
+Type 93 and 100 flamethrowers	usedInWar	World War II
+Type 10 grenade discharger	usedInWar	Second Sino-Japanese War
+Type 10 grenade discharger	usedInWar	World War II
+Type 89 grenade discharger	usedInWar	Second Sino-Japanese War
+Type 89 grenade discharger	usedInWar	World War II
+Limbo (weapon)	usedInWar	Falklands War
+Type 10 grenade	usedInWar	Second Sino-Japanese War
+Type 10 grenade	usedInWar	Soviet–Japanese Border Wars
+Type 10 grenade	usedInWar	World War II
+Type 11 37 mm Infantry Gun	usedInWar	Second Sino-Japanese War
+Type 11 37 mm Infantry Gun	usedInWar	World War II
+Renault R35	usedInWar	World War II
+Renault R35	usedInWar	1948 Arab–Israeli War
+M1895 Lee Navy	usedInWar	Spanish–American War
+M1895 Lee Navy	usedInWar	Philippine–American War
+M1895 Lee Navy	usedInWar	Boxer Rebellion
+M1895 Lee Navy	usedInWar	Moro Rebellion
+Type 4 20 cm Rocket Launcher	usedInWar	World War II
+Type 96 15 cm Howitzer	usedInWar	Second Sino-Japanese War
+Type 96 15 cm Howitzer	usedInWar	Soviet–Japanese Border Wars
+Type 96 15 cm Howitzer	usedInWar	World War II
+Tabuk Sniper Rifle	usedInWar	Iran–Iraq War
+Tabuk Sniper Rifle	usedInWar	Gulf War
+Tabuk Sniper Rifle	usedInWar	2003 invasion of Iraq
+QBZ-95	usedInWar	Sri Lankan Civil War
+QBZ-95	usedInWar	Cambodian–Thai border dispute
+Type 94 75 mm Mountain Gun	usedInWar	Second Sino-Japanese War
+Type 94 75 mm Mountain Gun	usedInWar	World War II
+AS Val	usedInWar	First Chechen War
+AS Val	usedInWar	Second Chechen War
+AS Val	usedInWar	2008 South Ossetia war
+Ckm wz.30	usedInWar	Spanish Civil War
+Kb wz. 98a	usedInWar	World War II
+Kbk wz. 1929	usedInWar	Spanish Civil War
+Kbk wz. 1929	usedInWar	World War II
+Kbsp wz. 1938M	usedInWar	World War II
+Heckler & Koch HK416	usedInWar	Iraq War
+Heckler & Koch HK416	usedInWar	War in Afghanistan (2001–present)
+Schwarzlose MG M.07/12	usedInWar	World War I
+Schwarzlose MG M.07/12	usedInWar	Polish–Soviet War
+Schwarzlose MG M.07/12	usedInWar	Greco-Turkish War (1919–1922)
+Schwarzlose MG M.07/12	usedInWar	World War II
+Nagant M1895	usedInWar	Russo-Japanese War
+Nagant M1895	usedInWar	World War I
+Nagant M1895	usedInWar	Russian Revolution (1917)
+Nagant M1895	usedInWar	Russian Civil War
+Nagant M1895	usedInWar	Winter War
+Nagant M1895	usedInWar	World War II
+Nagant M1895	usedInWar	Chinese Civil War
+Nagant M1895	usedInWar	Korean War
+Nagant M1895	usedInWar	Vietnam War
+Berdan rifle	usedInWar	Russo-Turkish War (1877–1878)
+SIG SG 510	usedInWar	1973 Chilean coup d'état
+Flamethrower, Portable, No 2	usedInWar	World War II
+NSV machine gun	usedInWar	Soviet war in Afghanistan
+NSV machine gun	usedInWar	Nagorno-Karabakh War
+NSV machine gun	usedInWar	Gulf War
+NSV machine gun	usedInWar	Iraq War
+Panzerbüchse 39	usedInWar	World War II
+M41 Walker Bulldog	usedInWar	Korean War
+M41 Walker Bulldog	usedInWar	Vietnam War
+Accuracy International AW50F	usedInWar	International Force for East Timor
+Accuracy International AW50F	usedInWar	War in Afghanistan (2001–present)
+Accuracy International AW50F	usedInWar	Iraq War
+AGM-78 Standard ARM	usedInWar	Vietnam War
+No. 73 Grenade	usedInWar	World War II
+Grom (missile)	usedInWar	2008 South Ossetia war
+RGD-33 grenade	usedInWar	World War II
+Type 97 grenade	usedInWar	Second Sino-Japanese War
+Type 97 grenade	usedInWar	Soviet–Japanese Border Wars
+Type 97 grenade	usedInWar	World War II
+5 cm Pak 38	usedInWar	World War II
+Armored train Hurban	usedInWar	Slovak National Uprising
+Armored train Hurban	usedInWar	World War II
+L118 Light Gun	usedInWar	Western Sahara War
+L118 Light Gun	usedInWar	Falklands War
+L118 Light Gun	usedInWar	Yugoslav Wars
+L118 Light Gun	usedInWar	Sierra Leone Civil War
+L118 Light Gun	usedInWar	Iraq War
+L118 Light Gun	usedInWar	Afghan civil war
+SR-25	usedInWar	War in Afghanistan (2001–present)
+SR-25	usedInWar	Iraq War
+SR-25	usedInWar	2006 East Timorese crisis
+SR-25	usedInWar	Second Intifada
+T-38 tank	usedInWar	World War II
+3.7 inch Mountain Howitzer	usedInWar	World War I
+3.7 inch Mountain Howitzer	usedInWar	World War II
+OKC-3S bayonet	usedInWar	War in Afghanistan (2001–present)
+OKC-3S bayonet	usedInWar	Iraq War
+T-27	usedInWar	World War II
+Daewoo Precision Industries K2	usedInWar	Gulf War
+Daewoo Precision Industries K2	usedInWar	Operation Enduring Freedom
+Daewoo Precision Industries K2	usedInWar	Iraq War
+Daewoo Precision Industries K2	usedInWar	2006 Fijian coup d'état
+M107 Self-Propelled Gun	usedInWar	Vietnam War
+MOWAG Eagle	usedInWar	War in Afghanistan (2001–present)
+40 cm/45 Type 94 naval gun	usedInWar	World War II
+7.5 cm Pak 40	usedInWar	World War II
+MAB Model A	usedInWar	World War II
+M26 grenade	usedInWar	Vietnam War
+M26 grenade	usedInWar	Falklands War
+M231 Firing Port Weapon	usedInWar	Gulf War
+M231 Firing Port Weapon	usedInWar	Iraq War
+M9 pistol	usedInWar	Gulf War
+M9 pistol	usedInWar	War in Afghanistan (2001–present)
+M9 pistol	usedInWar	Iraq War
+BTR-D	usedInWar	BTR-D#Service history
+PTRD	usedInWar	World War II
+PTRD	usedInWar	Korean War
+PTRD	usedInWar	Chinese Civil War
+Flammenwerfer 35	usedInWar	World War II
+BM-27 Uragan	usedInWar	Soviet war in Afghanistan
+BM-27 Uragan	usedInWar	First Chechen War
+BM-27 Uragan	usedInWar	Second Chechen War
+BM-27 Uragan	usedInWar	2008 South Ossetia war
+BM-21 Grad	usedInWar	Cenepa War
+BM-21 Grad	usedInWar	Iran–Iraq War
+BM-21 Grad	usedInWar	Soviet war in Afghanistan
+BM-21 Grad	usedInWar	Lebanese Civil War
+BM-21 Grad	usedInWar	First Chechen War
+BM-21 Grad	usedInWar	Second Chechen War
+BM-21 Grad	usedInWar	2008 South Ossetia war
+BM-21 Grad	usedInWar	Cambodian–Thai border dispute
+BM-21 Grad	usedInWar	2011 Libyan civil war
+AMC 35	usedInWar	World War II
+Smith & Wesson Model 10	usedInWar	World War I
+Smith & Wesson Model 10	usedInWar	World War II
+Smith & Wesson Model 10	usedInWar	Korean War
+Smith & Wesson Model 10	usedInWar	Vietnam War
+Smith & Wesson Model 10	usedInWar	Gulf War
+Carden Loyd tankette	usedInWar	Chaco War
+Carden Loyd tankette	usedInWar	Franco-Thai War
+Carden Loyd tankette	usedInWar	World War II
+ShKAS machine gun	usedInWar	World War II
+ShKAS machine gun	usedInWar	Spanish Civil War
+BL 8 inch Howitzer Mk VI – VIII	usedInWar	World War I
+BL 8 inch Howitzer Mk VI – VIII	usedInWar	World War II
+BTR-94	usedInWar	Iraq War
+Fiat M13/40	usedInWar	World War II
+ZPU	usedInWar	Korean War
+ZPU	usedInWar	Vietnam War
+ZPU	usedInWar	Cambodian Civil War
+ZPU	usedInWar	Cambodian–Vietnamese War
+ZPU	usedInWar	Gulf War
+ZPU	usedInWar	South Lebanon conflict (1982–2000)
+ZPU	usedInWar	2011 Libyan civil war
+M1 mortar	usedInWar	World War II
+BTR-50	usedInWar	BTR-50#Service history
+2-inch mortar	usedInWar	Korean War
+Fiat M11/39	usedInWar	World War II
+Desert Patrol Vehicle	usedInWar	Gulf War
+3.7 cm Pak 36	usedInWar	Chinese Civil War
+3.7 cm Pak 36	usedInWar	Spanish Civil War
+3.7 cm Pak 36	usedInWar	World War II
+S-75 Dvina	usedInWar	Vietnam War
+S-75 Dvina	usedInWar	Six-Day War
+S-75 Dvina	usedInWar	Cold War
+S-75 Dvina	usedInWar	Iran–Iraq War
+S-75 Dvina	usedInWar	Gulf War
+S-75 Dvina	usedInWar	War in Abkhazia (1992–1993)
+PPSh-41	usedInWar	World War II
+ZB vz. 26	usedInWar	Second Sino-Japanese War
+ZB vz. 26	usedInWar	World War II
+ZB vz. 26	usedInWar	Korean War
+ZB vz. 26	usedInWar	Chinese Civil War
+ZB vz. 26	usedInWar	Spanish Civil War
+M110 Semi-Automatic Sniper System	usedInWar	War in Afghanistan (2001–present)
+M110 Semi-Automatic Sniper System	usedInWar	Iraq War
+Northover Projector	usedInWar	World War II
+Type 97 light machine gun	usedInWar	Second Sino-Japanese War
+Type 97 light machine gun	usedInWar	Soviet–Japanese Border Wars
+Type 97 light machine gun	usedInWar	World War II
+Type 97 light machine gun	usedInWar	Chinese Civil War
+Type 97 light machine gun	usedInWar	Korean War
+Type 30 rifle	usedInWar	Boxer Rebellion
+Type 30 rifle	usedInWar	Russo-Japanese War
+Type 30 rifle	usedInWar	World War I
+Type 30 rifle	usedInWar	World War II
+Type 30 rifle	usedInWar	Second Sino-Japanese War
+Hotchkiss M1909 Benet-Mercie machine gun	usedInWar	World War I
+Skoda 305 mm Model 1911	usedInWar	World War I
+Skoda 305 mm Model 1911	usedInWar	World War II
+Véhicule blindé de combat d'infanterie	usedInWar	War in Afghanistan (2001–present)
+Vektor SS-77	usedInWar	South African Border War
+Berezin UB	usedInWar	World War II
+Volkov-Yartsev VYa-23	usedInWar	World War II
+Bushmaster Protected Mobility Vehicle	usedInWar	East Timor
+Bushmaster Protected Mobility Vehicle	usedInWar	War in Afghanistan (2001–present)
+Bushmaster Protected Mobility Vehicle	usedInWar	Iraq War
+OC-14-4A	usedInWar	First Chechen War
+OC-14-4A	usedInWar	Second Chechen War
+OC-14-4A	usedInWar	2008 South Ossetia war
+Colt Army Model 1860	usedInWar	American Civil War
+Colt Army Model 1860	usedInWar	American Indian Wars
+Zastava M76	usedInWar	Yugoslav Wars
+Zastava M76	usedInWar	Kosovo War
+Zastava M76	usedInWar	Iraq War
+T-40	usedInWar	World War II
+T-50 tank	usedInWar	World War II
+M15/42 tank	usedInWar	World War II
+Springfield Model 1873	usedInWar	Great Sioux War of 1876
+Springfield Model 1873	usedInWar	American Indian Wars
+Springfield Model 1873	usedInWar	Spanish–American War
+Springfield Model 1873	usedInWar	Philippine–American War
+PTRS-41	usedInWar	World War II
+PTRS-41	usedInWar	Korean War
+PTRS-41	usedInWar	Chinese Civil War
+Fiat M14/41	usedInWar	World War II
+M101 howitzer	usedInWar	World War II
+M101 howitzer	usedInWar	Korean War
+M101 howitzer	usedInWar	First Indochina War
+M101 howitzer	usedInWar	Vietnam War
+M101 howitzer	usedInWar	Insurgency in the Philippines
+Daewoo Precision Industries K1	usedInWar	Gulf War
+Daewoo Precision Industries K1	usedInWar	Operation Enduring Freedom
+Daewoo Precision Industries K1	usedInWar	Iraq War
+M1938 mortar	usedInWar	World War II
+SG-43 Goryunov	usedInWar	Korean War
+Carro Armato P 40	usedInWar	World War II
+Komsomolets armored tractor	usedInWar	World War II
+BA-64	usedInWar	World War II
+BA-64	usedInWar	Korean War
+M1917 Enfield	usedInWar	World War I
+M1917 Enfield	usedInWar	World War II
+M1917 Enfield	usedInWar	Korean War
+M1917 Enfield	usedInWar	Vietnam War
+M1917 bayonet	usedInWar	World War I
+M1917 bayonet	usedInWar	Banana Wars
+M1917 bayonet	usedInWar	World War II
+9K22 Tunguska	usedInWar	2008 South Ossetia war
+M1917 revolver	usedInWar	World War I
+M1917 revolver	usedInWar	World War II
+M1917 revolver	usedInWar	Korean War
+M1917 revolver	usedInWar	Vietnam War
+Pattern 1914 Enfield	usedInWar	World War I
+Pattern 1914 Enfield	usedInWar	World War II
+M12 Gun Motor Carriage	usedInWar	World War II
+Livens Projector	usedInWar	World War I
+Lahti L-39	usedInWar	Winter War
+Lahti L-39	usedInWar	World War II
+Solothurn S-18/1000	usedInWar	World War II
+Solothurn S-18/100	usedInWar	Slovak–Hungarian War
+Solothurn S-18/100	usedInWar	World War II
+2 cm FlaK 30/38/Flakvierling	usedInWar	World War II
+2 cm FlaK 30/38/Flakvierling  2 cm Flakvierling 38   1	usedInWar	World War II
+United Defense M42	usedInWar	World War II
+Starburst (missile)	usedInWar	Gulf War
+Snider-Enfield	usedInWar	British Empire
+Snider-Enfield	usedInWar	New Zealand land wars
+Snider-Enfield	usedInWar	Red River Rebellion
+Snider-Enfield	usedInWar	North-West Rebellion
+Snider-Enfield	usedInWar	Fenian raids
+Snider-Enfield	usedInWar	Anglo-Zulu War
+Snider-Enfield	usedInWar	Boer Wars
+Snider-Enfield	usedInWar	Boshin War
+Snider-Enfield	usedInWar	Russo-Turkish War (1877–1878)
+Snider-Enfield	usedInWar	16 years war/Ekiti Parapo war
+Snider-Enfield	usedInWar	Royal Canadian Mounted Police
+Snider-Enfield	usedInWar	Royal Irish Constabulary
+Nock gun	usedInWar	Napoleonic Wars
+Agram 2000	usedInWar	Kosovo War
+Agram 2000	usedInWar	Croatian War of Independence
+Agram 2000	usedInWar	Bosnian War
+6 inch 26 cwt howitzer	usedInWar	World War I
+6 inch 26 cwt howitzer	usedInWar	World War II
+Ordnance ML 3 inch Mortar	usedInWar	World War II
+Astra 600	usedInWar	World War II
+Winchester Model 1912	usedInWar	World War I
+Winchester Model 1912	usedInWar	World War II
+Winchester Model 1912	usedInWar	Korean War
+Winchester Model 1912	usedInWar	Vietnam War
+B-10 recoilless rifle	usedInWar	Vietnam War
+Sauer 38H	usedInWar	World War II
+Mauser HSc	usedInWar	World War II
+Kh-29	usedInWar	Iran–Iraq War
+Fayetteville rifle	usedInWar	American Civil War
+Buffalo (mine protected vehicle)	usedInWar	Iraq War
+Buffalo (mine protected vehicle)	usedInWar	War in Afghanistan (2001–present)
+152 mm howitzer M1943 (D-1)	usedInWar	World War II
+L6 Wombat	usedInWar	Vietnam War
+L6 Wombat	usedInWar	Falklands War
+Cannone da 75/46 C.A. modello 34	usedInWar	World War II
+M46 Patton	usedInWar	Korean War
+Astros II MLRS	usedInWar	Iran–Iraq War
+Astros II MLRS	usedInWar	Gulf War
+Astros II MLRS	usedInWar	Angolan Civil War
+120 mm M1 gun	usedInWar	World War II
+120 mm M1 gun	usedInWar	Korean War
+Gewehr 1888	usedInWar	Second Boer War
+Gewehr 1888	usedInWar	Boxer Rebellion
+Gewehr 1888	usedInWar	World War I
+MG 13	usedInWar	Spanish Civil War
+MG 13	usedInWar	World War I
+MG 13	usedInWar	Portuguese Colonial War
+Mauser Model 1871	usedInWar	Satsuma Rebellion
+Mauser Model 1871	usedInWar	First Sino-Japanese War
+Mauser Model 1871	usedInWar	Boxer Rebellion
+Mauser Model 1871	usedInWar	Easter Rising
+3.7 cm FlaK 43	usedInWar	World War II
+Deacon (artillery)	usedInWar	World War II
+Hotchkiss H35	usedInWar	World War II
+Hotchkiss H35	usedInWar	1948 Arab–Israeli War
+Cougar (vehicle)	usedInWar	Iraq War
+Cougar (vehicle)	usedInWar	War in Afghanistan (2001–present)
+Cougar (vehicle)  Cougar HE   1	usedInWar	Iraq War
+AASM	usedInWar	War in Afghanistan (2001–present)
+AASM	usedInWar	2011 Libyan civil war
+Model 1816 Musket	usedInWar	Mexican-American War
+Model 1816 Musket	usedInWar	American Civil War
+China Lake Grenade Launcher	usedInWar	Vietnam War
+Springfield Model 1840 Flintlock Musket	usedInWar	Mexican-American War
+Springfield Model 1840 Flintlock Musket	usedInWar	American Civil War
+Model 1822 Musket	usedInWar	Mexican-American War
+Model 1822 Musket	usedInWar	American Civil War
+Springfield Model 1812 Musket	usedInWar	War of 1812
+Springfield Model 1812 Musket	usedInWar	Mexican-American War
+Springfield Model 1812 Musket	usedInWar	American Civil War
+Model 1795 Musket	usedInWar	War of 1812
+Reibel machine gun	usedInWar	World War II
+M60 AVLB	usedInWar	Gulf War
+M60 AVLB	usedInWar	Iraq War
+CAESAR self-propelled howitzer	usedInWar	War in Afghanistan (2001–present)
+S1 Scout Car	usedInWar	World War II
+Lorraine 37L	usedInWar	World War II
+FCM 36	usedInWar	World War II
+Panhard 178	usedInWar	World War II
+Fajr-3	usedInWar	2006 Lebanon War
+M114 armored fighting vehicle	usedInWar	Vietnam War
+M55 howitzer	usedInWar	Vietnam War
+M1905 bayonet	usedInWar	Philippine–American War
+M1905 bayonet	usedInWar	World War I
+M1905 bayonet	usedInWar	Banana Wars
+M1905 bayonet	usedInWar	World War II
+Dardanelles Gun	usedInWar	Dardanelles Operation
+Smith Gun	usedInWar	World War II
+M1 bayonet	usedInWar	World War II
+M1 bayonet	usedInWar	Korean War
+Valkiri	usedInWar	South African Border War
+Ho-103 machine gun	usedInWar	World War II
+Type 89 machine gun	usedInWar	World War II
+Ho-301 cannon	usedInWar	World War II
+M16 mine	usedInWar	World War II
+AB 41	usedInWar	World War II
+Floro MK-9	usedInWar	Philippines
+Lahti L-35	usedInWar	World War II
+Lahti L-35	usedInWar	Winter War
+Lahti L-35	usedInWar	Continuation War
+Heckler & Koch G41	usedInWar	2007 Lebanon conflict
+7.58 cm Minenwerfer	usedInWar	World War I
+Martini-Enfield	usedInWar	British Empire
+Martini-Enfield	usedInWar	Second Boer War
+High Standard HDM	usedInWar	World War II
+High Standard HDM	usedInWar	Cold War
+Fajr-5	usedInWar	2006 Lebanon War
+Pattern 1853 Enfield	usedInWar	Indian Rebellion of 1857
+Pattern 1853 Enfield	usedInWar	Crimean War
+Pattern 1853 Enfield	usedInWar	New Zealand land wars
+Pattern 1853 Enfield	usedInWar	American Civil War
+Pattern 1853 Enfield	usedInWar	Boshin War
+FN Model 1903	usedInWar	World War I
+FN Model 1903	usedInWar	World War II
+122 mm howitzer 2A18 (D-30)	usedInWar	Cold War
+Type 69 RPG	usedInWar	Vietnam War
+Type 69 RPG	usedInWar	Cambodian Civil War
+Type 69 RPG	usedInWar	Cambodian–Vietnamese War
+Type 69 RPG	usedInWar	Sino-Vietnamese War
+Type 69 RPG	usedInWar	Soviet war in Afghanistan
+Type 69 RPG	usedInWar	Sri Lankan Civil War
+Type 69 RPG	usedInWar	Cambodian–Thai border dispute
+5"/38 caliber gun	usedInWar	World War II
+RBL 7 inch Armstrong gun	usedInWar	New Zealand land wars
+Bergmann MG15 nA Gun	usedInWar	World War I
+ASM-DT amphibious rifle	usedInWar	Secrecy
+Mattress (rocket)	usedInWar	World War II
+Howa Type 89	usedInWar	Iraq War
+Type 91 grenade	usedInWar	Second Sino-Japanese War
+Type 91 grenade	usedInWar	Soviet–Japanese Border Wars
+Type 91 grenade	usedInWar	World War II
+Type 99 grenade	usedInWar	Second Sino-Japanese War
+Type 99 grenade	usedInWar	World War II
+76 mm regimental gun M1927	usedInWar	World War II
+BL 13.5 inch Mk V naval gun	usedInWar	World War I
+BL 13.5 inch Mk V naval gun	usedInWar	World War II
+7.5 cm L/45 M/16 anti aircraft gun	usedInWar	World War II
+RM-70 multiple rocket launcher	usedInWar	2008 South Ossetia war
+RM-70 multiple rocket launcher	usedInWar	Sri Lankan Civil War
+7.5 cm L/45 M/32 anti aircraft gun	usedInWar	World War II
+MK 101 cannon	usedInWar	World War II
+Ordnance QF 13 pounder	usedInWar	World War I
+Ordnance QF 13 pounder	usedInWar	Easter Rising
+Ordnance QF 13 pounder	usedInWar	World War II
+Net cutter (fisheries patrol)	usedInWar	Cod Wars
+M1117 Armored Security Vehicle	usedInWar	Operation Enduring Freedom
+M1117 Armored Security Vehicle	usedInWar	Iraq War
+76 mm regimental gun M1943	usedInWar	World War II
+Type 62	usedInWar	Type 62#Combat History
+Schwerer Wehrmachtschlepper	usedInWar	World War II
+BM-14	usedInWar	Algerian Civil War
+BM-14	usedInWar	War in Afghanistan (2001–present)
+Clansman	usedInWar	Falklands War
+Clansman	usedInWar	Gulf War
+Granatwerfer 42	usedInWar	World War II
+AIFV	usedInWar	Yugoslav Wars
+AIFV	usedInWar	War in Afghanistan (2001–present)
+RAAD (missile family)	usedInWar	2006 Lebanon War
+Springfield Model 1865	usedInWar	American Indian Wars
+Springfield Model 1866	usedInWar	Red Cloud's War
+Springfield Model 1866	usedInWar	American Indian Wars
+Springfield Model 1868	usedInWar	American Indian Wars
+Beaumont-Adams Revolver	usedInWar	Anglo-Zulu War
+Beaumont-Adams Revolver	usedInWar	First Boer War
+Beaumont-Adams Revolver	usedInWar	British Empire
+Beaumont-Adams Revolver	usedInWar	Royal Canadian Mounted Police
+Tellermine 29	usedInWar	World War II
+Maxim M/32-33	usedInWar	World War II
+Maxim M/32-33	usedInWar	Continuation War
+SO-152	usedInWar	Soviet war in Afghanistan
+SO-152	usedInWar	Civil war in Tajikistan
+SO-152	usedInWar	First Chechen War
+SO-152	usedInWar	Second Chechen War
+SO-152	usedInWar	2008 South Ossetia war
+Fiat 3000	usedInWar	Slovak–Hungarian War
+15 cm sFH 18	usedInWar	World War II
+Haubits m/40	usedInWar	World War II
+Ruby pistol	usedInWar	Polish–Soviet War
+Ruby pistol	usedInWar	Polish–Lithuanian War
+Ruby pistol	usedInWar	Spanish Civil War
+Ruby pistol	usedInWar	Winter War
+Type 1 47 mm Anti-Tank Gun	usedInWar	World War II
+Type 99 mine	usedInWar	Second Sino-Japanese War
+Type 99 mine	usedInWar	World War II
+Madsen machine gun	usedInWar	Russo-Japanese War
+Madsen machine gun	usedInWar	World War I
+Madsen machine gun	usedInWar	Chaco War
+Madsen machine gun	usedInWar	World War II
+RPG-43	usedInWar	World War II
+RPG-43	usedInWar	1948 Arab–Israeli War
+RPG-43	usedInWar	Six-Day War
+RPG-43	usedInWar	Yom Kippur War
+Type 92 Battalion Gun	usedInWar	Second Sino-Japanese War
+Type 92 Battalion Gun	usedInWar	Soviet–Japanese Border Wars
+Type 92 Battalion Gun	usedInWar	World War II
+Canon de 75 modèle 1912 Schneider	usedInWar	World War I
+Canon de 75 modèle 1912 Schneider	usedInWar	Polish–Soviet War
+Canon de 75 modèle 1914 Schneider	usedInWar	World War I
+Canon de 75 modèle 1914 Schneider	usedInWar	Polish–Soviet War
+Type 1 37 mm Anti-Tank Gun	usedInWar	World War II
+Mortier de 280 modèle 1914 Schneider	usedInWar	World War I
+Mortier de 280 modèle 1914 Schneider	usedInWar	Polish–Russian War
+Mortier de 280 modèle 1914 Schneider	usedInWar	World War II
+L94A1 chain gun	usedInWar	Gulf War
+L94A1 chain gun	usedInWar	2003 invasion of Iraq
+ATF Dingo	usedInWar	War in Afghanistan (2001–present)
+Smith and Wesson Model 3	usedInWar	American Indian Wars
+Smith and Wesson Model 3	usedInWar	Russo-Turkish War (1877–1878)
+Smith and Wesson Model 3	usedInWar	North-West Rebellion
+Smith and Wesson Model 3	usedInWar	Spanish–American War
+Smith and Wesson Model 3	usedInWar	Philippine–American War
+SdKfz 4	usedInWar	World War II
+M88 Recovery Vehicle	usedInWar	Arab–Israeli conflict
+M88 Recovery Vehicle	usedInWar	Vietnam War
+M88 Recovery Vehicle	usedInWar	Gulf War
+M88 Recovery Vehicle	usedInWar	Kosovo War
+M88 Recovery Vehicle	usedInWar	Iraq War
+L3/35	usedInWar	Austrian Civil War
+L3/35	usedInWar	Second Sino-Japanese War
+L3/35	usedInWar	Second Italo-Abyssinian War
+L3/35	usedInWar	Spanish Civil War
+L3/35	usedInWar	Slovak–Hungarian War
+L3/35	usedInWar	Italian invasion of Albania
+L3/35	usedInWar	Anglo-Iraqi War
+L3/35	usedInWar	World War II
+Aerial torpedo	usedInWar	World War I
+Aerial torpedo	usedInWar	World War II
+Aerial torpedo	usedInWar	Korean War
+Semovente 47/32	usedInWar	World War II
+M2 mortar	usedInWar	World War II
+M2 mortar	usedInWar	Korean War
+M2 mortar	usedInWar	Vietnam War
+37 mm automatic air defense gun M1939 (61-K)	usedInWar	World War II
+37 mm automatic air defense gun M1939 (61-K)	usedInWar	Vietnam War
+37 mm automatic air defense gun M1939 (61-K)	usedInWar	Cambodian Civil War
+37 mm automatic air defense gun M1939 (61-K)	usedInWar	Cambodian–Vietnamese War
+L16 81mm Mortar	usedInWar	Falklands War
+Lince (armored car)	usedInWar	World War II
+SU-100Y Self-Propelled Gun	usedInWar	World War II
+Semovente 75/34	usedInWar	World War II
+Semovente 90/53	usedInWar	World War II
+10.5 cm FlaK 38	usedInWar	World War II
+Semovente 105/25	usedInWar	World War II
+T34 Calliope	usedInWar	World War II
+Ishapore 2A1 rifle	usedInWar	Sino-Indian War
+Ishapore 2A1 rifle	usedInWar	Indo-Pakistani wars and conflicts
+Daewoo Precision Industries K3	usedInWar	Operation Enduring Freedom
+Daewoo Precision Industries K3	usedInWar	Iraq War
+Daewoo Precision Industries K4	usedInWar	Operation Enduring Freedom
+Daewoo Precision Industries K4	usedInWar	Iraq War
+L3/33	usedInWar	Austrian Civil War
+L3/33	usedInWar	Second Sino-Japanese War
+L3/33	usedInWar	Second Italo-Abyssinian War
+L3/33	usedInWar	Spanish Civil War
+L3/33	usedInWar	Slovak–Hungarian War
+L3/33	usedInWar	Italian invasion of Albania
+L3/33	usedInWar	Anglo-Iraqi War
+L3/33	usedInWar	World War II
+Besa machine gun	usedInWar	World War II
+TRF1	usedInWar	Gulf War
+Sd.Kfz. 252	usedInWar	World War II
+Type 94 37 mm Anti-Tank Gun	usedInWar	Second Sino-Japanese War
+Type 94 37 mm Anti-Tank Gun	usedInWar	Soviet–Japanese Border Wars
+Type 94 37 mm Anti-Tank Gun	usedInWar	World War II
+M48 Mauser	usedInWar	Yugoslav Wars
+M3 howitzer	usedInWar	World War II
+Colt M1861 Navy	usedInWar	American Civil War
+Pattern 1861 Enfield Musketoon	usedInWar	American Civil War
+Model 1850 Army Staff & Field Officers' Sword	usedInWar	American Civil War
+Sd.Kfz. 10	usedInWar	World War II
+Kongsberg Colt	usedInWar	World War II
+M24 mine	usedInWar	Angola
+8.8 cm Pak 43	usedInWar	World War II
+Modèle 1935 pistol	usedInWar	World War II
+Modèle 1935 pistol	usedInWar	First Indochina War
+Modèle 1935 pistol	usedInWar	Algerian War
+Koksan	usedInWar	Iran–Iraq War
+10.5 cm leFH 18	usedInWar	World War II
+2.8 cm sPzB 41	usedInWar	World War II
+EMP 44	usedInWar	World War II
+McMillan Tac-50	usedInWar	War in Afghanistan (2001–present)
+Mortier 120mm Rayé Tracté Modèle F1	usedInWar	Gulf War
+Mortier 120mm Rayé Tracté Modèle F1	usedInWar	War in Afghanistan (2001–present)
+25 mm Hotchkiss anti-tank gun	usedInWar	Winter War
+25 mm Hotchkiss anti-tank gun	usedInWar	World War II
+25 mm Hotchkiss anti-aircraft gun	usedInWar	World War II
+Sd.Kfz. 11	usedInWar	World War II
+160mm Mortar M1943	usedInWar	World War II
+B-300	usedInWar	2006 Lebanon War
+Sako TRG	usedInWar	War in Afghanistan (2001–present)
+Sako TRG	usedInWar	Iraq War
+T-100 tank	usedInWar	Winter War
+Marine Scout Sniper Rifle	usedInWar	Visayas
+Marine Scout Sniper Rifle	usedInWar	Mindanao
+107 mm gun M1910	usedInWar	World War I
+107 mm gun M1910	usedInWar	Russian Civil War
+D-10 tank gun	usedInWar	SU-100
+D-10 tank gun	usedInWar	T-55#Combat history
+Gast gun	usedInWar	World War I
+Villar-Perosa aircraft submachine gun	usedInWar	World War I
+7.62 cm Pak 36(r)	usedInWar	World War II
+Ballester-Molina	usedInWar	World War II
+Ballester-Molina	usedInWar	Falklands War
+7.5 cm Pak 97/38	usedInWar	World War II
+Heckler & Koch GMG	usedInWar	War in Afghanistan (2001–present)
+4.5 inch Mark 8 naval gun	usedInWar	Falklands War
+5 cm Granatwerfer 36	usedInWar	World War II
+Type 63 (tank)	usedInWar	Type 63 light tank#Combat History
+Vz. 33	usedInWar	World War II
+TOS-1	usedInWar	Soviet war in Afghanistan
+TOS-1	usedInWar	Second Chechen War
+1.1"/75 caliber gun	usedInWar	World War II
+ASU-57	usedInWar	Six-Day War
+ASU-57	usedInWar	Ogaden War
+BL 18 inch Mk I naval gun	usedInWar	World War I
+Volkssturmgewehr 1-5	usedInWar	World War II
+38 cm SK C/34 naval gun	usedInWar	World War II
+Churchill Crocodile	usedInWar	World War II
+Beretta BM59	usedInWar	Falklands War
+Beretta BM59	usedInWar	Somali Civil War
+Remington Model 1858	usedInWar	American Civil War
+155 mm Long Tom	usedInWar	World War II
+155 mm Long Tom	usedInWar	Korean War
+Frommer Stop	usedInWar	World War I
+Frommer Stop	usedInWar	World War II
+Stokes mortar	usedInWar	World War I
+Stokes mortar	usedInWar	World War II
+Stokes mortar	usedInWar	Banana Wars
+MEU(SOC) pistol	usedInWar	Invasion of Grenada
+MEU(SOC) pistol	usedInWar	United States invasion of Panama
+MEU(SOC) pistol	usedInWar	Unified Task Force
+MEU(SOC) pistol	usedInWar	Iraq War
+MEU(SOC) pistol	usedInWar	War in Afghanistan (2001–present)
+3 inch Gun M5	usedInWar	World War II
+MGM-18 Lacrosse	usedInWar	Cold War
+Maynard Carbine	usedInWar	American Civil War
+Ford FT-B	usedInWar	Polish–Soviet War
+47 mm APX anti-tank gun	usedInWar	World War II
+Winchester 1200	usedInWar	Vietnam War
+8 cm Granatwerfer 34	usedInWar	World War II
+35M rifle	usedInWar	World War II
+35M rifle	usedInWar	Hungarian Revolution of 1956
+M6 Gun Motor Carriage	usedInWar	World War II
+Cobra (missile)	usedInWar	Six-Day War
+Cobra (missile)	usedInWar	Indo-Pakistani War of 1971
+Light Strike Vehicle	usedInWar	War on Terror
+Panhard EBR	usedInWar	Portuguese Colonial War
+Panhard EBR	usedInWar	Algerian War
+Zastava M91	usedInWar	Yugoslav Wars
+Deer gun	usedInWar	Vietnam War
+Zastava M70	usedInWar	Gulf War
+Zastava M70	usedInWar	Yugoslav Wars
+Zastava M70	usedInWar	Kosovo War
+Zastava M70	usedInWar	Operation Enduring Freedom
+Zastava M70	usedInWar	Iraq War
+Zastava M72	usedInWar	Yugoslav Wars
+Zastava M72	usedInWar	Operation Enduring Freedom
+Zastava M72	usedInWar	Iraq War
+Rolls-Royce .50 Cal Experimental Machine Gun	usedInWar	World War II
+Skoda M1909 machine gun	usedInWar	World War I
+F1 submachine gun	usedInWar	Vietnam War
+Zastava M84	usedInWar	Yugoslav Wars
+D-8 Armored Car	usedInWar	Spanish Civil War
+D-8 Armored Car	usedInWar	Winter War
+S&T Daewoo K11	usedInWar	War in Afghanistan (2001–present)
+21 cm Mörser 16	usedInWar	World War I
+21 cm Mörser 16	usedInWar	World War II
+M73 machine gun	usedInWar	Vietnam War
+S4M	usedInWar	Cold War
+Special Operations Assault Rifle	usedInWar	Philippines
+Sumitomo NTK-62	usedInWar	Cold War
+Sumitomo NTK-62	usedInWar	Iraq War
+Davidka	usedInWar	1948 Arab–Israeli War
+Hanyang 88	usedInWar	First Sino-Japanese War
+Hanyang 88	usedInWar	Boxer Rebellion
+Hanyang 88	usedInWar	Xinhai Revolution
+Hanyang 88	usedInWar	Long March
+Hanyang 88	usedInWar	Central Plains War
+Hanyang 88	usedInWar	Chinese Civil War
+Hanyang 88	usedInWar	Second Sino-Japanese War
+Hanyang 88	usedInWar	Korean War
+Ball turret	usedInWar	World War II
+MG 81 machine gun	usedInWar	World War II
+Chiang Kai-shek rifle	usedInWar	Second Sino-Japanese War
+Chiang Kai-shek rifle	usedInWar	Chinese Civil War
+Chiang Kai-shek rifle	usedInWar	Korean War
+21 cm Mörser 18	usedInWar	World War II
+Mark 14 torpedo	usedInWar	World War II
+Valuk	usedInWar	War in Afghanistan (2001–present)
+Otokar Cobra	usedInWar	2008 South Ossetia war
+Vickers .50 machine gun	usedInWar	World War II
+M1841 Mississippi Rifle	usedInWar	Seminole Wars
+M1841 Mississippi Rifle	usedInWar	Mexican-American War
+M1841 Mississippi Rifle	usedInWar	American Civil War
+7.7 cm FK 16	usedInWar	World War I
+StG 45(M)	usedInWar	World War II
+M4 cannon	usedInWar	World War II
+Beholla pistol	usedInWar	World War I
+Minié rifle	usedInWar	Crimean War
+Minié rifle	usedInWar	Indian Rebellion of 1857
+Minié rifle	usedInWar	Taiping Rebellion
+Minié rifle	usedInWar	Second Italian War of Independence
+Minié rifle	usedInWar	Austro-Prussian War
+Minié rifle	usedInWar	American Civil War
+Minié rifle	usedInWar	Boshin War
+Minié rifle	usedInWar	War of the Pacific
+Spike (missile)	usedInWar	Second Intifada
+Spike (missile)	usedInWar	2006 Lebanon War
+Spike (missile)	usedInWar	War in Afghanistan (2001–present)
+Spike (missile)	usedInWar	Gaza War
+Colt revolving rifle	usedInWar	American Civil War
+Type 60 122 mm Field Gun	usedInWar	Sino-Vietnamese War
+Type 60 122 mm Field Gun	usedInWar	Vietnam War
+Type 60 122 mm Field Gun	usedInWar	Sino–Soviet border conflict
+Type 60 122 mm Field Gun	usedInWar	Indo-Pakistani War of 1965
+Type 60 122 mm Field Gun	usedInWar	Six-Day War
+Type 60 122 mm Field Gun	usedInWar	Sino-Indian War
+Type 60 122 mm Field Gun	usedInWar	Yom Kippur War
+Type 60 122 mm Field Gun	usedInWar	Sri Lankan Civil War
+Defensive grenade wz.33	usedInWar	World War II
+Canon de 155mm GPF	usedInWar	World War I
+Canon de 155mm GPF	usedInWar	World War II
+Colt Paterson	usedInWar	Seminole Wars
+Colt Paterson	usedInWar	Texas–Indian Wars
+Colt Paterson	usedInWar	Mexican-American War
+57 mm AZP S-60	usedInWar	Vietnam War
+57 mm AZP S-60	usedInWar	Cambodian Civil War
+57 mm AZP S-60	usedInWar	Cambodian–Vietnamese War
+57 mm AZP S-60	usedInWar	Iran–Iraq War
+57 mm AZP S-60	usedInWar	Gulf War
+57 mm AZP S-60	usedInWar	2003 invasion of Iraq
+M2 4.2 inch mortar	usedInWar	World War II
+M2 4.2 inch mortar	usedInWar	Korean War
+M25 sniper rifle	usedInWar	Gulf War
+SWARM	usedInWar	Iraq War
+SWARM	usedInWar	Afghanistan
+FBP submachine gun	usedInWar	Portuguese Colonial War
+ADGZ	usedInWar	World War II
+Sturer Emil	usedInWar	World War II
+152 mm towed gun-howitzer M1955 (D-20)	usedInWar	Vietnam War
+152 mm towed gun-howitzer M1955 (D-20)	usedInWar	Six-Day War
+152 mm towed gun-howitzer M1955 (D-20)	usedInWar	Yom Kippur War
+152 mm towed gun-howitzer M1955 (D-20)	usedInWar	Soviet war in Afghanistan
+13.2 mm Hotchkiss machine gun	usedInWar	World War II
+240 mm howitzer M1	usedInWar	World War II
+240 mm howitzer M1	usedInWar	Korean War
+Plasan Sand Cat	usedInWar	War in Afghanistan (2001–present)
+Whitworth rifle	usedInWar	American Civil War
+International MaxxPro	usedInWar	Iraq War
+Burnside carbine	usedInWar	American Civil War
+Norinco CQ	usedInWar	Soviet war in Afghanistan
+M1879 Reichsrevolver	usedInWar	German colonial empire
+M1879 Reichsrevolver	usedInWar	Boxer Rebellion
+M1879 Reichsrevolver	usedInWar	World War I
+M1879 Reichsrevolver	usedInWar	World War II
+16"/50 caliber M1919 gun	usedInWar	World War II
+Type 41 75 mm Cavalry Gun	usedInWar	World War I
+Type 41 75 mm Cavalry Gun	usedInWar	Second Sino-Japanese War
+Type 41 75 mm Cavalry Gun	usedInWar	World War II
+GShG-7.62 machine gun	usedInWar	Cold War
+QF 4.5 inch Howitzer	usedInWar	World War I
+QF 4.5 inch Howitzer	usedInWar	World War II
+Newton 6 inch Mortar	usedInWar	World War I
+Type 45 240 mm howitzer	usedInWar	World War I
+Type 45 240 mm howitzer	usedInWar	Second Sino-Japanese War
+Type 45 240 mm howitzer	usedInWar	World War II
+Beretta AR70/90	usedInWar	War in Afghanistan (2001–present)
+Beretta AR70/90	usedInWar	Iraq War
+82-PM-41	usedInWar	World War II
+82-PM-37	usedInWar	World War II
+M75 armored personnel carrier	usedInWar	Korean War
+M59 armored personnel carrier	usedInWar	Vietnam War
+Type I Rifle	usedInWar	World War II
+KSR-2 (Russian rocket)	usedInWar	Yom Kippur War
+RPG-6	usedInWar	World War II
+ROKS flamethrowers	usedInWar	World War II
+M141 Bunker Defeat Munition	usedInWar	War in Afghanistan (2001–present)
+M141 Bunker Defeat Munition	usedInWar	Iraq War
+9.45 inch Heavy Mortar	usedInWar	World War I
+M39 Pantserwagen	usedInWar	World War II
+Samochód pancerny wz. 34	usedInWar	Invasion of Poland
+Krupp Protze	usedInWar	World War II
+12.8 cm Pak 44	usedInWar	World War II
+8 cm PAW 600	usedInWar	World War II
+Charioteer tank destroyer	usedInWar	1978 South Lebanon conflict
+Charioteer tank destroyer	usedInWar	Lebanese Civil War
+BL 8 inch Howitzer Mk I – V	usedInWar	World War I
+Campo Giro	usedInWar	Rif War
+Infanteriegewehr Modell 1842	usedInWar	Sonderbund War
+Breda M37	usedInWar	World War II
+Breda M37	usedInWar	Portuguese Colonial War
+Landsverk L180, L181 and L182	usedInWar	World War II
+Mondragón rifle	usedInWar	Mexican Revolution
+Mondragón rifle	usedInWar	World War I
+Mondragón rifle	usedInWar	Second Sino-Japanese War
+Mondragón rifle	usedInWar	World War II
+Mondragón rifle	usedInWar	Ecuadorian–Peruvian War
+Mondragón rifle	usedInWar	Chinese Civil War
+Mondragón rifle	usedInWar	Korean War
+Mondragón rifle	usedInWar	Vietnam War
+Bedford QLD	usedInWar	World War II
+RPG-40	usedInWar	World War II
+6 inch 30 cwt howitzer	usedInWar	Second Boer War
+6 inch 30 cwt howitzer	usedInWar	World War I
+QF 13 pounder 9 cwt	usedInWar	World War I
+BL 6 inch Mk VII naval gun	usedInWar	World War I
+BL 6 inch Mk VII naval gun	usedInWar	World War II
+QF 2.95 inch Mountain Gun	usedInWar	World War I
+QF 2.95 inch Mountain Gun	usedInWar	World War II
+M4 Tractor	usedInWar	World War II
+M5 Tractor	usedInWar	World War II
+QF 4.7 inch Gun Mk I–IV	usedInWar	Second Boer War
+QF 4.7 inch Gun Mk I–IV	usedInWar	World War I
+FMK-3 submachine gun	usedInWar	Falklands War
+17 cm Kanone 18	usedInWar	World War II
+15 cm Kanone 18	usedInWar	World War II
+240 mm Trench Mortar	usedInWar	World War I
+Canon de 155 C modèle 1917 Schneider	usedInWar	World War I
+Canon de 155 C modèle 1917 Schneider	usedInWar	Winter War
+Canon de 155 C modèle 1917 Schneider	usedInWar	World War II
+8 inch Gun M1	usedInWar	World War II
+Bravia Chaimite	usedInWar	Portuguese Colonial War
+Bravia Chaimite	usedInWar	Lebanese Civil War
+M116 howitzer	usedInWar	World War II
+M116 howitzer	usedInWar	Korean War
+M116 howitzer	usedInWar	Chinese Civil War
+M116 howitzer	usedInWar	First Indochina War
+M116 howitzer	usedInWar	Vietnam War
+M116 howitzer	usedInWar	Turkey – Kurdistan Workers' Party conflict
+Komatsu LAV	usedInWar	Iraq War
+BL 5 inch Howitzer	usedInWar	Mahdist War
+BL 5 inch Howitzer	usedInWar	Second Boer War
+BL 5 inch Howitzer	usedInWar	World War I
+Ordnance BLC 15 pounder	usedInWar	World War I
+Ordnance QF 15 pounder	usedInWar	World War I
+BL 9.2 inch Howitzer	usedInWar	World War I
+BL 9.2 inch Howitzer	usedInWar	World War II
+BL 12 inch railway howitzer	usedInWar	World War I
+BL 10 pounder Mountain Gun	usedInWar	World War I
+T13 Beano Grenade	usedInWar	World War II
+BL 9.2 inch Railway Gun	usedInWar	World War I
+BL 12 inch Railway Gun	usedInWar	World War I
+BL 12 inch Howitzer	usedInWar	World War I
+BL 12 inch Howitzer	usedInWar	World War II
+Breda Model 35	usedInWar	Spanish Civil War
+Breda Model 35	usedInWar	World War II
+BL 6 inch Gun Mk XIX	usedInWar	World War I
+BL 6 inch Gun Mk XIX	usedInWar	World War II
+Canon de 138 mm Modèle 1927	usedInWar	World War II
+380 mm/45 Modèle 1935 gun	usedInWar	World War II
+380 mm/45 Modèle 1935 gun	usedInWar	Suez Crisis
+QF 3 inch 20 cwt	usedInWar	World War I
+Type 4 grenade	usedInWar	World War II
+SMK tank	usedInWar	Winter War
+PM-38	usedInWar	World War II
+210 mm gun M1939 (Br-17)	usedInWar	World War II
+Mortier de 58 mm type 2	usedInWar	World War I
+Vijayanta	usedInWar	Indo-Pakistani War of 1971
+OT-64 SKOT	usedInWar	OT-64 SKOT#Service history
+QF 12 pounder 12 cwt AA gun	usedInWar	World War I
+QF 12 pounder 12 cwt AA gun	usedInWar	World War II
+Jeffery armored car	usedInWar	Pancho Villa Expedition
+Ordnance BL 15 pounder	usedInWar	Second Boer War
+Ordnance BL 15 pounder	usedInWar	World War I
+QF 13 pounder 6 cwt AA gun	usedInWar	World War I
+QF 13 pounder Mk IV AA gun	usedInWar	World War I
+Ordnance QF 12 pounder 8 cwt	usedInWar	Second Boer War
+Ordnance QF 12 pounder 8 cwt	usedInWar	World War I
+RML 2.5 inch Mountain Gun	usedInWar	Second Boer War
+RML 2.5 inch Mountain Gun	usedInWar	World War I
+RML 7 pounder Mountain Gun	usedInWar	Anglo-Zulu War
+RML 7 pounder Mountain Gun	usedInWar	First Boer War
+RML 7 pounder Mountain Gun	usedInWar	Second Boer War
+Ordnance BL 12 pounder 6 cwt	usedInWar	Second Boer War
+Ordnance BL 12 pounder 6 cwt	usedInWar	World War I
+Canon de 305 mm Modèle 1893/96 gun	usedInWar	World War I
+340mm/45 Modèle 1912 gun	usedInWar	World War I
+340mm/45 Modèle 1912 gun	usedInWar	World War II
+BL 5.4 inch Howitzer	usedInWar	Second Boer War
+BL 5.4 inch Howitzer	usedInWar	World War I
+305mm/45 Modèle 1906 gun	usedInWar	World War I
+330mm/50 Modèle 1931 gun	usedInWar	World War II
+240mm/50 Modèle 1902 gun	usedInWar	World War I
+240mm/50 Modèle 1902 gun	usedInWar	World War II
+203mm/55 Modèle 1931 gun	usedInWar	World War II
+203mm/50 Modèle 1924 gun	usedInWar	World War II
+7.5 cm Leichtgeschütz 40	usedInWar	World War II
+10.5 cm Leichtgeschütz 42	usedInWar	World War II
+10.5 cm Leichtgeschütz 40	usedInWar	World War II
+10.5 cm leFH 18M	usedInWar	World War II
+10.5 cm leFH 18/40	usedInWar	World War II
+7.5 cm FK 16 nA	usedInWar	World War II
+7.5 cm FK 38	usedInWar	World War II
+7.5 cm FK 7M85	usedInWar	World War II
+10.5 cm leFH 16	usedInWar	World War I
+10.5 cm leFH 16	usedInWar	World War II
+8 cm FK M. 17	usedInWar	World War I
+8 cm FK M. 17	usedInWar	World War II
+15 cm sFH 13	usedInWar	World War I
+15 cm sFH 13	usedInWar	World War II
+10 cm K 17	usedInWar	World War I
+10 cm K 17	usedInWar	World War II
+RPD	usedInWar	World War II
+RPD	usedInWar	Vietnam War
+RPD	usedInWar	Laotian Civil War
+RPD	usedInWar	Cambodian Civil War
+RPD	usedInWar	Cambodian–Vietnamese War
+RPD	usedInWar	Iran–Iraq War
+RPD	usedInWar	Gulf War
+RPD	usedInWar	War in Afghanistan (2001–present)
+RPD	usedInWar	Iraq War
+RPD	usedInWar	Cambodian–Thai border dispute
+RPD	usedInWar	Africa
+RPD	usedInWar	Asia
+Canon de 105 L mle 1936 Schneider	usedInWar	World War II
+5"/54 caliber Mark 42 gun	usedInWar	Vietnam War
+10 cm schwere Kanone 18	usedInWar	World War II
+21 cm Mörser 10	usedInWar	World War I
+BK 5 cannon	usedInWar	World War II
+AKM	usedInWar	Vietnam War
+AKM	usedInWar	Portuguese Colonial War
+AKM	usedInWar	Cambodian Civil War
+AKM	usedInWar	Cambodian–Vietnamese War
+AKM	usedInWar	Soviet war in Afghanistan
+AKM	usedInWar	Iran–Iraq War
+AKM	usedInWar	First Chechen War
+AKM	usedInWar	Iraq War
+AKM	usedInWar	War in Afghanistan (2001–present)
+AKM	usedInWar	Cambodian–Thai border dispute
+AKM	usedInWar	The Troubles
+AKM	usedInWar	Somali Civil War
+AKM	usedInWar	Mexican Drug War
+Fiat-Revelli Modello 1935	usedInWar	World War II
+VB-6 Felix	usedInWar	World War II
+McDonnell LBD Gargoyle	usedInWar	World War II
+GB-4	usedInWar	World War II
+GB-8	usedInWar	World War II
+TM-72 mine	usedInWar	Soviet war in Afghanistan
+Smith & Wesson M76	usedInWar	Vietnam War
+Fliegerfaust	usedInWar	World War II
+FÉG 37M Pistol	usedInWar	World War II
+FÉG 37M Pistol	usedInWar	Slovak–Hungarian War
+ABM-1 Galosh	usedInWar	Cold War
+QF 6 inch /40 naval gun	usedInWar	Russo-Japanese War
+QF 6 inch /40 naval gun	usedInWar	World War I
+QF 12 pounder 12 cwt naval gun	usedInWar	Second Boer War
+QF 12 pounder 12 cwt naval gun	usedInWar	Boxer Rebellion
+QF 12 pounder 12 cwt naval gun	usedInWar	Russo-Japanese War
+QF 12 pounder 12 cwt naval gun	usedInWar	World War I
+QF 12 pounder 12 cwt naval gun	usedInWar	World War II
+QF 6 pounder Hotchkiss	usedInWar	Sino-French War
+QF 6 pounder Hotchkiss	usedInWar	Third Anglo-Burmese War
+QF 6 pounder Hotchkiss	usedInWar	First Sino-Japanese War
+QF 6 pounder Hotchkiss	usedInWar	Russo-Japanese War
+QF 6 pounder Hotchkiss	usedInWar	World War I
+QF 6 pounder Hotchkiss	usedInWar	Russian Civil War
+QF 6 pounder Hotchkiss	usedInWar	Second Sino-Japanese War
+QF 6 pounder Hotchkiss	usedInWar	World War II
+QF 6 pounder Hotchkiss	usedInWar	Cod Wars
+QF 6 pounder 6 cwt Hotchkiss	usedInWar	World War I
+M75 grenade launcher	usedInWar	Vietnam War
+Armstrong Whitworth 12 inch /40 naval gun	usedInWar	Russo-Japanese War
+Armstrong Whitworth 12 inch /40 naval gun	usedInWar	World War I
+QF 12 pounder 18 cwt naval gun	usedInWar	World War I
+Brandt mle 27/31	usedInWar	World War II
+Vickers 10 inch /45 naval gun	usedInWar	World War I
+Mauser-Vergueiro	usedInWar	World War I
+Borz	usedInWar	First Chechen War
+BL 14 inch Railway Gun	usedInWar	World War I
+Mark V Composite tank in Estonian service	usedInWar	Estonian War of Independence
+Renault FT-17 (EST)	usedInWar	Estonian War of Independence
+7.5 cm Pak 41	usedInWar	World War II
+Type 89 15 cm Cannon	usedInWar	Second Sino-Japanese War
+Type 89 15 cm Cannon	usedInWar	World War II
+OVP (firearm)	usedInWar	World War II
+OA vz. 27	usedInWar	World War II
+BT-43	usedInWar	World War II
+TACAM R-2	usedInWar	World War II
+Light Tank V4	usedInWar	World War II
+TZ-45	usedInWar	World War II
+Type 97 Motorcycle	usedInWar	World War II
+Type 97 Motorcycle	usedInWar	Second Sino-Japanese War
+Gebirgsflak 38	usedInWar	World War II
+Breda 38	usedInWar	World War II
+FUG	usedInWar	FUG#Service history
+M85 machine gun	usedInWar	Gulf War
+M85 machine gun	usedInWar	Gulf War
+75 mm Gun M1917	usedInWar	World War II
+75 mm Gun M1917	usedInWar	Continuation War
+4"/50 caliber gun	usedInWar	World War I
+5"/51 caliber gun	usedInWar	World War II
+Panzerwurfkanone 10H64	usedInWar	World War II
+5"/25 caliber gun (United States)	usedInWar	World War II
+AK-63	usedInWar	Iran–Iraq War
+AK-63	usedInWar	Salvadoran Civil War
+AK-63	usedInWar	Gulf War
+AK-63	usedInWar	Croatian War of Independence
+AK-63	usedInWar	2011 Libyan civil war
+QF 4 inch Mk V naval gun	usedInWar	World War I
+QF 4 inch Mk V naval gun	usedInWar	World War II
+OT-62 TOPAS	usedInWar	OT-62 TOPAS#Service history
+Richmond Rifle	usedInWar	American Civil War
+5"/54 caliber Mark 16 gun	usedInWar	World War II
+Mk 1 Underwater Defense Gun	usedInWar	Cold War
+Mk 1 Underwater Defense Gun	usedInWar	Falklands War
+Baby Browning	usedInWar	World War II
+Baby Browning	usedInWar	Vietnam War
+Tarasnice	usedInWar	Vietnam War
+FN FNC	usedInWar	Indonesia
+FN FNC	usedInWar	2007 Lebanon conflict
+FN FNC	usedInWar	Conflict in the Niger Delta
+QF 1 pounder pom-pom	usedInWar	Second Boer War
+QF 1 pounder pom-pom	usedInWar	World War I
+T-155 Fırtına	usedInWar	2008 Turkish incursion into northern Iraq
+3-inch M1902 field gun	usedInWar	World War I
+BSA Welgun	usedInWar	World War II
+Überlandwagen	usedInWar	World War I
+QF 14 pounder Maxim-Nordenfelt naval gun	usedInWar	World War I
+Berthier rifle	usedInWar	Rif War
+ESTDCU	usedInWar	War in Afghanistan (2001–present)
+ESTDCU	usedInWar	Iraq War
+Pecheneg machine gun	usedInWar	Second Chechen War
+QF 5.25 inch gun	usedInWar	World War II
+QF 5.25 inch gun	usedInWar	Korean War
+10 cm K 14	usedInWar	World War I
+10.5 cm Feldhaubitze 98/09	usedInWar	World War I
+10 cm M. 14 Feldhaubitze	usedInWar	World War I
+10 cm M. 14 Feldhaubitze	usedInWar	World War II
+10 cm K 04	usedInWar	World War I
+17 cm mittlerer Minenwerfer	usedInWar	World War I
+Mortier de 150 mm T Mle 1917 Fabry	usedInWar	World War I
+Mortier de 150 mm T Mle 1917 Fabry	usedInWar	World War II
+21 cm GrW 69	usedInWar	World War II
+Type 90 75 mm Field Gun	usedInWar	Second Sino-Japanese War
+Type 90 75 mm Field Gun	usedInWar	Soviet–Japanese Border Wars
+Type 90 75 mm Field Gun	usedInWar	World War II
+Kz 8 cm GrW 42	usedInWar	World War II
+10 cm Nebelwerfer 35	usedInWar	World War II
+10 cm Nebelwerfer 40	usedInWar	World War II
+20 cm leichter Ladungswerfer	usedInWar	World War II
+38 cm schwerer Ladungswerfer	usedInWar	World War II
+21 cm K 12 (E)	usedInWar	World War II
+17 cm K (E)	usedInWar	World War II
+15 cm K (E)	usedInWar	World War II
+15 cm Kanone 16	usedInWar	World War I
+15 cm Kanone 16	usedInWar	World War II
+15 cm hrubá houfnice vz. 25	usedInWar	World War II
+15 cm Kanone 39	usedInWar	World War II
+Iron Dome	usedInWar	List of Palestinian rocket attacks on Israel, 2011
+21 cm Kanone 38	usedInWar	World War II
+Canon de 105 court mle 1934 Schneider	usedInWar	World War II
+Canon de 105 court mle 1935 B	usedInWar	World War II
+24 cm Haubitze 39	usedInWar	World War II
+15 cm sFH 02	usedInWar	World War I
+F1 grenade (Australia)	usedInWar	War in Afghanistan (2001–present)
+15 cm Schiffskanone C/28 in Mörserlafette	usedInWar	World War II
+RPG-76 Komar	usedInWar	Iraq War
+RPG-76 Komar	usedInWar	War in Afghanistan (2001–present)
+24 cm Kanone 3	usedInWar	World War II
+22.5 cm Minenwerfer M 15	usedInWar	World War I
+26 cm Minenwerfer M 17	usedInWar	World War I
+14 cm Minenwerfer M 15	usedInWar	World War I
+10.5 cm Luftminenwerfer M 15	usedInWar	World War I
+15 cm Luftminenwerfer M 15 M. E.	usedInWar	World War I
+Beretta ARX 160	usedInWar	War in Afghanistan (2001–present)
+47 mm kanon P.U.V. vz. 36 (Škoda A6)	usedInWar	World War II
+8 cm FK M. 5	usedInWar	World War I
+8 cm FK M. 5	usedInWar	World War II
+18 cm kurze Kanone M 80	usedInWar	World War I
+12 cm Kanone M 80	usedInWar	World War I
+15 cm Kanone M 80	usedInWar	World War I
+24 cm Mörser M 98	usedInWar	World War I
+10 cm Feldhaubitze M 99	usedInWar	World War I
+Cannone da 70/15	usedInWar	World War I
+Cannone da 70/15	usedInWar	World War II
+M.27	usedInWar	World War II
+9 cm Feldkanone M 75/96	usedInWar	World War I
+15 cm Autokanone M. 15/16	usedInWar	World War I
+15 cm Autokanone M. 15/16	usedInWar	World War II
+15 cm schwere Feldhaubitze M. 15	usedInWar	World War I
+15 cm schwere Feldhaubitze M. 15	usedInWar	World War II
+10.4 cm Feldkanone M. 15	usedInWar	World War I
+10.4 cm Feldkanone M. 15	usedInWar	World War II
+Bofors 12 cm M. 14	usedInWar	World War II
+Canone de 120 L mle 1931	usedInWar	World War II
+12 cm felthaubits/m32	usedInWar	World War II
+Type 38 15 cm howitzer	usedInWar	World War I
+Type 38 15 cm howitzer	usedInWar	Second Sino-Japanese War
+Type 38 15 cm howitzer	usedInWar	Soviet–Japanese Border Wars
+Type 38 15 cm howitzer	usedInWar	World War II
+Type 4 15 cm howitzer	usedInWar	Second Sino-Japanese War
+Type 4 15 cm howitzer	usedInWar	Soviet–Japanese Border Wars
+Type 4 15 cm howitzer	usedInWar	World War II
+Type 4 15 cm howitzer	usedInWar	Chinese Civil War
+Type 91 10 cm Howitzer	usedInWar	Second Sino-Japanese War
+Type 91 10 cm Howitzer	usedInWar	Soviet–Japanese Border Wars
+Type 91 10 cm Howitzer	usedInWar	World War II
+Type 91 10 cm Howitzer	usedInWar	Chinese Civil War
+Type 38 10 cm Cannon	usedInWar	World War I
+Type 38 10 cm Cannon	usedInWar	Second Sino-Japanese War
+Type 38 10 cm Cannon	usedInWar	World War II
+Type 38 10 cm Cannon	usedInWar	Chinese Civil War
+Type 92 10 cm Cannon	usedInWar	Second Sino-Japanese War
+Type 92 10 cm Cannon	usedInWar	Soviet–Japanese Border Wars
+Type 92 10 cm Cannon	usedInWar	World War II
+7.7 cm FK 96	usedInWar	World War I
+9 cm Minenwerfer M 14	usedInWar	World War I
+Bofors 75 mm Model 1934	usedInWar	World War II
+Type 95 75 mm Field Gun	usedInWar	World War II
+Type 38 75 mm Field Gun	usedInWar	World War I
+Type 38 75 mm Field Gun	usedInWar	Second Sino-Japanese War
+Type 38 75 mm Field Gun	usedInWar	Soviet–Japanese Border Wars
+Type 38 75 mm Field Gun	usedInWar	World War II
+Skoda Model 1928 Gun	usedInWar	World War II
+15 cm schwere Feldhaubitze M 14	usedInWar	World War I
+15 cm schwere Feldhaubitze M 14	usedInWar	World War II
+Rheinmetall 12 cm leFH 08	usedInWar	World War II
+Cannone da 149/35 A	usedInWar	World War I
+Cannone da 149/35 A	usedInWar	World War II
+Cannone da 152/45	usedInWar	World War I
+Cannone da 152/45	usedInWar	World War II
+Obice da 149/19 modello 37	usedInWar	World War II
+Mortaio da 210/8 D.S.	usedInWar	World War I
+Mortaio da 210/8 D.S.	usedInWar	Polish–Soviet War
+Mortaio da 210/8 D.S.	usedInWar	World War II
+Canon de 75 mle TR	usedInWar	World War I
+Canon de 75 mle TR	usedInWar	World War II
+Canon de 75 mle GP11	usedInWar	World War II
+BLU-114/B "Soft-Bomb"	usedInWar	Serbia
+8 cm FK M 18	usedInWar	World War I
+8 cm FK M 18	usedInWar	World War II
+Canon de 75 modèle 1905 Schneider	usedInWar	Balkan Wars
+Canon de 75 modèle 1905 Schneider	usedInWar	World War I
+Canon de 75 modèle 1905 Schneider	usedInWar	World War II
+Canon de 75 modèle 1922 Schneider	usedInWar	World War II
+Canon de 85 modèle 1927 Schneider	usedInWar	World War II
+Canon de 105 modèle 1925/27 Schneider	usedInWar	World War II
+Canon de 105 modèle 1930 Schneider	usedInWar	World War II
+Ehrhardt 7.5 cm Model 1901	usedInWar	Winter War
+Ehrhardt 7.5 cm Model 1901	usedInWar	World War II
+Ehrhardt 7.5 cm Model 1901	usedInWar	Continuation War
+Krupp 7.5 cm Model 1903	usedInWar	World War I
+Krupp 7.5 cm Model 1903	usedInWar	World War II
+Krupp 7.5 cm Model 1903  modified 7-velt   1	usedInWar	World War II
+10.5 cm Feldhaubitze M.12	usedInWar	World War I
+Cannone da 75/27 modello 06	usedInWar	World War I
+Cannone da 75/27 modello 06	usedInWar	World War II
+Tarpley carbine	usedInWar	American Civil War
+Obice da 105/14	usedInWar	World War II
+10.5 cm Howitzer Model 1924	usedInWar	World War II
+10.5 cm Cannon Model 1927	usedInWar	World War II
+10.5 cm kanon m/34	usedInWar	Winter War
+10.5 cm kanon m/34	usedInWar	Continuation War
+13.5 cm K 09	usedInWar	World War I
+15 cm L/40 Feldkanone i.R.	usedInWar	World War I
+38 cm Belagerungshaubitze M 16	usedInWar	World War I
+42 cm Haubitze M. 14/16	usedInWar	World War I
+42 cm Haubitze M. 14/16	usedInWar	World War II
+24 cm Kanone M. 16	usedInWar	World War I
+24 cm Kanone M. 16	usedInWar	World War II
+7 cm Gebirgsgeschütz M 99	usedInWar	World War I
+10 cm Gebirgshaubitze M 99	usedInWar	World War I
+10 cm Gebirgshaubitze M 8	usedInWar	World War I
+21 cm Mörser M. 16/18	usedInWar	World War I
+21 cm Mörser M. 16/18	usedInWar	World War II
+12 cm Minenwerfer M 15	usedInWar	World War I
+8 cm Luftminenwerfer M 15	usedInWar	World War I
+15 cm schwere Feldhaubitze M 94	usedInWar	World War I
+15 cm Mörser M 80	usedInWar	World War I
+8 cm Feldkanone M. 99	usedInWar	World War I
+QF 4 inch Mk XVI naval gun	usedInWar	World War II
+QF 4 inch Mk XVI naval gun	usedInWar	Korean War
+RBL 12 pounder 8 cwt Armstrong gun	usedInWar	New Zealand land wars
+RBL 12 pounder 8 cwt Armstrong gun	usedInWar	Second Opium War
+Ehrhardt 7.5 cm Model 1904	usedInWar	World War I
+7.62 cm Infanteriegeschütz L/16.5	usedInWar	World War I
+7.7 cm Infanteriegeschütz L/20	usedInWar	World War I
+7.7 cm Infanteriegeschütz L/27	usedInWar	World War I
+3"/23 caliber gun	usedInWar	World War I
+7.5 cm Gebirgsgeschütz 36	usedInWar	World War II
+Granatnik wz.36	usedInWar	World War II
+10.5 cm Gebirgshaubitze 40	usedInWar	World War II
+Canon de 194 mle GPF	usedInWar	World War I
+Canon de 194 mle GPF	usedInWar	World War II
+24 cm SK L/30 "Theodor Otto"	usedInWar	World War I
+42 cm Gamma Mörser	usedInWar	World War II
+Strv L-60	usedInWar	World War II
+15 cm SK L/45	usedInWar	World War I
+15 cm SK L/45	usedInWar	World War II
+BL 12 inch naval gun Mk VIII	usedInWar	World War I
+D-74 122 mm Field Gun	usedInWar	Sino-Vietnamese War
+D-74 122 mm Field Gun	usedInWar	Vietnam War
+D-74 122 mm Field Gun	usedInWar	Sino–Soviet border conflict
+D-74 122 mm Field Gun	usedInWar	Indo-Pakistani War of 1965
+D-74 122 mm Field Gun	usedInWar	Six-Day War
+D-74 122 mm Field Gun	usedInWar	Sino-Indian War
+D-74 122 mm Field Gun	usedInWar	Yom Kippur War
+D-74 122 mm Field Gun	usedInWar	Lebanese Civil War
+D-74 122 mm Field Gun	usedInWar	Sri Lankan Civil War
+BL 9.2 inch gun Mk I – VII	usedInWar	World War I
+M3 Amphibious Rig	usedInWar	2003 invasion of Iraq
+QF 4 inch naval gun Mk I – III	usedInWar	World War I
+QF 4 inch naval gun Mk IV, XII, XXII	usedInWar	World War I
+QF 4 inch naval gun Mk IV, XII, XXII	usedInWar	World War II
+M39 Enhanced Marksman Rifle	usedInWar	Iraq War
+M39 Enhanced Marksman Rifle	usedInWar	War in Afghanistan (2001–present)
+Colt New Service	usedInWar	Spanish–American War
+Colt New Service	usedInWar	Boxer Rebellion
+Colt New Service	usedInWar	Second Boer War
+Colt New Service	usedInWar	World War I
+Colt New Service	usedInWar	World War II
+Colt New Service	usedInWar	Korean War
+Colt New Service	usedInWar	Vietnam War
+14"/45 caliber gun	usedInWar	World War I
+14"/45 caliber gun	usedInWar	World War II
+Arsenal submachine gun	usedInWar	Spanish Civil War
+Solothurn-Arsenal	usedInWar	World War II
+RML 6.3 inch Howitzer	usedInWar	Second Boer War
+Type 4 40 cm Rocket Launcher	usedInWar	World War II
+LLR 81mm	usedInWar	War in Afghanistan (2001–present)
+M578 Light Recovery Vehicle	usedInWar	Vietnam War
+M25 Tank Transporter	usedInWar	World War II
+BL 5 inch gun Mk I – V	usedInWar	Second Boer War
+Tiny Tim (rocket)	usedInWar	World War II
+Tiny Tim (rocket)	usedInWar	Korean War
+St. Étienne Mle 1907	usedInWar	World War I
+St. Étienne Mle 1907	usedInWar	World War II
+Canon obusier de 12	usedInWar	Crimean War
+Canon obusier de 12	usedInWar	American Civil War
+BL 18 inch railway howitzer	usedInWar	World War II
+Canon de 12 Gribeauval	usedInWar	French Revolutionary Wars
+Canon de 12 Gribeauval	usedInWar	Napoleonic Wars
+Canon de 12 Gribeauval	usedInWar	American Revolutionary War
+Canon de 8 Gribeauval	usedInWar	French Revolutionary Wars
+Obusier de 6 pouces Gribeauval	usedInWar	French Revolutionary Wars
+M6 Tractor	usedInWar	World War II
+Canon de 16 Gribeauval	usedInWar	French Revolutionary Wars
+Canon de 16 Gribeauval	usedInWar	Napoleonic Wars
+Canon de 24 Gribeauval	usedInWar	French Revolutionary Wars
+Canon de 24 Gribeauval	usedInWar	Napoleonic Wars
+37mm Spade Mortar	usedInWar	Winter War
+37mm Spade Mortar	usedInWar	World War II
+RBL 40 pounder Armstrong gun	usedInWar	New Zealand land wars
+RBL 40 pounder Armstrong gun	usedInWar	Bombardment of Kagoshima
+Mortier de 12 Gribeauval	usedInWar	French Revolutionary Wars
+Mortier de 12 Gribeauval	usedInWar	Napoleonic Wars
+Mortier de 12 Gribeauval	usedInWar	American Revolutionary War
+Canon lourd de 12 Gribeauval	usedInWar	French Revolutionary Wars
+Canon lourd de 12 Gribeauval	usedInWar	Napoleonic Wars
+Canon lourd de 8 Gribeauval	usedInWar	French Revolutionary Wars
+Canon lourd de 8 Gribeauval	usedInWar	Napoleonic Wars
+BL 6 inch Mk XI naval gun	usedInWar	World War I
+BL 12 inch Mk X naval gun	usedInWar	World War I
+BL 6 inch Mk XII naval gun	usedInWar	World War I
+BL 9.2 inch Mk XI naval gun	usedInWar	World War I
+Type II machine pistol	usedInWar	Second Sino-Japanese War
+Type II machine pistol	usedInWar	World War II
+Type 3 120 mm 45 caliber naval gun	usedInWar	World War I
+Type 3 120 mm 45 caliber naval gun	usedInWar	World War II
+BL 12 inch Mk XI – XII naval gun	usedInWar	World War I
+BL 7.5 inch Mk II – V naval gun	usedInWar	World War I
+BL 4 inch Mk IX naval gun	usedInWar	World War I
+BL 4 inch Mk IX naval gun	usedInWar	World War II
+Canon de 6 système An XI	usedInWar	Napoleonic Wars
+Springfield Model 1835	usedInWar	Mexican-American War
+Springfield Model 1835	usedInWar	American Civil War
+FNAB-43	usedInWar	World War II
+320 mm Type 98 mortar	usedInWar	World War II
+BL 7.5 inch Naval Howitzer	usedInWar	World War I
+BL 4.7 inch /45 naval gun	usedInWar	World War I
+Winchester Model 1910	usedInWar	World War I
+12"/50 caliber Mark 8 gun	usedInWar	World War II
+ENERGA anti-tank rifle grenade	usedInWar	Korean War
+ENERGA anti-tank rifle grenade	usedInWar	South African Border War
+EOC 14 inch /45 naval gun	usedInWar	World War I
+EOC 12 inch/45 naval gun	usedInWar	World War I
+EOC 10 inch /45 naval gun	usedInWar	World War I
+Winchester Model 1907	usedInWar	World War I
+K pattern flamethrower	usedInWar	World War II
+K pattern flamethrower	usedInWar	Warsaw Uprising
+M3 submachine gun	usedInWar	World War II
+M3 submachine gun	usedInWar	Chinese Civil War
+M3 submachine gun	usedInWar	Korean War
+M3 submachine gun	usedInWar	Bay of Pigs Invasion
+M3 submachine gun	usedInWar	Vietnam War
+M3 submachine gun	usedInWar	Dirty War
+M3 submachine gun	usedInWar	Falklands War
+C14 Timberwolf	usedInWar	War in Afghanistan (2001–present)
+Astra 400	usedInWar	Rif War
+Astra 400	usedInWar	Spanish Civil War
+Astra 400	usedInWar	World War II
+12"/45 caliber Mark 5 gun	usedInWar	World War I
+12"/45 caliber Mark 5 gun	usedInWar	Allied intervention in the Russian Civil War
+12"/45 caliber Mark 5 gun	usedInWar	Greco-Turkish War (1919–1922)
+12"/45 caliber Mark 5 gun	usedInWar	World War II
+15 cm sIG 33 (Sf) auf Panzerkampfwagen I Ausf B	usedInWar	World War II
+Sturm-Infanteriegeschütz 33B	usedInWar	World War II
+SdKfz 265 Panzerbefehlswagen	usedInWar	World War II
+M7 grenade launcher	usedInWar	World War II
+M7 grenade launcher	usedInWar	Korean War
+Glisenti Model 1910	usedInWar	World War I
+Glisenti Model 1910	usedInWar	World War II
+Steyr M1912	usedInWar	World War I
+Steyr M1912	usedInWar	World War II
+SIG MKMS	usedInWar	World War II
+Roth-Steyr M1907	usedInWar	World War I
+Roth-Steyr M1907	usedInWar	World War II
+Bodeo Model 1889	usedInWar	World War I
+Bodeo Model 1889	usedInWar	Second Italo-Abyssinian War
+Bodeo Model 1889	usedInWar	Spanish Civil War
+Bodeo Model 1889	usedInWar	World War II
+Modèle 1892 revolver	usedInWar	World War I
+Modèle 1892 revolver	usedInWar	World War II
+MAS 1873 revolver	usedInWar	French colonial empire
+MAS 1873 revolver	usedInWar	World War I
+MAS 1873 revolver	usedInWar	World War II
+Rast-Gasser M1898	usedInWar	World War I
+Rast-Gasser M1898	usedInWar	World War II
+Erma EMP-35	usedInWar	World War II
+10.5 cm K (gp.Sfl.)	usedInWar	World War II
+M18 recoilless rifle	usedInWar	World War II
+M18 recoilless rifle	usedInWar	Korean War
+Colt M1892	usedInWar	Spanish–American War
+Colt M1892	usedInWar	Philippine–American War
+Tranter (revolver)	usedInWar	American Civil War
+Tranter (revolver)	usedInWar	Anglo-Zulu War
+Tranter (revolver)	usedInWar	British Empire
+Pz.Sfl. II	usedInWar	World War II
+14"/50 caliber railway gun	usedInWar	World War I
+Otokar Akrep	usedInWar	Turkey – Kurdistan Workers' Party conflict
+Vickers 14 inch/45 naval gun	usedInWar	World War II
+Peugeot Armored Car	usedInWar	World War I
+M30 Luftwaffe drilling	usedInWar	World War II
+Lorenz Rifle	usedInWar	American Civil War
+Lorenz Rifle	usedInWar	Second Italian War of Independence
+Lorenz Rifle	usedInWar	Austro-Prussian War
+SIG 33 Self-Propelled Artillery	usedInWar	World War II
+M4 Survival Rifle	usedInWar	World War II
+Canon de 138 mm Modèle 1910 Naval gun	usedInWar	World War I
+Canon de 138 mm Modèle 1910 Naval gun	usedInWar	World War II
+M249 light machine gun	usedInWar	United States invasion of Panama
+M249 light machine gun	usedInWar	Gulf War
+M249 light machine gun	usedInWar	Unified Task Force
+M249 light machine gun	usedInWar	Bosnian War
+M249 light machine gun	usedInWar	Kosovo War
+M249 light machine gun	usedInWar	War in Afghanistan (2001–present)
+M249 light machine gun	usedInWar	Iraq War
+17 cm SK L/40 i.R.L. auf Eisenbahnwagen	usedInWar	World War I
+24 cm SK L/40 "Theodor Karl"	usedInWar	World War I
+24 cm SK L/40 "Theodor Karl"	usedInWar	World War II
+21 cm SK "Peter Adalbert"	usedInWar	World War I
+28 cm SK L/40 "Bruno"	usedInWar	World War I
+28 cm SK L/40 "Bruno"	usedInWar	World War II
+28 cm K L/40 "Kurfürst"	usedInWar	World War I
+24 cm Theodor Kanone (E)	usedInWar	World War II
+24 cm Theodor Bruno Kanone (E)	usedInWar	World War II
+20.3 cm K (E)	usedInWar	World War II
+Obusier de 520 modèle 1916	usedInWar	World War II
+28 cm schwere Bruno Kanone (E)	usedInWar	World War II
+38 cm SK L/45 "Max"	usedInWar	World War I
+38 cm Siegfried K (E)	usedInWar	World War II
+21 cm Nebelwerfer 42	usedInWar	World War II
+28/32 cm Nebelwerfer 41	usedInWar	World War II
+30 cm Nebelwerfer 42	usedInWar	World War II
+30 cm Raketenwerfer 56	usedInWar	World War II
+35.5 cm Haubitze M1	usedInWar	World War II
+Sd.Kfz. 9	usedInWar	World War II
+Sd.Kfz. 8	usedInWar	World War II
+Sd.Kfz. 247	usedInWar	World War II
+21 cm Kanone 39	usedInWar	World War II
+LT vz. 34	usedInWar	Slovak National Uprising
+Tančík vz. 33	usedInWar	Slovak National Uprising
+AH-IV	usedInWar	World War II
+AH-IV	usedInWar	Eritrean War of Independence
+AH-IV	usedInWar	Ethiopian Civil War
+AH-IV	usedInWar	Ogaden War
+AH-IV	usedInWar	1982 Ethiopian–Somali Border War
+OQF 3 pounder gun	usedInWar	World War II
+OA vz. 30	usedInWar	World War II
+75 mm Reşiţa Model 1943	usedInWar	World War II
+TACAM T-60	usedInWar	World War II
+Vickers Model 1931	usedInWar	World War II
+Frot-Laffly landship	usedInWar	World War I
+Namer	usedInWar	Gaza War
+Boirault machine	usedInWar	World War I
+Boirault machine  No2   1	usedInWar	World War I
+28 cm Haubitze L/12	usedInWar	World War I
+28 cm Haubitze L/12	usedInWar	World War II
+Canon de 155 C modèle 1915 St. Chamond	usedInWar	World War I
+Canon de 155 C modèle 1915 St. Chamond	usedInWar	World War II
+8 cm minomet vz. 36	usedInWar	World War II
+QF 4.7 inch Mk V naval gun	usedInWar	World War I
+QF 4.7 inch Mk V naval gun	usedInWar	World War II
+152 mm howitzer M1910	usedInWar	World War I
+152 mm howitzer M1910	usedInWar	Russian Civil War
+152 mm howitzer M1910	usedInWar	Polish–Russian War
+M56 Submachine gun	usedInWar	Yugoslav Wars
+Ordnance QF 25-pounder Short	usedInWar	World War II
+Pistole vz. 24	usedInWar	World War II
+Pistole vz. 22	usedInWar	World War II
+Cashuat	usedInWar	Salvadoran Civil War
+Blohm & Voss BV 143	usedInWar	World War II
+2S12 Sani	usedInWar	Soviet war in Afghanistan
+2S12 Sani	usedInWar	First Chechen War
+2S12 Sani	usedInWar	Second Chechen War
+3.7 cm SK C/30	usedInWar	World War II
+15 cm SK C/28	usedInWar	World War II
+Salvator-Dormus M1893	usedInWar	Boxer Rebellion
+JO.LO.AR.	usedInWar	Spanish Civil War
+15 cm SK C/25	usedInWar	World War II
+Canon de 138 mm Modèle 1929	usedInWar	World War II
+Canon de 164 mm Modèle 1893	usedInWar	World War I
+Mk 20 Mod 0 grenade launcher	usedInWar	Vietnam War
+SM-70	usedInWar	Cold War
+Bâton à feu	usedInWar	Hundred Years' War
+Kommando LDP	usedInWar	Rhodesian Bush War
+Cobra submachine gun	usedInWar	Rhodesian Bush War
+RBY MK 1	usedInWar	Guatemalan Civil War
+Oshkosh M-ATV	usedInWar	War in Afghanistan (2001–present)
+RML 10 inch 18 ton gun	usedInWar	Bombardment of Alexandria
+Pierrier à boîte	usedInWar	Hundred Years' War
+Lefaucheux M1858	usedInWar	American Civil War
+15 cm Nebelwerfer 41	usedInWar	World War II
+12.7 cm/50 Type 3 naval gun	usedInWar	World War II
+6"/53 caliber gun	usedInWar	World War II
+Harpers Ferry Model 1803	usedInWar	War of 1812
+Harpers Ferry Model 1803	usedInWar	Mexican-American War
+Harpers Ferry Model 1803	usedInWar	American Civil War
+RML 9 inch 12 ton gun	usedInWar	Bombardment of Alexandria
+61 cm Type 90 torpedo	usedInWar	World War II
+Murata rifle	usedInWar	First Sino-Japanese War
+Murata rifle	usedInWar	Boxer Rebellion
+Murata rifle	usedInWar	Russo-Japanese War
+45 mm anti-aircraft gun (21-K)	usedInWar	World War II
+45 mm anti-aircraft gun (21-K)	usedInWar	Cold War
+Trojan (vehicle)	usedInWar	Operation Moshtarak
+RML 16 inch 80 ton gun	usedInWar	Bombardment of Alexandria
+Bison (armoured personnel carrier)	usedInWar	War in Afghanistan (2001–present)
+Long Cecil	usedInWar	Second Boer War
+Dreyse M1907	usedInWar	World War I
+Dreyse M1907	usedInWar	World War II
+No. 15 Ball grenade	usedInWar	World War I
+No. 6 grenade	usedInWar	World War I
+F1 grenade (France)	usedInWar	World War I
+F1 grenade (France)	usedInWar	World War II
+Mk 1 grenade	usedInWar	World War I
+7,62 ITKK 31 VKT	usedInWar	Winter War
+7,62 ITKK 31 VKT	usedInWar	Continuation War
+7,62 ITKK 31 VKT	usedInWar	Lapland War
+El Tigre (rifle)	usedInWar	Spanish Civil War
+105 mm Modèle F1	usedInWar	Gulf War
+Colt M1889	usedInWar	Boxer Rebellion
+Colt M1889	usedInWar	Philippine–American War
+Colt M1889	usedInWar	Spanish–American War
+Hales rifle grenade	usedInWar	World War I
+No 2 grenade	usedInWar	Mexican Revolution
+No 2 grenade	usedInWar	World War I
+Ordnance ML 4.2 inch Mortar	usedInWar	World War II
+30.5 cm SK L/50 gun	usedInWar	World War I
+30.5 cm SK L/50 gun	usedInWar	World War II
+Model 1914 grenade	usedInWar	World War I
+Model 1914 grenade	usedInWar	World War II
+M17 rifle grenade	usedInWar	World War II
+28 cm SK L/40 gun	usedInWar	World War I
+28 cm SK L/40 gun	usedInWar	World War II
+KMGU	usedInWar	Soviet war in Afghanistan
+20 ITK 40 VKT	usedInWar	Continuation War
+20 ITK 40 VKT	usedInWar	Lapland War
+Nudelman-Suranov NS-37	usedInWar	World War II
+Nudelman-Suranov NS-45	usedInWar	World War II
+Nudelman-Suranov NS-45	usedInWar	Cold War
+MEMS M-52/60	usedInWar	Dirty War
+Halcon ML-63	usedInWar	Falklands War
+RML 11 inch 25 ton gun	usedInWar	Bombardment of Alexandria
+Fahrpanzer	usedInWar	World War I
+Labora Fontbernat M-1938	usedInWar	Spanish Civil War
+Merrill Carbine	usedInWar	American Civil War
+Volkspistole	usedInWar	World War II
+Smith carbine	usedInWar	American Civil War
+6 inch 35 caliber naval gun 1877	usedInWar	Russo-Japanese War
+6 inch 35 caliber naval gun 1877	usedInWar	World War I
+6 inch 35 caliber naval gun 1877	usedInWar	World War II
+Remington Model 10	usedInWar	World War I
+8"/55 caliber gun	usedInWar	World War II
+8"/55 caliber gun	usedInWar	Korean War
+8"/55 caliber gun	usedInWar	Vietnam War
+Puteaux SA 18	usedInWar	World War I
+Puteaux SA 18	usedInWar	World War II
+Starr Carbine	usedInWar	American Civil War
+FN Model 30-11	usedInWar	Cold War
+Model 1817 Common Rifle	usedInWar	Seminole Wars
+Model 1817 Common Rifle	usedInWar	American Civil War
+BL 8 inch Mk VIII naval gun	usedInWar	World War II
+BL 6 inch Mk XXIII naval gun	usedInWar	World War II
+BL 6 inch Mk XXIII naval gun	usedInWar	Korean War
+Panhard VCR	usedInWar	Iran–Iraq War
+BL 7.5 inch Mk VI naval gun	usedInWar	World War II
+Type 63 multiple rocket launcher	usedInWar	2011 Libyan civil war
+15.5 cm/60 3rd Year Type	usedInWar	World War II
+15 cm/50 41st Year Type	usedInWar	World War II
+20 cm/50 3rd Year Type naval gun	usedInWar	World War II
+Triplett & Scott carbine	usedInWar	American Civil War
+Model 1968 Recoilless Gun	usedInWar	Falklands War
+20.3 cm SK C/34 naval gun	usedInWar	World War II
+203 mm /53 Italian naval gun	usedInWar	World War II
+381mm / 50 Model 1934 naval gun	usedInWar	World War II
+320 mm Model 1934 naval gun	usedInWar	World War II
+130 mm/50 B13 Pattern 1936	usedInWar	World War II
+Assault Breacher Vehicle	usedInWar	War in Afghanistan (2001–present)
+KA-BAR	usedInWar	World War II
+KA-BAR	usedInWar	Korean War
+KA-BAR	usedInWar	Vietnam War
+KA-BAR	usedInWar	Invasion of Grenada
+KA-BAR	usedInWar	United States invasion of Panama
+KA-BAR	usedInWar	Gulf War
+KA-BAR	usedInWar	War in Afghanistan (2001–present)
+KA-BAR	usedInWar	Iraq War
+D-56T	usedInWar	PT-76#Combat Service
+12"/50 caliber gun (Argentina)	usedInWar	World War I
+12"/50 caliber gun (Argentina)	usedInWar	World War II
+Brandt Mle 1935	usedInWar	World War II
+Chenowth Advanced Light Strike Vehicle	usedInWar	Gulf War
+Chenowth Advanced Light Strike Vehicle	usedInWar	War in Afghanistan (2001–present)
+Chenowth Advanced Light Strike Vehicle	usedInWar	Iraq War
+Valtro PM-5/PM-5-350	usedInWar	War in Afghanistan (2001–present)
+M3 Bradley	usedInWar	Gulf War
+M3 Bradley	usedInWar	2003 invasion of Iraq
+130 mm/55 B7 Pattern 1913	usedInWar	World War I
+130 mm/55 B7 Pattern 1913	usedInWar	World War II
+Hughes Breech-loading cannon	usedInWar	American Civil War
+Hongyi-po	usedInWar	French campaign against Korea (1866)
+Hongyi-po	usedInWar	United States expedition to Korea
+Hongyi-po	usedInWar	Ganghwa Island incident
+M1875 Mountain Gun	usedInWar	American Indian Wars
+M1875 Mountain Gun	usedInWar	Spanish–American War
+M1875 Mountain Gun	usedInWar	Philippine–American War
+M1841 Mountain Howitzer	usedInWar	American Indian Wars
+M1841 Mountain Howitzer	usedInWar	Mexican-American War
+M1841 Mountain Howitzer	usedInWar	American Civil War
+BM-12	usedInWar	2011 Libyan civil war
+68-pounder gun	usedInWar	Crimean War
+Billao	usedInWar	Dervish State
+Parker Hale M82	usedInWar	War in Afghanistan (2001–present)
+ZB-53	usedInWar	World War II
+Pistolet modèle An XIII	usedInWar	Napoleonic Wars
+QF 4.7 inch Mk VIII naval gun	usedInWar	World War II
+Flame fougasse	usedInWar	World War II
+M29 cluster bomb	usedInWar	World War II
+M29 cluster bomb	usedInWar	Korean War
+M29 cluster bomb	usedInWar	Vietnam War
+T-1 armored tractor	usedInWar	World War II
+QF 6 pounder 10 cwt gun	usedInWar	World War II
+Hirtenberger M6C-210	usedInWar	Afghan civil war
+Mark 10 torpedo	usedInWar	World War II
+70-pounder Whitworth naval gun	usedInWar	American Civil War
+70-pounder Whitworth naval gun	usedInWar	War of the Triple Alliance
+120-pounder Whitworth naval gun	usedInWar	War of the Triple Alliance
+14-inch M1920 railway gun	usedInWar	World War II
+8 inch Mk. VI railway gun	usedInWar	World War II
+1.59 inch Breech-Loading Vickers Q.F. Gun, Mk II	usedInWar	World War I
+AGS-30	usedInWar	Second Chechen War
+AGS-30	usedInWar	2008 South Ossetia war
+Brügger & Thomet MP9	usedInWar	War in Afghanistan (2001–present)
+Fokker-Leimberger	usedInWar	World War I
+Canon anti-aérien de 75mm modèle 1939	usedInWar	World War II
+Pistolet modèle An IX	usedInWar	Napoleonic Wars
+Special Operations Weapon	usedInWar	Vietnam War
+SPA-Viberti AS.42	usedInWar	World War II
+SPA AS.37	usedInWar	World War II
+TL.37	usedInWar	World War II
+Joslyn rifle	usedInWar	American Civil War
+Joslyn rifle	usedInWar	Franco-Prussian War
+53T6	usedInWar	Cold War
+Musket Model 1777	usedInWar	French Revolutionary Wars
+Musket Model 1777	usedInWar	Napoleonic Wars
+Vereinsgewehr 1857	usedInWar	Austro-Prussian War
+Pleter 91 submachine gun	usedInWar	Yugoslav Wars
+Winans Steam Gun	usedInWar	American Civil War
+Ordnance QF 95 mm Howitzer	usedInWar	World War II
+Variara submachine gun	usedInWar	World War II
+107mm M1938 mortar	usedInWar	World War II
+107mm M1938 mortar	usedInWar	Vietnam War
+107mm M1938 mortar	usedInWar	2011 Libyan civil war
+2B9 Vasilek	usedInWar	Soviet war in Afghanistan
+8-inch M1888	usedInWar	World War II
+75 mm Gun M1916	usedInWar	World War I
+Galil ACE	usedInWar	Colombian armed conflict (1964–present)
+28 cm SK L/45 gun	usedInWar	World War I
+28 cm SK L/45 gun	usedInWar	World War II
+28 cm SK L/50 gun	usedInWar	World War I
+28 cm SK L/50 gun	usedInWar	World War II
+8.8 cm SK L/45 naval gun	usedInWar	World War I
+8.8 cm SK L/45 naval gun	usedInWar	World War II
+17 cm SK L/40 gun	usedInWar	World War I
+17 cm SK L/40 gun	usedInWar	World War II
+8.8 cm SK C/30 naval gun	usedInWar	World War II
+8.8 cm SK C/31 naval gun	usedInWar	World War II
+8.8 cm SK C/32 naval gun	usedInWar	World War II
+8.8 cm SK C/35 naval gun	usedInWar	World War II
+10.5 cm SK L/40 gun	usedInWar	World War I
+10.5 cm SK L/40 gun	usedInWar	World War II
+10.5 cm SK L/45 naval gun	usedInWar	World War I
+10.5 cm SK L/45 naval gun	usedInWar	World War II
+15 cm SK L/40 naval gun	usedInWar	World War I
+15 cm SK L/40 naval gun	usedInWar	World War II
+8.8 cm SK L/30 naval gun	usedInWar	World War I
+8.8 cm SK L/30 naval gun	usedInWar	World War II
+8.8 cm SK L/35 naval gun	usedInWar	World War I
+8.8 cm SK L/35 naval gun	usedInWar	World War II
+Fusil Automatique Modele 1917	usedInWar	World War I
+Fusil Automatique Modele 1917	usedInWar	Rif War
+14 cm/50 3rd Year Type naval gun	usedInWar	World War I
+14 cm/50 3rd Year Type naval gun	usedInWar	World War II
+8 cm/40 3rd Year Type naval gun	usedInWar	World War I
+8 cm/40 3rd Year Type naval gun	usedInWar	World War II
+12.7 cm/40 Type 89 naval gun	usedInWar	World War I
+12.7 cm/40 Type 89 naval gun	usedInWar	World War II
+M129 grenade launcher	usedInWar	Vietnam War
+MG 18 TuF	usedInWar	World War I
+1985 "Aeroflot" Antonov An-12 crash  9K31 Strela-1 NATO reporting name: SA-9 Gaskin   1	usedInWar	Angolan Civil War
+1985 "Aeroflot" Antonov An-12 crash  9K31 Strela-1 NATO reporting name: SA-9 Gaskin   1	usedInWar	Arab–Israeli conflict
+1985 "Aeroflot" Antonov An-12 crash  9K31 Strela-1 NATO reporting name: SA-9 Gaskin   1	usedInWar	Western Sahara War
+1985 "Aeroflot" Antonov An-12 crash  9K31 Strela-1 NATO reporting name: SA-9 Gaskin   1	usedInWar	Yugoslav Wars
+1985 "Aeroflot" Antonov An-12 crash  9K31 Strela-1 NATO reporting name: SA-9 Gaskin   1	usedInWar	Multinational Force in Lebanon#Later confrontations and withdrawal
+1985 "Aeroflot" Antonov An-12 crash  9K31 Strela-1 NATO reporting name: SA-9 Gaskin   1	usedInWar	Iran–Iraq War
+1985 "Aeroflot" Antonov An-12 crash  9K31 Strela-1 NATO reporting name: SA-9 Gaskin   1	usedInWar	2003 invasion of Iraq
+5 cm FlaK 41	usedInWar	World War II
+Semovente 75/18	usedInWar	World War II
+M1919 Browning machine gun	usedInWar	World War II
+M1919 Browning machine gun	usedInWar	Korean War
+M1919 Browning machine gun	usedInWar	First Indochina War
+M1919 Browning machine gun	usedInWar	Congo Crisis
+M1919 Browning machine gun	usedInWar	Vietnam War
+M1919 Browning machine gun	usedInWar	Rhodesian Bush War
+12-inch Gun M1895	usedInWar	World War I
+Springfield Model 1842	usedInWar	Mexican-American War
+Springfield Model 1842	usedInWar	American Civil War
+Springfield Model 1855	usedInWar	Yakima War
+Springfield Model 1855	usedInWar	American Civil War
+AT4	usedInWar	United States invasion of Panama
+12.8 cm FlaK 40	usedInWar	World War II
+ZSU-23-4	usedInWar	ZSU-23-4#Combat history
+Small Diameter Bomb	usedInWar	War in Afghanistan (2001–present)
+Small Diameter Bomb	usedInWar	Iraq War
+Small Diameter Bomb	usedInWar	Gaza War
+L1A1 Self-Loading Rifle	usedInWar	Suez Crisis
+L1A1 Self-Loading Rifle	usedInWar	Malayan Emergency
+L1A1 Self-Loading Rifle	usedInWar	Indonesia–Malaysia confrontation
+L1A1 Self-Loading Rifle	usedInWar	Vietnam War
+L1A1 Self-Loading Rifle	usedInWar	Cambodian Civil War
+L1A1 Self-Loading Rifle	usedInWar	The Troubles
+L1A1 Self-Loading Rifle	usedInWar	Rhodesian Bush War
+L1A1 Self-Loading Rifle	usedInWar	Falklands War
+L1A1 Self-Loading Rifle	usedInWar	Gulf War
+BL 6 inch naval guns Mk XIII - XVIII	usedInWar	World War I
+Semovente 75/46	usedInWar	World War II
+Tiger I	usedInWar	World War II
+Nkm wz.38 FK	usedInWar	World War II
+Autocarro blindato Fiat 626 NM	usedInWar	World War II
+Secret howitzer	usedInWar	Seven Years' War
+Rhogun	usedInWar	Rhodesian Bush War
+15 cm TbtsK C/36 naval gun	usedInWar	World War II
+12.7 cm SK C/34 naval gun	usedInWar	World War II
+QF 4 inch Mk XIX naval gun	usedInWar	World War II
+Livens Large Gallery Flame Projector	usedInWar	World War I
+BL 6 inch Mk XXII naval gun	usedInWar	World War II
+120mm Krupp Howitzer M1905	usedInWar	World War I
+4.7 inch Gun M1906	usedInWar	World War I
+Krupp 13.5 cm FK 1909	usedInWar	World War I
+Rimailho Model 1904TR	usedInWar	World War I
+M39 Armored Utility Vehicle	usedInWar	World War II
+M39 Armored Utility Vehicle	usedInWar	Korean War
+McGlashan Air Machine Gun	usedInWar	World War II
+Canon de 240 L Mle 1884	usedInWar	World War I
+Agar machine gun	usedInWar	American Civil War
+Zagi M-91	usedInWar	Yugoslav Wars
+Mortaio da 81/14 Modello 35	usedInWar	World War II
+Colt 933	usedInWar	Vietnam War

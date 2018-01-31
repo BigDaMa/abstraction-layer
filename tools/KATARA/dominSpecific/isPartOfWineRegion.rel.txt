@@ -1,0 +1,446 @@
+Beaujolais (wine)	isPartOfWineRegion	Burgundy wine
+Hermitage AOC	isPartOfWineRegion	Rhône wine
+Chablis wine	isPartOfWineRegion	Burgundy wine
+Saint-Joseph AOC	isPartOfWineRegion	Rhône wine
+Banyuls AOC	isPartOfWineRegion	Roussillon
+Châteauneuf-du-Pape AOC	isPartOfWineRegion	Rhône wine
+Côte-Rôtie AOC	isPartOfWineRegion	Rhône wine
+Crozes-Hermitage AOC	isPartOfWineRegion	Rhône wine
+Cornas AOC	isPartOfWineRegion	Rhône wine
+Tavel AOC	isPartOfWineRegion	Rhône wine
+Tavel AOC	isPartOfWineRegion	Côtes du Rhône AOC
+Vacqueyras AOC	isPartOfWineRegion	Rhône wine
+Gigondas AOC	isPartOfWineRegion	Rhône wine
+Rasteau AOC	isPartOfWineRegion	Rhône wine
+Côtes du Rhône Villages AOC	isPartOfWineRegion	Rhone
+Côtes du Rhône AOC	isPartOfWineRegion	Rhône wine
+Carmel Valley AVA	isPartOfWineRegion	California wine
+Carmel Valley AVA	isPartOfWineRegion	Central Coast AVA
+Livermore Valley AVA	isPartOfWineRegion	California wine
+Livermore Valley AVA	isPartOfWineRegion	Central Coast AVA
+Livermore Valley AVA	isPartOfWineRegion	San Francisco Bay AVA
+Sancerre (wine)	isPartOfWineRegion	Loire Valley (wine)
+Dão DOC	isPartOfWineRegion	Centro Region, Portugal
+Mâconnais	isPartOfWineRegion	Burgundy wine
+Yadkin Valley AVA	isPartOfWineRegion	North Carolina wine
+Alexander Valley AVA	isPartOfWineRegion	California wine
+Alexander Valley AVA	isPartOfWineRegion	North Coast AVA
+Alexander Valley AVA	isPartOfWineRegion	Northern Sonoma AVA
+Alexander Valley AVA	isPartOfWineRegion	Sonoma County wine
+Pouilly-Fuissé	isPartOfWineRegion	Burgundy wine
+Ramona Valley AVA	isPartOfWineRegion	California wine
+Ramona Valley AVA	isPartOfWineRegion	South Coast AVA
+Arroyo Seco AVA	isPartOfWineRegion	California wine
+Arroyo Seco AVA	isPartOfWineRegion	Central Coast AVA
+Arroyo Seco AVA	isPartOfWineRegion	Monterey AVA
+Rockpile AVA	isPartOfWineRegion	California wine
+Rockpile AVA	isPartOfWineRegion	Dry Creek Valley AVA
+Rockpile AVA	isPartOfWineRegion	North Coast AVA
+Rockpile AVA	isPartOfWineRegion	Northern Sonoma AVA
+Rockpile AVA	isPartOfWineRegion	Sonoma County wine
+Chalone AVA	isPartOfWineRegion	California wine
+Chalone AVA	isPartOfWineRegion	Central Coast AVA
+Lake Michigan Shore AVA	isPartOfWineRegion	Michigan wine
+Willamette Valley AVA	isPartOfWineRegion	Oregon wine
+Southern Oregon AVA	isPartOfWineRegion	Oregon wine
+Umpqua Valley AVA	isPartOfWineRegion	Oregon wine
+Umpqua Valley AVA	isPartOfWineRegion	Southern Oregon AVA
+Rogue Valley AVA	isPartOfWineRegion	Oregon wine
+Rogue Valley AVA	isPartOfWineRegion	Southern Oregon AVA
+Applegate Valley AVA	isPartOfWineRegion	Oregon wine
+Applegate Valley AVA	isPartOfWineRegion	Rogue Valley AVA
+Applegate Valley AVA	isPartOfWineRegion	Southern Oregon AVA
+Dundee Hills AVA	isPartOfWineRegion	Oregon wine
+Dundee Hills AVA	isPartOfWineRegion	Willamette Valley AVA
+McMinnville AVA	isPartOfWineRegion	Oregon wine
+McMinnville AVA	isPartOfWineRegion	Willamette Valley AVA
+Yamhill-Carlton District AVA	isPartOfWineRegion	Oregon wine
+Yamhill-Carlton District AVA	isPartOfWineRegion	Willamette Valley AVA
+Columbia Gorge AVA	isPartOfWineRegion	Oregon wine
+Columbia Gorge AVA	isPartOfWineRegion	Washington wine
+Columbia Valley AVA	isPartOfWineRegion	Oregon wine
+Columbia Valley AVA	isPartOfWineRegion	Washington wine
+Red Mountain AVA	isPartOfWineRegion	Columbia Valley AVA
+Red Mountain AVA	isPartOfWineRegion	Washington wine
+Red Mountain AVA	isPartOfWineRegion	Yakima Valley AVA
+Yakima Valley AVA	isPartOfWineRegion	Columbia Valley AVA
+Yakima Valley AVA	isPartOfWineRegion	Washington wine
+Walla Walla Valley AVA	isPartOfWineRegion	Columbia Valley AVA
+Walla Walla Valley AVA	isPartOfWineRegion	Oregon wine
+Walla Walla Valley AVA	isPartOfWineRegion	Washington wine
+Horse Heaven Hills AVA	isPartOfWineRegion	Columbia Valley AVA
+Horse Heaven Hills AVA	isPartOfWineRegion	Washington wine
+Rattlesnake Hills AVA	isPartOfWineRegion	Columbia Valley AVA
+Rattlesnake Hills AVA	isPartOfWineRegion	Washington wine
+Rattlesnake Hills AVA	isPartOfWineRegion	Yakima Valley AVA
+Wahluke Slope AVA	isPartOfWineRegion	Columbia Valley AVA
+Wahluke Slope AVA	isPartOfWineRegion	Washington wine
+Ticino (wine region)	isPartOfWineRegion	Swiss wine
+Napa Valley AVA	isPartOfWineRegion	North Coast AVA
+Knights Valley AVA	isPartOfWineRegion	California wine
+Knights Valley AVA	isPartOfWineRegion	North Coast AVA
+Knights Valley AVA	isPartOfWineRegion	Northern Sonoma AVA
+Knights Valley AVA	isPartOfWineRegion	Sonoma County wine
+Puget Sound AVA	isPartOfWineRegion	Washington wine
+Palatinate (wine region)	isPartOfWineRegion	Rhineland-Palatinate
+Ribbon Ridge AVA	isPartOfWineRegion	Chehalem Mountains AVA
+Ribbon Ridge AVA	isPartOfWineRegion	Oregon wine
+Ribbon Ridge AVA	isPartOfWineRegion	Willamette Valley AVA
+High Valley AVA	isPartOfWineRegion	California wine
+High Valley AVA	isPartOfWineRegion	Lake County wine
+High Valley AVA	isPartOfWineRegion	North Coast AVA
+Santa Maria Valley AVA	isPartOfWineRegion	California wine
+Santa Maria Valley AVA	isPartOfWineRegion	Central Coast AVA
+Suisun Valley AVA	isPartOfWineRegion	California wine
+Suisun Valley AVA	isPartOfWineRegion	North Coast AVA
+Augusta AVA	isPartOfWineRegion	Missouri wine
+Augusta AVA	isPartOfWineRegion	Ozark Mountain AVA
+Niagara Escarpment AVA	isPartOfWineRegion	New York wine
+Empordà (DO)	isPartOfWineRegion	Catalonia
+Alella (DO)	isPartOfWineRegion	Catalonia
+Priorat (DOQ)	isPartOfWineRegion	Catalonia
+Temecula Valley AVA	isPartOfWineRegion	California wine
+Temecula Valley AVA	isPartOfWineRegion	South Coast AVA
+Rías Baixas (DO)	isPartOfWineRegion	Pontevedra
+Rías Baixas (DO)	isPartOfWineRegion	Galicia (Spain)
+Guenoc Valley AVA	isPartOfWineRegion	California wine
+Guenoc Valley AVA	isPartOfWineRegion	Lake County wine
+Guenoc Valley AVA	isPartOfWineRegion	North Coast AVA
+Snake River Valley AVA	isPartOfWineRegion	Idaho wine
+Snake River Valley AVA	isPartOfWineRegion	Oregon wine
+Monticello AVA	isPartOfWineRegion	Virginia wine
+North Fork of Roanoke AVA	isPartOfWineRegion	Virginia wine
+Virginia's Eastern Shore AVA	isPartOfWineRegion	Virginia wine
+Rocky Knob AVA	isPartOfWineRegion	Virginia wine
+Northern Neck George Washington Birthplace AVA	isPartOfWineRegion	Virginia wine
+Mendocino County wine	isPartOfWineRegion	California wine
+Mendocino County wine	isPartOfWineRegion	North Coast AVA
+Sonoma County wine	isPartOfWineRegion	California wine
+Sonoma County wine	isPartOfWineRegion	North Coast AVA
+Paso Robles AVA	isPartOfWineRegion	California wine
+Paso Robles AVA	isPartOfWineRegion	Central Coast AVA
+Ohio River Valley AVA	isPartOfWineRegion	Indiana wine
+Ohio River Valley AVA	isPartOfWineRegion	Kentucky wine
+Ohio River Valley AVA	isPartOfWineRegion	Ohio wine
+Ohio River Valley AVA	isPartOfWineRegion	West Virginia wine
+Cole Ranch AVA	isPartOfWineRegion	California wine
+Cole Ranch AVA	isPartOfWineRegion	Mendocino AVA
+Cole Ranch AVA	isPartOfWineRegion	Mendocino County wine
+Cole Ranch AVA	isPartOfWineRegion	North Coast AVA
+Santa Clara Valley AVA	isPartOfWineRegion	California wine
+Santa Clara Valley AVA	isPartOfWineRegion	Central Coast AVA
+Santa Clara Valley AVA	isPartOfWineRegion	San Francisco Bay AVA
+San Francisco Bay AVA	isPartOfWineRegion	California wine
+San Francisco Bay AVA	isPartOfWineRegion	Central Coast AVA
+Central Coast AVA	isPartOfWineRegion	California wine
+Anderson Valley AVA	isPartOfWineRegion	California wine
+Anderson Valley AVA	isPartOfWineRegion	Mendocino AVA
+Anderson Valley AVA	isPartOfWineRegion	Mendocino County wine
+Anderson Valley AVA	isPartOfWineRegion	Mendocino Ridge AVA
+Anderson Valley AVA	isPartOfWineRegion	North Coast AVA
+Jahant AVA	isPartOfWineRegion	California wine
+Jahant AVA	isPartOfWineRegion	Lodi AVA
+San Antonio Valley AVA	isPartOfWineRegion	California wine
+San Antonio Valley AVA	isPartOfWineRegion	Central Coast AVA
+San Antonio Valley AVA	isPartOfWineRegion	Monterey AVA
+Mendocino Ridge AVA	isPartOfWineRegion	California wine
+Mendocino Ridge AVA	isPartOfWineRegion	Mendocino AVA
+Mendocino Ridge AVA	isPartOfWineRegion	Mendocino County wine
+Mendocino Ridge AVA	isPartOfWineRegion	North Coast AVA
+Arroyo Grande Valley AVA	isPartOfWineRegion	California wine
+Arroyo Grande Valley AVA	isPartOfWineRegion	Central Coast AVA
+Lime Kiln Valley AVA	isPartOfWineRegion	California wine
+Lime Kiln Valley AVA	isPartOfWineRegion	Central Coast AVA
+Lime Kiln Valley AVA	isPartOfWineRegion	Cienega Valley AVA
+Lime Kiln Valley AVA	isPartOfWineRegion	San Benito AVA
+San Lucas AVA	isPartOfWineRegion	California wine
+San Lucas AVA	isPartOfWineRegion	Central Coast AVA
+San Lucas AVA	isPartOfWineRegion	Monterey AVA
+San Pasqual Valley AVA	isPartOfWineRegion	California wine
+San Pasqual Valley AVA	isPartOfWineRegion	South Coast AVA
+Santa Cruz Mountains AVA	isPartOfWineRegion	California wine
+Sierra Foothills AVA	isPartOfWineRegion	California wine
+Alta Mesa AVA	isPartOfWineRegion	California wine
+Alta Mesa AVA	isPartOfWineRegion	Lodi AVA
+Bennett Valley AVA	isPartOfWineRegion	California wine
+Bennett Valley AVA	isPartOfWineRegion	North Coast AVA
+Bennett Valley AVA	isPartOfWineRegion	Sonoma Coast AVA
+Bennett Valley AVA	isPartOfWineRegion	Sonoma County wine
+Bennett Valley AVA	isPartOfWineRegion	Sonoma Mountain AVA
+Bennett Valley AVA	isPartOfWineRegion	Sonoma Valley AVA
+Los Carneros AVA	isPartOfWineRegion	California wine
+Los Carneros AVA	isPartOfWineRegion	Napa County wine
+Los Carneros AVA	isPartOfWineRegion	Napa Valley AVA
+Los Carneros AVA	isPartOfWineRegion	North Coast AVA
+Los Carneros AVA	isPartOfWineRegion	Sonoma Coast AVA
+Los Carneros AVA	isPartOfWineRegion	Sonoma County wine
+Los Carneros AVA	isPartOfWineRegion	Sonoma Valley AVA
+Chalk Hill AVA	isPartOfWineRegion	California wine
+Chalk Hill AVA	isPartOfWineRegion	North Coast AVA
+Chalk Hill AVA	isPartOfWineRegion	Northern Sonoma AVA
+Chalk Hill AVA	isPartOfWineRegion	Russian River Valley AVA
+Chalk Hill AVA	isPartOfWineRegion	Sonoma Coast AVA
+Chalk Hill AVA	isPartOfWineRegion	Sonoma County wine
+Dry Creek Valley AVA	isPartOfWineRegion	California wine
+Dry Creek Valley AVA	isPartOfWineRegion	North Coast AVA
+Dry Creek Valley AVA	isPartOfWineRegion	Northern Sonoma AVA
+Dry Creek Valley AVA	isPartOfWineRegion	Sonoma County wine
+Green Valley of Russian River Valley AVA	isPartOfWineRegion	California wine
+Green Valley of Russian River Valley AVA	isPartOfWineRegion	North Coast AVA
+Green Valley of Russian River Valley AVA	isPartOfWineRegion	Northern Sonoma AVA
+Green Valley of Russian River Valley AVA	isPartOfWineRegion	Russian River Valley AVA
+Green Valley of Russian River Valley AVA	isPartOfWineRegion	Sonoma Coast AVA
+Green Valley of Russian River Valley AVA	isPartOfWineRegion	Sonoma County wine
+North Coast AVA	isPartOfWineRegion	California wine
+Northern Sonoma AVA	isPartOfWineRegion	California wine
+Northern Sonoma AVA	isPartOfWineRegion	North Coast AVA
+Northern Sonoma AVA	isPartOfWineRegion	Sonoma County wine
+Russian River Valley AVA	isPartOfWineRegion	California wine
+Russian River Valley AVA	isPartOfWineRegion	North Coast AVA
+Russian River Valley AVA	isPartOfWineRegion	Northern Sonoma AVA
+Russian River Valley AVA	isPartOfWineRegion	Sonoma Coast AVA
+Russian River Valley AVA	isPartOfWineRegion	Sonoma County wine
+Sonoma Coast AVA	isPartOfWineRegion	California wine
+Sonoma Coast AVA	isPartOfWineRegion	North Coast AVA
+Sonoma Coast AVA	isPartOfWineRegion	Sonoma County wine
+Sonoma Mountain AVA	isPartOfWineRegion	California wine
+Sonoma Mountain AVA	isPartOfWineRegion	North Coast AVA
+Sonoma Mountain AVA	isPartOfWineRegion	Northern Sonoma AVA
+Sonoma Mountain AVA	isPartOfWineRegion	Sonoma County wine
+Sonoma Mountain AVA	isPartOfWineRegion	Sonoma Valley AVA
+Sonoma Valley AVA	isPartOfWineRegion	California wine
+Sonoma Valley AVA	isPartOfWineRegion	North Coast AVA
+Sonoma Valley AVA	isPartOfWineRegion	Sonoma Coast AVA
+Sonoma Valley AVA	isPartOfWineRegion	Sonoma County wine
+Atlas Peak AVA	isPartOfWineRegion	Napa Valley AVA
+Mount Veeder AVA	isPartOfWineRegion	Napa Valley AVA
+Yountville AVA	isPartOfWineRegion	Napa Valley AVA
+Oakville AVA	isPartOfWineRegion	Napa Valley AVA
+Rutherford AVA	isPartOfWineRegion	Napa Valley AVA
+St. Helena AVA	isPartOfWineRegion	Napa Valley AVA
+Stags Leap District AVA	isPartOfWineRegion	Napa Valley AVA
+Mendocino AVA	isPartOfWineRegion	California wine
+Mendocino AVA	isPartOfWineRegion	Mendocino County wine
+Mendocino AVA	isPartOfWineRegion	North Coast AVA
+Covelo AVA	isPartOfWineRegion	California wine
+Covelo AVA	isPartOfWineRegion	Mendocino County wine
+Covelo AVA	isPartOfWineRegion	North Coast AVA
+Potter Valley AVA	isPartOfWineRegion	California wine
+Potter Valley AVA	isPartOfWineRegion	Mendocino AVA
+Potter Valley AVA	isPartOfWineRegion	Mendocino County wine
+Potter Valley AVA	isPartOfWineRegion	North Coast AVA
+Oak Knoll District of Napa Valley AVA	isPartOfWineRegion	Napa Valley AVA
+Chiles Valley AVA	isPartOfWineRegion	Napa Valley AVA
+Diamond Mountain District AVA	isPartOfWineRegion	Napa Valley AVA
+Howell Mountain AVA	isPartOfWineRegion	Napa Valley AVA
+Wild Horse Valley AVA	isPartOfWineRegion	Napa Valley AVA
+Spring Mountain District AVA	isPartOfWineRegion	Napa Valley AVA
+Edna Valley AVA	isPartOfWineRegion	California wine
+Edna Valley AVA	isPartOfWineRegion	Central Coast AVA
+Texas Hill Country AVA	isPartOfWineRegion	Texas wine
+Texas High Plains AVA	isPartOfWineRegion	Texas wine
+Texas Davis Mountains AVA	isPartOfWineRegion	Texas wine
+Fredericksburg in the Texas Hill Country AVA	isPartOfWineRegion	Texas wine
+Fredericksburg in the Texas Hill Country AVA	isPartOfWineRegion	Texas Hill Country AVA
+Bell Mountain AVA	isPartOfWineRegion	Texas wine
+Bell Mountain AVA	isPartOfWineRegion	Texas Hill Country AVA
+Escondido Valley AVA	isPartOfWineRegion	Texas wine
+Mesilla Valley AVA	isPartOfWineRegion	New Mexico wine
+Mesilla Valley AVA	isPartOfWineRegion	Texas wine
+Texoma AVA	isPartOfWineRegion	Texas wine
+El Dorado AVA	isPartOfWineRegion	California wine
+El Dorado AVA	isPartOfWineRegion	Sierra Foothills AVA
+Napa County wine	isPartOfWineRegion	California wine
+Napa County wine	isPartOfWineRegion	North Coast AVA
+Ben Lomond Mountain AVA	isPartOfWineRegion	California wine
+Ben Lomond Mountain AVA	isPartOfWineRegion	Santa Cruz Mountains AVA
+California Shenandoah Valley AVA	isPartOfWineRegion	California wine
+California Shenandoah Valley AVA	isPartOfWineRegion	Sierra Foothills AVA
+Fair Play AVA	isPartOfWineRegion	California wine
+Fair Play AVA	isPartOfWineRegion	El Dorado AVA
+Fair Play AVA	isPartOfWineRegion	Sierra Foothills AVA
+Fiddletown AVA	isPartOfWineRegion	California wine
+Fiddletown AVA	isPartOfWineRegion	Sierra Foothills AVA
+North Yuba AVA	isPartOfWineRegion	California wine
+North Yuba AVA	isPartOfWineRegion	Sierra Foothills AVA
+South Coast AVA	isPartOfWineRegion	California wine
+Dos Rios AVA	isPartOfWineRegion	California wine
+Dos Rios AVA	isPartOfWineRegion	Mendocino AVA
+Dos Rios AVA	isPartOfWineRegion	Mendocino County wine
+Dos Rios AVA	isPartOfWineRegion	North Coast AVA
+McDowell Valley AVA	isPartOfWineRegion	California wine
+McDowell Valley AVA	isPartOfWineRegion	Mendocino AVA
+McDowell Valley AVA	isPartOfWineRegion	Mendocino County wine
+McDowell Valley AVA	isPartOfWineRegion	North Coast AVA
+Redwood Valley AVA	isPartOfWineRegion	California wine
+Redwood Valley AVA	isPartOfWineRegion	Mendocino AVA
+Redwood Valley AVA	isPartOfWineRegion	Mendocino County wine
+Redwood Valley AVA	isPartOfWineRegion	North Coast AVA
+Yorkville Highlands AVA	isPartOfWineRegion	California wine
+Yorkville Highlands AVA	isPartOfWineRegion	Mendocino AVA
+Yorkville Highlands AVA	isPartOfWineRegion	Mendocino County wine
+Yorkville Highlands AVA	isPartOfWineRegion	North Coast AVA
+Lake County wine	isPartOfWineRegion	California wine
+Lake County wine	isPartOfWineRegion	North Coast AVA
+Clear Lake AVA	isPartOfWineRegion	California wine
+Clear Lake AVA	isPartOfWineRegion	Lake County wine
+Clear Lake AVA	isPartOfWineRegion	North Coast AVA
+Red Hills Lake County AVA	isPartOfWineRegion	California wine
+Red Hills Lake County AVA	isPartOfWineRegion	Clear Lake AVA
+Red Hills Lake County AVA	isPartOfWineRegion	Lake County wine
+Red Hills Lake County AVA	isPartOfWineRegion	North Coast AVA
+Benmore Valley AVA	isPartOfWineRegion	California wine
+Benmore Valley AVA	isPartOfWineRegion	Lake County wine
+Benmore Valley AVA	isPartOfWineRegion	North Coast AVA
+Solano County Green Valley AVA	isPartOfWineRegion	California wine
+Solano County Green Valley AVA	isPartOfWineRegion	North Coast AVA
+Seiad Valley AVA	isPartOfWineRegion	California wine
+Willow Creek AVA	isPartOfWineRegion	California wine
+Trinity Lakes AVA	isPartOfWineRegion	California wine
+Cucamonga Valley AVA	isPartOfWineRegion	California wine
+Cucamonga Valley AVA	isPartOfWineRegion	South Coast AVA
+Malibu-Newton Canyon AVA	isPartOfWineRegion	California wine
+Malibu-Newton Canyon AVA	isPartOfWineRegion	South Coast AVA
+Saddle Rock-Malibu AVA	isPartOfWineRegion	California wine
+Saddle Rock-Malibu AVA	isPartOfWineRegion	South Coast AVA
+Cienega Valley AVA	isPartOfWineRegion	California wine
+Cienega Valley AVA	isPartOfWineRegion	Central Coast AVA
+Cienega Valley AVA	isPartOfWineRegion	San Benito AVA
+Monterey AVA	isPartOfWineRegion	California wine
+Monterey AVA	isPartOfWineRegion	Central Coast AVA
+Hames Valley AVA	isPartOfWineRegion	California wine
+Hames Valley AVA	isPartOfWineRegion	Central Coast AVA
+Hames Valley AVA	isPartOfWineRegion	Monterey AVA
+San Benito AVA	isPartOfWineRegion	California wine
+San Benito AVA	isPartOfWineRegion	Central Coast AVA
+Mount Harlan AVA	isPartOfWineRegion	California wine
+Mount Harlan AVA	isPartOfWineRegion	Central Coast AVA
+Pacheco Pass AVA	isPartOfWineRegion	California wine
+Pacheco Pass AVA	isPartOfWineRegion	Central Coast AVA
+Pacheco Pass AVA	isPartOfWineRegion	San Francisco Bay AVA
+Pacheco Pass AVA	isPartOfWineRegion	Santa Clara Valley AVA
+Paicines AVA	isPartOfWineRegion	California wine
+Paicines AVA	isPartOfWineRegion	Central Coast AVA
+Paicines AVA	isPartOfWineRegion	San Benito AVA
+San Bernabe AVA	isPartOfWineRegion	California wine
+San Bernabe AVA	isPartOfWineRegion	Central Coast AVA
+San Ysidro District AVA	isPartOfWineRegion	California wine
+San Ysidro District AVA	isPartOfWineRegion	Central Coast AVA
+San Ysidro District AVA	isPartOfWineRegion	San Francisco Bay AVA
+San Ysidro District AVA	isPartOfWineRegion	Santa Clara Valley AVA
+Santa Lucia Highlands AVA	isPartOfWineRegion	California wine
+Santa Lucia Highlands AVA	isPartOfWineRegion	Central Coast AVA
+Santa Lucia Highlands AVA	isPartOfWineRegion	Monterey AVA
+York Mountain AVA	isPartOfWineRegion	California wine
+York Mountain AVA	isPartOfWineRegion	Central Coast AVA
+Sta. Rita Hills AVA	isPartOfWineRegion	California wine
+Sta. Rita Hills AVA	isPartOfWineRegion	Central Coast AVA
+Sta. Rita Hills AVA	isPartOfWineRegion	Santa Ynez Valley AVA
+Santa Ynez Valley AVA	isPartOfWineRegion	California wine
+Santa Ynez Valley AVA	isPartOfWineRegion	Central Coast AVA
+Borden Ranch AVA	isPartOfWineRegion	California wine
+Borden Ranch AVA	isPartOfWineRegion	Lodi AVA
+Mokelumne River AVA	isPartOfWineRegion	California wine
+Mokelumne River AVA	isPartOfWineRegion	Lodi AVA
+Cosumnes River AVA	isPartOfWineRegion	California wine
+Cosumnes River AVA	isPartOfWineRegion	Lodi AVA
+Clements Hills AVA	isPartOfWineRegion	California wine
+Clements Hills AVA	isPartOfWineRegion	Lodi AVA
+Sloughhouse AVA	isPartOfWineRegion	California wine
+Sloughhouse AVA	isPartOfWineRegion	Lodi AVA
+River Junction AVA	isPartOfWineRegion	California wine
+Dunnigan Hills AVA	isPartOfWineRegion	California wine
+Clarksburg AVA	isPartOfWineRegion	California wine
+Merritt Island AVA	isPartOfWineRegion	California wine
+Merritt Island AVA	isPartOfWineRegion	Clarksburg AVA
+Diablo Grande AVA	isPartOfWineRegion	California wine
+Madera AVA	isPartOfWineRegion	California wine
+Capay Valley AVA	isPartOfWineRegion	California wine
+Salado Creek AVA	isPartOfWineRegion	California wine
+Tracy Hills AVA	isPartOfWineRegion	California wine
+Red Hill Douglas County, Oregon AVA	isPartOfWineRegion	Oregon wine
+Red Hill Douglas County, Oregon AVA	isPartOfWineRegion	Southern Oregon AVA
+Red Hill Douglas County, Oregon AVA	isPartOfWineRegion	Umpqua Valley AVA
+Chehalem Mountains AVA	isPartOfWineRegion	Oregon wine
+Chehalem Mountains AVA	isPartOfWineRegion	Willamette Valley AVA
+Eola-Amity Hills AVA	isPartOfWineRegion	Oregon wine
+Eola-Amity Hills AVA	isPartOfWineRegion	Willamette Valley AVA
+Sonoita AVA	isPartOfWineRegion	Arizona wine
+Middle Rio Grande Valley AVA	isPartOfWineRegion	New Mexico wine
+Mimbres Valley AVA	isPartOfWineRegion	New Mexico wine
+West Elks AVA	isPartOfWineRegion	Colorado wine
+Grand Valley AVA	isPartOfWineRegion	Colorado wine
+Shenandoah Valley AVA	isPartOfWineRegion	Virginia wine
+Shenandoah Valley AVA	isPartOfWineRegion	West Virginia wine
+Mississippi Delta AVA	isPartOfWineRegion	Louisiana wine
+Mississippi Delta AVA	isPartOfWineRegion	Mississippi wine
+Mississippi Delta AVA	isPartOfWineRegion	Tennessee wine
+Leelanau Peninsula AVA	isPartOfWineRegion	Michigan wine
+Ozark Highlands AVA	isPartOfWineRegion	Missouri wine
+Ozark Highlands AVA	isPartOfWineRegion	Ozark Mountain AVA
+Ozark Mountain AVA	isPartOfWineRegion	Arkansas wine
+Ozark Mountain AVA	isPartOfWineRegion	Missouri wine
+Ozark Mountain AVA	isPartOfWineRegion	Oklahoma wine
+Hermann AVA	isPartOfWineRegion	Missouri wine
+Hermann AVA	isPartOfWineRegion	Ozark Mountain AVA
+Fennville AVA	isPartOfWineRegion	Lake Michigan Shore AVA
+Fennville AVA	isPartOfWineRegion	Michigan wine
+Old Mission Peninsula AVA	isPartOfWineRegion	Michigan wine
+Lake Wisconsin AVA	isPartOfWineRegion	Wisconsin wine
+Altus AVA	isPartOfWineRegion	Arkansas wine
+Altus AVA	isPartOfWineRegion	Ozark Mountain AVA
+Altus AVA	isPartOfWineRegion	Arkansas Mountain AVA
+Isle St. George AVA	isPartOfWineRegion	Ohio wine
+Alexandria Lakes AVA	isPartOfWineRegion	Minnesota wine
+Shawnee Hills AVA	isPartOfWineRegion	Illinois wine
+Arkansas Mountain AVA	isPartOfWineRegion	Arkansas wine
+Arkansas Mountain AVA	isPartOfWineRegion	Ozark Mountain AVA
+Kanawha River Valley AVA	isPartOfWineRegion	Ohio River Valley AVA
+Kanawha River Valley AVA	isPartOfWineRegion	West Virginia wine
+Grand River Valley AVA	isPartOfWineRegion	Lake Erie AVA
+Grand River Valley AVA	isPartOfWineRegion	Ohio wine
+Loramie Creek AVA	isPartOfWineRegion	Ohio wine
+Lake Erie AVA	isPartOfWineRegion	Ohio wine
+Lake Erie AVA	isPartOfWineRegion	New York wine
+Lake Erie AVA	isPartOfWineRegion	Pennsylvania wine
+Lancaster Valley AVA	isPartOfWineRegion	Pennsylvania wine
+Cumberland Valley AVA	isPartOfWineRegion	Maryland wine
+Cumberland Valley AVA	isPartOfWineRegion	Pennsylvania wine
+Catoctin AVA	isPartOfWineRegion	Maryland wine
+Linganore AVA	isPartOfWineRegion	Maryland wine
+Central Delaware Valley AVA	isPartOfWineRegion	New Jersey wine
+Central Delaware Valley AVA	isPartOfWineRegion	Pennsylvania wine
+Outer Coastal Plain AVA	isPartOfWineRegion	New Jersey wine
+Warren Hills AVA	isPartOfWineRegion	New Jersey wine
+Médoc AOC	isPartOfWineRegion	Bordeaux wine
+Haut-Médoc AOC	isPartOfWineRegion	Bordeaux wine
+Haut-Médoc AOC	isPartOfWineRegion	Médoc AOC
+Western Connecticut Highlands AVA	isPartOfWineRegion	Connecticut wine
+Southeastern New England AVA	isPartOfWineRegion	Connecticut wine
+Southeastern New England AVA	isPartOfWineRegion	Massachusetts wine
+Southeastern New England AVA	isPartOfWineRegion	Rhode Island wine
+Martha's Vineyard AVA	isPartOfWineRegion	Massachusetts wine
+Martha's Vineyard AVA	isPartOfWineRegion	Southeastern New England AVA
+Finger Lakes AVA	isPartOfWineRegion	New York wine
+Cayuga Lake AVA	isPartOfWineRegion	Finger Lakes AVA
+Seneca Lake AVA	isPartOfWineRegion	Finger Lakes AVA
+Hudson River Region AVA	isPartOfWineRegion	New York wine
+Long Island AVA	isPartOfWineRegion	New York wine
+North Fork of Long Island AVA	isPartOfWineRegion	Long Island AVA
+North Fork of Long Island AVA	isPartOfWineRegion	New York wine
+The Hamptons, Long Island AVA	isPartOfWineRegion	Long Island AVA
+The Hamptons, Long Island AVA	isPartOfWineRegion	New York wine
+Lehigh Valley AVA	isPartOfWineRegion	Pennsylvania wine
+Snipes Mountain AVA	isPartOfWineRegion	Columbia Valley AVA
+Snipes Mountain AVA	isPartOfWineRegion	Washington wine
+Snipes Mountain AVA	isPartOfWineRegion	Yakima Valley AVA
+Penedès (DO)	isPartOfWineRegion	Catalonia
+Saint-Julien AOC	isPartOfWineRegion	Bordeaux wine
+Happy Canyon of Santa Barbara AVA	isPartOfWineRegion	California wine
+Happy Canyon of Santa Barbara AVA	isPartOfWineRegion	Central Coast AVA
+Happy Canyon of Santa Barbara AVA	isPartOfWineRegion	Santa Ynez Valley AVA
+Calistoga AVA	isPartOfWineRegion	Napa Valley AVA
+Swan Creek AVA	isPartOfWineRegion	Yadkin Valley AVA
+Sierra Pelona Valley AVA	isPartOfWineRegion	California wine
+Antelope Valley of the California High Desert AVA	isPartOfWineRegion	California wine
+Dingač	isPartOfWineRegion	Dalmatia

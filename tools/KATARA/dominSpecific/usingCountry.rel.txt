@@ -1,0 +1,406 @@
+Greek drachma	usingCountry	Greece
+European Currency Unit	usingCountry	European Economic Community
+European Currency Unit	usingCountry	European Union
+East Caribbean dollar	usingCountry	Organisation of Eastern Caribbean States
+Ithaca Hours	usingCountry	Ithaca, New York
+Ithaca Hours	usingCountry	New York
+Ithaca Hours	usingCountry	United States
+Swedish krona	usingCountry	Sweden
+Finnish markka	usingCountry	Finland
+Japanese yen	usingCountry	Japan
+Zambian kwacha	usingCountry	Zambia
+Malawian kwacha	usingCountry	Malawi
+Polish złoty	usingCountry	Poland
+Slovenian tolar	usingCountry	Slovenia
+Norwegian krone	usingCountry	Norway
+Norwegian krone	usingCountry	Svalbard
+Renminbi	usingCountry	People's Republic of China
+Australian dollar	usingCountry	Australia
+Thai baht	usingCountry	Thailand
+Canadian dollar	usingCountry	Canada
+Icelandic króna	usingCountry	Iceland
+Mexican peso	usingCountry	Mexico
+New Zealand dollar	usingCountry	New Zealand
+Chilean peso	usingCountry	Chile
+Nigerian naira	usingCountry	Nigeria
+Austrian schilling	usingCountry	Austria
+Afghan afghani	usingCountry	United States dollar
+Guatemalan quetzal	usingCountry	Guatemala
+Philippine peso	usingCountry	Philippines
+Hungarian forint	usingCountry	Republic of Hungary (1946–1949)
+Hungarian forint	usingCountry	People's Republic of Hungary
+Hungarian forint	usingCountry	Hungary
+Russian ruble	usingCountry	Russia
+Russian ruble	usingCountry	Abkhazia
+Russian ruble	usingCountry	South Ossetia
+Kuwaiti dinar	usingCountry	Kuwait
+Danish krone	usingCountry	Denmark
+Israeli new shekel	usingCountry	Israel
+Latvian lats	usingCountry	Latvia
+Kazakhstani tenge	usingCountry	Kazakhstan
+Iraqi dinar	usingCountry	Iraq
+Bahamian dollar	usingCountry	The Bahamas
+Seychellois rupee	usingCountry	Seychelles
+Albanian lek	usingCountry	Albania
+Bulgarian lev	usingCountry	Bulgaria
+Irish pound	usingCountry	Republic of Ireland
+Banknotes of the pound sterling	usingCountry	United Kingdom
+Banknotes of the pound sterling	usingCountry	Jersey
+Banknotes of the pound sterling	usingCountry	Guernsey
+Banknotes of the pound sterling	usingCountry	Isle of Man
+Banknotes of the pound sterling	usingCountry	Falkland Islands
+Banknotes of the pound sterling	usingCountry	Gibraltar
+Banknotes of the pound sterling	usingCountry	Saint Helena
+CFP franc	usingCountry	France
+CFP franc	usingCountry	France
+CFP franc	usingCountry	France
+South African rand	usingCountry	Common Monetary Area
+South African rand	usingCountry	Common Monetary Area
+South African rand	usingCountry	Lesotho loti
+South African rand	usingCountry	Namibia
+South African rand	usingCountry	Namibian dollar
+Portuguese escudo	usingCountry	Portugal
+Ghana cedi	usingCountry	Ghana
+East German mark	usingCountry	East Germany
+RAAM	usingCountry	Global Country of World Peace
+Namibian dollar	usingCountry	South African rand
+Malaysian ringgit	usingCountry	Malaysia
+Swiss franc	usingCountry	Switzerland
+Swiss franc	usingCountry	Liechtenstein
+Swiss franc	usingCountry	Campione d'Italia
+Panamanian balboa	usingCountry	United States dollar
+Indonesian rupiah	usingCountry	Indonesia
+Venezuelan bolívar	usingCountry	Venezuela
+Macedonian denar	usingCountry	Republic of Macedonia
+Mauritanian ouguiya	usingCountry	Mauritania
+Argentine peso	usingCountry	Argentina
+Libyan dinar	usingCountry	Libya
+Jordanian dinar	usingCountry	Jordan
+French franc	usingCountry	New Caledonia
+French franc	usingCountry	Andorra
+Syrian pound	usingCountry	Syria
+Belize dollar	usingCountry	Belize
+Saudi riyal	usingCountry	Saudi Arabia
+Surinamese dollar	usingCountry	Suriname
+Nepalese rupee	usingCountry	Nepal
+Nicaraguan córdoba	usingCountry	Nicaragua
+Bangladeshi taka	usingCountry	Bangladesh
+Indian rupee	usingCountry	India
+Maldivian rufiyaa	usingCountry	Maldives
+Bhutanese ngultrum	usingCountry	Indian rupee
+Sri Lankan rupee	usingCountry	Sri Lanka
+Turkish new lira	usingCountry	Turkey
+Turkish new lira	usingCountry	Northern Cyprus
+Serbian dinar	usingCountry	Serbia
+Bosnia and Herzegovina convertible mark	usingCountry	Bosnia and Herzegovina
+Botswana pula	usingCountry	Botswana
+Swazi lilangeni	usingCountry	South African rand
+Lithuanian litas	usingCountry	Lithuania
+Mauritian rupee	usingCountry	Mauritius
+Pakistani rupee	usingCountry	Pakistan
+Ecuadorian sucre	usingCountry	Ecuador
+Sierra Leonean leone	usingCountry	Sierra Leone
+Cypriot pound	usingCountry	Akrotiri and Dhekelia
+Moldovan leu	usingCountry	Moldova
+Moldovan leu	usingCountry	Transnistria
+United Arab Emirates dirham	usingCountry	United Arab Emirates
+Romanian leu	usingCountry	Romania
+Romanian leu	usingCountry	United Principalities
+Romanian leu	usingCountry	Communist Romania
+Romanian leu	usingCountry	Communist Romania
+Ethiopian birr	usingCountry	Ethiopia
+Brazilian real	usingCountry	Brazil
+Armenian dram	usingCountry	Armenia
+Peruvian sol	usingCountry	Peru
+Iranian rial	usingCountry	Iran
+Colombian peso	usingCountry	Colombia
+Ukrainian hryvnia	usingCountry	Ukraine
+Israeli lira	usingCountry	Israel
+Tajikistani somoni	usingCountry	Tajikistan
+Reichsmark	usingCountry	Weimar Republic
+Reichsmark	usingCountry	Nazi Germany
+Reichsmark	usingCountry	Flensburg Government
+Reichsmark	usingCountry	Allied-occupied Germany
+Angolan kwanza	usingCountry	Angola
+German Papiermark	usingCountry	German Empire
+German Papiermark	usingCountry	Weimar Republic
+Vietnamese đồng	usingCountry	Vietnam
+Georgian lari	usingCountry	Georgia (country)
+Italian lira	usingCountry	Italy
+Italian lira	usingCountry	San Marino
+Italian lira	usingCountry	Vatican
+Italian lira	usingCountry	Campione d'Italia
+Australian pound	usingCountry	Australia
+Austro-Hungarian krone	usingCountry	Austria-Hungary
+Cambodian riel	usingCountry	United States dollar
+German Rentenmark	usingCountry	Germany
+Tongan paʻanga	usingCountry	Tonga
+Turkmenistan manat	usingCountry	Turkmenistan
+Brazilian cruzeiro	usingCountry	Brazil
+Brazilian cruzado	usingCountry	Brazil
+Brazilian cruzeiro real	usingCountry	Brazil
+German gold mark	usingCountry	German Empire
+Guernsey pound	usingCountry	Pound sterling
+Disney dollar	usingCountry	Disneyland Resort
+Disney dollar	usingCountry	Walt Disney World Resort
+Disney dollar	usingCountry	Castaway Cay
+Disney dollar	usingCountry	Disney Store
+Cuban peso	usingCountry	Cuba
+Cuban convertible peso	usingCountry	Cuba
+Ugandan shilling	usingCountry	Uganda
+Azerbaijani manat	usingCountry	Azerbaijan
+Turkish lira	usingCountry	Turkey
+Turkish lira	usingCountry	Northern Cyprus
+Vanuatu vatu	usingCountry	Vanuatu
+Latvian rublis	usingCountry	Latvia
+Congolese franc	usingCountry	Democratic Republic of the Congo
+Malagasy ariary	usingCountry	Madagascar
+Transnistrian ruble	usingCountry	Transnistria
+Lao kip	usingCountry	Laos
+Kyrgyzstani som	usingCountry	Kyrgyzstan
+Honduran lempira	usingCountry	Honduras
+Ukrainian karbovanets	usingCountry	Ukrainian People's Republic
+Ukrainian karbovanets	usingCountry	Ukrainian Soviet Socialist Republic
+Ukrainian karbovanets	usingCountry	Reichskommissariat Ukraine
+Ukrainian karbovanets	usingCountry	Ukrainian karbovanets#Third karbovanets, 1992-1996
+Uzbekistani som	usingCountry	Uzbekistan
+Dominican peso	usingCountry	Dominican Republic
+Egyptian pound	usingCountry	Egypt
+Gibraltar pound	usingCountry	Pound sterling
+Czech koruna	usingCountry	Czech Republic
+Tanzanian shilling	usingCountry	Tanzania
+Bolivian boliviano	usingCountry	Bolivia
+Paraguayan guaraní	usingCountry	Paraguay
+Uruguayan peso	usingCountry	Uruguay
+Costa Rican colón	usingCountry	Costa Rica
+Salvadoran colón	usingCountry	El Salvador
+Gambian dalasi	usingCountry	The Gambia
+Algerian dinar	usingCountry	Algeria
+Bahraini dinar	usingCountry	Bahrain
+Faroese króna	usingCountry	Denmark
+Faroese króna	usingCountry	Danish krone
+Bermudian dollar	usingCountry	United Kingdom
+Bermudian dollar	usingCountry	United States dollar
+Cayman Islands dollar	usingCountry	United Kingdom
+Fijian dollar	usingCountry	Fiji
+Papua New Guinean kina	usingCountry	Papua New Guinea
+Jamaican dollar	usingCountry	Jamaica
+Trinidad and Tobago dollar	usingCountry	Trinidad and Tobago
+Lesotho loti	usingCountry	South African rand
+Haitian gourde	usingCountry	Haiti
+Sudanese dinar	usingCountry	Sudan
+Tunisian dinar	usingCountry	Tunisia
+Omani rial	usingCountry	Oman
+Mongolian tögrög	usingCountry	Mongolia
+Guyanese dollar	usingCountry	Guyana
+Belarusian ruble	usingCountry	Belarus
+Belgian franc	usingCountry	Belgium
+Belgian franc	usingCountry	Luxembourg
+Luxembourgish franc	usingCountry	Luxembourg
+Luxembourgish franc	usingCountry	Belgium
+Liberian dollar	usingCountry	Liberia
+Barbadian dollar	usingCountry	Barbados
+Jersey pound	usingCountry	Pound sterling
+Manx pound	usingCountry	Isle of Man
+Saint Helena pound	usingCountry	United Kingdom
+Saint Helena pound	usingCountry	Saint Helena
+Saint Helena pound	usingCountry	Ascension Island
+Saint Helena pound	usingCountry	Pound sterling
+Falkland Islands pound	usingCountry	Falkland Islands
+Falkland Islands pound	usingCountry	Pound sterling
+Burundian franc	usingCountry	Burundi
+Solomon Islands dollar	usingCountry	Solomon Islands
+Eritrean nakfa	usingCountry	Eritrea
+Qatari riyal	usingCountry	Qatar
+Manchukuo yuan	usingCountry	Manchukuo
+Somali shilling	usingCountry	Somalia
+Rwanda franc	usingCountry	Rwanda
+Guinean franc	usingCountry	Guinea
+Kenyan shilling	usingCountry	Kenya
+Comorian franc	usingCountry	Comoros
+Djiboutian franc	usingCountry	Djibouti
+Mozambican metical	usingCountry	Mozambique
+Samoan tālā	usingCountry	Samoa
+Yemeni rial	usingCountry	Yemen
+Bolivian peso	usingCountry	Bolivia
+New Hebrides franc	usingCountry	New Hebrides
+Peruvian inti	usingCountry	Peru
+East Timor centavo coins	usingCountry	United States dollar
+East African shilling	usingCountry	Kenya
+East African shilling	usingCountry	Tanzania
+East African shilling	usingCountry	Uganda
+East African shilling	usingCountry	British Somaliland
+Japanese military yen	usingCountry	List of territories occupied by Imperial Japan
+Iraqi Swiss dinar	usingCountry	Iraq
+Banknotes of the Hong Kong dollar	usingCountry	Hong Kong
+Cape Verdean escudo	usingCountry	Cape Verde
+Moroccan dirham	usingCountry	Morocco
+São Tomé and Príncipe dobra	usingCountry	São Tomé and Príncipe
+Hungarian pengő	usingCountry	Kingdom of Hungary (1920–1946)
+Hungarian pengő	usingCountry	Republic of Hungary (1946–1949)
+Unidad de Fomento	usingCountry	Chile
+Biafran pound	usingCountry	Biafra
+Zairean zaire	usingCountry	Zaire
+Canadian Tire money	usingCountry	Canadian Tire
+Slovak koruna	usingCountry	Slovakia
+Portuguese Indian escudo	usingCountry	Portuguese India
+Yugoslav dinar	usingCountry	Kingdom of Yugoslavia
+Yugoslav dinar	usingCountry	Socialist Federal Republic of Yugoslavia
+Yugoslav dinar	usingCountry	Serbia and Montenegro
+Croatian dinar	usingCountry	Croatia
+Katangan franc	usingCountry	State of Katanga
+Sudanese pound	usingCountry	Sudan
+Chilean escudo	usingCountry	Chile
+New Zealand pound	usingCountry	New Zealand
+New Zealand pound	usingCountry	Cook Islands
+New Zealand pound	usingCountry	Niue
+New Zealand pound	usingCountry	Pitcairn Islands
+New Zealand pound	usingCountry	Tokelau
+Aruban florin	usingCountry	Kingdom of the Netherlands
+Argentine austral	usingCountry	Argentina
+Paraguayan peso	usingCountry	Paraguay
+South Korean hwan	usingCountry	South Korea
+Rhodesian dollar	usingCountry	Rhodesia
+Confederate States of America dollar	usingCountry	Confederate States of America
+Equatorial Guinean ekwele	usingCountry	Equatorial Guinea
+Equatorial Guinean peseta	usingCountry	Equatorial Guinea
+Guinea-Bissau peso	usingCountry	Guinea-Bissau
+Guinean syli	usingCountry	Guinea
+Old Israeli shekel	usingCountry	Israel
+Malawian pound	usingCountry	Malawi
+Rhodesian pound	usingCountry	Rhodesia
+South Yemeni dinar	usingCountry	South Yemen
+South Yemeni dinar	usingCountry	Yemen
+Malian franc	usingCountry	Mali
+Moldovan cupon	usingCountry	Moldova
+Mozambican escudo	usingCountry	Mozambique
+Tajikistani ruble	usingCountry	Tajikistan
+German East African rupie	usingCountry	Tanganyika
+São Tomé and Príncipe escudo	usingCountry	São Tomé and Príncipe
+Bosnia and Herzegovina dinar	usingCountry	Bosnia and Herzegovina
+Nigerian pound	usingCountry	Nigeria
+South African pound	usingCountry	South Africa
+Sammarinese lira	usingCountry	San Marino
+Sammarinese lira	usingCountry	Italy
+Sammarinese lira	usingCountry	Vatican
+Vatican lira	usingCountry	Vatican
+Vatican lira	usingCountry	Italy
+Vatican lira	usingCountry	San Marino
+Montenegrin perper	usingCountry	Kingdom of Montenegro
+Austro-Hungarian gulden	usingCountry	Austria-Hungary
+Danzig gulden	usingCountry	Free City of Danzig
+Surinamese guilder	usingCountry	Suriname
+Bohemian and Moravian koruna	usingCountry	Protectorate of Bohemia and Moravia
+Zambian pound	usingCountry	Zambia
+Tuvaluan dollar	usingCountry	Australian dollar
+French Indochinese piastre	usingCountry	French Indochina
+Cambodian franc	usingCountry	Cambodia
+Jamaican pound	usingCountry	Jamaica
+Cook Islands dollar	usingCountry	New Zealand
+Portuguese Timorese escudo	usingCountry	Portuguese Timor
+Hamburg mark	usingCountry	Hamburg
+Hyderabadi rupee	usingCountry	Hyderabad State
+Palestine pound	usingCountry	British Mandate for Palestine
+Palestine pound	usingCountry	Transjordan
+Sardinian lira	usingCountry	Kingdom of Sardinia
+Lombardy-Venetia pound	usingCountry	Kingdom of Lombardy–Venetia
+Two Sicilies ducat	usingCountry	Kingdom of the Two Sicilies
+Tuscan florin	usingCountry	Grand Duchy of Tuscany
+Tuscan pound	usingCountry	Grand Duchy of Tuscany
+Tuscan pound	usingCountry	Kingdom of Etruria
+Roman scudo	usingCountry	Papal States
+Papal lira	usingCountry	Papal States
+Rhodesia and Nyasaland pound	usingCountry	Federation of Rhodesia and Nyasaland
+Southern Rhodesian pound	usingCountry	Southern Rhodesia
+Kiribati dollar	usingCountry	Australian dollar
+Angolan escudo	usingCountry	Angola
+Argentine real	usingCountry	Argentina
+Bhutanese rupee	usingCountry	Bhutan
+Old Taiwan dollar	usingCountry	Taiwan
+Salvadoran peso	usingCountry	El Salvador
+Microsoft Points	usingCountry	Xbox Live Marketplace
+Microsoft Points	usingCountry	Games for Windows – Live
+Microsoft Points	usingCountry	Zune Software#Zune Marketplace
+Microsoft Points	usingCountry	Windows Live Gallery
+Portuguese Timorese pataca	usingCountry	Portuguese Timor
+North Yemeni rial	usingCountry	Yemen Arab Republic
+Fijian pound	usingCountry	Fiji
+Georgian maneti	usingCountry	Democratic Republic of Georgia
+Portuguese Guinean escudo	usingCountry	Portuguese Guinea
+Central African CFA franc	usingCountry	Cameroon
+Central African CFA franc	usingCountry	Central African Republic
+Central African CFA franc	usingCountry	Chad
+Central African CFA franc	usingCountry	Republic of the Congo
+Central African CFA franc	usingCountry	Equatorial Guinea
+Central African CFA franc	usingCountry	Gabon
+West African CFA franc	usingCountry	Benin
+West African CFA franc	usingCountry	Burkina Faso
+West African CFA franc	usingCountry	Côte d'Ivoire
+West African CFA franc	usingCountry	Guinea-Bissau
+West African CFA franc	usingCountry	Mali
+West African CFA franc	usingCountry	Niger
+West African CFA franc	usingCountry	Senegal
+West African CFA franc	usingCountry	Togo
+New Guinean pound	usingCountry	Territory of New Guinea
+Peruvian nuevo sol	usingCountry	Peru
+Tunisian franc	usingCountry	Tunisia
+Currencies of Puerto Rico	usingCountry	Puerto Rico
+Currencies of Puerto Rico  Puerto Rican dollar   1	usingCountry	Puerto Rico
+Argentine peso argentino	usingCountry	Argentina
+Argentine peso ley	usingCountry	Argentina
+Malaya and British Borneo dollar	usingCountry	Federation of Malaya
+Malaya and British Borneo dollar	usingCountry	Singapore
+Malaya and British Borneo dollar	usingCountry	Brunei
+Malaya and British Borneo dollar	usingCountry	British Borneo
+Malaya and British Borneo dollar	usingCountry	Sarawak
+Luccan pound	usingCountry	Lucca
+Kraków złoty	usingCountry	Free City of Kraków
+Newfoundland dollar	usingCountry	Newfoundland
+Parman lira	usingCountry	Duchy of Parma
+Tuvan akşa	usingCountry	Tuvan People's Republic
+Argentine peso moneda nacional	usingCountry	Argentina
+Saxon thaler	usingCountry	Saxony
+South Vietnamese đồng	usingCountry	South Vietnam
+Monegasque franc	usingCountry	Monaco
+Monegasque franc	usingCountry	France
+Bermudian pound	usingCountry	Bermuda
+Antarctican dollar	usingCountry	Antarctica
+Hungarian korona	usingCountry	Hungarian Democratic Republic
+Hungarian korona	usingCountry	Hungarian Soviet Republic
+Hungarian korona	usingCountry	Kingdom of Hungary (1920–1946)
+Lebanese pound	usingCountry	Lebanon
+Nintendo Points	usingCountry	Wii Shop Channel
+Nintendo Points	usingCountry	Nintendo DSi#Software library
+Chinese customs gold unit	usingCountry	Republic of China
+South Korean won (1945–1953)	usingCountry	South Korea
+Transcaucasian ruble	usingCountry	Transcaucasian Socialist Federative Soviet Republic
+BerkShares	usingCountry	Berkshire County, Massachusetts
+BerkShares	usingCountry	United States
+Hungarian adópengő	usingCountry	Kingdom of Hungary (1920–1946)
+Hungarian adópengő	usingCountry	Republic of Hungary (1946–1949)
+North Vietnamese đồng	usingCountry	North Vietnam
+Cornish currency	usingCountry	Cornwall
+Austrian krone	usingCountry	Austria
+Austrian krone	usingCountry	Liechtenstein
+United States dollar	usingCountry	United States
+United States dollar	usingCountry	Panama
+United States dollar	usingCountry	Ecuador
+United States dollar	usingCountry	El Salvador
+Brazilian cruzado novo	usingCountry	Brazil
+Detroit Community Scrip	usingCountry	Detroit
+Fiume Krone	usingCountry	Free State of Fiume
+Sahrawi Peseta	usingCountry	Sahrawi Arab Democratic Republic
+Potomac (currency)	usingCountry	Washington, D.C.
+Potomac (currency)	usingCountry	Maryland
+Potomac (currency)	usingCountry	Virginia
+Potomac (currency)	usingCountry	United States
+AM-lira	usingCountry	Italy
+AM-lira	usingCountry	Allies of World War II
+AM-lira	usingCountry	Free Territory of Trieste
+Pitcairn Islands dollar	usingCountry	Pitcairn Islands
+Niue dollar	usingCountry	Niue
+Franga	usingCountry	Albanian Republic
+Franga	usingCountry	Albanian Kingdom
+Ottoman lira	usingCountry	Ottoman Empire
+South Sudanese pound	usingCountry	South Sudan
+Salt Spring dollar	usingCountry	Saltspring Island

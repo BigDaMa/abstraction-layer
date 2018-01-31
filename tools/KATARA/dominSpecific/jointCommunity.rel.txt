@@ -1,0 +1,148 @@
+Clausthal-Zellerfeld	jointCommunity	Oberharz (Samtgemeinde)
+Süpplingenburg	jointCommunity	Nord-Elm
+Hornburg	jointCommunity	Schladen (Samtgemeinde)
+Fintel	jointCommunity	Fintel (Samtgemeinde)
+Ebergötzen	jointCommunity	Radolfshausen
+Hesel	jointCommunity	Hesel (Samtgemeinde)
+Ahlden	jointCommunity	Ahlden (Samtgemeinde)
+Rethem	jointCommunity	Aller
+Bardowick	jointCommunity	Bardowick (Samtgemeinde)
+Amelinghausen	jointCommunity	Amelinghausen (Samtgemeinde)
+Bodenwerder	jointCommunity	Bodenwerder-Polle
+Börger	jointCommunity	Sögel
+Kranenburg, Lower Saxony	jointCommunity	Oldendorf (Samtgemeinde)
+Walkenried	jointCommunity	Walkenried (Samtgemeinde)
+Lutter am Barenberge	jointCommunity	Lutter am Barenberge (Samtgemeinde)
+Bad Nenndorf	jointCommunity	Nenndorf (Samtgemeinde)
+Bendestorf	jointCommunity	Jesteburg
+Apensen	jointCommunity	Apensen (Samtgemeinde)
+Oldendorf, Stade	jointCommunity	Oldendorf (Samtgemeinde)
+Fredenbeck	jointCommunity	Fredenbeck (Samtgemeinde)
+Harsefeld	jointCommunity	Harsefeld (Samtgemeinde)
+Himmelpforten	jointCommunity	Himmelpforten (Samtgemeinde)
+Horneburg	jointCommunity	Horneburg (Samtgemeinde)
+Elmlohe	jointCommunity	Bad Bederkesa
+Stadtoldendorf	jointCommunity	Eschershausen-Stadtoldendorf
+Boffzen	jointCommunity	Boffzen (Samtgemeinde)
+Bevern, Lower Saxony	jointCommunity	Bevern (Samtgemeinde)
+Hitzacker	jointCommunity	Elbtalaue
+Zeven	jointCommunity	Zeven (Samtgemeinde)
+Reppenstedt	jointCommunity	Gellersen
+Hage	jointCommunity	Hage (Samtgemeinde)
+Bad Bevensen	jointCommunity	Bevensen
+Otterndorf	jointCommunity	Land Hadeln (Samtgemeinde)
+Wanna, Germany	jointCommunity	Land Hadeln (Samtgemeinde)
+Eschede	jointCommunity	Eschede (Samtgemeinde)
+Lachendorf	jointCommunity	Lachendorf (Samtgemeinde)
+Wathlingen	jointCommunity	Wathlingen (Samtgemeinde)
+Bad Bederkesa	jointCommunity	Bederkesa (Samtgemeinde)
+Beverstedt	jointCommunity	Beverstedt (Samtgemeinde)
+Hagen im Bremischen	jointCommunity	Hagen (Samtgemeinde)
+Hemmoor	jointCommunity	Hemmoor (Samtgemeinde)
+Barnstorf	jointCommunity	Barnstorf (Samtgemeinde)
+Bruchhausen-Vilsen	jointCommunity	Bruchhausen-Vilsen (Samtgemeinde)
+Kirchdorf, Lower Saxony	jointCommunity	Kirchdorf (Samtgemeinde)
+Lemförde	jointCommunity	Altes Amt Lemförde
+Rehden	jointCommunity	Rehden (Samtgemeinde)
+Schwaförden	jointCommunity	Schwaförden (Samtgemeinde)
+Siedenburg	jointCommunity	Siedenburg (Samtgemeinde)
+Freren	jointCommunity	Freren (Samtgemeinde)
+Lengerich, Lower Saxony	jointCommunity	Lengerich (Samtgemeinde)
+Spelle	jointCommunity	Spelle (Samtgemeinde)
+Dransfeld	jointCommunity	Dransfeld (Samtgemeinde)
+Gieboldehausen	jointCommunity	Gieboldehausen (Samtgemeinde)
+Hollenstedt	jointCommunity	Hollenstedt (Samtgemeinde)
+Hanstedt	jointCommunity	Hanstedt (Samtgemeinde)
+Jesteburg	jointCommunity	Jesteburg (Samtgemeinde)
+Salzhausen	jointCommunity	Salzhausen (Samtgemeinde)
+Tostedt	jointCommunity	Tostedt (Samtgemeinde)
+Grasleben	jointCommunity	Grasleben (Samtgemeinde)
+Velpke	jointCommunity	Velpke (Samtgemeinde)
+Duingen	jointCommunity	Duingen (Samtgemeinde)
+Sibbesse	jointCommunity	Sibbesse (Samtgemeinde)
+Gartow	jointCommunity	Gartow (Samtgemeinde)
+Lüchow	jointCommunity	Lüchow (Samtgemeinde)
+Dahlenburg	jointCommunity	Dahlenburg (Samtgemeinde)
+Scharnebeck	jointCommunity	Scharnebeck (Samtgemeinde)
+Heemsen	jointCommunity	Heemsen (Samtgemeinde)
+Hoya, Germany	jointCommunity	Grafschaft Hoya (Samtgemeinde)
+Landesbergen	jointCommunity	Landesbergen (Samtgemeinde)
+Liebenau, Lower Saxony	jointCommunity	Liebenau (Samtgemeinde)
+Marklohe	jointCommunity	Marklohe (Samtgemeinde)
+Uchte	jointCommunity	Uchte (Samtgemeinde)
+Schnackenburg	jointCommunity	Gartow
+Neuenkirchen, Osnabrück	jointCommunity	Neuenkirchen (Samtgemeinde)
+Bersenbrück	jointCommunity	Bersenbrück (Samtgemeinde)
+Fürstenau, Germany	jointCommunity	Fürstenau (Samtgemeinde)
+Quakenbrück	jointCommunity	Artland
+Hambergen	jointCommunity	Hambergen (Samtgemeinde)
+Hattorf am Harz	jointCommunity	Hattorf am Harz (Samtgemeinde)
+Vordorf	jointCommunity	Papenteich
+Gorleben	jointCommunity	Gartow
+Selsingen	jointCommunity	Selsingen (Samtgemeinde)
+Sittensen	jointCommunity	Sittensen (Samtgemeinde)
+Sottrum	jointCommunity	Sottrum (Samtgemeinde)
+Tarmstedt	jointCommunity	Tarmstedt (Samtgemeinde)
+Bad Eilsen	jointCommunity	Eilsen (Samtgemeinde)
+Lindhorst	jointCommunity	Lindhorst (Samtgemeinde)
+Niedernwöhren	jointCommunity	Niedernwöhren (Samtgemeinde)
+Nienstädt	jointCommunity	Nienstädt (Samtgemeinde)
+Sachsenhagen	jointCommunity	Sachsenhagen (Samtgemeinde)
+Wrestedt	jointCommunity	Wrestedt (Samtgemeinde)
+Bad Bodenteich	jointCommunity	Bodenteich (Samtgemeinde)
+Ebstorf	jointCommunity	Altes Amt Ebstorf
+Rosche	jointCommunity	Rosche (Samtgemeinde)
+Suderburg	jointCommunity	Suderburg (Samtgemeinde)
+Thedinghausen	jointCommunity	Thedinghausen (Samtgemeinde)
+Esens, Lower Saxony	jointCommunity	Esens (Samtgemeinde)
+Baddeckenstedt	jointCommunity	Baddeckenstedt (Samtgemeinde)
+Schladen	jointCommunity	Schladen (Samtgemeinde)
+Schöppenstedt	jointCommunity	Schöppenstedt (Samtgemeinde)
+Sickte	jointCommunity	Sickte (Samtgemeinde)
+Luckau (Wendland)	jointCommunity	Lüchow
+Dannenberg (Elbe)	jointCommunity	Elbtalaue
+Wildemann	jointCommunity	Oberharz (Samtgemeinde)
+Altenau, Lower Saxony	jointCommunity	Oberharz (Samtgemeinde)
+Kneitlingen	jointCommunity	Schöppenstedt (Samtgemeinde)
+Alfhausen	jointCommunity	Bersenbrück (Samtgemeinde)
+Stöckse	jointCommunity	Steimbke
+Lübberstedt	jointCommunity	Hambergen
+Wielen	jointCommunity	Uelsen
+Hahausen	jointCommunity	Lutter am Barenberge (Samtgemeinde)
+Harbarnsen	jointCommunity	Lamspringe (Samtgemeinde)
+Wulften am Harz	jointCommunity	Hattorf am Harz
+Jameln	jointCommunity	Elbtalaue
+Engden	jointCommunity	Schüttorf
+Esche	jointCommunity	Neuenhaus
+Georgsdorf	jointCommunity	Neuenhaus
+Gölenkamp	jointCommunity	Uelsen
+Getelo	jointCommunity	Uelsen
+Halle, Bentheim	jointCommunity	Uelsen
+Hoogstede	jointCommunity	Emlichheim
+Isterberg	jointCommunity	Schüttorf
+Itterbeck	jointCommunity	Uelsen
+Laar	jointCommunity	Emlichheim
+Lage, Lower Saxony	jointCommunity	Neuenhaus
+Osterwald	jointCommunity	Neuenhaus
+Ohne	jointCommunity	Schüttorf
+Quendorf	jointCommunity	Schüttorf
+Ringe, Germany	jointCommunity	Emlichheim
+Samern	jointCommunity	Schüttorf
+Suddendorf	jointCommunity	Schüttorf
+Wilsum, Germany	jointCommunity	Uelsen (Samtgemeinde)
+Ahnsbeck	jointCommunity	Lachendorf
+Bröckel	jointCommunity	Samtgemeinde Flotwedel
+Stubben	jointCommunity	Beverstedt
+Martfeld	jointCommunity	Bruchhausen-Vilsen
+Handeloh	jointCommunity	Tostedt (Samtgemeinde)
+Undeloh	jointCommunity	Hanstedt
+Räbke	jointCommunity	Nord-Elm
+Deutsch Evern	jointCommunity	Ilmenau (Samtgemeinde)
+Embsen	jointCommunity	Ilmenau (Samtgemeinde)
+Melbeck	jointCommunity	Ilmenau (Samtgemeinde)
+Ankum	jointCommunity	Bersenbrück
+Börßum	jointCommunity	Oderwald
+Remlingen, Lower Saxony	jointCommunity	Asse
+Werlaburgdorf	jointCommunity	Schladen (Samtgemeinde)
+Wittmar	jointCommunity	Asse (Germany)
+Scharnebeck (Samtgemeinde)	jointCommunity	Scharnebeck

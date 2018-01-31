@@ -1,0 +1,26 @@
+Apollo 8	commandModule	CM-103 mass
+Apollo 11	commandModule	CM-107
+Apollo 11	commandModule	mass
+Apollo 13	commandModule	CM-109
+Apollo 13	commandModule	mass
+Apollo 7	commandModule	CM-101
+Apollo 9	commandModule	CM-104
+Apollo 9	commandModule	mass 26,801 kg
+Apollo 10	commandModule	CM-106
+Apollo 10	commandModule	mass 28,830 kg
+Apollo 1	commandModule	CM-012
+Apollo 15	commandModule	CM-112
+Apollo 15	commandModule	mass
+Apollo 14	commandModule	CM-110
+Apollo 14	commandModule	mass 29,240 kg
+Apollo 12	commandModule	CM-108
+Apollo 12	commandModule	mass
+Apollo 16	commandModule	CM-113
+Apollo 16	commandModule	mass
+Apollo 17	commandModule	CM-114
+Apollo 17	commandModule	mass
+Apollo 6	commandModule	CM-020
+Apollo 4	commandModule	CM-017
+Apollo–Soyuz Test Project	commandModule	CSM-111
+AS-201	commandModule	CM-009
+AS-202	commandModule	CM-011

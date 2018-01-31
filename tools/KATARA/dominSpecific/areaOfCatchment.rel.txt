@@ -1,0 +1,798 @@
+Cayuga Lake	areaOfCatchment	2.033E9
+Dead Sea	areaOfCatchment	4.165E10
+Lake Superior	areaOfCatchment	1.2769936378011649E11
+Lake Ladoga	areaOfCatchment	2.76E11
+Lake Champlain	areaOfCatchment	2.1326E10
+Lake Balaton	areaOfCatchment	5.181E9
+Lake Nicaragua	areaOfCatchment	2.3844E10
+Lake Van	areaOfCatchment	1.25E10
+Mono Lake	areaOfCatchment	2.03E9
+Lake Huron	areaOfCatchment	1.93473E11
+Great Salt Lake	areaOfCatchment	2.15E10
+Lake Baikal	areaOfCatchment	5.6E11
+Lake Zug	areaOfCatchment	2.04E8
+Lake Zurich	areaOfCatchment	1.829E9
+Aral Sea	areaOfCatchment	1.549E12
+Sea of Galilee	areaOfCatchment	2.73E9
+Lake Victoria	areaOfCatchment	1.84E11
+Lake Victoria	areaOfCatchment	2.389E11
+Lake Constance	areaOfCatchment	1.15E10
+Crater Lake	areaOfCatchment	6.03467229708288E7
+Lake Taupo	areaOfCatchment	3.487E9
+Lake Monticello, Virginia  Lake Monticello   1	areaOfCatchment	2.217517194752E7
+Lake Titicaca	areaOfCatchment	5.8E10
+Ladybower Reservoir	areaOfCatchment	2.5752334721536E7
+Utah Lake	areaOfCatchment	9.961094272352257E9
+Lake Manitoba	areaOfCatchment	5.463E10
+Lake Winnipeg	areaOfCatchment	9.842E11
+Lake Geneva	areaOfCatchment	7.975E9
+Lake Tanganyika	areaOfCatchment	2.31E11
+Lake Winnipegosis	areaOfCatchment	4.9825E10
+Lake Lucerne	areaOfCatchment	2.124E9
+Lake Burtnieks	areaOfCatchment	2.215E9
+Lake Washington	areaOfCatchment	1.27466773056E9
+Lake Union	areaOfCatchment	1.478883211001856E9
+Issyk Kul	areaOfCatchment	1.5844E10
+Lake Garda	areaOfCatchment	2.35E9
+Lake Como	areaOfCatchment	4.509E9
+Loch Lomond	areaOfCatchment	6.96E8
+Lac de Serre-Ponçon	areaOfCatchment	3.6E9
+Lake Simcoe	areaOfCatchment	2.84E9
+Lake Annecy	areaOfCatchment	2.51E8
+Lake Lugano	areaOfCatchment	5.656E8
+Bull Shoals Lake	areaOfCatchment	1.5633168233988096E10
+Studen Kladenets	areaOfCatchment	3.707E9
+Lake Neuchâtel	areaOfCatchment	2.67E9
+Lake Biwa	areaOfCatchment	3.174E9
+Lake Bracciano	areaOfCatchment	1.5E8
+Lake Sakakawea	areaOfCatchment	3.174E11
+Lake Powell	areaOfCatchment	6.7E10
+Lake Peipus	areaOfCatchment	4.78E10
+Lake Kyoga	areaOfCatchment	7.5E10
+Lake Athabasca	areaOfCatchment	2.7454E11
+Näsijärvi	areaOfCatchment	7.67229E9
+Lough Neagh	areaOfCatchment	4.55E9
+Salton Sea	areaOfCatchment	2.165230060240896E10
+Great Slave Lake	areaOfCatchment	9.71E11
+Lake Mashū	areaOfCatchment	3.24E7
+West Okoboji Lake	areaOfCatchment	3.23748513792E8
+Powai Lake	areaOfCatchment	6610000.0
+Great Bear Lake	areaOfCatchment	1.14717E11
+Okanagan Lake	areaOfCatchment	6.2E9
+Lake Turkana	areaOfCatchment	1.3086E11
+Lake Thun	areaOfCatchment	2.5E9
+Lake Brienz	areaOfCatchment	1.127E9
+Lake Biel	areaOfCatchment	8.305E9
+Lake Murten	areaOfCatchment	6.93E8
+Lake Kivu	areaOfCatchment	7.0E9
+Lake Edward	areaOfCatchment	1.2096E10
+Manicouagan Reservoir	areaOfCatchment	2.9241E10
+Lake Nipissing	areaOfCatchment	1.23E10
+Poyang Lake	areaOfCatchment	1.62225E11
+Lake Manapouri	areaOfCatchment	1.388E9
+Devils Lake (North Dakota)	areaOfCatchment	9.86785470038016E9
+Chautauqua Lake	areaOfCatchment	4.6619785986048E8
+Lake Burley Griffin	areaOfCatchment	1.835E8
+Warragamba Dam	areaOfCatchment	9.051E9
+Lake Burragorang	areaOfCatchment	9.051E9
+Lake Illawarra	areaOfCatchment	2.7E8
+Lake Valencia	areaOfCatchment	2.646E9
+Elgygytgyn Lake	areaOfCatchment	2.93E8
+Loch Awe	areaOfCatchment	8.4E8
+Loch Morar	areaOfCatchment	1.68E8
+Cahora Bassa	areaOfCatchment	5.6927E10
+Lake Kariba	areaOfCatchment	6.63E11
+Wörthersee	areaOfCatchment	1.621E8
+Owasco Lake	areaOfCatchment	2.08E8
+Bassenthwaite Lake	areaOfCatchment	2.36983912095744E8
+Lake Maggiore	areaOfCatchment	6.599E9
+Moosehead Lake	areaOfCatchment	3.284104923906048E9
+Lake Alexandrina (South Australia)	areaOfCatchment	1.061469E12
+Bear Lake (Idaho–Utah)	areaOfCatchment	2.372483204305037E10
+Loktak Lake	areaOfCatchment	9.8E8
+Drużno	areaOfCatchment	1.084E9
+Crystal Lake (Benzie County, Michigan)	areaOfCatchment	5.827473248256E7
+Lake Bosumtwi	areaOfCatchment	4.0E8
+Poopó Lake	areaOfCatchment	2.77E10
+Greifensee	areaOfCatchment	1.6E8
+Storsjön	areaOfCatchment	1.2064E10
+Beaver Lake (King County, Washington)	areaOfCatchment	4220566.485632
+Lake Texoma	areaOfCatchment	1.0287173775443558E11
+Tulsi Lake	areaOfCatchment	6760000.0
+Long Lake (Maine)	areaOfCatchment	2.95258644578304E8
+Brandy Pond (Cumberland County, Maine)	areaOfCatchment	5.15407633956864E8
+Sebago Lake	areaOfCatchment	1.13959476854784E9
+Hetch Hetchy Reservoir	areaOfCatchment	1.18E9
+Ammersee	areaOfCatchment	9.93E8
+Lesser Slave Lake	areaOfCatchment	1.39E10
+Glenmore Reservoir	areaOfCatchment	1.21E9
+Deep Creek Lake	areaOfCatchment	1.675722307387392E8
+Devils Lake (Lincoln County, Oregon)	areaOfCatchment	3.1079857324032E7
+Lake Scugog	areaOfCatchment	5.29E8
+Lake Mainit	areaOfCatchment	8.7072E8
+Lake Neusiedl	areaOfCatchment	1.12E9
+Lake Bogoria	areaOfCatchment	7.0E8
+Lake Ohau	areaOfCatchment	1.198E9
+Lake Pukaki	areaOfCatchment	1.413E9
+Lake Tekapo	areaOfCatchment	1.463E9
+Lake Iseo	areaOfCatchment	1.777E9
+Chew Valley Lake	areaOfCatchment	5.6651899136E7
+Lake Ginninderra	areaOfCatchment	9.88E7
+Lake Fryxell	areaOfCatchment	3.2E8
+Chilika Lake	areaOfCatchment	3.56E9
+Lake Ülemiste	areaOfCatchment	9.924E7
+Lake Ohrid	areaOfCatchment	2.6E9
+Great Sacandaga Lake	areaOfCatchment	2.703947587190784E9
+Lake Peigneur	areaOfCatchment	2.64178787254272E7
+Tenkiller Ferry Lake	areaOfCatchment	4.16988085764096E9
+Kukkarahalli lake	areaOfCatchment	4.14E8
+Honeoye Lake	areaOfCatchment	9.50525636493312E7
+Canadarago Lake	areaOfCatchment	1.74E8
+Okamanpeedan Lake	areaOfCatchment	4.85814314476544E8
+Lake Bomoseen	areaOfCatchment	1.0025E8
+Kamloops Lake	areaOfCatchment	3.905E10
+Lake Nipigon	areaOfCatchment	2.54E10
+Fort Peck Lake	areaOfCatchment	1.4892431634432E11
+Lake Volta	areaOfCatchment	3.8518E11
+Lake Sharpe	areaOfCatchment	6.457617355500748E11
+Lake Sonoma	areaOfCatchment	3.3669845434368E8
+Flathead Lake	areaOfCatchment	2.224022790345523E10
+Loch Shiel	areaOfCatchment	2.48E8
+Round Lake (Washington)	areaOfCatchment	1.74002261632E8
+Lake Bolsena	areaOfCatchment	1.595E8
+Khecheopalri Lake	areaOfCatchment	1.2E7
+Higgins Lake	areaOfCatchment	7.6884720256E7
+Calaveras Reservoir	areaOfCatchment	2.548548300570624E8
+Lake Decatur	areaOfCatchment	2.3957390020608E9
+Lake Oroville	areaOfCatchment	1.02304530358272E10
+Lake Wawasee	areaOfCatchment	9.5571753842432E7
+Lake Argyle	areaOfCatchment	4.61E10
+Sambhar Salt Lake	areaOfCatchment	5.7E9
+Lake Orta	areaOfCatchment	1.16E8
+Cowan Lake (Ohio)	areaOfCatchment	1.3207985627136E8
+Lake Volvi	areaOfCatchment	1.247E9
+Möhne Reservoir	areaOfCatchment	4.32E8
+Ashtamudi Lake	areaOfCatchment	1.7E9
+Caniapiscau Reservoir	areaOfCatchment	3.68E10
+Painted Rock Dam	areaOfCatchment	1.315713960050688E11
+Lake Mendota	areaOfCatchment	5.62E8
+Lake of the Ozarks	areaOfCatchment	3.6259833544704E10
+Lake Parramatta (New South Wales)	areaOfCatchment	8000000.0
+Lac du Bourget	areaOfCatchment	5.6E8
+Lake Corangamite	areaOfCatchment	4.079E9
+Lake Tuz	areaOfCatchment	1.19E10
+Lake Fork Reservoir	areaOfCatchment	1.276864138395648E9
+Dal Lake	areaOfCatchment	3.16E8
+Lake Taymyr	areaOfCatchment	1.043E11
+Sam Rayburn Reservoir	areaOfCatchment	8.932868992548864E9
+Bighorn Lake	areaOfCatchment	2.0E10
+Lake Lanier	areaOfCatchment	2.69358763474944E9
+Lake Starnberg	areaOfCatchment	3.14E8
+Guarapiranga	areaOfCatchment	6.31E8
+Don Pedro Reservoir	areaOfCatchment	3.884982165504E9
+Malham Tarn	areaOfCatchment	6000000.0
+Center Hill Lake	areaOfCatchment	5.630634151870464E9
+Lake Berryessa	areaOfCatchment	1.491833151553536E9
+Lake Borgne	areaOfCatchment	3.8E10
+Võrtsjärv	areaOfCatchment	3.1E9
+Lake Whatcom	areaOfCatchment	1.45E8
+Loch Ryan	areaOfCatchment	1.97E8
+Poechos Reservoir	areaOfCatchment	14000.0
+Pielinen	areaOfCatchment	1.2823E10
+Burnhope Reservoir	areaOfCatchment	4.3E7
+Wood Lake (British Columbia)	areaOfCatchment	1.9E8
+Ägerisee	areaOfCatchment	4068000.0
+Pushkar Lake	areaOfCatchment	2.2E7
+Cedar Creek Lake (Kentucky)	areaOfCatchment	5.6651899136E7
+Lake Drūkšiai	areaOfCatchment	6.13E8
+Wabamun Lake	areaOfCatchment	2.59E8
+Sanford Lake, Michigan	areaOfCatchment	8.4860498341504E7
+Stuart Lake	areaOfCatchment	1.46E10
+Hebgen Lake	areaOfCatchment	2.34393923985408E9
+Lake Marathon	areaOfCatchment	1.18E8
+East Grand Lake	areaOfCatchment	3.54828371116032E8
+Wachusett Reservoir	areaOfCatchment	2.79718715916288E8
+Lake Abert	areaOfCatchment	2.12379025047552E9
+Lake Assal (Djibouti)	areaOfCatchment	9.0E8
+Arresø	areaOfCatchment	2.161E8
+Buffalo Lake (Alberta)	areaOfCatchment	1.44E9
+Rajsamand Lake	areaOfCatchment	5.07637669625856E8
+Goose Lake (Oregon-California)	areaOfCatchment	2.79718715916288E9
+Lake Fitri	areaOfCatchment	7.0E10
+Springfield Lake	areaOfCatchment	4980000.0
+Lake Albert (New South Wales)	areaOfCatchment	7.646E7
+Lake Somerset	areaOfCatchment	1.503E9
+Lake Sibhayi	areaOfCatchment	5.3E8
+Burnsville Lake	areaOfCatchment	1.65E8
+Schaalsee	areaOfCatchment	1.8E8
+Charles Mill Lake	areaOfCatchment	5.5684744372224E8
+Bosten Lake	areaOfCatchment	5.6E10
+Hulun Lake	areaOfCatchment	3.3469E10
+Lake Muir	areaOfCatchment	3.84E8
+Joe Pool Lake	areaOfCatchment	6.03467229708288E8
+San Luis Reservoir	areaOfCatchment	2.191129941344256E8
+Lake Amatitlán	areaOfCatchment	3.68E8
+Argentino Lake	areaOfCatchment	1.7E10
+Akkajaure	areaOfCatchment	4.65E9
+Lake Kaweah	areaOfCatchment	1.45039334178816E9
+Sobradinho Reservoir	areaOfCatchment	4.98425E11
+Hinze Dam	areaOfCatchment	2.07E8
+Lake Jackson (Tallahassee, Florida)	areaOfCatchment	1.090384994451456E8
+Lake Memphremagog	areaOfCatchment	1.779321831800832E9
+Deer Creek Dam and Reservoir	areaOfCatchment	1.87E9
+Lake Greeson	areaOfCatchment	6.13827182149632E8
+Lake Moogerah	areaOfCatchment	2.27E8
+Lake Diefenbaker	areaOfCatchment	1.35E8
+Shannon Pot	areaOfCatchment	1.28E7
+Tegernsee (lake)	areaOfCatchment	2.12E8
+Lake Dukan	areaOfCatchment	1.17E10
+Staples Pond	areaOfCatchment	3625983.3544704
+Lácar Lake	areaOfCatchment	1.048E9
+Lake Tinaroo	areaOfCatchment	5.45E8
+Lake Iamonia	areaOfCatchment	2.61588799143936E8
+Millwood Lake	areaOfCatchment	1.0732910729232384E10
+Fusaro Lake	areaOfCatchment	8870000.0
+Silvan Reservoir	areaOfCatchment	9000000.0
+Shaver Lake	areaOfCatchment	7.58866516328448E7
+Narrows Pond	areaOfCatchment	2.2014898937856E7
+Lake Hazen	areaOfCatchment	4.9E9
+Halasuru  Lake   1	areaOfCatchment	1500000.0
+Tuttle Creek Lake	areaOfCatchment	2.5E10
+Millstätter See	areaOfCatchment	2.85E8
+Lake Tutira	areaOfCatchment	2.7E7
+Clinton Lake (Kansas)	areaOfCatchment	9.50525636493312E8
+Neversink Reservoir	areaOfCatchment	2.38278906150912E8
+Fontenelle Reservoir	areaOfCatchment	1.0763990586556416E10
+Pine Flat Lake	areaOfCatchment	4.00153163046912E9
+Jordan Pond	areaOfCatchment	4972777.17184512
+Lake Casitas	areaOfCatchment	1.0E8
+Millerton Lake	areaOfCatchment	4.3382300848128E9
+Mammoth Pool Reservoir	areaOfCatchment	2.584808134115328E9
+Maroon Dam	areaOfCatchment	1.06E8
+West Point Lake	areaOfCatchment	8.8059595751424E9
+Vegår	areaOfCatchment	1.41E8
+Kaptai Lake	areaOfCatchment	1.1E10
+Chickamauga Lake	areaOfCatchment	5.384585281388544E10
+Lake Lafayette	areaOfCatchment	7.96E7
+Lake Baskunchak	areaOfCatchment	1.1E10
+Lake Springfield	areaOfCatchment	6.8634684923904E8
+Pinehurst Lake	areaOfCatchment	2.85E8
+Province Lake	areaOfCatchment	1.83889155833856E7
+Great East Lake	areaOfCatchment	4.0144815710208E7
+North Pine Dam	areaOfCatchment	3.48E8
+Jal Mahal	areaOfCatchment	2.35E7
+Northeast Pond	areaOfCatchment	2.64178787254272E8
+Milton Pond	areaOfCatchment	2.77128727805952E8
+Stump Pond (Balch Pond)	areaOfCatchment	3.70368299778048E7
+New Melones Lake	areaOfCatchment	2.3E9
+Whiskeytown Lake	areaOfCatchment	5.25767586398208E8
+Cultus Lake, British Columbia	areaOfCatchment	6.5E7
+Brokopondo Reservoir	areaOfCatchment	1.22E10
+Iskar Reservoir	areaOfCatchment	1.046E9
+Titicus Reservoir	areaOfCatchment	6.2159714648064E7
+East Branch Reservoir	areaOfCatchment	1.942491082752E8
+Lake of Banyoles	areaOfCatchment	1.142E7
+Cold Lake (Alberta)	areaOfCatchment	6.14E9
+Lough Melvin	areaOfCatchment	2.65E8
+Cannonsville Reservoir	areaOfCatchment	1.17844459020288E9
+Bouquet Reservoir	areaOfCatchment	3.52238383005696E7
+West Branch Reservoir	areaOfCatchment	5.179976220672E7
+Boyds Corner Reservoir	areaOfCatchment	5.6979738427392E7
+Amawalk Reservoir	areaOfCatchment	5.179976220672E7
+Middle Branch Reservoir	areaOfCatchment	5.4389750317056E7
+Bog Brook Reservoir	areaOfCatchment	1.0359952441344E7
+Cross River Reservoir	areaOfCatchment	7.769964331008E7
+Croton Falls Reservoir	areaOfCatchment	4.1439809765376E7
+Muscoot Reservoir	areaOfCatchment	1.96839096385536E8
+New Croton reservoir	areaOfCatchment	1.47629322289152E8
+Lake Needwood	areaOfCatchment	3.31518478123008E7
+Lake Bernard Frank	areaOfCatchment	3.15978549460992E7
+Lake Mistassini	areaOfCatchment	1.813E9
+Crystal Springs Reservoir	areaOfCatchment	7.61456504438784E7
+Cherry Lake	areaOfCatchment	2.95258644578304E8
+Keoka Lake	areaOfCatchment	1.83889155833856E7
+Lake Mendocino	areaOfCatchment	2.7194875158528E8
+Saugatuck Reservoir	areaOfCatchment	3.5E7
+Lake Baldegg	areaOfCatchment	7.3E7
+Lake Hallwil	areaOfCatchment	1.28E8
+Lake of Gruyère	areaOfCatchment	9.54E8
+Lake Wohlen	areaOfCatchment	3.202E9
+Plauer See (Mecklenburg-Vorpommern)	areaOfCatchment	1.109E9
+Loon Lake (California)	areaOfCatchment	2.10421339648E7
+Green Lake (Alaska)	areaOfCatchment	7.45916575776768E7
+Chott Melrhir	areaOfCatchment	6.875E10
+Lake Engure	areaOfCatchment	6.44E8
+Scituate Reservoir	areaOfCatchment	2.43458882371584E8
+Lake Kizaki	areaOfCatchment	2.2E7
+Green Lake (Wisconsin)	areaOfCatchment	2.589988110336E8
+San Andreas Lake	areaOfCatchment	1.13959476854784E7
+Utikuma Lake	areaOfCatchment	2.17E9
+Lake Seminole	areaOfCatchment	4.45477954977792E10
+Tawa Reservoir	areaOfCatchment	5.9829E9
+Lake Bohinj	areaOfCatchment	1.07E8
+Pigeon Lake (Alberta)	areaOfCatchment	1.87E8
+Étang de Berre	areaOfCatchment	1.7E9
+Orlík Dam	areaOfCatchment	1.2105E10
+Elkwater Lake (Alberta)	areaOfCatchment	2.57E7
+Flagstaff Lake (Maine)	areaOfCatchment	1.336433864933376E9
+Chatfield Reservoir	areaOfCatchment	7.769964331008E9
+Rangeley Lake	areaOfCatchment	2.589988110336E8
+Mooselookmeguntic Lake	areaOfCatchment	1.007505374920704E9
+Upper Kananaskis Lake	areaOfCatchment	1.39E8
+Lake Vico	areaOfCatchment	4.095E7
+Weston Reservoir	areaOfCatchment	242793.85344
+Great Pond	areaOfCatchment	2.147100143468544E8
+Maharana Pratap Sagar	areaOfCatchment	1.2561E10
+Wollaston Lake	areaOfCatchment	2.331E10
+Sturgeon Lake (Alberta)	areaOfCatchment	5.71E8
+Lake Todos los Santos	areaOfCatchment	3.036E9
+Lake Banksiadale	areaOfCatchment	3.11E8
+Lac Ste. Anne (Alberta)	areaOfCatchment	6.19E8
+Lake Musconetcong	areaOfCatchment	5.6651899136E7
+Bonnie Lake (Alberta)	areaOfCatchment	4.96E7
+Brooks Pond (Massachusetts)	areaOfCatchment	768847.20256
+Matabeleland Zambezi Water Project	areaOfCatchment	3.9076E10
+North Lake (Dallas County, Texas)	areaOfCatchment	7769964.331008
+Mountain Creek Lake	areaOfCatchment	7.6404649254912E8
+Lake Silvaplana	areaOfCatchment	1.29E8
+Pfäffikersee	areaOfCatchment	4.0E7
+Schiffenensee	areaOfCatchment	1.4E9
+Lago di Lei	areaOfCatchment	4.65E7
+Sugden Reservoir	areaOfCatchment	4.6619785986048E7
+Trillium Lake	areaOfCatchment	2589988.110336
+Theodore Roosevelt Lake	areaOfCatchment	1.509963068325888E10
+Lake Misurina	areaOfCatchment	150000.0
+Browning Pond	areaOfCatchment	3.1079857324032E7
+Wägitalersee	areaOfCatchment	4.27E7
+Puyehue Lake	areaOfCatchment	1.267E9
+Walker Lake (Pennsylvania)	areaOfCatchment	4.9209774096384E7
+Lake Redstone	areaOfCatchment	7.769964331008E7
+Großer Plöner See	areaOfCatchment	3.93E8
+Thompson Pond (Massachusetts)	areaOfCatchment	4.6619785986048E7
+Lake Papakeechie	areaOfCatchment	1.388233627140096E7
+Upper Yarra Reservoir	areaOfCatchment	3.367E8
+Lake Der-Chantecoq	areaOfCatchment	2.9E9
+Laguna Verde (lake of Chile)	areaOfCatchment	1.075E9
+Lake Tarpon	areaOfCatchment	1.34679381737472E8
+Grimselsee	areaOfCatchment	7.44E7
+Robert-Bourassa Reservoir	areaOfCatchment	9.7643E10
+Albigna lake	areaOfCatchment	2.05E7
+Lake Livingston	areaOfCatchment	4.303524244134298E10
+Ross River Dam	areaOfCatchment	7.5E8
+Lake James	areaOfCatchment	6.0E16
+Isbladskärret	areaOfCatchment	200000.0
+Černé jezero	areaOfCatchment	1280000.0
+Cedar Creek Reservoir (Texas)	areaOfCatchment	2.589988110336E9
+Lake Qaraoun	areaOfCatchment	1.6E9
+Lake Kohangatera	areaOfCatchment	1.7E7
+Rocky Creek Dam	areaOfCatchment	3.1E7
+Zervreilasee	areaOfCatchment	6.39E7
+Lake Narracan	areaOfCatchment	1.942E9
+Lac d'Emosson	areaOfCatchment	3.491E7
+Amsoldingersee	areaOfCatchment	4202000.0
+Lake Shikotsu	areaOfCatchment	2.23E8
+Lake Campotosto	areaOfCatchment	4.75E7
+Müritz	areaOfCatchment	6.63E8
+Fountaingrove Lake	areaOfCatchment	1346793.81737472
+Lake Cadagno	areaOfCatchment	2510000.0
+Lac de Bret	areaOfCatchment	2.1E7
+Veeranam Lake	areaOfCatchment	2.5E7
+C. J. Strike Reservoir	areaOfCatchment	1.056715149017088E11
+Oeschinen Lake	areaOfCatchment	2.2E7
+Quesnel Lake	areaOfCatchment	6.2E9
+San Pablo Reservoir	areaOfCatchment	6.052802213855232E7
+Briones Reservoir	areaOfCatchment	2.2E7
+Sasthamkotta Lake	areaOfCatchment	1.269E7
+Lago del Sambuco	areaOfCatchment	2.975E7
+Bhojtal	areaOfCatchment	3.61E8
+Lai da Marmorera	areaOfCatchment	8.9E7
+Umiam Lake	areaOfCatchment	2.2E8
+Limmernsee	areaOfCatchment	1.78E7
+Lago di Mergozzo	areaOfCatchment	10.4
+Lake Kutubu	areaOfCatchment	2.5E8
+Lago di Viverone	areaOfCatchment	2.57E7
+Oberaarsee	areaOfCatchment	1.94E7
+Kealia Pond National Wildlife Refuge	areaOfCatchment	1.45039334178816E8
+Western Brook Pond	areaOfCatchment	1.71E8
+Rawal lake	areaOfCatchment	2.751862367232E8
+Lake Red Rock (Des Moines River)	areaOfCatchment	3.1079857324032E10
+Arnensee	areaOfCatchment	7100000.0
+Robert S. Kerr Reservoir	areaOfCatchment	3.82686283230806E11
+Gelmersee	areaOfCatchment	1.6E7
+Räterichsbodensee	areaOfCatchment	1.302E8
+Göscheneralpsee	areaOfCatchment	4.23E7
+Lake Boon	areaOfCatchment	6838693.53856
+Lake Eupen	areaOfCatchment	1.0595E8
+Laguna Miscanti	areaOfCatchment	3.03E8
+Lejía Lake	areaOfCatchment	1.93E8
+Booragoon Lake	areaOfCatchment	190000.0
+Lake Idro	areaOfCatchment	6.17E8
+Rimrock Lake	areaOfCatchment	4.84327776632832E8
+Bumping Lake	areaOfCatchment	1.76119191502848E8
+Cle Elum Lake	areaOfCatchment	6.7339690868736E8
+Kachess Lake	areaOfCatchment	1.63169250951168E8
+Keechelus Lake	areaOfCatchment	1.406363543912448E8
+Lac de Mauvoisin	areaOfCatchment	1.135E8
+Spring Creek Reservoir (New South Wales)	areaOfCatchment	6.3E7
+Mattmarksee	areaOfCatchment	3.71E7
+Lake O' the Pines	areaOfCatchment	2.2014898937856E9
+Lago di Vogorno	areaOfCatchment	2.33E8
+Benbrook Lake	areaOfCatchment	1.111104899334144E9
+Judarn	areaOfCatchment	800000.0
+Kyrksjön	areaOfCatchment	480000.0
+Råcksta Träsk	areaOfCatchment	3600000.0
+Lillsjön (Ulvsunda)	areaOfCatchment	1040000.0
+Laduviken	areaOfCatchment	1100000.0
+Aquilla Lake	areaOfCatchment	6.6044696813568E8
+Lost Creek Lake	areaOfCatchment	1.745651986366464E9
+Lappkärret	areaOfCatchment	170000.0
+Spegeldammen	areaOfCatchment	160000.0
+Uggleviken	areaOfCatchment	1140000.0
+Magelungen	areaOfCatchment	1.907E7
+Swan Lake (Alaska)	areaOfCatchment	1.294994055168E7
+Drevviken	areaOfCatchment	4.897E7
+Flaten	areaOfCatchment	4030000.0
+Lac de Salanfe	areaOfCatchment	1.84E7
+Ältasjön	areaOfCatchment	4370000.0
+Sicklasjön	areaOfCatchment	4370000.0
+Lake Lesina	areaOfCatchment	4.47E8
+Moose Lake (Alberta)	areaOfCatchment	7.55E8
+Bay Lake (Minnesota)	areaOfCatchment	5.9569726537728E7
+Lac la Nonne	areaOfCatchment	1.3E8
+Långsjön	areaOfCatchment	2430000.0
+Trekanten (Stockholm)	areaOfCatchment	600000.0
+Lac de l'Hongrin	areaOfCatchment	4.56E7
+Gömmaren	areaOfCatchment	2000000.0
+Trehörningen (Sjödalen)	areaOfCatchment	1.79E7
+Cairn Curran Reservoir	areaOfCatchment	1.593E9
+Hacksjön	areaOfCatchment	1700000.0
+Eagle Lake (Lassen County)	areaOfCatchment	1.5E9
+Loch Assynt	areaOfCatchment	6.9E7
+Lake Galena (Illinois)	areaOfCatchment	4.184147407616E7
+Lago di Luzzone	areaOfCatchment	3.674E7
+Lago di Livigno	areaOfCatchment	2.95E8
+Lai da Sontga Maria	areaOfCatchment	2.71E7
+Lake Kasumigaura	areaOfCatchment	1.915E9
+Paravani Lake	areaOfCatchment	2.34E8
+Gull Lake (Alberta)	areaOfCatchment	2.06E8
+Newnans Lake	areaOfCatchment	3.08E8
+Lake Pillsbury	areaOfCatchment	7.48506563887104E8
+Lake Francis Case	areaOfCatchment	6.824100673113292E11
+Chatyr-Kul	areaOfCatchment	1.05E9
+Lake Anza	areaOfCatchment	4040381.45212416
+Elk Lake (British Columbia)	areaOfCatchment	1.15E7
+Melchsee	areaOfCatchment	5900000.0
+Lugu Lake	areaOfCatchment	1.714E8
+Cotacotani Lake	areaOfCatchment	1.19E8
+Whaley Lake	areaOfCatchment	9582956.0082432
+Lake Piru	areaOfCatchment	1.0914209896955905E9
+Lai da Nalps	areaOfCatchment	2.23E7
+Lac de Montsalvens	areaOfCatchment	1.73E8
+Stausee Gibidum	areaOfCatchment	1.503E8
+Gigerwaldsee	areaOfCatchment	5.206E7
+Lac de Tseuzier	areaOfCatchment	1.87E7
+Tannensee	areaOfCatchment	1300000.0
+Sufnersee	areaOfCatchment	1.94E8
+Illsee	areaOfCatchment	5900000.0
+Griessee	areaOfCatchment	1.06E7
+Lac de Moron	areaOfCatchment	9.11E8
+Lac des Toules	areaOfCatchment	3.76E7
+Lago del Narèt	areaOfCatchment	4050000.0
+Lai da Curnera	areaOfCatchment	2.41E7
+Lago di Lucendro	areaOfCatchment	7050000.0
+Lac de Cleuson	areaOfCatchment	1.6E7
+Lac du Vieux Emosson	areaOfCatchment	4600000.0
+Lago dei Cavagnöö	areaOfCatchment	5050000.0
+Deadwood Reservoir	areaOfCatchment	2.867116838141952E8
+Lac de Pérolles	areaOfCatchment	1.25E9
+Lago di Robièi	areaOfCatchment	1520000.0
+McGregor Lake	areaOfCatchment	9.93E8
+Stausee Ferden	areaOfCatchment	1.392E8
+Hüttnersee	areaOfCatchment	2400000.0
+Kallavesi	areaOfCatchment	1.627E10
+Lac d'Icogne	areaOfCatchment	3300000.0
+Sternenweiher	areaOfCatchment	4000000.0
+Caballo Lake	areaOfCatchment	7.9574E10
+Split Rock Dam	areaOfCatchment	1.65E9
+Chichester Dam	areaOfCatchment	1.97E8
+Hinterburgsee	areaOfCatchment	1620000.0
+Lake Moondarra	areaOfCatchment	1.14E9
+Sägistalsee	areaOfCatchment	3850000.0
+Teufenbachweiher	areaOfCatchment	1250000.0
+Lake Ukiel	areaOfCatchment	2.59E7
+Seebergsee	areaOfCatchment	230000.0
+Beacon Reservoir (Dutchess County, New York)	areaOfCatchment	647497.027584
+Moossee	areaOfCatchment	2.08E7
+Lützelsee	areaOfCatchment	5709000.0
+Lake Cristallina	areaOfCatchment	170000.0
+Laguna de Gallocanta	areaOfCatchment	5.4335E8
+Lake Karla	areaOfCatchment	3.7E10
+Lago della Crosa	areaOfCatchment	1940000.0
+Bannalpsee	areaOfCatchment	8160000.0
+Gübsensee	areaOfCatchment	680000.0
+Lago Sfundau	areaOfCatchment	1969000.0
+Lexington Reservoir	areaOfCatchment	7.17426706563072E7
+Lac de Sanetsch	areaOfCatchment	1.07E7
+Wilersee	areaOfCatchment	580000.0
+Mettmenhaslisee	areaOfCatchment	431000.0
+Egelsee (Bubikon)	areaOfCatchment	1305000.0
+Egelsee (Berne)	areaOfCatchment	480000.0
+Garichtisee	areaOfCatchment	7800000.0
+Lago di Palagnedra	areaOfCatchment	1.377E8
+Lake Michie	areaOfCatchment	4.35118002536448E8
+Gregoire Lake (Alberta)	areaOfCatchment	2.32E8
+Chesuncook Lake	areaOfCatchment	3.67778311667712E9
+Lake Euramoo	areaOfCatchment	44000.0
+Lake Wahtopanah	areaOfCatchment	3.26338501902336E9
+Lac de Fully	areaOfCatchment	4900000.0
+Trübtensee	areaOfCatchment	1800000.0
+Lake Cochituate	areaOfCatchment	4.4029797875712E7
+Lac de Lessoc	areaOfCatchment	5.06E8
+Leslie Dam	areaOfCatchment	6.03E8
+Atkinson Dam	areaOfCatchment	4.105E9
+Cressbrook Dam	areaOfCatchment	3.2E8
+Cooby Dam	areaOfCatchment	1.59E8
+Perseverance Dam	areaOfCatchment	1.1E8
+Fred Haigh Dam	areaOfCatchment	1.31E9
+Gold Creek Dam	areaOfCatchment	1.048E7
+Lake Clarendon	areaOfCatchment	3400000.0
+Lake Harku	areaOfCatchment	4.717E7
+Coolmunda Dam	areaOfCatchment	1.735E9
+Lake Manchester Dam	areaOfCatchment	7.4E7
+Lenthalls Dam	areaOfCatchment	9.35E8
+Lago d'Origlio	areaOfCatchment	2000000.0
+Lago di Annone	areaOfCatchment	2.81E7
+Lac du Vernex	areaOfCatchment	3.98E8
+Burgseeli	areaOfCatchment	717000.0
+Lobsigensee	areaOfCatchment	932000.0
+Lac des Rousses	areaOfCatchment	1.2E7
+Lake Cadillac	areaOfCatchment	3.4356E10
+Lake Bonney S.E (South Australia)	areaOfCatchment	4.3E8
+Lago del Zött	areaOfCatchment	9500000.0
+Ghost Lake (Alberta)	areaOfCatchment	6.46E9
+Wyaralong Dam	areaOfCatchment	5.33E8
+Lai da Ova Spin	areaOfCatchment	3.85E8
+Placer Dam	areaOfCatchment	9.8E7
+Lake Ralphine	areaOfCatchment	388498.2165504
+Santa Rosa Creek Reservoir	areaOfCatchment	1424493.4606848
+Husemersee	areaOfCatchment	1436000.0
+Seeweidsee	areaOfCatchment	258000.0
+Littleville Lake (Massachusetts)	areaOfCatchment	1.34679381737472E8
+Petaluma Reservoir	areaOfCatchment	1294994.055168
+Chadwick Lake	areaOfCatchment	3.4317342461952E7
+Coyote Lake (Santa Clara County, California)	areaOfCatchment	3.102805756182528E8
+Stausee Mapragg	areaOfCatchment	1.14E8
+Albysjön (Botkyrka)	areaOfCatchment	8.41E7
+Warm Springs Reservoir	areaOfCatchment	2.87488680247296E9
+Orlången	areaOfCatchment	4.24E7
+Mörtsjön	areaOfCatchment	1300000.0
+Lake Sapanca	areaOfCatchment	2.51E8
+Lake Newell	areaOfCatchment	8.46E7
+Green Lake (Maine)	areaOfCatchment	1.533272961318912E8
+Morávka Dam	areaOfCatchment	6.33E7
+Rocky Gorge Reservoir	areaOfCatchment	3.41878430564352E8
+Triadelphia Reservoir	areaOfCatchment	2.002060809289728E8
+Puslinch Lake	areaOfCatchment	9725000.0
+Lake Burrumbeet	areaOfCatchment	2.28E8
+Lake Parón	areaOfCatchment	4.43E7
+Prineville Reservoir	areaOfCatchment	6.82461867073536E9
+Imperial Reservoir	areaOfCatchment	2.3292023673344E7
+Turtle Lake (Tbilisi)	areaOfCatchment	400000.0
+Lake Aldwell	areaOfCatchment	8.1584625475584E8
+Indian Valley Reservoir	areaOfCatchment	3.15978549460992E8
+Lago di Alserio	areaOfCatchment	1.83E7
+Lake Marcel	areaOfCatchment	5220067.84896
+Parakrama Samudra	areaOfCatchment	7.5E7
+Alcove Reservoir	areaOfCatchment	2.54933546112E7
+Lake Ikeda	areaOfCatchment	4.1E7
+Crescent Lake (Oregon)	areaOfCatchment	1.47629322289152E8
+Lake Pichola	areaOfCatchment	5.5E7
+Fateh Sagar Lake	areaOfCatchment	5.4E7
+Odell Lake (Oregon)	areaOfCatchment	9.5829560082432E7
+Spelga Reservoir	areaOfCatchment	5422396.06016
+Lac d'Apremont	areaOfCatchment	2.76E8
+Aliyar Reservoir	areaOfCatchment	4.688E8
+Loch Enoch	areaOfCatchment	1860000.0
+Lake Musters and Lake Colhue Huapi	areaOfCatchment	9.7E9
+Lake Musters and Lake Colhue Huapi  Lake Colhué Huapi   1	areaOfCatchment	1.09E10
+Trylen	areaOfCatchment	30000.0
+Uvas Reservoir	areaOfCatchment	8.2879619530752E7
+Icalma Lake	areaOfCatchment	1.5E8
+Lough Feeagh	areaOfCatchment	8.3E7
+Khar-Us Nuur	areaOfCatchment	7.45E10
+Alvord Lake (Oregon)	areaOfCatchment	5.5684744372224E9
+Tatla Lake	areaOfCatchment	6.9E8
+Lake Varese	areaOfCatchment	1.12E8
+Loon Lake (Oregon)	areaOfCatchment	2.30508941819904E8
+Lac de Chalain	areaOfCatchment	4.4E7
+Lac de l'Abbaye	areaOfCatchment	3250000.0
+Lac de Narlay	areaOfCatchment	5500000.0
+Scofield Reservoir	areaOfCatchment	1.76025543744E10
+Zavoj Lake	areaOfCatchment	5.84E8
+Howard Prairie Lake	areaOfCatchment	2.04609060716544E8
+Graham Lake (Maine)	areaOfCatchment	1.292404067057664E9
+Lac Vert (Passy)	areaOfCatchment	1200000.0
+Lake Carmel (New York)	areaOfCatchment	3.3669845434368E7
+Spednic Lake	areaOfCatchment	1.069665089568768E9
+Lake Gleneida	areaOfCatchment	1269002.5406464
+Ogosta Reservoir	areaOfCatchment	9.48E8
+Lac Bénit	areaOfCatchment	906000.0
+Walchensee	areaOfCatchment	7.793E8
+Lac d'Aiguebelette	areaOfCatchment	7.0E7
+Grimwith Reservoir	areaOfCatchment	2.55E7
+Riffelsee	areaOfCatchment	200000.0
+Bull Run Lake	areaOfCatchment	9064958.386176
+Lake Lawtonka	areaOfCatchment	2.38278906150912E8
+Lake Sagami	areaOfCatchment	1064000.0
+Tooms Lake, Tasmania  Tooms Lake   1	areaOfCatchment	6.02E7
+Riffe Lake	areaOfCatchment	3.6259833544704E9
+Lake Merwin	areaOfCatchment	1.893281308655616E9
+Yale Lake	areaOfCatchment	1.5539928662016E9
+Swift Reservoir	areaOfCatchment	1.245784281071616E9
+Cougar Reservoir	areaOfCatchment	5.4389750317056E8
+Lookout Point Lake	areaOfCatchment	2.566678217342976E9
+Lucky Peak Lake	areaOfCatchment	6.94116813570048E9
+Manasbal Lake	areaOfCatchment	3.3E7
+Caspian Sea	areaOfCatchment	3.626E12
+Winagami Lake	areaOfCatchment	2.21E8
+Hesaraghatta Lake	areaOfCatchment	7.383E7
+Lake of Sainte-Croix	areaOfCatchment	1.591E9
+Futalaufquen Lake	areaOfCatchment	2.92E9
+Morris Lake (Nova Scotia)	areaOfCatchment	1.7495E7
+Russell Lake (Nova Scotia)	areaOfCatchment	3.035E7
+Lake Saroma	areaOfCatchment	6.18E8
+Chocorua Lake	areaOfCatchment	3.41878430564352E7
+Loch Ness	areaOfCatchment	1.775E9
+Berijam Lake	areaOfCatchment	7.78E7
+Swan Lake (Manitoba)	areaOfCatchment	1.004915386810368E10
+Mary Elmer Lake	areaOfCatchment	1.942491082752E7
+Lake Lukomlskoye	areaOfCatchment	1.79E8
+Narva Reservoir	areaOfCatchment	5.5848E10
+Topolnitsa Reservoir	areaOfCatchment	1381000.0
+Lake Büyükçekmece	areaOfCatchment	6.22E8
+Scott Lake (Washington)	areaOfCatchment	6526770.03804672
+Lake Padden	areaOfCatchment	6811668.73018368
+Windebyer Noor	areaOfCatchment	1.661E7
+Abtsdorfer See	areaOfCatchment	2.13E7
+Großer Arbersee	areaOfCatchment	2580000.0
+Kleiner Arbersee	areaOfCatchment	2790000.0
+Rachelsee	areaOfCatchment	580000.0
+Haddebyer Noor	areaOfCatchment	3.62E7
+Peruća Lake	areaOfCatchment	3.7E9
+Eibsee	areaOfCatchment	1.339E7
+Funtensee	areaOfCatchment	1.0E7
+Bannwaldsee	areaOfCatchment	2.142E7
+Weißensee (Füssen)	areaOfCatchment	1.5E7
+Barmsee	areaOfCatchment	3000000.0
+Grünsee (Berchtesgadener Land)	areaOfCatchment	2000000.0
+Parsteiner See	areaOfCatchment	1.5E8
+Süseler See	areaOfCatchment	9790000.0
+Borkener See	areaOfCatchment	3500000.0
+Woseriner See	areaOfCatchment	7.58E7
+Brautsee	areaOfCatchment	620000.0
+Selker Noor	areaOfCatchment	3.18E7
+Gombether See	areaOfCatchment	1200000.0
+Lac de Pierre-Percée	areaOfCatchment	1.1E7
+Lac de Grand-Lieu	areaOfCatchment	7.0E8
+Lac de Madine	areaOfCatchment	4.3638E7
+Lac Vert (Vosges)	areaOfCatchment	1000000.0
+Lac de Saint-Cassien	areaOfCatchment	3.55E8
+Lac des Truites	areaOfCatchment	1000000.0
+Lac d'Artouste	areaOfCatchment	7700000.0
+Lac de Fabrèges	areaOfCatchment	6.0E7
+Lac de Castillon	areaOfCatchment	6.55E8
+Lac d'Izourt	areaOfCatchment	1.49E7
+Lac de Gnioure	areaOfCatchment	1.8E7
+Lac du Tolerme	areaOfCatchment	2.4E7
+Réservoir Saint-Michel	areaOfCatchment	3.3E7
+Lake Lenore (Washington)	areaOfCatchment	9.50525636493312E8
+Glendoe Hydro Scheme	areaOfCatchment	1.5E7
+Glendoe Hydro Scheme	areaOfCatchment	6.0E7
+Lake Pinatubo	areaOfCatchment	5000000.0
+Lago Olivo	areaOfCatchment	6.0E7
+Lago di Ceresole	areaOfCatchment	8000000.0
+Lago del Salto	areaOfCatchment	7.41E8
+Gleniffer Lake (Alberta)	areaOfCatchment	5.61E9
+Murphy Lake (Lewis County, Missouri)	areaOfCatchment	1699556.97408
+Morphy Lake (Mora County, New Mexico)	areaOfCatchment	1618625.6896
+Murphy Lake (Douglas County, Washington)	areaOfCatchment	932395.71972096
+John Redmond Dam and Reservoir	areaOfCatchment	7.809E9
+Lake Warden (Western Australia)	areaOfCatchment	2.12E9
+Angove Lake	areaOfCatchment	2.9E7
+Antholzer See	areaOfCatchment	1.906E7
+Durnholzer See	areaOfCatchment	5.55E7
+Haidersee	areaOfCatchment	3.397E7
+Kalterer See	areaOfCatchment	5.55E7
+Karersee	areaOfCatchment	5810000.0
+Montiggler Seen	areaOfCatchment	2.274E9
+Pragser Wildsee	areaOfCatchment	3.009E7
+Toblacher See	areaOfCatchment	1.0823E8
+Lake Ashmere	areaOfCatchment	1.19139453075456E7
+O'Neill Forebay	areaOfCatchment	72838.156032
+Sylvan Lake (New York)	areaOfCatchment	2097890.36937216
+Lake Abashiri	areaOfCatchment	1.38E9
+Bradley Lake (Oregon)	areaOfCatchment	6460000.0
+Lake Akan	areaOfCatchment	1.48E8
+Trustom Pond	areaOfCatchment	3212971.993856
+Maschaug Pond	areaOfCatchment	1588559.71741568
+Cards Pond	areaOfCatchment	8011225.98810624
+Ninigret Pond	areaOfCatchment	3.09386137592256E7
+Khar Nuur (Khovd)	areaOfCatchment	7.68E10
+Loon Lake (Washington)	areaOfCatchment	3.6516195557376E7
+Vättern	areaOfCatchment	4.503E9
+Clarrie Hall Dam	areaOfCatchment	6.02E7
+Toonumbar Dam	areaOfCatchment	6.02E7
+Peter Pond Lake	areaOfCatchment	9.713E9
+Lake Eden	areaOfCatchment	1500000.0
+Curlew Lake (Washington)	areaOfCatchment	1.67054233116672E8
+Buffalo Pound Lake	areaOfCatchment	3.31E9
+Lake Albacutya	areaOfCatchment	2.35E10
+Lake Shannon	areaOfCatchment	6.9929678979072E8
+San Vicente Reservoir	areaOfCatchment	1.942491082752E8
+Lake Moomaw	areaOfCatchment	8.9354589806592E8
+Canyon Lake (California)	areaOfCatchment	1.719752105263104E9
+Salt Spring Valley Reservoir	areaOfCatchment	4.37707990646784E8
+Keith Sebelius Lake	areaOfCatchment	1.85184149889024E9
+Boca Reservoir	areaOfCatchment	4.5E8
+Kandy Lake	areaOfCatchment	1045000.0
+Lindores Loch	areaOfCatchment	5100000.0
+Freshwater Lagoon	areaOfCatchment	5179976.220672
+Lake Osveya	areaOfCatchment	2.59E8
+Fish Lake (Jackson County, Oregon)	areaOfCatchment	5.179976220672E7
+Fourmile Lake	areaOfCatchment	2.7194875158528E8
+Christina Lake (Alberta)	areaOfCatchment	1.25E9
+Lake Verevi	areaOfCatchment	1100000.0
+Hálslón Reservoir	areaOfCatchment	1.806E9
+Bellandur Lake	areaOfCatchment	1.48E8
+Atwood Lake	areaOfCatchment	1.8129916772352E8
+Leesville Lake (Ohio)	areaOfCatchment	1.24319429296128E8
+Ähtärinjärvi	areaOfCatchment	4.7998E8
+Enäjärvi	areaOfCatchment	3.5E7
+Toisvesi	areaOfCatchment	1000000.0
+Kulovesi	areaOfCatchment	2.0E7
+Lake Kuorevesi	areaOfCatchment	2000000.0
+Kyrösjärvi	areaOfCatchment	2000000.0
+Lake Ruovesi	areaOfCatchment	5000000.0
+Lake Amtkel	areaOfCatchment	1.53E8
+Water resources management in Nicaragua  Lake Nicaragua   1	areaOfCatchment	2.3844E10
+Lake Muhazi	areaOfCatchment	8.29E8
+Lake Munson	areaOfCatchment	1.794861760462848E8
+Shadehill Reservoir	areaOfCatchment	8.805323751424E9
+Elmer Thomas Lake	areaOfCatchment	1.7711811608448E7
+Rathbun Lake	areaOfCatchment	1.421903472574464E9
+Slezská Harta Dam	areaOfCatchment	4.641E8
+Lake Byron (South Dakota)	areaOfCatchment	4.667711832384E8
+Lake Chala	areaOfCatchment	3380000.0
+Lake Ikazn	areaOfCatchment	2.53E7
+Cedar Lake (California)	areaOfCatchment	1294994.055168
+Alder Lake	areaOfCatchment	7.40736599556096E8
+Canonsburg Lake	areaOfCatchment	1.19139453075456E8
+Lake Ermistu	areaOfCatchment	3.23E7
+Lake Tõhela	areaOfCatchment	2.17E7
+Lake Maardu	areaOfCatchment	1.34E7
+Lake Amador	areaOfCatchment	1.50219310399488E8
+Almaden Reservoir	areaOfCatchment	3.23748513792E7
+Calero Reservoir	areaOfCatchment	854696.07641088
+Lake Hennessey	areaOfCatchment	1.39859357958144E8
+Lake Van Arsdale	areaOfCatchment	8.9354589806592E8
+Chard Reservoir	areaOfCatchment	7650000.0
+Marion Reservoir	areaOfCatchment	5.179976220672E8
+Buiston Loch	areaOfCatchment	8.0E8
+Baker Lake (Washington)	areaOfCatchment	5.5684744372224E8
+Lake Hindmarsh	areaOfCatchment	2.35E10
+Sweetwater Reservoir	areaOfCatchment	4.6619785986048E8
+Little Langdale  Blea Tarn   1	areaOfCatchment	1160000.0
+Little Langdale  Tarn   1	areaOfCatchment	1.2E7
+Tunstall Reservoir	areaOfCatchment	2.36E7
+Waskerley Reservoir	areaOfCatchment	1.5E7
+Smiddy Shaw Reservoir	areaOfCatchment	6000000.0
+Blue River Reservoir	areaOfCatchment	2.27918953709568E8
+Luxhay Reservoir	areaOfCatchment	3.05E7
+Lake Bridgeport (Texas)	areaOfCatchment	1.111E9
+Sanabria Lake	areaOfCatchment	1.142E7
+Lac Deschênes	areaOfCatchment	9.09E10
+Lake Lekshmozero	areaOfCatchment	1.97E8
+Lake Henshaw	areaOfCatchment	5.62027419942912E8
+Lake Cachí	areaOfCatchment	9.19E8
+Lake Kenozero	areaOfCatchment	5.45E9
+Lake Undozero	areaOfCatchment	7.09E8

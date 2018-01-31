@@ -1,0 +1,467 @@
+Blues	derivative	Bluegrass music
+Boy band	derivative	K-pop
+Country music	derivative	Rock and roll
+Country music	derivative	Dansband
+Country music	derivative	Roots rock
+Country music	derivative	Southern rock
+Country music	derivative	Heartland rock
+Disco	derivative	Afro/Cosmic music
+Funk	derivative	Disco
+Freestyle music	derivative	Florida breaks
+Freestyle music	derivative	Melodic funk
+Freestyle music	derivative	Funk carioca
+Grindcore	derivative	Mathcore
+House music	derivative	Breakbeat hardcore
+New Wave music	derivative	Neue Deutsche Welle
+Punk rock	derivative	New Wave music
+Psychedelic rock	derivative	Hard rock
+Psychedelic rock	derivative	Heavy metal music
+Psychedelic rock	derivative	Jam band
+Psychedelic rock	derivative	Krautrock
+Psychedelic rock	derivative	New Age music
+Psychedelic rock	derivative	Progressive rock
+Psychedelic rock	derivative	Stoner rock
+Psychedelic rock	derivative	Neo-psychedelia
+Rock and roll	derivative	Rock music
+Rock music	derivative	New Age music
+Rock music	derivative	Synthpop
+Reggae	derivative	Dancehall
+Rhythm and blues	derivative	Funk
+Rhythm and blues	derivative	Rock and roll
+Rhythm and blues	derivative	Beat music
+Ragtime	derivative	Stride (music)
+Ragtime	derivative	Novelty piano
+Ragtime	derivative	Honky-tonk
+Ska	derivative	Rocksteady
+Ska	derivative	Reggae
+Speed metal	derivative	Thrash metal
+Speed metal	derivative	Power metal
+Traditional music	derivative	Popular music
+World music	derivative	Roots music
+World music	derivative	Traditional music
+World music	derivative	Folk music
+World music	derivative	New Age music
+World music	derivative	Ambient music
+World music	derivative	Pop music
+World music	derivative	Rock music
+World music	derivative	Independent music
+Glam rock	derivative	Gothic rock
+Glam rock	derivative	New Romanticism
+Britpop	derivative	Post-Britpop
+Breakbeat hardcore	derivative	Oldschool jungle
+Breakbeat hardcore	derivative	Drum and bass
+Breakbeat hardcore	derivative	Happy hardcore
+Breakbeat hardcore	derivative	Hardcore techno
+Breakbeat hardcore	derivative	4-beat
+Polka	derivative	Norteño (music)
+Polka	derivative	Maxixe (dance)
+Polka	derivative	Biguine
+Polka	derivative	Turbo Polka
+Polka	derivative	Turbo-folk
+Art rock	derivative	Progressive rock
+Art rock	derivative	Glam rock
+Art rock	derivative	Post-punk
+Art rock	derivative	New Wave music
+Progressive rock	derivative	New Age music
+Progressive rock	derivative	Math rock
+Progressive rock	derivative	Post-rock
+Progressive rock	derivative	Space music
+Grunge	derivative	Post-grunge
+Bubblegum pop	derivative	Boy band
+Ambient music	derivative	Ambient house
+Free improvisation	derivative	Electroacoustic improvisation
+Soul music	derivative	Funk
+Big band	derivative	Jump blues
+Progressive metal	derivative	Djent
+Breakbeat	derivative	Drum and bass
+Hardcore punk	derivative	Crossover thrash
+Hardcore punk	derivative	Post-hardcore
+Hardcore punk	derivative	Thrash metal
+Thrash metal	derivative	Death metal
+Thrash metal	derivative	Black metal
+Thrash metal	derivative	Groove metal
+Country rock	derivative	Roots rock
+Industrial music	derivative	Electro-industrial#Aggrotech
+Industrial music	derivative	Dark ambient
+Industrial music	derivative	Electronic body music
+Industrial music	derivative	Electro-industrial
+Industrial music	derivative	Industrial metal
+Industrial music	derivative	Industrial rock
+Industrial music	derivative	Intelligent dance music
+Industrial music	derivative	Martial industrial
+Industrial music	derivative	No Wave
+Doo-wop	derivative	Beach music
+Free jazz	derivative	Loft jazz
+Hard rock	derivative	Heavy metal music
+Gothic rock	derivative	Ethereal Wave
+Industrial rock	derivative	Industrial metal
+Deathrock	derivative	Dark cabaret
+Synthpop	derivative	House music
+Synthpop	derivative	Trance music
+Synthpop	derivative	Digital&nbsp;hardcore
+Synthpop	derivative	Electroclash
+Synthpop	derivative	Indietronica
+Skiffle	derivative	Beat music
+Psychedelic trance	derivative	Suomisaundi
+Electroclash	derivative	Tech house#Subgenres
+Garage rock	derivative	Punk rock
+Pub rock (UK)	derivative	Punk rock
+Electronic body music	derivative	Anhalt EBM
+Electronic body music	derivative	New Beat
+Electronic body music	derivative	Goa trance
+Electronic body music	derivative	Electro-industrial#Dark electro
+Electronic body music	derivative	Electro-industrial
+Gospel music	derivative	Country music
+Gospel music	derivative	Rhythm and blues
+Gospel music	derivative	Soul music
+Roots reggae	derivative	Dub music
+Boogie-woogie	derivative	Rock and roll
+Shoegazing	derivative	Nu Gaze
+Power pop	derivative	Britpop
+Nashville sound	derivative	Nashville sound
+Nashville sound	derivative	Country pop
+Southern hip hop	derivative	Crunk
+Doom metal	derivative	Gothic metal
+Delta blues	derivative	Chicago blues
+Delta blues	derivative	Detroit blues
+Delta blues	derivative	Electric blues
+Country blues	derivative	Chicago blues
+Country blues	derivative	Detroit blues
+Country blues	derivative	Electric blues
+Country blues	derivative	Memphis blues
+Country blues	derivative	New Orleans blues
+Country blues	derivative	Swamp blues
+Country blues	derivative	Hill country blues
+New Orleans rhythm and blues	derivative	Ska
+Piano blues	derivative	Rock and roll
+Piano blues	derivative	Rhythm and blues
+Piano blues	derivative	Swing music
+Surf music	derivative	Rautalanka
+Electric blues	derivative	British blues
+Electric blues	derivative	Blues rock
+Electric blues	derivative	Texas blues
+Dream pop	derivative	Shoegazing
+Dream pop	derivative	Ambient music
+Fado	derivative	Coimbra Fado
+Cowpunk	derivative	Alternative country
+Dancehall	derivative	Grime (music)
+Dancehall	derivative	Reggaeton
+Dub music	derivative	Dancehall
+Dub music	derivative	Post-punk
+Dub music	derivative	Gothic rock
+Dub music	derivative	Hip hop music
+Dub music	derivative	Ambient music
+Dub music	derivative	Techno
+Dub music	derivative	Punk rock
+Dub music	derivative	Drum and bass
+Dub music	derivative	House music
+Dub music	derivative	Trip hop
+Dub music	derivative	Disco
+Dub music	derivative	Big beat
+Space rock	derivative	Noise pop
+Spiritual (music)	derivative	Blues
+Spiritual (music)	derivative	Gospel music
+Rocksteady	derivative	Reggae
+Goa trance	derivative	Psychedelic trance
+Cakewalk	derivative	Ragtime
+New Wave of British Heavy Metal	derivative	Power metal
+New Wave of British Heavy Metal	derivative	Speed metal
+New Wave of British Heavy Metal	derivative	Thrash metal
+2 Tone	derivative	Ska#Third wave ska
+2 Tone	derivative	Ska punk
+Miami bass	derivative	Funk carioca
+Hip house	derivative	Breakbeat hardcore
+Oldschool jungle	derivative	Drum and bass
+Jazz rap	derivative	Nu jazz
+Jazz rap	derivative	Trip hop
+Chicago house	derivative	Detroit techno
+Math rock	derivative	Screamo
+Vocal house	derivative	Vocal trance
+Vocal house	derivative	Eurodance
+Skate punk	derivative	Ska#Third wave ska
+Slowcore	derivative	Sadcore
+Tango (dance)	derivative	Maxixe (dance)
+Acid jazz	derivative	Nu jazz
+Acid jazz	derivative	Nu-funk
+Acid jazz	derivative	Trip hop
+Digital hardcore	derivative	Breakcore
+Digital hardcore	derivative	Grindcore
+Digital hardcore	derivative	Jungle music
+Happy hardcore	derivative	Gabber
+Krautrock	derivative	Electronic music
+Krautrock	derivative	Ambient music
+Krautrock	derivative	New Age music
+Krautrock	derivative	Neue Deutsche Welle
+4-beat	derivative	Happy hardcore
+4-beat	derivative	UK hardcore
+College rock	derivative	Indie rock
+Jangle pop	derivative	Indie pop
+Downtempo	derivative	Trip hop
+Hardcore techno	derivative	Happy hardcore
+Deep house	derivative	Tech house
+Deep house	derivative	Tribal house
+Alternative metal	derivative	Nu metal
+Techstep	derivative	Breakcore
+Philadelphia soul	derivative	Disco
+Outlaw country	derivative	Texas country music
+Beat music	derivative	Garage rock
+Beat music	derivative	Power pop
+Beat music	derivative	Pop punk
+Beat music	derivative	Britpop
+Beat music	derivative	Yé-yé
+Beat music	derivative	Psychedelic rock
+Beat music	derivative	Group Sounds
+Beat music	derivative	Phleng Thai sakol
+Beat music	derivative	Phleng Thai sakol
+Noise rock	derivative	Grunge
+Noise rock	derivative	Shoegazing
+Noise rock	derivative	Grindcore
+Noise rock	derivative	Powerviolence
+Noise rock	derivative	Crust punk
+Noise rock	derivative	Post-hardcore
+Noise rock	derivative	Math rock
+Electro (music)	derivative	Miami bass
+Northern soul	derivative	Modern soul
+Northern soul	derivative	Madchester
+Northern soul	derivative	Mod revival
+Zouk	derivative	Zouk-love
+Hi-NRG	derivative	Synthpop
+Old-time music	derivative	Bluegrass music
+Old-time music	derivative	Country music
+Acid rock	derivative	Heavy metal music
+Acid rock	derivative	Space rock
+Acid rock	derivative	Stoner rock
+Mashup (music)	derivative	Sampling (music)
+Mashup (music)	derivative	Sound collage
+Mashup (music)	derivative	Remix
+Teen pop	derivative	Europop
+New wave of new wave	derivative	Post-punk revival
+Minimal music	derivative	Postminimalism
+Minimal music	derivative	Totalism
+Memphis soul	derivative	Disco
+Crust punk	derivative	Grindcore
+Ambient house	derivative	Intelligent dance music
+Ambient house	derivative	Trance music
+Ambient house	derivative	Intelligent dance music
+Industrial metal	derivative	Neue Deutsche Härte
+New Age music	derivative	Post-rock
+Western swing	derivative	Rockabilly
+Western swing	derivative	Rock and roll
+Blues rock	derivative	Heavy metal music
+Melodic death metal	derivative	Metalcore#Melodic metalcore .281995.E2.80.93present.29
+Melodic death metal  Gothenburg metal   1	derivative	Metalcore#Melodic metalcore .281995.E2.80.93present.29
+Sludge metal	derivative	Post-metal
+Youth crew	derivative	Metalcore
+Bouncy techno	derivative	Freeform hardcore
+Bouncy techno	derivative	UK hardcore
+Noise pop	derivative	Shoegazing
+Speed garage	derivative	Bassline (dance music)
+Smooth jazz	derivative	Sophisti-pop
+Smooth jazz	derivative	Urban jazz
+Luk thung	derivative	Phleng phuea chiwit
+Eurobeat	derivative	Italo disco
+Eurobeat	derivative	Euro disco
+Eurobeat	derivative	J-pop
+Eurobeat	derivative	Para Para
+Eurobeat	derivative	Eurodance
+Thrashcore	derivative	Crossover thrash
+Thrashcore	derivative	Grindcore
+Thrashcore	derivative	Powerviolence
+Post-hardcore	derivative	Math rock
+Post-hardcore	derivative	Emo
+Indie pop	derivative	Riot grrrl
+Sunshine pop	derivative	Psychedelic pop
+D-beat	derivative	Crust punk
+D-beat	derivative	Thrashcore
+D-beat	derivative	Swedish death metal
+Italo house	derivative	Eurodance
+Italo house	derivative	Italo dance
+Vocal trance	derivative	Eurodance
+Vocal trance	derivative	Progressive electronic dance music
+Western music (North America)	derivative	Western swing
+Pinoy rock	derivative	Pinoy reggae
+Brazilian rock	derivative	Tropicalismo
+Ryūkōka	derivative	Enka
+Italo disco	derivative	Eurobeat
+Neofolk	derivative	Martial industrial
+Psychedelic folk	derivative	Electroacoustic music
+Psychedelic folk	derivative	Electric folk
+Psychedelic folk	derivative	Freak folk
+Psychedelic folk	derivative	New Weird America
+Psychedelic folk	derivative	Neofolk
+Narcocorrido	derivative	Duranguense
+Narcocorrido	derivative	Rock and roll
+Narcocorrido	derivative	Hip hop music
+Narcocorrido	derivative	Chicano rap
+Psychedelic soul	derivative	Funk
+Psychedelic soul	derivative	Disco
+Psychedelic soul	derivative	Dub music
+Darkcore	derivative	Drum and bass
+Darkcore	derivative	Darkstep
+Kundiman	derivative	Manila Sound
+Parlour music	derivative	Popular music
+Hip hop soul	derivative	Neo soul
+Hip hop soul	derivative	Contemporary R&B
+Raga rock	derivative	Indian rock
+Raga rock	derivative	Psychedelic rock
+Raga rock	derivative	Acid rock
+Raga rock	derivative	Psychedelic music
+Acid trance	derivative	Psychedelic trance
+Power noise	derivative	Power noise#Related styles
+Power noise	derivative	Power noise
+Power noise	derivative	Power noise#Related styles
+Power noise	derivative	Terrorcore
+Power noise	derivative	Noisecore
+Folk punk	derivative	Celtic punk
+Folk punk	derivative	Gypsy punk
+Folk punk	derivative	Anti-folk
+Folk punk	derivative	Indie folk
+UK hardcore	derivative	Mákina
+Post-industrial music	derivative	Dark ambient
+Romo	derivative	Electroclash
+Baggy	derivative	Indie rock
+Yé-yé	derivative	Indie pop
+Yé-yé	derivative	Shibuya-kei
+Christian punk	derivative	Christian alternative rock
+Country pop	derivative	Adult contemporary music
+Minimal techno	derivative	Maximal
+Diva house	derivative	Hardbag
+Diva house	derivative	Deep house
+Euro disco	derivative	Eurodance
+Progressive country	derivative	Alternative country
+Hard trance	derivative	Hardstyle
+Group Sounds	derivative	J-pop
+Melodic hardcore	derivative	Youth crew
+Melodic hardcore	derivative	Metalcore#Metallic hardcore .281989.E2.80.932000.29
+Baroque pop	derivative	Art rock
+Baroque pop	derivative	Psychedelic pop
+Baroque pop	derivative	Progressive rock
+Mod revival	derivative	Britpop
+Mod revival	derivative	Indie rock
+Baltimore club	derivative	Ghettotech
+Baltimore club	derivative	Brick City club
+Berlin School of electronic music	derivative	Ambient music
+Berlin School of electronic music	derivative	Electronica
+Berlin School of electronic music	derivative	New Age music
+Berlin School of electronic music	derivative	Trance music
+Neotraditional country	derivative	Country music
+Minneapolis sound	derivative	Dance-pop
+Cadence-lypso	derivative	Zouk-love
+Latin pop	derivative	Tropipop
+Japanoise	derivative	Noise (music)
+Electro-industrial	derivative	Electro-industrial#Dark electro
+Electro-industrial	derivative	Electro-industrial#Aggrotech
+Scottish Gaelic punk	derivative	Goidelic languages
+Ragga jungle	derivative	Breakcore#Raggacore
+Dance-rock	derivative	Alternative dance
+Dance-rock	derivative	Electronic rock
+Ethereal Wave	derivative	Dream pop
+Ethereal Wave	derivative	Shoegazing
+Ethereal Wave	derivative	Post-rock
+Electro house	derivative	Synthpop
+Philippine folk music	derivative	Manila Sound
+Bouyon music	derivative	Jump up
+Tech trance	derivative	Tech house
+Manila Sound	derivative	Pinoy rock
+Portal:Electronic music/Selected article	derivative	Intelligent dance music
+Portal:Electronic music/Selected article	derivative	Trance music
+Portal:Electronic music/Selected article	derivative	Acid house
+Portal:Electronic music/Selected article	derivative	Oldschool jungle
+Portal:Electronic music/Selected article	derivative	Hardcore techno
+Kroncong	derivative	Langgam jawa
+Brown-eyed soul	derivative	Funk
+Brown-eyed soul	derivative	Latin hip hop
+Brown-eyed soul	derivative	Contemporary R&B
+Psychedelic pop	derivative	Baroque pop
+Political hip hop	derivative	Political hip hop#Conscious Hip Hop
+Progressive folk music	derivative	Folk baroque
+Texas country music	derivative	Neotraditional country
+Texas country music	derivative	Outlaw country
+Texas country music	derivative	Progressive country
+Texas country music	derivative	Red Dirt (music)
+Oi!	derivative	Street punk
+Starogradska muzika	derivative	Folk music
+Traditional black gospel	derivative	Rhythm and blues
+Space disco	derivative	Synthpop
+2-step garage	derivative	Breakstep
+2-step garage	derivative	Grime (music)
+Garage house	derivative	UK garage
+Electro hop	derivative	Freestyle rap
+Tech noire	derivative	Techno
+Italo dance	derivative	Eurodance
+Italo dance	derivative	Euro-Trance
+Italo dance	derivative	Eurobeat
+Free funk	derivative	M-Base
+Garage punk	derivative	Garage rock#Revivals
+Garage punk	derivative	Alternative rock
+Synthpunk	derivative	Electronic body music
+Death/doom	derivative	Gothic metal
+Death/doom	derivative	Doom metal
+Post-disco	derivative	Italo disco
+Post-disco	derivative	House music
+Post-disco	derivative	Alternative dance
+Post-disco	derivative	Techno
+Post-disco	derivative	Dance-pop
+Post-disco	derivative	Freestyle music
+Afro/Cosmic music	derivative	Space disco
+Afro/Cosmic music	derivative	Sueño Latino
+Crossover thrash	derivative	Hatecore
+Punk metal	derivative	Crust punk
+Balkan pop	derivative	Popular music
+Industrial hip hop	derivative	Illbient
+Industrial hip hop	derivative	Witch house (music genre)
+Industrial hip hop	derivative	Gabber
+Hip hop music	derivative	Electro (music)
+Hip hop music	derivative	Drum and bass
+Homo hop	derivative	Polish hip hop
+Experimental hip hop	derivative	Underground hip hop
+Smooth soul	derivative	Quiet storm
+Smooth soul	derivative	Contemporary R&B
+Medieval folk rock	derivative	Neo-Medieval music
+Reggae en Español	derivative	Reggaeton
+Acid house	derivative	Breakbeat hardcore
+Acid house	derivative	Acid techno
+Acid house	derivative	Acid trance
+British rock and roll	derivative	British popular music
+Alternative hip hop	derivative	Underground hip hop
+Alternative hip hop	derivative	Trip hop
+Lovers rock	derivative	Reggae fusion
+Techno	derivative	Minimal techno
+Techno	derivative	Acid techno
+Techno	derivative	Hardcore techno
+Post-punk	derivative	Alternative rock
+Girl group	derivative	Boy band
+Girl group	derivative	Indie pop
+Girl group	derivative	Riot grrrl
+Girl group	derivative	Indie pop
+Girl group	derivative	Bubblegum pop
+Girl group	derivative	Yé-yé
+Swing house	derivative	Electro-swing
+Sesube	derivative	Afro-fusion
+New Orleans soul	derivative	Funk
+Dream trance	derivative	Progressive electronic dance music
+LGBT music	derivative	Homo hop
+Experimental rock	derivative	Art rock
+African blues	derivative	Rock and roll
+African blues	derivative	Rhythm and blues
+African blues	derivative	Swing music
+Bangla rock	derivative	Bengali language
+Bangla rock	derivative	Rock music
+Old time fiddle	derivative	Bluegrass music
+Old time fiddle	derivative	Country music
+Old time fiddle	derivative	Cajun fiddle
+Blues fiddle	derivative	Bluegrass music
+Métis fiddle	derivative	Bluegrass music
+Métis fiddle	derivative	Country music
+Quebec fiddle	derivative	Bluegrass music
+Quebec fiddle	derivative	Country music
+Foghorn Stringband	derivative	Bluegrass music
+Foghorn Stringband	derivative	Country music
+Foghorn Stringband	derivative	Cajun fiddle
+Freeform Hardcore	derivative	Happy hardcore
+Soldier's Joy (fiddle tune)	derivative	Bluegrass music
+Soldier's Joy (fiddle tune)	derivative	Country music
+Soldier's Joy (fiddle tune)	derivative	Cajun fiddle
+Yew Piney Mountain	derivative	Bluegrass music
+Yew Piney Mountain	derivative	Country music
+Yew Piney Mountain	derivative	Cajun fiddle

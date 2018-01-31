@@ -1,0 +1,167 @@
+Royal Air Force	aircraftHelicopter	Boeing Chinook (UK variants)
+Royal Air Force	aircraftHelicopter	AgustaWestland AW101
+Royal Air Force	aircraftHelicopter	Aérospatiale SA 330 Puma
+Royal Air Force	aircraftHelicopter	Westland Sea King
+Royal Air Force	aircraftHelicopter	Bell 412
+Military of Togo	aircraftHelicopter	Aérospatiale Alouette III
+United States Air Force	aircraftHelicopter	Bell UH-1N Twin Huey
+United States Air Force	aircraftHelicopter	Sikorsky HH-60 Pave Hawk
+United States Coast Guard	aircraftHelicopter	Sikorsky HH-60 Jayhawk
+United States Coast Guard	aircraftHelicopter	Eurocopter HH-65 Dolphin
+Carrier Strike Group Nine	aircraftHelicopter	Sikorsky SH-60 Seahawk
+Air National Guard	aircraftHelicopter	Sikorsky HH-60 Pave Hawk
+Swedish Air Force	aircraftHelicopter	Eurocopter AS332 Super Puma
+Swedish Air Force	aircraftHelicopter	AgustaWestland AW109
+Swedish Air Force	aircraftHelicopter	NHIndustries NH90
+Swedish Air Force	aircraftHelicopter	Sikorsky UH-60 Black Hawk
+Pakistan Air Force	aircraftHelicopter	Aérospatiale Alouette
+Pakistan Air Force	aircraftHelicopter	Mil Mi-17
+Bangladesh Air Force	aircraftHelicopter	Bell 206
+Bangladesh Air Force	aircraftHelicopter	Bell 212
+Bangladesh Air Force	aircraftHelicopter	Mil Mi-8
+Bangladesh Air Force	aircraftHelicopter	Mil Mi-17
+Indian Air Force	aircraftHelicopter	HAL Dhruv
+Indian Air Force	aircraftHelicopter	Aérospatiale Alouette III
+Indian Air Force	aircraftHelicopter	Aérospatiale SA 315B Lama
+Indian Air Force	aircraftHelicopter	Mil Mi-8
+Indian Air Force	aircraftHelicopter	Mil Mi-17
+Indian Air Force	aircraftHelicopter	Mil Mi-26
+Indian Air Force	aircraftHelicopter	Mil Mi-24
+Islamic Republic of Iran Air Force	aircraftHelicopter	Boeing CH-47 Chinook
+Islamic Republic of Iran Air Force	aircraftHelicopter	Bell 206
+Islamic Republic of Iran Air Force	aircraftHelicopter	Bell 214
+Islamic Republic of Iran Air Force	aircraftHelicopter	Sikorsky SH-3 Sea King
+Royal Norwegian Air Force	aircraftHelicopter	Westland Sea King
+Royal Norwegian Air Force	aircraftHelicopter	Westland Lynx
+Royal Norwegian Air Force	aircraftHelicopter	Bell 412
+Royal Norwegian Air Force	aircraftHelicopter	NHIndustries NH90
+Her Majesty's Coastguard	aircraftHelicopter	Sikorsky S-92
+Her Majesty's Coastguard	aircraftHelicopter	AgustaWestland AW139
+Polish Air Force	aircraftHelicopter	Mil Mi-8
+Polish Air Force	aircraftHelicopter	Mil Mi-17
+Polish Air Force	aircraftHelicopter	PZL W-3 Sokół
+Polish Air Force	aircraftHelicopter	PZL SW-4
+Polish Air Force	aircraftHelicopter	Bell 412
+Indian Navy	aircraftHelicopter	Aérospatiale Alouette III
+Indian Navy	aircraftHelicopter	HAL Dhruv
+Indian Navy	aircraftHelicopter	Kamov Ka-25
+Indian Navy	aircraftHelicopter	Kamov Ka-27
+Indian Navy	aircraftHelicopter	Kamov Ka-31
+Indian Navy	aircraftHelicopter	Westland Sea King
+Indian Navy	aircraftHelicopter	Sikorsky SH-3 Sea King
+Indian Coast Guard	aircraftHelicopter	Aérospatiale Alouette III
+Indian Coast Guard	aircraftHelicopter	HAL Dhruv
+Swiss Air Force	aircraftHelicopter	Eurocopter AS532 Cougar
+Swiss Air Force	aircraftHelicopter	Eurocopter AS332 Super Puma
+Canadian Forces Air Command	aircraftHelicopter	Sikorsky CH-124 Sea King
+Canadian Forces Air Command	aircraftHelicopter	Bell 206
+Canadian Forces Air Command	aircraftHelicopter	Bell CH-146 Griffon
+Canadian Forces Air Command	aircraftHelicopter	Boeing CH-47 Chinook
+Canadian Forces Air Command	aircraftHelicopter	Sikorsky CH-148 Cyclone
+Canadian Forces Air Command	aircraftHelicopter	AgustaWestland CH-149 Cormorant
+Brazilian Navy	aircraftHelicopter	Sikorsky SH-3 Sea King
+Brazilian Navy	aircraftHelicopter	Eurocopter AS332 Super Puma
+Brazilian Navy	aircraftHelicopter	Westland Lynx
+Brazilian Navy	aircraftHelicopter	Eurocopter Ecureuil
+Brazilian Navy	aircraftHelicopter	Bell 206
+Brazilian Navy	aircraftHelicopter	Sikorsky SH-60 Seahawk
+Brazilian Navy	aircraftHelicopter	Eurocopter EC725
+Royal Bahraini Air Force	aircraftHelicopter	Bell 212
+Royal Bahraini Air Force	aircraftHelicopter	Bell 412
+Royal Bahraini Air Force	aircraftHelicopter	Bell 427
+Royal Bahraini Air Force	aircraftHelicopter	MBB Bo 105
+Royal Bahraini Air Force	aircraftHelicopter	Sikorsky UH-60 Black Hawk
+Portuguese Navy	aircraftHelicopter	Westland Lynx
+Blue Eagles	aircraftHelicopter	Aérospatiale Gazelle
+Blue Eagles	aircraftHelicopter	Westland Lynx
+Blue Eagles	aircraftHelicopter	AgustaWestland Apache
+Blue Eagles	aircraftHelicopter	Aérospatiale Alouette II
+Blue Eagles	aircraftHelicopter	Westland Scout
+Sarang (military)	aircraftHelicopter	HAL Dhruv
+Republic of China Air Force	aircraftHelicopter	Sikorsky S-70
+Republic of China Air Force	aircraftHelicopter	Sikorsky S-70
+Royal Thai Air Force	aircraftHelicopter	Bell UH-1 Iroquois
+Royal Thai Air Force	aircraftHelicopter	Bell 412
+Royal Thai Air Force	aircraftHelicopter	Sikorsky S-92
+Pakistan Army	aircraftHelicopter	Bell 412
+Pakistan Army	aircraftHelicopter	Bell 407
+Pakistan Army	aircraftHelicopter	Bell 206
+Pakistan Army	aircraftHelicopter	Bell UH-1 Iroquois
+Coast Guard Air Station Kodiak	aircraftHelicopter	Sikorsky HH-60 Jayhawk
+Coast Guard Air Station Kodiak	aircraftHelicopter	Eurocopter HH-65 Dolphin
+Republic of Korea Navy	aircraftHelicopter	Westland Lynx
+Republic of Korea Navy	aircraftHelicopter	Sikorsky UH-60 Black Hawk
+Republic of Korea Navy	aircraftHelicopter	Bell UH-1 Iroquois
+Japan Air Self-Defense Force	aircraftHelicopter	Sikorsky UH-60 Black Hawk
+Japan Air Self-Defense Force	aircraftHelicopter	Boeing CH-47 Chinook
+Japan Air Self-Defense Force	aircraftHelicopter	Boeing Vertol CH-46 Sea Knight
+Egyptian Navy	aircraftHelicopter	Aérospatiale Gazelle
+Egyptian Navy	aircraftHelicopter	Kaman SH-2G Super Seasprite
+Egyptian Navy	aircraftHelicopter	Westland Sea King
+HMH-769	aircraftHelicopter	Piasecki H-25
+HMH-769	aircraftHelicopter	Sikorsky H-34
+HMH-769	aircraftHelicopter	Sikorsky CH-53 Sea Stallion
+HMH-769	aircraftHelicopter	D
+HMH-769	aircraftHelicopter	Sikorsky CH-53 Sea Stallion
+HMH-769	aircraftHelicopter	Sikorsky CH-53E Super Stallion
+Czech Air Force	aircraftHelicopter	Mil Mi-17
+Czech Air Force	aircraftHelicopter	Mil Mi-24
+Czech Air Force	aircraftHelicopter	PZL W-3 Sokół
+No. 12 Squadron RAAF	aircraftHelicopter	Boeing CH-47 Chinook
+Royal Moroccan Navy	aircraftHelicopter	Eurocopter AS565 Panther
+1 Canadian Air Division	aircraftHelicopter	Sikorsky CH-124 Sea King
+1 Canadian Air Division	aircraftHelicopter	Bell 206
+1 Canadian Air Division	aircraftHelicopter	Bell CH-146 Griffon
+1 Canadian Air Division	aircraftHelicopter	Boeing CH-47 Chinook
+1 Canadian Air Division	aircraftHelicopter	Sikorsky CH-148 Cyclone
+1 Canadian Air Division	aircraftHelicopter	AgustaWestland CH-149 Cormorant
+Estonian Air Force	aircraftHelicopter	Robinson R44
+Bolivian Air Force	aircraftHelicopter	Eurocopter AS350
+Myanmar Air Force	aircraftHelicopter	Mil Mi-24
+Senegalese Air Force	aircraftHelicopter	Mil Mi-2
+Senegalese Air Force	aircraftHelicopter	Mil Mi-17
+Senegalese Air Force	aircraftHelicopter	Mil Mi-24
+Senegalese Air Force	aircraftHelicopter	Eurocopter AS355
+Senegalese Air Force	aircraftHelicopter	Bell 206
+Aeronautical Rescue Coordination Centre	aircraftHelicopter	Westland Sea King
+Aeronautical Rescue Coordination Centre	aircraftHelicopter	Sikorsky HH-60 Pave Hawk
+6th Air Army	aircraftHelicopter	Mil Mi-8
+6th Air Army	aircraftHelicopter	Mil Mi-24
+Coast Guard Air Station Cape Cod	aircraftHelicopter	Sikorsky HH-60 Jayhawk
+Coast Guard Air Station Atlantic City	aircraftHelicopter	Eurocopter HH-65 Dolphin
+Coast Guard Air Station Traverse City	aircraftHelicopter	Eurocopter HH-65 Dolphin
+Coast Guard Air Station Los Angeles	aircraftHelicopter	Eurocopter HH-65 Dolphin
+751 Squadron (Portugal)	aircraftHelicopter	AgustaWestland AW101
+752 Squadron (Portugal)	aircraftHelicopter	Aérospatiale SA 330 Puma
+711 Squadron (Portugal)	aircraftHelicopter	Aérospatiale SA 330 Puma
+No. 651 Squadron RAF	aircraftHelicopter	Bristol Sycamore
+National Navy of Uruguay	aircraftHelicopter	Westland Wessex#Variants
+National Navy of Uruguay	aircraftHelicopter	MBB Bo 105#Variants
+Coast Guard Air Station Humboldt Bay	aircraftHelicopter	Eurocopter HH-65 Dolphin
+Coast Guard Air Station Savannah	aircraftHelicopter	Eurocopter HH-65 Dolphin
+United States Navy	aircraftHelicopter	Bell UH-1 Iroquois
+United States Navy	aircraftHelicopter	Sikorsky SH-3 Sea King
+United States Navy	aircraftHelicopter	Sikorsky CH-53 Sea Stallion
+United States Navy	aircraftHelicopter	Sikorsky CH-53E Super Stallion
+United States Navy	aircraftHelicopter	Sikorsky SH-60 Seahawk
+United States Navy	aircraftHelicopter	Sikorsky SH-60 Seahawk
+United States Navy	aircraftHelicopter	Sikorsky SH-60 Seahawk
+Coast Guard Air Station Borinquen	aircraftHelicopter	Eurocopter HH-65 Dolphin
+Montenegrin Air Force	aircraftHelicopter	Aérospatiale Gazelle
+Coast Guard Air Station New Orleans	aircraftHelicopter	Eurocopter HH-65 Dolphin
+Pakistan Naval Air Arm	aircraftHelicopter	Aérospatiale Alouette III
+Pakistan Naval Air Arm	aircraftHelicopter	Aérospatiale SA 315B Lama
+Pakistan Naval Air Arm	aircraftHelicopter	Harbin Z-9
+Philippine Air Force	aircraftHelicopter	Sikorsky UH-60 Black Hawk
+Philippine Air Force	aircraftHelicopter	Sikorsky S-76
+Philippine Air Force	aircraftHelicopter	Bell UH-1 Iroquois
+Philippine Air Force	aircraftHelicopter	Bell UH-1 Iroquois
+Philippine Air Force	aircraftHelicopter	Bell 204/205
+Philippine Air Force	aircraftHelicopter	Bell 412
+Coast Guard Air Station San Francisco	aircraftHelicopter	Eurocopter HH-65 Dolphin
+Carrier Strike Group Ten	aircraftHelicopter	Sikorsky SH-60 Seahawk
+Carrier Strike Group Eleven	aircraftHelicopter	Sikorsky SH-60 Seahawk
+Coast Guard Air Station Miami	aircraftHelicopter	Eurocopter HH-65 Dolphin
+Coast Guard Air Station Houston	aircraftHelicopter	Eurocopter HH-65 Dolphin
+Carrier Strike Group Fourteen	aircraftHelicopter	Sikorsky SH-60 Seahawk
+Carrier Strike Group Fifteen	aircraftHelicopter	Sikorsky SH-60 Seahawk

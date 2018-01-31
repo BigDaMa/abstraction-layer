@@ -1,0 +1,626 @@
+Kangchenjunga	firstAscentPerson	Joe Brown (climber)
+Kangchenjunga	firstAscentPerson	George Band
+K2	firstAscentPerson	Achille Compagnoni
+K2	firstAscentPerson	Lino Lacedelli
+Aoraki / Mount Cook	firstAscentPerson	George Graham (mountaineer)
+Aoraki / Mount Cook	firstAscentPerson	Jack Clarke (mountaineer)
+Mount St. Helens	firstAscentPerson	Thomas J. Dryer
+Mount Everest	firstAscentPerson	Edmund Hillary
+Mount Everest	firstAscentPerson	Tenzing Norgay
+Mont Blanc	firstAscentPerson	Jacques Balmat
+Mont Blanc	firstAscentPerson	Michel-Gabriel Paccard
+Half Dome	firstAscentPerson	George G. Anderson
+Mount Ruapehu	firstAscentPerson	George Beetham
+Table Mountain	firstAscentPerson	António de Saldanha
+Popocatepetl	firstAscentPerson	Tecuanipas
+Annapurna	firstAscentPerson	Louis Lachenal
+Mount Kinabalu	firstAscentPerson	Hugh Low
+Mount Kinabalu	firstAscentPerson	Spenser St. John
+Hekla	firstAscentPerson	Eggert Ólafsson
+Mount Kosciuszko	firstAscentPerson	Paweł Edmund Strzelecki
+Mount Royal	firstAscentPerson	Jacques Cartier
+Mount Royal	firstAscentPerson	1535
+Mount Erebus	firstAscentPerson	Edgeworth David
+Mont Ventoux	firstAscentPerson	Petrarch
+Longs Peak	firstAscentPerson	John Wesley Powell
+Mount Waddington	firstAscentPerson	Fritz Wiessner
+Mount Hood	firstAscentPerson	Henry Pittock
+Galdhøpiggen	firstAscentPerson	Steinar Sulheim
+Mount McKinley	firstAscentPerson	Hudson Stuck
+Mount McKinley	firstAscentPerson	Henry Peter Karstens
+Mount McKinley	firstAscentPerson	Walter Harper
+Aconcagua	firstAscentPerson	Matthias Zurbriggen
+Mount Elbrus	firstAscentPerson	Summit (topography)
+Mount Elbrus	firstAscentPerson	Florence Crauford Grove
+Mount Elbrus	firstAscentPerson	Frederick D. Gardner
+Mount Elbrus	firstAscentPerson	Horace Walker
+Mount Elbrus	firstAscentPerson	Peter Knubel
+Mount Elbrus	firstAscentPerson	Ahiya Sottaiev
+Muztagh Tower	firstAscentPerson	United Kingdom
+Lhotse	firstAscentPerson	Fritz Luchsinger
+Lhotse	firstAscentPerson	Ernst Reiss
+Mount Dana	firstAscentPerson	William Henry Brewer
+Mount Dana	firstAscentPerson	Charles F. Hoffmann
+Mount Kazbek	firstAscentPerson	Douglas Freshfield
+Mount Kazbek	firstAscentPerson	Adolphus Warburton Moore
+Ismoil Somoni Peak	firstAscentPerson	Yevgeniy Abalakov
+Matterhorn	firstAscentPerson	Edward Whymper
+Matterhorn	firstAscentPerson	Charles Hudson (climber)
+Matterhorn	firstAscentPerson	Lord Francis Douglas
+Matterhorn	firstAscentPerson	Douglas Robert Hadow
+Matterhorn	firstAscentPerson	Michel Croz
+Nevado del Ruiz	firstAscentPerson	Augusto Gansser-Biaggi
+Makalu	firstAscentPerson	Lionel Terray
+Makalu	firstAscentPerson	Jean Couzy
+Tungurahua	firstAscentPerson	Alphons Stübel
+Tungurahua	firstAscentPerson	Wilhelm Reiss
+Mount Ararat	firstAscentPerson	Friedrich Parrot
+Mount Ararat	firstAscentPerson	Khachatur Abovian
+Mount Robson	firstAscentPerson	William W. Foster
+Mount Robson	firstAscentPerson	Albert H. McCarthy
+Mount Robson	firstAscentPerson	Conrad Kain
+Mount Assiniboine	firstAscentPerson	James Outram (mountaineer)
+Mount Assiniboine	firstAscentPerson	Christian Bohren
+Mount Assiniboine	firstAscentPerson	Christian Hasler
+Cho Oyu	firstAscentPerson	Herbert Tichy
+Cho Oyu	firstAscentPerson	Sherpa
+Dhaulagiri	firstAscentPerson	Switzerland
+Dhaulagiri	firstAscentPerson	Austria
+Manaslu	firstAscentPerson	Japan
+Nanga Parbat	firstAscentPerson	Hermann Buhl
+Gasherbrum I	firstAscentPerson	United States
+Mount Wellington (Tasmania)	firstAscentPerson	George Bass
+Mount Wellington (Tasmania)	firstAscentPerson	Robert Brown (botanist)
+Parícutin	firstAscentPerson	1943
+Gasherbrum II	firstAscentPerson	Austria
+Mount Columbia (Canada)	firstAscentPerson	James Outram (mountaineer)
+Mount Forbes	firstAscentPerson	J. Norman Collie
+Mount Forbes	firstAscentPerson	James Outram (mountaineer)
+Mount Athabasca	firstAscentPerson	Herman Woolley
+Masherbrum	firstAscentPerson	Willi Unsoeld
+Cotopaxi	firstAscentPerson	Wilhelm Reiss
+Mount Elbert	firstAscentPerson	H. W. Stuckle
+Rakaposhi	firstAscentPerson	Mike Banks (mountaineer)
+Rakaposhi	firstAscentPerson	Tom Patey
+Mount Kenya	firstAscentPerson	Halford Mackinder
+Pumori	firstAscentPerson	Gerhard Lenser
+Distaghil Sar	firstAscentPerson	Austria
+Drei Schwestern	firstAscentPerson	John Douglas, 9th Marquess of Queensberry
+Drei Schwestern	firstAscentPerson	Frastanz
+Mount Temple (Alberta)	firstAscentPerson	Walter Wilcox
+Mount Temple (Alberta)	firstAscentPerson	Samuel Clesson Allen
+Mount Katahdin	firstAscentPerson	Charles Turner, Jr.
+Canigou	firstAscentPerson	1285
+Wildspitze	firstAscentPerson	Leander Klotz
+Mount Cameroon	firstAscentPerson	Joseph Merrick (missionary)
+Piz Linard	firstAscentPerson	Johann Madutz
+Pico de Orizaba	firstAscentPerson	1848
+Mount Marcy	firstAscentPerson	Ebenezer Emmons
+Mount Roraima	firstAscentPerson	Everard F. im Thurn
+Mount Roraima	firstAscentPerson	Harry Inniss Perkins
+Mount Saint Elias	firstAscentPerson	Prince Luigi Amedeo, Duke of the Abruzzi
+Mount Lucania	firstAscentPerson	Bradford Washburn
+Mount Lucania	firstAscentPerson	Robert Bates (mountaineer)
+Mount Stanley	firstAscentPerson	Prince Luigi Amedeo, Duke of the Abruzzi
+Gyachung Kang	firstAscentPerson	1964
+Nanda Devi	firstAscentPerson	Noel Odell
+Nanda Devi	firstAscentPerson	Bill Tilman
+Imja Tse	firstAscentPerson	United Kingdom
+Mount Tyree	firstAscentPerson	Barry Corbet
+Mount Tyree	firstAscentPerson	John Evans
+Mount Tyree	firstAscentPerson	Nicholas Clinch
+Kamet	firstAscentPerson	Frank Smythe
+Kamet	firstAscentPerson	Eric Shipton
+Cholatse	firstAscentPerson	Vern Clevenger
+Cholatse	firstAscentPerson	Galen Rowell
+Mount Niblock	firstAscentPerson	Walter Wilcox
+Fairview Mountain (Alberta)	firstAscentPerson	Walter Wilcox
+Fairview Mountain (Alberta)	firstAscentPerson	Samuel Clesson Allen
+Mount Bryce	firstAscentPerson	James Outram (mountaineer)
+Chomo Lonzo	firstAscentPerson	Jean Couzy
+Chomo Lonzo	firstAscentPerson	Lionel Terray
+Watzmann	firstAscentPerson	Valentin Stanič
+Mount Massive	firstAscentPerson	Henry Gannett
+Mount Shuksan	firstAscentPerson	Asahel Curtis
+Cathedral Peak (California)	firstAscentPerson	John Muir
+Harney Peak	firstAscentPerson	Valentine McGillycuddy
+Mount K2	firstAscentPerson	Alpine Club of Canada
+North Twin Peak	firstAscentPerson	Conrad Kain
+Mount Woolley	firstAscentPerson	Japan
+Mount Bogong	firstAscentPerson	Ferdinand von Mueller
+Mount King Edward	firstAscentPerson	Conrad Kain
+Mount Gibbs	firstAscentPerson	Frederick Law Olmsted
+Mount Gibbs	firstAscentPerson	William Henry Brewer
+Sunwapta Peak	firstAscentPerson	Jimmy Simpson
+Mount Collie	firstAscentPerson	James Outram (mountaineer)
+Mount Collie	firstAscentPerson	Edward Whymper
+Mount Evans	firstAscentPerson	Albert Bierstadt
+Mount Bierstadt	firstAscentPerson	Albert Bierstadt
+Grays Peak	firstAscentPerson	Charles Christopher Parry
+Torreys Peak	firstAscentPerson	Charles Christopher Parry
+Stanley Peak (Ball Range)	firstAscentPerson	Edward Whymper
+Mount of the Holy Cross	firstAscentPerson	1873
+Monte Rosa	firstAscentPerson	Charles Hudson (climber)
+Kongur Tagh	firstAscentPerson	United Kingdom
+Grotto Mountain	firstAscentPerson	Eugène Bourgeau
+Kongde Ri	firstAscentPerson	Nepal
+Grand Teton	firstAscentPerson	Grand Teton#First ascent
+Minarets (California)	firstAscentPerson	Norman Clyde
+Mount Cornwell (Canada)	firstAscentPerson	Interprovincial Boundary Commission
+Jengish Chokusu	firstAscentPerson	Vitaly Abalakov
+Mount Ritter	firstAscentPerson	John Muir
+Mount Louis	firstAscentPerson	Conrad Kain
+Red Slate Mountain	firstAscentPerson	Joseph Nisbet LeConte
+Mount Hopkins (California)	firstAscentPerson	David Brower
+Mount Hopkins (California)	firstAscentPerson	Norman Clyde
+Mount Hopkins (California)	firstAscentPerson	Hervey Voge
+Mount Morgan (Mono County, California)	firstAscentPerson	David Brower
+Mount Morgan (Mono County, California)	firstAscentPerson	Norman Clyde
+Mount Tamalpais	firstAscentPerson	Jacob P. Leese
+Gasherbrum III	firstAscentPerson	Poland
+Gasherbrum IV	firstAscentPerson	Walter Bonatti
+Gasherbrum IV	firstAscentPerson	Carlo Mauri
+Trango Towers	firstAscentPerson	Galen Rowell
+Trango Towers	firstAscentPerson	John Roskelley
+Trango Towers	firstAscentPerson	Kim Schmitz (mountaineer)
+Trango Towers	firstAscentPerson	Dennis Hennek
+Mount Blackburn	firstAscentPerson	1958
+Mount Stephen	firstAscentPerson	James J. McArthur
+Mount Humphreys	firstAscentPerson	Edward C. Hutchinson
+Mount Humphreys	firstAscentPerson	James S. Hutchinson
+Grandes Jorasses	firstAscentPerson	Horace Walker
+Grandes Jorasses	firstAscentPerson	Melchior Anderegg
+Ojos del Salado	firstAscentPerson	Jan Alfred Szczepański
+Ojos del Salado	firstAscentPerson	Justyn Wojsznis
+Shiprock	firstAscentPerson	David Brower
+Shiprock	firstAscentPerson	Bestor Robinson
+Nevado Sajama	firstAscentPerson	Joseph Prem
+Nevado Sajama	firstAscentPerson	Wilfrid Kuehm
+Mount Paget	firstAscentPerson	Combined Services Expedition
+Licancabur	firstAscentPerson	Andean civilizations
+Licancabur	firstAscentPerson	Pre-Columbian era
+Antofalla	firstAscentPerson	Andean civilizations
+Antofalla	firstAscentPerson	Pre-Columbian era
+Baintha Brakk	firstAscentPerson	Doug Scott
+Baintha Brakk	firstAscentPerson	Chris Bonington
+Mount Sanford (Alaska)	firstAscentPerson	Bradford Washburn
+Schneeberg (Alps)	firstAscentPerson	Carolus Clusius
+Granite Peak (Montana)	firstAscentPerson	Elers Koch
+Makushin Volcano	firstAscentPerson	George Davidson (geographer)
+Pyramid Mountain (Alberta)	firstAscentPerson	Conrad Kain
+Maipo (volcano)	firstAscentPerson	Paul Güssfeldt
+Tipas	firstAscentPerson	Walther Penck
+Porter Mountain	firstAscentPerson	Noah Porter
+Castle Mountain	firstAscentPerson	Arthur Philemon Coleman
+Aiguille du Midi	firstAscentPerson	Antoni Malczewski
+Mount Macdonald	firstAscentPerson	1886
+Mount Macdonald	firstAscentPerson	Canadian Pacific Railway
+Castle Peak (Colorado)	firstAscentPerson	Ferdinand Vandeveer Hayden
+Mount Edgecumbe (Alaska)	firstAscentPerson	Yuri Lisyansky
+Anamudi	firstAscentPerson	Douglas Hamilton
+Klein Matterhorn	firstAscentPerson	Horace-Bénédict de Saussure
+Mount Beerwah	firstAscentPerson	Andrew Petrie
+Mount Beerwah	firstAscentPerson	John Petrie
+Aletschhorn	firstAscentPerson	Francis Fox Tuckett
+Tronador	firstAscentPerson	1934
+Blanca Peak	firstAscentPerson	Wheeler Survey
+Pyramid Peak (Colorado)	firstAscentPerson	Percy Hagerman
+Pyramid Peak (Colorado)	firstAscentPerson	Harold Clark
+Snowmass Mountain	firstAscentPerson	William Byers
+Mount Wilhelm	firstAscentPerson	Leigh Vial
+Mount Morrison (California)	firstAscentPerson	Norman Clyde
+Dom (mountain)	firstAscentPerson	J. L. Davies
+Illimani	firstAscentPerson	Martin Conway, 1st Baron Conway of Allington
+Mount Saskatchewan (Alberta)	firstAscentPerson	Conrad Kain
+Mount Haystack	firstAscentPerson	Orson S. Phelps
+Mount Skylight	firstAscentPerson	Verplanck Colvin
+Mount Skylight	firstAscentPerson	Orson S. Phelps
+Fremont Peak (Wyoming)	firstAscentPerson	John C. Frémont
+Monte Viso	firstAscentPerson	William Mathews
+Monte Viso	firstAscentPerson	Michel Croz
+Maroon Bells	firstAscentPerson	C. Wilson
+Mount Hunter (Alaska)	firstAscentPerson	Fred Beckey
+Mount Hunter (Alaska)	firstAscentPerson	Heinrich Harrer
+Monte Fitz Roy	firstAscentPerson	Guido Magnone
+Meije	firstAscentPerson	1877
+Barre des Écrins	firstAscentPerson	Adolphus Warburton Moore
+Barre des Écrins	firstAscentPerson	Horace Walker
+Barre des Écrins	firstAscentPerson	Edward Whymper
+Barre des Écrins	firstAscentPerson	Christian Almer
+Mount Cleveland (Montana)	firstAscentPerson	Frank B. Wynn
+Kasprowy Wierch	firstAscentPerson	Klemens Bachleda
+Kasprowy Wierch	firstAscentPerson	Karol Potkański
+Heavens Peak	firstAscentPerson	Norman Clyde
+Weißkugel	firstAscentPerson	Leander Klotz
+Stawamus Chief	firstAscentPerson	Prehistory
+Villarrica (volcano)	firstAscentPerson	Chilean Army
+Mount Ansel Adams	firstAscentPerson	Glen Dawson
+Bitihorn	firstAscentPerson	Christen Smith
+Mount Arapiles	firstAscentPerson	Thomas Mitchell (explorer)
+Marmolada	firstAscentPerson	Paul Grohmann
+Marmolada	firstAscentPerson	Angelo Dimai
+Hoher Dachstein	firstAscentPerson	Peter Gappmayr
+Buni Zom	firstAscentPerson	Cecil Hugh Tyndale-Biscoe
+Gul Lasht Zom	firstAscentPerson	Kurt Diemberger
+Mount Giluwe	firstAscentPerson	Mick Leahy
+Mount Darwin (California)	firstAscentPerson	Ernest Clayton Andrews
+Tupungato	firstAscentPerson	Matthias Zurbriggen
+Mount Queen Bess	firstAscentPerson	Don Munday
+Mount Queen Bess	firstAscentPerson	Phyllis Munday
+Corno Grande	firstAscentPerson	Francesco De Marchi
+Mount Aylmer	firstAscentPerson	J.J. McArthur
+Hardeol	firstAscentPerson	Indo-Tibetan Border Police
+Pilot Mountain (Alberta)	firstAscentPerson	Geological Survey of Canada
+Khunyang Chhish	firstAscentPerson	Zygmunt Andrzej Heinrich
+Khunyang Chhish	firstAscentPerson	Jan Stryczynski
+Khunyang Chhish	firstAscentPerson	Ryszard Szafirski
+Khunyang Chhish	firstAscentPerson	Andrzej Zawada
+Mount Alexander	firstAscentPerson	Thomas Mitchell (explorer)
+Black Tusk	firstAscentPerson	William J. Gray
+Skil Brum	firstAscentPerson	1957
+Nanda Kot	firstAscentPerson	Y. Hotta
+Stawamus Squaw	firstAscentPerson	Prehistory
+Chiring We	firstAscentPerson	H. Kapadia
+Store Skagastølstind	firstAscentPerson	William Cecil Slingsby
+Mount Wilbur (Montana)	firstAscentPerson	Norman Clyde
+Osorno (volcano)	firstAscentPerson	Jean Renous
+Gaustatoppen	firstAscentPerson	Jens Esmark
+Mount Davis (California)	firstAscentPerson	1891
+Snøhetta	firstAscentPerson	Jens Esmark
+Dents du Midi	firstAscentPerson	1784
+Uja Tirche	firstAscentPerson	1937
+Artesonraju	firstAscentPerson	E. Hein
+Artesonraju	firstAscentPerson	E. Schneider
+Mount Murud	firstAscentPerson	Eric Mjöberg
+Saltoro Kangri	firstAscentPerson	1962
+Peak Korzhenevskaya    1	firstAscentPerson	1953
+Rheinwaldhorn	firstAscentPerson	Placidus a Spescha
+University Peak (Alaska)	firstAscentPerson	1955
+Mount Hayes	firstAscentPerson	Bradford Washburn
+Mount Augusta	firstAscentPerson	1952
+Mount Crillon	firstAscentPerson	Bradford Washburn
+Mount Crillon	firstAscentPerson	H. Adams Carter
+Mount Deborah	firstAscentPerson	Fred Beckey
+Mount Deborah	firstAscentPerson	Heinrich Harrer
+Mount Bona	firstAscentPerson	Terris Moore
+Mount Churchill	firstAscentPerson	1951
+Pico Humboldt	firstAscentPerson	Alfredo Jahn
+Mount Marcus Baker	firstAscentPerson	Norm Bright
+Mount Marcus Baker	firstAscentPerson	Norman Dyhrenfurth
+Mount Marcus Baker	firstAscentPerson	Bradford Washburn
+North Palisade	firstAscentPerson	James S. Hutchinson
+North Palisade	firstAscentPerson	Joseph Nisbet LeConte
+Black Kaweah	firstAscentPerson	Duncan McDuffie
+Black Kaweah	firstAscentPerson	James S. Hutchinson
+Mount Sill	firstAscentPerson	James S. Hutchinson
+Mount Sill	firstAscentPerson	Joseph Nisbet LeConte
+Mount Dickey	firstAscentPerson	1955
+Mount Dickey	firstAscentPerson	Bradford Washburn
+Rakhiot Peak	firstAscentPerson	1932
+Snow Dome (Canada)	firstAscentPerson	J. Norman Collie
+Lituya Mountain	firstAscentPerson	1962
+Aiguille Verte	firstAscentPerson	Edward Whymper
+Aiguille Verte	firstAscentPerson	Christian Almer
+Mount Cook (Saint Elias Mountains)	firstAscentPerson	1953
+Howse Peak	firstAscentPerson	J. Norman Collie
+Peyto Peak	firstAscentPerson	Conrad Kain
+Ladyfinger Peak	firstAscentPerson	Patrick Cordier
+Mount Wilson (Colorado)	firstAscentPerson	Ferdinand Vandeveer Hayden
+Redcloud Peak	firstAscentPerson	J. C. Spiller
+Teram Kangri	firstAscentPerson	Japan
+Trivor	firstAscentPerson	1960
+Molamenqing	firstAscentPerson	New Zealand
+Bojohagur Duanasir	firstAscentPerson	Japan
+Pumari Chhish	firstAscentPerson	Japan
+Yukshin Gardan Sar	firstAscentPerson	Austria
+Ghent Kangri	firstAscentPerson	Austria
+Labuche Kang	firstAscentPerson	Japan
+Labuche Kang	firstAscentPerson	China
+Kinnerly Peak	firstAscentPerson	Norman Clyde
+Kinnerly Peak	firstAscentPerson	Ed Hall
+Kinnerly Peak	firstAscentPerson	Richard K. Hill
+Kinnerly Peak	firstAscentPerson	Braeme Gigos
+Pica d'Estats	firstAscentPerson	Henry Russell (explorer)
+Nun Kun	firstAscentPerson	Claude Kogan
+Mount Arrowsmith	firstAscentPerson	John Macoun
+Mount Russell (California)	firstAscentPerson	Norman Clyde
+Middle Palisade	firstAscentPerson	Francis P. Farquhar
+Middle Palisade	firstAscentPerson	Ansel Franklin Hall
+Thunderbolt Peak	firstAscentPerson	Glen Dawson
+Thunderbolt Peak	firstAscentPerson	Jules Eichorn
+Mount Yale	firstAscentPerson	William Henry Brewer
+Mount Yale	firstAscentPerson	Robert Moore
+Mount Yale	firstAscentPerson	S. Sharpless
+Mount Yale	firstAscentPerson	Josiah Whitney
+Electric Peak	firstAscentPerson	Henry Gannett
+Mount Price (British Columbia)	firstAscentPerson	British Columbia Mountaineering Club
+Bietschhorn	firstAscentPerson	Leslie Stephen
+Cheam Peak	firstAscentPerson	1888
+Mount Arthur Meighen	firstAscentPerson	1949
+Carè Alto	firstAscentPerson	S.T Taylor
+Carè Alto	firstAscentPerson	H.F. Montgomery
+Mount Conness	firstAscentPerson	Clarence King
+Mount Conness	firstAscentPerson	James Terry Gardiner
+Tymfi	firstAscentPerson	Climbing
+Torfinnstindene	firstAscentPerson	Emanuel Mohn
+Torfinnstindene	firstAscentPerson	William Cecil Slingsby
+Torfinnstindene	firstAscentPerson	Knut Lykken
+Kalvehøgde	firstAscentPerson	1820
+Kalvehøgde	firstAscentPerson	Peter Christian Bianco Boeck
+Snowpatch Spire	firstAscentPerson	1940
+Bugaboo Spire	firstAscentPerson	Conrad Kain
+Ampato	firstAscentPerson	Andean civilizations
+Ampato	firstAscentPerson	Pre-Columbian era
+Lyskamm	firstAscentPerson	1861
+Devils Thumb	firstAscentPerson	Fred Beckey
+Schiara	firstAscentPerson	Gottfried Merzbacher
+Schiara	firstAscentPerson	1878
+Antelao	firstAscentPerson	Paul Grohmann
+Federation Peak	firstAscentPerson	John Béchervaise
+Sgurr na Banachdich	firstAscentPerson	1873
+Mount Drum	firstAscentPerson	Heinrich Harrer
+Naranjo de Bulnes	firstAscentPerson	Pedro Pidal
+Mount Silverthrone	firstAscentPerson	1936
+Mount Silverthrone	firstAscentPerson	Phyllis Munday
+Changabang	firstAscentPerson	Chris Bonington
+Changabang	firstAscentPerson	Martin Boysen
+Changabang	firstAscentPerson	Dougal Haston
+Changabang	firstAscentPerson	Doug Scott
+Skarstind	firstAscentPerson	1884
+Sgurr a' Ghreadaidh	firstAscentPerson	1870
+Columbia Point	firstAscentPerson	Kit Carson Peak
+Mount Quincy Adams (Fairweather Range)	firstAscentPerson	Bradford Washburn
+Mount Quincy Adams (Fairweather Range)	firstAscentPerson	H. Adams Carter
+Antuco (volcano)	firstAscentPerson	Eduard Friedrich Poeppig
+Elkhorn Mountain	firstAscentPerson	Alpine Club of Canada
+El Piveto Mountain	firstAscentPerson	1966
+Schreckhorn	firstAscentPerson	Leslie Stephen
+Monte San Lorenzo	firstAscentPerson	Alberto Maria De Agostini
+Brammah	firstAscentPerson	Chris Bonington
+Brammah	firstAscentPerson	Nick Estcourt
+Monte Burney	firstAscentPerson	Eric Shipton
+Blüemlisalp	firstAscentPerson	Leslie Stephen
+Blüemlisalp	firstAscentPerson	Melchior Anderegg
+Clinker Peak	firstAscentPerson	British Columbia Mountaineering Club
+Tralcán	firstAscentPerson	Pre-Columbian era
+Olan (mountain)	firstAscentPerson	1880
+Mount Speke	firstAscentPerson	Prince Luigi Amedeo, Duke of the Abruzzi
+Mount Baker (Uganda)	firstAscentPerson	Prince Luigi Amedeo, Duke of the Abruzzi
+Mount Siyeh	firstAscentPerson	Norman Clyde
+Lauteraarhorn	firstAscentPerson	Pierre Jean Édouard Desor
+Lauteraarhorn	firstAscentPerson	Arnold Escher von der Linth
+Lenzspitze	firstAscentPerson	Clinton Thomas Dent
+Lenzspitze	firstAscentPerson	Alexander Burgener
+Ober Gabelhorn	firstAscentPerson	Adolphus Warburton Moore
+Ober Gabelhorn	firstAscentPerson	Horace Walker
+Stecknadelhorn	firstAscentPerson	Oscar Eckenstein
+Stecknadelhorn	firstAscentPerson	Matthias Zurbriggen
+Zinalrothorn	firstAscentPerson	Leslie Stephen
+Zinalrothorn	firstAscentPerson	Florence Crauford Grove
+Zinalrothorn	firstAscentPerson	Melchior Anderegg
+Mount Victoria, Papua New Guinea	firstAscentPerson	William MacGregor
+Mount Burgess	firstAscentPerson	James J. McArthur
+Ring Mountain (British Columbia)	firstAscentPerson	John Clarke (mountaineer)
+Piz Badile	firstAscentPerson	W. A. B. Coolidge
+Glacier Pikes	firstAscentPerson	British Columbia Mountaineering Club
+Aiguille du Dru	firstAscentPerson	Clinton Thomas Dent
+Aiguille du Dru	firstAscentPerson	Alexander Burgener
+Thor Peak (Wyoming)	firstAscentPerson	Paul Petzoldt
+Castor (mountain)	firstAscentPerson	William Mathews
+Tre Cime di Lavaredo	firstAscentPerson	Paul Grohmann
+Tre Cime di Lavaredo	firstAscentPerson	Peter Salcher
+Dent d'Hérens	firstAscentPerson	Florence Crauford Grove
+Dent d'Hérens	firstAscentPerson	Melchior Anderegg
+Crown Mountain (North Vancouver, British Columbia)	firstAscentPerson	1895
+Wedge Mountain	firstAscentPerson	1923
+Blackcomb Peak	firstAscentPerson	Phyllis Munday
+Blackcomb Peak	firstAscentPerson	Don Munday
+Golden Ears (peaks)	firstAscentPerson	British Columbia Mountaineering Club
+Blanshard Peak	firstAscentPerson	Don Munday
+Lady Peak	firstAscentPerson	1889
+Little Finger (mountain)	firstAscentPerson	1952
+Rimpfischhorn	firstAscentPerson	Leslie Stephen
+Rimpfischhorn	firstAscentPerson	Melchior Anderegg
+Alphubel	firstAscentPerson	Leslie Stephen
+Alphubel	firstAscentPerson	Melchior Anderegg
+Trisul	firstAscentPerson	Tom George Longstaff
+Monte Disgrazia	firstAscentPerson	Leslie Stephen
+Monte Disgrazia	firstAscentPerson	E. S. Kennedy
+Monte Disgrazia	firstAscentPerson	Melchior Anderegg
+Piz Roseg	firstAscentPerson	Adolphus Warburton Moore
+Piz Roseg	firstAscentPerson	Horace Walker
+Piz Cengalo	firstAscentPerson	Douglas Freshfield
+Mount Herschel	firstAscentPerson	Edmund Hillary
+South Table Mountain (Colorado)	firstAscentPerson	George Jackson (producer)
+South Table Mountain (Colorado)	firstAscentPerson	Thomas L. Golden
+North Table Mountain	firstAscentPerson	Black Kettle
+Zuckerhütl	firstAscentPerson	1863
+Piz Scerscen	firstAscentPerson	Paul Güssfeldt
+Wildstrubel	firstAscentPerson	Leslie Stephen
+Wildstrubel	firstAscentPerson	Melchior Anderegg
+Dent du Géant	firstAscentPerson	William Woodman Graham
+Surtningssue	firstAscentPerson	Johan Sverdrup
+Stetind	firstAscentPerson	Ferdinand Schjelderup
+Stetind	firstAscentPerson	Carl Wilhelm Rubenson
+Stetind	firstAscentPerson	Alf Bonnevie Bryn
+Mount Tarn	firstAscentPerson	John Tarn
+Store Venjetinden	firstAscentPerson	William Cecil Slingsby
+Coglians	firstAscentPerson	Paul Grohmann
+Mont Blanc du Tacul	firstAscentPerson	Charles Hudson (climber)
+Mont Blanc du Tacul	firstAscentPerson	E. S. Kennedy
+Jervvasstind	firstAscentPerson	William Cecil Slingsby
+Jervvasstind	firstAscentPerson	Emanuel Mohn
+Falketind	firstAscentPerson	Christian Peder Bianco Boeck
+Falketind	firstAscentPerson	Baltazar Mathias Keilhau
+Mount Albert Edward, Papua New Guinea	firstAscentPerson	C A W Monckton
+Tjørnholstind	firstAscentPerson	Harald Nicolai Storm Wergeland
+Saddle Mountain (Clatsop County, Oregon)	firstAscentPerson	James Dwight Dana
+Coropuna	firstAscentPerson	Andean civilizations
+Coropuna	firstAscentPerson	Pre-Columbian era
+Abi Gamin	firstAscentPerson	United Kingdom
+Arwa Group	firstAscentPerson	Steve Sustad
+Avalanche Peak (India)	firstAscentPerson	Eric Shipton
+Avalanche Peak (India)	firstAscentPerson	Frank Smythe
+Aiguille Blanche de Peuterey	firstAscentPerson	Seymour King
+Aiguille d'Argentière	firstAscentPerson	Edward Whymper
+Aiguille d'Argentière	firstAscentPerson	Michel Croz
+Pular (volcano)	firstAscentPerson	Andean civilizations
+Pular (volcano)	firstAscentPerson	Pre-Columbian era
+Kedarnath (Mountain)	firstAscentPerson	André Roch
+Kedarnath (Mountain)  Kedarnath Dome   1	firstAscentPerson	André Roch
+Pico Pan de Azúcar	firstAscentPerson	Wilhelm Sievers
+Hårteigen	firstAscentPerson	Christen Smith
+Hårteigen	firstAscentPerson	Joakim Frederik Schouw
+Parrotspitze	firstAscentPerson	Florence Crauford Grove
+Parrotspitze	firstAscentPerson	Melchior Anderegg
+Cerro Paniri	firstAscentPerson	Pre-Columbian era
+Sawtooth Peak	firstAscentPerson	1871
+Grand Cornier	firstAscentPerson	Edward Whymper
+Grand Cornier	firstAscentPerson	Christian Almer
+Grand Cornier	firstAscentPerson	Michel Croz
+Ailefroide	firstAscentPerson	W. A. B. Coolidge
+Ailefroide	firstAscentPerson	Christian Almer
+Taapaca	firstAscentPerson	Andean civilizations
+Taapaca	firstAscentPerson	Pre-Columbian era
+Les Bans	firstAscentPerson	W. A. B. Coolidge
+Les Bans	firstAscentPerson	Christian Almer
+Mount Agassiz (California)	firstAscentPerson	Norman Clyde
+Pigne d'Arolla	firstAscentPerson	Adolphus Warburton Moore
+Pigne d'Arolla	firstAscentPerson	Horace Walker
+Cilindro de Marboré	firstAscentPerson	1864
+Mount Merritt	firstAscentPerson	Norman Clyde
+Rising Wolf Mountain	firstAscentPerson	Norman Clyde
+Mount Hoffmann	firstAscentPerson	John Muir
+Sahale Mountain	firstAscentPerson	Albert Hale Sylvester
+Mięguszowiecki Szczyt Wielki	firstAscentPerson	1877
+Tverrådalskyrkja	firstAscentPerson	Harald Nicolai Storm Wergeland
+Monte Sarmiento	firstAscentPerson	1956
+Red Lake Peak	firstAscentPerson	John C. Frémont
+Red Lake Peak	firstAscentPerson	Charles Preuss
+Esther Mountain	firstAscentPerson	Esther McComb
+Norman Clyde Peak	firstAscentPerson	Norman Clyde
+Mount Le Conte (California)	firstAscentPerson	Norman Clyde
+Mont Dolent	firstAscentPerson	Edward Whymper
+Mont Dolent	firstAscentPerson	Michel Croz
+Seward Mountain (New York)	firstAscentPerson	Verplanck Colvin
+Balmhorn	firstAscentPerson	Horace Walker
+Balmhorn	firstAscentPerson	Lucy Walker (climber)
+Balmhorn	firstAscentPerson	Melchior Anderegg
+Grivola	firstAscentPerson	1859
+Grande Casse	firstAscentPerson	William Mathews
+Singu Chuli	firstAscentPerson	Wilfrid Noyce
+Weisshorn	firstAscentPerson	John Tyndall
+Wildhorn	firstAscentPerson	1843
+Pico Bonpland	firstAscentPerson	Pico Humboldt
+Mount Clark (California)	firstAscentPerson	Clarence King
+Devon Ice Cap	firstAscentPerson	Alfred Herbert Joy
+Lookout Mountain (Colorado)	firstAscentPerson	Colorow
+Piz Corvatsch	firstAscentPerson	1850
+Piz Argient	firstAscentPerson	1869
+Clach Glas	firstAscentPerson	Pilkington (surname)
+Jongsong Peak	firstAscentPerson	G.O. Dyhenfurth
+Mount Disappointment (Australia)	firstAscentPerson	Hume and Hovell expedition
+Dürrenhorn	firstAscentPerson	Albert F. Mummery
+Dürrenhorn	firstAscentPerson	William Penhall
+Nesthorn	firstAscentPerson	Christian Almer
+Mount Haku	firstAscentPerson	Taichō
+Mount Haku	firstAscentPerson	717
+Mount Dainichi	firstAscentPerson	Taichō
+Mount Dainichi	firstAscentPerson	717
+Mount Kilimanjaro climbing routes	firstAscentPerson	Hans Meyer (geologist)
+Mount Kilimanjaro climbing routes	firstAscentPerson	Ludwig Purtscheller
+Karl Marx Peak  arl Marx Peak   1	firstAscentPerson	1946
+Breithorn (Lauterbrunnen)	firstAscentPerson	Edmund von Fellenberg
+Mount Elkins	firstAscentPerson	1960
+Mount Elkins	firstAscentPerson	Australian National Antarctic Research Expeditions
+Mount Elkins	firstAscentPerson	Terence James Elkins
+Lohner (mountain)	firstAscentPerson	1875
+Lohner (mountain)	firstAscentPerson	Kandersteg
+Little Ring Mountain	firstAscentPerson	1969
+El Peñón de Guatapé	firstAscentPerson	Prehistory
+Birch Mountain (California)	firstAscentPerson	1887
+Tofane	firstAscentPerson	Paul Grohmann
+Cristallo (mountain)	firstAscentPerson	Paul Grohmann
+Mount Sarbach	firstAscentPerson	1897
+Mount Sarbach	firstAscentPerson	G.P. Baker
+Veobrehesten	firstAscentPerson	1949
+Pic Tyndall	firstAscentPerson	John Tyndall
+Svolværgeita	firstAscentPerson	Ferdinand Schjelderup
+Vezzana	firstAscentPerson	Douglas Freshfield
+Lotus Flower Tower	firstAscentPerson	William J. Buckingham
+Mount Brewer	firstAscentPerson	William Henry Brewer
+Mount Brewer	firstAscentPerson	Charles F. Hoffmann
+Uto Peak	firstAscentPerson	1890
+Punta San Matteo	firstAscentPerson	Francis Fox Tuckett
+Punta San Matteo	firstAscentPerson	Douglas Freshfield
+Punta San Matteo	firstAscentPerson	James Backhouse
+Punta San Matteo	firstAscentPerson	George Henry Fox
+Punta San Matteo	firstAscentPerson	François Devouassoud
+Punta San Matteo	firstAscentPerson	Peter Michel
+Mount Abbot	firstAscentPerson	Joseph Nisbet LeConte
+Mount Abbot	firstAscentPerson	James S. Hutchinson
+Mount Rainier	firstAscentPerson	Hazard Stevens
+Mount Rainier	firstAscentPerson	P. B. Van Trump
+Mount Benacantil	firstAscentPerson	Bronze Age
+Mount Brett	firstAscentPerson	James Outram (mountaineer)
+Hoher Weißzint	firstAscentPerson	Mühlwald
+Fineilspitze	firstAscentPerson	Franz Senn
+Hochvernagtspitze	firstAscentPerson	Franz Senn
+Firmisanschneide	firstAscentPerson	Franz Senn
+Firmisanschneide	firstAscentPerson	Ludwig Darmstaedter
+Fluchtkogel	firstAscentPerson	Franz Senn
+Hinterer Brochkogel	firstAscentPerson	Leander Klotz
+Spiegelkogel	firstAscentPerson	Franz Senn
+Kreuzspitze (Ötztal Alps)	firstAscentPerson	Franz Senn
+Weißseespitze	firstAscentPerson	Franz Senn
+Mutmalspitze	firstAscentPerson	Franz Senn
+Petersenspitze	firstAscentPerson	Johann Pinggera
+Taschachwand	firstAscentPerson	Karl Prusik
+Turnerkamp	firstAscentPerson	Luttach
+University Peak (California)	firstAscentPerson	Joseph Nisbet LeConte
+Rio Grande Pyramid	firstAscentPerson	Wheeler Survey
+Basin Mountain (California)	firstAscentPerson	Norman Clyde
+Mount Gould (California)	firstAscentPerson	Joseph Nisbet LeConte
+Mount Farquhar	firstAscentPerson	Norman Clyde
+Milestone Mountain	firstAscentPerson	William Edward Colby
+Milestone Mountain	firstAscentPerson	Francis P. Farquhar
+Aiguilles d'Arves	firstAscentPerson	W. A. B. Coolidge
+Dunagiri (mountain)	firstAscentPerson	André Roch
+Malte Brun (mountain)	firstAscentPerson	Tom Fyfe
+Schneefernerkopf	firstAscentPerson	Hermann von Barth
+Hochwanner	firstAscentPerson	Hermann von Barth
+Dreitorspitze	firstAscentPerson	Hermann von Barth
+Dreitorspitze	firstAscentPerson	Hermann von Barth
+Hochblassen	firstAscentPerson	Hermann von Barth
+Wetterwandeck	firstAscentPerson	Hermann von Barth
+Eon Mountain	firstAscentPerson	Winthrop E. Stone
+Pikes Peak	firstAscentPerson	Edwin James (scientist)
+Blackfoot Mountain	firstAscentPerson	Henry L. Stimson
+Clements Mountain	firstAscentPerson	Norman Clyde
+Mount Xuebaoding	firstAscentPerson	1986
+Little Chief Mountain	firstAscentPerson	Henry L. Stimson
+Bearhat Mountain	firstAscentPerson	Norman Clyde
+Mount Cannon	firstAscentPerson	Norman Clyde
+Pierra Menta (mountain)	firstAscentPerson	1922
+Dôme de Rochefort	firstAscentPerson	James Eccles
+Mont Brouillard	firstAscentPerson	Karl Blodig
+Mont Brouillard	firstAscentPerson	Oscar Eckenstein
+Aiguille du Plan	firstAscentPerson	James Eccles
+Aiguille de Rochefort	firstAscentPerson	James Eccles
+Nanda Khat	firstAscentPerson	Huge Ruttledge
+Mount Nōgōhaku	firstAscentPerson	Taichō
+Mount Nōgōhaku	firstAscentPerson	718
+Mount Oizuru	firstAscentPerson	1518
+Mount Norikura	firstAscentPerson	Enkū
+Mount Norikura	firstAscentPerson	1680
+Mount Kasa	firstAscentPerson	Enkū
+Aiguille Dibona	firstAscentPerson	Angelo Dibona
+Aiguille Dibona	firstAscentPerson	Guido Mayer
+Mount Jōnen	firstAscentPerson	Walter Weston
+Noijin Kangsang	firstAscentPerson	1986
+Mount Penrose	firstAscentPerson	Boies Penrose
+Mount McAdie	firstAscentPerson	Norman Clyde
+Puncak Jaya	firstAscentPerson	Heinrich Harrer
+Monte Matto	firstAscentPerson	W. A. B. Coolidge
+Monte Clapier	firstAscentPerson	Victor de Cessole
+Mt Siguniang	firstAscentPerson	1981

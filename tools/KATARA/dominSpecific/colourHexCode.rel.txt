@@ -1,0 +1,698 @@
+Black	colourHexCode	000000
+Blue	colourHexCode	0000FF
+Cyan	colourHexCode	00FFFF
+Cyan  additive secondary   1	colourHexCode	00FFFF
+Cyan  subtractive primary   1	colourHexCode	00B7EB
+Cyan  Light Cyan  1	colourHexCode	E0FFFF
+Cyan  Light Sea Green   1	colourHexCode	20B2AA
+Cyan  Dark Cyan  1	colourHexCode	008B8B
+Cyan  white  1	colourHexCode	008080
+Green	colourHexCode	00FF00
+Indigo	colourHexCode	4B0082
+Indigo  Electric Indigo  1	colourHexCode	6F00FF
+Indigo  Blue-Violet  1	colourHexCode	8A2BE2
+Indigo  Pigment Indigo  1	colourHexCode	4B0082
+Indigo  Dye  1	colourHexCode	00416A
+Red	colourHexCode	FF0000
+Sienna	colourHexCode	882D17
+Sienna  Raw Sienna   1	colourHexCode	AB734E
+Sienna  Burnt Sienna  1	colourHexCode	E97451
+Sienna  Dark Sienna   1	colourHexCode	3c1414
+Yellow	colourHexCode	FFFF00
+Yellow  Yellow  1	colourHexCode	FFFF00
+Yellow  black  1	colourHexCode	FFEF00
+Violet (color)  Violet color wheel   1	colourHexCode	7F00FF
+Violet (color)  Electric Violet  1	colourHexCode	8F00FF
+Violet (color)  Vivid Violet  1	colourHexCode	9F00FF
+Violet (color)  Violet web color   1	colourHexCode	EE82EE
+Violet (color)  Dark Violet  1	colourHexCode	9400D3
+Purple	colourHexCode	800080
+Purple  Violet  1	colourHexCode	8F00FF
+Purple  white  1	colourHexCode	66023C
+Purple  Han Purple  1	colourHexCode	5218FA
+Purple  white  2	colourHexCode	7851A9
+Purple  white  3	colourHexCode	C71585
+Purple  white  4	colourHexCode	BF00FF
+Purple  white  5	colourHexCode	800080
+Purple  white  6	colourHexCode	A020F0
+Purple  Medium Purple  1	colourHexCode	9370DB
+Purple  Munsell   1	colourHexCode	9F00C5
+Purple  Orchid  1	colourHexCode	DA70D6
+Purple  Heliotrope  1	colourHexCode	DF73FF
+Purple  white  7	colourHexCode	DF00FF
+Purple  white  8	colourHexCode	C54B8C
+Purple  white  9	colourHexCode	78184A
+Brown	colourHexCode	964B00
+Brown  Red-Brown  1	colourHexCode	A52A2A
+Brown  Dark Brown  1	colourHexCode	654321
+Brown  Pale Brown  1	colourHexCode	987654
+Ultramarine	colourHexCode	120A8F
+Ultramarine  Blue  1	colourHexCode	4166F5
+Ultramarine  lectric Ultramarine  1	colourHexCode	3F00FF
+Magenta	colourHexCode	FF00FF
+Magenta  white  1	colourHexCode	CA1F7B
+Magenta  black  1	colourHexCode	FF0090
+Magenta  black  2	colourHexCode	FF00FF
+Orange (colour)	colourHexCode	FF7F00
+Orange (colour)  Orange web colour   1	colourHexCode	FFA500
+Orange (colour)  Dark orange web colour   1	colourHexCode	FF8C00
+Orange (colour)  Orange peel   1	colourHexCode	FF9F00
+Orange (colour)  Deep saffron   1	colourHexCode	FF9933
+Orange (colour)  Burnt orange   1	colourHexCode	CC5500
+Orange (colour)  white   1	colourHexCode	964B00
+Bondi blue	colourHexCode	0095B6
+Jonquil	colourHexCode	FADA5E
+Tyrian purple	colourHexCode	66023C
+Terracotta	colourHexCode	E2725B
+Terracotta  Dark Terra cotta  1	colourHexCode	CC4E5C
+Prussian blue  white  1	colourHexCode	003153
+Pink	colourHexCode	FFC0CB
+Crimson	colourHexCode	DC143C
+Crimson  Alizarin Crimson  1	colourHexCode	E32636
+Crimson  Electric Crimson  1	colourHexCode	FF003F
+Crimson  Folly  1	colourHexCode	FF004F
+Crimson  white  1	colourHexCode	E3256B
+Crimson  KU Crimson  1	colourHexCode	E8000D
+Crimson  Utah Crimson  1	colourHexCode	D3003F
+Crimson  Harvard Crimson  1	colourHexCode	C90016
+Crimson  Glory  1	colourHexCode	BE0032
+Crimson  OU Crimson  1	colourHexCode	990000
+Gold (color)	colourHexCode	FFD700
+Gold (color)  Metallic Gold   1	colourHexCode	D4AF37
+Gold (color)  #FFFFFF  1	colourHexCode	C6930A
+Gold (color)  University of California Gold  1	colourHexCode	b78727
+Gold (color)  Satin Sheen Gold   1	colourHexCode	CBA135
+Gold (color)  Vegas Gold  1	colourHexCode	C5B358
+Gold (color)  Old Gold   1	colourHexCode	CFB53B
+Gold (color)  Pale Gold   1	colourHexCode	E6BE8A
+Gold (color)  Golden Poppy   1	colourHexCode	FCC200
+Gold (color)  Sunglow   1	colourHexCode	FFCC33
+Gold (color)  Golden yellow   1	colourHexCode	FFDF00
+Gold (color)  Golden brown  1	colourHexCode	996515
+Isatis tinctoria  Indigo Dye  1	colourHexCode	00416A
+Ochre	colourHexCode	CC7722
+Vermilion	colourHexCode	E34234
+Vermilion  Orange-Red  1	colourHexCode	FF3F00
+Coral (color)	colourHexCode	FF7F50
+Coral (color)  Light Coral  1	colourHexCode	FF8080
+Coral (color)  Coral Pink  1	colourHexCode	F88379
+Coral (color)  Coral Red  1	colourHexCode	FF4040
+Coral (color)  Dark Coral   1	colourHexCode	CD5B45
+Cadmium pigments	colourHexCode	FFF600
+Cadmium pigments  Cadmium Orange  1	colourHexCode	ED872D
+Cadmium pigments  Cadmium Red  1	colourHexCode	E30022
+Cadmium pigments  Cadmium Green  1	colourHexCode	006B3C
+Umber	colourHexCode	826644
+Umber  white  1	colourHexCode	635147
+Navy blue	colourHexCode	000080
+Powder blue	colourHexCode	B0E0E6
+Powder blue  Dark powder blue   1	colourHexCode	003399
+Phthalocyanine Blue BN	colourHexCode	000f89
+Tan (color)	colourHexCode	D2B48C
+Tan (color)  Dark Tan  1	colourHexCode	918151
+Mauve	colourHexCode	E0B0FF
+Mauve  Light Mauve  1	colourHexCode	DCD0FF
+Mauve  white  1	colourHexCode	B784A7
+Mauve  white  2	colourHexCode	915F6D
+Mauve  white  3	colourHexCode	673147
+Mountbatten pink	colourHexCode	997A8D
+Beige	colourHexCode	F5F5DC
+Beige  Cosmic Latte  1	colourHexCode	FFF8E7
+Beige  Desert Sand  1	colourHexCode	EDC9AF
+Beige  cru  1	colourHexCode	C2B280
+Beige  French Beige  1	colourHexCode	A67B5B
+Beige  Mode Beige  1	colourHexCode	967117
+Bistre	colourHexCode	3D2B1F
+Azure (color)	colourHexCode	007FFF
+Azure (color)  Azure web color   1	colourHexCode	F0FFFF
+Azure (color)  Alice Blue   1	colourHexCode	F0F8FF
+Azure (color)  Columbia Blue  1	colourHexCode	9BDDFF
+Azure (color)  Light Sky Blue  1	colourHexCode	87CEFA
+Azure (color)  Sky Blue  1	colourHexCode	87CEEB
+Azure (color)  Maya Blue  1	colourHexCode	73C2FB
+Azure (color)  United Nations Blue  1	colourHexCode	4B92DB
+Azure (color)  Cornflower Blue  1	colourHexCode	6495ED
+Azure (color)  Bleu de France   1	colourHexCode	318CE7
+Azure (color)  white  1	colourHexCode	1E90FF
+Azure (color)  Brandeis Blue  1	colourHexCode	0070FF
+Azure (color)  white  2	colourHexCode	0073CF
+Azure (color)  Royal Blue web color   1	colourHexCode	4169E1
+Azure (color)  Celestial Blue  1	colourHexCode	4997D0
+Azure (color)  Tufts Blue  1	colourHexCode	417DC1
+Azure (color)  Wild Blue Yonder  1	colourHexCode	A2ADD0
+Azure (color)  Air Force Blue  1	colourHexCode	5D8AA8
+Azure (color)  Steel Blue  1	colourHexCode	4682b4
+Azure (color)  French Blue  1	colourHexCode	0072BB
+Azure (color)  Lapis Lazuli  1	colourHexCode	26619C
+Azure (color)  white   1	colourHexCode	0038A8
+Azure (color)  Royal Blue traditional   1	colourHexCode	002366
+Teal	colourHexCode	008080
+Teal  white  1	colourHexCode	367588
+Salmon (color)	colourHexCode	FFA07A
+Salmon (color)  Salmon   1	colourHexCode	FA8072
+Salmon (color)  Dark salmon  1	colourHexCode	E9967A
+Fuchsia (color)	colourHexCode	FF00FF
+Fuchsia (color)  black  1	colourHexCode	F984EF
+Fuchsia (color)  black  2	colourHexCode	FF77FF
+Fuchsia (color)  Neon Fuchsia  1	colourHexCode	FE59C2
+Fuchsia (color)  Fashion Fuchsia  1	colourHexCode	F400A1
+Fuchsia (color)  Deep Fuchsia  1	colourHexCode	C154C1
+Fuchsia (color)  white  1	colourHexCode	B53389
+Fuchsia (color)  Antique Fuchsia  1	colourHexCode	915C83
+Peach (color)	colourHexCode	FFE5B4
+Peach (color)  Peach-Yellow  1	colourHexCode	FADFAD
+Peach (color)  Peach Puff  1	colourHexCode	FFDAB9
+Peach (color)  Deep Peach  1	colourHexCode	FFCBA4
+Peach (color)  Peach-Orange  1	colourHexCode	FFCC99
+Silver (color)	colourHexCode	C0C0C0
+Silver (color)  Pale silver   1	colourHexCode	C9C0BB
+Cardinal (color)	colourHexCode	C41E3A
+Lavender (color)	colourHexCode	E6E6FA
+Lavender (color)  Lavender blush   1	colourHexCode	FFF0F5
+Lavender (color)  Lavender mist   1	colourHexCode	E6E6FA
+Lavender (color)  Languid lavender   1	colourHexCode	D6CADD
+Lavender (color)  Lavender gray   1	colourHexCode	C4C3D0
+Lavender (color)  Light mauve   1	colourHexCode	DCD0FF
+Lavender (color)  Periwinkle   1	colourHexCode	CCCCFF
+Lavender (color)  black   1	colourHexCode	E0B0FF
+Lavender (color)  black   2	colourHexCode	C9A0DC
+Lavender (color)  Lavender pink   1	colourHexCode	FBAED2
+Lavender (color)  Brilliant lavender   1	colourHexCode	F4BBFF
+Lavender (color)  Rich brilliant lavender   1	colourHexCode	F1A7FE
+Lavender (color)  black   3	colourHexCode	EE82EE
+Lavender (color)  Plum web color   1	colourHexCode	DDA0DD
+Lavender (color)  black   4	colourHexCode	DF73FF
+Lavender (color)  Bright úbe   1	colourHexCode	D19FE8
+Lavender (color)  Bright lavender   1	colourHexCode	BF94E4
+Lavender (color)  Lavender   1	colourHexCode	B57EDC
+Lavender (color)  white   1	colourHexCode	A76BCF
+Lavender (color)  Amethyst  1	colourHexCode	9966CC
+Lavender (color)  Úbe  1	colourHexCode	8878C3
+Lavender (color)  Lavender indigo  1	colourHexCode	9457EB
+Lavender (color)  white   2	colourHexCode	9370DB
+Lavender (color)  Purple mountain majesty  1	colourHexCode	9678B6
+Lavender (color)  Twilight lavender  1	colourHexCode	8A496B
+Lavender (color)  white   3	colourHexCode	734F96
+Lavender (color)  Halayà úbe  1	colourHexCode	663854
+Lavender (color)  Old lavender  1	colourHexCode	796878
+Falu red	colourHexCode	801818
+Venetian red	colourHexCode	C80815
+Liver (color)	colourHexCode	534B4F
+Copper (color)	colourHexCode	B87333
+Copper (color)  Pale Copper  1	colourHexCode	DA8A67
+Persian red	colourHexCode	CC3333
+Dodger blue	colourHexCode	1E90FF
+Lemon (color)	colourHexCode	FFF700
+Persian blue	colourHexCode	1C39BB
+Persian blue  Persian indigo  1	colourHexCode	32127A
+Persian blue  Medium Persian blue  1	colourHexCode	0067A5
+Puce	colourHexCode	CC8898
+Periwinkle (color)	colourHexCode	CCCCFF
+Amber (color)	colourHexCode	FFBF00
+Amber (color)  SAE/ECE Amber   1	colourHexCode	FF7E00
+Scarlet (color)	colourHexCode	FF2400
+Scarlet (color)  Torch red  1	colourHexCode	FD0E35
+Scarlet (color)  Flame  1	colourHexCode	E25822
+Scarlet (color)  Fire Brick  1	colourHexCode	B22222
+Scarlet (color)  Dark Scarlet  1	colourHexCode	560319
+Cerulean	colourHexCode	007BA7
+Cerulean  blue pigment approximate color   1	colourHexCode	2A52BE
+Cerulean  Bright Cerulean  1	colourHexCode	1DACD6
+Cerulean  Cerulean  1	colourHexCode	9BC4E2
+Orchid (color)	colourHexCode	DA70D6
+Viridian	colourHexCode	40826D
+Sepia (color)	colourHexCode	704214
+Amethyst (color)	colourHexCode	9966CC
+Cobalt blue	colourHexCode	0047AB
+Turquoise (color)	colourHexCode	40E0D0
+Turquoise (color)  Pale Turquoise  1	colourHexCode	AFEEEE
+Turquoise (color)  Turquoise Blue  1	colourHexCode	00FFEF
+Turquoise (color)  Turquoise Green  1	colourHexCode	A0D6B4
+Turquoise (color)  Bright Turquoise  1	colourHexCode	08E8DE
+Turquoise (color)  Medium Turquoise  1	colourHexCode	48D1CC
+Turquoise (color)  Dark Turquoise  1	colourHexCode	00CED1
+Khaki (color)	colourHexCode	BDB76B
+Khaki (color)  Khaki  1	colourHexCode	C3B091
+Khaki (color)  Light Khaki  1	colourHexCode	F0E68C
+Cerise (color)	colourHexCode	DE3163
+Cerise (color)  Cerise Pink  1	colourHexCode	EC3B83
+Cerise (color)  Vivid Cerise  1	colourHexCode	DA1D81
+Cerise (color)  Amaranth Cerise  1	colourHexCode	CD2682
+Cerise (color)  Deep Cerise  1	colourHexCode	DA3287
+Cerise (color)  Hollywood Cerise  1	colourHexCode	F400A1
+Lilac (color)	colourHexCode	C8A2C8
+Lilac (color)  white  1	colourHexCode	B666D2
+Lilac (color)  white  2	colourHexCode	9955BB
+Lilac (color)  white  3	colourHexCode	86608E
+Cream (colour)	colourHexCode	FFFDD0
+Maroon (color)	colourHexCode	800000
+Maroon (color)  white  1	colourHexCode	C32148
+Maroon (color)  white  2	colourHexCode	B03060
+Maroon (color)  Dark Red  1	colourHexCode	8B0000
+Verdigris	colourHexCode	43B3AE
+Chartreuse (color)	colourHexCode	7FFF00
+Chartreuse (color)  Chartreuse yellow   1	colourHexCode	DFFF00
+Chartreuse (color)  Pear   1	colourHexCode	D1E231
+Chartreuse (color)  Green-Yellow   1	colourHexCode	ADFF2F
+Chartreuse (color)  Lawn Green   1	colourHexCode	7CFC00
+Chartreuse (color)  Pistachio   1	colourHexCode	93C572
+Chartreuse (color)  Yellow-Green   1	colourHexCode	9ACD32
+Chartreuse (color)  Apple Green   1	colourHexCode	8DB600
+Chartreuse (color)  Olive  1	colourHexCode	808000
+Chartreuse (color)  Olive Drab  1	colourHexCode	6B8E23
+Chartreuse (color)  Camouflage green  1	colourHexCode	78866B
+Chartreuse (color)  Dark Olive Green  1	colourHexCode	556B2F
+Lime (color)	colourHexCode	BFFF00
+Lime (color)  Lime HTML/CSS ; Green X11   1	colourHexCode	00FF00
+Lime (color)  white   1	colourHexCode	32CD32
+Lime (color)  Electric Lime   1	colourHexCode	CCFF00
+Red-violet	colourHexCode	C71585
+Red-violet  white  1	colourHexCode	C71585
+Red-violet  white  2	colourHexCode	BF00FF
+Red-violet  white  3	colourHexCode	DD00FF
+Red-violet  white  4	colourHexCode	BB3385
+Red-violet  white  5	colourHexCode	DB7093
+Red-violet  white  6	colourHexCode	A50B5E
+Red-violet  Eggplant  1	colourHexCode	614051
+School bus yellow	colourHexCode	FFD800
+Safety orange	colourHexCode	FF6600
+Cosmic latte	colourHexCode	FFF8E7
+Naples yellow	colourHexCode	FADA5E
+Gamboge	colourHexCode	E49B0F
+Indian yellow  Indian Yellow  1	colourHexCode	E3A857
+International Klein Blue	colourHexCode	002FA7
+Aquamarine (color)	colourHexCode	7FFFD4
+Aquamarine (color)  Medium Aquamarine  1	colourHexCode	66DDAA
+Seal brown	colourHexCode	321414
+Carmine (color)	colourHexCode	960018
+Carmine (color)  Medium Carmine  1	colourHexCode	AF4035
+Carmine (color)  Deep Carmine  1	colourHexCode	A9203E
+Carmine (color)  Rich Carmine  1	colourHexCode	D70040
+Carmine (color)  Carmine Red  1	colourHexCode	FF0038
+Carmine (color)  Deep Carmine Pink  1	colourHexCode	EF3038
+Carmine (color)  Carmine Pink  1	colourHexCode	EB4C42
+Carmine (color)  Light Carmine Pink  1	colourHexCode	E66771
+Baby blue	colourHexCode	89CFF0
+Baby blue  Beau blue   1	colourHexCode	BCD4E6
+Baby blue  eyes   1	colourHexCode	A1CAF1
+Chrome yellow	colourHexCode	FFA700
+Champagne (color)	colourHexCode	F7E7CE
+Champagne (color)  black  1	colourHexCode	F3E5AB
+Champagne (color)  black  2	colourHexCode	FAD6A5
+Champagne (color)  black  3	colourHexCode	C2B280
+Old gold	colourHexCode	CFB53B
+Burgundy (color)	colourHexCode	900020
+Burgundy (color)  Vivid Burgundy  1	colourHexCode	9F1D35
+Denim (color)	colourHexCode	1560BD
+Wisteria (color)	colourHexCode	C9A0DC
+Tangerine (color)	colourHexCode	f28500
+Eggplant (color)	colourHexCode	614051
+Wheat (color)	colourHexCode	F5DEB3
+Goldenrod (color)	colourHexCode	DAA520
+Goldenrod (color)  Light Goldenrod Yellow  1	colourHexCode	FAFAD2
+Goldenrod (color)  Pale Goldenrod  1	colourHexCode	EEE8AA
+Goldenrod (color)  Dark goldenrod  1	colourHexCode	B8860B
+Lemon chiffon	colourHexCode	FFFACD
+Seashell (color)	colourHexCode	FFF5EE
+Pink-orange	colourHexCode	FF9966
+Robin egg blue	colourHexCode	00CCCC
+Robin egg blue  Pale robin egg blue  1	colourHexCode	96DED1
+Midnight blue	colourHexCode	191970
+Midnight blue  Dark Midnight Blue  1	colourHexCode	003366
+Spring green	colourHexCode	00FF7F
+Spring green  Mint Cream  1	colourHexCode	F5FFFA
+Spring green  Honeydew  1	colourHexCode	F0FFF0
+Spring green  Aquamarine  1	colourHexCode	7FFFD4
+Spring green  Celadon  1	colourHexCode	ACE1AF
+Spring green  Moss green  1	colourHexCode	ADDFAD
+Spring green  Magic Mint  1	colourHexCode	AAF0D1
+Spring green  Mint Green  1	colourHexCode	98FF98
+Spring green  Medium Spring Green  1	colourHexCode	00FA9A
+Spring green  Caribbean Green  1	colourHexCode	00CC99
+Spring green  Mint  1	colourHexCode	3EB489
+Spring green  Persian Green  1	colourHexCode	00A693
+Spring green  Medium Sea Green  1	colourHexCode	3CB371
+Spring green  Sea Green  1	colourHexCode	2E8B57
+Spring green  Pine Green  1	colourHexCode	01796F
+Spring green  Skobeloff  1	colourHexCode	007A74
+Spring green  Viridian  1	colourHexCode	40826D
+Spring green  Dark Spring Green  1	colourHexCode	177245
+Chocolate (color)	colourHexCode	7B3F00
+Chocolate (color)  black  1	colourHexCode	D2691E
+Sandy brown	colourHexCode	F4A460
+Lavender blush	colourHexCode	FFF0F5
+Cornflower blue	colourHexCode	6495ED
+Cornflower blue  Light Cornflower Blue  1	colourHexCode	93CCEA
+Steel blue	colourHexCode	4682b4
+Chestnut (color)	colourHexCode	954535
+Chestnut (color)  Deep Chestnut   1	colourHexCode	B94E48
+Chestnut (color)  Dark Chestnut   1	colourHexCode	986960
+Slate gray  Dark slate gray  1	colourHexCode	2F4F4F
+Salmon pink	colourHexCode	FF9999
+Salmon pink  Salmon pink  1	colourHexCode	FF91A4
+Thistle (color)	colourHexCode	D8BFD8
+Mordant red 19  Mordant red 19  1	colourHexCode	AE0C00
+Royal blue	colourHexCode	002366
+Royal blue  web color   1	colourHexCode	4169E1
+Buff (colour)	colourHexCode	F0DC82
+Flax (color)	colourHexCode	EEDC82
+Mustard (color)	colourHexCode	FFDB58
+Carnation pink	colourHexCode	FFA6C9
+Carnation pink  Nadeshiko Pink  1	colourHexCode	F6ADC6
+Pumpkin (color)	colourHexCode	FF7518
+Payne's grey	colourHexCode	40404F
+Burnt umber	colourHexCode	8A3324
+Navajo white	colourHexCode	FFDEAD
+Columbia blue	colourHexCode	75B2DD
+Auburn hair	colourHexCode	A52A2A
+Taupe	colourHexCode	483C32
+Taupe  white  1	colourHexCode	50404D
+Taupe  white  2	colourHexCode	674C47
+Taupe  white  3	colourHexCode	915F6D
+Taupe  white  4	colourHexCode	905D5D
+Taupe  white  5	colourHexCode	967117
+Taupe  Light Taupe  1	colourHexCode	B38B6D
+Taupe  Pale Taupe  1	colourHexCode	BC987E
+Taupe  white  6	colourHexCode	8B8589
+Non-photo blue	colourHexCode	A4DDED
+Ao (color)	colourHexCode	0000FF
+Ao (color)  Ao English   1	colourHexCode	008000
+Fire engine red	colourHexCode	CE2029
+Tomato (color)	colourHexCode	FF6347
+Raspberry (color)	colourHexCode	E30B5C
+Raspberry (color)  black  1	colourHexCode	E25098
+Raspberry (color)  white  1	colourHexCode	B3446C
+Raspberry (color)  white  2	colourHexCode	915F6D
+Rose (color)	colourHexCode	FF007F
+Rose (color)  white   1	colourHexCode	FF007F
+Rose (color)  black   1	colourHexCode	FFE4E1
+Rose (color)  black   2	colourHexCode	F4C2C2
+Rose (color)  black   3	colourHexCode	FC89AC
+Rose (color)  black   4	colourHexCode	F77FBE
+Rose (color)  black   5	colourHexCode	FF66CC
+Rose (color)  black   6	colourHexCode	F9429E
+Rose (color)  black   7	colourHexCode	F653A6
+Rose (color)  black   8	colourHexCode	DE6FA1
+Rose (color)  black   9	colourHexCode	FB607F
+Rose (color)  black   10	colourHexCode	F64A8A
+Rose (color)  white   2	colourHexCode	E3256B
+Rose (color)  black   11	colourHexCode	FE28A2
+Rose (color)  black   12	colourHexCode	FF33CC
+Rose (color)  white   3	colourHexCode	D71868
+Rose (color)  white  1	colourHexCode	B3446C
+Rose (color)  black   13	colourHexCode	AA98A9
+Rose (color)  black   14	colourHexCode	BC8F8F
+Rose (color)  white   4	colourHexCode	C08081
+Rose (color)  white   5	colourHexCode	996666
+Rose (color)  white  2	colourHexCode	AB4E52
+Rose (color)  Cordovan  1	colourHexCode	893F45
+Rose (color)  white   6	colourHexCode	905D5D
+Rose (color)  white   7	colourHexCode	674846
+Rose (color)  white   8	colourHexCode	65000B
+Aqua (color)	colourHexCode	00FFFF
+Aqua (color)  Pale Aqua   1	colourHexCode	BCD4E6
+Flavescent	colourHexCode	F7E98E
+Paris Green  Paris Green  1	colourHexCode	50C878
+Sapphire (color)	colourHexCode	082567
+Magnolia (color)	colourHexCode	F8F4FF
+Iris (color)	colourHexCode	5A4FCF
+Selective yellow	colourHexCode	FFBA00
+New Hampshire Wildcats	colourHexCode	00337F
+Saffron (color)	colourHexCode	F4C430
+Saffron (color)  Deep saffron  1	colourHexCode	FF9933
+Davy's grey	colourHexCode	555555
+Sinopia	colourHexCode	CB410B
+Phthalocyanine Green G	colourHexCode	123524
+Hansa yellow	colourHexCode	E9D66B
+Urobilin    1	colourHexCode	E1AD21
+Sangria (color)	colourHexCode	92000A
+Rust (color)	colourHexCode	B7410E
+Russet (color)	colourHexCode	80461B
+Heliotrope (color)	colourHexCode	DF73FF
+Anti-flash white	colourHexCode	F2F3F4
+Ceil	colourHexCode	92A1CF
+Rosso corsa	colourHexCode	D40000
+Tiffany Blue	colourHexCode	0ABAB5
+Coquelicot	colourHexCode	FF3800
+Palatinate (colour)	colourHexCode	273BE2
+Palatinate (colour)  Palatinate Purple  1	colourHexCode	682860
+Egyptian blue	colourHexCode	1034A6
+Han purple and Han blue	colourHexCode	5218FA
+Han purple and Han blue  Han blue  1	colourHexCode	446CCF
+Ecru	colourHexCode	C2B280
+International orange	colourHexCode	FF4F00
+Maize (color)	colourHexCode	FBEC5D
+Eggshell (color)	colourHexCode	F0EAD6
+Ivory (color)	colourHexCode	FFFFF0
+Zaffre	colourHexCode	0014A8
+Aureolin	colourHexCode	FDEE00
+Rose madder	colourHexCode	E32636
+Apricot (color)	colourHexCode	FBCEB1
+Apricot (color)  Light apricot  1	colourHexCode	FDD5B1
+Arylide yellow	colourHexCode	E9D66B
+Fallow (color)	colourHexCode	C19A6B
+Charcoal (color)	colourHexCode	36454F
+Arsenic (color)	colourHexCode	3B444B
+Variations of orange	colourHexCode	FF7F00
+Variations of orange  Papaya Whip  1	colourHexCode	FFEFD5
+Variations of orange  Peach  1	colourHexCode	FFE5B4
+Variations of orange  Apricot  1	colourHexCode	FBCEB1
+Variations of orange  Atomic tangerine  1	colourHexCode	FF9966
+Variations of orange  Bittersweet  1	colourHexCode	FE6F5E
+Variations of orange  black  1	colourHexCode	F88379
+Variations of orange  peel  1	colourHexCode	FF9F00
+Variations of orange  web color   1	colourHexCode	FFA500
+Variations of orange  color wheel   1	colourHexCode	FF7F00
+Variations of orange  Dark orange  1	colourHexCode	FF8C00
+Variations of orange  Princeton Orange  1	colourHexCode	FF8F00
+Variations of orange  Tangerine  1	colourHexCode	F28500
+Variations of orange  Pumpkin  1	colourHexCode	FF7518
+Variations of orange  Tangelo  1	colourHexCode	F94D00
+Variations of orange  Carrot orange  1	colourHexCode	ED9121
+Variations of orange  Deep carrot orange  1	colourHexCode	E9692C
+Variations of orange  Burnt orange  1	colourHexCode	CC5500
+Variations of orange  white  1	colourHexCode	964B00
+Bole (color)	colourHexCode	79443B
+Yale Blue	colourHexCode	0F4D92
+Fawn (colour)	colourHexCode	E5AA70
+Persimmon (color)	colourHexCode	EC5800
+Titanium yellow	colourHexCode	EEE600
+Maya Blue	colourHexCode	73C2FB
+Chamoisee	colourHexCode	A0785A
+Spring bud	colourHexCode	A7FC00
+Spring bud  June bud  1	colourHexCode	BDDA57
+Spring bud  Medium spring bud  1	colourHexCode	C9DC87
+Spring bud  Pale spring bud  1	colourHexCode	ECEBBD
+Jungle green	colourHexCode	29AB87
+Jungle green  Tropical rain forest  1	colourHexCode	00755E
+Jungle green  Deep Jungle Green  1	colourHexCode	004B49
+Jungle green  Medium Jungle Green  1	colourHexCode	1C352D
+Jungle green  Dark Jungle Green  1	colourHexCode	1A2421
+Air Force blue	colourHexCode	5D8AA8
+Electric blue (color)	colourHexCode	7DF9FF
+Carolina blue	colourHexCode	56A0D3
+Glaucous	colourHexCode	6082B6
+Federal blue	colourHexCode	16166B
+Eton blue	colourHexCode	96C8A2
+Cambridge Blue (colour)	colourHexCode	A3C1AD
+Flame (color)	colourHexCode	E25822
+Electric green	colourHexCode	00FF00
+Green in Islam	colourHexCode	009900
+Wenge (colour)	colourHexCode	645452
+Trade and use of saffron	colourHexCode	F4C430
+Variations of green	colourHexCode	00FF00
+Variations of green  Asparagus  1	colourHexCode	87A96B
+Variations of green  Fern green  1	colourHexCode	4F7930
+Variations of green  Forest green web   1	colourHexCode	228B22
+Variations of green  Forest green traditional   1	colourHexCode	014421
+Variations of green  Gray-asparagus  1	colourHexCode	465945
+Variations of green  Hooker's Green  1	colourHexCode	007000
+Variations of green  Jungle green  1	colourHexCode	29AB87
+Variations of green  Laurel green  1	colourHexCode	A9BA9D
+Variations of green  Moss green   1	colourHexCode	ADDFAD
+Variations of green  Myrtle  1	colourHexCode	21421E
+Variations of green  Pine green  1	colourHexCode	01796F
+Variations of green  white   1	colourHexCode	507D2A
+Variations of green  Shamrock green  1	colourHexCode	009E60
+Variations of green  Tea green  1	colourHexCode	D0F0C0
+Variations of green  white   2	colourHexCode	008080
+Variations of green  Pale Green   1	colourHexCode	98FB98
+Variations of green  Light Green   1	colourHexCode	90EE90
+Variations of green  Dark Green  1	colourHexCode	006400
+Variations of green  X11 Lime HTML/CSS   1	colourHexCode	00FF00
+Variations of green  HTML/CSS color   1	colourHexCode	008000
+Variations of green  CMYK Pigment Green   1	colourHexCode	00A550
+Variations of green  NCS   1	colourHexCode	009F6B
+Variations of green  Munsell   1	colourHexCode	00A877
+Variations of green  Army green  1	colourHexCode	4B5320
+Variations of green  Bottle green  1	colourHexCode	024631
+Variations of green  Bright green   1	colourHexCode	66FF00
+Variations of green  #ffffff   1	colourHexCode	1E4D2B
+Variations of green  Celadon   1	colourHexCode	ACE1AF
+Variations of green  white   3	colourHexCode	00703C
+Variations of green  Emerald   1	colourHexCode	50C878
+Variations of green  white   4	colourHexCode	4D5D53
+Variations of green  -yellow   1	colourHexCode	ADFF2F
+Variations of green  Harlequin  1	colourHexCode	3FFF00
+Variations of green  Hunter green   1	colourHexCode	355E3B
+Variations of green  India green   1	colourHexCode	138808
+Variations of green  Islamic green   1	colourHexCode	009900
+Variations of green  Jade  1	colourHexCode	00A86B
+Variations of green  white   5	colourHexCode	4CBB17
+Variations of green  Midnight green  1	colourHexCode	004953
+Variations of green  MSU Green  1	colourHexCode	18453B
+Variations of green  eon green  1	colourHexCode	39FF14
+Variations of green  HTML/CSS color   2	colourHexCode	008000
+Variations of green  Pakistan green   1	colourHexCode	006600
+Variations of green  Persian green  1	colourHexCode	00A693
+Variations of green  white   6	colourHexCode	414833
+Variations of green  white   7	colourHexCode	00563F
+Variations of green  Sea green  1	colourHexCode	2E8B57
+Variations of green  white   8	colourHexCode	014421
+Lava (color)	colourHexCode	CF1020
+Lava (color)  Dark Lava  1	colourHexCode	483C32
+Ruby (color)	colourHexCode	E0115F
+Variations of red	colourHexCode	FF0000
+Variations of red  Pink  1	colourHexCode	FFC0CB
+Variations of red  Salmon Pink  1	colourHexCode	FF91A4
+Variations of red  Coral Pink  1	colourHexCode	F88379
+Variations of red  Salmon   1	colourHexCode	FA8072
+Variations of red  Coral Red  1	colourHexCode	FF4040
+Variations of red  Carmine Red  1	colourHexCode	FF0038
+Variations of red  Scarlet  1	colourHexCode	FF2000
+Variations of red  Candy Apple Red  1	colourHexCode	FF0800
+Variations of red  white  1	colourHexCode	FF0000
+Variations of red  Pigment Red   1	colourHexCode	ED1C24
+Variations of red  NCS   1	colourHexCode	C40233
+Variations of red  Munsell   1	colourHexCode	F2003C
+Variations of red  Lust  1	colourHexCode	E62020
+Variations of red  Ruby  1	colourHexCode	E0115F
+Variations of red  Crimson  1	colourHexCode	DC143C
+Variations of red  Fire Engine Red   1	colourHexCode	CE2029
+Variations of red  white  2	colourHexCode	C41E3A
+Variations of red  Cornell Red  1	colourHexCode	B31B1B
+Variations of red  Fire Brick  1	colourHexCode	B22222
+Variations of red  OU Crimson Red  1	colourHexCode	990000
+Variations of red  ark Red  1	colourHexCode	8B0000
+Variations of red  Maroon  1	colourHexCode	800000
+Candy apple red (color)	colourHexCode	FF0800
+Candy apple red (color)  Candy Pink  1	colourHexCode	E4717A
+Candy apple red (color)  Medium Candy Apple Red  1	colourHexCode	E2062C
+Candy apple red (color)  Dark Candy Apple Red  1	colourHexCode	A40000
+Cordovan (color)	colourHexCode	893F45
+Fulvous	colourHexCode	E48400
+Cinereous	colourHexCode	98817B
+Wine (color)	colourHexCode	722F37
+Brandeis blue	colourHexCode	0070FF
+Cool grey	colourHexCode	8C92AC
+White	colourHexCode	FFFFFF
+Duke blue	colourHexCode	001A57
+Mikado yellow	colourHexCode	FFC40C
+Lincoln green	colourHexCode	195905
+Old lace (color)	colourHexCode	FDF5E6
+Carnelian (color)	colourHexCode	B31B1B
+Majorelle Blue	colourHexCode	6050DC
+Variations of pink	colourHexCode	FFC0CB
+Variations of pink  Pink  1	colourHexCode	FFC0CB
+Variations of pink  Light pink  1	colourHexCode	FFB6C1
+Variations of pink  Hot pink  1	colourHexCode	FF69B4
+Variations of pink  Deep pink  1	colourHexCode	FF1493
+Variations of pink  Pink  2	colourHexCode	FFC0CB
+Variations of pink  Pale pink  1	colourHexCode	F9CCCA
+Variations of pink  Baby pink  1	colourHexCode	F4C2C2
+Variations of pink  Cherry blossom pink   1	colourHexCode	FFB7C5
+Variations of pink  Carnation pink   1	colourHexCode	FFA6C9
+Variations of pink  Pastel pink  1	colourHexCode	DEA5A4
+Variations of pink  black   1	colourHexCode	FB607F
+Variations of pink  Dark pink  1	colourHexCode	E75480
+Variations of pink  Bright pink  1	colourHexCode	FF007F
+Variations of pink  black   2	colourHexCode	FF6FFF
+Variations of pink  Shocking pink  1	colourHexCode	FC0FC0
+Persian orange	colourHexCode	D99058
+Portland Orange	colourHexCode	FF5A36
+Bronze (color)	colourHexCode	CD7F32
+Variations of magenta	colourHexCode	CA1F7B
+Variations of magenta  black  1	colourHexCode	FF0090
+Variations of magenta  black  2	colourHexCode	FF00FF
+Variations of magenta  black  3	colourHexCode	F984EF
+Variations of magenta  black  4	colourHexCode	FF77FF
+Variations of magenta  black  5	colourHexCode	FF6FFF
+Variations of magenta  Shocking Pink  1	colourHexCode	FC0FC0
+Variations of magenta  black  6	colourHexCode	FF1DCE
+Variations of magenta  black  7	colourHexCode	FE4EDA
+Variations of magenta  black  8	colourHexCode	CF71AF
+Variations of magenta  white  1	colourHexCode	CC00CC
+Variations of magenta  white  2	colourHexCode	8B008B
+Rufous	colourHexCode	A81C07
+Plum (color)	colourHexCode	8E4585
+Plum (color)  Pale Plum   1	colourHexCode	DDA0DD
+Tuscan red	colourHexCode	66424D
+Desert sand (color)	colourHexCode	EDC9AF
+Desert sand (color)  Sandy Brown  1	colourHexCode	F4A460
+Desert sand (color)  Earth Yellow  1	colourHexCode	E1A95F
+Desert sand (color)  Sand  1	colourHexCode	C2B280
+Desert sand (color)  Desert  1	colourHexCode	C19A6B
+Desert sand (color)  Sand Dune  1	colourHexCode	967117
+Desert sand (color)  Field Drab  1	colourHexCode	6C541E
+Camel (color)	colourHexCode	C19A6B
+Byzantium (color)	colourHexCode	702963
+Byzantium (color)  white  1	colourHexCode	BD33A4
+Byzantium (color)  white  2	colourHexCode	5D3954
+Midnight green	colourHexCode	004953
+Upsdell red	colourHexCode	AE2029
+Icterine	colourHexCode	FCF75E
+Straw (colour)	colourHexCode	E4D96F
+Citrine (colour)	colourHexCode	E4D00A
+Deep sky blue	colourHexCode	00BFFF
+Ghost white	colourHexCode	F8F8FF
+Platinum (color)	colourHexCode	E5E4E2
+Iceberg (color)	colourHexCode	71A6D2
+Sunset (color)	colourHexCode	FAD6A5
+Pearl (color)	colourHexCode	F0EAD6
+Isabelline (colour)	colourHexCode	F4F0EC
+Variations of yellow	colourHexCode	FFFF00
+Variations of yellow  Light Yellow  1	colourHexCode	FFFFED
+Variations of yellow  Lemon Chiffon  1	colourHexCode	FFFACD
+Variations of yellow  Yellow  1	colourHexCode	FFFF00
+Variations of yellow  black  1	colourHexCode	FFEF00
+Variations of yellow  NCS   1	colourHexCode	FFD300
+Variations of yellow  Munsell   1	colourHexCode	EFCC00
+Variations of yellow  Lemon Yellow  1	colourHexCode	FFF700
+Variations of yellow  Gold Golden   1	colourHexCode	FFD700
+Variations of yellow  Khaki  1	colourHexCode	C3B091
+Variations of yellow  Goldenrod  1	colourHexCode	DAA520
+Variations of yellow  Olive  1	colourHexCode	808000
+Tawny (color)	colourHexCode	CD5700
+Redwood (color)	colourHexCode	AB4E52
+Alizarin crimson (color)	colourHexCode	E32636
+Bleu de France (colour)	colourHexCode	318CE7
+Stil de grain yellow	colourHexCode	FADA5E
+Cadet grey	colourHexCode	91A3B0
+Cadet grey  Cadet Blue  1	colourHexCode	5F9EA0
+Cadet grey  Cadet  1	colourHexCode	536878
+Tufts Blue	colourHexCode	417DC1
+UCLA Blue	colourHexCode	536895
+Vanilla (color)	colourHexCode	F3E5AB
+Variations of blue	colourHexCode	0000FF
+Variations of blue  Powder Blue   1	colourHexCode	B0E0E6
+Variations of blue  Light Blue  1	colourHexCode	ADD8E6
+Variations of blue  Baby blue   1	colourHexCode	89CFF0
+Variations of blue    1	colourHexCode	0000FF
+Variations of blue  CMYK Pigment Blue   1	colourHexCode	333399
+Variations of blue  NCS   1	colourHexCode	0087BD
+Variations of blue  Munsell   1	colourHexCode	0093AF
+Variations of blue  Medium blue  1	colourHexCode	0000CD
+Variations of blue  Dark Blue  1	colourHexCode	00008B
+Variations of blue  Navy Blue   1	colourHexCode	000080
+True Blue (color)	colourHexCode	0073CF
+Regalia (color)	colourHexCode	522D80
+Jasmine (color)	colourHexCode	F8DE7E
+Alice blue	colourHexCode	F0F8FF
+CG Red	colourHexCode	E03C31
+CG Blue	colourHexCode	007AA5
+Variations of gray	colourHexCode	808080
+Variations of gray  Ash gray  1	colourHexCode	B2BEB5
+Variations of gray  Battleship Gray  1	colourHexCode	848482
+Variations of gray  Timberwolf  1	colourHexCode	DBD7D2
+Variations of gray  Dark Timberwolf  1	colourHexCode	AAA8A4
+Variations of gray  Light Timberwolf  1	colourHexCode	ECE8E2

@@ -1,0 +1,17 @@
+Norwegian language	iso6392Code	Bokmål
+Norwegian language	iso6392Code	Nynorsk
+Astur-Leonese linguistic group	iso6392Code	Asturian language
+Astur-Leonese linguistic group	iso6392Code	Extremaduran
+Astur-Leonese linguistic group	iso6392Code	Mirandese language
+Bokmål	iso6392Code	Bokmål
+Bokmål	iso6392Code	Nynorsk
+Nynorsk	iso6392Code	Bokmål
+Nynorsk	iso6392Code	Nynorsk
+Northern Thai language	iso6392Code	Tai languages
+Sassarese language	iso6392Code	Sardinian language
+Sassarese language	iso6392Code	Corsican language
+Sioux language	iso6392Code	Dakota language
+Sioux language	iso6392Code	Siouan languages
+Luo language	iso6392Code	Luo languages
+Southern Thai language	iso6392Code	Tai languages
+Yapese language	iso6392Code	Yap

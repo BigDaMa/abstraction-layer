@@ -1,0 +1,72 @@
+Progress 1	regime	LEO
+Jules Verne ATV	regime	LEO
+Johannes Kepler ATV	regime	LEO
+Progress M-01M	regime	LEO
+Progress M-65	regime	LEO
+Progress M-66	regime	LEO
+Progress M-64	regime	LEO
+Progress M-02M	regime	LEO
+Kosmos 1669	regime	LEO
+Progress M-63	regime	LEO
+Progress M-62	regime	LEO
+Progress M-61	regime	LEO
+Progress M-60	regime	LEO
+Progress M-59	regime	LEO
+Progress M-58	regime	LEO
+Progress M-57	regime	LEO
+Progress M-56	regime	LEO
+Progress M-55	regime	LEO
+Progress M-54	regime	LEO
+Progress M-53	regime	LEO
+Progress M-52	regime	LEO
+Progress M-51	regime	LEO
+Progress M-50	regime	LEO
+Progress M-49	regime	LEO
+Progress M-48	regime	LEO
+Progress M-47	regime	LEO
+Progress M-46	regime	LEO
+Progress M-44	regime	LEO
+Progress M-45	regime	LEO
+Progress M1-11	regime	LEO
+Progress M1-10	regime	LEO
+Progress M1-9	regime	LEO
+Progress M1-8	regime	LEO
+Progress M1-7	regime	LEO
+Progress M1-6	regime	LEO
+Progress M1-4	regime	LEO
+Progress M1-3	regime	LEO
+Progress M-SO1	regime	LEO
+Progress M1-5	regime	LEO
+Progress M-67	regime	Low Earth
+Progress M1-1	regime	LEO
+Progress M1-2	regime	LEO
+HTV-1	regime	LEO
+Progress M-1	regime	LEO
+Progress M-2	regime	LEO
+Progress M-3	regime	LEO
+Progress M-4	regime	LEO
+Progress M-5	regime	LEO
+Progress M-6	regime	LEO
+Progress M-7	regime	LEO
+Progress M-8	regime	LEO
+Progress M-9	regime	LEO
+Progress M-10	regime	LEO
+Progress M-11	regime	LEO
+Progress M-12	regime	LEO
+Progress M-13	regime	LEO
+Progress M-15	regime	LEO
+Progress M-16	regime	LEO
+Progress M-17	regime	LEO
+Progress M-18	regime	LEO
+Progress M-03M	regime	LEO
+Progress M-MIM2	regime	LEO
+Edoardo Amaldi ATV	regime	LEO
+Progress M-04M	regime	LEO
+Progress M-05M	regime	LEO
+Progress M-06M	regime	LEO
+Progress M-07M	regime	Low Earth
+Progress 2	regime	LEO
+Progress M-08M	regime	Low Earth
+Progress M-09M	regime	Low Earth
+Progress M-10M	regime	Low Earth
+Progress M-11M	regime	Low Earth

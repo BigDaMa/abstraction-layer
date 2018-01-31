@@ -1,0 +1,3890 @@
+Dimona	censusYear	2007
+Jackson County, Michigan	censusYear	2010
+Nazareth	censusYear	2009
+Montgomery County, Maryland	censusYear	2010
+Frederick County, Maryland	censusYear	2010
+Prince George's County, Maryland	censusYear	2010
+Garrett County, Maryland	censusYear	2010
+Baltimore County, Maryland	censusYear	2010
+Allegany County, Maryland	censusYear	2010
+Washington County, Maryland	censusYear	2010
+Howard County, Maryland	censusYear	2010
+Nassau County, New York	censusYear	2010
+Westchester County, New York	censusYear	2010
+Sublette County, Wyoming	censusYear	2010
+Calvert County, Maryland	censusYear	2010
+Clark County, Washington	censusYear	2010
+Brazoria County, Texas	censusYear	2010
+Clark County, Nevada	censusYear	2010
+Washington County, Oregon	censusYear	2010
+Dutchess County, New York	censusYear	2010
+Orange County, Texas	censusYear	2000
+Montgomery County, New York	censusYear	2010
+Washington County, New York	censusYear	2010
+Anne Arundel County, Maryland	censusYear	2010
+Allegany County, New York	censusYear	2010
+Broome County, New York	censusYear	2010
+Cayuga County, New York	censusYear	2010
+Cattaraugus County, New York	censusYear	2010
+Chautauqua County, New York	censusYear	2010
+Clinton County, New York	censusYear	2010
+Suffolk County, New York	censusYear	2010
+Chenango County, New York	censusYear	2010
+Chemung County, New York	censusYear	2010
+Cortland County, New York	censusYear	2010
+Columbia County, New York	censusYear	2010
+Delaware County, New York	censusYear	2010
+Erie County, New York	censusYear	2010
+Essex County, New York	censusYear	2010
+Fulton County, New York	censusYear	2010
+Franklin County, New York	censusYear	2010
+Greene County, New York	censusYear	2010
+Genesee County, New York	censusYear	2010
+Hamilton County, New York	censusYear	2010
+Warren County, New York	censusYear	2010
+Putnam County, New York	censusYear	2010
+Jefferson County, New York	censusYear	2010
+Herkimer County, New York	censusYear	2010
+Lewis County, New York	censusYear	2010
+Madison County, New York	censusYear	2010
+Livingston County, New York	censusYear	2010
+Monroe County, New York	censusYear	2010
+Ontario County, New York	censusYear	2010
+Niagara County, New York	censusYear	2010
+Oneida County, New York	censusYear	2010
+Onondaga County, New York	censusYear	2010
+Ashkelon	censusYear	2009
+Schenectady County, New York	censusYear	2010
+Steuben County, New York	censusYear	2010
+Tioga County, New York	censusYear	2010
+Haifa	censusYear	2009
+Acre, Israel	censusYear	2009
+Orleans County, New York	censusYear	2010
+Orange County, New York	censusYear	2010
+Oswego County, New York	censusYear	2010
+Otsego County, New York	censusYear	2010
+Douglas County, Colorado	censusYear	2010
+Rockland County, New York	censusYear	2010
+Schoharie County, New York	censusYear	2010
+Saratoga County, New York	censusYear	2010
+Seneca County, New York	censusYear	2010
+Schuyler County, New York	censusYear	2010
+Tompkins County, New York	censusYear	2010
+Sullivan County, New York	censusYear	2010
+Wayne County, New York	censusYear	2010
+Yates County, New York	censusYear	2010
+Wyoming County, New York	censusYear	2010
+Ulster County, New York	censusYear	2010
+Cecil County, Maryland	censusYear	2010
+Harford County, Maryland	censusYear	2010
+Charles County, Maryland	censusYear	2010
+Clinton County, Ohio	censusYear	2000
+Clinton County, Indiana	censusYear	2010
+Clinton County, Illinois	censusYear	2006
+DeWitt County, Illinois	censusYear	2000
+Clinton County, Iowa	censusYear	2010
+Clinton County, Kentucky	censusYear	2000
+Clinton County, Michigan	censusYear	2010
+Putnam County, Florida	censusYear	2010
+Clinton County, Pennsylvania	censusYear	2010
+Putnam County, Georgia	censusYear	2000
+Putnam County, Illinois	censusYear	2000
+Putnam County, Indiana	censusYear	2010
+Clinton County, Missouri	censusYear	2000
+Putnam County, Missouri	censusYear	2010
+Putnam County, Ohio	censusYear	2000
+Putnam County, West Virginia	censusYear	2008
+Putnam County, Tennessee	censusYear	2000
+Adams County, Mississippi	censusYear	2010
+Adams County, Idaho	censusYear	2000
+Adams County, Ohio	censusYear	2000
+Adams County, Nebraska	censusYear	2000
+Adams County, Washington	censusYear	2010
+Adams County, Iowa	censusYear	2010
+Adams County, Pennsylvania	censusYear	2010
+Adams County, Wisconsin	censusYear	2000
+Adams County, Indiana	censusYear	2010
+Adams County, Illinois	censusYear	2010
+Adams County, North Dakota	censusYear	2010
+Adams County, Colorado	censusYear	2000
+Socorro County, New Mexico	censusYear	2000
+Clay County, Alabama	censusYear	2010
+Clay County, Florida	censusYear	2010
+Clay County, Illinois	censusYear	2010
+Clay County, Kansas	censusYear	2010
+Clay County, Indiana	censusYear	2010
+Clay County, Mississippi	censusYear	2010
+Clay County, Missouri	censusYear	2010
+Clay County, Minnesota	censusYear	2010
+Clay County, South Dakota	censusYear	2010
+Clay County, Nebraska	censusYear	2000
+Clay County, North Carolina	censusYear	2000
+Clay County, Texas	censusYear	2010
+Clay County, Tennessee	censusYear	2010
+Clay County, West Virginia	censusYear	2000
+Clay County, Arkansas	censusYear	2010
+Clay County, Iowa	censusYear	2010
+Clay County, Kentucky	censusYear	2000
+Clay County, Georgia	censusYear	2006
+Nez Perce County, Idaho	censusYear	2000
+Benton County, Washington	censusYear	2010
+Montgomery County, Arkansas	censusYear	2008
+Montgomery County, Georgia	censusYear	2000
+Montgomery County, Illinois	censusYear	2000
+Montgomery County, Iowa	censusYear	2010
+Montgomery County, Kentucky	censusYear	2010
+Montgomery County, Mississippi	censusYear	2010
+Montgomery County, Kansas	censusYear	2010
+Montgomery County, Tennessee	censusYear	2000
+Montgomery County, Missouri	censusYear	2000
+Lancaster County, Nebraska	censusYear	2010
+Marion County, Florida	censusYear	2010
+Montgomery County, North Carolina	censusYear	2000
+Montgomery County, Texas	censusYear	2010
+Montgomery County, Indiana	censusYear	2010
+Montgomery County, Alabama	censusYear	2010
+Montgomery County, Pennsylvania	censusYear	2010
+Montgomery County, Ohio	censusYear	2000
+Poweshiek County, Iowa	censusYear	2010
+Caroline County, Maryland	censusYear	2010
+Carroll County, Maryland	censusYear	2010
+Dorchester County, Maryland	censusYear	2010
+Kent County, Maryland	censusYear	2010
+Queen Anne's County, Maryland	censusYear	2010
+Ra'anana	censusYear	2009
+Ohio County, West Virginia	censusYear	2010
+Barbour County, West Virginia	censusYear	2000
+Eilat	censusYear	2008
+Daggett County, Utah	censusYear	2000
+Davis County, Utah	censusYear	2000
+Cache County, Utah	censusYear	2010
+Carbon County, Utah	censusYear	2000
+Box Elder County, Utah	censusYear	2010
+Beaver County, Utah	censusYear	2000
+Duchesne County, Utah	censusYear	2000
+Emery County, Utah	censusYear	2000
+Garfield County, Utah	censusYear	2000
+Grand County, Utah	censusYear	2000
+Millard County, Utah	censusYear	2000
+Kane County, Utah	censusYear	2000
+Piute County, Utah	censusYear	2000
+Rich County, Utah	censusYear	2010
+Morgan County, Utah	censusYear	2010
+Juab County, Utah	censusYear	2000
+San Juan County, Utah	censusYear	2000
+Iron County, Utah	censusYear	2000
+Sanpete County, Utah	censusYear	2000
+Sevier County, Utah	censusYear	2010
+Summit County, Utah	censusYear	2000
+Wasatch County, Utah	censusYear	2000
+Tooele County, Utah	censusYear	2000
+Salt Lake County, Utah	censusYear	2010
+Washington County, Utah	censusYear	2008
+Wayne County, Utah	censusYear	2000
+Weber County, Utah	censusYear	2000
+Uintah County, Utah	censusYear	2000
+St. Mary's County, Maryland	censusYear	2010
+Talbot County, Maryland	censusYear	2010
+Wicomico County, Maryland	censusYear	2010
+Somerset County, Maryland	censusYear	2010
+Worcester County, Maryland	censusYear	2010
+Baker County, Florida	censusYear	2010
+Bay County, Florida	censusYear	2010
+Alachua County, Florida	censusYear	2010
+Bradford County, Florida	censusYear	2010
+Calhoun County, Florida	censusYear	2010
+Charlotte County, Florida	censusYear	2010
+Broward County, Florida	censusYear	2010
+Citrus County, Florida	censusYear	2010
+Brevard County, Florida	censusYear	2010
+Collier County, Florida	censusYear	2010
+Columbia County, Florida	censusYear	2010
+DeSoto County, Florida	censusYear	2010
+Dixie County, Florida	censusYear	2010
+Duval County, Florida	censusYear	2010
+Escambia County, Florida	censusYear	2010
+Franklin County, Florida	censusYear	2010
+Gilchrist County, Florida	censusYear	2010
+Gadsden County, Florida	censusYear	2010
+Glades County, Florida	censusYear	2010
+Gulf County, Florida	censusYear	2010
+Hamilton County, Florida	censusYear	2010
+Hardee County, Florida	censusYear	2010
+Hendry County, Florida	censusYear	2010
+Highlands County, Florida	censusYear	2010
+Holmes County, Florida	censusYear	2010
+Flagler County, Florida	censusYear	2010
+Indian River County, Florida	censusYear	2010
+Hillsborough County, Florida	censusYear	2010
+Lafayette County, Florida	censusYear	2010
+Jefferson County, Florida	censusYear	2010
+Jackson County, Florida	censusYear	2010
+Lee County, Florida	censusYear	2010
+Leon County, Florida	censusYear	2010
+Liberty County, Florida	censusYear	2010
+Levy County, Florida	censusYear	2010
+Lake County, Florida	censusYear	2010
+Madison County, Florida	censusYear	2010
+Manatee County, Florida	censusYear	2010
+Martin County, Florida	censusYear	2010
+Nassau County, Florida	censusYear	2010
+Monroe County, Florida	censusYear	2010
+Okaloosa County, Florida	censusYear	2010
+Okeechobee County, Florida	censusYear	2010
+Orange County, Florida	censusYear	2010
+Osceola County, Florida	censusYear	2010
+Palm Beach County, Florida	censusYear	2010
+Pasco County, Florida	censusYear	2010
+Black Hawk County, Iowa	censusYear	2010
+Pinellas County, Florida	censusYear	2010
+St. Johns County, Florida	censusYear	2010
+Polk County, Florida	censusYear	2010
+Santa Rosa County, Florida	censusYear	2010
+St. Lucie County, Florida	censusYear	2010
+Sarasota County, Florida	censusYear	2010
+Seminole County, Florida	censusYear	2010
+Sumter County, Florida	censusYear	2010
+Suwannee County, Florida	censusYear	2010
+Taylor County, Florida	censusYear	2010
+Union County, Florida	censusYear	2010
+Wakulla County, Florida	censusYear	2010
+Washington County, Florida	censusYear	2010
+Volusia County, Florida	censusYear	2010
+Walton County, Florida	censusYear	2010
+Johnson County, Wyoming	censusYear	2010
+Barnstable County, Massachusetts	censusYear	2010
+Berkshire County, Massachusetts	censusYear	2010
+Bristol County, Massachusetts	censusYear	2010
+Dukes County, Massachusetts	censusYear	2010
+Essex County, Massachusetts	censusYear	2010
+Franklin County, Massachusetts	censusYear	2000
+Hampshire County, Massachusetts	censusYear	2010
+Hampden County, Massachusetts	censusYear	2010
+Middlesex County, Massachusetts	censusYear	2010
+Norfolk County, Massachusetts	censusYear	2010
+Suffolk County, Massachusetts	censusYear	2010
+Worcester County, Massachusetts	censusYear	2010
+Plymouth County, Massachusetts	censusYear	2010
+Autauga County, Alabama	censusYear	2010
+Barbour County, Alabama	censusYear	2010
+Baldwin County, Alabama	censusYear	2010
+Bibb County, Alabama	censusYear	2010
+Bullock County, Alabama	censusYear	2010
+Blount County, Alabama	censusYear	2010
+Butler County, Alabama	censusYear	2010
+Calhoun County, Alabama	censusYear	2010
+Chambers County, Alabama	censusYear	2010
+Chilton County, Alabama	censusYear	2010
+Choctaw County, Alabama	censusYear	2010
+Cherokee County, Alabama	censusYear	2010
+Clarke County, Alabama	censusYear	2010
+Winston County, Alabama	censusYear	2010
+Etowah County, Alabama	censusYear	2010
+Morgan County, Alabama	censusYear	2010
+Colbert County, Alabama	censusYear	2010
+Cleburne County, Alabama	censusYear	2010
+Conecuh County, Alabama	censusYear	2010
+Coffee County, Alabama	censusYear	2010
+Coosa County, Alabama	censusYear	2010
+Covington County, Alabama	censusYear	2010
+Crenshaw County, Alabama	censusYear	2010
+Cullman County, Alabama	censusYear	2010
+Dallas County, Alabama	censusYear	2010
+Dale County, Alabama	censusYear	2010
+DeKalb County, Alabama	censusYear	2010
+Fayette County, Alabama	censusYear	2010
+Elmore County, Alabama	censusYear	2010
+Franklin County, Alabama	censusYear	2010
+Escambia County, Alabama	censusYear	2010
+Geneva County, Alabama	censusYear	2010
+Greene County, Alabama	censusYear	2010
+Hale County, Alabama	censusYear	2010
+Jackson County, Alabama	censusYear	2010
+Jefferson County, Alabama	censusYear	2010
+Lamar County, Alabama	censusYear	2010
+Henry County, Alabama	censusYear	2010
+Houston County, Alabama	censusYear	2010
+Inyo County, California	censusYear	2010
+Lauderdale County, Alabama	censusYear	2010
+Lee County, Alabama	censusYear	2010
+Limestone County, Alabama	censusYear	2010
+Lowndes County, Alabama	censusYear	2010
+Macon County, Alabama	censusYear	2010
+Madison County, Alabama	censusYear	2010
+Lawrence County, Alabama	censusYear	2010
+Marion County, Alabama	censusYear	2010
+Marengo County, Alabama	censusYear	2010
+Marshall County, Alabama	censusYear	2010
+Mobile County, Alabama	censusYear	2011
+Monroe County, Alabama	censusYear	2010
+Pickens County, Alabama	censusYear	2010
+Perry County, Alabama	censusYear	2010
+Pike County, Alabama	censusYear	2010
+Randolph County, Alabama	censusYear	2010
+Shelby County, Alabama	censusYear	2010
+Russell County, Alabama	censusYear	2010
+Shelby County, Ohio	censusYear	2000
+Shelby County, Iowa	censusYear	2010
+Sumter County, Alabama	censusYear	2010
+Tallapoosa County, Alabama	censusYear	2010
+Shelby County, Kentucky	censusYear	2010
+Walker County, Alabama	censusYear	2010
+Tuscaloosa County, Alabama	censusYear	2010
+Talladega County, Alabama	censusYear	2010
+Washington County, Alabama	censusYear	2010
+Wilcox County, Alabama	censusYear	2010
+Mono County, California	censusYear	2010
+Hill County, Montana	censusYear	2010
+Will County, Illinois	censusYear	2010
+Lancaster County, Pennsylvania	censusYear	2010
+Tiberias	censusYear	2009
+Hawaii County, Hawaii	censusYear	2010
+Kalawao County, Hawaii	censusYear	2010
+Kauai County, Hawaii	censusYear	2000
+Maui County, Hawaii	censusYear	2000
+Braxton County, West Virginia	censusYear	2000
+Aleutians East Borough, Alaska	censusYear	2010
+Bristol Bay Borough, Alaska	censusYear	2000
+Haines Borough, Alaska	censusYear	2006
+Denali Borough, Alaska	censusYear	2000
+Fairbanks North Star Borough, Alaska	censusYear	2000
+Ketchikan Gateway Borough, Alaska	censusYear	2000
+Kenai Peninsula Borough, Alaska	censusYear	2000
+Kodiak Island Borough, Alaska	censusYear	2000
+Matanuska-Susitna Borough, Alaska	censusYear	2000
+Lake and Peninsula Borough, Alaska	censusYear	2000
+North Slope Borough, Alaska	censusYear	2000
+Northwest Arctic Borough, Alaska	censusYear	2000
+Churchill County, Nevada	censusYear	2007
+Apache County, Arizona	censusYear	2010
+Coconino County, Arizona	censusYear	2010
+Gila County, Arizona	censusYear	2010
+Graham County, Arizona	censusYear	2010
+Cochise County, Arizona	censusYear	2010
+Greenlee County, Arizona	censusYear	2010
+La Paz County, Arizona	censusYear	2010
+Mohave County, Arizona	censusYear	2010
+Navajo County, Arizona	censusYear	2010
+Pima County, Arizona	censusYear	2010
+Douglas County, Nevada	censusYear	2010
+Maricopa County, Arizona	censusYear	2010
+Pinal County, Arizona	censusYear	2010
+Yavapai County, Arizona	censusYear	2010
+Yuma County, Arizona	censusYear	2010
+Santa Cruz County, Arizona	censusYear	2010
+Hartford County, Connecticut	censusYear	2010
+Litchfield County, Connecticut	censusYear	2010
+Middlesex County, Connecticut	censusYear	2010
+Tolland County, Connecticut	censusYear	2010
+Fairfield County, Connecticut	censusYear	2010
+New London County, Connecticut	censusYear	2010
+New Haven County, Connecticut	censusYear	2010
+Windham County, Connecticut	censusYear	2010
+Kent County, Delaware	censusYear	2010
+New Castle County, Delaware	censusYear	2010
+Sussex County, Delaware	censusYear	2010
+McCracken County, Kentucky	censusYear	2000
+Allegheny County, Pennsylvania	censusYear	2010
+Armstrong County, Pennsylvania	censusYear	2010
+Bedford County, Pennsylvania	censusYear	2010
+Washakie County, Wyoming	censusYear	2010
+Weston County, Wyoming	censusYear	2010
+Uinta County, Wyoming	censusYear	2010
+Sweetwater County, Wyoming	censusYear	2010
+Platte County, Wyoming	censusYear	2010
+Teton County, Wyoming	censusYear	2010
+Sheridan County, Wyoming	censusYear	2010
+Park County, Wyoming	censusYear	2010
+Niobrara County, Wyoming	censusYear	2010
+Lincoln County, Wyoming	censusYear	2010
+Natrona County, Wyoming	censusYear	2010
+Laramie County, Wyoming	censusYear	2010
+Hot Springs County, Wyoming	censusYear	2010
+Goshen County, Wyoming	censusYear	2010
+Crook County, Wyoming	censusYear	2010
+Fremont County, Wyoming	censusYear	2010
+Converse County, Wyoming	censusYear	2010
+Carbon County, Wyoming	censusYear	2010
+Campbell County, Wyoming	censusYear	2010
+Big Horn County, Wyoming	censusYear	2010
+Albany County, Wyoming	censusYear	2010
+Wood County, Wisconsin	censusYear	2000
+Winnebago County, Wisconsin	censusYear	2000
+Waupaca County, Wisconsin	censusYear	2000
+Waushara County, Wisconsin	censusYear	2000
+Waukesha County, Wisconsin	censusYear	2008
+Washington County, Wisconsin	censusYear	2000
+Washburn County, Wisconsin	censusYear	2000
+Walworth County, Wisconsin	censusYear	2010
+Vernon County, Wisconsin	censusYear	2000
+Vilas County, Wisconsin	censusYear	2000
+Trempealeau County, Wisconsin	censusYear	2000
+St. Croix County, Wisconsin	censusYear	2010
+Sheboygan County, Wisconsin	censusYear	2010
+Shawano County, Wisconsin	censusYear	2000
+Taylor County, Wisconsin	censusYear	2000
+Sawyer County, Wisconsin	censusYear	2000
+Sauk County, Wisconsin	censusYear	2000
+Rusk County, Wisconsin	censusYear	2000
+Richland County, Wisconsin	censusYear	2000
+Racine County, Wisconsin	censusYear	2010
+Rock County, Wisconsin	censusYear	2000
+Price County, Wisconsin	censusYear	2000
+Polk County, Wisconsin	censusYear	2000
+Portage County, Wisconsin	censusYear	2000
+Pierce County, Wisconsin	censusYear	2000
+Pepin County, Wisconsin	censusYear	2010
+Ozaukee County, Wisconsin	censusYear	2010
+Outagamie County, Wisconsin	censusYear	2000
+Oneida County, Wisconsin	censusYear	2000
+Oconto County, Wisconsin	censusYear	2000
+Monroe County, Wisconsin	censusYear	2000
+Milwaukee County, Wisconsin	censusYear	2010
+Menominee County, Wisconsin	censusYear	2000
+Marquette County, Wisconsin	censusYear	2000
+Marinette County, Wisconsin	censusYear	2000
+Manitowoc County, Wisconsin	censusYear	2000
+Langlade County, Wisconsin	censusYear	2000
+Lafayette County, Wisconsin	censusYear	2000
+La Crosse County, Wisconsin	censusYear	2010
+Kewaunee County, Wisconsin	censusYear	2000
+Kenosha County, Wisconsin	censusYear	2010
+Juneau County, Wisconsin	censusYear	2000
+Marathon County, Wisconsin	censusYear	2000
+Jefferson County, Wisconsin	censusYear	2000
+Lincoln County, Wisconsin	censusYear	2000
+Iron County, Wisconsin	censusYear	2000
+Green Lake County, Wisconsin	censusYear	2000
+Iowa County, Wisconsin	censusYear	2000
+Jackson County, Wisconsin	censusYear	2000
+Green County, Wisconsin	censusYear	2000
+Forest County, Wisconsin	censusYear	2000
+Grant County, Wisconsin	censusYear	2000
+Fond du Lac County, Wisconsin	censusYear	2000
+Florence County, Wisconsin	censusYear	2000
+Dunn County, Wisconsin	censusYear	2000
+Douglas County, Wisconsin	censusYear	2000
+Eau Claire County, Wisconsin	censusYear	2000
+Door County, Wisconsin	censusYear	2000
+Crawford County, Wisconsin	censusYear	2000
+Dodge County, Wisconsin	censusYear	2010
+Columbia County, Wisconsin	censusYear	2000
+Clark County, Wisconsin	censusYear	2000
+Dane County, Wisconsin	censusYear	2010
+Calumet County, Wisconsin	censusYear	2000
+Chippewa County, Wisconsin	censusYear	2000
+Buffalo County, Wisconsin	censusYear	2000
+Burnett County, Wisconsin	censusYear	2000
+Bayfield County, Wisconsin	censusYear	2000
+Barron County, Wisconsin	censusYear	2000
+Ashland County, Wisconsin	censusYear	2000
+Wood County, West Virginia	censusYear	2000
+Wirt County, West Virginia	censusYear	2000
+Wyoming County, West Virginia	censusYear	2000
+Brown County, Wisconsin	censusYear	2010
+Wetzel County, West Virginia	censusYear	2000
+Wayne County, West Virginia	censusYear	2000
+Webster County, West Virginia	censusYear	2010
+Upshur County, West Virginia	censusYear	2000
+Taylor County, West Virginia	censusYear	2000
+Roane County, West Virginia	censusYear	2008
+Tyler County, West Virginia	censusYear	2000
+Tucker County, West Virginia	censusYear	2000
+Ritchie County, West Virginia	censusYear	2000
+Summers County, West Virginia	censusYear	2000
+Randolph County, West Virginia	censusYear	2000
+Raleigh County, West Virginia	censusYear	2000
+Preston County, West Virginia	censusYear	2000
+Pleasants County, West Virginia	censusYear	2000
+Pendleton County, West Virginia	censusYear	2000
+Pocahontas County, West Virginia	censusYear	2000
+Nicholas County, West Virginia	censusYear	2000
+Morgan County, West Virginia	censusYear	2008
+Monongalia County, West Virginia	censusYear	2000
+Mingo County, West Virginia	censusYear	2000
+Monroe County, West Virginia	censusYear	2000
+Mineral County, West Virginia	censusYear	2000
+Mason County, West Virginia	censusYear	2000
+Mercer County, West Virginia	censusYear	2000
+Marshall County, West Virginia	censusYear	2000
+Marion County, West Virginia	censusYear	2005
+Lincoln County, West Virginia	censusYear	2000
+McDowell County, West Virginia	censusYear	2000
+Logan County, West Virginia	censusYear	2000
+Lewis County, West Virginia	censusYear	2000
+Jackson County, West Virginia	censusYear	2010
+Kanawha County, West Virginia	censusYear	2010
+Hancock County, West Virginia	censusYear	2000
+Hardy County, West Virginia	censusYear	2010
+Harrison County, West Virginia	censusYear	2000
+Jefferson County, West Virginia	censusYear	2010
+Greenbrier County, West Virginia	censusYear	2000
+Gilmer County, West Virginia	censusYear	2000
+Grant County, West Virginia	censusYear	2000
+Doddridge County, West Virginia	censusYear	2000
+Fayette County, West Virginia	censusYear	2000
+Hampshire County, West Virginia	censusYear	2000
+Cabell County, West Virginia	censusYear	2010
+Brooke County, West Virginia	censusYear	2000
+Calhoun County, West Virginia	censusYear	2000
+Boone County, West Virginia	censusYear	2000
+Berkeley County, West Virginia	censusYear	2009
+Yakima County, Washington	censusYear	2010
+Walla Walla County, Washington	censusYear	2010
+Whatcom County, Washington	censusYear	2010
+Whitman County, Washington	censusYear	2010
+Wahkiakum County, Washington	censusYear	2010
+Stevens County, Washington	censusYear	2010
+Thurston County, Washington	censusYear	2010
+Skamania County, Washington	censusYear	2010
+Spokane County, Washington	censusYear	2010
+San Juan County, Washington	censusYear	2010
+Skagit County, Washington	censusYear	2010
+Pierce County, Washington	censusYear	2010
+Snohomish County, Washington	censusYear	2010
+Pend Oreille County, Washington	censusYear	2010
+Okanogan County, Washington	censusYear	2010
+Mason County, Washington	censusYear	2010
+Pacific County, Washington	censusYear	2010
+Lincoln County, Washington	censusYear	2010
+Klickitat County, Washington	censusYear	2010
+Lewis County, Washington	censusYear	2010
+Kittitas County, Washington	censusYear	2010
+Jefferson County, Washington	censusYear	2010
+Island County, Washington	censusYear	2010
+Kitsap County, Washington	censusYear	2010
+King County, Washington	censusYear	2010
+Grant County, Washington	censusYear	2010
+Grays Harbor County, Washington	censusYear	2010
+Franklin County, Washington	censusYear	2010
+Douglas County, Washington	censusYear	2010
+Ferry County, Washington	censusYear	2010
+Garfield County, Washington	censusYear	2010
+Cowlitz County, Washington	censusYear	2010
+Columbia County, Washington	censusYear	2010
+Clallam County, Washington	censusYear	2010
+Asotin County, Washington	censusYear	2010
+Chelan County, Washington	censusYear	2010
+Stafford County, Virginia	censusYear	2010
+Smyth County, Virginia	censusYear	2009
+Spotsylvania County, Virginia	censusYear	2010
+Rappahannock County, Virginia	censusYear	2009
+Roanoke County, Virginia	censusYear	2009
+Prince William County, Virginia	censusYear	2010
+Mathews County, Virginia	censusYear	2010
+Loudoun County, Virginia	censusYear	2010
+King and Queen County, Virginia	censusYear	2009
+Hanover County, Virginia	censusYear	2010
+Henrico County, Virginia	censusYear	2010
+Fauquier County, Virginia	censusYear	2010
+Fairfax County, Virginia	censusYear	2010
+Craig County, Virginia	censusYear	2000
+Chesterfield County, Virginia	censusYear	2010
+Charles City County, Virginia	censusYear	2009
+Campbell County, Virginia	censusYear	2010
+Bland County, Virginia	censusYear	2009
+Bath County, Virginia	censusYear	2009
+Amherst County, Virginia	censusYear	2010
+Amelia County, Virginia	censusYear	2010
+Arlington County, Virginia	censusYear	2010
+Albemarle County, Virginia	censusYear	2010
+Accomack County, Virginia	censusYear	2010
+Windsor County, Vermont	censusYear	2010
+Windham County, Vermont	censusYear	2010
+Rutland County, Vermont	censusYear	2010
+Washington County, Vermont	censusYear	2010
+Orange County, Vermont	censusYear	2010
+Lamoille County, Vermont	censusYear	2010
+Grand Isle County, Vermont	censusYear	2010
+Franklin County, Vermont	censusYear	2010
+Essex County, Vermont	censusYear	2010
+Orleans County, Vermont	censusYear	2010
+Bennington County, Vermont	censusYear	2010
+Caledonia County, Vermont	censusYear	2010
+Chittenden County, Vermont	censusYear	2010
+Addison County, Vermont	censusYear	2010
+Zavala County, Texas	censusYear	2000
+Zapata County, Texas	censusYear	2000
+Yoakum County, Texas	censusYear	2000
+Young County, Texas	censusYear	2000
+Wood County, Texas	censusYear	2000
+Wise County, Texas	censusYear	2000
+Winkler County, Texas	censusYear	2000
+Wilson County, Texas	censusYear	2000
+Willacy County, Texas	censusYear	2000
+Wilbarger County, Texas	censusYear	2000
+Wheeler County, Texas	censusYear	2010
+Wichita County, Texas	censusYear	2000
+Wharton County, Texas	censusYear	2000
+Washington County, Texas	censusYear	2000
+Webb County, Texas	censusYear	2010
+Ward County, Texas	censusYear	2000
+Waller County, Texas	censusYear	2010
+Walker County, Texas	censusYear	2010
+Victoria County, Texas	censusYear	2000
+Williamson County, Texas	censusYear	2010
+Van Zandt County, Texas	censusYear	2000
+Val Verde County, Texas	censusYear	2000
+Uvalde County, Texas	censusYear	2010
+Upshur County, Texas	censusYear	2000
+Upton County, Texas	censusYear	2000
+Tyler County, Texas	censusYear	2000
+Trinity County, Texas	censusYear	2000
+Titus County, Texas	censusYear	2000
+Travis County, Texas	censusYear	2010
+Throckmorton County, Texas	censusYear	2000
+Tom Green County, Texas	censusYear	2000
+Terry County, Texas	censusYear	2000
+Terrell County, Texas	censusYear	2000
+Taylor County, Texas	censusYear	2000
+Sutton County, Texas	censusYear	2000
+Swisher County, Texas	censusYear	2010
+Tarrant County, Texas	censusYear	2010
+Stonewall County, Texas	censusYear	2000
+Sterling County, Texas	censusYear	2000
+Stephens County, Texas	censusYear	2000
+Starr County, Texas	censusYear	2000
+Somervell County, Texas	censusYear	2000
+Sherman County, Texas	censusYear	2010
+Smith County, Texas	censusYear	2007
+Shelby County, Texas	censusYear	2000
+Shackelford County, Texas	censusYear	2000
+Scurry County, Texas	censusYear	2010
+San Patricio County, Texas	censusYear	2000
+San Saba County, Texas	censusYear	2010
+Schleicher County, Texas	censusYear	2010
+San Jacinto County, Texas	censusYear	2010
+San Augustine County, Texas	censusYear	2000
+Sabine County, Texas	censusYear	2000
+Rockwall County, Texas	censusYear	2010
+Rusk County, Texas	censusYear	2010
+Robertson County, Texas	censusYear	2000
+Roberts County, Texas	censusYear	2010
+Refugio County, Texas	censusYear	2000
+Reeves County, Texas	censusYear	2000
+Real County, Texas	censusYear	2000
+Red River County, Texas	censusYear	2008
+Reagan County, Texas	censusYear	2000
+Rains County, Texas	censusYear	2000
+Potter County, Texas	censusYear	2010
+Polk County, Texas	censusYear	2000
+Presidio County, Texas	censusYear	2000
+Pecos County, Texas	censusYear	2000
+Parmer County, Texas	censusYear	2010
+Randall County, Texas	censusYear	2010
+Parker County, Texas	censusYear	2010
+Oldham County, Texas	censusYear	2010
+Palo Pinto County, Texas	censusYear	2000
+Panola County, Texas	censusYear	2000
+Nueces County, Texas	censusYear	2010
+Nolan County, Texas	censusYear	2000
+Ochiltree County, Texas	censusYear	2010
+Newton County, Texas	censusYear	2000
+Navarro County, Texas	censusYear	2000
+Nacogdoches County, Texas	censusYear	2010
+Morris County, Texas	censusYear	2000
+Mitchell County, Texas	censusYear	2000
+Montague County, Texas	censusYear	2000
+Mills County, Texas	censusYear	2000
+Motley County, Texas	censusYear	2000
+Milam County, Texas	censusYear	2000
+Midland County, Texas	censusYear	2000
+Menard County, Texas	censusYear	2000
+McMullen County, Texas	censusYear	2000
+Medina County, Texas	censusYear	2010
+McLennan County, Texas	censusYear	2000
+McCulloch County, Texas	censusYear	2010
+Matagorda County, Texas	censusYear	2010
+Maverick County, Texas	censusYear	2000
+Mason County, Texas	censusYear	2000
+Martin County, Texas	censusYear	2000
+Lubbock County, Texas	censusYear	2000
+Lynn County, Texas	censusYear	2000
+Madison County, Texas	censusYear	2000
+Marion County, Texas	censusYear	2000
+Loving County, Texas	censusYear	2010
+Live Oak County, Texas	censusYear	2000
+Llano County, Texas	censusYear	2000
+Lipscomb County, Texas	censusYear	2010
+Limestone County, Texas	censusYear	2000
+Liberty County, Texas	censusYear	2010
+Leon County, Texas	censusYear	2000
+Lee County, Texas	censusYear	2000
+Lavaca County, Texas	censusYear	2000
+Lampasas County, Texas	censusYear	2000
+Lamar County, Texas	censusYear	2010
+Lamb County, Texas	censusYear	2000
+La Salle County, Texas	censusYear	2000
+Knox County, Texas	censusYear	2000
+Kleberg County, Texas	censusYear	2000
+King County, Texas	censusYear	2010
+Kimble County, Texas	censusYear	2010
+Kinney County, Texas	censusYear	2000
+Kerr County, Texas	censusYear	2010
+Kent County, Texas	censusYear	2000
+Kenedy County, Texas	censusYear	2010
+Jones County, Texas	censusYear	2000
+Karnes County, Texas	censusYear	2000
+Kaufman County, Texas	censusYear	2010
+Kendall County, Texas	censusYear	2008
+Jim Wells County, Texas	censusYear	2010
+Johnson County, Texas	censusYear	2007
+Jim Hogg County, Texas	censusYear	2000
+Jasper County, Texas	censusYear	2000
+Jefferson County, Texas	censusYear	2010
+Jeff Davis County, Texas	censusYear	2000
+Jackson County, Texas	censusYear	2000
+Irion County, Texas	censusYear	2000
+Jack County, Texas	censusYear	2000
+Hutchinson County, Texas	censusYear	2010
+Howard County, Texas	censusYear	2000
+Hudspeth County, Texas	censusYear	2000
+Hunt County, Texas	censusYear	2000
+Hopkins County, Texas	censusYear	2000
+Hood County, Texas	censusYear	2000
+Hockley County, Texas	censusYear	2000
+Houston County, Texas	censusYear	2000
+Hill County, Texas	censusYear	2008
+Hemphill County, Texas	censusYear	2010
+Hays County, Texas	censusYear	2010
+Henderson County, Texas	censusYear	2000
+Haskell County, Texas	censusYear	2000
+Hidalgo County, Texas	censusYear	2010
+Hartley County, Texas	censusYear	2010
+Harrison County, Texas	censusYear	2000
+Hardin County, Texas	censusYear	2000
+Hardeman County, Texas	censusYear	2000
+Hansford County, Texas	censusYear	2010
+Hamilton County, Texas	censusYear	2000
+Hale County, Texas	censusYear	2000
+Hall County, Texas	censusYear	2010
+Guadalupe County, Texas	censusYear	2000
+Grimes County, Texas	censusYear	2000
+Harris County, Texas	censusYear	2010
+Gregg County, Texas	censusYear	2000
+Grayson County, Texas	censusYear	2009
+Gray County, Texas	censusYear	2010
+Gonzales County, Texas	censusYear	2000
+Glasscock County, Texas	censusYear	2000
+Goliad County, Texas	censusYear	2000
+Garza County, Texas	censusYear	2000
+Gaines County, Texas	censusYear	2000
+Gillespie County, Texas	censusYear	2010
+Frio County, Texas	censusYear	2000
+Freestone County, Texas	censusYear	2000
+Franklin County, Texas	censusYear	2000
+Galveston County, Texas	censusYear	2010
+Foard County, Texas	censusYear	2000
+Floyd County, Texas	censusYear	2010
+Fisher County, Texas	censusYear	2000
+Fort Bend County, Texas	censusYear	2010
+Fannin County, Texas	censusYear	2000
+Fayette County, Texas	censusYear	2000
+Falls County, Texas	censusYear	2000
+Erath County, Texas	censusYear	2000
+El Paso County, Texas	censusYear	2010
+Ellis County, Texas	censusYear	2010
+Ector County, Texas	censusYear	2000
+Edwards County, Texas	censusYear	2010
+Eastland County, Texas	censusYear	2000
+Duval County, Texas	censusYear	2000
+Donley County, Texas	censusYear	2010
+Dickens County, Texas	censusYear	2000
+Denton County, Texas	censusYear	2010
+Delta County, Texas	censusYear	2000
+Dimmit County, Texas	censusYear	2000
+Dawson County, Texas	censusYear	2000
+Deaf Smith County, Texas	censusYear	2010
+DeWitt County, Texas	censusYear	2009
+Dallam County, Texas	censusYear	2010
+Culberson County, Texas	censusYear	2000
+Crosby County, Texas	censusYear	2000
+Crockett County, Texas	censusYear	2000
+Crane County, Texas	censusYear	2000
+Cottle County, Texas	censusYear	2000
+Coryell County, Texas	censusYear	2000
+Dallas County, Texas	censusYear	2010
+Cooke County, Texas	censusYear	2010
+Concho County, Texas	censusYear	2000
+Colorado County, Texas	censusYear	2000
+Collingsworth County, Texas	censusYear	2010
+Comanche County, Texas	censusYear	2000
+Comal County, Texas	censusYear	2010
+Coleman County, Texas	censusYear	2000
+Coke County, Texas	censusYear	2000
+Collin County, Texas	censusYear	2010
+Cochran County, Texas	censusYear	2000
+Childress County, Texas	censusYear	2010
+Cherokee County, Texas	censusYear	2000
+Chambers County, Texas	censusYear	2010
+Castro County, Texas	censusYear	2010
+Cass County, Texas	censusYear	2000
+Carson County, Texas	censusYear	2010
+Camp County, Texas	censusYear	2000
+Cameron County, Texas	censusYear	2010
+Callahan County, Texas	censusYear	2000
+Calhoun County, Texas	censusYear	2000
+Burleson County, Texas	censusYear	2000
+Caldwell County, Texas	censusYear	2000
+Burnet County, Texas	censusYear	2000
+Brown County, Texas	censusYear	2000
+Brooks County, Texas	censusYear	2000
+Briscoe County, Texas	censusYear	2010
+Brazos County, Texas	censusYear	2010
+Brewster County, Texas	censusYear	2009
+Bowie County, Texas	censusYear	2000
+Bosque County, Texas	censusYear	2000
+Borden County, Texas	censusYear	2000
+Blanco County, Texas	censusYear	2010
+Bexar County, Texas	censusYear	2010
+Bell County, Texas	censusYear	2010
+Baylor County, Texas	censusYear	2000
+Bee County, Texas	censusYear	2000
+Bandera County, Texas	censusYear	2010
+Bailey County, Texas	censusYear	2010
+Austin County, Texas	censusYear	2010
+Bastrop County, Texas	censusYear	2000
+Armstrong County, Texas	censusYear	2010
+Archer County, Texas	censusYear	2000
+Aransas County, Texas	censusYear	2000
+Atascosa County, Texas	censusYear	2000
+Andrews County, Texas	censusYear	2000
+Angelina County, Texas	censusYear	2005
+Wilson County, Tennessee	censusYear	2000
+Anderson County, Texas	censusYear	2000
+Weakley County, Tennessee	censusYear	2000
+Williamson County, Tennessee	censusYear	2010
+White County, Tennessee	censusYear	2000
+Wayne County, Tennessee	censusYear	2000
+Washington County, Tennessee	censusYear	2000
+Warren County, Tennessee	censusYear	2000
+Unicoi County, Tennessee	censusYear	2000
+Union County, Tennessee	censusYear	2000
+Van Buren County, Tennessee	censusYear	2000
+Trousdale County, Tennessee	censusYear	2000
+Sumner County, Tennessee	censusYear	2000
+Tipton County, Tennessee	censusYear	2000
+Stewart County, Tennessee	censusYear	2000
+Sullivan County, Tennessee	censusYear	2000
+Smith County, Tennessee	censusYear	2000
+Shelby County, Tennessee	censusYear	2005
+Scott County, Tennessee	censusYear	2000
+Sevier County, Tennessee	censusYear	2000
+Rutherford County, Tennessee	censusYear	2010
+Robertson County, Tennessee	censusYear	2000
+Roane County, Tennessee	censusYear	2000
+Rhea County, Tennessee	censusYear	2000
+Polk County, Tennessee	censusYear	2000
+Pickett County, Tennessee	censusYear	2000
+Overton County, Tennessee	censusYear	2000
+Perry County, Tennessee	censusYear	2000
+Obion County, Tennessee	censusYear	2000
+Morgan County, Tennessee	censusYear	2000
+Moore County, Tennessee	censusYear	2000
+Monroe County, Tennessee	censusYear	2000
+Sequatchie County, Tennessee	censusYear	2010
+Meigs County, Tennessee	censusYear	2010
+McMinn County, Tennessee	censusYear	2000
+McNairy County, Tennessee	censusYear	2000
+Maury County, Tennessee	censusYear	2009
+Marshall County, Tennessee	censusYear	2000
+Marion County, Tennessee	censusYear	2000
+Macon County, Tennessee	censusYear	2000
+Loudon County, Tennessee	censusYear	2010
+Lewis County, Tennessee	censusYear	2000
+Lawrence County, Tennessee	censusYear	2000
+Lauderdale County, Tennessee	censusYear	2000
+Madison County, Tennessee	censusYear	2000
+Lincoln County, Tennessee	censusYear	2000
+Jefferson County, Tennessee	censusYear	2010
+Knox County, Tennessee	censusYear	2010
+Humphreys County, Tennessee	censusYear	2000
+Johnson County, Tennessee	censusYear	2000
+Lake County, Tennessee	censusYear	2000
+Houston County, Tennessee	censusYear	2010
+Hickman County, Tennessee	censusYear	2010
+Jackson County, Tennessee	censusYear	2000
+Henderson County, Tennessee	censusYear	2010
+Haywood County, Tennessee	censusYear	2010
+Hardin County, Tennessee	censusYear	2010
+Henry County, Tennessee	censusYear	2010
+Hardeman County, Tennessee	censusYear	2010
+Hancock County, Tennessee	censusYear	2010
+Hawkins County, Tennessee	censusYear	2010
+Hamilton County, Tennessee	censusYear	2010
+Grundy County, Tennessee	censusYear	2010
+Greene County, Tennessee	censusYear	2010
+Grainger County, Tennessee	censusYear	2010
+Gibson County, Tennessee	censusYear	2010
+Giles County, Tennessee	censusYear	2010
+Hamblen County, Tennessee	censusYear	2010
+Fentress County, Tennessee	censusYear	2010
+Franklin County, Tennessee	censusYear	2010
+Dyer County, Tennessee	censusYear	2010
+Dickson County, Tennessee	censusYear	2010
+DeKalb County, Tennessee	censusYear	2010
+Decatur County, Tennessee	censusYear	2010
+Fayette County, Tennessee	censusYear	2010
+Cumberland County, Tennessee	censusYear	2010
+Crockett County, Tennessee	censusYear	2010
+Coffee County, Tennessee	censusYear	2010
+Cocke County, Tennessee	censusYear	2010
+Davidson County, Tennessee	censusYear	2010
+Chester County, Tennessee	censusYear	2010
+Cheatham County, Tennessee	censusYear	2010
+Carter County, Tennessee	censusYear	2010
+Cannon County, Tennessee	censusYear	2010
+Claiborne County, Tennessee	censusYear	2010
+Campbell County, Tennessee	censusYear	2010
+Bradley County, Tennessee	censusYear	2010
+Carroll County, Tennessee	censusYear	2010
+Blount County, Tennessee	censusYear	2010
+Bledsoe County, Tennessee	censusYear	2010
+Benton County, Tennessee	censusYear	2010
+Bedford County, Tennessee	censusYear	2010
+Anderson County, Tennessee	censusYear	2010
+Yankton County, South Dakota	censusYear	2010
+Walworth County, South Dakota	censusYear	2000
+Ziebach County, South Dakota	censusYear	2000
+Union County, South Dakota	censusYear	2010
+Turner County, South Dakota	censusYear	2010
+Tripp County, South Dakota	censusYear	2000
+Sully County, South Dakota	censusYear	2000
+Stanley County, South Dakota	censusYear	2000
+Todd County, South Dakota	censusYear	2010
+Spink County, South Dakota	censusYear	2000
+Shannon County, South Dakota	censusYear	2010
+Sanborn County, South Dakota	censusYear	2000
+Roberts County, South Dakota	censusYear	2010
+Perkins County, South Dakota	censusYear	2000
+Potter County, South Dakota	censusYear	2000
+Moody County, South Dakota	censusYear	2010
+Pennington County, South Dakota	censusYear	2010
+Mellette County, South Dakota	censusYear	2000
+Miner County, South Dakota	censusYear	2000
+Minnehaha County, South Dakota	censusYear	2010
+Meade County, South Dakota	censusYear	2010
+McPherson County, South Dakota	censusYear	2000
+Lyman County, South Dakota	censusYear	2000
+Marshall County, South Dakota	censusYear	2000
+McCook County, South Dakota	censusYear	2000
+Lawrence County, South Dakota	censusYear	2010
+Lincoln County, South Dakota	censusYear	2010
+Kingsbury County, South Dakota	censusYear	2000
+Lake County, South Dakota	censusYear	2010
+Jerauld County, South Dakota	censusYear	2000
+Jones County, South Dakota	censusYear	2010
+Jackson County, South Dakota	censusYear	2000
+Hyde County, South Dakota	censusYear	2000
+Hughes County, South Dakota	censusYear	2010
+Hutchinson County, South Dakota	censusYear	2010
+Harding County, South Dakota	censusYear	2010
+Hanson County, South Dakota	censusYear	2000
+Hand County, South Dakota	censusYear	2000
+Haakon County, South Dakota	censusYear	2000
+Hamlin County, South Dakota	censusYear	2000
+Gregory County, South Dakota	censusYear	2000
+Faulk County, South Dakota	censusYear	2000
+Grant County, South Dakota	censusYear	2010
+Fall River County, South Dakota	censusYear	2010
+Edmunds County, South Dakota	censusYear	2000
+Dewey County, South Dakota	censusYear	2000
+Day County, South Dakota	censusYear	2000
+Deuel County, South Dakota	censusYear	2000
+Davison County, South Dakota	censusYear	2010
+Custer County, South Dakota	censusYear	2010
+Codington County, South Dakota	censusYear	2010
+Corson County, South Dakota	censusYear	2000
+Douglas County, South Dakota	censusYear	2000
+Clark County, South Dakota	censusYear	2000
+Campbell County, South Dakota	censusYear	2000
+Charles Mix County, South Dakota	censusYear	2010
+Buffalo County, South Dakota	censusYear	2010
+Brown County, South Dakota	censusYear	2010
+Brule County, South Dakota	censusYear	2010
+Butte County, South Dakota	censusYear	2010
+Bon Homme County, South Dakota	censusYear	2010
+Bennett County, South Dakota	censusYear	2010
+Brookings County, South Dakota	censusYear	2010
+Beadle County, South Dakota	censusYear	2010
+Aurora County, South Dakota	censusYear	2010
+Williamsburg County, South Carolina	censusYear	2000
+Union County, South Carolina	censusYear	2010
+York County, South Carolina	censusYear	2009
+Sumter County, South Carolina	censusYear	2000
+Spartanburg County, South Carolina	censusYear	2000
+Saluda County, South Carolina	censusYear	2000
+Pickens County, South Carolina	censusYear	2000
+Orangeburg County, South Carolina	censusYear	2000
+Richland County, South Carolina	censusYear	2010
+Richland County, South Carolina	censusYear	2000
+Oconee County, South Carolina	censusYear	2000
+Newberry County, South Carolina	censusYear	2000
+McCormick County, South Carolina	censusYear	2000
+Lexington County, South Carolina	censusYear	2000
+Marlboro County, South Carolina	censusYear	2010
+Marion County, South Carolina	censusYear	2000
+Lee County, South Carolina	censusYear	2000
+Lancaster County, South Carolina	censusYear	2005
+Laurens County, South Carolina	censusYear	2000
+Kershaw County, South Carolina	censusYear	2000
+Jasper County, South Carolina	censusYear	2000
+Hampton County, South Carolina	censusYear	2000
+Greenwood County, South Carolina	censusYear	2000
+Horry County, South Carolina	censusYear	2000
+Greenville County, South Carolina	censusYear	2009
+Fairfield County, South Carolina	censusYear	2000
+Georgetown County, South Carolina	censusYear	2000
+Dillon County, South Carolina	censusYear	2000
+Edgefield County, South Carolina	censusYear	2000
+Dorchester County, South Carolina	censusYear	2010
+Darlington County, South Carolina	censusYear	2000
+Colleton County, South Carolina	censusYear	2000
+Clarendon County, South Carolina	censusYear	2000
+Chesterfield County, South Carolina	censusYear	2010
+Chester County, South Carolina	censusYear	2000
+Calhoun County, South Carolina	censusYear	2000
+Charleston County, South Carolina	censusYear	2000
+Cherokee County, South Carolina	censusYear	2010
+Barnwell County, South Carolina	censusYear	2000
+Bamberg County, South Carolina	censusYear	2000
+Berkeley County, South Carolina	censusYear	2000
+Beaufort County, South Carolina	censusYear	2000
+Allendale County, South Carolina	censusYear	2000
+Anderson County, South Carolina	censusYear	2000
+Aiken County, South Carolina	censusYear	2010
+Providence County, Rhode Island	censusYear	2010
+Newport County, Rhode Island	censusYear	2010
+Kent County, Rhode Island	censusYear	2010
+Abbeville County, South Carolina	censusYear	2000
+Bristol County, Rhode Island	censusYear	2010
+Wyoming County, Pennsylvania	censusYear	2010
+York County, Pennsylvania	censusYear	2010
+Wayne County, Pennsylvania	censusYear	2010
+Warren County, Pennsylvania	censusYear	2010
+Washington County, Pennsylvania	censusYear	2010
+Westmoreland County, Pennsylvania	censusYear	2010
+Venango County, Pennsylvania	censusYear	2010
+Union County, Pennsylvania	censusYear	2010
+Tioga County, Pennsylvania	censusYear	2010
+Susquehanna County, Pennsylvania	censusYear	2010
+Sullivan County, Pennsylvania	censusYear	2010
+Potter County, Pennsylvania	censusYear	2010
+Snyder County, Pennsylvania	censusYear	2010
+Somerset County, Pennsylvania	censusYear	2010
+Philadelphia County, Pennsylvania	censusYear	2010
+Pike County, Pennsylvania	censusYear	2010
+Perry County, Pennsylvania	censusYear	2010
+Schuylkill County, Pennsylvania	censusYear	2010
+Montour County, Pennsylvania	censusYear	2010
+Northumberland County, Pennsylvania	censusYear	2010
+Monroe County, Pennsylvania	censusYear	2010
+Mifflin County, Pennsylvania	censusYear	2010
+Mercer County, Pennsylvania	censusYear	2010
+McKean County, Pennsylvania	censusYear	2010
+Lycoming County, Pennsylvania	censusYear	2010
+Luzerne County, Pennsylvania	censusYear	2010
+Northampton County, Pennsylvania	censusYear	2010
+Lebanon County, Pennsylvania	censusYear	2010
+Juniata County, Pennsylvania	censusYear	2000
+Lackawanna County, Pennsylvania	censusYear	2010
+Jefferson County, Pennsylvania	censusYear	2010
+Lehigh County, Pennsylvania	censusYear	2010
+Indiana County, Pennsylvania	censusYear	2010
+Greene County, Pennsylvania	censusYear	2010
+Huntingdon County, Pennsylvania	censusYear	2010
+Forest County, Pennsylvania	censusYear	2010
+Franklin County, Pennsylvania	censusYear	2010
+Fulton County, Pennsylvania	censusYear	2010
+Elk County, Pennsylvania	censusYear	2010
+Erie County, Pennsylvania	censusYear	2010
+Fayette County, Pennsylvania	censusYear	2010
+Columbia County, Pennsylvania	censusYear	2010
+Crawford County, Pennsylvania	censusYear	2010
+Dauphin County, Pennsylvania	censusYear	2010
+Delaware County, Pennsylvania	censusYear	2010
+Clarion County, Pennsylvania	censusYear	2010
+Centre County, Pennsylvania	censusYear	2010
+Clearfield County, Pennsylvania	censusYear	2010
+Carbon County, Pennsylvania	censusYear	2010
+Cameron County, Pennsylvania	censusYear	2010
+Chester County, Pennsylvania	censusYear	2010
+Cambria County, Pennsylvania	censusYear	2010
+Butler County, Pennsylvania	censusYear	2010
+Blair County, Pennsylvania	censusYear	2010
+Bradford County, Pennsylvania	censusYear	2010
+Bucks County, Pennsylvania	censusYear	2010
+Berks County, Pennsylvania	censusYear	2010
+Yamhill County, Oregon	censusYear	2010
+Beaver County, Pennsylvania	censusYear	2010
+Wallowa County, Oregon	censusYear	2010
+Wasco County, Oregon	censusYear	2010
+Union County, Oregon	censusYear	2010
+Wheeler County, Oregon	censusYear	2010
+Sherman County, Oregon	censusYear	2010
+Umatilla County, Oregon	censusYear	2010
+Tillamook County, Oregon	censusYear	2010
+Polk County, Oregon	censusYear	2010
+Marion County, Oregon	censusYear	2010
+Morrow County, Oregon	censusYear	2010
+Multnomah County, Oregon	censusYear	2010
+Linn County, Oregon	censusYear	2010
+Lincoln County, Oregon	censusYear	2010
+Malheur County, Oregon	censusYear	2010
+Lane County, Oregon	censusYear	2010
+Klamath County, Oregon	censusYear	2010
+Lake County, Oregon	censusYear	2010
+Jefferson County, Oregon	censusYear	2010
+Josephine County, Oregon	censusYear	2010
+Jackson County, Oregon	censusYear	2010
+Hood River County, Oregon	censusYear	2010
+Harney County, Oregon	censusYear	2010
+Grant County, Oregon	censusYear	2010
+Gilliam County, Oregon	censusYear	2010
+Douglas County, Oregon	censusYear	2010
+Deschutes County, Oregon	censusYear	2010
+Curry County, Oregon	censusYear	2010
+Crook County, Oregon	censusYear	2010
+Coos County, Oregon	censusYear	2010
+Columbia County, Oregon	censusYear	2010
+Clatsop County, Oregon	censusYear	2010
+Benton County, Oregon	censusYear	2010
+Clackamas County, Oregon	censusYear	2010
+Woods County, Oklahoma	censusYear	2000
+Baker County, Oregon	censusYear	2010
+Washita County, Oklahoma	censusYear	2000
+Washington County, Oklahoma	censusYear	2000
+Wagoner County, Oklahoma	censusYear	2010
+Tillman County, Oklahoma	censusYear	2000
+Stephens County, Oklahoma	censusYear	2000
+Sequoyah County, Oklahoma	censusYear	2000
+Seminole County, Oklahoma	censusYear	2000
+Tulsa County, Oklahoma	censusYear	2010
+Rogers County, Oklahoma	censusYear	2010
+Pottawatomie County, Oklahoma	censusYear	2000
+Pontotoc County, Oklahoma	censusYear	2000
+Roger Mills County, Oklahoma	censusYear	2000
+Pushmataha County, Oklahoma	censusYear	2000
+Pittsburg County, Oklahoma	censusYear	2000
+Payne County, Oklahoma	censusYear	2010
+Pawnee County, Oklahoma	censusYear	2000
+Ottawa County, Oklahoma	censusYear	2000
+Okmulgee County, Oklahoma	censusYear	2000
+Okfuskee County, Oklahoma	censusYear	2000
+Oklahoma County, Oklahoma	censusYear	2010
+Osage County, Oklahoma	censusYear	2000
+Nowata County, Oklahoma	censusYear	2000
+Noble County, Oklahoma	censusYear	2010
+Muskogee County, Oklahoma	censusYear	2010
+Murray County, Oklahoma	censusYear	2000
+McIntosh County, Oklahoma	censusYear	2000
+McCurtain County, Oklahoma	censusYear	2010
+McClain County, Oklahoma	censusYear	2000
+Marshall County, Oklahoma	censusYear	2000
+Mayes County, Oklahoma	censusYear	2000
+Love County, Oklahoma	censusYear	2000
+Major County, Oklahoma	censusYear	2000
+Logan County, Oklahoma	censusYear	2000
+Latimer County, Oklahoma	censusYear	2000
+Le Flore County, Oklahoma	censusYear	2000
+Lincoln County, Oklahoma	censusYear	2000
+Kay County, Oklahoma	censusYear	2000
+Kingfisher County, Oklahoma	censusYear	2000
+Johnston County, Oklahoma	censusYear	2000
+Jackson County, Oklahoma	censusYear	2000
+Jefferson County, Oklahoma	censusYear	2000
+Hughes County, Oklahoma	censusYear	2000
+Haskell County, Oklahoma	censusYear	2000
+Harper County, Oklahoma	censusYear	2010
+Harmon County, Oklahoma	censusYear	2010
+Kiowa County, Oklahoma	censusYear	2000
+Greer County, Oklahoma	censusYear	2000
+Grant County, Oklahoma	censusYear	2010
+Grady County, Oklahoma	censusYear	2000
+Garvin County, Oklahoma	censusYear	2000
+Dewey County, Oklahoma	censusYear	2000
+Delaware County, Oklahoma	censusYear	2000
+Garfield County, Oklahoma	censusYear	2010
+Custer County, Oklahoma	censusYear	2000
+Creek County, Oklahoma	censusYear	2010
+Craig County, Oklahoma	censusYear	2000
+Cotton County, Oklahoma	censusYear	2000
+Ellis County, Oklahoma	censusYear	2000
+Coal County, Oklahoma	censusYear	2000
+Cimarron County, Oklahoma	censusYear	2010
+Choctaw County, Oklahoma	censusYear	2000
+Cherokee County, Oklahoma	censusYear	2000
+Comanche County, Oklahoma	censusYear	2010
+Carter County, Oklahoma	censusYear	2000
+Cleveland County, Oklahoma	censusYear	2010
+Canadian County, Oklahoma	censusYear	2008
+Bryan County, Oklahoma	censusYear	2000
+Beckham County, Oklahoma	censusYear	2000
+Caddo County, Oklahoma	censusYear	2000
+Blaine County, Oklahoma	censusYear	2000
+Beaver County, Oklahoma	censusYear	2010
+Atoka County, Oklahoma	censusYear	2000
+Adair County, Oklahoma	censusYear	2000
+Alfalfa County, Oklahoma	censusYear	2000
+Wyandot County, Ohio	censusYear	2000
+Williams County, Ohio	censusYear	2000
+Wood County, Ohio	censusYear	2000
+Wayne County, Ohio	censusYear	2000
+Washington County, Ohio	censusYear	2000
+Vinton County, Ohio	censusYear	2000
+Van Wert County, Ohio	censusYear	2000
+Warren County, Ohio	censusYear	2000
+Tuscarawas County, Ohio	censusYear	2000
+Union County, Ohio	censusYear	2000
+Trumbull County, Ohio	censusYear	2000
+Stark County, Ohio	censusYear	2000
+Summit County, Ohio	censusYear	2010
+Seneca County, Ohio	censusYear	2000
+Sandusky County, Ohio	censusYear	2000
+Scioto County, Ohio	censusYear	2000
+Richland County, Ohio	censusYear	2000
+Ross County, Ohio	censusYear	2000
+Preble County, Ohio	censusYear	2000
+Pike County, Ohio	censusYear	2000
+Pickaway County, Ohio	censusYear	2000
+Portage County, Ohio	censusYear	2010
+Perry County, Ohio	censusYear	2000
+Noble County, Ohio	censusYear	2000
+Paulding County, Ohio	censusYear	2000
+Muskingum County, Ohio	censusYear	2000
+Morrow County, Ohio	censusYear	2000
+Morgan County, Ohio	censusYear	2000
+Monroe County, Ohio	censusYear	2000
+Miami County, Ohio	censusYear	2000
+Meigs County, Ohio	censusYear	2000
+Medina County, Ohio	censusYear	2000
+Marion County, Ohio	censusYear	2000
+Madison County, Ohio	censusYear	2000
+Mahoning County, Ohio	censusYear	2000
+Mercer County, Ohio	censusYear	2000
+Logan County, Ohio	censusYear	2000
+Lorain County, Ohio	censusYear	2010
+Licking County, Ohio	censusYear	2000
+Lucas County, Ohio	censusYear	2000
+Lake County, Ohio	censusYear	2000
+Lawrence County, Ohio	censusYear	2000
+Knox County, Ohio	censusYear	2000
+Jackson County, Ohio	censusYear	2000
+Huron County, Ohio	censusYear	2000
+Jefferson County, Ohio	censusYear	2000
+Holmes County, Ohio	censusYear	2000
+Hocking County, Ohio	censusYear	2000
+Henry County, Ohio	censusYear	2000
+Highland County, Ohio	censusYear	2000
+Harrison County, Ohio	censusYear	2000
+Hardin County, Ohio	censusYear	2000
+Hancock County, Ohio	censusYear	2000
+Guernsey County, Ohio	censusYear	2000
+Hamilton County, Ohio	censusYear	2000
+Greene County, Ohio	censusYear	2000
+Geauga County, Ohio	censusYear	2000
+Gallia County, Ohio	censusYear	2000
+Fulton County, Ohio	censusYear	2000
+Fayette County, Ohio	censusYear	2000
+Fairfield County, Ohio	censusYear	2000
+Franklin County, Ohio	censusYear	2000
+Erie County, Ohio	censusYear	2000
+Defiance County, Ohio	censusYear	2000
+Delaware County, Ohio	censusYear	2000
+Darke County, Ohio	censusYear	2000
+Crawford County, Ohio	censusYear	2000
+Cuyahoga County, Ohio	censusYear	2010
+Coshocton County, Ohio	censusYear	2000
+Columbiana County, Ohio	censusYear	2000
+Clark County, Ohio	censusYear	2000
+Champaign County, Ohio	censusYear	2000
+Carroll County, Ohio	censusYear	2010
+Brown County, Ohio	censusYear	2000
+Butler County, Ohio	censusYear	2000
+Belmont County, Ohio	censusYear	2000
+Athens County, Ohio	censusYear	2000
+Auglaize County, Ohio	censusYear	2000
+Ashtabula County, Ohio	censusYear	2000
+Ashland County, Ohio	censusYear	2000
+Allen County, Ohio	censusYear	2000
+Wells County, North Dakota	censusYear	2010
+Williams County, North Dakota	censusYear	2010
+Walsh County, North Dakota	censusYear	2010
+Traill County, North Dakota	censusYear	2010
+Ward County, North Dakota	censusYear	2010
+Towner County, North Dakota	censusYear	2010
+Steele County, North Dakota	censusYear	2010
+Slope County, North Dakota	censusYear	2010
+Stutsman County, North Dakota	censusYear	2010
+Stark County, North Dakota	censusYear	2010
+Sioux County, North Dakota	censusYear	2010
+Sheridan County, North Dakota	censusYear	2010
+Sargent County, North Dakota	censusYear	2010
+Rolette County, North Dakota	censusYear	2010
+Richland County, North Dakota	censusYear	2010
+Ransom County, North Dakota	censusYear	2010
+Ramsey County, North Dakota	censusYear	2010
+Oliver County, North Dakota	censusYear	2010
+Pembina County, North Dakota	censusYear	2010
+Renville County, North Dakota	censusYear	2010
+Nelson County, North Dakota	censusYear	2010
+Mountrail County, North Dakota	censusYear	2010
+Pierce County, North Dakota	censusYear	2010
+McLean County, North Dakota	censusYear	2010
+Mercer County, North Dakota	censusYear	2010
+Morton County, North Dakota	censusYear	2010
+McIntosh County, North Dakota	censusYear	2010
+McHenry County, North Dakota	censusYear	2010
+McKenzie County, North Dakota	censusYear	2010
+Kidder County, North Dakota	censusYear	2010
+Logan County, North Dakota	censusYear	2010
+Hettinger County, North Dakota	censusYear	2010
+LaMoure County, North Dakota	censusYear	2010
+Griggs County, North Dakota	censusYear	2010
+Grant County, North Dakota	censusYear	2010
+Grand Forks County, North Dakota	censusYear	2010
+Golden Valley County, North Dakota	censusYear	2010
+Emmons County, North Dakota	censusYear	2010
+Eddy County, North Dakota	censusYear	2010
+Dunn County, North Dakota	censusYear	2010
+Foster County, North Dakota	censusYear	2010
+Divide County, North Dakota	censusYear	2010
+Cavalier County, North Dakota	censusYear	2010
+Burleigh County, North Dakota	censusYear	2010
+Dickey County, North Dakota	censusYear	2010
+Bowman County, North Dakota	censusYear	2010
+Cass County, North Dakota	censusYear	2010
+Burke County, North Dakota	censusYear	2010
+Billings County, North Dakota	censusYear	2010
+Bottineau County, North Dakota	censusYear	2010
+Barnes County, North Dakota	censusYear	2010
+Yancey County, North Carolina	censusYear	2000
+Wilson County, North Carolina	censusYear	2000
+Benson County, North Dakota	censusYear	2010
+Yadkin County, North Carolina	censusYear	2000
+Wayne County, North Carolina	censusYear	2000
+Washington County, North Carolina	censusYear	2000
+Warren County, North Carolina	censusYear	2010
+Watauga County, North Carolina	censusYear	2000
+Vance County, North Carolina	censusYear	2000
+Wake County, North Carolina	censusYear	2010
+Union County, North Carolina	censusYear	2010
+Wilkes County, North Carolina	censusYear	2010
+Swain County, North Carolina	censusYear	2000
+Transylvania County, North Carolina	censusYear	2010
+Stanly County, North Carolina	censusYear	2010
+Surry County, North Carolina	censusYear	2010
+Stokes County, North Carolina	censusYear	2000
+Sampson County, North Carolina	censusYear	2000
+Scotland County, North Carolina	censusYear	2000
+Rutherford County, North Carolina	censusYear	2000
+Tyrrell County, North Carolina	censusYear	2000
+Richmond County, North Carolina	censusYear	2000
+Rockingham County, North Carolina	censusYear	2010
+Robeson County, North Carolina	censusYear	2000
+Randolph County, North Carolina	censusYear	2000
+Polk County, North Carolina	censusYear	2010
+Pitt County, North Carolina	censusYear	2000
+Perquimans County, North Carolina	censusYear	2010
+Pender County, North Carolina	censusYear	2009
+Rowan County, North Carolina	censusYear	2000
+Pamlico County, North Carolina	censusYear	2000
+Onslow County, North Carolina	censusYear	2009
+Orange County, North Carolina	censusYear	2010
+Pasquotank County, North Carolina	censusYear	2010
+Northampton County, North Carolina	censusYear	2000
+New Hanover County, North Carolina	censusYear	2009
+Mitchell County, North Carolina	censusYear	2000
+Moore County, North Carolina	censusYear	2006
+McDowell County, North Carolina	censusYear	2000
+Martin County, North Carolina	censusYear	2000
+Mecklenburg County, North Carolina	censusYear	2010
+Nash County, North Carolina	censusYear	2000
+Lincoln County, North Carolina	censusYear	2010
+Lenoir County, North Carolina	censusYear	2000
+Lee County, North Carolina	censusYear	2000
+Jones County, North Carolina	censusYear	2000
+Johnston County, North Carolina	censusYear	2008
+Jackson County, North Carolina	censusYear	2010
+Hyde County, North Carolina	censusYear	2000
+Madison County, North Carolina	censusYear	2010
+Iredell County, North Carolina	censusYear	2010
+Macon County, North Carolina	censusYear	2000
+Hertford County, North Carolina	censusYear	2010
+Haywood County, North Carolina	censusYear	2009
+Henderson County, North Carolina	censusYear	2008
+Harnett County, North Carolina	censusYear	2010
+Greene County, North Carolina	censusYear	2000
+Halifax County, North Carolina	censusYear	2000
+Hoke County, North Carolina	censusYear	2000
+Granville County, North Carolina	censusYear	2000
+Graham County, North Carolina	censusYear	2000
+Gates County, North Carolina	censusYear	2010
+Franklin County, North Carolina	censusYear	2000
+Gaston County, North Carolina	censusYear	2010
+Forsyth County, North Carolina	censusYear	2007
+Durham County, North Carolina	censusYear	2009
+Duplin County, North Carolina	censusYear	2000
+Edgecombe County, North Carolina	censusYear	2000
+Davie County, North Carolina	censusYear	2000
+Dare County, North Carolina	censusYear	2010
+Currituck County, North Carolina	censusYear	2010
+Cumberland County, North Carolina	censusYear	2000
+Davidson County, North Carolina	censusYear	2010
+Columbus County, North Carolina	censusYear	2000
+Chowan County, North Carolina	censusYear	2010
+Cleveland County, North Carolina	censusYear	2000
+Cherokee County, North Carolina	censusYear	2000
+Chatham County, North Carolina	censusYear	2000
+Craven County, North Carolina	censusYear	2006
+Caswell County, North Carolina	censusYear	2000
+Catawba County, North Carolina	censusYear	2010
+Camden County, North Carolina	censusYear	2010
+Carteret County, North Carolina	censusYear	2010
+Caldwell County, North Carolina	censusYear	2000
+Burke County, North Carolina	censusYear	2000
+Cabarrus County, North Carolina	censusYear	2000
+Buncombe County, North Carolina	censusYear	2008
+Brunswick County, North Carolina	censusYear	2009
+Bladen County, North Carolina	censusYear	2000
+Beaufort County, North Carolina	censusYear	2000
+Avery County, North Carolina	censusYear	2000
+Anson County, North Carolina	censusYear	2000
+Ashe County, North Carolina	censusYear	2010
+Alleghany County, North Carolina	censusYear	2000
+Alexander County, North Carolina	censusYear	2000
+Bertie County, North Carolina	censusYear	2000
+Alamance County, North Carolina	censusYear	2010
+Valencia County, New Mexico	censusYear	2010
+Union County, New Mexico	censusYear	2000
+Taos County, New Mexico	censusYear	2000
+Sierra County, New Mexico	censusYear	2000
+Santa Fe County, New Mexico	censusYear	2010
+Sandoval County, New Mexico	censusYear	2010
+San Miguel County, New Mexico	censusYear	2000
+San Juan County, New Mexico	censusYear	2010
+Roosevelt County, New Mexico	censusYear	2000
+Rio Arriba County, New Mexico	censusYear	2010
+Quay County, New Mexico	censusYear	2000
+Otero County, New Mexico	censusYear	2010
+Mora County, New Mexico	censusYear	2000
+McKinley County, New Mexico	censusYear	2010
+Lincoln County, New Mexico	censusYear	2010
+Los Alamos County, New Mexico	censusYear	2000
+Lea County, New Mexico	censusYear	2000
+Hidalgo County, New Mexico	censusYear	2000
+Torrance County, New Mexico	censusYear	2010
+Guadalupe County, New Mexico	censusYear	2000
+Harding County, New Mexico	censusYear	2010
+Grant County, New Mexico	censusYear	2010
+Eddy County, New Mexico	censusYear	2010
+Colfax County, New Mexico	censusYear	2000
+Curry County, New Mexico	censusYear	2000
+Cibola County, New Mexico	censusYear	2010
+Chaves County, New Mexico	censusYear	2000
+Bernalillo County, New Mexico	censusYear	2010
+Luna County, New Mexico	censusYear	2000
+Catron County, New Mexico	censusYear	2010
+Warren County, New Jersey	censusYear	2010
+Union County, New Jersey	censusYear	2010
+Somerset County, New Jersey	censusYear	2010
+Salem County, New Jersey	censusYear	2010
+Passaic County, New Jersey	censusYear	2010
+Sussex County, New Jersey	censusYear	2010
+Ocean County, New Jersey	censusYear	2010
+Middlesex County, New Jersey	censusYear	2010
+Morris County, New Jersey	censusYear	2010
+Mercer County, New Jersey	censusYear	2010
+Monmouth County, New Jersey	censusYear	2010
+Hunterdon County, New Jersey	censusYear	2010
+Gloucester County, New Jersey	censusYear	2010
+Cape May County, New Jersey	censusYear	2010
+Essex County, New Jersey	censusYear	2010
+Cumberland County, New Jersey	censusYear	2010
+Burlington County, New Jersey	censusYear	2010
+Camden County, New Jersey	censusYear	2010
+Atlantic County, New Jersey	censusYear	2010
+Sullivan County, New Hampshire	censusYear	2010
+Hudson County, New Jersey	censusYear	2010
+Strafford County, New Hampshire	censusYear	2010
+Bergen County, New Jersey	censusYear	2010
+Rockingham County, New Hampshire	censusYear	2010
+Merrimack County, New Hampshire	censusYear	2010
+Hillsborough County, New Hampshire	censusYear	2010
+Coös County, New Hampshire	censusYear	2010
+Carroll County, New Hampshire	censusYear	2010
+Grafton County, New Hampshire	censusYear	2010
+Belknap County, New Hampshire	censusYear	2010
+Cheshire County, New Hampshire	censusYear	2010
+St. Lawrence County, New York	censusYear	2010
+White Pine County, Nevada	censusYear	2010
+Pershing County, Nevada	censusYear	2005
+Storey County, Nevada	censusYear	2006
+Washoe County, Nevada	censusYear	2010
+Mineral County, Nevada	censusYear	2000
+Lyon County, Nevada	censusYear	2010
+Lander County, Nevada	censusYear	2000
+Lincoln County, Nevada	censusYear	2000
+Humboldt County, Nevada	censusYear	2010
+Eureka County, Nevada	censusYear	2000
+Esmeralda County, Nevada	censusYear	2009
+Elko County, Nevada	censusYear	2007
+York County, Nebraska	censusYear	2010
+Nye County, Nevada	censusYear	2000
+Webster County, Nebraska	censusYear	2000
+Washington County, Nebraska	censusYear	2010
+Valley County, Nebraska	censusYear	2000
+Thurston County, Nebraska	censusYear	2010
+Thayer County, Nebraska	censusYear	2010
+Stanton County, Nebraska	censusYear	2010
+Sherman County, Nebraska	censusYear	2000
+Sheridan County, Nebraska	censusYear	2010
+Thomas County, Nebraska	censusYear	2000
+Seward County, Nebraska	censusYear	2010
+Scotts Bluff County, Nebraska	censusYear	2010
+Sarpy County, Nebraska	censusYear	2010
+Saunders County, Nebraska	censusYear	2010
+Sioux County, Nebraska	censusYear	2010
+Rock County, Nebraska	censusYear	2010
+Richardson County, Nebraska	censusYear	2010
+Red Willow County, Nebraska	censusYear	2010
+Polk County, Nebraska	censusYear	2010
+Platte County, Nebraska	censusYear	2010
+Pierce County, Nebraska	censusYear	2010
+Perkins County, Nebraska	censusYear	2010
+Pawnee County, Nebraska	censusYear	2010
+Phelps County, Nebraska	censusYear	2010
+Otoe County, Nebraska	censusYear	2010
+Nemaha County, Nebraska	censusYear	2010
+Nuckolls County, Nebraska	censusYear	2010
+Nance County, Nebraska	censusYear	2010
+Morrill County, Nebraska	censusYear	2010
+Merrick County, Nebraska	censusYear	2000
+Madison County, Nebraska	censusYear	2000
+McPherson County, Nebraska	censusYear	2010
+Loup County, Nebraska	censusYear	2000
+Logan County, Nebraska	censusYear	2000
+Saline County, Nebraska	censusYear	2010
+Kimball County, Nebraska	censusYear	2010
+Knox County, Nebraska	censusYear	2010
+Keya Paha County, Nebraska	censusYear	2010
+Keith County, Nebraska	censusYear	2010
+Kearney County, Nebraska	censusYear	2000
+Johnson County, Nebraska	censusYear	2010
+Jefferson County, Nebraska	censusYear	2010
+Howard County, Nebraska	censusYear	2000
+Hooker County, Nebraska	censusYear	2000
+Holt County, Nebraska	censusYear	2010
+Hitchcock County, Nebraska	censusYear	2010
+Lincoln County, Nebraska	censusYear	2010
+Harlan County, Nebraska	censusYear	2010
+Hamilton County, Nebraska	censusYear	2000
+Greeley County, Nebraska	censusYear	2000
+Hall County, Nebraska	censusYear	2010
+Grant County, Nebraska	censusYear	2000
+Gosper County, Nebraska	censusYear	2010
+Garfield County, Nebraska	censusYear	2000
+Gage County, Nebraska	censusYear	2010
+Furnas County, Nebraska	censusYear	2010
+Hayes County, Nebraska	censusYear	2010
+Frontier County, Nebraska	censusYear	2010
+Franklin County, Nebraska	censusYear	2000
+Fillmore County, Nebraska	censusYear	2010
+Dundy County, Nebraska	censusYear	2010
+Douglas County, Nebraska	censusYear	2010
+Dodge County, Nebraska	censusYear	2010
+Dixon County, Nebraska	censusYear	2000
+Deuel County, Nebraska	censusYear	2010
+Garden County, Nebraska	censusYear	2010
+Dawes County, Nebraska	censusYear	2010
+Dakota County, Nebraska	censusYear	2010
+Custer County, Nebraska	censusYear	2000
+Colfax County, Nebraska	censusYear	2010
+Cuming County, Nebraska	censusYear	2010
+Cheyenne County, Nebraska	censusYear	2010
+Cherry County, Nebraska	censusYear	2000
+Chase County, Nebraska	censusYear	2010
+Cass County, Nebraska	censusYear	2010
+Cedar County, Nebraska	censusYear	2010
+Dawson County, Nebraska	censusYear	2010
+Burt County, Nebraska	censusYear	2010
+Brown County, Nebraska	censusYear	2000
+Buffalo County, Nebraska	censusYear	2010
+Box Butte County, Nebraska	censusYear	2000
+Butler County, Nebraska	censusYear	2010
+Boone County, Nebraska	censusYear	2010
+Blaine County, Nebraska	censusYear	2010
+Arthur County, Nebraska	censusYear	2010
+Banner County, Nebraska	censusYear	2010
+Antelope County, Nebraska	censusYear	2010
+Boyd County, Nebraska	censusYear	2010
+Yellowstone County, Montana	censusYear	2010
+Wibaux County, Montana	censusYear	2010
+Treasure County, Montana	censusYear	2010
+Valley County, Montana	censusYear	2010
+Wheatland County, Montana	censusYear	2010
+Toole County, Montana	censusYear	2010
+Sweet Grass County, Montana	censusYear	2010
+Stillwater County, Montana	censusYear	2010
+Teton County, Montana	censusYear	2010
+Silver Bow County, Montana	censusYear	2010
+Sanders County, Montana	censusYear	2010
+Sheridan County, Montana	censusYear	2010
+Rosebud County, Montana	censusYear	2010
+Roosevelt County, Montana	censusYear	2010
+Richland County, Montana	censusYear	2010
+Ravalli County, Montana	censusYear	2010
+Prairie County, Montana	censusYear	2010
+Powell County, Montana	censusYear	2010
+Powder River County, Montana	censusYear	2010
+Pondera County, Montana	censusYear	2010
+Petroleum County, Montana	censusYear	2010
+Phillips County, Montana	censusYear	2010
+Musselshell County, Montana	censusYear	2010
+Park County, Montana	censusYear	2010
+Mineral County, Montana	censusYear	2010
+Meagher County, Montana	censusYear	2010
+Missoula County, Montana	censusYear	2010
+Lincoln County, Montana	censusYear	2010
+Madison County, Montana	censusYear	2010
+Liberty County, Montana	censusYear	2010
+Judith Basin County, Montana	censusYear	2010
+McCone County, Montana	censusYear	2010
+Jefferson County, Montana	censusYear	2010
+Lewis and Clark County, Montana	censusYear	2010
+Lake County, Montana	censusYear	2010
+Worth County, Missouri	censusYear	2010
+Wright County, Missouri	censusYear	2010
+Washington County, Missouri	censusYear	2010
+Warren County, Missouri	censusYear	2008
+Webster County, Missouri	censusYear	2008
+Wayne County, Missouri	censusYear	2008
+Vernon County, Missouri	censusYear	2000
+Sullivan County, Missouri	censusYear	2010
+Texas County, Missouri	censusYear	2008
+Stone County, Missouri	censusYear	2008
+Taney County, Missouri	censusYear	2008
+St. Louis County, Missouri	censusYear	2010
+Saint Francois County, Missouri	censusYear	2010
+Sainte Genevieve County, Missouri	censusYear	2008
+St. Clair County, Missouri	censusYear	2000
+Shelby County, Missouri	censusYear	2010
+Stoddard County, Missouri	censusYear	2008
+Scott County, Missouri	censusYear	2008
+Scotland County, Missouri	censusYear	2010
+Schuyler County, Missouri	censusYear	2010
+Saline County, Missouri	censusYear	2000
+Ripley County, Missouri	censusYear	2008
+Ray County, Missouri	censusYear	2000
+Randolph County, Missouri	censusYear	2008
+Shannon County, Missouri	censusYear	2008
+Ralls County, Missouri	censusYear	2010
+Polk County, Missouri	censusYear	2000
+Platte County, Missouri	censusYear	2007
+Pike County, Missouri	censusYear	2010
+Pulaski County, Missouri	censusYear	2010
+Phelps County, Missouri	censusYear	2008
+Pettis County, Missouri	censusYear	2000
+Reynolds County, Missouri	censusYear	2008
+Pemiscot County, Missouri	censusYear	2008
+Ozark County, Missouri	censusYear	2008
+Osage County, Missouri	censusYear	2000
+Nodaway County, Missouri	censusYear	2010
+Oregon County, Missouri	censusYear	2008
+Newton County, Missouri	censusYear	2000
+Morgan County, Missouri	censusYear	2000
+Moniteau County, Missouri	censusYear	2000
+New Madrid County, Missouri	censusYear	2008
+Perry County, Missouri	censusYear	2008
+Miller County, Missouri	censusYear	2000
+Mississippi County, Missouri	censusYear	2008
+Maries County, Missouri	censusYear	2000
+Marion County, Missouri	censusYear	2010
+Mercer County, Missouri	censusYear	2000
+Macon County, Missouri	censusYear	2010
+Madison County, Missouri	censusYear	2008
+Monroe County, Missouri	censusYear	2010
+McDonald County, Missouri	censusYear	2008
+Livingston County, Missouri	censusYear	2000
+Linn County, Missouri	censusYear	2000
+Lewis County, Missouri	censusYear	2010
+Lawrence County, Missouri	censusYear	2000
+Lincoln County, Missouri	censusYear	2006
+Laclede County, Missouri	censusYear	2000
+Knox County, Missouri	censusYear	2010
+Johnson County, Missouri	censusYear	2010
+Lafayette County, Missouri	censusYear	2000
+Jefferson County, Missouri	censusYear	2010
+Jackson County, Missouri	censusYear	2010
+Jasper County, Missouri	censusYear	2010
+Howell County, Missouri	censusYear	2010
+Iron County, Missouri	censusYear	2008
+Howard County, Missouri	censusYear	2010
+Hickory County, Missouri	censusYear	2000
+Harrison County, Missouri	censusYear	2000
+Holt County, Missouri	censusYear	2000
+Grundy County, Missouri	censusYear	2000
+Gentry County, Missouri	censusYear	2000
+Henry County, Missouri	censusYear	2000
+Gasconade County, Missouri	censusYear	2008
+Dunklin County, Missouri	censusYear	2008
+Greene County, Missouri	censusYear	2010
+Douglas County, Missouri	censusYear	2008
+DeKalb County, Missouri	censusYear	2010
+Dent County, Missouri	censusYear	2008
+Franklin County, Missouri	censusYear	2010
+Daviess County, Missouri	censusYear	2000
+Dade County, Missouri	censusYear	2000
+Dallas County, Missouri	censusYear	2000
+Cole County, Missouri	censusYear	2010
+Cooper County, Missouri	censusYear	2010
+Clark County, Missouri	censusYear	2010
+Chariton County, Missouri	censusYear	2000
+Crawford County, Missouri	censusYear	2008
+Cedar County, Missouri	censusYear	2000
+Cass County, Missouri	censusYear	2008
+Christian County, Missouri	censusYear	2010
+Carroll County, Missouri	censusYear	2000
+Callaway County, Missouri	censusYear	2010
+Carter County, Missouri	censusYear	2008
+Camden County, Missouri	censusYear	2000
+Cape Girardeau County, Missouri	censusYear	2010
+Caldwell County, Missouri	censusYear	2000
+Buchanan County, Missouri	censusYear	2008
+Butler County, Missouri	censusYear	2010
+Benton County, Missouri	censusYear	2000
+Bates County, Missouri	censusYear	2000
+Barton County, Missouri	censusYear	2000
+Bollinger County, Missouri	censusYear	2010
+Barry County, Missouri	censusYear	2000
+Andrew County, Missouri	censusYear	2010
+Atchison County, Missouri	censusYear	2000
+Audrain County, Missouri	censusYear	2010
+Yazoo County, Mississippi	censusYear	2010
+Adair County, Missouri	censusYear	2010
+Winston County, Mississippi	censusYear	2010
+Yalobusha County, Mississippi	censusYear	2010
+Wilkinson County, Mississippi	censusYear	2010
+Webster County, Mississippi	censusYear	2010
+Wayne County, Mississippi	censusYear	2010
+Warren County, Mississippi	censusYear	2010
+Walthall County, Mississippi	censusYear	2010
+Union County, Mississippi	censusYear	2010
+Tunica County, Mississippi	censusYear	2010
+Washington County, Mississippi	censusYear	2010
+Tippah County, Mississippi	censusYear	2010
+Tishomingo County, Mississippi	censusYear	2010
+Tallahatchie County, Mississippi	censusYear	2010
+Tate County, Mississippi	censusYear	2010
+Sunflower County, Mississippi	censusYear	2010
+Stone County, Mississippi	censusYear	2010
+Sharkey County, Mississippi	censusYear	2010
+Smith County, Mississippi	censusYear	2010
+Scott County, Mississippi	censusYear	2010
+Prentiss County, Mississippi	censusYear	2010
+Simpson County, Mississippi	censusYear	2010
+Rankin County, Mississippi	censusYear	2010
+Quitman County, Mississippi	censusYear	2010
+Pike County, Mississippi	censusYear	2010
+Perry County, Mississippi	censusYear	2010
+Pontotoc County, Mississippi	censusYear	2010
+Panola County, Mississippi	censusYear	2010
+Oktibbeha County, Mississippi	censusYear	2010
+Pearl River County, Mississippi	censusYear	2010
+Newton County, Mississippi	censusYear	2010
+Neshoba County, Mississippi	censusYear	2010
+Noxubee County, Mississippi	censusYear	2010
+Monroe County, Mississippi	censusYear	2010
+Marion County, Mississippi	censusYear	2010
+Marshall County, Mississippi	censusYear	2010
+Madison County, Mississippi	censusYear	2010
+Lowndes County, Mississippi	censusYear	2010
+Lincoln County, Mississippi	censusYear	2010
+Leflore County, Mississippi	censusYear	2010
+Lee County, Mississippi	censusYear	2010
+Leake County, Mississippi	censusYear	2010
+Lawrence County, Mississippi	censusYear	2010
+Lamar County, Mississippi	censusYear	2010
+Lauderdale County, Mississippi	censusYear	2010
+Lafayette County, Mississippi	censusYear	2010
+Kemper County, Mississippi	censusYear	2010
+Jones County, Mississippi	censusYear	2010
+Jefferson County, Mississippi	censusYear	2010
+Jefferson Davis County, Mississippi	censusYear	2010
+Jasper County, Mississippi	censusYear	2010
+Itawamba County, Mississippi	censusYear	2010
+Issaquena County, Mississippi	censusYear	2010
+Jackson County, Mississippi	censusYear	2010
+Humphreys County, Mississippi	censusYear	2010
+Harrison County, Mississippi	censusYear	2010
+Hinds County, Mississippi	censusYear	2010
+Holmes County, Mississippi	censusYear	2010
+Grenada County, Mississippi	censusYear	2010
+Greene County, Mississippi	censusYear	2010
+George County, Mississippi	censusYear	2010
+Hancock County, Mississippi	censusYear	2010
+Forrest County, Mississippi	censusYear	2010
+Franklin County, Mississippi	censusYear	2010
+DeSoto County, Mississippi	censusYear	2010
+Covington County, Mississippi	censusYear	2010
+Copiah County, Mississippi	censusYear	2010
+Coahoma County, Mississippi	censusYear	2010
+Clarke County, Mississippi	censusYear	2010
+Choctaw County, Mississippi	censusYear	2010
+Chickasaw County, Mississippi	censusYear	2010
+Claiborne County, Mississippi	censusYear	2010
+Carroll County, Mississippi	censusYear	2010
+Calhoun County, Mississippi	censusYear	2010
+Attala County, Mississippi	censusYear	2010
+Bolivar County, Mississippi	censusYear	2010
+Amite County, Mississippi	censusYear	2010
+Alcorn County, Mississippi	censusYear	2010
+Yellow Medicine County, Minnesota	censusYear	2010
+Benton County, Mississippi	censusYear	2010
+Wright County, Minnesota	censusYear	2010
+Winona County, Minnesota	censusYear	2010
+Wilkin County, Minnesota	censusYear	2010
+Watonwan County, Minnesota	censusYear	2010
+Waseca County, Minnesota	censusYear	2010
+Washington County, Minnesota	censusYear	2010
+Wadena County, Minnesota	censusYear	2010
+Traverse County, Minnesota	censusYear	2010
+Todd County, Minnesota	censusYear	2010
+Wabasha County, Minnesota	censusYear	2010
+Swift County, Minnesota	censusYear	2010
+Steele County, Minnesota	censusYear	2010
+Stevens County, Minnesota	censusYear	2010
+Sibley County, Minnesota	censusYear	2010
+Stearns County, Minnesota	censusYear	2010
+Sherburne County, Minnesota	censusYear	2010
+Scott County, Minnesota	censusYear	2010
+Roseau County, Minnesota	censusYear	2010
+Rock County, Minnesota	censusYear	2010
+St. Louis County, Minnesota	censusYear	2010
+Rice County, Minnesota	censusYear	2010
+Renville County, Minnesota	censusYear	2010
+Redwood County, Minnesota	censusYear	2010
+Red Lake County, Minnesota	censusYear	2010
+Pope County, Minnesota	censusYear	2010
+Ramsey County, Minnesota	censusYear	2010
+Pipestone County, Minnesota	censusYear	2010
+Polk County, Minnesota	censusYear	2010
+Pine County, Minnesota	censusYear	2010
+Pennington County, Minnesota	censusYear	2010
+Olmsted County, Minnesota	censusYear	2010
+Otter Tail County, Minnesota	censusYear	2010
+Norman County, Minnesota	censusYear	2010
+Nicollet County, Minnesota	censusYear	2010
+Murray County, Minnesota	censusYear	2010
+Mower County, Minnesota	censusYear	2010
+Nobles County, Minnesota	censusYear	2010
+Morrison County, Minnesota	censusYear	2010
+Mille Lacs County, Minnesota	censusYear	2010
+Meeker County, Minnesota	censusYear	2010
+Marshall County, Minnesota	censusYear	2010
+Mahnomen County, Minnesota	censusYear	2010
+Martin County, Minnesota	censusYear	2010
+McLeod County, Minnesota	censusYear	2010
+Lyon County, Minnesota	censusYear	2010
+Lincoln County, Minnesota	censusYear	2010
+Lake of the Woods County, Minnesota	censusYear	2010
+Lake County, Minnesota	censusYear	2010
+Lac qui Parle County, Minnesota	censusYear	2010
+Le Sueur County, Minnesota	censusYear	2010
+Koochiching County, Minnesota	censusYear	2010
+Kittson County, Minnesota	censusYear	2010
+Kanabec County, Minnesota	censusYear	2010
+Kandiyohi County, Minnesota	censusYear	2010
+Jackson County, Minnesota	censusYear	2010
+Itasca County, Minnesota	censusYear	2010
+Isanti County, Minnesota	censusYear	2010
+Hubbard County, Minnesota	censusYear	2010
+Houston County, Minnesota	censusYear	2010
+Hennepin County, Minnesota	censusYear	2010
+Grant County, Minnesota	censusYear	2010
+Goodhue County, Minnesota	censusYear	2010
+Freeborn County, Minnesota	censusYear	2010
+Fillmore County, Minnesota	censusYear	2010
+Faribault County, Minnesota	censusYear	2010
+Douglas County, Minnesota	censusYear	2010
+Dodge County, Minnesota	censusYear	2010
+Crow Wing County, Minnesota	censusYear	2010
+Dakota County, Minnesota	censusYear	2010
+Cottonwood County, Minnesota	censusYear	2010
+Cook County, Minnesota	censusYear	2010
+Clearwater County, Minnesota	censusYear	2010
+Chisago County, Minnesota	censusYear	2010
+Chippewa County, Minnesota	censusYear	2010
+Carver County, Minnesota	censusYear	2010
+Cass County, Minnesota	censusYear	2010
+Carlton County, Minnesota	censusYear	2010
+Big Stone County, Minnesota	censusYear	2010
+Blue Earth County, Minnesota	censusYear	2010
+Brown County, Minnesota	censusYear	2010
+Benton County, Minnesota	censusYear	2010
+Beltrami County, Minnesota	censusYear	2010
+Anoka County, Minnesota	censusYear	2010
+Aitkin County, Minnesota	censusYear	2010
+Becker County, Minnesota	censusYear	2010
+Wexford County, Michigan	censusYear	2010
+Van Buren County, Michigan	censusYear	2000
+Washtenaw County, Michigan	censusYear	2010
+Wayne County, Michigan	censusYear	2010
+St. Joseph County, Michigan	censusYear	2000
+Tuscola County, Michigan	censusYear	2010
+Shiawassee County, Michigan	censusYear	2000
+St. Clair County, Michigan	censusYear	2000
+Schoolcraft County, Michigan	censusYear	2000
+Roscommon County, Michigan	censusYear	2000
+Presque Isle County, Michigan	censusYear	2000
+Saginaw County, Michigan	censusYear	2010
+Sanilac County, Michigan	censusYear	2000
+Otsego County, Michigan	censusYear	2000
+Osceola County, Michigan	censusYear	2000
+Ottawa County, Michigan	censusYear	2010
+Oscoda County, Michigan	censusYear	2000
+Ogemaw County, Michigan	censusYear	2000
+Ontonagon County, Michigan	censusYear	2000
+Newaygo County, Michigan	censusYear	2010
+Muskegon County, Michigan	censusYear	2000
+Oceana County, Michigan	censusYear	2000
+Oakland County, Michigan	censusYear	2010
+Montcalm County, Michigan	censusYear	2000
+Montmorency County, Michigan	censusYear	2000
+Missaukee County, Michigan	censusYear	2000
+Midland County, Michigan	censusYear	2000
+Menominee County, Michigan	censusYear	2000
+Mecosta County, Michigan	censusYear	2010
+Mason County, Michigan	censusYear	2010
+Manistee County, Michigan	censusYear	2010
+Marquette County, Michigan	censusYear	2000
+Monroe County, Michigan	censusYear	2010
+Macomb County, Michigan	censusYear	2010
+Mackinac County, Michigan	censusYear	2000
+Luce County, Michigan	censusYear	2000
+Livingston County, Michigan	censusYear	2000
+Lenawee County, Michigan	censusYear	2000
+Leelanau County, Michigan	censusYear	2000
+Lake County, Michigan	censusYear	2000
+Lapeer County, Michigan	censusYear	2000
+Keweenaw County, Michigan	censusYear	2010
+Kalkaska County, Michigan	censusYear	2000
+Isabella County, Michigan	censusYear	2000
+Kent County, Michigan	censusYear	2010
+Kalamazoo County, Michigan	censusYear	2000
+Iosco County, Michigan	censusYear	2000
+Iron County, Michigan	censusYear	2000
+Ionia County, Michigan	censusYear	2000
+Ingham County, Michigan	censusYear	2010
+Houghton County, Michigan	censusYear	2000
+Hillsdale County, Michigan	censusYear	2010
+Huron County, Michigan	censusYear	2000
+Gladwin County, Michigan	censusYear	2000
+Gogebic County, Michigan	censusYear	2010
+Grand Traverse County, Michigan	censusYear	2010
+Gratiot County, Michigan	censusYear	2000
+Eaton County, Michigan	censusYear	2010
+Emmet County, Michigan	censusYear	2000
+Dickinson County, Michigan	censusYear	2000
+Genesee County, Michigan	censusYear	2010
+Delta County, Michigan	censusYear	2000
+Crawford County, Michigan	censusYear	2010
+Clare County, Michigan	censusYear	2000
+Chippewa County, Michigan	censusYear	2000
+Cheboygan County, Michigan	censusYear	2000
+Cass County, Michigan	censusYear	2000
+Calhoun County, Michigan	censusYear	2010
+Branch County, Michigan	censusYear	2010
+Benzie County, Michigan	censusYear	2000
+Charlevoix County, Michigan	censusYear	2000
+Barry County, Michigan	censusYear	2010
+Bay County, Michigan	censusYear	2010
+Baraga County, Michigan	censusYear	2000
+Berrien County, Michigan	censusYear	2000
+Arenac County, Michigan	censusYear	2000
+Allegan County, Michigan	censusYear	2010
+Alpena County, Michigan	censusYear	2010
+Antrim County, Michigan	censusYear	2000
+Alger County, Michigan	censusYear	2000
+Alcona County, Michigan	censusYear	2000
+Clermont County, Ohio	censusYear	2010
+Golden Valley County, Montana	censusYear	2010
+Glacier County, Montana	censusYear	2010
+Granite County, Montana	censusYear	2010
+Flathead County, Montana	censusYear	2010
+Gallatin County, Montana	censusYear	2010
+Fergus County, Montana	censusYear	2010
+Fallon County, Montana	censusYear	2010
+Deer Lodge County, Montana	censusYear	2010
+Dawson County, Montana	censusYear	2010
+Custer County, Montana	censusYear	2010
+Daniels County, Montana	censusYear	2010
+Carter County, Montana	censusYear	2010
+Garfield County, Montana	censusYear	2010
+Cascade County, Montana	censusYear	2010
+Broadwater County, Montana	censusYear	2010
+Carbon County, Montana	censusYear	2010
+Blaine County, Montana	censusYear	2010
+Chouteau County, Montana	censusYear	2010
+Beaverhead County, Montana	censusYear	2010
+Big Horn County, Montana	censusYear	2010
+Washington County, Maine	censusYear	2010
+Waldo County, Maine	censusYear	2010
+Sagadahoc County, Maine	censusYear	2010
+York County, Maine	censusYear	2010
+Piscataquis County, Maine	censusYear	2010
+Somerset County, Maine	censusYear	2010
+Penobscot County, Maine	censusYear	2010
+Lincoln County, Maine	censusYear	2010
+Knox County, Maine	censusYear	2010
+Oxford County, Maine	censusYear	2010
+Kennebec County, Maine	censusYear	2010
+Hancock County, Maine	censusYear	2010
+Franklin County, Maine	censusYear	2010
+Androscoggin County, Maine	censusYear	2010
+Aroostook County, Maine	censusYear	2010
+Woodford County, Kentucky	censusYear	2000
+Cumberland County, Maine	censusYear	2010
+Wolfe County, Kentucky	censusYear	2010
+Webster County, Kentucky	censusYear	2000
+Washington County, Kentucky	censusYear	2000
+Wayne County, Kentucky	censusYear	2000
+Union County, Kentucky	censusYear	2000
+Warren County, Kentucky	censusYear	2010
+Trigg County, Kentucky	censusYear	2000
+Trimble County, Kentucky	censusYear	2000
+Todd County, Kentucky	censusYear	2000
+Whitley County, Kentucky	censusYear	2000
+Taylor County, Kentucky	censusYear	2000
+Spencer County, Kentucky	censusYear	2010
+Simpson County, Kentucky	censusYear	2000
+Russell County, Kentucky	censusYear	2010
+Rowan County, Kentucky	censusYear	2000
+Rockcastle County, Kentucky	censusYear	2000
+Robertson County, Kentucky	censusYear	2000
+Powell County, Kentucky	censusYear	2000
+Pulaski County, Kentucky	censusYear	2010
+Scott County, Kentucky	censusYear	2010
+Pendleton County, Kentucky	censusYear	2000
+Pike County, Kentucky	censusYear	2010
+Owsley County, Kentucky	censusYear	2000
+Owen County, Kentucky	censusYear	2000
+Oldham County, Kentucky	censusYear	2010
+Ohio County, Kentucky	censusYear	2000
+Nicholas County, Kentucky	censusYear	2000
+Nelson County, Kentucky	censusYear	2010
+Perry County, Kentucky	censusYear	2010
+Muhlenberg County, Kentucky	censusYear	2000
+Monroe County, Kentucky	censusYear	2000
+Metcalfe County, Kentucky	censusYear	2000
+Morgan County, Kentucky	censusYear	2000
+Mercer County, Kentucky	censusYear	2000
+Menifee County, Kentucky	censusYear	2000
+McLean County, Kentucky	censusYear	2000
+Mason County, Kentucky	censusYear	2000
+McCreary County, Kentucky	censusYear	2000
+Meade County, Kentucky	censusYear	2000
+Marshall County, Kentucky	censusYear	2000
+Marion County, Kentucky	censusYear	2000
+Lyon County, Kentucky	censusYear	2000
+Madison County, Kentucky	censusYear	2008
+Magoffin County, Kentucky	censusYear	2000
+Logan County, Kentucky	censusYear	2000
+Livingston County, Kentucky	censusYear	2000
+Lincoln County, Kentucky	censusYear	2010
+Lewis County, Kentucky	censusYear	2000
+Letcher County, Kentucky	censusYear	2000
+Martin County, Kentucky	censusYear	2000
+Leslie County, Kentucky	censusYear	2000
+Lee County, Kentucky	censusYear	2000
+Lawrence County, Kentucky	censusYear	2000
+Laurel County, Kentucky	censusYear	2000
+Knott County, Kentucky	censusYear	2000
+LaRue County, Kentucky	censusYear	2000
+Kenton County, Kentucky	censusYear	2010
+Jessamine County, Kentucky	censusYear	2010
+Jefferson County, Kentucky	censusYear	2010
+Jackson County, Kentucky	censusYear	2000
+Hopkins County, Kentucky	censusYear	2000
+Hickman County, Kentucky	censusYear	2000
+Henry County, Kentucky	censusYear	2000
+Hart County, Kentucky	censusYear	2000
+Henderson County, Kentucky	censusYear	2000
+Harrison County, Kentucky	censusYear	2000
+Johnson County, Kentucky	censusYear	2000
+Hardin County, Kentucky	censusYear	2007
+Hancock County, Kentucky	censusYear	2000
+Greenup County, Kentucky	censusYear	2000
+Harlan County, Kentucky	censusYear	2010
+Green County, Kentucky	censusYear	2000
+Grayson County, Kentucky	censusYear	2000
+Grant County, Kentucky	censusYear	2000
+Graves County, Kentucky	censusYear	2000
+Garrard County, Kentucky	censusYear	2010
+Fulton County, Kentucky	censusYear	2000
+Gallatin County, Kentucky	censusYear	2000
+Franklin County, Kentucky	censusYear	2000
+Fleming County, Kentucky	censusYear	2000
+Floyd County, Kentucky	censusYear	2000
+Estill County, Kentucky	censusYear	2000
+Elliott County, Kentucky	censusYear	2000
+Fayette County, Kentucky	censusYear	2010
+Edmonson County, Kentucky	censusYear	2000
+Daviess County, Kentucky	censusYear	2007
+Cumberland County, Kentucky	censusYear	2000
+Clark County, Kentucky	censusYear	2010
+Crittenden County, Kentucky	censusYear	2000
+Christian County, Kentucky	censusYear	2000
+Casey County, Kentucky	censusYear	2010
+Carroll County, Kentucky	censusYear	2000
+Carter County, Kentucky	censusYear	2000
+Carlisle County, Kentucky	censusYear	2000
+Campbell County, Kentucky	censusYear	2010
+Caldwell County, Kentucky	censusYear	2000
+Butler County, Kentucky	censusYear	2000
+Calloway County, Kentucky	censusYear	2010
+Bullitt County, Kentucky	censusYear	2010
+Breckinridge County, Kentucky	censusYear	2010
+Breathitt County, Kentucky	censusYear	2010
+Bracken County, Kentucky	censusYear	2010
+Boone County, Kentucky	censusYear	2010
+Bell County, Kentucky	censusYear	2010
+Bourbon County, Kentucky	censusYear	2010
+Boyle County, Kentucky	censusYear	2000
+Bath County, Kentucky	censusYear	2010
+Barren County, Kentucky	censusYear	2010
+Ballard County, Kentucky	censusYear	2010
+Allen County, Kentucky	censusYear	2010
+Anderson County, Kentucky	censusYear	2010
+Wyandotte County, Kansas	censusYear	2010
+Adair County, Kentucky	censusYear	2010
+Woodson County, Kansas	censusYear	2010
+Wilson County, Kansas	censusYear	2010
+Wichita County, Kansas	censusYear	2010
+Wallace County, Kansas	censusYear	2010
+Washington County, Kansas	censusYear	2010
+Wabaunsee County, Kansas	censusYear	2010
+Trego County, Kansas	censusYear	2010
+Thomas County, Kansas	censusYear	2010
+Stanton County, Kansas	censusYear	2010
+Sumner County, Kansas	censusYear	2010
+Stafford County, Kansas	censusYear	2010
+Stevens County, Kansas	censusYear	2010
+Smith County, Kansas	censusYear	2010
+Sheridan County, Kansas	censusYear	2010
+Sherman County, Kansas	censusYear	2010
+Shawnee County, Kansas	censusYear	2010
+Seward County, Kansas	censusYear	2010
+Scott County, Kansas	censusYear	2010
+Sedgwick County, Kansas	censusYear	2010
+Saline County, Kansas	censusYear	2010
+Rush County, Kansas	censusYear	2010
+Russell County, Kansas	censusYear	2010
+Rooks County, Kansas	censusYear	2010
+Riley County, Kansas	censusYear	2010
+Republic County, Kansas	censusYear	2010
+Rice County, Kansas	censusYear	2010
+Reno County, Kansas	censusYear	2010
+Rawlins County, Kansas	censusYear	2010
+Pratt County, Kansas	censusYear	2010
+Pawnee County, Kansas	censusYear	2010
+Pottawatomie County, Kansas	censusYear	2010
+Phillips County, Kansas	censusYear	2010
+Norton County, Kansas	censusYear	2010
+Osage County, Kansas	censusYear	2010
+Osborne County, Kansas	censusYear	2010
+Ottawa County, Kansas	censusYear	2010
+Ness County, Kansas	censusYear	2010
+Neosho County, Kansas	censusYear	2010
+Morton County, Kansas	censusYear	2010
+Nemaha County, Kansas	censusYear	2010
+Morris County, Kansas	censusYear	2010
+Mitchell County, Kansas	censusYear	2010
+Meade County, Kansas	censusYear	2010
+Miami County, Kansas	censusYear	2010
+Marshall County, Kansas	censusYear	2010
+McPherson County, Kansas	censusYear	2010
+Lyon County, Kansas	censusYear	2010
+Marion County, Kansas	censusYear	2010
+Logan County, Kansas	censusYear	2010
+Linn County, Kansas	censusYear	2010
+Lincoln County, Kansas	censusYear	2010
+Lane County, Kansas	censusYear	2010
+Leavenworth County, Kansas	censusYear	2010
+Labette County, Kansas	censusYear	2010
+Kingman County, Kansas	censusYear	2010
+Johnson County, Kansas	censusYear	2010
+Kearny County, Kansas	censusYear	2010
+Kiowa County, Kansas	censusYear	2010
+Jewell County, Kansas	censusYear	2010
+Jefferson County, Kansas	censusYear	2010
+Hodgeman County, Kansas	censusYear	2010
+Haskell County, Kansas	censusYear	2010
+Harvey County, Kansas	censusYear	2010
+Jackson County, Kansas	censusYear	2010
+Hamilton County, Kansas	censusYear	2010
+Harper County, Kansas	censusYear	2010
+Greenwood County, Kansas	censusYear	2010
+Greeley County, Kansas	censusYear	2010
+Gray County, Kansas	censusYear	2010
+Grant County, Kansas	censusYear	2010
+Graham County, Kansas	censusYear	2010
+Gove County, Kansas	censusYear	2010
+Geary County, Kansas	censusYear	2010
+Franklin County, Kansas	censusYear	2010
+Ford County, Kansas	censusYear	2010
+Finney County, Kansas	censusYear	2010
+Ellsworth County, Kansas	censusYear	2010
+Elk County, Kansas	censusYear	2010
+Edwards County, Kansas	censusYear	2010
+Ellis County, Kansas	censusYear	2010
+Douglas County, Kansas	censusYear	2010
+Doniphan County, Kansas	censusYear	2010
+Decatur County, Kansas	censusYear	2010
+Crawford County, Kansas	censusYear	2010
+Dickinson County, Kansas	censusYear	2010
+Cowley County, Kansas	censusYear	2010
+Comanche County, Kansas	censusYear	2010
+Coffey County, Kansas	censusYear	2010
+Clark County, Kansas	censusYear	2010
+Cloud County, Kansas	censusYear	2010
+Cheyenne County, Kansas	censusYear	2010
+Cherokee County, Kansas	censusYear	2010
+Chautauqua County, Kansas	censusYear	2010
+Chase County, Kansas	censusYear	2010
+Brown County, Kansas	censusYear	2010
+Butler County, Kansas	censusYear	2010
+Bourbon County, Kansas	censusYear	2010
+Barber County, Kansas	censusYear	2010
+Atchison County, Kansas	censusYear	2010
+Barton County, Kansas	censusYear	2010
+Anderson County, Kansas	censusYear	2010
+Allen County, Kansas	censusYear	2010
+Wright County, Iowa	censusYear	2010
+Worth County, Iowa	censusYear	2010
+Winnebago County, Iowa	censusYear	2010
+Winneshiek County, Iowa	censusYear	2010
+Woodbury County, Iowa	censusYear	2010
+Webster County, Iowa	censusYear	2010
+Washington County, Iowa	censusYear	2010
+Wayne County, Iowa	censusYear	2010
+Van Buren County, Iowa	censusYear	2010
+Union County, Iowa	censusYear	2010
+Warren County, Iowa	censusYear	2010
+Wapello County, Iowa	censusYear	2010
+Taylor County, Iowa	censusYear	2010
+Tama County, Iowa	censusYear	2010
+Story County, Iowa	censusYear	2010
+Sioux County, Iowa	censusYear	2010
+Sac County, Iowa	censusYear	2010
+Scott County, Iowa	censusYear	2010
+Polk County, Iowa	censusYear	2010
+Pottawattamie County, Iowa	censusYear	2010
+Ringgold County, Iowa	censusYear	2010
+Pocahontas County, Iowa	censusYear	2010
+Palo Alto County, Iowa	censusYear	2010
+Plymouth County, Iowa	censusYear	2010
+Osceola County, Iowa	censusYear	2010
+Page County, Iowa	censusYear	2010
+O'Brien County, Iowa	censusYear	2010
+Muscatine County, Iowa	censusYear	2010
+Monroe County, Iowa	censusYear	2010
+Monona County, Iowa	censusYear	2010
+Mitchell County, Iowa	censusYear	2010
+Mills County, Iowa	censusYear	2010
+Marshall County, Iowa	censusYear	2010
+Marion County, Iowa	censusYear	2010
+Mahaska County, Iowa	censusYear	2010
+Madison County, Iowa	censusYear	2010
+Lyon County, Iowa	censusYear	2010
+Lucas County, Iowa	censusYear	2010
+Louisa County, Iowa	censusYear	2010
+Linn County, Iowa	censusYear	2010
+Lee County, Iowa	censusYear	2010
+Kossuth County, Iowa	censusYear	2010
+Keokuk County, Iowa	censusYear	2010
+Jones County, Iowa	censusYear	2010
+Jasper County, Iowa	censusYear	2010
+Johnson County, Iowa	censusYear	2010
+Jefferson County, Iowa	censusYear	2010
+Iowa County, Iowa	censusYear	2010
+Jackson County, Iowa	censusYear	2010
+Ida County, Iowa	censusYear	2010
+Humboldt County, Iowa	censusYear	2010
+Howard County, Iowa	censusYear	2010
+Henry County, Iowa	censusYear	2010
+Harrison County, Iowa	censusYear	2010
+Hamilton County, Iowa	censusYear	2010
+Hancock County, Iowa	censusYear	2010
+Hardin County, Iowa	censusYear	2010
+Guthrie County, Iowa	censusYear	2010
+Greene County, Iowa	censusYear	2010
+Grundy County, Iowa	censusYear	2010
+Franklin County, Iowa	censusYear	2010
+Fremont County, Iowa	censusYear	2010
+Floyd County, Iowa	censusYear	2010
+Fayette County, Iowa	censusYear	2010
+Emmet County, Iowa	censusYear	2010
+Dickinson County, Iowa	censusYear	2010
+Des Moines County, Iowa	censusYear	2010
+Dubuque County, Iowa	censusYear	2010
+Delaware County, Iowa	censusYear	2010
+Decatur County, Iowa	censusYear	2010
+Davis County, Iowa	censusYear	2010
+Dallas County, Iowa	censusYear	2010
+Crawford County, Iowa	censusYear	2010
+Clayton County, Iowa	censusYear	2010
+Clarke County, Iowa	censusYear	2010
+Chickasaw County, Iowa	censusYear	2010
+Cerro Gordo County, Iowa	censusYear	2010
+Cherokee County, Iowa	censusYear	2010
+Cedar County, Iowa	censusYear	2010
+Cass County, Iowa	censusYear	2010
+Carroll County, Iowa	censusYear	2010
+Calhoun County, Iowa	censusYear	2010
+Buena Vista County, Iowa	censusYear	2010
+Buchanan County, Iowa	censusYear	2010
+Boone County, Iowa	censusYear	2010
+Bremer County, Iowa	censusYear	2010
+Benton County, Iowa	censusYear	2010
+Butler County, Iowa	censusYear	2010
+Audubon County, Iowa	censusYear	2010
+Appanoose County, Iowa	censusYear	2010
+Adair County, Iowa	censusYear	2010
+Allamakee County, Iowa	censusYear	2010
+Whitley County, Indiana	censusYear	2010
+White County, Indiana	censusYear	2010
+Wells County, Indiana	censusYear	2010
+Washington County, Indiana	censusYear	2000
+Wayne County, Indiana	censusYear	2010
+Warrick County, Indiana	censusYear	2000
+Wabash County, Indiana	censusYear	2000
+Vigo County, Indiana	censusYear	2010
+Warren County, Indiana	censusYear	2010
+Vanderburgh County, Indiana	censusYear	2010
+Union County, Indiana	censusYear	2000
+Vermillion County, Indiana	censusYear	2010
+Tippecanoe County, Indiana	censusYear	2010
+Tipton County, Indiana	censusYear	2010
+Switzerland County, Indiana	censusYear	2010
+Steuben County, Indiana	censusYear	2010
+St. Joseph County, Indiana	censusYear	2010
+Starke County, Indiana	censusYear	2010
+Spencer County, Indiana	censusYear	2010
+Rush County, Indiana	censusYear	2010
+Shelby County, Indiana	censusYear	2010
+Scott County, Indiana	censusYear	2010
+Sullivan County, Indiana	censusYear	2000
+Ripley County, Indiana	censusYear	2010
+Randolph County, Indiana	censusYear	2010
+Posey County, Indiana	censusYear	2010
+Pulaski County, Indiana	censusYear	2010
+Pike County, Indiana	censusYear	2010
+Porter County, Indiana	censusYear	2010
+Owen County, Indiana	censusYear	2010
+Perry County, Indiana	censusYear	2010
+Parke County, Indiana	censusYear	2010
+Orange County, Indiana	censusYear	2010
+Ohio County, Indiana	censusYear	2010
+Newton County, Indiana	censusYear	2010
+Noble County, Indiana	censusYear	2010
+Monroe County, Indiana	censusYear	2010
+Morgan County, Indiana	censusYear	2010
+Martin County, Indiana	censusYear	2010
+Marshall County, Indiana	censusYear	2010
+Miami County, Indiana	censusYear	2010
+Lawrence County, Indiana	censusYear	2010
+Marion County, Indiana	censusYear	2010
+Madison County, Indiana	censusYear	2010
+LaPorte County, Indiana	censusYear	2010
+Knox County, Indiana	censusYear	2010
+LaGrange County, Indiana	censusYear	2010
+Lake County, Indiana	censusYear	2010
+Kosciusko County, Indiana	censusYear	2010
+Johnson County, Indiana	censusYear	2010
+Jay County, Indiana	censusYear	2010
+Jennings County, Indiana	censusYear	2010
+Jefferson County, Indiana	censusYear	2010
+Jasper County, Indiana	censusYear	2010
+Howard County, Indiana	censusYear	2010
+Huntington County, Indiana	censusYear	2010
+Henry County, Indiana	censusYear	2010
+Hendricks County, Indiana	censusYear	2010
+Hancock County, Indiana	censusYear	2010
+Hamilton County, Indiana	censusYear	2010
+Jackson County, Indiana	censusYear	2010
+Greene County, Indiana	censusYear	2010
+Grant County, Indiana	censusYear	2010
+Harrison County, Indiana	censusYear	2010
+Fulton County, Indiana	censusYear	2010
+Franklin County, Indiana	censusYear	2010
+Gibson County, Indiana	censusYear	2010
+Fayette County, Indiana	censusYear	2010
+Floyd County, Indiana	censusYear	2010
+Fountain County, Indiana	censusYear	2010
+Dubois County, Indiana	censusYear	2010
+Elkhart County, Indiana	censusYear	2010
+Delaware County, Indiana	censusYear	2010
+Decatur County, Indiana	censusYear	2010
+Dearborn County, Indiana	censusYear	2010
+Daviess County, Indiana	censusYear	2010
+Crawford County, Indiana	censusYear	2010
+Clark County, Indiana	censusYear	2010
+Cass County, Indiana	censusYear	2010
+Brown County, Indiana	censusYear	2010
+Carroll County, Indiana	censusYear	2010
+Boone County, Indiana	censusYear	2010
+Benton County, Indiana	censusYear	2010
+Bartholomew County, Indiana	censusYear	2010
+Allen County, Indiana	censusYear	2010
+Blackford County, Indiana	censusYear	2010
+Woodford County, Illinois	censusYear	2000
+Winnebago County, Illinois	censusYear	2010
+Williamson County, Illinois	censusYear	2000
+Whiteside County, Illinois	censusYear	2008
+Wayne County, Illinois	censusYear	2010
+Washington County, Illinois	censusYear	2000
+Wabash County, Illinois	censusYear	2000
+Warren County, Illinois	censusYear	2000
+White County, Illinois	censusYear	2010
+Tazewell County, Illinois	censusYear	2000
+Vermilion County, Illinois	censusYear	2000
+Union County, Illinois	censusYear	2000
+Stephenson County, Illinois	censusYear	2010
+Stark County, Illinois	censusYear	2000
+Scott County, Illinois	censusYear	2000
+St. Clair County, Illinois	censusYear	2010
+Shelby County, Illinois	censusYear	2000
+Schuyler County, Illinois	censusYear	2000
+Sangamon County, Illinois	censusYear	2010
+Saline County, Illinois	censusYear	2010
+Richland County, Illinois	censusYear	2000
+Rock Island County, Illinois	censusYear	2010
+Randolph County, Illinois	censusYear	2000
+Pulaski County, Illinois	censusYear	2000
+Pope County, Illinois	censusYear	2000
+Piatt County, Illinois	censusYear	2007
+Pike County, Illinois	censusYear	2000
+Perry County, Illinois	censusYear	2000
+Moultrie County, Illinois	censusYear	2000
+Morgan County, Illinois	censusYear	2000
+Ogle County, Illinois	censusYear	2000
+Peoria County, Illinois	censusYear	2000
+Mercer County, Illinois	censusYear	2008
+Monroe County, Illinois	censusYear	2006
+Menard County, Illinois	censusYear	2000
+McLean County, Illinois	censusYear	2010
+Massac County, Illinois	censusYear	2000
+McDonough County, Illinois	censusYear	2000
+McHenry County, Illinois	censusYear	2010
+Mason County, Illinois	censusYear	2000
+Marshall County, Illinois	censusYear	2000
+Macon County, Illinois	censusYear	2000
+Marion County, Illinois	censusYear	2000
+Macoupin County, Illinois	censusYear	2000
+Madison County, Illinois	censusYear	2006
+Logan County, Illinois	censusYear	2000
+Livingston County, Illinois	censusYear	2000
+Lee County, Illinois	censusYear	2000
+Lawrence County, Illinois	censusYear	2000
+Knox County, Illinois	censusYear	2000
+LaSalle County, Illinois	censusYear	2000
+Kendall County, Illinois	censusYear	2010
+Lake County, Illinois	censusYear	2010
+Kankakee County, Illinois	censusYear	2000
+Johnson County, Illinois	censusYear	2000
+Jo Daviess County, Illinois	censusYear	2000
+Jefferson County, Illinois	censusYear	2010
+Jersey County, Illinois	censusYear	2010
+Kane County, Illinois	censusYear	2010
+Jasper County, Illinois	censusYear	2000
+Jackson County, Illinois	censusYear	2007
+Henderson County, Illinois	censusYear	2000
+Iroquois County, Illinois	censusYear	2000
+Henry County, Illinois	censusYear	2008
+Hardin County, Illinois	censusYear	2000
+Hamilton County, Illinois	censusYear	2000
+Hancock County, Illinois	censusYear	2000
+Greene County, Illinois	censusYear	2000
+Grundy County, Illinois	censusYear	2010
+Gallatin County, Illinois	censusYear	2000
+Fulton County, Illinois	censusYear	2000
+Ford County, Illinois	censusYear	2000
+Franklin County, Illinois	censusYear	2010
+Fayette County, Illinois	censusYear	2000
+Effingham County, Illinois	censusYear	2000
+Douglas County, Illinois	censusYear	2000
+Edgar County, Illinois	censusYear	2000
+Cumberland County, Illinois	censusYear	2000
+DeKalb County, Illinois	censusYear	2000
+Edwards County, Illinois	censusYear	2010
+DuPage County, Illinois	censusYear	2008
+Crawford County, Illinois	censusYear	2000
+Coles County, Illinois	censusYear	2000
+Clark County, Illinois	censusYear	2000
+Christian County, Illinois	censusYear	2000
+Cass County, Illinois	censusYear	2000
+Carroll County, Illinois	censusYear	2000
+Calhoun County, Illinois	censusYear	2000
+Brown County, Illinois	censusYear	2000
+Bureau County, Illinois	censusYear	2010
+Alexander County, Illinois	censusYear	2010
+Bond County, Illinois	censusYear	2000
+Washington County, Idaho	censusYear	2000
+Boone County, Illinois	censusYear	2010
+Teton County, Idaho	censusYear	2000
+Twin Falls County, Idaho	censusYear	2000
+Valley County, Idaho	censusYear	2000
+Power County, Idaho	censusYear	2000
+Shoshone County, Idaho	censusYear	2000
+Payette County, Idaho	censusYear	2000
+Owyhee County, Idaho	censusYear	2000
+Oneida County, Idaho	censusYear	2000
+Minidoka County, Idaho	censusYear	2000
+Madison County, Idaho	censusYear	2000
+Lincoln County, Idaho	censusYear	2000
+Lewis County, Idaho	censusYear	2000
+Lemhi County, Idaho	censusYear	2000
+Kootenai County, Idaho	censusYear	2000
+Latah County, Idaho	censusYear	2000
+Jefferson County, Idaho	censusYear	2000
+Jerome County, Idaho	censusYear	2000
+Gooding County, Idaho	censusYear	2000
+Fremont County, Idaho	censusYear	2000
+Gem County, Idaho	censusYear	2000
+Idaho County, Idaho	censusYear	2000
+Franklin County, Idaho	censusYear	2000
+Custer County, Idaho	censusYear	2000
+Elmore County, Idaho	censusYear	2000
+Clearwater County, Idaho	censusYear	2000
+Clark County, Idaho	censusYear	2000
+Caribou County, Idaho	censusYear	2000
+Cassia County, Idaho	censusYear	2010
+Camas County, Idaho	censusYear	2000
+Canyon County, Idaho	censusYear	2010
+Boundary County, Idaho	censusYear	2000
+Butte County, Idaho	censusYear	2010
+Bonner County, Idaho	censusYear	2010
+Bonneville County, Idaho	censusYear	2010
+Boise County, Idaho	censusYear	2000
+Blaine County, Idaho	censusYear	2000
+Bingham County, Idaho	censusYear	2000
+Benewah County, Idaho	censusYear	2000
+Bear Lake County, Idaho	censusYear	2000
+Ada County, Idaho	censusYear	2010
+Bannock County, Idaho	censusYear	2000
+Wilkinson County, Georgia	censusYear	2005
+Worth County, Georgia	censusYear	2005
+Whitfield County, Georgia	censusYear	2000
+Wilcox County, Georgia	censusYear	2000
+Wilkes County, Georgia	censusYear	2005
+White County, Georgia	censusYear	2000
+Wheeler County, Georgia	censusYear	2000
+Webster County, Georgia	censusYear	2000
+Wayne County, Georgia	censusYear	2000
+Washington County, Georgia	censusYear	2000
+Ware County, Georgia	censusYear	2000
+Walker County, Georgia	censusYear	2000
+Walton County, Georgia	censusYear	2006
+Upson County, Georgia	censusYear	2000
+Warren County, Georgia	censusYear	2000
+Union County, Georgia	censusYear	2000
+Troup County, Georgia	censusYear	2000
+Turner County, Georgia	censusYear	2009
+Twiggs County, Georgia	censusYear	2000
+Towns County, Georgia	censusYear	2000
+Treutlen County, Georgia	censusYear	2000
+Toombs County, Georgia	censusYear	2000
+Tift County, Georgia	censusYear	2005
+Terrell County, Georgia	censusYear	2000
+Thomas County, Georgia	censusYear	2000
+Tattnall County, Georgia	censusYear	2000
+Taliaferro County, Georgia	censusYear	2000
+Telfair County, Georgia	censusYear	2000
+Taylor County, Georgia	censusYear	2000
+Talbot County, Georgia	censusYear	2000
+Stewart County, Georgia	censusYear	2000
+Sumter County, Georgia	censusYear	2000
+Spalding County, Georgia	censusYear	2006
+Stephens County, Georgia	censusYear	2000
+Seminole County, Georgia	censusYear	2000
+Screven County, Georgia	censusYear	2000
+Schley County, Georgia	censusYear	2000
+Rockdale County, Georgia	censusYear	2009
+Richmond County, Georgia	censusYear	2010
+Randolph County, Georgia	censusYear	2000
+Quitman County, Georgia	censusYear	2000
+Pulaski County, Georgia	censusYear	2000
+Rabun County, Georgia	censusYear	2000
+Pike County, Georgia	censusYear	2006
+Polk County, Georgia	censusYear	2000
+Pierce County, Georgia	censusYear	2004
+Peach County, Georgia	censusYear	2007
+Pickens County, Georgia	censusYear	2006
+Paulding County, Georgia	censusYear	2006
+Oglethorpe County, Georgia	censusYear	2007
+Newton County, Georgia	censusYear	2006
+Muscogee County, Georgia	censusYear	2009
+Morgan County, Georgia	censusYear	2005
+Murray County, Georgia	censusYear	2007
+Monroe County, Georgia	censusYear	2007
+Miller County, Georgia	censusYear	2007
+Mitchell County, Georgia	censusYear	2007
+Meriwether County, Georgia	censusYear	2006
+McDuffie County, Georgia	censusYear	2007
+McIntosh County, Georgia	censusYear	2010
+Marion County, Georgia	censusYear	2005
+Madison County, Georgia	censusYear	2005
+Lumpkin County, Georgia	censusYear	2010
+Macon County, Georgia	censusYear	2005
+Lowndes County, Georgia	censusYear	2010
+Oconee County, Georgia	censusYear	2007
+Long County, Georgia	censusYear	2005
+Lincoln County, Georgia	censusYear	2005
+Liberty County, Georgia	censusYear	2005
+Laurens County, Georgia	censusYear	2005
+Lamar County, Georgia	censusYear	2006
+Lanier County, Georgia	censusYear	2005
+Jones County, Georgia	censusYear	2005
+Johnson County, Georgia	censusYear	2005
+Jefferson County, Georgia	censusYear	2005
+Lee County, Georgia	censusYear	2005
+Jeff Davis County, Georgia	censusYear	2005
+Jasper County, Georgia	censusYear	2006
+Jackson County, Georgia	censusYear	2000
+Irwin County, Georgia	censusYear	2005
+Houston County, Georgia	censusYear	2007
+Henry County, Georgia	censusYear	2009
+Heard County, Georgia	censusYear	2006
+Hart County, Georgia	censusYear	2005
+Haralson County, Georgia	censusYear	2006
+Hancock County, Georgia	censusYear	2005
+Jenkins County, Georgia	censusYear	2005
+Hall County, Georgia	censusYear	2010
+Greene County, Georgia	censusYear	2005
+Habersham County, Georgia	censusYear	2005
+Grady County, Georgia	censusYear	2009
+Gordon County, Georgia	censusYear	2005
+Glynn County, Georgia	censusYear	2005
+Glascock County, Georgia	censusYear	2005
+Gilmer County, Georgia	censusYear	2009
+Harris County, Georgia	censusYear	2005
+Forsyth County, Georgia	censusYear	2009
+Fayette County, Georgia	censusYear	2006
+Floyd County, Georgia	censusYear	2005
+Gwinnett County, Georgia	censusYear	2010
+Fannin County, Georgia	censusYear	2005
+Emanuel County, Georgia	censusYear	2005
+Elbert County, Georgia	censusYear	2005
+Effingham County, Georgia	censusYear	2008
+Early County, Georgia	censusYear	2005
+Evans County, Georgia	censusYear	2007
+Echols County, Georgia	censusYear	2005
+Douglas County, Georgia	censusYear	2006
+Dougherty County, Georgia	censusYear	2005
+Dooly County, Georgia	censusYear	2005
+Dodge County, Georgia	censusYear	2005
+Decatur County, Georgia	censusYear	2005
+Dawson County, Georgia	censusYear	2006
+Fulton County, Georgia	censusYear	2009
+Crisp County, Georgia	censusYear	2005
+Crawford County, Georgia	censusYear	2005
+Dade County, Georgia	censusYear	2005
+Coweta County, Georgia	censusYear	2006
+DeKalb County, Georgia	censusYear	2010
+Colquitt County, Georgia	censusYear	2006
+Columbia County, Georgia	censusYear	2010
+Cook County, Georgia	censusYear	2006
+Coffee County, Georgia	censusYear	2007
+Cobb County, Georgia	censusYear	2009
+Clinch County, Georgia	censusYear	2006
+Clarke County, Georgia	censusYear	2006
+Cherokee County, Georgia	censusYear	2009
+Chattooga County, Georgia	censusYear	2006
+Clayton County, Georgia	censusYear	2008
+Chattahoochee County, Georgia	censusYear	2006
+Catoosa County, Georgia	censusYear	2006
+Charlton County, Georgia	censusYear	2006
+Candler County, Georgia	censusYear	2006
+Chatham County, Georgia	censusYear	2010
+Calhoun County, Georgia	censusYear	2006
+Camden County, Georgia	censusYear	2006
+Carroll County, Georgia	censusYear	2009
+Bryan County, Georgia	censusYear	2006
+Butts County, Georgia	censusYear	2006
+Brooks County, Georgia	censusYear	2006
+Burke County, Georgia	censusYear	2006
+Bulloch County, Georgia	censusYear	2008
+Brantley County, Georgia	censusYear	2006
+Ben Hill County, Georgia	censusYear	2006
+Berrien County, Georgia	censusYear	2006
+Bibb County, Georgia	censusYear	2006
+Bartow County, Georgia	censusYear	2010
+Barrow County, Georgia	censusYear	2006
+Baker County, Georgia	censusYear	2006
+Banks County, Georgia	censusYear	2006
+Bleckley County, Georgia	censusYear	2006
+Bacon County, Georgia	censusYear	2006
+Atkinson County, Georgia	censusYear	2006
+Appling County, Georgia	censusYear	2006
+Baldwin County, Georgia	censusYear	2006
+Yuma County, Colorado	censusYear	2000
+Washington County, Colorado	censusYear	2000
+Teller County, Colorado	censusYear	2000
+Weld County, Colorado	censusYear	2000
+Summit County, Colorado	censusYear	2000
+San Miguel County, Colorado	censusYear	2000
+San Juan County, Colorado	censusYear	2000
+Sedgwick County, Colorado	censusYear	2000
+Routt County, Colorado	censusYear	2000
+Saguache County, Colorado	censusYear	2000
+Rio Blanco County, Colorado	censusYear	2000
+Prowers County, Colorado	censusYear	2000
+Rio Grande County, Colorado	censusYear	2000
+Pitkin County, Colorado	censusYear	2010
+Phillips County, Colorado	censusYear	2000
+Pueblo County, Colorado	censusYear	2000
+Park County, Colorado	censusYear	2000
+Morgan County, Colorado	censusYear	2000
+Otero County, Colorado	censusYear	2000
+Montrose County, Colorado	censusYear	2010
+Montezuma County, Colorado	censusYear	2000
+Ouray County, Colorado	censusYear	2010
+Mineral County, Colorado	censusYear	2000
+Logan County, Colorado	censusYear	2000
+Mesa County, Colorado	censusYear	2000
+Moffat County, Colorado	censusYear	2000
+Lincoln County, Colorado	censusYear	2000
+Las Animas County, Colorado	censusYear	2000
+La Plata County, Colorado	censusYear	2000
+Kit Carson County, Colorado	censusYear	2000
+Kiowa County, Colorado	censusYear	2000
+Lake County, Colorado	censusYear	2010
+Jefferson County, Colorado	censusYear	2000
+Larimer County, Colorado	censusYear	2000
+Jackson County, Colorado	censusYear	2000
+Hinsdale County, Colorado	censusYear	2000
+Gunnison County, Colorado	censusYear	2000
+Gilpin County, Colorado	censusYear	2000
+Grand County, Colorado	censusYear	2005
+Garfield County, Colorado	censusYear	2008
+Huerfano County, Colorado	censusYear	2000
+Fremont County, Colorado	censusYear	2010
+Elbert County, Colorado	censusYear	2000
+Dolores County, Colorado	censusYear	2000
+Eagle County, Colorado	censusYear	2010
+Delta County, Colorado	censusYear	2000
+Custer County, Colorado	censusYear	2000
+Costilla County, Colorado	censusYear	2000
+Crowley County, Colorado	censusYear	2000
+Conejos County, Colorado	censusYear	2000
+Clear Creek County, Colorado	censusYear	2000
+Chaffee County, Colorado	censusYear	2000
+El Paso County, Colorado	censusYear	2010
+Cheyenne County, Colorado	censusYear	2000
+Bent County, Colorado	censusYear	2000
+Boulder County, Colorado	censusYear	2000
+Archuleta County, Colorado	censusYear	2000
+Arapahoe County, Colorado	censusYear	2000
+Alamosa County, Colorado	censusYear	2000
+Baca County, Colorado	censusYear	2000
+Yell County, Arkansas	censusYear	2008
+Woodruff County, Arkansas	censusYear	2008
+White County, Arkansas	censusYear	2008
+Washington County, Arkansas	censusYear	2008
+Stone County, Arkansas	censusYear	2008
+Union County, Arkansas	censusYear	2008
+Van Buren County, Arkansas	censusYear	2008
+St. Francis County, Arkansas	censusYear	2008
+Sevier County, Arkansas	censusYear	2008
+Sharp County, Arkansas	censusYear	2008
+Sebastian County, Arkansas	censusYear	2000
+Searcy County, Arkansas	censusYear	2008
+Scott County, Arkansas	censusYear	2008
+Saline County, Arkansas	censusYear	2008
+Randolph County, Arkansas	censusYear	2000
+Pulaski County, Arkansas	censusYear	2010
+Prairie County, Arkansas	censusYear	2008
+Polk County, Arkansas	censusYear	2008
+Poinsett County, Arkansas	censusYear	2008
+Pope County, Arkansas	censusYear	2008
+Pike County, Arkansas	censusYear	2008
+Phillips County, Arkansas	censusYear	2008
+Perry County, Arkansas	censusYear	2000
+Ouachita County, Arkansas	censusYear	2008
+Newton County, Arkansas	censusYear	2008
+Monroe County, Arkansas	censusYear	2008
+Nevada County, Arkansas	censusYear	2008
+Mississippi County, Arkansas	censusYear	2008
+Miller County, Arkansas	censusYear	2008
+Marion County, Arkansas	censusYear	2008
+Lonoke County, Arkansas	censusYear	2008
+Logan County, Arkansas	censusYear	2008
+Little River County, Arkansas	censusYear	2008
+Lincoln County, Arkansas	censusYear	2008
+Lee County, Arkansas	censusYear	2008
+Lawrence County, Arkansas	censusYear	2000
+Johnson County, Arkansas	censusYear	2008
+Madison County, Arkansas	censusYear	2008
+Lafayette County, Arkansas	censusYear	2008
+Jefferson County, Arkansas	censusYear	2008
+Izard County, Arkansas	censusYear	2008
+Jackson County, Arkansas	censusYear	2008
+Howard County, Arkansas	censusYear	2000
+Independence County, Arkansas	censusYear	2008
+Hot Spring County, Arkansas	censusYear	2000
+Hempstead County, Arkansas	censusYear	2008
+Greene County, Arkansas	censusYear	2008
+Grant County, Arkansas	censusYear	2008
+Garland County, Arkansas	censusYear	2008
+Franklin County, Arkansas	censusYear	2008
+Fulton County, Arkansas	censusYear	2008
+Drew County, Arkansas	censusYear	2008
+Desha County, Arkansas	censusYear	2008
+Dallas County, Arkansas	censusYear	2008
+Cross County, Arkansas	censusYear	2008
+Faulkner County, Arkansas	censusYear	2000
+Crawford County, Arkansas	censusYear	2010
+Crittenden County, Arkansas	censusYear	2010
+Craighead County, Arkansas	censusYear	2010
+Columbia County, Arkansas	censusYear	2010
+Conway County, Arkansas	censusYear	2010
+Cleveland County, Arkansas	censusYear	2010
+Chicot County, Arkansas	censusYear	2010
+Clark County, Arkansas	censusYear	2010
+Carroll County, Arkansas	censusYear	2010
+Calhoun County, Arkansas	censusYear	2010
+Bradley County, Arkansas	censusYear	2010
+Benton County, Arkansas	censusYear	2010
+Cleburne County, Arkansas	censusYear	2010
+Arkansas County, Arkansas	censusYear	2010
+Ashley County, Arkansas	censusYear	2010
+Baxter County, Arkansas	censusYear	2010
+Boone County, Arkansas	censusYear	2010
+Winn Parish, Louisiana	censusYear	2000
+West Feliciana Parish, Louisiana	censusYear	2000
+West Carroll Parish, Louisiana	censusYear	2000
+West Baton Rouge Parish, Louisiana	censusYear	2000
+Webster Parish, Louisiana	censusYear	2000
+Washington Parish, Louisiana	censusYear	2000
+Terrebonne Parish, Louisiana	censusYear	2008
+Vernon Parish, Louisiana	censusYear	2000
+Union Parish, Louisiana	censusYear	2000
+Vermilion Parish, Louisiana	censusYear	2000
+Tensas Parish, Louisiana	censusYear	2000
+St. Tammany Parish, Louisiana	censusYear	2000
+Tangipahoa Parish, Louisiana	censusYear	2000
+St. Mary Parish, Louisiana	censusYear	2000
+St. Martin Parish, Louisiana	censusYear	2000
+St. James Parish, Louisiana	censusYear	2000
+St. John the Baptist Parish, Louisiana	censusYear	2010
+St. Landry Parish, Louisiana	censusYear	2000
+St. Helena Parish, Louisiana	censusYear	2000
+Richland Parish, Louisiana	censusYear	2010
+Red River Parish, Louisiana	censusYear	2000
+Sabine Parish, Louisiana	censusYear	2010
+St. Bernard Parish, Louisiana	censusYear	2010
+Ouachita Parish, Louisiana	censusYear	2000
+Plaquemines Parish, Louisiana	censusYear	2000
+Rapides Parish, Louisiana	censusYear	2010
+Pointe Coupee Parish, Louisiana	censusYear	2000
+Morehouse Parish, Louisiana	censusYear	2000
+Madison Parish, Louisiana	censusYear	2000
+Livingston Parish, Louisiana	censusYear	2010
+Natchitoches Parish, Louisiana	censusYear	2000
+Lincoln Parish, Louisiana	censusYear	2000
+Lafourche Parish, Louisiana	censusYear	2000
+La Salle Parish, Louisiana	censusYear	2000
+Jefferson Davis Parish, Louisiana	censusYear	2000
+Jackson Parish, Louisiana	censusYear	2010
+Jefferson Parish, Louisiana	censusYear	2000
+Lafayette Parish, Louisiana	censusYear	2010
+Franklin Parish, Louisiana	censusYear	2000
+Grant Parish, Louisiana	censusYear	2000
+Iberia Parish, Louisiana	censusYear	2000
+Evangeline Parish, Louisiana	censusYear	2000
+East Feliciana Parish, Louisiana	censusYear	2000
+East Carroll Parish, Louisiana	censusYear	2010
+Iberville Parish, Louisiana	censusYear	2000
+De Soto Parish, Louisiana	censusYear	2000
+East Baton Rouge Parish, Louisiana	censusYear	2010
+Claiborne Parish, Louisiana	censusYear	2000
+Catahoula Parish, Louisiana	censusYear	2000
+Cameron Parish, Louisiana	censusYear	2010
+Concordia Parish, Louisiana	censusYear	2000
+Calcasieu Parish, Louisiana	censusYear	2000
+Caldwell Parish, Louisiana	censusYear	2000
+Bossier Parish, Louisiana	censusYear	2010
+Bienville Parish, Louisiana	censusYear	2000
+Avoyelles Parish, Louisiana	censusYear	2000
+Beauregard Parish, Louisiana	censusYear	2000
+Assumption Parish, Louisiana	censusYear	2000
+Acadia Parish, Louisiana	censusYear	2000
+Allen Parish, Louisiana	censusYear	2000
+Ascension Parish, Louisiana	censusYear	2010
+St. Charles County, Missouri	censusYear	2010
+St. Charles Parish, Louisiana	censusYear	2010
+Schaffhausen	censusYear	2008
+Petah Tikva	censusYear	2009
+Holon	censusYear	2009
+Nahf	censusYear	2006
+Sakhnin	censusYear	2007
+Sha'ab, Israel	censusYear	2006
+Ashdod	censusYear	2009
+Renens	censusYear	2003
+Arad, Israel	censusYear	2009
+Kiryat Yam	censusYear	2007
+Ramat Gan	censusYear	2009
+Giv'atayim	censusYear	2009
+Beersheba	censusYear	2009
+Rishon LeZion	censusYear	2009
+Bat Yam	censusYear	2009
+Herzliya	censusYear	2007
+Locarno	censusYear	2007
+Bnei Brak	censusYear	2009
+Ramat HaSharon	censusYear	2009
+Karmiel	censusYear	2009
+Katzrin	censusYear	2004
+Urnäsch	censusYear	2008
+Herisau	censusYear	2008
+Schwellbrunn	censusYear	2008
+Hundwil	censusYear	2008
+Stein, Appenzell	censusYear	2008
+Schönengrund	censusYear	2008
+Waldstatt	censusYear	2008
+Bühler	censusYear	2008
+Teufen, Appenzell Ausserrhoden	censusYear	2008
+Gais	censusYear	2008
+Speicher, Switzerland	censusYear	2008
+Trogen	censusYear	2008
+Rehetobel	censusYear	2008
+Wald, Appenzell Ausserrhoden	censusYear	2008
+Heiden, Switzerland	censusYear	2008
+Grub, Appenzell Ausserrhoden	censusYear	2008
+Lutzenberg, Switzerland	censusYear	2008
+Walzenhausen	censusYear	2008
+Reute	censusYear	2008
+Wolfhalden	censusYear	2008
+Ofakim	censusYear	2008
+Or Yehuda	censusYear	2007
+Umm al-Fahm	censusYear	2007
+Ramla	censusYear	2009
+Or Akiva	censusYear	2009
+Baqa al-Gharbiyye	censusYear	2001
+Beit She'an	censusYear	2009
+Beitar Illit	censusYear	2007
+Beit Shemesh	censusYear	2010
+Hod HaSharon	censusYear	2007
+Tayibe	censusYear	2009
+Hadera	censusYear	2009
+Tira, Israel	censusYear	2009
+Tamra	censusYear	2007
+Yavne	censusYear	2009
+Yehud	censusYear	2007
+Migdal HaEmek	censusYear	2007
+Kfar Saba	censusYear	2009
+Lod	censusYear	2010
+Ma'alot-Tarshiha	censusYear	2009
+Ma'ale Adumim	censusYear	2009
+Nahariya	censusYear	2009
+Nazareth Illit	censusYear	2009
+Netivot	censusYear	2009
+Ness Ziona	censusYear	2009
+Nesher	censusYear	2007
+Afula	censusYear	2009
+Qalansawe	censusYear	2008
+Kiryat Ata	censusYear	2009
+Safed	censusYear	2010
+Kiryat Ono	censusYear	2009
+Netanya	censusYear	2009
+Kiryat Motzkin	censusYear	2007
+Kiryat Bialik	censusYear	2007
+Kiryat Gat	censusYear	2009
+Kiryat Malakhi	censusYear	2009
+Rosh HaAyin	censusYear	2009
+Kiryat Shmona	censusYear	2007
+Rahat	censusYear	2009
+Shefa-'Amr	censusYear	2009
+Rehovot	censusYear	2009
+Zermatt	censusYear	2007
+Mazkeret Batya	censusYear	2008
+Delémont	censusYear	2007
+Saint-Ursanne	censusYear	2003
+Zikhron Ya'akov	censusYear	2009
+Kiryat Arba	censusYear	2008
+Oberhof, Switzerland	censusYear	2006
+Sderot	censusYear	2009
+Wildhaus	censusYear	2008
+Neuchâtel	censusYear	2007
+Goldingen	censusYear	2008
+Sion, Switzerland	censusYear	2007
+Aigle	censusYear	2003
+Ormont-Dessus	censusYear	2006
+Prilly	censusYear	2006
+Leibstadt	censusYear	2005
+Ronco sopra Ascona	censusYear	2004
+Epesses	censusYear	2009
+Forel, Vaud	censusYear	2003
+Rivaz	censusYear	2004
+Ariel (city)	censusYear	2009
+Faido	censusYear	2002
+Boudevilliers	censusYear	2007
+Hatzor HaGlilit	censusYear	2008
+Bellwald	censusYear	2002
+Zimmerwald	censusYear	2002
+Stein am Rhein	censusYear	2008
+Bellinzona	censusYear	2007
+Surry County, Virginia	censusYear	2010
+Binn	censusYear	2002
+Efrat	censusYear	2010
+Airolo	censusYear	2002
+Chiasso	censusYear	2002
+Agno, Switzerland	censusYear	2004
+Yeruham	censusYear	2006
+Bosco Gurin	censusYear	2002
+Bargen, Schaffhausen	censusYear	2008
+Marin-Epagnier	censusYear	2003
+Dintikon	censusYear	2006
+Koblenz, Switzerland	censusYear	2004
+Kreuzlingen	censusYear	2007
+Magden	censusYear	2004
+Kfar Vradim	censusYear	2008
+Schlossrued	censusYear	2006
+Grächen	censusYear	2002
+Ascona	censusYear	2002
+Mevaseret Zion	censusYear	2006
+Modi'in Illit	censusYear	2010
+Giv'at Ze'ev	censusYear	2006
+Emmen, Switzerland	censusYear	2007
+Colombier, Neuchâtel	censusYear	2004
+Visp	censusYear	2007
+Fisibach	censusYear	2003
+Yokneam	censusYear	2007
+Mendrisio	censusYear	2007
+Courtételle	censusYear	2006
+Mitzpe Ramon	censusYear	2008
+Morcote	censusYear	2007
+Kiryat Tiv'on	censusYear	2010
+Tirat Carmel	censusYear	2007
+Full-Reuenthal	censusYear	2003
+Eischoll	censusYear	2002
+Staffelbach	censusYear	2006
+Hura	censusYear	2006
+Pailly	censusYear	2004
+Zofingen	censusYear	2006
+La Chaux-de-Fonds	censusYear	2010
+Bad Zurzach	censusYear	2004
+Rheinfelden	censusYear	2007
+Aadorf	censusYear	2008
+Aarberg	censusYear	2008
+Ardon, Switzerland	censusYear	2002
+Stein, Aargau	censusYear	2005
+Romanshorn	censusYear	2007
+Boudry	censusYear	2003
+Kfar Tavor	censusYear	2008
+Rain, Switzerland	censusYear	2007
+Root, Switzerland	censusYear	2007
+Gelfingen	censusYear	2007
+Parpan	censusYear	2008
+Shlomi, Israel	censusYear	2010
+Arogno	censusYear	2002
+Lucens	censusYear	2003
+Schongau, Switzerland	censusYear	2007
+Caslano	censusYear	2004
+Sierre	censusYear	2008
+Cademario	censusYear	2002
+Bagnes	censusYear	2002
+Sembrancher	censusYear	2002
+Bironico	censusYear	2002
+Schönholzerswilen	censusYear	2007
+Portein	censusYear	2007
+Kokhav Ya'ir	censusYear	2008
+Neve Monosson	censusYear	2003
+Yehud-Monosson	censusYear	2007
+Schleitheim	censusYear	2008
+Aranno	censusYear	2002
+Tel Mond	censusYear	2009
+Caddo Parish, Louisiana	censusYear	2000
+Kfar Yona	censusYear	2009
+Vuarrens	censusYear	2004
+Echallens	censusYear	2004
+Saint-Barthélemy, Switzerland	censusYear	2004
+Rueyres, Switzerland	censusYear	2004
+Fey, Switzerland	censusYear	2004
+Bercher	censusYear	2004
+Abu Sinan	censusYear	2008
+Iksal	censusYear	2005
+Sajur	censusYear	2006
+Onsernone	censusYear	2004
+Bévilard	censusYear	2007
+Monible	censusYear	2007
+Metula	censusYear	2008
+Kiryat Ye'arim	censusYear	2005
+Beit El	censusYear	2009
+Alfei Menashe	censusYear	2009
+Rosh Pinna	censusYear	2008
+Migdal, Israel	censusYear	2008
+Riederalp	censusYear	2002
+Cornaux	censusYear	2004
+Ponte Tresa	censusYear	2004
+Hemmental	censusYear	2005
+Malix	censusYear	2008
+Daliyat al-Karmel	censusYear	2009
+Be'er Ya'akov	censusYear	2006
+Gedera	censusYear	2009
+Safenwil	censusYear	2006
+Gollion	censusYear	2004
+Thayngen	censusYear	2008
+Kafr Qasim	censusYear	2007
+Cugy	censusYear	2004
+Penthéréaz	censusYear	2004
+Meitar	censusYear	2009
+Troistorrents	censusYear	2002
+Cumberland County, Pennsylvania	censusYear	2010
+Saint-Maurice, Switzerland	censusYear	2002
+Karnei Shomron	censusYear	2009
+Seon, Switzerland	censusYear	2006
+Villars-Tiercelin	censusYear	2009
+Neuhausen am Rheinfall	censusYear	2008
+Sottens	censusYear	2009
+Courroux	censusYear	2004
+Bioley-Orjulaz	censusYear	2004
+Bretigny-sur-Morrens	censusYear	2004
+Bottens	censusYear	2004
+Dommartin, Switzerland	censusYear	2009
+Eclagnens	censusYear	2009
+Essertines-sur-Yverdon	censusYear	2004
+Froideville, Switzerland	censusYear	2004
+Etagnières	censusYear	2004
+Goumoens-le-Jux	censusYear	2009
+Goumoens-la-Ville	censusYear	2009
+Malapalud	censusYear	2004
+Oulens-sous-Echallens	censusYear	2004
+Morrens	censusYear	2006
+Poliez-le-Grand	censusYear	2009
+Poliez-Pittet	censusYear	2005
+Sugnens	censusYear	2009
+Villars-le-Terroir	censusYear	2004
+Bonvillars	censusYear	2004
+Grandevent	censusYear	2004
+Kedumim	censusYear	2007
+Olsberg, Switzerland	censusYear	2005
+Aquila, Switzerland	censusYear	2004
+Müstair	censusYear	2008
+Kfar Kama	censusYear	2007
+Vacallo	censusYear	2004
+Giv'at Shmuel	censusYear	2009
+Pardes Hanna-Karkur	censusYear	2009
+Bissone	censusYear	2004
+Fuldera	censusYear	2008
+Lü, Switzerland	censusYear	2008
+Santa Maria Val Müstair	censusYear	2008
+Tschierv	censusYear	2008
+Valchava	censusYear	2008
+Lehavim	censusYear	2010
+Kuseife	censusYear	2006
+Omer, Israel	censusYear	2008
+Lakiya	censusYear	2005
+Shaqib al-Salam	censusYear	2006
+Ar'arat an-Naqab	censusYear	2006
+Tel as-Sabi	censusYear	2005
+Shoham	censusYear	2008
+Boécourt	censusYear	2004
+Châtillon, Canton of Jura	censusYear	2005
+Corban, Switzerland	censusYear	2005
+Courfaivre	censusYear	2005
+Ederswiler	censusYear	2005
+Movelier	censusYear	2005
+Soubey	censusYear	2005
+Vicques, Switzerland	censusYear	2004
+Immanuel (town)	censusYear	2007
+Osco	censusYear	2004
+Ma'ale Efrayim	censusYear	2006
+Laufenburg, Switzerland	censusYear	2006
+Muri	censusYear	2006
+Schlieren, Zurich	censusYear	2007
+Even Yehuda	censusYear	2005
+Gan Yavne	censusYear	2010
+Corippo	censusYear	2004
+Deir Hanna	censusYear	2005
+Lyss	censusYear	2008
+El'ad	censusYear	2009
+Mammern	censusYear	2007
+Oberwald, Valais	censusYear	2006
+Buch, Schaffhausen	censusYear	2008
+Reineh	censusYear	2005
+Canobbio	censusYear	2004
+Muralto	censusYear	2004
+Tzoran-Kadima	censusYear	2009
+Baqa-Jatt	censusYear	2007
+Modi'in-Maccabim-Re'ut	censusYear	2010
+Täsch	censusYear	2002
+Sementina	censusYear	2004
+Shaghur	censusYear	2007
+Frasco	censusYear	2005
+Carmel City	censusYear	2007
+Beit Dagan	censusYear	2009
+Beit Jann	censusYear	2007
+Peki'in	censusYear	2007
+Vordemwald	censusYear	2006
+Kölliken	censusYear	2006
+Moosleerau	censusYear	2006
+Murgenthal	censusYear	2006
+Oftringen	censusYear	2006
+Reitnau	censusYear	2006
+Rothrist	censusYear	2006
+Uerkheim	censusYear	2006
+Strengelbach	censusYear	2006
+Wiliberg	censusYear	2006
+Geltwil	censusYear	2006
+Kallern	censusYear	2006
+Merenschwand	censusYear	2006
+Mühlau	censusYear	2006
+Oberrüti	censusYear	2006
+Sins, Switzerland	censusYear	2006
+Rottenschwil	censusYear	2006
+Waltenschwil	censusYear	2006
+Bnei Ayish	censusYear	2005
+Littau	censusYear	2009
+Schwarzenberg, Switzerland	censusYear	2007
+Honau, Switzerland	censusYear	2007
+Gutenburg, Switzerland	censusYear	2005
+Ballmoos	censusYear	2007
+Aeschlen bei Oberdiessbach	censusYear	2007
+Bowil	censusYear	2007
+Tüscherz-Alfermée	censusYear	2007
+Twann	censusYear	2007
+Rüti bei Riggisberg	censusYear	2007
+Längenbühl	censusYear	2005
+Röthenbach bei Herzogenbuchsee	censusYear	2007
+Oberönz	censusYear	2007
+Wanzwil	censusYear	2007
+Egnach	censusYear	2007
+Altdorf, Schaffhausen	censusYear	2007
+Beggingen	censusYear	2009
+Bibern, Schaffhausen	censusYear	2008
+Beringen, Switzerland	censusYear	2005
+Buchberg	censusYear	2009
+Büttenhardt	censusYear	2008
+Dörflingen	censusYear	2008
+Gächlingen	censusYear	2008
+Guntmadingen	censusYear	2009
+Hallau	censusYear	2008
+Hemishofen	censusYear	2008
+Hofen, Switzerland	censusYear	2008
+Lohn, Schaffhausen	censusYear	2008
+Löhningen	censusYear	2009
+Merishausen	censusYear	2008
+Neunkirch	censusYear	2008
+Oberhallau	censusYear	2008
+Opfertshofen	censusYear	2005
+Wilchingen	censusYear	2008
+Ramsen	censusYear	2008
+Siblingen	censusYear	2009
+Rüdlingen	censusYear	2008
+Stetten, Schaffhausen	censusYear	2008
+Trasadingen	censusYear	2008
+Hottwil	censusYear	2006
+Umiken	censusYear	2006
+Kafr Kanna	censusYear	2005
+Dürrenäsch	censusYear	2006
+Gontenschwil	censusYear	2006
+Holziken	censusYear	2005
+Leimbach, Aargau	censusYear	2006
+Leutwil	censusYear	2006
+Oberkulm	censusYear	2006
+Schöftland	censusYear	2006
+Schmiedrued	censusYear	2006
+Reinach, Aargau	censusYear	2005
+Teufenthal	censusYear	2006
+Unterkulm	censusYear	2006
+Zetzwil	censusYear	2006
+Eiken, Switzerland	censusYear	2006
+Etzgen	censusYear	2006
+Frick, Switzerland	censusYear	2006
+Gansingen	censusYear	2006
+Gipf-Oberfrick	censusYear	2006
+Herznach	censusYear	2006
+Hornussen, Aargau	censusYear	2006
+Wittnau, Switzerland	censusYear	2006
+Sulz, Aargau	censusYear	2006
+Münchwilen, Aargau	censusYear	2006
+Mettau, Switzerland	censusYear	2006
+Ittenthal	censusYear	2006
+Kaisten, Switzerland	censusYear	2006
+Oberhofen, Switzerland	censusYear	2006
+Oeschgen	censusYear	2006
+Schwaderloch	censusYear	2006
+Sisseln	censusYear	2006
+Ueken	censusYear	2006
+Wölflinswil	censusYear	2006
+Zeihen	censusYear	2006
+Mumpf	censusYear	2005
+Schupfart	censusYear	2005
+Wallbach, Switzerland	censusYear	2005
+Wegenstetten	censusYear	2005
+Zeiningen	censusYear	2005
+Kaiseraugst	censusYear	2005
+Obermumpf	censusYear	2005
+Egliswil	censusYear	2006
+Hallwil	censusYear	2006
+Hendschiken	censusYear	2006
+Holderbank, Aargau	censusYear	2006
+Hunzenschwil	censusYear	2006
+Meisterschwanden	censusYear	2006
+Möriken-Wildegg	censusYear	2006
+Niederlenz	censusYear	2006
+Othmarsingen	censusYear	2006
+Schafisheim	censusYear	2006
+Rupperswil	censusYear	2006
+Seengen	censusYear	2006
+Staufen, Switzerland	censusYear	2006
+Döttingen, Switzerland	censusYear	2006
+Kaiserstuhl, Switzerland	censusYear	2005
+Endingen, Switzerland	censusYear	2005
+Klingnau	censusYear	2005
+Lengnau, Aargau	censusYear	2005
+Leuggern	censusYear	2005
+Mellikon	censusYear	2005
+Rekingen	censusYear	2005
+Rietheim, Switzerland	censusYear	2005
+Rümikon	censusYear	2005
+Schneisingen	censusYear	2005
+Siglistorf	censusYear	2005
+Unterendingen	censusYear	2005
+Wislikofen	censusYear	2005
+Le Landeron	censusYear	2005
+Enges	censusYear	2005
+Saint-Blaise, Switzerland	censusYear	2005
+Hauterive, Neuchâtel	censusYear	2005
+Lignières, Switzerland	censusYear	2005
+Thielle-Wavre	censusYear	2005
+Auvernier	censusYear	2005
+Rochefort, Switzerland	censusYear	2005
+Cortaillod	censusYear	2005
+Montalchez	censusYear	2005
+Gorgier	censusYear	2005
+Bevaix	censusYear	2005
+Bôle	censusYear	2005
+Brot-Dessous	censusYear	2005
+Corcelles-Cormondrèche	censusYear	2005
+Fresens	censusYear	2005
+Peseux, Switzerland	censusYear	2005
+Saint-Aubin-Sauges	censusYear	2005
+Vaumarcus	censusYear	2005
+La Sagne	censusYear	2005
+Les Planchettes	censusYear	2005
+Brot-Plamboz	censusYear	2005
+La Brévine	censusYear	2005
+Les Brenets	censusYear	2005
+Le Cerneux-Péquignot	censusYear	2005
+La Chaux-du-Milieu	censusYear	2005
+Les Ponts-de-Martel	censusYear	2005
+Cernier	censusYear	2007
+Chézard-Saint-Martin	censusYear	2007
+Coffrane	censusYear	2007
+Dombresson	censusYear	2007
+Engollon	censusYear	2007
+Fenin-Vilars-Saules	censusYear	2007
+Fontaines, Switzerland	censusYear	2007
+Fontainemelon	censusYear	2007
+Le Pâquier, Neuchâtel	censusYear	2007
+Savagnier	censusYear	2007
+Les Geneveys-sur-Coffrane	censusYear	2007
+Les Hauts-Geneveys	censusYear	2007
+Montmollin	censusYear	2007
+Valangin	censusYear	2007
+Villiers, Switzerland	censusYear	2007
+Boveresse	censusYear	2007
+Buttes	censusYear	2007
+La Côte-aux-Fées	censusYear	2007
+Couvet	censusYear	2007
+Fleurier	censusYear	2007
+Les Bayards	censusYear	2005
+Les Verrières	censusYear	2007
+Môtiers	censusYear	2007
+Noiraigue	censusYear	2007
+Saint-Sulpice, Neuchâtel	censusYear	2007
+Travers, Switzerland	censusYear	2007
+Eich, Switzerland	censusYear	2007
+Mauensee, Lucerne	censusYear	2007
+Neudorf, Lucerne	censusYear	2007
+Schlierbach, Switzerland	censusYear	2007
+Oberkirch, Switzerland	censusYear	2007
+Gunzwil	censusYear	2007
+Winikon	censusYear	2007
+Hämikon	censusYear	2007
+Hochdorf, Lucerne	censusYear	2007
+Lieli	censusYear	2004
+Mosen, Lucerne	censusYear	2007
+Müswangen	censusYear	2007
+Retschwil	censusYear	2007
+Rothenburg, Switzerland	censusYear	2007
+Sulz, Lucerne	censusYear	2007
+Fischbach, Lucerne	censusYear	2008
+Berlingen, Switzerland	censusYear	2007
+Eschenz	censusYear	2007
+Herdern	censusYear	2007
+Hüttwilen	censusYear	2007
+Homburg, Switzerland	censusYear	2007
+Müllheim, Switzerland	censusYear	2009
+Pfyn	censusYear	2007
+Raperswilen	censusYear	2007
+Salenstein	censusYear	2007
+Steckborn	censusYear	2007
+Wagenhausen	censusYear	2007
+Wigoltingen	censusYear	2007
+Amlikon-Bissegg	censusYear	2007
+Birwinken	censusYear	2007
+Berg, Thurgau	censusYear	2007
+Bürglen, Thurgau	censusYear	2007
+Bussnang	censusYear	2007
+Märstetten	censusYear	2007
+Bischofszell	censusYear	2007
+Amriswil	censusYear	2007
+Erlen	censusYear	2007
+Hauptwil-Gottshaus	censusYear	2007
+Hohentannen	censusYear	2007
+Kradolf-Schönenberg	censusYear	2007
+Sulgen	censusYear	2007
+Zihlschlacht-Sitterdorf	censusYear	2007
+Diessenhofen	censusYear	2007
+Basadingen-Schlattingen	censusYear	2007
+Schlatt bei Diessenhofen	censusYear	2007
+Bettwiesen	censusYear	2007
+Bichelsee-Balterswil	censusYear	2007
+Braunau, Switzerland	censusYear	2007
+Eschlikon	censusYear	2007
+Fischingen	censusYear	2007
+Lommis	censusYear	2007
+Münchwilen, Thurgau	censusYear	2007
+Rickenbach, Thurgau	censusYear	2007
+Sirnach	censusYear	2007
+Tobel-Tägerschen	censusYear	2007
+Wängi	censusYear	2007
+Wilen	censusYear	2007
+Wuppenau	censusYear	2007
+Roggwil, Thurgau	censusYear	2007
+Uttwil	censusYear	2007
+Dozwil	censusYear	2007
+Arbon	censusYear	2007
+Hefenhofen	censusYear	2007
+Kesswil	censusYear	2007
+Sommeri	censusYear	2007
+Salmsach	censusYear	2007
+Altnau	censusYear	2007
+Ermatingen	censusYear	2007
+Gottlieben	censusYear	2007
+Güttingen	censusYear	2007
+Langrickenbach	censusYear	2007
+Kemmental	censusYear	2007
+Wäldi	censusYear	2007
+Münsterlingen	censusYear	2007
+Lengwil	censusYear	2007
+Tägerwilen	censusYear	2007
+Felben-Wellhausen	censusYear	2007
+Gachnang	censusYear	2007
+Matzingen	censusYear	2007
+Neunforn	censusYear	2007
+Stettfurt	censusYear	2007
+Hüttlingen, Switzerland	censusYear	2007
+Thundorf, Switzerland	censusYear	2007
+Warth-Weiningen	censusYear	2007
+Balm bei Messen	censusYear	2005
+Brunnenthal, Switzerland	censusYear	2005
+Oberramsern	censusYear	2005
+Niederdorf, Basel-Landschaft	censusYear	2005
+Yesud HaMa'ala	censusYear	2008
+Maghar, Israel	censusYear	2009
+Laufen, Switzerland	censusYear	2008
+Roggenburg, Switzerland	censusYear	2005
+Fassuta	censusYear	2005
+Julis	censusYear	2007
+I'billin	censusYear	2006
+Tegerfelden	censusYear	2005
+Mogelsberg	censusYear	2004
+St. Peterzell	censusYear	2004
+Intragna, Switzerland	censusYear	2004
+Morbio Superiore	censusYear	2004
+Besazio	censusYear	2004
+Castel San Pietro	censusYear	2005
+Muggio	censusYear	2004
+Cabbio	censusYear	2004
+Bruzella	censusYear	2004
+Caneggio	censusYear	2004
+Capolago	censusYear	2004
+Genestrerio	censusYear	2004
+Coldrerio	censusYear	2004
+Ligornetto	censusYear	2004
+Meride	censusYear	2004
+Rancate	censusYear	2004
+Novazzano	censusYear	2004
+Riva San Vitale	censusYear	2004
+Sagno	censusYear	2004
+Tremona	censusYear	2006
+Stabio	censusYear	2009
+Maggia, Switzerland	censusYear	2004
+Wila, Switzerland	censusYear	2007
+Maur, Switzerland	censusYear	2007
+Vico Morcote	censusYear	2004
+Acquarossa, Switzerland	censusYear	2005
+Campo Blenio	censusYear	2004
+Ghirone	censusYear	2004
+Torre, Switzerland	censusYear	2004
+Ludiano	censusYear	2004
+Olivone	censusYear	2004
+Malvaglia	censusYear	2004
+Semione	censusYear	2004
+Biasca	censusYear	2004
+Cresciano	censusYear	2004
+Iragna	censusYear	2004
+Osogna	censusYear	2004
+Lodrino, Switzerland	censusYear	2004
+Anzonico	censusYear	2004
+Bedretto	censusYear	2004
+Bodio	censusYear	2004
+Calpiogna	censusYear	2004
+Campello, Switzerland	censusYear	2004
+Cavagnago	censusYear	2004
+Chironico	censusYear	2004
+Dalpe	censusYear	2004
+Giornico	censusYear	2004
+Mairengo	censusYear	2004
+Personico	censusYear	2004
+Pollegio	censusYear	2004
+Prato (Leventina)	censusYear	2004
+Quinto, Switzerland	censusYear	2007
+Sobrio	censusYear	2004
+Avegno, Switzerland	censusYear	2004
+Bignasco	censusYear	2004
+Lavizzara	censusYear	2004
+Linescio	censusYear	2004
+Cavergno	censusYear	2004
+Campo, Vallemaggia	censusYear	2004
+Cerentino	censusYear	2004
+Cevio	censusYear	2004
+Gordevio	censusYear	2004
+Cadenazzo	censusYear	2007
+Gnosca	censusYear	2004
+Gorduno	censusYear	2004
+Giubiasco	censusYear	2007
+Gudo	censusYear	2004
+Isone	censusYear	2004
+Lumino	censusYear	2004
+Sant'Antonio	censusYear	2004
+Sant'Antonino	censusYear	2004
+Moleno	censusYear	2004
+Medeglia	censusYear	2004
+Pianezzo	censusYear	2004
+Preonzo	censusYear	2010
+Vogorno	censusYear	2004
+Borgnone	censusYear	2004
+Brione, Switzerland	censusYear	2004
+Brione sopra Minusio	censusYear	2004
+Caviano	censusYear	2004
+Mosogno	censusYear	2004
+Orselina	censusYear	2004
+Palagnedra	censusYear	2004
+Piazzogna	censusYear	2004
+Gresso	censusYear	2004
+Indemini	censusYear	2009
+Isorno	censusYear	2004
+Lavertezzo	censusYear	2004
+Losone	censusYear	2004
+Magadino	censusYear	2007
+Mergoscia	censusYear	2004
+Minusio	censusYear	2004
+San Nazzaro, Switzerland	censusYear	2009
+Sant'Abbondio	censusYear	2004
+Sonogno	censusYear	2004
+Tegna	censusYear	2004
+Tenero-Contra	censusYear	2004
+Vergeletto	censusYear	2004
+Verscio	censusYear	2004
+Vira (Gambarogno)	censusYear	2009
+Gerra (Gambarogno)	censusYear	2009
+Contone	censusYear	2004
+Gordola	censusYear	2004
+Cavigliano	censusYear	2004
+Alto Malcantone	censusYear	2004
+Astano	censusYear	2004
+Bedano	censusYear	2004
+Bidogno	censusYear	2004
+Bedigliora	censusYear	2004
+Bioggio	censusYear	2004
+Bogno	censusYear	2004
+Brusino Arsizio	censusYear	2004
+Cadempino	censusYear	2004
+Camignolo	censusYear	2004
+Cadro	censusYear	2004
+Capriasca	censusYear	2004
+Carabietta	censusYear	2004
+Carona, Switzerland	censusYear	2004
+Certara	censusYear	2004
+Cimadera	censusYear	2004
+Collina d'Oro	censusYear	2004
+Rivera, Switzerland	censusYear	2004
+Iseo, Switzerland	censusYear	2004
+Muzzano, Switzerland	censusYear	2004
+Corticiasca	censusYear	2004
+Comano, Switzerland	censusYear	2004
+Croglio	censusYear	2004
+Cureglia	censusYear	2004
+Grancia	censusYear	2004
+Curio, Switzerland	censusYear	2004
+Gravesano	censusYear	2004
+Lugaggia	censusYear	2004
+Lamone	censusYear	2004
+Porza	censusYear	2004
+Pura, Switzerland	censusYear	2004
+Neggio	censusYear	2004
+Novaggio	censusYear	2004
+Origlio	censusYear	2004
+Paradiso, Switzerland	censusYear	2006
+Ponte Capriasca	censusYear	2004
+Magliaso	censusYear	2004
+Manno	censusYear	2004
+Maroggia	censusYear	2004
+Massagno	censusYear	2007
+Melano	censusYear	2004
+Mezzovico-Vira	censusYear	2004
+Miglieglia	censusYear	2004
+Monteggio	censusYear	2004
+Melide, Switzerland	censusYear	2004
+Rovio	censusYear	2004
+Savosa	censusYear	2004
+Sessa, Switzerland	censusYear	2004
+Sigirino	censusYear	2009
+Sorengo	censusYear	2004
+Torricella-Taverne	censusYear	2004
+Valcolla	censusYear	2004
+Vernate, Switzerland	censusYear	2004
+Vezia	censusYear	2004
+Champéry	censusYear	2002
+Collombey-Muraz	censusYear	2002
+Saint-Gingolph, Switzerland	censusYear	2002
+Val-d'Illiez	censusYear	2002
+Vionnaz	censusYear	2002
+Vouvry	censusYear	2002
+Hérémence	censusYear	2002
+Evolène	censusYear	2002
+Les Agettes	censusYear	2002
+Mase, Switzerland	censusYear	2002
+Saint-Martin, Valais	censusYear	2002
+Nax	censusYear	2002
+Vernamiège	censusYear	2002
+Vex, Switzerland	censusYear	2002
+Bourg-Saint-Pierre	censusYear	2002
+Liddes	censusYear	2002
+Orsières	censusYear	2002
+Vollèges	censusYear	2002
+Chamoson	censusYear	2002
+Conthey	censusYear	2002
+Vétroz	censusYear	2002
+Nendaz	censusYear	2002
+Arbaz	censusYear	2002
+Grimisuat	censusYear	2002
+Salins, Switzerland	censusYear	2002
+Savièse	censusYear	2002
+Ernen	censusYear	2005
+Blitzingen	censusYear	2002
+Fiesch	censusYear	2002
+Fieschertal	censusYear	2002
+Grafschaft, Switzerland	censusYear	2002
+Lax, Switzerland	censusYear	2002
+Münster-Geschinen	censusYear	2002
+Niederwald, Switzerland	censusYear	2002
+Obergesteln	censusYear	2002
+Reckingen-Gluringen	censusYear	2002
+Ulrichen	censusYear	2007
+Albinen	censusYear	2002
+Ergisch	censusYear	2002
+Erschmatt	censusYear	2002
+Gampel	censusYear	2002
+Guttet-Feschel	censusYear	2002
+Inden, Switzerland	censusYear	2002
+Oberems	censusYear	2002
+Leukerbad	censusYear	2002
+Salgesch	censusYear	2002
+Turtmann	censusYear	2002
+Unterems	censusYear	2007
+Bovernier	censusYear	2002
+Charrat	censusYear	2002
+Isérables	censusYear	2002
+Leytron	censusYear	2002
+Riddes	censusYear	2002
+Saillon	censusYear	2002
+Saxon, Switzerland	censusYear	2002
+Trient, Switzerland	censusYear	2002
+Collonges, Switzerland	censusYear	2002
+Evionnaz	censusYear	2002
+Dorénaz	censusYear	2002
+Finhaut	censusYear	2002
+Massongex	censusYear	2002
+Salvan, Switzerland	censusYear	2002
+Vérossaz	censusYear	2002
+Birgisch	censusYear	2002
+Eggerberg	censusYear	2002
+Ried-Brig	censusYear	2003
+Termen	censusYear	2002
+Zwischbergen	censusYear	2002
+Ayer, Switzerland	censusYear	2002
+Chalais, Switzerland	censusYear	2002
+Chandolin	censusYear	2002
+Chermignon	censusYear	2002
+Chippis	censusYear	2002
+Grimentz	censusYear	2002
+Grône	censusYear	2002
+Icogne	censusYear	2002
+Miège	censusYear	2002
+Mollens, Valais	censusYear	2002
+Montana, Switzerland	censusYear	2007
+Randogne	censusYear	2002
+Saint-Jean, Switzerland	censusYear	2002
+Saint-Léonard, Switzerland	censusYear	2002
+Saint-Luc, Switzerland	censusYear	2002
+Venthône	censusYear	2002
+Vissoie	censusYear	2002
+Veyras, Switzerland	censusYear	2002
+Baltschieder	censusYear	2002
+Eisten	censusYear	2002
+Embd	censusYear	2002
+Lalden	censusYear	2007
+St. Niklaus	censusYear	2002
+Stalden, Valais	censusYear	2002
+Staldenried	censusYear	2002
+Visperterminen	censusYear	2002
+Zeneggen	censusYear	2002
+Saas-Balen	censusYear	2002
+Törbel	censusYear	2002
+Ausserberg	censusYear	2002
+Blatten	censusYear	2002
+Bürchen	censusYear	2002
+Ferden	censusYear	2002
+Hohtenn	censusYear	2002
+Kippel	censusYear	2002
+Niedergesteln	censusYear	2002
+Raron	censusYear	2002
+Steg	censusYear	2002
+Unterbäch	censusYear	2002
+Wiler	censusYear	2002
+Betten	censusYear	2002
+Bitsch, Switzerland	censusYear	2002
+Bister, Switzerland	censusYear	2004
+Filet, Switzerland	censusYear	2002
+Grengiols	censusYear	2002
+Martisberg	censusYear	2004
+Mörel	censusYear	2002
+Jisr az-Zarqa	censusYear	2005
+Bollion	censusYear	2005
+Seiry	censusYear	2005
+Says	censusYear	2007
+Kiryat Ekron	censusYear	2007
+Ausserferrera	censusYear	2007
+Bondo, Switzerland	censusYear	2008
+Castasegna	censusYear	2008
+Soglio, Switzerland	censusYear	2008
+Stampa	censusYear	2008
+Vicosoprano	censusYear	2008
+Tschiertschen	censusYear	2008
+Praden	censusYear	2008
+Pagig	censusYear	2007
+St. Peter, Switzerland	censusYear	2007
+Clugin	censusYear	2007
+Feldis/Veulden	censusYear	2007
+Innerferrera	censusYear	2007
+Wiesen, Switzerland	censusYear	2004
+Präz	censusYear	2007
+Tartar, Switzerland	censusYear	2007
+Trans, Switzerland	censusYear	2007
+Tumegl/Tomils	censusYear	2007
+Sarn, Switzerland	censusYear	2007
+Scheid	censusYear	2007
+Flond	censusYear	2008
+Surcuolm	censusYear	2008
+Mazra'a	censusYear	2008
+Savyon	censusYear	2006
+Kfar Shmaryahu	censusYear	2006
+Azor	censusYear	2006
+Jaljulia	censusYear	2009
+Kabul, Israel	censusYear	2005
+Kafr Yasif	censusYear	2007
+Yirka	censusYear	2007
+Homesh	censusYear	2005
+Elkana	censusYear	2009
+Kafr Bara	censusYear	2005
+Ar'ara	censusYear	2009
+Fureidis	censusYear	2005
+Jadeidi-Makr	censusYear	2008
+Tuba-Zangariyye	censusYear	2005
+Arraba	censusYear	2005
+Rameh	censusYear	2005
+Yafa an-Naseriyye	censusYear	2006
+Kafr Qara	censusYear	2009
+Kafr Manda	censusYear	2005
+Zarzir	censusYear	2005
+Basma	censusYear	2005
+Bir al-Maksur	censusYear	2005
+Boyd County, Kentucky	censusYear	2010
+Daburiyya	censusYear	2005
+Tamar Regional Council	censusYear	2006
+Goumoëns	censusYear	2009
+Tur'an	censusYear	2006
+Shibli-Umm al-Ghanam	censusYear	2005
+Eilabun	censusYear	2005
+Jish	censusYear	2006
+Knox County, Kentucky	censusYear	2000
+Blenio	censusYear	2006
+Mashhad, Israel	censusYear	2005
+Hof HaSharon Regional Council	censusYear	2005
+Central Arava Regional Council	censusYear	2009
+Brig, Switzerland	censusYear	2002
+Ma'ale Iron	censusYear	2005
+Rekhasim	censusYear	2009
+Ganei Tikva	censusYear	2009
+Hurfeish	censusYear	2006
+Ein Mahil	censusYear	2006
+Basmat Tab'un	censusYear	2006
+Ilut	censusYear	2006
+Ka'abiyye-Tabbash-Hajajre	censusYear	2006
+Ramat Yishai	censusYear	2010
+Yanuh-Jat	censusYear	2006
+Yavne'el	censusYear	2008
+Bu'eine Nujeidat	censusYear	2006
+Har Adar	censusYear	2009
+Pardesiya	censusYear	2007
+Kaukab Abu al-Hija	censusYear	2006
+Kafr Misr	censusYear	2007
+Elyakhin	censusYear	2008
+Zemer	censusYear	2009
+Oranit	censusYear	2007
+Lakewood Ranch, Florida	censusYear	2008
+Rehaniya	censusYear	2008
+Mi'ilya	censusYear	2009
+Kisra-Sumei	censusYear	2006
+Katzir-Harish	censusYear	2006
+Anniviers	censusYear	2007
+Moore County, Texas	censusYear	2010
+Runnels County, Texas	censusYear	2000
+Au, Zurich	censusYear	2007
+Isfiya	censusYear	2009
+Samstagern	censusYear	2007
+Tann, Switzerland	censusYear	2007
+Auslikon	censusYear	2007
+Irgenhausen	censusYear	2007
+Kempten, Switzerland	censusYear	2007
+Avegno Gordevio	censusYear	2007
+Mörel-Filet	censusYear	2007
+St. Clair County, Alabama	censusYear	2010
+DeKalb County, Indiana	censusYear	2010
+Lawrence County, Pennsylvania	censusYear	2010
+Washington County, Rhode Island	censusYear	2010
+Centovalli	censusYear	2004
+Breggia, Switzerland	censusYear	2004
+Doña Ana County, New Mexico	censusYear	2010
+De Baca County, New Mexico	censusYear	2000
+Ottawa County, Ohio	censusYear	2000
+Burr Ferry, Louisiana	censusYear	2000
+Miami-Dade County, Florida	censusYear	2010
+Saas-Almagell	censusYear	2002
+Montilliez	censusYear	2009

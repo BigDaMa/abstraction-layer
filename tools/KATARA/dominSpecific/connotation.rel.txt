@@ -1,0 +1,192 @@
+Blue	connotation	Ice
+Blue	connotation	Water
+Blue	connotation	Sky
+Blue	connotation	Sadness
+Blue	connotation	Winter
+Blue	connotation	Police
+Blue	connotation	Royal family
+Blue	connotation	Boy
+Blue	connotation	Cold
+Blue	connotation	Calm
+Blue	connotation	Magic (paranormal)
+Blue	connotation	Truth
+Blue	connotation	Conservatism
+Blue	connotation	Democratic Party (United States)
+Blue	connotation	Capitalism
+Cyan	connotation	Water
+Green	connotation	Nature
+Green	connotation	Hope
+Green	connotation	Youth
+Green	connotation	Illness
+Green	connotation	Health
+Green	connotation	Islam
+Green	connotation	Spring (season)
+Green	connotation	Saint Patrick's Day
+Green	connotation	Money
+Green	connotation	Envy
+Indigo	connotation	Loyalty
+Indigo	connotation	Religion
+Indigo	connotation	Spirituality
+Indigo	connotation	Intuition
+Red	connotation	Aggression
+Red	connotation	Love
+Red	connotation	Negativity
+Red	connotation	Passion (emotion)
+Red	connotation	Socialism
+Red	connotation	Communism
+Red	connotation	Valentine's Day
+Red	connotation	Heat
+Red	connotation	Fire
+Red	connotation	Beauty
+Red	connotation	Leadership
+Red	connotation	Masculinity
+Red	connotation	Injury
+Red	connotation	Danger
+Red	connotation	Blood
+Red	connotation	Christmas
+Red	connotation	Volcano
+Red	connotation	Republican Party (United States)
+Red	connotation	Error
+Red	connotation	Courage
+Red	connotation	Stop sign
+Red	connotation	Failure
+Red	connotation	Drug intolerance
+Red	connotation	Wrong way
+Red	connotation	Death
+Yellow	connotation	Sunlight
+Yellow	connotation	Warm
+Yellow	connotation	Recreation
+Yellow	connotation	Happiness
+Yellow	connotation	Warning sign
+Yellow	connotation	Friendship
+Yellow	connotation	Caution
+Yellow	connotation	Traffic light
+Yellow	connotation	Intelligence
+Yellow	connotation	Cowardice
+Yellow	connotation	Love
+Yellow	connotation	Animal Crossing
+Yellow	connotation	Mardi Gras
+Yellow	connotation	Summer
+Yellow	connotation	Lemon
+Yellow	connotation	Easter
+Yellow	connotation	Autumn
+Yellow	connotation	Electricity
+Yellow	connotation	Liberalism
+Yellow	connotation	Libertarianism
+Yellow	connotation	Hope
+Yellow	connotation	Optimism
+Yellow	connotation	Imagination
+Yellow	connotation	Curiosity
+Purple	connotation	Royal family
+Purple	connotation	Imperialism
+Purple	connotation	Nobility
+Purple	connotation	Lent
+Purple	connotation	Easter
+Purple	connotation	Mardi Gras
+Purple	connotation	Episcopal polity
+Purple	connotation	Upper class
+Purple	connotation	Poison
+Purple	connotation	Friendship
+Purple	connotation	Engineering
+Purple	connotation	Passion (emotion)
+Purple	connotation	Sharing
+Purple	connotation	Wisdom
+Purple	connotation	Rage
+Purple	connotation	Homosexuality
+Purple	connotation	Contrition
+Purple	connotation	Sympathy
+Purple	connotation	Wikt:extreme
+Purple	connotation	Sophistication
+Brown	connotation	Soil
+Brown	connotation	Autumn
+Brown	connotation	Earth (classical element)
+Brown	connotation	Skin
+Brown	connotation	Maple leaf
+Brown	connotation	Chocolate
+Brown	connotation	Coffee
+Brown	connotation	Caramel
+Brown	connotation	Rock (geology)
+Brown	connotation	Africa
+Brown	connotation	Culture of Africa
+Brown	connotation	Indigenous peoples
+Brown	connotation	Fascism
+Brown	connotation	Thanksgiving
+Orange (colour)	connotation	Autumn
+Orange (colour)	connotation	Desire
+Orange (colour)	connotation	Fire
+Orange (colour)	connotation	Halloween
+Orange (colour)	connotation	Thanksgiving
+Orange (colour)	connotation	Prisoner
+Orange (colour)	connotation	Orangism (Netherlands)
+Orange (colour)	connotation	Unionism in Ireland
+Orange (colour)	connotation	Indian religions
+Orange (colour)	connotation	Engineering
+Orange (colour)	connotation	Determination
+Orange (colour)	connotation	Compassion
+Orange (colour)	connotation	Endurance
+Orange (colour)	connotation	Optimism
+Pink	connotation	Girl
+Pink	connotation	Love
+Pink	connotation	Health
+Pink	connotation	Breast cancer awareness
+Pink	connotation	Fairy
+Pink	connotation	Valentine's Day
+Pink	connotation	Spring (season)
+Pink	connotation	Easter
+Pink	connotation	Beauty
+Pink	connotation	Cuteness
+Pink	connotation	Glamour (presentation)
+Tan (color)	connotation	Human skin color
+Tan (color)	connotation	Slip-on shoe
+Tan (color)	connotation	Sun tanning
+Azure (color)  Sky Blue  1	connotation	Daylight
+Azure (color)  Sky Blue  1	connotation	Air (classical element)
+Azure (color)  Sky Blue  1	connotation	Pallor
+Amber (color)	connotation	Chroma
+Amber (color)	connotation	Pendant
+Amber (color)	connotation	Eye color
+Amber (color)	connotation	Signal lamp
+Rose (color)	connotation	Love
+Rose (color)	connotation	Optimism
+Carolina blue	connotation	University of North Carolina at Chapel Hill
+Variations of green  Shamrock green  1	connotation	Saint Patrick's Day
+White	connotation	Ghost
+White	connotation	Virtue
+White	connotation	Nobility
+White	connotation	Softness
+White	connotation	Emptiness
+White	connotation	God
+White	connotation	Sickness
+White	connotation	Lack
+White	connotation	Snow
+White	connotation	Ice
+White	connotation	Heaven
+White	connotation	White people
+White	connotation	Peace
+White	connotation	Clean
+White	connotation	Atmosphere of Earth
+White	connotation	Sunlight
+White	connotation	Light
+White	connotation	Surrender
+White	connotation	Cloud
+White	connotation	Frost
+White	connotation	Milk
+White	connotation	Cream
+White	connotation	Good
+White	connotation	Cotton
+White	connotation	Angel
+White	connotation	Weakness
+White	connotation	Bone
+White	connotation	Protagonist
+White	connotation	Winter
+White	connotation	Innocence
+White	connotation	Amphetamine
+White	connotation	Methamphetamine
+White	connotation	Cocaine
+White	connotation	Heroin
+White	connotation	Fentanyl
+Duke blue	connotation	Duke University
+Variations of gray	connotation	Depression (mood)
+Variations of gray	connotation	Grey area (concept)
+Variations of gray	connotation	Contentment
+Variations of gray	connotation	Speed

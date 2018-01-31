@@ -1,0 +1,437 @@
+Adrastea (moon)	mass	2000.0
+Ariane 5	mass	7.77E8
+Carme (moon)	mass	1300.0
+Earth	mass	5973.6
+International Space Station	mass	4.17289E8
+Lysithea (moon)	mass	6300.0
+Mercury (planet)	mass	3302.2
+Nereid (moon)	mass	3100.0
+Naiad (moon)	mass	1900.0
+Space Shuttle	mass	2.03E9
+Skylab	mass	7.7088E7
+433 Eros	mass	6690.0
+Energia	mass	2.4E9
+Europa (moon)	mass	4800.0
+Triton (moon)	mass	2140.0
+Saturn	mass	5684.6
+Metis (moon)	mass	3600.0
+Halley's Comet	mass	2200.0
+52 Europa	mass	1650.0
+16 Psyche	mass	2190.0
+Phobos (moon)	mass	1072.0
+Puck (moon)	mass	2900.0
+2060 Chiron	mass	1000.0
+Jupiter-C	mass	2.85E7
+Juno I	mass	2.906E7
+Deimos (moon)	mass	1480.0
+Cordelia (moon)	mass	4400.0
+Ophelia (moon)	mass	5300.0
+Bianca (moon)	mass	9200.0
+Cressida (moon)	mass	3400.0
+Desdemona (moon)	mass	1800.0
+Juliet (moon)	mass	5600.0
+Rosalind (moon)	mass	2500.0
+Belinda (moon)	mass	3600.0
+3 Juno	mass	2670.0
+Mir	mass	1.297E8
+Mir	mass	1.29702384E8
+Europa (rocket)	mass	1.0467E8
+Diamant	mass	1.84E7
+Polar Satellite Launch Vehicle	mass	2.94E8
+Thebe (moon)	mass	4300.0
+Leda (moon)	mass	1100.0
+Ariane 3	mass	2.37E8
+Ariane 2	mass	2.17E8
+5145 Pholus	mass	6600.0
+HGM-25A Titan I	mass	1.0514E8
+Caliban (moon)	mass	2500.0
+65 Cybele	mass	1780.0
+Elara (moon)	mass	8700.0
+Himalia (moon)	mass	6700.0
+Himalia (moon)	mass	4190.0
+Ananke (moon)	mass	3000.0
+Pasiphaë (moon)	mass	3000.0
+Sinope (moon)	mass	7500.0
+24 Themis	mass	2300.0
+Ariane 1	mass	2.072E8
+11169 Alkon	mass	1016000.0
+Salyut 1	mass	1.8425E7
+Salyut 1	mass	1.8425232E7
+Salyut 2	mass	1.85E7
+Salyut 4	mass	1.85E7
+Salyut 5	mass	1.9E7
+Salyut 3	mass	1.89E7
+Salyut 7	mass	1.9824E7
+Long March 2F	mass	4.64E8
+Voskhod (rocket)	mass	2.984E8
+Larissa (moon)	mass	4200.0
+Vega (rocket)	mass	1.37E8
+5 Astraea	mass	2900.0
+1620 Geographos	mass	2600.0
+VentureStar	mass	1.0E9
+2004 FH	mass	2800.0
+Black Arrow	mass	1.813E7
+Saturn IB	mass	5.89779792E8
+Themisto (moon)	mass	6890.0
+Setebos (moon)	mass	7500.0
+21 Lutetia	mass	1700.0
+Lockheed Martin X-33	mass	1.29276E8
+19P/Borrelly	mass	2000.0
+Portia (moon)	mass	1700.0
+Sycorax (moon)	mass	2300.0
+Prospero (moon)	mass	8500.0
+Thalassa (moon)	mass	3500.0
+Despina (moon)	mass	2200.0
+Orbital Sciences X-34	mass	8164800.0
+6 Hebe	mass	1280.0
+139 Juewa	mass	4000.0
+Petit-Prince (moon)	mass	1200.0
+762 Pulcova	mass	1400.0
+1036 Ganymed	mass	3300.0
+Iocaste (moon)	mass	1948.3
+Ymir (moon)	mass	5100.0
+Stephano (moon)	mass	2200.0
+Trinculo (moon)	mass	3900.0
+(4197) 1982 TA	mass	5100.0
+51 Nemausa	mass	3400.0
+Manned Orbiting Laboratory	mass	1.4476E7
+2985 Shakespeare	mass	1016000.0
+7 Iris	mass	1360.0
+Saturn I	mass	5.0966E8
+UGM-96 Trident I	mass	3.3142E7
+UGM-133 Trident II	mass	5.85E7
+Zvezda (ISS module)	mass	1.9051E7
+N1 (rocket)	mass	2.735E9
+8 Flora	mass	8470.0
+8 Flora	mass	4300.0
+10 Hygiea	mass	8850.0
+11 Parthenope	mass	6150.0
+13 Egeria	mass	1630.0
+14 Irene	mass	8200.0
+17 Thetis	mass	1200.0
+15 Eunomia	mass	3120.0
+18 Melpomene	mass	3000.0
+19 Fortuna	mass	1270.0
+20 Massalia	mass	5670.0
+20 Massalia	mass	5200.0
+29 Amphitrite	mass	1180.0
+31 Euphrosyne	mass	6200.0
+31 Euphrosyne	mass	1690.0
+32 Pomona	mass	5500.0
+34 Circe	mass	1500.0
+35 Leukothea	mass	1100.0
+36 Atalante	mass	1200.0
+37 Fides	mass	1300.0
+38 Leda	mass	1600.0
+39 Laetitia	mass	3500.0
+40 Harmonia	mass	1300.0
+41 Daphne	mass	5500.0
+42 Isis	mass	1100.0
+46 Hestia	mass	3500.0
+48 Doris	mass	1700.0
+49 Pales	mass	2690.0
+47 Aglaja	mass	2100.0
+50 Virginia	mass	1040.0
+53 Kalypso	mass	1600.0
+54 Alexandra	mass	5000.0
+56 Melete	mass	1500.0
+55 Pandora	mass	3100.0
+57 Mnemosyne	mass	1500.0
+58 Concordia	mass	8500.0
+59 Elpis	mass	4700.0
+60 Echo	mass	2300.0
+61 Danaë	mass	3200.0
+62 Erato	mass	9100.0
+63 Ausonia	mass	1100.0
+66 Maja	mass	4000.0
+67 Asia	mass	2100.0
+68 Leto	mass	1900.0
+71 Niobe	mass	6100.0
+72 Feronia	mass	6700.0
+73 Klytia	mass	9200.0
+74 Galatea	mass	1800.0
+75 Eurydike	mass	1800.0
+76 Freia	mass	6500.0
+77 Frigga	mass	3500.0
+78 Diana	mass	1800.0
+79 Eurynome	mass	3100.0
+80 Sappho	mass	5000.0
+81 Terpsichore	mass	1800.0
+82 Alkmene	mass	2400.0
+83 Beatrix	mass	5600.0
+84 Klio	mass	5200.0
+86 Semele	mass	1800.0
+88 Thisbe	mass	1050.0
+88 Thisbe	mass	1500.0
+89 Julia	mass	3600.0
+91 Aegina	mass	1400.0
+92 Undina	mass	2100.0
+93 Minerva	mass	2900.0
+94 Aurora	mass	9000.0
+95 Arethusa	mass	2600.0
+96 Aegle	mass	5100.0
+98 Ianthe	mass	1200.0
+97 Klotho	mass	5900.0
+99 Dike	mass	3900.0
+101 Helena	mass	3000.0
+103 Hera	mass	7900.0
+104 Klymene	mass	2000.0
+105 Artemis	mass	1800.0
+107 Camilla	mass	1500.0
+107 Camilla    1	mass	1120.0
+109 Felicitas	mass	7500.0
+110 Lydia	mass	6700.0
+111 Ate	mass	2600.0
+112 Iphigenia	mass	3900.0
+113 Amalthea	mass	1000.0
+114 Kassandra	mass	1000.0
+115 Thyra	mass	5300.0
+116 Sirona	mass	3900.0
+117 Lomia	mass	3400.0
+118 Peitho	mass	7600.0
+119 Althaea	mass	2000.0
+120 Lachesis	mass	5500.0
+121 Hermione	mass	1600.0
+Tsyklon	mass	1.82E8
+Pegasus (rocket)	mass	1.85E7
+Pegasus (rocket)	mass	2.313E7
+122 Gerda	mass	5700.0
+123 Brunhild	mass	1200.0
+124 Alkeste	mass	4700.0
+125 Liberatrix	mass	8700.0
+126 Velleda	mass	9400.0
+128 Nemesis	mass	7000.0
+129 Antigone	mass	2000.0
+130 Elektra	mass	4000.0
+131 Vala	mass	6900.0
+134 Sophrosyne	mass	2000.0
+136 Austria	mass	6800.0
+137 Meliboea	mass	3200.0
+138 Tolosa	mass	9900.0
+140 Siwa	mass	1400.0
+142 Polana	mass	1800.0
+143 Adria	mass	7600.0
+144 Vibilia	mass	3000.0
+146 Lucina	mass	2400.0
+147 Protogeneia	mass	2500.0
+Perdita (moon)	mass	180.0
+145 Adeona	mass	3600.0
+148 Gallia	mass	9800.0
+149 Medusa	mass	8000.0
+153 Hilda	mass	1500.0
+Cupid (moon)	mass	3800.0
+Mab (moon)	mass	1000.0
+Francisco (moon)	mass	7200.0
+Margaret (moon)	mass	5500.0
+Ferdinand (moon)	mass	5400.0
+Falcon 5	mass	1.55E8
+Falcon 1	mass	3.8555E7
+LGM-25C Titan II	mass	1.54E8
+Titan IV	mass	9.4305E8
+Titan IIIB	mass	1.5654E8
+Titan IIIC	mass	6.2619E8
+Atlas II	mass	2.043E8
+Vanguard (rocket)	mass	1.00499616E7
+Expedition 9	mass	1.87016E8
+Expedition 8	mass	1.87016E8
+Expedition 7	mass	1.87016E8
+Expedition 6	mass	1.87016E8
+Expedition 4	mass	1.19438E8
+Expedition 3	mass	1.04018E8
+Expedition 2	mass	1.04018E8
+Expedition 10	mass	1.87016E8
+Kosmos-3M	mass	1.09E8
+H-IIA	mass	4.45E8
+Delta III	mass	3.0145E8
+Geosynchronous Satellite Launch Vehicle	mass	4.02E8
+Io (moon)	mass	8931.9
+2000 SG344	mass	7100.0
+Thor-Able	mass	5.1608E7
+99942 Apophis	mass	2700.0
+Dnepr-1	mass	2.11E8
+Expedition 11	mass	1.87016E8
+Sparta (rocket)	mass	3.0E7
+283 Emma	mass	1300.0
+387 Aquitania	mass	1800.0
+423 Diotima	mass	1600.0
+444 Gyptis	mass	1250.0
+GX (rocket)	mass	1.905E8
+Atlas V	mass	3.345E8
+Taurus (rocket)	mass	7.3E7
+Long March 3	mass	2.04E8
+Long March 3A	mass	2.41E8
+Naro-1	mass	1.4E8
+Makemake (dwarf planet)	mass	3000.0
+Soyuz-U	mass	3.13E8
+Tiangong (spacecraft)	mass	6.0E7
+Expedition 12	mass	1.87016E8
+Expedition 13	mass	1.87016E8
+Rokot	mass	1.07E8
+4581 Asclepius	mass	1010000.0
+4581 Asclepius	mass	1011000.0
+BA 330	mass	2.0E7
+BA 330	mass	2.3E7
+2002 Euler	mass	5500.0
+H-IIB	mass	5.31E8
+Falcon 9	mass	3.334E8
+563 Suleika	mass	1600.0
+741 Botolphia	mass	2700.0
+Long March 2C	mass	2.33E8
+3360 Syrinx	mass	8400.0
+Satellite Launch Vehicle	mass	1.7E7
+6188 Robertpepin	mass	5400.0
+Zenit-3SL	mass	4.622E8
+Augmented Satellite Launch Vehicle	mass	4.1E7
+(48639) 1995 TL8	mass	400.0
+7066 Nessus	mass	1600.0
+Zenit-2M	mass	4.589E8
+(55636) 2002 TX300	mass	1200.0
+2006 HZ51	mass	5400.0
+Saturn INT-21	mass	2.916E9
+Linus (moon)	mass	4000.0
+58534 Logos	mass	2700.0
+1999 Hirayama	mass	4100.0
+Atlas III	mass	2.14338E8
+Saturn INT-20	mass	2.304E9
+Genesis I	mass	1360000.0
+2177 Oliver	mass	8900.0
+Saturn II	mass	3.283E8
+Martin Marietta Spacemaster	mass	1.5876E9
+Start-1	mass	4.72E7
+Priroda	mass	1.97E7
+SpaceLoft XL	mass	353808.0
+2006 SU49	mass	7400.0
+VLS-1	mass	5.07E7
+Saturn C-8	mass	4.77026E9
+Starchaser 4	mass	747000.0
+Saturn-Shuttle	mass	2.304E9
+(208996) 2003 AZ84	mass	5300.0
+Romulus (moon)	mass	4000.0
+Remus (moon)	mass	2000.0
+(12538) 1998 OH	mass	2800.0
+Minotaur I	mass	3.62E7
+2006 XG1	mass	4200.0
+(15875) 1996 TP66	mass	4500.0
+(19255) 1994 VK8	mass	5600.0
+H-II	mass	2.6E8
+Soyuz-2 (rocket)	mass	3.05E8
+Soyuz-FG	mass	3.05E8
+1097 Vicia	mass	9800.0
+1098 Hakone	mass	1600.0
+1099 Figneria	mass	2700.0
+1101 Clematis	mass	5700.0
+120347 Salacia	mass	2040.0
+Geology of Mars	mass	6418.5
+Polyot (rocket)	mass	2.77E8
+Genesis II	mass	1360000.0
+Zenit-2	mass	4.449E8
+2007 CA19	mass	8900.0
+Kosmos 557	mass	1.94E7
+Saturn A-1	mass	5.24484E8
+Long March 4B	mass	2.492E8
+Ariane M	mass	1.874E9
+Jarvis (rocket)	mass	1.154E9
+Saturn V-B	mass	2.31332E9
+Saturn IB-D	mass	1.51198E9
+Sundancer	mass	8618400.0
+Kosmos 1686	mass	2.0E7
+Anthe (moon)	mass	5000.0
+Skylab B	mass	7.7088E7
+Proton-M	mass	7.128E8
+Long March 2D	mass	2.3225E8
+Taurus II	mass	2.4E8
+Molniya-M	mass	3.05E8
+Atlas I	mass	1.643E8
+Thor-Burner	mass	5.0E7
+Mars	mass	6418.5
+1404 Ajax	mass	5700.0
+1437 Diomedes	mass	4600.0
+1583 Antilochus	mass	1100.0
+1647 Menelaus	mass	3900.0
+1749 Telamon	mass	5600.0
+2260 Neoptolemus	mass	3900.0
+2456 Palamedes	mass	8100.0
+2759 Idomeneus	mass	2400.0
+2797 Teucer	mass	1400.0
+2920 Automedon	mass	1400.0
+3063 Makhaon	mass	1600.0
+3548 Eurybates	mass	3900.0
+3564 Talthybius	mass	3400.0
+3709 Polypoites	mass	1000.0
+2007 TU24	mass	2400.0
+(137108) 1999 AN10	mass	2900.0
+Tsyklon-2	mass	1.82E8
+Tsyklon-3	mass	1.89E8
+Safir (rocket)	mass	2.6E7
+5864 Montgolfier	mass	4652000.0
+Juno II	mass	5.511E7
+Sputnik (rocket)	mass	2.67E8
+Sputnik (rocket)	mass	2.693E8
+Kosmos-2I	mass	4.811E7
+Long March 3B	mass	4.258E8
+Long March 3B	mass	4.5897E8
+Long March 3C	mass	3.45E8
+Long March 4A	mass	2.49E8
+Strela (rocket)	mass	1.04E8
+Long March 2A	mass	1.9E8
+Long March 2E	mass	4.6E8
+VS-30	mass	1400000.0
+Scout X-2	mass	1.644E7
+Thor-Ablestar	mass	5.3E7
+DOS-2	mass	1.8425E7
+DOS-2	mass	1.8425232E7
+2003 UZ413	mass	2000.0
+Minotaur IV	mass	8.63E7
+2006 SQ372	mass	1700.0
+H-I	mass	1.4226E8
+N-I (rocket)	mass	1.3133E8
+N-II (rocket)	mass	1.3269E8
+Tiangong 1	mass	8000000.0
+Kosmos-1	mass	1.075E8
+Kosmos-3	mass	1.075E8
+Saturn V	mass	3.0386664E9
+Soyuz-U2	mass	2.978E8
+Haas (rocket)	mass	2.33E7
+NOTS-EV-1 Pilot	mass	900000.0
+Feng Bao 1	mass	1.917E8
+(145480) 2005 TB190	mass	6000.0
+Titan IIIA	mass	1.6173E8
+Titan IIID	mass	6.1299E8
+Titan IIIE	mass	6.3297E8
+Unha	mass	8.5E7
+Soyuz-1 (rocket)	mass	1.58E8
+Zenit-3SLB	mass	4.71E8
+Zenit-3F	mass	4.71E8
+Soyuz (rocket)	mass	3.08E8
+Soyuz-L	mass	3.0E8
+Soyuz-M	mass	3.0E8
+Mercury-Redstone Launch Vehicle	mass	3.0E7
+Titan 23G	mass	1.1702E8
+Titan II GLV	mass	1.5422E8
+Lambda 4S	mass	9400000.0
+Atlas LV-3B	mass	1.17936E8
+NOTS-EV-2 Caleb	mass	1350000.0
+Scout X	mass	1.67E7
+Scout X-1	mass	1.624E7
+RM-90 Blue Scout II	mass	1.6874E7
+RM-89 Blue Scout I	mass	1.6738E7
+Scout X-1A	mass	1.7E7
+Scout X-2M	mass	1.7E7
+Scout X-2B	mass	1.7E7
+Rus-M	mass	6.73E8
+Falcon 1e	mass	3.518E7
+VS-40	mass	6800000.0
+Athena I	mass	6.63E7
+Athena II	mass	1.207E8
+Bigelow Commercial Space Station	mass	1.0E8
+(126154) 2001 YH140	mass	4000.0
+(248835) 2006 SX368	mass	2000.0
+(55638) 2002 VE95	mass	5000.0
+2002 XV93	mass	1500.0
+BA 2100	mass	6.5E7
+Terasca	mass	1360800.0
+Cajun (rocket)	mass	75297.6
+Shavetail	mass	90720.0
+Troposphere (rocket family)	mass	200000.0
+Troposphere (rocket family)  Troposphere 5   1	mass	560000.0
+Falcon Heavy	mass	1.4E9

@@ -1,0 +1,98 @@
+Channel Tunnel	routeStartLocation	Folkestone
+Channel Tunnel	routeStartLocation	Kent
+Great Belt Fixed Link  The East Tunnel   1	routeStartLocation	Halsskov
+Queensway Tunnel	routeStartLocation	Liverpool
+Queensway Tunnel	routeStartLocation	Merseyside
+Kingsway Tunnel	routeStartLocation	Liverpool
+Kingsway Tunnel	routeStartLocation	Merseyside
+Kilsby Tunnel	routeStartLocation	Kilsby
+Blackwall Tunnel	routeStartLocation	London Borough of Tower Hamlets
+Seikan Tunnel	routeStartLocation	Honshu
+Sydney Harbour Tunnel	routeStartLocation	Warringah Freeway
+Gotthard Base Tunnel	routeStartLocation	Erstfeld
+Marmaray	routeStartLocation	Fatih
+Marmaray	routeStartLocation	Istanbul
+Marmaray	routeStartLocation	Turkey
+Ted Williams Tunnel	routeStartLocation	South Boston
+Callahan Tunnel	routeStartLocation	Downtown Crossing
+Sumner Tunnel	routeStartLocation	East Boston
+Cromer Tunnel	routeStartLocation	A149 road
+Center City Commuter Connection	routeStartLocation	Suburban Station
+Transbay Tube	routeStartLocation	Embarcadero Station
+Transbay Tube	routeStartLocation	San Francisco
+Cross-Harbour Tunnel	routeStartLocation	Hung Hom
+Cross-Harbour Tunnel	routeStartLocation	Kowloon
+Cross-Harbour Tunnel	routeStartLocation	Salisbury Road, Hong Kong
+Twin Peaks Tunnel	routeStartLocation	Eureka Station
+Market Street Subway	routeStartLocation	Embarcadero Station
+Fréjus Road Tunnel	routeStartLocation	Bardonecchia
+Furka Base Tunnel	routeStartLocation	Oberwald railway station
+Furka Base Tunnel	routeStartLocation	Valais
+Furka Base Tunnel	routeStartLocation	Switzerland
+Cross City Tunnel	routeStartLocation	New South Head Road
+Fort Pitt Tunnel	routeStartLocation	Interstate 376
+Lane Cove Tunnel	routeStartLocation	M2 Hills Motorway
+Lane Cove Tunnel	routeStartLocation	North Ryde, New South Wales
+Rimutaka Tunnel	routeStartLocation	Maymorn
+Rimutaka Tunnel	routeStartLocation	Upper Hutt
+Mount Victoria Tunnel	routeStartLocation	Mount Victoria, Wellington
+Oslo Tunnel	routeStartLocation	Oslo Central Station
+SMART Tunnel  Stormwater Management and Road Tunnel   1	routeStartLocation	Kuala Lumpur Middle Ring Road 1
+North River Tunnels	routeStartLocation	Secaucus Junction
+North River Tunnels	routeStartLocation	Secaucus, New Jersey
+North River Tunnels	routeStartLocation	Pennsylvania Station (Newark)
+North River Tunnels	routeStartLocation	Newark, New Jersey
+Hsuehshan Tunnel	routeStartLocation	Pinglin District
+Hsuehshan Tunnel	routeStartLocation	New Taipei
+Uptown Hudson Tubes	routeStartLocation	Christopher Street (PATH station)
+Savio Rail Tunnel	routeStartLocation	Savio
+Downtown Hudson Tubes	routeStartLocation	World Trade Center (PATH station)
+Hallandsås Tunnel	routeStartLocation	Förslöv
+Otira Tunnel	routeStartLocation	Otira
+Otira Tunnel	routeStartLocation	West Coast Region
+Brenner Base Tunnel	routeStartLocation	Innsbruck Hauptbahnhof
+Brenner Base Tunnel	routeStartLocation	Austria
+Thomas P. O'Neill Jr. Tunnel	routeStartLocation	South Boston
+City Tunnel (Malmö)	routeStartLocation	Malmö Central Station
+Traforo del Gran Sasso	routeStartLocation	L'Aquila
+Tyholt Tunnel	routeStartLocation	Lerkendal
+Lieråsen Tunnel	routeStartLocation	Asker Station
+Romerike Tunnel	routeStartLocation	Etterstad
+Ulriken Tunnel	routeStartLocation	Arna Station
+Atlantic Ocean Tunnel	routeStartLocation	Averøya
+Lyttelton Rail Tunnel	routeStartLocation	Lyttelton, New Zealand
+Hell Tunnel	routeStartLocation	Hommelvik
+Hell Tunnel	routeStartLocation	Malvik
+Robertson Tunnel	routeStartLocation	Goose Hollow, Portland, Oregon
+KLCC Tunnel	routeStartLocation	KLCC
+Hægebostad Tunnel	routeStartLocation	Audnedal Station
+Kvineshei Tunnel	routeStartLocation	Snartemo Station
+Henryton Tunnel	routeStartLocation	Howard County, Maryland
+Tanum Tunnel	routeStartLocation	Jong, Norway
+Tanum Tunnel	routeStartLocation	Bærum
+Gevingåsen Tunnel	routeStartLocation	Hommelvik Station
+Västlänken	routeStartLocation	Gothenburg Central Station
+Mount Washington Transit Tunnel	routeStartLocation	Station Square (PAT station)
+Broadway Tunnel (Los Angeles)	routeStartLocation	Temple Street (Los Angeles)
+Conococheague Mountain Tunnel	routeStartLocation	1894
+Mt. Lebanon Tunnel	routeStartLocation	Dormont Junction (PAT station)
+Festning Tunnel	routeStartLocation	Bjørvika
+Bjørvika Tunnel	routeStartLocation	Bjørvika
+Access to the Region's Core	routeStartLocation	North Bergen, New Jersey
+Tauern Railway Tunnel	routeStartLocation	Bad Gastein
+Tauern Railway Tunnel	routeStartLocation	Salzburg (state)
+Kanonersky Tunnel	routeStartLocation	Dvinskaya street
+Koralm Tunnel	routeStartLocation	Frauental an der Laßnitz
+2nd Street Tunnel	routeStartLocation	Figueroa Street
+Grand Rapids Medical Corridor North Pedestrian Tunnel	routeStartLocation	Butterworth Hospital
+Furka Summit Tunnel	routeStartLocation	Furka railway station
+Furka Summit Tunnel	routeStartLocation	Canton of Uri
+Aktio–Preveza Undersea Tunnel	routeStartLocation	Epirus (periphery)
+Aktio–Preveza Undersea Tunnel	routeStartLocation	Greece
+Freifjord Tunnel	routeStartLocation	Bergsøya
+Kinuura tunnel	routeStartLocation	Handa, Aichi
+Karisaka Tunnel	routeStartLocation	Chichibu, Saitama
+Karisaka Tunnel	routeStartLocation	Saitama Prefecture
+Eurasia Tunnel	routeStartLocation	Kazlıçeşme
+Eurasia Tunnel	routeStartLocation	Istanbul
+Eurasia Tunnel	routeStartLocation	Turkey

@@ -1,0 +1,3418 @@
+A Doll's House	characterInPlay	Nora
+A Doll's House	characterInPlay	Torvald Helmer
+A Doll's House	characterInPlay	Krogstad
+A Doll's House	characterInPlay	Mrs. Linde
+A Doll's House	characterInPlay	Dr. Rank
+A Doll's House	characterInPlay	Children
+A Doll's House	characterInPlay	Anne-Marie
+Rosencrantz and Guildenstern Are Dead	characterInPlay	Rosencrantz
+Rosencrantz and Guildenstern Are Dead	characterInPlay	Guildenstern
+Rosencrantz and Guildenstern Are Dead	characterInPlay	The Player
+Rosencrantz and Guildenstern Are Dead	characterInPlay	Hamlet
+Rosencrantz and Guildenstern Are Dead	characterInPlay	Tragedians
+Rosencrantz and Guildenstern Are Dead	characterInPlay	King Claudius
+Rosencrantz and Guildenstern Are Dead	characterInPlay	Gertrude
+Rosencrantz and Guildenstern Are Dead	characterInPlay	Polonius
+Rosencrantz and Guildenstern Are Dead	characterInPlay	Ophelia
+Rosencrantz and Guildenstern Are Dead	characterInPlay	Horatio
+Rosencrantz and Guildenstern Are Dead	characterInPlay	Fortinbras
+Rosencrantz and Guildenstern Are Dead	characterInPlay	Soldiers, courtiers, and musicians
+Waiting for Godot	characterInPlay	Vladimir
+Waiting for Godot	characterInPlay	Estragon
+Waiting for Godot	characterInPlay	Pozzo
+Waiting for Godot	characterInPlay	Lucky
+Waiting for Godot	characterInPlay	A Boy
+Amadeus	characterInPlay	Wolfgang Amadeus Mozart
+Amadeus	characterInPlay	Antonio Salieri
+Amadeus	characterInPlay	Constanze Weber
+Amadeus	characterInPlay	Katherina Cavalieri
+Amadeus	characterInPlay	Emperor Joseph II
+Amadeus	characterInPlay	Count Orsini-Rosenberg
+Amadeus	characterInPlay	Baron Gottfried van Swieten
+Amadeus	characterInPlay	Giuseppe Bonno
+Amadeus	characterInPlay	Count Johann Kilian von Strack
+Amadeus	characterInPlay	Priest
+Amadeus	characterInPlay	Teresa Salieri
+Amadeus	characterInPlay	Venticelli
+Amadeus	characterInPlay	Vienna Citizens
+Everyman (play)	characterInPlay	Everyman
+Everyman (play)	characterInPlay	Messenger
+Everyman (play)	characterInPlay	God
+Everyman (play)	characterInPlay	Death
+Everyman (play)	characterInPlay	Fellowship
+Everyman (play)	characterInPlay	Kindred
+Everyman (play)	characterInPlay	Cousin
+Everyman (play)	characterInPlay	Goods
+Everyman (play)	characterInPlay	Good Deeds
+Everyman (play)	characterInPlay	Knowledge
+Everyman (play)	characterInPlay	Confession
+Everyman (play)	characterInPlay	Beauty
+Everyman (play)	characterInPlay	Strength
+Everyman (play)	characterInPlay	Discretion
+Everyman (play)	characterInPlay	Five Wits
+Everyman (play)	characterInPlay	Angel
+Everyman (play)	characterInPlay	Doctor
+Who's Afraid of Virginia Woolf?	characterInPlay	Martha
+Who's Afraid of Virginia Woolf?	characterInPlay	George
+Who's Afraid of Virginia Woolf?	characterInPlay	Nick
+Who's Afraid of Virginia Woolf?	characterInPlay	Honey
+Smilin' Through (play)	characterInPlay	Kathleen Dungannon
+Smilin' Through (play)	characterInPlay	Moonyean Clare
+Smilin' Through (play)	characterInPlay	John Carteret
+Smilin' Through (play)	characterInPlay	Kenneth Wayne
+Smilin' Through (play)	characterInPlay	Jeremiah Wayne
+Our Town	characterInPlay	Stage Manager
+Our Town	characterInPlay	Mrs. Myrtle Webb
+Our Town	characterInPlay	Mr. Charles Webb
+Our Town	characterInPlay	George Gibbs
+Our Town	characterInPlay	Emily Webb
+Our Town	characterInPlay	Mrs. Julia Gibbs
+Our Town	characterInPlay	Dr. Frank F. Gibbs
+Our Town	characterInPlay	Simon Stimson
+Our Town	characterInPlay	Mrs. Soames
+Our Town	characterInPlay	Joe Crowell, Jr.
+Our Town	characterInPlay	Howie Newsome
+Our Town	characterInPlay	Rebecca Gibbs
+Our Town	characterInPlay	Wally Webb
+Our Town	characterInPlay	Professor Willard
+Our Town	characterInPlay	Woman in the Balcony
+Our Town	characterInPlay	Man in the Auditorium
+Our Town	characterInPlay	Lady in the Box
+Our Town	characterInPlay	Mrs. Louella Soames
+Our Town	characterInPlay	Constable Warren
+Our Town	characterInPlay	Si Crowell
+Our Town	characterInPlay	Three Baseball Players
+Our Town	characterInPlay	Sam Craig
+Our Town	characterInPlay	Joe Stoddard
+You Can't Take It with You	characterInPlay	Alice Sycamore
+You Can't Take It with You	characterInPlay	Anthony Kirby
+You Can't Take It with You	characterInPlay	Boris Kolenkhov
+You Can't Take It with You	characterInPlay	Donald
+You Can't Take It with You	characterInPlay	Ed Carmichael
+You Can't Take It with You	characterInPlay	Essie Carmichael
+You Can't Take It with You	characterInPlay	G-Men (FBI Agents)
+You Can't Take It with You	characterInPlay	Gay Wellington
+You Can't Take It with You	characterInPlay	Martin Vanderhof
+You Can't Take It with You	characterInPlay	Miriam Kirby
+You Can't Take It with You	characterInPlay	Mr. DePinna
+You Can't Take It with You	characterInPlay	Paul Sycamore
+You Can't Take It with You	characterInPlay	Penelope Sycamore
+You Can't Take It with You	characterInPlay	Rheba
+You Can't Take It with You	characterInPlay	The Grand Duchess Olga Katrina
+You Can't Take It with You	characterInPlay	Tony Kirby
+You Can't Take It with You	characterInPlay	Wilbur C. Henderson
+Antigone (Sophocles)	characterInPlay	Antigone
+Antigone (Sophocles)	characterInPlay	Ismene
+Antigone (Sophocles)	characterInPlay	Creon
+Antigone (Sophocles)	characterInPlay	Eurydice
+Antigone (Sophocles)	characterInPlay	Haemon
+Antigone (Sophocles)	characterInPlay	Tiresias
+Antigone (Sophocles)	characterInPlay	Sentry
+Antigone (Sophocles)	characterInPlay	First Messenger
+Antigone (Sophocles)	characterInPlay	Second Messenger
+Six Degrees of Separation (play)	characterInPlay	Ouisa
+Six Degrees of Separation (play)	characterInPlay	Flan
+Six Degrees of Separation (play)	characterInPlay	Paul
+Six Degrees of Separation (play)	characterInPlay	Geoffrey
+Six Degrees of Separation (play)	characterInPlay	Kitty
+Six Degrees of Separation (play)	characterInPlay	Larkin
+Six Degrees of Separation (play)	characterInPlay	Hustler
+Six Degrees of Separation (play)	characterInPlay	Detective
+Six Degrees of Separation (play)	characterInPlay	Doctor Fine
+Six Degrees of Separation (play)	characterInPlay	Doug
+Six Degrees of Separation (play)	characterInPlay	Policeman
+Six Degrees of Separation (play)	characterInPlay	Ben
+Six Degrees of Separation (play)	characterInPlay	Tess
+Six Degrees of Separation (play)	characterInPlay	Woody
+Six Degrees of Separation (play)	characterInPlay	Trent Conway
+The Bacchae	characterInPlay	Dionysus
+The Bacchae	characterInPlay	Teiresias
+The Bacchae	characterInPlay	Cadmus
+The Bacchae	characterInPlay	Pentheus
+The Bacchae	characterInPlay	Servant
+The Bacchae	characterInPlay	Messenger
+The Bacchae	characterInPlay	Second Messenger
+The Bacchae	characterInPlay	Agave
+Seven Against Thebes	characterInPlay	Eteocles
+Seven Against Thebes	characterInPlay	Antigone
+Seven Against Thebes	characterInPlay	Ismene
+Seven Against Thebes	characterInPlay	Messenger
+Becket	characterInPlay	Thomas Becket
+Becket	characterInPlay	King Henry II
+Becket	characterInPlay	King Louis VII
+Becket	characterInPlay	Cardinal Zambelli
+Becket	characterInPlay	Pope Alexander III
+Becket	characterInPlay	Bishop Folliot
+Becket	characterInPlay	Brother John
+Becket	characterInPlay	Empress Matilda
+Becket	characterInPlay	Eleanor of Aquitaine
+Oedipus the King	characterInPlay	Oedipus
+Oedipus the King	characterInPlay	Priest
+Oedipus the King	characterInPlay	Creon
+Oedipus the King	characterInPlay	Tiresias
+Oedipus the King	characterInPlay	Jocasta
+Oedipus the King	characterInPlay	Messenger
+Oedipus the King	characterInPlay	Shepherd
+Oedipus the King	characterInPlay	Second Messenger
+On Golden Pond (play)	characterInPlay	Norman Thayer, Jr.
+On Golden Pond (play)	characterInPlay	Ethel Thayer
+On Golden Pond (play)	characterInPlay	Chelsea Thayer Wayne
+On Golden Pond (play)	characterInPlay	Billy Ray
+On Golden Pond (play)	characterInPlay	Charlie Martin
+On Golden Pond (play)	characterInPlay	Bill Ray
+Noises Off	characterInPlay	Garry Lejeune
+Noises Off	characterInPlay	Dotty Otley
+Noises Off	characterInPlay	Lloyd Dallas
+Noises Off	characterInPlay	Belinda Blair
+Noises Off	characterInPlay	Frederick Fellowes
+Noises Off	characterInPlay	Brooke Ashton
+Noises Off	characterInPlay	Tim Allgood
+Noises Off	characterInPlay	Selsdon Mowbray
+Noises Off	characterInPlay	Poppy Norton-Taylor
+A Few Good Men (play)	characterInPlay	LTJG Daniel A. Kaffee
+A Few Good Men (play)	characterInPlay	Capt. Julius A. Randolph
+A Few Good Men (play)	characterInPlay	Pfc. Louden Downey
+A Few Good Men (play)	characterInPlay	LCDR JoAnne Galloway
+A Few Good Men (play)	characterInPlay	Capt. Isaac WhitakerLt. Jack Ross
+A Few Good Men (play)	characterInPlay	Capt. Matthew A. Markinson
+A Few Good Men (play)	characterInPlay	Lt. Col. Nathan R. Jessep
+A Few Good Men (play)	characterInPlay	LCpl. Harold W. Dawson
+A Few Good Men (play)	characterInPlay	1Lt Jonathan James Kendrick
+A Few Good Men (play)	characterInPlay	(among others)
+Funny Money	characterInPlay	Henry Perkins
+Funny Money	characterInPlay	Jean Perkins
+Funny Money	characterInPlay	Vic Johnson
+Funny Money	characterInPlay	Betty Johnson
+Funny Money	characterInPlay	Bill
+Funny Money	characterInPlay	Davenport
+Funny Money	characterInPlay	Slater
+Funny Money	characterInPlay	A passer-by
+Play (play)	characterInPlay	M
+Play (play)	characterInPlay	W1
+Play (play)	characterInPlay	W2
+Death of a Salesman	characterInPlay	Willy Loman
+Death of a Salesman	characterInPlay	Linda Loman
+Death of a Salesman	characterInPlay	Biff Loman
+Death of a Salesman	characterInPlay	Happy Loman
+Death of a Salesman	characterInPlay	Bernard
+Death of a Salesman	characterInPlay	Charley
+Death of a Salesman	characterInPlay	The Woman
+Oresteia	characterInPlay	Watchman
+Oresteia	characterInPlay	Clytemnestra
+Oresteia	characterInPlay	Herald
+Oresteia	characterInPlay	Agamemnon
+Oresteia	characterInPlay	Messenger
+Oresteia	characterInPlay	Cassandra
+Oresteia	characterInPlay	Aegisthus
+Oresteia	characterInPlay	Soldiers
+Oresteia	characterInPlay	Servants
+Oresteia	characterInPlay	Elders of Argos (Chorus)
+Oresteia  The Libation Bearers   1	characterInPlay	Orestes
+Oresteia  The Libation Bearers   1	characterInPlay	Electra
+Oresteia  The Libation Bearers   1	characterInPlay	Servant
+Oresteia  The Libation Bearers   1	characterInPlay	Clytaemnestra
+Oresteia  The Libation Bearers   1	characterInPlay	Pylades
+Oresteia  The Libation Bearers   1	characterInPlay	Cilissa
+Oresteia  The Libation Bearers   1	characterInPlay	Aegisthus
+Oresteia  The Libation Bearers   1	characterInPlay	Attendants
+Oresteia  The Eumenides   1	characterInPlay	Priestess
+Oresteia  The Eumenides   1	characterInPlay	Apollo
+Oresteia  The Eumenides   1	characterInPlay	Orestes
+Oresteia  The Eumenides   1	characterInPlay	Ghost of Clytaemnestra
+Oresteia  The Eumenides   1	characterInPlay	Athena
+Oresteia  The Eumenides   1	characterInPlay	Athenian citizens
+The Clouds	characterInPlay	*Strepsiades an elderly farmer
+The Clouds	characterInPlay	*Pheidippides his son
+The Clouds	characterInPlay	*Slave
+The Clouds	characterInPlay	*Two Students at The Thinkery
+The Clouds	characterInPlay	*Socrates the philosopher
+The Clouds	characterInPlay	*Superior Argument
+The Clouds	characterInPlay	*Inferior Argument'
+The Clouds	characterInPlay	*First Creditor
+The Clouds	characterInPlay	*Second Creditor
+The Clouds	characterInPlay	*Chaerephon the philosopher
+The Clouds	characterInPlay	Silent Roles
+The Clouds	characterInPlay	*Witness brought by First Creditor
+The Clouds	characterInPlay	*Students at the Thinkery
+The Clouds	characterInPlay	*Slaves to Strepsiades
+The Knights	characterInPlay	*Demosthenes a slave of Demos
+The Knights	characterInPlay	*Nicias another slave of Demos
+The Knights	characterInPlay	*Agoracritus a sausage seller
+The Knights	characterInPlay	*Paphlagonian (Cleon) a slave and steward of Demos
+The Knights	characterInPlay	*Demos an elderly Athenian
+The Knights	characterInPlay	Silent roles
+The Knights	characterInPlay	*The Peacetreaties two girls
+The Knights	characterInPlay	*Several slaves
+Oedipus at Colonus	characterInPlay	Oedipus
+Oedipus at Colonus	characterInPlay	Antigone
+Oedipus at Colonus	characterInPlay	Man from Colonus
+Oedipus at Colonus	characterInPlay	Ismene
+Oedipus at Colonus	characterInPlay	Theseus
+Oedipus at Colonus	characterInPlay	Creon
+Oedipus at Colonus	characterInPlay	Polyneices
+Oedipus at Colonus	characterInPlay	Messenger
+The Great White Hope	characterInPlay	Jack Jefferson
+The Great White Hope	characterInPlay	Eleanor Backman
+The Great White Hope	characterInPlay	Goldie
+The Great White Hope	characterInPlay	Tick
+The Great White Hope	characterInPlay	Pop Weaver
+The Great White Hope	characterInPlay	Dixon
+The Great White Hope	characterInPlay	Clara
+The Great White Hope	characterInPlay	Cap'n Dan
+The Great White Hope	characterInPlay	Al Cameron
+The Great White Hope	characterInPlay	Mama Tiny
+The Great White Hope	characterInPlay	Scipio
+Equus (play)	characterInPlay	Martin Dysart
+Equus (play)	characterInPlay	Alan Strang
+Equus (play)	characterInPlay	Frank Strang
+Equus (play)	characterInPlay	Jill Mason
+Equus (play)	characterInPlay	Hesther Saloman
+Equus (play)	characterInPlay	Dora Strang
+Equus (play)	characterInPlay	Nurse
+Equus (play)	characterInPlay	Harry Dalton
+Equus (play)	characterInPlay	Horseman
+Equus (play)	characterInPlay	Nugget
+'night, Mother	characterInPlay	Jessie Cates
+'night, Mother	characterInPlay	Thelma Cates
+Proof (play)	characterInPlay	Catherine
+Proof (play)	characterInPlay	Robert
+Proof (play)	characterInPlay	Hal
+Proof (play)	characterInPlay	Claire
+The Field	characterInPlay	Hugh McCabe
+The Field	characterInPlay	William Dee
+The Field	characterInPlay	Mick Flanagan
+The Field	characterInPlay	Maggie McCabe
+Lysistrata	characterInPlay	*Lysistrata
+Lysistrata	characterInPlay	*Calonice
+Lysistrata	characterInPlay	*Myrrhine
+Lysistrata	characterInPlay	*Lampito
+Lysistrata	characterInPlay	*Magistrate member of the Committee of Ten
+Lysistrata	characterInPlay	*Cinesias
+Lysistrata	characterInPlay	*Baby son to Cinesias and Myrrhine
+Lysistrata	characterInPlay	*Spartan Herald
+Lysistrata	characterInPlay	*Spartan Ambassador
+Lysistrata	characterInPlay	*Athenian Negotiator
+Lysistrata	characterInPlay	*Two Layabouts
+Lysistrata	characterInPlay	*Doorkeeper of the Acropolis
+Lysistrata	characterInPlay	*Two Diners
+Lysistrata	characterInPlay	*Stratyllis leader of Women's Chorus
+Lysistrata	characterInPlay	*Five Young Women
+Lysistrata	characterInPlay	Silent roles
+Lysistrata	characterInPlay	*Ismenia a Boeotian woman
+Lysistrata	characterInPlay	*Corinthian Woman
+Lysistrata	characterInPlay	*Reconciliation
+Lysistrata	characterInPlay	*Four Scythian Policemen
+Lysistrata	characterInPlay	*Scythian Policewoman
+Lysistrata	characterInPlay	*Athenian citizens, Spartan envoys, slaves etc.
+The Crucible	characterInPlay	Abigail Williams
+The Crucible	characterInPlay	Reverend John Hale
+The Crucible	characterInPlay	Reverend Samuel Parris
+The Crucible	characterInPlay	John Proctor
+The Crucible	characterInPlay	Elizabeth Proctor
+The Crucible	characterInPlay	Thomas Danforth
+The Crucible	characterInPlay	Mary Warren
+The Crucible	characterInPlay	John Hathorne
+The Crucible	characterInPlay	Giles Corey
+Long Day's Journey into Night	characterInPlay	Mary Cavan Tyrone
+Long Day's Journey into Night	characterInPlay	James Tyrone
+Long Day's Journey into Night	characterInPlay	Edmund Tyrone
+Long Day's Journey into Night	characterInPlay	James Tyrone, Jr.
+Long Day's Journey into Night	characterInPlay	Cathleen
+The Subject Was Roses	characterInPlay	John Cleary
+The Subject Was Roses	characterInPlay	Nettie Cleary
+The Subject Was Roses	characterInPlay	Timmy Cleary
+Same Time, Next Year	characterInPlay	Doris, George
+Crimes of the Heart	characterInPlay	Babe Botrelle
+Crimes of the Heart	characterInPlay	Meg MaGrath
+Crimes of the Heart	characterInPlay	Lenny MaGrath
+Crimes of the Heart	characterInPlay	Barnette Lloyd
+Crimes of the Heart	characterInPlay	Doc Porter
+Crimes of the Heart	characterInPlay	Chick Boyle
+M. Butterfly	characterInPlay	Rene Gallimard
+M. Butterfly	characterInPlay	Song Liling
+M. Butterfly	characterInPlay	Marc
+M. Butterfly	characterInPlay	Helga
+M. Butterfly	characterInPlay	M. Toulon
+M. Butterfly	characterInPlay	Comrade Chin
+M. Butterfly	characterInPlay	Renee and others
+The School for Scandal	characterInPlay	Sir Peter Teazle
+The School for Scandal	characterInPlay	Lady Teazle
+The School for Scandal	characterInPlay	Sir Oliver Surface
+The School for Scandal	characterInPlay	Joseph Surface
+The School for Scandal	characterInPlay	Charles Surface
+The School for Scandal	characterInPlay	Maria
+The School for Scandal	characterInPlay	Lady Sneerwell
+The School for Scandal	characterInPlay	Sir Benjamin Backbite
+The School for Scandal	characterInPlay	Sir Harry Bumper
+The School for Scandal	characterInPlay	Careless
+The School for Scandal	characterInPlay	Rowley
+The School for Scandal	characterInPlay	Snake
+The School for Scandal	characterInPlay	Trip
+The School for Scandal	characterInPlay	Mrs Candour
+The School for Scandal	characterInPlay	Crabtree
+The School for Scandal	characterInPlay	Moses
+The Birds (play)	characterInPlay	*Pisthetaerus citizen of Athens
+The Birds (play)	characterInPlay	*Euelpides citizen of Athens
+The Birds (play)	characterInPlay	*The Footbird servant to the Hoopoe
+The Birds (play)	characterInPlay	*Hoopoe formerly Tereus, an Athenian prince
+The Birds (play)	characterInPlay	*A priest (masked as a bird)
+The Birds (play)	characterInPlay	*A ragged poet
+The Birds (play)	characterInPlay	*An oracle man
+The Birds (play)	characterInPlay	*Meton famous mathematician
+The Birds (play)	characterInPlay	*A statute seller
+The Birds (play)	characterInPlay	*An inspector
+The Birds (play)	characterInPlay	*1st messenger (a bird)
+The Birds (play)	characterInPlay	*2nd messenger (a bird)
+The Birds (play)	characterInPlay	*Iris daughter of Zeus
+The Birds (play)	characterInPlay	*3rd messenger (a bird)
+The Birds (play)	characterInPlay	*A rebellious youth
+The Birds (play)	characterInPlay	*Cinesias famous poet
+The Birds (play)	characterInPlay	*An informer
+The Birds (play)	characterInPlay	*Prometheus demigod and friend to Man
+The Birds (play)	characterInPlay	*Poseidon god of the sea
+The Birds (play)	characterInPlay	*Heracles demigod
+The Birds (play)	characterInPlay	*God of the Triballians
+The Birds (play)	characterInPlay	*Heavenly herald
+The Birds (play)	characterInPlay	*Xanthias slave to Pisthetaerus
+The Birds (play)	characterInPlay	Silent roles
+The Birds (play)	characterInPlay	*Manes slave to Pisthetaerus
+The Birds (play)	characterInPlay	*Bird dancers (flamingo, cock, 2nd Hoopoe, Gobbler)
+The Birds (play)	characterInPlay	*Nightingale formerly Procne (flute player)
+The Birds (play)	characterInPlay	*Raven piper
+The Birds (play)	characterInPlay	*Sovereignty beauteous maid
+The Birds (play)	characterInPlay	*Attendants as required
+No Exit	characterInPlay	Joseph Garcin
+No Exit	characterInPlay	In\u00E8s Serrano
+No Exit	characterInPlay	Estelle Rigault
+No Exit	characterInPlay	Valet
+The Dumb Waiter	characterInPlay	Ben
+The Dumb Waiter	characterInPlay	Gus
+Prometheus Bound	characterInPlay	Cratus
+Prometheus Bound	characterInPlay	Bia
+Prometheus Bound	characterInPlay	Hephaestus
+Prometheus Bound	characterInPlay	Prometheus
+Prometheus Bound	characterInPlay	Oceanus
+Prometheus Bound	characterInPlay	Io
+Prometheus Bound	characterInPlay	Hermes
+The Persians	characterInPlay	Atossa
+The Persians	characterInPlay	Messenger
+The Persians	characterInPlay	Ghost of Darius
+The Persians	characterInPlay	Xerxes
+Come and Go	characterInPlay	Flo, Vi, Ru
+Rough for Theatre II	characterInPlay	A (Bertrand)
+Rough for Theatre II	characterInPlay	B (Morven)
+Rough for Theatre II	characterInPlay	C (Croker)
+Krapp's Last Tape	characterInPlay	Krapp
+Angels in America: A Gay Fantasia on National Themes	characterInPlay	Joe Pitt
+Angels in America: A Gay Fantasia on National Themes	characterInPlay	Roy Cohn
+Angels in America: A Gay Fantasia on National Themes	characterInPlay	Ethel Rosenberg
+Angels in America: A Gay Fantasia on National Themes	characterInPlay	Homeless Woman
+Angels in America: A Gay Fantasia on National Themes	characterInPlay	Harper Pitt
+Angels in America: A Gay Fantasia on National Themes	characterInPlay	Leatherman
+Angels in America: A Gay Fantasia on National Themes	characterInPlay	Belize
+Angels in America: A Gay Fantasia on National Themes	characterInPlay	Louis Ironson
+Angels in America: A Gay Fantasia on National Themes	characterInPlay	Prior Walter
+Angels in America: A Gay Fantasia on National Themes	characterInPlay	The Angel
+Angels in America: A Gay Fantasia on National Themes  Angels in America: Perestroika   1	characterInPlay	Joe Pitt
+Angels in America: A Gay Fantasia on National Themes  Angels in America: Perestroika   1	characterInPlay	Roy Cohn
+Angels in America: A Gay Fantasia on National Themes  Angels in America: Perestroika   1	characterInPlay	Ethel Rosenberg
+Angels in America: A Gay Fantasia on National Themes  Angels in America: Perestroika   1	characterInPlay	Harper Pitt
+Angels in America: A Gay Fantasia on National Themes  Angels in America: Perestroika   1	characterInPlay	Belize
+Angels in America: A Gay Fantasia on National Themes  Angels in America: Perestroika   1	characterInPlay	Louis Ironson
+Angels in America: A Gay Fantasia on National Themes  Angels in America: Perestroika   1	characterInPlay	Prior Walter
+Angels in America: A Gay Fantasia on National Themes  Angels in America: Perestroika   1	characterInPlay	The Angel
+Angels in America: A Gay Fantasia on National Themes  Angels in America: Perestroika   1	characterInPlay	Continental Principalities
+The World and the Child	characterInPlay	Mundus, the world
+The World and the Child	characterInPlay	Infans, the child
+The World and the Child	characterInPlay	Wanton
+The World and the Child	characterInPlay	Lust and Liking
+The World and the Child	characterInPlay	Manhood
+The World and the Child	characterInPlay	Conscience
+The World and the Child	characterInPlay	Folly
+The World and the Child	characterInPlay	Perseverance
+The World and the Child	characterInPlay	Age
+A Delicate Balance (play)	characterInPlay	Agnes
+A Delicate Balance (play)	characterInPlay	Tobias
+A Delicate Balance (play)	characterInPlay	Claire
+A Delicate Balance (play)	characterInPlay	Edna
+A Delicate Balance (play)	characterInPlay	Harry
+A Delicate Balance (play)	characterInPlay	Julia
+Doctor Faustus (play)	characterInPlay	Doctor Faustus
+Doctor Faustus (play)	characterInPlay	Chorus
+Doctor Faustus (play)	characterInPlay	Wagner
+Doctor Faustus (play)	characterInPlay	Good Angel
+Doctor Faustus (play)	characterInPlay	Bad Angel
+Doctor Faustus (play)	characterInPlay	Valdes
+Doctor Faustus (play)	characterInPlay	Cornelius
+Doctor Faustus (play)	characterInPlay	Three scholars
+Doctor Faustus (play)	characterInPlay	Lucifer
+Doctor Faustus (play)	characterInPlay	Mephistophilis
+Doctor Faustus (play)	characterInPlay	Robin
+Doctor Faustus (play)	characterInPlay	Beelzebub
+Doctor Faustus (play)	characterInPlay	Seven Deadly Sins
+Doctor Faustus (play)	characterInPlay	Dick
+Doctor Faustus (play)	characterInPlay	Pope Adrian VI
+Doctor Faustus (play)	characterInPlay	Raymond, King of Hungary
+Doctor Faustus (play)	characterInPlay	Bruno
+Doctor Faustus (play)	characterInPlay	Two Cardinals
+Doctor Faustus (play)	characterInPlay	Archbishop of Rheims
+Doctor Faustus (play)	characterInPlay	Friars
+Doctor Faustus (play)	characterInPlay	Vintner
+Doctor Faustus (play)	characterInPlay	Martino
+Doctor Faustus (play)	characterInPlay	Frederick
+Doctor Faustus (play)	characterInPlay	Benvolio
+Doctor Faustus (play)	characterInPlay	Charles V
+Doctor Faustus (play)	characterInPlay	Duke of Saxony
+Doctor Faustus (play)	characterInPlay	Two soldiers
+Doctor Faustus (play)	characterInPlay	Horse courser
+Doctor Faustus (play)	characterInPlay	Carter
+Doctor Faustus (play)	characterInPlay	Hostess of a tavern
+Doctor Faustus (play)	characterInPlay	Duke and Duchess of Vanholt
+Doctor Faustus (play)	characterInPlay	Servant
+Doctor Faustus (play)	characterInPlay	Old man
+Medea (play)	characterInPlay	Medea
+Medea (play)	characterInPlay	Nurse
+Medea (play)	characterInPlay	Tutor
+Medea (play)	characterInPlay	Aegeus
+Medea (play)	characterInPlay	Creon
+Medea (play)	characterInPlay	Jason
+Medea (play)	characterInPlay	Messenger
+The Frogs	characterInPlay	Dionysus
+The Frogs	characterInPlay	Xanthias, Dionysus' slave
+The Frogs	characterInPlay	Heracles
+The Frogs	characterInPlay	corpse
+The Frogs	characterInPlay	Charon
+The Frogs	characterInPlay	Aeacus, janitor of Hades
+The Frogs	characterInPlay	maid
+The Frogs	characterInPlay	hostess
+The Frogs	characterInPlay	Plathane, maid of the inn
+The Frogs	characterInPlay	Euripides
+The Frogs	characterInPlay	Aeschylus
+The Frogs	characterInPlay	Pluto
+The Frogs	characterInPlay	various extras
+Endgame (play)	characterInPlay	Hamm
+Endgame (play)	characterInPlay	Clov
+Endgame (play)	characterInPlay	Nagg
+Endgame (play)	characterInPlay	Nell
+The Goat, or Who Is Sylvia?	characterInPlay	Martin
+The Goat, or Who Is Sylvia?	characterInPlay	Stevie
+The Goat, or Who Is Sylvia?	characterInPlay	Billy
+The Goat, or Who Is Sylvia?	characterInPlay	Ross
+Travesties	characterInPlay	James Joyce
+Travesties	characterInPlay	Bennett
+Travesties	characterInPlay	Nadezhda Krupskaya
+Travesties	characterInPlay	Tristan Tzara
+Travesties	characterInPlay	Cecily Carruthers
+Travesties	characterInPlay	Gwendolen Carr
+Travesties	characterInPlay	Vladimir Ilyich Ulyanov
+Travesties	characterInPlay	Henry Carr
+The Laramie Project	characterInPlay	Residents of Laramie and members of the Tectonic Theater Project
+Master Harold...and the Boys	characterInPlay	Hally
+Master Harold...and the Boys	characterInPlay	Sam
+Master Harold...and the Boys	characterInPlay	Willy
+Glengarry Glen Ross	characterInPlay	Richard Roma
+Glengarry Glen Ross	characterInPlay	Shelly Levene
+Glengarry Glen Ross	characterInPlay	James Lingk
+Glengarry Glen Ross	characterInPlay	John Williamson
+Glengarry Glen Ross	characterInPlay	George Aaronow
+Glengarry Glen Ross	characterInPlay	Dave Moss
+Glengarry Glen Ross	characterInPlay	Baylen
+The Acharnians	characterInPlay	*Dikaiopolis
+The Acharnians	characterInPlay	*Crier
+The Acharnians	characterInPlay	*Amphitheus an immortal
+The Acharnians	characterInPlay	*Ambassador lately returned from Persian court
+The Acharnians	characterInPlay	*Pseudartabas The Great King's Eye
+The Acharnians	characterInPlay	*Theorus ambassador to Thrace
+The Acharnians	characterInPlay	*Daughter to Dikaiopolis
+The Acharnians	characterInPlay	*Cephisophon Euripides' leading actor
+The Acharnians	characterInPlay	*Euripides the tragic poet
+The Acharnians	characterInPlay	*Lamachus the general
+The Acharnians	characterInPlay	*A Megarian
+The Acharnians	characterInPlay	*Two daughters to the Megarian
+The Acharnians	characterInPlay	*Informer
+The Acharnians	characterInPlay	*A Boeotian
+The Acharnians	characterInPlay	*Nicarchus another informer
+The Acharnians	characterInPlay	*A servant of Lamachus
+The Acharnians	characterInPlay	*Farmer
+The Acharnians	characterInPlay	*Best Man
+The Acharnians	characterInPlay	*Two messengers
+The Acharnians	characterInPlay	Silent Roles
+The Acharnians	characterInPlay	*Reconciliation divine woman
+The Acharnians	characterInPlay	*The Executive Committee or Prytanis
+The Acharnians	characterInPlay	*Scythian Policeman
+The Acharnians	characterInPlay	*Second ambassador
+The Acharnians	characterInPlay	*Two 'eunuchs'
+The Acharnians	characterInPlay	*Odomantian soldiers
+The Acharnians	characterInPlay	*Wife to Dikaiopolis
+The Acharnians	characterInPlay	*Boeotian pipe band
+The Acharnians	characterInPlay	*Eel
+The Acharnians	characterInPlay	*Bridesmaid
+The Acharnians	characterInPlay	*Two dancing girls
+The Acharnians	characterInPlay	*The Archon basileus
+The Acharnians	characterInPlay	*Citizens, slaves, revellers, Lamachus' friends etc.
+The Wasps	characterInPlay	*Anticleon (Bdelycleon) a young Athenian
+The Wasps	characterInPlay	*Procleon (Philocleon) his father
+The Wasps	characterInPlay	*Sosias their household slave
+The Wasps	characterInPlay	*Xanthias another household slave
+The Wasps	characterInPlay	*First Dog
+The Wasps	characterInPlay	*A reveller
+The Wasps	characterInPlay	*A baking-woman
+The Wasps	characterInPlay	*A citizen
+The Wasps	characterInPlay	Silent Roles
+The Wasps	characterInPlay	*Midas household slave
+The Wasps	characterInPlay	*Phryx household slave
+The Wasps	characterInPlay	*Masyntias household slave
+The Wasps	characterInPlay	*Second Dog (Labes)
+The Wasps	characterInPlay	*Dardanis flute girl
+The Wasps	characterInPlay	*Chaerephon the philososper
+The Wasps	characterInPlay	*Witnesses brought by the Citizen
+The Wasps	characterInPlay	*Cooking Utensils witnesses at trial of Second Dog
+The Wasps	characterInPlay	*Puppies children to Second Dog
+The Wasps	characterInPlay	*Revellers
+The Wasps	characterInPlay	*Three Sons of Carcinus
+Yentl	characterInPlay	Yentl
+Yentl	characterInPlay	Avigdor
+Yentl	characterInPlay	Hadass
+Three Sisters (play)	characterInPlay	Prozorov family:
+Three Sisters (play)	characterInPlay	* Olga Sergeyevna Prozorova
+Three Sisters (play)	characterInPlay	* Maria Sergeyevna Kulygina
+Three Sisters (play)	characterInPlay	* Irina Sergeyevna Prozorova
+Three Sisters (play)	characterInPlay	* Andrei Sergeyevich Prozorov
+Poenulus	characterInPlay	Agorastocles
+Poenulus	characterInPlay	Milphio
+Poenulus	characterInPlay	Adelphasium
+Poenulus	characterInPlay	Anterastilus
+Poenulus	characterInPlay	Lycus
+Poenulus	characterInPlay	Antamonides
+Poenulus	characterInPlay	counselors
+Poenulus	characterInPlay	Collybisucus
+Poenulus	characterInPlay	Syncerastus
+Poenulus	characterInPlay	Hanno
+Poenulus	characterInPlay	Giddenis
+Poenulus	characterInPlay	slave boy
+Streamers	characterInPlay	Roger
+Streamers	characterInPlay	Richie
+Streamers	characterInPlay	Carlyle
+Streamers	characterInPlay	M.P.
+Streamers	characterInPlay	Martin
+Streamers	characterInPlay	Sgt. Rooney
+Streamers	characterInPlay	Clark, M.P.
+Streamers	characterInPlay	Hinson, M.P.
+Streamers	characterInPlay	Billy
+Streamers	characterInPlay	M.P. Officer
+Streamers	characterInPlay	Sgt. Cokes
+Life of Galileo	characterInPlay	Galileo, Andrea Sarti, Mrs Sarti, Ludovico Marsili, Virginia, Sagredo, Federzoni, Mr Priuli, Cosimo de Medici, Father Christopher Clavius, Cardinal Barberini, Fillipo Mucius, Mr Gaffone, Vanni, Senator, 1st Monk, Puppeteer, Rector
+Hippolytus (play)	characterInPlay	Aphrodite
+Hippolytus (play)	characterInPlay	Hippolytus
+Hippolytus (play)	characterInPlay	Attendants
+Hippolytus (play)	characterInPlay	Nurse
+Hippolytus (play)	characterInPlay	Phaedra
+Hippolytus (play)	characterInPlay	Theseus
+Hippolytus (play)	characterInPlay	Messenger
+Hippolytus (play)	characterInPlay	Artemis
+I Am My Own Wife	characterInPlay	Charlotte von Mahlsdorf, et al.
+Torch Song Trilogy	characterInPlay	Arnold Beckoff
+Torch Song Trilogy	characterInPlay	Ed
+Torch Song Trilogy	characterInPlay	Lady Blues
+Torch Song Trilogy	characterInPlay	Mrs. Beckoff
+Torch Song Trilogy	characterInPlay	Alan
+Torch Song Trilogy	characterInPlay	David
+Torch Song Trilogy	characterInPlay	Laurel
+Electra (Sophocles)	characterInPlay	Orestes
+Electra (Sophocles)	characterInPlay	Electra
+Electra (Sophocles)	characterInPlay	Chrysothemis
+Electra (Sophocles)	characterInPlay	old man
+Electra (Sophocles)	characterInPlay	Clytemnestra
+Electra (Sophocles)	characterInPlay	Aegisthus
+Black Comedy (play)	characterInPlay	Brindsley Miller
+Black Comedy (play)	characterInPlay	Carol Melkett
+Black Comedy (play)	characterInPlay	Miss Furnival
+Black Comedy (play)	characterInPlay	Colonel Melkett
+Black Comedy (play)	characterInPlay	Harold Gorringe
+Black Comedy (play)	characterInPlay	Schuppanzigh
+Black Comedy (play)	characterInPlay	Clea
+Black Comedy (play)	characterInPlay	Georg Bamberger
+Entertaining Mr Sloane	characterInPlay	Sloane, a young, good-looking psychopathKath, a middle-aged landladyEd, Kath's brotherKemp, Kath and Ed's father
+4.48 Psychosis	characterInPlay	None
+The Wild Duck	characterInPlay	H\u00E5kon Werle
+The Wild Duck	characterInPlay	Gregers Werle
+The Wild Duck	characterInPlay	Old Ekdal
+The Wild Duck	characterInPlay	Hjalmar Ekdal
+The Wild Duck	characterInPlay	Gina Ekdal
+The Wild Duck	characterInPlay	Hedvig Ekdal
+The Wild Duck	characterInPlay	Mrs. S\u00F8rby
+The Wild Duck	characterInPlay	Relling
+The Wild Duck	characterInPlay	Molvik
+The Wild Duck	characterInPlay	Pettersen
+The Wild Duck	characterInPlay	Jensen
+The Wild Duck	characterInPlay	Mr. Balle
+The Wild Duck	characterInPlay	Mr. Flor
+A Lie of the Mind	characterInPlay	Baylor
+A Lie of the Mind	characterInPlay	Jake
+A Lie of the Mind	characterInPlay	Lorraine
+A Lie of the Mind	characterInPlay	Mike
+A Lie of the Mind	characterInPlay	Beth
+A Lie of the Mind	characterInPlay	Frankie
+A Lie of the Mind	characterInPlay	Meg
+A Lie of the Mind	characterInPlay	Sally
+All My Sons	characterInPlay	Joe Keller
+All My Sons	characterInPlay	Kate Keller
+All My Sons	characterInPlay	Chris Keller
+All My Sons	characterInPlay	Ann Deever
+All My Sons	characterInPlay	George Deever
+All My Sons	characterInPlay	Frank Lubey
+All My Sons	characterInPlay	Lydia Lubey
+All My Sons	characterInPlay	Jim Bayliss
+All My Sons	characterInPlay	Sue Bayliss
+All My Sons	characterInPlay	Bert
+The Trojan Women	characterInPlay	Hecuba
+The Trojan Women	characterInPlay	Cassandra
+The Trojan Women	characterInPlay	Andromache
+The Trojan Women	characterInPlay	Talthybius
+The Trojan Women	characterInPlay	Menelaus
+The Trojan Women	characterInPlay	Helen
+The Trojan Women	characterInPlay	Poseidon
+The Trojan Women	characterInPlay	Athena
+Thesmophoriazusae	characterInPlay	*Euripides the poet
+Thesmophoriazusae	characterInPlay	*Mnesilochus his elderly in-law
+Thesmophoriazusae	characterInPlay	*Agathon another poet
+Thesmophoriazusae	characterInPlay	*Cleisthenes a notorious homosexual
+Thesmophoriazusae	characterInPlay	*A servant of Agathon
+Thesmophoriazusae	characterInPlay	*A prytanis (magistrate)
+Thesmophoriazusae	characterInPlay	*A Scythian bowman (policeman)
+Thesmophoriazusae	characterInPlay	*Micca ('1st woman')
+Thesmophoriazusae	characterInPlay	*Myrtle vendor ('2nd woman')
+Thesmophoriazusae	characterInPlay	*Critylla ('3rd woman')
+Thesmophoriazusae	characterInPlay	*Herald ''/leader of Woman's Chorus
+Thesmophoriazusae	characterInPlay	Silent roles:
+Thesmophoriazusae	characterInPlay	*Manya Micca's nursemaid
+Thesmophoriazusae	characterInPlay	*Philista another maid to Micca
+Thesmophoriazusae	characterInPlay	*A dancing girl
+Iphigenia in Aulis	characterInPlay	Agamemnon
+Iphigenia in Aulis	characterInPlay	Menelaus
+Iphigenia in Aulis	characterInPlay	Clytemnestra
+Iphigenia in Aulis	characterInPlay	Iphigenia
+Iphigenia in Aulis	characterInPlay	Achilles
+Iphigenia in Aulis	characterInPlay	attendant
+Woyzeck	characterInPlay	Woyzeck, Marie, Andres, Louis, Margret, Karl, Captain, Doctor, Drum Major, Apprentices, Children, People
+Iphigenia in Tauris	characterInPlay	Iphigeneia
+Iphigenia in Tauris	characterInPlay	Orestes
+Iphigenia in Tauris	characterInPlay	Pylades
+Iphigenia in Tauris	characterInPlay	King Thoas
+Iphigenia in Tauris	characterInPlay	Athena
+Iphigenia in Tauris	characterInPlay	herdsman
+Iphigenia in Tauris	characterInPlay	servant
+Helen (play)	characterInPlay	Helen
+Helen (play)	characterInPlay	Teucer
+Helen (play)	characterInPlay	Menelaus
+Helen (play)	characterInPlay	Proteus
+Helen (play)	characterInPlay	First Messenger
+Helen (play)	characterInPlay	Second Messenger
+Helen (play)	characterInPlay	Theonoe
+Helen (play)	characterInPlay	King Theoclymenus
+Helen (play)	characterInPlay	Servent
+Helen (play)	characterInPlay	Castor
+Alcestis (play)	characterInPlay	Apollo
+Alcestis (play)	characterInPlay	Thanatos / Death
+Alcestis (play)	characterInPlay	Maidservant
+Alcestis (play)	characterInPlay	Alcestis
+Alcestis (play)	characterInPlay	Admetus
+Alcestis (play)	characterInPlay	Eumelus
+Alcestis (play)	characterInPlay	Heracles
+Alcestis (play)	characterInPlay	Pheres
+Electra (Euripides)	characterInPlay	Electra
+Electra (Euripides)	characterInPlay	Orestes
+Electra (Euripides)	characterInPlay	Clytemnestra
+Electra (Euripides)	characterInPlay	Castor
+Electra (Euripides)	characterInPlay	Electra's husband
+Electra (Euripides)	characterInPlay	servants
+Six Characters in Search of an Author	characterInPlay	Manager
+Six Characters in Search of an Author	characterInPlay	Father
+Six Characters in Search of an Author	characterInPlay	Mother
+Six Characters in Search of an Author	characterInPlay	Stepdaughter
+Six Characters in Search of an Author	characterInPlay	Son
+Six Characters in Search of an Author	characterInPlay	Boy
+Six Characters in Search of an Author	characterInPlay	Child
+Hapgood	characterInPlay	Hapgood
+Hapgood	characterInPlay	Blair
+Hapgood	characterInPlay	Kerner
+Hapgood	characterInPlay	Ridley
+Hapgood	characterInPlay	Wates
+Hapgood	characterInPlay	Merryweather
+Hapgood	characterInPlay	Maggs
+Hapgood	characterInPlay	Joe
+Hapgood	characterInPlay	Russian
+Loot (play)	characterInPlay	McLeavy, Fay, Hal, Dennis, Truscott, Meadows
+Yerma	characterInPlay	Yerma
+Yerma	characterInPlay	Juan
+Yerma	characterInPlay	Victor
+Yerma	characterInPlay	Maria
+Yerma	characterInPlay	Dolores
+Yerma	characterInPlay	Two Sisters-in-law
+Yerma	characterInPlay	Pagan Old Woman
+Yerma	characterInPlay	Male
+Yerma	characterInPlay	Female
+Yerma	characterInPlay	Boy
+Yerma	characterInPlay	Shepherd
+Yerma	characterInPlay	Child
+Yerma	characterInPlay	Six Washerwomen
+Yerma	characterInPlay	Two Girls
+Yerma	characterInPlay	Two Women
+Yerma	characterInPlay	Two Old Women
+Yerma	characterInPlay	Three Men
+Yerma	characterInPlay	Seven Young Girls
+Yerma	characterInPlay	Children
+Blood Wedding (play)	characterInPlay	Bridegroom
+Blood Wedding (play)	characterInPlay	Bridegroom's Mother
+Blood Wedding (play)	characterInPlay	Bride
+Blood Wedding (play)	characterInPlay	Bride's Father
+Blood Wedding (play)	characterInPlay	Leonardo
+Blood Wedding (play)	characterInPlay	Leonardo's Wife
+Blood Wedding (play)	characterInPlay	Leonardo's Mother-in-law
+Blood Wedding (play)	characterInPlay	Maid
+Blood Wedding (play)	characterInPlay	Neighbour
+Blood Wedding (play)	characterInPlay	Moon
+Blood Wedding (play)	characterInPlay	Death
+Blood Wedding (play)	characterInPlay	Three Woodcutters
+Blood Wedding (play)	characterInPlay	Two Young Men
+Blood Wedding (play)	characterInPlay	Girl
+Blood Wedding (play)	characterInPlay	Three Girls
+Blood Wedding (play)	characterInPlay	Little Girl
+Blood Wedding (play)	characterInPlay	Three Guests
+Blood Wedding (play)	characterInPlay	Woman
+Blood Wedding (play)	characterInPlay	Neighbours
+The Public (play)	characterInPlay	Director Enrique
+The Public (play)	characterInPlay	Manservant
+The Public (play)	characterInPlay	Four White Horses
+The Public (play)	characterInPlay	First Man Gonzalo
+The Public (play)	characterInPlay	Second Man
+The Public (play)	characterInPlay	Third Man
+The Public (play)	characterInPlay	Fourth Man
+The Public (play)	characterInPlay	Helen
+The Public (play)	characterInPlay	Vine Leaves
+The Public (play)	characterInPlay	Bells
+The Public (play)	characterInPlay	First Boy
+The Public (play)	characterInPlay	Centurion
+The Public (play)	characterInPlay	Emperor
+The Public (play)	characterInPlay	Juliet
+The Public (play)	characterInPlay	Black Horse
+The Public (play)	characterInPlay	Pierrot Costume
+The Public (play)	characterInPlay	Ballerina Costume
+The Public (play)	characterInPlay	Pyjama Costume
+The Public (play)	characterInPlay	Male Nurse
+The Public (play)	characterInPlay	Naked Man
+The Public (play)	characterInPlay	Five Students
+The Public (play)	characterInPlay	Three Ladies
+The Public (play)	characterInPlay	Second Boy
+The Public (play)	characterInPlay	Two Thieves
+The Public (play)	characterInPlay	Prompter
+The Public (play)	characterInPlay	Idiot Shepherd
+The Public (play)	characterInPlay	Magician
+The Public (play)	characterInPlay	Harlequin
+The Public (play)	characterInPlay	Lady in Black Gonzalo's Mother
+Night of January 16th	characterInPlay	Karen Andre
+Night of January 16th	characterInPlay	Mr. Stevens
+Night of January 16th	characterInPlay	Mr. Flint
+Doubt: A Parable	characterInPlay	Sister Aloysius
+Doubt: A Parable	characterInPlay	Father Flynn
+Doubt: A Parable	characterInPlay	Sister James
+Doubt: A Parable	characterInPlay	Mrs. Muller
+The Skin of Our Teeth	characterInPlay	Sabina
+The Skin of Our Teeth	characterInPlay	Mrs. Antrobus
+The Skin of Our Teeth	characterInPlay	Mr. Antrobus
+The Skin of Our Teeth	characterInPlay	Gladys
+The Skin of Our Teeth	characterInPlay	Telegraph Boy
+The Skin of Our Teeth	characterInPlay	Dinosaur
+The Skin of Our Teeth	characterInPlay	Chair Pusher
+The Skin of Our Teeth	characterInPlay	Henry
+Closer (play)	characterInPlay	Dan, Alice(Jane Jones), Anna, Larry
+Phèdre	characterInPlay	Ph\u00E8dre
+Phèdre	characterInPlay	\u0152none
+Phèdre	characterInPlay	Hippolyte
+Phèdre	characterInPlay	Th\u00E9ram\u00E8ne
+Phèdre	characterInPlay	Th\u00E9s\u00E9e
+Phèdre	characterInPlay	Aricie
+A Number	characterInPlay	Salter
+A Number	characterInPlay	Bernard 1
+A Number	characterInPlay	Bernard 2
+A Number	characterInPlay	Michael Black
+How I Learned to Drive	characterInPlay	Uncle Peck
+How I Learned to Drive	characterInPlay	Lil Bit
+Marat/Sade	characterInPlay	Marquis de Sade
+Marat/Sade	characterInPlay	Asylum inmates
+Marat/Sade	characterInPlay	Abb\u00E9 de Coulmier, his wife and daughter
+Copenhagen (play)	characterInPlay	Niels Bohr
+Copenhagen (play)	characterInPlay	Margrethe Bohr
+Copenhagen (play)	characterInPlay	Werner Heisenberg
+Blasted	characterInPlay	Ian
+Blasted	characterInPlay	Cate
+Blasted	characterInPlay	Soldier
+True West (play)	characterInPlay	Austin
+True West (play)	characterInPlay	Lee
+True West (play)	characterInPlay	Mom
+True West (play)	characterInPlay	Saul Kimmer
+The Real Thing (play)	characterInPlay	Annie
+The Real Thing (play)	characterInPlay	Henry
+The Real Thing (play)	characterInPlay	Charlotte
+The Real Thing (play)	characterInPlay	Billy
+The Real Thing (play)	characterInPlay	Debbie
+The Real Thing (play)	characterInPlay	Brodie
+The Real Thing (play)	characterInPlay	Max
+Street Scene (play)	characterInPlay	Abraham Kaplan
+Street Scene (play)	characterInPlay	Greta Fiorentino
+Street Scene (play)	characterInPlay	Emma Jones
+Street Scene (play)	characterInPlay	Olga Olsen
+Street Scene (play)	characterInPlay	Willie Maurrant
+Street Scene (play)	characterInPlay	Anna Maurrant
+Street Scene (play)	characterInPlay	Daniel Buchanan
+Street Scene (play)	characterInPlay	Frank Maurrant
+Street Scene (play)	characterInPlay	George Jones
+Street Scene (play)	characterInPlay	Steve Sanket
+Street Scene (play)	characterInPlay	Agnes Cushing
+Street Scene (play)	characterInPlay	Carl Olsen
+Street Scene (play)	characterInPlay	Shirley Kaplan
+Street Scene (play)	characterInPlay	Filippo Fiorentino
+Street Scene (play)	characterInPlay	Alice Simpson
+Street Scene (play)	characterInPlay	Laura Hildebrand
+Street Scene (play)	characterInPlay	Mary Hildebrand
+Street Scene (play)	characterInPlay	Charlie Hildebrand
+Street Scene (play)	characterInPlay	Samuel Kaplan
+Street Scene (play)	characterInPlay	Rose Maurrant
+Street Scene (play)	characterInPlay	Harry Easter
+Street Scene (play)	characterInPlay	May Jones
+Street Scene (play)	characterInPlay	Dick McGann
+Street Scene (play)	characterInPlay	Vincent Jones
+Street Scene (play)	characterInPlay	Dr. John Wilson
+Street Scene (play)	characterInPlay	Officer Harry Murphy
+Street Scene (play)	characterInPlay	A Milkman
+Street Scene (play)	characterInPlay	A Letter-Carrier
+Street Scene (play)	characterInPlay	An Ice-Man
+Street Scene (play)	characterInPlay	Two College Girls
+Street Scene (play)	characterInPlay	A Music Student
+Street Scene (play)	characterInPlay	Marshall James Henry
+Street Scene (play)	characterInPlay	Fred Cullen
+Street Scene (play)	characterInPlay	An Old-Clothes Man
+Street Scene (play)	characterInPlay	An Interne
+Street Scene (play)	characterInPlay	An Ambulance Driver
+Street Scene (play)	characterInPlay	A Furniture Mover
+Street Scene (play)	characterInPlay	Two Nurse-Maids
+Street Scene (play)	characterInPlay	Policemen
+Street Scene (play)	characterInPlay	Two Apartment Hunters
+Street Scene (play)	characterInPlay	Passers-By
+Arsenic and Old Lace (play)	characterInPlay	Mortimer Brewster
+Arsenic and Old Lace (play)	characterInPlay	Martha Brewster
+Arsenic and Old Lace (play)	characterInPlay	Teddy Brewster
+Arsenic and Old Lace (play)	characterInPlay	Jonathan Brewster
+Arsenic and Old Lace (play)	characterInPlay	The Rev. Dr. Harper
+Arsenic and Old Lace (play)	characterInPlay	Elaine Harper
+Arsenic and Old Lace (play)	characterInPlay	Dr.Einstein
+Cyrano de Bergerac (play)	characterInPlay	Cyrano de Bergerac
+Cyrano de Bergerac (play)	characterInPlay	Roxane
+Cyrano de Bergerac (play)	characterInPlay	Christian
+Cyrano de Bergerac (play)	characterInPlay	De Guiche
+Cyrano de Bergerac (play)	characterInPlay	Le Bret
+Kanyasulkam	characterInPlay	Gireesam
+Kanyasulkam	characterInPlay	Madhuravanis
+Kanyasulkam	characterInPlay	Ramappa Panthulu
+Kanyasulkam	characterInPlay	Agnihothravadhanulu
+Take Me Out (play)	characterInPlay	Darren Lemming
+Take Me Out (play)	characterInPlay	Kippy Sunderstrom
+Take Me Out (play)	characterInPlay	Mason Marzac
+Take Me Out (play)	characterInPlay	Shane Mungitt
+Take Me Out (play)	characterInPlay	Davey Battle
+Take Me Out (play)	characterInPlay	Toddy Koovitz
+Take Me Out (play)	characterInPlay	Rodriguez
+Take Me Out (play)	characterInPlay	Martinez
+Take Me Out (play)	characterInPlay	Skipper
+Take Me Out (play)	characterInPlay	William R. Danziger
+Take Me Out (play)	characterInPlay	Jason Chenier
+Take Me Out (play)	characterInPlay	Takeshi Kawabata
+Take Me Out (play)	characterInPlay	Policemen
+Plaza Suite	characterInPlay	Sam Nash
+Plaza Suite	characterInPlay	Karen Nash
+Plaza Suite	characterInPlay	Jesse Kiplinger
+Plaza Suite	characterInPlay	Muriel Tate
+Plaza Suite	characterInPlay	Roy Hubley
+Plaza Suite	characterInPlay	Norma Hubley
+Love! Valour! Compassion!	characterInPlay	Gregory Mitchell
+Love! Valour! Compassion!	characterInPlay	John Jeckyll
+Love! Valour! Compassion!	characterInPlay	James Jeckyll
+Love! Valour! Compassion!	characterInPlay	Perry Sellars
+Love! Valour! Compassion!	characterInPlay	Buzz Hauser
+Love! Valour! Compassion!	characterInPlay	Ramon Fornos
+Love! Valour! Compassion!	characterInPlay	Arthur Pape
+Love! Valour! Compassion!	characterInPlay	Bobby Brahms
+Peace (play)	characterInPlay	*Trygaeus
+Peace (play)	characterInPlay	*two slaves of Trygaeus
+Peace (play)	characterInPlay	*daughter of Trygaeus
+Peace (play)	characterInPlay	*Hermes caretaker of heaven
+Peace (play)	characterInPlay	*War
+Peace (play)	characterInPlay	*Havoc servant to War
+Peace (play)	characterInPlay	*Hierocles an oracle monger
+Peace (play)	characterInPlay	*sickle-maker
+Peace (play)	characterInPlay	*arms salesman
+Peace (play)	characterInPlay	*son of Lamachus
+Peace (play)	characterInPlay	*son of Cleonymus
+Peace (play)	characterInPlay	Silent roles
+Peace (play)	characterInPlay	*children of Trygaeus
+Peace (play)	characterInPlay	*Peace
+Peace (play)	characterInPlay	*Harvest a companion of Peace
+Peace (play)	characterInPlay	*Festival a companion of Peace
+Peace (play)	characterInPlay	*jar-maker
+Peace (play)	characterInPlay	*spear-polisher
+Peace (play)	characterInPlay	*helmet-maker
+Peace (play)	characterInPlay	*slaves, citizens etc.
+The Chalk Garden	characterInPlay	Mrs St Maugham
+The Chalk Garden	characterInPlay	Miss Madrigal
+The Chalk Garden	characterInPlay	Olivia
+The Chalk Garden	characterInPlay	Maitland
+The Chalk Garden	characterInPlay	Laurel
+The Chalk Garden	characterInPlay	Judge
+Antigone (Anouilh)	characterInPlay	Chorus
+Antigone (Anouilh)	characterInPlay	Antigone
+Antigone (Anouilh)	characterInPlay	Nurse
+Antigone (Anouilh)	characterInPlay	Ismene
+Antigone (Anouilh)	characterInPlay	Haemon
+Antigone (Anouilh)	characterInPlay	Creon
+Antigone (Anouilh)	characterInPlay	First Guard (Jonas)
+Antigone (Anouilh)	characterInPlay	Second Guard (a Corporal)
+Antigone (Anouilh)	characterInPlay	Third Guard
+Antigone (Anouilh)	characterInPlay	Messenger
+Antigone (Anouilh)	characterInPlay	Page
+Three Tall Women	characterInPlay	a woman in her 90s
+Three Tall Women	characterInPlay	a woman in her 50s
+Three Tall Women	characterInPlay	a woman in her 20s
+Three Tall Women	characterInPlay	The Boy
+Lost in Yonkers	characterInPlay	Bella
+Lost in Yonkers	characterInPlay	Louie
+Lost in Yonkers	characterInPlay	Grandma
+Lost in Yonkers	characterInPlay	Kurnitz
+Lost in Yonkers	characterInPlay	Eddie
+Lost in Yonkers	characterInPlay	Arty
+Lost in Yonkers	characterInPlay	Gert
+Lost in Yonkers	characterInPlay	Jay
+Harvey (play)	characterInPlay	Elwood P. Dowd
+Harvey (play)	characterInPlay	Veta Louise Simmons
+Harvey (play)	characterInPlay	Betty Chumley
+Harvey (play)	characterInPlay	E. J. Lofgren
+Harvey (play)	characterInPlay	Mrs. Ethel Chauvenet
+Harvey (play)	characterInPlay	Judge Omar Gaffney
+Harvey (play)	characterInPlay	William R. Chumley, M.D.
+Harvey (play)	characterInPlay	Lyman Sanderson, M.D.
+Harvey (play)	characterInPlay	Miss Johnson
+Harvey (play)	characterInPlay	Ruth Kelly, R.N.
+Harvey (play)	characterInPlay	Myrtle Mae Simmons
+Harvey (play)	characterInPlay	Duane Wilson
+Harvey (play)	characterInPlay	Harvey
+Death and the King's Horseman	characterInPlay	Elesin
+Death and the King's Horseman	characterInPlay	Olunde
+Death and the King's Horseman	characterInPlay	Iyaloja
+Death and the King's Horseman	characterInPlay	Simon Pilkings
+Death and the King's Horseman	characterInPlay	Jane Pilkings
+Death and the King's Horseman	characterInPlay	Amusa
+Pelléas and Mélisande	characterInPlay	Ark\u00EBl, king of Allemonde
+Pelléas and Mélisande	characterInPlay	Genevi\u00E9ve, mother of Pell\u00E9as and Golaud
+Pelléas and Mélisande	characterInPlay	Pell\u00E9as, grandson of Ark\u00EBl
+Pelléas and Mélisande	characterInPlay	Golaud, grandson of Ark\u00EBl
+Pelléas and Mélisande	characterInPlay	M\u00E9lisande
+Pelléas and Mélisande	characterInPlay	Little Yniold, son of Golaud (by a former marriage)
+Pelléas and Mélisande	characterInPlay	Physician
+Pelléas and Mélisande	characterInPlay	Porter
+Pelléas and Mélisande	characterInPlay	Servants
+Pelléas and Mélisande	characterInPlay	Beggars
+A Taste of Honey	characterInPlay	Helen
+A Taste of Honey	characterInPlay	Josephine
+A Taste of Honey	characterInPlay	Peter
+A Taste of Honey	characterInPlay	The Boy
+A Taste of Honey	characterInPlay	Geoffrey
+Women of Trachis	characterInPlay	Deianeira
+Women of Trachis	characterInPlay	Nurse
+Women of Trachis	characterInPlay	Hyllus
+Women of Trachis	characterInPlay	Messenger
+Women of Trachis	characterInPlay	Lichas
+Women of Trachis	characterInPlay	Heracles
+Women of Trachis	characterInPlay	Old man
+Ajax (Sophocles)	characterInPlay	Athena
+Ajax (Sophocles)	characterInPlay	Odysseus
+Ajax (Sophocles)	characterInPlay	Ajax
+Ajax (Sophocles)	characterInPlay	Tecmessa
+Ajax (Sophocles)	characterInPlay	Messenger
+Ajax (Sophocles)	characterInPlay	Teucer
+Ajax (Sophocles)	characterInPlay	Menelaus
+Ajax (Sophocles)	characterInPlay	Agamemnon
+The Coast of Utopia	characterInPlay	Alexander Herzen
+The Coast of Utopia	characterInPlay	Vissarion Belinsky
+The Coast of Utopia	characterInPlay	Ivan Turgenev
+The Coast of Utopia	characterInPlay	Mikhail Bakunin
+Another Country (play)	characterInPlay	Guy Bennett
+Another Country (play)	characterInPlay	Tommy Judd
+Another Country (play)	characterInPlay	Barclay
+Another Country (play)	characterInPlay	Delahay
+Another Country (play)	characterInPlay	Donald Devenish
+Another Country (play)	characterInPlay	Fowler
+Another Country (play)	characterInPlay	James Harcourt
+L'Illusion Comique	characterInPlay	Alcandre
+L'Illusion Comique	characterInPlay	Pridamant
+L'Illusion Comique	characterInPlay	Dorante
+L'Illusion Comique	characterInPlay	Clindor
+L'Illusion Comique	characterInPlay	Isabelle
+L'Illusion Comique	characterInPlay	G\u00E9ronte
+L'Illusion Comique	characterInPlay	Matamore
+L'Illusion Comique	characterInPlay	Adraste
+Berenice (play)	characterInPlay	B\u00E9r\u00E9nice
+Berenice (play)	characterInPlay	Titus
+Berenice (play)	characterInPlay	Antiochus
+Berenice (play)	characterInPlay	Paulin
+Berenice (play)	characterInPlay	Arsace
+Berenice (play)	characterInPlay	Phr\u00E9nice
+Berenice (play)	characterInPlay	Rutile
+The Heidi Chronicles	characterInPlay	Heidi Holland
+The Heidi Chronicles	characterInPlay	Peter Patrone
+The Heidi Chronicles	characterInPlay	Scoop Rosenbaum
+The Heidi Chronicles	characterInPlay	Susan Johnston
+The Heidi Chronicles	characterInPlay	Lisa
+The Heidi Chronicles	characterInPlay	Jill
+The Heidi Chronicles	characterInPlay	Fran
+La Turista	characterInPlay	Salem
+La Turista	characterInPlay	Kent
+La Turista	characterInPlay	Boy
+La Turista	characterInPlay	Doctor
+La Turista	characterInPlay	Son
+La Turista	characterInPlay	Doc
+La Turista	characterInPlay	Sonny
+Five Women Wearing the Same Dress	characterInPlay	Meredith
+Five Women Wearing the Same Dress	characterInPlay	Georgeanne
+Five Women Wearing the Same Dress	characterInPlay	Trisha
+Five Women Wearing the Same Dress	characterInPlay	Frances
+Five Women Wearing the Same Dress	characterInPlay	Mindy
+Five Women Wearing the Same Dress	characterInPlay	Tripp
+The Siege of Numantia	characterInPlay	Romans: Scipio, Jugurtha, Caius Marius, Quintus FabiusNumantines: Theogenes, Caravino, Marquino, Marandro, Leonicio, LiraAllegories: Spain, the Duero River and three tributaries, War, Pestilence, Hunger, Fame
+J.B. (play)	characterInPlay	Mr. Zuss
+J.B. (play)	characterInPlay	Nickles
+J.B. (play)	characterInPlay	J.B.
+J.B. (play)	characterInPlay	Sarah
+J.B. (play)	characterInPlay	David
+J.B. (play)	characterInPlay	Jonathan
+J.B. (play)	characterInPlay	Mary
+J.B. (play)	characterInPlay	Ruth
+J.B. (play)	characterInPlay	Rebecca
+J.B. (play)	characterInPlay	First Messenger
+J.B. (play)	characterInPlay	Second Messenger
+J.B. (play)	characterInPlay	Girl
+J.B. (play)	characterInPlay	Jolly
+J.B. (play)	characterInPlay	Bildad
+J.B. (play)	characterInPlay	Zophar
+J.B. (play)	characterInPlay	Eliphaz
+J.B. (play)	characterInPlay	Mrs. Adams
+J.B. (play)	characterInPlay	Mrs. Murphy
+J.B. (play)	characterInPlay	Mrs. Lesure
+J.B. (play)	characterInPlay	Mrs. Botticelli
+J.B. (play)	characterInPlay	A Distant Voice
+Prelude to a Kiss (play)	characterInPlay	Peter Hoskins
+Prelude to a Kiss (play)	characterInPlay	Rita Boyle
+Prelude to a Kiss (play)	characterInPlay	Old Man
+The Effect of Gamma Rays on Man-in-the-Moon Marigolds	characterInPlay	Beatrice
+The Effect of Gamma Rays on Man-in-the-Moon Marigolds	characterInPlay	Tillie
+The Effect of Gamma Rays on Man-in-the-Moon Marigolds	characterInPlay	Janice Vickery
+The Effect of Gamma Rays on Man-in-the-Moon Marigolds	characterInPlay	Nanny
+The Effect of Gamma Rays on Man-in-the-Moon Marigolds	characterInPlay	Ruth
+Rabbit Hole	characterInPlay	Izzy
+Rabbit Hole	characterInPlay	Becca Corbett
+Rabbit Hole	characterInPlay	Howie Corbett
+Rabbit Hole	characterInPlay	Nat
+Rabbit Hole	characterInPlay	Jason Willette
+American Buffalo (play)	characterInPlay	Walter \
+American Buffalo (play)	characterInPlay	Donny Dubrow
+American Buffalo (play)	characterInPlay	Bobby
+The Son	characterInPlay	The SonThe TutorThe FriendThe Fr\u00E4uleinThe FatherCherubimVon TuchmeyerPrince ScheitelAdriennePolice Inspector
+Accent on Youth	characterInPlay	Chuck, Flogdell, Linda Brown, Steven Gaye
+The Pillowman	characterInPlay	Katurian
+The Pillowman	characterInPlay	Tupolski
+The Pillowman	characterInPlay	Ariel
+The Pillowman	characterInPlay	Michal
+Crave (play)	characterInPlay	C, M, B and A
+Phaedra's Love	characterInPlay	Hippolytus
+Phaedra's Love	characterInPlay	Phaedra
+Phaedra's Love	characterInPlay	Strophe
+Phaedra's Love	characterInPlay	Theseus
+Phaedra's Love	characterInPlay	Doctor
+Phaedra's Love	characterInPlay	Priest
+Phaedra's Love	characterInPlay	Crowd
+The Boys in the Band (play)	characterInPlay	Hank
+The Boys in the Band (play)	characterInPlay	Alan
+The Boys in the Band (play)	characterInPlay	Bernard
+The Boys in the Band (play)	characterInPlay	Cowboy
+The Boys in the Band (play)	characterInPlay	Michael
+The Boys in the Band (play)	characterInPlay	Harold
+The Boys in the Band (play)	characterInPlay	Emory
+The Boys in the Band (play)	characterInPlay	Donald
+Seascape (play)	characterInPlay	Nancy
+Seascape (play)	characterInPlay	Leslie
+Seascape (play)	characterInPlay	Charlie
+Seascape (play)	characterInPlay	Sarah
+The Marriage of Figaro (play)	characterInPlay	Figaro
+The Marriage of Figaro (play)	characterInPlay	Count Almaviva
+The Marriage of Figaro (play)	characterInPlay	The Countess
+The Marriage of Figaro (play)	characterInPlay	Suzanne
+The Marriage of Figaro (play)	characterInPlay	Marceline
+The Marriage of Figaro (play)	characterInPlay	Cherubin
+The Marriage of Figaro (play)	characterInPlay	Antonio
+The Marriage of Figaro (play)	characterInPlay	Fanchette
+The Marriage of Figaro (play)	characterInPlay	Bartholo
+Philadelphia Here I Come!	characterInPlay	Gar (public)
+Philadelphia Here I Come!	characterInPlay	Gar (private)
+Philadelphia Here I Come!	characterInPlay	S.B. O'Donnell
+Philadelphia Here I Come!	characterInPlay	Madge Mulhern
+Philadelphia Here I Come!	characterInPlay	Kate Doogan
+Goodnight Desdemona (Good Morning Juliet)	characterInPlay	Desdemona
+Goodnight Desdemona (Good Morning Juliet)	characterInPlay	Othello
+Goodnight Desdemona (Good Morning Juliet)	characterInPlay	Juliet
+Goodnight Desdemona (Good Morning Juliet)	characterInPlay	Romeo
+Goodnight Desdemona (Good Morning Juliet)	characterInPlay	Constance Ledbelly
+Goodnight Desdemona (Good Morning Juliet)	characterInPlay	Chorus
+Goodnight Desdemona (Good Morning Juliet)	characterInPlay	Student
+Goodnight Desdemona (Good Morning Juliet)	characterInPlay	Iago
+Goodnight Desdemona (Good Morning Juliet)	characterInPlay	Ramona
+Goodnight Desdemona (Good Morning Juliet)	characterInPlay	Tybalt
+Goodnight Desdemona (Good Morning Juliet)	characterInPlay	Mercutio
+Goodnight Desdemona (Good Morning Juliet)	characterInPlay	Professor Claude Night
+Goodnight Desdemona (Good Morning Juliet)	characterInPlay	A soldier of Cyprus
+Goodnight Desdemona (Good Morning Juliet)	characterInPlay	Juliet's Nurse
+Goodnight Desdemona (Good Morning Juliet)	characterInPlay	Servant
+Goodnight Desdemona (Good Morning Juliet)	characterInPlay	Ghost
+Biloxi Blues	characterInPlay	Eugene Morris Jerome
+Biloxi Blues	characterInPlay	Rowena
+Biloxi Blues	characterInPlay	Arnold Epstein
+Biloxi Blues	characterInPlay	Daisy Hannigan
+Biloxi Blues	characterInPlay	Joseph Wykowski
+Biloxi Blues	characterInPlay	Don Carney
+Biloxi Blues	characterInPlay	Sgt. Merwin J. Toomey
+Biloxi Blues	characterInPlay	James Hennesey
+Biloxi Blues	characterInPlay	Roy Selridge
+Wit (play)	characterInPlay	Vivian Bearing
+Wit (play)	characterInPlay	Harvey Kelekian
+Wit (play)	characterInPlay	Jason Posner
+Wit (play)	characterInPlay	Susie Monahan
+Wit (play)	characterInPlay	E.M. Ashford
+Wit (play)	characterInPlay	Mr Bearing
+Wit (play)	characterInPlay	Laboratory technicians
+Wit (play)	characterInPlay	Dr Bearing's Students
+Philoctetes (Sophocles)	characterInPlay	Odysseus
+Philoctetes (Sophocles)	characterInPlay	Neoptolemus
+Philoctetes (Sophocles)	characterInPlay	Philoctetes
+Philoctetes (Sophocles)	characterInPlay	a spy
+Philoctetes (Sophocles)	characterInPlay	Heracles
+Dealer's Choice (play)	characterInPlay	Carl
+Dealer's Choice (play)	characterInPlay	Sweeney
+Dealer's Choice (play)	characterInPlay	Ash
+Dealer's Choice (play)	characterInPlay	Frankie
+Dealer's Choice (play)	characterInPlay	Stephen
+Dealer's Choice (play)	characterInPlay	Mugsy
+Dealer's Choice (play)	characterInPlay	(Tony)
+I'm Not Rappaport	characterInPlay	Nat
+I'm Not Rappaport	characterInPlay	Midge
+I'm Not Rappaport	characterInPlay	Gilley
+I'm Not Rappaport	characterInPlay	Danforth
+I'm Not Rappaport	characterInPlay	Laurie
+I'm Not Rappaport	characterInPlay	Clara
+I'm Not Rappaport	characterInPlay	The Cowboy
+Menaechmi	characterInPlay	Peniculus (Menaechmus's friend)
+Menaechmi	characterInPlay	Menaechmus of Epidamnus
+Menaechmi	characterInPlay	Erotium (Menaechmus's mistress)
+Menaechmi	characterInPlay	Cylindrus (Erotium's cook)
+Menaechmi	characterInPlay	Sosicles/Menaechmus of Syracuse)
+Menaechmi	characterInPlay	Messenio (slave)
+Menaechmi	characterInPlay	Erotium's servant
+Menaechmi	characterInPlay	Menaechmus's wife
+Menaechmi	characterInPlay	Father-in-law of Menaechmus
+Menaechmi	characterInPlay	a doctor
+Menaechmi	characterInPlay	Decio (wife's servant)
+Uncommon Women and Others	characterInPlay	Leilah
+Uncommon Women and Others	characterInPlay	Rita Altabel
+Uncommon Women and Others	characterInPlay	Kate Quin
+Uncommon Women and Others	characterInPlay	Muffet DiNicola
+Uncommon Women and Others	characterInPlay	Samantha Stewart
+Uncommon Women and Others	characterInPlay	Holly Kaplan
+Uncommon Women and Others	characterInPlay	Mrs. Plumm
+Uncommon Women and Others	characterInPlay	Susie Friend
+Uncommon Women and Others	characterInPlay	Carter
+Uncommon Women and Others	characterInPlay	Narrator (voice)
+The Trojan War Will Not Take Place	characterInPlay	Hector, Cassandra,
+The Trojan War Will Not Take Place	characterInPlay	Andromache, Priam,
+The Trojan War Will Not Take Place	characterInPlay	Polyxene, Demokos,
+The Trojan War Will Not Take Place	characterInPlay	Mathematician, Paris,
+The Trojan War Will Not Take Place	characterInPlay	Hecuba, Helen, Troilus,
+The Trojan War Will Not Take Place	characterInPlay	Ulysses
+Saved (play)	characterInPlay	Len
+Saved (play)	characterInPlay	Pam
+Saved (play)	characterInPlay	Fred
+Saved (play)	characterInPlay	Harry
+Saved (play)	characterInPlay	Mary
+Saved (play)	characterInPlay	Pete
+Saved (play)	characterInPlay	Colin
+Saved (play)	characterInPlay	Mike
+Saved (play)	characterInPlay	Barry
+Saved (play)	characterInPlay	Liz
+Whose Life Is It Anyway?	characterInPlay	Ken Harrison
+Whose Life Is It Anyway?	characterInPlay	Dr. Scott
+Whose Life Is It Anyway?	characterInPlay	Dr. Emerson
+Whose Life Is It Anyway?	characterInPlay	Mrs. Boyle
+Whose Life Is It Anyway?	characterInPlay	Andrew Eden
+Whose Life Is It Anyway?	characterInPlay	Dr. Barr
+Whose Life Is It Anyway?	characterInPlay	Mr. Justice Millhouse
+Whose Life Is It Anyway?	characterInPlay	John
+Whose Life Is It Anyway?	characterInPlay	Peter Kershaw
+Whose Life Is It Anyway?	characterInPlay	Sister Anderson
+Whose Life Is It Anyway?	characterInPlay	Dr. Paul Travers
+Whose Life Is It Anyway?	characterInPlay	Kay Sadler
+Whose Life Is It Anyway?	characterInPlay	Philip Hill
+Orestes (play)	characterInPlay	Electra
+Orestes (play)	characterInPlay	Helen
+Orestes (play)	characterInPlay	Orestes
+Orestes (play)	characterInPlay	Menelaus
+Orestes (play)	characterInPlay	Pylades
+Orestes (play)	characterInPlay	Messenger
+Orestes (play)	characterInPlay	Hermione
+Orestes (play)	characterInPlay	Phrygian Eunuch
+Orestes (play)	characterInPlay	Apollo
+Orestes (play)	characterInPlay	Tyndareus
+Pseudolus	characterInPlay	Pseudolus, slave of Calidorus
+Pseudolus	characterInPlay	Calidorus
+Pseudolus	characterInPlay	Simo, father of Calidorus
+Pseudolus	characterInPlay	Callipho - neighbor of Simo
+Pseudolus	characterInPlay	Phoenicium, prostitute
+Pseudolus	characterInPlay	Ballio, Phoenicium's pimp
+Pseudolus	characterInPlay	Harpax, slave of an officer
+Pseudolus	characterInPlay	Charinus, Calidorus' friend
+Pseudolus	characterInPlay	Simia, slave of Charinus
+Pseudolus	characterInPlay	Young Slave, of Ballio
+Pseudolus	characterInPlay	Cook
+Pseudolus	characterInPlay	Courtesans
+Pseudolus	characterInPlay	Attendant Slaves
+Luther (play)	characterInPlay	Martin
+Luther (play)	characterInPlay	Tetzel
+Luther (play)	characterInPlay	Cajetan
+Luther (play)	characterInPlay	Knight
+Luther (play)	characterInPlay	Staupitz
+Luther (play)	characterInPlay	Miltitz
+Betrayal (play)	characterInPlay	Emma, Jerry, Robert, Waiter
+Mahomet (play)	characterInPlay	Mahomet, founder of IslamZopir, leader of MeccaOmar, general and lieutenant to MahometSeid, Zopir's son, abducted and enslaved by MahometPalmira, Zopir's daughter, abducted and enslaved by MahometPhanor, senator of MeccaMeccan tribesMahomet's followers
+Tony n' Tina's Wedding	characterInPlay	Anthony Nunzio, Jr.
+Tony n' Tina's Wedding	characterInPlay	Valentina Lynne Vitale
+Tony n' Tina's Wedding	characterInPlay	et al.
+The Phoenician Women	characterInPlay	Jocasta
+The Phoenician Women	characterInPlay	Slave
+The Phoenician Women	characterInPlay	Antigone
+The Phoenician Women	characterInPlay	Polyneices
+The Phoenician Women	characterInPlay	Eteocles
+The Phoenician Women	characterInPlay	Creon
+The Phoenician Women	characterInPlay	Teiresias
+The Phoenician Women	characterInPlay	Menoeceus
+The Phoenician Women	characterInPlay	First Messenger
+The Phoenician Women	characterInPlay	Second Messenger
+The Phoenician Women	characterInPlay	Oedipus
+The Last Night of Ballyhoo	characterInPlay	Sunny Freitag
+The Last Night of Ballyhoo	characterInPlay	Adolph Freitag
+The Last Night of Ballyhoo	characterInPlay	Lala Levy
+The Last Night of Ballyhoo	characterInPlay	Boo Levy
+The Last Night of Ballyhoo	characterInPlay	Peachy Weil
+The Last Night of Ballyhoo	characterInPlay	Joe Farkas
+The Last Night of Ballyhoo	characterInPlay	Reba Freitag
+Mankind (play)	characterInPlay	Mercy
+Mankind (play)	characterInPlay	Mischief
+Mankind (play)	characterInPlay	Newguise
+Mankind (play)	characterInPlay	Nowadays
+Mankind (play)	characterInPlay	Nought
+Mankind (play)	characterInPlay	Mankind
+Mankind (play)	characterInPlay	Titivillus
+Rhesus (play)	characterInPlay	Odysseus
+Rhesus (play)	characterInPlay	Hector
+Rhesus (play)	characterInPlay	Diomedes
+Rhesus (play)	characterInPlay	Aeneas
+Rhesus (play)	characterInPlay	Paris
+Rhesus (play)	characterInPlay	Dolon
+Rhesus (play)	characterInPlay	Athena
+Rhesus (play)	characterInPlay	Messenger
+Rhesus (play)	characterInPlay	Shepherd
+Rhesus (play)	characterInPlay	Muse
+Rhesus (play)	characterInPlay	Rhesus
+The Suppliants (Aeschylus)	characterInPlay	Danaus
+The Suppliants (Aeschylus)	characterInPlay	Pelasgus
+The Suppliants (Aeschylus)	characterInPlay	Herald of Aegyptus
+The Suppliants (Aeschylus)	characterInPlay	Attendants
+The Suppliants (Euripides)	characterInPlay	Aethra
+The Suppliants (Euripides)	characterInPlay	Theseus
+The Suppliants (Euripides)	characterInPlay	Adrastus
+The Suppliants (Euripides)	characterInPlay	Herald of Creon Messenger
+The Suppliants (Euripides)	characterInPlay	Evadne
+The Suppliants (Euripides)	characterInPlay	Iphis
+The Suppliants (Euripides)	characterInPlay	Children
+The Suppliants (Euripides)	characterInPlay	Athena
+Herakles' Children	characterInPlay	Iolaus
+Herakles' Children	characterInPlay	Copreus
+Herakles' Children	characterInPlay	Demophon
+Herakles' Children	characterInPlay	Macaria
+Herakles' Children	characterInPlay	Servant of Hyllus
+Herakles' Children	characterInPlay	Alcmene
+Herakles' Children	characterInPlay	Messenger
+Herakles' Children	characterInPlay	Eurystheus
+Herakles' Children	characterInPlay	Acamas
+Fuddy Meers	characterInPlay	Claire (lead)
+Fuddy Meers	characterInPlay	Richard
+Fuddy Meers	characterInPlay	Kenny
+Fuddy Meers	characterInPlay	Limping Man
+Fuddy Meers	characterInPlay	Gertie
+Fuddy Meers	characterInPlay	Millet
+Fuddy Meers	characterInPlay	Heidi
+Buried Child	characterInPlay	Bradley
+Buried Child	characterInPlay	Dodge
+Buried Child	characterInPlay	Tilden
+Buried Child	characterInPlay	Father Dewis
+Buried Child	characterInPlay	Shelly
+Buried Child	characterInPlay	Halie
+Buried Child	characterInPlay	Vince
+Ion (play)	characterInPlay	Hermes
+Ion (play)	characterInPlay	Ion
+Ion (play)	characterInPlay	Creusa
+Ion (play)	characterInPlay	Xuthus
+Ion (play)	characterInPlay	Old Man Servant
+Ion (play)	characterInPlay	Servant of Creusa
+Ion (play)	characterInPlay	Priestess of Apollo
+Ion (play)	characterInPlay	Athena
+Andromache (play)	characterInPlay	Andromache
+Andromache (play)	characterInPlay	Maid
+Andromache (play)	characterInPlay	Hermione
+Andromache (play)	characterInPlay	Menelaus
+Andromache (play)	characterInPlay	Molossos
+Andromache (play)	characterInPlay	Peleus
+Andromache (play)	characterInPlay	Nurse of Hermione
+Andromache (play)	characterInPlay	Orestes
+Andromache (play)	characterInPlay	Messenger
+Andromache (play)	characterInPlay	Thetis
+Army Daze	characterInPlay	Malcolm Png
+Army Daze	characterInPlay	Kenny Pereira
+Army Daze	characterInPlay	Teo Ah Beng
+Army Daze	characterInPlay	Krishnamoorthy
+Army Daze	characterInPlay	Johari Salleh
+Hecuba (play)	characterInPlay	Ghost of Polydorus
+Hecuba (play)	characterInPlay	Hecuba
+Hecuba (play)	characterInPlay	Polyxena
+Hecuba (play)	characterInPlay	Odysseus
+Hecuba (play)	characterInPlay	Talthybius
+Hecuba (play)	characterInPlay	Maid
+Hecuba (play)	characterInPlay	Agamemnon
+Hecuba (play)	characterInPlay	Polymestor, and his children
+Herakles (Euripides)	characterInPlay	Amphitryon
+Herakles (Euripides)	characterInPlay	Megara
+Herakles (Euripides)	characterInPlay	Heracles' Children
+Herakles (Euripides)	characterInPlay	Lycus
+Herakles (Euripides)	characterInPlay	Iris
+Herakles (Euripides)	characterInPlay	Madness
+Herakles (Euripides)	characterInPlay	Heracles
+Herakles (Euripides)	characterInPlay	Theseus
+The Elephant Man (play)	characterInPlay	John Merrick
+The Elephant Man (play)	characterInPlay	Frederick Treves
+The Elephant Man (play)	characterInPlay	Mrs. Kendal
+The Elephant Man (play)	characterInPlay	Carr Gomm
+The Elephant Man (play)	characterInPlay	Orderly
+The Elephant Man (play)	characterInPlay	Pinhead
+The Elephant Man (play)	characterInPlay	Cellist
+Cyclops (play)	characterInPlay	Silenus
+Cyclops (play)	characterInPlay	Odysseus
+Cyclops (play)	characterInPlay	The Cyclops
+That Championship Season	characterInPlay	The Coach
+That Championship Season	characterInPlay	George Sitkowski
+That Championship Season	characterInPlay	Phil Romano
+That Championship Season	characterInPlay	James Daley
+That Championship Season	characterInPlay	Tom Daley
+Dog Sees God: Confessions of a Teenage Blockhead	characterInPlay	CB, CB's Sister, Van, Matt, Beethoven, Tricia, Marcy, Van's Sister
+The Invention of Love	characterInPlay	A.E. Housman, Alfred W. Pollard, Charon, John Ruskin, Benjamin Jowett, Jerome K. Jerome, Henry Labouchere, W. T. Stead, Frank Harris, Robinson Ellis, John Postgate, Walter Pater, Oscar Wilde
+Kanjinchō	characterInPlay	Yoshitsune, Benkei, Togashi
+State of the Union (play)	characterInPlay	Grant Matthews
+State of the Union (play)	characterInPlay	Mary Matthews
+State of the Union (play)	characterInPlay	Spike McManus
+State of the Union (play)	characterInPlay	Kay Thorndyke
+State of the Union (play)	characterInPlay	Jim Conover
+State of the Union (play)	characterInPlay	Sam Thorndyke
+State of the Union (play)	characterInPlay	Sam I. Parrish
+State of the Union (play)	characterInPlay	Bill Nolard Hardy
+State of the Union (play)	characterInPlay	Lulubelle Alexander
+State of the Union (play)	characterInPlay	Judge Alexander
+Drums in the Night	characterInPlay	Andreas Kragler, missing World War I soldier
+Drums in the Night	characterInPlay	Anna Balicke, daughter of Mr. and Mrs. Balicke
+Drums in the Night	characterInPlay	Karl Balicke
+Drums in the Night	characterInPlay	Emily Balicke
+Drums in the Night	characterInPlay	Frederick Murke, Anna's fiance
+Drums in the Night	characterInPlay	Babusch, a journalist
+Drums in the Night	characterInPlay	Maid
+Drums in the Night	characterInPlay	Waiter
+Drums in the Night	characterInPlay	Marie, a prostitute
+Drums in the Night	characterInPlay	Glubb, a bartender
+Drums in the Night	characterInPlay	Bull, newspaper vendor
+Drums in the Night	characterInPlay	Auguste, a prostitute
+Drums in the Night	characterInPlay	Skanke, a cabaret performer
+Drums in the Night	characterInPlay	Drunk
+'Tis Pity She's a Whore	characterInPlay	Friar Bonaventura
+'Tis Pity She's a Whore	characterInPlay	A Cardinal
+'Tis Pity She's a Whore	characterInPlay	Soranzo
+'Tis Pity She's a Whore	characterInPlay	Florio
+'Tis Pity She's a Whore	characterInPlay	Donado
+'Tis Pity She's a Whore	characterInPlay	Grimaldi
+'Tis Pity She's a Whore	characterInPlay	Giovanni
+'Tis Pity She's a Whore	characterInPlay	Bergetto
+'Tis Pity She's a Whore	characterInPlay	Richardetto
+'Tis Pity She's a Whore	characterInPlay	Vasques
+'Tis Pity She's a Whore	characterInPlay	Poggio
+'Tis Pity She's a Whore	characterInPlay	Banditti (Bandits)
+'Tis Pity She's a Whore	characterInPlay	Officers
+'Tis Pity She's a Whore	characterInPlay	Annabella
+'Tis Pity She's a Whore	characterInPlay	Hippolita
+'Tis Pity She's a Whore	characterInPlay	Philotis
+'Tis Pity She's a Whore	characterInPlay	Putana
+The Homecoming	characterInPlay	Teddy
+The Homecoming	characterInPlay	Lenny
+The Homecoming	characterInPlay	Ruth
+The Homecoming	characterInPlay	Sam
+The Homecoming	characterInPlay	Joey
+The Homecoming	characterInPlay	Max
+The Plough and the Stars	characterInPlay	Fluther
+The Plough and the Stars	characterInPlay	Uncle Peter, Mrs Gogan Bessie Burgess
+The Plough and the Stars	characterInPlay	Nora Clitheroe
+The Plough and the Stars	characterInPlay	The Young Covey
+The Plough and the Stars	characterInPlay	Jack Clitheroe
+The Plough and the Stars	characterInPlay	Mollser
+The Plough and the Stars	characterInPlay	Cpl. Stoddart
+The Plough and the Stars	characterInPlay	Sgt. Tinley
+Rudens (play)	characterInPlay	Arcturus (the star-god)
+Rudens (play)	characterInPlay	Daemones
+Rudens (play)	characterInPlay	Sceparnio (Daemones' slave)
+Rudens (play)	characterInPlay	Plesidippus
+Rudens (play)	characterInPlay	Trachalio (Plesidippus' slave)
+Rudens (play)	characterInPlay	Palaestra (Labrax's prostitute)
+Rudens (play)	characterInPlay	Ampelisca (Labrax's prostitute)
+Rudens (play)	characterInPlay	Labrax (pimp)
+Rudens (play)	characterInPlay	Charmides (Labrax's friend)
+Rudens (play)	characterInPlay	Piscatores (fishermen)
+Rudens (play)	characterInPlay	Ptolemocratia (priestess)
+Rudens (play)	characterInPlay	Turbalio (Daemones' slave)
+Rudens (play)	characterInPlay	Sparax (Daemones' slave)
+Rudens (play)	characterInPlay	Gripus (Daemones' slave)
+Three Days of Rain	characterInPlay	2 male, 1 female
+The Sisters Rosensweig	characterInPlay	Sara Goode
+The Sisters Rosensweig	characterInPlay	Gorgeous Teitelbaum
+The Sisters Rosensweig	characterInPlay	Mervyn Kant
+The Sisters Rosensweig	characterInPlay	Pfeni Duncan
+The Sisters Rosensweig	characterInPlay	Nicholas Pym
+The Sisters Rosensweig	characterInPlay	Tess Goode
+The Sisters Rosensweig	characterInPlay	Tom Valinus
+The Sisters Rosensweig	characterInPlay	Geoffrey Duncan
+The Beauty Queen of Leenane	characterInPlay	Mag Folan
+The Beauty Queen of Leenane	characterInPlay	Maureen Folan
+The Beauty Queen of Leenane	characterInPlay	Ray Dooley
+The Beauty Queen of Leenane	characterInPlay	Pato Dooley
+This Is How It Goes	characterInPlay	Cody
+This Is How It Goes	characterInPlay	Belinda
+This Is How It Goes	characterInPlay	Man
+Andromaque	characterInPlay	Andromaque
+Andromaque	characterInPlay	Pyrrhus
+Andromaque	characterInPlay	Oreste
+Andromaque	characterInPlay	Hermione
+Andromaque	characterInPlay	Pylade
+Andromaque	characterInPlay	Cl\u00E9one
+Andromaque	characterInPlay	C\u00E9phise
+Andromaque	characterInPlay	Phoenix
+Curse of the Starving Class	characterInPlay	Wesley
+Curse of the Starving Class	characterInPlay	Ella
+Curse of the Starving Class	characterInPlay	Emma
+Curse of the Starving Class	characterInPlay	Taylor
+Curse of the Starving Class	characterInPlay	Weston
+Curse of the Starving Class	characterInPlay	Ellis
+Curse of the Starving Class	characterInPlay	Malcolm
+Curse of the Starving Class	characterInPlay	Emerson
+Curse of the Starving Class	characterInPlay	Slater
+The Room (play)	characterInPlay	Bert Hudd
+The Room (play)	characterInPlay	Rose
+The Room (play)	characterInPlay	Mr. Kidd
+The Room (play)	characterInPlay	Mr. Sands
+The Room (play)	characterInPlay	Mrs. Sands
+The Room (play)	characterInPlay	Riley
+The Lady from the Sea	characterInPlay	Ellida Wangel
+The Lady from the Sea	characterInPlay	Dr Wangel
+The Lady from the Sea	characterInPlay	The Stranger
+The Lady from the Sea	characterInPlay	Hilde Wangel
+The Lady from the Sea	characterInPlay	Bolette Wangel
+The Lady from the Sea	characterInPlay	Arnholm
+The Lady from the Sea	characterInPlay	Lyngstrand
+The Lady from the Sea	characterInPlay	Ballestad
+Don Carlos (play)	characterInPlay	Carlos, Prince of AsturiasPhilip II of SpainDuke of AlbaElisabeth of ValoisPrincess of EboliMarquis of Posa
+The Desperate Hours (play)	characterInPlay	Eleanor Hillard
+The Desperate Hours (play)	characterInPlay	Dan Hillard
+The Desperate Hours (play)	characterInPlay	Glenn Griffin
+The Desperate Hours (play)	characterInPlay	Robish
+The Desperate Hours (play)	characterInPlay	Mr. Patterson
+The Desperate Hours (play)	characterInPlay	Ralphie Hillard
+The Desperate Hours (play)	characterInPlay	Harry Carson
+The Desperate Hours (play)	characterInPlay	Chuck Wright
+The Desperate Hours (play)	characterInPlay	Jesse Bard
+The Desperate Hours (play)	characterInPlay	Hank Griffin
+The Desperate Hours (play)	characterInPlay	Lt. Carl Fredericks
+The Desperate Hours (play)	characterInPlay	Miss Swift
+The Desperate Hours (play)	characterInPlay	Cindy Hillard
+The Desperate Hours (play)	characterInPlay	Tom Winston
+Seven Guitars	characterInPlay	Louise
+Seven Guitars	characterInPlay	Canewell
+Seven Guitars	characterInPlay	Red Carter
+Seven Guitars	characterInPlay	Vera
+Seven Guitars	characterInPlay	Hedley
+Seven Guitars	characterInPlay	Floyd Barton
+Seven Guitars	characterInPlay	Ruby
+Picnic (play)	characterInPlay	Hal Carter
+Picnic (play)	characterInPlay	Madge Owens
+Picnic (play)	characterInPlay	Alan Seymour
+Picnic (play)	characterInPlay	Millie Owens
+Rock 'n' Roll (play)	characterInPlay	Jan
+Rock 'n' Roll (play)	characterInPlay	Max
+Rock 'n' Roll (play)	characterInPlay	Eleanor
+Rock 'n' Roll (play)	characterInPlay	Esme
+Rock 'n' Roll (play)	characterInPlay	Interrogator
+Rock 'n' Roll (play)	characterInPlay	Nigel
+Rock 'n' Roll (play)	characterInPlay	Ferdinand
+Rock 'n' Roll (play)	characterInPlay	Young Esme
+Rock 'n' Roll (play)	characterInPlay	Alice
+Rock 'n' Roll (play)	characterInPlay	Gillian
+Rock 'n' Roll (play)	characterInPlay	Magda
+Rock 'n' Roll (play)	characterInPlay	Deirdre
+Rock 'n' Roll (play)	characterInPlay	Piper
+Rock 'n' Roll (play)	characterInPlay	State Security Officer 1
+Rock 'n' Roll (play)	characterInPlay	Stephen
+Rock 'n' Roll (play)	characterInPlay	Milan
+Rock 'n' Roll (play)	characterInPlay	State Security Officer 2
+Rock 'n' Roll (play)	characterInPlay	Jaroslav
+Rock 'n' Roll (play)	characterInPlay	Lenka
+Rock 'n' Roll (play)	characterInPlay	Candida
+Metamorphoses (play)	characterInPlay	Myrrha
+Metamorphoses (play)	characterInPlay	Midas
+Metamorphoses (play)	characterInPlay	Hermes
+Metamorphoses (play)	characterInPlay	Phaeton
+Metamorphoses (play)	characterInPlay	Aphrodite
+Metamorphoses (play)	characterInPlay	Erysichthon
+Metamorphoses (play)	characterInPlay	Alcyone
+Metamorphoses (play)	characterInPlay	King Ceyx
+Metamorphoses (play)	characterInPlay	Orpheus
+Metamorphoses (play)	characterInPlay	Eurydice
+Metamorphoses (play)	characterInPlay	Therapist
+Metamorphoses (play)	characterInPlay	Apollo
+Metamorphoses (play)	characterInPlay	Baucis
+Metamorphoses (play)	characterInPlay	Philemon
+Metamorphoses (play)	characterInPlay	Ceres
+Metamorphoses (play)	characterInPlay	Psyche
+Metamorphoses (play)	characterInPlay	Eros
+Aulularia	characterInPlay	Lar Familiaris
+Aulularia	characterInPlay	Euclio
+Aulularia	characterInPlay	Staphyla
+Aulularia	characterInPlay	Eunomia
+Aulularia	characterInPlay	Megadorus
+Aulularia	characterInPlay	Strobilus
+Aulularia	characterInPlay	Eel
+Aulularia	characterInPlay	Charcoal
+Aulularia	characterInPlay	Lyconides
+Aulularia	characterInPlay	Sobersides
+Aulularia	characterInPlay	Phaedria
+Aulularia	characterInPlay	Phygia
+Aulularia	characterInPlay	Eleusium
+Cowboy Mouth (play)	characterInPlay	Slim (Sam Shepard),
+Cowboy Mouth (play)	characterInPlay	Cavale (Patti Smith),
+Cowboy Mouth (play)	characterInPlay	Lobster Man (Robert Glaudini)
+Deathtrap (play)	characterInPlay	Sidney Bruhl
+Deathtrap (play)	characterInPlay	Myra Bruhl
+Deathtrap (play)	characterInPlay	Clifford Anderson
+Deathtrap (play)	characterInPlay	Helga ten Dorp
+Deathtrap (play)	characterInPlay	Porter Milgrim
+Wings (play)	characterInPlay	Emily Stilson
+Wings (play)	characterInPlay	Amy
+Wings (play)	characterInPlay	Doctors
+Wings (play)	characterInPlay	Nurses
+Wings (play)	characterInPlay	Billy
+Wings (play)	characterInPlay	Mr. Brownstein
+Wings (play)	characterInPlay	Mrs. Timmins
+FOB (play)	characterInPlay	Dale
+FOB (play)	characterInPlay	Grace
+FOB (play)	characterInPlay	Steve
+Face Value (play)	characterInPlay	Andrew Simpson
+Face Value (play)	characterInPlay	Linda Ann Wong
+Face Value (play)	characterInPlay	Marci Williams
+Face Value (play)	characterInPlay	Bernard Sugarman
+Face Value (play)	characterInPlay	Pastor
+Face Value (play)	characterInPlay	Glenn Ebens
+Face Value (play)	characterInPlay	Randall Lee
+The Cocktail Party	characterInPlay	Edward Chamberlayne
+The Cocktail Party	characterInPlay	Lavinia Chamberlayne
+The Cocktail Party	characterInPlay	Celia Coplestone
+The Cocktail Party	characterInPlay	Sir Henry Harcourt-Reilly
+The Cocktail Party	characterInPlay	Miss Barraway
+The Cocktail Party	characterInPlay	Peter Quilpe
+The Cocktail Party	characterInPlay	Julia Shuttlethwaite
+The Cocktail Party	characterInPlay	Alexander MacColgie Gibbs
+Captivi	characterInPlay	Ergasilus
+Captivi	characterInPlay	Hegio
+Captivi	characterInPlay	Overseer
+Captivi	characterInPlay	Philocrates
+Captivi	characterInPlay	Tyndarus
+Captivi	characterInPlay	Aristophontes
+Captivi	characterInPlay	a page
+Captivi	characterInPlay	Philopolemus
+Captivi	characterInPlay	Stalagmus
+Relatively Speaking (play)	characterInPlay	Greg
+Relatively Speaking (play)	characterInPlay	Ginny
+Relatively Speaking (play)	characterInPlay	Philip
+Relatively Speaking (play)	characterInPlay	Sheila
+Ross (play)	characterInPlay	T. E. Lawrence
+Cleansed	characterInPlay	Graham
+Cleansed	characterInPlay	Tinker
+Cleansed	characterInPlay	Carl
+Cleansed	characterInPlay	Rod
+Cleansed	characterInPlay	Grace
+Cleansed	characterInPlay	Robin
+Cleansed	characterInPlay	Woman
+Rough for Theatre I	characterInPlay	A
+Rough for Theatre I	characterInPlay	B
+The Liar (Goldoni)	characterInPlay	Lelio, the Liar
+The Liar (Goldoni)	characterInPlay	Arlecchino, his servant
+The Liar (Goldoni)	characterInPlay	Pantalone, his father
+The Liar (Goldoni)	characterInPlay	Doctor Balanzone
+The Liar (Goldoni)	characterInPlay	Rosaura and Beatrice, his daughters
+The Liar (Goldoni)	characterInPlay	Columbina, their maidservant
+The Liar (Goldoni)	characterInPlay	Florindo, assistant to Balanzone, in love with Rosaura
+The Liar (Goldoni)	characterInPlay	Brighella, his friend, in love with Colombina
+The Liar (Goldoni)	characterInPlay	Ottavio, in love with Beatrice
+An Experiment with an Air Pump	characterInPlay	Joseph Fenwick
+An Experiment with an Air Pump	characterInPlay	Susannah Fenwick
+An Experiment with an Air Pump	characterInPlay	Harriet Fenwick
+An Experiment with an Air Pump	characterInPlay	Maria Fenwick
+An Experiment with an Air Pump	characterInPlay	Peter Mark Roget
+An Experiment with an Air Pump	characterInPlay	Thomas Armstrong
+An Experiment with an Air Pump	characterInPlay	Isobel Bridie
+An Experiment with an Air Pump	characterInPlay	Ellen
+An Experiment with an Air Pump	characterInPlay	Tom
+An Experiment with an Air Pump	characterInPlay	Phil
+An Experiment with an Air Pump	characterInPlay	Kate
+In Extremis (play)	characterInPlay	Heloise, Abelard, Bernard of Clairvaux
+Sunrise at Campobello (play)	characterInPlay	Franklin Delano Roosevelt
+Sunrise at Campobello (play)	characterInPlay	Eleanor Roosevelt
+Sunrise at Campobello (play)	characterInPlay	Sara Delano Roosevelt
+Danton's Death	characterInPlay	Georges Danton
+Danton's Death	characterInPlay	Camille Desmoulins
+Danton's Death	characterInPlay	Lucile Duplessis
+Danton's Death	characterInPlay	Marie-Jean H\u00E9rault de S\u00E9chelles
+Danton's Death	characterInPlay	Maximilien Robespierre
+Danton's Death	characterInPlay	Louis de Saint-Just
+Danton's Death	characterInPlay	Thomas Paine
+Danton's Death	characterInPlay	Fabre d'\u00C9glantine
+Danton's Death	characterInPlay	Louis-S\u00E9bastien Mercier
+Danton's Death	characterInPlay	Jean-Marie Collot d'Herbois
+Danton's Death	characterInPlay	Jacques Nicolas Billaud-Varenne
+Danton's Death	characterInPlay	Bertrand Bar\u00E8re de Vieuzac
+The Marriage-Go-Round	characterInPlay	Paul Delville
+The Marriage-Go-Round	characterInPlay	Content Lowell (Mrs. Paul Delville)
+The Marriage-Go-Round	characterInPlay	Katrin Sveg
+The Marriage-Go-Round	characterInPlay	Ross Barnett
+Does a Tiger Wear a Necktie?	characterInPlay	Bickham, Fullendorf, Conrad
+Anna in the Tropics	characterInPlay	Santiago
+Anna in the Tropics	characterInPlay	Chech\u00E9
+Anna in the Tropics	characterInPlay	Ofelia
+Anna in the Tropics	characterInPlay	Marela
+Anna in the Tropics	characterInPlay	Conchita
+Anna in the Tropics	characterInPlay	Palomo
+Anna in the Tropics	characterInPlay	Juan Julian
+Anna in the Tropics	characterInPlay	Eliades
+Frost/Nixon (play)	characterInPlay	David Frost
+Frost/Nixon (play)	characterInPlay	Richard Nixon
+The Lesson	characterInPlay	Professor \u2022 Pupil \u2022 Maid
+On the Razzle (play)	characterInPlay	Herr Zangler, owner of a rural upscale grocery store
+On the Razzle (play)	characterInPlay	Mme. Knorr, proprietor of a women's clothing store in Vienna
+On the Razzle (play)	characterInPlay	Weinberl, Zangler's chief clerk
+On the Razzle (play)	characterInPlay	Christopher, Zangler's apprentice
+On the Razzle (play)	characterInPlay	Frau Fischer, Mme. Knorr's customer
+On the Razzle (play)	characterInPlay	Marie, Zangler's niece
+On the Razzle (play)	characterInPlay	Sonders, Marie's ne'er-do-well suitor
+On the Razzle (play)	characterInPlay	Melchior, Zangler's personal assistant
+The Castle of Perseverance	characterInPlay	Mankind
+The Castle of Perseverance	characterInPlay	Belial
+The Castle of Perseverance	characterInPlay	World
+The Castle of Perseverance	characterInPlay	Good Angel
+The Castle of Perseverance	characterInPlay	Bad Angel
+The Castle of Perseverance	characterInPlay	Seven deadly sins
+The Castle of Perseverance	characterInPlay	Virtues
+The Castle of Perseverance	characterInPlay	Death
+The Castle of Perseverance	characterInPlay	God the Father
+The Castle of Perseverance	characterInPlay	Others
+The Hothouse	characterInPlay	Roote
+The Hothouse	characterInPlay	Gibbs
+The Hothouse	characterInPlay	Lamb
+The Hothouse	characterInPlay	Miss Cutts
+The Hothouse	characterInPlay	Lush
+The Hothouse	characterInPlay	Tubb
+The Hothouse	characterInPlay	Lobb
+As Is (play)	characterInPlay	Saul
+As Is (play)	characterInPlay	Rich
+As Is (play)	characterInPlay	Nurse
+As Is (play)	characterInPlay	Chet
+As Is (play)	characterInPlay	Barney
+As Is (play)	characterInPlay	Brother
+As Is (play)	characterInPlay	Lily
+As Is (play)	characterInPlay	Pat
+Children of a Lesser God (play)	characterInPlay	Sarah Norman
+Children of a Lesser God (play)	characterInPlay	James Leeds
+Children of a Lesser God (play)	characterInPlay	Orin Dennis
+Children of a Lesser God (play)	characterInPlay	Mr. Franklin
+Children of a Lesser God (play)	characterInPlay	Mrs. Norman
+Children of a Lesser God (play)	characterInPlay	Lydia
+Children of a Lesser God (play)	characterInPlay	Edna Klein
+Invitation to the Castle	characterInPlay	Madame Desmortes
+Invitation to the Castle	characterInPlay	Diana Messerschmann
+Invitation to the Castle	characterInPlay	Lady Dorothy India
+Invitation to the Castle	characterInPlay	Fr\u00E9d\u00E9ric
+Invitation to the Castle	characterInPlay	Geraldine Capulet
+Invitation to the Castle	characterInPlay	Guy-Charles Romainville
+Invitation to the Castle	characterInPlay	Hugo
+Invitation to the Castle	characterInPlay	Isabelle
+Invitation to the Castle	characterInPlay	Joshua
+Invitation to the Castle	characterInPlay	Mother (Josephine)
+Invitation to the Castle	characterInPlay	Patrice Bombelles
+Invitation to the Castle	characterInPlay	Romuald Messerschmann
+Da (play)	characterInPlay	Da
+Da (play)	characterInPlay	Charlie Now
+Da (play)	characterInPlay	Drumm
+Da (play)	characterInPlay	Young Charlie
+Da (play)	characterInPlay	Mother
+Da (play)	characterInPlay	Oliver
+Da (play)	characterInPlay	Mrs. Prynne
+Da (play)	characterInPlay	Mary Tate, the Yellow Peril
+Strange Interlude	characterInPlay	Edmund Darrell
+Strange Interlude	characterInPlay	Gordon Evans
+Strange Interlude	characterInPlay	Nina Leeds
+Strange Interlude	characterInPlay	Sam Evans
+Strange Interlude	characterInPlay	Prof. Henry Leeds
+Strange Interlude	characterInPlay	Charles Marsden
+Strange Interlude	characterInPlay	Madeline Arnold
+Strange Interlude	characterInPlay	Mrs. Amos Evans
+Blood Knot	characterInPlay	Morris
+Blood Knot	characterInPlay	Zachariah
+Bug (play)	characterInPlay	Peter Evans
+Bug (play)	characterInPlay	Agnes White
+Bug (play)	characterInPlay	Jerry Goss
+Bug (play)	characterInPlay	Dr. Sweet
+Bug (play)	characterInPlay	R.C.
+Bug (play)	characterInPlay	Pizza guy
+Shibaraku	characterInPlay	Kamakura Gongor\u014D Kagemasa, Kiyohara no Takehira, Prince Kamo Jir\u014D Yoshitsuna, Princess Katsura-no-mae
+The Diary of Anne Frank (play)	characterInPlay	Otto Frank
+The Diary of Anne Frank (play)	characterInPlay	Anne Frank
+The Diary of Anne Frank (play)	characterInPlay	Miep Gies
+The Diary of Anne Frank (play)	characterInPlay	Edith Frank
+The Diary of Anne Frank (play)	characterInPlay	Peter van Daan
+The Diary of Anne Frank (play)	characterInPlay	Margot Frank
+The Diary of Anne Frank (play)	characterInPlay	Mr. Van Daan
+The Diary of Anne Frank (play)	characterInPlay	Mrs. Van Daan
+The Diary of Anne Frank (play)	characterInPlay	Mr. Dussel
+The Diary of Anne Frank (play)	characterInPlay	Mr. Kraler
+The Diary of Anne Frank (play)	characterInPlay	1st Man
+The Diary of Anne Frank (play)	characterInPlay	2nd Man
+The Diary of Anne Frank (play)	characterInPlay	3rd Man.
+Talley's Folly	characterInPlay	Sally Talley
+Talley's Folly	characterInPlay	Matt Friedman
+Fat Pig	characterInPlay	Helen
+Fat Pig	characterInPlay	Tom
+Fat Pig	characterInPlay	Carter
+Fat Pig	characterInPlay	Jeannie
+Sleuth (play)	characterInPlay	Milo Tindle
+Sleuth (play)	characterInPlay	Andrew Wyke
+Sleuth (play)	characterInPlay	Inspector Doppler
+Sleuth (play)	characterInPlay	Detective Sergeant Tarrant
+Sleuth (play)	characterInPlay	Police Constable Higgs
+Romantic Comedy (play)	characterInPlay	Phoebe Craddock
+Romantic Comedy (play)	characterInPlay	Jason Carmichael
+The Price (play)	characterInPlay	Victor Franz
+The Price (play)	characterInPlay	Esther Franz
+The Price (play)	characterInPlay	Gregory Solomon
+The Price (play)	characterInPlay	Walter Franz
+The Apollo of Bellac	characterInPlay	Agnes, Therese, Clerk,
+The Apollo of Bellac	characterInPlay	The Man from Bellac,
+The Apollo of Bellac	characterInPlay	The Vice President,
+The Apollo of Bellac	characterInPlay	Mr Cracheton,
+The Apollo of Bellac	characterInPlay	Mr Lepedura,
+The Apollo of Bellac	characterInPlay	Mr Rasemutte,
+The Apollo of Bellac	characterInPlay	Mr Schultz,
+The Apollo of Bellac	characterInPlay	The President,
+The Apollo of Bellac	characterInPlay	Miss Chevredent
+The White Liars (Play)	characterInPlay	Sophie, Baroness Lemberg
+The White Liars (Play)	characterInPlay	Frank
+The White Liars (Play)	characterInPlay	Tom
+The Gin Game	characterInPlay	Weller Martin
+The Gin Game	characterInPlay	Fonsia Dorsey
+The Colleen Bawn	characterInPlay	Hardress Cregan
+The Colleen Bawn	characterInPlay	Myles na Coppaleen
+The Colleen Bawn	characterInPlay	Danny Mann
+The Colleen Bawn	characterInPlay	Mr Corrigan
+The Colleen Bawn	characterInPlay	Father Tom
+The Colleen Bawn	characterInPlay	Kyrle Daly
+The Colleen Bawn	characterInPlay	Eily O'Connor
+The Colleen Bawn	characterInPlay	Anne Chute
+The Colleen Bawn	characterInPlay	Mrs Cregan
+The Shadow Box	characterInPlay	Maggie
+The Shadow Box	characterInPlay	Beverly
+The Shadow Box	characterInPlay	Felicity
+The Shadow Box	characterInPlay	Agnes
+The Shadow Box	characterInPlay	Brian
+The Shadow Box	characterInPlay	Joe
+The Shadow Box	characterInPlay	Mark
+The Shadow Box	characterInPlay	The Interviewer
+The Shadow Box	characterInPlay	Steve
+The Changing Room	characterInPlay	22 men: rugby players and staff
+A Soldier's Play	characterInPlay	Capt. Davenport
+A Soldier's Play	characterInPlay	Sgt. Waters
+A Soldier's Play	characterInPlay	Pvt. Wilkie
+A Soldier's Play	characterInPlay	Cpl. Cobb
+A Soldier's Play	characterInPlay	Pvt. Smalls
+A Soldier's Play	characterInPlay	Capt. Taylor
+A Soldier's Play	characterInPlay	C.J. Memphis
+A Soldier's Play	characterInPlay	Cpl. Ellis
+A Soldier's Play	characterInPlay	Pfc. Peterson
+A Soldier's Play	characterInPlay	Pvt. Henson
+A Soldier's Play	characterInPlay	Big Mary
+A Soldier's Play	characterInPlay	Lt. Byrd
+A Soldier's Play	characterInPlay	Capt. Wilcox
+A Soldier's Play	characterInPlay	Sgt. Washington
+A Soldier's Play	characterInPlay	Col. Nivens
+Casina (play)	characterInPlay	Olympio - slave of Lysidamus
+Casina (play)	characterInPlay	Chalinus - slave of Cleostrata
+Casina (play)	characterInPlay	Cleostrata - wife of Lysidamus
+Casina (play)	characterInPlay	Pardalisca - maid of Cleostrata
+Casina (play)	characterInPlay	Myrrhina - wife of Alcesimus
+Casina (play)	characterInPlay	Lysidamus
+Casina (play)	characterInPlay	Alcesimus
+Casina (play)	characterInPlay	Citrio - cook
+Master Class	characterInPlay	Maria Callas
+Master Class	characterInPlay	Sharon Graham
+Master Class	characterInPlay	Sophie De Palma
+Master Class	characterInPlay	Emmanuel Weinstock
+Master Class	characterInPlay	Anthony Candolino
+Master Class	characterInPlay	Stagehand
+Tru (play)	characterInPlay	Truman Capote
+Bacchides (play)	characterInPlay	Bacchis I (a prostitute)
+Bacchides (play)	characterInPlay	Slave (of Bacchis)
+Bacchides (play)	characterInPlay	Pistoclerus (son of Philoxenus)
+Bacchides (play)	characterInPlay	Boy (of Cleomachus)
+Bacchides (play)	characterInPlay	Bacchis II (sister of Bacchis I)
+Bacchides (play)	characterInPlay	Lydus (tutor to Pistoclerus)
+Bacchides (play)	characterInPlay	Chrysalus (slave of Nicobulus)
+Bacchides (play)	characterInPlay	Nicobulus
+Bacchides (play)	characterInPlay	Mnesilochus (son of Nicobulus)
+Bacchides (play)	characterInPlay	Philoxenus
+Bacchides (play)	characterInPlay	Parasite (of Cleomachus)
+Bacchides (play)	characterInPlay	Artamo (slave of Nicobulus)
+Bacchides (play)	characterInPlay	Cleomachus (soldier)
+Sticks and Bones	characterInPlay	David
+Sticks and Bones	characterInPlay	Ozzie
+Sticks and Bones	characterInPlay	Harriet
+Sticks and Bones	characterInPlay	Rick
+Sticks and Bones	characterInPlay	Zung
+Sticks and Bones	characterInPlay	Sergeant Major
+Sticks and Bones	characterInPlay	Priest
+Frozen (play)	characterInPlay	Agnetha
+Frozen (play)	characterInPlay	Daughter
+Frozen (play)	characterInPlay	Guard
+Frozen (play)	characterInPlay	Nancy
+Frozen (play)	characterInPlay	Ralph
+Frozen (play)	characterInPlay	Voice of David Nabkus
+Side Man	characterInPlay	Jonesy
+Side Man	characterInPlay	Terry
+Side Man	characterInPlay	Ziggy
+Side Man	characterInPlay	Clifford
+Side Man	characterInPlay	Al
+Side Man	characterInPlay	Patsy
+Side Man	characterInPlay	Gene
+Underneath the Lintel	characterInPlay	The Librarian
+Boy Gets Girl	characterInPlay	Theresa Bedell
+Boy Gets Girl	characterInPlay	Tony
+Boy Gets Girl	characterInPlay	Howard Siegel
+Boy Gets Girl	characterInPlay	Mercer Stevens
+Boy Gets Girl	characterInPlay	Harriet
+Boy Gets Girl	characterInPlay	Det. Madeleine Beck
+Boy Gets Girl	characterInPlay	Les Kennkat
+Yoshitsune Senbon Zakura	characterInPlay	Yoshitsune, Benkei, Shizuka, Tomomori, Koremori, Noritsune, Tadanobu, others
+Moonlight (play)	characterInPlay	Andy, Bel, Bridget, Fred, Jake, Maria, Ralph
+La Farce de maître Pierre Pathelin	characterInPlay	Pierre Pathelin
+La Farce de maître Pierre Pathelin	characterInPlay	Guillemette Pathelin
+La Farce de maître Pierre Pathelin	characterInPlay	Guillaume Joceaulme
+La Farce de maître Pierre Pathelin	characterInPlay	Thubault Aignelet
+La Farce de maître Pierre Pathelin	characterInPlay	Judge
+The Fourposter	characterInPlay	Michael and Agnes
+Catch 22 (play)	characterInPlay	John Yossarian
+Catch 22 (play)	characterInPlay	Chaplain Tappman
+Catch 22 (play)	characterInPlay	Milo Minderbinder
+Catch 22 (play)	characterInPlay	Captain Black
+Catch 22 (play)	characterInPlay	Doc Daneeka
+Catch 22 (play)	characterInPlay	McWatt
+Family Devotions	characterInPlay	Robert
+Family Devotions	characterInPlay	Ama
+Family Devotions	characterInPlay	Hannah
+Family Devotions	characterInPlay	Chester
+Family Devotions	characterInPlay	Wilbur
+Family Devotions	characterInPlay	PoPo
+Family Devotions	characterInPlay	Joanne
+Family Devotions	characterInPlay	Jenny
+Family Devotions	characterInPlay	DiGou
+Rich Relations	characterInPlay	Hinson
+Rich Relations	characterInPlay	Keith
+Rich Relations	characterInPlay	Jill
+Rich Relations	characterInPlay	Barbara
+Rich Relations	characterInPlay	Marilyn
+Golden Child (play)	characterInPlay	Eng Siu-Yong
+Golden Child (play)	characterInPlay	Andrew Kwong
+Golden Child (play)	characterInPlay	Eng Tieng-Bin
+Golden Child (play)	characterInPlay	Elizabeth Kwong
+Golden Child (play)	characterInPlay	Eng Eling
+Golden Child (play)	characterInPlay	Reverend Anthony Baines
+Golden Child (play)	characterInPlay	Eng Luan
+Golden Child (play)	characterInPlay	Eng Ahn and others
+Peer Gynt (1998 adaptation)	characterInPlay	Peer Gynt
+Peer Gynt (1998 adaptation)	characterInPlay	Ase
+Peer Gynt (1998 adaptation)	characterInPlay	Mads Moen
+Peer Gynt (1998 adaptation)	characterInPlay	Solveig
+Peer Gynt (1998 adaptation)	characterInPlay	Troll King and others
+Tibet Through the Red Box (play)	characterInPlay	The Boy Spirit
+Tibet Through the Red Box (play)	characterInPlay	Vladimir
+Tibet Through the Red Box (play)	characterInPlay	Peter
+Tibet Through the Red Box (play)	characterInPlay	Alenka
+Tibet Through the Red Box (play)	characterInPlay	Jingle-Bell Boy
+The Tooth of Crime	characterInPlay	Hoss
+The Tooth of Crime	characterInPlay	Becky Lou
+The Tooth of Crime	characterInPlay	Star-Man
+The Tooth of Crime	characterInPlay	Galactic Jack
+The Tooth of Crime	characterInPlay	Referee
+The Tooth of Crime	characterInPlay	Cheyenne
+The Tooth of Crime	characterInPlay	Doc
+The Tooth of Crime	characterInPlay	Crow
+Red Noses	characterInPlay	Father Flote
+Red Noses	characterInPlay	Father Toulon
+Red Noses	characterInPlay	Master Bells
+Red Noses	characterInPlay	Brodin
+Red Noses	characterInPlay	Marguerite
+Red Noses	characterInPlay	Rochfort
+Red Noses	characterInPlay	Frapper
+Red Noses	characterInPlay	Pope Clement VI
+Yoshitsune Shin Takadachi	characterInPlay	Yoshitsune, Benkei, Shizuka, Yoritomo, Shitenn\u014D
+The Madwoman of Chaillot	characterInPlay	The Waiter, The Baron, Pierre,
+The Madwoman of Chaillot	characterInPlay	The President, The Prospector,
+The Madwoman of Chaillot	characterInPlay	The Street Singer, The Ragpicker,
+The Madwoman of Chaillot	characterInPlay	The Broker, Irma, Countess Aurelia,
+The Madwoman of Chaillot	characterInPlay	The Sergeant, The Sewer Man,
+The Madwoman of Chaillot	characterInPlay	Mme. Constance, Mme. Gabrielle,
+The Madwoman of Chaillot	characterInPlay	Mme. Josophine, The Presidents,
+The Madwoman of Chaillot	characterInPlay	The Prospectors, The Press Agents
+Benten Kozō	characterInPlay	Benten Koz\u014D Kikunosuke
+Benten Kozō	characterInPlay	Nippon Daemon
+Benten Kozō	characterInPlay	Princess Senju
+Benten Kozō	characterInPlay	Hamamatsuya K\u014Dbei
+Sizwe Banzi Is Dead	characterInPlay	Styles
+Sizwe Banzi Is Dead	characterInPlay	Robert (Sizwe Banzi)
+A Christian Turn'd Turk	characterInPlay	25
+Deuce (play)	characterInPlay	Leona Mullen
+Deuce (play)	characterInPlay	Midge Barker
+Deuce (play)	characterInPlay	Kelly Short
+Deuce (play)	characterInPlay	Ryan Becker
+Deuce (play)	characterInPlay	An Admirer
+Benefactors (play)	characterInPlay	Jane
+Benefactors (play)	characterInPlay	Sheila
+Benefactors (play)	characterInPlay	Colin
+Benefactors (play)	characterInPlay	David
+Yellow Face	characterInPlay	DHH
+Yellow Face	characterInPlay	Marcus G. Dahlman
+Yellow Face	characterInPlay	Leah Anne Cho
+Yellow Face	characterInPlay	HYH
+Yellow Face	characterInPlay	Stuart Ostrow and others
+Command Decision (play)	characterInPlay	Gen. Casey Dennis
+Command Decision (play)	characterInPlay	Gen. R.G. Kane
+Command Decision (play)	characterInPlay	T/Sgt. Harold Evans
+Command Decision (play)	characterInPlay	Elmer Brockhurst
+Command Decision (play)	characterInPlay	Col. Ted Martin
+Command Decision (play)	characterInPlay	Gen. Cliff Garnett
+The Shrike (play)	characterInPlay	Ann Downs
+The Shrike (play)	characterInPlay	Jim Downs
+The Shrike (play)	characterInPlay	Dr. Schlesinger
+The Shrike (play)	characterInPlay	Perkins
+The Shrike (play)	characterInPlay	Miss Wingate
+The Shrike (play)	characterInPlay	Dr. Barrow
+The Shrike (play)	characterInPlay	Grossberg
+The Shrike (play)	characterInPlay	Dr. Bellman
+The Shrike (play)	characterInPlay	Joe Major
+Is He Dead?	characterInPlay	Jean-Fran\u00E7ois Millet
+Is He Dead?	characterInPlay	Agamemnon Buckner
+Is He Dead?	characterInPlay	Marie Leroux
+Is He Dead?	characterInPlay	Hans von Bismarck
+Is He Dead?	characterInPlay	Cecile Leroux
+Stepping Out (play)	characterInPlay	Mavis
+Stepping Out (play)	characterInPlay	Vera
+Stepping Out (play)	characterInPlay	Maxine
+Stepping Out (play)	characterInPlay	Andy
+Stepping Out (play)	characterInPlay	Sylvia
+Stepping Out (play)	characterInPlay	Dorothy
+Stepping Out (play)	characterInPlay	Lynne
+Stepping Out (play)	characterInPlay	Rose
+Stepping Out (play)	characterInPlay	Geoffrey
+Stepping Out (play)	characterInPlay	Mrs Fraser
+The House of Bernarda Alba	characterInPlay	Bernarda Alba (60)
+The House of Bernarda Alba	characterInPlay	Mar\u00EDa Josefa (80s)
+The House of Bernarda Alba	characterInPlay	Angustias (39)
+The House of Bernarda Alba	characterInPlay	Magdalena (30)
+The House of Bernarda Alba	characterInPlay	Amelia (27)
+The House of Bernarda Alba	characterInPlay	Martirio (24)
+The House of Bernarda Alba	characterInPlay	Adela (20)
+The House of Bernarda Alba	characterInPlay	Maid (50)
+The House of Bernarda Alba	characterInPlay	Poncia (60)
+The House of Bernarda Alba	characterInPlay	Prudencia (50)
+The House of Bernarda Alba	characterInPlay	Beggar woman
+The House of Bernarda Alba	characterInPlay	Little girl
+The House of Bernarda Alba	characterInPlay	Women mourners
+The House of Bernarda Alba	characterInPlay	First woman
+The House of Bernarda Alba	characterInPlay	Second woman
+The House of Bernarda Alba	characterInPlay	Third woman
+The House of Bernarda Alba	characterInPlay	Fourth woman
+The House of Bernarda Alba	characterInPlay	Girl
+Murder on the Nile/Hidden Horizon	characterInPlay	Beadsellers
+Murder on the Nile/Hidden Horizon	characterInPlay	Steward
+Murder on the Nile/Hidden Horizon	characterInPlay	Miss ffoliot-ffoulkes
+Murder on the Nile/Hidden Horizon	characterInPlay	Christina Grant
+Murder on the Nile/Hidden Horizon	characterInPlay	Smith
+Murder on the Nile/Hidden Horizon	characterInPlay	Louise
+Murder on the Nile/Hidden Horizon	characterInPlay	Dr. Bessner
+Murder on the Nile/Hidden Horizon	characterInPlay	Kay Mostyn
+Murder on the Nile/Hidden Horizon	characterInPlay	Simon Mostyn
+Murder on the Nile/Hidden Horizon	characterInPlay	Canon Pennefather
+Murder on the Nile/Hidden Horizon	characterInPlay	Jacqueline de Severac
+Murder on the Nile/Hidden Horizon	characterInPlay	McNaught
+Home (play)	characterInPlay	Harry
+Home (play)	characterInPlay	Jack
+Home (play)	characterInPlay	Marjorie
+Home (play)	characterInPlay	Kathleen
+Home (play)	characterInPlay	Alfred
+The Last Confession	characterInPlay	Giovanni Benelli
+The Last Confession	characterInPlay	Pope John Paul I
+The Last Confession	characterInPlay	Jean-Marie Villot
+The Last Confession	characterInPlay	Paul Marcinkus
+The Last Confession	characterInPlay	Pope Paul VI
+The Last Confession	characterInPlay	Pericle Felici
+The Last Confession	characterInPlay	Alfredo Ottaviani
+Visiting Mr. Green	characterInPlay	Ross Gardiner
+Visiting Mr. Green	characterInPlay	Mr. Green
+Bridge of Blood	characterInPlay	Elisabeth Elliot
+Bridge of Blood	characterInPlay	Jim Elliot
+Bridge of Blood	characterInPlay	Pete Fleming
+Bridge of Blood	characterInPlay	Ed McCully
+Bridge of Blood	characterInPlay	Nate Saint
+Bridge of Blood	characterInPlay	Roger Youderian
+L'Amour médecin	characterInPlay	Sganarelle
+L'Amour médecin	characterInPlay	Lisette
+L'Amour médecin	characterInPlay	Lucinde
+L'Amour médecin	characterInPlay	Clitandre
+L'Amour médecin	characterInPlay	Monsieur Filerin
+L'Amour médecin	characterInPlay	Monsieur
+L'Amour médecin	characterInPlay	Des Fonanadr\u00E8s
+L'Amour médecin	characterInPlay	Monsieur Tom\u00E8s
+Elmina's Kitchen	characterInPlay	Anastasia, Clifton, Ashley, Baygee, Deli, Digger
+Arlequin poli par l'amour	characterInPlay	The fairy
+Arlequin poli par l'amour	characterInPlay	Trivelin
+Arlequin poli par l'amour	characterInPlay	Arlequin
+Arlequin poli par l'amour	characterInPlay	Silvia
+Arlequin poli par l'amour	characterInPlay	A shepherd
+Arlequin poli par l'amour	characterInPlay	A shepherdess
+The Game of Love and Chance	characterInPlay	Silvia
+The Game of Love and Chance	characterInPlay	Dorante
+The Game of Love and Chance	characterInPlay	Monsieur Orgon
+The Game of Love and Chance	characterInPlay	Mario
+The Game of Love and Chance	characterInPlay	Arlequin
+The Game of Love and Chance	characterInPlay	Lisette
+Toast (play)	characterInPlay	Lance
+Toast (play)	characterInPlay	Colin
+Toast (play)	characterInPlay	Peter
+Toast (play)	characterInPlay	Walter Nelson (Nellie)
+Toast (play)	characterInPlay	Cecil
+Toast (play)	characterInPlay	Blakey
+Toast (play)	characterInPlay	Dezzie
+The Seafarer (play)	characterInPlay	Sharky
+The Seafarer (play)	characterInPlay	Richard
+The Seafarer (play)	characterInPlay	Ivan
+The Seafarer (play)	characterInPlay	Mr Lockhart
+The Seafarer (play)	characterInPlay	Nicky
+The 1940's Radio Hour	characterInPlay	Clifton Feddington
+The 1940's Radio Hour	characterInPlay	Lou Cohen
+The 1940's Radio Hour	characterInPlay	Johnny Cantone
+The 1940's Radio Hour	characterInPlay	Neal Tilden
+The 1940's Radio Hour	characterInPlay	Ann Collier
+The 1940's Radio Hour	characterInPlay	Ginger Brooks
+The 1940's Radio Hour	characterInPlay	Connie Miller
+The 1940's Radio Hour	characterInPlay	B.J. Gibson
+The 1940's Radio Hour	characterInPlay	Pops Bailey
+The 1940's Radio Hour	characterInPlay	Wally Ferguson
+The 1940's Radio Hour	characterInPlay	Biff Baker
+The 1940's Radio Hour	characterInPlay	Geneva Lee Browne
+The 1940's Radio Hour	characterInPlay	Stanley
+The 1940's Radio Hour	characterInPlay	Zoot Doubleman
+Iphigénie	characterInPlay	Agamemnon
+Iphigénie	characterInPlay	Achille
+Iphigénie	characterInPlay	Ulysse
+Iphigénie	characterInPlay	Clytemnestre
+Iphigénie	characterInPlay	Iphig\u00E9nie
+Iphigénie	characterInPlay	\u00C9riphile
+Le Fils naturel	characterInPlay	Dorval
+Le Fils naturel	characterInPlay	Clairville
+Le Fils naturel	characterInPlay	Constance
+Le Fils naturel	characterInPlay	Rosalie
+Le Fils naturel	characterInPlay	Lysimond
+Le Fils naturel	characterInPlay	Andr\u00E9
+Le père de famille	characterInPlay	The father of the family
+Le père de famille	characterInPlay	Saint-Albin
+Le père de famille	characterInPlay	Sophie
+Le père de famille	characterInPlay	Germeuil
+Le père de famille	characterInPlay	C\u00E9cile
+Le père de famille	characterInPlay	The Commander
+A Prayer for My Daughter (play)	characterInPlay	Sgt Kelly  Jack Delasante  Jimmy  Sean
+Double Inconstancy	characterInPlay	Le Prince
+Double Inconstancy	characterInPlay	Silvia
+Double Inconstancy	characterInPlay	Flaminia
+Double Inconstancy	characterInPlay	Arlequin
+Double Inconstancy	characterInPlay	Lisette
+Double Inconstancy	characterInPlay	Trivelin
+August: Osage County	characterInPlay	Beverly Weston
+August: Osage County	characterInPlay	Violet Weston
+August: Osage County	characterInPlay	Barbara Weston
+August: Osage County	characterInPlay	Ivy Weston
+August: Osage County	characterInPlay	Karen Weston
+August: Osage County	characterInPlay	Bill Fordham
+August: Osage County	characterInPlay	Jean Fordham
+August: Osage County	characterInPlay	Steve Heidebrecht
+August: Osage County	characterInPlay	Mattie Fae Aiken
+August: Osage County	characterInPlay	Charlie Aiken
+August: Osage County	characterInPlay	Little Charles
+August: Osage County	characterInPlay	Johnna Monevata
+August: Osage County	characterInPlay	Sheriff Deon Gilbeau
+London Calling (play)	characterInPlay	Straight
+London Calling (play)	characterInPlay	Mary Dayton
+London Calling (play)	characterInPlay	Anne Hunter
+London Calling (play)	characterInPlay	Jenny Fall
+London Calling (play)	characterInPlay	George Craft
+London Calling (play)	characterInPlay	Willie Craft
+London Calling (play)	characterInPlay	Carl Merodini
+London Calling (play)	characterInPlay	Mrs. Craft
+London Calling (play)	characterInPlay	Chauncey Knayling
+London Calling (play)	characterInPlay	Blewes
+London Calling (play)	characterInPlay	Henry Dayton
+Arlequin roi de Serendib	characterInPlay	Arlequin
+Arlequin roi de Serendib	characterInPlay	Pierrot
+Arlequin roi de Serendib	characterInPlay	Mezzetin
+Arlequin roi de Serendib	characterInPlay	the Grand Visir
+Arlequin roi de Serendib	characterInPlay	the Grand Sacrificer
+Arlequin roi de Serendib	characterInPlay	harem girls
+Arlequin roi de Serendib	characterInPlay	thieves
+Cinna (play)	characterInPlay	Cinna
+Cinna (play)	characterInPlay	Maxime
+Cinna (play)	characterInPlay	Augustus
+Cinna (play)	characterInPlay	Emilie
+Cinna (play)	characterInPlay	Fulvie
+Cinna (play)	characterInPlay	Livie
+Cinna (play)	characterInPlay	Polycl\u00E8te
+Cinna (play)	characterInPlay	\u00C9vandre
+Cinna (play)	characterInPlay	Euphorbe
+La Place royale	characterInPlay	Alidor
+La Place royale	characterInPlay	Ang\u00E9lique
+La Place royale	characterInPlay	Cl\u00E9andre
+La Place royale	characterInPlay	Doraste
+La Place royale	characterInPlay	Phylis
+La Place royale	characterInPlay	Lysis
+La Place royale	characterInPlay	Polymas
+La Place royale	characterInPlay	Lycante
+La Foire de Guibray	characterInPlay	Arlequin
+La Foire de Guibray	characterInPlay	Pierrot
+La Foire de Guibray	characterInPlay	Scaramouche
+La Foire de Guibray	characterInPlay	a judge
+La Foire de Guibray	characterInPlay	an Italian actor
+La Foire de Guibray	characterInPlay	two actresses
+La Foire de Guibray	characterInPlay	a musician
+Arlequin Mahomet	characterInPlay	Arlequin
+Arlequin Mahomet	characterInPlay	Dahi
+Arlequin Mahomet	characterInPlay	Boubekir
+Arlequin Mahomet	characterInPlay	The King of Basra
+Arlequin Mahomet	characterInPlay	A princess
+Arlequin Mahomet	characterInPlay	A Kam
+Arlequin Mahomet	characterInPlay	The Prince of Persia
+Arlequin Mahomet	characterInPlay	A servant
+Les Deux Billets	characterInPlay	Arlequin
+Les Deux Billets	characterInPlay	Scapin
+Les Deux Billets	characterInPlay	Argentine
+Le Bon Ménage	characterInPlay	Arlequin
+Le Bon Ménage	characterInPlay	Argentine
+Le Bon Ménage	characterInPlay	Rosalba
+Le Bon Ménage	characterInPlay	Mezzetin
+Le Bon Ménage	characterInPlay	two children
+Le Bon Père	characterInPlay	Arlequin
+Le Bon Père	characterInPlay	Nisida
+Le Bon Père	characterInPlay	Cl\u00E9ante
+Le Bon Père	characterInPlay	N\u00E9rine
+L'Île des esclaves	characterInPlay	Arlequin
+L'Île des esclaves	characterInPlay	Iphicrate
+L'Île des esclaves	characterInPlay	Cl\u00E9anthis
+L'Île des esclaves	characterInPlay	Euphrosine
+L'Île des esclaves	characterInPlay	Trivelin
+The Miracle Worker (play)	characterInPlay	Annie Sullivan
+The Miracle Worker (play)	characterInPlay	Helen Keller
+The Miracle Worker (play)	characterInPlay	Kate Keller
+The Miracle Worker (play)	characterInPlay	James Keller
+The Miracle Worker (play)	characterInPlay	Anagnos
+The Miracle Worker (play)	characterInPlay	Captain Keller
+The Miracle Worker (play)	characterInPlay	Viney
+Statement of Regret	characterInPlay	Kwaku Mackenzie
+Statement of Regret	characterInPlay	Michael Akinbola
+Statement of Regret	characterInPlay	Idrissa Adebayo
+Statement of Regret	characterInPlay	Issimama Banjoko
+Statement of Regret	characterInPlay	Lola Mackenzie
+Statement of Regret	characterInPlay	Kwaku Mackenzie Junior
+Statement of Regret	characterInPlay	Val
+Statement of Regret	characterInPlay	Adrian Mackenzie
+Statement of Regret	characterInPlay	Soby
+There's a Girl in My Soup (comedy)	characterInPlay	5
+The Year of the Dragon (play)	characterInPlay	the Eng family
+Lyrebird (Tales of Helpmann)	characterInPlay	Sir Robert Helpmann, et all
+Modern Dance for Beginners	characterInPlay	Eleri
+Modern Dance for Beginners	characterInPlay	Frances
+Modern Dance for Beginners	characterInPlay	Julia
+Modern Dance for Beginners	characterInPlay	Kieran
+Modern Dance for Beginners	characterInPlay	Lorraine
+Modern Dance for Beginners	characterInPlay	Owen
+Modern Dance for Beginners	characterInPlay	Russell
+Modern Dance for Beginners	characterInPlay	Skinner
+Amy's View	characterInPlay	Amy Thomas
+Amy's View	characterInPlay	Esme Allen
+Amy's View	characterInPlay	Dominic Tyghe
+Amy's View	characterInPlay	Frank Oddie
+Amy's View	characterInPlay	Evelyn Thomas
+Amy's View	characterInPlay	Toby Cole
+A Thurber Carnival	characterInPlay	First Man
+A Thurber Carnival	characterInPlay	Second Man
+A Thurber Carnival	characterInPlay	Third Man
+A Thurber Carnival	characterInPlay	Fourth Man
+A Thurber Carnival	characterInPlay	Fifth Man
+A Thurber Carnival	characterInPlay	First Woman
+A Thurber Carnival	characterInPlay	Second Woman
+A Thurber Carnival	characterInPlay	Third Woman
+A Thurber Carnival	characterInPlay	Fourth Woman
+God of Carnage	characterInPlay	Alain Reille
+God of Carnage	characterInPlay	Annette Reille
+God of Carnage	characterInPlay	V\u00E9ronique Vallon
+God of Carnage	characterInPlay	Michel Vallon
+Boesman and Lena	characterInPlay	Boesman
+Boesman and Lena	characterInPlay	Lena
+Boesman and Lena	characterInPlay	Outa
+The Road to Mecca	characterInPlay	Rev. Marius Byleveld
+The Road to Mecca	characterInPlay	Elsa Barlow
+The Road to Mecca	characterInPlay	Miss Helen
+Happy Now?	characterInPlay	Michael
+Happy Now?	characterInPlay	Kitty
+Happy Now?	characterInPlay	Johnny
+Happy Now?	characterInPlay	Miles
+Happy Now?	characterInPlay	BeaCarlJune
+Saturday Night at the Palace	characterInPlay	Vince
+Saturday Night at the Palace	characterInPlay	Forsie
+Saturday Night at the Palace	characterInPlay	September
+The Return of Elvis Du Pisanie	characterInPlay	Eddie
+Marigolds in August	characterInPlay	Daan
+Marigolds in August	characterInPlay	Melton
+Marigolds in August	characterInPlay	Paulus
+Ring Round the Moon	characterInPlay	Madame Desmortes
+Ring Round the Moon	characterInPlay	Diana Messerschmann
+Ring Round the Moon	characterInPlay	Lady Dorothy India
+Ring Round the Moon	characterInPlay	Fr\u00E9d\u00E9ric
+Ring Round the Moon	characterInPlay	Geraldine Capulet
+Ring Round the Moon	characterInPlay	Guy-Charles Romainville
+Ring Round the Moon	characterInPlay	Hugo
+Ring Round the Moon	characterInPlay	Isabelle
+Ring Round the Moon	characterInPlay	Joshua
+Ring Round the Moon	characterInPlay	Mother (Josephine)
+Ring Round the Moon	characterInPlay	Patrice Bombelles
+Ring Round the Moon	characterInPlay	Romuald Messerschmann
+Run for Your Wife (play)	characterInPlay	John Smith
+The Squaw Man (play)	characterInPlay	Capt. James Wynnegate aka Jim Carson
+The Squaw Man (play)	characterInPlay	Nat-u-ritch
+Time Out For Ginger	characterInPlay	Howard Carol
+Time Out For Ginger	characterInPlay	Agnes Carol
+Time Out For Ginger	characterInPlay	Joan
+Time Out For Ginger	characterInPlay	Eddie Davis
+Time Out For Ginger	characterInPlay	Ed Hoffman
+Time Out For Ginger	characterInPlay	Ginger
+Time Out For Ginger	characterInPlay	Lizzie
+Time Out For Ginger	characterInPlay	Tommy
+Time Out For Ginger	characterInPlay	Joan
+Time Out For Ginger	characterInPlay	Mr. Wilson
+The Last Days of Judas Iscariot	characterInPlay	Judas
+The Last Days of Judas Iscariot	characterInPlay	Jesus
+The Last Days of Judas Iscariot	characterInPlay	Satan
+The Last Days of Judas Iscariot	characterInPlay	Henrietta Iscariot
+The Last Days of Judas Iscariot	characterInPlay	Fabiana Aziza Cunningham
+The Last Days of Judas Iscariot	characterInPlay	El Fayoumy
+The Last Days of Judas Iscariot	characterInPlay	Pontius Pilate
+The Last Days of Judas Iscariot	characterInPlay	Mary Magdalene
+A Month in the Country (play)	characterInPlay	Natalya Petrovna
+A Month in the Country (play)	characterInPlay	Mikhail Rakitin
+A Month in the Country (play)	characterInPlay	Aleksei Belyaev
+A Month in the Country (play)	characterInPlay	Vera
+A Month in the Country (play)	characterInPlay	Shpigelsky
+A Month in the Country (play)	characterInPlay	Arkadi Islaev
+A Month in the Country (play)	characterInPlay	Lizaveta Bogdanovna
+A Month in the Country (play)	characterInPlay	Bolshintsov
+A Month in the Country (play)	characterInPlay	Schaaf
+A Month in the Country (play)	characterInPlay	Anna Semenovna
+A Month in the Country (play)	characterInPlay	Kolya
+A Month in the Country (play)	characterInPlay	Katya
+A Month in the Country (play)	characterInPlay	Matvei
+The Gas Heart	characterInPlay	Mouth
+The Gas Heart	characterInPlay	Ear
+The Gas Heart	characterInPlay	Eye
+The Gas Heart	characterInPlay	Nose
+The Gas Heart	characterInPlay	Neck
+The Gas Heart	characterInPlay	Eyebrow
+Bingo (play)	characterInPlay	William Shakespeare
+Bingo (play)	characterInPlay	Old Man
+Bingo (play)	characterInPlay	Old Woman
+Bingo (play)	characterInPlay	Judith
+Bingo (play)	characterInPlay	William Combe
+Bingo (play)	characterInPlay	Young Woman
+Bingo (play)	characterInPlay	Son
+Bingo (play)	characterInPlay	Ben Jonson
+Bingo (play)	characterInPlay	Wally
+Bingo (play)	characterInPlay	Joan
+Bingo (play)	characterInPlay	Jerome
+Bingo (play)	characterInPlay	2nd Old Woman
+Dracula (1996 play)	characterInPlay	Count Dracula
+Dracula (1996 play)	characterInPlay	Jonathan Harker
+Dracula (1996 play)	characterInPlay	Mina Harker
+Dracula (1996 play)	characterInPlay	Abraham Van Helsing
+Dracula (1996 play)	characterInPlay	Lucy Westenra
+Dracula (1996 play)	characterInPlay	Dr. John Seward
+Dracula (1996 play)	characterInPlay	Renfield
+Dracula (1996 play)	characterInPlay	Brides of Dracula
+In Abraham's Bosom	characterInPlay	Abraham McCranie
+In Abraham's Bosom	characterInPlay	Puny Avery
+In Abraham's Bosom	characterInPlay	Eddie Williams
+In Abraham's Bosom	characterInPlay	Neilly McNeill
+In Abraham's Bosom	characterInPlay	Colonel McCranie
+In Abraham's Bosom	characterInPlay	Douglas McCranie
+In Abraham's Bosom	characterInPlay	Lanie Horton
+In Abraham's Bosom	characterInPlay	Goldie McAllister
+In Abraham's Bosom	characterInPlay	Muh Mack
+In Abraham's Bosom	characterInPlay	Lije Hunneycutt
+In Abraham's Bosom	characterInPlay	Lonnie McCranie
+In Abraham's Bosom	characterInPlay	Bud Gaskins
+The Skriker	characterInPlay	Lily
+The Skriker	characterInPlay	Josie
+The Skriker	characterInPlay	Skriker
+In Good King Charles's Golden Days	characterInPlay	Barbara Villiers, 1st Duchess of Cleveland  Queen Catherine of Braganza
+In Good King Charles's Golden Days	characterInPlay	King Charles II
+In Good King Charles's Golden Days	characterInPlay	George Fox
+In Good King Charles's Golden Days	characterInPlay	Godfrey Kneller
+In Good King Charles's Golden Days	characterInPlay	Isaac Newton
+In Good King Charles's Golden Days	characterInPlay	Louise de K\u00E9rouaille, Duchess of Portsmouth
+In Good King Charles's Golden Days	characterInPlay	Nell Gwynn
+Dickens' Women	characterInPlay	23 characters from Dickens' fiction and life
+La Cage aux Folles (play)	characterInPlay	Georges
+La Cage aux Folles (play)	characterInPlay	Albin \
+La Cage aux Folles (play)	characterInPlay	Francis
+La Cage aux Folles (play)	characterInPlay	Salom\u00E9
+La Cage aux Folles (play)	characterInPlay	Jacob
+La Cage aux Folles (play)	characterInPlay	Merc\u00E9d\u00E8s
+La Cage aux Folles (play)	characterInPlay	M. Tabaro
+La Cage aux Folles (play)	characterInPlay	Zorba
+La Cage aux Folles (play)	characterInPlay	Laurent
+La Cage aux Folles (play)	characterInPlay	M. Languedoc
+La Cage aux Folles (play)	characterInPlay	M. Dieulafoi
+La Cage aux Folles (play)	characterInPlay	Mme Dieulafoi
+La Cage aux Folles (play)	characterInPlay	Muriel
+La Cage aux Folles (play)	characterInPlay	Simone
+Turn left at Gilgamesh	characterInPlay	Boz
+Turn left at Gilgamesh	characterInPlay	Kizzy
+Turn left at Gilgamesh	characterInPlay	Dale
+Mister Roberts (play)	characterInPlay	Lieutenant Doug Roberts
+Mister Roberts (play)	characterInPlay	The Captain
+Mister Roberts (play)	characterInPlay	Doc
+Mister Roberts (play)	characterInPlay	Ensign Pulver
+Mister Roberts (play)	characterInPlay	Wiley
+Mister Roberts (play)	characterInPlay	Gerhart
+Mister Roberts (play)	characterInPlay	Lieutenant Ann Girard
+Mister Roberts (play)	characterInPlay	Reber
+Mister Roberts (play)	characterInPlay	Shore Patrol Officer
+Mister Roberts (play)	characterInPlay	Stefanowski
+Strictly Dishonorable (play)	characterInPlay	Count Di Ruvo
+Strictly Dishonorable (play)	characterInPlay	Isabelle Parry
+Strictly Dishonorable (play)	characterInPlay	Judge Dempsey
+Strictly Dishonorable (play)	characterInPlay	Henry Greene
+Strictly Dishonorable (play)	characterInPlay	others
+Child of Manhattan (play)	characterInPlay	Madeleine McGonegal
+Child of Manhattan (play)	characterInPlay	Otto Paul Vanderkill
+Child of Manhattan (play)	characterInPlay	Panama C. Kelly
+Child of Manhattan (play)	characterInPlay	others
+The Good Fairy (play)	characterInPlay	Lu
+The Good Fairy (play)	characterInPlay	Dr. Sporum
+The Good Fairy (play)	characterInPlay	Konrad
+The Good Fairy (play)	characterInPlay	others
+The Teahouse of the August Moon (play)	characterInPlay	Captain Fisby
+The Teahouse of the August Moon (play)	characterInPlay	Sakini
+The Teahouse of the August Moon (play)	characterInPlay	Col Wainright Purdy III
+The Teahouse of the August Moon (play)	characterInPlay	Captain McLean
+The Teahouse of the August Moon (play)	characterInPlay	Mr. Oshira
+The Teahouse of the August Moon (play)	characterInPlay	Lotus Blossom
+The Teahouse of the August Moon (play)	characterInPlay	The Daughter's Child
+The Teahouse of the August Moon (play)	characterInPlay	Mr. Sumata
+The Teahouse of the August Moon (play)	characterInPlay	Mr. Sumata's Father
+The Teahouse of the August Moon (play)	characterInPlay	Ancient Man
+The Teahouse of the August Moon (play)	characterInPlay	Sergeant Gregovich
+The Teahouse of the August Moon (play)	characterInPlay	Villagers
+Strawhead	characterInPlay	Marilyn
+Strawhead	characterInPlay	Mr. Charles
+Strawhead	characterInPlay	Joe DiMaggio
+Strawhead	characterInPlay	Arthur Miller
+Borstal Boy (play)	characterInPlay	Young Behan
+Borstal Boy (play)	characterInPlay	Charlie Millwall
+Borstal Boy (play)	characterInPlay	Brendan Behan
+Borstal Boy (play)	characterInPlay	Mr. Whitbread
+Borstal Boy (play)	characterInPlay	Mrs. Gildea
+Borstal Boy (play)	characterInPlay	Hartigan
+Borstal Boy (play)	characterInPlay	Harty
+Borstal Boy (play)	characterInPlay	I.R.A. Men
+The Voice of the Turtle (play)	characterInPlay	Sally Middleton
+The Voice of the Turtle (play)	characterInPlay	Bill Page
+The Voice of the Turtle (play)	characterInPlay	Olive Lashbrooke
+The Geography Club (play)	characterInPlay	Russel Middlebrook
+The Geography Club (play)	characterInPlay	Kevin Land
+The Geography Club (play)	characterInPlay	Min Lao
+The Geography Club (play)	characterInPlay	Gunnar
+The Geography Club (play)	characterInPlay	Trish Baskin
+The Geography Club (play)	characterInPlay	Kimberly
+The Geography Club (play)	characterInPlay	Belinda Sherman
+The Geography Club (play)	characterInPlay	Brian Bund
+The Geography Club (play)	characterInPlay	Ike
+The Geography Club (play)	characterInPlay	Therese
+The Geography Club (play)	characterInPlay	Jarred
+The Geography Club (play)	characterInPlay	Nate
+Craig's Wife	characterInPlay	Billy Birkmire
+Craig's Wife	characterInPlay	Harry
+Craig's Wife	characterInPlay	Mazie
+Craig's Wife	characterInPlay	Mrs. Craig
+Craig's Wife	characterInPlay	Mrs. Frazier
+Craig's Wife	characterInPlay	Eugene Fredericks
+Craig's Wife	characterInPlay	Ethel Landreth
+Craig's Wife	characterInPlay	Joseph Catelle
+Craig's Wife	characterInPlay	Miss Austen
+Craig's Wife	characterInPlay	Walter Craig
+Craig's Wife	characterInPlay	Mrs. Harold
+Beyond the Horizon (play)	characterInPlay	Robert Mayo
+Beyond the Horizon (play)	characterInPlay	Andrew Mayo
+Beyond the Horizon (play)	characterInPlay	Ruth Atkins
+Beyond the Horizon (play)	characterInPlay	James Mayo
+Beyond the Horizon (play)	characterInPlay	Kate Mayo
+Beyond the Horizon (play)	characterInPlay	Captain Dick Scott
+Beyond the Horizon (play)	characterInPlay	Mrs. Atkins
+Beyond the Horizon (play)	characterInPlay	Mary
+Beyond the Horizon (play)	characterInPlay	Ben
+Beyond the Horizon (play)	characterInPlay	Doctor Fawcett
+No Place to be Somebody	characterInPlay	Gabe Gabriel
+No Place to be Somebody	characterInPlay	Shanty Mulligan
+No Place to be Somebody	characterInPlay	Johnny Williams
+No Place to be Somebody	characterInPlay	Dee Jacobson
+No Place to be Somebody	characterInPlay	Evie Ames
+No Place to be Somebody	characterInPlay	Cora Beasely
+No Place to be Somebody	characterInPlay	Melvin Smeltz
+No Place to be Somebody	characterInPlay	Mary Lou Bolton
+No Place to be Somebody	characterInPlay	Ellen
+No Place to be Somebody	characterInPlay	Sweets Crane
+No Place to be Somebody	characterInPlay	Mike Maffucci
+No Place to be Somebody	characterInPlay	Louie
+No Place to be Somebody	characterInPlay	Judge Bolton
+No Place to be Somebody	characterInPlay	Machine Dog
+No Place to be Somebody	characterInPlay	Sergeant Cappaletti
+No Place to be Somebody	characterInPlay	Harry
+Paul Pry (play)	characterInPlay	Paul Pry
+Seven Deadly Sins Four Deadly Sinners	characterInPlay	Four well-known actresses
+Look Homeward, Angel (play)	characterInPlay	Eugene Gant
+Look Homeward, Angel (play)	characterInPlay	Eliza Gant
+Look Homeward, Angel (play)	characterInPlay	W.O. Gant
+Driving Miss Daisy (play)	characterInPlay	Hoke Colburn
+Driving Miss Daisy (play)	characterInPlay	Daisy Werthan
+Driving Miss Daisy (play)	characterInPlay	Boolie Werthan
+An Evening with...	characterInPlay	various well-known actors, comedians, celebrities etc.
+Andromeda (play)	characterInPlay	Andromeda
+Andromeda (play)	characterInPlay	Perseus
+Andromeda (play)	characterInPlay	?
+Santa Claus: A Morality	characterInPlay	Death
+Santa Claus: A Morality	characterInPlay	Santa Claus
+Santa Claus: A Morality	characterInPlay	Mob
+Santa Claus: A Morality	characterInPlay	Child
+Santa Claus: A Morality	characterInPlay	Woman
+A Man for All Seasons	characterInPlay	The Common Man
+A Man for All Seasons	characterInPlay	Sir Thomas More
+A Man for All Seasons	characterInPlay	The Duke of Norfolk
+A Man for All Seasons	characterInPlay	Thomas Cromwell
+A Man for All Seasons	characterInPlay	King Henry VIII
+A Man for All Seasons	characterInPlay	Margaret More
+A Man for All Seasons	characterInPlay	William Roper
+A Man for All Seasons	characterInPlay	Cardinal Thomas Wolsey
+A Man for All Seasons	characterInPlay	Alice More
+A Man for All Seasons	characterInPlay	Thomas Cranmer
+A Man for All Seasons	characterInPlay	Richard Rich
+A Man for All Seasons	characterInPlay	Signor Chapuys
+Arias with a Twist	characterInPlay	Joey
+The Female of the Species (play)	characterInPlay	Margot Mason
+The Female of the Species (play)	characterInPlay	Molly Rivers
+The Female of the Species (play)	characterInPlay	Tess Thornton
+The Female of the Species (play)	characterInPlay	Bryan Thornton
+The Female of the Species (play)	characterInPlay	Frank
+The Female of the Species (play)	characterInPlay	Theo Reynolds
+Marvin's Room (play)	characterInPlay	Bob
+Marvin's Room (play)	characterInPlay	Marvin
+Marvin's Room (play)	characterInPlay	Ruth
+Marvin's Room (play)	characterInPlay	Lee
+Marvin's Room (play)	characterInPlay	Bessie
+Marvin's Room (play)	characterInPlay	Charlie
+Marvin's Room (play)	characterInPlay	Dr. Wally
+Marvin's Room (play)	characterInPlay	Hank
+Be Like Water	characterInPlay	Tracy Fong
+Be Like Water	characterInPlay	Ghost of Bruce Lee
+Be Like Water	characterInPlay	Kimiko Fong
+Be Like Water	characterInPlay	Frank Fong
+Be Like Water	characterInPlay	Bruce Lee
+Be Like Water	characterInPlay	Jeremy Morton
+Be Like Water	characterInPlay	Tina Kawai MacDonald
+Be Like Water	characterInPlay	Two Black-hooded Ninjas
+Truculentus	characterInPlay	Diniarchus
+Truculentus	characterInPlay	Astaphium, maid to Phronesium
+Truculentus	characterInPlay	Truculentes, slave of Strabax
+Truculentus	characterInPlay	Phronesium, a prostitute
+Truculentus	characterInPlay	Stratophanes, a soldier
+Truculentus	characterInPlay	Cyamus, cook of Diniarchus
+Truculentus	characterInPlay	Strabax
+Truculentus	characterInPlay	Callicles
+Truculentus	characterInPlay	maid, slave of Callicles
+Truculentus	characterInPlay	Syra, slave of Callicles
+Truculentus	characterInPlay	attendants
+Amphitryon (play)	characterInPlay	Mercury
+Amphitryon (play)	characterInPlay	Jupiter
+Amphitryon (play)	characterInPlay	Sosia (Amphitryon\u2019s slave)
+Amphitryon (play)	characterInPlay	Amphitryon
+Amphitryon (play)	characterInPlay	Alcmena (Amphitryon\u2019s wife)
+Amphitryon (play)	characterInPlay	Blepharo (ship\u2019s pilot)
+Amphitryon (play)	characterInPlay	Bromia (Alcmena\u2019s maid)
+Big Bad Mouse	characterInPlay	Mr Price-Hargreaves (The Boss)
+Big Bad Mouse	characterInPlay	Mr Bloome (his assistant)
+Big Bad Mouse	characterInPlay	Miss Spencer (their secretary)
+Big Bad Mouse	characterInPlay	Lady Chesapeake (the company Owner)
+Big Bad Mouse	characterInPlay	+ minor supporting cast of police detective, female victim and another secretary
+Curculio (play)	characterInPlay	Palinurus
+Curculio (play)	characterInPlay	Phaedromus
+Curculio (play)	characterInPlay	Leaena
+Curculio (play)	characterInPlay	Planesium
+Curculio (play)	characterInPlay	Cappadox
+Curculio (play)	characterInPlay	cook
+Curculio (play)	characterInPlay	Curculio
+Curculio (play)	characterInPlay	Lyco
+Curculio (play)	characterInPlay	producer
+Curculio (play)	characterInPlay	Therapontigonus
+Dividing the Estate	characterInPlay	Stella
+Dividing the Estate	characterInPlay	Mary Jo
+Dividing the Estate	characterInPlay	Lucille
+Dividing the Estate	characterInPlay	Lewis
+Mercator (play)	characterInPlay	Charinus
+Mercator (play)	characterInPlay	Acanthio
+Mercator (play)	characterInPlay	Demipho
+Mercator (play)	characterInPlay	Lysimachus
+Mercator (play)	characterInPlay	slave
+Mercator (play)	characterInPlay	Eutychus
+Mercator (play)	characterInPlay	Pasicompsa
+Mercator (play)	characterInPlay	Dorippa
+Mercator (play)	characterInPlay	Syra
+Mercator (play)	characterInPlay	cook
+Voices in Conflict	characterInPlay	Sgt. Kelly Dougherty
+Voices in Conflict	characterInPlay	1st Lt Marine Paul Reickoff
+Voices in Conflict	characterInPlay	Army Cpt. Patrick Murphy
+Voices in Conflict	characterInPlay	Army Reserves Sgt. Lisa Haynes
+Voices in Conflict	characterInPlay	Riverbend
+Voices in Conflict	characterInPlay	Sgt. Robert Sarra
+Voices in Conflict	characterInPlay	Cpl. Sean Huze
+Voices in Conflict	characterInPlay	Specialist Wilfredo Perez Jr
+Voices in Conflict	characterInPlay	Stephanie Parker
+Voices in Conflict	characterInPlay	Army PFC. Marc Delgado
+Voices in Conflict	characterInPlay	Brian Mockenhaupt
+Voices in Conflict	characterInPlay	Col. Chuck \
+Voices in Conflict	characterInPlay	Marine Reserves Sgt. Samuel White
+Voices in Conflict	characterInPlay	Navy Medic Charlie Anderson
+Voices in Conflict	characterInPlay	US Army Specialist Aiden Delgado
+Voices in Conflict	characterInPlay	1st Lt. Melissa Stockwell
+Voices in Conflict	characterInPlay	National Guard Major Ladda \
+Voices in Conflict	characterInPlay	Pvt. Harold Noel
+Voices in Conflict	characterInPlay	An Iragi Exile
+Voices in Conflict	characterInPlay	Sgt. Demond Mullins
+Voices in Conflict	characterInPlay	Muslium woman
+Voices in Conflict	characterInPlay	Cpl. Ian Stewart
+Voices in Conflict	characterInPlay	Army Specialist Darryl Anderson
+Chorus Girls (musical)	characterInPlay	Prince Charles, his bodyguard and various female activists
+The Incomparable Max	characterInPlay	Enoch Soames
+The Incomparable Max	characterInPlay	A.V. Laider
+The Incomparable Max	characterInPlay	Max Beerbohm
+The Incomparable Max	characterInPlay	Mrs. Elbourne
+The Incomparable Max	characterInPlay	Mrs. Blake
+Sugawara Denju Tenarai Kagami	characterInPlay	Kan Sh\u014Dj\u014D, Fujiwara no Tokihira, Ume\u014Dmaru, Sakuramaru, Matsu\u014Dmaru
+Meeting Joe Strummer	characterInPlay	Nick
+Meeting Joe Strummer	characterInPlay	Steve
+End of the Rainbow	characterInPlay	Judy Garland
+End of the Rainbow	characterInPlay	Anthony
+End of the Rainbow	characterInPlay	Mickey Deans
+End of the Rainbow	characterInPlay	Concierge
+End of the Rainbow	characterInPlay	Stage Manager
+End of the Rainbow	characterInPlay	BBC Announcer
+Epidicus	characterInPlay	Periphanes
+Epidicus	characterInPlay	Stratippocles
+Epidicus	characterInPlay	Philippa
+Epidicus	characterInPlay	Epidicus (slave to Periphanes)
+Epidicus	characterInPlay	Telestis
+Epidicus	characterInPlay	Acropolistis
+Bidasari (stage play)	characterInPlay	Bidasari
+Bidasari (stage play)	characterInPlay	Jamil
+Bidasari (stage play)	characterInPlay	Lilagretha
+Bidasari (stage play)	characterInPlay	Garuda
+Bidasari (stage play)	characterInPlay	Zervira
+Indrapura (stage play)	characterInPlay	Lilasari
+Indrapura (stage play)	characterInPlay	Elindro
+Indrapura (stage play)	characterInPlay	Lilagretha
+Indrapura (stage play)	characterInPlay	Sulayman
+Indrapura (stage play)	characterInPlay	Tarsila
+Asinaria	characterInPlay	Demaenetus (an old man)
+Asinaria	characterInPlay	Argyrippus (Demaenetus's son)
+Asinaria	characterInPlay	Artemona (Demaenetus's wife)
+Asinaria	characterInPlay	Philaenium (A prostitute)
+Asinaria	characterInPlay	Leonida (a slave)
+Asinaria	characterInPlay	Cleareta (a procuress)
+Impressionism (play)	characterInPlay	Thomas Buckle,
+Impressionism (play)	characterInPlay	Katherine Keenan
+In the Blood (play)	characterInPlay	Hester, La Negrita
+In the Blood (play)	characterInPlay	Jabber
+In the Blood (play)	characterInPlay	Bully
+In the Blood (play)	characterInPlay	Trouble
+In the Blood (play)	characterInPlay	Beauty
+In the Blood (play)	characterInPlay	Baby
+In the Blood (play)	characterInPlay	Amiga Gringa
+In the Blood (play)	characterInPlay	The Doctor
+In the Blood (play)	characterInPlay	Welfare Lady
+In the Blood (play)	characterInPlay	Reverend D.
+In the Blood (play)	characterInPlay	Chili
+Plague Over England	characterInPlay	John Gielgud
+Plague Over England	characterInPlay	Sybil Thorndike
+Pedal Pusher	characterInPlay	Lance Armstrong, Jan Ullrich, Marco Pantani
+Inherit the Wind (play)	characterInPlay	Henry Drummond, Matthew Harrison Brady, E. K. Hornbeck, Bertram T. Cates, Rachel Brown, Rev. Jeremiah Brown
+The Attempted Murder of Peggy Sweetwater	characterInPlay	Sir Phillip Dowden
+The Attempted Murder of Peggy Sweetwater	characterInPlay	Edward Llewellyn
+The Attempted Murder of Peggy Sweetwater	characterInPlay	Giles
+The Attempted Murder of Peggy Sweetwater	characterInPlay	Percy Saunders
+The Attempted Murder of Peggy Sweetwater	characterInPlay	Bill Baxter
+The Attempted Murder of Peggy Sweetwater	characterInPlay	Myrtle Baxter
+The Attempted Murder of Peggy Sweetwater	characterInPlay	Peggy Sweetwater
+The Attempted Murder of Peggy Sweetwater	characterInPlay	Sean \
+The Attempted Murder of Peggy Sweetwater	characterInPlay	The Duchess of Lardham
+The Attempted Murder of Peggy Sweetwater	characterInPlay	Morely
+The Antiquarian's Family	characterInPlay	Count Anselmo Terrazzani, dilettante of antiquities
+The Antiquarian's Family	characterInPlay	Countess Isabella, his wife
+The Antiquarian's Family	characterInPlay	Count Giacinto, their son
+The Antiquarian's Family	characterInPlay	Doralice, daughter of Pantalone, married to Count Giacinto
+The Antiquarian's Family	characterInPlay	Pantalone de' Bisognosi, a rich Venetian merchant
+The Antiquarian's Family	characterInPlay	The Cavaliere del Bosco
+The Antiquarian's Family	characterInPlay	Doctor Anselmi, an old man, friend of Countess Isabella
+The Antiquarian's Family	characterInPlay	Colombina, maid of Countess Isabella
+The Antiquarian's Family	characterInPlay	Brighella, servant of Count Anselmo
+The Antiquarian's Family	characterInPlay	Arlecchino, peasant and friend of Brighella
+The Antiquarian's Family	characterInPlay	Pancrazio, appraiser of antiquities
+The Antiquarian's Family	characterInPlay	Servants of Count Anselmo
+Lord Arthur's Bed	characterInPlay	Donald
+Lord Arthur's Bed	characterInPlay	Jim
+Yellow Fever (play)	characterInPlay	Sam Shikaze
+Shakespeare's Villains	characterInPlay	One
+Action (play)	characterInPlay	Shooter
+Action (play)	characterInPlay	Jeep
+Action (play)	characterInPlay	Liza
+Action (play)	characterInPlay	Lupe
+Angel City (play)	characterInPlay	Lanx
+Angel City (play)	characterInPlay	Wheeler
+Angel City (play)	characterInPlay	Miss Scoons
+Angel City (play)	characterInPlay	Rabbit
+Angel City (play)	characterInPlay	Tympani
+Angel City (play)	characterInPlay	Sax
+Geography of a Horse Dreamer	characterInPlay	Cody
+Geography of a Horse Dreamer	characterInPlay	Beaujo
+Geography of a Horse Dreamer	characterInPlay	Santee
+Geography of a Horse Dreamer	characterInPlay	Fingers
+Geography of a Horse Dreamer	characterInPlay	The Doctor
+Geography of a Horse Dreamer	characterInPlay	The Waiter
+Geography of a Horse Dreamer	characterInPlay	Jasper
+Geography of a Horse Dreamer	characterInPlay	Jason
+Suicide in B Flat	characterInPlay	Pianist
+Suicide in B Flat	characterInPlay	Pablo
+Suicide in B Flat	characterInPlay	Louis
+Suicide in B Flat	characterInPlay	Petrone
+Suicide in B Flat	characterInPlay	Laureen
+Suicide in B Flat	characterInPlay	Niles
+Suicide in B Flat	characterInPlay	Paullette
+Jeffrey Archer's Prison Diaries	characterInPlay	1
+That Good Night	characterInPlay	5.
+Dangerous Obsession	characterInPlay	3.
+Getting Out	characterInPlay	Arlene
+Getting Out	characterInPlay	Arlie
+Getting Out	characterInPlay	Guard Evans
+Getting Out	characterInPlay	Bennie
+Getting Out	characterInPlay	Guard Caldwell
+Getting Out	characterInPlay	Doctor
+Getting Out	characterInPlay	Mother
+Getting Out	characterInPlay	School Principal
+Getting Out	characterInPlay	Ronnie
+Getting Out	characterInPlay	Carl
+Getting Out	characterInPlay	Warden
+Getting Out	characterInPlay	Ruby
+The Devils (play)	characterInPlay	Urbain Grandier
+The Devils (play)	characterInPlay	Sister Jeanne of the Angeles
+The Devils (play)	characterInPlay	Philippe Trincant
+The Devils (play)	characterInPlay	Adam
+The Devils (play)	characterInPlay	Mannoury
+The Devils (play)	characterInPlay	Father Mignon
+The Devils (play)	characterInPlay	Baron de Laubardemont
+The Devils (play)	characterInPlay	Father Pierre Barre
+The Devils (play)	characterInPlay	Cardinal Richelieu
+Underground (play)	characterInPlay	9
+Enjoy (play)	characterInPlay	6.
+Over My Dead Body (play)	characterInPlay	8
+Two into One	characterInPlay	8
+Made of Stone (play)	characterInPlay	''Gary eldest brother stuck in Shefflied
+Made of Stone (play)	characterInPlay	Miles middle brother racist loser
+Made of Stone (play)	characterInPlay	Pete youngest brother, unstable mess
+Made of Stone (play)	characterInPlay	Elaine the three brothers' mother
+Made of Stone (play)	characterInPlay	Carol Pete's young girlfriend
+Made of Stone (play)	characterInPlay	Errol Miles' black friend from work''
+Lucky Dog	characterInPlay	2 male and 1 female
+Love and Money (play)	characterInPlay	4 male 4 female
+The Early Bird (play)	characterInPlay	1 male and 1 female
+Faces in the Crowd (play)	characterInPlay	1 male and 1 female
+Debris (play)	characterInPlay	1 male and 1 female
+The Speed of Darkness (play)	characterInPlay	Joe
+The Speed of Darkness (play)	characterInPlay	Lou (Joe's friend)
+The Speed of Darkness (play)	characterInPlay	Anne (Joe's wife)
+The Speed of Darkness (play)	characterInPlay	Mary (Joe's daughter)
+The Speed of Darkness (play)	characterInPlay	Eddie (Mary's friend})
+Kurt and Sid	characterInPlay	Sid Vicious, Kurt Cobain
+Orphans (Dennis Kelly play)	characterInPlay	Helen
+Orphans (Dennis Kelly play)	characterInPlay	Danny
+Orphans (Dennis Kelly play)	characterInPlay	Liam
+Orphans (Dennis Kelly play)	characterInPlay	Shane
+After the End	characterInPlay	1 male and 1 female
+Rapid Transit (play)	characterInPlay	Imre Szabo
+Rapid Transit (play)	characterInPlay	Velver
+Rapid Transit (play)	characterInPlay	Otto
+Rapid Transit (play)	characterInPlay	Sandor
+Rapid Transit (play)	characterInPlay	et al
+Sarangadhara	characterInPlay	Sarangadhara
+Sarangadhara	characterInPlay	Rajaraja Narendra
+Sarangadhara	characterInPlay	Chitrangi
+Sarangadhara	characterInPlay	Vijayaditya
+Zero Hour (play)	characterInPlay	Jim Brouchu as \
+Things That Go Bump (plays)	characterInPlay	Joe Lukin / David
+Things That Go Bump (plays)	characterInPlay	Ken Chase / Gordon
+Things That Go Bump (plays)	characterInPlay	Andy Rollinson / Martin
+Things That Go Bump (plays)	characterInPlay	Annabel Chester / Beth
+Things That Go Bump (plays)	characterInPlay	Miriam Chester / Connie
+Things That Go Bump (plays)	characterInPlay	Alice Moody / Ella
+Christie in Love	characterInPlay	Christie
+Christie in Love	characterInPlay	Constable
+Christie in Love	characterInPlay	Inspector
+The Monkey Jar	characterInPlay	MIchael Dori
+The Monkey Jar	characterInPlay	Kai Goldman
+The Monkey Jar	characterInPlay	Robert Rees
+The Monkey Jar	characterInPlay	Judith Heptner
+The Monkey Jar	characterInPlay	Aaron Goldman
+The Monkey Jar	characterInPlay	Nancy Goldman
+The Monkey Jar	characterInPlay	Coral Bryson
+Bloody Poetry	characterInPlay	Percy Bysshe Shelley
+Bloody Poetry	characterInPlay	Mary Shelley
+Bloody Poetry	characterInPlay	Claire Clairmont
+Bloody Poetry	characterInPlay	George Byron
+Bloody Poetry	characterInPlay	Dr William Polidori
+Bloody Poetry	characterInPlay	Harriet Westbrook
+Bloody Poetry	characterInPlay	Voice
+After Aida	characterInPlay	Giuseppe Verdi
+After Aida	characterInPlay	Arrigo Boito
+After Aida	characterInPlay	Giulio Ricordi
+After Aida	characterInPlay	Franco Faccio
+After Aida	characterInPlay	Giuseppina Strepponi
+ENRON (play)	characterInPlay	Claudia Roe
+ENRON (play)	characterInPlay	Kenneth Lay
+ENRON (play)	characterInPlay	Jeffrey Skilling
+ENRON (play)	characterInPlay	Andy Fastow
+Anne Pedersdotter (play)	characterInPlay	Anne Pedersdotter
+Anne Pedersdotter (play)	characterInPlay	Absalon Pederss\u00F8n
+Anne Pedersdotter (play)	characterInPlay	Martin
+Anne Pedersdotter (play)	characterInPlay	Merete Beyer
+Anne Pedersdotter (play)	characterInPlay	Johannes
+Anne Pedersdotter (play)	characterInPlay	Laurentius
+Anne Pedersdotter (play)	characterInPlay	The bishop
+Anne Pedersdotter (play)	characterInPlay	Herlofs-Marte
+The Habit of Art	characterInPlay	WH Auden
+The Habit of Art	characterInPlay	Benjamin Britten
+Pearl (radio play)	characterInPlay	Pearl
+Pearl (radio play)	characterInPlay	Backhouse
+Pearl (radio play)	characterInPlay	Grimscar
+Pearl (radio play)	characterInPlay	Belladonna
+Pearl (radio play)	characterInPlay	Duchess
+Pearl (radio play)	characterInPlay	Gideon Grip
+Pearl (radio play)	characterInPlay	Captain Catso
+The Green Bird	characterInPlay	Tartaglia
+The Green Bird	characterInPlay	Ninetta
+The Green Bird	characterInPlay	Barbarina
+The Green Bird	characterInPlay	Renzo
+The Green Bird	characterInPlay	Tartagliona
+The Green Bird	characterInPlay	Brighella
+The Green Bird	characterInPlay	The Green Bird
+The Green Bird	characterInPlay	many others
+Opus (play)	characterInPlay	Elliot
+Opus (play)	characterInPlay	Alan
+Opus (play)	characterInPlay	Carl
+Opus (play)	characterInPlay	Dorian
+Opus (play)	characterInPlay	Grace
+Lobby Hero	characterInPlay	Jeff
+Lobby Hero	characterInPlay	William
+Lobby Hero	characterInPlay	Dawn
+Lobby Hero	characterInPlay	Bill
+I am 13 (play)	characterInPlay	Andrus
+I am 13 (play)	characterInPlay	Guido
+I am 13 (play)	characterInPlay	Toomas
+Morecambe (play)	characterInPlay	Eric Morecambe
+Sleep No More (2009 play)	characterInPlay	Duncan, Malcolm, Macbeth, Banquo, Macduff, Porter,
+Sleep No More (2009 play)	characterInPlay	Lady Macbeth,
+Sleep No More (2009 play)	characterInPlay	Lady Macduff,
+Sleep No More (2009 play)	characterInPlay	Male Witch,
+Sleep No More (2009 play)	characterInPlay	Two Female Witches,
+Sleep No More (2009 play)	characterInPlay	Hecate,
+Sleep No More (2009 play)	characterInPlay	The Second Mrs. de Winter,
+Sleep No More (2009 play)	characterInPlay	Mrs. Danvers,
+Sleep No More (2009 play)	characterInPlay	Bellhop/Taxidermist.
+Sleep No More (2009 play)	characterInPlay	Speakeasy Bartender,
+Sleep No More (2009 play)	characterInPlay	Man in Bar,
+Sleep No More (2009 play)	characterInPlay	Annie Darcy,
+Sleep No More (2009 play)	characterInPlay	Elsie Price,
+Sleep No More (2009 play)	characterInPlay	The Annie Darcy Band
+Flare Path	characterInPlay	Patricia Graham
+Flare Path	characterInPlay	Teddy Graham
+Flare Path	characterInPlay	Peter Kyle
+Flare Path	characterInPlay	Doris
+Flare Path	characterInPlay	Count Skriczevinsky
+Flare Path	characterInPlay	Dusty Miller
+Flare Path	characterInPlay	Maudie Miller
+Flare Path	characterInPlay	Sqn Ldr Swanson
+Flare Path	characterInPlay	Mrs. Oakes
+Flare Path	characterInPlay	Percy
+Anne Boleyn (play)	characterInPlay	Henry VIII, Anne Boleyn, Cardinal Wolsey, Thomas Cromwell, James I, George Villiers
+Red (play)	characterInPlay	Mark Rothko
+Red (play)	characterInPlay	Ken
+As It Is In Heaven (play)	characterInPlay	9 Female
+Sri Krishna Rayabaram	characterInPlay	Sri Krishna
+Sri Krishna Rayabaram	characterInPlay	Arjuna
+Sri Krishna Rayabaram	characterInPlay	Duryodhana
+Any Number Can Die	characterInPlay	12: 7 Male, 5 Female
+The Trial of Dara Shikoh	characterInPlay	Qazi Faisal Haq
+The Trial of Dara Shikoh	characterInPlay	Dara Shikoh
+The Trial of Dara Shikoh	characterInPlay	Prosecutor Abdullah Khan
+The Trial of Dara Shikoh	characterInPlay	Aurangzeb
+The Trial of Dara Shikoh	characterInPlay	Jahanara
+The Trial of Dara Shikoh	characterInPlay	Roshanara
+The Trial of Dara Shikoh	characterInPlay	Attendant 1
+The Trial of Dara Shikoh	characterInPlay	Attendant 2
+The Trial of Dara Shikoh	characterInPlay	Gopi Lal
+The Trial of Dara Shikoh	characterInPlay	Bahadur Singh
+The Trial of Dara Shikoh	characterInPlay	Courtoom Attendees
+The Trial of Dara Shikoh	characterInPlay	Sipihr
+The Trial of Dara Shikoh	characterInPlay	Guard
+The Trial of Dara Shikoh	characterInPlay	Hakim Bukhari
+The Trial of Dara Shikoh	characterInPlay	Jahanara's Attendant
+Noor (play)	characterInPlay	Abdullah
+Noor (play)	characterInPlay	Daoud
+Noor (play)	characterInPlay	Father Assad Hussein
+Noor (play)	characterInPlay	Ali
+Noor (play)	characterInPlay	Three solders
+Noor (play)	characterInPlay	Sheikh Moinuddin
+Noor (play)	characterInPlay	Disciple
+Noor (play)	characterInPlay	Deputy Minister
+Noor (play)	characterInPlay	Flunky
+Noor (play)	characterInPlay	Auntie Fatima
+Noor (play)	characterInPlay	Fadel
+Noor (play)	characterInPlay	Noor
+Picon Pie	characterInPlay	Molly Picon
+Picon Pie	characterInPlay	Jacob 'Yonkel' Kalich
+Homecoming (play)	characterInPlay	Sharon
+Breakfast with Les and Bess	characterInPlay	Bess Christen Dischinger
+Breakfast with Les and Bess	characterInPlay	Les Dischinger
+Breakfast with Les and Bess	characterInPlay	Shelby Dishinger Everson
+Breakfast with Les and Bess	characterInPlay	Roger Everson
+Breakfast with Les and Bess	characterInPlay	David Dischinger
+Breakfast with Les and Bess	characterInPlay	Nate Moody/Announcer
+Big Al (play)	characterInPlay	Leo Ricky Frank Rose Jr.
+Next Fall	characterInPlay	Adam
+Next Fall	characterInPlay	Luke
+Next Fall	characterInPlay	Holly
+Next Fall	characterInPlay	Brandon
+Next Fall	characterInPlay	Arlene
+Next Fall	characterInPlay	Butch
+Gismonda	characterInPlay	Gismonda  Almerio
+Clybourne Park	characterInPlay	5 male 3 female
+A Behanding in Spokane	characterInPlay	Carmichael
+A Behanding in Spokane	characterInPlay	Mervin
+A Behanding in Spokane	characterInPlay	Toby
+A Behanding in Spokane	characterInPlay	Marilyn
+Summer of the Aliens	characterInPlay	Lewis, Dulcie, Mr Pisano, Uncle Richard, Norma, Eric, Mr Irvin, Mrs Irvin, Grandma, Bev, Brian
+Post Mortem (Gurney play)	characterInPlay	Dexter
+Post Mortem (Gurney play)	characterInPlay	Alice
+Post Mortem (Gurney play)	characterInPlay	Betsy
+The Condemned of Altona	characterInPlay	Major, the von Gerlachs:
+The Condemned of Altona	characterInPlay	Father
+The Condemned of Altona	characterInPlay	Franz
+The Condemned of Altona	characterInPlay	Johanna
+The Condemned of Altona	characterInPlay	Leni
+The Condemned of Altona	characterInPlay	Werner
+The Condemned of Altona	characterInPlay	Minor, in flashbacks:
+The Condemned of Altona	characterInPlay	Klages
+The Condemned of Altona	characterInPlay	Heinrich
+The Condemned of Altona	characterInPlay	a Woman
+The Condemned of Altona	characterInPlay	an SS Officer
+100 (play)	characterInPlay	Ketu
+100 (play)	characterInPlay	Sophie
+100 (play)	characterInPlay	Alex
+100 (play)	characterInPlay	The Guide
+100 (play)	characterInPlay	Nia
+Madah-Sartre	characterInPlay	Madah
+Madah-Sartre	characterInPlay	Jean Paul Sartre
+Madah-Sartre	characterInPlay	Simone de Beauvoir
+Madah-Sartre	characterInPlay	Mullahs
+Madah-Sartre	characterInPlay	Psy-Mullahs
+Madah-Sartre	characterInPlay	Chief Chador
+Madah-Sartre	characterInPlay	Chadorettes
+Madah-Sartre	characterInPlay	Cops
+Madah-Sartre	characterInPlay	Taximan Hamid Lounar
+Madah-Sartre	characterInPlay	Chauffeur Mmi Ali
+Madah-Sartre	characterInPlay	Doctor
+Madah-Sartre	characterInPlay	Surgeon Dr. Freeman
+Madah-Sartre	characterInPlay	Artist
+Madah-Sartre	characterInPlay	Doorman
+Madah-Sartre	characterInPlay	Terrorist
+Madah-Sartre	characterInPlay	Nurses
+Madah-Sartre	characterInPlay	Presenter
+Madah-Sartre	characterInPlay	Guard
+Madah-Sartre	characterInPlay	Radio Announcer
+Madah-Sartre	characterInPlay	Radio Reporters Veronique Lamesche and Liz Miller
+No-No Boy (play)	characterInPlay	Ichiro
+No-No Boy (play)	characterInPlay	Ma
+No-No Boy (play)	characterInPlay	Pa
+No-No Boy (play)	characterInPlay	Kenji
+No-No Boy (play)	characterInPlay	Emi
+No-No Boy (play)	characterInPlay	Freddie
+No-No Boy (play)	characterInPlay	Taro
+No-No Boy (play)	characterInPlay	Eto
+No-No Boy (play)	characterInPlay	Mrs. Kanno
+No-No Boy (play)	characterInPlay	Jun
+Jerk (play)	characterInPlay	David Brooks, Dean Corll, Elmer Wayne Henley
+Funeral Games (play)	characterInPlay	Pringle, Caulfield, Tess, McCorquodale, Police Officers
+Drayman Henschel	characterInPlay	Drayman Henschel
+Drayman Henschel	characterInPlay	Mrs Henschel
+Drayman Henschel	characterInPlay	Hanne Schael
+Drayman Henschel	characterInPlay	Bertha
+Drayman Henschel	characterInPlay	Horse Dealer Walther
+Drayman Henschel	characterInPlay	Siebenhaar
+Drayman Henschel	characterInPlay	Karlchen
+Drayman Henschel	characterInPlay	Wermelskirch
+Drayman Henschel	characterInPlay	Mrs Wermelskirch
+Drayman Henschel	characterInPlay	Franziska Wermelskirch
+Drayman Henschel	characterInPlay	Hauffe
+Drayman Henschel	characterInPlay	Franz
+Drayman Henschel	characterInPlay	George
+Drayman Henschel	characterInPlay	Fabig
+Drayman Henschel	characterInPlay	Hildebrant
+Drayman Henschel	characterInPlay	Veterinarian Grunert
+Drayman Henschel	characterInPlay	Fireman
+Creditors (play)	characterInPlay	Tekla a writer
+Creditors (play)	characterInPlay	Adolf, her husband, a painter
+Creditors (play)	characterInPlay	Gustav, her former husband, a teacher
+Creditors (play)	characterInPlay	Two Ladies
+Creditors (play)	characterInPlay	A Porter
+Gayopakhyanam	characterInPlay	Gaya
+Gayopakhyanam	characterInPlay	Arjuna
+Gayopakhyanam	characterInPlay	Sri Krishna
+Gayopakhyanam	characterInPlay	Narada
+Gayopakhyanam	characterInPlay	Subhadra
+Gayopakhyanam	characterInPlay	Lord Shiva
+Pill Hill (play)	characterInPlay	Charlie, Joe, Al, Tony, Ed, and Scott
+Come Back to the Five and Dime, Jimmy Dean, Jimmy Dean (play)	characterInPlay	Juanita
+Come Back to the Five and Dime, Jimmy Dean, Jimmy Dean (play)	characterInPlay	Sissy
+Come Back to the Five and Dime, Jimmy Dean, Jimmy Dean (play)	characterInPlay	Mona
+Come Back to the Five and Dime, Jimmy Dean, Jimmy Dean (play)	characterInPlay	Joe
+Come Back to the Five and Dime, Jimmy Dean, Jimmy Dean (play)	characterInPlay	Sue Ellen
+Come Back to the Five and Dime, Jimmy Dean, Jimmy Dean (play)	characterInPlay	Stella May
+Come Back to the Five and Dime, Jimmy Dean, Jimmy Dean (play)	characterInPlay	Edna Louise
+Come Back to the Five and Dime, Jimmy Dean, Jimmy Dean (play)	characterInPlay	Martha
+Come Back to the Five and Dime, Jimmy Dean, Jimmy Dean (play)	characterInPlay	Alice Ann
+Come Back to the Five and Dime, Jimmy Dean, Jimmy Dean (play)	characterInPlay	Clarissa
+Come Back to the Five and Dime, Jimmy Dean, Jimmy Dean (play)	characterInPlay	Joanne
+Body Awareness	characterInPlay	Joyce
+Body Awareness	characterInPlay	Phyllis
+Body Awareness	characterInPlay	Jared
+Body Awareness	characterInPlay	Frank
+The Temperamentals	characterInPlay	Harry Hay
+The Temperamentals	characterInPlay	Rudi Gernreich
+The Temperamentals	characterInPlay	Bob Hull
+The Temperamentals	characterInPlay	Chuck Rowland
+The Temperamentals	characterInPlay	Dale Jennings
+Welcome to Thebes	characterInPlay	See below
+Bhopal (play)	characterInPlay	Dr. Sonya Labont\u00E9
+Bhopal (play)	characterInPlay	Izzat Bai
+Bhopal (play)	characterInPlay	Devraj Sarthi
+Bhopal (play)	characterInPlay	Minister Jaganlal Bhandari
+Bhopal (play)	characterInPlay	Madiha Akram
+Bhopal (play)	characterInPlay	Pascale Sauv\u00E9
+Bhopal (play)	characterInPlay	Warren Anderson
+Match (play)	characterInPlay	Tobi
+Match (play)	characterInPlay	Mike
+Match (play)	characterInPlay	Lisa
+White's Lies	characterInPlay	Joe White
+White's Lies	characterInPlay	Alan
+White's Lies	characterInPlay	Mrs. White
+White's Lies	characterInPlay	Michelle
+White's Lies	characterInPlay	Barbara
+Spring Storm	characterInPlay	Heavenly Critchfield
+Polar Bears (play)	characterInPlay	Sandy, John, Kay, Margaret, Jesus, Girl
+Amphitryon 38	characterInPlay	Amphitryon, Alcmene,
+Amphitryon 38	characterInPlay	Jupiter, Mercury , Leda
+Song of Songs (Giraudoux)	characterInPlay	The President, Florence,
+Song of Songs (Giraudoux)	characterInPlay	Jerome, The Manager,
+Song of Songs (Giraudoux)	characterInPlay	The Cashier, The Waiter
+Les Gracques	characterInPlay	????????
+L'Impromptu de Paris	characterInPlay	????????
+Judith (play)	characterInPlay	Joseph, John, Prophet, Joachim,
+Judith (play)	characterInPlay	Paul, Judith]], Susannah, Egon,
+Judith (play)	characterInPlay	Sara, Holofernes, Guard
+The Enchanted (play)	characterInPlay	The Mayor, Isobel,
+The Enchanted (play)	characterInPlay	The Doctor,
+The Enchanted (play)	characterInPlay	The Ghost,
+The Enchanted (play)	characterInPlay	The Inspector,
+The Enchanted (play)	characterInPlay	The Supervisor,
+The Enchanted (play)	characterInPlay	Armande Mangebois,
+The Enchanted (play)	characterInPlay	Leonide Mangebois,
+The Enchanted (play)	characterInPlay	Gilberte, Daisy, Lucy,
+The Enchanted (play)	characterInPlay	Viola, Denise, Irene,
+The Enchanted (play)	characterInPlay	Marie-Louise
+Electra (Giraudoux)	characterInPlay	Agamemnon,  Iphigenia, Clytemnestra, Aegisthus, Orestes, Electra
+Duel of Angels	characterInPlay	Joseph, Marcellus, Paola, Armand, Lucile, Eugenie, Mr Justice Blanchard, Barbette
+Ondine (play)	characterInPlay	Auguste, Eugenie,
+Ondine (play)	characterInPlay	Ondine, Ritter Hans,
+Ondine (play)	characterInPlay	The Old One,
+Ondine (play)	characterInPlay	Lord Chamberlain, The Superintendent of the Theatre, The Trainer of the Seals, Violante, Angelique,
+Ondine (play)	characterInPlay	Bertha, Bertram,
+Ondine (play)	characterInPlay	The King, A Servant,
+Ondine (play)	characterInPlay	First Fisherman,
+Ondine (play)	characterInPlay	First Judge,
+Ondine (play)	characterInPlay	Second Judge, The Kitchen Maid
+Sodom and Gomorrah (play)	characterInPlay	Lia
+Sodom and Gomorrah (play)	characterInPlay	Jean
+Sodom and Gomorrah (play)	characterInPlay	Ruth
+Sodom and Gomorrah (play)	characterInPlay	Jacques
+Sodom and Gomorrah (play)	characterInPlay	Luc
+Sodom and Gomorrah (play)	characterInPlay	Martha
+Sodom and Gomorrah (play)	characterInPlay	Pierre
+Sodom and Gomorrah (play)	characterInPlay	Judith
+Sodom and Gomorrah (play)	characterInPlay	Salome
+Sodom and Gomorrah (play)	characterInPlay	Athalie
+Sodom and Gomorrah (play)	characterInPlay	Samson
+Sodom and Gomorrah (play)	characterInPlay	Dalila
+Siegfried (play)	characterInPlay	Siegfried, Eva, Jacques, Zelten, Genevieve
+Tessa (play)	characterInPlay	Tessa Badamo
+The Virtuous Island	characterInPlay	Mr Banks, Outourou, Tahiriri, Mrs Banks, Valao, Matamua, Vaiturou,
+The Virtuous Island	characterInPlay	A native Tahitian,
+The Virtuous Island	characterInPlay	The Lieutenant
+L'Île de la raison	characterInPlay	The Governor
+L'Île de la raison	characterInPlay	The Courtier
+L'Île de la raison	characterInPlay	The secretary
+L'Île de la raison	characterInPlay	The Countess
+L'Île de la raison	characterInPlay	Spinette
+L'Île de la raison	characterInPlay	The poet
+L'Île de la raison	characterInPlay	The philosopher
+L'Île de la raison	characterInPlay	The Doctor
+L'Île de la raison	characterInPlay	The farmer
+Spur of the Moment (play)	characterInPlay	2 male, 6 female
+Posh (play)	characterInPlay	14
+The Chickencoop Chinaman	characterInPlay	Tam
+The Chickencoop Chinaman	characterInPlay	Kenji
+The Chickencoop Chinaman	characterInPlay	Lee
+The Chickencoop Chinaman	characterInPlay	Charley Popcorn
+The Chickencoop Chinaman	characterInPlay	Tom
+The Chickencoop Chinaman	characterInPlay	Robbie
+The Chickencoop Chinaman	characterInPlay	The Lone Ranger
+The Chickencoop Chinaman	characterInPlay	Tonto
+The Chickencoop Chinaman	characterInPlay	Hong Kong Dream Girl
+Mogadishu (play)	characterInPlay	8 male, 4 female
+The Last Days of the Celtic Tiger	characterInPlay	Ross O'Carroll-Kelly
+The Last Days of the Celtic Tiger	characterInPlay	Charles O'Carroll-Kelly
+The Last Days of the Celtic Tiger	characterInPlay	Fionnuala O'Carroll-Kelly
+The Last Days of the Celtic Tiger	characterInPlay	Sorcha O'Carroll-Kelly-Lalor
+The Last Days of the Celtic Tiger	characterInPlay	Ronan Masterson
+Between Foxrock and a Hard Place	characterInPlay	Ross O'Carroll-Kelly
+Between Foxrock and a Hard Place	characterInPlay	Charles O'Carroll-Kelly
+Between Foxrock and a Hard Place	characterInPlay	Fionnuala O'Carroll-Kelly
+Between Foxrock and a Hard Place	characterInPlay	Sorcha O'Carroll-Kelly-Lalor
+Between Foxrock and a Hard Place	characterInPlay	Ronan Masterson
+Between Foxrock and a Hard Place	characterInPlay	Erika
+The Day Emily Married	characterInPlay	Sadie
+The Day Emily Married	characterInPlay	Lyd Davis \
+The Day Emily Married	characterInPlay	Emily
+The Day Emily Married	characterInPlay	Richard Murray
+The Day Emily Married	characterInPlay	Addie
+The Day Emily Married	characterInPlay	Lee Davis
+The Day Emily Married	characterInPlay	Lucy Fay
+The Day Emily Married	characterInPlay	Alma Nash
+The Day Emily Married	characterInPlay	Maud Barker
+Lombardi (play)	characterInPlay	Vince Lombardi
+Lombardi (play)	characterInPlay	Marie Lombardi
+Lombardi (play)	characterInPlay	Michael McCormick
+Lombardi (play)	characterInPlay	Paul Hornung
+Lombardi (play)	characterInPlay	Dave Robinson
+Lombardi (play)	characterInPlay	Jim Taylor
+Madmen and Specialists	characterInPlay	Dr. Bero
+Madmen and Specialists	characterInPlay	Old Man
+Madmen and Specialists	characterInPlay	Mendicants
+Madmen and Specialists	characterInPlay	Si Bero
+Madmen and Specialists	characterInPlay	Iya Agba
+Madmen and Specialists	characterInPlay	Iya Mate
+Madea's Big Happy Family	characterInPlay	Madea
+Punk Rock (play)	characterInPlay	Lily Cahill
+Punk Rock (play)	characterInPlay	William Carlisle
+Punk Rock (play)	characterInPlay	Nicholas Chatman
+Punk Rock (play)	characterInPlay	Bennett Francis
+Punk Rock (play)	characterInPlay	Lucy Francis
+Punk Rock (play)	characterInPlay	Sissy Franks
+Punk Rock (play)	characterInPlay	Tanya Gleason
+Punk Rock (play)	characterInPlay	Dr Richard Harvey
+Punk Rock (play)	characterInPlay	Chadwick Meade
+The Trial of God	characterInPlay	Mendel
+The Trial of God	characterInPlay	Avr\u00E9mel
+The Trial of God	characterInPlay	Yankel
+The Trial of God	characterInPlay	Berish
+The Trial of God	characterInPlay	Hanna
+The Trial of God	characterInPlay	Maria
+The Trial of God	characterInPlay	Priest
+The Trial of God	characterInPlay	Sam, the Stranger
+The Chief (play)	characterInPlay	Art Rooney
+Play Dead (show)	characterInPlay	Todd Robbins
+Play Dead (show)	characterInPlay	Mina Crandon
+Play Dead (show)	characterInPlay	Eusapia Palladino
+Play Dead (show)	characterInPlay	Albert Fish
+Play Dead (show)	characterInPlay	Girl
+Tonight We Improvise	characterInPlay	Doctor Hinkfuss
+Tonight We Improvise	characterInPlay	Lead Actress/Mommina
+Tonight We Improvise	characterInPlay	Lead Actor/Rico Verri
+Tonight We Improvise	characterInPlay	Character Actress/Signora Ignazia
+Tonight We Improvise	characterInPlay	Old Comic Actor/Signor Palmiro
+The Post Office (play)	characterInPlay	Madhav
+The Post Office (play)	characterInPlay	Amal, his adopted child
+The Post Office (play)	characterInPlay	Sudha, a little flower-gatherer
+The Post Office (play)	characterInPlay	Doctor
+The Post Office (play)	characterInPlay	Dairyman
+The Post Office (play)	characterInPlay	WatchmanVillage Headman, a bully
+The Post Office (play)	characterInPlay	King's Herald
+The Post Office (play)	characterInPlay	Royal Physician
+The Post Office (play)	characterInPlay	Boys
+Each In His Own Way	characterInPlay	In the play:
+Each In His Own Way	characterInPlay	Delia Morello
+Each In His Own Way	characterInPlay	Michele Rocca
+Each In His Own Way	characterInPlay	Donna Livia Pelegari
+Each In His Own Way	characterInPlay	Doro Pelegari, her son
+Each In His Own Way	characterInPlay	Diego Cenci, his friend
+Each In His Own Way	characterInPlay	Francesco Savio
+Each In His Own Way	characterInPlay	In the audience:
+Each In His Own Way	characterInPlay	La Moreno
+Each In His Own Way	characterInPlay	Baron Nuti
+Each In His Own Way	characterInPlay	Theatre personnel
+Serenading Louie	characterInPlay	Mary
+Serenading Louie	characterInPlay	Gabrielle
+Serenading Louie	characterInPlay	Carl
+Serenading Louie	characterInPlay	Alex
+Klingon Christmas Carol	characterInPlay	Narrator
+Klingon Christmas Carol	characterInPlay	SQuja'
+Klingon Christmas Carol	characterInPlay	QachIt
+Klingon Christmas Carol	characterInPlay	vreD
+Klingon Christmas Carol	characterInPlay	Huch Qoy'wI' wa'Huch Qoy'wI' cha'
+Klingon Christmas Carol	characterInPlay	marlI'
+Klingon Christmas Carol	characterInPlay	qeylIS Past
+Klingon Christmas Carol	characterInPlay	qeylIS Present
+Klingon Christmas Carol	characterInPlay	qeylIS Yet-To-Come
+Klingon Christmas Carol	characterInPlay	Qe'pa
+Klingon Christmas Carol	characterInPlay	QobYoung SQuja'
+Klingon Christmas Carol	characterInPlay	van
+Klingon Christmas Carol	characterInPlay	veSIwIq
+Klingon Christmas Carol	characterInPlay	wIlqInS
+Klingon Christmas Carol	characterInPlay	bel
+Klingon Christmas Carol	characterInPlay	marja'
+Klingon Christmas Carol	characterInPlay	emlI'
+Klingon Christmas Carol	characterInPlay	marDa'
+Klingon Christmas Carol	characterInPlay	tImHom
+Klingon Christmas Carol	characterInPlay	quvHa'ghach
+Klingon Christmas Carol	characterInPlay	SaHHa'ghach
+Le Méchant	characterInPlay	\u0421l\u00E9on, the titular villain
+Le Méchant	characterInPlay	\u0421hlo\u00E9
+Le Méchant	characterInPlay	Val\u00E8re, \u0421hlo\u00E9's lover
+Le Méchant	characterInPlay	Florise, \u0421hlo\u00E9's mother
+Le Méchant	characterInPlay	G\u00E9ronte, Florise's brother
+Le Méchant	characterInPlay	Ariste, G\u00E9ronte's friend
+Le Méchant	characterInPlay	Lisette, lady's maid
+Le Méchant	characterInPlay	Frontin, \u0421l\u00E9on's manservant
+Le Méchant	characterInPlay	A servant
+The Madness of Lady Bright	characterInPlay	Leslie Bright
+The Madness of Lady Bright	characterInPlay	Boy (Voices)
+The Madness of Lady Bright	characterInPlay	Girl (Voices)
+Corrie!	characterInPlay	3 male 3 female
+Good People (play)	characterInPlay	Mike
+Good People (play)	characterInPlay	Margie
+Good People (play)	characterInPlay	Dottie
+Good People (play)	characterInPlay	Jean
+Good People (play)	characterInPlay	Stevie
+Good People (play)	characterInPlay	Kate
+Tumhari Amrita	characterInPlay	Amrita & Zulfi
+The Heretic (play)	characterInPlay	3 male, 3 female
+The Second Shepherds' Play	characterInPlay	3 shepherds
+The Second Shepherds' Play	characterInPlay	Mak
+The Second Shepherds' Play	characterInPlay	Gill, Mak's wife
+The Second Shepherds' Play	characterInPlay	Angel
+The Second Shepherds' Play	characterInPlay	Mary
+The Second Shepherds' Play	characterInPlay	Christ-child
+Will Success Spoil Rock Hunter? (play)	characterInPlay	Rita Marlowe
+Will Success Spoil Rock Hunter? (play)	characterInPlay	George MacCauley
+Will Success Spoil Rock Hunter? (play)	characterInPlay	Michael Freeman
+Will Success Spoil Rock Hunter? (play)	characterInPlay	Irving LaSalle
+Will Success Spoil Rock Hunter? (play)	characterInPlay	Harry Kaye
+Will Success Spoil Rock Hunter? (play)	characterInPlay	Bronk Brannigan
+Will Success Spoil Rock Hunter? (play)	characterInPlay	Masseur
+Will Success Spoil Rock Hunter? (play)	characterInPlay	A Secretary
+Will Success Spoil Rock Hunter? (play)	characterInPlay	(see \
+The Empire (play)	characterInPlay	Gary, British corporal
+The Empire (play)	characterInPlay	Hafizullah, ANA soldier
+The Empire (play)	characterInPlay	Zia, a prisoner
+The Empire (play)	characterInPlay	Simon, British captain
+The Empire (play)	characterInPlay	Jalander, ANA soldier
+If There Is I Haven't Found It Yet	characterInPlay	2 male, 2 female
+Sucker Punch (play)	characterInPlay	6 male, 1 female
+Desire Caught by the Tail	characterInPlay	Big Foot, Tart, Round End, Onion, Skinny Anguish, Fat Anguish, the 2 Bow wows, Silence, The Cousin, The Curtains
+Peter and the Starcatchers (play)	characterInPlay	Peter Pan
+Peter and the Starcatchers (play)	characterInPlay	Molly Aster
+Peter and the Starcatchers (play)	characterInPlay	Black Stache
+Andha Yug	characterInPlay	Kauravas
+Andha Yug	characterInPlay	Pandavas
+Andha Yug	characterInPlay	Krishna
+Andha Yug	characterInPlay	Ashwatthama
+Anatomy of Gray	characterInPlay	Galen P. Gray
+Anatomy of Gray	characterInPlay	June Muldoon
+Anatomy of Gray	characterInPlay	Rebekah Muldoon
+Anatomy of Gray	characterInPlay	Crutch Collins
+Anatomy of Gray	characterInPlay	Belva Collins
+Anatomy of Gray	characterInPlay	Pastor Phineas Wingfield
+Anatomy of Gray	characterInPlay	Tiny Wingfield
+Anatomy of Gray	characterInPlay	Homer
+Anatomy of Gray	characterInPlay	Maggie
+Starstruck (play)	characterInPlay	Galatia 9, Brucilla the Muscle, Erotica Ann
+The Men From The Boys	characterInPlay	Hank
+The Men From The Boys	characterInPlay	Alan
+The Men From The Boys	characterInPlay	Bernard
+The Men From The Boys	characterInPlay	Cowboy
+The Men From The Boys	characterInPlay	Michael
+The Men From The Boys	characterInPlay	Harold
+The Men From The Boys	characterInPlay	Emory
+The Men From The Boys	characterInPlay	Donald
+Am I Blue (play)	characterInPlay	John Polk Richards
+Am I Blue (play)	characterInPlay	Ashbe Williams
+Am I Blue (play)	characterInPlay	Hilda
+Am I Blue (play)	characterInPlay	The Barker
+Am I Blue (play)	characterInPlay	The Bum
+Am I Blue (play)	characterInPlay	The Hippie (Clareece)
+Am I Blue (play)	characterInPlay	The Whore
+A Madea Christmas	characterInPlay	Mabel \
+Tara Sasankam	characterInPlay	Tara
+Tara Sasankam	characterInPlay	Sasank
+Tara Sasankam	characterInPlay	Brihaspati
+Detroit (play)	characterInPlay	Sharon
+Detroit (play)	characterInPlay	Kenny
+Detroit (play)	characterInPlay	Ben
+Detroit (play)	characterInPlay	Frank
+Detroit (play)	characterInPlay	Mary
+Love, Loss, and What I Wore	characterInPlay	5 women
+Fat Girl Gets a Haircut	characterInPlay	Laurie Briggs
+Fat Girl Gets a Haircut	characterInPlay	Alexus Burke
+Fat Girl Gets a Haircut	characterInPlay	Jacob Crossley
+Fat Girl Gets a Haircut	characterInPlay	Kadeem Deane
+Fat Girl Gets a Haircut	characterInPlay	Rory Edmonds
+Fat Girl Gets a Haircut	characterInPlay	Rosie Evans-Hill
+Fat Girl Gets a Haircut	characterInPlay	Ashleigh Monagle
+Fat Girl Gets a Haircut	characterInPlay	Yasmin Rackal
+Fat Girl Gets a Haircut	characterInPlay	Miran Salman
+Fat Girl Gets a Haircut	characterInPlay	Ishbel Tunnadine
+Fat Girl Gets a Haircut	characterInPlay	Dharshinee Vogel
+Prodigals (play)	characterInPlay	6
+Checking Out (play)	characterInPlay	Florence Grayson
+Checking Out (play)	characterInPlay	Bernard Applebaum
+Checking Out (play)	characterInPlay	Morris Applebaum
+Checking Out (play)	characterInPlay	Mr. Johnson
+Checking Out (play)	characterInPlay	Dr. Theodore Applebaum
+Checking Out (play)	characterInPlay	Dr. Sheldon Henning
+Checking Out (play)	characterInPlay	Gilbert
+Checking Out (play)	characterInPlay	Schmuel Axelrod
+Wheelbarrow Closers	characterInPlay	Millie Grant
+Wheelbarrow Closers	characterInPlay	John Mogan
+Wheelbarrow Closers	characterInPlay	Larry Freede
+Wheelbarrow Closers	characterInPlay	Beatrice Grant
+Wheelbarrow Closers	characterInPlay	Chet Grant
+Wheelbarrow Closers	characterInPlay	Chester Grant
+Wheelbarrow Closers	characterInPlay	Wilfred Dee
+Best Friend (play)	characterInPlay	Carolyn Parsky
+Best Friend (play)	characterInPlay	Mary Tagliavini
+Best Friend (play)	characterInPlay	Anita Fitzgerald
+Best Friend (play)	characterInPlay	John McGovern
+The Innocents (play)	characterInPlay	Flora
+The Innocents (play)	characterInPlay	Mrs. Grose
+The Innocents (play)	characterInPlay	Miss Bolton
+The Innocents (play)	characterInPlay	Miles
+The Innocents (play)	characterInPlay	Peter Quint
+The Innocents (play)	characterInPlay	Miss Jessel
+Paphnutius (play)	characterInPlay	Thais, Paphnutius
+Getting Away with Murder (play)	characterInPlay	Martin Chisholm
+Getting Away with Murder (play)	characterInPlay	Dossie Lustig
+Getting Away with Murder (play)	characterInPlay	Gregory Reed
+Getting Away with Murder (play)	characterInPlay	Pamela Prideaux
+High (play)	characterInPlay	Sister Jamison Connelly
+High (play)	characterInPlay	Father Michael Delpapp
+High (play)	characterInPlay	Cody Randall
+Mercury: The Afterlife and Times of a Rock God	characterInPlay	Freddie Mercury
+Celebrity Autobiography: In Their Own Words (play)	characterInPlay	various
+Christine Jorgensen Reveals	characterInPlay	Christine Jorgensen and Nipsey Russell
+Kanakatara	characterInPlay	Kanak
+Kanakatara	characterInPlay	Tara
+Usha Parinayam	characterInPlay	Usha
+Usha Parinayam	characterInPlay	Anirudha
+Usha Parinayam	characterInPlay	Banasura
+Usha Parinayam	characterInPlay	Lord Shiva
+Vara Vikrayam	characterInPlay	Purushotham Rao
+Vara Vikrayam	characterInPlay	Kalindi
+Vara Vikrayam	characterInPlay	Kamala
+Vara Vikrayam	characterInPlay	Singaraju Lingaraju
+Vara Vikrayam	characterInPlay	Basavaraju
+Vara Vikrayam	characterInPlay	Vengalappa

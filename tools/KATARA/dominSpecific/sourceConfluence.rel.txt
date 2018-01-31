@@ -1,0 +1,46 @@
+Missouri River	sourceConfluence	Jefferson River
+Missouri River	sourceConfluence	Madison River
+Nile	sourceConfluence	Khartoum
+Rhine	sourceConfluence	Reichenau, Switzerland
+Ob River	sourceConfluence	Biysk
+Brazos River	sourceConfluence	Stonewall County, Texas
+Saskatchewan River	sourceConfluence	North Saskatchewan River
+Saskatchewan River	sourceConfluence	South Saskatchewan River
+South Saskatchewan River	sourceConfluence	Oldman River
+South Saskatchewan River	sourceConfluence	Bow River
+Tuolumne River	sourceConfluence	Tuolumne Meadows
+Moose River (Ontario)	sourceConfluence	Mattagami River
+Moose River (Ontario)	sourceConfluence	Missinaibi River
+Paraná River	sourceConfluence	Grande River
+Lackawaxen River	sourceConfluence	Pennsylvania Route 170
+Santa Ana River	sourceConfluence	San Bernardino Mountains
+Petitcodiac River	sourceConfluence	Westmorland County, New Brunswick
+Petitcodiac River	sourceConfluence	New Brunswick
+Peace River (Canada)	sourceConfluence	Williston Lake
+Feather River	sourceConfluence	Lake Oroville
+Bhagirathi River	sourceConfluence	Alaknanda River
+San Gabriel River (California)	sourceConfluence	San Gabriel Dam
+Berounka	sourceConfluence	Plzeň
+Koksoak River	sourceConfluence	Caniapiscau River
+Koksoak River	sourceConfluence	Rivière aux Mélèzes
+Kagera River	sourceConfluence	Lake Tanganyika
+Vils (Danube)	sourceConfluence	Gerzen
+Sil (river)	sourceConfluence	Os Peares
+Minho River	sourceConfluence	Os Peares
+Keowee River	sourceConfluence	Toxaway River
+Liddel Water	sourceConfluence	River Esk, Dumfries and Galloway
+Westfield River	sourceConfluence	Debouch
+North Fork Feather River	sourceConfluence	Rice Creek (Feather River)
+San Pedro Creek	sourceConfluence	Middle Fork, San Pedro Creek
+San Pedro Creek	sourceConfluence	South Fork, San Pedro Creek
+East Branch North Fork Feather River	sourceConfluence	Indian Creek
+Nera River (Russia)	sourceConfluence	Delyankir River
+Shizunai River	sourceConfluence	Koikakushushibichari River
+Shizunai River	sourceConfluence	Koibokushushibichari River
+Sandvikselva	sourceConfluence	Wøyen
+American River	sourceConfluence	Folsom Lake
+Clearwater River (Idaho)	sourceConfluence	Kooskia, Idaho
+Northeast Branch Anacostia River	sourceConfluence	College Park, Maryland
+Moore Creek (Nipissing District, Ontario)	sourceConfluence	McKenzie Lake (Moore Creek)
+Corte Madera Creek (Marin County, California)	sourceConfluence	San Anselmo Creek
+Corte Madera Creek (Marin County, California)	sourceConfluence	Ross Creek (California)

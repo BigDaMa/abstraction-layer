@@ -1,0 +1,736 @@
+Bank of China Tower, Hong Kong	buildingStartDate	1985-04-18
+Fenway Park	buildingStartDate	1911-09-25
+Golden Gate Bridge	buildingStartDate	1933-01-05
+Sydney Harbour Bridge	buildingStartDate	1923-07-28
+Shea Stadium	buildingStartDate	1961-10-28
+United States Capitol	buildingStartDate	1793-09-18
+Wrigley Field	buildingStartDate	1914-03-04
+Gateway Arch	buildingStartDate	1963-02-12
+Radcliffe Camera	buildingStartDate	1737-05-17
+Busch Memorial Stadium	buildingStartDate	1964-05-25
+Dodger Stadium	buildingStartDate	1959-09-17
+Kuala Lumpur International Airport	buildingStartDate	1998-06-27
+Tay Rail Bridge	buildingStartDate	1871-07-22
+Tay Rail Bridge	buildingStartDate	1883-07-06
+San Francisco – Oakland Bay Bridge	buildingStartDate	1933-07-08
+General Post Office (Dublin)	buildingStartDate	1814-08-12
+Rogers Centre	buildingStartDate	1986-10-03
+Two World Trade Center	buildingStartDate	2010-06-01
+Bell Centre	buildingStartDate	1993-06-22
+Reichstag (building)	buildingStartDate	1884-06-09
+Camp Nou	buildingStartDate	1954-03-28
+Santiago Bernabéu Stadium	buildingStartDate	1944-10-27
+Hubert H. Humphrey Metrodome	buildingStartDate	1979-12-20
+Xcel Energy Center	buildingStartDate	1998-06-23
+Neuschwanstein Castle	buildingStartDate	1869-09-05
+Space Needle	buildingStartDate	1961-04-17
+Chase Field	buildingStartDate	1995-11-16
+Lincoln Financial Field	buildingStartDate	2001-05-07
+Castle Drogo	buildingStartDate	1911-04-04
+Veterans Stadium	buildingStartDate	1967-10-02
+Reliant Astrodome	buildingStartDate	1962-01-03
+American Airlines Center	buildingStartDate	1999-09-01
+Minute Maid Park	buildingStartDate	1997-11-01
+Maracanã (stadium)	buildingStartDate	1948-08-02
+Nickerson Field	buildingStartDate	1915-03-20
+Toyota Center (Houston)	buildingStartDate	2001-07-31
+Reliant Stadium	buildingStartDate	2000-03-09
+Scotiabank Place	buildingStartDate	1994-07-07
+American Airlines Arena	buildingStartDate	1998-02-06
+Pepsi Center	buildingStartDate	1997-11-20
+Rangers Ballpark in Arlington	buildingStartDate	1992-04-02
+Arlington Stadium	buildingStartDate	1964-04-15
+Comerica Park	buildingStartDate	1997-10-29
+Oriole Park at Camden Yards	buildingStartDate	1989-06-28
+Citizens Bank Park	buildingStartDate	2002-06-28
+Safeco Field	buildingStartDate	1997-03-08
+Palace of the Parliament	buildingStartDate	1984-06-25
+Time Warner Center	buildingStartDate	2000-11-02
+AT&T Park	buildingStartDate	1997-12-11
+Sun Life Stadium	buildingStartDate	1985-12-01
+Suwon World Cup Stadium	buildingStartDate	2001-05-13
+Daegu Stadium	buildingStartDate	1997-07-29
+Seoul World Cup Stadium	buildingStartDate	1998-10-20
+Angel Stadium of Anaheim	buildingStartDate	1964-08-31
+Merchandise Mart	buildingStartDate	1928-08-16
+Time Warner Cable Arena	buildingStartDate	2003-07-29
+Air Canada Centre	buildingStartDate	1997-03-12
+Gillette Stadium	buildingStartDate	2000-03-24
+Great American Ball Park	buildingStartDate	2000-08-01
+Tampa Stadium	buildingStartDate	1966-10-09
+Key Tower	buildingStartDate	1988-10-17
+Union Buildings	buildingStartDate	1910-11-01
+Lions Gate Bridge	buildingStartDate	1937-03-31
+Gateway of India	buildingStartDate	1911-03-31
+TD Garden	buildingStartDate	1993-04-29
+Invesco Field at Mile High	buildingStartDate	1999-08-17
+Bryant–Denny Stadium	buildingStartDate	1929-09-28
+Rio–Niterói Bridge	buildingStartDate	1968-08-23
+Staples Center	buildingStartDate	1998-03-31
+Thousand Islands Bridge	buildingStartDate	1937-04-30
+Palacio de Bellas Artes	buildingStartDate	1904-10-01
+Marine Corps Air Station Beaufort	buildingStartDate	1943-06-15
+Olympic Stadium (Montreal)	buildingStartDate	1973-04-28
+Memorial Stadium (University of Minnesota)	buildingStartDate	1924-03-06
+Riverfront Stadium	buildingStartDate	1968-02-01
+Verizon Center	buildingStartDate	1995-10-18
+National Stadium, Bukit Jalil	buildingStartDate	1990-01-01
+National Stadium, Bukit Jalil	buildingStartDate	1994-01-01
+Broadcasting House	buildingStartDate	1928-11-21
+Coors Field	buildingStartDate	1992-10-16
+Foxboro Stadium	buildingStartDate	1970-09-23
+Conseco Fieldhouse	buildingStartDate	1997-07-22
+MCU Park	buildingStartDate	2000-08-22
+Louisiana Superdome	buildingStartDate	1971-08-11
+EverBank Field	buildingStartDate	1994-01-03
+Cleveland Browns Stadium	buildingStartDate	1997-05-15
+Heinz Field	buildingStartDate	1999-06-18
+Forbes Field	buildingStartDate	1909-03-01
+U.S. Cellular Field	buildingStartDate	1989-05-07
+Kingdome	buildingStartDate	1972-11-02
+FedExForum	buildingStartDate	2002-06-20
+Los Angeles Memorial Coliseum	buildingStartDate	1921-12-21
+Griffith Observatory	buildingStartDate	1933-06-20
+Letzigrund  new stadium   1	buildingStartDate	2005-11-15
+Trump International Hotel and Tower (Chicago)	buildingStartDate	2005-03-17
+Huis ten Bosch	buildingStartDate	1645-09-02
+Millau Viaduct	buildingStartDate	2001-10-16
+Ralph Wilson Stadium	buildingStartDate	1972-04-04
+Three Rivers Stadium	buildingStartDate	1968-04-26
+PNC Park	buildingStartDate	1999-04-07
+Quicken Loans Arena	buildingStartDate	1992-04-27
+Miller Park (Milwaukee)	buildingStartDate	1996-11-09
+Ford Field	buildingStartDate	1999-11-16
+Georgia Dome	buildingStartDate	1989-11-22
+RCA Dome	buildingStartDate	1982-05-27
+Cleveland Stadium	buildingStartDate	1930-06-24
+AT&T Center	buildingStartDate	2000-08-24
+Bradley Center	buildingStartDate	1986-10-20
+Wells Fargo Center (Philadelphia)	buildingStartDate	1994-09-14
+Honda Center	buildingStartDate	1990-11-08
+Jobing.com Arena	buildingStartDate	2002-04-03
+BankAtlantic Center	buildingStartDate	1996-11-08
+Civic Arena (Pittsburgh)	buildingStartDate	1958-03-12
+RBC Center	buildingStartDate	1997-07-22
+Rexall Place	buildingStartDate	1972-11-03
+Rheinpark Stadion	buildingStartDate	1997-07-01
+Atlanta-Fulton County Stadium	buildingStartDate	1964-04-15
+Silverdome	buildingStartDate	1973-09-19
+Braves Field	buildingStartDate	1915-03-20
+Stade de France	buildingStartDate	1995-05-02
+Pitt Stadium	buildingStartDate	1924-08-07
+Buffalo Memorial Auditorium	buildingStartDate	1939-11-30
+Huntington Avenue Grounds	buildingStartDate	1901-03-09
+Kemper Arena	buildingStartDate	1972-07-17
+Los Angeles Memorial Sports Arena	buildingStartDate	1958-04-07
+Market Square Arena	buildingStartDate	1971-10-20
+Memorial Coliseum (Portland)	buildingStartDate	1959-02-04
+Tacoma Dome	buildingStartDate	1981-07-01
+Winnipeg Arena	buildingStartDate	1954-10-19
+Skelly Field at H. A. Chapman Stadium	buildingStartDate	1930-05-11
+Ohio Stadium	buildingStartDate	1921-08-03
+Calgary Tower	buildingStartDate	1967-02-19
+Bellevue Palace (Germany)	buildingStartDate	1792-10-13
+Naval Air Station Fallon	buildingStartDate	1944-06-10
+Red Bull Arena (New Jersey)	buildingStartDate	2006-09-19
+Dick's Sporting Goods Park	buildingStartDate	2005-09-28
+Toyota Park (Bridgeview)	buildingStartDate	2004-11-30
+Estadio Alberto J. Armando	buildingStartDate	1938-02-18
+De Grolsch Veste	buildingStartDate	1997-01-31
+Jeremiah Morrow Bridge    1	buildingStartDate	2010-08-02
+Naval Air Station Sigonella	buildingStartDate	1959-06-15
+Park Row Building	buildingStartDate	1896-10-20
+National Monument (Indonesia)	buildingStartDate	1961-08-17
+Estádio do Morumbi	buildingStartDate	1952-08-15
+Estádio do Morumbi	buildingStartDate	1953-09-17
+Hangzhou Bay Bridge	buildingStartDate	2003-06-08
+Sahlen's Stadium	buildingStartDate	2004-07-09
+Gateway Theatre of Shopping	buildingStartDate	1998-03-03
+McCoy Stadium	buildingStartDate	1940-11-03
+High Point Solutions Stadium	buildingStartDate	1993-03-09
+Tobin Bridge	buildingStartDate	1948-04-12
+Hornibrook Bridge	buildingStartDate	1932-06-08
+Royal Palace of Madrid	buildingStartDate	1738-04-07
+Pelham Bridge	buildingStartDate	1906-08-09
+Arena at Gwinnett Center	buildingStartDate	2001-06-26
+Rheinturm	buildingStartDate	1979-01-20
+Penshaw Monument	buildingStartDate	1844-08-28
+Westpac Stadium	buildingStartDate	1998-03-12
+PPG Place	buildingStartDate	1981-01-28
+Fraternity Bridge	buildingStartDate	1982-01-13
+Naval Air Station Jacksonville	buildingStartDate	1940-10-15
+Allianz Arena	buildingStartDate	2002-10-21
+Yokohama Landmark Tower	buildingStartDate	1990-03-20
+Government Palace (Peru)	buildingStartDate	1937-08-24
+Schermerhorn Symphony Center	buildingStartDate	2003-12-03
+John Paul Jones Arena	buildingStartDate	2003-05-30
+Times Union Center	buildingStartDate	1987-02-05
+Naval Air Station Corpus Christi	buildingStartDate	1941-03-12
+Matthews Arena	buildingStartDate	1909-10-11
+Ben Hill Griffin Stadium	buildingStartDate	1930-04-16
+Church of Saint Andrew, Liverpool	buildingStartDate	1823-06-17
+St. Luke's Church Borella	buildingStartDate	1881-10-08
+Estadio Monumental "U"	buildingStartDate	1991-01-16
+Torrespaña	buildingStartDate	1981-02-17
+Tees Barrage	buildingStartDate	1991-11-04
+Mount Hope Bridge	buildingStartDate	1927-12-01
+Fifth Third Field (Dayton)	buildingStartDate	2000-03-04
+TCF Bank Stadium	buildingStartDate	2006-09-30
+Barclays Center	buildingStartDate	2010-03-11
+RAAF Base Williamtown	buildingStartDate	1941-02-15
+Silver Jubilee Bridge	buildingStartDate	1956-04-25
+Messeturm	buildingStartDate	1988-07-13
+Naval Air Station Patuxent River	buildingStartDate	1943-04-01
+NewBridge Bank Park	buildingStartDate	2004-01-21
+Memorial Stadium, Lincoln	buildingStartDate	1923-04-26
+Kinnick Stadium	buildingStartDate	1929-03-06
+Ross–Ade Stadium	buildingStartDate	1924-06-02
+Memorial Stadium (Indiana)	buildingStartDate	1958-08-27
+Huskie Stadium	buildingStartDate	1964-01-30
+Bryce Jordan Center	buildingStartDate	1993-04-07
+Petersen Events Center	buildingStartDate	2000-06-15
+War Memorial Stadium (Wyoming)	buildingStartDate	1949-08-15
+War Memorial Stadium (Wyoming)	buildingStartDate	1950-03-01
+Ericsson Globe	buildingStartDate	1986-09-10
+Freeman Coliseum	buildingStartDate	1947-11-17
+Lawrence Joel Veterans Memorial Coliseum	buildingStartDate	1987-04-23
+Herb Brooks Arena	buildingStartDate	1931-08-22
+Herb Brooks Arena	buildingStartDate	1931-08-22
+Maverik Center	buildingStartDate	1996-03-22
+Liacouras Center	buildingStartDate	1996-01-25
+Giant Center	buildingStartDate	2000-11-08
+Oshawa Civic Auditorium	buildingStartDate	1964-02-28
+Sault Memorial Gardens	buildingStartDate	1946-09-18
+Prospera Place	buildingStartDate	1998-08-09
+Allen County War Memorial Coliseum	buildingStartDate	1950-01-24
+Jacksonville Veterans Memorial Arena	buildingStartDate	2001-11-27
+American Bank Center	buildingStartDate	2002-11-03
+Centennial Olympic Stadium	buildingStartDate	1993-07-10
+University at Buffalo Stadium	buildingStartDate	1991-09-17
+Jack Trice Stadium	buildingStartDate	1973-10-26
+Hiroshima Municipal Stadium (1957)	buildingStartDate	1957-01-22
+Bramlage Coliseum	buildingStartDate	1986-10-18
+Chiles Center	buildingStartDate	1983-05-18
+Littlejohn Coliseum	buildingStartDate	1966-12-13
+United Spirit Arena	buildingStartDate	1997-03-27
+Spokane Veterans Memorial Arena	buildingStartDate	1993-03-05
+Bright House Field	buildingStartDate	2002-10-16
+U.S. Steel Yard	buildingStartDate	2001-06-22
+Lynah Rink	buildingStartDate	1956-06-05
+O'Brien Field	buildingStartDate	2001-08-16
+Silver Cross Field	buildingStartDate	2001-03-07
+Olympic Stadium (Amsterdam)	buildingStartDate	1927-05-18
+George Washington Masonic National Memorial	buildingStartDate	1922-06-05
+Whataburger Field	buildingStartDate	2004-04-08
+Al McGuire Center	buildingStartDate	2002-05-01
+Canada Place	buildingStartDate	1983-03-09
+Estadio Jalisco	buildingStartDate	1952-11-20
+Estadio Olímpico Universitario	buildingStartDate	1950-08-07
+Kurushima-Kaikyō Bridge	buildingStartDate	1988-05-15
+Citi Field	buildingStartDate	2006-11-13
+Busch Stadium	buildingStartDate	2004-01-17
+Trustmark Park	buildingStartDate	2004-05-11
+Wilanów Palace	buildingStartDate	1677-04-23
+Montgomery Riverwalk Stadium	buildingStartDate	2004-05-11
+Zappeion	buildingStartDate	1874-01-20
+Estádio do Pacaembu	buildingStartDate	1938-09-17
+BB&T Coastal Field	buildingStartDate	1998-03-11
+Stadium Merdeka	buildingStartDate	1956-09-25
+Stadium Merdeka	buildingStartDate	1957-08-21
+Sprint Center	buildingStartDate	2005-06-24
+Maintower	buildingStartDate	1996-10-18
+Haymarket Park	buildingStartDate	2000-04-12
+Cooley Law School Stadium	buildingStartDate	1995-04-03
+PopMart Tour	buildingStartDate	1997-03-28
+Estadio Centenario	buildingStartDate	1929-07-21
+Nationals Park	buildingStartDate	2006-05-04
+Hristo Botev Stadium (Plovdiv)	buildingStartDate	1959-07-21
+Richmond County Bank Ballpark	buildingStartDate	2000-06-08
+Senator Thomas J. Dodd Memorial Stadium	buildingStartDate	1994-11-03
+Blair County Ballpark	buildingStartDate	1998-03-07
+Jerry Uht Park	buildingStartDate	1994-07-27
+Dr Pepper Ballpark	buildingStartDate	2002-02-06
+Daniel S. Frawley Stadium	buildingStartDate	1992-11-01
+Fluor Field at the West End	buildingStartDate	2005-05-28
+Clipper Magazine Stadium	buildingStartDate	2004-04-28
+Chicago Spire	buildingStartDate	2007-06-25
+McMorran Place	buildingStartDate	1958-08-24
+Dee Events Center	buildingStartDate	1975-03-21
+Ferrell Center	buildingStartDate	1987-07-01
+Stade des Martyrs	buildingStartDate	1988-10-14
+Stade des Martyrs	buildingStartDate	1993-10-14
+Hampton Coliseum	buildingStartDate	1968-05-24
+Rajabai Clock Tower	buildingStartDate	1869-03-01
+Estádio Fonte Nova	buildingStartDate	1951-01-28
+Lanxess Arena	buildingStartDate	1996-07-31
+O2 World (Hamburg)	buildingStartDate	2001-06-13
+Bixby Creek Bridge	buildingStartDate	1931-08-24
+Narrows Bridge (Perth)	buildingStartDate	1957-06-08
+John P. Grace Memorial Bridge	buildingStartDate	1928-02-07
+Budapest Sports Arena	buildingStartDate	2001-06-30
+Hearst Tower (New York City)	buildingStartDate	2003-04-30
+Oxford Centre	buildingStartDate	1980-05-31
+Arctic Cathedral	buildingStartDate	1964-04-01
+Tokyo Sky Tree	buildingStartDate	2008-07-14
+Singapore Flyer	buildingStartDate	2005-09-25
+Rügen Bridge	buildingStartDate	2004-08-31
+San Mamés Stadium	buildingStartDate	1913-01-20
+Law Courts of Brussels	buildingStartDate	1866-10-31
+Baum Stadium	buildingStartDate	1994-10-12
+Naval Air Station Meridian	buildingStartDate	1961-07-14
+Lucas Oil Stadium	buildingStartDate	2005-09-20
+University of Phoenix Stadium	buildingStartDate	2003-04-12
+Cape Cod Canal Railroad Bridge	buildingStartDate	1933-12-18
+Russia Tower	buildingStartDate	2007-09-18
+Williams Stadium	buildingStartDate	1989-05-08
+Peaks Ice Arena	buildingStartDate	1997-09-17
+Centre Block	buildingStartDate	1916-07-24
+Estadio Tomás Adolfo Ducó	buildingStartDate	1941-10-26
+Parkstadion	buildingStartDate	1969-08-29
+Shah Alam Stadium	buildingStartDate	1990-01-01
+Toronto Normal School	buildingStartDate	1851-07-02
+LaGrave Field	buildingStartDate	2001-12-03
+Alumni Hall (DePaul University)	buildingStartDate	1955-10-03
+Wisconsin Field House	buildingStartDate	1929-09-26
+Suramadu Bridge	buildingStartDate	2003-08-20
+Stadio Ennio Tardini	buildingStartDate	1922-12-26
+La Romareda	buildingStartDate	1956-09-19
+Jeonju World Cup Stadium	buildingStartDate	1999-02-19
+Jeju World Cup Stadium	buildingStartDate	1999-02-20
+Reunification Palace	buildingStartDate	1962-07-01
+Utah State Capitol	buildingStartDate	1912-12-26
+Colonial Building	buildingStartDate	1847-05-24
+Kaunas Sports Hall	buildingStartDate	1938-12-05
+Cheel Arena	buildingStartDate	1990-06-15
+Achilles Rink	buildingStartDate	1974-11-02
+Delaware Stadium	buildingStartDate	1951-08-03
+Ryan Center	buildingStartDate	2000-10-14
+A. J. Palumbo Center	buildingStartDate	1986-09-03
+Tom Gola Arena	buildingStartDate	1997-05-17
+Beeghly Center	buildingStartDate	1972-04-27
+Athletics–Recreation Center	buildingStartDate	1983-04-23
+Prudential Center	buildingStartDate	2005-10-03
+Bath Assembly Rooms	buildingStartDate	1769-05-24
+Intrust Bank Arena	buildingStartDate	2007-12-04
+Pennsylvania State Capitol	buildingStartDate	1902-11-07
+Reese Court	buildingStartDate	1980-04-21
+Frost Arena	buildingStartDate	1970-09-22
+Archbold Stadium	buildingStartDate	1905-05-01
+Replot Bridge	buildingStartDate	1994-09-01
+Waterview Tower	buildingStartDate	2006-02-22
+Lou Ruvo Center for Brain Health	buildingStartDate	2007-02-09
+Juventus Arena	buildingStartDate	2009-03-01
+Estadio Ramón Tahuichi Aguilera	buildingStartDate	1938-01-28
+TEDA Football Stadium	buildingStartDate	2002-08-16
+Changwon Civic Stadium	buildingStartDate	1989-12-08
+Estadio Alejandro Villanueva	buildingStartDate	1969-05-30
+Metropolis Building	buildingStartDate	1907-06-04
+House of the Temple	buildingStartDate	1911-10-18
+General Motors Centre	buildingStartDate	2005-06-22
+Essar Centre	buildingStartDate	2005-06-06
+Stadionul Dan Păltinişanu	buildingStartDate	1960-07-25
+Municipal Corporation Building, Mumbai	buildingStartDate	1884-12-09
+Donbass Arena	buildingStartDate	2006-06-27
+Schauinsland-Reisen-Arena	buildingStartDate	2003-10-17
+Joseph P. Addabbo Memorial Bridge	buildingStartDate	1988-10-25
+Starfire Sports Complex	buildingStartDate	2003-06-20
+Arena Riga	buildingStartDate	2004-06-17
+Arena Riga	buildingStartDate	2006-02-01
+151 Incheon Tower	buildingStartDate	2008-06-20
+Huntington Park (Columbus, Ohio)	buildingStartDate	2007-08-02
+Delaware River – Turnpike Toll Bridge	buildingStartDate	1954-01-15
+Louisville Museum Plaza	buildingStartDate	2007-10-25
+Gangneung Stadium	buildingStartDate	1981-01-28
+Medlar Field at Lubrano Park	buildingStartDate	2005-05-18
+Amarillo National Bank Sox Stadium	buildingStartDate	1948-09-28
+Citizens Business Bank Arena	buildingStartDate	2007-03-07
+1stBank Center	buildingStartDate	2005-10-18
+Senedd	buildingStartDate	2001-03-01
+Walton Arts Center	buildingStartDate	1990-05-19
+Palácio do Planalto	buildingStartDate	1958-07-10
+Palácio da Alvorada	buildingStartDate	1957-04-03
+Beijing National Indoor Stadium	buildingStartDate	2005-05-30
+Michigan Avenue Bridge	buildingStartDate	1918-04-15
+Tower of Jewels	buildingStartDate	1907-09-24
+Stadium:mk	buildingStartDate	2005-02-17
+BOK Center	buildingStartDate	2005-08-31
+Burj Al Alam	buildingStartDate	2006-11-12
+Yichang Bridge	buildingStartDate	1998-02-19
+Bloomfield Stadium	buildingStartDate	1960-09-04
+Saskatchewan Legislative Building	buildingStartDate	1908-08-31
+Estadio Juan Francisco Barraza	buildingStartDate	1956-11-15
+McDonough Gymnasium	buildingStartDate	1950-05-20
+Swedbank Arena, Solna	buildingStartDate	2009-12-07
+Estadio Teodoro Lolo Fernández	buildingStartDate	1944-12-19
+Parliament House, Hobart	buildingStartDate	1835-01-05
+Saputo Stadium	buildingStartDate	2007-04-18
+Waibaidu Bridge	buildingStartDate	1906-08-04
+Rio Tinto Stadium	buildingStartDate	2006-08-12
+Kinnarps Arena	buildingStartDate	1999-09-17
+Russ Chandler Stadium	buildingStartDate	2001-06-05
+Volkswagen Halle	buildingStartDate	1999-09-20
+Fjällräven Center	buildingStartDate	2004-09-14
+Munhak Baseball Stadium	buildingStartDate	1994-07-20
+Marcus Nanotechnology Research Center	buildingStartDate	2006-08-07
+Yuvileiny Stadium	buildingStartDate	1999-09-02
+Sūduva Stadium	buildingStartDate	2007-05-25
+Emil and Patricia Jones Convocation Center	buildingStartDate	2002-10-04
+Target Field	buildingStartDate	2007-08-30
+China Central Television Headquarters	buildingStartDate	2004-06-01
+Sparkassen-Arena	buildingStartDate	1950-11-10
+University Bridge (Saskatoon)	buildingStartDate	1913-09-02
+Senator Sid Buckwold Bridge	buildingStartDate	1965-02-05
+Emmerich Rhine Bridge	buildingStartDate	1962-05-02
+One World Trade Center	buildingStartDate	2006-04-27
+Gjøvik Olympic Cavern Hall	buildingStartDate	1991-04-01
+Stade d'Agadir	buildingStartDate	2004-06-04
+Estadi Cornellà-El Prat	buildingStartDate	2003-05-09
+Estadi Cornellà-El Prat	buildingStartDate	2005-05-09
+ISS Dome	buildingStartDate	2005-05-19
+Megasport Arena	buildingStartDate	2005-11-02
+Cape Town Stadium	buildingStartDate	2007-03-26
+Regency Furniture Stadium	buildingStartDate	2007-07-27
+Dnipro Arena	buildingStartDate	2005-04-01
+RSA Battle House Tower	buildingStartDate	2003-11-07
+Nanjing Olympic Sports Center	buildingStartDate	2002-01-28
+The Southern Star (observation wheel)	buildingStartDate	2006-06-30
+JQH Arena	buildingStartDate	2006-12-21
+Road Ranger Stadium	buildingStartDate	2004-05-01
+Sovereign Bank Stadium	buildingStartDate	2006-09-29
+Frost Bank Tower	buildingStartDate	2001-11-27
+Beijing Wukesong Culture & Sports Center	buildingStartDate	2005-03-29
+Naval Air Facility El Centro	buildingStartDate	1946-05-01
+New Meadowlands Stadium	buildingStartDate	2007-09-05
+Skoda Xanthi Arena	buildingStartDate	2003-10-21
+Huff Hall	buildingStartDate	1924-06-07
+Dayabumi Complex	buildingStartDate	1982-02-14
+Stade Louis Dugauguez	buildingStartDate	2000-01-03
+Stade Tourbillon	buildingStartDate	1968-08-18
+One Rincon Hill	buildingStartDate	2005-11-10
+United States Capitol Visitor Center	buildingStartDate	2000-06-20
+Brooks Stadium	buildingStartDate	2002-07-30
+Archbold Gymnasium	buildingStartDate	1908-03-24
+Canton Viaduct	buildingStartDate	1834-04-20
+El Capitolio	buildingStartDate	1926-04-01
+Blue Bridge (Washington)	buildingStartDate	1951-09-19
+State Gymnasium	buildingStartDate	1911-05-22
+K-Rock Centre	buildingStartDate	2006-07-28
+Adolphe Bridge	buildingStartDate	1900-07-14
+Morgans Hotel, Swansea	buildingStartDate	1902-02-18
+Guangzhou Gymnasium	buildingStartDate	1999-02-11
+Arena Zagreb	buildingStartDate	2007-07-20
+Holstein-Stadion	buildingStartDate	1911-10-15
+Cowboys Stadium	buildingStartDate	2005-09-20
+Stade de la Libération	buildingStartDate	1952-08-15
+Gerald Ratner Athletics Center	buildingStartDate	2000-10-28
+Minto Metropole	buildingStartDate	2003-01-09
+Dubai Towers Doha	buildingStartDate	2007-06-18
+Al-Saada Stadium	buildingStartDate	2006-04-25
+Coca-Cola Park (Allentown)	buildingStartDate	2006-09-06
+Dow Diamond	buildingStartDate	2006-04-11
+Torre Caja Madrid	buildingStartDate	2004-10-08
+Arvest Ballpark	buildingStartDate	2007-02-28
+Castello Estense	buildingStartDate	1385-09-29
+Xinzhuang Baseball Stadium	buildingStartDate	1996-07-04
+Kern Center	buildingStartDate	2003-04-11
+Value City Arena	buildingStartDate	1996-04-02
+Bob Kerrey Pedestrian Bridge	buildingStartDate	2006-10-26
+Amway Center	buildingStartDate	2008-07-25
+Taichung Intercontinental Baseball Stadium	buildingStartDate	2005-02-01
+Lankaran City Stadium	buildingStartDate	2006-08-11
+Gamla Ullevi (2008)	buildingStartDate	2007-01-09
+Gamla Ullevi (2008)	buildingStartDate	2008-11-30
+The Bow (skyscraper)	buildingStartDate	2007-06-13
+Jesse Owens Memorial Stadium	buildingStartDate	1998-10-13
+Sør Arena	buildingStartDate	2006-01-11
+Naval Air Station Kingsville	buildingStartDate	1942-07-04
+WFCU Centre	buildingStartDate	2007-01-22
+Arriva Towers (Calgary)	buildingStartDate	2005-04-26
+AFG Arena	buildingStartDate	2005-09-14
+Swedbank Stadion	buildingStartDate	2007-04-23
+Synot Tip Arena	buildingStartDate	2006-09-15
+Kauffman Center for the Performing Arts	buildingStartDate	2006-10-06
+Ulsan Stadium	buildingStartDate	1978-06-01
+Isidoro García Stadium	buildingStartDate	2008-01-11
+EnergySolutions Arena	buildingStartDate	1990-05-22
+Wenzhou World Trade Center	buildingStartDate	2003-06-09
+Pearl River Tower	buildingStartDate	2006-09-28
+Nou Mestalla	buildingStartDate	2007-08-01
+Taipei World Trade Center	buildingStartDate	1982-10-16
+Smolen–Gulf Bridge	buildingStartDate	2006-08-08
+Appleton Transit Center	buildingStartDate	1989-09-12
+Tianmu Baseball Stadium	buildingStartDate	1997-03-25
+Naval Air Station Key West	buildingStartDate	1940-12-15
+Stade du Hainaut	buildingStartDate	2008-05-06
+Guldfågeln Arena	buildingStartDate	2009-12-12
+BB&T Ballpark	buildingStartDate	2007-10-30
+Busan Lotte World Tower	buildingStartDate	2009-03-09
+MMArena	buildingStartDate	2008-08-18
+Lupton Stadium	buildingStartDate	2001-10-18
+Taipei Municipal Baseball Stadium	buildingStartDate	1957-07-01
+TVB City	buildingStartDate	2000-03-08
+Earl Wilson Stadium	buildingStartDate	1993-05-27
+Houston City Hall	buildingStartDate	1938-03-07
+Abbotsford Entertainment & Sports Centre	buildingStartDate	2007-09-24
+Hongkou Football Stadium	buildingStartDate	1998-02-22
+Crystal Tower (Dubai)	buildingStartDate	2007-01-02
+Huntington Center (Toledo)	buildingStartDate	2007-10-01
+50 Biscayne	buildingStartDate	2005-06-14
+Sky Office Tower	buildingStartDate	2006-07-16
+Myeik Airport	buildingStartDate	1987-05-12
+Consolidated Credit Union Place	buildingStartDate	2002-10-20
+QuikTrip Park	buildingStartDate	2007-05-31
+Consol Energy Center	buildingStartDate	2008-08-14
+Dehler Park	buildingStartDate	2007-03-22
+Wellington Phoenix FC  Westpac Stadium   1	buildingStartDate	1998-03-12
+Thanlwin Bridge (Mawlamyine)	buildingStartDate	2000-03-18
+John W. Pope, Jr. Convocation Center	buildingStartDate	2007-09-01
+Singapore Sports Hub	buildingStartDate	2010-09-29
+Pittsburgh City-County Building	buildingStartDate	1915-07-05
+Canada Games Complex	buildingStartDate	1979-05-31
+Hartman Arena	buildingStartDate	2008-03-25
+Immaculate Heart of Mary Church in Pittsburgh	buildingStartDate	1904-07-31
+San Mamés Barria	buildingStartDate	2010-05-26
+Zhongshan Hall	buildingStartDate	1932-11-23
+Reflections at Keppel Bay	buildingStartDate	2008-01-08
+Sea Towers	buildingStartDate	2006-05-10
+Gordon B. Hinckley Alumni and Visitors Center	buildingStartDate	2006-06-23
+Arena VFG	buildingStartDate	2008-12-23
+City Centre Bangladesh	buildingStartDate	2004-09-21
+Pakistan Monument	buildingStartDate	2004-05-25
+TWELVE Centennial Park	buildingStartDate	2005-10-31
+Aces Ballpark	buildingStartDate	2008-02-25
+Cheonan Oryong Stadium	buildingStartDate	1978-06-01
+The Banks	buildingStartDate	2008-04-02
+Tseung Kwan O Sports Ground	buildingStartDate	2006-06-18
+Burlington Northern Railroad Bridge 9.6	buildingStartDate	1906-02-08
+Chief Standing Bear Memorial Bridge	buildingStartDate	1996-04-20
+Renold Building	buildingStartDate	1960-06-24
+Türk Telekom Arena	buildingStartDate	2007-12-13
+Fades viaduct	buildingStartDate	1901-10-28
+The Ice Sheet at Ogden	buildingStartDate	1992-12-17
+I-35W Saint Anthony Falls Bridge	buildingStartDate	2007-10-30
+Dubai Towers Dubai	buildingStartDate	2008-06-21
+Mokdong Stadium	buildingStartDate	1987-12-09
+Sengkang Sports and Recreation Centre	buildingStartDate	2006-04-02
+Payne Park	buildingStartDate	1923-10-18
+Fenn Tower	buildingStartDate	1929-11-03
+Can Tho Bridge	buildingStartDate	2004-09-25
+Kuningan Place	buildingStartDate	2007-02-14
+PAOK Sports Arena	buildingStartDate	1990-03-18
+Most Świętokrzyski	buildingStartDate	1998-10-05
+Venetian Arena	buildingStartDate	2005-05-26
+PPL Park	buildingStartDate	2008-12-01
+Stadion Ruchu	buildingStartDate	1935-09-29
+Veterans Memorial Bridge (Bristol County, Massachusetts)	buildingStartDate	2007-05-17
+Festhalle Frankfurt	buildingStartDate	1907-06-11
+All Pro Freight Stadium	buildingStartDate	2008-07-01
+Royal LePage Place	buildingStartDate	2007-02-12
+Estadio Corona	buildingStartDate	2007-11-14
+Rama IX Bridge	buildingStartDate	1984-10-01
+Suffield and Thompsonville Bridge	buildingStartDate	1892-08-15
+Fort Pilar	buildingStartDate	1635-06-23
+Krungthep Bridge	buildingStartDate	1954-08-31
+360 Condominiums	buildingStartDate	2006-06-20
+Butler Chapel	buildingStartDate	2008-05-07
+Viridian Tower	buildingStartDate	2004-10-15
+Richmond Hill Centre for the Performing Arts	buildingStartDate	2006-10-05
+Krung Thon Bridge	buildingStartDate	1954-08-31
+Rama VII Bridge	buildingStartDate	1990-01-18
+Dedaye Bridge	buildingStartDate	2000-06-10
+Mean Green Stadium	buildingStartDate	2009-11-21
+Pont Valentré	buildingStartDate	1308-06-17
+The Whistler Sliding Centre	buildingStartDate	2005-06-01
+The Whistler Sliding Centre	buildingStartDate	2005-06-01
+Xbox 360 Lounge	buildingStartDate	2005-11-01
+The Austonian	buildingStartDate	2007-08-31
+New Winnipeg Blue Bombers Stadium	buildingStartDate	2010-05-20
+Sheraton Phoenix Downtown	buildingStartDate	2006-03-28
+Duke Energy Center	buildingStartDate	2006-02-28
+Shanghai Tower	buildingStartDate	2008-11-29
+Avenue (Charlotte)	buildingStartDate	2005-05-17
+Fairfield Bridge	buildingStartDate	1934-08-06
+Arena Indios	buildingStartDate	2007-12-23
+525 William Penn Place	buildingStartDate	1949-04-01
+William S. Moorhead Federal Building	buildingStartDate	1958-11-09
+Sanford Center	buildingStartDate	2009-04-03
+Charlottenborg Palace	buildingStartDate	1673-04-03
+Dynamo Stadium (Houston)	buildingStartDate	2011-02-05
+Abdoun Bridge	buildingStartDate	2002-12-14
+Wuxi Sports Center	buildingStartDate	1993-03-05
+Moncton Stadium	buildingStartDate	2008-04-22
+Estadio de Fútbol Monterrey	buildingStartDate	2008-09-08
+Hyatt Regency Denver at the Colorado Convention Center	buildingStartDate	2003-06-30
+Nichols Bridgeway	buildingStartDate	2007-09-20
+Newton Navarro Bridge	buildingStartDate	2004-10-24
+50 West Street	buildingStartDate	2008-06-23
+Havelock City	buildingStartDate	2004-05-18
+Lukkien Heliport	buildingStartDate	2003-12-12
+TD Ameritrade Park Omaha	buildingStartDate	2009-01-21
+JW Marriott Indianapolis	buildingStartDate	2008-05-29
+The Ascent at Roebling's Bridge	buildingStartDate	2005-11-17
+B2net Stadium	buildingStartDate	2009-07-23
+ONEOK Field	buildingStartDate	2008-12-19
+Főnix Hall	buildingStartDate	2002-02-18
+Purdue Memorial Union	buildingStartDate	1922-06-13
+Estadio Maya	buildingStartDate	2008-06-17
+Dr. Phillips Center for Performing Arts	buildingStartDate	2011-06-23
+Devon Tower	buildingStartDate	2009-10-06
+Xerox Tower	buildingStartDate	1965-06-28
+Stroh Center	buildingStartDate	2009-09-03
+Parkview Field	buildingStartDate	2007-12-26
+Estadio Zapote	buildingStartDate	2008-04-30
+Miami Ballpark	buildingStartDate	2009-07-01
+Miami Ballpark	buildingStartDate	2009-07-18
+Woodside Plaza	buildingStartDate	2001-02-27
+Shangri-La at the Fort, Manila	buildingStartDate	2011-05-26
+Gradski vrt Hall	buildingStartDate	2006-10-11
+Altgeld Hall	buildingStartDate	1896-06-10
+Canal Park (Akron, Ohio)	buildingStartDate	1996-01-05
+The Beacon – Roces Tower	buildingStartDate	2008-01-28
+The Beacon – Arnaiz Tower	buildingStartDate	2008-01-28
+The Beacon – Amorsolo Tower	buildingStartDate	2008-01-28
+Bacton Gas Terminal	buildingStartDate	1968-08-13
+Legislative Palace (Peru)	buildingStartDate	1906-09-24
+Prime Tower (Zurich)	buildingStartDate	2008-11-19
+Žalgiris Arena	buildingStartDate	2008-09-26
+Kovalchick Convention and Athletic Complex	buildingStartDate	2008-11-13
+Stadionul Național	buildingStartDate	2008-02-20
+Stadionul Ion Moina	buildingStartDate	2009-07-16
+New Varna Stadium	buildingStartDate	2008-09-12
+DPR/MPR Building	buildingStartDate	1965-03-08
+Fielders Stadium	buildingStartDate	2009-11-06
+Fielders Stadium	buildingStartDate	2010-06-29
+Renoir Towers	buildingStartDate	2007-10-02
+80th Birthday Stadium	buildingStartDate	2005-03-28
+Hardt Field	buildingStartDate	2008-08-11
+Skytrail	buildingStartDate	1910-01-24
+London Road viaduct	buildingStartDate	1845-05-29
+Ankara Arena	buildingStartDate	2009-06-17
+Manning Bowl	buildingStartDate	1938-06-21
+The Gramercy Residences	buildingStartDate	2007-10-05
+Rach Mieu Bridge	buildingStartDate	2002-04-30
+Yankee Stadium	buildingStartDate	2006-08-19
+The Knightsbridge Residences	buildingStartDate	2009-01-16
+Teaching Gym (Florida A&M)	buildingStartDate	2007-07-27
+Cardè Bridge	buildingStartDate	1914-02-05
+Newcastle City Library	buildingStartDate	2007-12-17
+Estadio Correcaminos	buildingStartDate	2009-04-05
+Niigata Prefectural Baseball Stadium	buildingStartDate	2007-01-24
+The Grande at Santa Fe Place	buildingStartDate	2002-04-25
+Canal Street railroad bridge	buildingStartDate	1913-09-04
+Ezekiel W. Cullen Building	buildingStartDate	1948-05-14
+Main Administration Building (University of Notre Dame)	buildingStartDate	1879-05-17
+Meiji Shrine Outer Park Stadium	buildingStartDate	1922-03-01
+Meiji Shrine Outer Park Stadium	buildingStartDate	1924-01-01
+EQT Plaza	buildingStartDate	1984-01-09
+Hyannis Youth and Community Center	buildingStartDate	2008-01-18
+Crystal Palace, Ljubljana	buildingStartDate	2009-05-15
+Eleanor Ward Bridge	buildingStartDate	2004-03-01
+Centre Pompidou-Metz	buildingStartDate	2006-11-07
+Berkut Stadium	buildingStartDate	2007-12-12
+Phu My Bridge	buildingStartDate	2005-09-09
+Davidson Fort	buildingStartDate	2007-05-01
+Salt River Fields at Talking Stick	buildingStartDate	2009-11-17
+Shanghai Oriental Art Center	buildingStartDate	2002-03-26
+Mexico City Arena	buildingStartDate	2009-03-18
+Telecom Tower Islamabad	buildingStartDate	2005-09-08
+Alan B. Miller Hall	buildingStartDate	2007-03-30
+The Atlantic (Atlanta)	buildingStartDate	2007-03-21
+Helsinki Music Centre	buildingStartDate	2008-10-22
+Leslie Dan Faculty of Pharmacy	buildingStartDate	2003-04-28
+Tour Bretagne	buildingStartDate	1971-09-30
+California University of Pennsylvania Convocation Center	buildingStartDate	2009-08-05
+Mayagüez Athletics Stadium	buildingStartDate	2007-12-26
+Arena Ludwigsburg	buildingStartDate	2008-02-07
+FC Zwolle Stadion	buildingStartDate	2007-03-09
+Parliament of Norway Building	buildingStartDate	1860-08-03
+Gledden Building	buildingStartDate	1937-03-25
+Captain Germán Olano Moreno Air Base	buildingStartDate	1933-08-27
+Dunedin Town Hall	buildingStartDate	1878-05-23
+Dunedin Town Hall	buildingStartDate	1928-03-03
+Jinan Olympic Sports Center Stadium	buildingStartDate	2006-05-28
+Digital Media City Landmark Building	buildingStartDate	2009-10-16
+Campbell's Field	buildingStartDate	1999-06-15
+Lviv New Stadium	buildingStartDate	2008-11-20
+The Infinity Fort Bonifacio	buildingStartDate	2007-11-19
+Barker Crossing	buildingStartDate	2009-11-27
+Highland Park Bridge	buildingStartDate	1937-11-06
+Baku Olympic Stadium	buildingStartDate	2011-06-06
+Third Millennium John Paul II Bridge	buildingStartDate	1999-08-02
+University of Santo Tomas Sports Complex	buildingStartDate	2008-07-29
+University of Santo Tomas Sports Complex	buildingStartDate	2009-12-15
+North Bridge, Warsaw	buildingStartDate	2009-05-20
+Changwon Football Center	buildingStartDate	2007-03-27
+Mokpo International Football Center	buildingStartDate	2007-01-17
+John Paul II Bridge, Puławy	buildingStartDate	2006-03-07
+New Rotherham United Stadium	buildingStartDate	2011-06-16
+Wesley Brown Field House	buildingStartDate	2006-03-25
+Bushwick Democratic Club House	buildingStartDate	1891-06-30
+Thomas Jefferson Association Building	buildingStartDate	1889-11-13
+Beijing National Stadium	buildingStartDate	2003-12-24
+Dragon River Bridge	buildingStartDate	2009-07-19
+Bangalore Town Hall	buildingStartDate	1933-03-06
+360 State Street	buildingStartDate	2008-12-01
+Clough Undergraduate Learning Commons	buildingStartDate	2010-04-05
+Grand Stade de Casablanca	buildingStartDate	2011-09-12
+Austin Hilton Convention Center Hotel	buildingStartDate	2001-07-10
+KHCAA Golden Jubilee Chamber Complex	buildingStartDate	2008-11-08
+Jinan Olympic Sports Center Gymnasium	buildingStartDate	2006-05-28
+Hays Hall	buildingStartDate	1901-02-28
+Armeets Arena	buildingStartDate	2009-08-15
+Bradford R. Boss Arena	buildingStartDate	2001-08-09
+Genbao Football Base Arena	buildingStartDate	2000-06-06
+Estadio Universitario UES	buildingStartDate	2003-02-28
+Pizza Hut Park	buildingStartDate	2004-02-18
+Sparbanken Lidköping Arena	buildingStartDate	2008-10-07
+Decker Towers	buildingStartDate	1970-10-29
+Surtees Bridge	buildingStartDate	2006-03-20
+Compton Family Center	buildingStartDate	2010-03-15
+Suncoast Stadium	buildingStartDate	2008-11-25
+Olympic Velodrome, Rome	buildingStartDate	1957-08-10
+Guangzhou International Sports Arena	buildingStartDate	2008-10-15
+Penang Masonic Temple	buildingStartDate	1927-12-17
+Prokopenko Arena	buildingStartDate	2008-09-03
+Yongin Football Center	buildingStartDate	2002-01-16
+Heroes Stadium	buildingStartDate	2007-12-18
+Bai Chay Bridge	buildingStartDate	2003-05-18
+Binh Bridge	buildingStartDate	2002-09-01
+Shriver Center	buildingStartDate	1954-10-01
+Chatham Center	buildingStartDate	1964-10-20
+Circle Drive South Bridge	buildingStartDate	2010-03-29
+Farmer School of Business Building (Miami University)	buildingStartDate	2004-12-10
+Pearson Hall (Miami University)	buildingStartDate	1984-02-02
+Solidarity Bridge	buildingStartDate	2002-07-29
+China pavilion at Expo 2010	buildingStartDate	2007-12-18
+PNS Makran	buildingStartDate	1988-10-23
+Vertex Tower	buildingStartDate	2008-06-30
+Municipal Corporation Building, Thrissur	buildingStartDate	1932-07-07
+St. Dominic's Church (Bronx, New York)	buildingStartDate	1925-05-31
+St. Rose of Lima's Old Church (New York City)	buildingStartDate	1870-07-31
+Desmond Trannore Bridge	buildingStartDate	2008-05-29
+Memorial Stadium (Terre Haute)	buildingStartDate	1922-10-01
+Ashmore Estates	buildingStartDate	1916-05-17
+Tower of Power (transmitter)	buildingStartDate	1987-10-07
+AZAL Stadium	buildingStartDate	2011-02-17
+Huizhou Stadium	buildingStartDate	2007-07-06
+Thunder Castle Stadium	buildingStartDate	2010-10-04
+Tuscaloosa Amphitheater	buildingStartDate	2009-07-14
+Sendai Mediatheque	buildingStartDate	1997-12-17
+Göltzsch Viaduct	buildingStartDate	1846-05-31
+Persian Gulf Bridge	buildingStartDate	2011-03-14
+Wonju Stadium	buildingStartDate	1978-06-01
+Utena Arena	buildingStartDate	2007-10-30
+Yeni Rize Şehir Stadı	buildingStartDate	2007-12-13
+Civic, Christchurch	buildingStartDate	1900-03-14
+Harpa (concert hall)	buildingStartDate	2007-01-12
+New Minaa Stadium	buildingStartDate	2011-03-29
+Church of St. Francis of Assisi and St. Blaise (Brooklyn, New York)	buildingStartDate	1898-08-28
+Chief Post Office, Christchurch	buildingStartDate	1877-05-24
+Provident Bank Park	buildingStartDate	2010-09-10
+Dalga Arena	buildingStartDate	2011-06-06
+New Charlotte 49ers stadium	buildingStartDate	2011-04-29
+Stangate House and Garden	buildingStartDate	1940-01-18
+Bunyodkor Stadium	buildingStartDate	2008-11-13
+Eighth Kilometer District Stadium	buildingStartDate	2010-04-30
+Rochdale Town Hall	buildingStartDate	1866-03-31

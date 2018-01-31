@@ -1,0 +1,18 @@
+Café du Monde	reservations	false
+Philippe's	reservations	false
+Sally's Apizza	reservations	false
+Frank Pepe Pizzeria Napoletana	reservations	false
+Louis' Lunch	reservations	false
+Lumière (restaurant)	reservations	false
+Amber (restaurant)	reservations	true
+The Pancake Manor	reservations	true
+Hubig's New Orleans Style Pies	reservations	false
+Walter's Hot Dog Stand	reservations	false
+Oyster Bar	reservations	false
+Shady Glen	reservations	false
+Zanaro's	reservations	true
+Rutt's Hut	reservations	false
+Modern Apizza	reservations	false
+Yankee Doodle Coffee Shop	reservations	false
+Big Spring Cafe	reservations	false
+Park Grill	reservations	true

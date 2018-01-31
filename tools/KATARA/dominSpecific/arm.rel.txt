@@ -1,0 +1,1377 @@
+Chymotrypsin	arm	q
+Chymotrypsin  ogen B2   1	arm	q
+Chymotrypsin  C caldecrin   1	arm	p
+DNA ligase  III, DNA, ATP-dependent   1	arm	q
+DNA ligase  IV, DNA, ATP-dependent   1	arm	q
+Lactase	arm	q
+Monoamine oxidase	arm	p
+Monoamine oxidase  B   1	arm	p
+Superoxide dismutase	arm	q
+Superoxide dismutase  SOD2, mitochondrial   1	arm	q
+Superoxide dismutase  SOD3, extracellular   1	arm	p
+Trypsin	arm	q
+Trypsin  protease, serine, 2 trypsin 2   1	arm	q
+Trypsin  protease, serine, 3 mesotrypsin   1	arm	p
+Chitinase	arm	p
+Chitinase  1 chitotriosidase   1	arm	q
+Adrenocorticotropic hormone	arm	p
+Chymosin  pseudogene H.sapiens   1	arm	p
+Beta-galactosidase	arm	p
+Alcohol dehydrogenase	arm	q
+Alcohol dehydrogenase  1B,β polypeptide   1	arm	q
+Alcohol dehydrogenase  1C,γ polypeptide   1	arm	q
+Alcohol dehydrogenase  4 class II , π polypeptide   1	arm	q
+Alcohol dehydrogenase  5 class III , χ polypeptide   1	arm	q
+Alcohol dehydrogenase  6 class V   1	arm	q
+Alcohol dehydrogenase  7 class IV , μ or σ polypept  1	arm	q
+Xanthine oxidase	arm	p
+Iodothyronine deiodinase	arm	p
+Iodothyronine deiodinase  Type II iodothyronine deiodinase   1	arm	q
+Iodothyronine deiodinase  Type III iodothyronine deiodinase   1	arm	q
+Ornithine decarboxylase	arm	p
+Hexokinase	arm	q
+Hexokinase  2   1	arm	p
+Hexokinase  3 white cell   1	arm	q
+Pepsin	arm	q
+Pepsin  ogen 4, group I pepsinogen A   1	arm	q
+Pepsin  ogen 5, group I pepsinogen A   1	arm	q
+Pepsin  progastricsin pepsinogen C   1	arm	p
+Growth hormone	arm	q
+Growth hormone  2   1	arm	q
+Thyrotropin-releasing hormone	arm	q
+Fibrinogen	arm	q
+Fibrinogen  beta chain   1	arm	q
+Fibrinogen  gamma chain   1	arm	q
+CD32	arm	q
+CD32  Fc fragment of IgG, low affinity IIb, receptor CD3  1	arm	q
+CD32  Fc fragment of IgG, low affinity IIc, receptor for  1	arm	q
+Luteinizing hormone	arm	q
+Proinsulin	arm	p
+Alanine transaminase	arm	q
+Orexin	arm	q
+Fructose 1,6-bisphosphatase	arm	q
+Cyclooxygenase	arm	q
+Cyclooxygenase  2   1	arm	q
+Follicle-stimulating hormone	arm	q
+Follicle-stimulating hormone  follicle stimulating hormone, beta polypeptide   1	arm	p
+Thyroid-stimulating hormone	arm	q
+Thyroid-stimulating hormone  Thyrotrophin-stimulating hormone, beta   1	arm	p
+Signal recognition particle	arm	q
+Signal recognition particle  14kDa   1	arm	q
+Signal recognition particle  19kDa   1	arm	q
+Signal recognition particle  54kDa   1	arm	q
+Signal recognition particle  68kDa   1	arm	q
+Signal recognition particle  72kDa   1	arm	q
+Gamma-glutamyl transpeptidase	arm	q
+Gamma-glutamyl transpeptidase  gamma-glutamyltransferase 2   1	arm	q
+Substance P	arm	q
+BK channel	arm	q
+BK channel  KCNMB1   1	arm	q
+BK channel  KCNMB2   1	arm	q
+BK channel  KCNMB3   1	arm	q
+BK channel  KCNMB3L   1	arm	q
+BK channel  KCNMB4   1	arm	q
+Ferritin	arm	q
+Ferritin  , heavy polypeptide 1   1	arm	q
+Ferritin  mitochondrial   1	arm	q
+Transcortin	arm	q
+Aspartate carbamoyltransferase	arm	p
+Atrial natriuretic peptide	arm	p
+Clathrin	arm	q
+Clathrin  , light polypeptide Lcb   1	arm	q
+Clathrin  , heavy polypeptide Hc   1	arm	q
+Clathrin  , heavy polypeptide-like 1   1	arm	q
+Protein disulfide-isomerase	arm	p
+Protein disulfide-isomerase  protein disulfide isomerase family A, member 3   1	arm	q
+Protein disulfide-isomerase  protein disulfide isomerase family A, member 4   1	arm	q
+Protein disulfide-isomerase  protein disulfide isomerase family A, member 5   1	arm	q
+Protein disulfide-isomerase  protein disulfide isomerase family A, member 6   1	arm	p
+COPII	arm	q
+COPII  SEC24 family, member A   1	arm	q
+SAR1A	arm	q
+Melanocyte-stimulating hormone	arm	p
+Bradykinin  ogen 1   1	arm	q
+Cholinesterase	arm	q
+Cholinesterase  butyrylcholinesterase   1	arm	q
+Galactokinase	arm	q
+Alpha-2-Macroglobulin	arm	p
+Cannabinoid receptor	arm	q
+Cannabinoid receptor  2 macrophage   1	arm	p
+Peroxisome proliferator-activated receptor	arm	q
+Peroxisome proliferator-activated receptor  gamma   1	arm	p
+Peroxisome proliferator-activated receptor  delta   1	arm	p
+Tuberous sclerosis  Hamartin   1	arm	q
+Tuberous sclerosis  Tuberin   1	arm	p
+Arginase	arm	q
+Arginase  , type II   1	arm	q
+Dynorphin	arm	p
+Angiotensin receptor	arm	q
+Angiotensin receptor  angiotensin II receptor, type 2   1	arm	q
+Cholecystokinin receptor	arm	p
+Cholecystokinin receptor  cholecystokinin B receptor   1	arm	p
+Enoyl CoA isomerase	arm	p
+Ribonucleotide reductase	arm	p
+Ribonucleotide reductase  M2 polypeptide   1	arm	p
+Ribonucleotide reductase  M2 B TP53 inducible   1	arm	q
+Aromatic L-amino acid decarboxylase	arm	p
+Glycophorin C	arm	q
+RecQ helicase  RecQ protein-like 4   1	arm	q
+RecQ helicase  RecQ protein-like 5   1	arm	q
+RecQ helicase  RMI1, RecQ mediated genome instability 1   1	arm	q
+RecQ helicase  Werner syndrome   1	arm	p
+Thioredoxin reductase	arm	q
+Thioredoxin reductase  2   1	arm	q
+Thioredoxin reductase  3   1	arm	p
+Glutamate dehydrogenase	arm	q
+Glutamate dehydrogenase  2   1	arm	q2
+High-molecular-weight kininogen	arm	q
+GSK-3	arm	q
+GSK-3  glycogen synthase kinase 3 beta   1	arm	q
+Malate dehydrogenase	arm	p
+Ferredoxin	arm	q
+Enkephalin	arm	q
+Epoxide hydrolase	arm	q
+Epoxide hydrolase  poxide hydrolase 2, cytoplasmic   1	arm	p
+Epoxide hydrolase  poxide hydrolase 3   1	arm	p
+Epoxide hydrolase  poxide hydrolase 4   1	arm	p
+Inositol trisphosphate receptor	arm	p
+Inositol trisphosphate receptor  inositol 1,4,5-trisphosphate receptor, type 2   1	arm	p
+Inositol trisphosphate receptor  inositol 1,4,5-trisphosphate receptor, type 3   1	arm	p
+Isocitrate dehydrogenase	arm	q
+Isocitrate dehydrogenase  2 NADP+ , mitochondrial   1	arm	q
+Isocitrate dehydrogenase  3 NAD+ alpha   1	arm	q
+Isocitrate dehydrogenase  3 NAD+ beta   1	arm	p
+Isocitrate dehydrogenase  3 NAD+ gamma   1	arm	q
+5-alpha reductase	arm	p
+5-alpha reductase  steroid-5-alpha-reductase, alpha polypeptide 2   1	arm	p
+Urokinase  plasminogen activator, urokinase   1	arm	q
+Internexin	arm	q
+Peripherin	arm	q
+Neurofilament	arm	p
+Neurofilament  , heavy polypeptide 200kDa   1	arm	q
+Neurofilament  3 150kDa medium   1	arm	p
+Thymidine kinase	arm	q
+Factor XIII	arm	p
+Factor XIII  coagulation factor XIII,B polypeptide   1	arm	q
+Glucokinase regulatory protein	arm	p
+PGL2	arm	q
+Microcephalin	arm	p
+Microcephalin  microcephaly,primary autosomal recessive 2   1	arm	q
+Microcephalin  microcephaly,primary autosomal recessive 3   1	arm	q
+Microcephalin  microcephaly,primary autosomal recessive 4   1	arm	q
+Microcephalin  microcephaly,primary autosomal recessive 5   1	arm	q
+Microcephalin  microcephaly,primary autosomal recessive 6   1	arm	q
+Beta-endorphin	arm	p
+Cysteine dioxygenase	arm	q
+Anti-Müllerian hormone	arm	p
+Anti-Müllerian hormone  anti-Mullerian hormone receptor, type II   1	arm	q
+Neuraminidase	arm	p
+Neuraminidase  sialidase 2 cytosolic sialidase   1	arm	q
+Neuraminidase  sialidase 3 membrane sialidase   1	arm	q
+Neuraminidase  sialidase 4   1	arm	q
+Protein Z-related protease inhibitor	arm	q
+Protein Z	arm	q
+Estrogen receptor	arm	q
+Estrogen receptor  2 ER-beta   1	arm	q
+Glutamate decarboxylase	arm	q
+Glutamate decarboxylase  glutamic acid decarboxylase 2   1	arm	p
+Glycogen phosphorylase	arm	q
+Glycogen phosphorylase  , glycogen; liver Hers disease, glyco  1	arm	q
+Glycogen phosphorylase  , glycogen; brain   1	arm	p
+Gastric inhibitory polypeptide	arm	q
+Fibrillin	arm	q
+Fibrillin  2   1	arm	q
+Fibrillin  3   1	arm	p
+Enaptin	arm	q
+AKT	arm	q
+AKT  v-akt murine thymoma viral oncogene homolog 2   1	arm	q
+AKT  v-akt murine thymoma viral oncogene homolog 3 prot  1	arm	q
+Protamine	arm	p
+Protamine  2   1	arm	p
+Motilin	arm	p
+Ryanodine receptor	arm	q
+Ryanodine receptor  yanodine receptor 2 cardiac   1	arm	q
+Ryanodine receptor  yanodine receptor 3   1	arm	q
+Amelogenin	arm	p
+Amelogenin  , Y-linked   1	arm	p
+Enamelin	arm	q
+Ameloblastin	arm	q
+Trehalase	arm	q
+Interleukin 12  A   1	arm	p
+Interleukin 12  B   1	arm	q
+Aconitase	arm	p
+Aconitase  2, mitochondrial   1	arm	q
+CGMP-dependent protein kinase	arm	q
+CGMP-dependent protein kinase  , cGMP-dependent, type II   1	arm	q
+Beta amyloid	arm	q
+Protease-activated receptor	arm	q
+Protease-activated receptor  coagulation factor II thrombin receptor-like 1   1	arm	q
+Protease-activated receptor  coagulation factor II thrombin receptor-like 2   1	arm	q
+Protease-activated receptor  coagulation factor II thrombin receptor-like 3   1	arm	p
+Caveolin	arm	q
+Caveolin  2   1	arm	q
+Caveolin  3   1	arm	p
+Pyruvate carboxylase	arm	q
+T cell receptor	arm	q
+T cell receptor  beta locus   1	arm	q
+GABAB receptor	arm	p
+GABAB receptor  gamma-aminobutyric acid GABA B receptor, 2   1	arm	q
+Glycogenin	arm	q
+Glycogenin  2   1	arm	p
+Cyclophilin	arm	p
+CD1	arm	q
+CD1  b molecule   1	arm	q
+CD1  c molecule   1	arm	q
+CD1  d molecule   1	arm	q
+CD1  e molecule   1	arm	q
+Hepatocyte nuclear factor 4	arm	q
+Hepatocyte nuclear factor 4  gamma   1	arm	q
+CD8	arm	p
+CD8  b molecule   1	arm	p
+Beta-glucuronidase	arm	q
+Acetyl-CoA carboxylase	arm	q
+Acetyl-CoA carboxylase  beta   1	arm	q
+NF-κB	arm	q
+NF-κB  RELA   1	arm	q
+NF-κB  NFKB2   1	arm	q
+NF-κB  RELB   1	arm	q
+NF-κB  REL   1	arm	p
+GABAA-rho receptor	arm	q
+GABAA-rho receptor  gamma-aminobutyric acid GABA receptor, rho 2   1	arm	q
+GABAA-rho receptor  gamma-aminobutyric acid GABA receptor, rho 3   1	arm	q
+Enteropeptidase	arm	q
+Triosephosphate isomerase	arm	p
+Hypoxia-inducible factors	arm	q
+Hypoxia-inducible factors  aryl hydrocarbon receptor nuclear translocator   1	arm	q
+Hypoxia-inducible factors  endothelial PAS domain protein 1   1	arm	p
+Hypoxia-inducible factors  aryl-hydrocarbon receptor nuclear translocator 2   1	arm	q
+Hypoxia-inducible factors  hypoxia inducible factor 3, alpha subunit   1	arm	q
+ACADVL	arm	p
+Endothelin	arm	p
+Endothelin  2   1	arm	p
+Endothelin  3   1	arm	q
+Von Hippel-Lindau binding protein 1	arm	q
+Glutamine synthetase	arm	q
+GLUT2	arm	q
+Transketolase	arm	p
+Glycogen synthase	arm	q
+Glycogen synthase  2 liver   1	arm	p
+RLI	arm	q
+RNase L	arm	q
+Growth hormone releasing hormone	arm	p
+Collagen, type II, alpha 1	arm	q
+Band 3  solute carrier family 4 anion exchanger , member 1  1	arm	p
+Obestatin	arm	p
+Melanin concentrating hormone	arm	q
+Relaxin	arm	q
+Relaxin  2   1	arm	q
+Relaxin  3   1	arm	p
+Histone H3	arm	q
+Histone H3  histone, family 3B H3.3B   1	arm	q
+Histone H4	arm	q
+Spermidine synthase	arm	p
+Stearoyl-CoA desaturase-1	arm	q
+Complement component 5a	arm	q
+Androgen-binding protein	arm	p
+Hepcidin	arm	q
+MART-1	arm	p
+GDP-fucose protein O-fucosyltransferase 1	arm	q
+GDP-fucose protein O-fucosyltransferase 2	arm	q
+Separase	arm	q
+ACADM	arm	p
+Argininosuccinate synthase	arm	q
+Argininosuccinate lyase	arm	p
+Holocarboxylase synthetase	arm	q
+COL11A2	arm	p
+TBX1	arm	q
+Protoporphyrinogen oxidase	arm	q
+Glycogen branching enzyme	arm	p
+IKBKAP	arm	q
+Sclerostin	arm	q
+Citrate synthase	arm	p
+MuSK protein	arm	q
+Biliverdin reductase	arm	p
+Biliverdin reductase  B   1	arm	q
+Gonadotropin-releasing hormone receptor	arm	q
+Gonadotropin-releasing hormone receptor  Gonadotropin-releasing hormone type 2 receptor 2   1	arm	q
+Glycoprotein IIb/IIIa	arm	q
+Glycoprotein IIb/IIIa  integrin, beta 3 platelet glycoprotein IIIa, antig  1	arm	q
+Nebulin	arm	q
+Shaker gene	arm	p
+Human serum albumin	arm	q
+Nociceptin  prepronociceptin   1	arm	p
+Fumarase	arm	q
+Adipocyte protein 2	arm	q
+Prolactin receptor	arm	p
+Human placental lactogen	arm	q
+Human placental lactogen  chorionic somatomammotropin hormone 2   1	arm	q
+4-Hydroxyphenylpyruvate dioxygenase	arm	q
+Hip-1	arm	q
+Properdin	arm	p
+Cytochrome b5	arm	q
+Telokin	arm	q
+Pancreatic polypeptide	arm	p
+Calbindin	arm	p
+Calbindin  2, 29kDa calretinin   1	arm	q
+Histone H2B	arm	q
+Filaggrin	arm	q
+RAB27	arm	q
+RAB27  B, member RAS oncogene family   1	arm	q
+Phospholipid scramblase	arm	q
+Phospholipid scramblase  2   1	arm	q
+Phospholipid scramblase  3   1	arm	p
+Phospholipid scramblase  4   1	arm	q
+Phospholipid scramblase  family, member 5   1	arm	q
+Fetuin	arm	q
+Fetuin  -B   1	arm	q
+Sphingosine kinase	arm	q
+Sphingosine kinase  2   1	arm	q
+IRAK4	arm	q
+Myosin light-chain kinase	arm	q
+Myosin light-chain kinase  2, skeletal muscle   1	arm	q
+Myosin light-chain kinase  3, cardiac   1	arm	q
+Myosin light-chain kinase  Human Myosin Light-Chain Kinase   1	arm	6
+Porphobilinogen synthase	arm	q
+CD72	arm	p
+Sterol regulatory element-binding protein	arm	p
+Sterol regulatory element-binding protein  sterol regulatory element-binding transcription fa  1	arm	q
+KAL1 gene	arm	p
+Hydrogen potassium ATPase	arm	q
+Hydrogen potassium ATPase  , H+/K+ exchanging, beta polypeptide   1	arm	q
+P300-CBP coactivator family	arm	q
+P300-CBP coactivator family  CREB binding protein CBP   1	arm	p
+Ku (protein)	arm	q
+Ku (protein)  X-ray repaircross-complementing 6   1	arm	q
+Vasopressin receptor	arm	q
+Vasopressin receptor  arginine vasopressin receptor 1B   1	arm	q
+Vasopressin receptor  arginine vasopressin receptor 2   1	arm	q
+N-Acetylglutamate synthase	arm	q
+Frzb	arm	q
+FcεRI	arm	q
+FcεRI  high affinity IgE receptor; beta   1	arm	q
+FcεRI  high affinity IgE receptor; gamma   1	arm	q
+Steroidogenic acute regulatory protein	arm	p
+Vesicular monoamine transporter 1	arm	p
+Carbamoyl phosphate synthetase I	arm	p
+Phospholipase D	arm	q
+Phospholipase D  2   1	arm	p
+Agouti signalling peptide	arm	q
+Guanylin	arm	p
+Thyroid hormone receptor	arm	q
+Thyroid hormone receptor  , beta erythroblastic leuk  1	arm	p
+Inositol oxygenase	arm	q
+PELP-1	arm	p
+Macrophage inflammatory protein	arm	q
+Macrophage inflammatory protein  chemokine C-C motif ligand 4   1	arm	q
+Deoxyribonuclease II	arm	p
+Deoxyribonuclease II  beta   1	arm	p
+Collagenase	arm	q
+Collagenase  matrix metallopeptidase 8 neutrophil collagenase   1	arm	q
+Kell antigen system	arm	q
+Ankyrin	arm	p
+Ankyrin  ANK2, neuronal   1	arm	q
+Ankyrin  ANK3, node of Ranvier   1	arm	q
+XK (protein)	arm	p
+Beta-glucosidase	arm	p
+Phosphoenolpyruvate carboxykinase	arm	q
+Phosphoenolpyruvate carboxykinase  2 mitochondrial   1	arm	q
+ACADS	arm	q
+ACADL	arm	q
+Cyclin B	arm	q
+Cyclin B  2   1	arm	q
+Cyclin B  3   1	arm	p
+Cyclin E	arm	q
+Cyclin E  2   1	arm	q
+Cyclin A	arm	q
+Cyclin A  2   1	arm	q
+Arrestin	arm	q
+Arrestin  beta 1   1	arm	q
+Arrestin  beta 2   1	arm	p
+Arrestin  3, retinal X-arrestin   1	arm	q
+Calcitonin gene-related peptide	arm	p
+Calcitonin gene-related peptide  calcitonin-related polypeptide, beta   1	arm	p
+Neuropeptide Y receptor	arm	q
+Neuropeptide Y receptor  Y2   1	arm	q
+Neuropeptide Y receptor  pancreatic polypeptide receptor 1   1	arm	q
+Neuropeptide Y receptor  Y5   1	arm	q
+Lipotropin	arm	p
+Phosphoglycerate kinase	arm	q
+Phosphoglycerate kinase  2   1	arm	p
+Bisphosphoglycerate mutase	arm	q
+Phosphoglycerate mutase	arm	q
+Phosphoglycerate mutase  2 muscle   1	arm	p
+Chordin	arm	q
+Uroporphyrinogen III synthase	arm	q
+Casein kinase 2	arm	p
+Casein kinase 2  ,beta polypeptide   1	arm	p
+Lefty (protein)	arm	q
+Lefty (protein)  left-right determination factor 2   1	arm	q
+CDK-activating kinase	arm	q
+Angiopoietin	arm	q
+Angiopoietin  2   1	arm	p
+BMPR2	arm	q
+Endothelin receptor	arm	q
+Endothelin receptor  type B   1	arm	q
+Bradykinin receptor	arm	q
+Bradykinin receptor  B2   1	arm	q
+Alpha-Mannosidase  , alpha, class 2B, member 2   1	arm	p
+Alpha-Mannosidase  , alpha, class 2C, member 1   1	arm	q
+Retinoic acid receptor	arm	q
+Retinoic acid receptor  etinoic acid receptor beta   1	arm	p
+Retinoic acid receptor  etinoic acid receptor gamma   1	arm	q
+Hexosaminidase	arm	q
+Hexosaminidase  β-hexosaminidase subunit beta   1	arm	q
+Hexosaminidase  C   1	arm	q
+Hexosaminidase  D   1	arm	q
+Retinoid X receptor	arm	q
+Retinoid X receptor  etinoid X receptor beta   1	arm	p
+Retinoid X receptor  etinoid X receptor gamma   1	arm	q
+Somatostatin receptor	arm	q
+Somatostatin receptor  2   1	arm	q
+Somatostatin receptor  3   1	arm	q
+Somatostatin receptor  4   1	arm	p
+Somatostatin receptor  5   1	arm	p
+Parathyroid hormone receptor	arm	p
+Parathyroid hormone receptor  parathyroid hormone 2 receptor   1	arm	q
+Platelet-derived growth factor receptor	arm	q
+Platelet-derived growth factor receptor  , beta poly  1	arm	q
+Vasoactive intestinal peptide receptor	arm	p
+Vasoactive intestinal peptide receptor  2   1	arm	q
+Vasoactive intestinal peptide receptor  adenylate cyclase activating polypeptide 1 pituita  1	arm	p
+Tachykinin receptor	arm	p
+Tachykinin receptor  2   1	arm	q11
+Tachykinin receptor  3   1	arm	q
+Archain	arm	q
+Activin type 2 receptors	arm	q
+Activin type 2 receptors  activin A receptor, type IIB   1	arm	p
+Ribosome Recycling Factor	arm	q
+Sterolin	arm	p
+Sterolin  ATP-binding cassette, sub-family G WHITE , member   1	arm	p
+CD98	arm	q
+CD98  solute carrier family 7 member 5 cationic amino ac  1	arm	q
+Sodium-glucose transport proteins	arm	q
+Sodium-glucose transport proteins  olute carrier family 5 sodium/glucose cotransport  1	arm	p
+Sodium-glucose transport proteins  olute carrier family 5 low affinity glucose cotra  1	arm	q
+Transcobalamin	arm	q
+Transcobalamin  II; macrocytic anemia   1	arm	q
+Complement component 7	arm	p
+Complement component 9	arm	p
+Complement component 1R	arm	p
+Complement component 1s	arm	p
+Factor D	arm	p
+C4b-binding protein	arm	q
+C4b-binding protein  complement component 4 binding protein, beta   1	arm	q
+Asialoglycoprotein receptor	arm	p
+Asialoglycoprotein receptor  2   1	arm	p
+Na-K-Cl cotransporter	arm	q
+Na-K-Cl cotransporter  solute carrier family 12 sodium/potassium/chloride  1	arm	q
+Neurturin	arm	p
+IL-2 receptor	arm	p
+IL-2 receptor  interleukin 2 receptor, beta   1	arm	q
+IL-2 receptor  interleukin 2 receptor, gamma severe combined immu  1	arm	q
+Lysyl hydroxylase	arm	p
+Lysyl hydroxylase  procollagen-lysine, 2-oxoglutarate 5-dioxygenase 2  1	arm	q
+Iduronidase	arm	p
+Aryl hydrocarbon receptor repressor	arm	p
+Dihydropyrimidine dehydrogenase	arm	p
+Ataxin 7	arm	p
+Malonyl-CoA decarboxylase	arm	q
+Vitamin K epoxide reductase	arm	p
+Interleukin-3 receptor	arm	p
+Interleukin-3 receptor  interleukin 3 receptor, Y-Chromosomal   1	arm	p
+Villin	arm	q
+Villin  2 ezrin   1	arm	q
+Interleukin-1 receptor	arm	q
+Interleukin-1 receptor  interleukin 1 receptor, type II   1	arm	q
+Interleukin-1 receptor  interleukin 1 receptor accessory protein   1	arm	q
+Estrogen related receptor	arm	q
+Estrogen related receptor  estrogen-related receptor beta   1	arm	q
+Estrogen related receptor  estrogen-related receptor gamma   1	arm	q
+Aspartoacylase	arm	p
+Aspartoacylase  aminocyclase 3   1	arm	q
+Geranylgeranyltransferase type 1	arm	p
+Geranylgeranyltransferase type 1  GGTase 1 β-subunit protein geranylgeranyl- transfe  1	arm	q
+Rab geranylgeranyltransferase	arm	q
+Rab geranylgeranyltransferase  , beta subunit   1	arm	p
+DNA clamp	arm	p
+D-amino acid oxidase	arm	q
+Hephaestin	arm	q
+Duodenal cytochrome B	arm	q
+CD3 (immunology)	arm	q
+CD3 (immunology)  CD3e molecule, epsilon   1	arm	q
+CD3 (immunology)  CD3g molecule, gamma   1	arm	q
+Monoacylglycerol lipase	arm	p
+Diacylglycerol lipase	arm	q
+Diacylglycerol lipase  , beta   1	arm	p
+Arylsulfatase B	arm	p
+Emopamil binding protein	arm	p
+Glyceronephosphate O-acyltransferase	arm	q
+Alkylglycerone phosphate synthase	arm	q
+P14arf	arm	p
+3-beta-HSD	arm	p
+3-beta-HSD  hydroxy-Δ-5-steroid dehydrogenase,3β- and steroid   1	arm	p
+Extracellular signal-regulated kinases	arm	q
+Extracellular signal-regulated kinases  mitogen-activated protein kinase 3   1	arm	p
+Azoospermia factor	arm	q
+Neuroglobin	arm	q
+Cation channels of sperm	arm	q
+Cation channels of sperm  cation channel, sperm associated 2   1	arm	q
+Cation channels of sperm  cation channel, sperm associated 3   1	arm	q
+Cation channels of sperm  cation channel, sperm associated 4   1	arm	p
+Two-pore channel	arm	q
+Two-pore channel  two pore segment channel 2   1	arm	q
+Transporter associated with antigen processing	arm	p
+Transporter associated with antigen processing  transporter 2, ATP-binding cassette, sub-family B   1	arm	p
+Recombination activating gene	arm	p
+Recombination activating gene  2   1	arm	p
+FAAH	arm	p
+Calsequestrin	arm	q
+Calsequestrin  2 cardiac muscle   1	arm	p
+Sodium-calcium exchanger	arm	p
+Sodium-calcium exchanger  solute carrier family 8 sodium-calcium exchanger ,  1	arm	q
+Sodium-calcium exchanger  solute carrier family 8 sodium-calcium exchanger ,  2	arm	q
+Lymphotoxin	arm	p
+Lymphotoxin  beta TNF superfamily, member 3   1	arm	p
+Glia maturation factor	arm	q
+Glia maturation factor  , gamma   1	arm	q
+Apoptosis-inducing factor	arm	q
+Chimerin 1	arm	q
+Son of Sevenless	arm	p
+Son of Sevenless  on of sevenless homolog 2 Drosophila   1	arm	q
+Neurocalcin	arm	q
+Recoverin	arm	p
+Myelin-associated glycoprotein	arm	q
+Neuropilin	arm	p
+Neuropilin  europilin 2   1	arm	q
+Bactericidal/permeability increasing protein	arm	q
+C-Jun N-terminal kinases	arm	q
+C-Jun N-terminal kinases  mitogen-activated protein kinase 9   1	arm	q
+C-Jun N-terminal kinases  mitogen-activated protein kinase 10   1	arm	q
+P38 mitogen-activated protein kinases  mitogen-activated protein kinase 12   1	arm	q
+P38 mitogen-activated protein kinases  mitogen-activated protein kinase 13   1	arm	p
+P38 mitogen-activated protein kinases  mitogen-activated protein kinase 14   1	arm	p
+Olfactory marker protein	arm	q
+ATP-sensitive potassium channel	arm	p
+ATP-sensitive potassium channel  potassium inwardly-rectifying channel, subfamily J  1	arm	p
+ATP-sensitive potassium channel  ATP-binding cassette, sub-family C CFTR/MRP , memb  1	arm	p
+ATP-sensitive potassium channel  ATP-binding cassette, sub-family C CFTR/MRP , memb  2	arm	p
+Phospholipase B	arm	p
+Calponin	arm	p
+Calponin  2   1	arm	q
+Orosomucoid	arm	q
+Orosomucoid  2   1	arm	q
+Pannexin	arm	q
+Pannexin  2   1	arm	q
+Pannexin  3   1	arm	q
+Destrin	arm	p
+CCL28	arm	p
+MCEF	arm	q
+Presenilin	arm	q
+Presenilin  2 Alzheimer's disease 4   1	arm	q
+Interleukin 33	arm	p
+Interleukin 32	arm	p
+Interleukin 30	arm	p
+Interleukin 28	arm	q
+Interleukin 28  B   1	arm	q
+Interleukin 27	arm	p
+Interleukin 27  Epstein-Barr virus induced 3   1	arm	p
+Interleukin 20	arm	q32
+PDE3	arm	p
+PDE3  phosphodiesterase 3B, cGMP-inhibited   1	arm	p
+Interleukin 14	arm	p
+Interleukin 17	arm	p
+Interleukin 17  B   1	arm	q
+Interleukin 17  C   1	arm	q
+Interleukin 17  D   1	arm	q
+Interleukin 17  E   1	arm	q
+Interleukin 17  F   1	arm	p
+Interleukin 19	arm	q
+Myf5	arm	q
+Tryptophan hydroxylase	arm	p
+Tryptophan hydroxylase  2   1	arm	q
+Serum amyloid A	arm	p
+Serum amyloid A  Human Serum amyloid A2   1	arm	p
+Serum amyloid A  Human Serum amyloid A3, pseudogene   1	arm	p
+Serum amyloid A  Human Serum amyloid A4   1	arm	p
+Melatonin receptor	arm	q
+Melatonin receptor  1B   1	arm	q
+CCL1	arm	q
+Enoyl-CoA hydratase	arm	q
+ATP citrate lyase	arm	q
+Inorganic pyrophosphatase	arm	q
+Inorganic pyrophosphatase  inorganic 2   1	arm	q
+Sodium/phosphate cotransporter	arm	q
+Pyruvate dehydrogenase	arm	p
+Pyruvate dehydrogenase  lipoamide alpha 2   1	arm	q
+Pyruvate dehydrogenase  lipoamide beta   1	arm	p
+Propionyl-CoA carboxylase	arm	q
+Propionyl-CoA carboxylase  propionyl Coenzyme A carboxylase, beta polypeptide  1	arm	q
+Podocin	arm	q
+CCL13	arm	q
+CCL25	arm	p
+Complement receptor of the immunoglobulin family	arm	q
+Fibrocystin	arm	p
+CCL14	arm	q
+CCL18	arm	q
+CCL15	arm	q
+CCL16	arm	q
+C1Q complex	arm	p
+C1Q complex  complement component 1, q subcomponent, B chain   1	arm	p
+C1Q complex  complement component 1, q subcomponent, C chain   1	arm	p
+Glutathione synthetase	arm	q
+CCL23	arm	q
+CCL24	arm	q
+CCL26	arm	q
+CCL27	arm	q
+CXCL2	arm	q
+CXCL3	arm	q
+Heterochromatin protein 1	arm	q
+Heterochromatin protein 1  chromobox homolog 1   1	arm	q
+Heterochromatin protein 1  chromobox homolog 3   1	arm	p
+Myophosphorylase	arm	q
+Paracaspase	arm	q
+CXCL14	arm	q
+SORL1	arm	q
+Methylcrotonyl-CoA carboxylase	arm	q
+Methylcrotonyl-CoA carboxylase  methylcrotonoyl-Coenzyme A carboxylase 2 beta   1	arm	q
+Scleraxis	arm	q
+Scleraxis  cleraxis homolog B mouse   1	arm	q
+Procollagen peptidase	arm	q
+Type-II collagen	arm	q
+Type-I collagen	arm	q
+Type-I collagen  , type I, alpha 2   1	arm	q
+Neurokinin A	arm	q
+Phenylethanolamine N-methyltransferase	arm	q
+Neurogranin	arm	q
+NOEY2	arm	p
+Microtubule nucleation	arm	q
+Neurotensin receptor	arm	q
+Neurotensin receptor  2   1	arm	p
+Neurotensin receptor  sortilin 1   1	arm	p
+Galanin receptor	arm	q
+Galanin receptor  2   1	arm	q
+Galanin receptor  3   1	arm	q
+Corticotropin-releasing hormone receptor	arm	q
+Corticotropin-releasing hormone receptor  corticotropin releasing hormone receptor 2   1	arm	p
+TGF beta receptors	arm	q
+TGF beta receptors  transforming growth factor beta, receptor type II   1	arm	p
+TGF beta receptors  transforming growth factor beta, receptor type III  1	arm	p
+TGF beta 3	arm	q
+Sarcalumenin	arm	p
+Parvalbumin	arm	q
+Cocaine and amphetamine regulated transcript	arm	q
+LSD1	arm	p
+Rhodopsin kinase	arm	q
+Serotonin N-acetyl transferase	arm	q
+Sucrase-isomaltase	arm	q
+CAD (gene)	arm	p
+Dihydroorotate dehydrogenase	arm	q
+Transferrin receptor	arm	q
+Transferrin receptor  2   1	arm	q
+Atrial natriuretic peptide receptor	arm	q21
+Atrial natriuretic peptide receptor  B/ guanylate cyclase   1	arm	p21
+Atrial natriuretic peptide receptor  C/ guanylate cyclase   1	arm	p
+GLUT3	arm	p
+Adenine nucleotide translocator	arm	q
+Adenine nucleotide translocator  solute carrier family 25 mitochondrial carrier; ad  1	arm	q
+Adenine nucleotide translocator  solute carrier family 25 mitochondrial carrier; ad  2	arm	p
+Neurophysin II	arm	p
+Growth hormone-binding protein	arm	p
+Laforin	arm	q
+Sorbitol dehydrogenase	arm	q
+N-Acetylglucosamine receptor	arm	p
+Complement component 4	arm	p
+Complement component 4  B Childo blood group   1	arm	p
+Chymase	arm	q
+Serum and glucocorticoid induced kinase	arm	q
+Channel-inducing factor 4	arm	q
+Sialoadhesin	arm	p
+BMAL	arm	p
+BMAL  aryl hydrocarbon receptor nuclear translocator-lik  1	arm	p
+Butyryl CoA dehydrogenase	arm	q
+Acetolactate synthase	arm	p
+Timeless (gene)	arm	q
+Myf6	arm	q
+Cellular apoptosis susceptibility protein	arm	q
+CD33	arm	q
+Interferon-alpha/beta receptor	arm	q
+Interferon-alpha/beta receptor  interferon alpha, beta and omega receptor 2   1	arm	q
+Interferon-gamma receptor	arm	q
+Interferon-gamma receptor  interferon gamma receptor 2 interferon gamma trans  1	arm	q
+Glutaryl-CoA dehydrogenase	arm	p
+Apolipoprotein A2	arm	q
+Glycerol kinase	arm	p
+Acetyl-CoA C-acyltransferase	arm	p23
+Acetyl-CoA C-acyltransferase  acetyl-CoA acyltransferase 2 mitochondrial   1	arm	q
+Acetyl-CoA C-acyltransferase  hydroxyacyl-CoA dehydrogenase/3-ketoacyl-CoA thiol  1	arm	p
+Formyl peptide receptor	arm	q
+Formyl peptide receptor  -like 1   1	arm	q
+Formyl peptide receptor  -like 2   1	arm	q
+Vesicular acetylcholine transporter	arm	q
+T-type calcium channel	arm	q
+T-type calcium channel  , voltage-dependent, T type, alpha   1	arm	p
+T-type calcium channel  , voltage-dependent, T type, alpha   2	arm	q
+Q-type calcium channel	arm	p
+P-type calcium channel	arm	p
+Granin	arm	q
+Granin  chromogranin B secretogranin 1   1	arm	pter
+Granin  secretogranin II chromogranin C   1	arm	q
+Granin  secretogranin III FLJ90833   1	arm	q
+Granin  secretogranin V 7B2 protein   1	arm	q
+OX40L	arm	q
+CD70	arm	p
+CD153	arm	q
+EEA1	arm	q
+NPAS3	arm	q
+CXC chemokine receptors	arm	q35
+CXC chemokine receptors  CXCR2   1	arm	q35
+CXC chemokine receptors  CXCR3   1	arm	q13
+CXC chemokine receptors  CXCR4   1	arm	q21
+CXC chemokine receptors  CXCR5   1	arm	q23
+CXC chemokine receptors  CXCR6   1	arm	p21
+CXC chemokine receptors  CXCR7   1	arm	q37
+CC chemokine receptors	arm	p21
+CC chemokine receptors  CCR2   1	arm	p21
+CC chemokine receptors  CCR3   1	arm	p21
+CC chemokine receptors  CCR4   1	arm	p24
+CC chemokine receptors  CCR5   1	arm	p21
+CC chemokine receptors  CCR6   1	arm	q27
+CC chemokine receptors  CCR7   1	arm	q12-q21.2
+CC chemokine receptors  CCR8   1	arm	p22
+CC chemokine receptors  CCR9   1	arm	p21
+CC chemokine receptors  CCR10   1	arm	17q21.1-q21
+Ras-GRF1	arm	q
+Odorant binding protein	arm	q
+Odorant binding protein  2B   1	arm	q
+STRA6	arm	q
+Synaptojanin	arm	q
+Synaptojanin  2   1	arm	q
+Low-molecular-weight kininogen	arm	q
+Cyclin D	arm	q
+Cyclin D  2   1	arm	p
+Cyclin D  3   1	arm	p
+Pleckstrin	arm	p
+Transcription factor II H	arm	p
+Transcription factor II H  general transcription factor IIH, polypeptide 2, 4  1	arm	q
+Transcription factor II H  general transcription factor IIH, polypeptide 3, 3  1	arm	q
+Long-chain-aldehyde dehydrogenase	arm	p
+3-hydroxy-3-methylglutaryl-CoA lyase	arm	p
+Neuromedin B	arm	q
+Melanin-concentrating hormone receptor	arm	q
+Melanin-concentrating hormone receptor  2   1	arm	q
+LEM domain-containing protein 3	arm	q
+Lamin B	arm	q
+Lamin B  2   1	arm	p
+Zinc metalloproteinase STE24	arm	p
+Long-chain-fatty-acid—CoA ligase	arm	q
+Type XVIII collagen	arm	q
+CXCL6	arm	q
+CXCL16	arm	p
+CXCL17	arm	q
+XCL1	arm	q
+XCL2	arm	q
+Phospholipase A1	arm	q
+ERM transcription factor	arm	q
+APH-1	arm	p
+APH-1  anterior pharynx defective 1 homolog B C. elegans   1	arm	q
+PEN-2	arm	q
+Aldehyde oxidase	arm	q
+FXYD6	arm	q
+2-hydroxyphytanoyl-CoA lyase	arm	p
+ALMS1	arm	p
+STAT5	arm	q
+STAT5  signal transducer and activator of transcription 5  1	arm	q
+Mannose receptor	arm	p
+Mannose receptor  , C type 2   1	arm	q
+CD52	arm	p
+Sulfonylurea receptor	arm	p
+Sulfonylurea receptor  ATP-binding cassette, sub-family C CFTR/MRP , memb  1	arm	p
+Fascin	arm	p
+Fascin  homolog, retinal   1	arm	q
+Fascin  homolog 3, testicular   1	arm	q
+GLYCAM1	arm	q
+CD79	arm	q
+CD79  b molecule, immunoglobulin-associated beta   1	arm	q
+CD68	arm	p
+PHLPP	arm	q
+PHLPP  H domain and leucine rich repeat protein phosphat  1	arm	q
+Glutaminase	arm	q
+Glutaminase  2 liver, mitochondrial   1	arm	q
+HADHA	arm	p
+Lysosomal lipase	arm	q
+VEGF receptors	arm	q
+VEGF receptors  kinase insert domain receptor a type III receptor   1	arm	q
+VEGF receptors  fms-related tyrosine kinase 4   1	arm	q
+Persephin	arm	p
+Angiopoietin receptor	arm	p
+Angiopoietin receptor  TEK tyrosine kinase, endothelial   1	arm	p
+Lysosomal trafficking regulator	arm	q
+Serine hydroxymethyltransferase	arm	p
+Serine hydroxymethyltransferase  rine hydroxymethyltransferase 2 mitochondrial   1	arm	q
+Phosphogluconate dehydrogenase	arm	p
+Transaldolase	arm	p
+Phosphopentose isomerase	arm	p
+C8 complex	arm	p
+C8 complex  complement component 8, beta polypeptide   1	arm	p
+C8 complex  complement component 8, gamma polypeptide   1	arm	q
+Talin protein	arm	p
+Talin protein  talin 2   1	arm	q
+UTP—glucose-1-phosphate uridylyltransferase	arm	q
+UTP—glucose-1-phosphate uridylyltransferase  UDP&ndash;glucose pyrophosphorylase 2   1	arm	p
+6-phosphogluconolactonase	arm	p
+CD64 (biology)	arm	q
+CD64 (biology)  Fc fragment of IgG, high affinity Ib, receptor CD6  1	arm	p
+CD64 (biology)  Fc fragment of IgG, high affinity Ic, receptor CD6  1	arm	q
+CD16	arm	q
+CD16  Fc fragment of IgG, low affinity IIIb, receptor CD  1	arm	q
+Neonatal Fc receptor	arm	q
+Fcα/μR	arm	q
+Peroxin-7	arm	q
+CYP3A7	arm	q
+ITCH (biology)	arm	q
+Carnitine palmitoyltransferase I	arm	q
+Carnitine palmitoyltransferase I  carnitine palmitoyltransferase 1B muscle   1	arm	q
+Carnitine palmitoyltransferase I  carnitine palmitoyltransferase 1C brain   1	arm	q
+PDIA3	arm	q
+KLRA1	arm	p
+NKG2	arm	p
+4-1BB ligand	arm	p
+Biotinidase	arm	p
+Ribosomal protein s6	arm	p
+STARD3	arm	q
+CD58	arm	p
+Delta catenin	arm	q
+Delta catenin  cadherin-associated protein , delta 2 neur  1	arm	p
+Alpha catenin	arm	q
+Alpha catenin  cadherin-associated protein , alpha 2   1	arm	p
+Alpha catenin  cadherin-associated protein , alpha 3   1	arm	q
+Urotensin-II    1	arm	p
+Potassium-dependent sodium-calcium exchanger	arm	q
+Potassium-dependent sodium-calcium exchanger  solute carrier family 24, member 2   1	arm	p
+Potassium-dependent sodium-calcium exchanger  solute carrier family 24, member 3   1	arm	p
+Potassium-dependent sodium-calcium exchanger  solute carrier family 24, member 4   1	arm	q
+Potassium-dependent sodium-calcium exchanger  solute carrier family 24, member 5   1	arm	q
+Potassium-dependent sodium-calcium exchanger  solute carrier family 24, member 6   1	arm	q
+Beta-ketoacyl-ACP synthase	arm	p
+3-Hydroxyacyl ACP dehydrase	arm	q
+2,4 Dienoyl-CoA reductase	arm	q
+Farnesyl-diphosphate farnesyltransferase	arm	p
+Lanosterol 14 alpha-demethylase	arm	q
+Isopentenyl-diphosphate delta isomerase	arm	p
+HMG-CoA synthase	arm	p
+HMG-CoA synthase  3-hydroxy-3-methylglutaryl-Coenzyme A synthase 2 m  1	arm	p
+Phosphomevalonate kinase	arm	p
+Pyrophosphomevalonate decarboxylase	arm	q
+L-xylulose reductase	arm	q
+Homogentisate 1,2-dioxygenase	arm	q
+WS2B	arm	p
+Thiamine triphosphatase	arm	q
+Ornithine translocase	arm	q
+Carnitine-acylcarnitine translocase	arm	p
+Glycerol-3-phosphate dehydrogenase	arm	q
+Glycerol-3-phosphate dehydrogenase  2 mitochondrial  1	arm	q
+TRIF	arm	p
+Methylmalonyl CoA epimerase	arm	p
+ACADSB	arm	q
+Mannose 6-phosphate receptor	arm	p
+Mannose 6-phosphate receptor  Cation-independent mannose-6 phosphate receptor   1	arm	q
+Caspase 4	arm	q
+Prostaglandin transporter	arm	q
+Prostaglandin E synthase	arm	q
+Prostaglandin E synthase  2 microsomal   1	arm	q
+Prostaglandin E synthase  3 cytosolic   1	arm	q
+Caspase 5	arm	q
+Acyltransferase like 2	arm	p
+Alpha-N-acetylglucosaminidase	arm	q
+N-acetylglucosamine-6-sulfatase	arm	q
+Mannose phosphate isomerase	arm	q
+Hepatic fructokinase	arm	p
+Dimethylallyltranstransferase	arm	q
+Caspase 12	arm	q
+Receptor activity-modifying protein	arm	q
+Receptor activity-modifying protein  2   1	arm	q
+Receptor activity-modifying protein  3   1	arm	q
+HLA-DM	arm	p
+HLA-DM  ajor histocompatibility complex, class II, DM bet  1	arm	p
+Hepatocyte nuclear factors	arm	q
+Hepatocyte nuclear factors  hepatocyte nuclear factor 1, beta   1	arm	q
+Hepatocyte nuclear factors  hepatocyte nuclear factor 3,alpha   1	arm	q
+Hepatocyte nuclear factors  hepatocyte nuclear factor 3,beta   1	arm	p
+Hepatocyte nuclear factors  hepatocyte nuclear factor 3,gamma   1	arm	q
+Hepatocyte nuclear factors  hepatocyte nuclear factor 4alpha   1	arm	q
+Hepatocyte nuclear factors  hepatocyte nuclear factor 4gamma   1	arm	q
+Hepatocyte nuclear factors  hepatocyte nuclear factor 6, alpha   1	arm	q
+Hepatocyte nuclear factors  hepatocyte nuclear factor 6, beta   1	arm	q
+Carboxypeptidase B	arm	q
+Carboxypeptidase B  2 plasma   1	arm	q
+Methionine adenosyltransferase	arm	q
+Methionine adenosyltransferase  II, alpha   1	arm	p
+Methionine adenosyltransferase  II, beta   1	arm	q
+Glutamyl aminopeptidase	arm	q
+Leucyl aminopeptidase	arm	p
+Carbamoyl phosphate synthase II	arm	p
+Dihydroorotase	arm	p
+IMP dehydrogenase	arm	q
+IMP dehydrogenase  2   1	arm	p
+GMP reductase	arm	p
+GMP reductase  guanosine monophosphate reductase 2   1	arm	q
+Adenylosuccinate lyase	arm	q
+Adenylosuccinate synthase	arm	q
+Adenylosuccinate synthase  like 1   1	arm	q
+TIRAP	arm	q
+Period (gene)	arm	p
+Period (gene)  period homolog 2 Drosophila   1	arm	q
+Period (gene)  period homolog 3 Drosophila   1	arm	p
+CLEC4C	arm	p
+Polynucleotide phosphorylase	arm	p
+Serine dehydratase	arm	q
+Surfactant protein A	arm	q
+Surfactant protein A  surfactant, pulmonary-associated protein A2B   1	arm	q
+Surfactant protein B	arm	p
+Surfactant protein C	arm	p
+Collectin liver 1	arm	q
+Ornithine aminotransferase	arm	q
+Branched chain aminotransferase	arm	q
+SLC39A4	arm	q
+Ribose-phosphate diphosphokinase	arm	q
+Ribose-phosphate diphosphokinase  phosphoribosyl pyrophosphate synthetase 2   1	arm	p
+Uracil phosphoribosyltransferase	arm	q
+Guanine deaminase	arm	q
+Adenosylhomocysteinase	arm	q
+Cystathionine gamma-lyase	arm	p
+Adenosylmethionine decarboxylase	arm	q
+Phosphoribosylaminoimidazole carboxylase	arm	p
+Folliculin	arm	p
+Tyrosine aminotransferase	arm	q
+Tyrosylprotein sulfotransferase	arm	q
+Tyrosylprotein sulfotransferase  2   1	arm	q
+Iron-responsive element-binding protein	arm	p
+Serine racemase	arm	p
+RAI1	arm	p
+SLC7A9	arm	q
+Formiminotransferase cyclodeaminase	arm	q
+Amine oxidase	arm	q
+Histamine N-methyltransferase	arm	q
+Saccharopine dehydrogenase	arm	q
+Asparagine synthetase	arm	q
+NBR2	arm	q
+N-acetylglucosamine-1-phosphate transferase	arm	q
+N-acetylglucosamine-1-phosphate transferase  , gamma  1	arm	p
+Epididymal secretory protein E1	arm	q
+Methylglutaconyl-CoA hydratase	arm	q
+Citrin	arm	q
+Transcription factor II A	arm	q
+Transcription factor II A  general transcription factor IIA, 2, 12kDa   1	arm	q
+CD120	arm	p
+CD120  tumor necrosis factor receptor superfamily, member  1	arm	p
+ETM2 (gene)	arm	p
+ETM1	arm	q
+DCMP deaminase	arm	q
+Aminomethyltransferase	arm	p
+Cardiotrophin 1	arm	p
+CSF2RB	arm	q
+Anti-Müllerian hormone receptor	arm	q
+Latent TGF-beta binding protein	arm	p
+Latent TGF-beta binding protein  latent transforming growth factor beta binding pro  1	arm	q
+Latent TGF-beta binding protein  latent transforming growth factor beta binding pro  2	arm	q
+Latent TGF-beta binding protein  latent transforming growth factor beta binding pro  3	arm	q
+Gremlin (protein)	arm	q
+Gremlin (protein)  gremlin 2, cysteine knot superfamily, homolog Xeno  1	arm	q
+Polypyrimidine tract-binding protein	arm	p
+Polypyrimidine tract-binding protein  polypyrimidine tract binding protein 2   1	arm	p
+Nuclear cap-binding protein complex	arm	q
+Nuclear cap-binding protein complex  Nuclear cap binding protein subunit 2, 20kDa   1	arm	q
+BRN-3	arm	q
+BRN-3  POU class 4 homeobox 2   1	arm	q
+BRN-3  POU class 4 homeobox 3   1	arm	q
+Translocated promoter region	arm	q
+Epigen	arm	q
+Gustducin	arm	q
+Gustducin  guanine nucleotide binding protein G protein , bet  1	arm	p
+Gustducin  guanine nucleotide binding protein G protein , gam  1	arm	p
+Gs alpha subunit	arm	q
+Gq alpha subunit	arm	q
+Gq alpha subunit  guanine nucleotide binding protein G protein , alp  1	arm	p
+Gq alpha subunit  guanine nucleotide binding protein G protein , alp  2	arm	q
+Gq alpha subunit  guanine nucleotide binding protein G protein , alp  3	arm	p
+TRPA (channel)	arm	q
+Gi alpha subunit	arm	q
+Gi alpha subunit  guanine nucleotide-binding protein G protein , alp  1	arm	p
+Gi alpha subunit  guanine nucleotide-binding protein G protein , alp  2	arm	p
+STAT4	arm	q
+NPAS1	arm	q
+G12/G13 alpha subunits	arm	p
+G12/G13 alpha subunits  guanine nucleotide-binding protein G protein , alp  1	arm	q
+Rap GTP-binding protein	arm	p
+Rap GTP-binding protein  RAP1B,member of RAS oncogene family   1	arm	q
+XRN1	arm	q
+NIPBL	arm	p
+ATP2A2	arm	q
+Leprecan	arm	p
+RAR-related orphan receptor	arm	q
+RAR-related orphan receptor  AR-related orphan receptor B beta   1	arm	q
+RAR-related orphan receptor  AR-related orphan receptor C gamma   1	arm	q
+Rev-ErbA	arm	q
+Rev-ErbA  nuclear receptor subfamily 1, group D, member 2   1	arm	p
+Testicular receptor	arm	q
+Testicular receptor  nuclear receptor subfamily 2, group C, member 2   1	arm	p
+Chicken ovalbumin upstream promoter-transcription factor	arm	q
+Chicken ovalbumin upstream promoter-transcription factor  nuclear receptor subfamily 2, group F, member 2   1	arm	q
+NSD1	arm	q
+Syncoilin	arm	p
+Synemin	arm	q
+Sarcospan	arm	p
+Nebulette	arm	p
+SH3BP2	arm	p
+HPLH1	arm	q
+Keratin 6B	arm	q
+CARM1	arm	p
+CARM1  coactivator associated arginine methyltransferase   1	arm	p
+Dystrobrevin	arm	q
+Dystrobrevin  , beta   1	arm	p
+KLF1	arm	p
+GLUT8	arm	q
+Transcription factor II E	arm	q
+Transcription factor II E  general transcription factor IIE, polypeptide 2, b  1	arm	p
+Transcription factor II F	arm	p
+Transcription factor II F  general transcription factor IIF, polypeptide 2, 3  1	arm	q
+Transcription factor II F  general transcription factor IIF, polypeptide 2-li  1	arm	q
+Nucleoporin 210kDa	arm	p
+Sp100 nuclear antigen	arm	q
+Activating protein 2	arm	p
+Activating protein 2  transcription factor AP-2 beta activating enhancer  1	arm	p
+Activating protein 2  transcription factor AP-2 gamma activating enhance  1	arm	q
+Activating protein 2  transcription factor AP-2 delta activating enhance  1	arm	p
+Activating protein 2  transcription factor AP-2 epsilon activating enhan  1	arm	p
+GLUT5	arm	p
+Electron-transferring-flavoprotein dehydrogenase	arm	q
+P87PIKAP	arm	p
+Group 1 CD1	arm	q
+Group 1 CD1  b molecule   1	arm	q
+Group 1 CD1  c molecule   1	arm	q
+EVC2	arm	p
+EVC (gene)	arm	p
+Diglyceride acyltransferase	arm	q
+Diglyceride acyltransferase  diacylglycerol O-acyltransferase homolog 2 mouse   1	arm	q
+D-amino acid oxidase activator	arm	q
+Neuromedin N  euromedin N   1	arm	q
+IL22RA2	arm	q
+EGF module-containing mucin-like hormone receptor	arm	p
+EGF module-containing mucin-like hormone receptor  egf-like module containing, mucin-like, hormone re  1	arm	p
+EGF module-containing mucin-like hormone receptor  egf-like module containing, mucin-like, hormone re  2	arm	p
+EGF module-containing mucin-like hormone receptor  egf-like module containing, mucin-like, hormone re  3	arm	p
+Fukutin-related protein	arm	q
+Orexin receptor	arm	p
+Orexin receptor  hypocretin orexin receptor 2   1	arm	p
+Neuromedin U receptor	arm	q
+Neuromedin U receptor  2   1	arm	q
+Prokineticin receptor	arm	p
+Prokineticin receptor  2   1	arm	p
+Prokineticin	arm	p
+Prokineticin  2   1	arm	p
+Free fatty acid receptor	arm	q
+Free fatty acid receptor  2   1	arm	q
+Free fatty acid receptor  3   1	arm	q
+Free fatty acid receptor  G protein-coupled receptor 42   1	arm	q
+SREB	arm	p
+SREB  G protein-coupled receptor 85   1	arm	q
+SREB  G protein-coupled receptor 173   1	arm	p
+Neuromedin U	arm	q
+HMGA	arm	p
+HMGA  high mobility group AT-hook 2   1	arm	q
+WDTC1	arm	p
+CDGSH iron sulfur domain	arm	q
+CDGSH iron sulfur domain  1B   1	arm	p
+CDGSH iron sulfur domain  2   1	arm	q
+CDGSH iron sulfur domain  3   1	arm	q
+TIA1	arm	p
+ICAM4	arm	p
+Formins	arm	q
+Formins  formin 2   1	arm	q
+Retinoic acid-inducible orphan G protein-coupled receptor	arm	p
+Retinoic acid-inducible orphan G protein-coupled receptor  G protein coupled receptor, family C, group 5, mem  1	arm	p
+Retinoic acid-inducible orphan G protein-coupled receptor  , family C, group 5, mem  1	arm	q
+Retinoic acid-inducible orphan G protein-coupled receptor  , family C, group 5, mem  2	arm	p
+Relaxin receptor	arm	q
+Relaxin receptor  elaxin/insulin-like family peptide receptor 2   1	arm	q
+Relaxin receptor  elaxin/insulin-like family peptide receptor 3   1	arm	p
+Relaxin receptor  elaxin/insulin-like family peptide receptor 4   1	arm	q
+4-Aminobutyrate aminotransferase	arm	p
+GUCY2D	arm	p
+VPS13B	arm	q
+IκB kinase	arm	q
+IκB kinase  inhibitor of kappa light polypeptide gene enhancer  1	arm	p
+IκB kinase  inhibitor of kappa light polypeptide gene enhancer  2	arm	q
+NPC1L1	arm	p
+Cholest-5-ene-3beta,7alpha-diol 3beta-dehydrogenase	arm	p
+3-hydroxyacyl-CoA dehydrogenase	arm	q
+MAS1 oncogene	arm	q
+MAS1 oncogene  -like   1	arm	p
+Endothelial lipase	arm	q
+Gastric lipase	arm	q
+Betaine—homocysteine S-methyltransferase	arm	q
+Betaine—homocysteine S-methyltransferase  betaine-homocysteine methyltransferase 2   1	arm	q
+Phosphatidylethanolamine N-methyltransferase	arm	p
+Phytanoyl-CoA dioxygenase	arm	p
+Neuropeptide B/W receptor	arm	p22
+Neuropeptide B/W receptor  neuropeptides B/W receptor 2   1	arm	q
+Neuropeptide FF receptor	arm	q
+Neuropeptide FF receptor  2   1	arm	q
+HSPA1B	arm	p
+HLA-DO	arm	p
+HLA-DO  major histocompatibility complex, class II, DO bet  1	arm	p
+Interleukin-7 receptor	arm	p
+Interleukin-7 receptor  interleukin 2 receptor, gamma   1	arm	q
+UDP-glucose 4-epimerase	arm	p
+Leukotriene-A4 hydrolase	arm	q
+Threonine aldolase	arm	q
+Membrane-bound transcription factor peptidase, site 1	arm	q
+Membrane-bound transcription factor peptidase, site 2	arm	p
+Rac3	arm	q
+Acylphosphatase	arm	q
+Acylphosphatase  2, muscle type   1	arm	p
+USP26	arm	q
+Brain-specific angiogenesis inhibitor	arm	q
+Brain-specific angiogenesis inhibitor  2   1	arm	p
+Brain-specific angiogenesis inhibitor  3   1	arm	q
+Thiamine-triphosphatase	arm	q
+Dimethylargininase	arm	p
+Dimethylargininase  dimethylarginine dimethylaminohydrolase 2   1	arm	p
+Acetyl-CoA C-acetyltransferase	arm	q
+Acetyl-CoA C-acetyltransferase  acetyl-Coenzyme A acetyltransferase 2 acetoacetyl   1	arm	q
+Serine C-palmitoyltransferase  rine palmitoyltransferase, long chain base subun  1	arm	q
+Serine C-palmitoyltransferase  rine palmitoyltransferase, long chain base subun  2	arm	q
+Serine C-palmitoyltransferase  rine palmitoyltransferase, long chain base subun  3	arm	p
+Sterol O-acyltransferase	arm	q
+Latrophilin receptor	arm	p33
+Latrophilin receptor  latrophilin 1   1	arm	p
+Latrophilin receptor  latrophilin 2   1	arm	p
+Latrophilin receptor  latrophilin 3   1	arm	q
+Huntingtin-associated protein 1	arm	q
+Lactate dehydrogenase	arm	p
+Lactate dehydrogenase  B subunit H   1	arm	p
+Lactate dehydrogenase  C   1	arm	p
+Interleukin-18 receptor	arm	q
+Interleukin-18 receptor  interleukin 18 receptor accessory protein   1	arm	p
+Palmitoyl protein thioesterase	arm	p
+Palmitoyl protein thioesterase  palmitoyl-protein thioesterase 2   1	arm	p
+VGF	arm	q
+Calcium-binding protein 1	arm	q
+Neurogenins	arm	q
+Neurogenins  neurogenin 2   1	arm	q
+Neurogenins  neurogenin 3   1	arm	q
+G protein-coupled inwardly-rectifying potassium channel	arm	q
+G protein-coupled inwardly-rectifying potassium channel  potassium inwardly-rectifying channel, subfamily J  1	arm	q
+G protein-coupled inwardly-rectifying potassium channel  potassium inwardly-rectifying channel, subfamily J  2	arm	q
+G protein-coupled inwardly-rectifying potassium channel  potassium inwardly-rectifying channel, subfamily J  3	arm	q
+ZMPSTE24	arm	p
+Interleukin-5 receptor	arm	p
+Interleukin-5 receptor  colony stimulating factor 2 receptor, beta, low-af  1	arm	q
+Interleukin-13 receptor	arm	q
+Interleukin-13 receptor  interleukin 13 receptor, alpha 2   1	arm	q
+Interleukin-13 receptor  interleukin 4 receptor   1	arm	p
+Interleukin-11 receptor	arm	p
+Interleukin-12 receptor	arm	p
+Interleukin-12 receptor  beta 2 subunit, interleukin 12 receptor, beta 2   1	arm	p
+Interleukin-15 receptor	arm	p
+Interleukin-15 receptor  interleukin 2 receptor, beta   1	arm	q
+Interleukin-15 receptor  interleukin 2 receptor, gamma severe combined immu  1	arm	q
+Interleukin-27 receptor	arm	p
+Interleukin-27 receptor  interleukin 6 signal transducer gp130, oncostatin   1	arm	q
+Interleukin-10 receptor	arm	q
+Interleukin-10 receptor  interleukin 10 receptor, beta   1	arm	q
+Interleukin-20 receptor	arm	q
+Interleukin-20 receptor  interleukin 20 receptor beta   1	arm	q
+Interleukin-22 receptor	arm	p
+Interleukin-22 receptor  interleukin 22 receptor, alpha 2   1	arm	q
+Interleukin-28 receptor	arm	p
+Interleukin-28 receptor  interleukin 10 receptor, beta   1	arm	q
+Interleukin-8 receptor	arm	q
+Interleukin-8 receptor  interleukin 8 receptor, beta   1	arm	q
+BTBD9	arm	p
+Ciliary neurotrophic factor receptor	arm	p
+Interleukin-17 receptor	arm	q
+Interleukin-17 receptor  interleukin 17 receptor B   1	arm	p
+Interleukin-17 receptor  interleukin 17 receptor C   1	arm	p
+Interleukin-17 receptor  interleukin 17 receptor D   1	arm	p
+Interleukin-17 receptor  interleukin 17 receptor E   1	arm	p
+Interleukin-17 receptor  interleukin 17 receptor E-like   1	arm	q
+LCA9	arm	p
+TRIM50	arm	q
+Paraoxonase	arm	q
+Paraoxonase  2   1	arm	q
+Paraoxonase  3   1	arm	q
+L-threonine dehydrogenase	arm	p
+GHB receptor	arm	q
+TTBK2	arm	q
+HSN2	arm	p
+ITPKC	arm	q
+PARK11	arm	q
+GRIK4	arm	q
+Repulsive guidance molecule	arm	q
+Repulsive guidance molecule  RGM domain family, member B   1	arm	q
+Repulsive guidance molecule  hemochromatosis type 2   1	arm	q
+FKBP6	arm	q
+AHSA2	arm	p
+GRINL1B	arm	q
+ANK2	arm	q
+HSP90AA2	arm	p
+C3orf58	arm	q
+HSPA7	arm	q
+HSPA12A	arm	q
+NKX3-2	arm	p
+TFAP2D	arm	p
+TFAP2E	arm	p
+Major histocompatibility complex, class II, DP alpha 1	arm	p
+HLA-DQB3	arm	p
+BAALC	arm	q
+FAM123B	arm	q
+PORCN	arm	p
+TIE1	arm	p
+ELMO3	arm	q
+TOX2	arm	q
+TOX3	arm	q
+EID2	arm	q
+C9orf3	arm	q
+FGF11	arm	p
+GPD1L	arm	p
+WNT6	arm	q
+FANCM	arm	q
+DHH (hedgehog)	arm	q
+HHAT	arm	q
+NUP37	arm	q
+NUP188	arm	q
+Xg antigen system	arm	p
+RPGRIP1L	arm	q
+GLIS2	arm	p
+SGEF	arm	q
+VAMP5	arm	p
+FGF16	arm	q
+FGF22	arm	p
+FGF20	arm	p
+CEACAM21	arm	q
+CEACAM20	arm	q
+CEACAM19	arm	q
+CEACAM18	arm	q
+CEACAM16	arm	q
+CEACAM4	arm	q
+Cingulin-like 1	arm	q
+H1F0	arm	q
+H1FNT	arm	q
+DPEP2	arm	q
+Protein phosphatase 2	arm	q
+Protein phosphatase 2  , catalytic subunit, beta iso  1	arm	p
+MDGA2	arm	q
+Eif4a	arm	p
+Eif4a  eukaryotic translation initiation factor 4A, isofo  1	arm	q
+Eif4a  eukaryotic translation initiation factor 4A, isofo  2	arm	q
+COL20A1	arm	q
+COL21A1	arm	p
+COL22A1	arm	q
+COL24A1	arm	p
+COL23A1	arm	q
+COL29A1	arm	q
+SURF2	arm	q
+Transaldolase B	arm	p
+N-acyl phosphatidylethanolamine-specific phospholipase D	arm	q
+CKMT1A	arm	q
+CKB (gene)	arm	q
+CKB (gene)  creatine kinase, ectopic expression   1	arm	q
+RPS4Y2	arm	q
+C1GALT1	arm	p
+MOSC1	arm	q
+CORO1B	arm	q
+LIX1L	arm	q
+ANKRD35	arm	q
+POLR3GL	arm	q
+Mu hemoglobin	arm	p
+MYLK4	arm	p
+KRT77	arm	q
+KRT76	arm	q
+KRT75	arm	q
+KRT74	arm	q
+KRT73	arm	q
+KRT72	arm	q
+KRT71	arm	q
+KRT39	arm	q
+KRT40	arm	q
+KRT28	arm	q
+KRT27	arm	q
+KRT26	arm	q
+KRT25	arm	q
+KRT24	arm	q
+KRT84	arm	q
+KRT82	arm	q
+KRT38	arm	q
+KRT37	arm	q
+KRT35	arm	q
+LAMB4	arm	q
+SNTG2	arm	p
+OPN1MW2	arm	q
+FUT4	arm	q
+TBR1	arm	q
+ADIPOR2	arm	p
+Interferon gamma receptor 2	arm	q
+EXT3 (gene)	arm	p
+Wee1  human WEE1 homolog S. pombe   1	arm	p
+Wee1  human WEE1 homolog 2 S. pombe   1	arm	q
+ULK2	arm	p
+Activin and inhibin	arm	q
+Activin and inhibin  hibin, beta A   1	arm	p
+Activin and inhibin  hibin, beta C   1	arm	q
+Activin and inhibin  hibin, beta E   1	arm	q
+ALDH8A1	arm	q
+Zinc finger protein 804A	arm	q
+APOA1BP	arm	q
+Transmembrane protein 53	arm	p
+Tuberous sclerosis protein	arm	q
+Tuberous sclerosis protein  tuberous sclerosis 2   1	arm	p
+SNX6	arm	q
+SA-beta-gal	arm	p
+HS1BP3	arm	p
+PXK	arm	p
+Rap1	arm	p
+Rap1  B,member of RAS oncogene family   1	arm	q
+GPR137B	arm	q
+Galanin-like peptide	arm	q
+Neuromedin S	arm	q
+SOX1	arm	q
+G protein-coupled receptor kinase 7	arm	q
+DNA damage-binding protein	arm	q
+DNA damage-binding protein  damage-specific DNA binding protein 2, 48kDa   1	arm	p
+RhoBTB	arm	q
+RhoBTB  Rho-related BTB domain containing 2   1	arm	p
+RhoBTB  Rho-related BTB domain containing 3   1	arm	q
+RVD-Hpα	arm	p
+Rho-associated protein kinase  Rho-associated, coiled-coil containing protein kin  2	arm	p
+Chemerin peptides	arm	q
+Receptor tyrosine kinase-like orphan receptor	arm	p
+Receptor tyrosine kinase-like orphan receptor  eceptor tyrosine kinase-like orphan receptor 2   1	arm	q
+Kir2.6	arm	p
+SLC25A38	arm	p
+Bisindolylmaleimide  Proto-oncogene serine/threonine-protein kinase pim  1	arm	p
+DHDPSL	arm	q
+EHHADH	arm	q
+SETBP1	arm	q
+Protein phosphatase 1	arm	q
+Protein phosphatase 1  , catalytic subunit, beta iso  1	arm	p
+Protein phosphatase 1  , catalytic subunit, gamma is  1	arm	q
+GORAB	arm	q
+GJE1	arm	q
+GJD4	arm	p
+GJD3	arm	q
+GJD2	arm	q
+GJB7	arm	q
+GJB5	arm	p
+SYNE1	arm	q
+TGM5	arm	q
+Meprin A	arm	p
+Meprin A  , beta   1	arm	q
+ZNF703	arm	p
+FOXI1	arm	q
+Transmembrane Protein 175	arm	p
+Map44	arm	q
+C3orf14-Chromosome 3 open reading frame 14	arm	p
+Cubam	arm	q
+Cubam  cubilin intrinsic factor-cobalamin receptor   1	arm	p
+Uroguanylin	arm	p

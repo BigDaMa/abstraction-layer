@@ -1,0 +1,77 @@
+Apollo 8	launchDate	1968-12-21
+Apollo 11	launchDate	1969-07-16
+Apollo 13	launchDate	1970-04-11
+Apollo 7	launchDate	1968-10-11
+Apollo 10	launchDate	1969-05-18
+Apollo 15	launchDate	1971-07-26
+Apollo 14	launchDate	1971-01-31
+Apollo 12	launchDate	1969-11-14
+Apollo 16	launchDate	1972-04-16
+Apollo 17	launchDate	1972-12-07
+Soyuz 1	launchDate	1967-04-23
+STS-1	launchDate	1981-04-12
+Vostok 5	launchDate	1963-06-14
+Vostok 6	launchDate	1963-06-16
+Voskhod 1	launchDate	1964-10-12
+Voskhod 2	launchDate	1965-03-18
+Apollo 5	launchDate	1968-01-22
+Apollo 6	launchDate	1968-04-04
+Apollo 4	launchDate	1967-11-09
+Apollo–Soyuz Test Project	launchDate	1975-07-15
+Apollo–Soyuz Test Project  Soyuz 19   1	launchDate	1975-07-15
+Soyuz T-2	launchDate	1980-06-05
+Shenzhou 1	launchDate	1999-11-19
+Shenzhou 2	launchDate	2001-01-09
+Shenzhou 3	launchDate	2002-03-25
+Soyuz TMA-5	launchDate	2004-10-14
+Expedition 9	launchDate	2004-04-18
+Expedition 8	launchDate	2003-10-18
+Expedition 7	launchDate	2003-04-26
+Expedition 6	launchDate	2002-11-24
+Expedition 5	launchDate	2002-06-05
+Expedition 4	launchDate	2001-12-05
+Expedition 3	launchDate	2001-08-10
+Expedition 2	launchDate	2001-03-08
+Expedition 2  ISS EP-1   1	launchDate	2001-04-28
+Expedition 1	launchDate	2000-10-31
+Expedition 10	launchDate	2004-10-14
+Kosmos 140	launchDate	1967-02-07
+Soyuz TMA-6	launchDate	2005-04-15
+Expedition 11	launchDate	2005-04-15
+Soyuz TMA-7	launchDate	2005-10-01
+Expedition 12	launchDate	2005-10-01
+Expedition 13	launchDate	2006-03-30
+Expedition 13	launchDate	2006-07-04
+Soyuz TMA-10	launchDate	2007-04-07
+Soyuz TMA-11	launchDate	2007-10-10
+Soyuz TMA-12	launchDate	2008-04-08
+Soyuz TMA-13	launchDate	2008-10-12
+Soyuz TMA-14	launchDate	2009-03-26
+Soyuz TMA-15	launchDate	2009-05-27
+Soyuz TMA-16	launchDate	2009-09-30
+Soyuz TMA-17	launchDate	2009-12-20
+Soyuz TMA-01M	launchDate	2010-10-07
+Soyuz TMA-18	launchDate	2010-04-02
+Soyuz TMA-19	launchDate	2010-06-15
+Soyuz TMA-20	launchDate	2010-12-15
+Soyuz TMA-21	launchDate	2011-04-04
+Soyuz TMA-02M	launchDate	2011-06-07
+Soyuz TMA-22	launchDate	2011-09-30
+Soyuz TMA-03M	launchDate	2011-11-30
+Mir EO-24	launchDate	1997-08-05
+Mir EO-3	launchDate	1987-12-21
+Mir EO-3  Mir EP-2   1	launchDate	1988-06-07
+Mir EO-4	launchDate	1988-11-26
+Mir EO-4  Mir Aragatz   1	launchDate	1988-11-26
+Mir EO-5	launchDate	1989-09-05
+Mir EO-6	launchDate	1990-02-11
+Salyut 6 EO-1	launchDate	1977-12-10
+Kosmos 656	launchDate	1974-05-27
+Kosmos 396	launchDate	1971-02-18
+Mir EO-2	launchDate	1987-02-05
+Mir EO-2	launchDate	1987-07-22
+Mir EP-3	launchDate	1988-08-29
+Mir EO-21	launchDate	1996-02-21
+Mir EO-21	launchDate	1996-03-22
+Mir EO-19	launchDate	1995-06-27
+Mir EO-7	launchDate	1990-08-01

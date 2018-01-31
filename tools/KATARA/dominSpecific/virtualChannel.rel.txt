@@ -1,0 +1,31 @@
+WLS-TV	virtualChannel	7 (PSIP)
+KPBS (TV)	virtualChannel	15
+KWGN-TV	virtualChannel	2
+KCNC-TV	virtualChannel	4
+KPXC-TV	virtualChannel	59
+CIHF-TV	virtualChannel	8.1
+CIHF-TV	virtualChannel	other chs                = see below
+WALA-TV	virtualChannel	10 (VHF)
+WETA-TV	virtualChannel	26
+KUPX-TV	virtualChannel	16
+KTFN	virtualChannel	65 (PSIP)
+WDWO-CD	virtualChannel	18.1 TCT-SD (Local)
+WDWO-CD	virtualChannel	18.2 TCT-HD (Network)
+XEJ-TV	virtualChannel	5 (PSIP)
+XEPM-TV	virtualChannel	2 (PSIP)
+XHJCI-TV	virtualChannel	32 (PSIP)
+WNNE	virtualChannel	31
+KLRA-LP	virtualChannel	58 (PSIP)
+WFLX	virtualChannel	29.1 (PSIP)
+WACX	virtualChannel	55 (UHF)
+KCTU-LD	virtualChannel	43
+WWTO-TV	virtualChannel	35
+W41DO-D	virtualChannel	60.1 HSN,60.2 HSN2 (comming soon)
+KAXT-CA	virtualChannel	1.1
+KOHC-CD	virtualChannel	45 (PSIP)
+KTFD-DT	virtualChannel	14
+WWJS-CA	virtualChannel	9.1
+KUNW-CA	virtualChannel	2 (VHF)
+WHDO-CA	virtualChannel	38
+K04QR	virtualChannel	4
+WLEP-LD	virtualChannel	9

@@ -1,0 +1,683 @@
+Yangtze River	minimumDischarge	2000.0
+Euphrates	minimumDischarge	58.0
+Ganges	minimumDischarge	180.0
+Mississippi River	minimumDischarge	4502.378608287
+Missouri River	minimumDischarge	17.046741648986
+Madeira River	minimumDischarge	2346.0
+Niger River	minimumDischarge	500.0
+Puget Sound	minimumDischarge	396.435852302
+Snake River	minimumDischarge	76.4554858011
+Tigris	minimumDischarge	155.0
+Sacramento River	minimumDischarge	28.316846593
+Rio Grande	minimumDischarge	0.0
+Congo River	minimumDischarge	23000.0
+Elbe	minimumDischarge	493.0
+Delaware River	minimumDischarge	122.04560881583
+Yenisei River	minimumDischarge	2700.0
+Ob River	minimumDischarge	2360.0
+Yakima River	minimumDischarge	6.371290483425
+Amur River	minimumDischarge	514.0
+River Parrett	minimumDischarge	0.0707921164825
+Potomac River	minimumDischarge	16.9901079558
+Chesapeake Bay	minimumDischarge	277.5050966114
+Guadiana	minimumDischarge	20.0
+Ottawa River	minimumDischarge	749.0
+Willamette River	minimumDischarge	118.9307556906
+Rhone	minimumDischarge	360.0
+Red River of the North	minimumDischarge	13.903571677163
+River Avon (Bristol)	minimumDischarge	2.48
+Kansas River	minimumDischarge	9.995846847329
+Smoky Hill River	minimumDischarge	1.076040170534
+Hells Canyon	minimumDischarge	0.028316846593
+River Mole	minimumDischarge	1.0
+Los Angeles River	minimumDischarge	0.056633693186
+Colorado River (Texas)	minimumDischarge	0.0
+Colorado River	minimumDischarge	19.8217926151
+Altamaha River	minimumDischarge	39.92675369613
+Red River (Mississippi River)	minimumDischarge	41.682398184896
+Fraser River	minimumDischarge	575.0
+Pecos River	minimumDischarge	1.189307556906
+Monongahela River	minimumDischarge	82.1188551197
+River Kennet	minimumDischarge	0.93
+James River	minimumDischarge	0.28316846593
+Brazos River	minimumDischarge	0.76
+Susquehanna River	minimumDischarge	84.66737131307
+Ashuapmushuan River	minimumDischarge	75.0
+Mojave River	minimumDischarge	0.0
+Saskatchewan River	minimumDischarge	54.0
+Athabasca River	minimumDischarge	75.0
+Connecticut River	minimumDischarge	27.410707502024
+Snoqualmie River	minimumDischarge	9.656044688213
+Santiam River	minimumDischarge	7.36238011418
+Arkansas River	minimumDischarge	34.178433837751
+Platte River	minimumDischarge	3.709506903683
+River Tamar	minimumDischarge	0.58
+Chattahoochee River	minimumDischarge	0.0
+San Joaquin River	minimumDischarge	0.84950539779
+River Arun	minimumDischarge	0.31
+Patuxent River	minimumDischarge	0.226534772744
+Chehalis River (Washington)	minimumDischarge	12.45941250092
+Cowlitz River	minimumDischarge	28.260212899814
+White River (Arkansas)	minimumDischarge	91.46341449539
+Caddo River	minimumDischarge	0.453069545488
+Deschutes River (Oregon)	minimumDischarge	67.9604318232
+River Churn	minimumDischarge	0.0
+Hron	minimumDischarge	7.6
+Váh	minimumDischarge	22.3
+Kura River	minimumDischarge	206.0
+Wenatchee River	minimumDischarge	6.258023097053
+River Exe	minimumDischarge	0.44
+Lena River	minimumDischarge	366.0
+River Ravensbourne	minimumDischarge	0.09
+Kings River (California)	minimumDischarge	0.0
+Khabur River	minimumDischarge	2.0
+Tongue River (Montana)	minimumDischarge	0.0
+Little Colorado River	minimumDischarge	4.24752698895
+Pudding River	minimumDischarge	0.0991089630755
+Iguazu River	minimumDischarge	200.0
+Orkhon River	minimumDischarge	0.5
+Schuylkill River	minimumDischarge	28.175262360035
+Cache La Poudre River	minimumDischarge	0.0
+Housatonic River	minimumDischarge	1.529109716022
+Santa Clara River (California)	minimumDischarge	0.0
+Klamath River	minimumDischarge	37.94457443462
+Merced River	minimumDischarge	0.538020085267
+Tuolumne River	minimumDischarge	1.727327642173
+Rogue River (Oregon)	minimumDischarge	17.216642728544
+Yellowstone River	minimumDischarge	88.008759211044
+North Platte River	minimumDischarge	1.7867930200183
+Green River (Washington)	minimumDischarge	2.293664574033
+Green River (Utah)	minimumDischarge	10.76040170534
+Little Missouri River (North Dakota)	minimumDischarge	0.0
+Big Thompson River	minimumDischarge	0.01359208636464
+Tualatin River	minimumDischarge	0.0056633693186
+Powder River (Montana)	minimumDischarge	0.0
+Rouge River (Ontario)	minimumDischarge	0.45
+Thornton Creek	minimumDischarge	0.01104357017127
+Gila River	minimumDischarge	0.0
+San Juan River (Colorado River)	minimumDischarge	4.24752698895
+Gunnison River	minimumDischarge	3.001585738858
+Virgin River	minimumDischarge	0.0
+New River (Kanawha River)	minimumDischarge	15.234463467034
+Yampa River	minimumDischarge	0.0538020085267
+Selenge River	minimumDischarge	23.0
+Okavango River	minimumDischarge	350.0
+White River (Utah)	minimumDischarge	0.368119005709
+Salt River (Arizona)	minimumDischarge	1.670693948987
+Zeya River	minimumDischarge	1.5
+Aroostook River	minimumDischarge	1.160990710313
+Beaverhead River	minimumDischarge	0.0
+Sun River	minimumDischarge	0.56633693186
+White River (South Dakota)	minimumDischarge	0.0
+Niobrara River	minimumDischarge	2.888318352486
+Laramie River	minimumDischarge	0.0
+Souris River	minimumDischarge	17.046741648986
+Bow River	minimumDischarge	3.0
+Truckee River	minimumDischarge	0.198217926151
+Sandy River (Oregon)	minimumDischarge	1.274258096685
+Passaic River	minimumDischarge	1.019406477348
+Cedar River (Washington)	minimumDischarge	0.84950539779
+James River (Dakotas)	minimumDischarge	0.0
+Chemung River	minimumDischarge	3.199803665009
+Hackensack River	minimumDischarge	0.0
+Kanawha River	minimumDischarge	31.1485312523
+Sammamish River	minimumDischarge	0.707921164825
+White River (Washington)	minimumDischarge	1.670693948987
+Clackamas River	minimumDischarge	8.070301279005
+Canadian River	minimumDischarge	10.109114233701
+Paraná River	minimumDischarge	2450.0
+Lehigh River	minimumDischarge	32.84754204788
+Umpqua River	minimumDischarge	18.12278181952
+Willimantic River	minimumDischarge	2.7722192814547
+Shetucket River	minimumDischarge	9.542777301841
+Juniata River	minimumDischarge	18.009514433148
+Salmon River (Idaho)	minimumDischarge	28.316846593
+Wind River (Wyoming)	minimumDischarge	0.1330891789871
+Deschutes River (Washington)	minimumDischarge	1.359208636464
+Puyallup River	minimumDischarge	11.3267386372
+Lackawaxen River	minimumDischarge	1.500792869429
+Neversink River	minimumDischarge	3.171486818416
+Hood River (Oregon)	minimumDischarge	3.851091136648
+Tug Fork	minimumDischarge	14.951295001104
+Levisa Fork	minimumDischarge	5.295250312891
+Osage River	minimumDischarge	18.12278181952
+Roanoke River	minimumDischarge	23.163180513074
+Marys River	minimumDischarge	0.0169901079558
+Santa Ana River	minimumDischarge	0.0
+Youghiogheny River	minimumDischarge	20.303179007181
+Elk River (British Columbia)	minimumDischarge	5.66
+Humboldt River	minimumDischarge	0.0
+John Day River	minimumDischarge	0.0
+McKenzie River	minimumDischarge	11.89307556906
+Owyhee River	minimumDischarge	1.189307556906
+Teton River (Idaho)	minimumDischarge	2.916635199079
+Clark Fork (river)	minimumDischarge	21.577437103866
+Pend Oreille River	minimumDischarge	0.0
+Okanogan River	minimumDischarge	8.155251818784
+Kootenay River	minimumDischarge	59.0
+River Wandle	minimumDischarge	0.22
+Malheur River	minimumDischarge	0.0
+Chetco River	minimumDischarge	1.189307556906
+Illinois River (Oregon)	minimumDischarge	3.426338437753
+Siletz River	minimumDischarge	1.189307556906
+South Yamhill River	minimumDischarge	0.01642377102394
+Salmon River (Lincoln County, Oregon)	minimumDischarge	0.028316846593
+Alsea River	minimumDischarge	1.274258096685
+Grande Ronde River	minimumDischarge	9.740995227992
+Coast Fork Willamette River	minimumDischarge	1.019406477348
+Kobuk River	minimumDischarge	40.0
+Koyukuk River	minimumDischarge	7.92871704604
+Appomattox River	minimumDischarge	0.509703238674
+Wallowa River	minimumDischarge	2.520199346777
+Kankakee River	minimumDischarge	18.547534518415
+Bear River (Utah)	minimumDischarge	0.707921164825
+Nooksack River	minimumDischarge	13.195650512338
+Trask River	minimumDischarge	1.387525483057
+Wilson River (Oregon)	minimumDischarge	0.906139090976
+Walker River	minimumDischarge	0.0
+East Walker River	minimumDischarge	0.0651287471639
+West Walker River	minimumDischarge	0.28316846593
+Petitcodiac River	minimumDischarge	0.36
+Newaukum River	minimumDischarge	0.396435852302
+North Santiam River	minimumDischarge	11.89307556906
+South Santiam River	minimumDischarge	1.897228721731
+Pit River	minimumDischarge	0.84950539779
+Kern River	minimumDischarge	0.28316846593
+Magdalena River	minimumDischarge	2000.0
+Peace River (Canada)	minimumDischarge	344.0
+River Chew	minimumDischarge	0.5
+Feather River	minimumDischarge	6.286339943646
+Napa River	minimumDischarge	0.0
+Shasta River	minimumDischarge	0.0424752698895
+Trinity River (California)	minimumDischarge	6.909310568692
+Amargosa River	minimumDischarge	0.0
+Owens River	minimumDischarge	0.0
+Eel River (California)	minimumDischarge	0.28316846593
+Santa Margarita River	minimumDischarge	0.0
+Tijuana River	minimumDischarge	0.0
+Williamson River (Oregon)	minimumDischarge	8.070301279005
+Skookumchuck River	minimumDischarge	1.13267386372
+Hamma Hamma River	minimumDischarge	1.104357017127
+Sprague River (Oregon)	minimumDischarge	1.41584232965
+Elwha River	minimumDischarge	0.28316846593
+Sycan River	minimumDischarge	0.028316846593
+Queets River	minimumDischarge	7.957033892633
+Hoh River	minimumDischarge	7.135845341436
+Sauk River (Washington)	minimumDischarge	16.367137330754
+Skagit River	minimumDischarge	86.36638210865
+Nehalem River	minimumDischarge	0.962772784162
+Verde River	minimumDischarge	0.0
+Nisqually River	minimumDischarge	13.02574943278
+North Umpqua River	minimumDischarge	15.545948779557
+South Umpqua River	minimumDischarge	0.453069545488
+Willapa River	minimumDischarge	0.396435852302
+Lewis River (Washington)	minimumDischarge	22.8573585698696
+Salinas River (California)	minimumDischarge	0.0
+Conejos River	minimumDischarge	0.0
+River Ingrebourne	minimumDischarge	0.06
+Allagash River	minimumDischarge	2.463565653591
+Thompson River	minimumDischarge	171.0
+Elk River (Tennessee)	minimumDischarge	2.860001505893
+River Brent	minimumDischarge	0.19
+Nizhnyaya Tunguska River	minimumDischarge	1.0
+River Colne, Hertfordshire	minimumDischarge	0.74
+Tuscarawas River	minimumDischarge	6.116438864088
+Volkhov River	minimumDischarge	44.0
+Oatka Creek	minimumDischarge	0.0254851619337
+River Loddon	minimumDischarge	0.52
+Cheat River	minimumDischarge	25.711696706444
+River Pang	minimumDischarge	0.07
+Buffalo River (New York)	minimumDischarge	0.028316846593
+River Thame	minimumDischarge	0.6
+Oswego River (New York)	minimumDischarge	7.390696960773
+Monocacy River	minimumDischarge	16.225553097789
+San Gabriel River (California)	minimumDischarge	0.0
+River Wye, Buckinghamshire	minimumDischarge	0.25
+Ipeľ	minimumDischarge	3.0
+River Frome, Bristol	minimumDischarge	0.0651287471639
+Breitenbush River	minimumDischarge	2.463565653591
+Hogsmill River	minimumDischarge	0.33
+Orava (river)	minimumDischarge	2.3
+Klickitat River	minimumDischarge	10.19406477348
+Credit River	minimumDischarge	0.085
+Coosa River	minimumDischarge	1.529109716022
+Kicking Horse River	minimumDischarge	2.25
+Tolt River	minimumDischarge	1.500792869429
+River Coln	minimumDischarge	0.51
+River Leach	minimumDischarge	0.01
+River Roding	minimumDischarge	0.08
+Katun River	minimumDischarge	16.0
+Flathead River	minimumDischarge	75.60598040331
+Porcupine River	minimumDischarge	0.0
+Androscoggin River	minimumDischarge	9.62772784162
+Illecillewaet River	minimumDischarge	3.18
+Balikh River	minimumDischarge	5.0
+Palouse River	minimumDischarge	0.0
+Yellow Medicine River	minimumDischarge	0.0
+La Grande River	minimumDischarge	345.0
+Cimarron River (Arkansas River)	minimumDischarge	0.0084950539779
+Redwood River	minimumDischarge	0.0
+North Fork Gunnison River	minimumDischarge	0.1245941250092
+Lac qui Parle River	minimumDischarge	0.0
+Bitterroot River	minimumDischarge	7.64554858011
+Ouémé River	minimumDischarge	0.0
+Pelly River	minimumDischarge	35.0
+Little Wood River	minimumDischarge	0.00962772784162
+Greenbrier River	minimumDischarge	16.310503637568
+Boeuf River	minimumDischarge	0.0
+Mokelumne River	minimumDischarge	0.0679604318232
+Crișul Negru River	minimumDischarge	0.47
+Irrawaddy River	minimumDischarge	2300.0
+River Crane, London	minimumDischarge	0.0
+Cobbs Creek	minimumDischarge	5.521785085635
+Gauley River	minimumDischarge	9.656044688213
+Karun	minimumDischarge	26.0
+Hanford Reach	minimumDischarge	566.33693186
+River Marden	minimumDischarge	0.1104357017127
+South Fork New River	minimumDischarge	6.427924176611
+Chaudière River	minimumDischarge	11.0
+Elk River (West Virginia)	minimumDischarge	7.673865426703
+Shade River	minimumDischarge	0.00481386392081
+Blue Earth River	minimumDischarge	0.1953862414917
+Wild Rice River (North Dakota)	minimumDischarge	0.0
+Butte Creek (Butte County, California)	minimumDischarge	1.245941250092
+Tygart Valley River	minimumDischarge	0.1387525483057
+Bluestone River	minimumDischarge	0.198217926151
+Blackwater River (West Virginia)	minimumDischarge	0.622970625046
+Shavers Fork	minimumDischarge	2.803367812707
+Stanislaus River	minimumDischarge	0.00311485312523
+Yuba River	minimumDischarge	0.28316846593
+Williams River (West Virginia)	minimumDischarge	0.01755644488766
+River Evenlode	minimumDischarge	0.12
+Río Negro (Argentina)	minimumDischarge	181.0
+Santa Ynez River	minimumDischarge	0.0
+Gandaki River	minimumDischarge	500.0
+San Diego River	minimumDischarge	0.0
+Tule River	minimumDischarge	0.0
+Neosho River	minimumDischarge	0.339802159116
+Rio Conchos	minimumDischarge	0.09
+River Windrush	minimumDischarge	0.11
+Methow River	minimumDischarge	4.24752698895
+Stehekin River	minimumDischarge	1.642377102394
+Cranberry River (West Virginia)	minimumDischarge	1.41584232965
+Twelvepole Creek	minimumDischarge	0.00368119005709
+Link River	minimumDischarge	0.481386392081
+River Rom	minimumDischarge	0.03
+Sobat River	minimumDischarge	99.0
+Bluestone Lake	minimumDischarge	17.27327642173
+Bull Run River (Oregon)	minimumDischarge	0.84950539779
+Le Sueur River	minimumDischarge	0.0453069545488
+Watonwan River	minimumDischarge	0.0509703238674
+River Wylye	minimumDischarge	0.1
+Jijia River (Prut)	minimumDischarge	0.14
+Petaluma River	minimumDischarge	0.0
+Kelsey Creek	minimumDischarge	0.0538020085267
+Larrys Creek	minimumDischarge	0.2491882500184
+Carbon River	minimumDischarge	0.906139090976
+Esopus Creek	minimumDischarge	0.1585743409208
+White Deer Hole Creek	minimumDischarge	0.934455937569
+River Ock	minimumDischarge	0.11
+Nacimiento River	minimumDischarge	0.0
+Santa Maria River (California)	minimumDischarge	0.0
+San Luis Rey River	minimumDischarge	0.0
+Kaweah River	minimumDischarge	0.56633693186
+Cache Creek (Sacramento River)	minimumDischarge	0.0
+Cispus River	minimumDischarge	4.672279687845
+Calaveras River	minimumDischarge	0.0
+Pajaro River	minimumDischarge	0.0
+Whitewater River (California)	minimumDischarge	0.0
+San Jacinto River (California)	minimumDischarge	0.0
+Sweetwater River (California)	minimumDischarge	0.0
+Mad River (California)	minimumDischarge	0.481386392081
+Mattole River	minimumDischarge	0.311485312523
+Redwood Creek (Humboldt County)	minimumDischarge	0.0594653778453
+Chowchilla River	minimumDischarge	0.0
+Piru Creek	minimumDischarge	0.0
+Baker River (Washington)	minimumDischarge	0.84950539779
+Samish River	minimumDischarge	0.424752698895
+Putah Creek	minimumDischarge	0.0
+Symmes Creek	minimumDischarge	0.028316846593
+Fishkill Creek	minimumDischarge	0.0311485312523
+Tuckasegee River	minimumDischarge	0.877822244383
+Bear Creek (Rogue River)	minimumDischarge	0.0056633693186
+Georgina River	minimumDischarge	0.0
+Rio Chama (Rio Grande)	minimumDischarge	0.0339802159116
+North Saskatchewan River	minimumDischarge	19.0
+Thames River (Ontario)	minimumDischarge	8.25
+San Juan River (Tamaulipas)	minimumDischarge	0.0
+Donner und Blitzen River	minimumDischarge	0.1189307556906
+Russian River (California)	minimumDischarge	0.02123763494475
+Provo River	minimumDischarge	0.0
+Abiqua Creek	minimumDischarge	0.0
+Crab Creek	minimumDischarge	0.28316846593
+Straight River (southern Minnesota)	minimumDischarge	0.28316846593
+Imnaha River	minimumDischarge	0.453069545488
+Lochsa River	minimumDischarge	2.8316846593
+Sopchoppy River	minimumDischarge	1.8
+Kettle River (Columbia River)	minimumDischarge	1.98217926151
+Quinebaug River	minimumDischarge	1.13267386372
+Rio Puerco (Rio Grande)	minimumDischarge	0.0
+Umatilla River	minimumDischarge	0.0
+Sandy Creek (Ohio)	minimumDischarge	0.1953862414917
+Applegate River	minimumDischarge	0.02208714034254
+Middle Fork River	minimumDischarge	0.0056633693186
+Huff Run	minimumDischarge	0.1189307556906
+Wheeling Creek (Ohio)	minimumDischarge	0.198217926151
+Wheeling Creek (West Virginia)	minimumDischarge	0.0028316846593
+Issaquah Creek	minimumDischarge	0.1755644488766
+Johnson Creek (Willamette River)	minimumDischarge	0.28316846593
+Entiat River	minimumDischarge	1.642377102394
+Raging River	minimumDischarge	0.1245941250092
+American River (Washington)	minimumDischarge	0.424752698895
+Big Wood River	minimumDischarge	0.0
+Malad River	minimumDischarge	0.0
+Lemhi River	minimumDischarge	0.02123763494475
+Pahsimeroi River	minimumDischarge	2.463565653591
+Sol Duc River	minimumDischarge	6.059805170902
+Canoe River (British Columbia)	minimumDischarge	0.991
+Spillimacheen River	minimumDischarge	2.0
+Yaak River	minimumDischarge	1.387525483057
+Moyie River	minimumDischarge	0.651287471639
+Fisher River (Montana)	minimumDischarge	0.991089630755
+Crooked River (Oregon)	minimumDischarge	18.575851365008
+Chiwawa River	minimumDischarge	1.274258096685
+Cottonwood River (Minnesota)	minimumDischarge	0.0141584232965
+Little Cottonwood River	minimumDischarge	0.0028316846593
+Tryon Creek	minimumDischarge	0.00254851619337
+Shoshone River	minimumDischarge	1.670693948987
+Pomme de Terre River (Minnesota)	minimumDischarge	0.0
+Middle Fork Willamette River	minimumDischarge	10.363965853038
+Yellow Bank River	minimumDischarge	0.0
+Long Prairie River	minimumDischarge	0.02378615113812
+Valley Creek	minimumDischarge	0.2576833039963
+Straight River (central Minnesota)	minimumDischarge	0.594653778453
+Adăşeni River	minimumDischarge	0.0
+Chirivoaia River	minimumDischarge	0.0
+Bahna River (Mihăileni)	minimumDischarge	0.0
+Bahna River (Lozna)	minimumDischarge	0.0010
+Bâsca Roziliei River	minimumDischarge	1.72
+Desaguadero River (Bolivia)	minimumDischarge	28.0
+Chelan River	minimumDischarge	0.0
+Calfpasture River	minimumDischarge	0.0
+Avrămeni River	minimumDischarge	0.0020
+Valea Boului River (Başeu)	minimumDischarge	0.0
+Valea Bulgăriilor River	minimumDischarge	0.0020
+Valea Ciolpanilor River	minimumDischarge	0.0
+Podriga River	minimumDischarge	0.015
+Valea Iazurilor River	minimumDischarge	0.0
+Valea lui Hurjui River	minimumDischarge	0.0
+Burla River (Romania)	minimumDischarge	0.0020
+Valea Satului River (Jijia)	minimumDischarge	0.0
+Puturosu River (Burla)	minimumDischarge	0.0
+La Odaie River	minimumDischarge	0.0
+Homochitto River	minimumDischarge	3.482972130939
+San Juan Creek	minimumDischarge	0.0
+Valea Rea River (Miletin)	minimumDischarge	0.0
+Miletin River	minimumDischarge	0.0060
+Bahluiul Mic River	minimumDischarge	0.0
+Rio Salado (Mexico)	minimumDischarge	0.0
+Valea Poienilor River (Siret)	minimumDischarge	0.0
+Gârla Sireţel	minimumDischarge	0.0
+Recea River (Miletin)	minimumDischarge	0.0
+Păiuşeni River	minimumDischarge	0.0
+Pârâul Întors	minimumDischarge	0.0
+Buhai River	minimumDischarge	0.0030
+Bahna River (Jijia)	minimumDischarge	0.0
+Bear River (Feather River)	minimumDischarge	0.0
+Pârâul lui Martin (Jijia)	minimumDischarge	0.0010
+Pârâul lui Vasile	minimumDischarge	0.0
+Pârâul Mare (Miletin)	minimumDischarge	0.0
+Prisaca River (Miletin)	minimumDischarge	0.0
+Horoghiuca River	minimumDischarge	0.0
+Râul Putred	minimumDischarge	0.0010
+Varniţa River (Jijia)	minimumDischarge	0.0040
+Scânteia River	minimumDischarge	0.0020
+Robu River	minimumDischarge	0.0
+Părul River	minimumDischarge	0.0
+Păstoaia River	minimumDischarge	0.0
+Volovăţ River (Prut)	minimumDischarge	0.0010
+River Horner	minimumDischarge	0.02
+Pişcov River	minimumDischarge	0.0
+Podul Popii River	minimumDischarge	0.0
+Balinţi River	minimumDischarge	0.0020
+Bodeasa River	minimumDischarge	0.0020
+Başeu River	minimumDischarge	0.06
+Pleşu River (Siret)	minimumDischarge	0.0
+Turbata River (Tudora)	minimumDischarge	0.0
+Poiana River (Prut)	minimumDischarge	0.0
+Herţa River	minimumDischarge	0.0
+Poiana River (Siret)	minimumDischarge	0.0
+Sihăstria River (Vorona)	minimumDischarge	0.0
+Vorona River (Romania)	minimumDischarge	0.0
+Molniţa River	minimumDischarge	0.0
+Vlădeni River	minimumDischarge	0.0
+Gârla Huţanilor	minimumDischarge	0.0020
+Ponoara River	minimumDischarge	0.0020
+Surina River	minimumDischarge	0.0
+Rănghileşti River	minimumDischarge	0.0010
+Iazul lui Iancu River	minimumDischarge	0.0010
+Corogea River	minimumDischarge	0.0020
+Gard River (Jijia)	minimumDischarge	0.0
+Popoaia River	minimumDischarge	0.0
+Ursoiu River (Başeu)	minimumDischarge	0.0
+Răchita River (Başeu)	minimumDischarge	0.0
+Sărata River (Başeu)	minimumDischarge	0.0020
+Ciolac River	minimumDischarge	0.0020
+Glodul Alb River	minimumDischarge	0.0
+Izvoarele River (Başeu)	minimumDischarge	0.0
+Lişmăniţa River	minimumDischarge	0.0020
+Porcăreasa River	minimumDischarge	0.0010
+Morişca River	minimumDischarge	0.0040
+Cotârgaci River	minimumDischarge	0.0040
+Siliştea River (Sitna)	minimumDischarge	0.0010
+Iazul Lipovanului River	minimumDischarge	0.0
+Row River	minimumDischarge	0.0056633693186
+Putreda River (Jijia)	minimumDischarge	0.0020
+Mihăiaşa River	minimumDischarge	0.0010
+La Iazul cel Mare River	minimumDischarge	0.0
+Ibăneasa River	minimumDischarge	0.015
+Răchita River (Volovăţ)	minimumDischarge	0.0
+Zoitani River	minimumDischarge	0.0
+Rădăuţi River	minimumDischarge	0.0010
+Corneşti River (Prut)	minimumDischarge	0.0
+Isnovăţ River	minimumDischarge	0.0
+Ghireni River	minimumDischarge	0.0030
+Badu River	minimumDischarge	0.0
+Berza Veche River	minimumDischarge	0.0010
+Aliso Creek (Orange County)	minimumDischarge	0.0
+Juanita Creek	minimumDischarge	0.01727327642173
+Myjava (river)	minimumDischarge	0.2
+Sitna River	minimumDischarge	0.0
+Dolina River (Brăeşti)	minimumDischarge	0.0
+Dolina River (Suliţa)	minimumDischarge	0.0
+Curmătura River (Sitna)	minimumDischarge	0.0
+Dresleuca River	minimumDischarge	0.0060
+Băiceni River	minimumDischarge	0.0
+Teaşcu River	minimumDischarge	0.0010
+Ionaşcu River	minimumDischarge	0.0
+Gornet River	minimumDischarge	0.0
+Zlătunoaia River	minimumDischarge	0.0
+Cozancea River	minimumDischarge	0.0
+Luizoaia River	minimumDischarge	0.0050
+Urechioiu River	minimumDischarge	0.0020
+Burduja River	minimumDischarge	0.0010
+South Fork Kern River	minimumDischarge	0.113267386372
+Buzunosu River	minimumDischarge	0.0
+Drâslea River	minimumDischarge	0.0010
+Ciornohal River	minimumDischarge	0.0010
+Glăvăneşti River	minimumDischarge	0.0
+Gotcoaia River	minimumDischarge	0.0010
+Chişcata River	minimumDischarge	0.0
+Crăcălia River	minimumDischarge	0.0
+Ghiţălăria River	minimumDischarge	0.0
+Găinăria River	minimumDischarge	0.0010
+Guranda River	minimumDischarge	0.0020
+Săvescu River	minimumDischarge	0.0
+Tinca River	minimumDischarge	0.0
+Lunca River (Jijia)	minimumDischarge	0.0
+Bezerc River	minimumDischarge	0.0020
+Tălpeni River	minimumDischarge	0.0
+Bybrook River	minimumDischarge	0.14016839063535
+Gales Creek (Oregon)	minimumDischarge	53.23567159484
+Ghilăuca River (Ibăneasa)	minimumDischarge	0.0
+Tricova River	minimumDischarge	0.0010
+Griviţa River	minimumDischarge	0.0
+Ghilăuca River (Putreda)	minimumDischarge	0.0010
+Ghilea River	minimumDischarge	0.0
+Dintievici River	minimumDischarge	0.0
+Canapiştea River	minimumDischarge	0.0010
+Vorniceasa River	minimumDischarge	0.0
+Iazul lui Stavri River	minimumDischarge	0.0
+Cordun River	minimumDischarge	0.0
+Maranda River	minimumDischarge	0.0
+Baranca River (Herţa)	minimumDischarge	0.0
+Rush Creek (Mono County, California)	minimumDischarge	0.4700596534438
+Duncan River	minimumDischarge	12.8
+Granby River	minimumDischarge	0.227
+Manada Creek	minimumDischarge	0.226534772744
+Fanno Creek	minimumDischarge	0.028316846593
+Balch Creek	minimumDischarge	0.0
+Columbia Slough	minimumDischarge	-189.7228721731
+River Ray, Wiltshire	minimumDischarge	0.26
+Beaver River (Columbia River)	minimumDischarge	2.08
+Incomappleux River	minimumDischarge	4.76
+Blaeberry River	minimumDischarge	1.06
+River Wey	minimumDischarge	1.3
+Santiago Creek	minimumDischarge	0.0
+Hylebos Creek	minimumDischarge	0.0991089630755
+Oak Grove Fork Clackamas River	minimumDischarge	3.624556363904
+Pasayten River	minimumDischarge	0.28
+Tulameen River	minimumDischarge	0.78
+Salmo River	minimumDischarge	1.64
+West Kettle River	minimumDischarge	0.991
+Slocan River	minimumDischarge	8.5
+Bull River (British Columbia)	minimumDischarge	0.82
+Suiattle River	minimumDischarge	12.17624403499
+Pilchuck River	minimumDischarge	1.019406477348
+Chewuch River	minimumDischarge	0.56633693186
+North Fork John Day River	minimumDischarge	0.169901079558
+Matilija Creek	minimumDischarge	8.4950539779E-4
+Bicol River	minimumDischarge	123.0
+Jalaur River	minimumDischarge	30.42
+Goldstream River (Columbia River)	minimumDischarge	0.7
+Lysakerelven	minimumDischarge	0.5
+Beaton Creek	minimumDischarge	0.498
+Bridge Creek (John Day River)	minimumDischarge	0.00424752698895
+River Mole, Devon	minimumDischarge	0.2
+Gull River (Balsam Lake)	minimumDischarge	12.0
+Trabuco Creek	minimumDischarge	0.0
+Middle Fork John Day River	minimumDischarge	0.0254851619337
+Dairy Creek (Oregon)	minimumDischarge	0.1953862414917
+Fairview Creek	minimumDischarge	0.00679604318232
+San Diego Creek	minimumDischarge	0.0
+Zarqa River	minimumDischarge	2.0
+Sultan River	minimumDischarge	4.445744915101
+Ochoco Creek	minimumDischarge	0.028316846593
+Miller River	minimumDischarge	0.509703238674
+Mashel River	minimumDischarge	0.1160990710313
+Wu River (Yangtze River tributary)	minimumDischarge	272.0
+Boeing Creek	minimumDischarge	0.03001585738858
+Swamp Creek (Washington)	minimumDischarge	0.0792871704604
+North Yuba River	minimumDischarge	1.69901079558
+Big Spring (Missouri)	minimumDischarge	6.682775795948
+Stewart River	minimumDischarge	52.0
+Course of the Rogue River (Oregon)	minimumDischarge	17.216642728544
+Naselle River	minimumDischarge	0.509703238674
+Sulphur Creek (California)	minimumDischarge	0.0
+Elk Creek (Rogue River)	minimumDischarge	2.8316846593E-4
+South Fork Rogue River	minimumDischarge	0.0
+Coyote Creek (San Gabriel River)	minimumDischarge	0.679604318232
+Grave Creek (Oregon)	minimumDischarge	0.028316846593
+Bell Canyon	minimumDischarge	0.0
+American River	minimumDischarge	6.088122017495
+South Fork Eel River	minimumDischarge	0.28316846593
+Satsop River	minimumDischarge	4.162576449171
+Alamito Creek	minimumDischarge	0.0
+Terlingua Creek	minimumDischarge	0.0
+Latah Creek	minimumDischarge	0.28316846593
+Calawah River	minimumDischarge	0.424752698895
+Tye River (Washington)	minimumDischarge	1.41584232965
+South Fork Trinity River	minimumDischarge	0.991089630755
+Mad River (Washington)	minimumDischarge	0.254851619337
+Beckler River	minimumDischarge	1.444159176243
+North Fork Clearwater River	minimumDischarge	22.625160427807
+Icicle Creek	minimumDischarge	1.245941250092
+Rex River	minimumDischarge	0.084950539779
+North Fork Flathead River	minimumDischarge	5.38020085267
+Middle Fork Flathead River	minimumDischarge	5.351884006077
+Pysht River	minimumDischarge	0.0651287471639
+San Mateo Creek (Southern California)	minimumDischarge	0.0
+Little Butte Creek (Rogue River)	minimumDischarge	0.1642377102394
+Salmon Falls Creek	minimumDischarge	0.0
+Jiloca (river)	minimumDischarge	1.6
+River Boyd	minimumDischarge	0.00991089630755
+San Dieguito River	minimumDischarge	0.0
+Sand Canyon Wash	minimumDischarge	0.0
+Little Sandy River (Oregon)	minimumDischarge	0.226534772744
+South Fork Bull Run River	minimumDischarge	0.1529109716022
+Tetbury Avon	minimumDischarge	0.028316846593
+Woodbridge Brook	minimumDischarge	0.0
+Puerco River	minimumDischarge	0.0
+North Fork Bull Run River	minimumDischarge	0.2435248806998
+Potlatch River	minimumDischarge	2.123763494475
+Big Butte Creek	minimumDischarge	0.1812278181952
+Gatwick Stream	minimumDischarge	0.12
+Chong-Kemin River	minimumDischarge	7.18
+Ysyk-Ata River	minimumDischarge	1.6
+Battle Creek (California)	minimumDischarge	2.888318352486
+Blazed Alder Creek	minimumDischarge	0.028316846593
+Nura River	minimumDischarge	0.0
+Fir Creek (Bull Run River)	minimumDischarge	0.0396435852302
+Montmorency River	minimumDischarge	2.2
+Little Cottonwood Creek	minimumDischarge	2.803367812707
+Big Cottonwood Creek	minimumDischarge	0.141584232965
+Red Butte Creek	minimumDischarge	0.056633693186
+Middle Fork Eel River	minimumDischarge	0.01104357017127
+City Creek (California)	minimumDischarge	0.0736238011418
+Patroon Creek	minimumDischarge	0.27778826507733
+Rio Alamo	minimumDischarge	0.0
+Rio Escondido (Coahuila)	minimumDischarge	0.0
+Rio San Rodrigo	minimumDischarge	0.0
+Jemez River	minimumDischarge	0.0
+Rio Pueblo de Taos	minimumDischarge	2.8316846593E-4
+Sajur River	minimumDischarge	1.4
+Santa Anita Creek	minimumDischarge	0.0
+Cow Creek (South Umpqua River)	minimumDischarge	0.2095446647882
+Jordan Creek (Owyhee River)	minimumDischarge	0.0339802159116
+Willow Creek (Columbia River)	minimumDischarge	0.0
+Bully Creek (Malheur River)	minimumDischarge	0.0
+South Fork Coquille River	minimumDischarge	0.2038812954696
+Cow Creek (Jordan Creek)	minimumDischarge	0.028316846593
+North Fork American River	minimumDischarge	1.444159176243
+North Fork Payette River	minimumDischarge	1.019406477348
+Shule River	minimumDischarge	0.0
+White River (California)	minimumDischarge	0.0
+Pawnee River	minimumDischarge	0.0
+Big Lost River	minimumDischarge	0.0
+Little Lost River	minimumDischarge	0.084950539779
+Chino Creek	minimumDischarge	0.0
+North Fork Kings River	minimumDischarge	0.1812278181952
+Hayfork Creek	minimumDischarge	0.538020085267
+North Fork Trinity River	minimumDischarge	0.2123763494475
+South Fork Kings River	minimumDischarge	1.7584761734253
+Lee Vining Creek	minimumDischarge	0.24550705996131
+Big Tujunga Creek	minimumDischarge	0.00821188551197
+Copper Creek (California)	minimumDischarge	0.4587329148066
+Green River (North Fork Toutle River)	minimumDischarge	0.9684361534806
+Big Sandy Creek (Cheat River)	minimumDischarge	0.1160990710313
+Rock Creek (Clear Creek)	minimumDischarge	0.2775050966114
+Rock Creek (Medicine Bow River)	minimumDischarge	0.2775050966114
+Thompson River (Missouri)	minimumDischarge	0.028316846593
+Pistol River	minimumDischarge	0.028316846593
+Millicoma River	minimumDischarge	0.028316846593
+East Fork Millicoma River	minimumDischarge	0.028316846593
+West Fork Millicoma River	minimumDischarge	0.028316846593
+South Fork Coos River	minimumDischarge	0.028316846593
+Williams River (Oregon)	minimumDischarge	0.028316846593
+Sachigo River	minimumDischarge	104.7
+Loire (river)	minimumDischarge	60.0
+Winchuck River	minimumDischarge	0.0
+Arroyo Seco (Salinas River)	minimumDischarge	0.0
+San Antonio Creek (San Bernardino County)	minimumDischarge	0.0
+New Fork River	minimumDischarge	2.54851619337
+Ohanapecosh River	minimumDischarge	1.642377102394

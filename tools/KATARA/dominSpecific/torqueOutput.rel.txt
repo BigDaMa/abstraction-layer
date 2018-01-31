@@ -1,0 +1,8 @@
+Ford Boss 302 engine	torqueOutput	393.187205016106
+Lamborghini V8	torqueOutput	273.0
+Mercedes-Benz M104 engine	torqueOutput	265.0
+Nissan S20 engine	torqueOutput	180.0
+G60	torqueOutput	225.0
+Volkswagen air cooled engine  Volkswagen 1100 engine   1	torqueOutput	68.0
+Volkswagen air cooled engine  Volkswagen 1700 engine   1	torqueOutput	127.0
+IKCO EF Engines	torqueOutput	111.0

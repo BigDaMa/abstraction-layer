@@ -1,0 +1,98 @@
+Progress 1	crew	Salyut 6 EO-1
+Jules Verne ATV	crew	Expedition 16
+Jules Verne ATV	crew	Expedition 17
+Progress M-01M	crew	Expedition 18
+Progress M-65	crew	Expedition 17
+Progress M-65	crew	Expedition 18
+Progress M-66	crew	Expedition 18
+Progress M-66	crew	Expedition 19
+Progress M-64	crew	Expedition 17
+Progress M-02M	crew	Expedition 19
+Progress M-02M	crew	Expedition 20
+Kosmos 1669	crew	Salyut 7 EO-4
+Progress M-63	crew	Expedition 16
+Progress M-63	crew	Expedition 17
+Progress M-62	crew	Expedition 16
+Progress M-61	crew	Expedition 15
+Progress M-61	crew	Expedition 16
+Progress M-60	crew	Expedition 15
+Progress M-59	crew	Expedition 14
+Progress M-59	crew	Expedition 15
+Progress M-58	crew	Expedition 14
+Progress M-57	crew	Expedition 13
+Progress M-57	crew	Expedition 14
+Progress M-56	crew	Expedition 13
+Progress M-55	crew	Expedition 12
+Progress M-55	crew	Expedition 13
+Progress M-54	crew	Expedition 11
+Progress M-54	crew	Expedition 12
+Progress M-53	crew	Expedition 11
+Progress M-52	crew	Expedition 10
+Progress M-52	crew	Expedition 11
+Progress M-51	crew	Expedition 10
+Progress M-50	crew	Expedition 9
+Progress M-50	crew	Expedition 10
+Progress M-49	crew	Expedition 9
+Progress M-48	crew	Expedition 8
+Progress M-48	crew	Expedition 9
+Progress M-47	crew	Expedition 6
+Progress M-47	crew	Expedition 7
+Progress M-46	crew	Expedition 5
+Progress M-44	crew	Expedition 4
+Progress M-45	crew	Expedition 3
+Progress M1-11	crew	Expedition 8
+Progress M1-11	crew	Expedition 9
+Progress M1-10	crew	Expedition 7
+Progress M1-9	crew	Expedition 5
+Progress M1-9	crew	Expedition 6
+Progress M1-8	crew	Expedition 4
+Progress M1-8	crew	Expedition 5
+Progress M1-7	crew	Expedition 3
+Progress M1-7	crew	Expedition 4
+Progress M1-6	crew	Expedition 2
+Progress M1-6	crew	Expedition 3
+Progress M1-4	crew	Expedition 1
+Progress M1-3	crew	STS-106
+Progress M1-3	crew	STS-92
+Progress M-SO1	crew	Expedition 3
+Progress M-67	crew	Expedition 20
+Progress M1-1	crew	Soyuz TM-30
+Progress M1-2	crew	Soyuz TM-30
+HTV-1	crew	Expedition 20
+HTV-1	crew	Expedition 21
+Progress M-1	crew	Mir EO-5
+Progress M-2	crew	Mir EO-5
+Progress M-3	crew	Mir EO-6
+Progress M-4	crew	Mir EO-7
+Progress M-5	crew	Mir EO-7
+Progress M-6	crew	Mir EO-8
+Progress M-7	crew	Mir EO-8
+Progress M-8	crew	Mir EO-9
+Progress M-9	crew	Mir EO-9
+Progress M-10	crew	Mir EO-10
+Progress M-11	crew	Mir EO-10
+Progress M-12	crew	Mir EO-11
+Progress M-13	crew	Mir EO-11
+Progress M-15	crew	Mir EO-12
+Progress M-15	crew	Mir EO-13
+Progress M-16	crew	Mir EO-13
+Progress M-17	crew	Mir EO-13
+Progress M-17	crew	Mir EO-14
+Progress M-18	crew	Mir EO-13
+Progress M-03M	crew	Expedition 21
+Progress M-MIM2	crew	Expedition 21
+Progress M-04M	crew	Expedition 22
+Progress M-04M	crew	Expedition 23
+Progress M-05M	crew	Expedition 23
+Progress M-06M	crew	Expedition 24
+Progress M-07M	crew	Expedition 24
+Progress M-07M	crew	Expedition 25
+Progress M-07M	crew	Expedition 26
+Progress 2	crew	Salyut 6 EO-2
+Progress M-08M	crew	Expedition 25
+Progress M-08M	crew	Expedition 26
+Progress M-09M	crew	Expedition 26
+Progress M-09M	crew	Expedition 27
+Progress M-10M	crew	Expedition 27
+Progress M-10M	crew	Expedition 28
+Progress M-11M	crew	Expedition 28

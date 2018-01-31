@@ -1,0 +1,234 @@
+American Airlines	alliance	Oneworld
+British Airways	alliance	Oneworld
+KLM	alliance	SkyTeam
+Qantas	alliance	Oneworld
+United Airlines	alliance	Star Alliance
+Delta Air Lines	alliance	SkyTeam
+America West Airlines	alliance	Star Alliance
+Avianca	alliance	Star Alliance
+Aeroméxico	alliance	SkyTeam
+Aerolíneas Argentinas	alliance	SkyTeam
+LOT Polish Airlines	alliance	Star Alliance
+Aeroflot	alliance	SkyTeam
+Lufthansa	alliance	Star Alliance
+Mexicana de Aviación	alliance	Oneworld
+Iberia (airline)	alliance	Oneworld
+Saudi Arabian Airlines	alliance	SkyTeam
+South African Airways	alliance	Star Alliance
+Royal Jordanian	alliance	Oneworld
+Continental Airlines	alliance	Star Alliance
+China Airlines	alliance	SkyTeam
+Air New Zealand	alliance	Star Alliance
+Finnair	alliance	Oneworld
+Kenya Airways	alliance	SkyTeam
+Air Canada	alliance	Star Alliance
+Northwest Airlines	alliance	SkyTeam
+Croatia Airlines	alliance	Star Alliance
+Alitalia-Linee Aeree Italiane	alliance	SkyTeam
+Braathens	alliance	Wings Alliance
+Braathens	alliance	SAS Group
+Cathay Pacific	alliance	Oneworld
+Trans World Airlines	alliance	Oneworld
+Malaysia Airlines	alliance	Oneworld
+TAM Airlines	alliance	Star Alliance
+Singapore Airlines	alliance	Star Alliance
+Scandinavian Airlines	alliance	Star Alliance
+Swiss International Air Lines	alliance	Star Alliance
+Sabena	alliance	Qualiflyer
+Crossair	alliance	Qualiflyer
+Swissair	alliance	Qualiflyer
+TAROM	alliance	SkyTeam
+Freedom Air (New Zealand)	alliance	Star Alliance
+Turkish Airlines	alliance	Star Alliance
+Garuda Indonesia	alliance	SkyTeam
+Japan Airlines	alliance	Oneworld
+Austral Líneas Aéreas	alliance	SkyTeam
+Dragonair	alliance	Oneworld
+All Nippon Airways	alliance	Star Alliance
+Comair	alliance	SkyTeam
+Atlantic Southeast Airlines	alliance	SkyTeam
+Atlantic Southeast Airlines	alliance	Star Alliance
+CommutAir	alliance	Continental Airlines
+SkyWest Airlines	alliance	SkyTeam
+SkyWest Airlines	alliance	Star Alliance
+Pinnacle Airlines	alliance	SkyTeam
+Mesaba Airlines	alliance	SkyTeam
+Mesaba Airlines	alliance	Star Alliance
+American Eagle Airlines	alliance	Oneworld
+Air Wisconsin	alliance	Star Alliance
+United Express	alliance	Star Alliance
+Continental Express	alliance	Star Alliance
+Continental Micronesia	alliance	SkyTeam
+O'Connor Airlines	alliance	Oneworld
+America West Express	alliance	Star Alliance
+Ansett Australia	alliance	Star Alliance
+BMI (airline)	alliance	Star Alliance
+Canadian Airlines	alliance	Oneworld
+AmericanConnection	alliance	Oneworld
+US Airways	alliance	Star Alliance
+US Airways Express	alliance	Star Alliance
+BA Connect	alliance	Oneworld
+KLM Cityhopper	alliance	SkyTeam
+Piedmont Airlines	alliance	Star Alliance
+Air China	alliance	Star Alliance
+Copa Airlines	alliance	Star Alliance
+Corsairfly	alliance	TUI Airline Management
+Thai Airways International	alliance	Star Alliance
+Jazz Air	alliance	Star Alliance
+Adria Airways	alliance	Star Alliance
+Korean Air	alliance	SkyTeam
+EgyptAir	alliance	Star Alliance
+Asiana Airlines	alliance	Star Alliance
+Lauda Air	alliance	Star Alliance
+Czech Airlines	alliance	SkyTeam
+PSA Airlines	alliance	Star Alliance
+Aerosvit Airlines	alliance	Ukrainian Aviation Group
+Air Nippon	alliance	Star Alliance
+Tunisair	alliance	Arab Air Carriers Organization
+Indian (airline)	alliance	Star Alliance
+Vietnam Airlines	alliance	SkyTeam
+China Southern Airlines	alliance	SkyTeam
+Atlantic Coast Airlines	alliance	Star Alliance
+EVA Air	alliance	Star Alliance
+Ethiopian Airlines	alliance	Star Alliance
+Song (airline)	alliance	SkyTeam
+TACA Airlines	alliance	Star Alliance
+Lacsa	alliance	TACA Airlines
+LAN Airlines	alliance	Oneworld
+JALways	alliance	Oneworld
+Japan Asia Airways	alliance	Oneworld
+Mandarin Airlines	alliance	SkyTeam
+Spanair	alliance	Star Alliance
+Air Berlin	alliance	Oneworld
+Blue1	alliance	Star Alliance
+Malév Hungarian Airlines	alliance	Oneworld
+US Airways Shuttle	alliance	Star Alliance
+Air Europa	alliance	SkyTeam
+Kendell Airlines	alliance	Star Alliance
+J-Air	alliance	Oneworld
+China Eastern Airlines	alliance	SkyTeam
+Air Aruba	alliance	Aserca Airlines
+British Mediterranean Airways	alliance	Oneworld
+SCADTA	alliance	Pan American World Airways
+Trans States Airlines	alliance	Star Alliance
+Armenian Airlines	alliance	VG Airlines
+Shuttle America	alliance	SkyTeam
+Shuttle America	alliance	Star Alliance
+Middle East Airlines	alliance	SkyTeam
+S7 Airlines	alliance	Oneworld
+Tyrolean Airways	alliance	Star Alliance
+Air Burkina	alliance	Celestair
+Singapore Airlines Cargo	alliance	WOW Alliance
+JAL Express	alliance	Oneworld
+Shenzhen Airlines	alliance	Star Alliance
+Air Dolomiti	alliance	Star Alliance
+Air Nostrum	alliance	Oneworld
+Régional Compagnie Aérienne Européenne	alliance	SkyTeam
+Aeroméxico Connect	alliance	SkyTeam
+Luftfahrtgesellschaft Walter	alliance	Air Berlin
+National Airways Corporation	alliance	Air New Zealand
+Niki (airline)	alliance	Air Berlin
+Niki (airline)	alliance	Oneworld
+Xiamen Airlines	alliance	SkyTeam
+Eastern Provincial Airways	alliance	Canadian Pacific Air Lines
+Canada 3000	alliance	Royal Aviation
+Nicaragüense de Aviación	alliance	Star Alliance
+Aegean Airlines	alliance	Star Alliance
+Brit Air	alliance	SkyTeam
+AeroHonduras	alliance	Aeropostal Alas de Venezuela
+Air Arabia	alliance	Arab Air Carriers Organization
+Alitalia Express	alliance	SkyTeam
+Omskavia	alliance	AiRUnion
+Air Jamaica Express	alliance	Air Jamaica
+Air Nova	alliance	Star Alliance
+Sansa Airlines	alliance	Star Alliance
+South African Express	alliance	Star Alliance
+Ted (airline)	alliance	Star Alliance
+Samara Airlines	alliance	AiRUnion
+Comair (South Africa)	alliance	Oneworld
+Shanghai Airlines	alliance	SkyTeam
+Kingfisher Airlines	alliance	Oneworld
+Afra Airlines	alliance	CTK – CiTylinK
+Air Central	alliance	Star Alliance
+Sun Air of Scandinavia	alliance	Oneworld
+Contact Air	alliance	Star Alliance
+Eurowings	alliance	Star Alliance
+Lufthansa CityLine	alliance	Star Alliance
+Air Contractors	alliance	FedEx Express
+EuroLOT	alliance	Star Alliance
+Lufthansa Regional	alliance	Star Alliance
+Domodedovo Airlines	alliance	AiRUnion
+KrasAir	alliance	AiRUnion
+Executive Airlines	alliance	Oneworld
+TUIfly Nordic	alliance	TUI Airline Management
+Belair (airline)	alliance	Air Berlin
+Air Atlanta Europe	alliance	Air Atlanta Icelandic
+Air Atlanta Europe	alliance	Eimskipafélag Íslands
+LAN Perú	alliance	Oneworld
+QantasLink	alliance	Oneworld
+Cielos Airlines	alliance	Centurion Air Cargo
+LAN Ecuador	alliance	Oneworld
+Pantanal Linhas Aéreas	alliance	Star Alliance
+Air Mali (2005)	alliance	Celestair
+MexicanaClick	alliance	Oneworld
+Air Nelson	alliance	Star Alliance
+SAS Braathens	alliance	Star Alliance
+GoJet Airlines	alliance	Star Alliance
+Mount Cook Airline	alliance	Star Alliance
+Eagle Airways	alliance	Star Alliance
+Aeromexpress	alliance	SkyTeam Cargo
+Maersk Air UK	alliance	Oneworld
+TAM Airlines (Paraguay)	alliance	Star Alliance
+Centurion Air Cargo	alliance	Cielos Airlines
+RegionsAir	alliance	Oneworld
+RegionsAir	alliance	SkyTeam
+Eastern Australia Airlines	alliance	Oneworld
+Freedom Airlines	alliance	SkyTeam
+Sunstate Airlines	alliance	Oneworld
+Jetairfly	alliance	TUI Airline Management
+Austrian Airlines	alliance	Star Alliance
+Jetconnect	alliance	Oneworld
+Swiss European Air Lines	alliance	Star Alliance
+Brussels Airlines	alliance	Star Alliance
+Compass Airlines (North America)	alliance	SkyTeam
+US Helicopter	alliance	Delta Air Lines
+TUIfly	alliance	TUI Airline Management
+Arkefly	alliance	TUI Airline Management
+Delta Express	alliance	SkyTeam
+Airlink	alliance	Star Alliance
+LAN Argentina	alliance	Oneworld
+Avianca Cargo	alliance	TNT N.V.
+SAS Commuter	alliance	Star Alliance
+Norwegian Air Lines	alliance	Scandinavian Airlines
+Sierra National Airlines	alliance	Eagle Air (Sierra Leone)
+BA CityFlyer	alliance	Oneworld
+PAWA Dominicana	alliance	Aserca Airlines
+PAWA Dominicana	alliance	Santa Bárbara Airlines
+Caribintair	alliance	Caribair
+Aladia Airlines	alliance	TUI Airline Management
+Air Dominicana	alliance	Air Europa
+Northern Thunderbird Air	alliance	Central Mountain Air
+EgyptAir Express	alliance	Star Alliance
+Aeroflot-Cargo	alliance	SkyTeam Cargo
+BMI Regional	alliance	Star Alliance
+United p.s.	alliance	Star Alliance
+Air New Zealand Link	alliance	Star Alliance
+VietJet AirAsia	alliance	AirAsia
+Air France	alliance	SkyTeam
+Nevis Express	alliance	US Airways
+Air One CityLiner	alliance	SkyTeam
+Aeroméxico Travel	alliance	SkyTeam
+Globus (airline)	alliance	Oneworld
+Lufthansa Italia	alliance	Star Alliance
+MexicanaLink	alliance	Oneworld
+Alitalia	alliance	SkyTeam
+LANCO	alliance	LAN Cargo
+LANCO	alliance	LAN Airlines
+TAP Portugal	alliance	Star Alliance
+Aeromak	alliance	Jat Airways
+Varig	alliance	Star Alliance
+Aerochaco	alliance	Aerolíneas Argentinas
+Aerochaco	alliance	Austral Líneas Aéreas
+Air India	alliance	Star Alliance
+Copa Airlines Colombia	alliance	Star Alliance
+Sky Regional Airlines	alliance	Star Alliance

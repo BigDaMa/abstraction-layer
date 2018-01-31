@@ -1,0 +1,523 @@
+Catherine Coleman	timeInSpace	1.55664E7
+Harrison Schmitt  Harrison Hagan "Jack" Schmitt   1	timeInSpace	1086720.0
+Neil Armstrong	timeInSpace	742320.0
+Neil Armstrong	timeInSpace	31.0
+Space Shuttle Columbia	timeInSpace	2.592E7
+Space Shuttle Discovery	timeInSpace	3.1582414E7
+Space Shuttle Challenger	timeInSpace	5356800.0
+Space Shuttle Atlantis	timeInSpace	2.6489563E7
+Space Shuttle Endeavour	timeInSpace	2.5586315E7
+Tamara E. Jernigan	timeInSpace	5448240.0
+Yuri Gagarin	timeInSpace	6480.0
+Edward Higgins White	timeInSpace	352560.0
+Gus Grissom	timeInSpace	18420.0
+Toktar Aubakirov	timeInSpace	684720.0
+John Glenn  John Herschel Glenn Jr.   1	timeInSpace	787140.0
+Sonny Carter	timeInSpace	432360.0
+Alan Shepard	timeInSpace	777600.0
+Alan Shepard	timeInSpace	3420.0
+Vladimir Komarov	timeInSpace	183840.0
+Buzz Aldrin	timeInSpace	1040400.0
+Buzz Aldrin	timeInSpace	3120.0
+Roberta Bondar	timeInSpace	697440.0
+Chris Hadfield	timeInSpace	1735320.0
+Frank Borman	timeInSpace	1719300.0
+Loren Acton	timeInSpace	686700.0
+William Anders	timeInSpace	529200.0
+Sally Ride	timeInSpace	1237560.0
+Michael Collins (astronaut)	timeInSpace	957840.0
+Alan Bean	timeInSpace	6018300.0
+Ilan Ramon	timeInSpace	1376400.0
+Kalpana Chawla	timeInSpace	2732040.0
+Rick Husband	timeInSpace	2223180.0
+William Cameron McCool	timeInSpace	1376400.0
+David McDowell Brown	timeInSpace	1376400.0
+Laurel Clark	timeInSpace	1376400.0
+Michael P. Anderson	timeInSpace	2138880.0
+Ronald McNair	timeInSpace	688500.0
+Ellison Onizuka	timeInSpace	264780.0
+Dick Scobee	timeInSpace	603600.0
+Ulf Merbold	timeInSpace	4311360.0
+Sigmund Jähn	timeInSpace	679740.0
+Marc Garneau	timeInSpace	2512860.0
+Ulrich Walter	timeInSpace	862800.0
+Pete Conrad	timeInSpace	4246680.0
+Svetlana Savitskaya	timeInSpace	1703160.0
+Valentina Tereshkova	timeInSpace	255000.0
+Gherman Titov	timeInSpace	91080.0
+Andriyan Nikolayev	timeInSpace	1869600.0
+Valery Bykovsky	timeInSpace	1792080.0
+Pavel Popovich	timeInSpace	255420.0
+Pavel Popovich	timeInSpace	1614420.0
+Konstantin Feoktistov	timeInSpace	87420.0
+Boris Yegorov	timeInSpace	87420.0
+Pavel Belyayev	timeInSpace	93720.0
+Alexey Leonov	timeInSpace	606720.0
+Georgy Beregovoy	timeInSpace	341400.0
+Vladimir Shatalov	timeInSpace	856500.0
+Boris Volynov	timeInSpace	4519020.0
+Yevgeny Khrunov	timeInSpace	171900.0
+Aleksei Yeliseyev	timeInSpace	771600.0
+Valeri Kubasov	timeInSpace	1619820.0
+Georgy Shonin	timeInSpace	427320.0
+Anatoly Filipchenko	timeInSpace	939780.0
+Viktor Gorbatko	timeInSpace	2638020.0
+Vladislav Volkov	timeInSpace	2480460.0
+Vitaly Sevastyanov	timeInSpace	6970680.0
+Nikolai Rukavishnikov	timeInSpace	853740.0
+Georgy Dobrovolsky	timeInSpace	2053260.0
+Viktor Patsayev	timeInSpace	2053260.0
+Mae Jemison	timeInSpace	685823.0
+Oleg Grigoryevich Makarov	timeInSpace	1790400.0
+Richard Garriott    1	timeInSpace	1024500.0
+Hermes (spacecraft)	timeInSpace	7776000.0
+Eugene Cernan	timeInSpace	2038500.0
+John Young (astronaut)	timeInSpace	3008340.0
+Edgar Mitchell	timeInSpace	777660.0
+Judith Resnik	timeInSpace	521760.0
+John Casper	timeInSpace	2973120.0
+Dumitru Prunariu	timeInSpace	679320.0
+Jerome Apt	timeInSpace	3049800.0
+James Irwin	timeInSpace	1062720.0
+Joe F. Edwards, Jr.	timeInSpace	762480.0
+David Scott	timeInSpace	1968780.0
+Charles Duke	timeInSpace	957060.0
+Scott Carpenter	timeInSpace	17760.0
+Deke Slayton	timeInSpace	782880.0
+Wally Schirra	timeInSpace	1062720.0
+Gordon Cooper	timeInSpace	799200.0
+Rusty Schweickart	timeInSpace	867600.0
+Eileen Collins	timeInSpace	3312600.0
+Stuart Roosa	timeInSpace	777660.0
+Yang Liwei	timeInSpace	76965.0
+Vasily Lazarev	timeInSpace	170100.0
+Jim Lovell	timeInSpace	2574180.0
+Taylor Wang	timeInSpace	605280.0
+Pyotr Klimuk	timeInSpace	6805020.0
+Valentin Lebedev	timeInSpace	1.894314E7
+Julie Payette	timeInSpace	2203080.0
+Yury Artyukhin	timeInSpace	1359000.0
+Lev Dyomin	timeInSpace	173520.0
+Gennadi Sarafanov	timeInSpace	173520.0
+Georgy Grechko	timeInSpace	1.165152E7
+Aleksei Gubarev	timeInSpace	3238560.0
+Reinhard Furrer	timeInSpace	607440.0
+Rakesh Sharma	timeInSpace	682800.0
+Bill Nelson  Clarence William "Bill" Nelson   1	timeInSpace	525780.0
+Jack Swigert	timeInSpace	514456.0
+Fred Haise	timeInSpace	514440.0
+Naoko Yamazaki	timeInSpace	1306020.0
+Andy Thomas	timeInSpace	1.532604E7
+Story Musgrave	timeInSpace	4614900.0
+Vitaly Zholobov	timeInSpace	4256580.0
+Robert Thirsk	timeInSpace	1.769214E7
+Vladimir Dzhanibekov	timeInSpace	1.258536E7
+Dennis Tito	timeInSpace	684240.0
+Talgat Musabayev	timeInSpace	2.949768E7
+Yuri Malenchenko	timeInSpace	4.445274E7
+Barbara Morgan	timeInSpace	1101180.0
+Yuri Baturin	timeInSpace	1705440.0
+Robert Crippen	timeInSpace	2036760.0
+Guion Bluford	timeInSpace	2478780.0
+Claudie Haigneré	timeInSpace	2211720.0
+Mirosław Hermaszewski	timeInSpace	684120.0
+Thomas Akers	timeInSpace	2933040.0
+Scott Altman	timeInSpace	3337920.0
+Ed Lu	timeInSpace	1.779588E7
+Michael Foale	timeInSpace	3.229308E7
+Aleksandr Kaleri	timeInSpace	6.646542E7
+Pedro Duque	timeInSpace	1622760.0
+Nikolai Budarin	timeInSpace	3.83667E7
+Ken Bowersox	timeInSpace	1.828152E7
+Donald Pettit	timeInSpace	1.5284655E7
+Jim Wetherbee	timeInSpace	5739780.0
+Paul Lockhart	timeInSpace	2388180.0
+Michael López-Alegría	timeInSpace	2.228676E7
+John Herrington	timeInSpace	1190820.0
+Sergei Zalyotin	timeInSpace	1.7458776E8
+Yury Lonchakov	timeInSpace	1795140.0
+Sandra Magnus	timeInSpace	1.359612E7
+Piers Sellers	timeInSpace	3056520.0
+Pamela Melroy	timeInSpace	3355440.0
+Jeffrey Ashby	timeInSpace	2391540.0
+David Wolf (astronaut)	timeInSpace	1.454742E7
+Kenneth Cockrell	timeInSpace	5574300.0
+Franklin Chang-Diaz	timeInSpace	5768160.0
+Peggy Whitson	timeInSpace	3.254892E7
+Michael J. Bloomfield	timeInSpace	2804520.0
+Stephen Frick	timeInSpace	2037840.0
+Abdul Ahad Mohmand	timeInSpace	764760.0
+Jerry L. Ross	timeInSpace	5014320.0
+Dominic L. Pudwill Gorie	timeInSpace	4233960.0
+Janet L. Kavandi	timeInSpace	2923680.0
+Janice E. Voss	timeInSpace	4247340.0
+James D. Halsell	timeInSpace	4530840.0
+Scott J. Horowitz	timeInSpace	4099260.0
+Terrence W. Wilcutt	timeInSpace	3629100.0
+Jeffrey Williams (astronaut)	timeInSpace	3.12768E7
+Daniel C. Burbank	timeInSpace	2038680.0
+William S. McArthur	timeInSpace	1.943394E7
+Marsha Ivins	timeInSpace	4830480.0
+Jean-François Clervoy	timeInSpace	2430300.0
+Maurizio Cheli	timeInSpace	1359660.0
+Takao Doi	timeInSpace	2748900.0
+Umberto Guidoni	timeInSpace	2387520.0
+Mamoru Mohri	timeInSpace	1656540.0
+Hans Schlegel	timeInSpace	1965720.0
+Koichi Wakata	timeInSpace	1.377654E7
+Jean-Pierre Haigneré	timeInSpace	1.81023E7
+Kathryn D. Sullivan	timeInSpace	1918140.0
+Henry Hartsfield	timeInSpace	1738200.0
+Michael Coats	timeInSpace	1670160.0
+Steven Hawley	timeInSpace	2774520.0
+Charles D. Walker	timeInSpace	1930800.0
+Richard Mullane	timeInSpace	1402800.0
+Frederick Hauck	timeInSpace	1566420.0
+Yelena Kondakova	timeInSpace	1.541766E7
+Shannon Lucid	timeInSpace	1.92774E7
+William Shepherd	timeInSpace	1.376574E7
+Richard N. Richards	timeInSpace	2928540.0
+Joseph P. Allen	timeInSpace	1130280.0
+Dale Gardner	timeInSpace	1212720.0
+Jon McBride	timeInSpace	710580.0
+David Leestma	timeInSpace	1917120.0
+Paul Scully-Power	timeInSpace	710580.0
+Loren Shriver	timeInSpace	1389840.0
+James Buchli	timeInSpace	1765500.0
+Gary Payton (astronaut)	timeInSpace	264780.0
+Karol J. Bobko	timeInSpace	1389780.0
+Donald E. Williams	timeInSpace	1035240.0
+Bruce McCandless II	timeInSpace	1125060.0
+Charles F. Bolden, Jr.  Charles Frank "Charlie" Bolden, Jr.   1	timeInSpace	2450220.0
+Joe Engle	timeInSpace	808200.0
+Richard H. Truly	timeInSpace	717660.0
+Stephen Robinson	timeInSpace	2994240.0
+Jack R. Lousma	timeInSpace	5829180.0
+C. Gordon Fullerton	timeInSpace	1378200.0
+Vance D. Brand	timeInSpace	2685720.0
+Robert F. Overmyer	timeInSpace	1045320.0
+William B. Lenoir	timeInSpace	440040.0
+Sultan bin Salman bin Abdul-Aziz Al Saud	timeInSpace	610680.0
+Richard O. Covey	timeInSpace	2322540.0
+Bjarni Tryggvason	timeInSpace	1024080.0
+Jan Davis	timeInSpace	2426820.0
+Curtis Brown	timeInSpace	4986420.0
+Kent Rominger	timeInSpace	5799480.0
+Robert Curbeam	timeInSpace	3249203.0
+Steven MacLean (astronaut)	timeInSpace	1872120.0
+Dafydd Williams	timeInSpace	2476020.0
+Paul J. Weitz	timeInSpace	2855580.0
+Donald H. Peterson	timeInSpace	433380.0
+Norman Thagard	timeInSpace	1.214424E7
+John M. Fabian	timeInSpace	1137720.0
+Daniel Brandenstein	timeInSpace	2840580.0
+William E. Thornton	timeInSpace	1127760.0
+Frank De Winne	timeInSpace	1.717044E7
+Claude Nicollier	timeInSpace	3672300.0
+Vladimir Kovalyonok	timeInSpace	1.869528E7
+Richard Hieb	timeInSpace	2759640.0
+Brewster H. Shaw	timeInSpace	1921860.0
+Robert A. Parker	timeInSpace	1666320.0
+Owen K. Garriott	timeInSpace	6029760.0
+Byron K. Lichtenberg	timeInSpace	1662960.0
+Robert L. Stewart	timeInSpace	1039740.0
+Robert L. Gibson	timeInSpace	3125700.0
+Andrew M. Allen	timeInSpace	3255120.0
+George Nelson (astronaut)	timeInSpace	1478580.0
+James van Hoften	timeInSpace	1216620.0
+Terry Hart	timeInSpace	603600.0
+Margaret Rhea Seddon	timeInSpace	2600460.0
+Jeffrey A. Hoffman	timeInSpace	4362840.0
+S. David Griggs	timeInSpace	604500.0
+Jake Garn  Edwin Jacob Garn   1	timeInSpace	604500.0
+John E. Blaha	timeInSpace	1.39203E7
+David M. Walker (astronaut)	timeInSpace	2608020.0
+Lodewijk van den Berg	timeInSpace	605280.0
+Wubbo Ockels	timeInSpace	607440.0
+Ken Mattingly	timeInSpace	1830840.0
+James C. Adamson	timeInSpace	1203660.0
+Viktor Mikhailovich Afanasyev	timeInSpace	4.801878E7
+James P. Bagian	timeInSpace	1216380.0
+Ellen S. Baker	timeInSpace	2471460.0
+Michael A. Baker	timeInSpace	3473940.0
+John-David F. Bartoe	timeInSpace	686700.0
+Daniel T. Barry	timeInSpace	2644020.0
+Patrick Baudry	timeInSpace	610680.0
+Charles E. Brady, Jr.	timeInSpace	1460880.0
+Roy D. Bridges, Jr.	timeInSpace	686700.0
+Mark N. Brown	timeInSpace	898020.0
+Daniel W. Bursch	timeInSpace	1.960656E7
+Robert D. Cabana	timeInSpace	3278520.0
+Kenneth D. Cameron	timeInSpace	2023860.0
+Duane G. Carey	timeInSpace	943800.0
+Gerald P. Carr	timeInSpace	7262100.0
+Robert J. Cenker	timeInSpace	525780.0
+Leroy Chiao	timeInSpace	1.981686E7
+Kevin P. Chilton	timeInSpace	2535720.0
+Mary L. Cleave	timeInSpace	943200.0
+John Oliver Creighton	timeInSpace	1455840.0
+Michael R. Clifford	timeInSpace	2399040.0
+Roger K. Crouch	timeInSpace	1699080.0
+Walter Cunningham	timeInSpace	936480.0
+Nancy J. Currie	timeInSpace	3598320.0
+Lawrence J. DeLucas	timeInSpace	1193400.0
+Brian Duffy (astronaut)	timeInSpace	3519420.0
+Bonnie J. Dunbar	timeInSpace	4350240.0
+Samuel T. Durrance	timeInSpace	2211180.0
+Donn F. Eisele	timeInSpace	936480.0
+Anthony W. England	timeInSpace	686700.0
+Ronald Evans	timeInSpace	1086720.0
+Léopold Eyharts	timeInSpace	5952660.0
+Jean-Jacques Favier	timeInSpace	1460880.0
+Martin J. Fettman	timeInSpace	1210320.0
+Patrick G. Forrester	timeInSpace	3421080.0
+Dirk Frimout	timeInSpace	770940.0
+F. Drew Gaffney	timeInSpace	785640.0
+Charles D. Gemar	timeInSpace	2093880.0
+Richard F. Gordon, Jr.	timeInSpace	1137180.0
+Edward Gibson	timeInSpace	7262100.0
+Ronald J. Grabe	timeInSpace	2259480.0
+William G. Gregory	timeInSpace	1436880.0
+Sidney M. Gutierrez	timeInSpace	1756980.0
+John M. Grunsfeld	timeInSpace	5065380.0
+Frederick D. Gregory	timeInSpace	1638240.0
+Linda M. Godwin	timeInSpace	3305580.0
+Michael L. Gernhardt	timeInSpace	3740460.0
+André Kuipers	timeInSpace	939180.0
+L. Blaine Hammond	timeInSpace	1663860.0
+Gregory J. Harbaugh	timeInSpace	2944740.0
+Bernard A. Harris, Jr.	timeInSpace	1577280.0
+Terence T. Henricks	timeInSpace	3695880.0
+Susan J. Helms	timeInSpace	1.822716E7
+David C. Hilmers	timeInSpace	1779360.0
+Kathryn P. Hire	timeInSpace	1374600.0
+Thomas J. Hennen	timeInSpace	600600.0
+Charles O. Hobaugh	timeInSpace	3138420.0
+Millie Hughes-Fulford	timeInSpace	785640.0
+Yuri Gidzenko	timeInSpace	2.850744E7
+Brent W. Jett, Jr.	timeInSpace	3607260.0
+Mark Shuttleworth	timeInSpace	854700.0
+Frank L. Culbertson, Jr.	timeInSpace	1.24086E7
+Thomas David Jones	timeInSpace	4582140.0
+Franz Viehböck	timeInSpace	684720.0
+Joseph P. Kerwin	timeInSpace	2422200.0
+Kevin R. Kregel	timeInSpace	4558860.0
+Guy Gardner (astronaut)	timeInSpace	1152600.0
+Scott Kelly (astronaut)	timeInSpace	1.555866E7
+Mark Kelly (astronaut)	timeInSpace	4673040.0
+Valery Korzun	timeInSpace	3.297486E7
+Sergei Krikalev	timeInSpace	6.941394E7
+Mark C. Lee	timeInSpace	2843160.0
+Don L. Lind	timeInSpace	605280.0
+Jerry M. Linenger	timeInSpace	1.23654E7
+John M. Lounge	timeInSpace	1736580.0
+G. David Low	timeInSpace	2570700.0
+Wendy B. Lawrence	timeInSpace	4420560.0
+Richard M. Linnehan	timeInSpace	5172540.0
+Steven Lindsey	timeInSpace	5437980.0
+Frederick W. Leslie	timeInSpace	1373640.0
+Gregory T. Linteris	timeInSpace	1699080.0
+James M. Kelly	timeInSpace	2308860.0
+Michael J. McCulley	timeInSpace	430740.0
+Donald R. McMonagle	timeInSpace	2180040.0
+James McDivitt	timeInSpace	1220160.0
+Carl J. Meade	timeInSpace	2564040.0
+Bruce E. Melnick	timeInSpace	1121220.0
+Michael J. Massimino	timeInSpace	2058480.0
+Richard Mastracchio	timeInSpace	3426900.0
+Lee Morin	timeInSpace	934920.0
+Franco Malerba	timeInSpace	688500.0
+Ernst Messerschmid	timeInSpace	607440.0
+Chiaki Mukai	timeInSpace	2043540.0
+Boris Morukov	timeInSpace	1019520.0
+James H. Newman	timeInSpace	3751620.0
+Steven R. Nagel	timeInSpace	2597640.0
+Carlos I. Noriega	timeInSpace	1732680.0
+Rodolfo Neri Vela	timeInSpace	594240.0
+Stephen S. Oswald	timeInSpace	2932200.0
+Ellen Ochoa	timeInSpace	3526560.0
+Bryan D. O'Connor	timeInSpace	1379880.0
+Yury Onufriyenko	timeInSpace	3.366276E7
+William R. Pogue	timeInSpace	7262100.0
+Scott E. Parazynski	timeInSpace	4980840.0
+John L. Phillips	timeInSpace	1.649484E7
+Mark L. Polansky	timeInSpace	3581400.0
+Charles J. Precourt	timeInSpace	3356160.0
+Philippe Perrin	timeInSpace	1197300.0
+William A. Pailes	timeInSpace	351840.0
+Ronald A. Parise	timeInSpace	2211180.0
+James A. Pawelczyk	timeInSpace	1374600.0
+Gennady Padalka	timeInSpace	5.05674E7
+Aleksandr Poleshchuk	timeInSpace	1.546818E7
+Thomas Patten Stafford	timeInSpace	1827720.0
+Kenneth S. Reightler, Jr.	timeInSpace	1179360.0
+Paul W. Richards	timeInSpace	1108140.0
+William F. Readdy	timeInSpace	2421840.0
+James F. Reilly	timeInSpace	3062040.0
+Mario Runco, Jr.	timeInSpace	1984080.0
+Roman Romanenko	timeInSpace	1.623126E7
+Valery Ryumin	timeInSpace	3.211704E7
+Winston E. Scott	timeInSpace	2126100.0
+Richard A. Searfoss	timeInSpace	3381480.0
+Ronald M. Sega	timeInSpace	1513500.0
+Sherwood C. Spring	timeInSpace	594240.0
+Robert C. Springer	timeInSpace	855120.0
+Albert Sacco	timeInSpace	1373640.0
+Salizhan Sharipov	timeInSpace	1.74198E7
+Anatoly Solovyev	timeInSpace	5.624652E7
+Gennadi Strekalov	timeInSpace	2.323572E7
+Steven Smith (astronaut)	timeInSpace	3456960.0
+Jay C. Buckey	timeInSpace	1374600.0
+Frederick W. Sturckow	timeInSpace	4440960.0
+Vladimir Dezhurov	timeInSpace	2.110128E7
+Kathryn C. Thornton	timeInSpace	3510840.0
+Pierre J. Thuot	timeInSpace	2357460.0
+Joseph R. Tanner	timeInSpace	3762900.0
+Gerhard Thiele	timeInSpace	970740.0
+Michel Tognini	timeInSpace	1619160.0
+Valeri Tokarev	timeInSpace	1.724796E7
+Vladimir Titov	timeInSpace	3.26619E7
+Daniel M. Tani	timeInSpace	1.13835E7
+Eugene H. Trinh	timeInSpace	1193400.0
+Mikhail Tyurin	timeInSpace	2.974002E7
+Sergei Treshchov	timeInSpace	1.59777E7
+Yury Usachov	timeInSpace	4.77735E7
+James S. Voss	timeInSpace	1.747248E7
+Charles L. Veach	timeInSpace	1570680.0
+Roberto Vittori	timeInSpace	3068760.0
+Rex J. Walheim	timeInSpace	3141060.0
+Alfred Worden	timeInSpace	1062720.0
+Carl E. Walz	timeInSpace	1.991904E7
+Peter Wisoff	timeInSpace	3830940.0
+Mary E. Weber	timeInSpace	1621800.0
+Fyodor Yurchikhin	timeInSpace	3.204084E7
+Karl Gordon Henize	timeInSpace	686700.0
+Donald A. Thomas	timeInSpace	3744780.0
+Susan Still Kilrain	timeInSpace	1699080.0
+Bertalan Farkas	timeInSpace	679500.0
+Charles Simonyi    1	timeInSpace	2298420.0
+Brian Binnie	timeInSpace	300.0
+Mike Melvill	timeInSpace	600.0
+Michael Fincke	timeInSpace	3.297306E7
+Joseph A. Walker	timeInSpace	1320.0
+José Hernández (astronaut)	timeInSpace	1198440.0
+Aleksandr Aleksandrovich Volkov	timeInSpace	3.382512E7
+Anatoly Artsebarsky	timeInSpace	1.249686E7
+Phạm Tuân	timeInSpace	679320.0
+Jügderdemidiin Gürragchaa	timeInSpace	679320.0
+Vladimír Remek	timeInSpace	685020.0
+Arnaldo Tamayo Méndez	timeInSpace	679380.0
+Georgi Ivanov	timeInSpace	169260.0
+Konstantin Kozeyev	timeInSpace	849540.0
+Ivan Bella	timeInSpace	683760.0
+Sergei Avdeyev	timeInSpace	6.459204E7
+Pavel Vinogradov	timeInSpace	3.289056E7
+Vasily Tsibliyev	timeInSpace	3.297552E7
+Aleksandr Lazutkin	timeInSpace	1.597722E7
+Reinhold Ewald	timeInSpace	1701240.0
+Thomas Reiter	timeInSpace	3.026064E7
+Aleksandr Viktorenko	timeInSpace	4.303278E7
+Valeri Polyakov	timeInSpace	5.863872E7
+Aleksandr Serebrov	timeInSpace	3.222312E7
+Gennadi Manakov	timeInSpace	2.677428E7
+Klaus-Dietrich Flade	timeInSpace	683820.0
+Helen Sharman	timeInSpace	681180.0
+Musa Manarov	timeInSpace	4.674408E7
+Toyohiro Akiyama	timeInSpace	683640.0
+Aleksandr Balandin	timeInSpace	1.547022E7
+Aleksandr Panayotov Aleksandrov	timeInSpace	850200.0
+Aleksandr Pavlovich Aleksandrov	timeInSpace	2.676252E7
+Vladimir Lyakhov	timeInSpace	2.879922E7
+Viktor Savinykh	timeInSpace	2.183628E7
+Anatoli Levchenko	timeInSpace	683880.0
+Muhammed Faris	timeInSpace	687840.0
+Aleksandr Laveykin	timeInSpace	1.50459E7
+Leonid Kizim	timeInSpace	3.237816E7
+Vladimir Vasyutin	timeInSpace	5608320.0
+Igor Volk	timeInSpace	1019640.0
+Yury Vasilyevich Malyshev	timeInSpace	1022340.0
+Vladimir Alekseyevich Solovyov	timeInSpace	3.127254E7
+Leonid Popov	timeInSpace	1.73331E7
+Oleg Atkov	timeInSpace	2.047254E7
+Anatoly Berezovoy	timeInSpace	1.826304E7
+Aleksandr Ivanchenkov	timeInSpace	1.274622E7
+Vladimir Aksyonov	timeInSpace	1023060.0
+Yury Glazkov	timeInSpace	1531500.0
+Vyacheslav Zudov	timeInSpace	173160.0
+Valery Rozhdestvensky	timeInSpace	173160.0
+William Frederick Fisher	timeInSpace	613020.0
+Yuri Shargin	timeInSpace	855000.0
+Liu Boming (astronaut)	timeInSpace	245880.0
+Marcos Pontes	timeInSpace	854220.0
+Anna Lee Fisher	timeInSpace	690240.0
+Leonid Kadeniuk	timeInSpace	1355640.0
+Soichi Noguchi	timeInSpace	1.53039E7
+Guy Laliberté    1	timeInSpace	940620.0
+Christer Fuglesang	timeInSpace	2309880.0
+Charles Camarda	timeInSpace	1200720.0
+Zhai Zhigang	timeInSpace	245880.0
+Nie Haisheng	timeInSpace	415980.0
+Fei Junlong	timeInSpace	415980.0
+Jing Haipeng	timeInSpace	245880.0
+Stephanie Wilson	timeInSpace	3714360.0
+Lisa Nowak	timeInSpace	1103760.0
+Gregory Olsen	timeInSpace	854100.0
+Sunita Williams	timeInSpace	1.682652E7
+Kenneth Ham	timeInSpace	2205660.0
+Nicholas Patrick	timeInSpace	1111500.0
+Yury Romanenko	timeInSpace	1556460.0
+Christopher Ferguson	timeInSpace	3492180.0
+William Oefelein	timeInSpace	1111500.0
+Joan Higginbotham	timeInSpace	1111500.0
+Steven Swanson	timeInSpace	2302860.0
+Lee Archambault	timeInSpace	2302397.0
+Timothy Kopra	timeInSpace	5021400.0
+Douglas H. Wheelock	timeInSpace	1.541364E7
+James Dutton (astronaut)	timeInSpace	1306020.0
+Eric Boe	timeInSpace	2475240.0
+Gregory H. Johnson	timeInSpace	2721000.0
+Clayton Anderson	timeInSpace	1.44186E7
+Alan G. Poindexter	timeInSpace	2408940.0
+Michael Foreman	timeInSpace	2294820.0
+John D. Olivas	timeInSpace	2394300.0
+George D. Zamka	timeInSpace	1304580.0
+Buran (spacecraft)	timeInSpace	10800.0
+Heidemarie Stefanyshyn-Piper	timeInSpace	2388972.0
+Paolo A. Nespoli	timeInSpace	1.50684E7
+Oleg Kotov	timeInSpace	3.109908E7
+Stanley G. Love	timeInSpace	1102920.0
+Leland D. Melvin	timeInSpace	2035680.0
+Garrett Reisman	timeInSpace	9256500.0
+Mikhail Korniyenko	timeInSpace	1.521108E7
+Andrew J. Feustel	timeInSpace	2474220.0
+Sheikh Muszaphar Shukor	timeInSpace	940440.0
+Dominic A. Antonelli	timeInSpace	2123880.0
+Gregory C. Johnson	timeInSpace	1114699.0
+Timothy Creamer	timeInSpace	1.410318E7
+Gregory Chamitoff	timeInSpace	1.717212E7
+Karen L. Nyberg	timeInSpace	1188787.0
+K. Megan McArthur	timeInSpace	1114699.0
+Shannon Walker	timeInSpace	1.410906E7
+Dorothy Metcalf-Lindenburger	timeInSpace	1306020.0
+Nicole Stott	timeInSpace	8920140.0
+Robert Satcher	timeInSpace	933360.0
+Randolph Bresnik	timeInSpace	933360.0
+Thomas Marshburn	timeInSpace	1356300.0
+Christopher Cassidy	timeInSpace	1353600.0
+Akihiko Hoshide	timeInSpace	1188787.0
+Kevin A. Ford	timeInSpace	1198440.0
+Barry E. Wilmore	timeInSpace	933360.0
+Michael T. Good	timeInSpace	2138760.0
+Michael Barratt (astronaut)	timeInSpace	1.827276E7
+Robert L. Behnken	timeInSpace	2549820.0
+Stephen Bowen (astronaut)	timeInSpace	3492120.0
+Alvin Drew	timeInSpace	2206800.0
+Douglas G. Hurley	timeInSpace	2459520.0
+Yi So-Yeon	timeInSpace	939600.0
+Oleg Kononenko	timeInSpace	1.7166E7
+Maksim Surayev	timeInSpace	1.46166E7
+Dmitri Kondratyev	timeInSpace	1.376382E7
+Oleg Skripochka	timeInSpace	1.376904E7
+Aleksandr Aleksandrovich Skvortsov	timeInSpace	1.521108E7
+Tracy Caldwell Dyson	timeInSpace	1.631244E7
+Jean-Loup Chrétien	timeInSpace	3755940.0

@@ -1,0 +1,503 @@
+Adrastea (moon)	temperature	122.0
+Carme (moon)	temperature	124.0
+Lysithea (moon)	temperature	124.0
+Nereid (moon)	temperature	50.0
+Naiad (moon)	temperature	51.0
+433 Eros	temperature	227.0
+Triton (moon)	temperature	38.0
+Metis (moon)	temperature	123.0
+52 Europa	temperature	173.0
+52 Europa	temperature	258.0
+4 Vesta	temperature	85.0
+4 Vesta	temperature	255.0
+4179 Toutatis	temperature	174.0
+253 Mathilde	temperature	174.0
+16 Psyche	temperature	160.0
+16 Psyche	temperature	280.0
+3753 Cruithne	temperature	273.0
+2 Pallas	temperature	164.0
+2 Pallas	temperature	265.0
+243 Ida	temperature	200.0
+Atlas (moon)	temperature	81.0
+588 Achilles	temperature	124.0
+Charon (moon)	temperature	493.15
+Phobos (moon)	temperature	233.0
+Puck (moon)	temperature	64.0
+2060 Chiron	temperature	75.0
+Deimos (moon)	temperature	233.0
+Cordelia (moon)	temperature	64.0
+Ophelia (moon)	temperature	64.0
+Bianca (moon)	temperature	64.0
+Cressida (moon)	temperature	64.0
+Desdemona (moon)	temperature	64.0
+Juliet (moon)	temperature	64.0
+Rosalind (moon)	temperature	64.0
+Belinda (moon)	temperature	64.0
+Pan (moon)	temperature	78.0
+3 Juno	temperature	163.0
+3 Juno	temperature	301.0
+Thebe (moon)	temperature	124.0
+Leda (moon)	temperature	124.0
+Epimetheus (moon)	temperature	78.0
+Proteus (moon)	temperature	51.0
+Pandora (moon)	temperature	78.0
+5145 Pholus	temperature	62.0
+Hyperion (moon)	temperature	93.0
+Caliban (moon)	temperature	65.0
+65 Cybele	temperature	150.0
+Elara (moon)	temperature	124.0
+Himalia (moon)	temperature	124.0
+Ananke (moon)	temperature	124.0
+Pasiphaë (moon)	temperature	124.0
+Sinope (moon)	temperature	124.0
+Dione (moon)	temperature	87.0
+Mimas (moon)	temperature	64.0
+24 Themis	temperature	159.0
+Prometheus (moon)	temperature	74.0
+11169 Alkon	temperature	178.0
+(143649) 2003 QQ47	temperature	267.0
+28978 Ixion	temperature	44.0
+624 Hektor	temperature	122.0
+Larissa (moon)	temperature	51.0
+5 Astraea	temperature	167.0
+5 Astraea	temperature	263.0
+90482 Orcus	temperature	44.0
+944 Hidalgo	temperature	116.0
+1620 Geographos	temperature	249.0
+2063 Bacchus	temperature	224.0
+90377 Sedna	temperature	12.0
+2004 FH	temperature	308.0
+51826 Kalpanachawla	temperature	159.0
+Themisto (moon)	temperature	124.0
+Setebos (moon)	temperature	65.0
+21 Lutetia	temperature	172.0
+21 Lutetia	temperature	266.0
+Portia (moon)	temperature	64.0
+Sycorax (moon)	temperature	65.0
+Prospero (moon)	temperature	65.0
+Thalassa (moon)	temperature	51.0
+Despina (moon)	temperature	51.0
+Galatea (moon)	temperature	51.0
+1862 Apollo	temperature	222.0
+2867 Šteins	temperature	181.0
+6 Hebe	temperature	170.0
+6 Hebe	temperature	269.0
+4015 Wilson–Harrington	temperature	171.0
+7968 Elst–Pizarro	temperature	160.0
+139 Juewa	temperature	167.0
+2685 Masursky	temperature	176.0
+2685 Masursky	temperature	264.0
+1566 Icarus	temperature	242.0
+511 Davida	temperature	160.0
+1036 Ganymed	temperature	160.0
+Stephano (moon)	temperature	65.0
+Trinculo (moon)	temperature	65.0
+(4197) 1982 TA	temperature	183.0
+719 Albert	temperature	171.0
+25143 Itokawa	temperature	206.0
+6489 Golevka	temperature	176.0
+51 Nemausa	temperature	181.0
+69230 Hermes	temperature	216.0
+2002 AA29	temperature	279.0
+2003 YN107	temperature	279.0
+3200 Phaethon	temperature	247.0
+18610 Arthurdent	temperature	174.0
+3552 Don Quixote	temperature	138.0
+3494 Purple Mountain	temperature	182.0
+2985 Shakespeare	temperature	165.0
+2984 Chaucer	temperature	177.0
+2801 Huygens	temperature	166.0
+2747 Český Krumlov	temperature	160.0
+2747 Český Krumlov	temperature	243.0
+2709 Sagan	temperature	188.0
+7 Iris	temperature	171.0
+7 Iris	temperature	275.0
+288 Glauke	temperature	115.0
+323 Brucia	temperature	176.0
+2004 JG6	temperature	349.0
+11754 Herbig	temperature	164.0
+8 Flora	temperature	180.0
+8 Flora	temperature	276.0
+9 Metis	temperature	173.0
+9 Metis	temperature	282.0
+10 Hygiea	temperature	164.0
+10 Hygiea	temperature	247.0
+11 Parthenope	temperature	174.0
+12 Victoria	temperature	178.0
+13 Egeria	temperature	174.0
+14 Irene	temperature	170.0
+17 Thetis	temperature	173.0
+15 Eunomia	temperature	166.0
+15 Eunomia	temperature	260.0
+18 Melpomene	temperature	177.0
+19 Fortuna	temperature	180.0
+20 Massalia	temperature	174.0
+20 Massalia	temperature	265.0
+23 Thalia	temperature	164.0
+25 Phocaea	temperature	173.0
+26 Proserpina	temperature	166.0
+27 Euterpe	temperature	178.0
+28 Bellona	temperature	163.0
+29 Amphitrite	temperature	170.0
+30 Urania	temperature	177.0
+31 Euphrosyne	temperature	159.0
+32 Pomona	temperature	173.0
+33 Polyhymnia	temperature	164.0
+34 Circe	temperature	172.0
+35 Leukothea	temperature	162.0
+36 Atalante	temperature	170.0
+37 Fides	temperature	167.0
+38 Leda	temperature	170.0
+39 Laetitia	temperature	158.0
+40 Harmonia	temperature	177.0
+41 Daphne	temperature	167.0
+42 Isis	temperature	178.0
+43 Ariadne	temperature	178.0
+43 Ariadne	temperature	275.0
+44 Nysa	temperature	151.0
+46 Hestia	temperature	175.0
+48 Doris	temperature	158.0
+47 Aglaja	temperature	164.0
+50 Virginia	temperature	171.0
+53 Kalypso	temperature	172.0
+54 Alexandra	temperature	169.0
+56 Melete	temperature	173.0
+55 Pandora	temperature	168.0
+57 Mnemosyne	temperature	157.0
+58 Concordia	temperature	169.0
+59 Elpis	temperature	169.0
+60 Echo	temperature	180.0
+61 Danaë	temperature	155.0
+62 Erato	temperature	158.0
+63 Ausonia	temperature	180.0
+64 Angelina	temperature	170.0
+66 Maja	temperature	171.0
+67 Asia	temperature	179.0
+68 Leto	temperature	167.0
+71 Niobe	temperature	168.0
+72 Feronia	temperature	185.0
+73 Klytia	temperature	170.0
+74 Galatea	temperature	167.0
+75 Eurydike	temperature	170.0
+76 Freia	temperature	151.0
+77 Frigga	temperature	170.0
+78 Diana	temperature	172.0
+79 Eurynome	temperature	178.0
+80 Sappho	temperature	184.0
+81 Terpsichore	temperature	165.0
+82 Alkmene	temperature	168.0
+83 Beatrix	temperature	178.0
+84 Klio	temperature	181.0
+86 Semele	temperature	158.0
+85 Io	temperature	172.0
+85 Io	temperature	272.0
+87 Sylvia	temperature	151.0
+87 Sylvia	temperature	223.0
+88 Thisbe	temperature	167.0
+89 Julia	temperature	174.0
+91 Aegina	temperature	173.0
+92 Undina	temperature	156.0
+93 Minerva	temperature	168.0
+94 Aurora	temperature	157.0
+95 Arethusa	temperature	159.0
+96 Aegle	temperature	159.0
+98 Ianthe	temperature	170.0
+97 Klotho	temperature	170.0
+99 Dike	temperature	172.0
+100 Hekate	temperature	154.0
+100 Hekate	temperature	238.0
+101 Helena	temperature	173.0
+103 Hera	temperature	169.0
+104 Klymene	temperature	157.0
+105 Artemis	temperature	181.0
+106 Dione	temperature	156.0
+107 Camilla    1	temperature	151.0
+107 Camilla    1	temperature	223.0
+109 Felicitas	temperature	169.0
+110 Lydia	temperature	168.0
+111 Ate	temperature	173.0
+112 Iphigenia	temperature	178.0
+113 Amalthea	temperature	181.0
+114 Kassandra	temperature	170.0
+115 Thyra	temperature	180.0
+116 Sirona	temperature	167.0
+117 Lomia	temperature	161.0
+118 Peitho	temperature	178.0
+119 Althaea	temperature	173.0
+120 Lachesis	temperature	158.0
+122 Gerda	temperature	155.0
+123 Brunhild	temperature	170.0
+124 Alkeste	temperature	172.0
+125 Liberatrix	temperature	168.0
+126 Velleda	temperature	178.0
+127 Johanna	temperature	168.0
+128 Nemesis	temperature	168.0
+129 Antigone	temperature	164.0
+131 Vala	temperature	178.0
+132 Aethra	temperature	168.0
+134 Sophrosyne	temperature	174.0
+133 Cyrene	temperature	133.0
+136 Austria	temperature	184.0
+137 Meliboea	temperature	158.0
+138 Tolosa	temperature	178.0
+140 Siwa	temperature	168.0
+2069 Hubble	temperature	156.0
+142 Polana	temperature	179.0
+143 Adria	temperature	167.0
+144 Vibilia	temperature	171.0
+146 Lucina	temperature	169.0
+147 Protogeneia	temperature	157.0
+Perdita (moon)	temperature	64.0
+145 Adeona	temperature	170.0
+148 Gallia	temperature	167.0
+149 Medusa	temperature	189.0
+22 Kalliope	temperature	161.0
+22 Kalliope	temperature	240.0
+160 Una	temperature	170.0
+159 Aemilia	temperature	160.0
+159 Aemilia	temperature	239.0
+5020 Asimov	temperature	190.0
+Cupid (moon)	temperature	64.0
+Mab (moon)	temperature	63.0
+Francisco (moon)	temperature	65.0
+Margaret (moon)	temperature	65.0
+Ferdinand (moon)	temperature	65.0
+181 Eucharis	temperature	156.0
+704 Interamnia	temperature	160.0
+2062 Aten	temperature	275.0
+(65407) 2002 RP120	temperature	37.0
+(137924) 2000 BD19	temperature	297.0
+15017 Cuppy	temperature	182.0
+1221 Amor	temperature	198.0
+5261 Eureka	temperature	225.0
+516 Amherstia	temperature	167.0
+3554 Amun	temperature	280.0
+(6178) 1986 DA	temperature	164.0
+366 Vincentina	temperature	158.0
+41450 Medkeff	temperature	180.0
+2001 Einstein	temperature	200.0
+99942 Apophis	temperature	270.0
+25924 Douglasadams	temperature	179.0
+244 Sita	temperature	184.0
+244 Sita	temperature	279.0
+258 Tyche	temperature	169.0
+258 Tyche	temperature	268.0
+281 Lucretia	temperature	183.0
+281 Lucretia	temperature	277.0
+291 Alice	temperature	181.0
+291 Alice	temperature	267.0
+292 Ludovica	temperature	166.0
+292 Ludovica	temperature	239.0
+324 Bamberga	temperature	172.0
+333 Badenia	temperature	160.0
+333 Badenia	temperature	248.0
+341 California	temperature	162.0
+341 California	temperature	256.0
+349 Dembowska	temperature	148.0
+352 Gisela	temperature	168.0
+352 Gisela	temperature	256.0
+379 Huenna	temperature	159.0
+390 Alma	temperature	165.0
+390 Alma	temperature	250.0
+399 Persephone	temperature	159.0
+10979 Fristephenson	temperature	178.0
+501 Urhixidur	temperature	157.0
+(148209) 2000 CR105	temperature	19.0
+Daphnis (moon)	temperature	78.0
+7939 Asphaug	temperature	181.0
+5819 Lauretta	temperature	175.0
+Haumea (dwarf planet)	temperature	50.0
+(15874) 1996 TL66	temperature	31.0
+1998 WW31	temperature	42.0
+71000 Hughdowns	temperature	170.0
+(26375) 1999 DE9	temperature	37.0
+38083 Rhadamanthus	temperature	44.0
+53311 Deucalion	temperature	42.0
+38628 Huya	temperature	44.0
+11264 Claudiomaccone	temperature	173.0
+(84719) 2002 VR128	temperature	44.0
+20639 Michellouie	temperature	171.0
+4581 Asclepius	temperature	275.0
+2002 Euler	temperature	179.0
+4305 Clapton	temperature	163.0
+(87269) 2000 OO67	temperature	12.0
+617 Patroclus	temperature	110.0
+11020 Orwell	temperature	158.0
+S/2000 (1998 WW31) 1	temperature	43.0
+4409 Kissling	temperature	160.0
+475 Ocllo	temperature	173.0
+1761 Edmondson	temperature	156.0
+8256 Shenzhou	temperature	188.0
+4349 Tibúrcio	temperature	172.0
+9885 Linux	temperature	181.0
+538 Friederike	temperature	158.0
+538 Friederike	temperature	244.0
+563 Suleika	temperature	169.0
+630 Euphemia	temperature	165.0
+630 Euphemia	temperature	248.0
+741 Botolphia	temperature	169.0
+804 Hispania	temperature	167.4
+817 Annika	temperature	169.0
+817 Annika	temperature	264.0
+854 Frostia	temperature	181.0
+867 Kovacia	temperature	159.0
+867 Kovacia	temperature	242.0
+21709 Sethmurray	temperature	185.0
+2138 Swissair	temperature	170.0
+1089 Tama	temperature	179.0
+1313 Berna	temperature	171.0
+3749 Balam	temperature	183.0
+19367 Pink Floyd	temperature	178.0
+10515 Old Joe	temperature	176.0
+3360 Syrinx	temperature	174.0
+(55637) 2002 UX25	temperature	43.0
+6188 Robertpepin	temperature	156.0
+(15788) 1993 SB	temperature	44.0
+1993 RO	temperature	45.0
+(48639) 1995 TL8	temperature	38.0
+9793 Torvalds	temperature	185.0
+7066 Nessus	temperature	56.0
+7672 Hawking	temperature	185.0
+21751 Jennytaylor	temperature	181.0
+60558 Echeclus	temperature	85.0
+(55636) 2002 TX300	temperature	41.0
+54598 Bienor	temperature	69.0
+2006 HZ51	temperature	202.0
+1322 Coppernicus	temperature	171.0
+2202 Pele	temperature	181.0
+115449 Robson	temperature	168.0
+112797 Grantjudy	temperature	184.0
+100596 Perrett	temperature	160.0
+100416 Syang	temperature	201.0
+100122 Alpes Maritimes	temperature	156.0
+100268 Rosenthal	temperature	178.0
+100051 Davidhernandez	temperature	188.0
+100049 Césarann	temperature	181.0
+100050 Carloshernandez	temperature	173.0
+100047 Leobaeck	temperature	179.0
+100029 Varnhagen	temperature	162.0
+100027 Hannaharendt	temperature	179.0
+100019 Gregorianik	temperature	175.0
+99950 Euchenor	temperature	123.0
+99906 Uofalberta	temperature	155.0
+99905 Jeffgrossman	temperature	150.0
+99861 Tscharnuter	temperature	165.0
+99503 Leewonchul	temperature	179.0
+99262 Bleustein	temperature	158.0
+99201 Sattler	temperature	168.0
+98825 Maryellen	temperature	172.0
+98722 Elenaumberto	temperature	173.0
+98494 Marsupilami	temperature	181.0
+112798 Kelindsey	temperature	162.0
+1002 Olbersia	temperature	168.0
+58534 Logos	temperature	37.0
+2000 Herschel	temperature	180.0
+1999 Hirayama	temperature	158.0
+1998 Titius	temperature	179.0
+1997 Leverrier	temperature	187.0
+1996 Adams	temperature	174.0
+2007 McCuskey	temperature	180.0
+2177 Oliver	temperature	154.0
+2521 Heidi	temperature	166.0
+8371 Goven	temperature	169.0
+(90569) 2004 GY14	temperature	121.0
+7004 Markthiemens	temperature	183.0
+(60608) 2000 EE173	temperature	40.0
+1993 RP	temperature	45.0
+(15807) 1994 GV9	temperature	42.0
+2002 MS4	temperature	43.0
+1169 Alwine	temperature	183.0
+2006 Polonskaya	temperature	183.0
+20799 Ashishbakshi	temperature	14.66
+51825 Davidbrown	temperature	162.0
+51824 Mikeanderson	temperature	161.0
+51823 Rickhusband	temperature	157.0
+51827 Laurelclark	temperature	160.0
+51828 Ilanramon	temperature	167.0
+51829 Williemccool	temperature	184.0
+118401 LINEAR	temperature	156.0
+1054 Forsytia	temperature	164.0
+(119070) 2001 KP77	temperature	42.0
+(208996) 2003 AZ84	temperature	44.0
+1056 Azalea	temperature	186.0
+(119979) 2002 WC19	temperature	40.0
+(12538) 1998 OH	temperature	224.0
+(20161) 1996 TR66	temperature	40.0
+(79360) 1997 CS29	temperature	42.0
+(174567) 2003 MW12	temperature	41.0
+(84922) 2003 VS2	temperature	44.0
+(15875) 1996 TP66	temperature	44.0
+(119951) 2002 KX14	temperature	45.0
+2001 QF298	temperature	44.0
+(15820) 1994 TB	temperature	44.0
+(19299) 1996 SZ4	temperature	44.0
+(20108) 1995 QZ9	temperature	44.0
+(42301) 2001 UR163	temperature	39.0
+(16684) 1994 JQ1	temperature	42.0
+(19255) 1994 VK8	temperature	43.0
+2003 QW90	temperature	42.0
+(26181) 1996 GQ21	temperature	29.0
+(119068) 2001 KC77	temperature	37.0
+(118702) 2000 OM67	temperature	28.0
+(24835) 1995 SM55	temperature	43.0
+(26308) 1998 SM165	temperature	40.0
+(119878) 2002 CY224	temperature	38.0
+(95625) 2002 GX32	temperature	38.0
+(118228) 1996 TQ66	temperature	44.0
+(33001) 1997 CU29	temperature	42.0
+(85627) 1998 HP151	temperature	42.0
+(120178) 2003 OP32	temperature	42.0
+1097 Vicia	temperature	171.0
+1098 Hakone	temperature	170.0
+1099 Figneria	temperature	156.0
+1100 Arnica	temperature	163.0
+1101 Clematis	temperature	155.0
+18883 Domegge	temperature	159.0
+6980 Kyusakamoto	temperature	165.0
+13070 Seanconnery	temperature	156.0
+35725 Tramuntana	temperature	173.0
+39748 Guccini	temperature	173.0
+1103 Sequoia	temperature	200.0
+99928 Brainard	temperature	158.0
+100033 Taizé	temperature	156.0
+1740 Paavo Nurmi	temperature	177.0
+3949 Mach	temperature	187.0
+4587 Rees	temperature	171.0
+1404 Ajax	temperature	121.0
+1437 Diomedes	temperature	122.0
+1583 Antilochus	temperature	123.0
+1647 Menelaus	temperature	122.0
+1749 Telamon	temperature	122.0
+1868 Thersites	temperature	121.0
+1869 Philoctetes	temperature	121.0
+2146 Stentor	temperature	122.0
+2148 Epeios	temperature	122.0
+2260 Neoptolemus	temperature	122.0
+2456 Palamedes	temperature	123.0
+2759 Idomeneus	temperature	122.0
+2797 Teucer	temperature	123.0
+2920 Automedon	temperature	123.0
+3063 Makhaon	temperature	122.0
+3391 Sinon	temperature	121.0
+3540 Protesilaos	temperature	121.0
+3548 Eurybates	temperature	122.0
+3564 Talthybius	temperature	122.0
+3709 Polypoites	temperature	121.0
+6398 Timhunter	temperature	182.0
+10149 Cavagna	temperature	188.0
+4706 Dennisreuter	temperature	185.0
+3031 Houston	temperature	186.0
+4130 Ramanujan	temperature	159.0
+163693 Atira	temperature	323.0
+54509 YORP	temperature	278.0
+5178 Pattazhy	temperature	186.0
+172996 Stooke	temperature	170.0
+2008 KV42	temperature	41.0
+951 Gaspra	temperature	181.0
+951 Gaspra	temperature	281.0
+50000 Quaoar	temperature	43.0
+17516 Kogayukihito	temperature	175.0
+25925 Jamesfenska	temperature	183.0
+(126154) 2001 YH140	temperature	42.0
+(248835) 2006 SX368	temperature	80.0
+2029 Binomi	temperature	182.0

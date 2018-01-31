@@ -1,0 +1,39 @@
+Dodge Caravan	productionStartDate	1983-11-02
+Dodge Caravan  Generation I   1	productionStartDate	1983-11-02
+Audi A2	productionStartDate	1999-11-15
+Ford Escape  Second generation North America   1	productionStartDate	2007-01-29
+Oldsmobile Silhouette	productionStartDate	1989-08-01
+Buick LaCrosse	productionStartDate	2004-09-07
+Buick LaCrosse  First generationNorth America   1	productionStartDate	2004-09-07
+Buick LaCrosse  cond generation   1	productionStartDate	2009-06-15
+Mercury Sable	productionStartDate	2009-05-21
+Mercury Milan	productionStartDate	2005-08-01
+Lincoln Navigator	productionStartDate	1997-05-14
+Mercedes-Benz A-Class  W168   1	productionStartDate	1999-02-17
+Dodge Ram  Fourth generation   1	productionStartDate	2008-09-12
+Chevrolet Venture	productionStartDate	1996-08-06
+Nissan Hardbody Truck	productionStartDate	2008-03-15
+Austin Champ	productionStartDate	1951-09-01
+Ford Taurus SHO  Fourth generation   1	productionStartDate	2009-06-15
+Ford Fusion (Americas)	productionStartDate	2005-08-01
+Buick Enclave	productionStartDate	2007-04-11
+Lincoln MKZ	productionStartDate	2005-08-01
+Zastava Koral	productionStartDate	1980-11-28
+Zastava Florida	productionStartDate	1988-11-02
+Zastava Skala	productionStartDate	1971-10-15
+Caterpillar 797	productionStartDate	1998-09-22
+Holden VB Commodore	productionStartDate	1978-10-26
+Holden VC Commodore	productionStartDate	1980-03-30
+Holden VH Commodore	productionStartDate	1981-10-05
+Holden VN Commodore	productionStartDate	1988-08-17
+Holden VQ Caprice	productionStartDate	1990-03-07
+Pontiac G8	productionStartDate	2007-12-18
+Marinens Flyvebaatfabrikk M.F.11	productionStartDate	1930-10-11
+Ford Focus (second generation, North America)	productionStartDate	2007-10-15
+Ford Flex	productionStartDate	2008-06-03
+ENAER T-35 Pillán	productionStartDate	1984-12-28
+GMC Terrain	productionStartDate	2009-08-10
+Lincoln MKT	productionStartDate	2009-07-06
+Ford Taurus (sixth generation)	productionStartDate	2009-06-15
+Volga Siber	productionStartDate	2008-07-25
+Buick Rainier	productionStartDate	2003-07-28

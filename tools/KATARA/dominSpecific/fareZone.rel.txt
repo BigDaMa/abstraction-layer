@@ -1,0 +1,2398 @@
+London Waterloo station	fareZone	1
+London King's Cross railway station	fareZone	1
+Waterloo tube station	fareZone	1
+Mornington Crescent tube station	fareZone	2
+Liverpool Street station	fareZone	1
+Liverpool Street station  Liverpool Street   1	fareZone	1
+Oval tube station	fareZone	2
+London Paddington station	fareZone	1
+London Paddington station  Paddington   1	fareZone	1
+Bethnal Green tube station	fareZone	2
+Wallington railway station	fareZone	5
+Tottenham Court Road tube station	fareZone	1
+Notting Hill Gate tube station	fareZone	1
+Euston railway station	fareZone	1
+Marylebone station	fareZone	1
+Marylebone station  Marylebone   1	fareZone	1
+Pennsylvania Station (New York City)	fareZone	City Terminal Zone (LIRR)
+Pennsylvania Station (New York City)	fareZone	Zone 1 (New Jersey Transit)
+Mitcham Junction station	fareZone	4
+Woolwich Arsenal station	fareZone	4
+Blackheath railway station	fareZone	3
+Dollis Hill tube station	fareZone	3
+Bounds Green tube station	fareZone	3
+London Bridge station	fareZone	1
+London Bridge station  London Bridge   1	fareZone	1
+Charing Cross tube station	fareZone	1
+Cannon Street station	fareZone	1
+Cannon Street station  Cannon Street  1	fareZone	1
+Embankment tube station	fareZone	1
+Charing Cross railway station	fareZone	1
+Holborn tube station	fareZone	1
+Arsenal tube station	fareZone	2
+Finsbury Park station	fareZone	2
+Leicester Square tube station	fareZone	1
+Piccadilly Circus tube station	fareZone	1
+King's Cross St. Pancras tube station	fareZone	1
+Acton Town tube station	fareZone	3
+Baker Street tube station	fareZone	1
+Highbury & Islington station	fareZone	2
+Roding Valley tube station	fareZone	4
+Oxford Circus tube station	fareZone	1
+Limehouse station	fareZone	2
+Westferry DLR station	fareZone	2
+Bellingham railway station	fareZone	3
+Camden Town tube station	fareZone	2
+Bank-Monument station	fareZone	1
+Green Park tube station	fareZone	1
+Clapham Junction railway station	fareZone	2
+Stoke Newington railway station	fareZone	2
+East Finchley tube station	fareZone	3
+Canary Wharf tube station	fareZone	2
+Grand Central Terminal	fareZone	1
+St Pancras railway station	fareZone	1
+West Ealing railway station	fareZone	3
+Greenwich station	fareZone	2
+North Greenwich tube station	fareZone	2 & 3
+Maze Hill railway station	fareZone	3
+Westcombe Park railway station	fareZone	3
+Bayswater tube station	fareZone	1
+Amersham station	fareZone	9
+Cockfosters tube station	fareZone	5
+London Victoria station	fareZone	1
+London Victoria station  Victoria  1	fareZone	1
+South Kensington tube station	fareZone	1
+Uxbridge tube station	fareZone	6
+Streatham Hill railway station	fareZone	3
+Battersea Park railway station	fareZone	2
+Osterley tube station	fareZone	4
+Highgate tube station	fareZone	3
+Watford tube station	fareZone	7
+Kew Gardens station (London)	fareZone	3
+Richmond station (London)	fareZone	4
+Brixton tube station	fareZone	2
+Deptford Bridge DLR station	fareZone	2
+Deptford railway station	fareZone	2
+Cutty Sark DLR station	fareZone	2
+High Barnet tube station	fareZone	5
+Elephant & Castle tube station	fareZone	1
+Westminster tube station	fareZone	1
+Moorgate station	fareZone	1
+Fenchurch Street railway station	fareZone	1
+Kingsbury tube station	fareZone	4
+Wembley Park tube station	fareZone	4
+Neasden tube station	fareZone	3
+Willesden Green tube station	fareZone	2
+Kilburn tube station	fareZone	2
+West Hampstead tube station	fareZone	2
+Finchley Road tube station	fareZone	2
+St John's Wood tube station	fareZone	2
+Bond Street tube station	fareZone	1
+Southwark tube station	fareZone	1
+Swiss Cottage tube station	fareZone	2
+Bermondsey tube station	fareZone	2
+Canada Water station	fareZone	2
+Canning Town station	fareZone	3
+West Ham station	fareZone	3
+Queensbury tube station	fareZone	4
+Canons Park tube station	fareZone	5
+Stratford station	fareZone	3
+Stanmore tube station	fareZone	5
+Lambeth North tube station	fareZone	1
+Regent's Park tube station	fareZone	1
+Warwick Avenue tube station	fareZone	2
+Euston tube station	fareZone	1
+Maida Vale tube station	fareZone	2
+Kilburn Park tube station	fareZone	2
+Queen's Park station	fareZone	2
+Kensal Green station	fareZone	2
+Willesden Junction station	fareZone	2
+Edgware Road tube station (Circle, District and Hammersmith & City Lines)	fareZone	1
+Harlesden station	fareZone	3
+Stonebridge Park station	fareZone	3
+Wembley Central station	fareZone	4
+South Kenton station	fareZone	4
+North Wembley station	fareZone	4
+Kenton station	fareZone	4
+Harrow & Wealdstone station	fareZone	5
+Borough tube station	fareZone	1
+Old Street station	fareZone	1
+Kennington tube station	fareZone	2
+Angel tube station	fareZone	1
+Clapham North tube station	fareZone	2
+Stockwell tube station	fareZone	2
+Warren Street tube station	fareZone	1
+Goodge Street tube station	fareZone	1
+Hammersmith tube station (Piccadilly and District lines)	fareZone	2
+Morden tube station	fareZone	4
+Earl's Court tube station	fareZone	1
+Rayners Lane tube station	fareZone	5
+Ealing Broadway station	fareZone	3
+Blackfriars station	fareZone	1
+Blackfriars station  Blackfriars   1	fareZone	1
+Farringdon station	fareZone	1
+Crystal Palace railway station	fareZone	3
+St. Paul's tube station	fareZone	1
+Chancery Lane tube station	fareZone	1
+Hyde Park Corner tube station	fareZone	1
+Euston Square tube station	fareZone	1
+Tower Hill tube station	fareZone	1
+Tower Gateway DLR station	fareZone	1
+Shadwell railway station	fareZone	2
+Lewisham station	fareZone	2
+Aldgate tube station	fareZone	1
+Aldgate East tube station	fareZone	1
+Whitechapel station	fareZone	2
+High Street Kensington tube station	fareZone	1
+Gloucester Road tube station	fareZone	1
+Great Portland Street tube station	fareZone	1
+Mansion House tube station	fareZone	1
+Marble Arch tube station	fareZone	1
+Queensway tube station	fareZone	1
+Pimlico tube station	fareZone	1
+Lancaster Gate tube station	fareZone	1
+Sloane Square tube station	fareZone	1
+Vauxhall station	fareZone	1
+Russell Square tube station	fareZone	1
+Temple tube station	fareZone	1
+Barbican tube station	fareZone	1
+St. James's Park tube station	fareZone	1
+Knightsbridge tube station	fareZone	1
+Wapping railway station	fareZone	2
+Rotherhithe railway station	fareZone	2
+Surrey Quays railway station	fareZone	2
+New Cross Gate railway station	fareZone	2
+New Cross railway station	fareZone	2
+Shadwell DLR station	fareZone	2
+Heron Quays DLR station	fareZone	2
+City Thameslink railway station	fareZone	1
+London Waterloo East railway station	fareZone	1
+Kentish Town station	fareZone	2
+Chalfont & Latimer station	fareZone	8
+Watford Junction railway station	fareZone	W
+Union Station (Washington, D.C.)	fareZone	1(VREX)
+Custom House for Excel DLR station	fareZone	3
+Leyton tube station	fareZone	3
+Barons Court tube station	fareZone	2
+Brondesbury railway station	fareZone	2
+Streatham railway station	fareZone	3
+Clapham Common tube station	fareZone	2
+Belsize Park tube station	fareZone	2
+Clapham South tube station	fareZone	2
+Union Station (Toronto)	fareZone	02
+Canary Wharf DLR station	fareZone	2
+Wimbledon station	fareZone	3
+Argentine (Paris Métro)	fareZone	1
+Tuileries (Paris Métro)	fareZone	1
+Hôtel de Ville (Paris Métro)	fareZone	1
+Union Station (Dallas)	fareZone	Eastern TRE Fare Zone (TRE)
+Medical/Market Center (TRE station)	fareZone	Eastern TRE Fare Zone (TRE)
+South Irving (TRE station)	fareZone	Eastern TRE Fare Zone (TRE)
+West Irving (TRE station)	fareZone	Eastern TRE Fare Zone
+CentrePort/DFW Airport (TRE station)	fareZone	Western TRE Fare Zone
+Hurst/Bell (TRE station)	fareZone	Western TRE Fare Zone
+Richland Hills (TRE station)	fareZone	Western TRE Fare Zone
+Fort Worth Intermodal Transportation Center	fareZone	Western TRE Fare Zone
+T&P Station	fareZone	Western TRE Fare Zone
+Cité (Paris Métro)	fareZone	1
+Montparnasse – Bienvenüe (Paris Métro)	fareZone	1
+Place d'Italie (Paris Métro)	fareZone	1
+Passy (Paris Métro)	fareZone	1
+Balard (Paris Métro)	fareZone	1
+Mirabeau (Paris Métro)	fareZone	1
+Abbesses (Paris Métro)	fareZone	1
+Brixton railway station	fareZone	2
+Rennes (Paris Métro)	fareZone	1
+Gare de Cergy-le-Haut	fareZone	5
+Norbiton railway station	fareZone	5
+Clapham High Street railway station	fareZone	2
+South Bermondsey railway station	fareZone	2
+Denmark Hill railway station	fareZone	2
+Wandsworth Road railway station	fareZone	2
+Brockley railway station	fareZone	2
+Herne Hill railway station	fareZone	2
+Peckham Rye railway station	fareZone	2
+Queens Road Peckham railway station	fareZone	2
+Stepney Green tube station	fareZone	2
+Mile End tube station	fareZone	2
+Bow Road tube station	fareZone	2
+Bromley-by-Bow tube station	fareZone	2
+Gospel Oak railway station	fareZone	2
+Barking station	fareZone	4
+Woodford tube station	fareZone	4
+Poughkeepsie (Metro-North station)	fareZone	9 (Metro North)
+New Hamburg (Metro-North station)	fareZone	8
+Beacon (Metro-North station)	fareZone	8
+Breakneck Ridge (Metro-North station)	fareZone	7
+Cold Spring (Metro-North station)	fareZone	7
+Garrison (Metro-North station)	fareZone	7
+Manitou (Metro-North station)	fareZone	7
+Peekskill (Metro-North station)	fareZone	6
+Cortlandt (Metro-North station)	fareZone	6
+Croton–Harmon (Metro-North station)	fareZone	5 (Metro North)
+Ossining (Metro-North station)	fareZone	5
+Scarborough (Metro-North station)	fareZone	5
+Philipse Manor (Metro-North station)	fareZone	5
+Tarrytown (Metro-North station)	fareZone	5
+Irvington (Metro-North station)	fareZone	4
+Dobbs Ferry (Metro-North station)	fareZone	4
+Ardsley-on-Hudson (Metro-North station)	fareZone	4
+Hastings-on-Hudson (Metro-North station)	fareZone	4
+Greystone (Metro-North station)	fareZone	3
+Glenwood (Metro-North station)	fareZone	3
+Ludlow (Metro-North station)	fareZone	3
+Yonkers (Metro-North station)	fareZone	3 (Metro North)
+Riverdale (Metro-North station)	fareZone	2
+Spuyten Duyvil (Metro-North station)	fareZone	2
+Marble Hill (Metro-North station)	fareZone	2
+University Heights (Metro-North station)	fareZone	2
+Morris Heights (Metro-North station)	fareZone	2
+Harlem – 125th Street (Metro-North station)	fareZone	1
+Crossharbour DLR station	fareZone	2
+Island Gardens DLR station	fareZone	2
+Southall railway station	fareZone	4
+Tenmile River (Metro-North station)	fareZone	10
+Wassaic (Metro-North station)	fareZone	10
+Dover Plains (Metro-North station)	fareZone	9
+Harlem Valley – Wingdale (Metro-North station)	fareZone	9
+Appalachian Trail (Metro-North station)	fareZone	8
+Pawling (Metro-North station)	fareZone	8
+Patterson (Metro-North station)	fareZone	8
+Southeast (Metro-North station)	fareZone	7
+Brewster (Metro-North station)	fareZone	7
+Upton Park tube station	fareZone	3
+Kensington (Olympia) station	fareZone	2
+Archway tube station	fareZone	2
+East Croydon station	fareZone	5
+East Ham tube station	fareZone	3
+Upminster station	fareZone	6
+Upminster Bridge tube station	fareZone	6
+Elm Park tube station	fareZone	6
+Hornchurch tube station	fareZone	6
+Dagenham Heathway tube station	fareZone	5
+Dagenham Dock railway station	fareZone	5
+Plaistow tube station	fareZone	3
+Becontree tube station	fareZone	5
+Upney tube station	fareZone	4
+Tufnell Park tube station	fareZone	2
+Purfleet railway station	fareZone	G
+Grays railway station	fareZone	G
+Chafford Hundred railway station	fareZone	G
+Loughborough Junction railway station	fareZone	2
+Ockendon railway station	fareZone	G
+Emerson Park railway station	fareZone	6
+Franconia–Springfield (WMATA station)	fareZone	Zone 3 (VREX)
+L'Enfant Plaza (WMATA station)	fareZone	Zone 1 (VRE)
+Tooting Bec tube station	fareZone	3
+Romford railway station	fareZone	6
+Belvedere railway station	fareZone	5
+Drayton Park railway station	fareZone	2
+Essex Road railway station	fareZone	2
+Ruislip tube station	fareZone	6
+Ruislip Gardens tube station	fareZone	5
+Beckton DLR station	fareZone	3
+Eastcote tube station	fareZone	5
+Mudchute DLR station	fareZone	2
+Northwood Hills tube station	fareZone	6
+Northwick Park tube station	fareZone	4
+Maryland railway station	fareZone	3
+Ilford railway station	fareZone	4
+Canary Wharf railway station	fareZone	2
+Erith railway station	fareZone	6
+Goodmayes railway station	fareZone	4
+Chadwell Heath railway station	fareZone	5
+Harold Wood railway station	fareZone	6
+Royal Albert DLR station	fareZone	3
+Coulsdon South railway station	fareZone	6
+Arnos Grove tube station	fareZone	4
+Southgate tube station	fareZone	4
+Edgware tube station	fareZone	5
+Chesham tube station	fareZone	9
+Abbey Wood railway station	fareZone	4
+Plumstead railway station	fareZone	4
+Leytonstone High Road railway station	fareZone	3
+Harringay railway station	fareZone	3
+Harringay Green Lanes railway station	fareZone	3
+Acton Central railway station	fareZone	3
+Catford railway station	fareZone	3
+Catford Bridge railway station	fareZone	4
+Acton Main Line railway station	fareZone	3
+Upper Holloway railway station	fareZone	2
+South Harrow tube station	fareZone	5
+Sudbury Hill tube station	fareZone	4
+Alperton tube station	fareZone	4
+Ealing Common tube station	fareZone	3
+Heathrow Terminals 1, 2, 3 tube station	fareZone	6
+Hatton Cross tube station	fareZone	5
+Heathrow Terminal 4 tube station	fareZone	6
+Hounslow Central tube station	fareZone	4
+Hounslow West tube station	fareZone	5
+Hounslow East tube station	fareZone	4
+Boston Manor tube station	fareZone	4
+Crouch Hill railway station	fareZone	3
+Birkbeck station	fareZone	4
+Brondesbury Park railway station	fareZone	2
+Camden Road railway station	fareZone	2
+Oakwood tube station	fareZone	5
+Wood Green tube station	fareZone	3
+Turnpike Lane tube station	fareZone	3
+Manor House tube station	fareZone	2
+Holloway Road tube station	fareZone	2
+Park Royal tube station	fareZone	3
+Putney Bridge tube station	fareZone	2
+Mill Hill East tube station	fareZone	4
+Royal Oak tube station	fareZone	2
+Woodgrange Park railway station	fareZone	3
+Wanstead Park railway station	fareZone	3
+Walthamstow Queen's Road railway station	fareZone	3
+Walthamstow Central station	fareZone	3
+Blackhorse Road station	fareZone	3
+Poplar DLR station	fareZone	2
+Seven Sisters station	fareZone	3
+South Tottenham railway station	fareZone	3
+South Quay DLR station	fareZone	2
+West India Quay DLR station	fareZone	2
+Royal Victoria DLR station	fareZone	3
+East India DLR station	fareZone	2
+Hendon Central tube station	fareZone	3
+Colindale tube station	fareZone	4
+Burnt Oak tube station	fareZone	4
+Brent Cross tube station	fareZone	3
+Hampstead tube station	fareZone	2
+Blackwall DLR station	fareZone	2
+South Ruislip station	fareZone	5
+Leyton Midland Road railway station	fareZone	3
+Manor Park railway station	fareZone	3
+Lee railway station	fareZone	3
+Rectory Road railway station	fareZone	2
+Northfields tube station	fareZone	3
+Leytonstone tube station	fareZone	3
+Prince Regent DLR station	fareZone	3
+Queenstown Road (Battersea) railway station	fareZone	2
+Central railway station, Brisbane	fareZone	1
+Roma Street railway station	fareZone	1
+Fortitude Valley railway station	fareZone	1
+Exhibition railway station, Brisbane	fareZone	1
+Bowen Hills railway station	fareZone	1
+Windsor railway station, Brisbane	fareZone	1/2
+Wilston railway station	fareZone	2
+Newmarket railway station, Brisbane	fareZone	2
+Enoggera railway station	fareZone	2
+Gaythorne railway station	fareZone	2/3
+Grovely railway station	fareZone	3
+Keperra railway station	fareZone	3
+Oxford Park railway station	fareZone	3
+Ferny Grove railway station	fareZone	3
+Mitchelton railway station	fareZone	3
+Alderley railway station, Brisbane	fareZone	2
+Eagle Junction railway station	fareZone	2
+Wooloowin railway station	fareZone	2
+Albion railway station, Brisbane	fareZone	1/2
+Clayfield railway station	fareZone	2
+Hendra railway station	fareZone	2
+Ascot railway station, Brisbane	fareZone	2
+Toombul railway station	fareZone	2
+Nundah railway station	fareZone	2
+Northgate railway station	fareZone	2/3
+Bindha railway station	fareZone	3 (TransLink)
+Banyo railway station	fareZone	3 (TransLink)
+Nudgee railway station	fareZone	3 (TransLink)
+North Boondall railway station	fareZone	4
+Deagon railway station	fareZone	4
+Sandgate railway station, Brisbane	fareZone	4
+Boondall railway station	fareZone	3/4
+Doomben railway station	fareZone	2
+Shorncliffe railway station	fareZone	4
+Virginia railway station	fareZone	3
+Sunshine railway station, Brisbane	fareZone	3
+Geebung railway station	fareZone	Zone 3 (TransLink)
+Loughton tube station	fareZone	6
+Buckhurst Hill tube station	fareZone	5
+Metropark (NJT station)	fareZone	10 (New Jersey Transit)
+Secaucus Junction	fareZone	1
+Caledonian Road & Barnsbury railway station	fareZone	2
+Golders Green tube station	fareZone	3
+Chingford railway station	fareZone	5
+Carseldine railway station	fareZone	4
+Bald Hills railway station	fareZone	4/5
+Strathpine railway station	fareZone	5
+Lawnton railway station	fareZone	5/6
+Bray Park railway station	fareZone	5
+Petrie railway station	fareZone	6
+Dakabin railway station	fareZone	6/7
+Morayfield railway station	fareZone	8
+Caboolture railway station	fareZone	8
+South Brisbane railway station	fareZone	1
+South Bank railway station, Brisbane	fareZone	1
+Park Road railway station	fareZone	1
+Buranda railway station	fareZone	2 (TransLink)
+Finchley Central tube station	fareZone	4
+Tottenham Hale station	fareZone	3
+Northumberland Park railway station	fareZone	3
+Latimer Road tube station	fareZone	2
+Wood Lane tube station	fareZone	2
+White City tube station	fareZone	2
+South Wimbledon tube station	fareZone	3
+Union Station (Chicago)	fareZone	A (Metra only)
+South Ealing tube station	fareZone	3
+South Station	fareZone	1A (MBTA Commuter Rail only)
+Porter (MBTA station)	fareZone	1A
+JFK/UMass (MBTA station)	fareZone	1A
+Anderson Regional Transportation Center	fareZone	2 (MBTA Commuter Rail only)
+Petts Wood railway station	fareZone	5
+Orpington railway station	fareZone	6
+Hoboken Terminal	fareZone	1
+Snaresbrook tube station	fareZone	4
+Grange Hill tube station	fareZone	4
+Pennsylvania Station (Newark)	fareZone	1 (NJT only)
+Hialeah Market (Tri-Rail station)	fareZone	6
+Tri-Rail and Metrorail Transfer Station	fareZone	Miami Airport to Golden Glades (Tri-Rail)
+Goldhawk Road tube station	fareZone	2
+All Saints DLR station	fareZone	2
+Hampstead Heath railway station	fareZone	2
+Chalk Farm tube station	fareZone	2
+Gidea Park railway station	fareZone	6
+Turnham Green tube station	fareZone	2
+Westbourne Park tube station	fareZone	2
+Chorleywood station	fareZone	7
+White Hart Lane railway station	fareZone	3
+Bruce Grove railway station	fareZone	3
+Clapton railway station	fareZone	2
+Highams Park railway station	fareZone	4
+Honor Oak Park railway station	fareZone	3
+Totteridge and Whetstone tube station	fareZone	4
+West Ruislip station	fareZone	6
+Pinner tube station	fareZone	5
+Beckenham Junction station	fareZone	4
+Northolt tube station	fareZone	5
+Greenford station	fareZone	4
+Gants Hill tube station	fareZone	4
+Pudding Mill Lane DLR station	fareZone	2
+Dalston Kingsland railway station	fareZone	2
+Epping tube station	fareZone	6
+Perivale tube station	fareZone	4
+Hanger Lane tube station	fareZone	3
+North Acton tube station	fareZone	2
+East Acton tube station	fareZone	2
+Holland Park tube station	fareZone	2
+Putney railway station	fareZone	2
+North Harrow tube station	fareZone	5
+Harrow-on-the-Hill station	fareZone	5
+West Harrow tube station	fareZone	5
+Hackney Central railway station	fareZone	2
+Wanstead tube station	fareZone	4
+Chappaqua (Metro-North station)	fareZone	5
+Mount Pleasant (Metro-North station)	fareZone	5
+Ickenham tube station	fareZone	6
+West Acton tube station	fareZone	3
+South Woodford tube station	fareZone	4
+Theydon Bois tube station	fareZone	6
+Wood Street railway station	fareZone	4
+Elverson Road DLR station	fareZone	2
+Bow Church DLR station	fareZone	2
+Devons Road DLR station	fareZone	2
+West Brompton station	fareZone	2
+Shepherd's Bush tube station	fareZone	2
+Shepherd's Bush Market tube station	fareZone	2
+Heathrow Terminal 5 station	fareZone	6
+Warehouse District / Hennepin Avenue (Metro Transit station)	fareZone	Downtown zone
+Opa-locka (Tri-Rail station)	fareZone	6
+Golden Glades (Tri-Rail station)	fareZone	6
+Hollywood (Tri-Rail station)	fareZone	5
+Government Plaza (Metro Transit station)	fareZone	Downtown zone
+Nicollet Mall (Metro Transit station)	fareZone	Downtown zone
+Downtown East / Metrodome (Metro Transit station)	fareZone	Downtown zone
+Silver Street railway station	fareZone	4
+Sheridan Street (Tri-Rail station)	fareZone	5
+Fort Lauderdale/Hollywood International Airport (Tri-Rail station)	fareZone	5
+Fort Lauderdale (Tri-Rail station)	fareZone	4
+Gunnersbury station	fareZone	3
+Cypress Creek (Tri-Rail station)	fareZone	4
+Pompano Beach (Tri-Rail station)	fareZone	3
+Deerfield Beach (Tri-Rail station)	fareZone	3
+Boca Raton (Tri-Rail station)	fareZone	3
+Preston Road tube station	fareZone	4
+Delray Beach (Tri-Rail station)	fareZone	2
+Boynton Beach (Tri-Rail station)	fareZone	2
+Lake Worth (Tri-Rail station)	fareZone	1
+West Palm Beach (Tri-Rail station)	fareZone	1
+Mangonia Park (Tri-Rail station)	fareZone	1
+Chiswick Park tube station	fareZone	3
+Bloor GO Station	fareZone	02
+West Finchley tube station	fareZone	4
+Kipling GO Station	fareZone	03
+Weston GO Station	fareZone	04
+Etobicoke North GO Station	fareZone	04
+Malton GO Station	fareZone	31
+Bramalea GO Station	fareZone	32
+Brampton GO Station	fareZone	33
+North White Plains (Metro-North station)	fareZone	4
+Crestwood (Metro-North station)	fareZone	3
+Fordham (Metro-North station)	fareZone	2
+Scarsdale (Metro-North station)	fareZone	4
+Nollendorfplatz (Berlin U-Bahn)	fareZone	A (VBB)
+Sanderstead railway station	fareZone	6
+Dixie GO Station	fareZone	11
+Cooksville GO Station	fareZone	11
+Erindale GO Station	fareZone	12
+Caledonian Road tube station	fareZone	2
+Streetsville GO Station	fareZone	21
+Meadowvale GO Station	fareZone	22
+Milton GO Station	fareZone	24
+Route 128 (MBTA station)	fareZone	2 (MBTA only)
+Purley railway station	fareZone	6
+Ogilvie Transportation Center	fareZone	A
+Suburban Station	fareZone	C
+Berrylands railway station	fareZone	5
+Stratford International station	fareZone	3
+West Croydon station	fareZone	5
+Elmers End station	fareZone	4
+Beckton Park DLR station	fareZone	3
+Cyprus DLR station	fareZone	3
+Gallions Reach DLR station	fareZone	3
+Princeton Junction (NJT station)	fareZone	19 (NJT)
+Newark Liberty International Airport (NJT station)	fareZone	1
+Cheam railway station	fareZone	5
+Jamaica (LIRR station)	fareZone	3
+Falconwood railway station	fareZone	4
+Union Station (Alexandria, Virginia)	fareZone	2(VREX)
+Airport – Terminal 1-Lindbergh (Metro Transit station)	fareZone	Airport zone: Free service to Airport \u2013 Terminal 2-Humphrey, standard fare to other stations.
+Rickmansworth station	fareZone	7
+Moor Park tube station	fareZone	6
+Ladbroke Grove tube station	fareZone	2
+Seven Kings railway station	fareZone	4
+Tooting Broadway tube station	fareZone	3
+Woodside Park tube station	fareZone	4
+Airport – Terminal 2-Humphrey (Metro Transit station)	fareZone	Airport zone: Free service to Airport \u2013 Terminal 1-Lindbergh, standard fare to other stations.
+Mount Pleasant GO Station	fareZone	34
+Georgetown GO Station	fareZone	35
+Reedham railway station (London)	fareZone	6
+Enfield Chase railway station	fareZone	5
+Ruislip Manor tube station	fareZone	6
+Hillingdon tube station	fareZone	6
+Eltham railway station	fareZone	4
+Kidbrooke railway station	fareZone	3
+Nunhead railway station	fareZone	2
+Wembley Stadium railway station	fareZone	4
+Sudbury & Harrow Road railway station	fareZone	4
+Sudbury Hill Harrow railway station	fareZone	4
+Northolt Park railway station	fareZone	5
+Forest Hill railway station	fareZone	3
+Coorparoo railway station	fareZone	2 (TransLink)
+Norman Park railway station	fareZone	2 (TransLink)
+Morningside railway station	fareZone	2 (TransLink)
+Cannon Hill railway station	fareZone	2/3 (TransLink)
+Murarrie railway station	fareZone	3 (TransLink)
+Hemmant railway station	fareZone	3 (TransLink)
+Lindum railway station	fareZone	3 (TransLink)
+Wynnum North railway station	fareZone	3/4 (TransLink)
+Wynnum railway station	fareZone	4 (TransLink)
+Manly railway station	fareZone	4 (TransLink)
+Wynnum Central railway station	fareZone	4 (TransLink)
+Lota railway station	fareZone	4/5 (TransLink)
+Thorneside railway station	fareZone	5 (TransLink)
+Birkdale railway station, Brisbane	fareZone	5 (TransLink)
+Wellington Point railway station	fareZone	5/6 (TransLink)
+Ormiston railway station	fareZone	6 (TransLink)
+Cleveland railway station	fareZone	6
+Dutton Park railway station	fareZone	2
+Fairfield railway station, Brisbane	fareZone	2
+Yeronga railway station	fareZone	2
+Yeerongpilly railway station	fareZone	2/3 (TransLink)
+Tennyson railway station	fareZone	3 (TransLink)
+Coulsdon Town railway station	fareZone	6
+Milton railway station, Brisbane	fareZone	1 (TransLink)
+Auchenflower railway station	fareZone	1 (TransLink)
+Toowong railway station	fareZone	1/2 (TransLink)
+Taringa railway station	fareZone	2 (TransLink)
+Indooroopilly railway station	fareZone	2 (TransLink)
+Chelmer railway station	fareZone	2 (TransLink)
+Graceville railway station	fareZone	2/3 (TransLink)
+Sherwood railway station, Brisbane	fareZone	3 (TransLink)
+Corinda railway station	fareZone	3 (TransLink)
+Oxley railway station	fareZone	3 (TransLink)
+Darra railway station	fareZone	3/4 (TransLink)
+Wacol railway station	fareZone	4/5 (TransLink)
+Hayes railway station	fareZone	5
+Barnehurst railway station	fareZone	6
+Imperial Wharf railway station	fareZone	2
+Welling railway station	fareZone	4
+Charlton railway station	fareZone	3
+Woolwich Dockyard railway station	fareZone	3
+Crofton Park railway station	fareZone	3
+St Johns railway station	fareZone	2
+Hackney Wick railway station	fareZone	2
+Homerton railway station	fareZone	2
+Canonbury railway station	fareZone	2
+Slade Green railway station	fareZone	6
+Streatham Common railway station	fareZone	3
+Ruggles (MBTA station)	fareZone	1A
+Sydenham railway station (London)	fareZone	3
+Penge West railway station	fareZone	4
+Anerley railway station	fareZone	4
+Norwood Junction railway station	fareZone	4
+Gipsy Hill railway station	fareZone	3
+West Norwood railway station	fareZone	3
+Tulse Hill railway station	fareZone	3
+Ladywell railway station	fareZone	3
+Lower Sydenham railway station	fareZone	4
+New Beckenham railway station	fareZone	4
+Feltham railway station	fareZone	6
+Clock House railway station	fareZone	4
+Eden Park railway station	fareZone	5
+West Wickham railway station	fareZone	5
+Penge East railway station	fareZone	4
+Sydenham Hill railway station	fareZone	3
+West Dulwich railway station	fareZone	3
+Kent House railway station	fareZone	4
+Shortlands railway station	fareZone	4
+Bromley South railway station	fareZone	5
+Bickley railway station	fareZone	5
+Chislehurst railway station	fareZone	5
+Elmstead Woods railway station	fareZone	4
+Hither Green railway station	fareZone	3
+Mottingham railway station	fareZone	4
+Sidcup railway station	fareZone	5
+New Eltham railway station	fareZone	4
+Albany Park railway station	fareZone	5
+Bexley railway station	fareZone	6
+Crayford railway station	fareZone	6
+Bromley North railway station	fareZone	4
+St Mary Cray railway station	fareZone	6
+Sundridge Park railway station	fareZone	4
+Ravensbourne railway station	fareZone	4
+Beckenham Hill railway station	fareZone	4
+Chelsfield railway station	fareZone	6
+Knockholt railway station	fareZone	6
+East Dulwich railway station	fareZone	2
+North Dulwich railway station	fareZone	2
+Norbury railway station	fareZone	3
+Thornton Heath railway station	fareZone	4
+Selhurst railway station	fareZone	4
+Wandsworth Common railway station	fareZone	3
+Kentish Town West railway station	fareZone	2
+Finchley Road & Frognal railway station	fareZone	2
+York University GO Station	fareZone	19
+South Acton railway station	fareZone	3
+Hackbridge railway station	fareZone	4
+Carshalton railway station	fareZone	5
+Sutton railway station (London)	fareZone	5
+West Sutton railway station	fareZone	5
+Sutton Common railway station	fareZone	4
+St Helier railway station	fareZone	4
+Morden South railway station	fareZone	4
+South Merton railway station	fareZone	4
+Wimbledon Chase railway station	fareZone	3
+Haydons Road railway station	fareZone	3
+Tooting railway station	fareZone	3
+Cricklewood railway station	fareZone	3
+Waddon railway station	fareZone	5
+Carshalton Beeches railway station	fareZone	5
+Belmont railway station (Sutton)	fareZone	5
+Banstead railway station	fareZone	6
+Epsom Downs railway station	fareZone	6
+Earlsfield railway station	fareZone	3
+Purley Oaks railway station	fareZone	6
+South Croydon railway station	fareZone	5
+Gailes railway station, Brisbane	fareZone	5 (TransLink)
+Goodna railway station	fareZone	5 (TransLink)
+Moorooka railway station	fareZone	3 (TransLink)
+Rocklea railway station	fareZone	3 (TransLink)
+Salisbury railway station, Brisbane	fareZone	3 (TransLink)
+Coopers Plains railway station	fareZone	3/4
+Banoon railway station	fareZone	4 (TransLink)
+Sunnybank railway station	fareZone	4 (TransLink)
+Altandi railway station	fareZone	4 (TransLink)
+Runcorn railway station, Brisbane	fareZone	4 (TransLink)
+Kuraby railway station	fareZone	5 (TransLink)
+Fruitgrove railway station	fareZone	4/5 (TransLink)
+Trinder Park railway station	fareZone	5 (TransLink)
+Woodridge railway station	fareZone	5 (TransLink)
+Kingston railway station, Brisbane	fareZone	5/6 (TransLink)
+Loganlea railway station	fareZone	6
+Bethania railway station	fareZone	6/7 (TransLink)
+Holmview railway station	fareZone	7 (TransLink)
+Ewell East railway station	fareZone	6
+Wilmington Station	fareZone	4 (SEPTA)
+Woodmansterne railway station	fareZone	6
+Kenley railway station	fareZone	6
+Riddlesdown railway station	fareZone	6
+Bethnal Green railway station	fareZone	2
+Cambridge Heath railway station	fareZone	2
+London Fields railway station	fareZone	2
+Sharon Hill (SEPTA Regional Rail station)	fareZone	2
+West Drayton railway station	fareZone	6
+Hayes and Harlington railway station	fareZone	5
+Hanwell railway station	fareZone	4
+Ewell West railway station	fareZone	6
+Stoneleigh railway station	fareZone	5
+Worcester Park railway station	fareZone	4
+Motspur Park railway station	fareZone	4
+Raynes Park railway station	fareZone	4
+69th Street Terminal	fareZone	1 (Route 100)
+Malden Manor railway station	fareZone	4
+Tolworth railway station	fareZone	5
+Chessington North railway station	fareZone	6
+Chessington South railway station	fareZone	6
+New Malden railway station	fareZone	4
+Surbiton railway station	fareZone	6
+Thames Ditton railway station	fareZone	6
+Hampton Court railway station	fareZone	6
+Wandsworth Town railway station	fareZone	2
+Barnes railway station	fareZone	3
+Mortlake railway station	fareZone	3
+North Sheen railway station	fareZone	3
+St Margarets railway station (London)	fareZone	4
+Twickenham railway station	fareZone	5
+Whitton railway station	fareZone	5
+Hounslow railway station	fareZone	5
+Isleworth railway station	fareZone	4
+Syon Lane railway station	fareZone	4
+Kew Bridge railway station	fareZone	3
+Chiswick railway station	fareZone	3
+Brentford railway station	fareZone	4
+Barnes Bridge railway station	fareZone	3
+Strawberry Hill railway station	fareZone	5
+Teddington railway station	fareZone	6
+Hampton Wick railway station	fareZone	6
+Kingston railway station (London)	fareZone	6
+Fulwell railway station	fareZone	6
+Hampton railway station	fareZone	6
+Bexleyheath railway station	fareZone	5
+Hornsey railway station	fareZone	3
+Alexandra Palace railway station	fareZone	3
+Bowes Park railway station	fareZone	3
+Palmers Green railway station	fareZone	4
+Winchmore Hill railway station	fareZone	4
+Grange Park railway station	fareZone	5
+Gordon Hill railway station	fareZone	5
+Crews Hill railway station	fareZone	6
+New Southgate railway station	fareZone	4
+Oakleigh Park railway station	fareZone	4
+Hadley Wood railway station	fareZone	6
+New Barnet railway station	fareZone	5
+St James Street railway station	fareZone	3
+Angel Road railway station	fareZone	4
+Ponders End railway station	fareZone	5
+Brimsdown railway station	fareZone	5
+Enfield Lock railway station	fareZone	6
+Bush Hill Park railway station	fareZone	5
+Enfield Town railway station	fareZone	5
+Edmonton Green railway station	fareZone	4
+Stamford Hill railway station	fareZone	3
+Southbury railway station	fareZone	5
+Turkey Street railway station	fareZone	6
+Sudbury Town tube station	fareZone	4
+North Ealing tube station	fareZone	3
+Wimbledon Park tube station	fareZone	3
+Southfields tube station	fareZone	3
+East Putney tube station	fareZone	2
+Parsons Green tube station	fareZone	2
+Fulham Broadway tube station	fareZone	2
+Ravenscourt Park tube station	fareZone	2
+West Kensington tube station	fareZone	2
+Stamford Brook tube station	fareZone	2
+Redbridge tube station	fareZone	4
+Newbury Park tube station	fareZone	4
+Fairlop tube station	fareZone	4
+Barkingside tube station	fareZone	4
+Hainault tube station	fareZone	4
+Chigwell tube station	fareZone	4
+Northwood tube station	fareZone	6
+Kensal Rise railway station	fareZone	2
+South Hampstead railway station	fareZone	2
+Kilburn High Road railway station	fareZone	2
+Headstone Lane railway station	fareZone	5
+Hatch End railway station	fareZone	6
+Hendon railway station	fareZone	3
+Mill Hill Broadway railway station	fareZone	4
+Elstree & Borehamwood railway station	fareZone	6
+Forest Gate railway station	fareZone	3
+South Greenford railway station	fareZone	4
+Castle Bar Park railway station	fareZone	4
+Drayton Green railway station	fareZone	4
+Chester Transportation Center	fareZone	3
+Cleveland Avenue (MAX station)	fareZone	3
+Gresham Central Transit Center	fareZone	3
+Gresham City Hall (MAX station)	fareZone	3
+Ruby Junction / East 197th Avenue	fareZone	3
+Rockwood / East 188th Avenue	fareZone	3
+East 181st Avenue (MAX station)	fareZone	3
+East 172nd Avenue (MAX station)	fareZone	3
+East 162nd Avenue (MAX station)	fareZone	3
+East 102nd Avenue (MAX station)	fareZone	3
+East 122nd Avenue (MAX station)	fareZone	3
+East 148th Avenue (MAX station)	fareZone	3
+Malden Center (MBTA station)	fareZone	1A
+Gateway / Northeast 99th Avenue Transit Center	fareZone	3
+Northeast 60th Avenue (MAX station)	fareZone	2
+Northeast 82nd Avenue (MAX station)	fareZone	2
+Hollywood / Northeast 42nd Avenue Transit Center	fareZone	2
+Lloyd Center / Northeast 11th Avenue	fareZone	Free Rail Zone
+Northeast 7th Avenue (MAX station)	fareZone	Free Rail Zone
+Convention Center (MAX station)	fareZone	Free Rail Zone
+Rose Quarter Transit Center	fareZone	Free Rail Zone
+Old Town / Chinatown (MAX station)	fareZone	Free Rail Zone
+Skidmore Fountain (MAX station)	fareZone	Free Rail Zone
+Oak Street / Southwest 1st Avenue	fareZone	Free Rail Zone
+Yamhill District and Morrison / Southwest 3rd Avenue (MAX station)	fareZone	Free Rail Zone
+Mall / Southwest 4th Avenue and Mall / Southwest 5th Avenue	fareZone	Free Rail Zone
+Upper Warlingham railway station	fareZone	6
+Goose Hollow / SW Jefferson St	fareZone	1
+Kings Hill / Southwest Salmon	fareZone	1
+Library / Southwest 9th Avenue and Galleria / Southwest 10th Avenue	fareZone	Free Rail Zone
+Pioneer Square South and Pioneer Square North	fareZone	Free Rail Zone
+Danforth GO Station	fareZone	06
+Exhibition GO Station	fareZone	02
+Long Branch GO Station	fareZone	03
+Oriole GO Station	fareZone	05
+Whyteleafe railway station	fareZone	6
+Whyteleafe South railway station	fareZone	6
+Caterham railway station	fareZone	6
+Tattenham Corner railway station	fareZone	6
+Sunset Transit Center	fareZone	3
+Beaverton Transit Center	fareZone	3
+Hatfield Government Center (MAX station)	fareZone	3
+Hillsboro Central / Southeast 3rd Avenue Transit Center	fareZone	3
+Tuality Hospital / Southeast 8th Avenue	fareZone	3
+Beaverton Central (MAX station)	fareZone	3
+Millikan Way (MAX station)	fareZone	3
+Beaverton Creek (MAX station)	fareZone	3
+Merlo Road / Southwest 158th Avenue	fareZone	3
+Elmonica / Southwest 170th Avenue	fareZone	3
+Washington / Southeast 12th Avenue	fareZone	3
+Fair Complex / Hillsboro Airport	fareZone	3
+Willow Creek / Southwest 185th Avenue Transit Center	fareZone	3
+Hawthorn Farm (MAX station)	fareZone	3
+Quatama / Northwest 205th Avenue (MAX station)	fareZone	3
+Orenco / Northwest 231st Avenue	fareZone	3
+Parkrose / Sumner Transit Center	fareZone	3
+Mount Hood Avenue (MAX station)	fareZone	3
+Portland International Airport (MAX station)	fareZone	3
+Millennium Station	fareZone	A (Metra)
+Millennium Station	fareZone	1 (South Shore)
+White Plains (Metro-North station)	fareZone	4
+King City GO Station	fareZone	62
+Maple GO Station	fareZone	61
+Newmarket GO Station	fareZone	64
+Aurora GO Station	fareZone	63
+Rutherford GO Station	fareZone	61
+East Gwillimbury GO Station	fareZone	44
+Bradford GO Station	fareZone	65
+Old Cummer GO Station	fareZone	05
+Richmond Hill GO Station	fareZone	61
+Langstaff GO Station	fareZone	60
+Agincourt GO Station	fareZone	07
+Milliken GO Station	fareZone	70
+Centennial GO Station	fareZone	72
+Unionville GO Station	fareZone	71
+Markham GO Station	fareZone	72
+Mount Joy GO Station	fareZone	73
+Kennedy GO Station	fareZone	77
+Stouffville GO Station	fareZone	74
+Port Credit GO Station	fareZone	11
+Clarkson GO Station	fareZone	12
+Appleby GO Station	fareZone	15
+Burlington GO Station	fareZone	16
+Oakville GO Station	fareZone	13
+Aldershot GO Station	fareZone	17
+Bronte GO Station	fareZone	14
+Mimico GO Station	fareZone	03
+Eglinton GO Station	fareZone	06
+Scarborough GO Station	fareZone	06
+Rouge Hill GO Station	fareZone	09
+Ajax GO Station	fareZone	92
+Guildwood GO Station	fareZone	08
+Pickering GO Station	fareZone	91
+Oshawa GO Station	fareZone	94
+Whitby GO Station	fareZone	93
+Mount Vernon West (Metro-North station)	fareZone	3
+Bushey railway station	fareZone	8
+Watford High Street railway station	fareZone	8
+Atlantic Terminal	fareZone	1
+Lisgar GO Station	fareZone	23
+Princeton (NJT station)	fareZone	19
+Trenton Transit Center	fareZone	22 (NJT Northeast Corridor)
+Trenton Transit Center	fareZone	6 (SEPTA Trenton Line)
+Burpengary railway station	fareZone	7/8
+Narangba railway station	fareZone	7
+Dalston Junction railway station	fareZone	2
+Foxboro (MBTA station)	fareZone	Special
+Pinkenba railway station	fareZone	2
+Market East Station	fareZone	C
+Millbrae Intermodal Terminal	fareZone	Caltrain Fare Zone 2
+T. F. Green Airport (MBTA station)	fareZone	9
+Braintree (MBTA station)	fareZone	2
+Framingham (MBTA station)	fareZone	5
+Fruitvale (BART station)	fareZone	Bay Area Rapid Transit
+San Leandro (BART station)	fareZone	Bay Area Rapid Transit
+Canora (AMT)	fareZone	1
+Norristown Transportation Center	fareZone	2 (NHSL), 3 (Regional Rail)
+Mont-Royal (AMT)	fareZone	1
+Union Station Bus Terminal	fareZone	02
+Montpellier (AMT)	fareZone	1
+Du Ruisseau (AMT)	fareZone	2
+Bois-Franc (AMT)	fareZone	2
+Deux-Montagnes (AMT)	fareZone	5
+Heathrow Central railway station	fareZone	6
+Beenleigh railway station	fareZone	7/8
+Ormeau railway station	fareZone	9 (TransLink)
+Coomera railway station	fareZone	10 (TransLink)
+Helensvale railway station	fareZone	12 (TransLink)
+Nerang railway station	fareZone	13 (TransLink)
+Robina railway station	fareZone	15 (TransLink)
+Hammersmith tube station (Hammersmith & City and Circle lines)	fareZone	2
+Chennai Egmore	fareZone	Southern Railways
+Royapuram	fareZone	Southern Railways
+LaSalle Street Station	fareZone	A
+London City Airport DLR station	fareZone	3
+Interstate / Rose Quarter	fareZone	Free Rail Zone
+Albina/Mississippi (MAX station)	fareZone	2
+Overlook Park (MAX station)	fareZone	2
+North Prescott Street (MAX station)	fareZone	2
+North Killingsworth Street (MAX station)	fareZone	2
+North Rosa Parks Way (MAX station)	fareZone	2
+North Lombard Transit Center	fareZone	2
+Delta Park / Vanport	fareZone	2
+Expo Center (MAX station)	fareZone	2
+Château d'Eau (Paris Métro)	fareZone	1
+Temple University (SEPTA station)	fareZone	C
+Overbrook (SEPTA station)	fareZone	2
+Merion (SEPTA station)	fareZone	2
+Narberth (SEPTA station)	fareZone	2
+Wynnewood (SEPTA station)	fareZone	2
+Haverford (SEPTA Regional Rail station)	fareZone	2
+Bryn Mawr (SEPTA Regional Rail station)	fareZone	3
+Rosemont (SEPTA Regional Rail station)	fareZone	3
+Villanova (SEPTA Regional Rail station)	fareZone	3
+Radnor (SEPTA Regional Rail station)	fareZone	3
+St. Davids (SEPTA station)	fareZone	3
+Wayne (SEPTA station)	fareZone	3
+Strafford (SEPTA station)	fareZone	3
+Devon (SEPTA station)	fareZone	4
+Berwyn (SEPTA station)	fareZone	4
+Daylesford (SEPTA station)	fareZone	4
+Paoli (SEPTA station)	fareZone	4(SEPTA)
+Malvern (SEPTA station)	fareZone	5
+Exton (SEPTA station)	fareZone	5(SEPTA)
+Whitford (SEPTA station)	fareZone	5
+Downingtown (SEPTA station)	fareZone	5 (SEPTA)
+Thorndale (SEPTA station)	fareZone	5
+Cascades (MAX station)	fareZone	3
+Melrose Park (SEPTA station)	fareZone	2
+Auber (Paris RER)	fareZone	1
+Magenta (Paris RER)	fareZone	2
+Pontoon Dock DLR station	fareZone	3
+West Silvertown DLR station	fareZone	3
+King George V DLR station	fareZone	3
+Fox Chase (SEPTA station)	fareZone	2
+Monmouth Park (NJT station)	fareZone	19
+Charles de Gaulle – Étoile	fareZone	1
+Queen Street bus station	fareZone	1
+Cultural Centre busway station	fareZone	1
+West Hampstead Thameslink railway station	fareZone	2
+Alvarado Transportation Center	fareZone	Zone B (Rail Runner)
+Seneca (Metro Rail)	fareZone	Free fare
+Church (Metro Rail)	fareZone	Free fare
+Theater (Metro Rail)	fareZone	Free fare (southbound)
+Theater (Metro Rail)	fareZone	Paid fare (northbound)
+Erie Canal Harbor (Metro Rail)	fareZone	Free fare
+Special Events (Metro Rail)	fareZone	Free fare
+Fountain Plaza (Metro Rail)	fareZone	Free fare
+Lafayette Square (Metro Rail)	fareZone	Free fare
+Allen-Medical Campus (Metro Rail)	fareZone	Paid fare
+Summer–Best (Metro Rail)	fareZone	Paid fare
+Utica (Metro Rail)	fareZone	Paid fare
+Humboldt–Hospital (Metro Rail)	fareZone	Paid fare
+Delavan / Canisius College (Metro Rail)	fareZone	Paid fare
+Amherst Street (Metro Rail)	fareZone	Paid fare
+LaSalle (Metro Rail)	fareZone	Paid fare
+University (Metro Rail)	fareZone	Paid fare
+South Acton (MBTA station)	fareZone	6
+Warminster (SEPTA station)	fareZone	4
+Hatboro (SEPTA station)	fareZone	4
+Willow Grove (SEPTA station)	fareZone	3
+Crestmont (SEPTA station)	fareZone	3
+Roslyn (SEPTA station)	fareZone	3
+Ardsley (SEPTA station)	fareZone	3
+Glenside (SEPTA station)	fareZone	3
+Jenkintown–Wyncote (SEPTA station)	fareZone	3
+Elkins Park (SEPTA station)	fareZone	2
+Fern Rock Transportation Center	fareZone	1
+Wayne Junction (SEPTA station)	fareZone	1
+North Broad (SEPTA station)	fareZone	C (Central Philadelphia)
+University City (SEPTA station)	fareZone	C
+Eastwick (SEPTA station)	fareZone	2
+Darby (SEPTA station)	fareZone	2
+Curtis Park (SEPTA station)	fareZone	2
+Folcroft (SEPTA station)	fareZone	2
+Glenolden (SEPTA station)	fareZone	2
+Norwood (SEPTA station)	fareZone	2
+Prospect Park (SEPTA station)	fareZone	2
+Ridley Park (SEPTA station)	fareZone	3
+Crum Lynne (SEPTA station)	fareZone	3
+Eddystone (SEPTA station)	fareZone	3
+Highland Avenue (SEPTA station)	fareZone	4
+Marcus Hook (SEPTA station)	fareZone	4
+Claymont (SEPTA station)	fareZone	4
+Churchmans Crossing (SEPTA station)	fareZone	5
+Newark Rail Station (Delaware)	fareZone	5 (SEPTA)
+Allegheny (SEPTA Regional Rail station)	fareZone	1
+East Falls (SEPTA station)	fareZone	1
+Manayunk (SEPTA station)	fareZone	2
+Ivy Ridge (SEPTA station)	fareZone	2
+Miquon (SEPTA station)	fareZone	2
+Spring Mill (SEPTA station)	fareZone	3
+Conshohocken (SEPTA station)	fareZone	3
+Main Street, Norristown (SEPTA station)	fareZone	3
+Elm Street, Norristown (SEPTA station)	fareZone	3
+Wynnefield Avenue (SEPTA station)	fareZone	1
+Bala (SEPTA station)	fareZone	2
+Cynwyd (SEPTA station)	fareZone	2
+Doylestown (SEPTA station)	fareZone	5
+Delaware Valley College (SEPTA station)	fareZone	5
+New Britain (SEPTA station)	fareZone	5
+Chalfont (SEPTA station)	fareZone	5
+Link Belt (SEPTA station)	fareZone	5
+Colmar (SEPTA station)	fareZone	5
+Fortuna (SEPTA station)	fareZone	5
+Lansdale (SEPTA station)	fareZone	5
+Pennbrook (SEPTA station)	fareZone	5
+North Hills (SEPTA station)	fareZone	3
+Oreland (SEPTA station)	fareZone	3
+Fort Washington (SEPTA station)	fareZone	3
+Ambler (SEPTA station)	fareZone	3
+Penllyn (SEPTA station)	fareZone	4
+Gwynedd Valley (SEPTA station)	fareZone	4
+North Wales (SEPTA station)	fareZone	4
+Olney (SEPTA Regional Rail station)	fareZone	1
+Lawndale (SEPTA station)	fareZone	2
+Cheltenham (SEPTA station)	fareZone	2
+Ryers (SEPTA station)	fareZone	2
+49th Street (SEPTA station)	fareZone	1
+Angora (SEPTA station)	fareZone	1
+Fernwood–Yeadon (SEPTA station)	fareZone	2
+Lansdowne (SEPTA station)	fareZone	2
+Clifton–Aldan (SEPTA station)	fareZone	2
+Gladstone (SEPTA station)	fareZone	2
+Primos (SEPTA station)	fareZone	2
+Secane (SEPTA station)	fareZone	2
+Media (SEPTA station)	fareZone	3
+Elwyn (SEPTA station)	fareZone	3
+Diridon Station	fareZone	4 (Caltrain)
+Nostrand Avenue (LIRR station)	fareZone	1
+Locust Manor (LIRR station)	fareZone	3
+Landsborough railway station	fareZone	13 (TransLink)
+East New York (LIRR station)	fareZone	1
+Woodside (LIRR station)	fareZone	1
+Glasshouse Mountains railway station	fareZone	11 (TransLink)
+Beerwah railway station	fareZone	12
+Beerburrum railway station	fareZone	10 (TransLink)
+Elimbah railway station	fareZone	9/10 (TransLink)
+Carpenders Park railway station	fareZone	7
+Finland Station	fareZone	0
+Avenel (NJT station)	fareZone	9
+Cooran railway station	fareZone	23 (TransLink)
+New Bridge Landing (NJT station)	fareZone	6
+River Edge (NJT station)	fareZone	6
+Quincy Center (MBTA station)	fareZone	1 for Commuter Rail services only (Part of former exit fare zone of the Red Line.)
+Redbank railway station	fareZone	5/6 (TransLink)
+Newmarket Bus Terminal	fareZone	64
+King George Square busway station	fareZone	1
+Mooloolah railway station	fareZone	14 (TransLink)
+Eudlo railway station	fareZone	15 (TransLink)
+Palmwoods railway station	fareZone	16 (TransLink)
+Woombye railway station	fareZone	16 (TransLink)
+Nambour railway station	fareZone	17 (TransLink)
+Ensemble/HCC (METRORail station)	fareZone	1
+Wheeler (METRORail station)	fareZone	1 Local
+Morton (SEPTA station)	fareZone	2
+Swarthmore (SEPTA station)	fareZone	3
+Croton Falls (Metro-North station)	fareZone	7
+Purdy's (Metro-North station)	fareZone	7
+Katonah (Metro-North station)	fareZone	6 (Metro-North)
+Golden's Bridge (Metro-North station)	fareZone	6
+Bedford Hills (Metro-North station)	fareZone	6
+Mount Kisco (Metro-North station)	fareZone	6
+Pleasantville (Metro-North station)	fareZone	5
+Hawthorne (Metro-North station)	fareZone	5
+Valhalla (Metro-North station)	fareZone	5
+Melrose (Metro-North station)	fareZone	2
+Tremont (Metro-North station)	fareZone	2
+Botanical Garden (Metro-North station)	fareZone	2
+Williams Bridge (Metro-North station)	fareZone	2
+Woodlawn (Metro-North station)	fareZone	2
+Wakefield (Metro-North station)	fareZone	2
+Hazlet (NJT station)	fareZone	16
+Convent Station (NJT station)	fareZone	12
+Morristown (NJT station)	fareZone	14
+Newark Broad Street Station	fareZone	2 (commuter rail only)
+Edens Landing railway station	fareZone	7 (TransLink)
+Yandina railway station	fareZone	19 (TransLink)
+Eumundi railway station	fareZone	21 (TransLink)
+Pomona railway station	fareZone	23 (TransLink)
+Cooroy railway station	fareZone	22 (TransLink)
+Traveston railway station	fareZone	23 (TransLink)
+Gympie North railway station	fareZone	23
+Riverview railway station	fareZone	6 (TransLink)
+Dinmore railway station	fareZone	6 (TransLink)
+Bundamba railway station	fareZone	6/7 (TransLink)
+Booval railway station	fareZone	7 (TransLink)
+East Ipswich railway station	fareZone	7 (TransLink)
+Ebbw Vale railway station, Brisbane	fareZone	6 (TransLink)
+Ipswich railway station, Brisbane	fareZone	7
+Thomas Street railway station	fareZone	7 (TransLink)
+Wulkuraka railway station	fareZone	7/8 (TransLink)
+Karrabin railway station	fareZone	8 (TransLink)
+Walloon railway station	fareZone	8 (TransLink)
+Thagoona railway station	fareZone	9 (TransLink)
+Rosewood railway station	fareZone	9
+South Bank busway station	fareZone	1
+Mater Hill busway station	fareZone	1/2
+Buranda busway station	fareZone	2
+Woolloongabba busway station	fareZone	2
+Greenslopes busway station	fareZone	2
+Holland Park West busway station	fareZone	3
+Griffith University busway station	fareZone	3
+Eight Mile Plains busway station	fareZone	4
+Upper Mount Gravatt busway station	fareZone	3/4
+Roma Street busway station	fareZone	1
+Normanby busway station	fareZone	1/2
+QUT Kelvin Grove busway station	fareZone	1
+RCH Herston busway station	fareZone	1/2
+Ardmore Junction (SEPTA station)	fareZone	1 and 2
+Theatre District / Convention Center (RTD)	fareZone	A
+Brookside bus station	fareZone	2
+Cannon Hill bus station	fareZone	2/3
+Carindale bus station	fareZone	3
+Chermside bus station	fareZone	3/4
+Garden City bus station	fareZone	3/4
+Inala Plaza bus station	fareZone	5
+Indooroopilly bus station	fareZone	2/3
+Springwood bus station	fareZone	5
+Strathpine bus station	fareZone	5
+Toombul bus interchange	fareZone	2/3 (TransLink)
+Victoria Point bus station	fareZone	6/7
+University of Queensland bus station	fareZone	2
+Adelaide Street bus mall	fareZone	1
+Australia Fair bus station	fareZone	13
+9th Street-Congress Street (HBLR station)	fareZone	1
+2nd Street (HBLR station)	fareZone	1
+Pavonia-Newport (HBLR station)	fareZone	1
+Harborside Financial Center (HBLR station)	fareZone	1
+Harsimus Cove (HBLR station)	fareZone	1
+Exchange Place (HBLR station)	fareZone	1
+Essex Street (HBLR station)	fareZone	1
+Jersey Avenue (HBLR station)	fareZone	1
+Liberty State Park (HBLR station)	fareZone	1
+Garfield Avenue (HBLR station)	fareZone	1
+West Side Avenue (HBLR station)	fareZone	1
+Martin Luther King Drive (Jersey City)  Martin Luther King Drive   1	fareZone	1
+Richard Street (HBLR station)	fareZone	1
+45th Street (HBLR station)	fareZone	1
+34th Street (HBLR station)	fareZone	1
+22nd Street (HBLR station)	fareZone	1
+Lincoln Harbor (HBLR station)	fareZone	1
+Far Hills (NJT station)	fareZone	17
+Sainte-Dorothée (AMT)	fareZone	3
+Point Pleasant Beach (NJT station)	fareZone	23
+Capalaba bus station	fareZone	5
+Bergenline Avenue (HBLR station)	fareZone	1
+Tonnelle Avenue (HBLR station)	fareZone	1
+Civic Drive (MAX station)	fareZone	3
+Laurelton (LIRR station)	fareZone	3
+Copiague (LIRR station)	fareZone	9
+Teterboro (NJT station)	fareZone	4
+Wood-Ridge (NJT station)	fareZone	3
+Heathrow Terminal 4 railway station	fareZone	6
+Oradell (NJT station)	fareZone	7
+Emerson (NJT station)	fareZone	8
+Westwood (NJT station)	fareZone	9
+Hillsdale (NJT station)	fareZone	9
+Woodcliff Lake (NJT station)	fareZone	10
+Park Ridge (NJT station)	fareZone	10
+Montvale (NJT station)	fareZone	10
+Mets – Willets Point (LIRR station)	fareZone	1
+Rahway (NJT station)	fareZone	8
+New Brunswick (NJT station)	fareZone	14
+Mastic – Shirley (LIRR station)	fareZone	12
+Allen Lane (SEPTA station)	fareZone	2
+Carpenter (SEPTA station)	fareZone	2
+Upsal (SEPTA station)	fareZone	2
+Tulpehocken (SEPTA station)	fareZone	2
+Chelten Avenue (SEPTA station)	fareZone	2
+St. Martins (SEPTA station)	fareZone	2
+Chestnut Hill East (SEPTA station)	fareZone	2
+Gravers (SEPTA station)	fareZone	2
+Wyndmoor (SEPTA station)	fareZone	2
+Mount Airy (SEPTA station)	fareZone	2
+Sedgwick (SEPTA station)	fareZone	2
+I-25/Broadway (RTD)	fareZone	A
+Red Bank (NJT station)	fareZone	18
+Linden (NJT station)	fareZone	7
+Elizabeth (NJT station)	fareZone	5
+Summit (NJT station)	fareZone	9
+North Elizabeth (NJT station)	fareZone	5
+Kongens Nytorv Station	fareZone	1
+Flushing Main Street (LIRR station)	fareZone	3
+Murray Hill (LIRR station)	fareZone	3
+Broadway (LIRR station)	fareZone	3
+Auburndale (LIRR station)	fareZone	3
+Bayside (LIRR station)	fareZone	3
+Islands Brygge Station	fareZone	1
+Haussmann – Saint-Lazare (Paris RER)	fareZone	1
+Downtown Mountain View station	fareZone	Fare Zone 3 (Caltrain)
+Douglaston (LIRR station)	fareZone	3
+Little Neck (LIRR station)	fareZone	3
+Gare RER de Saint Germain-en-Laye	fareZone	4
+Great Neck (LIRR station)	fareZone	4
+Manhasset (LIRR station)	fareZone	4
+Plandome (LIRR station)	fareZone	4
+Port Washington (LIRR station)	fareZone	4
+Rosedale (LIRR station)	fareZone	3
+Roselle Park (NJT station)	fareZone	7
+Union (NJT station)	fareZone	5
+Cranford (NJT station)	fareZone	7
+Garwood (NJT station)	fareZone	8
+Westfield (NJT station)	fareZone	8
+Fanwood (NJT station)	fareZone	9
+Netherwood (NJT station)	fareZone	10
+Plainfield (NJT station)	fareZone	11
+Hamilton Avenue (River Line station)	fareZone	1
+Cass Street (River Line station)	fareZone	1
+Bordentown (River Line station)	fareZone	1
+Roebling (River Line station)	fareZone	1
+Florence (River Line station)	fareZone	1
+Burlington Towne Centre (River Line station)	fareZone	1
+Burlington South (River Line station)	fareZone	1
+Beverly / Edgewater Park (River Line station)	fareZone	1
+Delanco (River Line station)	fareZone	1
+Riverside (River Line station)	fareZone	1
+Cinnaminson (River Line station)	fareZone	1
+Riverton (River Line station)	fareZone	1
+Palmyra (River Line station)	fareZone	1
+Pennsauken – Route 73 (River Line station)	fareZone	1
+36th Street (River Line station)	fareZone	1
+Cooper Street – Rutgers University (River Line station)	fareZone	1
+Aquarium (River Line station)	fareZone	1
+Entertainment Center (River Line station)	fareZone	1
+Santa Clara Station (California)	fareZone	4
+Langdon Park DLR station	fareZone	2
+Shoreditch High Street railway station	fareZone	1
+Hoxton railway station	fareZone	1
+Haggerston railway station	fareZone	2
+Gibson (LIRR station)	fareZone	4
+Hewlett (LIRR station)	fareZone	4
+Woodmere (LIRR station)	fareZone	4
+Cedarhurst (LIRR station)	fareZone	4
+Lawrence (LIRR station)	fareZone	4
+Inwood (LIRR station)	fareZone	4
+Far Rockaway (LIRR station)	fareZone	4
+Valley Stream (LIRR station)	fareZone	4
+Christianshavn Station	fareZone	1
+Glenview Railroad Station	fareZone	D (Metra)
+Bridgewater (NJT station)	fareZone	15
+Forum Station	fareZone	1
+Vanløse Station	fareZone	2
+Frederiksberg Station	fareZone	1 and 2
+Edison (NJT station)	fareZone	13
+Metuchen (NJT station)	fareZone	11
+Jersey Avenue (NJT station)	fareZone	14
+Hamilton (NJT station)	fareZone	20
+Wellington Railway Station	fareZone	1
+Wallingford (SEPTA station)	fareZone	3
+Moylan – Rose Valley (SEPTA station)	fareZone	3
+Dunellen (NJT station)	fareZone	12
+Bound Brook (NJT station)	fareZone	14
+Finderne (NJT station)	fareZone	15
+Somerville (NJT station)	fareZone	17
+Raritan (NJT station)	fareZone	17
+North Branch (NJT station)	fareZone	18
+White House (NJT station)	fareZone	19
+Lebanon (NJT station)	fareZone	20
+Annandale (NJT station)	fareZone	20
+High Bridge (NJT station)	fareZone	21
+Bretts Wharf	fareZone	2 (TransLink)
+Hartsdale (Metro-North station)	fareZone	4
+Ernakulam Junction	fareZone	Southern Railway
+Ørestad Station	fareZone	3
+Vestamager Station	fareZone	3
+Tuckahoe (Metro-North station)	fareZone	3
+Bronxville (Metro-North station)	fareZone	3
+Fleetwood (Metro-North station)	fareZone	3
+Bulimba ferry wharf	fareZone	2 (TransLink)
+Teneriffe ferry wharf	fareZone	2 (TransLink)
+New Farm Park ferry wharf	fareZone	2 (TransLink)
+Hawthorne ferry wharf	fareZone	2 (TransLink)
+Mowbray Park ferry wharf	fareZone	2 (TransLink)
+Sydney Street ferry wharf	fareZone	2 (TransLink)
+Dockside ferry wharf	fareZone	2 (TransLink)
+Holman Street ferry wharf	fareZone	1 (TransLink)
+Eagle Street Pier ferry wharf	fareZone	1 (TransLink)
+Riverside ferry wharf	fareZone	1 (TransLink)
+QUT Gardens Point ferry wharf	fareZone	1 (TransLink)
+Thornton Street ferry wharf	fareZone	1 (TransLink)
+South Bank 1 & 2 ferry wharf	fareZone	1 (TransLink)
+River Plaza ferry wharf	fareZone	1 (TransLink)
+South Bank 3 ferry wharf	fareZone	1 (TransLink)
+North Quay ferry wharf	fareZone	2 (TransLink)
+Guyatt Park ferry wharf	fareZone	2 (TransLink)
+Regatta ferry wharf	fareZone	2 (TransLink)
+West End ferry wharf	fareZone	2 (TransLink)
+University of Queensland ferry wharf	fareZone	2 (TransLink)
+Mount Vernon East (Metro-North station)	fareZone	12
+Pelham (Metro-North station)	fareZone	12
+New Rochelle (Metro-North station)	fareZone	12 (Metro-North)
+Larchmont (Metro-North station)	fareZone	13
+Mamaroneck (Metro-North station)	fareZone	13
+Harrison (Metro-North station)	fareZone	13
+Rye (Metro-North station)	fareZone	14
+Port Chester (Metro-North station)	fareZone	14
+Kingswood railway station	fareZone	6
+Noble (SEPTA station)	fareZone	3
+Rydal (SEPTA station)	fareZone	3
+Meadowbrook (SEPTA station)	fareZone	3
+Bethayres (SEPTA station)	fareZone	3
+Philmont (SEPTA station)	fareZone	3
+Forest Hills (SEPTA station)	fareZone	3
+Somerton (SEPTA station)	fareZone	3
+Trevose (SEPTA station)	fareZone	4
+Neshaminy Falls (SEPTA station)	fareZone	4
+Langhorne (SEPTA station)	fareZone	4
+Woodbourne (SEPTA station)	fareZone	5
+Yardley (SEPTA station)	fareZone	5
+West Trenton (SEPTA station)	fareZone	6
+Stenton (SEPTA station)	fareZone	2
+Washington Lane (SEPTA station)	fareZone	2
+Germantown (SEPTA station)	fareZone	1
+Wister (SEPTA station)	fareZone	1
+Queen Lane (SEPTA station)	fareZone	1
+Highland (SEPTA station)	fareZone	2
+Chestnut Hill West (SEPTA station)	fareZone	2
+Bridesburg (SEPTA station)	fareZone	2
+Tacony (SEPTA station)	fareZone	2
+Holmesburg Junction (SEPTA station)	fareZone	2
+Torresdale (SEPTA station)	fareZone	3
+Eddington (SEPTA station)	fareZone	4
+Cornwells Heights (SEPTA station)	fareZone	3 (SEPTA only)
+Moskovsky Rail Terminal (Saint Petersburg)	fareZone	0
+Croydon (SEPTA station)	fareZone	4
+Bristol (SEPTA station)	fareZone	4
+Levittown (SEPTA station)	fareZone	5
+Charbagh Railway Station	fareZone	Northern Railways
+Parkview (SEPTA station)	fareZone	1
+Township Line Road (SEPTA station)	fareZone	1
+Penfield (SEPTA station)	fareZone	1
+Beechwood–Brookline (SEPTA station)	fareZone	1
+Wynnewood Road (SEPTA station)	fareZone	1
+Ardmore Avenue (SEPTA station)	fareZone	1 and 2
+Haverford (SEPTA NHSL station)	fareZone	1 and 2
+Bryn Mawr (SEPTA NHSL station)	fareZone	1 and 2
+Roberts Road (SEPTA station)	fareZone	2
+Garrett Hill (SEPTA station)	fareZone	2
+Stadium – Ithan Avenue (SEPTA station)	fareZone	2
+Villanova (SEPTA NHSL station)	fareZone	2
+Radnor (SEPTA NHSL station)	fareZone	2
+County Line (SEPTA NHSL station)	fareZone	2
+Matsonford (SEPTA station)	fareZone	2
+Gulph Mills (SEPTA station)	fareZone	2
+Hughes Park (SEPTA station)	fareZone	2
+DeKalb Street (SEPTA station)	fareZone	2
+Bridgeport (SEPTA station)	fareZone	2
+Barrie Transit  Barrie Bus Terminal   1	fareZone	69
+Flintholm Station	fareZone	2
+Balham station	fareZone	3
+Balham station  Balham   1	fareZone	3
+Varsity Lakes railway station	fareZone	16
+Van Buren Street (Metra)	fareZone	A (Metra)
+Van Buren Street (Metra)	fareZone	1 (South Shore)
+NJPAC / Center Street (NLR station)	fareZone	1
+Riverfront Stadium (NLR station)	fareZone	1
+Hicksville (LIRR station)	fareZone	7
+DR Byen Station	fareZone	1 and 3
+Joliet Union Station	fareZone	H (Metra)
+Lergravsparken Station	fareZone	1
+Clackamas Town Center Transit Center	fareZone	3
+Amagerbro Station	fareZone	1
+Saint-Lambert railway station	fareZone	3
+Miami Central Station	fareZone	Miami Central to Golden Glades (Tri-Rail)Airport to Dadeland South (Metrorail)
+Notre-Dame-des-Champs (Paris Métro)	fareZone	1
+Lamarck – Caulaincourt (Paris Métro)	fareZone	1
+Union Station (San Diego, California)	fareZone	3 (COASTER)
+Lorton (VRE station)	fareZone	4
+Washington Park (NLR station)	fareZone	1
+Atlantic Street (NLR station)	fareZone	1
+Forest Hills (LIRR station)	fareZone	1
+Hamburg-Altona station	fareZone	HVV 101
+East Orange (NJT station)	fareZone	4
+Brick Church (NJT station)	fareZone	4
+Orange (NJT station)	fareZone	4
+Highland Avenue (NJT station)	fareZone	5
+Mountain Station (NJT station)	fareZone	5
+South Orange (NJT station)	fareZone	5
+Maplewood (NJT station)	fareZone	6
+Millburn (NJT station)	fareZone	7
+Short Hills (NJT station)	fareZone	7
+Chatham (NJT station)	fareZone	10
+New Providence (NJT station)	fareZone	9
+Madison (NJT station)	fareZone	11
+Morris Plains (NJT station)	fareZone	16
+Mount Tabor (NJT station)	fareZone	16
+Denville (NJT station)	fareZone	16
+Dover (NJT station)	fareZone	17
+Mount Arlington (NJT station)	fareZone	19
+Lake Hopatcong (NJT station)	fareZone	19
+Netcong (NJT station)	fareZone	19
+Mount Olive (NJT station)	fareZone	19
+Hackettstown (NJT station)	fareZone	19
+Murray Hill (NJT station)	fareZone	10
+Berkeley Heights (NJT station)	fareZone	11
+Gillette (NJT station)	fareZone	12
+Stirling (NJT station)	fareZone	14
+Basking Ridge (NJT station)	fareZone	16
+Lyons (NJT station)	fareZone	14
+Millington (NJT station)	fareZone	14
+Bernardsville (NJT station)	fareZone	16
+Peapack (NJT station)	fareZone	18
+Gladstone (NJT station)	fareZone	18
+Suffern (NJT station)	fareZone	14
+Bloomfield (NJT station)	fareZone	4
+Glen Ridge (NJT station)	fareZone	4
+Watsessing Avenue (NJT station)	fareZone	4
+Walnut Street (NJT station)	fareZone	5
+Bay Street (NJT station)	fareZone	5
+Watchung Avenue (NJT station)	fareZone	5
+Upper Montclair (NJT station)	fareZone	5
+Mountain Avenue (NJT station)	fareZone	6
+Montclair Heights (NJT station)	fareZone	6
+Montclair State University (NJT station)	fareZone	6
+Little Falls (NJT station)	fareZone	8
+Great Notch (NJT station)	fareZone	7
+Wayne-Route 23 (NJT station)	fareZone	9 (train) and 6 (bus)
+Lincoln Park (NJT station)	fareZone	10
+Mountain View (NJT station)	fareZone	9
+Boonton (NJT station)	fareZone	14
+Towaco (NJT station)	fareZone	11
+Mountain Lakes (NJT station)	fareZone	14
+8th Street (HBLR station)	fareZone	1
+Vitebsky Rail Terminal	fareZone	0
+Clifton (NJT station)	fareZone	5
+Sandoval County/US 550 (Rail Runner station)	fareZone	Zone C
+Los Ranchos/Journal Center (Rail Runner station)	fareZone	Zone B
+Island Park (LIRR station)	fareZone	7
+Eagle Farm railway station	fareZone	2
+Aspley bus station	fareZone	4
+Konstanzer Straße (Berlin U-Bahn)	fareZone	A (VBB)
+Clybourn (Metra)	fareZone	A
+Ravenswood (Metra)	fareZone	B
+Rogers Park (Metra)	fareZone	B
+Evanston Main Street (Metra)	fareZone	C
+Evanston Davis Street (Metra)	fareZone	C
+Wilmette (Metra)	fareZone	C
+Manassas (Amtrak station)	fareZone	6 (VRE)
+Kedzie (Metra)	fareZone	A
+Oak Park (Metra)	fareZone	B
+River Forest (Metra)	fareZone	B
+Maywood (Metra)	fareZone	C
+Melrose Park (Metra)	fareZone	C
+Bellwood (Metra)	fareZone	C
+Berkeley (Metra)	fareZone	C
+Elmhurst (Metra)	fareZone	D
+Grand/Cicero (Metra)	fareZone	B
+Villa Park (Metra)	fareZone	D
+Kenilworth (Metra)	fareZone	D
+Laraway Road (Metra)	fareZone	H
+Woodbridge (Amtrak station)	fareZone	5(VRE)
+Museum Campus/11th Street	fareZone	A (Metra)
+Museum Campus/11th Street	fareZone	1 (South Shore)
+McCormick Place (Metra)	fareZone	A (Metra)
+McCormick Place (Metra)	fareZone	1 (South Shore)
+55th-56th-57th Street (Metra)	fareZone	B (Metra)
+55th-56th-57th Street (Metra)	fareZone	2 (South Shore)
+63rd Street (Metra)	fareZone	B (Metra)
+63rd Street (Metra)	fareZone	2 (South Shore)
+Kensington/115th Street (Metra)	fareZone	C (Metra)
+Kensington/115th Street (Metra)	fareZone	2 (South Shore)
+Hegewisch (NICTD)	fareZone	3
+Hammond (NICTD)	fareZone	4
+Indian Hill (Metra)	fareZone	D
+Bartlett (Metra)	fareZone	F
+Big Timber Road (Metra)	fareZone	H
+Downtown Bernalillo (Rail Runner station)	fareZone	Zone C
+Los Lunas (Rail Runner station)	fareZone	Zone A
+Belen (Rail Runner station)	fareZone	Zone A
+Chennai Beach	fareZone	Southern Railways
+De La Concorde (AMT)	fareZone	3
+Tadworth railway station	fareZone	6
+Vendôme (AMT)	fareZone	1
+Solana Beach (Amtrak station)	fareZone	1 (COASTER)
+Oceanside (Amtrak station)	fareZone	1 (COASTER)
+Edgware Road tube station (Bakerloo line)	fareZone	1
+Quantico (Amtrak station)	fareZone	6(VRE)
+Fredericksburg (Amtrak station)	fareZone	9 (VRE)
+Leeland (VRE station)	fareZone	8
+Rippon (VRE station)	fareZone	5
+Backlick Road (VRE station)	fareZone	3
+Rolling Road (VRE station)	fareZone	4
+Brooke (VRE station)	fareZone	8
+Burke Centre (Amtrak station)	fareZone	4
+Manassas Park (VRE station)	fareZone	6
+Broad Run/Airport (VRE station)	fareZone	6
+Old Town Transit Center (MTS Transit Center)	fareZone	3 (COASTER)
+Braeside (Metra)	fareZone	E
+Kew Gardens (LIRR station)	fareZone	1
+Long Island City (LIRR station)	fareZone	1
+Surrey Canal Road railway station	fareZone	2
+Hunterspoint Avenue (LIRR station)	fareZone	1
+Mineola (LIRR station)	fareZone	4
+Merillon Avenue (LIRR station)	fareZone	4
+New Hyde Park (LIRR station)	fareZone	4
+Lynbrook (LIRR station)	fareZone	4
+Babylon (LIRR station)	fareZone	9
+Encinitas (NCTD station)	fareZone	1 (COASTER)
+Floral Park (LIRR station)	fareZone	4
+Westbury (LIRR station)	fareZone	7
+Oak Forest (Metra)	fareZone	E
+Bernalillo County/International Sunport (Rail Runner station)	fareZone	Zone B
+Plimptonville (MBTA station)	fareZone	4
+Walpole (MBTA station)	fareZone	4
+Bunour railway station	fareZone	2
+Meeandah railway station	fareZone	2
+Lake Bluff (Metra)	fareZone	G
+Isleta Pueblo (Rail Runner station)	fareZone	Zone B
+Sandia Pueblo (Rail Runner station)	fareZone	Zone B
+Yankees – East 153rd Street (Metro-North station)	fareZone	2
+Natick (MBTA station)	fareZone	4
+UQ Lakes busway station	fareZone	2
+Western Avenue (Milwaukee District)	fareZone	A
+Perth Amboy (NJT station)	fareZone	12
+South Amboy (NJT station)	fareZone	13
+Aberdeen-Matawan (NJT station)	fareZone	15
+Sundby Station	fareZone	3
+Chipstead railway station	fareZone	6
+Belmont Park (LIRR station)	fareZone	4
+Øresund Station	fareZone	3
+Amager Strand Station	fareZone	3
+Femøren Station	fareZone	3
+Kastrup Station	fareZone	4
+Stratford High Street DLR station	fareZone	3
+Abbey Road DLR station	fareZone	3
+Star Lane DLR station	fareZone	3
+Hyde Park/53rd Street (Metra)	fareZone	B
+North Philadelphia (SEPTA Regional Rail station)	fareZone	C (SEPTA)
+West Hempstead (LIRR station)	fareZone	4
+Westwood (LIRR station)	fareZone	4
+Pepsi Center / Elitch Gardens (RTD)	fareZone	A
+Nine Mile (RTD)	fareZone	C
+Lincoln (RTD)	fareZone	D
+Littleton/Mineral (RTD)	fareZone	C
+30th/Downing (RTD)	fareZone	A
+Norman Park ferry wharf	fareZone	2 (TransLink)
+INVESCO Field at Mile High (RTD)	fareZone	A
+Auraria West Campus (RTD)	fareZone	A
+10th/Osage (RTD)	fareZone	A
+Alameda (RTD)	fareZone	A
+Colfax at Auraria (RTD)	fareZone	A
+18th/California & 18th/Stout (RTD)	fareZone	A
+16th/California & 16th/Stout (RTD)	fareZone	A
+20th/Welton (RTD)	fareZone	A
+25th/Welton (RTD)	fareZone	A
+27th/Welton (RTD)	fareZone	A
+29th/Welton (RTD)	fareZone	A
+Englewood (RTD)	fareZone	B
+Evans (RTD)	fareZone	B
+Oxford / City of Sheridan (RTD)	fareZone	C
+Littleton/Downtown (RTD)	fareZone	C
+Louisiana/Pearl (RTD)	fareZone	B
+University of Denver (RTD)	fareZone	B
+Colorado (RTD)	fareZone	B
+Yale (RTD)	fareZone	B
+Southmoor (RTD)	fareZone	C
+Belleview (RTD)	fareZone	C
+Dayton (RTD)	fareZone	C
+Orchard (RTD)	fareZone	C
+Arapahoe at Village Center (RTD)	fareZone	C
+Dry Creek (RTD)	fareZone	C
+County Line (RTD)	fareZone	D
+Parc (AMT)	fareZone	1
+Patchogue (LIRR station)	fareZone	10
+Port Jefferson (LIRR station)	fareZone	10
+Medford (LIRR station)	fareZone	10
+Middletown (NJT station)	fareZone	17
+Huntington (LIRR station)	fareZone	9
+Vadodara railway station	fareZone	Western Railways
+59th Street (Metra)	fareZone	B
+St. Albans (LIRR station)	fareZone	3
+Sayville (LIRR station)	fareZone	10
+Stony Brook (LIRR station)	fareZone	10
+Crystal City (VRE station)	fareZone	2
+Delawanna (NJT station)	fareZone	3
+Lyndhurst (NJT station)	fareZone	2
+Kingsland (NJT station)	fareZone	2
+Passaic (NJT station)	fareZone	4
+Paterson (NJT station)	fareZone	6
+Glen Rock-Main Line (NJT station)	fareZone	8
+Hawthorne (NJT station)	fareZone	7
+Ridgewood (NJT station)	fareZone	9
+Smithtown (LIRR station)	fareZone	10
+St. James (LIRR station)	fareZone	10
+Ronkonkoma (LIRR station)	fareZone	10
+Ho-Ho-Kus (NJT station)	fareZone	10
+Franklin/Dean College (MBTA station)	fareZone	6
+Central Islip (LIRR station)	fareZone	10
+Crofton Downs Railway Station	fareZone	3
+Kaiwharawhara Railway Station	fareZone	2
+Petone Railway Station	fareZone	4
+Ngauranga Railway Station	fareZone	3
+Sorrento Valley (NCTD station)	fareZone	2 (COASTER)
+Carlsbad Poinsettia (NCTD station)	fareZone	1 (COASTER)
+Carlsbad Village (NCTD station)	fareZone	1 (COASTER)
+Greenport (LIRR station)	fareZone	14
+Queens Village (LIRR station)	fareZone	3
+Moore Market	fareZone	Southern Railways
+Riverhead (LIRR station)	fareZone	14
+Yaphank (LIRR station)	fareZone	12
+Kings Park (LIRR station)	fareZone	10
+Terminus Brossard-Panama (AMT)	fareZone	3
+Long Beach (LIRR station)	fareZone	7
+Oyster Bay (LIRR station)	fareZone	7
+Long Branch (NJT station)	fareZone	20
+Carindale busway station	fareZone	3
+Haverhill (Amtrak station)	fareZone	7
+Syosset (LIRR station)	fareZone	7
+Homewood (Amtrak station)	fareZone	E (Metra)
+Palo Alto (Caltrain station)	fareZone	3
+Glen Rock-Boro Hall (NJT station)	fareZone	8
+Hanford (Amtrak station)	fareZone	Amtrak California
+Montauk (LIRR station)	fareZone	14
+Target Field (Metro Transit station)	fareZone	Downtown zone (Hiawatha)
+Country Life Press (LIRR station)	fareZone	4
+18th Street (Metra)	fareZone	A
+27th Street (Metra)	fareZone	A
+Freeport (LIRR station)	fareZone	7
+Glen Street (LIRR station)	fareZone	7
+Glen Cove (LIRR station)	fareZone	7
+Summit (Amtrak station)	fareZone	C (Metra)
+La Grange (Amtrak station)	fareZone	C (Metra)
+Naperville (Amtrak station)	fareZone	F (Metra)
+Garden City (LIRR station)	fareZone	4
+Waldwick (NJT station)	fareZone	10
+Allendale (NJT station)	fareZone	11
+Kenwood/47th Street (Metra)	fareZone	A
+Ramsey (NJT station)	fareZone	9
+Ramsey Route 17 (NJT station)	fareZone	12
+Mahwah (NJT station)	fareZone	14
+Rutherford (NJT station)	fareZone	3
+Plauderville (NJT station)	fareZone	5
+Garfield (NJT station)	fareZone	4
+Broadway (NJT station)	fareZone	6
+Radburn (NJT station)	fareZone	6
+Barrie South GO Station	fareZone	68
+Wyoming Hill (MBTA station)	fareZone	1
+Brentwood (LIRR station)	fareZone	10
+Deer Park (LIRR station)	fareZone	9
+Centre Avenue (LIRR station)	fareZone	7
+Oceanside (LIRR station)	fareZone	7
+Amityville (LIRR station)	fareZone	9
+East Rockaway (LIRR station)	fareZone	7
+Northport (LIRR station)	fareZone	9
+Roslyn (LIRR station)	fareZone	7
+Greenlawn (LIRR station)	fareZone	9
+Wantagh (LIRR station)	fareZone	7
+Gare de Saint-Rémy-lès-Chevreuse	fareZone	5
+Glen Head (LIRR station)	fareZone	7
+Cold Spring Harbor (LIRR station)	fareZone	9
+San Francisco 4th and King Street Station	fareZone	Fare Zone 1
+Bethpage (LIRR station)	fareZone	7
+East Williston (LIRR station)	fareZone	4
+Elberon (NJT station)	fareZone	20
+Asbury Park (NJT station)	fareZone	21
+Bradley Beach (NJT station)	fareZone	21
+Belmar (NJT station)	fareZone	22
+Spring Lake (NJT station)	fareZone	22
+Manasquan (NJT station)	fareZone	23
+22nd Street (Caltrain station)	fareZone	Fare Zone 1
+Bayshore (Caltrain station)	fareZone	Fare Zone 1
+Hyde Park (MBTA station)	fareZone	1
+Canton Junction (MBTA station)	fareZone	3
+Albertson (LIRR station)	fareZone	7
+Greenvale (LIRR station)	fareZone	7
+East Hampton (LIRR station)	fareZone	14
+Carterton Railway Station	fareZone	13
+Bridgehampton (LIRR station)	fareZone	14
+Masterton Railway Station	fareZone	14
+Sea Cliff (LIRR station)	fareZone	7
+Farmingdale (LIRR station)	fareZone	7
+Woodside Railway Station, New Zealand	fareZone	12
+Featherston Railway Station	fareZone	11
+Nassau Boulevard (LIRR station)	fareZone	4
+Stewart Manor (LIRR station)	fareZone	4
+Bellport (LIRR station)	fareZone	12
+Malverne (LIRR station)	fareZone	4
+Bellmore (LIRR station)	fareZone	7
+Amagansett (LIRR station)	fareZone	14
+Locust Valley (LIRR station)	fareZone	7
+Hempstead Gardens (LIRR station)	fareZone	4
+Southampton (LIRR station)	fareZone	14
+Westhampton (LIRR station)	fareZone	14
+Lakeview (LIRR station)	fareZone	4
+Islip (LIRR station)	fareZone	10
+Bay Shore (LIRR station)	fareZone	10
+Bellerose (LIRR station)	fareZone	4
+Readville (MBTA station)	fareZone	2
+Endicott (MBTA station)	fareZone	2
+Dedham Corporate Center (MBTA station)	fareZone	2
+Islington (MBTA station)	fareZone	3
+College Park (Caltrain station)	fareZone	Fare Zone 4
+Norwood Depot (MBTA station)	fareZone	3
+Norwood Central (MBTA station)	fareZone	3
+South San Francisco (Caltrain station)	fareZone	Fare Zone 1
+Elephant & Castle railway station	fareZone	1
+San Bruno (Caltrain station)	fareZone	Fare Zone 1
+Broadway (Caltrain station)	fareZone	Fare Zone 2
+Burlingame (Caltrain station)	fareZone	Fare Zone 2
+Carle Place (LIRR station)	fareZone	7
+Lindenhurst (LIRR station)	fareZone	9
+Oakdale (LIRR station)	fareZone	10
+Matarawa Railway Station	fareZone	13
+Maymorn Railway Station	fareZone	8
+Speonk (LIRR station)	fareZone	12
+Great River (LIRR station)	fareZone	10
+Renall Street Railway Station	fareZone	14
+San Mateo (Caltrain station)	fareZone	Fare Zone 2
+Hillsdale (Caltrain station)	fareZone	Fare Zone 2
+Hayward Park (Caltrain station)	fareZone	Fare Zone 2
+Castro (Caltrain station)	fareZone	Fare Zone 3
+Solway Railway Station	fareZone	14
+Rockville Centre (LIRR station)	fareZone	7
+San Antonio (Caltrain station)	fareZone	Fare Zone 3
+Belmont (Caltrain station)	fareZone	Fare Zone 2
+San Carlos (Caltrain station)	fareZone	Fare Zone 2
+Gilroy (Caltrain station)	fareZone	Fare zone 6
+Redwood City Sequoia Station	fareZone	Fare Zone 2
+Bois-de-Boulogne (AMT)	fareZone	2.
+Silver Hill (MBTA station)	fareZone	3
+Baldwin (LIRR station)	fareZone	7
+Wyandanch (LIRR station)	fareZone	9
+Atherton (Caltrain station)	fareZone	Fare Zone 3
+Kenosha (Metra)	fareZone	K
+Stanford (Caltrain station)	fareZone	Fare Zone 3
+Hampton Bays (LIRR station)	fareZone	14
+Sainte-Rose (AMT)	fareZone	3
+Beverly Shores (NICTD)	fareZone	7
+Mitcham Eastfields railway station	fareZone	3
+Melrose/Cedar Park (MBTA station)	fareZone	1
+Paul Avenue (Caltrain station)	fareZone	Fare Zone 1
+Deerfield (Metra)	fareZone	E
+Habibganj	fareZone	West Central Railway
+Morgan Hill (Caltrain station)	fareZone	Fare zone 6
+San Martin (Caltrain station)	fareZone	Fare zone 6
+Upper Hutt Railway Station	fareZone	7
+Seaford (LIRR station)	fareZone	7
+Waterloo Interchange (Hutt Central) Railway Station	fareZone	4
+Merrick (LIRR station)	fareZone	7
+Route 59 (Metra)	fareZone	G
+Massapequa (LIRR station)	fareZone	7
+Attleboro (MBTA station)	fareZone	7
+Mansfield (MBTA station)	fareZone	6
+Sharon (MBTA station)	fareZone	4
+Canton Center (MBTA station)	fareZone	3
+Stoughton (MBTA station)	fareZone	4
+Massapequa Park (LIRR station)	fareZone	7
+Western Avenue (BNSF Railway Line)	fareZone	A
+Gloucester Street railway station	fareZone	1
+Menlo Park (Caltrain station)	fareZone	Fare Zone 3
+California Avenue (Caltrain station)	fareZone	Fare Zone 3
+Melrose Highlands (MBTA station)	fareZone	1
+Harvard (Metra)	fareZone	M
+Forge Park/495 (MBTA station)	fareZone	6
+South Chicago (93rd Street) (Metra)	fareZone	B
+Elburn (Metra)	fareZone	I
+Wilmington (MBTA station)	fareZone	3
+West Medford (MBTA station)	fareZone	1A
+Crystal Lake (Metra)	fareZone	I
+Yawkey (MBTA station)	fareZone	1A
+Highland Park (Metra)	fareZone	E
+McHenry (Metra)	fareZone	K
+Lawrence (MBTA station)	fareZone	6
+Andover (MBTA station)	fareZone	5
+Bradford (MBTA station)	fareZone	7
+Hillside Facility (LIRR station)	fareZone	No Fare
+Holbrook/Randolph (MBTA station)	fareZone	3
+West Concord Depot	fareZone	5
+Concord (MBTA station)	fareZone	5
+SeaTac/Airport (Link station)	fareZone	King County Zone
+Rainier Beach (Link station)	fareZone	City of Seattle Zone
+Woodstock (Metra)	fareZone	K
+Manhattan (Metra)	fareZone	I
+Geneva (Metra)	fareZone	H
+Irving Park (Metra)	fareZone	B
+Weymouth Landing/East Braintree (MBTA station)	fareZone	2
+Lombard (Metra)	fareZone	D
+East Weymouth (MBTA station)	fareZone	2
+West Hingham (MBTA station)	fareZone	3
+Nantasket Junction (MBTA station)	fareZone	4
+North Scituate (MBTA station)	fareZone	5
+Cohasset (MBTA station)	fareZone	4
+Greenbush (MBTA station)	fareZone	6
+Ravinia (Metra)	fareZone	E
+Wellesley Farms Railroad Station	fareZone	3
+Belmont Center (MBTA station)	fareZone	1
+Lowell (MBTA station)	fareZone	6
+Gresham (Metra)	fareZone	B
+Blue Island (Metra)	fareZone	D
+Pinelawn (LIRR station)	fareZone	9
+Ayer (MBTA station)	fareZone	8
+Littleton/Route 495 (MBTA station)	fareZone	7
+Norwood Park (Metra)	fareZone	C
+Glencoe (Metra)	fareZone	D
+Le Vésinet – Le Pecq (Paris RER)	fareZone	4
+Le Vésinet – Centre (Paris RER)	fareZone	4
+Chatou – Croissy (Paris RER)	fareZone	4
+Rueil-Malmaison (Paris RER)	fareZone	3
+Nanterre – Ville (Paris RER)	fareZone	3
+Dune Park (NICTD)	fareZone	6
+Hersey (MBTA station)	fareZone	2
+Glen Ellyn (Metra)	fareZone	E
+Norfolk (MBTA station)	fareZone	5
+College Avenue (Metra)	fareZone	E
+Wheaton (Metra)	fareZone	E
+Winfield (Metra)	fareZone	F
+West Chicago (Metra)	fareZone	F
+Lincolnville GO Station	fareZone	74
+La Fox (Metra)	fareZone	I
+Halsted Street (Metra)	fareZone	A
+Cicero (Metra)	fareZone	B
+La Vergne (Metra)	fareZone	B
+Berwyn (Metra)	fareZone	B
+Harlem Avenue (Metra)	fareZone	B
+Riverside (Metra)	fareZone	C
+McMaster University Bus Terminal	fareZone	18
+Hollywood (Metra)	fareZone	C
+Brookfield (Metra)	fareZone	C
+Congress Park (Metra)	fareZone	C
+Stone Avenue (Metra)	fareZone	C
+Western Springs (Metra)	fareZone	D
+Fairview Avenue (Metra)	fareZone	E
+Downers Grove (Metra)	fareZone	E
+Belmont (Metra)	fareZone	E
+Erode Junction	fareZone	Indian Railways
+O'Hare Transfer (Metra)	fareZone	D
+Tinley Park (Metra)	fareZone	E
+Lisle (Metra)	fareZone	E
+Palatine (Metra)	fareZone	F
+Highlands (Metra)	fareZone	D
+Gladstone Park (Metra)	fareZone	B
+Vermont Street (Metra)	fareZone	D
+Hinsdale (Metra)	fareZone	D
+West Hinsdale (Metra)	fareZone	D
+Clarendon Hills (Metra)	fareZone	D
+Westmont (Metra)	fareZone	D
+Aurora (Metra)	fareZone	H
+Wrightwood (Metra)	fareZone	C
+Ashburn (Metra)	fareZone	C
+Oak Lawn (Metra)	fareZone	D
+Chelsea (MBTA station)	fareZone	1A
+Chicago Ridge (Metra)	fareZone	D
+Worth (Metra)	fareZone	D
+Palos Heights (Metra)	fareZone	D
+Palos Park (Metra)	fareZone	E
+Orland Park 143rd Street (Metra)	fareZone	E
+Orland Park 153rd Street (Metra)	fareZone	E
+Orland Park 179th Street (Metra)	fareZone	F
+Willow Springs (Metra)	fareZone	D
+Lemont (Metra)	fareZone	E
+Lockport (Metra)	fareZone	G
+River Grove (Metra)	fareZone	C
+Belmont Avenue (Metra)	fareZone	C
+University Park (Metra)	fareZone	G
+Schiller Park (Metra)	fareZone	C
+Rosemont (Metra)	fareZone	D
+Prospect Heights (Metra)	fareZone	E
+Wheeling (Metra)	fareZone	F
+Buffalo Grove (Metra)	fareZone	F
+Prairie View (Metra)	fareZone	G
+Vernon Hills (Metra)	fareZone	G
+Mundelein (Metra)	fareZone	H
+Prairie Crossing (Metra North Central)	fareZone	H
+Washington Street (Metra)	fareZone	I
+Round Lake Beach (Metra)	fareZone	J
+Lake Villa (Metra)	fareZone	J
+Antioch (Metra)	fareZone	K
+Hanson Park (Metra)	fareZone	B
+Galewood (Metra)	fareZone	B
+Mars (Metra)	fareZone	B
+Mont Clare (Metra)	fareZone	B
+Elmwood Park (Metra)	fareZone	C
+Frankford Junction, Pennsylvania	fareZone	1
+Franklin Park (Metra)	fareZone	C
+Mannheim (Metra)	fareZone	C
+Bensenville (Metra)	fareZone	D
+Wood Dale (Metra)	fareZone	D
+Winnetka (Metra)	fareZone	D
+Itasca (Metra)	fareZone	E
+Hanover Park (Metra)	fareZone	F
+Schaumburg (Metra)	fareZone	F
+Roselle (Metra)	fareZone	E
+Medinah (Metra)	fareZone	E
+National Street (Metra)	fareZone	H
+Elgin (Metra)	fareZone	H
+Healy (Metra)	fareZone	B
+Winthrop Harbor (Metra)	fareZone	I
+Prairie Crossing (Metra Milwaukee District/North)	fareZone	H
+Jefferson Park Transit Center	fareZone	B (Metra)
+Montello (MBTA station)	fareZone	4
+Brockton (MBTA station)	fareZone	4
+Campello (MBTA station)	fareZone	5
+Bridgewater (MBTA station)	fareZone	6
+Middleborough/Lakeville (MBTA station)	fareZone	8
+Highwood (Metra)	fareZone	E
+Blainville (AMT)	fareZone	6
+Greenwood (MBTA station)	fareZone	2
+Wakefield (MBTA station)	fareZone	2
+Reading (MBTA station)	fareZone	2
+Portage / Ogden Dunes (NICTD)	fareZone	6
+Miller (NICTD)	fareZone	5
+Ngaio Railway Station	fareZone	3
+Awarua Street Railway Station	fareZone	3
+Simla Crescent Railway Station	fareZone	3
+Gary Metro Center (NICTD)	fareZone	5
+Box Hill Railway Station, Wellington	fareZone	3
+Roslindale Village (MBTA station)	fareZone	1
+Khandallah Railway Station	fareZone	3
+Raroa Railway Station	fareZone	3
+Johnsonville Railway Station	fareZone	3
+Bellevue (MBTA station)	fareZone	1
+Highland (MBTA station)	fareZone	1
+Needham Junction (MBTA station)	fareZone	2
+Needham Center (MBTA station)	fareZone	2
+Needham Heights (MBTA station)	fareZone	2
+West Roxbury (MBTA station)	fareZone	1
+Woodhaven Junction (LIRR station)	fareZone	1
+Ozone Park (LIRR station)	fareZone	1
+Rego Park (LIRR station)	fareZone	1
+River Works (MBTA station)	fareZone	2
+Brooklyn Manor (LIRR station)	fareZone	1
+Ravinia Park (Metra)	fareZone	E
+Mayfair (Metra)	fareZone	B
+Fox Lake (Metra)	fareZone	J
+Hubbard Woods (Metra)	fareZone	D
+Zion (Metra)	fareZone	I
+Lynn (MBTA station)	fareZone	2
+Waukegan (Metra)	fareZone	H
+Swampscott (MBTA station)	fareZone	3
+Salem (MBTA station)	fareZone	3
+Washington Heights (Metra)	fareZone	C
+111th Street – Morgan Park (Metra)	fareZone	C
+95th Street – Beverly Hills (Metra)	fareZone	C
+Longwood (Metra)	fareZone	C
+123rd Street – Blue Island (Metra)	fareZone	D
+119th Street – Blue Island (Metra)	fareZone	C
+Prairie Street (Metra)	fareZone	D
+Beverly Depot (MBTA station)	fareZone	4
+Montserrat (MBTA station)	fareZone	4
+Prides Crossing (MBTA station)	fareZone	5
+Beverly Farms (MBTA station)	fareZone	5
+Manchester (MBTA station)	fareZone	6
+West Gloucester (MBTA station)	fareZone	7
+Gloucester (MBTA station)	fareZone	7
+Rockport (MBTA station)	fareZone	8
+North Beverly (MBTA station)	fareZone	5
+Hamilton/Wenham (MBTA station)	fareZone	5
+Ipswich (MBTA station)	fareZone	6
+Rowley (MBTA station)	fareZone	7
+Newburyport (MBTA station)	fareZone	8
+Libertyville (Metra)	fareZone	H
+Grayslake (Metra)	fareZone	I
+Gary Airport (NICTD)	fareZone	5
+11th Street (NICTD)	fareZone	8
+Tinley Park – 80th Avenue (Metra)	fareZone	E
+Hudson Lake (NICTD)	fareZone	10
+Fox River Grove (Metra)	fareZone	H
+South Weymouth (MBTA station)	fareZone	3
+Abington (MBTA station)	fareZone	4
+Whitman (MBTA station)	fareZone	5
+Hanson (MBTA station)	fareZone	6
+Halifax (MBTA station)	fareZone	7
+Kingston / Route 3 (MBTA station)	fareZone	8
+Plymouth (MBTA station)	fareZone	8
+91st Street – Beverly Hills (Metra)	fareZone	C
+99th Street – Beverly Hills (Metra)	fareZone	C
+103rd Street – Beverly Hills (Metra)	fareZone	C
+115th Street – Morgan Park (Metra)	fareZone	C
+Doboy railway station	fareZone	3
+Windsor Gardens (MBTA station)	fareZone	4
+Fairmount (MBTA station)	fareZone	1
+Morton Street (MBTA station)	fareZone	1A
+Uphams Corner (MBTA station)	fareZone	1A
+Newtonville (MBTA station)	fareZone	1
+West Newton (MBTA station)	fareZone	2
+Auburndale (MBTA station)	fareZone	2
+Wellesley Hills (MBTA station)	fareZone	3
+Wellesley Square (MBTA station)	fareZone	3
+West Natick (MBTA station)	fareZone	4
+Ashland (MBTA station)	fareZone	6
+Southborough (MBTA station)	fareZone	6
+Westborough (MBTA station)	fareZone	7
+Grafton (MBTA station)	fareZone	8
+107th Street – Beverly Hills (Metra)	fareZone	C
+Lake Cook Road (Metra)	fareZone	E
+Forest Glen (Metra)	fareZone	C
+North Wilmington (MBTA station)	fareZone	3
+Ballardvale (MBTA station)	fareZone	4
+Lufthavnen Station	fareZone	4
+West Hampstead railway station	fareZone	2
+Ingleside (Metra)	fareZone	J
+Grayland (Metra)	fareZone	B
+North Chicago (Metra)	fareZone	G
+Wedgemere (MBTA station)	fareZone	1
+Winchester Center (MBTA station)	fareZone	1
+Mishawum (MBTA station)	fareZone	2
+North Billerica (MBTA station)	fareZone	5
+107th Street (Metra Electric)	fareZone	C
+Pullman/111th Street (Metra)	fareZone	C
+Waverley (MBTA station)	fareZone	1
+Waltham (MBTA station)	fareZone	2
+Brandeis/Roberts (MBTA station)	fareZone	2
+Kendal Green (MBTA station)	fareZone	3
+Hastings (MBTA station)	fareZone	3
+Lincoln (MBTA station)	fareZone	4
+Shirley (MBTA station)	fareZone	8
+North Leominster (MBTA station)	fareZone	8
+Fitchburg (MBTA station)	fareZone	8
+Richton Park (Metra)	fareZone	F
+Brainerd (Metra)	fareZone	C
+PSU South MAX station	fareZone	Free Rail Zone
+Lake Forest (Metra Milwaukee District/North)	fareZone	F
+Lake Forest (Metra Union Pacific/North)	fareZone	F
+Great Lakes (Metra)	fareZone	G
+Des Plaines (Metra)	fareZone	D
+Edison Park (Metra)	fareZone	C
+Roma Quattro Venti railway station	fareZone	Urban
+Northbrook (Metra)	fareZone	E
+North Glenview (Metra)	fareZone	D
+West Pullman (Metra)	fareZone	D
+147th Street (Sibley Boulevard) (Metra)	fareZone	D
+87th Street (Metra Electric)	fareZone	B
+83rd Street (Metra Electric)	fareZone	B
+State Street (Metra)	fareZone	D
+Stony Island (Metra)	fareZone	B
+Harvey (Metra)	fareZone	D
+Oshawa Bus Terminal	fareZone	94
+211th Street (Lincoln Highway) (Metra)	fareZone	F
+Riverdale (Metra)	fareZone	D
+Chelsea tube station	fareZone	1
+Stewart Ridge (Metra)	fareZone	D
+Rosemoor/103rd Street (Metra)	fareZone	C
+75th Street (Grand Crossing) (Metra)	fareZone	B
+Cumberland (Metra)	fareZone	D
+Park Ridge (Metra)	fareZone	C
+Wissahickon (SEPTA station)	fareZone	2
+Golf (Metra)	fareZone	D
+Morton Grove (Metra)	fareZone	C
+Edgebrook (Metra)	fareZone	C
+Round Lake (Metra)	fareZone	I
+Long Lake (Metra)	fareZone	J
+Matteson (Metra)	fareZone	F
+Fort Sheridan (Metra)	fareZone	F
+Apollo Road ferry wharf	fareZone	2 (TransLink)
+Dee Road (Metra)	fareZone	C
+Arlington Heights (Metra)	fareZone	E
+Arlington Park (Metra)	fareZone	E
+Othello (Link station)	fareZone	City of Seattle Zone
+Columbia City (Link station)	fareZone	City of Seattle Zone
+Mount Baker (Link station)	fareZone	City of Seattle Zone
+Beacon Hill (Link station)	fareZone	City of Seattle Zone
+SODO (Link station)	fareZone	City of Seattle Zone
+Stadium (Link station)	fareZone	City of Seattle Zone
+International District / Chinatown (Link station)	fareZone	City of Seattle Zone
+Vincennes (Paris RER)	fareZone	2
+Tukwila (Amtrak station)	fareZone	King County Zone
+South Shore (Metra)	fareZone	B
+Val de Fontenay (Paris RER)	fareZone	3
+New Lenox (Metra)	fareZone	G
+Pioneer Square (Link station)	fareZone	City of Seattle Zone
+Robbins (Metra)	fareZone	D
+Carroll Avenue (NICTD)	fareZone	8
+East Chicago (NICTD)	fareZone	4
+Cheltenham (Metra)	fareZone	B
+Bryn Mawr (Metra)	fareZone	B
+Windsor Park (Metra)	fareZone	B
+95th Street (Chicago State University) (Metra)	fareZone	C
+Salt Lake City Intermodal Hub	fareZone	Free Fare Zone (UTA Buses and TRAX only)
+Midlothian (Metra)	fareZone	D
+Estación de Barrio de la Concepción (Metro de Madrid)	fareZone	A
+Santiago Bernabéu (Metro de Madrid)	fareZone	A
+Hamburg Dammtor station	fareZone	Rapit transit: 000
+Holstenstrasse station	fareZone	101
+Sternschanze station	fareZone	000
+Berliner Tor station	fareZone	HVV: 000, 105, 106
+Jungfernstieg station	fareZone	000
+Barmbek station	fareZone	103, 105
+Old Greek Town (UTA station)	fareZone	Free Fare Zone
+Planetarium (UTA station)	fareZone	Free Fare Zone
+Arena (UTA station)	fareZone	Free Fare Zone
+Temple Square (UTA station)	fareZone	Free Fare Zone
+City Center (UTA station)	fareZone	Free Fare Zone
+Gallivan Plaza (UTA station)	fareZone	Free Fare Zone
+Library (UTA station)	fareZone	Free Fare Zone
+Courthouse (UTA station)	fareZone	Free Fare Zone
+Lohmühlenstraße (Hamburg U-Bahn station)	fareZone	000
+79th Street (Chatham) (Metra)	fareZone	B
+Richtweg (Hamburg U-Bahn station)	fareZone	503
+Mount Prospect (Metra)	fareZone	D
+Ivanhoe (Metra)	fareZone	D
+Barrington (Metra)	fareZone	G
+Pingree Road (Metra)	fareZone	I
+Epuni Railway Station	fareZone	5
+Racine Avenue (Metra)	fareZone	D
+Ashland Avenue (Metra)	fareZone	D
+Cary (Metra)	fareZone	H
+Rosa Parks Hempstead Transit Center	fareZone	4
+Burr Oak (Metra)	fareZone	D
+South Bend Airport (NICTD)	fareZone	11
+Mokena – Front Street (Metra)	fareZone	F
+Mokena – Hickory Creek (Metra)	fareZone	F
+Messberg (Hamburg U-Bahn station)	fareZone	000
+Veddel station	fareZone	108
+Wilhelmsburg station	fareZone	108, 208
+Chesterfield/91st Street (Metra)	fareZone	C
+Woodruff/87th Street (Metra)	fareZone	C
+Avalon Park/83rd Street (Metra)	fareZone	C
+Hazel Crest (Metra)	fareZone	E
+Evanston Central Street (Metra)	fareZone	C
+Calumet (Metra)	fareZone	E
+Flossmoor (Metra)	fareZone	E
+Olympia Fields (Metra)	fareZone	F
+Clyde (Metra)	fareZone	B
+Amenia (NYCRR station)	fareZone	10
+Île-Bigras (AMT)	fareZone	3
+Philadelphia International Airport Terminals (SEPTA station)	fareZone	5
+Richlands railway station	fareZone	4 (TransLink)
+Chabanel (AMT)	fareZone	1
+Wallaceville Railway Station	fareZone	7
+Trentham Railway Station	fareZone	Boundary of 6 & 7
+Heretaunga Railway Station	fareZone	6
+Silverstream Railway Station	fareZone	6
+University Street (Link station)	fareZone	City of Seattle Zone
+Westlake (Link station)	fareZone	City of Seattle Zone
+Manor Park Railway Station, New Zealand	fareZone	6
+Avenida de América (Madrid Metro)	fareZone	A
+Hall/Nimbus	fareZone	All Zone
+Santa Fe Depot (Rail Runner station)	fareZone	Zone F
+South Capitol (Rail Runner station)	fareZone	Zone F
+Zia Road (Rail Runner station)	fareZone	Zone F
+Santa Fe County/NM 599 (Rail Runner station)	fareZone	Zone E
+Versailles-Rive-Gauche (Paris RER)	fareZone	4
+Gare de Versailles-Chantiers	fareZone	4
+Bergshamra metro station	fareZone	A
+Lanskaya	fareZone	1
+Pueblo Nuevo (Madrid Metro)	fareZone	A
+Coimbatore Junction	fareZone	Southern Railways
+Novaya Derevnya	fareZone	2
+Lakhta railway station	fareZone	3
+Yakhtennaya	fareZone	3
+Coleman's (NYCRR station)	fareZone	12
+Sharon (NYCRR station)	fareZone	12
+Hamburg Airport station	fareZone	203
+Rochedale busway station	fareZone	4/5
+Ohlsdorf station	fareZone	103, 105, 203, 204
+Svendborg station	fareZone	3
+Bhopal Habibganj Railway Station	fareZone	West Central Railway
+Vijayawada Junction	fareZone	South Central Railway
+New Delhi Railway Station	fareZone	Northern Railway
+Ligovo railway station	fareZone	2
+Tirunelveli Junction	fareZone	Southern Railways
+Shornur Junction	fareZone	Southern Railways
+The Raunt (LIRR station)	fareZone	1
+University of the Sunshine Coast bus station	fareZone	16
+Debden tube station	fareZone	6
+Southeast Main Street (MAX station)	fareZone	3
+Southeast Division Street (MAX station)	fareZone	3
+Southeast Powell Boulevard (MAX station)	fareZone	3
+Southeast Holgate Boulevard (MAX station)	fareZone	3
+Lents Town Center / Southeast Foster Road	fareZone	3
+Southeast Flavel Street (MAX station)	fareZone	3
+Southeast Fuller Road (MAX station)	fareZone	3
+Bhopal Junction	fareZone	West Central Railway
+Danforth Avenue (HBLR station)	fareZone	1
+Union Station / Northwest 6th & Hoyt Street and Union Station / Northwest 5th & Glisan Street	fareZone	Free Rail Zone
+Northwest 6th & Davis Street and Northwest 5th & Couch Street	fareZone	Free Rail Zone
+Southwest 6th & Pine Street and Southwest 5th & Oak Street	fareZone	Free Rail Zone
+Pioneer Courthouse / Southwest 6th and Pioneer Place / Southwest 5th	fareZone	Free Rail Zone
+Southwest 6th & Madison Street and City Hall / Southwest 5th & Jefferson Street	fareZone	Free Rail Zone
+PSU Urban Center	fareZone	Free Rail Zone
+Marin Boulevard    1	fareZone	1
+Latur Railway Station	fareZone	Central Railway
+Khurai Railway Station	fareZone	West Central Railway
+Cragin (Metra)	fareZone	B
+Hermosa (Metra)	fareZone	B
+Lachine (AMT)	fareZone	1
+Pine Beach (AMT)	fareZone	2
+Valois (AMT)	fareZone	2
+Pointe-Claire (AMT)	fareZone	2
+Cedar Park (AMT)	fareZone	2
+Beaconsfield (AMT)	fareZone	3
+Beaurepaire (AMT)	fareZone	3
+Baie-d'Urfé (AMT)	fareZone	3
+Sainte-Anne-de-Bellevue (AMT)	fareZone	3
+Île-Perrot (AMT)	fareZone	4
+Pincourt/Terrasse-Vaudreuil (AMT)	fareZone	4
+Dorion (AMT)	fareZone	5
+Vaudreuil (AMT)	fareZone	5
+Hudson (AMT)	fareZone	5
+Rigaud (AMT)	fareZone	5
+Princess Alexandra Hospital busway station	fareZone	2
+Boggo Road busway station	fareZone	2
+LaSalle (AMT)	fareZone	1
+Juridicum (SWB)	fareZone	2600 (Bonn)
+Perambur (Railway Station)	fareZone	Southern Railways
+Downtown (Capital MetroRail station)	fareZone	Downtown-Kramer
+Plaza Saltillo (Capital MetroRail station)	fareZone	Downtown-Kramer
+MLK, Jr. (Capital MetroRail station)	fareZone	Downtown-Kramer
+Highland (Capital MetroRail station)	fareZone	Downtown-Kramer
+Crestview (Capital MetroRail station)	fareZone	Downtown-Kramer
+Howard (Capital MetroRail station)	fareZone	Howard-Leander
+Kramer (Capital MetroRail station)	fareZone	Downtown-Kramer
+Lakeline (Capital MetroRail station)	fareZone	Howard-Leander
+Leander (Capital MetroRail station)	fareZone	Howard-Leander
+Springfield Gardens (LIRR station)	fareZone	3
+Holtsville (LIRR station)	fareZone	10
+Bayport (LIRR station)	fareZone	10
+Blue Point (LIRR station)	fareZone	10
+Brookhaven (LIRR station)	fareZone	12
+Elmhurst (LIRR station)	fareZone	1
+Govindpuri Railway Station	fareZone	North Central Railways
+Cordusio (Milan Metro)	fareZone	Urban
+Cairoli (Milan Metro)	fareZone	Urban
+Salem Junction	fareZone	Southern Railways
+Anderson Street (NJT station)	fareZone	5
+Higbie Avenue (LIRR station)	fareZone	3
+Fairmount Avenue (NJT station)	fareZone	5
+Essex Street (NJT station)	fareZone	5
+Podlipki-Dachnye	fareZone	3
+Lausanne-Flon station	fareZone	11 (Central Lausanne)
+Moskva-3	fareZone	1
+Indore Junction	fareZone	Western Railway
+Duomo (Milan Metro)	fareZone	Urban
+San Babila (Milan Metro)	fareZone	Urban
+Palestro (Milan Metro)	fareZone	Urban
+Etterbeek railway station	fareZone	Brussels
+Ollur Railway Station	fareZone	Southern Railway Zone (India)
+Wachusett (MBTA station)	fareZone	TBD
+Gare de Groslay	fareZone	4 (Orange Card)
+Gare de Sarcelles-Saint-Brice	fareZone	4 (Orange Card)
+Gare de Deuil-Montmagny	fareZone	4 (Orange Card)
+Victory (TRE-DART station)	fareZone	Eastern TRE Fare Zone (TRE)
+Cadorna (Milan Metro)	fareZone	Urban
+Conciliazione (Milan Metro)	fareZone	Urban
+Gare d'Épinay-Villetaneuse	fareZone	IDF/3 (Orange Card)
+Gare d'Écouen-Ézanville	fareZone	4 (Orange Card)
+Gare de Domont	fareZone	4 (Orange Card)
+Porta Venezia (Milan Metro)	fareZone	Urban
+Lima (Milan Metro)	fareZone	Urban
+Gare de Bouffémont-Moisselles	fareZone	5 (Orange Card)
+Gare de Montsoult-Maffliers	fareZone	5 (Orange Card)
+Gare de Presles-Courcelles	fareZone	5 (Orange Card)
+Gare de Nointel-Mours	fareZone	5 (Orange Card)
+Gare de Persan-Beaumont	fareZone	5 (Orange Card)
+Kewa Pueblo (Rail Runner station)	fareZone	Zone D
+Gare de Villaines	fareZone	5 (Orange Card)
+Gare de Belloy – Saint-Martin	fareZone	5 (Orange Card)
+Gare de Viarmes	fareZone	5 (Orange Card)
+Gare de Seugy	fareZone	5 (Orange Card)
+Lozovaya Railway Station	fareZone	Southern Ukrainian Railways
+Grand Street (LIRR Main Line station)	fareZone	1
+Kharkiv Railway Station	fareZone	Southern Ukrainian Railways
+Gare de Bornel-Belle-Église	fareZone	5 (Orange Card)
+Rainham railway station (London)	fareZone	6
+Gare de L'Isle-Adam – Parmain	fareZone	5 (Carte Orange)
+Gare de Mériel	fareZone	5 (Carte Orange)
+Gare de Méry-sur-Oise	fareZone	5 (Carte Orange)
+Gare de Frépillon	fareZone	5 (Carte Orange)
+Gare de Bessancourt	fareZone	5 (Carte Orange)
+Gare de Taverny	fareZone	4 (Carte Orange)
+Gare de Vaucelles	fareZone	4 (Carte Orange)
+Gare de Saint-Leu-la-Forêt	fareZone	4 (Carte Orange)
+Gare du Gros Noyer – Saint-Prix	fareZone	4 (Carte Orange)
+Gare d'Ermont-Halte	fareZone	4 (Carte Orange)
+Goose Creek (LIRR station)	fareZone	1
+Gare de Luzarches	fareZone	5 (Carte Orange)
+Gare du Champ de courses d'Enghien	fareZone	5 (Carte Orange)
+Gare d'Enghien-les-Bains	fareZone	4 (Carte Orange)
+Gare de La Barre-Ormesson	fareZone	5 (Carte Orange)
+Weehawken Port Imperial	fareZone	1
+London Bridge Underground Station	fareZone	1
+Cochin Harbour Terminus	fareZone	Southern Railway
+Pantin (Paris RER)	fareZone	2
+Gare de Versailles-Rive-Droite	fareZone	4
+Gare de Montreuil	fareZone	4
+Gare de Saint-Cloud	fareZone	3
+Gare de Sèvres – Ville-d'Avray	fareZone	3
+Tatanagar Railway Station	fareZone	South Eastern Railway
+Madurai Junction	fareZone	Southern Railways
+Épinay-sur-Seine (Paris RER)	fareZone	IDF/3 (Orange Card)
+Edirne Railway Station	fareZone	District 1
+Four Corners/Geneva (MBTA station)	fareZone	1A
+Stones Corner busway station	fareZone	2
+Langlands Park busway station	fareZone	2
+Gare de Cernay	fareZone	4 (Carte Orange)
+Lake Oswego Transit Center	fareZone	3
+Washington Square Transit Center	fareZone	3
+Oregon City Transit Center	fareZone	3
+Katpadi Junction	fareZone	Southern Railways
+Vellore Cantonment	fareZone	Southern Railways
+Gare de Bellevue	fareZone	IDF/3
+Tiruchirappalli Junction	fareZone	Southern Railways
+Howard (LIRR station)	fareZone	1
+Hamilton Beach (LIRR station)	fareZone	1
+Poonkunnam Railway Station	fareZone	Southern Railway Zone (India)
+Saint-Gratien (Paris RER)	fareZone	IDF/4 (Orange Card)
+Aluva Railway Station	fareZone	Southern Railways
+RBWH busway station	fareZone	1/2
+L'Enfant (VRE station)	fareZone	1
+Lonavla Station	fareZone	Central Railways
+Kavi Subhash Metro Station	fareZone	North-South
+Fishers (SEPTA station)	fareZone	1
+Jones/Bronzeville (Metra)	fareZone	A
+Lobo Special Events Platform (Rail Runner station)	fareZone	Zone B
+Loreto (Milan Metro)	fareZone	Urban
+Pasteur (Milan Metro)	fareZone	Urban
+Rovereto (Milan Metro)	fareZone	Urban
+Turro (Milan Metro)	fareZone	Urban
+Gorla (Milan Metro)	fareZone	Urban
+Precotto (Milan Metro)	fareZone	Urban
+Villa San Giovanni (Milan Metro)	fareZone	Urban
+Sesto Marelli (Milan Metro)	fareZone	Urban
+Sesto Rondò (Milan Metro)	fareZone	Extra-urban
+Sesto 1º Maggio (Milan Metro)	fareZone	Extra-urban
+Bundesrechnungshof (SWB)	fareZone	2600 (Bonn)
+Paekakariki Railway Station	fareZone	8
+Ava Railway Station	fareZone	4
+Woburn Railway Station	fareZone	4
+Pomare Railway Station	fareZone	5
+Naenae Railway Station	fareZone	5
+Taita Railway Station	fareZone	5
+Wingate Railway Station	fareZone	5
+Melling Railway Station	fareZone	4
+Western Hutt Railway Station	fareZone	4
+Cauvery Railway Station	fareZone	Southern Railway Zone (India)
+Paraparaumu Railway Station	fareZone	9
+Waikanae Railway Station	fareZone	10
+Kenton/North Denver Avenue	fareZone	2
+Shepherd's Bush railway station	fareZone	2
+Back Bay (MBTA station)	fareZone	1A
+30th Street Station	fareZone	C (SEPTA)
+Palakkad Junction	fareZone	Southern Railways
+Bloomington GO Station	fareZone	TBA
+Gormley GO Station	fareZone	TBA
+Nieuwmarkt metro station	fareZone	5700 (Centrum)
+Waterlooplein metro station	fareZone	5700 (Centrum)
+Jeld-Wen Field (MAX station)	fareZone	1
+Thrissur Railway Station	fareZone	Southern Railway Zone (India)
+Kellinghusenstraße station	fareZone	000, 103, 105
+Rho Fiera (Milan Metro)	fareZone	Extra-urban
+Bisceglie (Milan Metro)	fareZone	Urban
+Bry-sur-Marne (Paris RER)	fareZone	4
+Vadodara Railway Station	fareZone	Western Railways
+Northshore Hamilton ferry wharf	fareZone	2 (TransLink)

@@ -1,0 +1,1759 @@
+Tramlink	numberOfStations	39
+Docklands Light Railway	numberOfStations	40
+London Underground	numberOfStations	270
+Massachusetts Bay Transportation Authority	numberOfStations	123
+Massachusetts Bay Transportation Authority	numberOfStations	51
+Massachusetts Bay Transportation Authority	numberOfStations	74
+Massachusetts Bay Transportation Authority	numberOfStations	22
+Toronto Transit Commission	numberOfStations	69
+Paris Métro	numberOfStations	300
+Bay Area Rapid Transit	numberOfStations	44
+Moscow Metro	numberOfStations	182
+Thameslink	numberOfStations	50
+East London Line	numberOfStations	21
+East London Line	numberOfStations	23
+High Speed 1	numberOfStations	4
+SkyTrain (Vancouver)	numberOfStations	47
+Cairngorm Mountain Railway	numberOfStations	3
+Scarborough RT	numberOfStations	6
+Washington Metro	numberOfStations	86
+MAX Light Rail	numberOfStations	85
+United States Capitol subway system	numberOfStations	6
+RER	numberOfStations	257
+Orient Express	numberOfStations	18
+West Coast Main Line	numberOfStations	51
+Warsaw Metro	numberOfStations	21
+Midland Main Line	numberOfStations	35
+Madrid Metro	numberOfStations	272
+Madrid Metro  Madrid Light Metro   1	numberOfStations	38
+Northern City Line	numberOfStations	4
+Kobe Municipal Subway	numberOfStations	30
+Tōkaidō Main Line	numberOfStations	166
+Sanyō Shinkansen	numberOfStations	19
+Osaka Loop Line	numberOfStations	19
+Taiwan High Speed Rail	numberOfStations	8
+Crossrail	numberOfStations	39
+TriMet	numberOfStations	84
+TriMet	numberOfStations	5
+Manchester Metrolink	numberOfStations	42
+Hankyū Kyōto Main Line	numberOfStations	26
+CityRail	numberOfStations	307
+Settle-Carlisle Line	numberOfStations	10
+SEPTA	numberOfStations	280
+Hong Kong Tramways	numberOfStations	118
+Caltrain	numberOfStations	32
+Kowloon-Canton Railway	numberOfStations	33
+North London Line	numberOfStations	23
+Metropolitan Atlanta Rapid Transit Authority	numberOfStations	38
+List of Montreal Metro stations	numberOfStations	68
+Karasuma Line	numberOfStations	15
+Tren Urbano	numberOfStations	16
+New York City Subway	numberOfStations	468
+Dallas Area Rapid Transit	numberOfStations	55
+Dallas Area Rapid Transit	numberOfStations	10
+Dallas Area Rapid Transit	numberOfStations	12322
+Midland Metro	numberOfStations	23
+Konkan Railway	numberOfStations	59
+Seoul Metropolitan Subway	numberOfStations	291
+Port Authority Trans-Hudson	numberOfStations	13
+New Jersey Transit	numberOfStations	162
+New Jersey Transit	numberOfStations	60
+New Jersey Transit	numberOfStations	27
+New Jersey Transit	numberOfStations	18000
+Newark Light Rail	numberOfStations	5
+Newark Light Rail	numberOfStations	4
+Newark Light Rail	numberOfStations	11
+Jæren Line	numberOfStations	18
+Supertram (Sheffield)	numberOfStations	48
+Metropolitan Transit Authority of Harris County	numberOfStations	16
+Metropolitan Transit Authority of Harris County	numberOfStations	30
+Metropolitan Transit Authority of Harris County	numberOfStations	9960
+Metropolitan Transit Authority of Harris County  METRORail   1	numberOfStations	16
+METRORail	numberOfStations	16
+Staten Island Railway	numberOfStations	22
+Red Line (MBTA)	numberOfStations	17
+Red Line (MBTA)	numberOfStations	18
+42nd Street Shuttle	numberOfStations	2
+Eritrean Railway	numberOfStations	13
+Gyeongbu Line	numberOfStations	90
+Bucharest Metro	numberOfStations	51
+GO Transit	numberOfStations	59
+GO Transit	numberOfStations	17
+Northeast Corridor	numberOfStations	30
+Tōkaidō Shinkansen	numberOfStations	17
+Los Angeles County Metropolitan Transportation Authority	numberOfStations	70
+Los Angeles County Metropolitan Transportation Authority	numberOfStations	23
+Tyne and Wear Metro	numberOfStations	60
+Stockholm Metro	numberOfStations	100
+Dublin Area Rapid Transit	numberOfStations	31
+Philippine National Railways	numberOfStations	127
+Saikyō Line	numberOfStations	19
+West Coast Express	numberOfStations	8
+Yamanote Line	numberOfStations	29
+Yamatoji Line	numberOfStations	22
+Tokyo Metro	numberOfStations	168
+Tokyo Metropolitan Bureau of Transportation	numberOfStations	106
+Tokyo Metro Ginza Line	numberOfStations	19
+Keihin-Tōhoku Line	numberOfStations	35
+Rinkai Line	numberOfStations	8
+Keiō Line	numberOfStations	32
+Chūō Main Line	numberOfStations	112
+Odakyū Odawara Line	numberOfStations	47
+Peak Tram	numberOfStations	6
+Virginia Railway Express	numberOfStations	18
+Osaka Municipal Subway	numberOfStations	125
+Kintetsu Nara Line	numberOfStations	19
+Kintetsu Osaka Line	numberOfStations	48
+Kyoto Municipal Subway	numberOfStations	29
+Tokyo Metro Chiyoda Line	numberOfStations	20
+Hakata-Minami Line	numberOfStations	2
+Kyūshū Shinkansen	numberOfStations	12
+Chicago 'L'	numberOfStations	144
+Triangle Transit	numberOfStations	901
+Helsinki Metro	numberOfStations	17
+Mass Rapid Transit (Singapore)	numberOfStations	79
+BMT Brighton Line	numberOfStations	20
+Roosevelt Island Tramway	numberOfStations	2
+Athens Metro	numberOfStations	33
+North East MRT Line	numberOfStations	16
+The Ghan	numberOfStations	14
+North South MRT Line	numberOfStations	25
+East West MRT Line	numberOfStations	35
+Green Line (MBTA)	numberOfStations	66
+PATCO Speedline	numberOfStations	13
+Greyhound Lines	numberOfStations	2400
+Hiawatha Line	numberOfStations	19
+East Coast Main Line	numberOfStations	52
+Minatomirai Line	numberOfStations	6
+Tōkyū Tōyoko Line	numberOfStations	21
+Orange Line (MBTA)	numberOfStations	19
+JTA Skyway	numberOfStations	8
+Metra	numberOfStations	240
+Carmelit	numberOfStations	6
+Tünel	numberOfStations	2
+Brussels Metro	numberOfStations	68
+Glasgow Subway	numberOfStations	15
+Tōhoku Shinkansen	numberOfStations	23
+Tokyo Monorail	numberOfStations	11
+BTS Skytrain	numberOfStations	25
+Hokuriku Main Line	numberOfStations	78
+Detroit People Mover	numberOfStations	13
+Tokyo subway	numberOfStations	282
+Circle MRT Line	numberOfStations	31
+Prague Metro	numberOfStations	57
+Jōetsu Shinkansen	numberOfStations	10
+Aoimori Railway Line	numberOfStations	26
+Chungbuk Line	numberOfStations	16
+Jungang Line	numberOfStations	82
+Yellow Line (Chicago Transit Authority)	numberOfStations	2
+Red Line (Chicago Transit Authority)	numberOfStations	33
+Red Line (Dallas Area Rapid Transit)	numberOfStations	25
+Blue Line (Dallas Area Rapid Transit)	numberOfStations	21
+Orange Line (Chicago Transit Authority)	numberOfStations	17
+Green Line (Dallas Area Rapid Transit)	numberOfStations	24
+Trinity Railway Express	numberOfStations	10
+Blue Line (Chicago Transit Authority)	numberOfStations	33
+Brown Line (Chicago Transit Authority)	numberOfStations	28
+Green Line (Chicago Transit Authority)	numberOfStations	29
+Purple Line (Chicago Transit Authority)	numberOfStations	27
+Purple Line (Chicago Transit Authority)	numberOfStations	9
+Blue Line (MBTA)	numberOfStations	12
+Expo Line (TransLink)	numberOfStations	20
+Millennium Line	numberOfStations	13
+Canada Line	numberOfStations	16
+MARC Train	numberOfStations	43
+Nagano Shinkansen	numberOfStations	6
+Nottingham Express Transit	numberOfStations	23
+TransMilenio	numberOfStations	114
+Berlin U-Bahn	numberOfStations	173
+Berlin S-Bahn	numberOfStations	166
+Rimutaka Incline	numberOfStations	2
+Barcelona Metro	numberOfStations	164
+Polar Bear Express	numberOfStations	6
+Copenhagen Metro	numberOfStations	22
+Norristown High Speed Line	numberOfStations	22
+Gospel Oak to Barking Line	numberOfStations	12
+Osaka Monorail	numberOfStations	18
+Second Avenue Subway	numberOfStations	16
+Lane Transit District	numberOfStations	10
+Blue Line (Washington Metro)	numberOfStations	27
+Orange Line (Washington Metro)	numberOfStations	26
+Red Line (Washington Metro)	numberOfStations	27
+Green Line (Washington Metro)	numberOfStations	21
+Yellow Line (Washington Metro)	numberOfStations	12
+Ankara Metro	numberOfStations	22
+Silver Line (MBTA)	numberOfStations	13
+Silver Line (MBTA)	numberOfStations	9
+Miami-Dade Transit	numberOfStations	23
+Miami-Dade Transit	numberOfStations	22
+Miami-Dade Transit	numberOfStations	28
+Tri-Rail	numberOfStations	18
+Metromover	numberOfStations	22
+Great Eastern Main Line	numberOfStations	27
+Great Western Main Line	numberOfStations	25
+Sheppard line	numberOfStations	5
+Toronto subway and RT	numberOfStations	69
+Metrolink (Southern California)	numberOfStations	55
+River Line (New Jersey Transit)	numberOfStations	20
+MRT (Bangkok)	numberOfStations	18
+MRT (Bangkok)  Blue Line   1	numberOfStations	18
+Beijing Subway	numberOfStations	198
+Beijing Subway	numberOfStations	172
+Bloor–Danforth line	numberOfStations	31
+Yonge–University–Spadina line	numberOfStations	32
+Amsterdam Metro	numberOfStations	52
+Tokyo Metro Hibiya Line	numberOfStations	21
+North Clyde Line	numberOfStations	51
+Argyle Line	numberOfStations	43
+Iida Line	numberOfStations	94
+Kiev Metro	numberOfStations	49
+London, Tilbury and Southend Railway	numberOfStations	26
+Beovoz	numberOfStations	41
+Nambu Line	numberOfStations	26
+Ōme Line	numberOfStations	25
+Northstar Line	numberOfStations	6
+Fukuchiyama Line	numberOfStations	30
+Hudson–Bergen Light Rail	numberOfStations	24
+São Paulo Metro	numberOfStations	62
+Cairo Metro	numberOfStations	53
+Luas	numberOfStations	54
+Mumbai Metro	numberOfStations	12
+MetroLink (St. Louis)	numberOfStations	37
+Tokyo Metro Hanzōmon Line	numberOfStations	14
+Tbilisi Metro	numberOfStations	22
+Santa Clara Valley Transportation Authority	numberOfStations	62
+Shanghai Metro	numberOfStations	277
+Buffalo Metro Rail	numberOfStations	15
+Ashmont–Mattapan High Speed Line	numberOfStations	8
+C-Train	numberOfStations	36
+RTA Rapid Transit	numberOfStations	18
+RTA Rapid Transit	numberOfStations	34
+OnTrack	numberOfStations	3
+OnTrack	numberOfStations	2
+OnTrack	numberOfStations	3
+OnTrack	numberOfStations	1
+Greater Cleveland Regional Transit Authority	numberOfStations	18
+Greater Cleveland Regional Transit Authority	numberOfStations	34
+Greater Cleveland Regional Transit Authority	numberOfStations	8557
+Seattle Center Monorail	numberOfStations	2
+TheBus (Honolulu)	numberOfStations	4200
+Yokosuka Line	numberOfStations	19
+WestCAT	numberOfStations	300
+Punggol LRT Line	numberOfStations	15
+Akita Shinkansen	numberOfStations	11
+Yamagata Shinkansen	numberOfStations	11
+Edinburgh Trams	numberOfStations	15
+Marzilibahn	numberOfStations	2
+County Connection	numberOfStations	1000
+Seville Metro	numberOfStations	22
+Ventura County Line	numberOfStations	12
+San Bernardino Line	numberOfStations	13
+Community Transit	numberOfStations	2
+Community Transit	numberOfStations	2100
+Tama Toshi Monorail Line	numberOfStations	19
+Itsukaichi Line	numberOfStations	7
+Ayrshire Coast Line	numberOfStations	26
+Caracas Metro	numberOfStations	48
+Downtown Seattle Transit Tunnel	numberOfStations	5
+Altamont Commuter Express	numberOfStations	10
+Tōzai Line (Kyoto)	numberOfStations	17
+Skitube Alpine Railway	numberOfStations	3
+Mexico City Metro	numberOfStations	175
+Riverside Line (Metrolink)	numberOfStations	7
+London Buses	numberOfStations	19000
+Tokyo Metro Marunouchi Line	numberOfStations	28
+Taipei Metro	numberOfStations	89
+Kaohsiung Mass Rapid Transit	numberOfStations	36
+Central Corridor (Minnesota)	numberOfStations	23
+Toden Arakawa Line	numberOfStations	30
+Hankyū Takarazuka Main Line	numberOfStations	19
+Utsunomiya Line	numberOfStations	33
+Bergen Line	numberOfStations	39
+Toei Ōedo Line	numberOfStations	38
+Waterfront Streetcar	numberOfStations	9
+S-train	numberOfStations	85
+Mass Rapid Transit System (Chennai)	numberOfStations	21
+Pascack Valley Line	numberOfStations	18
+Northeast Corridor Line	numberOfStations	17
+Xinbeitou Branch Line (TRTS)	numberOfStations	2
+Wenshan Line (TRTS)	numberOfStations	12
+Danshui Line (TRTS)	numberOfStations	21
+Xindian Line (TRTS)	numberOfStations	10
+Tsukuba Express	numberOfStations	20
+Xiaonanmen Line (TRTS)	numberOfStations	3
+AirTrain Newark	numberOfStations	8
+AirTrain JFK	numberOfStations	10
+AirTrain (SFO)	numberOfStations	9
+Blue and Green Lines (Cleveland)	numberOfStations	6
+Blue and Green Lines (Cleveland)	numberOfStations	6
+Blue and Green Lines (Cleveland)	numberOfStations	3
+Blue and Green Lines (Cleveland)	numberOfStations	4
+Blue and Green Lines (Cleveland)	numberOfStations	11
+Blue and Green Lines (Cleveland)	numberOfStations	11
+Red Line (KMRT)	numberOfStations	24
+Orange Line (KMRT)	numberOfStations	14
+Santiago Metro	numberOfStations	108
+Main Line (NJ Transit)	numberOfStations	26
+Buenos Aires Metro	numberOfStations	76
+Tokyo Metro Namboku Line	numberOfStations	19
+Coaster (San Diego)	numberOfStations	8
+King County Metro	numberOfStations	9549
+Ueno Zoo Monorail	numberOfStations	2
+BMT West End Line	numberOfStations	13
+Rauma Line	numberOfStations	5
+Tokyo Metro Tōzai Line	numberOfStations	23
+Chūō-Sōbu Line	numberOfStations	39
+Tokyo Metro Yūrakuchō Line	numberOfStations	24
+Toei Asakusa Line	numberOfStations	20
+Companhia Paulista de Trens Metropolitanos	numberOfStations	93
+Somerset and Dorset Joint Railway	numberOfStations	48
+Robin Hood Line	numberOfStations	13
+Lynx (transportation)	numberOfStations	5267
+UTA TRAX	numberOfStations	28
+West London Line	numberOfStations	6
+Bukit Panjang LRT Line	numberOfStations	14
+West Highland Line	numberOfStations	33
+Fung Wah Bus Transportation	numberOfStations	2
+LGV Nord	numberOfStations	4
+Lisbon Metro	numberOfStations	46
+Sengkang LRT Line	numberOfStations	14
+Vienna U-Bahn	numberOfStations	90
+Munich S-Bahn	numberOfStations	148
+Munich U-Bahn	numberOfStations	100
+Bergen County Line	numberOfStations	24
+BVZ Zermatt-Bahn	numberOfStations	9
+Cotswold Line	numberOfStations	19
+Harrogate Line	numberOfStations	14
+Airedale Line	numberOfStations	11
+Pyongyang Metro	numberOfStations	17
+Jacksonville Transportation Authority	numberOfStations	3300
+Xiaobitan Branch Line (TRTS)	numberOfStations	2
+Heartland Flyer	numberOfStations	7
+Tucheng Line (TRTS)	numberOfStations	5
+Neihu Line (TRTS)	numberOfStations	12
+Xinzhuang Line (TRTS)	numberOfStations	16
+Luzhou Line (TRTS)	numberOfStations	5
+Xinyi Line (TRTS)	numberOfStations	7
+Songshan Line (TRTS)	numberOfStations	7
+Aberystwyth Cliff Railway	numberOfStations	2
+Wuppertal Schwebebahn	numberOfStations	20
+Line 1 Green (Montreal Metro)	numberOfStations	27
+Gladstone Branch	numberOfStations	24
+Gladstone Branch	numberOfStations	25
+Line A (Buenos Aires Metro)	numberOfStations	16
+Line C (Buenos Aires Metro)	numberOfStations	9
+Line D (Buenos Aires Metro)	numberOfStations	16
+Line H (Buenos Aires Metro)	numberOfStations	6
+Line E (Buenos Aires Metro)	numberOfStations	15
+Line B (Buenos Aires Metro)	numberOfStations	15
+Ulsterbus	numberOfStations	22
+Morristown Line	numberOfStations	26
+North Jersey Coast Line	numberOfStations	28
+Princeton Branch	numberOfStations	2
+Kintetsu Minami-Osaka Line	numberOfStations	28
+Downeaster	numberOfStations	10
+Metrorail (Miami)	numberOfStations	22
+Metrorail (Miami)	numberOfStations	23
+Line 4 Yellow (Montreal Metro)	numberOfStations	3
+Line 2 Orange (Montreal Metro)	numberOfStations	31
+Line 5 Blue (Montreal Metro)	numberOfStations	12
+Shore Line East	numberOfStations	13
+Xochimilco Light Rail	numberOfStations	18
+Highland Main Line	numberOfStations	10
+Conwy Valley Line	numberOfStations	13
+Lyon Metro	numberOfStations	42
+South Shore Line (NICTD)	numberOfStations	20
+Kitakyūshū Monorail	numberOfStations	13
+Seibu Ikebukuro Line	numberOfStations	31
+Cincinnati Subway	numberOfStations	4
+Shenzhen Metro	numberOfStations	137
+Chiltern Main Line	numberOfStations	32
+North Wales Coast Line	numberOfStations	18
+Edmonton Transit System	numberOfStations	15
+M-Bahn	numberOfStations	3
+Market–Frankford Line	numberOfStations	28
+Arlanda Express	numberOfStations	3
+Seibu Chichibu Line	numberOfStations	6
+Rome Metro	numberOfStations	49
+Center City Commuter Connection	numberOfStations	1
+TECO Line Streetcar System	numberOfStations	11
+Okinawa Monorail	numberOfStations	15
+IRT Flushing Line	numberOfStations	21
+Nagasaki Main Line	numberOfStations	41
+IRT Broadway – Seventh Avenue Line	numberOfStations	44
+IND Eighth Avenue Line	numberOfStations	30
+Cross-City Line	numberOfStations	24
+Sounder commuter rail	numberOfStations	9
+BMT Canarsie Line	numberOfStations	26
+Las Vegas Monorail	numberOfStations	7
+IND Concourse Line	numberOfStations	12
+Kintetsu Namba Line	numberOfStations	3
+IRT Lexington Avenue Line	numberOfStations	27
+Taiwan Taoyuan International Airport Access MRT System	numberOfStations	24
+Helsinki commuter rail	numberOfStations	55
+Transbay Tube	numberOfStations	0
+Muni Metro	numberOfStations	9
+Muni Metro	numberOfStations	24
+Marshlink Line	numberOfStations	9
+BMT Jamaica Line	numberOfStations	24
+Incheon Subway	numberOfStations	29
+Atlantic Coast Line, Cornwall	numberOfStations	7
+Maritime Line	numberOfStations	6
+Kintetsu Nagano Line	numberOfStations	8
+Hachikō Line	numberOfStations	23
+Oslo Metro	numberOfStations	90
+BMT Broadway Line	numberOfStations	16
+Looe Valley Line	numberOfStations	6
+St Ives Bay Line	numberOfStations	5
+Ring Rail Line	numberOfStations	4
+Tarka Line	numberOfStations	13
+Bittern Line	numberOfStations	10
+Avocet Line	numberOfStations	10
+Riviera Line	numberOfStations	11
+BMT Myrtle Avenue Line	numberOfStations	7
+Agatsuma Line	numberOfStations	18
+Jōetsu Line	numberOfStations	34
+Ryōmō Line	numberOfStations	18
+Culver Line (New York City Subway)	numberOfStations	21
+IND Sixth Avenue Line	numberOfStations	14
+Sofia Metro	numberOfStations	14
+Guangzhou Metro	numberOfStations	144
+BMT Nassau Street Line	numberOfStations	6
+IND Crosstown Line	numberOfStations	13
+Archer Avenue Line	numberOfStations	3
+N Judah	numberOfStations	35
+L Taraval	numberOfStations	29
+M Ocean View	numberOfStations	28
+K Ingleside	numberOfStations	23
+J Church	numberOfStations	25
+S Castro Shuttle	numberOfStations	13
+Sunset Tunnel	numberOfStations	0
+MiWay	numberOfStations	3700
+Burlington Transit	numberOfStations	430
+RTC Transit	numberOfStations	39
+RTC Transit	numberOfStations	3700
+San Diego Trolley	numberOfStations	53
+Lima Metro	numberOfStations	16
+Hayes Line	numberOfStations	9
+Milan Metro	numberOfStations	94
+IRT Dyre Avenue Line	numberOfStations	5
+Marston Vale Line	numberOfStations	12
+East Coastway Line	numberOfStations	17
+West Coastway Line	numberOfStations	39
+Elektriraudtee	numberOfStations	41
+Twin Peaks Tunnel	numberOfStations	3
+Market Street Subway	numberOfStations	7
+Heart of Wales Line	numberOfStations	29
+Catford Loop Line	numberOfStations	8
+Metro Bilbao	numberOfStations	38
+IRT Lenox Avenue Line	numberOfStations	6
+91 Line	numberOfStations	8
+Inland Empire–Orange County Line	numberOfStations	15
+Orange County Line	numberOfStations	14
+Røros Line	numberOfStations	28
+Antelope Valley Line	numberOfStations	11
+Cumbrian Coast Line	numberOfStations	26
+Greyhound Canada	numberOfStations	1100
+Poma 2000	numberOfStations	3
+Saint Petersburg Metro	numberOfStations	64
+Raritan Valley Line	numberOfStations	20
+Greater Dayton Regional Transit Authority	numberOfStations	600
+Greenford Branch Line	numberOfStations	5
+Fløibanen	numberOfStations	5
+Arun Valley Line	numberOfStations	11
+Light Rail Transit (Singapore)	numberOfStations	43
+Walt Disney World Monorail System	numberOfStations	6
+BMT Sea Beach Line	numberOfStations	10
+SEPTA Routes 101 and 102	numberOfStations	52
+Kesennuma Line	numberOfStations	23
+Ōfunato Line	numberOfStations	25
+Kawagoe Line	numberOfStations	11
+Tōbu Noda Line	numberOfStations	34
+Dovre Line	numberOfStations	25
+Cross Country Route	numberOfStations	19
+New York City Transit buses	numberOfStations	12499
+IRT White Plains Road Line	numberOfStations	20
+Tianjin Metro	numberOfStations	22
+Senseki Line	numberOfStations	31
+BMT Astoria Line	numberOfStations	7
+Toronto Zoo Domain Ride	numberOfStations	3
+Budapest Metro	numberOfStations	40
+Abbey Line	numberOfStations	7
+Blackpool tramway	numberOfStations	61
+Lea Valley Lines	numberOfStations	31
+Ivanhoe Line	numberOfStations	6
+Hamburg U-Bahn	numberOfStations	89
+Senzan Line	numberOfStations	21
+Fen Line	numberOfStations	7
+Severn Beach Line	numberOfStations	11
+Nordland Line	numberOfStations	43
+MAX Blue Line	numberOfStations	51
+MAX Red Line	numberOfStations	29
+Derwent Valley Line	numberOfStations	5
+Whifflet Line	numberOfStations	7
+Société de transport de Montréal	numberOfStations	68
+HÉV	numberOfStations	81
+West Anglia Main Line	numberOfStations	28
+Morgantown Personal Rapid Transit	numberOfStations	5
+Mexico City Metrobús	numberOfStations	80
+Felixstowe Branch Line	numberOfStations	4
+Manila Light Rail Transit System	numberOfStations	31
+MAX Yellow Line	numberOfStations	21
+Tōkyū Tamagawa Line	numberOfStations	7
+Porto Metro	numberOfStations	80
+Romford to Upminster Line	numberOfStations	3
+Braintree Branch Line	numberOfStations	5
+O-Train	numberOfStations	5
+Sørland Line	numberOfStations	27
+Monterrey Metro	numberOfStations	31
+Atlantic City Line	numberOfStations	8
+Negishi Line	numberOfStations	12
+List of Monterrey metro stations	numberOfStations	31
+Metro Rail (Los Angeles County)	numberOfStations	70
+Shonan Monorail	numberOfStations	8
+IND Fulton Street Line	numberOfStations	22
+Lowell Line	numberOfStations	9
+Busan Subway Line 1	numberOfStations	34
+Busan Subway Line 2	numberOfStations	43
+Busan Subway Line 3	numberOfStations	17
+Green Line "E" Branch	numberOfStations	20
+Green Line "C" Branch	numberOfStations	22
+Green Line "B" Branch	numberOfStations	25
+Green Line "D" Branch	numberOfStations	20
+Serveis Ferroviaris de Mallorca	numberOfStations	29
+SEPTA Subway–Surface Trolley Lines	numberOfStations	8
+Harlem Line	numberOfStations	38
+Jōban Line	numberOfStations	85
+Sacramento Regional Transit District	numberOfStations	47
+Sacramento Regional Transit District	numberOfStations	3588
+SMRT Buses	numberOfStations	6
+SMRT Buses	numberOfStations	2
+SMRT Buses	numberOfStations	3
+Shanghai Maglev Train	numberOfStations	2
+Fairmount Line	numberOfStations	5
+Leeds Supertram	numberOfStations	50
+Waterloo to Reading Line	numberOfStations	26
+Union Pacific/North Line	numberOfStations	27
+Union Pacific/West Line	numberOfStations	19
+Union Pacific/Northwest Line	numberOfStations	23
+BNSF Railway Line	numberOfStations	26
+Birmingham to Peterborough Line	numberOfStations	13
+Framingham/Worcester Line	numberOfStations	17
+Fitchburg Line	numberOfStations	18
+Cape Cod Central Railroad	numberOfStations	4
+North Central Service	numberOfStations	18
+Milwaukee District/North Line	numberOfStations	22
+Heritage Corridor	numberOfStations	6
+Milwaukee District/West Line	numberOfStations	22
+SouthWest Service	numberOfStations	13
+Rock Island District	numberOfStations	26
+Metra Electric District	numberOfStations	49
+LINK Train	numberOfStations	3
+Atlantic Branch	numberOfStations	8
+Manila Metro Rail Transit System	numberOfStations	13
+Spikkestad Line	numberOfStations	8
+New Haven Line	numberOfStations	30
+New Haven Line	numberOfStations	17
+New Haven Line	numberOfStations	1
+Vestfold Line	numberOfStations	13
+Ann Arbor Transportation Authority	numberOfStations	331
+Dubai Metro	numberOfStations	27
+Urban Ring Project (MBTA)	numberOfStations	31
+Circular Line (TRTS)	numberOfStations	32
+Zhonghe Line (TRTS)	numberOfStations	5
+Société de transport de Laval	numberOfStations	377
+Société de transport de Laval	numberOfStations	2527
+Wiener Linien	numberOfStations	1128
+Wiener Linien	numberOfStations	90
+Port Authority of Allegheny County	numberOfStations	69
+Richmond–Millbrae line	numberOfStations	23
+Fremont–Daly City line	numberOfStations	19
+Richmond–Fremont line	numberOfStations	18
+Pittsburg/Bay Point–SFO/Millbrae line	numberOfStations	26
+Dublin/Pleasanton–Daly City line	numberOfStations	18
+Gala-Yuzawa Line	numberOfStations	2
+Wuhan Metro	numberOfStations	25
+Charlotte Area Transit System	numberOfStations	10
+Charlotte Area Transit System	numberOfStations	45
+Charlotte Area Transit System	numberOfStations	3600
+Tehran Metro	numberOfStations	67
+Sokolnicheskaya Line	numberOfStations	19
+Zamoskvoretskaya Line	numberOfStations	20
+Capital District Transportation Authority	numberOfStations	3135
+Réseau de transport de Longueuil	numberOfStations	2496
+Rennes Metro	numberOfStations	15
+Mules (Amtrak)	numberOfStations	10
+Koltsevaya Line	numberOfStations	12
+Gloucester to Newport Line	numberOfStations	6
+IRT Nostrand Avenue Line	numberOfStations	7
+IRT Jerome Avenue Line	numberOfStations	14
+IRT Pelham Line	numberOfStations	18
+Rio de Janeiro Metro	numberOfStations	40
+Daejeon Subway Line 1	numberOfStations	22
+Gwangju Subway Line 1	numberOfStations	20
+Chessington Branch Line	numberOfStations	4
+Central Link	numberOfStations	13
+Pune Mahanagar Parivahan Mahamandal Limited	numberOfStations	66
+M1 (Copenhagen)	numberOfStations	15
+M2 (Copenhagen)	numberOfStations	16
+Tranz Metro	numberOfStations	49
+Paisley Canal Line	numberOfStations	7
+Ōu Main Line	numberOfStations	102
+Tokyo Metro Fukutoshin Line	numberOfStations	16
+Port Island Line	numberOfStations	12
+Namma Metro	numberOfStations	41
+Fukuoka City Subway	numberOfStations	35
+Motherwell to Cumbernauld Line	numberOfStations	5
+Maryhill Line	numberOfStations	7
+Keisei Narita Airport Line	numberOfStations	18
+Ely to Peterborough Line	numberOfStations	5
+Oslo Tramway	numberOfStations	99
+Multi-Modal Transport System (Hyderabad)	numberOfStations	27
+Guadalajara light rail system	numberOfStations	29
+Airport Line (SEPTA)	numberOfStations	10
+Wilmington/Newark Line	numberOfStations	22
+Hertford Loop Line	numberOfStations	11
+Daegu Metropolitan Subway	numberOfStations	56
+SEPTA Main Line	numberOfStations	20
+Toei Mita Line	numberOfStations	27
+Toei Shinjuku Line	numberOfStations	21
+Østfold Line	numberOfStations	24
+Old Pueblo Trolley	numberOfStations	11
+River Rail Streetcar	numberOfStations	14
+Hudson Line (Metro-North)	numberOfStations	29
+New Canaan Branch	numberOfStations	5
+Danbury Branch	numberOfStations	8
+Port Jervis Line	numberOfStations	26
+Waterbury Branch	numberOfStations	7
+Eastern Østfold Line	numberOfStations	21
+Gjøvik Line	numberOfStations	31
+Charlotte Trolley	numberOfStations	11
+Chiba Urban Monorail	numberOfStations	18
+Tōbu Isesaki Line	numberOfStations	55
+Grorud Line	numberOfStations	16
+Holmenkollen Line	numberOfStations	19
+Røa Line	numberOfStations	11
+Furuset Line	numberOfStations	6
+Saitama Rapid Railway Line	numberOfStations	30
+Sheffield to Lincoln Line	numberOfStations	12
+Kaluzhsko-Rizhskaya Line	numberOfStations	24
+Sognsvann Line	numberOfStations	9
+Østensjø Line	numberOfStations	13
+Kolsås Line	numberOfStations	21
+Lambertseter Line	numberOfStations	12
+Ring Line (Oslo)	numberOfStations	3
+Sheffield to Hull Line	numberOfStations	20
+Doncaster to Lincoln Line	numberOfStations	4
+Crouch Valley Line	numberOfStations	7
+Shenfield to Southend Line	numberOfStations	8
+Lyublinsko-Dmitrovskaya Line	numberOfStations	14
+MAX Green Line	numberOfStations	29
+Sunshine Coast Line	numberOfStations	12
+Franklin Line	numberOfStations	16
+Wirral Line	numberOfStations	34
+Seibu Shinjuku Line	numberOfStations	29
+Viva Pink	numberOfStations	18
+Viva Blue	numberOfStations	24
+Viva (bus rapid transit)	numberOfStations	59
+Canada Dock Branch	numberOfStations	0
+Sentosa Express	numberOfStations	4
+Alum Rock – Santa Teresa (VTA)	numberOfStations	36
+Nockebybanan	numberOfStations	10
+Stockholm Commuter Rail	numberOfStations	50
+Nara Line	numberOfStations	19
+Lidingöbanan	numberOfStations	14
+Beijing–Shanghai High-Speed Railway	numberOfStations	24
+Thessaloniki Metro	numberOfStations	13
+Thessaloniki Metro	numberOfStations	23
+Thessaloniki Metro	numberOfStations	33
+Harbor Transitway	numberOfStations	10
+Gothenburg commuter rail	numberOfStations	20
+Sviatoshynsko-Brovarska Line	numberOfStations	18
+Bi-State Development Agency	numberOfStations	37
+Bi-State Development Agency	numberOfStations	9000
+Bi-State Development Agency	numberOfStations	14
+Bi-State Development Agency	numberOfStations	34
+Poacher Line	numberOfStations	12
+Peterborough to Lincoln Line	numberOfStations	6
+Brasília Metro	numberOfStations	29
+Hitchin to Cambridge Line	numberOfStations	9
+Green Bay Metro	numberOfStations	1
+Nottingham to Grantham Line	numberOfStations	8
+New Mexico Rail Runner Express	numberOfStations	12
+Catania Metro	numberOfStations	6
+Butovskaya Line	numberOfStations	5
+Nottingham to Lincoln Line	numberOfStations	13
+Novosibirsk Metro	numberOfStations	13
+Flåm Line	numberOfStations	11
+Gardermoen Line	numberOfStations	5
+TransJakarta	numberOfStations	181
+Capital Red Rose Corridor	numberOfStations	6
+Ofoten Line	numberOfStations	7
+Kongsvinger Line	numberOfStations	20
+Hoved Line	numberOfStations	19
+Tenjin Ōmuta Line	numberOfStations	49
+Bratsberg Line	numberOfStations	5
+Meråker Line	numberOfStations	6
+Monongahela Incline	numberOfStations	2
+Glossop Line	numberOfStations	13
+Los Teques Metro	numberOfStations	2
+Red Line (Cleveland)	numberOfStations	18
+Red Line (Cleveland)	numberOfStations	3
+Red Line (Cleveland)	numberOfStations	15
+JR Tōzai Line	numberOfStations	9
+Purple Line (Maryland)	numberOfStations	21
+Baltimore Metro Subway	numberOfStations	14
+Baltimore Light Rail	numberOfStations	33
+Red Line (Baltimore)	numberOfStations	20
+Paris Métro Line 2	numberOfStations	32
+Paris Métro Line 3	numberOfStations	25
+Paris Métro Line 4	numberOfStations	26
+VIA Metropolitan Transit	numberOfStations	6994
+Paris Métro Line 13	numberOfStations	32
+Drammen Line	numberOfStations	17
+Towada Kankō Electric Railway Line	numberOfStations	11
+Uetsu Main Line	numberOfStations	61
+Metrobus Transit	numberOfStations	2
+Metrobus Transit	numberOfStations	778
+Mountain View – Winchester (VTA)	numberOfStations	38
+Cherwell Valley Line	numberOfStations	7
+Oxford to Bicester Line	numberOfStations	3
+London to Aylesbury Line	numberOfStations	16
+Red Line (Delhi Metro)	numberOfStations	21
+Yellow Line (Delhi Metro)	numberOfStations	34
+Chennai Metro	numberOfStations	41
+Kharkiv Metro	numberOfStations	29
+Shibayama Railway	numberOfStations	2
+Samara Metro	numberOfStations	9
+Catlins River Branch	numberOfStations	18
+Kingston Branch, New Zealand	numberOfStations	34
+Kingston Branch, New Zealand	numberOfStations	2
+Tōbu Ogose Line	numberOfStations	8
+Sagami Line	numberOfStations	18
+Journal Square – 33rd Street	numberOfStations	8
+Monterey-Salinas Transit	numberOfStations	1322
+Veolia (New Zealand)	numberOfStations	42
+Kholodnohirsko–Zavodska Line	numberOfStations	13
+Saltivska Line	numberOfStations	8
+Oleksiivska Line	numberOfStations	8
+Oslo Tunnel	numberOfStations	1
+Ryūgasaki Line	numberOfStations	3
+Hoboken – World Trade Center	numberOfStations	4
+Hoboken – 33rd Street	numberOfStations	6
+Newark – World Trade Center	numberOfStations	6
+Journal Square – 33rd Street (via Hoboken)	numberOfStations	9
+Winnipeg Transit	numberOfStations	6000
+Capital Area Transportation Authority	numberOfStations	420
+Frankfurt U-Bahn	numberOfStations	87
+Glasgow South Western Line	numberOfStations	26
+Kazan Metro	numberOfStations	7
+Kragerø Line	numberOfStations	15
+Arbatsko-Pokrovskaya Line	numberOfStations	21
+Keisei Higashi-Narita Line	numberOfStations	2
+Watford DC Line	numberOfStations	19
+Chongqing Rail Transit	numberOfStations	18
+Evergreen Line (Vancouver)	numberOfStations	6
+Westside Express Service	numberOfStations	5
+Capital Metropolitan Transportation Authority	numberOfStations	9
+Capital Metropolitan Transportation Authority	numberOfStations	3000
+Broad Gauge Metallurgy Line	numberOfStations	6
+Southwest Corridor (Minnesota)	numberOfStations	18
+Silver Line (Washington Metro)	numberOfStations	29
+Rhine-Ruhr S-Bahn	numberOfStations	124
+Music City Star	numberOfStations	6
+98 B-Line	numberOfStations	22
+Sprinter (North County Transit District)	numberOfStations	15
+Turin Metro	numberOfStations	20
+Nuremberg U-Bahn	numberOfStations	44
+Medellín Metro	numberOfStations	25
+Sandy / Salt Lake Line	numberOfStations	21
+University Line (UTA TRAX)	numberOfStations	14
+99 B-Line	numberOfStations	13
+Bromley North Line	numberOfStations	3
+Masivo Integrado de Occidente	numberOfStations	77
+Sendai Subway	numberOfStations	17
+Ashford to Ramsgate (via Canterbury West) Line	numberOfStations	11
+Tramways in Paris	numberOfStations	71
+Minsk Metro	numberOfStations	25
+Moskovskaya Line	numberOfStations	11
+Avtozavodskaya Line	numberOfStations	14
+Dnipropetrovsk Metro	numberOfStations	6
+Yerevan Metro	numberOfStations	10
+Link Light Rail	numberOfStations	18
+Link Light Rail	numberOfStations	2
+Link Light Rail	numberOfStations	20
+Burgberg Cable Car	numberOfStations	2
+Fichtelberg Cable Car	numberOfStations	2
+Las Colinas APT System	numberOfStations	4
+Pink Line (Chicago Transit Authority)	numberOfStations	22
+Far Rockaway Branch	numberOfStations	7
+Ferrocarril Suburbano de la Zona Metropolitana del Valle de México	numberOfStations	7
+HSL 1	numberOfStations	1
+HSL 2	numberOfStations	0
+HSL 3	numberOfStations	0
+Belfast–Newry railway line	numberOfStations	18
+Człuchów–Słosinko line	numberOfStations	12
+FrontRunner	numberOfStations	8
+Capital MetroRail	numberOfStations	9
+Cercanías Málaga	numberOfStations	26
+Baku Metro	numberOfStations	23
+Sōbu Line (Rapid)	numberOfStations	10
+Sabah State Railway	numberOfStations	17
+Binhai Mass Transit	numberOfStations	17
+Belfast–Bangor railway line	numberOfStations	14
+Belfast–Larne railway line	numberOfStations	18
+Port Washington Branch	numberOfStations	12
+Bremen S-Bahn	numberOfStations	35
+Tacoma Link	numberOfStations	5
+Twisto	numberOfStations	1050
+Chojnice – Runowo Pomorskie line	numberOfStations	25
+Blackpool Branch Lines	numberOfStations	13
+Oakham to Kettering Line	numberOfStations	1
+Ohlone/Chynoweth–Almaden (VTA)	numberOfStations	3
+Rotterdam Metro	numberOfStations	62
+Yekaterinburg Metro	numberOfStations	7
+DART Underground	numberOfStations	6
+Nanjing Metro	numberOfStations	55
+Ōigawa Railway Ikawa Line	numberOfStations	14
+Nippori-Toneri Liner	numberOfStations	13
+Busan Subway	numberOfStations	102
+Lethbridge Transit	numberOfStations	4
+Hong Kong International Airport Automated People Mover	numberOfStations	4
+Coast Line (Denmark)	numberOfStations	14
+Manila LRT Yellow Line	numberOfStations	22
+Manila LRT Purple Line	numberOfStations	11
+Gråkallen Line	numberOfStations	21
+Moscow Monorail	numberOfStations	6
+Bordeaux tramway	numberOfStations	89
+Port Jefferson Branch	numberOfStations	10
+Onehunga Branch	numberOfStations	3
+T Third Street	numberOfStations	31
+Yosan Line	numberOfStations	94
+AREX	numberOfStations	9
+Kansas City Area Transportation Authority	numberOfStations	35
+Kansas City Area Transportation Authority	numberOfStations	3
+Kansas City Area Transportation Authority	numberOfStations	1
+Kansas City Area Transportation Authority	numberOfStations	6022
+Kansas City Area Transportation Authority	numberOfStations	87
+Lille Metro	numberOfStations	60
+Crewe to Derby Line	numberOfStations	11
+Valdres Line	numberOfStations	28
+Nærumbanen	numberOfStations	8
+London Overground	numberOfStations	78
+Hornbækbanen	numberOfStations	19
+Bursaray	numberOfStations	26
+Edmonton Light Rail Transit	numberOfStations	15
+Grenoble tramway	numberOfStations	74
+Yokohama Line	numberOfStations	20
+Rouen tramway	numberOfStations	31
+Nantes Tramway	numberOfStations	90
+Nizhny Novgorod Metro	numberOfStations	13
+Funiculaire du Havre	numberOfStations	2
+Koumi Line	numberOfStations	31
+Yokohama Municipal Subway	numberOfStations	32
+Greenbush Line	numberOfStations	10
+Kōtoku Line	numberOfStations	29
+Valenciennes tramway	numberOfStations	28
+Karachi Circular Railway	numberOfStations	23
+Otago Central Railway	numberOfStations	3
+Old Colony Lines (MBTA)	numberOfStations	17
+Needham Line	numberOfStations	11
+Haverhill Line	numberOfStations	14
+Newburyport/Rockport Line	numberOfStations	11
+Newburyport/Rockport Line	numberOfStations	13
+Gary Public Transportation Corporation	numberOfStations	1
+Gary Public Transportation Corporation	numberOfStations	50
+Metrovalencia	numberOfStations	169
+Cologne Stadtbahn	numberOfStations	222
+Brenner Base Tunnel	numberOfStations	3
+Sakurajima Line	numberOfStations	4
+Tren de la Costa	numberOfStations	11
+Skagens Railway	numberOfStations	10
+Caen Guided Light Transit	numberOfStations	34
+MARTA rail stations	numberOfStations	38
+Capital Area Transit (Raleigh)	numberOfStations	1
+Capital Area Transit (Raleigh)	numberOfStations	1500
+Capital Area Transit (Raleigh)	numberOfStations	72
+Capital Area Transit (Raleigh)	numberOfStations	324
+Nice tramway	numberOfStations	21
+Providence/Stoughton Line	numberOfStations	14
+Nesttun–Os Railway	numberOfStations	14
+Oyster Bay Branch	numberOfStations	10
+Babylon Branch	numberOfStations	14
+Montauk Branch	numberOfStations	33
+Long Beach Branch	numberOfStations	5
+West Hempstead Branch	numberOfStations	5
+Hempstead Branch	numberOfStations	9
+Wairarapa Line	numberOfStations	27
+Broome County Transit	numberOfStations	900
+Jerusalem Light Rail	numberOfStations	23
+Kishigawa Line	numberOfStations	14
+Roxburgh Branch	numberOfStations	18
+Eyreton Branch	numberOfStations	10
+Tazawako Line	numberOfStations	19
+Oxford Branch, New Zealand	numberOfStations	13
+Little River Branch	numberOfStations	7
+Nangang Line (TRTS)	numberOfStations	12
+Banqiao Line (TRTS)	numberOfStations	6
+Whitecliffs Branch	numberOfStations	7
+New Jersey Transit Bus Operations	numberOfStations	26
+New Jersey Transit Bus Operations	numberOfStations	19500
+New Jersey Transit Bus Operations	numberOfStations	17
+Te Aro Extension	numberOfStations	1
+Island Transit (Washington)	numberOfStations	60
+Main North Line, New Zealand	numberOfStations	65
+Main North Line, New Zealand	numberOfStations	18
+Petersburg Area Transit	numberOfStations	1
+Petersburg Area Transit	numberOfStations	380
+Maracaibo Metro	numberOfStations	6
+Sentosa Monorail	numberOfStations	7
+Picc-Vic tunnel	numberOfStations	5
+Gold Coast Rapid Transit	numberOfStations	16
+Metro Area Express	numberOfStations	40
+İstanbul Metro	numberOfStations	13
+İstanbul Metro	numberOfStations	22
+Acadian Lines	numberOfStations	14
+Acadian Lines	numberOfStations	92
+Kintetsu Yamada Line	numberOfStations	14
+Kintetsu Dōmyōji Line	numberOfStations	3
+West London Tram	numberOfStations	40
+Osaka Monorail Main Line	numberOfStations	14
+Marseille tramway	numberOfStations	27
+Metro Ride	numberOfStations	555
+Red Rock Corridor	numberOfStations	10
+Nuremberg S-Bahn	numberOfStations	75
+Ban'etsu West Line	numberOfStations	44
+Metrorail Western Cape	numberOfStations	109
+Nikkō Line	numberOfStations	7
+Olive Mount chord	numberOfStations	0
+Geibi Line	numberOfStations	44
+Aterazawa Line	numberOfStations	11
+Blue Line (Yokohama)	numberOfStations	32
+Sagami Railway Main Line	numberOfStations	18
+Sagami Railway Izumino Line	numberOfStations	8
+Tōkyū Ōimachi Line	numberOfStations	18
+Dorfbahn Serfaus	numberOfStations	4
+Tōkyū Ikegami Line	numberOfStations	15
+Tōkyū Setagaya Line	numberOfStations	10
+Genoa Metro	numberOfStations	7
+Marseille Metro	numberOfStations	30
+Suvarnabhumi Airport Rail Link	numberOfStations	8
+Toulouse Metro	numberOfStations	37
+Ftrmetro Swansea	numberOfStations	27
+Mikuni Awara Line	numberOfStations	22
+The Loop (Chicago Transit Authority)	numberOfStations	9
+Sakura-dōri Line	numberOfStations	21
+Thamshavn Line	numberOfStations	6
+Megabús	numberOfStations	17
+Megabús	numberOfStations	18
+Megabús	numberOfStations	25
+Kōnan Railway Kōnan Line	numberOfStations	12
+Kōnan Railway Ōwani Line	numberOfStations	14
+Société de Transport Interurbains du Val d'Oise	numberOfStations	584
+Yamagata Railway Flower Nagai Line	numberOfStations	17
+Chemin de fer Nyon–St-Cergue–Morez	numberOfStations	17
+City Tunnel (Malmö)	numberOfStations	3
+Memphis Suspension Railway	numberOfStations	2
+Macau Light Rail Transit	numberOfStations	21
+Ascot to Guildford Line	numberOfStations	8
+Montreal Metro	numberOfStations	68
+Odakyū Tama Line	numberOfStations	8
+Santo Domingo Metro	numberOfStations	16
+Nagoya Municipal Subway	numberOfStations	83
+Skagit Transit	numberOfStations	505
+Tōgane Line	numberOfStations	5
+Iwate Galaxy Railway Line	numberOfStations	16
+Akabane Line	numberOfStations	4
+Brunswick Line	numberOfStations	19
+Camden Line	numberOfStations	12
+Krøder Line	numberOfStations	5
+Dudding Hill Line	numberOfStations	0
+Asker Line	numberOfStations	2
+Metro Light Rail (Phoenix)	numberOfStations	32
+Nankō Port Town Line	numberOfStations	10
+Common Tunnel	numberOfStations	6
+Rjukan Line	numberOfStations	5
+Tinnos Line	numberOfStations	7
+Main Line (Long Island Rail Road)	numberOfStations	29
+Saint-Étienne tramway	numberOfStations	37
+Keiō Sagamihara Line	numberOfStations	12
+Stavne–Leangen Line	numberOfStations	2
+RTD Bus & Light Rail  RTD Light Rail   1	numberOfStations	36
+Changi Airport Skytrain	numberOfStations	7
+Nashville Metropolitan Transit Authority	numberOfStations	6
+Lynx Rapid Transit Services	numberOfStations	15
+Trondheim Tramway	numberOfStations	21
+Solør Line	numberOfStations	18
+Oslo Port Line	numberOfStations	2
+Trøndelag Commuter Rail	numberOfStations	35
+Lausanne Metro	numberOfStations	28
+Lausanne Metro  Line M2   1	numberOfStations	15
+Ila Line	numberOfStations	6
+Tashkent Metro	numberOfStations	29
+Valparaíso Metro	numberOfStations	20
+Uchibō Line	numberOfStations	30
+Sag Harbor Branch	numberOfStations	3
+Sotobō Line	numberOfStations	27
+Bergen Light Rail	numberOfStations	15
+New Haven – Hartford – Springfield commuter rail line	numberOfStations	12
+DFW Skylink	numberOfStations	10
+Tōbu Daishi Line	numberOfStations	2
+SuperLoop	numberOfStations	9
+Rockaway Beach Branch	numberOfStations	19
+Swebus Express	numberOfStations	180
+Disney Resort Line	numberOfStations	4
+Downtown MRT Line	numberOfStations	34
+Cedar Avenue Bus Rapid Transitway	numberOfStations	10
+Kawasaki Municipal Subway	numberOfStations	11
+Sōya Main Line	numberOfStations	54
+IRT Eastern Parkway Line	numberOfStations	11
+Sekihoku Main Line	numberOfStations	40
+Nagareyama Line	numberOfStations	6
+South Lake Union Streetcar	numberOfStations	11
+Meitetsu Nagoya Main Line	numberOfStations	60
+San'in Main Line	numberOfStations	159
+Wakayama Line	numberOfStations	36
+Hyderabad Metro	numberOfStations	63
+Kururi Line	numberOfStations	14
+Orléans Express	numberOfStations	175
+Transmetro	numberOfStations	32
+Penang Hill Railway	numberOfStations	3
+Chōshi Electric Railway Line	numberOfStations	10
+Chengdu Metro	numberOfStations	16
+Meijō Line	numberOfStations	28
+Meikō Line	numberOfStations	7
+Higashiyama Line	numberOfStations	22
+Tsurumai Line	numberOfStations	20
+Valencia Metro (Venezuela)	numberOfStations	7
+Hutt Valley Line	numberOfStations	18
+Kapiti Line	numberOfStations	16
+Melling Branch	numberOfStations	2
+Hakozaki Line	numberOfStations	7
+Nanakuma Line	numberOfStations	16
+Kūkō Line (Fukuoka City Subway)	numberOfStations	13
+Silver Streak (bus)	numberOfStations	17
+San Juan-Caguas Rail	numberOfStations	5
+Indianapolis Public Transportation Corporation	numberOfStations	5000
+Aerotrain (KLIA)	numberOfStations	2
+Alnabru–Grefsen Line	numberOfStations	2
+Penn Line (MARC)	numberOfStations	13
+Kirkenes–Bjørnevatn Line	numberOfStations	0
+Sulitjelma Line	numberOfStations	11
+Monkey Park Monorail Line	numberOfStations	3
+Rapid transit in the People's Republic of China	numberOfStations	22
+Rapid transit in the People's Republic of China  Changsha Metro   1	numberOfStations	39
+Rapid transit in the People's Republic of China  Fuzhou Metro   1	numberOfStations	40
+Rapid transit in the People's Republic of China  Dongguan Metro   1	numberOfStations	20
+Rapid transit in the People's Republic of China  Wuxi Metro   1	numberOfStations	24
+Rapid transit in the People's Republic of China  Ürümqi Light Rail Transit   1	numberOfStations	27
+Rapid transit in the People's Republic of China  Guiyang Urban Rail Transit   1	numberOfStations	37
+Johnsonville Branch	numberOfStations	8
+Keiō Dōbutsuen Line	numberOfStations	2
+National Motor Museum Monorail	numberOfStations	2
+Bottineau Boulevard Transitway	numberOfStations	10
+U of M Transitway	numberOfStations	1
+Keiō Takao Line	numberOfStations	7
+Echigo Line	numberOfStations	32
+Hakushin Line	numberOfStations	10
+Dublin–Cork railway line	numberOfStations	18
+Murmansk–Nikel Railway	numberOfStations	11
+Dublin–Rosslare railway line	numberOfStations	29
+Jurong Bird Park Panorail	numberOfStations	3
+Obama Line	numberOfStations	24
+Arlanda Line	numberOfStations	3
+Line A (Rome Metro)	numberOfStations	27
+Gotemba Line	numberOfStations	19
+Oresund Line	numberOfStations	4
+Narita Airport Terminal 2 Shuttle System	numberOfStations	2
+I-35W Bus Rapid Transitway	numberOfStations	9
+Sault Transit Services	numberOfStations	160
+Emsland test facility	numberOfStations	1
+Hirtshalsbanen	numberOfStations	13
+Opicina Tramway	numberOfStations	13
+Wing Shuttle	numberOfStations	6
+Meitetsu Komaki Line	numberOfStations	14
+Meitetsu Toyokawa Line	numberOfStations	5
+Palma de Mallorca Metro	numberOfStations	9
+Kintetsu Hachiōji Line	numberOfStations	2
+Kintetsu Utsube Line	numberOfStations	8
+Meran Tramway	numberOfStations	8
+Bolzano Tramway	numberOfStations	8
+Überetsch Railway	numberOfStations	6
+Manila MRT Red Line	numberOfStations	8
+Taufers Railway	numberOfStations	7
+Mendel Funicular	numberOfStations	2
+Rittnerbahn	numberOfStations	5
+Gardena Ronda Express funicular	numberOfStations	2
+Tranvía del Este	numberOfStations	4
+Eastern Region MRT Line	numberOfStations	12
+Meitetsu Hiromi Line	numberOfStations	11
+Meitetsu Inuyama Line	numberOfStations	17
+Meitetsu Tokoname Line	numberOfStations	23
+Meitetsu Toyota Line	numberOfStations	8
+Meitetsu Kakamigahara Line	numberOfStations	18
+RapidKL Light Rail Transit	numberOfStations	60
+Strasbourg tramway	numberOfStations	67
+Lyon tramway	numberOfStations	80
+Rantarata	numberOfStations	28
+Tadami Line	numberOfStations	38
+Oga Line	numberOfStations	9
+Shepperton Branch Line	numberOfStations	6
+Split Suburban Railway	numberOfStations	7
+Gotōji Line	numberOfStations	6
+Dublin–Sligo railway line	numberOfStations	21
+Eglinton Crosstown line	numberOfStations	25
+Greytown Branch	numberOfStations	2
+GO ALRT	numberOfStations	25
+Meitetsu Mikawa Line	numberOfStations	23
+Belfast–Derry railway line	numberOfStations	15
+Rail transport in Vatican City	numberOfStations	2
+Airport Transit System	numberOfStations	5
+Shenyang Metro	numberOfStations	22
+Broward County Transit	numberOfStations	5037
+High Speed 2	numberOfStations	4
+Trolleybuses in Mérida	numberOfStations	15
+Vélib'	numberOfStations	1202
+Fredericksburg Line	numberOfStations	12
+Bicing	numberOfStations	380
+Kashima Line	numberOfStations	6
+Inter-terminal train (George Bush Intercontinental Airport)	numberOfStations	5
+TerminaLink	numberOfStations	4
+Mito Line	numberOfStations	16
+Robertson Tunnel	numberOfStations	1
+Meitetsu Nishio Line	numberOfStations	14
+Changchun Light Rail Transit	numberOfStations	33
+Oulu–Kontiomäki railway	numberOfStations	6
+Tokushima Line	numberOfStations	24
+Dosan Line	numberOfStations	61
+The Plane Train	numberOfStations	7
+Denver International Airport Automated Guideway Transit System	numberOfStations	4
+Red Line (TRTS)	numberOfStations	30
+Volgograd Metrotram	numberOfStations	19
+Aichi Loop Line	numberOfStations	23
+Swift Bus Rapid Transit	numberOfStations	28
+Whitehorse Transit	numberOfStations	1
+Isumi Line	numberOfStations	14
+ExpressTram	numberOfStations	3
+Croxley Rail Link	numberOfStations	3
+Blue Line (TRTS)	numberOfStations	23
+Exeter to Plymouth railway of the LSWR	numberOfStations	24
+Camp Hill Line	numberOfStations	0
+Metropolitan Area Express BRT Line	numberOfStations	22
+Aizu Railway Aizu Line	numberOfStations	21
+Gracefield Branch	numberOfStations	1
+Katsuyama Eiheiji Line	numberOfStations	22
+Genting Monorail	numberOfStations	2
+Weesp–Leiden railway	numberOfStations	9
+Dun Mountain Railway	numberOfStations	2
+Dun Mountain Railway	numberOfStations	4
+Tide Light Rail	numberOfStations	11
+Algiers Metro	numberOfStations	62
+Gyeongbu High Speed Railway	numberOfStations	6
+Coast RTA	numberOfStations	1418
+Shiraz Metro	numberOfStations	37
+Cleator and Workington Junction Railway	numberOfStations	12
+Kintetsu Tawaramoto Line	numberOfStations	8
+Heathrow Airtrack	numberOfStations	13
+SRT Red Lines	numberOfStations	58
+SRT Red Lines  RT Dark Red Line   1	numberOfStations	36
+SRT Red Lines  RT Light Red Line   1	numberOfStations	22
+Tsugaru Railway	numberOfStations	12
+Fukushima Kōtsū Iizaka Line	numberOfStations	12
+Mooka Railway Mooka Line	numberOfStations	17
+Hokuetsu Express Hokuhoku Line	numberOfStations	12
+Gakunan Railway Line	numberOfStations	10
+Tenryū Hamanako Railroad Tenryū Hamanako Line	numberOfStations	37
+Nagaragawa Railway Etsumi-Nan Line	numberOfStations	38
+Izu Kyūkō Line	numberOfStations	16
+Nanao Line	numberOfStations	20
+Hachinohe Rinkai Railway Line	numberOfStations	2
+Ōminato Line	numberOfStations	11
+Lahore Metro	numberOfStations	60
+University Line (METRORail)	numberOfStations	19
+Uptown Line (METRORail)	numberOfStations	9
+North/Red Line Extension (METRORail)	numberOfStations	9
+Sochi Light Metro	numberOfStations	24
+Ōito Line	numberOfStations	42
+İzmir Metro	numberOfStations	10
+Green Line (Yokohama)	numberOfStations	10
+Southeast/Purple Line (METRORail)	numberOfStations	11
+Nelson Section	numberOfStations	25
+Mexico City Metro Line 1	numberOfStations	20
+Brown Line (TRTS)	numberOfStations	24
+Charlottetown Transit	numberOfStations	1
+Toei Bus	numberOfStations	12
+Toei Bus	numberOfStations	1639
+LYNX Red Line	numberOfStations	10
+LYNX Silver Line	numberOfStations	16
+Center City Corridor (LYNX)	numberOfStations	34
+West Corridor (LYNX)	numberOfStations	12
+Sunway Monorail	numberOfStations	3
+Northlander	numberOfStations	14
+Ljubljana Passenger Transport	numberOfStations	636
+Nishi Tokyo Bus	numberOfStations	4
+Porto Alegre Metro	numberOfStations	17
+Belo Horizonte Metro	numberOfStations	19
+Recife Metro	numberOfStations	28
+Teresina Metro	numberOfStations	9
+Mexico City Metro Line 2	numberOfStations	24
+Keio Dentetsu Bus	numberOfStations	10
+Tōbu Kameido Line	numberOfStations	5
+Roa–Hønefoss Line	numberOfStations	7
+Brevik Line	numberOfStations	0
+Lilleaker Line	numberOfStations	9
+Solbergfoss Line	numberOfStations	3
+Skreia Line	numberOfStations	12
+Ålgård Line	numberOfStations	10
+Loenga–Alnabru Line	numberOfStations	3
+Dalane–Suldal Line	numberOfStations	0
+Reims tramway	numberOfStations	23
+Macclesfield, Bollington and Marple Railway	numberOfStations	6
+McCarran International Airport Automated People Movers	numberOfStations	3
+AeroTrain (Washington Dulles International Airport)	numberOfStations	4
+Transperth Trains	numberOfStations	69
+Horten Line	numberOfStations	7
+Lier Line	numberOfStations	8
+Sperill Line	numberOfStations	5
+Tønsberg–Eidsfoss Line	numberOfStations	18
+St. Catharines Transit	numberOfStations	70
+MATA Trolley	numberOfStations	24
+Thomson MRT Line	numberOfStations	23
+Minobu Line	numberOfStations	39
+PreMetro E2 (Buenos Aires)	numberOfStations	17
+Métro léger de Tunis	numberOfStations	66
+Urquiza Line (Buenos Aires)	numberOfStations	23
+Satellite Transit System	numberOfStations	6
+Metrobus (Istanbul)	numberOfStations	33
+Montpellier tramway	numberOfStations	60
+Athens Transit	numberOfStations	500
+Orange Line (San Diego Trolley)	numberOfStations	23
+Blue Line (San Diego Trolley)	numberOfStations	23
+Green Line (San Diego Trolley)	numberOfStations	19
+Outer South London Line	numberOfStations	15
+Meishō Line	numberOfStations	15
+Rogue Valley Transportation District	numberOfStations	200
+Rogue Valley Transportation District	numberOfStations	38
+Dalian Metro	numberOfStations	18
+Nishi-Kyūshū Line	numberOfStations	57
+Hertford East Branch Line	numberOfStations	4
+SuperVia	numberOfStations	89
+Nantes Busway	numberOfStations	15
+Bakerloo line extension to Camberwell	numberOfStations	2
+Mumbai Monorail	numberOfStations	18
+Mumbai Monorail	numberOfStations	170
+Metro Tunneling Group	numberOfStations	2
+Lyttelton Line	numberOfStations	6
+Manukau Branch	numberOfStations	1
+Oslo Commuter Rail	numberOfStations	128
+Bergen Commuter Rail	numberOfStations	28
+Daewoo Express	numberOfStations	36
+Daewoo Express	numberOfStations	15
+Brescia Metrobus	numberOfStations	17
+Chennai BRTS	numberOfStations	21
+Kintetsu Toba Line	numberOfStations	5
+Kintetsu Shima Line	numberOfStations	16
+Kochi Metro	numberOfStations	26
+Jakarta Mass Rapid Transit	numberOfStations	13
+Sangū Line	numberOfStations	11
+Kintetsu Suzuka Line	numberOfStations	5
+R-Line (bus service)	numberOfStations	20
+Deane's Buslines	numberOfStations	11
+Minneapolis-St. Paul Airport Trams	numberOfStations	2
+Kintetsu Yunoyama Line	numberOfStations	10
+Bus4you	numberOfStations	5
+Thompson Transit	numberOfStations	70
+Busan-Gimhae Light Rail Transit	numberOfStations	21
+Red Line (UTA TRAX)	numberOfStations	25
+Yodo Line	numberOfStations	20
+Meitetsu Bisai Line	numberOfStations	22
+Sangi Railway Hokusei Line	numberOfStations	13
+Southern Line (Cape Town)	numberOfStations	28
+Córdoba Metro	numberOfStations	29
+Suigun Line	numberOfStations	45
+Falaknuma – Secunderabad route (MMTS, Hyderabad)	numberOfStations	12
+Bolarum – Secunderabad route (MMTS, Hyderabad)	numberOfStations	11
+Falaknuma – Hyderabad route (MMTS, Hyderabad)	numberOfStations	17
+Falaknuma – Lingampally route (MMTS, Hyderabad)	numberOfStations	22
+Hyderabad – Lingampally route (MMTS, Hyderabad)	numberOfStations	13
+Ringerike Line	numberOfStations	4
+MAX (UTA)	numberOfStations	23
+MAX (UTA)	numberOfStations	11
+Cuyahoga Valley Scenic Railroad	numberOfStations	10
+Red Line (Dubai Metro)	numberOfStations	27
+Green Line (Dubai Metro)	numberOfStations	18
+Green Line (UTA TRAX)	numberOfStations	15
+Blue Line Extension/Northeast Corridor (LYNX)	numberOfStations	14
+Ahmedabad BRTS	numberOfStations	75
+Meitetsu Seto Line	numberOfStations	20
+Select Bus Service	numberOfStations	39
+Meitetsu Tsushima Line	numberOfStations	8
+Düsseldorf Stadtbahn	numberOfStations	98
+ATL Skytrain	numberOfStations	3
+MetroMoves	numberOfStations	72
+Stansted Airport Transit System	numberOfStations	3
+Ōigawa Railway Ōigawa Main Line	numberOfStations	19
+Meitetsu Gamagōri Line	numberOfStations	10
+Taketoyo Line	numberOfStations	10
+New Britain–Hartford Busway	numberOfStations	11
+Bogotá Metro	numberOfStations	29
+Guangzhou-Shenzhen-Hong Kong Express Rail Link Hong Kong Section	numberOfStations	1
+MRT Orange Line	numberOfStations	28
+MRT Purple Line	numberOfStations	16
+MRT Yellow Line	numberOfStations	11
+Beijing Suburban Railway	numberOfStations	6
+MRT Brown Line	numberOfStations	6
+MRT Pink Line	numberOfStations	24
+Lille tramway	numberOfStations	36
+Suzhou Subway	numberOfStations	0
+Hokuriku Railroad Asanogawa Line	numberOfStations	12
+Hokuriku Railroad Ishikawa Line	numberOfStations	16
+Palm Jumeirah Monorail	numberOfStations	4
+Honshi-Bisan Line	numberOfStations	6
+Pasig River Ferry Service	numberOfStations	14
+Annandale (Pacific Electric)	numberOfStations	8
+South Pasadena Local (Pacific Electric)	numberOfStations	7
+Lamanda Park (Pacific Electric)	numberOfStations	3
+Monrovia–Glendora (Pacific Electric)	numberOfStations	39
+Glendale-Burbank (Pacific Electric)	numberOfStations	21
+Guadalajara Macrobus	numberOfStations	27
+Nilambur – Shoranur Railway Line	numberOfStations	11
+Happy Line	numberOfStations	7
+Window of the World Monorail	numberOfStations	3
+Miami Seaquarium Spacerail	numberOfStations	1
+Nara Dreamland Monorail	numberOfStations	1
+Taedok Science Town Monorail	numberOfStations	3
+Chiang Mai Zoo Monorail	numberOfStations	4
+Västlänken	numberOfStations	3
+Tsugaru Line	numberOfStations	20
+Whitehaven, Cleator and Egremont Railway	numberOfStations	12
+Saint-Jean-sur-Richelieu public transit	numberOfStations	600
+Bergen's Electric Tramway	numberOfStations	15
+Voss Line	numberOfStations	39
+Etsumi-Hoku Line	numberOfStations	22
+Keihan Nakanoshima Line	numberOfStations	5
+Gonō Line	numberOfStations	43
+Indiana University Health People Mover	numberOfStations	3
+Rapid transit in Tianjin	numberOfStations	50
+Fashion Island (Thailand)  Fashion Island Monorail   1	numberOfStations	4
+Airport Line (UTA TRAX)	numberOfStations	7
+HealthLine	numberOfStations	59
+St. Lawrence County Public Transportation	numberOfStations	33
+Pasadena via Oak Knoll (Pacific Electric)	numberOfStations	19
+Sierra Madre (Pacific Electric)	numberOfStations	24
+San Fernando (Pacific Electric)	numberOfStations	36
+Pasadena Short Line (Pacific Electric)	numberOfStations	14
+Seibu Toshima Line	numberOfStations	2
+Blue Line (St. Louis MetroLink)	numberOfStations	24
+Red Line (St. Louis MetroLink)	numberOfStations	28
+Daiyūzan Line	numberOfStations	12
+Seibu Sayama Line	numberOfStations	3
+Angers tramway	numberOfStations	25
+Seibu Seibu-en Line	numberOfStations	2
+Honolulu High-Capacity Transit Corridor Project	numberOfStations	21
+Chard Branch Line	numberOfStations	8
+Esko Moravian-Silesian Region	numberOfStations	75
+Churnet Valley Line	numberOfStations	14
+Seibu Tamako Line	numberOfStations	7
+Seibu Kokubunji Line	numberOfStations	5
+SüdostBayernBahn	numberOfStations	88
+Xiamen BRT	numberOfStations	47
+Cairo Metro Line 1	numberOfStations	34
+Căile Ferate Române Line 200	numberOfStations	43
+Căile Ferate Române Line 300	numberOfStations	35
+Căile Ferate Române Line 400	numberOfStations	37
+Căile Ferate Române Line 500	numberOfStations	34
+Căile Ferate Române Line 600	numberOfStations	17
+Căile Ferate Române Line 700	numberOfStations	16
+Căile Ferate Române Line 800	numberOfStations	13
+Căile Ferate Române Line 900	numberOfStations	57
+Căile Ferate Române Line 1000	numberOfStations	7
+Vought Airtrans	numberOfStations	33
+Meitetsu Airport Line	numberOfStations	3
+Quickline	numberOfStations	8
+Yellow Line (TRTS)	numberOfStations	47
+Orange Line (TRTS)	numberOfStations	27
+Line B (Rome Metro)	numberOfStations	22
+Taoyuan Mass Rapid Transit System	numberOfStations	81
+Selam Bus Line Share Company	numberOfStations	60
+Selam Bus Line Share Company	numberOfStations	80
+SunRail	numberOfStations	17
+East End/Green Line (METRORail)	numberOfStations	6
+Jæren Commuter Rail	numberOfStations	19
+Cairo Metro Line 2	numberOfStations	20
+Cairo Metro Line 3	numberOfStations	29
+Waterfront Red Car	numberOfStations	4
+River Street Streetcar	numberOfStations	7
+Kisuki Line	numberOfStations	18
+Metrotrén	numberOfStations	18
+Fort Pitt Incline	numberOfStations	2
+Greenline (Pennsylvania)	numberOfStations	18
+Miller's line	numberOfStations	3
+Tunnel Railway	numberOfStations	2
+Haramain High Speed Rail Project	numberOfStations	5
+Zavodskaya line	numberOfStations	2
+Mt. Lebanon Tunnel	numberOfStations	0
+Railway electrification in Iran	numberOfStations	49
+Tovarnaya line	numberOfStations	4
+Ozerki line	numberOfStations	5
+Primorskaya Line	numberOfStations	5
+Lucknow Metro	numberOfStations	36
+RapidRide	numberOfStations	115
+RapidRide	numberOfStations	130
+Guangzhou–Zhuhai Intercity Mass Rapid Transit	numberOfStations	22
+Branch MRT Line	numberOfStations	4
+Munich Tramway	numberOfStations	155
+Santa Monica Air Line (Pacific Electric)	numberOfStations	15
+Dublin–Waterford railway line	numberOfStations	7
+Metropolitana di Palermo	numberOfStations	18
+Harbin Metro	numberOfStations	16
+Aero Express	numberOfStations	6
+Transport Est-Ouest Rouennais	numberOfStations	53
+Kanpur Metro	numberOfStations	63
+Nordfyenske Jernbane	numberOfStations	16
+Odense–Kerteminde–Martofte Jernbane	numberOfStations	19
+Delhi Airport Metro Express	numberOfStations	6
+Nordvestfyenske Jernbane	numberOfStations	26
+Meitetsu Hashima Line	numberOfStations	2
+Meitetsu Takehana Line	numberOfStations	10
+Meitetsu Chikkō Line	numberOfStations	2
+Meitetsu Kōwa Line	numberOfStations	19
+Meitetsu Chita New Line	numberOfStations	6
+Mugi Line	numberOfStations	30
+Naruto Line	numberOfStations	7
+Taunton metro rail	numberOfStations	8
+Ban'etsu East Line	numberOfStations	16
+South Coast Rail	numberOfStations	25
+The Bethlehem Loop	numberOfStations	19
+Luftseilbahn Adliswil-Felsenegg	numberOfStations	2
+Metrotranvía of Mendoza	numberOfStations	16
+Hilltopper (Amtrak)	numberOfStations	37
+Newcastle and Carlisle Railway	numberOfStations	16
+Karasuyama Line	numberOfStations	8
+Red Line (Tel Aviv Light Rail)	numberOfStations	33
+Muncie Indiana Transit System	numberOfStations	1
+Shoranur – Cochin Harbour section	numberOfStations	23
+Blue Line (Sacramento RT)	numberOfStations	24
+Gold Line (Sacramento RT)	numberOfStations	27
+Upland-San Bernardino (Pacific Electric)	numberOfStations	71
+Westgate (Pacific Electric)	numberOfStations	18
+Alhambra – San Gabriel (Pacific Electric)	numberOfStations	18
+Riverside–Rialto (Pacific Electric)	numberOfStations	71
+Balboa (Pacific Electric)	numberOfStations	50
+Sawtelle (Pacific Electric)	numberOfStations	17
+Sherman (Pacific Electric)	numberOfStations	8
+Owensmouth (Pacific Electric)	numberOfStations	34
+Whitehorse trolley	numberOfStations	7
+Rapid Metro Rail Gurgaon	numberOfStations	6
+Downtown Dubai Tramway	numberOfStations	10
+Al Sufouh Tramway	numberOfStations	19
+Salvador Metro	numberOfStations	8
+Trams in Rome	numberOfStations	192
+ChicaGo Dash	numberOfStations	1
+Corolis	numberOfStations	246
+Fort Pitt (Amtrak)	numberOfStations	6
+İstanbul–Ankara high-speed railway	numberOfStations	4
+LexTran	numberOfStations	900
+Sugar House Streetcar	numberOfStations	6
+Sun Metro Mass Transit System	numberOfStations	3060
+Greyhound UK	numberOfStations	15
+Sandy / University Line	numberOfStations	21
+A-train (Denton County Transportation Authority)	numberOfStations	6
+MetroExpress (Halifax)	numberOfStations	330
+Maybrook Line	numberOfStations	0
+Manila Red Line	numberOfStations	14
+Tramways in Łódź	numberOfStations	230
+Greensboro Transit Authority	numberOfStations	1056
+Fukui Railway Fukubu Line	numberOfStations	23
+Hanawa Line	numberOfStations	27
+Hachinohe Line	numberOfStations	25
+Violet Line (Delhi Metro)	numberOfStations	16
+Sassari Tram-train	numberOfStations	8
+Sofia Tramway	numberOfStations	165
+Dresdner Parkeisenbahn	numberOfStations	5
+Meadowlands Rail Line	numberOfStations	3
+Green Line (Delhi Metro)	numberOfStations	14
+Izuhakone Railway Sunzu Line	numberOfStations	13
+Duke University Medical Center Patient Rapid Transit	numberOfStations	3
+Fayette Area Coordinated Transportation	numberOfStations	1
+Ramona Branch	numberOfStations	2
+Surat BRTS	numberOfStations	50
+Albula Railway    1	numberOfStations	12
+Bernina Railway    1	numberOfStations	22
+Anaheim Resort Transit	numberOfStations	70
+Interurban Trolley	numberOfStations	1
+Delmar Loop Trolley	numberOfStations	9
+Daniel Boone Corridor	numberOfStations	6
+Jetrail	numberOfStations	3
+Keisei Chihara Line	numberOfStations	6
+Otley and Ilkley Joint Railway	numberOfStations	4
+Wuhan–Guangzhou High-Speed Railway	numberOfStations	18
+Fort Wayne Citilink	numberOfStations	2
+Istanbul modern tram	numberOfStations	32
+St. Charles City Streetcar	numberOfStations	5
+Jaipur Metro	numberOfStations	29
+Beijing–Harbin Passenger Dedicated Line	numberOfStations	37
+Ferrovie regionali del Lazio	numberOfStations	128
+Guangzhou-Shenzhen-Hong Kong Express Rail Link	numberOfStations	5
+MetroBus (St. Louis)	numberOfStations	9000
+Huntsville Hospital Tram System	numberOfStations	4
+Red Line (MARTA)	numberOfStations	19
+Gold Line (MARTA)	numberOfStations	18
+Blue Line (MARTA)	numberOfStations	15
+MIA Mover	numberOfStations	2
+Green Line (MARTA)	numberOfStations	9
+Dream Catcher Express	numberOfStations	2
+Purple Line (Dubai Metro)	numberOfStations	8
+Havelbus	numberOfStations	2250
+Harbour Island People Mover	numberOfStations	2
+Lanzhou–Urumqi High-Speed Railway	numberOfStations	31
+Namboku Line (Sapporo)	numberOfStations	16
+Tōzai Line (Sapporo)	numberOfStations	19
+Tōhō Line	numberOfStations	14
+Damascus Metro	numberOfStations	17
+Mexicoach	numberOfStations	4
+York University Busway	numberOfStations	4
+Montclair-Boonton Line	numberOfStations	27
+Montclair-Boonton Line	numberOfStations	28
+Yakima Transit	numberOfStations	2
+Yakima Transit	numberOfStations	720
+Cariri Metro	numberOfStations	9
+Hainan Eastern Ring Railway	numberOfStations	15
+Orléans tramway	numberOfStations	24
+Mecca Metro	numberOfStations	15
+High Level Bridge Streetcar	numberOfStations	2
+Le Mans tramway	numberOfStations	30
+Bangkok BRT	numberOfStations	12
+Nancy Guided Light Transit	numberOfStations	27
+Line 1 (Almaty)	numberOfStations	7
+Busan Subway Line 4	numberOfStations	14
+Shijiazhuang–Jinan Passenger Railway	numberOfStations	7
+Line 1 (Mumbai Metro)	numberOfStations	12
+Green Line (Namma Metro)	numberOfStations	22
+West Corridor (RTD)	numberOfStations	15
+MRT Grey Line	numberOfStations	21
+MRT Light Blue Line	numberOfStations	9
+La Habra-Yorba Linda (Pacific Electric)	numberOfStations	34
+Fullerton (Pacific Electric)	numberOfStations	40
+Redondo Beach via Gardena (Pacific Electric)	numberOfStations	40
+San Pedro via Dominguez (Pacific Electric)	numberOfStations	30
+Santa Ana (Pacific Electric)	numberOfStations	30
+San Pedro via Gardena (Pacific Electric)	numberOfStations	37
+Kotoden Nagao Line	numberOfStations	16
+Beverly Hills (Pacific Electric)	numberOfStations	10
+Hawthorne-El Segundo (Pacific Electric)	numberOfStations	22
+Long Beach (Pacific Electric)	numberOfStations	8
+East Corridor (RTD)	numberOfStations	7
+Beijing-Guangzhou High-Speed Railway	numberOfStations	45
+Shanghai–Nanjing Intercity High-Speed Railway	numberOfStations	21
+Adana Metro	numberOfStations	13
+Athens Tram	numberOfStations	48
+Niazi Express	numberOfStations	21
+Stoke Streetcar	numberOfStations	12
+Stoke Streetcar	numberOfStations	19
+Barclays Cycle Hire	numberOfStations	400
+Kunming Metro	numberOfStations	51
+Saltburn Cliff Lift	numberOfStations	2
+Seville Metro line 1	numberOfStations	22
+Üçyol-Bornova Line	numberOfStations	10
+Seville Metro line 2	numberOfStations	18
+Line 1 (Metro Valencia)	numberOfStations	59
+TCDD District 1	numberOfStations	120
+Cape Flats Line	numberOfStations	16
+Eastern Corridor Commuter Rail	numberOfStations	10
+Thames Gateway Cable Car	numberOfStations	2
+Kenwood branch (Chicago Transit Authority)	numberOfStations	6
+Navi Mumbai Metro	numberOfStations	17
+Bristol Supertram	numberOfStations	16
+Central Line (Cape Town)	numberOfStations	33
+Northern Line (Cape Town)	numberOfStations	48
+First Coast Commuter Rail  North Corridor   1	numberOfStations	15
+First Coast Commuter Rail  Southwest Corridor   1	numberOfStations	12
+First Coast Commuter Rail  Southeast Corridor   1	numberOfStations	13
+Warminster Line	numberOfStations	17
+West Trenton Line (SEPTA)	numberOfStations	24
+Media/Elwyn Line	numberOfStations	19
+Lansdale/Doylestown Line	numberOfStations	27
+Paoli/Thorndale Line	numberOfStations	26
+Cynwyd Line	numberOfStations	5
+Manayunk/Norristown Line	numberOfStations	16
+East Carolina University Student Transit Authority	numberOfStations	109
+Furka Cogwheel Steam Railway	numberOfStations	6
+747 Express Bus	numberOfStations	11
+Sincan-Kayaş Commuter Line	numberOfStations	26
+Shalun Line	numberOfStations	3
+İstanbul Line	numberOfStations	19
+DART Light Rail	numberOfStations	54
+DART Light Rail	numberOfStations	62
+Bexhill West Branch Line	numberOfStations	3
+Metropolitan Main Line (Chicago Transit Authority)	numberOfStations	6
+Southern Line (İZBAN)	numberOfStations	12
+Dortmund Stadtbahn	numberOfStations	83
+Metro Liner (Los Angeles County)	numberOfStations	24
+Durrës–Tiranë railway	numberOfStations	6
+J (Los Angeles Railway)	numberOfStations	35
+P (Los Angeles Railway)	numberOfStations	34
+R (Los Angeles Railway)	numberOfStations	33
+V (Los Angeles Railway)	numberOfStations	31
+Navi Mumbai Monorail	numberOfStations	18
+Pune Monorail	numberOfStations	18
+S (Los Angeles Railway)	numberOfStations	37
+5 (Los Angeles Railway)	numberOfStations	50
+Tōbu Kumagaya Line	numberOfStations	4
+Tōbu Nikkō Tramway	numberOfStations	20
+Tōbu Yaita Line	numberOfStations	9
+Tōbu Keishi Line	numberOfStations	3
+7 (Los Angeles Railway)	numberOfStations	26
+8 (Los Angeles Railway)	numberOfStations	27
+9 (Los Angeles Railway)	numberOfStations	32
+F (Los Angeles Railway)	numberOfStations	28
+N (Los Angeles Railway)	numberOfStations	21
+W (Los Angeles Railway)	numberOfStations	47
+D (Los Angeles Railway)	numberOfStations	17
+3 (Los Angeles Railway)	numberOfStations	24
+B (Los Angeles Railway)	numberOfStations	29
+Nishitetsu Amagi Line	numberOfStations	12
+10 (Los Angeles Railway)	numberOfStations	9
+Capital Bikeshare	numberOfStations	114
+FMetro	numberOfStations	14
+El Metropolitano	numberOfStations	38
+North South Railway (Saudi Arabia)	numberOfStations	6
+Chesham branch	numberOfStations	2
+Pune Suburban Service	numberOfStations	17
+Guangzhou Bus Rapid Transit	numberOfStations	26
+Cross River Rail	numberOfStations	6
+Central Corridor Rail Line	numberOfStations	10
+Central Corridor Rail Line	numberOfStations	3
+Bangalore High-Speed Rail Link	numberOfStations	4
+Harbin–Dalian High-Speed Railway	numberOfStations	24
+Tsentralno–Zavodska Line	numberOfStations	6
+Brussels RER	numberOfStations	120
+London Necropolis Railway	numberOfStations	3
+33 Langelier	numberOfStations	61
+165 Côte-des-Neiges	numberOfStations	35
+24 Sherbrooke	numberOfStations	47
+139 Pie-IX	numberOfStations	44
+121 Sauvé/Côte-Vertu	numberOfStations	48
+161 Van Horne	numberOfStations	44
+141 Jean Talon East	numberOfStations	48
+69 Gouin	numberOfStations	72
+51 Boulevard Édouard-Montpetit	numberOfStations	51
+18 Beaubien	numberOfStations	54
+45 Papineau	numberOfStations	43
+105 Sherbrooke	numberOfStations	20
+197 Rosemont	numberOfStations	43
+67 Saint-Michel	numberOfStations	39
+535 Reserve Lane Parc/Côte-des-Neiges	numberOfStations	68
+80 Avenue du Parc	numberOfStations	28
+55 Boulevard Saint-Laurent	numberOfStations	41
+132 Viau	numberOfStations	35
+171 Henri-Bourassa	numberOfStations	38
+211 Bord-du-Lac	numberOfStations	47
+106 Newman	numberOfStations	28
+506 Reserved Lane Newman	numberOfStations	28
+32 Lacordaire	numberOfStations	40
+44 Armand-Bombardier	numberOfStations	34
+64 Grenet	numberOfStations	18
+48 Perras	numberOfStations	42
+49 Maurice-Duplessis	numberOfStations	61
+90 Saint-Jacques	numberOfStations	54
+97 Mont-Royal	numberOfStations	36
+103 Monkland	numberOfStations	22
+187 René-Lévesque	numberOfStations	40
+470 Express Pierrefonds	numberOfStations	23
+467 Express Saint-Michel	numberOfStations	16
+57 Pointe-Saint-Charles	numberOfStations	37
+102 Somerled	numberOfStations	26
+108 Bannantyne	numberOfStations	28
+109 Boulevard Shevchenko	numberOfStations	37
+505 Reserved Lane Pie-IX	numberOfStations	16
+27 Boulevard Saint-Joseph	numberOfStations	22
+427 Express Saint-Joseph	numberOfStations	28
+54 Charland/Chabanel	numberOfStations	43
+100 Crémazie	numberOfStations	38
+166 Queen Mary	numberOfStations	32
+99 Villeray	numberOfStations	27
+58 Wellington	numberOfStations	37
+Line 1 (São Paulo Metro)	numberOfStations	23
+Line 2 (São Paulo Metro)	numberOfStations	14
+Line 3 (São Paulo Metro)	numberOfStations	18
+TransJakarta Corridors	numberOfStations	180
+Line 4 (São Paulo Metro)	numberOfStations	11
+Vientiane Metro	numberOfStations	7
+Line 5 (São Paulo Metro)	numberOfStations	6
+Line 5 (São Paulo Metro)	numberOfStations	5
+Line 5 (São Paulo Metro)	numberOfStations	6
+Line 15 (São Paulo Metro)	numberOfStations	9
+Line 16 (São Paulo Metro)	numberOfStations	10
+Line 17 (São Paulo Metro)	numberOfStations	14
+MobiVie	numberOfStations	240
+Kotoden Kotohira Line	numberOfStations	21
+Kotoden Shido Line	numberOfStations	16
+Ahmedabad Monorail	numberOfStations	18
+Ludhiana Metro	numberOfStations	27
+Bhopal Metro	numberOfStations	17
+Leeds New Line	numberOfStations	8
+Changchun–Jilin Intercity Railway	numberOfStations	3
+Chula-Siam Monorail	numberOfStations	11
+Line 7 (CPTM)	numberOfStations	17
+Line 8 (CPTM)	numberOfStations	24
+95 Bélanger	numberOfStations	43
+Tramways in Teschen	numberOfStations	11
+Cebu Bus Rapid Transit System	numberOfStations	25
+Kurenivsko-Chervonoarmiyska Line	numberOfStations	15
+Syretsko-Pecherska Line	numberOfStations	16
+Viva Purple	numberOfStations	23
+Viva Green	numberOfStations	11
+Viva Orange	numberOfStations	12
+Yokohama Minatomirai Railway Kodomonokuni Line	numberOfStations	3
+Sapporo Municipal Subway	numberOfStations	49
+Nagahori Tsurumi-ryokuchi Line	numberOfStations	17
+Sakaisuji Line	numberOfStations	10
+Delhi Metro	numberOfStations	140
+London Tramlink	numberOfStations	38
+Yotsubashi Line	numberOfStations	11
+Tanimachi Line	numberOfStations	26
+Ramkhamhaeng-Thonglor Monorail	numberOfStations	9
+Grand Square Monorail	numberOfStations	4
+61 Wellington	numberOfStations	36
+Esko Prague	numberOfStations	158
+Brive-la-Gaillarde–Toulouse (via Capdenac) railway	numberOfStations	25
+Liujia Line	numberOfStations	2
+Almelo–Salzbergen railway	numberOfStations	9
+Moret–Lyon railway	numberOfStations	61
+PO Corrèze	numberOfStations	20
+Amsterdam–Schiphol railway	numberOfStations	4
+Hangzhou BRT	numberOfStations	50
+Agen–Vic-en-Bigorre railway	numberOfStations	22
+Deventer–Almelo railway	numberOfStations	6
+Ordsall Chord	numberOfStations	0
+Line 9 (CPTM)	numberOfStations	18
+Line 10 (CPTM)	numberOfStations	14
+Line 11 (CPTM)	numberOfStations	16
+Line 12 (CPTM)	numberOfStations	13
+Line 14 (CPTM)	numberOfStations	3
+Line 13 (CPTM)	numberOfStations	5
+Amsterdam–Arnhem railway	numberOfStations	23
+Indore Metro	numberOfStations	35
+Potsdam Tramway	numberOfStations	63
+Algiers tramway	numberOfStations	13
+Trailblazer (monorail)	numberOfStations	2
+Rabat-Salé tramway	numberOfStations	31
+Route 193 Jarry	numberOfStations	48
+Kolkata Metro Line 1	numberOfStations	23
+78 Laurendeau	numberOfStations	28
+15 Sainte-Catherine	numberOfStations	23
+110 Centrale	numberOfStations	78
+123 Dollard	numberOfStations	35
+124 Victoria	numberOfStations	46
+112 Airlie	numberOfStations	40
+113 Lapierre	numberOfStations	38
+125 Ontario	numberOfStations	37
+Kolkata Metro Line 2	numberOfStations	12
+Silver Line (MTS)	numberOfStations	9
+Green Line (Jaipur Metro)	numberOfStations	11
+Orange Line (Jaipur Metro)	numberOfStations	20
+Fukushima Transportation	numberOfStations	12
+M2 (İstanbul Metro)	numberOfStations	12
+Charm City Circulator	numberOfStations	80
+M4 (İstanbul Metro)	numberOfStations	17
+New Balance Hubway	numberOfStations	61

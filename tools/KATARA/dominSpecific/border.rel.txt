@@ -1,0 +1,709 @@
+Azores	border	Corvo Island
+Willamette Valley	border	Cascade Range
+Willamette Valley	border	Oregon Coast Range
+Willamette Valley	border	Calapooya Mountains
+Sangre de Cristo Range	border	San Luis Valley
+Albula Alps	border	Oberhalbstein Range
+Lepontine Alps	border	Bernese Alps
+Dauphiné Alps	border	Cottian Alps
+Cottian Alps	border	Maritime Alps
+Pennine Alps	border	Graian Alps
+Bernese Alps	border	Chablais Alps
+Maritime Alps	border	Ligurian Alps
+Glarus Alps	border	Urner Alps
+Graian Alps	border	Chablais Alps
+Jura Mountains	border	Alps
+Karakoram	border	Ladakh Range
+Mojave Desert	border	Great Basin Desert
+Mojave Desert	border	Sonoran Desert
+Mojave Desert	border	Colorado Plateau
+Mojave Desert	border	Colorado Desert
+Verde Valley	border	Sycamore Canyon
+Verde Valley	border	Sedona, Arizona
+Verde Valley	border	Oak Creek Canyon
+Verde Valley	border	Black Hills (Yavapai County)
+Verde Valley	border	Camp Verde, Arizona
+Verde Valley	border	Interstate 17
+Korean Peninsula	border	China
+Alaska Range	border	Pacific Coast Ranges
+Aleutian Range	border	Tordrillo Mountains
+Carson Range	border	Reno, Nevada
+Carson Range	border	Lake Tahoe
+Dinaric Alps	border	Julian Alps
+Absaroka Range	border	Beartooth Mountains
+Absaroka Range	border	Wind River Range
+Rätikon	border	Silvretta Alps
+Silvretta Alps	border	Rätikon
+White Mountains (California)	border	Inyo Mountains
+White Mountains (California)	border	Sierra Nevada (U.S.)
+White Mountains (Arizona)	border	Mogollon Rim
+White Mountains (Arizona)	border	San Francisco Mountains (New Mexico)
+White Mountains (Arizona)	border	Painted Desert, Arizona
+White Mountains (Arizona)	border	Navajo Nation
+White Mountains (Arizona)	border	Petrified Forest National Park
+White Mountains (Arizona)	border	Fort Apache Indian Reservation
+Great Basin Desert	border	Escalante Desert
+Great Basin Desert	border	Mojave Desert
+Santa Monica Mountains	border	Santa Susana Mountains
+Wrangell Mountains	border	Saint Elias Mountains
+Catskill Mountains	border	The Poconos
+Santa Susana Mountains	border	San Gabriel Mountains
+Green River (Utah)	border	Great Basin Divide
+Green River (Utah)	border	Continental Divide of the Americas
+Big Horn Mountains	border	Absaroka Range
+Wicklow Mountains	border	Blackstairs Mountains
+Bonneville Salt Flats	border	Interstate 80 in Utah
+Bonneville Salt Flats	border	West Wendover, Nevada
+Great Smoky Mountains	border	Bald Mountains
+Great Smoky Mountains	border	Unicoi Mountains
+Saint Elias Mountains	border	Wrangell Mountains
+Carson Sink	border	West Humboldt Range
+Carson Sink	border	Stillwater Range
+Carson Sink	border	Carson Desert
+Carson Sink	border	Lahontan Valley#Forty Mile Desert
+Cache Valley	border	Bannock Range
+Cache Valley	border	Wellsville Mountains
+Cache Valley	border	Bear River Mountains
+Cache Valley	border	Wasatch Range
+Tehachapi Mountains	border	Sierra Nevada (U.S.)
+Tehachapi Mountains	border	San Emigdio Mountains
+Tehachapi Mountains	border	Sierra Pelona Mountains
+San Bernardino Mountains	border	San Gabriel Mountains
+Inyo Mountains	border	White Mountains (California)
+Inyo Mountains	border	Sierra Nevada (U.S.)
+Calapooya Mountains	border	Cascade Range
+Tualatin Valley	border	Northern Oregon Coast Range
+Prince of Wales Island (Alaska)	border	Ketchikan Gateway Borough, Alaska
+Alvord Desert	border	Steens Mountain
+Ötztal Alps	border	Stubai Alps
+Chiricahua Mountains	border	San Simon Valley
+Chiricahua Mountains	border	San Bernardino Valley (Arizona)
+Chiricahua Mountains	border	Pedragosa Mountains
+Chiricahua Mountains	border	Sulphur Springs Valley
+Chiricahua Mountains	border	Dos Cabezas Mountains
+Avra Valley	border	West Silver Bell Mountains
+Avra Valley	border	Waterman Mountains
+Avra Valley	border	Roskruge Mountains
+Avra Valley	border	Sierrita Mountains
+Avra Valley	border	Tucson Mountains
+Brazilian Highlands	border	Amazon Basin
+Brazilian Highlands	border	Wildlife corridor
+Thiel Mountains	border	Horlick Mountains
+Great Salt Lake Desert	border	Silver Island Range
+Great Salt Lake Desert	border	Pilot Range
+Sierra Madre Occidental	border	Gulf of California
+Sierra Madre Occidental	border	Pacific Ocean
+Sierra Madre Occidental	border	Mexican Plateau
+Sierra Madre Occidental	border	Trans-Mexican Volcanic Belt
+Mohave Valley	border	Colorado River
+Mohave Valley	border	Black Mesa (western Arizona)
+Mohave Valley	border	Black Mountains (Arizona)
+Mohave Valley	border	Mohave Mountains
+Mohave Valley	border	Newberry Mountains (Nevada)
+Mohave Valley	border	Dead Mountains
+Mohave Valley	border	Sacramento Mountains (California)
+Bear River Mountains	border	Cache Valley
+Bear River Mountains	border	Bear Lake (Idaho–Utah)
+Port of Anchorage	border	Kenai Peninsula Borough, Alaska
+Guadalupe Mountains	border	Sacramento Mountains (New Mexico)
+Mosquito Range	border	Sawatch Range
+Elk Mountains (Colorado)	border	Sawatch Range
+Unicoi Mountains	border	Great Smoky Mountains
+Nightingale Mountains	border	Selenite Range
+Nightingale Mountains	border	Shawave Mountains
+Nightingale Mountains	border	Truckee Range
+Ligurian Alps	border	Apennine Mountains
+San Andres Mountains	border	Organ Mountains (New Mexico)
+Ortler Alps	border	Livigno Range
+Western Tatras	border	Eastern Tatras
+Lesser Caucasus	border	Greater Caucasus
+Cantabrian Mountains	border	Pyrenees
+Dead Mountains	border	Newberry Mountains (Nevada)
+Dead Mountains	border	Piute Valley
+Dead Mountains	border	Colorado River
+Dead Mountains	border	Interstate 40 in California
+Blue Mountain (Pennsylvania)	border	Ridge-and-Valley Appalachians
+Bieszczady Mountains	border	Low Beskids
+Bieszczady Mountains	border	Pogórze Bukowskie
+Sacramento Mountains (New Mexico)	border	Guadalupe Mountains
+Morvan	border	Massif Central
+Aravis Range	border	Chablais
+Eastern Alps	border	Vienna Woods
+Garibaldi Ranges	border	North Shore Mountains
+Tantalus Range	border	Garibaldi Ranges
+Tantalus Range	border	Clendinning Range
+Tantalus Range	border	North Shore Mountains
+Rainbow Range (Chilcotin Plateau)	border	Pacific Ranges
+Rainbow Range (Chilcotin Plateau)	border	Kitimat Ranges
+Cayoosh Range	border	Bendor Range
+Organ Mountains (New Mexico)	border	San Andres Mountains
+Chemehuevi Mountains	border	Sacramento Mountains (California)
+Chemehuevi Mountains	border	Topock Marsh
+Chemehuevi Mountains	border	Colorado River
+Chemehuevi Mountains	border	Mohave Mountains
+Chemehuevi Mountains	border	Chemehuevi Wash
+Chemehuevi Mountains	border	Whipple Mountains
+Amargosa Desert	border	Funeral Mountains
+Amargosa Desert	border	Nevada Test and Training Range
+Sacramento Mountains (California)	border	Chemehuevi Valley
+Sacramento Mountains (California)	border	Piute Wash
+Sacramento Mountains (California)	border	Colorado River
+Sacramento Mountains (California)	border	Chemehuevi Mountains
+Whipple Mountains	border	Colorado River
+Whipple Mountains	border	California State Route 62
+Louderback Mountains	border	Clan Alpine Mountains
+Schell Creek Range	border	Steptoe Valley
+Sheep Range	border	East Desert Range
+Sheep Range	border	Desert Range
+Sheep Range	border	Delamar Mountains
+Sheep Range	border	Las Vegas Range
+Sheep Range	border	Las Vegas Valley (landform)
+Piute Range	border	Lanfair Valley
+Piute Range	border	Eldorado Valley
+Piute Range	border	Piute Valley
+Piute Range	border	Castle Mountains (Nevada)
+Piute Range	border	McCullough Range
+Lanfair Valley	border	New York Mountains
+Lanfair Valley	border	Piute Range
+Lanfair Valley	border	Woods Mountains
+Willapa Hills	border	Columbia River
+Greater Fatra	border	Lesser Fatra
+Richardson Bay	border	Raccoon Strait
+Alto Trás-os-Montes Subregion	border	Ave Subregion
+Topatopa Mountains	border	Sierra Pelona Mountains
+Tenmile Range	border	Mosquito Range
+Surprise Valley (Modoc County, California)	border	Warner Mountains
+Surprise Valley (Modoc County, California)	border	Hays Canyon Range
+Livanjsko field	border	Dinara
+Neacola Mountains	border	Chigmit Mountains
+Chigmit Mountains	border	Tordrillo Mountains
+Tordrillo Mountains	border	Chigmit Mountains
+Saltoro Mountains	border	Masherbrum Mountains
+Pilot Range	border	Pilot Valley Playa, Utah
+Snake Range	border	Schell Creek Range
+Serra dos Ancares	border	Cantabrian Mountains
+Alsek Ranges	border	Fairweather Range
+Evergreen Cemetery (Gettysburg, Pennsylvania)	border	Gettysburg National Cemetery
+South Mountain (eastern Pennsylvania)	border	Lebanon Valley
+Aurunci Mountains	border	Monti Ausoni
+Aurunci Mountains	border	Liri
+Aurunci Mountains	border	Garigliano
+Aurunci Mountains	border	Tyrrhenian Sea
+Mentasta Mountains	border	Alaska Highway
+Basque Mountains	border	Pyrenees
+Mahalangur Himal	border	Nangpa La
+Owl Mountains	border	Bardzkie Mountains
+Mansiri Himal	border	Annapurna
+East Potrillo Mountains	border	West Potrillo Mountains
+East Potrillo Mountains	border	List of valleys of New Mexico
+East Potrillo Mountains	border	Cox Peak, Mt.Riley, Potrillo volcanic field
+West Potrillo Mountains	border	Interstate 10
+West Potrillo Mountains	border	Rio Grande Valley
+West Potrillo Mountains	border	East Potrillo Mountains
+Great Craggy Mountains	border	Black Mountains (North Carolina)
+Big Hatchet Mountains	border	Little Hatchet Mountains
+Big Hatchet Mountains	border	Hatchita Valley
+Big Hatchet Mountains	border	Playas Valley
+Big Hatchet Mountains	border	Alamo Hueco Mountains
+Animas Mountains	border	Animas Valley
+Animas Mountains	border	Playas Valley
+Animas Mountains	border	Pyramid Mountains
+Animas Mountains	border	Peloncillo Mountains (Hidalgo County)
+Ilgachuz Range	border	Rainbow Range (Chilcotin Plateau)
+Vtáčnik	border	Strážov Mountains
+Northern Oregon Coast Range	border	Central Oregon Coast Range
+Central Oregon Coast Range	border	Northern Oregon Coast Range
+Oregon Coast Range	border	Willamette Valley
+Bradshaw Mountains	border	Weaver Mountains
+Bradshaw Mountains	border	Sierra Prieta
+Bradshaw Mountains	border	Black Hills (Yavapai County)
+Bradshaw Mountains	border	New River Mountains
+Southern Oregon Coast Range	border	Central Oregon Coast Range
+Urner Alps	border	Bernese Alps
+Appenzell Alps	border	Glarus Alps
+Southern Yatsugatake Volcanic Group	border	Northern Yatsugatake Volcanic Group
+Bukovec Mountains	border	Low Beskids
+High Desert (Oregon)	border	Cascade Range
+High Desert (Oregon)	border	Blue Mountains (Oregon)
+High Desert (Oregon)	border	Idaho
+High Desert (Oregon)	border	Nevada
+Black Mountains (Arizona)	border	Lake Mead
+Black Mountains (Arizona)	border	Colorado River
+Black Mountains (Arizona)	border	Detrital Valley
+Black Mountains (Arizona)	border	Hualapai Valley
+Black Mountains (Arizona)	border	Cerbat Mountains
+Black Mountains (Arizona)	border	Sacramento Valley (Arizona)
+Black Mountains (Arizona)	border	Interstate 40 in Arizona
+Tinajas Altas Mountains	border	Gila Mountains (Yuma County)
+Tinajas Altas Mountains	border	Yuma Desert
+Tinajas Altas Mountains	border	Lechuguilla Desert
+Tinajas Altas Mountains	border	Gran Desierto de Altar
+Bryan Mountains	border	Mohawk Mountains
+Bryan Mountains	border	Granite Mountains (Arizona)
+Bryan Mountains	border	Mohawk Valley (Arizona)
+Bryan Mountains	border	Sierra Pinta
+Mohawk Mountains	border	Gila River
+Mohawk Mountains	border	San Cristobal Valley
+Mohawk Mountains	border	Mohawk Valley (Arizona)
+Mohawk Mountains	border	Bryan Mountains
+Gila Mountains (Graham County)	border	Gila Valley (Graham County)
+Gila Mountains (Graham County)	border	Santa Teresa Mountains
+Pogórze Bukowskie	border	Bieszczady Mountains
+Pogórze Bukowskie	border	Low Beskids
+Chehalem Mountains	border	Oregon Coast Range
+Chablais Alps	border	Bernese Alps
+Chablais Alps	border	Mont Blanc massif
+Doły Jasielsko-Sanockie	border	Bieszczady Mountains
+Doły Jasielsko-Sanockie	border	Low Beskids
+Low Beskids	border	Doły Jasielsko-Sanockie
+Low Beskids	border	Bieszczady Mountains
+Low Beskids	border	Pogórze Bukowskie
+Low Beskids	border	Bukovec Mountains
+Low Beskids	border	Vihorlat Mountains
+Low Beskids	border	Eastern Slovak Lowland
+Growler Mountains	border	Growler Valley
+Growler Mountains	border	Childs Valley
+Growler Mountains	border	Crater Range
+Growler Mountains	border	Granite Mountains (Arizona)
+Growler Valley	border	Granite Mountains (Arizona)
+Growler Valley	border	Growler Mountains
+Pinacate Peaks	border	Gran Desierto de Altar
+Pinacate Peaks	border	Mexican Federal Highway 8
+Dome Rock Mountains	border	La Posa Plain
+Dome Rock Mountains	border	Plomosa Mountains
+Dome Rock Mountains	border	Trigo Mountains
+Tyson Wash	border	La Posa Plain
+Fish Lake Valley	border	White Mountains (California)
+Fish Lake Valley	border	Silver Peak Range
+Fish Lake Valley	border	Monte Cristo Range
+Fish Lake Valley	border	Nevada State Route 773
+Hieroglyphic Mountains	border	Bradshaw Mountains
+Port of Cleveland	border	Bratenahl, Ohio
+Port of Cleveland	border	Brooklyn, Ohio
+Caja del Rio	border	Rio Grande
+Caja del Rio	border	Canada Ancha
+Caja del Rio	border	Santa Fe River
+Bald Mountains	border	Unaka Range
+Bald Mountains	border	Great Smoky Mountains
+Plott Balsams	border	Great Smoky Mountains
+Plott Balsams	border	Great Balsam Mountains
+Northern Yatsugatake Volcanic Group	border	Southern Yatsugatake Volcanic Group
+Maria fold and thrust belt	border	Mojave Desert
+Maria fold and thrust belt	border	Mojave Desert
+Maria fold and thrust belt	border	Sonoran Desert
+Hays Canyon Range	border	Surprise Valley (Modoc County, California)
+Hays Canyon Range	border	Black Rock Desert
+Hays Canyon Range	border	Buffalo Hills
+Hays Canyon Range	border	Middle Alkali Lake
+Bullfrog Hills	border	Pahute Mesa (landform)
+Bullfrog Hills	border	Bare Mountain Range (Nevada)
+Bullfrog Hills	border	Amargosa Desert
+Clover Mountains	border	Meadow Valley Wash
+Clover Mountains	border	Cedar Range
+Clover Mountains	border	Bull Valley Mountains
+Clover Mountains	border	Tule Desert (Nevada)
+Desert Range	border	East Desert Range
+Desert Range	border	Three Lakes Valley (Nevada)
+Desert Range	border	Pintwater Range
+Desert Range	border	Sheep Range
+Desert Range	border	Spring Mountains
+Central Ishikari Mountains	border	Nipesotsu-Maruyama Volcanic Group
+Pilot Valley Playa, Utah	border	Pilot Range
+Pilot Valley Playa, Utah	border	Silver Island Range
+Silver Island Range	border	Pilot Valley Playa, Utah
+Silver Island Range	border	Great Salt Lake Desert
+Silver Island Range	border	Bonneville Salt Flats
+East Desert Range	border	Desert Lake (Nevada)
+East Desert Range	border	Desert Range
+East Desert Range	border	Three Lakes Valley (Nevada)
+East Desert Range	border	Emigrant Valley
+East Desert Range	border	Pahranagat Range
+Bare Mountain Range (Nevada)	border	Bullfrog Hills
+Bare Mountain Range (Nevada)	border	Pahute Mesa (landform)
+Bare Mountain Range (Nevada)	border	Amargosa Valley
+Lucy Gray Mountains	border	Ivanpah Valley
+Lucy Gray Mountains	border	McCullough Range
+Pintwater Range	border	Indian Springs Valley
+Pintwater Range	border	Three Lakes Valley (Nevada)
+Pintwater Range	border	East Desert Range
+Pintwater Range	border	Desert Range
+Pintwater Range	border	Spring Mountains
+Diamond Mountains (California)	border	Honey Lake
+Artillery Mountains	border	Big Sandy River (Arizona)
+Artillery Mountains	border	Alamo Lake State Park
+Artillery Mountains	border	Rawhide Mountains
+Whetstone Mountains	border	San Pedro River (Arizona)
+Whetstone Mountains	border	Interstate 10 in Arizona
+Whetstone Mountains	border	Mule Mountains
+Whetstone Mountains	border	Huachuca Mountains
+Twin Range	border	Franconia Range
+Pilot Knob (Imperial County, California)	border	Cargo Muchacho Mountains
+Pilot Knob (Imperial County, California)	border	Algodones Dunes
+Santa Teresa Mountains	border	Aravaipa Creek
+Santa Teresa Mountains	border	Mescal Mountains
+Santa Teresa Mountains	border	Gila Valley (Graham County)
+Santa Teresa Mountains	border	Galiuro Mountains
+Santa Teresa Mountains	border	Pinaleno Mountains
+Entiat Mountains	border	Chelan Mountains
+Chelan Mountains	border	Entiat Mountains
+Antelope Valley (California-Nevada)	border	Pine Grove Hills
+Antelope Valley (California-Nevada)	border	Pine Nut Mountains
+Antelope Valley (California-Nevada)	border	Sierra Nevada (U.S.)
+Upper Neretva	border	Bjelašnica
+Virgin Valley	border	Beaver Dam Mountains
+Virgin Valley	border	Virgin Mountains
+Virgin Valley	border	Mormon Mesa
+Krkonoše	border	Jizera Mountains
+Whitefish Range	border	North Fork Flathead River
+Warner Valley	border	Hart Mountain
+Warner Valley	border	Warner Mountains
+Plomosa Mountains	border	La Posa Plain
+Plomosa Mountains	border	Dome Rock Mountains
+Plomosa Mountains	border	Colorado River
+Plomosa Mountains	border	Blythe, California
+Waterman Mountains	border	Silver Bell Mountains
+Waterman Mountains	border	Avra Valley
+Waterman Mountains	border	Marana, Arizona
+Waterman Mountains	border	Aguirre Valley
+Beaver Valley (Ontario)	border	Niagara Escarpment
+Beaver Valley (Ontario)	border	Niagara Escarpment
+Beaver Valley (Ontario)	border	Georgian Bay
+Dos Cabezas Mountains	border	Chiricahua Mountains
+Dos Cabezas Mountains	border	San Simon Valley
+Dos Cabezas Mountains	border	Sulphur Springs Valley
+Sacramento Wash	border	Black Mountains (Arizona)
+Sacramento Wash	border	Cerbat Mountains
+Sacramento Wash	border	Kingman, Arizona
+Sacramento Wash	border	Hualapai Mountains
+Sacramento Wash	border	Mohave Mountains
+Sacramento Wash	border	Dutch Flat (Arizona)
+Goose Lake Valley	border	Warner Mountains
+Goose Lake Valley	border	Modoc Plateau
+Round Top, Pennsylvania	border	Gettysburg National Military Park
+Altar Valley	border	Quinlan Mountains
+Altar Valley	border	Baboquivari Peak Wilderness
+Peloncillo Mountains (Cochise County)	border	Gila River
+Peloncillo Mountains (Cochise County)	border	U.S. Route 70#Arizona
+Peloncillo Mountains (Cochise County)	border	San Simon Valley
+San Simon Valley	border	San Simon, Arizona
+San Simon Valley	border	Dos Cabezas Mountains
+San Simon Valley	border	Bowie, Arizona
+San Simon Valley	border	Road Forks, New Mexico
+San Simon Valley	border	Rodeo, New Mexico
+Peloncillo Mountains (Hidalgo County)	border	Animas Mountains
+Peloncillo Mountains (Hidalgo County)	border	San Bernardino Valley (Arizona)
+Peloncillo Mountains (Hidalgo County)	border	Guadalupe Mountains (Hidalgo County)
+Sierra San Luis	border	Sierra del Tigre
+Sierra San Luis	border	Mexico – United States border
+Sierra San Luis	border	Peloncillo Mountains (Hidalgo County)
+Sierra del Tigre	border	Sierra San Luis
+Sierra del Tigre	border	Yaqui River
+Sierra del Tigre	border	Rio Bavispe
+Silver Bell Mountains	border	West Silver Bell Mountains
+Silver Bell Mountains	border	Waterman Mountains
+Silver Bell Mountains	border	Aguirre Valley
+Silver Bell Mountains	border	Avra Valley
+Sulphur Springs Valley	border	Dos Cabezas Mountains
+Sulphur Springs Valley	border	Chiricahua Mountains
+Sulphur Springs Valley	border	Dragoon Mountains
+Sulphur Springs Valley	border	Little Dragoon Mountains
+Sulphur Springs Valley	border	Mule Mountains
+Swisshelm Mountains	border	Sulphur Springs Valley
+Swisshelm Mountains	border	Chiricahua Mountains
+Swisshelm Mountains	border	Pedregosa Mountains
+Swisshelm Mountains	border	Leslie Creek
+Atascosa Mountains	border	Tumacacori Mountains
+Atascosa Mountains	border	Pajarito Mountains
+Atascosa Mountains	border	Arivaca Lake
+Sierra La Esmeralda	border	Pajarito Mountains
+Sierra La Esmeralda	border	Mexico – United States border
+San Luis Mountains	border	Altar Valley
+San Luis Mountains	border	Buenos Aires National Wildlife Refuge
+San Luis Mountains	border	Cerro Colorado Mountains
+San Luis Mountains	border	Arivaca Lake
+San Luis Mountains	border	Pajarito Wilderness
+Pajarito Mountains	border	Atascosa Mountains
+Pajarito Mountains	border	Peña Blanca Lake
+Pajarito Mountains	border	Mexico – United States border
+Pajarito Mountains	border	Sierra La Esmeralda
+Harcuvar Mountains	border	Buckskin Mountains
+Harcuvar Mountains	border	McMullen Valley
+Buckskin Mountains	border	Bill Williams Mountains
+Buckskin Mountains	border	Bill Williams River
+Buckskin Mountains	border	Butler Valley (Arizona)
+Buckskin Mountains	border	Gibralter Mountain Wilderness
+Buckskin Mountains	border	Buckskin Mountain State Park
+Buckskin Mountains	border	Alamo Lake State Park
+Butler Valley (Arizona)	border	Buckskin Mountains
+Butler Valley (Arizona)	border	Harcuvar Mountains
+Eldorado Valley	border	McCullough Range
+Eldorado Valley	border	Eldorado Mountains
+Piute Wash	border	Piute Valley
+Piute Wash	border	Interstate 40 in California
+Piute Valley	border	Piute Range
+Piute Valley	border	Newberry Mountains (Nevada)
+Piute Valley	border	Dead Mountains
+Piute Valley	border	Interstate 40 in California
+Laguna Mountains (Arizona)	border	Colorado River
+Laguna Mountains (Arizona)	border	Mittry Lake
+Laguna Mountains (Arizona)	border	Chocolate Mountains
+Laguna Mountains (Arizona)	border	Gila River
+Laguna Mountains (Arizona)	border	Gila Valley (Yuma County)
+Castle Dome (butte)	border	Castle Dome Plain
+Mohave Mountains	border	Colorado River
+Mohave Mountains	border	Lake Havasu
+Mohave Mountains	border	Sacramento Valley (Arizona)
+Mohave Mountains	border	Dutch Flat (Arizona)
+Mohave Mountains	border	Bill Williams Mountains
+Galiuro Mountains	border	San Pedro River (Arizona)
+Galiuro Mountains	border	Aravaipa Valley
+Galiuro Mountains	border	Aravaipa Canyon Wilderness
+Galiuro Mountains	border	Winchester Mountains
+Galiuro Mountains	border	Rincon Mountains
+Centennial Wash (Mohave County)	border	Aubrey Peak Wilderness
+Centennial Wash (Mohave County)	border	Bill Williams River
+Little Harquahala Mountains	border	Centennial Wash (Maricopa County)
+Little Harquahala Mountains	border	Bouse Wash
+Aravaipa Creek    1	border	Galiuro Mountains
+Aravaipa Creek    1	border	Santa Teresa Mountains
+Aravaipa Creek    1	border	Pinaleno Mountains
+Aravaipa Creek    1	border	Mescal Mountains
+Gila Valley (Yuma County)	border	Laguna Mountains (Arizona)
+Gila Valley (Yuma County)	border	Yuma Mesa
+Gila Valley (Yuma County)	border	Gila Mountains (Yuma County)
+Gila Valley (Yuma County)	border	Yuma, Arizona
+Gila Valley (Graham County)	border	Gila Mountains (Graham County)
+Gila Valley (Graham County)	border	Santa Teresa Mountains
+Gila Valley (Graham County)	border	Pinaleno Mountains
+Childs Valley	border	Sentinel Plain
+Childs Valley	border	San Cristobal Valley
+San Pedro Valley (Arizona)	border	Rincon Mountains
+San Pedro Valley (Arizona)	border	Whetstone Mountains
+San Pedro Valley (Arizona)	border	Little Dragoon Mountains
+San Pedro Valley (Arizona)	border	Dragoon Mountains
+Park Valley (Arizona)	border	Hyder Valley
+Park Valley (Arizona)	border	Palomas Mountains
+Park Valley (Arizona)	border	San Cristobal Valley
+Park Valley (Arizona)	border	Sentinel Plain
+Dendora Valley	border	Gila Bend Mountains
+Dendora Valley	border	Painted Rock Dam#Painted Rock Reservoir
+Dendora Valley	border	Painted Rock Mountains
+Dendora Valley	border	Hyder Valley
+Weaver Mountains	border	Bradshaw Mountains
+Weaver Mountains	border	Hassayampa River
+Weaver Mountains	border	Date Creek Mountains
+Black Hills (Yavapai County)	border	Verde River
+Black Hills (Yavapai County)	border	Prescott Valley, Arizona
+Black Hills (Yavapai County)	border	Mazatzal Mountains
+Black Hills (Yavapai County)	border	Bradshaw Mountains
+Dutch Flat (Arizona)	border	Sacramento Valley (Arizona)
+Dutch Flat (Arizona)	border	Hualapai Mountains
+Dutch Flat (Arizona)	border	McCracken Mountains
+Dutch Flat (Arizona)	border	Aubrey Peak Wilderness
+Dutch Flat (Arizona)	border	Rawhide Mountains
+Dutch Flat (Arizona)	border	Mohave Mountains
+Granite Wash Mountains	border	Harcuvar Mountains
+Granite Wash Mountains	border	Little Harquahala Mountains
+Granite Wash Mountains	border	Ranegras Plain
+Granite Wash Mountains	border	Bouse Wash
+Chemehuevi Wash	border	Sacramento Mountains (California)
+Chemehuevi Wash	border	Turtle Mountain
+Chemehuevi Wash	border	Lake Havasu
+Chemehuevi Wash	border	Whipple Mountains
+Vidal Valley	border	Whipple Mountains
+Vidal Valley	border	Turtle Mountain
+Vidal Valley	border	West Riverside Mountains
+Vidal Valley	border	Rice Valley
+Vidal Valley	border	Chemehuevi Wash
+Pahrump Valley	border	Spring Mountains
+Pahrump Valley	border	Nopah Range
+Pahrump Valley	border	Resting Spring Range
+West Silver Bell Mountains	border	Aguirre Valley
+West Silver Bell Mountains	border	Silver Bell Mountains
+Little Rincon Mountains	border	Rincon Mountains
+Whitlock Valley	border	Whitlock Mountains
+Whitlock Valley	border	Black Hills (Greenlee County)
+Whitlock Valley	border	Peloncillo Mountains (Cochise County)
+Whitlock Valley	border	San Simon Valley
+Belmont Mountains	border	Hassayampa Plain
+Belmont Mountains	border	Big Horn Mountains (Arizona)
+Belmont Mountains	border	Tonopah Desert
+Little Burro Mountains	border	Big Burro Mountains
+Little Burro Mountains	border	Silver City Range
+Little Burro Mountains	border	Silver City, New Mexico
+Playas Valley	border	Continental Divide of the Americas
+Playas Valley	border	Animas Mountains
+Playas Valley	border	Little Hatchet Mountains
+San Augustin Mountains	border	San Andres Mountains
+San Augustin Mountains	border	Organ Mountains (New Mexico)
+San Augustin Mountains	border	Organ, New Mexico
+Canyon Creek Mountains	border	Elk Mountains (New Mexico)
+Canyon Creek Mountains	border	Gila Wilderness
+Cedar Mountain Range	border	New Mexico State Road 9
+Cedar Mountain Range	border	Mexico – United States border
+Pyramid Mountains	border	Lordsburg, New Mexico
+Pyramid Mountains	border	Interstate 10 in New Mexico
+Pyramid Mountains	border	Animas Mountains
+Pyramid Mountains	border	Animas Valley
+Pyramid Mountains	border	Playas Valley
+Luera Mountains	border	Plains of San Agustin
+Luera Mountains	border	Black Range
+Alamo Hueco Mountains	border	Playas Valley
+Alamo Hueco Mountains	border	Big Hatchet Mountains
+Alamo Hueco Mountains	border	Chihuahuan Desert
+Alamo Hueco Mountains	border	Chihuahua (state)
+Alamo Hueco Mountains	border	Dog Mountains
+Big Burro Mountains	border	Lordsburg Mesa
+Big Burro Mountains	border	Animas Valley
+Big Burro Mountains	border	Silver City, New Mexico
+Big Burro Mountains	border	Silver City Range
+Big Burro Mountains	border	Little Burro Mountains
+Fra Cristobal Range	border	Elephant Butte Reservoir
+Fra Cristobal Range	border	Rio Grande
+Fra Cristobal Range	border	Jornada del Muerto
+Fra Cristobal Range	border	Elephant Butte, New Mexico
+Fra Cristobal Range	border	Truth or Consequences, New Mexico
+Fra Cristobal Range	border	Eagle, New Mexico
+Tonopah Desert	border	Belmont Mountains
+Tonopah Desert	border	Hassayampa Plain
+Tonopah Desert	border	Big Horn Mountains (Arizona)
+Tonopah Desert	border	Interstate 10 in Arizona
+Tonopah Desert	border	Palo Verde Hills
+Tonopah Desert	border	Gila Bend Mountains
+Tonopah Desert	border	Harquahala Plain
+Poachie Range	border	Rawhide Mountains
+Poachie Range	border	Dutch Flat (Arizona)
+Poachie Range	border	Hualapai Mountains
+Poachie Range	border	Black Mountains (Yavapai County)
+Poachie Range	border	Alamo Lake State Park
+Poachie Range	border	Buckskin Mountains
+Poachie Range	border	Butler Valley (Arizona)
+Poachie Range	border	U.S. Route 93 in Arizona
+Sierra Aguilada	border	San Francisco River
+Sierra Aguilada	border	Mogollon Mountains
+Sierra Aguilada	border	Big Lue Mountains
+Sierra Aguilada	border	San Francisco River
+Sierra Aguilada	border	Blue Range Wilderness
+Animas Valley	border	Continental Divide of the Americas
+Animas Valley	border	Peloncillo Mountains (Hidalgo County)
+Animas Valley	border	Guadalupe Mountains (Hidalgo County)
+Guadalupe Mountains (Hidalgo County)	border	Peloncillo Mountains (Hidalgo County)
+Guadalupe Mountains (Hidalgo County)	border	Animas Valley
+Guadalupe Mountains (Hidalgo County)	border	Sonoran Desert
+Guadalupe Mountains (Hidalgo County)	border	Chihuahuan Desert
+Guadalupe Mountains (Hidalgo County)	border	San Bernardino Valley (Arizona)
+Antelope Valley (Lander County)	border	Augusta Mountains
+Antelope Valley (Lander County)	border	Fish Creek Mountains
+Antelope Valley (Lander County)	border	New Pass Range
+Antelope Valley (Lander County)	border	Ravenswood Mountain
+Antelope Valley (Lander County)	border	Shoshone Range
+Goshute Valley	border	Toano Range
+Goshute Valley	border	Cherry Creek Range
+Goshute Valley	border	Antelope Valley (Elko-White Pine Counties)
+Goshute Valley	border	Dolly Varden Mountains
+Goshute Valley	border	Steptoe Valley
+Goshute Valley	border	Pequop Mountains
+Three Lakes Valley (Nevada)	border	Pintwater Range
+Three Lakes Valley (Nevada)	border	East Desert Range
+Three Lakes Valley (Nevada)	border	Desert Range
+Three Lakes Valley (Nevada)	border	Las Vegas Valley (landform)
+Three Lakes Valley (Nevada)	border	Spring Mountains
+Antelope Valley (Eureka County)	border	Monitor Range
+Antelope Valley (Eureka County)	border	Kobeh Valley
+Antelope Valley (Eureka County)	border	Mountain Boy Range
+Antelope Valley (Eureka County)	border	Fish Creek Range
+Antelope Valley (Eureka County)	border	List of mountain ranges named Antelope
+Antelope Valley (Elko-White Pine Counties)	border	Dolly Varden Mountains
+Antelope Valley (Elko-White Pine Counties)	border	Goshute Mountains
+Antelope Valley (Elko-White Pine Counties)	border	Kern Mountains
+Antelope Valley (Elko-White Pine Counties)	border	Spring Valley (Nevada)
+Antelope Valley (Elko-White Pine Counties)	border	Antelope Range (White Pine County, Nevada)
+Pahute Mesa (landform)	border	Gold Flat, California
+Pahute Mesa (landform)	border	Pahute Mesa
+Pahute Mesa (landform)	border	Eleana Range
+Pahute Mesa (landform)	border	Bare Mountain Range (Nevada)
+Pahute Mesa (landform)	border	Bullfrog Hills
+Date Creek Mountains	border	Weaver Mountains
+Date Creek Mountains	border	Vulture Mountains
+Date Creek Mountains	border	Aguila Valley
+Date Creek Mountains	border	McMullen Valley
+Date Creek Mountains	border	Alamo Lake State Park
+Date Creek Mountains	border	Maria fold and thrust belt
+Carson Desert	border	Walker River
+Carson Desert	border	Carson River
+Lake Valley (Nevada)	border	Schell Creek Range
+Lake Valley (Nevada)	border	Fortification Range
+Lake Valley (Nevada)	border	Wilson Creek Range
+Lake Valley (Nevada)	border	Fairview Range (Lincoln County)
+Lake Valley (Nevada)	border	Bristol Range
+Bull Valley Mountains	border	Escalante Valley
+Bull Valley Mountains	border	Harmony Mountains
+Bull Valley Mountains	border	Beaver Dam Mountains Wilderness
+Bull Valley Mountains	border	Clover Mountains
+Indian Springs Pass	border	Pahrump Valley
+Indian Springs Pass	border	Spring Mountains
+Indian Springs Pass	border	Indian Springs Valley
+Indian Springs Pass	border	Pintwater Range
+Indian Springs Pass	border	Three Lakes Valley (Nevada)
+Indian Springs Pass	border	Las Vegas Valley (landform)
+Antelope Valley (Millard County)	border	Burbank Hills
+Antelope Valley (Millard County)	border	Ferguson Desert
+Antelope Valley (Millard County)	border	Tunnel Springs Mountains
+Antelope Valley (Millard County)	border	Desert Range Experimental Station
+Antelope Valley (Millard County)	border	Mountain Home Range
+Highland Range (Clark County)	border	McCullough Range
+Highland Range (Clark County)	border	Eldorado Valley
+Highland Range (Clark County)	border	Piute Wash
+Simpson Park	border	Toiyabe Range
+Simpson Park	border	Simpson Park Mountains
+Tonopah Basin	border	Central Basin and Range ecoregion
+Tonopah Basin	border	Central Basin and Range ecoregion
+Tonopah Basin	border	Mojave Desert
+Tonopah Basin	border	Lahontan Basin
+Las Vegas Valley (landform)	border	Spring Mountains
+Cactus Flat	border	Cactus Range
+Cactus Flat	border	Kawich Range
+Florida Mountains	border	Deming, New Mexico
+Florida Mountains	border	West Potrillo Mountains
+Florida Mountains	border	Cedar Mountain Range
+Cookes Range	border	Black Range
+Cookes Range	border	Good Sight Mountains
+Cookes Range	border	Deming, New Mexico
+New River Mountains	border	Bradshaw Mountains
+New River Mountains	border	Black Hills (Yavapai County)
+New River Mountains	border	Phoenix, Arizona
+New River Mountains	border	Verde River
+Hamlin Valley	border	Mountain Home Range
+Hamlin Valley	border	White Rock Mountains
+Hamlin Valley	border	Limestone Hills
+Hamlin Valley	border	Snake Valley (Great Basin)
+Chino Valley (Arizona)	border	Aubrey Valley
+Chino Valley (Arizona)	border	Coconino Plateau
+Chino Valley (Arizona)	border	Juniper Mountains
+Chino Valley (Arizona)	border	Santa Maria Mountains
+Chino Valley (Arizona)	border	Williamson Valley
+Chino Valley (Arizona)	border	Black Hills (Yavapai County)
+Santa Maria Mountains	border	Mohon Mountains
+Santa Maria Mountains	border	Juniper Mountains
+Santa Maria Mountains	border	Chino Valley (Arizona)
+Santa Maria Mountains	border	Williamson Valley
+Santa Maria Mountains	border	Cornell Mountains
+Aquarius Mountains	border	Hualapai Mountains
+Aquarius Mountains	border	Big Sandy River (Arizona)
+Aquarius Mountains	border	Interstate 40 in Arizona
+Aquarius Mountains	border	Mohon Mountains
+Aquarius Mountains	border	Upper Burro Creek Wilderness
+Aquarius Mountains	border	Upper Burro Creek Wilderness
+Aquarius Mountains	border	McCracken Mountains
+Aquarius Mountains	border	Poachie Range
+Feather Canyon	border	Pulga, California
+Feather Canyon	border	Keddie, California
+Hachita Valley	border	Little Hatchet Mountains
+Hachita Valley	border	Big Hatchet Mountains
+Hachita Valley	border	Apache Hills
+Hachita Valley	border	Chihuahua (state)
+Sidobre	border	Monts de Lacaune
+Caballo Mountains	border	Truth or Consequences, New Mexico
+Caballo Mountains	border	Rio Grande
+Caballo Mountains	border	Caballo Lake
+Caballo Mountains	border	Jornada del Muerto

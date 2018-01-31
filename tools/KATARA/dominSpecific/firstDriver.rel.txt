@@ -1,0 +1,940 @@
+2004 San Marino Grand Prix	firstDriver	Michael Schumacher
+2003 San Marino Grand Prix	firstDriver	Michael Schumacher
+2004 Malaysian Grand Prix	firstDriver	Michael Schumacher
+2004 Australian Grand Prix	firstDriver	Michael Schumacher
+2004 Bahrain Grand Prix	firstDriver	Michael Schumacher
+2003 Australian Grand Prix	firstDriver	David Coulthard
+2003 Malaysian Grand Prix	firstDriver	Kimi Räikkönen
+2003 Spanish Grand Prix	firstDriver	Michael Schumacher
+2003 Monaco Grand Prix	firstDriver	Juan Pablo Montoya
+2003 European Grand Prix	firstDriver	Ralf Schumacher
+2004 Spanish Grand Prix	firstDriver	Michael Schumacher
+2004 Monaco Grand Prix	firstDriver	Jarno Trulli
+2003 United States Grand Prix	firstDriver	Michael Schumacher
+2002 Australian Grand Prix	firstDriver	Michael Schumacher
+2001 Australian Grand Prix	firstDriver	Michael Schumacher
+2000 Australian Grand Prix	firstDriver	Michael Schumacher
+2004 Japanese Grand Prix	firstDriver	Michael Schumacher
+2004 European Grand Prix	firstDriver	Michael Schumacher
+2004 Brazilian Grand Prix	firstDriver	Juan Pablo Montoya
+1950 British Grand Prix	firstDriver	Giuseppe Farina
+1950 Monaco Grand Prix	firstDriver	Juan Manuel Fangio
+1950 Swiss Grand Prix	firstDriver	Giuseppe Farina
+1950 Belgian Grand Prix	firstDriver	Juan Manuel Fangio
+1951 Swiss Grand Prix	firstDriver	Juan Manuel Fangio
+1950 Italian Grand Prix	firstDriver	Giuseppe Farina
+1950 French Grand Prix	firstDriver	Juan Manuel Fangio
+1951 Belgian Grand Prix	firstDriver	Giuseppe Farina
+1951 French Grand Prix	firstDriver	Luigi Fagioli
+1951 British Grand Prix	firstDriver	José Froilán González
+1951 German Grand Prix	firstDriver	Alberto Ascari
+1951 Italian Grand Prix	firstDriver	Alberto Ascari
+1951 Spanish Grand Prix	firstDriver	Juan Manuel Fangio
+1952 Belgian Grand Prix	firstDriver	Alberto Ascari
+1952 British Grand Prix	firstDriver	Alberto Ascari
+1953 Argentine Grand Prix	firstDriver	Alberto Ascari
+1952 Italian Grand Prix	firstDriver	Alberto Ascari
+1953 Dutch Grand Prix	firstDriver	Alberto Ascari
+1953 Belgian Grand Prix	firstDriver	Alberto Ascari
+1953 Swiss Grand Prix	firstDriver	Alberto Ascari
+1953 British Grand Prix	firstDriver	Alberto Ascari
+1953 German Grand Prix	firstDriver	Giuseppe Farina
+1953 French Grand Prix	firstDriver	Mike Hawthorn
+1954 Argentine Grand Prix	firstDriver	Juan Manuel Fangio
+1953 Italian Grand Prix	firstDriver	Juan Manuel Fangio
+1954 Belgian Grand Prix	firstDriver	Juan Manuel Fangio
+1954 French Grand Prix	firstDriver	Juan Manuel Fangio
+1954 British Grand Prix	firstDriver	José Froilán González
+1954 German Grand Prix	firstDriver	Juan Manuel Fangio
+1955 Monaco Grand Prix	firstDriver	Maurice Trintignant
+1956 Monaco Grand Prix	firstDriver	Stirling Moss
+1956 Argentine Grand Prix	firstDriver	Luigi Musso
+1956 Argentine Grand Prix	firstDriver	Juan Manuel Fangio
+1956 Belgian Grand Prix	firstDriver	Peter Collins (racing driver)
+1956 British Grand Prix	firstDriver	Juan Manuel Fangio
+1955 British Grand Prix	firstDriver	Stirling Moss
+1956 Italian Grand Prix	firstDriver	Stirling Moss
+1957 British Grand Prix	firstDriver	Stirling Moss
+1958 Belgian Grand Prix	firstDriver	Tony Brooks
+1959 French Grand Prix	firstDriver	Tony Brooks
+1959 British Grand Prix	firstDriver	Jack Brabham
+1959 United States Grand Prix	firstDriver	Bruce McLaren
+1960 British Grand Prix	firstDriver	Jack Brabham
+1960 Italian Grand Prix	firstDriver	Phil Hill
+1960 United States Grand Prix	firstDriver	Stirling Moss
+1961 Dutch Grand Prix	firstDriver	Wolfgang von Trips
+1961 Monaco Grand Prix	firstDriver	Stirling Moss
+1961 Belgian Grand Prix	firstDriver	Phil Hill
+1961 British Grand Prix	firstDriver	Wolfgang von Trips
+1961 French Grand Prix	firstDriver	Giancarlo Baghetti
+1961 Italian Grand Prix	firstDriver	Phil Hill
+1962 Dutch Grand Prix	firstDriver	Graham Hill
+1961 United States Grand Prix	firstDriver	Innes Ireland
+1962 Monaco Grand Prix	firstDriver	Bruce McLaren
+1962 French Grand Prix	firstDriver	Dan Gurney
+1961 German Grand Prix	firstDriver	Stirling Moss
+1962 British Grand Prix	firstDriver	Jim Clark
+1962 German Grand Prix	firstDriver	Graham Hill
+1962 United States Grand Prix	firstDriver	Jim Clark
+1962 South African Grand Prix	firstDriver	Graham Hill
+1962 Italian Grand Prix	firstDriver	Graham Hill
+1962 Belgian Grand Prix	firstDriver	Jim Clark
+1963 Monaco Grand Prix	firstDriver	Graham Hill
+1963 Dutch Grand Prix	firstDriver	Jim Clark
+1963 French Grand Prix	firstDriver	Jim Clark
+1963 British Grand Prix	firstDriver	Jim Clark
+1963 Belgian Grand Prix	firstDriver	Jim Clark
+1963 German Grand Prix	firstDriver	John Surtees
+1963 United States Grand Prix	firstDriver	Graham Hill
+1963 Mexican Grand Prix	firstDriver	Jim Clark
+1963 Italian Grand Prix	firstDriver	Jim Clark
+1964 French Grand Prix	firstDriver	Dan Gurney
+1964 British Grand Prix	firstDriver	Jim Clark
+1964 United States Grand Prix	firstDriver	Graham Hill
+1963 South African Grand Prix	firstDriver	Jim Clark
+1965 Belgian Grand Prix	firstDriver	Jim Clark
+1965 British Grand Prix	firstDriver	Jim Clark
+1965 United States Grand Prix	firstDriver	Graham Hill
+1966 French Grand Prix	firstDriver	Jack Brabham
+1966 United States Grand Prix	firstDriver	Jim Clark
+1967 South African Grand Prix	firstDriver	Pedro Rodríguez (racing driver)
+1967 French Grand Prix	firstDriver	Jack Brabham
+1967 German Grand Prix	firstDriver	Denny Hulme
+1967 Italian Grand Prix	firstDriver	John Surtees
+1967 United States Grand Prix	firstDriver	Jim Clark
+1968 Spanish Grand Prix	firstDriver	Graham Hill
+1968 Monaco Grand Prix	firstDriver	Graham Hill
+1968 Belgian Grand Prix	firstDriver	Bruce McLaren
+1968 South African Grand Prix	firstDriver	Jim Clark
+1968 French Grand Prix	firstDriver	Jacky Ickx
+1968 Dutch Grand Prix	firstDriver	Jackie Stewart
+1968 British Grand Prix	firstDriver	Jo Siffert
+1968 German Grand Prix	firstDriver	Jackie Stewart
+1968 Italian Grand Prix	firstDriver	Denny Hulme
+1968 United States Grand Prix	firstDriver	Jackie Stewart
+1968 Canadian Grand Prix	firstDriver	Denny Hulme
+1969 South African Grand Prix	firstDriver	Jackie Stewart
+1968 Mexican Grand Prix	firstDriver	Graham Hill
+1969 Spanish Grand Prix	firstDriver	Jackie Stewart
+1969 Monaco Grand Prix	firstDriver	Graham Hill
+1969 Dutch Grand Prix	firstDriver	Jackie Stewart
+1969 French Grand Prix	firstDriver	Jackie Stewart
+1969 British Grand Prix	firstDriver	Jackie Stewart
+1969 Italian Grand Prix	firstDriver	Jackie Stewart
+1969 United States Grand Prix	firstDriver	Jochen Rindt
+1969 Mexican Grand Prix	firstDriver	Denny Hulme
+1970 South African Grand Prix	firstDriver	Jack Brabham
+1970 Spanish Grand Prix	firstDriver	Jackie Stewart
+1970 Monaco Grand Prix	firstDriver	Jochen Rindt
+1970 United States Grand Prix	firstDriver	Emerson Fittipaldi
+1971 Spanish Grand Prix	firstDriver	Jackie Stewart
+1971 South African Grand Prix	firstDriver	Mario Andretti
+1971 United States Grand Prix	firstDriver	François Cevert
+1972 Austrian Grand Prix	firstDriver	Emerson Fittipaldi
+1972 British Grand Prix	firstDriver	Emerson Fittipaldi
+1972 United States Grand Prix	firstDriver	Jackie Stewart
+1973 Brazilian Grand Prix	firstDriver	Emerson Fittipaldi
+1973 Belgian Grand Prix	firstDriver	Jackie Stewart
+1973 British Grand Prix	firstDriver	Peter Revson
+1973 Dutch Grand Prix	firstDriver	Jackie Stewart
+1973 German Grand Prix	firstDriver	Jackie Stewart
+1973 United States Grand Prix	firstDriver	Ronnie Peterson
+1974 Argentine Grand Prix	firstDriver	Denny Hulme
+1974 German Grand Prix	firstDriver	Clay Regazzoni
+1974 United States Grand Prix	firstDriver	Carlos Reutemann
+1975 Spanish Grand Prix	firstDriver	Jochen Mass
+1975 Monaco Grand Prix	firstDriver	Niki Lauda
+1975 Austrian Grand Prix	firstDriver	Vittorio Brambilla
+1975 United States Grand Prix	firstDriver	Niki Lauda
+1976 Monaco Grand Prix	firstDriver	Niki Lauda
+1976 German Grand Prix	firstDriver	James Hunt
+1976 Dutch Grand Prix	firstDriver	James Hunt
+1976 Japanese Grand Prix	firstDriver	Mario Andretti
+1977 Argentine Grand Prix	firstDriver	Jody Scheckter
+1976 Canadian Grand Prix	firstDriver	James Hunt
+1977 South African Grand Prix	firstDriver	Niki Lauda
+1977 Brazilian Grand Prix	firstDriver	Carlos Reutemann
+1977 Spanish Grand Prix	firstDriver	Mario Andretti
+1977 Monaco Grand Prix	firstDriver	Jody Scheckter
+1977 Belgian Grand Prix	firstDriver	Gunnar Nilsson
+1977 French Grand Prix	firstDriver	Mario Andretti
+1977 Swedish Grand Prix	firstDriver	Jacques Laffite
+1977 British Grand Prix	firstDriver	James Hunt
+1977 German Grand Prix	firstDriver	Niki Lauda
+1977 Austrian Grand Prix	firstDriver	Alan Jones (racing driver)
+1977 Canadian Grand Prix	firstDriver	Jody Scheckter
+1977 Italian Grand Prix	firstDriver	Mario Andretti
+1977 Dutch Grand Prix	firstDriver	Niki Lauda
+1977 Japanese Grand Prix	firstDriver	James Hunt
+1978 Argentine Grand Prix	firstDriver	Mario Andretti
+1978 Brazilian Grand Prix	firstDriver	Carlos Reutemann
+1978 South African Grand Prix	firstDriver	Ronnie Peterson
+1978 Monaco Grand Prix	firstDriver	Patrick Depailler
+1978 Spanish Grand Prix	firstDriver	Mario Andretti
+1978 Belgian Grand Prix	firstDriver	Mario Andretti
+1978 French Grand Prix	firstDriver	Mario Andretti
+1978 British Grand Prix	firstDriver	Carlos Reutemann
+1978 German Grand Prix	firstDriver	Mario Andretti
+1978 Austrian Grand Prix	firstDriver	Ronnie Peterson
+1978 Italian Grand Prix	firstDriver	Niki Lauda
+1978 Swedish Grand Prix	firstDriver	Niki Lauda
+1978 Canadian Grand Prix	firstDriver	Gilles Villeneuve
+1979 Argentine Grand Prix	firstDriver	Jacques Laffite
+1978 Dutch Grand Prix	firstDriver	Mario Andretti
+1979 South African Grand Prix	firstDriver	Gilles Villeneuve
+1979 Spanish Grand Prix	firstDriver	Patrick Depailler
+1979 Brazilian Grand Prix	firstDriver	Jacques Laffite
+1979 Belgian Grand Prix	firstDriver	Jody Scheckter
+1979 Monaco Grand Prix	firstDriver	Jody Scheckter
+1979 French Grand Prix	firstDriver	Jean-Pierre Jabouille
+1979 British Grand Prix	firstDriver	Clay Regazzoni
+1979 German Grand Prix	firstDriver	Alan Jones (racing driver)
+1979 Dutch Grand Prix	firstDriver	Alan Jones (racing driver)
+1979 Canadian Grand Prix	firstDriver	Alan Jones (racing driver)
+1979 Italian Grand Prix	firstDriver	Jody Scheckter
+1979 Austrian Grand Prix	firstDriver	Alan Jones (racing driver)
+1980 Argentine Grand Prix	firstDriver	Alan Jones (racing driver)
+1980 Brazilian Grand Prix	firstDriver	René Arnoux
+1980 South African Grand Prix	firstDriver	René Arnoux
+1980 Belgian Grand Prix	firstDriver	Didier Pironi
+1980 Monaco Grand Prix	firstDriver	Carlos Reutemann
+1980 British Grand Prix	firstDriver	Alan Jones (racing driver)
+1980 French Grand Prix	firstDriver	Alan Jones (racing driver)
+1980 German Grand Prix	firstDriver	Jacques Laffite
+1980 Austrian Grand Prix	firstDriver	Jean-Pierre Jabouille
+1980 Dutch Grand Prix	firstDriver	Nelson Piquet
+1980 Italian Grand Prix	firstDriver	Nelson Piquet
+1980 Canadian Grand Prix	firstDriver	Alan Jones (racing driver)
+1981 Brazilian Grand Prix	firstDriver	Carlos Reutemann
+1981 Argentine Grand Prix	firstDriver	Nelson Piquet
+1981 San Marino Grand Prix	firstDriver	Nelson Piquet
+1981 Monaco Grand Prix	firstDriver	Gilles Villeneuve
+1981 Belgian Grand Prix	firstDriver	Carlos Reutemann
+1981 Spanish Grand Prix	firstDriver	Gilles Villeneuve
+1981 French Grand Prix	firstDriver	Alain Prost
+1981 British Grand Prix	firstDriver	John Watson (racing driver)
+1981 Austrian Grand Prix	firstDriver	Jacques Laffite
+1981 German Grand Prix	firstDriver	Nelson Piquet
+1981 Dutch Grand Prix	firstDriver	Alain Prost
+1981 Canadian Grand Prix	firstDriver	Jacques Laffite
+1981 Caesars Palace Grand Prix	firstDriver	Alan Jones (racing driver)
+1982 South African Grand Prix	firstDriver	Alain Prost
+1981 Italian Grand Prix	firstDriver	Alain Prost
+1982 San Marino Grand Prix	firstDriver	Didier Pironi
+1982 Brazilian Grand Prix	firstDriver	Alain Prost
+1982 Belgian Grand Prix	firstDriver	John Watson (racing driver)
+1982 Dutch Grand Prix	firstDriver	Didier Pironi
+1982 Canadian Grand Prix	firstDriver	Nelson Piquet
+1982 British Grand Prix	firstDriver	Niki Lauda
+1982 Monaco Grand Prix	firstDriver	Riccardo Patrese
+1982 French Grand Prix	firstDriver	René Arnoux
+1982 German Grand Prix	firstDriver	Patrick Tambay
+1982 Austrian Grand Prix	firstDriver	Elio de Angelis
+1982 Swiss Grand Prix	firstDriver	Keke Rosberg
+1982 Italian Grand Prix	firstDriver	René Arnoux
+1982 Caesars Palace Grand Prix	firstDriver	Michele Alboreto
+1983 Brazilian Grand Prix	firstDriver	Nelson Piquet
+1983 San Marino Grand Prix	firstDriver	Patrick Tambay
+1983 Belgian Grand Prix	firstDriver	Alain Prost
+1983 Monaco Grand Prix	firstDriver	Keke Rosberg
+1983 Canadian Grand Prix	firstDriver	René Arnoux
+1983 French Grand Prix	firstDriver	Alain Prost
+1983 German Grand Prix	firstDriver	René Arnoux
+1983 Dutch Grand Prix	firstDriver	René Arnoux
+1983 Austrian Grand Prix	firstDriver	Alain Prost
+1983 British Grand Prix	firstDriver	Alain Prost
+1983 Italian Grand Prix	firstDriver	Nelson Piquet
+1983 European Grand Prix	firstDriver	Nelson Piquet
+1983 South African Grand Prix	firstDriver	Riccardo Patrese
+1984 Brazilian Grand Prix	firstDriver	Alain Prost
+1984 South African Grand Prix	firstDriver	Niki Lauda
+1984 Belgian Grand Prix	firstDriver	Michele Alboreto
+1984 French Grand Prix	firstDriver	Niki Lauda
+1984 San Marino Grand Prix	firstDriver	Alain Prost
+1984 Monaco Grand Prix	firstDriver	Alain Prost
+1984 Canadian Grand Prix	firstDriver	Nelson Piquet
+1984 British Grand Prix	firstDriver	Niki Lauda
+1984 German Grand Prix	firstDriver	Alain Prost
+1984 Dallas Grand Prix	firstDriver	Keke Rosberg
+1984 Austrian Grand Prix	firstDriver	Niki Lauda
+1984 Italian Grand Prix	firstDriver	Niki Lauda
+1984 Dutch Grand Prix	firstDriver	Alain Prost
+1984 Portuguese Grand Prix	firstDriver	Alain Prost
+1984 European Grand Prix	firstDriver	Alain Prost
+1985 Brazilian Grand Prix	firstDriver	Alain Prost
+1985 Portuguese Grand Prix	firstDriver	Ayrton Senna
+1985 San Marino Grand Prix	firstDriver	Elio de Angelis
+1985 Canadian Grand Prix	firstDriver	Michele Alboreto
+1985 Monaco Grand Prix	firstDriver	Alain Prost
+1985 British Grand Prix	firstDriver	Alain Prost
+1985 French Grand Prix	firstDriver	Nelson Piquet
+1985 German Grand Prix	firstDriver	Michele Alboreto
+1985 Austrian Grand Prix	firstDriver	Alain Prost
+1985 Italian Grand Prix	firstDriver	Alain Prost
+1985 Dutch Grand Prix	firstDriver	Niki Lauda
+1985 Belgian Grand Prix	firstDriver	Ayrton Senna
+1985 European Grand Prix	firstDriver	Nigel Mansell
+1985 South African Grand Prix	firstDriver	Nigel Mansell
+1985 Australian Grand Prix	firstDriver	Keke Rosberg
+1986 Brazilian Grand Prix	firstDriver	Nelson Piquet
+1986 Spanish Grand Prix	firstDriver	Ayrton Senna
+1986 San Marino Grand Prix	firstDriver	Alain Prost
+1986 Monaco Grand Prix	firstDriver	Alain Prost
+1986 Belgian Grand Prix	firstDriver	Nigel Mansell
+1986 French Grand Prix	firstDriver	Nigel Mansell
+1986 British Grand Prix	firstDriver	Nigel Mansell
+1986 German Grand Prix	firstDriver	Nelson Piquet
+1986 Canadian Grand Prix	firstDriver	Nigel Mansell
+1986 Hungarian Grand Prix	firstDriver	Nelson Piquet
+1986 Italian Grand Prix	firstDriver	Nelson Piquet
+1986 Portuguese Grand Prix	firstDriver	Nigel Mansell
+1986 Austrian Grand Prix	firstDriver	Alain Prost
+1986 Mexican Grand Prix	firstDriver	Gerhard Berger
+1987 Brazilian Grand Prix	firstDriver	Alain Prost
+1986 Australian Grand Prix	firstDriver	Alain Prost
+1987 Belgian Grand Prix	firstDriver	Alain Prost
+1987 Monaco Grand Prix	firstDriver	Ayrton Senna
+1987 San Marino Grand Prix	firstDriver	Nigel Mansell
+1987 French Grand Prix	firstDriver	Nigel Mansell
+1987 German Grand Prix	firstDriver	Nelson Piquet
+1987 Austrian Grand Prix	firstDriver	Nigel Mansell
+1987 Hungarian Grand Prix	firstDriver	Nelson Piquet
+1987 British Grand Prix	firstDriver	Nigel Mansell
+1987 Italian Grand Prix	firstDriver	Nelson Piquet
+1987 Portuguese Grand Prix	firstDriver	Alain Prost
+1987 Mexican Grand Prix	firstDriver	Nigel Mansell
+1987 Japanese Grand Prix	firstDriver	Gerhard Berger
+1987 Spanish Grand Prix	firstDriver	Nigel Mansell
+1987 Australian Grand Prix	firstDriver	Gerhard Berger
+1988 Brazilian Grand Prix	firstDriver	Alain Prost
+1988 San Marino Grand Prix	firstDriver	Ayrton Senna
+1988 Monaco Grand Prix	firstDriver	Alain Prost
+1988 Mexican Grand Prix	firstDriver	Alain Prost
+1988 Canadian Grand Prix	firstDriver	Ayrton Senna
+1988 French Grand Prix	firstDriver	Alain Prost
+1988 British Grand Prix	firstDriver	Ayrton Senna
+1988 German Grand Prix	firstDriver	Ayrton Senna
+1988 Hungarian Grand Prix	firstDriver	Ayrton Senna
+1988 Belgian Grand Prix	firstDriver	Ayrton Senna
+1988 Italian Grand Prix	firstDriver	Gerhard Berger
+1988 Portuguese Grand Prix	firstDriver	Alain Prost
+1988 Spanish Grand Prix	firstDriver	Alain Prost
+1988 Australian Grand Prix	firstDriver	Alain Prost
+1988 Japanese Grand Prix	firstDriver	Ayrton Senna
+1989 Brazilian Grand Prix	firstDriver	Nigel Mansell
+1989 San Marino Grand Prix	firstDriver	Ayrton Senna
+1989 Mexican Grand Prix	firstDriver	Ayrton Senna
+1989 Monaco Grand Prix	firstDriver	Ayrton Senna
+1989 United States Grand Prix	firstDriver	Alain Prost
+1989 Canadian Grand Prix	firstDriver	Thierry Boutsen
+1989 French Grand Prix	firstDriver	Alain Prost
+1989 British Grand Prix	firstDriver	Alain Prost
+1989 German Grand Prix	firstDriver	Ayrton Senna
+1989 Italian Grand Prix	firstDriver	Alain Prost
+1989 Belgian Grand Prix	firstDriver	Ayrton Senna
+1989 Hungarian Grand Prix	firstDriver	Nigel Mansell
+1989 Spanish Grand Prix	firstDriver	Ayrton Senna
+1989 Portuguese Grand Prix	firstDriver	Gerhard Berger
+1989 Japanese Grand Prix	firstDriver	Alessandro Nannini
+1989 Australian Grand Prix	firstDriver	Thierry Boutsen
+1990 United States Grand Prix	firstDriver	Ayrton Senna
+1990 Brazilian Grand Prix	firstDriver	Alain Prost
+1990 Monaco Grand Prix	firstDriver	Ayrton Senna
+1990 San Marino Grand Prix	firstDriver	Riccardo Patrese
+1990 Canadian Grand Prix	firstDriver	Ayrton Senna
+1990 Mexican Grand Prix	firstDriver	Alain Prost
+1990 French Grand Prix	firstDriver	Alain Prost
+1990 British Grand Prix	firstDriver	Alain Prost
+1990 German Grand Prix	firstDriver	Ayrton Senna
+1990 Hungarian Grand Prix	firstDriver	Thierry Boutsen
+1990 Belgian Grand Prix	firstDriver	Ayrton Senna
+1990 Portuguese Grand Prix	firstDriver	Nigel Mansell
+1990 Italian Grand Prix	firstDriver	Ayrton Senna
+1990 Japanese Grand Prix	firstDriver	Nelson Piquet
+1990 Spanish Grand Prix	firstDriver	Alain Prost
+1991 United States Grand Prix	firstDriver	Ayrton Senna
+1990 Australian Grand Prix	firstDriver	Nelson Piquet
+1991 Monaco Grand Prix	firstDriver	Ayrton Senna
+1991 Canadian Grand Prix	firstDriver	Nelson Piquet
+1991 Brazilian Grand Prix	firstDriver	Ayrton Senna
+1991 Mexican Grand Prix	firstDriver	Riccardo Patrese
+1991 San Marino Grand Prix	firstDriver	Ayrton Senna
+1991 British Grand Prix	firstDriver	Nigel Mansell
+1991 Hungarian Grand Prix	firstDriver	Ayrton Senna
+1991 Belgian Grand Prix	firstDriver	Ayrton Senna
+1991 German Grand Prix	firstDriver	Nigel Mansell
+1991 Portuguese Grand Prix	firstDriver	Riccardo Patrese
+1991 Italian Grand Prix	firstDriver	Nigel Mansell
+1991 Spanish Grand Prix	firstDriver	Nigel Mansell
+1991 Japanese Grand Prix	firstDriver	Gerhard Berger
+1991 Australian Grand Prix	firstDriver	Ayrton Senna
+1992 South African Grand Prix	firstDriver	Nigel Mansell
+1992 Mexican Grand Prix	firstDriver	Nigel Mansell
+1992 Brazilian Grand Prix	firstDriver	Nigel Mansell
+1992 Spanish Grand Prix	firstDriver	Nigel Mansell
+1992 San Marino Grand Prix	firstDriver	Nigel Mansell
+1992 Canadian Grand Prix	firstDriver	Gerhard Berger
+1992 French Grand Prix	firstDriver	Nigel Mansell
+1992 Monaco Grand Prix	firstDriver	Ayrton Senna
+1992 British Grand Prix	firstDriver	Nigel Mansell
+1992 Belgian Grand Prix	firstDriver	Michael Schumacher
+1992 German Grand Prix	firstDriver	Nigel Mansell
+1992 Italian Grand Prix	firstDriver	Ayrton Senna
+1992 Hungarian Grand Prix	firstDriver	Ayrton Senna
+1992 Portuguese Grand Prix	firstDriver	Nigel Mansell
+1992 Japanese Grand Prix	firstDriver	Riccardo Patrese
+1992 Australian Grand Prix	firstDriver	Gerhard Berger
+1993 South African Grand Prix	firstDriver	Alain Prost
+1993 Brazilian Grand Prix	firstDriver	Ayrton Senna
+1993 European Grand Prix	firstDriver	Ayrton Senna
+1993 Monaco Grand Prix	firstDriver	Ayrton Senna
+1993 Spanish Grand Prix	firstDriver	Alain Prost
+1993 San Marino Grand Prix	firstDriver	Alain Prost
+1993 Belgian Grand Prix	firstDriver	Damon Hill
+1993 Portuguese Grand Prix	firstDriver	Michael Schumacher
+1993 Italian Grand Prix	firstDriver	Damon Hill
+1993 Japanese Grand Prix	firstDriver	Ayrton Senna
+1993 Australian Grand Prix	firstDriver	Ayrton Senna
+1994 Brazilian Grand Prix	firstDriver	Michael Schumacher
+1994 Pacific Grand Prix	firstDriver	Michael Schumacher
+1994 Monaco Grand Prix	firstDriver	Michael Schumacher
+1994 Canadian Grand Prix	firstDriver	Michael Schumacher
+1994 Spanish Grand Prix	firstDriver	Damon Hill
+1994 British Grand Prix	firstDriver	Damon Hill
+1994 German Grand Prix	firstDriver	Gerhard Berger
+1994 Hungarian Grand Prix	firstDriver	Michael Schumacher
+1994 Belgian Grand Prix	firstDriver	Damon Hill
+1994 Italian Grand Prix	firstDriver	Damon Hill
+1994 Portuguese Grand Prix	firstDriver	Damon Hill
+1994 European Grand Prix	firstDriver	Michael Schumacher
+1994 Japanese Grand Prix	firstDriver	Damon Hill
+1994 Australian Grand Prix	firstDriver	Nigel Mansell
+1995 Brazilian Grand Prix	firstDriver	Michael Schumacher
+1995 Argentine Grand Prix	firstDriver	Damon Hill
+1995 San Marino Grand Prix	firstDriver	Damon Hill
+1995 Spanish Grand Prix	firstDriver	Michael Schumacher
+1995 French Grand Prix	firstDriver	Michael Schumacher
+1995 Canadian Grand Prix	firstDriver	Jean Alesi
+1995 Monaco Grand Prix	firstDriver	Michael Schumacher
+1995 Hungarian Grand Prix	firstDriver	Damon Hill
+1995 German Grand Prix	firstDriver	Michael Schumacher
+1995 British Grand Prix	firstDriver	Johnny Herbert
+1995 Belgian Grand Prix	firstDriver	Michael Schumacher
+1995 Portuguese Grand Prix	firstDriver	David Coulthard
+1995 Italian Grand Prix	firstDriver	Johnny Herbert
+1995 Pacific Grand Prix	firstDriver	Michael Schumacher
+1995 European Grand Prix	firstDriver	Michael Schumacher
+1995 Japanese Grand Prix	firstDriver	Michael Schumacher
+1996 Australian Grand Prix	firstDriver	Damon Hill
+1995 Australian Grand Prix	firstDriver	Damon Hill
+1996 Brazilian Grand Prix	firstDriver	Damon Hill
+1996 Argentine Grand Prix	firstDriver	Damon Hill
+1996 European Grand Prix	firstDriver	Jacques Villeneuve
+1996 San Marino Grand Prix	firstDriver	Damon Hill
+1996 Spanish Grand Prix	firstDriver	Michael Schumacher
+1996 Monaco Grand Prix	firstDriver	Olivier Panis
+1996 Japanese Grand Prix	firstDriver	Damon Hill
+1997 Australian Grand Prix	firstDriver	David Coulthard
+1997 Argentine Grand Prix	firstDriver	Jacques Villeneuve
+1997 Brazilian Grand Prix	firstDriver	Jacques Villeneuve
+1997 San Marino Grand Prix	firstDriver	Heinz-Harald Frentzen
+1997 Monaco Grand Prix	firstDriver	Michael Schumacher
+1997 Canadian Grand Prix	firstDriver	Michael Schumacher
+1997 Spanish Grand Prix	firstDriver	Jacques Villeneuve
+1997 French Grand Prix	firstDriver	Michael Schumacher
+1997 British Grand Prix	firstDriver	Jacques Villeneuve
+1997 Belgian Grand Prix	firstDriver	Michael Schumacher
+1997 Hungarian Grand Prix	firstDriver	Jacques Villeneuve
+1997 German Grand Prix	firstDriver	Gerhard Berger
+1997 Italian Grand Prix	firstDriver	David Coulthard
+1997 Luxembourg Grand Prix	firstDriver	Jacques Villeneuve
+1997 Austrian Grand Prix	firstDriver	Jacques Villeneuve
+1997 Japanese Grand Prix	firstDriver	Michael Schumacher
+1998 Brazilian Grand Prix	firstDriver	Mika Häkkinen
+1998 Australian Grand Prix	firstDriver	Mika Häkkinen
+1997 European Grand Prix	firstDriver	Mika Häkkinen
+1998 Argentine Grand Prix	firstDriver	Michael Schumacher
+1998 San Marino Grand Prix	firstDriver	David Coulthard
+1998 Spanish Grand Prix	firstDriver	Mika Häkkinen
+1998 Monaco Grand Prix	firstDriver	Mika Häkkinen
+1998 Canadian Grand Prix	firstDriver	Michael Schumacher
+1998 French Grand Prix	firstDriver	Michael Schumacher
+1998 British Grand Prix	firstDriver	Michael Schumacher
+1998 Austrian Grand Prix	firstDriver	Mika Häkkinen
+1998 Hungarian Grand Prix	firstDriver	Michael Schumacher
+1998 German Grand Prix	firstDriver	Mika Häkkinen
+1998 Italian Grand Prix	firstDriver	Michael Schumacher
+1998 Luxembourg Grand Prix	firstDriver	Mika Häkkinen
+1998 Belgian Grand Prix	firstDriver	Damon Hill
+1998 Japanese Grand Prix	firstDriver	Mika Häkkinen
+1999 Australian Grand Prix	firstDriver	Eddie Irvine
+1999 Brazilian Grand Prix	firstDriver	Mika Häkkinen
+1999 San Marino Grand Prix	firstDriver	Michael Schumacher
+1999 Monaco Grand Prix	firstDriver	Michael Schumacher
+1999 Canadian Grand Prix	firstDriver	Mika Häkkinen
+1999 Spanish Grand Prix	firstDriver	Mika Häkkinen
+1999 French Grand Prix	firstDriver	Heinz-Harald Frentzen
+1999 British Grand Prix	firstDriver	David Coulthard
+1999 German Grand Prix	firstDriver	Eddie Irvine
+1999 Austrian Grand Prix	firstDriver	Eddie Irvine
+1999 Belgian Grand Prix	firstDriver	David Coulthard
+1999 Italian Grand Prix	firstDriver	Heinz-Harald Frentzen
+1999 Hungarian Grand Prix	firstDriver	Mika Häkkinen
+1999 European Grand Prix	firstDriver	Johnny Herbert
+1999 Malaysian Grand Prix	firstDriver	Eddie Irvine
+2000 Brazilian Grand Prix	firstDriver	Michael Schumacher
+2000 San Marino Grand Prix	firstDriver	Michael Schumacher
+2000 British Grand Prix	firstDriver	David Coulthard
+1999 Japanese Grand Prix	firstDriver	Mika Häkkinen
+2000 Spanish Grand Prix	firstDriver	Mika Häkkinen
+2000 Monaco Grand Prix	firstDriver	David Coulthard
+2000 Canadian Grand Prix	firstDriver	Michael Schumacher
+2000 European Grand Prix	firstDriver	Michael Schumacher
+2000 French Grand Prix	firstDriver	David Coulthard
+2000 Austrian Grand Prix	firstDriver	Mika Häkkinen
+2000 German Grand Prix	firstDriver	Rubens Barrichello
+2000 Hungarian Grand Prix	firstDriver	Mika Häkkinen
+2000 Belgian Grand Prix	firstDriver	Mika Häkkinen
+2000 United States Grand Prix	firstDriver	Michael Schumacher
+2000 Malaysian Grand Prix	firstDriver	Michael Schumacher
+2001 Malaysian Grand Prix	firstDriver	Michael Schumacher
+2001 Spanish Grand Prix	firstDriver	Michael Schumacher
+2001 San Marino Grand Prix	firstDriver	Ralf Schumacher
+2001 Austrian Grand Prix	firstDriver	David Coulthard
+2001 Brazilian Grand Prix	firstDriver	David Coulthard
+2001 Monaco Grand Prix	firstDriver	Michael Schumacher
+2001 Canadian Grand Prix	firstDriver	Ralf Schumacher
+2001 European Grand Prix	firstDriver	Michael Schumacher
+2001 German Grand Prix	firstDriver	Ralf Schumacher
+2001 Belgian Grand Prix	firstDriver	Michael Schumacher
+2001 British Grand Prix	firstDriver	Mika Häkkinen
+2001 Japanese Grand Prix	firstDriver	Michael Schumacher
+2001 Italian Grand Prix	firstDriver	Juan Pablo Montoya
+2001 United States Grand Prix	firstDriver	Mika Häkkinen
+2002 Brazilian Grand Prix	firstDriver	Michael Schumacher
+2002 Malaysian Grand Prix	firstDriver	Ralf Schumacher
+2002 San Marino Grand Prix	firstDriver	Michael Schumacher
+2002 Spanish Grand Prix	firstDriver	Michael Schumacher
+2002 Canadian Grand Prix	firstDriver	Michael Schumacher
+2002 Monaco Grand Prix	firstDriver	David Coulthard
+2002 Austrian Grand Prix	firstDriver	Michael Schumacher
+2002 European Grand Prix	firstDriver	Rubens Barrichello
+2002 British Grand Prix	firstDriver	Michael Schumacher
+2002 German Grand Prix	firstDriver	Michael Schumacher
+2002 French Grand Prix	firstDriver	Michael Schumacher
+2002 Hungarian Grand Prix	firstDriver	Rubens Barrichello
+2002 Belgian Grand Prix	firstDriver	Michael Schumacher
+2002 Italian Grand Prix	firstDriver	Rubens Barrichello
+2002 United States Grand Prix	firstDriver	Rubens Barrichello
+2002 Japanese Grand Prix	firstDriver	Michael Schumacher
+2003 Brazilian Grand Prix	firstDriver	Giancarlo Fisichella
+2003 Austrian Grand Prix	firstDriver	Michael Schumacher
+2003 French Grand Prix	firstDriver	Ralf Schumacher
+2003 Canadian Grand Prix	firstDriver	Michael Schumacher
+2003 British Grand Prix	firstDriver	Rubens Barrichello
+2003 German Grand Prix	firstDriver	Juan Pablo Montoya
+2003 Hungarian Grand Prix	firstDriver	Fernando Alonso
+2003 Japanese Grand Prix	firstDriver	Rubens Barrichello
+2004 French Grand Prix	firstDriver	Michael Schumacher
+2004 Canadian Grand Prix	firstDriver	Michael Schumacher
+2004 United States Grand Prix	firstDriver	Michael Schumacher
+2004 British Grand Prix	firstDriver	Michael Schumacher
+2004 German Grand Prix	firstDriver	Michael Schumacher
+2004 Belgian Grand Prix	firstDriver	Kimi Räikkönen
+2004 Italian Grand Prix	firstDriver	Rubens Barrichello
+1976 United States Grand Prix West	firstDriver	Clay Regazzoni
+1978 United States Grand Prix West	firstDriver	Carlos Reutemann
+1977 United States Grand Prix West	firstDriver	Mario Andretti
+1979 United States Grand Prix West	firstDriver	Gilles Villeneuve
+1980 United States Grand Prix West	firstDriver	Nelson Piquet
+1981 United States Grand Prix West	firstDriver	Alan Jones (racing driver)
+1982 Detroit Grand Prix	firstDriver	John Watson (racing driver)
+1982 United States Grand Prix West	firstDriver	Niki Lauda
+1983 Detroit Grand Prix	firstDriver	Michele Alboreto
+1983 United States Grand Prix West	firstDriver	John Watson (racing driver)
+1984 Detroit Grand Prix	firstDriver	Nelson Piquet
+1978 United States Grand Prix	firstDriver	Carlos Reutemann
+1977 United States Grand Prix	firstDriver	James Hunt
+1979 United States Grand Prix	firstDriver	Gilles Villeneuve
+1980 United States Grand Prix	firstDriver	Alan Jones (racing driver)
+1958 Moroccan Grand Prix	firstDriver	Stirling Moss
+1926 German Grand Prix	firstDriver	Rudolf Caracciola
+2005 Australian Grand Prix	firstDriver	Giancarlo Fisichella
+2005 Malaysian Grand Prix	firstDriver	Fernando Alonso
+2005 Bahrain Grand Prix	firstDriver	Fernando Alonso
+2005 San Marino Grand Prix	firstDriver	Fernando Alonso
+2005 Spanish Grand Prix	firstDriver	Kimi Räikkönen
+2005 Monaco Grand Prix	firstDriver	Kimi Räikkönen
+2005 European Grand Prix	firstDriver	Fernando Alonso
+2005 Canadian Grand Prix	firstDriver	Kimi Räikkönen
+2005 United States Grand Prix	firstDriver	Michael Schumacher
+2005 French Grand Prix	firstDriver	Fernando Alonso
+2005 British Grand Prix	firstDriver	Juan Pablo Montoya
+2005 German Grand Prix	firstDriver	Fernando Alonso
+1936 Hungarian Grand Prix	firstDriver	Tazio Nuvolari
+2005 Hungarian Grand Prix	firstDriver	Kimi Räikkönen
+2005 Turkish Grand Prix	firstDriver	Kimi Räikkönen
+2005 Italian Grand Prix	firstDriver	Juan Pablo Montoya
+2005 Belgian Grand Prix	firstDriver	Kimi Räikkönen
+2005 Brazilian Grand Prix	firstDriver	Juan Pablo Montoya
+1937 Donington Grand Prix	firstDriver	Bernd Rosemeyer
+1937 Masaryk Grand Prix	firstDriver	Rudolf Caracciola
+1937 Italian Grand Prix	firstDriver	Rudolf Caracciola
+1937 Swiss Grand Prix	firstDriver	Rudolf Caracciola
+2005 Japanese Grand Prix	firstDriver	Kimi Räikkönen
+1935 German Grand Prix	firstDriver	Tazio Nuvolari
+2005 Chinese Grand Prix	firstDriver	Fernando Alonso
+1994 San Marino Grand Prix	firstDriver	Michael Schumacher
+2006 Bahrain Grand Prix	firstDriver	Fernando Alonso
+2006 Malaysian Grand Prix	firstDriver	Giancarlo Fisichella
+2006 Australian Grand Prix	firstDriver	Fernando Alonso
+2006 San Marino Grand Prix	firstDriver	Michael Schumacher
+2006 European Grand Prix	firstDriver	Michael Schumacher
+2006 Spanish Grand Prix	firstDriver	Fernando Alonso
+2006 Monaco Grand Prix	firstDriver	Fernando Alonso
+2006 British Grand Prix	firstDriver	Fernando Alonso
+1957 Moroccan Grand Prix	firstDriver	Jean Behra
+2006 Canadian Grand Prix	firstDriver	Fernando Alonso
+2006 United States Grand Prix	firstDriver	Michael Schumacher
+2006 French Grand Prix	firstDriver	Michael Schumacher
+1906 French Grand Prix	firstDriver	Ferenc Szisz
+2006 German Grand Prix	firstDriver	Michael Schumacher
+2006 Hungarian Grand Prix	firstDriver	Jenson Button
+2006 Turkish Grand Prix	firstDriver	Felipe Massa
+2006 Italian Grand Prix	firstDriver	Michael Schumacher
+2006 Chinese Grand Prix	firstDriver	Michael Schumacher
+2006 Japanese Grand Prix	firstDriver	Fernando Alonso
+2006 Brazilian Grand Prix	firstDriver	Felipe Massa
+1929 Monaco Grand Prix	firstDriver	William Grover-Williams
+1939 Belgian Grand Prix	firstDriver	Hermann Lang
+1978 BRDC International Trophy	firstDriver	Keke Rosberg
+1949 BRDC International Trophy	firstDriver	Alberto Ascari
+1962 Mexican Grand Prix	firstDriver	Trevor Taylor
+1971 BRDC International Trophy	firstDriver	Graham Hill
+1980 Spanish Grand Prix	firstDriver	Alan Jones (racing driver)
+1933 Monaco Grand Prix	firstDriver	Achille Varzi
+2007 Australian Grand Prix	firstDriver	Kimi Räikkönen
+1950 BRDC International Trophy	firstDriver	Giuseppe Farina
+2007 Malaysian Grand Prix	firstDriver	Fernando Alonso
+2007 Bahrain Grand Prix	firstDriver	Felipe Massa
+1966 BRDC International Trophy	firstDriver	Jack Brabham
+1935 Belgian Grand Prix	firstDriver	Rudolf Caracciola
+1935 Swiss Grand Prix	firstDriver	Rudolf Caracciola
+1935 Italian Grand Prix	firstDriver	Hans Stuck
+1935 Spanish Grand Prix	firstDriver	Rudolf Caracciola
+1936 Monaco Grand Prix	firstDriver	Rudolf Caracciola
+1936 German Grand Prix	firstDriver	Bernd Rosemeyer
+1936 Swiss Grand Prix	firstDriver	Bernd Rosemeyer
+1936 Italian Grand Prix	firstDriver	Bernd Rosemeyer
+1937 Belgian Grand Prix	firstDriver	Rudolf Hasse
+1937 German Grand Prix	firstDriver	Rudolf Caracciola
+1937 Monaco Grand Prix	firstDriver	Manfred von Brauchitsch
+1938 French Grand Prix	firstDriver	Manfred von Brauchitsch
+1938 German Grand Prix	firstDriver	Richard Seaman
+1938 Swiss Grand Prix	firstDriver	Rudolf Caracciola
+1931 Italian Grand Prix	firstDriver	Giuseppe Campari
+1931 French Grand Prix	firstDriver	Louis Chiron
+1931 Belgian Grand Prix	firstDriver	William Grover-Williams
+1932 Italian Grand Prix	firstDriver	Tazio Nuvolari
+1932 French Grand Prix	firstDriver	Tazio Nuvolari
+2007 Spanish Grand Prix	firstDriver	Felipe Massa
+2007 Monaco Grand Prix	firstDriver	Fernando Alonso
+2007 Japanese Grand Prix	firstDriver	Lewis Hamilton
+2007 Belgian Grand Prix	firstDriver	Kimi Räikkönen
+2007 Italian Grand Prix	firstDriver	Fernando Alonso
+2007 Canadian Grand Prix	firstDriver	Lewis Hamilton
+2007 United States Grand Prix	firstDriver	Lewis Hamilton
+2007 French Grand Prix	firstDriver	Kimi Räikkönen
+2007 British Grand Prix	firstDriver	Kimi Räikkönen
+2007 European Grand Prix	firstDriver	Fernando Alonso
+2007 Hungarian Grand Prix	firstDriver	Lewis Hamilton
+1932 German Grand Prix	firstDriver	Rudolf Caracciola
+1938 Italian Grand Prix	firstDriver	Tazio Nuvolari
+2007 Chinese Grand Prix	firstDriver	Kimi Räikkönen
+2007 Turkish Grand Prix	firstDriver	Felipe Massa
+2007 Brazilian Grand Prix	firstDriver	Kimi Räikkönen
+1939 French Grand Prix	firstDriver	Hermann Paul Müller
+1939 German Grand Prix	firstDriver	Rudolf Caracciola
+1939 Swiss Grand Prix	firstDriver	Hermann Lang
+1931 German Grand Prix	firstDriver	Rudolf Caracciola
+1946 René le Bègue Cup	firstDriver	Raymond Sommer
+1946 Nations Grand Prix	firstDriver	Giuseppe Farina
+1946 Turin Grand Prix	firstDriver	Achille Varzi
+1947 Swiss Grand Prix	firstDriver	Jean-Pierre Wimille
+1975 Race of Champions	firstDriver	Tom Pryce
+1952 Monaco Grand Prix	firstDriver	Vittorio Marzotto
+1947 Belgian Grand Prix	firstDriver	Jean-Pierre Wimille
+1947 Italian Grand Prix	firstDriver	Carlo Felice Trossi
+2008 German Grand Prix	firstDriver	Lewis Hamilton
+2008 Australian Grand Prix	firstDriver	Lewis Hamilton
+2008 British Grand Prix	firstDriver	Lewis Hamilton
+1925 Belgian Grand Prix	firstDriver	Antonio Ascari
+1983 Race of Champions	firstDriver	Keke Rosberg
+1984 Australian Grand Prix	firstDriver	Roberto Moreno
+1983 Australian Grand Prix	firstDriver	Roberto Moreno
+1982 Australian Grand Prix	firstDriver	Alain Prost
+1981 Australian Grand Prix	firstDriver	Roberto Moreno
+1980 Australian Grand Prix	firstDriver	Alan Jones (racing driver)
+2008 Malaysian Grand Prix	firstDriver	Kimi Räikkönen
+1962 Danish Grand Prix	firstDriver	Jack Brabham
+1907 French Grand Prix	firstDriver	Felice Nazzaro
+1908 French Grand Prix	firstDriver	Christian Lautenschlager
+1912 French Grand Prix	firstDriver	Georges Boillot
+2008 Singapore Grand Prix	firstDriver	Fernando Alonso
+1913 French Grand Prix	firstDriver	Georges Boillot
+1948 British Grand Prix	firstDriver	Luigi Villoresi
+2008 Bahrain Grand Prix	firstDriver	Felipe Massa
+2008 Spanish Grand Prix	firstDriver	Kimi Räikkönen
+2008 Turkish Grand Prix	firstDriver	Felipe Massa
+2008 Canadian Grand Prix	firstDriver	Robert Kubica
+2008 Monaco Grand Prix	firstDriver	Lewis Hamilton
+2008 French Grand Prix	firstDriver	Felipe Massa
+2008 Hungarian Grand Prix	firstDriver	Heikki Kovalainen
+2008 European Grand Prix	firstDriver	Felipe Massa
+2008 Belgian Grand Prix	firstDriver	Felipe Massa
+2008 Italian Grand Prix	firstDriver	Sebastian Vettel
+2008 Chinese Grand Prix	firstDriver	Lewis Hamilton
+2008 Japanese Grand Prix	firstDriver	Fernando Alonso
+2008 Brazilian Grand Prix	firstDriver	Felipe Massa
+1994 French Grand Prix	firstDriver	Michael Schumacher
+1933 Penya Rhin Grand Prix	firstDriver	Juan Zanelli
+1965 BRDC International Trophy	firstDriver	Jackie Stewart
+1979 Australian Grand Prix	firstDriver	Johnnie Walker (racing driver)
+1964 BRDC International Trophy	firstDriver	Jack Brabham
+1963 BRDC International Trophy	firstDriver	Jim Clark
+1962 BRDC International Trophy	firstDriver	Graham Hill
+1976 BRDC International Trophy	firstDriver	James Hunt
+1975 BRDC International Trophy	firstDriver	Niki Lauda
+1974 BRDC International Trophy	firstDriver	James Hunt
+1971 Argentine Grand Prix	firstDriver	Chris Amon
+1965 Mediterranean Grand Prix	firstDriver	Jo Siffert
+1964 Mediterranean Grand Prix	firstDriver	Jo Siffert
+1979 Race of Champions	firstDriver	Gilles Villeneuve
+1963 Mediterranean Grand Prix	firstDriver	John Surtees
+1962 Mediterranean Grand Prix	firstDriver	Lorenzo Bandini
+1961 Danish Grand Prix	firstDriver	Stirling Moss
+1962 Pau Grand Prix	firstDriver	Maurice Trintignant
+1961 Pau Grand Prix	firstDriver	Jim Clark
+1963 Pau Grand Prix	firstDriver	Jim Clark
+1965 Race of Champions	firstDriver	Mike Spence
+1961 Glover Trophy	firstDriver	John Surtees
+1962 Glover Trophy	firstDriver	Graham Hill
+1963 Glover Trophy	firstDriver	Innes Ireland
+1964 News of the World Trophy	firstDriver	Jim Clark
+1965 Sunday Mirror Trophy	firstDriver	Jim Clark
+1961 Solitude Grand Prix	firstDriver	Innes Ireland
+1949 Buenos Aires Grand Prix	firstDriver	Alberto Ascari
+1962 Solitude Grand Prix	firstDriver	Dan Gurney
+1964 Solitude Grand Prix	firstDriver	Jim Clark
+1939 Belgrade City Race	firstDriver	Tazio Nuvolari
+1963 Solitude Grand Prix	firstDriver	Jack Brabham
+1963 Austrian Grand Prix	firstDriver	Jack Brabham
+1961 International Gold Cup	firstDriver	Stirling Moss
+1962 International Gold Cup	firstDriver	Jim Clark
+1963 International Gold Cup	firstDriver	Jim Clark
+1961 Kanonloppet	firstDriver	Stirling Moss
+1962 Kanonloppet	firstDriver	Masten Gregory
+1963 Kanonloppet	firstDriver	Jim Clark
+1954 I Cornwall MRC Formula 1 Race	firstDriver	John Riseley-Prichard
+1993 Indonesian Grand Prix	firstDriver	Mark Larkham
+1954 II Cornwall MRC Formula 1 Race	firstDriver	John Coombs
+1955 Cornwall MRC Formula 1 Race	firstDriver	Leslie Marr
+1961 Syracuse Grand Prix	firstDriver	Giancarlo Baghetti
+1963 Syracuse Grand Prix	firstDriver	Jo Siffert
+1964 Syracuse Grand Prix	firstDriver	John Surtees
+1965 Syracuse Grand Prix	firstDriver	Jim Clark
+1965 Rand Grand Prix	firstDriver	Jack Brabham
+1964 Rand Grand Prix	firstDriver	Graham Hill
+1963 Rand Grand Prix	firstDriver	John Surtees
+1962 Rand Grand Prix	firstDriver	Jim Clark
+1961 Rand Grand Prix	firstDriver	Jim Clark
+1961 Lewis-Evans Trophy	firstDriver	Tony Marsh (racing driver)
+1961 Silver City Trophy	firstDriver	Stirling Moss
+1961 London Trophy	firstDriver	Roy Salvadori
+1961 Coppa Italia	firstDriver	Giancarlo Baghetti
+1961 Vienna Grand Prix	firstDriver	Stirling Moss
+1960 Glover Trophy	firstDriver	Innes Ireland
+1966 Syracuse Grand Prix	firstDriver	John Surtees
+1967 Syracuse Grand Prix	firstDriver	Mike Parkes
+1914 French Grand Prix	firstDriver	Christian Lautenschlager
+1971 World Championship Victory Race	firstDriver	Peter Gethin
+1908 American Grand Prize	firstDriver	Louis Wagner
+2009 Abu Dhabi Grand Prix	firstDriver	Sebastian Vettel
+1961 Aintree 200	firstDriver	Jack Brabham
+1962 Aintree 200	firstDriver	Jim Clark
+1978 Australian Grand Prix	firstDriver	Graham McRae
+1972 Australian Grand Prix	firstDriver	Graham McRae
+1967 Australian Grand Prix	firstDriver	Jackie Stewart
+1964 Australian Grand Prix	firstDriver	Jack Brabham
+1965 Australian Grand Prix	firstDriver	Bruce McLaren
+1966 Australian Grand Prix	firstDriver	Graham Hill
+1968 Australian Grand Prix	firstDriver	Jim Clark
+1969 Australian Grand Prix	firstDriver	Chris Amon
+1928 Australian Grand Prix	firstDriver	Arthur Waite (racing driver)
+1973 Australian Grand Prix	firstDriver	Graham McRae
+1974 Australian Grand Prix	firstDriver	Warwick Brown
+1973 Singapore Grand Prix	firstDriver	Vern Schuppan
+1970 Australian Grand Prix	firstDriver	Frank Matich
+1971 Australian Grand Prix	firstDriver	Frank Matich
+1975 Australian Grand Prix	firstDriver	Max Stewart
+2009 Australian Grand Prix	firstDriver	Jenson Button
+1976 Australian Grand Prix	firstDriver	John Goss (racing driver)
+1977 Australian Grand Prix	firstDriver	Warwick Brown
+1921 French Grand Prix	firstDriver	James Anthony Murphy
+1921 Italian Grand Prix	firstDriver	Jules Goux
+1922 French Grand Prix	firstDriver	Felice Nazzaro
+1963 Australian Grand Prix	firstDriver	Jack Brabham
+1950 Pau Grand Prix	firstDriver	Juan Manuel Fangio
+1950 Richmond Trophy	firstDriver	Reg Parnell
+1949 Roussillon Grand Prix	firstDriver	Juan Manuel Fangio
+2009 Japanese Grand Prix	firstDriver	Sebastian Vettel
+1947 Roussillon Grand Prix	firstDriver	Eugène Chaboud
+1946 Roussillon Grand Prix	firstDriver	Jean-Pierre Wimille
+1948 Roussillon Grand Prix	firstDriver	Maurice Trintignant
+1979 Dino Ferrari Grand Prix	firstDriver	Niki Lauda
+2009 British Grand Prix	firstDriver	Sebastian Vettel
+1963 Aintree 200	firstDriver	Graham Hill
+1964 Aintree 200	firstDriver	Jack Brabham
+1966 South African Grand Prix	firstDriver	Mike Spence
+1950 San Remo Grand Prix	firstDriver	Juan Manuel Fangio
+1963 Rome Grand Prix	firstDriver	Bob Anderson (racing driver)
+1963 Imola Grand Prix	firstDriver	Jim Clark
+1962 Lavant Cup	firstDriver	Bruce McLaren
+2009 Monaco Grand Prix	firstDriver	Jenson Button
+1962 Crystal Palace Trophy	firstDriver	Innes Ireland
+1962 International 2000 Guineas	firstDriver	John Surtees
+1950 Paris Grand Prix	firstDriver	Georges Grignard
+1950 British Empire Trophy	firstDriver	Bob Gerard
+1950 Bari Grand Prix	firstDriver	Giuseppe Farina
+1962 Reims Grand Prix	firstDriver	Bruce McLaren
+1950 Jersey Road Race	firstDriver	Peter Whitehead (racing driver)
+1961 Lombank Trophy	firstDriver	Jack Brabham
+1962 Lombank Trophy	firstDriver	Jim Clark
+1922 Italian Grand Prix	firstDriver	Pietro Bordino
+1963 Lombank Trophy	firstDriver	Graham Hill
+1923 French Grand Prix	firstDriver	Henry Segrave
+1964 Daily Mirror Trophy	firstDriver	Innes Ireland
+1966 International Gold Cup	firstDriver	Jack Brabham
+1967 Race of Champions	firstDriver	Dan Gurney
+1962 Cape Grand Prix	firstDriver	Trevor Taylor
+1961 Natal Grand Prix	firstDriver	Jim Clark
+1962 Natal Grand Prix	firstDriver	Trevor Taylor
+1961 Modena Grand Prix	firstDriver	Stirling Moss
+1961 Flugplatzrennen	firstDriver	Innes Ireland
+1949 Italian Grand Prix	firstDriver	Alberto Ascari
+1923 Italian Grand Prix	firstDriver	Carlo Salamano
+2009 Malaysian Grand Prix	firstDriver	Jenson Button
+2009 Chinese Grand Prix	firstDriver	Sebastian Vettel
+2009 Bahrain Grand Prix	firstDriver	Jenson Button
+2009 Brazilian Grand Prix	firstDriver	Mark Webber
+1949 British Grand Prix	firstDriver	Toulo de Graffenried
+1949 Belgian Grand Prix	firstDriver	Louis Rosier
+1949 Swiss Grand Prix	firstDriver	Alberto Ascari
+1924 French Grand Prix	firstDriver	Giuseppe Campari
+1924 Italian Grand Prix	firstDriver	Antonio Ascari
+2009 Spanish Grand Prix	firstDriver	Jenson Button
+1925 Italian Grand Prix	firstDriver	Gastone Brilli-Peri
+1926 Italian Grand Prix	firstDriver	Louis Charavel
+1927 Italian Grand Prix	firstDriver	Robert Benoist
+2009 Turkish Grand Prix	firstDriver	Jenson Button
+2009 German Grand Prix	firstDriver	Mark Webber
+2009 Hungarian Grand Prix	firstDriver	Lewis Hamilton
+2009 Singapore Grand Prix	firstDriver	Lewis Hamilton
+2009 European Grand Prix	firstDriver	Rubens Barrichello
+2009 Belgian Grand Prix	firstDriver	Kimi Räikkönen
+2009 Italian Grand Prix	firstDriver	Rubens Barrichello
+1925 French Grand Prix	firstDriver	Robert Benoist
+1962 Australian Grand Prix	firstDriver	Bruce McLaren
+1961 Australian Grand Prix	firstDriver	Lex Davison
+1960 Australian Grand Prix	firstDriver	Alec Mildren
+1967 International Gold Cup	firstDriver	Jack Brabham
+1968 International Gold Cup	firstDriver	Jackie Stewart
+1959 Australian Grand Prix	firstDriver	Stan Jones (racing driver)
+1958 Australian Grand Prix	firstDriver	Lex Davison
+1964 New Zealand Grand Prix	firstDriver	Bruce McLaren
+1965 New Zealand Grand Prix	firstDriver	Graham Hill
+1966 New Zealand Grand Prix	firstDriver	Graham Hill
+1926 French Grand Prix	firstDriver	Jules Goux
+1969 Madrid Grand Prix	firstDriver	Keith Holland (racing driver)
+1971 Jochen Rindt Gedächtnisrennen	firstDriver	Jacky Ickx
+1926 San Sebastián Grand Prix	firstDriver	Jules Goux
+1926 British Grand Prix	firstDriver	Robert Sénéchal
+1967 New Zealand Grand Prix	firstDriver	Jackie Stewart
+1957 Australian Grand Prix	firstDriver	Lex Davison
+1968 Deutschland Trophäe	firstDriver	Jean-Pierre Beltoise
+1934 German Grand Prix	firstDriver	Hans Stuck
+2010 British Grand Prix	firstDriver	Mark Webber
+1927 British Grand Prix	firstDriver	Robert Benoist
+1970 Race of Champions	firstDriver	Jackie Stewart
+1956 Australian Grand Prix	firstDriver	Stirling Moss
+1955 Australian Grand Prix	firstDriver	Jack Brabham
+1954 Australian Grand Prix	firstDriver	Lex Davison
+1953 Australian Grand Prix	firstDriver	Doug Whiteford
+1968 New Zealand Grand Prix	firstDriver	Chris Amon
+2010 Bahrain Grand Prix	firstDriver	Fernando Alonso
+2010 Australian Grand Prix	firstDriver	Jenson Button
+2010 Turkish Grand Prix	firstDriver	Lewis Hamilton
+2010 Malaysian Grand Prix	firstDriver	Sebastian Vettel
+2010 Spanish Grand Prix	firstDriver	Mark Webber
+2010 Canadian Grand Prix	firstDriver	Lewis Hamilton
+2010 Monaco Grand Prix	firstDriver	Mark Webber
+2010 European Grand Prix	firstDriver	Sebastian Vettel
+1969 New Zealand Grand Prix	firstDriver	Chris Amon
+1970 New Zealand Grand Prix	firstDriver	Frank Matich
+1952 Australian Grand Prix	firstDriver	Doug Whiteford
+1938 Australian Grand Prix	firstDriver	Peter Whitehead (racing driver)
+2010 Hungarian Grand Prix	firstDriver	Mark Webber
+2010 German Grand Prix	firstDriver	Fernando Alonso
+2010 Chinese Grand Prix	firstDriver	Jenson Button
+2010 Belgian Grand Prix	firstDriver	Lewis Hamilton
+2010 Italian Grand Prix	firstDriver	Fernando Alonso
+2010 Japanese Grand Prix	firstDriver	Sebastian Vettel
+2010 Singapore Grand Prix	firstDriver	Fernando Alonso
+2010 Korean Grand Prix	firstDriver	Fernando Alonso
+2010 Abu Dhabi Grand Prix	firstDriver	Sebastian Vettel
+2010 Brazilian Grand Prix	firstDriver	Sebastian Vettel
+1951 Australian Grand Prix	firstDriver	Warwick Pratley
+1950 Australian Grand Prix	firstDriver	Doug Whiteford
+1961 Naples Grand Prix	firstDriver	Giancarlo Baghetti
+1962 Naples Grand Prix	firstDriver	Willy Mairesse
+1949 Australian Grand Prix	firstDriver	John Crouch
+1948 Australian Grand Prix	firstDriver	Frank Pratt (racing driver)
+1972 World Championship Victory Race	firstDriver	Jean-Pierre Beltoise
+1947 Australian Grand Prix	firstDriver	Bill Murray (racing driver)
+1939 Australian Grand Prix	firstDriver	Allan Tomlinson
+1937 Australian Grand Prix	firstDriver	Les Murphy
+1966 Canadian Grand Prix	firstDriver	Mark Donohue
+1968 Race of Champions	firstDriver	Bruce McLaren
+1969 Race of Champions	firstDriver	Jackie Stewart
+1960 Cape Grand Prix	firstDriver	Stirling Moss
+1960 South African Grand Prix	firstDriver	Stirling Moss
+1971 Race of Champions	firstDriver	Clay Regazzoni
+1912 American Grand Prize	firstDriver	Caleb Bragg
+1911 American Grand Prize	firstDriver	David Bruce-Brown
+1914 American Grand Prize	firstDriver	Eddie Pullen
+1947 French Grand Prix	firstDriver	Louis Chiron
+1948 Monaco Grand Prix	firstDriver	Giuseppe Farina
+1948 Swiss Grand Prix	firstDriver	Carlo Felice Trossi
+1948 French Grand Prix	firstDriver	Jean-Pierre Wimille
+1948 Italian Grand Prix	firstDriver	Jean-Pierre Wimille
+1949 French Grand Prix	firstDriver	Louis Chiron
+1934 Swiss Grand Prix	firstDriver	Hans Stuck
+1949 San Remo Grand Prix	firstDriver	Juan Manuel Fangio
+2011 Canadian Grand Prix	firstDriver	Jenson Button
+2011 British Grand Prix	firstDriver	Fernando Alonso
+2011 Australian Grand Prix	firstDriver	Sebastian Vettel
+2011 Chinese Grand Prix	firstDriver	Lewis Hamilton
+2011 European Grand Prix	firstDriver	Sebastian Vettel
+2011 German Grand Prix	firstDriver	Lewis Hamilton
+2011 Monaco Grand Prix	firstDriver	Sebastian Vettel
+2011 Malaysian Grand Prix	firstDriver	Sebastian Vettel
+2011 Spanish Grand Prix	firstDriver	Sebastian Vettel
+2011 Turkish Grand Prix	firstDriver	Sebastian Vettel
+2011 New Zealand Grand Prix	firstDriver	Mitch Evans
+1985 Detroit Grand Prix	firstDriver	Keke Rosberg
+1976 United States Grand Prix	firstDriver	James Hunt
+1986 Detroit Grand Prix	firstDriver	Ayrton Senna
+1987 Detroit Grand Prix	firstDriver	Ayrton Senna
+1988 Detroit Grand Prix	firstDriver	Ayrton Senna
+1900 Gordon Bennett Cup	firstDriver	Fernand Charron
+1902 Gordon Bennett Cup	firstDriver	Selwyn Edge

@@ -1,0 +1,3545 @@
+Ankara	leaderParty	Justice and Development Party (Turkey)
+Amsterdam	leaderParty	Labour Party (Netherlands)
+Abensberg	leaderParty	Christian Social Union of Bavaria
+Alicante	leaderParty	People's Party (Spain)
+Aarau	leaderParty	Free Democratic Party of Switzerland
+Andalusia	leaderParty	Spanish Socialist Workers' Party
+Alexandria, Romania	leaderParty	Social Democratic Party (Romania)
+Ansbach	leaderParty	Free Voters
+Ansbach	leaderParty	Ecological Democratic Party
+Aveiro, Portugal	leaderParty	Social Democratic Party (Portugal)
+Bonn	leaderParty	Social Democratic Party of Germany
+Berlin	leaderParty	The Left (Germany)
+Bursa	leaderParty	Justice and Development Party (Turkey)
+Brandenburg	leaderParty	The Left (Germany)
+Bavaria	leaderParty	Christian Social Union of Bavaria
+Barcelona	leaderParty	Convergence and Union
+Bamberg	leaderParty	Social Democratic Party of Germany
+Cape Town	leaderParty	Democratic Alliance (South Africa)
+Catalonia	leaderParty	Convergence and Union
+Dachau	leaderParty	Christian Social Union of Bavaria
+Eindhoven	leaderParty	Labour Party (Netherlands)
+Florence	leaderParty	Democratic Party (Italy)
+Guernica (town)	leaderParty	Eusko Alkartasuna
+Galicia (Spain)	leaderParty	People's Party of Galicia
+Leipzig	leaderParty	Social Democratic Party of Germany
+Lleida	leaderParty	Socialists' Party of Catalonia
+Melilla	leaderParty	People's Party (Spain)
+Nijmegen	leaderParty	Democrats 66
+Prague	leaderParty	Civic Democratic Party (Czech Republic)
+Rome	leaderParty	The People of Freedom
+Rio de Janeiro	leaderParty	Brazilian Democratic Movement Party
+Sarajevo	leaderParty	Social Democratic Party of Bosnia and Herzegovina
+Saarland	leaderParty	Christian Democratic Union (Germany)
+Saarland	leaderParty	Free Democratic Party (Germany)
+Saarland	leaderParty	Alliance '90/The Greens
+Schleswig-Holstein	leaderParty	Christian Democratic Union (Germany)
+Schleswig-Holstein	leaderParty	Free Democratic Party (Germany)
+Santiago de Compostela	leaderParty	People's Party (Spain)
+Saxony	leaderParty	Free Democratic Party (Germany)
+Stuttgart	leaderParty	Christian Democratic Union (Germany)
+Tübingen	leaderParty	Green party
+Trier	leaderParty	Social Democratic Party of Germany
+Toledo, Spain	leaderParty	Spanish Socialist Workers' Party
+Tel Aviv	leaderParty	Israeli Labor Party
+Tallinn	leaderParty	Estonian Centre Party
+Tartu	leaderParty	Estonian Reform Party
+Venice	leaderParty	Democratic Party (Italy)
+Warsaw	leaderParty	Civic Platform
+Milan	leaderParty	Left Ecology Freedom
+Budapest	leaderParty	Fidesz
+Seville	leaderParty	People's Party
+Augsburg	leaderParty	Christian Social Union of Bavaria
+Granada	leaderParty	People's Party (Spain)
+Hesse	leaderParty	Free Democratic Party (Germany)
+Tórshavn	leaderParty	Social Democratic Party (Faroe Islands)
+Dakar	leaderParty	United to Boost Senegal
+Burgos	leaderParty	People's Party (Spain)
+Dordogne	leaderParty	Socialist Party (France)
+Sassari	leaderParty	Democratic Party (Italy)
+Ferrara	leaderParty	Democratic Party (Italy)
+Białystok	leaderParty	Civic Platform
+Tocantins	leaderParty	PSDB
+Potsdam	leaderParty	Social Democratic Party of Germany
+Solothurn	leaderParty	FDP.The Liberals
+Wuppertal	leaderParty	Christian Democratic Union (Germany)
+Wuppertal	leaderParty	Christian Democratic Union (Germany)
+Bayreuth	leaderParty	Christian Social Union of Bavaria
+Havana	leaderParty	Communist Party of Cuba
+Cadiz	leaderParty	People's Party (Spain)
+Córdoba, Spain	leaderParty	People's Party (Spain)
+Caracas	leaderParty	Fearless People's Alliance
+Thessaly	leaderParty	New Democracy (Greece)
+Salzburg (state)	leaderParty	Social Democratic Party of Austria
+Arnhem	leaderParty	People's Party for Freedom and Democracy
+Valletta	leaderParty	Nationalist Party (Malta)
+Metz	leaderParty	Socialist Party (France)
+Badajoz	leaderParty	People's Party (Spain)
+Charente-Maritime	leaderParty	Union for a Popular Movement
+Hauts-de-Seine	leaderParty	Union for a Popular Movement
+Tarragona	leaderParty	Spanish Socialist Workers' Party
+Murcia	leaderParty	People's Party (Spain)
+Timişoara	leaderParty	Christian-Democratic National Peasants' Party (Romania)
+Finistère	leaderParty	Socialist Party (France)
+Bacău	leaderParty	National Liberal Party (Romania)
+Anina	leaderParty	Democratic Liberal Party (Romania)
+Oraviţa	leaderParty	Democratic Liberal Party (Romania)
+Moldova Nouă	leaderParty	Democratic Liberal Party (Romania)
+Oţelu Roşu	leaderParty	Democratic Liberal Party (Romania)
+Bocşa	leaderParty	Social Democratic Party (Romania)
+Băile Herculane	leaderParty	Democratic Liberal Party (Romania)
+Caransebeş	leaderParty	National Liberal Party (Romania)
+Haarlem	leaderParty	Labour Party (Netherlands)
+Jaén, Spain	leaderParty	Spanish Socialist Workers' Party
+Valencia, Spain	leaderParty	People's Party (Spain)
+Zaragoza	leaderParty	Spanish Socialist Workers' Party
+Babadag	leaderParty	Social Democratic Party (Romania)
+Brașov	leaderParty	Democratic Liberal Party (Romania)
+Genoa	leaderParty	Democratic Party (Italy)
+Maine-et-Loire	leaderParty	Union for a Popular Movement
+Indre-et-Loire	leaderParty	Socialist Party (France)
+Bilbao	leaderParty	Basque Nationalist Party
+Asturias	leaderParty	Asturian Forum
+Extremadura	leaderParty	People's Party (Spain)
+Teruel	leaderParty	Aragonese Party
+Huesca	leaderParty	People's Party (Spain)
+Mérida, Spain	leaderParty	Spanish Socialist Workers' Party
+Mérida, Yucatán	leaderParty	Institutional Revolutionary Party
+Valladolid	leaderParty	People's Party (Spain)
+Terrassa	leaderParty	Socialists' Party of Catalonia
+Fraga	leaderParty	People's Party (Spain)
+Segovia	leaderParty	Spanish Socialist Workers' Party
+Ejea de los Caballeros	leaderParty	Spanish Socialist Workers' Party
+Guadalajara, Castile-La Mancha	leaderParty	People's Party (Spain)
+Astorga, Spain	leaderParty	Spanish Socialist Workers' Party
+Palma, Majorca	leaderParty	Spanish Socialist Workers' Party
+Bytom	leaderParty	Civic Platform
+L'Hospitalet de Llobregat	leaderParty	Socialists' Party of Catalonia
+Mahón	leaderParty	Spanish Socialist Workers' Party
+Castellón de la Plana	leaderParty	People's Party (Spain)
+Concepción, Chile	leaderParty	Independent Democrat Union
+Bouches-du-Rhône	leaderParty	Socialist Party (France)
+Cher (department)	leaderParty	Socialist Party (France)
+Vitoria-Gasteiz	leaderParty	People's Party (Spain)
+Rhône (department)	leaderParty	Centrism
+Alpes-Maritimes	leaderParty	Union for a Popular Movement
+Lancaster, Pennsylvania	leaderParty	Democratic Party (United States)
+Benabarre	leaderParty	Spanish Socialist Workers' Party
+Aisne	leaderParty	Socialist Party (France)
+Ain	leaderParty	Socialist Party (France)
+Allier	leaderParty	French Communist Party
+Hautes-Alpes	leaderParty	Union for a Popular Movement
+Doubs	leaderParty	Socialist Party (France)
+Ardennes (department)	leaderParty	Union for a Popular Movement
+Aube	leaderParty	Miscellaneous Right
+Aveyron	leaderParty	Union for a Popular Movement
+Aude	leaderParty	Socialist Party (France)
+Caguas, Puerto Rico	leaderParty	Popular Democratic Party of Puerto Rico
+Ponce, Puerto Rico	leaderParty	New Progressive Party of Puerto Rico
+Charente	leaderParty	Socialist Party (France)
+Drôme	leaderParty	Socialist Party (France)
+Hérault	leaderParty	Socialist Party (France)
+Cayey, Puerto Rico	leaderParty	Popular Democratic Party of Puerto Rico
+Aguadilla, Puerto Rico	leaderParty	New Progressive Party of Puerto Rico
+Tàrrega	leaderParty	Spanish Socialist Workers' Party
+Lagos	leaderParty	Action Congress of Nigeria (ACN)
+Bayamón, Puerto Rico	leaderParty	New Progressive Party of Puerto Rico
+Savoie	leaderParty	Union for a Popular Movement
+Springfield (The Simpsons)	leaderParty	Democratic Party (United States)
+Flensburg	leaderParty	South Schleswig Voter Federation
+Alcalá de Henares	leaderParty	People's Party (Spain)
+Ardèche	leaderParty	Socialist Party (France)
+Cantal	leaderParty	Union for a Popular Movement
+Ariège	leaderParty	Socialist Party (France)
+Corse-du-Sud	leaderParty	Union for a Popular Movement
+Corrèze	leaderParty	Socialist Party (France)
+Côte-d'Or	leaderParty	New Centre
+Creuse	leaderParty	Socialist Party (France)
+Eure	leaderParty	Socialist Party (France)
+Eure-et-Loir	leaderParty	Union for a Popular Movement
+Gard	leaderParty	Socialist Party (France)
+Gers	leaderParty	Socialist Party (France)
+Ille-et-Vilaine	leaderParty	Socialist Party (France)
+Loire-Atlantique	leaderParty	Socialist Party (France)
+Loiret	leaderParty	Union for a Popular Movement
+Lot-et-Garonne	leaderParty	Socialist Party (France)
+Orne	leaderParty	Union for a Popular Movement
+Haut-Rhin	leaderParty	Union for a Popular Movement
+Bas-Rhin	leaderParty	Union for a Popular Movement
+Deux-Sèvres	leaderParty	Socialist Party (France)
+Haute-Savoie	leaderParty	DVD
+Haute-Vienne	leaderParty	Socialist Party (France)
+Essonne	leaderParty	Socialist Party (France)
+Seine-Saint-Denis	leaderParty	Socialist Party (France)
+Val-de-Marne	leaderParty	French Communist Party
+Côtes-d'Armor	leaderParty	Socialist Party (France)
+San Lorenzo, Puerto Rico	leaderParty	Popular Democratic Party of Puerto Rico
+Cluj-Napoca	leaderParty	Democratic Liberal Party (Romania)
+Hunedoara	leaderParty	Democratic Liberal Party (Romania)
+Deva, Romania	leaderParty	National Liberal Party (Romania)
+Konstanz	leaderParty	Alliance '90/The Greens
+Sighişoara	leaderParty	Social Democratic Party (Romania)
+Berga	leaderParty	CIU
+Burgenland	leaderParty	Social Democratic Party of Austria
+Amersfoort	leaderParty	Democrats 66
+Wageningen	leaderParty	Labour Party (Netherlands)
+Cottbus	leaderParty	Social Democratic Party of Germany
+Den Helder	leaderParty	Labour Party (Netherlands)
+Alta Ribagorça	leaderParty	Socialists' Party of Catalonia
+Llívia	leaderParty	Convergence and Union
+Schwerin	leaderParty	The Left (Germany)
+Lafayette, Louisiana	leaderParty	Republican Party (United States)
+Salisbury, Maryland	leaderParty	Democratic Party (United States)
+Hoogezand-Sappemeer	leaderParty	Labour Party (Netherlands)
+Leek, Groningen	leaderParty	People's Party for Freedom and Democracy
+Gijón	leaderParty	Asturian Forum
+Almere	leaderParty	People's Party for Freedom and Democracy
+Ede, Netherlands	leaderParty	CDA
+Abcoude	leaderParty	People's Party for Freedom and Democracy
+Breukelen	leaderParty	Democrats 66
+Baarn	leaderParty	Christian Democratic Appeal
+Bunschoten	leaderParty	ChristianUnion
+Bunnik	leaderParty	Christian Democratic Appeal
+De Bilt	leaderParty	People's Party for Freedom and Democracy
+De Ronde Venen	leaderParty	People's Party for Freedom and Democracy
+Eemnes	leaderParty	People's Party for Freedom and Democracy
+Houten	leaderParty	Party for Freedom
+IJsselstein	leaderParty	People's Party for Freedom and Democracy
+Leusden	leaderParty	Christian Democratic Appeal
+Loenen	leaderParty	Labour Party (Netherlands)
+Lopik	leaderParty	Christian Democratic Appeal
+Montfoort	leaderParty	Democrats 66
+Maarssen	leaderParty	People's Party for Freedom and Democracy
+Nieuwegein	leaderParty	Labour Party (Netherlands)
+Oudewater	leaderParty	Labour Party (Netherlands)
+Rhenen	leaderParty	People's Party for Freedom and Democracy
+Boxtel	leaderParty	CDA
+Vught	leaderParty	People's Party for Freedom and Democracy
+Andijk	leaderParty	Labour Party (Netherlands)
+Aalsmeer	leaderParty	People's Party for Freedom and Democracy
+Amstelveen	leaderParty	People's Party for Freedom and Democracy
+Anna Paulowna	leaderParty	Democrats 66
+Beemster	leaderParty	Christian Democratic Appeal
+Blaricum	leaderParty	GreenLeft
+Beverwijk	leaderParty	People's Party for Freedom and Democracy
+Bloemendaal	leaderParty	People's Party for Freedom and Democracy
+Castricum	leaderParty	Labour Party (Netherlands)
+Bussum	leaderParty	People's Party for Freedom and Democracy
+Drechterland	leaderParty	Labour Party (Netherlands)
+Diemen	leaderParty	GreenLeft
+Edam-Volendam	leaderParty	Christian Democratic Appeal
+Graft-De Rijp	leaderParty	Democrats 66
+Haarlemmerliede en Spaarnwoude	leaderParty	Christian Democratic Appeal
+Harenkarspel	leaderParty	Labour Party (Netherlands)
+Haarlemmermeer	leaderParty	PVDA
+Heemstede	leaderParty	People's Party for Freedom and Democracy
+Heemskerk	leaderParty	Labour Party (Netherlands)
+Heiloo	leaderParty	Christian Democratic Appeal
+Heerhugowaard	leaderParty	People's Party for Freedom and Democracy
+Huizen	leaderParty	People's Party for Freedom and Democracy
+Hoorn	leaderParty	Democrats 66
+Landsmeer	leaderParty	Labour Party (Netherlands)
+Laren	leaderParty	Democrats 66
+Medemblik	leaderParty	Christian Democratic Appeal
+Langedijk	leaderParty	Christian Democratic Appeal
+Muiden	leaderParty	Christian Democratic Appeal
+Naarden	leaderParty	Labour Party (Netherlands)
+Niedorp	leaderParty	Democrats 66
+Opmeer	leaderParty	People's Party for Freedom and Democracy
+Noorder-Koggenland	leaderParty	Christian Democratic Appeal
+Ouder-Amstel	leaderParty	People's Party for Freedom and Democracy
+Schagen	leaderParty	Labour Party (Netherlands)
+Schermer	leaderParty	People's Party for Freedom and Democracy
+Stede Broec	leaderParty	Christian Democratic Appeal
+Texel	leaderParty	People's Party for Freedom and Democracy
+Uitgeest	leaderParty	Christian Democratic Appeal
+Uithoorn	leaderParty	GreenLeft
+Velsen	leaderParty	Christian Democratic Appeal
+Waterland	leaderParty	Christian Democratic Appeal
+Weesp	leaderParty	Labour Party (Netherlands)
+Wieringermeer	leaderParty	People's Party for Freedom and Democracy
+Wieringen	leaderParty	Christian Democratic Appeal
+Wijdemeren	leaderParty	People's Party for Freedom and Democracy
+Wormerland	leaderParty	GreenLeft
+Zaanstad	leaderParty	Labour Party (Netherlands)
+Wognum	leaderParty	People's Party for Freedom and Democracy
+Zeevang	leaderParty	Labour Party (Netherlands)
+Zandvoort	leaderParty	People's Party for Freedom and Democracy
+Zijpe	leaderParty	Labour Party (Netherlands)
+Bergen, North Holland	leaderParty	Democrats 66
+Barendrecht	leaderParty	Reformed Political Party
+Brunswick, New York	leaderParty	Republican Party (United States)
+Troy, New York	leaderParty	Republican Party (United States)
+Queensbury, New York	leaderParty	Republican Party (United States)
+Greifswald	leaderParty	Christian Democratic Union (Germany)
+Abington Township, Montgomery County, Pennsylvania	leaderParty	Republican Party (United States)
+Territoire de Belfort	leaderParty	Socialist Party (France)
+Ludwigslust	leaderParty	Parteilos
+Vienna, Virginia	leaderParty	Nonpartisan
+Sitges	leaderParty	PSC
+Cáceres, Spain	leaderParty	Partido Popular
+Province of Lugo	leaderParty	Socialist Party of Galicia
+Province of A Coruña	leaderParty	Socialist Party of Galicia
+Province of Ourense	leaderParty	People's Party of Galicia
+Province of Pontevedra	leaderParty	People's Party of Galicia
+Salinas, Puerto Rico	leaderParty	New Progressive Party of Puerto Rico
+Upper Austria	leaderParty	Austrian People's Party
+Tyrol (state)	leaderParty	Austrian People's Party
+Lower Austria	leaderParty	Austrian People's Party
+Mayagüez, Puerto Rico	leaderParty	Popular Democratic Party of Puerto Rico
+Vinkovci	leaderParty	Croatian Democratic Union
+Đakovo	leaderParty	Social Democratic Party of Croatia
+Požega, Croatia	leaderParty	Social Democratic Party of Croatia
+Lüneburg	leaderParty	Social Democratic Party of Germany
+Celle	leaderParty	Social Democratic Party of Germany
+Loveland, Ohio	leaderParty	Republican Party (United States)
+Amarillo, Texas	leaderParty	Republican Party (United States)
+Münster	leaderParty	Christian Democratic Union (Germany)
+Goslar	leaderParty	Social Democratic Party of Germany
+Oviedo	leaderParty	People's Party (Spain)
+Vorarlberg	leaderParty	Austrian People's Party
+Las Palmas de Gran Canaria	leaderParty	People's Party (Spain)
+Alagoas	leaderParty	PSDB
+Santander, Cantabria	leaderParty	People's Party (Spain)
+Chur	leaderParty	Swiss People's Party
+New Plymouth	leaderParty	New Zealand National Party
+Podgorica	leaderParty	Democratic Party of Socialists of Montenegro
+Herborn	leaderParty	Social Democratic Party of Germany
+Essen	leaderParty	Social Democratic Party of Germany
+Essen	leaderParty	Social Democratic Party of Germany
+Essen	leaderParty	Christian Democratic Union (Germany)
+Fernelmont	leaderParty	Centre démocrate humaniste
+Hagen	leaderParty	Christian Democratic Union (Germany)
+Hamm	leaderParty	Christian Democratic Union (Germany)
+Krefeld	leaderParty	Christian Democratic Union (Germany)
+Leverkusen	leaderParty	Social Democratic Party of Germany
+Cangas de Onís	leaderParty	Spanish Socialist Workers' Party
+Mönchengladbach	leaderParty	Social Democratic Party of Germany
+Oberhausen	leaderParty	Social Democratic Party of Germany
+Remscheid	leaderParty	Social Democratic Party of Germany
+Solingen	leaderParty	Christian Democratic Union (Germany)
+Hemer	leaderParty	Christian Democratic Union (Germany)
+Herford	leaderParty	Social Democratic Party of Germany
+Neuwied	leaderParty	Social Democratic Party of Germany
+Antioquia Department	leaderParty	Colombian Conservative Party
+Boyacá Department	leaderParty	Green Party (Colombia)
+Taupo	leaderParty	New Zealand National Party
+Cundinamarca Department	leaderParty	Colombian Liberal Party
+Biscay	leaderParty	Basque Nationalist Party
+Attard	leaderParty	Nationalist Party (Malta)
+KwaZulu-Natal	leaderParty	African National Congress
+Sinop, Turkey	leaderParty	Republican People's Party (Turkey)
+Carolina, Puerto Rico	leaderParty	Popular Democratic Party of Puerto Rico
+Lares, Puerto Rico	leaderParty	New Progressive Party of Puerto Rico
+Pahiatua	leaderParty	New Zealand National Party
+Erlangen	leaderParty	Christian Social Union of Bavaria
+Elche	leaderParty	Spanish Socialist Workers' Party
+Ingolstadt	leaderParty	Christian Social Union of Bavaria
+Aibonito, Puerto Rico	leaderParty	New Progressive Party of Puerto Rico
+Cataño, Puerto Rico	leaderParty	Popular Democratic Party
+Iași	leaderParty	Social Democratic Party (Romania)
+Edirne	leaderParty	Republican People's Party (Turkey)
+Coamo, Puerto Rico	leaderParty	Popular Democratic Party of Puerto Rico
+Arecibo, Puerto Rico	leaderParty	New Progressive Party of Puerto Rico
+Bingöl	leaderParty	Justice and Development Party (Turkey)
+Minas Gerais	leaderParty	Brazilian Social Democratic Party
+Carinthia (state)	leaderParty	Freedom Party in Carinthia
+Styria	leaderParty	Social Democratic Party of Austria
+Westerburg	leaderParty	Christian Democratic Union (Germany)
+La Rioja, Argentina	leaderParty	Justicialist Party
+Dénia	leaderParty	People's Party (Spain)
+Mollerussa	leaderParty	Convergence and Union
+Witten	leaderParty	Social Democratic Party of Germany
+Maracaibo	leaderParty	A New Era
+Guaynabo, Puerto Rico	leaderParty	New Progressive Party of Puerto Rico
+Peñuelas, Puerto Rico	leaderParty	Popular Democratic Party of Puerto Rico
+Ingelheim am Rhein	leaderParty	Christian Democratic Union (Germany)
+Buenos Aires Province	leaderParty	Justicialist Party
+Galați	leaderParty	Social Democratic Party (Romania)
+Sheboygan, Wisconsin	leaderParty	Nonpartisan
+Zamora, Spain	leaderParty	People's Party (Spain)
+Craiova	leaderParty	Democratic Liberal Party (Romania)
+Brașov County	leaderParty	National Liberal Party (Romania)
+Călărași County	leaderParty	National Liberal Party (Romania)
+Constanța County	leaderParty	Social Democratic Party (Romania)
+Giurgiu County	leaderParty	Social Democratic Party (Romania)
+Argeș County	leaderParty	Social Democratic Party (Romania)
+Benguet	leaderParty	Baguio, Benguet
+Marsaxlokk	leaderParty	Labour Party (Malta)
+Mellieħa	leaderParty	Nationalist Party (Malta)
+Buñol	leaderParty	Spanish Socialist Workers' Party
+Kotor	leaderParty	Democratic Party of Socialists of Montenegro
+Nikšić	leaderParty	Democratic Party of Socialists of Montenegro
+Pljevlja	leaderParty	Socialist People's Party of Montenegro
+Matamata	leaderParty	New Zealand National Party
+Huedin	leaderParty	National Liberal Party (Romania)
+Şanlıurfa	leaderParty	Felicity Party
+Otopeni	leaderParty	National Liberal Party (Romania)
+Lajas, Puerto Rico	leaderParty	Popular Democratic Party of Puerto Rico
+Cancún	leaderParty	Democratic Revolutionary Party
+Pontevedra	leaderParty	Galician Nationalist Bloc
+Tekirdağ	leaderParty	Republican People's Party (Turkey)
+Aiud	leaderParty	National Liberal Party (Romania)
+Vila Real Municipality	leaderParty	Social Democratic Party (Portugal)
+Benidorm	leaderParty	Spanish Socialist Workers' Party
+Aleşd	leaderParty	National Liberal Party (Romania)
+Peniche (Portugal)	leaderParty	Democratic Unity Coalition
+Errenteria	leaderParty	Bildu
+Verín	leaderParty	People's Party (Spain)
+Temuco	leaderParty	National Renewal (Chile)
+Viña del Mar	leaderParty	Independent Democrat Union
+Matosinhos Municipality	leaderParty	Socialist Party (Portugal)
+Kogi State	leaderParty	People's Democratic Party (Nigeria)
+Santa Cruz de Tenerife	leaderParty	Canarian Coalition
+Ourense	leaderParty	Socialist Party of Galicia
+Banyeres de Mariola	leaderParty	People's Party (Spain)
+León, Spain	leaderParty	People's Party
+El Escorial, Madrid	leaderParty	People's Party (Spain)
+San Lorenzo de El Escorial	leaderParty	People's Party (Spain)
+Eberswalde	leaderParty	Free Democratic Party (Germany)
+Stans	leaderParty	Free Democratic Party of Switzerland
+Caldas da Rainha	leaderParty	Social Democratic Party (Portugal)
+Slatina, Romania	leaderParty	Democratic Liberal Party (Romania)
+Gauteng	leaderParty	African National Congress
+Coyoacán	leaderParty	Party of the Democratic Revolution
+Baia Mare	leaderParty	Social Democratic Party (Romania)
+Eastern Cape	leaderParty	African National Congress
+Mpumalanga	leaderParty	African National Congress
+Western Cape	leaderParty	Democratic Alliance (South Africa)
+Gandia	leaderParty	People's Party (Spain)
+Póvoa de Varzim	leaderParty	Social Democratic Party (Portugal)
+Canóvanas, Puerto Rico	leaderParty	New Progressive Party of Puerto Rico
+Curtici	leaderParty	Social Democratic Party (Romania)
+Celanova	leaderParty	People's Party (Spain)
+Huelva	leaderParty	People's Party (Spain)
+Brăila	leaderParty	Social Democratic Party (Romania)
+Ploiești	leaderParty	Democratic Liberal Party (Romania)
+St. Julian's	leaderParty	Nationalist Party (Malta)
+Rotorua	leaderParty	New Zealand National Party
+Longyearbyen	leaderParty	Labour Party (Norway)
+Córdoba Province, Argentina	leaderParty	Justicialist Party
+Bar, Montenegro	leaderParty	Democratic Party of Socialists of Montenegro
+Focşani	leaderParty	Social Democratic Party (Romania)
+Üsküdar	leaderParty	Justice and Development Party (Turkey)
+Watford	leaderParty	Liberal Democrats
+Torrevieja	leaderParty	People's Party (Spain)
+Algeciras	leaderParty	Spanish Socialist Workers' Party
+Cavnic	leaderParty	Social Democratic Party (Romania)
+Gustavo A. Madero, D.F.	leaderParty	Party of the Democratic Revolution
+Enguera	leaderParty	People's Party (Spain)
+Santander Department	leaderParty	Colombian Liberal Party
+Sinaia	leaderParty	National Liberal Party (Romania)
+Limpopo	leaderParty	African National Congress
+Atlántico Department	leaderParty	Colombian Liberal Party
+Prenzlau	leaderParty	The Left (Germany)
+Adjuntas, Puerto Rico	leaderParty	New Progressive Party of Puerto Rico
+Târgoviște	leaderParty	Democratic Liberal Party (Romania)
+Mărăşeşti	leaderParty	National Liberal Party (Romania)
+Sibiu	leaderParty	Democratic Forum of Germans in Romania
+Târgu Mureş	leaderParty	Democratic Liberal Party (Romania)
+Ahrensburg	leaderParty	Social Democratic Party of Germany
+Magdalena Department	leaderParty	Colombian Liberal Party
+Cernavodă	leaderParty	Social Democratic Party (Romania)
+Au in der Hallertau	leaderParty	Free Voters
+Coimbra	leaderParty	Social Democratic Party (Portugal)
+Sabadell	leaderParty	Socialists' Party of Catalonia
+Haapsalu	leaderParty	Estonian Reform Party
+Valga, Estonia	leaderParty	Estonian Reform Party
+Tulcea	leaderParty	Democratic Liberal Party (Romania)
+Pitești	leaderParty	Social Democratic Party (Romania)
+Ibiza Town	leaderParty	Spanish Socialist Workers' Party
+Suceava	leaderParty	Liberal Democratic Party (Romania)
+Râmnicu Vâlcea	leaderParty	Democratic Liberal Party (Romania)
+Satu Mare	leaderParty	Democratic Union of Hungarians in Romania
+Buşteni	leaderParty	Democratic Liberal Party (Romania)
+Tabaco	leaderParty	Lakas – Christian Muslim Democrats
+Fgura	leaderParty	Labour Party (Malta)
+Banja Luka	leaderParty	Alliance of Independent Social Democrats
+Vaslui	leaderParty	Social Democratic Party (Romania)
+Nördlingen	leaderParty	Free Voters
+Jerez de la Frontera	leaderParty	Spanish Socialist Workers' Party
+Dakar Region	leaderParty	Senegalese Democratic Party
+Medgidia	leaderParty	National Liberal Party (Romania)
+Mangalia	leaderParty	Social Democratic Party (Romania)
+Isaccea	leaderParty	Democratic Liberal Party (Romania)
+Álvaro Obregón, D.F.	leaderParty	Party of the Democratic Revolution
+Azcapotzalco	leaderParty	Party of the Democratic Revolution
+Cuajimalpa	leaderParty	National Action Party (Mexico)
+Benito Juárez, D.F.	leaderParty	Partido Acción Nacional
+Cuauhtémoc, D.F.	leaderParty	Party of the Democratic Revolution
+Ávila, Spain	leaderParty	People's Party (Spain)
+Ta' Xbiex	leaderParty	Labour Party (Malta)
+Fălticeni	leaderParty	Democratic Liberal Party (Romania)
+Horezu	leaderParty	National Liberal Party (Romania)
+Villajoyosa/La Vila Joiosa	leaderParty	People's Party (Spain)
+Friedberg, Bavaria	leaderParty	Social Democratic Party of Germany
+Botoșani	leaderParty	Democratic Liberal Party (Romania)
+Alba Iulia	leaderParty	Democratic Liberal Party (Romania)
+Iztacalco	leaderParty	Party of the Democratic Revolution
+St. Gallen	leaderParty	Free Democratic Party of Switzerland
+Wartenberg, Hesse	leaderParty	Parteilos
+Ceiba, Puerto Rico	leaderParty	New Progressive Party of Puerto Rico
+Loíza, Puerto Rico	leaderParty	New Progressive Party of Puerto Rico
+San Germán, Puerto Rico	leaderParty	Popular Democratic Party of Puerto Rico
+Venustiano Carranza, D.F.	leaderParty	Party of the Democratic Revolution
+Iztapalapa, Mexico City	leaderParty	Party of the Democratic Revolution
+Vilshofen an der Donau	leaderParty	Christian Social Union of Bavaria
+Giurgiu	leaderParty	National Liberal Party (Romania)
+Buzău	leaderParty	Social Democratic Party (Romania)
+Drobeta-Turnu Severin	leaderParty	Social Democratic Party (Romania)
+Târgu Ocna	leaderParty	Democratic Liberal Party (Romania)
+Sulina	leaderParty	Democratic Liberal Party (Romania)
+Curtea de Argeș	leaderParty	Romanian Social Democratic Party (defunct)
+Olteniţa	leaderParty	People's Action (Romania)
+Râmnicu Sărat	leaderParty	National Liberal Party (Romania)
+Tecuci	leaderParty	Democratic Liberal Party (Romania)
+Dorohoi	leaderParty	Social Democratic Party (Romania)
+Calafat	leaderParty	Democratic Liberal Party (Romania)
+Drăgăşani	leaderParty	Social Democratic Party (Romania)
+Huşi	leaderParty	Social Democratic Party (Romania)
+Bârlad	leaderParty	Social Democratic Party (Romania)
+Turnu Măgurele	leaderParty	Social Democratic Party (Romania)
+Caracal, Romania	leaderParty	Social Democratic Party (Romania)
+Lugoj	leaderParty	Democratic Liberal Party (Romania)
+Călăraşi	leaderParty	National Union for the Progress of Romania
+Târgu Jiu	leaderParty	Social Democratic Party (Romania)
+Thun	leaderParty	Swiss People's Party
+Odorheiu Secuiesc	leaderParty	Democratic Union of Hungarians in Romania
+Roman, Romania	leaderParty	Democratic Liberal Party (Romania)
+Bistriţa	leaderParty	Social Democratic Party (Romania)
+Măcin	leaderParty	Social Democratic Party (Romania)
+Copşa Mică	leaderParty	National Liberal Party (Romania)
+Gurabo, Puerto Rico	leaderParty	New Progressive Party of Puerto Rico
+Mondragón	leaderParty	Eusko Abertzale Ekintza
+Llanes	leaderParty	Spanish Socialist Workers' Party
+Câmpina	leaderParty	Democratic Liberal Party (Romania)
+Vigo	leaderParty	Spanish Socialist Workers' Party
+Azuaga, Badajoz	leaderParty	People's Party (Spain)
+Alvarado, Veracruz	leaderParty	Institutional Revolutionary Party (Mexico)
+Birgu	leaderParty	Labour Party (Malta)
+Gladbeck	leaderParty	Social Democratic Party of Germany
+Miltenberg	leaderParty	Christian Social Union of Bavaria
+Lagos, Portugal	leaderParty	Portuguese Socialist Party
+Sighetu Marmaţiei	leaderParty	Social Democratic Party (Romania)
+Baia Sprie	leaderParty	National Liberal Party (Romania)
+Marbella	leaderParty	People's Party (Spain)
+Orăștie	leaderParty	Democratic Liberal Party (Romania)
+Moineşti	leaderParty	Conservative Party (Romania)
+Balş	leaderParty	Social Democratic Party (Romania)
+Luduș	leaderParty	PDL (Romania)
+Călan	leaderParty	National Liberal Party (Romania)
+Covasna	leaderParty	Democratic Union of Hungarians in Romania
+Chubut Province	leaderParty	Justicialist Party
+North West (South African province)	leaderParty	African National Congress
+Free State	leaderParty	African National Congress
+Northern Cape	leaderParty	African National Congress
+Lorca	leaderParty	People's Party (Spain)
+Castelo Branco Municipality	leaderParty	Portuguese Socialist Party
+Guarda Municipality, Portugal	leaderParty	Socialist Party (Portugal)
+Évora Municipality	leaderParty	Portuguese Socialist Party
+Portalegre Municipality	leaderParty	Social Democratic Party (Portugal)
+Viana do Castelo Municipality	leaderParty	Socialist Party (Portugal)
+Viseu	leaderParty	Social Democratic Party (Portugal)
+Großostheim	leaderParty	Christian Social Union of Bavaria
+Hösbach	leaderParty	Christian Social Union of Bavaria
+Mömbris	leaderParty	Social Democratic Party of Germany
+Heigenbrücken	leaderParty	Social Democratic Party of Germany
+Andrijevica	leaderParty	Socialist People's Party of Montenegro
+Lörrach	leaderParty	Christian Democratic Union (Germany)
+Warburg	leaderParty	Christian Democratic Union (Germany)
+Urlaţi	leaderParty	National Liberal Party (Romania)
+Bumbeşti-Jiu	leaderParty	Social Democratic Party (Romania)
+Darabani	leaderParty	Social Democratic Party (Romania)
+Beclean	leaderParty	Social Democratic Party (Romania)
+Costeşti	leaderParty	Conservative Party (Romania)
+Agnita	leaderParty	People's Action (Romania)
+Uricani	leaderParty	Conservative Party (Romania)
+Sovata	leaderParty	Democratic Union of Hungarians in Romania
+Hârlău	leaderParty	Social Democratic Party (Romania)
+Jibou	leaderParty	Social Democratic Party (Romania)
+Yabucoa, Puerto Rico	leaderParty	New Progressive Party of Puerto Rico
+Zagreb County	leaderParty	Croatian Peasant Party
+Krapina-Zagorje County	leaderParty	Social Democratic Party of Croatia
+Karlovac County	leaderParty	Croatian Democratic Union
+Sisak-Moslavina County	leaderParty	Social Democratic Party of Croatia
+Koprivnica-Križevci County	leaderParty	Croatian Peasant Party
+Bjelovar-Bilogora County	leaderParty	Croatian Peasant Party
+Zadar County	leaderParty	Croatian Democratic Union
+Vukovar-Syrmia County	leaderParty	Croatian Democratic Union
+Istria County	leaderParty	Istrian Democratic Assembly
+Lika-Senj County	leaderParty	Croatian Democratic Union
+Primorje-Gorski Kotar County	leaderParty	Social Democratic Party of Croatia
+Osijek-Baranja County	leaderParty	Croatian Democratic Alliance of Slavonia and Baranja
+Šibenik-Knin County	leaderParty	Croatian Democratic Union
+Virovitica-Podravina County	leaderParty	Croatian Democratic Union
+Požega-Slavonia County	leaderParty	Social Democratic Party of Croatia
+Split-Dalmatia County	leaderParty	Croatian Democratic Union
+Dubrovnik-Neretva County	leaderParty	Croatian Democratic Union
+Central Macedonia	leaderParty	New Democracy (Greece)
+East Macedonia and Thrace	leaderParty	Panhellenic Socialist Movement
+South Aegean Periphery	leaderParty	Panhellenic Socialist Movement
+West Greece Periphery	leaderParty	Panhellenic Socialist Movement
+North Aegean Periphery	leaderParty	Panhellenic Socialist Movement
+West Macedonia	leaderParty	New Democracy (Greece)
+Rödermark	leaderParty	Alliance '90/The Greens
+Taihape	leaderParty	New Zealand National Party
+Akwa Ibom State	leaderParty	People's Democratic Party (Nigeria)
+Mġarr	leaderParty	Nationalist Party (Malta)
+Ovidiu	leaderParty	Democratic Liberal Party (Romania)
+Moravian–Silesian Region	leaderParty	Czech Social Democratic Party
+Cabo Rojo, Puerto Rico	leaderParty	New Progressive Party of Puerto Rico
+Valenzuela, Philippines	leaderParty	Nationalist People's Coalition
+Nuwara Eliya	leaderParty	United National Party
+Oliva	leaderParty	People's Party (Spain)
+A Coruña	leaderParty	People's Party of Galicia
+Memmingen	leaderParty	Social Democratic Party of Germany
+Pinamalayan, Oriental Mindoro	leaderParty	Liberal Party (Philippines)
+Amadora	leaderParty	Portuguese Socialist Party
+Barranquitas, Puerto Rico	leaderParty	New Progressive Party of Puerto Rico
+Oliveira de Azeméis Municipality	leaderParty	Social Democratic Party (Portugal)
+Catamarca Province	leaderParty	Radical Civic Union
+Santiago del Estero Province	leaderParty	Radical Civic Union
+Santa Fe Province	leaderParty	Socialist Party (Argentina)
+San Juan Province, Argentina	leaderParty	Justicialist Party
+Birżebbuġa	leaderParty	Labour Party (Malta)
+Castelldefels	leaderParty	People's Party of Catalonia
+Tirana County	leaderParty	Democratic Party of Albania
+Santa Marta	leaderParty	Colombian Liberal Party
+Zenica	leaderParty	Party of Democratic Action
+Pforzheim	leaderParty	Social Democratic Party of Germany
+Amazonas Department	leaderParty	List of political parties in Colombia
+Arauca Department	leaderParty	Radical Change
+Cauca Department	leaderParty	Colombian Liberal Party
+Cesar Department	leaderParty	Green Party (Colombia)
+Huila Department	leaderParty	Colombian Conservative Party
+Nariño Department	leaderParty	Alternative Democratic Pole
+Risaralda Department	leaderParty	Colombian Conservative Party
+Quindío Department	leaderParty	Colombian Liberal Party
+Sucre Department	leaderParty	Social Party of National Unity
+Valle del Cauca Department	leaderParty	List of political parties in Colombia
+Archipelago of San Andrés, Providencia and Santa Catalina	leaderParty	Regional Integration Movement
+Mostar	leaderParty	Croatian Democratic Union of Bosnia and Herzegovina
+Saavedra, Chile	leaderParty	Party for Democracy
+Budva	leaderParty	Democratic Party of Socialists of Montenegro
+Óbidos, Portugal	leaderParty	Social Democratic Party (Portugal)
+Sillamäe	leaderParty	Estonian Centre Party
+Mülheim	leaderParty	Social Democratic Party of Germany
+Swieqi	leaderParty	Nationalist Party (Malta)
+Zonguldak	leaderParty	Republican People's Party (Turkey)
+Samobor	leaderParty	Croatian Peasant Party
+Zaprešić	leaderParty	Croatian Democratic Union
+Caldas Department	leaderParty	Partido Liberal
+Santa Fe, Argentina	leaderParty	Progressive, Civic and Social Front
+Rosario, Santa Fe	leaderParty	Socialist Party (Argentina)
+Rawson, Chubut	leaderParty	Justicialist Party
+Neuquén, Argentina	leaderParty	Front for Victory
+San Salvador de Jujuy	leaderParty	Radical Civic Union
+Sylhet	leaderParty	Bangladesh Awami League
+Gura Humorului	leaderParty	National Liberal Party (Romania)
+Carterton, New Zealand	leaderParty	New Zealand National Party
+Camuy, Puerto Rico	leaderParty	New Progressive Party of Puerto Rico
+Wainuiomata	leaderParty	New Zealand Labour Party
+Fürth	leaderParty	Social Democratic Party of Germany
+Ondo State	leaderParty	Labour Party (Nigeria)
+Palencia	leaderParty	Spanish Socialist Workers' Party
+Albacete	leaderParty	Spanish Socialist Workers' Party
+Lugo	leaderParty	Socialist Party of Galicia
+Lagos State	leaderParty	Action Congress of Nigeria (ACN)
+Jijona/Xixona	leaderParty	Spanish Socialist Workers' Party
+Morrinsville	leaderParty	New Zealand National Party
+Diyarbakır	leaderParty	Peace and Democracy Party
+Isabela, Puerto Rico	leaderParty	PPD
+Eketahuna	leaderParty	New Zealand National Party
+Heidesheim am Rhein	leaderParty	Christian Democratic Union (Germany)
+Aguas Buenas, Puerto Rico	leaderParty	Popular Democratic Party of Puerto Rico
+Añasco, Puerto Rico	leaderParty	Popular Democratic Party of Puerto Rico
+Aguada, Puerto Rico	leaderParty	New Progressive Party of Puerto Rico
+Arroyo, Puerto Rico	leaderParty	New Progressive Party of Puerto Rico
+Barceloneta, Puerto Rico	leaderParty	Popular Democratic Party of Puerto Rico
+Comerío, Puerto Rico	leaderParty	Popular Democratic Party of Puerto Rico
+Corozal, Puerto Rico	leaderParty	New Progressive Party of Puerto Rico
+Florida, Puerto Rico	leaderParty	New Progressive Party of Puerto Rico
+Guayanilla, Puerto Rico	leaderParty	Popular Democratic Party of Puerto Rico
+Guánica, Puerto Rico	leaderParty	Popular Democratic Party of Puerto Rico
+Hatillo, Puerto Rico	leaderParty	Popular Democratic Party of Puerto Rico
+Jayuya, Puerto Rico	leaderParty	Popular Democratic Party of Puerto Rico
+Las Marías, Puerto Rico	leaderParty	New Progressive Party of Puerto Rico
+Juncos, Puerto Rico	leaderParty	Popular Democratic Party of Puerto Rico
+Juana Díaz, Puerto Rico	leaderParty	Popular Democratic Party of Puerto Rico
+Luquillo, Puerto Rico	leaderParty	New Progressive Party of Puerto Rico
+Manatí, Puerto Rico	leaderParty	New Progressive Party of Puerto Rico
+Las Piedras, Puerto Rico	leaderParty	New Progressive Party of Puerto Rico
+Maunabo, Puerto Rico	leaderParty	Popular Democratic Party of Puerto Rico
+Moca, Puerto Rico	leaderParty	New Progressive Party of Puerto Rico
+Morovis, Puerto Rico	leaderParty	New Progressive Party of Puerto Rico
+Naranjito, Puerto Rico	leaderParty	New Progressive Party of Puerto Rico
+Orocovis, Puerto Rico	leaderParty	New Progressive Party of Puerto Rico
+Rincón, Puerto Rico	leaderParty	Popular Democratic Party of Puerto Rico
+Río Grande, Puerto Rico	leaderParty	Popular Democratic Party of Puerto Rico
+Santa Isabel, Puerto Rico	leaderParty	New Progressive Party of Puerto Rico
+San Sebastián, Puerto Rico	leaderParty	New Progressive Party of Puerto Rico
+Sabana Grande, Puerto Rico	leaderParty	Popular Democratic Party of Puerto Rico
+Toa Baja, Puerto Rico	leaderParty	New Progressive Party of Puerto Rico
+Toa Alta, Puerto Rico	leaderParty	New Progressive Party of Puerto Rico
+Trujillo Alto, Puerto Rico	leaderParty	Popular Democratic Party of Puerto Rico
+Vega Alta, Puerto Rico	leaderParty	New Progressive Party of Puerto Rico
+Utuado, Puerto Rico	leaderParty	New Progressive Party of Puerto Rico
+Villalba, Puerto Rico	leaderParty	Popular Democratic Party of Puerto Rico
+Vega Baja, Puerto Rico	leaderParty	New Progressive Party of Puerto Rico
+Yauco, Puerto Rico	leaderParty	New Progressive Party of Puerto Rico
+Birkirkara	leaderParty	Nationalist Party (Malta)
+Valledupar	leaderParty	Colombian Liberal Party
+Upington	leaderParty	African National Congress
+Delta State	leaderParty	People's Democratic Party (Nigeria)
+Novi Marof	leaderParty	Croatian People's Party – Liberal Democrats
+Loures Municipality	leaderParty	Portuguese Socialist Party
+Guimarães Municipality	leaderParty	Socialist Party (Portugal)
+Vitacura	leaderParty	National Renewal (Chile)
+Masterton	leaderParty	New Zealand National Party
+Santo Tirso Municipality	leaderParty	Socialist Party (Portugal)
+Alto Paraná Department	leaderParty	Colorado Party (Paraguay)
+Amambay Department	leaderParty	Authentic Radical Liberal Party
+Central Department	leaderParty	Authentic Radical Liberal Party
+Guairá Department	leaderParty	Colorado Party (Paraguay)
+Misiones Department	leaderParty	Authentic Radical Liberal Party
+Ñeembucú Department	leaderParty	Colorado Party (Paraguay)
+La Albuera	leaderParty	Spanish Socialist Workers' Party
+Gotha (town)	leaderParty	Social Democratic Party of Germany
+La Línea de la Concepción	leaderParty	People's Party (Spain)
+Simmern	leaderParty	Christian Democratic Union (Germany)
+Arica Province	leaderParty	Independent Democrat Union
+Province of Reggio Emilia	leaderParty	Democratic Party (Italy)
+Bucaramanga	leaderParty	Colombian Liberal Party
+Vila Nova de Famalicão Municipality	leaderParty	Social Democratic Party (Portugal)
+Vieira do Minho Municipality	leaderParty	Social Democratic Party (Portugal)
+Maia Municipality	leaderParty	PSD
+Lo Barnechea	leaderParty	National Renewal (Chile)
+Għarb	leaderParty	Nationalist Party (Malta)
+Miercurea-Ciuc	leaderParty	Democratic Union of Hungarians in Romania
+Binmaley, Pangasinan	leaderParty	Lakas Kampi CMD
+Eschwege	leaderParty	Christian Democratic Union (Germany)
+Santarém, Pará	leaderParty	Workers' Party (Brazil)
+Parral, Chile	leaderParty	List of Christian democratic parties
+Bar, Ukraine	leaderParty	Independent (politician)
+Lalín	leaderParty	Partido Popular de Galicia
+Balzan	leaderParty	Nationalist Party (Malta)
+Puerto Montt	leaderParty	Socialist Party of Chile
+Horgen	leaderParty	Swiss People's Party
+Carmona, Spain	leaderParty	Spanish Socialist Workers' Party
+Los Ángeles	leaderParty	Independent Democrat Union
+Eichstätt	leaderParty	Social Democratic Party of Germany
+Gżira	leaderParty	Labour Party (Malta)
+Xàbia	leaderParty	Valencian Nationalist Bloc
+Espinho Municipality	leaderParty	Socialist Party (Portugal)
+Santa Maria da Feira Municipality	leaderParty	Social Democratic Party (Portugal)
+São João da Madeira	leaderParty	Social Democratic Party (Portugal)
+Figueira da Foz Municipality	leaderParty	Socialist Party (Portugal)
+Sertã Municipality	leaderParty	Portuguese Socialist Party
+Tarsus, Mersin	leaderParty	Nationalist Movement Party
+Şimleu Silvaniei	leaderParty	Democratic Liberal Party (Romania)
+Cehu Silvaniei	leaderParty	Democratic Union of Hungarians in Romania
+Esplugues de Llobregat	leaderParty	Socialists' Party of Catalonia
+Pietà, Malta	leaderParty	Nationalist Party (Malta)
+Corabia	leaderParty	National Liberal Party (Romania)
+Mafra Municipality	leaderParty	Social Democratic Party (Portugal)
+Otorohanga	leaderParty	New Zealand National Party
+Sanlúcar de Barrameda	leaderParty	Spanish Socialist Workers' Party
+Victoria, Gozo	leaderParty	Nationalist Party (Malta)
+Arica	leaderParty	Independent (politician)
+Oneşti	leaderParty	Social Democratic Party (Romania)
+Abia State	leaderParty	Peoples Democratic Party
+Cross River State	leaderParty	People's Democratic Party (Nigeria)
+Seixal Municipality	leaderParty	Democratic Unity Coalition
+Soltau	leaderParty	Social Democratic Party of Germany
+Melle, Germany	leaderParty	Christian Democratic Union (Germany)
+Piding	leaderParty	Free Voters
+Beşiktaş	leaderParty	Republican People's Party (Turkey)
+Turda	leaderParty	Democratic Liberal Party (Romania)
+Enna	leaderParty	Democratic Party (Italy)
+Gospić	leaderParty	Croatian Democratic Union
+Quartell	leaderParty	People's Party (Spain)
+Xanten	leaderParty	Christian Democratic Union (Germany)
+Senglea	leaderParty	Labour Party (Malta)
+Alanya	leaderParty	Justice and Development Party (Turkey)
+Shenkeng District	leaderParty	Kuomintang
+Abrud	leaderParty	Democratic Liberal Party (Romania)
+Yuanlin, Changhua	leaderParty	Kuomintang
+Plasencia	leaderParty	Spanish Socialist Workers' Party
+Burgo de Osma-Ciudad de Osma, Soria	leaderParty	People's Party (Spain)
+Alcoutim Municipality	leaderParty	Social Democratic Party (Portugal)
+Castro Marim Municipality	leaderParty	Social Democratic Party (Portugal)
+Ponte de Lima Municipality	leaderParty	Democratic and Social Centre – People's Party
+Füssen	leaderParty	Social Democratic Party of Germany
+Sousel Municipality	leaderParty	Social Democratic Party (Portugal)
+Siġġiewi	leaderParty	Nationalist Party (Malta)
+Rabat, Malta	leaderParty	Labour Party (Malta)
+Province of Bologna	leaderParty	Democratic Party (Italy)
+Talavera de la Reina	leaderParty	Spanish Socialist Workers' Party
+Province of Venice	leaderParty	Lega Nord
+Province of Terni	leaderParty	Democratic Party (Italy)
+Province of Perugia	leaderParty	Democratic Party (Italy)
+Lenzburg	leaderParty	Free Democratic Party of Switzerland
+Fürstenfeldbruck	leaderParty	Christian Social Union of Bavaria
+Ronda	leaderParty	Spanish Socialist Workers' Party
+Mosta	leaderParty	Labour Party (Malta)
+Bad Abbach	leaderParty	Free Voters
+Almeida Municipality	leaderParty	Social Democratic Party (Portugal)
+Espírito Santo do Pinhal	leaderParty	Progressive Party (Brazil)
+Province of Brescia	leaderParty	Lega Nord
+Province of Lecco	leaderParty	The People of Freedom
+Province of Mantua	leaderParty	Democratic Party (Italy)
+Gavião Municipality	leaderParty	Portuguese Socialist Party
+Congosto	leaderParty	People's Party (Spain)
+Ferrol, Galicia	leaderParty	Socialist Party of Galicia
+Palmela Municipality	leaderParty	Democratic Unity Coalition
+Tomar Municipality	leaderParty	Social Democratic Party (Portugal)
+Bran, Braşov	leaderParty	Social Democratic Party (Romania)
+Motru	leaderParty	Social Democratic Party (Romania)
+Carei	leaderParty	Democratic Union of Hungarians in Romania
+Sfântu Gheorghe	leaderParty	Democratic Union of Hungarians in Romania
+Târnăveni	leaderParty	Democratic-Liberal Party (Romania)
+Zalău	leaderParty	National Liberal Party (Romania)
+Dej	leaderParty	Social Democratic Party (Romania)
+Siegen	leaderParty	Christian Democratic Union (Germany)
+Concordia, Entre Ríos	leaderParty	Justicialist Party
+Boal	leaderParty	Spanish Socialist Workers' Party
+Buhuşi	leaderParty	Social Democratic Party (Romania)
+Bingen am Rhein	leaderParty	Christian Democratic Union (Germany)
+Avilés	leaderParty	Spanish Socialist Workers' Party
+Corvera de Asturias	leaderParty	Unión Social y Progresista de Corvera
+Mieres, Asturias	leaderParty	Spanish Socialist Workers' Party
+Quilicura	leaderParty	Independent (politician)
+Petroşani	leaderParty	Democratic Liberal Party (Romania)
+Providencia, Chile	leaderParty	Independent Democrat Union
+Plauen	leaderParty	Free Democratic Party (Germany)
+Jimbolia	leaderParty	Democratic Union of Hungarians in Romania
+Paşcani	leaderParty	National Liberal Party (Romania)
+Mioveni	leaderParty	Social Democratic Party (Romania)
+Reghin	leaderParty	Democratic Union of Hungarians in Romania
+Scorniceşti	leaderParty	Social Democratic Party (Romania)
+La Serena, Chile	leaderParty	Socialist Party of Chile
+Siero	leaderParty	Spanish Socialist Workers' Party
+Sancti-Spíritus, Salamanca	leaderParty	People's Party (Spain)
+Bad Bramstedt	leaderParty	Free Democratic Party (Germany)
+Alta Gracia	leaderParty	Radical Civic Union
+Volkach	leaderParty	Free Voters
+Pinhel Municipality	leaderParty	Social Democratic Party (Portugal)
+Polillo, Quezon	leaderParty	Liberal Party (Philippines)
+Blaj	leaderParty	Democratic Liberal Party (Romania)
+Aba, Abia	leaderParty	People's Democratic Party (Nigeria)
+Talcahuano	leaderParty	Independent (politician)
+Doberlug-Kirchhain	leaderParty	Free Democratic Party (Germany)
+Driel	leaderParty	People's Party for Freedom and Democracy
+Puerto Madryn	leaderParty	Justicialist Party
+Urziceni	leaderParty	National Liberal Party (Romania)
+Vatra Dornei	leaderParty	National Liberal Party (Romania)
+Rondebosch	leaderParty	Democratic Alliance (South Africa)
+Ennetbaden	leaderParty	Free Democratic Party of Switzerland
+Ílhavo Municipality	leaderParty	Social Democratic Party (Portugal)
+Illapel	leaderParty	Independent (politician)
+Illapel	leaderParty	Juntos Podemos Más
+Năvodari	leaderParty	Social Democratic Party (Romania)
+Fetești	leaderParty	National Liberal Party (Romania)
+Lupeni	leaderParty	Social Democratic Party (Romania)
+Vulcan, Hunedoara	leaderParty	Conservative Party (Romania)
+Moreni	leaderParty	Social Democratic Party (Romania)
+Kāwhia Harbour	leaderParty	New Zealand National Party
+Zimnicea	leaderParty	Social Democratic Party (Romania)
+Beiuș	leaderParty	National Liberal Party (Romania)
+Gombe State	leaderParty	People's Democratic Party (Nigeria)
+Tui, Pontevedra	leaderParty	Galician People's Party
+Wunsiedel	leaderParty	Christian Social Union of Bavaria
+Tarxien	leaderParty	Labour Party (Malta)
+Bicaz	leaderParty	Democratic Liberal Party (Romania)
+Sebeș	leaderParty	Social Democratic Party (Romania)
+Târgu Neamţ	leaderParty	Democratic Liberal Party (Romania)
+Hârşova	leaderParty	Democratic Liberal Party (Romania)
+Tăşnad	leaderParty	Democratic Union of Hungarians in Romania
+Negreşti-Oaş	leaderParty	Social Democratic Party (Romania)
+Irun	leaderParty	Socialist Party of the Basque Country – Basque Country Left
+Gherla	leaderParty	Democratic Liberal Party (Romania)
+Adjud	leaderParty	Social Democratic Party (Romania)
+Săcele	leaderParty	Democratic Liberal Party (Romania)
+Zărneşti	leaderParty	Social Democratic Party (Romania)
+Geoagiu	leaderParty	Social Democratic Party (Romania)
+Avrig	leaderParty	Democratic Forum of Germans in Romania
+Altenstadt an der Waldnaab	leaderParty	Social Democratic Party of Germany
+Marinha Grande Municipality	leaderParty	Socialist Party
+Essingen	leaderParty	Parteilos
+Benigembla	leaderParty	Valencian Nationalist Bloc
+Voluntari	leaderParty	Social Democratic Party (Romania)
+Crevillent	leaderParty	People's Party (Spain)
+Almeirim Municipality	leaderParty	Portuguese Socialist Party
+Province of Siena	leaderParty	Democratic Party (Italy)
+Ismaning	leaderParty	FWG
+Panciu	leaderParty	Social Democratic Party (Romania)
+Alzira, Valencia	leaderParty	People's Party (Spain)
+Cugir	leaderParty	National Liberal Party (Romania)
+Câmpia Turzii	leaderParty	Democratic Liberal Party (Romania)
+Petrila	leaderParty	Social Democratic Party (Romania)
+Salonta	leaderParty	Democratic Union of Hungarians in Romania
+Câmpulung Moldovenesc	leaderParty	National Liberal Party (Romania)
+Victoria, Braşov	leaderParty	Democratic Liberal Party (Romania)
+Murfatlar	leaderParty	Democratic Liberal Party (Romania)
+Borșa	leaderParty	National Liberal Party (Romania)
+Breaza	leaderParty	Social Democratic Party (Romania)
+Arouca Municipality	leaderParty	Socialist Party (Portugal)
+Tolosa, Spain	leaderParty	Bildu
+Eforie	leaderParty	Social Democratic Party (Romania)
+Strehaia	leaderParty	National Liberal Party (Romania)
+Marghita	leaderParty	Democratic Liberal Party (Romania)
+Quesada, Spain	leaderParty	Spanish Socialist Workers' Party
+Lahr	leaderParty	Social Democratic Party of Germany
+Vişeu de Sus	leaderParty	Conservative Party (Romania)
+Ianca	leaderParty	Social Democratic Party (Romania)
+Topoloveni	leaderParty	Social Democratic Party (Romania)
+Comăneşti	leaderParty	National Liberal Party (Romania)
+Techirghiol	leaderParty	National Liberal Party (Romania)
+Băicoi	leaderParty	PDL
+Braunlage	leaderParty	Social Democratic Party of Germany
+Târgu Secuiesc	leaderParty	MPP
+Gheorgheni	leaderParty	Hungarian Civic Party (Romania)
+Filiaşi	leaderParty	National Liberal Party (Romania)
+Negru Vodă, Constanţa	leaderParty	Social Democratic Party (Romania)
+Gütersloh	leaderParty	Social Democratic Party of Germany
+Höxter	leaderParty	Social Democratic Party of Germany
+Überlingen	leaderParty	Christian Democratic Union (Germany)
+Birkenfeld	leaderParty	Christian Democratic Union (Germany)
+Bad Dürkheim	leaderParty	Christian Democratic Union (Germany)
+Altötting	leaderParty	Free Voters
+Federal Capital Territory (Nigeria)	leaderParty	People's Democratic Party (Nigeria)
+Valdemorillo	leaderParty	People's Party (Spain)
+Żurrieq	leaderParty	Labour Party (Malta)
+Kelheim	leaderParty	FWG
+Kronach	leaderParty	Free Voters
+Heidenheim an der Brenz	leaderParty	Christian Democratic Union (Germany)
+Osterode am Harz	leaderParty	Parteilos
+Cârţa, Harghita	leaderParty	Democratic Union of Hungarians in Romania
+Province of Florence	leaderParty	Democratic Party (Italy)
+St. Paul's Bay	leaderParty	Nationalist Party (Malta)
+Villarreal	leaderParty	People's Party (Spain)
+Muğla	leaderParty	Republican People's Party (Turkey)
+Silla, Valencia	leaderParty	Spanish Socialist Workers' Party
+Bad Wörishofen	leaderParty	Christian Social Union of Bavaria
+Hockenheim	leaderParty	Social Democratic Party of Germany
+Calatayud	leaderParty	Spanish Socialist Workers' Party
+Maardu	leaderParty	Estonian United Left Party
+Teslić	leaderParty	Alliance of Independent Social Democrats
+Żebbuġ, Gozo	leaderParty	Nationalist Party (Malta)
+Ebersberg	leaderParty	Christian Social Union of Bavaria
+Deggendorf	leaderParty	Christian Social Union of Bavaria
+Usingen	leaderParty	Christian Democratic Union (Germany)
+Neustadt an der Waldnaab	leaderParty	Christian Social Union of Bavaria
+Punta del Este	leaderParty	National Party (Uruguay)
+Sangerhausen	leaderParty	The Left (Germany)
+Sankt Wendel	leaderParty	Christian Democratic Union (Germany)
+Esquel	leaderParty	Justicialist Party
+Rakvere	leaderParty	Estonian Reform Party
+Gumaca, Quezon	leaderParty	Lakas Kampi CMD
+Żejtun	leaderParty	Labour Party (Malta)
+Kulmbach	leaderParty	Christian Social Union of Bavaria
+Donaueschingen	leaderParty	Christian Democratic Union (Germany)
+Novaci, Romania	leaderParty	Social Democratic Party (Romania)
+Province of Naples	leaderParty	The People of Freedom
+La Reina	leaderParty	National Renewal (Chile)
+Las Condes	leaderParty	Independent Democrat Union
+Halle, North Rhine-Westphalia	leaderParty	Social Democratic Party of Germany
+Maipú, Chile	leaderParty	List of Christian democratic parties
+Vinhais	leaderParty	Socialist Party (Portugal)
+Ogun State	leaderParty	Action Congress of Nigeria (ACN)
+Lo Espejo	leaderParty	List of Christian democratic parties
+Province of Milan	leaderParty	The People of Freedom
+Province of Pavia	leaderParty	Democratic Party (Italy)
+Province of Sondrio	leaderParty	Lega Nord
+Province of Pesaro and Urbino	leaderParty	Democratic Party (Italy)
+Province of Sassari	leaderParty	Democratic Party (Italy)
+Province of Arezzo	leaderParty	Democratic Party (Italy)
+Province of Pisa	leaderParty	Democratic Party (Italy)
+Trentino	leaderParty	Union for Trentino
+Nordhorn	leaderParty	Social Democratic Party of Germany
+Cisnădie	leaderParty	Democratic Forum of Germans in Romania
+Geretsried	leaderParty	Free Voters
+Geretsried	leaderParty	Social Democratic Party of Germany
+Altea	leaderParty	Spanish Socialist Workers' Party
+Orihuela	leaderParty	People's Party (Spain)
+Safi, Malta	leaderParty	Nationalist Party (Malta)
+Villena	leaderParty	Los Verdes de Europa
+Kohtla-Järve	leaderParty	Estonian Centre Party
+Kempten (Allgäu)	leaderParty	Christian Social Union of Bavaria
+Mizil	leaderParty	Conservative Party (Romania)
+Friedrichsdorf	leaderParty	Alliance '90/The Greens
+Manacor	leaderParty	People's Party (Spain)
+San Pedro del Pinatar, Spain	leaderParty	Spanish Socialist Workers' Party
+Amieva	leaderParty	Spanish Socialist Workers' Party
+Pirmasens	leaderParty	Christian Democratic Union (Germany)
+Pombal Municipality	leaderParty	Social Democratic Party (Portugal)
+Lija	leaderParty	Nationalist Party (Malta)
+Knysna Local Municipality	leaderParty	African National Congress
+George Local Municipality	leaderParty	Democratic Alliance (South Africa)
+Stellenbosch Local Municipality	leaderParty	Democratic Alliance (South Africa)
+Mossel Bay Local Municipality	leaderParty	Democratic Alliance (South Africa)
+Witzenberg Local Municipality	leaderParty	Democratic Alliance (South Africa)
+Bitou Local Municipality	leaderParty	African National Congress
+West Coast District Municipality	leaderParty	Democratic Alliance (South Africa)
+Langeberg Local Municipality	leaderParty	African National Congress
+Oudtshoorn Local Municipality	leaderParty	Democratic Alliance (South Africa)
+Overstrand Local Municipality	leaderParty	Democratic Alliance (South Africa)
+Drakenstein Local Municipality	leaderParty	African National Congress
+Bergrivier Local Municipality	leaderParty	Democratic Alliance (South Africa)
+Breede Valley Local Municipality	leaderParty	African National Congress
+Cape Winelands District Municipality	leaderParty	National People's Party (South Africa)
+Cape Agulhas Local Municipality	leaderParty	African National Congress
+Cederberg Local Municipality	leaderParty	Democratic Alliance (South Africa)
+Central Karoo District Municipality	leaderParty	African National Congress
+Laingsburg Local Municipality	leaderParty	Democratic Alliance (South Africa)
+Saldanha Bay Local Municipality	leaderParty	Democratic Alliance
+Matzikama Local Municipality	leaderParty	Independent Democrats
+Swellendam Local Municipality	leaderParty	Independent Democrats
+Swartland Local Municipality	leaderParty	Democratic Alliance (South Africa)
+Theewaterskloof Local Municipality	leaderParty	Democratic Alliance (South Africa)
+Roding, Germany	leaderParty	Christian Social Union of Bavaria
+Torres Vedras	leaderParty	Socialist Party (Portugal)
+Laredo, Cantabria	leaderParty	Regionalist Party of Cantabria
+Uplengen	leaderParty	Christian Democratic Union (Germany)
+Álora	leaderParty	Spanish Socialist Workers' Party
+Órgiva	leaderParty	Spanish Socialist Workers' Party
+Camps Bay	leaderParty	Democratic Alliance (South Africa)
+Móstoles	leaderParty	People's Party (Spain)
+Calp	leaderParty	Valencian Nationalist Bloc
+Munster, Lower Saxony	leaderParty	CDU
+Bomlitz	leaderParty	Social Democratic Party of Germany
+Ibi, Spain	leaderParty	People's Party (Spain)
+Pechersk, Kiev	leaderParty	Our Ukraine–People's Self-Defense Bloc
+Cocentaina	leaderParty	Spanish Socialist Workers' Party
+Castalla	leaderParty	Spanish Socialist Workers' Party
+Rüsselsheim	leaderParty	Social Democratic Party of Germany
+Biar	leaderParty	People's Party (Spain)
+Sliema	leaderParty	Nationalist Party (Malta)
+Bad Tölz	leaderParty	Christian Social Union of Bavaria
+Adamclisi	leaderParty	Liberal Democratic Party (Romania)
+Găeşti	leaderParty	Social Democratic Party (Romania)
+Waldbröl	leaderParty	Christian Democratic Union (Germany)
+Vicuña, Chile	leaderParty	Independent (politician)
+Râşnov	leaderParty	National Liberal Party (Romania)
+Mdina	leaderParty	Nationalist Party (Malta)
+Qormi	leaderParty	Labour Party (Malta)
+Salzkotten	leaderParty	Christian Democratic Union (Germany)
+Úbeda	leaderParty	Spanish Socialist Workers' Party
+Kalkara	leaderParty	Labour Party (Malta)
+Antequera	leaderParty	Spanish Socialist Workers' Party
+Făget	leaderParty	Democratic Liberal Party (Romania)
+Jüterbog	leaderParty	FDP
+Mount Frere	leaderParty	African National Congress
+Albatera	leaderParty	People's Party (Spain)
+Ñuñoa	leaderParty	National Renewal (Chile)
+Catral	leaderParty	People's Party (Spain)
+Almoradí	leaderParty	People's Party (Spain)
+Benejúzar	leaderParty	People's Party (Spain)
+Benicàssim	leaderParty	Spanish Socialist Workers' Party
+Dingli	leaderParty	Labour Party (Malta)
+Aarberg	leaderParty	Free Democratic Party of Switzerland
+Kommetjie	leaderParty	Democratic Alliance (South Africa)
+Sea Point	leaderParty	Democratic Alliance (South Africa)
+Coihaique	leaderParty	Independent Democrat Union
+Bichl	leaderParty	Free Voters
+L'Alfàs del Pi	leaderParty	Spanish Socialist Workers' Party
+Beniardà	leaderParty	People's Party (Spain)
+Lutter am Barenberge	leaderParty	Social Democratic Party of Germany
+San Ġwann	leaderParty	Nationalist Party (Malta)
+Benifato	leaderParty	People's Party (Spain)
+Benimantell	leaderParty	Spanish Socialist Workers' Party
+Bolulla	leaderParty	Spanish Socialist Workers' Party
+Callosa d'En Sarrià	leaderParty	People's Party (Spain)
+Zvornik	leaderParty	Alliance of Independent Social Democrats
+Niger State	leaderParty	People's Democratic Party (Nigeria)
+Plateau State	leaderParty	People's Democratic Party (Nigeria)
+San Fernando, Cádiz	leaderParty	Andalusian Party
+Overberg District Municipality	leaderParty	Democratic Alliance (South Africa)
+Comillas	leaderParty	Regionalist Party of Cantabria
+Homberg (Efze)	leaderParty	Christian Democratic Union (Germany)
+Forchheim	leaderParty	Christian Social Union of Bavaria
+El Puerto de Santa María	leaderParty	People's Party (Spain)
+Frauenfeld	leaderParty	Free Democratic Party of Switzerland
+Elvas Municipality	leaderParty	Socialist Party (Portugal)
+Bernkastel-Kues	leaderParty	Christian Democratic Union (Germany)
+Paola, Malta	leaderParty	Labour Party (Malta)
+Benavente Municipality	leaderParty	Democratic Unity Coalition
+Constância Municipality	leaderParty	Democratic Unity Coalition
+Aljustrel Municipality	leaderParty	People's Party
+Almodôvar Municipality	leaderParty	Social Democratic Party (Portugal)
+Barrancos Municipality	leaderParty	Democratic Unity Coalition
+Serpa Municipality	leaderParty	Democratic Unity Coalition
+Ourique Municipality	leaderParty	Portuguese Socialist Party
+Vidigueira Municipality	leaderParty	Democratic Unity Coalition
+Odemira Municipality	leaderParty	Portuguese Socialist Party
+Moura Municipality	leaderParty	Democratic Unity Coalition
+Ferreira do Alentejo Municipality	leaderParty	Portuguese Socialist Party
+Mértola Municipality	leaderParty	Portuguese Socialist Party
+Cuba Municipality	leaderParty	Portuguese Socialist Party
+Arraiolos Municipality	leaderParty	Democratic Unity Coalition
+Borba Municipality, Portugal	leaderParty	Portuguese Socialist Party
+Estremoz Municipality	leaderParty	Independent (politician)
+Río Cuarto, Córdoba	leaderParty	Civic Coalition ARI
+Castelo de Paiva Municipality	leaderParty	Social Democratic Party (Portugal)
+Estarreja Municipality	leaderParty	Social Democratic Party (Portugal)
+Mealhada Municipality	leaderParty	Socialist Party (Portugal)
+Murtosa Municipality	leaderParty	Social Democratic Party (Portugal)
+Ovar Municipality	leaderParty	Socialist Party (Portugal)
+Oliveira do Bairro Municipality	leaderParty	Social Democratic Party (Portugal)
+Vale de Cambra Municipality	leaderParty	Social Democratic Party (Portugal)
+Vagos Municipality	leaderParty	Social Democratic Party (Portugal)
+Sever do Vouga Municipality	leaderParty	Socialist Party (Portugal)
+Cristuru Secuiesc	leaderParty	Democratic Union of Hungarians in Romania
+Vlăhiţa	leaderParty	Democratic Union of Hungarians in Romania
+Băile Tuşnad	leaderParty	Fidesz
+Borsec	leaderParty	Independent (politician)
+Atid	leaderParty	Democratic Union of Hungarians in Romania
+Montemor-o-Novo Municipality	leaderParty	Democratic Unity Coalition
+Mora Municipality, Portugal	leaderParty	Democratic Unity Coalition
+Mourão Municipality	leaderParty	Portuguese Socialist Party
+Vendas Novas Municipality	leaderParty	Democratic Unity Coalition
+Reguengos de Monsaraz Municipality	leaderParty	Portuguese Socialist Party
+Portel Municipality, Portugal	leaderParty	Portuguese Socialist Party
+Viana do Alentejo Municipality	leaderParty	Democratic Unity Coalition
+Vila Viçosa Municipality	leaderParty	Democratic Unity Coalition
+Alpiarça Municipality	leaderParty	Christian Democratic Union (Germany)
+Fuendetodos	leaderParty	Spanish Socialist Workers' Party
+Kadıköy	leaderParty	Republican People's Party (Turkey)
+Getafe	leaderParty	People's Party
+Cartaxo Municipality	leaderParty	Portuguese Socialist Party
+Chamusca Municipality	leaderParty	Democratic Unity Coalition
+Coruche	leaderParty	Portuguese Socialist Party
+Entroncamento Municipality	leaderParty	Social Democratic Party (Portugal)
+Ferreira do Zêzere Municipality	leaderParty	Social Democratic Party (Portugal)
+Golegã Municipality	leaderParty	Socialist Party (Portugal)
+Mação Municipality	leaderParty	Social Democratic Party (Portugal)
+Ourém Municipality	leaderParty	Socialist Party (Portugal)
+Rio Maior Municipality	leaderParty	Democratic-PSD (Portugal)
+Salvaterra de Magos Municipality	leaderParty	Left Bloc
+Sardoal Municipality	leaderParty	Social Democratic Party (Portugal)
+Vila Nova da Barquinha Municipality	leaderParty	Portuguese Socialist Party
+Torres Novas Municipality	leaderParty	Portuguese Socialist Party
+Germersheim	leaderParty	Christian Democratic Union (Germany)
+Ocna Mureș	leaderParty	Christian-Democratic National Peasants' Party (Romania)
+Region of Southern Denmark	leaderParty	Venstre (Denmark)
+Cordillera Province, Chile	leaderParty	Christian Democrat Party of Chile
+Thurnau	leaderParty	Social Democratic Party of Germany
+Aholming	leaderParty	Christian Social Union of Bavaria
+Uetendorf	leaderParty	Social Democratic Party of Switzerland
+Siret	leaderParty	National Liberal Party (Romania)
+Alcochete Municipality	leaderParty	Democratic Unity Coalition
+Barreiro Municipality	leaderParty	Democratic Unity Coalition
+Grândola Municipality	leaderParty	Portuguese Socialist Party
+Moita Municipality	leaderParty	Democratic Unity Coalition
+Montijo Municipality	leaderParty	Portuguese Socialist Party
+Santiago do Cacém Municipality	leaderParty	Democratic Unity Coalition
+Sesimbra Municipality	leaderParty	Democratic Unity Coalition
+Harku Parish	leaderParty	Union of Pro Patria and Res Publica
+Gudja	leaderParty	Labour Party (Malta)
+Għargħur	leaderParty	Nationalist Party (Malta)
+Kirkop	leaderParty	Labour Party (Malta)
+Ħamrun	leaderParty	Labour Party (Malta)
+Marsa, Malta	leaderParty	Labour Party (Malta)
+Naxxar	leaderParty	Nationalist Party (Malta)
+Santa Venera	leaderParty	Nationalist Party (Malta)
+Albufeira Municipality	leaderParty	Social Democratic Party (Portugal)
+Sobral de Monte Agraço Municipality	leaderParty	Democratic Unity Coalition
+Popeşti-Leordeni	leaderParty	National Liberal Party (Romania)
+Portugalete	leaderParty	Socialist Party of the Basque Country – Basque Country Left
+Teguise, Las Palmas	leaderParty	Canarian Coalition
+Avis Municipality	leaderParty	Democratic Unity Coalition
+Alter do Chão Municipality	leaderParty	Social Democratic Party (Portugal)
+Alter do Chão Municipality	leaderParty	Democratic and Social Centre – People's Party
+Arronches Municipality	leaderParty	Portuguese Socialist Party
+Nădlac	leaderParty	Democratic Liberal Party (Romania)
+Tías, Las Palmas	leaderParty	Spanish Socialist Workers' Party
+San Luis, Argentina	leaderParty	Justicialist Party
+Werneuchen	leaderParty	The Left (Germany)
+Michelstadt	leaderParty	Free Voters
+Ebonyi State	leaderParty	People's Democratic Party (Nigeria)
+Province of Monza and Brianza	leaderParty	The People of Freedom
+Tordesillas	leaderParty	People's Party (Spain)
+Villasis, Pangasinan	leaderParty	Liberal Party (Philippines)
+Frutillar	leaderParty	Socialist Party of Chile
+Simon's Town	leaderParty	Democratic Alliance (South Africa)
+El Campello	leaderParty	People's Party (Spain)
+Province of Fermo	leaderParty	Left Ecology Freedom
+Trevélez	leaderParty	Spanish Socialist Workers' Party
+Rivers State	leaderParty	People's Democratic Party (Nigeria)
+Baia de Aramă	leaderParty	New Democracy Party (Romania)
+Fundulea	leaderParty	Social Democratic Party (Romania)
+Săveni	leaderParty	National Liberal Party (Romania)
+Aninoasa	leaderParty	Social Democratic Party (Romania)
+Azuga	leaderParty	Social Democratic Party (Romania)
+Bissendorf	leaderParty	Parteilos
+Buchbrunn	leaderParty	Freie Wählergruppe
+La Tahá	leaderParty	Spanish Socialist Workers' Party
+Olhão Municipality	leaderParty	Portuguese Socialist Party
+Loulé Municipality	leaderParty	Social Democratic Party (Portugal)
+Cabrales	leaderParty	Spanish Socialist Workers' Party
+Bubión	leaderParty	People's Party (Spain)
+Bad Liebenzell	leaderParty	Social Democratic Party of Germany
+Port Elizabeth	leaderParty	African National Congress
+Taraba State	leaderParty	People's Democratic Party (Nigeria)
+Guayama, Puerto Rico	leaderParty	New Progressive Party of Puerto Rico
+Vilseck	leaderParty	Free Voters
+Sankt Goar	leaderParty	Christian Democratic Union (Germany)
+Overath	leaderParty	Christian Democratic Union (Germany)
+Serodino	leaderParty	Justicialist Party
+Żebbuġ, Malta	leaderParty	Labour Party (Malta)
+Hövelhof	leaderParty	Christian Democratic Union (Germany)
+Danao, Cebu	leaderParty	Nationalist People's Coalition
+Chiniot	leaderParty	Korea National League
+Quebradillas, Puerto Rico	leaderParty	Popular Democratic Party of Puerto Rico
+Cerrillos, Chile	leaderParty	National Renewal (Chile)
+Conchalí	leaderParty	National Renewal (Chile)
+Cerro Navia	leaderParty	National Renewal (Chile)
+Huechuraba	leaderParty	Independent (politician)
+Independencia, Chile	leaderParty	National Renewal (Chile)
+La Cisterna	leaderParty	Party for Democracy
+San Ramón, Chile	leaderParty	List of Christian democratic parties
+La Granja, Chile	leaderParty	List of Christian democratic parties
+La Pintana	leaderParty	Party for Democracy
+Lo Prado	leaderParty	Party for Democracy
+Macul	leaderParty	List of Christian democratic parties
+Pedro Aguirre Cerda, Chile	leaderParty	Communist Party of Chile
+Pudahuel	leaderParty	Socialist Party of Chile
+Peñalolén	leaderParty	List of Christian democratic parties
+Quinta Normal	leaderParty	List of Christian democratic parties
+Recoleta, Chile	leaderParty	Independent Democrat Union
+Renca	leaderParty	Independent Democrat Union
+San Joaquín	leaderParty	Party for Democracy
+San Miguel, Chile	leaderParty	Socialist Party of Chile
+Carcaixent	leaderParty	People's Party (Spain)
+Vila Velha de Ródão Municipality	leaderParty	Portuguese Socialist Party
+Slunj	leaderParty	Croatian Democratic Union
+Santa Luċija	leaderParty	Partit Laburista(PL)
+Baumholder	leaderParty	Social Democratic Party of Germany
+Bad Harzburg	leaderParty	Alliance '90/The Greens
+Polangui, Albay	leaderParty	Lakas Kampi CMD
+Basista, Pangasinan	leaderParty	Lakas Kampi CMD
+Bani, Pangasinan	leaderParty	Liberal Party (Philippines)
+Bayambang, Pangasinan	leaderParty	Nationalist People's Coalition
+Bautista, Pangasinan	leaderParty	Nationalist People's Coalition
+Binalonan, Pangasinan	leaderParty	Lakas Kampi CMD
+Bugallon, Pangasinan	leaderParty	Lakas Kampi CMD
+Bolinao, Pangasinan	leaderParty	Lakas Kampi CMD
+Puente Genil	leaderParty	United Left (Spain)
+Motril	leaderParty	People's Party (Spain)
+Zăbala	leaderParty	Democratic Union of Hungarians in Romania
+Martos	leaderParty	Andalusian Party
+Satu Mare, Harghita	leaderParty	Democratic Union of Hungarians in Romania
+Županja	leaderParty	Croatian Democratic Union
+Zafarraya	leaderParty	Spanish Socialist Workers' Party
+Alcázar de San Juan	leaderParty	Spanish Socialist Workers' Party
+Silivri	leaderParty	Republican People's Party (Turkey)
+Silivri	leaderParty	Republican People's Party (Turkey)
+Boac, Marinduque	leaderParty	Lakas Kampi CMD
+Gasan, Marinduque	leaderParty	Alliance for Barangay Concerns
+Gasan, Marinduque	leaderParty	Lakas Kampi CMD
+Santa Cruz, Marinduque	leaderParty	Lakas Kampi CMD
+Msida	leaderParty	Labour Party (Malta)
+Nasugbu, Batangas	leaderParty	Lakas – Christian Muslim Democrats
+Calbayog	leaderParty	Lakas Kampi CMD
+Kano State	leaderParty	People's Democratic Party (Nigeria)
+Costineşti	leaderParty	Democratic Liberal Party (Romania)
+Lloret de Mar	leaderParty	Convergence and Union
+Baao, Camarines Sur	leaderParty	Lakas Kampi CMD
+Pola, Oriental Mindoro	leaderParty	Lakas Kampi CMD
+Yobe State	leaderParty	All Nigeria Peoples Party
+Pulilan, Bulacan	leaderParty	Liberal Party (Philippines)
+Tukuran, Zamboanga del Sur	leaderParty	Lakas Kampi CMD
+Durango, Biscay	leaderParty	Basque Nationalist Party
+Mati, Davao Oriental	leaderParty	Lakas Kampi CMD
+Vila Franca de Xira Municipality	leaderParty	Portuguese Socialist Party
+Calauag, Quezon	leaderParty	Liberal Party (Philippines)
+Juviles	leaderParty	People's Party (Spain)
+Wil	leaderParty	Christian Democratic People's Party of Switzerland
+Offenburg	leaderParty	Christian Democratic Union (Germany)
+Pinelands, Cape Town	leaderParty	Democratic Alliance (South Africa)
+Simbach am Inn	leaderParty	Unabhängige Simbacher Bürgerliste
+Schorndorf	leaderParty	Social Democratic Party of Germany
+Edo State	leaderParty	Action Congress of Nigeria (ACN)
+Bauchi State	leaderParty	People's Democratic Party (Nigeria)
+Borno State	leaderParty	All Nigeria Peoples Party
+Jigawa State	leaderParty	People's Democratic Party (Nigeria)
+Kaduna State	leaderParty	People's Democratic Party (Nigeria)
+Katsina State	leaderParty	People's Democratic Party (Nigeria)
+Enugu State	leaderParty	People's Democratic Party (Nigeria)
+Kwara State	leaderParty	People's Democratic Party (Nigeria)
+Kebbi State	leaderParty	People's Democratic Party (Nigeria)
+Osun State	leaderParty	Action Congress of Nigeria (ACN)
+Sokoto State	leaderParty	People's Democratic Party (Nigeria)
+Oyo State	leaderParty	Action Congress of Nigeria (ACN)
+Zamfara State	leaderParty	All Nigeria Peoples Party
+Puerto Varas	leaderParty	Independent Democrat Union
+City of Johannesburg Metropolitan Municipality	leaderParty	African National Congress
+Hațeg	leaderParty	National Liberal Party (Romania)
+Villa Constitución	leaderParty	Socialist Party (Argentina)
+Chitila	leaderParty	National Liberal Party (Romania)
+Bad Reichenhall	leaderParty	Christian Social Union of Bavaria
+Guadix	leaderParty	People's Party (Spain)
+EThekwini	leaderParty	African National Congress
+George, Western Cape	leaderParty	Independent Democrats
+Basavilbaso	leaderParty	Justicialist Party
+Ensenada Municipality, Baja California	leaderParty	National Action Party (Mexico)
+Benicarló	leaderParty	People's Party (Spain)
+Eskişehir	leaderParty	Republican People's Party (Turkey)
+Las Rozas de Madrid	leaderParty	People's Party (Spain)
+Lauf an der Pegnitz	leaderParty	Alliance '90/The Greens
+Stegaurach	leaderParty	Christian Social Union of Bavaria
+Ţăndărei	leaderParty	Social Democratic Party (Romania)
+Baza, Granada	leaderParty	Spanish Socialist Workers' Party
+Teiuş	leaderParty	Democratic Liberal Party (Romania)
+Segarcea	leaderParty	Social Democratic Party (Romania)
+Forst (Lausitz)	leaderParty	Free Democratic Party (Germany)
+Solca	leaderParty	Social Democratic Party (Romania)
+Chiclana de la Frontera	leaderParty	People%27s Party (Spain)
+Moratalla, Murcia	leaderParty	Spanish Socialist Workers' Party
+Glienicke/Nordbahn	leaderParty	Free Democratic Party (Germany)
+Selzen	leaderParty	Social Democratic Party of Germany
+Requena, Valencia	leaderParty	Spanish Socialist Workers' Party
+Brunn, Upper Palatinate	leaderParty	Christian Social Union of Bavaria
+Bergheim, Bavaria	leaderParty	Christian Social Union of Bavaria
+Wilnsdorf	leaderParty	Christian Democratic Union (Germany)
+Tõrva	leaderParty	Estonian Centre Party
+Helme Parish	leaderParty	Social Democratic Party (Estonia)
+Taheva Parish	leaderParty	Union of Pro Patria and Res Publica
+Sangaste Parish	leaderParty	Social Democratic Party (Estonia)
+Tõlliste Parish	leaderParty	Social Democratic Party (Estonia)
+Loksa	leaderParty	Estonian Centre Party
+Viimsi Parish	leaderParty	Union of Pro Patria and Res Publica
+Soto del Real	leaderParty	People's Party (Spain)
+Miercurea Nirajului	leaderParty	Democratic Union of Hungarians in Romania
+Villaviciosa de Odón, Madrid	leaderParty	People's Party (Spain)
+Kutina	leaderParty	Croatian Social Liberal Party
+Hatzfeld	leaderParty	Social Democratic Party of Germany
+Cofrentes	leaderParty	People's Party (Spain)
+Río Negro, Chile	leaderParty	National Renewal (Chile)
+Osuna	leaderParty	Spanish Socialist Workers' Party
+Arnuero	leaderParty	People's Party (Spain)
+Kiskunfélegyháza	leaderParty	Fidesz
+Hillesheim	leaderParty	Christian Democratic Union (Germany)
+Brad, Hunedoara	leaderParty	Social Democratic Party (Romania)
+Capital Region of Denmark	leaderParty	Social Democrats (Denmark)
+Central Denmark Region	leaderParty	Social Democrats (Denmark)
+North Denmark Region	leaderParty	Social Democrats (Denmark)
+Region Zealand	leaderParty	Social Democrats (Denmark)
+Barakaldo	leaderParty	Socialist Party of the Basque Country – Basque Country Left
+Llíria	leaderParty	People's Party (Spain)
+Béjar	leaderParty	Spanish Socialist Workers' Party
+Nehoiu	leaderParty	Social Democratic Party (Romania)
+L'Escala	leaderParty	PSC
+Castropol	leaderParty	Spanish Socialist Workers' Party
+Castro, Chile	leaderParty	List of Christian democratic parties
+Villaviciosa, Asturias	leaderParty	Unión Asturianista
+Caravaca de la Cruz	leaderParty	People's Party (Spain)
+Boffzen	leaderParty	Social Democratic Party of Germany
+Cangas del Narcea	leaderParty	United Left (Spain)
+Bevern, Lower Saxony	leaderParty	Free Democratic Party (Germany)
+Brakel, Germany	leaderParty	Christian Democratic Union (Germany)
+Victoria, Entre Ríos	leaderParty	Justicialist Party
+Moers	leaderParty	Social Democratic Party of Germany
+Peniscola	leaderParty	Partido Popular
+Santillana del Mar	leaderParty	Partido Socialista de Cantabria
+Teno	leaderParty	Independent Democrat Union
+Buziaş	leaderParty	Social Democratic Party (Romania)
+Dalaman	leaderParty	Nationalist Movement Party
+Qrendi	leaderParty	Labour Party (Malta)
+Santa Cruz de La Palma	leaderParty	Canarian Coalition
+Concepción del Uruguay	leaderParty	Justicialist Party
+Għaxaq	leaderParty	Labour Party (Malta)
+Iklin	leaderParty	Nationalist Party (Malta)
+Ahlen	leaderParty	Christian Democratic Union (Germany)
+Somerset West	leaderParty	Democratic Alliance (South Africa)
+Granadero Baigorria	leaderParty	Justicialist Party
+San Lorenzo, Santa Fe	leaderParty	Justicialist Party
+Mqabba	leaderParty	Nationalist Party (Malta)
+Quillota	leaderParty	List of Christian democratic parties
+Molvízar	leaderParty	People's Party (Spain)
+Imtarfa	leaderParty	Malta Nationalist Party
+Cudillero	leaderParty	Spanish Socialist Workers' Party
+Dautphetal	leaderParty	Free Voters
+Alhama de Granada	leaderParty	Spanish Socialist Workers' Party
+Betanzos	leaderParty	People's Party (Spain)
+Crailsheim	leaderParty	Social Democratic Party of Germany
+Bad Honnef	leaderParty	Social Democratic Party of Germany
+Udbina	leaderParty	Croatian Democratic Union
+Hitzacker	leaderParty	Social Democratic Party of Germany
+Wettringen (Münsterland)	leaderParty	Christian Democratic Union (Germany)
+Ponga, Asturias	leaderParty	Unión Asturianista
+Hochheim am Main	leaderParty	Free Voters
+Funes, Santa Fe	leaderParty	Socialist Party (Argentina)
+Seia Municipality	leaderParty	Socialist Party (Portugal)
+Mula, Spain	leaderParty	Partido Popular de la Región de Murcia
+Boppard	leaderParty	Social Democratic Party of Germany
+Capitán Bermúdez	leaderParty	Socialist Party (Argentina)
+Fray Luis Beltrán	leaderParty	Justicialist Party
+Rafaela	leaderParty	Justicialist Party
+Cochem	leaderParty	Christian Democratic Union (Germany)
+Cantanhede Municipality	leaderParty	PSD
+Tecate Municipality, Baja California	leaderParty	National Action Party (Mexico)
+Mexicali Municipality, Baja California	leaderParty	National Action Party (Mexico)
+Tijuana Municipality, Baja California	leaderParty	Institutional Revolutionary Party
+Çorlu	leaderParty	Republican People's Party (Turkey)
+Amarante Municipality, Portugal	leaderParty	Portuguese Socialist Party
+Paredes Municipality	leaderParty	Social Democratic Party (Portugal)
+Arganil Municipality	leaderParty	Social Democratic Party (Portugal)
+Lousada	leaderParty	Socialist Party (Portugal)
+Montemor-o-Velho Municipality	leaderParty	Social Democratic Party (Portugal)
+Rastoke	leaderParty	Croatian Democratic Union
+Venado Tuerto	leaderParty	Justicialist Party
+Reconquista, Santa Fe	leaderParty	Socialist Party (Argentina)
+San Roque, Cádiz	leaderParty	People's Party (Spain)
+Budeşti	leaderParty	National Liberal Party (Romania)
+Mortágua	leaderParty	Socialist Party (Portugal)
+Monforte de Lemos	leaderParty	Galician Nationalist Bloc
+Colón, Entre Ríos	leaderParty	Justicialist Party
+Santo Tomé, Santa Fe	leaderParty	Justicialist Party
+Casilda	leaderParty	Justicialist Party
+Cañada de Gómez	leaderParty	Justicialist Party
+Coronda	leaderParty	Justicialist Party
+Lindenberg im Allgäu	leaderParty	Free Voters
+Lindenberg im Allgäu	leaderParty	Christian Social Union of Bavaria
+Cacadu District Municipality	leaderParty	African National Congress
+Barbastro	leaderParty	Spanish Socialist Workers' Party
+San Giorgio a Cremano	leaderParty	Democratic Party (Italy)
+Manteigas Municipality	leaderParty	Socialist Party (Portugal)
+Soraluze/Placencia de las Armas	leaderParty	Eusko Abertzale Ekintza
+Usurbil	leaderParty	Eusko Abertzale Ekintza
+Abanto y Ciérbana-Abanto Zierbena	leaderParty	Basque Nationalist Party
+Arrigorriaga	leaderParty	Basque Nationalist Party
+Bermeo	leaderParty	Bildu
+Elorrio	leaderParty	Eusko Abertzale Ekintza
+Galdakao	leaderParty	Basque Nationalist Party
+Galdames	leaderParty	Basque Nationalist Party
+Markina-Xemein	leaderParty	Basque Nationalist Party
+Mungia	leaderParty	Basque Nationalist Party
+Muskiz	leaderParty	Basque Nationalist Party
+Ortuella	leaderParty	Basque Nationalist Party
+Santurtzi	leaderParty	Basque Nationalist Party
+Torelló	leaderParty	Socialists' Party of Catalonia
+Sestao	leaderParty	Socialist Party of the Basque Country – Basque Country Left
+Aue	leaderParty	Christian Democratic Union (Germany)
+Campezo/Kanpezu	leaderParty	PNB
+Elciego	leaderParty	Socialist Party of the Basque Country – Basque Country Left
+Lanciego/Lantziego	leaderParty	Partido Popular del País Vasco
+Valdegovía/Gaubea	leaderParty	Basque Nationalist Party
+Vera, Santa Fe	leaderParty	Socialist Party (Argentina)
+Arroyo Seco, Santa Fe	leaderParty	Radical Civic Union
+Papenburg	leaderParty	Christian Democratic Union (Germany)
+Leandro N. Alem, Misiones	leaderParty	Justicialist Party
+San Martín de los Andes	leaderParty	Neuquén People's Movement
+Goya, Corrientes	leaderParty	Radical Civic Union
+Santo Tomé, Corrientes	leaderParty	Justicialist Party
+Curuzú Cuatiá	leaderParty	Justicialist Party
+Gravataí	leaderParty	Workers' Party (Brazil)
+Hammelburg	leaderParty	Social Democratic Party of Germany
+Engstingen	leaderParty	Parteilos
+Gobernador Virasoro	leaderParty	Radical Civic Union
+Uster	leaderParty	Social Democratic Party of Switzerland
+Königstein im Taunus	leaderParty	Christian Democratic Union (Germany)
+Villaguay	leaderParty	Justicialist Party
+Sueca	leaderParty	Valencian Nationalist Bloc
+Linares, Jaén	leaderParty	Spanish Socialist Workers' Party
+Caldera, Chile	leaderParty	Party for Democracy
+Tinogasta	leaderParty	Justicialist Party
+Câmpeni	leaderParty	National Liberal Party (Romania)
+Cham, Germany	leaderParty	Free Voters
+Willebadessen	leaderParty	Christian Democratic Union (Germany)
+Serra Negra	leaderParty	Democrats (Brazil)
+Pérez, Santa Fe	leaderParty	Justicialist Party
+Soldini, Santa Fe	leaderParty	Socialist Party (Argentina)
+Băile Govora	leaderParty	Romanian Communist Party (2010)
+Ungheni, Mureş	leaderParty	Social Democratic Party (Romania)
+Banyoles	leaderParty	Convergence and Union
+Bernau bei Berlin	leaderParty	Christian Democratic Union (Germany)
+Dolores, Alicante	leaderParty	People's Party (Spain)
+Wachenheim	leaderParty	Christian Democratic Union (Germany)
+Eitensheim	leaderParty	Christian Social Union of Bavaria
+Campo Maior Municipality	leaderParty	Portuguese Socialist Party
+Warstein	leaderParty	Bürgergemeinschaft
+Pecica	leaderParty	Democratic Liberal Party (Romania)
+Castro Urdiales	leaderParty	People's Party (Spain)
+Għasri	leaderParty	Nationalist Party (Malta)
+Arnstein	leaderParty	Christian Social Union of Bavaria
+Xagħra	leaderParty	Labour Party (Malta)
+Xgħajra	leaderParty	Labour Party (Malta)
+Răşinari	leaderParty	Democratic Liberal Party (Romania)
+San Carlos, Chile	leaderParty	National Renewal (Chile)
+Puerto Banús	leaderParty	People's Party (Spain)
+Conil de la Frontera	leaderParty	United Left (Spain)
+Bullas	leaderParty	People's Party (Spain)
+Fontana, Gozo	leaderParty	Nationalist Party (Malta)
+Għajnsielem	leaderParty	Nationalist Party (Malta)
+Kerċem	leaderParty	Nationalist Party (Malta)
+Munxar	leaderParty	Nationalist Party (Malta)
+Nadur	leaderParty	Nationalist Party (Malta)
+Qala, Malta	leaderParty	Nationalist Party (Malta)
+Sannat	leaderParty	Labour Party (Malta)
+Saint Lawrence, Malta	leaderParty	Nationalist Party (Malta)
+Xewkija	leaderParty	Labour Party (Malta)
+Epirus (periphery)	leaderParty	New Democracy (Greece)
+Langa, Cape Town	leaderParty	Democratic Alliance (South Africa)
+Hout Bay	leaderParty	Democratic Alliance (South Africa)
+Nierstein	leaderParty	Christian Democratic Union (Germany)
+Woodstock, Cape Town	leaderParty	Democratic Alliance (South Africa)
+San Fernando, Chile	leaderParty	List of Christian democratic parties
+Ontinyent	leaderParty	People's Party (Spain)
+Athlone, Cape Town	leaderParty	Democratic Alliance (South Africa)
+Salt River, Cape Town	leaderParty	Democratic Alliance (South Africa)
+Florica	leaderParty	National Liberal Party (Romania)
+Kunda, Estonia	leaderParty	Estonian Reform Party
+Dărmăneşti	leaderParty	Social Democratic Party (Romania)
+Caminha Municipality	leaderParty	Social Democratic Party (Portugal)
+Villarrica, Chile	leaderParty	National Renewal (Chile)
+Albarracín	leaderParty	Aragonese Party
+Jettingen-Scheppach	leaderParty	Christian Social Union of Bavaria
+Biertan	leaderParty	Social Democratic Party (Romania)
+Province of Rome	leaderParty	Democratic Party (Italy)
+Istanbul	leaderParty	Justice and Development Party (Turkey)
+Weeze	leaderParty	Christian Democratic Union (Germany)
+Elz, Hesse	leaderParty	Christian Democratic Union (Germany)
+Salobreña	leaderParty	People's Party (Spain)
+Senden	leaderParty	Social Democratic Party of Germany
+Senden	leaderParty	FWG
+Grazalema	leaderParty	Spanish Socialist Workers' Party
+Ilieni	leaderParty	Independent (politician)
+Niedernhausen	leaderParty	Social Democratic Party of Germany
+Torrent, Valencia	leaderParty	People's Party (Spain)
+Puerto Deseado	leaderParty	Justicialist Party
+Los Barrios	leaderParty	Spanish Socialist Workers' Party
+Valdés, Asturias	leaderParty	Spanish Socialist Workers' Party
+Illertissen	leaderParty	Christian Social Union of Bavaria
+Illertissen	leaderParty	Free Voters
+Montalbán de Córdoba	leaderParty	United Left (Spain)
+Aach, Baden-Württemberg	leaderParty	Christian Democratic Union (Germany)
+Nußloch	leaderParty	Christian Democratic Union (Germany)
+Gavà	leaderParty	Socialists' Party of Catalonia
+Aach, Rhineland-Palatinate	leaderParty	Christian Democratic Union (Germany)
+Alcobendas	leaderParty	People's Party (Spain)
+Baeza	leaderParty	Spanish Socialist Workers' Party
+Toro, Zamora	leaderParty	People's Party (Spain)
+Tulnici	leaderParty	Social Democratic Party (Romania)
+Gondomar, Pontevedra	leaderParty	People's Party of Galicia
+Nocrich	leaderParty	Social Democratic Party (Romania)
+Cangas do Morrazo	leaderParty	Galician Nationalist Bloc
+As Neves	leaderParty	People's Party of Galicia
+Sanxenxo	leaderParty	Partido Popular de Galicia
+Mondariz	leaderParty	Galician People's Party
+Mondariz – Balneario	leaderParty	People's Party of Galicia
+A Illa de Arousa	leaderParty	Socialist Party of Galicia
+Moaña	leaderParty	Galician Nationalist Bloc
+O Porriño	leaderParty	Ciudadanos por Porriño
+Vilagarcía de Arousa	leaderParty	Socialist Party of Galicia
+Tondela	leaderParty	Social Democratic Party (Portugal)
+Jastrebarsko	leaderParty	Social Democratic Party of Croatia
+Karlobag	leaderParty	Croatian Peasant Party
+Ludbreg	leaderParty	Croatian People's Party – Liberal Democrats
+Mărăcineni, Buzău	leaderParty	Social Democratic Party (Romania)
+Sinarcas	leaderParty	Spanish Socialist Workers' Party
+Amioun	leaderParty	Syrian Social Nationalist Party
+Neuhausen am Rheinfall	leaderParty	Free Democratic Party of Switzerland
+Pinoso	leaderParty	People's Party (Spain)
+San Martín del Rey Aurelio	leaderParty	Spanish Socialist Workers' Party
+Caso	leaderParty	United Left (Spain)
+Muros de Nalón	leaderParty	Spanish Socialist Workers' Party
+Bad Driburg	leaderParty	Christian Democratic Union (Germany)
+Năsăud	leaderParty	Democratic Liberal Party (Romania)
+San Carlos, Uruguay	leaderParty	Broad Front
+Capellades	leaderParty	Convergence and Union
+Kahl am Main	leaderParty	Social Democratic Party of Germany
+Widen	leaderParty	Free Democratic Party of Switzerland
+Pătârlagele	leaderParty	Social Democratic Party (Romania)
+Sălişte	leaderParty	National Liberal Party (Romania)
+Tălmaciu	leaderParty	Social Democratic Party (Romania)
+Ceuaşu de Câmpie	leaderParty	Democratic Union of Hungarians in Romania
+Valdepeñas	leaderParty	Spanish Socialist Workers' Party
+Miercurea Sibiului	leaderParty	Social Democratic Party (Romania)
+Oran Province	leaderParty	National Rally for Democracy
+Elmalı	leaderParty	Nationalist Movement Party
+Vânju Mare	leaderParty	Social Democratic Party (Romania)
+Chiprovtsi	leaderParty	Agrarian Union "Aleksandar Stamboliyski"
+Gröbenzell	leaderParty	Christian Social Union of Bavaria
+Unguriu	leaderParty	National Liberal Party (Romania)
+Alaró	leaderParty	People's Party (Spain)
+Lăzarea	leaderParty	Democratic Union of Hungarians in Romania
+Paredes de Coura Municipality	leaderParty	Socialist Party (Portugal)
+Carballo	leaderParty	Galician Nationalist Bloc
+Medina del Campo	leaderParty	People's Party (Spain)
+Oranjezicht	leaderParty	Democratic Alliance (South Africa)
+Salcea	leaderParty	National Liberal Party (Romania)
+Slănic	leaderParty	Greater Romania Party
+Neunkirchen-Seelscheid	leaderParty	Christian Democratic Union (Germany)
+Otterndorf	leaderParty	Free Democratic Party (Germany)
+Utrechtse Heuvelrug	leaderParty	Labour Party (Netherlands)
+Ghimbav	leaderParty	Social Democratic Party (Romania)
+San Sebastián de los Reyes	leaderParty	People's Party (Spain)
+Bisoca	leaderParty	Social Democratic Party (Romania)
+Wynberg, Cape Town	leaderParty	Democratic Alliance (South Africa)
+Lalian	leaderParty	Korea National League
+Gouveia	leaderParty	Social Democratic Party (Portugal)
+Waldalgesheim	leaderParty	Christian Democratic Union (Germany)
+Araranguá	leaderParty	Progressive Party (Brazil)
+Pâncota	leaderParty	Social Democratic Party (Romania)
+Nucet	leaderParty	Democratic Liberal Party (Romania)
+Ocna Sibiului	leaderParty	Social Democratic Party (Romania)
+Rupea	leaderParty	Democratic Liberal Party (Romania)
+Sebiş	leaderParty	Greater Romania Party
+Sebiş	leaderParty	Democratic Liberal Party (Romania)
+Deta, Romania	leaderParty	Democratic Liberal Party (Romania)
+Dumbrăveni	leaderParty	National Liberal Party (Romania)
+Întorsura Buzăului	leaderParty	Social Democratic Party (Romania)
+Chişineu-Criş	leaderParty	Social Democratic Party (Romania)
+Zlatna	leaderParty	National Liberal Party (Romania)
+Seini	leaderParty	National Liberal Party (Romania)
+Ștei	leaderParty	Democratic Liberal Party (Romania)
+Iernut	leaderParty	National Liberal Party (Romania)
+Ineu	leaderParty	Social Democratic Party (Romania)
+Baraolt	leaderParty	Independent (politician)
+Târgu Lăpuş	leaderParty	Social Democratic Party (Romania)
+Sângeorz-Băi	leaderParty	Social Democratic Party (Romania)
+Dolhasca	leaderParty	Social Democratic Party (Romania)
+Finsterwalde	leaderParty	Free Democratic Party (Germany)
+Vaşcău	leaderParty	Democratic Liberal Party (Romania)
+Puenteareas	leaderParty	Galician People's Party
+Salas, Asturias	leaderParty	Spanish Socialist Workers' Party
+Gerolstein	leaderParty	Christian Democratic Union (Germany)
+Diamante, Entre Ríos	leaderParty	Justicialist Party
+Mânzăleşti	leaderParty	National Liberal Party (Romania)
+Târgu Frumos	leaderParty	Social Democratic Party (Romania)
+Gherăseni	leaderParty	Greater Romania Party
+Rundu	leaderParty	SWAPO
+Negreira	leaderParty	Socialist Party of Galicia
+Puerto Natales	leaderParty	Independent Democrat Union
+Almuñécar	leaderParty	People's Party (Spain)
+Blankenburg (Harz)	leaderParty	Christian Democratic Union (Germany)
+Pârscov	leaderParty	National Liberal Party (Romania)
+Bad Marienberg	leaderParty	Social Democratic Party of Germany
+Mercedes, Corrientes	leaderParty	Radical Civic Union
+Monte Caseros, Corrientes	leaderParty	Justicialist Party
+Waltrop	leaderParty	Social Democratic Party of Germany
+Xàtiva	leaderParty	People's Party (Spain)
+Monchique Municipality	leaderParty	Portuguese Socialist Party
+Lieşti	leaderParty	National Liberal Party (Romania)
+City of Cape Town	leaderParty	Democratic Alliance (South Africa)
+Langreo	leaderParty	Spanish Socialist Workers' Party
+Drăgăneşti-Olt	leaderParty	National Liberal Party (Romania)
+Vălenii de Munte	leaderParty	Social Democratic Party (Romania)
+Rovinari	leaderParty	Democratic Liberal Party (Romania)
+Videle	leaderParty	Democratic Liberal Party (Romania)
+Boldeşti-Scăeni	leaderParty	PSD] (Romania)
+Bolintin-Vale	leaderParty	Social Democratic Party (Romania)
+Titu	leaderParty	Democratic Liberal Party (Romania)
+Valea lui Mihai	leaderParty	Democratic Union of Hungarians in Romania
+Negreşti	leaderParty	Democratic Liberal Party (Romania)
+Plopeni	leaderParty	Democratic Liberal Party (Romania)
+Târgu Cărbuneşti	leaderParty	National Liberal Party (Romania)
+Călimăneşti	leaderParty	Social Democratic Party (Romania)
+Fieni	leaderParty	Social Democratic Party (Romania)
+Enez	leaderParty	Democratic Left Party (Turkey)
+Bigadiç	leaderParty	Justice and Development Party (Turkey)
+Linnich	leaderParty	Christian Democratic Union (Germany)
+Tineo	leaderParty	Spanish Socialist Workers' Party
+Esperanza, Santa Fe	leaderParty	Justicialist Party
+Villa Cañás	leaderParty	Socialist Party (Argentina)
+Lohne, Germany	leaderParty	Christian Democratic Union (Germany)
+Las Rosas, Santa Fe	leaderParty	Justicialist Party
+Melincué	leaderParty	Socialist Party (Argentina)
+San Cristóbal, Santa Fe	leaderParty	Socialist Party (Argentina)
+Tostado, Santa Fe	leaderParty	Justicialist Party
+Sastre, Santa Fe	leaderParty	Justicialist Party
+San Javier, Santa Fe	leaderParty	Justicialist Party
+Olsberg, Germany	leaderParty	Christian Democratic Union (Germany)
+Klingenberg am Main	leaderParty	Free Voters
+San Justo, Santa Fe	leaderParty	Socialist Party (Argentina)
+Carcarañá	leaderParty	Justicialist Party
+Beverungen	leaderParty	Christian Democratic Union (Germany)
+Marienmünster	leaderParty	Christian Democratic Union (Germany)
+Nieheim	leaderParty	Christian Democratic Union (Germany)
+Steinheim, Westphalia	leaderParty	Christian Democratic Union (Germany)
+Fuenferrada	leaderParty	Partido Popular
+Hille, Germany	leaderParty	Social Democratic Party of Germany
+Drolshagen	leaderParty	Christian Democratic Union (Germany)
+Lennestadt	leaderParty	Christian Democratic Union (Germany)
+Finnentrop	leaderParty	Christian Democratic Union (Germany)
+Olpe, Germany	leaderParty	Christian Democratic Union (Germany)
+Kirchhundem	leaderParty	Social Democratic Party of Germany
+Borchen	leaderParty	Social Democratic Party of Germany
+Borchen	leaderParty	Social Democratic Party of Germany
+Ulmen	leaderParty	Social Democratic Party of Germany
+Boiţa	leaderParty	Social Democratic Party (Romania)
+Sadu	leaderParty	Democratic Liberal Party (Romania)
+Poplaca	leaderParty	National Liberal Party (Romania)
+Gura Râului	leaderParty	Democratic Liberal Party (Romania)
+Orlat	leaderParty	Democratic Liberal Party (Romania)
+Tilişca	leaderParty	Social Democratic Party (Romania)
+Jina, Sibiu	leaderParty	Conservative Party (Romania)
+Poiana Sibiului	leaderParty	Conservative Party (Romania)
+Alsfeld	leaderParty	Social Democratic Party of Germany
+Marl, North Rhine-Westphalia	leaderParty	Social Democratic Party of Germany
+Lohmar	leaderParty	Christian Democratic Union (Germany)
+Mislata	leaderParty	People's Party (Spain)
+Daimús	leaderParty	People's Party (Spain)
+Freudenberg, Westphalia	leaderParty	Christian Democratic Union (Germany)
+Kreuztal	leaderParty	Social Democratic Party of Germany
+Erndtebrück	leaderParty	Social Democratic Party of Germany
+Möhnesee	leaderParty	Independent (politician)
+Oleiros Municipality, Portugal	leaderParty	Social Democratic Party (Portugal)
+Valdivia	leaderParty	National Renewal (Chile)
+Ostbevern	leaderParty	Christian Democratic Union (Germany)
+Montefrío	leaderParty	Spanish Socialist Workers' Party
+Pozoblanco	leaderParty	People's Party (Spain)
+Rheinsberg	leaderParty	Christian Democratic Union (Germany)
+Adenau	leaderParty	Christian Democratic Union (Germany)
+Osthofen	leaderParty	Social Democratic Party of Germany
+Eich, Rhineland-Palatinate	leaderParty	Social Democratic Party of Germany
+Monsheim	leaderParty	Freie Wählergruppe
+Wöllstein	leaderParty	Christian Democratic Union (Germany)
+Wörrstadt	leaderParty	Social Democratic Party of Germany
+Babadağ, Denizli	leaderParty	Nationalist Movement Party
+Bekilli	leaderParty	Republican People's Party (Turkey)
+Amara, Romania	leaderParty	Social Democratic Party (Romania)
+Grünstadt	leaderParty	Christian Democratic Union (Germany)
+Haßloch	leaderParty	Christian Democratic Union (Germany)
+Freinsheim	leaderParty	Free Voters
+Lambrecht	leaderParty	Christian Democratic Union (Germany)
+Deidesheim	leaderParty	Christian Democratic Union (Germany)
+Hettenleidelheim	leaderParty	Social Democratic Party of Germany
+Wittlich	leaderParty	Christian Democratic Union (Germany)
+Rhaunen	leaderParty	Social Democratic Party of Germany
+Padrón	leaderParty	Socialist Party of Galicia
+Treis-Karden	leaderParty	Christian Democratic Union (Germany)
+Maldonado, Uruguay	leaderParty	Broad Front
+Monforte Municipality	leaderParty	Socialist Party
+Castelo de Vide Municipality	leaderParty	Social Democratic Party (Portugal)
+Crato Municipality	leaderParty	Socialist Party (Portugal)
+Fronteira Municipality	leaderParty	Social Democratic Party (Portugal)
+Marvão Municipality	leaderParty	Social Democratic Party (Portugal)
+Nisa Municipality	leaderParty	Democratic Unity Coalition
+Ponte de Sor Municipality	leaderParty	Portuguese Socialist Party
+Belmonte Municipality	leaderParty	Portuguese Socialist Party
+Azambuja Municipality	leaderParty	Portuguese Socialist Party
+Bodenheim	leaderParty	Social Democratic Party of Germany
+Nieder-Olm	leaderParty	Social Democratic Party of Germany
+Gugulethu	leaderParty	Democratic Alliance (South Africa)
+Cartaya	leaderParty	Spanish Socialist Workers' Party
+Paterna del Campo	leaderParty	Spanish Socialist Workers' Party
+Jimena de la Frontera	leaderParty	Spanish Socialist Workers' Party
+El Gastor	leaderParty	Andalusian Party
+Espera	leaderParty	United Left (Spain)
+Moguer	leaderParty	People's Party (Spain)
+Alcalá del Valle	leaderParty	United Left (Spain)
+Wehrheim	leaderParty	Christian Democratic Union (Germany)
+Minas de Ríotinto	leaderParty	Spanish Socialist Workers' Party
+Lilienthal, Lower Saxony	leaderParty	Alliance '90/The Greens
+Vallendar	leaderParty	Christian Democratic Union (Germany)
+Ohanes	leaderParty	Spanish Socialist Workers' Party
+Bad Hönningen	leaderParty	Social Democratic Party of Germany
+Rheinböllen	leaderParty	Social Democratic Party of Germany
+Amares Municipality	leaderParty	Portuguese Socialist Party
+Melgaço Municipality, Portugal	leaderParty	Socialist Party (Portugal)
+Monção Municipality	leaderParty	Socialist Party (Portugal)
+Ponte da Barca Municipality	leaderParty	Socialist Party (Portugal)
+Valença Municipality, Portugal	leaderParty	PSD
+Vila Nova de Cerveira Municipality	leaderParty	Socialist Party (Portugal)
+Cabeceiras de Basto Municipality	leaderParty	Portuguese Socialist Party
+Celorico de Basto Municipality	leaderParty	Partido Social Democrata
+Fafe Municipality	leaderParty	Portuguese Socialist Party
+Póvoa de Lanhoso	leaderParty	Social Democratic Party (Portugal)
+Terras de Bouro Municipality	leaderParty	Social Democratic Party (Portugal)
+Vila Verde Municipality	leaderParty	Social Democratic Party (Portugal)
+Vizela Municipality	leaderParty	Portuguese Socialist Party
+Idanha-a-Nova Municipality	leaderParty	Portuguese Socialist Party
+Penamacor Municipality	leaderParty	Portuguese Socialist Party
+Proença-a-Nova Municipality	leaderParty	Socialist Party (Portugal)
+Vila de Rei Municipality	leaderParty	Social Democratic Party (Portugal)
+Amealco de Bonfil	leaderParty	Alliance for Mexico
+Vouzela	leaderParty	Social Democratic Party (Portugal)
+Piloña	leaderParty	Spanish Socialist Workers' Party
+Carregal do Sal Municipality	leaderParty	Social Democratic Party (Portugal)
+Torre de Moncorvo	leaderParty	Socialist Party (Portugal)
+Vila Flor	leaderParty	Socialist Party (Portugal)
+Alenquer Municipality, Portugal	leaderParty	Portuguese Socialist Party
+Arruda dos Vinhos	leaderParty	Social Democratic Party (Portugal)
+Castro Daire Municipality	leaderParty	Socialist Party (Portugal)
+Cinfães Municipality	leaderParty	Socialist Party (Portugal)
+Cadaval Municipality	leaderParty	Social Democratic Party (Portugal)
+Lourinhã Municipality	leaderParty	Socialist Party (Portugal)
+Mangualde Municipality	leaderParty	Social Democratic Party (Portugal)
+Celorico da Beira Municipality	leaderParty	Socialist Party (Portugal)
+Figueira de Castelo Rodrigo Municipality	leaderParty	Social Democratic Party (Portugal)
+Fornos de Algodres Municipality	leaderParty	Social Democratic Party (Portugal)
+Mêda Municipality	leaderParty	Social Democratic Party (Portugal)
+Sabugal Municipality	leaderParty	Social Democratic Party (Portugal)
+Trancoso Municipality, Portugal	leaderParty	Social Democratic Party (Portugal)
+Vila Nova de Foz Côa	leaderParty	Socialist Party (Portugal)
+Maikammer	leaderParty	Christian Democratic Union (Germany)
+Dahn	leaderParty	Social Democratic Party of Germany
+Hachenburg	leaderParty	Social Democratic Party of Germany
+Rennerod	leaderParty	Social Democratic Party of Germany
+Wirges	leaderParty	Social Democratic Party of Germany
+Pogoanele	leaderParty	National Liberal Party (Romania)
+Oberwesel	leaderParty	Christian Democratic Union (Germany)
+Constantia, Cape Town	leaderParty	Democratic Alliance (South Africa)
+Nelas	leaderParty	Social Democratic Party (Portugal)
+Oliveira de Frades	leaderParty	Social Democratic Party (Portugal)
+Penalva do Castelo	leaderParty	Social Democratic Party (Portugal)
+Resende Municipality, Portugal	leaderParty	Socialist Party (Portugal)
+Wadgassen	leaderParty	Social Democratic Party of Germany
+Santa Comba Dão	leaderParty	Social Democratic Party (Portugal)
+São João da Pesqueira	leaderParty	Social Democratic Party (Portugal)
+São Pedro do Sul	leaderParty	Social Democratic Party (Portugal)
+Sátão	leaderParty	Social Democratic Party (Portugal)
+Sernancelhe Municipality	leaderParty	Social Democratic Party (Portugal)
+Neuenhaus	leaderParty	Christian Democratic Union (Germany)
+Wietmarschen	leaderParty	Christian Democratic Union (Germany)
+Schüttorf	leaderParty	Christian Democratic Union (Germany)
+Tabuaço	leaderParty	Social Democratic Party (Portugal)
+Tarouca	leaderParty	Socialist Party (Portugal)
+Vila Nova de Paiva	leaderParty	Social Democratic Party (Portugal)
+Bechet	leaderParty	Democratic Liberal Party (Romania)
+Aljezur Municipality	leaderParty	Portuguese Socialist Party
+Lagoa Municipality (Algarve)	leaderParty	Social Democratic Party (Portugal)
+São Brás de Alportel Municipality	leaderParty	Portuguese Socialist Party
+Vila do Bispo Municipality	leaderParty	Social Democratic Party (Portugal)
+Campo de Criptana	leaderParty	People's Party (Spain)
+Castrillón	leaderParty	United Left (Spain)
+San Vicente de la Barquera	leaderParty	People's Party (Spain)
+Illas	leaderParty	United Left (Spain)
+Mondim de Basto Municipality	leaderParty	Social Democratic Party (Portugal)
+Pietroasele	leaderParty	Democratic Liberal Party (Romania)
+Brome, Germany	leaderParty	Christian Democratic Union (Germany)
+Hankensbüttel	leaderParty	Christian Democratic Union (Germany)
+Langelsheim	leaderParty	Social Democratic Party of Germany
+Liebenburg	leaderParty	Social Democratic Party of Germany
+Baião Municipality	leaderParty	Socialist Party (Portugal)
+Ribeira de Pena Municipality	leaderParty	Social Democratic Party (Portugal)
+Chile Chico	leaderParty	Party for Democracy
+Mulchén	leaderParty	Independent Democrat Union
+Pedrógão Grande	leaderParty	Social Democratic Party (Portugal)
+Figueiró dos Vinhos Municipality	leaderParty	Social Democratic Party (Portugal)
+Castanheira de Pera	leaderParty	Socialist Party (Portugal)
+Ansião	leaderParty	Social Democratic Party (Portugal)
+Alvaiázere	leaderParty	Social Democratic Party (Portugal)
+Lansingerland	leaderParty	Ex Gemeentebelang Westland
+Bobingen	leaderParty	Social Democratic Party of Germany
+Clifton, Cape Town	leaderParty	Democratic Alliance (South Africa)
+Gartow	leaderParty	Christian Democratic Union (Germany)
+Steimbke	leaderParty	Christian Democratic Union (Germany)
+Welden	leaderParty	Social Democratic Party of Germany
+Bohmte	leaderParty	Christian Democratic Union (Germany)
+Bevensen	leaderParty	Social Democratic Party of Germany
+Joaçaba	leaderParty	Democrats (Brazil)
+Eberbach (Baden)	leaderParty	Christian Democratic Union (Germany)
+El Trébol	leaderParty	Socialist Party (Argentina)
+Feuchtwangen	leaderParty	Christian Social Union of Bavaria
+Königs Wusterhausen	leaderParty	The Left (Germany)
+Neusäß	leaderParty	Christian Social Union of Bavaria
+Vordorf	leaderParty	Christian Democratic Union (Germany)
+Marktoberdorf	leaderParty	Free Voters
+Titisee-Neustadt	leaderParty	Christian Democratic Union (Germany)
+Orán, Salta	leaderParty	Justicialist Party
+Arequito, Santa Fe	leaderParty	Socialist Party (Argentina)
+Waldshut-Tiengen	leaderParty	Christian Democratic Union (Germany)
+Großhabersdorf	leaderParty	Christian Social Union of Bavaria
+Waldkirchen	leaderParty	Christian Social Union of Bavaria
+Bad Staffelstein	leaderParty	Christian Social Union of Bavaria
+Kirchlauter	leaderParty	Christian Social Union of Bavaria
+Gorleben	leaderParty	Wählergruppe
+Muras, Galicia	leaderParty	People's Party (Spain)
+Camargo, Cantabria	leaderParty	Alternativa Camarguesa Progresista
+Lonquimay	leaderParty	Party for Democracy
+Schöppenstedt	leaderParty	Social Democratic Party of Germany
+Wildemann	leaderParty	Social Democratic Party of Germany
+Altenau, Lower Saxony	leaderParty	Social Democratic Party of Germany
+General Roca, Río Negro	leaderParty	Justicialist Party
+Lütjenburg	leaderParty	Christian Democratic Union (Germany)
+Preetz-Land	leaderParty	Wählergemeinschaft
+Pilar de la Horadada	leaderParty	Spanish Socialist Workers' Party
+Thabo Mofutsanyana District Municipality	leaderParty	African National Congress
+Angelburg	leaderParty	Social Democratic Party of Germany
+Capileira	leaderParty	Spanish Socialist Workers' Party
+Biedenkopf	leaderParty	Social Democratic Party of Germany
+Miranda de Ebro	leaderParty	Spanish Socialist Workers' Party
+Cáñar	leaderParty	Spanish Socialist Workers' Party
+Fuenlabrada	leaderParty	Spanish Socialist Workers' Party
+Sector 1 (Bucharest)	leaderParty	National Liberal Party (Romania)
+Molina, Chile	leaderParty	Independent Democrat Union
+Sector 4 (Bucharest)	leaderParty	Conservative Party (Romania)
+Sector 5 (Bucharest)	leaderParty	Social Democratic Party (Romania)
+Sector 3 (Bucharest)	leaderParty	Democratic Liberal Party (Romania)
+Sector 2 (Bucharest)	leaderParty	Social Democratic Party (Romania)
+Sector 6 (Bucharest)	leaderParty	Democratic Liberal Party (Romania)
+OR Tambo District Municipality	leaderParty	African National Congress
+Amathole District Municipality	leaderParty	African National Congress
+Ebsdorfergrund	leaderParty	Social Democratic Party of Germany
+Dalcahue	leaderParty	List of Christian democratic parties
+Quellón	leaderParty	National Renewal (Chile)
+Combarbalá	leaderParty	Regionalist Party of the Independents
+Gladenbach	leaderParty	Christian Democratic Union (Germany)
+Kirchhain	leaderParty	Parteilos
+Gabès Governorate	leaderParty	Constitutional Democratic Rally
+Kebili Governorate	leaderParty	Constitutional Democratic Rally
+Tunis Governorate	leaderParty	Constitutional Democratic Rally
+Curtis, Galicia	leaderParty	People's Party of Galicia
+Verneşti	leaderParty	Democratic Liberal Party (Romania)
+Bad Endbach	leaderParty	Christian Democratic Union (Germany)
+Steffenberg	leaderParty	Parteilos
+Newlands, Cape Town	leaderParty	Democratic Alliance (South Africa)
+Alcalá de Guadaíra	leaderParty	Spanish Socialist Workers' Party
+San Millán de la Cogolla	leaderParty	Spanish Socialist Workers' Party
+Seydişehir	leaderParty	Justice and Development Party (Turkey)
+Lyss	leaderParty	Free Democratic Party of Switzerland
+Köniz	leaderParty	Social Democratic Party of Switzerland
+Chilecito	leaderParty	Justicialist Party
+Bad Schmiedeberg	leaderParty	Christian Democratic Union (Germany)
+Belchite	leaderParty	Spanish Socialist Workers' Party
+Roşiorii de Vede	leaderParty	National Liberal Party (Romania)
+Cochrane, Chile	leaderParty	Independent Democrat Union
+Kirchheim unter Teck	leaderParty	Social Democratic Party of Germany
+Aghireşu	leaderParty	Social Democratic Party (Romania)
+Aiton, Cluj	leaderParty	PSD
+Aluniş, Cluj	leaderParty	PNL
+Apahida	leaderParty	Social Democratic Party (Romania)
+Cauquenes	leaderParty	National Renewal (Chile)
+San Javier, Chile	leaderParty	List of Christian democratic parties
+Osterberg	leaderParty	Christian Social Union of Bavaria
+Osterberg	leaderParty	Free Voters
+Cartagena, Spain	leaderParty	People's Party (Spain)
+Treuenbrietzen	leaderParty	Free Democratic Party (Germany)
+Langen, Hesse	leaderParty	Social Democratic Party of Germany
+A Laracha	leaderParty	People's Party (Spain)
+Castellar de la Frontera	leaderParty	Spanish Socialist Workers' Party
+Olching	leaderParty	Social Democratic Party of Germany
+Borken, Hesse	leaderParty	Social Democratic Party of Germany
+Bad Rappenau	leaderParty	Social Democratic Party of Germany
+Schwarzenberg, Saxony	leaderParty	Christian Democratic Union (Germany)
+Flörsheim am Main	leaderParty	Social Democratic Party of Germany
+Schwalmstadt	leaderParty	Social Democratic Party of Germany
+Frielendorf	leaderParty	Social Democratic Party of Germany
+Gauting	leaderParty	Social Democratic Party of Germany
+Mihai Viteazu, Cluj	leaderParty	Democratic Union of Hungarians in Romania
+Mociu	leaderParty	Democratic Union of Hungarians in Romania
+Moldoveneşti	leaderParty	Democratic Union of Hungarians in Romania
+Recea-Cristur	leaderParty	National Liberal Party (Romania)
+Unguraş	leaderParty	Democratic Union of Hungarians in Romania
+Sic, Cluj	leaderParty	Democratic Union of Hungarians in Romania
+Alzenau	leaderParty	Christian Social Union of Bavaria
+Kiviõli	leaderParty	Estonian Centre Party
+Dingolfing	leaderParty	Christian Social Union of Bavaria
+Dingolfing	leaderParty	Free Voters
+Gudensberg	leaderParty	Social Democratic Party of Germany
+Bad Wildungen	leaderParty	Free Democratic Party (Germany)
+Guxhagen	leaderParty	Parteilos
+Sünching	leaderParty	Free Voters
+Immenstadt	leaderParty	Social Democratic Party of Germany
+Immenstadt	leaderParty	Alliance '90/The Greens
+Jesberg	leaderParty	Social Democratic Party of Germany
+Melsungen	leaderParty	Social Democratic Party of Germany
+Bad Neustadt an der Saale	leaderParty	Free Voters
+Kelsterbach	leaderParty	Social Democratic Party of Germany
+Bechtolsheim	leaderParty	Social Democratic Party of Germany
+Niedenstein	leaderParty	Social Democratic Party of Germany
+Oberaula	leaderParty	Social Democratic Party of Germany
+Aßlar	leaderParty	Freie Wählergruppe
+Edingen-Neckarhausen	leaderParty	Social Democratic Party of Germany
+Bad Camberg	leaderParty	Social Democratic Party of Germany
+Schrecksbach	leaderParty	Social Democratic Party of Germany
+Dorfen	leaderParty	Christian Social Union of Bavaria
+Eching, Freising	leaderParty	Christian Social Union of Bavaria
+Willingshausen	leaderParty	Free Democratic Party (Germany)
+Allande	leaderParty	Spanish Socialist Workers' Party
+Aller, Asturias	leaderParty	Spanish Socialist Workers' Party
+Belmonte de Miranda	leaderParty	Spanish Socialist Workers' Party
+Teverga	leaderParty	Spanish Socialist Workers' Party
+Onís	leaderParty	Spanish Socialist Workers' Party
+Pesoz	leaderParty	Spanish Socialist Workers' Party
+Ibias	leaderParty	Spanish Socialist Workers' Party
+Illano	leaderParty	Spanish Socialist Workers' Party
+Vegadeo	leaderParty	Spanish Socialist Workers' Party
+Villanueva de Oscos	leaderParty	Spanish Socialist Workers' Party
+San Tirso de Abres	leaderParty	People's Party (Spain)
+Santa Eulalia de Oscos	leaderParty	United Left (Spain)
+San Martín de Oscos	leaderParty	Spanish Socialist Workers' Party
+Grandas de Salime	leaderParty	Spanish Socialist Workers' Party
+Grado, Asturias	leaderParty	People's Party (Spain)
+Proaza	leaderParty	Spanish Socialist Workers' Party
+Morcín	leaderParty	Spanish Socialist Workers' Party
+Ribera de Arriba	leaderParty	Spanish Socialist Workers' Party
+Ribadesella	leaderParty	Spanish Socialist Workers' Party
+Peñamellera Baja	leaderParty	People's Party (Spain)
+Peñamellera Alta	leaderParty	People's Party (Spain)
+Ribadedeva	leaderParty	Spanish Socialist Workers' Party
+Carreño	leaderParty	Spanish Socialist Workers' Party
+Somiedo	leaderParty	Spanish Socialist Workers' Party
+Cabranes	leaderParty	Spanish Socialist Workers' Party
+Candamo	leaderParty	Spanish Socialist Workers' Party
+Coaña	leaderParty	People's Party (Spain)
+Colunga	leaderParty	Spanish Socialist Workers' Party
+Degaña	leaderParty	United Left (Spain)
+El Franco	leaderParty	Spanish Socialist Workers' Party
+Gozón	leaderParty	People's Party (Spain)
+Laviana	leaderParty	Spanish Socialist Workers' Party
+Llanera, Asturias	leaderParty	People's Party (Spain)
+Nava, Asturias	leaderParty	Spanish Socialist Workers' Party
+Navia (Spain)	leaderParty	Spanish Socialist Workers' Party
+Noreña	leaderParty	Spanish Socialist Workers' Party
+Parres	leaderParty	Spanish Socialist Workers' Party
+Pravia	leaderParty	Spanish Socialist Workers' Party
+Las Regueras	leaderParty	Spanish Socialist Workers' Party
+Sariego	leaderParty	PROMUSA
+Sobrescobio	leaderParty	Spanish Socialist Workers' Party
+Tapia de Casariego	leaderParty	People's Party (Spain)
+Villayón	leaderParty	People's Party (Spain)
+Ugljevik	leaderParty	Serbian Democratic Party (Bosnia and Herzegovina)
+Vlasenica	leaderParty	Alliance of Independent Social Democrats
+Grebenau	leaderParty	Social Democratic Party of Germany
+Yernes y Tameza	leaderParty	People's Party (Spain)
+Santo Adriano	leaderParty	Spanish Socialist Workers' Party
+Feldatal	leaderParty	Social Democratic Party of Germany
+Algueña	leaderParty	People's Party (Spain)
+Eggenfelden	leaderParty	FWG
+Kirtorf	leaderParty	Christian Democratic Union (Germany)
+Romrod	leaderParty	Christian Democratic Union (Germany)
+Maisach	leaderParty	Free Voters
+Plattling	leaderParty	Christian Social Union of Bavaria
+Grafing	leaderParty	Christian Social Union of Bavaria
+Tamm	leaderParty	Christian Democratic Union (Germany)
+Riotuerto	leaderParty	Regionalist Party of Cantabria
+Burglengenfeld	leaderParty	Social Democratic Party of Germany
+Kriens	leaderParty	Social Democratic Party of Switzerland
+Fezile Dabi District Municipality	leaderParty	African National Congress
+Gemünden am Main	leaderParty	Free Voters
+Burgthann	leaderParty	Christian Social Union of Bavaria
+Schöneiche	leaderParty	Social Democratic Party of Germany
+Vilsbiburg	leaderParty	Free Voters
+Hirschaid	leaderParty	Christian Social Union of Bavaria
+Ergolding	leaderParty	Free Voters
+Manching	leaderParty	Free Voters
+Markt Schwaben	leaderParty	Social Democratic Party of Germany
+Pritzwalk	leaderParty	Free Democratic Party (Germany)
+Marktheidenfeld	leaderParty	Free Voters
+Poing, Bavaria	leaderParty	Social Democratic Party of Germany
+Ahrensfelde	leaderParty	Christian Democratic Union (Germany)
+Straubenhardt	leaderParty	Christian Democratic Union (Germany)
+Nauheim	leaderParty	Social Democratic Party of Germany
+Hüttenberg	leaderParty	Social Democratic Party of Germany
+Ehringshausen	leaderParty	Social Democratic Party of Germany
+Erlenbach am Main	leaderParty	Christian Social Union of Bavaria
+Adligenswil	leaderParty	Christian Democratic People's Party of Switzerland
+San Vicente del Raspeig/Sant Vicent del Raspeig	leaderParty	People's Party (Spain)
+Atzeneta d'Albaida	leaderParty	Spanish Socialist Workers' Party
+Sinn, Hesse	leaderParty	Social Democratic Party of Germany
+Abrucena	leaderParty	People's Party (Spain)
+Alcolea	leaderParty	United Left (Spain)
+Alcudia de Monteagud	leaderParty	Spanish Socialist Workers' Party
+Alhabia	leaderParty	Spanish Socialist Workers' Party
+Cadolzburg	leaderParty	Christian Social Union of Bavaria
+Collipulli	leaderParty	Socialist Party of Chile
+Wildau	leaderParty	The Left (Germany)
+Bad Berneck im Fichtelgebirge	leaderParty	SPD Bayern
+Bad Rodach	leaderParty	Free Voters
+Baiersdorf	leaderParty	Christian Social Union of Bavaria
+Beilngries	leaderParty	Free Voters
+Berching	leaderParty	Christian Social Union of Bavaria
+Villa Paranacito	leaderParty	Justicialist Party
+Biesenthal	leaderParty	The Left (Germany)
+Rocca Priora	leaderParty	Union of the Centre (2008)
+Breuberg	leaderParty	Social Democratic Party of Germany
+Weilrod	leaderParty	Social Democratic Party of Germany
+Burgkunstadt	leaderParty	Free Voters
+Creußen	leaderParty	Christian Social Union of Bavaria
+Diemelstadt	leaderParty	Parteilos
+Döbern	leaderParty	Free Democratic Party (Germany)
+Ebermannstadt	leaderParty	Christian Social Union of Bavaria
+Eibelstadt	leaderParty	Social Democratic Party of Germany
+Elsterwerda	leaderParty	The Left (Germany)
+Frankenau	leaderParty	Social Democratic Party of Germany
+Freystadt	leaderParty	Christian Social Union of Bavaria
+Friesack	leaderParty	Free Democratic Party (Germany)
+Mömlingen	leaderParty	Christian Social Union of Bavaria
+Mömlingen	leaderParty	Christian Social Union of Bavaria
+Heideck	leaderParty	Christian Social Union of Bavaria
+Iphofen	leaderParty	Free Voters
+Joachimsthal, Brandenburg	leaderParty	Free Voters
+Ketzin	leaderParty	Free Democratic Party (Germany)
+Bad Kötzting	leaderParty	Christian Social Union of Bavaria
+Lychen	leaderParty	The Left (Germany)
+Märkisch Buchholz	leaderParty	Free Voters
+Marktsteft	leaderParty	Free Voters
+Neustadt an der Orla	leaderParty	Parteilos
+Obernburg	leaderParty	Christian Social Union of Bavaria
+Ornbau	leaderParty	Christian Social Union of Bavaria
+Cospeito	leaderParty	People's Party (Spain)
+San Canzian d'Isonzo	leaderParty	PD
+Rhinow	leaderParty	Free Democratic Party (Germany)
+Rottenburg an der Laaber	leaderParty	Free Voters
+Ruhland	leaderParty	Parteilos
+Seßlach	leaderParty	Free Voters
+Spalt	leaderParty	Christian Social Union of Bavaria
+Stadtprozelten	leaderParty	Christian Social Union of Bavaria
+Allendorf, Waldeck-Frankenberg	leaderParty	Parteilos
+Volkmarsen	leaderParty	Parteilos
+Bromskirchen	leaderParty	Parteilos
+Burgwald	leaderParty	Social Democratic Party of Germany
+Windsbach	leaderParty	Social Democratic Party of Germany
+Libertador Bolivarian Municipality	leaderParty	United Socialist Party of Venezuela
+Alhama de Almería	leaderParty	People's Party (Spain)
+Alicún	leaderParty	People's Party (Spain)
+Almócita	leaderParty	Spanish Socialist Workers' Party
+Alsodux	leaderParty	People's Party (Spain)
+Armuña de Almanzora	leaderParty	Spanish Socialist Workers' Party
+Engelthal	leaderParty	Christian Social Union of Bavaria
+Meggen	leaderParty	Free Democratic Party of Switzerland
+Bacares	leaderParty	Spanish Socialist Workers' Party
+Bayárcal	leaderParty	Spanish Socialist Workers' Party
+Bayarque	leaderParty	People's Party (Spain)
+Beires	leaderParty	People's Party (Spain)
+Benahadux	leaderParty	Spanish Socialist Workers' Party
+Benizalón	leaderParty	People's Party (Spain)
+Bentarique	leaderParty	Spanish Socialist Workers' Party
+Cantoria	leaderParty	People's Party (Spain)
+Carboneras	leaderParty	Spanish Socialist Workers' Party
+Castro de Filabres	leaderParty	Spanish Socialist Workers' Party
+Chercos	leaderParty	People's Party (Spain)
+Cóbdar	leaderParty	Spanish Socialist Workers' Party
+Cuevas de Almanzora	leaderParty	People's Party (Spain)
+Dalías	leaderParty	Partido de Almeria (Spain)
+Enix, Spain	leaderParty	Spanish Socialist Workers' Party
+Gádor	leaderParty	People's Party (Spain)
+Fiñana	leaderParty	Spanish Socialist Workers' Party
+Fondón	leaderParty	Spanish Socialist Workers' Party
+Gérgal	leaderParty	Spanish Socialist Workers' Party
+Huércal de Almería	leaderParty	United Left (Spain)
+Íllar	leaderParty	People's Party (Spain)
+Instinción	leaderParty	Spanish Socialist Workers' Party
+Laroya	leaderParty	People's Party (Spain)
+Laujar de Andarax	leaderParty	Andalusian Party
+Líjar	leaderParty	People's Party (Spain)
+Lubrín	leaderParty	Spanish Socialist Workers' Party
+Lucainena de las Torres	leaderParty	People's Party (Spain)
+Macael	leaderParty	Spanish Socialist Workers' Party
+Lúcar	leaderParty	Spanish Socialist Workers' Party
+María, Spain	leaderParty	Andalusian Party
+La Mojonera	leaderParty	People's Party (Spain)
+Nacimiento, Spain	leaderParty	Spanish Socialist Workers' Party
+Olula de Castro	leaderParty	People's Party (Spain)
+Olula del Río	leaderParty	Spanish Socialist Workers' Party
+Oria, Spain	leaderParty	Spanish Socialist Workers' Party
+Padules	leaderParty	Spanish Socialist Workers' Party
+Partaloa	leaderParty	Spanish Socialist Workers' Party
+Paterna del Río	leaderParty	People's Party (Spain)
+Pechina	leaderParty	Spanish Socialist Workers' Party
+Pulpí	leaderParty	Spanish Socialist Workers' Party
+Rágol	leaderParty	Spanish Socialist Workers' Party
+Serón	leaderParty	Spanish Socialist Workers' Party
+Somontín	leaderParty	People's Party (Spain)
+Suflí	leaderParty	Spanish Socialist Workers' Party
+Santa Fe de Mondújar	leaderParty	Spanish Socialist Workers' Party
+Santa Cruz de Marchena	leaderParty	People's Party (Spain)
+Tabernas	leaderParty	Spanish Socialist Workers' Party
+Tahal	leaderParty	Spanish Socialist Workers' Party
+Terque	leaderParty	Spanish Socialist Workers' Party
+Las Tres Villas	leaderParty	Spanish Socialist Workers' Party
+Turre	leaderParty	Spanish Socialist Workers' Party
+Vélez-Rubio	leaderParty	Spanish Socialist Workers' Party
+Vélez-Blanco	leaderParty	Spanish Socialist Workers' Party
+Urrácal	leaderParty	People's Party (Spain)
+Velefique	leaderParty	United Left (Spain)
+Uleila del Campo	leaderParty	Spanish Socialist Workers' Party
+Vera, Spain	leaderParty	Andalusian Party
+Vícar	leaderParty	Spanish Socialist Workers' Party
+Viator	leaderParty	Spanish Socialist Workers' Party
+Zurgena	leaderParty	People's Party (Spain)
+Villa Alegre, Chile	leaderParty	Party for Democracy
+Gau-Odernheim	leaderParty	Social Democratic Party of Germany
+Poarta Albă	leaderParty	Democratic Liberal Party (Romania)
+Büetigen	leaderParty	Swiss People's Party
+Pecineaga	leaderParty	Social Democratic Party (Romania)
+Muri bei Bern	leaderParty	Free Democratic Party of Switzerland
+Nidau	leaderParty	Free Democratic Party of Switzerland
+Pelluhue	leaderParty	Independent Democrat Union
+Chanco, Chile	leaderParty	National Renewal (Chile)
+Otzberg	leaderParty	Christian Democratic Union (Germany)
+Ponts	leaderParty	Socialists' Party of Catalonia
+Alcañices	leaderParty	People's Party (Spain)
+Colbún	leaderParty	Independent (politician)
+Stockstadt am Rhein	leaderParty	Social Democratic Party of Germany
+Biskupija	leaderParty	Independent Democratic Serb Party
+Ervenik	leaderParty	Social Democratic Party of Croatia
+Naut Aran	leaderParty	Aranese Democratic Convergence
+Alfarràs	leaderParty	Convergence and Union
+Trenta, Calabria	leaderParty	Democratic Party (Italy)
+Tiltil	leaderParty	Communist Party of Chile
+Yerbas Buenas	leaderParty	Social Democrat Radical Party
+Longaví	leaderParty	Independent Democrat Union
+Retiro, Chile	leaderParty	List of Christian democratic parties
+San Clemente, Chile	leaderParty	National Renewal (Chile)
+Baloň	leaderParty	Party of the Hungarian Coalition
+Bodíky	leaderParty	Party of the Hungarian Coalition
+Boheľov	leaderParty	Party of the Hungarian Coalition
+Los Andes Province, Chile	leaderParty	Party for Democracy
+San Fabián	leaderParty	Independent (politician)
+Curepto	leaderParty	National Renewal (Chile)
+Yumbel	leaderParty	Humanist Party (Chile)
+Águas de São Pedro	leaderParty	Brazilian Social Democratic Party
+Claremont, Cape Town	leaderParty	Democratic Alliance (South Africa)
+Unirea, Alba	leaderParty	Liberal Party of Romania
+Vielha e Mijaran	leaderParty	Aranese Democratic Convergence
+Torrijos, Spain	leaderParty	People's Party (Spain)
+Ses Salines	leaderParty	Spanish Socialist Workers' Party
+Son Servera	leaderParty	People's Party (Spain)
+Pencahue	leaderParty	National Renewal (Chile)
+Grellingen	leaderParty	Christian Democratic People's Party of Switzerland
+Cobquecura	leaderParty	Social Democrat Radical Party
+Ponte Buggianese	leaderParty	Democratic Party (Italy)
+Montebello Vicentino	leaderParty	Union of Christian and Centre Democrats
+Pelarco	leaderParty	Independent (politician)
+Sagrada Familia, Chile	leaderParty	Socialist Party of Chile
+Vichuquén	leaderParty	Party for Democracy
+Licantén	leaderParty	Independent Democrat Union
+Rauco	leaderParty	National Renewal (Chile)
+Romeral	leaderParty	List of Christian democratic parties
+San Rafael, Chile	leaderParty	Independent Democrat Union
+El Monte, Chile	leaderParty	National Renewal (Chile)
+Fuentealbilla	leaderParty	People's Party (Spain)
+Molinicos	leaderParty	Spanish Socialist Workers' Party
+Almagro, Ciudad Real	leaderParty	People's Party (Spain)
+Anchuras	leaderParty	Spanish Socialist Workers' Party
+Bolaños de Calatrava	leaderParty	Partido Popular
+Calzada de Calatrava	leaderParty	People's Party (Spain)
+Alcorcón	leaderParty	People's Party
+Malagón	leaderParty	Spanish Socialist Workers' Party
+Miguelturra	leaderParty	Spanish Socialist Workers' Party
+Moral de Calatrava	leaderParty	People's Party
+Pedro Muñoz	leaderParty	People's Party (Spain)
+Tavernes de la Valldigna	leaderParty	People's Party (Spain)
+Cabanes, Castellón	leaderParty	People's Party (Spain)
+Xirivella	leaderParty	People's Party (Spain)
+Bernate Ticino	leaderParty	PDL
+Curacautín	leaderParty	Independent (politician)
+Mircea Vodă, Constanţa	leaderParty	Social Democratic Party (Romania)
+Embrach	leaderParty	Swiss People's Party
+Wiesendangen	leaderParty	Free Democratic Party of Switzerland
+Castillejo de Iniesta	leaderParty	Spanish Socialist Workers' Party
+Pucón	leaderParty	Party for Democracy
+Berglangenbach	leaderParty	Social Democratic Party of Germany
+Avrămeşti	leaderParty	Democratic Union of Hungarians in Romania
+Observatory, Cape Town	leaderParty	Democratic Alliance (South Africa)
+Abejar	leaderParty	Spanish Socialist Workers' Party
+Chagarcía Medianero	leaderParty	People's Party (Spain)
+Sonvico	leaderParty	Christian Democratic People's Party of Switzerland
+Purén	leaderParty	List of Christian democratic parties
+Algorfa	leaderParty	People's Party (Spain)
+Villarino de los Aires	leaderParty	Spanish Socialist Workers' Party
+Oborishte	leaderParty	Citizens for European Development of Bulgaria
+Poibrene	leaderParty	Euroroma
+Kpeve	leaderParty	National Democratic Congress (Ghana)
+Lanjarón	leaderParty	Spanish Socialist Workers' Party
+Ružić	leaderParty	Croatian Democratic Union
+Sigüenza	leaderParty	Spanish Socialist Workers' Party
+Purranque	leaderParty	Socialist Party of Chile
+La Guajira Department	leaderParty	List of political parties in Colombia
+Grubišno Polje	leaderParty	Croatian Democratic Union
+Lipova, Arad	leaderParty	PD-L (Romania)
+Adenbüttel	leaderParty	Social Democratic Party of Germany
+Gor, Granada	leaderParty	People's Party (Spain)
+Donja Voća	leaderParty	HNS
+Bistra, Croatia	leaderParty	Croatian Democratic Union
+Marija Gorica	leaderParty	Croatian Democratic Union
+Slava Cercheză	leaderParty	Romanian ethnic minorities parties
+Veliki Grđevac	leaderParty	Croatian People's Party – Liberal Democrats
+Tolima Department	leaderParty	Colombian Conservative Party
+Bistra, Maramureş	leaderParty	Democratic Liberal Party (Romania)
+Fuente Vaqueros	leaderParty	Independientes Por Fuente Vaqueros
+Sândominic	leaderParty	Democratic Union of Hungarians in Romania
+Montijo, Spain	leaderParty	People's Party (Spain)
+Arancón	leaderParty	People's Party (Spain)
+Zlaté Klasy	leaderParty	Most–Híd
+Vrakúň	leaderParty	Party of the Hungarian Coalition
+Michal na Ostrove	leaderParty	Party of the Hungarian Coalition
+Mad (village)	leaderParty	Party of the Hungarian Coalition
+Sap (village)	leaderParty	Party of the Hungarian Coalition
+Mierovo	leaderParty	Party of the Hungarian Coalition
+Kyselica	leaderParty	Party of the Hungarian Coalition
+Čiližská Radvaň	leaderParty	Party of the Hungarian Coalition
+Lehnice	leaderParty	Slovak Democratic and Christian Union – Democratic Party
+Kvetoslavov	leaderParty	Slovak Democratic and Christian Union – Democratic Party
+Kostolné Kračany	leaderParty	Most–Híd
+Kostolné Kračany	leaderParty	Party of the Hungarian Coalition
+Malé Dvorníky	leaderParty	Most–Híd
+Nový Život	leaderParty	Party of the Hungarian Coalition
+Medveďov	leaderParty	Party of the Hungarian Coalition
+Štvrtok na Ostrove	leaderParty	Party of the Hungarian Coalition
+Dolný Bar	leaderParty	Party of the Hungarian Coalition
+Dolný Bar	leaderParty	Most–Híd
+Dolný Štál	leaderParty	Party of the Hungarian Coalition
+Dunajský Klátov	leaderParty	Most–Híd
+Horné Mýto	leaderParty	Party of the Hungarian Coalition
+Janíky	leaderParty	Most–Híd
+Jurová	leaderParty	Most–Híd
+Kľúčovec	leaderParty	Party of the Hungarian Coalition
+Oľdza	leaderParty	Party of the Hungarian Coalition
+Padáň	leaderParty	Most–Híd
+Pataš	leaderParty	Party of the Hungarian Coalition
+Topoľníky	leaderParty	Party of the Hungarian Coalition
+Veľká Paka	leaderParty	Slovak Democratic and Christian Union – Democratic Party
+Veľká Paka	leaderParty	Party of the Hungarian Coalition
+Veľké Dvorníky	leaderParty	Party of the Hungarian Coalition
+Istria, Constanţa	leaderParty	National Liberal Party (Romania)
+Anglès, Girona	leaderParty	Convergence and Union
+Santoña	leaderParty	Partido Socialista de Cantabria
+Fresia, Chile	leaderParty	Socialist Party of Chile
+Anzing	leaderParty	Christian Social Union of Bavaria
+San Salvador, Entre Ríos	leaderParty	Justicialist Party
+Hankensbüttel (Samtgemeinde)	leaderParty	Independent (politician)
+Angelbachtal	leaderParty	Christian Democratic Union (Germany)
+Benissa	leaderParty	People's Party (Spain)
+Sagunto	leaderParty	People's Party (Spain)
+Marín, Pontevedra	leaderParty	Socialist Party of Galicia
+Mittenwald	leaderParty	Free Voters
+Chilean Antarctic Territory	leaderParty	Social Democrat Radical Party
+Marsaskala	leaderParty	Labour Party (Malta)
+Vinaixa	leaderParty	People's Party (Spain)
+Eissen	leaderParty	Christian Democratic Union (Germany)
+Quirós	leaderParty	Spanish Socialist Workers' Party
+Didderse	leaderParty	Social Democratic Party of Germany
+Cubillos del Sil	leaderParty	Spanish Socialist Workers' Party
+Benaguasil	leaderParty	People's Party (Spain)
+Sembach	leaderParty	Social Democratic Party of Germany
+Rangsdorf	leaderParty	Free Democratic Party (Germany)
+Ranco Province	leaderParty	Independent Democrat Union
+Alţâna	leaderParty	Democratic Liberal Party (Romania)
+Jurilovca	leaderParty	Social Democratic Party (Romania)
+Logrosán	leaderParty	People's Party (Spain)
+Punta Arenas	leaderParty	Independent (politician)
+Renaico	leaderParty	Independent (politician)
+San Felipe de Aconcagua Province	leaderParty	Christian Democrat Party of Chile
+Parla	leaderParty	Spanish Socialist Workers' Party
+Sanlúcar la Mayor	leaderParty	Spanish Socialist Workers' Party
+Los Lagos, Chile	leaderParty	Independent (politician)
+Porumbacu de Jos	leaderParty	Social Democratic Party (Romania)
+Toltén	leaderParty	Independent Democrat Union
+Pinar de Campoverde	leaderParty	Spanish Socialist Workers' Party
+Desna Raion	leaderParty	Leonid Chernovetskyi
+Perquenco	leaderParty	List of Christian democratic parties
+Unirea, Călăraşi	leaderParty	Social Democratic Party (Romania)
+Costeşti, Buzău	leaderParty	Social Democratic Party (Romania)
+Măgura, Buzău	leaderParty	Democratic Liberal Party (Romania)
+Colţi	leaderParty	Democratic Liberal Party (Romania)
+Glodeanu-Siliştea	leaderParty	National Liberal Party (Romania)
+Topraisar	leaderParty	Social Democratic Party (Romania)
+Bujalance	leaderParty	Spanish Socialist Workers' Party
+Cobadin	leaderParty	Social Democratic Party (Romania)
+Valu lui Traian	leaderParty	Democratic Liberal Party (Romania)
+Haimhausen	leaderParty	Christian Social Union of Bavaria
+Rubí, Barcelona	leaderParty	Partido Socialista (Spain)
+El Astillero	leaderParty	People's Party (Spain)
+Berca	leaderParty	National Liberal Party (Romania)
+Bérchules	leaderParty	Spanish Socialist Workers' Party
+Münchsteinach	leaderParty	Free Voters
+Cârţişoara	leaderParty	Democratic Liberal Party (Romania)
+Cârţa, Sibiu	leaderParty	Social Democratic Party (Romania)
+Săcele, Constanţa	leaderParty	National Liberal Party (Romania)
+Agigea	leaderParty	Social Democratic Party (Romania)
+Cumpăna	leaderParty	Social Democratic Party (Romania)
+Ciocârlia, Constanţa	leaderParty	Social Democratic Party (Romania)
+Amzacea	leaderParty	Social Democratic Party (Romania)
+Bărăganu	leaderParty	Social Democratic Party (Romania)
+Mereni, Constanţa	leaderParty	Democratic Liberal Party (Romania)
+23 August, Constanţa	leaderParty	Democratic Liberal Party (Romania)
+Colindres	leaderParty	Partido Socialista de Cantabria
+Loncoche	leaderParty	National Renewal (Chile)
+Mihail Kogălniceanu, Constanţa	leaderParty	Social Democratic Party (Romania)
+Łomianki	leaderParty	Civic Platform
+Valdeande	leaderParty	Tierra Comunera
+Rasova	leaderParty	Democratic Liberal Party (Romania)
+Deleni, Constanţa	leaderParty	Social Democratic Party (Romania)
+Aliman	leaderParty	Social Democratic Party (Romania)
+Peştera	leaderParty	Social Democratic Party (Romania)
+Ion Corvin, Constanţa	leaderParty	Democratic Liberal Party (Romania)
+Băneasa, Constanţa	leaderParty	Social Democratic Party (Romania)
+Independenţa, Constanţa	leaderParty	Social Democratic Party (Romania)
+Dobromir	leaderParty	Social Democratic Party (Romania)
+Limanu	leaderParty	National Liberal Party (Romania)
+Campaspero	leaderParty	People's Party (Spain)
+Topalu	leaderParty	Social Democratic Party (Romania)
+Siliştea, Constanţa	leaderParty	Social Democratic Party (Romania)
+Albeşti, Constanţa	leaderParty	Democratic Liberal Party (Romania)
+Mihai Viteazu, Constanţa	leaderParty	National Liberal Party (Romania)
+Crucea, Constanţa	leaderParty	Social Democratic Party (Romania)
+Cogealac	leaderParty	Christian-Democratic National Peasants' Party (Romania)
+Nacimiento, Chile	leaderParty	Socialist Party of Chile
+Nabiganj Upazila	leaderParty	BNP
+Barlekha Upazila	leaderParty	Bangladesh Awami League
+Kulaura Upazila	leaderParty	Jatiya Party
+Maulvibazar Sadar Upazila	leaderParty	Bangladesh Awami League
+Rajnagar Upazila	leaderParty	Bangladesh Awami League
+Bishwamvarpur Upazila	leaderParty	Jatiya Party
+Chhatak Upazila	leaderParty	Bangladesh Awami League
+Derai Upazila	leaderParty	Bangladesh Awami League
+Dharampasha Upazila	leaderParty	Bangladesh Awami League
+Dowarabazar Upazila	leaderParty	Bangladesh Awami League
+Jamalganj Upazila	leaderParty	Bangladesh Awami League
+Jagannathpur Upazila	leaderParty	Bangladesh Awami League
+Sullah Upazila	leaderParty	Bangladesh Awami League
+Tahirpur Upazila	leaderParty	Bangladesh Awami League
+Balaganj Upazila	leaderParty	Bangladesh Awami League
+Bishwanath Upazila	leaderParty	Bangladesh Awami League
+Fenchuganj Upazila	leaderParty	Bangladesh Awami League
+Golapganj Upazila	leaderParty	Bangladesh Awami League
+Companiganj Upazila, Sylhet	leaderParty	Bangladesh Awami League
+Negueira de Muñiz	leaderParty	Spanish Socialist Workers' Party
+Nicolae Bălcescu, Constanţa	leaderParty	Democratic Liberal Party (Romania)
+Cuza Vodă, Constanţa	leaderParty	Social Democratic Party (Romania)
+Saligny, Constanţa	leaderParty	Social Democratic Party (Romania)
+Lumina, Constanţa	leaderParty	Social Democratic Party (Romania)
+Corbu, Constanţa	leaderParty	National Liberal Party (Romania)
+Lipniţa	leaderParty	Social Democratic Party (Romania)
+Comana, Constanţa	leaderParty	National Liberal Party (Romania)
+Saraiu	leaderParty	Social Democratic Party (Romania)
+Seimeni, Constanţa	leaderParty	National Liberal Party (Romania)
+Târguşor	leaderParty	Social Democratic Party (Romania)
+Tortoman	leaderParty	Social Democratic Party (Romania)
+Vulturu, Constanţa	leaderParty	Christian-Democratic National Peasants' Party (Romania)
+Pantelimon, Constanţa	leaderParty	Social Democratic Party (Romania)
+Ostrov, Constanţa	leaderParty	Social Democratic Party (Romania)
+Oltina	leaderParty	National Liberal Party (Romania)
+Horia, Constanţa	leaderParty	Democratic Liberal Party (Romania)
+Grădina	leaderParty	Social Democratic Party (Romania)
+Ghindăreşti	leaderParty	Democratic Liberal Party (Romania)
+Gârliciu	leaderParty	Social Democratic Party (Romania)
+Fântânele, Constanţa	leaderParty	Social Democratic Party (Romania)
+Dumbrăveni, Constanţa	leaderParty	Social Democratic Party (Romania)
+Ciobanu	leaderParty	New Generation Party – Christian Democratic
+Chirnogeni	leaderParty	Social Democratic Party (Romania)
+Cerchezu	leaderParty	Social Democratic Party (Romania)
+Castelu	leaderParty	Democratic Liberal Party (Romania)
+Schuttertal	leaderParty	Alliance '90/The Greens
+Kleinwallstadt	leaderParty	Christian Social Union of Bavaria
+Castellar del Vallès	leaderParty	Socialists' Party of Catalonia
+Maraña	leaderParty	People's Party (Spain)
+Niederkirchen bei Deidesheim	leaderParty	Christian Democratic Union (Germany)
+Melipeuco	leaderParty	Independent Democrat Union
+Brădeşti, Harghita	leaderParty	Independent (politician)
+Căpâlniţa	leaderParty	Democratic Union of Hungarians in Romania
+Schliengen	leaderParty	Free Democratic Party (Germany)
+Schliengen	leaderParty	Democratic People's Party (Germany)
+Peloponnese Periphery	leaderParty	Panhellenic Socialist Movement
+Reinosa	leaderParty	Regionalist Party of Cantabria
+Ciucsângeorgiu	leaderParty	Democratic Union of Hungarians in Romania
+Ciumani	leaderParty	Independent (politician)
+Corund	leaderParty	Democratic Union of Hungarians in Romania
+Dăneşti, Harghita	leaderParty	Democratic Union of Hungarians in Romania
+Dealu	leaderParty	Democratic Union of Hungarians in Romania
+Ditrău	leaderParty	Independent (politician)
+Feliceni	leaderParty	Democratic Union of Hungarians in Romania
+Frumoasa, Harghita	leaderParty	Democratic Union of Hungarians in Romania
+Joseni	leaderParty	Democratic Union of Hungarians in Romania
+Lunca de Jos	leaderParty	Independent (politician)
+Lunca de Sus	leaderParty	Democratic Union of Hungarians in Romania
+Lupeni, Harghita	leaderParty	Democratic Union of Hungarians in Romania
+Neuendettelsau	leaderParty	Christian Social Union of Bavaria
+Mărtiniş	leaderParty	Democratic Union of Hungarians in Romania
+Mereşti	leaderParty	Democratic Union of Hungarians in Romania
+Mihăileni, Harghita	leaderParty	Democratic Union of Hungarians in Romania
+Mugeni	leaderParty	Democratic Union of Hungarians in Romania
+Ocland	leaderParty	Democratic Union of Hungarians in Romania
+Păuleni-Ciuc	leaderParty	Independent (politician)
+Plăieşii de Jos	leaderParty	Democratic Union of Hungarians in Romania
+Praid	leaderParty	Democratic Union of Hungarians in Romania
+Remetea, Harghita	leaderParty	Democratic Union of Hungarians in Romania
+Santa Fe, Granada	leaderParty	Spanish Socialist Workers' Party
+Majadahonda	leaderParty	People's Party (Spain)
+Wörnitz	leaderParty	Free Voters
+Schorfheide (municipality)	leaderParty	Free Voters
+Melipilla	leaderParty	Party for Democracy
+Gardens, Cape Town	leaderParty	Democratic Alliance (South Africa)
+Săcel, Harghita	leaderParty	Democratic Union of Hungarians in Romania
+Sâncrăieni	leaderParty	Democratic Union of Hungarians in Romania
+Nufringen	leaderParty	Christian Democratic Union (Germany)
+Sânmartin, Harghita	leaderParty	Democratic Union of Hungarians in Romania
+Sânsimion	leaderParty	Democratic Union of Hungarians in Romania
+Dischingen	leaderParty	Christian Democratic Union (Germany)
+Moos, Bavaria	leaderParty	Free Voters
+Oberstenfeld	leaderParty	Christian Democratic Union (Germany)
+Bad Peterstal-Griesbach	leaderParty	Christian Democratic Union (Germany)
+Lautenbach	leaderParty	Christian Democratic Union (Germany)
+Seelbach, Baden-Württemberg	leaderParty	Christian Democratic Union (Germany)
+Iffezheim	leaderParty	Christian Democratic Union (Germany)
+Heiligkreuzsteinach	leaderParty	Parteilos
+Emmerting	leaderParty	Free Voters
+Erlbach	leaderParty	Free Voters
+Feichten	leaderParty	Christian Social Union of Bavaria
+Feichten	leaderParty	Free Voters
+Haiming, Germany	leaderParty	Christian Social Union of Bavaria
+Kastl, Upper Bavaria	leaderParty	Free Voters
+Edelsfeld	leaderParty	Free Voters
+Hahnbach	leaderParty	Christian Social Union of Bavaria
+Arberg	leaderParty	Free Voters
+Bechhofen	leaderParty	Free Voters
+Bruckberg, Middle Franconia	leaderParty	Free Voters
+Buch am Wald	leaderParty	Free Voters
+Burk, Bavaria	leaderParty	Free Voters
+Colmberg	leaderParty	Free Voters
+Mönchsroth	leaderParty	Social Democratic Party of Germany
+Neusitz	leaderParty	Free Voters
+Haibach, Lower Franconia	leaderParty	Christian Social Union of Bavaria
+Glattbach	leaderParty	Christian Social Union of Bavaria
+Krombach, Bavaria	leaderParty	Christian Social Union of Bavaria
+Laufach	leaderParty	Free Voters
+Sailauf	leaderParty	Christian Social Union of Bavaria
+Rothenbuch	leaderParty	Social Democratic Party of Germany
+Sommerkahl	leaderParty	Christian Social Union of Bavaria
+Stockstadt am Main	leaderParty	Christian Social Union of Bavaria
+Weibersbrunn	leaderParty	Social Democratic Party of Germany
+Waldaschaff	leaderParty	Christian Social Union of Bavaria
+Aura an der Saale	leaderParty	Christian Social Union of Bavaria
+Aura an der Saale	leaderParty	Free Voters
+Bad Bocklet	leaderParty	Christian Social Union of Bavaria
+Euerdorf	leaderParty	Christian Social Union of Bavaria
+Motten	leaderParty	Free Voters
+Riedenberg	leaderParty	Social Democratic Party of Germany
+Recaş	leaderParty	Social Democratic Party (Romania)
+Bad Heilbrunn	leaderParty	Christian Social Union of Bavaria
+Kemmern	leaderParty	Christian Social Union of Bavaria
+Gundelsheim, Bavaria	leaderParty	Christian Social Union of Bavaria
+Lauter, Bavaria	leaderParty	Christian Social Union of Bavaria
+Oberhaid	leaderParty	Social Democratic Party of Germany
+Litzendorf	leaderParty	Christian Social Union of Bavaria
+Reckendorf	leaderParty	Christian Social Union of Bavaria
+Strullendorf	leaderParty	Social Democratic Party of Germany
+Walsdorf	leaderParty	Christian Social Union of Bavaria
+Arrach	leaderParty	Christian Social Union of Bavaria
+Chamerau	leaderParty	Christian Social Union of Bavaria
+Blaibach	leaderParty	Christian Social Union of Bavaria
+Blaibach	leaderParty	Free Voters
+Grub am Forst	leaderParty	Social Democratic Party of Germany
+Weitramsdorf	leaderParty	Free Voters
+Erdweg	leaderParty	Free Voters
+Schwabhausen	leaderParty	Christian Social Union of Bavaria
+Auerbach, Lower Bavaria	leaderParty	Free Voters
+Oberpöring	leaderParty	Freie Wählergemeinschaft
+Schöllnach	leaderParty	Free Voters
+Emmering, Ebersberg	leaderParty	Free Voters
+Forstinning	leaderParty	Christian Social Union of Bavaria
+Altmannstein	leaderParty	Christian Social Union of Bavaria
+Egweil	leaderParty	Christian Social Union of Bavaria
+Adelsdorf, Bavaria	leaderParty	Free Voters
+Gößweinstein	leaderParty	Christian Social Union of Bavaria
+Hiltpoltstein	leaderParty	Free Voters
+Leutenbach, Bavaria	leaderParty	Free Voters
+Riegsee	leaderParty	FWG
+Wallgau	leaderParty	Christian Social Union of Bavaria
+Ihrlerstein	leaderParty	Free Voters
+Ihrlerstein	leaderParty	Christian Social Union of Bavaria
+Kleinlangheim	leaderParty	Free Voters
+Mainstockheim	leaderParty	Free Voters
+Nordheim am Main	leaderParty	Free Voters
+Guttenberg, Bavaria	leaderParty	Christian Social Union of Bavaria
+Magallanes Province	leaderParty	National Renewal (Chile)
+Benitachell/El Poble Nou de Benitatxell	leaderParty	People's Party (Spain)
+Campo de Mirra	leaderParty	Spanish Socialist Workers' Party
+El Fondó de les Neus	leaderParty	People's Party (Spain)
+Torremanzanas/La Torre de les Maçanes	leaderParty	People's Party (Spain)
+Monòver	leaderParty	People's Party (Spain)
+Lorcha/L'Orxa	leaderParty	People's Party (Spain)
+Jalón	leaderParty	Iniciativa Independent
+Bodenkirchen	leaderParty	Free Voters
+Furth, Lower Bavaria	leaderParty	Alliance '90/The Greens
+Postau	leaderParty	Free Voters
+Schalkham	leaderParty	Free Voters
+Altenkunstadt	leaderParty	Free Voters
+Ebensfeld	leaderParty	Christian Social Union of Bavaria
+Heimenkirch	leaderParty	Free Voters
+Birkenfeld, Bavaria	leaderParty	Free Voters
+Bischbrunn	leaderParty	Christian Social Union of Bavaria
+Eußenheim	leaderParty	Christian Social Union of Bavaria
+Fellen	leaderParty	Christian Social Union of Bavaria
+Hafenlohr	leaderParty	Christian Social Union of Bavaria
+Hasloch	leaderParty	Social Democratic Party of Germany
+Himmelstadt	leaderParty	Christian Social Union of Bavaria
+Neuhütten	leaderParty	Christian Social Union of Bavaria
+Kreuzwertheim	leaderParty	Christian Social Union of Bavaria
+Schollbrunn	leaderParty	Christian Social Union of Bavaria
+Triefenstein	leaderParty	Christian Social Union of Bavaria
+Fischbachau	leaderParty	Christian Social Union of Bavaria
+Altenbuch	leaderParty	Christian Social Union of Bavaria
+Bürgstadt	leaderParty	Christian Social Union of Bavaria
+Eichenbühl	leaderParty	Social Democratic Party of Germany
+Eschau	leaderParty	Social Democratic Party of Germany
+Elsenfeld	leaderParty	Christian Social Union of Bavaria
+Faulbach	leaderParty	Social Democratic Party of Germany
+Hausen, Miltenberg	leaderParty	Christian Social Union of Bavaria
+Großwallstadt	leaderParty	Christian Social Union of Bavaria
+Kirchzell	leaderParty	Christian Social Union of Bavaria
+Kleinheubach	leaderParty	Social Democratic Party of Germany
+Leidersbach	leaderParty	Free Voters
+Mönchberg	leaderParty	Christian Social Union of Bavaria
+Neunkirchen, Lower Franconia	leaderParty	Free Voters
+Niedernberg	leaderParty	Christian Social Union of Bavaria
+Röllbach	leaderParty	Christian Social Union of Bavaria
+Schneeberg, Bavaria	leaderParty	Christian Social Union of Bavaria
+Sulzbach am Main	leaderParty	Freie Wählergruppe
+Buchbach	leaderParty	CSU
+Kraiburg	leaderParty	Free Voters
+Secuieni, Harghita	leaderParty	Democratic Union of Hungarians in Romania
+Siculeni	leaderParty	Democratic Union of Hungarians in Romania
+Şimoneşti	leaderParty	Democratic Union of Hungarians in Romania
+Suseni, Harghita	leaderParty	Democratic Union of Hungarians in Romania
+Tuşnad	leaderParty	Democratic Union of Hungarians in Romania
+Ulieş	leaderParty	Independent (politician)
+Vărşag	leaderParty	Democratic Union of Hungarians in Romania
+Zetea	leaderParty	Democratic Union of Hungarians in Romania
+Berngau	leaderParty	Christian Social Union of Bavaria
+Breitenbrunn, Upper Palatinate	leaderParty	Christian Social Union of Bavaria
+Deining	leaderParty	Christian Social Union of Bavaria
+Baudenbach	leaderParty	Christian Social Union of Bavaria
+Neuhof an der Zenn	leaderParty	Christian Social Union of Bavaria
+Useras	leaderParty	Spanish Socialist Workers' Party
+Oropesa del Mar	leaderParty	People's Party (Spain)
+Uehlfeld	leaderParty	CSU
+Ciceu	leaderParty	Democratic Union of Hungarians in Romania
+Cozmeni	leaderParty	Democratic Union of Hungarians in Romania
+Almaraz	leaderParty	People's Party (Spain)
+Almassora	leaderParty	People's Party (Spain)
+Sueras/Suera	leaderParty	Spanish Socialist Workers' Party
+Xert	leaderParty	People's Party (Spain)
+El Puig	leaderParty	People's Party (Spain)
+Mogente/Moixent	leaderParty	People's Party (Spain)
+Palma de Gandia	leaderParty	People's Party (Spain)
+Potríes	leaderParty	Valencian Nationalist Bloc
+El Real de Gandia	leaderParty	Partido Popular
+Alfeld, Bavaria	leaderParty	Christian Social Union of Bavaria
+Aicha vorm Wald	leaderParty	Freie Wählergruppe
+Bad Griesbach (Rottal)	leaderParty	Christian Social Union of Bavaria
+Büchlberg	leaderParty	Freie Wählergruppe
+Baar-Ebenhausen	leaderParty	Christian Social Union of Bavaria
+Bernhardswald	leaderParty	Christian Social Union of Bavaria
+Pfatter	leaderParty	Free Voters
+Flintsbach	leaderParty	Christian Social Union of Bavaria
+Allersberg	leaderParty	Christian Social Union of Bavaria
+Bad Birnbach	leaderParty	Christian Social Union of Bavaria
+Johanniskirchen	leaderParty	Free Voters
+Bruck in der Oberpfalz	leaderParty	Free Voters
+Bergrheinfeld	leaderParty	Free Voters
+Gochsheim	leaderParty	Christian Social Union of Bavaria
+Niederwerrn	leaderParty	Free Voters
+Röthlein	leaderParty	Christian Social Union of Bavaria
+Üchtelhausen	leaderParty	Free Voters
+Schwarzach, Lower Bavaria	leaderParty	Free Democratic Party (Germany)
+Waging am See	leaderParty	Free Voters
+Koggenland	leaderParty	GreenLeft
+Lauenau	leaderParty	Social Democratic Party of Germany
+Hahausen	leaderParty	Social Democratic Party of Germany
+Moieciu	leaderParty	Social Democratic Party (Romania)
+Breydin	leaderParty	The Left (Germany)
+Althüttendorf	leaderParty	Einzelbewerber
+Britz, Brandenburg	leaderParty	Wählergemeinschaft
+Hohenfinow	leaderParty	Einzelbewerber
+Lunow-Stolzenhagen	leaderParty	Wählergemeinschaft
+Melchow	leaderParty	Free Voters
+Eichwalde	leaderParty	The Left (Germany)
+Schulzendorf	leaderParty	The Left (Germany)
+Venta de Baños	leaderParty	Spanish Socialist Workers' Party
+Agullent	leaderParty	Valencian Nationalist Bloc
+Alaquàs	leaderParty	Spanish Socialist Workers' Party
+Albaida, Valencia	leaderParty	People's Party (Spain)
+Albalat dels Tarongers	leaderParty	PP
+Alberic, Valencia	leaderParty	People's Party (Spain)
+Alcàntera de Xúquer	leaderParty	Spanish Socialist Workers' Party
+Aldaia	leaderParty	Spanish Socialist Workers' Party
+Alfafar	leaderParty	Spanish Socialist Workers' Party
+Alfara del Patriarca	leaderParty	Spanish Socialist Workers' Party
+Alginet	leaderParty	People's Party (Spain)
+Almàssera	leaderParty	People's Party (Spain)
+Almoines	leaderParty	Valencian Nationalist Bloc
+Almussafes	leaderParty	Valencian Nationalist Bloc
+Barxeta	leaderParty	United Left (Spain)
+Barx	leaderParty	Spanish Socialist Workers' Party
+Benetússer	leaderParty	Socialist Party of the Valencian Country
+Benifairó de la Valldigna	leaderParty	Valencian Nationalist Bloc
+Benisanó	leaderParty	People's Party (Spain)
+Bocairent	leaderParty	Spanish Socialist Workers' Party
+Burjassot	leaderParty	Spanish Socialist Workers' Party
+Alborache	leaderParty	People's Party (Spain)
+Anna, Valencia	leaderParty	Spanish Socialist Workers' Party
+Bolbaite	leaderParty	People's Party (Spain)
+Ayora	leaderParty	Spanish Socialist Workers' Party
+Camporrobles	leaderParty	Spanish Socialist Workers' Party
+Canals, Valencia	leaderParty	People's Party (Spain)
+Canet d'En Berenguer	leaderParty	United Left (Spain)
+Carrícola	leaderParty	Spanish Socialist Workers' Party
+Casinos, Valencia	leaderParty	People's Party (Spain)
+Castelló de la Ribera	leaderParty	United Left (Spain)
+Catarroja	leaderParty	People's Party (Spain)
+Cerdà	leaderParty	People's Party (Spain)
+Cortes de Pallás	leaderParty	People's Party (Spain)
+Chella, Valencia	leaderParty	Spanish Socialist Workers' Party
+Chiva	leaderParty	People's Party (Spain)
+Chulilla	leaderParty	People's Party (Spain)
+Domeño	leaderParty	Spanish Socialist Workers' Party
+Dos Aguas	leaderParty	Valencian Union
+L'Eliana	leaderParty	Spanish Socialist Workers' Party
+L'Ènova	leaderParty	Spanish Socialist Workers' Party
+La Font d'En Carròs	leaderParty	People's Party (Spain)
+Fuenterrobles	leaderParty	United Left (Spain)
+La Font de la Figuera	leaderParty	People's Party (Spain)
+Guardamar de la Safor	leaderParty	Valencian Nationalist Bloc
+Jalance	leaderParty	People's Party (Spain)
+Macastre	leaderParty	Spanish Socialist Workers' Party
+Manises	leaderParty	People's Party (Spain)
+Massalfassar	leaderParty	People's Party (Spain)
+Massanassa	leaderParty	People's Party (Spain)
+Millares	leaderParty	People's Party (Spain)
+Náquera	leaderParty	People's Party (Spain)
+Navarrés	leaderParty	Spanish Socialist Workers' Party
+L'Olleria	leaderParty	Valencian Nationalist Bloc
+Otos, Valencia	leaderParty	Iniciativa del Poble Valencià
+Palmera	leaderParty	Valencian Nationalist Bloc
+Leliceni	leaderParty	Democratic Union of Hungarians in Romania
+Paterna	leaderParty	People's Party (Spain)
+Picassent	leaderParty	Spanish Socialist Workers' Party
+Porumbenii Mari	leaderParty	Democratic Union of Hungarians in Romania
+Mădăraş, Harghita	leaderParty	Democratic Union of Hungarians in Romania
+Racu	leaderParty	Democratic Union of Hungarians in Romania
+Sântimbru, Harghita	leaderParty	Democratic Union of Hungarians in Romania
+Tomeşti, Harghita	leaderParty	Democratic Union of Hungarians in Romania
+Polinyà de Xúquer	leaderParty	United Left (Spain)
+Puçol	leaderParty	Spanish Socialist Workers' Party
+Quart de Poblet	leaderParty	Spanish Socialist Workers' Party
+Quatretonda	leaderParty	Spanish Socialist Workers' Party
+Riba-roja de Túria	leaderParty	People's Party (Spain)
+Simat de la Valldigna	leaderParty	Valencian Nationalist Bloc
+Teresa de Cofrentes	leaderParty	People's Party (Spain)
+Turís	leaderParty	Spanish Socialist Workers' Party
+Utiel	leaderParty	People's Party (Spain)
+Venta del Moro	leaderParty	Spanish Socialist Workers' Party
+Villar del Arzobispo	leaderParty	Spanish Socialist Workers' Party
+Xeraco	leaderParty	Spanish Socialist Workers' Party
+Xeresa	leaderParty	Valencian Nationalist Bloc
+Lanco	leaderParty	Socialist Party of Chile
+Futrono	leaderParty	Independent Democrat Union
+Lago Ranco, Chile	leaderParty	List of Christian democratic parties
+Río Bueno, Chile	leaderParty	Independent Democrat Union
+Medinaceli	leaderParty	People's Party (Spain)
+Negrileşti, Galaţi	leaderParty	National Liberal Party (Romania)
+Pähl	leaderParty	Christian Social Union of Bavaria
+Aigües	leaderParty	People's Party (Spain)
+Alcoleja	leaderParty	Spanish Socialist Workers' Party
+Alfafara	leaderParty	Spanish Socialist Workers' Party
+Almudaina	leaderParty	People's Party (Spain)
+L'Alqueria d'Asnar	leaderParty	Spanish Socialist Workers' Party
+Balones	leaderParty	People's Party (Spain)
+Beneixama	leaderParty	Spanish Socialist Workers' Party
+Benasau	leaderParty	Spanish Socialist Workers' Party
+Benferri	leaderParty	Spanish Socialist Workers' Party
+Beniarbeig	leaderParty	Spanish Socialist Workers' Party
+Benidoleig	leaderParty	Valencian Nationalist Bloc
+Beniarrés	leaderParty	People's Party (Spain)
+Benijófar	leaderParty	Spanish Socialist Workers' Party
+Benillup	leaderParty	People's Party (Spain)
+Benimarfull	leaderParty	People's Party (Spain)
+Benimassot	leaderParty	Spanish Socialist Workers' Party
+Benimeli	leaderParty	People's Party (Spain)
+Benilloba	leaderParty	People's Party (Spain)
+Bigastro	leaderParty	Spanish Socialist Workers' Party
+Callosa de Segura	leaderParty	People's Party (Spain)
+Confrides	leaderParty	People's Party (Spain)
+Cox, Alicante	leaderParty	People's Party (Spain)
+Salamanca, Chile	leaderParty	Party for Democracy
+Palermo, Huila	leaderParty	Colombian Conservative Party
+Buda, Buzău	leaderParty	Democratic Liberal Party (Romania)
+Şura Mică	leaderParty	Democratic Liberal Party (Romania)
+Los Corrales de Buelna	leaderParty	People's Party (Spain)
+La Calera, Chile	leaderParty	Party for Democracy
+Lindau (Katlenburg-Lindau)	leaderParty	Christian Democratic Union (Germany)
+Otterstadt	leaderParty	Christian Democratic Union (Germany)
+Poşta Câlnău	leaderParty	Democratic Liberal Party (Romania)
+Săhăteni	leaderParty	Democratic Liberal Party (Romania)
+Zărneşti, Buzău	leaderParty	Democratic Liberal Party (Romania)
+Vipereşti	leaderParty	National Liberal Party (Romania)
+Vintilă Vodă	leaderParty	Democratic Liberal Party (Romania)
+Ziduri	leaderParty	Democratic Liberal Party (Romania)
+Ulmeni, Buzău	leaderParty	Democratic Liberal Party (Romania)
+Merei	leaderParty	National Liberal Party (Romania)
+Lopătari	leaderParty	Democratic Liberal Party (Romania)
+Siriu	leaderParty	Social Democratic Party (Romania)
+Gura Teghii	leaderParty	Social Democratic Party (Romania)
+Tisău	leaderParty	National Liberal Party (Romania)
+Cislău	leaderParty	Democratic Liberal Party (Romania)
+Săpoca	leaderParty	Social Democratic Party (Romania)
+Cernăteşti, Buzău	leaderParty	Democratic Liberal Party (Romania)
+Padina, Buzău	leaderParty	Social Democratic Party (Romania)
+Mihăileşti, Buzău	leaderParty	National Liberal Party (Romania)
+Vadu Paşii	leaderParty	Democratic Liberal Party (Romania)
+Panquehue	leaderParty	Independent Democrat Union
+Cártama	leaderParty	Spanish Socialist Workers' Party
+Chiojdu	leaderParty	National Liberal Party (Romania)
+Cătina, Buzău	leaderParty	National Liberal Party (Romania)
+Bozioru	leaderParty	National Liberal Party (Romania)
+Blăjani	leaderParty	Democratic Liberal Party (Romania)
+Năeni	leaderParty	National Liberal Party (Romania)
+Pănătău	leaderParty	Democratic Liberal Party (Romania)
+Ţinteşti	leaderParty	Social Democratic Party (Romania)
+Cozieni	leaderParty	Democratic Liberal Party (Romania)
+Ruşeţu	leaderParty	Democratic Liberal Party (Romania)
+San Sebastián	leaderParty	Bildu
+Nackenheim	leaderParty	Christian Democratic Union (Germany)
+Lutter am Barenberge (Samtgemeinde)	leaderParty	Social Democratic Party of Germany
+Quirihue	leaderParty	Social Democrat Radical Party
+Igualeja	leaderParty	People's Party (Spain)
+Iznate	leaderParty	Spanish Socialist Workers' Party
+Central Greece Periphery	leaderParty	Panhellenic Socialist Movement
+Cimanes de la Vega	leaderParty	Spanish Socialist Workers' Party
+Caravia	leaderParty	Spanish Socialist Workers' Party
+Ustersbach	leaderParty	Christian Social Union of Bavaria
+Weichs	leaderParty	Free Voters
+Zell im Fichtelgebirge	leaderParty	Free Voters
+Valle de Abdalajís	leaderParty	Spanish Socialist Workers' Party
+Saal an der Saale	leaderParty	Free Voters
+Gangkofen	leaderParty	Christian Social Union of Bavaria
+Lülsfeld	leaderParty	Free Voters
+Michelau im Steigerwald	leaderParty	Free Voters
+Bălăceanu	leaderParty	National Liberal Party (Romania)
+Ascha	leaderParty	Christian Social Union of Bavaria
+Benningen	leaderParty	Christian Social Union of Bavaria
+Buxheim, Swabia	leaderParty	Christian Social Union of Bavaria
+Markt Wald	leaderParty	Free Voters
+Lisa, Braşov	leaderParty	National Liberal Party (Romania)
+Albuñol	leaderParty	Spanish Socialist Workers' Party
+Eberfing	leaderParty	Christian Social Union of Bavaria
+Erlabrunn	leaderParty	Christian Social Union of Bavaria
+Ahrbrück	leaderParty	Christian Democratic Union (Germany)
+Königsfeld, Rhineland-Palatinate	leaderParty	Christian Democratic Union (Germany)
+Quiddelbach	leaderParty	Ecological Democratic Party
+Sangla Hill	leaderParty	Pakistan Muslim League (N)
+Atarfe	leaderParty	Spanish Socialist Workers' Party
+Friedrichswalde	leaderParty	Einzelbewerber
+San José de Maipo	leaderParty	National Renewal (Chile)
+Steinreich	leaderParty	Free Voters
+Dallgow-Döberitz	leaderParty	Free Voters
+Havelaue	leaderParty	Free Democratic Party (Germany)
+Nennhausen	leaderParty	The Left (Germany)
+Retzow	leaderParty	Free Voters
+Golzow	leaderParty	Free Democratic Party (Germany)
+Sonnenberg	leaderParty	Christian Democratic Union (Germany)
+Frauendorf	leaderParty	Free Voters
+Guteborn	leaderParty	Parteilos
+Hermsdorf, Brandenburg	leaderParty	Parteilos
+Hohenbocka	leaderParty	Free Voters
+Neupetershain	leaderParty	Free Voters
+Tettau, Brandenburg	leaderParty	Free Voters
+Bad Saarow	leaderParty	The Left (Germany)
+Brieskow-Finkenheerd	leaderParty	Free Voters
+Diensdorf-Radlow	leaderParty	The Left (Germany)
+Berge, Brandenburg	leaderParty	Parteilos
+Cumlosen	leaderParty	Free Voters
+Weisen	leaderParty	Free Voters
+Briesen (Spreewald)	leaderParty	Free Voters
+Burg (Spreewald)	leaderParty	The Left (Germany)
+Drachhausen	leaderParty	Free Voters
+Guhrow	leaderParty	Free Voters
+Heinersbrück	leaderParty	Free Voters
+Hornow-Wadelsdorf	leaderParty	Christian Democratic Union (Germany)
+Jämlitz-Klein Düben	leaderParty	Free Voters
+Neiße-Malxetal	leaderParty	Parteilos
+Schmogrow-Fehrow	leaderParty	Free Voters
+Teichland	leaderParty	Parteilos
+Tauer	leaderParty	Free Democratic Party (Germany)
+Turnow-Preilack	leaderParty	Free Voters
+Wiesengrund	leaderParty	Free Voters
+Almanza	leaderParty	Spanish Socialist Workers' Party
+Enkirch	leaderParty	Social Democratic Party of Germany
+Heidenburg	leaderParty	Social Democratic Party of Germany
+Kinderbeuern	leaderParty	Christian Democratic Union (Germany)
+Kröv	leaderParty	Christian Democratic Union (Germany)
+Meerfeld	leaderParty	Christian Democratic Union (Germany)
+Alfoz de Lloredo	leaderParty	People's Party (Spain)
+Ampuero	leaderParty	Partido Socialista de Cantabria
+Anievas	leaderParty	People's Party (Spain)
+Arenas de Iguña	leaderParty	People's Party (Spain)
+Argoños	leaderParty	People's Party (Spain)
+Arredondo, Cantabria	leaderParty	Regionalist Party of Cantabria
+Alsheim	leaderParty	Christian Democratic Union (Germany)
+Bárcena de Cicero	leaderParty	Regionalist Party of Cantabria
+Bermersheim	leaderParty	Free Democratic Party (Germany)
+Bárcena de Pie de Concha	leaderParty	People's Party (Spain)
+Bareyo	leaderParty	Regionalist Party of Cantabria
+Biebelnheim	leaderParty	Social Democratic Party of Germany
+Dittelsheim-Heßloch	leaderParty	Christian Democratic Union (Germany)
+Erbes-Büdesheim	leaderParty	Christian Democratic Union (Germany)
+Cabezón de Liébana	leaderParty	People's Party (Spain)
+Cabuérniga	leaderParty	Regionalist Party of Cantabria
+Flonheim	leaderParty	Social Democratic Party of Germany
+Camaleño	leaderParty	Regionalist Party of Cantabria
+Gabsheim	leaderParty	Christian Democratic Union (Germany)
+Gundersheim	leaderParty	Social Democratic Party of Germany
+Gundheim	leaderParty	Christian Democratic Union (Germany)
+Campoo de Enmedio	leaderParty	Partido Socialista de Cantabria
+Hamm am Rhein	leaderParty	Social Democratic Party of Germany
+Campoo de Yuso	leaderParty	Regionalist Party of Cantabria
+Mölsheim	leaderParty	Social Democratic Party of Germany
+Cartes	leaderParty	Partido Socialista de Cantabria
+Mörstadt	leaderParty	Social Democratic Party of Germany
+Castañeda, Cantabria	leaderParty	Regionalist Party of Cantabria
+Wallertheim	leaderParty	Social Democratic Party of Germany
+Spiesheim	leaderParty	Social Democratic Party of Germany
+Offenheim	leaderParty	Social Democratic Party of Germany
+Bobenheim am Berg	leaderParty	Christian Democratic Union (Germany)
+Cieza, Cantabria	leaderParty	People's Party (Spain)
+Ebertsheim	leaderParty	Christian Democratic Union (Germany)
+Ellerstadt	leaderParty	Social Democratic Party of Germany
+Elmstein	leaderParty	Christian Democratic Union (Germany)
+Esthal	leaderParty	Christian Democratic Union (Germany)
+Frankeneck	leaderParty	Social Democratic Party of Germany
+Dirmstein	leaderParty	Free Voters
+Gönnheim	leaderParty	Social Democratic Party of Germany
+Herxheim am Berg	leaderParty	Social Democratic Party of Germany
+Großkarlbach	leaderParty	Social Democratic Party of Germany
+Cillorigo de Liébana	leaderParty	People's Party (Spain)
+Kindenheim	leaderParty	Free Voters
+Kirchheim an der Weinstraße	leaderParty	Social Democratic Party of Germany
+Laumersheim	leaderParty	Social Democratic Party of Germany
+Neidenfels	leaderParty	Christian Democratic Union (Germany)
+Neuleiningen	leaderParty	Christian Democratic Union (Germany)
+Obersülzen	leaderParty	Christian Democratic Union (Germany)
+Tiefenthal	leaderParty	Christian Democratic Union (Germany)
+Quirnheim	leaderParty	Social Democratic Party of Germany
+Ruppertsberg	leaderParty	Christian Democratic Union (Germany)
+Wattenheim	leaderParty	Christian Democratic Union (Germany)
+Weisenheim am Berg	leaderParty	Christian Democratic Union (Germany)
+Weidenthal	leaderParty	Social Democratic Party of Germany
+Weisenheim am Sand	leaderParty	Christian Democratic Union (Germany)
+Carlsberg, Germany	leaderParty	Christian Democratic Union (Germany)
+Lindenberg, Rhineland-Palatinate	leaderParty	Free Voters
+Meckenheim, Rhineland-Palatinate	leaderParty	Free Voters
+Obrigheim, Rhineland-Palatinate	leaderParty	Social Democratic Party of Germany
+Reil, Germany	leaderParty	Social Democratic Party of Germany
+Corvera de Toranzo	leaderParty	People's Party (Spain)
+Entrambasaguas	leaderParty	People's Party (Spain)
+Escalante, Cantabria	leaderParty	Regionalist Party of Cantabria
+Guriezo	leaderParty	People's Party (Spain)
+Hazas de Cesto	leaderParty	Regionalist Party of Cantabria
+Kurtscheid	leaderParty	Christian Democratic Union (Germany)
+Hermandad de Campoo de Suso	leaderParty	People's Party (Spain)
+Herrerías	leaderParty	Regionalist Party of Cantabria
+Lamasón	leaderParty	Regionalist Party of Cantabria
+Liendo	leaderParty	Partido Socialista de Cantabria
+Liérganes	leaderParty	People's Party (Spain)
+Limpias	leaderParty	Partido Socialista de Cantabria
+Luena, Cantabria	leaderParty	Regionalist Party of Cantabria
+Marina de Cudeyo	leaderParty	People's Party
+Morteros	leaderParty	UpC
+Ruschberg	leaderParty	Social Democratic Party of Germany
+Stipshausen	leaderParty	Social Democratic Party of Germany
+Rohrbach, Birkenfeld	leaderParty	Christian Democratic Union (Germany)
+Hoogstede	leaderParty	Christian Democratic Union (Germany)
+Laar	leaderParty	Christian Democratic Union (Germany)
+Bröckel	leaderParty	Christian Democratic Union (Germany)
+Barver	leaderParty	Free Voters
+Martfeld	leaderParty	Alliance '90/The Greens
+Schwerinsdorf	leaderParty	Free Voters
+Neukamperfehn	leaderParty	Free Voters
+Gusborn	leaderParty	Free Voters
+Küsten	leaderParty	Free Voters
+Trebel	leaderParty	Free Voters
+Aita Mare	leaderParty	Independent (politician)
+Arcuş	leaderParty	Democratic Union of Hungarians in Romania
+Băţani	leaderParty	Democratic Union of Hungarians in Romania
+Belin, Covasna	leaderParty	Democratic Union of Hungarians in Romania
+Winkelsett	leaderParty	Free Voters
+Holste	leaderParty	Free Voters
+Cabeza de Framontanos	leaderParty	Spanish Socialist Workers' Party
+Hörden am Harz	leaderParty	Christian Democratic Union (Germany)
+Zorge	leaderParty	Free Voters
+Vişeu de Jos	leaderParty	Partidul Social Democrat
+Bodoc	leaderParty	Democratic Union of Hungarians in Romania
+Boroşneu Mare	leaderParty	Democratic Union of Hungarians in Romania
+Brăduţ	leaderParty	Democratic Union of Hungarians in Romania
+Brateş	leaderParty	Independent (politician)
+Breţcu	leaderParty	Democratic Union of Hungarians in Romania
+Cernat	leaderParty	Democratic Union of Hungarians in Romania
+Chichiş	leaderParty	Democratic Union of Hungarians in Romania
+Comandău	leaderParty	Democratic Union of Hungarians in Romania
+Dalnic	leaderParty	Democratic Union of Hungarians in Romania
+Emtinghausen	leaderParty	Free Voters
+Blomberg, Lower Saxony	leaderParty	Free Voters
+Holtgast	leaderParty	Free Voters
+Ochtersum	leaderParty	Free Voters
+Schweindorf	leaderParty	Free Voters
+Utarp	leaderParty	Social Democratic Party of Germany
+Achim, Wolfenbüttel	leaderParty	Free Voters
+Flöthe	leaderParty	Free Voters
+Estelnic	leaderParty	Democratic Union of Hungarians in Romania
+Ghelinţa	leaderParty	Democratic Union of Hungarians in Romania
+Ghidfalău	leaderParty	Democratic Union of Hungarians in Romania
+Lemnia	leaderParty	Democratic Union of Hungarians in Romania
+Malnaş	leaderParty	Democratic Union of Hungarians in Romania
+Mereni, Covasna	leaderParty	Democratic Union of Hungarians in Romania
+Curarrehue	leaderParty	National Renewal (Chile)
+Micfalău	leaderParty	Democratic Union of Hungarians in Romania
+Moacşa	leaderParty	Democratic Union of Hungarians in Romania
+Ojdula	leaderParty	Democratic Union of Hungarians in Romania
+Ozun	leaderParty	Democratic Union of Hungarians in Romania
+Poian	leaderParty	Democratic Union of Hungarians in Romania
+Reci	leaderParty	Democratic Union of Hungarians in Romania
+Sânzieni	leaderParty	Independent (politician)
+Turia, Covasna	leaderParty	Democratic Union of Hungarians in Romania
+Valea Crişului	leaderParty	Democratic Union of Hungarians in Romania
+Vârghiş	leaderParty	Democratic Union of Hungarians in Romania
+Zagon	leaderParty	Democratic Union of Hungarians in Romania
+Hăghig	leaderParty	Democratic Union of Hungarians in Romania
+Vâlcele, Covasna	leaderParty	Social Democratic Party (Romania)
+Sângeorgiu de Pădure	leaderParty	Democratic Union of Hungarians in Romania
+Acăţari	leaderParty	Democratic Union of Hungarians in Romania
+Band, Mureş	leaderParty	National Liberal Party (Romania)
+Bereni	leaderParty	Democratic Union of Hungarians in Romania
+Chibed	leaderParty	Democratic Union of Hungarians in Romania
+Corunca	leaderParty	Democratic Union of Hungarians in Romania
+Eremitu	leaderParty	Democratic Union of Hungarians in Romania
+Fântânele, Mureş	leaderParty	Democratic Union of Hungarians in Romania
+Ernei	leaderParty	Democratic Union of Hungarians in Romania
+Găleşti, Mureş	leaderParty	Democratic Union of Hungarians in Romania
+Gheorghe Doja, Mureş	leaderParty	Democratic Union of Hungarians in Romania
+Ghindari	leaderParty	Democratic Union of Hungarians in Romania
+Glodeni, Mureş	leaderParty	Democratic Union of Hungarians in Romania
+Gorneşti	leaderParty	Democratic Union of Hungarians in Romania
+Hodoşa	leaderParty	Democratic Union of Hungarians in Romania
+Măgherani	leaderParty	Democratic Union of Hungarians in Romania
+Mădăraş, Mureş	leaderParty	Democratic Union of Hungarians in Romania
+Neaua	leaderParty	Democratic Union of Hungarians in Romania
+Papiu Ilarian	leaderParty	Democratic Union of Hungarians in Romania
+Pănet	leaderParty	Democratic Union of Hungarians in Romania
+Sărmaşu	leaderParty	National Liberal Party (Romania)
+Sâncraiu de Mureş	leaderParty	Social Democratic Party (Romania)
+Sângeorgiu de Mureş	leaderParty	Democratic Union of Hungarians in Romania
+Sântana de Mureş	leaderParty	Social Democratic Party (Romania)
+Sărăţeni, Mureş	leaderParty	Democratic Union of Hungarians in Romania
+Suplac	leaderParty	Independent (politician)
+Vărgata	leaderParty	Democratic Union of Hungarians in Romania
+Veţca	leaderParty	Democratic Union of Hungarians in Romania
+Voivodeni	leaderParty	Democratic Union of Hungarians in Romania
+Ablanque	leaderParty	Spanish Socialist Workers' Party
+Bârghiş	leaderParty	Social Democratic Party (Romania)
+El Loa Province	leaderParty	Independent Democrat Union
+Valparaíso Province	leaderParty	National Renewal (Chile)
+Petorca Province	leaderParty	Socialist Party of Chile
+Quillota Province	leaderParty	Independent Democrat Union
+Limarí Province	leaderParty	Party for Democracy
+Niederdorfelden	leaderParty	Alliance '90/The Greens
+Mossautal	leaderParty	Parteilos
+Almazul	leaderParty	People's Party (Spain)
+Stützengrün	leaderParty	Christian Democratic Union (Germany)
+Zschorlau	leaderParty	Christian Democratic Union (Germany)
+Gornau	leaderParty	Christian Democratic Union (Germany)
+Vollmersweiler	leaderParty	Social Democratic Party of Germany
+Sauce Viejo, Argentina	leaderParty	Justicialist Party
+San Miguel de Salinas	leaderParty	People's Party (Spain)
+Duruelo de la Sierra	leaderParty	People's Party (Spain)
+Láchar	leaderParty	Spanish Socialist Workers' Party
+Chauchina	leaderParty	United Left (Spain)
+Monzón	leaderParty	Spanish Socialist Workers' Party
+Navaleno	leaderParty	People's Party (Spain)
+Miraflores de la Sierra	leaderParty	People's Part (Spain)
+San Pedro de la Paz	leaderParty	Independent (politician)
+Daya Vieja	leaderParty	People's Party (Spain)
+Imo State	leaderParty	All Progressives Grand Alliance
+Puieşti, Buzău	leaderParty	National Liberal Party (Romania)
+Bujoreni, Vâlcea	leaderParty	Social Democratic Party (Romania)
+Satulung	leaderParty	Democratic Liberal Party (Romania)
+Asuaju de Sus	leaderParty	Partidul Social Democrat
+Bârsana	leaderParty	Partidul Naţional Liberal
+Budeşti, Maramureş	leaderParty	Partidul Social Democrat
+Táliga	leaderParty	Spanish Socialist Workers' Party
+Züsch	leaderParty	Social Democratic Party of Germany
+Sahagún, Spain	leaderParty	People's Party (Spain)
+Breitenbach, Rhineland-Palatinate	leaderParty	Social Democratic Party of Germany
+Ohmbach	leaderParty	Christian Democratic Union (Germany)
+Appenheim	leaderParty	Christian Democratic Union (Germany)
+Dexheim	leaderParty	Free Voters
+Dolgesheim	leaderParty	Social Democratic Party of Germany
+Eimsheim	leaderParty	Social Democratic Party of Germany
+Dorn-Dürkheim	leaderParty	Christian Democratic Union (Germany)
+Essenheim	leaderParty	Social Democratic Party of Germany
+Gau-Bischofsheim	leaderParty	Social Democratic Party of Germany
+Hahnheim	leaderParty	Social Democratic Party of Germany
+Harxheim	leaderParty	Christian Democratic Union (Germany)
+Hillesheim, Mainz-Bingen	leaderParty	Social Democratic Party of Germany
+Horrweiler	leaderParty	Social Democratic Party of Germany
+Jugenheim in Rheinhessen	leaderParty	Social Democratic Party of Germany
+Klein-Winternheim	leaderParty	Christian Democratic Union (Germany)
+Lörzweiler	leaderParty	Social Democratic Party of Germany
+Zornheim	leaderParty	Christian Democratic Union (Germany)
+Welgesheim	leaderParty	Christian Democratic Union (Germany)
+Weiler bei Bingen	leaderParty	Christian Democratic Union (Germany)
+Wackernheim	leaderParty	Social Democratic Party of Germany
+Ober-Olm	leaderParty	Social Democratic Party of Germany
+Trechtingshausen	leaderParty	Social Democratic Party of Germany
+Ockenheim	leaderParty	Christian Democratic Union (Germany)
+Uelversheim	leaderParty	Social Democratic Party of Germany
+Kohila Parish	leaderParty	Union of Pro Patria and Res Publica
+Büchenbeuren	leaderParty	Social Democratic Party of Germany
+Ellern	leaderParty	Social Democratic Party of Germany
+Sohren	leaderParty	Christian Democratic Union (Germany)
+Sobrado, Galicia	leaderParty	People's Party (Spain)
+Cinctorres	leaderParty	Spanish Socialist Workers' Party
+Taramundi	leaderParty	Spanish Socialist Workers' Party
+Alija del Infantado	leaderParty	Leonese People's Union
+Mürlenbach	leaderParty	Christian Democratic Union (Germany)
+Nohn	leaderParty	Christian Democratic Union (Germany)
+Alpenrod	leaderParty	Social Democratic Party of Germany
+Herschbach, Selters	leaderParty	Christian Democratic Union (Germany)
+Nauort	leaderParty	Christian Democratic Union (Germany)
+Hillscheid	leaderParty	Christian Democratic Union (Germany)
+Simmern, Westerwaldkreis	leaderParty	Christian Democratic Union (Germany)
+Las Cabezas de San Juan	leaderParty	Spanish Socialist Workers' Party
+Santiponce	leaderParty	Spanish Socialist Workers' Party
+Chiclana de Segura	leaderParty	Spanish Socialist Workers' Party
+La Guardia de Jaén	leaderParty	People's Party (Spain)
+Encinas Reales	leaderParty	Spanish Socialist Workers' Party
+Castilblanco	leaderParty	People's Party (Spain)
+Almendral de la Cañada	leaderParty	Spanish Socialist Workers' Party
+Tarp, Germany	leaderParty	Christian Democratic Union (Germany)
+Castrocontrigo	leaderParty	People's Party (Spain)
+Madrigal de las Altas Torres	leaderParty	Partido Popular
+La Bañeza	leaderParty	Spanish Socialist Workers' Party
+Bembibre	leaderParty	Spanish Socialist Workers' Party
+Boñar	leaderParty	Spanish Socialist Workers' Party
+Castrocalbón	leaderParty	Spanish Socialist Workers' Party
+Fabero	leaderParty	Spanish Socialist Workers' Party
+Villafranca del Bierzo	leaderParty	People's Party (Spain)
+Algadefe	leaderParty	People's Party (Spain)
+Acebedo	leaderParty	Spanish Socialist Workers' Party
+Arganza	leaderParty	Spanish Socialist Workers' Party
+Ardón	leaderParty	People's Party (Spain)
+Barjas	leaderParty	Spanish Socialist Workers' Party
+Los Barrios de Luna	leaderParty	People's Party (Spain)
+Benuza	leaderParty	People's Party (Spain)
+Bercianos del Páramo	leaderParty	People's Party (Spain)
+Bercianos del Real Camino	leaderParty	People's Party (Spain)
+Berlanga del Bierzo	leaderParty	Spanish Socialist Workers' Party
+Boca de Huérgano	leaderParty	People's Party (Spain)
+Brazuelo	leaderParty	People's Party (Spain)
+Borrenes	leaderParty	People's Party (Spain)
+El Burgo Ranero	leaderParty	Spanish Socialist Workers' Party
+Burón	leaderParty	People's Party (Spain)
+Cabañas Raras	leaderParty	Spanish Socialist Workers' Party
+Bustillo del Páramo	leaderParty	People's Party (Spain)
+Cabreros del Río	leaderParty	Spanish Socialist Workers' Party
+Cabrillanes	leaderParty	Spanish Socialist Workers' Party
+Cacabelos	leaderParty	Spanish Socialist Workers' Party
+Calzada del Coto	leaderParty	People's Party (Spain)
+Campazas	leaderParty	Spanish Socialist Workers' Party
+Campo de Villavidel	leaderParty	Spanish Socialist Workers' Party
+Camponaraya	leaderParty	Spanish Socialis Workers' Party
+Candín	leaderParty	Spanish Socialist Workers' Party
+Cármenes	leaderParty	Spanish Socialist Workers' Party
+Carracedelo	leaderParty	People's Party (Spain)
+Carrocera	leaderParty	Spanish Socialist Workers' Party
+Carucedo	leaderParty	Spanish Socialist Workers' Party
+Castrillo de la Valduerna	leaderParty	People's Party (Spain)
+Castrillo de Cabrera	leaderParty	Spanish Socialist Workers' Party
+Castilfalé	leaderParty	People's Party (Spain)
+Castropodame	leaderParty	Spanish Socialist Workers' Party
+Castrotierra de Valmadrigal	leaderParty	People's Party (Spain)
+Cebrones del Río	leaderParty	People's Party (Spain)
+Cebanico	leaderParty	Spanish Socialist Workers' Party
+Cimanes del Tejar	leaderParty	People's Party (Spain)
+Cistierna	leaderParty	Spanish Socialist Workers' Party
+Corbillos de los Oteros	leaderParty	Leonese People's Union
+Corullón	leaderParty	Spanish Socialist Workers' Party
+Crémenes	leaderParty	People's Party (Spain)
+Cuadros	leaderParty	People's Party (Spain)
+Cubillas de los Oteros	leaderParty	Spanish Socialist Workers' Party
+Cubillas de Rueda	leaderParty	People's Party (Spain)
+Chozas de Abajo	leaderParty	People's Party (Spain)
+Destriana	leaderParty	People's Party (Spain)
+La Ercina	leaderParty	Spanish Socialist Workers' Party
+Encinedo	leaderParty	People's Party (Spain)
+Escobar de Campos	leaderParty	People's Party (Spain)
+Fresno de la Vega	leaderParty	Spanish Socialist Workers' Party
+Fuentes de Carbajal	leaderParty	Leonese People's Union
+Garrafe de Torío	leaderParty	People's Party (Spain)
+Folgoso de la Ribera	leaderParty	People's Party (Spain)
+Gordaliza del Pino	leaderParty	People's Party (Spain)
+Gradefes	leaderParty	Spanish Socialist Workers' Party
+Gordoncillo	leaderParty	People's Party (Spain)
+Grajal de Campos	leaderParty	People's Party (Spain)
+Gusendos de los Oteros	leaderParty	People's Party (Spain)
+Hospital de Órbigo	leaderParty	Spanish Socialist Workers' Party
+Izagre	leaderParty	Spanish Socialist Workers' Party
+Igüeña	leaderParty	Spanish Socialist Workers' Party
+Joarilla de las Matas	leaderParty	People's Party (Spain)
+Laguna Dalga	leaderParty	People's Party (Spain)
+Laguna de Negrillos	leaderParty	Spanish Socialist Workers' Party
+Lucillo	leaderParty	People's Party (Spain)
+Luyego	leaderParty	Spanish Socialist Workers' Party
+Llamas de la Ribera	leaderParty	People's Party (Spain)
+Magaz de Cepeda	leaderParty	Spanish Socialist Workers' Party
+Mansilla Mayor	leaderParty	People's Party (Spain)
+Mansilla de las Mulas	leaderParty	People's Party (Spain)
+Villamejil	leaderParty	Spanish Socialist Workers' Party
+Castromocho	leaderParty	People's Party (Spain)
+Condado de Treviño	leaderParty	People's Party (Spain)
+Arén	leaderParty	Spanish Socialist Workers' Party
+Bielsa	leaderParty	Spanish Socialist Workers' Party
+Bierge	leaderParty	Spanish Socialist Workers' Party
+Piracés	leaderParty	Spanish Socialist Workers' Party
+Bezas	leaderParty	Spanish Socialist Workers' Party
+Cedrillas	leaderParty	Spanish Socialist Workers' Party
+Fortanete	leaderParty	Spanish Socialist Workers' Party
+Anguita	leaderParty	Spanish Socialist Workers' Party
+Alustante	leaderParty	Spanish Socialist Workers' Party
+Almaraz de Duero	leaderParty	Spanish Socialist Workers' Party
+Mahide	leaderParty	People's Party (Spain)
+Meco (municipality)	leaderParty	People's Party (Spain)
+Löcknitz	leaderParty	The Left (Germany)
+Sagard	leaderParty	The Left (Germany)
+Rada Tilly	leaderParty	Radical Civic Union
+Estepa	leaderParty	Spanish Socialist Workers' Party
+Santău	leaderParty	National Liberal Party (Romania)
+Carahue	leaderParty	Independent Democrat Union
+Chonchi	leaderParty	List of Christian democratic parties
+Bimenes	leaderParty	Bloque Independiente de Bimenes
+Amaru, Buzău	leaderParty	Democratic Liberal Party (Romania)
+Balta Albă, Buzău	leaderParty	Democratic Liberal Party (Romania)
+Boldu	leaderParty	Social Democratic Party (Romania)
+Brădeanu	leaderParty	Democratic Liberal Party (Romania)
+Beceni	leaderParty	National Liberal Party (Romania)
+Brăeşti, Buzău	leaderParty	Democratic Liberal Party (Romania)
+Breaza, Buzău	leaderParty	Democratic Liberal Party (Romania)
+C. A. Rosetti, Buzău	leaderParty	National Liberal Party (Romania)
+Calvini	leaderParty	National Liberal Party (Romania)
+Căneşti	leaderParty	National Liberal Party (Romania)
+Chiliile	leaderParty	Social Democratic Party (Romania)
+Cilibia	leaderParty	Democratic Liberal Party (Romania)
+Cochirleanca	leaderParty	Democratic Liberal Party (Romania)
+Gălbinaşi, Buzău	leaderParty	Democratic Liberal Party (Romania)
+Ghergheasa	leaderParty	National Liberal Party (Romania)
+Glodeanu Sărat	leaderParty	Democratic Liberal Party (Romania)
+Grebănu	leaderParty	Democratic Liberal Party (Romania)
+Largu	leaderParty	Democratic Liberal Party (Romania)
+Luciu	leaderParty	Democratic Liberal Party (Romania)
+Mărgăriteşti	leaderParty	National Liberal Party (Romania)
+Movila Banului	leaderParty	Democratic Liberal Party (Romania)
+Murgeşti	leaderParty	National Liberal Party (Romania)
+Odăile	leaderParty	Social Democratic Party (Romania)
+Pardoşi	leaderParty	Democratic Liberal Party (Romania)
+Podgoria	leaderParty	National Liberal Party (Romania)
+Racoviţeni	leaderParty	Democratic Liberal Party (Romania)
+Râmnicelu, Buzău	leaderParty	Democratic Liberal Party (Romania)
+Robeasca	leaderParty	National Liberal Party (Romania)
+Săgeata	leaderParty	Democratic Liberal Party (Romania)
+Săruleşti, Buzău	leaderParty	National Liberal Party (Romania)
+Scorţoasa	leaderParty	Social Democratic Party (Romania)
+Scutelnici	leaderParty	National Liberal Party (Romania)
+Smeeni	leaderParty	Democratic Liberal Party (Romania)
+Stâlpu	leaderParty	Social Democratic Party (Romania)
+Topliceni	leaderParty	Democratic Liberal Party (Romania)
+Valea Râmnicului	leaderParty	National Liberal Party (Romania)
+Valea Salciei	leaderParty	National Liberal Party (Romania)
+Vâlcelele, Buzău	leaderParty	Social Democratic Party (Romania)
+Bella Vista, Tucumán	leaderParty	Front for Victory
+Galvarino, Chile	leaderParty	List of Christian democratic parties
+Cochamó	leaderParty	Social Democrat Radical Party
+Itzstedt (Amt)	leaderParty	Christian Democratic Union (Germany)
+Río Ibáñez, Chile	leaderParty	Independent Democrat Union
+Loja, Granada	leaderParty	Partido Popular
+Calbuco	leaderParty	Social Democrat Radical Party
+Rosebank, Cape Town	leaderParty	Democratic Alliance (South Africa)
+Juri Upazila	leaderParty	Bangladesh Awami League
+La Romana, Alicante	leaderParty	People's Party (Spain)
+Schondorf	leaderParty	Social Democratic Party of Germany
+Busot	leaderParty	People's Party (Spain)
+Agost	leaderParty	Spanish Socialist Workers' Party
+Grassy Park	leaderParty	Democratic Alliance (South Africa)
+Cisnes	leaderParty	Socialist Party of Chile
+Abaqulusi Local Municipality	leaderParty	Inkatha Freedom Party
+Kou-Kamma Local Municipality	leaderParty	African National Congress
+Cenarruza-Puebla de Bolívar	leaderParty	Basque Nationalist Party
+Murphy, Santa Fe	leaderParty	Justicialist Party
+Cutral Có	leaderParty	Radical Civic Union
+Cabo de Hornos, Chile	leaderParty	Social Democrat Radical Party
+Lenauheim	leaderParty	Democratic Liberal Party (Romania)
+Plottier	leaderParty	Neuquén People's Movement
+Norte de Santander Department	leaderParty	Colombian Conservative Party
+Quatretondeta	leaderParty	Spanish Socialist Workers' Party
+La Nucia	leaderParty	Partido Popular
+Finestrat	leaderParty	People's Party
+Relleu	leaderParty	People's Party (Spain)
+Maçanet de Cabrenys	leaderParty	Convergence and Union
+Chorriaca	leaderParty	Neuquén People's Movement
+Las Ovejas	leaderParty	Neuquén People's Movement
+San Patricio del Chañar	leaderParty	Neuquén People's Movement
+Las Torres de Cotillas	leaderParty	People's Party (Spain)
+Santiurde de Toranzo	leaderParty	People's Party (Spain)
+Fuente Álamo de Murcia	leaderParty	People's Party (Spain)
+La Galera	leaderParty	Partido Popular
+Lebu, Chile	leaderParty	Socialist Party of Chile
+Guaitecas	leaderParty	National Renewal (Chile)
+Timaukel	leaderParty	Socialist Party of Chile
+Torres del Paine, Chile	leaderParty	Independent (politician)
+San Gregorio, Chile	leaderParty	List of Christian democratic parties
+Võhma	leaderParty	Estonian Centre Party
+Laguna Blanca, Chile	leaderParty	Independent Democrat Union
+Río Verde, Chile	leaderParty	Independent Democrat Union
+Lago Verde, Chile	leaderParty	National Renewal (Chile)
+Alcarràs	leaderParty	Convergence and Union
+San Juan de la Costa	leaderParty	National Renewal (Chile)
+Cañada, Alicante	leaderParty	People's Party (Spain)
+Sax, Alicante	leaderParty	Spanish Socialist Workers' Party
+Firmat	leaderParty	Progressive, Civic and Social Front
+Valdemoro	leaderParty	People's Party (Spain)
+Kenilworth, Cape Town	leaderParty	Democratic Alliance (South Africa)
+Niţchidorf	leaderParty	Social Democratic Party (Romania)
+Estación Central	leaderParty	Independent Democrat Union
+Aisén, Chile	leaderParty	Socialist Party of Chile
+Viguera	leaderParty	Partido Popular
+Tucapel	leaderParty	National Renewal (Chile)
+Huétor-Tájar	leaderParty	Spanish Socialist Workers' Party
+Hualpén	leaderParty	Party for Democracy
+André da Rocha	leaderParty	Partido Progressista
+Arambaré	leaderParty	Brazilian Democratic Movement Party
+Arroio do Meio	leaderParty	Progressive Party (Brazil)
+Barão	leaderParty	Workers' Party (Brazil)
+Bom Jesus, Rio Grande do Sul	leaderParty	Brazilian Democratic Movement Party
+Ajalvir	leaderParty	People's Party (Spain)
+Racoviţa, Sibiu	leaderParty	Democratic Liberal Party (Romania)
+Vilafranca	leaderParty	Spanish Socialist Workers' Party
+Ramales de la Victoria	leaderParty	People's Party (Spain)
+Puente Viesgo	leaderParty	Regionalist Party of Cantabria
+Scărişoara, Alba	leaderParty	National Liberal Party (Romania)
+Mirăslău	leaderParty	National Liberal Party (Romania)
+Fundata	leaderParty	National Liberal Party (Romania)
+El Padul	leaderParty	Spanish Socialist Workers' Party
+Burla, Suceava	leaderParty	Social Democratic Party (Romania)
+Campos Novos	leaderParty	Brazilian Democratic Movement Party
+Coihueco	leaderParty	Party for Democracy
+Brunópolis	leaderParty	Brazilian Democratic Movement Party
+Monte Carlo, Santa Catarina	leaderParty	Brazilian Democratic Movement Party
+Alcanar	leaderParty	Republican Left of Catalonia
+Cleja	leaderParty	Social Democratic Party (Romania)
+Santa Maria de Palautordera	leaderParty	PSC
+Creaca	leaderParty	Democratic Liberal Party (Romania)
+Pedreguer	leaderParty	Partido Popular
+Futaleufú, Chile	leaderParty	List of Christian democratic parties
+Hualaihué	leaderParty	Party for Democracy
+Palena, Chile	leaderParty	National Renewal (Chile)
+Tortel	leaderParty	Party for Democracy
+O'Higgins, Chile	leaderParty	List of Christian democratic parties
+Curaco de Vélez	leaderParty	List of Christian democratic parties
+Ñiquén	leaderParty	Party for Democracy
+Maullín	leaderParty	List of Christian democratic parties
+Puqueldón	leaderParty	Independent (politician)
+Chiguayante	leaderParty	Socialist Party of Chile
+Tomé	leaderParty	List of Christian democratic parties
+Allende Municipality, Chihuahua	leaderParty	Institutional Revolutionary Party
+Río Segundo, Córdoba	leaderParty	UCR
+Câmpani	leaderParty	National Liberal Party (Romania)
+Vilcún	leaderParty	Party for Democracy
+Pitrufquén	leaderParty	Socialist Party of Chile
+Orrius	leaderParty	Convergence and Union
+Hualqui	leaderParty	Independent (politician)
+Dumitriţa	leaderParty	Democratic Liberal Party (Romania)
+Maieru	leaderParty	Democratic Liberal Party (Romania)
+Moroeni	leaderParty	Social Democratic Party (Romania)
+Madrid	leaderParty	People's Party (Spain)
+Santa Juana, Chile	leaderParty	List of Christian democratic parties
+Berbeşti	leaderParty	National Liberal Party (Romania)
+Sireţel	leaderParty	National Liberal Party (Romania)
+Ungheni, Iaşi	leaderParty	Liberal Democratic Party (Romania)
+Vânători, Iaşi	leaderParty	PSD
+Albeşti, Mureş	leaderParty	PSD
+Lovrin	leaderParty	Democratic Liberal Party (Romania)
+Gottlob, Timiş	leaderParty	Democratic Liberal Party (Romania)
+Sânmihaiu Român	leaderParty	Democratic Liberal Party (Romania)
+Casas Grandes Municipality	leaderParty	National Action Party (Mexico)
+Noja	leaderParty	People's Party (Spain)
+Petrevene	leaderParty	Bulgarian Socialist Party
+Salou	leaderParty	Formació Unitat Per Salou
+Tafí Viejo, Tucumán	leaderParty	Justicialist Party
+Bushbuckridge	leaderParty	African National Congress
+El Verger	leaderParty	People's Party (Spain)
+Zarzalejo	leaderParty	People's Party (Spain)
+Turin	leaderParty	Democratic Party (Italy)
+Viniegra de Abajo	leaderParty	Spanish Socialist Workers' Party
+Balboa, León	leaderParty	People's Party (Spain)
+Benavides, León	leaderParty	People's Party (Spain)
+Carrizo de la Ribera	leaderParty	Spanish Socialist Workers' Party
+Cea, León	leaderParty	People's Party (Spain)
+La Antigua, León	leaderParty	People's Party (Spain)
+Lumaco	leaderParty	Socialist Party of Chile
+Sermersooq	leaderParty	Inuit Ataqatigiit
+Tirúa	leaderParty	National Renewal (Chile)
+Contulmo	leaderParty	Independent Democrat Union
+Curanilahue	leaderParty	List of Christian democratic parties
+Los Álamos	leaderParty	Socialist Party of Chile
+Antuco, Chile	leaderParty	List of Christian democratic parties
+San Rosendo	leaderParty	National Renewal (Chile)
+Negrete	leaderParty	Socialist Party of Chile
+Ninhue	leaderParty	List of Christian democratic parties
+San Nicolás, Chile	leaderParty	List of Christian democratic parties
+Chillán Viejo	leaderParty	Independent (politician)
+El Carmen, Chile	leaderParty	Independent (politician)
+Pemuco	leaderParty	List of Christian democratic parties
+Treguaco	leaderParty	Independent (politician)
+Ránquil	leaderParty	Independent Democrat Union
+Quillón	leaderParty	List of Christian democratic parties
+Requínoa	leaderParty	Independent (politician)
+Llanquihue, Chile	leaderParty	Independent (politician)
+Premià de Dalt	leaderParty	Convergence and Union
+Pinto, Chile	leaderParty	Independent Democrat Union
+María Elena	leaderParty	Socialist Party of Chile
+Kamchia (village)	leaderParty	Democrats for a Strong Bulgaria
+Delft, Cape Town	leaderParty	African National Congress
+El Maitén	leaderParty	Justicialist Party
+Valencian Community	leaderParty	People's Party (Spain)
+Basque Country (autonomous community)	leaderParty	Socialist Party of the Basque Country – Basque Country Left
+Bossòst	leaderParty	Unity of Aran
+Pavón, Santa Fe	leaderParty	Justicialist Party
+Kujalleq	leaderParty	Forward (Greenland)
+El Poal	leaderParty	Convergence and Union
+Karlievo	leaderParty	Bulgarian Socialist Party
+Luqa	leaderParty	Labour Party (Malta)
+Alvarado (municipality)	leaderParty	National Action Party (Mexico)
+Boadilla del Monte	leaderParty	People's Party (Spain)
+Moralzarzal	leaderParty	People's Party (Spain)
+Humanes de Madrid	leaderParty	CSH
+Velilla de San Antonio	leaderParty	People's Party (Spain)
+El Ràfol d'Almúnia	leaderParty	People's Party (Spain)
+Balearic Islands	leaderParty	People's Party (Spain)
+Nkurenkuru	leaderParty	SWAPO
+Santana do Araguaia	leaderParty	Brazilian Social Democratic Party
+Siyathemba Local Municipality	leaderParty	African National Congress
+Karabağlar	leaderParty	Republican People's Party (Turkey)
+Bayraklı	leaderParty	Republican People's Party (Turkey)
+Cobleskill (town), New York	leaderParty	Democratic Party (United States)
+Riosa	leaderParty	Spanish Socialist Workers' Party
+Los Muermos	leaderParty	Independent Democrat Union
+Alberite	leaderParty	People's Party (Spain)
+Arad, Romania	leaderParty	Democratic Liberal Party (Romania)
+Maravatío	leaderParty	National Action Party (Mexico)
+Brestovitsa, Plovdiv Province	leaderParty	Bulgarian Socialist Party
+Hrabrino	leaderParty	Bulgarian Socialist Party
+General Campos	leaderParty	Justicialist Party
+Cabrera d'Anoia	leaderParty	Republican Left of Catalonia
+Pardines, Girona	leaderParty	Republican Left of Catalonia
+Melgaço, Pará	leaderParty	PSDB
+Breitenfeld, Leipzig	leaderParty	Social Democratic Party of Germany
+Marchovelette	leaderParty	Fernelmont
+Viale, Entre Ríos	leaderParty	Justicialist Party
+Ciuciuleni	leaderParty	Party of Communists of the Republic of Moldova
+Karoo Hoogland Local Municipality	leaderParty	Congress of the People (South African political party)
+La Vall d'Uixó	leaderParty	People's Party (Spain)
+Eisenhüttenstadt	leaderParty	The Left (Germany)
+Valle de Villaverde	leaderParty	Regionalist Party of Cantabria
+Altınoluk	leaderParty	Republican People's Party (Turkey)
+Jaffna	leaderParty	Eelam People's Democratic Party
+Casalarreina	leaderParty	Spanish Socialist Workers' PartyPSOE
+Braga Municipality	leaderParty	Portuguese Socialist Party
+Beja Municipality	leaderParty	Democratic Unity Coalition
+Santarém Municipality	leaderParty	Social Democratic Party (Portugal)
+Portimão Municipality	leaderParty	Socialist Party (Portugal)
+Faro Municipality	leaderParty	Social Democratic Party (Portugal)
+Esposende	leaderParty	Social Democratic Party (Portugal)
+Aveiro Municipality	leaderParty	Social Democratic Party (Portugal)
+Cascais Municipality	leaderParty	Social Democratic Party (Portugal)
+Cascais Municipality	leaderParty	Democratic and Social Centre – People's Party
+Vila Nova de Gaia Municipality	leaderParty	Social Democratic Party (Portugal)
+Fundão Municipality, Portugal	leaderParty	Social Democratic Party (Portugal)
+Covilhã Municipality	leaderParty	Social Democratic Party (Portugal)
+Nazaré Municipality	leaderParty	Social Democratic Party (Portugal)
+Alcobaça Municipality	leaderParty	Social Democratic Party (Portugal)
+Coimbra Municipality	leaderParty	Social Democratic Party (Portugal)
+Setúbal Municipality	leaderParty	Democratic Unity Coalition
+Leiria Municipality	leaderParty	Socialist Party (Portugal)
+Sintra Municipality	leaderParty	Social Democratic Party (Portugal)
+Hann. Münden	leaderParty	Christian Democratic Union (Germany)
+Albatàrrec	leaderParty	Convergence and Union
+Torà	leaderParty	Convergence and Union
+Alguaire	leaderParty	Socialists' Party of Catalonia
+Oldambt	leaderParty	Labour Party (Netherlands)
+Peel en Maas	leaderParty	People's Party for Freedom and Democracy
+Zuidplas	leaderParty	Reformed Political Party
+Cabrero, Chile	leaderParty	List of Christian democratic parties
+Sant Joan les Fonts	leaderParty	Convergence and Union
+Queilén	leaderParty	List of Christian democratic parties
+Dorkovo	leaderParty	Bulgarian Socialist Party
+Galera, Granada	leaderParty	Spanish Socialist Workers' Party
+Dalowali	leaderParty	Pakistan Muslim League (N)
+Alpes-de-Haute-Provence	leaderParty	Socialist Party (France)
+Attica Periphery	leaderParty	Panhellenic Socialist Movement
+La Baronia de Rialb	leaderParty	Convergence and Union
+Baden, Switzerland	leaderParty	Free Democratic Party of Switzerland
+Borja, Zaragoza	leaderParty	Aragonese Party
+Tekmen	leaderParty	Nationalist Movement Party
+Lules	leaderParty	Front for Victory
+Villa Nougués	leaderParty	Front for Victory
+Alto Pencoso	leaderParty	Union and Liberty Party
+Alto Pelado	leaderParty	Justicialist Party
+Los Menucos	leaderParty	Radical Civic Union
+Sant Feliu Sasserra	leaderParty	Republican Left of Catalonia
+Olmedo, Valladolid	leaderParty	People's Party (Spain)
+Bademdere	leaderParty	Nationalist Movement Party
+Çelemli	leaderParty	Justice and Development Party (Turkey)
+Tömük	leaderParty	Justice and Development Party (Turkey)
+Curacaví	leaderParty	Independent Democrat Union
+Vilasobroso, Mondariz	leaderParty	People's Party of Galicia
+Vila-seca	leaderParty	Convergence and Union
+La Canonja	leaderParty	Socialists' Party of Catalonia
+Çukurova, Adana	leaderParty	Republican People's Party (Turkey)
+Peñaflor, Chile	leaderParty	Independent Democrat Union
+Sarıçam	leaderParty	Justice and Development Party
+San Pedro, Chile	leaderParty	List of Christian democratic parties
+Alhué	leaderParty	Independent (politician)
+Panorama, Cape Town	leaderParty	Democratic Alliance (South Africa)
+Heathfield, Cape Town	leaderParty	Democratic Alliance (South Africa)
+Retreat, Cape Town	leaderParty	Democratic Alliance (South Africa)
+Gorbea, Chile	leaderParty	Independent Democrat Union
+Zapallar	leaderParty	National Renewal (Chile)
+Rinconada	leaderParty	Independent Democrat Union
+San Esteban, Chile	leaderParty	Independent (politician)
+Ottery, Cape Town	leaderParty	Independent Democrats
+Santa María, Chile	leaderParty	Party for Democracy
+Nogales, Chile	leaderParty	Christian Democrat Party of Chile
+El Tabo	leaderParty	Party for Democracy
+Cartagena, Chile	leaderParty	National Renewal (Chile)
+Olmué	leaderParty	List of Christian democratic parties
+Portezuelo	leaderParty	List of Christian democratic parties
+San Ignacio, Chile	leaderParty	Independent Democrat Union
+Quilaco	leaderParty	Regionalist Party of the Independents
+Alto Biobío	leaderParty	Party for Democracy
+Ercilla, Chile	leaderParty	Independent (politician)
+Los Sauces	leaderParty	List of Christian democratic parties
+Traiguén	leaderParty	Independent (politician)
+Wegbe Kpalime	leaderParty	National Democratic Congress (Ghana)
+Cañete, Cuenca	leaderParty	Spanish Socialist Workers' Party
+Sol Plaatje Local Municipality	leaderParty	African National Congress
+Divundu	leaderParty	SWAPO
+Bagani, Namibia	leaderParty	SWAPO
+La Pobla de Benifassà	leaderParty	Social Democratic Party (Spain)
+Sant Aniol de Finestres	leaderParty	Convergence and Union
+Riudaura	leaderParty	Republican Left of Catalonia
+Alcoy, Spain	leaderParty	People's Party (Spain)
+Barroselas	leaderParty	Socialist Party (Portugal)
+Figueira da Foz	leaderParty	Socialist Party (Portugal)
+Bhawana	leaderParty	Korea National League
+Maliaño	leaderParty	Alternativa Camarguesa Progresista
+Campo de Daroca	leaderParty	People's Party (Spain)
+Pulgar	leaderParty	Spanish Socialist Workers' Party
+Lalian Tehsil	leaderParty	Korea National League
+Librilla	leaderParty	Mixed Group
+Ionian Islands Periphery	leaderParty	New Democracy (Greece)
+Guadahortuna	leaderParty	United Left (Spain)
+Natales	leaderParty	Independent Democrat Union
+Milas	leaderParty	Republican People's Party (Turkey)
+Frankfurt Rhine-Main	leaderParty	Christian Democratic Union (Germany)
+Santiago (commune)	leaderParty	Independent Democrat Union
+Würzburg	leaderParty	Social Democratic Party of Germany
+Redován	leaderParty	Spanish Socialist Workers' Party
+Vilallonga del Camp	leaderParty	Republican Left of Catalonia
+Kagisano-Molopo Local Municipality	leaderParty	African National Congress
+Santa María de Cayón	leaderParty	People's Party (Spain)
+Arpaçbahşiş	leaderParty	Justice and Development Party (Turkey)

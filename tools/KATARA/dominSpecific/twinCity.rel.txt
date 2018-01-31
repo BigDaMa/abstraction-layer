@@ -1,0 +1,635 @@
+Aarau	twinCity	Neuchâtel
+Aarau	twinCity	Delft
+Aarau	twinCity	Reutlingen
+Cape Town	twinCity	Aachen
+Cape Town	twinCity	Haifa
+Cape Town	twinCity	Hangzhou
+Cape Town	twinCity	Miami-Dade County, Florida
+Cape Town	twinCity	Nice
+Cape Town	twinCity	Saint Petersburg
+Fort Wayne, Indiana	twinCity	Gera
+Fort Wayne, Indiana	twinCity	Płock
+Fort Wayne, Indiana	twinCity	Takaoka, Toyama
+Nairobi	twinCity	Denver
+Nairobi	twinCity	Colorado
+Sarajevo	twinCity	Zagreb
+Sarajevo	twinCity	Ljubljana
+Sarajevo	twinCity	Salt Lake City
+Sarajevo	twinCity	Cairo
+Sarajevo	twinCity	Dubrovnik
+Sarajevo	twinCity	Skopje
+Sarajevo	twinCity	Niš
+Syracuse, New York	twinCity	Chiayi
+Syracuse, New York	twinCity	Tampere
+Toledo, Spain	twinCity	Toledo, Ohio
+Toledo, Spain	twinCity	Nara, Nara
+Toledo, Spain	twinCity	Agen
+Toledo, Spain	twinCity	Safed
+Toledo, Spain	twinCity	Veliko Tarnovo
+Toledo, Spain	twinCity	Aachen
+Toledo, Spain	twinCity	Corpus Christi, Texas
+Zurich	twinCity	Kunming
+Zurich	twinCity	San Francisco
+Nottingham	twinCity	Ghent
+Nottingham	twinCity	Harare
+Nottingham	twinCity	Karlsruhe
+Nottingham	twinCity	Ljubljana
+Nottingham	twinCity	Minsk
+Nottingham	twinCity	Ningbo
+Nottingham	twinCity	Timişoara
+Reading, Berkshire	twinCity	Düsseldorf
+Reading, Berkshire	twinCity	Clonmel
+Reading, Berkshire	twinCity	San Francisco Libre
+Reading, Berkshire	twinCity	Speightstown
+Białystok	twinCity	Częstochowa
+Białystok	twinCity	Dijon
+Białystok	twinCity	Eindhoven
+Białystok	twinCity	Pskov
+Białystok	twinCity	Kaliningrad
+Białystok	twinCity	Grodno
+Białystok	twinCity	Jelgava
+Białystok	twinCity	Kaunas
+Białystok	twinCity	Milwaukee
+Białystok	twinCity	Wisconsin
+Białystok	twinCity	Tallinn
+Solothurn	twinCity	Heilbronn
+Solothurn	twinCity	Kraków
+Solothurn	twinCity	Le Landeron
+Celje	twinCity	Grevenbroich
+Celje	twinCity	Singen
+Celje	twinCity	Slavonski Brod
+Montreux	twinCity	Wiesbaden
+Montreux	twinCity	Menton
+Montreux	twinCity	Chiba, Chiba
+Bergen	twinCity	Asmara
+Bergen	twinCity	Gothenburg
+Bergen	twinCity	Newcastle upon Tyne
+Bergen	twinCity	Seattle
+Bergen	twinCity	Turku
+Bergen	twinCity	Aarhus
+Harare	twinCity	Nottingham
+Harare	twinCity	Munich
+Harare	twinCity	Cincinnati
+Harare	twinCity	Prato
+Harare	twinCity	Lago
+Gaborone	twinCity	Burbank, California
+Gaborone	twinCity	Zhejiang
+Indianapolis	twinCity	Campinas
+Indianapolis	twinCity	Cologne
+Indianapolis	twinCity	Eldoret
+Indianapolis	twinCity	Hangzhou
+Indianapolis	twinCity	Hyderabad, India
+Indianapolis	twinCity	Monza
+Indianapolis	twinCity	Piran
+Indianapolis	twinCity	Taipei
+Zug	twinCity	Fürstenfeld
+Binghamton, New York	twinCity	Borovichi
+Binghamton, New York	twinCity	La Teste-de-Buch
+Assisi	twinCity	Bethlehem
+Assisi	twinCity	Ripacandida
+Chesapeake, Virginia	twinCity	Joinville
+Deva, Romania	twinCity	Arras
+Deva, Romania	twinCity	Szigetvár
+Deva, Romania	twinCity	Yancheng
+Davos	twinCity	Aspen, Colorado
+Davos	twinCity	Sanada clan
+Davos	twinCity	Chamonix
+Thurrock	twinCity	Sopot
+South Bend, Indiana	twinCity	Częstochowa
+South Bend, Indiana	twinCity	Arzberg, Bavaria
+Lafayette, Indiana	twinCity	Ōta, Gunma
+Evansville, Indiana	twinCity	Osnabrück
+Evansville, Indiana	twinCity	Tochigi, Tochigi
+Evansville, Indiana	twinCity	Tizimín Municipality
+Lake Charles, Louisiana	twinCity	Perpignan
+Lake Charles, Louisiana	twinCity	Sioux City, Iowa
+Lake Charles, Louisiana	twinCity	Cobh
+Lafayette, Louisiana	twinCity	Le Cannet
+Lafayette, Louisiana	twinCity	Longueuil
+Lafayette, Louisiana	twinCity	Quebec
+Lafayette, Louisiana	twinCity	Moncton
+Lafayette, Louisiana	twinCity	New Brunswick
+Lafayette, Louisiana	twinCity	Poitiers
+Lafayette, Louisiana	twinCity	Namur (city)
+Lafayette, Louisiana	twinCity	Agnibilékrou
+Jamestown, New York	twinCity	Jakobstad
+Jamestown, New York	twinCity	Đakovica
+Jamestown, New York	twinCity	Kosovo
+Jamestown, New York	twinCity	Cantù
+Saratoga Springs, New York	twinCity	Chekhov, Moscow Oblast
+Saratoga Springs, New York	twinCity	Vichy
+Queensbury, New York	twinCity	Saga, Saga
+Englewood, Ohio	twinCity	Billerbeck
+Hudson, Ohio	twinCity	Landsberg am Lech
+Denison, Texas	twinCity	Cognac
+Ogden, Utah	twinCity	Hof, Bavaria
+Durham, North Carolina	twinCity	Arusha
+Durham, North Carolina	twinCity	Durham
+Durham, North Carolina	twinCity	Kostroma
+Durham, North Carolina	twinCity	Toyama, Toyama
+Mississauga	twinCity	Twin towns and sister cities
+Fribourg	twinCity	Rueil-Malmaison
+Chur	twinCity	Bad Homburg vor der Höhe
+Chur	twinCity	Cabourg
+Chur	twinCity	Mayrhofen
+Chur	twinCity	Mondorf-les-Bains
+Chur	twinCity	Olathe, Kansas
+Chur	twinCity	Terracina
+Podgorica	twinCity	Belgrade
+Podgorica	twinCity	Moscow
+Podgorica	twinCity	Skopje
+Podgorica	twinCity	Stockholm
+Podgorica	twinCity	Tirana
+Podgorica	twinCity	Yerevan
+Podgorica	twinCity	Zagreb
+Stoke-on-Trent	twinCity	Erlangen
+Schaffhausen	twinCity	Sindelfingen
+Schaffhausen	twinCity	Singen
+Schaffhausen	twinCity	Dobrich
+Fernelmont	twinCity	France
+Barrie	twinCity	Zweibrücken
+Barrie	twinCity	Murayama, Yamagata
+Barrie	twinCity	Taizhou, Jiangsu
+Rolle	twinCity	Wallisellen
+Mosul	twinCity	Philadelphia
+Southend-on-Sea	twinCity	Sopot
+Richmond Hill, Ontario	twinCity	Lakeland, Florida
+Liestal	twinCity	Onex, Switzerland
+Liestal	twinCity	Sacramento, California
+Liestal	twinCity	Waldkirch
+Chimbote	twinCity	Pensacola, Florida
+Łomża	twinCity	Czechowice-Dziedzice
+Łomża	twinCity	Kaunas
+Łomża	twinCity	Muscatine, Iowa
+Łomża	twinCity	Tallinn
+Łomża	twinCity	Novohrad-Volynskyi
+Łomża	twinCity	Šalčininkai
+Erlenbach, Switzerland	twinCity	Erlenbach im Simmental
+Erlenbach, Switzerland	twinCity	Erlenbach am Main
+Cetinje	twinCity	Rijeka
+Cetinje	twinCity	Mali Iđoš
+Cetinje	twinCity	Kharkiv
+Cetinje	twinCity	Split, Croatia
+Cetinje	twinCity	Shkodër
+Cetinje	twinCity	Kostroma
+Cetinje	twinCity	Veliko Tarnovo
+Cetinje	twinCity	Vranje
+Cetinje	twinCity	Sinaia
+Renens	twinCity	Dietikon
+Lethbridge	twinCity	Anyang
+Lethbridge	twinCity	Culver City, California
+Lethbridge	twinCity	Timashyovsk
+Lethbridge	twinCity	Towada, Aomori
+León, Spain	twinCity	Bragança Municipality
+León, Spain	twinCity	Chartres
+León, Spain	twinCity	Córdoba, Spain
+León, Spain	twinCity	Dublin
+León, Spain	twinCity	León, Guanajuato
+León, Spain	twinCity	Porto
+León, Spain	twinCity	Voronezh
+León, Spain	twinCity	Xiangtan
+Calderdale	twinCity	County Mayo
+Calderdale	twinCity	Musoma
+Calderdale	twinCity	Strakonice
+St. Moritz	twinCity	San Carlos de Bariloche
+St. Moritz	twinCity	Kutchan, Hokkaidō
+St. Moritz	twinCity	Vail, Colorado
+Rapperswil-Jona	twinCity	Aalborg
+Rapperswil-Jona	twinCity	Bagno di Romagna
+Meilen	twinCity	Ebes
+Meilen	twinCity	Polička
+Buochs	twinCity	Deidesheim
+Heiden, Switzerland	twinCity	Bezau
+Saas-Fee	twinCity	Steamboat Springs, Colorado
+Saas-Fee	twinCity	Rocca di Cambio
+Altdorf, Switzerland	twinCity	Altdorf bei Nürnberg
+Penticton	twinCity	Ikeda, Hokkaidō
+Greater Sudbury	twinCity	Gomel
+Greater Sudbury	twinCity	Kokkola
+Üsküdar	twinCity	Shibuya, Tokyo
+Üsküdar	twinCity	Kemah, Turkey
+Üsküdar	twinCity	Bakhchisaray
+Üsküdar	twinCity	Göynük
+Marikina	twinCity	Brampton
+Marikina	twinCity	Singapore
+Marikina	twinCity	Monterrey
+Marikina	twinCity	Plano, Texas
+Satu Mare	twinCity	Berehove
+Satu Mare	twinCity	Nyíregyháza
+Satu Mare	twinCity	Rzeszów
+Satu Mare	twinCity	Schwaz
+Satu Mare	twinCity	Uzhhorod
+Satu Mare	twinCity	Wolfenbüttel
+Satu Mare	twinCity	Zutphen
+Rorschach, St. Gallen	twinCity	Sopron
+Suwałki	twinCity	Grande-Synthe
+Suwałki	twinCity	Marijampolė
+Suwałki	twinCity	Alytus
+Suwałki	twinCity	Nemenčinė
+Suwałki	twinCity	Waren (Müritz)
+Suwałki	twinCity	Võru
+Suwałki	twinCity	Rēzekne
+Suwałki	twinCity	Notodden
+Ziguinchor	twinCity	Saint-Maur-des-Fossés
+Makassar	twinCity	Qingdao
+Makassar	twinCity	Hakodate, Hokkaidō
+Makassar	twinCity	Wellington
+Makassar	twinCity	Aden
+Makassar	twinCity	Lismore
+Makassar	twinCity	Peshawar
+Sanok	twinCity	Cestas
+Sanok	twinCity	Fürstenwalde
+Sanok	twinCity	Reinheim
+Sanok	twinCity	Gyöngyös
+Sanok	twinCity	Östersund
+Sanok	twinCity	Humenné
+Glarus	twinCity	New Glarus, Wisconsin
+Glarus	twinCity	Kobryn
+Glarus	twinCity	Rožňava
+Glarus	twinCity	Biebrich (Wiesbaden)
+St. Gallen	twinCity	Liberec
+Riehen	twinCity	Miercurea-Ciuc
+Riehen	twinCity	Mutten
+Călăraşi	twinCity	Naples
+Călăraşi	twinCity	Rivery
+Călăraşi	twinCity	Royal Palm Beach, Florida
+Călăraşi	twinCity	Hengyang
+Zermatt	twinCity	Alfano
+Zermatt	twinCity	Myōkō, Niigata
+Sliven	twinCity	Alba Iulia
+Sliven	twinCity	Gera
+Sliven	twinCity	Pécs
+Sliven	twinCity	Voronezh
+Sliven	twinCity	Svetlahorsk
+Sliven	twinCity	Ternopil
+Sliven	twinCity	Tekirdağ
+Sliven	twinCity	Chongqing
+Sliven	twinCity	Kutaisi
+Delémont	twinCity	Belfort
+Saint-Ursanne	twinCity	La Motte, Var
+Masvingo	twinCity	Middlesbrough
+Curepipe	twinCity	Castel Gandolfo
+Valenzuela, Philippines	twinCity	Bucheon
+Valenzuela, Philippines	twinCity	Santa Cruz, Marinduque
+Neuchâtel	twinCity	Aarau
+Neuchâtel	twinCity	Besançon
+Neuchâtel	twinCity	Sansepolcro
+Nuwara Eliya	twinCity	Yongzhou
+Biel/Bienne	twinCity	Iserlohn
+Winterthur	twinCity	Hall in Tirol
+Winterthur	twinCity	La Chaux-de-Fonds
+Winterthur	twinCity	Plzeň
+Winterthur	twinCity	Yverdon-les-Bains
+Interlaken	twinCity	Scottsdale, Arizona
+Interlaken	twinCity	Ōtsu, Shiga
+Interlaken	twinCity	Třeboň
+Kisumu	twinCity	Roanoke, Virginia
+Al Hillah	twinCity	Tempe, Arizona
+Aigle	twinCity	L'Aigle
+Aigle	twinCity	Tübingen
+Aigle	twinCity	Bassersdorf
+Bex	twinCity	Tuttlingen
+Féchy	twinCity	Oberdiessbach
+Gimel, Switzerland	twinCity	Gimel-les-Cascades
+Santa Marta	twinCity	Miami Beach, Florida
+Boussens, Switzerland	twinCity	Boussens, Haute-Garonne
+Cheseaux-sur-Lausanne	twinCity	Aubignan
+Le Mont-sur-Lausanne	twinCity	Samedan
+Prilly	twinCity	Giubiasco
+Pully	twinCity	Obernai
+Sumy	twinCity	Celle
+Sumy	twinCity	Vratsa
+Nyon	twinCity	Nyons
+Epesses	twinCity	Burgdorf, Switzerland
+Lutry	twinCity	Sigriswil
+Morges	twinCity	Vertou
+Morges	twinCity	Rochefort, Belgium
+Bussy-Chardonney	twinCity	Teillay
+Echichens	twinCity	Saint-Fiacre-sur-Maine
+Grindelwald	twinCity	Azumi, Nagano
+Grindelwald	twinCity	Matsumoto, Nagano
+Préverenges	twinCity	Préveranges
+Lachen, Switzerland	twinCity	Schramberg
+Metropolitan Borough of Bolton	twinCity	Le Mans
+Metropolitan Borough of Bolton	twinCity	Paderborn
+Spiez	twinCity	Prachatice
+Brienz	twinCity	Brienz/Brinzauls
+Brienz	twinCity	Tryavna
+Brienz	twinCity	Shimada, Shizuoka
+Burgdorf, Switzerland	twinCity	Epesses
+Burgdorf, Switzerland	twinCity	Burgdorf
+Burgdorf, Switzerland	twinCity	San Pellegrino Terme
+Grossaffoltern	twinCity	Horšovský Týn
+Martigny	twinCity	Vaison-la-Romaine
+Martigny	twinCity	Sursee
+Herzogenbuchsee	twinCity	Senica
+Langenthal, Switzerland	twinCity	Brig, Switzerland
+Langenthal, Switzerland	twinCity	Neviano
+Lotzwil	twinCity	Vetrní
+Münsingen	twinCity	Münsingen, Germany
+Münsingen	twinCity	Humpolec
+Thierachern	twinCity	Sezimovo Ústí
+Binn	twinCity	Urtenen-Schönbühl
+Binn	twinCity	Arbon
+Marchwood	twinCity	Saint-Contest
+Kloten	twinCity	Cape Canaveral, Florida
+Bülach	twinCity	Santeramo in Colle
+Beşiktaş	twinCity	Trenčín
+Beşiktaş	twinCity	Erlangen
+Beşiktaş	twinCity	Brooklyn
+Beşiktaş	twinCity	New York City
+Yverdon-les-Bains	twinCity	Nogent-sur-Marne
+Yverdon-les-Bains	twinCity	Winterthur
+Yverdon-les-Bains	twinCity	Prokuplje
+Yverdon-les-Bains	twinCity	Kagamino, Okayama
+Yverdon-les-Bains	twinCity	Pontarlier
+Yverdon-les-Bains	twinCity	Collesano
+Thalwil	twinCity	La Tour-de-Peilz
+Olten	twinCity	Altenburg
+Saint-Oyens	twinCity	Saint-Oyen, Savoie
+Saint-Oyens	twinCity	Saint-Oyen, Aosta Valley
+Berikon	twinCity	Würenlingen
+Kreuzlingen	twinCity	Wolfach
+Kreuzlingen	twinCity	Cisternino
+Östersund	twinCity	Trondheim
+Östersund	twinCity	Kajaani
+Östersund	twinCity	Odense
+Östersund	twinCity	Sanok
+Östersund	twinCity	Jilin City
+Cham, Switzerland	twinCity	Cham, Germany
+Brugg	twinCity	Rottweil
+Valentano	twinCity	Saint-Méen-le-Grand
+Valentano	twinCity	Haltwhistle
+Kremenchuk	twinCity	Svishtov
+Kremenchuk	twinCity	Providence, Rhode Island
+Kremenchuk	twinCity	Snina
+Kremenchuk	twinCity	Michalovce
+Kremenchuk	twinCity	Barysaw
+Kremenchuk	twinCity	Bitola
+Kremenchuk	twinCity	Wenzhou
+Kremenchuk	twinCity	Bydgoszcz
+Kremenchuk	twinCity	Novomoskovsk, Russia
+Rezzato	twinCity	Bogoroditsk
+Kilchberg, Zurich	twinCity	Kilchberg (Tübingen)
+Fislisbach	twinCity	Le Chambon-sur-Lignon
+Morcote	twinCity	Viarmes
+Sikasso	twinCity	Brive-la-Gaillarde
+Stellenbosch Local Municipality	twinCity	Paju
+Melitopol	twinCity	Brive-la-Gaillarde
+Safien	twinCity	Bettingen
+Rafz	twinCity	Hetvehely
+Mex, Vaud	twinCity	Lugny-lès-Charolles
+La Chaux-de-Fonds	twinCity	Winterthur
+La Chaux-de-Fonds	twinCity	Frameries
+Payerne	twinCity	Paray-le-Monial
+Moudon	twinCity	Mazan
+Aarwangen	twinCity	Vodňany
+Dietikon	twinCity	Kolín
+Dietikon	twinCity	Braggio
+Dietikon	twinCity	Renens
+Assens, Switzerland	twinCity	Colombey-les-Deux-Églises
+Saanen	twinCity	Darmstadt
+Saanen	twinCity	Cannes
+Saanen	twinCity	Ordino
+Saanen	twinCity	La Massana
+Boudry	twinCity	Voujeaucourt
+Frauenfeld	twinCity	Kufstein
+Wallisellen	twinCity	Rolle
+Arosa	twinCity	Fukumitsu, Toyama
+Thônex	twinCity	Graveson
+Csongrád	twinCity	Raisio
+Csongrád	twinCity	Bečej
+Csongrád	twinCity	Bełchatów
+Bassersdorf	twinCity	Aigle
+Leuk	twinCity	Münchwilen, Thurgau
+Wil	twinCity	Dobrzeń Wielki
+Sierre	twinCity	Aubenas
+Sierre	twinCity	Cesenatico
+Sierre	twinCity	Delfzijl
+Sierre	twinCity	Schwarzenbeck
+Sierre	twinCity	Zelzate
+Wetzikon	twinCity	Mělník
+Sembrancher	twinCity	Saint-Laurent-des-Arbres
+Küssnacht	twinCity	Küssaberg
+Küssnacht	twinCity	Zduny
+Bettingen	twinCity	Safien
+Cannara	twinCity	Montalto Dora
+Chamblon	twinCity	Bellegarde-en-Marche
+Villeret, Switzerland	twinCity	Louzac-Saint-André
+Malleray	twinCity	Tar, Hungary
+Grand-Saconnex	twinCity	Carantec
+Romainmôtier-Envy	twinCity	Nagaoka, Niigata
+Onex, Switzerland	twinCity	Liestal
+Onex, Switzerland	twinCity	Massagno
+Onex, Switzerland	twinCity	Bandol
+Plan-les-Ouates	twinCity	Villefranche-sur-Mer
+Plan-les-Ouates	twinCity	Birsfelden
+Illnau-Effretikon	twinCity	Orlová
+Rüthi	twinCity	Wolfegg
+Uster	twinCity	Prenzlau
+Monthey	twinCity	Diekirch
+Monthey	twinCity	Ivrea
+Monthey	twinCity	Tübingen
+Sekiu, Washington	twinCity	Clallam Bay, Washington
+Castiglione del Lago	twinCity	Kopřivnice
+Oron-la-Ville	twinCity	Bussac
+Vucherens	twinCity	Droiturier
+Bottens	twinCity	Guéreins
+Chardonne	twinCity	Barbezieux-Saint-Hilaire
+La Tour-de-Peilz	twinCity	Ornans
+La Tour-de-Peilz	twinCity	Thalwil
+Carrouge	twinCity	Carrouges
+Palézieux	twinCity	Vers-Pont-du-Gard
+Baulmes	twinCity	Mont-Saint-Sulpice
+Perroy	twinCity	Zofingen
+Perroy	twinCity	Châteauneuf-de-Gadagne
+Pontresina	twinCity	Gaylord, Michigan
+Zollikofen	twinCity	Neudörfl
+Zweisimmen	twinCity	Oberrot
+Erlenbach im Simmental	twinCity	Erlenbach, Switzerland
+Erlenbach im Simmental	twinCity	Erlenbach am Main
+Olsberg, Switzerland	twinCity	Olsberg, Germany
+Cartaya	twinCity	Loulé Municipality
+Niederried bei Kallnach	twinCity	Nišovice
+Boécourt	twinCity	Périgny, Val-de-Marne
+Vellerat	twinCity	Voeren
+Frutigen	twinCity	Teteven
+Abanilla	twinCity	Villeurbanne
+Grenchen	twinCity	Neckarsulm
+Grenchen	twinCity	Sélestat
+Samedan	twinCity	Le Mont-sur-Lausanne
+Parabiago	twinCity	Croatia
+Selma, Switzerland	twinCity	Wittenbach
+Lyss	twinCity	Monopoli
+Köniz	twinCity	Prijepolje
+Köniz	twinCity	Blatten
+Dürrenroth	twinCity	Klenčí
+Ittigen	twinCity	Dobrusch
+Gadmen	twinCity	Volketswil
+Ugljevik	twinCity	Beočin
+Ugljevik	twinCity	Héric
+Lütschental	twinCity	Bettlach, Switzerland
+Radelfingen	twinCity	Poběžovice
+Kriens	twinCity	San Damiano d'Asti
+Bolligen	twinCity	Hluboká nad Vltavou
+Ligerz	twinCity	Érôme
+Mühleberg	twinCity	Schwanfeld
+Müntschemier	twinCity	Hardheim
+San Donà di Piave	twinCity	Villeneuve-sur-Lot
+Oftringen	twinCity	Filet, Switzerland
+Rothrist	twinCity	Eggerberg
+Charmey	twinCity	Orphin
+Ebikon	twinCity	Embd
+Horw	twinCity	Bratsch
+Arconciel	twinCity	Arconcey
+Neuenhof, Switzerland	twinCity	Holzgerlingen
+Spreitenbach	twinCity	Bra, Piedmont
+Würenlingen	twinCity	Beringen, Switzerland
+Suhr, Aargau	twinCity	Castelnuovo Rangone
+Wohlen, Aargau	twinCity	Lermoos
+Lengnau, Bern	twinCity	Lengnau, Aargau
+Lengnau, Bern	twinCity	Monteroni di Lecce
+Lengnau, Bern	twinCity	Strakonice
+Felsberg, Switzerland	twinCity	Felsberg, Hesse
+Münchenbuchsee	twinCity	Landiswil
+Münchenbuchsee	twinCity	Milevsko
+Urtenen-Schönbühl	twinCity	Binn
+Urtenen-Schönbühl	twinCity	Dačice
+Krauchthal	twinCity	12833 Kamenný Újezd
+Grosshöchstetten	twinCity	Žirovnice
+Kiesen	twinCity	Želiv
+Landiswil	twinCity	Münchenbuchsee
+Oberdiessbach	twinCity	Féchy
+Oberdiessbach	twinCity	Kardašova Řečice
+Worb	twinCity	Edelény
+Bellmund	twinCity	Dobronín
+Merzligen	twinCity	Jamné
+Orpund	twinCity	Brtnice
+Nidau	twinCity	Schliengen
+Trubschachen	twinCity	Strmilov
+Steffisburg	twinCity	Jindřichův Hradec
+Sigriswil	twinCity	Lutry
+Sigriswil	twinCity	Villa General Belgrano
+Buchberg	twinCity	Schnaittenbach
+Hallau	twinCity	Bergün
+Lohn, Schaffhausen	twinCity	Lohn-Ammannsegg
+Tuggen	twinCity	Zell am Harmersbach
+Auenstein, Switzerland	twinCity	Ilsfeld
+Hünenberg	twinCity	Banská Štiavnica
+Risch-Rotkreuz	twinCity	Amaroni
+Oberflachs	twinCity	Seitingen-Oberflacht
+Näfels	twinCity	Bad Säckingen
+Hausen bei Brugg	twinCity	Hausen im Wiesental
+Eiken, Switzerland	twinCity	Eicken-Bruche
+Eiken, Switzerland	twinCity	Eke, Belgium
+Eiken, Switzerland	twinCity	Eecke
+Frick, Switzerland	twinCity	Frickingen
+Gansingen	twinCity	Gansheim
+Wittnau, Switzerland	twinCity	Wittnau, Baden-Württemberg
+Meisterschwanden	twinCity	Saint-Claude-de-Diray
+Lengnau, Aargau	twinCity	Lengnau, Bern
+Le Landeron	twinCity	Solothurn
+Cressier, Neuchâtel	twinCity	Fegersheim
+Saint-Blaise, Switzerland	twinCity	Sankt Blasien
+Paola, Calabria	twinCity	Fréjus
+Paola, Calabria	twinCity	France
+Cortaillod	twinCity	Maienfeld
+Vaumarcus	twinCity	Vira (Gambarogno)
+La Sagne	twinCity	Rosières-aux-Salines
+Les Planchettes	twinCity	Bardouville
+La Brévine	twinCity	Leynes
+Eich, Switzerland	twinCity	Eich, Saxony
+Sursee	twinCity	Highland, Illinois
+Sursee	twinCity	Martigny
+Schenkon	twinCity	Schenkenzell
+Bischofszell	twinCity	Tuttlingen
+Bischofszell	twinCity	Battaglia Terme
+Bischofszell	twinCity	Waidhofen an der Ybbs
+Münchwilen, Thurgau	twinCity	Leuk
+Sirnach	twinCity	Helvécia
+Arbon	twinCity	Langenargen
+Arbon	twinCity	Binn
+Khmilnyk	twinCity	Busko-Zdrój
+Breitenbach, Switzerland	twinCity	Großbreitenbach
+Schmitten, Fribourg	twinCity	Dąbrowica
+Bettlach, Switzerland	twinCity	Lütschental
+Lostorf	twinCity	Rielasingen-Worblingen
+Dulliken	twinCity	Ammerndorf
+Wangen bei Olten	twinCity	Traben-Trarbach
+Lohn-Ammannsegg	twinCity	Lohn, Schaffhausen
+Reigoldswil	twinCity	Bad Bellingen
+Reinach, Basel-Country	twinCity	Ostfildern
+Birsfelden	twinCity	Plan-les-Ouates
+Allschwil	twinCity	Pfullendorf
+Allschwil	twinCity	Blaj
+Oberwil, Basel-Country	twinCity	Aschau im Zillertal
+Laufen, Switzerland	twinCity	Laufen, Germany
+Wittenbach	twinCity	Wilburgstetten
+Wittenbach	twinCity	Selma, Switzerland
+Bastia Umbra	twinCity	Luz-Saint-Sauveur
+Bastia Umbra	twinCity	Sant Sadurní d'Anoia
+Bastia Umbra	twinCity	Höchberg
+Castel Ritaldi	twinCity	Ijadabra
+Città della Pieve	twinCity	Saint-Cyr-sur-Mer
+Città della Pieve	twinCity	Denzlingen
+Tübach	twinCity	Oberteuringen
+Sevelen	twinCity	Issum
+Flawil	twinCity	Isny im Allgäu
+Bonstetten, Switzerland	twinCity	Bonstetten, Germany
+Oberembrach	twinCity	Trhová Kamenice
+Neerach	twinCity	Präz
+Schöfflisdorf	twinCity	Missolonghi
+Elgg	twinCity	Wenigzell
+Elgg	twinCity	Mafi Kumase
+Lichtensteig	twinCity	Adelberg
+Hinwil	twinCity	Jablonné nad Orlicí
+Schwerzenbach	twinCity	Aizpute
+Volketswil	twinCity	Gadmen
+Claro, Switzerland	twinCity	Valle di Cadore
+Giubiasco	twinCity	Prilly
+Vira (Gambarogno)	twinCity	Vaumarcus
+Massagno	twinCity	Onex, Switzerland
+Vouvry	twinCity	Bodnegg
+Ayent	twinCity	Saint-Brevin-les-Pins
+Evolène	twinCity	Châtelaillon-Plage
+Vétroz	twinCity	Beaumont-lès-Valence
+Savièse	twinCity	Vaux-le-Pénil
+Bratsch	twinCity	Horw
+Martigny-Combe	twinCity	Pont-l'Abbé-d'Arnoult
+Saillon	twinCity	Barbentane
+Saxon, Switzerland	twinCity	Bouliac
+Mex, Valais	twinCity	Saint-Alban-les-Eaux
+Eggerberg	twinCity	Rothrist
+Naters	twinCity	Ornavasso
+Ayer, Switzerland	twinCity	Montferrier-sur-Lez
+Embd	twinCity	Ebikon
+Filet, Switzerland	twinCity	Oftringen
+Cheyres	twinCity	Saint-Martial, Gard
+Heitenried	twinCity	Jászágó
+Plaffeien	twinCity	Kasterlee
+Muntelier	twinCity	Castiglione Falletto
+Corminboeuf	twinCity	Fussy
+Cottens, Fribourg	twinCity	Combronde
+Bergün	twinCity	Hallau
+Brienz/Brinzauls	twinCity	Brienz
+Trimmis	twinCity	Weyregg am Attersee
+Breil/Brigels	twinCity	Gammelshausen
+Braggio	twinCity	Dietikon
+Maienfeld	twinCity	Cortaillod
+Mutten	twinCity	Riehen
+Präz	twinCity	Neerach
+La Dorada, Caldas	twinCity	Cadiz
+Rácalmás	twinCity	Dransfeld
+Almazul	twinCity	Soria
+Bembibre	twinCity	São Domingos, Cape Verde
+Fabero	twinCity	Castelo de Paiva Municipality
+Fabero	twinCity	Vila Pouca de Aguiar Municipality
+Cacabelos	twinCity	Torano Nuovo
+Cistierna	twinCity	Pinto, Madrid
+Cistierna	twinCity	Thiviers
+Brig, Switzerland	twinCity	Langenthal, Switzerland
+Brig, Switzerland	twinCity	Domodossola
+Janos Municipality	twinCity	Lordsburg, New Mexico
+Janos Municipality	twinCity	United States
+Kent, Ohio	twinCity	Dudince
+Baden, Switzerland	twinCity	Sighişoara

@@ -1,0 +1,791 @@
+Ford GT40	fuelCapacity	0.1363827
+Porsche 928	fuelCapacity	0.08637571
+Porsche 912	fuelCapacity	0.061
+Porsche Boxster  Porsche 987   1	fuelCapacity	0.063973459082
+Porsche 914	fuelCapacity	0.062
+AMC Gremlin	fuelCapacity	0.079872188558
+Lada Samara	fuelCapacity	0.043
+BMW 328	fuelCapacity	0.04921035314
+Volkswagen Kübelwagen	fuelCapacity	0.03
+Porsche Cayenne	fuelCapacity	0.1
+Volkswagen Schwimmwagen	fuelCapacity	0.05
+Toyota Celica  First Generation   1	fuelCapacity	0.058
+Toyota Celica  Fourth generation   1	fuelCapacity	0.060188047302
+Toyota Celica  Fifth generation   1	fuelCapacity	0.060188047302
+Vespa 400	fuelCapacity	0.023
+Lotus Elise  ries 2   1	fuelCapacity	0.0401
+Lotus Elite  Types 75 and 83   1	fuelCapacity	0.067
+Volkswagen Scirocco  First generation   1	fuelCapacity	0.045
+Volkswagen Scirocco  Second generation   1	fuelCapacity	0.052238682564
+Ford Cortina  Mark I   1	fuelCapacity	0.03636872
+Ford Cortina  Mark II   1	fuelCapacity	0.0454609
+Ford Cortina  TC Mark III   1	fuelCapacity	0.0545
+Vauxhall Viva  uxhall Viva HA   1	fuelCapacity	0.03182263
+Vauxhall Viva  uxhall Viva HB   1	fuelCapacity	0.03636872
+Vauxhall Viva  uxhall Viva HC   1	fuelCapacity	0.05455308
+Reliant Scimitar  eliant Scimitar SE4   1	fuelCapacity	0.0909218
+Reliant Scimitar  eliant Scimitar GTE SE5/SE5A   1	fuelCapacity	0.0775
+Vauxhall Magnum	fuelCapacity	0.05455308
+Mazda RX-8	fuelCapacity	0.06
+Fiat 128	fuelCapacity	0.0375
+Citroën DS	fuelCapacity	0.064
+Peugeot 406	fuelCapacity	0.07
+Toyota Land Cruiser  100 Series   1	fuelCapacity	0.145
+Volkswagen Jetta  A5, Typ 1K   1	fuelCapacity	0.055
+Toyota Matrix  First generation   1	fuelCapacity	0.049967435496
+Honda Integra  Second generation   1	fuelCapacity	0.049967435496
+Honda Integra  Fourth generation DC5   1	fuelCapacity	0.049967435496
+AMC Pacer	fuelCapacity	0.082900517982
+Morris Marina	fuelCapacity	0.0525
+Subaru Outback  First generation   1	fuelCapacity	0.060188047302
+Subaru Outback  Third generation   1	fuelCapacity	0.063973459082
+Subaru Outback  Fourth generation   1	fuelCapacity	0.07003011793
+Fiat X1/9	fuelCapacity	0.0476
+Saab 96	fuelCapacity	0.04
+Austin Allegro	fuelCapacity	0.0475
+Princess (car)	fuelCapacity	0.07273744
+Princess (car)  Wolseley 2200   1	fuelCapacity	0.07273744
+Honda Accord  Fourth generation   1	fuelCapacity	0.06435200026
+Honda Accord  Sixth generationNorth America   1	fuelCapacity	0.064730541438
+Triumph TR6	fuelCapacity	0.0625
+Triumph Stag	fuelCapacity	0.0635
+Ford Mondeo  Mk4   1	fuelCapacity	0.07
+Vauxhall Cavalier  Mark I Cavalier   1	fuelCapacity	0.05
+Pontiac Sunfire	fuelCapacity	0.054131388454
+Pontiac Sunbird  Third generation   1	fuelCapacity	0.057538259056
+AMC Javelin  1968 and 1969   1	fuelCapacity	0.07192282382
+Datsun 510	fuelCapacity	0.045006291
+Pontiac Firebird  Third generation   1	fuelCapacity	0.05867388259
+Pontiac Firebird  Fourth generation   1	fuelCapacity	0.058295341412
+Volvo 140 Series	fuelCapacity	0.058
+Volvo S60  First generation   1	fuelCapacity	0.07
+Volvo S60  Second generation   1	fuelCapacity	0.0675
+Opel Kadett  C   1	fuelCapacity	0.0445
+Lotus Europa	fuelCapacity	0.057
+Acura TSX  First-generation CL9   1	fuelCapacity	0.064730541438
+Jaguar X-Type	fuelCapacity	0.0615
+Honda Fit  Second-generation Fit   1	fuelCapacity	0.042
+Citroën GS	fuelCapacity	0.043
+Ford Five Hundred	fuelCapacity	0.07192282382
+Pontiac G6	fuelCapacity	0.06056658848
+Ford Popular  103E   1	fuelCapacity	0.02727654
+Honda Prelude  First generation SN   1	fuelCapacity	0.049967435496
+Honda Prelude  Second generation AB, BA1/2/3/6, BB   1	fuelCapacity	0.059809506124
+Honda Prelude  Third generation BA3/4/5/7   1	fuelCapacity	0.060188047302
+Honda Prelude  Fourth generation BA8/9, BB1-BB4   1	fuelCapacity	0.060188047302
+Honda Prelude  Fifth generation BB5-BB9   1	fuelCapacity	0.060188047302
+Toyota Supra  Mark I   1	fuelCapacity	0.0604
+Toyota Supra  Mark II   1	fuelCapacity	0.0604
+Toyota Supra  Mark III   1	fuelCapacity	0.07
+Toyota Supra  Mark IV   1	fuelCapacity	0.07
+Peugeot 504	fuelCapacity	0.056
+Honda Insight  Second generation ZE2   1	fuelCapacity	0.04
+SEAT Ibiza  Mk4 6J   1	fuelCapacity	0.045
+Ford Fiesta  Mark I   1	fuelCapacity	0.034095675
+Ford Fiesta  Mark III   1	fuelCapacity	0.042
+Fiat 124	fuelCapacity	0.039
+Fiat 500	fuelCapacity	0.02
+Fiat 126	fuelCapacity	0.0205
+Porsche Carrera GT	fuelCapacity	0.092
+Jaguar E-Type  Series I   1	fuelCapacity	0.06364
+Jaguar E-Type  Series III   1	fuelCapacity	0.082
+SEAT Alhambra  Mk1   1	fuelCapacity	0.07
+SEAT León  Mk1 1M   1	fuelCapacity	0.055
+SEAT León  Mk2 1P   1	fuelCapacity	0.055
+Koenigsegg CCR	fuelCapacity	0.08
+Koenigsegg CC8S	fuelCapacity	0.08
+Ford Transit  2006–present   1	fuelCapacity	0.08
+Ford Transit  2006–present Europe   1	fuelCapacity	0.08
+Chevrolet Corsica	fuelCapacity	0.059052423768
+Mazda MX-3	fuelCapacity	0.049967435496
+Rootes Arrow	fuelCapacity	0.0455
+Citroën CX	fuelCapacity	0.068
+BMW 5 Series  F10   1	fuelCapacity	0.07
+Buick Electra  Sixth generation   1	fuelCapacity	0.06813741204
+Audi A6  C4   1	fuelCapacity	0.08
+Audi A6  C5   1	fuelCapacity	0.07
+Audi A6  C6   1	fuelCapacity	0.08
+Ford Explorer  First generation   1	fuelCapacity	0.073436988532
+Ford Explorer  Second generation   1	fuelCapacity	0.07949364738
+Ford Explorer  Third generation U152   1	fuelCapacity	0.08517176505
+Ford Explorer  Fourth generation U251   1	fuelCapacity	0.08517176505
+Oldsmobile 98  Tenth generation   1	fuelCapacity	0.06813741204
+Oldsmobile 98  Eleventh generation   1	fuelCapacity	0.06813741204
+Hillman Imp	fuelCapacity	0.0275
+Ford Capri  Mk III   1	fuelCapacity	0.05909917
+Lotus Esprit	fuelCapacity	0.068
+Audi TT  8N   1	fuelCapacity	0.055
+Audi TT  8J   1	fuelCapacity	0.055
+Maserati Bora	fuelCapacity	0.09
+Mitsubishi Eclipse  First generation   1	fuelCapacity	0.060188047302
+Mitsubishi Eclipse  cond generation   1	fuelCapacity	0.063973459082
+Mitsubishi Eclipse  Third generation   1	fuelCapacity	0.062080753192
+Mitsubishi Eclipse  Fourth generation   1	fuelCapacity	0.067001788506
+Renault Mégane  III   1	fuelCapacity	0.06
+Commer  FC   1	fuelCapacity	0.0409
+Dino (automobile)  Ferrari Dino 246 GT & GTS   1	fuelCapacity	0.070464395
+Bentley Continental GT  First Generation   1	fuelCapacity	0.09
+Bentley Continental GT  Second Generation   1	fuelCapacity	0.09
+Citroën LNA	fuelCapacity	0.04
+BMW Z4  E85   1	fuelCapacity	0.055
+BMW Z4  E89   1	fuelCapacity	0.055
+Renault 5  first generation   1	fuelCapacity	0.041
+Fiat 500 "Topolino"	fuelCapacity	0.020457405
+Volvo S80  First generation   1	fuelCapacity	0.07
+Volvo S80  Second generation   1	fuelCapacity	0.07
+Hillman Avenger	fuelCapacity	0.041
+Mitsubishi Galant  hird generation   1	fuelCapacity	0.060008388
+Audi 100  C1   1	fuelCapacity	0.058189952
+Audi 100  & 200 C2   1	fuelCapacity	0.060008388
+Audi 100  & 200 C3   1	fuelCapacity	0.079872188558
+Audi 100  C4   1	fuelCapacity	0.08
+Audi 80  B1   1	fuelCapacity	0.0455
+Audi 80  B2   1	fuelCapacity	0.069
+Audi A3  8P   1	fuelCapacity	0.055
+Oldsmobile Intrigue	fuelCapacity	0.06435200026
+Infiniti J30	fuelCapacity	0.07192282382
+Chevrolet Lumina  First Generation   1	fuelCapacity	0.064730541438
+Chevrolet Lumina  Second Generation:   1	fuelCapacity	0.064730541438
+Oldsmobile Alero	fuelCapacity	0.054131388454
+Chrysler Crossfire	fuelCapacity	0.060188047302
+BMW 7 Series  F01/F02   1	fuelCapacity	0.082
+Audi A5	fuelCapacity	0.064
+Ford Corsair	fuelCapacity	0.03636872
+Jaguar XJ  Series I   1	fuelCapacity	0.091
+Jaguar XJ  Series II   1	fuelCapacity	0.091
+Jaguar XJ  -Coupé   1	fuelCapacity	0.091
+Audi A4  B5   1	fuelCapacity	0.062
+Audi A4  B7   1	fuelCapacity	0.066
+Audi A4  B8   1	fuelCapacity	0.065
+Renault 12	fuelCapacity	0.05
+Honda Integra DC5	fuelCapacity	0.049967435496
+Honda NSX	fuelCapacity	0.07003011793
+Peugeot 104	fuelCapacity	0.04
+Lexus GS  First generation   1	fuelCapacity	0.079872188558
+Lexus GS  Third generation   1	fuelCapacity	0.068
+Chevrolet Cavalier  First generation   1	fuelCapacity	0.051481600208
+Chevrolet Cavalier  Second generation   1	fuelCapacity	0.057538259056
+Chevrolet Cavalier  Third generation   1	fuelCapacity	0.057538259056
+Nissan Stanza  2	fuelCapacity	0.060188047302
+Nissan Stanza  3	fuelCapacity	0.060188047302
+Lotus Elan  +2   1	fuelCapacity	0.059
+Citroën Dyane	fuelCapacity	0.025
+Opel Ascona  A   1	fuelCapacity	0.048
+Opel Ascona  B   1	fuelCapacity	0.05
+Jensen FF	fuelCapacity	0.07273744
+Mazda 929  Fifth generation   1	fuelCapacity	0.07003011793
+Mazda 929  Sixth generation   1	fuelCapacity	0.07003011793
+Mazda Capella  Mark 1   1	fuelCapacity	0.05
+Mazda MX-6  First generation   1	fuelCapacity	0.060188047302
+Mazda MX-6  Second generation   1	fuelCapacity	0.05867388259
+Mazda Familia  Third generation   1	fuelCapacity	0.040005592
+Mazda Familia  Seventh generation BH, BA   1	fuelCapacity	0.05488847081
+Fiat Siena	fuelCapacity	0.048
+NSU Ro 80	fuelCapacity	0.082
+Alfa Romeo 147	fuelCapacity	0.06
+Lancia Stratos HF	fuelCapacity	0.08
+Toyota Starlet  60 Series   1	fuelCapacity	0.040005592
+Reliant Rebel	fuelCapacity	0.02727654
+Renault Alliance	fuelCapacity	0.046939106072
+Talbot Tagora	fuelCapacity	0.07
+Ford Escape  Second generation North America   1	fuelCapacity	0.06245929437
+Volkswagen Type 3	fuelCapacity	0.04
+Volkswagen Type 4	fuelCapacity	0.05
+BMW Z3 (E36/4)	fuelCapacity	0.05110305903
+Mercedes-Benz M-Class  W164   1	fuelCapacity	0.095013835678
+Mazda Demio  DY   1	fuelCapacity	0.045
+Alfa Romeo 156	fuelCapacity	0.063
+Ford Zephyr  4 Mark III   1	fuelCapacity	0.056826125
+Ford Zephyr  Ford Zodiac Mark III   1	fuelCapacity	0.05455308
+Ford Zephyr  Mark IV   1	fuelCapacity	0.06819135
+Lada Kalina	fuelCapacity	0.05
+Amphicar	fuelCapacity	0.056826125
+Buick LaCrosse  First generationNorth America   1	fuelCapacity	0.06435200026
+Saturn L-Series	fuelCapacity	0.059430964946
+Saturn Ion	fuelCapacity	0.04921035314
+Ford Consul  Granada   1	fuelCapacity	0.065
+Plymouth Caravelle	fuelCapacity	0.05299576492
+Plymouth Laser	fuelCapacity	0.060188047302
+Eagle Vision	fuelCapacity	0.06813741204
+Eagle Premier	fuelCapacity	0.06056658848
+Simca 1307	fuelCapacity	0.060008388
+Chevrolet S-10  Second generation   1	fuelCapacity	0.07192282382
+Chrysler Sebring  Second generation   1	fuelCapacity	0.060188047302
+Chrysler Sebring  Third generation   1	fuelCapacity	0.063973459082
+Bugatti Veyron	fuelCapacity	5.0E-4
+Oldsmobile Firenza	fuelCapacity	0.051481600208
+Audi A6 allroad quattro  Audi allroad quattro C5   1	fuelCapacity	0.07
+Audi A6 allroad quattro  C6   1	fuelCapacity	0.08
+BMW 5 Series (E12)	fuelCapacity	0.069
+BMW 3 Series (E30)	fuelCapacity	0.0621
+BMW 3 Series (E46)	fuelCapacity	0.062837835548
+BMW 3 Series (E90)	fuelCapacity	0.063
+BMW X5 (E53)	fuelCapacity	0.093
+Jaguar XJS  XJ-S Pre H.E.   1	fuelCapacity	0.091
+Jensen Interceptor	fuelCapacity	0.07273744
+Nissan 350Z	fuelCapacity	0.076
+Chrysler Imperial  Seventh Generation   1	fuelCapacity	0.06056658848
+Cadillac STS	fuelCapacity	0.06435200026
+Nash Metropolitan	fuelCapacity	0.03974682369
+Morris Minor	fuelCapacity	0.02273045
+Mercury Topaz  Second generation   1	fuelCapacity	0.060188047302
+Nissan Bluebird  atsun Bluebird 510   1	fuelCapacity	0.0454609
+Nissan Bluebird  atsun Bluebird 810 Datsun 160B/180B Bluebird in U  1	fuelCapacity	0.060008388
+Toyota Corona  Third generation   1	fuelCapacity	0.045
+Toyota Corona  Fourth generation   1	fuelCapacity	0.05867388259
+Mercury Milan	fuelCapacity	0.06624470615
+Westfield SEight	fuelCapacity	0.045
+Audi Quattro	fuelCapacity	0.094
+Chevrolet Tahoe  GMT900   1	fuelCapacity	0.09842070628
+Ford Expedition  First generation UN93   1	fuelCapacity	0.09842070628
+Ford Expedition  Second generation U222   1	fuelCapacity	0.10599152984
+Ford Expedition  Third generation U324   1	fuelCapacity	0.10599152984
+Ford Expedition  EL U354   1	fuelCapacity	0.12491858874
+Lincoln Aviator	fuelCapacity	0.08517176505
+Lincoln LS	fuelCapacity	0.06813741204
+Lincoln Mark VIII	fuelCapacity	0.06813741204
+BMW X5  E53   1	fuelCapacity	0.093
+Triumph TR4	fuelCapacity	0.0534
+Alfa Romeo 164	fuelCapacity	0.07
+Scion xA	fuelCapacity	0.045046400182
+Audi R8 (road car)	fuelCapacity	0.09
+Peugeot 204	fuelCapacity	0.042
+Infiniti M  Y34   1	fuelCapacity	0.079872188558
+Infiniti M  Y50   1	fuelCapacity	0.0757082356
+Infiniti M  Y51   1	fuelCapacity	0.0757082356
+Škoda Superb  B5, Typ 3U   1	fuelCapacity	0.062
+Honda CR-X del Sol	fuelCapacity	0.045
+Dodge Durango  First generation   1	fuelCapacity	0.097285082746
+Dodge SRT-4	fuelCapacity	0.04731764725
+Nissan Sunny	fuelCapacity	0.034
+Nissan Sunny  Datsun Sunny B110 Series   1	fuelCapacity	0.04
+Nissan Sunny  Datsun Sunny B210 Series   1	fuelCapacity	0.047279336
+Mitsubishi Raider	fuelCapacity	0.08327905916
+Lincoln Mark LT	fuelCapacity	0.1135623534
+Mitsubishi Galant Lambda	fuelCapacity	0.06
+Kia Sportage  Second generation   1	fuelCapacity	0.057916800234
+Chevrolet Malibu  Fifth generation   1	fuelCapacity	0.057538259056
+Chevrolet Malibu  Sixth generation   1	fuelCapacity	0.06056658848
+Chevrolet Venture	fuelCapacity	0.0757082356
+Chevrolet Uplander	fuelCapacity	0.0757082356
+Mazda6  Mazdaspeed6   1	fuelCapacity	0.060188047302
+Austin Maxi	fuelCapacity	0.041
+Triumph Toledo	fuelCapacity	0.048
+Triumph 1300	fuelCapacity	0.0534165575
+Tata Safari	fuelCapacity	0.065
+Nissan Sentra  First generation   1	fuelCapacity	0.049967435496
+Nissan Sentra  Second generation   1	fuelCapacity	0.049967435496
+Nissan Sentra  Third generation   1	fuelCapacity	0.049967435496
+Opel Rekord  C   1	fuelCapacity	0.0548
+Opel Rekord  D   1	fuelCapacity	0.069
+Chevrolet Beretta	fuelCapacity	0.057538259056
+Chevrolet Tracker  First generation   1	fuelCapacity	0.042018070758
+Chevrolet Chevy II / Nova  Fourth generation   1	fuelCapacity	0.0757082356
+Chevrolet Chevy II / Nova  Fifth generation   1	fuelCapacity	0.049967435496
+Ford Squire	fuelCapacity	0.03182263
+Triumph 2000	fuelCapacity	0.0625
+Buick Roadmaster  1991-1996   1	fuelCapacity	0.08706447094
+Cadillac Brougham	fuelCapacity	0.077222400312
+Mitsubishi Colt  Seventh Generation Colt Z30   1	fuelCapacity	0.047
+Lotus Exige	fuelCapacity	0.0435
+Honda Ridgeline	fuelCapacity	0.08327905916
+Holden Gemini  First generation   1	fuelCapacity	0.052
+Dacia Logan	fuelCapacity	0.05
+Volvo V70  First generation   1	fuelCapacity	0.068
+Volvo V70  Third generation   1	fuelCapacity	0.07
+Peugeot 404	fuelCapacity	0.05000699
+Daihatsu Rocky  First generation   1	fuelCapacity	0.060188047302
+Triumph Herald	fuelCapacity	0.041
+Toyota Tacoma  First generation   1	fuelCapacity	0.0572
+Toyota Tacoma  Second generation   1	fuelCapacity	0.0799
+Suzuki Aerio	fuelCapacity	0.05
+Daihatsu Boon  First generation   1	fuelCapacity	0.04
+Daihatsu Copen	fuelCapacity	0.04
+Sunbeam Tiger	fuelCapacity	0.0534165575
+Hillman Husky	fuelCapacity	0.0284130625
+Hillman Husky  Imp based   1	fuelCapacity	0.0275
+Pontiac Torrent	fuelCapacity	0.06056658848
+Chevrolet Monte Carlo  Fourth generation   1	fuelCapacity	0.068515953218
+Chevrolet Monte Carlo  Fifth generation   1	fuelCapacity	0.062837835548
+Chevrolet Monte Carlo  Sixth generation   1	fuelCapacity	0.06435200026
+Ferrari 308 GTB/GTS	fuelCapacity	0.074101267
+BMW M5  BMW E60 M5   1	fuelCapacity	0.07
+BMW M5  BMW F10 M5   1	fuelCapacity	0.08
+Ford Puma	fuelCapacity	0.04
+Ferrari 348	fuelCapacity	0.095
+Triumph Vitesse	fuelCapacity	0.0397782875
+Mini Moke	fuelCapacity	0.0284
+Honda Pilot  First generation   1	fuelCapacity	0.077222400312
+Subaru Justy	fuelCapacity	0.037475576622
+Honda CR-V  First generation RD1-RD3   1	fuelCapacity	0.063973459082
+Honda CR-V  Second generation RD4-RD7   1	fuelCapacity	0.057916800234
+Honda CR-V  Third generation RE1-RE5, RE7   1	fuelCapacity	0.058
+Maserati MC12	fuelCapacity	0.115
+BMC ADO17	fuelCapacity	0.057
+BMC ADO16	fuelCapacity	0.03636872
+Hummer H1	fuelCapacity	0.09842070628
+Cadillac SRX  First generation   1	fuelCapacity	0.0757082356
+Chrysler PT Cruiser	fuelCapacity	0.0567811767
+Toyota T100	fuelCapacity	0.09084988272
+Toyota Cressida  First generation   1	fuelCapacity	0.065
+AMC Hornet	fuelCapacity	0.08327905916
+Audi V8	fuelCapacity	0.08
+Dodge Ram Van  Second generation   1	fuelCapacity	0.08327905916
+Alfa Romeo Alfasud	fuelCapacity	0.05
+BMW New Class  BMW 1500   1	fuelCapacity	0.053
+Mitsubishi Outlander  First generation   1	fuelCapacity	0.06
+Toyota Sequoia  First generation   1	fuelCapacity	0.099934870992
+Nissan Xterra  First Generation   1	fuelCapacity	0.073436988532
+Nissan Xterra  Second generation   1	fuelCapacity	0.079872188558
+Renault 16	fuelCapacity	0.05
+Opel Commodore	fuelCapacity	0.066
+Opel Commodore  B   1	fuelCapacity	0.069
+Holden Brougham	fuelCapacity	0.075
+Ford Bronco II	fuelCapacity	0.08706447094
+Ford Bronco  Fourth generation   1	fuelCapacity	0.12491858874
+Ford Bronco  Fifth generation   1	fuelCapacity	0.12491858874
+Honda Passport  First generation   1	fuelCapacity	0.082900517982
+Honda Passport  Second generation   1	fuelCapacity	0.079872188558
+Subaru G	fuelCapacity	0.03217600013
+Subaru XT	fuelCapacity	0.060188047302
+Toyota RAV4  First generation   1	fuelCapacity	0.058
+Toyota RAV4  Second generation   1	fuelCapacity	0.056
+Toyota RAV4  Third generation   1	fuelCapacity	0.06
+Chevrolet Cobalt	fuelCapacity	0.04921035314
+Bentley Continental Flying Spur (2005)	fuelCapacity	0.09
+Chery A15	fuelCapacity	0.055
+Fiat 125	fuelCapacity	0.05000699
+Fiat 130	fuelCapacity	0.0795
+Fiat 600  Multipla   1	fuelCapacity	0.0284
+Fiat Regata	fuelCapacity	0.055
+Nissan Figaro	fuelCapacity	0.04
+MG MGB  MGC & MGC GT   1	fuelCapacity	0.05455308
+Cadillac DTS	fuelCapacity	0.06813741204
+Triumph TR7	fuelCapacity	0.055
+Audi S4  Audi C4 S4   1	fuelCapacity	0.08
+Audi S4  Audi B5 S4 quattro   1	fuelCapacity	0.062
+Audi S4  Audi B6 S4 quattro   1	fuelCapacity	0.066
+Audi S4  Audi B7 S4 quattro   1	fuelCapacity	0.066
+Audi S4  Audi B8 S4 quattro   1	fuelCapacity	0.064
+Cadillac Fleetwood  Fourth generation   1	fuelCapacity	0.0946352945
+Cadillac Fleetwood  Fifth generation   1	fuelCapacity	0.06813741204
+Cadillac Fleetwood  Sixth generation   1	fuelCapacity	0.06813741204
+Audi RS6  Audi C5 RS6 quattro   1	fuelCapacity	0.082
+Audi RS6  Audi C6 RS6 5.0 TFSI quattro   1	fuelCapacity	0.08
+Fiat Oggi	fuelCapacity	0.052
+Chevrolet K5 Blazer  Second generation   1	fuelCapacity	0.11734776518
+Chevrolet K5 Blazer  Third generation   1	fuelCapacity	0.1135623534
+Toyota FJ Cruiser	fuelCapacity	0.07192282382
+Opel GT	fuelCapacity	0.05
+Nash-Healey	fuelCapacity	0.0757082356
+Volvo C70  Second generation   1	fuelCapacity	0.062
+Toyota Mark II  First Generation   1	fuelCapacity	0.051860141386
+Toyota Mark II  Second Generation   1	fuelCapacity	0.060188047302
+SEAT Córdoba  - Second generation   1	fuelCapacity	0.045
+Alfa Romeo Brera	fuelCapacity	0.07
+AMC Spirit	fuelCapacity	0.07949364738
+Kia Rio	fuelCapacity	0.045
+GAZ-M20 Pobeda	fuelCapacity	0.055
+AMC Concord	fuelCapacity	0.08327905916
+Suzuki Cultus  Third generation   1	fuelCapacity	0.040125364868
+Hyundai Excel  X1 1985-1989   1	fuelCapacity	0.040125364868
+Hyundai Excel  X2 1989&ndash;94   1	fuelCapacity	0.045046400182
+MG T-type  MG TC Midget   1	fuelCapacity	0.061372215
+MG T-type  MG TF Midget   1	fuelCapacity	0.05455308
+Messerschmitt KR200	fuelCapacity	0.01324894123
+MG Midget	fuelCapacity	0.0275
+Lancia Flavia	fuelCapacity	0.048
+Bristol Fighter (automobile)	fuelCapacity	0.105
+Panther Solo	fuelCapacity	0.055
+Panther De Ville	fuelCapacity	0.1046
+Audi S8  4.2 quattro D2   1	fuelCapacity	0.09
+Audi S8  5.2 FSI quattro D3   1	fuelCapacity	0.09
+Ford Model Y	fuelCapacity	0.02925
+Mitsubishi FTO	fuelCapacity	0.06
+Austin A40 Farina  Mark I   1	fuelCapacity	0.02727654
+Austin A40 Farina  Mark II   1	fuelCapacity	0.03182263
+Austin A40 Sports	fuelCapacity	0.0397782875
+MG Magnette  ZA   1	fuelCapacity	0.04091481
+Innocenti Mini	fuelCapacity	0.038
+Rover P6	fuelCapacity	0.05455308
+Monica (automobile)	fuelCapacity	0.109
+Rover P5	fuelCapacity	0.06364526
+Daewoo Leganza	fuelCapacity	0.065
+Toyota Allion	fuelCapacity	0.06
+Toyota Carina  First generation   1	fuelCapacity	0.05
+Bentley T-series	fuelCapacity	0.109
+Honda Z	fuelCapacity	0.026
+Mercedes-Benz W114	fuelCapacity	0.065
+Infiniti FX  First generation   1	fuelCapacity	0.090092800364
+Mercedes-Benz W220	fuelCapacity	0.088
+Daihatsu Consorte	fuelCapacity	0.04
+Lancia Beta	fuelCapacity	0.051825426
+Renault 14	fuelCapacity	0.038
+Mitsubishi Carisma	fuelCapacity	0.06
+Hyundai Santa Fe  Second Generation CM   1	fuelCapacity	0.074951153244
+Ferrari 365  GTC   1	fuelCapacity	0.090012582
+Morris Oxford  MO   1	fuelCapacity	0.043187855
+Morris Oxford  III   1	fuelCapacity	0.04091481
+Perodua Kenari	fuelCapacity	0.04
+Maybach Exelero	fuelCapacity	0.11
+Peugeot 305	fuelCapacity	0.043
+Audi RS4  Audi B5 RS4 Avant quattro   1	fuelCapacity	0.062
+Audi RS4  Audi B7 RS4 quattro   1	fuelCapacity	0.063
+Mitsubishi Pajero  First generation   1	fuelCapacity	0.09
+Mitsubishi Pajero  Second generation   1	fuelCapacity	0.09
+Mitsubishi Pajero  Third generation   1	fuelCapacity	0.089
+Mitsubishi Pajero  Fourth generation   1	fuelCapacity	0.089
+Westfield Megabusa	fuelCapacity	0.0284
+AMC Matador	fuelCapacity	0.094256753322
+De Tomaso Pantera	fuelCapacity	0.08
+Ford Mustang SVT Cobra  Fox Body Windsor SVT Mustang Cobra   1	fuelCapacity	0.058295341412
+FSO Polonez	fuelCapacity	0.05
+Proton Arena	fuelCapacity	0.05
+Aston Martin DB6	fuelCapacity	0.08637571
+Aston Martin DB2/4	fuelCapacity	0.077
+Aston Martin DBS	fuelCapacity	0.0955
+Aston Martin V8	fuelCapacity	0.0955
+Suzuki Wagon R  Maruti Wagon R   1	fuelCapacity	0.035
+Rolls-Royce Silver Shadow	fuelCapacity	0.10910616
+Simca 1100	fuelCapacity	0.042
+Hyundai Scoupe	fuelCapacity	0.045046400182
+Chevrolet Montana	fuelCapacity	0.0525
+Morgan +4+	fuelCapacity	0.0454609
+Nissan Quest  First generation   1	fuelCapacity	0.0757082356
+Nissan Quest  Second generation   1	fuelCapacity	0.0757082356
+Nissan Quest  hird generation   1	fuelCapacity	0.076086776778
+Audi S6  C4   1	fuelCapacity	0.08
+Audi S6  quattro C5   1	fuelCapacity	0.082
+Audi S6  quattro C6   1	fuelCapacity	0.08
+Ford Escort (Europe)  Ford Escort Mark I   1	fuelCapacity	0.04091481
+Ford Escort (Europe)  Ford Escort Mark II   1	fuelCapacity	0.04091481
+SEAT 133	fuelCapacity	0.03
+Triumph TR5	fuelCapacity	0.051
+Triumph TR4A	fuelCapacity	0.0534
+Alfa Romeo GT	fuelCapacity	0.063
+Bentley Continental R	fuelCapacity	0.10788423573
+Saleen S7	fuelCapacity	0.07192282382
+Jensen-Healey	fuelCapacity	0.05
+Renault 20/30	fuelCapacity	0.067
+Renault 6	fuelCapacity	0.032
+Renault 15/17	fuelCapacity	0.0545
+Lancia Thesis	fuelCapacity	0.075
+Renault 4CV	fuelCapacity	0.02727654
+Bristol Type 603	fuelCapacity	0.08182962
+Kia Picanto	fuelCapacity	0.035
+Fiat Barchetta	fuelCapacity	0.05
+Toyota Crown  Second Generation   1	fuelCapacity	0.048074729606
+Toyota Crown  Eight   1	fuelCapacity	0.049967435496
+Toyota Crown  Third Generation   1	fuelCapacity	0.049967435496
+Toyota Crown  Fourth Generation   1	fuelCapacity	0.06
+Honda HR-V	fuelCapacity	0.055
+Renault Caravelle	fuelCapacity	0.038641765
+Alfa Romeo 166	fuelCapacity	0.069
+Messerschmitt KR175	fuelCapacity	0.012
+Gilbern  Genie   1	fuelCapacity	0.06364526
+Gilbern  Invader   1	fuelCapacity	0.06364526
+Toyota Avanza	fuelCapacity	0.045
+Lancia Dedra	fuelCapacity	0.06
+BMW 507	fuelCapacity	0.11
+Lamborghini Islero	fuelCapacity	0.1045
+Honda S800	fuelCapacity	0.035
+Lamborghini 350GT	fuelCapacity	0.08
+Ford Fusion (Americas)	fuelCapacity	0.06624470615
+Mitsubishi i	fuelCapacity	0.035
+Lamborghini Jarama	fuelCapacity	0.1
+Lamborghini Silhouette	fuelCapacity	0.08
+Peugeot 304	fuelCapacity	0.042
+Mitsubishi Endeavor	fuelCapacity	0.081007812092
+Alfa Romeo Sprint	fuelCapacity	0.05
+Clan (car)	fuelCapacity	0.0275
+Hyundai Entourage	fuelCapacity	0.080629270914
+Infiniti G  20 P10   1	fuelCapacity	0.060188047302
+Infiniti G  35 V35   1	fuelCapacity	0.075
+Volvo C303	fuelCapacity	0.084
+Volvo C303  Volvo C304   1	fuelCapacity	0.084
+Volvo C303  Volvo C306   1	fuelCapacity	0.084
+Acura CSX	fuelCapacity	0.05
+MG Y-type	fuelCapacity	0.03636872
+Peugeot 604	fuelCapacity	0.070009786
+Subaru 1000  Subaru FF-1 1300G   1	fuelCapacity	0.03217600013
+Morgan +4	fuelCapacity	0.05455308
+Maserati Merak	fuelCapacity	0.085
+Maserati Khamsin	fuelCapacity	0.09
+GMC Acadia	fuelCapacity	0.08327905916
+Alfa Romeo Montreal	fuelCapacity	0.0625
+Matra Murena	fuelCapacity	0.053
+Cizeta-Moroder V16T	fuelCapacity	0.12
+Panther 6	fuelCapacity	0.1364
+Nissan NX	fuelCapacity	0.05
+Alfa Romeo Alfetta	fuelCapacity	0.049
+Chevrolet Tavera	fuelCapacity	0.055
+Isuzu Panther	fuelCapacity	0.055
+Lincoln MKX	fuelCapacity	0.07192282382
+Lincoln MKS	fuelCapacity	0.0757082356
+Suzuki XL7  First generation   1	fuelCapacity	0.063973459082
+Suzuki XL7  Second generation   1	fuelCapacity	0.070408659108
+Austin 3-Litre	fuelCapacity	0.065918305
+Mahindra Bolero Camper	fuelCapacity	0.057
+Moskvitch 408	fuelCapacity	0.046
+Moskvitch 412	fuelCapacity	0.046
+Moskvitch 402	fuelCapacity	0.035
+Fiat 132/Argenta	fuelCapacity	0.0545
+BMW 600	fuelCapacity	0.02
+Rolls-Royce Phantom V	fuelCapacity	0.10456007
+Rolls-Royce Phantom VI	fuelCapacity	0.105
+Lagonda 2.6-Litre	fuelCapacity	0.08637571
+Ford Model AA	fuelCapacity	0.03974682369
+Lamborghini 350GTV	fuelCapacity	0.09
+Saturn Relay	fuelCapacity	0.0946352945
+Pontiac G5	fuelCapacity	0.04921035314
+Morris Cowley    3	fuelCapacity	0.05455308
+Morris Eight    1	fuelCapacity	0.025003495
+Honda Life  Pick-Up   1	fuelCapacity	0.026
+Honda Life  Fourth generation   1	fuelCapacity	0.035
+Honda Life  Fifth generation   1	fuelCapacity	0.035
+Honda N360	fuelCapacity	0.027
+Triumph TR2	fuelCapacity	0.056826125
+Volkswagen Taro	fuelCapacity	0.056
+Mitsubishi Space Star	fuelCapacity	0.055
+Alfa Romeo 105/115 Series Coupés  1750 GT Veloce GTV   1	fuelCapacity	0.046
+Alfa Romeo 105/115 Series Coupés  2000 GT Veloce GTV   1	fuelCapacity	0.0523
+Alfa Romeo 105/115 Series Coupés  GT 1300 Junior   1	fuelCapacity	0.046
+Honda 1300	fuelCapacity	0.041
+Dodge Ram SRT-10	fuelCapacity	0.09842070628
+Tata Sierra	fuelCapacity	0.05
+Fiat 850	fuelCapacity	0.038641765
+Hudson Hornet  Second generation   1	fuelCapacity	0.0757082356
+Hudson Jet	fuelCapacity	0.06056658848
+Boss 302 Mustang  2012 Boss 302   1	fuelCapacity	0.06056658848
+TVR Cerbera	fuelCapacity	0.065
+Ford F-650	fuelCapacity	0.1703435301
+Mercedes-Benz 190SL	fuelCapacity	0.06435200026
+Alfa Romeo 33 Stradale	fuelCapacity	0.0947
+Renault Clio V6 Renault Sport	fuelCapacity	0.055
+Hindustan Contessa	fuelCapacity	0.065
+Lancia Kappa	fuelCapacity	0.07
+Lancia Lybra	fuelCapacity	0.06
+Lancia Gamma	fuelCapacity	0.062
+Ferrari 599 GTB Fiorano	fuelCapacity	0.104855906306
+Mitsubishi Model A	fuelCapacity	0.03
+Škoda Roomster	fuelCapacity	0.055
+Caparo T1	fuelCapacity	0.07
+Lotus Eleven  Westfield XI   1	fuelCapacity	0.018
+Chery V5	fuelCapacity	0.062
+Renault Clio Renault Sport	fuelCapacity	0.06
+Nissan 300C	fuelCapacity	0.072
+DAF 66	fuelCapacity	0.042
+Mastretta Unidiseño	fuelCapacity	0.04
+Chrysler 180	fuelCapacity	0.065
+Daimler Majestic Major	fuelCapacity	0.07273744
+Rambler Marlin  First generation   1	fuelCapacity	0.07192282382
+Rambler Marlin  Second generation   1	fuelCapacity	0.08138635327
+Mitsubishi Dignity	fuelCapacity	0.08
+Mitsubishi Proudia	fuelCapacity	0.08
+Fiat 500 (2007)	fuelCapacity	0.035
+Mercedes-Benz 260 D	fuelCapacity	0.038
+Tofaş Şahin	fuelCapacity	0.05
+Morris Commercial J4	fuelCapacity	0.036
+Chery QQ6	fuelCapacity	0.045
+Yamaha OX99-11	fuelCapacity	0.12
+Daimler DS420	fuelCapacity	0.091
+Mitsubishi eK	fuelCapacity	0.03
+Fiat 2300	fuelCapacity	0.070009786
+Toyota Probox	fuelCapacity	0.05
+Triumph Roadster	fuelCapacity	0.0454609
+Mitsubishi Dion	fuelCapacity	0.06
+Simca Vedette  Simca Versailles   1	fuelCapacity	0.06
+Simca Vedette  Simca Chambord   1	fuelCapacity	0.06
+Nissan S-Cargo	fuelCapacity	0.04
+Simca 1000	fuelCapacity	0.0365
+Simca 1300/1500	fuelCapacity	0.0545
+Matra Bagheera	fuelCapacity	0.060008388
+Callaway Cars  Callaway C16   1	fuelCapacity	0.054
+Ford Model A (1927–1931)	fuelCapacity	0.0378541178
+Matra Rancho	fuelCapacity	0.06
+Rover P3	fuelCapacity	0.05000699
+Ford Quadricycle	fuelCapacity	0.01324894123
+Mitsubishi Pistachio	fuelCapacity	0.03
+VAZ-2101	fuelCapacity	0.039
+VAZ-2103	fuelCapacity	0.039
+Mitsubishi Pajero iO	fuelCapacity	0.053
+Suzuki APV	fuelCapacity	0.043
+Tatra 700	fuelCapacity	0.04
+Holden VB Commodore	fuelCapacity	0.063
+Holden VC Commodore	fuelCapacity	0.063
+Simca Alvorada	fuelCapacity	0.06
+Simca Profissional	fuelCapacity	0.06
+Simca Esplanada	fuelCapacity	0.06
+Toyota Auris	fuelCapacity	0.046
+Fiat Linea	fuelCapacity	0.045
+DKW F102	fuelCapacity	0.0454609
+Mack Super-Liner	fuelCapacity	4.52
+Honda That's	fuelCapacity	0.031
+Bristol 406	fuelCapacity	0.0818
+Formula Palmer Audi	fuelCapacity	0.045
+Matra 530	fuelCapacity	0.0454609
+Morgan Plus 8	fuelCapacity	0.061372215
+Suzuki Carry  Maruti Omni   1	fuelCapacity	0.036
+Suzuki Carry  Maruti Versa   1	fuelCapacity	0.04
+Nissan Crew	fuelCapacity	0.070787200286
+Singer Bantam	fuelCapacity	0.03182263
+Volkswagen Golf Mk5	fuelCapacity	0.055
+Volkswagen Golf Mk1	fuelCapacity	0.045006291
+Wartburg 353	fuelCapacity	0.0441
+Bristol 407	fuelCapacity	0.0818
+Bristol 409	fuelCapacity	0.08182962
+AC Frua	fuelCapacity	0.082
+Scania SBA111	fuelCapacity	0.167
+Scania SBA111  Scania SBAT111S   1	fuelCapacity	0.167
+Bristol 411	fuelCapacity	0.082
+Jaguar Mark V	fuelCapacity	0.06819135
+Audi F103	fuelCapacity	0.053
+Suzuki MR Wagon  First generation   1	fuelCapacity	0.03
+Suzuki MR Wagon  Second generation   1	fuelCapacity	0.03
+Alfa Romeo 8C Competizione	fuelCapacity	0.088
+Alfa Romeo Giulietta (1977)	fuelCapacity	0.05
+Ford Focus (second generation, North America)	fuelCapacity	0.04921035314
+Triumph Mayflower	fuelCapacity	0.0454609
+Suzuki Alto Lapin	fuelCapacity	0.03
+Alfa Romeo MiTo	fuelCapacity	0.045
+Hafei Lobo	fuelCapacity	0.04
+Chery A5	fuelCapacity	0.052
+Perodua Rusa	fuelCapacity	0.047
+Rolls-Royce Phantom Drophead Coupé	fuelCapacity	0.08
+Koenigsegg CCXR	fuelCapacity	0.07
+Alfa Romeo Disco Volante	fuelCapacity	0.105
+DAF 55	fuelCapacity	0.038187156
+DAF 44	fuelCapacity	0.04
+DAF 46	fuelCapacity	0.04
+Perodua Viva	fuelCapacity	0.036
+Daihatsu Tanto	fuelCapacity	0.036
+Mastretta MXT	fuelCapacity	0.04
+ZIL-130	fuelCapacity	0.17
+Chevrolet Traverse	fuelCapacity	0.08327905916
+Toyota Verossa	fuelCapacity	0.07003011793
+Aston Martin Le Mans	fuelCapacity	0.08637571
+Morris Ten  Series III   1	fuelCapacity	0.03182263
+Morris Ten  Series M   1	fuelCapacity	0.03182263
+Komatsu 930E	fuelCapacity	5.299576492
+Škoda Octavia (1959–1971)	fuelCapacity	0.03
+Buick Super	fuelCapacity	0.06813741204
+SEAT 1500	fuelCapacity	0.06
+Dacia Sandero	fuelCapacity	0.05
+Toyota iQ	fuelCapacity	0.032
+Daihatsu Esse	fuelCapacity	0.036
+Honda CR-Z	fuelCapacity	0.04
+Daihatsu Opti  Mk 1   1	fuelCapacity	0.032
+Daihatsu Opti  Mk 2   1	fuelCapacity	0.04
+Daihatsu Leeza	fuelCapacity	0.032
+Toyota Premio	fuelCapacity	0.06
+Lancia Ardea	fuelCapacity	0.03
+DAF 33	fuelCapacity	0.032
+Hyundai i10	fuelCapacity	0.035
+Bugatti EB218	fuelCapacity	0.1
+Peugeot 301	fuelCapacity	0.047
+Volkswagen Amarok	fuelCapacity	0.08
+Lancia Epsilon	fuelCapacity	0.07
+Vauxhall Wyvern  LIX   1	fuelCapacity	0.04545
+Lancia Theta-35HP	fuelCapacity	0.08
+Hillman Super Minx	fuelCapacity	0.047733945
+Lancia Megagamma	fuelCapacity	0.059
+Mitsubishi Colt 1000  Mitsubishi Colt 1100   1	fuelCapacity	0.04
+Tata Nano	fuelCapacity	0.015
+Tata Winger	fuelCapacity	0.06
+Ford Granada (Europe)  Ford Granada Mark I   1	fuelCapacity	0.065009087
+Ford Granada (Europe)  Ford Granada Mark II   1	fuelCapacity	0.065
+Jaguar Mark VII	fuelCapacity	0.07728353
+AC 2-Litre	fuelCapacity	0.052280035
+BMW 501	fuelCapacity	0.07
+BMW 501  BMW 502   1	fuelCapacity	0.07
+Ford Mustang (fourth generation)	fuelCapacity	0.058295341412
+Ford Mustang (fifth generation)  2005–2009 Mustang   1	fuelCapacity	0.06056658848
+Ford Mustang (fifth generation)  2010 to present Mustang   1	fuelCapacity	0.06056658848
+Borgward P100	fuelCapacity	0.061
+Borgward Hansa 2400	fuelCapacity	0.05
+Goliath GP700	fuelCapacity	0.047
+NSU Spider	fuelCapacity	0.035
+Singer SM1500	fuelCapacity	0.0454609
+Napier-Campbell Blue Bird	fuelCapacity	0.06819135
+Ford Cougar (Europe)	fuelCapacity	0.06
+Toyota Curren	fuelCapacity	0.060188047302
+Lancia Delta-20/30HP	fuelCapacity	0.065
+GAZ-63	fuelCapacity	0.09
+Tata Xenon	fuelCapacity	0.065
+Alvis TA 21	fuelCapacity	0.065009087
+Sunbeam-Talbot 90	fuelCapacity	0.0454609
+Ferrari California	fuelCapacity	0.078
+Mercedes-Benz 500K	fuelCapacity	0.11
+SEAT Exeo	fuelCapacity	0.07
+Lada Priora	fuelCapacity	0.043
+Volkswagen Transporter (T5)	fuelCapacity	0.08
+Neoplan Skyliner	fuelCapacity	0.63
+Volkswagen Golf Mk6	fuelCapacity	0.055
+SEAT Altea XL/Freetrack	fuelCapacity	0.055
+Honda Civic (first generation)	fuelCapacity	0.0375
+Honda Civic (fourth generation)	fuelCapacity	0.045046400182
+Honda Civic (fifth generation)	fuelCapacity	0.045046400182
+Honda Civic (sixth generation)	fuelCapacity	0.045046400182
+Honda Civic (seventh generation)	fuelCapacity	0.049967435496
+Honda Civic (eighth generation)	fuelCapacity	0.05
+Honda Vigor    1	fuelCapacity	0.060188047302
+Rolls-Royce Phantom Coupé	fuelCapacity	0.1
+Škoda Yeti	fuelCapacity	0.06
+Pontiac Firebird (third generation)	fuelCapacity	0.05867388259
+Subaru Legacy (first generation)	fuelCapacity	0.060188047302
+Volga Siber	fuelCapacity	0.061
+BMW Z4 (E89)	fuelCapacity	0.055
+Mercedes-Benz Viano	fuelCapacity	0.075
+Armstrong Siddeley Lancaster	fuelCapacity	0.05455308
+Armstrong Siddeley Hurricane	fuelCapacity	0.05455308
+BMW 315	fuelCapacity	0.035
+BMW 315  /1   1	fuelCapacity	0.05
+Lincvolt	fuelCapacity	0.035204329554
+Subaru Legacy (fifth generation)	fuelCapacity	0.07003011793
+Mahindra Xylo	fuelCapacity	0.055
+TVR Vixen	fuelCapacity	0.068
+BYD F0	fuelCapacity	0.03
+NSU Typ 110	fuelCapacity	0.043
+SEAT Tango	fuelCapacity	0.045
+Morris 250 JU	fuelCapacity	0.0454609
+Toyota concept vehicles, 2000-2009  Toyota FCHV-adv   1	fuelCapacity	0.156
+Standard Flying Fourteen	fuelCapacity	0.0454609
+Allard P1	fuelCapacity	0.056826125
+Lanchester 10  1946–1951   1	fuelCapacity	0.03636872
+Daimler Consort	fuelCapacity	0.06364526
+Monteverdi Safari	fuelCapacity	0.082
+Tatra 30	fuelCapacity	0.045
+Toyota Verso	fuelCapacity	0.06
+Range Rover  ange Rover "Classic"   1	fuelCapacity	0.0865
+Cadillac Sedan de Ville  ighth generation   1	fuelCapacity	0.06813741204
+Cadillac Sedan de Ville  Ninth generation   1	fuelCapacity	0.06813741204
+Caterpillar 797B	fuelCapacity	3.78541178
+Infiniti QX  4   1	fuelCapacity	0.079872188558
+Mercedes-Benz 540K	fuelCapacity	0.11
+Audi A4 (B8)	fuelCapacity	0.065
+Chevrolet Agile	fuelCapacity	0.054
+Honda Accord (North America seventh generation)	fuelCapacity	0.064730541438
+Tobe M'car	fuelCapacity	0.035
+Tata Aria	fuelCapacity	0.06
+Maruti Eeco	fuelCapacity	0.04
+Bucyrus MT6300AC	fuelCapacity	4.921035314
+Komatsu 960E-1	fuelCapacity	5.299576492
+Terex 33-19 "Titan"	fuelCapacity	5.9052423768
+Koenigsegg Agera	fuelCapacity	0.068894494396
+Marussia Motors	fuelCapacity	0.08
+Caterpillar 797F	fuelCapacity	3.78541178
+Keating TKR	fuelCapacity	0.03
+Tata Hispano Globus	fuelCapacity	0.4
+Daihatsu Tanto Exe	fuelCapacity	0.036
+Mitsubishi Lancer (A70)	fuelCapacity	0.045
+Volkswagen Passat (B1)	fuelCapacity	0.046
+Volkswagen Passat (B3)	fuelCapacity	0.07
+Volkswagen Passat (B2)	fuelCapacity	0.06
+Volkswagen Passat (B4)	fuelCapacity	0.07
+Škoda Favorit	fuelCapacity	0.047
+Škoda Favorit  Škoda Forman   1	fuelCapacity	0.047
+Škoda Favorit  Škoda Pick-up   1	fuelCapacity	0.047
+Buick Rainier	fuelCapacity	0.08327905916
+Bond Bug	fuelCapacity	0.0227
+Mitsubishi Lancer WRC	fuelCapacity	0.09
+Tata Pixel	fuelCapacity	0.015

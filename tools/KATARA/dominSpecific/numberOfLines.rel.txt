@@ -1,0 +1,1301 @@
+London Underground	numberOfLines	11
+Massachusetts Bay Transportation Authority	numberOfLines	12
+Massachusetts Bay Transportation Authority	numberOfLines	4
+Massachusetts Bay Transportation Authority	numberOfLines	5
+Massachusetts Bay Transportation Authority	numberOfLines	4
+Massachusetts Bay Transportation Authority	numberOfLines	4
+Massachusetts Bay Transportation Authority	numberOfLines	183
+Toronto Transit Commission	numberOfLines	149
+Paris Métro	numberOfLines	16
+Bay Area Rapid Transit	numberOfLines	5
+Moscow Metro	numberOfLines	12
+SkyTrain (Vancouver)	numberOfLines	3
+MAX Light Rail	numberOfLines	4
+United States Capitol subway system	numberOfLines	3
+RER	numberOfLines	5
+Orient Express	numberOfLines	5
+Warsaw Metro	numberOfLines	1
+Madrid Metro	numberOfLines	13
+Madrid Metro  Madrid Light Metro   1	numberOfLines	3
+Gandhinagar  Metro   1	numberOfLines	4
+Kobe Municipal Subway	numberOfLines	2
+TriMet	numberOfLines	4
+TriMet	numberOfLines	1
+TriMet	numberOfLines	81
+TriMet	numberOfLines	1
+San Francisco Municipal Railway	numberOfLines	82
+Sandy Area Metro	numberOfLines	2
+CityRail	numberOfLines	16
+SEPTA	numberOfLines	196
+Hong Kong Tramways	numberOfLines	6
+Caltrain	numberOfLines	1
+Kowloon-Canton Railway	numberOfLines	4
+Metropolitan Atlanta Rapid Transit Authority	numberOfLines	4
+Metropolitan Atlanta Rapid Transit Authority	numberOfLines	132
+Gwinnett County Transit	numberOfLines	12
+Cobb Community Transit	numberOfLines	17
+List of Montreal Metro stations	numberOfLines	4
+Tren Urbano	numberOfLines	1
+New York City Subway	numberOfLines	24
+Dallas Area Rapid Transit	numberOfLines	113
+Dallas Area Rapid Transit	numberOfLines	18
+Dallas Area Rapid Transit	numberOfLines	4
+Dallas Area Rapid Transit	numberOfLines	1
+Seoul Metropolitan Subway	numberOfLines	15
+Port Authority Trans-Hudson	numberOfLines	4
+New Jersey Transit	numberOfLines	11
+New Jersey Transit	numberOfLines	3
+New Jersey Transit	numberOfLines	247
+New York City Transit Authority	numberOfLines	210
+New York City Transit Authority	numberOfLines	24
+Orange County Transportation Authority	numberOfLines	77
+Supertram (Sheffield)	numberOfLines	3
+Metropolitan Transit Authority of Harris County	numberOfLines	132
+Metropolitan Transit Authority of Harris County	numberOfLines	1
+Metropolitan Transit Authority of Harris County  METRORail   1	numberOfLines	1
+Kowloon Motor Bus	numberOfLines	399
+Bucharest Metro	numberOfLines	4
+GO Transit	numberOfLines	7
+Los Angeles County Metropolitan Transportation Authority	numberOfLines	2
+Los Angeles County Metropolitan Transportation Authority	numberOfLines	3
+Los Angeles County Metropolitan Transportation Authority	numberOfLines	2
+Los Angeles County Metropolitan Transportation Authority	numberOfLines	191
+Stockholm Metro	numberOfLines	3
+Stockholm Metro	numberOfLines	7
+Dublin Area Rapid Transit	numberOfLines	1
+Philippine National Railways	numberOfLines	2
+West Coast Express	numberOfLines	1
+Streetcars in New Orleans	numberOfLines	3
+Metropolitan Transportation Authority (New York)	numberOfLines	16
+Metropolitan Transportation Authority (New York)	numberOfLines	24
+Metropolitan Transportation Authority (New York)	numberOfLines	338
+Metropolitan Transportation Authority (New York)	numberOfLines	2
+Fort Worth Transportation Authority	numberOfLines	37
+Tokyo Metro	numberOfLines	9
+Tokyo Metropolitan Bureau of Transportation	numberOfLines	4
+Virginia Railway Express	numberOfLines	2
+Osaka Municipal Subway	numberOfLines	8
+Kyoto Municipal Subway	numberOfLines	2
+Chicago 'L'	numberOfLines	8
+Helsinki Metro	numberOfLines	2
+Mass Rapid Transit (Singapore)	numberOfLines	4
+Athens Metro	numberOfLines	2
+The Ghan	numberOfLines	1
+Greyhound Lines	numberOfLines	130
+Greyhound Lines	numberOfLines	1
+Metra	numberOfLines	11
+Brussels Metro	numberOfLines	7
+C-TRAN (Washington)	numberOfLines	27
+Glasgow Subway	numberOfLines	1
+Manhattan and Bronx Surface Transit Operating Authority	numberOfLines	76
+Tokyo Monorail	numberOfLines	1
+BTS Skytrain	numberOfLines	2
+Detroit People Mover	numberOfLines	1
+Tokyo subway	numberOfLines	13
+Prague Metro	numberOfLines	3
+MARC Train	numberOfLines	3
+TransMilenio	numberOfLines	9
+Berlin U-Bahn	numberOfLines	10
+Berlin S-Bahn	numberOfLines	15
+Barcelona Metro	numberOfLines	11
+Copenhagen Metro	numberOfLines	2
+Osaka Monorail	numberOfLines	2
+Greater Richmond Transit Company	numberOfLines	26
+Greater Richmond Transit Company	numberOfLines	12
+Long Island Bus	numberOfLines	48
+Ankara Metro	numberOfLines	2
+Silver Line (MBTA)	numberOfLines	4
+Miami-Dade Transit	numberOfLines	1
+Miami-Dade Transit	numberOfLines	3
+Miami-Dade Transit	numberOfLines	110
+Miami-Dade Transit  Metrobus   1	numberOfLines	110
+AC Transit	numberOfLines	171
+Toronto subway and RT	numberOfLines	4
+Metrolink (Southern California)	numberOfLines	7
+MRT (Bangkok)	numberOfLines	1
+Beijing Subway	numberOfLines	14
+Amsterdam Metro	numberOfLines	4
+Kiev Metro	numberOfLines	3
+Wasaga Beach, Ontario  Wasaga Beach Transit   1	numberOfLines	2
+Beovoz	numberOfLines	6
+OC Transpo	numberOfLines	248
+Metro Transit (Minnesota)	numberOfLines	127
+Metro Transit (Minnesota)	numberOfLines	1
+Metro Transit (Minnesota)	numberOfLines	1
+São Paulo Metro	numberOfLines	5
+São Paulo Metro	numberOfLines	5
+Cairo Metro	numberOfLines	2
+Luas	numberOfLines	2
+Mumbai Metro	numberOfLines	2
+MetroLink (St. Louis)	numberOfLines	2
+Tbilisi Metro	numberOfLines	2
+Santa Clara Valley Transportation Authority	numberOfLines	82
+Shanghai Metro	numberOfLines	11
+Buffalo Metro Rail	numberOfLines	1
+Calgary Transit	numberOfLines	170
+C-Train	numberOfLines	3
+C-Train	numberOfLines	1
+Unitrans	numberOfLines	14
+RTA Rapid Transit	numberOfLines	1
+RTA Rapid Transit	numberOfLines	2
+RTA Rapid Transit	numberOfLines	1
+OnTrack	numberOfLines	1
+Metrobus (South East England)	numberOfLines	42
+Metrobus (South East England)	numberOfLines	32
+Greater Cleveland Regional Transit Authority	numberOfLines	1
+Greater Cleveland Regional Transit Authority	numberOfLines	2
+Greater Cleveland Regional Transit Authority	numberOfLines	1
+Greater Cleveland Regional Transit Authority	numberOfLines	62
+Greater Cleveland Regional Transit Authority	numberOfLines	1
+Greater Cleveland Regional Transit Authority	numberOfLines	5
+TheBus (Honolulu)	numberOfLines	107
+Emery Go-Round	numberOfLines	3
+WestCAT	numberOfLines	14
+Union City Transit	numberOfLines	5
+County Connection	numberOfLines	29
+County Connection	numberOfLines	7
+County Connection	numberOfLines	25
+County Connection	numberOfLines	1
+Seville Metro	numberOfLines	1
+Sound Transit	numberOfLines	30
+Community Transit	numberOfLines	55
+Caracas Metro	numberOfLines	4
+Everett Transit	numberOfLines	18
+Mexico City Metro	numberOfLines	11
+Taipei Metro	numberOfLines	10
+Kaohsiung Mass Rapid Transit	numberOfLines	2
+S-train	numberOfLines	7
+Mass Rapid Transit System (Chennai)	numberOfLines	1
+Hillsborough Area Regional Transit	numberOfLines	49
+Hamilton Street Railway	numberOfLines	33
+Santiago Metro	numberOfLines	5
+Buenos Aires Metro	numberOfLines	6
+Vallejo Transit	numberOfLines	10
+WHEELS (California)	numberOfLines	17
+WHEELS (California)	numberOfLines	15
+King County Metro	numberOfLines	223
+Ottawa Rapid Transit	numberOfLines	9
+Ueno Zoo Monorail	numberOfLines	1
+Companhia Paulista de Trens Metropolitanos	numberOfLines	6
+Bee-Line Bus System	numberOfLines	61
+Chattanooga Area Regional Transportation Authority	numberOfLines	17
+Lynx (transportation)	numberOfLines	65
+UTA TRAX	numberOfLines	3
+London General	numberOfLines	63
+Reading Transport	numberOfLines	92
+Fung Wah Bus Transportation	numberOfLines	1
+York Region Transit	numberOfLines	94
+York Region Transit	numberOfLines	15
+Lisbon Metro	numberOfLines	4
+Pace (transit)	numberOfLines	213
+Vienna U-Bahn	numberOfLines	5
+Munich S-Bahn	numberOfLines	10
+Munich U-Bahn	numberOfLines	6
+Pyongyang Metro	numberOfLines	2
+Jacksonville Transportation Authority	numberOfLines	39
+Utah Transit Authority	numberOfLines	120
+Spokane Transit Authority	numberOfLines	38
+SamTrans	numberOfLines	55
+Schwebebahn Dresden	numberOfLines	1
+Wuppertal Schwebebahn	numberOfLines	1
+Lyon Metro	numberOfLines	4
+Kitakyūshū Monorail	numberOfLines	1
+Cincinnati Subway	numberOfLines	1
+Shenzhen Metro	numberOfLines	5
+Edmonton Transit System	numberOfLines	190
+Edmonton Transit System	numberOfLines	1
+Merseytram	numberOfLines	3
+Berlin tram	numberOfLines	22
+Rome Metro	numberOfLines	2
+Okinawa Monorail	numberOfLines	1
+Sounder commuter rail	numberOfLines	2
+Helsinki commuter rail	numberOfLines	4
+Muni Metro	numberOfLines	6
+Incheon Subway	numberOfLines	1
+Oslo Metro	numberOfLines	6
+Sofia Metro	numberOfLines	1
+Guangzhou Metro	numberOfLines	8
+MBTA Bus	numberOfLines	183
+MiWay	numberOfLines	58
+MiWay	numberOfLines	9
+MiWay	numberOfLines	34
+MiWay	numberOfLines	1
+Golden Gate Transit	numberOfLines	47
+RTC Transit	numberOfLines	67
+San Diego Trolley	numberOfLines	3
+Lima Metro	numberOfLines	1
+Milan Metro	numberOfLines	3
+Hedingham Omnibuses	numberOfLines	58
+Elektriraudtee	numberOfLines	6
+Network Colchester	numberOfLines	36
+Metro Bilbao	numberOfLines	2
+Poma 2000	numberOfLines	1
+Saint Petersburg Metro	numberOfLines	5
+Greater Dayton Regional Transit Authority	numberOfLines	29
+Light Rail Transit (Singapore)	numberOfLines	3
+Walt Disney World Monorail System	numberOfLines	3
+Hampton Roads Transit	numberOfLines	80
+Tianjin Metro	numberOfLines	1
+Toronto Transit Commission buses	numberOfLines	149
+Toronto streetcar system	numberOfLines	11
+Toronto Zoo Domain Ride	numberOfLines	1
+Budapest Metro	numberOfLines	3
+Hamburg U-Bahn	numberOfLines	3
+Milton Transit	numberOfLines	11
+Société de transport de Montréal	numberOfLines	197
+Société de transport de Montréal	numberOfLines	5
+HÉV	numberOfLines	4
+Morgantown Personal Rapid Transit	numberOfLines	1
+Porto Metro	numberOfLines	6
+O-Train	numberOfLines	1
+Monterrey Metro	numberOfLines	2
+Fairfax Connector	numberOfLines	67
+List of Monterrey metro stations	numberOfLines	2
+Metro Rail (Los Angeles County)	numberOfLines	5
+Shonan Monorail	numberOfLines	1
+Meigs Elevated Railway	numberOfLines	1
+Coast Mountain Bus Company	numberOfLines	195
+Guelph Transit	numberOfLines	18
+Serveis Ferroviaris de Mallorca	numberOfLines	3
+The Deuce	numberOfLines	103
+Sacramento Regional Transit District	numberOfLines	65
+Sacramento Regional Transit District	numberOfLines	2
+Réseau de transport de la Capitale	numberOfLines	110
+Mont-Tremblant public transit	numberOfLines	2
+SMRT Buses	numberOfLines	98
+Shanghai Maglev Train	numberOfLines	1
+Leeds Supertram	numberOfLines	3
+Big Blue Bus	numberOfLines	18
+Dubai Metro	numberOfLines	1
+Dubai Metro	numberOfLines	1
+Dubai Metro	numberOfLines	3
+Kolkata Metro	numberOfLines	1
+Urban Ring Project (MBTA)	numberOfLines	1
+Travel London	numberOfLines	36
+Manchester Transit Authority	numberOfLines	11
+Société de transport de Laval	numberOfLines	43
+Wiener Linien	numberOfLines	43
+Port Authority of Allegheny County	numberOfLines	184
+Memphis Area Transit Authority	numberOfLines	42
+Milwaukee County Transit System	numberOfLines	50
+Wuhan Metro	numberOfLines	1
+West Vancouver Blue Bus	numberOfLines	11
+ABQ RIDE	numberOfLines	41
+Charlotte Area Transit System	numberOfLines	50
+Tehran Metro	numberOfLines	4
+Capital District Transportation Authority	numberOfLines	59
+Réseau de transport de Longueuil	numberOfLines	77
+Rennes Metro	numberOfLines	1
+Arriva London	numberOfLines	113
+Arriva London	numberOfLines	112
+Blue Triangle	numberOfLines	9
+Blue Triangle	numberOfLines	10
+Blue Triangle	numberOfLines	11
+Blue Triangle	numberOfLines	2
+Arriva Shires & Essex	numberOfLines	45
+Sullivan Buses	numberOfLines	21
+Metroline	numberOfLines	0
+Ealing Community Transport	numberOfLines	1
+First London	numberOfLines	83
+First London	numberOfLines	84
+First London	numberOfLines	85
+First London	numberOfLines	90
+Arriva Southern Counties	numberOfLines	16
+Arriva Southern Counties	numberOfLines	99
+First Essex	numberOfLines	80
+London Central	numberOfLines	49
+East Thames Buses	numberOfLines	11
+Lakeland Bus Lines	numberOfLines	5
+PABCO Transit, Inc	numberOfLines	7
+Rio de Janeiro Metro	numberOfLines	3
+Daejeon Subway Line 1	numberOfLines	1
+Gwangju Subway Line 1	numberOfLines	1
+Strætó bs	numberOfLines	28
+Transit Authority of River City	numberOfLines	51
+Pune Mahanagar Parivahan Mahamandal Limited	numberOfLines	282
+Interurban Transit Partnership	numberOfLines	24
+Clemson Area Transit	numberOfLines	7
+Tranz Metro	numberOfLines	5
+London Transit	numberOfLines	35
+London Transit	numberOfLines	3
+Los Angeles Department of Transportation	numberOfLines	36
+Namma Metro	numberOfLines	2
+Fukuoka City Subway	numberOfLines	3
+Helsinki tram	numberOfLines	12
+Oslo Tramway	numberOfLines	6
+Multi-Modal Transport System (Hyderabad)	numberOfLines	3
+Guadalajara light rail system	numberOfLines	2
+EasyBus	numberOfLines	3
+Daegu Metropolitan Subway	numberOfLines	2
+El Sol (bus line)	numberOfLines	3
+Chiba Urban Monorail	numberOfLines	2
+CUE Bus	numberOfLines	2
+South Metro Area Regional Transit	numberOfLines	7
+Greater Lafayette Public Transportation Corporation	numberOfLines	24
+Metro Transit (Halifax)	numberOfLines	59
+Greater Attleboro Taunton Regional Transit Authority	numberOfLines	16
+Ventura Bus Lines	numberOfLines	32
+Saitama Rapid Railway Line	numberOfLines	1
+South Clackamas Transportation District	numberOfLines	3
+Regina Transit	numberOfLines	19
+Kitsap Transit	numberOfLines	47
+Wisconsin Coach Lines	numberOfLines	8
+Zagrebački električni tramvaj	numberOfLines	19
+Zagrebački električni tramvaj	numberOfLines	1
+Viva (bus rapid transit)	numberOfLines	5
+Rockland Coaches	numberOfLines	12
+Rockland Coaches	numberOfLines	10
+National Bus Company	numberOfLines	41
+Sentosa Express	numberOfLines	1
+Nockebybanan	numberOfLines	1
+Stockholm Commuter Rail	numberOfLines	3
+Thessaloniki Metro	numberOfLines	1
+Thessaloniki Metro	numberOfLines	3
+Thessaloniki Metro	numberOfLines	3
+Gothenburg commuter rail	numberOfLines	2
+Grenda	numberOfLines	24
+Dyson's Bus Services	numberOfLines	21
+Driver Group	numberOfLines	5
+Regional Transportation District	numberOfLines	174
+Metro Transit (Oklahoma City)	numberOfLines	28
+Nu-Venture	numberOfLines	52
+Bi-State Development Agency	numberOfLines	2
+Bi-State Development Agency	numberOfLines	75
+Fresno Area Express	numberOfLines	20
+Fayetteville Area System of Transit	numberOfLines	13
+Brasília Metro	numberOfLines	2
+Green Bay Metro	numberOfLines	13
+Catania Metro	numberOfLines	1
+Westrans	numberOfLines	35
+Novosibirsk Metro	numberOfLines	2
+TransJakarta	numberOfLines	10
+Los Teques Metro	numberOfLines	1
+Los Angeles Railway	numberOfLines	20
+Baltimore Light Rail	numberOfLines	3
+VIA Metropolitan Transit	numberOfLines	91
+Lothian Buses	numberOfLines	50
+Capital Area Transit (Harrisburg)	numberOfLines	35
+Detroit Department of Transportation	numberOfLines	38
+Metrobus Transit	numberOfLines	18
+Niagara Falls Transit	numberOfLines	10
+Niagara Falls Transit	numberOfLines	5
+Chennai Metro	numberOfLines	5
+Rhode Island Public Transit Authority	numberOfLines	62
+Kharkiv Metro	numberOfLines	3
+Samara Metro	numberOfLines	1
+First Glasgow	numberOfLines	118
+Monterey-Salinas Transit	numberOfLines	58
+Veolia (New Zealand)	numberOfLines	4
+Winnipeg Transit	numberOfLines	88
+Victoria Regional Transit System	numberOfLines	55
+Capital Area Transportation Authority	numberOfLines	33
+Frankfurt U-Bahn	numberOfLines	9
+Kazan Metro	numberOfLines	1
+Metrobus (Washington, D.C.)	numberOfLines	319
+Chongqing Rail Transit	numberOfLines	1
+Uni-link	numberOfLines	4
+Capital Metropolitan Transportation Authority	numberOfLines	49
+Transit Windsor	numberOfLines	14
+Rhine-Ruhr S-Bahn	numberOfLines	13
+Sargeants of Kington	numberOfLines	461
+Music City Star	numberOfLines	1
+Turin Metro	numberOfLines	1
+Nuremberg U-Bahn	numberOfLines	3
+Medellín Metro	numberOfLines	2
+Fredericton Transit	numberOfLines	8
+Masivo Integrado de Occidente	numberOfLines	6
+Sendai Subway	numberOfLines	1
+Tramways in Paris	numberOfLines	4
+Minsk Metro	numberOfLines	2
+Dnipropetrovsk Metro	numberOfLines	1
+Yerevan Metro	numberOfLines	1
+Wilfreda Beehive	numberOfLines	20
+Link Light Rail	numberOfLines	2
+Link Light Rail	numberOfLines	1
+Link Light Rail	numberOfLines	3
+Las Colinas APT System	numberOfLines	2
+Uno (bus company)	numberOfLines	42
+NSL Buses	numberOfLines	7
+Ferrocarril Suburbano de la Zona Metropolitana del Valle de México	numberOfLines	1
+Sun Tran	numberOfLines	38
+Cercanías Málaga	numberOfLines	2
+DART First State	numberOfLines	66
+Baku Metro	numberOfLines	2
+Nottingham City Transport	numberOfLines	81
+Binhai Mass Transit	numberOfLines	1
+Bremen S-Bahn	numberOfLines	4
+TER Haute-Normandie	numberOfLines	25
+Twisto	numberOfLines	25
+Twisto	numberOfLines	2
+Bus Verts du Calvados	numberOfLines	45
+Dublin Metro	numberOfLines	2
+Melbourne Bus Link	numberOfLines	10
+Sita Buslines	numberOfLines	16
+C-TRAN (Georgia)	numberOfLines	8
+Streetcars in Kenosha, Wisconsin	numberOfLines	1
+Rotterdam Metro	numberOfLines	5
+Yekaterinburg Metro	numberOfLines	1
+Howard Transit	numberOfLines	10
+Red Rose Transit Authority	numberOfLines	16
+Ride On (bus)	numberOfLines	80
+Lehigh and Northampton Transportation Authority	numberOfLines	24
+Lehigh and Northampton Transportation Authority	numberOfLines	7
+Lehigh and Northampton Transportation Authority	numberOfLines	4
+Nanjing Metro	numberOfLines	2
+Busan Subway	numberOfLines	4
+Lethbridge Transit	numberOfLines	13
+DASH (bus)	numberOfLines	9
+Saskatchewan Transportation Company	numberOfLines	29
+Hong Kong International Airport Automated People Mover	numberOfLines	2
+Docklands Buses	numberOfLines	6
+Potomac and Rappahannock Transportation Commission	numberOfLines	13
+TheBus (Prince George's County)	numberOfLines	25
+Moscow Monorail	numberOfLines	1
+Bordeaux tramway	numberOfLines	3
+Ho Chi Minh City Metro	numberOfLines	2
+Sound Transit Express	numberOfLines	25
+San Diego Transit	numberOfLines	89
+Kansas City Area Transportation Authority	numberOfLines	61
+Kansas City Area Transportation Authority	numberOfLines	8
+Kansas City Area Transportation Authority	numberOfLines	2
+Regal Busways	numberOfLines	30
+Imperial Buses	numberOfLines	7
+Lille Metro	numberOfLines	2
+Centrebus Harlow	numberOfLines	13
+Stansted Transit	numberOfLines	22
+Santa Fe Trails	numberOfLines	8
+Thunder Bay Transit	numberOfLines	17
+Quality Line	numberOfLines	8
+Quality Line	numberOfLines	5
+Barrie Transit	numberOfLines	20
+Plymouth Citybus	numberOfLines	41
+Emsworth & District	numberOfLines	18
+London Overground	numberOfLines	5
+Bursaray	numberOfLines	2
+Edmonton Light Rail Transit	numberOfLines	1
+Eastbourne Buses	numberOfLines	10
+Grenoble tramway	numberOfLines	4
+Birmingham-Jefferson County Transit Authority	numberOfLines	31
+Yorkshire Terrier (bus company)	numberOfLines	30
+Rouen tramway	numberOfLines	2
+Nantes Tramway	numberOfLines	3
+Nizhny Novgorod Metro	numberOfLines	2
+First Cymru	numberOfLines	154
+Funiculaire du Havre	numberOfLines	1
+Trams in Lviv	numberOfLines	9
+Yokohama Municipal Subway	numberOfLines	2
+First Eastern Counties	numberOfLines	43
+Valenciennes tramway	numberOfLines	1
+Dales & District	numberOfLines	33
+Gary Public Transportation Corporation	numberOfLines	13
+The Original Tour	numberOfLines	7
+Metrovalencia	numberOfLines	5
+FlyAway Bus	numberOfLines	4
+Cologne Stadtbahn	numberOfLines	11
+Caen Guided Light Transit	numberOfLines	2
+Capital Area Transit (Raleigh)	numberOfLines	43
+Nice tramway	numberOfLines	1
+JP Travel	numberOfLines	37
+Broome County Transit	numberOfLines	18
+Housatonic Area Regional Transit	numberOfLines	15
+City of Poughkeepsie Transit	numberOfLines	5
+Allegany County Transit	numberOfLines	7
+Putnam Transit	numberOfLines	4
+Dutchess County LOOP	numberOfLines	9
+Prague tram system	numberOfLines	33
+Erie Metropolitan Transit Authority	numberOfLines	24
+Suffolk County Transit	numberOfLines	53
+New Jersey Transit Bus Operations	numberOfLines	267
+Brownsville Urban System	numberOfLines	15
+Island Transit (Washington)	numberOfLines	21
+Island Transit (Washington)	numberOfLines	38
+Island Transit (Washington)	numberOfLines	90
+Petersburg Area Transit	numberOfLines	12
+Maracaibo Metro	numberOfLines	1
+Sentosa Monorail	numberOfLines	1
+Suburban Mobility Authority for Regional Transportation	numberOfLines	48
+Denton County Transportation Authority	numberOfLines	9
+İstanbul Metro	numberOfLines	1
+İstanbul Metro	numberOfLines	1
+Centre Area Transportation Authority	numberOfLines	18
+Centre Area Transportation Authority	numberOfLines	4
+Arriva Southend	numberOfLines	20
+Arlington Transit	numberOfLines	13
+West London Tram	numberOfLines	1
+Wheels (New Jersey Transit)	numberOfLines	3
+Marseille tramway	numberOfLines	2
+City of Santa Clarita Transit	numberOfLines	20
+Omnitrans	numberOfLines	34
+NIBS (bus company)	numberOfLines	33
+Selkent	numberOfLines	38
+East London (bus company)	numberOfLines	59
+East London (bus company)	numberOfLines	55
+London United Busways	numberOfLines	80
+Palm Tran	numberOfLines	35
+Nuremberg S-Bahn	numberOfLines	4
+Metrorail Western Cape	numberOfLines	4
+Springfield Mass Transit District	numberOfLines	12
+Metro Transit (Kalamazoo)	numberOfLines	21
+Long Beach Transit	numberOfLines	34
+GHA Coaches	numberOfLines	70
+Countryliner	numberOfLines	72
+Dorfbahn Serfaus	numberOfLines	1
+Genoa Metro	numberOfLines	1
+Marseille Metro	numberOfLines	2
+Toulouse Metro	numberOfLines	2
+Ftrmetro Swansea	numberOfLines	1
+Broadmeadows Bus Service	numberOfLines	8
+Cranbourne Transit	numberOfLines	13
+East West Bus Company	numberOfLines	5
+Cardinia Transit	numberOfLines	12
+Ivanhoe Bus Company	numberOfLines	6
+Eastrans	numberOfLines	3
+Invicta Bus Services	numberOfLines	16
+McKenzie's Tourist Services	numberOfLines	4
+Moorabbin Transit	numberOfLines	12
+Panorama Coaches	numberOfLines	4
+Portsea Passenger Service	numberOfLines	4
+Ryan Brothers Bus Service	numberOfLines	3
+Sunbury Bus Service	numberOfLines	7
+Kastoria Bus Lines	numberOfLines	3
+Megabús	numberOfLines	3
+San Diego Metropolitan Transit System	numberOfLines	3
+San Diego Metropolitan Transit System	numberOfLines	89
+Société de Transport Interurbains du Val d'Oise	numberOfLines	18
+Bus Azur	numberOfLines	21
+Intercity Transit	numberOfLines	23
+Benicia Breeze	numberOfLines	6
+First Devon & Cornwall	numberOfLines	93
+Memphis Suspension Railway	numberOfLines	1
+Macau Light Rail Transit	numberOfLines	2
+Montreal Metro	numberOfLines	4
+Santo Domingo Metro	numberOfLines	1
+Nagoya Municipal Subway	numberOfLines	7
+Skagit Transit	numberOfLines	15
+Clallam Transit	numberOfLines	12
+Valley Transit	numberOfLines	16
+Blue Bus of Penwortham	numberOfLines	6
+Ipswich Buses	numberOfLines	47
+Pinellas Suncoast Transit Authority	numberOfLines	37
+Huntsville Shuttle Bus	numberOfLines	12
+Huntsville Shuttle Bus	numberOfLines	1
+Chennai Suburban Railway	numberOfLines	6
+Saint-Étienne tramway	numberOfLines	2
+The Jule	numberOfLines	4
+RTD Bus & Light Rail  RTD Light Rail   1	numberOfLines	5
+Bear Transit	numberOfLines	5
+Bear Transit	numberOfLines	5
+Nashville Metropolitan Transit Authority	numberOfLines	43
+Lynx Rapid Transit Services	numberOfLines	1
+Trondheim Tramway	numberOfLines	1
+StarTran	numberOfLines	14
+Trøndelag Commuter Rail	numberOfLines	2
+Saskatoon Transit	numberOfLines	23
+Lausanne Metro	numberOfLines	2
+Tashkent Metro	numberOfLines	3
+Valparaíso Metro	numberOfLines	1
+Trolleybuses in Drammen	numberOfLines	3
+Trolleybuses in Oslo	numberOfLines	4
+Trolleybuses in Stavanger	numberOfLines	2
+Bergen Light Rail	numberOfLines	1
+List of New Jersey Transit bus routes (600–699)	numberOfLines	14
+Norwalk Transit (California)	numberOfLines	7
+Bonn Stadtbahn	numberOfLines	4
+Antelope Valley Transit Authority	numberOfLines	14
+Cape Ann Transportation Authority	numberOfLines	7
+A&C Bus Corporation	numberOfLines	5
+SEPTA City Transit Division surface routes	numberOfLines	79
+SEPTA Suburban Division bus routes	numberOfLines	48
+Peterborough Transit	numberOfLines	12
+Arriva Guildford & West Surrey	numberOfLines	33
+Wolfline	numberOfLines	13
+SuperLoop	numberOfLines	2
+London Easylink	numberOfLines	2
+Disney Resort Line	numberOfLines	1
+Tullamarine Bus Lines	numberOfLines	8
+Kawasaki Municipal Subway	numberOfLines	1
+Schuylkill Transportation System	numberOfLines	17
+Sarasota County Area Transit	numberOfLines	24
+Gold Coast Transit	numberOfLines	17
+Hyderabad Metro	numberOfLines	3
+Pune Bus Rapid Transit	numberOfLines	2
+Transmetro	numberOfLines	2
+Taichung Metropolitan Area MRT System	numberOfLines	3
+Torrance Transit	numberOfLines	8
+Belleville Transit	numberOfLines	8
+Chengdu Metro	numberOfLines	1
+Valencia Metro (Venezuela)	numberOfLines	1
+MetroLink (Halifax)	numberOfLines	3
+San Juan-Caguas Rail	numberOfLines	1
+Indianapolis Public Transportation Corporation	numberOfLines	28
+Kootenay Boundary Transit System	numberOfLines	9
+Rapid transit in the People's Republic of China	numberOfLines	1
+Rapid transit in the People's Republic of China  Changsha Metro   1	numberOfLines	2
+Rapid transit in the People's Republic of China  Fuzhou Metro   1	numberOfLines	2
+Rapid transit in the People's Republic of China  Dongguan Metro   1	numberOfLines	1
+Rapid transit in the People's Republic of China  Wuxi Metro   1	numberOfLines	1
+Rapid transit in the People's Republic of China  Ürümqi Light Rail Transit   1	numberOfLines	3
+Rapid transit in the People's Republic of China  Guiyang Urban Rail Transit   1	numberOfLines	2
+National Motor Museum Monorail	numberOfLines	1
+Maple Grove Transit	numberOfLines	8
+BlueXpress	numberOfLines	3
+Connecticut Transit Hartford	numberOfLines	43
+Connecticut Transit Hartford	numberOfLines	5
+Connecticut Transit Hartford	numberOfLines	12
+Connecticut Transit New Haven	numberOfLines	21
+Connecticut Transit New Haven	numberOfLines	1
+Connecticut Transit New Haven	numberOfLines	2
+Connecticut Transit Stamford	numberOfLines	14
+Connecticut Transit Stamford	numberOfLines	4
+Connecticut Transit Stamford	numberOfLines	1
+Los Angeles Metropolitan Transit Authority	numberOfLines	10
+Kingston Transit	numberOfLines	17
+Whittier Transit	numberOfLines	2
+Jurong Bird Park Panorail	numberOfLines	1
+Pyongyang tram system	numberOfLines	4
+Narita Airport Terminal 2 Shuttle System	numberOfLines	1
+Emsland test facility	numberOfLines	1
+Opicina Tramway	numberOfLines	1
+Wing Shuttle	numberOfLines	2
+Palma de Mallorca Metro	numberOfLines	1
+Modesto Area Express	numberOfLines	21
+Manila MRT Red Line	numberOfLines	1
+Southdown PSV	numberOfLines	21
+CP Urban Services	numberOfLines	4
+CP Urban Services	numberOfLines	5
+Public transport in Dunedin	numberOfLines	18
+Public transport in Dunedin	numberOfLines	12
+RapidKL Light Rail Transit	numberOfLines	3
+Strasbourg tramway	numberOfLines	6
+Lyon tramway	numberOfLines	4
+Johnson County Transit	numberOfLines	22
+Riverside Transit Agency	numberOfLines	44
+Kings Transit	numberOfLines	4
+Thessaloniki Urban Transport Organization	numberOfLines	75
+Fairfield and Suisun Transit	numberOfLines	15
+Shenyang Metro	numberOfLines	1
+Broward County Transit	numberOfLines	44
+TransIT	numberOfLines	14
+Redwood Transit System	numberOfLines	2
+Eureka Transit Service	numberOfLines	5
+Santa Rosa CityBus	numberOfLines	18
+Lake Transit	numberOfLines	8
+Cuckmere Community Bus	numberOfLines	19
+American Canyon Transit	numberOfLines	1
+Twin Transit	numberOfLines	4
+Marin Transit	numberOfLines	27
+Arcata and Mad River Transit System	numberOfLines	3
+Volusia County Public Transit System	numberOfLines	28
+Cities Area Transit	numberOfLines	14
+MTA Maryland bus service	numberOfLines	77
+Reservoir Bus Company	numberOfLines	11
+Changchun Light Rail Transit	numberOfLines	1
+Volgograd Metrotram	numberOfLines	1
+Swift Bus Rapid Transit	numberOfLines	1
+Whitehorse Transit	numberOfLines	6
+Saint John Transit	numberOfLines	24
+Saint John Transit	numberOfLines	4
+Hampton Jitney	numberOfLines	6
+Hampton Jitney	numberOfLines	9
+Tillamook County Transportation District	numberOfLines	5
+Genting Monorail	numberOfLines	1
+Las Vegas Transit	numberOfLines	16
+Bangkok Mass Transit Authority	numberOfLines	118
+Algiers Metro	numberOfLines	3
+Transit Authority of Northern Kentucky	numberOfLines	27
+Coast RTA	numberOfLines	12
+Shiraz Metro	numberOfLines	3
+V-Line (bus)	numberOfLines	5
+Olympia Trails	numberOfLines	11
+Olympia Trails	numberOfLines	3
+Halifax Joint Committee	numberOfLines	8
+CK Transit	numberOfLines	4
+Lahore Metro	numberOfLines	4
+Stagecoach in South Wales	numberOfLines	101
+Sochi Light Metro	numberOfLines	3
+Blacksburg Transit	numberOfLines	30
+İzmir Metro	numberOfLines	1
+Suburban Trails	numberOfLines	5
+Suburban Trails	numberOfLines	3
+Community Coach	numberOfLines	3
+Community Coach	numberOfLines	20
+Shoreline Metro	numberOfLines	10
+Empresa Metropolitana de Transportes Urbanos de São Paulo	numberOfLines	931
+Madison County Transit	numberOfLines	25
+Madison County Transit	numberOfLines	10
+Charlottetown Transit	numberOfLines	7
+Transit Cape Breton	numberOfLines	10
+Boro'line (London)	numberOfLines	9
+Toei Bus	numberOfLines	138
+Capital Citybus	numberOfLines	43
+Ensignbus	numberOfLines	13
+Sunway Monorail	numberOfLines	1
+Sunway Monorail	numberOfLines	1
+Gastonia Transit	numberOfLines	9
+Ljubljana Passenger Transport	numberOfLines	23
+Porto Alegre Metro	numberOfLines	1
+Capital Logistics	numberOfLines	4
+Granby public transit	numberOfLines	3
+Belo Horizonte Metro	numberOfLines	1
+Recife Metro	numberOfLines	2
+Teresina Metro	numberOfLines	1
+CIT du Sud-Ouest	numberOfLines	14
+Huntington Area Rapid Transit	numberOfLines	6
+Reims tramway	numberOfLines	2
+Trans-Bridge Lines	numberOfLines	3
+Trans-Bridge Lines	numberOfLines	2
+Cornwall Transit	numberOfLines	6
+Transperth Trains	numberOfLines	6
+DeCamp Bus Lines	numberOfLines	6
+Greater Bridgeport Transit Authority	numberOfLines	19
+Velvet (bus company)	numberOfLines	9
+St. Catharines Transit	numberOfLines	22
+MATA Trolley	numberOfLines	3
+Bergen Tramway	numberOfLines	5
+Montachusett Regional Transit Authority	numberOfLines	15
+Tuscaloosa Transit Authority	numberOfLines	5
+Métro léger de Tunis	numberOfLines	6
+Brantford Transit	numberOfLines	9
+Istanbul LRT	numberOfLines	2
+Metrobus (Istanbul)	numberOfLines	1
+Montpellier tramway	numberOfLines	2
+Athens Transit	numberOfLines	18
+UGA Campus Transit	numberOfLines	9
+UGA Campus Transit	numberOfLines	3
+UGA Campus Transit	numberOfLines	1
+UGA Campus Transit	numberOfLines	2
+UGA Campus Transit	numberOfLines	1
+Brijan Tours	numberOfLines	3
+Rogue Valley Transportation District	numberOfLines	8
+CyRide	numberOfLines	12
+Dalian Metro	numberOfLines	1
+E-tran	numberOfLines	20
+South Gloucestershire Bus & Coach	numberOfLines	3
+Metrovia	numberOfLines	2
+Cotswold Green	numberOfLines	30
+SuperVia	numberOfLines	7
+Nantes Busway	numberOfLines	1
+Grey-Green	numberOfLines	20
+Welland Transit	numberOfLines	8
+Welland Transit	numberOfLines	2
+Welland Transit	numberOfLines	2
+Town of Fort Erie Transit System	numberOfLines	1
+Owen Sound Transit	numberOfLines	4
+Sarnia Transit	numberOfLines	12
+Mumbai Monorail	numberOfLines	2
+Mumbai Monorail	numberOfLines	6
+Metro Tunneling Group	numberOfLines	3
+Jonesboro Economical Transit	numberOfLines	4
+BoltBus	numberOfLines	5
+Short Line (bus company)	numberOfLines	29
+Oslo Commuter Rail	numberOfLines	8
+Orillia Transit	numberOfLines	4
+Orillia Transit	numberOfLines	1
+Bergen Commuter Rail	numberOfLines	2
+Brescia Metrobus	numberOfLines	1
+Autoridad Metropolitana de Autobuses	numberOfLines	30
+Norfolk Green	numberOfLines	31
+Konectbus	numberOfLines	27
+Anglian Bus	numberOfLines	28
+Woodstock Transit	numberOfLines	6
+Chennai BRTS	numberOfLines	1
+Kochi Metro	numberOfLines	1
+Brockville Transit	numberOfLines	3
+Jakarta Mass Rapid Transit	numberOfLines	2
+First Berkshire & The Thames Valley	numberOfLines	36
+Yolobus	numberOfLines	24
+Deane's Buslines	numberOfLines	11
+Darwinbus	numberOfLines	24
+Busabout Wagga Wagga	numberOfLines	6
+Busabout Wagga Wagga	numberOfLines	48
+Aircoach	numberOfLines	5
+North Bay Transit	numberOfLines	11
+St. Thomas Transit	numberOfLines	4
+Lowell Regional Transit Authority	numberOfLines	18
+Glasgow Citybus	numberOfLines	7
+Thompson Transit	numberOfLines	2
+Atlantic City Jitney Association	numberOfLines	8
+Brockton Area Transit Authority	numberOfLines	14
+Merrimack Valley Regional Transit Authority	numberOfLines	20
+Midland Transit Service	numberOfLines	2
+Centrebus Holdings	numberOfLines	51
+Córdoba Metro	numberOfLines	2
+A2Z Travel	numberOfLines	27
+Société de transport de Trois-Rivières	numberOfLines	12
+Thames Travel	numberOfLines	20
+Société de transport de Sherbrooke	numberOfLines	33
+MAX (UTA)	numberOfLines	1
+Red Deer Transit	numberOfLines	15
+Stratford Transit	numberOfLines	6
+Peninsula Bus Lines	numberOfLines	18
+Brandon Transit	numberOfLines	10
+Trolleybuses in Arnhem	numberOfLines	5
+Portage Area Regional Transportation Authority	numberOfLines	6
+Indiana County Transit Authority	numberOfLines	15
+Colltrans	numberOfLines	3
+Codiac Transit	numberOfLines	22
+Stagecoach in The Fens	numberOfLines	5
+Stephensons of Essex	numberOfLines	72
+Metro Area Transit	numberOfLines	34
+Select Bus Service	numberOfLines	2
+Dunn-Line	numberOfLines	31
+Moreland Buslines	numberOfLines	2
+Martyrs Bus Service	numberOfLines	1
+US Bus Lines	numberOfLines	6
+Düsseldorf Stadtbahn	numberOfLines	7
+Roam (public transit)	numberOfLines	3
+Roam (public transit)	numberOfLines	2
+MetroMoves	numberOfLines	7
+Stansted Airport Transit System	numberOfLines	1
+Elliot Lake Transit	numberOfLines	4
+Lindsay Transit	numberOfLines	3
+Port Hope Transit	numberOfLines	3
+Cobourg Transit	numberOfLines	2
+Huntsville Transit	numberOfLines	1
+Kenora Transit	numberOfLines	3
+Turku tram	numberOfLines	4
+Bogotá Metro	numberOfLines	1
+Drummondville Transit	numberOfLines	5
+CIT Sorel-Varennes	numberOfLines	8
+Pune Metro	numberOfLines	4
+Fort McMurray Transit	numberOfLines	10
+Airdrie Transit	numberOfLines	5
+Lille tramway	numberOfLines	2
+Suzhou Subway	numberOfLines	0
+Palm Jumeirah Monorail	numberOfLines	1
+Pasig River Ferry Service	numberOfLines	2
+RoadRUNNER Transit	numberOfLines	9
+Megabus (North America)	numberOfLines	13
+Pasadena Area Rapid Transit System	numberOfLines	8
+Happy Line	numberOfLines	1
+Window of the World Monorail	numberOfLines	1
+Miami Seaquarium Spacerail	numberOfLines	1
+Nara Dreamland Monorail	numberOfLines	1
+Taedok Science Town Monorail	numberOfLines	1
+Chiang Mai Zoo Monorail	numberOfLines	1
+Nantucket Regional Transit Authority	numberOfLines	9
+Ontario Northland Motor Coach Services	numberOfLines	2
+CIT Le Richelain	numberOfLines	22
+Saint-Jean-sur-Richelieu public transit	numberOfLines	10
+Mountain Line (Montana)	numberOfLines	12
+Mountain Line (Arizona)	numberOfLines	6
+Cowichan Valley Regional Transit System	numberOfLines	14
+Bergen's Electric Tramway	numberOfLines	1
+OCC Transport	numberOfLines	13
+OCC Transport	numberOfLines	3
+Indiana University Health People Mover	numberOfLines	1
+Rapid transit in Tianjin	numberOfLines	4
+Fashion Island (Thailand)  Fashion Island Monorail   1	numberOfLines	1
+Whistler Transit System	numberOfLines	14
+ValleyMAX	numberOfLines	18
+St. Lawrence County Public Transportation	numberOfLines	3
+Bangalore BRTS	numberOfLines	14
+Bangalore Commuter Rail	numberOfLines	10
+Yuma County Area Transit	numberOfLines	7
+Warsaw Tramway	numberOfLines	30
+Angers tramway	numberOfLines	1
+Metropolitan Area Commuter System	numberOfLines	6
+Medicine Hat Transit	numberOfLines	10
+Sheffield Community Transport	numberOfLines	15
+Des Moines Area Regional Transit	numberOfLines	22
+DC Streetcar	numberOfLines	5
+Esko Moravian-Silesian Region	numberOfLines	7
+Mountain Area Regional Transit Authority	numberOfLines	6
+Morongo Basin Transit Authority	numberOfLines	8
+Western Greyhound	numberOfLines	63
+Victor Valley Transit Authority	numberOfLines	18
+Xiamen BRT	numberOfLines	3
+Căile Ferate Române Line 200	numberOfLines	19
+Căile Ferate Române Line 300	numberOfLines	13
+Căile Ferate Române Line 400	numberOfLines	15
+Căile Ferate Române Line 500	numberOfLines	15
+Căile Ferate Române Line 600	numberOfLines	7
+Căile Ferate Române Line 700	numberOfLines	5
+Căile Ferate Române Line 800	numberOfLines	5
+Căile Ferate Române Line 900	numberOfLines	28
+Căile Ferate Române Line 1000	numberOfLines	1
+GRTA Xpress	numberOfLines	29
+Rouyn-Noranda public transit	numberOfLines	4
+Barstow Area Transit	numberOfLines	3
+Needles Area Transit	numberOfLines	1
+Taoyuan Mass Rapid Transit System	numberOfLines	5
+Yellowknife Transit	numberOfLines	5
+Stagecoach in Eastbourne	numberOfLines	17
+Mumbai BRTS	numberOfLines	14
+Jæren Commuter Rail	numberOfLines	1
+Rabbit Transit (York)	numberOfLines	15
+Rabbit Transit (York)	numberOfLines	1
+Rabbit Transit (York)	numberOfLines	2
+Stagecoach Goldline	numberOfLines	6
+Megabus (United Kingdom)	numberOfLines	19
+Davenport Citibus	numberOfLines	13
+TWH Bus & Coach	numberOfLines	3
+Chennai RBTW	numberOfLines	15
+Chennai Monorail	numberOfLines	2
+Chandigarh Metro	numberOfLines	7
+Kolkata LRTS	numberOfLines	2
+Kolkata Monorail	numberOfLines	2
+Hyderabad BRTS	numberOfLines	2
+Rajkot BRTS	numberOfLines	4
+Lucknow Metro	numberOfLines	2
+SunLine Transit Agency	numberOfLines	10
+Wichita Transit	numberOfLines	17
+Mumbai Skywalk Project	numberOfLines	36
+RapidRide	numberOfLines	6
+Guangzhou–Zhuhai Intercity Mass Rapid Transit	numberOfLines	2
+Space Coast Area Transit	numberOfLines	16
+Munich Tramway	numberOfLines	11
+Lawrence Transit	numberOfLines	8
+CityGo	numberOfLines	3
+University Transit Service	numberOfLines	7
+Terravision	numberOfLines	13
+Metropolitana di Palermo	numberOfLines	2
+Pasco County Public Transportation	numberOfLines	9
+THE Bus (Hernando County, Florida)	numberOfLines	4
+Harbin Metro	numberOfLines	1
+Aero Express	numberOfLines	5
+Transport Est-Ouest Rouennais	numberOfLines	3
+Kanpur Metro	numberOfLines	5
+Eastern Shuttle (bus company)	numberOfLines	2
+Manatee County Area Transit	numberOfLines	10
+Coimbatore BRTS	numberOfLines	1
+Madurai BRTS	numberOfLines	2
+Indore BRTS	numberOfLines	10
+Topeka Transit	numberOfLines	15
+Edmonton Radial Railway	numberOfLines	8
+Tramways in Ozorków	numberOfLines	1
+Tramways in Pabianice	numberOfLines	1
+Tramways in Grudziądz	numberOfLines	2
+Kamloops Transit System	numberOfLines	15
+Tramways in Elbląg	numberOfLines	5
+Tramways in Gorzów Wielkopolski	numberOfLines	5
+Tramways in Częstochowa	numberOfLines	2
+Tramways in Bielsko-Biała	numberOfLines	2
+Szczecin Tramway	numberOfLines	13
+Pass Transit	numberOfLines	6
+Kanawha Valley Regional Transportation Authority	numberOfLines	22
+Vernon Regional Transit System	numberOfLines	13
+Metrotranvía of Mendoza	numberOfLines	1
+Chilliwack/Agassiz-Harrison Transit System	numberOfLines	11
+Piedmont Authority for Regional Transportation	numberOfLines	13
+Winston-Salem Transit Authority	numberOfLines	27
+Muncie Indiana Transit System	numberOfLines	14
+MetroLink Express Gandhinagar and Ahmedabad	numberOfLines	5
+Pierce Transit	numberOfLines	50
+SM Coaches	numberOfLines	13
+Premiere Travel	numberOfLines	46
+Whitehorse trolley	numberOfLines	1
+Rapid Metro Rail Gurgaon	numberOfLines	1
+Luzerne County Transportation Authority	numberOfLines	15
+Freedom Transit	numberOfLines	3
+County of Lackawanna Transit System	numberOfLines	30
+Zagreb Tramway	numberOfLines	15
+Zagreb Tramway	numberOfLines	4
+Salvador Metro	numberOfLines	2
+Westmoreland County Transit Authority	numberOfLines	19
+Washington City Transit	numberOfLines	5
+Beaver County Transit Authority	numberOfLines	7
+Trams in Rome	numberOfLines	6
+Michigan City Transit	numberOfLines	4
+Stevens Point Transit	numberOfLines	4
+Corolis	numberOfLines	16
+Corolis	numberOfLines	3
+Corolis	numberOfLines	6
+Corolis	numberOfLines	3
+Corolis	numberOfLines	1
+Thameside (bus company)	numberOfLines	4
+Cleveland Area Rapid Transit	numberOfLines	13
+Shreveport Area Transit System	numberOfLines	17
+Citibus (Lubbock)	numberOfLines	9
+LexTran	numberOfLines	15
+Annapolis Transit	numberOfLines	8
+Sun Metro Mass Transit System	numberOfLines	58
+Metropolitan Tulsa Transit Authority	numberOfLines	21
+Greyhound UK	numberOfLines	7
+Maui Bus	numberOfLines	12
+Maui Bus	numberOfLines	4
+MetroExpress (Halifax)	numberOfLines	1
+MetroExpress (Halifax)	numberOfLines	2
+New Castle Area Transit Authority	numberOfLines	17
+Mid Mon Valley Transit Authority	numberOfLines	7
+Butler Transit Authority	numberOfLines	5
+Monroe County Transit Authority	numberOfLines	5
+List of Montreal bus routes	numberOfLines	197
+List of Montreal bus routes	numberOfLines	23
+Golden Empire Transit	numberOfLines	18
+South Bend TRANSPO	numberOfLines	20
+Mountain Line Transit Authority	numberOfLines	23
+Ohio Valley and Eastern Ohio Regional Transportation Authority	numberOfLines	13
+Central West Virginia Transportation Authority	numberOfLines	12
+Burbank Bus	numberOfLines	4
+Altoona Metro Transit	numberOfLines	13
+Endless Mountains Transportation Authority	numberOfLines	10
+County of Lebanon Transit Authority	numberOfLines	16
+Gardena Municipal Bus Lines	numberOfLines	5
+Glendale Beeline	numberOfLines	12
+Monterey Park Spirit Bus	numberOfLines	5
+Thousand Oaks Transit	numberOfLines	4
+Hammond Transit	numberOfLines	5
+Jefferson Transit (Louisiana)	numberOfLines	12
+Capital Area Transit System	numberOfLines	18
+Harford Transit	numberOfLines	6
+St. Charles Area Transit	numberOfLines	5
+Nashua Transit System	numberOfLines	8
+Tramways in Łódź	numberOfLines	17
+Concord Kannapolis Area Transit	numberOfLines	7
+C-TRAN (North Carolina)	numberOfLines	6
+Greensboro Transit Authority	numberOfLines	15
+Hi tran	numberOfLines	12
+Clermont Transportation Connection	numberOfLines	4
+Belgrade tram system	numberOfLines	12
+People Mover (Anchorage)	numberOfLines	14
+Central Arkansas Transit Authority	numberOfLines	24
+Central Arkansas Transit Authority	numberOfLines	1
+Mountain Metropolitan Transit	numberOfLines	24
+Chatham Area Transit	numberOfLines	19
+Greater Peoria Mass Transit District	numberOfLines	21
+Quad Cities MetroLINK	numberOfLines	14
+Bloomington Transit	numberOfLines	13
+Southeastern Regional Transit Authority	numberOfLines	23
+Züm	numberOfLines	3
+Flint Mass Transportation Authority	numberOfLines	28
+Duluth Transit Authority	numberOfLines	27
+Carousel Buses	numberOfLines	15
+HCT Group	numberOfLines	9
+Sassari Tram-train	numberOfLines	1
+Sofia Tramway	numberOfLines	19
+El Metro Transit	numberOfLines	23
+Fayette Area Coordinated Transportation	numberOfLines	10
+Central Midlands Regional Transit Authority	numberOfLines	27
+Corpus Christi Regional Transportation Authority	numberOfLines	32
+Ben Franklin Transit	numberOfLines	24
+Townlynx	numberOfLines	8
+Kanpur Metropolitan Bus Service	numberOfLines	6
+Town & Country Transit	numberOfLines	3
+Abellio (London & Surrey)	numberOfLines	65
+Comox Valley Transit System	numberOfLines	12
+Shore Transit	numberOfLines	12
+Merced County Transit	numberOfLines	16
+El Dorado Transit	numberOfLines	10
+Western Reserve Transit Authority	numberOfLines	15
+Valley Regional Transit	numberOfLines	24
+Roseville Transit	numberOfLines	15
+Placer County Transit	numberOfLines	6
+Anaheim Resort Transit	numberOfLines	15
+Beach Cities Transit	numberOfLines	3
+Municipal Area Express	numberOfLines	3
+City of Commerce Municipal Bus Lines	numberOfLines	5
+Palos Verdes Peninsula Transit Authority	numberOfLines	8
+Montgomery Area Transit System	numberOfLines	16
+Charlottesville Area Transit	numberOfLines	11
+Interurban Trolley	numberOfLines	5
+Ozark Regional Transit	numberOfLines	9
+El Monte Transit	numberOfLines	7
+Imperial Valley Transit	numberOfLines	9
+Transfort	numberOfLines	16
+Cape Fear Public Transportation Authority	numberOfLines	11
+St. Clair County Transit District	numberOfLines	1
+St. Louis Bus Rapid Transit	numberOfLines	5
+Jetrail	numberOfLines	1
+Pueblo Transit	numberOfLines	11
+Rockford Mass Transit District	numberOfLines	16
+Fort Wayne Citilink	numberOfLines	12
+Countywide Travel	numberOfLines	11
+San Luis Obispo Regional Transit Authority	numberOfLines	9
+SLO Transit	numberOfLines	6
+Kern Regional Transit	numberOfLines	10
+South Portland Bus Service	numberOfLines	3
+Biddeford-Saco-Old Orchard Beach Transit Committee	numberOfLines	5
+The Wave Transit System	numberOfLines	13
+Istanbul modern tram	numberOfLines	2
+Saginaw Transit Authority Regional Services	numberOfLines	10
+Asheville Transit System	numberOfLines	16
+Jaipur Metro	numberOfLines	2
+Sunset Empire Transportation District	numberOfLines	8
+Ferrovie regionali del Lazio	numberOfLines	8
+Richfield Bus Company	numberOfLines	18
+MetroBus (St. Louis)	numberOfLines	75
+Redding Area Bus Authority	numberOfLines	11
+Bettendorf Transit	numberOfLines	5
+Good Earth Transit	numberOfLines	4
+Alexandria Transportation Authority	numberOfLines	8
+Lake Charles Transit	numberOfLines	5
+Lafayette Transit System	numberOfLines	12
+Monroe Transit	numberOfLines	13
+Springfield Transit Services	numberOfLines	14
+Abilene CityLink	numberOfLines	12
+Havelbus	numberOfLines	86
+Harbour Island People Mover	numberOfLines	1
+Trams in Hobart	numberOfLines	8
+Trams in Hobart	numberOfLines	17
+Delhi Monorail	numberOfLines	6
+Carowinds Monorail	numberOfLines	1
+Tramways in Bydgoszcz	numberOfLines	8
+Carson Circuit Transit System	numberOfLines	7
+City of Lompoc Transit	numberOfLines	6
+Santa Barbara Clean Air Express	numberOfLines	4
+South Tahoe Area Transit Authority	numberOfLines	10
+Cedar Rapids Transit	numberOfLines	14
+Decatur Public Transit System	numberOfLines	15
+Macon Transit Authority	numberOfLines	10
+Stanislaus Regional Transit	numberOfLines	6
+Jackson Transit System	numberOfLines	14
+Eau Claire Transit	numberOfLines	10
+Hele-On Bus	numberOfLines	15
+Texarkana Urban Transit District	numberOfLines	7
+Fort Smith Transit	numberOfLines	5
+Bay Town Trolley	numberOfLines	7
+Capital Transit System	numberOfLines	3
+Sierra Vista Public Transit System	numberOfLines	6
+Yuba-Sutter Transit	numberOfLines	8
+Greeley-Evans Transit	numberOfLines	8
+Grand Valley Transit	numberOfLines	11
+City of Ocala SunTran	numberOfLines	6
+Citrus County Transit	numberOfLines	1
+LakeXpress	numberOfLines	4
+Okaloosa County Transit	numberOfLines	11
+Sumter County Transit	numberOfLines	2
+METRA Transit System	numberOfLines	9
+Albany Transit System	numberOfLines	10
+Augusta Public Transit	numberOfLines	9
+Pocatello Regional Transit	numberOfLines	6
+Damascus Metro	numberOfLines	4
+Bloomington-Normal Public Transit System	numberOfLines	11
+East Chicago Transit	numberOfLines	3
+Terre Haute Transit	numberOfLines	8
+Metropolitan Transit Authority of Black Hawk County	numberOfLines	12
+Sioux City Transit	numberOfLines	10
+Owensboro Transit System	numberOfLines	7
+Lewiston-Auburn CityLink	numberOfLines	9
+County Commuter	numberOfLines	10
+Jackson Transportation Authority	numberOfLines	8
+Battle Creek Transit	numberOfLines	8
+Blue Water Area Transit	numberOfLines	9
+Muskegon Area Transit System	numberOfLines	9
+Macatawa Area Express	numberOfLines	8
+Mankato Transit System	numberOfLines	7
+St. Cloud Metropolitan Transit Commission	numberOfLines	19
+Meridian Transit System	numberOfLines	5
+Vicksburg Area Transit System	numberOfLines	9
+Coast Transit Authority	numberOfLines	10
+St. Joseph Transit	numberOfLines	8
+JeffTran	numberOfLines	8
+Great Falls Transit	numberOfLines	7
+Cooperative Alliance for Seacoast Transportation	numberOfLines	12
+Concord Area Transit	numberOfLines	4
+Milford Transit District	numberOfLines	4
+Kingston Citibus	numberOfLines	3
+Mexicoach	numberOfLines	2
+Tramways in Gdańsk	numberOfLines	10
+Long Beach Bus	numberOfLines	4
+Cheyenne Transit	numberOfLines	6
+McAllen Express Transit	numberOfLines	6
+Beaumont Municipal Transit System	numberOfLines	5
+Carefree Bus	numberOfLines	2
+New York Airport Service	numberOfLines	3
+Brazos Transit District	numberOfLines	24
+Leprechaun Lines	numberOfLines	5
+Kingsport Area Transit System	numberOfLines	5
+Pee Dee Regional Transportation Authority	numberOfLines	8
+Monsey Trails	numberOfLines	5
+Amarillo City Transit	numberOfLines	8
+Yakima Transit	numberOfLines	10
+Tar River Transit	numberOfLines	9
+Oshkosh Transit System	numberOfLines	9
+Cariri Metro	numberOfLines	1
+Orléans tramway	numberOfLines	1
+High Level Bridge Streetcar	numberOfLines	1
+Le Mans tramway	numberOfLines	2
+Mulhouse tramway	numberOfLines	4
+Bangkok BRT	numberOfLines	1
+Nancy Guided Light Transit	numberOfLines	1
+Wichita Falls Transit System	numberOfLines	7
+Allen County Regional Transportation Authority	numberOfLines	7
+Janesville Transit System	numberOfLines	7
+Beloit Transit System	numberOfLines	5
+Hudson Rail Link	numberOfLines	7
+Ulink	numberOfLines	7
+Woottens Luxury Travel  Tiger Line   1	numberOfLines	6
+Bus transport in Berlin	numberOfLines	329
+Adana Metro	numberOfLines	1
+Athens Tram	numberOfLines	3
+Trolleybuses in Vilnius	numberOfLines	20
+Stoke Streetcar	numberOfLines	2
+Vilniaus autobusai	numberOfLines	67
+Taft Area Transit	numberOfLines	3
+Padarn Bus	numberOfLines	19
+Kunming Metro	numberOfLines	3
+Clarkstown Mini-Trans	numberOfLines	5
+Rapid City Rapid Ride	numberOfLines	5
+Spartanburg Area Regional Transit Agency	numberOfLines	5
+Richland County Transit	numberOfLines	12
+Western Kenosha County Transit	numberOfLines	3
+Üçyol-Bornova Line	numberOfLines	1
+Metrorail KwaZulu-Natal	numberOfLines	7
+Estuary Transit District	numberOfLines	4
+Tramways in Kraków	numberOfLines	27
+Sarajevo Tramway	numberOfLines	1
+Metrorail Eastern Cape	numberOfLines	2
+Navi Mumbai Metro	numberOfLines	6
+Bristol Supertram	numberOfLines	1
+East Carolina University Student Transit Authority	numberOfLines	27
+ESHOT	numberOfLines	382
+Dortmund Stadtbahn	numberOfLines	8
+Metro Liner (Los Angeles County)	numberOfLines	2
+Navi Mumbai Monorail	numberOfLines	2
+Pune Monorail	numberOfLines	2
+Maceió Metro	numberOfLines	1
+Stotts Coaches	numberOfLines	18
+Greater Portland Metro Bus	numberOfLines	8
+Arvin Transit	numberOfLines	4
+McHarry's Buslines	numberOfLines	19
+FMetro	numberOfLines	1
+El Metropolitano	numberOfLines	1
+Guangzhou Bus Rapid Transit	numberOfLines	1
+Clintona Minicoaches	numberOfLines	4
+Shuttle-UM	numberOfLines	24
+KPN Travels	numberOfLines	200
+Brussels RER	numberOfLines	8
+Casablanca tramway	numberOfLines	2
+Wardle Transport	numberOfLines	18
+Go Bus Christchurch	numberOfLines	7
+TransJakarta Corridors	numberOfLines	10
+Vientiane Metro	numberOfLines	1
+MobiVie	numberOfLines	8
+Patna Monorail	numberOfLines	4
+Ahmedabad Monorail	numberOfLines	2
+Ludhiana Metro	numberOfLines	2
+Ride Solution	numberOfLines	5
+Nelson Electric Tramway	numberOfLines	1
+Bhopal Metro	numberOfLines	6
+Chula-Siam Monorail	numberOfLines	3
+Tramways in Teschen	numberOfLines	1
+Cebu Bus Rapid Transit System	numberOfLines	1
+Kanpur Monorail	numberOfLines	3
+Strawberry (bus operator)	numberOfLines	14
+Twin Cities Area Transportation Authority	numberOfLines	2
+Société de transport de l'Outaouais	numberOfLines	59
+Sapporo Municipal Subway	numberOfLines	3
+Delhi Metro	numberOfLines	6
+Ramkhamhaeng-Thonglor Monorail	numberOfLines	1
+Grand Square Monorail	numberOfLines	1
+Valley Metro Bus (Phoenix)	numberOfLines	101
+Rutgers Campus Buses	numberOfLines	11
+Rutgers Campus Buses	numberOfLines	2
+Esko Prague	numberOfLines	14
+Trolleybuses in Valparaíso	numberOfLines	1
+Xelabus	numberOfLines	16
+Hangzhou BRT	numberOfLines	3
+Delano Area Rapid Transit	numberOfLines	4
+Yorkshire Line	numberOfLines	5
+Bakersfield and Kern Electric Railway	numberOfLines	5
+Indore Metro	numberOfLines	8
+Express Motors	numberOfLines	14
+Potsdam Tramway	numberOfLines	7
+Algiers tramway	numberOfLines	1
+Kolkata BRTS	numberOfLines	1
+Trailblazer (monorail)	numberOfLines	1
+Rabat-Salé tramway	numberOfLines	2
+British Coachways	numberOfLines	6
+Lahore Transport Company	numberOfLines	1
+Charm City Circulator	numberOfLines	2

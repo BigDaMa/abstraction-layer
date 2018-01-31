@@ -1,0 +1,200 @@
+The Bahamas	regionalLanguage	Bahamian English
+Barbados	regionalLanguage	Bajan Creole
+Belize	regionalLanguage	Belizean Creole
+Belize	regionalLanguage	Spanish language
+Belize	regionalLanguage	Garifuna language
+Belize	regionalLanguage	Mayan languages
+Belize	regionalLanguage	Plautdietsch language
+Burkina Faso	regionalLanguage	Mossi language
+Burkina Faso	regionalLanguage	Dioula language
+Costa Rica	regionalLanguage	Limonese Creole
+Costa Rica	regionalLanguage	Bribri language
+England	regionalLanguage	Cornish language
+Equatorial Guinea	regionalLanguage	Fang language
+Equatorial Guinea	regionalLanguage	Bube language
+Equatorial Guinea	regionalLanguage	Annobonese language
+Finland	regionalLanguage	Sami languages
+Guernsey	regionalLanguage	Guernésiais
+Guernsey	regionalLanguage	Sercquiais
+Guinea-Bissau	regionalLanguage	Guinea-Bissau Creole
+Honduras	regionalLanguage	English language
+Honduras	regionalLanguage	Garifuna language
+Honduras	regionalLanguage	Miskito language
+Japan	regionalLanguage	Ainu language
+Japan	regionalLanguage	Ryukyuan languages
+Japan	regionalLanguage	Japanese dialects#Eastern Japanese
+Japan	regionalLanguage	Japanese dialects#Western Japanese
+Japan	regionalLanguage	Japanese dialects
+Jersey	regionalLanguage	Jèrriais
+Moldova	regionalLanguage	Gagauz language
+Moldova	regionalLanguage	Russian language
+Moldova	regionalLanguage	Ukrainian language
+Burma	regionalLanguage	Jingpho language
+Burma	regionalLanguage	Kayah languages
+Burma	regionalLanguage	Karen languages
+Burma	regionalLanguage	Kuki-Chin languages
+Burma	regionalLanguage	Mon language
+Burma	regionalLanguage	Rakhine language
+Burma	regionalLanguage	Shan language
+Netherlands	regionalLanguage	West Frisian language
+Netherlands	regionalLanguage	Papiamento
+Netherlands	regionalLanguage	English language
+Netherlands	regionalLanguage	Saba
+Norway	regionalLanguage	Northern Sami language
+Norway	regionalLanguage	Lule Sami language
+Norway	regionalLanguage	Kven language
+Norway	regionalLanguage	Southern Sami language
+Namibia	regionalLanguage	Herero language
+Namibia	regionalLanguage	Kwangali language
+Namibia	regionalLanguage	Lozi language
+Namibia	regionalLanguage	Tswana language
+Namibia	regionalLanguage	Khoekhoe language
+Namibia	regionalLanguage	Afrikaans
+Namibia	regionalLanguage	German language
+Namibia	regionalLanguage	Ovambo language
+Nicaragua	regionalLanguage	Miskito people
+Nicaragua	regionalLanguage	Sumo language
+Nicaragua	regionalLanguage	Rama, Nicaragua
+Nigeria	regionalLanguage	Edo language
+Nigeria	regionalLanguage	Efik language
+Nigeria	regionalLanguage	Fula language
+Nigeria	regionalLanguage	Idoma language
+Nigeria	regionalLanguage	Ijaw languages
+Portugal	regionalLanguage	Mirandese language
+Pakistan	regionalLanguage	Balochi language
+Pakistan	regionalLanguage	Pashto language
+Pakistan	regionalLanguage	Punjabi language
+Pakistan	regionalLanguage	Saraiki language
+Pakistan	regionalLanguage	Sindhi language
+Palau	regionalLanguage	Japanese language
+Philippines	regionalLanguage	Bikol languages
+Philippines	regionalLanguage	Cebuano language
+Philippines	regionalLanguage	Hiligaynon language
+Philippines	regionalLanguage	Ilokano language
+Philippines	regionalLanguage	Kapampangan language
+Philippines	regionalLanguage	Pangasinan language
+Philippines	regionalLanguage	Tagalog language
+Philippines	regionalLanguage	Waray-Waray language
+Philippines	regionalLanguage	Spanish language
+Philippines	regionalLanguage	Arabic language
+Republic of China	regionalLanguage	Taiwanese Hokkien
+Republic of China	regionalLanguage	Hakka Chinese
+Republic of China	regionalLanguage	Formosan languages
+Spain	regionalLanguage	Aranese dialect
+Spain	regionalLanguage	Basque language
+Spain	regionalLanguage	Catalan language
+Spain	regionalLanguage	Galician language
+Suriname	regionalLanguage	Sranan Tongo
+Suriname	regionalLanguage	Standard Hindi
+Suriname	regionalLanguage	English language
+Suriname	regionalLanguage	Bhojpuri language
+Suriname	regionalLanguage	Javanese language
+Suriname	regionalLanguage	Malay language
+Suriname	regionalLanguage	Bhojpuri language
+Suriname	regionalLanguage	Hakka Chinese
+Suriname	regionalLanguage	Yue Chinese
+Suriname	regionalLanguage	Saramaccan language
+Suriname	regionalLanguage	Paramaccan people
+Suriname	regionalLanguage	Ndyuka language
+Suriname	regionalLanguage	Kwinti people
+Suriname	regionalLanguage	Matawai
+Suriname	regionalLanguage	Cariban languages
+Suriname	regionalLanguage	Arawakan languages
+Suriname	regionalLanguage	Carib language
+Scotland	regionalLanguage	Scottish Gaelic
+Scotland	regionalLanguage	Scots language
+Senegal	regionalLanguage	Wolof language
+Senegal	regionalLanguage	Soninke language
+Senegal	regionalLanguage	Serer language
+Senegal	regionalLanguage	Fula language
+Senegal	regionalLanguage	Maninka language
+Senegal	regionalLanguage	Jola people
+Slovenia	regionalLanguage	Hungarian language
+Slovenia	regionalLanguage	Italian language
+United Kingdom	regionalLanguage	Irish language in Northern Ireland
+United Kingdom	regionalLanguage	Ulster Scots dialects
+United Kingdom	regionalLanguage	Scottish Gaelic
+United Kingdom	regionalLanguage	Scots language
+United Kingdom	regionalLanguage	Welsh language
+United Kingdom	regionalLanguage	Cornish language
+Ukraine	regionalLanguage	Russian language
+Ukraine	regionalLanguage	Crimean Tatar language
+Uzbekistan	regionalLanguage	Karakalpak language
+Zambia	regionalLanguage	Chewa language
+Zambia	regionalLanguage	Bemba language
+Zambia	regionalLanguage	Lunda language
+Zambia	regionalLanguage	Tonga language (Zambia)
+Zambia	regionalLanguage	Lozi language
+Zambia	regionalLanguage	Luvale language
+Zambia	regionalLanguage	Kaonde language
+Crimea	regionalLanguage	Russian language
+Crimea	regionalLanguage	Crimean Tatar language
+Sark	regionalLanguage	Sercquiais
+Nepal	regionalLanguage	Nepal Bhasa
+Nepal	regionalLanguage	Maithili language
+Nepal	regionalLanguage	Bhojpuri language
+Nepal	regionalLanguage	Tharu language
+Nepal	regionalLanguage	Gurung language
+Nepal	regionalLanguage	Tamang language
+Nepal	regionalLanguage	Magar language
+Nepal	regionalLanguage	Awadhi language
+Nepal	regionalLanguage	Sherpa language
+Nepal	regionalLanguage	Kiranti languages
+Nepal	regionalLanguage	Limbu language
+Alderney	regionalLanguage	Auregnais
+Ethiopia	regionalLanguage	Languages of Ethiopia
+Ethiopia	regionalLanguage	Regions of Ethiopia
+South Ossetia	regionalLanguage	Georgian language
+Nisga’a people	regionalLanguage	Nisga’a language
+Nisga’a people	regionalLanguage	English
+Trinidad and Tobago	regionalLanguage	Spanish language
+Trinidad and Tobago	regionalLanguage	Standard Hindi
+Trinidad and Tobago	regionalLanguage	Creole
+Trinidad and Tobago	regionalLanguage	French language
+Trinidad and Tobago	regionalLanguage	Chinese language
+Trinidad and Tobago	regionalLanguage	Arabic language
+Canada	regionalLanguage	Inuktitut
+Canada	regionalLanguage	Inuinnaq dialect
+Canada	regionalLanguage	Cree language
+Canada	regionalLanguage	Gwich’in language
+Canada	regionalLanguage	Inuvialuk language
+Canada	regionalLanguage	Slavey language
+Kwantlen First Nation	regionalLanguage	Halkomelem language
+Kwantlen First Nation	regionalLanguage	English
+First Czechoslovak Republic	regionalLanguage	German language
+First Czechoslovak Republic	regionalLanguage	Hungarian language
+First Czechoslovak Republic	regionalLanguage	Polish language
+First Czechoslovak Republic	regionalLanguage	Romani language
+First Czechoslovak Republic	regionalLanguage	Russian language
+First Czechoslovak Republic	regionalLanguage	Rusyn language
+First Czechoslovak Republic	regionalLanguage	Ukrainian language
+First Czechoslovak Republic	regionalLanguage	Yiddish language
+Guyana	regionalLanguage	Guyanese Creole
+Guyana	regionalLanguage	Portuguese language
+Guyana	regionalLanguage	Standard Hindi
+Guyana	regionalLanguage	Spanish language
+Guyana	regionalLanguage	Akawaio language
+Guyana	regionalLanguage	Macushi people
+Guyana	regionalLanguage	Wai-Wai (language)
+Guyana	regionalLanguage	Arawakan languages
+Guyana	regionalLanguage	Patamona people
+Guyana	regionalLanguage	Warao people
+Guyana	regionalLanguage	Carib language
+Guyana	regionalLanguage	Wapishiana
+Guyana	regionalLanguage	Arekuna
+Argentina	regionalLanguage	Mapuche
+Argentina	regionalLanguage	Guaraní language
+Argentina	regionalLanguage	Quechua languages
+Argentina	regionalLanguage	Welsh language
+Cape Verde	regionalLanguage	Cape Verdean Creole
+Republic of the Congo	regionalLanguage	Kongo language
+Republic of the Congo	regionalLanguage	Kituba language
+Republic of the Congo	regionalLanguage	Lingala language
+São Tomé and Príncipe	regionalLanguage	Forro language
+São Tomé and Príncipe	regionalLanguage	Angolar language
+São Tomé and Príncipe	regionalLanguage	Principense language
+Kwikwetlem First Nation	regionalLanguage	Halkomelem language
+Kwikwetlem First Nation	regionalLanguage	English
+Austria	regionalLanguage	Slovene language
+Austria	regionalLanguage	Croatian language
+Austria	regionalLanguage	Hungarian language

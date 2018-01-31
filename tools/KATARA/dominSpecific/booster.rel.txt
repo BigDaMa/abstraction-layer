@@ -1,0 +1,63 @@
+Apollo 8	booster	Saturn V
+Apollo 11	booster	Saturn V
+Apollo 13	booster	Saturn V
+Apollo 7	booster	Saturn IB
+Apollo 9	booster	Saturn V
+Apollo 10	booster	Saturn V
+Apollo 1	booster	Saturn IB
+Apollo 15	booster	Saturn V
+Apollo 14	booster	Saturn V
+Apollo 12	booster	Saturn V
+Apollo 16	booster	Saturn V
+Apollo 17	booster	Saturn V
+Gemini 10	booster	Titan II GLV
+Vostok 1	booster	Vostok-K
+Soyuz 1	booster	Soyuz (rocket)
+Vostok 2	booster	Vostok-K
+Vostok 3	booster	Vostok-K
+Vostok 4	booster	Vostok-K
+Vostok 5	booster	Vostok-K
+Vostok 6	booster	Vostok-K
+Voskhod 1	booster	Voskhod (rocket)
+Voskhod 2	booster	Voskhod (rocket)
+Gemini 3	booster	Titan II GLV
+Mercury-Redstone 4	booster	Mercury-Redstone Launch Vehicle
+Mercury-Redstone 3	booster	Mercury-Redstone Launch Vehicle
+Mercury-Atlas 6	booster	Atlas LV-3B
+Mercury-Atlas 7	booster	Atlas LV-3B
+Mercury-Atlas 9	booster	Atlas LV-3B
+Mercury-Atlas 8	booster	Atlas LV-3B
+Apollo 5	booster	Saturn IB
+Apollo 6	booster	Saturn V
+Apollo 4	booster	Saturn V
+Apollo–Soyuz Test Project	booster	Saturn IB
+Apollo–Soyuz Test Project  Soyuz 19   1	booster	Soyuz-U
+Gemini 4	booster	Titan II GLV
+Gemini 5	booster	Titan II GLV
+Gemini 7	booster	Titan II GLV
+Gemini 6A	booster	Titan II GLV
+Gemini 8	booster	Titan II GLV
+Gemini 9A	booster	Titan II GLV
+Gemini 1	booster	Titan II GLV
+AS-201	booster	Saturn IB
+AS-203	booster	Saturn IB
+Mercury-Atlas 5	booster	Atlas LV-3B
+Gemini 2	booster	Titan II GLV
+Skylab 4	booster	Saturn IB
+Mercury-Atlas 10	booster	Atlas LV-3B
+Mercury-Redstone 1	booster	Mercury-Redstone Launch Vehicle
+Mercury-Redstone 1A	booster	Mercury-Redstone Launch Vehicle
+Mercury-Redstone 2	booster	Mercury-Redstone Launch Vehicle
+SpaceShipOne flight 15P	booster	Scaled Composites White Knight
+Mercury-Atlas 4	booster	Atlas LV-3B
+SpaceShipOne flight 16P	booster	Scaled Composites White Knight
+SpaceShipOne flight 17P	booster	Scaled Composites White Knight
+Kosmos 140	booster	Soyuz (rocket)
+Soyuz TMA-13	booster	Soyuz-FG
+Soyuz TMA-14	booster	Soyuz-FG
+Soyuz TMA-15	booster	Soyuz-FG
+Soyuz TMA-16	booster	Soyuz-FG
+Soyuz TMA-18	booster	Soyuz-FG
+Soyuz TMA-19	booster	Soyuz-FG
+Kosmos 656	booster	Soyuz (rocket)
+Kosmos 396	booster	Voskhod (rocket)

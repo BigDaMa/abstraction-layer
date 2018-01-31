@@ -1,0 +1,1416 @@
+Chymotrypsin	hgncid	2521
+Chymotrypsin  ogen B2   1	hgncid	2522
+Chymotrypsin  C caldecrin   1	hgncid	2523
+DNA ligase	hgncid	6598
+DNA ligase  III, DNA, ATP-dependent   1	hgncid	6600
+DNA ligase  IV, DNA, ATP-dependent   1	hgncid	6601
+Lactase	hgncid	6530
+Monoamine oxidase	hgncid	6833
+Monoamine oxidase  B   1	hgncid	6834
+Superoxide dismutase	hgncid	11179
+Superoxide dismutase  SOD2, mitochondrial   1	hgncid	11180
+Superoxide dismutase  SOD3, extracellular   1	hgncid	11181
+Trypsin	hgncid	9475
+Trypsin  protease, serine, 2 trypsin 2   1	hgncid	9483
+Trypsin  protease, serine, 3 mesotrypsin   1	hgncid	9486
+Chitinase	hgncid	17432
+Chitinase  1 chitotriosidase   1	hgncid	1936
+Adrenocorticotropic hormone	hgncid	9201
+Chymosin  pseudogene H.sapiens   1	hgncid	2588
+Beta-galactosidase	hgncid	4298
+Alcohol dehydrogenase	hgncid	249
+Alcohol dehydrogenase  1B,β polypeptide   1	hgncid	250
+Alcohol dehydrogenase  1C,γ polypeptide   1	hgncid	251
+Alcohol dehydrogenase  4 class II , π polypeptide   1	hgncid	252
+Alcohol dehydrogenase  5 class III , χ polypeptide   1	hgncid	253
+Alcohol dehydrogenase  6 class V   1	hgncid	255
+Alcohol dehydrogenase  7 class IV , μ or σ polypept  1	hgncid	256
+Xanthine oxidase	hgncid	12805
+Iodothyronine deiodinase	hgncid	2883
+Iodothyronine deiodinase  Type II iodothyronine deiodinase   1	hgncid	2884
+Iodothyronine deiodinase  Type III iodothyronine deiodinase   1	hgncid	2885
+Ornithine decarboxylase	hgncid	8109
+Hexokinase	hgncid	4922
+Hexokinase  2   1	hgncid	4923
+Hexokinase  3 white cell   1	hgncid	4925
+Pepsin	hgncid	8885
+Pepsin  ogen 4, group I pepsinogen A   1	hgncid	8886
+Pepsin  ogen 5, group I pepsinogen A   1	hgncid	8887
+Pepsin  progastricsin pepsinogen C   1	hgncid	8890
+Growth hormone	hgncid	4261
+Growth hormone  2   1	hgncid	4262
+Thyrotropin-releasing hormone	hgncid	12298
+Fibrinogen	hgncid	3661
+Fibrinogen  beta chain   1	hgncid	3662
+Fibrinogen  gamma chain   1	hgncid	3694
+CD32	hgncid	3616
+CD32  Fc fragment of IgG, low affinity IIb, receptor CD3  1	hgncid	3618
+CD32  Fc fragment of IgG, low affinity IIc, receptor for  1	hgncid	15626
+Luteinizing hormone	hgncid	6584
+Proinsulin	hgncid	6081
+Alanine transaminase	hgncid	4552
+Orexin	hgncid	4847
+Fructose 1,6-bisphosphatase	hgncid	3606
+Cyclooxygenase	hgncid	9604
+Cyclooxygenase  2   1	hgncid	9605
+Follicle-stimulating hormone	hgncid	1885
+Follicle-stimulating hormone  follicle stimulating hormone, beta polypeptide   1	hgncid	3964
+Thyroid-stimulating hormone	hgncid	1885
+Thyroid-stimulating hormone  Thyrotrophin-stimulating hormone, beta   1	hgncid	12372
+Histone methyltransferase	hgncid	24650
+Signal recognition particle	hgncid	11304
+Signal recognition particle  14kDa   1	hgncid	11299
+Signal recognition particle  19kDa   1	hgncid	11300
+Signal recognition particle  54kDa   1	hgncid	11301
+Signal recognition particle  68kDa   1	hgncid	11302
+Signal recognition particle  72kDa   1	hgncid	11303
+Gamma-glutamyl transpeptidase	hgncid	4250
+Gamma-glutamyl transpeptidase  gamma-glutamyltransferase 2   1	hgncid	4251
+Substance P	hgncid	11517
+BK channel	hgncid	6284
+BK channel  KCNMB1   1	hgncid	6285
+BK channel  KCNMB2   1	hgncid	6286
+BK channel  KCNMB3   1	hgncid	6287
+BK channel  KCNMB3L   1	hgncid	6288
+BK channel  KCNMB4   1	hgncid	6289
+Ferritin	hgncid	3999
+Ferritin  , heavy polypeptide 1   1	hgncid	3976
+Ferritin  mitochondrial   1	hgncid	17345
+Transcortin	hgncid	1540
+Aspartate carbamoyltransferase	hgncid	1424
+Atrial natriuretic peptide	hgncid	7939
+Clathrin	hgncid	2090
+Clathrin  , light polypeptide Lcb   1	hgncid	2091
+Clathrin  , heavy polypeptide Hc   1	hgncid	2092
+Clathrin  , heavy polypeptide-like 1   1	hgncid	2093
+Protein disulfide-isomerase	hgncid	14180
+Protein disulfide-isomerase  protein disulfide isomerase family A, member 3   1	hgncid	4606
+Protein disulfide-isomerase  protein disulfide isomerase family A, member 4   1	hgncid	30167
+Protein disulfide-isomerase  protein disulfide isomerase family A, member 5   1	hgncid	24811
+Protein disulfide-isomerase  protein disulfide isomerase family A, member 6   1	hgncid	30168
+COPII	hgncid	10701
+COPII  SEC24 family, member A   1	hgncid	10703
+SAR1A	hgncid	10534
+Melanocyte-stimulating hormone	hgncid	9201
+Bradykinin  ogen 1   1	hgncid	6383
+Cholinesterase	hgncid	108
+Cholinesterase  butyrylcholinesterase   1	hgncid	983
+Galactokinase	hgncid	4118
+Galactokinase  2   1	hgncid	4119
+Alpha-2-Macroglobulin	hgncid	7
+Cannabinoid receptor	hgncid	2159
+Cannabinoid receptor  2 macrophage   1	hgncid	2160
+Peroxisome proliferator-activated receptor	hgncid	9232
+Peroxisome proliferator-activated receptor  gamma   1	hgncid	9236
+Peroxisome proliferator-activated receptor  delta   1	hgncid	9235
+Tuberous sclerosis  Hamartin   1	hgncid	12362
+Tuberous sclerosis  Tuberin   1	hgncid	12363
+Arginase	hgncid	663
+Arginase  , type II   1	hgncid	664
+Dynorphin	hgncid	8820
+Angiotensin receptor	hgncid	336
+Angiotensin receptor  angiotensin II receptor, type 2   1	hgncid	338
+Cholecystokinin receptor	hgncid	1570
+Cholecystokinin receptor  cholecystokinin B receptor   1	hgncid	1571
+Enoyl CoA isomerase	hgncid	2703
+Ribonucleotide reductase	hgncid	10451
+Ribonucleotide reductase  M2 polypeptide   1	hgncid	10452
+Ribonucleotide reductase  M2 B TP53 inducible   1	hgncid	17296
+Aromatic L-amino acid decarboxylase	hgncid	2719
+Glycophorin C	hgncid	4704
+RecQ helicase	hgncid	1058
+RecQ helicase  RecQ protein-like 4   1	hgncid	9949
+RecQ helicase  RecQ protein-like 5   1	hgncid	9950
+RecQ helicase  RMI1, RecQ mediated genome instability 1   1	hgncid	25764
+RecQ helicase  Werner syndrome   1	hgncid	12791
+Thioredoxin reductase	hgncid	12437
+Thioredoxin reductase  2   1	hgncid	18155
+Thioredoxin reductase  3   1	hgncid	20667
+Glutamate dehydrogenase	hgncid	4335
+Glutamate dehydrogenase  2   1	hgncid	4336
+High-molecular-weight kininogen	hgncid	6383
+GSK-3	hgncid	4616
+GSK-3  glycogen synthase kinase 3 beta   1	hgncid	4617
+Malate dehydrogenase	hgncid	6970
+Malate dehydrogenase  2, NAD mitochondrial   1	hgncid	6971
+Ferredoxin	hgncid	3638
+Enkephalin	hgncid	8831
+Epoxide hydrolase	hgncid	3401
+Epoxide hydrolase  poxide hydrolase 2, cytoplasmic   1	hgncid	3402
+Epoxide hydrolase  poxide hydrolase 3   1	hgncid	23760
+Epoxide hydrolase  poxide hydrolase 4   1	hgncid	23758
+Inositol trisphosphate receptor	hgncid	6180
+Inositol trisphosphate receptor  inositol 1,4,5-trisphosphate receptor, type 2   1	hgncid	Crystal structure of the ligand binding suppressor domain of type 1 inositol 1,4,5-trisphosphate receptor 6181
+Inositol trisphosphate receptor  inositol 1,4,5-trisphosphate receptor, type 3   1	hgncid	6182
+Isocitrate dehydrogenase	hgncid	5382
+Isocitrate dehydrogenase  2 NADP+ , mitochondrial   1	hgncid	5383
+Isocitrate dehydrogenase  3 NAD+ alpha   1	hgncid	5384
+Isocitrate dehydrogenase  3 NAD+ beta   1	hgncid	5385
+Isocitrate dehydrogenase  3 NAD+ gamma   1	hgncid	5386
+5-alpha reductase	hgncid	11284
+5-alpha reductase  steroid-5-alpha-reductase, alpha polypeptide 2   1	hgncid	11285
+Urokinase  plasminogen activator, urokinase   1	hgncid	9052
+Internexin	hgncid	6057
+Peripherin	hgncid	9461
+Neurofilament	hgncid	7739
+Neurofilament  , heavy polypeptide 200kDa   1	hgncid	7737
+Neurofilament  3 150kDa medium   1	hgncid	7734
+Thymidine kinase	hgncid	11830
+Thymidine kinase  2, mitochondrial   1	hgncid	11831
+Factor XIII	hgncid	3531
+Factor XIII  coagulation factor XIII,B polypeptide   1	hgncid	3534
+Glucokinase regulatory protein	hgncid	4196
+PGL2	hgncid	8901
+Microcephalin	hgncid	6954
+Microcephalin  microcephaly,primary autosomal recessive 2   1	hgncid	6955
+Microcephalin  microcephaly,primary autosomal recessive 3   1	hgncid	18672
+Microcephalin  microcephaly,primary autosomal recessive 4   1	hgncid	6957
+Microcephalin  microcephaly,primary autosomal recessive 5   1	hgncid	19048
+Microcephalin  microcephaly,primary autosomal recessive 6   1	hgncid	17272
+Beta-endorphin	hgncid	9201
+Cysteine dioxygenase	hgncid	1795
+Anti-Müllerian hormone	hgncid	464
+Anti-Müllerian hormone  anti-Mullerian hormone receptor, type II   1	hgncid	465
+Neuraminidase	hgncid	7758
+Neuraminidase  sialidase 2 cytosolic sialidase   1	hgncid	7759
+Neuraminidase  sialidase 3 membrane sialidase   1	hgncid	7760
+Neuraminidase  sialidase 4   1	hgncid	21328
+Protein Z-related protease inhibitor	hgncid	15996
+Protein Z	hgncid	9460
+Estrogen receptor	hgncid	3467
+Estrogen receptor  2 ER-beta   1	hgncid	3468
+Glutamate decarboxylase	hgncid	4092
+Glutamate decarboxylase  glutamic acid decarboxylase 2   1	hgncid	11284
+Glycogen phosphorylase	hgncid	9726
+Glycogen phosphorylase  , glycogen; liver Hers disease, glyco  1	hgncid	9725
+Glycogen phosphorylase  , glycogen; brain   1	hgncid	9723
+Gastric inhibitory polypeptide	hgncid	4270
+Fibrillin	hgncid	3603
+Fibrillin  2   1	hgncid	3604
+Fibrillin  3   1	hgncid	18794
+Enaptin	hgncid	17089
+AKT	hgncid	391
+AKT  v-akt murine thymoma viral oncogene homolog 2   1	hgncid	392
+AKT  v-akt murine thymoma viral oncogene homolog 3 prot  1	hgncid	393
+Protamine	hgncid	9447
+Protamine  2   1	hgncid	9448
+Motilin	hgncid	7141
+Ryanodine receptor	hgncid	10483
+Ryanodine receptor  yanodine receptor 2 cardiac   1	hgncid	10484
+Ryanodine receptor  yanodine receptor 3   1	hgncid	10485
+Amelogenin	hgncid	461
+Amelogenin  , Y-linked   1	hgncid	462
+Enamelin	hgncid	3344
+Ameloblastin	hgncid	452
+Nitrilase	hgncid	7828
+Trehalase	hgncid	12266
+Interleukin 12  A   1	hgncid	5969
+Interleukin 12  B   1	hgncid	5970
+Aconitase	hgncid	117
+Aconitase  2, mitochondrial   1	hgncid	118
+CGMP-dependent protein kinase	hgncid	9414
+CGMP-dependent protein kinase  , cGMP-dependent, type II   1	hgncid	9416
+Beta amyloid	hgncid	620
+Protease-activated receptor	hgncid	3537
+Protease-activated receptor  coagulation factor II thrombin receptor-like 1   1	hgncid	3538
+Protease-activated receptor  coagulation factor II thrombin receptor-like 2   1	hgncid	3539
+Protease-activated receptor  coagulation factor II thrombin receptor-like 3   1	hgncid	3540
+Caveolin	hgncid	1527
+Caveolin  2   1	hgncid	1528
+Caveolin  3   1	hgncid	1529
+Pyruvate carboxylase	hgncid	8636
+T cell receptor	hgncid	12027
+T cell receptor  beta locus   1	hgncid	12155
+GABAB receptor	hgncid	4070
+GABAB receptor  gamma-aminobutyric acid GABA B receptor, 2   1	hgncid	4507
+Glycogenin	hgncid	4699
+Glycogenin  2   1	hgncid	4700
+Cyclophilin	hgncid	9253
+CD1	hgncid	1634
+CD1  b molecule   1	hgncid	1635
+CD1  c molecule   1	hgncid	1636
+CD1  d molecule   1	hgncid	1637
+CD1  e molecule   1	hgncid	1638
+Hepatocyte nuclear factor 4	hgncid	5024
+Hepatocyte nuclear factor 4  gamma   1	hgncid	5026
+CD8	hgncid	1706
+CD8  b molecule   1	hgncid	1707
+Beta-glucuronidase	hgncid	4696
+Acetyl-CoA carboxylase	hgncid	84
+Acetyl-CoA carboxylase  beta   1	hgncid	85
+NF-κB	hgncid	7794
+NF-κB  RELA   1	hgncid	9955
+NF-κB  NFKB2   1	hgncid	7795
+NF-κB  RELB   1	hgncid	9956
+NF-κB  REL   1	hgncid	9954
+GABAA-rho receptor	hgncid	4090
+GABAA-rho receptor  gamma-aminobutyric acid GABA receptor, rho 2   1	hgncid	4091
+GABAA-rho receptor  gamma-aminobutyric acid GABA receptor, rho 3   1	hgncid	17969
+Enteropeptidase	hgncid	9490
+Triosephosphate isomerase	hgncid	12009
+Hypoxia-inducible factors	hgncid	4910
+Hypoxia-inducible factors  aryl hydrocarbon receptor nuclear translocator   1	hgncid	700
+Hypoxia-inducible factors  endothelial PAS domain protein 1   1	hgncid	3374
+Hypoxia-inducible factors  aryl-hydrocarbon receptor nuclear translocator 2   1	hgncid	16876
+Hypoxia-inducible factors  hypoxia inducible factor 3, alpha subunit   1	hgncid	15825
+ACADVL	hgncid	92
+Endothelin	hgncid	3176
+Endothelin  2   1	hgncid	3177
+Endothelin  3   1	hgncid	3178
+Von Hippel-Lindau binding protein 1	hgncid	12662
+Glutamine synthetase	hgncid	4341
+GLUT2	hgncid	11006
+Transketolase	hgncid	11834
+Glycogen synthase	hgncid	4706
+Glycogen synthase  2 liver   1	hgncid	4707
+RLI	hgncid	69
+RNase L	hgncid	10050
+Thyroid peroxidase	hgncid	12015
+Growth hormone releasing hormone	hgncid	4265
+Collagen, type II, alpha 1	hgncid	2200
+Band 3  solute carrier family 4 anion exchanger , member 1  1	hgncid	13813
+Obestatin	hgncid	18129
+Melanin concentrating hormone	hgncid	9109
+Relaxin	hgncid	10026
+Relaxin  2   1	hgncid	10027
+Relaxin  3   1	hgncid	17135
+Histone H3	hgncid	4764
+Histone H3  histone, family 3B H3.3B   1	hgncid	4765
+Histone H4	hgncid	4780
+Spermidine synthase	hgncid	11296
+Stearoyl-CoA desaturase-1	hgncid	10571
+Complement component 5a	hgncid	1331
+Androgen-binding protein	hgncid	10839
+Hepcidin	hgncid	15598
+MART-1	hgncid	7124
+GDP-fucose protein O-fucosyltransferase 1	hgncid	14988
+GDP-fucose protein O-fucosyltransferase 2	hgncid	14683
+Separase	hgncid	16856
+ACADM	hgncid	89
+Argininosuccinate synthase	hgncid	758
+Argininosuccinate lyase	hgncid	746
+Holocarboxylase synthetase	hgncid	4976
+COL11A2	hgncid	2187
+TBX1	hgncid	11592
+Protoporphyrinogen oxidase	hgncid	9280
+Glycogen branching enzyme	hgncid	4180
+IKBKAP	hgncid	1874
+Sclerostin	hgncid	13771
+Citrate synthase	hgncid	2422
+MuSK protein	hgncid	7525
+Biliverdin reductase	hgncid	1062
+Biliverdin reductase  B   1	hgncid	1063
+Gonadotropin-releasing hormone receptor	hgncid	4421
+Gonadotropin-releasing hormone receptor  Gonadotropin-releasing hormone type 2 receptor 2   1	hgncid	16341
+Glycoprotein IIb/IIIa	hgncid	6138
+Glycoprotein IIb/IIIa  integrin, beta 3 platelet glycoprotein IIIa, antig  1	hgncid	6156
+Nebulin	hgncid	7720
+Shaker gene	hgncid	6221
+Human serum albumin	hgncid	399
+Nociceptin  prepronociceptin   1	hgncid	9163
+Fumarase	hgncid	3700
+Adipocyte protein 2	hgncid	3559
+Prolactin receptor	hgncid	9446
+Human placental lactogen	hgncid	2440
+Human placental lactogen  chorionic somatomammotropin hormone 2   1	hgncid	2441
+4-Hydroxyphenylpyruvate dioxygenase	hgncid	5147
+Hip-1	hgncid	4913
+Properdin	hgncid	8864
+Cytochrome b5	hgncid	2570
+Telokin	hgncid	7590
+Pancreatic polypeptide	hgncid	9327
+Calbindin	hgncid	1434
+Calbindin  2, 29kDa calretinin   1	hgncid	1435
+Histone H2B	hgncid	27867
+Filaggrin	hgncid	3748
+RAB27	hgncid	9766
+RAB27  B, member RAS oncogene family   1	hgncid	9767
+Phospholipid scramblase	hgncid	9092
+Phospholipid scramblase  2   1	hgncid	16494
+Phospholipid scramblase  3   1	hgncid	16495
+Phospholipid scramblase  4   1	hgncid	16497
+Phospholipid scramblase  family, member 5   1	hgncid	19952
+Fetuin	hgncid	349
+Fetuin  -B   1	hgncid	3658
+Sphingosine kinase	hgncid	11240
+Sphingosine kinase  2   1	hgncid	18859
+IRAK4	hgncid	17967
+Myosin light-chain kinase	hgncid	7590
+Myosin light-chain kinase  2, skeletal muscle   1	hgncid	16243
+Myosin light-chain kinase  3, cardiac   1	hgncid	29826
+Myosin light-chain kinase  Human Myosin Light-Chain Kinase   1	hgncid	27972
+Porphobilinogen synthase	hgncid	395
+CD72	hgncid	1696
+Sterol regulatory element-binding protein	hgncid	11289
+Sterol regulatory element-binding protein  sterol regulatory element-binding transcription fa  1	hgncid	11290
+KAL1 gene	hgncid	6211
+Hydrogen potassium ATPase	hgncid	819
+Hydrogen potassium ATPase  , H+/K+ exchanging, beta polypeptide   1	hgncid	820
+P300-CBP coactivator family	hgncid	3373
+P300-CBP coactivator family  CREB binding protein CBP   1	hgncid	2348
+Ku (protein)	hgncid	12833
+Ku (protein)  X-ray repaircross-complementing 6   1	hgncid	4055
+Vasopressin receptor	hgncid	895
+Vasopressin receptor  arginine vasopressin receptor 1B   1	hgncid	896
+Vasopressin receptor  arginine vasopressin receptor 2   1	hgncid	897
+N-Acetylglutamate synthase	hgncid	17996
+Frzb	hgncid	3959
+FcεRI	hgncid	3609
+FcεRI  high affinity IgE receptor; beta   1	hgncid	7316
+FcεRI  high affinity IgE receptor; gamma   1	hgncid	3611
+Steroidogenic acute regulatory protein	hgncid	11359
+Vesicular monoamine transporter 1	hgncid	10934
+Carbamoyl phosphate synthetase I	hgncid	2323
+Phospholipase D	hgncid	9067
+Phospholipase D  2   1	hgncid	9068
+Agouti signalling peptide	hgncid	745
+Guanylin	hgncid	4682
+Thyroid hormone receptor	hgncid	11796
+Thyroid hormone receptor  , beta erythroblastic leuk  1	hgncid	11799
+Inositol oxygenase	hgncid	14522
+PELP-1	hgncid	30134
+Macrophage inflammatory protein	hgncid	10627
+Macrophage inflammatory protein  chemokine C-C motif ligand 4   1	hgncid	10630
+Deoxyribonuclease II	hgncid	2960
+Deoxyribonuclease II  beta   1	hgncid	28875
+Collagenase	hgncid	7155
+Collagenase  matrix metallopeptidase 8 neutrophil collagenase   1	hgncid	7175
+Kell antigen system	hgncid	6308
+Ankyrin	hgncid	492
+Ankyrin  ANK2, neuronal   1	hgncid	493
+Ankyrin  ANK3, node of Ranvier   1	hgncid	494
+XK (protein)	hgncid	12811
+Beta-glucosidase	hgncid	19069
+Phosphoenolpyruvate carboxykinase	hgncid	8724
+Phosphoenolpyruvate carboxykinase  2 mitochondrial   1	hgncid	8725
+ACADS	hgncid	90
+ACADL	hgncid	88
+Cyclin B	hgncid	1579
+Cyclin B  2   1	hgncid	1580
+Cyclin B  3   1	hgncid	18709
+Cyclin E	hgncid	1589
+Cyclin E  2   1	hgncid	1590
+Cyclin A	hgncid	1577
+Cyclin A  2   1	hgncid	1578
+Arrestin	hgncid	10521
+Arrestin  beta 1   1	hgncid	711
+Arrestin  beta 2   1	hgncid	712
+Arrestin  3, retinal X-arrestin   1	hgncid	710
+Calcitonin gene-related peptide	hgncid	1437
+Calcitonin gene-related peptide  calcitonin-related polypeptide, beta   1	hgncid	1438
+Neuropeptide Y receptor	hgncid	7956
+Neuropeptide Y receptor  Y2   1	hgncid	7957
+Neuropeptide Y receptor  pancreatic polypeptide receptor 1   1	hgncid	9329
+Neuropeptide Y receptor  Y5   1	hgncid	7958
+Lipotropin	hgncid	9201
+Phosphoglycerate kinase	hgncid	8896
+Phosphoglycerate kinase  2   1	hgncid	8898
+Bisphosphoglycerate mutase	hgncid	1093
+Phosphoglycerate mutase	hgncid	8888
+Phosphoglycerate mutase  2 muscle   1	hgncid	8889
+Chordin	hgncid	1949
+Uroporphyrinogen III synthase	hgncid	12592
+Casein kinase 2	hgncid	2457
+Casein kinase 2  ,alpha prime polypeptide   1	hgncid	2459
+Casein kinase 2  ,beta polypeptide   1	hgncid	2460
+Lefty (protein)	hgncid	6552
+Lefty (protein)  left-right determination factor 2   1	hgncid	3122
+CDK-activating kinase	hgncid	1778
+Angiopoietin	hgncid	484
+Angiopoietin  2   1	hgncid	485
+BMPR2	hgncid	1078
+Endothelin receptor	hgncid	3179
+Endothelin receptor  type B   1	hgncid	3180
+Bradykinin receptor	hgncid	1029
+Bradykinin receptor  B2   1	hgncid	1030
+Alpha-Mannosidase	hgncid	6826
+Alpha-Mannosidase  , alpha, class 2B, member 2   1	hgncid	29623
+Alpha-Mannosidase  , alpha, class 2C, member 1   1	hgncid	6827
+Retinoic acid receptor	hgncid	9864
+Retinoic acid receptor  etinoic acid receptor beta   1	hgncid	9865
+Retinoic acid receptor  etinoic acid receptor gamma   1	hgncid	9866
+Hexosaminidase	hgncid	4878
+Hexosaminidase  β-hexosaminidase subunit beta   1	hgncid	4879
+Hexosaminidase  C   1	hgncid	7056
+Hexosaminidase  D   1	hgncid	26307
+Retinoid X receptor	hgncid	10477
+Retinoid X receptor  etinoid X receptor beta   1	hgncid	10478
+Retinoid X receptor  etinoid X receptor gamma   1	hgncid	10479
+Liver X receptor	hgncid	7966
+Liver X receptor  LXRβ nuclear receptor subfamily 1, group H, member  1	hgncid	7965
+Somatostatin receptor	hgncid	11330
+Somatostatin receptor  2   1	hgncid	11331
+Somatostatin receptor  3   1	hgncid	11332
+Somatostatin receptor  4   1	hgncid	11333
+Somatostatin receptor  5   1	hgncid	11334
+Parathyroid hormone receptor	hgncid	9608
+Parathyroid hormone receptor  parathyroid hormone 2 receptor   1	hgncid	9609
+Platelet-derived growth factor receptor	hgncid	8803
+Platelet-derived growth factor receptor  , beta poly  1	hgncid	8804
+Vasoactive intestinal peptide receptor	hgncid	12694
+Vasoactive intestinal peptide receptor  2   1	hgncid	12695
+Vasoactive intestinal peptide receptor  adenylate cyclase activating polypeptide 1 pituita  1	hgncid	242
+Tachykinin receptor	hgncid	11526
+Tachykinin receptor  2   1	hgncid	11527
+Tachykinin receptor  3   1	hgncid	11528
+Archain	hgncid	649
+Activin type 2 receptors	hgncid	173
+Activin type 2 receptors  activin A receptor, type IIB   1	hgncid	174
+Ribosome Recycling Factor	hgncid	7234
+Sterolin	hgncid	13886
+Sterolin  ATP-binding cassette, sub-family G WHITE , member   1	hgncid	13887
+CD98	hgncid	11026
+CD98  solute carrier family 7 member 5 cationic amino ac  1	hgncid	11063
+Sodium-glucose transport proteins	hgncid	11036
+Sodium-glucose transport proteins  olute carrier family 5 sodium/glucose cotransport  1	hgncid	11037
+Sodium-glucose transport proteins  olute carrier family 5 low affinity glucose cotra  1	hgncid	11039
+Transcobalamin	hgncid	11652
+Transcobalamin  II; macrocytic anemia   1	hgncid	11653
+Complement component 7	hgncid	1346
+Complement component 9	hgncid	1358
+Complement component 1R	hgncid	1246
+Complement component 1s	hgncid	1247
+Factor D	hgncid	2771
+C4b-binding protein	hgncid	1325
+C4b-binding protein  complement component 4 binding protein, beta   1	hgncid	1328
+Asialoglycoprotein receptor	hgncid	742
+Asialoglycoprotein receptor  2   1	hgncid	743
+Na-K-Cl cotransporter	hgncid	10910
+Na-K-Cl cotransporter  solute carrier family 12 sodium/potassium/chloride  1	hgncid	10911
+Neurturin	hgncid	8007
+IL-2 receptor	hgncid	6008
+IL-2 receptor  interleukin 2 receptor, beta   1	hgncid	6009
+IL-2 receptor  interleukin 2 receptor, gamma severe combined immu  1	hgncid	6010
+Lysyl hydroxylase	hgncid	9081
+Lysyl hydroxylase  procollagen-lysine, 2-oxoglutarate 5-dioxygenase 2  1	hgncid	9082
+Iduronidase	hgncid	5391
+Aryl hydrocarbon receptor repressor	hgncid	346
+Dihydropyrimidine dehydrogenase	hgncid	3012
+Ataxin 7	hgncid	10560
+Malonyl-CoA decarboxylase	hgncid	7150
+Vitamin K epoxide reductase	hgncid	23663
+Interleukin-3 receptor	hgncid	6012
+Interleukin-3 receptor  interleukin 3 receptor, Y-Chromosomal   1	hgncid	6012
+Villin	hgncid	12690
+Villin  2 ezrin   1	hgncid	12691
+Interleukin-1 receptor	hgncid	5993
+Interleukin-1 receptor  interleukin 1 receptor, type II   1	hgncid	5994
+Interleukin-1 receptor  interleukin 1 receptor accessory protein   1	hgncid	5995
+Estrogen related receptor	hgncid	3471
+Estrogen related receptor  estrogen-related receptor beta   1	hgncid	3473
+Estrogen related receptor  estrogen-related receptor gamma   1	hgncid	3474
+Aspartoacylase	hgncid	756
+Aspartoacylase  aminocyclase 3   1	hgncid	24104
+Geranylgeranyltransferase type 1	hgncid	3782
+Geranylgeranyltransferase type 1  GGTase 1 β-subunit protein geranylgeranyl- transfe  1	hgncid	8895
+Rab geranylgeranyltransferase	hgncid	9795
+Rab geranylgeranyltransferase  , beta subunit   1	hgncid	9796
+DNA clamp	hgncid	8729
+D-amino acid oxidase	hgncid	2671
+Hephaestin	hgncid	4866
+Duodenal cytochrome B	hgncid	20797
+CD3 (immunology)	hgncid	1673
+CD3 (immunology)  CD3e molecule, epsilon   1	hgncid	1674
+CD3 (immunology)  CD3g molecule, gamma   1	hgncid	1675
+Monoacylglycerol lipase	hgncid	17038
+Diacylglycerol lipase	hgncid	1165
+Diacylglycerol lipase  , beta   1	hgncid	28923
+Arylsulfatase B	hgncid	714
+Emopamil binding protein	hgncid	3133
+Glyceronephosphate O-acyltransferase	hgncid	4416
+Alkylglycerone phosphate synthase	hgncid	327
+P14arf	hgncid	1787
+3-beta-HSD	hgncid	5217
+3-beta-HSD  hydroxy-Δ-5-steroid dehydrogenase,3β- and steroid   1	hgncid	5218
+Extracellular signal-regulated kinases	hgncid	6871
+Extracellular signal-regulated kinases  mitogen-activated protein kinase 3   1	hgncid	6877
+Azoospermia factor	hgncid	908
+Neuroglobin	hgncid	6553
+Cation channels of sperm	hgncid	17116
+Cation channels of sperm  cation channel, sperm associated 2   1	hgncid	18810
+Cation channels of sperm  cation channel, sperm associated 3   1	hgncid	20819
+Cation channels of sperm  cation channel, sperm associated 4   1	hgncid	23220
+Two-pore channel	hgncid	18182
+Two-pore channel  two pore segment channel 2   1	hgncid	20820
+Transporter associated with antigen processing	hgncid	43
+Transporter associated with antigen processing  transporter 2, ATP-binding cassette, sub-family B   1	hgncid	44
+Recombination activating gene	hgncid	9831
+Recombination activating gene  2   1	hgncid	9832
+FAAH	hgncid	3553
+Calsequestrin	hgncid	1512
+Calsequestrin  2 cardiac muscle   1	hgncid	1513
+Sodium-calcium exchanger	hgncid	11068
+Sodium-calcium exchanger  solute carrier family 8 sodium-calcium exchanger ,  1	hgncid	11069
+Sodium-calcium exchanger  solute carrier family 8 sodium-calcium exchanger ,  2	hgncid	11070
+Lymphotoxin	hgncid	6709
+Lymphotoxin  beta TNF superfamily, member 3   1	hgncid	6711
+Glia maturation factor	hgncid	4373
+Glia maturation factor  , gamma   1	hgncid	4374
+Apoptosis-inducing factor	hgncid	8768
+Chimerin 1	hgncid	1943
+Son of Sevenless	hgncid	11187
+Son of Sevenless  on of sevenless homolog 2 Drosophila   1	hgncid	11188
+Neurocalcin	hgncid	7655
+Recoverin	hgncid	9937
+Myelin-associated glycoprotein	hgncid	6783
+Neuropilin	hgncid	8004
+Neuropilin  europilin 2   1	hgncid	8005
+Bactericidal/permeability increasing protein	hgncid	1095
+C-Jun N-terminal kinases	hgncid	6881
+C-Jun N-terminal kinases  mitogen-activated protein kinase 9   1	hgncid	6886
+C-Jun N-terminal kinases  mitogen-activated protein kinase 10   1	hgncid	6872
+P38 mitogen-activated protein kinases	hgncid	6873
+P38 mitogen-activated protein kinases  mitogen-activated protein kinase 12   1	hgncid	6874
+P38 mitogen-activated protein kinases  mitogen-activated protein kinase 13   1	hgncid	6875
+P38 mitogen-activated protein kinases  mitogen-activated protein kinase 14   1	hgncid	6876
+Olfactory marker protein	hgncid	8136
+ATP-sensitive potassium channel	hgncid	6269
+ATP-sensitive potassium channel  potassium inwardly-rectifying channel, subfamily J  1	hgncid	6257
+ATP-sensitive potassium channel  ATP-binding cassette, sub-family C CFTR/MRP , memb  1	hgncid	59
+ATP-sensitive potassium channel  ATP-binding cassette, sub-family C CFTR/MRP , memb  2	hgncid	60
+Phospholipase B	hgncid	30041
+Calponin	hgncid	2155
+Calponin  2   1	hgncid	2156
+Calponin  3, acidic   1	hgncid	2157
+Orosomucoid	hgncid	8498
+Orosomucoid  2   1	hgncid	8499
+Pannexin	hgncid	8599
+Pannexin  2   1	hgncid	8600
+Pannexin  3   1	hgncid	20573
+Destrin	hgncid	15750
+CCL28	hgncid	17700
+MCEF	hgncid	17869
+Presenilin	hgncid	9508
+Presenilin  2 Alzheimer's disease 4   1	hgncid	9509
+Interleukin 33	hgncid	16028
+Interleukin 32	hgncid	16830
+Interleukin 30	hgncid	19157
+Interleukin 28	hgncid	18364
+Interleukin 28  B   1	hgncid	18365
+Interleukin 27	hgncid	19157
+Interleukin 27  Epstein-Barr virus induced 3   1	hgncid	3129
+Interleukin 20	hgncid	6002
+PDE3	hgncid	8778
+PDE3  phosphodiesterase 3B, cGMP-inhibited   1	hgncid	8779
+Interleukin 14	hgncid	5976
+Interleukin 17	hgncid	5981
+Interleukin 17  B   1	hgncid	5982
+Interleukin 17  C   1	hgncid	5983
+Interleukin 17  D   1	hgncid	5984
+Interleukin 17  E   1	hgncid	13765
+Interleukin 17  F   1	hgncid	16404
+Interleukin 19	hgncid	5990
+Tryptophan hydroxylase	hgncid	12008
+Tryptophan hydroxylase  2   1	hgncid	20692
+Serum amyloid A	hgncid	10513
+Serum amyloid A  Human Serum amyloid A2   1	hgncid	10514
+Serum amyloid A  Human Serum amyloid A3, pseudogene   1	hgncid	10515
+Serum amyloid A  Human Serum amyloid A4   1	hgncid	10516
+Melatonin receptor	hgncid	7463
+Melatonin receptor  1B   1	hgncid	7464
+CCL1	hgncid	10609
+Enoyl-CoA hydratase	hgncid	3247
+ATP citrate lyase	hgncid	115
+Inorganic pyrophosphatase	hgncid	9226
+Inorganic pyrophosphatase  inorganic 2   1	hgncid	28883
+Sodium/phosphate cotransporter	hgncid	11019
+Pyruvate dehydrogenase	hgncid	8806
+Pyruvate dehydrogenase  lipoamide alpha 2   1	hgncid	8807
+Pyruvate dehydrogenase  lipoamide beta   1	hgncid	8808
+Propionyl-CoA carboxylase	hgncid	8653
+Propionyl-CoA carboxylase  propionyl Coenzyme A carboxylase, beta polypeptide  1	hgncid	8654
+Podocin	hgncid	13394
+CCL13	hgncid	10611
+CCL25	hgncid	10624
+Complement receptor of the immunoglobulin family	hgncid	17032
+Fibrocystin	hgncid	9016
+CCL14	hgncid	10612
+CCL18	hgncid	10616
+CCL15	hgncid	10613
+CCL16	hgncid	10614
+C1Q complex	hgncid	1241
+C1Q complex  complement component 1, q subcomponent, B chain   1	hgncid	1242
+C1Q complex  complement component 1, q subcomponent, C chain   1	hgncid	1245
+Glutathione synthetase	hgncid	4624
+CCL23	hgncid	10622
+CCL24	hgncid	10623
+CCL26	hgncid	10625
+CCL27	hgncid	10626
+CXCL2	hgncid	4603
+CXCL3	hgncid	4604
+Heterochromatin protein 1	hgncid	1555
+Heterochromatin protein 1  chromobox homolog 1   1	hgncid	1551
+Heterochromatin protein 1  chromobox homolog 3   1	hgncid	1553
+Myophosphorylase	hgncid	9726
+Paracaspase	hgncid	6819
+CXCL14	hgncid	10640
+SORL1	hgncid	11185
+Methylcrotonyl-CoA carboxylase	hgncid	6936
+Methylcrotonyl-CoA carboxylase  methylcrotonoyl-Coenzyme A carboxylase 2 beta   1	hgncid	6937
+Scleraxis	hgncid	24312
+Scleraxis  cleraxis homolog B mouse   1	hgncid	32322
+Procollagen peptidase	hgncid	8740
+Type-II collagen	hgncid	2200
+Type-I collagen	hgncid	2197
+Type-I collagen  , type I, alpha 2   1	hgncid	2198
+Neurokinin A	hgncid	11517
+Phenylethanolamine N-methyltransferase	hgncid	9160
+Neurogranin	hgncid	8000
+NOEY2	hgncid	687
+Microtubule nucleation	hgncid	12417
+Neurotensin receptor	hgncid	8039
+Neurotensin receptor  2   1	hgncid	8040
+Neurotensin receptor  sortilin 1   1	hgncid	11186
+Galanin receptor	hgncid	4132
+Galanin receptor  2   1	hgncid	4133
+Galanin receptor  3   1	hgncid	4134
+Corticotropin-releasing hormone receptor	hgncid	2357
+Corticotropin-releasing hormone receptor  corticotropin releasing hormone receptor 2   1	hgncid	2358
+TGF beta receptors	hgncid	11772
+TGF beta receptors  transforming growth factor beta, receptor type II   1	hgncid	11773
+TGF beta receptors  transforming growth factor beta, receptor type III  1	hgncid	11774
+TGF beta 3	hgncid	11769
+Sarcalumenin	hgncid	11295
+Parvalbumin	hgncid	9704
+Cocaine and amphetamine regulated transcript	hgncid	24323
+LSD1	hgncid	29079
+Rhodopsin kinase	hgncid	10013
+Serotonin N-acetyl transferase	hgncid	19
+Sucrase-isomaltase	hgncid	10856
+CAD (gene)	hgncid	1424
+Dihydroorotate dehydrogenase	hgncid	2867
+Transferrin receptor	hgncid	11763
+Transferrin receptor  2   1	hgncid	11762
+Atrial natriuretic peptide receptor	hgncid	7943
+Atrial natriuretic peptide receptor  B/ guanylate cyclase   1	hgncid	7944
+Atrial natriuretic peptide receptor  C/ guanylate cyclase   1	hgncid	7945
+GLUT3	hgncid	11007
+Adenine nucleotide translocator	hgncid	10990
+Adenine nucleotide translocator  solute carrier family 25 mitochondrial carrier; ad  1	hgncid	10991
+Adenine nucleotide translocator  solute carrier family 25 mitochondrial carrier; ad  2	hgncid	10992
+Neurophysin II	hgncid	894
+Growth hormone-binding protein	hgncid	4263
+Oct-2	hgncid	9213
+Laforin	hgncid	3413
+Sorbitol dehydrogenase	hgncid	11184
+N-Acetylglucosamine receptor	hgncid	5046
+Complement component 4	hgncid	1323
+Complement component 4  B Childo blood group   1	hgncid	1324
+Chymase	hgncid	2097
+Serum and glucocorticoid induced kinase	hgncid	10810
+Channel-inducing factor 4	hgncid	4028
+Sialoadhesin	hgncid	11127
+BMAL	hgncid	701
+BMAL  aryl hydrocarbon receptor nuclear translocator-lik  1	hgncid	18984
+Butyryl CoA dehydrogenase	hgncid	90
+Acetolactate synthase	hgncid	6041
+Timeless (gene)	hgncid	11813
+Myf6	hgncid	7566
+Cellular apoptosis susceptibility protein	hgncid	2431
+CD33	hgncid	1659
+Interferon-alpha/beta receptor	hgncid	5432
+Interferon-alpha/beta receptor  interferon alpha, beta and omega receptor 2   1	hgncid	5433
+Interferon-gamma receptor	hgncid	5439
+Interferon-gamma receptor  interferon gamma receptor 2 interferon gamma trans  1	hgncid	5440
+Glutaryl-CoA dehydrogenase	hgncid	4189
+Apolipoprotein A2	hgncid	601
+Glycerol kinase	hgncid	4289
+Acetyl-CoA C-acyltransferase	hgncid	82
+Acetyl-CoA C-acyltransferase  acetyl-CoA acyltransferase 2 mitochondrial   1	hgncid	83
+Acetyl-CoA C-acyltransferase  hydroxyacyl-CoA dehydrogenase/3-ketoacyl-CoA thiol  1	hgncid	4803
+Formyl peptide receptor	hgncid	3826
+Formyl peptide receptor  -like 1   1	hgncid	3827
+Formyl peptide receptor  -like 2   1	hgncid	3828
+Vesicular acetylcholine transporter	hgncid	10936
+T-type calcium channel	hgncid	1394
+T-type calcium channel  , voltage-dependent, T type, alpha   1	hgncid	1395
+T-type calcium channel  , voltage-dependent, T type, alpha   2	hgncid	1396
+Q-type calcium channel	hgncid	1388
+P-type calcium channel	hgncid	1388
+Granin	hgncid	1929
+Granin  chromogranin B secretogranin 1   1	hgncid	1930
+Granin  secretogranin II chromogranin C   1	hgncid	10575
+Granin  secretogranin III FLJ90833   1	hgncid	13707
+Granin  secretogranin V 7B2 protein   1	hgncid	10816
+OX40L	hgncid	11934
+CD70	hgncid	11937
+CD153	hgncid	11938
+EEA1	hgncid	3185
+NPAS3	hgncid	19311
+CC chemokine receptors	hgncid	1602
+CC chemokine receptors  CCR2   1	hgncid	1603
+CC chemokine receptors  CCR3   1	hgncid	1604
+CC chemokine receptors  CCR4   1	hgncid	1605
+CC chemokine receptors  CCR5   1	hgncid	1606
+CC chemokine receptors  CCR6   1	hgncid	1607
+CC chemokine receptors  CCR7   1	hgncid	1608
+CC chemokine receptors  CCR8   1	hgncid	1609
+CC chemokine receptors  CCR9   1	hgncid	1610
+CC chemokine receptors  CCR10   1	hgncid	4474
+Ras-GRF1	hgncid	9875
+Odorant binding protein	hgncid	23380
+Odorant binding protein  2B   1	hgncid	23381
+STRA6	hgncid	30650
+Synaptojanin	hgncid	11503
+Synaptojanin  2   1	hgncid	11504
+Low-molecular-weight kininogen	hgncid	6383
+Cyclin D	hgncid	1582
+Cyclin D  2   1	hgncid	1583
+Cyclin D  3   1	hgncid	1585
+Pleckstrin	hgncid	9070
+Transcription factor II H	hgncid	4655
+Transcription factor II H  general transcription factor IIH, polypeptide 2, 4  1	hgncid	4656
+Transcription factor II H  general transcription factor IIH, polypeptide 3, 3  1	hgncid	4657
+Long-chain-aldehyde dehydrogenase	hgncid	403
+3-hydroxy-3-methylglutaryl-CoA lyase	hgncid	5005
+Neuromedin B	hgncid	7842
+Melanin-concentrating hormone receptor	hgncid	4479
+Melanin-concentrating hormone receptor  2   1	hgncid	20867
+LEM domain-containing protein 3	hgncid	28887
+Lamin B	hgncid	6637
+Lamin B  2   1	hgncid	6638
+Zinc metalloproteinase STE24	hgncid	12877
+Long-chain-fatty-acid—CoA ligase	hgncid	3569
+Type XVIII collagen	hgncid	2195
+CXCL6	hgncid	10643
+CXCL16	hgncid	16642
+XCL1	hgncid	10645
+XCL2	hgncid	10646
+Phospholipase A1	hgncid	17661
+ERM transcription factor	hgncid	3494
+APH-1	hgncid	29509
+APH-1  anterior pharynx defective 1 homolog B C. elegans   1	hgncid	24080
+PEN-2	hgncid	30100
+Aldehyde oxidase	hgncid	553
+FXYD6	hgncid	4030
+2-hydroxyphytanoyl-CoA lyase	hgncid	17856
+ALMS1	hgncid	428
+STAT5	hgncid	11366
+STAT5  signal transducer and activator of transcription 5  1	hgncid	11367
+Mannose receptor	hgncid	7228
+Mannose receptor  , C type 2   1	hgncid	16875
+CD52	hgncid	1804
+Sulfonylurea receptor	hgncid	59
+Sulfonylurea receptor  ATP-binding cassette, sub-family C CFTR/MRP , memb  1	hgncid	60
+Fascin	hgncid	11148
+Fascin  homolog, retinal   1	hgncid	3960
+Fascin  homolog 3, testicular   1	hgncid	3961
+GLYCAM1	hgncid	18023
+CD79	hgncid	1698
+CD79  b molecule, immunoglobulin-associated beta   1	hgncid	1699
+CD68	hgncid	1693
+PHLPP	hgncid	20610
+PHLPP  H domain and leucine rich repeat protein phosphat  1	hgncid	29149
+Glutaminase	hgncid	4331
+Glutaminase  2 liver, mitochondrial   1	hgncid	29570
+HADHA	hgncid	4801
+Lysosomal lipase	hgncid	6617
+VEGF receptors	hgncid	3763
+VEGF receptors  kinase insert domain receptor a type III receptor   1	hgncid	6307
+VEGF receptors  fms-related tyrosine kinase 4   1	hgncid	3767
+Persephin	hgncid	9579
+Angiopoietin receptor	hgncid	11809
+Angiopoietin receptor  TEK tyrosine kinase, endothelial   1	hgncid	11724
+Lysosomal trafficking regulator	hgncid	1968
+Serine hydroxymethyltransferase	hgncid	10850
+Serine hydroxymethyltransferase  rine hydroxymethyltransferase 2 mitochondrial   1	hgncid	10852
+Phosphogluconate dehydrogenase	hgncid	8891
+Transaldolase	hgncid	11559
+Phosphopentose isomerase	hgncid	10297
+C8 complex	hgncid	1352
+C8 complex  complement component 8, beta polypeptide   1	hgncid	1353
+C8 complex  complement component 8, gamma polypeptide   1	hgncid	1354
+Talin protein	hgncid	11845
+Talin protein  talin 2   1	hgncid	15447
+UTP—glucose-1-phosphate uridylyltransferase	hgncid	12526
+UTP—glucose-1-phosphate uridylyltransferase  UDP&ndash;glucose pyrophosphorylase 2   1	hgncid	12527
+6-phosphogluconolactonase	hgncid	8903
+CD64 (biology)	hgncid	3613
+CD64 (biology)  Fc fragment of IgG, high affinity Ib, receptor CD6  1	hgncid	3614
+CD64 (biology)  Fc fragment of IgG, high affinity Ic, receptor CD6  1	hgncid	3615
+CD16	hgncid	3619
+CD16  Fc fragment of IgG, low affinity IIIb, receptor CD  1	hgncid	3620
+Neonatal Fc receptor	hgncid	3621
+Fcα/μR	hgncid	24692
+Peroxin-7	hgncid	8860
+CYP3A7	hgncid	2640
+ITCH (biology)	hgncid	13890
+Carnitine palmitoyltransferase I	hgncid	2328
+Carnitine palmitoyltransferase I  carnitine palmitoyltransferase 1B muscle   1	hgncid	2329
+Carnitine palmitoyltransferase I  carnitine palmitoyltransferase 1C brain   1	hgncid	18540
+PDIA3	hgncid	4606
+KLRA1	hgncid	6372
+NKG2	hgncid	6374
+4-1BB ligand	hgncid	11939
+Biotinidase	hgncid	1122
+Ribosomal protein s6	hgncid	10429
+STARD3	hgncid	17579
+CD58	hgncid	1688
+Delta catenin	hgncid	2515
+Delta catenin  cadherin-associated protein , delta 2 neur  1	hgncid	2516
+Alpha catenin	hgncid	2509
+Alpha catenin  cadherin-associated protein , alpha 2   1	hgncid	2510
+Alpha catenin  cadherin-associated protein , alpha 3   1	hgncid	2511
+Urotensin-II    1	hgncid	12636
+Potassium-dependent sodium-calcium exchanger	hgncid	10975
+Potassium-dependent sodium-calcium exchanger  solute carrier family 24, member 2   1	hgncid	10976
+Potassium-dependent sodium-calcium exchanger  solute carrier family 24, member 3   1	hgncid	10977
+Potassium-dependent sodium-calcium exchanger  solute carrier family 24, member 4   1	hgncid	10978
+Potassium-dependent sodium-calcium exchanger  solute carrier family 24, member 5   1	hgncid	20611
+Potassium-dependent sodium-calcium exchanger  solute carrier family 24, member 6   1	hgncid	26175
+Beta-ketoacyl-ACP synthase	hgncid	26063
+3-Hydroxyacyl ACP dehydrase	hgncid	3247
+2,4 Dienoyl-CoA reductase	hgncid	2753
+Farnesyl-diphosphate farnesyltransferase	hgncid	3629
+Lanosterol 14 alpha-demethylase	hgncid	2649
+Isopentenyl-diphosphate delta isomerase	hgncid	5387
+HMG-CoA synthase	hgncid	5007
+HMG-CoA synthase  3-hydroxy-3-methylglutaryl-Coenzyme A synthase 2 m  1	hgncid	5008
+Phosphomevalonate kinase	hgncid	9141
+Pyrophosphomevalonate decarboxylase	hgncid	7529
+L-xylulose reductase	hgncid	18985
+Homogentisate 1,2-dioxygenase	hgncid	4892
+WS2B	hgncid	12794
+Thiamine triphosphatase	hgncid	18987
+Ornithine translocase	hgncid	10985
+Carnitine-acylcarnitine translocase	hgncid	1421
+Glycerol-3-phosphate dehydrogenase	hgncid	4455
+Glycerol-3-phosphate dehydrogenase  2 mitochondrial  1	hgncid	4456
+TRIF	hgncid	18348
+Methylmalonyl CoA epimerase	hgncid	16732
+ACADSB	hgncid	91
+Mannose 6-phosphate receptor	hgncid	6752
+Mannose 6-phosphate receptor  Cation-independent mannose-6 phosphate receptor   1	hgncid	5467
+Caspase 4	hgncid	1505
+Prostaglandin transporter	hgncid	10955
+Prostaglandin E synthase	hgncid	9599
+Prostaglandin E synthase  2 microsomal   1	hgncid	17822
+Prostaglandin E synthase  3 cytosolic   1	hgncid	16049
+Caspase 5	hgncid	1506
+Acyltransferase like 2	hgncid	25718
+Alpha-N-acetylglucosaminidase	hgncid	7632
+N-acetylglucosamine-6-sulfatase	hgncid	4422
+Mannose phosphate isomerase	hgncid	7216
+Hepatic fructokinase	hgncid	6315
+Dimethylallyltranstransferase	hgncid	3631
+Caspase 12	hgncid	19004
+Receptor activity-modifying protein	hgncid	9843
+Receptor activity-modifying protein  2   1	hgncid	9844
+Receptor activity-modifying protein  3   1	hgncid	9845
+HLA-DM	hgncid	4934
+HLA-DM  ajor histocompatibility complex, class II, DM bet  1	hgncid	4935
+Hepatocyte nuclear factors	hgncid	11621
+Hepatocyte nuclear factors  hepatocyte nuclear factor 1, beta   1	hgncid	11630
+Hepatocyte nuclear factors  hepatocyte nuclear factor 3,alpha   1	hgncid	5021
+Hepatocyte nuclear factors  hepatocyte nuclear factor 3,beta   1	hgncid	5022
+Hepatocyte nuclear factors  hepatocyte nuclear factor 3,gamma   1	hgncid	5023
+Hepatocyte nuclear factors  hepatocyte nuclear factor 4alpha   1	hgncid	5024
+Hepatocyte nuclear factors  hepatocyte nuclear factor 4gamma   1	hgncid	5026
+Hepatocyte nuclear factors  hepatocyte nuclear factor 6, alpha   1	hgncid	8138
+Hepatocyte nuclear factors  hepatocyte nuclear factor 6, beta   1	hgncid	8139
+Carboxypeptidase B	hgncid	2299
+Carboxypeptidase B  2 plasma   1	hgncid	2300
+Methionine adenosyltransferase	hgncid	6903
+Methionine adenosyltransferase  II, alpha   1	hgncid	6904
+Methionine adenosyltransferase  II, beta   1	hgncid	6905
+Glutamyl aminopeptidase	hgncid	3355
+Leucyl aminopeptidase	hgncid	18449
+Carbamoyl phosphate synthase II	hgncid	1424
+Dihydroorotase	hgncid	1424
+IMP dehydrogenase	hgncid	6052
+IMP dehydrogenase  2   1	hgncid	6053
+GMP reductase	hgncid	4376
+GMP reductase  guanosine monophosphate reductase 2   1	hgncid	4377
+Adenylosuccinate lyase	hgncid	291
+Adenylosuccinate synthase	hgncid	292
+Adenylosuccinate synthase  like 1   1	hgncid	20093
+TIRAP	hgncid	17192
+Period (gene)	hgncid	8845
+Period (gene)  period homolog 2 Drosophila   1	hgncid	8846
+Period (gene)  period homolog 3 Drosophila   1	hgncid	8847
+CLEC4C	hgncid	13258
+Polynucleotide phosphorylase	hgncid	23166
+Serine dehydratase	hgncid	10691
+Conglutinin	hgncid	2222
+Conglutinin  1   1	hgncid	1904
+Surfactant protein A	hgncid	10798
+Surfactant protein A  surfactant, pulmonary-associated protein A2B   1	hgncid	10799
+Surfactant protein B	hgncid	10801
+Surfactant protein C	hgncid	10802
+Collectin liver 1	hgncid	2220
+Ornithine aminotransferase	hgncid	8091
+Branched chain aminotransferase	hgncid	977
+SLC39A4	hgncid	17129
+Ribose-phosphate diphosphokinase	hgncid	9462
+Ribose-phosphate diphosphokinase  phosphoribosyl pyrophosphate synthetase 2   1	hgncid	9465
+Uracil phosphoribosyltransferase	hgncid	28334
+Guanine deaminase	hgncid	4212
+Adenosylhomocysteinase	hgncid	343
+Cystathionine gamma-lyase	hgncid	2501
+Adenosylmethionine decarboxylase	hgncid	457
+Phosphoribosylaminoimidazole carboxylase	hgncid	8587
+Folliculin	hgncid	27310
+Tyrosine aminotransferase	hgncid	11573
+Tyrosylprotein sulfotransferase	hgncid	12020
+Tyrosylprotein sulfotransferase  2   1	hgncid	12021
+Iron-responsive element-binding protein	hgncid	117
+Iron-responsive element-binding protein  2   1	hgncid	6115
+Serine racemase	hgncid	14398
+RAI1	hgncid	9834
+SLC7A9	hgncid	11067
+Formiminotransferase cyclodeaminase	hgncid	3974
+Amine oxidase	hgncid	80
+Histamine N-methyltransferase	hgncid	5028
+Saccharopine dehydrogenase	hgncid	24275
+Asparagine synthetase	hgncid	753
+NBR2	hgncid	20691
+N-acetylglucosamine-1-phosphate transferase	hgncid	29670
+N-acetylglucosamine-1-phosphate transferase  , gamma  1	hgncid	23026
+Epididymal secretory protein E1	hgncid	14537
+Methylglutaconyl-CoA hydratase	hgncid	890
+Citrin	hgncid	10983
+Transcription factor II A	hgncid	4646
+Transcription factor II A  general transcription factor IIA, 2, 12kDa   1	hgncid	4647
+CD120	hgncid	11916
+CD120  tumor necrosis factor receptor superfamily, member  1	hgncid	11917
+ETM2 (gene)	hgncid	3487
+ETM1	hgncid	3486
+DCMP deaminase	hgncid	2710
+Aminomethyltransferase	hgncid	473 AMT
+Cardiotrophin 1	hgncid	2499
+CSF2RB	hgncid	2436
+Anti-Müllerian hormone receptor	hgncid	465
+Latent TGF-beta binding protein	hgncid	6714
+Latent TGF-beta binding protein  latent transforming growth factor beta binding pro  1	hgncid	6715
+Latent TGF-beta binding protein  latent transforming growth factor beta binding pro  2	hgncid	6716
+Latent TGF-beta binding protein  latent transforming growth factor beta binding pro  3	hgncid	6717
+Gremlin (protein)	hgncid	2001
+Gremlin (protein)  gremlin 2, cysteine knot superfamily, homolog Xeno  1	hgncid	17655
+Polypyrimidine tract-binding protein	hgncid	9583
+Polypyrimidine tract-binding protein  polypyrimidine tract binding protein 2   1	hgncid	17662
+Nuclear cap-binding protein complex	hgncid	7658
+Nuclear cap-binding protein complex  Nuclear cap binding protein subunit 2, 20kDa   1	hgncid	7659
+BRN-3	hgncid	9218
+BRN-3  POU class 4 homeobox 2   1	hgncid	9219
+BRN-3  POU class 4 homeobox 3   1	hgncid	9220
+Translocated promoter region	hgncid	12017
+Epigen	hgncid	17470
+Gustducin	hgncid	22800
+Gustducin  guanine nucleotide binding protein G protein , bet  1	hgncid	4396
+Gustducin  guanine nucleotide binding protein G protein , gam  1	hgncid	14131
+Gs alpha subunit	hgncid	4392
+Gq alpha subunit	hgncid	4390
+Gq alpha subunit  guanine nucleotide binding protein G protein , alp  1	hgncid	4379
+Gq alpha subunit  guanine nucleotide binding protein G protein , alp  2	hgncid	4382
+Gq alpha subunit  guanine nucleotide binding protein G protein , alp  3	hgncid	4383
+TRPA (channel)	hgncid	497
+Gi alpha subunit	hgncid	4384
+Gi alpha subunit  guanine nucleotide-binding protein G protein , alp  1	hgncid	4385
+Gi alpha subunit  guanine nucleotide-binding protein G protein , alp  2	hgncid	4387
+STAT4	hgncid	11365
+NPAS1	hgncid	7894
+G12/G13 alpha subunits	hgncid	4380
+G12/G13 alpha subunits  guanine nucleotide-binding protein G protein , alp  1	hgncid	4381
+Rap GTP-binding protein	hgncid	9855
+Rap GTP-binding protein  RAP1B,member of RAS oncogene family   1	hgncid	9857
+XRN1	hgncid	30654
+NIPBL	hgncid	28862
+ATP2A2	hgncid	812
+Leprecan	hgncid	19316
+RAR-related orphan receptor	hgncid	10258
+RAR-related orphan receptor  AR-related orphan receptor B beta   1	hgncid	10259
+RAR-related orphan receptor  AR-related orphan receptor C gamma   1	hgncid	10260
+Rev-ErbA	hgncid	7962
+Rev-ErbA  nuclear receptor subfamily 1, group D, member 2   1	hgncid	7963
+Testicular receptor	hgncid	7971
+Testicular receptor  nuclear receptor subfamily 2, group C, member 2   1	hgncid	7972
+Chicken ovalbumin upstream promoter-transcription factor	hgncid	7975
+Chicken ovalbumin upstream promoter-transcription factor  nuclear receptor subfamily 2, group F, member 2   1	hgncid	7976
+NSD1	hgncid	14234
+Syncoilin	hgncid	28897
+Synemin	hgncid	24466
+Sarcospan	hgncid	11322
+Nebulette	hgncid	16932
+SH3BP2	hgncid	10825
+HPLH1	hgncid	23824
+Keratin 6B	hgncid	6444
+CARM1	hgncid	23393
+CARM1  coactivator associated arginine methyltransferase   1	hgncid	23392
+Dystrobrevin	hgncid	3057
+Dystrobrevin  , beta   1	hgncid	3058
+KLF1	hgncid	6345
+GLUT8	hgncid	13812
+Transcription factor II E	hgncid	4650
+Transcription factor II E  general transcription factor IIE, polypeptide 2, b  1	hgncid	4651
+Transcription factor II F	hgncid	4652
+Transcription factor II F  general transcription factor IIF, polypeptide 2, 3  1	hgncid	4653
+Transcription factor II F  general transcription factor IIF, polypeptide 2-li  1	hgncid	4654
+Nucleoporin 210kDa	hgncid	30052
+Sp100 nuclear antigen	hgncid	11206
+Activating protein 2	hgncid	11742
+Activating protein 2  transcription factor AP-2 beta activating enhancer  1	hgncid	11743
+Activating protein 2  transcription factor AP-2 gamma activating enhance  1	hgncid	11744
+Activating protein 2  transcription factor AP-2 delta activating enhance  1	hgncid	15581
+Activating protein 2  transcription factor AP-2 epsilon activating enhan  1	hgncid	30774
+GLUT5	hgncid	11010
+Electron-transferring-flavoprotein dehydrogenase	hgncid	3483
+P87PIKAP	hgncid	27101
+Group 1 CD1	hgncid	1634
+Group 1 CD1  b molecule   1	hgncid	1635
+Group 1 CD1  c molecule   1	hgncid	1636
+EVC2	hgncid	19747
+EVC (gene)	hgncid	3497
+Diglyceride acyltransferase	hgncid	2843
+Diglyceride acyltransferase  diacylglycerol O-acyltransferase homolog 2 mouse   1	hgncid	16940
+D-amino acid oxidase activator	hgncid	21191
+Neuromedin N  euromedin N   1	hgncid	8038
+IL22RA2	hgncid	14901
+EGF module-containing mucin-like hormone receptor	hgncid	3336
+EGF module-containing mucin-like hormone receptor  egf-like module containing, mucin-like, hormone re  1	hgncid	3337
+EGF module-containing mucin-like hormone receptor  egf-like module containing, mucin-like, hormone re  2	hgncid	23647
+EGF module-containing mucin-like hormone receptor  egf-like module containing, mucin-like, hormone re  3	hgncid	19240
+Fukutin-related protein	hgncid	17997
+Orexin receptor	hgncid	4848
+Orexin receptor  hypocretin orexin receptor 2   1	hgncid	4849
+Neuromedin U receptor	hgncid	4518
+Neuromedin U receptor  2   1	hgncid	16454
+Prokineticin receptor	hgncid	4524
+Prokineticin receptor  2   1	hgncid	15836
+Prokineticin	hgncid	18454
+Prokineticin  2   1	hgncid	18455
+Free fatty acid receptor	hgncid	4498
+Free fatty acid receptor  2   1	hgncid	4501
+Free fatty acid receptor  3   1	hgncid	4499
+Free fatty acid receptor  G protein-coupled receptor 42   1	hgncid	4500
+SREB	hgncid	4482
+SREB  G protein-coupled receptor 85   1	hgncid	4536
+SREB  G protein-coupled receptor 173   1	hgncid	18186
+Neuromedin U	hgncid	7859
+HMGA	hgncid	5010
+HMGA  high mobility group AT-hook 2   1	hgncid	5009
+WDTC1	hgncid	29175
+CDGSH iron sulfur domain	hgncid	30880
+CDGSH iron sulfur domain  1B   1	hgncid	29611
+CDGSH iron sulfur domain  2   1	hgncid	24212
+CDGSH iron sulfur domain  3   1	hgncid	27578
+TIA1	hgncid	11802
+ICAM4	hgncid	5347
+Formins	hgncid	3768
+Formins  formin 2   1	hgncid	14074
+Retinoic acid-inducible orphan G protein-coupled receptor	hgncid	9836
+Retinoic acid-inducible orphan G protein-coupled receptor  G protein coupled receptor, family C, group 5, mem  1	hgncid	13308
+Retinoic acid-inducible orphan G protein-coupled receptor  , family C, group 5, mem  1	hgncid	13309
+Retinoic acid-inducible orphan G protein-coupled receptor  , family C, group 5, mem  2	hgncid	13310
+Relaxin receptor	hgncid	19718
+Relaxin receptor  elaxin/insulin-like family peptide receptor 2   1	hgncid	17318
+Relaxin receptor  elaxin/insulin-like family peptide receptor 3   1	hgncid	24883
+Relaxin receptor  elaxin/insulin-like family peptide receptor 4   1	hgncid	14666
+4-Aminobutyrate aminotransferase	hgncid	23
+GUCY2D	hgncid	4689
+VPS13B	hgncid	2183
+IκB kinase	hgncid	1974
+IκB kinase  inhibitor of kappa light polypeptide gene enhancer  1	hgncid	5960
+IκB kinase  inhibitor of kappa light polypeptide gene enhancer  2	hgncid	5961
+NPC1L1	hgncid	7898
+Cholest-5-ene-3beta,7alpha-diol 3beta-dehydrogenase	hgncid	18324
+3-hydroxyacyl-CoA dehydrogenase	hgncid	4799
+MAS1 oncogene	hgncid	6899
+MAS1 oncogene  -like   1	hgncid	13961
+Endothelial lipase	hgncid	6623
+Gastric lipase	hgncid	6622
+Betaine—homocysteine S-methyltransferase	hgncid	1047
+Betaine—homocysteine S-methyltransferase  betaine-homocysteine methyltransferase 2   1	hgncid	1048
+Phosphatidylethanolamine N-methyltransferase	hgncid	8830
+Phytanoyl-CoA dioxygenase	hgncid	8940
+Neuropeptide B/W receptor	hgncid	4522
+Neuropeptide B/W receptor  neuropeptides B/W receptor 2   1	hgncid	4530
+Neuropeptide FF receptor	hgncid	17425
+Neuropeptide FF receptor  2   1	hgncid	4525
+MT-RNR1	hgncid	7470
+HSPA1B	hgncid	5233
+HLA-DO	hgncid	4936
+HLA-DO  major histocompatibility complex, class II, DO bet  1	hgncid	4937
+Interleukin-7 receptor	hgncid	6024
+Interleukin-7 receptor  interleukin 2 receptor, gamma   1	hgncid	6010
+UDP-glucose 4-epimerase	hgncid	4116
+Leukotriene-A4 hydrolase	hgncid	6710
+Threonine aldolase	hgncid	18004
+Membrane-bound transcription factor peptidase, site 1	hgncid	15456
+Membrane-bound transcription factor peptidase, site 2	hgncid	15455
+Rac3	hgncid	9803
+Acylphosphatase	hgncid	179
+Acylphosphatase  2, muscle type   1	hgncid	180
+USP26	hgncid	13485
+MT-TL1	hgncid	7490
+MT-TH	hgncid	7487
+MT-ND5	hgncid	7461
+Brain-specific angiogenesis inhibitor	hgncid	943
+Brain-specific angiogenesis inhibitor  2   1	hgncid	944
+Brain-specific angiogenesis inhibitor  3   1	hgncid	945
+Thiamine-triphosphatase	hgncid	18987
+Dimethylargininase	hgncid	2715
+Dimethylargininase  dimethylarginine dimethylaminohydrolase 2   1	hgncid	2716
+Acetyl-CoA C-acetyltransferase	hgncid	93
+Acetyl-CoA C-acetyltransferase  acetyl-Coenzyme A acetyltransferase 2 acetoacetyl   1	hgncid	94
+Serine C-palmitoyltransferase  rine palmitoyltransferase, long chain base subun  1	hgncid	11277
+Serine C-palmitoyltransferase  rine palmitoyltransferase, long chain base subun  2	hgncid	11278
+Serine C-palmitoyltransferase  rine palmitoyltransferase, long chain base subun  3	hgncid	16253
+Sterol O-acyltransferase	hgncid	11177
+Sterol O-acyltransferase  2   1	hgncid	11178
+Latrophilin receptor	hgncid	20822
+Latrophilin receptor  latrophilin 1   1	hgncid	20973
+Latrophilin receptor  latrophilin 2   1	hgncid	18582
+Latrophilin receptor  latrophilin 3   1	hgncid	20974
+Huntingtin-associated protein 1	hgncid	4812
+Lactate dehydrogenase	hgncid	6535
+Lactate dehydrogenase  B subunit H   1	hgncid	6541
+Lactate dehydrogenase  C   1	hgncid	6544
+Interleukin-18 receptor	hgncid	5988
+Interleukin-18 receptor  interleukin 18 receptor accessory protein   1	hgncid	5989
+Palmitoyl protein thioesterase	hgncid	9325
+Palmitoyl protein thioesterase  palmitoyl-protein thioesterase 2   1	hgncid	9326
+VGF	hgncid	12684
+Calcium-binding protein 1	hgncid	1384
+Neurogenins	hgncid	7764
+Neurogenins  neurogenin 2   1	hgncid	13805
+Neurogenins  neurogenin 3   1	hgncid	13806
+G protein-coupled inwardly-rectifying potassium channel	hgncid	6264
+G protein-coupled inwardly-rectifying potassium channel  potassium inwardly-rectifying channel, subfamily J  1	hgncid	6267
+G protein-coupled inwardly-rectifying potassium channel  potassium inwardly-rectifying channel, subfamily J  2	hgncid	6270
+G protein-coupled inwardly-rectifying potassium channel  potassium inwardly-rectifying channel, subfamily J  3	hgncid	6266
+ZMPSTE24	hgncid	12877
+Interleukin-5 receptor	hgncid	6017
+Interleukin-5 receptor  colony stimulating factor 2 receptor, beta, low-af  1	hgncid	2436
+Interleukin-13 receptor	hgncid	5974
+Interleukin-13 receptor  interleukin 13 receptor, alpha 2   1	hgncid	5975
+Interleukin-13 receptor  interleukin 4 receptor   1	hgncid	6015
+Interleukin-11 receptor	hgncid	5967
+Interleukin-11 receptor  interleukin 11 receptor, beta   1	hgncid	5968
+Interleukin-12 receptor	hgncid	5971
+Interleukin-12 receptor  beta 2 subunit, interleukin 12 receptor, beta 2   1	hgncid	5972
+Interleukin-15 receptor	hgncid	5978
+Interleukin-15 receptor  interleukin 2 receptor, beta   1	hgncid	6009
+Interleukin-15 receptor  interleukin 2 receptor, gamma severe combined immu  1	hgncid	6010
+Interleukin-27 receptor	hgncid	17290
+Interleukin-27 receptor  interleukin 6 signal transducer gp130, oncostatin   1	hgncid	6021
+Interleukin-10 receptor	hgncid	5964
+Interleukin-10 receptor  interleukin 10 receptor, beta   1	hgncid	5965
+Interleukin-20 receptor	hgncid	6003
+Interleukin-20 receptor  interleukin 20 receptor beta   1	hgncid	6004
+Interleukin-22 receptor	hgncid	13700
+Interleukin-22 receptor  interleukin 22 receptor, alpha 2   1	hgncid	14901
+Interleukin-28 receptor	hgncid	18584
+Interleukin-28 receptor  interleukin 10 receptor, beta   1	hgncid	5965
+Interleukin-8 receptor	hgncid	6026
+Interleukin-8 receptor  interleukin 8 receptor, beta   1	hgncid	6027
+BTBD9	hgncid	21228
+Ciliary neurotrophic factor receptor	hgncid	2170
+Interleukin-17 receptor	hgncid	5985
+Interleukin-17 receptor  interleukin 17 receptor B   1	hgncid	18015
+Interleukin-17 receptor  interleukin 17 receptor C   1	hgncid	18358
+Interleukin-17 receptor  interleukin 17 receptor D   1	hgncid	17616
+Interleukin-17 receptor  interleukin 17 receptor E   1	hgncid	18439
+Interleukin-17 receptor  interleukin 17 receptor E-like   1	hgncid	33808
+LCA9	hgncid	19105
+TRIM50	hgncid	19017
+Paraoxonase	hgncid	9204
+Paraoxonase  2   1	hgncid	9205
+Paraoxonase  3   1	hgncid	9206
+L-threonine dehydrogenase	hgncid	15547
+GHB receptor	hgncid	30224
+TTBK2	hgncid	19141
+HSN2	hgncid	23152
+ITPKC	hgncid	14897
+PARK11	hgncid	17963
+GRIK4	hgncid	4582
+Repulsive guidance molecule	hgncid	30308
+Repulsive guidance molecule  RGM domain family, member B   1	hgncid	26896
+Repulsive guidance molecule  hemochromatosis type 2   1	hgncid	4887
+FKBP6	hgncid	3722
+AHSA2	hgncid	20437
+GRINL1B	hgncid	15712
+ANK2	hgncid	493
+HSP90AA2	hgncid	5256
+C3orf58	hgncid	28490
+HSPA7	hgncid	5240
+HSPA12A	hgncid	19022
+NKX3-2	hgncid	951
+TFAP2D	hgncid	15581
+TFAP2E	hgncid	30774
+Major histocompatibility complex, class II, DP alpha 1	hgncid	4938
+HLA-DQB3	hgncid	4946
+BAALC	hgncid	14333
+FAM123B	hgncid	26837
+PORCN	hgncid	17652
+TIE1	hgncid	11809
+ELMO3	hgncid	17289
+TOX2	hgncid	16095
+TOX3	hgncid	11972
+EID2	hgncid	28292
+C9orf3	hgncid	1361
+FGF11	hgncid	3667
+GPD1L	hgncid	28956
+WNT6	hgncid	12785
+FANCM	hgncid	23168
+DHH (hedgehog)	hgncid	2865
+HHAT	hgncid	18270
+MT-RNR2	hgncid	7471
+MT-TV (mitochondrial)	hgncid	7500
+MT-TA	hgncid	7475
+NUP37	hgncid	29929
+NUP188	hgncid	17859
+Xg antigen system	hgncid	12806
+RPGRIP1L	hgncid	29168
+GLIS2	hgncid	29450
+VAMP5	hgncid	12646
+FGF16	hgncid	3672
+FGF22	hgncid	3679
+FGF20	hgncid	3677
+CEACAM21	hgncid	28834
+CEACAM20	hgncid	24879
+CEACAM19	hgncid	31951
+CEACAM18	hgncid	31949
+CEACAM16	hgncid	31948
+CEACAM4	hgncid	1816
+Cingulin-like 1	hgncid	25931
+H1F0	hgncid	4714
+H1FNT	hgncid	24893
+DPEP2	hgncid	23028
+Protein phosphatase 2	hgncid	9299
+Protein phosphatase 2  , catalytic subunit, beta iso  1	hgncid	9300
+MDGA2	hgncid	19835
+Eif4a	hgncid	3282
+Eif4a  eukaryotic translation initiation factor 4A, isofo  1	hgncid	3284
+Eif4a  eukaryotic translation initiation factor 4A, isofo  2	hgncid	18683
+COL20A1	hgncid	14670
+COL21A1	hgncid	17025
+COL22A1	hgncid	22989
+COL24A1	hgncid	20821
+COL23A1	hgncid	22990
+COL29A1	hgncid	26674
+SURF2	hgncid	11475
+N-acyl phosphatidylethanolamine-specific phospholipase D	hgncid	21683
+CKMT1A	hgncid	31736
+CKB (gene)	hgncid	1991
+CKB (gene)  creatine kinase, ectopic expression   1	hgncid	1992
+MT-TC	hgncid	7477
+MT-TD	hgncid	7478
+MT-TE	hgncid	7479
+MT-TG	hgncid	7486
+MT-TF	hgncid	7481
+MT-TI	hgncid	7488
+MT-TL2	hgncid	7491
+MT-TK	hgncid	7489
+MT-TM	hgncid	7492
+MT-TN	hgncid	7493
+MT-TP	hgncid	7494
+MT-TR	hgncid	7496
+MT-TQ	hgncid	7495
+MT-TS1	hgncid	7497
+MT-TS2	hgncid	7498
+MT-TT	hgncid	7499
+MT-TW	hgncid	7501
+MT-TY	hgncid	7502
+RPS4Y2	hgncid	18501
+C1GALT1	hgncid	24337
+MOSC1	hgncid	26189
+CORO1B	hgncid	2253
+LIX1L	hgncid	28715
+ANKRD35	hgncid	26323
+POLR3GL	hgncid	28466
+Mu hemoglobin	hgncid	4826
+MYLK4	hgncid	27972
+KRT77	hgncid	20411
+KRT76	hgncid	24430
+KRT75	hgncid	24431
+KRT74	hgncid	28929
+KRT73	hgncid	28928
+KRT72	hgncid	28932
+KRT71	hgncid	28927
+KRT39	hgncid	32971
+KRT40	hgncid	26707
+KRT28	hgncid	30842
+KRT27	hgncid	30841
+KRT26	hgncid	30840
+KRT25	hgncid	30839
+KRT24	hgncid	18527
+KRT84	hgncid	6461
+KRT82	hgncid	6459
+KRT38	hgncid	6456
+KRT37	hgncid	6455
+KRT35	hgncid	6453
+LAMB4	hgncid	6491
+SNTG2	hgncid	13741
+OPN1MW2	hgncid	26952
+FUT4	hgncid	4015
+TBR1	hgncid	11590
+ADIPOR2	hgncid	24041
+Interferon gamma receptor 2	hgncid	5440
+EXT3 (gene)	hgncid	3514
+Wee1  human WEE1 homolog S. pombe   1	hgncid	12761
+Wee1  human WEE1 homolog 2 S. pombe   1	hgncid	19684
+ULK2	hgncid	13480
+Activin and inhibin	hgncid	6065
+Activin and inhibin  hibin, beta A   1	hgncid	6066
+Activin and inhibin  hibin, beta B   1	hgncid	6067
+Activin and inhibin  hibin, beta C   1	hgncid	6068
+Activin and inhibin  hibin, beta E   1	hgncid	24029
+ALDH8A1	hgncid	15471
+Zinc finger protein 804A	hgncid	21711
+APOA1BP	hgncid	18453
+Transmembrane protein 53	hgncid	26186
+Tuberous sclerosis protein	hgncid	12362
+Tuberous sclerosis protein  tuberous sclerosis 2   1	hgncid	12363
+SNX6	hgncid	14970
+SA-beta-gal	hgncid	4298
+HS1BP3	hgncid	24979
+PXK	hgncid	23326
+Rap1	hgncid	9855
+Rap1  B,member of RAS oncogene family   1	hgncid	9857
+GPR137B	hgncid	11862
+Galanin-like peptide	hgncid	24840
+Neuromedin S	hgncid	32203
+SOX1	hgncid	11189
+G protein-coupled receptor kinase 7	hgncid	17031
+DNA damage-binding protein	hgncid	2717
+DNA damage-binding protein  damage-specific DNA binding protein 2, 48kDa   1	hgncid	2718
+Atg1	hgncid	12558
+RhoBTB	hgncid	18738
+RhoBTB  Rho-related BTB domain containing 2   1	hgncid	18756
+RhoBTB  Rho-related BTB domain containing 3   1	hgncid	18757
+RVD-Hpα	hgncid	4823
+Rho-associated protein kinase  Rho-associated, coiled-coil containing protein kin  1	hgncid	10251
+Rho-associated protein kinase  Rho-associated, coiled-coil containing protein kin  2	hgncid	10252
+Chemerin peptides	hgncid	9868
+Receptor tyrosine kinase-like orphan receptor	hgncid	10256
+Receptor tyrosine kinase-like orphan receptor  eceptor tyrosine kinase-like orphan receptor 2   1	hgncid	10257
+Kir2.6	hgncid	39080
+SLC25A38	hgncid	26054
+Bisindolylmaleimide  Proto-oncogene serine/threonine-protein kinase pim  1	hgncid	8986
+DHDPSL	hgncid	25155
+EHHADH	hgncid	3247
+SETBP1	hgncid	15573
+Protein phosphatase 1	hgncid	9281
+Protein phosphatase 1  , catalytic subunit, beta iso  1	hgncid	9282
+Protein phosphatase 1  , catalytic subunit, gamma is  1	hgncid	9283
+GORAB	hgncid	25676
+GJE1	hgncid	33251
+GJD4	hgncid	23296
+GJD3	hgncid	19147
+GJD2	hgncid	19154
+GJC2	hgncid	17494
+GJB7	hgncid	16690
+GJB5	hgncid	4287
+GJA10	hgncid	16995
+SYNE1	hgncid	17089
+TGM5	hgncid	11781
+Meprin A	hgncid	7015
+Meprin A  , beta   1	hgncid	7020
+ZNF703	hgncid	25883
+FOXI1	hgncid	3815
+Transmembrane Protein 175	hgncid	28709
+Map44	hgncid	6901
+C3orf14-Chromosome 3 open reading frame 14	hgncid	25024
+Cubam	hgncid	14604
+Cubam  cubilin intrinsic factor-cobalamin receptor   1	hgncid	2548
+Uroguanylin	hgncid	4683

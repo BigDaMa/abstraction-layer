@@ -1,0 +1,233 @@
+Westin Peachtree Plaza Hotel	numberOfSuites	40
+Lowry Hotel	numberOfSuites	7
+London Hilton on Park Lane	numberOfSuites	56
+Sveti Stefan	numberOfSuites	8
+Madonna Inn	numberOfSuites	28
+Hilton Anaheim	numberOfSuites	93
+Renaissance Center  Detroit Marriott at the Renaissance Center   1	numberOfSuites	53
+Westin Bonaventure Hotel	numberOfSuites	135
+Queen Elizabeth Hotel	numberOfSuites	100
+Gleneagles Hotel	numberOfSuites	26
+Grosvenor House Hotel	numberOfSuites	74
+Celtic Manor Resort	numberOfSuites	32
+One Wall Centre	numberOfSuites	70
+New York Marriott Marquis	numberOfSuites	57
+Don CeSar	numberOfSuites	40
+Taj Mahal Palace & Tower	numberOfSuites	46
+Gaylord Opryland Resort & Convention Center	numberOfSuites	220
+Hyatt Regency Albuquerque	numberOfSuites	14
+Gaylord Palms Resort & Convention Center	numberOfSuites	106
+Star City Casino	numberOfSuites	130
+Balmoral Hotel	numberOfSuites	20
+Nickelodeon Suites Resort	numberOfSuites	777
+Grand Hotel, Vienna	numberOfSuites	30
+Mandarin Oriental, Bangkok	numberOfSuites	35
+Llao Llao Hotel	numberOfSuites	28
+The Dorchester	numberOfSuites	49
+Mandarin Oriental, Hong Kong	numberOfSuites	67
+Marriott Gateway on the Falls Hotel	numberOfSuites	36
+Conrad Centennial Singapore	numberOfSuites	25
+Tower Hotel, London	numberOfSuites	18
+Hay–Adams Hotel	numberOfSuites	20
+Hotel Petersberg	numberOfSuites	11
+Hotel Saskatchewan	numberOfSuites	27
+Hotel Windsor (Melbourne)	numberOfSuites	20
+Hotel Astoria (Saint Petersburg)	numberOfSuites	52
+Gaylord National Resort & Convention Center	numberOfSuites	110
+Island Shangri-La, Hong Kong	numberOfSuites	34
+Peabody Hotel	numberOfSuites	4
+Hôtel George-V	numberOfSuites	59
+Palace Hotel, San Francisco	numberOfSuites	34
+Hotel Nacional de Cuba	numberOfSuites	16
+Andaz West Hollywood	numberOfSuites	20
+The Roosevelt New Orleans Hotel	numberOfSuites	135
+Cadogan Hotel	numberOfSuites	4
+Carlton Hotel (Atascadero, California)	numberOfSuites	1
+Mark Hopkins Hotel	numberOfSuites	39
+Casapueblo	numberOfSuites	56
+Marriott's Orlando World Center	numberOfSuites	101
+Lafayette Hotel & Suites in San Diego	numberOfSuites	131
+Grande Bretagne	numberOfSuites	59
+Badrutt's Palace Hotel	numberOfSuites	38
+InterContinental San Francisco	numberOfSuites	14
+The Roosevelt Hotel (New York)	numberOfSuites	52
+The Lanesborough	numberOfSuites	43
+Crowne Plaza Liverpool John Lennon Airport Hotel	numberOfSuites	1
+Brown's Hotel	numberOfSuites	29
+Hotel Metropole, Brussels	numberOfSuites	15
+Stanford Court Hotel	numberOfSuites	26
+Meliá Cohiba Hotel	numberOfSuites	61
+Sheraton Dallas Hotel	numberOfSuites	242
+Sheraton Dallas Hotel	numberOfSuites	22
+Hotel Icon	numberOfSuites	9
+Westin St. Francis	numberOfSuites	24
+Hilton Washington	numberOfSuites	47
+Four Seasons Resort Hualalai	numberOfSuites	51
+JW Marriott Hotel Hong Kong	numberOfSuites	25
+Langham Place Hotel	numberOfSuites	101
+San Francisco Marriott Marquis	numberOfSuites	137
+Marriott at Key Center	numberOfSuites	15
+Westin Seattle	numberOfSuites	1
+Westin Seattle	numberOfSuites	8
+Westin Seattle	numberOfSuites	6
+Westin Seattle	numberOfSuites	20
+Fearrington Village	numberOfSuites	2
+Copley Square Hotel	numberOfSuites	6
+Gaylord Texan Resort Hotel & Convention Center	numberOfSuites	127
+Hotel Bossert	numberOfSuites	224
+Rufflets Hotel	numberOfSuites	2
+Colonnade Hotel, London	numberOfSuites	3
+Loews Vanderbilt Hotel	numberOfSuites	14
+Hyatt Regency Houston	numberOfSuites	21
+Venlaw	numberOfSuites	2
+The Windsor Hotel Toya Resort & Spa	numberOfSuites	134
+Hilton San Diego Bayfront	numberOfSuites	30
+Excelsior Hotel Ernst	numberOfSuites	13
+The Imperial, New Delhi	numberOfSuites	44
+InterContinental Phoenicia Beirut Hotel	numberOfSuites	44
+JW Marriott Shanghai	numberOfSuites	77
+Hôtel Le Bristol Paris	numberOfSuites	73
+David Citadel Hotel	numberOfSuites	41
+Inn at Perry Cabin	numberOfSuites	25
+Digby Pines Resort	numberOfSuites	6
+JW Marriott Mumbai	numberOfSuites	29
+Breidenbacher Hof	numberOfSuites	16
+The Athenaeum Hotel	numberOfSuites	12
+Selsdon Park Hotel	numberOfSuites	7
+Rhodes-Haverty Building	numberOfSuites	160
+Ballathie House	numberOfSuites	3
+EdenH Real Arena Hotel	numberOfSuites	38
+Oberoi Trident	numberOfSuites	107
+Hilton Glasgow hotel	numberOfSuites	2
+Jumbohostel	numberOfSuites	1
+Kyoto Grand Hotel and Gardens	numberOfSuites	20
+L'Enfant Plaza Hotel	numberOfSuites	10
+Beverly Hilton Hotel	numberOfSuites	101
+The Scotsman Hotel	numberOfSuites	13
+Fairmont Beijing	numberOfSuites	24
+Kempinski Palace Hotel (Portorož)	numberOfSuites	1
+Threadneedles Hotel	numberOfSuites	6
+The Glasshouse (hotel)	numberOfSuites	2
+Fisherman's Cove	numberOfSuites	38
+Dryburgh Abbey Hotel	numberOfSuites	2
+Hotel D'Angleterre	numberOfSuites	19
+Chewton Glen	numberOfSuites	23
+NH Gran Hotel Provincial	numberOfSuites	12
+Hong Kong Gold Coast Hotel	numberOfSuites	10
+ME Cancun	numberOfSuites	40
+Nimb Hotel	numberOfSuites	13
+Palazzo Versace Dubai	numberOfSuites	69
+Hyatt Regency Sha Tin	numberOfSuites	133
+Hilton Waterfront Beach Resort	numberOfSuites	24
+Mandarin Oriental Hyde Park, London	numberOfSuites	25
+Big Bear Frontier	numberOfSuites	32
+Vdara	numberOfSuites	1495
+Hilton Chicago	numberOfSuites	90
+Skirvin Hilton Hotel	numberOfSuites	21
+Mandarin Oriental, New York	numberOfSuites	46
+Le Pavillon Hotel	numberOfSuites	7
+Hôtel de Crillon	numberOfSuites	44
+Yas Marina Hotel	numberOfSuites	75
+Radisson Edwardian Heathrow Hotel	numberOfSuites	17
+Grange City Hotel	numberOfSuites	10
+Radisson Edwardian Hampshire Hotel	numberOfSuites	20
+Royal Garden Hotel	numberOfSuites	16
+Wyndham Grand Chelsea Harbour	numberOfSuites	158
+The Ritz-Carlton, Washington, D.C.	numberOfSuites	32
+Dog Bark Park Inn	numberOfSuites	1
+Hotel Ambos Mundos (Havana)	numberOfSuites	3
+Kampala Serena Hotel	numberOfSuites	13
+Hotel Africana	numberOfSuites	5
+Imperial Royale Hotel	numberOfSuites	10
+Kampala Hilton Hotel	numberOfSuites	37
+Golden Clouds	numberOfSuites	9
+Abbasi Hotel	numberOfSuites	27
+Aulani	numberOfSuites	16
+Imperial Botanical Beach Hotel	numberOfSuites	7
+Imperial Resort Beach Hotel	numberOfSuites	6
+Clarion Hotel, Limerick	numberOfSuites	3
+Columbus Hotel Monaco	numberOfSuites	18
+Hotel de Paris	numberOfSuites	74
+The Shanker Hotel	numberOfSuites	12
+The Lenox Hotel	numberOfSuites	4
+InterContinental Toronto Centre	numberOfSuites	138
+Grand Hotel Sofia	numberOfSuites	13
+The PuLi Hotel and Spa	numberOfSuites	36
+Swissôtel Krasnye Holmy Moscow	numberOfSuites	27
+Swissôtel Nankai Osaka	numberOfSuites	29
+White Swan Hotel, Alnwick	numberOfSuites	57
+Shamrock Hotel (Bendigo)	numberOfSuites	4
+Novotel Nathan Road Kowloon Hong Kong	numberOfSuites	3
+Ambasador Hotel	numberOfSuites	8
+George Washington Inn	numberOfSuites	5
+Lake Victoria Serena Resort	numberOfSuites	10
+Taj Mahal Hotel (Delhi)	numberOfSuites	27
+Hilton Niagara Falls Tower 2	numberOfSuites	500
+Hotel Nikko Düsseldorf	numberOfSuites	24
+Hilton New York	numberOfSuites	47
+Hotel Paracas	numberOfSuites	16
+Taschenbergpalais	numberOfSuites	32
+Hotel Bristol (Oslo)	numberOfSuites	10
+Mandarin Oriental, Miami	numberOfSuites	31
+Grand Oasis Palace de Muro	numberOfSuites	80
+The Ranch Resort	numberOfSuites	35
+Sheraton Aleppo Hotel	numberOfSuites	31
+Settha Palace Hotel	numberOfSuites	2
+JW Marriott Bogotá	numberOfSuites	25
+Oriental Hotel (Kobe, Japan)	numberOfSuites	6
+The Garden Hotel, Guangzhou	numberOfSuites	42
+Bogotá Marriott Hotel	numberOfSuites	15
+Nara Hotel	numberOfSuites	3
+Boston Harbor Hotel	numberOfSuites	26
+Amanjiwo	numberOfSuites	36
+Amankila	numberOfSuites	34
+Lae International Hotel	numberOfSuites	4
+JW Marriott San Francisco Union Square	numberOfSuites	8
+Malmaison Hotel, Liverpool	numberOfSuites	3
+Fairmont St Andrews	numberOfSuites	17
+Hotel Vatel and Spa	numberOfSuites	4
+Splendid Venice	numberOfSuites	16
+Savoia Excelsior Palace	numberOfSuites	18
+Rosa Grand	numberOfSuites	23
+Castille Paris	numberOfSuites	21
+JW Marriott Kuala Lumpur	numberOfSuites	70
+Radisson Blu Daugava Hotel	numberOfSuites	34
+Renaissance Malmö Hotel	numberOfSuites	1
+Nanning Marriott	numberOfSuites	26
+Sheraton Montevideo	numberOfSuites	10
+URBN hotels Shanghai	numberOfSuites	2
+The Old Bell Hotel and Restaurant	numberOfSuites	8
+Dom-Hotel	numberOfSuites	13
+Steigenberger Parkhotel Düsseldorf	numberOfSuites	11
+Grand Hotel Kathmandu	numberOfSuites	7
+Hazlitt's	numberOfSuites	1
+Hotel Newfoundland	numberOfSuites	14
+St. Pancras Renaissance London Hotel	numberOfSuites	34
+Copacabana Hotel Residência	numberOfSuites	120
+The Peninsula Bangkok	numberOfSuites	4
+The Peninsula Chicago	numberOfSuites	83
+The Peninsula New York	numberOfSuites	55
+Le Meridien Mariador Palace	numberOfSuites	8
+Cork International Airport Hotel	numberOfSuites	7
+Hilton Alger	numberOfSuites	40
+Hotel El-Aurassi	numberOfSuites	31
+Royal Hotel (Oran)	numberOfSuites	17
+Sheraton Oran Hotel and Towers	numberOfSuites	40
+Hotel Le Majestic	numberOfSuites	6
+Hotel Zianides	numberOfSuites	7
+Tradewinds Hotel	numberOfSuites	51
+Hotel Plaza Grande	numberOfSuites	15
+Allegro Papagayo	numberOfSuites	500
+Beau-Rivage Geneva	numberOfSuites	18
+British Colonial Hilton Nassau	numberOfSuites	20
+Sofitel Chicago Water Tower	numberOfSuites	63
+Malmaison Hotel, Reading	numberOfSuites	6
+The Forbury Hotel	numberOfSuites	5
+Crowne Plaza Glasgow	numberOfSuites	15
+Chamberlain West Hollywood Hotel	numberOfSuites	113
+Palácio Quitandinha	numberOfSuites	13
+Chamran Grand Hotel	numberOfSuites	7
+The Cavendish Hotel	numberOfSuites	6
+Mandarin Oriental, Munich	numberOfSuites	25
+Mandarin Oriental, Paris	numberOfSuites	39
+Sofitel Macau At Ponte 16	numberOfSuites	26

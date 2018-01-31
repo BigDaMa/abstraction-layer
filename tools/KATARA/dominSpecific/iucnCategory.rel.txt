@@ -1,0 +1,3740 @@
+Isle Royale National Park	iucnCategory	Ib
+Maasai Mara	iucnCategory	II
+Vietnam Veterans Memorial	iucnCategory	V
+Cape Cod National Seashore	iucnCategory	V
+Mount Circeo	iucnCategory	II
+North Cascades National Park	iucnCategory	Ib
+Grand Teton National Park	iucnCategory	II
+Death Valley National Park	iucnCategory	II
+Grand Canyon National Park	iucnCategory	II
+Bryce Canyon National Park	iucnCategory	II
+Yosemite National Park	iucnCategory	II
+Dandenong Ranges National Park	iucnCategory	II
+Jefferson National Expansion Memorial	iucnCategory	V
+Wilsons Promontory National Park	iucnCategory	II
+Rock Creek Park	iucnCategory	V
+Namadgi National Park	iucnCategory	II
+Carnarvon National Park	iucnCategory	II
+Alpine National Park	iucnCategory	II
+Little Desert National Park	iucnCategory	II
+Dolomites  Parco Nazionale Dolomiti Bellunesi   1	iucnCategory	II
+Doñana National Park	iucnCategory	II
+Triglav National Park	iucnCategory	V
+Serengeti National Park	iucnCategory	II
+Padre Island National Seashore	iucnCategory	V
+Acadia National Park	iucnCategory	II
+Mount Eccles National Park	iucnCategory	II
+Mount Buffalo National Park	iucnCategory	II
+Grampians National Park	iucnCategory	II
+Alcatraz Island	iucnCategory	V
+Mammoth Cave National Park	iucnCategory	II
+Great Barrier Reef Marine Park	iucnCategory	VI
+Effigy Mounds National Monument	iucnCategory	V
+Tumucumaque National Park	iucnCategory	II
+Fort Sumter	iucnCategory	V
+Arctic National Wildlife Refuge	iucnCategory	IV
+Basket Swamp National Park	iucnCategory	II
+Point Pelee National Park	iucnCategory	II
+Abercrombie River National Park	iucnCategory	II
+Bago Bluff National Park	iucnCategory	II
+Barakee National Park	iucnCategory	II
+Barool National Park	iucnCategory	II
+Bald Rock National Park	iucnCategory	II
+Bellinger River National Park	iucnCategory	II
+Ben Halls Gap National Park	iucnCategory	Ia
+Barrington Tops National Park	iucnCategory	Ib
+Ben Boyd National Park	iucnCategory	II
+Biamanga National Park	iucnCategory	II
+Bimberamala National Park	iucnCategory	II
+Biriwal Bulga National Park	iucnCategory	II
+Bindarri National Park	iucnCategory	II
+Bongil Bongil National Park	iucnCategory	II
+Blue Mountains National Park	iucnCategory	II
+Boonoo Boonoo National Park	iucnCategory	II
+Booti Booti National Park	iucnCategory	II
+Border Ranges National Park	iucnCategory	II
+Bouddi National Park	iucnCategory	II
+Brindabella National Park	iucnCategory	II
+Broadwater National Park	iucnCategory	II
+Bournda National Park	iucnCategory	II
+Budawang National Park	iucnCategory	Ib
+Budderoo National Park	iucnCategory	II
+Bundjalung National Park	iucnCategory	II
+Bungawalbin National Park	iucnCategory	II
+Butterleaf National Park	iucnCategory	II
+Capoompeta National Park	iucnCategory	II
+Carrai National Park	iucnCategory	II
+Cathedral Rock National Park	iucnCategory	II
+Cascade National Park	iucnCategory	II
+Chaelundi National Park	iucnCategory	II
+Clyde River National Park	iucnCategory	II
+Cocoparra National Park	iucnCategory	II
+Conjola National Park	iucnCategory	II
+Conimbla National Park	iucnCategory	II
+Coolah Tops National Park	iucnCategory	II
+Cottan-Bimbang National Park	iucnCategory	II
+Coorabakh National Park	iucnCategory	II
+Culgoa National Park	iucnCategory	II
+Crowdy Bay National Park	iucnCategory	II
+Cunnawarra National Park	iucnCategory	II
+Deua National Park	iucnCategory	Ib
+Dunggir National Park	iucnCategory	II
+Dorrigo National Park	iucnCategory	II
+Dooragan National Park	iucnCategory	II
+Eurobodalla National Park	iucnCategory	II
+Fortis Creek National Park	iucnCategory	II
+Gardens of Stone National Park	iucnCategory	II
+Ghin-Doo-Ee National Park	iucnCategory	II
+Goobang National Park	iucnCategory	II
+Gibraltar Range National Park	iucnCategory	Ib
+Goonengerry National Park	iucnCategory	II
+Gulaga National Park	iucnCategory	II
+Goulburn River National Park	iucnCategory	II
+Gundabooka National Park	iucnCategory	II
+Hat Head National Park	iucnCategory	Ib
+Indwarra National Park	iucnCategory	Ia
+Guy Fawkes River National Park	iucnCategory	Ib
+Kanangra-Boyd National Park	iucnCategory	Ib
+Junuy Juluum National Park	iucnCategory	II
+Kinchega National Park	iucnCategory	II
+Kings Plains National Park	iucnCategory	II
+Koreelah National Park	iucnCategory	II
+Kumbatine National Park	iucnCategory	II
+Kwiambal National Park	iucnCategory	II
+Lane Cove National Park	iucnCategory	V
+Ku-ring-gai Chase National Park	iucnCategory	II
+Mallanganee National Park	iucnCategory	Ia
+Kosciuszko National Park	iucnCategory	II
+Maria National Park	iucnCategory	II
+Mallee Cliffs National Park	iucnCategory	Ia
+Mebbin National Park	iucnCategory	II
+Mooball National Park	iucnCategory	II
+Mount Clunie National Park	iucnCategory	II
+Mount Jerusalem National Park	iucnCategory	II
+Mount Imlay National Park	iucnCategory	II
+Mount Nothofagus National Park	iucnCategory	II
+Mount Pikapene National Park	iucnCategory	II
+Mount Royal National Park	iucnCategory	II
+Mount Warning National Park	iucnCategory	II
+Mummel Gulf National Park	iucnCategory	II
+Mungo National Park	iucnCategory	II
+Murramarang National Park	iucnCategory	II
+Mutawintji National Park	iucnCategory	II
+Myall Lakes National Park	iucnCategory	II
+Maryland National Park	iucnCategory	Ia
+Nattai National Park	iucnCategory	II
+New England National Park	iucnCategory	Ib
+Nightcap National Park	iucnCategory	II
+Nangar National Park	iucnCategory	II
+Nowendoc National Park	iucnCategory	II
+Nymboi-Binderay National Park	iucnCategory	II
+Nymboida National Park	iucnCategory	Ib
+Ramornie National Park	iucnCategory	II
+Richmond Range National Park	iucnCategory	II
+Scheyville National Park	iucnCategory	V
+Oxley Wild Rivers National Park	iucnCategory	Ib
+Single National Park	iucnCategory	II
+Royal National Park	iucnCategory	II
+South East Forest National Park	iucnCategory	II
+Sturt National Park	iucnCategory	II
+Tapin Tops National Park	iucnCategory	II
+Tomaree National Park	iucnCategory	II
+Thirlmere Lakes National Park	iucnCategory	II
+Tooloom National Park	iucnCategory	II
+Toonumbar National Park	iucnCategory	II
+Ulidarra National Park	iucnCategory	Ia
+Wadbilliga National Park	iucnCategory	Ib
+Wallingat National Park	iucnCategory	II
+Warra National Park	iucnCategory	II
+Warrabah National Park	iucnCategory	II
+Washpool National Park	iucnCategory	II
+Warrumbungle National Park	iucnCategory	II
+Watagans National Park	iucnCategory	II
+Willandra National Park	iucnCategory	II
+Werrikimbe National Park	iucnCategory	Ib
+Willi Willi National Park	iucnCategory	Ib
+Woko National Park	iucnCategory	II
+Wyrrabalong National Park	iucnCategory	II
+Yabbra National Park	iucnCategory	II
+Wollemi National Park	iucnCategory	Ib
+Yoorigan National Park	iucnCategory	II
+Yuraygir National Park	iucnCategory	II
+Towarri National Park	iucnCategory	II
+Barranyi (North Island) National Park	iucnCategory	II
+Charles Darwin National Park	iucnCategory	II
+Djukbinj National Park	iucnCategory	II
+Dulcie Ranges National Park	iucnCategory	II
+Davenport Murchison National Park	iucnCategory	II
+Elsey National Park	iucnCategory	II
+Finke Gorge National Park	iucnCategory	II
+Gregory National Park	iucnCategory	II
+Keep River National Park	iucnCategory	II
+Garig Gunak Barlu National Park	iucnCategory	II
+Nitmiluk National Park	iucnCategory	II
+Litchfield National Park	iucnCategory	II
+Watarrka National Park	iucnCategory	II
+West MacDonnell National Park	iucnCategory	II
+Kakadu National Park	iucnCategory	II
+Uluṟu-Kata Tjuṯa National Park	iucnCategory	II
+Belair National Park	iucnCategory	III
+Coffin Bay National Park	iucnCategory	II
+Coorong National Park	iucnCategory	II
+Canunda National Park	iucnCategory	II
+Flinders Chase National Park	iucnCategory	II
+Gawler Ranges National Park	iucnCategory	II
+Flinders Ranges National Park	iucnCategory	II
+Great Australian Bight Marine Park	iucnCategory	II
+Innes National Park	iucnCategory	II
+Lake Eyre National Park	iucnCategory	Ia
+Lake Gairdner National Park	iucnCategory	Ia
+Lake Torrens National Park	iucnCategory	Ia
+Lincoln National Park	iucnCategory	II
+Mount Remarkable National Park	iucnCategory	II
+Naracoorte Caves National Park	iucnCategory	II
+Nullarbor National Park	iucnCategory	II
+Onkaparinga River National Park	iucnCategory	II
+Witjira National Park	iucnCategory	II
+Ben Lomond National Park	iucnCategory	II
+Cradle Mountain-Lake St Clair National Park	iucnCategory	II
+Douglas-Apsley National Park	iucnCategory	II
+Franklin-Gordon Wild Rivers National Park	iucnCategory	II
+Hartz Mountains National Park	iucnCategory	II
+Kent Group	iucnCategory	II
+Maria Island National Park	iucnCategory	II
+Mole Creek Karst National Park	iucnCategory	II
+Freycinet National Park	iucnCategory	II
+Mount William National Park	iucnCategory	II
+Mount Field National Park	iucnCategory	II
+Rocky Cape National Park	iucnCategory	II
+Murray River National Park	iucnCategory	II
+Savage River National Park	iucnCategory	II
+Strzelecki National Park	iucnCategory	II
+Narawntapu National Park	iucnCategory	II
+South Bruny National Park	iucnCategory	II
+Southwest National Park	iucnCategory	II
+Tasman National Park	iucnCategory	II
+Walls of Jerusalem National Park	iucnCategory	II
+Alfred National Park	iucnCategory	II
+Baw Baw National Park	iucnCategory	II
+Burrowa-Pine Mountain National Park	iucnCategory	II
+Brisbane Ranges National Park	iucnCategory	II
+Churchill National Park	iucnCategory	III
+Chiltern-Mount Pilot National Park	iucnCategory	II
+Coopracambra National Park	iucnCategory	II
+Croajingolong National Park	iucnCategory	II
+Errinundra National Park	iucnCategory	II
+Hattah-Kulkyne National Park	iucnCategory	II
+Kinglake National Park	iucnCategory	II
+Lake Eildon National Park	iucnCategory	II
+Lind National Park	iucnCategory	II
+Lower Glenelg National Park	iucnCategory	II
+Mitchell River National Park (Victoria)	iucnCategory	II
+Mornington Peninsula National Park	iucnCategory	II
+Morwell National Park	iucnCategory	III
+Mount Richmond National Park	iucnCategory	II
+Murray-Sunset National Park	iucnCategory	II
+Great Otway National Park	iucnCategory	II
+Snowy River National Park	iucnCategory	II
+Port Campbell National Park	iucnCategory	II
+Tarra-Bulga National Park	iucnCategory	II
+Terrick Terrick National Park	iucnCategory	II
+Wyperfeld National Park	iucnCategory	II
+The Lakes National Park	iucnCategory	II
+Yarra Ranges National Park	iucnCategory	II
+Alexander Morrison National Park	iucnCategory	II
+Avon Valley National Park	iucnCategory	II
+Badgingarra National Park	iucnCategory	II
+Beedelup National Park	iucnCategory	II
+Boorabbin National Park	iucnCategory	II
+Brockman National Park	iucnCategory	II
+Cape Arid National Park	iucnCategory	II
+Cape Le Grand National Park	iucnCategory	II
+Cape Range National Park	iucnCategory	II
+Collier Range National Park	iucnCategory	II
+Drovers Cave National Park	iucnCategory	II
+D'Entrecasteaux National Park	iucnCategory	II
+Eucla National Park	iucnCategory	II
+Drysdale River National Park	iucnCategory	II
+Fitzgerald River National Park	iucnCategory	II
+Francois Peron National Park	iucnCategory	II
+Frank Hann National Park	iucnCategory	II
+Geikie Gorge National Park	iucnCategory	II
+Gloucester National Park	iucnCategory	II
+Goongarrie National Park	iucnCategory	II
+Gooseberry Hill National Park	iucnCategory	II
+Greenmount National Park	iucnCategory	II
+Hassell National Park	iucnCategory	II
+Hidden Valley National Park	iucnCategory	II
+John Forrest National Park	iucnCategory	II
+Kalamunda National Park	iucnCategory	II
+Kalbarri National Park	iucnCategory	II
+Karijini National Park	iucnCategory	II
+Kennedy Range National Park	iucnCategory	II
+Leeuwin-Naturaliste National Park	iucnCategory	II
+Lesmurdie Falls National Park	iucnCategory	II
+Millstream-Chichester National Park	iucnCategory	II
+Moore River National Park	iucnCategory	II
+Mount Frankland National Park	iucnCategory	II
+Neerabup National Park	iucnCategory	II
+Mount Augustus National Park	iucnCategory	III
+Nambung National Park	iucnCategory	II
+Peak Charles National Park	iucnCategory	II
+Porongurup National Park	iucnCategory	II
+Karlamilyi National Park	iucnCategory	II
+Scott National Park	iucnCategory	II
+Serpentine National Park	iucnCategory	II
+Sir James Mitchell National Park	iucnCategory	II
+Purnululu National Park    1	iucnCategory	II
+Stirling Range National Park	iucnCategory	II
+Shannon National Park	iucnCategory	II
+Lesueur National Park	iucnCategory	II
+Stokes National Park	iucnCategory	II
+Tathra National Park	iucnCategory	II
+Torndirrup National Park	iucnCategory	II
+Tunnel Creek National Park	iucnCategory	II
+Walpole-Nornalup National Park	iucnCategory	II
+Walyunga National Park	iucnCategory	II
+Watheroo National Park	iucnCategory	II
+Waychinicup National Park	iucnCategory	II
+Tuart Forest National Park	iucnCategory	II
+West Cape Howe National Park	iucnCategory	II
+Wolfe Creek Meteorite Crater National Park	iucnCategory	III
+Warren National Park	iucnCategory	II
+William Bay National Park	iucnCategory	II
+Yanchep National Park	iucnCategory	II
+Yalgorup National Park	iucnCategory	II
+Windjana Gorge National Park	iucnCategory	II
+Alton National Park	iucnCategory	II
+Astrebla Downs National Park	iucnCategory	II
+Barnard Island Group National Park	iucnCategory	II
+Auburn River National Park	iucnCategory	II
+Barron Gorge National Park	iucnCategory	II
+Bendidee National Park	iucnCategory	II
+Blackbraes National Park	iucnCategory	II
+Black Mountain (Kalkajaka) National Park	iucnCategory	II
+Blackdown Tableland National Park	iucnCategory	II
+Blackwood National Park	iucnCategory	II
+Bladensburg National Park	iucnCategory	II
+Brampton Islands National Park	iucnCategory	II
+Bowling Green Bay National Park	iucnCategory	II
+Bribie Island National Park	iucnCategory	II
+Broad Sound Islands National Park	iucnCategory	II
+Bulleringa National Park	iucnCategory	II
+Brook Islands National Park	iucnCategory	II
+Burleigh Head National Park	iucnCategory	II
+Burrum Coast National Park	iucnCategory	II
+Byfield National Park	iucnCategory	II
+Camooweal Caves National Park	iucnCategory	II
+Bunya Mountains National Park	iucnCategory	II
+Cania Gorge National Park	iucnCategory	II
+Cape Hillsborough National Park	iucnCategory	II
+Cape Palmerston National Park	iucnCategory	II
+Cape Upstart National Park	iucnCategory	II
+Capricorn Coast National Park	iucnCategory	II
+Castle Tower National Park	iucnCategory	II
+Cape Melville National Park	iucnCategory	II
+Cedar Bay National Park	iucnCategory	II
+Chillagoe-Mungana Caves National Park	iucnCategory	II
+Claremont Isles National Park	iucnCategory	II
+Chesterton Range National Park	iucnCategory	II
+Cliff Island National Park	iucnCategory	II
+Clump Mountain National Park	iucnCategory	II
+Coalstoun Lakes National Park	iucnCategory	II
+Conway National Park	iucnCategory	II
+Crater Lakes National Park	iucnCategory	II
+Conondale National Park	iucnCategory	II
+Cudmore National Park	iucnCategory	II
+Crows Nest National Park	iucnCategory	II
+Currawinya National Park	iucnCategory	II
+Curtis Island National Park	iucnCategory	II
+D'Aguilar National Park	iucnCategory	II
+Dalrymple National Park	iucnCategory	II
+Daintree National Park	iucnCategory	II
+Davies Creek National Park	iucnCategory	II
+Denham Group National Park	iucnCategory	II
+Deepwater National Park	iucnCategory	II
+Diamantina National Park	iucnCategory	II
+Dularcha National Park	iucnCategory	II
+Dryander National Park	iucnCategory	II
+Edmund Kennedy National Park	iucnCategory	II
+Ella Bay National Park	iucnCategory	II
+Erringibba National Park	iucnCategory	II
+Eubenangee Swamp National Park	iucnCategory	II
+Eudlo Creek National Park	iucnCategory	II
+Eurimbula National Park	iucnCategory	II
+Eungella	iucnCategory	II
+Expedition National Park	iucnCategory	II
+Fairlies Knob National Park	iucnCategory	II
+Family Islands National Park	iucnCategory	II
+Ferntree Creek National Park	iucnCategory	II
+Flinders Group National Park	iucnCategory	II
+Forbes Islands National Park	iucnCategory	II
+Fitzroy Island National Park	iucnCategory	II
+Forty Mile Scrub National Park	iucnCategory	II
+Fort Lytton National Park	iucnCategory	II
+Forest Den National Park	iucnCategory	II
+Frankland Group National Park	iucnCategory	II
+Freshwater National Park	iucnCategory	II
+Girraween National Park	iucnCategory	II
+Glass House Mountains National Park	iucnCategory	II
+Goodedulla National Park	iucnCategory	II
+Goodnight Scrub National Park	iucnCategory	II
+Goneaway National Park	iucnCategory	II
+Gloucester Island National Park	iucnCategory	II
+Great Basalt Wall National Park	iucnCategory	II
+Great Sandy National Park	iucnCategory	II
+Grey Peaks National Park	iucnCategory	II
+Halifax Bay Wetlands National Park	iucnCategory	II
+Hasties Swamp National Park	iucnCategory	II
+Hann Tableland National Park	iucnCategory	II
+Hell Hole Gorge National Park	iucnCategory	II
+Hinchinbrook Island National Park	iucnCategory	II
+Homevale National Park	iucnCategory	II
+Green Island National Park	iucnCategory	II
+Howick Group National Park	iucnCategory	II
+Hope Islands National Park	iucnCategory	II
+Hull River National Park	iucnCategory	II
+Iron Range National Park	iucnCategory	II
+Isla Gorge National Park	iucnCategory	II
+Japoon National Park	iucnCategory	II
+Jardine River National Park	iucnCategory	II
+Keppel Bay Islands National Park	iucnCategory	II
+Keppel Bay Islands National Park  eppel Bay Islands National Park   1	iucnCategory	Ia
+Kondalilla National Park	iucnCategory	II
+Kurrimine Beach National Park	iucnCategory	II
+Kroombit Tops National Park	iucnCategory	II
+Lake Bindegolly National Park	iucnCategory	II
+Lakefield National Park	iucnCategory	II
+Lindeman Islands National Park	iucnCategory	II
+Littabella National Park	iucnCategory	II
+Boodjamulla National Park	iucnCategory	II
+Lochern National Park	iucnCategory	II
+Lamington National Park	iucnCategory	II
+Girringun National Park	iucnCategory	II
+Magnetic Island National Park	iucnCategory	II
+Lizard Island National Park	iucnCategory	II
+Mapleton Falls National Park	iucnCategory	II
+Maria Creek National Park	iucnCategory	II
+Main Range National Park	iucnCategory	II
+Mariala National Park	iucnCategory	II
+Mazeppa National Park	iucnCategory	II
+Michaelmas and Upolu Cays National Park	iucnCategory	II
+Minerva Hills National Park	iucnCategory	II
+Millstream Falls National Park	iucnCategory	II
+Mitchell-Alice Rivers National Park	iucnCategory	II
+Molle Islands National Park	iucnCategory	II
+Mooloolah River National Park	iucnCategory	II
+Moogerah Peaks National Park	iucnCategory	II
+Moorrinya National Park	iucnCategory	II
+Moresby Range National Park	iucnCategory	II
+Mount Aberdeen National Park	iucnCategory	II
+Moreton Island National Park	iucnCategory	II
+Mount Chinghee National Park	iucnCategory	II
+Mount Colosseum National Park	iucnCategory	II
+Mount Barney National Park	iucnCategory	II
+Mount Cook National Park, Australia	iucnCategory	II
+Mount Coolum National Park	iucnCategory	II
+Mount Etna Caves National Park	iucnCategory	II
+Mount Hypipamee National Park	iucnCategory	II
+Mount Jim Crow National Park	iucnCategory	II
+Mount Martin National Park	iucnCategory	II
+Mount O'Connell National Park	iucnCategory	II
+Mount Ossa National Park	iucnCategory	II
+Mount Archer National Park	iucnCategory	II
+Mount Pinbarren National Park	iucnCategory	II
+Mount Webb National Park	iucnCategory	II
+Mount Walsh National Park	iucnCategory	II
+Mowbray National Park	iucnCategory	II
+Mungkan Kandju National Park	iucnCategory	II
+Narrien Range National Park	iucnCategory	II
+Newry Islands National Park	iucnCategory	II
+Nicoll Scrub National Park	iucnCategory	II
+North East Island National Park	iucnCategory	II
+Northumberland Islands National Park	iucnCategory	II
+Nuga Nuga National Park	iucnCategory	II
+Nymph Island National Park	iucnCategory	II
+Noosa National Park	iucnCategory	II
+Palmerston Rocks National Park	iucnCategory	II
+Orpheus Island National Park	iucnCategory	II
+Paluma Range National Park	iucnCategory	II
+Peak Range National Park	iucnCategory	II
+Pioneer Peaks National Park	iucnCategory	II
+Pipeclay National Park	iucnCategory	II
+Poona National Park	iucnCategory	II
+Piper Islands National Park	iucnCategory	II
+Precipice National Park	iucnCategory	II
+Reliance Creek National Park	iucnCategory	II
+Ravensbourne National Park	iucnCategory	II
+Porcupine Gorge National Park	iucnCategory	II
+Repulse Island National Park	iucnCategory	II
+Restoration Island National Park	iucnCategory	II
+Rocky Islets National Park	iucnCategory	II
+Round Top Island National Park	iucnCategory	II
+Rundle Range National Park	iucnCategory	II
+Russell River National Park	iucnCategory	II
+Sandbanks National Park	iucnCategory	II
+Sarabah National Park	iucnCategory	II
+Saunders Islands National Park	iucnCategory	II
+Sir Charles Hardy Group National Park	iucnCategory	II
+Simpson Desert National Park	iucnCategory	II
+Snake Range National Park	iucnCategory	II
+Smith Islands National Park	iucnCategory	II
+South Cumberland Islands National Park	iucnCategory	II
+Southern Moreton Bay Islands National Park	iucnCategory	II
+Southwood National Park	iucnCategory	II
+Staaten River National Park	iucnCategory	II
+Starcke National Park	iucnCategory	II
+Springbrook National Park	iucnCategory	II
+Sundown National Park	iucnCategory	II
+Swain Reefs National Park	iucnCategory	II
+Tarong National Park	iucnCategory	II
+Tamborine National Park	iucnCategory	II
+The Palms National Park	iucnCategory	II
+Three Islands National Park	iucnCategory	II
+Topaz Road National Park	iucnCategory	II
+Tregole National Park	iucnCategory	II
+Triunia National Park	iucnCategory	II
+Tully Gorge National Park	iucnCategory	II
+Turtle Group National Park	iucnCategory	II
+Thrushton National Park	iucnCategory	II
+Two Islands National Park	iucnCategory	II
+Venman Bushland National Park	iucnCategory	II
+Undara Volcanic National Park	iucnCategory	II
+West Hill National Park	iucnCategory	II
+White Mountains National Park	iucnCategory	II
+Whitsunday Islands National Park	iucnCategory	II
+Wild Cattle Island National Park	iucnCategory	II
+Wondul Range National Park	iucnCategory	II
+Welford National Park	iucnCategory	II
+Wooroonooran National Park	iucnCategory	II
+Yungaburra National Park	iucnCategory	II
+Dipperu National Park	iucnCategory	Ia
+Epping Forest National Park	iucnCategory	Ia
+Mount Bauple National Park	iucnCategory	Ia
+Palmgrove National Park	iucnCategory	Ia
+Taunton National Park	iucnCategory	Ia
+Müritz National Park	iucnCategory	II
+Jasmund National Park	iucnCategory	II
+Western Pomerania Lagoon Area National Park	iucnCategory	II
+Devils Marbles Conservation Reserve	iucnCategory	V
+Harz National Park	iucnCategory	II
+Olympic National Park	iucnCategory	II
+Grand Staircase-Escalante National Monument	iucnCategory	III
+Daniel Boone National Forest	iucnCategory	VI
+Tongass National Forest	iucnCategory	VI
+Bruce Peninsula National Park	iucnCategory	II
+Biscayne National Park	iucnCategory	II
+Crater Lake National Park	iucnCategory	II
+Booderee National Park and Botanic Gardens	iucnCategory	II
+Gros Morne National Park	iucnCategory	II
+Everglades National Park	iucnCategory	Ib
+Mount Rushmore	iucnCategory	V
+Bighorn Canyon National Recreation Area	iucnCategory	V
+Badlands National Park	iucnCategory	II
+Mount Rainier National Park	iucnCategory	II
+Red Rock Canyon National Conservation Area	iucnCategory	Ia
+Forillon National Park	iucnCategory	II
+Cape Breton Highlands National Park	iucnCategory	II
+La Mauricie National Park	iucnCategory	II
+Prince Edward Island National Park	iucnCategory	II
+Yoho National Park	iucnCategory	II
+Jasper National Park	iucnCategory	II
+Saguenay–St. Lawrence Marine Park	iucnCategory	II
+Fundy National Park	iucnCategory	II
+Banff National Park	iucnCategory	II
+Kouchibouguac National Park	iucnCategory	II
+St. Lawrence Islands National Park	iucnCategory	II
+Białowieża Forest	iucnCategory	II
+Pinnacles National Monument	iucnCategory	III
+Great Basin National Park	iucnCategory	II
+Ansel Adams Wilderness	iucnCategory	Ib
+Glacier National Park (U.S.)	iucnCategory	II
+Cap Tourmente National Wildlife Area	iucnCategory	VI
+Mojave National Preserve	iucnCategory	V
+Tresticklan National Park	iucnCategory	II
+Fort McHenry	iucnCategory	III
+Schleswig-Holstein Wadden Sea National Park	iucnCategory	II
+Hamburg Wadden Sea National Park	iucnCategory	II
+Elk Island National Park	iucnCategory	II
+Lava Beds National Monument	iucnCategory	III
+Craters of the Moon National Monument and Preserve	iucnCategory	III
+Jamaica Bay Wildlife Refuge	iucnCategory	V
+Denali National Park and Preserve	iucnCategory	II
+Mount Baker-Snoqualmie National Forest	iucnCategory	VI
+Devils Tower National Monument	iucnCategory	III
+Pacific Rim National Park Reserve	iucnCategory	II
+Montezuma Castle National Monument	iucnCategory	V
+Pa Hin Ngam National Park	iucnCategory	II
+Rocky Mountain National Park	iucnCategory	II
+Mesa Verde National Park	iucnCategory	II
+Kings Canyon National Park	iucnCategory	II
+Sequoia National Park	iucnCategory	II
+Eagle Rock Reservation	iucnCategory	V
+Natural Bridges National Monument	iucnCategory	III
+Ouachita National Forest	iucnCategory	VI
+Ukkusiksalik National Park	iucnCategory	II
+Kejimkujik National Park	iucnCategory	II
+Kruger National Park	iucnCategory	II
+Arkansas Post National Memorial	iucnCategory	III
+Pea Ridge National Military Park	iucnCategory	V
+Devils Postpile National Monument	iucnCategory	III
+Blue Ridge Parkway	iucnCategory	V
+Ozark – St. Francis National Forest	iucnCategory	VI
+Gayasan National Park	iucnCategory	II
+Crater of Diamonds State Park	iucnCategory	III
+Cape Lookout National Seashore	iucnCategory	V
+Black Canyon of the Gunnison National Park	iucnCategory	II
+Canyonlands National Park	iucnCategory	II
+Channel Islands National Park	iucnCategory	II
+Rakiura National Park	iucnCategory	II
+National Wildlife Refuge	iucnCategory	IV
+Cape Henry Memorial	iucnCategory	V
+Garden of the Gods	iucnCategory	III
+Rainbow Bridge National Monument	iucnCategory	III
+Lassen Volcanic National Park	iucnCategory	II
+Muir Woods National Monument	iucnCategory	III
+Cahokia	iucnCategory	III
+Mount Robson Provincial Park	iucnCategory	II
+Colonial National Historical Park	iucnCategory	V
+Aoraki/Mount Cook National Park	iucnCategory	II
+Katmai National Park and Preserve	iucnCategory	Ib
+Etosha National Park	iucnCategory	II
+Namib-Naukluft National Park	iucnCategory	II
+Great Smoky Mountains National Park	iucnCategory	II
+Quttinirpaaq National Park	iucnCategory	II
+Egmont National Park	iucnCategory	II
+Prince Albert National Park	iucnCategory	II
+Corkscrew Swamp Sanctuary	iucnCategory	Ib
+Sagarmatha National Park	iucnCategory	II
+Gotska Sandön	iucnCategory	II
+Accotink Bay Wildlife Refuge	iucnCategory	Iv
+Union Bay Natural Area	iucnCategory	Ib
+Point Reyes National Seashore	iucnCategory	V
+Franklin Delano Roosevelt Memorial	iucnCategory	V
+Antelope Valley California Poppy Reserve	iucnCategory	V
+Scotts Bluff National Monument	iucnCategory	V
+Boundary Waters Canoe Area Wilderness	iucnCategory	Ib
+Kisite-Mpunguti Marine National Park	iucnCategory	II
+Taroko National Park	iucnCategory	II
+Gateway National Recreation Area	iucnCategory	V
+National World War II Memorial	iucnCategory	V
+Wupatki National Monument	iucnCategory	V
+Gulf Islands National Park Reserve	iucnCategory	II
+Golden Spike National Historic Site	iucnCategory	V
+Capitol Reef National Park	iucnCategory	II
+Kootenay National Park	iucnCategory	II
+Wood Buffalo National Park	iucnCategory	II
+El Yunque National Forest	iucnCategory	VI
+Akan National Park	iucnCategory	V
+Rock of Gibraltar  Upper Rock Nature Reserve   1	iucnCategory	Ia
+Indiana Dunes National Lakeshore	iucnCategory	V
+Great Sand Dunes National Park and Preserve	iucnCategory	II
+Anza-Borrego Desert State Park	iucnCategory	III
+Fiordland National Park	iucnCategory	II
+Pelican Island National Wildlife Refuge	iucnCategory	Ib
+Bitter Lake National Wildlife Refuge	iucnCategory	IV
+Guadalupe Mountains National Park	iucnCategory	II
+Sleeping Bear Dunes National Lakeshore	iucnCategory	III
+Fuji-Hakone-Izu National Park	iucnCategory	II
+Meru Betiri National Park	iucnCategory	II
+Alas Purwo National Park	iucnCategory	II
+Baluran National Park	iucnCategory	II
+Horton Plains National Park	iucnCategory	II
+Serra dos Órgãos	iucnCategory	II
+Rondane National Park	iucnCategory	II
+Ahaggar Mountains  Ahaggar National Park   1	iucnCategory	II
+Nahanni National Park Reserve	iucnCategory	II
+Yala National Park	iucnCategory	II
+Kennesaw Mountain National Battlefield Park	iucnCategory	II
+Florissant Fossil Beds National Monument	iucnCategory	III
+Lake Mead National Recreation Area	iucnCategory	V
+Bosque del Apache National Wildlife Refuge	iucnCategory	IV
+Okapi Wildlife Reserve	iucnCategory	II
+Sebastian Inlet State Park	iucnCategory	V
+Hawaiʻi Volcanoes National Park	iucnCategory	II
+El Cajas	iucnCategory	II
+Udawalawe National Park	iucnCategory	II
+New Forest	iucnCategory	V
+Sinharaja Forest Reserve	iucnCategory	II
+Yangmingshan	iucnCategory	II
+Mendocino National Forest	iucnCategory	VI
+Ujung Kulon National Park	iucnCategory	II
+Willmore Wilderness Park	iucnCategory	Ib
+Lord Howe Island Marine Park	iucnCategory	VI
+French River (Ontario)  French River Provincial Park   1	iucnCategory	II
+Hocking Hills State Park	iucnCategory	V
+Burr Oak State Park	iucnCategory	V
+Tiveden	iucnCategory	II
+Mattawa River  Provincial Park   1	iucnCategory	II
+Big Basin Redwoods State Park	iucnCategory	II
+Missinaibi River  Missinaibi Provincial Park   1	iucnCategory	II
+Lorentz National Park	iucnCategory	II
+Fathom Five National Marine Park	iucnCategory	II
+Gates of the Arctic National Park and Preserve	iucnCategory	Ib
+Cuyahoga Valley National Park	iucnCategory	II
+Fort Caroline	iucnCategory	V
+Loch Lomond and The Trossachs National Park	iucnCategory	V
+Cairngorms National Park	iucnCategory	V
+McCormick's Creek State Park	iucnCategory	III
+Kluane National Park and Reserve	iucnCategory	II
+Congaree National Park	iucnCategory	Ib
+Los Glaciares National Park	iucnCategory	II
+Dry Tortugas National Park	iucnCategory	II
+Komodo National Park	iucnCategory	II
+Cederberg	iucnCategory	Ib
+Colorado National Monument	iucnCategory	III
+Lake Superior Provincial Park	iucnCategory	II
+Olympic National Forest	iucnCategory	VI
+Gifford Pinchot National Forest	iucnCategory	VI
+Nelson Lakes National Park	iucnCategory	II
+Kahurangi National Park	iucnCategory	II
+Arthur's Pass National Park	iucnCategory	II
+John Muir Wilderness	iucnCategory	Ib
+Abel Tasman National Park	iucnCategory	II
+Mount Aspiring National Park	iucnCategory	II
+Border Field State Park	iucnCategory	II
+Skaftafell National Park	iucnCategory	II
+Taman Negara	iucnCategory	II
+Russell Cave National Monument	iucnCategory	III
+Fort Donelson National Battlefield	iucnCategory	V
+Pyrénées National Park	iucnCategory	II
+Allegheny National Forest	iucnCategory	VI
+Wolf Trap National Park for the Performing Arts	iucnCategory	II
+USS Arizona Memorial	iucnCategory	V
+Šar Mountains  National Park   1	iucnCategory	II
+Blå Jungfrun	iucnCategory	II
+Stenshuvud National Park	iucnCategory	II
+Pictured Rocks National Lakeshore	iucnCategory	III
+Oregon Caves National Monument	iucnCategory	III
+Te Urewera National Park	iucnCategory	II
+Tongariro National Park	iucnCategory	II
+Paparoa National Park	iucnCategory	II
+Waterton Lakes National Park	iucnCategory	II
+Montezuma National Wildlife Refuge	iucnCategory	IV
+Sunset Crater  Volcano National Monument   1	iucnCategory	III
+Dalby Söderskog National Park	iucnCategory	II
+Söderåsen National Park	iucnCategory	II
+Billiatt Conservation Park	iucnCategory	Ia
+Apache-Sitgreaves National Forest	iucnCategory	VI
+Kaibab National Forest	iucnCategory	VI
+ISimangaliso Wetland Park	iucnCategory	II
+Monocacy National Battlefield	iucnCategory	V
+Grasslands National Park	iucnCategory	II
+Haleakalā National Park	iucnCategory	II
+Glacier Bay National Park and Preserve	iucnCategory	II
+Hot Springs National Park	iucnCategory	II
+Kenai Fjords National Park	iucnCategory	II
+Kobuk Valley National Park	iucnCategory	II
+Lake Clark National Park and Preserve	iucnCategory	II
+Wrangell–St. Elias National Park and Preserve	iucnCategory	II
+George Mason Memorial	iucnCategory	V
+National Park of American Samoa	iucnCategory	II
+Virgin Islands National Park	iucnCategory	II
+Theodore Roosevelt National Park	iucnCategory	II
+Voyageurs National Park	iucnCategory	II
+Redwood National and State Parks	iucnCategory	II
+Wind Cave National Park	iucnCategory	II
+Tonto National Forest	iucnCategory	VI
+Moores Creek National Battlefield	iucnCategory	V
+Pancake Bay Provincial Park	iucnCategory	II
+City of Rocks National Reserve	iucnCategory	V
+Glen Canyon National Recreation Area	iucnCategory	V
+Khao Sok	iucnCategory	II
+Spring Mountains	iucnCategory	Ib
+Tsavo East National Park	iucnCategory	II
+Shiawassee National Wildlife Refuge	iucnCategory	Ib
+Peneda-Gerês National Park	iucnCategory	II
+Pirin National Park	iucnCategory	II
+Srebarna Nature Reserve	iucnCategory	Ia
+Mount St. Helens National Volcanic Monument	iucnCategory	III
+Quivira National Wildlife Refuge	iucnCategory	IV
+Sierra National Forest	iucnCategory	VI
+Giant Sequoia National Monument	iucnCategory	III
+Selway-Bitterroot Wilderness	iucnCategory	Ib
+Gospel Hump Wilderness	iucnCategory	Ib
+Khao Yai National Park	iucnCategory	II
+Nez Perce National Historical Park	iucnCategory	V
+Kakabeka Falls	iucnCategory	II
+Dovre National Park	iucnCategory	II
+Caldera de Taburiente National Park	iucnCategory	II
+Jewel Cave National Monument	iucnCategory	III
+Nez Perce National Forest	iucnCategory	VI
+Clearwater National Forest	iucnCategory	VI
+Petroglyph National Monument	iucnCategory	III
+Cumberland Gap National Historical Park	iucnCategory	V
+Kasha-Katuwe Tent Rocks National Monument	iucnCategory	III
+Iroquois National Wildlife Refuge	iucnCategory	IV
+Barachois Pond Provincial Park	iucnCategory	VI
+Cypress Provincial Park	iucnCategory	II
+Deep Creek Lake State Park	iucnCategory	V
+Horseshoe Bend National Military Park	iucnCategory	III
+Noatak National Preserve	iucnCategory	II
+Chesapeake and Ohio Canal National Historical Park	iucnCategory	V
+Jiuzhaigou Valley	iucnCategory	III
+Gonarezhou National Park	iucnCategory	II
+Hwange National Park	iucnCategory	II
+Frank Church—River of No Return Wilderness	iucnCategory	Ib
+Nyanga National Park	iucnCategory	II
+Matobo National Park	iucnCategory	II
+Chizarira National Park	iucnCategory	II
+Kazuma Pan National Park	iucnCategory	II
+Gatineau Park	iucnCategory	II
+Virunga National Park	iucnCategory	II
+Klondike Gold Rush National Historical Park	iucnCategory	V
+Chapada Diamantina National Park	iucnCategory	II
+Samburu National Reserve	iucnCategory	II
+Amboseli National Park	iucnCategory	II
+Kawartha Highlands Provincial Park	iucnCategory	II
+Timpanogos Cave National Monument	iucnCategory	III
+Shiretoko National Park	iucnCategory	II
+Dovrefjell–Sunndalsfjella National Park	iucnCategory	II
+Puʻuhonua o Hōnaunau National Historical Park	iucnCategory	V
+Three Sisters Wilderness	iucnCategory	Ib
+Casa Grande Ruins National Monument	iucnCategory	V
+Bannerghatta National Park	iucnCategory	II
+Willamette National Forest	iucnCategory	V
+Shikotsu-Tōya National Park	iucnCategory	II
+Innoko National Wildlife Refuge	iucnCategory	IV
+Daisetsuzan National Park	iucnCategory	II
+John Day Fossil Beds National Monument	iucnCategory	III
+Organ Pipe Cactus National Monument	iucnCategory	III
+Apostle Islands National Lakeshore	iucnCategory	V
+Mount Revelstoke National Park	iucnCategory	II
+Ashizuri-Uwakai National Park	iucnCategory	II
+Shimba Hills National Reserve	iucnCategory	II
+Nairobi National Park	iucnCategory	II
+Killbear Provincial Park	iucnCategory	II
+Stanislaus National Forest	iucnCategory	VI
+Westland Tai Poutini National Park	iucnCategory	II
+Stein Valley Nlaka'pamux Heritage Park	iucnCategory	II
+Whanganui National Park	iucnCategory	II
+Chimney Rock National Historic Site	iucnCategory	III
+Harriman State Park (New York)	iucnCategory	II
+Fire Island National Seashore	iucnCategory	V
+Georgian Bay Islands National Park	iucnCategory	II
+Lewis and Clark National and State Historical Parks	iucnCategory	V
+Swiss National Park	iucnCategory	Ia
+Loonse en Drunense Duinen	iucnCategory	II
+Scott Creek Conservation Park	iucnCategory	III
+Theodore Roosevelt Island	iucnCategory	V
+Ochoco National Forest	iucnCategory	VI
+Tassili n'Ajjer  National Park   1	iucnCategory	II
+Mer Bleue Conservation Area	iucnCategory	IV
+Henry W. Coe State Park	iucnCategory	V
+Henry W. Coe State Park  Henry W. Coe State Wilderness Orestimba Wilderness  1	iucnCategory	Ib
+Wheatley Provincial Park	iucnCategory	II
+Cloudland Canyon State Park	iucnCategory	V
+El Malpais National Monument	iucnCategory	V
+Ocmulgee National Monument	iucnCategory	V
+Bandiagara Escarpment	iucnCategory	III
+Iguaçu National Park	iucnCategory	II
+Bach Ma National Park	iucnCategory	II
+Fort Vancouver National Historic Site	iucnCategory	V
+Palo Alto Battlefield National Historical Park	iucnCategory	V
+Little Bighorn Battlefield National Monument	iucnCategory	III
+El Morro National Monument	iucnCategory	III
+Rondeau Provincial Park	iucnCategory	II
+Taï National Park	iucnCategory	II
+Ngorongoro Conservation Area	iucnCategory	VI
+Farallon Islands	iucnCategory	IV
+Manú National Park	iucnCategory	II
+Big Thicket	iucnCategory	V
+Sipsey Wilderness	iucnCategory	Ib
+Salt Plains National Wildlife Refuge	iucnCategory	IV
+Canyon de Chelly National Monument	iucnCategory	III
+Chiricahua National Monument	iucnCategory	III
+Fort Frederica National Monument	iucnCategory	V
+Fossil Butte National Monument	iucnCategory	III
+River Kent    1	iucnCategory	IV
+Canaima National Park	iucnCategory	II
+Gir Forest National Park	iucnCategory	II
+Myakka River State Park	iucnCategory	Ib
+Arabuko Sokoke National Park	iucnCategory	II
+South Mountain Reservation	iucnCategory	V
+Baxter State Park	iucnCategory	Ib
+William B. Bankhead National Forest	iucnCategory	VI
+San Juan Island National Historical Park	iucnCategory	V
+Wheeler National Wildlife Refuge	iucnCategory	IV
+Paria Canyon-Vermilion Cliffs Wilderness	iucnCategory	Ib
+Bald Point State Park	iucnCategory	Ib
+Big Lagoon State Park	iucnCategory	V
+Blackwater River State Park	iucnCategory	Ib
+Camp Helen State Park	iucnCategory	Ib
+Constitution Convention Museum State Park	iucnCategory	V
+Deer Lake State Park	iucnCategory	Ib
+Econfina River State Park	iucnCategory	V
+Eden Gardens State Park	iucnCategory	V
+Río Plátano Biosphere Reserve	iucnCategory	II
+Phong Nha-Ke Bang National Park	iucnCategory	II
+Fish Creek Provincial Park	iucnCategory	VI
+Sarek National Park	iucnCategory	II
+Florida Caverns State Park	iucnCategory	Ib
+Fred Gannon Rocky Bayou State Park	iucnCategory	V
+Grayton Beach State Park	iucnCategory	Ib
+Henderson Beach State Park	iucnCategory	V
+John Gorrie State Museum	iucnCategory	V
+Lake Jackson Mounds Archaeological State Park	iucnCategory	V
+Letchworth Mounds	iucnCategory	V
+Natural Bridge Battlefield Historic State Park	iucnCategory	V
+Navarre Beach County Park	iucnCategory	Ib
+Ochlockonee River State Park	iucnCategory	V
+Perdido Key State Park	iucnCategory	Ib
+Ponce de Leon Springs State Park	iucnCategory	V
+St. George Island State Park	iucnCategory	Ib
+St. Andrews State Park	iucnCategory	V
+St. Joseph Peninsula State Park	iucnCategory	V
+Tarkiln Bayou	iucnCategory	Ib
+Three Rivers State Park	iucnCategory	Ib
+Yellow River Marsh	iucnCategory	Ib
+Torreya State Park	iucnCategory	V
+Glacier National Park (Canada)	iucnCategory	II
+Malheur National Forest	iucnCategory	VI
+Quetico Provincial Park	iucnCategory	II
+Calvert Cliffs State Park	iucnCategory	V
+George Washington Memorial Parkway    1	iucnCategory	V
+Đerdap national park	iucnCategory	II
+Tara (mountain)  Tara National Park   1	iucnCategory	II
+Deep Creek Conservation Park	iucnCategory	II
+Killarney National Park	iucnCategory	II
+Lomas de Lachay	iucnCategory	Ia
+Walnut Canyon National Monument	iucnCategory	V
+Vulkathunha-Gammon Ranges National Park	iucnCategory	II
+Keoladeo National Park	iucnCategory	II
+Anacostia Park	iucnCategory	V
+Mount Tamalpais State Park	iucnCategory	III
+Terra Nova National Park	iucnCategory	II
+Coronado National Forest	iucnCategory	VI
+Kenting National Park	iucnCategory	II
+Chichibu Tama Kai National Park	iucnCategory	II
+Khao Sam Roi Yot National Park	iucnCategory	II
+Djurö National Park	iucnCategory	II
+Wabakimi Provincial Park	iucnCategory	II
+Flathead National Forest	iucnCategory	VI
+Sierra Nevada National Park (Spain)	iucnCategory	II
+Huascarán National Park	iucnCategory	II
+Hardangervidda	iucnCategory	II
+Børgefjell National Park	iucnCategory	II
+Femundsmarka National Park	iucnCategory	II
+Gutulia National Park	iucnCategory	II
+Jostedalsbreen National Park	iucnCategory	II
+Møysalen National Park	iucnCategory	II
+San Juan National Historic Site	iucnCategory	III
+Blåfjella–Skjækerfjella National Park	iucnCategory	II
+Forollhogna National Park	iucnCategory	II
+Ormtjernkampen National Park	iucnCategory	II
+Rago National Park	iucnCategory	II
+Reisa National Park	iucnCategory	II
+Oglala National Grassland	iucnCategory	VI
+De Leon Springs State Park	iucnCategory	V
+Mu Ko Ang Thong National Park	iucnCategory	II
+Cumberland Island National Seashore	iucnCategory	II
+Oleta River State Park    1	iucnCategory	Ib
+Peace Arch Park	iucnCategory	V
+Hovenweep National Monument	iucnCategory	III
+Chiang Dao National Park	iucnCategory	II
+Oregon Dunes National Recreation Area	iucnCategory	V
+Iriomote-Ishigaki National Park	iucnCategory	II
+Chutes Provincial Park	iucnCategory	II
+Desolation Wilderness	iucnCategory	Ib
+Jotunheimen National Park	iucnCategory	II
+Claytor Lake State Park	iucnCategory	V
+Talladega National Forest	iucnCategory	VI
+Tuskegee National Forest	iucnCategory	VI
+Conecuh National Forest	iucnCategory	VI
+Cleveland National Forest	iucnCategory	VI
+Cheaha Wilderness	iucnCategory	Ib
+Dugger Mountain Wilderness	iucnCategory	Ib
+Ruaha National Park	iucnCategory	II
+Ipperwash Provincial Park	iucnCategory	II
+Navajo National Monument	iucnCategory	III
+Flaming Geyser State Park	iucnCategory	V
+Spring Mountains National Recreation Area	iucnCategory	V
+Chamizal National Memorial	iucnCategory	V
+Sauta Cave National Wildlife Refuge	iucnCategory	IV
+Shark Bay Marine Park	iucnCategory	Ia
+Mount Charleston Wilderness	iucnCategory	Ib
+Catoctin Mountain Park	iucnCategory	V
+Hoover Wilderness	iucnCategory	Ib
+Sutjeska National Park	iucnCategory	II
+Kinabalu National Park	iucnCategory	II
+Mississagi Provincial Park	iucnCategory	II
+Monfragüe	iucnCategory	II
+Madhav National Park	iucnCategory	II
+Bwindi Impenetrable National Park	iucnCategory	II
+Korup National Park	iucnCategory	II
+Banc d'Arguin National Park	iucnCategory	VI
+Bafing National Park	iucnCategory	II
+Boucle du Baoulé National Park	iucnCategory	II
+W National Park	iucnCategory	II
+Pendjari National Park	iucnCategory	IV
+Niokolo-Koba National Park	iucnCategory	II
+Bon Echo Provincial Park	iucnCategory	II
+Emigrant Wilderness	iucnCategory	Ib
+Dzūkija National Park	iucnCategory	II
+Ocala National Forest	iucnCategory	VI
+Tensas River National Wildlife Refuge	iucnCategory	IV
+Salmon-Challis National Forest	iucnCategory	VI
+Blue Spring State Park	iucnCategory	Ib
+Kinmen National Park	iucnCategory	II
+Chobe National Park	iucnCategory	II
+Akagera National Park	iucnCategory	II
+Garibaldi Provincial Park	iucnCategory	II
+Semien Mountains National Park	iucnCategory	II
+Great Meadows National Wildlife Refuge	iucnCategory	IV
+Gettysburg National Military Park	iucnCategory	V
+Jarbidge Wilderness	iucnCategory	Ib
+Saiwa Swamp National Park	iucnCategory	II
+Turon National Park	iucnCategory	II
+Brown County State Park	iucnCategory	V
+Jean Lafitte National Historical Park and Preserve	iucnCategory	V
+Detroit River International Wildlife Refuge	iucnCategory	Ib
+Curecanti National Recreation Area	iucnCategory	V
+Satpura National Park	iucnCategory	II
+West Sister Island	iucnCategory	Ib
+Portola Redwoods State Park	iucnCategory	II
+Meru National Park	iucnCategory	II
+Sequoia National Forest	iucnCategory	VI
+Rocky Mountain Arsenal National Wildlife Refuge	iucnCategory	IV
+Alamosa National Wildlife Refuge	iucnCategory	IV
+Monte Vista National Wildlife Refuge	iucnCategory	IV
+Baca National Wildlife Refuge	iucnCategory	IV
+Arapaho National Wildlife Refuge	iucnCategory	IV
+Point Lookout State Park	iucnCategory	V
+Darién National Park	iucnCategory	II
+Browns Park National Wildlife Refuge	iucnCategory	IV
+Awenda Provincial Park	iucnCategory	II
+Cleland Conservation Park	iucnCategory	III
+Aulavik National Park	iucnCategory	II
+Auyuittuq National Park	iucnCategory	II
+Amotape Hills National Park	iucnCategory	II
+Collegiate Peaks Wilderness	iucnCategory	Ib
+Lost Creek Wilderness	iucnCategory	Ib
+Kanha National Park	iucnCategory	II
+Lizard Head Wilderness	iucnCategory	Ib
+Powderhorn Wilderness	iucnCategory	Ib
+American Memorial Park	iucnCategory	V
+Vuntut National Park	iucnCategory	II
+Wapusk National Park	iucnCategory	II
+Ivvavik National Park	iucnCategory	II
+Tuktut Nogait National Park	iucnCategory	II
+Riding Mountain National Park	iucnCategory	II
+Sirmilik National Park	iucnCategory	II
+Pukaskwa National Park	iucnCategory	II
+Gwaii Haanas National Park Reserve and Haida Heritage Site	iucnCategory	II
+Mingan Archipelago National Park Reserve	iucnCategory	II
+Ranthambore National Park	iucnCategory	II
+Albany Pine Bush	iucnCategory	Ib
+Pipe Spring National Monument	iucnCategory	V
+Big Hole National Battlefield	iucnCategory	V
+Sand Creek Massacre National Historic Site	iucnCategory	V
+San Antonio Missions National Historical Park	iucnCategory	V
+New River Gorge National River	iucnCategory	II
+Bool Lagoon Game Reserve	iucnCategory	IV
+Fairview Conservation Park	iucnCategory	Ia
+Chugach National Forest	iucnCategory	VI
+Coconino National Forest	iucnCategory	VI
+Prescott National Forest	iucnCategory	VI
+Pilanesberg Game Reserve	iucnCategory	IV
+Queen Elizabeth National Park	iucnCategory	II
+Restoule Provincial Park	iucnCategory	II
+Apalachicola National Forest	iucnCategory	VI
+Lincoln Home National Historic Site	iucnCategory	V
+Mamungari Conservation Park	iucnCategory	Ib
+Kahuzi-Biéga National Park	iucnCategory	II
+Hoffmaster State Park	iucnCategory	V
+Mount Zirkel Wilderness	iucnCategory	Ib
+Mount Hood National Forest	iucnCategory	VI
+Flat Tops Wilderness Area	iucnCategory	Ib
+Petroglyphs Provincial Park	iucnCategory	II
+Bob Marshall Wilderness	iucnCategory	Ib
+Chitwan National Park	iucnCategory	II
+Warren Dunes State Park	iucnCategory	IV
+Upper Missouri River Breaks National Monument	iucnCategory	III
+Hagerman Fossil Beds National Monument	iucnCategory	III
+Minidoka National Historic Site	iucnCategory	V
+Virgin Islands Coral Reef National Monument	iucnCategory	III
+Tonto National Monument	iucnCategory	III
+Coronado National Memorial	iucnCategory	V
+Ebey's Landing National Historical Reserve	iucnCategory	V
+Father Marquette National Memorial	iucnCategory	V
+Fort Bowie National Historic Site	iucnCategory	V
+Homestead National Monument of America	iucnCategory	V
+Hubbell Trading Post National Historic Site	iucnCategory	V
+Lewis and Clark National Historic Trail	iucnCategory	V
+Knife River Indian Villages National Historic Site	iucnCategory	V
+Sitka National Historical Park	iucnCategory	V
+Tumacácori National Historical Park	iucnCategory	V
+Washita Battlefield National Historic Site    1	iucnCategory	V
+Paynes Prairie	iucnCategory	V
+De Biesbosch	iucnCategory	II
+Fruška Gora	iucnCategory	II
+Store Mosse National Park	iucnCategory	II
+Gyeongju National Park	iucnCategory	II
+Tesso Nilo National Park	iucnCategory	II
+Bale Mountains National Park	iucnCategory	II
+Gallatin National Forest	iucnCategory	VI
+Gulf Islands National Seashore	iucnCategory	V
+Pompeys Pillar National Monument	iucnCategory	III
+Sånfjället National Park	iucnCategory	II
+Longfellow House–Washington's Headquarters National Historic Site	iucnCategory	V
+John D. Rockefeller, Jr. Memorial Parkway	iucnCategory	V
+Granite Chief Wilderness	iucnCategory	Ib
+Bridger-Teton National Forest	iucnCategory	VI
+Sangay National Park	iucnCategory	II
+Danube-Auen National Park	iucnCategory	II
+Cypress Hills Interprovincial Park	iucnCategory	V
+San Bernardino National Forest	iucnCategory	VI
+Devil's Millhopper Geological State Park	iucnCategory	V
+Henry M. Jackson Wilderness	iucnCategory	Ib
+Upemba National Park	iucnCategory	II
+Laguna Atascosa National Wildlife Refuge	iucnCategory	V
+Uncompahgre Wilderness	iucnCategory	Ib
+Mount Sneffels Wilderness	iucnCategory	Ib
+Great Falls Park	iucnCategory	V
+Yasuni National Park	iucnCategory	II
+Absaroka-Beartooth Wilderness	iucnCategory	Ib
+Polar Bear Provincial Park	iucnCategory	II
+Hillsborough River State Park	iucnCategory	V
+Tablas de Daimiel National Park	iucnCategory	II
+Heathcote-Graytown National Park	iucnCategory	II
+MacGregor Point Provincial Park	iucnCategory	II
+Silent Lake Provincial Park	iucnCategory	II
+Rock Point Provincial Park	iucnCategory	II
+Niobrara National Scenic River	iucnCategory	III
+Custer National Forest	iucnCategory	VI
+Pusch Ridge Wilderness Area	iucnCategory	Ib
+Chickamauga and Chattanooga National Military Park	iucnCategory	V
+Koshi Tappu Wildlife Reserve	iucnCategory	IV
+Spring Mill State Park	iucnCategory	III
+Beaverhead-Deerlodge National Forest	iucnCategory	VI
+Kilimanjaro National Park	iucnCategory	II
+Mountain Zebra National Park	iucnCategory	II
+Los Arrayanes National Park	iucnCategory	II
+Prince William Forest Park	iucnCategory	III
+Cape Hatteras National Seashore	iucnCategory	V
+Assateague Island National Seashore	iucnCategory	V
+Wright Brothers National Memorial	iucnCategory	V
+Grand Canyon-Parashant National Monument	iucnCategory	III
+Boston National Historical Park	iucnCategory	V
+Saratoga National Historical Park	iucnCategory	V
+Bitterroot National Forest	iucnCategory	VI
+Los Alerces National Park	iucnCategory	II
+Corcovado National Park	iucnCategory	II
+Addo Elephant National Park	iucnCategory	II
+Helena National Forest	iucnCategory	VI
+Kootenai National Forest	iucnCategory	VI
+Sleeping Giant Provincial Park	iucnCategory	II
+Lewis and Clark National Forest	iucnCategory	VI
+Lolo National Forest	iucnCategory	VI
+Boise National Forest	iucnCategory	VI
+Bering Land Bridge National Preserve	iucnCategory	V
+Yukon–Charley Rivers National Preserve	iucnCategory	III
+Big Cypress National Preserve	iucnCategory	IV
+Harpers Ferry National Historical Park	iucnCategory	V
+Salt River Bay National Historical Park and Ecological Preserve	iucnCategory	IV
+Talampaya National Park	iucnCategory	II
+Yankari National Park	iucnCategory	II
+Ross Lake National Recreation Area	iucnCategory	V
+El Palmar National Park	iucnCategory	II
+Kainji National Park	iucnCategory	II
+Bowron Lake Provincial Park	iucnCategory	II
+Baritú National Park	iucnCategory	II
+Calilegua National Park	iucnCategory	II
+Abijatta-Shalla National Park	iucnCategory	II
+Awash National Park	iucnCategory	II
+Yangudi Rassa National Park	iucnCategory	II
+Mago National Park	iucnCategory	II
+Nechisar National Park	iucnCategory	II
+Omo National Park	iucnCategory	II
+Ridgefield National Wildlife Refuge	iucnCategory	IV
+Campo de los Alisos National Park	iucnCategory	II
+Los Cardones National Park	iucnCategory	II
+Rock Cut State Park	iucnCategory	III
+Saikai National Park	iucnCategory	II
+Saint Regis Canoe Area	iucnCategory	Ib
+Los Padres National Forest	iucnCategory	VI
+Hoge Veluwe National Park	iucnCategory	II
+Ouray National Wildlife Refuge	iucnCategory	IV
+Frontenac Provincial Park	iucnCategory	II
+Murchison Falls National Park	iucnCategory	II
+Copo National Park	iucnCategory	II
+El Leoncito National Park	iucnCategory	II
+Chaco National Park	iucnCategory	II
+Fort De Soto Park	iucnCategory	V
+Arli National Park	iucnCategory	IV
+Tawau Hills National Park	iucnCategory	II
+Pulau Tiga National Park	iucnCategory	II
+Crocker Range National Park	iucnCategory	II
+Cougar Mountain Regional Wildland Park	iucnCategory	IV
+Tunku Abdul Rahman National Park	iucnCategory	II
+Tsugaru Quasi-National Park	iucnCategory	V
+Hennepin Canal Parkway State Park	iucnCategory	III
+Christiansted National Historic Site	iucnCategory	V
+Bighorn National Forest	iucnCategory	VI
+Kafue National Park	iucnCategory	II
+North Luangwa National Park	iucnCategory	II
+South Luangwa National Park	iucnCategory	II
+El Rey National Park	iucnCategory	II
+Iguazú National Park	iucnCategory	II
+Kibale National Park	iucnCategory	II
+Turtle Islands National Park (Malaysia)	iucnCategory	II
+Medicine Bow – Routt National Forest	iucnCategory	VI
+Gargano	iucnCategory	II
+Wichita Mountains Wildlife Refuge	iucnCategory	IV
+Driftless Area National Wildlife Refuge	iucnCategory	IV
+Shawnee National Forest	iucnCategory	II
+Caribou-Targhee National Forest	iucnCategory	VI
+Lago Puelo National Park	iucnCategory	II
+Steamtown National Historic Site	iucnCategory	V
+Rome Sand Plains	iucnCategory	Ib
+Tai Rom Yen National Park	iucnCategory	II
+Nordvest-Spitsbergen National Park	iucnCategory	II
+Popo Agie Wilderness	iucnCategory	Ib
+Bridger Wilderness	iucnCategory	Ib
+Teton Wilderness	iucnCategory	Ib
+Muddus National Park	iucnCategory	II
+Stora Sjöfallet National Park	iucnCategory	II
+Cowpens National Battlefield	iucnCategory	V
+Tupelo National Battlefield	iucnCategory	V
+Superior National Forest	iucnCategory	VI
+Batang Ai National Park	iucnCategory	II
+Kgalagadi Transfrontier Park	iucnCategory	II
+Tuskegee Airmen National Historic Site	iucnCategory	V
+Highlands Hammock State Park	iucnCategory	V
+Antietam National Battlefield	iucnCategory	V
+Guilford Courthouse National Military Park	iucnCategory	V
+Abisko National Park	iucnCategory	II
+Fredericksburg and Spotsylvania National Military Park	iucnCategory	V
+Björnlandet National Park	iucnCategory	II
+Stones River National Battlefield	iucnCategory	V
+Del Norte Coast Redwoods State Park	iucnCategory	II
+Wilson's Creek National Battlefield	iucnCategory	V
+Petersburg National Battlefield	iucnCategory	V
+Holly Springs National Forest	iucnCategory	VI
+Chickasaw National Recreation Area	iucnCategory	V
+Cascade–Siskiyou National Monument	iucnCategory	III
+Manassas National Battlefield Park	iucnCategory	V
+Aberdare National Park	iucnCategory	II
+Santa Monica Mountains National Recreation Area	iucnCategory	V
+New Jersey Pinelands National Reserve	iucnCategory	V
+Parco Nazionale d'Abruzzo, Lazio e Molise	iucnCategory	II
+Roosevelt Campobello International Park	iucnCategory	V
+Perry's Victory and International Peace Memorial	iucnCategory	V
+War in the Pacific National Historical Park	iucnCategory	V
+Maludam National Park	iucnCategory	II
+Inyo National Forest	iucnCategory	VI
+Ankarana Reserve	iucnCategory	IV
+Bako National Park	iucnCategory	II
+Tahoe National Forest	iucnCategory	VI
+Shasta-Trinity National Forest	iucnCategory	VI
+Lassen National Forest	iucnCategory	VI
+Klamath National Forest	iucnCategory	VI
+Modoc National Forest	iucnCategory	VI
+Richmond National Battlefield Park	iucnCategory	V
+Eldorado National Forest	iucnCategory	VI
+Plumas National Forest	iucnCategory	VI
+Six Rivers National Forest	iucnCategory	VI
+Osceola National Forest	iucnCategory	VI
+Angelina National Forest	iucnCategory	VI
+Alpine Lakes Wilderness	iucnCategory	Ib
+Scapegoat Wilderness	iucnCategory	Ib
+Gros Ventre Wilderness	iucnCategory	Ib
+Washakie Wilderness	iucnCategory	Ib
+North Absaroka Wilderness	iucnCategory	Ib
+Fitzpatrick Wilderness	iucnCategory	Ib
+Theodore Roosevelt Inaugural National Historic Site	iucnCategory	V
+Chippewa National Forest	iucnCategory	VI
+Idaho Panhandle National Forest	iucnCategory	VI
+Aspen Beach Provincial Park	iucnCategory	VI
+Big Knife Provincial Park	iucnCategory	VI
+Calling Lake Provincial Park	iucnCategory	VI
+Bow Valley Provincial Park	iucnCategory	VI
+Carson-Pegasus Provincial Park	iucnCategory	VI
+Crimson Lake Provincial Park	iucnCategory	IV
+Cold Lake Provincial Park	iucnCategory	VI
+Lesser Slave Lake Provincial Park	iucnCategory	IV
+Notikewin Provincial Park	iucnCategory	VI
+Pembina River Provincial Park	iucnCategory	VI
+Peter Lougheed Provincial Park	iucnCategory	VI
+Sundance Provincial Park	iucnCategory	IV
+Vermilion Provincial Park	iucnCategory	VI
+Barguzin Nature Reserve	iucnCategory	Ia
+Cloud Peak Wilderness	iucnCategory	Ib
+Encampment River Wilderness	iucnCategory	Ib
+Huston Park Wilderness	iucnCategory	Ib
+Savage Run Wilderness	iucnCategory	Ib
+Platte River Wilderness	iucnCategory	Ib
+Jedediah Smith Wilderness	iucnCategory	Ib
+Winegar Hole Wilderness	iucnCategory	Ib
+St. Clement's Island State Park	iucnCategory	V
+Anaconda-Pintler Wilderness	iucnCategory	Ib
+Lee Metcalf Wilderness	iucnCategory	Ib
+Cabinet Mountains Wilderness	iucnCategory	Ib
+Gates of the Mountains Wilderness	iucnCategory	Ib
+Flight 93 National Memorial	iucnCategory	V
+Medicine Lake Wilderness	iucnCategory	Ib
+UL Bend Wilderness	iucnCategory	Ib
+Red Rock Lakes Wilderness	iucnCategory	Ib
+Mission Mountains Wilderness	iucnCategory	Ib
+Rattlesnake Wilderness	iucnCategory	Ib
+Welcome Creek Wilderness	iucnCategory	Ib
+Mount Hood Wilderness	iucnCategory	Ib
+Gandaki River  oyal Chitwan National Park   1	iucnCategory	II
+Zakouma National Park	iucnCategory	II
+De Groote Peel National Park	iucnCategory	II
+Massasauga Provincial Park	iucnCategory	II
+Rio Abiseo National Park	iucnCategory	II
+Owens Peak Wilderness	iucnCategory	Ib
+El Paso Mountains Wilderness	iucnCategory	Ib
+Sabine National Wildlife Refuge	iucnCategory	IV
+Craters of the Moon National Wilderness	iucnCategory	Ib
+Hells Canyon Wilderness (Oregon and Idaho)	iucnCategory	Ib
+Sawtooth Wilderness	iucnCategory	Ib
+Fulufjället National Park	iucnCategory	II
+Irish Wilderness	iucnCategory	Ib
+First Landing State Park	iucnCategory	V
+Charlestown State Park	iucnCategory	V
+Falls of the Ohio State Park	iucnCategory	III
+Clifty Falls State Park	iucnCategory	III
+O'Bannon Woods State Park	iucnCategory	III
+Weir Farm National Historic Site	iucnCategory	V
+Chain O'Lakes State Park (Indiana)	iucnCategory	V
+Charles M. Russell National Wildlife Refuge	iucnCategory	IV
+Blue Rock State Park	iucnCategory	V
+False Cape State Park	iucnCategory	V
+Salem Maritime National Historic Site	iucnCategory	V
+Delaware Water Gap National Recreation Area	iucnCategory	V
+Illinois Caverns State Natural Area	iucnCategory	Ib
+Nebraska National Forest	iucnCategory	VI
+Fort Niobrara Wilderness	iucnCategory	Ib
+Soldier Creek Wilderness	iucnCategory	Ib
+Badlands Wilderness	iucnCategory	Ib
+Black Elk Wilderness	iucnCategory	Ib
+Chase Lake Wilderness	iucnCategory	Ib
+Lake Chelan-Sawtooth Wilderness	iucnCategory	Ib
+Pasayten Wilderness	iucnCategory	Ib
+Headwaters Forest Reserve	iucnCategory	Ia
+Kidepo Valley National Park	iucnCategory	II
+Matthiessen State Park	iucnCategory	III
+Lostwood Wilderness	iucnCategory	Ib
+Theodore Roosevelt Wilderness	iucnCategory	Ib
+Goat Rocks Wilderness	iucnCategory	Ib
+Norse Peak Wilderness	iucnCategory	Ib
+Peak Wilderness Sanctuary	iucnCategory	IV
+Glacier Peak Wilderness	iucnCategory	Ib
+San Gorgonio Wilderness	iucnCategory	Ib
+Montague Island (Australia)	iucnCategory	Ia
+Black Fork Mountain Wilderness	iucnCategory	Ib
+Upper Kiamichi River Wilderness	iucnCategory	Ib
+Gunung Leuser National Park	iucnCategory	II
+Wildlife Prairie State Park	iucnCategory	III
+Payette National Forest	iucnCategory	VI
+Cascade Head	iucnCategory	V
+Dry Island Buffalo Jump Provincial Park	iucnCategory	III
+Sawtooth National Forest	iucnCategory	VI
+Sandbanks Provincial Park	iucnCategory	II
+Garajonay National Park	iucnCategory	II
+Gloria Dei (Old Swedes') Church	iucnCategory	V
+National Elk Refuge	iucnCategory	IV
+Olympic Coast National Marine Sanctuary	iucnCategory	IV
+Great Himalayan National Park	iucnCategory	II
+Cumbres de Majalca National Park	iucnCategory	II
+Alfred B. Maclay Gardens State Park	iucnCategory	V
+Charles Pinckney National Historic Site	iucnCategory	V
+Wasatch-Cache National Forest	iucnCategory	VI
+Bair Island	iucnCategory	IV
+Experimental Oculina Research Reserve	iucnCategory	Ia
+Manuel Antonio National Park	iucnCategory	II
+Nisqually National Wildlife Refuge	iucnCategory	IV
+Augrabies Falls National Park	iucnCategory	II
+Lake Chelan National Recreation Area	iucnCategory	V
+Norra Kvill National Park	iucnCategory	II
+Laguna Blanca National Park	iucnCategory	II
+Seneca Creek State Park	iucnCategory	V
+Tankwa Karoo National Park	iucnCategory	II
+Phu Kradueng National Park	iucnCategory	II
+Gerald Durrell Endemic Wildlife Sanctuary	iucnCategory	IV
+Bronte Creek Provincial Park	iucnCategory	II
+Sibiloi National Park	iucnCategory	II
+Periyar National Park	iucnCategory	II
+Selous Game Reserve	iucnCategory	IV
+Mahatma Gandhi Marine National Park	iucnCategory	II
+Central Plateau Conservation Area	iucnCategory	VI
+Devils Gullet State Reserve	iucnCategory	II
+Lord Howe Island Marine Park (Commonwealth waters)	iucnCategory	VI
+Mount Baker Wilderness	iucnCategory	Ib
+Boyer Chute National Wildlife Refuge	iucnCategory	IV
+Pico da Neblina National Park	iucnCategory	II
+Samuel R. McKelvie National Forest	iucnCategory	VI
+Lincoln Trail State Park	iucnCategory	III
+Ranganthittu Bird Sanctuary	iucnCategory	IV
+Dachigam National Park	iucnCategory	II
+Buxa Tiger Reserve	iucnCategory	II
+Anshi National Park	iucnCategory	II
+Van Vihar National Park	iucnCategory	II
+Simlipal National Park	iucnCategory	II
+Dudhwa National Park	iucnCategory	II
+Gangotri National Park	iucnCategory	II
+Stabbursdalen National Park	iucnCategory	II
+Khangchendzonga National Park	iucnCategory	II
+Bhitarkanika National Park	iucnCategory	II
+Govind Pashu Vihar Wildlife Sanctuary	iucnCategory	IV
+Rajaji National Park	iucnCategory	II
+Nameri National Park	iucnCategory	II
+Mahavir Harina Vanasthali National Park	iucnCategory	II
+Providence Canyon State Park	iucnCategory	III
+Black Hills National Forest	iucnCategory	VI
+Comanche National Grassland	iucnCategory	VI
+Thunder Basin National Grassland	iucnCategory	VI
+Buffalo Gap National Grassland	iucnCategory	VI
+Kiowa National Grassland	iucnCategory	VI
+Little Missouri National Grassland	iucnCategory	VI
+Killarney Provincial Park	iucnCategory	II
+Klamath Basin National Wildlife Refuge Complex	iucnCategory	IV
+Rainwater Basin	iucnCategory	IV
+Benton Lake National Wildlife Refuge	iucnCategory	IV
+Bowdoin National Wildlife Refuge	iucnCategory	IV
+Little Picacho Wilderness	iucnCategory	Ib
+Médanos de Coro National Park	iucnCategory	II
+Garamba National Park	iucnCategory	II
+Cabeza Prieta Wilderness	iucnCategory	Ib
+Kayan Mentarang National Park	iucnCategory	II
+Cabeza Prieta National Wildlife Refuge	iucnCategory	IV
+Nagarhole National Park	iucnCategory	II
+Lore Lindu National Park	iucnCategory	II
+Kopaonik  opaonik National Park   1	iucnCategory	II
+Bill Baggs Cape Florida State Park	iucnCategory	V
+Outamba-Kilimi National Park	iucnCategory	II
+Hell's Gate National Park	iucnCategory	II
+Tidewater Provincial Park	iucnCategory	II
+Bigelow Cholla Garden Wilderness	iucnCategory	Ib
+Way Kambas National Park	iucnCategory	II
+Wrangell – Saint Elias Wilderness	iucnCategory	Ib
+Katmai Wilderness	iucnCategory	Ib
+Glacier Bay Wilderness	iucnCategory	Ib
+Noatak Wilderness	iucnCategory	Ib
+Gates of the Arctic Wilderness	iucnCategory	Ib
+Kobuk Valley Wilderness	iucnCategory	Ib
+Kaieteur National Park	iucnCategory	II
+Bohemian Switzerland	iucnCategory	II
+Słowiński National Park	iucnCategory	II
+Kampinos National Park	iucnCategory	II
+Karkonosze National Park	iucnCategory	II
+Wielkopolska National Park	iucnCategory	II
+Pieniny National Park (Poland)	iucnCategory	II
+Pieniny National Park (Slovakia)	iucnCategory	II
+Wigry National Park	iucnCategory	II
+Biebrza National Park	iucnCategory	II
+Narew National Park	iucnCategory	II
+Wolin National Park	iucnCategory	II
+Gorce National Park	iucnCategory	II
+Two Ponds National Wildlife Refuge	iucnCategory	IV
+Waza National Park	iucnCategory	II
+Tarangire National Park	iucnCategory	II
+Lake Manyara National Park	iucnCategory	II
+Aukštaitija National Park	iucnCategory	II
+Žemaitija National Park	iucnCategory	II
+Trakai Historical National Park	iucnCategory	II
+Liwonde National Park	iucnCategory	II
+Waterberg National Park	iucnCategory	II
+Nyika National Park	iucnCategory	II
+Kasungu National Park	iucnCategory	II
+Arusha National Park	iucnCategory	II
+Bieszczady National Park	iucnCategory	II
+Slide Mountain Wilderness Area	iucnCategory	Ib
+Petrie Island	iucnCategory	III
+Jonathan Dickinson State Park	iucnCategory	V
+Ivindo National Park	iucnCategory	II
+Waka National Park	iucnCategory	II
+Lopé National Park	iucnCategory	II
+Birougou National Park	iucnCategory	II
+Crystal Mountains National Park	iucnCategory	II
+Loango National Park	iucnCategory	II
+Batéké Plateau National Park	iucnCategory	II
+Maiko National Park	iucnCategory	II
+Salonga National Park	iucnCategory	II
+Amistad National Recreation Area	iucnCategory	V
+John Pennekamp Coral Reef State Park	iucnCategory	V
+Short Hills Provincial Park	iucnCategory	II
+Askot Musk Deer Sanctuary	iucnCategory	IV
+Schramm Park State Recreation Area	iucnCategory	V
+Oscar Scherer State Park	iucnCategory	V
+Drift Creek Wilderness	iucnCategory	Ib
+Colonel Bob Wilderness	iucnCategory	Ib
+Olympic Wilderness	iucnCategory	Ib
+Bardiya National Park	iucnCategory	II
+Tyresta National Park	iucnCategory	II
+Kerinci Seblat National Park	iucnCategory	II
+Nez Perce National Historic Trail	iucnCategory	V
+Pinckney Island National Wildlife Refuge	iucnCategory	IV
+Lower Klamath National Wildlife Refuge	iucnCategory	IV
+Tule Lake National Wildlife Refuge	iucnCategory	IV
+National Bison Range	iucnCategory	IV
+Lost Trail National Wildlife Refuge	iucnCategory	IV
+Ninepipe National Wildlife Refuge	iucnCategory	IV
+Pablo National Wildlife Refuge	iucnCategory	IV
+Dwight D. Eisenhower Memorial	iucnCategory	V
+Swan River National Wildlife Refuge	iucnCategory	IV
+Golden Gate National Recreation Area	iucnCategory	V
+Vesuvius National Park	iucnCategory	II
+Homosassa Springs Wildlife State Park	iucnCategory	Ib
+Berowra Valley Regional Park	iucnCategory	V
+El Ávila National Park	iucnCategory	II
+Sumidero Canyon	iucnCategory	II
+John D. MacArthur Beach State Park	iucnCategory	Ib
+Northwest Montana Wetland Management District	iucnCategory	IV
+Honeymoon Island State Park	iucnCategory	V
+Lady Musgrave Island	iucnCategory	II
+Anclote Key Preserve State Park	iucnCategory	Ib
+Caladesi Island State Park	iucnCategory	Ib
+Gray's Reef National Marine Sanctuary	iucnCategory	IV
+Blackbuck National Park, Velavadar	iucnCategory	II
+Marine National Park, Gulf of Kutch	iucnCategory	II
+Vansda National Park	iucnCategory	II
+Amelia Island State Park	iucnCategory	Ib
+Anastasia State Park	iucnCategory	V
+Miguasha National Park	iucnCategory	III
+Martin Luther King, Jr. National Memorial	iucnCategory	V
+Big Talbot Island State Park	iucnCategory	Ib
+Bulow Creek State Park	iucnCategory	V
+Cayo Costa State Park	iucnCategory	V
+Cedar Key Museum State Park	iucnCategory	Ib
+Collier-Seminole State Park	iucnCategory	Ib
+Crystal River Preserve State Park	iucnCategory	Ib
+Skyway Fishing Pier State Park	iucnCategory	Ib
+Siberut National Park	iucnCategory	II
+Dead Lakes State Recreation Area	iucnCategory	Ib
+Delnor-Wiggins Pass State Park	iucnCategory	V
+Don Pedro Island State Park	iucnCategory	Ib
+Haparanda Archipelago National Park	iucnCategory	II
+Egmont Key State Park	iucnCategory	IV
+Faver-Dykes State Park	iucnCategory	Ib
+Forest Capital Museum State Park	iucnCategory	V
+Fort Clinch State Park	iucnCategory	Ib
+Fort Cooper State Park	iucnCategory	V
+Lee Metcalf National Wildlife Refuge	iucnCategory	IV
+Black Coulee National Wildlife Refuge	iucnCategory	IV
+Creedman Coulee National Wildlife Refuge	iucnCategory	IV
+Hewitt Lake National Wildlife Refuge	iucnCategory	IV
+Lake Thibadeau National Wildlife Refuge	iucnCategory	IV
+Hailstone National Wildlife Refuge	iucnCategory	IV
+Halfbreed Lake National Wildlife Refuge	iucnCategory	IV
+Lake Mason National Wildlife Refuge	iucnCategory	IV
+War Horse National Wildlife Refuge	iucnCategory	IV
+Fort George Island Cultural State Park	iucnCategory	Ib
+Fort Pierce Inlet State Park	iucnCategory	V
+Gainesville-Hawthorne Trail State Park	iucnCategory	V
+Gamble Plantation Historic State Park	iucnCategory	V
+Medicine Lake National Wildlife Refuge	iucnCategory	IV
+Lamesteer National Wildlife Refuge	iucnCategory	IV
+UL Bend National Wildlife Refuge	iucnCategory	IV
+Red Rock Lakes National Wildlife Refuge	iucnCategory	IV
+Jubilee College State Park	iucnCategory	III
+Table Mountain National Park	iucnCategory	II
+Ichkeul lake	iucnCategory	II
+Gasparilla Island State Park	iucnCategory	Ib
+Saltfjellet–Svartisen National Park	iucnCategory	II
+General James A. Van Fleet State Trail	iucnCategory	V
+Mike Roess Gold Head Branch State Park	iucnCategory	V
+Hontoon Island State Park	iucnCategory	Ib
+Hugh Taylor Birch State Park	iucnCategory	V
+Ichetucknee Springs State Park	iucnCategory	V
+John U. Lloyd Beach State Park	iucnCategory	Ib
+Babia Góra National Park	iucnCategory	II
+Gamble Rogers Memorial State Recreation Area at Flagler Beach	iucnCategory	V
+Okefenokee National Wildlife Refuge	iucnCategory	IV
+Los Katíos National Park	iucnCategory	II
+Estero Bay Preserve State Park	iucnCategory	Ib
+Koreshan State Historic Site	iucnCategory	V
+Lake Griffin State Park	iucnCategory	Ib
+Bory Tucholskie National Park	iucnCategory	II
+Dja Faunal Reserve	iucnCategory	IV
+Manovo-Gounda St. Floris National Park	iucnCategory	II
+Comoé National Park	iucnCategory	II
+Lake Kissimmee State Park	iucnCategory	Ib
+Lake Louisa State Park	iucnCategory	Ib
+Lake Manatee State Park	iucnCategory	Ib
+Lignumvitae Key State Botanical Park	iucnCategory	V
+Little Manatee River State Park	iucnCategory	Ib
+Drawa National Park	iucnCategory	II
+Long Key State Park	iucnCategory	Ib
+Lovers Key / Carl E. Johnson State Park	iucnCategory	Ib
+Dayton Aviation Heritage National Historical Park	iucnCategory	V
+Tsingy de Bemaraha Strict Nature Reserve	iucnCategory	II
+Lake Malawi National Park	iucnCategory	II
+Werner-Boyce Salt Springs State Park	iucnCategory	Ib
+Morne Trois Pitons National Park	iucnCategory	II
+Lower Wekiva River Preserve State Park	iucnCategory	V
+Rwenzori Mountains National Park	iucnCategory	II
+Dixon Springs State Park	iucnCategory	III
+Manatee Springs State Park	iucnCategory	V
+Endau Rompin National Park	iucnCategory	II
+Washington Oaks State Gardens	iucnCategory	V
+Canaveral National Seashore	iucnCategory	V
+O'Leno State Park	iucnCategory	V
+Olustee Battlefield Historic State Park	iucnCategory	V
+Paynes Creek Historic State Park	iucnCategory	V
+Table Mountains National Park	iucnCategory	II
+Peacock Springs State Park	iucnCategory	Ib
+Grand Island National Recreation Area	iucnCategory	V
+Magura National Park	iucnCategory	II
+Rainbow Springs State Park	iucnCategory	V
+Ravine Gardens State Park	iucnCategory	V
+Rock Springs Run State Reserve	iucnCategory	Ib
+Missouri National Recreational River	iucnCategory	III
+Elora Gorge	iucnCategory	II
+Braulio Carrillo National Park	iucnCategory	II
+Devils Backbone Wilderness	iucnCategory	Ib
+Piney Creek Wilderness	iucnCategory	Ib
+Bell Mountain Wilderness	iucnCategory	Ib
+Paddy Creek Wilderness	iucnCategory	Ib
+Hercules Glades Wilderness	iucnCategory	Ib
+Mingo Wilderness	iucnCategory	Ib
+Pinecone Burke Provincial Park	iucnCategory	II
+Ashdown Gorge Wilderness	iucnCategory	Ib
+Fort Massac	iucnCategory	III
+Great Australian Bight Marine Park (Commonwealth waters)	iucnCategory	VI
+Cape Gantheaume Wilderness Protection Area	iucnCategory	Ib
+Cape Gantheaume Conservation Park	iucnCategory	Ia
+Ravine des Casoars Wilderness Protection Area	iucnCategory	Ib
+Kelly Hill Conservation Park	iucnCategory	III
+Seal Bay Conservation Park	iucnCategory	III
+Prairie Creek Redwoods State Park	iucnCategory	II
+Chattahoochee River National Recreation Area	iucnCategory	V
+Tahquamenon Falls State Park	iucnCategory	V
+Strzelecki Regional Reserve	iucnCategory	VI
+Nullarbor Regional Reserve	iucnCategory	VI
+Simpson Desert Regional Reserve	iucnCategory	VI
+Simpson Desert Conservation Park	iucnCategory	Ia
+San Felasco Hammock Preserve State Park	iucnCategory	V
+Big South Fork National River and Recreation Area	iucnCategory	V
+Ojców National Park	iucnCategory	II
+Seney National Wildlife Refuge	iucnCategory	Ib
+Beaver Dam Mountains Wilderness	iucnCategory	Ib
+Northeast Greenland National Park	iucnCategory	II
+Malá Fatra National Park	iucnCategory	II
+Black Ridge Canyons Wilderness	iucnCategory	Ib
+United States Navy Memorial	iucnCategory	V
+Seedskadee National Wildlife Refuge	iucnCategory	IV
+Cokeville Meadows National Wildlife Refuge	iucnCategory	IV
+Pathfinder National Wildlife Refuge	iucnCategory	IV
+Bamforth National Wildlife Refuge	iucnCategory	IV
+Hutton Lake National Wildlife Refuge	iucnCategory	IV
+Mortenson Lake National Wildlife Refuge	iucnCategory	IV
+Silver River State Park	iucnCategory	V
+St. Lucie Inlet Preserve State Park	iucnCategory	V
+Stephen Foster Folk Culture Center State Park	iucnCategory	V
+Santa Rosa and San Jacinto Mountains National Monument	iucnCategory	III
+Darlington Provincial Park	iucnCategory	II
+Polesie National Park	iucnCategory	II
+Roztocze National Park	iucnCategory	II
+Box-Death Hollow Wilderness	iucnCategory	Ib
+Liard River Hot Springs Provincial Park	iucnCategory	III
+Tapantí National Park	iucnCategory	II
+Cedar Mountain Wilderness	iucnCategory	Ib
+Świętokrzyski National Park	iucnCategory	II
+Laguna San Rafael National Park	iucnCategory	II
+Nanda Devi National Park    1	iucnCategory	Ia
+Fremont National Forest	iucnCategory	VI
+Crescent Lake National Wildlife Refuge	iucnCategory	IV
+North Platte National Wildlife Refuge	iucnCategory	IV
+Fort Niobrara National Wildlife Refuge	iucnCategory	IV
+Valentine National Wildlife Refuge	iucnCategory	IV
+John and Louise Seier National Wildlife Refuge	iucnCategory	IV
+Aparados da Serra National Park	iucnCategory	II
+Grande Sertão Veredas National Park	iucnCategory	II
+Lençóis Maranhenses National Park	iucnCategory	II
+Dark Canyon Wilderness	iucnCategory	Ib
+Tatra National Park, Poland	iucnCategory	II
+Ujście Warty National Park	iucnCategory	II
+DeSoto National Wildlife Refuge	iucnCategory	IV
+Shei-Pa National Park	iucnCategory	II
+Annadel State Park	iucnCategory	II
+Bromley Rock Provincial Park	iucnCategory	II
+Brandywine Falls Provincial Park	iucnCategory	II
+Madidi National Park	iucnCategory	II
+Mavrovo National Park	iucnCategory	II
+Golden Ears Provincial Park	iucnCategory	II
+Rock Island Trail State Park	iucnCategory	III
+E. C. Manning Provincial Park	iucnCategory	II
+David Berger National Memorial	iucnCategory	V
+Tallahassee-St. Marks Historic Railroad Trail State Park	iucnCategory	V
+The Barnacle Historic State Park    1	iucnCategory	V
+Tomoka State Park	iucnCategory	V
+Tosohatchee Wildlife Management Area	iucnCategory	V
+Hartwick Pines State Park	iucnCategory	V
+Wekiwa Springs State Park	iucnCategory	V
+Long Point Provincial Park	iucnCategory	II
+Hamber Provincial Park	iucnCategory	II
+Helliwell Provincial Park	iucnCategory	II
+Indian Arm Provincial Park	iucnCategory	II
+Gesäuse National Park	iucnCategory	II
+Kikomun Creek Provincial Park	iucnCategory	III
+Kokanee Creek Provincial Park	iucnCategory	II
+Wakes Cove Provincial Park	iucnCategory	II
+Beall Woods State Park	iucnCategory	III
+Marloth Nature Reserve	iucnCategory	II
+Bear River Migratory Bird Refuge	iucnCategory	IV
+Lanín National Park	iucnCategory	II
+Mount Assiniboine Provincial Park	iucnCategory	VI
+Mount Geoffrey Escarpment Provincial Park	iucnCategory	II
+Murrin Provincial Park	iucnCategory	II
+Muncho Lake Provincial Park	iucnCategory	II
+Northern Rocky Mountains Provincial Park	iucnCategory	V
+Mara Provincial Park (Ontario)	iucnCategory	II
+Jedediah Smith Redwoods State Park	iucnCategory	II
+Michigan Islands National Wildlife Refuge	iucnCategory	Ib
+Adams Memorial	iucnCategory	V
+Sierra Gorda	iucnCategory	Ia
+Deseret Peak Wilderness	iucnCategory	Ib
+Misty Fiords National Monument	iucnCategory	IV
+Lyndon Baines Johnson Memorial Grove on the Potomac	iucnCategory	V
+Jim Edgar Panther Creek State Fish and Wildlife Area	iucnCategory	IV
+Mu Ko Phetra National Park	iucnCategory	II
+Port Chicago Naval Magazine National Memorial	iucnCategory	V
+Red Hill Patrick Henry National Memorial	iucnCategory	V
+Sand Ridge State Forest	iucnCategory	VI
+Noxubee National Wildlife Refuge	iucnCategory	IV
+Spanish Peaks Wilderness	iucnCategory	Ib
+Bon Secour National Wildlife Refuge	iucnCategory	IV
+William O. Douglas Wilderness	iucnCategory	Ib
+Roche Lake Provincial Park	iucnCategory	II
+Eufaula National Wildlife Refuge	iucnCategory	IV
+Hamra National Park	iucnCategory	II
+Agua Fria National Monument	iucnCategory	III
+Ironwood Forest National Monument	iucnCategory	III
+Watercress Darter National Wildlife Refuge	iucnCategory	IV
+Ala Archa National Park	iucnCategory	II
+Sierra Nevada de Santa Marta National Park	iucnCategory	II
+Key Cave National Wildlife Refuge	iucnCategory	IV
+Vermilion Cliffs National Monument	iucnCategory	III
+Historic Jamestowne	iucnCategory	V
+Sonoran Desert National Monument	iucnCategory	III
+California Coastal National Monument	iucnCategory	III
+Wyoming State Forest	iucnCategory	VI
+Cahaba River National Wildlife Refuge	iucnCategory	IV
+Fern Cave National Wildlife Refuge	iucnCategory	IV
+Edward R. Madigan State Fish and Wildlife Area	iucnCategory	IV
+Moraine View State Recreation Area	iucnCategory	V
+Wilderness State Park	iucnCategory	V
+Ånderdalen National Park	iucnCategory	II
+Tribune Bay Provincial Park	iucnCategory	II
+Gesu Church (Milwaukee, Wisconsin)	iucnCategory	V
+Old Oyo National Park	iucnCategory	II
+Superstition Mountains	iucnCategory	Ib
+Bukhansan National Park	iucnCategory	II
+Forlandet National Park	iucnCategory	II
+Øvre Dividal National Park	iucnCategory	II
+Øvre Pasvik National Park	iucnCategory	II
+Junkerdal National Park	iucnCategory	II
+Øvre Anárjohka National Park	iucnCategory	II
+Folgefonna National Park	iucnCategory	II
+Mountain Longleaf National Wildlife Refuge	iucnCategory	IV
+Mgahinga Gorilla National Park	iucnCategory	II
+Karoo National Park	iucnCategory	II
+Guanacaste National Park (Costa Rica)	iucnCategory	II
+Palo Verde National Park	iucnCategory	II
+Santa Rosa National Park	iucnCategory	II
+Mississippi Palisades State Park	iucnCategory	III
+Huron Wetland Management District	iucnCategory	IV
+Lacreek National Wildlife Refuge	iucnCategory	IV
+Barra Honda National Park	iucnCategory	II
+Hakusan National Park	iucnCategory	II
+Ise-Shima National Park	iucnCategory	II
+Yoshino-Kumano National Park	iucnCategory	II
+Bandai-Asahi National Park	iucnCategory	II
+Unzen-Amakusa National Park	iucnCategory	II
+Kirishima-Yaku National Park	iucnCategory	II
+Daisen-Oki National Park	iucnCategory	II
+Chūbu-Sangaku National Park	iucnCategory	II
+Ogasawara National Park	iucnCategory	II
+Setonaikai National Park	iucnCategory	II
+Nikkō National Park	iucnCategory	II
+Jōshin'etsu Kōgen National Park	iucnCategory	II
+Towada-Hachimantai National Park	iucnCategory	II
+Sanin Kaigan National Park	iucnCategory	II
+Rikuchu Kaigan National Park	iucnCategory	II
+Rishiri-Rebun-Sarobetsu National Park	iucnCategory	II
+Aso Kujū National Park	iucnCategory	II
+Minami Alps National Park	iucnCategory	II
+Area de Conservación Guanacaste World Heritage Site	iucnCategory	II
+Noel Kempff Mercado National Park	iucnCategory	II
+Juan Castro Blanco National Park	iucnCategory	II
+Lomas de Barbudal Biological Reserve	iucnCategory	Ia
+Diria National Park	iucnCategory	II
+Choctaw National Wildlife Refuge	iucnCategory	IV
+Lake Andes National Wildlife Refuge	iucnCategory	IV
+Lake Andes Wetland Management District	iucnCategory	IV
+Karl E. Mundt National Wildlife Refuge	iucnCategory	IV
+Desembarco del Granma National Park	iucnCategory	II
+Losiny Ostrov National Park	iucnCategory	II
+Rincón de la Vieja Volcano National Park	iucnCategory	II
+Junquillal Bay Wildlife Refuge	iucnCategory	IV
+Arenal Volcano National Park	iucnCategory	II
+Tenorio Volcano National Park	iucnCategory	II
+Carara National Park	iucnCategory	II
+La Cangreja National Park	iucnCategory	II
+Poás Volcano National Park	iucnCategory	II
+Obabika River  Waterway Provincial Park   1	iucnCategory	II
+Lady Evelyn-Smoothwater Provincial Park	iucnCategory	II
+La Verendrye Provincial Park	iucnCategory	II
+Chirripó National Park	iucnCategory	II
+Barbilla National Park	iucnCategory	II
+Piedras Blancas National Park	iucnCategory	II
+Cahuita National Park	iucnCategory	II
+White Lake Provincial Park (Ontario)	iucnCategory	II
+Henri Pittier National Park	iucnCategory	II
+Irazú Volcano National Park	iucnCategory	II
+Turrialba Volcano National Park	iucnCategory	II
+Cueva del Guácharo National Park	iucnCategory	II
+Guayabo National Monument	iucnCategory	III
+Skarvan and Roltdalen National Park	iucnCategory	II
+Lierne National Park	iucnCategory	II
+Hardangervidda National Park	iucnCategory	II
+Sheep River Provincial Park	iucnCategory	IV
+Nordenskiöld Land National Park	iucnCategory	II
+Nordre Isfjorden National Park	iucnCategory	II
+Sassen – Bünsow Land National Park	iucnCategory	II
+Sør-Spitsbergen National Park	iucnCategory	II
+Madison Wetland Management District	iucnCategory	IV
+Mochima National Park	iucnCategory	II
+Thunder Lake Provincial Park	iucnCategory	VI
+Samuel de Champlain Provincial Park	iucnCategory	II
+Cueva de la Quebrada del Toro	iucnCategory	II
+Sand Lake National Wildlife Refuge	iucnCategory	IV
+Sand Lake Wetland Management District	iucnCategory	IV
+Torngat Mountains National Park	iucnCategory	II
+Lakeland Provincial Park and Recreation Area	iucnCategory	IV
+Bonnechere River Provincial Park	iucnCategory	II
+Lake Mburo National Park	iucnCategory	II
+Nagzira	iucnCategory	IV
+Hayes State Park	iucnCategory	V
+Hoeft State Park	iucnCategory	V
+Lake Gogebic State Park	iucnCategory	V
+Negwegon State Park	iucnCategory	V
+Albert E. Sleeper State Park	iucnCategory	V
+William L. Finley National Wildlife Refuge	iucnCategory	IV
+Lake Atanasovsko	iucnCategory	Ia
+Saint Croix National Scenic Riverway	iucnCategory	V
+Muogamarra Nature Reserve	iucnCategory	Ia
+Morialta Conservation Park	iucnCategory	III
+Gran Paradiso National Park	iucnCategory	II
+Weminuche Wilderness	iucnCategory	Ib
+Ankeny National Wildlife Refuge	iucnCategory	IV
+Ängsö National Park	iucnCategory	II
+Färnebofjärden National Park	iucnCategory	II
+Garphyttan National Park	iucnCategory	II
+Padjelanta National Park	iucnCategory	II
+Pieljekaise National Park	iucnCategory	II
+Skuleskogen National Park	iucnCategory	II
+Töfsingdalen National Park	iucnCategory	II
+Vadvetjåkka National Park	iucnCategory	II
+Lye Brook Wilderness	iucnCategory	Ib
+Mahale Mountains National Park	iucnCategory	II
+Ozark National Scenic Riverways	iucnCategory	II
+Biogradska Gora	iucnCategory	II
+Charles C. Deam Wilderness Area	iucnCategory	Ib
+Assateague State Park	iucnCategory	V
+Crab Orchard National Wildlife Refuge	iucnCategory	IV
+Yazoo National Wildlife Refuge	iucnCategory	IV
+Aigüestortes i Estany de Sant Maurici National Park	iucnCategory	II
+John Heinz National Wildlife Refuge at Tinicum	iucnCategory	IV
+Inverhuron Provincial Park	iucnCategory	II
+Aleutian Islands Wilderness	iucnCategory	Ib
+Andreafsky Wilderness	iucnCategory	Ib
+Becharof Wilderness	iucnCategory	Ib
+Bering Sea Wilderness	iucnCategory	Ib
+Bogoslof Wilderness	iucnCategory	Ib
+Chamisso Wilderness	iucnCategory	Ib
+Chuck River Wilderness	iucnCategory	Ib
+Endicott River Wilderness	iucnCategory	Ib
+Forrester Island Wilderness	iucnCategory	Ib
+Hazy Islands Wilderness	iucnCategory	Ib
+Innoko Wilderness	iucnCategory	Ib
+Agassiz Wilderness	iucnCategory	Ib
+Agua Tibia Wilderness	iucnCategory	Ib
+Aldo Leopold Wilderness	iucnCategory	Ib
+Alexander Springs Wilderness	iucnCategory	Ib
+Stewart B. McKinney National Wildlife Refuge	iucnCategory	IV
+Benton Lake Wetland Management District	iucnCategory	IV
+Theodore Roosevelt National Wildlife Refuge Complex	iucnCategory	IV
+Mingo National Wildlife Refuge	iucnCategory	IV
+Cotacachi Cayapas Ecological Reserve	iucnCategory	VI
+Lincoln Trail Homestead State Memorial	iucnCategory	Ib
+Tunnel Hill State Trail	iucnCategory	V
+Masoala National Park	iucnCategory	II
+Pere Marquette State Park	iucnCategory	III
+Ruby Mountains Wilderness	iucnCategory	Ib
+East Humboldt Wilderness	iucnCategory	Ib
+Arakwal National Park	iucnCategory	II
+Savannah National Wildlife Refuge	iucnCategory	IV
+Savannah Coastal Refuges Complex	iucnCategory	IV
+Chase Lake National Wildlife Refuge	iucnCategory	IV
+Arrowwood National Wildlife Refuge	iucnCategory	IV
+Arrowwood Wetland Management District	iucnCategory	IV
+Johnson Lake National Wildlife Refuge	iucnCategory	IV
+Hobart Lake National Wildlife Refuge	iucnCategory	IV
+Stoney Slough National Wildlife Refuge	iucnCategory	IV
+Acraman Creek Conservation Park	iucnCategory	III
+Sam Houston National Forest	iucnCategory	VI
+Chase Lake Wetland Management District	iucnCategory	IV
+Chase Lake Prairie Project	iucnCategory	IV
+Thale Ban National Park	iucnCategory	II
+Tarutao National Marine Park	iucnCategory	II
+Koyna Wildlife Sanctuary	iucnCategory	V
+Totness Recreation Park	iucnCategory	III
+Nosy Mangabe	iucnCategory	IV
+Torres del Paine National Park	iucnCategory	II
+Quoin Island National Park	iucnCategory	II
+Winisk River  Provincial Park   1	iucnCategory	II
+Whiskeytown-Shasta-Trinity National Recreation Area	iucnCategory	V
+Szczebrzeszyn Landscape Park	iucnCategory	V
+Cutervo National Park	iucnCategory	II
+Key West National Wildlife Refuge	iucnCategory	IV
+Deer Flat National Wildlife Refuge	iucnCategory	IV
+Kendrick Mountain Wilderness	iucnCategory	Ib
+Tingo Maria National Park	iucnCategory	II
+Yanachaga–Chemillén National Park	iucnCategory	II
+Bahuaja-Sonene National Park	iucnCategory	II
+Pampa Galeras – Barbara D'Achille	iucnCategory	II
+Junin National Reservation	iucnCategory	II
+Paracas National Reservation	iucnCategory	VI
+Salinas and Aguada Blanca National Reservation	iucnCategory	II
+Calipuy National Reservation	iucnCategory	II
+Khlong Phraya Wildlife Sanctuary	iucnCategory	IV
+Squaw Creek National Wildlife Refuge	iucnCategory	IV
+Yulee Sugar Mill Ruins State Historic Site	iucnCategory	V
+Munchique National Natural Park	iucnCategory	II
+Ybor City Museum State Park	iucnCategory	V
+Windley Key Fossil Reef Geological State Park	iucnCategory	V
+Withlacoochee State Trail	iucnCategory	V
+Waccasassa Bay Preserve State Park	iucnCategory	V
+Halfway Lake National Wildlife Refuge	iucnCategory	IV
+Valley City Wetland Management District	iucnCategory	IV
+Sibley Lake National Wildlife Refuge	iucnCategory	IV
+Tomahawk National Wildlife Refuge	iucnCategory	IV
+Lake Meredith National Recreation Area	iucnCategory	V
+Banks Lake National Wildlife Refuge	iucnCategory	IV
+Bull of the Woods Wilderness	iucnCategory	Ib
+Okefenokee Wilderness	iucnCategory	Ib
+Smith River National Recreation Area	iucnCategory	V
+Papahānaumokuākea Marine National Monument	iucnCategory	V
+Lion Island (New South Wales)	iucnCategory	Ia
+Sibbald Point Provincial Park	iucnCategory	II
+Sheep Mountain Wilderness	iucnCategory	Ib
+Fort Washington Park	iucnCategory	V
+Kaeng Krung National Park	iucnCategory	II
+Tazekka National Park	iucnCategory	II
+Dudley Farm	iucnCategory	V
+Piscataway Park	iucnCategory	V
+High Fläming Nature Park	iucnCategory	V
+Hells Canyon National Recreation Area	iucnCategory	V
+Flaming Gorge National Recreation Area	iucnCategory	V
+Sylvania Wilderness	iucnCategory	Ib
+Qianshan National Park	iucnCategory	II
+Seoraksan National Park	iucnCategory	II
+Makalu Barun National Park	iucnCategory	II
+Barsa-Kelmes Nature Reserve	iucnCategory	Ia
+Juniper Dunes Wilderness	iucnCategory	Ib
+Niagara County Park	iucnCategory	IV
+Arapaho National Recreation Area	iucnCategory	V
+Sawtooth National Recreation Area	iucnCategory	V
+Krasnobród Landscape Park	iucnCategory	V
+Kozłówka Landscape Park	iucnCategory	V
+Cabañeros National Park	iucnCategory	II
+Orman House	iucnCategory	V
+Topsail Hill Preserve State Park	iucnCategory	V
+Rattlesnake National Recreation Area	iucnCategory	III
+Pine Ridge National Recreation Area	iucnCategory	V
+Baskett Slough National Wildlife Refuge	iucnCategory	IV
+Natural Park of Penyal d'Ifac	iucnCategory	V
+Mount Baker National Recreation Area	iucnCategory	V
+Florida Panther National Wildlife Refuge	iucnCategory	IV
+Lake Woodruff National Wildlife Refuge	iucnCategory	V
+Chassahowitzka National Wildlife Refuge	iucnCategory	V
+J. N. "Ding" Darling National Wildlife Refuge	iucnCategory	V
+St. Vincent National Wildlife Refuge	iucnCategory	V
+Garret Mountain Reservation	iucnCategory	V
+Ordesa y Monte Perdido National Park	iucnCategory	II
+Archie Carr National Wildlife Refuge	iucnCategory	V
+Crocodile Lake National Wildlife Refuge	iucnCategory	V
+Hobe Sound National Wildlife Refuge	iucnCategory	V
+Crystal River National Wildlife Refuge	iucnCategory	V
+St. Johns National Wildlife Refuge	iucnCategory	V
+Lake Wales Ridge National Wildlife Refuge	iucnCategory	V
+Bukit Barisan Selatan National Park	iucnCategory	II
+Trapper Creek Wilderness	iucnCategory	Ib
+Ojibway Provincial Park	iucnCategory	II
+Cedar Keys National Wildlife Refuge	iucnCategory	V
+Island Bay National Wildlife Refuge	iucnCategory	V
+Passage Key National Wildlife Refuge	iucnCategory	V
+Pinellas National Wildlife Refuge	iucnCategory	V
+Great White Heron National Wildlife Refuge	iucnCategory	V
+Caloosahatchee National Wildlife Refuge	iucnCategory	V
+Matlacha Pass National Wildlife Refuge	iucnCategory	V
+Pine Island National Wildlife Refuge	iucnCategory	V
+Nxai Pan National Park	iucnCategory	II
+De Hoop Nature Reserve	iucnCategory	II
+La Portada	iucnCategory	III
+Big Gum Swamp Wilderness	iucnCategory	Ib
+Billies Bay Wilderness	iucnCategory	Ib
+Bradwell Bay Wilderness	iucnCategory	Ib
+Little Lake George Wilderness	iucnCategory	Ib
+Mud Swamp/New River Wilderness	iucnCategory	Ib
+Argyle Lake State Park    1	iucnCategory	III
+Gennargentu National Park	iucnCategory	II
+Silver Lake Provincial Park (Ontario)	iucnCategory	II
+Predelta National Park	iucnCategory	II
+Vogel State Park	iucnCategory	V
+Tualatin River National Wildlife Refuge	iucnCategory	IV
+Susquehanna State Park (Maryland)	iucnCategory	V
+Black Hill Conservation Park	iucnCategory	III
+Hautes-Gorges-de-la-Rivière-Malbaie National Park	iucnCategory	II
+Bhadra Wildlife Sanctuary	iucnCategory	II
+Minnesota Valley National Wildlife Refuge	iucnCategory	IV
+Gunung Palung National Park	iucnCategory	II
+Ballycroy National Park	iucnCategory	II
+Alafia River State Park	iucnCategory	Ib
+Lincoln State Park	iucnCategory	III
+Versailles State Park	iucnCategory	V
+Fort Foster	iucnCategory	V
+Illinois Beach State Park	iucnCategory	III
+Sabine National Forest	iucnCategory	VI
+Davy Crockett National Forest	iucnCategory	VI
+Yellow Bluff Fort Historic State Park	iucnCategory	V
+Madira Bickel Mound State Archeological Site	iucnCategory	V
+Mound Key Archeological State Park	iucnCategory	V
+Buck Island National Wildlife Refuge	iucnCategory	IV
+Green Cay National Wildlife Refuge	iucnCategory	IV
+Avalon State Park	iucnCategory	V
+Allen David Broussard Catfish Creek	iucnCategory	V
+George Crady Bridge Fishing Pier State Park	iucnCategory	V
+Dunns Creek	iucnCategory	V
+Curry Hammock State Park	iucnCategory	V
+Fanning Springs State Park	iucnCategory	V
+Cedar Key Scrub State Reserve	iucnCategory	V
+Kissimmee Prairie Preserve State Park	iucnCategory	V
+Lake June in Winter Scrub State Park	iucnCategory	V
+Seabranch Preserve State Park	iucnCategory	V
+Stump Pass Beach State Park	iucnCategory	V
+Troy Springs State Park	iucnCategory	V
+Lafayette Blue Springs State Park	iucnCategory	V
+North Peninsula State Park	iucnCategory	V
+River Rise Preserve State Park	iucnCategory	V
+Savannas Preserve State Park	iucnCategory	V
+Madison Blue Springs State Park	iucnCategory	V
+Big Shoals State Park	iucnCategory	V
+Charlotte Harbor Preserve State Park	iucnCategory	V
+Dagny Johnson Key Largo Hammock Botanical State Park	iucnCategory	V
+Pumpkin Hill Creek Preserve State Park	iucnCategory	V
+St. Sebastian River Preserve State Park	iucnCategory	V
+Kora National Park	iucnCategory	II
+Golden Gate Highlands National Park	iucnCategory	II
+Jardines de la Reina	iucnCategory	II
+Spray Valley Provincial Park	iucnCategory	VI
+Bontebok National Park	iucnCategory	II
+Rawah Wilderness	iucnCategory	Ib
+Neota Wilderness	iucnCategory	Ib
+Cache La Poudre Wilderness	iucnCategory	Ib
+Comanche Peak Wilderness	iucnCategory	Ib
+Serranía de la Macarena	iucnCategory	II
+Sandy Point National Wildlife Refuge	iucnCategory	IV
+Navassa Island National Wildlife Refuge	iucnCategory	IV
+Kuršių Nerija National Park	iucnCategory	II
+Andohahela National Park	iucnCategory	II
+New Smyrna Sugar Mill Ruins	iucnCategory	V
+Alakai Wilderness Preserve	iucnCategory	Ib
+Big Frog Wilderness	iucnCategory	Ib
+Cohutta Wilderness	iucnCategory	Ib
+Blood Mountain Wilderness	iucnCategory	Ib
+Ellicott Rock Wilderness	iucnCategory	Ib
+Mount Trumbull Wilderness	iucnCategory	Ib
+Chumash Wilderness	iucnCategory	Ib
+Torotoro National Park	iucnCategory	II
+Buckhorn Wilderness	iucnCategory	Ib
+Gambrill State Park	iucnCategory	V
+Neys Provincial Park	iucnCategory	II
+Rainbow Falls Provincial Park	iucnCategory	II
+Currant Mountain Wilderness	iucnCategory	Ib
+Quinn Canyon Wilderness	iucnCategory	Ib
+Grant Range Wilderness	iucnCategory	Ib
+Mount Moriah Wilderness	iucnCategory	Ib
+Santa Rosa-Paradise Peak Wilderness	iucnCategory	Ib
+Alta Toquima Wilderness	iucnCategory	Ib
+Arc Dome Wilderness	iucnCategory	Ib
+Mount Rose Wilderness	iucnCategory	Ib
+Table Mountain Wilderness	iucnCategory	Ib
+Bernardo O'Higgins National Park	iucnCategory	II
+Opal Creek Wilderness	iucnCategory	Ib
+Guanahacabibes peninsula	iucnCategory	II
+Chinchaga Wildland Park	iucnCategory	Ib
+Bahia Honda Key	iucnCategory	V
+Boundary Peak Wilderness	iucnCategory	Ib
+Lauca National Park	iucnCategory	II
+La Campana National Park	iucnCategory	II
+Alberto de Agostini National Park	iucnCategory	II
+Mount Massive Wilderness	iucnCategory	Ib
+Caribou Mountains Wildland Park	iucnCategory	Ib
+Amboró National Park	iucnCategory	II
+Audubon National Wildlife Refuge	iucnCategory	IV
+Camp Lake National Wildlife Refuge	iucnCategory	IV
+Lake Otis National Wildlife Refuge	iucnCategory	IV
+Lake Nettie National Wildlife Refuge	iucnCategory	IV
+Hiddenwood National Wildlife Refuge	iucnCategory	IV
+Lake Patricia National Wildlife Refuge	iucnCategory	IV
+Lost Lake National Wildlife Refuge	iucnCategory	IV
+McLean National Wildlife Refuge	iucnCategory	IV
+Pretty Rock National Wildlife Refuge	iucnCategory	IV
+Stewart Lake National Wildlife Refuge	iucnCategory	IV
+White Lake National Wildlife Refuge	iucnCategory	IV
+Sheyenne Lake National Wildlife Refuge	iucnCategory	IV
+Audubon Wetland Management District	iucnCategory	IV
+Lake Ilo National Wildlife Refuge	iucnCategory	IV
+Nauvoo State Park	iucnCategory	III
+Sangchris Lake State Recreation Area	iucnCategory	V
+Pyramid State Recreation Area	iucnCategory	V
+Mount Logan Wilderness	iucnCategory	Ib
+Allegheny Islands Wilderness	iucnCategory	Ib
+Burden Falls Wilderness	iucnCategory	Ib
+Cabo de Hornos National Park	iucnCategory	II
+Baconao	iucnCategory	IV
+Archipiélago de Juan Fernández National Park	iucnCategory	II
+Rapa Nui National Park	iucnCategory	II
+Desierto de los Leones National Park	iucnCategory	II
+Wolchulsan National Park	iucnCategory	II
+Pali-Aike National Park	iucnCategory	II
+Kingsley Plantation	iucnCategory	V
+Marino Conservation Park	iucnCategory	II
+Sierra de San Pedro Mártir National Park	iucnCategory	II
+Juwangsan National Park	iucnCategory	II
+Bosque de Fray Jorge National Park	iucnCategory	II
+Isla Magdalena National Park	iucnCategory	II
+Mount Elgon National Park	iucnCategory	II
+Mono Cliffs Provincial Park	iucnCategory	II
+Conguillío National Park	iucnCategory	II
+Con Dao National Park	iucnCategory	II
+Samlaut Multiple Use Area	iucnCategory	VI
+Akiyoshidai Quasi-National Park	iucnCategory	Ib
+Ngarkat Conservation Park	iucnCategory	Ia
+Vicente Pérez Rosales National Park	iucnCategory	II
+Alerce Andino National Park	iucnCategory	II
+Los Pingüinos Natural Monument	iucnCategory	III
+Manas National Park	iucnCategory	II
+Queulat National Park	iucnCategory	II
+Witless Bay Ecological Reserve	iucnCategory	Ia
+Peñalara Natural Park	iucnCategory	V
+Galápagos National Park	iucnCategory	II
+Alta Murgia National Park	iucnCategory	II
+Chiloé National Park	iucnCategory	II
+Old Woman Mountains Wilderness	iucnCategory	Ib
+Clearwater Wilderness	iucnCategory	Ib
+Erris Head	iucnCategory	IV
+Ray Norbut State Fish and Wildlife Area	iucnCategory	IV
+Puyehue National Park	iucnCategory	II
+Huerquehue National Park	iucnCategory	II
+Villarrica National Park	iucnCategory	II
+Fairy Stone State Park	iucnCategory	V
+Weedon Island Preserve	iucnCategory	V
+Khlong Phanom National Park	iucnCategory	II
+Ventana Wilderness	iucnCategory	Ib
+West Clear Creek Wilderness	iucnCategory	Ib
+Aiguamolls de l'Empordà	iucnCategory	V
+Ghost River Wilderness Area	iucnCategory	Ib
+Volo Bog State Natural Area	iucnCategory	Ib
+Makira Natural Park	iucnCategory	II
+Thousand Lakes Wilderness	iucnCategory	Ib
+Mackinaw River State Fish and Wildlife Area	iucnCategory	IV
+Cave-in-Rock State Park	iucnCategory	III
+Volcán Isluga National Park	iucnCategory	II
+Pan de Azúcar National Park	iucnCategory	II
+Table Rock Wilderness	iucnCategory	Ib
+Chain O'Lakes State Park (Illinois)	iucnCategory	III
+Cabo de Gata-Níjar Natural Park	iucnCategory	V
+Erawan National Park	iucnCategory	II
+Laguna del Laja National Park	iucnCategory	II
+Tatoosh Wilderness	iucnCategory	Ib
+Umpqua National Forest	iucnCategory	V
+Dans Mountain State Park	iucnCategory	V
+Watchung Reservation	iucnCategory	V
+Nahuelbuta National Park	iucnCategory	II
+Isla Contoy	iucnCategory	II
+Nevado Tres Cruces National Park	iucnCategory	II
+Santa Ana National Wildlife Refuge	iucnCategory	IV
+Diamond Peak Wilderness	iucnCategory	Ib
+Mount Adams Wilderness	iucnCategory	Ib
+Queen Elizabeth II Wildlands Provincial Park	iucnCategory	II
+Winema National Forest	iucnCategory	VI
+Rogue River – Siskiyou National Forest	iucnCategory	VI
+Wallowa–Whitman National Forest	iucnCategory	V
+The Dunes of Corrubedo Natural Park	iucnCategory	V
+Cueva del Milodón Natural Monument	iucnCategory	III
+Warriors' Path State Park	iucnCategory	III
+Golija  -Studenica   1	iucnCategory	Ia
+Hornopirén National Park	iucnCategory	II
+West Bali National Park	iucnCategory	II
+Corcovado National Park (Chile)	iucnCategory	II
+Tolhuaca National Park	iucnCategory	II
+Des Lacs National Wildlife Refuge	iucnCategory	IV
+Lostwood National Wildlife Refuge	iucnCategory	IV
+Lostwood Wetland Management District	iucnCategory	IV
+Shell Lake National Wildlife Refuge	iucnCategory	IV
+Crosby Wetland Management District	iucnCategory	IV
+Lake Zahl National Wildlife Refuge	iucnCategory	IV
+Croatan National Forest	iucnCategory	VI
+Deschutes National Forest	iucnCategory	VI
+Saxon Switzerland National Park	iucnCategory	II
+Connemara National Park	iucnCategory	II
+Wet Beaver Wilderness	iucnCategory	Ib
+Baboquivari Peak Wilderness	iucnCategory	Ib
+Captain John Smith Chesapeake National Historic Trail	iucnCategory	V
+Lone Peak Wilderness	iucnCategory	Ib
+Gunung Rinjani National Park	iucnCategory	II
+Gathland State Park	iucnCategory	V
+Kelimutu National Park	iucnCategory	II
+Bromo Tengger Semeru National Park	iucnCategory	II
+Aravaipa Canyon Wilderness	iucnCategory	Ib
+Gila Wilderness	iucnCategory	Ib
+Pymatuning State Park (Ohio)	iucnCategory	III
+Tidra	iucnCategory	VI
+Darwin Falls Wilderness	iucnCategory	Ib
+Andringitra National Park	iucnCategory	II
+Ankarafantsika National Park	iucnCategory	II
+Isalo National Park	iucnCategory	II
+Mu Ko Lanta National Park	iucnCategory	II
+Cadí-Moixeró Natural Park	iucnCategory	V
+Amber Mountain National Park	iucnCategory	II
+Shey Phoksundo National Park	iucnCategory	II
+Umatilla National Forest	iucnCategory	VI
+Gunung Gede Pangrango National Park	iucnCategory	II
+Kijji	iucnCategory	VI
+Akanda National Park	iucnCategory	II
+Shawnee State Park (Ohio)	iucnCategory	III
+Hat Khanom – Mu Ko Thale Tai National Park	iucnCategory	II
+Blue Range Wilderness	iucnCategory	Ib
+Red Buttes Wilderness	iucnCategory	Ib
+Monument Rock Wilderness	iucnCategory	Ib
+Strawberry Mountain Wilderness	iucnCategory	Ib
+North Fork John Day Wilderness	iucnCategory	Ib
+North Fork Umatilla Wilderness	iucnCategory	Ib
+Cummins Creek Wilderness	iucnCategory	Ib
+Rock Creek Wilderness	iucnCategory	Ib
+Rogue–Umpqua Divide Wilderness	iucnCategory	Ib
+Boulder Creek Wilderness	iucnCategory	Ib
+Menagerie Wilderness	iucnCategory	Ib
+Sky Lakes Wilderness	iucnCategory	Ib
+Middle Santiam Wilderness	iucnCategory	Ib
+Mount Thielsen Wilderness	iucnCategory	Ib
+Mount Washington Wilderness	iucnCategory	Ib
+Salmon–Huckleberry Wilderness	iucnCategory	Ib
+Mount Jefferson Wilderness	iucnCategory	Ib
+Badger Creek Wilderness	iucnCategory	Ib
+Mark O. Hatfield Wilderness	iucnCategory	Ib
+Chalco Hills Recreation Area	iucnCategory	VI
+Sandia Mountain Wilderness	iucnCategory	Ib
+Andasibe-Mantadia National Park	iucnCategory	II
+Mountain Pine Ridge Forest Reserve	iucnCategory	IV
+Mamili National Park	iucnCategory	II
+Mudumu National Park	iucnCategory	II
+Belize Barrier Reef	iucnCategory	IV
+Hol Chan Marine Reserve	iucnCategory	IV
+Carlsbad Caverns National Park	iucnCategory	II
+Douthat State Park	iucnCategory	V
+Khaptad National Park	iucnCategory	II
+Alonnisos Marine Park	iucnCategory	II
+Spenceville Wildlife Area	iucnCategory	IV
+Frontenac National Park	iucnCategory	II
+Wild Sky Wilderness	iucnCategory	Ib
+Katavi National Park	iucnCategory	II
+Nanguluwu	iucnCategory	II
+Indian Peaks Wilderness	iucnCategory	Ib
+Gyeryongsan National Park	iucnCategory	II
+Llullaillaco National Park	iucnCategory	II
+De Zoom – Kalmthoutse Heide	iucnCategory	II
+Gran Sasso e Monti della Laga National Park	iucnCategory	II
+Siskiyou Wilderness	iucnCategory	Ib
+Maliau Basin	iucnCategory	Ia
+Blackwater National Wildlife Refuge	iucnCategory	IV
+Kushiro Shitsugen National Park	iucnCategory	II
+Lake George State Forest	iucnCategory	IV
+Goose Lake Prairie State Natural Area	iucnCategory	Ib
+Mountain Lakes Wilderness	iucnCategory	Ib
+Wayne Fitzgerrell State Recreation Area	iucnCategory	V
+Beaver Dam State Park (Illinois)	iucnCategory	III
+Castle Rock Park	iucnCategory	V
+Spitler Woods State Natural Area	iucnCategory	Ib
+Weldon Springs State Recreation Area	iucnCategory	V
+Pingo National Landmark	iucnCategory	II
+Jeanette Kawas National Park	iucnCategory	II
+Amacayacu National Park	iucnCategory	II
+Komandorsky Zapovednik	iucnCategory	Ia
+Wild river	iucnCategory	Ib
+Picos de Europa National Park	iucnCategory	II
+Pemigewasset Wilderness	iucnCategory	Ib
+Phu Wua Wildlife Sanctuary	iucnCategory	IV
+Binsar Wildlife Sanctuary	iucnCategory	IV
+Hallingskarvet National Park	iucnCategory	II
+Tun Sakaran Marine Park	iucnCategory	II
+Jackson Bottom Wetlands Preserve	iucnCategory	IV
+La Breña y Marismas del Barbate Natural Park	iucnCategory	V
+West Branch State Park	iucnCategory	V
+Innerdalen	iucnCategory	V
+Utladalen Landscape Protection Area	iucnCategory	V
+Dampa Tiger Reserve	iucnCategory	II
+Manupeu Tanah Daru National Park	iucnCategory	II
+Wasgamuwa National Park	iucnCategory	II
+Laiwangi Wanggameti National Park	iucnCategory	II
+Apple River Canyon State Park	iucnCategory	III
+Buffalo Rock State Park & Effigy Tumuli	iucnCategory	III
+Castle Rock State Park (Illinois)	iucnCategory	III
+Channahon State Park	iucnCategory	III
+Delabar State Park	iucnCategory	III
+Donnelley/Depue State Park	iucnCategory	III
+Ferne Clyffe State Park	iucnCategory	III
+Fox Ridge State Park	iucnCategory	III
+Franklin Creek State Park	iucnCategory	III
+Gebhard Woods State Park	iucnCategory	III
+Giant City State Park	iucnCategory	III
+Horseshoe Lake State Park	iucnCategory	III
+Illini State Park	iucnCategory	III
+Johnson-Sauk Trail State Recreation Area	iucnCategory	III
+San Gabriel Wilderness	iucnCategory	Ib
+James "Pate" Philip State Park	iucnCategory	III
+Kankakee River State Park	iucnCategory	III
+Lake Le-Aqua-Na State Park	iucnCategory	III
+Lake Murphysboro State Park	iucnCategory	III
+Lowden State Park	iucnCategory	III
+Moraine Hills State Park	iucnCategory	III
+Morrison-Rockwood State Park	iucnCategory	III
+Teide National Park	iucnCategory	II
+Shabbona Lake State Park	iucnCategory	III
+Siloam Springs State Park	iucnCategory	III
+South Shore State Park	iucnCategory	III
+Walnut Point State Park	iucnCategory	III
+Weinberg-King State Park	iucnCategory	III
+William G. Stratton State Park	iucnCategory	III
+Wolf Creek State Park	iucnCategory	III
+Bonnechere Provincial Park	iucnCategory	II
+Valdivian Coastal Reserve	iucnCategory	III
+Santa Lucia Cloud Forest	iucnCategory	II
+Foy Provincial Park	iucnCategory	II
+Sherburne National Wildlife Refuge	iucnCategory	IV
+Foreste Casentinesi, Monte Falterona, Campigna National Park	iucnCategory	II
+Joyce Kilmer-Slickrock Wilderness	iucnCategory	Ib
+Big River State Forest	iucnCategory	VI
+Hidden Springs State Forest	iucnCategory	VI
+Trail of Tears State Forest	iucnCategory	VI
+Cape Chignecto Provincial Park	iucnCategory	II
+Cayambe Coca Ecological Reserve	iucnCategory	VI
+Ramsey Lake State Recreation Area	iucnCategory	V
+Batchawana Bay Provincial Park	iucnCategory	II
+Mount Magnificent Conservation Park	iucnCategory	III
+Mariy Chodra National Park	iucnCategory	II
+Ishango	iucnCategory	II
+Wolf Run State Park	iucnCategory	V
+Finniss Conservation Park	iucnCategory	II
+Sajama National Park	iucnCategory	II
+Estivant Pines	iucnCategory	Ia
+Lower Madawaska River Provincial Park	iucnCategory	II
+Upper Madawaska River Provincial Park	iucnCategory	II
+Snakeden Hollow State Fish and Wildlife Area	iucnCategory	IV
+Puttenahalli Lake (Yelahanka)	iucnCategory	IV
+Grizzled Squirrel Wildlife Sanctuary	iucnCategory	IV
+Khlong Saeng Wildlife Sanctuary	iucnCategory	IV
+Khlong Yan Wildlife Sanctuary	iucnCategory	IV
+Tatra National Park, Slovakia	iucnCategory	II
+Khlong Nakha Wildlife Sanctuary	iucnCategory	IV
+Clinton Lake State Recreation Area	iucnCategory	V
+Eagle Creek State Recreation Area	iucnCategory	V
+Eldon Hazlet State Recreation Area	iucnCategory	V
+Frank Holten State Recreation Area	iucnCategory	V
+Golconda Marina State Recreation Area	iucnCategory	V
+Kickapoo State Recreation Area	iucnCategory	V
+North Point Marina	iucnCategory	V
+Prophetstown State Recreation Area	iucnCategory	V
+Randolph County State Recreation Area	iucnCategory	V
+Stephen A. Forbes State Recreation Area	iucnCategory	V
+Washington County State Recreation Area	iucnCategory	V
+William W. Powers State Recreation Area	iucnCategory	V
+Celaque National Park	iucnCategory	II
+Si Phang-nga National Park	iucnCategory	II
+Blue Ridge Wilderness Area	iucnCategory	Ib
+Dix Mountain Wilderness Area	iucnCategory	Ib
+Five Ponds Wilderness Area	iucnCategory	Ib
+Giant Mountain Wilderness Area	iucnCategory	Ib
+High Peaks Wilderness Area	iucnCategory	Ib
+Ha-De-Ron-Dah Wilderness Area	iucnCategory	Ib
+Hoffman Notch Wilderness Area	iucnCategory	Ib
+Jay Mountain Wilderness Area	iucnCategory	Ib
+McKenzie Mountain Wilderness Area	iucnCategory	Ib
+Pepperbox Wilderness Area	iucnCategory	Ib
+Pharaoh Lake Wilderness Area	iucnCategory	Ib
+Pigeon Lake Wilderness Area	iucnCategory	Ib
+Phu Luang Wildlife Sanctuary	iucnCategory	IV
+Sentinel Range Wilderness Area	iucnCategory	Ib
+Siamese Ponds Wilderness Area	iucnCategory	Ib
+Silver Lake Wilderness Area	iucnCategory	Ib
+West Canada Lake Wilderness Area	iucnCategory	Ib
+William C. Whitney Wilderness Area	iucnCategory	Ib
+Muránska planina National Park	iucnCategory	II
+Slovak Paradise National Park	iucnCategory	II
+East Carpathian Biosphere Reserve	iucnCategory	Ia
+Anderson Lake State Fish and Wildlife Area	iucnCategory	IV
+Baldwin Lake State Fish and Wildlife Area	iucnCategory	IV
+Carlyle Lake State Fish and Wildlife Area	iucnCategory	IV
+Coffeen Lake State Fish and Wildlife Area	iucnCategory	IV
+Crawford County State Fish and Wildlife Area	iucnCategory	IV
+Des Plaines Fish and Wildlife Area	iucnCategory	IV
+Green River State Wildlife Area	iucnCategory	IV
+Hamilton County State Fish and Wildlife Area	iucnCategory	IV
+Heidecke Lake State Fish and Wildlife Area	iucnCategory	IV
+Horseshoe Lake State Fish and Wildlife Area	iucnCategory	IV
+Iroquois County State Wildlife Area	iucnCategory	IV
+Kaskaskia River State Fish and Wildlife Area	iucnCategory	IV
+Kinkaid Lake State Fish and Wildlife Area	iucnCategory	IV
+Kishwaukee River State Fish and Wildlife Area	iucnCategory	IV
+LaSalle Lake State Fish and Wildlife Area	iucnCategory	IV
+Marshall State Fish and Wildlife Area	iucnCategory	IV
+Mautino State Fish and Wildlife Area	iucnCategory	IV
+Mazonia/Braidwood State Fish and Wildlife Area	iucnCategory	IV
+Mermet Lake State Fish and Wildlife Area	iucnCategory	IV
+Middle Fork State Fish and Wildlife Area	iucnCategory	IV
+Mississippi River State Fish and Wildlife Area	iucnCategory	IV
+Newton Lake State Fish and Wildlife Area	iucnCategory	IV
+Peabody River State Fish and Wildlife Area	iucnCategory	IV
+Rend Lake State Fish and Wildlife Area	iucnCategory	IV
+Rice Lake State Fish and Wildlife Area	iucnCategory	IV
+Saline County State Fish and Wildlife Area	iucnCategory	IV
+Sam Dale Lake State Fish and Wildlife Area	iucnCategory	IV
+Sam Parr State Fish and Wildlife Area	iucnCategory	IV
+Sanganois State Fish and Wildlife Area	iucnCategory	IV
+Shelbyville State Fish and Wildlife Area	iucnCategory	IV
+Silver Springs State Fish and Wildlife Area	iucnCategory	IV
+Spring Lake State Fish and Wildlife Area	iucnCategory	IV
+Ten Mile Creek State Fish and Wildlife Area	iucnCategory	IV
+Turkey Bluffs State Fish and Wildlife Area	iucnCategory	IV
+Union County State Fish and Wildlife Area	iucnCategory	IV
+Woodford State Fish and Wildlife Area	iucnCategory	IV
+Cache River State Natural Area	iucnCategory	Ib
+Fults Hill Prairie State Natural Area	iucnCategory	Ib
+Harry "Babe" Woodyard State Natural Area	iucnCategory	Ib
+Kidd Lake State Natural Area	iucnCategory	Ib
+Piney Creek Ravine State Natural Area	iucnCategory	Ib
+Sielbeck Forest Natural Area	iucnCategory	Ib
+Chicago Portage National Historic Site	iucnCategory	V
+Slovak Karst National Park	iucnCategory	II
+Low Tatras National Park	iucnCategory	II
+Salar de Surire Natural Monument	iucnCategory	III
+Tram Chim National Park	iucnCategory	II
+La Tigra National Park	iucnCategory	II
+Cunningham Falls State Park	iucnCategory	V
+Lake Skadar  Lake Shkodra National Park   1	iucnCategory	II
+Lake St. Peter Provincial Park	iucnCategory	II
+Tiwai Island	iucnCategory	IV
+James Peak Wilderness	iucnCategory	Ib
+Grand Cote National Wildlife Refuge	iucnCategory	IV
+Alerce Costero Natural Monument	iucnCategory	III
+Kaeng Krachan National Park	iucnCategory	II
+Little Carpathians Protected Landscape Area	iucnCategory	V
+Biele Karpaty Protected Landscape Area	iucnCategory	V
+Mayumba National Park	iucnCategory	II
+Záhorie Protected Landscape Area	iucnCategory	V
+Dunajské luhy Protected Landscape Area	iucnCategory	V
+Fort Dupont Park	iucnCategory	V
+Finlayson Point Provincial Park	iucnCategory	II
+Lukusuzi National Park	iucnCategory	II
+Fort Foote	iucnCategory	V
+Los Nevados National Natural Park	iucnCategory	II
+Hallett Cove Conservation Park	iucnCategory	III
+Fort DeRussy (Washington, D.C.)	iucnCategory	V
+Lake on the Mountain Provincial Park	iucnCategory	II
+Fogg Dam Conservation Reserve	iucnCategory	V
+Seiland National Park	iucnCategory	II
+Varangerhalvøya National Park	iucnCategory	II
+Bogani Nani Wartabone National Park	iucnCategory	II
+Rawa Aopa Watumohai National Park	iucnCategory	II
+Pench Tiger Reserve	iucnCategory	II
+Zapata Swamp	iucnCategory	II
+Holt Collier National Wildlife Refuge	iucnCategory	IV
+Pollino National Park	iucnCategory	II
+San Rafael Wilderness	iucnCategory	Ib
+Golden Sands Nature Park	iucnCategory	V
+Dick Smith Wilderness	iucnCategory	Ib
+Lois Hole Centennial Provincial Park	iucnCategory	IV
+Latorica Protected Landscape Area	iucnCategory	V
+East Carpathians Protected Landscape Area	iucnCategory	V
+Munmorah State Conservation Area	iucnCategory	IV
+Than Sadet-Ko Pha-Ngan National Park	iucnCategory	II
+Menabe Reserve	iucnCategory	VI
+Mahavavy-Kinkony	iucnCategory	VI
+Montagne des Français	iucnCategory	V
+Jennie Lakes Wilderness	iucnCategory	Ib
+Makuleke	iucnCategory	II
+Las Chinchillas National Reserve	iucnCategory	IV
+Phnom Nam Lyr Wildlife Sanctuary	iucnCategory	IV
+Virachey National Park	iucnCategory	II
+Ream National Park	iucnCategory	II
+Machalilla National Park	iucnCategory	II
+Nino Konis Santana National Park	iucnCategory	II
+Lanner Gorge	iucnCategory	II
+Thuli Parks and Wildlife Land	iucnCategory	VI
+Emeralda Marsh Conservation Area	iucnCategory	Ib
+Atlantic Islands of Galicia National Park	iucnCategory	II
+Cape St. Mary's Ecological Reserve	iucnCategory	Ia
+Oze National Park	iucnCategory	II
+Puszcza Zielonka Landscape Park	iucnCategory	V
+Apoyo Lagoon Natural Reserve	iucnCategory	Ia
+Ankeniheny-Zahamena Reserve	iucnCategory	VI
+Kibira National Park	iucnCategory	II
+Mille Lacs National Wildlife Refuge	iucnCategory	IV
+Bhawal National Park	iucnCategory	II
+Las Vicuñas National Reserve	iucnCategory	IV
+Little Abitibi Provincial Park	iucnCategory	II
+Serranía de los Churumbelos	iucnCategory	II
+Radal Siete Tazas National Reserve	iucnCategory	Ia
+Mont-Tremblant National Park	iucnCategory	II
+Cat Ba National Park	iucnCategory	II
+Mwabvi Wildlife Reserve	iucnCategory	II
+Llanos de Challe National Park	iucnCategory	II
+Hassayampa River Canyon Wilderness	iucnCategory	Ib
+Pingualuit National Park	iucnCategory	II
+El Morado Natural Monument	iucnCategory	III
+Bob Straub State Park	iucnCategory	V
+Ulandra Nature Reserve	iucnCategory	Ia
+Kaiserstuhl Conservation Park	iucnCategory	III
+Horsnell Gully Conservation Park	iucnCategory	III
+Gauja National Park	iucnCategory	II
+Kofa National Wildlife Refuge	iucnCategory	IV
+Bear Creek Lake State Park	iucnCategory	V
+Oregon Islands National Wildlife Refuge	iucnCategory	IV
+Arawale National Reserve	iucnCategory	VI
+Three Arch Rocks National Wildlife Refuge	iucnCategory	IV
+Cape Meares National Wildlife Refuge	iucnCategory	IV
+Bandon Marsh National Wildlife Refuge	iucnCategory	IV
+Garrotxa Volcanic Zone Natural Park	iucnCategory	V
+Nestucca Bay National Wildlife Refuge	iucnCategory	IV
+Cueva de los Guácharos	iucnCategory	II
+Westmeath Provincial Park	iucnCategory	II
+Gaspésie National Park	iucnCategory	II
+Altos de Lircay National Reserve	iucnCategory	Ia
+Punta Izopo Wildlife Refuge	iucnCategory	IV
+Westmoreland State Park	iucnCategory	V
+Tayrona National Natural Park	iucnCategory	II
+Alto Biobío National Reserve	iucnCategory	Ia
+Elk Neck State Park	iucnCategory	V
+Islotes de Puñihuil Natural Monument	iucnCategory	III
+Matsalu National Park	iucnCategory	II
+St. Marks River State Park	iucnCategory	V
+Ba Vi National Park	iucnCategory	II
+Kon Ka Kinh National Park	iucnCategory	II
+Ewaninga Rock Carvings Conservation Reserve	iucnCategory	V
+Betung Kerihun National Park	iucnCategory	II
+Boni National Reserve	iucnCategory	VI
+Patapsco Valley State Park	iucnCategory	V
+Cape Ca Mau National Park	iucnCategory	II
+Hart Mountain National Antelope Refuge	iucnCategory	IV
+Phu Quoc National Park	iucnCategory	II
+Caguanes National Park	iucnCategory	II
+Sierra Cristal National Park	iucnCategory	II
+Turquino National Park	iucnCategory	II
+Gunung Ciremai National Park	iucnCategory	II
+Sierra del Rosario	iucnCategory	IV
+Cuchillas del Toa	iucnCategory	IV
+Rocks State Park	iucnCategory	V
+Lo Go Xa Mat National Park	iucnCategory	II
+Pu Mat National Park	iucnCategory	II
+Mae Yom National Park	iucnCategory	II
+Phu Hin Rong Kla National Park	iucnCategory	II
+Thung Salaeng Luang National Park	iucnCategory	II
+Namtok Chat Trakan National Park	iucnCategory	II
+Kaeng Chet Khwae National Park	iucnCategory	II
+Lauwersmeer National Park	iucnCategory	II
+Camdeboo National Park	iucnCategory	II
+Ōnuma Quasi-National Park	iucnCategory	II
+Lake Superior National Marine Conservation Area	iucnCategory	II
+Anacortes Community Forest Lands	iucnCategory	IV
+Kangari Hills Forest Reserve	iucnCategory	VI
+Siuslaw National Forest	iucnCategory	V
+Tlemcen National Park	iucnCategory	II
+El Kala National Park	iucnCategory	II
+Djurdjura National Park	iucnCategory	II
+Tingi Hills Forest Reserve	iucnCategory	II
+Yok Don National Park	iucnCategory	II
+Cerová vrchovina Protected Landscape Area	iucnCategory	V
+Strážov Mountains Protected Landscape Area	iucnCategory	V
+Poľana Protected Landscape Area	iucnCategory	V
+Ponitrie Protected Landscape Area	iucnCategory	V
+Kysuce Protected Landscape Area	iucnCategory	V
+Horná Orava Protected Landscape Area	iucnCategory	V
+Štiavnické vrchy Protected Landscape Area	iucnCategory	V
+Vihorlat Protected Landscape Area	iucnCategory	V
+Thaydene Nene National Park	iucnCategory	II
+Mokala National Park	iucnCategory	II
+Colt Creek State Park	iucnCategory	V
+Hoollongapar Gibbon Sanctuary	iucnCategory	IV
+Florida State Parks in Alachua County	iucnCategory	V
+Florida State Parks in Alachua County  Dudley Farm   1	iucnCategory	V
+Florida State Parks in Alachua County  Gainesville-Hawthorne State Trail   1	iucnCategory	V
+Florida State Parks in Alachua County  Paynes Prairie Preserve State Park   1	iucnCategory	V
+Florida State Parks in Alachua County  San Felasco Hammock Preserve State Park   1	iucnCategory	V
+Eagle Cap Wilderness	iucnCategory	Ib
+Kalmiopsis Wilderness	iucnCategory	Ib
+Wenaha–Tucannon Wilderness	iucnCategory	Ib
+Steens Mountain Wilderness	iucnCategory	Ib
+Wild Rogue Wilderness	iucnCategory	Ib
+Waldo Lake Wilderness	iucnCategory	Ib
+Black Canyon Wilderness	iucnCategory	Ib
+Taza National Park	iucnCategory	II
+Chréa National Park	iucnCategory	II
+Gouraya National Park	iucnCategory	II
+Théniet El Had National Park  EL MEDDAD National Park   1	iucnCategory	II
+Belezma National Park	iucnCategory	II
+French Island National Park	iucnCategory	II
+Six Mile Island State Nature Preserve	iucnCategory	V
+Mount Halimun Salak National Park	iucnCategory	II
+Sapo National Park	iucnCategory	II
+Zuid-Kennemerland National Park	iucnCategory	II
+Blackbeard Island National Wildlife Refuge	iucnCategory	IV
+Kenilworth Park and Aquatic Gardens	iucnCategory	V
+Majella National Park	iucnCategory	II
+Salmo-Priest Wilderness	iucnCategory	Ib
+Chitral National Park	iucnCategory	II
+Podocarpus National Park	iucnCategory	II
+Ao Phang Nga National Park	iucnCategory	II
+Mount Honaz	iucnCategory	II
+Mapungubwe National Park	iucnCategory	II
+Rocky Flats National Wildlife Refuge	iucnCategory	IV
+Jacques-Cartier National Park	iucnCategory	II
+Marakele National Park	iucnCategory	II
+Altyn-Emel National Park	iucnCategory	II
+Grassy Knob Wilderness	iucnCategory	Ib
+Karkaraly National Park	iucnCategory	II
+Sierra Nevada del Cocuy	iucnCategory	II
+Mburucuyá National Park	iucnCategory	II
+Kirirom National Park	iucnCategory	II
+Río de Los Cipreses National Reserve	iucnCategory	Ia
+Thelon Wildlife Sanctuary	iucnCategory	Ib
+Wilpattu National Park	iucnCategory	II
+Bridge Creek Wilderness	iucnCategory	Ib
+Gearhart Mountain Wilderness	iucnCategory	Ib
+Mill Creek Wilderness	iucnCategory	Ib
+Hells Canyon Wilderness (Arizona)	iucnCategory	Ib
+Polar Bear Pass National Wildlife Area	iucnCategory	IV
+Guadeloupe National Park	iucnCategory	II
+Stelvio National Park	iucnCategory	II
+Chiquibul National Park	iucnCategory	II
+South Warner Wilderness	iucnCategory	Ib
+Oxon Cove Park and Oxon Hill Farm	iucnCategory	V
+Chesapeake Bay Gateways Network	iucnCategory	V
+Bonheur River Kame Provincial Park	iucnCategory	Ia
+Minnitaki Kames Provincial Park	iucnCategory	Ia
+Lomphat Wildlife Sanctuary	iucnCategory	IV
+Vu Quang National Park	iucnCategory	II
+Denman Wildlife Area	iucnCategory	Iv
+Mount Tipton Wilderness	iucnCategory	Ib
+Bridge Creek Wildlife Area	iucnCategory	Iv
+Dean Creek Wildlife Area	iucnCategory	Iv
+E. E. Wilson Wildlife Area	iucnCategory	Iv
+Elkhorn Wildlife Area	iucnCategory	Iv
+President Lincoln's Cottage at the Soldiers' Home	iucnCategory	V
+Snow Mountain Wilderness	iucnCategory	Ib
+Hickory Creek Wilderness	iucnCategory	Ib
+Fossil Springs Wilderness	iucnCategory	Ib
+Anstey Hill Recreation Park	iucnCategory	III
+Hell Hole Swamp	iucnCategory	Ib
+Yagul	iucnCategory	III
+Haleakala Wilderness	iucnCategory	Ib
+Hawaii Volcanoes Wilderness	iucnCategory	Ib
+Monomoy Wilderness	iucnCategory	Ib
+Tamarac Wilderness	iucnCategory	Ib
+Beaver Creek Wilderness	iucnCategory	Ib
+Clifty Wilderness	iucnCategory	Ib
+Black Creek Wilderness	iucnCategory	Ib
+El Toro Wilderness	iucnCategory	Ib
+High Schells Wilderness	iucnCategory	Ib
+Mount Grafton Wilderness	iucnCategory	Ib
+Fortification Range Wilderness	iucnCategory	Ib
+Weepah Spring Wilderness	iucnCategory	Ib
+White Pine Range Wilderness	iucnCategory	Ib
+Bald Mountain Wilderness	iucnCategory	Ib
+Becky Peak Wilderness	iucnCategory	Ib
+Bristlecone Wilderness	iucnCategory	Ib
+Goshute Canyon Wilderness	iucnCategory	Ib
+Government Peak Wilderness	iucnCategory	Ib
+South Egan Range Wilderness	iucnCategory	Ib
+Highland Ridge Wilderness	iucnCategory	Ib
+Red Mountain Wilderness	iucnCategory	Ib
+Shellback Wilderness	iucnCategory	Ib
+Sagnes de la Godivelle National Nature Reserve	iucnCategory	IV
+Latir Peak Wilderness	iucnCategory	Ib
+Citico Creek Wilderness	iucnCategory	Ib
+Hidaka Sanmyaku-Erimo Quasi-National Park	iucnCategory	III
+Needle's Eye Wilderness	iucnCategory	Ib
+Bright Star Wilderness	iucnCategory	Ib
+Delirium Wilderness	iucnCategory	Ib
+Kiavah Wilderness	iucnCategory	Ib
+Domeland Wilderness	iucnCategory	Ib
+Chapada das Mesas National Park	iucnCategory	II
+Pacaya-Samiria National Reserve	iucnCategory	II
+Guembeul Natural Reserve	iucnCategory	IV
+Langi Ghiran State Park	iucnCategory	V
+Cross Seminole Trail	iucnCategory	V
+Galiuro Wilderness	iucnCategory	Ib
+Apache Creek Wilderness	iucnCategory	Ib
+Kanab Creek Wilderness	iucnCategory	Ib
+Lion's Head Provincial Park	iucnCategory	Ia
+Havasu Wilderness	iucnCategory	Ib
+Salt River Canyon Wilderness	iucnCategory	Ib
+Apache Kid Wilderness	iucnCategory	Ib
+Bayanaul National Park	iucnCategory	II
+Upper Burro Creek Wilderness	iucnCategory	Ib
+Kachina Peaks Wilderness	iucnCategory	Ib
+Red Rock-Secret Mountain Wilderness	iucnCategory	Ib
+Hoces del Río Duratón Natural Park	iucnCategory	V
+Whispering Winds Catholic Conference Center	iucnCategory	Ib
+Bisti/De-Na-Zin Wilderness	iucnCategory	Ib
+Mesa Verde Wilderness	iucnCategory	Ib
+Togiak Wilderness	iucnCategory	Ib
+Naats'ihch'oh National Park Reserve	iucnCategory	II
+Sacatar Trail Wilderness	iucnCategory	Ib
+Silver Peak Wilderness	iucnCategory	Ib
+Izembek Wilderness	iucnCategory	Ib
+Arrow Canyon Wilderness	iucnCategory	Ib
+Loch Lomond Vernal Pool Ecological Reserve	iucnCategory	Ia
+Pine Valley Mountain Wilderness	iucnCategory	Ib
+Tsavo West National Park	iucnCategory	II
+Mount Naomi Wilderness	iucnCategory	Ib
+Arribes del Duero Natural Park	iucnCategory	V
+Boggs Lake Ecological Reserve	iucnCategory	Ia
+Wenberg County Park	iucnCategory	II
+Cilento and Vallo di Diano National Park	iucnCategory	II
+The Brothers Wilderness	iucnCategory	Ib
+Tsingy de Namoroka Strict Nature Reserve	iucnCategory	II
+Betampona Reserve	iucnCategory	Ia
+Lokobe Reserve	iucnCategory	Ia
+Marojejy National Park	iucnCategory	II
+South Sierra Wilderness	iucnCategory	Ib
+Saint-Étienne – Gorges de la Loire Nature Reserve	iucnCategory	IV
+Barlinek-Gorzów Landscape Park	iucnCategory	V
+Lower Odra Valley Landscape Park	iucnCategory	V
+Little Beskids Landscape Park	iucnCategory	V
+Golden Trout Wilderness	iucnCategory	Ib
+Silesian Beskids Landscape Park	iucnCategory	V
+Bielany-Tyniec Landscape Park	iucnCategory	V
+Izembek National Wildlife Refuge	iucnCategory	IV
+Bull Run Mountains Natural Area Preserve	iucnCategory	V
+Bolimów Landscape Park	iucnCategory	V
+Brodnica Landscape Park	iucnCategory	V
+Brudzeń Landscape Park	iucnCategory	V
+Cedynia Landscape Park	iucnCategory	V
+Chęciny-Kielce Landscape Park	iucnCategory	V
+Chełmno Landscape Park	iucnCategory	V
+Chełm Landscape Park	iucnCategory	V
+Chełmy Landscape Park	iucnCategory	V
+Chojnów Landscape Park	iucnCategory	V
+Ciężkowice-Rożnów Landscape Park	iucnCategory	V
+Cisna-Wetlina Landscape Park	iucnCategory	V
+Cisów-Orłowiny Landscape Park	iucnCategory	V
+Rudy Landscape Park	iucnCategory	V
+Czarnorzeki-Strzyżów Landscape Park	iucnCategory	V
+Dłubnia Landscape Park	iucnCategory	V
+Barycz Valley Landscape Park	iucnCategory	V
+Bystrzyca Valley Landscape Park	iucnCategory	V
+Jezierzyca Valley Landscape Park	iucnCategory	V
+Słupia Valley Landscape Park	iucnCategory	V
+Kraków Valleys Landscape Park	iucnCategory	V
+Bóbr Valley Landscape Park	iucnCategory	V
+San Valley Landscape Park	iucnCategory	V
+Drawsko Landscape Park	iucnCategory	V
+Chłapowski Landscape Park	iucnCategory	V
+Opawskie Mountains Landscape Park	iucnCategory	V
+Słonne Mountains Landscape Park	iucnCategory	V
+Owl Mountains Landscape Park	iucnCategory	V
+Góra Świętej Anny Landscape Park	iucnCategory	V
+Górzno-Lidzbark Landscape Park	iucnCategory	V
+Gostynin-Włocławek Landscape Park	iucnCategory	V
+Gryżyna Landscape Park	iucnCategory	V
+Jaśliska Landscape Park	iucnCategory	V
+Ińsko Landscape Park	iucnCategory	V
+Jeleniowska Landscape Park	iucnCategory	V
+Kashubian Landscape Park	iucnCategory	V
+Kazimierz Landscape Park	iucnCategory	V
+Kozienice Landscape Park	iucnCategory	V
+Kozubów Landscape Park	iucnCategory	V
+Krajna Landscape Park	iucnCategory	V
+Krzczonów Landscape Park	iucnCategory	V
+Krzesin Landscape Park	iucnCategory	V
+Książ Landscape Park	iucnCategory	V
+Lednica Landscape Park	iucnCategory	V
+Łagów Landscape Park	iucnCategory	V
+Janów Forests Landscape Park	iucnCategory	V
+Upper Liswarta Forests Landscape Park	iucnCategory	V
+Łomża Landscape Park	iucnCategory	V
+Muskau Bend Landscape Park	iucnCategory	V
+Masovian Landscape Park	iucnCategory	V
+Warta-Widawka Landscape Park	iucnCategory	V
+Masurian Landscape Park	iucnCategory	V
+Vistula Spit Landscape Park	iucnCategory	V
+Bug Landscape Park	iucnCategory	V
+Gopło Landscape Park	iucnCategory	V
+Coastal Landscape Park	iucnCategory	V
+Nida Landscape Park	iucnCategory	V
+Warta Landscape Park	iucnCategory	V
+G. Richard Thompson Wildlife Management Area	iucnCategory	V
+Narew Landscape Park	iucnCategory	V
+Wieprz Landscape Park	iucnCategory	V
+Vistula Landscape Park	iucnCategory	V
+Eagles' Nests Landscape Park	iucnCategory	V
+Pasmo Brzanki Landscape Park	iucnCategory	V
+Podlasie Bug Gorge Landscape Park	iucnCategory	V
+Pogórze Przemyskie Landscape Park	iucnCategory	V
+Polesie Landscape Park	iucnCategory	V
+Iława Lake District Landscape Park	iucnCategory	V
+Łęczna Lake District Landscape Park	iucnCategory	V
+South Roztocze Landscape Park	iucnCategory	V
+Poprad Landscape Park	iucnCategory	V
+Promno Landscape Park	iucnCategory	V
+Powidz Landscape Park	iucnCategory	V
+Przedbórz Landscape Park	iucnCategory	V
+Przemęt Landscape Park	iucnCategory	V
+Przemków Landscape Park	iucnCategory	V
+Puszcza Knyszyńska Landscape Park	iucnCategory	V
+Pszczew Landscape Park	iucnCategory	V
+Puszcza Romincka Landscape Park	iucnCategory	V
+Rogalin Landscape Park	iucnCategory	V
+Rudawy Landscape Park	iucnCategory	V
+Rudno Landscape Park	iucnCategory	V
+Sieradowice Landscape Park	iucnCategory	V
+Sieraków Landscape Park	iucnCategory	V
+Skierbieszów Landscape Park	iucnCategory	V
+Ślęża Landscape Park	iucnCategory	V
+Śnieżnik Landscape Park	iucnCategory	V
+Sobibór Landscape Park	iucnCategory	V
+Puszcza Solska Landscape Park	iucnCategory	V
+Spała Landscape Park	iucnCategory	V
+Stawki Landscape Park	iucnCategory	V
+Stobrawa Landscape Park	iucnCategory	V
+Strzelce Landscape Park	iucnCategory	V
+Suchedniów-Oblęgorek Landscape Park	iucnCategory	V
+Sudety Wałbrzyskie Landscape Park	iucnCategory	V
+Sulejów Landscape Park	iucnCategory	V
+Suwałki Landscape Park	iucnCategory	V
+Szaniec Landscape Park	iucnCategory	V
+Tenczynek Landscape Park	iucnCategory	V
+Tricity Landscape Park	iucnCategory	V
+Szczecin Landscape Park	iucnCategory	V
+Tuchola Landscape Park	iucnCategory	V
+Ujście Warty Landscape Park	iucnCategory	V
+Wda Landscape Park	iucnCategory	V
+Wdzydze Landscape Park	iucnCategory	V
+Wel Landscape Park	iucnCategory	V
+Wiśnicz-Lipnica Landscape Park	iucnCategory	V
+Wrzelowiec Landscape Park	iucnCategory	V
+Dylewo Hills Landscape Park	iucnCategory	V
+Łódź Hills Landscape Park	iucnCategory	V
+Elbląg Upland Landscape Park	iucnCategory	V
+Zaborski Landscape Park	iucnCategory	V
+Załęcze Landscape Park	iucnCategory	V
+Żerków-Czeszewo Landscape Park	iucnCategory	V
+Żywiec Landscape Park	iucnCategory	V
+Amamoor Forest Reserve	iucnCategory	VI
+Seven Island Lake nature reserve	iucnCategory	IV
+Quiçama National Park	iucnCategory	II
+Monarch Wilderness	iucnCategory	Ib
+Medicinal Plants Orito Ingi-Ande Flora Sanctuary	iucnCategory	III
+Minkébé National Park	iucnCategory	II
+Faro National Park	iucnCategory	II
+Moukalaba-Doudou National Park	iucnCategory	II
+Mwangné National Park	iucnCategory	II
+Pongara National Park	iucnCategory	II
+Bicauri National Park	iucnCategory	II
+Luenge National Park	iucnCategory	II
+Luiana National Park	iucnCategory	IV
+Longa-Mavinga National Park	iucnCategory	II
+Mucusso National Park	iucnCategory	II
+Kaboré Tambi National Park	iucnCategory	II
+Madjoari Reserve	iucnCategory	IV
+Singou Reserve	iucnCategory	IV
+Bontioli Reserve	iucnCategory	IV
+Pama Reserve	iucnCategory	IV
+Nakéré Reserve	iucnCategory	IV
+Kourtiagou Reserve	iucnCategory	IV
+Laba Forest	iucnCategory	IV
+Diéfoula Forest	iucnCategory	IV
+Logoniégué Forest	iucnCategory	IV
+Koflandé Forest	iucnCategory	IV
+Boulon Forest	iucnCategory	IV
+Dida Forest	iucnCategory	IV
+Pâ Forest	iucnCategory	IV
+Dibon Forest	iucnCategory	IV
+Mou Forest	iucnCategory	IV
+Bouba Njida National Park	iucnCategory	II
+Campo Ma'an National Park	iucnCategory	II
+Bénoué National Park	iucnCategory	II
+Boumba Bek National Park	iucnCategory	II
+Nki National Park	iucnCategory	II
+Rusizi National Park	iucnCategory	II
+Ruvubu National Park	iucnCategory	IV
+Aouk National Park	iucnCategory	II
+Goz Beïda National Park	iucnCategory	II
+Manda National Park	iucnCategory	II
+Assagny National Park	iucnCategory	II
+Banco National Park	iucnCategory	II
+Îles Ehotilés National Park	iucnCategory	II
+Marahoué National Park	iucnCategory	II
+Mont Nimba National Park	iucnCategory	II
+Mont Sângbé National Park	iucnCategory	II
+Mont Péko National Park	iucnCategory	II
+Djibouti National Park	iucnCategory	II
+Day Forest National Park	iucnCategory	II
+Yoboki National Park	iucnCategory	II
+Dunes of Texel National Park	iucnCategory	II
+Star-Spangled Banner National Historic Trail	iucnCategory	V
+Vilsandi National Park	iucnCategory	II
+Lengwe National Park	iucnCategory	II
+Majete Game Reserve	iucnCategory	II
+Nkhotakota Game Reserve	iucnCategory	II
+Vwaza Marsh Game Reserve	iucnCategory	II
+Sheldon National Wildlife Refuge	iucnCategory	IV
+Arcipelago di La Maddalena National Park	iucnCategory	II
+Arcipelago Toscano National Park	iucnCategory	II
+Appennino Tosco-Emiliano National Park	iucnCategory	II
+Carrasco National Park	iucnCategory	II
+Dinkey Lakes Wilderness	iucnCategory	Ib
+Piccaninnie Ponds Conservation Park	iucnCategory	III
+Gunpowder Falls State Park	iucnCategory	V
+Caribou Wilderness	iucnCategory	Ib
+San Esteban National Park	iucnCategory	II
+Cumbres de Monterrey National Park	iucnCategory	II
+Pinery Provincial Park	iucnCategory	II
+Bai Tu Long National Park	iucnCategory	II
+Bogue Chitto National Wildlife Refuge	iucnCategory	IV
+Tam Dao National Park	iucnCategory	II
+Christmas Island National Park	iucnCategory	II
+Abuko Nature Reserve	iucnCategory	IV
+Bijilo Forest Park	iucnCategory	IV
+Kiang West National Park	iucnCategory	II
+Niumi National Park	iucnCategory	II
+River Gambia National Park	iucnCategory	II
+Bamakuno Forest Park	iucnCategory	IV
+Bankuba Forest Park	iucnCategory	IV
+Belel Forest Park	iucnCategory	IV
+Beri Kolon Forest Park	iucnCategory	IV
+Bao Bolong Wetland Reserve	iucnCategory	II
+Tanbi Wetland Complex	iucnCategory	II
+Tanji Bird Reserve	iucnCategory	II
+Mandalay National Wildlife Refuge	iucnCategory	IV
+Bayou Cocodrie National Wildlife Refuge	iucnCategory	IV
+Atchafalaya National Wildlife Refuge	iucnCategory	IV
+Cat Island National Wildlife Refuge	iucnCategory	IV
+Kaiser Wilderness	iucnCategory	Ib
+Bayou Sauvage National Wildlife Refuge	iucnCategory	IV
+Bayou Teche National Wildlife Refuge	iucnCategory	IV
+Big Branch Marsh National Wildlife Refuge	iucnCategory	IV
+Black Bayou Lake National Wildlife Refuge	iucnCategory	IV
+Breton National Wildlife Refuge	iucnCategory	IV
+Cameron Prairie National Wildlife Refuge	iucnCategory	IV
+D'Arbonne National Wildlife Refuge	iucnCategory	IV
+Delta National Wildlife Refuge	iucnCategory	IV
+East Cove National Wildlife Refuge	iucnCategory	IV
+Handy Brake National Wildlife Refuge	iucnCategory	IV
+Lacassine National Wildlife Refuge	iucnCategory	IV
+Lake Ophelia National Wildlife Refuge	iucnCategory	IV
+Red River National Wildlife Refuge	iucnCategory	IV
+Shell Keys National Wildlife Refuge	iucnCategory	IV
+Pampadum Shola National Park	iucnCategory	II
+Upper Ouachita National Wildlife Refuge	iucnCategory	IV
+Dowagiac Woods	iucnCategory	Ia
+Piper Mountain Wilderness	iucnCategory	Ib
+Lakeville Swamp	iucnCategory	Ia
+Jasper Woods	iucnCategory	Ia
+Black Creek Nature Sanctuary	iucnCategory	Ia
+Goose Creek Grasslands	iucnCategory	Ia
+Robert T. Brown Nature Sanctuary	iucnCategory	Ia
+Klipfel	iucnCategory	Ia
+Alaungdaw Kathapa National Park	iucnCategory	II
+Arches National Park	iucnCategory	II
+St Helena Island National Park	iucnCategory	II
+Saguaro National Park	iucnCategory	II
+Brikama Forest Park	iucnCategory	IV
+Dobo Forest Park	iucnCategory	IV
+Faba Forest Park	iucnCategory	IV
+Zion National Park	iucnCategory	II
+Shenandoah National Park	iucnCategory	II
+Gassang Forest Park	iucnCategory	IV
+Gambissara Forest Park	iucnCategory	IV
+Finto Manereg Forest Park	iucnCategory	IV
+Furnya Forest Park	iucnCategory	IV
+Hela Kunda Forest Park	iucnCategory	IV
+Joshua Tree National Park	iucnCategory	II
+Jalabiro Forest Park	iucnCategory	IV
+Jumba Yaka Forest Park	iucnCategory	IV
+Jundala Forest Park	iucnCategory	IV
+Kabafita Forest Park	iucnCategory	IV
+Kahi Badi Forest Park	iucnCategory	IV
+Kaiaf Forest Park	iucnCategory	IV
+Tambajang Forest Park	iucnCategory	IV
+Kaolang Forest Park	iucnCategory	IV
+Kunkilling Forest Park	iucnCategory	IV
+Kusum Forest Park	iucnCategory	IV
+Sabi Forest Park	iucnCategory	IV
+Pakala Forest Park	iucnCategory	IV
+Lohen Forest Park	iucnCategory	IV
+Marike Forest Park	iucnCategory	IV
+Madina Demba Forest Park	iucnCategory	IV
+Mutaro Kunda Forest Park	iucnCategory	IV
+Nyassang Forest Park	iucnCategory	IV
+Nyanaberi Forest Park	iucnCategory	IV
+Nymbai Forest Park	iucnCategory	IV
+Nianimaru Forest Park	iucnCategory	IV
+Salagi Forest Park	iucnCategory	IV
+Sibi Kuroto Forest Park	iucnCategory	IV
+Si-Kunda Forest Park	iucnCategory	IV
+Jamara Forest Park	iucnCategory	IV
+Hamdulai Forest Park	iucnCategory	IV
+Jabisa Forest Park	iucnCategory	IV
+Jambangkunda Forest Park	iucnCategory	IV
+Jeloki Forest Park	iucnCategory	IV
+Jollifin Forest Park	iucnCategory	IV
+Kasaywa Forest Park	iucnCategory	IV
+Katilenge Forest Park	iucnCategory	IV
+Kenowore Forest Park	iucnCategory	IV
+Kiberi Forest Park	iucnCategory	IV
+Sambo Tumang Forest Park	iucnCategory	IV
+Sao Frest Forest Park	iucnCategory	IV
+Se-Ulumbang Forest Park	iucnCategory	IV
+Tanu Forest Park	iucnCategory	IV
+Sutukung Bani Forest Park	iucnCategory	IV
+Tabaning Sita Forest Park	iucnCategory	IV
+Ngeyen Forest Park	iucnCategory	IV
+Ngongonding Forest Park	iucnCategory	IV
+Kumadi Forest Park	iucnCategory	IV
+Mamato Konko Forest Park	iucnCategory	IV
+Njama Forest Park	iucnCategory	IV
+Njau Forest Park	iucnCategory	IV
+Sakaru Dalla Forest Park	iucnCategory	IV
+Pilabi Forest Park	iucnCategory	IV
+Bucks Lake Wilderness	iucnCategory	Ib
+Ishi Wilderness	iucnCategory	Ib
+Blackstrap Provincial Park	iucnCategory	V
+High Uintas Wilderness	iucnCategory	Ib
+Sauble Falls Provincial Park	iucnCategory	II
+Toubkal National Park	iucnCategory	II
+Ifrane National Park	iucnCategory	II
+Al Hoceima National Park	iucnCategory	II
+Sylvania Mountains Wilderness	iucnCategory	Ib
+Dosso Reserve	iucnCategory	IV
+Termit Massif Reserve	iucnCategory	IV
+Tamou Reserve	iucnCategory	IV
+Tadres Reserve	iucnCategory	IV
+Gadabedji Reserve	iucnCategory	IV
+Aïr and Ténéré Addax Sanctuary	iucnCategory	Ia
+Yatsugatake-Chūshin Kōgen Quasi-National Park	iucnCategory	V
+Réunion National Park	iucnCategory	II
+Yolla Bolly-Middle Eel Wilderness	iucnCategory	Ib
+Bowman Bay Wildlife Sanctuary	iucnCategory	IV
+Asinara National Park	iucnCategory	II
+Namaqua National Park	iucnCategory	II
+Lago Cochrane National Reserve	iucnCategory	IV
+Palamau Tiger Reserve	iucnCategory	II
+Hoge Kempen National Park	iucnCategory	II
+Aspromonte National Park	iucnCategory	II
+Sila National Park	iucnCategory	II
+Mikumi National Park	iucnCategory	II
+Hlawga National Park	iucnCategory	II
+Lago Rosselot National Reserve	iucnCategory	IV
+Woodland Caribou Provincial Park	iucnCategory	II
+Phnom Kulen National Park	iucnCategory	II
+Black Pond Wildlife Management Area	iucnCategory	IV
+Dierssen Wildlife Management Area	iucnCategory	VI
+Millington Wildlife Management Area	iucnCategory	IV
+South Mountain State Park	iucnCategory	V
+Deer Creek Marsh Wildlife Management Area	iucnCategory	IV
+Mokelumne Wilderness	iucnCategory	Ib
+Sandy Pond Beach Unique Area	iucnCategory	Ib
+Forks of the Credit Provincial Park	iucnCategory	II
+Põhja-Kõrvemaa Nature Reserve	iucnCategory	Ib
+West Coast National Park	iucnCategory	II
+Mureş Floodplain Natural Park	iucnCategory	IV
+Sabangau National Park	iucnCategory	II
+Souss-Massa National Park	iucnCategory	II
+Chimney Peak Wilderness	iucnCategory	Ib
+Kamchia (biosphere reserve)	iucnCategory	Ia
+Mount Shasta Wilderness	iucnCategory	Ib
+Castle Crags Wilderness	iucnCategory	Ib
+Wonder Mountain Wilderness	iucnCategory	Ib
+Mount Skokomish Wilderness	iucnCategory	Ib
+Cox Scrub Conservation Park	iucnCategory	III
+Danggali Conservation Park	iucnCategory	Ia
+Lake Gilles Conservation Park	iucnCategory	III
+Innamincka Regional Reserve	iucnCategory	VI
+Lagunas de Zempoala National Park	iucnCategory	II
+Boulder River Wilderness	iucnCategory	Ib
+Mount Rainier Wilderness	iucnCategory	Ib
+Fairfax Islands	iucnCategory	Ia
+San Juan Wilderness	iucnCategory	Ib
+Stephen Mather Wilderness	iucnCategory	Ib
+Hoskyn Islands	iucnCategory	Ia
+Mitchell River National Park (Western Australia)	iucnCategory	II
+One Tree Island (Queensland)	iucnCategory	Ia
+Mount Timpanogos Wilderness	iucnCategory	Ib
+Udzungwa Mountains National Park	iucnCategory	II
+Wreck Island	iucnCategory	Ia
+Tryon Island	iucnCategory	II
+Río Pilcomayo National Park	iucnCategory	II
+Basse Casamance National Park	iucnCategory	II
+Kalissaye Avifaunal Reserve	iucnCategory	IV
+Marble Mountain Wilderness	iucnCategory	Ib
+Phillip Burton Wilderness	iucnCategory	Ib
+Anysberg Nature Reserve	iucnCategory	IV
+Taganay	iucnCategory	II
+Beelu National Park	iucnCategory	II
+Khustain Nuruu National Park	iucnCategory	II
+Tsambagarav Uul National Park	iucnCategory	II
+Altai Tavan Bogd National Park	iucnCategory	II
+Conkouati-Douli National Park	iucnCategory	II
+Tunari National Park	iucnCategory	II
+Cotapata National Park and Integrated Management Natural Area	iucnCategory	II
+Isiboro Sécure National Park and Indigenous Territory	iucnCategory	II
+Iñao National Park and Integrated Management Natural Area	iucnCategory	II
+Otuquis National Park and Integrated Management Natural Area	iucnCategory	II
+Kaa-Iya del Gran Chaco National Park and Integrated Management Natural Area	iucnCategory	II
+Russian Wilderness	iucnCategory	Ib
+King Range Wilderness	iucnCategory	Ib
+Aguaragüe National Park and Integrated Management Natural Area	iucnCategory	II
+Eduardo Avaroa Andean Fauna National Reserve	iucnCategory	IV
+Queen Maud Gulf Migratory Bird Sanctuary	iucnCategory	Ib
+Otishi National Park	iucnCategory	II
+Ichigkat muja – Cordillera del Condor National Park	iucnCategory	II
+Fishhooks Wilderness	iucnCategory	Ib
+Alam-Pedja Nature Reserve	iucnCategory	Ib
+Yukon Flats National Wildlife Refuge	iucnCategory	IV
+Ang Trapaing Thmor	iucnCategory	III
+Dardanelles and Freel Roadless Areas	iucnCategory	VI
+Llanganates National Park	iucnCategory	II
+Cotopaxi National Park	iucnCategory	II
+Sumaco Napo-Galeras National Park	iucnCategory	II
+Veluwezoom National Park	iucnCategory	II
+Drentsche Aa National Landscape	iucnCategory	V
+Sawtooth Mountains Wilderness	iucnCategory	Ib
+Garden Route National Park	iucnCategory	II
+Garcia Wilderness	iucnCategory	Ib
+Kronotsky Nature Reserve	iucnCategory	Ia
+Botum Sakor National Park	iucnCategory	II
+Kep National Park	iucnCategory	II
+University of Wisconsin–Madison Lakeshore Nature Preserve	iucnCategory	Ia
+Cache Creek Wilderness	iucnCategory	Ib
+Cuyabeno Wildlife Reserve	iucnCategory	VI
+Lower U Minh National Park	iucnCategory	II
+Soda Mountain Wilderness	iucnCategory	Ib
+Copper Salmon Wilderness	iucnCategory	Ib
+Prehistoric Trackways National Monument	iucnCategory	III
+Perito Moreno National Park	iucnCategory	II
+Redes Natural Park	iucnCategory	V
+Somiedo Natural Park	iucnCategory	V
+Roaring River Wilderness	iucnCategory	Ib
+Arrowhead Provincial Park	iucnCategory	II
+Indian Pass Wilderness	iucnCategory	Ib
+Cosumnes River Preserve	iucnCategory	Ia
+Cerro Ñielol Natural Monument	iucnCategory	III
+Andrews Geyser	iucnCategory	III
+Natural Park of Fuentes del Narcea, Degaña, and Ibias	iucnCategory	V
+North Table Mountain Ecological Reserve	iucnCategory	Iv
+Boeng Tonle Chhmar	iucnCategory	IV
+Phnom Aural Wildlife Sanctuary	iucnCategory	IV
+Fern Ridge Wildlife Area	iucnCategory	Iv
+Oregon Badlands Wilderness	iucnCategory	Ib
+Spring Basin Wilderness	iucnCategory	Ib
+Sevilleta National Wildlife Refuge	iucnCategory	IV
+Upper Klamath National Wildlife Refuge	iucnCategory	IV
+Bear Valley National Wildlife Refuge	iucnCategory	IV
+Sturgeon River Provincial Park	iucnCategory	II
+Becharof National Wildlife Refuge	iucnCategory	Ib
+Jirisan National Park	iucnCategory	II
+Beza Mahafaly Reserve	iucnCategory	IV
+Bruneau – Jarbidge Rivers Wilderness	iucnCategory	Ib
+Murphys Point Provincial Park	iucnCategory	II
+Fragas do Eume	iucnCategory	V
+Owyhee River Wilderness	iucnCategory	Ib
+Ai-Ais Hot Springs	iucnCategory	II
+ǀAi-ǀAis/Richtersveld Transfrontier Park	iucnCategory	II
+Bundala National Park	iucnCategory	II
+Butte Creek Ecological Reserve	iucnCategory	Ia
+George C. Reifel Migratory Bird Sanctuary	iucnCategory	IV
+Lost Forest Research Natural Area	iucnCategory	Ia
+Bukit Tigapuluh National Park	iucnCategory	II
+Hyōnosen-Ushiroyama-Nagisan Quasi-National Park	iucnCategory	V
+Ben En National Park	iucnCategory	II
+Abashiri Quasi-National Park	iucnCategory	Ib
+Lowden-Miller State Forest	iucnCategory	VI
+Banner Marsh State Fish and Wildlife Area	iucnCategory	IV
+Quinebaug and Shetucket Rivers Valley National Heritage Corridor	iucnCategory	V
+Pine Hill Ecological Reserve	iucnCategory	Ia
+Hockley Valley Provincial Nature Reserve	iucnCategory	Ia
+Fitzroy Provincial Park	iucnCategory	II
+Niseko-Shakotan-Otaru Kaigan Quasi-National Park	iucnCategory	V
+Shokanbetsu-Teuri-Yagishiri Quasi-National Park	iucnCategory	V
+Rubondo Island National Park	iucnCategory	II
+Shenipsit State Forest	iucnCategory	VI
+Kumana National Park	iucnCategory	II
+Pigeon Island National Park	iucnCategory	II
+Russkaya Arktika National Park	iucnCategory	II
+Kosterhavet National Park	iucnCategory	II
+Tanjung Puting	iucnCategory	II
+Garrawilla National Park	iucnCategory	II
+Doi Phu Kha National Park	iucnCategory	II
+Santa Rosa Wilderness	iucnCategory	Ib
+Paroo-Darling National Park	iucnCategory	II
+Udawatta Kele Sanctuary	iucnCategory	IV
+Hikkaduwa National Park	iucnCategory	II
+Barmah National Park	iucnCategory	II
+Zion Wilderness	iucnCategory	Ib
+Gal Oya National Park	iucnCategory	II
+Monga National Park	iucnCategory	II
+Grutas de Cacahuamilpa National Park	iucnCategory	II
+Fish Springs National Wildlife Refuge	iucnCategory	IV
+LaVerkin Creek Wilderness	iucnCategory	Ib
+Tenryū-Okumikawa Quasi-National Park	iucnCategory	V
+Goose Creek Wilderness	iucnCategory	Ib
+Taylor Creek Wilderness	iucnCategory	Ib
+Deep Creek Wilderness	iucnCategory	Ib
+Beartrap Canyon Wilderness	iucnCategory	Ib
+Blackridge Wilderness	iucnCategory	Ib
+Red Butte Wilderness	iucnCategory	Ib
+Deep Creek North Wilderness	iucnCategory	Ib
+Canaan Mountain Wilderness	iucnCategory	Ib
+Akbuura Game Reserve	iucnCategory	IV
+Ak-Suu Complex Nature Reserve	iucnCategory	IV
+Chandalash Wildlife Refuge	iucnCategory	IV
+Chatyrkul Wildlife Refuge	iucnCategory	IV
+Chychkan Wildlife Refuge	iucnCategory	IV
+Dzhardy-Kaindin Wildlife Refuge	iucnCategory	IV
+Dzhety-Oguz Wildlife Refuge	iucnCategory	IV
+State Nature National Park Besh-Tash	iucnCategory	II
+Cottonwood Canyon Wilderness	iucnCategory	Ib
+Cottonwood Forest Wilderness	iucnCategory	Ib
+Red Mountain Wilderness (Utah)	iucnCategory	Ib
+Harbor Island National Wildlife Refuge	iucnCategory	Ib
+Lower Oder Valley National Park	iucnCategory	II
+Rara National Park	iucnCategory	II
+Langtang National Park	iucnCategory	II
+Shivapuri Nagarjun National Park	iucnCategory	II
+Doc's Pass Wilderness	iucnCategory	Ib
+Cougar Canyon Wilderness	iucnCategory	Ib
+Slaughter Creek Wilderness	iucnCategory	Ib
+Walpole Wilderness Area	iucnCategory	II
+Tanzawa-Ōyama Quasi-National Park	iucnCategory	V
+Parsa Wildlife Reserve	iucnCategory	IV
+Ile Parisienne	iucnCategory	Ib
+Preah Monivong National Park	iucnCategory	II
+Mondulkiri Protected Forest	iucnCategory	IV
+Phnom Prich Wildlife Sanctuary	iucnCategory	IV
+Magnetawan River Provincial Park	iucnCategory	II
+Mollie Beattie Wilderness	iucnCategory	Ib
+Akimiski Island Migratory Bird Sanctuary	iucnCategory	IV
+East Bay Migratory Bird Sanctuary	iucnCategory	IV
+Harry Gibbons Migratory Bird Sanctuary	iucnCategory	IV
+Boatswain Bay Migratory Bird Sanctuary	iucnCategory	VI
+Prince Leopold Island Migratory Bird Sanctuary	iucnCategory	IV
+Bylot Island Migratory Bird Sanctuary	iucnCategory	IV
+Twin Islands Wildlife Sanctuary	iucnCategory	IV
+Yellingbo Nature Conservation Reserve	iucnCategory	Ia
+Nirjutiqavvik National Wildlife Area	iucnCategory	IV
+Kutai National Park	iucnCategory	II
+Snoul Wildlife Sanctuary	iucnCategory	IV
+Phnom Sankos Wildlife Sanctuary	iucnCategory	IV
+Bonny Doon Ecological Reserve	iucnCategory	Ia
+Beng Per Wildlife Sanctuary	iucnCategory	IV
+Kulen Promtep Wildlife Sanctuary	iucnCategory	IV
+Peam Krasop Wildlife Sanctuary	iucnCategory	IV
+Lunugamvehera National Park	iucnCategory	II
+Mara Triangle	iucnCategory	II
+Danau Sentarum National Park	iucnCategory	II
+Livingstone National Park	iucnCategory	II
+Kolkheti National Park	iucnCategory	II
+Lahugala Kitulana National Park	iucnCategory	II
+Hakgala Strict Nature Reserve	iucnCategory	Ia
+Oolambeyan National Park	iucnCategory	II
+Woomargama National Park	iucnCategory	II
+Yanga National Park	iucnCategory	II
+Khakaborazi National Park	iucnCategory	II
+Mount Victoria National Park	iucnCategory	II
+Popa Mountain National Park	iucnCategory	II
+Chatthin Wildlife Sanctuary	iucnCategory	IV
+Indawgyi Lake Wildlife Sanctuary	iucnCategory	IV
+Shwesettaw Wildlife Reserve	iucnCategory	IV
+Inlay Lake Wetland Sanctuary	iucnCategory	IV
+Moneyingyi Wetland Sanctuary	iucnCategory	IV
+Mein-ma-hla Kyun Wildlife Sanctuary	iucnCategory	IV
+Rakhine Yoma Elephant Reserve	iucnCategory	IV
+Hukawng Valley Tiger Reserve	iucnCategory	IV
+Lampi Kyun Wildlife Reserve	iucnCategory	IV
+Pasa Wildlife Reserve	iucnCategory	IV
+Tamanthi Wildlife Reserve	iucnCategory	IV
+Loimwe National Park	iucnCategory	II
+Sein Ye Forest Park	iucnCategory	IV
+Pitaung Wildlife Reserve	iucnCategory	IV
+Myaing Hay Wun Elephant Park	iucnCategory	IV
+Cloonee and Inchiquin Loughs, Uragh Wood	iucnCategory	IV
+Pindus National Park	iucnCategory	II
+Glengarriff Forest	iucnCategory	IV
+Gravel Island National Wildlife Refuge	iucnCategory	IV
+Aiguebelle National Park	iucnCategory	II
+Anticosti National Park	iucnCategory	II
+Grands-Jardins National Park	iucnCategory	II
+Bic National Park	iucnCategory	II
+Île-Bonaventure-et-du-Rocher-Percé National Park	iucnCategory	III
+Îles-de-Boucherville National Park	iucnCategory	II
+Mont-Mégantic National Park	iucnCategory	II
+Mont-Orford National Park	iucnCategory	II
+Mont-Saint-Bruno National Park	iucnCategory	II
+Monts-Valin National Park	iucnCategory	II
+Plaisance National Park	iucnCategory	II
+Oka National Park	iucnCategory	II
+Pointe-Taillon National Park	iucnCategory	II
+Saguenay National Park	iucnCategory	II
+Aigle-à-Tête-Blanche Ecological Reserve	iucnCategory	Ia
+André-Linteau Ecological Reserve	iucnCategory	Ia
+André-Michaux Ecological Reserve	iucnCategory	Ia
+Bog-à-Lanières Ecological Reserve	iucnCategory	Ia
+Boisé-des-Muir Ecological Reserve	iucnCategory	Ia
+Caribous-de-Jourdan Ecological Reserve	iucnCategory	Ia
+Chicobi Ecological Reserve	iucnCategory	Ia
+Charles-B.-Banville Ecological Reserve	iucnCategory	Ia
+Chênaie-des-Îles-Finlay Ecological Reserve	iucnCategory	Ia
+Claude-Mélançon Ecological Reserve	iucnCategory	Ia
+Couchepaganiche Ecological Reserve	iucnCategory	Ia
+Dunes-de-Berry Ecological Reserve	iucnCategory	Ia
+Dunes-de-la-Moraine-d'Harricana Ecological Reserve	iucnCategory	Ia
+Érablière-du-Trente-et-Un-Milles Ecological Reserve	iucnCategory	Ia
+Standing Boy Creek State Park	iucnCategory	Ib
+Ernest-Lepage Ecological Reserve	iucnCategory	Ia
+Fernald Ecological Reserve	iucnCategory	Ia
+Forêt-la-Blanche Ecological Reserve	iucnCategory	Ia
+G.-Oscar-Villeneuve Ecological Reserve	iucnCategory	Ia
+Grand-Lac-Salé Ecological Reserve	iucnCategory	Ia
+Grande-Rivière Ecological Reserve	iucnCategory	Ia
+Grands-Ormes Ecological Reserve	iucnCategory	Ia
+Île-Brion Ecological Reserve	iucnCategory	Ia
+Île-Garth Ecological Reserve	iucnCategory	Ia
+Îles-Avelle-Wight-et-Hiam Ecological Reserve	iucnCategory	Ia
+Irénée-Marie Ecological Reserve	iucnCategory	Ia
+Irène-Fournier Ecological Reserve	iucnCategory	Ia
+Jackrabbit Ecological Reserve	iucnCategory	Ia
+James-Little Ecological Reserve	iucnCategory	Ia
+J.-Clovis-Laflamme Ecological Reserve	iucnCategory	Ia
+Judith-De Brésoles Ecological Reserve	iucnCategory	Ia
+Jules-Carpentier Ecological Reserve	iucnCategory	Ia
+Kettles-de-Berry Ecological Reserve	iucnCategory	Ia
+Lac-à-la-Tortue Ecological Reserve	iucnCategory	Ia
+Léon-Provancher Ecological Reserve	iucnCategory	Ia
+Lac-Malakisis Ecological Reserve	iucnCategory	Ia
+Lionel-Cinq-Mars Ecological Reserve	iucnCategory	Ia
+Louis-Babel Ecological Reserve	iucnCategory	Ia
+Louis-Ovide-Brunet Ecological Reserve	iucnCategory	Ia
+Louis-Zéphirin-Rousseau Ecological Reserve	iucnCategory	Ia
+Manche-d'Épée Ecological Reserve	iucnCategory	Ia
+Marcel-Léger Ecological Reserve	iucnCategory	Ia
+Marcelle-Gauvreau Ecological Reserve	iucnCategory	Ia
+Marcel-Raymond Ecological Reserve	iucnCategory	Ia
+Marie-Jean-Eudes Ecological Reserve	iucnCategory	Ia
+Matamec Ecological Reserve	iucnCategory	Ia
+Micocoulier Ecological Reserve	iucnCategory	Ia
+Mine-aux-Pipistrelles Ecological Reserve	iucnCategory	Ia
+Mont-Saint-Pierre Ecological Reserve	iucnCategory	Ia
+Père-Louis-Marie Ecological Reserve	iucnCategory	Ia
+Pin-Rigide Ecological Reserve	iucnCategory	Ia
+Pointe-Heath Ecological Reserve	iucnCategory	Ia
+Pointe-Platon Ecological Reserve	iucnCategory	Ia
+Presqu'île-Robillard Ecological Reserve	iucnCategory	Ia
+Ristigouche Ecological Reserve	iucnCategory	Ia
+Rivière-aux-Brochets Ecological Reserve	iucnCategory	Ia
+Rivière-Rouge Ecological Reserve	iucnCategory	Ia
+Rolland-Germain Ecological Reserve	iucnCategory	Ia
+Ruisseau-de-l'Indien Ecological Reserve	iucnCategory	Ia
+Samuel-Brisson Ecological Reserve	iucnCategory	Ia
+Serpentine-de-Coleraine Ecological Reserve	iucnCategory	Ia
+Tantaré Ecological Reserve	iucnCategory	Ia
+Thomas-Fortin Ecological Reserve	iucnCategory	Ia
+Thomas-Sterry-Hunt International Ecological Reserve	iucnCategory	Ia
+Tourbières-de-Lanoraie Ecological Reserve	iucnCategory	Ia
+Vallée-du-Ruiter Ecological Reserve	iucnCategory	Ia
+Victor-A.-Huard Ecological Reserve	iucnCategory	Ia
+Vieux-Arbres Ecological Reserve	iucnCategory	Ia
+William-Baldwin Ecological Reserve	iucnCategory	Ia
+Parker River National Wildlife Refuge	iucnCategory	IV
+Kirtlands Warbler Wildlife Management Area	iucnCategory	Ib
+Michigan Wetland Management District	iucnCategory	Ib
+Las Vegas National Wildlife Refuge	iucnCategory	IV
+Maxwell National Wildlife Refuge	iucnCategory	IV
+San Andres National Wildlife Refuge	iucnCategory	IV
+Sumapaz Paramo	iucnCategory	II
+Agulhas National Park	iucnCategory	II
+Kaudulla National Park	iucnCategory	II
+Nouabalé-Ndoki National Park	iucnCategory	II
+Angammedilla National Park	iucnCategory	II
+Sanabria Lake Natural Park	iucnCategory	V
+Shimokita Hanto Quasi-National Park	iucnCategory	V
+Lawachara National Park	iucnCategory	V
+Columbia National Wildlife Refuge	iucnCategory	IV
+Conboy Lake National Wildlife Refuge	iucnCategory	IV
+Copalis National Wildlife Refuge	iucnCategory	IV
+Flattery Rocks National Wildlife Refuge	iucnCategory	IV
+Franz Lake National Wildlife Refuge	iucnCategory	IV
+Lewis and Clark National Wildlife Refuge	iucnCategory	IV
+Steigerwald Lake National Wildlife Refuge	iucnCategory	IV
+Cold Springs National Wildlife Refuge	iucnCategory	IV
+Umatilla National Wildlife Refuge	iucnCategory	IV
+Klamath Marsh National Wildlife Refuge	iucnCategory	IV
+McKay Creek National Wildlife Refuge	iucnCategory	IV
+Green Bay National Wildlife Refuge	iucnCategory	Ib
+Wasur National Park	iucnCategory	II
+Chagres National Park	iucnCategory	II
+Parco Nazionale delle Cinque Terre	iucnCategory	II
+Natural Park of Fuentes Carrionas and Fuente Cobre-Montaña Palentina	iucnCategory	V
+San Guillermo National Park	iucnCategory	II
+Sierra de las Quijadas National Park	iucnCategory	II
+Quebrada del Condorito National Park	iucnCategory	II
+Lihué Calel National Park	iucnCategory	II
+Campos del Tuyú National Park	iucnCategory	II
+Monte León National Park	iucnCategory	II
+Martin State Forest	iucnCategory	V
+Sylvo-Pastoral and Partial Faunal Reserve of the Sahel	iucnCategory	IV
+Karatau Nature Reserve	iucnCategory	Ia
+Jonkershoek Nature Reserve	iucnCategory	II
+Bassi Wildlife Sanctuary	iucnCategory	IV
+Southford Falls State Park	iucnCategory	V
+Berbak National Park	iucnCategory	II
+Katonga Wildlife Reserve	iucnCategory	II
+Setesdal Vesthei Ryfylkeheiane	iucnCategory	V
+Bunaken National Park	iucnCategory	II
+Humboldt National Park	iucnCategory	II
+Sary-Chelek Nature Reserve	iucnCategory	Ia
+Minneriya National Park	iucnCategory	II
+San Bruno Mountain Ecological Reserve	iucnCategory	Ia
+Mississagi River Provincial Park	iucnCategory	Ib
+Ziwa Rhino Sanctuary	iucnCategory	IV
+Sembilang National Park	iucnCategory	II
+Bukit Duabelas National Park	iucnCategory	II
+Batang Gadis National Park	iucnCategory	II
+Salmonsdam Nature Reserve	iucnCategory	IV
+San Lorenzo Marine Archipelago National Park	iucnCategory	II
+Manusela National Park	iucnCategory	II
+Canebrake Ecological Reserve	iucnCategory	Ia
+Mount Evans Wilderness	iucnCategory	Ib
+Buffalo Peaks Wilderness	iucnCategory	Ib
+Byers Peak Wilderness	iucnCategory	Ib
+Dominguez Canyon Wilderness	iucnCategory	Ib
+Eagles Nest Wilderness	iucnCategory	Ib
+Fossil Ridge Wilderness	iucnCategory	Ib
+Greenhorn Mountain Wilderness	iucnCategory	Ib
+Gunnison Gorge Wilderness	iucnCategory	Ib
+Holy Cross Wilderness	iucnCategory	Ib
+Hunter-Fryingpan Wilderness	iucnCategory	Ib
+La Garita Wilderness	iucnCategory	Ib
+Maroon Bells-Snowmass Wilderness	iucnCategory	Ib
+Never Summer Wilderness	iucnCategory	Ib
+Ptarmigan Peak Wilderness	iucnCategory	Ib
+Raggeds Wilderness	iucnCategory	Ib
+Sarvis Creek Wilderness	iucnCategory	Ib
+South San Juan Wilderness	iucnCategory	Ib
+Vasquez Peak Wilderness	iucnCategory	Ib
+West Elk Wilderness	iucnCategory	Ib
+Constitution 1857 National Park	iucnCategory	II
+Cumbres del Ajusco National Park	iucnCategory	II
+Basaseachic Falls National Park	iucnCategory	II
+Karimunjawa National Park	iucnCategory	II
+Middle Brother National Park	iucnCategory	II
+Lower Saxon Wadden Sea National Park	iucnCategory	II
+Kern River Preserve	iucnCategory	Ia
+Mealy Mountains National Park Reserve	iucnCategory	II
+Horagolla National Park	iucnCategory	II
+Kanwar Lake Bird Sanctuary	iucnCategory	II
+Reinheimen National Park	iucnCategory	II
+Breheimen National Park	iucnCategory	II
+Bukit Baka Bukit Raya National Park	iucnCategory	II
+Taka Bone Rate National Park	iucnCategory	II
+Aketajawe-Lolobata National Park	iucnCategory	II
+Xuan Son National Park	iucnCategory	II
+Zakynthos Marine Park	iucnCategory	II
+Teluk Cenderawasih National Park	iucnCategory	II
+Wakatobi National Park	iucnCategory	II
+El Imposible National Park	iucnCategory	II
+Bantimurung – Bulusaraung National Park	iucnCategory	II
+Kepulauan Togean National Park	iucnCategory	II
+Capiro Calentura National Park	iucnCategory	II
+Cerro Azul de Copán National Park	iucnCategory	II
+Cerro Azul Meámbar National Park	iucnCategory	II
+Cusuco National Park	iucnCategory	II
+La Muralla National Park	iucnCategory	II
+Montaña de Comayagua National Park	iucnCategory	II
+Montaña Santa Bárbara National Park	iucnCategory	II
+Montaña de Yoro National Park	iucnCategory	II
+Montecristo Trifinio National Park	iucnCategory	II
+Patuca National Park	iucnCategory	II
+Pico Bonito National Park	iucnCategory	II
+Pico Pijol National Park	iucnCategory	II
+Port Royal National Park	iucnCategory	II
+Sierra de Agalta National Park	iucnCategory	II
+Balanced Rock (Garden of the Gods)	iucnCategory	III
+Steamboat Rock (Garden of the Gods)	iucnCategory	III
+Arrecifes de Cozumel National Park	iucnCategory	II
+Spirit Mountain Wilderness	iucnCategory	Ib
+Rock Creek Roadless Area	iucnCategory	V
+Spit Nature Conservation Reserve	iucnCategory	Ia
+Indre Wijdefjorden National Park	iucnCategory	II
+Eifel National Park	iucnCategory	II
+Nordaust-Svalbard Nature Reserve	iucnCategory	Ia
+Sukla Phanta Wildlife Reserve	iucnCategory	IV
+Søraust-Svalbard Nature Reserve	iucnCategory	Ia
+Annapurna Conservation Area	iucnCategory	VI
+Phuoc Binh National Park	iucnCategory	II
+Xuan Thuy National Park	iucnCategory	II
+U Minh Thuong National Park	iucnCategory	II
+Bidoup Nui Ba National Park	iucnCategory	II
+Bu Gia Map National Park	iucnCategory	II
+Chư Yang Sin National Park	iucnCategory	II
+Chu Mom Ray National Park	iucnCategory	II
+Hoang Lien National Park	iucnCategory	II
+Nui Chua National Park	iucnCategory	II
+Festningen Geotope Protected Area	iucnCategory	III
+Dashman Forest Reserve	iucnCategory	IV
+Jylgyndy Forest Reserve	iucnCategory	IV
+Karatal-Japyryk State Nature Reserve	iucnCategory	Ia
+Kuru-Kol Forest Reserve	iucnCategory	IV
+Kyrgyzata Botanical Reserve	iucnCategory	IV
+Gulcha Game Reserve	iucnCategory	IV
+Angas Downs Indigenous Protected Area	iucnCategory	VI
+Small Ak-Suu Forest Reserve	iucnCategory	IV
+Women's Rights National Historical Park	iucnCategory	V
+Tyup Botanical Reserve	iucnCategory	IV
+Tonda Wildlife Management Area	iucnCategory	VI
+Ossian Sars Nature Reserve	iucnCategory	Ia
+Summer Lake Wildlife Area	iucnCategory	Iv
+Gwaii Haanas National Marine Conservation Area Reserve and Haida Heritage Site	iucnCategory	VI
+Montecristo National Park	iucnCategory	II
+Whipple Mountains Wilderness	iucnCategory	Ib
+Cucamonga Wilderness	iucnCategory	Ib
+Sleeping Giant Wilderness Study Area	iucnCategory	Ib
+Aubrey Peak Wilderness	iucnCategory	Ib
+Sibilobilo Safari Area	iucnCategory	VI
+Hummingbird Springs Wilderness	iucnCategory	Ib
+Los Estoraques Unique Natural Area	iucnCategory	III
+Old Providence McBean Lagoon National Natural Park	iucnCategory	II
+Rosario and San Bernardo Corals National Natural Park	iucnCategory	II
+El Tuparro National Natural Park	iucnCategory	II
+Farallones de Cali National Natural Park	iucnCategory	II
+Las Hermosas National Natural Park	iucnCategory	II
+Salamanca Island Road Park	iucnCategory	III
+"El mono Hernández" Cork Forest Flora and Fauna Sanctuary	iucnCategory	III
+Tamá National Natural Park	iucnCategory	II
+Puracé National Natural Park	iucnCategory	II
+Léfini Faunal Reserve	iucnCategory	IV
+Monts Cristal National Park	iucnCategory	II
+Mukura Forest Reserve	iucnCategory	IV
+Lobéké National Park	iucnCategory	II
+Banyang-Mbo Wildlife Sanctuary	iucnCategory	IV
+Gashaka Gumti National Park	iucnCategory	II
+Cross River National Park	iucnCategory	II
+Idanre Forest Reserve	iucnCategory	III
+Okeluse Forest Reserve	iucnCategory	II
+Ise Forest Reserve	iucnCategory	V
+Akure Forest Reserve	iucnCategory	V
+Shasha Forest Reserve	iucnCategory	V
+Ngel Nyaki Forest Reserve	iucnCategory	V
+Akure Ofosu Forest Reserve	iucnCategory	V
+Afi River Forest Reserve	iucnCategory	V
+Boin Tano Forest Reserve	iucnCategory	V
+Draw River Forest Reserve	iucnCategory	V
+Krokosua Hills Forest Reserve	iucnCategory	V
+Mamiri Forest Reserve	iucnCategory	V
+Ayum Forest Reserve	iucnCategory	V
+Asubima Forest Reserve	iucnCategory	V
+Bonsam Bepo Forest Reserve	iucnCategory	V
+Mabi/Yaya Classified Forest	iucnCategory	V
+N'zo Partial Faunal Reserve	iucnCategory	IV
+Haut Bandama Fauna And Flora Reserve	iucnCategory	Ia
+Dzanga-Sangha Special Reserve	iucnCategory	VI
+Mbaéré Bodingué National Park	iucnCategory	V
+Burnt Cape Ecological Reserve	iucnCategory	Ia
+Lagoas Cufada Natural Park	iucnCategory	II
+Mistaken Point Ecological Reserve	iucnCategory	III
+Wonegizi Nature Conservation Unit	iucnCategory	IV
+Gio National Forest	iucnCategory	IV
+Wongo National Park	iucnCategory	II
+Monte Alén National Park	iucnCategory	II
+Altos de Nsork National Park	iucnCategory	II
+Rio Campo Natural Reserve	iucnCategory	IV
+Bururi Forest Nature Reserve	iucnCategory	IV
+Rumonge Nature Reserve	iucnCategory	IV
+Vyanda Forest Nature Reserve	iucnCategory	IV
+Boma National Park	iucnCategory	II
+Nimule National Park	iucnCategory	II
+Warby-Ovens National Park	iucnCategory	II
+Lamandau Nature Reserve	iucnCategory	II
+Ouandjia Vakaga Faunal Reserve	iucnCategory	II
+Nana Barya Faunal Reserve	iucnCategory	II
+Hutan Pinus/Janthoi Nature Reserve	iucnCategory	Ia
+Lingga Isaq Game Reserve	iucnCategory	VI
+Bukit Perai Protection Forest	iucnCategory	VI
+Lanjak Entimau Wildlife Sanctuary	iucnCategory	IV
+Silabukan Protection Forest Reserve	iucnCategory	Ia
+Cape Mount Nature Conservation Unit	iucnCategory	II
+Kashimbila Game Reserve	iucnCategory	IV
+Digya National Park	iucnCategory	II
+Bui National Park	iucnCategory	II
+Nini Suhien National Park	iucnCategory	II
+Ferlo Nord Wildlife Reserve	iucnCategory	IV
+Ferlo Sud Wildlife Reserve	iucnCategory	IV
+Sankan Biriwa (Tingi Hills) No Or Non Hunting Forest Reserve	iucnCategory	IV
+Waterloo Forest Reserve	iucnCategory	II
+The Mbarizunga Game Reserve	iucnCategory	VI
+Bengangai Game Reserve	iucnCategory	IV
+Southern National Park	iucnCategory	II
+Shambe National Park	iucnCategory	II
+Sabaloka Game Reserve	iucnCategory	IV
+Mongalla Game Reserve	iucnCategory	VI
+Mukawwar Managed Nature Reserve	iucnCategory	IV
+Chelkou Game Reserve	iucnCategory	IV
+Pian Wildlife Reserve	iucnCategory	III
+Entebbe Wildlife Sanctuary	iucnCategory	VI
+Kigezi Wildlife Reserve	iucnCategory	III
+Rungwa Game Reserve	iucnCategory	IV
+Biharamulo Game Reserve	iucnCategory	IV
+Burigi Game Reserve	iucnCategory	IV
+Endulen Game Controlled Area	iucnCategory	VI
+Handeni Game Controlled Area	iucnCategory	VI
+Ibanda Game Reserve	iucnCategory	IV
+Kalimawe Game Controlled Area	iucnCategory	VI
+Kigosi Game Reserve	iucnCategory	IV
+Rubi Tele Hunting Reserve	iucnCategory	VI
+Clipper Mountain Wilderness	iucnCategory	Ib
+Gunbower National Park	iucnCategory	II
+Lower Goulburn National Park	iucnCategory	II
+Greater Bendigo National Park	iucnCategory	II
+Cobboboonee National Park	iucnCategory	II
+Banke National Park	iucnCategory	II
+Douala Edéa Wildlife Reserve	iucnCategory	IV
+Mbam Djerem National Park	iucnCategory	II
+Dzanga-Ndoki National Park	iucnCategory	II
+Okomu Forest Reserve	iucnCategory	II
+Okomu National Park	iucnCategory	II
+Belasitsa Nature Park	iucnCategory	V
+Mount Geoffrey Regional Nature Park	iucnCategory	II
+Kettle Lakes Provincial Park	iucnCategory	II
+Driftwood Provincial Park	iucnCategory	II
+Bulgarka Nature Park	iucnCategory	IV
+Monte Temelón Natural Reserve	iucnCategory	IV
+Minkush Botanical Reserve	iucnCategory	IV
+Los Vertientes Private Nature Reserve  Las Vertientes - Reserva Natural Privada   1	iucnCategory	II
+Kochkor Game Reserve	iucnCategory	IV
+Galway's Land National Park	iucnCategory	II
+Manaslu Conservation Area	iucnCategory	VI
+Kanchenjunga Conservation Area	iucnCategory	VI
+Paiute Wilderness	iucnCategory	Ib
+Somawathiya National Park	iucnCategory	II
+Flood Plains National Park	iucnCategory	II
+Maduru Oya National Park	iucnCategory	II
+Lake Chivero Recreational Park	iucnCategory	II
+Byeonsan-bando National Park	iucnCategory	II
+Hallyeohaesang National Park	iucnCategory	II
+Taeanhaean National Park	iucnCategory	II
+Dadohaehaesang National Park	iucnCategory	II
+Medicine Rocks State Park	iucnCategory	V
+Kendall Island Migratory Bird Sanctuary	iucnCategory	IV
+Deogyusan National Park	iucnCategory	II
+Chiaksan National Park	iucnCategory	II
+Hallasan National Park	iucnCategory	II
+Naejangsan National Park	iucnCategory	II
+Odaesan National Park	iucnCategory	II
+Woraksan National Park	iucnCategory	II
+Sobaeksan National Park	iucnCategory	II
+Songnisan National Park	iucnCategory	II
+Abdoulaye Faunal Reserve	iucnCategory	IV
+Abokouamekro Game Reserve	iucnCategory	IV
+Abou Telfane Faunal Reserve	iucnCategory	IV
+Morrocoy National Park	iucnCategory	II
+Voyageur Provincial Park	iucnCategory	II
+Gull Rock National Park	iucnCategory	II
+Ussangoda National Park	iucnCategory	II
+El Pinacate y Gran Desierto de Altar Biosphere Reserve	iucnCategory	V
+Natural Park of Serra d'Irta	iucnCategory	V
+Munzur Valley National Park	iucnCategory	II
+Sherburne Complex Wildlife Management Area (Louisiana)	iucnCategory	IV
+Teploklyuchenka Game Reserve	iucnCategory	IV
+Chad Basin National Park	iucnCategory	II
+Kamuku National Park	iucnCategory	II
+Jeti-Ögüz Rocks	iucnCategory	III
+South Fork Eel River Wilderness	iucnCategory	Ib
+Black Canyon Wilderness (Nevada)	iucnCategory	Ib
+Iyrisuu Forest Reserve	iucnCategory	IV
+Baydamtal Botanical Reserve	iucnCategory	IV
+Walker Bay Nature Reserve	iucnCategory	II
+Minami Bōsō Quasi-National Park	iucnCategory	V
+Dome Wilderness	iucnCategory	Ib
+Chama River Canyon Wilderness	iucnCategory	Ib
+Sandscale Haws	iucnCategory	IV
+Organ Pipes National Park	iucnCategory	III
+Las Vertientes - Reserva Natural Privada	iucnCategory	II
+Ore Mountains/Vogtland Nature Park	iucnCategory	II
+Marten River Provincial Park	iucnCategory	II
+Wells Gray Provincial Park	iucnCategory	IV
+Masthead Island	iucnCategory	II
+Tuzigoot National Monument	iucnCategory	V
+Edward Ball Wakulla Springs State Park	iucnCategory	V
+Djoudj National Bird Sanctuary	iucnCategory	II
+Land Between the Lakes National Recreation Area	iucnCategory	V
+Poverty Point	iucnCategory	V
+La Amistad International Park	iucnCategory	II
+Poinsett State Park	iucnCategory	V
+Nahuel Huapi National Park	iucnCategory	II
+Salamonie River State Forest	iucnCategory	V
+Lago de Camécuaro National Park	iucnCategory	II
+Chil-Ustun	iucnCategory	III
+Tortuguero National Park	iucnCategory	II
+Isla Bastimentos National Marine Park	iucnCategory	II
+Werakata National Park	iucnCategory	II
+Basegi Nature Reserve	iucnCategory	Ia
+Vishera Nature Reserve	iucnCategory	Ia
+Grand Sable Dunes	iucnCategory	V
+Tierra del Fuego National Park	iucnCategory	II
+Discovery Bay Coastal Park	iucnCategory	V
+St Arnaud Range National Park	iucnCategory	II
+Blackbuck Conservation Area	iucnCategory	VI
+Kara-Jygach Rocks	iucnCategory	III
+Kan-i-Gut	iucnCategory	III
+Jazy Game Reserve	iucnCategory	IV
+Jeltiybes Botanical Reserve	iucnCategory	IV
+Sulyukta Botanical Reserve	iucnCategory	IV
+Lagunas de Ruidera Natural Park	iucnCategory	V
+Cañón del Río Lobos Natural Park	iucnCategory	V
+Fires Creek	iucnCategory	V
+Bamingui-Bangoran National Park and Biosphere Reserve	iucnCategory	II
+Teknaf Game Reserve	iucnCategory	IV
+Abshir Ata Waterfall	iucnCategory	III
+Ken-Suu Game Reserve	iucnCategory	IV
+First Peoples Buffalo Jump State Park	iucnCategory	V
+Pike State Forest (Indiana)	iucnCategory	V
+Barskoon waterfall	iucnCategory	III
+Bear Wallow Wilderness	iucnCategory	Ib
+Mangroves National Park	iucnCategory	II
+Cabbage Tree Island	iucnCategory	Ia
+Pryor Mountains Wild Horse Range	iucnCategory	IV
+Boondelbah Island	iucnCategory	Ia
+Juruena National Park	iucnCategory	II
+Kenozyorsky National Park	iucnCategory	II
+Menai Bay Conservation Area	iucnCategory	VI
+Gargano National Park	iucnCategory	II
+Turkey Point Provincial Park	iucnCategory	II
+Sarychat-Ertash State Nature Reserve	iucnCategory	Ia
+Wicklow Mountains National Park	iucnCategory	II
+Pole Creek Wilderness	iucnCategory	Ib
+North Fork Owyhee Wilderness	iucnCategory	Ib
+Yozgat Pine Grove National Park	iucnCategory	II
+Big Jacks Creek Wilderness	iucnCategory	Ib
+Little Jacks Creek Wilderness	iucnCategory	Ib
+White Goat Wilderness Area	iucnCategory	Ib
+Siffleur Wilderness Area	iucnCategory	Ib
+Bandingilo National Park	iucnCategory	II
+Aichi Kōgen Quasi-National Park	iucnCategory	III
+Djan-Chakty Botanical Reserve	iucnCategory	IV
+Chyragdan Botanical Reserve	iucnCategory	IV

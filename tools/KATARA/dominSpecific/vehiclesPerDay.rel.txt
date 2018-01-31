@@ -1,0 +1,403 @@
+Dumbarton Bridge (California)	vehiclesPerDay	81000
+Golden Gate Bridge	vehiclesPerDay	118000
+Mackinac Bridge	vehiclesPerDay	11600
+Brooklyn Bridge	vehiclesPerDay	123781
+Clifton Suspension Bridge	vehiclesPerDay	8800
+Harvard Bridge	vehiclesPerDay	49000
+Forth Bridge	vehiclesPerDay	190
+Humber Bridge	vehiclesPerDay	120000
+Lincoln Tunnel	vehiclesPerDay	114410
+Ed Koch Queensboro Bridge	vehiclesPerDay	176306
+San Francisco – Oakland Bay Bridge	vehiclesPerDay	270000
+Holland Tunnel	vehiclesPerDay	92189
+George Washington Bridge	vehiclesPerDay	289329
+Ambassador Bridge	vehiclesPerDay	10000
+San Mateo – Hayward Bridge	vehiclesPerDay	93000
+Throgs Neck Bridge	vehiclesPerDay	111308
+New River Gorge Bridge	vehiclesPerDay	16200
+Goethals Bridge	vehiclesPerDay	77092
+Robert F. Kennedy Bridge	vehiclesPerDay	165670
+Robert F. Kennedy Bridge	vehiclesPerDay	88121
+Robert F. Kennedy Bridge	vehiclesPerDay	78399
+Verrazano-Narrows Bridge	vehiclesPerDay	189962
+Tinsley Viaduct	vehiclesPerDay	100000
+Vauxhall Bridge	vehiclesPerDay	50533
+Battersea Bridge	vehiclesPerDay	26041
+East-Link (Dublin)	vehiclesPerDay	22000
+Manhattan Bridge	vehiclesPerDay	70341
+Tasman Bridge	vehiclesPerDay	67000
+Hawthorne Bridge	vehiclesPerDay	30000
+Outerbridge Crossing	vehiclesPerDay	82602
+Bayonne Bridge	vehiclesPerDay	20473
+Henry Hudson Bridge	vehiclesPerDay	62602
+Lions Gate Bridge	vehiclesPerDay	60000
+Marine Parkway-Gil Hodges Memorial Bridge	vehiclesPerDay	21613
+Cross Bay Veterans Memorial Bridge	vehiclesPerDay	21059
+Brooklyn–Battery Tunnel	vehiclesPerDay	47515
+Queens–Midtown Tunnel	vehiclesPerDay	79345
+Williamsburg Bridge	vehiclesPerDay	106783
+Sydney Harbour Tunnel	vehiclesPerDay	86800
+Blue Water Bridge	vehiclesPerDay	14000
+Rio–Niterói Bridge	vehiclesPerDay	140000
+Pierre Laporte Bridge	vehiclesPerDay	122000
+Sault Ste. Marie International Bridge	vehiclesPerDay	7000
+Whirlpool Rapids Bridge	vehiclesPerDay	543
+Batman Bridge	vehiclesPerDay	2013
+Jacques Cartier Bridge	vehiclesPerDay	96900
+Champlain Bridge, Montreal	vehiclesPerDay	159000
+Alexandra Bridge	vehiclesPerDay	15000
+Eisenhower Tunnel	vehiclesPerDay	32260
+Chelsea Bridge	vehiclesPerDay	29375
+Sunshine Skyway Bridge	vehiclesPerDay	50500
+Auckland Harbour Bridge	vehiclesPerDay	168754
+West Gate Bridge	vehiclesPerDay	165000
+Tacony–Palmyra Bridge	vehiclesPerDay	50000
+Burlington–Bristol Bridge	vehiclesPerDay	25241
+Delaware Memorial Bridge	vehiclesPerDay	90000
+Betsy Ross Bridge	vehiclesPerDay	39980
+Commodore Barry Bridge	vehiclesPerDay	35000
+Longfellow Bridge	vehiclesPerDay	28600
+Longfellow Bridge	vehiclesPerDay	90000
+Kingston Bridge, Glasgow	vehiclesPerDay	150000
+Tappan Zee Bridge	vehiclesPerDay	133445
+George Washington Memorial Bridge	vehiclesPerDay	71000
+Alaskan Way Viaduct	vehiclesPerDay	110000
+Scudder Falls Bridge	vehiclesPerDay	52200
+Bronx–Whitestone Bridge	vehiclesPerDay	117533
+Hood Canal Bridge	vehiclesPerDay	13327
+Lake Pontchartrain Causeway	vehiclesPerDay	43000
+Interstate Bridge	vehiclesPerDay	130000
+Sellwood Bridge	vehiclesPerDay	30000
+Glenn L. Jackson Memorial Bridge	vehiclesPerDay	137000
+Pulaski Bridge	vehiclesPerDay	37019
+Mystic River Bascule Bridge	vehiclesPerDay	11800
+Newark Bay Bridge	vehiclesPerDay	65000
+Chesapeake Bay Bridge	vehiclesPerDay	61000
+Detroit–Windsor Tunnel	vehiclesPerDay	13000
+Albert Bridge, London	vehiclesPerDay	19821
+City Island Bridge	vehiclesPerDay	15955
+Pennybacker Bridge	vehiclesPerDay	48000
+Pelham Bridge	vehiclesPerDay	19131
+Angus L. Macdonald Bridge	vehiclesPerDay	37739
+Newburgh–Beacon Bridge	vehiclesPerDay	65000
+Lærdal Tunnel	vehiclesPerDay	1000
+Bear Mountain Bridge	vehiclesPerDay	17695
+George P. Coleman Memorial Bridge	vehiclesPerDay	33595
+Fort McHenry Tunnel	vehiclesPerDay	115000
+Thomas J. Hatem Memorial Bridge	vehiclesPerDay	21284
+Millard E. Tydings Memorial Bridge	vehiclesPerDay	74275
+25 de Abril Bridge	vehiclesPerDay	150000
+25 de Abril Bridge	vehiclesPerDay	157
+Karni crossing	vehiclesPerDay	344
+Broadway Bridge (Manhattan)	vehiclesPerDay	33266
+Vincent Thomas Bridge	vehiclesPerDay	32000
+Sam Hill Memorial Bridge	vehiclesPerDay	5100
+Zilwaukee Bridge	vehiclesPerDay	23450
+Cleddau Bridge	vehiclesPerDay	10905
+Three Nations Crossing	vehiclesPerDay	7000
+Three Nations Crossing  South Channel Bridge of Three Nations Crossing   1	vehiclesPerDay	7000
+Queen Elizabeth II Bridge	vehiclesPerDay	72700
+A. Murray MacKay Bridge	vehiclesPerDay	49678
+Varina-Enon Bridge	vehiclesPerDay	38977
+Laviolette Bridge	vehiclesPerDay	28000
+Rip Van Winkle Bridge	vehiclesPerDay	15000
+Eastern span replacement of the San Francisco – Oakland Bay Bridge	vehiclesPerDay	280000
+Willis Avenue Bridge	vehiclesPerDay	62167
+Rock Island Centennial Bridge	vehiclesPerDay	14900
+Calhoun Street Bridge (Trenton)	vehiclesPerDay	18000
+Elbe Tunnel (1975)	vehiclesPerDay	123
+Arthur Ravenel Jr. Bridge	vehiclesPerDay	78100
+Whitney Young Memorial Bridge	vehiclesPerDay	66200
+American Legion Memorial Bridge (Potomac River)	vehiclesPerDay	204000
+Bridge of the Americas	vehiclesPerDay	35000
+Claiborne Pell Newport Bridge	vehiclesPerDay	27000
+Árpád Bridge	vehiclesPerDay	150000
+Fred Schwengel Memorial Bridge	vehiclesPerDay	33500
+Howard Frankland Bridge	vehiclesPerDay	135000
+Patroon Island Bridge	vehiclesPerDay	70787
+I-74 Bridge	vehiclesPerDay	70400
+Richmond Bridge, London	vehiclesPerDay	34484
+Niagara Falls Suspension Bridge	vehiclesPerDay	45
+Clyde Tunnel	vehiclesPerDay	65000
+Black Hawk Bridge	vehiclesPerDay	2357
+Louis-Hippolyte Lafontaine Bridge-Tunnel	vehiclesPerDay	120
+Capilano Suspension Bridge	vehiclesPerDay	800000
+Honoré Mercier Bridge	vehiclesPerDay	80822
+Million Dollar Bridge (Maine)	vehiclesPerDay	30000
+Hoan Bridge	vehiclesPerDay	19230
+Bixby Creek Bridge	vehiclesPerDay	4500
+Köhlbrand Bridge	vehiclesPerDay	30000
+John P. Grace Memorial Bridge	vehiclesPerDay	35000
+Jefferson Barracks Bridge	vehiclesPerDay	63199
+McKinley Bridge	vehiclesPerDay	14000
+Poplar Street Bridge	vehiclesPerDay	99564
+Huey P. Long Bridge (Jefferson Parish)	vehiclesPerDay	43000
+Macombs Dam Bridge	vehiclesPerDay	38897
+Calvin Coolidge Bridge	vehiclesPerDay	34900
+Fort Pitt Tunnel	vehiclesPerDay	107000
+Crescent City Connection	vehiclesPerDay	180000
+Crescent City Connection	vehiclesPerDay	120000
+Fort Pitt Bridge	vehiclesPerDay	150000
+Nordhordland Bridge	vehiclesPerDay	14698
+Askøy Bridge	vehiclesPerDay	14600
+Mark Twain Memorial Bridge	vehiclesPerDay	11000
+Rügen Bridge	vehiclesPerDay	23000
+Murray Baker Bridge	vehiclesPerDay	62100
+Alexander Hamilton Bridge	vehiclesPerDay	189598
+Washington Bridge	vehiclesPerDay	52768
+Bobby Hopper Tunnel	vehiclesPerDay	16000
+Roosevelt Island Bridge	vehiclesPerDay	10161
+Daniel Carter Beard Bridge	vehiclesPerDay	97900
+Gandy Bridge	vehiclesPerDay	35000
+Wandsworth Bridge	vehiclesPerDay	53299
+Kingston Bridge, London	vehiclesPerDay	50000
+Chiswick Bridge	vehiclesPerDay	39710
+Mountain Creek Lake Bridge	vehiclesPerDay	8250
+Squirrel Hill Tunnel	vehiclesPerDay	106000
+Lewisville Lake Toll Bridge	vehiclesPerDay	10000
+Mendota Bridge	vehiclesPerDay	39000
+11th Street Bridges	vehiclesPerDay	86000
+Kingston–Port Ewen Suspension Bridge	vehiclesPerDay	15700
+Columbia–Wrightsville Bridge	vehiclesPerDay	10350
+Cable Bridge	vehiclesPerDay	8279
+Kosciuszko Bridge (New York City)	vehiclesPerDay	181783
+Courtney Campbell Causeway	vehiclesPerDay	52500
+Savanna–Sabula Bridge	vehiclesPerDay	2400
+Mark N. Norris Bridge	vehiclesPerDay	9800
+Gateway Bridge (Illinois–Iowa)	vehiclesPerDay	10000
+Prescott Drawbridge	vehiclesPerDay	13000
+Joseph P. Addabbo Memorial Bridge	vehiclesPerDay	22346
+George Nesmith Bridge	vehiclesPerDay	2300
+Champ Clark Bridge	vehiclesPerDay	3900
+Luling Bridge	vehiclesPerDay	40000
+Gramercy Bridge	vehiclesPerDay	9000
+Sunshine Bridge	vehiclesPerDay	16000
+Horace Wilkinson Bridge	vehiclesPerDay	107000
+Huey P. Long Bridge (Baton Rouge)	vehiclesPerDay	17300
+Natchez–Vidalia Bridge	vehiclesPerDay	24000
+Vicksburg Bridge	vehiclesPerDay	25000
+Benjamin G. Humphreys Bridge	vehiclesPerDay	7000
+Helena Bridge	vehiclesPerDay	6000
+Memphis & Arkansas Bridge	vehiclesPerDay	48000
+Hernando de Soto Bridge	vehiclesPerDay	43000
+Caruthersville Bridge	vehiclesPerDay	9900
+William R. Bennett Bridge	vehiclesPerDay	50000
+New Chain of Rocks Bridge	vehiclesPerDay	56800
+Delaware River – Turnpike Toll Bridge	vehiclesPerDay	30390
+Raymond E. Baldwin Bridge	vehiclesPerDay	84000
+John Harris Bridge	vehiclesPerDay	117000
+Norbert F. Beckey Bridge	vehiclesPerDay	4150
+I-280 Bridge	vehiclesPerDay	21200
+Rikers Island Bridge	vehiclesPerDay	15621
+Third Avenue Bridge (New York City)	vehiclesPerDay	58510
+Madison Avenue Bridge	vehiclesPerDay	41740
+145th Street Bridge	vehiclesPerDay	23148
+University Heights Bridge	vehiclesPerDay	39340
+Dunn Memorial Bridge	vehiclesPerDay	36000
+Troy–Waterford Bridge	vehiclesPerDay	12435
+Michigan Avenue Bridge	vehiclesPerDay	33300
+Michigan Avenue Bridge	vehiclesPerDay	14600
+Interstate 78 Toll Bridge	vehiclesPerDay	56100
+Ōnaruto Bridge	vehiclesPerDay	18600
+Clay Wade Bailey Bridge	vehiclesPerDay	12200
+Combs–Hehl Bridge	vehiclesPerDay	72000
+Government Bridge	vehiclesPerDay	16800
+Milton-Madison Bridge	vehiclesPerDay	3498
+Älvsborg Bridge	vehiclesPerDay	65
+Chesapeake City Bridge	vehiclesPerDay	14350
+Sarah Mildred Long Bridge	vehiclesPerDay	14900
+Črni Kal Viaduct	vehiclesPerDay	19606
+Joe H. Anderson Sr. Bridge	vehiclesPerDay	6100
+Dartmouth Bridge	vehiclesPerDay	167000
+Allenby Bridge	vehiclesPerDay	1200000
+Allenby Bridge	vehiclesPerDay	12000
+Veterans Memorial Bridge (St. Louis)	vehiclesPerDay	46706
+Fort Henry Bridge	vehiclesPerDay	60070
+Merriam Street Bridge	vehiclesPerDay	1077
+Discovery Bridge (Missouri)	vehiclesPerDay	62490
+Blanchette Memorial Bridge	vehiclesPerDay	153161
+Richard P. Braun Bridge	vehiclesPerDay	39000
+Lowry Avenue Bridge    1	vehiclesPerDay	16600
+I-35W Mississippi River bridge	vehiclesPerDay	140000
+Betty Adkins Bridge	vehiclesPerDay	46000
+Parrish Avenue Bridge	vehiclesPerDay	7200
+Daniel Boone Bridge	vehiclesPerDay	88317
+Isaac Lee Patterson Bridge	vehiclesPerDay	6200
+Champlain Bridge (United States)	vehiclesPerDay	3510
+Mendota Road Bridge	vehiclesPerDay	500
+North Avenue Bridge	vehiclesPerDay	40000
+George N. Wade Memorial Bridge	vehiclesPerDay	64000
+Arrigoni Bridge	vehiclesPerDay	33600
+Frank E. Bauer Bridge	vehiclesPerDay	4400
+Escambia Bay Bridge	vehiclesPerDay	50000
+Bayside Bridge (Pinellas County, Florida)	vehiclesPerDay	68807
+New Hope – Lambertville Toll Bridge	vehiclesPerDay	9700
+I-10 Twin Span Bridge	vehiclesPerDay	55000
+125th Street Bridge	vehiclesPerDay	3150
+Garcon Point Bridge	vehiclesPerDay	3900
+Centre Bridge–Stockton Bridge	vehiclesPerDay	4800
+New Hope – Lambertville Bridge	vehiclesPerDay	13900
+Chestnut Street Bridge	vehiclesPerDay	16109
+Piscataqua River Bridge	vehiclesPerDay	60700
+Memorial Bridge (Portsmouth, New Hampshire)	vehiclesPerDay	11000
+Little Bay Bridge	vehiclesPerDay	50380
+William H. Putnam Memorial Bridge	vehiclesPerDay	50800
+Natchez Trace Parkway Bridge	vehiclesPerDay	210
+Leo Frigo Memorial Bridge	vehiclesPerDay	34900
+Clackmannanshire Bridge	vehiclesPerDay	20000
+Smolen–Gulf Bridge	vehiclesPerDay	2065
+Verrazano Bridge (Maryland)	vehiclesPerDay	5302
+Washington Crossing Bridge	vehiclesPerDay	6500
+Cochrane – Africatown USA Bridge	vehiclesPerDay	11110
+Podolsko Bridge	vehiclesPerDay	3896
+Vantage Bridge	vehiclesPerDay	11916
+Ma Wan Viaduct	vehiclesPerDay	54000
+Albertus L. Meyers Bridge	vehiclesPerDay	14618
+McClugage Bridge	vehiclesPerDay	40400
+Bob Michel Bridge	vehiclesPerDay	18600
+Cedar Street Bridge	vehiclesPerDay	12200
+Shade-Lohmann Bridge	vehiclesPerDay	36700
+Walden Veterans' Memorial Bridge	vehiclesPerDay	10929
+Taba Border Crossing	vehiclesPerDay	2147
+Taba Border Crossing	vehiclesPerDay	74
+Wadi Araba Crossing	vehiclesPerDay	1287
+Wadi Araba Crossing	vehiclesPerDay	22
+Jordan River Crossing	vehiclesPerDay	1044
+Jordan River Crossing	vehiclesPerDay	103
+Nitzana Border Crossing	vehiclesPerDay	16
+La Crosse West Channel Bridge	vehiclesPerDay	15100
+Kopu Bridge	vehiclesPerDay	9000
+Don N. Holt Bridge	vehiclesPerDay	72200
+James B. Edwards Bridge	vehiclesPerDay	45300
+Nature Road Bridge	vehiclesPerDay	2350
+Eiksund Tunnel	vehiclesPerDay	1000
+Gateway to the Americas International Bridge	vehiclesPerDay	11398
+Gateway to the Americas International Bridge	vehiclesPerDay	2311
+Juárez–Lincoln International Bridge	vehiclesPerDay	13133
+Juárez–Lincoln International Bridge	vehiclesPerDay	103
+Colombia – Solidarity International Bridge	vehiclesPerDay	294
+Colombia – Solidarity International Bridge	vehiclesPerDay	924
+World Trade International Bridge	vehiclesPerDay	3579
+Branko's Bridge	vehiclesPerDay	90000
+Star City Bridge	vehiclesPerDay	29700
+Lexington Bridge (Mississippi River)	vehiclesPerDay	81000
+Burlington Northern Railroad Bridge 9.6	vehiclesPerDay	63
+Chief Standing Bear Memorial Bridge	vehiclesPerDay	555
+East Haddam Bridge	vehiclesPerDay	11600
+Ward's Bridge	vehiclesPerDay	10448
+Bodine's Bridge	vehiclesPerDay	6035
+General Pierce Bridge	vehiclesPerDay	19400
+Pensacola Bay Bridge	vehiclesPerDay	50065
+I-35W Saint Anthony Falls Bridge	vehiclesPerDay	141000
+Buster Boyd Bridge	vehiclesPerDay	30000
+Maroon Creek Bridge  New Maroon Creek Bridge   1	vehiclesPerDay	22300
+John T. Loughran Bridge	vehiclesPerDay	15056
+Chef Menteur Bridge	vehiclesPerDay	3500
+Frederick Douglass – Susan B. Anthony Memorial Bridge	vehiclesPerDay	71640
+Beaverkill Bridge	vehiclesPerDay	80
+Tuthilltown Bridge	vehiclesPerDay	4302
+Commodore Isaac Hull Memorial Bridge	vehiclesPerDay	53600
+Igor I. Sikorsky Memorial Bridge	vehiclesPerDay	79700
+Waterview Connection	vehiclesPerDay	83000
+Washington Street Bridge	vehiclesPerDay	26000
+Walden Low Bridge	vehiclesPerDay	2800
+Irondequoit Bay Bridge	vehiclesPerDay	67229
+Mile-Long Bridge	vehiclesPerDay	75050
+New Martinsville Bridge	vehiclesPerDay	8200
+Link Bridge	vehiclesPerDay	111800
+Benning Bridge	vehiclesPerDay	68400
+Dolores River Bridge	vehiclesPerDay	319
+Rande Bridge	vehiclesPerDay	50000
+Valley View Bridge	vehiclesPerDay	120000
+Casco Bay Bridge	vehiclesPerDay	32000
+Woolsey Finnell Bridge	vehiclesPerDay	47000
+Hugh R. Thomas Bridge	vehiclesPerDay	68370
+Intercity Viaduct	vehiclesPerDay	23500
+Greenpoint Avenue Bridge	vehiclesPerDay	26926
+Memorial Bridge (Roanoke, Virginia)	vehiclesPerDay	13000
+Mont Clare Bridge	vehiclesPerDay	18347
+Mont Clare Bridge	vehiclesPerDay	15544
+Mont Clare Bridge	vehiclesPerDay	16347
+Mont Clare Bridge	vehiclesPerDay	16692
+Fairfield Bridge	vehiclesPerDay	20000
+Pond Eddy Bridge	vehiclesPerDay	29
+Carlin Tunnel	vehiclesPerDay	10000
+Cave Rock Tunnel	vehiclesPerDay	12000
+Newton Navarro Bridge	vehiclesPerDay	25000
+Moyie River Canyon Bridge	vehiclesPerDay	2100
+Pasco–Kennewick Bridge (1922)	vehiclesPerDay	18000
+Interstate 182 Bridge	vehiclesPerDay	32000
+Strawberry Mansion Bridge	vehiclesPerDay	14500
+Minnesota Highway 371 Bridge	vehiclesPerDay	8900
+Umatilla Bridge	vehiclesPerDay	8150
+Falls Bridge	vehiclesPerDay	13000
+Galipeault Bridge	vehiclesPerDay	54000
+Turners Falls Road Bridge	vehiclesPerDay	10800
+Joseph E. Muller Bridge	vehiclesPerDay	21000
+Bennett's Meadow Bridge	vehiclesPerDay	4267
+A25 Bridge	vehiclesPerDay	25000
+Tees Viaduct	vehiclesPerDay	70000
+Washington Bridge (Connecticut)	vehiclesPerDay	23300
+Isle of Palms Connector Bridge	vehiclesPerDay	16900
+Ben Sawyer Bridge	vehiclesPerDay	12400
+Rock Island Swing Bridge	vehiclesPerDay	3900
+Hurricane Deck Bridge	vehiclesPerDay	8166
+Port Orange Causeway	vehiclesPerDay	29000
+Granada Bridge (Ormond Beach)	vehiclesPerDay	35500
+Derby-Shelton Bridge	vehiclesPerDay	14000
+Shawneetown Bridge	vehiclesPerDay	2800
+Jinan Yellow River Bridge	vehiclesPerDay	14179
+Schierstein Bridge	vehiclesPerDay	80000
+McKinley Washington, Jr. Bridge	vehiclesPerDay	4500
+Putnam Street Bridge	vehiclesPerDay	1979
+Putnam Street Bridge	vehiclesPerDay	1999
+Flintshire Bridge	vehiclesPerDay	13300
+Barryville–Shohola Bridge	vehiclesPerDay	1623
+Infinity Bridge	vehiclesPerDay	4000
+Siouxland Veterans Memorial Bridge	vehiclesPerDay	28600
+Wabash Avenue Bridge	vehiclesPerDay	5800
+Jonathon Hulton Bridge	vehiclesPerDay	22312
+Allegheny River Turnpike Bridge	vehiclesPerDay	34800
+Sturgeon Bay Bridge	vehiclesPerDay	15300
+Coen Tunnel	vehiclesPerDay	109400
+Cathedral Green Footbridge	vehiclesPerDay	1000
+Exeter Bridge	vehiclesPerDay	3000
+Waalbrug	vehiclesPerDay	50000
+Beebe Bridge	vehiclesPerDay	5000
+Hadley Parabolic Bridge	vehiclesPerDay	100
+Bigelow Bridge	vehiclesPerDay	100
+Kanonersky Tunnel	vehiclesPerDay	1500
+Carmine Liberta Bridge	vehiclesPerDay	11649
+Benjamin Franklin Bridge	vehiclesPerDay	100000
+Walt Whitman Bridge	vehiclesPerDay	120000
+Taoyaomen Bridge	vehiclesPerDay	2
+Broad River Bridge	vehiclesPerDay	19400
+Saugatuck River Bridge	vehiclesPerDay	15700
+Viaducto de Montabliz	vehiclesPerDay	11500
+Reynolds Bridge	vehiclesPerDay	3100
+Edmund Pettus Bridge	vehiclesPerDay	17720
+Bert Dosh Memorial Bridge	vehiclesPerDay	14300
+Stillwater Bridge (Hudson River, New York)	vehiclesPerDay	3650
+Twin Bridges (Philadelphia, Pennsylvania)	vehiclesPerDay	109000
+José Leon de Carranza Bridge	vehiclesPerDay	40000
+John O'Connell Bridge	vehiclesPerDay	4900
+Assawoman Bay Bridge	vehiclesPerDay	18062
+Harry W. Kelley Memorial Bridge	vehiclesPerDay	21491
+Veterans Memorial Bridge (Steubenville, Ohio)	vehiclesPerDay	30000
+St. Louis-San Francisco Overpass	vehiclesPerDay	2800
+Vembanad Rail Bridge	vehiclesPerDay	15
+Surtees Bridge	vehiclesPerDay	55000
+La Salle Street Bridge	vehiclesPerDay	12050
+General William B. Westmoreland Bridge	vehiclesPerDay	37350
+New Ulyanovsk Bridge	vehiclesPerDay	40000
+Vine Street Expressway Bridge	vehiclesPerDay	54115
+John F. Kennedy Boulevard Bridge	vehiclesPerDay	2629
+Schuylkill Expressway Bridge	vehiclesPerDay	69892
+Paton Bridge	vehiclesPerDay	36000
+Pivdennyi Bridge	vehiclesPerDay	6
+Benton City – Kiona Bridge	vehiclesPerDay	7600
+Saint Alkmund's Way Footbridge	vehiclesPerDay	1500
+Tussen Tunnel	vehiclesPerDay	5000
+Wheeling Tunnel	vehiclesPerDay	59600
+Third Nanjing Yangtze Bridge	vehiclesPerDay	60000
+Isis River Bridge	vehiclesPerDay	7200

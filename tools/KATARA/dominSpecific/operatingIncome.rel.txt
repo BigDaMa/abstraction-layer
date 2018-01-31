@@ -1,0 +1,2284 @@
+Apple Inc.	operatingIncome	1.839E10
+AOL	operatingIncome	-9.83E8
+Adobe Systems	operatingIncome	9.33E8
+Advanced Micro Devices	operatingIncome	8.48E8
+Aon Corporation	operatingIncome	1.02
+BMW	operatingIncome	5.094E9
+BT Group	operatingIncome	2600.0
+Bentley	operatingIncome	1.94E8
+Chrysler	operatingIncome	7.63E8
+Ericsson	operatingIncome	1.645E10
+General Motors	operatingIncome	5.084E9
+General Electric	operatingIncome	1.5166E10
+Honda	operatingIncome	2.34E9
+H. J. Heinz Company	operatingIncome	1.56E9
+Harley-Davidson	operatingIncome	2.597E8
+Intel	operatingIncome	1.6045E10
+Imperial Chemical Industries	operatingIncome	5.02E8
+Mazda	operatingIncome	2.39E10
+Motorola	operatingIncome	-1.58E8
+Nintendo	operatingIncome	171076.0
+Nissan Motors	operatingIncome	3.116E11
+Nokia	operatingIncome	2.07E9
+Nordea	operatingIncome	3.639E9
+Oracle Corporation	operatingIncome	1.2E10
+Paramount Pictures	operatingIncome	1.11E10
+Philips	operatingIncome	2.065E9
+Porsche	operatingIncome	8589.0
+State Street Corporation	operatingIncome	2.086E9
+Saab	operatingIncome	9.75E8
+Sony	operatingIncome	3.18E10
+TeliaSonera	operatingIncome	3.208E10
+Telefónica	operatingIncome	1.647E10
+The New York Times Company	operatingIncome	2.341E8
+Volvo	operatingIncome	1.8E10
+Volkswagen Group	operatingIncome	7.141E9
+Walmart	operatingIncome	2.5542E10
+Xerox	operatingIncome	2.076E9
+Indigo Books and Music	operatingIncome	4.5E7
+The Walt Disney Company	operatingIncome	6.627E9
+Amstrad	operatingIncome	2.694E7
+Nvidia	operatingIncome	9.8945E7
+Daimler AG	operatingIncome	7.274E9
+Fiat	operatingIncome	9.92E8
+Texas Instruments	operatingIncome	4.551E9
+Pirelli	operatingIncome	4.078E8
+Cisco Systems	operatingIncome	9.164E9
+General Dynamics	operatingIncome	3.675E9
+Altria	operatingIncome	4.86E9
+France Télécom	operatingIncome	7.562E9
+Bunge Limited	operatingIncome	2.423E9
+Tennessee Valley Authority	operatingIncome	1.97E9
+Eastman Kodak	operatingIncome	-5.61E8
+Fujitsu	operatingIncome	1.018E9
+Pfizer	operatingIncome	9.422E9
+Global Crossing	operatingIncome	2000000.0
+WWE	operatingIncome	1.32E7
+Zilog	operatingIncome	1.839E7
+ITT Corporation	operatingIncome	9.0E8
+Lockheed Martin	operatingIncome	4.097E9
+Hasbro	operatingIncome	9.22E8
+Telenor	operatingIncome	1.25E10
+Yum! Brands	operatingIncome	1.77E9
+Morgan Stanley	operatingIncome	6.202E9
+FedEx	operatingIncome	1.998E9
+BSkyB	operatingIncome	1096.0
+Dish Network	operatingIncome	2.056E9
+Michelin	operatingIncome	1.695E9
+The Swatch Group	operatingIncome	1.436E9
+Time Warner	operatingIncome	5.427E9
+The Hershey Company	operatingIncome	9.05E8
+Dassault Aviation	operatingIncome	4.34E8
+SKF	operatingIncome	8.452E9
+Amazon.com	operatingIncome	1.406E9
+EADS	operatingIncome	1.231E9
+Monsanto	operatingIncome	1.607E9
+Panasonic Corporation	operatingIncome	11593.0
+Tesco	operatingIncome	3.81E9
+Avon Products	operatingIncome	1.073E9
+National Express Group	operatingIncome	2.042E8
+Royal Society for the Protection of Birds	operatingIncome	6.97E7
+National Semiconductor	operatingIncome	3.258E8
+Dell	operatingIncome	3.43E9
+Lagardère Group	operatingIncome	3.43E8
+News Corporation	operatingIncome	3.703E9
+EBay	operatingIncome	2.053E9
+Betfair	operatingIncome	1.84E7
+Alstom	operatingIncome	7.64E8
+MAN SE	operatingIncome	1.283E9
+Heineken International	operatingIncome	2.476E9
+W H Smith	operatingIncome	8.9E7
+Marks & Spencer	operatingIncome	8.52E8
+Novartis	operatingIncome	1.1526E10
+Atmel	operatingIncome	212.0
+Nestlé	operatingIncome	1.619E10
+Renault	operatingIncome	6.35E8
+Agilent Technologies	operatingIncome	7.6E7
+STMicroelectronics	operatingIncome	4.76E8
+Union Pacific Railroad	operatingIncome	4.981E9
+General Mills	operatingIncome	2.606E9
+Johnson & Johnson	operatingIncome	1.6947E10
+Carrefour	operatingIncome	1.836E9
+Morrisons	operatingIncome	9.04E8
+Asda	operatingIncome	6.38E8
+Transmeta	operatingIncome	2.559E7
+Siemens	operatingIncome	5.916E9
+ProRail	operatingIncome	3.1E7
+Nederlandse Spoorwegen	operatingIncome	2.8E7
+Novell	operatingIncome	2.1196E8
+Sainsbury's	operatingIncome	7.1E8
+BASF	operatingIncome	7.761E9
+Arriva	operatingIncome	1.655E8
+Deutsche Bahn	operatingIncome	1.7E9
+Piaggio	operatingIncome	1.111E8
+Netflix	operatingIncome	1.94E8
+Starbucks	operatingIncome	1.42E9
+Viacom	operatingIncome	2.21E9
+Vauxhall Motors	operatingIncome	1.31E8
+Yahoo!	operatingIncome	1.07E9
+Smith & Wesson	operatingIncome	9000000.0
+Chipotle Mexican Grill	operatingIncome	2.89061E8
+Barnes & Noble	operatingIncome	1.43E8
+GlaxoSmithKline	operatingIncome	5.128E9
+Western Union	operatingIncome	1.3E9
+Fuji Television	operatingIncome	26351.0
+West Japan Railway Company	operatingIncome	95988.0
+East Japan Railway Company	operatingIncome	345086.0
+Tandberg	operatingIncome	1.767E8
+Deutsche Telekom	operatingIncome	5.505E9
+ABB Group	operatingIncome	3.818E9
+Nippon Telegraph and Telephone	operatingIncome	1.2057E10
+Kimberly-Clark	operatingIncome	2.67E9
+Avid Technology	operatingIncome	-7.0E7
+BAE Systems	operatingIncome	1505.0
+BHP Billiton	operatingIncome	20031.0
+Funcom	operatingIncome	7191000.0
+DuPont	operatingIncome	3.711E9
+Halliburton	operatingIncome	4.01E9
+Chuck E. Cheese's	operatingIncome	5.9214E7
+TMX Group	operatingIncome	2.88938E8
+United Parcel Service	operatingIncome	5.874E9
+Skandinaviska Enskilda Banken	operatingIncome	1.111E10
+Scania AB	operatingIncome	1.275E10
+Skanska	operatingIncome	5.339E9
+H&M	operatingIncome	2.466E10
+Securitas AB	operatingIncome	3.724E9
+Citigroup	operatingIncome	1.0951E10
+Unocal Corporation	operatingIncome	1.145E9
+Nordstrom	operatingIncome	7.73E8
+Popular, Inc.	operatingIncome	7.89E8
+Northrop Grumman	operatingIncome	3.07E9
+Western Digital	operatingIncome	1.525E9
+Samuel Adams (beer)	operatingIncome	81.3
+RENFE	operatingIncome	2.4E8
+Honeywell	operatingIncome	3.229E9
+SAIC (company)	operatingIncome	7.76E8
+Applebee's	operatingIncome	1.57637E8
+Viking Line	operatingIncome	1.44E7
+JPMorgan Chase	operatingIncome	2.4859E10
+UPM (company)	operatingIncome	7.55E8
+Marston's Brewery	operatingIncome	1.487E8
+Colgate-Palmolive	operatingIncome	3.73E9
+Adidas	operatingIncome	8.94E8
+Unilever	operatingIncome	6339.0
+Infosys	operatingIncome	1.779E9
+Visa Inc.	operatingIncome	4.638E9
+Raytheon	operatingIncome	2.607E9
+Six Flags	operatingIncome	1.4395E8
+Bell Canada	operatingIncome	3.672E9
+Qualcomm	operatingIncome	3.28E9
+BNSF Railway	operatingIncome	3.823703E9
+Boyd Gaming	operatingIncome	1.56E8
+MGM Resorts International	operatingIncome	-9.63876E8
+Kingfisher plc	operatingIncome	7.04E8
+Kesa Electricals	operatingIncome	8.35E7
+DynCorp	operatingIncome	1.2E8
+KBR (company)	operatingIncome	5.36E8
+Shoppers Drug Mart	operatingIncome	8.955E8
+L-3 Communications	operatingIncome	1.75E9
+Macy's, Inc.	operatingIncome	1.894E9
+SAP AG	operatingIncome	2.589E9
+Thales Group	operatingIncome	1.733E8
+Macy's	operatingIncome	1.863E9
+G4S	operatingIncome	4.35E8
+Chevron Corporation	operatingIncome	3.2055E10
+Mighty River Power	operatingIncome	1.72094E8
+Transpower New Zealand Limited	operatingIncome	1.58987E8
+Genesis Power	operatingIncome	1.32E8
+Meridian Energy	operatingIncome	6.417E8
+DSB (railway company)	operatingIncome	1.3E9
+Belgacom	operatingIncome	1.619E9
+DBS Bank	operatingIncome	6.031E9
+Archer Daniels Midland	operatingIncome	2.585E9
+Flytoget	operatingIncome	1.92E8
+Stora Enso	operatingIncome	1.027E9
+MeadWestvaco	operatingIncome	2.89E8
+Svenska Cellulosa Aktiebolaget	operatingIncome	8.677E9
+Abitibi-Consolidated	operatingIncome	2.76E8
+Domtar	operatingIncome	6.18E8
+Private Media Group	operatingIncome	-2.674E7
+Metro Inc.	operatingIncome	5.858E8
+Norske Skog	operatingIncome	2.379E9
+Accenture	operatingIncome	2.914E9
+Kongsberg Defence & Aerospace	operatingIncome	1.82E8
+Comcast	operatingIncome	6.104E9
+Bank of China	operatingIncome	1.617E10
+BC Ferries	operatingIncome	5.76E7
+Metro AG	operatingIncome	2.211E9
+Valero Energy Corporation	operatingIncome	1.876E9
+Sony Ericsson	operatingIncome	1.47E8
+Yamaha Corporation	operatingIncome	1.893E8
+Dow Chemical Company	operatingIncome	4.238E9
+Citrix Systems	operatingIncome	3.2716E8
+NeuStar	operatingIncome	1.75521E8
+Berkshire Hathaway	operatingIncome	1.9051E10
+U.S. Steel	operatingIncome	-3.85E8
+ConocoPhillips	operatingIncome	1.975E10
+National Railway Company of Belgium	operatingIncome	43.0
+HSBC	operatingIncome	1.9037E10
+Carlsberg Group	operatingIncome	1.025E10
+American Express	operatingIncome	5.964E9
+RadioShack	operatingIncome	3.75E8
+Seagate Technology	operatingIncome	1.74E9
+Alma Media	operatingIncome	43.0
+Yamaha Motor Company	operatingIncome	9.0E8
+Goldman Sachs	operatingIncome	1.29E10
+China Construction Bank	operatingIncome	2.013E10
+Norsk Hydro	operatingIncome	3.184E9
+Polaris Industries	operatingIncome	2.207E8
+Aflac	operatingIncome	2235.0
+Research In Motion	operatingIncome	4.636E9
+Corning Incorporated	operatingIncome	1801.0
+Norwegian State Railways	operatingIncome	5.5E8
+Short Brothers	operatingIncome	6.9E7
+Gap (clothing retailer)	operatingIncome	1.968E9
+Sirius Satellite Radio	operatingIncome	-5.03E9
+Investor AB	operatingIncome	3.192E10
+Central Japan Railway Company	operatingIncome	349347.0
+Symantec	operatingIncome	9.33E8
+Best Buy	operatingIncome	2.11
+Eurotunnel	operatingIncome	1.899E8
+Air France-KLM	operatingIncome	1.22E8
+Paccar	operatingIncome	1.668E9
+Stryker Corporation	operatingIncome	1.75E9
+Systembolaget	operatingIncome	5.12E8
+British American Tobacco	operatingIncome	4984.0
+Arbitron	operatingIncome	65.7
+Zumtobel Lighting Group	operatingIncome	4.52E7
+Cable & Wireless Worldwide	operatingIncome	1.48E8
+Austrian Federal Railways	operatingIncome	5.136E8
+Kroger	operatingIncome	2.45E9
+Dollar General	operatingIncome	9.53258E8
+Parmalat	operatingIncome	3.342E8
+Singapore Telecommunications	operatingIncome	4.431E9
+Deutsche Post	operatingIncome	1.835E9
+Clydesdale Bank	operatingIncome	1.94E8
+J D Wetherspoon	operatingIncome	1.0E8
+MasterCard	operatingIncome	2.757E9
+Portland General Electric	operatingIncome	2.08E8
+Biogen Idec	operatingIncome	1.249E9
+Biovail	operatingIncome	1.1424E8
+Trinity Mirror	operatingIncome	1.38E8
+ABN AMRO	operatingIncome	2.6E9
+MTA Bridges and Tunnels	operatingIncome	2.841E8
+Eidos Interactive	operatingIncome	2.88E7
+Waitrose	operatingIncome	1.735E8
+Diageo	operatingIncome	2.574E9
+Tokyo Waterfront Area Rapid Transit	operatingIncome	1.623E9
+Kintetsu	operatingIncome	39919.0
+Software AG	operatingIncome	2.686E8
+Norid	operatingIncome	6600000.0
+Swire Group	operatingIncome	2.65E9
+Groupe Danone	operatingIncome	2.578E9
+Reed Elsevier	operatingIncome	1.09E9
+Tokyo Broadcasting System	operatingIncome	7705.0
+J. C. Penney	operatingIncome	8.32E8
+Telecom New Zealand	operatingIncome	9.75E8
+Sanoma	operatingIncome	3.927E8
+CA Technologies	operatingIncome	1.247E9
+Arby's	operatingIncome	9400000.0
+Paychex	operatingIncome	7.25E8
+GKN	operatingIncome	3.85E8
+Carnival Corporation & plc	operatingIncome	2.347E9
+John Deere	operatingIncome	3.025E9
+ENEA AB	operatingIncome	6.74E7
+SBS Transit	operatingIncome	6.3E7
+Rolls-Royce plc	operatingIncome	1130.0
+Crédit Agricole	operatingIncome	8.166E9
+Second Cup	operatingIncome	2.17E7
+AstraZeneca	operatingIncome	1.149E10
+Severn Trent	operatingIncome	5.571E8
+Costco	operatingIncome	1.777E9
+Cott	operatingIncome	1.984E8
+Dolby Laboratories	operatingIncome	2.868E8
+Tyco International	operatingIncome	1715.0
+Alliant Techsystems	operatingIncome	5.13E8
+ITV plc	operatingIncome	4.08E8
+Debenhams	operatingIncome	1.897E8
+Schlumberger	operatingIncome	5.16E9
+Hot Topic	operatingIncome	3.25E7
+OTE	operatingIncome	3.849E8
+TSMC	operatingIncome	4.444E9
+Vodafone	operatingIncome	5.596E9
+Alfa Laval	operatingIncome	4.401E9
+Applied Materials	operatingIncome	1.384E9
+Alcoa	operatingIncome	5.48E8
+Sandvik	operatingIncome	1.103E10
+Akamai Technologies	operatingIncome	2.543E8
+Merck KGaA	operatingIncome	1.113E9
+Revlon	operatingIncome	1.708E8
+Swisscom	operatingIncome	2.625E9
+Hydro-Québec	operatingIncome	5.04E9
+Freescale Semiconductor	operatingIncome	1.218E9
+Micron Technology	operatingIncome	1.68E9
+SMRT Corporation	operatingIncome	1.887E8
+Abbott Laboratories	operatingIncome	6.37E9
+Electrolux	operatingIncome	5.43E9
+Atlas Copco	operatingIncome	1.392E10
+Modern Times Group	operatingIncome	2.355E9
+Assa Abloy	operatingIncome	6.046E9
+Autoliv	operatingIncome	8.692E8
+Swedbank	operatingIncome	9.955E9
+Handelsbanken	operatingIncome	1.477E10
+Bristol-Myers Squibb	operatingIncome	5.34E9
+AkzoNobel	operatingIncome	1.219E9
+Standard Chartered	operatingIncome	6.12E9
+3i	operatingIncome	6.23E8
+Northern Rock	operatingIncome	6.27E8
+Logica	operatingIncome	2.106E8
+Infineon Technologies	operatingIncome	3.48E8
+PayPoint	operatingIncome	3.61E7
+EMC Corporation	operatingIncome	2.683E9
+Magna International	operatingIncome	4.0E8
+Bed Bath & Beyond	operatingIncome	9.807E8
+Kraft Foods	operatingIncome	5.666E9
+Cedar Fair Entertainment Company	operatingIncome	1.855E8
+Japan Tobacco	operatingIncome	3.286E11
+American International Group	operatingIncome	1.7936E10
+Liberty Media	operatingIncome	1.303E9
+Bank of Ireland	operatingIncome	7000000.0
+Luxottica	operatingIncome	7.122E8
+Alfa Group	operatingIncome	1.79092E9
+Fox Entertainment Group	operatingIncome	2.9E9
+Estée Lauder Companies	operatingIncome	4.18E8
+Opera Software	operatingIncome	8.09E7
+Kellogg Company	operatingIncome	1.99E9
+Experian	operatingIncome	6.93E8
+Expeditors International	operatingIncome	5.47E8
+Hoffmann–La Roche	operatingIncome	1.349E10
+Rona (company)	operatingIncome	3.329E8
+National Instruments	operatingIncome	1.28313E8
+Limited Brands	operatingIncome	6.07E8
+Plum Creek Timber	operatingIncome	3.44E8
+Ryder	operatingIncome	4.0546E8
+Ubisoft	operatingIncome	2.6E8
+BNP Paribas	operatingIncome	1.256E10
+Sanofi	operatingIncome	5.961E9
+Finmeccanica	operatingIncome	1.232E9
+Bouygues	operatingIncome	1.791E9
+H&R Block	operatingIncome	775.0
+Office Depot	operatingIncome	2.65E8
+MTU Aero Engines	operatingIncome	2.68E8
+CVS Pharmacy	operatingIncome	2.019E9
+Walgreens	operatingIncome	3.458E9
+KPN	operatingIncome	3.25E9
+Outokumpu	operatingIncome	8.3E7
+Progressive Enterprises	operatingIncome	2.081E8
+American Greetings	operatingIncome	1.4E8
+Sanyo	operatingIncome	33575.0
+Freightliner Group	operatingIncome	2.3E8
+Nankai Electric Railway	operatingIncome	19900.0
+Freeport-McMoRan	operatingIncome	-1.2716E10
+Comerica	operatingIncome	1.64E9
+Trend Micro	operatingIncome	2.7E8
+Canwest	operatingIncome	1.97E8
+Claire's	operatingIncome	4.46E8
+Cigna	operatingIncome	1.3E9
+Becton Dickinson	operatingIncome	1.68
+Tomra	operatingIncome	2.698E8
+Sam's Club	operatingIncome	1.6E9
+USG Corporation	operatingIncome	-5.12E8
+Whole Foods Market	operatingIncome	4.38E8
+Camelot Group	operatingIncome	4.72E7
+BAA Limited	operatingIncome	4.347E8
+Baker Hughes	operatingIncome	1417.0
+Analog Devices	operatingIncome	900.0
+Eastman Chemical Company	operatingIncome	8.62E8
+Delhaize Group	operatingIncome	1.024E9
+United Technologies Corporation	operatingIncome	6.528E9
+McGraw-Hill	operatingIncome	1.421E9
+Rentokil Initial	operatingIncome	6.15E7
+Omnicom Group	operatingIncome	1.689E9
+WPP plc	operatingIncome	1228.0
+The Washington Post Company	operatingIncome	5.47E8
+Imperial Tobacco	operatingIncome	2528.0
+Belo	operatingIncome	2.16E8
+PRISA TV	operatingIncome	1.762E8
+Tektronix	operatingIncome	1.187E8
+Sage Group	operatingIncome	3.3E8
+Swedish Match	operatingIncome	4.169E9
+SABMiller	operatingIncome	2.62E9
+Affymetrix	operatingIncome	-3.06E7
+Qinetiq	operatingIncome	1.203E8
+Hornby Railways	operatingIncome	8240000.0
+CACI	operatingIncome	194.8
+Brunswick Corporation	operatingIncome	-6.116E8
+Caterpillar Inc.	operatingIncome	3.963E9
+Broadcom	operatingIncome	1.082E9
+Autonomy Corporation	operatingIncome	3.164E8
+Fjord1 Nordvestlandske	operatingIncome	3.4E7
+Škoda Works	operatingIncome	1.95E8
+Pernod Ricard	operatingIncome	1.707E9
+Goodyear Tire and Rubber Company	operatingIncome	3.13E8
+SSAB	operatingIncome	1.084E9
+URS Corporation	operatingIncome	4.69E8
+Saab Automobile	operatingIncome	3.67E9
+Denny's	operatingIncome	6.091E7
+Discovery Communications	operatingIncome	1.36E9
+Energizer Holdings	operatingIncome	4.34E8
+Banco Popular Español	operatingIncome	2.149E9
+UBM plc	operatingIncome	1.432E8
+American Eagle Outfitters	operatingIncome	3.02E8
+Daily Mail and General Trust	operatingIncome	2.222E8
+Invensys	operatingIncome	2.23E8
+YPF	operatingIncome	9475.0
+Legal & General	operatingIncome	1002.0
+Solaris Bus & Coach	operatingIncome	2.06E7
+Ruby Tuesday (restaurant)	operatingIncome	5.7758E7
+Next (clothing)	operatingIncome	5.298E8
+Maersk	operatingIncome	5.965E10
+Scottish Power	operatingIncome	8.697E8
+Inditex	operatingIncome	2.29E9
+L'Oréal	operatingIncome	3.057E9
+Ahold	operatingIncome	1.336E9
+Tractor Supply Company	operatingIncome	1.35E8
+Lowe's	operatingIncome	3.56E9
+Orbital Sciences Corporation	operatingIncome	5.229E7
+Kohl's	operatingIncome	1.56E9
+Herbalife	operatingIncome	3.87512E8
+Royal Caribbean International	operatingIncome	4.96E8
+Eli Lilly and Company	operatingIncome	6.525E9
+LIN TV Corporation	operatingIncome	2.4744E8
+Cognizant Technology Solutions	operatingIncome	8.6185E8
+Lundbeck	operatingIncome	3.357E9
+Hannover Re	operatingIncome	1.174E9
+Genesco	operatingIncome	6.0422E7
+Morgan Stanley Smith Barney	operatingIncome	1.156E9
+Cracker Barrel Old Country Store	operatingIncome	1.4224E8
+Allstate	operatingIncome	1.493E9
+Total S.A.	operatingIncome	1.062E10
+McLaren Group	operatingIncome	1.43E7
+Xilinx	operatingIncome	4.86E8
+Irish Life and Permanent	operatingIncome	3.41E8
+A.G. Barr	operatingIncome	2.98E7
+Brookfield Asset Management	operatingIncome	4511.0
+Britvic	operatingIncome	1.346E8
+Allied Irish Banks	operatingIncome	2.508E9
+Richemont	operatingIncome	1.355E9
+Alko	operatingIncome	7.46E7
+Celesio	operatingIncome	5.656E8
+Freightliner Trucks	operatingIncome	3.014E9
+Queensland Rail	operatingIncome	7.24E8
+FirstGroup  First Group plc   1	operatingIncome	4.539E8
+Lexmark	operatingIncome	4.47E8
+Crown Media Holdings	operatingIncome	3.756E7
+NetApp	operatingIncome	4.884E8
+Cabot Oil	operatingIncome	3.19E8
+Compuware	operatingIncome	1.503E8
+LVMH	operatingIncome	4.169E9
+Moody's	operatingIncome	6.875E8
+ABS–CBN Corporation	operatingIncome	8.6E9
+Aviva	operatingIncome	2834.0
+Agnico-Eagle Mines	operatingIncome	9.599E7
+Agrium	operatingIncome	1.881E9
+Bell Aliant	operatingIncome	2.1E9
+Shire plc	operatingIncome	1071.0
+Saint-Gobain	operatingIncome	3.117E9
+Urban Outfitters	operatingIncome	3.11E8
+MetLife	operatingIncome	3.958E9
+Sumitomo Mitsui Financial Group	operatingIncome	4.53E10
+Sumitomo Mitsui Banking Corporation	operatingIncome	3.61E10
+Tokyo Electric Power Company	operatingIncome	3.996E11
+Volkswagen Group China	operatingIncome	7.74E8
+Foodstuffs	operatingIncome	9.7757E7
+Teledyne	operatingIncome	1.736E8
+POSCO	operatingIncome	2.5E9
+Danisco	operatingIncome	8.95E8
+Atos	operatingIncome	2.001E8
+PPG Industries	operatingIncome	6.17E8
+Progress Energy Inc	operatingIncome	1.772E9
+Western Wireless Corporation	operatingIncome	308343.0
+Hearst Television	operatingIncome	2.288E8
+The Coca-Cola Company	operatingIncome	8.449E9
+Panera Bread	operatingIncome	1.13E8
+Rheinmetall	operatingIncome	2.97E8
+Aker Solutions	operatingIncome	2.907E9
+Magirus	operatingIncome	1.042E9
+Coach, Inc.	operatingIncome	9.77E8
+Royal Caribbean Cruises Ltd.	operatingIncome	8.026E8
+Jabil Circuit	operatingIncome	3.276E8
+Trenitalia	operatingIncome	9.187E8
+Amgen	operatingIncome	5.545E9
+Frontline Ltd.	operatingIncome	3.079E8
+Sony Pictures Entertainment	operatingIncome	3.0E8
+Cogeco	operatingIncome	2.531E8
+M-real	operatingIncome	1.46E8
+Puma AG	operatingIncome	3.068E8
+Computer Sciences Corporation	operatingIncome	1.038E9
+ThyssenKrupp	operatingIncome	1.787E9
+Go-Ahead Group	operatingIncome	6.37E7
+Under Armour	operatingIncome	8.53E7
+AFC Enterprises	operatingIncome	3.66E7
+Cargill	operatingIncome	4.6E9
+Petoro	operatingIncome	157843.0
+Bradford & Bingley	operatingIncome	572.3
+Equifax	operatingIncome	422000.0
+Pearson PLC	operatingIncome	7.43E8
+Martin Marietta Materials	operatingIncome	4.3E8
+Telecom Italia	operatingIncome	5.813E9
+Capgemini	operatingIncome	4.89E8
+EMAP	operatingIncome	2.23E8
+Wienerberger	operatingIncome	1.07E7
+Mayr-Melnhof	operatingIncome	1.623E8
+Semperit	operatingIncome	8.23E7
+Palfinger	operatingIncome	5000000.0
+Strabag	operatingIncome	2.99E8
+Gilead Sciences	operatingIncome	2.9E9
+Northern Ireland Electricity	operatingIncome	1.176E8
+British Energy	operatingIncome	794.0
+Dixons Retail	operatingIncome	1.332E8
+Schibsted	operatingIncome	3.41E9
+GameStop	operatingIncome	6.37E8
+Foundry Networks	operatingIncome	8.2866E7
+Lenovo	operatingIncome	2.18E8
+Industrial and Commercial Bank of China	operatingIncome	2.428E10
+Électricité de France	operatingIncome	6.24E9
+United Biscuits	operatingIncome	1.417E8
+The McClatchy Company	operatingIncome	1.98512E8
+CRH plc	operatingIncome	1.841E9
+Owens-Illinois	operatingIncome	4.24E8
+IRobot	operatingIncome	-2650000.0
+Audiovox	operatingIncome	5.42
+Big Lots	operatingIncome	2.55E8
+Dollar Tree	operatingIncome	5.128E8
+Stagecoach Group  £2,164.4 million GBP 2010   1	operatingIncome	1.92E8
+Beeline (telecommunications)	operatingIncome	2.21E9
+McKesson Corporation	operatingIncome	2.008E9
+Cardinal Health	operatingIncome	1.27E9
+AMR Corporation	operatingIncome	3.08E8
+Saks Incorporated	operatingIncome	9.0E7
+Public Service Enterprise Group	operatingIncome	3.121E9
+Yonex	operatingIncome	1.2E7
+Wolseley (building materials company)	operatingIncome	1.35E8
+Prudential plc	operatingIncome	1941.0
+PositiveID	operatingIncome	-1.39E7
+Getrag	operatingIncome	9.21E8
+ZF Friedrichshafen	operatingIncome	6.8E8
+Warner Bros. Television	operatingIncome	8.45E8
+The Rank Group	operatingIncome	6.2E7
+Novo Nordisk	operatingIncome	1.889E10
+InFocus	operatingIncome	49.7
+Sodexo	operatingIncome	771.0
+Entergy	operatingIncome	2.43E9
+Martha Stewart Living Omnimedia	operatingIncome	-8663000.0
+Elkem	operatingIncome	1154.0
+Burberry	operatingIncome	1.711E8
+Repsol YPF	operatingIncome	7.621E9
+DSM (company)	operatingIncome	8.02E8
+De La Rue	operatingIncome	1.017E8
+Google	operatingIncome	1.0381E10
+The Warehouse Group	operatingIncome	1.34687E8
+Rio Tinto Group	operatingIncome	1.97E10
+Coca-Cola Amatil	operatingIncome	5.805E8
+Tyson Foods	operatingIncome	-1.81E8
+Newmont Mining Corporation	operatingIncome	3.91E8
+Greene King Brewery	operatingIncome	2.113E8
+MTR Corporation	operatingIncome	1.1012E10
+Fifth Third Bank	operatingIncome	9.4E8
+Candover Investments	operatingIncome	8000000.0
+Garmin	operatingIncome	8.98E8
+VTech	operatingIncome	1.54E8
+Wavin	operatingIncome	3.79E7
+Freddie Mac	operatingIncome	-2.24E10
+ADC Telecommunications	operatingIncome	-4.22E8
+AGCO	operatingIncome	2.193E8
+InterContinental Hotels Group	operatingIncome	4.44E8
+Accor	operatingIncome	4.46E8
+Mittal Steel Company	operatingIncome	4.746E9
+Vivendi	operatingIncome	4.871E9
+Migros	operatingIncome	7.54E8
+HMV Group	operatingIncome	7.03E7
+V/Line	operatingIncome	203.1
+Tele Atlas	operatingIncome	2.5E7
+Brambles Limited	operatingIncome	1046.0
+Family Dollar	operatingIncome	457.27
+KCOM Group	operatingIncome	1.77E7
+Lend Lease Group	operatingIncome	4.471E8
+Capital One	operatingIncome	4.33E9
+Charles Schwab Corporation	operatingIncome	1.28E9
+Whirlpool Corporation	operatingIncome	1.008E9
+Blackbaud	operatingIncome	46.4
+Darden Restaurants	operatingIncome	6.2E8
+SSL International	operatingIncome	8.95E7
+ComfortDelGro	operatingIncome	3.348E8
+IAC (company)	operatingIncome	1.692E8
+Tiffany & Co.	operatingIncome	3.75E8
+The Carphone Warehouse	operatingIncome	1.37E8
+MRV Communications	operatingIncome	1.26E7
+Automatic Data Processing	operatingIncome	1.863E9
+PepsiCo	operatingIncome	8.332E9
+Loews Corporation	operatingIncome	1.85E9
+Lithuanian Railways	operatingIncome	3.15E8
+TUI AG	operatingIncome	2.155E8
+Playboy Enterprises	operatingIncome	-3.63E7
+The Corporate Executive Board Company	operatingIncome	1.96E7
+Aaron's, Inc.	operatingIncome	1.2884E8
+Polo Ralph Lauren	operatingIncome	7.07E8
+International Speedway Corporation	operatingIncome	1.1564E8
+Munich Re	operatingIncome	3.978E9
+Beckman Coulter	operatingIncome	405.0
+PSA Peugeot Citroën	operatingIncome	1.736E9
+The Cheesecake Factory	operatingIncome	1.07E8
+Tenaris	operatingIncome	1.574E9
+PNC Financial Services	operatingIncome	4.061E9
+Game (retailer)	operatingIncome	1.265E8
+Sara Lee Corporation	operatingIncome	9.18E8
+Ottakar's	operatingIncome	3200000.0
+Yara International	operatingIncome	1.28E10
+Coca-Cola Enterprises	operatingIncome	1.52E9
+Coca-Cola Hellenic	operatingIncome	6.45E8
+PetroChina	operatingIncome	2.839E10
+OMV	operatingIncome	2.334E9
+Allegheny Technologies	operatingIncome	2.822E8
+TNT N.V.	operatingIncome	6.6E8
+Banco Bilbao Vizcaya Argentaria	operatingIncome	1.194E10
+PAETEC Holding Corp.	operatingIncome	4.5E7
+Christian Dior S.A.	operatingIncome	4.172E9
+Siebel Systems	operatingIncome	4.022E9
+Sinopec	operatingIncome	1.235E10
+Cookson Group	operatingIncome	2.23E8
+Mainichi Broadcasting System	operatingIncome	2961176.0
+Tuesday Morning	operatingIncome	32.6
+TransGaming Technologies	operatingIncome	250000.0
+Las Vegas Sands	operatingIncome	1.23E9
+Elbit Systems	operatingIncome	262.46
+Cablevision	operatingIncome	6.8726E8
+George Wimpey	operatingIncome	3.621E8
+Anglo American PLC	operatingIncome	9353.0
+Toto Ltd.	operatingIncome	14104.0
+Bank of America Home Loans	operatingIncome	1.310274E9
+Vinci (construction)	operatingIncome	3.429E9
+WESCO International	operatingIncome	1.8E8
+Aichi Steel	operatingIncome	4313.0
+Morningstar, Inc.	operatingIncome	1.39E8
+ACE Limited	operatingIncome	2.7E9
+ASICS	operatingIncome	1.76E10
+Computacenter	operatingIncome	6.59E7
+Tate & Lyle	operatingIncome	8000000.0
+Beiersdorf	operatingIncome	5.83E8
+Louisiana-Pacific	operatingIncome	-2.66E8
+Hellenic Railways Organisation	operatingIncome	-5.76382E8
+E-Trade	operatingIncome	-5.25E8
+Fabryka Samochodów Osobowych	operatingIncome	3.7E9
+TDC A/S	operatingIncome	4.069E9
+FANUC	operatingIncome	55024.0
+Eniro	operatingIncome	4.176E9
+Schneider Electric	operatingIncome	2.703E9
+Skyworks Solutions	operatingIncome	2.0E8
+N M Rothschild & Sons	operatingIncome	4.683E8
+AmerisourceBergen	operatingIncome	8.8375E8
+Marathon Oil	operatingIncome	7.023E9
+National Power Corporation	operatingIncome	3.3401E10
+Answers.com	operatingIncome	4990000.0
+Centrica	operatingIncome	2194.0
+Tulip Computers	operatingIncome	8600000.0
+Smit International	operatingIncome	1.046E8
+Hellenic Petroleum	operatingIncome	3.439E8
+Oversea-Chinese Banking Corporation	operatingIncome	4815.0
+Quest Diagnostics	operatingIncome	8.5E9
+Transocean	operatingIncome	1.866E9
+PSA International	operatingIncome	1577.0
+Xcel Energy	operatingIncome	1.42E9
+Wolters Kluwer	operatingIncome	4.81E8
+Dillard's	operatingIncome	3.43E8
+Lonmin	operatingIncome	2.28E8
+Pace plc	operatingIncome	7.11E7
+SuperValu (United States)	operatingIncome	1.684E9
+Ambac Financial Group	operatingIncome	7.25E8
+American Axle	operatingIncome	-2.04E8
+MLP AG	operatingIncome	4.7E7
+Fiskars	operatingIncome	7.09E7
+Sasol	operatingIncome	1.25E9
+Tele2	operatingIncome	7.088E9
+Fortum	operatingIncome	1.708E9
+Charter Communications	operatingIncome	5.48E8
+Mediaset	operatingIncome	8.155E8
+Kansai Electric Power Company	operatingIncome	273885.0
+Kmart Australia	operatingIncome	1.9E8
+Alexander & Baldwin	operatingIncome	4.2E7
+Continental AG	operatingIncome	1.935E9
+Hovnanian Enterprises	operatingIncome	-6.7202E8
+Wynn Resorts	operatingIncome	3.562E8
+American Electric Power	operatingIncome	2.83E9
+Rite Aid	operatingIncome	-2.09E9
+Clorox	operatingIncome	9.98E8
+Avery Dennison	operatingIncome	-514.0
+Lafarge	operatingIncome	2.169E9
+TF1 Group	operatingIncome	3.132E8
+Hugo Boss	operatingIncome	2.639E8
+Shinhan Financial Group	operatingIncome	2.37E12
+Brisbane Transport	operatingIncome	1161000.0
+Delphi Automotive	operatingIncome	9.4E8
+Duke Energy	operatingIncome	2.967E9
+Aéropostale (clothing)	operatingIncome	3.8749E8
+Compass Group	operatingIncome	9.89E8
+Square Enix Europe	operatingIncome	3.14E7
+Whitbread	operatingIncome	2.532E8
+Pulitzer, Inc.	operatingIncome	2.288E8
+Babcock & Wilcox	operatingIncome	264.0
+Associated British Foods	operatingIncome	909.0
+Barclays	operatingIncome	6.065E9
+NB Power	operatingIncome	1.7E8
+CBS Corporation	operatingIncome	1.816E9
+Petrobras	operatingIncome	2.41E10
+Constellation Brands	operatingIncome	5.03E8
+British Land	operatingIncome	3.76E8
+BG Group	operatingIncome	5.56
+Banco Internacional do Funchal	operatingIncome	5.81E7
+Fininvest	operatingIncome	6.04E8
+Invesco	operatingIncome	9.943E8
+Elisa Oyj	operatingIncome	2.68E8
+NASDAQ OMX Group	operatingIncome	5.98E8
+Hanson plc	operatingIncome	563.0
+Antofagasta PLC	operatingIncome	2591.0
+Interface, Inc.	operatingIncome	1.2939E8
+Movado	operatingIncome	3288000.0
+Monte dei Paschi di Siena	operatingIncome	5.324E8
+AeroVironment	operatingIncome	3.01E7
+Safran	operatingIncome	9.38E8
+NICE Systems	operatingIncome	1.036E8
+United Utilities	operatingIncome	8.179E8
+William Demant	operatingIncome	1.43E9
+Pinnacle Entertainment	operatingIncome	8350000.0
+Deutsche Börse	operatingIncome	5.278E8
+Dairy Crest	operatingIncome	9.66E7
+Gallaher Group	operatingIncome	6.6E8
+Telenet (Belgium)	operatingIncome	3.445E8
+Ameristar Casinos	operatingIncome	104.0
+CapitaLand	operatingIncome	2213.0
+Wärtsilä	operatingIncome	4.87E8
+Ladbrokes	operatingIncome	2.073E8
+The Travelers Companies	operatingIncome	4.306E9
+Mediacom	operatingIncome	2.99761E8
+William Hill (bookmaker)	operatingIncome	2.732E8
+Hays plc	operatingIncome	8.05E7
+SGS S.A.	operatingIncome	8.36E8
+AirTran Holdings	operatingIncome	1.81E8
+Schroders	operatingIncome	3.818E8
+The Linde Group	operatingIncome	1.679E9
+Air Products & Chemicals	operatingIncome	8.23E8
+Orkla Group	operatingIncome	4.222E9
+Trees for Life (Scotland)	operatingIncome	497119.0
+Metso	operatingIncome	4.45E8
+AAR Corporation	operatingIncome	9.12E7
+HTC Corporation	operatingIncome	1.544E9
+MTN Group	operatingIncome	4.6E9
+CCP Games	operatingIncome	3496666.0
+Boliden AB	operatingIncome	5.643E9
+Brioni (fashion)	operatingIncome	15.3
+Kesko	operatingIncome	3.07E8
+Bulgari	operatingIncome	8.53E7
+Cellcom (Israel)	operatingIncome	332.0
+Auchan	operatingIncome	1.317E9
+Bwin.party digital entertainment	operatingIncome	4.63E7
+Amkor Technology	operatingIncome	255.0
+Buckle (clothing retailer)	operatingIncome	1.99E8
+Capital Shopping Centres	operatingIncome	7.336E8
+Commerzbank	operatingIncome	1.386E9
+Cabela's	operatingIncome	1.437E8
+Home Properties	operatingIncome	2.7E7
+Ally Financial	operatingIncome	1.179E9
+CHS Inc.	operatingIncome	3.41E8
+ANSYS, Inc.	operatingIncome	183.0
+Hermès	operatingIncome	6.682E8
+Benihana	operatingIncome	-7.74
+Xstrata	operatingIncome	7654.0
+Capita Group	operatingIncome	3.951E8
+Dick's Sporting Goods	operatingIncome	2.25E8
+US Airways Group	operatingIncome	7.81E8
+Reckitt Benckiser	operatingIncome	2130.0
+Johnson Matthey	operatingIncome	2.506E8
+Land Securities	operatingIncome	1143.0
+John Menzies	operatingIncome	3.4E7
+Energias de Portugal	operatingIncome	2.063E9
+Portucel Soporcel	operatingIncome	1.321E8
+Cimpor	operatingIncome	4.091E8
+House of Fraser	operatingIncome	3.68E7
+Isle of Capri Casinos	operatingIncome	5.135E7
+Sonae	operatingIncome	3.493E8
+Volcom	operatingIncome	3.0353E7
+American Apparel	operatingIncome	-5.0053E7
+Amdocs	operatingIncome	3.84E8
+E.ON	operatingIncome	9.454E9
+RWE	operatingIncome	7.681E9
+Fresenius (company)	operatingIncome	2.418E9
+Henkel	operatingIncome	1.723E9
+Callaway Golf Company	operatingIncome	-3.15E7
+Atlantia (company)	operatingIncome	1.767E9
+Adaptec	operatingIncome	-4.048E7
+Cree Inc.	operatingIncome	5.67255E8
+Nashville Electric Service	operatingIncome	1.11234E8
+Bob Evans Restaurants	operatingIncome	106.0
+O'Charley's	operatingIncome	1.78E7
+The LEGO Group	operatingIncome	1.852E9
+Ball Corp.	operatingIncome	616.0
+Hagemeyer	operatingIncome	1.9E8
+MSCI	operatingIncome	2.06E8
+Long Island Power Authority	operatingIncome	3.64231E8
+Exelon	operatingIncome	4.726E9
+Mitchells & Butlers	operatingIncome	3.22E8
+Cargotec	operatingIncome	1.314E8
+Tata Steel Europe	operatingIncome	6.8E8
+Smart Telecom	operatingIncome	1.9436E7
+Fortune Brands	operatingIncome	5.052E8
+EPoX	operatingIncome	3.55E7
+Zoran Corporation	operatingIncome	-2.1604E8
+ISS A/S	operatingIncome	4.149E9
+Canucks Sports & Entertainment	operatingIncome	1.76E7
+Citizen Holdings	operatingIncome	7.77E7
+Æon (company)	operatingIncome	172360.0
+Holcim	operatingIncome	2.619E9
+Opinion Research Corporation	operatingIncome	2.11E7
+Spanish Broadcasting System	operatingIncome	8.4E7
+Smiths Group	operatingIncome	4.92E8
+Toyota Tsusho	operatingIncome	8.5297E10
+Kollektivtransportproduksjon	operatingIncome	2.336E8
+The Brink's Company	operatingIncome	1.463E8
+Dräger	operatingIncome	1.928E8
+PPR (company)	operatingIncome	1.337E9
+Turkcell	operatingIncome	5.5E9
+Target Australia	operatingIncome	2.9E8
+Kabel Deutschland	operatingIncome	1.946E8
+Publicis	operatingIncome	8.35E8
+Costa Coffee	operatingIncome	340.9
+Vossloh	operatingIncome	1.521E8
+Syngenta	operatingIncome	1.793E9
+Tieto	operatingIncome	7.24E7
+Public Storage	operatingIncome	7.29E8
+Nexen	operatingIncome	8.16E8
+Beasley Broadcast Group	operatingIncome	2.59E7
+Danaher Corporation	operatingIncome	1.869E9
+VT Group	operatingIncome	6.73E7
+Zebra Technologies	operatingIncome	1.4385E8
+ZipRealty	operatingIncome	-1.594E7
+Vestas	operatingIncome	3.1E8
+Sprint Nextel	operatingIncome	-5.95E8
+Cintra	operatingIncome	4.008E8
+Goldcorp	operatingIncome	8.16E8
+Aimco	operatingIncome	1.305E8
+Sysco	operatingIncome	1.87E9
+BJ's Wholesale Club	operatingIncome	208.0
+Takara Tomy	operatingIncome	10327.0
+Air Liquide	operatingIncome	2.254E9
+SES S.A.	operatingIncome	7.974E8
+Bio-Rad Laboratories	operatingIncome	284.0
+Salesforce.com	operatingIncome	1.15272E8
+Kimball International	operatingIncome	1.154E9
+Baxter International	operatingIncome	2.14
+King Pharmaceuticals	operatingIncome	2.36E8
+Benfield Group	operatingIncome	5.65E7
+Halfords	operatingIncome	1.197E8
+Leucadia National	operatingIncome	4.93812E8
+Motorola Solutions	operatingIncome	7.89E8
+Freenet AG	operatingIncome	1.442E8
+Groupe Casino	operatingIncome	1.314E9
+Affiliated Computer Services	operatingIncome	6.86E8
+Avis Rent a Car System	operatingIncome	-9.92E8
+Fincantieri	operatingIncome	1.29E8
+TelecityGroup	operatingIncome	5.52E7
+Allegheny Energy	operatingIncome	9.2E8
+Mylan	operatingIncome	7.216E8
+Pentair	operatingIncome	1.014E9
+Federal-Mogul	operatingIncome	1.45E8
+Fresenius Medical Care	operatingIncome	1.924E9
+RSA Insurance Group	operatingIncome	5.98E8
+Potash Corporation of Saskatchewan	operatingIncome	4.19E9
+Intralot	operatingIncome	8.08E7
+Neste Oil	operatingIncome	3.23E8
+Reynolds American	operatingIncome	2.419E9
+Gaylord Entertainment Company	operatingIncome	4.3182E7
+UCB (company)	operatingIncome	2.04E8
+RadiSys	operatingIncome	76.4
+ACCO Brands	operatingIncome	8.42E7
+Banesto	operatingIncome	8.916E8
+Santander Group	operatingIncome	2.385E10
+Erie Insurance Group	operatingIncome	2.01837E8
+Portugal Telecom	operatingIncome	9.107E8
+International Power	operatingIncome	9.95E8
+National Bank of Kuwait	operatingIncome	8.15E9
+Star Cinema	operatingIncome	1.017E8
+National Grid plc	operatingIncome	3293.0
+AMEC	operatingIncome	2.513E8
+Veraz Networks	operatingIncome	2940000.0
+MetroPCS	operatingIncome	7.189E8
+Williams Companies	operatingIncome	2.624E9
+Anglian Water	operatingIncome	4.21E8
+Old Mutual	operatingIncome	1481.0
+Apollo Group	operatingIncome	1.011E9
+Eni	operatingIncome	1.611E10
+Vector Limited	operatingIncome	4.07561E8
+JJB Sports	operatingIncome	4.64E7
+O.co	operatingIncome	1.5E7
+Brit Insurance	operatingIncome	1.302E8
+Corporate Express	operatingIncome	2.52E8
+Providence Health & Services	operatingIncome	2.87962E8
+Corrections Corporation of America	operatingIncome	3.1395E8
+Fisher & Paykel	operatingIncome	9.3818E7
+Alaska Air Group	operatingIncome	4.72E8
+Smith & Nephew	operatingIncome	9.2E8
+Fluor Corporation	operatingIncome	1.059E9
+Voestalpine	operatingIncome	3.52E8
+Penn National Gaming	operatingIncome	4.9781E8
+Cairn Energy	operatingIncome	7.901E8
+Alliance Boots	operatingIncome	1.44E9
+Mitsubishi UFJ Financial Group	operatingIncome	8.28E10
+The Bank of Tokyo-Mitsubishi UFJ	operatingIncome	1.038E11
+Arnoldo Mondadori Editore	operatingIncome	7.18E7
+Rexam	operatingIncome	4.73E8
+Brompton Bicycle	operatingIncome	750000.0
+Cogent Communications	operatingIncome	5900000.0
+QLogic	operatingIncome	1.34E8
+Mothercare	operatingIncome	5.2E7
+Stobart Group	operatingIncome	3.98E7
+CarMax	operatingIncome	8.76E7
+AutoNation	operatingIncome	386.0
+National Oilwell Varco	operatingIncome	9.3E10
+Kazakhmys	operatingIncome	1658.0
+BorgWarner	operatingIncome	569.0
+Spyker Cars	operatingIncome	1.92E7
+SBM Offshore	operatingIncome	3.624E8
+Ross Stores	operatingIncome	4.95E8
+Celgene	operatingIncome	9.896E8
+Podravka	operatingIncome	1.169E8
+Anadarko Petroleum Corporation	operatingIncome	1.796E9
+Kofax	operatingIncome	1.51E7
+Hammerson	operatingIncome	7.202E8
+Interpublic Group of Companies	operatingIncome	3.41E8
+Bekaert	operatingIncome	5.343E8
+Shanda	operatingIncome	6.1737E7
+Kelda Group	operatingIncome	3.382E8
+Foot Locker	operatingIncome	8.3E7
+Bank of Bahrain and Kuwait	operatingIncome	9.3849E7
+Philip Morris International	operatingIncome	1.12E10
+DST Systems	operatingIncome	2.946E8
+Time Warner Cable	operatingIncome	2.77E9
+Adecco	operatingIncome	6.67E8
+Officeworks	operatingIncome	7.4E7
+Ceradyne	operatingIncome	175.0
+Showa Denko	operatingIncome	7.67E10
+Carpetright	operatingIncome	3.41E7
+Lorillard Tobacco Company	operatingIncome	1.54E9
+BBA Aviation	operatingIncome	1.106E8
+Internet Brands	operatingIncome	2.02E7
+Enterprise Inns	operatingIncome	3.92E8
+Cofinimmo	operatingIncome	1.64E8
+Colruyt	operatingIncome	4.699E8
+Man Group	operatingIncome	5.48E8
+Dexia	operatingIncome	1.607E9
+COLT Group	operatingIncome	8.06E7
+Greggs	operatingIncome	5.24E7
+Randstad Holding	operatingIncome	3.412E8
+Alkermes (company)	operatingIncome	-3.84E7
+Perrigo	operatingIncome	2.473E8
+Village Roadshow Theme Parks	operatingIncome	1.011E8
+Pantech Curitel	operatingIncome	4.31E7
+Hyundai Card	operatingIncome	92.0
+Hyundai Capital	operatingIncome	214.0
+BAWAG P.S.K.	operatingIncome	8.879E8
+Školska knjiga	operatingIncome	6.36E8
+Barratt Developments	operatingIncome	9.01E7
+Great Portland Estates	operatingIncome	1.81E8
+Bellway	operatingIncome	5.13E7
+Nu Skin Enterprises	operatingIncome	2.17062E8
+Bovis Homes Group	operatingIncome	2.16E7
+Cattles	operatingIncome	1.652E8
+Motorola Mobility	operatingIncome	7.6E7
+Persimmon plc	operatingIncome	1.241E8
+Travis Perkins	operatingIncome	2.388E8
+Admiral Group	operatingIncome	2.655E8
+Boehringer Ingelheim	operatingIncome	1.896E9
+Close Brothers Group	operatingIncome	1.213E8
+Carillion	operatingIncome	1.949E8
+Crest Nicholson	operatingIncome	1.03E8
+Berkeley Group Holdings	operatingIncome	1.062E8
+Taylor Nelson Sofres	operatingIncome	1.027E8
+Iberdrola	operatingIncome	4.83E9
+Aggreko	operatingIncome	3.145E8
+Bodycote	operatingIncome	5.21E7
+Veolia Environnement	operatingIncome	2.12E9
+Cobham plc	operatingIncome	2.301E8
+Balfour Beatty	operatingIncome	3.38E8
+BSS Group	operatingIncome	6.44E7
+Ashtead Group	operatingIncome	6.85E7
+Enodis	operatingIncome	7.2E7
+Henderson Group	operatingIncome	1.007E8
+Insurance Australia Group	operatingIncome	4.02E8
+Northern Foods	operatingIncome	5.27E7
+Costain Group	operatingIncome	2.94E7
+Taylor Woodrow	operatingIncome	4.698E8
+Essilor	operatingIncome	6.185E8
+Redrow plc	operatingIncome	1.27E7
+Forth Ports	operatingIncome	4.98E7
+Solvay (company)	operatingIncome	3.05E8
+Inchcape plc	operatingIncome	2.255E8
+Albemarle Corporation	operatingIncome	4.148E8
+Meggitt	operatingIncome	2.201E8
+Tomkins plc	operatingIncome	8.47E7
+Arizona Public Service	operatingIncome	6.19E8
+Headlam Group	operatingIncome	4.6E7
+Renishaw plc	operatingIncome	2.64E7
+MITIE Group	operatingIncome	9.3E7
+CB Richard Ellis	operatingIncome	2.42E8
+IMI plc	operatingIncome	3.197E8
+Premier Farnell	operatingIncome	7.27E7
+Croda International	operatingIncome	1.986E8
+Société Nationale des Chemins de Fer Luxembourgeois	operatingIncome	1.149E7
+Serco Group	operatingIncome	2.413E8
+Qiagen	operatingIncome	1.885E8
+BTG	operatingIncome	1.08E7
+Interserve	operatingIncome	7.44E7
+Punch Taverns	operatingIncome	3.702E8
+Fastweb (telecommunications company)	operatingIncome	425.0
+Axis Communications	operatingIncome	3.41E8
+Virgin Media	operatingIncome	3.219E8
+Premier Foods	operatingIncome	9.31E7
+ProSiebenSat.1 Media	operatingIncome	6.695E8
+Warnaco Group	operatingIncome	1.9354E8
+Petroleum Geo-Services	operatingIncome	5.78E7
+Mobistar	operatingIncome	3.735E8
+Allergan	operatingIncome	9.28E8
+Ameren	operatingIncome	9.16E8
+Florists' Transworld Delivery	operatingIncome	7.8E7
+ViroPharma	operatingIncome	8.8145E7
+Dentsu	operatingIncome	3.7323E10
+888 Holdings	operatingIncome	3.44E7
+Ensco plc	operatingIncome	1.402E9
+Symrise	operatingIncome	2.444E8
+Semapa	operatingIncome	2.828E8
+UniCredit	operatingIncome	1.086E10
+Pakistan Steel Mills	operatingIncome	6.6E9
+Regions Financial Corporation	operatingIncome	-8.85E8
+Great-West Lifeco	operatingIncome	1.354
+Henderson Land Development	operatingIncome	1763.0
+Mitsubishi Chemical Holdings	operatingIncome	66342.0
+Pescanova	operatingIncome	8.8E7
+H. Samuel	operatingIncome	3.513E8
+Energy Conversion Devices	operatingIncome	2.82E7
+Bonnier Group	operatingIncome	2.1125E8
+Lanxess	operatingIncome	6.07E8
+Live Nation	operatingIncome	8.214E7
+Doosan Group	operatingIncome	1.6E9
+Naftogaz Ukrainy	operatingIncome	-1.26E10
+Dean Foods	operatingIncome	6.08E8
+AK Steel Holding	operatingIncome	6.74E7
+Sportingbet	operatingIncome	2.19E7
+NetScout Systems, Inc.	operatingIncome	-5340000.0
+Nokian Tyres	operatingIncome	2.222E8
+BAE Systems Electronics, Intelligence & Support	operatingIncome	5.06E8
+TomTom	operatingIncome	1.863E8
+Mabuchi Motor	operatingIncome	5.652000000516E11
+Qualcomm Atheros	operatingIncome	22.2
+Peabody Energy	operatingIncome	1.45E9
+Weir Group	operatingIncome	3.097E8
+Yokohama Rubber Company	operatingIncome	2.306E8
+Toyo Tire & Rubber Company	operatingIncome	9.31E7
+International Rectifier	operatingIncome	1.14E8
+Intuitive Surgical	operatingIncome	2.067E8
+Bebe stores	operatingIncome	1.66E7
+Home Retail Group	operatingIncome	2.58E8
+Shanks Group	operatingIncome	3.58E7
+T J Hughes	operatingIncome	9300000.0
+Axel Springer AG	operatingIncome	4.286E8
+IMAX Corporation	operatingIncome	-1.58E7
+Philippine National Bank	operatingIncome	1.45E10
+Enel	operatingIncome	1.126E10
+Premier Oil	operatingIncome	1.277E8
+Ascent Media	operatingIncome	-42.9
+New Look (clothing retailer)	operatingIncome	1.79E8
+Kemira	operatingIncome	1.561E8
+Alberto-Culver	operatingIncome	1.86E8
+XSEL	operatingIncome	-2.6554E8
+Spirent	operatingIncome	1.127E8
+Carrols Restaurant Group	operatingIncome	2.0E7
+Lululemon Athletica	operatingIncome	8.55E7
+SIG plc	operatingIncome	7.61E7
+Armstrong World Industries	operatingIncome	90.6
+1-800-Flowers	operatingIncome	-7.22E7
+Icelandair Group	operatingIncome	6.254E9
+Suncorp Group	operatingIncome	7.99E8
+Israel Chemicals	operatingIncome	9.382E8
+Hochtief	operatingIncome	7.153E8
+Seneca Foods	operatingIncome	4.8E7
+Apache Corporation	operatingIncome	3.264E8
+BioMarin Pharmaceutical	operatingIncome	1.67
+Sodastream	operatingIncome	1.45E7
+Endesa (Spain)	operatingIncome	5.052E9
+Waste Management, Inc	operatingIncome	1.89E9
+Metzler Bank	operatingIncome	4000000.0
+IKB Deutsche Industriebank	operatingIncome	1.325E8
+Jenoptik	operatingIncome	5.64E7
+América Móvil	operatingIncome	8.1E9
+Bilfinger Berger	operatingIncome	3.428E8
+Nautilus, Inc.	operatingIncome	4.11E7
+Dubai Aerospace Enterprise	operatingIncome	1.5E10
+Amadeus IT Group	operatingIncome	3.119E8
+Cornell Companies	operatingIncome	6.22E7
+3D Systems	operatingIncome	3070000.0
+SolarWorld	operatingIncome	1.928E8
+Trimble Navigation	operatingIncome	1.85E8
+ARRIS	operatingIncome	9.391E7
+MBIA	operatingIncome	9.52E7
+Standard Life	operatingIncome	4.25E8
+Kone	operatingIncome	6.964E8
+Kwik-Fit	operatingIncome	7.93E7
+Illinois Tool Works	operatingIncome	1.39
+NYSE Euronext	operatingIncome	7.45E8
+Regent Inns	operatingIncome	1.15E7
+STV Group plc	operatingIncome	1.44E7
+CNP Assurances	operatingIncome	1.425E9
+Saudi Telecom Company	operatingIncome	1.0E8
+Flight Centre	operatingIncome	2.444E8
+Johnston Press	operatingIncome	5.49E7
+Genzyme	operatingIncome	5.81E8
+Northern Trust	operatingIncome	9.9E8
+Blyth, Inc.	operatingIncome	4.6607E7
+Art Technology Group	operatingIncome	16.8
+Knjaz Miloš AD	operatingIncome	7252000.0
+Wilkinson (retailer)	operatingIncome	8.5E7
+Booker Group	operatingIncome	6.66E7
+Sealy Corporation	operatingIncome	5.84E8
+Clearwire	operatingIncome	2214879.0
+Mobily	operatingIncome	1.161E9
+Leggett & Platt	operatingIncome	2.88E8
+Luminar Leisure	operatingIncome	31.5
+Moneysupermarket.com	operatingIncome	1.07E7
+Fraport	operatingIncome	4.309E8
+Avnet	operatingIncome	636.0
+Centex	operatingIncome	2.875E9
+Rémy Cointreau	operatingIncome	1.596E8
+Actel	operatingIncome	-2.13E7
+1-800 Contacts	operatingIncome	5734000.0
+Aircastle	operatingIncome	1.08E8
+Petropavlovsk plc	operatingIncome	1.183E8
+Martinsa-Fadesa	operatingIncome	2.0E7
+Xchanging	operatingIncome	6.39E7
+Fukui Railway	operatingIncome	-1.26E8
+Fuchs Petrolub	operatingIncome	2.501E8
+Eramet	operatingIncome	7.2E8
+Delta Holding	operatingIncome	1.62E9
+Arrow Electronics	operatingIncome	273.0
+AES Corporation	operatingIncome	2.4E9
+Unify Corporation	operatingIncome	2700000.0
+YRC Worldwide	operatingIncome	-1.074E9
+Crocs	operatingIncome	-187.7
+Babcock International Group	operatingIncome	2.709E8
+Smith International	operatingIncome	1.64211E9
+Blue Nile Inc.	operatingIncome	21.3
+Nexans	operatingIncome	1.95E8
+Frontier Communications	operatingIncome	7.72E8
+Anixter	operatingIncome	104.0
+Community Health Systems	operatingIncome	4.58E8
+EOG Resources	operatingIncome	5.233E8
+Collins & Aikman	operatingIncome	1.02E8
+Technip	operatingIncome	6.147E8
+Wella	operatingIncome	1.6E9
+UK Coal	operatingIncome	8.27E7
+Abertis	operatingIncome	1.519E9
+Técnicas Reunidas	operatingIncome	1.555E8
+Laing O'Rourke	operatingIncome	7.44E7
+Telefônica Brasil	operatingIncome	2.7E9
+Viridian Group	operatingIncome	1.49E8
+Gemalto	operatingIncome	1.634E8
+Dampskibsselskabet Torm	operatingIncome	2.05E8
+Pennon Group	operatingIncome	2.643E8
+Alon USA	operatingIncome	-54.7
+Raiffeisen Zentralbank	operatingIncome	1.0
+Thor Industries	operatingIncome	3.22E8
+KGHM Polska Miedź	operatingIncome	600000.0
+Home Bargains	operatingIncome	4.66E7
+Geox	operatingIncome	1.17E8
+Majesco Entertainment	operatingIncome	2000000.0
+Italcementi	operatingIncome	4.43E8
+Diamond Offshore Drilling	operatingIncome	1.96E9
+Tsubakimoto Chain	operatingIncome	19805.0
+Safaricom	operatingIncome	1.88E8
+Ferrovial	operatingIncome	3.393E9
+Aladdin Knowledge Systems	operatingIncome	1.3911E7
+Acciona	operatingIncome	4.48E8
+Baldor Electric Company	operatingIncome	178.0
+Northumbrian Water Group	operatingIncome	275.8
+SOCO International	operatingIncome	2.91E7
+GEA Group	operatingIncome	2.375E8
+The Reject Shop	operatingIncome	3.27E7
+ASML Holding	operatingIncome	1.251E9
+Severstal	operatingIncome	2.379E9
+Applied Micro Circuits Corporation	operatingIncome	-26.1
+ST Engineering	operatingIncome	5.47E8
+Suntech Power	operatingIncome	2.15E8
+Haldor Topsoe	operatingIncome	4.7E8
+Narita International Airport Corporation	operatingIncome	23.4
+Omega Pharma	operatingIncome	1.075E8
+Axcelis Technologies	operatingIncome	-1.8684E8
+Ethan Allen (furniture company)	operatingIncome	-1.173E7
+Mitre 10 (Australia)	operatingIncome	3.716E8
+Sovereign Bank	operatingIncome	1.77E8
+Sky Deutschland	operatingIncome	3.676E8
+CODA (company)	operatingIncome	9560000.0
+Alnylam Pharmaceuticals	operatingIncome	-47.6
+Renewable Energy Corporation	operatingIncome	1.018E9
+Praktiker	operatingIncome	3.53E7
+Nokia Siemens Networks	operatingIncome	6.86E8
+Kyosho	operatingIncome	5.2116E8
+History of WWE	operatingIncome	1.32E7
+Titan Cement	operatingIncome	1.917E8
+Mexican Restaurants, Inc.	operatingIncome	3047000.0
+ABM Industries	operatingIncome	9.211E7
+Eppendorf (company)	operatingIncome	7.19E7
+99 Cents Only Stores	operatingIncome	1.291E7
+Altri	operatingIncome	1.091E8
+CEVA, Inc.	operatingIncome	9870000.0
+Poundland	operatingIncome	1.6E7
+Dairy Farmers	operatingIncome	7.1E7
+National Foods	operatingIncome	1.17E8
+Swiss Life	operatingIncome	6.94E8
+ArcelorMittal	operatingIncome	3.605E9
+Brantano Footwear	operatingIncome	3.59E7
+International Container Terminal Services Inc.	operatingIncome	1.139E10
+Poplar HARCA	operatingIncome	3.4E7
+Ukrtelecom	operatingIncome	8.0E9
+Big Yellow Group	operatingIncome	2.34E7
+20th Century Fox Television	operatingIncome	8.45E8
+M&G Investments	operatingIncome	2.28E8
+J. Alexander's	operatingIncome	6000000.0
+ZON Multimédia	operatingIncome	7.67E7
+Wimm-Bill-Dann Foods	operatingIncome	2.01E8
+Zumiez	operatingIncome	2.461E7
+Gyldendal	operatingIncome	1.122E8
+Indra Sistemas	operatingIncome	2.519E8
+Tognum	operatingIncome	1.123E8
+Inmarsat	operatingIncome	4.606E8
+Ann Taylor (clothing retailer)	operatingIncome	-3.7E8
+Chicago Bridge & Iron Company	operatingIncome	3.521E7
+Galp Energia	operatingIncome	6.387E8
+Euromoney Institutional Investor	operatingIncome	8.21E7
+Société Bic	operatingIncome	2.16E8
+Digital+	operatingIncome	8.02E7
+Nobel Biocare	operatingIncome	8.49E7
+Aegis Group	operatingIncome	1.922E8
+Bolloré	operatingIncome	1.74E8
+Brisa – Auto-estradas de Portugal	operatingIncome	5.21E7
+Ninety Nine Restaurant	operatingIncome	4.05E7
+STX Europe	operatingIncome	5.61E8
+Vedanta Resources	operatingIncome	1.653E9
+Westamerica Bank	operatingIncome	1.259E8
+LOUD Technologies	operatingIncome	-700000.0
+Wincor Nixdorf	operatingIncome	1.62E8
+Bucyrus International	operatingIncome	5.34764E8
+Patagonik Film Group	operatingIncome	1.1E7
+Coles Express	operatingIncome	6.7E7
+Acerinox	operatingIncome	2.322E8
+X-Fab	operatingIncome	2.993E8
+Grupo ACS	operatingIncome	1.099E9
+Hansen Natural	operatingIncome	3.33E8
+SGL Carbon	operatingIncome	1.284E8
+IG Group	operatingIncome	1.576E8
+Enagás	operatingIncome	5.309E8
+Gas Natural	operatingIncome	2.893E9
+Watson Pharmaceuticals	operatingIncome	2.5566E8
+Wyndham Worldwide	operatingIncome	3.65E9
+Stein Mart	operatingIncome	3.46E7
+Poya Pictures	operatingIncome	1200000.0
+Airgas	operatingIncome	4.02E8
+Regal-Beloit	operatingIncome	1.595E8
+Bechtle	operatingIncome	6.07E7
+Tod's	operatingIncome	1.599E8
+AECOM	operatingIncome	2.869E8
+FactSet Research Systems	operatingIncome	2.2E8
+Neopost	operatingIncome	2.481E8
+Amer Sports	operatingIncome	9.68E7
+Atkins (company)	operatingIncome	1.13E8
+Hikma Pharmaceuticals	operatingIncome	1.43E8
+Chevron Phillips	operatingIncome	6.23E8
+Océ	operatingIncome	7.23E7
+Commercial International Bank	operatingIncome	2477.0
+Banque Cantonale Neuchâteloise	operatingIncome	6.36E7
+Fosen Trafikklag	operatingIncome	8.3E7
+Namsos Trafikkselskap	operatingIncome	8300000.0
+Hurtigruten Group	operatingIncome	5000000.0
+Realty Income Corporation	operatingIncome	1.168E8
+Pactiv	operatingIncome	5.79E8
+Smyril Line	operatingIncome	5513000.0
+GigaMedia Limited	operatingIncome	1.29E7
+NPM/CNP	operatingIncome	1.981E8
+Nord-Trøndelag Elektrisitetsverk	operatingIncome	6.94E8
+ONO (Spain)	operatingIncome	1.1E9
+Douglas Holding	operatingIncome	1.417E8
+Alvarion	operatingIncome	1.6772E8
+Brødrene Hartmann	operatingIncome	1.46E8
+Starz Media	operatingIncome	7500000.0
+AbioMed	operatingIncome	-2.95E7
+Resolution plc	operatingIncome	4.823E8
+Enka İnşaat ve Sanayi A.Ş.	operatingIncome	1.3E9
+Informa	operatingIncome	3.132E8
+ATEbank	operatingIncome	3.953E8
+Umpqua Holdings Corporation	operatingIncome	2.621E8
+JD Sports	operatingIncome	6.73E7
+Kiev Aircraft Repair Plant 410	operatingIncome	2.82E7
+Prosafe	operatingIncome	2.211E8
+Fulton Hogan	operatingIncome	9.293E7
+Medibank Private	operatingIncome	2.1434E9
+DNO International	operatingIncome	1.568E8
+Stolt-Nielsen	operatingIncome	1.609E8
+Marine Harvest	operatingIncome	4.491E9
+Seadrill	operatingIncome	1.625E9
+Segro	operatingIncome	3.04E8
+Acergy	operatingIncome	3.427E8
+TGS-NOPEC Geophysical Company	operatingIncome	2.271E8
+Subsea 7	operatingIncome	4.361E8
+Fred. Olsen Energy	operatingIncome	2.179E9
+Gasum	operatingIncome	10.0
+Bonheur	operatingIncome	-3.54E7
+Ganger Rolf ASA	operatingIncome	-3.4E7
+BW Offshore	operatingIncome	8.11E7
+BW Gas	operatingIncome	1.86E8
+Odfjell	operatingIncome	2.04E8
+Great Plains Energy	operatingIncome	2.3542E8
+Rautaruukki	operatingIncome	1.2E7
+Blom	operatingIncome	9.2E7
+Zygo Corporation	operatingIncome	-4.425E7
+Statkraft	operatingIncome	29.0
+Dover Corporation	operatingIncome	1.029E9
+Statnett	operatingIncome	4.66E8
+Statskog	operatingIncome	2.5E7
+Nammo	operatingIncome	4.07E8
+Aker (company)	operatingIncome	1180.0
+Aker American Shipping	operatingIncome	1.3E7
+Aker Seafoods	operatingIncome	1.81E8
+Retail Adventures	operatingIncome	1.0E9
+Ultra Electronics	operatingIncome	1.103E8
+Smedvig	operatingIncome	1272.0
+Konecranes	operatingIncome	1.124E8
+Huhtamäki	operatingIncome	1.343E8
+DnB NORD	operatingIncome	1.41E7
+Bharti Airtel	operatingIncome	2.313E9
+GEco Holdings	operatingIncome	1000000.0
+Advanced Energy	operatingIncome	-9.73E7
+NHN Corporation	operatingIncome	2.492E8
+Filtrona	operatingIncome	7.2E7
+Hankyu Hanshin Holdings	operatingIncome	64743.0
+Sparebanken Nord-Norge	operatingIncome	7.94E8
+SpareBank 1 SR-Bank	operatingIncome	1026.0
+Novellus Systems	operatingIncome	2.7E8
+Altos Hornos de México	operatingIncome	3.5E9
+Electricity Authority of Cyprus	operatingIncome	5.6036E7
+Champion REIT	operatingIncome	1.3342E9
+Sparebanken Nordvest	operatingIncome	6.8E7
+Ampco Pittsburgh	operatingIncome	46.7
+AGL Resources	operatingIncome	4.76E8
+Drax Group	operatingIncome	2.779E8
+Stanwell Corporation	operatingIncome	2.05527E8
+Delta Electricity	operatingIncome	101.0
+Petrohawk	operatingIncome	2.5065E8
+Fred's	operatingIncome	2.631E7
+Telekom Austria	operatingIncome	4.379E8
+CME Group	operatingIncome	1.58E9
+Howden Joinery	operatingIncome	1.074E8
+Rightmove	operatingIncome	5.21E7
+Glencore	operatingIncome	5.29E9
+Investec Bank	operatingIncome	4.099E8
+Actuate Corporation	operatingIncome	1.75E7
+Crucell	operatingIncome	3.43E7
+Alcatel-Lucent	operatingIncome	3.09E8
+3M	operatingIncome	5.918E9
+Regus	operatingIncome	2.38E7
+Orion Corporation	operatingIncome	2.542E8
+American Woodmark	operatingIncome	-37.3
+Nicor	operatingIncome	2.07E8
+TradeDoubler	operatingIncome	1.499E8
+Skagerak Energi	operatingIncome	1814.0
+Seoul Semiconductor	operatingIncome	4.60858762E11
+Perini Navi	operatingIncome	70.0
+Indian Oil Corporation	operatingIncome	3.74E9
+Infrabel	operatingIncome	-2.5216E8
+Veidekke	operatingIncome	5.23E8
+Oil and Natural Gas Corporation	operatingIncome	6.752E9
+Scottish and Southern Energy	operatingIncome	1468.0
+Husqvarna AB	operatingIncome	2.0
+CompAir	operatingIncome	6700000.0
+Great Lakes Dredge and Dock Company	operatingIncome	6.84E7
+Natixis	operatingIncome	1.521E9
+Cliffs Natural Resources	operatingIncome	1265.0
+Finnlines	operatingIncome	6.88E7
+POW! Entertainment	operatingIncome	1100000.0
+GateHouse Media	operatingIncome	4.3E7
+Banco Comercial Português	operatingIncome	2.933E8
+Ube Industries	operatingIncome	2.97E9
+WSP Group	operatingIncome	5.67E7
+Zastava Arms	operatingIncome	3.204E7
+Sports Direct	operatingIncome	5.8E7
+Unit4	operatingIncome	4.01E7
+Integral Systems	operatingIncome	2.51E7
+Nine Entertainment Co.	operatingIncome	4.06E8
+Ricardo plc	operatingIncome	1.26E7
+Vallourec	operatingIncome	6.824E8
+Eurasian Natural Resources Corporation	operatingIncome	2710.0
+Valeo	operatingIncome	5.9E8
+ICAP (company)	operatingIncome	3.54E8
+GlobalSantaFe Corporation	operatingIncome	4.644E8
+CIR Group	operatingIncome	2.158E8
+Chordiant	operatingIncome	15850.0
+GEO Group	operatingIncome	1.144E8
+Hanwha Daehan Life Insurance	operatingIncome	1.039602644971E10
+VDL Groep	operatingIncome	8.79E7
+Penske Automotive Group	operatingIncome	-3.9966E8
+Campari Group	operatingIncome	2.356E8
+Argos (cement company)	operatingIncome	3430.0
+Torghatten ASA	operatingIncome	1.26E8
+Scott Wilson Group	operatingIncome	1.07E7
+Provident Financial	operatingIncome	1.445E8
+Covidien	operatingIncome	2.0E9
+CGGVeritas	operatingIncome	6.72E7
+GeoEye	operatingIncome	8.033E7
+Beneficial Financial Group	operatingIncome	4.25E7
+Reitan Group	operatingIncome	7.53E8
+Fidelity National Information Services	operatingIncome	1.6E9
+AbitibiBowater	operatingIncome	-4.0E8
+Outotec	operatingIncome	4.16E7
+Stride Rite Corporation	operatingIncome	5.3E7
+Vopak	operatingIncome	4.42E8
+Advance Auto Parts	operatingIncome	4.54E8
+Edison (company)	operatingIncome	8.96E8
+Hargreaves Lansdown	operatingIncome	8.54E7
+Contact Energy	operatingIncome	4.26982E8
+Thomas Cook Group	operatingIncome	3.622E8
+Intesa Sanpaolo	operatingIncome	7.271E9
+Rhodia (company)	operatingIncome	6.02E8
+Royal Wessanen	operatingIncome	5300000.0
+Homeserve	operatingIncome	1.06E8
+Euronet Worldwide	operatingIncome	7.23E7
+Sirius XM Radio	operatingIncome	4.654E8
+Acuity Brands	operatingIncome	1.55E8
+DirecTV	operatingIncome	3.896E9
+Hibbett Sports	operatingIncome	5.24E7
+FLIR Systems	operatingIncome	284.5
+Spie Batignolles	operatingIncome	4.86E7
+Banca Popolare di Milano	operatingIncome	5.988E8
+Lundin Petroleum	operatingIncome	3.939E8
+Robert Wiseman Dairies	operatingIncome	3.51E7
+Kier Group	operatingIncome	5.65E7
+Komerční banka	operatingIncome	1.39E10
+DSV (company)	operatingIncome	2.197E9
+Innovative Solutions and Support	operatingIncome	8500000.0
+Precision Castparts Corp.	operatingIncome	9.659E8
+Hrvatska elektroprivreda	operatingIncome	1.08E10
+StanCorp Financial Group	operatingIncome	3.097E8
+Zinifex	operatingIncome	1.1849E9
+RDM Corporation	operatingIncome	1270000.0
+List of Warner Bros. films	operatingIncome	8.44E8
+Medifast	operatingIncome	1.937E7
+Ocean Rig	operatingIncome	-1.75E8
+HeidelbergCement	operatingIncome	1.334E9
+Chr. Hansen	operatingIncome	1.191E8
+Awilco Offshore	operatingIncome	7.03E7
+Sinvest	operatingIncome	1.6E8
+Spectris	operatingIncome	1.421E8
+Cahya Mata Sarawak Berhad	operatingIncome	1.433E8
+Yamaha RGX	operatingIncome	1.4095E8
+Biostar	operatingIncome	4.944E8
+The Emirates Group	operatingIncome	3040.0
+Leoni AG	operatingIncome	1.307E8
+Varian Semiconductor	operatingIncome	2.56E8
+Capital Newspapers	operatingIncome	2.51E7
+CVS Caremark	operatingIncome	6.438E9
+Taylor Wimpey	operatingIncome	1.842E8
+TJ Morris	operatingIncome	77.0
+Newcastle Building Society	operatingIncome	36.6
+Bank Negara Indonesia	operatingIncome	3500000.0
+List of Paramount Pictures films	operatingIncome	6.21E7
+Eiffage	operatingIncome	1017.0
+EXL	operatingIncome	2.652E7
+Catholic Healthcare West	operatingIncome	2.62664E8
+Dimension Data Holdings	operatingIncome	1.929E8
+United Retail Group	operatingIncome	1.2982E7
+Oxford Industries	operatingIncome	8.4972E7
+XTO Energy	operatingIncome	3.508E9
+Lithia Motors	operatingIncome	1.15E8
+Bemis Company	operatingIncome	401.0
+Gamesa Corporación Tecnológica	operatingIncome	1.19E8
+Novozymes	operatingIncome	2.117E9
+Schnitzer Steel Industries	operatingIncome	1.709E8
+Misys	operatingIncome	1.143E8
+Wirecard	operatingIncome	6.74E7
+Merix Corporation	operatingIncome	4.9E7
+Healthways	operatingIncome	1.13482E8
+Lion Corporation	operatingIncome	10500.0
+SunPower	operatingIncome	6.1834E7
+ADTRAN	operatingIncome	1.11E8
+Black Box Corporation	operatingIncome	71.9
+First Solar	operatingIncome	7.489E8
+Tradus	operatingIncome	9500000.0
+QSC AG	operatingIncome	2.09E7
+Abengoa	operatingIncome	6.218E8
+Atlantic Petroleum (Faroe Islands)	operatingIncome	7.562E7
+Unite Group	operatingIncome	3.04E7
+Moody National Bank	operatingIncome	4663000.0
+Morgan Sindall Group	operatingIncome	4.18E7
+USANA Health Sciences	operatingIncome	6.8864E7
+Manx Telecom	operatingIncome	1.53E7
+Protective Life	operatingIncome	4.16E8
+Qatar Petroleum	operatingIncome	40864.0
+Savills	operatingIncome	3.66E7
+Agile Software Corporation	operatingIncome	-8340000.0
+Viohalco	operatingIncome	1.74E7
+Mytilineos Holdings	operatingIncome	1.509E8
+Jumbo S.A.	operatingIncome	1.318E8
+Evergreen Solar	operatingIncome	-7.5E7
+Robert W. Baird & Co.	operatingIncome	6.2E7
+Kuoni Travel	operatingIncome	4.67E7
+Faurecia	operatingIncome	4.556E8
+Q-Cells	operatingIncome	8.23E7
+Focus Media Holding	operatingIncome	2.2786E7
+Amylin Pharmaceuticals	operatingIncome	-173.0
+A. T. Cross Company	operatingIncome	9540000.0
+Bill Barrett Corporation	operatingIncome	183.0
+Ackermans & van Haaren	operatingIncome	6.54E7
+Lemminkäinen Group	operatingIncome	1.08E8
+Kontron	operatingIncome	5800000.0
+ArmorGroup	operatingIncome	9200000.0
+Air Methods	operatingIncome	4.78E7
+Greenland Airport Authority	operatingIncome	-3.1E7
+UMB Financial Corporation	operatingIncome	2.709E8
+Statoil	operatingIncome	1.3723E11
+Akrapovič	operatingIncome	5000000.0
+Golden Ocean Group	operatingIncome	1.274E8
+Sonae Indústria	operatingIncome	1900000.0
+RPS Group	operatingIncome	4.63E7
+ATS Medical	operatingIncome	-3.72
+Secora	operatingIncome	1.438E8
+Mesta (company)	operatingIncome	-3.12E8
+Entra Eiendom	operatingIncome	6.18E8
+Argentum Fondsinvesteringer	operatingIncome	3.09E8
+Emerald Energy	operatingIncome	5.31E7
+The Bank of New York Mellon	operatingIncome	3.694E9
+RPM International	operatingIncome	2.039E8
+Green Packet	operatingIncome	1.672E7
+ATP Oil and Gas	operatingIncome	-15.1
+American Tower Corporation	operatingIncome	672.0
+Bankenes BetalingsSentral	operatingIncome	2.01E8
+Major Drilling Group International	operatingIncome	8.97E7
+Jerónimo Martins	operatingIncome	3.498E8
+Conergy	operatingIncome	1.38E7
+Lonza Group	operatingIncome	3.74E8
+Robeco	operatingIncome	7.63E8
+United Refining Company	operatingIncome	9.1468E7
+Fugro	operatingIncome	3.515E8
+Banque et Caisse d'Épargne de l'État	operatingIncome	158.3
+Arrive	operatingIncome	7800000.0
+Grong Sparebank	operatingIncome	1.5E7
+Kommunal Landspensjonskasse	operatingIncome	5086.0
+Edda Media	operatingIncome	3.16E8
+BigBand Networks	operatingIncome	-30.8
+Ariba	operatingIncome	15.5
+Web.com	operatingIncome	93000.0
+Nortura	operatingIncome	5.67E8
+Tun Media	operatingIncome	1.74E7
+Moelven Industrier	operatingIncome	3.73E8
+Reliance Bank	operatingIncome	4.1
+NorgesGruppen	operatingIncome	1453.0
+Bama Gruppen	operatingIncome	3.05E8
+Advent Software	operatingIncome	2.82E7
+Panin Sekuritas	operatingIncome	3.16E7
+Discover Financial	operatingIncome	1.269E9
+Synnøve Finden	operatingIncome	2.14E7
+Intertek Group	operatingIncome	2.275E8
+YIT	operatingIncome	2.201E8
+Bolsas y Mercados Españoles	operatingIncome	2.15E8
+First Interstate BancSystem	operatingIncome	1.8746E8
+Dubai World	operatingIncome	1.4E9
+Rackspace	operatingIncome	7.96E7
+Jarvis plc	operatingIncome	7700000.0
+PeopleSupport	operatingIncome	1.173E7
+Europorte	operatingIncome	5.0E7
+Red Bull GmbH	operatingIncome	1.3E9
+Cegedel	operatingIncome	73.9
+Nordex	operatingIncome	4.01E7
+Bjørge	operatingIncome	4.1E7
+Belships	operatingIncome	7000000.0
+Bluewater Insurance	operatingIncome	5.72E8
+Gruppo Lucchini	operatingIncome	3.14E8
+Datalink Corporation	operatingIncome	5080000.0
+Verbund	operatingIncome	8.285E8
+Student Welfare Organisation in Bergen	operatingIncome	1100000.0
+IDT Corporation	operatingIncome	3.216E7
+Central Norway Regional Health Authority	operatingIncome	-9.17E8
+Mondi Group	operatingIncome	5.09E8
+Noble Energy	operatingIncome	1.529E9
+Omnicell	operatingIncome	1.73E7
+JA Solar Holdings	operatingIncome	1.08E8
+Medicis Pharmaceutical	operatingIncome	137.0
+Gruppo Riva	operatingIncome	7.38E8
+Electronic Chart Centre	operatingIncome	1.3E7
+GDF Suez	operatingIncome	8.795E9
+Criteria CaixaCorp	operatingIncome	1.541E9
+Grieg Seafood	operatingIncome	1.7E8
+GC Rieber Shipping	operatingIncome	1.69E8
+Green Reefers	operatingIncome	5700000.0
+Spectra Energy	operatingIncome	1.674E9
+Buckeridge Group of Companies	operatingIncome	1.63218319402E11
+Eidsiva Rederi	operatingIncome	8.36E7
+Monro Muffler Brake	operatingIncome	7.8E7
+Wereldhave	operatingIncome	1.338E8
+Phoenix Television	operatingIncome	3.2511E8
+Folli Follie	operatingIncome	1.717E8
+Zavvi Entertainment Group Ltd	operatingIncome	1.088E8
+J. Ludwig Mowinckels Rederi	operatingIncome	1.28E7
+Redes Energéticas Nacionais	operatingIncome	2.495E8
+Mota-Engil	operatingIncome	1.724E8
+Sevan Marine	operatingIncome	3.37E7
+China Investment Corporation	operatingIncome	4.4723E10
+Solvang (company)	operatingIncome	5.26E7
+Wilson (company)	operatingIncome	1.847E8
+E.Digital Corporation	operatingIncome	878586.0
+Don Quijote (store)	operatingIncome	2.11E10
+NW Natural	operatingIncome	1.265E8
+TeleComputing	operatingIncome	3.0E7
+Saipem	operatingIncome	1.319E9
+Rem Offshore	operatingIncome	1.12E8
+London Stock Exchange Group	operatingIncome	2.803E8
+Norges Handels og Sjøfartstidende	operatingIncome	6.5E7
+Buzzi Unicem	operatingIncome	3.23E8
+Agora SA	operatingIncome	1.51E8
+Mitsubishi Motors Europe	operatingIncome	2.8E8
+UBI Banca	operatingIncome	1.027E9
+Banco Popolare	operatingIncome	1.232E9
+Fjordkraft	operatingIncome	5.8E7
+Hafslund (company)	operatingIncome	1231.0
+O. N. Sunde	operatingIncome	4.96E8
+Madison Square Garden, Inc.	operatingIncome	1.206E8
+MøllerGruppen	operatingIncome	6.25E8
+E-CO Energi	operatingIncome	1789.0
+Canica	operatingIncome	-5.9E7
+Steen & Strøm	operatingIncome	1762.0
+Bergenshalvøens Kommunale Kraftselskap	operatingIncome	1521.0
+Tullow Oil	operatingIncome	2.346E8
+Scandinavian Bunkering	operatingIncome	4.0E7
+Western Norway Regional Health Authority	operatingIncome	-8.8E8
+Baxi	operatingIncome	8.9E7
+Chess Communication	operatingIncome	25000.0
+Bunker Oil (company)	operatingIncome	1.1E7
+Varner-Gruppen	operatingIncome	8.95E8
+J. J. Ugland	operatingIncome	4.55E8
+Melexis	operatingIncome	4.23E7
+Ferd	operatingIncome	1192.0
+Laco	operatingIncome	0.0
+Norwegian Hull Club	operatingIncome	-8.5E7
+Carpenter Technology Corporation	operatingIncome	11.7
+Dominion Resources	operatingIncome	3.626E9
+Trondos	operatingIncome	2872.0
+Odfjell Drilling	operatingIncome	1.92E8
+Domstein	operatingIncome	-2.3E7
+Nor-Cargo	operatingIncome	1.25E8
+Aalberts Industries	operatingIncome	1.671E8
+Autogrill	operatingIncome	2.552E8
+Bertel O. Steen	operatingIncome	3.5E8
+AF Gruppen	operatingIncome	3.35E8
+Kistefos	operatingIncome	2.88E8
+Impregilo	operatingIncome	1.416E8
+Viking Supply Ships	operatingIncome	3.22E8
+Trans Viking Icebreaking & Offshore	operatingIncome	2.89E8
+Royal BAM Group	operatingIncome	3.03E7
+Waterfront Shipping	operatingIncome	9000000.0
+Western Bulk	operatingIncome	5.4E7
+TrønderEnergi	operatingIncome	3.2E8
+Akershus Energi	operatingIncome	6.08E8
+Istad	operatingIncome	9.1E7
+Energiselskapet Buskerud	operatingIncome	5.22E8
+EB Kraftproduksjon	operatingIncome	4.49E8
+Troms Kraft	operatingIncome	2.85E8
+Petrojack	operatingIncome	7.72E8
+Kongsberg Automotive	operatingIncome	1.02E7
+HelgelandsKraft	operatingIncome	2.63E8
+Norsk Medisinaldepot	operatingIncome	1.82E8
+Apokjeden	operatingIncome	3.25E8
+Frigoglass	operatingIncome	2.89E7
+Reinertsen	operatingIncome	2.3E7
+Uponor	operatingIncome	5.24E7
+Askøy Energi	operatingIncome	2.5E7
+Energi 1	operatingIncome	2.6E7
+Fredrikstad Energi	operatingIncome	9.7E7
+Østfold Energi	operatingIncome	3.5E8
+Sogn og Fjordane Energi	operatingIncome	2.13E8
+Sognekraft	operatingIncome	7.8E7
+Lyse Energi	operatingIncome	1645.0
+Narvik Energi	operatingIncome	2.1E8
+Foreign & Colonial Investment Trust	operatingIncome	4.38E7
+Varanger Kraft	operatingIncome	1.09E8
+SThree	operatingIncome	2.12E7
+Naturkraft	operatingIncome	1.3E8
+Lofotkraft	operatingIncome	5.8E7
+Fauske Lysverk	operatingIncome	7000000.0
+ScanWind	operatingIncome	-5.1E7
+Toye, Kenning & Spencer	operatingIncome	131007.0
+Siemens Mobility	operatingIncome	4.5E9
+Bergen Port Authority	operatingIncome	3.2E7
+Leighton Holdings	operatingIncome	7.68E8
+Gifford (company)	operatingIncome	4500000.0
+Acme Packet	operatingIncome	1.92E7
+Petrofac	operatingIncome	6.635E8
+Maske Gruppen	operatingIncome	0.0
+Heidelberger Druckmaschinen	operatingIncome	1.586E8
+ADAS (company)	operatingIncome	3948000.0
+Terra Securities	operatingIncome	3.84E8
+PG Marine Group	operatingIncome	6.81E7
+Pareto Group	operatingIncome	2324.0
+FBL Financial Group	operatingIncome	1.5472E8
+Activision Blizzard	operatingIncome	4.69E8
+Nyrstar	operatingIncome	9.82E7
+Ebro Foods	operatingIncome	2.223E8
+LDK Solar Co	operatingIncome	8990000.0
+Yugoimport SDPR	operatingIncome	3.2312E7
+Genmab	operatingIncome	4.98E8
+Quattro GmbH	operatingIncome	2.2E8
+Arch Coal	operatingIncome	4.12E8
+NetSuite	operatingIncome	23.5
+Range Resources	operatingIncome	5.9E7
+CTEEP	operatingIncome	5.146E8
+NKT Holding	operatingIncome	4.797E8
+FLSmidth	operatingIncome	1.99E9
+Société Générale	operatingIncome	5.713E9
+PC Mall, Inc.	operatingIncome	1.45E7
+Pandora (jewelry)	operatingIncome	2.416E9
+Laima (confectioner)	operatingIncome	3.16E7
+Sacyr Vallehermoso	operatingIncome	3.935E8
+Fomento de Construcciones y Contratas	operatingIncome	7.737E8
+Wacker Chemie	operatingIncome	764.6
+N Brown Group	operatingIncome	9.76E7
+Unión Fenosa	operatingIncome	1675.0
+K+S	operatingIncome	7.269E8
+Südzucker	operatingIncome	3.924E8
+TriQuint Semiconductor	operatingIncome	1.16E8
+Videoton (company)	operatingIncome	2.0321E7
+Salzgitter AG	operatingIncome	1.598E8
+Prysmian	operatingIncome	3.07E8
+Johnston & Murphy	operatingIncome	5484000.0
+David Clark Company	operatingIncome	20.0
+Alliance Trust	operatingIncome	6.85E7
+Royal Boskalis Westminster	operatingIncome	4.019E8
+Black Hills Corporation	operatingIncome	186.0
+Dunelm Mill	operatingIncome	7.68E7
+Buy.com	operatingIncome	13.3
+Northgate plc	operatingIncome	8.28E7
+Amsterdam Trade Bank	operatingIncome	3.12E7
+Bank Nederlandse Gemeenten	operatingIncome	2.55E8
+Halma plc	operatingIncome	8.91E7
+Dignity plc	operatingIncome	6.1E7
+Wellstream	operatingIncome	5.08E7
+Keller Group	operatingIncome	4.33E7
+Amlin	operatingIncome	2.866E8
+Rotork	operatingIncome	9.77E7
+Bridgepoint Education	operatingIncome	2.164E8
+Grifols	operatingIncome	2.097E8
+Red Eléctrica de España	operatingIncome	6.885E8
+Iberdrola Renovables	operatingIncome	6.881E8
+Western Refining	operatingIncome	1.879E8
+Bakkavör	operatingIncome	2.21E7
+D/S Norden	operatingIncome	2.225E8
+Adolor Corporation	operatingIncome	-4.79E7
+Tullett Prebon	operatingIncome	1.524E8
+NS Railinfratrust	operatingIncome	3.1E7
+Wells Fargo	operatingIncome	1.9001E10
+P&TLuxembourg	operatingIncome	168.4
+Aricom	operatingIncome	4.133E8
+Implenia	operatingIncome	3.87E7
+Mace (company)	operatingIncome	1.9E7
+Morgan Crucible	operatingIncome	9.36E7
+Elementis	operatingIncome	1.023E8
+Coloplast	operatingIncome	1.995E9
+Helion (publisher)	operatingIncome	2030000.0
+Wincanton plc	operatingIncome	3.82E7
+A2A	operatingIncome	6.09E8
+Österreichische Post	operatingIncome	1.569E8
+NEC Group	operatingIncome	44.6
+Réno-Dépôt	operatingIncome	3.329E8
+K12 (company)	operatingIncome	5600000.0
+Wood Group	operatingIncome	2.882E8
+Metropolitan Pier and Exposition Authority	operatingIncome	-9.5228E7
+Bunzl	operatingIncome	2.557E8
+Statskonsult	operatingIncome	-1.59E7
+Cash America International	operatingIncome	149.0
+ASM International (company)	operatingIncome	3.286E8
+The Home Depot	operatingIncome	5.839E9
+Abercrombie & Fitch	operatingIncome	2.31932E8
+Fjellinjen	operatingIncome	7.14E8
+SN Power	operatingIncome	1.494E8
+Tinopolis	operatingIncome	5670000.0
+Charter International	operatingIncome	1.459E8
+Aquarius Platinum	operatingIncome	8.42E7
+SuperGroup plc	operatingIncome	2.26E7
+3i Infrastructure	operatingIncome	1.032E8
+Fidessa	operatingIncome	3.73E7
+Assura Group	operatingIncome	1.29E7
+Catlin Group	operatingIncome	4.06E8
+Chemring Group	operatingIncome	1.079E8
+Connaught plc	operatingIncome	3.26E7
+PV Crystalox Solar	operatingIncome	3.33E7
+AT&T	operatingIncome	1.9573E10
+AmRest	operatingIncome	1.69E7
+Daejan Holdings	operatingIncome	6.4E7
+Berendsen	operatingIncome	1.239E8
+Derwent London	operatingIncome	3.947E8
+Eaga	operatingIncome	4.24E7
+Electra Private Equity	operatingIncome	1.02E7
+Workspace Group	operatingIncome	2.761E8
+Electrocomponents	operatingIncome	1.198E8
+Expro International Group	operatingIncome	9.32E7
+Fushi Copperweld	operatingIncome	5.8E7
+Fenner plc	operatingIncome	4.93E7
+Ferrexpo	operatingIncome	5.422E8
+Gem Diamonds	operatingIncome	5.23E7
+Genus plc	operatingIncome	4.7E7
+Grainger plc	operatingIncome	8.57E7
+Hiscox	operatingIncome	2.217E8
+Helical Bar	operatingIncome	1.61E7
+Hochschild Mining	operatingIncome	2.666E8
+Hunting plc	operatingIncome	4.77E7
+Nanto Bank	operatingIncome	2.464E10
+ITE Group	operatingIncome	2.99E7
+Aareal Bank	operatingIncome	1.34E8
+STADA Arzneimittel	operatingIncome	1.618E8
+Intermediate Capital Group	operatingIncome	1.058E8
+Jones Lang LaSalle	operatingIncome	1.16404E8
+International Ferro Metals	operatingIncome	7.285E8
+JKX Oil & Gas	operatingIncome	9.5E7
+Carl Zeiss Meditec	operatingIncome	8.67E7
+Phoenix Solar	operatingIncome	3.64E7
+Andritz AG	operatingIncome	2.455E8
+Intercell	operatingIncome	2.512E8
+Aixtron	operatingIncome	2.755E8
+Bâloise	operatingIncome	6.072E8
+Trina Solar	operatingIncome	4.173E8
+Haldex (company)	operatingIncome	250.0
+Amrep Corporation	operatingIncome	-11.2
+MEMC Electronic Materials	operatingIncome	1.27E8
+Assumption Life	operatingIncome	7200000.0
+International Personal Finance	operatingIncome	9.21E7
+Jardine Lloyd Thompson Group	operatingIncome	1.299E8
+Domino Printing Sciences	operatingIncome	5.24E7
+Domino's Pizza UK & IRL	operatingIncome	3.8E7
+Laird plc	operatingIncome	4.64E7
+Law Debenture	operatingIncome	1.97E7
+Melrose Resources	operatingIncome	5.51E7
+Micro Focus International	operatingIncome	1.505E8
+Republic Services	operatingIncome	5.36E8
+VolkerRail	operatingIncome	1.2E8
+BAE Systems Surface Ships	operatingIncome	4.5E7
+Politika AD	operatingIncome	800000.0
+Michael Page International	operatingIncome	8.87E7
+Millennium & Copthorne Hotels	operatingIncome	1.441E8
+Quintain Estates and Development	operatingIncome	5.86E7
+Randgold Resources	operatingIncome	1.362E8
+Rathbone Brothers	operatingIncome	3.01E7
+Allion Healthcare	operatingIncome	1.57E7
+SVG Capital	operatingIncome	1.18E7
+Melrose plc	operatingIncome	1.969E8
+Senior plc	operatingIncome	6.22E7
+Shaftesbury plc	operatingIncome	2.334E8
+DS Smith	operatingIncome	9.4E7
+Spirax-Sarco Engineering	operatingIncome	1.191E8
+St. James's Place	operatingIncome	1.619E8
+Talvivaara Mining Company	operatingIncome	2.55E7
+Venture Production	operatingIncome	2.311E8
+Victrex	operatingIncome	7.49E7
+KONČAR Group	operatingIncome	36.0
+Valspar	operatingIncome	3.0957E8
+Taseko Mines	operatingIncome	5.698E7
+K.A. Rasmussen	operatingIncome	2.12E7
+Promethean World	operatingIncome	2.95E7
+Lottomatica	operatingIncome	3.86E8
+Terna (company)	operatingIncome	8.144E8
+Makhteshim Agan	operatingIncome	1.479E8
+Suez Environnement	operatingIncome	1.221E9
+Target Corporation	operatingIncome	4.3705E10
+Verizon Communications	operatingIncome	1.4645E10
+BE Aerospace	operatingIncome	316.0
+OPAP	operatingIncome	8.716E8
+Motor Oil Hellas	operatingIncome	1.635E8
+TmaxSoft	operatingIncome	8.0E9
+Sibir Energy	operatingIncome	1.95E8
+Oddbins	operatingIncome	8.6
+Synthes	operatingIncome	1.283E9
+ExxonMobil	operatingIncome	5.2959E10
+China Housing and Land Development	operatingIncome	2.54E7
+EDP Renováveis	operatingIncome	2.899E8
+EZCorp	operatingIncome	101.0
+Boeing	operatingIncome	5.023E9
+BP	operatingIncome	-3.7E9
+Reuters	operatingIncome	292.0
+Nike, Inc.	operatingIncome	2.517E9
+Microsemi	operatingIncome	5.799E7
+CSS Industries	operatingIncome	3.883E7
+Laurent-Perrier	operatingIncome	3.27E7
+Hartmarx	operatingIncome	2490000.0
+Qwest	operatingIncome	1.73E9
+Semcon	operatingIncome	1.614E9
+Naviair	operatingIncome	9.0E8
+Anheuser-Busch InBev	operatingIncome	1.09E10
+Fresnillo plc	operatingIncome	8.335E8
+Synergy Health	operatingIncome	3.97E7
+Bank Mendes Gans	operatingIncome	3.629E7
+Class Editori	operatingIncome	3800000.0
+TiVo, Inc.	operatingIncome	1.77E7
+Hemofarm Group	operatingIncome	2.144E8
+Spice plc	operatingIncome	2.46E7
+Meliá Hotels International	operatingIncome	1.418E8
+Depfa Bank	operatingIncome	8.74E8
+Allianz	operatingIncome	8.243E9
+Procter & Gamble	operatingIncome	1.6021E10
+Ascent Solar	operatingIncome	-21.7
+H2O Retailing	operatingIncome	10555.0
+Kaleva Travel	operatingIncome	4970000.0
+BKW FMB Energie AG	operatingIncome	4.36E8
+Össur	operatingIncome	4.82E7
+Pretoria Portland Cement Company	operatingIncome	3.02E8
+EVN Group	operatingIncome	1.873E8
+STARLIMS	operatingIncome	2420000.0
+Nutreco	operatingIncome	1.857E8
+Olympic Steel	operatingIncome	4.3324E7
+Imexbank	operatingIncome	3.0E7
+99p Stores	operatingIncome	3200000.0
+Forsythe Technology	operatingIncome	1.69E7
+AMETEK	operatingIncome	366.0
+Federal Corporation	operatingIncome	8.8E9
+SDL International	operatingIncome	3.52E7
+Restaurant Group	operatingIncome	5.86E7
+Grivel (mountain climbing)	operatingIncome	5000000.0
+Bankrate	operatingIncome	2.76E7
+BPP Holdings	operatingIncome	2.15E7
+Graubündner Kantonalbank	operatingIncome	9.9E7
+T-Mobile USA	operatingIncome	2.705E9
+TopoTarget	operatingIncome	1.3249E8
+Umicore	operatingIncome	3.24E8
+Power Finance Corporation	operatingIncome	684.6
+Klépierre	operatingIncome	4.894E8
+IHOP	operatingIncome	7.28E7
+ARIAD Pharmaceuticals	operatingIncome	-72.0
+Brewin Dolphin	operatingIncome	3.1E7
+Cranswick plc	operatingIncome	4.59E7
+Dechra Pharmaceuticals	operatingIncome	2.5E7
+James Fisher & Sons	operatingIncome	2.75E7
+Hampson Industries	operatingIncome	2.24E7
+Imagination Technologies	operatingIncome	1.62E7
+Willis Group Holdings	operatingIncome	5.04E8
+INGRA (construction company)	operatingIncome	9.05E7
+USG People	operatingIncome	4.31E7
+Ausenco	operatingIncome	4.33E7
+Mitchell's Fruit Farms Limited	operatingIncome	6.103E7
+Benchmark Electronics	operatingIncome	89.7
+Wipro	operatingIncome	1.27E9
+Legrand (company)	operatingIncome	7.576E8
+McBride plc	operatingIncome	4.8E7
+Bauer Group	operatingIncome	8.84E7
+Fielmann	operatingIncome	1.686E8
+Deutsche EuroShop	operatingIncome	1.24E8
+GAGFAH	operatingIncome	3.483E8
+Lloyds Banking Group	operatingIncome	2.81E8
+Pfleiderer	operatingIncome	1.61E7
+Gildemeister AG	operatingIncome	4.5E7
+MAMA Group	operatingIncome	1095000.0
+Krones	operatingIncome	6.81E7
+HHLA	operatingIncome	1.929E8
+Starter Clothing Line	operatingIncome	2.827E8
+Gerresheimer	operatingIncome	9.5E7
+Klöckner	operatingIncome	1.52E8
+Rhön-Klinikum	operatingIncome	1.979E8
+IVG Immobilien	operatingIncome	2.562E8
+Greenwoods	operatingIncome	22000.0
+Pinnacle Airlines Corp.	operatingIncome	8.07E7
+Kapstone	operatingIncome	6.87E7
+Galliford Try	operatingIncome	2.94E7
+Jupiter Fund Management	operatingIncome	7.73E7
+Hewlett-Packard	operatingIncome	1.1479E10
+TÜV Rheinland	operatingIncome	1.121E8
+Electricidad de Caracas	operatingIncome	1.401E8
+Wavefront Technology Solutions	operatingIncome	7252000.0
+Psion Teklogix	operatingIncome	9500000.0
+AMN Healthcare	operatingIncome	-154.0
+Afren	operatingIncome	8.9E7
+MWB Group Holdings	operatingIncome	1.71E7
+CDC Software	operatingIncome	3.01E7
+Arena Pharmaceuticals	operatingIncome	-138.0
+Oil Refineries Ltd	operatingIncome	3.572E8
+National Bank of Bahrain	operatingIncome	1.2247E8
+AudioCodes	operatingIncome	1.044E7
+Obrascón Huarte Lain	operatingIncome	7.001E8
+Dickson Concepts	operatingIncome	2.25E8
+Seznam.cz	operatingIncome	9.0E8
+Ambassadors Group	operatingIncome	3.22E7
+Kamensk-Uralsky Metallurgical Works	operatingIncome	6.6E7
+Saba Software	operatingIncome	-2660000.0
+InContact	operatingIncome	7500000.0
+CMC Markets	operatingIncome	25.3
+Centrotherm Photovoltaics	operatingIncome	7.54E7
+Roth & Rau	operatingIncome	2.73E7
+SMA Solar Technology	operatingIncome	5.168E8
+Cogent Systems	operatingIncome	5.307E7
+Aurubis	operatingIncome	4.751E8
+Polska Grupa Energetyczna	operatingIncome	1.1E9
+ARM Holdings	operatingIncome	1.07E8
+Manz	operatingIncome	562000.0
+BB Biotech	operatingIncome	1600000.0
+MediGene	operatingIncome	1.96E7
+Pfeiffer Vacuum	operatingIncome	5.29E7
+Evolution Group	operatingIncome	1.11E7
+Hansard Global	operatingIncome	2.36E7
+Oando	operatingIncome	5.96E7
+B & M	operatingIncome	2.45E7
+MorphoSys	operatingIncome	9800000.0
+Singulus Technologies	operatingIncome	8.02E7
+United Internet	operatingIncome	2.715E8
+Smartrac	operatingIncome	8100000.0
+Biocompatibles	operatingIncome	6900000.0
+ElringKlinger	operatingIncome	1.16E8
+Rational AG	operatingIncome	1.058E8
+Beter Bed	operatingIncome	3.1208E7
+Ansaldo STS	operatingIncome	1.371E8
+Willi Betz	operatingIncome	1000000.0
+Aruba Networks	operatingIncome	-32.6
+Ballast Nedam	operatingIncome	1.7E7
+Foundation Coal	operatingIncome	3.164E8
+BioCryst Pharmaceuticals	operatingIncome	-10.3
+Zonda Telecom	operatingIncome	8.21415E8
+Four Color Films	operatingIncome	200.0
+Given Imaging	operatingIncome	1.032E7
+Hudson Highland Group	operatingIncome	-7.336E7
+Live Nation Entertainment	operatingIncome	8.214E7
+Countryside Properties	operatingIncome	1.52E7
+CyberLink	operatingIncome	3.55E7
+First Philippine Holdings Corporation	operatingIncome	4.0E8
+Newark (A Premier Farnell Company)	operatingIncome	3.03E7
+Wright Express Corporation	operatingIncome	161.43
+Bimbo Bakeries USA	operatingIncome	3.328E8
+Lancashire Holdings	operatingIncome	3.459E8
+Getinge Group	operatingIncome	3.689E9
+List of Paramount executives	operatingIncome	6.21E7
+Royal Dutch Shell	operatingIncome	3.5344E10
+Tragus Ltd.	operatingIncome	4.28E7
+Bluegreen Corporation	operatingIncome	7.7
+BinckBank	operatingIncome	6.03E7
+AarhusKarlshamn	operatingIncome	1.51E8
+Cambridge Antibody Technology	operatingIncome	147.25
+Gammon India	operatingIncome	2.64E9
+Roxar AS	operatingIncome	85.0
+University Health Systems of Eastern Carolina	operatingIncome	1.217E9
+Trane	operatingIncome	8.754E8
+Dr Pepper Snapple Group	operatingIncome	1.025E9
+LivePerson	operatingIncome	1.434E7
+Morrison Facilities Services	operatingIncome	6.7E8
+Bayer	operatingIncome	2.73E9
+MG Motor UK	operatingIncome	1.1E7
+Boralex	operatingIncome	29.01
+Bundesimmobiliengesellschaft	operatingIncome	2.19E8
+Aberdeen Asset Management	operatingIncome	1.375E8
+Reliance Natural Resources Limited	operatingIncome	7.18E8
+ANADIGICS	operatingIncome	-55.3
+LPKF Laser & Electronics	operatingIncome	7000000.0
+EDF Energies Nouvelles	operatingIncome	2.15E8
+Tessera Technologies	operatingIncome	1.6E7
+Soyuz-Viktan	operatingIncome	5.8E8
+Senate Properties	operatingIncome	2.2E8
+Wilmar International	operatingIncome	1.88E9
+Sercomtel	operatingIncome	209.0
+Yahorng	operatingIncome	2400000.0
+Constant Contact	operatingIncome	9.137E7
+Security Bank (New Auburn, Wisconsin)	operatingIncome	6.2757E7
+Sabra (company)	operatingIncome	6.5E7
+Phoenix Group (company)	operatingIncome	2.8E8
+Farnell (A Premier Farnell Company)	operatingIncome	4.48E7
+Avis Europe	operatingIncome	1.082E8
+Paragon Group of Companies	operatingIncome	6.61E7
+Lamprell	operatingIncome	6.81E7
+Altarum Institute	operatingIncome	5.5E7
+Teleplan	operatingIncome	2.89E8
+Sadbhav Engineering Limited	operatingIncome	9.2E8
+Exor (company)	operatingIncome	1.953E9
+Visonic	operatingIncome	2700000.0
+BayWa	operatingIncome	1.289E8
+Ormat Industries	operatingIncome	5.641E7
+PZ Cussons	operatingIncome	1.014E8
+EuroPark	operatingIncome	6.5E7
+C. R. Bard	operatingIncome	730.0
+Halfords Autocentre	operatingIncome	7.5
+Arcadis	operatingIncome	1.297E8
+BATM Advanced Communications	operatingIncome	2.44E7
+RHI AG	operatingIncome	1.26E8
+Resolution Limited	operatingIncome	7.12E8
+Safilo	operatingIncome	3.14E7
+EWA Bespoke Communications	operatingIncome	207343.0
+Campbell Soup Company	operatingIncome	1.348E9
+El Brocal	operatingIncome	8.02E7
+SeaWorld Parks & Entertainment	operatingIncome	2.328E8
+Uster Technologies	operatingIncome	3.42E7
+Norinchukin Bank	operatingIncome	1270560.0
+JAPEX	operatingIncome	2.009E7
+Hansen Transmissions	operatingIncome	1.44E8
+Blue Coat Systems	operatingIncome	39.3
+Wegener (company)	operatingIncome	15.0
+AOC International	operatingIncome	1.53E8
+Plains Exploration & Production	operatingIncome	2.627E9
+Finnforest	operatingIncome	-7.43E7
+Atlas America	operatingIncome	43.2
+ADVA Optical Networking	operatingIncome	9300000.0
+Openfield	operatingIncome	502.0
+DCT Industrial Trust	operatingIncome	5.03E7
+Health Care Property Investors	operatingIncome	6.981E7
+Powertel (U.S. cellular carrier 1998-2001)	operatingIncome	6500000.0
+Austro Engine	operatingIncome	500.0
+New World Resources	operatingIncome	2.945E8
+Acorda Therapeutics	operatingIncome	-7.95E7
+Excel Maritime	operatingIncome	4.4322E7
+Tommy Hilfiger Corporation	operatingIncome	1.5E9
+QCR Holdings	operatingIncome	2.363E7
+Swedish Automobile	operatingIncome	1.401E8
+Khim Prom	operatingIncome	4.63E8
+Insperity	operatingIncome	2.86E7
+Superdrug	operatingIncome	15.2
+Commtouch	operatingIncome	2700000.0
+Transmode	operatingIncome	1.221E8
+Allscripts	operatingIncome	1.06E8
+Agility Logistics	operatingIncome	5.86E8
+Gartmore Group	operatingIncome	5.31E7
+Hansteen Holdings	operatingIncome	4.96E7
+Rosetta Stone (company)	operatingIncome	2.05E7
+Svenska Petroleum Exploration AB	operatingIncome	8.69E8
+Perficient	operatingIncome	1.151E7
+Reinsurance Group of America	operatingIncome	438321.0
+Noreco	operatingIncome	8.235E8
+Dana (Mirna)	operatingIncome	1.27E7
+EnQuest	operatingIncome	1.637E8
+International Airlines Group	operatingIncome	2.25E8
+Eclipsys	operatingIncome	1.198E7
+Roc Oil Company	operatingIncome	6.71E7
+Joy Global	operatingIncome	6.971E8
+Gulf Pharmaceutical Industries (Julphar)	operatingIncome	148452.0
+Industrial Alliance	operatingIncome	2.83E8
+Psychiatric Solutions	operatingIncome	1.7E9
+A J Bell	operatingIncome	1.61E7
+Banque de Luxembourg	operatingIncome	217.7
+Capital & Counties Properties	operatingIncome	1.788E8
+Fiat Industrial	operatingIncome	1.017E9
+European Ferries	operatingIncome	4.55E7
+Oni Telecom	operatingIncome	29.0
+United Continental Holdings	operatingIncome	9.76E8
+Culture Convenience Club	operatingIncome	12841.0
+Tokyo Electron	operatingIncome	1.47E10
+CPP Group	operatingIncome	4.87E7
+Centamin Egypt	operatingIncome	1.7E7
+African Barrick Gold	operatingIncome	3.097E8
+Essar Energy	operatingIncome	5.388E8
+Cegedim	operatingIncome	112.0
+Mediaset España Comunicación	operatingIncome	2.1944E8
+Glatfelter	operatingIncome	1.63E8
+Správa železniční dopravní cesty	operatingIncome	4.0E8
+Antena 3 de Televisión	operatingIncome	6.51E8
+GFI Group	operatingIncome	2.33E7
+Charles Stanley Group	operatingIncome	1.37E7
+Diodes Incorporated	operatingIncome	1.564E8
+Avista	operatingIncome	201.0
+Falkland Oil and Gas	operatingIncome	2.8
+Conn's	operatingIncome	2.74E7
+Glentel	operatingIncome	2.45E7
+Philkeram Johnson	operatingIncome	-5800000.0
+Neterra	operatingIncome	2.0
+Questerre Energy Corporation	operatingIncome	1.83E7
+Leonard Curtis	operatingIncome	4600000.0
+Draka Holding	operatingIncome	2.86E7
+Vivimed Labs Limited	operatingIncome	7.0469E8
+Zurich Cantonal Bank	operatingIncome	1001.0
+Lincat	operatingIncome	9.8
+Arab Bridge Maritime	operatingIncome	5.9E7
+PowerFilm, Inc.	operatingIncome	2761000.0
+Drillisch	operatingIncome	4.04E7
+Algonquin Power	operatingIncome	28.3
+Ardent Leisure	operatingIncome	77.8
+Atlet AB	operatingIncome	1.8E9
+DEME	operatingIncome	1.47E8
+Devro	operatingIncome	3.82E7
+HollyFrontier Corporation	operatingIncome	4.38E7
+Reliv	operatingIncome	2910000.0
+DSP Group	operatingIncome	9680000.0
+Yule Catto	operatingIncome	5.49E7
+Isurvey	operatingIncome	22.0
+Romsilva	operatingIncome	7000000.0
+Donaldson Company	operatingIncome	238.2
+Fonciere des Regions	operatingIncome	1.2881E9
+Solomon Gold	operatingIncome	1294000.0
+Bank Permata	operatingIncome	739.562
+Tekfen Construction and Installation Co.Inc.	operatingIncome	1.0E9
+Statoil Fuel & Retail	operatingIncome	2.342E9
+PS Business Parks	operatingIncome	95031.0
+Veramark Technologies	operatingIncome	561000.0
+Rohde Shoes	operatingIncome	8.0E7
+Erste Group	operatingIncome	3.988E9
+Huron Consulting Group	operatingIncome	4.2955E7
+Stallergenes	operatingIncome	7.09E7
+Hellenic Duty Free Shops	operatingIncome	4.82E7
+Enel Green Power	operatingIncome	7.94E8
+Befimmo	operatingIncome	7.78E7
+NGK Insulators	operatingIncome	16551.0
+Rustan's	operatingIncome	1863000.0
+MILMEGA	operatingIncome	1051000.0
+Thompson Creek Metals	operatingIncome	174.4
+Basware	operatingIncome	11.0
+Royal Gold	operatingIncome	41.03
+Capstone Infrastructure	operatingIncome	20.91
+PostFinance	operatingIncome	2.2E9
+AZ Electronic Materials	operatingIncome	2.003E8
+London & Stamford Property	operatingIncome	1.166E8
+Willmott Dixon	operatingIncome	9.98946E8
+Okinawa Electric Power Company	operatingIncome	17397.0
+Chugoku Electric Power Company	operatingIncome	81515.0
+Inter Pipeline Fund	operatingIncome	183.37
+Parco (retailer)	operatingIncome	8601.0
+Ichibanya	operatingIncome	3685.0
+MRC Markets	operatingIncome	4425.0
+Lifeway Foods	operatingIncome	8938668.0
+Pembina Pipeline	operatingIncome	359.8
+Heijmans	operatingIncome	4.8E7
+VolkerWessels	operatingIncome	1.17E8
+Dialog Semiconductor	operatingIncome	4.53E7
+Sprint Applied Research & Advanced Technology Labs  print Nextel Corporation   1	operatingIncome	1.39E9
+Tarsus Group plc	operatingIncome	8100000.0
+Yamaha electric guitar models	operatingIncome	1.4095E8
+List of Yamaha guitars	operatingIncome	1.4095E8
+Ecumen	operatingIncome	937000.0
+Ellaktor	operatingIncome	1.514E8
+Jamuna Oil Company	operatingIncome	1.793E8
+TUI Travel	operatingIncome	1.85E8
+NeighborWorks America	operatingIncome	3.12437291E8
+Molson Coors Brewing Company	operatingIncome	7.54E8
+The Pepsi Bottling Group	operatingIncome	1.05E9
+CYTA	operatingIncome	4.84329E8
+Sears Holdings Corporation	operatingIncome	4.74E8
+Merck & Co.	operatingIncome	1.653E9
+Det Norske Veritas	operatingIncome	1188.0
+Actelion	operatingIncome	4.573E8
+Wendel (group)	operatingIncome	5.783E8
+Brenntag	operatingIncome	4.09E8
+Uncle Bob's Self Storage	operatingIncome	3.5E7
+Evotec	operatingIncome	1700000.0
+RPC Group	operatingIncome	4.09E7
+Arotech Corporation	operatingIncome	5.31E7
+Acadia Pharmaceuticals	operatingIncome	10.7
+Giannini Automobili	operatingIncome	1795000.0
+Albpetrol	operatingIncome	3000000.0
+Ellen MacArthur Cancer Trust	operatingIncome	387330.0
+Anglo Pacific Group	operatingIncome	6.58E7
+Azimut Holding	operatingIncome	1.16E8
+Ellen MacArthur Foundation	operatingIncome	1151488.0
+Alexion Pharmaceuticals	operatingIncome	1.506E8
+RSC Brands	operatingIncome	5.6457E7
+Zeltia	operatingIncome	4.63E7
+MAFRA	operatingIncome	169.0
+Mindspeed Technologies, Inc.	operatingIncome	2.3E7
+InFiber	operatingIncome	1.39E8
+PostNL	operatingIncome	4.8E8
+TNT Express	operatingIncome	1.8E8
+Boots UK	operatingIncome	1300.0
+Zhone Technologies	operatingIncome	-3900000.0
+Rami Levi Hashikma Marketing	operatingIncome	1.15E8
+Advanced Battery Technologies	operatingIncome	37.84
+Transpacific Industries Group	operatingIncome	4.23E8
+Kernel Holding	operatingIncome	1.67E8
+Tower Semiconductor	operatingIncome	43.32
+Perform Group	operatingIncome	7400000.0
+Altair Nanotechnologies Inc.	operatingIncome	2.241E7

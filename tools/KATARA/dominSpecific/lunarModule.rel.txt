@@ -1,0 +1,24 @@
+Apollo 8	lunarModule	Ballast: LM Test Article B
+Apollo 11	lunarModule	LM-5
+Apollo 11	lunarModule	mass
+Apollo 13	lunarModule	LM-7
+Apollo 13	lunarModule	mass
+Apollo 9	lunarModule	LM-3
+Apollo 9	lunarModule	mass 14,575 kg
+Apollo 10	lunarModule	LM-4
+Apollo 10	lunarModule	mass 13,941 kg
+Apollo 15	lunarModule	LM-10
+Apollo 15	lunarModule	mass
+Apollo 14	lunarModule	LM-8
+Apollo 14	lunarModule	mass 15,264 kg
+Apollo 12	lunarModule	LM-6
+Apollo 12	lunarModule	mass
+Apollo 16	lunarModule	LM-11
+Apollo 16	lunarModule	mass
+Apollo 17	lunarModule	LM-12
+Apollo 17	lunarModule	mass
+Apollo 5	lunarModule	LM-1
+Apollo 6	lunarModule	LTA-2R (dummy)
+Apollo 6	lunarModule	mass
+Apollo 4	lunarModule	LTA-10R (dummy)
+Apollo 4	lunarModule	mass

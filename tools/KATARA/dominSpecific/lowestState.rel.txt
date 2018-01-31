@@ -1,0 +1,76 @@
+Chaves Municipality, Portugal	lowestState	Chaves Municipality, Portugal
+Bragança Municipality	lowestState	Bragança District
+Sacavém	lowestState	Loures Municipality
+Camarate	lowestState	Loures Municipality
+Loriga	lowestState	Seia Municipality
+Aveleda (Bragança)	lowestState	Bragança Municipality
+Alfaião	lowestState	Bragança Municipality
+Babe (Bragança)	lowestState	Bragança Municipality
+Paradinha	lowestState	Moimenta da Beira Municipality
+Sete Cidades (Ponta Delgada)	lowestState	Ponta Delgada (Azores)
+Calheta, Madeira	lowestState	Calheta, Madeira
+Candelária (Ponta Delgada)	lowestState	Ponta Delgada (Azores)
+Posto Santo	lowestState	Angra do Heroísmo
+Santa Luzia (Angra do Heroísmo)	lowestState	Angra do Heroísmo
+Fonte do Bastardo	lowestState	Praia da Vitória
+São Brás (Praia da Vitória)	lowestState	Praia da Vitória
+Arrifes	lowestState	Ponta Delgada (Azores)
+Covoada	lowestState	Ponta Delgada (Azores)
+Fajã de Baixo	lowestState	Ponta Delgada (Azores)
+Fajã de Cima	lowestState	Ponta Delgada (Azores)
+Fontinhas	lowestState	Praia da Vitória
+Cabouco	lowestState	Lagoa (Azores)
+Pico da Pedra	lowestState	Ribeira Grande (Azores)
+Nossa Senhora dos Remédios (Povoação)	lowestState	Povoação (Azores)
+Água de Pena	lowestState	Machico
+Caniçal	lowestState	Machico
+Porto da Cruz	lowestState	Machico
+Santo António da Serra (Machico)	lowestState	Machico
+Santa Maria de Belém	lowestState	Lisbon
+Achadas da Cruz	lowestState	Porto Moniz
+Ribeira da Janela	lowestState	Porto Moniz
+Seixal (Porto Moniz)	lowestState	Porto Moniz
+Arco da Calheta	lowestState	Calheta, Madeira
+Estreito da Calheta	lowestState	Calheta, Madeira
+Fajã da Ovelha	lowestState	Calheta, Madeira
+Jardim do Mar	lowestState	Calheta, Madeira
+Ponta do Pargo	lowestState	Calheta, Madeira
+Prazeres, Madeira	lowestState	Calheta, Madeira
+Canhas	lowestState	Ponta do Sol, Madeira
+Madalena do Mar	lowestState	Ponta do Sol, Madeira
+Campanário, Madeira	lowestState	Ribeira Brava, Madeira
+Imaculado Coração de Maria	lowestState	Funchal
+Santa Luzia (Funchal)	lowestState	Funchal
+Monte (Funchal)	lowestState	Funchal
+Santa Maria Maior (Funchal)	lowestState	Funchal
+Santo António (Funchal)	lowestState	Funchal
+São Pedro (Funchal)	lowestState	Funchal
+São Roque (Funchal)	lowestState	Funchal
+Castro Verde Municipality	lowestState	Castro Verde Municipality
+Sé (Funchal)	lowestState	Funchal
+Paul do Mar	lowestState	Calheta, Madeira
+Alcântara (Lisbon)	lowestState	Lisbon District
+Portela (Loures)	lowestState	Loures Municipality
+Bombarral Municipality	lowestState	Bombarral Municipality
+Labruja	lowestState	Ponte de Lima Municipality
+São Vicente (Abrantes)	lowestState	Abrantes Municipality
+Favaios (Alijó)	lowestState	Alijó Municipality
+Amareleja	lowestState	Moura Municipality
+Mindelo (Vila do Conde)	lowestState	Vila do Conde
+Angeja	lowestState	Albergaria-a-Velha Municipality
+Fornos (Freixo de Espada à Cinta)	lowestState	Freixo de Espada à Cinta Municipality
+Pena (Lisbon)	lowestState	Lisboa Region
+Alvor Parish	lowestState	Portimão
+Santiago de Piães	lowestState	Cinfães Municipality
+Alcains	lowestState	Castelo Branco Municipality
+Mirandela Municipality	lowestState	Mirandela Municipality
+Miranda do Douro Municipality	lowestState	Miranda do Douro (parish)
+Frechas	lowestState	Mirandela Municipality
+Torre de Dona Chama	lowestState	Mirandela Municipality
+Celeirós (Sabrosa)	lowestState	Sabrosa
+Cacia	lowestState	Aveiro Municipality
+Fontelo	lowestState	Armamar Municipality
+Fermentelos	lowestState	Águeda Municipality
+Terra Chã	lowestState	Angra do Heroísmo
+Comporta	lowestState	Alcácer do Sal Municipality
+Nossa Senhora da Tourega (Évora)	lowestState	Évora Municipality

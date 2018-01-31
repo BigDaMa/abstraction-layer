@@ -1,0 +1,892 @@
+Azores	code	.pt
+Ceuta	code	ES-CE
+Madeira	code	.pt
+Albany County, New York	code	518
+Rensselaer County, New York	code	518
+New Holland, Pennsylvania	code	351, 354, 355
+Baumgardener's Covered Bridge	code	367228042515100
+Bitzer's Mill Covered Bridge	code	361013025007460
+Bucher's Mill Covered Bridge	code	367210085505020
+Colemanville Covered Bridge	code	367224040815120
+Keller's Mill Covered Bridge	code	38-36-13
+Boone County, Missouri	code	573
+Bartelso, Illinois	code	618
+San Jose, Illinois	code	247
+Fleischmanns, New York	code	254
+Margaretville, New York	code	586
+Millbrook, New York	code	677
+Millbrook, New York	code	Code = 266
+Middleport, New York	code	735
+Cornwall, New York	code	534
+Maybrook, New York	code	427
+Middletown, Orange County, New York	code	341, 342, 343, 344, 956
+Medina, New York	code	798
+Patterson, New York	code	278
+Bloomingburg, New York	code	733
+Livingston Manor, New York	code	439
+Kerhonkson, New York	code	626
+Phoenicia, New York	code	688
+Pine Hill, New York	code	254
+Medford, Oregon	code	41-47000
+Jamestown, Pennsylvania	code	932
+South Bohemian Region	code	CZ-JC
+Algarve	code	PT
+Albion (village), New York	code	589
+Litchfield (borough), Connecticut	code	567
+Amenia (CDP), New York	code	373
+Pawling (town), New York	code	855
+Bergen (village), New York	code	494
+Le Roy (village), New York	code	768
+Chester (village), New York	code	469
+Monroe (village), New York	code	782, 783
+New Windsor (CDP), New York	code	561-569
+Montgomery (town), New York	code	361, 427, 457, 561\u2013569, 778, 895
+Cohocton (village), New York	code	384
+Salem (village), New York	code	854
+La Habana Province	code	+53-07
+Isla de la Juventud	code	+53-061
+Black Rock Desert	code	863276
+Košice	code	KE
+Žilina	code	ZA
+Banská Bystrica	code	BB
+Nitra	code	NR
+Poprad	code	PP
+Trenčín	code	TN
+Banská Štiavnica	code	BS
+Zvolen	code	ZV
+Komárno	code	KN
+Trnava	code	TT
+Bojnice	code	PD
+Nové Zámky	code	NZ
+Pyramid Lake (Nevada)	code	856349
+Jelenia Góra	code	DJ
+Southern Tier	code	607, 585 & 716
+San Cristóbal Province	code	1-809 1-829 1-849
+Matanzas Province	code	+53-52
+Cienfuegos Province	code	+53-43
+Pinar del Río Province	code	+53-48
+Sancti Spíritus Province	code	+53-41
+Camagüey Province	code	+53-32
+Las Tunas Province	code	+53-31
+Holguín Province	code	+53-024
+Granma Province	code	+53-023
+Capital District	code	518
+Piešťany	code	PN
+Vranov nad Topľou	code	VT
+Bonneville Salt Flats	code	1425872
+Ružomberok	code	RK
+Levoča	code	LE
+Humenné	code	HE
+Western New York	code	585, 716
+Liberec Region	code	CZ-LI
+Plzeň Region	code	CZ-PL
+South Moravian Region	code	CZ-JM
+Hradec Králové Region	code	CZ-KR
+Vysočina Region	code	CZ-VY
+Karlovy Vary Region	code	CZ-KA
+Olomouc Region	code	CZ-OL
+Pardubice Region	code	CZ-PA
+Zlín Region	code	CZ-ZL
+Ústí nad Labem Region	code	CZ-US
+Meadow Valley Wash	code	858091
+Meadow Valley Wash	code	15010013
+Prešov	code	PO
+Boaco Department	code	NI-BO
+Carazo Department	code	NI-CA
+Chinandega Department	code	NI-CI
+Chontales Department	code	NI-CO
+Estelí Department	code	NI-ES
+Granada Department	code	NI-GR
+Jinotega Department	code	NI-JI
+León Department	code	NI-LE
+Madriz Department	code	NI-MD
+Managua Department	code	NI-MN
+Masaya Department	code	NI-MS
+Matagalpa Department	code	NI-MT
+Nueva Segovia Department	code	NI-NS
+Rivas Department	code	NI-RI
+Río San Juan Department	code	NI-SJ
+Región Autónoma del Atlántico Norte	code	NI-AN
+Región Autónoma del Atlántico Sur	code	NI-AS
+Pit River	code	268869
+Komjatice	code	NZ
+Galanta	code	GA
+Horná Streda	code	NM
+Khatlon Province	code	TJ-KT
+Gorno-Badakhshan Autonomous Province	code	TJ-BG
+Prince of Wales Island (Alaska)	code	[ 1424651]
+Lučenec	code	LC
+Bytča	code	BY
+Pezinok	code	PK
+Martin, Slovakia	code	MT
+Ilava	code	IL
+Čičmany	code	ZA
+Považská Bystrica	code	PB
+Malacky	code	MA
+Petržalka	code	BA
+Nitrianske Pravno	code	PD
+Azua Province	code	1-809 1-829 1-849
+Baoruco Province	code	1-809 1-829 1-849
+Barahona Province	code	1-809 1-829 1-849
+Duarte Province	code	1-809 1-829 1-849
+Dajabón Province	code	1-809 1-829 1-849
+Elías Piña Province	code	1-809 1-829 1-849
+El Seibo	code	1-809 1-829 1-849
+Espaillat Province	code	1-809 1-829 1-849
+Hato Mayor Province	code	1-809 1-829 1-849
+Independencia Province	code	1-809 1-829 1-849
+La Altagracia Province	code	1-809 1-829 1-849
+La Romana Province	code	1-809 1-829 1-849
+La Vega Province	code	1-809 1-829 1-849
+María Trinidad Sánchez Province	code	1-809 1-829 1-849
+Monseñor Nouel Province	code	1-809 1-829 1-849
+Monte Cristi Province	code	1-809 1-829 1-849
+Monte Plata Province	code	1-809 1-829 1-849
+Pedernales Province	code	1-809 1-829 1-849
+Peravia Province	code	1-809 1-829 1-849
+Hermanas Mirabal Province	code	1-809 1-829 1-849
+Samaná Province	code	1-809 1-829 1-849
+Puerto Plata Province	code	1-809 1-829 1-849
+Sánchez Ramírez Province	code	1-809 1-829 1-849
+San Pedro de Macorís Province	code	1-809 1-829 1-849
+San José de Ocoa Province	code	1-809 1-829 1-849
+Santiago Rodríguez Province	code	1-809 1-829 1-849
+Santiago Province (Dominican Republic)	code	1-809 1-829 1-849
+Valverde Province	code	1-809 1-829 1-849
+Santo Domingo Province	code	1-809 1-829 1-849
+Distrito Nacional	code	1-809 1-829 1-849
+Trenčianske Teplice	code	TN
+Zlaté Moravce	code	ZM
+Liptovský Mikuláš	code	LM
+Šahy	code	LV
+Rimavská Sobota	code	RS
+Fiľakovo	code	LC
+Rožňava	code	RV
+Alentejo	code	PT
+São Domingos, Cape Verde (municipality)	code	75
+Levice	code	LV
+Vrakuňa	code	BA
+Brezno	code	BR
+Tisovec	code	RS
+Snina	code	SV
+Liptovský Hrádok	code	LM
+West Papua (region)	code	ID-IJ
+Jizzakh Province	code	UZ-JI
+Hlohovec	code	HC
+São Filipe, Cape Verde (municipality)	code	82
+Port of Anchorage	code	[ 1424961]
+Batken Province	code	KG-B
+Chuy Province	code	KG-C
+Naryn Province	code	KG-N
+Jalal-Abad Province	code	KG-J
+Osh Province	code	KG-O
+Talas Province	code	KG-T
+Issyk Kul Province	code	KG-Y
+Streda nad Bodrogom	code	TV
+Ružinov	code	BA
+Prievidza	code	PD
+Beluša	code	512851
+Púchov	code	PU
+Bragança District	code	.pt
+Michalovce	code	MI
+Sabinov	code	SB
+Hontianske Moravce	code	KA
+Andijan Province	code	UZ-AN
+Hriňová	code	DT
+Bardejov	code	BJ
+Medzilaborce	code	ML
+Hronský Beňadik	code	ZC
+Svinia	code	PO
+Sliač	code	ZV
+Turčianske Teplice	code	TR
+Namangan Province	code	UZ-NG
+Fergana Province	code	UZ-FA
+Sirdaryo Province	code	UZ-SI
+Tashkent Province	code	UZ-TO
+Surxondaryo Province	code	UZ-SU
+Qashqadaryo Province	code	UZ-QA
+Samarqand Province	code	UZ-SA
+Bukhara Province	code	UZ-BU
+Navoiy Province	code	UZ-NW
+Xorazm Province	code	UZ-XO
+Kremnica	code	ZH
+Kežmarok	code	KK
+Nowotaniec	code	KUS, RSA
+Čachtice	code	NM
+Centro Region, Portugal	code	PT
+Trebišov	code	TV
+Dúbravka, Bratislava	code	BA
+Dubnica nad Váhom	code	IL
+Spišská Nová Ves	code	SN
+Modra	code	PK
+Fair Oaks Bridge	code	http://nationalbridges.com/nbi record.php?StateCode&2&amp;struct&
+Old Town, Bratislava	code	BA
+Norte Region, Portugal	code	PT
+Devín	code	BA
+Nové Mesto nad Váhom	code	NM
+Gelnica	code	GL
+Svätý Jur	code	PK
+Leopoldov	code	HC
+Vrbové	code	PN
+Topoľčany	code	TO
+Štúrovo	code	NZ
+Dunajská Streda	code	DS
+Jaslovské Bohunice	code	TT
+Porto Novo, Cape Verde (municipality)	code	13
+Ribeira Grande, Cape Verde (municipality)	code	11
+Paul, Cape Verde	code	12
+Tarrafal, Cape Verde (municipality)	code	71
+São Miguel, Cape Verde	code	76
+Santa Catarina, Cape Verde	code	72
+Santa Cruz, Cape Verde	code	73
+Mosteiros, Cape Verde (municipality)	code	283
+Saint George Parish, Dominica	code	DM-04
+Saint Andrew Parish, Dominica	code	DM-02
+Saint David Parish, Dominica	code	DM-03
+Saint John Parish, Dominica	code	DM-05
+Saint Joseph Parish, Dominica	code	DM-06
+Saint Paul Parish, Dominica	code	DM-10
+Saint Mark Parish, Dominica	code	DM-08
+Saint Peter Parish, Dominica	code	DM-11
+Saint Patrick Parish, Dominica	code	DM-09
+Saint Luke Parish, Dominica	code	DM-07
+Veľké Kapušany	code	MI
+Dobšiná	code	RV
+Dudince	code	KA
+Vrútky	code	MT
+Sereď	code	GA
+Šaľa	code	SA
+Kolárovo	code	KN
+Detva	code	DT
+Bánovce nad Bebravou	code	BN
+Stupava, Malacky District	code	MA
+Skalica	code	SI
+Sughd Province	code	TJ-SU
+Ajuda	code	1349-037                       Lisboa
+Želiezovce	code	LV
+Smoke Creek Desert	code	847489
+Smoke Creek Desert	code	16040203
+Diamond Mountains	code	847307
+Čadca	code	CA
+Šaca	code	KE
+Homestead Grays Bridge	code	[http://nationalbridges.com/nbi record.php?StateCode&#61;42&amp;struct&#61;027301304723920 027301304723920]
+Dedina Mládeže	code	KN
+Šamorín	code	DS
+Radvaň nad Dunajom	code	KN
+Vráble	code	NR
+Alto Trás-os-Montes Subregion	code	.pt
+Lisboa Region	code	PT
+Čierne Kľačany	code	ZM
+Spišské Podhradie	code	LE
+Stará Ľubovňa	code	SL
+Svidník	code	SK
+Svit	code	PP
+Andrejová	code	BJ
+Becherov	code	BJ
+Partizánske	code	PE
+Žiar nad Hronom	code	ZH
+High-water mark of the Confederacy  High Water Mark of the Rebellion Monument   1	code	MN230 (1895 tablet is MN389)
+Ducové	code	PN
+Kysucké Nové Mesto	code	KM
+Nová Dubnica	code	IL
+Revúca	code	RA
+Tvrdošín	code	TS
+Skýcov	code	ZM
+Mošovce	code	TR
+Krompachy	code	SN
+Districts of Republican Subordination	code	TJ-RR
+Crescent Bridge	code	000000004005580
+Vysoké Tatry (town)	code	PP
+Great Western Divide	code	242975
+Blatnica, Slovakia	code	MT
+Turčianske Teplice District	code	TR
+Kalinovo	code	PT
+Stropkov	code	SP
+Sobrance	code	SO
+Senica	code	SE
+Senec, Slovakia	code	SC
+Myjava	code	MY
+Komárov, Bardejov District	code	BJ
+Lamač	code	BA
+Borský Svätý Jur	code	SE
+Donovaly	code	BB
+Rozhanovce	code	KS
+Nimnica	code	PU
+Tekovská Breznica	code	ZC
+Šurany	code	NZ
+Strečno	code	ZA
+Veľký Krtíš	code	VK
+Špania Dolina	code	BB
+Námestovo	code	NO
+Veľký Šariš	code	PO
+Terchová	code	ZA
+Buck Hill Farm Covered Bridge	code	38-36-15
+Cisna	code	RLS
+Dolná Krupá	code	TT
+Dolné Dubové	code	TT
+Dolné Orešany	code	TT
+Horná Krupá	code	TT
+Horné Orešany	code	TT
+Naháč	code	TT
+Suchá nad Parnou	code	TT
+Smolenice	code	TT
+Špačince	code	TT
+Trstín	code	TT
+Dolná Streda	code	GA
+Banská Belá	code	BS
+Ilija	code	BS
+Dekýš	code	BS
+Počúvadlo	code	BS
+Svätý Anton	code	BS
+Štiavnické Bane	code	BS
+Čierny Balog	code	BR
+Michalová	code	BR
+Mýto pod Ďumbierom	code	BR
+Nemecká	code	BR
+Osrblie	code	BR
+Podbrezová	code	BR
+Pohorelá	code	BR
+Polomka	code	BR
+Závadka nad Hronom	code	BR
+Telgárt	code	BR
+Detvianska Huta	code	DT
+Bird's Head Peninsula	code	ID-IJ
+Vígľaš	code	DT
+Boľ	code	TV
+Dargov	code	TV
+Stankovce	code	TV
+Pithole, Pennsylvania	code	73001667
+Margecany	code	GL
+Mníšek nad Hnilcom	code	GL
+Nálepkovo	code	GL
+Evergreen Cemetery (Gettysburg, Pennsylvania)	code	44774
+Spišské Vlachy	code	SN
+Číž	code	RS
+Betliar	code	RV
+Vrbov	code	KK
+Tisinec	code	SP
+Runina	code	SV
+Záhorská Ves	code	MA
+Rusovce	code	BA
+Devínska Nová Ves	code	BA
+Záhorská Bystrica	code	BA
+Jarovce	code	BA
+Bzovík	code	KA
+Drážovce (Banská Bystrica)	code	KA
+Sebechleby	code	KA
+Súdovce	code	KA
+Divín	code	LC
+Lovinobaňa	code	LC
+Halič	code	LC
+Gabčíkovo	code	DS
+Cinobaňa	code	PT
+Batizovce	code	PP
+Poltár	code	PT
+Kšinná	code	BN
+Uhrovec	code	BN
+Muráň	code	RA
+Tornaľa	code	RA
+Jelšava	code	RA
+Hajnáčka	code	RS
+Kráľovský Chlmec	code	TV
+Hnúšťa	code	RS
+Čebovce	code	VK
+Modrý Kameň	code	VK
+Budča	code	ZV
+Zvolenská Slatina	code	ZV
+Sielnica	code	ZV
+Kováčová, Zvolen District	code	ZV
+Očová	code	ZV
+Železná Breznica	code	ZV
+Rudno nad Hronom	code	ZC
+Nová Baňa	code	ZC
+Žarnovica	code	ZC
+Hliník nad Hronom	code	ZH
+Vyhne	code	ZH
+Sklené Teplice	code	ZH
+Krahule	code	ZH
+Kremnické Bane	code	ZH
+Kunešov	code	ZH
+Trnavá Hora	code	ZH
+Nitrianska Blatnica	code	TO
+Blatné	code	SC
+Zborov, Bardejov District	code	BJ
+Zborov nad Bystricou	code	CA
+Predmier	code	BY
+Dlhá nad Oravou	code	DK
+Zázrivá	code	DK
+Istebné	code	DK
+Vyšný Kubín	code	DK
+Kraľovany	code	DK
+Sedliacka Dubová	code	DK
+Oravský Podzámok	code	DK
+Zohor	code	MA
+Lozorno	code	MA
+Marianka	code	MA
+Plavecký Štvrtok	code	MA
+Studienka	code	MA
+Veľké Leváre	code	MA
+Budmerice	code	PK
+Báhoň	code	PK
+Limbach, Slovakia	code	PK
+Šenkvice	code	PK
+Častá	code	PK
+Bernolákovo	code	SC
+Igram	code	SC
+Kaplna	code	SC
+Čataj	code	SC
+Kechnec	code	KS
+Jasov	code	KS
+Kysak	code	KS
+Budimír	code	KS
+Medzev	code	KS
+Moldava nad Bodvou	code	KS
+Herľany	code	KS
+Nižná Myšľa	code	KS
+Ždiar	code	PP
+Turňa nad Bodvou	code	KS
+Pavlovce nad Uhom	code	MI
+Čunovo	code	BA
+Staré Hory	code	BB
+Moravany, Michalovce District	code	MI
+Lesné	code	MI
+Veľké Slemence	code	MI
+Strážske	code	MI
+Krupina	code	KA
+Dedinky	code	RV
+Krásnohorské Podhradie	code	RV
+Kobeliarovo	code	RV
+Stratená	code	RV
+Lekárovce	code	SO
+Ľubietová	code	BB
+Boťany	code	TV
+Slovenské Nové Mesto	code	TV
+Čierna nad Tisou	code	TV
+Sečovce	code	TV
+Betlanovce	code	SN
+Hrabušice	code	SN
+Markušovce	code	SN
+Spišské Tomášovce	code	SN
+Rudňany	code	SN
+Smižany	code	SN
+Žehra	code	SN
+Čaka	code	LV
+Nové Mesto, Bratislava	code	BA
+Kalná nad Hronom	code	LV
+Kozárovce	code	LV
+Nový Tekov	code	LV
+Ondrejovce	code	LV
+Pukanec	code	LV
+Tekovské Lužany	code	LV
+Tlmače	code	LV
+Branč	code	NR
+Horné Lefantovce	code	545635
+Lukáčovce	code	NR
+Madunice	code	HC
+Bíňa	code	NZ
+Gbelce	code	NZ
+Dubník	code	NZ
+Kolta	code	NZ
+Rúbaň	code	NZ
+Strekov	code	NZ
+Zemné	code	NZ
+Veľké Lovce	code	NZ
+Nemčiňany	code	ZM
+Tesárske Mlyňany	code	ZM
+Topoľčianky	code	ZM
+Bajč	code	KN
+Bodza	code	KN
+Marcelová	code	KN
+Martovce	code	KN
+Holiare	code	KN
+Dulovce	code	KN
+Chotín	code	KN
+Imeľ	code	KN
+Iža	code	KN
+Sokolce	code	KN
+Moča	code	KN
+Modrany	code	KN
+Mudroňovo	code	KN
+Kameničná	code	KN
+Zemianska Olča	code	KN
+Nesvady	code	KN
+Klížska Nemá	code	KN
+Zlatná na Ostrove	code	KN
+Okoličná na Ostrove	code	KN
+Veľké Kosihy	code	KN
+Tôň	code	KN
+Trávnik	code	KN
+Pribeta	code	KN
+Lipové	code	KN
+Čalovec	code	KN
+Číčov	code	KN
+Šrobárová	code	KN
+Hurbanovo	code	KN
+Gerlachov, Poprad District	code	PP
+Hertník	code	BJ
+Hervartov	code	BJ
+Krivé	code	BJ
+Lukov	code	BJ
+Šarišské Čierne	code	BJ
+Podunajské Biskupice	code	BA
+Vajnory	code	BA
+Karlova Ves	code	BA
+Rača, Bratislava	code	BA
+Handlová	code	PD
+Holíč	code	SI
+Topoľovka	code	HE
+Vyšný Hrušov	code	HE
+Červený Kláštor	code	KK
+Važec	code	LM
+Gánovce	code	PP
+Štrba	code	PP
+Ľubica	code	KK
+Stará Lesná	code	KK
+Veľká Lomnica	code	KK
+Spišská Belá	code	KK
+Spišská Stará Ves	code	KK
+Spišský Štvrtok	code	LE
+Giraltovce	code	SK
+Stará Turá	code	NM
+Spišský Štiavnik	code	PP
+Tatranská Javorina	code	PP
+Veľký Slavkov	code	PP
+Bajerov	code	PO
+Bertotovce	code	PO
+Brežany	code	PO
+Bzenov	code	PO
+Fričovce	code	PO
+Hendrichovce	code	PO
+Hermanovce	code	PO
+Hrabkov	code	PO
+Chmiňany	code	PO
+Chminianska Nová Ves	code	PO
+Klenov	code	PO
+Nemšová	code	TN
+Šaštín-Stráže	code	SE
+Veľký Meder	code	DS
+Lipany	code	SB
+Turzovka	code	CA
+Krásno nad Kysucou	code	CA
+Brezová pod Bradlom	code	MY
+Rajec	code	ZA
+Štós	code	KS
+Sládkovičovo	code	GA
+Gbely	code	SI
+Hanušovce nad Topľou	code	VT
+Nováky	code	PD
+Podolínec	code	SL
+Rajecké Teplice	code	ZA
+Lazany	code	PD
+Lažany	code	PO
+Miklušovce	code	PO
+Ondrašovce	code	PO
+Ovčie	code	PO
+Čaklov	code	VT
+Rokycany, Prešov District	code	PO
+Ruská Nová Ves	code	PO
+Sedlice, Prešov District	code	PO
+Suchá Dolina	code	PO
+Piskorovce	code	VT
+Soľ	code	VT
+Nižný Hrušov	code	VT
+Víťaz	code	PO
+Zlatá Baňa	code	PO
+Široké	code	PO
+Žipov	code	PO
+Vyšný Komárnik	code	SK
+Radoma	code	SK
+Vagrinec	code	SK
+Matovce	code	SK
+Šarišský Štiavnik	code	SK
+Valkovce	code	SK
+Krajná Bystrá	code	SK
+Krajná Porúbka	code	SK
+Krajné Čierno	code	SK
+Mlynárovce	code	SK
+Soboš	code	SK
+Svidnička	code	SK
+Šarbov	code	SK
+Štefurov	code	SK
+Vápeník	code	SK
+Vyšná Pisaná	code	SK
+Vyšný Mirošov	code	SK
+Vyšný Orlík	code	SK
+Daletice	code	SB
+Jarovnice	code	SB
+Vislava	code	SP
+Vojtovce	code	SP
+Kolbovce	code	SP
+Havaj	code	SP
+Makovce	code	SP
+Turany nad Ondavou	code	SP
+Varechovce	code	SP
+Vyšná Olšava	code	SP
+Vyšný Hrabovec	code	SP
+Uličské Krivé	code	SV
+Kožuchovce	code	SP
+Strihovce	code	SV
+Lomné	code	SP
+Nižná Olšava	code	SP
+Miňovce	code	SP
+Veľkrop	code	SP
+Mrázovce	code	SP
+Šandal	code	SP
+Tokajík	code	SP
+Kolonica	code	SV
+Stakčín	code	SV
+Sulín	code	SL
+Vyšné Ružbachy	code	SL
+Horná Poruba	code	IL
+Pruské	code	IL
+Zliechov	code	IL
+Košariská	code	MY
+Beckov	code	NM
+Bošáca	code	NM
+Papradno	code	513466
+Haluzice, Nové Mesto nad Váhom District	code	NM
+Hrádok	code	NM
+Kálnica	code	NM
+Modrovka	code	NM
+Pobedim	code	NM
+Veľké Uherce	code	PE
+Lednica, Púchov District	code	PU
+Lehota pod Vtáčnikom	code	PD
+Oslany	code	PD
+Dolné Vestenice	code	PD
+Zemianske Kostoľany	code	PD
+Cigeľ	code	PD
+Čereňany	code	PD
+Poruba, Prievidza District	code	PD
+Pravenec	code	PD
+Sebedražie	code	PD
+Trenčianska Turná	code	TN
+Okoč	code	DS
+Banka, Piešťany District	code	PN
+Brodské	code	SI
+Baláže	code	BB
+Hubina	code	PN
+Moravany nad Váhom	code	PN
+Borský Mikuláš	code	SE
+Sekule	code	SE
+Rohov, Senica District	code	SE
+Kuklov	code	SE
+Čáry	code	SE
+Jablonica	code	SE
+Hlboké	code	SE
+Hradište pod Vrátnom	code	SE
+Kúty	code	SE
+Moravský Svätý Ján	code	SE
+Štefanov	code	SE
+Prievaly	code	SE
+Rovensko	code	504777
+Sobotište	code	SE
+Podbranč	code	SE
+Smrdáky	code	SE
+Hrochoť	code	BB
+Badín	code	BB
+Hiadeľ	code	BB
+Čerín	code	BB
+Petrova Ves	code	SI
+Kopčany	code	SI
+Letničie	code	SI
+Bešeňová	code	RK
+Unín, Skalica District	code	SI
+Lúčky, Ružomberok District	code	RK
+Abramová	code	TR
+Dolná Mičiná	code	BB
+Petrovice, Bytča District	code	BY
+Dolný Harmanec	code	BB
+Súľov-Hradná	code	BY
+Dúbravica	code	BB
+Zuberec	code	TS
+Horná Mičiná	code	BB
+Horné Pršany	code	BB
+Hronsek	code	BB
+Nižná, Tvrdošín District	code	TS
+Makov	code	CA
+Oščadnica	code	CA
+Svrčinovec	code	CA
+Nová Bystrica	code	CA
+Skalité	code	CA
+Staškov	code	CA
+Veličná	code	DK
+Leštiny	code	DK
+Párnica	code	DK
+Višňové (Žilina District)	code	ZA
+Ochodnica	code	KM
+Nesluša	code	KM
+Habovka	code	TS
+Liesek	code	TS
+Hladovka	code	TS
+Vitanová	code	TS
+Podbiel	code	TS
+Suchá Hora	code	TS
+Lietava	code	ZA
+Lietavská Svinná-Babkov	code	ZA
+Varín	code	ZA
+Liptovské Matiašovce	code	LM
+Demänovská Dolina	code	LM
+Pribylina	code	LM
+Hybe	code	LM
+Východná	code	LM
+Liptovský Ján	code	LM
+Blažovce	code	TR
+Háj, Turčianske Teplice District	code	TR
+Veľký Čepčín	code	TR
+Jasenovo, Slovakia	code	TR
+Jazernica	code	TR
+Bodorová	code	TR
+Horná Štubňa	code	TR
+Borcová	code	TR
+Ivančiná	code	TR
+Čremošné	code	TR
+Liešno	code	TR
+Dubové, Turčianske Teplice District	code	TR
+Brieštie	code	TR
+Budiš	code	TR
+Rakša	code	TR
+Zubrohlava	code	NO
+Oravská Lesná	code	NO
+Oravská Polhora	code	NO
+Mútne	code	NO
+Kláštor pod Znievom	code	MT
+Košťany nad Turcom	code	MT
+Sučany	code	MT
+Sklabiňa	code	MT
+Lisková	code	RK
+Ludrová	code	RK
+Philmont, New York	code	672
+Brusno	code	BB
+Tajov	code	BB
+Nemce	code	BB
+Oravce	code	BB
+Podkonice	code	BB
+Harmanec	code	BB
+Kordíky	code	BB
+Slovenská Ľupča	code	BB
+Pohronský Bukovec	code	BB
+Malachov	code	BB
+Medzibrod	code	BB
+Poniky	code	BB
+Selce, Banská Bystrica District	code	BB
+Králiky	code	BB
+Lučatín	code	BB
+Strelníky	code	BB
+Povrazník	code	BB
+Priechod	code	BB
+Kynceľová	code	BB
+Turecká	code	BB
+Vlkanová	code	BB
+Sebedín-Bečov	code	BB
+Riečka, Banská Bystrica District	code	BB
+Môlča	code	BB
+Moštenica	code	BB
+Motyčky	code	BB
+Market Street Bridge (Harrisburg)	code	223012003000000
+Talamanca Canton	code	CR-L
+State Street Bridge (Harrisburg, Pennsylvania)	code	223014003001900
+Komańcza	code	KUS, RSA
+Bukowsko	code	KUS, RSA
+Wola Piotrowa	code	KUS, RSA
+Wola Sękowa	code	KUS, RSA
+North Fork Feather River	code	264163
+North Fork Feather River	code	18020121
+Gudgeonville Covered Bridge	code	[http://nationalbridges.com/nbi record.php?StateCode&#61;42&amp;struct&#61;257207040040080 257207040040080]
+Luník IX	code	KE
+Cogan House Covered Bridge	code	417208078401120
+Podlužany, Bánovce nad Bebravou District	code	BN
+Baškovce, Sobrance District	code	SO
+I Street Bridge	code	http://nationalbridges.com/nbi record.php?StateCode&2&amp;struct&
+West Branch Feather River	code	268869
+Praia, Cape Verde (municipality)	code	74
+Kostoľany nad Hornádom	code	KS
+Vyšný Medzev	code	KS
+Deadman Creek	code	259131
+Fall River (Shasta County, California)	code	260032
+Wisłok Wielki	code	KUS, RSA
+Kudobin Islands	code	[ 1405002]
+Seal Islands (Aleutians East)	code	[ 1409191]
+Walrus and Kritskoi Islands	code	[ 1419454]
+Walrus and Kritskoi Islands  Kritskoi   1	code	[ 1418819]
+Buttonwood Covered Bridge	code	417215081601110
+Sonestown Covered Bridge	code	567203031000020
+Forksville Covered Bridge	code	564012001000500
+Hillsgrove Covered Bridge	code	567207035700040
+Port of Cleveland	code	[ 1072326]
+Dixie Valley	code	16060001
+São Vicente, Cape Verde (municipality)	code	21
+Sal, Cape Verde (municipality)	code	41
+Bratislava	code	BA, BL
+Guantánamo Province	code	+53-021
+Humboldt Salt Marsh	code	858027
+Goodpasture Bridge	code	39C118109400001
+Waterford Covered Bridge	code	257220046340030
+Watts Mill Bridge	code	044009006000000
+Plunketts Creek Bridge No. 3	code	PA-418
+Diamond Mountains (California)	code	1659718 (1962)
+Fletcher Covered Bridge	code	00000000017A032
+Brava, Cape Verde (municipality)	code	91
+Boa Vista, Cape Verde (municipality)	code	51
+Maio, Cape Verde (municipality)	code	61
+San Juan Province (Dominican Republic)	code	1-809 1-829 1-849
+Lower Humbert Covered Bridge	code	[http://nationalbridges.com/nbi record.php?StateCode&#61;42&amp;struct&#61;557213031230350 557213031230350]
+Wintergreen Gorge Bridge	code	250290008000920
+Gross Covered Bridge	code	547211181200060
+Arbor Hill, Albany, New York	code	518
+Tech Valley	code	518 and 845
+Round Top, Pennsylvania	code	1185538 (1979)
+Pitzer Woods	code	ID56
+Mayabeque Province	code	+53-47
+Groesbeckville, Albany, New York	code	518
+Pithole Stone Arch Bridge	code	601004012000000
+New Paltz (village), New York	code	255, 256
+New Paltz, New York	code	255, 256
+Lake George (village), New York	code	668
+Cambridge (village), New York	code	677
+Artemisa Province	code	+53-47
+Woodlawn, Schenectady, New York	code	518
+Mont Pleasant, Schenectady, New York	code	518
+Bellevue, Schenectady, New York	code	518
+Downtown Schenectady	code	518
+Pine Hills, Albany, New York	code	518
+Sheridan Hollow, Albany, New York	code	518
+North Albany, Albany, New York	code	518
+Rock Creek (Owens River)	code	234580
+South Fork Feather River	code	267458
+Carson Desert	code	16050203
+Sutter Basin	code	233372
+Fall River (Plumas County, California)	code	233868
+Sachs Covered Bridge	code	38-01-01
+Eternal Light Peace Memorial	code	MN260
+North Carolina Monument	code	75000155
+North Carolina Monument	code	01/24/2004
+North Carolina Monument	code	MN071-F
+Inclined Plane Bridge	code	113022001000000
+McMillan Woods	code	ID52
+McMillan Woods	code	1180785
+Pennsylvania State Memorial	code	75000155
+Pennsylvania State Memorial	code	01/24/2004
+Pennsylvania State Memorial	code	MN260
+The Angle	code	ID70
+Carmichaels Covered Bridge	code	307401901520110
+Dolný Kubín	code	DK
+Barlow, Pennsylvania	code	1203021
+72nd Pennsylvania Infantry Monument	code	75000155
+72nd Pennsylvania Infantry Monument	code	MN226, MN227
+Pine Grove Iron Works	code	77001158
+Pine Grove Iron Works	code	1198297 (village)
+Pine Grove Iron Works	code	1207388 (furnace stack)
+Virginia Monument	code	75000155
+Virginia Monument	code	01/24/2004
+Virginia Monument	code	MN072-B
+Spangler Woods	code	75000155
+Spangler Woods	code	ID59
+Spangler Woods	code	n/a
+Spangler Spring	code	ID67
+Biesecker Woods	code	ID47
+Soldiers' National Monument	code	75000155
+Soldiers' National Monument	code	01/23/2004
+Soldiers' National Monument	code	009949/MN288
+Jersey Bridge	code	601011001014800
+Maria Furnace	code	1180406

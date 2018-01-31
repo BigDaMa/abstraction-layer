@@ -1,0 +1,521 @@
+Adrenal gland	meshNumber	A06.407.071
+Clitoris	meshNumber	A05.360.319.887.436
+Clitoris  Human vulva   1	meshNumber	A05.360.319.887
+Endometrium	meshNumber	A05.360.319.679.490
+Entorhinal cortex	meshNumber	A08.186.211.577.710.225
+Foot	meshNumber	A01.378.610.250
+Glottis	meshNumber	A04.329.364
+Ovary	meshNumber	A05.360.319.114.630
+Spermatozoon	meshNumber	A05.360.490.890
+Skin  Dermis   1	meshNumber	A17.815.180
+Thyroid	meshNumber	A06.407.900
+Uterus	meshNumber	A05.360.319.679
+Urethra	meshNumber	A05.360.444.492.726
+Urinary bladder	meshNumber	A05.810.161
+Vagina	meshNumber	A05.360.319.779
+Vagus nerve	meshNumber	A08.800.800.122.901
+Pancreas	meshNumber	A03.734
+Mesoderm	meshNumber	A16.254.425.660
+Human leg	meshNumber	A01.378.610.500
+Stomach	meshNumber	A03.556.875.875
+Peritoneum	meshNumber	A01.047.025.600
+Spleen	meshNumber	A10.549.700
+Substantia nigra	meshNumber	A08.186.211.132.659.687
+Retina	meshNumber	A09.371.729
+Cerebellum	meshNumber	A08.186.211.132.810.428.200
+Face	meshNumber	A01.456.505
+Prostate	meshNumber	A05.360.444.575
+Outer ear	meshNumber	A09.246.272
+Inner ear	meshNumber	A09.246.631
+Middle ear	meshNumber	A09.246.397
+Tongue	meshNumber	A03.556.500.885
+Thymus	meshNumber	A10.549.750
+Pituitary gland	meshNumber	A06.407.747
+Hypothalamus	meshNumber	A08.186.211.730.385.357
+Human pharynx	meshNumber	A03.556.750
+Optic chiasm	meshNumber	A08.800.800.120.680.600
+Carpus	meshNumber	A02.835.232.087.144
+Abdominal cavity	meshNumber	A01.047.025
+Duodenum	meshNumber	A03.556.124.684.124
+Thalamus	meshNumber	A08.186.211.730.385.826
+Hymen	meshNumber	A05.360.319.779.479
+Ossicles	meshNumber	A09.246.397.247
+Incus	meshNumber	A09.246.397.247.362
+Malleus	meshNumber	A09.246.397.247.524
+Stapes	meshNumber	A09.246.397.247.806
+Basal ganglia	meshNumber	A08.186.211.730.885.105
+Cecum	meshNumber	A03.556.124.526.209
+Jejunum	meshNumber	A03.556.124.684.500
+Vermiform appendix	meshNumber	A03.556.124.526.209.290
+Small intestine	meshNumber	A03.556.124.684
+Oval window	meshNumber	A09.246.631.909.551
+Eardrum	meshNumber	A09.246.272.702
+Cochlea	meshNumber	A09.246.631.246
+Coronary circulation	meshNumber	A07.231.114.269
+Neurolemma	meshNumber	Neurilemma
+Bartholin's gland	meshNumber	A05.360.319.887.220
+Esophagus	meshNumber	A03.556.875.500
+Palatine uvula	meshNumber	A14.549.617.780.729
+Palate	meshNumber	A14.521.658
+Bulbourethral gland	meshNumber	A05.360.444.123
+Amnion	meshNumber	A10.615.284.277
+Ureter	meshNumber	A05.810.776
+Femur	meshNumber	A02.835.232.500.247
+Clavicle	meshNumber	A02.835.232.087.227
+Acetabulum	meshNumber	A02.835.232.611.108
+Knee	meshNumber	A01.378.610.450
+Thumb	meshNumber	A01.378.800.667.430.705
+Pleural cavity	meshNumber	A01.911.800.650
+Olfactory nerve	meshNumber	A08.800.800.120.640
+Canine tooth	meshNumber	A14.549.167.860.200
+Temporomandibular joint	meshNumber	A02.835.583.861
+Medulla oblongata	meshNumber	A08.186.211.132.810.406
+Salivary gland	meshNumber	A03.556.500.760
+Intervertebral disc	meshNumber	A02.165.308.410
+Ulna	meshNumber	A02.835.232.087.090.850
+Scapula	meshNumber	A02.835.232.087.783
+Coccyx	meshNumber	A02.835.232.834.229
+Vertebral subluxation	meshNumber	A08.800.800.720.725
+Abducens nerve	meshNumber	A08.800.800.120.030
+Facial nerve	meshNumber	A08.800.800.120.250
+Subarachnoid space	meshNumber	A08.186.566.166.686
+Humerus	meshNumber	A02.835.232.087.090.400
+Radial nerve	meshNumber	A08.800.800.720.050.700
+Pons	meshNumber	A08.186.211.132.810.428.600
+Brachial artery	meshNumber	A07.231.114.139
+Brachial plexus	meshNumber	A08.800.800.720.050
+Xiphoid process	meshNumber	A02.835.232.904.766.825
+Sacrum	meshNumber	A02.835.232.834.717
+Sclera	meshNumber	A09.371.784
+Brainstem	meshNumber	A08.186.211.132
+Eustachian tube	meshNumber	A09.246.397.369
+Wrist	meshNumber	A02.835.583.405.930
+Hepatic portal vein	meshNumber	A07.231.908.670.567
+Mitral valve	meshNumber	A07.541.510.507
+Tricuspid valve	meshNumber	A07.541.510.893
+Venae cavae	meshNumber	A07.231.908.949
+Forearm	meshNumber	A01.378.800.585
+Brachiocephalic artery	meshNumber	A07.231.908.130
+Femoral artery	meshNumber	A07.231.114.35
+Great saphenous vein	meshNumber	A07.231.908.819
+Spinal nerve	meshNumber	A08.800.800.720
+Cauda equina	meshNumber	A08.800.800.720.725.150
+Ulnar nerve	meshNumber	A08.800.800.720.050.850
+Brachiocephalic vein	meshNumber	A07.231.908.130
+Superior vena cava	meshNumber	A07.231.908.949.815
+Inferior vena cava	meshNumber	A07.231.908.949.648
+Maxilla	meshNumber	A02.835.232.781.324.502.645
+Trapezoid bone	meshNumber	A02.835.232.087.319.150.805
+Cuboid bone	meshNumber	A02.835.232.043.300.710
+Oculomotor nerve	meshNumber	A08.800.800.120.600
+Trochlear nerve	meshNumber	A08.800.800.120.800
+Vestibulocochlear nerve	meshNumber	A08.800.800.120.910
+Trigeminal nerve	meshNumber	A08.800.800.120.760
+Glossopharyngeal nerve	meshNumber	A08.800.800.120.290
+Hypoglossal nerve	meshNumber	A08.800.800.120.330
+Accessory nerve	meshNumber	A08.800.800.120.060
+Trapezium (bone)	meshNumber	A02.835.232.087.319.150.800
+Circle of Willis	meshNumber	A07.231.114.228.351
+Tibia	meshNumber	A02.835.232.043.650.883
+Pericardium	meshNumber	A07.541.795
+Hyoid bone	meshNumber	A02.835.232.409
+Left ventricle	meshNumber	A07.541.560
+Right ventricle	meshNumber	A07.541.560
+Right atrium	meshNumber	A07.541.358
+Corpus callosum	meshNumber	A08.186.211.730.885.362
+Ventricular system	meshNumber	A08.186.211.276
+Foramen magnum	meshNumber	A02.835.232.781.572.434
+Subclavian artery	meshNumber	A07.231.114.839
+Soft palate	meshNumber	A14.549.617.780
+Taste bud	meshNumber	A03.556.500.885.779
+Oropharynx	meshNumber	A04.623.603
+Nasopharynx	meshNumber	A04.623.557
+Semicircular canal	meshNumber	A09.246.631.663
+Mandibular nerve	meshNumber	A08.800.800.120.760.500
+Human sternum	meshNumber	A02.835.232.904.766
+Bronchus	meshNumber	A04.411.125
+Patella	meshNumber	A02.835.232.043.650.624
+Ethmoid bone	meshNumber	A02.835.232.781.292
+Sphenoid bone	meshNumber	A02.835.232.781.802
+Palatine bone	meshNumber	A02.835.232.781.324.502.660
+Frontal bone	meshNumber	A02.835.232.781.375
+Parietal bone	meshNumber	A02.835.232.781.651
+Ectoderm	meshNumber	A16.254.425.273
+Endoderm	meshNumber	A16.254.425.407
+Thoracic diaphragm	meshNumber	A02.633.567.900.300
+Vomer	meshNumber	A02.165.407.600
+Fibula	meshNumber	A02.835.232.043.650.321
+Metatarsus	meshNumber	A01.378.610.250.300.480
+Metacarpus	meshNumber	A01.378.800.667.572
+Chorion	meshNumber	A10.615.284.473
+Incisor	meshNumber	A14.549.167.860.425
+Parotid gland	meshNumber	A03.556.500.760.464
+Anterior pituitary	meshNumber	A06.407.747.608
+Ankle	meshNumber	A02.835.583.378.062
+Epiglottis	meshNumber	A02.165.257.625.411
+Seminal vesicle	meshNumber	A05.360.444.713
+Dentate gyrus	meshNumber	A08.186.211.577.405.200
+Achilles tendon	meshNumber	A02.880.176
+Meninges	meshNumber	A08.186.566
+Epididymis	meshNumber	A05.360.444.371
+Vas deferens	meshNumber	A05.360.444.930
+Ejaculatory duct	meshNumber	A05.360.444.251
+Spermatic cord	meshNumber	A05.360.444.777
+Forehead	meshNumber	A01.456.505.580
+External carotid artery	meshNumber	A07.231.114.186.200.210
+Cingulate cortex	meshNumber	A08.186.211.577.330
+Epiphysis	meshNumber	A02.835.232.251
+Inguinal canal	meshNumber	A01.047.412
+Scaphoid bone	meshNumber	A02.835.232.087.319.150.750
+Blastocyst	meshNumber	A16.254.085
+Caudate nucleus	meshNumber	A08.186.211.730.885.105.487.550.184
+Nasal cavity	meshNumber	A04.531.449
+Pia mater	meshNumber	A08.186.566.731
+Capitate bone	meshNumber	A02.835.232.087.319.150.150
+Hamate bone	meshNumber	A02.835.232.087.319.150.400
+Lunate bone	meshNumber	A02.835.232.087.144.663
+Olfactory bulb	meshNumber	A08.186.211.577.699.573
+Olfactory bulb	meshNumber	NeuroLex = Olfactory bulb
+Sebaceous gland	meshNumber	A10.336.827
+Parietal lobe	meshNumber	A08.186.211.730.885.213.670
+Temporal lobe	meshNumber	A08.186.211.730.885.213.863
+Frontal lobe	meshNumber	A08.186.211.730.885.213.270
+Occipital lobe	meshNumber	A08.186.211.730.885.213.571
+Human lung	meshNumber	A04.411
+Globus pallidus	meshNumber	A08.186.211.730.885.105.487.397
+Midbrain	meshNumber	A08.186.211.132.659
+Cerebral peduncle	meshNumber	A08.186.211.132.659
+Rhinencephalon	meshNumber	A08.186.211.577.699
+Raphe nuclei	meshNumber	A08.186.211.132.659.632
+Basilar membrane	meshNumber	A09.246.631.246.125
+Pharyngeal tonsil	meshNumber	A10.549.100
+Calcaneus	meshNumber	A02.835.232.043.300.710.300
+Human heart	meshNumber	A07.541
+Pulmonary artery	meshNumber	A07.231.114.715
+Internal carotid artery	meshNumber	A07.231.114.186.200.230
+Posterior pituitary	meshNumber	A06.407.747.734
+Mammillary body	meshNumber	A08.186.211.730.385.357.362.500
+Choroid plexus	meshNumber	A08.186.211.276.298
+Nasal concha	meshNumber	A02.835.232.781.324.948
+Utricle (ear)	meshNumber	A09.246.631.909.625
+Saccule	meshNumber	A09.246.631.909.625
+Retroperitoneal space	meshNumber	A01.047.025.750
+Choroid	meshNumber	A09.371.894.223
+Fornix of brain	meshNumber	A08.186.211.577.265
+Loop of Henle	meshNumber	A05.810.453.736.560.610
+Nucleus accumbens	meshNumber	A08.186.211.730.885.105.683
+Scalp	meshNumber	A01.456.810
+Claustrum	meshNumber	A08.186.211.730.885.105
+Oocyte	meshNumber	A05.360.490.690.680
+Fascia	meshNumber	D005205
+Organ of Corti	meshNumber	A09.246.631.246.577
+Orbit (anatomy)	meshNumber	A02.835.232.781.324.690
+Seminiferous tubule	meshNumber	A05.360.444.849.700
+Radius (bone)	meshNumber	A02.835.232.087.090.700
+Renal medulla	meshNumber	A05.810.453.466
+Sinoatrial node	meshNumber	A07.541.409.819
+Corticospinal tract	meshNumber	A08.186.854.633
+Pulmonary vein	meshNumber	A07.231.908.713
+Notochord	meshNumber	A16.254.610
+Supraoptic nucleus	meshNumber	A08.186.211.730.385.357.342.650
+Paraventricular nucleus of hypothalamus	meshNumber	A08.186.211.730.385.357.342.400
+Suprachiasmatic nucleus	meshNumber	A08.186.211.730.385.357.342.625
+Sertoli cell	meshNumber	A05.360.444.849.789
+Hard palate	meshNumber	A02.835.232.781.324.502.660
+Pulmonary valve	meshNumber	A07.541.510.738
+Cerebral aqueduct	meshNumber	A08.186.211.132.659.822.187
+Pisiform bone	meshNumber	A02.835.232.087.319.150.600
+Triquetral bone	meshNumber	A02.835.232.087.319.150.831
+Celiac plexus	meshNumber	A08.800.050.050.150
+Dura mater	meshNumber	A08.186.566.395
+Mesentery	meshNumber	A01.047.025.600.451
+Olfactory epithelium	meshNumber	A04.531.520.573
+Submandibular gland	meshNumber	A03.556.500.760.812
+Glomerulus	meshNumber	A05.810.453.324.359
+Pulvinar nuclei	meshNumber	A08.186.211.730.385.826.701.485.600
+Upper limb	meshNumber	A01.378.800
+Renal cortex	meshNumber	A05.810.453.324
+Renal pelvis	meshNumber	A05.810.453.537
+Solitary nucleus	meshNumber	A08.186.211.132.810.406.750
+Azygos vein	meshNumber	A07.231.908.106
+Radial artery	meshNumber	A07.231.114.740
+Ductus arteriosus	meshNumber	A07.541.278.395
+Midbrain tegmentum	meshNumber	A08.186.211.132.659.822
+Auerbach's plexus	meshNumber	A08.800.050.050.500
+Cheek	meshNumber	A01.456.505.173
+Umbilical artery	meshNumber	A07.231.114.929
+Bowman's membrane	meshNumber	A09.371.060.217.113
+Arcuate nucleus	meshNumber	A08.186.211.730.385.357.352.081
+Diencephalon	meshNumber	A08.186.211.730.385
+Tactile corpuscle	meshNumber	A08.800.550.700.500
+Axilla	meshNumber	A01.378.800.090
+Paramesonephric duct	meshNumber	A16.254.570
+Ovarian follicle	meshNumber	A05.360.319.114.630.535
+Eyelid	meshNumber	A01.456.505.420.504
+Spinal canal	meshNumber	A02.835.232.834.803
+Nasolacrimal duct	meshNumber	A09.371.463.640
+Conjunctiva	meshNumber	A09.371.192
+Diaphysis	meshNumber	A02.835.232.169
+Gingiva	meshNumber	A14.549.167.646.480
+Popliteal artery	meshNumber	A07.231.114.681
+Trophoblast	meshNumber	A16.254.085.162
+Endolymph	meshNumber	A12.207.270.517.324
+Uvea	meshNumber	A09.371.894
+Fourth ventricle	meshNumber	A08.186.211.276.500
+Interneuron	meshNumber	A08.663.358
+Abdominal aorta	meshNumber	A07.231.114.056.205
+Septum pellucidum	meshNumber	A08.186.211.276.814
+Sublingual gland	meshNumber	A03.556.500.760.687
+Nasal septum	meshNumber	A02.165.407.600
+Somite	meshNumber	A16.254.425.660.750
+Ciliary body	meshNumber	A09.371.894.280
+Optic disc	meshNumber	A08.800.800.120.680.660
+Spermatid	meshNumber	A05.360.490.890.860
+Zona pellucida	meshNumber	A05.360.490.690.950
+Inferior colliculus	meshNumber	A08.186.211.132.659.237.364
+Superior colliculus	meshNumber	A08.186.211.132.659.237.816
+Rete testis	meshNumber	A05.360.444.849.600
+Median eminence	meshNumber	A08.186.211.730.385.357.352.435.249
+Allantois	meshNumber	A10.615.284.147
+Pulp (tooth)	meshNumber	A14.549.167.900.260
+Yolk sac	meshNumber	A10.615.284.981
+Ependyma	meshNumber	A08.186.211.276.460
+Dorsal root ganglion	meshNumber	A08.340.390.340
+Carotid sinus	meshNumber	A07.231.114.186.456
+Cervical vertebrae	meshNumber	A02.835.232.834.151
+Thoracic vertebrae	meshNumber	A02.835.232.834.892
+Subthalamic nucleus	meshNumber	A08.186.211.730.385.800.800
+Jugular vein	meshNumber	A07.231.908.498
+Lamellar corpuscle	meshNumber	A08.800.550.700.500.700
+Aortic body	meshNumber	A08.800.550.700.120.600.050
+Premolar	meshNumber	A14.549.167.860.150
+Serous membrane	meshNumber	A10.615.789
+Epithalamus	meshNumber	A08.186.211.577.200
+Renal artery	meshNumber	A07.231.114.745
+Spermatocyte	meshNumber	A05.360.490.890.880
+Periaqueductal gray	meshNumber	A08.186.211.132.659.822.595
+Lateral ventricles	meshNumber	A08.186.211.276.650
+Reticular formation	meshNumber	A08.186.211.132.772
+External jugular vein	meshNumber	A07.231.908.498
+Internal jugular vein	meshNumber	A07.231.908.498
+Olivary body	meshNumber	A08.186.211.132.810.406.574
+Inferior olivary nucleus	meshNumber	A08.186.211.132.810.406.574
+Hypopharynx	meshNumber	A04.623.490
+Renal vein	meshNumber	A07.231.908.752
+Trabecular meshwork	meshNumber	A09.371.060.932
+Pyloric antrum	meshNumber	A03.556.875.875.716
+Recto-uterine pouch	meshNumber	A01.047.025.600.225
+Basilar artery	meshNumber	A07.231.114.106
+Vertebral artery	meshNumber	A07.231.114.839
+Interventricular foramina (neural anatomy)	meshNumber	A08.186.211.276
+Celiac artery	meshNumber	A07.231.114.207
+Anal canal	meshNumber	A03.556.124.526.070
+Stellate ganglion	meshNumber	A08.340.315.350.800
+Spermatogonium	meshNumber	A05.360.490.890.900
+Descending aorta	meshNumber	A07.231.114.056.372
+Acromioclavicular joint	meshNumber	A02.835.583.032
+Superior mesenteric artery	meshNumber	A07.231.114.565.755
+Posterior cranial fossa	meshNumber	A01.456.830.200
+Chordae tendineae	meshNumber	A07.541.510.240
+Epineurium	meshNumber	A08.800.800
+Prefrontal cortex	meshNumber	A08.186.211.730.885.213.270.700
+Popliteal vein	meshNumber	A07.231.908.641
+Dental alveolus	meshNumber	A02.835.232.781.324.502.125.800
+Anterior cerebral artery	meshNumber	A07.231.114.228.100
+Cricoid cartilage	meshNumber	A02.165.507.211
+Femoral vein	meshNumber	A07.231.908.314
+Red nucleus	meshNumber	A08.186.211.132.659.822.642
+Otolith	meshNumber	A09.246.631.909.625.125.680
+Thyroid cartilage	meshNumber	A02.165.257.625.870
+Subfornical organ	meshNumber	A08.713.840
+Dental papilla	meshNumber	A14.549.167.900.720.250
+Ultimopharyngeal body	meshNumber	A13.939
+Pancreatic duct	meshNumber	A03.734.667
+Meibomian gland	meshNumber	A09.371.337.614
+Subclavian vein	meshNumber	A07.231.908.877
+Chorda tympani	meshNumber	A08.800.800.120.250.120
+Ophthalmic artery	meshNumber	A07.231.114.622
+Central retinal artery	meshNumber	A07.231.114.765
+Pituitary stalk	meshNumber	A06.407.747
+Lentiform nucleus	meshNumber	A08.186.211.730.885.105.487
+Hip	meshNumber	A01.378.610.400
+Ulnar artery	meshNumber	A07.231.114.920
+Axillary artery	meshNumber	A07.231.114.085
+Internal thoracic artery	meshNumber	A07.231.114.891.525
+Inferior mesenteric artery	meshNumber	A07.231.114.565.510
+Splenic artery	meshNumber	A07.231.114.814
+Splenic vein	meshNumber	A07.231.908.670.730
+Maxillary sinus	meshNumber	A04.531.621.578
+Axillary vein	meshNumber	A07.231.908.077
+Oogonium	meshNumber	A05.360.490.690.700
+Rhombencephalon	meshNumber	A08.186.211.132.810
+Myelencephalon	meshNumber	A08.186.211.132.810.406
+Metencephalon	meshNumber	A08.186.211.132.810.428
+Subiculum	meshNumber	A08.186.211.577.405
+Parahippocampal gyrus	meshNumber	A08.186.211.577.710
+Tunica intima	meshNumber	A07.231.330.800
+Tunica media	meshNumber	A02.633.570.491.800
+Arytenoid cartilage	meshNumber	A02.165.507.083
+Cisterna magna	meshNumber	A08.186.566.166.686.351
+Tibial nerve	meshNumber	A08.800.800.720.450.760.820
+Common carotid artery	meshNumber	A07.231.114.186.200
+Lesser omentum	meshNumber	A01.047.025.600.573
+Subthalamus	meshNumber	A08.186.211.730.385.800
+Corpora quadrigemina	meshNumber	A08.186.211.132.659.237
+Foramen ovale (heart)	meshNumber	A07.541.459
+Arachnoid mater	meshNumber	A08.186.566.166
+Frenulum of tongue	meshNumber	A14.549.885.431
+Posterior root of spinal nerve	meshNumber	A08.800.800.720.725
+Anterior root of spinal nerve	meshNumber	A08.800.800.720.725
+Interventricular septum	meshNumber	A07.541.459
+Parotid duct	meshNumber	A03.556.500.760.640
+Talus bone	meshNumber	A02.835.232.043.300.710.780
+Glenohumeral joint	meshNumber	A02.835.583.748
+Ethmoid sinus	meshNumber	A04.531.621.267
+Ventromedial nucleus	meshNumber	A08.186.211.730.385.357.352.953
+Ampulla of Vater	meshNumber	A03.159.183.079.300.950
+Interatrial septum	meshNumber	A07.541.459
+Posterior cerebral artery	meshNumber	A07.231.114.228.700
+Thoracic aorta	meshNumber	A07.231.114.056.372
+Intercostal nerves	meshNumber	A08.800.800.720.800.350
+Cochlear nerve	meshNumber	A08.800.800.120.910.120
+Vestibular nerve	meshNumber	A08.800.800.120.910.900
+Cavernous sinus	meshNumber	A07.231.908.224
+Mesonephros	meshNumber	A16.254.500
+Maxillary nerve	meshNumber	A08.800.800.120.760.550
+Ophthalmic nerve	meshNumber	A08.800.800.120.760.650
+Pharyngeal arch	meshNumber	A16.254.160
+First pharyngeal arch	meshNumber	A16.254.160
+Omental bursa	meshNumber	A01.047.025.600.678
+Frontal sinus	meshNumber	A04.531.621.387
+Decidua	meshNumber	A16.759.289
+Internal iliac artery	meshNumber	A07.231.114.444
+Ilium (bone)	meshNumber	A02.835.232.611.434
+Metacarpophalangeal joint	meshNumber	A02.835.583.345.512
+Scala tympani	meshNumber	A09.246.631.246.848
+Cochlear duct	meshNumber	A09.246.631.246.292
+Cortical reaction	meshNumber	A05.360.490.690.950
+List of thalamic nuclei	meshNumber	A08.186.211.730.385.826.701
+Aortic arch	meshNumber	A07.231.114.056.372
+Syncytiotrophoblast	meshNumber	A16.254.085.162
+Femoral nerve	meshNumber	A08.800.800.720.450.250
+Dural venous sinuses	meshNumber	A07.231.908.224
+Confluence of sinuses	meshNumber	A07.231.908.224
+Straight sinus	meshNumber	A07.231.908.224
+Occipital sinus	meshNumber	A07.231.908.224
+Superior sagittal sinus	meshNumber	A07.231.908.224
+Inferior sagittal sinus	meshNumber	A07.231.908.224
+Superior petrosal sinus	meshNumber	A07.231.908.224
+Inferior petrosal sinus	meshNumber	A07.231.908.224
+Subtalar joint	meshNumber	A02.835.583.378.831.780
+Lumbar plexus	meshNumber	A08.800.800.720.450
+Ischium	meshNumber	A02.835.232.611.548
+Pubis (bone)	meshNumber	A02.835.232.611.781
+Ileocecal valve	meshNumber	A03.556.124.684.249.400
+Round ligament of uterus	meshNumber	A05.360.319.114.803
+Superior semicircular canal	meshNumber	A09.246.631.663
+Posterior semicircular canal	meshNumber	A09.246.631.663
+Horizontal semicircular canal	meshNumber	A09.246.631.663
+Round window	meshNumber	A09.246.631.246.814
+Primitive streak	meshNumber	A16.254.412
+Cytotrophoblast	meshNumber	A16.254.085.162
+Sural nerve	meshNumber	A08.800.800.720.450.760.820.820
+Sphenoidal sinus	meshNumber	A04.531.621.827
+Trochlear nucleus	meshNumber	12582022
+Trigeminal nerve nuclei	meshNumber	A08.186.211.132.931
+Spinal trigeminal nucleus	meshNumber	A08.186.211.132.931.920
+Trigeminal motor nucleus	meshNumber	A08.186.211.132.931
+Adrenal adenoma	meshNumber	A06.407.071
+Fifth metacarpal bone	meshNumber	A02.835.232.087.319.550
+Fourth metacarpal bone	meshNumber	A02.835.232.087.319.550
+Third metacarpal bone	meshNumber	A02.835.232.087.319.550
+Second metacarpal bone	meshNumber	A02.835.232.087.319.550
+First metacarpal bone	meshNumber	A02.835.232.087.319.550
+Sigmoid sinus	meshNumber	A07.231.908.224
+Anterior jugular vein	meshNumber	A07.231.908.498
+Posterior external jugular vein	meshNumber	A07.231.908.498
+Intercavernous sinuses	meshNumber	A07.231.908.224
+Transverse sinuses	meshNumber	A07.231.908.224
+Vitelline duct	meshNumber	A16.254.891
+Middle colic artery	meshNumber	12153955
+Lamina terminalis	meshNumber	A08.186.211.577.482
+Tuber cinereum	meshNumber	A08.186.211.730.385.357.352.870
+Trigeminal ganglion	meshNumber	A08.340.390.850
+Superior cervical ganglion	meshNumber	A08.340.315.350.850
+Submandibular duct	meshNumber	A03.556.500.760.640
+Superior salivary nucleus	meshNumber	12583296
+Greater omentum	meshNumber	A01.047.025.600.573
+Descending colon	meshNumber	A03.556.124.526.356.500
+Sphincter of ampulla	meshNumber	A03.159.183.079.300.900.600
+Dorsal striatum	meshNumber	A08.186.211.730.885.105.487
+Superior hypogastric plexus	meshNumber	A08.800.050.050.400
+Celiac ganglia	meshNumber	A08.340.315.350
+Metathalamus	meshNumber	A08.186.211.730.385.826.701.444
+Opisthion	meshNumber	12594043
+Sternoclavicular articulation	meshNumber	A02.835.583.781
+Truncus arteriosus (embryology)	meshNumber	A07.541.278.930
+Central gelatinous substance of spinal cord	meshNumber	A08.186.854.610.800
+Substantia gelatinosa of Rolando	meshNumber	A08.186.854.610.800
+Thoracic nerves	meshNumber	A08.800.800.720.800
+Atlanto-axial joint	meshNumber	A02.835.583.097
+Atlanto-occipital joint	meshNumber	A02.835.583.101
+Superficial epigastric artery	meshNumber	A07.231.114.330
+Area postrema	meshNumber	A08.186.211.132.810.406.286
+Substantia innominata	meshNumber	A08.186.211.577.820
+Spiral ganglion	meshNumber	A08.340.390.800
+Inferior ganglion of vagus nerve	meshNumber	A08.340.390.550
+Lumbosacral plexus	meshNumber	A08.800.800.720.450
+Meissner's plexus	meshNumber	A08.800.050.050.850
+Diagonal band of Broca	meshNumber	A08.186.211.730.885.380
+Thoracic splanchnic nerves	meshNumber	A08.800.050.050.800
+Urachus	meshNumber	A16.254.835
+Vitelline membrane	meshNumber	A16.631.886
+Islands of Calleja	meshNumber	A08.186.211.577.699.400
+Islands of Calleja	meshNumber	NeuroLex = Islands of Calleja
+Corneal epithelium	meshNumber	A09.371.060.217.325
+Vestibular aqueduct	meshNumber	A09.246.631.909.957
+Stria vascularis of cochlear duct	meshNumber	A09.246.631.246.292.876
+Tectorial membrane (cochlea)	meshNumber	A09.246.631.246.292.906
+Osseous spiral lamina	meshNumber	A09.246.631.246.930
+Endolymphatic sac	meshNumber	A09.246.631.909.957.360.701
+Blood-air barrier	meshNumber	A04.411.715.025
+Chin	meshNumber	A01.456.505.259
+Intertarsal articulations	meshNumber	A02.835.583.378.831
+Intercarpal articulations	meshNumber	A02.835.583.405.174
+Fundus (stomach)	meshNumber	A03.556.875.875.419
+Dorsomedial hypothalamic nucleus	meshNumber	A08.186.211.730.385.357.352.270
+Anterior hypothalamic nucleus	meshNumber	A08.186.211.730.385.357.342.063
+Preoptic area	meshNumber	A08.186.211.730.385.357.342.450
+Lateral hypothalamus	meshNumber	A08.186.211.730.385.357.300
+Femur neck	meshNumber	A02.835.232.043.650.247.510
+Femur head	meshNumber	A02.835.232.043.650.247.343
+Triangular fibrocartilage	meshNumber	A02.835.583.405.930.800
+Endoneurium	meshNumber	A08.800.800
+Perineurium	meshNumber	A08.800.800
+Zygapophysial joint	meshNumber	A02.835.583.979
+Major calyx	meshNumber	A05.810.453.537.503
+Minor calyx	meshNumber	A05.810.453.537.503
+Cloaca (embryology)	meshNumber	A13.223
+Vertebrate trachea	meshNumber	A04.889
+Human skin  Dermis   1	meshNumber	A17.815.180
+Mouth	meshNumber	A01.456.505.631
+Principal sensory nucleus of trigeminal nerve	meshNumber	A08.186.211.132.931
+Mesencephalic nucleus of trigeminal nerve	meshNumber	A08.186.211.132.931
+Hip pointer	meshNumber	A02.835.232.611.434
+Vocal pedagogy	meshNumber	A04.329.364.737
+Human penis	meshNumber	A05.360.444.492
+Astragalectomy	meshNumber	A02.835.232.043.300.710.780
+Buttocks	meshNumber	A01.378.610.100
+Liver	meshNumber	A03.620
+Scrotum	meshNumber	A05.360.444.661
+Hand	meshNumber	A01.378.800.667
+Rectum	meshNumber	A03.556.124.526.767
+Elbow	meshNumber	A02.835.583.290
+Primary motor cortex	meshNumber	A08.186.211.730.885.213.270.548
+Fallopian tube	meshNumber	A05.360.319.114.373
+Oropharyngeal cancer	meshNumber	A03.556.750
+Chorioallantoic membrane	meshNumber	A16.254.300.400
+Vulva	meshNumber	05.360.319.887
+Foreskin	meshNumber	A05.360.444.492.362
+Nucleus basalis of Meynert	meshNumber	A08.186.211.730.885.105.880.100
+Acute Haemmorrhagic Conjunctivitis in Ghana	meshNumber	A09.371.192

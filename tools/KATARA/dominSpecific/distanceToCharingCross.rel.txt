@@ -1,0 +1,117 @@
+Kingston upon Thames	distanceToCharingCross	16093.44
+Westminster	distanceToCharingCross	804.672
+Southwark	distanceToCharingCross	2414.016
+Ilford	distanceToCharingCross	14645.0304
+Hounslow	distanceToCharingCross	17059.0464
+Addington, London	distanceToCharingCross	17702.784
+Acton, London	distanceToCharingCross	10299.8016
+Addiscombe	distanceToCharingCross	16093.44
+Balham	distanceToCharingCross	7242.048
+Barnes, London	distanceToCharingCross	9334.1952
+Bethnal Green	distanceToCharingCross	5310.8352
+Bermondsey	distanceToCharingCross	4023.36
+Blackheath, London	distanceToCharingCross	10299.8016
+Brentford	distanceToCharingCross	12874.752
+Biggin Hill	distanceToCharingCross	24462.0288
+Camberwell	distanceToCharingCross	4345.2288
+Chiswick	distanceToCharingCross	9656.064
+Chingford	distanceToCharingCross	16093.44
+Cowley, Hillingdon	distanceToCharingCross	24783.8976
+Cranham	distanceToCharingCross	28163.52
+Crayford	distanceToCharingCross	22048.0128
+Cudham	distanceToCharingCross	24944.832
+Dalston	distanceToCharingCross	6437.376
+Deptford	distanceToCharingCross	7563.9168
+Edgware	distanceToCharingCross	16093.44
+Erith	distanceToCharingCross	21404.2752
+Harefield	distanceToCharingCross	27358.848
+Harlington, Hillingdon	distanceToCharingCross	21726.144
+Harold Wood	distanceToCharingCross	26554.176
+Homerton	distanceToCharingCross	7242.048
+Hornchurch	distanceToCharingCross	24462.0288
+Hoxton	distanceToCharingCross	4345.2288
+Ickenham	distanceToCharingCross	23013.6192
+Mill Hill	distanceToCharingCross	14484.096
+Mottingham	distanceToCharingCross	14484.096
+Northwood, Hillingdon	distanceToCharingCross	23335.488
+Orpington	distanceToCharingCross	21565.2096
+Pinner	distanceToCharingCross	20116.8
+Poplar, London	distanceToCharingCross	8851.392
+Ruislip	distanceToCharingCross	22530.816
+Romford	distanceToCharingCross	22691.7504
+Sipson	distanceToCharingCross	23013.6192
+Shoreditch	distanceToCharingCross	4023.36
+Stamford Hill	distanceToCharingCross	8851.392
+Wood Green	distanceToCharingCross	10782.6048
+Southall	distanceToCharingCross	17219.9808
+Stepney	distanceToCharingCross	5793.6384
+Stratford, London	distanceToCharingCross	9656.064
+Stoke Newington	distanceToCharingCross	8046.72
+Thamesmead	distanceToCharingCross	15127.8336
+Thornton Heath	distanceToCharingCross	11587.2768
+Twickenham	distanceToCharingCross	22691.7504
+Upminster	distanceToCharingCross	26554.176
+Uxbridge	distanceToCharingCross	24140.16
+Wandsworth	distanceToCharingCross	7402.9824
+West Ham	distanceToCharingCross	9977.9328
+Hayes, Hillingdon	distanceToCharingCross	20921.472
+Camden Town	distanceToCharingCross	3862.4256
+Elm Park	distanceToCharingCross	23013.6192
+Emerson Park	distanceToCharingCross	24783.8976
+Ardleigh Green	distanceToCharingCross	24944.832
+Harold Hill	distanceToCharingCross	26715.1104
+Collier Row	distanceToCharingCross	22691.7504
+Dagenham	distanceToCharingCross	19312.128
+Fulham	distanceToCharingCross	5954.5728
+Ealing	distanceToCharingCross	12713.8176
+Richmond, London	distanceToCharingCross	13196.6208
+Lambeth	distanceToCharingCross	1609.344
+Charlton, London	distanceToCharingCross	11587.2768
+Barking	distanceToCharingCross	14645.0304
+East Ham	distanceToCharingCross	12874.752
+Bromley	distanceToCharingCross	14966.8992
+Barnet	distanceToCharingCross	16093.44
+Harrow, London	distanceToCharingCross	19633.9968
+Croydon	distanceToCharingCross	15288.768
+Mile End	distanceToCharingCross	5793.6384
+Lea Bridge	distanceToCharingCross	11265.408
+North Ockendon	distanceToCharingCross	28968.192
+Hackney Marshes	distanceToCharingCross	9656.064
+Bow, London	distanceToCharingCross	7402.9824
+Nunhead	distanceToCharingCross	6437.376
+Tottenham Hale	distanceToCharingCross	9816.9984
+West Drayton	distanceToCharingCross	23818.2912
+Sutton, London	distanceToCharingCross	17059.0464
+Wennington, London	distanceToCharingCross	23818.2912
+Havering-atte-Bower	distanceToCharingCross	24140.16
+Upper Clapton	distanceToCharingCross	9012.3264
+Farnborough, London	distanceToCharingCross	21565.2096
+Hillingdon	distanceToCharingCross	22852.6848
+New Addington	distanceToCharingCross	19312.128
+Longford, Hillingdon	distanceToCharingCross	25427.6352
+De Beauvoir Town	distanceToCharingCross	6115.5072
+Hackney Wick	distanceToCharingCross	9012.3264
+Queen's Park, London	distanceToCharingCross	6437.376
+Slade Green	distanceToCharingCross	22530.816
+Lower Clapton	distanceToCharingCross	8046.72
+Hackney Central	distanceToCharingCross	6437.376
+Worcester Park	distanceToCharingCross	16415.3088
+South Hackney	distanceToCharingCross	7724.8512
+Abbey Wood	distanceToCharingCross	14966.8992
+Church End, Barnet	distanceToCharingCross	11265.408
+Norwood Green	distanceToCharingCross	17219.9808
+South Hornchurch	distanceToCharingCross	21887.0784
+Ruislip Manor	distanceToCharingCross	20921.472
+Waterloo, London	distanceToCharingCross	1609.344
+St Giles, London	distanceToCharingCross	804.672
+Bush Hill Park	distanceToCharingCross	20760.5376
+Istead Rise	distanceToCharingCross	40233.6
+Queenhithe	distanceToCharingCross	2253.0816
+Noel Park	distanceToCharingCross	10299.8016
+Woodford, London	distanceToCharingCross	15288.768
+Tottenham	distanceToCharingCross	10621.6704
+Haggerston	distanceToCharingCross	5793.6384
+Springfield, Essex	distanceToCharingCross	49889.664
+Acton Green, London	distanceToCharingCross	9495.1296
+Stratford City	distanceToCharingCross	9656.064
+Rainham, London	distanceToCharingCross	21887.0784

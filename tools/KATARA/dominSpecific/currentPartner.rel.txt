@@ -1,0 +1,525 @@
+Elena Berezhnaya	currentPartner	Anton Sikharulidze
+Jamie Salé	currentPartner	David Pelletier
+David Pelletier	currentPartner	Jamie Salé
+Tatiana Totmianina	currentPartner	Maxim Marinin
+Tanith Belbin	currentPartner	Benjamin Agosto
+Benjamin Agosto	currentPartner	Tanith Belbin
+Shen Xue	currentPartner	Zhao Hongbo
+Zhao Hongbo	currentPartner	Shen Xue
+Anton Sikharulidze	currentPartner	Elena Berezhnaya
+Barbara Underhill	currentPartner	Paul Martini
+Paul Martini	currentPartner	Barbara Underhill
+Jayne Torvill	currentPartner	Christopher Dean
+Christopher Dean	currentPartner	Jayne Torvill
+Tatiana Navka	currentPartner	Roman Kostomarov
+Dorota Siudek	currentPartner	Mariusz Siudek
+Mariusz Siudek	currentPartner	Dorota Siudek
+Isabelle Brasseur	currentPartner	Lloyd Eisler
+Sylwia Nowak	currentPartner	Sebastian Kolasiński
+Sebastian Kolasiński	currentPartner	Sylwia Nowak
+Maxim Marinin	currentPartner	Tatiana Totmianina
+Maria Petrova (figure skater)	currentPartner	Alexei Tikhonov
+Ludmila Belousova	currentPartner	Oleg Protopopov
+Oleg Protopopov	currentPartner	Ludmila Belousova
+Ingo Steuer	currentPartner	Mandy Wötzel
+Marina Anissina	currentPartner	Gwendal Peizerat
+Peter Kennedy (figure skater)	currentPartner	Karol Kennedy
+Garrett Lucash	currentPartner	Katie Orscher
+René Lohse	currentPartner	Kati Winkler
+Kati Winkler	currentPartner	René Lohse
+Albena Denkova	currentPartner	Maxim Staviski
+Naomi Lang	currentPartner	Peter Tchernyshev
+Gwendal Peizerat	currentPartner	Marina Anissina
+Roman Kostomarov	currentPartner	Tatiana Navka
+John Zimmerman (figure skater)	currentPartner	Kyoko Ina
+Kyoko Ina	currentPartner	John Zimmerman (figure skater)
+Lloyd Eisler	currentPartner	Isabelle Brasseur
+Jenni Meno	currentPartner	Todd Sand
+Todd Sand	currentPartner	Jenni Meno
+Maurizio Margaglio	currentPartner	Barbara Fusar-Poli
+Barbara Fusar-Poli	currentPartner	Maurizio Margaglio
+Pierre Brunet (figure skater)	currentPartner	Andrée Brunet
+Rena Inoue	currentPartner	John Baldwin (figure skater)
+Maxim Staviski	currentPartner	Albena Denkova
+Robin Szolkowy	currentPartner	Aliona Savchenko
+Aliona Savchenko	currentPartner	Robin Szolkowy
+John Baldwin (figure skater)	currentPartner	Rena Inoue
+Melissa Gregory	currentPartner	Denis Petukhov
+Denis Petukhov	currentPartner	Melissa Gregory
+Maxim Zavozin	currentPartner	Nóra Hoffmann
+Morgan Matthews	currentPartner	Leif Gislason
+Peter Tchernyshev	currentPartner	Naomi Lang
+Alexei Tikhonov	currentPartner	Maria Petrova (figure skater)
+Zhang Dan	currentPartner	Zhang Hao
+Zhang Hao	currentPartner	Zhang Dan
+Tong Jian	currentPartner	Pang Qing
+Pang Qing	currentPartner	Tong Jian
+Sergei Slavnov	currentPartner	Julia Obertas
+Julia Obertas	currentPartner	Sergei Slavnov
+Jessica Dubé	currentPartner	Sébastien Wolfe
+Sarah Abitbol	currentPartner	Stéphane Bernadis
+Stéphane Bernadis	currentPartner	Sarah Abitbol
+Anabelle Langlois	currentPartner	Cody Hay
+Kristin Fraser	currentPartner	Igor Lukanin
+Kristina Lenko	currentPartner	Matt Evers
+Tessa Virtue	currentPartner	Scott Moir
+Scott Moir	currentPartner	Tessa Virtue
+Fedor Andreev	currentPartner	Jana Khokhlova
+Megan Wing	currentPartner	Aaron Lowe
+Aaron Lowe	currentPartner	Megan Wing
+Marie-France Dubreuil	currentPartner	Patrice Lauzon
+Patrice Lauzon	currentPartner	Marie-France Dubreuil
+Ruslan Goncharov	currentPartner	Elena Grushina
+Elena Grushina	currentPartner	Ruslan Goncharov
+Chantal Lefebvre	currentPartner	Arseni Markov
+Isabelle Delobel	currentPartner	Olivier Schoenfelder
+Olivier Schoenfelder	currentPartner	Isabelle Delobel
+Povilas Vanagas	currentPartner	Margarita Drobiazko
+Margarita Drobiazko	currentPartner	Povilas Vanagas
+James Millns	currentPartner	Colleen O'Connor
+Colleen O'Connor	currentPartner	James Millns
+William McLachlan (figure skater)	currentPartner	Geraldine Fenton
+William McLachlan (figure skater)	currentPartner	Virginia Thompson
+Virginia Thompson	currentPartner	William McLachlan (figure skater)
+Geraldine Fenton	currentPartner	William McLachlan (figure skater)
+Kitty Carruthers	currentPartner	Peter Carruthers (figure skater)
+Peter Carruthers (figure skater)	currentPartner	Kitty Carruthers
+Tanja Kolbe	currentPartner	Stefano Caruso
+Beatrix Loughran	currentPartner	Sherwin Badger
+Andrée Brunet	currentPartner	Pierre Brunet (figure skater)
+Pierre Baugniet	currentPartner	Micheline Lannoy
+Andrei Minenkov	currentPartner	Irina Moiseeva
+Irina Moiseeva	currentPartner	Andrei Minenkov
+Themistocles Leftheris	currentPartner	Angelyn Nguyen
+Katarina Gerboldt	currentPartner	Alexander Enbert
+Kendra Moyle	currentPartner	Steven Pottenger
+Evan Bates	currentPartner	Madison Chock
+Tiffany Vise	currentPartner	Don Baldwin
+Trina Pratt	currentPartner	Chris Obzansky
+Todd Gilles	currentPartner	Jane Summersett
+Maxim Shabalin	currentPartner	Oksana Domnina
+Oksana Domnina	currentPartner	Maxim Shabalin
+Maxim Trankov	currentPartner	Tatiana Volosozhar
+Nóra Hoffmann	currentPartner	Maxim Zavozin
+Alexander Grachev	currentPartner	Anastasia Platonova
+Natalia Mikhailova	currentPartner	Arkadi Sergeev
+Arkadi Sergeev	currentPartner	Natalia Mikhailova
+Madison Hubbell	currentPartner	Zachary Donohue
+Piper Gilles	currentPartner	Zachary Donohue
+Timothy McKernan	currentPartner	Shannon Wingle
+John Coughlin (figure skater)	currentPartner	Caydee Denney
+Rockne Brubaker	currentPartner	Mary Beth Marley
+Meryl Davis	currentPartner	Charlie White (figure skater)
+Charlie White (figure skater)	currentPartner	Meryl Davis
+Brent Bommentre	currentPartner	Kimberly Navarro
+Kimberly Navarro	currentPartner	Brent Bommentre
+Federica Faiella	currentPartner	Massimo Scali
+Massimo Scali	currentPartner	Federica Faiella
+Julia Zlobina	currentPartner	Alexei Sitnikov
+Alexei Sitnikov	currentPartner	Julia Zlobina
+Vitali Butikov	currentPartner	Kristina Gorshkova
+Kristina Gorshkova	currentPartner	Vitali Butikov
+Ekaterina Bobrova	currentPartner	Dmitri Soloviev
+Dmitri Soloviev	currentPartner	Ekaterina Bobrova
+Ksenia Krasilnikova	currentPartner	Konstantin Bezmaternikh
+Konstantin Bezmaternikh	currentPartner	Oksana Nagalaty
+Vera Bazarova	currentPartner	Yuri Larionov
+Yuri Larionov	currentPartner	Vera Bazarova
+Natalia Shestakova	currentPartner	Pavel Lebedev
+Pavel Lebedev	currentPartner	Natalia Shestakova
+Stanislav Morozov	currentPartner	Tatiana Volosozhar
+Daniil Barantsev	currentPartner	Jennifer Wester
+Yuri Kvashnin	currentPartner	Marina Avstriskaia
+Marina Avstriskaia	currentPartner	Yuri Kvashnin
+Larisa Selezneva	currentPartner	Oleg Vitalyevich Makarov
+Oleg Vitalyevich Makarov	currentPartner	Larisa Selezneva
+Robin Cowan	currentPartner	Sherri Baier
+Kathryn Winter	currentPartner	Nicky Slater
+Edgar Syers	currentPartner	Madge Syers
+Nathalie Péchalat	currentPartner	Fabian Bourzat
+Fabian Bourzat	currentPartner	Nathalie Péchalat
+Sergei Novitski	currentPartner	Jana Khokhlova
+Jana Khokhlova	currentPartner	Fedor Andreev
+Alexandra Zaretsky	currentPartner	Roman Zaretsky
+Roman Zaretsky	currentPartner	Alexandra Zaretsky
+Pernelle Carron	currentPartner	Lloyd Jones (figure skater)
+Mathieu Jost	currentPartner	Olga Orlova (Russian figure skater)
+Anna Cappellini	currentPartner	Luca Lanotte
+Luca Lanotte	currentPartner	Anna Cappellini
+Sinead Kerr	currentPartner	John Kerr (figure skater)
+John Kerr (figure skater)	currentPartner	Sinead Kerr
+Dominika Piątkowska	currentPartner	Dmitri Khromin
+Dmitri Khromin	currentPartner	Dominika Piątkowska
+Florian Just	currentPartner	Katharina Gierok
+Mari Vartmann	currentPartner	Aaron Van Cleave
+Zsuzsanna Nagy	currentPartner	Máté Fejes
+Jason Dungjen	currentPartner	Yuka Sato
+Igor Lukanin	currentPartner	Kristin Fraser
+Cody Hay	currentPartner	Anabelle Langlois
+Anastasia Platonova	currentPartner	Alexander Grachev
+Yuko Kavaguti	currentPartner	Alexander Smirnov (figure skater)
+Alexander Smirnov (figure skater)	currentPartner	Yuko Kavaguti
+Arseni Markov	currentPartner	Chantal Lefebvre
+Kamila Hájková	currentPartner	David Vincour
+David Vincour	currentPartner	Kamila Hájková
+Stacey Kemp	currentPartner	David King (figure skater)
+David King (figure skater)	currentPartner	Stacey Kemp
+Anastasia Grebenkina	currentPartner	Vazgen Azroyan
+Vazgen Azroyan	currentPartner	Anastasia Grebenkina
+Nozomi Watanabe	currentPartner	Akiyuki Kido
+Akiyuki Kido	currentPartner	Nozomi Watanabe
+Stanimir Todorov	currentPartner	Rumyana Spasova
+Rumyana Spasova	currentPartner	Stanimir Todorov
+Li Jiaqi	currentPartner	Xu Jiankun
+Xu Jiankun	currentPartner	Li Jiaqi
+Meagan Duhamel	currentPartner	Eric Radford
+Adeline Canac	currentPartner	Yannick Bonheur
+Medhi Bouzzine	currentPartner	Mélodie Chataigner
+Mélodie Chataigner	currentPartner	Medhi Bouzzine
+Michael Coreno	currentPartner	Allie Hann-McCurdy
+Allie Hann-McCurdy	currentPartner	Michael Coreno
+Cathy Reed	currentPartner	Chris Reed
+Chris Reed	currentPartner	Cathy Reed
+Mateusz Chruściński	currentPartner	Joanna Sulej
+Evgeni Krasnapolski	currentPartner	Danielle Montalbano
+Jessica Miller	currentPartner	Ian Moram
+Ian Moram	currentPartner	Jessica Miller
+Kaitlyn Weaver	currentPartner	Andrew Poje
+Andrew Poje	currentPartner	Kaitlyn Weaver
+Diana Rennik	currentPartner	Aleksei Saks
+Aleksei Saks	currentPartner	Diana Rennik
+Yannick Bonheur	currentPartner	Adeline Canac
+Daniel Wende	currentPartner	Maylin Hausch
+Elena Efaieva	currentPartner	Artem Patlasov
+Tatiana Volosozhar	currentPartner	Maxim Trankov
+Alper Uçar	currentPartner	Jenette Maitz
+Jan Mościcki	currentPartner	Anastasia Vykhodtseva
+Barbora Silná	currentPartner	Juri Kurakin
+Dmitri Matsjuk	currentPartner	Kira Geil
+Kristjan Rand	currentPartner	Caitlin Mallory
+Nelli Zhiganshina	currentPartner	Alexander Gazsi
+Alexander Gazsi	currentPartner	Nelli Zhiganshina
+Ekaterina Rubleva	currentPartner	Ivan Shefer
+Ivan Shefer	currentPartner	Ekaterina Rubleva
+Ondřej Hotárek	currentPartner	Stefania Berton
+Brooke Castile	currentPartner	Benjamin Okolski
+Benjamin Okolski	currentPartner	Brooke Castile
+Luke Munana	currentPartner	Laura Munana
+Laura Munana	currentPartner	Luke Munana
+Alisa Agafonova	currentPartner	Alper Uçar
+Dmitri Dun	currentPartner	Alisa Agafonova
+Marco Garavaglia	currentPartner	Alessia Aureli
+Nadezhda Frolenkova	currentPartner	Mikhail Kasalo
+Mikhail Kasalo	currentPartner	Nadezhda Frolenkova
+Martin Liebers	currentPartner	Nicole Gurny
+Huang Xintong	currentPartner	Zheng Xun
+Zheng Xun	currentPartner	Huang Xintong
+Yu Xiaoyang	currentPartner	Wang Chen (figure skater)
+Wang Chen (figure skater)	currentPartner	Yu Xiaoyang
+Marina Aganina	currentPartner	Dmitry Zobnin
+Maria Borounov	currentPartner	Evgeni Borounov
+Evgeni Borounov	currentPartner	Maria Borounov
+Alexander Shakalov	currentPartner	Siobhan Heekin-Canedy
+Sergei Muhhin	currentPartner	Natalia Zabijako
+Vanessa James	currentPartner	Morgan Ciprès
+Stefania Berton	currentPartner	Ondřej Hotárek
+Phillipa Towler-Green	currentPartner	Phillip Poole
+Phillip Poole	currentPartner	Phillipa Towler-Green
+Joseph Jacobsen	currentPartner	Amanda Dobbs
+Nikola Višňová	currentPartner	Lukáš Csolley
+Lukáš Csolley	currentPartner	Nikola Višňová
+Darryll Sulindro-Yang	currentPartner	Amanda Sunyoto-Yang
+Amanda Sunyoto-Yang	currentPartner	Darryll Sulindro-Yang
+Martin Hanulák	currentPartner	Gabriela Čermanová
+Amanda Velenosi	currentPartner	Mark Fernandez
+Mark Fernandez	currentPartner	Amanda Velenosi
+Andrew Evans (figure skater)	currentPartner	Kara Singbell
+Anaïs Morand	currentPartner	Timothy Leemann
+Carolyn MacCuish	currentPartner	Tyler Morris
+Antoine Dorsaz	currentPartner	Anaïs Morand
+Janusz Karweta	currentPartner	Krystyna Klimczak
+Juri Kurakin	currentPartner	Barbora Silná
+Matěj Novák	currentPartner	Lucie Myslivečková
+Lucie Myslivečková	currentPartner	Matěj Novák
+Yahor Maistrov	currentPartner	Ksenia Shmirina
+Irina Shtork	currentPartner	Taavi Rand
+Taavi Rand	currentPartner	Irina Shtork
+Lynn Kriengkrairut	currentPartner	Logan Giulietti-Schmitt
+Logan Giulietti-Schmitt	currentPartner	Lynn Kriengkrairut
+Ilja Glebov	currentPartner	Maria Sergejeva
+Maria Sergejeva	currentPartner	Ilja Glebov
+Elizaveta Levshina	currentPartner	Konstantin Gavrin
+Konstantin Gavrin	currentPartner	Elizaveta Levshina
+Ilia Tkachenko	currentPartner	Ekaterina Riazanova
+Krisztina Barta	currentPartner	Ádám Tóth
+Ádám Tóth	currentPartner	Krisztina Barta
+Otar Japaridze	currentPartner	Allison Reed
+Lloyd Jones (figure skater)	currentPartner	Pernelle Carron
+Nicole Della Monica	currentPartner	Yannick Kocon
+Alla Beknazarova	currentPartner	Vladimir Zuev
+Vladimir Zuev	currentPartner	Alla Beknazarova
+Anna Zadorozhniuk	currentPartner	Sergei Verbillo
+Sergei Verbillo	currentPartner	Anna Zadorozhniuk
+Luan Bo	currentPartner	Yao Bin
+Joanna Dusik	currentPartner	Patryk Szałaśny
+Harold Hartshorne	currentPartner	Kathe Mehl
+Harold Hartshorne	currentPartner	Nettie Prantell
+Harold Hartshorne	currentPartner	Sandy MacDonald
+Sławomir Janicki	currentPartner	Agnieszka Dulej
+Patryk Szałaśny	currentPartner	Joanna Dusik
+Artur Szeliski	currentPartner	Molly Marcon
+Bartosz Paluchowski	currentPartner	Malgorzata Lipinska
+Maria Bińczyk	currentPartner	Michał Tomaszewski
+Ramona Elsener	currentPartner	Florian Roost
+Florian Roost	currentPartner	Ramona Elsener
+Eliane Hugentobler	currentPartner	Daniel Hugentobler
+Daniel Hugentobler	currentPartner	Eliane Hugentobler
+Amanda Evora	currentPartner	Mark Ladwig
+Mark Ladwig	currentPartner	Amanda Evora
+Alexei Beletski	currentPartner	Natalia Gudina
+Natalia Gudina	currentPartner	Alexei Beletski
+Christina Beier	currentPartner	William Beier
+William Beier	currentPartner	Christina Beier
+Joanna Sulej	currentPartner	Mateusz Chruściński
+Emilie Demers Boutin	currentPartner	Stuart Chutter
+Charles Sinek	currentPartner	Beata Handra
+Beata Handra	currentPartner	Charles Sinek
+Yang Tae-Hwa	currentPartner	Chuen-Gun Lee
+Kim Hye-Min	currentPartner	Kim Min-woo
+Kim Min-woo	currentPartner	Kim Hye-Min
+Igor Yaroshenko	currentPartner	Irina Romanova (figure skater)
+Irina Romanova (figure skater)	currentPartner	Igor Yaroshenko
+Sascha Rabe	currentPartner	Tanja Kolbe
+Nicholas Kole	currentPartner	Amber Kole
+Zoé Blanc	currentPartner	Pierre-Loup Bouquet
+Pierre-Loup Bouquet	currentPartner	Zoé Blanc
+Jane Summersett	currentPartner	Todd Gilles
+Jong Yong Hyok	currentPartner	Sung Mi Hyang
+Chris Obzansky	currentPartner	Trina Pratt
+Joanna Lenko	currentPartner	Jason Cheperdak
+Mitchell Islam	currentPartner	Alexandra Paul (figure skater)
+Zhang Weina	currentPartner	Cao Xianming
+Cao Xianming	currentPartner	Zhang Weina
+Yang Fang	currentPartner	Gao Chongbo
+Gao Chongbo	currentPartner	Wang Jiayue
+Qi Jia	currentPartner	Sun Xu
+Sun Xu	currentPartner	Qi Jia
+Danielle O'Brien	currentPartner	Gregory Merriman
+Gregory Merriman	currentPartner	Danielle O'Brien
+Barbara Berezowski	currentPartner	David Porter (figure skater)
+David Porter (figure skater)	currentPartner	Barbara Berezowski
+Zhao Rui	currentPartner	An Yang (figure skater)
+An Yang (figure skater)	currentPartner	Zhao Rui
+Paulina Urban	currentPartner	Marcin Trębacki
+Maciej Bernadowski	currentPartner	Anastasya Gavrylovich
+Narumi Takahashi	currentPartner	Mervin Tran
+Mervin Tran	currentPartner	Narumi Takahashi
+Irina Vorobieva	currentPartner	Igor Lisovsky
+Igor Lisovsky	currentPartner	Irina Vorobieva
+Filip Zalevski	currentPartner	Nina Ivanova
+Alina Dikhtiar	currentPartner	Filip Zalevski
+Zhang Yue (figure skater)	currentPartner	Wang Lei (figure skater)
+Wang Lei (figure skater)	currentPartner	Zhang Yue (figure skater)
+Portia Duval-Rigby	currentPartner	Francis Rigby
+Francis Rigby	currentPartner	Portia Duval-Rigby
+Jennifer Wester	currentPartner	Daniil Barantsev
+Mikhail Vladimirovich Kuznetsov	currentPartner	Tatiana Novik
+Ekaterina Sheremetieva	currentPartner	Egor Chudin
+Lubov Iliushechkina	currentPartner	Nodari Maisuradze
+Nodari Maisuradze	currentPartner	Lubov Iliushechkina
+Wu Yiming	currentPartner	Dong Huibo
+Dong Huibo	currentPartner	Wu Yiming
+Valeria Vorobieva	currentPartner	Jérôme Blanchard
+Ekaterina Riazanova	currentPartner	Ilia Tkachenko
+Marika Zanforlin	currentPartner	Federico Degli Esposti
+Federico Degli Esposti	currentPartner	Marika Zanforlin
+Jonathan Guerreiro	currentPartner	Ekaterina Pushkash
+Guan Xueting	currentPartner	Wang Meng (figure skater)
+Wang Meng (figure skater)	currentPartner	Guan Xueting
+Mylène Girard	currentPartner	Jonathan Pelletier
+Bradley Yaeger	currentPartner	Christa-Elizabeth Goulakos
+Siobhan Karam	currentPartner	Kevin O'Keefe
+Kevin O'Keefe	currentPartner	Siobhan Karam
+Olga Orlova (Russian figure skater)	currentPartner	Mathieu Jost
+Deividas Stagniūnas	currentPartner	Isabella Tobias
+Katherine Copely	currentPartner	Deividas Stagniūnas
+Norman M. Scott	currentPartner	Jeanne Chevalier
+Jeanne Chevalier	currentPartner	Norman M. Scott
+Joan Tozzer	currentPartner	Bernard Fox (figure skater)
+George Hill (figure skater)	currentPartner	Maribel Vinson
+Bernard Fox (figure skater)	currentPartner	Joan Tozzer
+Johanna Purdy	currentPartner	Adam Schumacher
+Brian Shales	currentPartner	Brooke Paulin
+Becky Cosford	currentPartner	Brian Shales
+Madison Chock	currentPartner	Evan Bates
+Daniel Hermann	currentPartner	Carolina Hermann
+Carolina Hermann	currentPartner	Daniel Hermann
+Sándor Szalay (figure skater)	currentPartner	Olga Orgonista
+Olga Orgonista	currentPartner	Sándor Szalay (figure skater)
+Sasha Palomäki	currentPartner	Oksana Klimova
+Oksana Klimova	currentPartner	Sasha Palomäki
+Klára Engi	currentPartner	Attila Tóth
+Attila Tóth	currentPartner	Klára Engi
+Katharina Gierok	currentPartner	Florian Just
+Kharis Ralph	currentPartner	Asher Hill
+Asher Hill	currentPartner	Kharis Ralph
+Valeria Zenkova	currentPartner	Valerie Sinitsin
+Maia Shibutani	currentPartner	Alex Shibutani
+Alex Shibutani	currentPartner	Maia Shibutani
+Anastasia Martiusheva	currentPartner	Alexei Rogonov
+Alexei Rogonov	currentPartner	Anastasia Martiusheva
+Valerie Sinitsin	currentPartner	Valeria Zenkova
+Zachary Donohue	currentPartner	Madison Hubbell
+Tadeusz Kowalski	currentPartner	Zofia Bilorówna
+Melville Rogers	currentPartner	Isobel Rogers
+Melville Rogers	currentPartner	Cecil Smith (figure skater)
+Amber Kole	currentPartner	Nicholas Kole
+Ekaterina Pushkash	currentPartner	Jonathan Guerreiro
+Dmitri Kiselev	currentPartner	Gabriela Kubova
+Ksenia Ozerova	currentPartner	Denis Golubev
+Alexander Enbert	currentPartner	Katarina Gerboldt
+Elga Balk	currentPartner	Gavin MacPherson
+Gavin MacPherson	currentPartner	Helga Balk
+John Mattatall	currentPartner	Mylène Brodeur
+Mylène Brodeur	currentPartner	John Mattatall
+Sabina Imaikina	currentPartner	Konstantin Bezmaternikh
+Andrei Novoselov	currentPartner	Tatiana Novik
+Kirill Khaliavin	currentPartner	Ksenia Monko
+Ksenia Monko	currentPartner	Kirill Khaliavin
+Caitlin Mallory	currentPartner	Kristjan Rand
+John Page (figure skater)	currentPartner	Ethel Muckelt
+Jacques Favart	currentPartner	Denise Favart
+Stefano Caruso	currentPartner	Tanja Kolbe
+Isabella Pajardi	currentPartner	Stefano Caruso
+Ekaterina Sokolova	currentPartner	Fedor Sokolov
+Fedor Sokolov	currentPartner	Ekaterina Sokolova
+Wang Jiayue	currentPartner	Gao Chongbo
+Meng Fei (figure skater)	currentPartner	Guo Jiameimei
+Guo Jiameimei	currentPartner	Meng Fei (figure skater)
+Jean Westwood (figure skater)	currentPartner	Lawrence Demmy
+Lawrence Demmy	currentPartner	Jean Westwood (figure skater)
+Idi Papez	currentPartner	Karl Zwack
+Karl Zwack	currentPartner	Idi Papez
+Věra Suchánková	currentPartner	Zdeněk Doležal
+Zdeněk Doležal	currentPartner	Věra Suchánková
+Candice Towler-Green	currentPartner	James Phillipson
+Dmitri Shkidchenko	currentPartner	Irina Mironenko
+Irina Mironenko	currentPartner	Dmitri Shkidchenko
+Marcelle Matthews	currentPartner	Gwyn Jones (figure skater)
+Gwyn Jones (figure skater)	currentPartner	Marcelle Matthews
+Marina Antipova	currentPartner	Artem Kudashev
+Artem Kudashev	currentPartner	Marina Antipova
+Marissa Castelli	currentPartner	Simon Shnapir
+Simon Shnapir	currentPartner	Marissa Castelli
+Susie Lipanova	currentPartner	Andrei Lipanov
+Cynthia Kauffman	currentPartner	Ronald Kauffman
+Ronald Kauffman	currentPartner	Cynthia Kauffman
+Judianne Fotheringill	currentPartner	Jerry Fotheringill
+Jerry Fotheringill	currentPartner	Judianne Fotheringill
+Caydee Denney	currentPartner	John Coughlin (figure skater)
+Blake Rosenthal	currentPartner	Mac Kern
+Joseph Lynch (figure skater)	currentPartner	Chloé Katz
+Chloé Katz	currentPartner	Joseph Lynch (figure skater)
+Brynn Carman	currentPartner	A. J. Reiss
+Christopher Knierim	currentPartner	Andrea Poapst
+Yannick Kocon	currentPartner	Nicole Della Monica
+Simone Vaturi	currentPartner	Lorenza Alessandrini
+Lorenza Alessandrini	currentPartner	Simone Vaturi
+Randi Bakke	currentPartner	Christen Christensen (figure skater)
+Christen Christensen (figure skater)	currentPartner	Randi Bakke
+Erica Risseeuw	currentPartner	Robert Paxton (figure skater)
+Rudi Swiegers	currentPartner	Paige Lawrence
+Paige Lawrence	currentPartner	Rudi Swiegers
+Robert Paxton (figure skater)	currentPartner	Erica Risseeuw
+Raymond Schultz (figure skater)	currentPartner	Natasha Purich
+Gabriela Čermanová	currentPartner	Martin Hanulák
+Karen Routhier	currentPartner	Eric Saucke-Lacelle
+Eric Saucke-Lacelle	currentPartner	Karen Routhier
+Andrew Stroukoff	currentPartner	Susan Kelley (figure skater)
+Susan Kelley (figure skater)	currentPartner	Andrew Stroukoff
+Stacey Smith	currentPartner	John Summers (figure skater)
+John Summers (figure skater)	currentPartner	Stacey Smith
+Judi Genovesi	currentPartner	Kent Weigle
+Kent Weigle	currentPartner	Judi Genovesi
+Judy Schwomeyer	currentPartner	James Sladky
+James Sladky	currentPartner	Judy Schwomeyer
+Lorna Dyer	currentPartner	John Carrell (figure skater)
+John Carrell (figure skater)	currentPartner	Lorna Dyer
+Kristin Fortune	currentPartner	Dennis Sveum
+Dennis Sveum	currentPartner	Kristin Fortune
+Andree Anderson	currentPartner	Donald Jacoby
+Donald Jacoby	currentPartner	Andree Anderson
+Bert Wright	currentPartner	Sharon McKenzie
+Sharon McKenzie	currentPartner	Bert Wright
+Maylin Hausch	currentPartner	Daniel Wende
+Pamela Weight	currentPartner	Paul Thomas (figure skater)
+Paul Thomas (figure skater)	currentPartner	Pamela Weight
+Paul Thomas (figure skater)	currentPartner	Nesta Davies
+June Markham	currentPartner	Courtney Jones
+Doreen Denny	currentPartner	Courtney Jones
+Christiane Guhel	currentPartner	Jean Paul Guhel
+Ursula Nemec	currentPartner	Michael Nemec
+Michael Nemec	currentPartner	Ursula Nemec
+Christina Chitwood	currentPartner	Mark Hanretty
+Mark Hanretty	currentPartner	Christina Chitwood
+Elena Ilinykh	currentPartner	Nikita Katsalapov
+Nikita Katsalapov	currentPartner	Elena Ilinykh
+Penny Coomes	currentPartner	Nicholas Buckland
+Owen Edwards (figure skater)	currentPartner	Louise Walden
+Louise Walden	currentPartner	Owen Edwards (figure skater)
+Nicholas Buckland	currentPartner	Penny Coomes
+Britney Simpson	currentPartner	Nathan Miller (figure skater)
+Andrea Chong	currentPartner	Guillaume Gfeller
+Guillaume Gfeller	currentPartner	Andrea Chong
+Sui Wenjing	currentPartner	Han Cong
+Han Cong	currentPartner	Sui Wenjing
+Allison Reed	currentPartner	Otar Japaridze
+Amanda Dobbs	currentPartner	Joseph Jacobsen
+Ekaterina Kostenko	currentPartner	Roman Talan
+Roman Talan	currentPartner	Ekaterina Kostenko
+Justyna Plutowska	currentPartner	Dawid Pietrzyński
+Dawid Pietrzyński	currentPartner	Justyna Plutowska
+Joanna Zając	currentPartner	Damian Bińkowski
+Rafał Dawidowski	currentPartner	Olga Yazkova
+Alexandra Paul (figure skater)	currentPartner	Mitchell Islam
+Eric Radford	currentPartner	Meagan Duhamel
+Tatiana Novik	currentPartner	Andrei Novoselov
+Lionel Rumi	currentPartner	Brooke Frieling
+Igor Moskvin	currentPartner	Maya Belenkaya
+Tim Giesen	currentPartner	Stefanie Frohberg
+Stefanie Frohberg	currentPartner	Tim Giesen
+Maya Belenkaya	currentPartner	Igor Moskvin
+Ksenia Stolbova	currentPartner	Fedor Klimov
+Fedor Klimov	currentPartner	Ksenia Stolbova
+Cindy Landry	currentPartner	Lyndon Johnston
+Alexandra Stepanova	currentPartner	Ivan Bukin
+Ivan Bukin	currentPartner	Alexandra Stepanova
+Evgenia Kosigina	currentPartner	Nikolai Moroshkin
+Nikolai Moroshkin	currentPartner	Evgenia Kosigina
+Tiffany Zahorski	currentPartner	Alexis Miart
+Alexis Miart	currentPartner	Tiffany Zahorski
+Ethan Burgess	currentPartner	Laura Lepzinski
+Kirsten Moore-Towers	currentPartner	Dylan Moscovitch
+Dylan Moscovitch	currentPartner	Kirsten Moore-Towers
+Victoria Sinitsina	currentPartner	Ruslan Zhiganshin
+Ruslan Zhiganshin	currentPartner	Victoria Sinitsina
+Aaron Van Cleave	currentPartner	Mari Vartmann
+Isabella Tobias	currentPartner	Deividas Stagniūnas
+Brooke Frieling	currentPartner	Lionel Rumi
+Nathan Miller (figure skater)	currentPartner	Britney Simpson
+Sara Hurtado	currentPartner	Adrià Díaz
+Adrià Díaz	currentPartner	Sara Hurtado
+Yu Xiaoyu	currentPartner	Jin Yang
+Jin Yang	currentPartner	Yu Xiaoyu
+Mary Beth Marley	currentPartner	Rockne Brubaker
+Felicia Zhang	currentPartner	Nathan Bartholomay
+Michael Zenezini	currentPartner	Chloe Madeley
+Charlotte Lichtman	currentPartner	Dean Copely
+Dean Copely	currentPartner	Charlotte Lichtman
+Anastasia Cannuscio	currentPartner	Colin McManus
+Colin McManus	currentPartner	Anastasia Cannuscio
+Siobhan Heekin-Canedy	currentPartner	Alexander Shakalov
+Klára Kadlecová	currentPartner	Petr Bidař
+Petr Bidař	currentPartner	Klára Kadlecová
+Natalja Zabijako	currentPartner	Sergei Kulbach
+Sergei Kulbach	currentPartner	Natalja Zabijako

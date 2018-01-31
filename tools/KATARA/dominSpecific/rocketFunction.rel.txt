@@ -1,0 +1,207 @@
+Ariane 5	rocketFunction	Launch vehicle
+Energia	rocketFunction	Launch vehicle
+Jupiter-C	rocketFunction	Sounding rocket
+Juno I	rocketFunction	Launch vehicle
+Ariane 4	rocketFunction	Launch vehicle
+Europa (rocket)	rocketFunction	Launch vehicle
+Diamant	rocketFunction	Launch vehicle
+Polar Satellite Launch Vehicle	rocketFunction	Comparison of medium lift launch systems
+Ariane 3	rocketFunction	Launch vehicle
+Ariane 2	rocketFunction	Launch vehicle
+Soyuz (rocket family)	rocketFunction	Launch vehicle
+HGM-25A Titan I	rocketFunction	Intercontinental ballistic missile
+Ariane 1	rocketFunction	Comparison of medium lift launch systems
+Long March 2F	rocketFunction	Human-rating certification
+Voskhod (rocket)	rocketFunction	Human-rating certification
+Delta II	rocketFunction	Launch vehicle
+Vega (rocket)	rocketFunction	Launch vehicle
+VentureStar	rocketFunction	Spaceplane
+Black Arrow	rocketFunction	Launch vehicle
+Saturn IB	rocketFunction	Low Earth orbit
+Lockheed Martin X-33	rocketFunction	Spaceplane
+Orbital Sciences X-34	rocketFunction	Spaceplane
+Delta IV	rocketFunction	Launch vehicle
+Saturn I	rocketFunction	Low Earth orbit
+UGM-96 Trident I	rocketFunction	Submarine-launched ballistic missile
+UGM-133 Trident II	rocketFunction	Submarine-launched ballistic missile
+Zenit (rocket family)	rocketFunction	Launch vehicle
+N1 (rocket)	rocketFunction	Launch vehicle
+Tsyklon	rocketFunction	Launch vehicle
+Shavit	rocketFunction	Launch vehicle
+Pegasus (rocket)	rocketFunction	Launch vehicle
+Falcon 5	rocketFunction	Human-rating certification
+Falcon 1	rocketFunction	Launch vehicle
+LGM-25C Titan II	rocketFunction	Intercontinental ballistic missile
+LGM-25C Titan II	rocketFunction	Launch vehicle
+Titan IV	rocketFunction	Expendable launch system
+Atlas II	rocketFunction	Launch vehicle
+M-V	rocketFunction	Solid-fuel rocket
+Vanguard (rocket)	rocketFunction	Satellite
+Kosmos-3M	rocketFunction	Orbit
+H-IIA	rocketFunction	Launch vehicle
+Delta III	rocketFunction	Launch vehicle
+Geosynchronous Satellite Launch Vehicle	rocketFunction	Comparison of medium lift launch systems
+Thor-Able	rocketFunction	Expendable launch system
+Thor-Able	rocketFunction	Sounding rocket
+Soviet manned lunar programs	rocketFunction	Launch vehicle
+Atlas-Centaur	rocketFunction	Expendable launch system
+Dnepr-1	rocketFunction	Launch vehicle
+GX (rocket)	rocketFunction	Launch vehicle
+Atlas V	rocketFunction	Evolved Expendable Launch Vehicle
+Atlas V	rocketFunction	Launch vehicle
+Taurus (rocket)	rocketFunction	Launch vehicle
+Long March 3	rocketFunction	Launch vehicle
+Long March 3A	rocketFunction	Launch vehicle
+Naro-1	rocketFunction	Launch vehicle
+Soyuz-U	rocketFunction	Launch vehicle
+Rokot	rocketFunction	Launch vehicle
+H-IIB	rocketFunction	Launch vehicle
+Falcon 9	rocketFunction	Orbit
+Mesquito	rocketFunction	Sounding rocket
+Long March 2C	rocketFunction	Launch vehicle
+Satellite Launch Vehicle	rocketFunction	Launch vehicle
+Bumper (rocket)	rocketFunction	Sounding rocket
+Zenit-3SL	rocketFunction	Launch vehicle
+Augmented Satellite Launch Vehicle	rocketFunction	Launch vehicle
+Zenit-2M	rocketFunction	Launch vehicle
+Saturn INT-21	rocketFunction	Launch vehicle
+Ares I	rocketFunction	Human-rating certification
+Atlas III	rocketFunction	Launch vehicle
+Saturn INT-20	rocketFunction	Low Earth orbit
+Geosynchronous Satellite Launch Vehicle Mk III	rocketFunction	Comparison of mid-heavy lift launch systems
+Saturn II	rocketFunction	Launch vehicle
+Martin Marietta Spacemaster	rocketFunction	Launch vehicle
+Atlas-Agena	rocketFunction	Expendable launch system
+Start-1	rocketFunction	Launch vehicle
+SpaceLoft XL	rocketFunction	Sounding rocket
+VLS-1	rocketFunction	Launch vehicle
+Saturn C-8	rocketFunction	Launch vehicle
+Starchaser 4	rocketFunction	Sounding rocket
+Saturn-Shuttle	rocketFunction	Low Earth orbit
+H-II	rocketFunction	Launch vehicle
+Soyuz-2 (rocket)	rocketFunction	Launch vehicle
+Soyuz-FG	rocketFunction	Launch vehicle
+Delta G	rocketFunction	Expendable launch system
+Polyot (rocket)	rocketFunction	Interim
+Zenit-2	rocketFunction	Launch vehicle
+Avatar (spacecraft)	rocketFunction	Spaceplane
+Saturn A-1	rocketFunction	Launch vehicle
+Long March 4B	rocketFunction	Launch vehicle
+Ariane M	rocketFunction	Launch vehicle
+Saturn V-B	rocketFunction	Low Earth orbit
+Saturn V-B	rocketFunction	Moon
+Saturn IB-D	rocketFunction	Low Earth orbit
+Saturn IB-D	rocketFunction	Moon
+Hermes project	rocketFunction	Experiment
+Rehbar-I	rocketFunction	Launch vehicle
+Long March 2D	rocketFunction	Launch vehicle
+Taurus II	rocketFunction	Expendable launch system
+Molniya-M	rocketFunction	Launch vehicle
+Thorad-Agena	rocketFunction	Expendable launch system
+Atlas I	rocketFunction	Expendable launch system
+Thor-Burner	rocketFunction	Expendable launch system
+Tsyklon-2	rocketFunction	Launch vehicle
+Tsyklon-3	rocketFunction	Launch vehicle
+Safir (rocket)	rocketFunction	Low Earth orbit
+Juno II	rocketFunction	Expendable launch system
+Sputnik (rocket)	rocketFunction	Launch vehicle
+Kosmos-2I	rocketFunction	Orbit
+Long March 3B	rocketFunction	Geostationary transfer orbit
+Long March 3C	rocketFunction	Launch vehicle
+Long March 4A	rocketFunction	Launch vehicle
+Long March 4C	rocketFunction	Launch vehicle
+Strela (rocket)	rocketFunction	Orbit
+Long March 2A	rocketFunction	Launch vehicle
+Long March 2E	rocketFunction	Launch vehicle
+VS-30	rocketFunction	Sounding rocket
+SM-65A Atlas	rocketFunction	Intercontinental ballistic missile
+SM-65B Atlas	rocketFunction	Intercontinental ballistic missile
+SM-65B Atlas	rocketFunction	Expendable launch system
+SM-65C Atlas	rocketFunction	Intercontinental ballistic missile
+Scout X-2	rocketFunction	Sounding rocket
+Scout X-2	rocketFunction	Expendable launch system
+Delta E	rocketFunction	Expendable launch system
+Thor-Ablestar	rocketFunction	Launch vehicle
+Minotaur IV	rocketFunction	Expendable launch system
+H-I	rocketFunction	Launch vehicle
+N-I (rocket)	rocketFunction	Launch vehicle
+N-II (rocket)	rocketFunction	Launch vehicle
+Kosmos-1	rocketFunction	Orbit
+Kosmos-3	rocketFunction	Launch vehicle
+Saturn V	rocketFunction	Low Earth orbit
+Saturn V	rocketFunction	Moon
+Soyuz-U2	rocketFunction	Launch vehicle
+Haas (rocket)	rocketFunction	Orbit
+SM-65D Atlas	rocketFunction	Intercontinental ballistic missile
+SM-65D Atlas	rocketFunction	Expendable launch system
+SM-65E Atlas	rocketFunction	Intercontinental ballistic missile
+SM-65E Atlas	rocketFunction	Expendable launch system
+SM-65F Atlas	rocketFunction	Intercontinental ballistic missile
+SM-65F Atlas	rocketFunction	Expendable launch system
+Atlas E/F	rocketFunction	Expendable launch system
+Atlas E/F	rocketFunction	Sounding rocket
+NOTS-EV-1 Pilot	rocketFunction	Expendable launch system
+NOTS-EV-1 Pilot	rocketFunction	Anti-satellite weapon
+Tsyklon-4	rocketFunction	Launch vehicle
+Feng Bao 1	rocketFunction	Launch vehicle
+Titan IIIA	rocketFunction	Expendable launch system
+Titan IIID	rocketFunction	Expendable launch system
+Titan IIIE	rocketFunction	Expendable launch system
+Atlas G	rocketFunction	Expendable launch system
+Atlas H	rocketFunction	Expendable launch system
+Atlas SLV-3	rocketFunction	Expendable launch system
+Atlas SLV-3	rocketFunction	Sounding rocket
+Atlas-Able	rocketFunction	Expendable launch system
+Thor DSV-2	rocketFunction	Sounding rocket
+Thor DSV-2	rocketFunction	Anti-satellite weapon
+Thor DSV-2U	rocketFunction	Expendable launch system
+Thor-Delta	rocketFunction	Expendable launch system
+Delta A	rocketFunction	Expendable launch system
+Delta B	rocketFunction	Expendable launch system
+Delta C	rocketFunction	Expendable launch system
+Delta D	rocketFunction	Expendable launch system
+Delta J	rocketFunction	Expendable launch system
+Delta L	rocketFunction	Expendable launch system
+Delta M	rocketFunction	Expendable launch system
+Delta N	rocketFunction	Expendable launch system
+Delta 0100	rocketFunction	Expendable launch system
+Delta 1000	rocketFunction	Expendable launch system
+Delta 2000	rocketFunction	Expendable launch system
+Delta 3000	rocketFunction	Expendable launch system
+Delta 4000	rocketFunction	Expendable launch system
+Delta 5000	rocketFunction	Expendable launch system
+Unha	rocketFunction	Expendable launch system
+Paektusan (rocket)	rocketFunction	Launch vehicle
+Zenit-3SLB	rocketFunction	Launch vehicle
+Zenit-3F	rocketFunction	Launch vehicle
+Vostok-K	rocketFunction	Launch vehicle
+Vostok-2 (rocket)	rocketFunction	Launch vehicle
+Vostok-2M	rocketFunction	Launch vehicle
+Soyuz (rocket)	rocketFunction	Launch vehicle
+Soyuz-L	rocketFunction	Launch vehicle
+Soyuz-M	rocketFunction	Launch vehicle
+Mercury-Redstone Launch Vehicle	rocketFunction	Sub-orbital spaceflight
+Minotaur V	rocketFunction	Expendable launch system
+Titan 23G	rocketFunction	Expendable launch system
+Titan II GLV	rocketFunction	Human spaceflight
+Atlas LV-3B	rocketFunction	Human spaceflight
+NOTS-EV-2 Caleb	rocketFunction	Expendable launch system
+NOTS-EV-2 Caleb	rocketFunction	Sounding rocket
+NOTS-EV-2 Caleb	rocketFunction	Anti-satellite weapon
+Scout X-1	rocketFunction	Expendable launch system
+Scout X-1	rocketFunction	Sounding rocket
+RM-90 Blue Scout II	rocketFunction	Expendable launch system
+RM-90 Blue Scout II	rocketFunction	Sounding rocket
+RM-89 Blue Scout I	rocketFunction	Sounding rocket
+Scout X-1A	rocketFunction	Sounding rocket
+Scout X-2M	rocketFunction	Expendable launch system
+Scout X-2B	rocketFunction	Sounding rocket
+Scout X-2B	rocketFunction	Expendable launch system
+Rus-M	rocketFunction	Human-rating certification
+VS-40	rocketFunction	Sounding rocket
+Athena I	rocketFunction	Expendable launch system
+Athena II	rocketFunction	Expendable launch system
+Terasca	rocketFunction	Sounding rocket
+Cajun (rocket)	rocketFunction	Sounding rocket
+Space Launch System	rocketFunction	Launch vehicle
+Falcon Heavy	rocketFunction	Orbit

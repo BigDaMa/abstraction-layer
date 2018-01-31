@@ -1,0 +1,4997 @@
+Arabian Sea	depth	4652.0
+Cayuga Lake	depth	132.588
+Cayuga Lake	depth	55.4736
+Dead Sea	depth	377.0
+Dead Sea	depth	118.0
+Gulf of Finland	depth	115.0
+Gulf of Finland	depth	38.0
+Gusana	depth	79.5
+Roxen	depth	8.0
+Lake Ontario	depth	244.4496
+Lake Ontario	depth	86.2584
+Lake Erie	depth	64.008
+Lake Erie	depth	18.8976
+Lake Michigan	depth	281.3304
+Lake Michigan	depth	85.0392
+Lake Superior	depth	405.9936
+Lake Superior	depth	146.9136
+Lake Ladoga	depth	230.0
+Lake Ladoga	depth	51.0
+Lake Champlain	depth	122.0
+Lake Champlain	depth	19.5
+Lake Balaton	depth	12.2
+Lake Balaton	depth	3.2
+Lake Toba	depth	505.0
+Lake Eyre	depth	1.5
+Lake Abitibi	depth	15.0
+Lake Abitibi	depth	3.5
+Lake Nicaragua	depth	26.0
+Mälaren	depth	64.0
+Mälaren	depth	13.0
+Red Sea	depth	2211.0
+Red Sea	depth	490.0
+Seneca Lake (New York)	depth	188.3664
+Seneca Lake (New York)	depth	88.6968
+Vänern	depth	106.0
+Vänern	depth	27.0
+Wookey Hole Caves	depth	54.0
+Lake Van	depth	451.0
+Lake Van	depth	171.0
+Mono Lake	depth	48.0
+Mono Lake	depth	17.0
+Lake Huron	depth	228.6
+Lake Huron	depth	59.0
+Great Salt Lake	depth	13.716
+Great Salt Lake	depth	4.8768
+Lake Baikal	depth	1642.0
+Lake Baikal	depth	744.4
+Lake Zug	depth	197.0
+Lake Zug	depth	83.2
+Lake Chad	depth	11.0
+Lake Chad	depth	1.5
+Lake Teletskoye	depth	325.0
+Lake Zurich	depth	143.0
+Lake Zurich	depth	49.0
+Lake Malawi	depth	706.0
+Lake Malawi	depth	292.0
+Nantucket  Miacomet Pond   1	depth	6.096
+Lake Zaysan	depth	15.0
+Aral Sea	depth	42.0
+Aral Sea	depth	18.0
+Aral Sea	depth	30.0
+Aral Sea	depth	2005.0
+Aral Sea	depth	102.0
+Aral Sea	depth	8.7
+Aral Sea	depth	2005.0
+Sea of Galilee	depth	43.0
+Sea of Galilee	depth	25.6
+Lake Victoria	depth	83.0
+Lake Victoria	depth	40.0
+Lake Constance	depth	254.0
+Lake Constance	depth	90.0
+Tycho (crater)	depth	4800.0
+Lake Vostok	depth	1000.0
+Lake Vostok	depth	344.0
+Blue Lake National Park	depth	9.4
+Crater Lake	depth	594.0552
+Crater Lake	depth	349.9104
+Lake Ronkonkoma, New York  Lake Ronkonkoma   1	depth	30.48
+Lake Taupo	depth	186.0
+Lake Taupo	depth	110.0
+Lake Tahoe	depth	501.396
+Lake Tahoe	depth	304.8
+Lake Nemi	depth	33.0
+Derwentwater	depth	22.0
+Derwentwater	depth	5.5
+Lake Titicaca	depth	281.0
+Lake Titicaca	depth	107.0
+Lady Bird Lake	depth	5.4864
+Lake Austin	depth	22.86
+Lake Travis	depth	64.008
+Derwent Reservoir (Derbyshire)	depth	34.7
+Ladybower Reservoir	depth	28.956
+Utah Lake	depth	4.2672
+Utah Lake	depth	3.2004
+Lake Manitoba	depth	7.0
+Lake Winnipeg	depth	36.0
+Lake Winnipeg	depth	12.0
+Lake Geneva	depth	310.0
+Lake Geneva	depth	154.4
+Lake Tanganyika	depth	1470.0
+Lake Tanganyika	depth	570.0
+Lac Saint-Jean	depth	63.0
+Lake Pontchartrain	depth	19.812
+Lake Pontchartrain	depth	12.0
+Lake Winnipegosis	depth	18.0
+Lake Lucerne	depth	214.0
+Lake Lucerne	depth	104.0
+Lake Burtnieks	depth	3.3
+Lake Burtnieks	depth	2.4
+Lake Winnipesaukee	depth	64.6176
+Lake Washington	depth	65.2272
+Lake Washington	depth	32.9184
+Lake Union	depth	15.24
+Lake Union	depth	10.3632
+Issyk Kul	depth	668.0
+Issyk Kul	depth	270.0
+Lacamas Lake	depth	18.288
+Lake Nyos	depth	208.0
+Lake Itasca	depth	20.0
+Lake of the Woods	depth	64.008
+Lac Saint-Pierre	depth	11.3
+Lac Saint-Pierre	depth	3.0
+Tulare Lake	depth	10.0
+Laguna de Bay	depth	20.0
+Laguna de Bay	depth	2.8
+Lake Garda	depth	346.0
+Lake Garda	depth	136.0
+Lake Como	depth	410.0
+Lake Como	depth	154.0
+Lake Mweru	depth	27.0
+Lake Mweru	depth	7.5
+Lake Sammamish	depth	32.004
+Lake Sammamish	depth	17.6784
+Detroit Lake	depth	134.112
+Detroit Lake	depth	36.8808
+Loch Lomond	depth	190.0
+Loch Lomond	depth	37.0
+Lake Maracaibo	depth	60.0
+Gulf of Suez	depth	18.288
+Gulf of Suez	depth	12.192
+Saimaa	depth	82.0
+Saimaa	depth	17.0
+Lake Simcoe	depth	41.0
+Lake Simcoe	depth	15.0
+Lake Manly	depth	180.0
+Lake Annecy	depth	82.0
+Lake Annecy	depth	41.0
+Windermere	depth	66.76
+Haller Lake, Seattle	depth	10.9728
+Lake Lugano	depth	288.0
+Lake Lugano	depth	134.0
+Bull Shoals Lake	depth	64.008
+Bull Shoals Lake	depth	22.86
+Lake Tai	depth	2.0
+Lake Neuchâtel	depth	152.0
+Lake Neuchâtel	depth	64.2
+Clear Lake (California)	depth	18.288
+Clear Lake (California)	depth	8.2296
+Lake Marble Falls	depth	18.288
+Lake Lyndon B. Johnson	depth	27.432
+Inks Lake	depth	18.288
+Lake Buchanan (Texas)	depth	40.2336
+Owens Lake	depth	0.9144
+Lake Nasser	depth	180.0
+Lake Nasser	depth	25.2
+Lake Albert (Africa)	depth	58.0
+Lake Albert (Africa)	depth	25.0
+Lake Biwa	depth	103.58
+Lake Bracciano	depth	165.0
+Alphonsus (crater)	depth	2700.0
+Copernicus (lunar crater)	depth	3800.0
+Lake Sakakawea	depth	54.864
+Yellowstone Lake	depth	118.872
+Yellowstone Lake	depth	42.3672
+Lake Mead	depth	149.0
+Lake Powell	depth	170.0
+Lake Powell	depth	40.0
+Lake Hume	depth	51.0
+Lake Onega	depth	127.0
+Lake Onega	depth	30.0
+Lake Peipus	depth	15.3
+Lake Peipus	depth	7.1
+Lake Kyoga	depth	5.7
+Fermat (crater)	depth	2000.0
+Lake Athabasca	depth	124.0
+Lake Athabasca	depth	20.0
+Mittry Lake	depth	2.4384
+Coniston Water	depth	56.1
+Coniston Water	depth	24.1
+Bala Lake	depth	42.0
+Heaven Lake	depth	384.0
+Heaven Lake	depth	213.0
+Bitter Lake (Seattle)	depth	9.4488
+Bitter Lake (Seattle)	depth	4.8768
+Näsijärvi	depth	63.0
+Lough Neagh	depth	25.0
+Lough Neagh	depth	9.0
+Lake Wanaka	depth	300.0
+Moqua Well	depth	5.0
+Moqua Well	depth	2.5
+Anaximander (crater)	depth	2400.0
+Anaximenes (crater)	depth	2500.0
+Anaxagoras (crater)	depth	3000.0
+Salton Sea	depth	16.0
+Canandaigua Lake	depth	84.1248
+Canandaigua Lake	depth	38.7096
+Great Slave Lake	depth	614.0
+Great Slave Lake	depth	41.0
+Lake Minnetonka	depth	34.4424
+Dian Lake	depth	4.4
+Lake Mashū	depth	211.5
+Lake Mashū	depth	137.5
+Keuka Lake	depth	56.9976
+Keuka Lake	depth	30.7848
+Lake Okeechobee	depth	3.6576
+Lake Okeechobee	depth	2.7432
+Rybinsk Reservoir	depth	28.0
+Rybinsk Reservoir	depth	5.6
+East Okoboji Lake	depth	6.7056
+East Okoboji Lake	depth	3.048
+West Okoboji Lake	depth	41.4528
+West Okoboji Lake	depth	11.8872
+Spirit Lake (Iowa)	depth	7.3152
+Spirit Lake (Iowa)	depth	5.1816
+Skaneateles Lake	depth	96.012
+Lake Saint Clair (North America)	depth	8.2296
+Lake Saint Clair (North America)	depth	3.3528
+Lake Vištytis	depth	54.0
+Lake Vištytis	depth	15.5
+Lake Pedder	depth	3.0
+Lake Pedder	depth	13.0
+Powai Lake	depth	12.0
+Great Bear Lake	depth	446.0
+Great Bear Lake	depth	71.7
+Kalamalka Lake	depth	142.0
+Okanagan Lake	depth	232.0
+Okanagan Lake	depth	76.0
+Lake Turkana	depth	109.0
+Lake Turkana	depth	30.2
+Lake Balkhash	depth	26.0
+Lake Balkhash	depth	5.8
+Lake Thun	depth	217.0
+Lake Thun	depth	136.0
+Lake Brienz	depth	260.0
+Lake Brienz	depth	173.0
+Lake Biel	depth	74.0
+Lake Murten	depth	45.0
+Abbesses (Paris Métro)	depth	36.0
+Green Lake (Seattle)	depth	9.144
+Green Lake (Seattle)	depth	3.9624
+Pyhäjärvi (Tampere region)	depth	46.0
+Lake Winnebago	depth	6.4008
+Lake Winnebago	depth	4.7244
+Lake Mai-Ndombe	depth	10.0
+Lake Mai-Ndombe	depth	5.0
+Lake Kivu	depth	480.0
+Lake Kivu	depth	240.0
+Lake Edward	depth	112.0
+Lake Edward	depth	17.0
+Lake Naivasha	depth	30.0
+Lake Naivasha	depth	6.0
+Lake Abaya	depth	13.1
+Lake Abaya	depth	7.1
+Lake Mweru Wantipa	depth	5.0
+Lake Mweru Wantipa	depth	2.0
+Quabbin Reservoir	depth	45.72
+Quabbin Reservoir	depth	15.5448
+Lake Maninjau	depth	165.0
+Lake Maninjau	depth	105.0
+Manicouagan Reservoir	depth	350.0
+Manicouagan Reservoir	depth	85.0
+Lake Nipissing	depth	52.0
+Lake Nipissing	depth	4.5
+Walden Pond	depth	31.0896
+Walden Pond	depth	32.6136
+Toledo Bend Reservoir	depth	33.528
+Toledo Bend Reservoir	depth	18.288
+Big Bear Lake	depth	21.9456
+Poyang Lake	depth	25.1
+Poyang Lake	depth	8.4
+Lake Tisza	depth	17.0
+Lake Tisza	depth	1.3
+Lake Manapouri	depth	444.0
+Lake George (New South Wales)	depth	7.5
+Lake George (New South Wales)	depth	1.0
+Chautauqua Lake	depth	23.7744
+Cass Lake (Minnesota)	depth	36.576
+Oneida Lake	depth	6.7056
+Lake Burley Griffin	depth	18.0
+Lake Burley Griffin	depth	4.0
+Jordan Lake	depth	11.5824
+Jordan Lake	depth	4.2672
+Wast Water	depth	79.0
+Warragamba Dam	depth	105.0
+Lake Burragorang	depth	105.0
+Lake Illawarra	depth	3.0
+Lake Valencia	depth	39.0
+Lake Valencia	depth	18.0
+Lake Inari	depth	92.0
+Lake Inari	depth	15.0
+Lake Alice (Wyoming)	depth	60.96
+Lake Delton	depth	3.048
+Lake Eildon	depth	79.0
+Lake Eildon	depth	24.0
+Daedalus (crater)	depth	3000.0
+Loch Awe	depth	93.6
+Loch Awe	depth	32.0
+Loch Maree	depth	114.3
+Loch Maree	depth	38.1
+Loch Morar	depth	309.9816
+Loch Morar	depth	86.6
+Walensee	depth	151.0
+Walensee	depth	104.7
+Aristarchus (crater)	depth	3700.0
+Thirlmere	depth	40.0
+Lake Wisconsin	depth	12.192
+Lake Managua	depth	20.0
+Lake Managua	depth	9.5
+Cahora Bassa	depth	157.0
+Cahora Bassa	depth	20.9
+Wörthersee	depth	85.2
+Wörthersee	depth	41.9
+Lake St Clair (Tasmania)	depth	200.0
+Erhai Lake	depth	11.0
+Lake Como (Minnesota)	depth	4.7244
+Loch Lubnaig	depth	44.5
+Onondaga Lake	depth	19.2024
+Lake Rotoroa (Tasman)	depth	145.0
+Otisco Lake	depth	18.288
+Owasco Lake	depth	53.9496
+Hemlock Lake	depth	27.7368
+Hemlock Lake	depth	13.716
+Conesus Lake	depth	20.1168
+Canadice Lake	depth	28.956
+Lake Te Anau	depth	417.0
+Gaping Gill	depth	105.0
+Bassenthwaite Lake	depth	21.336
+Ullswater	depth	63.0
+Ullswater	depth	25.3
+Hreðavatn	depth	20.0
+Kleifarvatn	depth	97.0
+Blöndulón	depth	39.0
+Jökulsárlón	depth	200.0
+Siljan (lake)	depth	120.0
+Medicine Lake Volcano  Medicine Lake   1	depth	46.4
+Medicine Lake Volcano  Medicine Lake   1	depth	7.3
+Öskjuvatn	depth	217.0
+Langisjór	depth	75.0
+Hvítárvatn	depth	84.0
+Þingvallavatn	depth	114.0
+Þingvallavatn	depth	34.0
+Þórisvatn	depth	109.0
+Mývatn	depth	4.5
+Mývatn	depth	2.5
+Lagarfljót	depth	112.0
+Skorradalsvatn	depth	48.0
+Hóp	depth	9.0
+Svínavatn	depth	39.0
+Hvalvatn	depth	180.0
+Bras d'Or Lake	depth	287.1216
+Lake Maggiore	depth	372.0
+Lake Maggiore	depth	177.4
+Buttermere	depth	22.86
+Arzachel (crater)	depth	3600.0
+Moosehead Lake	depth	74.9808
+Moosehead Lake	depth	16.764
+Lake Alexandrina (South Australia)	depth	6.0
+Lake Alexandrina (South Australia)	depth	2.8
+Lake Placid (New York)	depth	15.24
+Avtozavodskaya (Moscow Metro)	depth	11.0
+Bull Sluice Lake	depth	16.764
+Bull Sluice Lake	depth	8.2296
+Bear Lake (Idaho–Utah)	depth	63.3984
+Bear Lake (Idaho–Utah)	depth	28.6512
+Loktak Lake	depth	4.6
+Loktak Lake	depth	2.7
+Drużno	depth	3.0
+Drużno	depth	1.2
+Walker Lake (Nevada)	depth	152.4
+Jackson Lake	depth	133.5024
+Peconic Bay	depth	24.384
+Dąbie Lake	depth	8.0
+Dąbie Lake	depth	3.0
+Crowley Lake	depth	30.48
+Karakul (Tajikistan)	depth	230.0
+Karikkoselkä	depth	26.0
+Keurusselkä	depth	40.0
+Keurusselkä	depth	6.4
+Lake Lappajärvi	depth	36.0
+Paasselkä	depth	75.0
+Pilot crater	depth	90.0
+Suvasvesi	depth	89.0
+Loch Lochy	depth	162.0
+Loch Lochy	depth	70.0
+Crystal Lake (Benzie County, Michigan)	depth	50.292
+Crystal Lake (Benzie County, Michigan)	depth	21.336
+Lake Bosumtwi	depth	81.0
+Lake Bosumtwi	depth	45.0
+Lake Tharthar	depth	40.0
+Poopó Lake	depth	1.0
+Lake Uluabat	depth	3.0
+Lake Quinsigamond	depth	25.908
+Greifensee	depth	32.0
+Greifensee	depth	18.0
+Storsjön	depth	74.0
+Linné (crater)	depth	600.0
+Cass Lake (Michigan)	depth	37.4904
+Beaver Lake (King County, Washington)	depth	15.24
+Beaver Lake (King County, Washington)	depth	6.4008
+Ross Lake	depth	164.592
+Albategnius (crater)	depth	4400.0
+Crazywell Pool	depth	4.8768
+Lake Chelan	depth	452.9328
+Lake Chelan	depth	144.4752
+Lake Wakatipu	depth	420.0
+Lake Wakatipu	depth	230.0
+Tulsi Lake	depth	12.0
+Vihar Lake	depth	34.0
+Lake Vyrnwy	depth	44.0
+Aristoteles (crater)	depth	3300.0
+Lake Minnewanka	depth	142.0
+Lake Timiskaming	depth	216.0
+Krubera Cave	depth	2191.0
+Eratosthenes (crater)	depth	3600.0
+Grand Lake St. Marys State Park	depth	5.0
+Bailly (crater)	depth	4300.0
+Bullialdus (crater)	depth	3500.0
+Long Lake (Maine)	depth	17.9832
+Long Lake (Maine)	depth	7.0104
+Brandy Pond (Cumberland County, Maine)	depth	13.4112
+Brandy Pond (Cumberland County, Maine)	depth	4.2672
+Sebago Lake	depth	96.3168
+Sebago Lake	depth	32.6136
+Ammersee	depth	81.0
+Ammersee	depth	37.8
+Lake Manyara	depth	3.7
+Leech Lake	depth	45.72
+Ammonius (crater)	depth	1900.0
+Ptolemaeus (lunar crater)	depth	2400.0
+Archimedes (crater)	depth	2100.0
+Bancroft (crater)	depth	500.0
+Fabricius (crater)	depth	2500.0
+Janssen (lunar crater)	depth	2900.0
+MacMillan (crater)	depth	400.0
+Langrenus (crater)	depth	2700.0
+Metius (crater)	depth	3000.0
+Pupin (crater)	depth	400.0
+Gander Lake	depth	288.0
+Gander Lake	depth	105.4
+Beaumont (crater)	depth	1700.0
+Hesiodus (crater)	depth	1400.0
+Lamé (crater)	depth	3300.0
+Maestlin (crater)	depth	1600.0
+Messier (crater)	depth	1300.0
+Moretus (crater)	depth	5000.0
+Müller (lunar crater)	depth	2000.0
+Piccolomini (crater)	depth	4500.0
+Pitatus (crater)	depth	900.0
+Vendelinus (crater)	depth	2600.0
+Lake Nokomis	depth	10.0584
+Plinius (crater)	depth	4300.0
+Chacornac (crater)	depth	1500.0
+Daniell (crater)	depth	2100.0
+Dawes (lunar crater)	depth	2300.0
+Menelaus (crater)	depth	3000.0
+Neper (crater)	depth	2000.0
+Posidonius (crater)	depth	2300.0
+Pythagoras (crater)	depth	5000.0
+Rheita (crater)	depth	4300.0
+Rosse (crater)	depth	2400.0
+Ramsden (crater)	depth	2000.0
+Regiomontanus (crater)	depth	1700.0
+Thebit (crater)	depth	3300.0
+Moraine Lake	depth	14.0
+Bayer (crater)	depth	2000.0
+Schiller (crater)	depth	3900.0
+Seleucus (crater)	depth	3000.0
+Lehmann (lunar crater)	depth	800.0
+Schickard (crater)	depth	1500.0
+Galilaei (lunar crater)	depth	1400.0
+Krafft (crater)	depth	2000.0
+Lesser Slave Lake	depth	20.5
+Lesser Slave Lake	depth	11.4
+Aldrin (crater)	depth	600.0
+Ångström (crater)	depth	2000.0
+Armstrong (crater)	depth	700.0
+Artsimovich (crater)	depth	2000.0
+Banting (crater)	depth	1100.0
+Beer (lunar crater)	depth	1700.0
+Airy (lunar crater)	depth	1800.0
+Bessarion (crater)	depth	2000.0
+Birt (crater)	depth	3500.0
+Brayley (crater)	depth	2800.0
+Carlini (crater)	depth	2000.0
+Caventou (crater)	depth	400.0
+Collins (crater)	depth	600.0
+Cyrillus (crater)	depth	3600.0
+Draper (crater)	depth	1700.0
+Huxley (lunar crater)	depth	800.0
+Landsteiner (crater)	depth	1400.0
+Luther (crater)	depth	1900.0
+Mädler (lunar crater)	depth	2700.0
+Manners (crater)	depth	1700.0
+McDonald (crater)	depth	1500.0
+Moltke (crater)	depth	1300.0
+Sirsalis (crater)	depth	3000.0
+Theophilus (crater)	depth	3200.0
+Trouvelot (lunar crater)	depth	1200.0
+Wollaston (crater)	depth	1000.0
+Wallach (crater)	depth	1100.0
+Bobillier (crater)	depth	1200.0
+Borel (crater)	depth	1000.0
+Catharina (crater)	depth	3100.0
+Deseilligny (crater)	depth	1200.0
+Plato (crater)	depth	1000.0
+Very (lunar crater)	depth	1000.0
+Orchard Lake	depth	33.528
+Rice Lake (Ontario)	depth	8.2296
+Zach (crater)	depth	3700.0
+Zagut (crater)	depth	3200.0
+Zähringer (crater)	depth	2100.0
+Zöllner (crater)	depth	700.0
+Zucchius (crater)	depth	3200.0
+Glenmore Reservoir	depth	21.1
+Glenmore Reservoir	depth	6.1
+Censorinus (crater)	depth	400.0
+Euclides (crater)	depth	1300.0
+Kuiper (lunar crater)	depth	1300.0
+Kundt (crater)	depth	2100.0
+Lubbock (crater)	depth	600.0
+Puiseux (crater)	depth	400.0
+Seeliger (crater)	depth	1800.0
+Biot (crater)	depth	1500.0
+Blagg (crater)	depth	900.0
+Bruce (crater)	depth	1300.0
+Hyginus (crater)	depth	800.0
+Kane (crater)	depth	3300.0
+Kies (crater)	depth	400.0
+Lade (crater)	depth	800.0
+Lippershey (crater)	depth	1400.0
+Murchison (crater)	depth	1800.0
+Rutherfurd (crater)	depth	2900.0
+Abul Wafa (crater)	depth	2800.0
+Shasta Lake	depth	157.5816
+Hainzel (crater)	depth	3000.0
+Clavius (crater)	depth	3500.0
+Grimaldi (crater)	depth	2700.0
+Maginus (crater)	depth	4300.0
+Lac de Paladru	depth	33.0
+Lac de Paladru	depth	25.0
+Deep Creek Lake	depth	22.86
+Herodotus (crater)	depth	1500.0
+Hipparchus (lunar crater)	depth	3300.0
+Longomontanus (crater)	depth	4500.0
+Petavius (crater)	depth	3400.0
+Riccioli (crater)	depth	2300.0
+Lake Wylie	depth	73.0
+Lake Wissota	depth	21.9456
+Lake Waccamaw	depth	2.286
+Stöfler (crater)	depth	2800.0
+Walther (crater)	depth	4100.0
+Newton (lunar crater)	depth	6100.0
+Devils Lake (Lincoln County, Oregon)	depth	6.43128
+Devils Lake (Lincoln County, Oregon)	depth	2.56032
+Green Pond, New Jersey	depth	16.4592
+Green Pond, New Jersey	depth	1970.0
+Antoniadi (lunar crater)	depth	9000.0
+Al-Bakri (crater)	depth	1000.0
+Alpetragius (crater)	depth	3900.0
+Aratus (crater)	depth	1900.0
+Argelander (crater)	depth	3000.0
+Beketov (crater)	depth	1000.0
+Bettinus (crater)	depth	3800.0
+Lake Scugog	depth	7.6
+Lake Scugog	depth	1.4
+Klein (crater)	depth	1500.0
+Parrot (crater)	depth	1100.0
+Vogel (lunar crater)	depth	2800.0
+Burnham (crater)	depth	900.0
+Ritchey (lunar crater)	depth	1300.0
+Jansen (crater)	depth	600.0
+Street (crater)	depth	1500.0
+Pictet (crater)	depth	2700.0
+Lohse (lunar crater)	depth	2200.0
+Holden (lunar crater)	depth	4000.0
+Lakes Kaban	depth	12.5
+Mitchell (crater)	depth	1300.0
+Galle (lunar crater)	depth	2300.0
+Segner (crater)	depth	1300.0
+Nasmyth (crater)	depth	1400.0
+Phocylides (crater)	depth	2100.0
+Nöggerath (crater)	depth	1500.0
+Brewster (crater)	depth	2100.0
+Cajal (crater)	depth	1800.0
+Cauchy (crater)	depth	2600.0
+C. Herschel (crater)	depth	1900.0
+Clerke (crater)	depth	1400.0
+Joy (crater)	depth	1000.0
+Apollonius (crater)	depth	1500.0
+Picard (crater)	depth	2400.0
+Taruntius (crater)	depth	1000.0
+Lago de Atitlán	depth	340.0
+Timocharis (crater)	depth	3100.0
+Lake Urmia	depth	16.0
+Lake Couchiching	depth	12.0
+Lake Couchiching	depth	6.0
+Bode (crater)	depth	3500.0
+Chladni (crater)	depth	2600.0
+Euler (crater)	depth	2200.0
+Faraday (crater)	depth	4100.0
+Fauth (crater)	depth	2000.0
+Fernelius (crater)	depth	1800.0
+Gay-Lussac (crater)	depth	800.0
+Halley (lunar crater)	depth	2500.0
+Hind (crater)	depth	3000.0
+König (crater)	depth	2400.0
+Lubiniezky (crater)	depth	800.0
+Pallas (crater)	depth	1300.0
+Horrocks (crater)	depth	3000.0
+Pickering (lunar crater)	depth	2700.0
+Rhaeticus (crater)	depth	1600.0
+Polybius (crater)	depth	2100.0
+Saunder (crater)	depth	1300.0
+Schiaparelli (lunar crater)	depth	2100.0
+Schröter (lunar crater)	depth	1000.0
+Sharp (crater)	depth	3200.0
+Sheepshanks (crater)	depth	2000.0
+Suess	depth	500.0
+Tacitus (crater)	depth	2800.0
+Theaetetus (crater)	depth	2800.0
+Cleomedes (crater)	depth	2700.0
+Proclus (crater)	depth	2400.0
+Chiemsee	depth	72.7
+Lake George (New York)	depth	76.2
+Lake George (Florida)	depth	2.4384
+Endymion (crater)	depth	2600.0
+Gassendi (crater)	depth	1900.0
+Hommel (crater)	depth	2800.0
+Letronne (crater)	depth	1000.0
+Maurolycus (crater)	depth	4700.0
+Orontius (crater)	depth	3100.0
+Purbach (crater)	depth	3000.0
+Scheiner (crater)	depth	4500.0
+Triesnecker (crater)	depth	2800.0
+Sacrobosco (crater)	depth	2800.0
+Snellius (crater)	depth	3500.0
+Blancanus (crater)	depth	3700.0
+Boguslawsky (crater)	depth	3400.0
+Hevelius (crater)	depth	1800.0
+Marius (crater)	depth	1700.0
+Milichius (crater)	depth	2500.0
+Abulfeda (crater)	depth	3100.0
+Lake Ilmen	depth	10.0
+Lake Doré	depth	18.0
+Ariadaeus (crater)	depth	1800.0
+Arago (lunar crater)	depth	1800.0
+Aristillus (crater)	depth	3600.0
+Atlas (crater)	depth	2000.0
+Autolycus (crater)	depth	3400.0
+Abenezra (crater)	depth	3700.0
+Bohnenberger (crater)	depth	1100.0
+Bessel (crater)	depth	1700.0
+Boscovich (crater)	depth	1800.0
+Byrgius (crater)	depth	4600.0
+Cardanus (crater)	depth	1300.0
+Cavalerius (crater)	depth	3000.0
+Cavendish (crater)	depth	2400.0
+Delisle (crater)	depth	2600.0
+Descartes (crater)	depth	900.0
+Dionysius (crater)	depth	2700.0
+Diophantus (crater)	depth	3000.0
+Doppelmayer (crater)	depth	1600.0
+Eudoxus (lunar crater)	depth	3400.0
+Flammarion (lunar crater)	depth	1500.0
+Flamsteed (crater)	depth	2200.0
+Furnerius (crater)	depth	3500.0
+Gambart (crater)	depth	1100.0
+Gärtner (crater)	depth	1300.0
+Goclenius (crater)	depth	1500.0
+Guericke (crater)	depth	700.0
+Gutenberg (crater)	depth	2300.0
+Hansteen (crater)	depth	1300.0
+Hercules (crater)	depth	3200.0
+Herschel (lunar crater)	depth	3800.0
+Hippalus (crater)	depth	1200.0
+Hortensius (crater)	depth	2900.0
+Julius Caesar (crater)	depth	3400.0
+Kepler (lunar crater)	depth	2600.0
+La Caille (crater)	depth	2800.0
+Lalande (crater)	depth	2600.0
+Lambert (lunar crater)	depth	2700.0
+Lansberg (crater)	depth	3100.0
+Le Monnier (crater)	depth	2400.0
+Lee (crater)	depth	1300.0
+Lichtenberg (crater)	depth	1200.0
+Littrow (crater)	depth	1200.0
+Manilius (crater)	depth	3100.0
+Maraldi (lunar crater)	depth	1300.0
+Maskelyne (crater)	depth	2500.0
+Mercator (crater)	depth	1800.0
+Mersenius (crater)	depth	2300.0
+Meton (crater)	depth	2600.0
+Mösting (crater)	depth	2800.0
+Pytheas (crater)	depth	2500.0
+Réaumur (crater)	depth	1300.0
+Reiner (crater)	depth	2600.0
+Reinhold (crater)	depth	3300.0
+Ritter (crater)	depth	1300.0
+Römer (crater)	depth	3300.0
+Sabine (crater)	depth	1300.0
+Secchi (lunar crater)	depth	1900.0
+Silberschlag (crater)	depth	2500.0
+Sosigenes (crater)	depth	1700.0
+Stevinus (crater)	depth	3000.0
+Strabo (crater)	depth	3800.0
+Sulpicius Gallus (crater)	depth	2200.0
+Thales (crater)	depth	1800.0
+Timaeus (crater)	depth	2200.0
+Torricelli (crater)	depth	2100.0
+Tacquet (crater)	depth	1300.0
+Vitruvius (crater)	depth	1500.0
+Werner (crater)	depth	4200.0
+Lake Ellesmere / Te Waihora	depth	2.1
+Agatharchides (crater)	depth	1200.0
+Bianchini (lunar crater)	depth	3100.0
+Van de Graaff (crater)	depth	4000.0
+Le Verrier (lunar crater)	depth	2100.0
+Helicon (crater)	depth	500.0
+Bürg (crater)	depth	1800.0
+Lake Päijänne	depth	95.3
+Lake Päijänne	depth	16.2
+Abel (crater)	depth	1190.0
+Adams (lunar crater)	depth	2000.0
+Agrippa (crater)	depth	3100.0
+Alexander (crater)	depth	1300.0
+Shackleton (crater)	depth	4200.0
+Alfraganus (crater)	depth	2800.0
+Alhazen (crater)	depth	2000.0
+Olbers (crater)	depth	3000.0
+Aliacensis (crater)	depth	3700.0
+Lake Benmore	depth	120.0
+Lough Derg (Shannon)	depth	36.0
+Lough Derg (Shannon)	depth	7.6
+Lake Leelanau	depth	36.8808
+Lake Leelanau	depth	18.8976
+Lake Okutama	depth	142.0
+Mjøsa	depth	449.0
+Mjøsa	depth	155.0
+Almanon (crater)	depth	2500.0
+Anděl (crater)	depth	1300.0
+Burckhardt (crater)	depth	4800.0
+Delambre (crater)	depth	3500.0
+Barocius (crater)	depth	3500.0
+Encke (crater)	depth	800.0
+Franklin (crater)	depth	2700.0
+Geminus (crater)	depth	5400.0
+Godin (crater)	depth	3200.0
+Gruithuisen (crater)	depth	1900.0
+Harpalus (crater)	depth	2900.0
+Heraclitus (crater)	depth	3800.0
+Mairan (crater)	depth	3400.0
+Blue Lake (Utah)	depth	18.288
+Iliamna Lake	depth	301.1424
+Iliamna Lake	depth	43.8912
+Ross Barnett Reservoir	depth	10.668
+Ross Barnett Reservoir	depth	3.6576
+Ansgarius (crater)	depth	2200.0
+Apianus (crater)	depth	2080.0
+Lake Charlevoix	depth	37.1856
+Lough Allen	depth	31.0
+Lough Allen	depth	4.0
+Archytas (crater)	depth	2400.0
+Arnold (crater)	depth	2000.0
+Asclepi (crater)	depth	2900.0
+Auwers (crater)	depth	1700.0
+Azophi (crater)	depth	3700.0
+Burt Lake	depth	22.2504
+Mullett Lake	depth	36.576
+Babbage (crater)	depth	2000.0
+Norman (crater)	depth	2000.0
+Gulf of Mannar	depth	1335.0
+Lake Mainit	depth	223.0
+Lake Mainit	depth	128.0
+Baillaud (crater)	depth	2000.0
+Barrow (crater)	depth	3200.0
+Baco (crater)	depth	3100.0
+Birmingham (crater)	depth	1800.0
+Parry (crater)	depth	600.0
+Sarabhai (crater)	depth	1700.0
+Democritus (crater)	depth	2000.0
+Pons (crater)	depth	2300.0
+Lake Houston	depth	13.716
+Lake Neusiedl	depth	1.8
+Lake Neusiedl	depth	1.0
+Geber (crater)	depth	3500.0
+Attersee (lake)	depth	171.0
+Mondsee (lake)	depth	68.0
+Ctesibius (crater)	depth	2500.0
+Heron (crater)	depth	600.0
+Tolansky (crater)	depth	900.0
+Davy (crater)	depth	1400.0
+Hase (crater)	depth	2500.0
+Legendre (crater)	depth	2700.0
+Palisa (crater)	depth	900.0
+Tempel (crater)	depth	1300.0
+Swildon's Hole	depth	167.0
+Femund	depth	130.0
+Lake Hawea	depth	392.0
+Lake Ohau	depth	129.0
+Lake Ohau	depth	74.0
+Billy (crater)	depth	1200.0
+Blanchinus (crater)	depth	4200.0
+Lake Pukaki	depth	70.0
+Lake Pukaki	depth	47.0
+Lake Tekapo	depth	120.0
+Lake Tekapo	depth	69.0
+Calippus (crater)	depth	2700.0
+Hansen (crater)	depth	1500.0
+Lassell (lunar crater)	depth	900.0
+Moissan (crater)	depth	2600.0
+Loch Tay	depth	150.0
+Lake Towada	depth	327.0
+Lake Towada	depth	71.0
+Bellot (crater)	depth	2200.0
+Bernoulli (crater)	depth	4000.0
+Brown (crater)	depth	2300.0
+Buch (crater)	depth	1400.0
+Behaim (crater)	depth	2100.0
+Lake Hauroko	depth	463.0
+Lake Calhoun	depth	26.5176
+Büsching (crater)	depth	1700.0
+D'Arrest (crater)	depth	1500.0
+Schmidt (lunar crater)	depth	2300.0
+Theon Junior (crater)	depth	3580.0
+Theon Senior (crater)	depth	3470.0
+Lake Iseo	depth	251.0
+Lake Iseo	depth	124.0
+Chew Valley Lake	depth	11.2776
+Chew Valley Lake	depth	4.2672
+Lake Brunner	depth	109.0
+Biela (crater)	depth	3100.0
+Sankey tank	depth	9.26
+Lake Ginninderra	depth	3.5
+Bowditch (crater)	depth	500.0
+Gioja (crater)	depth	2900.0
+Rost (crater)	depth	2000.0
+Briggs (crater)	depth	1200.0
+Main (lunar crater)	depth	2800.0
+Borda (crater)	depth	2900.0
+Webb (crater)	depth	800.0
+Lake Tikitapu	depth	27.5
+Lake Tikitapu	depth	19.1
+Lake Fryxell	depth	20.0
+Lake Fryxell	depth	3.2
+Lilius (crater)	depth	3000.0
+Mutus (crater)	depth	3700.0
+Pontécoulant (crater)	depth	1800.0
+Krieger (crater)	depth	1100.0
+Fontenelle (crater)	depth	1800.0
+Nicolai (crater)	depth	1800.0
+Protagoras (crater)	depth	2100.0
+Cepheus (crater)	depth	2800.0
+Maury (crater)	depth	3300.0
+Benedict (crater)	depth	3100.0
+Pulicat Lake	depth	10.0
+Pulicat Lake	depth	1.0
+Chilika Lake	depth	4.2
+Sinas (crater)	depth	2300.0
+Pingré (crater)	depth	2300.0
+Clausius (crater)	depth	2500.0
+Lake Alexandrina (New Zealand)	depth	27.0
+Lake Coleridge	depth	200.0
+Deluc (crater)	depth	3300.0
+Porter (lunar crater)	depth	2300.0
+Tannerus (crater)	depth	1800.0
+Haweswater Reservoir	depth	57.0
+Haweswater Reservoir	depth	23.4
+Cabeus (crater)	depth	4000.0
+Schomberger (crater)	depth	3400.0
+Ball (crater)	depth	2800.0
+Bergman (crater)	depth	2400.0
+Lacroix (crater)	depth	1600.0
+Lake Rotokakahi	depth	32.0
+Lake Rotokakahi	depth	17.7
+Lake Okareka	depth	33.5
+Lake Okareka	depth	18.4
+Lake Okataina	depth	78.5
+Lake Okataina	depth	44.0
+Lake Rerewhakaaitu	depth	15.0
+Lake Rerewhakaaitu	depth	6.0
+Lake Rotomahana	depth	112.4
+Lake Rotomahana	depth	51.0
+Lake Tarawera	depth	87.5
+Lake Tarawera	depth	57.0
+Lake Rotorua	depth	45.0
+Lake Rotorua	depth	10.0
+Lake Rotoehu	depth	13.5
+Lake Rotoehu	depth	8.3
+Lake Rotoma	depth	83.0
+Lake Rotoma	depth	38.6
+Sun Moon Lake	depth	27.0
+Breislak (crater)	depth	2600.0
+Brisbane (lunar crater)	depth	1700.0
+Brenner (crater)	depth	3300.0
+Bouguer (lunar crater)	depth	2500.0
+Berosus (crater)	depth	3600.0
+Berzelius (crater)	depth	1700.0
+Lake Alaotra	depth	1.5
+Lake Alaotra	depth	0.6
+Donner Lake	depth	100.0
+Lake Waikaremoana	depth	256.0
+Lake Ülemiste	depth	4.2
+Lake Ülemiste	depth	2.5
+Brunner (crater)	depth	3700.0
+De Morgan (crater)	depth	1800.0
+Lucian (crater)	depth	1500.0
+Lyell (lunar crater)	depth	1000.0
+Ross (lunar crater)	depth	1800.0
+Sömmering (crater)	depth	1000.0
+Turner (crater)	depth	2600.0
+Ukert (crater)	depth	2900.0
+Whewell (crater)	depth	2300.0
+Lake Pupuke	depth	57.0
+Lake Pupuke	depth	60.0
+Hubbard Lake (Michigan)	depth	25.908
+Hubbard Lake (Michigan)	depth	9.93648
+Conneaut Lake	depth	24.6888
+Conneaut Lake	depth	5.7912
+Boussingault (crater)	depth	3200.0
+Lawrence (crater)	depth	1000.0
+Lake Koshkonong	depth	1.8288
+Darney (crater)	depth	2600.0
+Herigonius (crater)	depth	2100.0
+Hermann (crater)	depth	1400.0
+Condorcet (crater)	depth	2700.0
+Scheele (crater)	depth	800.0
+Lake Maraetai	depth	75.0
+Lake Karapiro	depth	30.5
+Lake Karapiro	depth	11.0
+Lake Ohrid	depth	288.0
+Lake Ohrid	depth	155.0
+Carpenter (crater)	depth	2600.0
+Conon (crater)	depth	2300.0
+Curtius (crater)	depth	6800.0
+Cuvier (crater)	depth	3800.0
+Lake Manasarovar	depth	90.0
+Campanus (crater)	depth	2100.0
+Lake Wairarapa	depth	2.5
+Moses Lake	depth	11.5824
+Moses Lake	depth	5.4864
+Carmichael (crater)	depth	3600.0
+Cayley (crater)	depth	3100.0
+Glaisher (crater)	depth	2000.0
+Goldschmidt (crater)	depth	2000.0
+Lake Vidraru	depth	155.0
+Kootenay Lake	depth	150.0
+Kootenay Lake	depth	10.0
+Kasshabog Lake (Ontario)	depth	23.7744
+Kasshabog Lake (Ontario)	depth	4.572
+Firmicus (crater)	depth	1500.0
+Gauss (crater)	depth	3600.0
+Maupertuis (crater)	depth	1500.0
+Peirce (crater)	depth	1800.0
+Wrottesley (crater)	depth	2300.0
+Lake Peigneur	depth	60.96
+Lake Peigneur	depth	0.9144
+Hell (crater)	depth	2200.0
+Huggins (lunar crater)	depth	3000.0
+Klaproth (crater)	depth	3100.0
+Steinheil (crater)	depth	3000.0
+Tralles (crater)	depth	3400.0
+Gaudibert (crater)	depth	1600.0
+Hypatia (crater)	depth	1400.0
+Königssee	depth	190.0
+Königssee	depth	98.1
+Isidorus (crater)	depth	1600.0
+Riccius (crater)	depth	1800.0
+Gemma Frisius (crater)	depth	4700.0
+Jacobi (crater)	depth	3300.0
+Poisson (crater)	depth	2000.0
+Scoresby (crater)	depth	2400.0
+Playfair (lunar crater)	depth	2900.0
+Geneva Lake	depth	44.0
+Geneva Lake	depth	19.1
+Rotsee	depth	16.0
+Lake Malta	depth	5.0
+Lake Malta	depth	3.1
+Marco Polo (crater)	depth	1100.0
+T. Mayer (crater)	depth	2900.0
+Lake Omapere	depth	2.0
+Casatus (crater)	depth	5500.0
+Loewy (crater)	depth	1100.0
+Philolaus (crater)	depth	3400.0
+Vitello (crater)	depth	1700.0
+Damoiseau (crater)	depth	1200.0
+Priest Lake	depth	112.4712
+Mee (crater)	depth	2700.0
+Crüger (crater)	depth	500.0
+Lake Hefner	depth	8.8392
+Lake Stanley Draper	depth	28.3464
+Lake Stanley Draper	depth	10.668
+Eufaula Lake	depth	26.5176
+Eufaula Lake	depth	7.0104
+Kukkarahalli lake	depth	5.0
+Lexell (crater)	depth	2200.0
+Miller (crater)	depth	3500.0
+Pitiscus (crater)	depth	3000.0
+Rabbi Levi (crater)	depth	3500.0
+Taylor (crater)	depth	2500.0
+Licetus (crater)	depth	3800.0
+Messala (crater)	depth	1100.0
+Nasireddin (crater)	depth	3000.0
+Vlacq (crater)	depth	3000.0
+Dollond (crater)	depth	1600.0
+Maclaurin (crater)	depth	1500.0
+Ennerdale Water	depth	45.0
+Hausen (crater)	depth	3900.0
+Cook (crater)	depth	1200.0
+Yangel' (crater)	depth	400.0
+Spörer (crater)	depth	300.0
+Colombo (crater)	depth	2400.0
+Crozier (crater)	depth	1300.0
+Cysatus (crater)	depth	4000.0
+Maclear (crater)	depth	600.0
+Geissler (crater)	depth	2600.0
+Galen (crater)	depth	1600.0
+Gardner (crater)	depth	3000.0
+Franck (crater)	depth	2500.0
+Feuillée (crater)	depth	1800.0
+Fabbroni (crater)	depth	2100.0
+Elger (crater)	depth	1300.0
+Esclangon (crater)	depth	400.0
+Dunthorne (crater)	depth	2800.0
+Daubrée (crater)	depth	1600.0
+Abrakurrie Cave	depth	-70.0
+Haidinger (crater)	depth	2300.0
+Hall (lunar crater)	depth	1100.0
+Harding (crater)	depth	1100.0
+Heinrich (crater)	depth	1400.0
+Heis (crater)	depth	700.0
+Hill (crater)	depth	3300.0
+Macrobius (crater)	depth	3900.0
+Hornsby (crater)	depth	400.0
+Horrebow (crater)	depth	2500.0
+Kirch (crater)	depth	1800.0
+Kunowsky (lunar crater)	depth	900.0
+Medina Lake	depth	46.3296
+Gerard (crater)	depth	2200.0
+Honeoye Lake	depth	9.144
+Honeoye Lake	depth	4.8768
+Nicollet (crater)	depth	2000.0
+Piazzi Smyth (crater)	depth	2500.0
+Canadarago Lake	depth	13.0
+Cazenovia Lake	depth	19.812
+Cross Lake	depth	19.5072
+Demonax (crater)	depth	2900.0
+Lagrange (crater)	depth	2700.0
+Lamarck (crater)	depth	2800.0
+Drygalski (crater)	depth	4000.0
+Theophrastus (crater)	depth	1700.0
+Virchow (crater)	depth	1200.0
+Wilhelm (crater)	depth	3000.0
+Xenophanes (crater)	depth	3200.0
+Young (crater)	depth	4200.0
+Ogof Ffynnon Ddu	depth	308.0
+Cleostratus (crater)	depth	2200.0
+Lake Bomoseen	depth	19.8
+Lake Bomoseen	depth	8.2
+Lake Sfânta Ana	depth	7.0
+Lake Sfânta Ana	depth	6.0
+Lake Attitash	depth	10.668
+Tempe Town Lake	depth	6.0
+Tempe Town Lake	depth	4.0
+Saguaro Lake (Arizona)	depth	27.432
+Kazumura Cave	depth	1101.2424
+Squantz Pond State Park	depth	14.3256
+Squantz Pond State Park	depth	6.97992
+Epigenes (crater)	depth	2000.0
+Candlewood Lake	depth	27.432
+Candlewood Lake	depth	12.192
+Blue Lake (South Australia)	depth	77.0
+Blue Lake (South Australia)	depth	72.0
+Celsius (crater)	depth	1500.0
+Clairaut (crater)	depth	2700.0
+Lake McQueeney	depth	12.192
+Kamloops Lake	depth	152.0
+Kamloops Lake	depth	71.0
+Binnenalster	depth	2.0
+Lake Monona	depth	19.5072
+Lake Monona	depth	8.2296
+Round Lake National Natural Landmark	depth	54.864
+Green Lake (New York)	depth	52.0
+Chevallier (crater)	depth	1200.0
+G. Bond (crater)	depth	2800.0
+Houghton Lake (Michigan)	depth	6.7056
+Houghton Lake (Michigan)	depth	2.286
+Lake Nipigon	depth	165.0
+Kircher (crater)	depth	4300.0
+Nearch (crater)	depth	2900.0
+Simpelius (crater)	depth	3200.0
+Somerville Lake	depth	11.5824
+Lake Conroe	depth	22.86
+Lake Conroe	depth	6.2484
+Lake Limestone	depth	12.8016
+Gibbons Creek Reservoir	depth	10.3632
+Carrington (crater)	depth	1500.0
+Cichus (crater)	depth	2800.0
+Foucault (crater)	depth	2100.0
+Inghirami (crater)	depth	3000.0
+Plana (crater)	depth	1000.0
+Robinson (crater)	depth	1400.0
+Sasserides (crater)	depth	1800.0
+Heinsius (crater)	depth	2700.0
+Delmotte (crater)	depth	3000.0
+Dove (crater)	depth	1600.0
+Drebbel (crater)	depth	2500.0
+Grove (crater)	depth	2400.0
+Hahn (crater)	depth	3000.0
+Delaunay (crater)	depth	1900.0
+Inle Lake	depth	3.6576
+Inle Lake	depth	1.524
+Lake Ossiach	depth	52.0
+Lake Ossiach	depth	19.6
+Balsam Lake (Ontario)	depth	15.24
+Schwabe (crater)	depth	1700.0
+Lavoisier (crater)	depth	2000.0
+Louville (crater)	depth	1000.0
+Ulugh Beigh (crater)	depth	1700.0
+Hooke (lunar crater)	depth	2300.0
+Kirchhoff (crater)	depth	2600.0
+Lamèch (crater)	depth	1500.0
+Mason (crater)	depth	1900.0
+Williams (lunar crater)	depth	700.0
+Lakes of Killarney	depth	60.0
+Lakes of Killarney	depth	13.4
+Easegill System	depth	137.16
+Lake Narach	depth	25.0
+Lake Drummond	depth	1.8288
+Røssvatnet	depth	240.0
+Røssvatnet	depth	67.0
+Randsfjorden	depth	120.0
+Tyrifjorden	depth	295.0
+Tyrifjorden	depth	97.0
+Hornindalsvatnet	depth	514.0
+Hornindalsvatnet	depth	236.0
+Shuckburgh (crater)	depth	1300.0
+Schumacher (crater)	depth	1700.0
+Franz (crater)	depth	600.0
+Newcomb (lunar crater)	depth	2200.0
+Tisserand (crater)	depth	2800.0
+Eimmart (crater)	depth	3200.0
+Liebig (crater)	depth	1500.0
+Palmieri (crater)	depth	1200.0
+Vasco da Gama (crater)	depth	2100.0
+Plutarch (crater)	depth	2800.0
+Fort Peck Lake	depth	67.056
+Fort Peck Lake	depth	23.25624
+Lake Volta	depth	75.0
+Lake Volta	depth	18.8
+Lake Sharpe	depth	23.7744
+Hornsea Mere	depth	3.6576
+Lake Oahe	depth	62.484
+Gyldén (crater)	depth	1800.0
+Lohrmann (crater)	depth	1700.0
+Kant (crater)	depth	3100.0
+Lindsay (crater)	depth	1600.0
+Magelhaens (lunar crater)	depth	2000.0
+Canyon Lake (Arizona)	depth	39.624
+Flathead Lake	depth	112.98936
+Flathead Lake	depth	50.20056
+Maligne Lake	depth	97.0
+Maligne Lake	depth	35.0
+Von Behring (crater)	depth	2300.0
+Weierstrass (crater)	depth	2400.0
+Eichstadt (crater)	depth	3400.0
+Loch Shiel	depth	128.0
+Loch Shiel	depth	40.5
+Fontana (lunar crater)	depth	1500.0
+Henry Frères (crater)	depth	2000.0
+Van Vleck (crater)	depth	2400.0
+Vieta (crater)	depth	4500.0
+Lake Chapala	depth	10.5
+Lake Chapala	depth	4.5
+Wilkins (crater)	depth	1200.0
+Krusenstern (crater)	depth	1600.0
+Faye (crater)	depth	2400.0
+Weinek (crater)	depth	3400.0
+Lake Bolsena	depth	151.0
+Lake Bolsena	depth	81.0
+McClure (crater)	depth	1500.0
+Monge (crater)	depth	2600.0
+Lake Tsongmo	depth	15.0
+Khecheopalri Lake	depth	11.2
+Khecheopalri Lake	depth	7.2
+Fourier (crater)	depth	3700.0
+Lepaute	depth	2100.0
+Neander (crater)	depth	3400.0
+Piazzi (crater)	depth	2300.0
+Pontanus (crater)	depth	2100.0
+Santbech (crater)	depth	4500.0
+Lagalla (crater)	depth	1300.0
+Epimenides (crater)	depth	2000.0
+Gauricus (crater)	depth	2700.0
+Montanari (crater)	depth	2000.0
+Nonius (crater)	depth	3000.0
+Proctor (lunar crater)	depth	1300.0
+Saussure (crater)	depth	1800.0
+Wurzelbauer (crater)	depth	2200.0
+Goodacre (crater)	depth	3200.0
+Kaiser (lunar crater)	depth	1800.0
+Lake Mezzano	depth	38.0
+Wöhler (crater)	depth	2100.0
+Lockyer (lunar crater)	depth	3800.0
+Rothmann (crater)	depth	4200.0
+Spallanzani (lunar crater)	depth	1500.0
+Stiborius (crater)	depth	3700.0
+Lindenau (crater)	depth	2900.0
+Higgins Lake	depth	41.148
+Higgins Lake	depth	13.4112
+Khövsgöl Nuur	depth	267.0
+Khövsgöl Nuur	depth	138.0
+Fraunhofer (crater)	depth	1500.0
+Mallet (crater)	depth	2300.0
+Reimarus (crater)	depth	2700.0
+Vega (crater)	depth	2900.0
+Lake Decatur	depth	2.4
+Reichenbach (crater)	depth	4000.0
+Reindeer Lake	depth	219.0
+Wilson (crater)	depth	3400.0
+Pentland (crater)	depth	2800.0
+Short (crater)	depth	5700.0
+Weigel (crater)	depth	2300.0
+Gruemberger (crater)	depth	4400.0
+Ideler (crater)	depth	1600.0
+Kinau (crater)	depth	2000.0
+Manzinus (crater)	depth	3800.0
+Rosenberger (crater)	depth	2200.0
+Lake Bella Vista (Michigan)	depth	22.86
+Indian Lake (Massachusetts)	depth	4.572
+Indian Lake (Massachusetts)	depth	2.4384
+Lake Wawasee	depth	22.0
+Lake Wawasee	depth	6.7
+Almsee	depth	9.0
+Wolfgangsee	depth	114.0
+Lake Retba	depth	3.0
+Lake Avernus	depth	60.0
+D'Arsonval (crater)	depth	1900.0
+Lake Pleasant Regional Park	depth	21.336
+Sambhar Salt Lake	depth	3.0
+Sambhar Salt Lake	depth	0.6
+Diamond Valley Lake	depth	79.248
+Dumbleyung Lake	depth	4.57
+Dumbleyung Lake	depth	2.35
+Lake Orta	depth	143.0
+Lake Orta	depth	71.6
+Shuswap Lake	depth	265.0
+Shuswap Lake	depth	131.3688
+Oulujärvi	depth	38.0
+Oulujärvi	depth	7.0
+Kunming Lake	depth	3.0
+Kunming Lake	depth	1.5
+Granville Station (TransLink)	depth	25.0
+Loughborough Lake	depth	38.4
+Loughborough Lake	depth	14.4
+Cowan Lake (Ohio)	depth	12.8016
+Lake Lemon	depth	6.096
+Lake Lemon	depth	2.95656
+Lake Volvi	depth	22.3
+Grand Lake (Colorado)	depth	121.92
+Lake Albano	depth	170.0
+Lake Pend Oreille	depth	350.52
+Lake Allatoona	depth	139.0
+Vembanad Lake	depth	12.0
+Ashtamudi Lake	depth	6.4
+Caniapiscau Reservoir	depth	49.0
+Painted Rock Dam	depth	55.1688
+Bedok Reservoir	depth	18.2
+Bedok Reservoir	depth	9.0
+Erro (crater)	depth	1200.0
+Fox (crater)	depth	1600.0
+Lake Wingra	depth	4.3
+Lake Wingra	depth	2.7
+Lake Mendota	depth	25.2984
+Lake Vanda	depth	75.0
+Lake Vanda	depth	30.8
+Lake Cumberland	depth	60.0
+Lake Cumberland	depth	27.4
+Bâlea Lake	depth	11.35
+Lake Trasimeno	depth	6.0
+Lake Trasimeno	depth	4.0
+Lake Havasu	depth	27.432
+Lake Havasu	depth	10.668
+Lake Prespa	depth	54.0
+Lake Martin	depth	45.72
+Lake Martin	depth	12.4968
+Washington Park (MAX station)	depth	79.248
+Plötzensee (lake)	depth	5.5
+Gopło	depth	16.6
+Gopło	depth	4.7
+Khanka Lake	depth	10.6
+Khanka Lake	depth	4.5
+Lake of the Ozarks	depth	39.624
+Lake Zway	depth	8.9
+Hjälmaren	depth	20.0
+Hjälmaren	depth	6.2
+Ganskiy (crater)	depth	3100.0
+Lake Seliger	depth	5.8
+Qiandao Lake	depth	120.0
+Qiandao Lake	depth	26.0
+Harden (crater)	depth	2700.0
+Smith Mountain Lake	depth	76.2
+Smith Mountain Lake	depth	16.764
+Lake of the Isles	depth	9.4488
+Cranberry Lake	depth	11.5824
+Cranberry Lake	depth	1.8288
+Lake Murray (Papua New Guinea)	depth	10.0
+Caohai Lake	depth	2.0
+Big Moose Lake	depth	21.336
+Big Moose Lake	depth	7.0104
+Netherton Reservoir	depth	15.0
+Netherton Reservoir	depth	15.0
+Edgbaston Reservoir	depth	12.192
+Horsetooth Reservoir	depth	60.96
+Lac du Bourget	depth	145.0
+Lac du Bourget	depth	85.0
+Lake Pepin	depth	5.4864
+Lake Corangamite	depth	7.0
+Lake Corangamite	depth	5.0
+Lake Tuz	depth	1.5
+Lake Tuz	depth	0.5
+Wabigoon Lake	depth	5.7912
+Lake Anna	depth	24.384
+Lake Eacham	depth	65.5
+Lake Barrine	depth	65.0
+Cane River Lake	depth	4.572
+Cane River Lake	depth	2.4384
+Necho (crater)	depth	2100.0
+Lewisville Lake	depth	20.4216
+Loch Oich	depth	47.0
+Lake Ray Hubbard	depth	12.192
+Mascoma Lake	depth	20.7264
+Mascoma Lake	depth	9.144
+Lake Banook	depth	11.5824
+Bass Lake (California)	depth	30.0
+Dojran Lake	depth	10.0
+Raspletin (crater)	depth	2100.0
+Lake Lanao	depth	112.0
+Lake Lanao	depth	60.3
+Stark (crater)	depth	2200.0
+Dal Lake	depth	6.0
+Dal Lake	depth	1.42
+Kosberg (crater)	depth	1300.0
+Lake Taymyr	depth	26.0
+Lake Taymyr	depth	2.8
+Lake Alakol	depth	54.0
+Planté (crater)	depth	3000.0
+Volkov (crater)	depth	2000.0
+Lander (crater)	depth	3000.0
+Sherrington (crater)	depth	1500.0
+Mazinaw Lake	depth	145.0
+Mazinaw Lake	depth	41.0
+Ludwig (crater)	depth	900.0
+Lake Thirteen	depth	9.7536
+Lake Micmac	depth	6.0
+Phayao Lake	depth	1.7
+Lower Seletar Reservoir	depth	5.5
+Lower Seletar Reservoir	depth	2.0
+Titius (crater)	depth	2700.0
+Müggelsee	depth	8.0
+Lake Vermilion	depth	23.1648
+Tainter Lake	depth	11.2776
+Lake Menomin	depth	6.7056
+Leeuwenhoek (crater)	depth	2400.0
+Nunn (crater)	depth	1300.0
+Minnedosa Lake	depth	6.096
+Ostwald (crater)	depth	3900.0
+Viviani (crater)	depth	1800.0
+Nong Han Lake	depth	1.9
+Kamppi metro station	depth	30.0
+Rautatientori metro station	depth	27.0
+Kaisaniemi metro station	depth	27.0
+Hakaniemi metro station	depth	23.0
+Sörnäinen metro station	depth	25.0
+Lake Awasa	depth	10.0
+Lake Lanier	depth	47.5488
+Lake Starnberg	depth	127.8
+Lake Arenal	depth	30.0
+West Hawk Lake	depth	115.0
+Lake Michigan-Huron	depth	281.0
+Lake Rubikiai	depth	16.0
+Lake Rubikiai	depth	5.7
+Klingnauer Stausee	depth	8.5
+Lake Jocassee	depth	106.68
+Lake Jocassee	depth	48.1584
+Uvs Nuur	depth	6.0
+Lake Brosno	depth	43.0
+Merrill Creek Reservoir	depth	71.628
+Merrill Creek Reservoir	depth	71.628
+Round Valley Reservoir	depth	54.864
+Lake Sebu	depth	34.0
+Malham Tarn	depth	4.4
+Malham Tarn	depth	2.4
+Križna Cave	depth	32.0
+Center Hill Lake	depth	57.912
+Kenogami Lake	depth	102.0
+Lake Berryessa	depth	83.82
+Zarivar Lake	depth	6.0
+Lake Shala	depth	266.0
+Lake Shala	depth	87.0
+Lake Borgne	depth	2333333.0
+Lake Borgne	depth	3.0
+Sokolniki (Moscow Metro)	depth	9.0
+Ulitsa Podbelskogo	depth	8.0
+Cherkizovskaya	depth	11.0
+Preobrazhenskaya Ploshchad	depth	8.0
+Miramar Reservoir	depth	34.7472
+Krasnoselskaya	depth	8.0
+Lake Llanquihue	depth	317.0
+Chungará Lake	depth	33.0
+Komsomolskaya (Sokolnicheskaya Line)	depth	8.0
+Lubyanka (Moscow Metro)	depth	32.5
+Okhotny Ryad (Moscow Metro)	depth	15.0
+Biblioteka Imeni Lenina	depth	12.0
+Kropotkinskaya	depth	13.0
+Park Kultury (Sokolnicheskaya Line)	depth	10.5
+Võrtsjärv	depth	6.0
+Võrtsjärv	depth	2.7
+Frunzenskaya (Moscow Metro)	depth	42.0
+Lake Voulismeni	depth	64.0
+Lake Whatcom	depth	106.68
+June Lake (California)	depth	51.2064
+June Lake (California)	depth	18.288
+Sportivnaya (Moscow Metro)	depth	42.0
+Universitet (Moscow Metro)	depth	26.5
+Prospekt Vernadskogo (Moscow Metro)	depth	8.0
+Yugo-Zapadnaya	depth	8.0
+Rechnoy Vokzal (Moscow Metro)	depth	6.0
+Loch Ryan	depth	16.0
+Lake Yojoa	depth	15.0
+Vodny Stadion (Moscow Metro)	depth	6.0
+Voykovskaya	depth	7.0
+Sokol (Moscow Metro)	depth	9.6
+Aeroport (Moscow Metro)	depth	8.6
+Dinamo (Moscow Metro)	depth	39.6
+Belorusskaya (Zamoskvoretskaya Line)	depth	33.1
+Mayakovskaya (Moscow Metro)	depth	33.0
+Teatralnaya (Moscow Metro)	depth	33.9
+Novokuznetskaya	depth	37.5
+Paveletskaya (Zamoskvoretskaya Line)	depth	33.5
+Kolomenskaya (Moscow Metro)	depth	9.0
+Kashirskaya	depth	7.0
+Poechos Reservoir	depth	46.0
+Lake Abbe	depth	36.0
+Rend Lake	depth	10.668
+Rend Lake	depth	2.95656
+Kantemirovskaya (Moscow Metro)	depth	8.0
+Naujan Lake	depth	45.0
+Pielinen	depth	60.0
+Pielinen	depth	9.9
+Lake Beshear	depth	10.668
+Lake Beshear	depth	3.048
+Umbagog Lake	depth	14.6304
+Umbagog Lake	depth	4.572
+Newfound Lake	depth	55.7784
+Burnhope Reservoir	depth	40.0
+Lake Eppalock	depth	20.0
+Wood Lake (British Columbia)	depth	34.0
+Wood Lake (British Columbia)	depth	21.5
+Ägerisee	depth	83.0
+Ägerisee	depth	49.0
+Bras Basah MRT Station	depth	35.0
+Pushkar Lake	depth	10.0
+Pushkar Lake	depth	8.0
+Cedar Creek Lake (Kentucky)	depth	14.496288
+Cedar Creek Lake (Kentucky)	depth	6.7056
+Lake Drūkšiai	depth	33.3
+Lake Drūkšiai	depth	7.6
+Tsaritsyno (Moscow Metro)	depth	8.0
+Orekhovo (Moscow Metro)	depth	9.0
+Domodedovskaya (Moscow Metro)	depth	9.5
+Sommen	depth	53.0
+Lake Coeur d'Alene	depth	67.056
+Krasnogvardeyskaya (Moscow Metro)	depth	9.0
+Lake Suwa	depth	7.2
+Lake Suwa	depth	4.7
+Elektrozavodskaya (Moscow Metro)	depth	31.5
+Big Stone Lake	depth	4.8768
+Brahma Sarovar	depth	13.716
+Dhebar Lake	depth	31.0896
+Sarez Lake	depth	505.0
+Sarez Lake	depth	201.8
+Lake Jackson (Sebring, Florida)	depth	7.62
+Lake Olivia	depth	13.716
+Lake Istokpoga	depth	3.048
+Lake Istokpoga	depth	1.2192
+Little Lake Jackson	depth	9.144
+Norsjø	depth	176.0
+Kainji Lake	depth	12.1
+Bolmen	depth	37.0
+Lake Denton	depth	15.5448
+Lake Verona	depth	24.384
+Rainy Lake	depth	50.0
+Wabamun Lake	depth	11.0
+Adams Lake	depth	464.2104
+Adams Lake	depth	299.0
+Lake Macleod	depth	1.5
+Lake Macleod	depth	1.5
+Lake Bunyonyi	depth	44.0
+Lake McDonald	depth	143.8656
+Tippecanoe Lake	depth	37.4904
+Tippecanoe Lake	depth	11.2776
+Sanford Lake, Michigan	depth	7.9248
+Sanford Lake, Michigan	depth	2.83464
+Lake Wendouree	depth	2.0
+Sattal  Lake   1	depth	20.0
+Lake Hayq	depth	88.0
+Park Pobedy (Moscow Metro)	depth	84.0
+Krylatskoye (Moscow Metro)	depth	9.5
+Lake Cerknica	depth	10.0
+Molodyozhnaya (Moscow Metro)	depth	6.5
+North Aral Sea	depth	30.0
+North Aral Sea	depth	18.0
+North Aral Sea	depth	42.0
+North Aral Sea	depth	8.7
+Lake Rusałka	depth	9.0
+Kiyevskaya (Filyovskaya Line)	depth	8.7
+Llyn Celyn	depth	42.672
+Lake Enriquillo	depth	29.0
+Skeleton Lake (Alberta)	depth	17.0
+Skeleton Lake (Alberta)	depth	6.5
+Lake Iguaque	depth	105.0
+Smolenskaya (Filyovskaya Line)	depth	8.0
+Arbatskaya (Filyovskaya Line)	depth	8.0
+Alexandrovsky Sad (Metro)	depth	8.0
+Stuart Lake	depth	95.0
+Stuart Lake	depth	26.0
+Lake Tōya	depth	180.0
+Lake Tōya	depth	117.0
+Jungfernsee	depth	4.0
+Nahuel Huapi Lake	depth	437.9976
+Nahuel Huapi Lake	depth	156.972
+Raystown Lake	depth	60.96
+Lake Chany	depth	7.0
+Lake Chany	depth	2.0
+Namtso	depth	125.0
+Namtso	depth	33.0
+Lac Vieux Desert	depth	12.192
+Lake Tazawa	depth	423.0
+Torneträsk	depth	168.0
+Torneträsk	depth	51.0
+Hornavan	depth	221.0
+Lake Zell	depth	69.0
+Baranof Lake	depth	92.3544
+Gouffre Jean-Bernard	depth	1602.0
+Walter F. George Lake	depth	6.096
+Greers Ferry Lake	depth	148.1328
+Lake Marathon	depth	54.0
+Skaha Lake	depth	54.0
+Lake Harriet (Hennepin County, Minnesota)	depth	25.908
+Cedar Lake (Minnesota)	depth	15.5448
+Saint Mary Lake	depth	91.44
+Kabekona Lake	depth	40.5384
+East Grand Lake	depth	39.0144
+East Grand Lake	depth	8.5344
+Wachusett Reservoir	depth	36.576
+Wachusett Reservoir	depth	14.6304
+Lake Abert	depth	3.3528
+White Rock Lake	depth	5.4864
+Lac de Gras	depth	56.0
+Lake Assal (Djibouti)	depth	40.0
+Lake Assal (Djibouti)	depth	7.4
+Paranoá Lake	depth	38.0
+Paranoá Lake	depth	12.0
+Great Dąbrowa	depth	35.0
+Great Dąbrowa	depth	8.0
+Sperillen	depth	123.0
+Lake Roś	depth	31.8
+Lake Adelaide	depth	6.096
+Lake Adelaide	depth	2.1336
+Arresø	depth	5.6
+Arresø	depth	3.1
+Amaravathi Reservoir	depth	33.53
+Buffalo Lake (Alberta)	depth	6.5
+Buffalo Lake (Alberta)	depth	2.8
+Lake Whitney (Texas)	depth	32.9184
+Lake Lovozero	depth	35.0
+Lake Lovozero	depth	5.7
+Sukhna Lake	depth	4.8768
+Sukhna Lake	depth	2.4384
+North–South Lake	depth	1.70688
+Lake Nippenicket	depth	1.8288
+Lake Nippenicket	depth	0.9144
+Rowten Pot	depth	105.0
+Long Pond (Lakeville, Massachusetts)	depth	3.6576
+Long Pond (Lakeville, Massachusetts)	depth	2.7432
+Norton Reservoir	depth	3.048
+Norton Reservoir	depth	3.0
+Park Kultury (Koltsevaya Line)	depth	40.0
+Oktyabrskaya (Koltsevaya Line)	depth	40.0
+Dobryninskaya	depth	35.5
+Paveletskaya (Koltsevaya Line)	depth	40.0
+Taganskaya (Koltsevaya Line)	depth	53.0
+Kurskaya (Koltsevaya Line)	depth	40.0
+Komsomolskaya (Koltsevaya Line)	depth	37.0
+Prospekt Mira (Koltsevaya Line)	depth	40.0
+Karakul (China)	depth	242.0
+Novoslobodskaya	depth	40.0
+Belorusskaya (Koltsevaya Line)	depth	42.5
+Krasnopresnenskaya	depth	35.5
+Kiyevskaya (Koltsevaya Line)	depth	53.0
+Medvedkovo (Moscow Metro)	depth	10.0
+Babushkinskaya	depth	10.0
+Sviblovo (Moscow Metro)	depth	8.0
+Botanichesky Sad (Moscow Metro)	depth	7.0
+VDNKh (Moscow Metro)	depth	53.5
+Alexeyevskaya (Moscow Metro)	depth	51.0
+Rizhskaya (Moscow Metro)	depth	46.0
+Prospekt Mira (Kaluzhsko-Rizhskaya Line)	depth	50.0
+Sukharevskaya (Moscow Metro)	depth	43.0
+Turgenevskaya (Moscow Metro)	depth	49.0
+Kitay-gorod (Moscow Metro)	depth	29.0
+Sleepy Creek Lake	depth	7.9248
+Sleepy Creek Lake	depth	2.7432
+Crescent Lake (Dunhuang)	depth	7.5
+Crescent Lake (Dunhuang)	depth	1.3
+Crescent Lake (Dunhuang)	depth	4.0
+Crescent Lake (Dunhuang)	depth	0.9
+Lake Hiawatha	depth	10.0584
+Goose Lake (Oregon-California)	depth	8.0
+Tretyakovskaya (Moscow Metro)	depth	46.0
+Oktyabrskaya (Kaluzhsko-Rizhskaya Line)	depth	50.0
+Shabolovskaya (Moscow Metro)	depth	46.5
+Akademicheskaya (Moscow Metro)	depth	8.5
+Profsoyuznaya (Moscow Metro)	depth	7.0
+Novye Cheryomushki (Moscow Metro)	depth	7.0
+Kaluzhskaya (Moscow Metro)	depth	10.0
+Lake Martignano	depth	60.0
+Lake Umbozero	depth	115.0
+Lake Umbozero	depth	15.0
+Lake Izabal	depth	18.0
+Springfield Lake	depth	4.6
+Springfield Lake	depth	3.2
+Palić Lake	depth	2.0
+Windermere Lake (British Columbia)	depth	67.056
+Dümmer	depth	1.5
+Dümmer	depth	1.0
+Lake Albert (New South Wales)	depth	3.6
+Lough Ramor	depth	15.0
+Ogof Hesp Alyn	depth	98.0
+Harrison Lake	depth	279.0
+Otter Lake (Michigan)	depth	45.7
+Lake Sibhayi	depth	10.9
+Belyayevo (Moscow Metro)	depth	12.0
+Konkovo (Moscow Metro)	depth	8.0
+Tyoply Stan (Moscow Metro)	depth	8.0
+Yasenevo (Moscow Metro)	depth	8.0
+Novoyasenevskaya (Moscow Metro)	depth	7.0
+Shubenacadie Grand Lake	depth	45.0
+Lake Logipi	depth	3.0
+Lake Murray (South Carolina)	depth	60.96
+Lake Murray (California)	depth	28.956
+Chistye Prudy (Moscow Metro)	depth	35.0
+Krasnye Vorota (Moscow Metro)	depth	31.0
+Kivesjärvi	depth	16.0
+Kivesjärvi	depth	4.0
+Lake Chūzenji	depth	163.0
+Lake Ellen	depth	12.8016
+Planernaya (Moscow Metro)	depth	6.0
+Schaalsee	depth	71.5
+Schaalsee	depth	17.0
+Lake Toplitz	depth	103.0
+Blue Heron Lake	depth	8.0
+Bosten Lake	depth	666.0
+Bosten Lake	depth	8.15
+Aibi Lake	depth	2.8
+Aibi Lake	depth	1.4
+Kanas Lake	depth	188.5
+Hulun Lake	depth	5.7
+Jingpo Lake	depth	62.0
+Sihlsee	depth	17.0
+Lake Crescent	depth	190.1952
+Lake Crescent	depth	304.8
+Lake Crescent	depth	91.44
+Lake Bled	depth	30.6
+Lake Tota	depth	60.0
+Chao Lake	depth	5.0
+Chao Lake	depth	2.5
+Loch Venachar	depth	33.0
+Otter Tail Lake	depth	36.576
+Loch Earn	depth	87.0
+Llyn Alaw	depth	5.2
+Vancouver Lake	depth	12.0
+Vancouver Lake	depth	0.9144
+Rondout Reservoir	depth	22.49424
+Snåsavatnet	depth	121.0
+Altevatnet	depth	99.0
+Joe Pool Lake	depth	22.86
+Laguna Catemaco	depth	7.6
+Lake Macatawa	depth	15.24
+Lake Macatawa	depth	3.048
+Lake of Ledinci	depth	50.0
+Lake of Ledinci	depth	15.0
+Gloucester Pool	depth	32.004
+Lake Amatitlán	depth	33.0
+Lake Abijatta	depth	14.0
+Trickey Pond	depth	16.764
+Zuidlaardermeer	depth	5.0
+Zuidlaardermeer	depth	1.0
+Mormon Lake	depth	3.048
+Llyn Cwellyn	depth	36.576
+Blue Lake (Alaska)	depth	142.6464
+Lake Georgetown	depth	25.908
+Granger Lake	depth	15.24
+Rožmberk Pond	depth	12.3
+Rožmberk Pond	depth	6.4
+Fish Lake (Utah)	depth	38.7096
+Argentino Lake	depth	500.0
+Argentino Lake	depth	150.0
+Kaunas Reservoir	depth	22.0
+Akkajaure	depth	92.0
+Akkajaure	depth	30.0
+Lake Imandra	depth	67.0
+Shcholkovskaya	depth	8.0
+Amistad Reservoir	depth	66.1416
+Lake Mohave	depth	22.86
+Damflask Reservoir	depth	27.0
+Lake Singkarak	depth	268.0
+Lake Singkarak	depth	149.0
+Sobradinho Reservoir	depth	30.0
+Sobradinho Reservoir	depth	8.6
+Lake Temescal	depth	6.096
+Half Moon Lake	depth	18.288
+Corumbá Lake	depth	90.0
+Loch Achray	depth	11.0
+Tidal Basin (District of Columbia)	depth	3.048
+Jellyfish Lake	depth	30.0
+Lake Butte des Morts	depth	2.7432
+Kuybyshev Reservoir	depth	41.0
+Kuybyshev Reservoir	depth	8.0
+Elter Water	depth	6.096
+Yew Tree Tarn	depth	3.048
+Lake Memphremagog	depth	107.0
+Lake Memphremagog	depth	15.5
+Tåkern	depth	0.8
+Deer Creek Dam and Reservoir	depth	42.0
+Red Bluff Reservoir	depth	23.4696
+Ahmic Lake	depth	8.0
+Lake Diefenbaker	depth	66.0
+Lake Diefenbaker	depth	21.6
+Lake Ritsa	depth	116.0
+Lac des Allemands	depth	3.048
+Shannon Pot	depth	14.6
+Wigry Lake	depth	73.0
+Wigry Lake	depth	15.4
+Lake Phelps	depth	2.7432
+Lake Phelps	depth	1.3716
+Reeds Lake	depth	20.1168
+Loweswater	depth	16.0
+Loweswater	depth	8.4
+Blagdon Lake	depth	12.8016
+Blagdon Lake	depth	4.2672
+Tegernsee (lake)	depth	72.6
+Tegernsee (lake)	depth	36.3
+Clywedog reservoir	depth	66.0
+Hodgson Lake	depth	90.0
+Limerick Lake	depth	35.0
+Limerick Lake	depth	10.0
+Lewis and Clark Lake	depth	13.716
+Vansjø	depth	41.0
+Lake Mattamuskeet	depth	2.0
+Staples Pond	depth	13.4112
+Staples Pond	depth	7.0104
+Laacher See	depth	53.0
+Lácar Lake	depth	277.0
+Lácar Lake	depth	167.0
+Lake Tinaroo	depth	41.8
+Lake Steilacoom	depth	6.096
+Lake Steilacoom	depth	3.3528
+Waughop Lake	depth	2.1336
+Christmas Lake	depth	26.5176
+Bonito Lake	depth	21.336
+Ponto Lake	depth	18.288
+Lake Maxinkuckee	depth	26.8224
+Lake Maxinkuckee	depth	7.3152
+Yatesville Lake State Park	depth	18.288
+Actun Box Ch'iich'	depth	-183.0
+Lake Jindabyne	depth	40.0
+Lake Jindabyne	depth	15.0
+Muncho Lake	depth	223.0
+Birkenhead Lake Provincial Park	depth	38.4
+Birkenhead Lake Provincial Park	depth	21.6
+Lac de Vouglans	depth	100.0
+Lake Burgas	depth	31.3944
+Haleji Lake	depth	250.0
+Haleji Lake	depth	250.0
+Chopaka Lake	depth	21.336
+Lake George (Anoka County)	depth	9.7536
+Lake Ouachita	depth	60.96
+Lake Ouachita	depth	15.24
+Lake Waubesa	depth	11.5824
+Ada Ciganlija  Sava Lake   1	depth	14.0
+Ada Ciganlija  Sava Lake   1	depth	4.0
+Narrows Pond	depth	32.3088
+Lake Hazen	depth	289.0
+Lake Hazen	depth	280.0
+Tunnsjøen	depth	220.0
+Llynnau Mymbyr	depth	9.144
+Limingen	depth	192.0
+Limingen	depth	87.0
+Marble Arch Caves	depth	94.0
+Llyn Padarn	depth	28.6512
+Guist Creek Lake	depth	14.3256
+Guist Creek Lake	depth	4.572
+Ashokan Reservoir	depth	58.0
+Ashokan Reservoir	depth	14.0
+Lake of Egypt	depth	15.8496
+Lake of Egypt	depth	5.4864
+Tinnsjå	depth	460.0
+Tinnsjå	depth	190.0
+Øyeren	depth	71.0
+Valdai Lake	depth	60.0
+Valdai Lake	depth	12.0
+Fyresvatn	depth	377.0
+Štrbské pleso	depth	20.0
+Cassini (lunar crater)	depth	1200.0
+Drawsko Lake	depth	79.7
+Hańcza	depth	108.5
+Śniardwy	depth	23.0
+Śniardwy	depth	6.5
+Miedwie	depth	43.8
+Halasuru  Lake   1	depth	17.6784
+Halasuru  Lake   1	depth	5.7912
+Oguta Lake	depth	8.0
+Kenosee Lake	depth	7.62
+Lake Plav	depth	9.0
+Lake Plav	depth	9.1
+Topock Gorge	depth	4.572
+Jumping Caribou Lake	depth	56.0
+Tuttle Creek Lake	depth	15.0
+Knouff Lake (British Columbia)	depth	24.1
+Knouff Lake (British Columbia)	depth	9.8
+Nicola Lake	depth	55.0
+Nicola Lake	depth	24.0
+Luna Lake (Arizona)	depth	2.4384
+Lac du Bouchet	depth	28.0
+Lynx Lake (Arizona)	depth	12.192
+Knoll Lake	depth	15.24
+Lake Saltonstall	depth	34.4424
+Lake Saltonstall	depth	12.4968
+Nettilling Lake	depth	132.0
+Nisser	depth	234.0
+Storsjøen (Rendalen)	depth	309.0
+Storsjøen (Rendalen)	depth	139.0
+Kuznetsky Most (Moscow Metro)	depth	39.5
+Tambukan Lake	depth	3.1
+Massabesic Lake	depth	59.8932
+Massabesic Lake	depth	59.7408
+Great Central Lake	depth	294.0
+Lake Hartwell	depth	56.388
+Lake Hartwell	depth	13.716
+Spy Pond	depth	10.9728
+Spy Pond	depth	3.6576
+Millstätter See	depth	142.0
+Millstätter See	depth	89.0
+Lake Conway	depth	5.4864
+Lake Conway	depth	1.8288
+Titisee	depth	40.0
+Titisee	depth	20.0
+Lake Guthridge	depth	2.0
+Lake Mokoan	depth	7.0
+Dug Pond	depth	12.8016
+Dug Pond	depth	4.572
+Nakki Lake	depth	24.384
+Lake Georgia Pacific	depth	2.4384
+Llyn Cowlyd	depth	69.7992
+Llyn Cowlyd	depth	33.2232
+Llyn Crafnant	depth	21.6408
+Llyn Geirionydd	depth	15.24
+Buttle Lake	depth	120.0
+Sistema Dos Ojos	depth	119.1
+Sistema Nohoch Nah Chich	depth	71.6
+Cami Lake	depth	200.0
+Sistema Ox Bel Ha	depth	34.7
+Lake General Carrera/Buenos Aires	depth	586.0
+Lake Charles (Louisiana)	depth	1.524
+Lake Tutira	depth	42.0
+Lake Tutira	depth	20.8
+Clinton Lake (Kansas)	depth	16.764
+Clinton Lake (Kansas)	depth	2.1336
+Clinton Lake (Illinois)	depth	14.6304
+Clinton Lake (Illinois)	depth	5.9436
+O'Higgins/San Martín Lake	depth	836.0
+Dubrovka (Moscow Metro)	depth	62.0
+Pechatniki (Moscow Metro)	depth	8.0
+Volzhskaya (Metro)	depth	8.0
+Bygdin	depth	215.0
+Lake Gardno	depth	2.6
+Rimskaya	depth	54.0
+Chkalovskaya (Moscow Metro)	depth	51.0
+Łebsko Lake	depth	6.3
+Łebsko Lake	depth	2.5
+Krestyanskaya Zastava	depth	47.0
+Jeziorak	depth	13.0
+Kozhukhovskaya	depth	12.0
+Lake Ihotry	depth	3.8
+Gjende	depth	149.0
+Gjende	depth	64.0
+Lyublino (Metro)	depth	8.0
+Bratislavskaya (Moscow Metro)	depth	8.0
+Maryino (Moscow Metro)	depth	8.0
+Lake Petén Itzá	depth	160.0
+Neversink Reservoir	depth	53.34
+Lake Tumba	depth	6.0
+Lake Tengiz	depth	6.7
+Lake Tengiz	depth	2.5
+Lake Cuitzeo	depth	27.0
+Lake Elton	depth	0.6
+Mark Twain Lake	depth	8.8392
+Lake Hammar	depth	1.8
+Lake Hammar	depth	3.0
+Sparrow Lake	depth	12.0
+Sparrow Lake	depth	4.0
+San Roque Lake	depth	16.0
+Dollar Lakes	depth	4.572
+Echo Lake (Nevada)	depth	47.244
+North Furlong Lake (Nevada)	depth	6.096
+Liberty Lake (Nevada)	depth	32.9184
+Overland Lake (Nevada)	depth	16.764
+Verdi Lake (Nevada)	depth	26.2128
+Seitz Lake (Nevada)	depth	6.096
+Tverskaya (Moscow Metro)	depth	42.0
+Island Lake (Nevada)	depth	6.7056
+Jordan Pond	depth	45.72
+Jordan Pond	depth	25.6032
+Lake Ellsworth (Antarctica)	depth	10.0
+Kachura Lake	depth	70.0
+Lake Sasykkol	depth	4.7
+Lake Sasykkol	depth	3.3
+Selbusjø	depth	135.0
+Favre Lake (Nevada)	depth	13.716
+Castle Lake (Nevada)	depth	4.572
+Cold Lakes (Nevada)	depth	8.5344
+Millerton Lake	depth	97.2312
+Sheosar Lake	depth	40.0
+Frøylandsvatnet	depth	5.5
+Maroon Dam	depth	33.6
+Buckingham Lake	depth	1.524
+Rensselaer Lake	depth	7.0104
+Rensselaer Lake	depth	3.3528
+Tivoli Lake	depth	3.048
+Tivoli Lake	depth	1.40208
+Washington Park Lake	depth	3.3528
+Washington Park Lake	depth	2.01168
+Bandak	depth	325.0
+Lundevatn	depth	414.0
+West Point Lake	depth	21.336
+West Point Lake	depth	3.6576
+Totak	depth	306.0
+Breimsvatn	depth	278.0
+Vegår	depth	102.0
+Kaptai Lake	depth	150.876
+Kaptai Lake	depth	30.48
+Lake Pancharevo	depth	30.0
+Logan Martin Lake	depth	33.528
+Grungstadvatnet	depth	48.0
+Alton Water	depth	20.0
+Cultus Lake (Oregon)	depth	64.3128
+Portsmouth Mine Pit Lake	depth	137.16
+Dniester Liman	depth	2.7
+Dniester Liman	depth	1.8
+Aursund	depth	52.0
+Ankarvattnet	depth	27.0
+Jølstravatn	depth	233.0
+Dingevatn	depth	220.0
+Suldalsvatnet	depth	376.0
+Salsvatn	depth	464.0
+Salsvatn	depth	156.0
+Lake Arrowhead (Georgia)	depth	24.384
+Lake Wentworth	depth	27.1272
+Lake Wentworth	depth	9.7536
+Pinehurst Lake	depth	21.3
+Pinehurst Lake	depth	12.2
+Fallen Leaf Lake (California)	depth	126.492
+Glen Lake	depth	39.624
+Glen Lake	depth	3.9624
+Thumb Lake	depth	2446202.88
+Heart Lake (Michigan)	depth	37.4904
+Griswold Lake (Nevada)	depth	6.096
+Province Lake	depth	5.1816
+Province Lake	depth	2.7432
+Angel Lake	depth	8.8392
+Ashuelot Pond	depth	7.9248
+Ashuelot Pond	depth	2.4384
+Cobbetts Pond	depth	15.24
+Cobbetts Pond	depth	10.0584
+Rydal Water	depth	19.812
+Red Tarn	depth	25.0
+Bucura Lake	depth	15.5
+Crystal Lake (Gilmanton, New Hampshire)	depth	15.4
+Bad Medicine Lake	depth	27.432
+Grafton Pond	depth	18.288
+Great East Lake	depth	31.0896
+Great East Lake	depth	10.668
+Gull Lake (Michigan)	depth	33.528
+Elk Lake (Michigan)	depth	58.5216
+Highland Lake (Stoddard, New Hampshire)	depth	20.0
+Jal Mahal	depth	4.5
+Mendum's Pond	depth	13.716
+Northeast Pond	depth	14.9352
+Northeast Pond	depth	3.048
+Milton Pond	depth	10.668
+Milton Pond	depth	4.2672
+Sawbill Lake	depth	13.716
+Sinkhole Dersios	depth	170.0
+Powder Mill Pond	depth	3.6576
+Spofford Lake	depth	18.288
+Stinson Lake	depth	21.336
+Stump Pond (Balch Pond)	depth	13.4112
+Stump Pond (Balch Pond)	depth	3.6576
+Hurdalsjøen	depth	59.0
+Ozette Lake	depth	100.8888
+Strawberry Reservoir	depth	60.96
+Canyon Lake (Texas)	depth	38.1
+Badin Lake	depth	57.912
+Lake Macquarie (New South Wales)	depth	15.0
+Lake Macquarie (New South Wales)	depth	8.0
+Lake Almanor	depth	27.432
+Lac La Belle, Michigan	depth	9.144
+Lake Mission Viejo	depth	21.336
+Lake Mission Viejo	depth	9.144
+Choke Canyon Reservoir	depth	29.1084
+Osensjø	depth	109.0
+Cultus Lake, British Columbia	depth	41.8
+Cultus Lake, British Columbia	depth	32.0
+Lake Diatas	depth	44.0
+Lake Dibawah	depth	309.0
+Llyn Dinas	depth	10.0
+Dnieper Reservoir	depth	53.0
+Dnieper Reservoir	depth	8.0
+Rushford Lake	depth	36.576
+Leninsky Prospekt (Moscow Metro)	depth	16.0
+Esthwaite Water	depth	15.5
+Esthwaite Water	depth	6.4
+Pepacton Reservoir	depth	48.768
+Lake Asveja	depth	50.2
+Titicus Reservoir	depth	9.7536
+Lake Nojiri	depth	38.5
+Lake Nojiri	depth	21.0
+Glenn Cunningham Lake	depth	7.0104
+Deer Lake (Itasca County, Minnesota)	depth	36.8808
+Kingsley Lake	depth	27.432
+East Branch Reservoir	depth	9.7536
+Lake of Banyoles	depth	62.4
+Lake of Banyoles	depth	14.8
+Clark Lake (Gogebic County, Michigan)	depth	22.5552
+Loon Lake (Gogebic County, Michigan)	depth	16.1544
+Torch Lake (Antrim County, Michigan)	depth	86.868
+Torch Lake (Antrim County, Michigan)	depth	78.0288
+Torch Lake (Houghton County, Michigan)	depth	36.576
+Heart Lake (Minnesota)	depth	16.764
+Deer Island Lake	depth	16.764
+Cold Lake (Alberta)	depth	99.1
+Cold Lake (Alberta)	depth	49.9
+Lake Walter E. Long	depth	18.288
+Brady Creek Reservoir	depth	14.6304
+Lake Bastrop	depth	18.288
+Lake Placid (Texas)	depth	12.192
+Maynard Lake	depth	41.148
+Lac Seul	depth	47.2
+Lake Wood	depth	5.1816
+Meadow Lake (Texas)	depth	10.668
+Lake Dunlap	depth	12.192
+Calaveras Lake (Texas)	depth	13.716
+Victor Braunig Lake	depth	15.24
+Kensico Reservoir	depth	36.576
+Kensico Reservoir	depth	13.28928
+Tsomoriri Wetland Conservation Reserve	depth	40.0
+Lake Findley	depth	3.6576
+Falcon International Reservoir	depth	33.528
+Lake Casa Blanca	depth	10.9728
+Averhoff Reservoir	depth	8.5344
+Balmorhea Lake	depth	7.62
+Coleto Creek Reservoir	depth	14.0208
+Lake Corpus Christi	depth	18.288
+Lamarck – Caulaincourt (Paris Métro)	depth	25.0
+Bog Brook Reservoir	depth	18.288
+Bog Brook Reservoir	depth	10.3632
+Muskegon Lake	depth	24.0792
+Lake Texana	depth	17.6784
+Sheldon Reservoir	depth	3.048
+Loch Ruthven	depth	3.3528
+Étang de Thau	depth	30.0
+Étang de Thau	depth	4.0
+Fayette County Reservoir	depth	21.336
+Lake Bryan	depth	13.716
+Stillhouse Hollow Lake	depth	32.6136
+Belton Lake	depth	37.7952
+Proctor Lake	depth	10.3632
+Lake İznik	depth	80.0
+Lake Bernard Frank	depth	8.0772
+Lake Bernard Frank	depth	3.90144
+Dalešice Dam	depth	85.5
+Starvation Lake	depth	14.3256
+Berzdorfer See	depth	35.0
+Berzdorfer See	depth	70.0
+Robinson Lake (Nevada)	depth	1.524
+Shorabil Lake	depth	30.0
+Carlyle Lake	depth	10.668
+Carlyle Lake	depth	3.3528
+Whitewater Lake	depth	11.0
+Lake Mistassini	depth	183.0
+Keoka Lake	depth	12.8016
+Keoka Lake	depth	7.62
+Banwell Ochre Caves	depth	12.0
+Banwell Caves	depth	25.0
+Banwell Caves  Banwell Stalactite Cavern   1	depth	62.0
+Clear Lake (Iowa)	depth	9.144
+Clear Lake (Iowa)	depth	3.6576
+Botn (Sør-Trøndelag)	depth	45.0
+Botn (Sør-Trøndelag)	depth	21.0
+Kennisis Lake	depth	95.0
+Kennisis Lake	depth	23.4
+Lamb Leer	depth	67.0
+Kingman Lake	depth	1.8288
+Ögii Lake	depth	15.3
+Ögii Lake	depth	6.6
+Kerr Lake	depth	30.48
+Kerr Lake	depth	9.144
+Waldo Lake	depth	128.016
+Waldo Lake	depth	39.0144
+Sylvan Lake (South Dakota)	depth	9.144
+Sylvan Lake (South Dakota)	depth	3.90144
+Lake Mendocino	depth	40.5384
+Crno Lake	depth	49.1
+Angram Reservoir	depth	33.4
+Scar House Reservoir	depth	36.3
+Morskie Oko	depth	50.8
+Stocks Reservoir	depth	31.4
+Saugatuck Reservoir	depth	33.528
+Saugatuck Reservoir	depth	13.716
+Lake Sempach	depth	87.0
+Lake Sempach	depth	44.0
+Lake Sarnen	depth	51.0
+Lake Sarnen	depth	31.0
+Lake Baldegg	depth	66.0
+Lake Baldegg	depth	33.0
+Lake Hallwil	depth	48.0
+Lake Hallwil	depth	28.0
+Lake of Gruyère	depth	75.0
+Lake Wohlen	depth	20.0
+Faaker See	depth	29.5
+Faaker See	depth	16.1
+Irrsee	depth	32.0
+Traunsee	depth	191.0
+Fuschlsee	depth	66.0
+Hallstätter See	depth	125.0
+Klopeiner See	depth	48.0
+Heiterwanger See	depth	61.0
+Plansee	depth	78.0
+Schweriner See	depth	52.4
+Schweriner See	depth	12.8
+Plauer See (Mecklenburg-Vorpommern)	depth	25.5
+Plauer See (Mecklenburg-Vorpommern)	depth	6.8
+Lake Topozero	depth	50.0
+Lake Segozero	depth	103.0
+Kuyto	depth	34.0
+Lake Kovdozero	depth	63.0
+Lake Syamozero	depth	24.0
+Lake Burdur	depth	110.0
+Loon Lake (Warren County, New York)	depth	11.5824
+Lake Çıldır	depth	42.0
+Argyle Lake State Park	depth	60.96
+Lake Yessey	depth	13.0
+Lake Beloye (Vologda Oblast)	depth	33.528
+Pagsum Lake	depth	120.0
+Cosmeston Lakes Country Park	depth	20.0
+Lake Sinclair	depth	27.432
+Lake Oconee	depth	29.2608
+Lake Oconee	depth	6.4008
+Trübsee	depth	10.0
+Vesijärvi	depth	42.0
+Vesijärvi	depth	6.0
+Salerno Lake	depth	12.192
+Mason Lake	depth	27.432
+Mason Lake	depth	14.6304
+Pellegrini Lake	depth	18.0
+Pellegrini Lake	depth	9.4
+Wrights Lake	depth	2.4384
+Wrights Lake	depth	1.524
+Lake Chervonoye	depth	4.0
+Klistervatnet	depth	21.0
+Kangaroo Lake	depth	3.6576
+Kangaroo Lake	depth	1.8288
+Lake Sterzh	depth	5.0
+Wright Patman Lake	depth	10.54608
+Burdekin Dam	depth	40.0
+Lake Žuvintas	depth	3.0
+Lake Žuvintas	depth	0.6
+Lake Drīdzis	depth	65.1
+Lake Engure	depth	2.1
+Lake Engure	depth	0.4
+Thurstonfield Lough	depth	0.3048
+Thurstonfield Lough	depth	2743.2
+Kinkaid Lake	depth	24.384
+Kinkaid Lake	depth	11.8872
+Lake Kubenskoye	depth	3.0
+Puula	depth	60.0
+Thrupe Lane Swallet	depth	120.0
+Uglich Reservoir	depth	5.0
+Stillwater Lake (Pennsylvania)	depth	2.4384
+Stillwater Lake (Pennsylvania)	depth	1.43256
+Billy Mitchell (volcano)  Billy Mitchell   1	depth	90.0
+Ivankovo Reservoir	depth	23.0
+Ivankovo Reservoir	depth	15.0
+Scituate Reservoir	depth	26.5176
+Scituate Reservoir	depth	9.7536
+Kurile Lake	depth	306.0
+Kurile Lake	depth	176.0
+Lake Keowee	depth	90.5256
+Lake Keowee	depth	15.8496
+Lake Plateliai	depth	47.0
+Show Low Lake	depth	8.2296
+Lake Lida	depth	17.6784
+Jenny Lake	depth	79.248
+Lake Kizaki	depth	29.5
+Lake Kizaki	depth	17.9
+Star Lake (Minnesota)	depth	28.6512
+Green Lake (Wisconsin)	depth	72.2376
+Green Lake (Wisconsin)	depth	30.7848
+Lake Lizzie	depth	20.1168
+Crystal Lake (Otter Tail, Minnesota)	depth	16.764
+Lake Shafer	depth	9.14
+Lake Shafer	depth	3.05
+Lake Freeman	depth	13.716
+Lake Freeman	depth	4.8768
+Rush Lake (Minnesota)	depth	20.7264
+Lake Wenatchee State Park	depth	74.3712
+Pelican Lake (Minnesota)	depth	16.764
+Gods Lake	depth	121.92
+Gods Lake	depth	121.92
+Lake Biograd	depth	12.1
+Lake Biograd	depth	4.5
+Lake Glubokoye (Putorana)	depth	16.0
+Lake Paliastomi	depth	6.0
+Lake Paliastomi	depth	2.6
+Nakaumi	depth	17.1
+Prospect reservoir	depth	24.0
+Prospect reservoir	depth	9.0
+Lake Langano	depth	46.0
+Lac la Biche (Alberta)	depth	21.3
+Lac la Biche (Alberta)	depth	8.4
+Calling Lake	depth	18.3
+Utikuma Lake	depth	5.5
+Utikuma Lake	depth	1.7
+Waterton Lake	depth	80.0
+Clearwater Lakes	depth	178.0
+Lake Tauragnas	depth	60.5
+Lake Tauragnas	depth	18.7
+Hoan Kiem Lake	depth	2.0
+Hoan Kiem Lake	depth	1.2
+Gough's Cave	depth	90.0
+Großer Wannsee	depth	9.0
+Plum Orchard Lake	depth	12.192
+Plum Orchard Lake	depth	4.572
+Mezhdunarodnaya (Moscow Metro)	depth	25.0
+Lake Seminole	depth	9.144
+Lake Seminole	depth	3.048
+Woodhead Reservoir	depth	21.6408
+Torside Reservoir	depth	26.0
+Rhodeswood Reservoir	depth	20.7264
+Valehouse Reservoir	depth	12.192
+Bottoms Reservoir (Derbyshire)	depth	14.6304
+Arnfield Reservoir	depth	15.8496
+Hollingworth Reservoir	depth	15.8496
+Lake Siutghiol	depth	18.0
+Lake Kagawong	depth	45.0
+Lake Bohinj	depth	45.0
+Lake Bohinj	depth	30.0
+Beaverhill Lake	depth	2.3
+Chestermere Lake	depth	7.0
+Furesø (lake)	depth	37.7
+Sylvan Lake (Alberta)	depth	18.3
+Sylvan Lake (Alberta)	depth	9.6
+Lake Ilopango    1	depth	230.0
+Pigeon Lake (Alberta)	depth	9.1
+Pigeon Lake (Alberta)	depth	6.2
+Lamoka Lake	depth	12.192
+Lake Trichonida	depth	58.0
+Bush Lake (Hennepin County, Minnesota)	depth	8.5344
+Possum Kingdom Lake	depth	100.0
+Heaven Lake of Tian Shan	depth	105.0
+Elkwater Lake (Alberta)	depth	8.4
+Flagstaff Lake (Maine)	depth	14.6304
+Flagstaff Lake (Maine)	depth	5.4864
+Chatfield Reservoir	depth	47.0
+Rangeley Lake	depth	45.4152
+Rangeley Lake	depth	18.288
+Mooselookmeguntic Lake	depth	40.2336
+Mooselookmeguntic Lake	depth	18.288
+Slavyansky Bulvar	depth	10.0
+Upper Kananaskis Lake	depth	108.0
+Upper Kananaskis Lake	depth	32.0
+Mingachevir reservoir	depth	75.0
+Mingachevir reservoir	depth	26.0
+Larnaca Salt Lake	depth	1.0
+Pacific Tarn	depth	8.5344
+Syracuse Lake	depth	10.0
+Syracuse Lake	depth	3.9
+Limassol Salt Lake	depth	1.0
+Egma	depth	1429.0
+Weston Reservoir	depth	33.528
+Weston Reservoir	depth	17.6784
+Otis Reservoir	depth	14.63
+Otis Reservoir	depth	5.33
+Great Pond	depth	21.0312
+Great Pond	depth	6.4008
+Lake Lavon	depth	11.5824
+Paudash Lake	depth	46.0
+Maharana Pratap Sagar	depth	97.84
+Wollaston Lake	depth	71.0
+Wollaston Lake	depth	20.6
+Sturgeon Lake (Alberta)	depth	9.5
+Sturgeon Lake (Alberta)	depth	5.4
+Laurel River Lake	depth	85.344
+Laurel River Lake	depth	19.812
+Lake Todos los Santos	depth	337.0
+Daming Lake	depth	3.0
+Iniakuk Lake	depth	63.0
+Lake Lashaway	depth	5.4864
+Lake Lashaway	depth	3.048
+Quaboag Pond	depth	3.048
+Quaboag Pond	depth	2.1336
+Lac Ste. Anne (Alberta)	depth	9.0
+Lac Ste. Anne (Alberta)	depth	4.8
+Dipor Bil	depth	4.0
+Dipor Bil	depth	1.0
+Lake Musconetcong	depth	3.048
+Lake Musconetcong	depth	1.524
+Lake Chamo	depth	14.0
+Czarny Staw pod Rysami	depth	76.0
+Dashair and Dhankar Lake	depth	3000.0
+Lough Carra	depth	18.288
+Lough Carra	depth	1.8288
+Toke (lake)	depth	147.0
+Professor's Lake	depth	42.0
+Professor's Lake	depth	42.0
+Olallie Scenic Area	depth	13.1064
+Olallie Scenic Area	depth	5.1816
+Lake Velence	depth	1.6
+Alamo Lake State Park  Alamo Lake   1	depth	24.384
+Titan (cave)	depth	141.5
+Lake Willoughby	depth	91.44
+Lake Cootharaba	depth	1.5
+Ladon Lake	depth	100.0
+Glenlyon Dam	depth	4.3
+Bonnie Lake (Alberta)	depth	6.1
+Bonnie Lake (Alberta)	depth	3.1
+Runaway Pond	depth	30.48
+Brooks Pond (Massachusetts)	depth	6.096
+Brooks Pond (Massachusetts)	depth	3.6576
+Mirror Lake (Utah)	depth	10.9728
+Lake Gaston	depth	28.956
+Lake Gaston	depth	12.192
+Matabeleland Zambezi Water Project	depth	70.0
+North Lake (Dallas County, Texas)	depth	9.50976
+North Lake (Dallas County, Texas)	depth	6.571488
+Monksville Reservoir	depth	27.432
+Lake Sils	depth	71.0
+Lake Sils	depth	35.0
+Lake Silvaplana	depth	77.0
+Lake Silvaplana	depth	48.0
+Pfäffikersee	depth	36.0
+Pfäffikersee	depth	18.5
+Watauga Lake	depth	80.772
+Mauensee	depth	9.0
+Schiffenensee	depth	38.0
+Lago di Lei	depth	133.0
+Lake Kaindy	depth	30.0
+William Girling Reservoir	depth	12.5
+Lake Independence	depth	9.144
+Rara Lake	depth	160.0
+Lake Kerinci	depth	97.0
+Lake Laut Tawar	depth	80.0
+Lake Ranau	depth	229.0
+Lake Ranau	depth	174.0
+Lake Poso	depth	450.0
+Lake Tempe	depth	5.0
+Lake Towuti	depth	203.0
+Lake Matano	depth	590.0
+Wazee Lake	depth	108.204
+Llyn Eigiau	depth	9.7536
+Llyn Dulyn	depth	57.6072
+Llyn Elsi	depth	9.4488
+Lake Ioannina	depth	11.0
+Lake Ioannina	depth	4.5
+King George V Reservoir	depth	7.5
+Sugden Reservoir	depth	6.7056
+Sugden Reservoir	depth	3.3528
+Lake Granbury	depth	22.86
+Lake Gunung Tujuh	depth	40.0
+Oxlow Cavern	depth	140.0
+Llyn Conwy	depth	16.0
+Herrington Lake	depth	75.8952
+Gorky Reservoir	depth	22.0
+Yerevan Lake	depth	18.0
+Apache Lake (Arizona)	depth	73.152
+Lake Bolon	depth	4.0
+Lake Udyl	depth	5.0
+Lake Manych-Gudilo	depth	0.6
+Lake Kolvitskoye	depth	20.0
+Squaw Creek Reservoir	depth	38.1
+Squaw Creek Reservoir	depth	14.0208
+Lake Evoron	depth	2.0
+Lake Orel	depth	3.8
+Lake Chukchagirskoye	depth	6.0
+Lake Kizi	depth	3.0
+Lake Kizi	depth	4.0
+Bayles Lake (Illinois)	depth	13.716
+Bayles Lake (Illinois)	depth	10.0
+Dutch Lake	depth	13.716
+Dutch Lake	depth	4.61772
+Lake Engozero	depth	18.0
+Trillium Lake	depth	6.4008
+Trillium Lake	depth	2.1336
+Köyliönjärvi	depth	10.0
+Lake Leksozero	depth	8.6
+Lake Columbia	depth	7.62
+Lake Columbia	depth	5.4864
+Federsee	depth	2.0
+Balsam Lake (Wisconsin)	depth	11.2776
+Theodore Roosevelt Lake	depth	106.3752
+Riñihue Lake	depth	323.0
+Riñihue Lake	depth	162.0
+Lake Misurina	depth	5.0
+Blauhöhle	depth	42.0
+Lake Oscawana	depth	9.144
+Kandawgyi Lake	depth	45.0
+Ivö Lake	depth	50.0
+Browning Pond	depth	12.8016
+Browning Pond	depth	3.048
+Gardy's Millpond	depth	1.2192
+Crystal Lake (Vermont)	depth	30.48
+Llyn-y-foel	depth	2.0
+Silver Lake (Serbia)	depth	8.0
+Wägitalersee	depth	65.0
+Ranco Lake	depth	199.0
+Rupanco Lake	depth	350.0
+Puyehue Lake	depth	135.0
+Lünersee	depth	139.0
+Walker Lake (Pennsylvania)	depth	9.7536
+Walker Lake (Pennsylvania)	depth	4.20624
+Calafquén Lake	depth	207.0
+Lake Redstone	depth	10.9728
+Banks Lake	depth	53.9496
+Banks Lake	depth	14.0208
+Großer Plöner See	depth	58.0
+Großer Plöner See	depth	13.54
+Lac de Joux	depth	32.0
+Lungerersee	depth	68.0
+Thompson Pond (Massachusetts)	depth	6.4008
+Thompson Pond (Massachusetts)	depth	2.4384
+Over Water	depth	18.0
+Liberty Reservoir	depth	43.8912
+Liberty Reservoir	depth	17.9832
+Upper Yarra Reservoir	depth	77.0
+Upper Yarra Reservoir	depth	27.0
+Klöntalersee	depth	49.0
+Lake Der-Chantecoq	depth	15.0
+Synevir	depth	22.0
+Synevir	depth	8.0
+Loch Lomond (California)	depth	45.72
+Pergusa Lake	depth	12.0
+Champagne Pool	depth	62.0
+Lake Osakis	depth	22.2504
+Phoksundo Lake	depth	145.0
+Grimsbury Reservoir (Banbury)	depth	2.4384
+Lago di Poschiavo	depth	85.0
+Lake Davos	depth	54.0
+Robert-Bourassa Reservoir	depth	137.0
+Robert-Bourassa Reservoir	depth	21.8
+Blue Cypress Lake	depth	2.4384
+Albigna lake	depth	108.0
+Gouin Reservoir	depth	5.0
+Lake George, New Brunswick	depth	7.0
+Lake Livingston	depth	27.432
+Lake Livingston	depth	7.0104
+Pymatuning Reservoir	depth	10.668
+Pymatuning Reservoir	depth	4.572
+Lake St. Moritz	depth	44.0
+Kakhovskaya (Moscow Metro)	depth	8.0
+Varshavskaya	depth	9.0
+Umm al Binni lake	depth	3.0
+Bachalpsee	depth	14.8
+Carter Lake (Iowa–Nebraska)	depth	3.3528
+Carter Lake (Iowa–Nebraska)	depth	1.8288
+Loch Arkaig	depth	91.44
+Blausee	depth	10.0
+Lake Lans	depth	12.0
+Lake Lans	depth	3.0
+Mühlsee	depth	7.0
+Mühlsee	depth	3.0
+Natterer See	depth	3.5
+Natterer See	depth	1.3
+Obernberger See	depth	15.0
+Obernberger See	depth	13.0
+Cox's Cave	depth	18.0
+Lake Mamry	depth	44.0
+Aveline's Hole	depth	16.0
+Leigh Lake	depth	76.2
+Eastwater Cavern	depth	160.0
+GB Cave	depth	134.0
+Popovo Lake	depth	29.5
+Goatchurch Cavern	depth	55.0
+Volderer See	depth	2.0
+Volderer See	depth	1.0
+Burgäschisee	depth	36.0
+St Cuthbert's Swallet	depth	145.0
+Sparks Lake	depth	3.6576
+Sparks Lake	depth	1.0
+Sinanishko Lake	depth	11.5
+Steinbrücken Cave	depth	622.0
+Lanser Moor	depth	3.0
+Isbladskärret	depth	1.0
+Černé jezero	depth	40.6
+Černé jezero	depth	15.0
+Lake Mary (Arizona)	depth	11.5824
+Schwarzsee	depth	10.0
+Garibaldi Lake	depth	258.7
+Garibaldi Lake	depth	119.0
+Cedar Creek Reservoir (Texas)	depth	18.8976
+Last Mountain Lake	depth	39.624
+Last Mountain Lake	depth	35.0
+Lake Pat Cleburne	depth	19.5072
+Saadjärv	depth	25.0
+Saadjärv	depth	8.0
+Etang de la Gruère	depth	4.5
+East Lake Tohopekaliga	depth	21.336
+Leesville Lake	depth	9.4488
+Alpsee	depth	62.0
+Lake Buhi	depth	12.0
+Lake Buhi	depth	8.0
+Lake Sinoe	depth	1.6
+Lake Chivero	depth	27.0
+Zervreilasee	depth	140.0
+Longwood Swallet	depth	175.0
+Stoke Lane Slocker	depth	30.0
+Upper Flood Swallet	depth	110.0
+Buntzen Lake	depth	65.0
+Buntzen Lake	depth	30.0
+Aviamotornaya (Moscow Metro)	depth	53.0
+Shosse Entuziastov	depth	53.0
+Golden Lake	depth	24.6888
+Golden Lake	depth	10.668
+Lake Linville	depth	10.9728
+Lake Linville	depth	4.8768
+Paintsville Lake	depth	30.48
+Lake Pohjalampi	depth	5.3
+Lake Pohjalampi	depth	3.2
+Lake Tegel	depth	16.0
+Lake Tegel	depth	7.9
+Ten Mile Lake (Minnesota)	depth	63.3984
+Lac d'Emosson	depth	161.0
+Lac d'Oô	depth	12.0
+Amsoldingersee	depth	13.9
+Tolay Lake	depth	2.4384
+Lake Shikotsu	depth	363.0
+Lake Shikotsu	depth	265.4
+Elmer Davis Lake	depth	17.9832
+Elmer Davis Lake	depth	6.4008
+Lake Glenville	depth	91.44
+Türlersee	depth	22.0
+Türlersee	depth	13.0
+Budi Lake	depth	10.5
+Lake Viljandi	depth	11.0
+Hatzlacke	depth	3.0
+Lake Campotosto	depth	38.0
+Seealpsee	depth	15.0
+Müritz	depth	31.0
+Müritz	depth	6.0
+Madge Lake	depth	12.0
+Madge Lake	depth	4.0
+Uebeschisee	depth	15.0
+Stubensee	depth	3.0
+Totensee	depth	34.0
+Gampriner Seele	depth	6.0
+Gampriner Seele	depth	3.0
+Lac des Brenets	depth	26.0
+Lake Cadagno	depth	21.0
+Lac de Bret	depth	13.0
+Cameron Lake (Ontario)	depth	15.24
+Lac de Moiry	depth	120.0
+Sidcot Swallet	depth	28.0
+Lake Hoare	depth	34.0
+Lake Hoare	depth	9.0
+Frenchman Lake	depth	30.7848
+Frenchman Lake	depth	10.668
+Aguelmame Sidi Ali lake	depth	36.0
+Lac Courte Oreilles	depth	27.432
+Shivasagar lake	depth	80.0
+Townline Lake	depth	15.24
+El Dorado Lake	depth	60.0
+Eikesdalsvatnet	depth	155.0
+Oeschinen Lake	depth	56.0
+Oeschinen Lake	depth	34.0
+Quesnel Lake	depth	610.0
+Quesnel Lake	depth	157.0
+Queen Elizabeth II Reservoir	depth	17.8
+Queen Elizabeth II Reservoir	depth	15.3
+Lauenensee	depth	3.5
+Lake Gilead	depth	36.576
+Lake Gilead	depth	13.1064
+Sasthamkotta Lake	depth	15.2
+Sasthamkotta Lake	depth	6.53
+Lago del Sambuco	depth	124.0
+Lago Ritom	depth	69.0
+Lai da Marmorera	depth	65.0
+Zasavica (bog)	depth	10.0
+Zasavica (bog)	depth	2.5
+Limmernsee	depth	122.0
+Del Toro Lake	depth	300.0
+Lake Blackshear	depth	13.47216
+Lake Blackshear	depth	3.2004
+Baskatong Reservoir	depth	96.0
+Sarmiento Lake	depth	315.0
+Black Hawk Lake (Sac County, Iowa)	depth	6.096
+Lago di Mergozzo	depth	73.0
+Lago di Mergozzo	depth	45.0
+Lake Kutubu	depth	70.0
+Lake Kashiba	depth	100.0
+Lago di Viverone	depth	70.0
+Oberaarsee	depth	90.0
+Bakans	depth	3.7
+Bakans	depth	3.0
+Lake Jesup	depth	1.8288
+Western Brook Pond	depth	165.0
+Western Brook Pond	depth	72.5
+Saratov Reservoir	depth	7.0
+Lake Lysimachia	depth	9.0
+Yalchik Lake	depth	28.8
+Yalchik Lake	depth	32.0
+Yalchik Lake	depth	7.89
+Yalchik Lake	depth	8.7
+Lake Molveno	depth	120.0
+Devils Kitchen Lake	depth	27.432
+Lago di Candia	depth	7.7
+Lago di Candia	depth	4.7
+Rawal lake	depth	31.0896
+Lake Langdon	depth	11.5824
+Lake Langdon	depth	2.52984
+Wimbleball Lake	depth	50.0
+Arnensee	depth	116.0
+Robert S. Kerr Reservoir	depth	3.5814
+Robert S. Kerr Reservoir	depth	15.8496
+Gelmersee	depth	48.0
+Räterichsbodensee	depth	77.0
+Lake Noquebay	depth	15.5448
+Lake Minocqua	depth	18.288
+Lake Minocqua	depth	7.0104
+Göscheneralpsee	depth	106.0
+Lake Eau d'Heure	depth	43.0
+Lake Boon	depth	7.0104
+Lake Boon	depth	3.26136
+Barker Meadow Reservoir	depth	36.6
+Barker Meadow Reservoir	depth	8.3
+Devils Lake (Minnesota)	depth	20.4216
+Booragoon Lake	depth	1.5
+Yak Loum	depth	47.8536
+Big Birch Lake	depth	24.6888
+Lake Skegemog	depth	8.8392
+Lake Robertville	depth	54.5
+Lake Ry de Rome	depth	545.0
+Lake Idro	depth	122.0
+Baldwin Lake (Illinois)	depth	2.4384
+Lake Snagov	depth	11.0
+Lake Snagov	depth	5.0
+Grapevine Lake	depth	19.812
+Lac de Mauvoisin	depth	180.0
+Deal Lake	depth	1.8288
+Mattmarksee	depth	93.0
+Nimpo Lake	depth	27.432
+Nimpo Lake	depth	30.0
+Lake Rotoiti (Tasman)	depth	82.0
+Lake Rotoiti (Bay of Plenty)	depth	93.5
+Lake Rotoiti (Bay of Plenty)	depth	33.0
+Lago di Vogorno	depth	204.0
+Goldwater Lake	depth	3.048
+Lake Abant Nature Park	depth	18.0
+Judarn	depth	3.7
+Judarn	depth	2.7
+Caumasee	depth	30.0
+Kyrksjön	depth	2.5
+Kyrksjön	depth	1.5
+Råcksta Träsk	depth	2.3
+Råcksta Träsk	depth	1.5
+Lillsjön (Ulvsunda)	depth	3.0
+Lillsjön (Ulvsunda)	depth	2.0
+Laduviken	depth	3.2
+Laduviken	depth	2.2
+Saganaga Lake	depth	85.344
+Morské oko (Slovakia)	depth	25.1
+Silver Lake (Clay County, Minnesota)	depth	11.8872
+Antonelli Pond	depth	0.9
+Aquilla Lake	depth	18.1356
+Lappkärret	depth	1.1
+Lappkärret	depth	0.7
+Lake Letas	depth	350.0
+Lake Letas	depth	42.0
+Santa Lucía metro station	depth	500.0
+Messolongi Lagoon	depth	9.0
+Aitoliko Lagoon	depth	28.0
+Spegeldammen	depth	2.0
+Magelungen	depth	13.7
+Magelungen	depth	5.0
+Little Rock Lake	depth	7.0104
+Redoubt Lake	depth	265.176
+Redoubt Lake	depth	140.208
+Swan Lake (Alaska)	depth	3.048
+Swan Lake (Alaska)	depth	1.3716
+Drevviken	depth	15.2
+Drevviken	depth	6.7
+Flaten	depth	13.6
+Flaten	depth	7.4
+Ogof y Daren Cilau	depth	192.0
+Wolf Lake (Yukon)	depth	84.0
+Lac de Salanfe	depth	48.0
+Ältasjön	depth	5.0
+Ältasjön	depth	3.6
+Sicklasjön	depth	5.4
+Sicklasjön	depth	3.0
+Lake Lesina	depth	1.7
+Lake Lesina	depth	0.7
+Mirror Lake State Park  Mirror Lake   1	depth	4.2672
+François Lake	depth	244.4
+Zhelin Reservoir	depth	45.0
+Moose Lake (Alberta)	depth	19.8
+Moose Lake (Alberta)	depth	5.6
+Bay Lake (Minnesota)	depth	22.5552
+Lac la Nonne	depth	20.0
+Lac la Nonne	depth	7.8
+Lake Skadar	depth	44.0
+Långsjön	depth	3.3
+Långsjön	depth	2.2
+Trekanten (Stockholm)	depth	7.0
+Trekanten (Stockholm)	depth	4.4
+Mansfield Hollow Lake	depth	7.0104
+Lake Louise (Alberta)	depth	70.0
+Lake Windigo	depth	7.62
+Applegate Lake	depth	57.3024
+Sangiin Dalai nuur	depth	30.0
+Christian Pond	depth	2.0
+Lac de l'Hongrin	depth	105.0
+Gömmaren	depth	5.6
+Gömmaren	depth	3.4
+Yalpug Lake	depth	5.5
+Yalpug Lake	depth	2.0
+Zemplínska šírava	depth	14.0
+Zemplínska šírava	depth	9.5
+Trehörningen (Sjödalen)	depth	3.6
+Trehörningen (Sjödalen)	depth	1.7
+Lake Gogebic	depth	11.5824
+Lake Gogebic	depth	5.334
+Lake Bullen Merri	depth	66.0
+Lost Lake (California)	depth	1.9
+Hacksjön	depth	1.3
+Hacksjön	depth	0.6
+Lake Glenn Shoals	depth	3.048
+Chub Lake (Carlton County)	depth	8.5344
+Lost Lake (South Dakota)	depth	2.1336
+Lake Kuş	depth	3.0
+Eagle Lake (Lassen County)	depth	25.908
+Schliersee (lake)	depth	40.0
+Schliersee (lake)	depth	20.0
+Chalan Beel	depth	4.0
+Chalan Beel	depth	2.0
+Whale Lake	depth	3.048
+Vlasina Lake	depth	34.0
+Vlasina Lake	depth	10.3
+Loch Assynt	depth	86.0
+Lake Mackintosh	depth	65.0
+Lago Bianco	depth	53.0
+Watson Lake (Arizona)	depth	15.24
+Hellhole	depth	157.8864
+Jaskinia Raj	depth	9.5
+Lago di Luzzone	depth	181.0
+Ulley Reservoir	depth	14.0208
+Pewaukee Lake	depth	14.0208
+Hillsdale Lake	depth	17.3736
+Big Sandy Lake	depth	25.6032
+Lago di Livigno	depth	119.0
+Lai da Sontga Maria	depth	86.0
+Vaseux Lake	depth	27.0
+Lake Kasumigaura	depth	7.0
+Lake Kasumigaura	depth	4.0
+Paravani Lake	depth	3.3
+Paravani Lake	depth	2.2
+Loon Lake (Lake County, Illinois)	depth	13.4112
+Gull Lake (Alberta)	depth	8.0
+Gull Lake (Alberta)	depth	5.4
+Blea Water	depth	62.7888
+Lake Holiday (Illinois)	depth	7.62
+Lake Holiday (Illinois)	depth	4.8768
+Lake Veisiejis	depth	33.8
+Lake Veisiejis	depth	6.03
+Cospudener See	depth	54.0
+Cedar Lake (Illinois)	depth	12.192
+Cedar Lake (Illinois)	depth	4.2672
+Dood Tsagaan nuur	depth	15.0
+Lake Dysnai	depth	6.0
+Lake Dysnai	depth	3.0
+Lake Dusia	depth	32.4
+Lake Dusia	depth	14.6
+Lake Abrau	depth	10.0
+Newnans Lake	depth	3.6
+Newnans Lake	depth	1.5
+Halstead's Bay	depth	10.0584
+Lake Francis Case	depth	42.672
+Chatyr-Kul	depth	16.5
+Głuszyńskie	depth	36.5
+Głuszyńskie	depth	4.7
+Song Kol Lake	depth	13.0
+Lake Sary-Chelek	depth	234.0
+Stony Lake (Ontario)	depth	32.004
+Lafarge Lake	depth	8.0
+Lafarge Lake	depth	4.0
+Lake Mattoon	depth	10.668
+Lake Mattoon	depth	3.2004
+Lacul Vulturilor	depth	2.5
+Crystal Lake (Dakota, Minnesota)	depth	11.2776
+Timothy Lake	depth	24.384
+Timothy Lake	depth	13.716
+Hanningfield Reservoir	depth	16.76
+Hanningfield Reservoir	depth	7.62
+East Alaska Lake	depth	15.24
+East Alaska Lake	depth	5.1816
+West Alaska Lake	depth	12.4968
+West Alaska Lake	depth	4.572
+Clark Lake (Door County, Wisconsin)	depth	7.62
+Clark Lake (Door County, Wisconsin)	depth	2.1336
+Swan Lake Nature Study Area	depth	1.8288
+Elk Lake (British Columbia)	depth	17.9
+Lake Connewarre	depth	0.5
+Reschensee	depth	6.0
+Krohns Lake	depth	11.5824
+Krohns Lake	depth	6.4008
+Europe Lake	depth	3.048
+Europe Lake	depth	1.8288
+Ludaš Lake	depth	2.5
+Ludaš Lake	depth	1.0
+Jablanica lake	depth	80.0
+Jablanica lake	depth	70.0
+Tasman Lake	depth	100.0
+Long Pond (Plymouth, Massachusetts)	depth	30.48
+Long Pond (Plymouth, Massachusetts)	depth	14.0208
+Halfway Pond (Massachusetts)	depth	3.9624
+Halfway Pond (Massachusetts)	depth	2.7432
+Red Lake (Orlando)	depth	6.096
+Red Lake (Orlando)	depth	3.53568
+Inkwilersee	depth	6.0
+Inkwilersee	depth	2.9
+Melchsee	depth	18.0
+Wet Lake (Warmia-Masuria Voivodeship)	depth	51.0
+Gwiazda Lake	depth	10.0
+Gwiazda Lake	depth	3.0
+Micajah Pond (Massachusetts)	depth	7.9248
+Great Herring Pond	depth	12.8016
+Great Herring Pond	depth	6.096
+Dinner Lake	depth	6.7056
+Dinner Lake	depth	3.048
+Lugu Lake	depth	93.5
+Cotacotani Lake	depth	10.0
+Red Lake (Arizona – New Mexico)	depth	1.524
+Red Lake (Douglas County, Wisconsin)	depth	11.2776
+Billington Sea	depth	3.3528
+Billington Sea	depth	2.1336
+Little Pond (Massachusetts)	depth	15.5448
+Little Pond (Massachusetts)	depth	5.7912
+Bazaleti Lake	depth	7.0
+Fresh Pond (Plymouth, Massachusetts)	depth	9.144
+Fresh Pond (Plymouth, Massachusetts)	depth	3.6576
+Monponsett Pond	depth	3.9624
+Monponsett Pond	depth	2.1336
+Colorada Lake	depth	1.5
+Colorada Lake	depth	0.35
+Lai da Nalps	depth	122.0
+Lac de Montsalvens	depth	50.0
+Flachsee	depth	7.0
+Stausee Gibidum	depth	104.0
+Gigerwaldsee	depth	135.0
+Lac de Tseuzier	depth	140.0
+Red Lake (Romania)	depth	12.5
+Steinhuder Meer	depth	3.0
+Steinhuder Meer	depth	1.35
+Engstlensee	depth	49.0
+Sufnersee	depth	51.0
+Illsee	depth	64.0
+Griessee	depth	66.0
+Lac de Moron	depth	59.0
+Soppensee	depth	27.0
+Lac des Toules	depth	75.0
+Lago del Narèt	depth	104.0
+Curlew Pond	depth	9.4488
+Curlew Pond	depth	3.3528
+Lai da Curnera	depth	136.0
+College Pond	depth	7.3152
+College Pond	depth	3.048
+Charge Pond	depth	5.1816
+Charge Pond	depth	1.8288
+Nong Han Kumphawapi Lake	depth	1.9
+Robbins Pond (Massachusetts)	depth	1.524
+Robbins Pond (Massachusetts)	depth	1.2192
+Winnecunnet Pond	depth	3.3528
+Winnecunnet Pond	depth	1.8288
+Lago di Lucendro	depth	96.0
+Lac de Cleuson	depth	76.0
+Lac du Vieux Emosson	depth	42.0
+Lago dei Cavagnöö	depth	100.0
+Clifton Court Forebay	depth	-3.0
+Clifton Court Forebay	depth	-2.0
+Lac Brenet	depth	18.0
+Lac des Taillères	depth	7.0
+Cassidy Lake (New Brunswick)	depth	9.144
+Cassidy Lake (New Brunswick)	depth	0.3048
+Lake Lauerz	depth	13.0
+Lake Lauerz	depth	7.6
+Hüttwilersee	depth	14.8
+Hüttwilersee	depth	7.7
+Lago Tremorgio	depth	57.0
+Neltume Lake	depth	86.0
+Bloody Pond (Massachusetts)	depth	11.5824
+Bloody Pond (Massachusetts)	depth	5.1816
+Little Herring Pond	depth	1.2192
+Little Herring Pond	depth	0.9144
+Lago di Robièi	depth	50.0
+Seeli (Seelisberg)	depth	37.0
+Fearing Pond	depth	6.096
+Fearing Pond	depth	3.048
+McGregor Lake	depth	9.7
+McGregor Lake	depth	6.5
+Lake Segara Anak	depth	190.0
+Katzensee	depth	8.0
+Hüttnersee	depth	13.3
+Hüttnersee	depth	6.3
+Kallavesi	depth	60.0
+Höytiäinen	depth	62.0
+Juojärvi	depth	44.0
+Pyhäjärvi (Karelia)	depth	46.0
+Nilakka	depth	20.0
+Clear Lake (Linn County, Oregon)	depth	53.34
+Clear Lake (Linn County, Oregon)	depth	15.24
+Pyhäjärvi (Satakunta)	depth	26.0
+Pyhäjärvi (Satakunta)	depth	5.4
+Strawberry Lake (Oregon)	depth	12.192
+Lake Kilpisjärvi	depth	57.0
+Lake Kilpisjärvi	depth	19.5
+Caballo Lake	depth	7.0
+Dittligsee	depth	16.4
+Ezekiel Pond (Massachusetts)	depth	5.7912
+Ezekiel Pond (Massachusetts)	depth	2.4384
+Big Sandy Pond	depth	11.2776
+Big Sandy Pond	depth	5.7912
+Lac Pavin	depth	92.0
+Lake Shira	depth	23.0
+Lake Shunet	depth	6.2
+Watchaug Pond	depth	10.9728
+Watchaug Pond	depth	2.4384
+Split Rock Dam	depth	52.0
+Pindari Dam	depth	85.0
+Chaffey Dam	depth	30.0
+Chichester Dam	depth	43.0
+Hinterburgsee	depth	11.0
+Wilson Lake (Wisconsin)	depth	6.4008
+Barrett Pond (Carver, Massachusetts)	depth	5.1816
+Barrett Pond (Carver, Massachusetts)	depth	1.8288
+Lout Pond	depth	10.9728
+Lout Pond	depth	5.7912
+Five Mile Pond (Plymouth, Massachusetts)	depth	6.4008
+Lake Moondarra	depth	11.0
+Sägistalsee	depth	9.7
+Mahoney Lake	depth	18.0
+Lake Wyola	depth	10.0584
+Lake Wyola	depth	3.3528
+Joyuda Lagoon	depth	1.2
+Donaca Lake	depth	12.4968
+Lake Crabtree	depth	3.9624
+Lake Crabtree	depth	1.9812
+Round Lake (Ontario)	depth	55.0
+Laguna Chicabal	depth	331.0
+Lake Ukiel	depth	43.0
+Lake Ukiel	depth	10.6
+Belvedere Lagoon	depth	1.524
+Traungold Cave	depth	27.0
+Weslemkoon Lake	depth	54.9
+Seebergsee	depth	15.5
+Wallowa Lake	depth	86.2584
+Uamh an Claonaite	depth	89.0
+Gerzensee (lake)	depth	11.0
+Lago di Muzzano	depth	4.0
+Moossee	depth	21.1
+Hasensee	depth	7.3
+Hasensee	depth	3.9
+Märjelensee	depth	45.0
+Niederriedsee	depth	8.0
+Lago della Sella	depth	30.0
+Egelsee (Aargau)	depth	10.5
+San Jorge Gulf	depth	85.0
+Lützelsee	depth	6.1
+Lützelsee	depth	4.2
+Namekagon Lake	depth	15.5448
+Namekagon Lake	depth	11.5824
+Dutch Springs	depth	30.48
+Maquan Pond	depth	5.4864
+Maquan Pond	depth	3.6576
+Laguna de Gallocanta	depth	2.0
+Laguna de Gallocanta	depth	0.5
+Lake Karla	depth	20.0
+Lake Karla	depth	6.0
+Lake Rotopounamu	depth	9.0
+Lago della Crosa	depth	70.0
+Lago d'Isola	depth	39.0
+Lago di Cama	depth	16.0
+Glen Charlie Pond	depth	3.6576
+Furnace Pond (Pembroke, Massachusetts)	depth	2.7432
+Horseshoe Lake (Arizona)	depth	9.144
+Bartlett Lake	depth	53.0352
+Bartlett Lake	depth	30.48
+Indian Pond (Kingston, Massachusetts)	depth	0.9144
+Woman Lake	depth	16.4592
+Oberstockensee	depth	15.3
+North Triangle Pond	depth	0.9144
+Tispaquin Pond	depth	2.4384
+Tispaquin Pond	depth	2.1336
+Sampsons Pond	depth	4.2672
+Sampsons Pond	depth	2.7432
+Nussbaumersee	depth	7.9
+Nussbaumersee	depth	3.9
+Bichelsee (lake)	depth	8.5
+Wilersee	depth	20.8
+Wilersee	depth	12.3
+Mettmenhaslisee	depth	12.4
+Mettmenhaslisee	depth	6.5
+Egelsee (Bubikon)	depth	6.0
+Egelsee (Bubikon)	depth	3.6
+Ba Bể Lake	depth	29.0
+Ba Bể Lake	depth	15.0
+Rod's Pot	depth	45.0
+Kashwakamak Lake	depth	22.0
+Egelsee (Berne)	depth	3.4
+Big Rocky Pond	depth	5.7912
+Redmires Reservoirs	depth	15.0
+Snipatuit Pond	depth	1.8288
+Snipatuit Pond	depth	1.524
+Grand lac de Laffrey	depth	39.0
+Hagelseeli	depth	18.8
+Mary's Pond	depth	9.7536
+Mary's Pond	depth	3.6576
+Canim Lake (British Columbia)	depth	208.5
+Canim Lake (British Columbia)	depth	84.1
+Green Grotto Caves	depth	1525.0
+Dunn's Hole	depth	70.0
+Windsor Great Cave	depth	80.0
+Coffee River Cave	depth	0.0
+Gourie Cave	depth	90.0
+Smokey Hole Cave	depth	194.0
+Gregoire Lake (Alberta)	depth	7.2
+Gregoire Lake (Alberta)	depth	3.9
+Hutchinson's Hole	depth	98.0
+Morgans Pond Hole	depth	186.0
+Diamond Lake (Oregon)	depth	16.002
+Moberly Lake (British Columbia)	depth	42.7
+Moberly Lake (British Columbia)	depth	18.3
+Thatchfield Great Cave	depth	177.0
+Mouth Maze Cave	depth	10.0
+Schwielochsee (lake)	depth	7.0
+Schwielochsee (lake)	depth	2.8
+Belmont Cave	depth	75.0
+Stetson Pond (Pembroke, Massachusetts)	depth	10.0584
+Stetson Pond (Pembroke, Massachusetts)	depth	4.572
+Chesuncook Lake	depth	45.72
+Chesuncook Lake	depth	12.192
+Evans Lake (British Columbia)	depth	24.0
+Lake Euramoo	depth	20.0
+Lake Euramoo	depth	16.0
+Lag da Pigniu	depth	42.0
+Lough Sheelin	depth	3.0
+Island Pond (Stoddard, New Hampshire)	depth	4.572
+Lake Hibara	depth	30.5
+Lake Wahtopanah	depth	15.24
+Banbury Reservoir	depth	8.5
+Abismo Guy Collet	depth	-671.0
+Sheksna Reservoir	depth	4.0
+Lockwood Reservoir	depth	10.4
+Lake Vozhe	depth	4.5
+Lake Vozhe	depth	2.0
+Lake Rotoroa, Waikato	depth	6.0
+Lake Rotoroa, Waikato	depth	2.4
+Namak Lake	depth	1.0
+Lake Yamanaka	depth	15.0
+Los Vaqueros Reservoir	depth	51.816
+High Maynard Reservoir	depth	5.8
+Goguac Lake	depth	20.1168
+Alumine Lake	depth	165.0
+Alumine Lake	depth	69.4
+Kawagama Lake	depth	67.0
+Kawagama Lake	depth	21.0
+Low Maynard Reservoir	depth	3.0
+Lake Bästeträsk	depth	6.0
+Lake Bästeträsk	depth	4.5
+Lai da Palpuogna	depth	25.0
+Lago di Saoseo	depth	17.0
+Singletary Lake	depth	3.59664
+Loch McNess	depth	3.4
+Lake McConaughy	depth	43.2816
+East Warwick Reservoir	depth	5.8
+Wilcox Lake	depth	17.3736
+West Warwick Reservoir	depth	5.8
+Liepāja lake	depth	3.0
+Liepāja lake	depth	2.0
+Sistema Sac Actun	depth	71.6
+Jerusalem Binyanei HaUma Railway Station	depth	80.0
+Gibson Lake (Indiana)	depth	7.3152
+Gibson Lake (Indiana)	depth	4.572
+Lake Hamana	depth	16.6
+Lake Hamana	depth	4.8
+Oberer Murgsee	depth	26.0
+Lake Sartai	depth	20.9
+Giant's Hole	depth	120.0
+Milk River Ridge Reservoir	depth	16.5
+Milk River Ridge Reservoir	depth	8.4
+Leslie Dam	depth	28.9
+Atkinson Dam	depth	9.0
+Cressbrook Dam	depth	34.0
+Cooby Dam	depth	12.5
+Perseverance Dam	depth	23.1
+Borumba Dam	depth	33.5
+Fairbairn Dam	depth	31.7
+Fred Haigh Dam	depth	43.0
+Boondooma Dam	depth	11.0
+Lago di Val Viola	depth	13.2
+Wuruma Dam	depth	36.6
+Cooloolabin Dam	depth	16.0
+Gold Creek Dam	depth	26.0
+E.J. Beardmore Dam	depth	12.1
+Gordonbrook Dam	depth	3.0
+Bill Gunn Dam	depth	10.7
+Peter Faust Dam	depth	39.6
+Lake Julius	depth	25.2
+Lake Julius	depth	8.9
+Lake Clarendon	depth	13.0
+Lake Harku	depth	2.5
+Lake Harku	depth	1.6
+Ewen Maddock Dam	depth	4.5
+Baroon Pocket Dam	depth	15.0
+Cania Dam	depth	40.1
+Koombooloomba Dam	depth	12.9
+Hopkins Pond (New Hampshire)	depth	15.24
+Hopkins Pond (New Hampshire)	depth	6.096
+Callide Dam	depth	34.8
+Kinchant Dam	depth	18.1
+Teemburra Dam	depth	54.0
+Paradise Dam (Queensland)	depth	38.2
+Cedar Pocket Dam	depth	12.3
+Kroombit Dam	depth	18.6
+Coolmunda Dam	depth	16.1
+Coolmunda Dam	depth	4.3
+Six Mile Creek Dam	depth	6.0
+Lägh dal Lunghin	depth	9.2
+Lenthalls Dam	depth	11.0
+Lenthalls Dam	depth	4.0
+Lake Gregory (Queensland)	depth	3.1
+Lake Worth (Texas)	depth	6.7056
+Lake Worth (Texas)	depth	1.8288
+Obersee (Arosa)	depth	13.0
+Obersee (Arosa)	depth	7.3
+Lago d'Origlio	depth	5.35
+Lago di Annone	depth	11.3
+Lac de Divonne	depth	3.0
+Lägh da Cavloc	depth	17.0
+Lago di Ghirla	depth	14.0
+Burgseeli	depth	19.1
+Clearwater Lake (British Columbia)	depth	600.0
+Lej da la Tscheppa	depth	32.0
+Lej da la Tscheppa	depth	12.4
+Lake Margrethe	depth	19.812
+Lake Margrethe	depth	4.8768
+Lej da Staz	depth	4.7
+Lac des Rousses	depth	17.0
+Arendsee (lake)	depth	50.0
+Arendsee (lake)	depth	29.0
+Lake Bonney (Antarctica)	depth	40.0
+Lake Bonney (Antarctica)	depth	15.0
+Silver Lake (Rochester, Minnesota)	depth	3.3528
+Lake Cadillac	depth	8.5344
+Lake Cadillac	depth	3.59664
+Lake Bonney S.E (South Australia)	depth	3.0
+Lac des Chavonnes	depth	30.0
+Lake Poukawa	depth	1.0
+Ghost Lake (Alberta)	depth	34.0
+Ghost Lake (Alberta)	depth	14.5
+Lake Batyo Catyo	depth	2.5
+Steinsee	depth	19.0
+Rumbling Hole	depth	119.0
+Lost John's Cave	depth	211.0
+Castle Lake (California)	depth	33.528
+Ireby Fell Cavern	depth	128.0
+Manyuchi Dam	depth	25.0
+Lake Belmore	depth	4.9
+Phewa Lake	depth	22.8
+Phewa Lake	depth	8.6
+Laaxersee	depth	5.5
+Lake Bramant	depth	39.0
+Bellacher Weiher	depth	2.0
+Tsvetnoy Bulvar	depth	50.0
+Summer Lake (Oregon)	depth	9.144
+Lake Hornborga	depth	2.0
+Talalpsee	depth	4.0
+Talalpsee	depth	2.3
+Lac de Sauvabelin	depth	1.5
+King George VI Reservoir	depth	17.0688
+Simpson's Pot	depth	112.0
+Lake Untersee	depth	169.0
+Hinterstockensee	depth	18.0
+Triebtenseewli	depth	24.0
+Husemersee	depth	14.3
+Husemersee	depth	6.2
+Seeweidsee	depth	5.3
+Seeweidsee	depth	3.3
+Walker Pond	depth	4.8768
+Walker Pond	depth	2.286
+Rock Dam Lake	depth	3.048
+Chadwick Lake	depth	7.62
+Chadwick Lake	depth	2.7432
+Houghton's Pond	depth	12.8016
+Vårbyfjärden	depth	17.0
+Albysjön (Botkyrka)	depth	24.0
+Albysjön (Botkyrka)	depth	8.3
+Albysjön (Tyresö)	depth	17.0
+Tyresö-Flaten	depth	26.0
+Lago di Mezzola	depth	69.0
+Ågestasjön	depth	1.5
+Veluwemeer	depth	5.0
+Veluwemeer	depth	1.55
+Roma Quattro Venti railway station	depth	65.0
+Orlången	depth	10.2
+Orlången	depth	4.4
+Mörtsjön	depth	2.3
+Mörtsjön	depth	1.9
+Goat Rock Lake	depth	18.288
+Lake Harding	depth	33.8328
+Lake Harding	depth	9.7536
+Lake Sapanca	depth	52.0
+Lake Oliver	depth	15.24
+Lake Chehaw	depth	6.096
+Grändalssjön	depth	5.1
+Grändalssjön	depth	3.7
+Lake of Bays (Ontario)	depth	70.1
+Lake of Bays (Ontario)	depth	22.25
+Långsjön (Skälsätra-Tutviken)	depth	6.0
+Ypacaraí Lake	depth	3.048
+Lake Akşehir	depth	7.0
+Fatburen	depth	5.0
+Fatburen	depth	1.9
+Lake Sélingué	depth	20.0
+Lake Sélingué	depth	5.3
+Llyn y Fan Fach	depth	29.0
+Lake Carmi	depth	10.0584
+Lake Carmi	depth	6.096
+Little Seneca Lake	depth	20.7264
+Little Seneca Lake	depth	7.52856
+Garry Lake	depth	9.144
+Garry Lake	depth	6.096
+Lake Newell	depth	19.8
+Lake Newell	depth	4.8
+Green Lake (Maine)	depth	51.816
+Green Lake (Maine)	depth	13.4112
+Weissensee (Carinthia)	depth	97.0
+South Twin Lake (Maine)	depth	16.764
+South Twin Lake (Maine)	depth	9.144
+Bomere Pool	depth	15.2
+Lake Toxaway	depth	18.288
+Lake Haruna	depth	12.6
+Lake Chad (Antarctica)	depth	5.5
+Green Lakes (Lithuania)	depth	47.0
+Lake Buel	depth	12.8016
+Lake Buel	depth	6.096
+Rocky Gorge Reservoir	depth	22.5552
+Triadelphia Reservoir	depth	15.8496
+Lake Phalen	depth	27.7368
+Lake Phalen	depth	7.3152
+Puslinch Lake	depth	5.5
+Puslinch Lake	depth	1.4
+Red Lake (Croatia)	depth	281.0
+Lake Habeeb	depth	22.5552
+Oswego Lake	depth	16.764
+Lake Forsyth	depth	1.0
+Beacon Hill (Link station)	depth	48.768
+Lake Luodis	depth	18.4
+Lake Luodis	depth	6.7
+Lake Burrumbeet	depth	2.65
+Lake Burrumbeet	depth	2.0
+Pemadumcook Chain of Lakes	depth	31.3944
+Pemadumcook Chain of Lakes	depth	10.668
+Gaasperplas	depth	35.0
+Słupca Lake	depth	2.5
+Neffs Cave (Utah)	depth	354.4824
+Nechako Reservoir	depth	305.0
+Lake Osborne	depth	8.2296
+Lake Osborne	depth	2.07264
+Lake Parón	depth	75.0
+Chickahominy Reservoir	depth	8.5344
+Chickahominy Reservoir	depth	3.048
+Prineville Reservoir	depth	39.624
+Clear Fork Reservoir	depth	12.192
+Clear Fork Reservoir	depth	3.048
+Elektrėnai Reservoir	depth	31.0
+Laguna Blanca (Paraguay)	depth	7.0
+Lake Göygöl	depth	89.0
+Krokų Lanka	depth	2.5
+Krokų Lanka	depth	1.9
+Bristensee	depth	6.5
+Harvey's Lake (Vermont)	depth	44.01312
+Lake Mohawk (Ohio)	depth	9.144
+East Lake (Oregon)	depth	54.864
+East Lake (Oregon)	depth	20.4216
+Turtle Lake (Tbilisi)	depth	2.6
+Lake Aldwell	depth	28.6512
+Cherry Lake (Victoria)	depth	1.0
+Vermilion Lake (Sudbury)	depth	12.0
+Lake Metelys	depth	15.0
+Zaovine Lake	depth	80.0
+Lago di Alserio	depth	8.1
+Lake Yoa	depth	26.0
+Lake Marcel	depth	5.1816
+Parakrama Samudra	depth	12.7
+Parakrama Samudra	depth	5.0
+Lake Markakol	depth	30.0
+Lake Markakol	depth	14.0
+Łuknajno Lake	depth	3.0
+Łuknajno Lake	depth	0.6
+Alcove Reservoir	depth	22.86
+Alcove Reservoir	depth	7.62
+Burntside Lake	depth	38.4048
+Laguna Potrok Aike	depth	100.0
+Lake Chukhloma	depth	4.5
+Lake Ikeda	depth	233.0
+Lake Ikeda	depth	135.0
+Lake Cecebe	depth	19.5
+Lutvann	depth	53.0
+Lamberton Lake	depth	4.572
+Stoneman Lake	depth	3.048
+Chevelon Canyon Lake	depth	24.384
+Chevelon Canyon Lake	depth	10.668
+Woods Canyon Lake	depth	18.288
+Woods Canyon Lake	depth	12.192
+Crescent Lake (Oregon)	depth	80.772
+Crescent Lake (Oregon)	depth	37.7952
+Lake Pichola	depth	8.5
+Lake Pichola	depth	4.32
+Fateh Sagar Lake	depth	13.4
+Fateh Sagar Lake	depth	5.4
+Odell Lake (Oregon)	depth	85.9536
+Odell Lake (Oregon)	depth	40.2336
+Shawano Lake	depth	12.8016
+Shawano Lake	depth	2.7432
+Lake Miike	depth	103.0
+Aliyar Reservoir	depth	36.5
+Aliyar Reservoir	depth	18.2
+Loch Enoch	depth	36.0
+Lake Yosemite	depth	16.1544
+Lake Massapoag	depth	13.716
+Lake Massapoag	depth	3.9624
+Lake Musters and Lake Colhue Huapi	depth	38.5
+Lake Musters and Lake Colhue Huapi	depth	20.0
+Lake Musters and Lake Colhue Huapi  Lake Colhué Huapi   1	depth	5.5
+Lake Musters and Lake Colhue Huapi  Lake Colhué Huapi   1	depth	2.0
+Lake Ovid	depth	6.096
+Lake Ovid	depth	3.048
+Skarpnäck metro station	depth	25.0
+Övre Rudasjön	depth	8.1
+Övre Rudasjön	depth	3.4
+Lake Kuttara	depth	148.0
+Ashurst Lake	depth	3.6576
+South Aral Sea	depth	2005.0
+South Aral Sea	depth	2005.0
+Calcasieu Lake	depth	1.0
+Tilyar Lake	depth	3.048
+Iskanderkul	depth	72.0
+Clear Creek Reservoir	depth	3.9624
+Bear Canyon Lake	depth	15.24
+Ackre Lake	depth	3.048
+Becker Lake	depth	3.048
+Black Canyon Lake	depth	12.192
+Big Lake (Arizona)	depth	4.8768
+Blue Ridge Reservoir	depth	44.8056
+Bunch Reservoir	depth	3.048
+Carnero Lake	depth	3.048
+Carnero Lake	depth	1.8288
+Concho Lake	depth	1.8288
+Crescent Lake (Arizona)	depth	4.572
+Cataract Lake (Arizona)	depth	3.6576
+Icalma Lake	depth	135.0
+Icalma Lake	depth	66.0
+Lyman Reservoir	depth	6.7056
+Nelson Reservoir	depth	4.572
+Rainbow Lake (Arizona)	depth	1.8288
+River Reservoir	depth	6.096
+Scott Reservoir	depth	3.048
+Coconino Reservoir	depth	2.1336
+Deadhorse Lake	depth	4.8768
+Tunnel Reservoir	depth	3.048
+Woodland Reservoir (Arizona)	depth	1.2192
+Dogtown Reservoir	depth	4.572
+Fain Lake	depth	2.4384
+Granite Basin Lake	depth	1.8288
+J. D. Dam Lake	depth	1.8288
+Kaibab Lake	depth	11.2776
+Kinnikinick Lake	depth	6.7056
+Long Lake (Arizona)	depth	7.62
+Soldiers Annex Lake	depth	4.572
+Soldiers Lake	depth	4.572
+Green Valley Lake (Arizona)	depth	3.048
+McClelland Lake	depth	4.572
+Lough Feeagh	depth	45.0
+Lough Feeagh	depth	14.5
+Arivaca Lake	depth	8.5344
+Perkins Tank	depth	3.048
+Russel Tank	depth	4.572
+Santa Fe Lake	depth	4.572
+Cluff Ranch Ponds	depth	6.096
+Dankworth Pond	depth	4.572
+Whitehorse Lake	depth	4.572
+Frye Mesa Reservoir	depth	28.956
+Parker Canyon Lake	depth	24.9936
+Patagonia Lake	depth	27.432
+Riggs Flat Lake	depth	13.716
+Roper Lake State Park  Roper Lake   1	depth	6.096
+Rose Canyon Lake	depth	13.4112
+Horsethief Basin Lake	depth	3.048
+Peña Blanca Lake	depth	19.812
+Kennedy Lake (Arizona)	depth	3.6576
+Kennedy Lake (Arizona)	depth	2.4384
+Lakeside Lake	depth	10.668
+Lakeside Lake	depth	4.572
+Picacho Reservoir	depth	3.048
+Sahuarita Lake	depth	2.1336
+Silverbell Lake	depth	1.524
+Redondo Reservoir	depth	1.524
+A-7 & A-10 (Arizona)	depth	1.2192
+Chaparral Lake	depth	3.048
+Kiwanis Lake	depth	1.524
+Riverview Lake	depth	3.048
+Evelyn Hallman Pond	depth	1.524
+Desert Breeze Lake	depth	2.4384
+Alvord Lake (Arizona)	depth	4.2672
+Cortez Lake	depth	1.8288
+Red Mountain Lake	depth	3.6576
+Desert West Lake	depth	3.3528
+Water Ranch Lake	depth	3.3528
+Rio Vista Pond	depth	2.1336
+Steele Indian School Park Pond	depth	1.8288
+Surprise Lake (Washington)	depth	15.24
+Claremore Lake	depth	7.62
+Claremore Lake	depth	5.12064
+Lake Sunapee	depth	43.2816
+Lake Sarysu	depth	6000.0
+Lake Sarysu	depth	22.0
+Farrington Lake	depth	4.0
+Farrington Lake	depth	2.0
+Mummelsee	depth	17.0
+Khar-Us Nuur	depth	4.5
+Khar-Us Nuur	depth	2.2
+Tatla Lake	depth	38.4
+Tatla Lake	depth	10.4
+Ena Lake  na Lake   1	depth	22.86
+Ena Lake  na Lake   1	depth	3.048
+Saint-Léonard underground lake	depth	13.0
+Saint-Léonard underground lake	depth	4.0
+Lake Varese	depth	23.0
+Lake Varese	depth	11.0
+Lake Boyukshor	depth	4.2
+Lake Boyukshor	depth	2.35
+Lake Kittamaqundi	depth	2.1336
+Laguna Yaxhá	depth	27.0
+Loon Lake (Oregon)	depth	32.004
+Loon Lake (Oregon)	depth	16.1544
+Paulina Lake	depth	76.2
+Paulina Lake	depth	49.6824
+Laguna Lachuá	depth	222.0
+Lac de Bonlieu	depth	10.0
+Lac de Chalain	depth	32.0
+Lac de Chalain	depth	16.6
+Lac de l'Abbaye	depth	19.5
+Portage Lake (Michigan)	depth	18.288
+Lac de Coiselet	depth	30.0
+Lac de Coiselet	depth	9.5
+Lac d'Ilay	depth	32.0
+Lac de Narlay	depth	40.0
+Lac de Saint-Point	depth	43.0
+Lake Galichskoye	depth	5.0
+Lac de Remoray	depth	27.0
+Lacs de Clairvaux	depth	20.0
+Lacs de Maclu	depth	24.0
+Lost Lake (Hood River County, Oregon)	depth	50.9016
+Laguna de Ayarza	depth	230.0
+Lee Valley Lake	depth	3.048
+Hulsey Lake	depth	3.048
+Fool Hollow Lake	depth	7.0104
+Scofield Reservoir	depth	20.1168
+Scofield Reservoir	depth	7.9248
+Lake Edgar	depth	3.0
+Gull Lake (Cass County, Minnesota)	depth	24.384
+Gull Lake (Cass County, Minnesota)	depth	9.144
+Zavoj Lake	depth	60.0
+Howard Prairie Lake	depth	24.384
+Howard Prairie Lake	depth	10.668
+Graham Lake (Maine)	depth	14.3256
+Graham Lake (Maine)	depth	5.1816
+Studnica lake	depth	24.9
+Lac Vert (Passy)	depth	9.3
+Lac de Lessy	depth	1.7
+Spednic Lake	depth	16.4592
+Spednic Lake	depth	6.096
+Lake Salda	depth	196.0
+Karabash Reservoir	depth	7.2
+Lake Gleneida	depth	30.48
+Lake Gleneida	depth	14.6304
+Achensee	depth	133.0
+Grand Lac Nominingue	depth	40.0
+Grand Lac Nominingue	depth	12.0
+St. Michael's Cave	depth	62.0
+Sunfish Lake (Ontario)	depth	19.0
+Lac Genin	depth	18.0
+Lac de Virieu	depth	15.0
+Lac d'Ambléon	depth	10.0
+Lac de Petichet	depth	17.0
+Kochelsee	depth	66.0
+Lac Bénit	depth	8.7
+Walchensee	depth	192.3
+Walchensee	depth	81.4
+Chabařovice Lake	depth	22.0
+Chabařovice Lake	depth	15.5
+Lac de Vassivière	depth	32.0
+Llanishen Reservoir	depth	9.0
+Lake Heron	depth	36.0
+Lac de Montriond	depth	19.0
+Big Mink Lake	depth	24.0
+Lac d'Aiguebelette	depth	71.0
+Lac du Lauvitel	depth	68.0
+Lac d'Anterne	depth	13.2
+Lac de Vallon	depth	16.0
+Lake Tshangalele	depth	14.0
+Lake Tshangalele	depth	2.6
+Frying Pan Lake	depth	20.0
+Frying Pan Lake	depth	6.0
+Kama Reservoir	depth	30.0
+Kama Reservoir	depth	6.3
+Votkinsk Reservoir	depth	8.4
+Argazi Reservoir	depth	6.5
+Lake DeFuniak	depth	4.8768
+Lake DeFuniak	depth	1.8288
+Riffelsee	depth	4.0
+Lac Coffy	depth	3.0
+Slaughter Stream Cave	depth	100.0
+Lake Semyonovskoye	depth	18.0
+Petrovsko-Razumovskaya	depth	61.0
+Lac du Brévent	depth	20.0
+Lac Cornu	depth	22.0
+Lonar crater lake	depth	150.0
+Lac de Flaine	depth	10.5
+Alma gol lake	depth	4.0
+Whitewater Lake (Wisconsin)	depth	12.8016
+Whitewater Lake (Wisconsin)	depth	3.048
+Lac d'Arvouin	depth	6.3
+Seeburger See	depth	3.5
+Enterprise Lake (Wisconsin)	depth	8.2296
+Bull Run Lake	depth	70.0
+Bull Run Lake	depth	20.0
+Lake Lawtonka	depth	17.80032
+Lake Lawtonka	depth	7.19328
+Ewens Ponds	depth	10.0
+Lake Sagami	depth	32.0
+Lake Sagami	depth	19.0
+Laudachsee	depth	26.0
+Laudachsee	depth	15.0
+Little Cedar Lake (Wisconsin)	depth	17.0688
+Lago di Ganna	depth	3.0
+Lake Fenton (Michigan)	depth	28.0416
+Lost Lake (Vilas County, Wisconsin)	depth	6.7056
+Lake Wedowee	depth	41.148
+Lake Wedowee	depth	41.148
+Đeravica Lake	depth	3.8
+Cougar Reservoir	depth	15.8496
+Redfish Lake	depth	117.9576
+Head Lake (Kawartha Lakes)	depth	9.144
+Manasbal Lake	depth	13.0
+Manasbal Lake	depth	4.5
+Caspian Sea	depth	1025.0
+Caspian Sea	depth	187.0
+Lake Buluan	depth	6.0
+Lake Buluan	depth	4.5
+Kodaikanal Lake	depth	11.0
+Kodaikanal Lake	depth	3.0
+Winagami Lake	depth	4.7
+Winagami Lake	depth	1.7
+Lake Dapao	depth	120.0
+Lake Baao	depth	1.0
+Lake Venado	depth	6.096
+Lake Apo	depth	26.0
+Lake Apo	depth	17.0
+Lake Kussharo	depth	118.0
+Lake Kussharo	depth	28.4
+Hesaraghatta Lake	depth	27.44
+Gazivoda Lake	depth	105.0
+Radonjićko Lake	depth	30.0
+Radonjićko Lake	depth	15.0
+Runn	depth	32.0
+Mitino (Moscow Metro)	depth	14.0
+Volokolamskaya (Moscow Metro)	depth	14.0
+Notts Pot	depth	157.0
+Kozjak Hydro Power Plant	depth	130.0
+Kanjli Wetland	depth	7.62
+Kanjli Wetland	depth	3.05
+Big Jažinačko Lake	depth	12.0
+Big Jažinačko Lake	depth	5.0
+Harike Wetland	depth	2.0
+Ropar Wetland	depth	6.0
+Ropar Wetland	depth	0.5
+Lake Šakarvai	depth	40.0
+Lake Šakarvai	depth	18.5
+Lake Alksnaitis	depth	21.2
+Lake Alksnaitis	depth	5.1
+Lake Ūkojas	depth	30.5
+Lake Ūkojas	depth	11.3
+Rock Lake (Minnesota)	depth	6.7056
+Cardiel Lake	depth	76.0
+Cardiel Lake	depth	49.1
+Nainital Lake	depth	27.3
+Futalaufquen Lake	depth	168.0
+Futalaufquen Lake	depth	101.0
+Lake Charles (Nova Scotia)	depth	28.0
+Lake Charles (Nova Scotia)	depth	15.0
+Grindstone Lake	depth	18.288
+Cave of the Crystals	depth	300.0
+Dollar Lake (Wallowa County, Oregon)	depth	82.9056
+Dollar Lake (Wallowa County, Oregon)	depth	14.9352
+Bonny Lakes	depth	1.8288
+Aneroid Lake	depth	170.688
+Aneroid Lake	depth	106.0704
+Roger Lake	depth	13.716
+Roger Lake	depth	9.144
+Morris Lake (Nova Scotia)	depth	13.0
+Morris Lake (Nova Scotia)	depth	3.7
+Russell Lake (Nova Scotia)	depth	9.0
+Russell Lake (Nova Scotia)	depth	3.7
+Fierza Reservoir	depth	128.0
+Lake Seymour (Vermont)	depth	50.9016
+Echo Lake (Charleston, Vermont)	depth	39.3192
+Lake Saroma	depth	19.5
+Lake Saroma	depth	8.7
+Chocorua Lake	depth	8.2296
+Chocorua Lake	depth	3.6576
+Tuya Lake	depth	54.0
+Tuya Lake	depth	20.0
+Basic Creek Reservoir	depth	5.1816
+Windigo Lake	depth	15.5448
+Štrbačko Lake	depth	7.3
+Loch Ness	depth	226.96
+Loch Ness	depth	132.0
+Blue Hole (New Mexico)	depth	24.384
+Godley Reservoir	depth	6.4008
+Skilak Lake	depth	160.9344
+Swan Lake (Manitoba)	depth	2.286
+Half Moon Lake, Alberta  Half Moon Lake   1	depth	8.5
+Fuxian Lake	depth	155.0
+Little Lava Lake	depth	6.096
+Lake Lucerne (Wisconsin)	depth	21.336
+Gun Lake (British Columbia)	depth	100.0
+Loch Veyatie	depth	30.0
+Lake Saint Catherine (Vermont)	depth	20.7264
+Narva Reservoir	depth	1.8
+Lake Büyükçekmece	depth	8.6
+Patchogue River	depth	3.6576
+Queechy Lake	depth	12.192
+Blake Falls Reservoir	depth	13.716
+Blake Falls Reservoir	depth	2.19456
+Tasersuatsiaq	depth	80.0
+Lac de Tavaneuse	depth	5.9
+Lac d'Avoriaz	depth	10.0
+Lac de Bise	depth	1.2
+Ronkonkoma Lake	depth	19.812
+Lac de Vonnes	depth	10.0
+Alvarado Park Lake	depth	6.096
+Shawanaga Lake	depth	17.7
+Shawanaga Lake	depth	5.8
+Straussee	depth	20.0
+Straussee	depth	9.9
+Guraletschsee	depth	20.0
+Aajuitsup Tasia	depth	32.0
+Teterower See	depth	10.7
+Teterower See	depth	4.0
+Dobbertiner See	depth	11.8
+Dobbertiner See	depth	4.8
+Scott Lake (Washington)	depth	5.4864
+Scott Lake (Washington)	depth	3.3528
+Weitsee	depth	9.3
+Weitsee	depth	3.5
+Nyona Lake	depth	32.0
+Pontsticill Reservoir	depth	30.0
+Attborough Swallet	depth	44.0
+Pierre's Pot	depth	33.0
+Lake Padden	depth	17.9832
+Lake Padden	depth	8.2296
+Lake Wabby	depth	12.0
+Maschsee	depth	2.0
+Lake Holiday, Indiana	depth	18.288
+Lake Holiday, Indiana	depth	5.4864
+Lake Stamford	depth	13.80744
+Windebyer Noor	depth	14.0
+Windebyer Noor	depth	6.4
+Wolgastsee	depth	7.5
+Wolgastsee	depth	4.1
+Gothensee	depth	2.2
+Gothensee	depth	1.25
+Schmollensee	depth	5.7
+Schmollensee	depth	2.7
+Abtsdorfer See	depth	20.0
+Abtsdorfer See	depth	11.25
+Zwischenahner Meer	depth	6.0
+Passader See	depth	10.7
+Dümmer See	depth	21.3
+Dümmer See	depth	7.9
+Lelång Lake	depth	60.0
+Großer Arbersee	depth	16.0
+Großer Arbersee	depth	5.8
+Kleiner Arbersee	depth	9.0
+Kleiner Arbersee	depth	2.7
+Rachelsee	depth	13.5
+Rachelsee	depth	3.2
+Ratzeburger See	depth	24.1
+Ratzeburger See	depth	12.0
+Selenter See	depth	34.0
+Haddebyer Noor	depth	5.2
+Haddebyer Noor	depth	3.0
+Windgfällweiher	depth	8.0
+Aalkistensee	depth	20.0
+Haselbacher See	depth	33.0
+Haselbacher See	depth	7.1
+Peruća Lake	depth	64.0
+Maltby Lake	depth	8.0
+Maltby Lake	depth	4.1
+Osterseen	depth	29.7
+Osterseen	depth	9.38
+Bärwalder See	depth	50.0
+Eibsee	depth	35.4
+Eibsee	depth	12.2
+Aasee (Münster)	depth	2.0
+Kulkwitzer See	depth	36.0
+Waginger See	depth	27.0
+Werbeliner See	depth	32.0
+Werbeliner See	depth	9.0
+Pilsensee	depth	17.1
+Werbellinsee	depth	51.0
+Werbellinsee	depth	22.1
+Höftsee	depth	16.0
+Lanker See	depth	21.0
+Lanker See	depth	3.7
+Behler See	depth	43.0
+Kleiner Plöner See	depth	31.0
+Kleiner Plöner See	depth	9.0
+Herthasee (Rügen)	depth	11.0
+Fuhlensee	depth	6.0
+Dieksee	depth	38.0
+Kronsee	depth	8.0
+Kirchsee (Schleswig-Holstein)	depth	6.0
+Scharsee	depth	2.9
+Scharsee	depth	1.6
+Postsee	depth	9.1
+Postsee	depth	3.9
+Klostersee (Lehnin)	depth	4.0
+Sibbersdorfer See	depth	7.0
+Funtensee	depth	5.3
+Funtensee	depth	2.5
+Simssee	depth	22.0
+Simssee	depth	13.41
+Markkleeberger See	depth	57.0
+Markkleeberger See	depth	63.0
+Wassersportsee Zülpich	depth	62.0
+Fahrlander See	depth	3.0
+Heiliger See	depth	11.0
+Groß Glienicker See	depth	11.0
+Groß Glienicker See	depth	6.0
+Templiner See	depth	6.0
+Weißer See (Potsdam)	depth	2.0
+Grössinsee	depth	3.0
+Hopfensee	depth	10.4
+Hopfensee	depth	4.6
+Bannwaldsee	depth	12.0
+Bannwaldsee	depth	6.2
+Weißensee (Füssen)	depth	24.7
+Weißensee (Füssen)	depth	12.2
+Großer Alpsee	depth	22.7
+Fleesensee	depth	26.3
+Fleesensee	depth	6.1
+Barmsee	depth	30.6
+Barmsee	depth	16.49
+Kummerower See	depth	23.3
+Kummerower See	depth	8.1
+Kölpinsee	depth	30.0
+Kölpinsee	depth	3.5
+Senftenberger See	depth	28.0
+Malchiner See	depth	10.0
+Malchiner See	depth	2.0
+Zootzensee	depth	21.0
+Gudelacksee	depth	36.0
+Großer Prebelowsee	depth	7.6
+Großer Wummsee	depth	35.0
+Einfelder See	depth	8.4
+Einfelder See	depth	3.4
+Hemmelsdorfer See	depth	39.5
+Ukleisee	depth	17.0
+Ukleisee	depth	7.5
+Pinnower See	depth	16.0
+Pinnower See	depth	7.0
+Cambser See	depth	27.6
+Belauer See	depth	25.6
+Belauer See	depth	9.0
+Groß Labenzer See	depth	34.9
+Groß Labenzer See	depth	10.2
+Tempziner See	depth	15.1
+Tempziner See	depth	4.5
+Kleinpritzer See	depth	22.3
+Kleinpritzer See	depth	7.7
+Damerower See	depth	7.0
+Damerower See	depth	2.0
+Alatsee	depth	32.1
+Alatsee	depth	15.3
+Grimnitzsee	depth	11.0
+Goldberger See	depth	4.1
+Goldberger See	depth	2.1
+Krakower See	depth	28.3
+Krakower See	depth	7.4
+Barniner See	depth	7.5
+Barniner See	depth	2.1
+Neumühler See	depth	17.1
+Neumühler See	depth	7.9
+Bolzer See	depth	15.5
+Bützower See	depth	2.2
+Bützower See	depth	1.1
+Mickowsee	depth	2.1
+Mickowsee	depth	0.7
+Riedsee bei Leeheim	depth	38.0
+Riedsee bei Leeheim	depth	9.11
+Großer Wariner See	depth	9.5
+Großer Wariner See	depth	4.5
+Schmaler Luzin	depth	34.0
+Auesee	depth	17.49
+Großer Stechlinsee	depth	69.5
+Hainer See	depth	49.0
+Zierker See	depth	3.5
+Zierker See	depth	1.6
+Unisee (Bremen)	depth	20.0
+Murner See	depth	50.0
+Putzarer See	depth	2.1
+Putzarer See	depth	0.4
+Lieps	depth	3.6
+Lieps	depth	2.3
+Seehamer See	depth	22.0
+Darnsee	depth	8.0
+Borgwallsee	depth	4.8
+Borgwallsee	depth	2.4
+Hücker Moor	depth	1.2
+Hücker Moor	depth	0.9
+Bothkamper See	depth	2.5
+Taschensee	depth	9.6
+Drewitzer See	depth	31.3
+Drewitzer See	depth	9.7
+Max-Eyth-See	depth	2.3
+Großer Labussee	depth	11.9
+Großer Labussee	depth	4.3
+Adolfosee	depth	12.0
+Helenesee	depth	56.63
+Allner See	depth	7.0
+Baberowsee	depth	5.5
+Soinsee	depth	9.5
+Soinsee	depth	4.19
+Breiter Luzin	depth	58.3
+Breiter Luzin	depth	22.3
+Steinberger See	depth	60.0
+Carwitzer See	depth	42.2
+Carwitzer See	depth	9.2
+Woblitzsee	depth	6.9
+Woblitzsee	depth	1.6
+Großer Auesee	depth	3.0
+Großer Auesee	depth	2.0
+Galenbecker See	depth	1.85
+Galenbecker See	depth	0.75
+Grimkesee	depth	4.0
+Grimkesee	depth	2.0
+Grüner See (Lower Saxony)	depth	2.0
+Grüner See (Lower Saxony)	depth	1.0
+Lankower See (Schwerin)	depth	10.2
+Lankower See (Schwerin)	depth	5.2
+Kuhsee	depth	5.0
+Grünsee (Berchtesgadener Land)	depth	9.2
+Grünsee (Berchtesgadener Land)	depth	5.2
+Stendorfer See	depth	8.0
+Zenssee	depth	29.0
+Wardersee	depth	10.8
+Drüsensee	depth	8.0
+Liepnitzsee	depth	16.0
+Orankesee	depth	6.72
+Orankesee	depth	2.62
+Kastorfer See	depth	11.0
+Wuhlebecken	depth	5.0
+Naturschutzsee Füssenich	depth	28.0
+Schladitzer See	depth	22.0
+Schladitzer See	depth	12.0
+Mirower See	depth	7.0
+Salzgittersee	depth	17.0
+Salzgittersee	depth	2.5
+Dämeritzsee	depth	4.5
+Neuhofer See	depth	15.1
+Torfmoorsee	depth	20.0
+Neuklostersee	depth	10.3
+Neuklostersee	depth	4.5
+Röggeliner See	depth	6.8
+Röggeliner See	depth	2.9
+Ilsesee	depth	15.0
+Inselsee	depth	14.8
+Inselsee	depth	3.6
+Schulensee	depth	2.0
+Ziegeleisee	depth	14.1
+Ziegeleisee	depth	6.28
+Flughafensee	depth	34.3
+Flughafensee	depth	11.81
+Lautersee	depth	19.0
+Demenzsee	depth	26.0
+Ferchensee	depth	20.0
+Conventer See	depth	1.7
+Conventer See	depth	1.0
+Krebssee	depth	12.0
+Ziegelsee	depth	34.4
+Ziegelsee	depth	10.0
+Peetzsee	depth	19.0
+Peetzsee	depth	4.0
+Großer Zechliner See	depth	35.0
+Tietzowsee	depth	8.0
+See Döpe	depth	10.2
+See Döpe	depth	3.0
+Useriner See	depth	10.0
+Neustädter See	depth	31.0
+Neustädter See	depth	6.9
+Großer Dambecker See	depth	2.1
+Großer Dambecker See	depth	0.8
+Kleiner Dambecker See	depth	2.0
+Kleiner Dambecker See	depth	0.7
+Dreiburgensee	depth	7.0
+Groß Upahler See	depth	4.5
+Groß Upahler See	depth	2.2
+Medeweger See	depth	28.2
+Medeweger See	depth	10.7
+Feldberger Haussee	depth	12.5
+Feldberger Haussee	depth	4.9
+Wurlsee	depth	28.0
+Wurlsee	depth	26.0
+Pätzer Vordersee	depth	18.0
+Ploggensee	depth	7.0
+Ploggensee	depth	5.0
+Groß Tessiner See	depth	12.0
+Stellbergsee	depth	30.0
+Pfaffenteich	depth	4.4
+Pfaffenteich	depth	2.8
+Ruppiner See	depth	23.0
+Ruppiner See	depth	12.0
+Dabelowsee	depth	30.5
+Dabelowsee	depth	6.6
+Großer Brückentinsee	depth	29.4
+Großer Brückentinsee	depth	11.6
+Tiefer See	depth	62.5
+Tiefer See	depth	18.5
+Großer Fürstenseer See	depth	25.0
+Großer Fürstenseer See	depth	4.3
+Bergsee (Mecklenburg)	depth	15.0
+Bergsee (Mecklenburg)	depth	6.4
+Flacher See	depth	31.9
+Flacher See	depth	9.7
+Hofsee (Neu Gaarz)	depth	20.0
+Woterfitzsee	depth	7.8
+Woterfitzsee	depth	3.4
+Wanzkaer See	depth	24.0
+Wanzkaer See	depth	5.6
+Feisnecksee	depth	14.0
+Feisnecksee	depth	7.5
+Spitzingsee	depth	16.3
+Spitzingsee	depth	7.24
+Tiefwarensee	depth	23.6
+Tiefwarensee	depth	9.63
+Leppinsee	depth	14.0
+Fauler See	depth	11.2
+Fauler See	depth	5.8
+Heidensee	depth	3.9
+Heidensee	depth	2.2
+Mechower See	depth	9.0
+Mechower See	depth	4.0
+Santower See	depth	3.5
+Santower See	depth	1.0
+Goldensee	depth	12.0
+Goldensee	depth	3.0
+Gülper See	depth	3.0
+Gülper See	depth	1.5
+Burgsee (Schwerin)	depth	3.5
+Ostorfer See	depth	5.1
+Ostorfer See	depth	2.9
+Parumer See	depth	2.8
+Parumer See	depth	1.92
+Große Karausche	depth	4.0
+Große Karausche	depth	1.2
+Großer See (Pinnow)	depth	15.2
+Großer See (Pinnow)	depth	5.4
+Offlumer See	depth	30.0
+Neustädter Binnenwasser	depth	1.6
+Neustädter Binnenwasser	depth	0.9
+Lanzer See	depth	7.0
+Lanzer See	depth	3.5
+Bültsee	depth	13.4
+Langsee (Schleswig)	depth	13.3
+Nesselpfuhl	depth	6.0
+Luchsee	depth	2.0
+Wandlitzer See	depth	24.0
+Riebener See	depth	1.0
+Arkenberger Baggersee	depth	5.77
+Arkenberger Baggersee	depth	3.14
+Köthener See	depth	2.0
+Rühner See	depth	6.0
+Kuhgrabensee	depth	16.0
+Kuhgrabensee	depth	13.0
+Mahndorfer See	depth	13.0
+Schwansee	depth	7.1
+Schwansee	depth	3.41
+Thüren	depth	7.0
+Niedersonthofener See	depth	21.3
+Niedersonthofener See	depth	10.0
+Halbendorfer See	depth	26.0
+Kachliner See	depth	1.5
+Sarchinger Weiher	depth	7.0
+Hiltruper See	depth	4.5
+Trammer See	depth	33.4
+Trammer See	depth	11.1
+Schloonsee	depth	3.0
+Parsteiner See	depth	31.0
+Parsteiner See	depth	10.0
+Tollensesee	depth	33.0
+Bibowee	depth	8.3
+Stolper See	depth	15.0
+Frau-Holle-Teich	depth	2.6
+Ellbogensee	depth	17.0
+Großer Priepertsee	depth	32.0
+Autobahnsee Augsburg	depth	4.0
+Gittruper See	depth	11.0
+Sandruper See	depth	19.5
+Rätzsee	depth	20.0
+Kaisersee	depth	4.0
+Nehmitzsee	depth	18.6
+Nehmitzsee	depth	6.4
+Öjendorfer See	depth	3.4
+Öjendorfer See	depth	1.8
+Latschensee	depth	2.0
+Cämmerer See	depth	3.5
+Cämmerer See	depth	1.1
+Steinbruch Eckartsberg	depth	17.0
+Steinbruch Eckartsberg	depth	14.0
+Fridolfinger See	depth	5.0
+Süseler See	depth	9.3
+Großer Pönitzer See	depth	19.2
+Middelburger See	depth	4.6
+Barkauer See	depth	1.6
+Großer Benzer See	depth	15.8
+Zeuthener See	depth	4.4
+Großer Plessower See	depth	16.0
+Großer Plessower See	depth	4.5
+Borkener See	depth	52.5
+Horstsee	depth	9.0
+Horstsee	depth	4.0
+Wolziger See	depth	13.0
+Wolziger See	depth	5.5
+Großes Heiliges Meer	depth	10.7
+Erdfallsee	depth	12.0
+Höglwörther See	depth	10.0
+Höglwörther See	depth	8.0
+Wockersee	depth	6.4
+Wockersee	depth	3.8
+Schöhsee	depth	29.3
+Schöhsee	depth	10.9
+Bordesholmer See	depth	8.0
+Bordesholmer See	depth	3.3
+Heideweiher	depth	1.4
+Kogeler See	depth	13.0
+Norderteich	depth	3.0
+Lübbesee	depth	13.0
+Großer Pälitzsee	depth	33.0
+Lucherberger See	depth	30.0
+Großer Weißer See	depth	12.2
+Großer Weißer See	depth	5.7
+Tiefer Trebbower See	depth	2.0
+Tiefer Trebbower See	depth	1.3
+Woseriner See	depth	37.5
+Woseriner See	depth	9.1
+Großer Sternberger See	depth	7.9
+Großer Sternberger See	depth	3.0
+Borkower See	depth	10.0
+Borkower See	depth	3.0
+Brautsee	depth	2.0
+Brautsee	depth	1.2
+Selker Noor	depth	5.2
+Selker Noor	depth	3.1
+Großer Wünsdorfer See	depth	11.0
+Großer Wünsdorfer See	depth	6.0
+Hohen Sprenzer See	depth	17.3
+Hohen Sprenzer See	depth	7.0
+Torgelower See	depth	8.0
+Oberpfuhl	depth	6.0
+Gombether See	depth	50.0
+Großer Mützelburger See	depth	2.8
+Trenter See	depth	2.0
+Hoher See	depth	10.0
+Pulower See	depth	10.0
+Berliner See	depth	10.0
+Straßensee	depth	5.0
+Zarrenthiner Kiessee	depth	22.0
+Zarrenthiner Kiessee	depth	14.0
+Roofensee	depth	19.0
+Woezer See	depth	1.6
+Woezer See	depth	1.1
+Großer Wostevitzer Teich	depth	1.9
+Großer Wostevitzer Teich	depth	0.93
+Domjüchsee	depth	5.0
+Drewensee	depth	9.0
+Buchsee	depth	5.0
+Silbersee (Langenhagen)	depth	20.0
+Cramoner See	depth	8.0
+Cramoner See	depth	4.0
+Mühlenteich (Wismar)	depth	2.0
+Vierer See	depth	18.8
+Roter See (Brüel)	depth	10.0
+Käbelicksee	depth	12.6
+Käbelicksee	depth	3.4
+Passower See	depth	9.0
+Passower See	depth	3.0
+Großer Peetscher See	depth	2.0
+Kritzower See	depth	10.0
+Stora Le	depth	99.0
+Lac de Longemer	depth	34.0
+Lac de Gérardmer	depth	38.4
+Lac Chambon	depth	4.0
+Lac de Servière	depth	26.0
+Lac de Guéry	depth	16.0
+Lac de Montcineyre	depth	18.0
+Lac de Retournemer	depth	11.5
+Lac de Bouzey	depth	12.0
+Lac de Pierre-Percée	depth	78.0
+Schiessrothried	depth	45.0
+Lac Chauvet	depth	86.0
+Lac de Grand-Lieu	depth	4.0
+Lacs d'Arrémoulit	depth	60.0
+Lac de Grandval	depth	79.0
+Lac de Cap-de-Long	depth	130.0
+Lac de Capitellu	depth	42.0
+Lac de Capitellu	depth	16.2
+Lac de Nino	depth	12.0
+Lac d'Enghien	depth	2.55
+Lac de Matemale	depth	37.0
+Lac du Chambon	depth	40.0
+Lac des Bouillouses	depth	25.0
+Lac d'Aydat	depth	15.0
+Lac Blanc (Vosges)	depth	72.0
+Lake Guerlédan	depth	50.0
+Lac Noir (Vosges)	depth	45.0
+Lac de Kruth-Wildenstein	depth	35.0
+Lac de Madine	depth	14.0
+Lac Bleu de Lesponne	depth	121.0
+Lac d'Arredoun	depth	21.0
+Lac de Caderolles	depth	6.0
+Laquet de Greziolles	depth	7.9
+Lac du Campana	depth	41.0
+Lac Vert (Vosges)	depth	17.0
+Lac de Melu	depth	20.0
+Lac d'Hourtin-Carcans	depth	10.0
+Lac de la Lauch	depth	19.0
+Lac de Michelbach	depth	20.0
+Lac du Ballon	depth	20.0
+Lac des Perches	depth	17.0
+Lac de Biscarrosse et de Parentis	depth	20.5
+Étang de Cazaux et de Sanguinet	depth	23.0
+Lac d'Issarlès	depth	138.0
+Lac de Barroude	depth	9.0
+Lac du Rotondu	depth	32.0
+Lac de Lispach	depth	9.0
+Lac de Bious-Artigues	depth	40.0
+Lac Bersau	depth	30.0
+Lac de Fabrèges	depth	54.0
+Lac Gentau	depth	20.0
+Lac d'Isabe	depth	25.0
+Lac de Bourdouze	depth	4.5
+Lac de Pannecière	depth	48.0
+Lac des Hermines	depth	9.0
+Lac de Grand Maison	depth	90.0
+Étang d'Aureilhan	depth	8.0
+Lac de Pinet	depth	35.0
+Lac de Villefranche-de-Panat	depth	17.0
+Lac de Pont-de-Salars	depth	34.0
+Lac de Bage	depth	27.0
+Lac de Saint-Amans	depth	26.0
+Étang d'Araing	depth	25.0
+Lac des Corbeaux	depth	23.0
+Lac des Settons	depth	6.0
+Lac Bleu d'Ilhéou	depth	20.0
+Lac du Bourdon	depth	15.0
+Lac de Castillon	depth	100.0
+Lac d'Estaing	depth	130.0
+Lac de Mondély	depth	24.0
+Lac du Portillon	depth	101.0
+Lac de Gnioure	depth	100.0
+Lac du Laouzas	depth	40.0
+Étang de la Bonde	depth	5.0
+Lac d'Alfeld	depth	22.1
+Lac de Charpal	depth	16.0
+Lac de Naussac	depth	50.0
+Lac d'Esparron	depth	55.0
+Lac de Blanchemer	depth	15.0
+Lac du Tolerme	depth	20.0
+Étangs de Vaux et de Baye	depth	4.0
+Étangs de Vaux et de Baye	depth	3.0
+Lac de Goria	depth	7.0
+Lac d'Orcières-Merlette	depth	4.0
+Lac du Lachtelweiher	depth	5.0
+Réservoir Saint-Michel	depth	7.0
+Lac de Migouélou	depth	60.0
+Lac de Suyen	depth	3.0
+Lac du Pourtet	depth	13.5
+Lac des Vieilles Forges	depth	7.0
+Lac des Vieilles Forges	depth	4.0
+Rush Lake (Utah)	depth	6.096
+Amisk Lake (Alberta)	depth	60.0
+Amisk Lake (Alberta)	depth	15.5
+Lake Băneasa	depth	3.0
+Carters Lake	depth	166.7256
+Ryburn Reservoir	depth	29.0
+Lake Lenore (Washington)	depth	8.2296
+Lake Lenore (Washington)	depth	4.572
+Weiss Lake	depth	18.8976
+Glendoe Hydro Scheme	depth	35.0
+Uru Uru Lake	depth	1.5
+Cáceres Lake	depth	5.0
+Coipasa Lake	depth	3.5
+White Cloud Lake	depth	1.0
+Alalay Lake	depth	5.0
+Hedionda Lake (Nor Lipez)	depth	0.3
+Licancabur Lake	depth	5.0
+Licancabur Lake	depth	4.0
+Lake Danao (Leyte)	depth	80.0
+Lake Pinatubo	depth	800.0
+Lake Pinatubo	depth	600.0
+Hunter's Hole	depth	58.0
+Lake Onalaska	depth	13.1064
+Lake Bato	depth	8.0
+Big Lake (Alberta)	depth	4.1
+Big Lake (Alberta)	depth	0.3
+Lago di Nicito	depth	15.0
+Druid Lake	depth	16.1544
+Druid Lake	depth	7.62
+Lago di Loppio	depth	4.0
+Lago di Ceresole	depth	44.7
+Lago di Ceresole	depth	23.2
+Lago di Santa Rosalia	depth	39.0
+Lago di Santa Rosalia	depth	17.0
+Lago del Salto	depth	87.4
+Lago Santo parmense	depth	22.0
+Lago Baccio	depth	9.0
+Noon's Hole	depth	108.0
+Lac de Monteynard-Avignonet	depth	115.0
+Lake Sampaloc	depth	27.0
+Lake Sampaloc	depth	10.0
+Lake Bunot	depth	23.0
+Lake Palakpakin	depth	7.5
+Lake Calibato	depth	135.0
+Lakes Pandin and Yambo	depth	63.0
+Aasee (Bocholt)	depth	6.0
+Weißer See (Berlin)	depth	10.64
+Weißer See (Berlin)	depth	4.34
+Schwarzer See (Rheinsberg)	depth	12.0
+Patchogue Lake	depth	2.4384
+South Shore Estuary	depth	4.572
+South Shore Estuary	depth	4.572
+Coal Lake	depth	5.5
+Coal Lake	depth	3.5
+Rodman Reservoir	depth	9.144
+Rodman Reservoir	depth	2.4384
+Gleniffer Lake (Alberta)	depth	33.0
+Gleniffer Lake (Alberta)	depth	11.6
+Wallum Lake	depth	22.5552
+Murphy Lake (Douglas County, Washington)	depth	3.9624
+Murphy Lake (Washington County, Wisconsin)	depth	11.2776
+Murphy Lake (Vilas County, Wisconsin)	depth	15.8496
+Lower Otay Reservoir	depth	41.91
+Lower Otay Reservoir	depth	37.7952
+John Redmond Dam and Reservoir	depth	4.0
+Lake Warden (Western Australia)	depth	2.0
+23rd July Lake	depth	5.0
+Artist Lake	depth	2.7432
+Lake Gore	depth	2.0
+Lake Gore	depth	1.4
+Lake Jasper	depth	10.0
+Lake Jasper	depth	3.0
+Lake Holbrook (Texas)	depth	9.144
+Richland-Chambers Reservoir	depth	22.86
+Solar Lake	depth	4.0
+Omak Lake	depth	99.06
+Antholzer See	depth	38.0
+Antholzer See	depth	25.5
+Durnholzer See	depth	12.8
+Haidersee	depth	15.0
+Haidersee	depth	6.7
+Kalterer See	depth	5.6
+Kalterer See	depth	3.5
+Karersee	depth	17.0
+Montiggler Seen	depth	11.5
+Montiggler Seen	depth	8.4
+Lake Kepwari	depth	70.0
+Collins Lake	depth	40.0
+Pragser Wildsee	depth	36.0
+Pragser Wildsee	depth	17.0
+Toblacher See	depth	3.5
+Son Doong Cave	depth	150.0
+Lake Tanuki	depth	8.0
+Lost Island Lake	depth	4.8768
+Lake Shaster	depth	1.1
+O'Neill Forebay	depth	17.0
+Sylvan Lake (New York)	depth	42.672
+Sylvan Lake (New York)	depth	19.812
+Bogstadvannet	depth	9.5
+Lakhtinsky Razliv	depth	8.3
+Lakhtinsky Razliv	depth	4.3
+Svitiaz	depth	58.4
+Svitiaz	depth	6.9
+Lake Abashiri	depth	16.1
+Lake Abashiri	depth	7.2
+Howard Lake (British Columbia)	depth	33.5
+Lake Akan	depth	44.8
+Lake Akan	depth	17.8
+Mabel Lake	depth	192.0
+Mabel Lake	depth	114.0
+Little Dell Reservoir	depth	60.99048
+Little Dell Reservoir	depth	25.11552
+Lake Allison	depth	121.92
+Lake Allison	depth	60.96
+Kokkilai Lagoon	depth	4.0
+Uppu Aru Lagoon	depth	3.0
+Vadamarachchi Lagoon	depth	2.0
+Nai Aru Lagoon	depth	4.0
+Ullackalie Lagoon	depth	2.0
+Upaar Lagoon	depth	2.0
+Batticaloa Lagoon	depth	4.0
+Lake Nasworthy	depth	8.8392
+Negombo Lagoon	depth	1.0
+Mundal Lagoon	depth	3.0
+Puttalam Lagoon	depth	5.0
+Trustom Pond	depth	0.39624
+Šatorsko Lake	depth	6.0
+E.V. Spence Reservoir	depth	32.9184
+Webster Lake (Indiana)	depth	19.812
+Barbee Lake	depth	19.812
+Barbee Lake	depth	4.8768
+Causey Reservoir	depth	55.4736
+Causey Reservoir	depth	19.812
+Maschaug Pond	depth	2.100072
+Laguna El Pino	depth	18.0
+Cards Pond	depth	0.39624
+Ninigret Pond	depth	1.31064
+Khar Nuur (Khovd)	depth	7.0
+Khar Nuur (Khovd)	depth	4.2
+Shute Shelve Cavern	depth	33.0
+Nagatinskaya	depth	13.5
+Zlatar Lake	depth	75.0
+Karwowo lake	depth	4.2
+Karwowo lake	depth	3.5
+Loon Lake (Washington)	depth	30.48
+Loon Lake (Washington)	depth	14.0208
+Water resources management in Honduras  Lake Yojoa Lago de Yojoa   1	depth	15.0
+Vättern	depth	128.0
+Vättern	depth	41.0
+Lake Nepahwin	depth	22.0
+Clarrie Hall Dam	depth	41.0
+Toonumbar Dam	depth	44.0
+Khyargas Nuur	depth	80.0
+Khyargas Nuur	depth	47.0
+McCook Lake	depth	4.2672
+Otter Hole	depth	60.0
+Lake Sausacocha	depth	12.0
+Ovan Lake	depth	5.7
+Baptiste Lake (Alberta)	depth	27.5
+Baptiste Lake (Alberta)	depth	8.6
+Battle Lake (Alberta)	depth	13.1
+Battle Lake (Alberta)	depth	6.9
+Beaver Lake (Alberta)	depth	15.2
+Beaver Lake (Alberta)	depth	7.1
+Beauvais Lake (Alberta)	depth	10.7
+Beauvais Lake (Alberta)	depth	4.3
+Muriel Lake (Alberta)	depth	10.7
+Muriel Lake (Alberta)	depth	6.6
+Peerless Lake	depth	35.4
+Peerless Lake	depth	14.6
+Wizard Lake	depth	11.0
+Wizard Lake	depth	6.2
+Lac la Ronge	depth	130.0
+Peter Pond Lake	depth	24.0
+Peter Pond Lake	depth	13.0
+Four Mile Lake (Ontario)	depth	19.2
+Four Mile Lake (Ontario)	depth	8.8
+Kabinakagami Lake	depth	15.2
+Kabinakagami Lake	depth	3.0
+Mary Lake (Ontario)	depth	56.3
+Mary Lake (Ontario)	depth	24.6
+Mississauga Lake	depth	39.624
+Mississauga Lake	depth	17.6784
+Restoule Lake	depth	30.0
+Wabatongushi Lake	depth	175.0
+Aishihik Lake	depth	120.0
+Aishihik Lake	depth	30.0
+Kidston Lake	depth	20.0
+Iidesjärvi	depth	3.0
+Lake Eden	depth	15.3
+Lake Eden	depth	6.95
+Markermeer	depth	5.0
+Petenwell Lake	depth	12.8016
+Castle Rock Lake	depth	9.144
+Rappensee	depth	8.0
+Otter Creek Reservoir	depth	11.2776
+Fisher Lake (Michigan)	depth	11.8872
+Dostoyevskaya (Moscow Metro)	depth	60.0
+Shannon Cave	depth	130.0
+Mainstay Lake	depth	86.2584
+Catchacoma Lake	depth	43.8912
+Catchacoma Lake	depth	20.1168
+Schwendisee	depth	9.7
+Seathwaite Tarn	depth	24.384
+Lake Amara (Ialomiţa County)	depth	3.0
+Lake Amara (Ialomiţa County)	depth	1.5
+Lake Cheybek-Kohl	depth	33.0
+O.C. Fisher Reservoir	depth	17.6784
+Twin Buttes Reservoir	depth	14.0208
+Curlew Lake (Washington)	depth	39.624
+Curlew Lake (Washington)	depth	13.1064
+Loch Lomond (Ontario)	depth	73.0
+Loch Lomond (Ontario)	depth	27.0
+Buffalo Pound Lake	depth	5.6
+Buffalo Pound Lake	depth	3.0
+Lake Feneketlen	depth	4.0
+Lake Albacutya	depth	8.0
+Lake Albacutya	depth	8.0
+Lake Sugema	depth	10.3632
+Lake Sugema	depth	2.83464
+Trout Bog Lake (Vilas County, Wisconsin)	depth	7.9
+Horseshoe Lake (Madison County, Illinois)	depth	16.6116
+Pelican Lake (Oneida County, Wisconsin)	depth	11.8872
+Star Lake (Vilas County, Wisconsin)	depth	20.7264
+Star Lake (Vilas County, Wisconsin)	depth	7.0104
+Red Cedar Lake (Wisconsin)	depth	16.1544
+Lake Shannon	depth	85.344
+Lake Shannon	depth	21.336
+Charterhouse Cave	depth	205.0
+Katchewanooka Lake	depth	15.24
+Monee Reservoir	depth	7.3152
+Lake Turgoyak	depth	34.0
+Lake Turgoyak	depth	19.2
+Jukajärvi	depth	15.0
+Byers Lake	depth	48.768
+Lag Tuleritg	depth	2.0
+Trout Lake (Wisconsin)	depth	35.7
+Lake Moomaw	depth	46.3296
+Lake Granby	depth	67.3608
+Lake Guinas	depth	130.0
+Lake Guinas	depth	105.0
+Otjikoto Lake	depth	58.0
+Otjikoto Lake	depth	45.0
+Keith Sebelius Lake	depth	12.8016
+Sunset Reservoir	depth	10.0
+Kandy Lake	depth	18.288
+Lindores Loch	depth	3.0
+Lindores Loch	depth	1.5
+Lake Barombi Mbo	depth	111.0
+Lake Barombi Mbo	depth	69.0
+Warner Lakes	depth	4.2672
+Lake Nazik	depth	50.0
+Lake Nazik	depth	40.0
+Lake Ogawara	depth	25.0
+Lake Ogawara	depth	11.0
+Port Kennedy Bone Cave	depth	15.24
+Lake Nemrut	depth	176.0
+Lake Nemrut	depth	140.0
+Lake Erçek	depth	30.0
+Pollnagollum	depth	140.0
+Lake Guyon	depth	24.0
+Crystal Lake (Los Angeles County)	depth	45.7
+Crystal Lake (Los Angeles County)	depth	10.7
+Bangs Lake	depth	9.7536
+Lake Ptuj	depth	12.0
+Lake Osveya	depth	7.5
+Fish Lake (Jackson County, Oregon)	depth	9.4488
+Fish Lake (Jackson County, Oregon)	depth	5.4864
+Fourmile Lake	depth	51.816
+Lake Doxa	depth	30.0
+Sølensjøen	depth	58.0
+Surprise Lake (Arizona)	depth	2.4384
+Christina Lake (Minnesota)	depth	4.2672
+Christina Lake (Minnesota)	depth	1.2192
+Sima Martel	depth	248.0
+Sima Humboldt	depth	314.0
+Lake Palčje	depth	25.0
+Lake Aurora	depth	13.716
+Lake Aurora	depth	3.6576
+Lake San Cristobal	depth	27.0
+Lake Bagsværd	depth	3.5
+Blood Indian Creek Reservoir	depth	13.3
+Blood Indian Creek Reservoir	depth	4.6
+Buck Lake (Alberta)	depth	12.2
+Buck Lake (Alberta)	depth	6.2
+Chain Lakes Reservoir	depth	10.4
+Chain Lakes Reservoir	depth	5.4
+Christina Lake (Alberta)	depth	32.9
+Christina Lake (Alberta)	depth	17.3
+Cooking Lake (Alberta)	depth	4.6
+Cooking Lake (Alberta)	depth	1.7
+Crawling Valley Reservoir	depth	16.0
+Crawling Valley Reservoir	depth	5.2
+Crimson Lake (Alberta)	depth	9.1
+Crimson Lake (Alberta)	depth	2.2
+Dillberry Lake (Alberta)	depth	10.7
+Dillberry Lake (Alberta)	depth	2.8
+Driedmeat Lake (Alberta)	depth	3.7
+Driedmeat Lake (Alberta)	depth	2.2
+Crowsnest Lake (Alberta)	depth	27.4
+Crowsnest Lake (Alberta)	depth	13.5
+Ethel Lake (Alberta)	depth	30.0
+Ethel Lake (Alberta)	depth	6.6
+Eagle Lake (Alberta)	depth	4.9
+Eagle Lake (Alberta)	depth	2.6
+Figure Eight Lake	depth	6.0
+Figure Eight Lake	depth	3.0
+Garner Lake (Alberta)	depth	15.2
+Garner Lake (Alberta)	depth	8.1
+Hasse Lake (Alberta)	depth	7.4
+Hasse Lake (Alberta)	depth	3.5
+Hastings Lake (Alberta)	depth	7.3
+Hastings Lake (Alberta)	depth	2.4
+Hubbles Lake (Alberta)	depth	30.0
+Hubbles Lake (Alberta)	depth	10.1
+Iosegun Lake (Alberta)	depth	11.2
+Iosegun Lake (Alberta)	depth	4.1
+Isle Lake (Alberta)	depth	7.5
+Isle Lake (Alberta)	depth	4.1
+Island Lake (Alberta)	depth	18.0
+Island Lake (Alberta)	depth	3.7
+Jackfish Lake (Alberta)	depth	9.0
+Jackfish Lake (Alberta)	depth	3.4
+Lac St. Cyr (Alberta)	depth	21.0
+Lac St. Cyr (Alberta)	depth	5.1
+Lessard Lake (Alberta)	depth	6.0
+Lessard Lake (Alberta)	depth	3.9
+Little Bow Lake Reservoir	depth	11.0
+Little Bow Lake Reservoir	depth	4.3
+Little Fish Lake (Alberta)	depth	3.0
+Little Fish Lake (Alberta)	depth	1.76
+Long Lake (Alberta)	depth	28.0
+Long Lake (Alberta)	depth	9.4
+Long Lake, Boyle (Alberta)	depth	9.0
+Long Lake, Boyle (Alberta)	depth	4.3
+Marie Lake (Alberta)	depth	26.0
+Marie Lake (Alberta)	depth	14.0
+Mann Lakes (Alberta)	depth	9.1
+Mann Lakes (Alberta)	depth	6.1
+Mann Lakes (Alberta)	depth	5.7
+Mann Lakes (Alberta)	depth	4.0
+McLeod Lake (Alberta)	depth	10.7
+McLeod Lake (Alberta)	depth	5.1
+Miquelon Lake (Alberta)	depth	6.0
+Miquelon Lake (Alberta)	depth	2.7
+Moore Lake (Alberta)	depth	26.0
+Moore Lake (Alberta)	depth	8.3
+Moonshine Lake (Alberta)	depth	3.5
+Moonshine Lake (Alberta)	depth	1.3
+Musreau Lake (Alberta)	depth	13.0
+Nakamun Lake (Alberta)	depth	8.0
+Nakamun Lake (Alberta)	depth	4.5
+Narrow Lake (Alberta)	depth	14.4
+Narrow Lake (Alberta)	depth	38.0
+North Buck Lake (Alberta)	depth	6.1
+North Buck Lake (Alberta)	depth	2.5
+Olivia Lake (Alberta)	depth	1.7
+Olivia Lake (Alberta)	depth	1.3
+Payne Lake (Alberta)	depth	7.3
+Payne Lake (Alberta)	depth	3.8
+Peninsula Lake (Alberta)	depth	3.1
+Peninsula Lake (Alberta)	depth	2.1
+Pine Lake (Alberta)	depth	12.2
+Pine Lake (Alberta)	depth	5.3
+Rock Lake (Alberta)	depth	27.8
+Rock Lake (Alberta)	depth	12.1
+Reesor Lake (Alberta)	depth	5.5
+Reesor Lake (Alberta)	depth	3.7
+Sandy Lake (Alberta)	depth	4.4
+Sandy Lake (Alberta)	depth	2.6
+Saskatoon Lake (Alberta)	depth	4.0
+Saskatoon Lake (Alberta)	depth	2.6
+Sauer Lake (Alberta)	depth	14.0
+Sauer Lake (Alberta)	depth	4.2
+Seibert Lake (Alberta)	depth	11.0
+Seibert Lake (Alberta)	depth	6.9
+Spray Lakes Reservoir	depth	65.4
+Spray Lakes Reservoir	depth	13.5
+Smoke Lake (Alberta)	depth	8.3
+Smoke Lake (Alberta)	depth	5.1
+Spring Lake (Alberta)	depth	9.1
+Spring Lake (Alberta)	depth	1.9
+St. Mary Reservoir	depth	56.4
+St. Mary Reservoir	depth	10.4
+Steele Lake (Alberta)	depth	6.1
+Steele Lake (Alberta)	depth	3.2
+Thunder Lake (Alberta)	depth	6.1
+Thunder Lake (Alberta)	depth	3.0
+Touchwood Lake (Alberta)	depth	40.0
+Touchwood Lake (Alberta)	depth	14.8
+Travers Reservoir	depth	39.6
+Travers Reservoir	depth	18.3
+Tucker Lake (Alberta)	depth	7.5
+Tucker Lake (Alberta)	depth	2.9
+Twin Lake (Alberta)	depth	35.0
+Twin Lake (Alberta)	depth	15.7
+Tyrrell Lake (Alberta)	depth	6.1
+Tyrrell Lake (Alberta)	depth	3.8
+Lake Verevi	depth	11.0
+Lake Verevi	depth	3.6
+Wolf Lake (Alberta)	depth	38.3
+Wolf Lake (Alberta)	depth	9.2
+Loch Sgadabhagh	depth	15.1
+Loch Sgadabhagh	depth	2.75
+Grays Lake (Illinois)	depth	5.4864
+Lindeman Lake (Chilliwack)	depth	20.0
+Lindeman Lake (Chilliwack)	depth	8.0
+Shoshone Lake	depth	62.484
+Lake Visaginas	depth	2.9
+West Bearskin Lake	depth	23.7744
+West Bearskin Lake	depth	9.4488
+Rostokino (Station)	depth	0.0
+Gákkajávri	depth	28.2
+Grutas de García	depth	105.0
+Wickiup Reservoir	depth	21.336
+Wickiup Reservoir	depth	6.096
+Großes Meer	depth	1.0
+Blue Lake (New South Wales)	depth	28.0
+Tbilisi sea	depth	8.75
+Nagornaya (Moscow Metro)	depth	9.0
+Ähtärinjärvi	depth	28.0
+Ähtärinjärvi	depth	6.1
+Enäjärvi	depth	9.0
+Lake Evijärvi	depth	3.5
+Lake Evijärvi	depth	1.7
+Hiidenvesi	depth	33.0
+Iso-Roine	depth	73.0
+Vanajavesi	depth	8.0
+Vesijako	depth	37.0
+Vesijako	depth	7.16
+Viinijärvi	depth	58.3
+Viinijärvi	depth	5.83
+Toisvesi	depth	18.5
+Kukkia	depth	34.0
+Kulovesi	depth	37.0
+Kulovesi	depth	8.1
+Kyrösjärvi	depth	10.6
+Leppävesi	depth	45.0
+Muuratjärvi	depth	42.6
+Rutajärvi (Urjala)	depth	24.0
+Rutajärvi (Urjala)	depth	8.0
+Sorsavesi	depth	64.0
+Simojärvi	depth	27.0
+Suontee	depth	77.0
+Suontee	depth	8.8
+Lake Palatinus	depth	12.0
+Lac Sante	depth	27.0
+Lac Sante	depth	9.0
+Roine (Finland)	depth	32.0
+Lake Amtkel	depth	65.0
+Dennenloher See	depth	2.4
+Ward's Reservoir	depth	24.4
+Clear Lake (Palau)	depth	30.0
+Goby Lake	depth	18.0
+Uet era Ngermeuangel	depth	40.0
+Uet era Ongael	depth	4.0
+Water resources management in Nicaragua  Lake Nicaragua   1	depth	26.0
+Gare de Groslay	depth	3.0
+Dodge Reservoir	depth	21.9456
+Gare de Sarcelles-Saint-Brice	depth	3.0
+Stickle Tarn	depth	15.24
+Reedy Lake	depth	0.5
+Mogilnoye	depth	17.0
+Lake Muhazi	depth	14.0
+Lake Muhazi	depth	10.0
+Gare d'Écouen-Ézanville	depth	3.0
+Gare de Domont	depth	3.0
+Abay (Almaty Metro)	depth	78.0
+Lake Harney	depth	4.572
+Lake Harney	depth	2.1336
+Gaube Lake	depth	40.0
+Chub Lake (Dakota County)	depth	3.048
+Lake Thompson (South Dakota)	depth	7.9248
+Toolibin Lake	depth	2.0
+Moti Jheel	depth	9.7536
+Angostura Reservoir	depth	22.86
+Shadehill Reservoir	depth	18.8976
+Staunton Harold Reservoir	depth	25.0
+Lake Pflugerville	depth	10.9728
+Lake Pflugerville	depth	3.048
+Elmer Thomas Lake	depth	10.948416
+Lake Plastiras	depth	60.0
+Juniper Gulf	depth	128.0
+Attabad Lake	depth	109.1184
+Chawri Bazar (Delhi Metro)	depth	30.0
+Sandton (Gautrain station)	depth	45.0
+Lake Potrero de los Funes	depth	33.0
+Upper Stillwater Reservoir	depth	51.0
+Upper Stillwater Reservoir	depth	31.6
+Slezská Harta Dam	depth	80.0
+Lake Byron (South Dakota)	depth	3.048
+Lake of the Woods (Indiana)	depth	48.0
+Lake of the Woods (Indiana)	depth	16.0
+Lake Chala	depth	90.0
+Lake Chala	depth	81.0
+North Fork Pound Reservoir	depth	16.764
+North Fork Pound Reservoir	depth	5.7912
+Lag Prau Pulté	depth	7.0
+Nui Coc Lake	depth	23.0
+Connors Lake	depth	24.9936
+Lake Okabena	depth	4.66344
+Lake Okabena	depth	2.10312
+Lake Ikazn	depth	8.4
+Lac Grand, Quebec	depth	38.0
+Vombsjön	depth	16.0
+Vombsjön	depth	6.6
+Lake Ocheda, Minnesota	depth	1.524
+Lake Ocheda, Minnesota	depth	0.9144
+Lake Jefferson (Minnesota)	depth	11.2776
+Whipple (crater)	depth	3100.0
+Crawford Lake (Halton Region, Ontario)	depth	22.5
+Indian Lake, Minnesota	depth	1.8288
+Indian Lake, Minnesota	depth	1.365504
+Lake Abita	depth	4.2672
+Graham Lakes, Minnesota	depth	2.4384
+Graham Lakes, Minnesota	depth	1.524
+Canonsburg Lake	depth	5.4864
+Zainsk Reservoir	depth	3.1
+Black Moss Reservoirs	depth	9.45
+Lower Ogden Reservoir	depth	18.0
+Upper Ogden Reservoir	depth	17.9
+Léré Lake	depth	8.0
+Léré Lake	depth	4.0
+Lake Ermistu	depth	2.9
+Lake Ermistu	depth	1.3
+Lake Kuremaa	depth	13.3
+Lake Kuremaa	depth	5.9
+Lake Tõhela	depth	1.5
+Lake Tõhela	depth	1.3
+Lake Koosa	depth	1.9
+Lake Koosa	depth	1.2
+Lake Aheru	depth	7.4
+Lake Aheru	depth	3.4
+Lake Kaiavere	depth	5.0
+Lake Kaiavere	depth	2.8
+Lake Hino	depth	10.4
+Lake Hino	depth	3.1
+Lake Tamula	depth	7.5
+Lake Tamula	depth	4.2
+Lake Kalli	depth	1.4
+Lake Kalli	depth	1.1
+Lake Õisu	depth	4.3
+Lake Õisu	depth	2.8
+Lake Lavassaare	depth	1.0
+Lake Lavassaare	depth	0.7
+Lake Auksi	depth	9.4
+Lake Erastvere	depth	9.7
+Lake Erastvere	depth	3.5
+Lake Imatu	depth	1.7
+Lake Jaala	depth	6.4
+Lake Jaala	depth	4.8
+Karijärv	depth	14.5
+Karijärv	depth	5.7
+Lake Käsmu	depth	3.0
+Lake Käsmu	depth	2.0
+Lake Kavadi	depth	8.2
+Lake Kavadi	depth	3.5
+Lake Kirikumäe	depth	3.5
+Lake Kirikumäe	depth	2.8
+Lake Klooga	depth	3.6
+Kubija	depth	5.0
+Lake Lohja	depth	3.7
+Lake Lohja	depth	2.2
+Lake Loosu	depth	4.3
+Lake Loosu	depth	2.1
+Lake Maardu	depth	3.7
+Lake Maardu	depth	1.5
+Lake Meelva	depth	3.2
+Lake Murati	depth	4.3
+Lake Murati	depth	3.6
+Lake Porkuni	depth	6.0
+Pullijärv	depth	7.1
+Pullijärv	depth	3.9
+Ratasjärv	depth	19.0
+Ratasjärv	depth	8.5
+Rõuge Suurjärv	depth	38.0
+Rõuge Suurjärv	depth	11.9
+Lake Tihu	depth	0.5
+Lake Tudu	depth	5.0
+Lake Uljaste	depth	5.6
+Lake Vanamõisa	depth	3.1
+Lake Vanamõisa	depth	2.4
+Lake Viitna	depth	7.0
+Lake Vissi	depth	4.5
+Lake Vissi	depth	2.5
+Greendrop Lake	depth	48.0
+Greendrop Lake	depth	18.0
+Lightning Lake	depth	8.0
+Lightning Lake	depth	3.0
+Orto-Tokoy Reservoir	depth	46.0
+Otter Lake (Seguin, Parry Sound District, Ontario)	depth	45.0
+Otter Lake (Seguin, Parry Sound District, Ontario)	depth	10.8
+As Pontes Lake	depth	206.0
+As Pontes Lake	depth	150.0
+Åresjön	depth	19.2
+Åresjön	depth	9.8
+Rissajaure	depth	34.0
+Lake Krasnoye (Chukotka)	depth	4.0
+Lake Parker (Vermont)	depth	14.6304
+Lake Parker (Florida)	depth	6.096
+Lake Zabuye	depth	2.0
+Lake Zabuye	depth	0.7
+Lake Hancock	depth	4.8768
+Lake Hancock	depth	1.2192
+Crooked Lake (Florida)	depth	13.716
+Crooked Lake (Florida)	depth	3.9624
+Lake Blue Ridge	depth	74.9808
+Lake Blue Ridge	depth	30.48
+Nydalasjön	depth	6.0
+Nydalasjön	depth	3.0
+Quartz Lake (Alaska)	depth	12.192
+Quartz Lake (Alaska)	depth	4.572
+Durgam Cheruvu	depth	8.5344
+Lake Ağgöl	depth	2500.0
+Lake Ağgöl	depth	0.8
+Lake Amaramba	depth	5.0
+Lake Ototoa	depth	26.0
+Kilbirnie Loch	depth	32.004
+Kilbirnie Loch	depth	5.2
+Shamkir reservoir	depth	18.2
+Lake Kezanoiam	depth	74.0
+Gargantua (cave)	depth	286.0
+Tyligul Estuary	depth	21.0
+Tyligul Estuary	depth	3.0
+Jeyranbatan reservoir	depth	28.5
+Jeyranbatan reservoir	depth	14.5
+Lake Dulverton	depth	3.0
+Lake Dulverton	depth	2.0
+Molochnyi Liman	depth	3.0
+Potato Lake (Rusk County, Wisconsin)	depth	12.192
+Saroornagar Lake	depth	6.1
+Lake Emily (Le Sueur County, Minnesota)	depth	3.3528
+Ķīšezers, Riga	depth	4.2
+Ķīšezers, Riga	depth	2.4
+Khadzhibey Estuary	depth	17.0
+Khadzhibey Estuary	depth	4.0
+Lake Burton, Antarctica	depth	18.3
+Lake Burton, Antarctica	depth	7.16
+Murtle Lake	depth	300.0
+Brock Reservoir	depth	6.7056
+Lake Namakagon	depth	15.5448
+Lake Namakagon	depth	11.5824
+Dnieper-Bug Estuary	depth	12.0
+Dnieper-Bug Estuary	depth	4.0
+Kuyalnik Estuary	depth	3.0
+Tuzly's Lagoons	depth	1.6
+Tuzly's Lagoons	depth	1.0
+Lake Nakatsuna	depth	12.0
+Lake Engolasters	depth	10.0
+Xinfengjiang Reservoir	depth	93.0
+Xinfengjiang Reservoir	depth	28.7
+Alibey Lagoon	depth	2.5
+Budaki Lagoon	depth	2.2
+Budaki Lagoon	depth	1.05
+Sasyk Lagoon	depth	3.9
+Lygnern	depth	50.0
+Maltschacher See	depth	6.0
+Harrisville Pond	depth	12.192
+Harrisville Pond	depth	4.572
+Newfarm Loch	depth	1.5
+Newfarm Loch	depth	1.0
+Dnieper Estuary	depth	12.0
+Dnieper Estuary	depth	6.0
+Long Mile Cave	depth	3.0
+Buiston Loch	depth	6.0
+Crane Prairie Reservoir	depth	6.096
+Crane Prairie Reservoir	depth	4.7244
+Malibou Lake	depth	8.2296
+Lake Ngaroto	depth	4.0
+Lake Ngaroto	depth	2.0
+Tuas MRT Station	depth	8.0
+Rescobie Loch	depth	6.0
+Lovelock Cave	depth	12.192
+Lake Tikub	depth	75.0
+Lake Hindmarsh	depth	3.65
+Lake Hindmarsh	depth	3.4
+Sweetwater Reservoir	depth	32.9184
+Tathlina Lake	depth	1.0
+Lake Rotokare	depth	6.0
+Jiangzhou Cave System	depth	150.0
+Shuang River Cave Group	depth	466.0
+Schwielowsee	depth	9.1
+Little Langdale  Blea Tarn   1	depth	8.0
+Little Langdale  Blea Tarn   1	depth	7.0104
+Little Langdale  Tarn   1	depth	9.5
+Little Langdale  Tarn   1	depth	2.7
+Plauer See (Brandenburg)	depth	6.7
+Quenzsee	depth	3.0
+Wendsee	depth	4.9
+Tunstall Reservoir	depth	22.6
+Tunstall Reservoir	depth	16.9
+Beetzsee	depth	9.0
+Beetzsee	depth	3.0
+Waskerley Reservoir	depth	24.3
+Smiddy Shaw Reservoir	depth	12.3
+Lake Rotorua (Canterbury)	depth	3.0
+Jiangkou Reservoir	depth	300.0
+Mille Lacs Lake	depth	12.8016
+Hussain Sagar	depth	9.7536
+Blue River Reservoir	depth	75.5904
+Blue River Reservoir	depth	28.0
+Amperveilsee	depth	20.0
+Lake Sonfon	depth	8.0
+Blackstrap Lake	depth	9.39
+Blackstrap Lake	depth	5.15
+Rush Lake (Wisconsin)	depth	2.4384
+Panther Pond	depth	21.336
+Grand Sable Lake	depth	25.908
+Grand Sable Lake	depth	12.192
+Lake Chusovskoe	depth	8.0
+Lake Bridgeport (Texas)	depth	23.3172
+Drag Lake	depth	55.0
+Chamcook Lake	depth	60.96
+Countryside Lake	depth	3.048
+Borisovo (Moscow Metro)	depth	8.0
+Sanabria Lake	depth	51.0
+Sanabria Lake	depth	27.7
+Lipno (lake of Pomeranian Voivodeship)	depth	6.0
+Ghar Parau	depth	751.0
+Baltieji Lakajai	depth	45.0
+Ostrowskie Lake	depth	32.6
+Waldsea Lake	depth	8.1
+Lake Ejagham	depth	18.0
+Mascardi Lake	depth	218.0
+McArthur Lake	depth	10.0
+McArthur Lake	depth	3.5
+Grüner See (Styria)	depth	12.0
+Tyning's Barrow Swallet	depth	132.0
+Ayamaru Lakes	depth	12.192
+Ayamaru Lakes	depth	9.144
+White Bear Lake (Minnesota)	depth	25.2984
+Small Prespa Lake	depth	7.7
+Yen Lap Lake	depth	30.0
+Benger Swamp	depth	0.8
+Lake Iroquois, Illinois	depth	10.668
+Lake Iroquois, Illinois	depth	8.0
+Anderson Lake (Illinois)	depth	2.1336
+Anderson Lake (Illinois)	depth	3.0
+Canton Lake, Illinois	depth	10.668
+Canton Lake, Illinois	depth	15.0
+Frentress Lake, Illinois	depth	14.0208
+Frentress Lake, Illinois	depth	5.0
+Lake Carlton, Illinois	depth	8.2296
+Lake Carlton, Illinois	depth	3.6576
+Lac Deschênes	depth	49.0
+Lac Deschênes	depth	9.0
+Lake Hillcrest	depth	13.4112
+Lake Hillcrest	depth	10.0
+Mapanuepe Lake	depth	25.0
+Big Pond, Otis MA	depth	14.63
+Big Pond, Otis MA	depth	5.33
+Martnaham Loch	depth	8.8392
+Lake Cachí	depth	80.0
+Lake Cachí	depth	69.0
+Gravelly Lake	depth	16.764
+Gravelly Lake	depth	11.5824
+Lochend Loch, Coylton	depth	4.2672

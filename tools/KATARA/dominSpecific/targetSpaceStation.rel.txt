@@ -1,0 +1,72 @@
+Progress 1	targetSpaceStation	Salyut 6
+Jules Verne ATV	targetSpaceStation	International Space Station
+Johannes Kepler ATV	targetSpaceStation	International Space Station
+Progress M-01M	targetSpaceStation	International Space Station
+Progress M-65	targetSpaceStation	International Space Station
+Progress M-66	targetSpaceStation	International Space Station
+Progress M-64	targetSpaceStation	International Space Station
+Progress M-02M	targetSpaceStation	International Space Station
+Kosmos 1669	targetSpaceStation	Salyut 7
+Progress M-63	targetSpaceStation	International Space Station
+Progress M-62	targetSpaceStation	International Space Station
+Progress M-61	targetSpaceStation	International Space Station
+Progress M-60	targetSpaceStation	International Space Station
+Progress M-59	targetSpaceStation	International Space Station
+Progress M-58	targetSpaceStation	International Space Station
+Progress M-57	targetSpaceStation	International Space Station
+Progress M-56	targetSpaceStation	International Space Station
+Progress M-55	targetSpaceStation	International Space Station
+Progress M-54	targetSpaceStation	International Space Station
+Progress M-53	targetSpaceStation	International Space Station
+Progress M-52	targetSpaceStation	International Space Station
+Progress M-51	targetSpaceStation	International Space Station
+Progress M-50	targetSpaceStation	International Space Station
+Progress M-49	targetSpaceStation	International Space Station
+Progress M-48	targetSpaceStation	International Space Station
+Progress M-47	targetSpaceStation	International Space Station
+Progress M-46	targetSpaceStation	International Space Station
+Progress M-44	targetSpaceStation	International Space Station
+Progress M-45	targetSpaceStation	International Space Station
+Progress M1-11	targetSpaceStation	International Space Station
+Progress M1-10	targetSpaceStation	International Space Station
+Progress M1-9	targetSpaceStation	International Space Station
+Progress M1-8	targetSpaceStation	International Space Station
+Progress M1-7	targetSpaceStation	International Space Station
+Progress M1-6	targetSpaceStation	International Space Station
+Progress M1-4	targetSpaceStation	International Space Station
+Progress M1-3	targetSpaceStation	International Space Station
+Progress M-SO1	targetSpaceStation	International Space Station
+Progress M1-5	targetSpaceStation	Mir
+Progress M-67	targetSpaceStation	International Space Station
+Progress M1-1	targetSpaceStation	Mir
+Progress M1-2	targetSpaceStation	Mir
+HTV-1	targetSpaceStation	International Space Station
+Progress M-1	targetSpaceStation	Mir
+Progress M-2	targetSpaceStation	Mir
+Progress M-3	targetSpaceStation	Mir
+Progress M-4	targetSpaceStation	Mir
+Progress M-5	targetSpaceStation	Mir
+Progress M-6	targetSpaceStation	Mir
+Progress M-7	targetSpaceStation	Mir
+Progress M-8	targetSpaceStation	Mir
+Progress M-9	targetSpaceStation	Mir
+Progress M-10	targetSpaceStation	Mir
+Progress M-11	targetSpaceStation	Mir
+Progress M-12	targetSpaceStation	Mir
+Progress M-13	targetSpaceStation	Mir
+Progress M-15	targetSpaceStation	Mir
+Progress M-16	targetSpaceStation	Mir
+Progress M-17	targetSpaceStation	Mir
+Progress M-18	targetSpaceStation	Mir
+Progress M-03M	targetSpaceStation	International Space Station
+Progress M-MIM2	targetSpaceStation	International Space Station
+Edoardo Amaldi ATV	targetSpaceStation	International Space Station
+Progress M-04M	targetSpaceStation	International Space Station
+Progress M-05M	targetSpaceStation	International Space Station
+Progress M-06M	targetSpaceStation	International Space Station
+Progress M-07M	targetSpaceStation	International Space Station
+Progress 2	targetSpaceStation	Salyut 6
+Progress M-08M	targetSpaceStation	International Space Station
+Progress M-09M	targetSpaceStation	International Space Station
+Progress M-10M	targetSpaceStation	International Space Station
+Progress M-11M	targetSpaceStation	International Space Station

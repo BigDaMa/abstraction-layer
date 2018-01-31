@@ -1,0 +1,23 @@
+Chrysler Slant-6 engine	headAlloy	Cast iron
+Chrysler Flathead engine	headAlloy	Cast iron
+GM Iron Duke engine	headAlloy	Iron
+Nissan VH engine	headAlloy	Aluminium
+Nissan VG engine	headAlloy	Aluminium
+Nissan KA engine	headAlloy	Aluminium
+Nissan CA engine	headAlloy	Aluminium
+Chevrolet Corvair engine	headAlloy	Aluminium
+Nissan H engine	headAlloy	Cast iron
+Nissan H engine	headAlloy	Aluminium
+Nissan Z engine	headAlloy	Aluminium
+Nissan J engine	headAlloy	Cast iron
+Cummins L Series engine	headAlloy	Cast iron
+G60	headAlloy	Casting
+Ford Cyclone engine	headAlloy	Aluminium
+Ford Barra engine	headAlloy	Aluminium
+Volkswagen air cooled engine	headAlloy	Aluminium
+Volkswagen air cooled engine	headAlloy	Magnesium
+Cummins M Series engine	headAlloy	Cast iron
+Nissan CR engine	headAlloy	Aluminium
+IKCO EF Engines	headAlloy	Cast iron
+Hyundai Gamma engine	headAlloy	Aluminium
+Hyundai Nu engine	headAlloy	Aluminium

@@ -1,0 +1,1149 @@
+Dead Sea	shoreLength	135000.0
+Lake Ontario	shoreLength	1145852.928
+Lake Erie	shoreLength	1367942.4
+Lake Michigan	shoreLength	2636105.472
+Lake Superior	shoreLength	4385462.4
+Lake Champlain	shoreLength	945000.0
+Lake Balaton	shoreLength	236000.0
+Lake Van	shoreLength	430000.0
+Lake Huron	shoreLength	6156000.0
+Lake Baikal	shoreLength	2100000.0
+Lake Chad	shoreLength	650000.0
+Sea of Galilee	shoreLength	53000.0
+Lake Victoria	shoreLength	3440000.0
+Crater Lake	shoreLength	35083.6992
+Lake Taupo	shoreLength	193000.0
+Lake Tahoe	shoreLength	114263.424
+Derwentwater	shoreLength	15449.7024
+Lake Titicaca	shoreLength	1125000.0
+Lake Travis	shoreLength	434522.88
+Lake Winnipeg	shoreLength	1858000.0
+Lake Tanganyika	shoreLength	1828000.0
+Lake Lucerne	shoreLength	143700.0
+Lake Winnipesaukee	shoreLength	463491.072
+Issyk Kul	shoreLength	688000.0
+Lake of the Woods	shoreLength	4.02336E7
+Laguna de Bay	shoreLength	220000.0
+Lake Mweru	shoreLength	436000.0
+Detroit Lake	shoreLength	51499.008
+Lake Maracaibo	shoreLength	5678000.0
+Saimaa	shoreLength	1.37E7
+Beaver Lake (Arkansas)	shoreLength	777313.152
+Clear Lake (California)	shoreLength	100000.0
+Lake Nasser	shoreLength	7844000.0
+Lake Biwa	shoreLength	235200.0
+Yellowstone Lake	shoreLength	177027.84
+Lake Mead	shoreLength	885140.0
+Lake Powell	shoreLength	3057000.0
+Lake Peipus	shoreLength	520000.0
+Lake Athabasca	shoreLength	1900000.0
+Coniston Water	shoreLength	20200.0
+Canandaigua Lake	shoreLength	57936.384
+Great Slave Lake	shoreLength	3057000.0
+Lake Minnetonka	shoreLength	201168.0
+Lake Mashū	shoreLength	19800.0
+Keuka Lake	shoreLength	96560.64
+Lake Saint Clair (North America)	shoreLength	271979.136
+Great Bear Lake	shoreLength	2719000.0
+Kalamalka Lake	shoreLength	42400.0
+Okanagan Lake	shoreLength	270000.0
+Quabbin Reservoir	shoreLength	291291.264
+Lake Maninjau	shoreLength	52680.0
+Manicouagan Reservoir	shoreLength	1322000.0
+Lake Nipissing	shoreLength	795000.0
+Walden Pond	shoreLength	2735.8848
+Toledo Bend Reservoir	shoreLength	2034210.816
+Lake Manapouri	shoreLength	170000.0
+Chautauqua Lake	shoreLength	65983.104
+Jordan Lake	shoreLength	289681.92
+Wast Water	shoreLength	11000.0
+Warragamba Dam	shoreLength	354000.0
+Lake Burragorang	shoreLength	354000.0
+Lake Inari	shoreLength	3308000.0
+Kielder Water	shoreLength	44256.96
+Loch Awe	shoreLength	129000.0
+Thirlmere	shoreLength	15000.0
+Canadice Lake	shoreLength	10460.736
+Bassenthwaite Lake	shoreLength	18185.5872
+Medicine Lake Volcano  Medicine Lake   1	shoreLength	6213.0
+Buttermere	shoreLength	5350.0
+Moosehead Lake	shoreLength	451903.7952
+Port Stephens	shoreLength	113000.0
+Bear Lake (Idaho–Utah)	shoreLength	77248.512
+Crowley Lake	shoreLength	72420.48
+Lake Chelan	shoreLength	175740.3648
+Long Lake (Maine)	shoreLength	61316.0064
+Brandy Pond (Cumberland County, Maine)	shoreLength	9977.9328
+Sebago Lake	shoreLength	10299.8016
+Lesser Slave Lake	shoreLength	247000.0
+Shasta Lake	shoreLength	587410.56
+Lake Wylie	shoreLength	523036.8
+Lake Scugog	shoreLength	172000.0
+Fundin (lake)	shoreLength	43000.0
+Chiemsee	shoreLength	63960.0
+Lake George (New York)	shoreLength	175418.496
+Lough Derg (Shannon)	shoreLength	179000.0
+Ross Barnett Reservoir	shoreLength	168981.12
+Lake Mainit	shoreLength	62100.0
+Femund	shoreLength	234920.0
+Lake Towada	shoreLength	46000.0
+Sankey tank	shoreLength	1700.0
+Lake Christabel	shoreLength	8900.0
+Lake Ülemiste	shoreLength	15219.0
+Lake Ohrid	shoreLength	87530.0
+Lake Ohrid	shoreLength	56020.0
+Lake Ohrid	shoreLength	31510.0
+Kasshabog Lake (Ontario)	shoreLength	75639.168
+Eufaula Lake	shoreLength	965606.4
+Kukkarahalli lake	shoreLength	5000.0
+Ennerdale Water	shoreLength	10000.0
+Medina Lake	shoreLength	177027.84
+Lake Sfânta Ana	shoreLength	1617.0
+Candlewood Lake	shoreLength	96560.64
+Kamloops Lake	shoreLength	60500.0
+Green Lake (New York)	shoreLength	2840.0
+Houghton Lake (Michigan)	shoreLength	48280.32
+Somerville Lake	shoreLength	136794.24
+Røssvatnet	shoreLength	256370.0
+Randsfjorden	shoreLength	202980.0
+Racetrack Playa	shoreLength	12000.0
+Lake Volta	shoreLength	4800000.0
+Lake Sharpe	shoreLength	321868.8
+Lake Oahe	shoreLength	3621024.0
+Lake Sonoma	shoreLength	80467.2
+Flathead Lake	shoreLength	259748.1216
+Maligne Lake	shoreLength	45000.0
+Lake Decatur	shoreLength	48280.32
+Lake Oroville	shoreLength	268760.448
+Kankaria	shoreLength	2250.0
+Lake Hemet	shoreLength	19000.0
+Taal Lake	shoreLength	115000.0
+Falls Lake	shoreLength	281635.2
+Loughborough Lake	shoreLength	160000.0
+Caniapiscau Reservoir	shoreLength	4850000.0
+Bedok Reservoir	shoreLength	4300.0
+Lake Wingra	shoreLength	5900.0
+Lake Mendota	shoreLength	34761.8304
+Lake Martin	shoreLength	1195742.592
+Table Rock Lake	shoreLength	1379207.808
+Table Rock Lake	shoreLength	1198961.28
+Smith Mountain Lake	shoreLength	804672.0
+Cranberry Lake	shoreLength	88513.92
+Lake Murray (Papua New Guinea)	shoreLength	2038000.0
+Lake Barrine	shoreLength	4500.0
+Lochinvar	shoreLength	3800.0
+Pathfinder Reservoir	shoreLength	188293.248
+Arcadia Lake (Oklahoma)	shoreLength	41842.944
+Lake Lanao	shoreLength	115000.0
+Dal Lake	shoreLength	15500.0
+Lower Seletar Reservoir	shoreLength	14300.0
+Lake Vermilion	shoreLength	503724.672
+Tainter Lake	shoreLength	41360.1408
+Minnedosa Lake	shoreLength	6920.1792
+Lake Michigan-Huron	shoreLength	8792000.0
+Lake Rubikiai	shoreLength	24000.0
+Lake Jocassee	shoreLength	120700.8
+Don Pedro Reservoir	shoreLength	257495.04
+Lake Berryessa	shoreLength	265541.76
+Võrtsjärv	shoreLength	96000.0
+Lake Las Vegas	shoreLength	16093.44
+Rend Lake	shoreLength	260713.728
+Lake Beshear	shoreLength	37980.5184
+Wood Lake (British Columbia)	shoreLength	13500.0
+Lake Suwa	shoreLength	15900.0
+Dhebar Lake	shoreLength	48280.32
+Sarez Lake	shoreLength	162000.0
+Norsjø	shoreLength	123350.0
+Rainy Lake	shoreLength	1500000.0
+Rainy Lake	shoreLength	2520000.0
+Wabamun Lake	shoreLength	57300.0
+Sanford Lake, Michigan	shoreLength	55522.368
+Lake Wendouree	shoreLength	6000.0
+Lake Chaubunagungamaug	shoreLength	27358.848
+Searles Lake	shoreLength	50000.0
+Stuart Lake	shoreLength	170000.0
+Lake Tōya	shoreLength	46000.0
+Nahuel Huapi Lake	shoreLength	357274.368
+Hebgen Lake	shoreLength	104607.36
+Walter F. George Lake	shoreLength	1029980.16
+East Grand Lake	shoreLength	126816.3072
+Lake Caliraya	shoreLength	30000.0
+Wachusett Reservoir	shoreLength	33796.224
+Lac de Gras	shoreLength	740000.0
+Paranoá Lake	shoreLength	80000.0
+Llyn Brenig	shoreLength	22530.816
+Goose Lake (Oregon-California)	shoreLength	110000.0
+Lake Martignano	shoreLength	6000.0
+Springfield Lake	shoreLength	5600.0
+Tarn Hows	shoreLength	3100.0
+Crummock Water	shoreLength	10074.49344
+Lake Murray (South Carolina)	shoreLength	804672.0
+Norfork Dam	shoreLength	885139.2
+Lake Tuendae	shoreLength	360.0
+Vancouver Lake	shoreLength	11265.408
+Dillon Reservoir	shoreLength	43130.4192
+Coyote Lake (San Bernardino County, California)	shoreLength	30000.0
+El Mirage Lake	shoreLength	25000.0
+Half Moon Lake	shoreLength	11426.3424
+Kuybyshev Reservoir	shoreLength	2604000.0
+Elter Water	shoreLength	2900.0
+Ahmic Lake	shoreLength	69000.0
+Lake Diefenbaker	shoreLength	800000.0
+Lake Ritsa	shoreLength	4290.0
+Pomme de Terre Lake	shoreLength	181855.872
+Vansjø	shoreLength	175410.0
+Staples Pond	shoreLength	2574.9504
+Bristol Lake	shoreLength	70000.0
+Lake Tinaroo	shoreLength	209000.0
+Millwood Lake	shoreLength	104607.36
+Ivanpah Lake	shoreLength	45000.0
+Lake Jackson (Georgia)	shoreLength	217000.0
+Lake Ouachita	shoreLength	1110447.36
+Lake Waubesa	shoreLength	24140.16
+Ada Ciganlija  Sava Lake   1	shoreLength	9000.0
+Lake Hazen	shoreLength	185.0
+Ashokan Reservoir	shoreLength	64373.76
+Lake of Egypt	shoreLength	144840.96
+Øyeren	shoreLength	165470.0
+Blåsjø	shoreLength	200410.0
+Fyresvatn	shoreLength	63410.0
+Halasuru  Lake   1	shoreLength	3000.0
+Tuttle Creek Lake	shoreLength	160000.0
+Storsjøen (Rendalen)	shoreLength	75110.0
+Farris	shoreLength	107070.0
+Lake Dardanelle	shoreLength	506943.36
+Alsvågvatnet	shoreLength	17990.0
+Andfiskvatnet	shoreLength	17240.0
+Andkjelvatnet	shoreLength	17080.0
+Arstaddalsdammen	shoreLength	9660.0
+Balvatnet	shoreLength	54320.0
+Baugevatnet	shoreLength	30210.0
+Bjørnefossvatnet	shoreLength	7410.0
+Bleiksvatnet	shoreLength	9230.0
+Bleikvatnet	shoreLength	35310.0
+Blerekvatnet	shoreLength	31410.0
+Blåmannsisvatnet	shoreLength	9950.0
+Bogvatnet	shoreLength	12590.0
+Båvrojávrre	shoreLength	25330.0
+Børsvatnet	shoreLength	31730.0
+Daningen	shoreLength	15430.0
+Drevvatnet	shoreLength	11740.0
+Eidevatnet	shoreLength	39400.0
+Elsvatnet	shoreLength	13440.0
+Famnvatnet	shoreLength	19780.0
+Faulvatnet	shoreLength	25500.0
+Fellvatnet	shoreLength	7910.0
+Finnknevatnet	shoreLength	10940.0
+Fiskelausvatnet (Grane)	shoreLength	10620.0
+Fiskeløysvatnet (Saltdal)	shoreLength	13390.0
+Fjellvatnet	shoreLength	39400.0
+Fjerdvatnet	shoreLength	7230.0
+Fjærvatnet	shoreLength	12410.0
+Forsanvatnet	shoreLength	13890.0
+Forsvatnet	shoreLength	38970.0
+Fustvatnet	shoreLength	27910.0
+Gautelisvatnet	shoreLength	51310.0
+Geitvatnet	shoreLength	24870.0
+Gjømmervatnet	shoreLength	20530.0
+Grasvatnet	shoreLength	44090.0
+Grovatnet	shoreLength	12700.0
+Gåsvatnet	shoreLength	14600.0
+Hartvikvatnet	shoreLength	7320.0
+Heggmovatnet	shoreLength	22420.0
+Hjertvatnet	shoreLength	11450.0
+Helgåvatnet	shoreLength	12540.0
+Hopvatnet	shoreLength	15030.0
+Horndalsvatnet	shoreLength	8750.0
+Hundålvatnet	shoreLength	28500.0
+Iptojávri	shoreLength	9430.0
+Indre Sildvikvatnet	shoreLength	8110.0
+Jengelvatnet	shoreLength	12890.0
+Kaldvågvatnet	shoreLength	10960.0
+Kilvatnet	shoreLength	32520.0
+Kalvvatnet	shoreLength	16050.0
+Kallvatnet	shoreLength	63240.0
+Kjelvatnet (Ballangen)	shoreLength	8480.0
+Kjelvatnet (Fauske)	shoreLength	16230.0
+Kjemåvatnet	shoreLength	9490.0
+Kjerringvatnet (Hattfjelldal)	shoreLength	11420.0
+Kjårdavatnet	shoreLength	8920.0
+Kobbvatnet	shoreLength	12800.0
+Krutvatnet	shoreLength	23400.0
+Kvitvatnet	shoreLength	13790.0
+Langvatnet (Ballangen)	shoreLength	36660.0
+Langvatnet (Fauske)	shoreLength	25820.0
+Langvatnet (Rana)	shoreLength	64000.0
+Langvatnet (Gildeskål)	shoreLength	11510.0
+Langvatnet (Sørfold)	shoreLength	32550.0
+Langvatnet (Tysfjord)	shoreLength	28260.0
+Leirvatnet (Sørfold)	shoreLength	7720.0
+Litle Sokumvatnet	shoreLength	22730.0
+Litlumvatnet	shoreLength	13710.0
+Litlverivatnet	shoreLength	11610.0
+Livsejávrre	shoreLength	12880.0
+Lossivatnet	shoreLength	16210.0
+Luktvatnet	shoreLength	18650.0
+Lysvatnet (Meløy)	shoreLength	13700.0
+Låmivatnet	shoreLength	21950.0
+Majavatnet	shoreLength	50370.0
+Makkvatnet	shoreLength	9350.0
+Markavatnet (Meløy)	shoreLength	8060.0
+Melkevatnet	shoreLength	11860.0
+Mellingsvatnet	shoreLength	32040.0
+Mjåvatnet	shoreLength	11950.0
+Muorkkejávrre	shoreLength	18010.0
+Nedre Fagervollvatnet	shoreLength	24110.0
+Nedre Fiplingvatnet	shoreLength	22050.0
+Nedre Veikvatnet	shoreLength	8690.0
+Nedrevatnet	shoreLength	14060.0
+Niingsvatnet	shoreLength	13460.0
+Nordre Bjøllåvatnet	shoreLength	16030.0
+Ramsgjelvatnet	shoreLength	7790.0
+Ranseren	shoreLength	17280.0
+Raudvatnet	shoreLength	20000.0
+Reingardslivatnet	shoreLength	15680.0
+Reinoksvatnet	shoreLength	31600.0
+Rekvatnet	shoreLength	13800.0
+Rotvatnet	shoreLength	15640.0
+Rundvatnet	shoreLength	6680.0
+Røyrvatnet	shoreLength	10900.0
+Saglivatnet	shoreLength	13220.0
+Sandnesvatnet	shoreLength	12770.0
+Sausvatnet	shoreLength	21320.0
+Sealggajávri	shoreLength	23660.0
+Sefrivatnet	shoreLength	10520.0
+Siiddašjávri	shoreLength	97270.0
+Sildhopvatnet	shoreLength	8610.0
+Simskardvatnet	shoreLength	14770.0
+Sisovatnet	shoreLength	22040.0
+Skilvatnet	shoreLength	12860.0
+Skogvollvatnet	shoreLength	9510.0
+Sokumvatnet	shoreLength	26360.0
+Solbjørnvatnet	shoreLength	16610.0
+Soløyvatnet	shoreLength	17010.0
+Storakersvatnet	shoreLength	78600.0
+Store Svenningsvatnet	shoreLength	13650.0
+Storglomvatnet	shoreLength	45160.0
+Stormyrbassenget	shoreLength	42650.0
+Stormålvatnet	shoreLength	15550.0
+Storskogvatnet	shoreLength	13040.0
+Straumfjordvatnet	shoreLength	14370.0
+Strindvatnet	shoreLength	6340.0
+Straumvatnet	shoreLength	13520.0
+Trollvatnet	shoreLength	9150.0
+Unkervatnet	shoreLength	24950.0
+Åbjørvatnet	shoreLength	18920.0
+Šluŋkkajávri	shoreLength	17110.0
+Virvatnet	shoreLength	11820.0
+Valnesvatnet	shoreLength	20660.0
+Vatnvatnet	shoreLength	27140.0
+Ømmervatnet	shoreLength	11990.0
+Øvrevatnet	shoreLength	33110.0
+Unna Guovdelisjávri	shoreLength	14930.0
+Søre Bukkevatnet	shoreLength	13150.0
+Søre Vistvatnet	shoreLength	8380.0
+Clinton Lake (Kansas)	shoreLength	136794.24
+Clinton Lake (Illinois)	shoreLength	219000.0
+O'Higgins/San Martín Lake	shoreLength	525000.0
+Gjende	shoreLength	40320.0
+Aursjøen	shoreLength	70670.0
+Vangsmjøse	shoreLength	43470.0
+Mark Twain Lake	shoreLength	458663.04
+Tesse	shoreLength	24140.0
+Slidrefjord	shoreLength	46340.0
+Soda Lake (San Bernardino County)	shoreLength	75000.0
+Silver Lake (Mojave)	shoreLength	30000.0
+Aursjoen	shoreLength	18880.0
+Nedre Heimdalsvatn	shoreLength	26230.0
+Iešjávri	shoreLength	164000.0
+Nesjøen	shoreLength	113590.0
+Selbusjø	shoreLength	110810.0
+Feragen	shoreLength	37630.0
+Korssjøen	shoreLength	759000.0
+Bolagen	shoreLength	7950.0
+Rien (Norway)	shoreLength	31880.0
+Håsjøen	shoreLength	19500.0
+Flensjøen	shoreLength	12890.0
+Øyungen	shoreLength	21000.0
+Riasten	shoreLength	16000.0
+Rambergsjøen	shoreLength	18580.0
+Gagnåsvatnet	shoreLength	19590.0
+Øyangsvatnet	shoreLength	35600.0
+Svorksjøen	shoreLength	20000.0
+Våvatnet	shoreLength	19.71
+Vasslivatnet	shoreLength	12450.0
+Hostovatnet	shoreLength	10310.0
+Benna (lake)	shoreLength	22610.0
+Sørungen	shoreLength	17290.0
+Malmsjøen	shoreLength	8930.0
+Frøylandsvatnet	shoreLength	24100.0
+Avalsjøen	shoreLength	7850.0
+Akksjøen	shoreLength	15790.0
+Atnsjøen	shoreLength	19380.0
+Feforvatnet	shoreLength	11950.0
+Olstappen	shoreLength	13880.0
+Olefjorden	shoreLength	25540.0
+Fleinsendin	shoreLength	14570.0
+Otrøvatnet	shoreLength	8080.0
+Slettningen	shoreLength	20760.0
+Tordsvatnet	shoreLength	20870.0
+Grønvatnet	shoreLength	10600.0
+Lemonsjøen	shoreLength	12250.0
+Flatningen	shoreLength	10240.0
+Lalmsvatnet	shoreLength	20580.0
+Breiddalsvatnet	shoreLength	20410.0
+Maroon Dam	shoreLength	17000.0
+Eiavatnet	shoreLength	35910.0
+Grøsfjellvatnet	shoreLength	21270.0
+Hovsvatnet	shoreLength	15860.0
+Hofreistæ	shoreLength	8110.0
+Nilsebuvatnet	shoreLength	12990.0
+Nodlandsvatnet	shoreLength	21490.0
+Oltedalsvatnet	shoreLength	16610.0
+Orrevatnet	shoreLength	22960.0
+Teksevatnet	shoreLength	17340.0
+Tysdalsvatnet	shoreLength	14620.0
+Vatsvatnet	shoreLength	14220.0
+Vostervatnet	shoreLength	10880.0
+Ørsdalsvatnet	shoreLength	36520.0
+Aksdalsvatnet	shoreLength	15530.0
+Øvre Tysdalsvatnet	shoreLength	26960.0
+Byrkjelandsvatnet	shoreLength	22360.0
+Austrumdalsvatnet	shoreLength	13820.0
+Vigdarvatnet	shoreLength	44520.0
+Askevatnet	shoreLength	10000.0
+Askjelldalsvatnet	shoreLength	10490.0
+Rensselaer Lake	shoreLength	4184.2944
+Dozmary Pool	shoreLength	1500.0
+Bandak	shoreLength	60160.0
+Kviteseidvatn	shoreLength	26940.0
+Lundevatn	shoreLength	59800.0
+Mingevannet	shoreLength	77880.0
+West Point Lake	shoreLength	844905.6
+Totak	shoreLength	70480.0
+Breimsvatn	shoreLength	42970.0
+Topsæ	shoreLength	11890.0
+Uldalsåna	shoreLength	34340.0
+Åraksfjorden	shoreLength	45220.0
+Øyarvatnet	shoreLength	36510.0
+Østre Grimevann	shoreLength	30280.0
+Vegår	shoreLength	113840.0
+Vatndalsvatnet	shoreLength	29760.0
+Ogge	shoreLength	89850.0
+Ormsavatnet	shoreLength	12870.0
+Reinevatn	shoreLength	24760.0
+Rore	shoreLength	38340.0
+Rosskreppfjorden	shoreLength	70390.0
+Måvatn	shoreLength	11090.0
+Longerakvatnet	shoreLength	23010.0
+Nasvatn	shoreLength	19360.0
+Nystølfjorden	shoreLength	26000.0
+Kilefjorden	shoreLength	64740.0
+Kolsvatnet	shoreLength	11820.0
+Kvifjorden	shoreLength	71940.0
+Gyvatn	shoreLength	40730.0
+Hartevatnet	shoreLength	24030.0
+Herefossfjorden	shoreLength	20420.0
+Holmavatnet	shoreLength	36650.0
+Holmevatnet	shoreLength	34030.0
+Hovatn	shoreLength	18310.0
+Homstølvatnet	shoreLength	9590.0
+Høvringsvatnet	shoreLength	20920.0
+Botnsvatnet	shoreLength	25180.0
+Botsvatn	shoreLength	29220.0
+Skyvatn	shoreLength	16100.0
+Byglandsfjorden	shoreLength	87570.0
+Store Bjørnevatn	shoreLength	13740.0
+Store Urevatn	shoreLength	46350.0
+Straumsfjorden	shoreLength	34040.0
+Syndle	shoreLength	41410.0
+Nelaug (lake)	shoreLength	68390.0
+Frøylandsvatnet (Sandnes)	shoreLength	3670.0
+Store Måsvann	shoreLength	29100.0
+Vuolep Sårjåsjávrre	shoreLength	28520.0
+Logan Martin Lake	shoreLength	442569.6
+Ara (lake)	shoreLength	33650.0
+Femsjøen	shoreLength	30950.0
+Aspern (lake)	shoreLength	30540.0
+Isesjøen	shoreLength	25160.0
+Lyseren	shoreLength	36480.0
+Rødenessjøen	shoreLength	58800.0
+Rømsjøen	shoreLength	47710.0
+Store Erte	shoreLength	18390.0
+Vestvannet	shoreLength	43050.0
+Øgderen	shoreLength	41880.0
+Ørsjøen	shoreLength	29640.0
+Øymarksjøen	shoreLength	66180.0
+Goksjø	shoreLength	20570.0
+Hallevatnet	shoreLength	33910.0
+Almåsgrønningen	shoreLength	13480.0
+Andorsjøen	shoreLength	20970.0
+Byavatnet	shoreLength	14000.0
+Eidsvatnet	shoreLength	15870.0
+Feren	shoreLength	33380.0
+Finnvollvatnet	shoreLength	18920.0
+Fjergen	shoreLength	34990.0
+Fossemvatnet	shoreLength	11020.0
+Funnsjøen	shoreLength	25160.0
+Gilten (lake)	shoreLength	6460.0
+Grungstadvatnet	shoreLength	15810.0
+Grøningen	shoreLength	24110.0
+Gusvatnet	shoreLength	13000.0
+Tunnsjøflyan	shoreLength	45990.0
+Ulen (lake)	shoreLength	14850.0
+Holden (Lierne)	shoreLength	11450.0
+Ingjelsvatnet	shoreLength	18220.0
+Holden (Verran)	shoreLength	48130.0
+Innsvatnet	shoreLength	18360.0
+Veresvatnet	shoreLength	12600.0
+Evangervatnet	shoreLength	15400.0
+Eidfjordvatnet	shoreLength	9530.0
+Blådalsvatnet	shoreLength	13380.0
+Bjølsegrøvvatnet	shoreLength	19980.0
+Finsevatnet	shoreLength	11710.0
+Flakavatnet	shoreLength	16470.0
+Gjønavatnet	shoreLength	13770.0
+Granvinsvatnet	shoreLength	10970.0
+Nordmannslågen	shoreLength	50290.0
+Juklavatnet	shoreLength	12240.0
+Oppheimsvatnet	shoreLength	10520.0
+Onarheimsvatnet	shoreLength	12280.0
+Ringedalsvatnet	shoreLength	18360.0
+Røldalsvatnet	shoreLength	20640.0
+Tinnhølen	shoreLength	18850.0
+Torfinnsvatnet	shoreLength	14000.0
+Kalandsvatnet	shoreLength	12390.0
+Kvennsjøen	shoreLength	18620.0
+Valldalsvatnet	shoreLength	24320.0
+Veivatnet	shoreLength	17330.0
+Vangsvatnet	shoreLength	19570.0
+Votna	shoreLength	17510.0
+Halnefjorden	shoreLength	39830.0
+Hamlagrøvatnet	shoreLength	28010.0
+Henangervatnet	shoreLength	12650.0
+Holskardvatnet	shoreLength	12190.0
+Løkjelsvatnet	shoreLength	15790.0
+Lønavatnet	shoreLength	8370.0
+Sandvinvatnet	shoreLength	11900.0
+Skaupsjøen	shoreLength	26240.0
+Skjerjavatnet	shoreLength	34670.0
+Skogseidvatnet	shoreLength	18720.0
+Stakkastadvatnet	shoreLength	23970.0
+Steinslandsvatnet	shoreLength	14070.0
+Sysenvatnet	shoreLength	17270.0
+Gjuvvatnet	shoreLength	23790.0
+Gravatnet	shoreLength	25290.0
+Kulivatnet	shoreLength	14510.0
+Kumlevollvatnet	shoreLength	18230.0
+Lygne	shoreLength	27190.0
+Selura	shoreLength	31480.0
+Nåvatnet	shoreLength	45920.0
+Sirdalsvatnet	shoreLength	59910.0
+Valevatn	shoreLength	46730.0
+Ytre Øydnavatnet	shoreLength	17500.0
+Øre (lake)	shoreLength	24710.0
+Storvatnet (Bykle)	shoreLength	86060.0
+Storvatnet (Ballangen)	shoreLength	19260.0
+Storvatnet (Leksvik)	shoreLength	75.6
+Storvatnet (Nærøy)	shoreLength	30460.0
+Aursund	shoreLength	102980.0
+Meltingvatnet	shoreLength	40120.0
+Mjosundvatnet	shoreLength	31620.0
+Mokkavatnet	shoreLength	5250.0
+Movatnet	shoreLength	20700.0
+Murusjøen	shoreLength	21890.0
+Hoklingen	shoreLength	12740.0
+Ormsetvatnet	shoreLength	14700.0
+Ovrejaevrie	shoreLength	14460.0
+Rengen	shoreLength	42050.0
+Holderen	shoreLength	29630.0
+Kingen	shoreLength	16090.0
+Havdalsvatnet	shoreLength	18680.0
+Hammervatnet	shoreLength	21400.0
+Storfrøyningen	shoreLength	19320.0
+Bangsjøene	shoreLength	65780.0
+Store Øyingen	shoreLength	18320.0
+Storgollomsvatnet	shoreLength	29900.0
+Storgrønningen	shoreLength	21000.0
+Storgåsvatnet	shoreLength	12430.0
+Stortissvatnet	shoreLength	17710.0
+Sønningen	shoreLength	8310.0
+Straumsetervatnet	shoreLength	31680.0
+Jølstravatn	shoreLength	68500.0
+Oppstrynsvatn	shoreLength	38550.0
+Dingevatn	shoreLength	13970.0
+Suldalsvatnet	shoreLength	69430.0
+Lake Arrowhead (Georgia)	shoreLength	17702.784
+Lake Springfield	shoreLength	91732.608
+Lake Wentworth	shoreLength	32186.88
+Pinehurst Lake	shoreLength	36500.0
+Skasen	shoreLength	30710.0
+New Bullards Bar Reservoir	shoreLength	90123.264
+Rydal Water	shoreLength	2870.0
+Bucura Lake	shoreLength	1390.0
+Great East Lake	shoreLength	12874.752
+Northeast Pond	shoreLength	15449.7024
+Milton Pond	shoreLength	12552.8832
+Stump Pond (Balch Pond)	shoreLength	16254.3744
+New Melones Lake	shoreLength	160000.0
+Bjornesfjorden	shoreLength	68100.0
+Brommafjorden	shoreLength	27210.0
+Djupsvatnet	shoreLength	124610.0
+Hettefjorden	shoreLength	12580.0
+Juklevatnet	shoreLength	10320.0
+Kravikfjorden	shoreLength	15310.0
+Langesjøen	shoreLength	35150.0
+Lauvnesvatnet	shoreLength	14970.0
+Mykle	shoreLength	23750.0
+Norefjorden	shoreLength	24850.0
+Nygardsvatnet	shoreLength	17250.0
+Nyhellervatnet	shoreLength	48070.0
+Ullerentjernet	shoreLength	2070.0
+Ustevatn	shoreLength	31260.0
+Vavatn	shoreLength	13810.0
+Vestre Bjonevatnet	shoreLength	14980.0
+Øljusjøen	shoreLength	19900.0
+Ørteren	shoreLength	31490.0
+Øvre Hein	shoreLength	24360.0
+Rødungen	shoreLength	26950.0
+Samsjøen (Sør-Trøndelag)	shoreLength	22820.0
+Samsjøen (Ringerike)	shoreLength	11910.0
+Tingvollfjorden (Buskerud)	shoreLength	2600.0
+Geitsjøen	shoreLength	10350.0
+Øyangen (Ringerike)	shoreLength	19720.0
+Øyangen (Valdres)	shoreLength	18460.0
+Øvre Sjodalsvatnet	shoreLength	19990.0
+Øyangen (Nord-Fron)	shoreLength	16360.0
+Øyangen (Gran)	shoreLength	15870.0
+Prestesteinsvatnet	shoreLength	20420.0
+Austdalsvatnet	shoreLength	16530.0
+Eldrevatnet	shoreLength	11660.0
+Emhjellevatnet	shoreLength	28370.0
+Endestadvatnet	shoreLength	13640.0
+Fretheimsdalsvatnet	shoreLength	16850.0
+Hurdalsjøen	shoreLength	52860.0
+Bjørkelangen (lake)	shoreLength	14070.0
+Canyon Lake (Texas)	shoreLength	128747.52
+Badin Lake	shoreLength	185074.56
+Lake Macquarie (New South Wales)	shoreLength	167000.0
+Osensjø	shoreLength	76410.0
+Blue Mesa Reservoir	shoreLength	154497.024
+Lake Nojiri	shoreLength	16000.0
+Deer Lake (Itasca County, Minnesota)	shoreLength	35405.568
+Lake of Banyoles	shoreLength	9130.0
+Brady Creek Reservoir	shoreLength	40233.6
+Carlyle Lake	shoreLength	136794.24
+Lac Dumoine	shoreLength	161000.0
+Keoka Lake	shoreLength	7242.048
+Clear Lake (Iowa)	shoreLength	44417.8944
+Botn (Sør-Trøndelag)	shoreLength	13110.0
+Sylvan Lake (South Dakota)	shoreLength	1609.344
+Saugatuck Reservoir	shoreLength	20921.472
+Överuman	shoreLength	129110.0
+Lake Sinclair	shoreLength	671096.448
+Lake Oconee	shoreLength	605113.344
+Vesijärvi	shoreLength	181000.0
+Mason Lake	shoreLength	17541.8496
+Klistervatnet	shoreLength	54000.0
+Lake Solina	shoreLength	150000.0
+Kinkaid Lake	shoreLength	148059.648
+Rihpojávri	shoreLength	14770.0
+Scituate Reservoir	shoreLength	106216.704
+Lake of the Woods (California)	shoreLength	4000.0
+Lake Kizaki	shoreLength	7000.0
+Green Lake (Wisconsin)	shoreLength	47153.7792
+Nakaumi	shoreLength	105000.0
+Richard B. Russell Lake	shoreLength	869045.76
+East Lynn Lake	shoreLength	70811.136
+Sandsjøen	shoreLength	27060.0
+Lake Seminole	shoreLength	605113.344
+Holsavatnet	shoreLength	16780.0
+Suolojávri (Lebesby)	shoreLength	11200.0
+Mountain Island Lake	shoreLength	98169.984
+Bajit Spielgajávri	shoreLength	11530.0
+Bajášjávri	shoreLength	14780.0
+Biggejávri	shoreLength	13720.0
+Dátkojávri	shoreLength	15250.0
+Gahččanjávri	shoreLength	10890.0
+Gavdnjajávri	shoreLength	17060.0
+Geađgejávri	shoreLength	13930.0
+Geašjávri	shoreLength	22670.0
+Guolehis Suolojávri	shoreLength	27450.0
+Hæmmujávri	shoreLength	74690.0
+Latnetjávri	shoreLength	30430.0
+Láhpojávri	shoreLength	43770.0
+Nuorbejávri	shoreLength	12390.0
+Rágesjávri	shoreLength	16810.0
+Soagŋojávri	shoreLength	26780.0
+Stuora Galbajávri	shoreLength	16940.0
+Suolojávri (Kautokeino)	shoreLength	17720.0
+Sálganjávri	shoreLength	11310.0
+Virdnejávri	shoreLength	23840.0
+Vuolit Spielgajávri	shoreLength	13010.0
+Čárajávri	shoreLength	22990.0
+Šuoikkatjávri	shoreLength	28350.0
+Bjørnstadvatnet	shoreLength	22310.0
+Doggejávri	shoreLength	10180.0
+Garsjøen	shoreLength	28620.0
+Geatnjajávri	shoreLength	14240.0
+Havvatnet	shoreLength	15530.0
+Juovvajávri	shoreLength	7570.0
+Kjæsvannet	shoreLength	20390.0
+Kovvatnet (Finnmark)	shoreLength	9740.0
+Stuorajávri (Alta)	shoreLength	12150.0
+Stuorajávri (Kautokeino)	shoreLength	81160.0
+Geassájávri	shoreLength	20050.0
+Nissojávri	shoreLength	11300.0
+Sundvatnet	shoreLength	13910.0
+Gásadatjávri	shoreLength	21660.0
+Čorotjávri	shoreLength	17130.0
+Idjajávri	shoreLength	49690.0
+Possum Kingdom Lake	shoreLength	498896.64
+Rogers Dry Lake	shoreLength	61000.0
+Flagstaff Lake (Maine)	shoreLength	236895.4368
+Bethany Reservoir	shoreLength	9656.064
+Rangeley Lake	shoreLength	52625.5488
+Mooselookmeguntic Lake	shoreLength	92537.28
+Ajawaan Lake	shoreLength	5000.0
+Mingachevir reservoir	shoreLength	247000.0
+Weston Reservoir	shoreLength	6437.376
+Aotea Lagoon	shoreLength	732.0
+Great Pond	shoreLength	74190.7584
+Lake Lavon	shoreLength	133575.552
+Wollaston Lake	shoreLength	1475000.0
+Laurel River Lake	shoreLength	331524.864
+Renuka Lake	shoreLength	3214.0
+Lovatnet	shoreLength	26980.0
+Prestvannet	shoreLength	1300.0
+Lake Lashaway	shoreLength	8207.6544
+Holmavatnet (Hordaland)	shoreLength	13960.0
+Quaboag Pond	shoreLength	13035.6864
+Visterflo	shoreLength	10840.0
+Wahwashkesh Lake	shoreLength	106000.0
+Rewalsar Lake	shoreLength	735.0
+Ghadhasaru and Mahakali Lake	shoreLength	1000.0
+Toke (lake)	shoreLength	185500.0
+Olallie Scenic Area	shoreLength	6276.4416
+Lake Velence	shoreLength	28500.0
+Brooks Pond (Massachusetts)	shoreLength	6437.376
+Lake Gaston	shoreLength	563270.4
+Watauga Lake	shoreLength	168820.1856
+Sugden Reservoir	shoreLength	3218.688
+Lake Granbury	shoreLength	165762.432
+Bayles Lake (Illinois)	shoreLength	15996.87936
+Lake Columbia	shoreLength	22530.816
+Panguipulli Lake	shoreLength	105000.0
+Balsam Lake (Wisconsin)	shoreLength	104607.36
+Theodore Roosevelt Lake	shoreLength	205996.032
+Riñihue Lake	shoreLength	72840.0
+Browning Pond	shoreLength	3218.688
+Banks Lake	shoreLength	217261.44
+Großer Plöner See	shoreLength	49600.0
+Thompson Pond (Massachusetts)	shoreLength	5310.8352
+Robert-Bourassa Reservoir	shoreLength	4550000.0
+Gouin Reservoir	shoreLength	5650000.0
+Lake Livingston	shoreLength	724204.8
+Pymatuning Reservoir	shoreLength	112654.08
+Degnepollvatnet	shoreLength	1500.0
+Contwoyto Lake	shoreLength	982000.0
+Černé jezero	shoreLength	1300.0
+Angora Lakes	shoreLength	1609.344
+Alpsee	shoreLength	4700.0
+Lake Chivero	shoreLength	48000.0
+Lake Linville	shoreLength	12713.8176
+Paintsville Lake	shoreLength	91732.608
+Tolay Lake	shoreLength	3862.4256
+Lake Shikotsu	shoreLength	40400.0
+Lake Glenville	shoreLength	41842.944
+Budi Lake	shoreLength	105000.0
+Madge Lake	shoreLength	45000.0
+Lac Courte Oreilles	shoreLength	40877.3376
+Quail Lake	shoreLength	5000.0
+Gjevilvatnet	shoreLength	38000.0
+Langsjøen	shoreLength	27260.0
+Lomnessjøen	shoreLength	13930.0
+Engeren	shoreLength	36890.0
+Digeren	shoreLength	14180.0
+Falningsjøen	shoreLength	7140.0
+Gutulisjøen	shoreLength	9520.0
+Galtsjøen	shoreLength	13220.0
+Harrsjøen	shoreLength	9250.0
+Gardsjøen (Sør-Varanger)	shoreLength	4600.0
+Hukusjøen	shoreLength	12320.0
+Innerdalsvatnet	shoreLength	19940.0
+Marsjøen	shoreLength	9060.0
+Mangen	shoreLength	14970.0
+Møkeren	shoreLength	44400.0
+Gardsjøen (Grue)	shoreLength	7250.0
+Nedre Roasten	shoreLength	13870.0
+Gjesåssjøen	shoreLength	9490.0
+Nugguren	shoreLength	13060.0
+Rokosjøen	shoreLength	28880.0
+Råsen	shoreLength	10080.0
+Siksjøen	shoreLength	13720.0
+Skjervangen	shoreLength	31140.0
+Vermunden	shoreLength	20680.0
+Vurrusjøen	shoreLength	20450.0
+Jonsvatnet	shoreLength	43640.0
+Eikesdalsvatnet	shoreLength	44000.0
+Bessvatnet	shoreLength	13310.0
+Gråsjøen	shoreLength	24370.0
+Foldsjøen	shoreLength	18190.0
+Russvatnet	shoreLength	22930.0
+Lake Blackshear	shoreLength	152887.68
+Baskatong Reservoir	shoreLength	2800000.0
+Lago di Mergozzo	shoreLength	6200.0
+Lake Walcott	shoreLength	128747.52
+Lago di Viverone	shoreLength	10500.0
+Western Brook Pond	shoreLength	42500.0
+Yalchik Lake	shoreLength	9460.0
+Yalchik Lake	shoreLength	5590.0
+Lago di Candia	shoreLength	5500.0
+Randleman Lake	shoreLength	104607.36
+Robert S. Kerr Reservoir	shoreLength	402336.0
+Lake Noquebay	shoreLength	15771.5712
+Lake Eau d'Heure	shoreLength	50000.0
+Lake Weir	shoreLength	61155.072
+Lake Idro	shoreLength	24000.0
+Lake Snagov	shoreLength	32000.0
+Grapevine Lake	shoreLength	96560.64
+Spring Creek Reservoir (New South Wales)	shoreLength	7000.0
+Lost Creek Lake	shoreLength	48280.32
+Swan Lake (Alaska)	shoreLength	2011.68
+Flaten	shoreLength	5460.0
+Ältasjön	shoreLength	5350.0
+Sicklasjön	shoreLength	3940.0
+Långsjön	shoreLength	4940.0
+Trekanten (Stockholm)	shoreLength	1690.0
+Harper Lake	shoreLength	45000.0
+Gömmaren	shoreLength	4100.0
+Gömmaren	shoreLength	4030.0
+Trehörningen (Sjödalen)	shoreLength	7770.0
+Trehörningen (Sjödalen)	shoreLength	7040.0
+Lake Gogebic	shoreLength	55280.9664
+Hacksjön	shoreLength	1590.0
+Lake Glenn Shoals	shoreLength	43130.4192
+Lake Galena (Illinois)	shoreLength	11265.408
+Lake Mackintosh	shoreLength	83000.0
+Sturgeon Lake (Northwestern Ontario)	shoreLength	284000.0
+Smithville Lake	shoreLength	281635.2
+Big Sandy Lake	shoreLength	74995.4304
+Lake Kasumigaura	shoreLength	252000.0
+Loon Lake (Lake County, Illinois)	shoreLength	11104.4736
+Lake Holiday (Illinois)	shoreLength	13035.6864
+Lake Veisiejis	shoreLength	41130.0
+Cedar Lake (Illinois)	shoreLength	48280.32
+Oologah Lake	shoreLength	336352.896
+Lake Dysnai	shoreLength	36700.0
+Lake Dusia	shoreLength	21600.0
+Lake Pillsbury	shoreLength	104607.36
+Lake Francis Case	shoreLength	869045.76
+Chatyr-Kul	shoreLength	58000.0
+Little Grassy Lake	shoreLength	57936.384
+Lake Mattoon	shoreLength	89318.592
+Storsjø (Nord-Odal)	shoreLength	105450.0
+Red Lake (Douglas County, Wisconsin)	shoreLength	5632.704
+Colorada Lake	shoreLength	35000.0
+Deadwood Reservoir	shoreLength	33796.224
+Clifton Court Forebay	shoreLength	13000.0
+Lac des Sapins	shoreLength	4750.0
+Clear Lake (Linn County, Oregon)	shoreLength	5149.9008
+Chichester Dam	shoreLength	18000.0
+Summit Lake (Reading Peak, Shasta County)	shoreLength	1000.0
+Lake Crabtree	shoreLength	8046.72
+Clendening Lake	shoreLength	69201.792
+Rogagua Lake	shoreLength	52000.0
+Namekagon Lake	shoreLength	70280.05248
+Lake Karla	shoreLength	25000.0
+Bichelsee (lake)	shoreLength	1235.0
+Lower Saranac Lake	shoreLength	27358.848
+Upper Saranac Lake	shoreLength	59545.728
+Evans Lake (British Columbia)	shoreLength	1300.0
+Lake Hibara	shoreLength	31500.0
+Sturgeon Lake (Hayes Watershed – Kenora District, Ontario)	shoreLength	45000.0
+Marchington Lake (Ontario)	shoreLength	81000.0
+West Lake (Hanoi)	shoreLength	17000.0
+Thornton Reservoir	shoreLength	3942.8928
+Suraj Tal	shoreLength	4000.0
+Alumine Lake	shoreLength	54500.0
+Kawagama Lake	shoreLength	83500.0
+Jacqueline Kennedy Onassis Reservoir	shoreLength	2542.76352
+Liepāja lake	shoreLength	44600.0
+Gibson Lake (Indiana)	shoreLength	9656.064
+Lake Hamana	shoreLength	114000.0
+Lake Sartai	shoreLength	79000.0
+Atkinson Dam	shoreLength	14400.0
+Lake Harku	shoreLength	6772.0
+Lenthalls Dam	shoreLength	83000.0
+Lake Cadillac	shoreLength	12504.60288
+Ghost Lake (Alberta)	shoreLength	32000.0
+Engervannet	shoreLength	2610.0
+Albysjön (Botkyrka)	shoreLength	6470.0
+Lago di Mezzola	shoreLength	13600.0
+Orlången	shoreLength	24960.0
+Orlången	shoreLength	2.377E7
+Mörtsjön	shoreLength	2100.0
+Goat Rock Lake	shoreLength	40233.6
+Lake Harding	shoreLength	251057.664
+Lake Oliver	shoreLength	64373.76
+Lake Chehaw	shoreLength	57936.384
+Lake of Bays (Ontario)	shoreLength	170590.0
+French Meadows Reservoir	shoreLength	11748.2112
+Green Lake (Maine)	shoreLength	46349.1072
+South Twin Lake (Maine)	shoreLength	22530.816
+Lake Haruna	shoreLength	6000.0
+Senecaville Lake	shoreLength	72420.48
+Lake Phalen	shoreLength	4828.032
+Lake Luodis	shoreLength	28200.0
+Pemadumcook Chain of Lakes	shoreLength	104607.36
+Prineville Reservoir	shoreLength	69201.792
+Lake Tuscaloosa	shoreLength	284853.888
+Clear Fork Reservoir	shoreLength	22530.816
+Elektrėnai Reservoir	shoreLength	34100.0
+Indian Valley Reservoir	shoreLength	35000.0
+Lake Markakol	shoreLength	100000.0
+Lake Ikeda	shoreLength	15100.0
+Lake Cecebe	shoreLength	15000.0
+Lutvann	shoreLength	3950.0
+Crescent Lake (Oregon)	shoreLength	19955.8656
+Fateh Sagar Lake	shoreLength	8500.0
+Odell Lake (Oregon)	shoreLength	21404.2752
+Lake Palmdale	shoreLength	5290.0
+Aliyar Reservoir	shoreLength	16000.0
+Esnagami Lake	shoreLength	109000.0
+Lake Musters and Lake Colhue Huapi	shoreLength	150000.0
+Lake Kuttara	shoreLength	8000.0
+Douglas Lake	shoreLength	825593.472
+Blue Mountain Lake (New York)	shoreLength	13679.424
+Claremore Lake	shoreLength	14484.096
+Lake Sunapee	shoreLength	112654.08
+Lake Sarysu	shoreLength	0.9
+Tatla Lake	shoreLength	56000.0
+Loon Lake (Oregon)	shoreLength	9816.9984
+Canoe Lake (Nipissing District, Ontario)	shoreLength	21000.0
+Scofield Reservoir	shoreLength	24944.832
+Gull Lake (Cass County, Minnesota)	shoreLength	61155.072
+Zavoj Lake	shoreLength	40000.0
+Graham Lake (Maine)	shoreLength	144519.0912
+Spednic Lake	shoreLength	170429.5296
+Tallulah Falls Lake	shoreLength	5793.6384
+Kochelsee	shoreLength	15000.0
+Mississippi Lake	shoreLength	55900.0
+Langavatnet (Odda)	shoreLength	13400.0
+Bull Run Lake	shoreLength	6759.2448
+Lake Sagami	shoreLength	34400.0
+Riffe Lake	shoreLength	83685.888
+Little Cedar Lake (Wisconsin)	shoreLength	7242.048
+Cabonga Reservoir	shoreLength	4500000.0
+Lake Balanan	shoreLength	3500.0
+Lake Wedowee	shoreLength	434522.88
+Silver Lake Reservoir	shoreLength	3200.0
+Redfish Lake	shoreLength	17702.784
+Gaspereau Lake	shoreLength	55000.0
+Manasbal Lake	shoreLength	10200.0
+Caspian Sea	shoreLength	7000000.0
+Kodaikanal Lake	shoreLength	9000.0
+Lake Kussharo	shoreLength	57000.0
+Cherokee Reservoir	shoreLength	643737.6
+Lake Alksnaitis	shoreLength	4010.0
+Lille Rostavatn	shoreLength	18980.0
+Futalaufquen Lake	shoreLength	72500.0
+Grindstone Lake	shoreLength	16898.112
+Morris Lake (Nova Scotia)	shoreLength	10100.0
+Russell Lake (Nova Scotia)	shoreLength	3900.0
+Lake Saroma	shoreLength	82400.0
+Basic Creek Reservoir	shoreLength	6437.376
+Windigo Lake	shoreLength	14484.096
+Round Lake (Michigan)	shoreLength	6437.376
+Stoner Lake	shoreLength	3057.7536
+Ostrander Lake (Michigan)	shoreLength	2253.0816
+Shawanaga Lake	shoreLength	23700.0
+Scott Lake (Washington)	shoreLength	2042.16
+Weitsee	shoreLength	7600.0
+Lake Stamford	shoreLength	101388.672
+Windebyer Noor	shoreLength	10000.0
+Abtsdorfer See	shoreLength	4180.0
+Passader See	shoreLength	12000.0
+Haddebyer Noor	shoreLength	4800.0
+Haselbacher See	shoreLength	8200.0
+Bärwalder See	shoreLength	20600.0
+Eibsee	shoreLength	8060.0
+Kulkwitzer See	shoreLength	8000.0
+Werbeliner See	shoreLength	11400.0
+Pilsensee	shoreLength	6500.0
+Kleiner Plöner See	shoreLength	11000.0
+Postsee	shoreLength	11100.0
+Funtensee	shoreLength	780.0
+Simssee	shoreLength	14000.0
+Fahrlander See	shoreLength	6100.0
+Heiliger See	shoreLength	3400.0
+Groß Glienicker See	shoreLength	5200.0
+Hopfensee	shoreLength	6800.0
+Bannwaldsee	shoreLength	6790.0
+Weißensee (Füssen)	shoreLength	6100.0
+Großer Alpsee	shoreLength	8100.0
+Barmsee	shoreLength	3300.0
+Einfelder See	shoreLength	8700.0
+Ukleisee	shoreLength	3000.0
+Belauer See	shoreLength	5650.0
+Alatsee	shoreLength	1300.0
+Barniner See	shoreLength	11300.0
+Hainer See	shoreLength	12000.0
+Putzarer See	shoreLength	6500.0
+Hücker Moor	shoreLength	2600.0
+Bothkamper See	shoreLength	7700.0
+Soinsee	shoreLength	1000.0
+Großer Auesee	shoreLength	1500.0
+Grüner See (Lower Saxony)	shoreLength	110.0
+Lankower See (Schwerin)	shoreLength	6145.0
+Grünsee (Berchtesgadener Land)	shoreLength	800.0
+Liepnitzsee	shoreLength	8000.0
+Orankesee	shoreLength	940.0
+Schladitzer See	shoreLength	6500.0
+Ziegeleisee	shoreLength	912.0
+Flughafensee	shoreLength	3545.0
+Neustädter See	shoreLength	4800.0
+Pfaffenteich	shoreLength	1639.0
+Franzosenwoog	shoreLength	720.0
+Spitzingsee	shoreLength	2900.0
+Parumer See	shoreLength	8700.0
+Arkenberger Baggersee	shoreLength	1527.0
+Schwansee	shoreLength	1700.0
+Baggersee Lutz	shoreLength	2250.0
+Wellsee	shoreLength	3300.0
+Bibowee	shoreLength	4400.0
+Oberlübber Bergsee	shoreLength	400.0
+Wolziger See	shoreLength	10000.0
+Schöhsee	shoreLength	4800.0
+Bordesholmer See	shoreLength	4900.0
+Keezer See	shoreLength	8200.0
+Brautsee	shoreLength	1310.0
+Selker Noor	shoreLength	3300.0
+Großer Wünsdorfer See	shoreLength	6400.0
+Kiessee Dreenkrögen	shoreLength	1200.0
+Kiessee Neu Zachun	shoreLength	1260.0
+Woezer See	shoreLength	3500.0
+Kraaker Kiessee	shoreLength	1040.0
+Käbelicksee	shoreLength	11300.0
+Lac des Vieilles Forges	shoreLength	11600.0
+Amisk Lake (Alberta)	shoreLength	24.6
+Carters Lake	shoreLength	99779.328
+Lake Lenore (Washington)	shoreLength	23174.5536
+Huaytunas Lake	shoreLength	165000.0
+Araré Lake	shoreLength	42000.0
+Lake Bulusan	shoreLength	2200.0
+Druid Lake	shoreLength	2300.0
+Lago Santo parmense	shoreLength	1200.0
+Weißer See (Berlin)	shoreLength	1175.0
+Savalen	shoreLength	47990.0
+Lower Otay Reservoir	shoreLength	40233.6
+John Redmond Dam and Reservoir	shoreLength	95000.0
+Lake Napalit	shoreLength	4700.0
+Agara, Bangalore  Agara LakeAgara Keré   1	shoreLength	2100.0
+Antholzer See	shoreLength	2700.0
+Haidersee	shoreLength	4500.0
+Kalterer See	shoreLength	5300.0
+Pragser Wildsee	shoreLength	3050.0
+Toblacher See	shoreLength	4500.0
+Spring Creek Reservoir (California)	shoreLength	2000.0
+O'Neill Forebay	shoreLength	19000.0
+Sylvan Lake (New York)	shoreLength	2896.8192
+Lake Abashiri	shoreLength	44000.0
+Lake Akan	shoreLength	25900.0
+Lake Nepahwin	shoreLength	9900.0
+McCook Lake	shoreLength	11104.4736
+Peter Pond Lake	shoreLength	124000.0
+Attawapiskat Lake	shoreLength	596000.0
+Kabinakagami Lake	shoreLength	202000.0
+White Lake (Ontario)	shoreLength	98000.0
+Aishihik Lake	shoreLength	153000.0
+Lake Eden	shoreLength	4500.0
+Lost Lake (Clare County, Michigan)	shoreLength	1448.4096
+Onkamojärvi	shoreLength	35000.0
+Heathcote Lake	shoreLength	54000.0
+Agate Lake	shoreLength	4828.032
+Curlew Lake (Washington)	shoreLength	25427.6352
+Streatfeild Lake	shoreLength	20000.0
+Buffalo Pound Lake	shoreLength	7.25E7
+Rosamond Lake	shoreLength	30000.0
+Nelson Lake (San Bernardino County)	shoreLength	30000.0
+Goldstone Lake	shoreLength	15000.0
+Cuddeback Lake	shoreLength	25000.0
+Koehn Lake	shoreLength	30000.0
+Bicycle Lake	shoreLength	12000.0
+Red Pass Lake	shoreLength	10000.0
+Emerson Lake	shoreLength	20000.0
+Lucerne Lake (California)	shoreLength	25000.0
+Superior Lake (California)	shoreLength	30000.0
+Broadwell Lake	shoreLength	17000.0
+Danby Lake	shoreLength	50000.0
+Laguna Salada (Mexico)	shoreLength	250000.0
+Lake Turgoyak	shoreLength	27000.0
+Byers Lake	shoreLength	6437.376
+Lake Moomaw	shoreLength	69201.792
+Lake Granby	shoreLength	64373.76
+Canyon Lake (California)	shoreLength	24000.0
+Kandy Lake	shoreLength	3379.6224
+Lake Ogawara	shoreLength	67400.0
+Newark Reservoir	shoreLength	2414.016
+Bangs Lake	shoreLength	4828.032
+Lake Osveya	shoreLength	33400.0
+Triangle Lake (Ontario)	shoreLength	2531.0
+Leksdalsvatnet	shoreLength	32000.0
+Sølensjøen	shoreLength	42670.0
+Kalhovdfjorden	shoreLength	79050.0
+Geavdnjajávri	shoreLength	34400.0
+Lysvatnet (Lenvik)	shoreLength	16340.0
+Lake Verevi	shoreLength	2760.0
+Loch Sgadabhagh	shoreLength	80500.0
+Lake Jacomo	shoreLength	30577.536
+Hauhonselkä	shoreLength	63000.0
+Ilmoilanselkä	shoreLength	52000.0
+Iso-Roine	shoreLength	143000.0
+Vanajavesi	shoreLength	457000.0
+Vesijako	shoreLength	80000.0
+Toisvesi	shoreLength	75000.0
+Kuohijärvi	shoreLength	116000.0
+Leppävesi	shoreLength	226900.0
+Muuratjärvi	shoreLength	112200.0
+Rutajärvi (Urjala)	shoreLength	38000.0
+Birch Lake (Oklahoma)	shoreLength	43452.288
+Deerock Lake	shoreLength	23000.0
+Setten	shoreLength	58770.0
+Lake Harney	shoreLength	19312.128
+Lake Thompson (South Dakota)	shoreLength	71776.7424
+Angostura Reservoir	shoreLength	67592.448
+Upper Stillwater Reservoir	shoreLength	5486000.0
+North Fork Pound Reservoir	shoreLength	21726.144
+John W. Flanagan Dam	shoreLength	64373.76
+Lake Okabena	shoreLength	8851.392
+Alder Lake	shoreLength	45061.632
+Lake Ermistu	shoreLength	19545.0
+Lake Tõhela	shoreLength	12021.0
+Engli	shoreLength	1060.0
+Lake Arbi	shoreLength	1475.0
+Lake Maardu	shoreLength	5794.0
+Øyvatnet	shoreLength	25180.0
+As Pontes Lake	shoreLength	17800.0
+Brusdalsvatnet	shoreLength	22900.0
+Jeyranbatan reservoir	shoreLength	23300.0
+Vouvatusjärvi	shoreLength	77890.0
+Marion Reservoir	shoreLength	96560.64
+Lake Namakagon	shoreLength	70280.05248
+Lake Engolasters	shoreLength	2000.0
+Stordalsvatnet	shoreLength	19240.0
+Malibou Lake	shoreLength	3000.0
+Rescobie Loch	shoreLength	5800.0
+Nantahala Lake	shoreLength	67592.448
+Lake Bridgeport (Texas)	shoreLength	207605.376
+Ångardsvatnet	shoreLength	11320.0
+Sanabria Lake	shoreLength	9130.0
+Baltieji Lakajai	shoreLength	24500.0
+McArthur Lake	shoreLength	13820.0
+Canton Lake, Illinois	shoreLength	20921.472
+Lake Carlton, Illinois	shoreLength	4667.0976
+Quicksand Pond	shoreLength	7000.0
+Lake Hillcrest	shoreLength	13727.70432
+Mapanuepe Lake	shoreLength	33000.0
+Lake Henshaw	shoreLength	8046.72
+Gravelly Lake	shoreLength	3379.6224

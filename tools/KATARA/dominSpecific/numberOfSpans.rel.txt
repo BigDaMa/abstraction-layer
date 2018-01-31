@@ -1,0 +1,414 @@
+Victoria Bridge, Brisbane	numberOfSpans	3
+Centenary Bridge	numberOfSpans	6
+Roman Bridge (Chaves)	numberOfSpans	12
+Pont Neuf	numberOfSpans	7
+Royal Albert Bridge	numberOfSpans	19
+Vauxhall Bridge	numberOfSpans	5
+Battersea Bridge	numberOfSpans	5
+Kew Bridge	numberOfSpans	3
+Ha'penny Bridge	numberOfSpans	1
+Miles Glacier Bridge	numberOfSpans	4
+Pulteney Bridge	numberOfSpans	3
+Chelsea Bridge	numberOfSpans	3
+Rainbow Bridge (Tokyo)	numberOfSpans	3
+Malabadi Bridge	numberOfSpans	1
+Maidenhead Railway Bridge	numberOfSpans	2
+Windsor Bridge	numberOfSpans	3
+Albert Bridge, London	numberOfSpans	4
+City Island Bridge	numberOfSpans	7
+Hornibrook Bridge	numberOfSpans	294
+General Rafael Urdaneta Bridge	numberOfSpans	135
+Kew Railway Bridge	numberOfSpans	5
+Reading Bridge	numberOfSpans	1
+Navajo Bridge	numberOfSpans	1
+Victoria Falls Bridge	numberOfSpans	1
+Caversham Bridge	numberOfSpans	2
+Boyne River Bridge	numberOfSpans	6
+Talbot Memorial Bridge	numberOfSpans	3
+Zilwaukee Bridge	numberOfSpans	26
+Tees Barrage	numberOfSpans	8
+Silver Jubilee Bridge	numberOfSpans	1
+Salginatobel Bridge	numberOfSpans	1
+Calhoun Street Bridge (Trenton)	numberOfSpans	7
+Bingley Ireland Bridge	numberOfSpans	7
+London Bridge (Lake Havasu City)	numberOfSpans	5
+Grattan Bridge	numberOfSpans	5
+O'Connell Bridge	numberOfSpans	3
+Seán Heuston Bridge	numberOfSpans	1
+Millennium Bridge (Dublin)	numberOfSpans	1
+Höga Kusten Bridge	numberOfSpans	1
+O'Donovan Rossa Bridge	numberOfSpans	3
+James Joyce Bridge	numberOfSpans	1
+Puente Nuevo	numberOfSpans	3
+Richmond Bridge, London	numberOfSpans	5
+Seán O'Casey Bridge	numberOfSpans	3
+Frank Sherwin Bridge	numberOfSpans	3
+Mellows Bridge	numberOfSpans	3
+Father Mathew Bridge	numberOfSpans	3
+Ponte Milvio	numberOfSpans	6
+Narrows Bridge (Perth)	numberOfSpans	5
+Narrows Bridge (Perth)  Narrows Rail Bridge   1	numberOfSpans	5
+Mahatma Gandhi Setu	numberOfSpans	48
+Berkley–Dighton Bridge	numberOfSpans	4
+Al-Aaimmah bridge	numberOfSpans	4
+High Level Bridge (Edmonton)	numberOfSpans	28
+Drammen Bridge	numberOfSpans	41
+Gjemnessund Bridge	numberOfSpans	21
+Humber Bay Arch Bridge	numberOfSpans	1
+Måløy Bridge	numberOfSpans	34
+Tromsø Bridge	numberOfSpans	58
+Skjervøy Bridge	numberOfSpans	40
+Nærøysund Bridge	numberOfSpans	17
+Sneppen Bridge	numberOfSpans	5
+Bergsøysund Bridge	numberOfSpans	13
+Sørsund Bridge, Kristiansund	numberOfSpans	19
+Bolsøy Bridge	numberOfSpans	11
+Giske Bridge	numberOfSpans	11
+Sykkylven Bridge	numberOfSpans	15
+Pons Fabricius	numberOfSpans	2
+Ponte Sant'Angelo	numberOfSpans	5
+Airoli Bridge	numberOfSpans	19
+Wandsworth Bridge	numberOfSpans	3
+Kingston Bridge, London	numberOfSpans	5
+Kingston Railway Bridge	numberOfSpans	5
+Richmond Railway Bridge	numberOfSpans	3
+Chiswick Bridge	numberOfSpans	5
+Hampton Court Bridge	numberOfSpans	3
+Chertsey Bridge	numberOfSpans	7
+Folly Bridge	numberOfSpans	3
+Henley Bridge	numberOfSpans	5
+Godstow Bridge	numberOfSpans	2
+Wallingford Bridge	numberOfSpans	22
+Winterbrook Bridge	numberOfSpans	3
+Si-o-se Pol	numberOfSpans	33
+Burdekin Bridge	numberOfSpans	10
+Burdekin Bridge	numberOfSpans	22
+Maidenhead Bridge	numberOfSpans	13
+Tarr Steps	numberOfSpans	17
+Carrick-a-Rede Rope Bridge	numberOfSpans	1
+Landwasser Viaduct	numberOfSpans	6
+Sea Cliff Bridge	numberOfSpans	5
+Esplanade Riel	numberOfSpans	2
+Amtrak Susquehanna River Bridge	numberOfSpans	18
+Lucan Bridge	numberOfSpans	1
+Islandbridge	numberOfSpans	1
+Anna Livia Bridge	numberOfSpans	4
+Elgeseter Bridge	numberOfSpans	8
+Interstate 78 Toll Bridge	numberOfSpans	7
+Glenwood B&O Railroad Bridge	numberOfSpans	3
+Bollman Truss Railroad Bridge	numberOfSpans	2
+Old Dee Bridge	numberOfSpans	7
+Waibaidu Bridge	numberOfSpans	2
+Old Bridge, Svilengrad	numberOfSpans	20
+Old Bridge, Svilengrad	numberOfSpans	21
+University Bridge (Saskatoon)	numberOfSpans	10
+Senator Sid Buckwold Bridge	numberOfSpans	3
+Margaret Hunt Hill Bridge	numberOfSpans	1870
+Circle Drive Bridge	numberOfSpans	4
+Pomeroy–Mason Bridge	numberOfSpans	10
+Clifton Hampden Bridge	numberOfSpans	6
+Donnington Bridge	numberOfSpans	1
+Hartland Bridge	numberOfSpans	7
+Canton Viaduct	numberOfSpans	71
+Tunkhannock Viaduct	numberOfSpans	10
+Ross Bridge	numberOfSpans	3
+Barwon Heads Bridge	numberOfSpans	34
+Ponte Amerigo Vespucci	numberOfSpans	3
+Pons Cestius	numberOfSpans	3
+Tees Newport Bridge	numberOfSpans	9
+Garcon Point Bridge	numberOfSpans	127
+Glen Canyon Dam Bridge	numberOfSpans	1
+Delaware River Viaduct	numberOfSpans	9
+Windsor Railway Bridge	numberOfSpans	1
+Haringvlietdam	numberOfSpans	17
+Marlow By-pass Bridge	numberOfSpans	3
+Craigmore Viaduct	numberOfSpans	18
+Untertorbrücke	numberOfSpans	3
+Pont Julien	numberOfSpans	3
+Pont-Saint-Martin (bridge)	numberOfSpans	1
+Ponte Pietra (Verona)	numberOfSpans	5
+Roman Bridge (Vaison-la-Romaine)	numberOfSpans	1
+Bayard Bridge	numberOfSpans	3
+Ponte d'Augusto (Rimini)	numberOfSpans	5
+Osney Bridge	numberOfSpans	1
+Moulsford Railway Bridge	numberOfSpans	4
+Staines Bridge	numberOfSpans	3
+Stone Bridge (Johnstown, Pennsylvania)	numberOfSpans	7
+Incheon Bridge	numberOfSpans	5
+Manette Bridge	numberOfSpans	6
+Kopu Bridge	numberOfSpans	23
+Newbridge, Oxfordshire	numberOfSpans	12
+Bewdley Bridge	numberOfSpans	3
+Theodor Heuss Bridge (Düsseldorf)	numberOfSpans	6
+M25 Runnymede Bridge	numberOfSpans	1
+Chief Standing Bear Memorial Bridge	numberOfSpans	16
+Deir ez-Zor suspension bridge	numberOfSpans	4
+Foxburg Bridge (1921)	numberOfSpans	3
+Canalside Rail Trail Bridge	numberOfSpans	3
+Red Bridge (Tasmania)	numberOfSpans	3
+Eiksund Bridge	numberOfSpans	5
+Temple Footbridge	numberOfSpans	1
+Tadpole Bridge	numberOfSpans	1
+Tenfoot Bridge	numberOfSpans	1
+Sutton Bridge, Oxfordshire	numberOfSpans	5
+Abingdon Bridge	numberOfSpans	6
+Abingdon Bridge  Burford Bridge   1	numberOfSpans	7
+Isis Bridge	numberOfSpans	3
+Moses Wheeler Bridge	numberOfSpans	34
+Dunlap's Creek Bridge	numberOfSpans	1
+Chenab Bridge	numberOfSpans	17
+Anacostia Railroad Bridge	numberOfSpans	2
+Military Order of the Purple Heart Bridge	numberOfSpans	1
+Aetnaville Bridge	numberOfSpans	4
+Charles River Bridge (Commuter Rail)	numberOfSpans	1
+Canadian Northern Ontario Railway Federal Bridge	numberOfSpans	5
+Hart's Weir Footbridge	numberOfSpans	1
+Rande Bridge	numberOfSpans	3
+Bloomers Hole Footbridge	numberOfSpans	1
+Pont Neuf, Toulouse	numberOfSpans	7
+Pont Valentré	numberOfSpans	6
+Gasworks Bridge	numberOfSpans	2
+Fleisch Bridge	numberOfSpans	1
+Arkadiko Bridge	numberOfSpans	1
+Fairfield Bridge	numberOfSpans	3
+Moselle Viaduct	numberOfSpans	6
+Shanghai Yangtze River Tunnel and Bridge	numberOfSpans	1
+Shanghai Yangtze River Tunnel and Bridge	numberOfSpans	2
+Pond Eddy Bridge	numberOfSpans	2
+Medley Footbridge	numberOfSpans	1
+University Avenue Bridge    2	numberOfSpans	4
+Hannington Bridge	numberOfSpans	3
+Castle Eaton Bridge	numberOfSpans	1
+A419 Road Bridge	numberOfSpans	1
+Meiko Nishi Ohashi roadway bridges	numberOfSpans	3
+Cricklade Town Bridge	numberOfSpans	1
+Braunstone Gate Bridge	numberOfSpans	1
+Tinkers Creek Aqueduct	numberOfSpans	2
+Umatilla Bridge	numberOfSpans	5
+Umatilla Bridge	numberOfSpans	2
+Flats Industrial Railroad	numberOfSpans	1
+Alcántara Bridge	numberOfSpans	6
+Nivedita Setu	numberOfSpans	7
+Ponte di Quintodecimo	numberOfSpans	3
+Caruthers Bridge	numberOfSpans	3
+Turners Falls Road Bridge	numberOfSpans	6
+Joseph E. Muller Bridge	numberOfSpans	7
+Springfield Terminal railroad bridge, Deerfield	numberOfSpans	3
+Bennett's Meadow Bridge	numberOfSpans	3
+Rail Bridge, Northfield, Massachusetts	numberOfSpans	4
+West Cornwall Covered Bridge	numberOfSpans	2
+Selinsgrove Bridge	numberOfSpans	16
+P.W. & B. Railroad Bridge	numberOfSpans	13
+Shaw Bridge	numberOfSpans	2
+Qasr al-Nil Bridge	numberOfSpans	7
+Tees Viaduct	numberOfSpans	68
+Reading Festival Bridge	numberOfSpans	1
+Sangarius Bridge	numberOfSpans	7
+Kichi Sipi Bridge	numberOfSpans	4
+Fred G. Redmon Bridge	numberOfSpans	2
+River Suir Bridge	numberOfSpans	5
+Aqüeducte de les Ferreres	numberOfSpans	25
+Washington Bridge (Connecticut)	numberOfSpans	12
+Aigi Bridge	numberOfSpans	9
+River Street Bridge	numberOfSpans	3
+Pont sur la Laye	numberOfSpans	3
+Roman Bridge (Saint-Thibéry)	numberOfSpans	9
+Gemarrin Bridge	numberOfSpans	3
+Pont des Marchands (Narbonne)	numberOfSpans	1
+Leontes Bridge	numberOfSpans	1
+White Bridge (Mysia)	numberOfSpans	8
+Ponte del Gran Caso	numberOfSpans	1
+Ponte di Pioraco	numberOfSpans	1
+Pont de Pierre (Aosta)	numberOfSpans	1
+Kharaba Bridge	numberOfSpans	3
+Bridge at Nimreh	numberOfSpans	1
+Pont d'Aël	numberOfSpans	1
+Ponte San Lorenzo	numberOfSpans	3
+Eurymedon Bridge (Aspendos)	numberOfSpans	9
+Ganter Bridge	numberOfSpans	8
+Limyra Bridge	numberOfSpans	28
+Nysa Bridge	numberOfSpans	1
+Turnbridge Lift Bridge	numberOfSpans	1
+Jinan Yellow River Bridge	numberOfSpans	5
+Paper Mill Village Bridge	numberOfSpans	1
+Ravenna Bridge	numberOfSpans	9
+Schierstein Bridge	numberOfSpans	6
+Breydon Viaduct	numberOfSpans	5
+McKinley Washington, Jr. Bridge	numberOfSpans	97
+Lansky station crossover	numberOfSpans	3
+Liteyny bridge, Sestroretsk	numberOfSpans	3
+London Road viaduct	numberOfSpans	27
+Makestos Bridge	numberOfSpans	13
+Puente Romano (Mérida)	numberOfSpans	60
+Chain Bridge (Massachusetts)	numberOfSpans	1
+Pont Flavien	numberOfSpans	1
+Four bridges on three support	numberOfSpans	3
+Tea Gardens-Hawks Nest Bridge	numberOfSpans	9
+Barryville–Shohola Bridge	numberOfSpans	1
+Ypsilon (bridge)	numberOfSpans	3
+Museum Covered Bridge	numberOfSpans	1
+Cardè Bridge	numberOfSpans	3
+Gallox Bridge, Dunster	numberOfSpans	2
+Infinity Bridge	numberOfSpans	10
+Kentucky Route 2014 Bridge	numberOfSpans	1
+Pergamon Bridge	numberOfSpans	2
+Karamagara Bridge	numberOfSpans	1
+Aesepus Bridge	numberOfSpans	11
+Ponte Nomentano	numberOfSpans	3
+Ponte di San Francesco	numberOfSpans	1
+Ponte Altinate	numberOfSpans	3
+Ponte Molino (Padua)	numberOfSpans	5
+Ponte Corvo (bridge)	numberOfSpans	3
+Wabash Avenue Bridge	numberOfSpans	3
+Penkalas Bridge	numberOfSpans	5
+Bluff Dale Suspension Bridge	numberOfSpans	3
+Dollis Brook Viaduct	numberOfSpans	13
+Jonathon Hulton Bridge	numberOfSpans	4
+Lennox Bridge, Glenbrook	numberOfSpans	1
+Ligovsky overpass	numberOfSpans	5
+Great River Bridge (Westfield)	numberOfSpans	2
+Southdown Road Skew Bridge	numberOfSpans	1
+Neidpath Viaduct	numberOfSpans	8
+Frederick W. Panhorst Bridge	numberOfSpans	1
+Princess of Wales Bridge	numberOfSpans	3
+Rock Creek Canyon Bridge	numberOfSpans	3
+Teesquay Millennium Footbridge	numberOfSpans	4
+Lyne Viaduct	numberOfSpans	4
+Kielder Viaduct	numberOfSpans	7
+Confusion Hill Bridges	numberOfSpans	3
+Church Street Covered Bridge	numberOfSpans	1
+Maple Street Covered Bridge	numberOfSpans	1
+Browns River Covered Bridge	numberOfSpans	1
+Gates Farm Covered Bridge	numberOfSpans	1
+Arch Bridge (Bellows Falls)	numberOfSpans	2
+Arch Bridge (Bellows Falls)	numberOfSpans	4
+Hacho Bridge	numberOfSpans	7
+East Fairfield Covered Bridge	numberOfSpans	1
+Poland Covered Bridge	numberOfSpans	1
+Grist Mill Covered Bridge	numberOfSpans	1
+Hereford Road Skew Bridge	numberOfSpans	1
+Horkstow Bridge	numberOfSpans	1
+Power House Covered Bridge	numberOfSpans	1
+Scribner Covered Bridge	numberOfSpans	1
+Hadley Parabolic Bridge	numberOfSpans	2
+Bridge in West Earl Township	numberOfSpans	3
+Galena Creek Bridge	numberOfSpans	7
+Firefighters' Memorial Bridge (Pittston)	numberOfSpans	5
+Carmine Liberta Bridge	numberOfSpans	1
+Arapsu Bridge	numberOfSpans	1
+C.L. Schmitt Bridge	numberOfSpans	3
+Ain Diwar Bridge	numberOfSpans	1
+Allegheny Aqueduct (Pittsburgh)	numberOfSpans	7
+Chamberlin Mill Covered Bridge	numberOfSpans	1
+Taoyaomen Bridge	numberOfSpans	7
+Tongji Bridge (Yuyao)	numberOfSpans	3
+Xijin Bridge	numberOfSpans	12
+Tongji Bridge (Jinhua)	numberOfSpans	13
+Chengyang Bridge	numberOfSpans	3
+Guyue Bridge	numberOfSpans	1
+Sheikh Zayed Bridge	numberOfSpans	3
+Viaducto de Montabliz	numberOfSpans	5
+Jacob Beltzhoover  Monongahela Bridge   1	numberOfSpans	8
+Third Millennium John Paul II Bridge	numberOfSpans	3
+North Bridge, Warsaw	numberOfSpans	10
+Elm Street Stone Arch Bridge	numberOfSpans	1
+Brighouse Bridge	numberOfSpans	2
+Rastrick Bridge	numberOfSpans	3
+Foxburg Bridge (2008)	numberOfSpans	4
+Ledgard Bridge	numberOfSpans	4
+Saraçhane Bridge	numberOfSpans	12
+Mill Street Stone Arch Bridge	numberOfSpans	1
+Landing Masonry Bridge	numberOfSpans	1
+Deh Cho Bridge	numberOfSpans	9
+Dickabram Bridge	numberOfSpans	14
+Dickabram Bridge	numberOfSpans	6
+Edmund Pettus Bridge	numberOfSpans	7
+Denison Bridge	numberOfSpans	9
+Lamington Bridge	numberOfSpans	11
+Sault Ste. Marie Bridge Company	numberOfSpans	9
+Manayunk Bridge	numberOfSpans	15
+Cadishead Viaduct	numberOfSpans	5
+Pecos River High Bridge	numberOfSpans	7
+Harrison Avenue Bridge	numberOfSpans	3
+Band-e Kaisar	numberOfSpans	40
+Pit River Bridge	numberOfSpans	8
+Grand Rapids Swing Bridge	numberOfSpans	4
+Solis Viaduct	numberOfSpans	11
+Wiesen Viaduct	numberOfSpans	7
+Schmittentobel Viaduct	numberOfSpans	7
+Brusio spiral viaduct	numberOfSpans	9
+Columbia Railroad Bridge	numberOfSpans	8
+Castielertobel Viaduct	numberOfSpans	3
+Vembanad Rail Bridge	numberOfSpans	132
+Spadina Crescent Bridge (Saskatoon)	numberOfSpans	1
+Jubilee Bridge (Stockton-on-Tees)	numberOfSpans	3
+Surtees Bridge	numberOfSpans	3
+Victoria Bridge (Stockton-on-Tees)	numberOfSpans	3
+Schuylkill Arsenal Railroad Bridge	numberOfSpans	9
+New Ulyanovsk Bridge	numberOfSpans	25
+Vine Street Expressway Bridge	numberOfSpans	3
+John F. Kennedy Boulevard Bridge	numberOfSpans	3
+West River Drive Bridge	numberOfSpans	3
+Eleutherna Bridge	numberOfSpans	1
+Susegana Bridge	numberOfSpans	1
+Schuylkill Expressway Bridge	numberOfSpans	6
+Tanners' Bridge	numberOfSpans	3
+Einasleigh River Bridge	numberOfSpans	33
+Little Crystal Creek Bridge	numberOfSpans	1
+Te Rewa Rewa Bridge	numberOfSpans	1
+Paton Bridge	numberOfSpans	26
+Rhodes Footbridge	numberOfSpans	1
+West Liberty Covered Bridge	numberOfSpans	1
+Benton City – Kiona Bridge	numberOfSpans	6
+Rosendale trestle	numberOfSpans	9
+Bras de la Plaine Bridge	numberOfSpans	1
+Preston Pipe Bridge	numberOfSpans	1
+Solidarity Bridge	numberOfSpans	5
+Legions of Marshal Józef Piłsudski Bridge	numberOfSpans	9
+Airport Flyover, Brisbane	numberOfSpans	12
+Hartelkering	numberOfSpans	2
+New Harmony Toll Bridge	numberOfSpans	47
+Martin Bridge	numberOfSpans	11
+Rory O'More Bridge	numberOfSpans	1
+High Road Bridge	numberOfSpans	1
+Ozimek Suspension Bridge	numberOfSpans	1
+Reiman Bridge	numberOfSpans	2
+Illinois Central Missouri River Bridge	numberOfSpans	2
+Ponte Buriano	numberOfSpans	7
+Göltzsch Viaduct	numberOfSpans	98
+Mungindi Bridge	numberOfSpans	3
+Cathedral Bridge	numberOfSpans	2
+Cathedral Bridge	numberOfSpans	4
+Yiling Bridge	numberOfSpans	2
+Maryland Bridge	numberOfSpans	5
+Holmes Creek Covered Bridge	numberOfSpans	1
+Quinlan's Covered Bridge	numberOfSpans	1
+Spade Farm Covered Bridge	numberOfSpans	1
+Pulp Mill Covered Bridge	numberOfSpans	3
+Halpin Covered Bridge	numberOfSpans	1
+Braley Covered Bridge	numberOfSpans	1
+Gifford Covered Bridge	numberOfSpans	1
+Kingsbury Covered Bridge	numberOfSpans	1
+Stony Brook Covered Bridge	numberOfSpans	1
+Northfield Falls Covered Bridge	numberOfSpans	1
+Slaughter House Covered Bridge	numberOfSpans	1
+Lower Cox Brook Covered Bridge	numberOfSpans	1
+Upper Cox Brook Covered Bridge	numberOfSpans	1
+Pine Brook Covered Bridge	numberOfSpans	1
+Great Eddy Covered Bridge	numberOfSpans	1
+Warren Covered Bridge	numberOfSpans	1
+Robbins Nest Covered Bridge	numberOfSpans	1
+Old Rhine Bridge (Constance)	numberOfSpans	3
+Nehru Setu	numberOfSpans	93
+Sequin Covered Bridge	numberOfSpans	1
+Hopkins Covered Bridge	numberOfSpans	1
+Comstock Covered Bridge (Montgomery, Vermont)	numberOfSpans	1
+Rajendra Setu	numberOfSpans	14
+Rajendra Setu	numberOfSpans	4
+West Hill Covered Bridge	numberOfSpans	1
+Fuller Covered Bridge	numberOfSpans	1
+Hutchins Covered Bridge	numberOfSpans	1
+Longley Covered Bridge	numberOfSpans	1
+Mill Covered Bridge (Belvidere, Vermont)	numberOfSpans	1
+Morgan Covered Bridge	numberOfSpans	1
+Montgomery Covered Bridge	numberOfSpans	1

@@ -1,0 +1,21 @@
+SUPER	projectStartDate	2006-04-01
+DAIDALOS	projectStartDate	2006-01-01
+BEinGRID	projectStartDate	2006-06-01
+SALERO	projectStartDate	2006-01-01
+Eurogentest	projectStartDate	2005-01-01
+Access-eGov	projectStartDate	2006-01-01
+InnoMed PredTox	projectStartDate	2005-10-01
+SOA4All	projectStartDate	2008-03-01
+SeCSE	projectStartDate	2004-09-01
+AssessGrid	projectStartDate	2006-04-01
+Large Knowledge Collider	projectStartDate	2008-04-01
+TREAT-NMD	projectStartDate	2007-01-01
+S-Cube	projectStartDate	2008-03-01
+TTC Project	projectStartDate	2010-01-01
+DARIAH	projectStartDate	2008-09-01
+PRoVisG	projectStartDate	2008-10-01
+IMAQUANIM	projectStartDate	2005-04-01
+INDECT	projectStartDate	2009-01-01
+Patent Language Translations Online	projectStartDate	2010-04-01
+FINNOV	projectStartDate	2009-03-01
+CyberEmotions	projectStartDate	2009-02-01

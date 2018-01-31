@@ -1,0 +1,51 @@
+Adrenal gland	lymph	Lumbar lymph nodes
+Ovary	lymph	Lumbar lymph nodes
+Uterus	lymph	Internal iliac lymph nodes
+Uterus	lymph	Paraaortic lymph node
+Urethra	lymph	Internal iliac lymph nodes
+Urethra	lymph	Deep inguinal lymph nodes
+Urinary bladder	lymph	External iliac lymph nodes
+Urinary bladder	lymph	Internal iliac lymph nodes
+Vagina	lymph	Internal iliac lymph nodes
+Vagina	lymph	Superficial inguinal lymph nodes
+Stomach	lymph	Preaortic lymph node
+Prostate	lymph	External iliac lymph nodes
+Prostate	lymph	Internal iliac lymph nodes
+Prostate	lymph	Sacral lymph nodes
+Thymus	lymph	Tracheobronchial lymph nodes
+Thymus	lymph	Parasternal lymph nodes
+Large intestine	lymph	Inferior mesenteric lymph nodes
+Testicle	lymph	Lumbar lymph nodes
+Perineum	lymph	Superficial inguinal lymph nodes
+Bartholin's gland	lymph	Superficial inguinal lymph nodes
+Thumb	lymph	Deltopectoral lymph nodes
+Parotid gland	lymph	Preauricular deep parotid lymph nodes
+Seminal vesicle	lymph	External iliac lymph nodes
+Seminal vesicle	lymph	Internal iliac lymph nodes
+Vas deferens	lymph	External iliac lymph nodes
+Vas deferens	lymph	Internal iliac lymph nodes
+Adrenal medulla	lymph	Lumbar lymph nodes
+Scalp	lymph	Occipital lymph nodes
+Scalp	lymph	Mastoid lymph nodes
+Axilla	lymph	Axillary lymph nodes
+Little finger	lymph	Supratrochlear lymph nodes
+Ear canal	lymph	Superficial cervical lymph nodes
+Ear canal	lymph	Deep cervical lymph nodes
+Anal canal	lymph	Superficial inguinal lymph nodes
+Occiput	lymph	Occipital lymph nodes
+Crus of clitoris	lymph	Superficial inguinal lymph nodes
+Bulb of vestibule	lymph	Superficial inguinal lymph nodes
+Adrenal adenoma	lymph	Lumbar lymph nodes
+Pelvic cavity	lymph	Internal iliac lymph nodes
+Fundus (uterus)	lymph	Superficial inguinal lymph nodes
+Superficial perineal pouch	lymph	Superficial inguinal lymph nodes
+Crus of penis	lymph	Superficial inguinal lymph nodes
+Bulb of penis	lymph	Superficial inguinal lymph nodes
+Human penis	lymph	Superficial inguinal lymph nodes
+Scrotum	lymph	Superficial inguinal lymph nodes
+Rectum	lymph	Inferior mesenteric lymph nodes
+Rectum	lymph	Pararectal lymph nodes
+Rectum	lymph	Internal iliac lymph nodes
+Rectum	lymph	Deep inguinal lymph nodes
+Fallopian tube	lymph	Lumbar lymph nodes
+Vulva	lymph	Superficial inguinal lymph nodes

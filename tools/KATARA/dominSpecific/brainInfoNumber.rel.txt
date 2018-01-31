@@ -1,0 +1,387 @@
+Entorhinal cortex	brainInfoNumber	150
+Putamen	brainInfoNumber	212
+Striatum	brainInfoNumber	207
+Broca's area	brainInfoNumber	251
+Substantia nigra	brainInfoNumber	527
+Hippocampus	brainInfoNumber	164
+Hypothalamus	brainInfoNumber	358
+Thalamus	brainInfoNumber	283
+Basal ganglia	brainInfoNumber	206
+Amygdala	brainInfoNumber	219
+Limbic system	brainInfoNumber	247
+Medulla oblongata	brainInfoNumber	695
+Pons	brainInfoNumber	538
+Brainstem	brainInfoNumber	218
+Corpus callosum	brainInfoNumber	173
+Ventricular system	brainInfoNumber	192
+Dentate gyrus	brainInfoNumber	161
+Lateral geniculate nucleus	brainInfoNumber	335
+Cingulate cortex	brainInfoNumber	141
+Anterior cingulate cortex	brainInfoNumber	143
+Cingulate sulcus	brainInfoNumber	142
+Caudate nucleus	brainInfoNumber	208
+Olfactory bulb	brainInfoNumber	261
+Parietal lobe	brainInfoNumber	77
+Precuneus	brainInfoNumber	92
+Temporal lobe	brainInfoNumber	107
+Third ventricle	brainInfoNumber	429
+Frontal lobe	brainInfoNumber	37
+Central sulcus	brainInfoNumber	29
+Occipital lobe	brainInfoNumber	122
+Extrapyramidal system	brainInfoNumber	623
+Globus pallidus	brainInfoNumber	213
+Midbrain	brainInfoNumber	445
+Cerebral peduncle	brainInfoNumber	478
+Neocortex	brainInfoNumber	754
+Rhinencephalon	brainInfoNumber	241
+Brodmann area 8	brainInfoNumber	45
+Mammillary body	brainInfoNumber	395
+Choroid plexus	brainInfoNumber	456
+Brodmann area 40	brainInfoNumber	68
+Wernicke's area	brainInfoNumber	252
+Fornix of brain	brainInfoNumber	250
+Internal capsule	brainInfoNumber	180
+Nucleus accumbens	brainInfoNumber	259
+Claustrum	brainInfoNumber	234
+Corticospinal tract	brainInfoNumber	373
+Spinothalamic tract	brainInfoNumber	114
+Supraoptic nucleus	brainInfoNumber	368
+Paraventricular nucleus of hypothalamus	brainInfoNumber	370
+Suprachiasmatic nucleus	brainInfoNumber	367
+Cerebral aqueduct	brainInfoNumber	500
+Pulvinar nuclei	brainInfoNumber	311
+Hypoglossal nucleus	brainInfoNumber	754
+Optic radiation	brainInfoNumber	529
+Medial lemniscus	brainInfoNumber	736
+Oculomotor nucleus	brainInfoNumber	483
+Solitary nucleus	brainInfoNumber	739
+Nucleus ambiguus	brainInfoNumber	762
+Medial longitudinal fasciculus	brainInfoNumber	743
+Lateral lemniscus	brainInfoNumber	605
+Ventral tegmental area	brainInfoNumber	512
+Midbrain tegmentum	brainInfoNumber	482
+Fusiform gyrus	brainInfoNumber	121
+Arcuate nucleus	brainInfoNumber	378
+Diencephalon	brainInfoNumber	271
+Limbic lobe	brainInfoNumber	1008802938
+Locus coeruleus	brainInfoNumber	578
+Marginal nucleus of spinal cord	brainInfoNumber	984
+Optic tract	brainInfoNumber	443
+Postcentral gyrus	brainInfoNumber	87
+Lateral sulcus	brainInfoNumber	30
+Fourth ventricle	brainInfoNumber	617
+Inferior frontal gyrus	brainInfoNumber	67
+Middle frontal gyrus	brainInfoNumber	66
+Superior frontal gyrus	brainInfoNumber	65
+Medial longitudinal fissure	brainInfoNumber	16
+Brodmann area 4	brainInfoNumber	1043
+Postcentral sulcus	brainInfoNumber	81
+Transverse temporal gyrus	brainInfoNumber	655
+Primary auditory cortex	brainInfoNumber	428
+Septum pellucidum	brainInfoNumber	238
+Superior temporal gyrus	brainInfoNumber	118
+Centromedian nucleus	brainInfoNumber	306
+Arcuate fasciculus	brainInfoNumber	540
+Planum temporale	brainInfoNumber	432
+Cuneate nucleus	brainInfoNumber	764
+Inferior colliculus	brainInfoNumber	467
+Superior colliculus	brainInfoNumber	456
+Median eminence	brainInfoNumber	385
+Subthalamic nucleus	brainInfoNumber	418
+Midbrain tectum	brainInfoNumber	448
+Corticobulbar tract	brainInfoNumber	371
+Epithalamus	brainInfoNumber	275
+Median aperture	brainInfoNumber	638
+Reticular activating system	brainInfoNumber	231
+Periaqueductal gray	brainInfoNumber	501
+Lateral ventricles	brainInfoNumber	191
+Pretectal area	brainInfoNumber	450
+Insular cortex	brainInfoNumber	93
+Reticular formation	brainInfoNumber	225
+Archicortex	brainInfoNumber	152
+Inferior olivary nucleus	brainInfoNumber	696
+Cerebellar vermis	brainInfoNumber	146
+Trapezoid body	brainInfoNumber	589
+Angular gyrus	brainInfoNumber	91
+Interventricular foramina (neural anatomy)	brainInfoNumber	430
+Pontine tegmentum	brainInfoNumber	548
+Thalamic reticular nucleus	brainInfoNumber	348
+Suprapineal recess	brainInfoNumber	438
+Corona radiata	brainInfoNumber	542
+Anterior lobe of cerebellum	brainInfoNumber	647
+Prefrontal cortex	brainInfoNumber	101
+Edinger-Westphal nucleus	brainInfoNumber	489
+Red nucleus	brainInfoNumber	496
+Abducens nucleus	brainInfoNumber	580
+Subfornical organ	brainInfoNumber	437
+Pituitary stalk	brainInfoNumber	388
+Pontine nuclei	brainInfoNumber	613
+Lentiform nucleus	brainInfoNumber	253
+Laterodorsal tegmental nucleus	brainInfoNumber	282
+Pars reticulata	brainInfoNumber	529
+Rhombencephalon	brainInfoNumber	531
+Myelencephalon	brainInfoNumber	695
+Metencephalon	brainInfoNumber	534
+Pedunculopontine nucleus	brainInfoNumber	495
+Spinocerebellar tract	brainInfoNumber	2137625602
+Arbor vitae (anatomy)	brainInfoNumber	689
+Cingulum (brain)	brainInfoNumber	541
+Subiculum	brainInfoNumber	170
+Thalamocortical radiations	brainInfoNumber	399
+Deep cerebellar nuclei	brainInfoNumber	679
+Inferior cerebellar peduncle	brainInfoNumber	778
+Globose nucleus	brainInfoNumber	686
+Dentate nucleus	brainInfoNumber	680
+Fastigial nucleus	brainInfoNumber	687
+Flocculonodular lobe	brainInfoNumber	676
+External capsule	brainInfoNumber	235
+Extreme capsule	brainInfoNumber	236
+Medial geniculate nucleus	brainInfoNumber	338
+Falx cerebri	brainInfoNumber	258
+Cisterna magna	brainInfoNumber	533
+Tentorium cerebelli	brainInfoNumber	261
+Stria terminalis	brainInfoNumber	268
+Cuneus	brainInfoNumber	139
+Subthalamus	brainInfoNumber	417
+Corpora quadrigemina	brainInfoNumber	324
+Brodmann area 24	brainInfoNumber	81
+Habenula	brainInfoNumber	277
+Arachnoid mater	brainInfoNumber	561
+Accessory cuneate nucleus	brainInfoNumber	765
+Allocortex	brainInfoNumber	759
+Alveus of hippocampus	brainInfoNumber	168
+Ventromedial nucleus	brainInfoNumber	381
+Flocculus (cerebellar)	brainInfoNumber	677
+Opercular part of inferior frontal gyrus	brainInfoNumber	69
+Frontal lobe epilepsy	brainInfoNumber	29
+Septal nuclei	brainInfoNumber	241
+Posterior nucleus of hypothalamus	brainInfoNumber	403
+Zona incerta	brainInfoNumber	421
+Obex	brainInfoNumber	633
+Interthalamic adhesion	brainInfoNumber	284
+Arcuate nucleus (medulla)	brainInfoNumber	772
+Perforant path	brainInfoNumber	2686
+Orbitofrontal cortex	brainInfoNumber	73
+Inferior salivatory nucleus	brainInfoNumber	761
+Paramedian pontine reticular formation	brainInfoNumber	479
+Basal forebrain	brainInfoNumber	1997
+Falx cerebelli	brainInfoNumber	259
+Organum vasculosum of lamina terminalis	brainInfoNumber	366
+Middle temporal gyrus	brainInfoNumber	119
+Inferior temporal gyrus	brainInfoNumber	120
+Parieto-occipital sulcus	brainInfoNumber	33
+Calcarine fissure	brainInfoNumber	25
+Posterior cingulate	brainInfoNumber	144
+Circumventricular organs	brainInfoNumber	1242
+Facial motor nucleus	brainInfoNumber	581
+Trochlear nucleus	brainInfoNumber	504
+Cochlear nuclei	brainInfoNumber	717
+Dorsal cochlear nucleus	brainInfoNumber	718
+Superior olivary complex	brainInfoNumber	565
+Vestibular nuclei	brainInfoNumber	711
+Trigeminal nerve nuclei	brainInfoNumber	1008020136
+Spinal trigeminal nucleus	brainInfoNumber	1015266456
+Trigeminal motor nucleus	brainInfoNumber	551
+Premotor cortex	brainInfoNumber	44
+Superior parietal lobule	brainInfoNumber	88
+Inferior parietal lobule	brainInfoNumber	89
+Anterior commissure	brainInfoNumber	187
+Gracile nucleus	brainInfoNumber	763
+Horizontal fissure of cerebellum	brainInfoNumber	658
+Lingual gyrus	brainInfoNumber	140
+Triangular part of inferior frontal gyrus	brainInfoNumber	68
+Nucleus raphe pallidus	brainInfoNumber	738
+Median raphe nucleus	brainInfoNumber	557
+Nucleus raphe magnus	brainInfoNumber	736
+Nucleus raphe obscurus	brainInfoNumber	737
+Dorsal raphe nucleus	brainInfoNumber	503
+Lamina terminalis	brainInfoNumber	190
+Tuber cinereum	brainInfoNumber	376
+Superior salivary nucleus	brainInfoNumber	585
+Dorsal striatum	brainInfoNumber	255
+Facial colliculus	brainInfoNumber	621
+Rostrum of corpus callosum	brainInfoNumber	175
+Uncus	brainInfoNumber	21
+Metathalamus	brainInfoNumber	334
+Lateral aperture	brainInfoNumber	637
+Intraparietal sulcus	brainInfoNumber	79
+Posterior commissure	brainInfoNumber	475
+Lateral vestibular nucleus	brainInfoNumber	712
+Superior vestibular nucleus	brainInfoNumber	712
+Area postrema	brainInfoNumber	769
+Rhomboid fossa	brainInfoNumber	628
+Substantia innominata	brainInfoNumber	256
+Medial forebrain bundle	brainInfoNumber	416
+Diagonal band of Broca	brainInfoNumber	267
+Ansa lenticularis	brainInfoNumber	427
+Islands of Calleja	brainInfoNumber	258
+Pars compacta	brainInfoNumber	528
+Superior cerebellar peduncle	brainInfoNumber	1289712953
+Middle cerebellar peduncle	brainInfoNumber	616
+Ventral supraoptic decussation	brainInfoNumber	372
+Stratum zonale of thalamus	brainInfoNumber	357
+Tela chorioidea of fourth ventricle	brainInfoNumber	636
+Taenia thalami	brainInfoNumber	431
+Optic recess	brainInfoNumber	440
+Posterior perforated substance	brainInfoNumber	726
+Interpeduncular fossa	brainInfoNumber	480
+Olivocerebellar tract	brainInfoNumber	801
+Sublingual nucleus	brainInfoNumber	760
+Solitary tract	brainInfoNumber	782
+Infundibular recess	brainInfoNumber	441
+Hypothalamic sulcus	brainInfoNumber	432
+Projection fibers	brainInfoNumber	219
+Commissural fiber	brainInfoNumber	221
+Commissure of fornix	brainInfoNumber	255
+Occipitofrontal fasciculus	brainInfoNumber	535
+Uncinate fasciculus	brainInfoNumber	1444
+Splenium	brainInfoNumber	178
+Superior medullary velum	brainInfoNumber	588
+Rhinal sulcus	brainInfoNumber	22
+Olfactory tract	brainInfoNumber	265
+Paraterminal gyrus	brainInfoNumber	153
+Indusium griseum	brainInfoNumber	154
+Subcallosal area	brainInfoNumber	260
+Anterior perforated substance	brainInfoNumber	264
+Frontopontine fibers	brainInfoNumber	381
+Temporopontine fibers	brainInfoNumber	384
+Sulcus limitans	brainInfoNumber	626
+Pontine raphe nucleus	brainInfoNumber	584
+Taenia of fourth ventricle	brainInfoNumber	629
+Stratum lucidum of hippocampus	brainInfoNumber	-975815906
+Dorsomedial hypothalamic nucleus	brainInfoNumber	380
+Anterior hypothalamic nucleus	brainInfoNumber	369
+Preoptic area	brainInfoNumber	360
+Lateral hypothalamus	brainInfoNumber	409
+Dorsal nucleus of vagus nerve	brainInfoNumber	752
+Anterior olfactory nucleus	brainInfoNumber	262
+Olfactory trigone	brainInfoNumber	15
+Decussation of pyramids	brainInfoNumber	796
+Pyramid (brainstem)	brainInfoNumber	702
+Fimbria of hippocampus	brainInfoNumber	169
+Superior longitudinal fasciculus	brainInfoNumber	537
+Sensory decussation	brainInfoNumber	785
+Genu of the corpus callosum	brainInfoNumber	176
+Calcar avis	brainInfoNumber	192
+Collateral eminence	brainInfoNumber	193
+Collateral fissure	brainInfoNumber	28
+Tapetum of corpus callosum	brainInfoNumber	752
+Posterolateral sulcus of medulla oblongata	brainInfoNumber	703
+Vagal trigone	brainInfoNumber	631
+Anterior median fissure of the medulla oblongata	brainInfoNumber	697
+Cerebellar tonsil	brainInfoNumber	668
+Olfactory sulcus	brainInfoNumber	60
+Ventral posterior nucleus	brainInfoNumber	326
+Tegmental pontine reticular nucleus	brainInfoNumber	563
+Lateral reticular nucleus	brainInfoNumber	724
+Ventral reticular nucleus	brainInfoNumber	730
+Parvocellular reticular nucleus	brainInfoNumber	725
+Oral pontine reticular nucleus	brainInfoNumber	560
+Caudal pontine reticular nucleus	brainInfoNumber	561
+Gigantocellular reticular nucleus	brainInfoNumber	727
+Paramedian reticular nucleus	brainInfoNumber	731
+Lateral reticular formation	brainInfoNumber	723
+Medial dorsal nucleus	brainInfoNumber	295
+Medial eminence of floor of fourth ventricle	brainInfoNumber	2137625571
+Stria medullaris of thalamus	brainInfoNumber	281
+Paleocortex	brainInfoNumber	763
+Inferior frontal sulcus	brainInfoNumber	44
+Superior frontal sulcus	brainInfoNumber	42
+Ventral anterior nucleus	brainInfoNumber	317
+Ventral lateral nucleus	brainInfoNumber	320
+Intermediolateral nucleus	brainInfoNumber	956
+Hippocampal sulcus	brainInfoNumber	23
+Medial parabrachial nucleus	brainInfoNumber	757
+Inferior medullary velum	brainInfoNumber	694
+Pontine cistern	brainInfoNumber	547
+Principal sensory nucleus of trigeminal nerve	brainInfoNumber	552
+Mesencephalic nucleus of trigeminal nerve	brainInfoNumber	550
+Subcommissural organ	brainInfoNumber	474
+Cerebral crus	brainInfoNumber	530
+Posterior median sulcus of medulla oblongata	brainInfoNumber	705
+Anterolateral sulcus of medulla	brainInfoNumber	707
+Emboliform nucleus	brainInfoNumber	685
+Straight gyrus	brainInfoNumber	76
+Lateral occipital sulcus	brainInfoNumber	125
+Paracentral lobule	brainInfoNumber	404
+Marginal sulcus	brainInfoNumber	80
+Hypoglossal trigone	brainInfoNumber	632
+Lateral recess	brainInfoNumber	639
+Anterior nuclei of thalamus	brainInfoNumber	285
+Ventral posteromedial nucleus	brainInfoNumber	330
+Ventral posterolateral nucleus	brainInfoNumber	327
+Midline nuclear group	brainInfoNumber	289
+Lateral nuclear group	brainInfoNumber	308
+Ventral nuclear group	brainInfoNumber	316
+Intralaminar nuclei of thalamus	brainInfoNumber	300
+Vestibulocerebellar tract	brainInfoNumber	611
+Lenticular fasciculus	brainInfoNumber	424
+Thalamic fasciculus	brainInfoNumber	422
+Semioval center	brainInfoNumber	172
+Basilar part of pons	brainInfoNumber	612
+Callosal sulcus	brainInfoNumber	17
+Inferior longitudinal fasciculus	brainInfoNumber	538
+Anterior white commissure	brainInfoNumber	928
+Pineal recess	brainInfoNumber	439
+Reticulospinal tract	brainInfoNumber	802
+Medial vestibular nucleus	brainInfoNumber	714
+Anterior cochlear nucleus	brainInfoNumber	719
+Retrosplenial region	brainInfoNumber	111
+Paraabducens nucleus	brainInfoNumber	1259630124
+Rostral interstitial nucleus of medial longitudinal fasciculus	brainInfoNumber	507
+Inferior vestibular nucleus	brainInfoNumber	715
+Anterior trigeminothalamic tract	brainInfoNumber	609
+Juxtarestiform body	brainInfoNumber	776
+Trigeminal lemniscus	brainInfoNumber	717
+Acoustic radiation	brainInfoNumber	393
+Lateral parabrachial nucleus	brainInfoNumber	583
+Vallecula of cerebellum	brainInfoNumber	643
+Habenular commissure	brainInfoNumber	282
+Gray commissure	brainInfoNumber	953
+Inferior horn of lateral ventricle	brainInfoNumber	204
+Posterior horn of lateral ventricle	brainInfoNumber	205
+Anterior horn of lateral ventricle	brainInfoNumber	202
+Body of lateral ventricle	brainInfoNumber	203
+Cerebellar hemisphere	brainInfoNumber	214
+Nodule of vermis	brainInfoNumber	678
+Tuber of vermis	brainInfoNumber	673
+Biventer lobule	brainInfoNumber	667
+Alar central lobule	brainInfoNumber	652
+Folium (vermis)	brainInfoNumber	672
+Central lobule	brainInfoNumber	655
+Gustatory nucleus	brainInfoNumber	465
+Posterior limb of internal capsule	brainInfoNumber	183
+Genu of internal capsule	brainInfoNumber	182
+Anterior limb of internal capsule	brainInfoNumber	181
+Lateral globus pallidus	brainInfoNumber	214
+Medial globus pallidus	brainInfoNumber	215
+Columns of fornix	brainInfoNumber	251
+Crus of fornix	brainInfoNumber	254
+Habenular trigone	brainInfoNumber	276
+Posterior lobe of cerebellum	brainInfoNumber	657
+Parabrachial nucleus	brainInfoNumber	2137625543
+Pontocerebellar fibers	brainInfoNumber	408
+Primary fissure of cerebellum	brainInfoNumber	645
+Culmen (cerebellum)	brainInfoNumber	656
+Lingula of cerebellum	brainInfoNumber	654
+Uvula of cerebellum	brainInfoNumber	675
+Dorsal trigeminal tract	brainInfoNumber	602
+Decussation of superior cerebellar peduncles	brainInfoNumber	518
+Rubro-olivary tract	brainInfoNumber	502
+Dentatothalamic tract	brainInfoNumber	525
+Trigeminocerebellar fibers	brainInfoNumber	511
+Subthalamic fasciculus	brainInfoNumber	782
+Vestibulo-oculomotor fibers	brainInfoNumber	409
+Central tegmental tract	brainInfoNumber	718
+Gustatory area	brainInfoNumber	434
+Vestibular cortex	brainInfoNumber	469
+Corticopontine fibers	brainInfoNumber	375
+Primary motor cortex	brainInfoNumber	421
+Region I of hippocampus proper	brainInfoNumber	165
+Region II of hippocampus proper	brainInfoNumber	166
+Region III of hippocampus proper	brainInfoNumber	167
+Nucleus basalis of Meynert	brainInfoNumber	257
+Line of Gennari	brainInfoNumber	163
+Interpeduncular nucleus	brainInfoNumber	478
+Rostral ventromedial medulla	brainInfoNumber	512
+Pacchionian foramen	brainInfoNumber	261

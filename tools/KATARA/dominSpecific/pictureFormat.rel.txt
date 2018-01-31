@@ -1,0 +1,2218 @@
+BBC News (TV channel)	pictureFormat	576i
+Channel 4	pictureFormat	576i
+Channel 4	pictureFormat	1080i
+Fox News Channel	pictureFormat	480i
+Fox News Channel	pictureFormat	720p
+MTV	pictureFormat	480i
+MTV	pictureFormat	1080i
+NBC	pictureFormat	480i
+NBC	pictureFormat	1080i
+BBC World News	pictureFormat	Aspect ratio (image)#16:9 standard
+CBS	pictureFormat	480i
+CBS	pictureFormat	720p
+CBS	pictureFormat	1080i
+Fox Broadcasting Company	pictureFormat	720p
+Fox Broadcasting Company	pictureFormat	480i
+American Broadcasting Company	pictureFormat	480i
+American Broadcasting Company	pictureFormat	720p
+CNN	pictureFormat	480i
+CNN	pictureFormat	1080i
+Game Show Network	pictureFormat	480i
+Game Show Network	pictureFormat	1080i
+ESPN (United States)	pictureFormat	480i
+ESPN (United States)	pictureFormat	720p
+C-SPAN	pictureFormat	480i
+C-SPAN	pictureFormat	1080i
+Discovery Channel	pictureFormat	480i
+Discovery Channel	pictureFormat	1080i
+Disney Channel	pictureFormat	480i
+Disney Channel	pictureFormat	720p
+USA Network	pictureFormat	480i
+USA Network	pictureFormat	1080i
+The Weather Channel	pictureFormat	480i
+The Weather Channel	pictureFormat	1080i
+Showtime (TV channel)	pictureFormat	480i
+Showtime (TV channel)	pictureFormat	1080i
+Ion Television	pictureFormat	480i
+Ion Television	pictureFormat	720p
+Toon Disney	pictureFormat	480i
+Toon Disney	pictureFormat	720p
+Venevisión	pictureFormat	480i
+NHK World	pictureFormat	480i
+NHK World	pictureFormat	1080i
+Nickelodeon (TV channel)	pictureFormat	480i
+Nickelodeon (TV channel)	pictureFormat	1080i
+MSNBC	pictureFormat	480i
+MSNBC	pictureFormat	1080i
+BBC Two	pictureFormat	576i
+BBC Two	pictureFormat	16:9
+Nine Network	pictureFormat	576i
+S4C	pictureFormat	576i
+S4C	pictureFormat	1080i
+Cinemax	pictureFormat	480i
+Cinemax	pictureFormat	1080i
+Channel Television	pictureFormat	576i
+BBC One	pictureFormat	576i
+BBC One	pictureFormat	576i
+BBC One	pictureFormat	1080i
+ITV1	pictureFormat	576i
+ITV1	pictureFormat	1080i
+Sky News	pictureFormat	576i
+Sky News	pictureFormat	1080i
+Sky News	pictureFormat	International
+Lifetime (TV network)	pictureFormat	480i
+Lifetime (TV network)	pictureFormat	1080i
+CNBC	pictureFormat	480i
+CNBC	pictureFormat	1080i
+CNBC Europe	pictureFormat	Aspect ratio (image)#4:3 standard
+CNBC Europe	pictureFormat	Standard-definition television
+RTÉ Two	pictureFormat	PAL
+RTÉ Two	pictureFormat	High-definition television
+CNBC Asia	pictureFormat	576i
+CNBC Asia	pictureFormat	Aspect ratio (image)#4:3 standard
+CNBC Asia	pictureFormat	1080i
+RTÉ One	pictureFormat	PAL
+TLC (TV channel)	pictureFormat	480i
+TLC (TV channel)	pictureFormat	1080i
+Comedy Central	pictureFormat	480i
+Comedy Central	pictureFormat	576i
+Comedy Central	pictureFormat	1080i
+Euronews	pictureFormat	16:9
+Euronews	pictureFormat	Standard-definition television
+Black Entertainment Television	pictureFormat	480i
+Black Entertainment Television	pictureFormat	1080i
+Black Entertainment Television	pictureFormat	1080p
+Spike (TV channel)	pictureFormat	480i
+Spike (TV channel)	pictureFormat	1080i
+Syfy (United Kingdom)	pictureFormat	Standard-definition television
+Syfy (United Kingdom)	pictureFormat	16:9
+Syfy (United Kingdom)	pictureFormat	High-definition television
+Syfy	pictureFormat	480i
+Syfy	pictureFormat	1080i
+BBC America	pictureFormat	480i
+BBC America	pictureFormat	1080i
+Anime Network	pictureFormat	480i
+Al Arabiya	pictureFormat	1080i
+Al Arabiya	pictureFormat	576i
+HLN (TV channel)	pictureFormat	480i
+HLN (TV channel)	pictureFormat	1080i
+ANT1	pictureFormat	576i
+Alter Channel	pictureFormat	Aspect ratio (image)#4:3 standard
+Alter Channel	pictureFormat	Standard-definition television
+Mega Channel	pictureFormat	Aspect ratio (image)#4:3 standard
+Mega Channel	pictureFormat	Standard-definition television
+Hellenic Broadcasting Corporation	pictureFormat	576i
+Hellenic Broadcasting Corporation	pictureFormat	576i
+Hellenic Broadcasting Corporation	pictureFormat	1080i
+Network Ten	pictureFormat	576i
+BBC Four	pictureFormat	16:9
+BBC Four	pictureFormat	BBC Online
+TVB Pearl	pictureFormat	576i
+TVB Pearl	pictureFormat	Aspect ratio (image)#4:3 standard
+Trinity Broadcasting Network	pictureFormat	480i
+Trinity Broadcasting Network	pictureFormat	720p
+Trinity Broadcasting Network	pictureFormat	1080i
+Star Channel	pictureFormat	16:9
+Star Channel	pictureFormat	Standard-definition television
+Bravo (US TV channel)	pictureFormat	480i
+Bravo (US TV channel)	pictureFormat	1080i
+The Sports Network	pictureFormat	1080i
+The Sports Network	pictureFormat	480i
+GOLD (TV channel)	pictureFormat	16:9
+GOLD (TV channel)	pictureFormat	576i
+MuchMusic	pictureFormat	1080i
+MuchMusic	pictureFormat	480i
+Showcase Diva	pictureFormat	480i
+Rogers Sportsnet	pictureFormat	Standard-definition television
+Rogers Sportsnet	pictureFormat	High-definition television
+STAR World	pictureFormat	576i
+STAR World	pictureFormat	Aspect ratio (image)#4:3 standard
+STAR World	pictureFormat	1080i
+UKTV (Australia and New Zealand)	pictureFormat	576i
+UKTV (Australia and New Zealand)	pictureFormat	1080i
+Sky1	pictureFormat	576i
+Sky1	pictureFormat	Aspect ratio (image)#4:3 standard
+Sky1	pictureFormat	1080i
+BBC Three	pictureFormat	16:9
+CBeebies	pictureFormat	16:9
+BBC Parliament	pictureFormat	16:9
+Animal Planet	pictureFormat	480i
+Animal Planet	pictureFormat	1080i
+Fox Soccer Channel	pictureFormat	480i
+Fox Soccer Channel	pictureFormat	720p
+YTV (TV channel)	pictureFormat	1080i
+YTV (TV channel)	pictureFormat	480i
+ITV2	pictureFormat	16:9
+ITV2	pictureFormat	1080i
+SVT1	pictureFormat	576i
+SVT1	pictureFormat	720p
+SVT2	pictureFormat	576i
+SVT2	pictureFormat	720p
+TV3 (Catalonia)	pictureFormat	576i
+TV3 (Ireland)	pictureFormat	576i
+TV3 (Ireland)	pictureFormat	PAL
+FX (TV channel)	pictureFormat	480i
+FX (TV channel)	pictureFormat	720p
+FX (TV channel)	pictureFormat	1080i
+SABC 1	pictureFormat	Aspect ratio (image)#4:3 standard
+SABC 1	pictureFormat	Standard-definition television
+SABC 3	pictureFormat	Aspect ratio (image)#4:3 standard
+SABC 3	pictureFormat	Standard-definition television
+SABC 2	pictureFormat	Aspect ratio (image)#4:3 standard
+SABC 2	pictureFormat	Standard-definition television
+TruTV	pictureFormat	480i
+TruTV	pictureFormat	1080i
+Abu Dhabi Al Oula	pictureFormat	Aspect ratio (image)#4:3 standard
+Abu Dhabi Al Oula	pictureFormat	Standard-definition television
+QVC	pictureFormat	480i
+QVC	pictureFormat	1080i
+W Network	pictureFormat	Standard-definition television
+Alpha TV	pictureFormat	Aspect ratio (image)#4:3 standard
+Alpha TV	pictureFormat	16:9
+Alpha TV	pictureFormat	Standard-definition television
+Seven Network	pictureFormat	576i
+New England Sports Network	pictureFormat	480i
+New England Sports Network	pictureFormat	1080i
+UTV	pictureFormat	576i
+UTV	pictureFormat	1080i
+WIN Television	pictureFormat	576i
+WIN Television	pictureFormat	1080i
+Home Shopping Network	pictureFormat	480i
+Home Shopping Network	pictureFormat	1080i
+Prime7	pictureFormat	576i
+Prime7	pictureFormat	1080i
+TF1	pictureFormat	16:9
+TF1	pictureFormat	Standard-definition television
+TF1	pictureFormat	High-definition television
+G4 (TV channel)	pictureFormat	480i
+G4 (TV channel)	pictureFormat	1080i
+DejaView	pictureFormat	480i
+CTV News Channel (Canada)	pictureFormat	Standard-definition television
+Sistema Brasileiro de Televisão	pictureFormat	480i
+Sistema Brasileiro de Televisão	pictureFormat	1080i
+News 14 Carolina	pictureFormat	16:9
+Fox8	pictureFormat	576i
+Fox8	pictureFormat	1080i
+Sky Sports News	pictureFormat	576i
+Sky Sports News	pictureFormat	576i
+Sky Sports News	pictureFormat	1080i
+Māori Television	pictureFormat	576i
+TV3 (New Zealand)	pictureFormat	576i
+TV3 (New Zealand)	pictureFormat	1080i
+Sky2	pictureFormat	576i
+Sky2	pictureFormat	Aspect ratio (image)#4:3 standard
+Film4	pictureFormat	576i
+Film4	pictureFormat	1080i
+MTV Base	pictureFormat	Aspect ratio (image)#4:3 standard
+MTV Base	pictureFormat	576i
+MTV Dance	pictureFormat	Aspect ratio (image)#4:3 standard
+MTV Dance	pictureFormat	576i
+TV5MONDE	pictureFormat	16:9
+TV5MONDE	pictureFormat	Standard-definition television
+ABC Family	pictureFormat	480i
+ABC Family	pictureFormat	1080i
+Food Network	pictureFormat	480i
+Food Network	pictureFormat	1080i
+Arte	pictureFormat	16:9
+Arte	pictureFormat	Standard-definition television
+Arte	pictureFormat	High-definition television
+Eurosport	pictureFormat	576i
+Eurosport	pictureFormat	1080i
+ESPN2	pictureFormat	480i
+ESPN2	pictureFormat	720p
+Space (TV channel)	pictureFormat	High-definition television
+Space (TV channel)	pictureFormat	480i
+NBN Television	pictureFormat	576i
+NBN Television	pictureFormat	1080i
+RTL Television	pictureFormat	Aspect ratio (image)#4:3 standard
+RTL Television	pictureFormat	Standard-definition television
+RTL Television	pictureFormat	1080i
+Flix (TV channel)	pictureFormat	480i
+Flix (TV channel)	pictureFormat	1080i
+The Movie Channel	pictureFormat	480i
+The Movie Channel	pictureFormat	1080i
+Arena (TV network)	pictureFormat	576i
+Sun Sports	pictureFormat	480i
+Sun Sports	pictureFormat	720p
+Boomerang (TV channel)	pictureFormat	480i
+Eden (TV channel)	pictureFormat	16:9
+Eden (TV channel)	pictureFormat	576i
+Eden (TV channel)	pictureFormat	1080i
+Alibi (TV channel)	pictureFormat	16:9
+Alibi (TV channel)	pictureFormat	576i
+Home (TV channel)	pictureFormat	16:9
+Home (TV channel)	pictureFormat	576i
+Good Food	pictureFormat	576i
+Good Food	pictureFormat	1080i
+Yesterday (TV channel)	pictureFormat	16:9
+Yesterday (TV channel)	pictureFormat	576i
+Dave (TV channel)	pictureFormat	16:9
+Dave (TV channel)	pictureFormat	576i
+Blighty (TV channel)	pictureFormat	16:9
+Blighty (TV channel)	pictureFormat	576i
+Antena 3 (Spain)	pictureFormat	576i
+ITV3	pictureFormat	16:9
+ITV3	pictureFormat	1080i
+History (TV channel)	pictureFormat	480i
+History (TV channel)	pictureFormat	720p
+SOAPnet	pictureFormat	480i
+Rede Globo	pictureFormat	Standard-definition television
+Rede Globo	pictureFormat	High-definition television
+Réseau de l'information	pictureFormat	480i
+Réseau de l'information	pictureFormat	1080p
+TV Land	pictureFormat	480i
+NFL Network	pictureFormat	480i
+NFL Network	pictureFormat	1080i
+Versus (TV channel)	pictureFormat	480i
+Versus (TV channel)	pictureFormat	1080i
+Nick at Nite	pictureFormat	480i
+Nick at Nite	pictureFormat	1080i
+TVtropolis	pictureFormat	480i
+The Biography Channel	pictureFormat	480i
+The Biography Channel	pictureFormat	720p
+Documentary (TV channel)	pictureFormat	Standard-definition television
+Star Plus	pictureFormat	576i
+Star Plus	pictureFormat	Aspect ratio (image)#4:3 standard
+Star Plus	pictureFormat	1080i
+Sky News Australia	pictureFormat	576i
+MTV Australia	pictureFormat	576i
+Midlands Asian Television	pictureFormat	Aspect ratio (image)#4:3 standard
+Midlands Asian Television	pictureFormat	576i
+Bold (TV channel)	pictureFormat	Standard-definition television
+Sky Living	pictureFormat	16:9
+Sky Living	pictureFormat	576i
+Sky Living	pictureFormat	1080i
+ESPNews	pictureFormat	480i
+ESPNews	pictureFormat	720p
+N-tv	pictureFormat	16:9
+N-tv	pictureFormat	Standard-definition television
+Speed (TV channel)	pictureFormat	480i
+Speed (TV channel)	pictureFormat	720p
+Speed (TV channel)	pictureFormat	576i
+Speed (TV channel)	pictureFormat	1080i
+CNN International	pictureFormat	480i
+CNN International	pictureFormat	576i
+TVN (Poland)	pictureFormat	16:9
+TVN (Poland)	pictureFormat	1080i
+Hallmark Channel	pictureFormat	480i
+Hallmark Channel	pictureFormat	1080i
+Travel Channel	pictureFormat	480i
+Travel Channel	pictureFormat	1080i
+History International	pictureFormat	480i
+History International	pictureFormat	720p
+National Geographic Channel	pictureFormat	480i
+National Geographic Channel	pictureFormat	720p
+National Geographic Channel	pictureFormat	1080i
+Nicktoons (TV channel)	pictureFormat	480i
+Nicktoons (TV channel)	pictureFormat	1080i
+Turner Classic Movies	pictureFormat	480i
+Turner Classic Movies	pictureFormat	1080i
+Country Music Television	pictureFormat	480i
+Country Music Television	pictureFormat	1080i
+Challenge (TV channel)	pictureFormat	16:9
+Challenge (TV channel)	pictureFormat	576i
+Channel M	pictureFormat	16:9
+Channel One (Russia)	pictureFormat	16:9
+The Den (television)	pictureFormat	PAL
+Japan News Network	pictureFormat	480i
+Japan News Network	pictureFormat	1080i
+Fuji News Network	pictureFormat	480i
+Fuji News Network	pictureFormat	1080i
+TV Tokyo Network	pictureFormat	480i
+TV Tokyo Network	pictureFormat	1080i
+Treehouse TV	pictureFormat	Standard-definition television
+NTV (Russia)	pictureFormat	Aspect ratio (image)#4:3 standard
+NTV (Russia)	pictureFormat	Standard-definition television
+Channel V	pictureFormat	480i
+Channel V	pictureFormat	1080i
+Bravo (UK TV channel)	pictureFormat	Aspect ratio (image)#16:9 standard
+Bravo (UK TV channel)	pictureFormat	576i
+GWN7	pictureFormat	576i
+Southern Cross Ten	pictureFormat	576i
+Southern Cross Ten	pictureFormat	1080i
+Starz (TV channel)	pictureFormat	480i
+Starz (TV channel)	pictureFormat	1080i
+VH1 MegaHits	pictureFormat	480i
+Family (TV channel)	pictureFormat	1080i
+Family (TV channel)	pictureFormat	480i
+Nickelodeon (Australia)	pictureFormat	576i
+RTL Televizija	pictureFormat	16:9
+Vtm	pictureFormat	PAL
+Vtm	pictureFormat	576i
+Vtm	pictureFormat	1080i
+The Weather Network	pictureFormat	Standard-definition television
+Jadeworld (Australia)	pictureFormat	576i
+La 2 (Spain)	pictureFormat	576i
+La 2 (Spain)	pictureFormat	Aspect ratio (image)#4:3 standard
+Prime (New Zealand)	pictureFormat	16:9
+CNN en Español	pictureFormat	480i
+CNN Airport Network	pictureFormat	480i
+France 24	pictureFormat	16:9
+France 24	pictureFormat	Standard-definition television
+Showtime movie channels	pictureFormat	576i
+Showtime movie channels	pictureFormat	1080i
+CMT (Canada)	pictureFormat	480i
+Telecinco	pictureFormat	576i
+Telecinco	pictureFormat	1080i
+L!VE TV	pictureFormat	Aspect ratio (image)#4:3 standard
+L!VE TV	pictureFormat	576i
+HDNet	pictureFormat	1080i
+Nippon News Network	pictureFormat	480i
+Nippon News Network	pictureFormat	1080i
+All-Nippon News Network	pictureFormat	480i
+All-Nippon News Network	pictureFormat	1080i
+Eternal Word Television Network	pictureFormat	480i
+Eternal Word Television Network	pictureFormat	1080i
+C7 Sport	pictureFormat	576i
+Viva (TV station)	pictureFormat	Austria
+Viva (TV station)	pictureFormat	Hungary
+Viva (TV station)	pictureFormat	United Kingdom
+NBA TV	pictureFormat	480i
+NBA TV	pictureFormat	1080i
+Price-drop tv	pictureFormat	16:9
+Price-drop tv	pictureFormat	576i
+Bid tv	pictureFormat	16:9
+Bid tv	pictureFormat	576i
+Food Network (Canada)	pictureFormat	Standard-definition television
+History Television	pictureFormat	1080i
+History Television	pictureFormat	480i
+Slice (TV channel)	pictureFormat	Standard-definition television
+The Comedy Channel	pictureFormat	576i
+The Comedy Channel	pictureFormat	576i
+CNN+	pictureFormat	576i
+WGN America	pictureFormat	480i
+WGN America	pictureFormat	1080i
+M-Net	pictureFormat	576i
+M-Net	pictureFormat	Aspect ratio (image)#4:3 standard
+M-Net	pictureFormat	720p
+M-Net	pictureFormat	16:9
+NY1	pictureFormat	Standard-definition television
+NY1	pictureFormat	480i
+NY1	pictureFormat	High-definition television
+NY1	pictureFormat	1080i
+W Movies	pictureFormat	Standard-definition television
+MSNBC Canada	pictureFormat	Standard-definition television
+Televisão Independente	pictureFormat	576i
+Televisão Independente	pictureFormat	Aspect ratio (image)#4:3 standard
+The Score Television Network	pictureFormat	Standard-definition television
+The Score Television Network	pictureFormat	High-definition television
+TV Chile	pictureFormat	Aspect ratio (image)#4:3 standard
+TV Chile	pictureFormat	Standard-definition television
+CNN Türk	pictureFormat	Aspect ratio (image)#4:3 standard
+CNN Türk	pictureFormat	Standard-definition television
+TV1 (Malaysia)	pictureFormat	PAL
+Rustavi 2	pictureFormat	Aspect ratio (image)#4:3 standard
+Alfa TV	pictureFormat	Aspect ratio (image)#4:3 standard
+Alfa TV	pictureFormat	Standard-definition television
+Fuse TV	pictureFormat	480i
+Fuse TV	pictureFormat	1080i
+A1 TV channel (Macedonia)	pictureFormat	Aspect ratio (image)#4:3 standard
+A1 TV channel (Macedonia)	pictureFormat	Standard-definition television
+Teleamazonas    1	pictureFormat	480i
+Channel 7 (Thailand)	pictureFormat	576i
+Channel 7 (Thailand)	pictureFormat	Standard-definition television
+TeleSUR	pictureFormat	480i
+MediaCorp Channel 5	pictureFormat	PAL
+MediaCorp Channel 8	pictureFormat	PAL
+E.tv	pictureFormat	Aspect ratio (image)#4:3 standard
+E.tv	pictureFormat	Standard-definition television
+ITV4	pictureFormat	16:9
+ITV4	pictureFormat	1080i
+ABC2	pictureFormat	576i
+ESPNU	pictureFormat	480i
+ESPNU	pictureFormat	720p
+TMF (UK & Ireland)	pictureFormat	Aspect ratio (image)#4:3 standard
+TMF (UK & Ireland)	pictureFormat	576i
+YNN Central New York	pictureFormat	480i
+YNN Central New York	pictureFormat	720p
+TV3 (Malaysia)	pictureFormat	PAL
+Australia Network	pictureFormat	480i
+Australia Network	pictureFormat	576i
+Fox Movie Channel	pictureFormat	480i
+Sun TV (India)	pictureFormat	MPEG-4
+TVP Polonia	pictureFormat	16:9
+TVP Polonia	pictureFormat	Standard-definition television
+TVN Meteo	pictureFormat	576i
+TVP Kultura	pictureFormat	Aspect ratio (image)#4:3 standard
+TVP Kultura	pictureFormat	16:9
+TVN24	pictureFormat	576i
+Channel NewsAsia	pictureFormat	576i
+Channel NewsAsia	pictureFormat	576i
+Channel NewsAsia	pictureFormat	1080i
+The Shopping Channel	pictureFormat	Standard-definition television
+Kanal D	pictureFormat	Aspect ratio (image)#4:3 standard
+Kanal D	pictureFormat	16:9
+Kanal D	pictureFormat	High-definition television
+ESPN Latin America	pictureFormat	480i
+ESPN Latin America	pictureFormat	720p
+Rai 1	pictureFormat	Aspect ratio (image)#4:3 standard
+Rai 1	pictureFormat	16:9
+Eén	pictureFormat	PAL
+Eén	pictureFormat	576i
+Eén	pictureFormat	720p
+Playhouse Disney	pictureFormat	480i
+Playhouse Disney	pictureFormat	720p
+RTP Internacional	pictureFormat	Aspect ratio (image)#4:3 standard
+RTP Internacional	pictureFormat	Standard-definition television
+ShopNBC	pictureFormat	480i
+YES Network	pictureFormat	480i
+YES Network	pictureFormat	1080i
+Encore (TV channel)	pictureFormat	480i
+Encore (TV channel)	pictureFormat	1080i
+MoviePlex	pictureFormat	480i
+MoviePlex	pictureFormat	1080i
+Imparja Television	pictureFormat	576i
+Weatherscan	pictureFormat	480i
+UKTV Gardens	pictureFormat	16:9
+UKTV Gardens	pictureFormat	576i
+MSG Network	pictureFormat	480i
+MSG Network	pictureFormat	1080i
+La7	pictureFormat	576i
+Bloomberg Television	pictureFormat	Aspect ratio (image)#4:3 standard
+Bloomberg Television	pictureFormat	480i
+Bloomberg Television	pictureFormat	16:9
+Bloomberg Television	pictureFormat	1080i
+Makedonia TV	pictureFormat	576i
+Chilevisión	pictureFormat	1080i
+Chilevisión	pictureFormat	480i
+GOL TV	pictureFormat	480i
+GOL TV	pictureFormat	1080i
+CNBC Arabiya	pictureFormat	Aspect ratio (image)#4:3 standard
+CNBC Arabiya	pictureFormat	Standard-definition television
+Sony Spin	pictureFormat	480i
+Science (TV channel)	pictureFormat	480i
+Science (TV channel)	pictureFormat	1080i
+Odyssey Channel	pictureFormat	PAL
+Ovation Channel	pictureFormat	576i
+Planet Green	pictureFormat	480i
+Planet Green	pictureFormat	1080i
+Venezolana de Televisión	pictureFormat	480i
+University of North Carolina at Chapel Hill Student Television	pictureFormat	480i
+2BE (TV channel)	pictureFormat	PAL
+2BE (TV channel)	pictureFormat	576i
+TV23 (Cobb County)	pictureFormat	480i
+Men & Motors	pictureFormat	Aspect ratio (image)#4:3 standard
+Discovery Real Time	pictureFormat	Aspect ratio (image)#4:3 standard
+NewsChannel 8 (cable channel)	pictureFormat	480i
+C4 (TV channel)	pictureFormat	576i
+Nederland 1	pictureFormat	576i
+Nederland 1	pictureFormat	1080i
+RTL 4	pictureFormat	576i
+KykNET	pictureFormat	Aspect ratio (image)#4:3 standard
+KykNET	pictureFormat	Standard-definition television
+Nederland 3	pictureFormat	576i
+Nederland 3	pictureFormat	1080i
+GMA Network	pictureFormat	480i
+TVE Internacional	pictureFormat	16:9
+TVE Internacional	pictureFormat	Standard-definition television
+La 1 (Spain)	pictureFormat	576i
+GMA Pinoy TV	pictureFormat	Aspect ratio (image)#4:3 standard
+GMA Pinoy TV	pictureFormat	Standard-definition television
+Showcase (TV channel)	pictureFormat	1080i
+Showcase (TV channel)	pictureFormat	480i
+Universal HD	pictureFormat	1080i
+The Filipino Channel	pictureFormat	NTSC
+La Chaîne Info	pictureFormat	16:9
+La Chaîne Info	pictureFormat	Standard-definition television
+Nile TV	pictureFormat	Aspect ratio (image)#4:3 standard
+Nile TV	pictureFormat	Standard-definition television
+W Channel (Australia)	pictureFormat	576i
+W Channel (Australia)	pictureFormat	1080i
+Calle 13 (TV channel)	pictureFormat	480i
+Calle 13 (TV channel)	pictureFormat	720p
+NET 5	pictureFormat	576i
+Al Jazeera Sports	pictureFormat	High-definition television
+TVP1	pictureFormat	Aspect ratio (image)#4:3 standard
+TVP1	pictureFormat	16:9
+Cuatro (TV channel)	pictureFormat	576i
+Comcast Network	pictureFormat	480i
+SuperSport (TV channel)	pictureFormat	576i
+SuperSport (TV channel)	pictureFormat	Aspect ratio (image)#4:3 standard
+SuperSport (TV channel)	pictureFormat	1080i
+FX (UK)	pictureFormat	576i
+FX (UK)	pictureFormat	1080i
+More4	pictureFormat	16:9
+Setanta Sports	pictureFormat	16:9
+Setanta Sports	pictureFormat	Standard-definition television
+CNBC-e	pictureFormat	Aspect ratio (image)#4:3 standard
+CNBC-e	pictureFormat	Standard-definition television
+NTV (Turkey)	pictureFormat	Aspect ratio (image)#4:3 standard
+NTV (Turkey)	pictureFormat	Standard-definition television
+CNBC World	pictureFormat	480i
+TV1 (Australia)	pictureFormat	576i
+TV Perú	pictureFormat	480i
+TV Perú	pictureFormat	1080i
+CNN International Asia Pacific	pictureFormat	576i
+CNN International Asia Pacific	pictureFormat	Aspect ratio (image)#4:3 standard
+CNN International Asia Pacific	pictureFormat	1080i
+YNN Rochester	pictureFormat	480i
+YNN Rochester	pictureFormat	1080i
+ABS-CBN News Channel	pictureFormat	480i
+ESPN America	pictureFormat	576i
+ESPN America	pictureFormat	16:9
+Quiz Call	pictureFormat	16:9
+Star TV (Turkey)	pictureFormat	Aspect ratio (image)#4:3 standard
+Star TV (Turkey)	pictureFormat	Standard-definition television
+Indigenous Community Television	pictureFormat	576i
+RTL 7 (Netherlands)	pictureFormat	576i
+RTL 7 (Netherlands)	pictureFormat	1080i
+SBS 6	pictureFormat	576i
+Scuzz	pictureFormat	16:9
+Scuzz	pictureFormat	576i
+C31 Melbourne	pictureFormat	576i
+C31 Melbourne	pictureFormat	576i
+MTV Rocks	pictureFormat	Aspect ratio (image)#4:3 standard
+MTV Rocks	pictureFormat	576i
+ABS-CBN Network	pictureFormat	480i
+Toonami (UK & Ireland)	pictureFormat	576i
+SVT24	pictureFormat	576i
+Kunskapskanalen	pictureFormat	576i
+Al Jazeera English	pictureFormat	Aspect ratio (image)#4:3 standard
+Al Jazeera English	pictureFormat	Standard-definition television
+RTP1	pictureFormat	576i
+RTP1	pictureFormat	Aspect ratio (image)#4:3 standard
+RTP1	pictureFormat	16:9
+RTP2	pictureFormat	576i
+RTP2	pictureFormat	Aspect ratio (image)#4:3 standard
+RTP2	pictureFormat	16:9
+Sociedade Independente de Comunicação	pictureFormat	576i
+Sociedade Independente de Comunicação	pictureFormat	Aspect ratio (image)#4:3 standard
+Fox Sports South	pictureFormat	480i
+Fox Sports South	pictureFormat	720p
+MBC 1	pictureFormat	1080i
+MBC 1	pictureFormat	576i
+MBC 2	pictureFormat	1080i
+MBC 2	pictureFormat	576i
+Chart Show TV	pictureFormat	16:9
+Chart Show TV	pictureFormat	576i
+Nederland 2	pictureFormat	576i
+Nederland 2	pictureFormat	1080i
+Trouble (TV channel)	pictureFormat	16:9
+Trouble (TV channel)	pictureFormat	576i
+Nickelodeon (UK & Ireland)	pictureFormat	576i
+Nickelodeon (UK & Ireland)	pictureFormat	16:9
+Nickelodeon (UK & Ireland)	pictureFormat	1080i
+Pick TV	pictureFormat	576i
+Pick TV	pictureFormat	Aspect ratio (image)#4:3 standard
+Revelation TV	pictureFormat	16:9
+Investigation Discovery	pictureFormat	480i
+Investigation Discovery	pictureFormat	1080i
+ETV Marathi	pictureFormat	576i
+SBS World News Channel	pictureFormat	16:9
+SBS Essential	pictureFormat	576i
+Aurora Community Channel	pictureFormat	576i
+SportsNet New York	pictureFormat	480i
+SportsNet New York	pictureFormat	1080i
+The LifeStyle Channel	pictureFormat	576i
+The LifeStyle Channel	pictureFormat	1080i
+Sky Livingit	pictureFormat	16:9
+Sky Livingit	pictureFormat	576i
+Hero (TV channel)	pictureFormat	480i
+Channel 10 (Israel)	pictureFormat	576i
+TV 2 Zulu	pictureFormat	16:9
+TV 2 Zulu	pictureFormat	Aspect ratio (image)#4:3 standard
+Veronica (TV channel)	pictureFormat	576i
+HGTV (Canada)	pictureFormat	1080i
+HGTV (Canada)	pictureFormat	480i
+TRT 1	pictureFormat	Aspect ratio (image)#4:3 standard
+TRT 1	pictureFormat	Standard-definition television
+TRT Haber	pictureFormat	Aspect ratio (image)#4:3 standard
+TRT Haber	pictureFormat	Standard-definition television
+Fine Living Network	pictureFormat	480i
+SCTV (Indonesia)	pictureFormat	576i
+Skai TV	pictureFormat	16:9
+Skai TV	pictureFormat	Standard-definition television
+Cinema One	pictureFormat	480i
+PBS Kids Sprout	pictureFormat	480i
+PBS Kids Sprout	pictureFormat	1080i
+MTV Brasil	pictureFormat	480i
+MTV Brasil	pictureFormat	1080i
+ComedyMax	pictureFormat	Aspect ratio (image)#4:3 standard
+ComedyMax	pictureFormat	Standard-definition television
+MBC 3	pictureFormat	Standard-definition television
+MBC 4	pictureFormat	1080i
+MBC 4	pictureFormat	576i
+DR1	pictureFormat	576i
+MTV Philippines	pictureFormat	480i
+MTV Philippines	pictureFormat	1080i
+Channel 1 (Iran)	pictureFormat	Standard-definition television
+IRIB TV5	pictureFormat	Standard-definition television
+Channel 2 (Iran)	pictureFormat	Standard-definition television
+Access 31	pictureFormat	Analog television
+Local News on Cable	pictureFormat	Aspect ratio (image)#4:3 standard
+VH1 (UK & Ireland)	pictureFormat	Aspect ratio (image)#4:3 standard
+VH1 (UK & Ireland)	pictureFormat	576i
+SVTB	pictureFormat	576i
+TV 2 Film	pictureFormat	Aspect ratio (image)#4:3 standard
+TV 2 Film	pictureFormat	16:9
+Television Sydney	pictureFormat	576i
+New England Cable News	pictureFormat	480i
+New England Cable News	pictureFormat	1080i
+Top Channel	pictureFormat	576i
+Top Channel	pictureFormat	1080i
+Via X	pictureFormat	576i
+Zona Latina	pictureFormat	480i
+44 Adelaide	pictureFormat	576i
+The Biography Channel (Canada)	pictureFormat	480i
+OLN	pictureFormat	1080i
+OLN	pictureFormat	480i
+Al Ekhbariya	pictureFormat	Aspect ratio (image)#4:3 standard
+The Vault (TV channel)	pictureFormat	16:9
+The Vault (TV channel)	pictureFormat	Pillarbox
+The Vault (TV channel)	pictureFormat	576i
+DIY Network	pictureFormat	480i
+DIY Network	pictureFormat	1080i
+Hope Channel	pictureFormat	480i
+Fox Latin America	pictureFormat	480i
+Fox Latin America	pictureFormat	720p
+N24 (Germany)	pictureFormat	16:9
+Canterbury Television	pictureFormat	PAL
+BVN	pictureFormat	16:9
+BVN	pictureFormat	Standard-definition television
+Michigan Government Television	pictureFormat	480i
+Syfy Universal (France)	pictureFormat	16:9
+Syfy Universal (France)	pictureFormat	Aspect ratio (image)#4:3 standard
+Syfy Universal (France)	pictureFormat	576i
+Syfy Universal (France)	pictureFormat	1080i
+CITV	pictureFormat	576i
+CITV	pictureFormat	16:9
+Cue TV	pictureFormat	PAL
+VH1 Uno	pictureFormat	480i
+Fox College Sports	pictureFormat	480i
+Fox College Sports	pictureFormat	720p
+ERT World	pictureFormat	Aspect ratio (image)#4:3 standard
+ERT World	pictureFormat	Standard-definition television
+Lifestyle Network	pictureFormat	480i
+Tennis Channel	pictureFormat	480i
+Tennis Channel	pictureFormat	1080i
+ETC (TV channel)	pictureFormat	480i
+Rede Manchete	pictureFormat	480i
+VT4	pictureFormat	PAL
+VT4	pictureFormat	576i
+CBS Sports Network	pictureFormat	480i
+CBS Sports Network	pictureFormat	1080i
+Canal 24 Horas	pictureFormat	576i
+NTV (Bangladesh)	pictureFormat	Aspect ratio (image)#4:3 standard
+NTV (Bangladesh)	pictureFormat	Standard-definition television
+Televisión de Galicia	pictureFormat	576i
+Fox Deportes	pictureFormat	480i
+ESPN Deportes	pictureFormat	480i
+ESPN Deportes	pictureFormat	720p
+Channel 2 (Israel)	pictureFormat	576i
+National Geographic Channel (Canada)	pictureFormat	1080i
+National Geographic Channel (Canada)	pictureFormat	480i
+Max (channel)	pictureFormat	576i
+MHz WorldView	pictureFormat	480i
+HD Theater	pictureFormat	1080i
+Altitude Sports and Entertainment	pictureFormat	480i
+Altitude Sports and Entertainment	pictureFormat	1080i
+Fuel TV	pictureFormat	480i
+Fuel TV	pictureFormat	720p
+Outdoor Channel	pictureFormat	480i
+Outdoor Channel	pictureFormat	1080i
+NuvoTV	pictureFormat	480i
+Hallmark Movie Channel	pictureFormat	480i
+Hallmark Movie Channel	pictureFormat	1080i
+4SD	pictureFormat	480i
+4SD	pictureFormat	1080i
+MavTV	pictureFormat	480i
+MavTV	pictureFormat	1080i
+Living (New Zealand TV channel)	pictureFormat	16:9
+Food Television	pictureFormat	16:9
+Rave HD	pictureFormat	1080i
+Atv (Turkey)	pictureFormat	Aspect ratio (image)#4:3 standard
+Atv (Turkey)	pictureFormat	Standard-definition television
+TV One (New Zealand)	pictureFormat	576i
+TV One (New Zealand)	pictureFormat	1080i
+Fox News Channel controversies	pictureFormat	480i
+Fox News Channel controversies	pictureFormat	High-definition television
+The Africa Channel	pictureFormat	Aspect ratio (image)#4:3 standard
+MTV Ireland	pictureFormat	Aspect ratio (image)#4:3 standard
+MTV Ireland	pictureFormat	576i
+The Box (New Zealand)	pictureFormat	16:9
+ET1 (Greece)	pictureFormat	576i
+ET1 (Greece)	pictureFormat	Aspect ratio (image)#4:3 standard
+ET1 (Greece)	pictureFormat	16:9
+New Hellenic Television	pictureFormat	576i
+New Hellenic Television	pictureFormat	Aspect ratio (image)#4:3 standard
+New Hellenic Television	pictureFormat	16:9
+ET3 (Greece)	pictureFormat	576i
+ET3 (Greece)	pictureFormat	Aspect ratio (image)#4:3 standard
+ET3 (Greece)	pictureFormat	16:9
+2nd Avenue	pictureFormat	480i
+Audi Channel	pictureFormat	Aspect ratio (image)#4:3 standard
+Audi Channel	pictureFormat	576i
+Jack TV	pictureFormat	480i
+MK (channel)	pictureFormat	Aspect ratio (image)#4:3 standard
+MK (channel)	pictureFormat	Standard-definition television
+The CW Television Network	pictureFormat	480i
+The CW Television Network	pictureFormat	720p
+The CW Television Network	pictureFormat	1080i
+Canvas (Belgium)	pictureFormat	PAL
+Canvas (Belgium)	pictureFormat	576i
+Canvas (Belgium)	pictureFormat	720p
+Headlines Today	pictureFormat	480i
+DOC: The Documentary Channel	pictureFormat	480i
+UTV2	pictureFormat	576i
+Ketnet	pictureFormat	PAL
+Ketnet	pictureFormat	576i
+Ketnet	pictureFormat	720p
+Rede Record	pictureFormat	480i
+Rede Record	pictureFormat	1080i
+News Now 53	pictureFormat	480i
+Nova Cinema (Greece)	pictureFormat	576i
+Nova Cinema (Greece)	pictureFormat	Aspect ratio (image)#4:3 standard
+Nova Cinema (Greece)	pictureFormat	1080i
+Nova Sports	pictureFormat	576i
+Nova Sports	pictureFormat	Aspect ratio (image)#4:3 standard
+Nova Sports	pictureFormat	1080i
+Vouli Tileorasi	pictureFormat	576i
+Vouli Tileorasi	pictureFormat	Aspect ratio (image)#4:3 standard
+Rialto Channel	pictureFormat	16:9
+MyNetworkTV	pictureFormat	480i
+MyNetworkTV	pictureFormat	720p
+MyNetworkTV	pictureFormat	1080i
+Bravo 2	pictureFormat	Aspect ratio (image)#16:9 standard
+Bravo 2	pictureFormat	576i
+CCTV-5	pictureFormat	Aspect ratio (image)#4:3 standard
+Disney Channel (UK & Ireland)	pictureFormat	Aspect ratio (image)#4:3 standard
+Disney Channel (UK & Ireland)	pictureFormat	16:9
+Cine5	pictureFormat	Aspect ratio (image)#4:3 standard
+Cine5	pictureFormat	Standard-definition television
+SportsTime Ohio	pictureFormat	480i
+SportsTime Ohio	pictureFormat	1080i
+RTL 5	pictureFormat	576i
+Horror Channel	pictureFormat	576i
+Horror Channel	pictureFormat	576i
+MTV India	pictureFormat	480i
+MTV India	pictureFormat	1080i
+Sirasa TV	pictureFormat	Analog television
+Disney Cinemagic (UK & Ireland)	pictureFormat	576i
+Disney Cinemagic (UK & Ireland)	pictureFormat	Aspect ratio (image)#4:3 standard
+Disney Cinemagic (UK & Ireland)	pictureFormat	1080i
+Canal Clásico	pictureFormat	576i
+Teledeporte	pictureFormat	576i
+Cultural·es	pictureFormat	PAL
+SIC Radical	pictureFormat	Aspect ratio (image)#4:3 standard
+SIC Radical	pictureFormat	Standard-definition television
+Cartoon Network (UK & Ireland)	pictureFormat	576i
+Fox Sports (Australia)	pictureFormat	Aspect ratio (image)
+Fox Sports (Australia)	pictureFormat	576i
+Fox Sports (Australia)	pictureFormat	16:9
+Fox Sports (Australia)	pictureFormat	1080i
+Persian Music Channel	pictureFormat	Standard-definition television
+BBC HD	pictureFormat	1080i
+Queens Public Television	pictureFormat	480i
+TV2 (New Zealand)	pictureFormat	576i
+TV2 (New Zealand)	pictureFormat	1080i
+Speed auction tv	pictureFormat	16:9
+Speed auction tv	pictureFormat	576i
+TV Cultura	pictureFormat	Standard-definition television
+TV Cultura	pictureFormat	High-definition television
+RedeTV!	pictureFormat	480i
+RedeTV!	pictureFormat	1080i
+5 Kanal (Ukraine)	pictureFormat	576i
+Pershyi Natsionalnyi (Ukraine)	pictureFormat	576i
+Sportsman Channel	pictureFormat	480i
+Sportsman Channel	pictureFormat	1080i
+JCTV	pictureFormat	480i
+Abu Dhabi TV (Canada)	pictureFormat	Aspect ratio (image)#4:3 standard
+Abu Dhabi TV (Canada)	pictureFormat	Standard-definition television
+Globovisión	pictureFormat	480i
+BFM TV	pictureFormat	16:9
+BFM TV	pictureFormat	Standard-definition television
+HBO	pictureFormat	480i
+HBO	pictureFormat	1080i
+Cartoon Network (Philippines)	pictureFormat	480i
+Cartoon Network (Philippines)	pictureFormat	1080i
+TV One (US TV network)	pictureFormat	480i
+TV One (US TV network)	pictureFormat	1080i
+Duna TV	pictureFormat	16:9
+Duna TV	pictureFormat	Standard-definition television
+The Amp	pictureFormat	PAL
+The Amp	pictureFormat	16:9
+The Amp	pictureFormat	Pillarbox
+Nicktoons (UK & Ireland)	pictureFormat	576i
+Nicktoons (UK & Ireland)	pictureFormat	16:9
+TVR1	pictureFormat	576i
+Trojan Vision	pictureFormat	1080i
+ORF eins	pictureFormat	576i
+ORF eins	pictureFormat	720p
+Sky Box Office (New Zealand)	pictureFormat	16:9
+Channel S	pictureFormat	Aspect ratio (image)#4:3 standard
+Channel S	pictureFormat	Standard-definition television
+TV4 (Sweden)	pictureFormat	576i
+TV4 (Sweden)	pictureFormat	1080i
+HBO Asia	pictureFormat	480i
+HBO Asia	pictureFormat	1080i
+MAX Asia	pictureFormat	480i
+BEN Television	pictureFormat	576i
+TCM 2	pictureFormat	Aspect ratio (image)#4:3 standard
+TCM 2	pictureFormat	576i
+Qubo	pictureFormat	480i
+CatholicTV	pictureFormat	480i
+CatholicTV	pictureFormat	1080i
+Universal Channel (UK)	pictureFormat	16:9
+Universal Channel (UK)	pictureFormat	576i
+Universal Channel (UK)	pictureFormat	16:9
+Universal Channel (UK)	pictureFormat	1080i
+TV 2 News	pictureFormat	16:9
+Flaunt (TV channel)	pictureFormat	16:9
+Flaunt (TV channel)	pictureFormat	576i
+ONE Television	pictureFormat	576i
+MTV (New Zealand)	pictureFormat	576i
+RT (TV network)	pictureFormat	Aspect ratio (image)#4:3 standard
+RT (TV network)	pictureFormat	Standard-definition television
+Disney XD (UK & Ireland)	pictureFormat	Aspect ratio (image)#4:3 standard
+Disney XD (UK & Ireland)	pictureFormat	16:9
+Disney XD (UK & Ireland)	pictureFormat	1080i
+Disney XD (UK & Ireland)	pictureFormat	16:9
+MTV Italy	pictureFormat	576i
+Travel Channel (UK)	pictureFormat	PAL
+Travel Channel (UK)	pictureFormat	16:9
+5USA	pictureFormat	576i
+5USA	pictureFormat	Aspect ratio (image)#4:3 standard
+5*	pictureFormat	576i
+5*	pictureFormat	Aspect ratio (image)#4:3 standard
+ITV1 HD	pictureFormat	16:9
+ITV1 HD	pictureFormat	1080i
+LaSexta	pictureFormat	576i
+LaSexta	pictureFormat	1080p
+ANT1 Prime	pictureFormat	Aspect ratio (image)#4:3 standard
+ANT1 Prime	pictureFormat	Standard-definition television
+Nick Jr. 2	pictureFormat	576i
+SIC Notícias	pictureFormat	Aspect ratio (image)#4:3 standard
+SIC Notícias	pictureFormat	Standard-definition television
+TV6 (Sweden)	pictureFormat	576i
+STAR Vijay	pictureFormat	1080i
+Rock TV	pictureFormat	Aspect ratio (image)#4:3 standard
+Fuel TV Australia	pictureFormat	576i
+Fox Sports News	pictureFormat	576i
+Al-Alam News Network	pictureFormat	Standard-definition television
+Fox Sports Detroit	pictureFormat	480i
+Fox Sports Detroit	pictureFormat	720p
+RTV (Bangladesh)	pictureFormat	Aspect ratio (image)#4:3 standard
+RTV (Bangladesh)	pictureFormat	Standard-definition television
+STAR Ananda	pictureFormat	576i
+STAR Ananda	pictureFormat	Aspect ratio (image)#4:3 standard
+STAR Ananda	pictureFormat	1080i
+Toon Disney (UK & Ireland)	pictureFormat	576i
+Canal+ (Spain)	pictureFormat	576p
+Canal+ (Spain)	pictureFormat	1080i
+Solar Sports	pictureFormat	480i
+Zone Reality	pictureFormat	Aspect ratio (image)#4:3 standard
+Warner Channel	pictureFormat	480i
+Warner Channel	pictureFormat	1080i
+TV da Gente	pictureFormat	480i
+Smile of a Child TV	pictureFormat	480i
+Smile of a Child TV	pictureFormat	720p
+Smile of a Child TV	pictureFormat	1080p
+Tele 5	pictureFormat	Aspect ratio (image)#4:3 standard
+Tele 5	pictureFormat	16:9
+Palladia	pictureFormat	1080i
+Mehtap TV	pictureFormat	Aspect ratio (image)#4:3 standard
+Mehtap TV	pictureFormat	Standard-definition television
+Dost TV	pictureFormat	Aspect ratio (image)#4:3 standard
+Dost TV	pictureFormat	Standard-definition television
+Naţional TV	pictureFormat	576i
+TVP2	pictureFormat	Aspect ratio (image)#4:3 standard
+TVP2	pictureFormat	16:9
+F1 Digital+	pictureFormat	576i
+Nick Jr. (UK & Ireland)	pictureFormat	576i
+VH1 Brasil	pictureFormat	480i
+VH1 Brasil	pictureFormat	1080i
+JSTV    1	pictureFormat	Aspect ratio (image)#4:3 standard
+JSTV    1	pictureFormat	576i
+National Geographic Channel (UK)	pictureFormat	576i
+National Geographic Channel (UK)	pictureFormat	1080i
+Turner Classic Movies (UK & Ireland)	pictureFormat	Aspect ratio (image)#4:3 standard
+Turner Classic Movies (UK & Ireland)	pictureFormat	576i
+TBN Enlace USA	pictureFormat	480i
+Discovery Channel (UK TV channel)	pictureFormat	16:9
+Discovery Channel (UK TV channel)	pictureFormat	576i
+Discovery Channel (UK TV channel)	pictureFormat	1080i
+Big Ten Network	pictureFormat	480i
+Big Ten Network	pictureFormat	720p
+Kurdistan TV	pictureFormat	Aspect ratio (image)#4:3 standard
+Kurdistan TV	pictureFormat	Standard-definition television
+Parliament TV	pictureFormat	576i
+TVW (Washington)	pictureFormat	576i
+The Rugby Channel	pictureFormat	16:9
+I-CABLE News Channel (Hong Kong)	pictureFormat	576i
+Tolo TV	pictureFormat	576i
+TVNZ 7	pictureFormat	576i
+Show TV	pictureFormat	Aspect ratio (image)#4:3 standard
+Show TV	pictureFormat	Standard-definition television
+Animax Asia	pictureFormat	480i
+Animax Asia	pictureFormat	Aspect ratio (image)#4:3 standard
+Sky Channel (Australia)	pictureFormat	576i
+Blue (TV channel)	pictureFormat	Aspect ratio (image)#4:3 standard
+Blue (TV channel)	pictureFormat	Standard-definition television
+Milkshake!	pictureFormat	576i
+Milkshake!	pictureFormat	Aspect ratio (image)#4:3 standard
+MTV Latin America	pictureFormat	480i
+Crime & Investigation Network (UK)	pictureFormat	16:9
+Crime & Investigation Network (UK)	pictureFormat	576i
+Crime & Investigation Network (UK)	pictureFormat	1080i
+TW3 (Albany, NY)	pictureFormat	Aspect ratio (image)#4:3 standard
+Setanta Ireland	pictureFormat	576i
+Setanta Ireland	pictureFormat	1080i
+VH1 Classic (UK & Ireland)	pictureFormat	Aspect ratio (image)#4:3 standard
+VH1 Classic (UK & Ireland)	pictureFormat	576i
+Sky News New Zealand	pictureFormat	16:9
+K3 (television)	pictureFormat	16:9
+E4 (channel)	pictureFormat	16:9
+E4 (channel)	pictureFormat	1080i
+MTV Hits (UK & Ireland)	pictureFormat	Aspect ratio (image)#4:3 standard
+MTV Hits (UK & Ireland)	pictureFormat	576i
+DiziMax	pictureFormat	Aspect ratio (image)#4:3 standard
+DiziMax	pictureFormat	Standard-definition television
+DiziMax	pictureFormat	720p
+DiziMax	pictureFormat	1080i
+Nickelodeon (New Zealand)	pictureFormat	576i
+Shoptime	pictureFormat	Standard-definition television
+Spotlight (cable TV)	pictureFormat	480i
+Nick Jr. (Australia)	pictureFormat	576i
+Disney Channel (Australia)	pictureFormat	576i
+Motors TV	pictureFormat	Aspect ratio (image)#16:9 standard
+Cubavision International	pictureFormat	480i
+TV Warehouse	pictureFormat	16:9
+TV Warehouse	pictureFormat	576i
+CCTV-4	pictureFormat	Aspect ratio (image)#4:3 standard
+CCTV-4	pictureFormat	Standard-definition television
+MountainWest Sports Network	pictureFormat	480i
+MountainWest Sports Network	pictureFormat	1080i
+Fox Sports West and Prime Ticket	pictureFormat	480i
+Fox Sports West and Prime Ticket	pictureFormat	720p
+Tr3s (TV network)	pictureFormat	480i
+Cartoon Network (Australia)	pictureFormat	576i
+Afghan TV	pictureFormat	Standard-definition television
+BBC Entertainment	pictureFormat	576i
+SIC Mulher	pictureFormat	Aspect ratio (image)#4:3 standard
+SIC Mulher	pictureFormat	Standard-definition television
+ABC1	pictureFormat	576i
+Astro Ria	pictureFormat	576i
+MTV Ukraine	pictureFormat	576i
+TVN 7	pictureFormat	576i
+TVN 7	pictureFormat	1080i
+Sportitalia	pictureFormat	Aspect ratio (image)#4:3 standard
+Disney Junior (UK & Ireland)	pictureFormat	576i
+Disney Junior (UK & Ireland)	pictureFormat	16:9
+Disney Junior (UK & Ireland)	pictureFormat	Standard-definition television
+TV Canaria	pictureFormat	576i
+TV Canaria 2	pictureFormat	576i
+NHL Network (United States)	pictureFormat	480i
+NHL Network (United States)	pictureFormat	1080i
+Boomerang (Australian TV channel)	pictureFormat	576i
+Oh!	pictureFormat	Aspect ratio (image)#4:3 standard
+TV-6 (Russia)	pictureFormat	576i
+TVS (Russia)	pictureFormat	576i
+ANT1 Cyprus	pictureFormat	16:9
+ANT1 Cyprus	pictureFormat	Standard-definition television
+SIC Internacional	pictureFormat	Aspect ratio (image)#4:3 standard
+SIC Internacional	pictureFormat	Standard-definition television
+FB TV	pictureFormat	Aspect ratio (image)#4:3 standard
+FB TV	pictureFormat	Standard-definition television
+FOX (Portugal)	pictureFormat	576i
+FOX (Portugal)	pictureFormat	720p
+FOX (Portugal)	pictureFormat	16:9
+TV3 (Sweden)	pictureFormat	576i
+Australian Christian Channel	pictureFormat	576i
+Sci Fi Channel (Australia)	pictureFormat	576i
+National Geographic Adventure (TV channel)	pictureFormat	16:9
+National Geographic Adventure (TV channel)	pictureFormat	Standard-definition television
+National Geographic Adventure (TV channel)	pictureFormat	16:9
+National Geographic Adventure (TV channel)	pictureFormat	High-definition television
+BBC Knowledge (Worldwide)	pictureFormat	576i
+BBC Knowledge (Worldwide)	pictureFormat	1080i
+Basketball TV	pictureFormat	480i
+Sky TG24	pictureFormat	Aspect ratio (image)#16:9 standard
+Disney Channel Asia	pictureFormat	480i
+Disney Channel Asia	pictureFormat	576i
+Disney Channel Asia	pictureFormat	720p
+SportSouth	pictureFormat	480i
+SportSouth	pictureFormat	720p
+MTV France	pictureFormat	576i
+TV 2 Charlie	pictureFormat	16:9 / 4:3
+Sony Entertainment Television (Latin America)	pictureFormat	480i
+Sony Entertainment Television (Latin America)	pictureFormat	1080i
+ABC Kids Channel	pictureFormat	576i
+TRT 3	pictureFormat	Aspect ratio (image)#4:3 standard
+TRT 3	pictureFormat	Standard-definition television
+Fly TV	pictureFormat	576i
+Metro Sports	pictureFormat	480i
+Metro Sports	pictureFormat	1080i
+SBS One	pictureFormat	576i
+SBS One	pictureFormat	720p
+MTV Türkiye	pictureFormat	Aspect ratio (image)#4:3 standard
+MTV Türkiye	pictureFormat	Standard-definition television
+Nikkei CNBC	pictureFormat	480i
+Rede Bandeirantes	pictureFormat	Standard-definition television
+Rede Bandeirantes	pictureFormat	High-definition television
+ESPN Classic (UK)	pictureFormat	Aspect ratio (image)#4:3 standard
+ESPN Classic (UK)	pictureFormat	Standard-definition television
+Canal+ Film HD	pictureFormat	1080p
+Audience Network	pictureFormat	480i
+Audience Network	pictureFormat	720p
+Seven Guide	pictureFormat	576i
+Nepal Television	pictureFormat	Aspect ratio (image)#4:3 standard
+ATV World	pictureFormat	576i
+Sport TV	pictureFormat	16:9
+Sport TV	pictureFormat	576i
+Sport TV	pictureFormat	720p
+BBC One Northern Ireland	pictureFormat	576i
+BBC Two Wales	pictureFormat	576i
+BBC Two Wales	pictureFormat	16:9
+IRINN	pictureFormat	Aspect ratio (image)#4:3 standard
+Create (TV network)	pictureFormat	480i
+Nickelodeon (South East Asia)	pictureFormat	480i
+MSG Plus	pictureFormat	480i
+MSG Plus	pictureFormat	1080i
+Expo Channel	pictureFormat	576i
+Expo Channel	pictureFormat	16:9
+TVSN	pictureFormat	16:9
+TVSN	pictureFormat	16:9
+1+1	pictureFormat	576i
+TV8 (Sweden)	pictureFormat	576i
+Rai News	pictureFormat	Aspect ratio (image)#4:3 standard
+Saudi T.V. Channel II	pictureFormat	Aspect ratio (image)#4:3 standard
+4FSU	pictureFormat	480i
+Nine Guide	pictureFormat	576i
+Bohemia Visual Music	pictureFormat	480i
+EastLink TV	pictureFormat	Standard-definition television
+Ten Guide	pictureFormat	576i
+DeeJay TV	pictureFormat	Aspect ratio (image)#4:3 standard
+ESPN Australia	pictureFormat	576i
+ESPN Australia	pictureFormat	720p
+ESPN Australia  ESPN HD Australia   1	pictureFormat	16:9
+ESPN Australia  ESPN HD Australia   1	pictureFormat	720p
+ESPN Australia  ESPN 3D Australia   1	pictureFormat	16:9
+ESPN Australia  ESPN 3D Australia   1	pictureFormat	1080i
+Ariana TV	pictureFormat	Standard-definition television
+MTV Japan	pictureFormat	480i
+MTV Japan	pictureFormat	1080i
+Foxtel On Demand	pictureFormat	576i
+Foxtel On Demand	pictureFormat	1080i
+DMAX (TV channel)	pictureFormat	576i
+TSN2	pictureFormat	Standard-definition television
+TSN2	pictureFormat	High-definition television
+RTMi	pictureFormat	576i
+CNBC Africa	pictureFormat	Aspect ratio (image)#4:3 standard
+CNBC Africa	pictureFormat	Standard-definition television
+Fox Sports Southwest	pictureFormat	480i
+Fox Sports Southwest	pictureFormat	720p
+CUNY TV	pictureFormat	Standard-definition television
+TV4 HD (Sweden)	pictureFormat	1080i
+SVT HD	pictureFormat	16:9
+SVT HD	pictureFormat	720p
+STV (TV network)	pictureFormat	576i
+STV (TV network)	pictureFormat	1080i
+Russia 1	pictureFormat	576i
+RTP Madeira	pictureFormat	576i
+RTP Madeira	pictureFormat	Aspect ratio (image)#4:3 standard
+RTP Madeira	pictureFormat	16:9
+Fox Business Network	pictureFormat	480i
+Fox Business Network	pictureFormat	720p
+Channel V Australia	pictureFormat	576i
+Virgin Central	pictureFormat	576i
+VIJFtv	pictureFormat	PAL
+VIJFtv	pictureFormat	576i
+Rockworld TV	pictureFormat	576i
+Fearnet	pictureFormat	480i
+Fearnet	pictureFormat	1080i
+Yes Drama	pictureFormat	576i
+Yes Drama	pictureFormat	Aspect ratio (image)#4:3 standard
+Yes Drama	pictureFormat	1080i
+Yes Action	pictureFormat	576i
+Yes Action	pictureFormat	Aspect ratio (image)#4:3 standard
+Yes Action	pictureFormat	1080i
+Yes Base	pictureFormat	576i
+Axess TV	pictureFormat	576i
+Channel NSW	pictureFormat	576i
+Discovery Channel (Australia)	pictureFormat	576i
+Discovery Channel (Australia)	pictureFormat	720p
+ION Life	pictureFormat	480i
+ION Life	pictureFormat	720p
+KMSU (Minot)	pictureFormat	Aspect ratio (image)#4:3 standard
+E2 (TV channel)	pictureFormat	Aspect ratio (image)#4:3 standard
+E2 (TV channel)	pictureFormat	Standard-definition television
+MBC Action	pictureFormat	1080i
+MBC Action	pictureFormat	576i
+La Sept	pictureFormat	576i
+UCTV (University of Connecticut)	pictureFormat	Standard-definition television
+Discovery Turbo (UK TV channel)	pictureFormat	576i
+Turner Classic Movies (Asia)	pictureFormat	576i
+Turner Classic Movies (Asia)	pictureFormat	16:9
+MTV Southeast Asia	pictureFormat	480i
+Inter (TV channel)	pictureFormat	576i
+TVN (Australia)	pictureFormat	576i
+Sky Racing	pictureFormat	576i
+Telecare (TV channel)	pictureFormat	480i
+TV Puls	pictureFormat	Aspect ratio (image)
+OTV (Lebanon)	pictureFormat	Aspect ratio (image)#4:3 standard
+OTV (Lebanon)	pictureFormat	Standard-definition television
+National Geographic Wild	pictureFormat	576i
+National Geographic Wild	pictureFormat	1080i
+National Geographic Wild	pictureFormat	480i
+National Geographic Wild	pictureFormat	720p
+STAR One	pictureFormat	576i
+MyTalk	pictureFormat	576i
+Southern Cross Television	pictureFormat	576i
+Southern Cross Television	pictureFormat	1080i
+Rada TV	pictureFormat	576i
+Retro (TV channel)	pictureFormat	480i
+DZMM TeleRadyo	pictureFormat	480i
+Leonardo (TV channel)	pictureFormat	Aspect ratio (image)#4:3 standard
+Nickelodeon (Netherlands & Flanders)	pictureFormat	576i
+Nickelodeon (Netherlands & Flanders)	pictureFormat	Aspect ratio (image)#4:3 standard
+Pink Plus	pictureFormat	Aspect ratio (image)#4:3 standard
+Pink Plus	pictureFormat	Standard-definition television
+Megasport	pictureFormat	576i
+Gospel Music Channel	pictureFormat	480i
+Gospel Music Channel	pictureFormat	1080i
+Rusiya Al-Yaum	pictureFormat	Aspect ratio (image)#4:3 standard
+Rusiya Al-Yaum	pictureFormat	Standard-definition television
+TVP Sport	pictureFormat	576i
+Eurosport 2  HD   1	pictureFormat	16:9
+Peace TV	pictureFormat	576i
+The Jewellery Channel	pictureFormat	576i
+XLEAGUE.TV	pictureFormat	576i
+Clan TVE	pictureFormat	576i
+Neox (TV channel)	pictureFormat	576i
+Nova (TV channel)	pictureFormat	576i
+Telecinco Estrellas	pictureFormat	576i
+JML Direct TV	pictureFormat	576i
+JML Direct TV	pictureFormat	16:9
+Channel 1 (Israel)	pictureFormat	576i
+Channel 1 (Israel)	pictureFormat	16:9
+Channel 1 (Israel)	pictureFormat	1080i
+Bibel TV	pictureFormat	Aspect ratio (image)#4:3 standard
+Bliss (TV channel)	pictureFormat	PAL
+Bliss (TV channel)	pictureFormat	16:9
+Bliss (TV channel)	pictureFormat	Pillarbox
+Kanaltürk	pictureFormat	Aspect ratio (image)#4:3 standard
+Kanaltürk	pictureFormat	Standard-definition television
+MTV Spain	pictureFormat	16:9
+MTV Spain	pictureFormat	576i
+Flava (TV channel)	pictureFormat	16:9
+Flava (TV channel)	pictureFormat	576i
+RTV21	pictureFormat	Aspect ratio (image)#4:3 standard
+RTV21	pictureFormat	16:9
+MediaCorp HD5	pictureFormat	1080i
+Ideal World	pictureFormat	576i
+MTV Hits Australia	pictureFormat	576i
+Samanyolu TV	pictureFormat	Aspect ratio (image)#4:3 standard
+Samanyolu TV	pictureFormat	Standard-definition television
+ESPN Brasil	pictureFormat	Standard-definition television
+ESPN Brasil	pictureFormat	High-definition television
+Crime & Investigation Network	pictureFormat	480i
+Crime & Investigation Network	pictureFormat	720p
+Channel One (UK TV channel)	pictureFormat	PAL
+Channel One (UK TV channel)	pictureFormat	16:9
+TVNZ 6	pictureFormat	576i
+Multishow	pictureFormat	Standard-definition television
+Multishow	pictureFormat	High-definition television
+NY1 Noticias	pictureFormat	480i
+Class CNBC	pictureFormat	Aspect ratio (image)#4:3 standard
+MTV Portugal	pictureFormat	Aspect ratio (image)#4:3 standard
+MTV Portugal	pictureFormat	Standard-definition television
+Smithsonian Networks	pictureFormat	480i
+Smithsonian Networks	pictureFormat	1080i
+RTL 8	pictureFormat	576i
+RTL 8	pictureFormat	1080i
+Comcast SportsNet Chicago	pictureFormat	480i
+Comcast SportsNet Chicago	pictureFormat	1080i
+Comcast SportsNet California	pictureFormat	480i
+Comcast SportsNet California	pictureFormat	1080i
+TVNZ Sport Extra	pictureFormat	576i
+Comcast Television	pictureFormat	480i
+Wanasah	pictureFormat	Standard-definition television
+Aragón TV	pictureFormat	576i
+IB3	pictureFormat	576i
+DMX (music)	pictureFormat	480i
+7 Región de Murcia	pictureFormat	576i
+Telecinco Sport	pictureFormat	576i
+Sport1	pictureFormat	576i
+Sport1	pictureFormat	720p
+SWR Fernsehen	pictureFormat	576i
+National Indigenous Television	pictureFormat	576i
+ORF2	pictureFormat	576i
+ORF2	pictureFormat	720p
+Setanta Sports News	pictureFormat	16:9
+Setanta Sports News	pictureFormat	576i
+Canal Hollywood	pictureFormat	16:9
+Canal Hollywood	pictureFormat	Standard-definition television
+Canal Hollywood	pictureFormat	High-definition television
+Retirement Living TV	pictureFormat	480i
+Canal Panda	pictureFormat	Aspect ratio (image)#4:3 standard
+Canal Panda	pictureFormat	Standard-definition television
+Nickelodeon (Latin America)	pictureFormat	480i
+Nickelodeon (Latin America)	pictureFormat	1080i
+AnimeCentral	pictureFormat	Aspect ratio (image)#4:3 standard
+AnimeCentral	pictureFormat	576i
+Sneak Prevue	pictureFormat	480i
+Galatasaray TV	pictureFormat	Aspect ratio (image)#4:3 standard
+Galatasaray TV	pictureFormat	Standard-definition television
+TeenNick	pictureFormat	480i
+TeenNick	pictureFormat	1080i
+RTPN	pictureFormat	Aspect ratio (image)#4:3 standard
+RTPN	pictureFormat	Standard-definition television
+RTP Memória	pictureFormat	Aspect ratio (image)#4:3 standard
+RTP Memória	pictureFormat	Standard-definition television
+Student Video Network	pictureFormat	480i
+Cúla 4	pictureFormat	Aspect ratio (image)#4:3 standard
+Cúla 4	pictureFormat	576i
+Boom Sport One	pictureFormat	Aspect ratio (image)#4:3 standard
+Lemar TV	pictureFormat	Standard-definition television
+A24 news channel	pictureFormat	Aspect ratio (image)#4:3 standard
+A24 news channel	pictureFormat	Standard-definition television
+KidsCo	pictureFormat	480i
+KidsCo	pictureFormat	576i
+TVHB	pictureFormat	576i
+NTV (India)	pictureFormat	Aspect ratio (image)#4:3 standard
+NTV (India)	pictureFormat	Standard-definition television
+BBC Alba (TV channel)	pictureFormat	576i
+MTV Greece	pictureFormat	576i
+Andorra Televisió	pictureFormat	576i
+News 12 Long Island	pictureFormat	480i
+News 12 Long Island	pictureFormat	1080i
+Diva TV	pictureFormat	576i
+TRT 4	pictureFormat	Aspect ratio (image)#4:3 standard
+TRT 4	pictureFormat	Standard-definition television
+TRT International	pictureFormat	Aspect ratio (image)#4:3 standard
+TRT International	pictureFormat	Standard-definition television
+News 12 Networks	pictureFormat	480i
+Comcast SportsNet New England	pictureFormat	480i
+Comcast SportsNet New England	pictureFormat	1080i
+Ten HD	pictureFormat	1080i
+Westlink Network	pictureFormat	576i
+Croatian Music Channel	pictureFormat	Aspect ratio (image)#4:3 standard
+Film 24 (channel)	pictureFormat	576i
+Film 24 (channel)	pictureFormat	Standard-definition television
+ABC3	pictureFormat	576i
+Seven HD	pictureFormat	1080i
+ESPN+	pictureFormat	480i
+ESPN+	pictureFormat	1080i
+Fox Crime	pictureFormat	576i
+MinX	pictureFormat	16:9
+MinX	pictureFormat	576i
+Nine HD	pictureFormat	1080i
+CTV8	pictureFormat	576i
+Documentary Channel (New Zealand)	pictureFormat	16:9
+AXN Beyond	pictureFormat	480i
+AXN Beyond	pictureFormat	Aspect ratio (image)#4:3 standard
+AXN Beyond	pictureFormat	1080i
+AXN Beyond	pictureFormat	16:9
+Arsenal TV	pictureFormat	Aspect ratio (image)#16:9 standard
+Vibe (TV channel)	pictureFormat	16:9
+MGM HD	pictureFormat	1080i
+MTV Shows	pictureFormat	576i
+İctimai Television	pictureFormat	Aspect ratio (image)#4:3 standard
+İctimai Television	pictureFormat	Standard-definition television
+Animal Planet (Australia and New Zealand)	pictureFormat	576i
+Travel and Living Channel	pictureFormat	576i
+Prime HD	pictureFormat	1080i
+Luxe.tv	pictureFormat	576i
+Luxe.tv	pictureFormat	1080i
+Sky News Business Channel	pictureFormat	576i
+TVCine	pictureFormat	576i
+TVCine	pictureFormat	1080i
+Jetix (Greece)	pictureFormat	Aspect ratio (image)#4:3 standard
+Jetix (Greece)	pictureFormat	Standard-definition television
+AXN Asia	pictureFormat	480i
+AXN Asia	pictureFormat	Aspect ratio (image)#4:3 standard
+AXN Asia	pictureFormat	1080i
+AXN Asia	pictureFormat	16:9
+NME TV	pictureFormat	16:9
+NME TV	pictureFormat	576i
+MOV (TV channel)	pictureFormat	Aspect ratio (image)#4:3 standard
+MOV (TV channel)	pictureFormat	Standard-definition television
+Sanskar TV	pictureFormat	Digital Video Broadcasting
+Kanal 5 HD	pictureFormat	1080i
+Canal+ Poland	pictureFormat	16:9
+Trackside (New Zealand)	pictureFormat	16:9
+TV Brasil	pictureFormat	480i
+TV Brasil	pictureFormat	1080i
+Disney XD (Latin America)	pictureFormat	480i
+MLB Network	pictureFormat	480i
+MLB Network	pictureFormat	720p
+Crime & Investigation Network (South East Asia)	pictureFormat	576i
+Crime & Investigation Network (South East Asia)	pictureFormat	High-definition television
+Discovery History	pictureFormat	16:9
+Discovery History	pictureFormat	576i
+Lok Sabha TV	pictureFormat	16:9
+Horse & Country TV	pictureFormat	16:9
+Horse & Country TV	pictureFormat	576i
+TV 2 Sport HD	pictureFormat	720p
+TVP Info	pictureFormat	16:9
+OWN: Oprah Winfrey Network	pictureFormat	480i
+OWN: Oprah Winfrey Network	pictureFormat	1080i
+Comedy Smart	pictureFormat	Aspect ratio (image)#4:3 standard
+Comedy Smart	pictureFormat	Standard-definition television
+Thai Public Broadcasting Service	pictureFormat	576i
+Thai Public Broadcasting Service	pictureFormat	Standard-definition television
+Thai Public Broadcasting Service	pictureFormat	1080i
+ALKAWTHAR	pictureFormat	Standard-definition television
+TV Esporte Interativo	pictureFormat	Standard-definition television
+Channel V Thailand	pictureFormat	480i
+Canal+ Sport HD	pictureFormat	1080i
+G4 Canada	pictureFormat	480i
+Canal+ Fútbol	pictureFormat	576p
+CNN Chile	pictureFormat	Aspect ratio (image)#4:3 standard
+Kohavision	pictureFormat	Aspect ratio (image)#4:3 standard
+Kohavision	pictureFormat	16:9
+4Music	pictureFormat	16:9
+4Music	pictureFormat	576i
+M1 (TV channel)	pictureFormat	16:9
+M1 (TV channel)	pictureFormat	Standard-definition television
+Disney Channel Middle East	pictureFormat	480i
+Disney Channel Middle East	pictureFormat	720p
+Samanyolu Haber TV	pictureFormat	Aspect ratio (image)#4:3 standard
+Samanyolu Haber TV	pictureFormat	Standard-definition television
+Discovery Channel (Middle East)	pictureFormat	576i
+ORF Sport Plus	pictureFormat	576i
+BR-alpha	pictureFormat	576i
+GMA Life TV	pictureFormat	Aspect ratio (image)#4:3 standard
+GMA Life TV	pictureFormat	Standard-definition television
+Zee Smile	pictureFormat	576i
+Zee Smile	pictureFormat	480i
+Disney Channel Malaysia	pictureFormat	480i
+Disney Channel Malaysia	pictureFormat	576i
+Disney Channel Malaysia	pictureFormat	1080i
+Te Reo (TV channel)	pictureFormat	576i
+TNT (Russian TV channel)	pictureFormat	576i
+Southern Arizona News Network	pictureFormat	480i
+Sky Turk	pictureFormat	Aspect ratio (image)#4:3 standard
+Sky Turk	pictureFormat	Standard-definition television
+Fox Sports Kansas City	pictureFormat	480i
+Fox Sports Kansas City	pictureFormat	720p
+Canal 5 Noticias	pictureFormat	480i
+Cartoon Network (India)	pictureFormat	576i
+Cartoon Network (India)	pictureFormat	1080i
+ClassTV MSNBC	pictureFormat	576i
+Sony Entertainment Television (Portugal)	pictureFormat	16:9
+Sony Entertainment Television (Portugal)	pictureFormat	576i
+Sony Entertainment Television (Portugal)	pictureFormat	1080i
+Real Estate TV	pictureFormat	16:9
+Real Estate TV	pictureFormat	576i
+TW1 (Austria)	pictureFormat	576i
+Discovery Science (UK TV channel)	pictureFormat	576i
+Cartoon Network Arabic	pictureFormat	Aspect ratio (image)#4:3 standard
+TIMM	pictureFormat	Aspect ratio (image)#4:3 standard
+TIMM	pictureFormat	16:9
+Sportitalia 2	pictureFormat	Aspect ratio (image)#4:3 standard
+XXL (French TV)	pictureFormat	Aspect ratio (image)#4:3 standard
+XXL (French TV)	pictureFormat	Standard-definition television
+Cartoon Network (Southeast Asia)	pictureFormat	480i
+Cartoon Network (Southeast Asia)	pictureFormat	1080i
+MNC International	pictureFormat	PAL
+Cartoon Network	pictureFormat	480i
+Cartoon Network	pictureFormat	1080i
+HD suisse	pictureFormat	Aspect ratio (image)#16:9 standard
+HD suisse	pictureFormat	720p
+MVM TV	pictureFormat	Aspect ratio (image)#4:3 standard
+MVM TV	pictureFormat	Standard-definition television
+BabyFirstTV	pictureFormat	480i
+Kanal 5 (Macedonia)	pictureFormat	Aspect ratio (image)#4:3 standard
+Kanal 5 (Macedonia)	pictureFormat	Standard-definition television
+Balls (TV channel)	pictureFormat	480i
+Balls (TV channel)	pictureFormat	1080i
+Velvet (TV channel)	pictureFormat	480i
+Maxxx	pictureFormat	480i
+BabyTV	pictureFormat	480i
+Irish Film Channel    1	pictureFormat	Standard-definition television
+BISD-TV	pictureFormat	Aspect ratio (image)#4:3 standard
+Film1	pictureFormat	576i
+Film1	pictureFormat	1080i
+BravaHDTV	pictureFormat	1080i
+TV-3 (Russia)	pictureFormat	576i
+Petersburg – Channel 5	pictureFormat	Aspect ratio (image)#4:3 standard
+Eurosport HD	pictureFormat	1080i
+Caccia e Pesca	pictureFormat	Aspect ratio (image)#4:3 standard
+MotoTV	pictureFormat	Aspect ratio (image)#4:3 standard
+Yacht & Sail	pictureFormat	Aspect ratio (image)#4:3 standard
+EinsPlus	pictureFormat	576i
+EinsFestival	pictureFormat	576i
+EinsFestival	pictureFormat	720p
+EinsExtra	pictureFormat	576i
+JIM (Flemish TV channel)	pictureFormat	16:9
+B4U Music	pictureFormat	Standard-definition television
+B4U Movies	pictureFormat	Standard-definition television
+Pitch TV	pictureFormat	Standard-definition television
+Pitch World	pictureFormat	Standard-definition television
+RTL 102.5 TV	pictureFormat	Aspect ratio (image)#4:3 standard
+Unexplained Channel	pictureFormat	PAL
+Unexplained Channel	pictureFormat	Standard-definition television
+Edge Media Television	pictureFormat	Standard-definition television
+Challenge Jackpot	pictureFormat	576i
+TVR HD	pictureFormat	1080i
+La Siete	pictureFormat	576i
+Universal Sports	pictureFormat	480i
+ETB 1	pictureFormat	576i
+Sitel (TV channel)	pictureFormat	Aspect ratio (image)#4:3 standard
+Sitel (TV channel)	pictureFormat	Standard-definition television
+MKTV Sat	pictureFormat	Aspect ratio (image)#4:3 standard
+MKTV Sat	pictureFormat	Standard-definition television
+MNC Music	pictureFormat	PAL
+TVE HD	pictureFormat	720p
+MNC News	pictureFormat	PAL
+Novyi Kanal	pictureFormat	576i
+TVN CNBC	pictureFormat	576i
+National Geographic Channel (Australia)	pictureFormat	576i
+National Geographic Channel (Australia)	pictureFormat	1080i
+GNT	pictureFormat	480i
+GNT	pictureFormat	1080i
+GNT	pictureFormat	Globosat HD
+For you (TV channel)	pictureFormat	Aspect ratio (image)#16:9 standard
+Sky Meteo24	pictureFormat	Aspect ratio (image)#16:9 standard
+Rai Extra	pictureFormat	Aspect ratio (image)#4:3 standard
+TBNE	pictureFormat	Aspect ratio (image)#4:3 standard
+TV3 HD	pictureFormat	1080i
+Wedding Central	pictureFormat	480i
+Wedding Central	pictureFormat	1080i
+Rai Gulp	pictureFormat	Aspect ratio (image)#4:3 standard
+Boing (Italy)	pictureFormat	Aspect ratio (image)#4:3 standard
+Disney Channel Japan	pictureFormat	480i
+Watch (TV channel)	pictureFormat	PAL
+Watch (TV channel)	pictureFormat	16:9
+Nicktoonsters	pictureFormat	Standard-definition television
+QOOB	pictureFormat	576i
+TV3 (Czech Republic)	pictureFormat	576i
+MBC Persia	pictureFormat	Standard-definition television
+Rai 4	pictureFormat	Aspect ratio (image)#4:3 standard
+Rai 4	pictureFormat	Aspect ratio (image)#16:9 standard
+Repubblica Radio TV	pictureFormat	Aspect ratio (image)#4:3 standard
+Nickelodeon (Italy)	pictureFormat	Aspect ratio (image)#4:3 standard
+Iris (TV channel)	pictureFormat	Aspect ratio (image)#4:3 standard
+Iris (TV channel)	pictureFormat	Aspect ratio (image)#16:9 standard
+Pulse (TV channel)	pictureFormat	576i
+NewsX	pictureFormat	576i
+NewsX	pictureFormat	1080i
+Fox (Italy)	pictureFormat	Aspect ratio (image)#16:9 Anamorphic
+Fox (Italy)	pictureFormat	High-definition television
+Cult (TV channel)	pictureFormat	Aspect ratio (image)#4:3 standard
+Cult (TV channel)  Cult   1	pictureFormat	Aspect ratio (image)#4:3 standard
+Sky Sport (Italy)	pictureFormat	Aspect ratio (image)#16:9 standard
+Sky Sport (Italy)	pictureFormat	High-definition television
+Buzz TV	pictureFormat	576i
+SporTV	pictureFormat	Standard-definition television
+SporTV	pictureFormat	High-definition television
+SporTV	pictureFormat	Globosat HD
+This TV	pictureFormat	480i
+Pursuit Channel	pictureFormat	480i
+RTA TV	pictureFormat	Standard-definition television
+Nat Geo Music	pictureFormat	Aspect ratio (image)#4:3 standard
+Nat Geo Music	pictureFormat	Standard-definition television
+Russia 24	pictureFormat	576i
+Rai Scuola	pictureFormat	Aspect ratio (image)#4:3 standard
+Rai Storia	pictureFormat	Aspect ratio (image)#4:3 standard
+Showcase TV	pictureFormat	Aspect ratio (image)#4:3 standard
+Showcase TV	pictureFormat	576i
+Animal Planet (UK TV channel)	pictureFormat	Aspect ratio (image)#4:3 standard
+Animal Planet (UK TV channel)	pictureFormat	576i
+Syrian Satellite Channel	pictureFormat	Aspect ratio (image)#4:3 standard
+Syrian Satellite Channel	pictureFormat	Standard-definition television
+FOX (Turkey)	pictureFormat	Aspect ratio (image)#4:3 standard
+FOX (Turkey)	pictureFormat	Standard-definition television
+Better Black Television	pictureFormat	480i
+CBBC Channel	pictureFormat	576i
+24ore.tv	pictureFormat	Aspect ratio (image)#4:3 standard
+1FLTV	pictureFormat	576i
+True Entertainment	pictureFormat	Aspect ratio (image)#4:3 standard
+True Entertainment	pictureFormat	576i
+Royal Thai Army Radio and Television Channel 5	pictureFormat	แอนะล็อก
+Zee Bangla	pictureFormat	1080p
+MTVNHD	pictureFormat	1080i
+Joi (TV channel)	pictureFormat	Aspect ratio (image)#4:3 standard
+Joi (TV channel)	pictureFormat	Aspect ratio (image)#16:9 standard
+Mya (TV channel)	pictureFormat	Aspect ratio (image)#4:3 standard
+Mya (TV channel)	pictureFormat	Aspect ratio (image)#16:9 standard
+RTP Açores	pictureFormat	576i
+RTP Açores	pictureFormat	Aspect ratio (image)#4:3 standard
+RTP Açores	pictureFormat	16:9
+Sport+ (France)	pictureFormat	576i
+Polsat News	pictureFormat	16:9
+ORF2 Europe	pictureFormat	576i
+Channel South	pictureFormat	PAL
+Channel South	pictureFormat	16:9
+Channel South	pictureFormat	Aspect ratio (image)#4:3 standard
+Channel South	pictureFormat	576i
+Channel South	pictureFormat	1080i
+Jewish Life Television	pictureFormat	480i
+HRT 1	pictureFormat	Aspect ratio (image)#4:3 standard
+Country 99 TV	pictureFormat	16:9
+Modernine TV	pictureFormat	576i
+Modernine TV	pictureFormat	Standard-definition television
+Modernine TV	pictureFormat	1080i
+111 Hits	pictureFormat	576i
+Kurdish News Network	pictureFormat	Standard-definition television
+Bloomberg UTV	pictureFormat	480i
+Telewizja Trwam	pictureFormat	576i
+31 Brisbane	pictureFormat	576i
+TVI 24	pictureFormat	Aspect ratio (image)#4:3 standard
+TVI 24	pictureFormat	Standard-definition television
+MTV Czech	pictureFormat	576i
+TVP Warszawa	pictureFormat	Aspect ratio (image)#4:3 standard
+Blue Hustler	pictureFormat	Aspect ratio (image)#4:3 standard
+Blue Hustler	pictureFormat	Standard-definition television
+Hustler TV (Europe)	pictureFormat	Aspect ratio (image)#4:3 standard
+Hustler TV (Europe)	pictureFormat	Standard-definition television
+TV Koper-Capodistria	pictureFormat	576i
+Telepace	pictureFormat	Aspect ratio (image)#4:3 standard
+Telepace	pictureFormat	Standard-definition television
+TV2000	pictureFormat	Aspect ratio (image)#4:3 standard
+One HD	pictureFormat	1080i
+Cartoon Network (Latin America)	pictureFormat	480i
+Cartoon Network (Latin America)	pictureFormat	16:9
+Cartoon Network (Latin America)	pictureFormat	Aspect ratio (image)#4:3 standard
+Hip Hop TV	pictureFormat	Aspect ratio (image)#4:3 standard
+Steel (TV channel)	pictureFormat	Aspect ratio (image)#4:3 standard
+Steel (TV channel)	pictureFormat	Aspect ratio (image)#16:9 standard
+Antenna TV	pictureFormat	480i
+Radio Italia TV	pictureFormat	Aspect ratio (image)#4:2 standard
+MNC Entertainment	pictureFormat	PAL
+ABC HD (Australia)	pictureFormat	720p
+Rai Sender Bozen (TV channel)	pictureFormat	Aspect ratio (image)#4:3 standard
+Investigation Discovery (UK & Ireland)	pictureFormat	16:9
+Investigation Discovery (UK & Ireland)	pictureFormat	576i
+MTV Hits (Italy)	pictureFormat	Aspect ratio (image)#16:9 standard
+MTV Classic (Italy)	pictureFormat	Aspect ratio (image)#4:3 standard
+MTV Brand New (Italy)	pictureFormat	Aspect ratio (image)#4:3 standard
+MTV Pulse	pictureFormat	Aspect ratio (image)#4:3 standard
+Astro Awani	pictureFormat	576i
+A-PAC	pictureFormat	576i
+Yes Comedy	pictureFormat	576i
+Yes Comedy	pictureFormat	Aspect ratio (image)#4:3 standard
+Yes Comedy	pictureFormat	1080i
+MBC Max	pictureFormat	1080i
+MBC Max	pictureFormat	576i
+RTR Planeta	pictureFormat	Aspect ratio (image)#4:3 standard
+RTR Planeta	pictureFormat	Standard-definition television
+DD Metro	pictureFormat	480i
+DD Metro	pictureFormat	576i
+Syfy Universal (Portugal)	pictureFormat	16:9
+Syfy Universal (Portugal)	pictureFormat	576i
+Syfy Universal (Portugal)	pictureFormat	1080i
+Nuestra Tele Noticias 24 Horas	pictureFormat	480i
+Fox Sports Carolinas	pictureFormat	480i
+Fox Sports Carolinas	pictureFormat	720p
+Fox Sports Tennessee	pictureFormat	480i
+Fox Sports Tennessee	pictureFormat	720p
+6 News (Turkey)	pictureFormat	Aspect ratio (image)#4:3 standard
+6 News (Turkey)	pictureFormat	Standard-definition television
+24 (Turkey)	pictureFormat	Aspect ratio (image)#4:3 standard
+24 (Turkey)	pictureFormat	Standard-definition television
+TRT 6	pictureFormat	Aspect ratio (image)#4:3 standard
+TRT 6	pictureFormat	Standard-definition television
+TRT Çocuk	pictureFormat	Aspect ratio (image)#4:3 standard
+TRT Çocuk	pictureFormat	Standard-definition television
+TRT Türk	pictureFormat	Aspect ratio (image)#4:3 standard
+TRT Türk	pictureFormat	Standard-definition television
+TRT Gap	pictureFormat	Aspect ratio (image)#4:3 standard
+TRT Gap	pictureFormat	Standard-definition television
+Boom Sport Two	pictureFormat	Aspect ratio (image)#4:3 standard
+Cooltoon	pictureFormat	Aspect ratio (image)#4:3 standard
+Classica (TV channel)	pictureFormat	Aspect ratio (image)#4:3 standard
+Boomerang (Italy)	pictureFormat	Aspect ratio (image)#4:3 standard
+San Marino RTV (TV channel)	pictureFormat	Aspect ratio (image)#4:3 standard
+K2 (TV channel)	pictureFormat	Aspect ratio (image)#4:3 standard
+K2 (TV channel)	pictureFormat	Aspect ratio (image)#16:9 standard
+Sky Uno	pictureFormat	Aspect ratio (image)#16:9 standard
+Disney Channel Latin America	pictureFormat	480i
+Cable Noticias	pictureFormat	480i
+Disney Junior (Latin America)	pictureFormat	480i
+SKY Show	pictureFormat	Aspect ratio (image)#4:3 standard
+Naša TV	pictureFormat	Aspect ratio (image)#4:3 standard
+Naša TV	pictureFormat	Standard-definition television
+FactoríaDeFicción	pictureFormat	576i
+Magnet Infinity TV (MiTV)	pictureFormat	PAL
+RTM HD	pictureFormat	1080i
+MBC+ Drama	pictureFormat	Standard-definition television
+Epix (TV channel)	pictureFormat	480i
+Epix (TV channel)	pictureFormat	1080i
+M2 (TV channel)	pictureFormat	16:9
+M2 (TV channel)	pictureFormat	Standard-definition television
+Duna 2 Autonómia	pictureFormat	16:9
+Duna 2 Autonómia	pictureFormat	Standard-definition television
+Globo News	pictureFormat	Standard-definition television
+PictureBox Movies	pictureFormat	16:9
+PictureBox Movies	pictureFormat	Aspect ratio (image)#4:3 standard
+PictureBox Movies	pictureFormat	576i
+PictureBox Movies	pictureFormat	1080i
+Animaux	pictureFormat	16:9
+Animaux	pictureFormat	Standard-definition television
+Encyclo	pictureFormat	16:9
+Encyclo	pictureFormat	Standard-definition television
+Escales (TV)	pictureFormat	16:9
+Escales (TV)	pictureFormat	Standard-definition television
+Toute l'Histoire	pictureFormat	16:9
+Toute l'Histoire	pictureFormat	Standard-definition television
+ESPN Dos	pictureFormat	Standard-definition television
+SBS Two	pictureFormat	576i
+SportTV 1	pictureFormat	16:9
+SportTV 1	pictureFormat	576i
+Central Nacional de Televisão	pictureFormat	Standard-definition television
+Central Nacional de Televisão	pictureFormat	High-definition television
+Funoon TV	pictureFormat	Aspect ratio (image)#4:3 standard
+Funoon TV	pictureFormat	Standard-definition television
+Fox Sports Houston	pictureFormat	480i
+Fox Sports Houston	pictureFormat	720p
+Comedy Central (New Zealand)	pictureFormat	16:9
+Banglavision	pictureFormat	Aspect ratio (image)#4:3 standard
+Banglavision	pictureFormat	Standard-definition television
+Cinémoi	pictureFormat	Aspect ratio (image)#4:3 standard
+Cinémoi	pictureFormat	576i
+GXT	pictureFormat	Aspect ratio (image)#4:3 standard
+Comedy Central (UK & Ireland)	pictureFormat	Aspect ratio (image)#4:3 standard
+Comedy Central (UK & Ireland)	pictureFormat	16:9
+Comedy Central (UK & Ireland)	pictureFormat	1080i
+S1 (TV channel)	pictureFormat	480i
+Super Casino (TV channel)	pictureFormat	576i
+Russia K	pictureFormat	576i
+Muzik Aktif	pictureFormat	576i
+SportTV 3	pictureFormat	16:9
+SportTV 3	pictureFormat	576i
+History (Southeast Asian TV channel)	pictureFormat	576i
+History (Southeast Asian TV channel)	pictureFormat	High-definition television
+New York Nonstop	pictureFormat	Widescreen
+Fox HD (Latin America)	pictureFormat	16:9
+Fox HD (Latin America)	pictureFormat	1080i
+Afrotainment	pictureFormat	480i
+TRT Avaz	pictureFormat	Aspect ratio (image)#4:3 standard
+TRT Avaz	pictureFormat	Standard-definition television
+Really (TV channel)	pictureFormat	16:9
+Really (TV channel)	pictureFormat	576i
+Discovery Kids (Latin America)	pictureFormat	480i
+I.Sat	pictureFormat	480i
+Space (Latin American TV channel)	pictureFormat	480i
+Space (Latin American TV channel)	pictureFormat	1080i
+Tooncast	pictureFormat	480i
+EeZee tv	pictureFormat	576i
+Live! (TV channel)	pictureFormat	Aspect ratio (image)#4:3 standard
+Music Box Italia	pictureFormat	Aspect ratio (image)#4:3 standard
+BET Networks	pictureFormat	480i
+BET Networks	pictureFormat	1080i
+BET Networks	pictureFormat	1080p
+Channel 33 (Israel)	pictureFormat	576i
+Todo Noticias	pictureFormat	480i
+TheCoolTV	pictureFormat	480i
+Live Well Network	pictureFormat	480i
+Live Well Network	pictureFormat	720p
+Go! (Australian TV channel)	pictureFormat	576i
+J Sports	pictureFormat	576i
+J Sports	pictureFormat	Aspect ratio (image)#4:3 standard
+J Sports	pictureFormat	1080i
+Sky Sport (New Zealand)	pictureFormat	16:9
+Sky Sport (New Zealand)  Sky Sport 2   1	pictureFormat	16:9
+Sky Sport (New Zealand)  Sky Sport 3   1	pictureFormat	16:9
+Sky Sport (New Zealand)  Sky Sport Highlights   1	pictureFormat	16:9
+Sky Movies (New Zealand)	pictureFormat	16:9
+Sky Movies (New Zealand)  Sky Movies 2   1	pictureFormat	16:9
+Sky Movies (New Zealand)  Sky Movies Greats   1	pictureFormat	16:9
+TV8 Mont-Blanc	pictureFormat	Aspect ratio (image)#4:3 standard
+Simply Movies	pictureFormat	Standard-definition television
+Rural TV	pictureFormat	576i
+Shop on TV	pictureFormat	Standard-definition television
+Veria Natural Wellness	pictureFormat	720p
+WTV Weather TV	pictureFormat	High-definition television
+India TV	pictureFormat	576i
+Thane Direct	pictureFormat	Standard-definition television
+ATV Home	pictureFormat	576i
+ATV Home	pictureFormat	Aspect ratio (image)#4:3 standard
+ATV Home	pictureFormat	1080i
+Lei (TV channel)	pictureFormat	Aspect ratio (image)#4:3 standard
+Viasat Hockey	pictureFormat	16:9
+TvG2	pictureFormat	576i
+TRT 5 Anadolu	pictureFormat	Aspect ratio (image)#4:3 standard
+TRT 5 Anadolu	pictureFormat	Standard-definition television
+Polsat Sport	pictureFormat	16:9
+Wedding TV Asia	pictureFormat	Aspect ratio (image)#4:3 standard
+Wedding TV Asia	pictureFormat	576i
+TruTV (Latin America)	pictureFormat	480i
+TruTV (Latin America)	pictureFormat	1080i
+Yumurcak TV	pictureFormat	Aspect ratio (image)#4:3 standard
+Yumurcak TV	pictureFormat	Standard-definition television
+Nick Jr.	pictureFormat	480i
+Nick Jr.	pictureFormat	1080i
+Clark – Vancouver Television	pictureFormat	576i
+Gol Televisión	pictureFormat	576i
+Gol Televisión	pictureFormat	1080i
+DIY Network (Canada)	pictureFormat	Standard-definition television
+ESPN (UK)	pictureFormat	576i
+ESPN (UK)	pictureFormat	1080i
+E24 (TV channel)	pictureFormat	576i
+E24 (TV channel)	pictureFormat	480i
+Super3	pictureFormat	576i
+Jetix (Latin America)	pictureFormat	480i
+National Geographic Abu Dhabi	pictureFormat	576i
+HRT 2	pictureFormat	Aspect ratio (image)#4:3 standard
+HRT plus	pictureFormat	Aspect ratio (image)#4:3 standard
+DD Bangla	pictureFormat	576i
+DD Bangla	pictureFormat	Aspect ratio (image)#4:3 standard
+DD Bangla	pictureFormat	1080i
+DD Sports	pictureFormat	576i
+DD Sports	pictureFormat	1080i
+DD News	pictureFormat	480i
+Disney Channel Turkey	pictureFormat	Aspect ratio (image)#4:3 standard
+Disney Channel Turkey	pictureFormat	Standard-definition television
+Murr Television	pictureFormat	Aspect ratio (image)#4:3 standard
+Murr Television	pictureFormat	Standard-definition television
+Disney Channel Bulgaria	pictureFormat	576i
+Disney Channel Bulgaria	pictureFormat	PAL
+History (Australian television channel)	pictureFormat	576i
+Disney Channel Spain	pictureFormat	480i
+Disney Channel Spain	pictureFormat	1080i
+Emmanuel TV	pictureFormat	575i
+Emmanuel TV	pictureFormat	480i
+BandNews	pictureFormat	Standard-definition television
+BandNews	pictureFormat	High-definition television
+Intereconomía TV	pictureFormat	576i
+Sportitalia 24	pictureFormat	Aspect ratio (image)#4:3 standard
+The Big Deal (TV channel)	pictureFormat	576i
+Disney Channel (Greece)	pictureFormat	Aspect ratio (image)#4:3 standard
+Disney Channel (Greece)	pictureFormat	Standard-definition television
+E News channel	pictureFormat	Aspect ratio (image)#4:3 standard
+E News channel	pictureFormat	Standard-definition television
+Jetix (UK & Ireland)	pictureFormat	576i
+Jetix (UK & Ireland)	pictureFormat	Aspect ratio (image)#4:3 standard
+Discovery Familia	pictureFormat	480i
+Diva Universal (Asia)	pictureFormat	480i
+Syfy Universal (Asia)	pictureFormat	480i
+Bio. (South East Asia)	pictureFormat	576i
+Bio. (South East Asia)	pictureFormat	High-definition television
+National Geographic Channel (Asia)	pictureFormat	576i
+Mahuaa TV	pictureFormat	MPEG-4
+Comcast Sports Southwest	pictureFormat	480i
+NTV Spor	pictureFormat	Aspect ratio (image)#4:3 standard
+NTV Spor	pictureFormat	Standard-definition television
+RTS1	pictureFormat	576i
+RTS1	pictureFormat	Aspect ratio (image)#4:3 standard
+RTS1	pictureFormat	16:9
+RTS1	pictureFormat	High-definition television
+MAD Greekz	pictureFormat	Aspect ratio (image)#4:3 standard
+MAD Greekz	pictureFormat	Standard-definition television
+CBS Reality	pictureFormat	576i
+CBS Drama	pictureFormat	576i
+Onda Latina	pictureFormat	Aspect ratio (image)#4:3 standard
+Rede Telecine	pictureFormat	Standard-definition television
+Rede Telecine	pictureFormat	16:9
+Rede Telecine	pictureFormat	Aspect ratio (image)#4:3 standard
+Rede Telecine	pictureFormat	High-definition television
+Rede Telecine	pictureFormat	16:9
+Bernama TV	pictureFormat	Aspect ratio (image)#4:3 standard
+TVI (channel)	pictureFormat	576i
+Ukrayina (TV channel)	pictureFormat	576i
+MyDeejay	pictureFormat	Aspect ratio (image)#4:3 standard
+Astro Warna	pictureFormat	Aspect ratio (image)#4:3 standard
+Cooking Channel	pictureFormat	480i
+Cooking Channel	pictureFormat	1080i
+Zone Reality (UK)	pictureFormat	Aspect ratio (image)#4:3 standard
+Viva (UK & Ireland)	pictureFormat	Aspect ratio (image)#4:3 standard
+Viva (UK & Ireland)	pictureFormat	576i
+Boomerang (Greece)	pictureFormat	Aspect ratio (image)#4:3 standard
+Boomerang (Greece)	pictureFormat	Standard-definition television
+Fox Kids Australia	pictureFormat	PAL
+MMDA TV	pictureFormat	480i
+7Two	pictureFormat	576i
+Boomerang CEE+EMEA	pictureFormat	576i
+Cartoon Network (EMEA)	pictureFormat	Aspect ratio (image)#4:3 standard
+Resort and Residence TV	pictureFormat	480i
+Halogen TV	pictureFormat	480i
+Halogen TV	pictureFormat	1080i
+DR HD	pictureFormat	720p
+SF-kanalen	pictureFormat	576i
+Discovery Turbo MAX	pictureFormat	576i
+RHTV	pictureFormat	480i
+Animal Planet Asia	pictureFormat	480i
+Animal Planet Asia	pictureFormat	1080i
+Fox Crime (Asia)	pictureFormat	480i
+Fox Crime (Asia)	pictureFormat	1080i
+FX (Asia)	pictureFormat	480i
+FX (Asia)	pictureFormat	1080i
+Global News Network	pictureFormat	480i
+West TV	pictureFormat	576i
+Studio Universal (Latin America)	pictureFormat	480i
+Dream TV Turkey	pictureFormat	Aspect ratio (image)#4:3 standard
+Dream TV Turkey	pictureFormat	Standard-definition television
+Studio Universal	pictureFormat	Aspect ratio (image)#16:9 standard
+13th Street (Australia)	pictureFormat	576i
+CBS Action	pictureFormat	576i
+Root Sports Rocky Mountain	pictureFormat	480i
+Root Sports Rocky Mountain	pictureFormat	720p
+All Music	pictureFormat	Aspect ratio (image)#4:3 standard
+Siamsa TV	pictureFormat	Online and offline
+ČT HD	pictureFormat	1080i
+ČT HD	pictureFormat	High-definition television
+Solar TV	pictureFormat	480i
+Benfica TV	pictureFormat	Aspect ratio (image)#4:3 standard
+Benfica TV	pictureFormat	Standard-definition television
+Nuvolari (TV channel)	pictureFormat	Aspect ratio (image)#4:3 standard
+Astro SuperSport	pictureFormat	Standard-definition television
+Astro SuperSport	pictureFormat	High-definition television
+Nick Jr. (Italy)	pictureFormat	Aspect ratio (image)#4:3 standard
+Russian Travel Guide	pictureFormat	Aspect ratio (image)#4:3 standard
+Russian Travel Guide	pictureFormat	Standard-definition television
+Cielo (TV channel)	pictureFormat	Aspect ratio (image)#4:3 standard
+MTV Plus	pictureFormat	Aspect ratio (image)#4:3 standard
+MTV Plus	pictureFormat	Standard-definition television
+Fox Channel Asia	pictureFormat	Aspect ratio (image)#4:3 standard
+MTV 1 (Macedonia)	pictureFormat	Aspect ratio (image)#4:3 standard
+MTV 1 (Macedonia)	pictureFormat	Standard-definition television
+MTV 2 (Macedonia)	pictureFormat	Aspect ratio (image)#4:3 standard
+MTV 2 (Macedonia)	pictureFormat	Standard-definition television
+Panda Biggs	pictureFormat	Aspect ratio (image)#4:3 standard
+Panda Biggs	pictureFormat	Standard-definition television
+TVP Katowice	pictureFormat	Aspect ratio (image)#4:3 standard
+TVP Katowice	pictureFormat	16:9
+Fox Life Greece	pictureFormat	576i
+ESPN 3D	pictureFormat	720p
+RTS2	pictureFormat	576i
+RTS2	pictureFormat	Aspect ratio (image)#4:3 standard
+RTS2	pictureFormat	16:9
+RTS2	pictureFormat	High-definition television
+New Evangelization Television	pictureFormat	480i
+Disney XD (Croatia)	pictureFormat	480i
+Disney XD (Croatia)	pictureFormat	720p
+Yes SCI FI	pictureFormat	576i
+Yes SCI FI	pictureFormat	Aspect ratio (image)#4:3 standard
+Yes SCI FI	pictureFormat	1080i
+FX (Portugal)	pictureFormat	Aspect ratio (image)#4:3 standard
+FX (Portugal)	pictureFormat	Standard-definition television
+Disney Cinemagic (France)	pictureFormat	576i
+Disney Cinemagic (France)	pictureFormat	Aspect ratio (image)#4:3 standard
+Disney Cinemagic (France)	pictureFormat	1080i
+Fox Soccer Plus	pictureFormat	480i
+Fox Soccer Plus	pictureFormat	720p
+TVSelangor	pictureFormat	PAL
+STZ TV	pictureFormat	480i
+STZ TV	pictureFormat	1080i
+Puls 4	pictureFormat	576i
+FX (Greece)	pictureFormat	576i
+Jetix (Croatia)	pictureFormat	480i
+Jetix (Croatia)	pictureFormat	720p
+SWRV	pictureFormat	480i
+SWRV	pictureFormat	1080i
+MTV Classic Australia	pictureFormat	576i
+Reality Kings  TV   1	pictureFormat	480i
+Discovery Channel (Ireland)	pictureFormat	16:9
+Discovery Channel (Ireland)	pictureFormat	576i
+Universal Channel (Greece)	pictureFormat	Aspect ratio (image)#4:3 standard
+Universal Channel (Greece)	pictureFormat	Standard-definition television
+Cartoon Network (Greece)	pictureFormat	Aspect ratio (image)#4:3 standard
+Cartoon Network (Greece)	pictureFormat	Standard-definition television
+Ada TV	pictureFormat	Aspect ratio (image)#4:3 standard
+TV3+ HD	pictureFormat	1080i
+TRT Müzik	pictureFormat	Aspect ratio (image)#4:3 standard
+TRT Müzik	pictureFormat	Standard-definition television
+TRT Belgesel	pictureFormat	Aspect ratio (image)#4:3 standard
+TRT Belgesel	pictureFormat	Standard-definition television
+MTV Classic (UK & Ireland)	pictureFormat	Aspect ratio (image)#4:3 standard
+MTV Classic (UK & Ireland)	pictureFormat	576i
+Discovery Channel (South East Asian TV channel)	pictureFormat	576p
+Dance Nation (TV channel)	pictureFormat	16:9
+Dance Nation (TV channel)	pictureFormat	576i
+MTV (UK and Ireland)	pictureFormat	576i
+ShortsTV	pictureFormat	480i
+ShortsTV	pictureFormat	1080i
+MTV Hits (Pan-European)	pictureFormat	Aspect ratio (image)#4:3 standard
+MTV Hits (Pan-European)	pictureFormat	576i
+JellyTelly	pictureFormat	480p
+Syfy (Latin America)	pictureFormat	480i
+Animax (India)	pictureFormat	480i
+Greatest Hits TV	pictureFormat	576i
+Cartoon Network (Spain)	pictureFormat	Aspect ratio (image)#4:3 standard
+Cartoon Network (CEE)	pictureFormat	Aspect ratio (image)#4:3 standard
+Playhouse Disney (Greece)	pictureFormat	Aspect ratio (image)#4:3 standard
+Playhouse Disney (Greece)	pictureFormat	Standard-definition television
+Nickelodeon (Malaysia)	pictureFormat	480i
+Nickelodeon (Malaysia)	pictureFormat	1080i
+Nick Jr. (Latin America)	pictureFormat	480i
+Nickelodeon (Brazil)	pictureFormat	480i
+Nickelodeon (Brazil)	pictureFormat	1080i
+TAB TV	pictureFormat	16:9
+TruTV (Asia)	pictureFormat	480i
+KIX (TV channel)	pictureFormat	480i
+Thrill (TV channel)	pictureFormat	480i
+Your News Now	pictureFormat	1080i
+RightNetwork	pictureFormat	480i
+RightNetwork	pictureFormat	720p
+RightNetwork	pictureFormat	1080i
+ABC News 24	pictureFormat	720p
+Happy Channel	pictureFormat	Aspect ratio (image)#4:3 standard
+Screen RED	pictureFormat	480i
+Global Reality Channel	pictureFormat	480i
+TVNZ Heartland	pictureFormat	576i
+RTP HD	pictureFormat	16:9
+RTP HD	pictureFormat	1080i
+Greek Music Television	pictureFormat	Aspect ratio (image)#4:3 standard
+Greek Music Television	pictureFormat	Standard-definition television
+Viva Schweiz	pictureFormat	576i
+Li (TV channel)	pictureFormat	High-definition television
+Penthouse HDTV	pictureFormat	1080i
+Canal Viva	pictureFormat	Standard-definition television
+The Weather Cast	pictureFormat	480i
+The Weather Cast	pictureFormat	1080i
+Disney Junior	pictureFormat	480i
+Disney Junior	pictureFormat	720p
+Cartoon Network (New Zealand)	pictureFormat	576i
+TRT HD	pictureFormat	1080i
+Bibigon	pictureFormat	576i
+Ekamra Manoranjan TV	pictureFormat	MPEG-4
+ESPN in the United Kingdom	pictureFormat	576i
+ESPN in the United Kingdom	pictureFormat	1080i
+Food Network Asia	pictureFormat	480i
+Food Network Asia	pictureFormat	1080i
+Sky Living Loves	pictureFormat	16:9
+Sky Living Loves	pictureFormat	576i
+Disney Channel Hong Kong	pictureFormat	480i
+Disney Channel Hong Kong	pictureFormat	720p
+Rai 5	pictureFormat	Aspect ratio (image)#16:9 standard
+N3D	pictureFormat	3D television
+TRT el Türkiye	pictureFormat	Aspect ratio (image)#4:3 standard
+TRT el Türkiye	pictureFormat	Standard-definition television
+Premier Sports	pictureFormat	16:9
+Premier Sports	pictureFormat	576i
+La5	pictureFormat	Aspect ratio (image)#4:3 standard
+SportTV 2	pictureFormat	16:9
+SportTV 2	pictureFormat	576i
+Universal Channel (Philippines)	pictureFormat	480i
+Sony Movie Channel	pictureFormat	1080i
+Rocks & Co	pictureFormat	576i
+Rocks & Co	pictureFormat	Standard-definition television
+Gems TV (UK)	pictureFormat	576i
+Gems TV Extra	pictureFormat	576i
+Gems TV Extra	pictureFormat	Standard-definition television
+Jewellery Maker	pictureFormat	576i
+Fox Sports Indiana	pictureFormat	480i
+Fox Sports Indiana	pictureFormat	720p
+Canal+ Dos	pictureFormat	576i
+Universal Channel (Asia)	pictureFormat	480i
+Universal Channel (Asia)	pictureFormat	1080i
+Rogers Sportsnet One	pictureFormat	Standard-definition television
+Rogers Sportsnet One	pictureFormat	High-definition television
+Hometown Sports Indiana	pictureFormat	480i
+The Cox Channel	pictureFormat	480i
+The Cox Channel	pictureFormat	720p
+MARCA TV	pictureFormat	576i
+Nickelodeon (Greece)	pictureFormat	16:9
+Nickelodeon (Greece)	pictureFormat	Standard-definition television
+Disney Channel (Brazil)	pictureFormat	480i
+7mate	pictureFormat	1080i
+IFilm (TV channel)	pictureFormat	Aspect ratio (image)#4:3 standard
+IFilm (TV channel)	pictureFormat	Standard-definition television
+Disney Channel Portugal	pictureFormat	Aspect ratio (image)#4:3 standard
+Disney Channel Portugal	pictureFormat	Standard-definition television
+SIC K	pictureFormat	Aspect ratio (image)#4:3 standard
+SIC K	pictureFormat	Standard-definition television
+1TV (Afghan TV channel)	pictureFormat	Standard-definition television
+Sony Entertainment Television (Southeast Asia)	pictureFormat	480i
+Sony Entertainment Television (Southeast Asia)	pictureFormat	Aspect ratio (image)#4:3 standard
+Eleven (TV channel)	pictureFormat	576i
+Boing (Spain)	pictureFormat	Aspect ratio (image)#16:9 standard
+ESPN Goal Line	pictureFormat	720p
+Canal+ Liga	pictureFormat	576p
+Canal+ Liga	pictureFormat	1080i
+TV10 (Sweden)	pictureFormat	576i
+Diva Universal (Philippines)	pictureFormat	480i
+FARSI1	pictureFormat	Standard-definition television
+GEM (Australian TV channel)	pictureFormat	1080i
+Nitro (TV channel)	pictureFormat	16:9
+TRTÉ	pictureFormat	PAL
+RTÉjr	pictureFormat	PAL
+News 24 Houston	pictureFormat	Aspect ratio (image)#4:3 standard
+News 9 San Antonio	pictureFormat	Aspect ratio (image)#4:3 standard
+Fox Family Movies (Asia)	pictureFormat	Aspect ratio (image)#4:3 standard
+Fox Family Movies (Asia)	pictureFormat	Aspect ratio (image)#16:9 standard
+Wazoo Sports Network	pictureFormat	480i
+Channel 5 (UK)	pictureFormat	576i
+Channel 5 (UK)	pictureFormat	Aspect ratio (image)#4:3 standard
+Channel 5 (UK)	pictureFormat	1080i
+Orange County Newschannel	pictureFormat	Aspect ratio (image)#4:3 standard
+Sky 3D	pictureFormat	1080i
+Sky Atlantic	pictureFormat	576i
+Sky Atlantic	pictureFormat	Aspect ratio (image)#4:3 standard
+Sky Atlantic	pictureFormat	1080i
+Nick Jr. (Greece)	pictureFormat	Aspect ratio (image)#4:3 standard
+Nick Jr. (Greece)	pictureFormat	Standard-definition television
+Gem Collector	pictureFormat	576i
+Gem Collector	pictureFormat	Standard-definition television
+TV Biznes	pictureFormat	16:9
+Fly channel	pictureFormat	Standard-definition television
+MSG Varsity	pictureFormat	480i
+MSG Varsity	pictureFormat	1080i
+HBO Family Asia	pictureFormat	480i
+HBO Family Asia	pictureFormat	Aspect ratio (image)#4:3 standard
+Kanal D Romania	pictureFormat	Aspect ratio (image)#4:3 standard
+Kanal D Romania	pictureFormat	Standard-definition television
+STAR World India	pictureFormat	576i
+STAR World India	pictureFormat	1080i
+NBC California Nonstop	pictureFormat	1080i
+STVDIO (TV Channel)	pictureFormat	576i
+WTF (TV channel)	pictureFormat	16:9
+AXN (Portugal)	pictureFormat	576i
+AXN (Portugal)	pictureFormat	1080i
+AXN (Portugal)	pictureFormat	16:9
+Public Broadcasting Service	pictureFormat	480i
+Public Broadcasting Service	pictureFormat	720p
+Public Broadcasting Service	pictureFormat	1080i
+Sixx	pictureFormat	Aspect ratio (image)#4:3 standard
+Sixx	pictureFormat	16:9
+Disney XD	pictureFormat	480i
+Disney XD	pictureFormat	720p
+MTV 3 (Macedonia)	pictureFormat	Aspect ratio (image)#4:3 standard
+MTV 3 (Macedonia)	pictureFormat	Standard-definition television
+Kanal 5 plus	pictureFormat	Aspect ratio (image)#4:3 standard
+Kanal 5 plus	pictureFormat	Standard-definition television
+Private Spice	pictureFormat	Aspect ratio (image)#4:3 standard
+Private Spice	pictureFormat	Standard-definition television
+Dorcel TV	pictureFormat	Aspect ratio (image)#4:3 standard
+Dorcel TV	pictureFormat	Standard-definition television
+TV Alhijrah	pictureFormat	High-definition television
+SET One	pictureFormat	480i
+SET One	pictureFormat	Aspect ratio (image)#4:3 standard
+SET One	pictureFormat	1080i
+SET One	pictureFormat	16:9
+TVP Seriale	pictureFormat	16:9
+Film GB	pictureFormat	576i
+Sofa Screen	pictureFormat	576i
+Sofa Stars	pictureFormat	576i
+Disney Channel Korea	pictureFormat	480i
+Four (New Zealand TV channel)	pictureFormat	576i
+Fox (Poland)	pictureFormat	1080i
+ASTV	pictureFormat	Aspect ratio (image)#4:3 standard
+ASTV	pictureFormat	Standard-definition television
+Root Sports	pictureFormat	480i
+Root Sports	pictureFormat	720p
+Polsat Futbol	pictureFormat	16:9
+Shant TV	pictureFormat	1080i
+Superstacja	pictureFormat	Aspect ratio (image)#4:3 standard
+RTL 2 (Croatia)	pictureFormat	16:9
+Discovery HD World	pictureFormat	1080i
+National Geographic Channel Greece	pictureFormat	576i
+Doma TV	pictureFormat	576i
+TVN HD	pictureFormat	1080i
+TVN HD  +1   1	pictureFormat	1080i
+V Televisión	pictureFormat	16:9
+TNL TV	pictureFormat	Analog television
+Adult Swim (UK & Ireland)	pictureFormat	576i
+Adult Swim (UK & Ireland)	pictureFormat	1080i
+MTV Music (UK & Ireland)	pictureFormat	Aspect ratio (image)#4:3 standard
+MTV Music (UK & Ireland)	pictureFormat	576i
+Polskie Radio Program IV  Radio na Wizji   1	pictureFormat	Aspect ratio (image)#16:9 standard
+Cartoon Network (Korean TV channel)	pictureFormat	480i
+Cartoon Network (Korean TV channel)	pictureFormat	1080i
+U (TV channel)	pictureFormat	576i
+Cartoon Network (Taiwan)	pictureFormat	480i
+BandSports	pictureFormat	Standard-definition television
+STAR Pravah	pictureFormat	576i
+Foxtel 3D	pictureFormat	1080i
+3net	pictureFormat	3D television
+TV6 (Poland)	pictureFormat	16:9
+GMA News TV	pictureFormat	480i
+Sky Cinema (Italy)	pictureFormat	Aspect ratio (image)#16:9 standard
+Sky Cinema (Italy)	pictureFormat	High-definition television
+Karusel	pictureFormat	576i
+Animax Portugal	pictureFormat	Aspect ratio (image)#4:3 standard
+Animax Portugal	pictureFormat	Standard-definition television
+ESPN2 Australia	pictureFormat	576i
+ESPN2 Australia	pictureFormat	720p
+LifeStyle Home	pictureFormat	576i
+AksyonTV	pictureFormat	480i
+AXN (India)	pictureFormat	480i
+AXN (India)	pictureFormat	High-definition television
+AXN (India)	pictureFormat	Aspect ratio (image)#4:3 standard
+TV2 (Malaysia)	pictureFormat	PAL
+Sky Sports	pictureFormat	576i
+Sky Sports	pictureFormat	Aspect ratio (image)#4:3 standard
+Sky Sports	pictureFormat	1080i
+Movie Network	pictureFormat	576i
+Movie Network	pictureFormat	1080i
+NASA TV	pictureFormat	Standard-definition television
+NASA TV	pictureFormat	High-definition television
+Lifetime Movie Network	pictureFormat	480i
+Lifetime Movie Network	pictureFormat	1080i
+MovieTime	pictureFormat	1080i
+MovieTime	pictureFormat	480i
+Frisbee (TV channel)	pictureFormat	Aspect ratio (image)#4:3 standard
+Xfinity 3D	pictureFormat	3D television
+National Geographic Channel (South Korea)	pictureFormat	480i
+National Geographic Channel (South Korea)	pictureFormat	720p
+RTÉ Plus	pictureFormat	PAL
+NY1 Rail and Road	pictureFormat	480i
+Sky Arena	pictureFormat	16:9
+Mediashopping	pictureFormat	Aspect ratio (image)#4:3 standard
+Talk TV (Philippines)	pictureFormat	480i
+CgeTV	pictureFormat	480i
+NBA Premium TV	pictureFormat	480i
+Hálózat TV	pictureFormat	1080i
+Home Theater Network	pictureFormat	480i
+Nickelodeon (Philippines)	pictureFormat	480i
+Sony Entertainment Television (UK & Ireland)	pictureFormat	576i
+Disney XD (Canada)	pictureFormat	1080i
+Disney XD (Canada)	pictureFormat	480i
+Telma (TV channel)	pictureFormat	Aspect ratio (image)#4:3 standard
+Telma (TV channel)	pictureFormat	Standard-definition television
+Orbit Al Yawm (Canada)	pictureFormat	Aspect ratio (image)#4:3 standard
+Orbit Al Yawm (Canada)	pictureFormat	Standard-definition television
+HBO Hits	pictureFormat	480i
+HBO Hits	pictureFormat	Aspect ratio (image)#4:3 standard
+Bahn TV	pictureFormat	576i
+Bahn TV	pictureFormat	Aspect ratio (image)#4:3 standard
+MTV Music (Italy)	pictureFormat	16:9
+MTV Music (Italy)	pictureFormat	576i
+Disney Channel Vietnam	pictureFormat	480i
+Arab Motors TV	pictureFormat	PAL
+Vintage TV (TV channel)	pictureFormat	576i
+The Game Channel	pictureFormat	480i
+Saudi T.V. Channel 1	pictureFormat	Aspect ratio (image)#4:3 standard
+Eska TV	pictureFormat	16:9
+Esport3	pictureFormat	576i
+Disney Junior (Asia)	pictureFormat	480i
+Disney Junior (Asia)	pictureFormat	1080i
+ANT1 Pacific	pictureFormat	Aspect ratio (image)#4:3 standard
+ANT1 Pacific	pictureFormat	Standard-definition television
+ERT HD	pictureFormat	1080i
+ERT HD	pictureFormat	16:9
+Comcast SportsNet Houston	pictureFormat	480i
+Comcast SportsNet Houston	pictureFormat	1080i
+Nilachakra Ekamra	pictureFormat	MPEG-4
+Nick Jr. (South East Asia)	pictureFormat	480i
+Al Nile	pictureFormat	Aspect ratio (image)#4:3 standard
+Al Nile	pictureFormat	Standard-definition television
+Disney Junior (Italy)	pictureFormat	576i
+Disney Junior (Italy)	pictureFormat	16:9
+Disney Junior (Italy)	pictureFormat	Standard-definition television
+Disney Junior (Canadian English TV channel)	pictureFormat	480i
+La7d	pictureFormat	Aspect ratio (image)#16:9 standard
+Ginx TV	pictureFormat	576i
+Ginx TV	pictureFormat	1080i
+Disney Junior (Australia and New Zealand)	pictureFormat	576i
+Disney Junior (Greece)	pictureFormat	Aspect ratio (image)#4:3 standard
+Disney Junior (Greece)	pictureFormat	Standard-definition television
+MTV Flanders	pictureFormat	576i
+MTV Music (Greece)	pictureFormat	576i
+ANT1 Satellite	pictureFormat	Aspect ratio (image)#4:3 standard
+ANT1 Satellite	pictureFormat	Standard-definition television
+ANT1 Europe	pictureFormat	Aspect ratio (image)#4:3 standard
+ANT1 Europe	pictureFormat	Standard-definition television
+ETV Gujarati	pictureFormat	576i
+ABC 4 Kids	pictureFormat	576i
+Qubo Night Owl	pictureFormat	480i
+Toonin' Saturdays	pictureFormat	480i
+Toonin' Saturdays	pictureFormat	720p
+B4U (TV channel)	pictureFormat	576i
+Tv World Entertainment	pictureFormat	Aspect ratio (image)#4:3 standard
+Tv World Entertainment	pictureFormat	Standard-definition television
+Showcase (Australian TV channel)	pictureFormat	576i
+Showcase (Australian TV channel)	pictureFormat	1080i
+S2 (TV channel)	pictureFormat	576i
+Sportdigital.tv	pictureFormat	576i
+Shop TV	pictureFormat	480i
+Kmap inc	pictureFormat	480i
+Kmap inc	pictureFormat	Aspect ratio (image)#4:3 standard
+Universal Channel (Turkey)	pictureFormat	16:9
+Universal Channel (Turkey)	pictureFormat	High-definition television
+Showtime Greats	pictureFormat	576i
+Rai Nettuno Sat 1	pictureFormat	Aspect ratio (image)#4:3 standard
+Rai Nettuno Sat 1	pictureFormat	16:9
+MAD TV (Cyprus)	pictureFormat	576i

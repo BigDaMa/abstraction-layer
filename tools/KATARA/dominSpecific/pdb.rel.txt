@@ -1,0 +1,110 @@
+Chymosin	pdb	4CMS
+Xanthine oxidase	pdb	1FIQ
+Luciferase	pdb	1LCI
+Thaumatin	pdb	1RQW
+Cyclooxygenase	pdb	1CQE
+Cyclooxygenase  2   1	pdb	6COX
+Atrial natriuretic peptide	pdb	1ANP
+COPII	pdb	1M2V
+COPII  SEC24 family, member A   1	pdb	1M2V
+Charybdotoxin	pdb	2crd
+Streptokinase	pdb	1BML
+Monellin	pdb	2O9U
+Protein Z	pdb	1LP1
+Estrogen receptor	pdb	1ERE
+Estrogen receptor  2 ER-beta   1	pdb	1QKM
+Fibrillin	pdb	2W86
+Motilin	pdb	1lbj
+Lingual lipase	pdb	4tgL
+Nitrilase	pdb	3IVZ
+Interleukin 12	pdb	1F45
+Interleukin 12  B   1	pdb	1F42
+Hepatocyte nuclear factor 4	pdb	1M7W
+Hepatocyte nuclear factor 4  gamma   1	pdb	1LV2
+Brazzein	pdb	1BRZ
+Glutamine synthetase	pdb	2qc8
+Relaxin  2   1	pdb	6RLX
+Sclerostin	pdb	2KD3
+Nebulin	pdb	1NEB
+Human serum albumin	pdb	1E7H
+Adipocyte protein 2	pdb	2HNX
+Human placental lactogen  chorionic somatomammotropin hormone 2   1	pdb	1Z7C
+Cytochrome b5	pdb	1JEX
+Cohesin	pdb	1W1W
+Cohesin  Structural maintenance of chromosomes protein 1   1	pdb	1W1W
+Major sperm protein	pdb	1MSP
+Sterol regulatory element-binding protein	pdb	1am9
+P300-CBP coactivator family	pdb	3biy
+P300-CBP coactivator family  CREB binding protein CBP   1	pdb	3dwy
+Ku (protein)	pdb	1JEY
+Ku (protein)  X-ray repaircross-complementing 6   1	pdb	1JEY
+Guanylin	pdb	1O8R
+Macrophage inflammatory protein	pdb	1B50
+Macrophage inflammatory protein  chemokine C-C motif ligand 4   1	pdb	1HUM
+Ankyrin	pdb	1N11
+XK (protein)	pdb	BAE48708
+Barnase	pdb	1BRS
+Geranylgeranyltransferase type 1	pdb	1S64
+Geranylgeranyltransferase type 1  GGTase 1 β-subunit protein geranylgeranyl- transfe  1	pdb	1S64
+Subtilisin	pdb	1st2
+DNA clamp	pdb	1axc
+CD3 (immunology)	pdb	1XIW
+FAAH	pdb	1MT5
+Calsequestrin	pdb	1A8Y
+Fel d 1	pdb	1PUO
+Neuropilin	pdb	3I97
+Calponin	pdb	1WYP
+HindIII	pdb	2e52
+Interleukin 33	pdb	2KLL
+Interleukin 17  F   1	pdb	1JPY
+Interleukin 19	pdb	1N1F
+Tryptophan hydroxylase	pdb	1MLW
+CCL1	pdb	1EL0
+Clostridium perfringens alpha toxin	pdb	1CA1
+CCL15	pdb	2HCC
+CCL23	pdb	1G91
+CCL24	pdb	1EIG
+CCL26	pdb	1G2T
+CXCL14	pdb	2HDL
+CAMP receptor protein	pdb	1I5Z
+Dihydroorotate dehydrogenase	pdb	1D3G
+Sialoadhesin	pdb	2BVE
+Ribonuclease T1	pdb	1YGW
+CC chemokine receptors  CCR2   1	pdb	1KAD
+CC chemokine receptors  CCR5   1	pdb	1ND8
+2,4 Dienoyl-CoA reductase	pdb	1w6u
+Actinidain	pdb	1AEC
+Hepatocyte nuclear factors	pdb	1JB6
+Hepatocyte nuclear factors  hepatocyte nuclear factor 1, beta   1	pdb	2H8R
+Hepatocyte nuclear factors  hepatocyte nuclear factor 4alpha   1	pdb	1M7W
+Hepatocyte nuclear factors  hepatocyte nuclear factor 4gamma   1	pdb	1LV2
+Polynucleotide phosphorylase	pdb	1E3P
+Tyrosine aminotransferase	pdb	3DYD
+ESAT-6	pdb	3FAV
+Aminomethyltransferase	pdb	1WSR
+HIV-1 protease	pdb	1EBZ
+RAR-related orphan receptor	pdb	1N83
+RAR-related orphan receptor  AR-related orphan receptor B beta   1	pdb	1NQ7
+Electron-transferring-flavoprotein dehydrogenase	pdb	2GMH
+CDGSH iron sulfur domain	pdb	2QH7
+Curculin	pdb	2PDF
+Mabinlin  2   1	pdb	2DS2
+NSP3 (rotavirus)	pdb	1LJ2
+Leukotriene-A4 hydrolase	pdb	1SQM
+Serine C-palmitoyltransferase	pdb	2JG2
+Serratiopeptidase	pdb	1SRP
+FKBP6	pdb	3B7X
+Cdc6	pdb	1FNN
+Transaldolase B	pdb	1onr
+Dispersin B	pdb	1YHT
+CKB (gene)	pdb	1QH4
+Pho4	pdb	1a0a
+ATG8	pdb	1ugm
+CobB	pdb	1S5P
+Gcn2	pdb	1zyc
+Dps (DNA-binding proteins from starved cells)	pdb	1QGH
+MAD1	pdb	1GO4
+APC/C activator protein CDH1	pdb	2ovq
+MDia1	pdb	1z2c
+Bisindolylmaleimide  Proto-oncogene serine/threonine-protein kinase pim  1	pdb	1YI3
+CyaA	pdb	2COL

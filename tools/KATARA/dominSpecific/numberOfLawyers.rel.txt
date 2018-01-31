@@ -1,0 +1,260 @@
+King & Spalding	numberOfLawyers	800
+Skadden, Arps, Slate, Meagher & Flom	numberOfLawyers	1886
+Shearman & Sterling	numberOfLawyers	900
+Jones Day	numberOfLawyers	2500
+Linklaters	numberOfLawyers	2260
+Faegre & Benson	numberOfLawyers	500
+Morrison & Foerster	numberOfLawyers	1000
+Cravath, Swaine & Moore	numberOfLawyers	500
+Sullivan & Cromwell	numberOfLawyers	825
+Goodwin Procter	numberOfLawyers	850
+Simpson Thacher & Bartlett	numberOfLawyers	817
+Cadwalader, Wickersham & Taft	numberOfLawyers	578
+Cleary Gottlieb Steen & Hamilton	numberOfLawyers	900
+Clifford Chance	numberOfLawyers	2900
+White & Case	numberOfLawyers	2000
+Fulbright & Jaworski	numberOfLawyers	955
+Greenberg Traurig	numberOfLawyers	1800
+Akin Gump Strauss Hauer & Feld	numberOfLawyers	800
+Wachtell, Lipton, Rosen & Katz	numberOfLawyers	217
+Sherman & Howard	numberOfLawyers	190
+Davis Graham & Stubbs	numberOfLawyers	134
+Orrick, Herrington & Sutcliffe	numberOfLawyers	1100
+Squire, Sanders & Dempsey	numberOfLawyers	1275
+Quinn Emanuel Urquhart & Sullivan	numberOfLawyers	450
+Davis Polk & Wardwell	numberOfLawyers	853
+Kirkland & Ellis	numberOfLawyers	1419
+Wilson Sonsini Goodrich & Rosati	numberOfLawyers	631
+Proskauer Rose	numberOfLawyers	650
+K&L Gates	numberOfLawyers	1900
+Locke Lord Bissell & Liddell	numberOfLawyers	700
+Haynes and Boone	numberOfLawyers	550
+Davies Ward Phillips & Vineberg	numberOfLawyers	242
+Dorsey & Whitney	numberOfLawyers	677
+Foley & Lardner	numberOfLawyers	1000
+Borden Ladner Gervais	numberOfLawyers	750
+Irell & Manella	numberOfLawyers	220
+Finnegan, Henderson, Farabow, Garrett & Dunner	numberOfLawyers	375
+Minter Ellison	numberOfLawyers	900
+Nixon Peabody	numberOfLawyers	800
+Dykema Gossett	numberOfLawyers	374
+Bracewell & Giuliani	numberOfLawyers	470
+Sidley Austin	numberOfLawyers	1700
+Kaye Scholer	numberOfLawyers	450
+Debevoise & Plimpton	numberOfLawyers	680
+Russell McVeagh	numberOfLawyers	250
+Bird & Bird	numberOfLawyers	784
+Olswang	numberOfLawyers	400
+DWF	numberOfLawyers	1124
+Hughes Hubbard & Reed	numberOfLawyers	343
+Davis Wright Tremaine	numberOfLawyers	519
+Frost Brown Todd	numberOfLawyers	475
+Wilmer Cutler Pickering Hale and Dorr	numberOfLawyers	933
+Townsend and Townsend and Crew	numberOfLawyers	210
+Kelley Drye & Warren	numberOfLawyers	300
+DLA Phillips Fox	numberOfLawyers	166
+Holme Roberts & Owen	numberOfLawyers	210
+Bell Gully	numberOfLawyers	47
+SyCip Salazar Hernandez & Gatmaitan	numberOfLawyers	151
+Mallesons Stephen Jaques	numberOfLawyers	1000
+Sive, Paget & Riesel	numberOfLawyers	19
+CMS Cameron McKenna	numberOfLawyers	790
+Howrey	numberOfLawyers	500
+Ashurst (law firm)	numberOfLawyers	800
+Herbert Smith	numberOfLawyers	1300
+Lieff Cabraser Heimann & Bernstein	numberOfLawyers	60
+Winston & Strawn	numberOfLawyers	900
+Fenwick & West	numberOfLawyers	250
+Fried, Frank, Harris, Shriver & Jacobson	numberOfLawyers	468
+Williams & Connolly	numberOfLawyers	200
+Thacher Proffitt & Wood	numberOfLawyers	365
+Holman Fenwick Willan LLP	numberOfLawyers	400
+Lowenstein Sandler	numberOfLawyers	260
+Weil, Gotshal & Manges	numberOfLawyers	1200
+Munger, Tolles & Olson	numberOfLawyers	192
+Denton Wilde Sapte	numberOfLawyers	600
+Fish & Richardson	numberOfLawyers	350
+Willkie Farr & Gallagher	numberOfLawyers	637
+Brobeck, Phleger & Harrison	numberOfLawyers	520
+Berwin Leighton Paisner	numberOfLawyers	600
+Coudert Brothers	numberOfLawyers	650
+Clayton Utz	numberOfLawyers	970
+Milbank, Tweed, Hadley & McCloy	numberOfLawyers	550
+Chadbourne & Parke	numberOfLawyers	400
+Balch & Bingham	numberOfLawyers	250
+Trowers & Hamlins	numberOfLawyers	350
+McDermott Will & Emery	numberOfLawyers	1088
+Mishcon de Reya	numberOfLawyers	250
+Blakely Sokoloff Taylor & Zafman	numberOfLawyers	82
+Perkins Coie	numberOfLawyers	700
+Thelen LLP	numberOfLawyers	400
+Bennett Jones	numberOfLawyers	325
+Hammonds	numberOfLawyers	700
+Deacons (law firm)	numberOfLawyers	190
+Loyens & Loeff	numberOfLawyers	880
+Butzel Long	numberOfLawyers	170
+Fitch, Even, Tabin & Flannery	numberOfLawyers	59
+Anderson Mōri & Tomotsune	numberOfLawyers	270
+Corrs Chambers Westgarth	numberOfLawyers	950
+Clarke Willmott	numberOfLawyers	500
+McGuireWoods	numberOfLawyers	900
+McAndrews, Held & Malloy	numberOfLawyers	88
+Barlow Lyde & Gilbert	numberOfLawyers	300
+Bond Pearce	numberOfLawyers	200
+Mayer Brown	numberOfLawyers	1600
+Nagashima Ohno & Tsunematsu	numberOfLawyers	334
+Nishimura & Asahi	numberOfLawyers	484
+Sonnenschein Nath & Rosenthal	numberOfLawyers	800
+Duane Morris	numberOfLawyers	594
+Reed Smith	numberOfLawyers	1500
+Crowell & Moring	numberOfLawyers	440
+Heller Ehrman	numberOfLawyers	730
+Sutherland Asbill & Brennan	numberOfLawyers	422
+Patton Boggs	numberOfLawyers	518
+Merchant & Gould	numberOfLawyers	105
+De Brauw Blackstone Westbroek	numberOfLawyers	341
+Garrigues (law firm)	numberOfLawyers	2100
+Gallop, Johnson & Neuman	numberOfLawyers	66
+Charles Russell LLP	numberOfLawyers	300
+Tanner De Witt	numberOfLawyers	20
+Browne Jacobson	numberOfLawyers	280
+McAfee & Taft	numberOfLawyers	165
+Dewey & LeBoeuf	numberOfLawyers	1100
+Baker Hostetler	numberOfLawyers	650
+SJ Berwin	numberOfLawyers	600
+Schulte Roth & Zabel	numberOfLawyers	450
+Seyfarth Shaw	numberOfLawyers	750
+Jun He Law Offices	numberOfLawyers	391
+Clyde & Co	numberOfLawyers	574
+King & Wood	numberOfLawyers	830
+Steptoe & Johnson	numberOfLawyers	500
+Watson, Farley & Williams	numberOfLawyers	338
+Altheimer & Gray	numberOfLawyers	300
+Withers (law firm)	numberOfLawyers	284
+Rogers & Wells	numberOfLawyers	400
+Curtis, Mallet-Prevost, Colt & Mosle	numberOfLawyers	260
+Bricker & Eckler	numberOfLawyers	160
+Testa, Hurwitz & Thibeault	numberOfLawyers	400
+Manatt, Phelps & Phillips	numberOfLawyers	322
+Jenkens & Gilchrist	numberOfLawyers	600
+Hengeler Mueller	numberOfLawyers	236
+Gleiss Lutz	numberOfLawyers	280
+Gide Loyrette Nouel	numberOfLawyers	1200
+Ice Miller	numberOfLawyers	262
+McGlinchey Stafford	numberOfLawyers	160
+Schiff Hardin	numberOfLawyers	400
+Sheppard, Mullin, Richter & Hampton	numberOfLawyers	550
+Robins, Kaplan, Miller & Ciresi	numberOfLawyers	250
+Burges Salmon	numberOfLawyers	246
+Husch Blackwell	numberOfLawyers	625
+Ince & Co.	numberOfLawyers	88
+Cozen O'Connor	numberOfLawyers	531
+Haiwen & Partners	numberOfLawyers	70
+Fangda Partners	numberOfLawyers	100
+Commerce & Finance Law Offices	numberOfLawyers	174
+Shook, Hardy & Bacon	numberOfLawyers	500
+Quarles & Brady	numberOfLawyers	472
+Nossaman	numberOfLawyers	140
+Davenport Lyons	numberOfLawyers	16
+Walter, Conston, Alexander & Green	numberOfLawyers	54
+Stoel Rives	numberOfLawyers	391
+Dinsmore & Shohl	numberOfLawyers	450
+Baker, Donelson, Bearman, Caldwell & Berkowitz	numberOfLawyers	550
+Steptoe & Johnson (West Virginia)	numberOfLawyers	200
+Williams Kastner	numberOfLawyers	93
+Boies, Schiller & Flexner	numberOfLawyers	240
+Taylor Wessing	numberOfLawyers	780
+Vorys, Sater, Seymour and Pease	numberOfLawyers	392
+Gilbert + Tobin	numberOfLawyers	200
+Keating Muething & Klekamp	numberOfLawyers	110
+Covington & Burling	numberOfLawyers	608
+Lehman, Lee & Xu	numberOfLawyers	600
+Lewis and Roca	numberOfLawyers	214
+Lewis Brisbois Bisgaard & Smith	numberOfLawyers	795
+Wyatt, Tarrant & Combs	numberOfLawyers	200
+Bowman Gilfillan	numberOfLawyers	300
+Webber Wentzel	numberOfLawyers	320
+Harbottle & Lewis	numberOfLawyers	77
+Wilson Elser Moskowitz Edelman & Dicker	numberOfLawyers	800
+Levin & Perconti	numberOfLawyers	12
+Oppenhoff & Partner	numberOfLawyers	50
+Allen, Allen, Allen & Allen	numberOfLawyers	21
+Luce, Forward, Hamilton & Scripps	numberOfLawyers	200
+Vilaf	numberOfLawyers	60
+Warner Norcross & Judd	numberOfLawyers	220
+Magisters	numberOfLawyers	100
+Bradley Arant Boult Cummings LLP	numberOfLawyers	360
+Field Fisher Waterhouse	numberOfLawyers	370
+Leathes Prior	numberOfLawyers	28
+Wilentz, Goldman & Spitzer	numberOfLawyers	150
+Boys & Maughan	numberOfLawyers	20
+Cartwright King	numberOfLawyers	70
+Leigh Day & Co	numberOfLawyers	63
+Reynolds Porter Chamberlain	numberOfLawyers	136
+Evans & Dixon	numberOfLawyers	75
+Birkett Long LLP	numberOfLawyers	70
+Sas daniels LLP	numberOfLawyers	49
+Marks & Clerk	numberOfLawyers	230
+Dickinson Dees	numberOfLawyers	261
+Grant & Eisenhofer P.A.	numberOfLawyers	50
+Travlaw LLP Solicitors	numberOfLawyers	8
+Deneys Reitz Inc	numberOfLawyers	230
+Morrish Solicitors LLP	numberOfLawyers	40
+Heptonstalls LLP Solicitors	numberOfLawyers	20
+Selman Munson & Lerner	numberOfLawyers	14
+Astrachan Gunst Thomas Rubin	numberOfLawyers	9
+Cliffe Dekker Hofmeyr	numberOfLawyers	270
+Grandall Legal Group	numberOfLawyers	630
+Winstead PC	numberOfLawyers	270
+Sterne, Kessler, Goldstein & Fox	numberOfLawyers	100
+Senniger Powers	numberOfLawyers	40
+Bodman PLC	numberOfLawyers	140
+Haim Zadok & Co.	numberOfLawyers	26
+Harrison Goddard Foote	numberOfLawyers	50
+Ibrachy Law Firm	numberOfLawyers	8
+Harness, Dickey & Pierce	numberOfLawyers	120
+Mayerson Law	numberOfLawyers	5
+ACS:Law	numberOfLawyers	1
+Bristows	numberOfLawyers	32
+Broad and Cassel	numberOfLawyers	169
+Pierce Glynn	numberOfLawyers	9
+Blitman and King LLP	numberOfLawyers	20
+Thompson Dorfman Sweatman	numberOfLawyers	78
+Stephenson Harwood	numberOfLawyers	300
+Matrix Chambers	numberOfLawyers	69
+TBI Solicitors	numberOfLawyers	70
+Chadwick Lawrence	numberOfLawyers	100
+Caplin & Drysdale	numberOfLawyers	64
+Axley Brynelson, LLP	numberOfLawyers	54
+Hogan Lovells	numberOfLawyers	2500
+Brownstein Hyatt Farber Schreck	numberOfLawyers	250
+Donahue Gallagher Woods LLP	numberOfLawyers	34
+Mourant Ozannes	numberOfLawyers	200
+Oh-Ebashi LPC & Partners	numberOfLawyers	89
+Pannone LLP	numberOfLawyers	355
+Brown & James	numberOfLawyers	113
+Clifford Law Offices	numberOfLawyers	22
+Schoenherr Attorneys at Law	numberOfLawyers	300
+Jacoby & Meyers	numberOfLawyers	150
+Goldfarb Branham LLP	numberOfLawyers	6
+Gordon & Rees	numberOfLawyers	400
+HCL Hanne & Co	numberOfLawyers	55
+Cuneo Gilbert & LaDuca, LLP	numberOfLawyers	15
+Stites & Harbison	numberOfLawyers	260
+Lidings	numberOfLawyers	20
+Sands Anderson	numberOfLawyers	75
+Cantor, Stoneburner, Ford, Grana & Buckner	numberOfLawyers	6
+Foster Swift Collins & Smith	numberOfLawyers	108
+Kilpatrick Townsend & Stockton	numberOfLawyers	600
+5 Stone Buildings	numberOfLawyers	24
+Bivona & Cohen	numberOfLawyers	25
+Russell-Cooke Solicitors	numberOfLawyers	150
+Goldberg Weisman Cairo	numberOfLawyers	33
+Bancroft PLLC	numberOfLawyers	8
+Rollits LLP	numberOfLawyers	60
+Von Briesen & Roper	numberOfLawyers	100
+OlsenDaines	numberOfLawyers	14
+Gates and Partners	numberOfLawyers	55
+Cooley LLP	numberOfLawyers	650
+The Ferraro Law Firm	numberOfLawyers	18
+New Square Chambers	numberOfLawyers	48

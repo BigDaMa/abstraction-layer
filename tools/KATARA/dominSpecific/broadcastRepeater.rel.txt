@@ -1,0 +1,646 @@
+The Point (radio network)	broadcastRepeater	see below
+WHA (AM)	broadcastRepeater	W300BM 107.9 MHz
+WUBL	broadcastRepeater	WANN-LD 29 (TV 32.22)
+WKLS	broadcastRepeater	WANN-LD 29 (DTV 32.23)
+1RPH	broadcastRepeater	89.5 MHz FM Wagga Wagga, New South Wales
+KMOX	broadcastRepeater	102.5-3 FM KEZK-FM HD3
+WSVH	broadcastRepeater	88.9 WWIO-FM (Brunswick)
+WSVH	broadcastRepeater	99.5 W258AT (St. Marys)
+WSVH	broadcastRepeater	1190 WWIO AM (St. Marys)
+WBEZ	broadcastRepeater	90.7 WBEQ Morris, Illinois
+WGPR	broadcastRepeater	94.3 W232CA (Detroit, relays WGPR-HD3)
+WGPR	broadcastRepeater	104.7 W284BQ (Detroit, relays WGPR-HD2)
+KQED-FM	broadcastRepeater	See below
+KCRW	broadcastRepeater	KCRI 89.3 Indio
+KCRW	broadcastRepeater	KCRU 89.1 Oxnard
+KCRW	broadcastRepeater	KCRY 88.1 Mojave
+KCRW	broadcastRepeater	plus 9 low-power translators
+Power FM 98.1	broadcastRepeater	102.7 MHz FM Merriwa
+WMPG	broadcastRepeater	104.1 (Portland)
+WOSA	broadcastRepeater	WOSB 91.1 Marion
+WOSA	broadcastRepeater	WOSP 91.5 Portsmouth
+WOSA	broadcastRepeater	WOSE 91.1 Coshocton
+WOSA	broadcastRepeater	WOSV 91.7 Mansfield
+KCBS (AM)	broadcastRepeater	106.9 MHz
+WLAC	broadcastRepeater	WNRQ 105.9 HD-3 Nashville
+WHYY-FM	broadcastRepeater	see below
+WQED  -FM   1	broadcastRepeater	89.7 WQEJ (Johnstown)
+WHLC	broadcastRepeater	W239AN 95.7 Highlands
+WLKW	broadcastRepeater	WNBH/1340-New Bedford, Massachusetts (simulcast partner)
+WMVY	broadcastRepeater	W243AI
+WJIV	broadcastRepeater	105.5 (Bernardston, MA)
+WJIV	broadcastRepeater	94.3 (Greenville, NH)
+WJIV	broadcastRepeater	99.1 (Utica)
+KTCK	broadcastRepeater	KTDK 104.1
+KTCK	broadcastRepeater	KPLX 99.5 HD-2
+KPFK	broadcastRepeater	KPFK-FM1 Malibu, California
+KSWD (FM)	broadcastRepeater	100.1 K261AB (Newhall)
+WCRB	broadcastRepeater	WGBH 89.7 HD-2 Boston
+WCRB	broadcastRepeater	WNCK 89.5 Nantucket
+WCRB	broadcastRepeater	W242AA 96.3 Beacon Hill
+KNRJ	broadcastRepeater	92.7 (South Mountain)
+KNRJ	broadcastRepeater	99.3 (Downtown Phoenix)
+KNRJ	broadcastRepeater	93.5 (Flagstaff)
+KUSC	broadcastRepeater	KPSC: 88.5 MHz
+KUSC	broadcastRepeater	KDSC: 91.1 MHz
+KUSC	broadcastRepeater	KQSC: 88.7 MHz
+KUSC	broadcastRepeater	KESC: 99.7 MHz
+KPBX-FM	broadcastRepeater	10 low-powered translators
+KSPO	broadcastRepeater	(see article)
+KAZZ	broadcastRepeater	107.1 KAZZ-FM1 (Spokane)
+KMBI	broadcastRepeater	(see article)
+WNYU-FM	broadcastRepeater	WNYU-FM1
+WOSU (AM)	broadcastRepeater	WOSU-FM 89.7 Columbus
+WOSU (AM)	broadcastRepeater	W208AT 89.5 Coshocton
+WBAL (AM)	broadcastRepeater	WIYY-HD4 (97.9 MHz)
+WPHT	broadcastRepeater	WOGL 98.1-HD3 Philadelphia
+WPHD	broadcastRepeater	93.1 W226BA (Big Flats, NY)
+WSRT	broadcastRepeater	95.3 W237DA (Boyne City)
+WOSU-FM	broadcastRepeater	WOSU 820 Columbus
+WOSU-FM	broadcastRepeater	W208AT 89.5 Coshocton
+WYPR	broadcastRepeater	WYPF 88.1, Frederick
+WYPR	broadcastRepeater	WYPO 106.9, Ocean City
+WAMG	broadcastRepeater	WLLH 1400 Lowell and Lawrence
+WQED-FM	broadcastRepeater	89.7 WQEJ (Johnstown)
+Vermont Public Radio	broadcastRepeater	see table below
+WVJS	broadcastRepeater	100.5 W263BG (Owensboro)
+WRMI	broadcastRepeater	15.65Mc. (19M band German relay)
+KBCO	broadcastRepeater	94.3 FM (MHz) K232AC Breckenridge
+WGTE-FM	broadcastRepeater	WGLE 90.7 FM (Lima)
+WGTE-FM	broadcastRepeater	WGDE 91.9 FM (Defiance)
+WTEM	broadcastRepeater	WWXT 92.7 MHz
+WTEM	broadcastRepeater	WWXX 94.3 MHz
+KGSR	broadcastRepeater	102.7 K274AX (Austin)
+WAMC	broadcastRepeater	see below
+WCRF-FM	broadcastRepeater	WVMS 89.5, Sandusky, Ohio
+WCRF-FM	broadcastRepeater	WVMN 90.1, New Castle, Pennsylvania
+WCRF-FM	broadcastRepeater	WVME 91.9,  Meadville, Pennsylvania
+WCRF-FM	broadcastRepeater	WVML 90.5, Millersburg, Ohio
+WCRF-FM	broadcastRepeater	W210AR 89.9, Cochranton, Pennsylvania
+WCRF-FM	broadcastRepeater	W221AR 92.1 in Coshocton, Ohio
+WKSU-FM	broadcastRepeater	WKSV 89.1 Thompson Township
+WKSU-FM	broadcastRepeater	WKRW 89.3 Wooster
+WKSU-FM	broadcastRepeater	WNRK 90.7 Norwalk
+WKSU-FM	broadcastRepeater	WKRJ 91.5 New Philadelphia
+WKSU-FM	broadcastRepeater	W298BA 107.5 Boardman
+WKSU-FM	broadcastRepeater	W238AZ 95.7 Ashland
+KPLU-FM	broadcastRepeater	KVIX 89.3, Port Angeles
+KPLU-FM	broadcastRepeater	KPLI 90.1, Olympia
+WTNT (AM)	broadcastRepeater	WKDL 1250 Warrenton
+KUDL (AM)	broadcastRepeater	KRBZ 96.5-HD2
+CHOK	broadcastRepeater	103.9 FM
+CIBU-FM	broadcastRepeater	CIBU-FM-1 91.7 (Bluewater)
+CKNX-FM	broadcastRepeater	CKNX-FM-1 104.9 FM (Centreville)
+CITE-FM-1	broadcastRepeater	94.5 MHz, Sherbrooke
+Hot 100 FM	broadcastRepeater	765 kHz AM 102.1 MHz FM  90.1 MHz FM 96.9 MHz FM
+WITF-FM	broadcastRepeater	W260CC 99.9 MHz  Lancaster
+WAPS (FM)	broadcastRepeater	WKTL (90.7 MHz), Struthers, Ohio
+CFGE-FM	broadcastRepeater	98.1 MHz, Magog
+WJUX	broadcastRepeater	103.1 (Fort Lee, )
+WJUX	broadcastRepeater	98.9 (Poughkeepsie, )
+WXKR	broadcastRepeater	100.7 W264AK (Toledo, relaying WXKR-HD2)
+104.7 (Canberra)	broadcastRepeater	100.7 MHz Tuggeranong
+KYFG	broadcastRepeater	K252EG 98.3FM, Norfolk
+KYFG	broadcastRepeater	K276FB 103.1FM, Schuyler
+CIME-FM	broadcastRepeater	CIME-FM-1 102.9 MHz, Val-Morin
+CIME-FM	broadcastRepeater	CIME-FM-2 101.3 MHz, Mont-Tremblant
+WBHM	broadcastRepeater	WSGN 91.5 MHz (Gadsden)
+Alabama Public Radio	broadcastRepeater	WQPR  88.7 (Muscle Shoals)
+Alabama Public Radio	broadcastRepeater	WAPR 88.3 (Selma)
+Alabama Public Radio	broadcastRepeater	WHIL 91.3 (Mobile)
+WPRT-FM	broadcastRepeater	102.1 W271AB (Nashville)
+WDNC	broadcastRepeater	99.9-3 WCMC-HD3
+KQDJ (AM)	broadcastRepeater	97.1 K246AM (Jamestown)
+Troy University Public Radio	broadcastRepeater	WRWA 88.7
+Troy University Public Radio	broadcastRepeater	WTJB 91.7
+WVIK	broadcastRepeater	K239AB 95.7 FM Dubuque, Iowa
+WEZX	broadcastRepeater	See below
+WRCG	broadcastRepeater	106.9 FM
+KXJZ	broadcastRepeater	88.1 KQNC (Quincy)
+KXJZ	broadcastRepeater	90.5 KKTO (Lake Tahoe)
+KXJZ	broadcastRepeater	91.3 KUOP (Stockton)
+KFMA	broadcastRepeater	101.3 K267AF (Tucson)
+KCLU-FM	broadcastRepeater	102.3 K272DT (Santa Barbara)
+KUSP	broadcastRepeater	89.1 MHz (K206BQ Hollister)
+KUSP	broadcastRepeater	89.3 MHz (K207CN Santa Cruz)
+KUSP	broadcastRepeater	90.3 MHz (K212AA Los Gatos)
+KUSP	broadcastRepeater	91.3 MHz (K217EK Palo Colorado Canyon)
+KUSP	broadcastRepeater	91.7 MHz (KBDH San Ardo)
+KUSP	broadcastRepeater	105.9  MHz  (K290AE Big Sur Valley)
+KCSC	broadcastRepeater	KBCW 91.9 FM McAlester, Oklahoma
+WDUN-FM	broadcastRepeater	W300BF 107.9 MHz, Commerce, Georgia
+KBYU-FM	broadcastRepeater	K208BZ 89.5 mHz Spanish Fork, Utah
+KBYU-FM	broadcastRepeater	K288AS 105.5 mHz Bancroft, Idaho
+WZBA	broadcastRepeater	100.1 W261CD (downtown Baltimore)
+WNBQ	broadcastRepeater	W225AT (92.9 FM)
+WVBR-FM	broadcastRepeater	105.5 MHz
+KLCC (FM)	broadcastRepeater	KLBR 88.1 Bend
+KLCC (FM)	broadcastRepeater	K218AE 91.5 Cottage Grove
+KLCC (FM)	broadcastRepeater	KLFO 88.1 Florence
+KLCC (FM)	broadcastRepeater	KLCO 90.5 Newport
+KLCC (FM)	broadcastRepeater	K218AG 91.5 Oakridge
+KLCC (FM)	broadcastRepeater	KLFR 89.1 Reedsport
+KLCC (FM)	broadcastRepeater	K280BH 103.9 Riddle
+KLCC (FM)	broadcastRepeater	KMPQ 88.1 Roseburg
+KLCC (FM)	broadcastRepeater	K212AS 90.3 Sisters
+WJGK	broadcastRepeater	97.3 (Poughkeepsie)
+KMHD	broadcastRepeater	107.1 K296FT (West Haven) (relays HD2)
+WPRR	broadcastRepeater	W237CZ 95.3 MHz, Grand Rapids
+WZNX	broadcastRepeater	106.1 (Mattoon)
+WEHN	broadcastRepeater	92.9 MHz
+KDGL	broadcastRepeater	106.9 KDGL-1 (Palm Springs)
+KDGL	broadcastRepeater	103.9 K280CV (Cathedral City)
+98.4 Capital FM	broadcastRepeater	93.0 Western Kenya
+98.4 Capital FM	broadcastRepeater	98.5 Nakuru
+98.4 Capital FM	broadcastRepeater	98.4 Mombasa
+98.4 Capital FM	broadcastRepeater	98.5 Nyeri
+98.4 Capital FM	broadcastRepeater	103.9 Meru
+KVFX	broadcastRepeater	Salt Lake City 98.3 (MHz)
+KVFX	broadcastRepeater	Bear Lake 102.3 (MHz)
+KRWZ	broadcastRepeater	98.5-2 KYGO-HD2
+KRWZ	broadcastRepeater	103.1 K276FK (Pinecliffe)
+WJTL	broadcastRepeater	100.7 (Chambersburg)
+WCSR	broadcastRepeater	WCSR-FM: 99.5 W258AO (temporary)
+2AAA	broadcastRepeater	97.9, 99.1, 107.9 MHz FM
+2CUZ	broadcastRepeater	96.1, 102.7 MHz FM
+WMVN (FM)	broadcastRepeater	96.5 W243AB (Syracuse)
+WRGP	broadcastRepeater	W237CP 95.3 MHz, Miami
+WRGP	broadcastRepeater	W245BF 96.9 MHz, North Miami
+KFXX (AM)	broadcastRepeater	99.5-2 KWJJ-HD2
+KFXX (AM)	broadcastRepeater	1390 KWOD (Salem)
+WEJL	broadcastRepeater	96.1 W241AZ (Clarks Summit)
+WEJL	broadcastRepeater	100.1 WQFM (Forest City)
+WEJL	broadcastRepeater	100.5 W263AL (Avoca)
+WEJL	broadcastRepeater	96.1 W241BB (Wilkes-Barre)
+WBAX	broadcastRepeater	96.1 W241BB (Wilkes-Barre)
+KQDS-FM	broadcastRepeater	95.3 WXXZ (Grand Marais)
+KQDS-FM	broadcastRepeater	101.5 KFGI (Crosby)
+KQDS-FM	broadcastRepeater	105.5 KBAJ (Deer River)
+KQDS-FM	broadcastRepeater	106.7 KAOD (Babbitt)
+KRCL	broadcastRepeater	107.3 (Park City)
+WJSA-FM	broadcastRepeater	92.7 MHz - Loyalsock
+WJSA-FM	broadcastRepeater	100.5 MHz - South Williamsport
+KHRD	broadcastRepeater	93.3 K227AE (Redding)
+KOSU	broadcastRepeater	KOSN 107.5, Ketchum, Oklahoma
+WOGR (AM)	broadcastRepeater	88.3 (Harrisburg)
+WRNJ	broadcastRepeater	92.7 W224AS (Washington)
+WRNJ	broadcastRepeater	104.7 W284AQ (Hackettstown)
+Red River Radio	broadcastRepeater	(see article)
+WQUT	broadcastRepeater	104.9 W285DG (Boone, NC)
+WJBC (AM)	broadcastRepeater	93.7 WJBC-FM
+KEDT-FM	broadcastRepeater	KVRT 90.7 FM, Victoria
+WIOD	broadcastRepeater	WBGG-HD2 105.9-2
+KIFS	broadcastRepeater	92.9 K225AC (Grants Pass)
+KVMR	broadcastRepeater	105.1 MHz K286AN Truckee, California
+KDUR	broadcastRepeater	93.9 MHz
+KNWZ	broadcastRepeater	KNWH 1250 AM (Twentynine Palms)
+KNWZ	broadcastRepeater	K232CX 94.3 FM (Desert Hot Springs)
+WENN (AM)	broadcastRepeater	102.1 W270BW (Birmingham), 228 watts
+KSED	broadcastRepeater	92.5 K223AG (Prescott)
+WRRQ	broadcastRepeater	92.9 W225BC (Endicott, relays HD2 feed)
+WRRQ	broadcastRepeater	104.5 W283AG (Chenango Bridge, currently off the air)
+WRRQ	broadcastRepeater	107.1 W296BS (Johnson City, relays HD3 feed of Sunny 107.1)
+KHAR	broadcastRepeater	96.7 K244EG (Anchorage)
+KCHU	broadcastRepeater	88.1 MHz, 88.3 MHz
+KABN-FM	broadcastRepeater	K235BE 94.9 MHz, Sterling, Alaska
+KODZ	broadcastRepeater	95.3 K237EC (Florence)
+KMME	broadcastRepeater	94.9 K235BF (Eugene)
+KHPE	broadcastRepeater	96.9 K245AA (Eugene)
+KRVM-FM	broadcastRepeater	K211BP 90.1 MHz (Florence)
+KRVM-FM	broadcastRepeater	KSYD 92.1 MHz (Reedsport)
+KCNA	broadcastRepeater	see below
+KZZE	broadcastRepeater	105.9 K290AF (Rogue River)
+KZZE	broadcastRepeater	106.7 K294AS (Ashland)
+KRWQ	broadcastRepeater	see below
+KCMX-FM	broadcastRepeater	107.1 K296DA (Grants Pass)
+KAKT	broadcastRepeater	104.7 K284AE (Ashland)
+KAKT	broadcastRepeater	104.7 K284AF (Grants Pass)
+KLDR	broadcastRepeater	see below
+KBOY-FM	broadcastRepeater	96.1 K241AG (Grants Pass)
+KRCK-FM	broadcastRepeater	95.5 K238AK (Yucca Valley, California)
+KWPT	broadcastRepeater	102.7 K274AM (Eureka)
+WTHT	broadcastRepeater	96.9 W245AA (Portland)
+WPTQ	broadcastRepeater	103.1 (Bowling Green)
+KITY	broadcastRepeater	95.7 KOTY (Mason)
+KITY	broadcastRepeater	101.3 K267AO (Fredericksburg)
+KITY	broadcastRepeater	102.7 K274AX (Austin)
+KITY	broadcastRepeater	106.1 K291AZ (Burnet)
+TV 2 Radio	broadcastRepeater	23
+KQAC	broadcastRepeater	KQHR 88.1 FM/HD The Dalles/Hood River
+KQAC	broadcastRepeater	KQOC 88.1 FM/HD Newport/Lincoln City
+KQAC	broadcastRepeater	K242AX 96.3 FM Columbia River Gorge
+KCHH	broadcastRepeater	95.1 K236AB (Billings)
+WFHB	broadcastRepeater	98.1 (Bloomington)
+WFHB	broadcastRepeater	106.3 (Ellettsville)
+WFHB	broadcastRepeater	100.7 (Nashville)
+WJLD	broadcastRepeater	104.1 W281AB (Mountain Brook)
+WKU Public Radio	broadcastRepeater	WKPB 89.5, Henderson
+WKU Public Radio	broadcastRepeater	WDCL-FM 89.7, Somerset
+WKU Public Radio	broadcastRepeater	WKUE-FM 90.9, Elizabethtown
+WKU Public Radio	broadcastRepeater	W277AA-FM 103.3, Somerset
+WPOZ	broadcastRepeater	(see article)
+WDBO	broadcastRepeater	96.5-2 WHTQ-HD2
+KXPR	broadcastRepeater	88.7 KXJS (Sutter)
+KXPR	broadcastRepeater	91.7 KXSR (Groveland)
+KGVY	broadcastRepeater	100.7 K264BB (Tucson)
+KURK	broadcastRepeater	92.1 K221DR (Round Mountain)
+KURK	broadcastRepeater	93.1 K226AL (Carson City)
+KJHM-FM	broadcastRepeater	KJHM-FM1 Commerce City
+KBSU-FM	broadcastRepeater	(see article)
+KDAG	broadcastRepeater	105.7 K289AL (Cortez)
+KDAG	broadcastRepeater	106.7 K294AJ (Durango)
+WMOO	broadcastRepeater	W257AU 99.3, St. Johnsbury
+WZID	broadcastRepeater	94.1 W231BR (Manchester, relays HD2)
+WZID	broadcastRepeater	103.1 W276BJ (Concord, relays HD2)
+WPOL	broadcastRepeater	WKEW 1400 AM
+WBUK	broadcastRepeater	104.5 W283AX (Findlay)
+2WG	broadcastRepeater	100.7, 107.9 MHz FM
+WWTH	broadcastRepeater	94.1 W231BF (Alpena)
+WQUS	broadcastRepeater	105.5 W288BK (Rochester Hills)
+WPRJ	broadcastRepeater	96.7 W244BS (Alma)
+CKMX	broadcastRepeater	CFVP
+WGTO	broadcastRepeater	101.1 W266BS (Cassopolis)
+WZOR	broadcastRepeater	W292DR (106.3 FM) in De Pere, WI
+WLTN (AM)	broadcastRepeater	98.5 W253AY (Littleton)
+WSIM	broadcastRepeater	97.1 W246AW (Florence)
+WSIM	broadcastRepeater	98.9 W255BD (Darlington)
+KASS	broadcastRepeater	102.3 (Gillette)
+KASS	broadcastRepeater	99.9 (Riverton)
+WXBW	broadcastRepeater	101.5 WXBW-FM1 (Huntington)
+WVLD	broadcastRepeater	106.9 W295AO (Valdosta)
+WACV	broadcastRepeater	104.9 MHz
+WJRD	broadcastRepeater	102.1 W271AM (Tuscaloosa)
+WJRD	broadcastRepeater	106.3 W292DU (Tuscaloosa)
+WUUQ	broadcastRepeater	99.3 W257AZ (Lookout Mountain)
+Radio TAB	broadcastRepeater	various in Queensland, South Australia, and the Northern Territory
+WPSK-FM	broadcastRepeater	103.5 Blacksburg
+WGCU-FM	broadcastRepeater	WMKO-FM 91.7, Marco Island
+WMLQ	broadcastRepeater	104.9 W285DY (Ludington)
+Mars Hill Network	broadcastRepeater	(see left)
+WAYF	broadcastRepeater	(see article)
+WIBI	broadcastRepeater	(see left)
+WJCS	broadcastRepeater	W249CA Bangor 97.7 FM
+WJCS	broadcastRepeater	W257BW New Tripoli 99.3 FM
+WPEL-FM	broadcastRepeater	91.7 (Elmira, NY)
+WPEL-FM	broadcastRepeater	92.1 (Sayre, PA)
+WPEL-FM	broadcastRepeater	93.3 (Endicott, NY)
+WPEL-FM	broadcastRepeater	106.3 (Binghamton, NY)
+KLFF-FM	broadcastRepeater	KLFH 89.5 (MHz) Ojai, California
+KLFF-FM	broadcastRepeater	K210AD 89.9 (MHz) Santa Barbara, California
+KMRO	broadcastRepeater	KLTX  1390 kHz Long Beach
+KMRO	broadcastRepeater	KSDO 1130 kHz San Diego
+KMRO	broadcastRepeater	KEYQ 980 kHz Fresno
+KMRO	broadcastRepeater	90.9 MHz Shafter
+KMRO	broadcastRepeater	+18 translators
+WXER	broadcastRepeater	W241AG
+WXER	broadcastRepeater	96.1 MHz, Sheboygan
+KAHM	broadcastRepeater	K269EE-FM 101.7 (MHz)
+WMGW	broadcastRepeater	WTIV 1230 Titusville
+WMGW	broadcastRepeater	WFRA 1450 Franklin
+WKZD	broadcastRepeater	105.3 W287AD (Priceville)
+WLOR	broadcastRepeater	98.1 W251AC (Capshaw)
+KMST (FM)	broadcastRepeater	K242AN 96.3 (MHz) Lebanon, Missouri
+WOTJ	broadcastRepeater	(see article)
+5MMM	broadcastRepeater	98.3 MHz FM (Adelaide Foothills)
+WTIV	broadcastRepeater	WFRA 1450 Franklin
+WTIV	broadcastRepeater	WMGW 1490 Meadville
+WKCP	broadcastRepeater	101.9 W270AO (West Palm Beach)
+WFRA	broadcastRepeater	WTIV 1230 Titusville
+WFRA	broadcastRepeater	WMGW 1490 Meadville
+KHSU-FM	broadcastRepeater	KHSR 91.9 MHz, Crescent City
+KTBG	broadcastRepeater	K285ER 104.9 FM Osage Beach
+104.1 Territory FM	broadcastRepeater	96.9 Lake Bennett
+104.1 Territory FM	broadcastRepeater	98.7 Alice Springs
+104.1 Territory FM	broadcastRepeater	98.5 Batchelor
+104.1 Territory FM	broadcastRepeater	99.7 Adelaide River
+104.1 Territory FM	broadcastRepeater	104.1 Jabiru
+104.1 Territory FM	broadcastRepeater	106.9 Gove
+WAMS	broadcastRepeater	98.3 MHz (W252CH) Dover
+WAMS	broadcastRepeater	105.1 MHz (W286BS) Milford
+WHPH	broadcastRepeater	95.5 W238BS (Clanton)
+WHPH	broadcastRepeater	107.3 W297AO (Brent)
+WCMI-FM	broadcastRepeater	98.5 W253BB (Huntington)
+KEPC	broadcastRepeater	89.1 (Manitou Springs)
+KEPC	broadcastRepeater	101.5 (Pueblo)
+KZKS	broadcastRepeater	97.5 K248AE (Montrose)
+KZKS	broadcastRepeater	97.9 K250AO (Redlands)
+KZKS	broadcastRepeater	104.7 K284AV (Steamboat Springs)
+WXXI-FM	broadcastRepeater	WXXY 90.3 FM, Houghton, New York
+KUOA	broadcastRepeater	105.3 FM (Fayetteville)
+KTFS	broadcastRepeater	105.5 K288FI (Texarkana)
+KJRT	broadcastRepeater	(see article)
+WBGK	broadcastRepeater	WBUG
+KLOK-FM	broadcastRepeater	99.9 K260AA (Carmel Valley)
+KTOR	broadcastRepeater	96.9 K245AU (East Quincy)
+KTOR	broadcastRepeater	99.3 K257EK (Susanville)
+KWWN	broadcastRepeater	98.9 K257BU (Henderson)
+KTHO	broadcastRepeater	96.1 K241BK (South Lake Tahoe)
+KLUK	broadcastRepeater	101.5 K268AC (Kingman)
+KLUK	broadcastRepeater	103.9 K280DL (Lake Havasu City)
+KFLX	broadcastRepeater	104.1 Flagstaff
+WKES	broadcastRepeater	(see article)
+WTBN	broadcastRepeater	WTWD 910 kHz, Plant City, Florida
+WRTU	broadcastRepeater	WRUO 88.3 MHz, Mayaguez, Puerto Rico
+WTLN	broadcastRepeater	WHIM 1520 kHz, Apopka
+WPRD	broadcastRepeater	WOTS 1220 kHz, Kissimmee
+WPRD	broadcastRepeater	WSDO 1400 kHz, Sanford
+KXET	broadcastRepeater	93.5 K228EU (Portland)
+KUSU-FM	broadcastRepeater	KUSR 89.5 MHz Logan
+KUSU-FM	broadcastRepeater	KUSL 89.3 MHz Richfield
+KUSU-FM	broadcastRepeater	KUSK 88.5 MHz Vernal
+KUSU-FM	broadcastRepeater	plus others
+WQLN-FM	broadcastRepeater	(see article)
+WSMR (FM)	broadcastRepeater	W280DW 103.9 MHz, Brandon
+WSMR (FM)	broadcastRepeater	89.7-2 WUSF-HD2 (Tampa)
+KZYX	broadcastRepeater	(see article)
+KBSU (AM)	broadcastRepeater	KBSX-HD3
+KBSU (AM)  KEZJ  1	broadcastRepeater	KBSW-HD3
+High Plains Public Radio	broadcastRepeater	(see article)
+WKMS-FM	broadcastRepeater	99.5 (MHz) Paris, TN
+WKMS-FM	broadcastRepeater	105.1 (MHz) Madisonville, KY (all-classical)
+WKMS-FM	broadcastRepeater	92.5 (MHz) Paducah, KY (all-classical)
+WSCL	broadcastRepeater	WSDL 90.7, Ocean City
+KENW-FM	broadcastRepeater	KMTH-FM 98.7, Maljamar
+KENW-FM	broadcastRepeater	KENM 89.3, Tucumcari
+KENW-FM	broadcastRepeater	(see article for others)
+Montana Public Radio	broadcastRepeater	(see article)
+KCCU	broadcastRepeater	(see article)
+WZZI	broadcastRepeater	W247AD 97.3 Vinton
+WTXK	broadcastRepeater	107.5 W298BC (Montgomery)
+WKXN	broadcastRepeater	102.7 W274BG (Montgomery)
+WAUN-FM	broadcastRepeater	96.9 W247AC (Green Bay)
+WAUN-FM	broadcastRepeater	98.9 W255AQ (Sturgeon Bay)
+WFIA	broadcastRepeater	900 kHz
+WWWA (FM)	broadcastRepeater	WFYB
+WWWA (FM)	broadcastRepeater	100.7 (Benedicta)
+WWWA (FM)	broadcastRepeater	102.3 (Biddeford)
+WWWA (FM)	broadcastRepeater	97.9 (Houlton)
+WWWA (FM)	broadcastRepeater	98.7 (Lincoln)
+WWWA (FM)	broadcastRepeater	92.5 (Portland)
+WWWA (FM)	broadcastRepeater	107.9 (Portland)
+WWWA (FM)	broadcastRepeater	94.5 (Richmond Center)
+WWWA (FM)	broadcastRepeater	97.1 (Sanford)
+WWWA (FM)	broadcastRepeater	102.3 (Yarmouth)
+WHMP	broadcastRepeater	WHNP 1600 East Longmeadow
+WHMP	broadcastRepeater	WHMQ 1240 Greenfield
+KRKI	broadcastRepeater	KRKI-FM1 Rapid City, South Dakota
+KVNE	broadcastRepeater	K214BE Shreveport, LA - 90.7FM
+WSEW	broadcastRepeater	103.3 (Biddeford)
+KXFF	broadcastRepeater	102.3 K272AQ (St. George)
+KZHK	broadcastRepeater	103.1 K276DA (Cedar City)
+KKBG	broadcastRepeater	KLEO
+KHLO	broadcastRepeater	KKON
+WEWT-LP	broadcastRepeater	100.3 MHz W262AK Minier, Illinois
+WWNZ	broadcastRepeater	94.1 W231CH (Bangor)
+WCRL	broadcastRepeater	95.3 W237DH (Cleveland)
+WJLX	broadcastRepeater	101.5 W268BM (Jasper)
+KJCR (AM)	broadcastRepeater	K248BL-FM 97.5 (Billings)
+WGAM	broadcastRepeater	WGHM 900 kHz, Nashua
+WHDQ	broadcastRepeater	106.1 WHDQ-1 (Rutland)
+WHDQ	broadcastRepeater	106.5 W293AB (Keene)
+WHDQ	broadcastRepeater	106.7 W294AB (Hanover)
+KBDX	broadcastRepeater	101.5 K268AV (Moab)
+WCFR	broadcastRepeater	106.5 (FM Translator W293BH)
+WGMT	broadcastRepeater	100.3 WJPK
+KWNA (AM)	broadcastRepeater	104.5 FM (K283AP)
+WMHR	broadcastRepeater	(see article)
+Mix 106.3	broadcastRepeater	107.1 MHz Tuggeranong
+WTLA	broadcastRepeater	W249BC 97.7 Mattydale
+WSGO	broadcastRepeater	W261AC 100.1 Oswego
+WDDV	broadcastRepeater	WSDV 1450 kHz, Sarasota
+WAFZ-FM	broadcastRepeater	WAFZ AM 1490, Immokalee
+KKON	broadcastRepeater	KHLO
+WPRY	broadcastRepeater	95.3 W237CN (Perry)
+KKLS (AM)	broadcastRepeater	97.5 K248BT (Rapid City)
+KQMC	broadcastRepeater	K247AX (97.3 FM), K236AP (95.1 FM)
+KFRO-FM	broadcastRepeater	102.3 MHz KLJT (Jacksonville-Tyler)
+WJEM	broadcastRepeater	96.1 W241BG (Valdosta)
+WSGC (AM)	broadcastRepeater	96.5 W243CI (Elberton)
+WBRV-FM	broadcastRepeater	WLLG 99.3 MHz, Lowville
+WBRV (AM)	broadcastRepeater	W290BX 105.9 MHz, Boonville, New York
+WAJJ	broadcastRepeater	W242AS 96.3 FM, Paris, Tennessee
+WJPF	broadcastRepeater	WCIL 1020 kHz (Carbondale)
+WSAU (AM)	broadcastRepeater	WSAU-FM 99.9 Rudolph-Stevens Point
+KWTW	broadcastRepeater	88.5 (Westwood)
+KWTW	broadcastRepeater	89.7 (Laytonville)
+KWTW	broadcastRepeater	89.9 (Fort Bragg)
+KWTW	broadcastRepeater	89.9 (Willits)
+KWTW	broadcastRepeater	90.9 (June Lake)
+KWTW	broadcastRepeater	91.9 (Ridgecrest)
+KWTW	broadcastRepeater	95.9 (Hawthorne)
+KWTW	broadcastRepeater	96.9 (Dyer)
+KWTW	broadcastRepeater	105.9 (Tonopah)
+KWTW	broadcastRepeater	106.1 (Chalfant)
+KZKE	broadcastRepeater	104.9 K285DM (Kingman)
+CFBV	broadcastRepeater	CFLD 760 kHz, Burns Lake
+CFBV	broadcastRepeater	CKBV 1490 kHz, Hazelton
+CFBV	broadcastRepeater	CHLD 1480 kHz, Granisle
+CFBV	broadcastRepeater	CHBV 106.5 MHz, Houston
+KDXT	broadcastRepeater	107.1 K296FM (Missoula)
+KCZO	broadcastRepeater	88.9 (Barstow, )
+KCZO	broadcastRepeater	90.5 (King City, )
+KCZO	broadcastRepeater	91.9 (Lost Hills, )
+KCZO	broadcastRepeater	89.7 (Mcfarland, )
+KCZO	broadcastRepeater	89.5 (Porterville, )
+KCZO	broadcastRepeater	89.3 (Red Bluff, )
+KCZO	broadcastRepeater	91.3 (Ridgecrest, )
+KCZO	broadcastRepeater	89.5 (Tipton, )
+KCZO	broadcastRepeater	88.1 (Tulare, )
+KCZO	broadcastRepeater	88.9 (Alamogordo, )
+KCZO	broadcastRepeater	91.1 (Albuquerque, )
+KCZO	broadcastRepeater	91.9 (Santa Fe, )
+KCZO	broadcastRepeater	91.1 (Bismarck, )
+KCZO	broadcastRepeater	89.1 (Enid, )
+KCZO	broadcastRepeater	90.3 (Bay City, )
+KCZO	broadcastRepeater	89.7 (Edna, )
+KCZO	broadcastRepeater	89.5 (El Campo, )
+KCZO	broadcastRepeater	88.1 (Freeport, )
+KCZO	broadcastRepeater	88.1 (Hereford, )
+KCZO	broadcastRepeater	88.1 (Katy, )
+KCZO	broadcastRepeater	91.1 (Louise, )
+KCZO	broadcastRepeater	90.5 (Mineral Wells, )
+KCZO	broadcastRepeater	91.9 (Port Lavaca, )
+KCZO	broadcastRepeater	91.5 (San Marcos, )
+KCZO	broadcastRepeater	90.1 (Victoria, )
+WRYP	broadcastRepeater	W230AW, W264BA, W279BQ, W293BN
+ZNS-1	broadcastRepeater	107.1 MHz FM
+Print Radio Tasmania	broadcastRepeater	106.9 mHz FM Launceston
+WNBH	broadcastRepeater	WLKW/1450-West Warwick, Rhode Island (simulcast partner)
+2WZD	broadcastRepeater	103.1 MHz FM
+KLEY (AM)	broadcastRepeater	KKLE 1550 kHz
+KLTO-FM	broadcastRepeater	98.5 KBBT-HD2
+KMFR	broadcastRepeater	93.9 K230AL (Boerne)
+KWRW	broadcastRepeater	103.9 K280CL (Palestine}
+KLJT	broadcastRepeater	95.3 MHz KFRO-FM (Gilmer-Longview)
+KZQX-LP	broadcastRepeater	101.9 MHz Longview, 105.3 MHz Kilgore & 97.9 MHz Tyler, Texas
+KXLI-FM	broadcastRepeater	Sunrise Manor, Nevada (KXLI-1)
+WCLQ (FM)	broadcastRepeater	100.3 (Marshfield, WI)
+WCLQ (FM)	broadcastRepeater	91.3 (Merrill, WI)
+WCLQ (FM)	broadcastRepeater	97.1 (Park Falls, WI)
+WCLQ (FM)	broadcastRepeater	89.9 (Rhinelander, WI)
+WLRW	broadcastRepeater	W250BL
+KAHL	broadcastRepeater	K279AB (103.7 FM)
+KAMZ	broadcastRepeater	93.3 (Plainview, TX)
+KKBS	broadcastRepeater	100.5 (Liberal)
+WYLV	broadcastRepeater	93.9 MHz Gatlinburg, Tennessee
+KIHS	broadcastRepeater	94.5 (Des Moines, )
+WJCZ	broadcastRepeater	92.3 (West Lafayette, )
+WSCO	broadcastRepeater	W237AA 95.3 FM (Appleton)
+WHOJ	broadcastRepeater	93.1 (Martinsville, )
+WCFW	broadcastRepeater	99.1 (Chippewa Falls, )
+WNLI	broadcastRepeater	105.1 (Marquette)
+WNLI	broadcastRepeater	96.9 (Sheboygan)
+WPFF	broadcastRepeater	see table
+WSJY	broadcastRepeater	103.3 W277AC (Watertown)
+KQYB	broadcastRepeater	99.3 (Decorah)
+KQYB	broadcastRepeater	103.9 (Winona)
+KQYB	broadcastRepeater	107.7 (La Crosse)
+KLZX	broadcastRepeater	97.1 K246AW (Hyde Park)
+KLZX	broadcastRepeater	104.5 K283AO (Smithfield)
+KORT-FM	broadcastRepeater	92.1 (Kamiah)
+KORT-FM	broadcastRepeater	95.9 (Pierce)
+KTPO	broadcastRepeater	of KPND 95.3 Sandpoint, ID
+KVRG	broadcastRepeater	97.3 (Jackson, )
+WSTM (FM)	broadcastRepeater	103.3 (Sheboygan)
+WNWC-FM	broadcastRepeater	(see article)
+WFBZ	broadcastRepeater	101.9 (La Crescent)
+WGMO	broadcastRepeater	94.7 W234BG (Chetek)
+KACS	broadcastRepeater	107.1 (Aberdeen)
+KACS	broadcastRepeater	102.3 (Chehalis)
+KATS	broadcastRepeater	94.3 (Ellensburg)
+KBKW	broadcastRepeater	94.7 K234AU (Westport)
+KJET	broadcastRepeater	93.1 K226AN (Montesano)
+KDRM	broadcastRepeater	94.3 (Ephrata)
+WBFI	broadcastRepeater	99.9 (Beaver Dam, )
+WBFI	broadcastRepeater	97.1 (Rogersville)
+ArtSound FM	broadcastRepeater	90.3 MHz Tuggeranong
+1WAY	broadcastRepeater	94.3 MHz Tuggeranong
+WKED-FM	broadcastRepeater	101.5 (Hopkinsville, )
+WKED-FM	broadcastRepeater	96.5 (Hopkinsville, )
+WKKS-FM	broadcastRepeater	1570 kHz
+WKYA	broadcastRepeater	104.7 W284AO (Central City)
+WKYN	broadcastRepeater	106.9 (Mount Sterling, )
+WMMG-FM	broadcastRepeater	1140 kHz
+WPTJ	broadcastRepeater	102.5 (Winchester, )
+WPKE (AM)	broadcastRepeater	98.1 W251AI (Pikeville)
+WPKE-FM	broadcastRepeater	101.9 W270BA (Hazard)
+WPKE-FM	broadcastRepeater	102.5 W273BC (Prestonsburg)
+WULF	broadcastRepeater	104.5 (Elizabethtown, )
+WOCC	broadcastRepeater	102.7 W274AD (Corydon)
+WBCY	broadcastRepeater	97.7 (Adrian, )
+WCHI	broadcastRepeater	92.7  W224BR (Chillicothe)
+WCHO-FM	broadcastRepeater	WSRW 1590 AM
+2EC	broadcastRepeater	1584 kHz, 105.5 mHz, 105.9 mHz
+KTME	broadcastRepeater	(94.3 Green River) (107.7 Rock Springs)
+KVRH-FM	broadcastRepeater	103.1 (Salida & Buena Vista, )
+WAYI	broadcastRepeater	105.9 MHz
+KASF	broadcastRepeater	92.9 (Alamosa, )
+KASF	broadcastRepeater	106.7 (Monte Vista, )
+WFMQ	broadcastRepeater	101.9 (Murfreesboro, )
+W251AO	broadcastRepeater	96.5-2 WOXL-HD2
+WFEN	broadcastRepeater	103.3 W277AE (Madison)
+KDNR	broadcastRepeater	100.9 (Estes Park, )
+KDNR	broadcastRepeater	107.3 (Loveland, )
+KDNR	broadcastRepeater	101.7 (Loveland, )
+KDNR	broadcastRepeater	89.9 (Douglas, )
+WRGM	broadcastRepeater	97.3 MHz - W247BL
+WRGM	broadcastRepeater	Crestline, Ohio
+WWJM	broadcastRepeater	W233AK, 94.5 MHz, Zanesville
+WSOG	broadcastRepeater	(see Stations)
+KWFB (FM)	broadcastRepeater	105.5 Mhz K288FQ Lawton, OK
+KCUP	broadcastRepeater	KPPT-HD2
+KOOS	broadcastRepeater	107.7 K299AA (North Bend)
+WCMR (AM)	broadcastRepeater	105.3 MHz
+KIHR	broadcastRepeater	98.3 K252EN (Rockford)
+WCHK-FM	broadcastRepeater	W278AU 103.5 FM (Green Bay)
+KBKZ	broadcastRepeater	100.9 K265EM (Trinidad)
+KBRN	broadcastRepeater	K272EK 102.3 FM
+KMSW	broadcastRepeater	102.9 K275AI (Hood River)
+KCGB-FM	broadcastRepeater	K245AF (96.9 FM)
+KIMY	broadcastRepeater	K268BR 101.5 in Oklahoma City
+KIMY	broadcastRepeater	K227AT 93.3 in Enid
+WZDR	broadcastRepeater	101.9 W270AJ (Green Bay, WI)
+KCRT-FM	broadcastRepeater	100.3 K262BK (Trinidad)
+KZMV	broadcastRepeater	99.7, 99.1, 104.1
+WTRO (AM)	broadcastRepeater	101.7 W269CE (Dyersburg)
+WEVR-FM	broadcastRepeater	TJ Campbell announcer.
+KTGS	broadcastRepeater	K286BB 105.1 in Ada, OK, K274BA 102.7 in Paris, TX
+KZBS	broadcastRepeater	K234BD 94.7 in Lawton, K237EE 95.3 in Childress, TX
+KSWW	broadcastRepeater	101.1 K266BL (Raymond)
+KXRO	broadcastRepeater	107.5 K298BD (Hoquiam)
+KRQT	broadcastRepeater	107.1 KRQT-FM1 (Longview)
+KGPZ	broadcastRepeater	K280AT
+WHLM-FM	broadcastRepeater	100.9 W265BM (Folstown)
+KYOY	broadcastRepeater	100.3 K262BV (Cheyenne)
+KYOY	broadcastRepeater	107.1 K296FZ (Cheyenne)
+KNCO-FM	broadcastRepeater	K227AW (93.3 FM)
+KNCO-FM	broadcastRepeater	K289BM (105.7 FM)
+WLCJ-LP	broadcastRepeater	W221BM (92.1 FM)
+WLCJ-LP	broadcastRepeater	W270BC (101.9 FM)
+WRJC (AM)	broadcastRepeater	W225BF (92.9 FM)
+WTCH	broadcastRepeater	W243CM (96.5 FM)
+KGHO-LP	broadcastRepeater	K224DR (92.7 FM) Aberdeen
+KGHO-LP	broadcastRepeater	K277BQ (103.3 FM) Olympia
+KGHO-LP	broadcastRepeater	K297AY (107.3 FM) Ocean Shores
+KGHO-LP	broadcastRepeater	K225AX (92.9 FM) Seattle-Des Moines
+KLYK	broadcastRepeater	K250AE (97.9 FM)
+KNCW	broadcastRepeater	K236AE (95.1 FM)
+KNCW	broadcastRepeater	K236AH (95.1 FM)
+KNCW	broadcastRepeater	K257DN (99.3 FM)
+KNCW	broadcastRepeater	K269AH (101.7 FM)
+KNCW	broadcastRepeater	K296ET (107.1 FM)
+KUKN	broadcastRepeater	K268BN (101.5 FM) (relays KUKN-HD2)
+KULE-FM	broadcastRepeater	K221BT (92.1 FM)
+KULE-FM	broadcastRepeater	K288CV (105.5 FM)
+KWWW-FM	broadcastRepeater	K267AX (101.3 FM)
+KWWW-FM	broadcastRepeater	K280BZ (103.9 FM)
+KYAO-LP	broadcastRepeater	K220JQ (91.9 FM)
+WLIV (AM)	broadcastRepeater	W282AG (104.3 FM)
+WQKR	broadcastRepeater	W240CA (95.9 FM)
+WTJS	broadcastRepeater	W231BU (94.1 FM)
+WHDM	broadcastRepeater	98.9 W255BF (McKenzie)
+WKSR (AM)	broadcastRepeater	98.3-2 WKSR-HD2
+WJFC	broadcastRepeater	W276CE (103.1 FM)
+WKTP	broadcastRepeater	W249AH (97.7 FM)
+WMTN-LP	broadcastRepeater	W273BF (102.5 FM)
+WRGS	broadcastRepeater	W233BP (94.5 FM)
+WTNK	broadcastRepeater	W228CB (93.5 FM)
+WTRZ	broadcastRepeater	W299AE (107.7 FM)
+WTSE (FM)	broadcastRepeater	W224AZ (92.7 FM)
+WCIM	broadcastRepeater	W234AX (94.7 FM)
+WCIM	broadcastRepeater	W236BN (95.1 FM)
+WCIM	broadcastRepeater	W255BL (98.9 FM)
+WDKC	broadcastRepeater	WDKC-FM1
+WDKC	broadcastRepeater	W246AL (97.1 FM)
+WEVP	broadcastRepeater	W233BL (94.5 FM)
+WHLM (AM)	broadcastRepeater	W282AP (104.3 FM); 94.7 FM
+WRZO-LP	broadcastRepeater	W243CP (96.5 FM)
+WSFX (FM)	broadcastRepeater	W288BE (105.5 FM)
+KJMX	broadcastRepeater	100.3 K262AU (Empire)
+KLKY	broadcastRepeater	95.3 K237DP (Kennewick)
+KLKY	broadcastRepeater	95.3 K237DS (Pendleton)
+KLKY	broadcastRepeater	101.1 K266AJ (La Grande)
+KLKY	broadcastRepeater	101.1 K266AT (Walla Walla)
+KLKY	broadcastRepeater	93.7 K229AD (Yakima)
+KKMX	broadcastRepeater	104.5 K283AD (Roseburg)
+KTEE	broadcastRepeater	K239AL (95.7 FM)
+KWCQ	broadcastRepeater	103.1 K276EE
+KWCQ	broadcastRepeater	(The Dalles)
+KOAC-FM	broadcastRepeater	K229BM (93.7 FM)
+KFMY-LP	broadcastRepeater	K235BK (94.9 FM)
+KLVV	broadcastRepeater	K232BI (94.3 FM-deleted by the FCC 10/21/2010)
+KLVV	broadcastRepeater	K237BF (95.3 FM-also deleted 10/21/2010)
+KLVV	broadcastRepeater	K252DA (98.3 FM)
+KLVV	broadcastRepeater	K288CT (105.3 FM and deleted by the FCC 10/21/2010)
+KLVV	broadcastRepeater	K294AO (106.7 FM)
+WCRA	broadcastRepeater	104.7
+2ski	broadcastRepeater	94.9 FM Jindabyne
+2ski	broadcastRepeater	92.9 FM Thredbo
+2ski	broadcastRepeater	101.9 FM Perisher
+2ski	broadcastRepeater	91.7 FM Charlotte Pass
+Nishinippon Broadcasting	broadcastRepeater	See #Stations
+KZME	broadcastRepeater	89.1-2 KMHD-HD2
+WERC-FM	broadcastRepeater	WERC 960 Brimingham
+WTOP-FM	broadcastRepeater	103.9 MHz - WTLP
+WTOP-FM	broadcastRepeater	107.7 MHz - WWWT-FM
+WTOP-FM	broadcastRepeater	104.3 MHz - W282BA

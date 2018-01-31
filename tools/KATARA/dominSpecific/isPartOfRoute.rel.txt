@@ -1,0 +1,383 @@
+Queensway Tunnel	isPartOfRoute	Queens Way
+Kingsway Tunnel	isPartOfRoute	Kingsway Tunnel
+Hume Highway	isPartOfRoute	Casula - Campbelltown: 30px|center Campbelltown - NSW/Vic. Border: 30px|center NSW/Vic. Border - Campbellfield: 40px|center Formerly 25px
+Blackwall Tunnel	isPartOfRoute	A102m
+Princes Highway	isPartOfRoute	Wollongong-NSW/Vic Border: 30px|center Proposed 30px to replace 20px
+Princes Highway	isPartOfRoute	NSW/Vic Border-Traralgon, Geelong-Mount Gambier: 40px|center Formerly 20px
+Princes Highway	isPartOfRoute	Mount Gambier-Tailem Bend: 40px|center Formerly 20px
+Princes Highway	isPartOfRoute	Tailem Bend-Adelaide-Port Augusta: 40px|center Formerly 20px
+Michigan Avenue (Chicago)	isPartOfRoute	100 East
+Newell Highway	isPartOfRoute	Narrabri - Narrabri West: 50px|center (duplex with 25px)
+Newell Highway	isPartOfRoute	Coonabarabran - Gilgandra: 50px|center (duplex with 25px)
+Newell Highway	isPartOfRoute	Marsden - West Wyalong:50px|center (duplex with 25px)
+Newell Highway	isPartOfRoute	Mirrool - Ardlethan:50px|center (duplex with 25px)
+Pacific Highway (Australia)	isPartOfRoute	Tweed Heads-Hexham: 30px|center Hexham-Doyalson: 30px|center Doyalson-Wahroonga: 30px|center Wahroonga-Artarmon: 30px|center Artarmon-Crows Nest: (No Shield)
+Mitchell Highway	isPartOfRoute	Augathella - Qld/NSW Border: 40px|center Formerly 20px
+Mitchell Highway	isPartOfRoute	Qld/NSW Border - Nyngan: 30px|centerNyngan - Bathurst: 30px|center
+Eisenhower Tunnel	isPartOfRoute	Interstate 70
+New England Highway	isPartOfRoute	Yarraman - Warwick: 60px|center Formerly 25px
+New England Highway	isPartOfRoute	Hampton - Toowoomba: 50px|center (duplex with 35px)
+New England Highway	isPartOfRoute	Warwick - NSW/Qld Border: 60px|center Formerly 25px
+New England Highway	isPartOfRoute	NSW/Qld Border - Newcastle: 50px|center Bendemeer - Tamworth: 50px|center (duplex with 25px)
+Great Western Highway	isPartOfRoute	Chippendale - Haberfield: 50px|center Formerly 25px 25px 25px
+Great Western Highway	isPartOfRoute	Ashfield - North Strathfield: 55px|center Formerly 25px
+Great Western Highway	isPartOfRoute	North Strathfield - Emu Plains: 50px|center Formerly 25px
+Great Western Highway	isPartOfRoute	Lapstone - Bathurst: 50px|center
+Golden Highway	isPartOfRoute	Mount Thorley East - Mount Thorley: 50px|center (duplex with 25px)
+Golden Highway	isPartOfRoute	Dunedoo East - Dunedoo: 50px|center (duplex with 25px)
+Sturt Highway	isPartOfRoute	Gawler - NSW/Vic. Border: 45px|center Formerly 25px
+Sturt Highway	isPartOfRoute	NSW/Vic. Border - Hume Highway: 35px|center
+Barrier Highway	isPartOfRoute	Giles Corner - SA/NSW Border: 40px|center|A32 Formerly 20px
+Barrier Highway	isPartOfRoute	SA/NSW Border - Nyngan: 30px|center
+Monaro Highway	isPartOfRoute	Morshead Drive - Canberra Avenue: 30px|center Canberra Avenue - NSW/Vic. Border: 30px|center NSW/Vic. Border - Cann River: 40px|center Formerly 20px
+Alpine Way	isPartOfRoute	Alpine Way
+Snowy Mountains Highway	isPartOfRoute	Cooma - Nimmitabel: 50px|center (duplex with 25px)
+Nepean Highway	isPartOfRoute	St Kilda-Mornington: 30px|center Mornington-Mount Martha: center|40px Formerly 20px
+Nepean Highway	isPartOfRoute	Mount Martha - Dromana East: 40px|center Formerly 20px 20px
+Nepean Highway	isPartOfRoute	Dromana East-Safety Beach: 40px|center Formerly 20px 20px
+Nepean Highway	isPartOfRoute	Safety Beach-Portsea: center|40px Formerly 20px
+Bass Highway (Victoria)	isPartOfRoute	Lang Lang - Bass: 40px|center Bass - Anderson: 40px|center Anderson - Leongatha: 40px|center
+South Gippsland Highway	isPartOfRoute	Dandenong - Lyndhurst: 30px|center Lyndhurst - Lang Lang: 40px|center Formerly 20px
+South Gippsland Highway	isPartOfRoute	Lang Lang - Sale via Leongatha: 40px|center Formerly 20px
+Capricorn Highway	isPartOfRoute	Emerald - Emerald East: 60px|center (duplex with 35px)
+Eyre Highway	isPartOfRoute	20px Norseman - SA/WA Border
+Eyre Highway	isPartOfRoute	25px SA/WA Border - Port Augusta  (formerly 20px)
+Bass Highway, Tasmania	isPartOfRoute	Launceston - Burnie: 50px|center Burnie - Marrawah: 60px|center
+Brooker Highway	isPartOfRoute	Highway 1
+Mid-Western Highway	isPartOfRoute	Marsden - West Wyalong: 50px|center (duplex with 25px)
+Caldecott Tunnel	isPartOfRoute	California State Highway 24, William Byron Rumford Freeway
+Castlereagh Highway	isPartOfRoute	St George - NSW/Qld Border: 40px|center Formerly 20px
+Castlereagh Highway	isPartOfRoute	NSW/Qld Border - Gilgandra: 30px|center Gilgandra - Lithgow: 30px|center
+Kamilaroi Highway	isPartOfRoute	Narrabri - Narrabri West: 50px|center (duplex with 25px)
+Kamilaroi Highway	isPartOfRoute	Gunnedah West - Gunnedah: 50px|center (duplex with 25px)
+Olympic Highway	isPartOfRoute	Wagga Wagga - Wagga Wagga West: 30px|center (duplexes with 20px)
+Stuart Highway	isPartOfRoute	Darwin \u2013 Daly Waters: 60px|center|1
+Stuart Highway	isPartOfRoute	Daly Waters \u2013 NT/SA border: 60px|87|center
+Stuart Highway	isPartOfRoute	NT/SA border \u2013 Port Augusta: 60px|A87|center
+Stuart Highway	isPartOfRoute	(formerly 25px|87)
+Hoddle Highway	isPartOfRoute	St. Kilda Junction: 35px|center (duplex with 20px)
+West Gate Freeway	isPartOfRoute	Spotswood - Docklands: 30px|center (duplex with 30px)
+Tullamarine Freeway	isPartOfRoute	Tullamarine - Pascoe Vale: 50px|center Essendon - Pascoe Vale: 50px|center (Duplex with 25px)
+Western Freeway (Victoria)	isPartOfRoute	National Route M8
+Calder Highway	isPartOfRoute	Silver City Highway - NSW/Vic. Border: 30px|center NSW/Vic. Border - Calder Freeway: 40px|center Formerly 20px
+Princes Freeway	isPartOfRoute	M1 (Australia)
+Mornington Peninsula Freeway	isPartOfRoute	Mount Martha - Safety Beach: center|60px (duplex with 25px)
+Maroondah Highway	isPartOfRoute	Balwyn-Lilydale: 30px|center Lilydale-Coldstream: 40px|center Formerly 20px
+Maroondah Highway	isPartOfRoute	Coldstream-Alexandra: 40px|center Formerly 20px
+Maroondah Highway	isPartOfRoute	Alexandra-Koriella 40px|center Formerly 20px 20px
+Maroondah Highway	isPartOfRoute	Koriella-Yarck: 40px|center Formerly 20px
+Maroondah Highway	isPartOfRoute	Yarck-Maindample: 40px|center Formerly 20px
+Maroondah Highway	isPartOfRoute	Maindample-Mansfield: 40px|center Formerly 20px
+South Eastern Freeway	isPartOfRoute	National Route M1
+Adelaide–Crafers Highway	isPartOfRoute	National Route M1
+Ted Williams Tunnel	isPartOfRoute	20px I-90
+Callahan Tunnel	isPartOfRoute	20px Route 1A North
+Sumner Tunnel	isPartOfRoute	20px Route 1A South
+Warrego Highway	isPartOfRoute	Mitchell Highway - Landsborough Highway: 50px|center Landsborough Highway - Ipswich Motorway: 50px|center
+Lærdal Tunnel	isPartOfRoute	E16
+Riddoch Highway	isPartOfRoute	30px Keith - Mount Gambier
+Riddoch Highway	isPartOfRoute	30px Mount Gambier - Port MacDonnell
+Jack Lynch Tunnel	isPartOfRoute	N25
+Albany Highway	isPartOfRoute	State Route 30
+Great Southern Highway	isPartOfRoute	York - Cranbrook: 35px|center
+Great Northern Highway	isPartOfRoute	25px Middle Swan - Boodarie
+Great Northern Highway	isPartOfRoute	20px Woodbridge - Muchea
+Great Northern Highway	isPartOfRoute	20px Pithara - Wubin
+Great Northern Highway	isPartOfRoute	20px Boodarie - Victoria Highway
+Hubbard Street	isPartOfRoute	430 North
+DeKoven Street (Chicago)	isPartOfRoute	1120 South
+State Street (Chicago)	isPartOfRoute	0 East/West
+Carnarvon Highway	isPartOfRoute	Rolleston - Roma: 40px|center
+Carnarvon Highway	isPartOfRoute	Roma - St George: 40px|center St George - Moree: 30px|center
+Great Eastern Highway	isPartOfRoute	20px Victoria Park - Redcliffe & Midland - Coolgardie
+Great Eastern Highway	isPartOfRoute	20px Victoria Park - Woodbridge
+Great Eastern Highway	isPartOfRoute	20px Guildford - Midland
+Great Eastern Highway	isPartOfRoute	20px Coolgardie - Kalgoorlie
+Dawson Highway	isPartOfRoute	Springsure - Rolleston: 60px|center Formerly 25px
+Dawson Highway	isPartOfRoute	Rolleston - Gladstone: 50px|center
+Cunningham Highway	isPartOfRoute	Goondiwindi - Warwick: 50px|center Warwick - Ipswich: 60px|center
+Gregory Highway	isPartOfRoute	Gulf Developmental Road - Charters Towers: 50px|center Charters Towers - Springsure: 60px|center Formerly 25px
+Barkly Highway	isPartOfRoute	Tennant Creek - NT/Qld Border: 50px|center NT/Qld Border - Cloncurry: 60px|center Formerly 25px
+Brisbane Valley Highway	isPartOfRoute	D'Aguilar Highway - Esk:
+Brisbane Valley Highway	isPartOfRoute	25px 25px
+Brisbane Valley Highway	isPartOfRoute	Esk - Warrego Highway:25px
+Burnett Highway	isPartOfRoute	Biloela West - Biloela: 50px|center (duplex with 35px)
+Kwinana Freeway	isPartOfRoute	25px All sections
+Kwinana Freeway	isPartOfRoute	20px ''Canning Highway - Leach Highway
+Randolph Street (Chicago)	isPartOfRoute	150 North
+Landsborough Highway	isPartOfRoute	National Highway A2
+Port Wakefield Road	isPartOfRoute	Port Wakefield - Dry Creek:
+Port Wakefield Road	isPartOfRoute	60px|center Formerly 25px
+Port Wakefield Road	isPartOfRoute	Dry Creek - Gepps Cross:
+Port Wakefield Road	isPartOfRoute	60px|center Formerly 25px
+Columbus Drive (Chicago)	isPartOfRoute	254 East
+Goulburn Valley Highway	isPartOfRoute	NSW/Vic Border - Arcadia and Nagambie Town Centre: 40px|center Formerly 20px
+Goulburn Valley Highway	isPartOfRoute	Seymour-Eildon: 40px|center Formerly 20px
+Goulburn Valley Highway	isPartOfRoute	Yea-Cathkin: 40px|center (duplexes with 30px)
+Murray Valley Highway	isPartOfRoute	Sturt Highway - NSW/Vic. Border: 30px|center NSW/Vic. Border - Alpine Way: 40px|center Formerly20px
+Gore Highway	isPartOfRoute	National Highway A39
+Borung Highway	isPartOfRoute	Dimboola - Litchfield: 40px|center Donald - Charlton: 40px|center
+Leichhardt Highway	isPartOfRoute	Westwood - Goondiwindi North: 60px|center Goondiwindi North - Goondiwindi: 60px|center 50px|center
+Gympie Arterial Road	isPartOfRoute	Metroad 3
+Moorooduc Highway	isPartOfRoute	Davey-Hastings Road - Frankston-Flinders Road: 45px|center (duplex with 20px)
+George Massey Tunnel	isPartOfRoute	British Columbia Highway 99
+Dandenong Valley Highway	isPartOfRoute	Boronia Road-Nepean Highway: 50px|center
+Geelong Ring Road	isPartOfRoute	M1 (Australia)
+Lyell Highway	isPartOfRoute	Hobart - Queenstown: 50px|center Queenstown - Strahan: 60px|center
+Coolgardie–Esperance Highway	isPartOfRoute	Coolgardie - Norseman: 35px|center Norseman - Esperance: 35px|center
+Burley Griffin Way	isPartOfRoute	Mirrool - Ardlethan:50px|center (duplex with 25px)
+Mitchell Freeway	isPartOfRoute	part of State Route 2
+Division Street (Chicago)	isPartOfRoute	1200 North
+Captain Cook Highway	isPartOfRoute	Smithfield - Cairns: 50px|center (duplex with 25px)
+Main North Road	isPartOfRoute	30px Stirling North&#8209;Wilmington (formerly 20px)
+Main North Road	isPartOfRoute	30px Wilmington&#8209;Giles Corner
+Main North Road	isPartOfRoute	30px Giles Corner&#8209;Gawler (formerly 20px)
+Main North Road	isPartOfRoute	30px Gawler&#8209;Gepps Cross (formerly 30px)
+Main North Road	isPartOfRoute	30px Gepps Cross&#8209;North Adelaide (formerly 20px)
+Lake Highway	isPartOfRoute	A5
+LaSalle Street	isPartOfRoute	140 West
+Northbourne Avenue	isPartOfRoute	Part of National Route 23
+Commonwealth Avenue, Canberra	isPartOfRoute	Part of National Route 23
+Fort Pitt Tunnel	isPartOfRoute	I-376 \
+Halsted Street	isPartOfRoute	800 West
+London Circuit	isPartOfRoute	Part of Tourist Drive 1
+Bucketts Way	isPartOfRoute	Bucketts Way
+Maxwell Street	isPartOfRoute	1330 South
+South Western Highway	isPartOfRoute	20px Armadale - Bunbury
+South Western Highway	isPartOfRoute	20px Bunbury - South Coast Highway
+Gaviota Tunnel	isPartOfRoute	Northbound lanes of U.S. Route 101
+Wanneroo Road	isPartOfRoute	Part of State Route 60
+Oak Street (Chicago)	isPartOfRoute	1000 North
+Reid Highway	isPartOfRoute	part of State Route 3
+Figueroa Street Tunnels	isPartOfRoute	Northbound lanes of
+Riverside Expressway	isPartOfRoute	M3
+Greenhill Road, Adelaide	isPartOfRoute	Dulwich - Wayville : 60px|center
+Tonkin Highway	isPartOfRoute	State Route 4
+Canning Highway	isPartOfRoute	25px Kwinana Freeway-Fremantle
+Canning Highway	isPartOfRoute	20px Victoria Park - Kwinana Freeway
+Stirling Highway	isPartOfRoute	part of State Route 5
+Leach Highway	isPartOfRoute	25px All sections
+Leach Highway	isPartOfRoute	20px Kwinana Freeway- Willagee
+South Road, Adelaide	isPartOfRoute	30px Wingfield - Old Noarlunga
+South Road, Adelaide	isPartOfRoute	30px Old Noarlunga - Cape Jervis
+Putty Road	isPartOfRoute	Mount Thorley East - Mount Thorley: 50px|center (duplex with 25px)
+Putty Road	isPartOfRoute	Windsor Road - Bells Line of Road: 50px|center (duplex with 25px)
+Marmion Avenue	isPartOfRoute	part of State Route 71
+Brockman Highway	isPartOfRoute	20px Karridale - Nannup
+Domain Tunnel	isPartOfRoute	CityLink tollway westbound
+Burnley Tunnel	isPartOfRoute	CityLink tollway eastbound
+Squirrel Hill Tunnel	isPartOfRoute	I-376 \
+Flemington Road, Melbourne	isPartOfRoute	Tullamarine Freeway - Harker Street: 50px|center
+Great Alpine Road	isPartOfRoute	B500
+Mount Victoria Tunnel	isPartOfRoute	State Highway 1
+Allegheny Mountain Tunnel	isPartOfRoute	Pennsylvania Turnpike (Interstates 70 and 76)
+D'Aguilar Highway	isPartOfRoute	Kingaroy - Nanango: 50px|center Nanango - Yarraman: 60px|center Formerly 25px
+D'Aguilar Highway	isPartOfRoute	Yarraman - Harlin: 50px|center Harlin - Caboolture: 50px|center
+Kennedy Highway	isPartOfRoute	Smithfield - Forty Mile Scrub: 50px|center
+Kennedy Highway	isPartOfRoute	Forty Mile Scrub - Bouila: 50px|center
+SMART Tunnel  Stormwater Management and Road Tunnel   1	isPartOfRoute	E38
+Midland Highway (Victoria)	isPartOfRoute	Mansfield-Barjarg: 40px|center Formerly 20px
+Midland Highway (Victoria)	isPartOfRoute	Barjarg-Benalla: 40px|center Formerly 20px
+Midland Highway (Victoria)	isPartOfRoute	Benalla-Geelong: 40px|center Formerly 20px
+Mickleham Road, Melbourne	isPartOfRoute	Airport West - Greenvale: 50px|center Gladstone Park - Attwood: 50px|center (Duplex with 25px)
+Mickleham Road, Melbourne	isPartOfRoute	Greenvale - Kalkallo: 60px|center Formerly 25px
+Western Avenue (Chicago)	isPartOfRoute	2400 West
+Nicholson Road	isPartOfRoute	State Route 31
+Isis Highway	isPartOfRoute	Bundaberg - Childers: 50px|center Childers - Ban Ban Springs: 50px|center
+Hitra Tunnel	isPartOfRoute	Norwegian National Road 714
+Frøya Tunnel	isPartOfRoute	Norwegian National Road 714
+Anzac Highway, Adelaide	isPartOfRoute	State Route A5
+Great Eastern Highway Bypass	isPartOfRoute	part of National Highway 94
+Grand Junction Road, Adelaide	isPartOfRoute	Hope Valley-Northfield: 60px|center
+Grand Junction Road, Adelaide	isPartOfRoute	Northfield-South Road: 60px|center
+Grand Junction Road, Adelaide	isPartOfRoute	South Road-Queenstown: 60px|center
+Healesville Freeway	isPartOfRoute	Healesville Freeway
+Grand Avenue (Phoenix)	isPartOfRoute	U.S. Route 60
+Cahill Expressway	isPartOfRoute	Sydney Harbour Tunnel - Woolloomooloo: 35px|center
+Roper Highway	isPartOfRoute	Mataranka - Ngukurr: 50px|center
+Port Road, Adelaide	isPartOfRoute	Adelaide CBD - Hindmarsh : 60px|center
+Port Road, Adelaide	isPartOfRoute	Hindmarsh - Queenstown: 60px|center
+Greensborough Highway	isPartOfRoute	Banksia Street - Lower Plenty Road: 35px|center Lower Plenty Road - Diamond Creek Road: 35px|center
+Glen Osmond Road, Adelaide	isPartOfRoute	State Route A1
+Joondalup Drive	isPartOfRoute	Part of State Route 85
+Posey and Webster Street Tubes	isPartOfRoute	SR 260
+Posey and Webster Street Tubes	isPartOfRoute	(Signed as SR 61)
+Adelaide–Mannum Road	isPartOfRoute	Gilberton - St Agnes : 60px|center
+Adelaide–Mannum Road	isPartOfRoute	St Agnes - Birdwood: 60px|center
+Coronation Drive, Brisbane	isPartOfRoute	State Route 33
+Swan Street, Melbourne	isPartOfRoute	Olympic Boulevard
+Bussell Highway	isPartOfRoute	Bunbury - Karridale: 50px|center
+Wilmington–Ucolta Road	isPartOfRoute	Orroroo - Black Rock: 60px|center (duplex with 35px)
+Logan Road, Brisbane	isPartOfRoute	State Route 95
+Central Coast Highway	isPartOfRoute	Gosford - Kariong: 50px|center
+Devon Avenue (Chicago)	isPartOfRoute	6400 North
+Chicago Avenue	isPartOfRoute	800 North
+Burwood Highway	isPartOfRoute	Kooyong - Upper Ferntree Gully: 50px|center Upper Ferntree Gully - Belgrave: 60px|center Formerly 25px
+Kalamunda Road	isPartOfRoute	State Route 41 (partially)
+Broadway (Chicago)	isPartOfRoute	1200 West (from Lawrence to Devon)
+Diversey Parkway (Chicago)	isPartOfRoute	2800 North
+Belmont Avenue (Chicago)	isPartOfRoute	3200 North
+Allen Parkway	isPartOfRoute	Buffalo Parkway
+Vasse Highway	isPartOfRoute	Busselton - Nannup: 35px|center Nannup - Manjimup: 35px|center
+Old Coast Road	isPartOfRoute	20px Halls Head - Leschenault
+Thomas Road	isPartOfRoute	State Route 21
+Pinjar Road	isPartOfRoute	Formerly part of State Route 86
+Terrace Motorway Tunnel	isPartOfRoute	State Highway 1 (Wellington Urban Motorway)
+Salisbury Highway	isPartOfRoute	Elizabeth Vale - Dry Creek:
+Salisbury Highway	isPartOfRoute	60px|center
+Salisbury Highway	isPartOfRoute	Dry Creek - Wingfield:
+Salisbury Highway	isPartOfRoute	60px|center
+Hepburn Avenue	isPartOfRoute	State Route 82
+Whitfords Avenue	isPartOfRoute	State Route 83
+Stony Island Avenue	isPartOfRoute	1600 East
+Ocean Reef Road, Perth	isPartOfRoute	State Route 84
+Warwick Road	isPartOfRoute	State Route 81
+North Beach Road, Perth	isPartOfRoute	State Route 77
+Pulaski Road (Chicago)	isPartOfRoute	Crawford Avenue, 4000 West
+Scarborough Beach Road	isPartOfRoute	State Route 75
+Clark Street (Chicago)	isPartOfRoute	100 West in the Loop
+Cermak Road	isPartOfRoute	2200 South
+West Tamar Highway	isPartOfRoute	A7
+Esk Highway	isPartOfRoute	A4
+Lyttelton road tunnel	isPartOfRoute	20px Christchurch\u2013Lyttelton Motorway
+Welshpool Road, Perth	isPartOfRoute	West not allocated, East allocated State Route 8Entire road formerly allocated State Route 35
+Grand Avenue (Chicago)	isPartOfRoute	(530 North)
+Argyll Road, Edmonton	isPartOfRoute	61 Avenue, Allendale Road, 63 Avenue
+Roosevelt Road	isPartOfRoute	1200 South
+Brighton Bypass	isPartOfRoute	Highway 1
+Eiksund Tunnel	isPartOfRoute	Norwegian National Road 653
+Historic Michigan Boulevard District	isPartOfRoute	Michigan Avenue
+Hunter Expressway	isPartOfRoute	New England Highway
+National Highway A2, Queensland	isPartOfRoute	National Highway A2
+Hell Tunnel	isPartOfRoute	/
+Gympie Road, Brisbane	isPartOfRoute	A3, State Route 58
+Limerick Tunnel	isPartOfRoute	N18
+Vista Ridge Tunnels	isPartOfRoute	20px U.S. Route 26
+Westernport Highway	isPartOfRoute	Lyndhurst - Langwarrin: 60px|center Langwarrin - Hastings: 60px|center
+Calgary Trail	isPartOfRoute	104 Street
+95th Street (Chicago)	isPartOfRoute	9500 South
+Foster Avenue (Chicago)	isPartOfRoute	5200 North
+Waterview Connection	isPartOfRoute	Western Ring Route (State Highway 20)
+Madison Street (Chicago)	isPartOfRoute	0 North/South
+Armadale Road	isPartOfRoute	State Route 14
+Ranford Road	isPartOfRoute	State Route 13
+KLCC Tunnel	isPartOfRoute	Kuala Lumpur Middle Ring Road 1
+Princes Highway East (Melbourne)	isPartOfRoute	Southbank - Berwick: 65px|center
+Princes Highway East (Melbourne)	isPartOfRoute	Formerly 25px
+Princes Highway East (Melbourne)	isPartOfRoute	Berwick - Nar Nar Goon:60px|center
+Princes Highway East (Melbourne)	isPartOfRoute	Formerly 25px 35px
+Warrigal Road	isPartOfRoute	Kingston Road - South Road: center|35px
+Warrigal Road	isPartOfRoute	(duplex with 20px)
+Henty Highway	isPartOfRoute	Lascelles-Horsham: 40px|center Horsham-Portland: 40px|center
+Wimmera Highway	isPartOfRoute	Marong-Vic/SA Border: 55px|center Vic/SA Border-Naracoorte: 55px|center
+Docklands Highway	isPartOfRoute	West Gate Freeway - Flinders Street: 35px|center 35px|center  35px|center
+Docklands Highway	isPartOfRoute	Flinders Street - Dudley Street: 35px|center
+Docklands Highway	isPartOfRoute	Dudley Street - Whitehall Street via Footscray Road: 35px|center
+Docklands Highway	isPartOfRoute	Whitehall Street - Somerville Road: 35px|center 35px|center
+Docklands Highway	isPartOfRoute	Somerville Road - Hyde Street: 35px|center
+Docklands Highway	isPartOfRoute	Hyde Street - Williamstown Road: 35px|center
+Eastern Highway	isPartOfRoute	Queens Parade - Rathdowne Street: 35px|center (duplex with 20px)
+Plenty Valley Highway	isPartOfRoute	Metropolitan Ring Road - Albert Street / Plenty Road: 35px|center
+Plenty Valley Highway	isPartOfRoute	Settlement Road - Grimshaw Street: 35px|center (duplex with 25px)
+Plenty Valley Highway	isPartOfRoute	Plenty Road - Bell Street: 35px|center
+Bulleen Road	isPartOfRoute	Manningham Road - Eastern Freeway: 50px|center
+Bulleen Road	isPartOfRoute	Eastern Freeway - Doncaster Road: 50px|center
+Yarra Bank Highway	isPartOfRoute	Yarra River Tourist Route 2
+Route 10, Melbourne	isPartOfRoute	Nepean Highway: center|35px
+Route 10, Melbourne	isPartOfRoute	(duplex with 20px)
+Route 40, Melbourne	isPartOfRoute	Heidelberg - Bulleen: 50px|center (duplex with 25px)
+Route 40, Melbourne	isPartOfRoute	Templestowe Lower - Doncaster: 50px|center (duplex with 25px)
+Route 40, Melbourne	isPartOfRoute	Doncaster - Donvale: 50px|center (duplex with 25px)
+Broadway Tunnel (San Francisco)	isPartOfRoute	Broadway Street
+Escort Way	isPartOfRoute	Boree - Boree South: 50px|center (duplex with 25px)
+Henry Lawson Way	isPartOfRoute	Bogolong - Grenfell: 50px|center
+Lachlan Valley Way	isPartOfRoute	Cowra - North Yass: 50px|center
+Savannah Way	isPartOfRoute	Highway 1
+Port of Miami Tunnel	isPartOfRoute	Interstate 395/Florida State Route A1A
+Duncan Road	isPartOfRoute	Nicholson - Halls Creek: 50px|center
+Goldfields Highway	isPartOfRoute	Kalgoorlie to Coolgardie-Esperance Highway: 35px|center
+Mannheim Road	isPartOfRoute	10400 West
+Batman Highway	isPartOfRoute	B73
+Tromsøysund Tunnel	isPartOfRoute	European route E8
+Carlin Tunnel	isPartOfRoute	Interstate 80
+Cave Rock Tunnel	isPartOfRoute	U.S. Route 50
+Yass Valley Way	isPartOfRoute	Yass Valley Way
+Victoria Road, Adelaide	isPartOfRoute	Birkenhead - Outer Harbor: 60px|center
+Stockton Street Tunnel	isPartOfRoute	Stockton Street
+Wawona Tunnel	isPartOfRoute	Highway 41
+Gawler bypass road	isPartOfRoute	Evanston - Willaston: 50px|center  Formerly 25px
+Gawler bypass road	isPartOfRoute	Willaston - Hewett: 50px|center
+Kingsway (Edmonton)	isPartOfRoute	Kingsway Avenue, 108A Avenue
+Berkeley Hills Tunnel	isPartOfRoute	Pittsburg/Bay Point - SFO Line BART
+170 Street, Edmonton	isPartOfRoute	Gervais Road, Hebert Road
+Batasan Road	isPartOfRoute	Constitution Hill Road
+Batasan Road	isPartOfRoute	Litex Road
+Batasan Road	isPartOfRoute	Formerly called IBP Road
+Touhy Avenue	isPartOfRoute	7200 North
+Batasan-San Mateo Road	isPartOfRoute	Constitutional Road
+Bjorøy Tunnel	isPartOfRoute	Hordaland County Road 207
+Anzac Avenue	isPartOfRoute	25px State Route 71
+Anzac Avenue	isPartOfRoute	25px State Route 26 between Deception Bay Road and Elizabeth Avenue
+Howard Street (Chicago)	isPartOfRoute	7600 North
+Broadway Tunnel (Los Angeles)	isPartOfRoute	North Broadway
+23 Avenue, Edmonton	isPartOfRoute	23 Avenue
+City Ring Route, Adelaide	isPartOfRoute	Fitzroy Terrace-Greenhill Road : 60px|center
+City Ring Route, Adelaide	isPartOfRoute	Fullarton Road-Robe Terrace: 60px|center Formerly 25px
+Macclesfield Road	isPartOfRoute	State Route B33
+Onkaparinga Valley Road	isPartOfRoute	State Route B34
+Strathalbyn–Goolwa Road	isPartOfRoute	State Route B34
+Wellington Road, South Australia	isPartOfRoute	State Route B45
+Gorge Road, South Australia	isPartOfRoute	State Route B31
+111 Street, Edmonton	isPartOfRoute	111 Street SW
+50 Street, Edmonton	isPartOfRoute	50 Street SW, Highway 814
+Fort Barrette Road	isPartOfRoute	State Route 901
+118 Avenue, Edmonton  118 Avenue Eastside   1	isPartOfRoute	Alberta Avenue, Avenue of Champions
+Baseline Road (Sherwood Park)	isPartOfRoute	101 Avenue NW, Township Road 530
+Victoria Trail  18 Street NW   1	isPartOfRoute	18 Street
+100 Avenue, Edmonton	isPartOfRoute	John and Zeta Rosen Way
+M80 Ring Road, Melbourne	isPartOfRoute	Princes / West Gate Freeway \u2013 Western Freeway: 60px|center Western Freeway \u2013 Hume Freeway: 60px|center Hume Freeway \u2013 Greensborough Highway: 60px|center
+34 Street, Edmonton	isPartOfRoute	Range Road 240, 34 Street SW
+66 Street, Edmonton	isPartOfRoute	66 Street SW
+91 Street, Edmonton	isPartOfRoute	91 Street SW
+Parsons Road	isPartOfRoute	Parsons Road SW, 99 Street
+Roper Road	isPartOfRoute	51 Avenue
+105 Street, Edmonton	isPartOfRoute	Walterdale Hill, Queen Elizabeth Park Road
+Ellerslie Road	isPartOfRoute	9 Avenue SW, Township Road 514
+113/114 Street, Edmonton	isPartOfRoute	113 Street, 114 Street
+119/122 Street, Edmonton	isPartOfRoute	127 Street SW, 119 Street, 122 Street, Belgravia Road
+107 Avenue, Edmonton	isPartOfRoute	Avenue of Nations, 107A Avenue, Stadium Road
+111/112 Avenue, Edmonton	isPartOfRoute	111 Avenue, Norwood Boulevard, 112 Avenue
+127 Street, Edmonton	isPartOfRoute	Range Road 250
+156 Street, Edmonton	isPartOfRoute	Campbell Road
+153 Avenue, Edmonton	isPartOfRoute	153 Avenue NW
+153 Avenue, Edmonton  153 Avenue NW/NE   1	isPartOfRoute	153 Avenue NW, 153 Avenue NE
+167 Avenue, Edmonton	isPartOfRoute	167 Avenue NW
+167 Avenue, Edmonton  167 Avenue NW/NE   1	isPartOfRoute	167 Avenue NW, 167 Avenue NE
+Winterburn Road	isPartOfRoute	Range Road 260, 215 Street SW, 215 Street NW
+Boudreau Road	isPartOfRoute	Giroux Road, Boudreau Road
+Broadmoor Boulevard	isPartOfRoute	17 Street NE
+Castle Downs Road	isPartOfRoute	113A Street
+McKenney Avenue	isPartOfRoute	Bellerose Drive
+Clover Bar Road	isPartOfRoute	Range Road 231
+Fort Road, Edmonton	isPartOfRoute	Old Fort Road
+Mill Woods Road	isPartOfRoute	Mill Woods Road S, Mill Woods Road E
+Saskatchewan Drive	isPartOfRoute	Scona Road
+Sherwood Drive	isPartOfRoute	Range Road 233, Range Road 232
+Sir Winston Churchill Avenue	isPartOfRoute	Churchill Av
+Esk–Hampton Road	isPartOfRoute	Esk - Hampton: 50px|center
+Old Princes Highway, Victoria	isPartOfRoute	Berwick-Nar Nar Goon via Pakenham: 40px|center Drouin-Nilma via Warragul: 40px|center Moe-Newborough: 40px|center Morwell-Traralgon: 40px|center
+Princes Highway, Melbourne	isPartOfRoute	Werribee South-Hoppers Crossing: 40px|center Laverton North-Parkville: 30px|center Parkville-Southbank: 30px|center Southbank-Berwick: 30px|center
+2nd Street Tunnel	isPartOfRoute	2nd Street
+Northbrae Tunnel	isPartOfRoute	East Bay Electric Lines;Key System;Solano Avenue
+Camden Valley Way	isPartOfRoute	Camden Valley Way
+Remembrance Drive	isPartOfRoute	Remembrance Drive
+Heroes Tunnel	isPartOfRoute	Wilbur Cross Parkway (Route 15)
+Harlem Avenue	isPartOfRoute	7200 West
+Cranbourne-Frankston Road	isPartOfRoute	Playne Street-South Gippsland Highway 25px|center\u200E South Gippsland Highway-Cameron Street 35px|center
+Marion Road, Adelaide	isPartOfRoute	30px|State Route A14 Torrensville - Bedford Park
+Addison Street	isPartOfRoute	3600 North
+Freifjord Tunnel	isPartOfRoute	Norwegian National Road 70
+Kinuura tunnel	isPartOfRoute	Route 256
+Vardø Tunnel	isPartOfRoute	European Route E75
+Karisaka Tunnel	isPartOfRoute	20pxJapan National Route 140
+St Helena Tunnel	isPartOfRoute	Pacific Highway

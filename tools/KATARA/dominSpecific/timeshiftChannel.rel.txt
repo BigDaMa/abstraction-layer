@@ -1,0 +1,126 @@
+Channel 4	timeshiftChannel	Channel 4+1
+ITV1	timeshiftChannel	ITV1+1
+RTÉ One	timeshiftChannel	RT\u00C9 One +1
+Syfy (United Kingdom)	timeshiftChannel	Syfy +1
+ITV2	timeshiftChannel	ITV2 +1
+UTV	timeshiftChannel	UTV +1
+Fox8	timeshiftChannel	FOX8+2
+TV3 (New Zealand)	timeshiftChannel	TV3 Plus 1
+Ftn	timeshiftChannel	Ftn+1
+Eden (TV channel)	timeshiftChannel	Eden +1
+Alibi (TV channel)	timeshiftChannel	Alibi +1
+Home (TV channel)	timeshiftChannel	Home +1
+Good Food	timeshiftChannel	Good Food +1
+Yesterday (TV channel)	timeshiftChannel	Yesterday +1
+Dave (TV channel)	timeshiftChannel	Dave ja vu
+ITV3	timeshiftChannel	ITV3 +1
+Sky Living	timeshiftChannel	Sky Living +1
+Challenge (TV channel)	timeshiftChannel	Challenge +1
+Bravo (UK TV channel)	timeshiftChannel	Bravo +1
+Sky Real Lives	timeshiftChannel	Sky Real Lives +1
+Showtime movie channels	timeshiftChannel	showtime two
+ITV4	timeshiftChannel	ITV4 +1
+Comedy Central Extra	timeshiftChannel	Comedy Central Extra +1
+Fox Classics	timeshiftChannel	Fox Classics+2
+TV1000	timeshiftChannel	TV1000 Plus One
+Discovery Real Time	timeshiftChannel	Discovery Real Time +1
+Telelatino	timeshiftChannel	Telelatino West
+RTL 4	timeshiftChannel	RTL Television
+W Channel (Australia)	timeshiftChannel	W+2
+FX (UK)	timeshiftChannel	FX + (1 hour timeshift)
+More4	timeshiftChannel	More4+1
+Tiny Pop	timeshiftChannel	Tiny Pop+1
+Nickelodeon (UK & Ireland)	timeshiftChannel	Nick Replay
+Pick TV	timeshiftChannel	Pick TV+1
+The LifeStyle Channel	timeshiftChannel	The LifeStyle Channel+2
+Sky Livingit	timeshiftChannel	Sky Livingit +1
+Disney Channel (UK & Ireland)	timeshiftChannel	Disney Channel +1
+Horror Channel	timeshiftChannel	Horror Channel +1
+Disney Cinemagic (UK & Ireland)	timeshiftChannel	Disney Cinemagic +1
+Boomerang (UK & Ireland)	timeshiftChannel	Boomerang +1
+Nicktoons (UK & Ireland)	timeshiftChannel	Nicktoons Replay
+Universal Channel (UK)	timeshiftChannel	Universal Channel +1
+Discovery Home & Health	timeshiftChannel	Discovery Home & Health +1
+Disney XD (UK & Ireland)	timeshiftChannel	Disney XD +1
+Travel Channel (UK)	timeshiftChannel	Travel Channel +1
+5USA	timeshiftChannel	5USA +1
+5*	timeshiftChannel	5* +1
+Canal+ (Spain)	timeshiftChannel	Canal+ ...30
+Zone Reality	timeshiftChannel	Zone Reality +1
+Discovery Channel (UK TV channel)	timeshiftChannel	Discovery Channel +1
+Movies4Men	timeshiftChannel	Movies4Men +1
+Crime & Investigation Network (UK)	timeshiftChannel	Crime & Investigation Network +1
+E4 (channel)	timeshiftChannel	E4+1
+Disney Junior (UK & Ireland)	timeshiftChannel	Disney Junior +
+MTV France	timeshiftChannel	MTV +1
+Movies4Men 2	timeshiftChannel	Movies4Men 2 +1
+STV (TV network)	timeshiftChannel	STV +1
+Discovery Channel (Australia)	timeshiftChannel	Discovery +2 (Channel 612)
+MediaCorp TV12 Central	timeshiftChannel	Kids Central
+MediaCorp TV12 Central	timeshiftChannel	Vasantham Central
+MediaCorp TV12 Central	timeshiftChannel	Arts Central
+History (UK TV channel)	timeshiftChannel	History +1
+Disney Channel Italy	timeshiftChannel	Disney Channel +1
+RTV21	timeshiftChannel	21 Plus
+RTV21	timeshiftChannel	21 Popullore  21 Junior
+RTV21	timeshiftChannel	21 News
+Channel One (UK TV channel)	timeshiftChannel	Channel One +1
+Pop Girl	timeshiftChannel	PopGirl +1
+Lemar TV	timeshiftChannel	Tolo TV
+Lemar TV	timeshiftChannel	TOLOnews
+Lemar TV	timeshiftChannel	FARSI1 (with News Corporation)
+Nuts TV	timeshiftChannel	Nuts TV +1 - also shutdown
+Diva TV	timeshiftChannel	Diva TV +1
+Life TV	timeshiftChannel	Life TV +2
+Travel and Living Channel	timeshiftChannel	TLC+2
+Jetix (Italy)	timeshiftChannel	Jetix +1
+Jetix (Spain)	timeshiftChannel	Jetix +1
+Discovery History	timeshiftChannel	Discovery History +1
+Lok Sabha TV	timeshiftChannel	24 hours
+DMAX (UK TV channel)	timeshiftChannel	DMAX +1
+DMAX (UK TV channel)	timeshiftChannel	DMAX +2
+Discovery Science (UK TV channel)	timeshiftChannel	Discovery Science +1
+Caccia e Pesca	timeshiftChannel	Caccia e Pesca +6
+Wedding TV	timeshiftChannel	Wedding TV +1(Replaced with Wedding TV Asia)
+Rai Gulp	timeshiftChannel	Rai Gulp +1
+Disney Channel Japan	timeshiftChannel	Disney Channel
+Watch (TV channel)	timeshiftChannel	Watch+1
+Nickelodeon (Italy)	timeshiftChannel	Nickelodeon +1
+Fox (Italy)	timeshiftChannel	Fox +1, Fox +2
+Animal Planet (UK TV channel)	timeshiftChannel	Animal Planet +1
+Joi (TV channel)	timeshiftChannel	Joi +1
+Mya (TV channel)	timeshiftChannel	Mya +1
+Channel South	timeshiftChannel	Not known
+111 Hits	timeshiftChannel	111 HITS+2
+Okto	timeshiftChannel	okto
+Okto	timeshiftChannel	A-OK (arts on okto)
+Cinema (TV channel)	timeshiftChannel	Cinema 2, Cinema 3
+Steel (TV channel)	timeshiftChannel	Steel +1
+Quest (TV channel)	timeshiftChannel	Quest +1
+Discovery Home & Health (UK & Ireland)	timeshiftChannel	Home & Health +1
+DD Metro	timeshiftChannel	Metro Gold
+GXT	timeshiftChannel	GXT +1
+Comedy Central (UK & Ireland)	timeshiftChannel	Comedy Central +1
+WB Channel	timeshiftChannel	WB (Pakistan)
+MTV Indonesia	timeshiftChannel	MTV Southeast Asia (part of MTV Networks Asia)
+Nickelodeon Indonesia	timeshiftChannel	MTV Southeast Asia (part of MTV Networks Asia)
+Gol Televisión	timeshiftChannel	GolT +1
+Disney Channel Turkey	timeshiftChannel	Disney Channel
+Fox Crime (Italy)	timeshiftChannel	Fox Crime +1
+Fox Crime (Italy)	timeshiftChannel	Fox Crime +2
+Fox Life (Italy)	timeshiftChannel	Fox Life +1; Fox Life +2
+Jetix (UK & Ireland)	timeshiftChannel	Jetix +1
+CBS Reality	timeshiftChannel	CBS Reality +1
+Discovery Channel Italy	timeshiftChannel	Discovery Channel +1
+Zone Reality (UK)	timeshiftChannel	Zone Reality +1
+LifeStyle You	timeshiftChannel	LifeStyle YOU +2
+Discovery Turbo MAX	timeshiftChannel	Discovery Turbo MAX +2
+Disney Cinemagic (France)	timeshiftChannel	Disney Cinemagic +1
+Ada TV	timeshiftChannel	24 Hours
+MTV (UK and Ireland)	timeshiftChannel	MTV +1
+BET International	timeshiftChannel	BET +1 (UK only)
+Movie Network	timeshiftChannel	Movie Two, Starpics 2
+Sony Entertainment Television (UK & Ireland)	timeshiftChannel	Sony Entertainment Television +1
+MTV Flanders	timeshiftChannel	Nickelodeon (Netherlands & Flanders) (February 2004 - 30 September 2011)
+Showcase (Australian TV channel)	timeshiftChannel	showcase two
+Disney Channel (France)	timeshiftChannel	Disney Channel +1

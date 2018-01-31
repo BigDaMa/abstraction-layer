@@ -1,0 +1,696 @@
+Black	rgbCoordinateBlue	0
+Blue	rgbCoordinateBlue	0
+Cyan	rgbCoordinateBlue	128
+Cyan  additive secondary   1	rgbCoordinateBlue	255
+Cyan  subtractive primary   1	rgbCoordinateBlue	183
+Cyan  Light Cyan  1	rgbCoordinateBlue	255
+Cyan  Light Sea Green   1	rgbCoordinateBlue	178
+Cyan  Dark Cyan  1	rgbCoordinateBlue	139
+Cyan  white  1	rgbCoordinateBlue	128
+Green	rgbCoordinateBlue	255
+Indigo	rgbCoordinateBlue	0
+Indigo  Electric Indigo  1	rgbCoordinateBlue	0
+Indigo  Blue-Violet  1	rgbCoordinateBlue	43
+Indigo  Pigment Indigo  1	rgbCoordinateBlue	0
+Indigo  Dye  1	rgbCoordinateBlue	65
+Red	rgbCoordinateBlue	0
+Sienna	rgbCoordinateBlue	45
+Sienna  Raw Sienna   1	rgbCoordinateBlue	115
+Sienna  Burnt Sienna  1	rgbCoordinateBlue	116
+Sienna  Dark Sienna   1	rgbCoordinateBlue	20
+Yellow	rgbCoordinateBlue	255
+Yellow  Yellow  1	rgbCoordinateBlue	255
+Yellow  black  1	rgbCoordinateBlue	239
+Violet (color)  Violet color wheel   1	rgbCoordinateBlue	0
+Violet (color)  Electric Violet  1	rgbCoordinateBlue	0
+Violet (color)  Vivid Violet  1	rgbCoordinateBlue	0
+Violet (color)  Violet web color   1	rgbCoordinateBlue	130
+Violet (color)  Dark Violet  1	rgbCoordinateBlue	0
+Purple	rgbCoordinateBlue	0
+Purple  Violet  1	rgbCoordinateBlue	0
+Purple  white  1	rgbCoordinateBlue	2
+Purple  Han Purple  1	rgbCoordinateBlue	24
+Purple  white  2	rgbCoordinateBlue	81
+Purple  white  3	rgbCoordinateBlue	21
+Purple  white  4	rgbCoordinateBlue	0
+Purple  white  5	rgbCoordinateBlue	0
+Purple  white  6	rgbCoordinateBlue	32
+Purple  Medium Purple  1	rgbCoordinateBlue	112
+Purple  Munsell   1	rgbCoordinateBlue	0
+Purple  Orchid  1	rgbCoordinateBlue	112
+Purple  Heliotrope  1	rgbCoordinateBlue	115
+Purple  white  7	rgbCoordinateBlue	0
+Purple  white  8	rgbCoordinateBlue	75
+Purple  white  9	rgbCoordinateBlue	24
+Brown	rgbCoordinateBlue	75
+Brown  Red-Brown  1	rgbCoordinateBlue	42
+Brown  Dark Brown  1	rgbCoordinateBlue	67
+Brown  Pale Brown  1	rgbCoordinateBlue	118
+Ultramarine	rgbCoordinateBlue	10
+Ultramarine  Blue  1	rgbCoordinateBlue	102
+Ultramarine  lectric Ultramarine  1	rgbCoordinateBlue	0
+Magenta	rgbCoordinateBlue	0
+Magenta  white  1	rgbCoordinateBlue	31
+Magenta  black  1	rgbCoordinateBlue	0
+Magenta  black  2	rgbCoordinateBlue	0
+Orange (colour)	rgbCoordinateBlue	127
+Orange (colour)  Orange web colour   1	rgbCoordinateBlue	165
+Orange (colour)  Dark orange web colour   1	rgbCoordinateBlue	140
+Orange (colour)  Orange peel   1	rgbCoordinateBlue	159
+Orange (colour)  Deep saffron   1	rgbCoordinateBlue	153
+Orange (colour)  Burnt orange   1	rgbCoordinateBlue	85
+Orange (colour)  white   1	rgbCoordinateBlue	75
+Bondi blue	rgbCoordinateBlue	149
+Jonquil	rgbCoordinateBlue	218
+Tyrian purple	rgbCoordinateBlue	2
+Terracotta	rgbCoordinateBlue	114
+Terracotta  Dark Terra cotta  1	rgbCoordinateBlue	78
+Prussian blue  white  1	rgbCoordinateBlue	49
+Pink	rgbCoordinateBlue	192
+Crimson	rgbCoordinateBlue	20
+Crimson  Alizarin Crimson  1	rgbCoordinateBlue	38
+Crimson  Electric Crimson  1	rgbCoordinateBlue	0
+Crimson  Folly  1	rgbCoordinateBlue	0
+Crimson  white  1	rgbCoordinateBlue	37
+Crimson  KU Crimson  1	rgbCoordinateBlue	0
+Crimson  Utah Crimson  1	rgbCoordinateBlue	0
+Crimson  Harvard Crimson  1	rgbCoordinateBlue	0
+Crimson  Glory  1	rgbCoordinateBlue	0
+Crimson  OU Crimson  1	rgbCoordinateBlue	0
+Gold (color)	rgbCoordinateBlue	215
+Gold (color)  Metallic Gold   1	rgbCoordinateBlue	175
+Gold (color)  #FFFFFF  1	rgbCoordinateBlue	147
+Gold (color)  University of California Gold  1	rgbCoordinateBlue	135
+Gold (color)  Satin Sheen Gold   1	rgbCoordinateBlue	161
+Gold (color)  Vegas Gold  1	rgbCoordinateBlue	179
+Gold (color)  Old Gold   1	rgbCoordinateBlue	181
+Gold (color)  Pale Gold   1	rgbCoordinateBlue	190
+Gold (color)  Golden Poppy   1	rgbCoordinateBlue	194
+Gold (color)  Sunglow   1	rgbCoordinateBlue	204
+Gold (color)  Golden yellow   1	rgbCoordinateBlue	223
+Gold (color)  Golden brown  1	rgbCoordinateBlue	101
+Isatis tinctoria  Indigo Dye  1	rgbCoordinateBlue	65
+Ochre	rgbCoordinateBlue	119
+Vermilion	rgbCoordinateBlue	66
+Vermilion  Orange-Red  1	rgbCoordinateBlue	63
+Coral (color)	rgbCoordinateBlue	127
+Coral (color)  Light Coral  1	rgbCoordinateBlue	128
+Coral (color)  Coral Pink  1	rgbCoordinateBlue	131
+Coral (color)  Coral Red  1	rgbCoordinateBlue	64
+Coral (color)  Dark Coral   1	rgbCoordinateBlue	91
+Cadmium pigments	rgbCoordinateBlue	246
+Cadmium pigments  Cadmium Orange  1	rgbCoordinateBlue	135
+Cadmium pigments  Cadmium Red  1	rgbCoordinateBlue	0
+Cadmium pigments  Cadmium Green  1	rgbCoordinateBlue	107
+Umber	rgbCoordinateBlue	102
+Umber  white  1	rgbCoordinateBlue	81
+Navy blue	rgbCoordinateBlue	0
+Powder blue	rgbCoordinateBlue	224
+Powder blue  Dark powder blue   1	rgbCoordinateBlue	51
+Phthalocyanine Blue BN	rgbCoordinateBlue	15
+Tan (color)	rgbCoordinateBlue	180
+Tan (color)  Dark Tan  1	rgbCoordinateBlue	129
+Mauve	rgbCoordinateBlue	176
+Mauve  Light Mauve  1	rgbCoordinateBlue	208
+Mauve  white  1	rgbCoordinateBlue	132
+Mauve  white  2	rgbCoordinateBlue	95
+Mauve  white  3	rgbCoordinateBlue	49
+Mountbatten pink	rgbCoordinateBlue	122
+Beige	rgbCoordinateBlue	245
+Beige  Cosmic Latte  1	rgbCoordinateBlue	248
+Beige  Desert Sand  1	rgbCoordinateBlue	201
+Beige  cru  1	rgbCoordinateBlue	178
+Beige  French Beige  1	rgbCoordinateBlue	123
+Beige  Mode Beige  1	rgbCoordinateBlue	113
+Bistre	rgbCoordinateBlue	43
+Azure (color)	rgbCoordinateBlue	127
+Azure (color)  Azure web color   1	rgbCoordinateBlue	255
+Azure (color)  Alice Blue   1	rgbCoordinateBlue	248
+Azure (color)  Columbia Blue  1	rgbCoordinateBlue	221
+Azure (color)  Light Sky Blue  1	rgbCoordinateBlue	206
+Azure (color)  Sky Blue  1	rgbCoordinateBlue	206
+Azure (color)  Maya Blue  1	rgbCoordinateBlue	194
+Azure (color)  United Nations Blue  1	rgbCoordinateBlue	146
+Azure (color)  Cornflower Blue  1	rgbCoordinateBlue	149
+Azure (color)  Bleu de France   1	rgbCoordinateBlue	140
+Azure (color)  white  1	rgbCoordinateBlue	144
+Azure (color)  Brandeis Blue  1	rgbCoordinateBlue	112
+Azure (color)  white  2	rgbCoordinateBlue	115
+Azure (color)  Royal Blue web color   1	rgbCoordinateBlue	105
+Azure (color)  Celestial Blue  1	rgbCoordinateBlue	151
+Azure (color)  Tufts Blue  1	rgbCoordinateBlue	145
+Azure (color)  Wild Blue Yonder  1	rgbCoordinateBlue	173
+Azure (color)  Air Force Blue  1	rgbCoordinateBlue	138
+Azure (color)  Steel Blue  1	rgbCoordinateBlue	130
+Azure (color)  French Blue  1	rgbCoordinateBlue	114
+Azure (color)  Lapis Lazuli  1	rgbCoordinateBlue	97
+Azure (color)  white   1	rgbCoordinateBlue	56
+Azure (color)  Royal Blue traditional   1	rgbCoordinateBlue	35
+Teal	rgbCoordinateBlue	128
+Teal  white  1	rgbCoordinateBlue	117
+Salmon (color)	rgbCoordinateBlue	160
+Salmon (color)  Salmon   1	rgbCoordinateBlue	128
+Salmon (color)  Dark salmon  1	rgbCoordinateBlue	150
+Fuchsia (color)	rgbCoordinateBlue	0
+Fuchsia (color)  black  1	rgbCoordinateBlue	132
+Fuchsia (color)  black  2	rgbCoordinateBlue	119
+Fuchsia (color)  Neon Fuchsia  1	rgbCoordinateBlue	89
+Fuchsia (color)  Fashion Fuchsia  1	rgbCoordinateBlue	0
+Fuchsia (color)  Deep Fuchsia  1	rgbCoordinateBlue	84
+Fuchsia (color)  white  1	rgbCoordinateBlue	51
+Fuchsia (color)  Antique Fuchsia  1	rgbCoordinateBlue	92
+Peach (color)	rgbCoordinateBlue	229
+Peach (color)  Peach-Yellow  1	rgbCoordinateBlue	223
+Peach (color)  Peach Puff  1	rgbCoordinateBlue	218
+Peach (color)  Deep Peach  1	rgbCoordinateBlue	203
+Peach (color)  Peach-Orange  1	rgbCoordinateBlue	204
+Silver (color)	rgbCoordinateBlue	192
+Silver (color)  Pale silver   1	rgbCoordinateBlue	192
+Cardinal (color)	rgbCoordinateBlue	30
+Lavender (color)	rgbCoordinateBlue	230
+Lavender (color)  Lavender blush   1	rgbCoordinateBlue	240
+Lavender (color)  Lavender mist   1	rgbCoordinateBlue	230
+Lavender (color)  Languid lavender   1	rgbCoordinateBlue	202
+Lavender (color)  Lavender gray   1	rgbCoordinateBlue	195
+Lavender (color)  Light mauve   1	rgbCoordinateBlue	208
+Lavender (color)  Periwinkle   1	rgbCoordinateBlue	204
+Lavender (color)  black   1	rgbCoordinateBlue	176
+Lavender (color)  black   2	rgbCoordinateBlue	160
+Lavender (color)  Lavender pink   1	rgbCoordinateBlue	174
+Lavender (color)  Brilliant lavender   1	rgbCoordinateBlue	192
+Lavender (color)  Rich brilliant lavender   1	rgbCoordinateBlue	167
+Lavender (color)  black   3	rgbCoordinateBlue	130
+Lavender (color)  Plum web color   1	rgbCoordinateBlue	160
+Lavender (color)  black   4	rgbCoordinateBlue	115
+Lavender (color)  Bright úbe   1	rgbCoordinateBlue	159
+Lavender (color)  Bright lavender   1	rgbCoordinateBlue	148
+Lavender (color)  Lavender   1	rgbCoordinateBlue	126
+Lavender (color)  white   1	rgbCoordinateBlue	97
+Lavender (color)  Amethyst  1	rgbCoordinateBlue	102
+Lavender (color)  Úbe  1	rgbCoordinateBlue	120
+Lavender (color)  Lavender indigo  1	rgbCoordinateBlue	87
+Lavender (color)  white   2	rgbCoordinateBlue	112
+Lavender (color)  Purple mountain majesty  1	rgbCoordinateBlue	120
+Lavender (color)  Twilight lavender  1	rgbCoordinateBlue	73
+Lavender (color)  white   3	rgbCoordinateBlue	79
+Lavender (color)  Halayà úbe  1	rgbCoordinateBlue	56
+Lavender (color)  Old lavender  1	rgbCoordinateBlue	104
+Falu red	rgbCoordinateBlue	24
+Venetian red	rgbCoordinateBlue	8
+Liver (color)	rgbCoordinateBlue	75
+Copper (color)	rgbCoordinateBlue	115
+Copper (color)  Pale Copper  1	rgbCoordinateBlue	138
+Persian red	rgbCoordinateBlue	51
+Dodger blue	rgbCoordinateBlue	144
+Lemon (color)	rgbCoordinateBlue	247
+Persian blue	rgbCoordinateBlue	57
+Persian blue  Persian indigo  1	rgbCoordinateBlue	18
+Persian blue  Medium Persian blue  1	rgbCoordinateBlue	103
+Puce	rgbCoordinateBlue	136
+Periwinkle (color)	rgbCoordinateBlue	204
+Amber (color)	rgbCoordinateBlue	191
+Amber (color)  SAE/ECE Amber   1	rgbCoordinateBlue	126
+Scarlet (color)	rgbCoordinateBlue	36
+Scarlet (color)  Torch red  1	rgbCoordinateBlue	14
+Scarlet (color)  Flame  1	rgbCoordinateBlue	88
+Scarlet (color)  Fire Brick  1	rgbCoordinateBlue	34
+Scarlet (color)  Dark Scarlet  1	rgbCoordinateBlue	3
+Cerulean	rgbCoordinateBlue	123
+Cerulean  blue pigment approximate color   1	rgbCoordinateBlue	82
+Cerulean  Bright Cerulean  1	rgbCoordinateBlue	172
+Cerulean  Cerulean  1	rgbCoordinateBlue	196
+Orchid (color)	rgbCoordinateBlue	112
+Viridian	rgbCoordinateBlue	130
+Sepia (color)	rgbCoordinateBlue	66
+Amethyst (color)	rgbCoordinateBlue	102
+Cobalt blue	rgbCoordinateBlue	71
+Turquoise (color)	rgbCoordinateBlue	224
+Turquoise (color)  Pale Turquoise  1	rgbCoordinateBlue	238
+Turquoise (color)  Turquoise Blue  1	rgbCoordinateBlue	255
+Turquoise (color)  Turquoise Green  1	rgbCoordinateBlue	214
+Turquoise (color)  Bright Turquoise  1	rgbCoordinateBlue	232
+Turquoise (color)  Medium Turquoise  1	rgbCoordinateBlue	209
+Turquoise (color)  Dark Turquoise  1	rgbCoordinateBlue	206
+Khaki (color)	rgbCoordinateBlue	183
+Khaki (color)  Khaki  1	rgbCoordinateBlue	176
+Khaki (color)  Light Khaki  1	rgbCoordinateBlue	230
+Cerise (color)	rgbCoordinateBlue	49
+Cerise (color)  Cerise Pink  1	rgbCoordinateBlue	59
+Cerise (color)  Vivid Cerise  1	rgbCoordinateBlue	29
+Cerise (color)  Amaranth Cerise  1	rgbCoordinateBlue	38
+Cerise (color)  Deep Cerise  1	rgbCoordinateBlue	50
+Cerise (color)  Hollywood Cerise  1	rgbCoordinateBlue	0
+Lilac (color)	rgbCoordinateBlue	162
+Lilac (color)  white  1	rgbCoordinateBlue	102
+Lilac (color)  white  2	rgbCoordinateBlue	85
+Lilac (color)  white  3	rgbCoordinateBlue	96
+Cream (colour)	rgbCoordinateBlue	253
+Maroon (color)	rgbCoordinateBlue	0
+Maroon (color)  white  1	rgbCoordinateBlue	33
+Maroon (color)  white  2	rgbCoordinateBlue	48
+Maroon (color)  Dark Red  1	rgbCoordinateBlue	0
+Verdigris	rgbCoordinateBlue	179
+Chartreuse (color)	rgbCoordinateBlue	255
+Chartreuse (color)  Chartreuse yellow   1	rgbCoordinateBlue	255
+Chartreuse (color)  Pear   1	rgbCoordinateBlue	226
+Chartreuse (color)  Green-Yellow   1	rgbCoordinateBlue	255
+Chartreuse (color)  Lawn Green   1	rgbCoordinateBlue	252
+Chartreuse (color)  Pistachio   1	rgbCoordinateBlue	197
+Chartreuse (color)  Yellow-Green   1	rgbCoordinateBlue	205
+Chartreuse (color)  Apple Green   1	rgbCoordinateBlue	182
+Chartreuse (color)  Olive  1	rgbCoordinateBlue	128
+Chartreuse (color)  Olive Drab  1	rgbCoordinateBlue	142
+Chartreuse (color)  Camouflage green  1	rgbCoordinateBlue	134
+Chartreuse (color)  Dark Olive Green  1	rgbCoordinateBlue	107
+Lime (color)	rgbCoordinateBlue	255
+Lime (color)  Lime HTML/CSS ; Green X11   1	rgbCoordinateBlue	255
+Lime (color)  white   1	rgbCoordinateBlue	205
+Lime (color)  Electric Lime   1	rgbCoordinateBlue	255
+Red-violet	rgbCoordinateBlue	21
+Red-violet  white  1	rgbCoordinateBlue	21
+Red-violet  white  2	rgbCoordinateBlue	0
+Red-violet  white  3	rgbCoordinateBlue	0
+Red-violet  white  4	rgbCoordinateBlue	51
+Red-violet  white  5	rgbCoordinateBlue	112
+Red-violet  white  6	rgbCoordinateBlue	11
+Red-violet  Eggplant  1	rgbCoordinateBlue	64
+School bus yellow	rgbCoordinateBlue	216
+Safety orange	rgbCoordinateBlue	102
+Cosmic latte	rgbCoordinateBlue	248
+Naples yellow	rgbCoordinateBlue	218
+Gamboge	rgbCoordinateBlue	155
+Indian yellow  Indian Yellow  1	rgbCoordinateBlue	168
+International Klein Blue	rgbCoordinateBlue	47
+Aquamarine (color)	rgbCoordinateBlue	255
+Aquamarine (color)  Medium Aquamarine  1	rgbCoordinateBlue	205
+Seal brown	rgbCoordinateBlue	20
+Carmine (color)	rgbCoordinateBlue	0
+Carmine (color)  Medium Carmine  1	rgbCoordinateBlue	64
+Carmine (color)  Deep Carmine  1	rgbCoordinateBlue	32
+Carmine (color)  Rich Carmine  1	rgbCoordinateBlue	0
+Carmine (color)  Carmine Red  1	rgbCoordinateBlue	0
+Carmine (color)  Deep Carmine Pink  1	rgbCoordinateBlue	48
+Carmine (color)  Carmine Pink  1	rgbCoordinateBlue	76
+Carmine (color)  Light Carmine Pink  1	rgbCoordinateBlue	103
+Baby blue	rgbCoordinateBlue	207
+Baby blue  Beau blue   1	rgbCoordinateBlue	212
+Baby blue  eyes   1	rgbCoordinateBlue	202
+Chrome yellow	rgbCoordinateBlue	167
+Champagne (color)	rgbCoordinateBlue	231
+Champagne (color)  black  1	rgbCoordinateBlue	229
+Champagne (color)  black  2	rgbCoordinateBlue	214
+Champagne (color)  black  3	rgbCoordinateBlue	178
+Old gold	rgbCoordinateBlue	181
+Burgundy (color)	rgbCoordinateBlue	0
+Burgundy (color)  Vivid Burgundy  1	rgbCoordinateBlue	29
+Denim (color)	rgbCoordinateBlue	96
+Wisteria (color)	rgbCoordinateBlue	160
+Tangerine (color)	rgbCoordinateBlue	133
+Eggplant (color)	rgbCoordinateBlue	64
+Wheat (color)	rgbCoordinateBlue	222
+Goldenrod (color)	rgbCoordinateBlue	165
+Goldenrod (color)  Light Goldenrod Yellow  1	rgbCoordinateBlue	250
+Goldenrod (color)  Pale Goldenrod  1	rgbCoordinateBlue	232
+Goldenrod (color)  Dark goldenrod  1	rgbCoordinateBlue	134
+Lemon chiffon	rgbCoordinateBlue	250
+Seashell (color)	rgbCoordinateBlue	245
+Pink-orange	rgbCoordinateBlue	153
+Robin egg blue	rgbCoordinateBlue	204
+Robin egg blue  Pale robin egg blue  1	rgbCoordinateBlue	222
+Midnight blue	rgbCoordinateBlue	25
+Midnight blue  Dark Midnight Blue  1	rgbCoordinateBlue	51
+Spring green	rgbCoordinateBlue	255
+Spring green  Mint Cream  1	rgbCoordinateBlue	255
+Spring green  Honeydew  1	rgbCoordinateBlue	255
+Spring green  Aquamarine  1	rgbCoordinateBlue	255
+Spring green  Celadon  1	rgbCoordinateBlue	225
+Spring green  Moss green  1	rgbCoordinateBlue	223
+Spring green  Magic Mint  1	rgbCoordinateBlue	240
+Spring green  Mint Green  1	rgbCoordinateBlue	255
+Spring green  Medium Spring Green  1	rgbCoordinateBlue	250
+Spring green  Caribbean Green  1	rgbCoordinateBlue	204
+Spring green  Mint  1	rgbCoordinateBlue	180
+Spring green  Persian Green  1	rgbCoordinateBlue	166
+Spring green  Medium Sea Green  1	rgbCoordinateBlue	179
+Spring green  Sea Green  1	rgbCoordinateBlue	139
+Spring green  Pine Green  1	rgbCoordinateBlue	121
+Spring green  Skobeloff  1	rgbCoordinateBlue	122
+Spring green  Viridian  1	rgbCoordinateBlue	130
+Spring green  Dark Spring Green  1	rgbCoordinateBlue	114
+Chocolate (color)	rgbCoordinateBlue	63
+Chocolate (color)  black  1	rgbCoordinateBlue	105
+Sandy brown	rgbCoordinateBlue	164
+Lavender blush	rgbCoordinateBlue	240
+Cornflower blue	rgbCoordinateBlue	149
+Cornflower blue  Light Cornflower Blue  1	rgbCoordinateBlue	206
+Steel blue	rgbCoordinateBlue	130
+Chestnut (color)	rgbCoordinateBlue	69
+Chestnut (color)  Deep Chestnut   1	rgbCoordinateBlue	78
+Chestnut (color)  Dark Chestnut   1	rgbCoordinateBlue	105
+Slate gray  Dark slate gray  1	rgbCoordinateBlue	79
+Salmon pink	rgbCoordinateBlue	153
+Salmon pink  Salmon pink  1	rgbCoordinateBlue	145
+Thistle (color)	rgbCoordinateBlue	191
+Mordant red 19  Mordant red 19  1	rgbCoordinateBlue	12
+Royal blue	rgbCoordinateBlue	35
+Royal blue  web color   1	rgbCoordinateBlue	105
+Buff (colour)	rgbCoordinateBlue	220
+Flax (color)	rgbCoordinateBlue	220
+Mustard (color)	rgbCoordinateBlue	219
+Carnation pink	rgbCoordinateBlue	166
+Carnation pink  Nadeshiko Pink  1	rgbCoordinateBlue	173
+Pumpkin (color)	rgbCoordinateBlue	117
+Payne's grey	rgbCoordinateBlue	64
+Burnt umber	rgbCoordinateBlue	51
+Navajo white	rgbCoordinateBlue	222
+Columbia blue	rgbCoordinateBlue	178
+Auburn hair	rgbCoordinateBlue	19
+Taupe	rgbCoordinateBlue	60
+Taupe  white  1	rgbCoordinateBlue	64
+Taupe  white  2	rgbCoordinateBlue	76
+Taupe  white  3	rgbCoordinateBlue	95
+Taupe  white  4	rgbCoordinateBlue	93
+Taupe  white  5	rgbCoordinateBlue	19
+Taupe  Light Taupe  1	rgbCoordinateBlue	139
+Taupe  Pale Taupe  1	rgbCoordinateBlue	152
+Taupe  white  6	rgbCoordinateBlue	133
+Non-photo blue	rgbCoordinateBlue	221
+Ao (color)	rgbCoordinateBlue	0
+Ao (color)  Ao English   1	rgbCoordinateBlue	128
+Fire engine red	rgbCoordinateBlue	22
+Tomato (color)	rgbCoordinateBlue	11
+Raspberry (color)	rgbCoordinateBlue	11
+Raspberry (color)  black  1	rgbCoordinateBlue	80
+Raspberry (color)  white  1	rgbCoordinateBlue	68
+Raspberry (color)  white  2	rgbCoordinateBlue	95
+Rose (color)	rgbCoordinateBlue	0
+Rose (color)  white   1	rgbCoordinateBlue	0
+Rose (color)  black   1	rgbCoordinateBlue	228
+Rose (color)  black   2	rgbCoordinateBlue	194
+Rose (color)  black   3	rgbCoordinateBlue	137
+Rose (color)  black   4	rgbCoordinateBlue	127
+Rose (color)  black   5	rgbCoordinateBlue	102
+Rose (color)  black   6	rgbCoordinateBlue	66
+Rose (color)  black   7	rgbCoordinateBlue	83
+Rose (color)  black   8	rgbCoordinateBlue	111
+Rose (color)  black   9	rgbCoordinateBlue	96
+Rose (color)  black   10	rgbCoordinateBlue	74
+Rose (color)  white   2	rgbCoordinateBlue	37
+Rose (color)  black   11	rgbCoordinateBlue	40
+Rose (color)  black   12	rgbCoordinateBlue	51
+Rose (color)  white   3	rgbCoordinateBlue	24
+Rose (color)  white  1	rgbCoordinateBlue	68
+Rose (color)  black   13	rgbCoordinateBlue	152
+Rose (color)  black   14	rgbCoordinateBlue	143
+Rose (color)  white   4	rgbCoordinateBlue	128
+Rose (color)  white   5	rgbCoordinateBlue	102
+Rose (color)  white  2	rgbCoordinateBlue	78
+Rose (color)  Cordovan  1	rgbCoordinateBlue	63
+Rose (color)  white   6	rgbCoordinateBlue	93
+Rose (color)  white   7	rgbCoordinateBlue	76
+Rose (color)  white   8	rgbCoordinateBlue	0
+Aqua (color)	rgbCoordinateBlue	255
+Aqua (color)  Pale Aqua   1	rgbCoordinateBlue	212
+Flavescent	rgbCoordinateBlue	233
+Paris Green  Paris Green  1	rgbCoordinateBlue	200
+Sapphire (color)	rgbCoordinateBlue	37
+Magnolia (color)	rgbCoordinateBlue	244
+Iris (color)	rgbCoordinateBlue	79
+Selective yellow	rgbCoordinateBlue	186
+New Hampshire Wildcats	rgbCoordinateBlue	51
+Saffron (color)	rgbCoordinateBlue	196
+Saffron (color)  Deep saffron  1	rgbCoordinateBlue	153
+Davy's grey	rgbCoordinateBlue	85
+Sinopia	rgbCoordinateBlue	65
+Phthalocyanine Green G	rgbCoordinateBlue	53
+Hansa yellow	rgbCoordinateBlue	214
+Urobilin    1	rgbCoordinateBlue	173
+Sangria (color)	rgbCoordinateBlue	0
+Rust (color)	rgbCoordinateBlue	65
+Russet (color)	rgbCoordinateBlue	70
+Heliotrope (color)	rgbCoordinateBlue	115
+Anti-flash white	rgbCoordinateBlue	243
+Ceil	rgbCoordinateBlue	161
+Rosso corsa	rgbCoordinateBlue	0
+Tiffany Blue	rgbCoordinateBlue	186
+Coquelicot	rgbCoordinateBlue	56
+Palatinate (colour)	rgbCoordinateBlue	59
+Palatinate (colour)  Palatinate Purple  1	rgbCoordinateBlue	40
+Egyptian blue	rgbCoordinateBlue	52
+Han purple and Han blue	rgbCoordinateBlue	24
+Han purple and Han blue  Han blue  1	rgbCoordinateBlue	108
+Ecru	rgbCoordinateBlue	178
+International orange	rgbCoordinateBlue	87
+Maize (color)	rgbCoordinateBlue	236
+Eggshell (color)	rgbCoordinateBlue	234
+Ivory (color)	rgbCoordinateBlue	255
+Zaffre	rgbCoordinateBlue	20
+Aureolin	rgbCoordinateBlue	238
+Rose madder	rgbCoordinateBlue	38
+Apricot (color)	rgbCoordinateBlue	206
+Apricot (color)  Light apricot  1	rgbCoordinateBlue	213
+Arylide yellow	rgbCoordinateBlue	214
+Fallow (color)	rgbCoordinateBlue	154
+Charcoal (color)	rgbCoordinateBlue	69
+Arsenic (color)	rgbCoordinateBlue	68
+Variations of orange	rgbCoordinateBlue	127
+Variations of orange  Papaya Whip  1	rgbCoordinateBlue	239
+Variations of orange  Peach  1	rgbCoordinateBlue	229
+Variations of orange  Apricot  1	rgbCoordinateBlue	206
+Variations of orange  Atomic tangerine  1	rgbCoordinateBlue	153
+Variations of orange  Bittersweet  1	rgbCoordinateBlue	111
+Variations of orange  black  1	rgbCoordinateBlue	131
+Variations of orange  peel  1	rgbCoordinateBlue	159
+Variations of orange  web color   1	rgbCoordinateBlue	165
+Variations of orange  color wheel   1	rgbCoordinateBlue	127
+Variations of orange  Dark orange  1	rgbCoordinateBlue	140
+Variations of orange  Princeton Orange  1	rgbCoordinateBlue	143
+Variations of orange  Tangerine  1	rgbCoordinateBlue	133
+Variations of orange  Pumpkin  1	rgbCoordinateBlue	117
+Variations of orange  Tangelo  1	rgbCoordinateBlue	77
+Variations of orange  Carrot orange  1	rgbCoordinateBlue	145
+Variations of orange  Deep carrot orange  1	rgbCoordinateBlue	105
+Variations of orange  Burnt orange  1	rgbCoordinateBlue	85
+Variations of orange  white  1	rgbCoordinateBlue	75
+Bole (color)	rgbCoordinateBlue	68
+Yale Blue	rgbCoordinateBlue	77
+Fawn (colour)	rgbCoordinateBlue	170
+Persimmon (color)	rgbCoordinateBlue	88
+Titanium yellow	rgbCoordinateBlue	230
+Maya Blue	rgbCoordinateBlue	194
+Chamoisee	rgbCoordinateBlue	120
+Spring bud	rgbCoordinateBlue	252
+Spring bud  June bud  1	rgbCoordinateBlue	218
+Spring bud  Medium spring bud  1	rgbCoordinateBlue	220
+Spring bud  Pale spring bud  1	rgbCoordinateBlue	235
+Jungle green	rgbCoordinateBlue	171
+Jungle green  Tropical rain forest  1	rgbCoordinateBlue	117
+Jungle green  Deep Jungle Green  1	rgbCoordinateBlue	75
+Jungle green  Medium Jungle Green  1	rgbCoordinateBlue	53
+Jungle green  Dark Jungle Green  1	rgbCoordinateBlue	36
+Air Force blue	rgbCoordinateBlue	138
+Electric blue (color)	rgbCoordinateBlue	249
+Carolina blue	rgbCoordinateBlue	186
+Glaucous	rgbCoordinateBlue	130
+Federal blue	rgbCoordinateBlue	22
+Eton blue	rgbCoordinateBlue	200
+Cambridge Blue (colour)	rgbCoordinateBlue	193
+Flame (color)	rgbCoordinateBlue	88
+Electric green	rgbCoordinateBlue	255
+Green in Islam	rgbCoordinateBlue	153
+Wenge (colour)	rgbCoordinateBlue	84
+Trade and use of saffron	rgbCoordinateBlue	196
+Variations of green	rgbCoordinateBlue	255
+Variations of green  Asparagus  1	rgbCoordinateBlue	169
+Variations of green  Fern green  1	rgbCoordinateBlue	121
+Variations of green  Forest green web   1	rgbCoordinateBlue	139
+Variations of green  Forest green traditional   1	rgbCoordinateBlue	68
+Variations of green  Gray-asparagus  1	rgbCoordinateBlue	89
+Variations of green  Hooker's Green  1	rgbCoordinateBlue	112
+Variations of green  Jungle green  1	rgbCoordinateBlue	171
+Variations of green  Laurel green  1	rgbCoordinateBlue	186
+Variations of green  Moss green   1	rgbCoordinateBlue	200
+Variations of green  Myrtle  1	rgbCoordinateBlue	66
+Variations of green  Pine green  1	rgbCoordinateBlue	121
+Variations of green  white   1	rgbCoordinateBlue	125
+Variations of green  Shamrock green  1	rgbCoordinateBlue	158
+Variations of green  Tea green  1	rgbCoordinateBlue	240
+Variations of green  white   2	rgbCoordinateBlue	128
+Variations of green  Pale Green   1	rgbCoordinateBlue	251
+Variations of green  Light Green   1	rgbCoordinateBlue	238
+Variations of green  Dark Green  1	rgbCoordinateBlue	100
+Variations of green  X11 Lime HTML/CSS   1	rgbCoordinateBlue	255
+Variations of green  HTML/CSS color   1	rgbCoordinateBlue	128
+Variations of green  CMYK Pigment Green   1	rgbCoordinateBlue	165
+Variations of green  NCS   1	rgbCoordinateBlue	159
+Variations of green  Munsell   1	rgbCoordinateBlue	168
+Variations of green  Army green  1	rgbCoordinateBlue	83
+Variations of green  Bottle green  1	rgbCoordinateBlue	70
+Variations of green  Bright green   1	rgbCoordinateBlue	255
+Variations of green  #ffffff   1	rgbCoordinateBlue	77
+Variations of green  Celadon   1	rgbCoordinateBlue	225
+Variations of green  white   3	rgbCoordinateBlue	112
+Variations of green  Emerald   1	rgbCoordinateBlue	200
+Variations of green  white   4	rgbCoordinateBlue	93
+Variations of green  -yellow   1	rgbCoordinateBlue	255
+Variations of green  Harlequin  1	rgbCoordinateBlue	255
+Variations of green  Hunter green   1	rgbCoordinateBlue	94
+Variations of green  India green   1	rgbCoordinateBlue	136
+Variations of green  Islamic green   1	rgbCoordinateBlue	153
+Variations of green  Jade  1	rgbCoordinateBlue	168
+Variations of green  white   5	rgbCoordinateBlue	187
+Variations of green  Midnight green  1	rgbCoordinateBlue	73
+Variations of green  MSU Green  1	rgbCoordinateBlue	69
+Variations of green  eon green  1	rgbCoordinateBlue	255
+Variations of green  HTML/CSS color   2	rgbCoordinateBlue	128
+Variations of green  Pakistan green   1	rgbCoordinateBlue	102
+Variations of green  Persian green  1	rgbCoordinateBlue	166
+Variations of green  white   6	rgbCoordinateBlue	72
+Variations of green  white   7	rgbCoordinateBlue	86
+Variations of green  Sea green  1	rgbCoordinateBlue	139
+Variations of green  white   8	rgbCoordinateBlue	68
+Lava (color)	rgbCoordinateBlue	16
+Lava (color)  Dark Lava  1	rgbCoordinateBlue	60
+Ruby (color)	rgbCoordinateBlue	17
+Variations of red	rgbCoordinateBlue	0
+Variations of red  Pink  1	rgbCoordinateBlue	192
+Variations of red  Salmon Pink  1	rgbCoordinateBlue	145
+Variations of red  Coral Pink  1	rgbCoordinateBlue	131
+Variations of red  Salmon   1	rgbCoordinateBlue	128
+Variations of red  Coral Red  1	rgbCoordinateBlue	64
+Variations of red  Carmine Red  1	rgbCoordinateBlue	0
+Variations of red  Scarlet  1	rgbCoordinateBlue	32
+Variations of red  Candy Apple Red  1	rgbCoordinateBlue	8
+Variations of red  white  1	rgbCoordinateBlue	0
+Variations of red  Pigment Red   1	rgbCoordinateBlue	28
+Variations of red  NCS   1	rgbCoordinateBlue	2
+Variations of red  Munsell   1	rgbCoordinateBlue	0
+Variations of red  Lust  1	rgbCoordinateBlue	32
+Variations of red  Ruby  1	rgbCoordinateBlue	17
+Variations of red  Crimson  1	rgbCoordinateBlue	20
+Variations of red  Fire Engine Red   1	rgbCoordinateBlue	22
+Variations of red  white  2	rgbCoordinateBlue	30
+Variations of red  Cornell Red  1	rgbCoordinateBlue	27
+Variations of red  Fire Brick  1	rgbCoordinateBlue	34
+Variations of red  OU Crimson Red  1	rgbCoordinateBlue	0
+Variations of red  ark Red  1	rgbCoordinateBlue	0
+Variations of red  Maroon  1	rgbCoordinateBlue	0
+Candy apple red (color)	rgbCoordinateBlue	8
+Candy apple red (color)  Candy Pink  1	rgbCoordinateBlue	113
+Candy apple red (color)  Medium Candy Apple Red  1	rgbCoordinateBlue	6
+Candy apple red (color)  Dark Candy Apple Red  1	rgbCoordinateBlue	0
+Cordovan (color)	rgbCoordinateBlue	63
+Fulvous	rgbCoordinateBlue	132
+Cinereous	rgbCoordinateBlue	129
+Wine (color)	rgbCoordinateBlue	47
+Brandeis blue	rgbCoordinateBlue	112
+Cool grey	rgbCoordinateBlue	146
+White	rgbCoordinateBlue	255
+Duke blue	rgbCoordinateBlue	0
+Mikado yellow	rgbCoordinateBlue	196
+Lincoln green	rgbCoordinateBlue	89
+Old lace (color)	rgbCoordinateBlue	245
+Carnelian (color)	rgbCoordinateBlue	27
+Majorelle Blue	rgbCoordinateBlue	80
+Variations of pink  Pink  1	rgbCoordinateBlue	192
+Variations of pink  Light pink  1	rgbCoordinateBlue	182
+Variations of pink  Hot pink  1	rgbCoordinateBlue	105
+Variations of pink  Deep pink  1	rgbCoordinateBlue	20
+Variations of pink  Pale pink  1	rgbCoordinateBlue	204
+Variations of pink  Baby pink  1	rgbCoordinateBlue	194
+Variations of pink  Cherry blossom pink   1	rgbCoordinateBlue	183
+Variations of pink  Carnation pink   1	rgbCoordinateBlue	166
+Variations of pink  Pastel pink  1	rgbCoordinateBlue	165
+Variations of pink  black   1	rgbCoordinateBlue	96
+Variations of pink  Dark pink  1	rgbCoordinateBlue	84
+Variations of pink  Bright pink  1	rgbCoordinateBlue	0
+Variations of pink  black   2	rgbCoordinateBlue	111
+Variations of pink  Shocking pink  1	rgbCoordinateBlue	15
+Persian orange	rgbCoordinateBlue	144
+Portland Orange	rgbCoordinateBlue	90
+Bronze (color)	rgbCoordinateBlue	127
+Variations of magenta	rgbCoordinateBlue	31
+Variations of magenta  black  1	rgbCoordinateBlue	0
+Variations of magenta  black  2	rgbCoordinateBlue	0
+Variations of magenta  black  3	rgbCoordinateBlue	132
+Variations of magenta  black  4	rgbCoordinateBlue	119
+Variations of magenta  black  5	rgbCoordinateBlue	111
+Variations of magenta  Shocking Pink  1	rgbCoordinateBlue	15
+Variations of magenta  black  6	rgbCoordinateBlue	29
+Variations of magenta  black  7	rgbCoordinateBlue	78
+Variations of magenta  black  8	rgbCoordinateBlue	113
+Variations of magenta  white  1	rgbCoordinateBlue	0
+Variations of magenta  white  2	rgbCoordinateBlue	0
+Rufous	rgbCoordinateBlue	28
+Plum (color)	rgbCoordinateBlue	69
+Plum (color)  Pale Plum   1	rgbCoordinateBlue	160
+Tuscan red	rgbCoordinateBlue	66
+Desert sand (color)	rgbCoordinateBlue	201
+Desert sand (color)  Sandy Brown  1	rgbCoordinateBlue	164
+Desert sand (color)  Earth Yellow  1	rgbCoordinateBlue	169
+Desert sand (color)  Sand  1	rgbCoordinateBlue	178
+Desert sand (color)  Desert  1	rgbCoordinateBlue	154
+Desert sand (color)  Sand Dune  1	rgbCoordinateBlue	113
+Desert sand (color)  Field Drab  1	rgbCoordinateBlue	84
+Camel (color)	rgbCoordinateBlue	154
+Byzantium (color)	rgbCoordinateBlue	41
+Byzantium (color)  white  1	rgbCoordinateBlue	51
+Byzantium (color)  white  2	rgbCoordinateBlue	57
+Midnight green	rgbCoordinateBlue	73
+Upsdell red	rgbCoordinateBlue	22
+Icterine	rgbCoordinateBlue	247
+Straw (colour)	rgbCoordinateBlue	217
+Citrine (colour)	rgbCoordinateBlue	208
+Deep sky blue	rgbCoordinateBlue	191
+Ghost white	rgbCoordinateBlue	248
+Platinum (color)	rgbCoordinateBlue	228
+Iceberg (color)	rgbCoordinateBlue	166
+Sunset (color)	rgbCoordinateBlue	214
+Pearl (color)	rgbCoordinateBlue	234
+Isabelline (colour)	rgbCoordinateBlue	240
+Variations of yellow	rgbCoordinateBlue	255
+Variations of yellow  Light Yellow  1	rgbCoordinateBlue	255
+Variations of yellow  Lemon Chiffon  1	rgbCoordinateBlue	250
+Variations of yellow  Yellow  1	rgbCoordinateBlue	255
+Variations of yellow  black  1	rgbCoordinateBlue	239
+Variations of yellow  NCS   1	rgbCoordinateBlue	211
+Variations of yellow  Munsell   1	rgbCoordinateBlue	204
+Variations of yellow  Lemon Yellow  1	rgbCoordinateBlue	247
+Variations of yellow  Gold Golden   1	rgbCoordinateBlue	215
+Variations of yellow  Khaki  1	rgbCoordinateBlue	176
+Variations of yellow  Goldenrod  1	rgbCoordinateBlue	165
+Variations of yellow  Olive  1	rgbCoordinateBlue	128
+Tawny (color)	rgbCoordinateBlue	87
+Redwood (color)	rgbCoordinateBlue	78
+Alizarin crimson (color)	rgbCoordinateBlue	38
+Bleu de France (colour)	rgbCoordinateBlue	140
+Stil de grain yellow	rgbCoordinateBlue	218
+Cadet grey	rgbCoordinateBlue	163
+Cadet grey  Cadet Blue  1	rgbCoordinateBlue	158
+Cadet grey  Cadet  1	rgbCoordinateBlue	104
+Tufts Blue	rgbCoordinateBlue	145
+UCLA Blue	rgbCoordinateBlue	104
+Vanilla (color)	rgbCoordinateBlue	229
+Variations of blue	rgbCoordinateBlue	0
+Variations of blue  Powder Blue   1	rgbCoordinateBlue	224
+Variations of blue  Light Blue  1	rgbCoordinateBlue	216
+Variations of blue  Baby blue   1	rgbCoordinateBlue	207
+Variations of blue    1	rgbCoordinateBlue	0
+Variations of blue  CMYK Pigment Blue   1	rgbCoordinateBlue	51
+Variations of blue  NCS   1	rgbCoordinateBlue	135
+Variations of blue  Munsell   1	rgbCoordinateBlue	147
+Variations of blue  Medium blue  1	rgbCoordinateBlue	0
+Variations of blue  Dark Blue  1	rgbCoordinateBlue	0
+Variations of blue  Navy Blue   1	rgbCoordinateBlue	0
+True Blue (color)	rgbCoordinateBlue	115
+Regalia (color)	rgbCoordinateBlue	45
+Jasmine (color)	rgbCoordinateBlue	222
+Alice blue	rgbCoordinateBlue	248
+CG Red	rgbCoordinateBlue	60
+CG Blue	rgbCoordinateBlue	122
+Variations of gray	rgbCoordinateBlue	128
+Variations of gray  Ash gray  1	rgbCoordinateBlue	190
+Variations of gray  Battleship Gray  1	rgbCoordinateBlue	132
+Variations of gray  Timberwolf  1	rgbCoordinateBlue	215
+Variations of gray  Dark Timberwolf  1	rgbCoordinateBlue	168
+Variations of gray  Light Timberwolf  1	rgbCoordinateBlue	232

@@ -1,0 +1,826 @@
+Alps	highestPlace	Mont Blanc
+Andes	highestPlace	Aconcagua
+Andes	highestPlace	Las Heras Department
+Andes	highestPlace	Mendoza Province
+Andes	highestPlace	Argentina
+Aarau	highestPlace	Hungerberg
+Azores	highestPlace	Mount Pico
+Black Forest	highestPlace	Feldberg, Baden-Württemberg
+Ceuta	highestPlace	Monte Anyera
+Ceuta	highestPlace	Monte Anyera
+Dartmoor	highestPlace	High Willhays
+Kalahari Desert	highestPlace	Brandberg Mountain
+Lausanne	highestPlace	Jorat
+Madeira	highestPlace	Pico Ruivo
+Madeira    1	highestPlace	Pico Ruivo
+Madeira    1	highestPlace	Pico Ruivo
+Pyrenees	highestPlace	Aneto
+Rocky Mountains	highestPlace	Mount Elbert
+Sudetes	highestPlace	Sněžka
+Snowy Mountains	highestPlace	Mount Kosciuszko
+Upper Peninsula of Michigan	highestPlace	Mount Arvon
+Ural Mountains	highestPlace	Mount Narodnaya
+Zurich	highestPlace	Üetliberg
+Snowdonia	highestPlace	Snowdon
+Himalayas	highestPlace	Mount Everest
+San Juan Mountains	highestPlace	Uncompahgre Peak
+Hindu Kush	highestPlace	Tirich Mir
+Carpathian Mountains	highestPlace	Gerlachovský štít
+Bern	highestPlace	Gurten (mountain)
+Sierra Nevada (U.S.)	highestPlace	Mount Whitney
+Rensselaer County, New York	highestPlace	Berlin Mountain
+Rensselaer County, New York	highestPlace	Massachusetts
+Adirondack Mountains	highestPlace	Mount Marcy
+Great Dividing Range	highestPlace	Mount Kosciuszko
+Peak District	highestPlace	Kinder Scout
+Albula Alps	highestPlace	Piz Kesch
+Lepontine Alps	highestPlace	Monte Leone
+Dauphiné Alps	highestPlace	Barre des Écrins
+Dolomites	highestPlace	Marmolada
+Cottian Alps	highestPlace	Monte Viso
+Pennine Alps	highestPlace	Monte Rosa
+Bernese Alps	highestPlace	Finsteraarhorn
+Maritime Alps	highestPlace	Monte Argentera
+Glarus Alps	highestPlace	Tödi
+Graian Alps	highestPlace	Mont Blanc
+Cascade Range	highestPlace	Mount Rainier
+Appalachian Mountains	highestPlace	Mount Mitchell
+Brecon Beacons	highestPlace	Pen y Fan
+Cornwall, New York	highestPlace	Schunemunk Mountain
+Medina, New York	highestPlace	New York State Route 31
+Denning, New York	highestPlace	Table Mountain (New York)
+North York Moors	highestPlace	Urra Moor
+Scandinavian Mountains	highestPlace	Galdhøpiggen
+Scandinavian Mountains	highestPlace	Lom, Norway
+Harz	highestPlace	Brocken
+Gennargentu	highestPlace	Punta La Marmora
+Wayne National Forest	highestPlace	Antioch, Ohio
+Wayne National Forest	highestPlace	Ohio
+South Bohemian Region	highestPlace	Plechý
+White Mountains (New Hampshire)	highestPlace	Mount Washington (New Hampshire)
+Coast Mountains	highestPlace	Mount Waddington
+Jura Mountains	highestPlace	Crêt de la Neige
+Ore Mountains	highestPlace	Klínovec
+Arabian Desert	highestPlace	Mount Al-Nabī Shuʿayb
+Apennine Mountains	highestPlace	Corno Grande
+Santa Cruz Mountains	highestPlace	Loma Prieta
+Tian Shan	highestPlace	Jengish Chokusu
+Olympic Mountains	highestPlace	Mount Olympus (Washington)
+Karakoram	highestPlace	K2
+Brooks Range	highestPlace	Mount Chamberlin (Alaska)
+Algarve	highestPlace	Fóia (mountain)
+Great Basin	highestPlace	Mount Whitney
+Great Basin	highestPlace	Sierra Nevada (U.S.)
+Caucasus Mountains	highestPlace	Mount Elbrus
+Yorkshire Dales	highestPlace	Whernside
+Julian Alps	highestPlace	Triglav
+Alaska Range	highestPlace	Mount McKinley
+Aleutian Range	highestPlace	Mount Redoubt
+Chugach Mountains	highestPlace	Mount Marcus Baker
+Montgomery (town), New York	highestPlace	United States Geological Survey
+Weiach	highestPlace	Haggenberg
+Exmoor	highestPlace	Dunkery Beacon
+Mendip Hills	highestPlace	Beacon Batch
+Pico Island	highestPlace	Mount Pico
+Big Bend National Park	highestPlace	Emory Peak
+Big Bend National Park	highestPlace	Chisos Mountains
+Rhodope Mountains	highestPlace	Golyam Perelik
+Absaroka Range	highestPlace	Francs Peak
+Rätikon	highestPlace	Schesaplana
+Silvretta Alps	highestPlace	Piz Linard
+Texas Panhandle	highestPlace	Dallam County, Texas
+Sahara	highestPlace	Emi Koussi
+Presidential Range	highestPlace	Mount Washington (New Hampshire)
+White Mountains (California)	highestPlace	White Mountain Peak
+White Mountains (Arizona)	highestPlace	Mount Baldy (Arizona)
+Great Barrington, Massachusetts	highestPlace	Monument Mountain (Berkshire County, Massachusetts)
+St. Francois Mountains	highestPlace	Taum Sauk Mountain
+Wasatch Range	highestPlace	Mount Nebo (Utah)
+Forest of Bowland	highestPlace	Ward's Stone
+Canadian Rockies	highestPlace	Mount Robson
+Balkan Mountains	highestPlace	Botev Peak
+Berlengas	highestPlace	Berlenga Grande Island
+Picos de Europa	highestPlace	Torre de Cerredo
+Mule Mountains	highestPlace	Mount Ballard
+Rhön Mountains	highestPlace	Wasserkuppe
+Massif Central	highestPlace	Puy de Sancy
+Santa Monica Mountains	highestPlace	Sandstone Peak
+Corvo Island	highestPlace	Morro dos Homens
+São Miguel Island	highestPlace	Pico da Vara
+San Gabriel Mountains	highestPlace	Mount San Antonio
+Kandersteg	highestPlace	Balmhorn
+Cévennes	highestPlace	Mont Lozère
+The Berkshires	highestPlace	Crum Hill
+Laurentian Mountains	highestPlace	Mount Raoul Blanchard
+Maya Mountains	highestPlace	Doyle's Delight
+Blue Ridge Mountains	highestPlace	Mount Mitchell
+Front Range	highestPlace	Grays Peak
+Wrangell Mountains	highestPlace	Mount Blackburn
+Dandenong Ranges	highestPlace	Mount Dandenong, Victoria
+Catskill Mountains	highestPlace	Slide Mountain (Ulster County, New York)
+Santa Susana Mountains	highestPlace	Oat Mountain (California)
+North Cascades	highestPlace	Mount Baker
+Big Horn Mountains	highestPlace	Cloud Peak
+Capital District	highestPlace	Hunter Mountain (New York)
+Capital District	highestPlace	Catskill Mountains
+Capital District	highestPlace	Greene County, New York
+Kamnik–Savinja Alps	highestPlace	Grintovec
+Cordillera de Mahuidanchi	highestPlace	Cerro Oncol
+Akaishi Mountains	highestPlace	Mount Kita
+Akaishi Mountains	highestPlace	Minami-Alps, Yamanashi
+Hida Mountains	highestPlace	Mount Hotaka#Peaks
+Kiso Mountains	highestPlace	Mount Kisokoma
+Winterthur	highestPlace	Hulmen
+Allegheny Mountains	highestPlace	Spruce Knob
+Allegheny Mountains	highestPlace	Pendleton County, West Virginia
+Allegheny Mountains	highestPlace	West Virginia
+Wicklow Mountains	highestPlace	Lugnaquilla
+Wind River Range	highestPlace	Gannett Peak
+Peninsular Ranges	highestPlace	San Jacinto Peak
+Eastern Ghats	highestPlace	Jindhagada Peak
+Adirondack Park	highestPlace	Mount Marcy
+Adirondack Park	highestPlace	Keene, New York
+Ormont-Dessus	highestPlace	Les Diablerets
+Catskill Park	highestPlace	Slide Mountain (Ulster County, New York)
+Catskill Park	highestPlace	Shandaken, New York
+Ahaggar Mountains	highestPlace	Mount Tahat
+South Downs National Park	highestPlace	Blackdown, West Sussex
+Chiriquí Province	highestPlace	Volcán Baru
+Australian Alps	highestPlace	Mount Kosciuszko
+Sir Winston Churchill Range	highestPlace	Mount Columbia (Canada)
+Adelboden	highestPlace	Wildstrubel
+Elbe Sandstone Mountains	highestPlace	Děčínský Sněžník
+Prešov Region	highestPlace	Gerlachovský štít
+Great Smoky Mountains	highestPlace	Clingmans Dome
+Ellsworth Mountains	highestPlace	Vinson Massif
+Saint Elias Mountains	highestPlace	Mount Logan
+United States Range	highestPlace	Mount Eugene
+Cumberland Mountains	highestPlace	Black Mountain (Kentucky)
+Sawatch Range	highestPlace	Mount Elbert
+Terceira Island	highestPlace	Santa Bárbara (volcano)
+Hradec Králové Region	highestPlace	Sněžka
+Olomouc Region	highestPlace	Praděd
+Pardubice Region	highestPlace	Králický Sněžník
+Backbone Mountain	highestPlace	Thomas, West Virginia
+Backbone Mountain	highestPlace	West Virginia
+Backbone Mountain	highestPlace	Tucker County, West Virginia
+Backbone Mountain	highestPlace	West Virginia
+Nipesotsu-Maruyama Volcanic Group	highestPlace	Mount Nipesotsu
+Teton Range	highestPlace	Grand Teton
+Wallowa Mountains	highestPlace	Sacajawea Peak
+Torngat Mountains	highestPlace	Mount Caubvick
+Uinta Mountains	highestPlace	Kings Peak
+Fairholme Range	highestPlace	Mount Girouard
+Ball Range	highestPlace	Mount Ball
+Kananaskis Range	highestPlace	Mount Galatea
+Warner Mountains	highestPlace	Eagle Peak (California)
+Tehachapi Mountains	highestPlace	Double Mountain (California)
+Santa Ana Mountains	highestPlace	Santiago Peak
+San Bernardino Mountains	highestPlace	San Gorgonio Mountain
+San Jacinto Mountains	highestPlace	San Jacinto Peak
+Inyo Mountains	highestPlace	Big Pine, California
+Huron Mountains	highestPlace	Mount Arvon
+Pirin	highestPlace	Vihren
+Kitzbühel Alps	highestPlace	Kreuzjoch (Kitzbühel Alps)
+Satpura Range	highestPlace	Dhupgarh
+Sangre de Cristo Mountains	highestPlace	Alamosa, Colorado
+Sangre de Cristo Mountains	highestPlace	Colorado
+Cordillera Huayhuash	highestPlace	Yerupajá
+Aravalli Range	highestPlace	Guru Shikhar
+Serra da Estrela	highestPlace	Torre (Serra da Estrela)
+Toiyabe Range	highestPlace	Arc Dome
+Ötztal Alps	highestPlace	Wildspitze
+Stubai Alps	highestPlace	Zuckerhütl
+Monongahela National Forest	highestPlace	Spruce Knob
+Monongahela National Forest	highestPlace	Pendleton County, West Virginia
+Monongahela National Forest	highestPlace	West Virginia
+Bridger Mountains (Montana)	highestPlace	Sacagawea Peak (Montana)
+Chiricahua Mountains	highestPlace	Chiricahua Peak
+Bohemian Forest	highestPlace	Großer Arber
+Avra Valley	highestPlace	Roskruge Mountains
+Allegheny Front	highestPlace	Mount Porte Crayon
+Allegheny Front	highestPlace	Randolph County, West Virginia
+Allegheny Front	highestPlace	Pendleton County, West Virginia
+Allegheny Front	highestPlace	West Virginia
+Dolly Sods Wilderness	highestPlace	Allegheny Front
+Dolly Sods Wilderness	highestPlace	Randolph County, West Virginia
+Dolly Sods Wilderness	highestPlace	Tucker County, West Virginia
+Dolly Sods Wilderness	highestPlace	Cabins, West Virginia
+McPherson Range	highestPlace	Mount Barney
+Long Range Mountains	highestPlace	The Cabox
+French Alps	highestPlace	Mont Blanc
+Transantarctic Mountains	highestPlace	Mount Kirkpatrick
+Świętokrzyskie Mountains	highestPlace	Łysica
+Massif des Écrins	highestPlace	Barre des Écrins
+Kikai Caldera	highestPlace	Iōjima, Kagoshima
+British Empire Range	highestPlace	Barbeau Peak
+Garibaldi Volcanic Belt	highestPlace	Silverthrone Caldera
+Dovrefjell	highestPlace	Snøhetta
+De syv søstre	highestPlace	Botnkrona
+Wenatchee Mountains	highestPlace	Mount Stuart
+Chiwaukum Mountains	highestPlace	Big Chiwaukum
+Brugg	highestPlace	Bruggerberg
+Vienna Woods	highestPlace	Schöpfl
+Trenčín Region	highestPlace	Vtáčnik (mountain)
+Arrochar Alps	highestPlace	Beinn Ìme
+Qinling Mountains	highestPlace	Mount Taibai
+Brazilian Highlands	highestPlace	Pico da Bandeira
+Sierra de Gata	highestPlace	Peña Canchera
+Kyffhäuser	highestPlace	Kulpenberg
+Admiralty Mountains	highestPlace	Admiralty Mountains
+Taconic Mountains	highestPlace	Equinox Mountain
+Taconic Mountains	highestPlace	Bennington County, Vermont
+Angra do Heroísmo	highestPlace	Santa Bárbara (Angra do Heroísmo)
+Angra do Heroísmo	highestPlace	Santa Bárbara (Angra do Heroísmo)
+Bitterroot Mountains	highestPlace	Trapper Peak (Montana)
+Bitterroot Mountains  Northern Bitterroot Range   1	highestPlace	Rhodes Peak (Montana)
+Bitterroot Mountains  Central Bitterroot Range   1	highestPlace	Trapper Peak (Montana)
+Sentinel Range	highestPlace	Vinson Massif
+Santa Cruz da Graciosa (Azores)	highestPlace	Praia (Santa Cruz da Graciosa)
+Karwendel	highestPlace	Birkkarspitze
+Guadalupe (Santa Cruz da Graciosa)	highestPlace	Guadalupe (Guadalupe)
+São Mateus (Madalena)	highestPlace	Mount Pico
+Lajes das Flores (Azores)	highestPlace	Lajes das Flores (parish)
+Sierra Madre Occidental	highestPlace	Cerro Mohinora
+Faial Island	highestPlace	Cabeço Gordo
+Royal Society Range	highestPlace	Mount Lister
+Conceição (Horta)	highestPlace	Santo Amaro (Conceição)
+Cedros (Horta)	highestPlace	Cabeço Gordo
+The Poconos	highestPlace	North Knob
+Tibesti Mountains	highestPlace	Emi Koussi
+Northern Limestone Alps	highestPlace	Parseierspitze
+Baetic System	highestPlace	Mulhacén
+Cordillera Blanca	highestPlace	Huascarán
+Owen Stanley Range	highestPlace	Mount Victoria, Papua New Guinea
+Queen Elizabeth Ranges	highestPlace	Mount Unwin
+Carnic Alps	highestPlace	Coglians
+Bare Range	highestPlace	Panther Mountain (Alberta)
+President Range	highestPlace	The President
+Trnava Region	highestPlace	Záruby
+Aurès Mountains	highestPlace	Djebel Chélia
+Aurès Mountains	highestPlace	Algeria
+Altares	highestPlace	Santa Bárbara (volcano)
+Cinco Ribeiras	highestPlace	Santa Bárbara (volcano)
+Doze Ribeiras	highestPlace	Santa Bárbara (volcano)
+Nitra Region	highestPlace	Veľký Inovec
+Raminho	highestPlace	Santa Bárbara (volcano)
+Ribeirinha (Angra do Heroísmo)	highestPlace	Ribeirinha (Angra do Heroísmo)
+Santa Bárbara (Angra do Heroísmo)	highestPlace	Santa Bárbara (volcano)
+São Bartolomeu de Regatos	highestPlace	Santa Bárbara (volcano)
+Flinders Ranges	highestPlace	St Mary Peak
+Serreta (Azores)	highestPlace	Santa Bárbara (volcano)
+San Francisco Peaks	highestPlace	Humphreys Peak
+Hohe Tauern	highestPlace	Grossglockner
+Samnaun Alps	highestPlace	Muttler
+Verwall Alps	highestPlace	Hoher Riffler (Verwall Group)
+Bear River Mountains	highestPlace	Cache County, Utah
+Bear River Mountains	highestPlace	Mount Naomi Wilderness
+Lajes (Praia da Vitória)	highestPlace	Santa Rita (Lajes)
+Quatro Ribeiras	highestPlace	Pico Alto (Terceira)
+Hudson Highlands State Park	highestPlace	Beacon Mountain
+Hudson Highlands State Park	highestPlace	Fishkill (town), New York
+Glyderau	highestPlace	Glyder Fawr
+West Papua (region)	highestPlace	Puncak Jaya
+São Roque, Ponta Delgada	highestPlace	Cruz (mountain)
+Blackdown Hills	highestPlace	Staple Hill (Somerset)
+Santa Catalina Mountains	highestPlace	Mount Lemmon
+Pico da Pedra	highestPlace	Cruz (Pico da Pedra)
+George Washington and Jefferson National Forests	highestPlace	Mount Rogers
+George Washington and Jefferson National Forests	highestPlace	Grayson County, Virginia
+George Washington and Jefferson National Forests	highestPlace	Smyth County, Virginia
+George Washington and Jefferson National Forests	highestPlace	Virginia
+Ruby Mountains	highestPlace	Ruby Dome
+Nordeste (Azores)	highestPlace	Pico da Vara
+Graciosa	highestPlace	Praia (Santa Cruz da Graciosa)
+High Atlas	highestPlace	Toubkal
+Simi Hills	highestPlace	Simi Peak
+Santana, Madeira	highestPlace	Santana (parish)
+Guadalupe Mountains	highestPlace	Guadalupe Peak
+Eastern California	highestPlace	Inyo County, California
+Clark Range (California)	highestPlace	Merced Peak
+Saanen	highestPlace	Giferhorn
+Clark Range (Canada)	highestPlace	Long Knife Peak
+Cabo Girão	highestPlace	Câmara de Lobos (parish)
+Monteregian Hills	highestPlace	Mont Brome
+Gunung Mulu National Park	highestPlace	Mount Mulu
+Kaumajet Mountains	highestPlace	Brave Mountain
+Gore Range	highestPlace	Mount Powell (Colorado)
+Park Range (Colorado)	highestPlace	Mount Zirkel
+Mosquito Range	highestPlace	Mount Lincoln (Colorado)
+Mummy Range	highestPlace	Hagues Peak
+Elk Mountains (Colorado)	highestPlace	Castle Peak (Colorado)
+Crazy Mountains	highestPlace	Crazy Peak
+Monte Rosa Massif	highestPlace	Monte Rosa
+Elk Range (Canada)	highestPlace	Mount Pocaterra
+Făgăraș Mountains	highestPlace	Moldoveanu Peak
+Mackenzie Mountains	highestPlace	Keele Peak
+Beaverfoot Range	highestPlace	Kapristo Mountain
+MacDonnell Ranges	highestPlace	Mount Zeil
+Chic-Choc Mountains	highestPlace	Mont Jacques-Cartier
+Rabbit Ears Range	highestPlace	Parkview Mountain
+San Andres Mountains	highestPlace	Salinas Peak
+Ortler Alps	highestPlace	Ortler
+Bergamo Alps	highestPlace	Pizzo Coca
+Bernina Range	highestPlace	Piz Bernina
+Sesvenna Range	highestPlace	Piz Sesvenna
+Central California	highestPlace	Tulare County, California
+Zillertal Alps	highestPlace	Hochfeiler
+Oberhalbstein Range	highestPlace	Piz Platta
+Plessur Range	highestPlace	Aroser Rothorn
+Cardamom Mountains	highestPlace	Phnom Aural
+Shenandoah Mountain	highestPlace	Reddish Knob
+Shenandoah Mountain	highestPlace	Augusta County, Virginia
+Shenandoah Mountain	highestPlace	Pendleton County, West Virginia
+Beartooth Mountains	highestPlace	Granite Peak (Montana)
+Abajo Mountains	highestPlace	Abajo Peak
+Executive Committee Range	highestPlace	Mount Sidley
+Trans-Alay Range	highestPlace	Lenin Peak
+Žilina Region	highestPlace	Bystrá (mountain)
+Banská Bystrica Region	highestPlace	Ďumbier
+Bettingen	highestPlace	Swisscom-Sendeturm St. Chrischona
+Akademiya Nauk Range	highestPlace	Ismoil Somoni Peak
+Monashee Mountains	highestPlace	Mount Monashee
+Columbia Mountains	highestPlace	Mount Sir Sandford
+Bismarck Range	highestPlace	Mount Wilhelm
+Western Tatras	highestPlace	Bystrá (mountain)
+Greater Caucasus	highestPlace	Mount Elbrus
+Lesser Caucasus	highestPlace	Mount Aragats
+Armenian Highland	highestPlace	Mount Ararat
+Blue Mountains (Jamaica)	highestPlace	Blue Mountain Peak
+Shiretoko Peninsula	highestPlace	Mount Rausu
+Shiretoko Peninsula	highestPlace	Shari, Hokkaidō
+Shiretoko Peninsula	highestPlace	Rausu, Hokkaidō
+Retezat Mountains	highestPlace	Peleaga
+Cantabrian Mountains	highestPlace	Torre de Cerredo
+Ōu Mountains	highestPlace	Mount Iwate
+Desertas Islands	highestPlace	Deserta Grande Island
+Lusatian Mountains	highestPlace	Lausche
+Javorníky	highestPlace	Veľký Javorník
+High Tatras	highestPlace	Gerlachovský štít
+Totes Gebirge	highestPlace	Großer Priel
+Dead Mountains	highestPlace	Mount Manchester
+Blue Mountain (Pennsylvania)	highestPlace	Clarks Knob
+D'Aguilar Range	highestPlace	Tenison Woods Mountain
+Bieszczady Mountains	highestPlace	Pikuy
+Tanzawa Mountains	highestPlace	Mount Hiru
+Lewis Hills	highestPlace	The Cabox
+Napier Mountains	highestPlace	Mount Elkins
+Henry Mountains	highestPlace	Mount Ellen (Utah)
+Chisos Mountains	highestPlace	Emory Peak
+Shavers Fork Mountain Complex	highestPlace	Thorny Flat
+Shavers Fork Mountain Complex	highestPlace	Pocahontas County, West Virginia
+Shavers Fork Mountain Complex	highestPlace	West Virginia
+Aravis Range	highestPlace	Pointe Percée
+Eastern Alps	highestPlace	Piz Bernina
+Pacific Ranges	highestPlace	Mount Waddington
+Garibaldi Ranges	highestPlace	Wedge Mountain
+Tantalus Range	highestPlace	Mount Tantalus
+Waddington Range	highestPlace	Mount Waddington
+Rainbow Range (Chilcotin Plateau)	highestPlace	Tsitsutl Peak
+Rainbow Range (Rocky Mountains)	highestPlace	Mount Robson
+Camelsfoot Range	highestPlace	Red Mountain (British Columbia)
+Cantilever Range	highestPlace	Skihist Mountain
+Cariboo Mountains	highestPlace	Mount Sir Wilfrid Laurier
+Niedere Tauern	highestPlace	Hochgolling
+Boundary Ranges	highestPlace	Mount Ratz
+Boundary Ranges	highestPlace	British Columbia
+Mischabelhörner	highestPlace	Dom (mountain)
+Arakan Mountains	highestPlace	Nat Ma Taung
+Sacramento Mountains (California)	highestPlace	Eagle Peak (San Bernardino County, California)
+Mayacamas Mountains	highestPlace	Cobb Mountain
+Louderback Mountains	highestPlace	Crown Peak
+Franklin Mountains (Texas)	highestPlace	North Franklin Mountain
+Mont Blanc massif	highestPlace	Mont Blanc
+Schell Creek Range	highestPlace	North Schell Peak
+Sheep Range	highestPlace	Hayford Peak
+Diamond Mountains	highestPlace	Diamond Peak (Nevada)
+Ayubia National Park	highestPlace	Miranjani
+Calico Mountains (California)	highestPlace	Calico Peaks
+Cargo Muchacho Mountains	highestPlace	Pilot Knob (Imperial County, California)
+Willapa Hills	highestPlace	Boistfort Peak
+Black Hills (Washington)	highestPlace	Capitol Peak (Thurston County)
+Hanging Hills	highestPlace	West Peak (New Haven County, Connecticut)
+Elkhorn Mountains	highestPlace	Crow Peak
+Vallorbe	highestPlace	Dent de Vaulion
+Hidaka Mountains	highestPlace	Mount Poroshiri
+Teshio Mountains	highestPlace	Mount Pisshiri
+Yūbari Mountains	highestPlace	Mount Ashibetsu
+Cordillera Real (Bolivia)	highestPlace	Illimani
+Cheat Mountain	highestPlace	Thorny Flat
+Cheat Mountain	highestPlace	Pocahontas County, West Virginia
+Cheat Mountain	highestPlace	West Virginia
+Black Mountains (North Carolina)	highestPlace	Mount Mitchell
+Mantiqueira Mountains	highestPlace	Pedra da Mina
+Greater Fatra	highestPlace	Ostredok
+Daisetsuzan Volcanic Group	highestPlace	Asahidake
+Sunnmørsalpene	highestPlace	Kvitegga
+Tokachi Volcanic Group	highestPlace	Mount Tokachi (Daisetsuzan)
+Coeur d'Alene Mountains	highestPlace	Cherry Peak
+Sistema Central	highestPlace	Pico Almanzor
+Jizera Mountains	highestPlace	Wysoka Kopa
+Belasica	highestPlace	Radomir (peak)
+Parnon	highestPlace	Megali Tourla
+Topatopa Mountains	highestPlace	Hines Peak (California)
+Palatinate Forest	highestPlace	Kalmit
+Přerov nad Labem	highestPlace	Přerovská hůra
+Sierra de Gredos	highestPlace	Pico Almanzor
+Mission Mountains	highestPlace	McDonald Peak
+Tenmile Range	highestPlace	Quandary Peak
+Batura Muztagh	highestPlace	Batura Sar
+Trans-Pecos	highestPlace	Guadalupe Peak
+Cordillera de Guanacaste	highestPlace	Miravalles Volcano
+Cordillera de Talamanca	highestPlace	Cerro Chirripó
+Cordillera Central (Costa Rica)	highestPlace	Irazú Volcano
+Bunya Mountains	highestPlace	Mount Kiangarow
+Ennstal Alps	highestPlace	Hochtor
+Baltoro Muztagh	highestPlace	K2
+Masherbrum Mountains	highestPlace	Masherbrum
+Lewis Range	highestPlace	Mount Cleveland (Montana)
+Livingston Range	highestPlace	Kintla Peak
+Prokletije	highestPlace	Maja Jezercë
+Neacola Mountains	highestPlace	Mount Neacola
+Chigmit Mountains	highestPlace	Mount Redoubt
+Tordrillo Mountains	highestPlace	Mount Torbert
+Sierra de Guadarrama	highestPlace	Peñalara
+Fairweather Range	highestPlace	Mount Fairweather
+Eggegebirge	highestPlace	Preußische Velmerstot
+Saltoro Mountains	highestPlace	Saltoro Kangri
+Great Western Divide	highestPlace	Mount Kaweah
+Great Western Divide	highestPlace	Kaweah Peaks Ridge
+La Sal Mountains	highestPlace	Mount Peale
+Independence Mountains	highestPlace	McAfee Peak
+Pilot Range	highestPlace	Pilot Peak (Nevada)
+Snake Range	highestPlace	Wheeler Peak (Nevada)
+Făgăraş Mountains group	highestPlace	Moldoveanu Peak
+Northern Cordilleran Volcanic Province	highestPlace	Mount Edziza
+Marin Hills	highestPlace	Mount Tamalpais
+Palomar Mountain Range	highestPlace	High Point
+Big Round Top	highestPlace	Big Round Top Observation Tower Foundation Ruin
+Picket Range	highestPlace	Luna Peak (Washington)
+Mahoosuc Range	highestPlace	Old Speck Mountain
+Vaz/Obervaz	highestPlace	Parpaner Rothorn
+Monroe State Forest	highestPlace	Spruce Mountain (Massachusetts)
+Mount Rogers National Recreation Area	highestPlace	Mount Rogers
+Mount Rogers National Recreation Area	highestPlace	Troutdale, Virginia
+Spruce Knob-Seneca Rocks National Recreation Area	highestPlace	Spruce Knob
+Spruce Knob-Seneca Rocks National Recreation Area	highestPlace	Circleville, West Virginia
+Premier Range	highestPlace	Mount Sir Wilfrid Laurier
+Innuitian Mountains	highestPlace	Barbeau Peak
+Pinaleno Mountains	highestPlace	Mount Graham
+Muskwa Ranges	highestPlace	Ulysses Mountain
+Skeena Mountains	highestPlace	Shedin Peak
+Matt, Switzerland	highestPlace	Foostock
+Näfels	highestPlace	Rautispitz
+Bird's Head Peninsula	highestPlace	Arfak Mountains
+Belledonne	highestPlace	Grand Pic de Belledonne
+Silesian Beskids	highestPlace	Skrzyczne
+Canada Hudson Bay drainage	highestPlace	Snow Dome (Canada)
+Canada Hudson Bay drainage	highestPlace	Columbia Icefield
+Canada Hudson Bay drainage	highestPlace	Alberta
+Büren, Solothurn	highestPlace	Bürenflue
+Maligne Range	highestPlace	Mount Kerkeslin
+De Smet Range	highestPlace	Roche de Smet
+Western Carpathians	highestPlace	Gerlachovský štít
+South Mountain (Maryland and Pennsylvania)	highestPlace	Quirauk Mountain
+Wet Mountains	highestPlace	Greenhorn Mountain
+Collegiate Peaks	highestPlace	Mount Harvard
+Misty Range	highestPlace	Mount Rae
+Needle Mountains	highestPlace	Mount Eolus
+Buchs, St. Gallen	highestPlace	Glannachopf
+Vilters-Wangs	highestPlace	Schwarze Hörner
+Elgg	highestPlace	Heurütiweiher
+Elsau	highestPlace	Geitberg
+Arthur Range	highestPlace	Federation Peak
+Bäretswil	highestPlace	Allmen
+Sierra Madre de Chiapas	highestPlace	Volcán Tajumulco
+Ayent	highestPlace	Wildhorn
+Evolène	highestPlace	Dent Blanche
+Bow Range	highestPlace	Mount Temple (Alberta)
+High Rock Range	highestPlace	Mount Rae
+Crowsnest Range	highestPlace	Mount Ptolemy (Crowsnest Range)
+Mex, Valais	highestPlace	Cime de l'Est
+Aurunci Mountains	highestPlace	Monte Petrella
+Little Carpathians	highestPlace	Záruby
+Cordillera Darwin	highestPlace	Mount Darwin (Andes)
+Cleveland Hills	highestPlace	Urra Moor
+Spectrum Range	highestPlace	Yeda Peak
+Vancouver Island Ranges	highestPlace	Golden Hinde (mountain)
+Sandwich Range	highestPlace	Mount Tripyramid (New Hampshire)
+Basque Mountains	highestPlace	Aizkorri
+Chilean Coast Range	highestPlace	Cerro Vicuña Mackenna
+Strawberry Range	highestPlace	Strawberry Mountain (Oregon)
+Serra da Cantareira	highestPlace	Pico do Jaraguá
+Allegheny Mountain (West Virginia – Virginia)	highestPlace	Pocahontas County, West Virginia
+Allegheny Mountain (West Virginia – Virginia)	highestPlace	West Virginia
+Allegheny Mountain (West Virginia – Virginia)	highestPlace	Highland County, Virginia
+Allegheny Mountain (West Virginia – Virginia)	highestPlace	Virginia
+Maienfeld	highestPlace	Hinter Grauspitz
+Mahalangur Himal	highestPlace	Mount Everest
+Tujetsch	highestPlace	Péz Tgietschen
+Owl Mountains	highestPlace	Wielka Sowa
+Western Sudetes	highestPlace	Sněžka
+Mansiri Himal	highestPlace	Manaslu
+Pontic Mountains	highestPlace	Kaçkar Dağı
+Trans-Ili Alatau	highestPlace	Pik Talgar
+Sonoma Mountains	highestPlace	Sonoma Mountain
+North Fork Mountain	highestPlace	Pendleton County, West Virginia
+North Fork Mountain	highestPlace	West Virginia
+Milbanke Sound Group	highestPlace	Helmet Peak (British Columbia)
+Insular Mountains	highestPlace	Golden Hinde (mountain)
+Arctic Cordillera	highestPlace	Barbeau Peak
+Ritter Range	highestPlace	Mount Ritter
+Saltfjellet	highestPlace	Ølfjellet
+Great Craggy Mountains	highestPlace	Craggy Dome
+Moravian-Silesian Beskids	highestPlace	Lysá hora
+Cassiar Mountains	highestPlace	Thudaka Peak
+Cassiar Mountains	highestPlace	British Columbia
+Tuya Range	highestPlace	Ash Mountain (British Columbia)
+Thudaka Range	highestPlace	Thudaka Peak
+Interior Mountains	highestPlace	Thudaka Peak
+Interior Mountains	highestPlace	British Columbia
+Itcha Range	highestPlace	Mount Downton
+Hostýnsko-vsetínská hornatina	highestPlace	Vysoká (Vsetínské vrchy)
+Cascade Volcanoes	highestPlace	Mount Rainier
+Magdalena Mountains	highestPlace	South Baldy (New Mexico)
+Big Hatchet Mountains	highestPlace	Big Hatchet Peak
+Sierra de las Minas	highestPlace	Cerro Raxón
+Sierra de las Minas  ierra de las Minas biosphere reserve   1	highestPlace	Cerro Raxón
+Level Mountain Range	highestPlace	Meszah Peak
+Bregaglia Range	highestPlace	Monte Disgrazia
+Cheam Range	highestPlace	Welch Peak
+Sierra Nevada de Mérida	highestPlace	Pico Bolívar
+Chūgoku Mountains	highestPlace	Daisen (mountain)
+Ilgachuz Range	highestPlace	Far Mountain
+Clearwater Mountains	highestPlace	Stripe Mountain
+Sawtooth Range (Idaho)	highestPlace	Thompson Peak (Idaho)
+Starý Plzenec	highestPlace	Radyně Hill
+Misquah Hills	highestPlace	Eagle Mountain (Minnesota)
+Strážov Mountains	highestPlace	Strážov (Slovakia)
+Gallatin Range	highestPlace	Electric Peak
+Vtáčnik	highestPlace	Vtáčnik (mountain)
+Parâng Mountains	highestPlace	Parângu Mare
+Hallingskarvet	highestPlace	Folarskardnuten
+Serra de Tramuntana	highestPlace	Puig Major
+Cordillera de Nahuelbuta	highestPlace	Alto Nahuelbuta
+Cordillera Penibética	highestPlace	Mulhacén
+Cordillera Domeyko	highestPlace	Cerro Quimal
+Duck Mountain Provincial Park (Manitoba)	highestPlace	Baldy Mountain (Manitoba)
+Hurrungane	highestPlace	Store Skagastølstind
+Hurrungane	highestPlace	Luster, Norway
+Hurrungane	highestPlace	Årdal
+Tafjordfjella	highestPlace	Puttegga
+Tafjordfjella	highestPlace	Sunnmøre
+Tafjordfjella	highestPlace	Norway
+Northern Oregon Coast Range	highestPlace	Rogers Peak
+České Středohoří	highestPlace	Milešovka
+Patagonian Desert	highestPlace	Domuyo
+Black Rock Range	highestPlace	Pahute Peak
+Sylan	highestPlace	Storsylen
+Central Oregon Coast Range	highestPlace	Marys Peak
+Smiubelgen	highestPlace	Trolltinden (Oppland)
+Oregon Coast Range	highestPlace	Marys Peak
+Back Allegheny Mountain	highestPlace	Bald Knob
+Back Allegheny Mountain	highestPlace	Pocahontas County, West Virginia
+Back Allegheny Mountain	highestPlace	West Virginia
+Charmadi	highestPlace	Gadaikallu
+Setesdalsheiene	highestPlace	Sæbyggjenuten
+Romsdalsalpene	highestPlace	Store Venjetinden
+Blackstairs Mountains	highestPlace	Mount Leinster
+Bradshaw Mountains	highestPlace	Mount Union (Arizona)
+Belianske Tatras	highestPlace	Havran
+Southern Oregon Coast Range	highestPlace	Bone Mountain (Oregon)
+Southern Rocky Mountains	highestPlace	Mount Elbert
+Great Balsam Mountains	highestPlace	Richland Balsam
+Franconia Range	highestPlace	Mount Lafayette
+La Plata Mountains	highestPlace	Hesperus Mountain (Colorado)
+Sierra Crest	highestPlace	Mount Whitney
+Sierra Crest	highestPlace	Bishop Pass
+Sierra Crest	highestPlace	Tioga Pass
+North Mountain (Nova Scotia)	highestPlace	Mount Rose (Nova Scotia)
+Urner Alps	highestPlace	Dammastock
+Appenzell Alps	highestPlace	Säntis
+Allgäu Alps	highestPlace	Großer Krottenkopf
+Southern Yatsugatake Volcanic Group	highestPlace	Mount Aka (Yatsugatake)
+Néouvielle massif	highestPlace	Pic Long
+Breheimen	highestPlace	Hestbreapiggan
+Breheimen	highestPlace	Skjåk
+Baffin Mountains	highestPlace	Mount Odin
+Fatra-Tatra Area	highestPlace	Gerlachovský štít
+Challenger Mountains	highestPlace	Commonwealth Mountain
+Princess Margaret Range	highestPlace	Outlook Peak
+Bukovec Mountains	highestPlace	Kremenec
+Shavers Mountain	highestPlace	Gaudineer Knob
+Shavers Mountain	highestPlace	Pocahontas County, West Virginia
+Shavers Mountain	highestPlace	Randolph County, West Virginia
+Shavers Mountain	highestPlace	West Virginia
+Byam Martin Mountains	highestPlace	Angilaaq Mountain
+Vanoise massif	highestPlace	Grande Casse
+Mount Tom Range	highestPlace	Mount Tom (Massachusetts)
+Metacomet Ridge	highestPlace	Mount Toby
+Holyoke Range	highestPlace	Mount Norwottuck
+Wapack Range	highestPlace	Pack Monadnock
+Nandewar Range	highestPlace	Mount Kaputar
+Main Range (Snowy Mountains)	highestPlace	Mount Kosciuszko
+Conger Range	highestPlace	Mount Biederbick
+Stokes Range	highestPlace	Stokes Mountain
+Ogilvie Mountains	highestPlace	Mount Frank Rae
+Black Rock Forest	highestPlace	Highlands, New York
+Glass House Mountains (Queensland)	highestPlace	Mount Beerwah
+High Desert (Oregon)	highestPlace	Steens Mountain
+Cerbat Mountains	highestPlace	Mount Tipton
+Tinajas Altas Mountains	highestPlace	Untitled
+Tank Mountains	highestPlace	Black Dome (Arizona)
+Biellese Prealps	highestPlace	Monte Mars
+Eldorado Mountains	highestPlace	Ireteba Peak
+Bear Pond Mountains	highestPlace	Cross Mountain (Pennsylvania)
+Cordillera Subbética	highestPlace	La Sagra (peak)
+Chiemgau Alps	highestPlace	Sonntagshorn
+Chehalem Mountains	highestPlace	Bald Peak
+Chablais Alps	highestPlace	Dents du Midi
+Queen Charlotte Mountains	highestPlace	Mount Moresby
+Aralar Range	highestPlace	Irumugarrieta
+Otter Creek Wilderness	highestPlace	McGowan Mountain
+Otter Creek Wilderness	highestPlace	Bowden, West Virginia
+Laurel Fork South Wilderness	highestPlace	Shavers Fork Mountain Complex
+Laurel Fork South Wilderness	highestPlace	Glady, West Virginia
+Laurel Fork North Wilderness	highestPlace	Shavers Fork Mountain Complex
+Laurel Fork North Wilderness	highestPlace	Wyner, West Virginia
+MacIntyre Mountains	highestPlace	Algonquin Peak
+Dix Range	highestPlace	Dix Mountain
+Samuel Black Range	highestPlace	Samuel Black SW13
+Apolobamba	highestPlace	Chaupi Orco
+Beaufort Range	highestPlace	Mount Joan
+Dome Rock Mountains	highestPlace	Cunningham Mountain
+Little Ajo Mountains	highestPlace	Ajo Peak
+Big Salmon Range	highestPlace	Gray Peak (Yukon)
+Sierra de los Cuchumatanes	highestPlace	La Torre (Sierra de los Cuchumatanes)
+Sierra de los Cuchumatanes	highestPlace	Todos Santos Cuchumatán
+Trifinio biosphere reserve	highestPlace	Cerro Montecristo
+Ishikari Mountains	highestPlace	Asahidake
+Kalatungan Mountain Range	highestPlace	Mount Kalatungan
+Bald Mountains	highestPlace	Big Bald
+Kitanglad Mountain Range	highestPlace	Mount Dulang-dulang
+Huachuca Mountains	highestPlace	Miller Peak (Arizona)
+Pioneer Mountains (Montana)	highestPlace	Tweedy Mountain
+Yatsugatake Mountains	highestPlace	Mount Aka (Yatsugatake)
+Bratislava	highestPlace	Devínska Kobyla
+Plott Balsams	highestPlace	Waterrock Knob
+Northern Yatsugatake Volcanic Group	highestPlace	Mount Tengu
+Cranberry Wilderness	highestPlace	Black Mountain (West Virginia)
+Cranberry Wilderness	highestPlace	Woodrow, Pocahontas County, West Virginia
+Upstate California	highestPlace	Mount Shasta
+Upstate California	highestPlace	Siskiyou County, California
+Madison Range	highestPlace	Hilgard Peak
+Niseko Volcanic Group	highestPlace	Nisekoannupuri
+Mount Raiden Volcanic Group	highestPlace	Mount Mekunnai
+Rattlesnake Hills	highestPlace	Elephant Mountain (Washington)
+Peters Mountain	highestPlace	Monroe County, West Virginia
+Peters Mountain	highestPlace	Giles County, Virginia
+Central Ishikari Mountains	highestPlace	Mount Ishikari
+Akan Volcanic Complex	highestPlace	Mount Meakan
+Broken Hills (Virginia)	highestPlace	Wildcat Mountain (Fauquier County, Virginia)
+Sneffels Range	highestPlace	Mount Sneffels
+White Cloud Mountains	highestPlace	Castle Peak (Idaho)
+Nimmel Range	highestPlace	Mount Nimmel
+Bare Mountain Range (Nevada)	highestPlace	Bare Mountain (Bare Mountain in Nevada)
+Catskill Escarpment	highestPlace	Blackhead (New York)
+Catskill Escarpment	highestPlace	Windham, New York
+Catskill Escarpment	highestPlace	Jewett, New York
+Catskill Escarpment	highestPlace	Cairo, New York
+Lechtal Alps	highestPlace	Parseierspitze
+Schober group	highestPlace	Petzeck
+Pine Grove Hills	highestPlace	Bald Mountain (Lyon County)
+Box Springs Mountains	highestPlace	Box Springs Mountain
+Jurupa Mountains	highestPlace	Mount Jurupa
+Frankland Range	highestPlace	Frankland Peak
+Sierra Vicuña Mackenna	highestPlace	Cerro Vicuña Mackenna
+Wetterstein	highestPlace	Zugspitze
+Sierra Carapé	highestPlace	Cerro Catedral (Uruguay)
+Supramonte	highestPlace	Monte Corrasi
+Bedded Range	highestPlace	Coquihalla Mountain
+Sierra de Francia	highestPlace	Pico de La Hastiala
+Britannia Range (Canada)	highestPlace	Brunswick Mountain
+Howson Range	highestPlace	Howson Peak
+Nikanassin Range	highestPlace	Climax Mountain
+Cuchilla Grande	highestPlace	Cerro Catedral (Uruguay)
+Delta Mountains	highestPlace	Mount Kimball (Alaska)
+Sistema Ibérico	highestPlace	Moncayo Massif
+Berchtesgaden Alps	highestPlace	Hochkönig
+Alpi Apuane	highestPlace	Monte Pisanino
+Fitzsimmons Range	highestPlace	Overlord Mountain
+Kitami Mountains	highestPlace	Mount Teshio
+Ochoco Mountains	highestPlace	Lookout Mountain (Oregon)
+Teffedest Mountains	highestPlace	Algeria
+Pueblo Mountains	highestPlace	Pueblo Mountain
+Twin Range	highestPlace	South Twin Mountain (New Hampshire)
+Roaring Plains West Wilderness	highestPlace	Mount Porte Crayon
+Roaring Plains West Wilderness	highestPlace	Seneca Rocks, West Virginia
+Dientes de Navarino	highestPlace	Pico Navarino
+Ybbstal Alps	highestPlace	Hochstadl
+Santa Teresa Mountains	highestPlace	Cottonwood Mountain (Arizona)
+Entiat Mountains	highestPlace	Mount Fernow
+Chelan Mountains	highestPlace	Cardinal Peak
+Mount Limbara	highestPlace	Punta Sa Berritta
+Semice	highestPlace	Semická hůra
+Teviot Range	highestPlace	Flinders Peak
+Spice Run Wilderness	highestPlace	Slabcamp Mountain
+Spice Run Wilderness	highestPlace	Droop Mountain, West Virginia
+Bellenden Ker Range	highestPlace	Mount Bartle Frere
+Krkonoše	highestPlace	Sněžka
+Mühlig-Hofmann Mountains	highestPlace	Kyrkjeskipet Peak
+Orvin Mountains	highestPlace	Sandeggtind Peak
+Sverdrup Mountains	highestPlace	Mount Krüger
+Conrad Mountains	highestPlace	Sandeggtind Peak
+Flathead Range	highestPlace	Mount Blakiston
+Kaisergebirge	highestPlace	Ellmauer Halt
+Madonie National Park	highestPlace	Pizzo Carbonara
+Tech Valley	highestPlace	Mount Marcy
+Tech Valley	highestPlace	Keene, New York
+Tech Valley	highestPlace	Essex County, New York
+Tweed Range	highestPlace	Bar Mountain
+Slieveardagh Hills	highestPlace	Clomantagh Hill
+Flat Tops (Colorado)	highestPlace	Flat Top Mountain (Colorado)
+Allegheny Mountain (Pennsylvania)	highestPlace	Eastern Continental Divide
+Nelson Rocks	highestPlace	Pendleton County, West Virginia
+Nelson Rocks	highestPlace	West Virginia
+Walters Shoals	highestPlace	Natal Seamount
+Bavarian Prealps	highestPlace	Krottenkopf
+Ammergau Alps	highestPlace	Daniel (mountain)
+Monte Albo	highestPlace	Punta Ferulargiu
+Sierra de la Ventana (mountains)	highestPlace	Tornquist, Buenos Aires
+Pelion Range	highestPlace	Mount Ossa (Tasmania)
+Spruce Mountain (West Virginia)	highestPlace	Spruce Knob
+Spruce Mountain (West Virginia)	highestPlace	Pendleton County, West Virginia
+Hümmling (hills)	highestPlace	Windberg (Hümmling)
+Glockner Group	highestPlace	Grossglockner
+Morrissey Ridge	highestPlace	Castle Mountain (British Columbia)
+Berserker Range	highestPlace	Mount Archer
+Leoganger Steinberge	highestPlace	Birnhorn
+Upper Austrian Prealps	highestPlace	Hoher Nock
+Meili Xue Shan	highestPlace	Kawagebo
+Kyrgyz Alatau	highestPlace	Alamyudyun Peak
+Altar Valley	highestPlace	Sierrita Mountains
+Mashike Mountains	highestPlace	Mount Shokanbetsu
+Mashike Mountains	highestPlace	Mashike, Hokkaidō
+Mashike Mountains	highestPlace	Shintotsukawa, Hokkaidō
+Shokanbetsudake Mountains	highestPlace	Mount Shokanbetsu
+Shokanbetsudake Mountains	highestPlace	Mashike, Hokkaidō
+Shokanbetsudake Mountains	highestPlace	Shintotsukawa, Hokkaidō
+Patagonia Mountains	highestPlace	Mount Washington (Arizona)
+Gettys-Black divide	highestPlace	Big Round Top
+Squamish volcanic field	highestPlace	Monmouth Creek complex
+Vértes Mountains	highestPlace	Nagy-Csákány
+Gerecse Mountains	highestPlace	Nagy-Gerecse
+Satah Mountain volcanic field	highestPlace	Satah Mountain
+Gjelsvik Mountains	highestPlace	Risemedet Mountain
+Nor'Wester Mountains	highestPlace	Mount McKay
+Harcuvar Mountains	highestPlace	Smith Peak (Arizona)
+Butler Valley (Arizona)	highestPlace	Drainage divide
+Laguna Mountains (Arizona)	highestPlace	Boot Peak
+Mambilla Plateau	highestPlace	Chappal Waddi
+Rawhide Mountains	highestPlace	Aubrey Peak (Rawhide Mountains)
+Black Hills (Yavapai County)	highestPlace	Mingus Mountain
+Karre Mountains	highestPlace	Mount Ngaoui
+Gros Ventre Range	highestPlace	Doubletop Peak
+Arnspitze Group	highestPlace	Große Arnspitze
+Loferer Steinberge	highestPlace	Großes Ochsenhorn
+Gutenstein Alps	highestPlace	Reisalpe
+Rax-Schneeberg Group	highestPlace	Schneeberg (Alps)
+Türnitz Alps	highestPlace	Großer Sulzberg
+Belmont Mountains	highestPlace	Sugarloaf Mountain (Arizona)
+Otish Mountains	highestPlace	Mont Yapeitso
+Les Monts Groulx	highestPlace	Mount Babel (Quebec)
+Pyramid Mountains	highestPlace	Pyramid Peak (New Mexico)
+Alamo Hueco Mountains	highestPlace	Pierce Peak (New Mexico)
+Kungey Alatau	highestPlace	Chok-Tal Peak
+Sierra Aguilada	highestPlace	Brushy Mountain (Aguilada Mountains)
+Alpstein	highestPlace	Säntis
+Montes de Toledo	highestPlace	La Villuerca
+Antelope Valley (Elko-White Pine Counties)	highestPlace	Kinsley Mountains
+Lake Valley (Nevada)	highestPlace	Drainage divide
+Kakshaal Too	highestPlace	Jengish Chokusu
+Farnham Group	highestPlace	Mount Farnham
+Sierra de Ávila	highestPlace	Cerro de Gorría
+Tennengebirge	highestPlace	Raucheck
+Dachstein Mountains	highestPlace	Hoher Dachstein
+Cordillera de la Ramada	highestPlace	Mercedario
+Sundance Range	highestPlace	Mount Allen (Canada)
+Mikulov Highlands	highestPlace	Děvín (Moravia)
+Mangfall Mountains	highestPlace	Rotwand (Bavaria)
+Brandenberg Alps	highestPlace	Hochiss
+Granatspitze Group	highestPlace	Großer Muntanitz
+Watkins Range	highestPlace	Gunnbjørn Fjeld
+Köroğlu Mountains	highestPlace	Köroğlu Tepesi
+Sierra de Villuercas	highestPlace	La Villuerca
+Prebaetic System	highestPlace	La Sagra (peak)
+Stemweder Berg	highestPlace	Kollwesshöh
+Beckum Hills	highestPlace	Mackenberg
+Baumberge	highestPlace	Westerberg (Baumberge)
+Steinernes Meer	highestPlace	Selbhorn
+Henry Mountains Bison Herd	highestPlace	Mount Ellen (Utah)
+Mieminger Chain	highestPlace	Hochplattig
+Namcha Barwa Himal	highestPlace	Namjagbarwa
+South Mountain Railroad (Cumberland)	highestPlace	Pine Grove Iron Works
+Hunter's Run and Slate Belt Railroad	highestPlace	Pine Grove Iron Works
+Sierra de las Ánimas	highestPlace	Cerro de las Ánimas
+Ankogel Group	highestPlace	Hochalmspitze

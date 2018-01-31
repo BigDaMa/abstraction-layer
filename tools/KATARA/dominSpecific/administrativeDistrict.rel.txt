@@ -1,0 +1,863 @@
+Aalen	administrativeDistrict	Stuttgart (region)
+Bonn	administrativeDistrict	Cologne
+Bamberg	administrativeDistrict	Upper Franconia
+Cologne	administrativeDistrict	Cologne (region)
+Frankfurt	administrativeDistrict	Darmstadt
+Limburg an der Lahn	administrativeDistrict	Gießen
+Munich	administrativeDistrict	Upper Bavaria
+Nuremberg	administrativeDistrict	Middle Franconia
+Augsburg	administrativeDistrict	Bavarian Swabia
+Meissen	administrativeDistrict	Dresden
+Wiesbaden	administrativeDistrict	Darmstadt
+Heidelberg	administrativeDistrict	Karlsruhe
+Regensburg	administrativeDistrict	Upper Palatinate
+Wuppertal	administrativeDistrict	Düsseldorf (region)
+Darmstadt	administrativeDistrict	Wikitravel:Darmstadt
+Backnang	administrativeDistrict	Stuttgart
+Badenweiler	administrativeDistrict	Freiburg im Breisgau
+Zschopau	administrativeDistrict	Chemnitz
+Baden-Baden	administrativeDistrict	Karlsruhe (region)
+Mannheim	administrativeDistrict	Karlsruhe
+Duisburg	administrativeDistrict	Düsseldorf
+Calw	administrativeDistrict	Karlsruhe (region)
+Colditz	administrativeDistrict	Leipzig
+Münster	administrativeDistrict	Münster (region)
+Aschaffenburg	administrativeDistrict	Lower Franconia
+Herborn	administrativeDistrict	Gießen
+Göppingen	administrativeDistrict	Stuttgart
+Waiblingen	administrativeDistrict	Stuttgart
+Essen	administrativeDistrict	Düsseldorf (region)
+Radolfzell	administrativeDistrict	Freiburg (region)
+Gelsenkirchen	administrativeDistrict	Münster (region)
+Krefeld	administrativeDistrict	Düsseldorf
+Mönchengladbach	administrativeDistrict	Düsseldorf
+Solingen	administrativeDistrict	Düsseldorf
+Steinfurt	administrativeDistrict	Münster (region)
+Rheine	administrativeDistrict	Münster (region)
+Tecklenburg	administrativeDistrict	Münster (region)
+Hemer	administrativeDistrict	Arnsberg
+Minden	administrativeDistrict	Detmold (region)
+Balve	administrativeDistrict	Arnsberg
+Altena	administrativeDistrict	Arnsberg
+Borken, North Rhine-Westphalia	administrativeDistrict	Münster (region)
+Esslingen am Neckar	administrativeDistrict	Stuttgart (region)
+Arnsberg	administrativeDistrict	Arnsberg (region)
+Wetzlar	administrativeDistrict	Gießen
+Görlitz	administrativeDistrict	Dresden
+Chemnitz	administrativeDistrict	Chemnitz (region)
+Velen	administrativeDistrict	Münster (region)
+Gundelfingen	administrativeDistrict	Freiburg im Breisgau
+Sigmaringen	administrativeDistrict	Tübingen
+Lindau	administrativeDistrict	Bavarian Swabia
+Bad Hersfeld	administrativeDistrict	Kassel
+Metelen	administrativeDistrict	Münster (region)
+Kreuzberg	administrativeDistrict	Friedrichshain-Kreuzberg
+Schwäbisch Hall	administrativeDistrict	Stuttgart
+Heilbronn	administrativeDistrict	Stuttgart
+Horstmar	administrativeDistrict	Münster
+Landshut	administrativeDistrict	Lower Bavaria
+Bautzen	administrativeDistrict	Dresden
+Flossenbürg	administrativeDistrict	Upper Palatinate
+Wedding (Berlin)	administrativeDistrict	Mitte (locality)
+Charlottenburg	administrativeDistrict	Charlottenburg-Wilmersdorf
+Wilmersdorf	administrativeDistrict	Charlottenburg-Wilmersdorf
+Tiergarten	administrativeDistrict	Mitte
+Tempelhof	administrativeDistrict	Tempelhof-Schöneberg
+Wartenberg, Hesse	administrativeDistrict	Gießen
+Köpenick	administrativeDistrict	Treptow-Köpenick
+Neuss	administrativeDistrict	Düsseldorf
+Nürtingen	administrativeDistrict	Stuttgart (region)
+Garmisch-Partenkirchen	administrativeDistrict	Upper Bavaria
+Gladbeck	administrativeDistrict	Münster (region)
+Lörrach	administrativeDistrict	Freiburg im Breisgau
+Warburg	administrativeDistrict	Detmold (region)
+Rödermark	administrativeDistrict	Darmstadt (region)
+Bensheim	administrativeDistrict	Darmstadt
+Seeheim-Jugenheim	administrativeDistrict	Darmstadt
+Radebeul	administrativeDistrict	Dresden
+Moritzburg	administrativeDistrict	Dresden
+Oberursel (Taunus)	administrativeDistrict	Darmstadt (region)
+Bad Homburg vor der Höhe	administrativeDistrict	Darmstadt (region)
+Hansaviertel	administrativeDistrict	Mitte
+Sindelfingen	administrativeDistrict	Stuttgart
+Wesel	administrativeDistrict	Düsseldorf
+Willich	administrativeDistrict	Düsseldorf
+Pforzheim	administrativeDistrict	Karlsruhe
+Mülheim	administrativeDistrict	Düsseldorf
+Prenzlauer Berg	administrativeDistrict	Pankow
+Brühl (Baden)	administrativeDistrict	Karlsruhe
+Schweinfurt	administrativeDistrict	Lower Franconia
+Moabit	administrativeDistrict	Mitte
+Mühlacker	administrativeDistrict	Karlsruhe
+Bischofsheim, Hesse	administrativeDistrict	Darmstadt (region)
+Schwetzingen	administrativeDistrict	Karlsruhe (region)
+Fritzlar	administrativeDistrict	Kassel (region)
+Fürth	administrativeDistrict	Middle Franconia
+Wannsee	administrativeDistrict	Steglitz-Zehlendorf
+Garching bei München	administrativeDistrict	Upper Bavaria
+Hof, Bavaria	administrativeDistrict	Upper Franconia
+Bad Godesberg	administrativeDistrict	Cologne (region)
+Bischofswerda	administrativeDistrict	Dresden
+Weingarten (Baden)	administrativeDistrict	Karlsruhe (district)
+Philippsburg	administrativeDistrict	Karlsruhe (region)
+Sinsheim	administrativeDistrict	Karlsruhe (region)
+Ludwigsburg	administrativeDistrict	Stuttgart
+Pfinztal	administrativeDistrict	Karlsruhe (district)
+Bocholt, Germany	administrativeDistrict	Münster
+Marktbreit	administrativeDistrict	Lower Franconia
+Rastatt	administrativeDistrict	Karlsruhe (region)
+Freilassing	administrativeDistrict	Upper Bavaria
+Eschwege	administrativeDistrict	Kassel
+Müllheim	administrativeDistrict	Freiburg im Breisgau
+Leopoldshöhe	administrativeDistrict	Detmold
+Lage	administrativeDistrict	Detmold
+Oerlinghausen	administrativeDistrict	Detmold
+Weil der Stadt	administrativeDistrict	Stuttgart
+Reutlingen	administrativeDistrict	Tübingen
+Lichtenfels, Hesse	administrativeDistrict	Kassel (region)
+Tegel	administrativeDistrict	Reinickendorf
+Frohnau	administrativeDistrict	Reinickendorf
+Britz	administrativeDistrict	Neukölln
+Heppenheim	administrativeDistrict	Darmstadt
+Schöneberg	administrativeDistrict	Tempelhof-Schöneberg
+Friedenau	administrativeDistrict	Tempelhof-Schöneberg
+Delitzsch	administrativeDistrict	Leipzig
+Ahnatal	administrativeDistrict	Kassel
+Friedrichshain	administrativeDistrict	Friedrichshain-Kreuzberg
+Karlsbad (Baden)	administrativeDistrict	Karlsruhe
+Torgau	administrativeDistrict	Leipzig
+Xanten	administrativeDistrict	Düsseldorf
+Böhlen	administrativeDistrict	Leipzig
+Zwingenberg	administrativeDistrict	Darmstadt
+Grafenwöhr	administrativeDistrict	Upper Palatinate
+Ratingen	administrativeDistrict	Düsseldorf
+Wülfrath	administrativeDistrict	Düsseldorf
+Heiligenhaus	administrativeDistrict	Düsseldorf
+Haan	administrativeDistrict	Düsseldorf
+Dillenburg	administrativeDistrict	Gießen (region)
+Mettmann	administrativeDistrict	Düsseldorf
+Erkrath	administrativeDistrict	Düsseldorf
+Monheim am Rhein	administrativeDistrict	Düsseldorf
+Langenfeld, Rhineland	administrativeDistrict	Düsseldorf
+Velbert	administrativeDistrict	Düsseldorf
+Pirna	administrativeDistrict	Dresden
+Bad Arolsen	administrativeDistrict	Kassel (region)
+Idstein	administrativeDistrict	Darmstadt (region)
+Siegen	administrativeDistrict	Arnsberg (region)
+Neckartailfingen	administrativeDistrict	Stuttgart
+Groß-Umstadt	administrativeDistrict	Darmstadt
+Bruchsal	administrativeDistrict	Karlsruhe
+Plauen	administrativeDistrict	Chemnitz
+Dürrröhrsdorf-Dittersbach	administrativeDistrict	Dresden
+Volkach	administrativeDistrict	Lower Franconia
+Rheinstetten	administrativeDistrict	Karlsruhe
+Grünberg, Hesse	administrativeDistrict	Gießen
+Schwäbisch Gmünd	administrativeDistrict	Stuttgart
+Kehl	administrativeDistrict	Freiburg (region)
+Witzenhausen	administrativeDistrict	Kassel
+Bad Gottleuba-Berggießhübel	administrativeDistrict	Dresden
+Schwelm	administrativeDistrict	Arnsberg
+Kaufbeuren	administrativeDistrict	Swabia
+Allmersbach	administrativeDistrict	Stuttgart
+Hoyerswerda	administrativeDistrict	Dresden (region)
+Marbach am Neckar	administrativeDistrict	Stuttgart (region)
+Bad Schandau	administrativeDistrict	Dresden
+Reichenbach an der Fils	administrativeDistrict	Stuttgart
+Kreischa	administrativeDistrict	Dresden
+Gütersloh	administrativeDistrict	Detmold
+Coesfeld	administrativeDistrict	Münster (region)
+Kamenz	administrativeDistrict	Dresden
+Böblingen	administrativeDistrict	Stuttgart
+Werl	administrativeDistrict	Arnsberg
+Kronach	administrativeDistrict	Upper Franconia
+Mittweida	administrativeDistrict	Chemnitz
+Heiligensee	administrativeDistrict	Reinickendorf
+Obertshausen	administrativeDistrict	Darmstadt (region)
+Stollberg	administrativeDistrict	Chemnitz
+Weissach im Tal	administrativeDistrict	Stuttgart
+Adlershof	administrativeDistrict	Treptow-Köpenick
+Warendorf	administrativeDistrict	Münster (region)
+Ebersberg	administrativeDistrict	Upper Bavaria
+Groß-Gerau	administrativeDistrict	Darmstadt
+Dülmen	administrativeDistrict	Münster (region)
+Ottendorf-Okrilla	administrativeDistrict	Dresden
+Murnau am Staffelsee	administrativeDistrict	Upper Bavaria
+Gummersbach	administrativeDistrict	Cologne
+Wolfach	administrativeDistrict	Freiburg (region)
+Zehlendorf (Berlin)	administrativeDistrict	Steglitz-Zehlendorf
+Rüsselsheim	administrativeDistrict	Darmstadt
+Waldbröl	administrativeDistrict	Cologne
+Ebringen	administrativeDistrict	Freiburg im Breisgau
+Hofheim, Bavaria	administrativeDistrict	Lower Franconia
+Eurasburg	administrativeDistrict	Upper Bavaria
+Griesheim	administrativeDistrict	Darmstadt
+Holzmaden	administrativeDistrict	Stuttgart
+Helsa	administrativeDistrict	Kassel
+Laer	administrativeDistrict	Münster (region)
+Dossenheim	administrativeDistrict	Karlsruhe
+Breisach	administrativeDistrict	Freiburg im Breisgau
+Kempen, Germany	administrativeDistrict	Düsseldorf
+Rodgau	administrativeDistrict	Darmstadt (region)
+Wilsdruff	administrativeDistrict	Dresden
+Ettlingen	administrativeDistrict	Karlsruhe
+Riesa	administrativeDistrict	Dresden
+Dormagen	administrativeDistrict	Düsseldorf
+Emmerich am Rhein	administrativeDistrict	Düsseldorf
+Fellbach	administrativeDistrict	Stuttgart
+Karlshorst	administrativeDistrict	Lichtenberg
+Marienfelde	administrativeDistrict	Tempelhof-Schöneberg
+Michelstadt	administrativeDistrict	Darmstadt
+Hainburg, Germany	administrativeDistrict	Darmstadt (region)
+Weinsberg	administrativeDistrict	Stuttgart
+Bockum	administrativeDistrict	Düsseldorf (region)
+Weißenburg in Bayern	administrativeDistrict	Middle Franconia
+Meschede	administrativeDistrict	Arnsberg
+Gengenbach	administrativeDistrict	Freiburg im Breisgau
+Vilseck	administrativeDistrict	Upper Palatinate
+Rüdesheim am Rhein	administrativeDistrict	Darmstadt (region)
+Rissen	administrativeDistrict	Altona, Hamburg
+Rissen	administrativeDistrict	Hamburg
+Korbach	administrativeDistrict	Kassel (region)
+Schemmerhofen	administrativeDistrict	Tübingen (region)
+Eggenstein-Leopoldshafen	administrativeDistrict	Karlsruhe
+Methler	administrativeDistrict	Arnsberg (region)
+Offenburg	administrativeDistrict	Freiburg im Breisgau
+Großenhain	administrativeDistrict	Dresden
+Schorndorf	administrativeDistrict	Stuttgart
+Sulzburg	administrativeDistrict	Freiburg im Breisgau
+Durmersheim	administrativeDistrict	Karlsruhe
+Heusenstamm	administrativeDistrict	Darmstadt (region)
+Achern	administrativeDistrict	Freiburg (region)
+Metzingen	administrativeDistrict	Tübingen
+Lichtenstein, Baden-Württemberg	administrativeDistrict	Tübingen (region)
+Herrenberg	administrativeDistrict	Stuttgart
+Biblis	administrativeDistrict	Darmstadt
+Bad Säckingen	administrativeDistrict	Freiburg im Breisgau
+Grunewald	administrativeDistrict	Charlottenburg-Wilmersdorf
+Reisbach (Vils)	administrativeDistrict	Lower Bavaria
+Leutkirch im Allgäu	administrativeDistrict	Tübingen (region)
+Heringen	administrativeDistrict	Kassel
+Telgte	administrativeDistrict	Münster (region)
+Gatow	administrativeDistrict	Spandau
+Brilon	administrativeDistrict	Arnsberg
+Meerane	administrativeDistrict	Chemnitz
+Ahlen	administrativeDistrict	Münster (region)
+Dautphetal	administrativeDistrict	Gießen
+Grimma	administrativeDistrict	Leipzig
+Elchesheim-Illingen	administrativeDistrict	Karlsruhe
+Wettringen (Münsterland)	administrativeDistrict	Münster (region)
+Olfen	administrativeDistrict	Münster (region)
+Hirsau	administrativeDistrict	Karlsruhe (region)
+Hüls	administrativeDistrict	Düsseldorf (region)
+Hainichen, Saxony	administrativeDistrict	Chemnitzer Land
+Heilsbronn	administrativeDistrict	Middle Franconia
+Felsberg, Hesse	administrativeDistrict	Kassel
+Meerbusch	administrativeDistrict	Düsseldorf
+Erzhausen	administrativeDistrict	Darmstadt
+Nottuln	administrativeDistrict	Münster (region)
+Bad Wildbad	administrativeDistrict	Karlsruhe (region)
+Werdau	administrativeDistrict	Chemnitz (region)
+Weilburg	administrativeDistrict	Gießen station
+Wurzen	administrativeDistrict	Leipzig (district)
+Laufenburg, Germany	administrativeDistrict	Freiburg im Breisgau
+Kaufungen	administrativeDistrict	Kassel
+Tirschenreuth	administrativeDistrict	Upper Palatinate
+Pegau	administrativeDistrict	Leipzig (district)
+Bretten	administrativeDistrict	Karlsruhe
+Bad Alexandersbad	administrativeDistrict	Upper Franconia
+Rummelsburg	administrativeDistrict	Lichtenberg
+Engstingen	administrativeDistrict	Tübingen (region)
+Tharandt	administrativeDistrict	Dresden
+Geldern	administrativeDistrict	Düsseldorf (region)
+Zschadraß	administrativeDistrict	Leipzig (district)
+Lorsch	administrativeDistrict	Darmstadt
+Inning am Ammersee	administrativeDistrict	Upper Bavaria
+Willebadessen	administrativeDistrict	Detmold (region)
+Gemmrigheim	administrativeDistrict	Stuttgart
+Bad Krozingen	administrativeDistrict	Freiburg im Breisgau
+Vogtsburg	administrativeDistrict	Freiburg im Breisgau
+Warstein	administrativeDistrict	Arnsberg
+Burghausen, Altötting	administrativeDistrict	Upper Bavaria
+Greven	administrativeDistrict	Münster (region)
+Wesseling	administrativeDistrict	Cologne
+Oschatz	administrativeDistrict	Leipzig
+Mettingen	administrativeDistrict	Münster (region)
+Rösrath	administrativeDistrict	Cologne
+Weeze	administrativeDistrict	Düsseldorf
+Elz, Hesse	administrativeDistrict	Gießen
+Leun	administrativeDistrict	Gießen
+Niedernhausen	administrativeDistrict	Darmstadt (region)
+Rathen	administrativeDistrict	Dresden
+Eilenburg	administrativeDistrict	Leipzig
+Sennelager	administrativeDistrict	Detmold (region)
+Marzahn	administrativeDistrict	Marzahn-Hellersdorf
+Rottenburg am Neckar	administrativeDistrict	Tübingen
+Bebra	administrativeDistrict	Kassel
+Neu-Isenburg	administrativeDistrict	Darmstadt (region)
+Neuweiler	administrativeDistrict	Karlsruhe (region)
+Seligenstadt	administrativeDistrict	Darmstadt (region)
+Hessigheim	administrativeDistrict	Stuttgart
+Pleidelsheim	administrativeDistrict	Stuttgart
+Eltville	administrativeDistrict	Darmstadt (region)
+Fuhlsbüttel	administrativeDistrict	Hamburg-Nord
+Besigheim	administrativeDistrict	Stuttgart (region)
+Affalterbach	administrativeDistrict	Stuttgart
+Forst (Baden)	administrativeDistrict	Karlsruhe (district)
+Karlsdorf-Neuthard	administrativeDistrict	Karlsruhe
+Kronau (Baden)	administrativeDistrict	Karlsruhe
+Walzbachtal	administrativeDistrict	Karlsruhe (district)
+Stutensee	administrativeDistrict	Karlsruhe
+Twistetal	administrativeDistrict	Kassel
+Dorsten	administrativeDistrict	Münster (region)
+Glauchau	administrativeDistrict	Chemnitz
+Limbach-Oberfrohna	administrativeDistrict	Chemnitz
+Willingen	administrativeDistrict	Kassel
+Neckarsulm	administrativeDistrict	Stuttgart
+Lorch, Hesse	administrativeDistrict	Darmstadt (region)
+Radeberg	administrativeDistrict	Dresden
+Schlangenbad	administrativeDistrict	Darmstadt (region)
+Töging am Inn	administrativeDistrict	Upper Bavaria
+Hartmannsdorf, Mittelsachsen	administrativeDistrict	Chemnitz
+Marienberg, Saxony	administrativeDistrict	Chemnitz
+Ahaus	administrativeDistrict	Münster (region)
+Gronau, North Rhine-Westphalia	administrativeDistrict	Münster (region)
+Isselburg	administrativeDistrict	Münster (region)
+Rhede	administrativeDistrict	Münster (region)
+Heiden, Germany	administrativeDistrict	Münster (region)
+Legden	administrativeDistrict	Münster (region)
+Raesfeld	administrativeDistrict	Münster (region)
+Südlohn	administrativeDistrict	Münster (region)
+Rees, Germany	administrativeDistrict	Düsseldorf
+Billerbeck	administrativeDistrict	Münster (region)
+Lüdinghausen	administrativeDistrict	Münster (region)
+Ascheberg	administrativeDistrict	Münster
+Havixbeck	administrativeDistrict	Münster
+Rosendahl	administrativeDistrict	Münster (region)
+Senden, North Rhine-Westphalia	administrativeDistrict	Münster (region)
+Weilerswist	administrativeDistrict	Cologne
+Schmallenberg	administrativeDistrict	Arnsberg
+Sundern	administrativeDistrict	Arnsberg
+Haselhorst	administrativeDistrict	Spandau (locality)
+Steinheim, Westphalia	administrativeDistrict	Detmold
+Schieder-Schwalenberg	administrativeDistrict	Detmold
+Kirchhundem	administrativeDistrict	Arnsberg
+Alsfeld	administrativeDistrict	Gießen
+Datteln	administrativeDistrict	Münster (region)
+Herten	administrativeDistrict	Münster (region)
+Oer-Erkenschwick	administrativeDistrict	Münster (region)
+Nehren, Baden-Württemberg	administrativeDistrict	Tübingen (district)
+Bad Laasphe	administrativeDistrict	Arnsberg
+Ense	administrativeDistrict	Arnsberg
+Möhnesee	administrativeDistrict	Arnsberg
+Wickede	administrativeDistrict	Arnsberg
+Emsdetten	administrativeDistrict	Münster (region)
+Ibbenbüren	administrativeDistrict	Münster (region)
+Lengerich, Westphalia	administrativeDistrict	Münster (region)
+Altenberge	administrativeDistrict	Münster (region)
+Hopsten	administrativeDistrict	Münster (region)
+Ladbergen	administrativeDistrict	Münster (region)
+Lienen	administrativeDistrict	Münster (region)
+Lotte, Germany	administrativeDistrict	Münster (region)
+Neuenkirchen, Westphalia	administrativeDistrict	Münster (region)
+Nordwalde	administrativeDistrict	Münster (region)
+Saerbeck	administrativeDistrict	Münster (region)
+Weissensee (Berlin)	administrativeDistrict	Pankow
+Beckum, Germany	administrativeDistrict	Münster (region)
+Drensteinfurt	administrativeDistrict	Münster (region)
+Sassenberg	administrativeDistrict	Münster (region)
+Sendenhorst	administrativeDistrict	Münster (region)
+Beelen	administrativeDistrict	Münster (region)
+Ennigerloh	administrativeDistrict	Münster (region)
+Everswinkel	administrativeDistrict	Münster (region)
+Ostbevern	administrativeDistrict	Münster (region)
+Wadersloh	administrativeDistrict	Münster (region)
+Erbach im Odenwald	administrativeDistrict	Darmstadt
+Kladow	administrativeDistrict	Spandau
+Schwieberdingen	administrativeDistrict	Stuttgart
+Ulm-Jungingen	administrativeDistrict	Tübingen (region)
+Märkisches Viertel	administrativeDistrict	Reinickendorf
+Titisee-Neustadt	administrativeDistrict	Freiburg im Breisgau
+Niendorf, Hamburg	administrativeDistrict	Eimsbüttel
+Plochingen	administrativeDistrict	Stuttgart
+Adelsheim	administrativeDistrict	Karlsruhe
+Ebsdorfergrund	administrativeDistrict	Gießen
+Weimar (Lahn)	administrativeDistrict	Gießen
+Haselbachtal	administrativeDistrict	Dresden
+Lohra	administrativeDistrict	Gießen
+Fronhausen	administrativeDistrict	Gießen (region)
+Bodelshausen	administrativeDistrict	Tübingen
+Elsen	administrativeDistrict	Detmold (region)
+Bietigheim-Bissingen	administrativeDistrict	Stuttgart
+Leonberg	administrativeDistrict	Stuttgart
+Dreieich	administrativeDistrict	Darmstadt (region)
+Wiesbaden-Breckenheim	administrativeDistrict	Darmstadt (region)
+Filderstadt	administrativeDistrict	Stuttgart
+Steglitz	administrativeDistrict	Steglitz-Zehlendorf
+Kirchheim unter Teck	administrativeDistrict	Stuttgart
+Freital	administrativeDistrict	Dresden
+Hermsdorf (Berlin)	administrativeDistrict	Reinickendorf
+Balingen	administrativeDistrict	Tübingen
+Dietzenbach	administrativeDistrict	Darmstadt (region)
+Langen, Hesse	administrativeDistrict	Darmstadt (region)
+Leinfelden-Echterdingen	administrativeDistrict	Stuttgart
+Mörfelden-Walldorf	administrativeDistrict	Darmstadt
+Todtnauberg	administrativeDistrict	Freiburg im Breisgau
+Kornwestheim	administrativeDistrict	Stuttgart
+Ostfildern	administrativeDistrict	Stuttgart
+Taunusstein	administrativeDistrict	Darmstadt (region)
+Vaihingen an der Enz	administrativeDistrict	Stuttgart
+Winnenden	administrativeDistrict	Stuttgart
+Mühlheim am Main	administrativeDistrict	Darmstadt (region)
+Weinstadt	administrativeDistrict	Stuttgart
+Weiterstadt	administrativeDistrict	Darmstadt
+Ditzingen	administrativeDistrict	Stuttgart
+Coswig, Saxony	administrativeDistrict	Dresden
+Markkleeberg	administrativeDistrict	Leipzig (district)
+Lichtenfels, Bavaria	administrativeDistrict	Upper Franconia
+Remseck	administrativeDistrict	Stuttgart
+Riedstadt	administrativeDistrict	Darmstadt
+Borken, Hesse	administrativeDistrict	Kassel
+Schwarzenberg, Saxony	administrativeDistrict	Chemnitz
+Borna	administrativeDistrict	Leipzig (district)
+Mössingen	administrativeDistrict	Tübingen
+Schwalmstadt	administrativeDistrict	Kassel
+Knittlingen	administrativeDistrict	Karlsruhe
+Bad Zwesten	administrativeDistrict	Kassel
+Edermünde	administrativeDistrict	Kassel
+Frielendorf	administrativeDistrict	Kassel
+Gilserberg	administrativeDistrict	Kassel
+Frankenberg, Saxony	administrativeDistrict	Chemnitz
+Alzenau	administrativeDistrict	Lower Franconia
+Schkeuditz	administrativeDistrict	Leipzig
+Buchen	administrativeDistrict	Karlsruhe
+Gerlingen	administrativeDistrict	Stuttgart
+Gudensberg	administrativeDistrict	Kassel
+Bad Wildungen	administrativeDistrict	Kassel
+Bad Friedrichshall	administrativeDistrict	Stuttgart
+Reinheim	administrativeDistrict	Darmstadt
+Guxhagen	administrativeDistrict	Kassel
+Künzelsau	administrativeDistrict	Stuttgart
+Korntal-Münchingen	administrativeDistrict	Stuttgart
+Schneeberg, Saxony	administrativeDistrict	Chemnitz
+Renningen	administrativeDistrict	Stuttgart
+Pohlheim	administrativeDistrict	Gießen
+Heidenau	administrativeDistrict	Dresden
+Hofgeismar	administrativeDistrict	Kassel
+Sünching	administrativeDistrict	Upper Palatinate
+Knüllwald	administrativeDistrict	Kassel
+Körle	administrativeDistrict	Kassel
+Malsfeld	administrativeDistrict	Kassel
+Melsungen	administrativeDistrict	Kassel
+Ebersbach an der Fils	administrativeDistrict	Stuttgart
+Bad Neustadt an der Saale	administrativeDistrict	Lower Franconia
+Morschen	administrativeDistrict	Kassel
+Wendlingen	administrativeDistrict	Stuttgart
+Freiberg am Neckar	administrativeDistrict	Stuttgart
+Ober-Ramstadt	administrativeDistrict	Darmstadt
+Rotenburg an der Fulda	administrativeDistrict	Kassel
+Kernen	administrativeDistrict	Stuttgart
+Neuental	administrativeDistrict	Kassel
+Taucha	administrativeDistrict	Leipzig
+Markgröningen	administrativeDistrict	Stuttgart
+Niedenstein	administrativeDistrict	Kassel
+Malsch	administrativeDistrict	Karlsruhe
+Bad Camberg	administrativeDistrict	Gießen (region)
+Hessisch Lichtenau	administrativeDistrict	Kassel
+Lohfelden	administrativeDistrict	Kassel
+Mühltal	administrativeDistrict	Darmstadt
+Groß-Zimmern	administrativeDistrict	Darmstadt
+Remshalden	administrativeDistrict	Stuttgart
+Buseck	administrativeDistrict	Gießen
+Büttelborn	administrativeDistrict	Darmstadt
+Wolfhagen	administrativeDistrict	Kassel
+Lich, Germany	administrativeDistrict	Gießen
+Markranstädt	administrativeDistrict	Leipzig (district)
+Oelsnitz, Erzgebirge	administrativeDistrict	Chemnitz
+Schwarzenborn, Hesse	administrativeDistrict	Kassel
+Spangenberg	administrativeDistrict	Kassel
+Denzlingen	administrativeDistrict	Freiburg im Breisgau
+Trebur	administrativeDistrict	Darmstadt
+Mülsen	administrativeDistrict	Chemnitz (region)
+Wabern	administrativeDistrict	Kassel
+Willingshausen	administrativeDistrict	Kassel
+Rochlitz	administrativeDistrict	Chemnitz
+Gemünden (Felda)	administrativeDistrict	Gießen
+Hungen	administrativeDistrict	Gießen
+Burgstädt	administrativeDistrict	Chemnitz
+Homberg (Ohm)	administrativeDistrict	Gießen (district)
+Mücke	administrativeDistrict	Gießen (district)
+Wernau	administrativeDistrict	Stuttgart
+Schotten	administrativeDistrict	Gießen
+Ulrichstein	administrativeDistrict	Gießen (district)
+Waldbronn	administrativeDistrict	Karlsruhe
+Linden, Hesse	administrativeDistrict	Gießen
+Fuldatal	administrativeDistrict	Kassel
+Wettenberg	administrativeDistrict	Gießen
+Asperg	administrativeDistrict	Stuttgart
+Zwönitz	administrativeDistrict	Chemnitz
+Roßdorf	administrativeDistrict	Darmstadt
+Langgöns	administrativeDistrict	Gießen
+Oestrich-Winkel	administrativeDistrict	Darmstadt (region)
+Tamm	administrativeDistrict	Stuttgart
+Geisenheim	administrativeDistrict	Darmstadt (region)
+Teningen	administrativeDistrict	Freiburg im Breisgau
+Linkenheim-Hochstetten	administrativeDistrict	Karlsruhe
+Flöha	administrativeDistrict	Chemnitz
+Bischoffen	administrativeDistrict	Gießen (district)
+Olbernhau	administrativeDistrict	Chemnitz
+Rudersberg	administrativeDistrict	Stuttgart
+Remchingen	administrativeDistrict	Karlsruhe
+Gärtringen	administrativeDistrict	Stuttgart
+Vilsbiburg	administrativeDistrict	Lower Bavaria
+Wandsbek (quarter)	administrativeDistrict	Wandsbek
+Ammerbuch	administrativeDistrict	Tübingen
+Welzheim	administrativeDistrict	Stuttgart
+Neuhausen auf den Fildern	administrativeDistrict	Stuttgart
+Neustadt in Sachsen	administrativeDistrict	Dresden
+Lößnitz	administrativeDistrict	Chemnitz
+Leutenbach, Baden-Württemberg	administrativeDistrict	Stuttgart
+Reiskirchen	administrativeDistrict	Gießen
+Biebertal	administrativeDistrict	Gießen
+Bannewitz	administrativeDistrict	Dresden
+Straubenhardt	administrativeDistrict	Karlsruhe
+Schauenburg, Hesse	administrativeDistrict	Kassel
+Oberderdingen	administrativeDistrict	Karlsruhe
+Niestetal	administrativeDistrict	Kassel
+Nauheim	administrativeDistrict	Darmstadt
+Weinböhla	administrativeDistrict	Dresden
+Möglingen	administrativeDistrict	Stuttgart
+Hüttenberg	administrativeDistrict	Gießen
+Korb	administrativeDistrict	Stuttgart
+Schönaich	administrativeDistrict	Stuttgart
+Denkendorf, Baden-Württemberg	administrativeDistrict	Stuttgart
+Lollar	administrativeDistrict	Gießen
+Hohenahr	administrativeDistrict	Gießen (district)
+Lahnau	administrativeDistrict	Gießen
+Schöffengrund	administrativeDistrict	Gießen (district)
+Sinn, Hesse	administrativeDistrict	Gießen
+Waldsolms	administrativeDistrict	Gießen (district)
+Höchst im Odenwald	administrativeDistrict	Darmstadt
+Aichtal	administrativeDistrict	Stuttgart
+Allendorf, Gießen	administrativeDistrict	Gießen
+Altenberg, Germany	administrativeDistrict	Dresden
+Augustusburg	administrativeDistrict	Chemnitz
+Bad Herrenalb	administrativeDistrict	Karlsruhe
+Bad Karlshafen	administrativeDistrict	Kassel
+Bad König	administrativeDistrict	Darmstadt
+Bad Lausick	administrativeDistrict	Leipzig (district)
+Bad Sooden-Allendorf	administrativeDistrict	Kassel
+Belgern	administrativeDistrict	Leipzig
+Brandis, Germany	administrativeDistrict	Leipzig (district)
+Breuberg	administrativeDistrict	Darmstadt
+Welda	administrativeDistrict	Detmold (region)
+Dahlen, Saxony	administrativeDistrict	Leipzig
+Dettelbach	administrativeDistrict	Lower Franconia
+Diemelstadt	administrativeDistrict	Kassel
+Dippoldiswalde	administrativeDistrict	Dresden
+Dornstetten	administrativeDistrict	Karlsruhe
+Ehrenfriedersdorf	administrativeDistrict	Chemnitz
+Elstra	administrativeDistrict	Dresden
+Elzach	administrativeDistrict	Freiburg im Breisgau
+Frohburg	administrativeDistrict	Leipzig (district)
+Geising	administrativeDistrict	Dresden
+Geithain	administrativeDistrict	Leipzig (district)
+Geringswalde	administrativeDistrict	Chemnitz
+Gernsheim	administrativeDistrict	Darmstadt (region)
+Grebenstein	administrativeDistrict	Kassel
+Groitzsch	administrativeDistrict	Leipzig (district)
+Großalmerode	administrativeDistrict	Kassel
+Groß-Bieberau	administrativeDistrict	Darmstadt
+Großbottwar	administrativeDistrict	Stuttgart
+Großröhrsdorf	administrativeDistrict	Dresden
+Herbolzheim	administrativeDistrict	Freiburg im Breisgau
+Hohnstein	administrativeDistrict	Dresden
+Immenhausen	administrativeDistrict	Kassel
+Kenzingen	administrativeDistrict	Freiburg im Breisgau
+Kitzscher	administrativeDistrict	Leipzig (district)
+Kohren-Sahlis	administrativeDistrict	Leipzig (district)
+Königsbrück	administrativeDistrict	Dresden
+Lengefeld	administrativeDistrict	Chemnitz
+Liebenau, Hesse	administrativeDistrict	Kassel
+Liebstadt	administrativeDistrict	Dresden
+Löffingen	administrativeDistrict	Freiburg im Breisgau
+Lugau	administrativeDistrict	Chemnitz
+Lunzenau	administrativeDistrict	Chemnitz
+Monheim, Bavaria	administrativeDistrict	Swabia
+Mügeln	administrativeDistrict	Leipzig
+Mutzschen	administrativeDistrict	Leipzig (district)
+Naumburg, Hesse	administrativeDistrict	Kassel
+Naunhof	administrativeDistrict	Leipzig (district)
+Nerchau	administrativeDistrict	Leipzig (district)
+Neuffen	administrativeDistrict	Stuttgart
+Niederstotzingen	administrativeDistrict	Stuttgart
+Oberlungwitz	administrativeDistrict	Chemnitz
+Oberriexingen	administrativeDistrict	Stuttgart
+Oederan	administrativeDistrict	Chemnitz
+Owen, Germany	administrativeDistrict	Stuttgart
+Penig	administrativeDistrict	Chemnitz
+Rabenau, Saxony	administrativeDistrict	Dresden
+Radeburg	administrativeDistrict	Dresden
+Regis-Breitingen	administrativeDistrict	Leipzig (district)
+Rötha	administrativeDistrict	Leipzig (district)
+Runkel	administrativeDistrict	Gießen station
+Schildau	administrativeDistrict	Leipzig
+Schönau im Schwarzwald	administrativeDistrict	Freiburg im Breisgau
+Sontra	administrativeDistrict	Kassel
+Stadtprozelten	administrativeDistrict	Lower Franconia
+Stadt Wehlen	administrativeDistrict	Dresden
+Staufenberg, Hesse	administrativeDistrict	Gießen
+Thalheim, Saxony	administrativeDistrict	Chemnitz
+Thum	administrativeDistrict	Chemnitz
+Todtnau	administrativeDistrict	Freiburg im Breisgau
+Trebsen	administrativeDistrict	Leipzig (district)
+Trendelburg	administrativeDistrict	Kassel
+Volkmarsen	administrativeDistrict	Kassel
+Waldenbuch	administrativeDistrict	Stuttgart
+Waldheim, Saxony	administrativeDistrict	Chemnitz
+Waldkappel	administrativeDistrict	Kassel
+Wildenfels	administrativeDistrict	Chemnitz (region)
+Wilthen	administrativeDistrict	Dresden
+Wolkenstein	administrativeDistrict	Chemnitz
+Edertal	administrativeDistrict	Kassel
+Zell im Wiesental	administrativeDistrict	Freiburg im Breisgau
+Zöblitz	administrativeDistrict	Chemnitz
+Steinigtwolmsdorf	administrativeDistrict	Dresden
+Vöhl	administrativeDistrict	Kassel
+Mariendorf	administrativeDistrict	Tempelhof-Schöneberg
+Wilhelmsburg, Hamburg	administrativeDistrict	Hamburg-Mitte
+Biebesheim am Rhein	administrativeDistrict	Darmstadt
+Hellersdorf	administrativeDistrict	Marzahn-Hellersdorf
+Burkau	administrativeDistrict	Dresden
+Gomaringen	administrativeDistrict	Tübingen
+Thiendorf	administrativeDistrict	Dresden
+Bollschweil	administrativeDistrict	Freiburg im Breisgau
+Kusterdingen	administrativeDistrict	Tübingen
+Angelbachtal	administrativeDistrict	Karlsruhe (district)
+Geyer	administrativeDistrict	Chemnitz
+Rosenthal (Berlin)	administrativeDistrict	Pankow
+Eilbek	administrativeDistrict	Wandsbek
+Beselich	administrativeDistrict	Gießen
+Eissen	administrativeDistrict	Detmold (region)
+Sulzbach an der Murr	administrativeDistrict	Stuttgart
+Dahlem (Berlin)	administrativeDistrict	Steglitz-Zehlendorf
+Botnang	administrativeDistrict	Stuttgart
+Finkenwerder	administrativeDistrict	Hamburg-Mitte
+Lehrberg	administrativeDistrict	Middle Franconia
+Staaken	administrativeDistrict	Spandau
+Westend (Berlin)	administrativeDistrict	Charlottenburg-Wilmersdorf
+Lichtenau, Bavaria	administrativeDistrict	Middle Franconia
+Glonn	administrativeDistrict	Upper Bavaria
+Epe, North Rhine-Westphalia	administrativeDistrict	Münster (region)
+Hengersberg	administrativeDistrict	Lower Bavaria
+Notzingen	administrativeDistrict	Stuttgart (region)
+Ottensen	administrativeDistrict	Altona, Hamburg
+Ottensen	administrativeDistrict	Hamburg
+Altona-Nord	administrativeDistrict	Altona, Hamburg
+Altona-Nord	administrativeDistrict	Hamburg
+Lichtenstein, Saxony	administrativeDistrict	Chemnitz
+Schliengen	administrativeDistrict	Freiburg im Breisgau
+Steinenbronn	administrativeDistrict	Stuttgart
+Nufringen	administrativeDistrict	Stuttgart
+Höfen an der Enz	administrativeDistrict	Karlsruhe (region)
+Ispringen	administrativeDistrict	Karlsruhe
+Sternenfels	administrativeDistrict	Karlsruhe (district)
+Wäschenbeuren	administrativeDistrict	Stuttgart
+Dettenheim	administrativeDistrict	Karlsruhe (district)
+Kürnbach	administrativeDistrict	Karlsruhe (district)
+Marxzell	administrativeDistrict	Karlsruhe (district)
+Sulzfeld, Baden-Württemberg	administrativeDistrict	Karlsruhe (district)
+Zaisenhausen	administrativeDistrict	Karlsruhe (district)
+Oberstenfeld	administrativeDistrict	Stuttgart
+Bietigheim (Baden)	administrativeDistrict	Karlsruhe
+Wannweil	administrativeDistrict	Tübingen
+Leibertingen	administrativeDistrict	Tübingen (region)
+Dußlingen	administrativeDistrict	Tübingen (district)
+Dettenhausen	administrativeDistrict	Tübingen (district)
+Hirrlingen	administrativeDistrict	Tübingen (district)
+Neustetten	administrativeDistrict	Tübingen (district)
+Kirchentellinsfurt	administrativeDistrict	Tübingen (district)
+Ofterdingen	administrativeDistrict	Tübingen (district)
+Starzach	administrativeDistrict	Tübingen (district)
+Tschirn	administrativeDistrict	Upper Franconia
+Altenbuch	administrativeDistrict	Lower Franconia
+Bürgstadt	administrativeDistrict	Lower Franconia
+Collenberg	administrativeDistrict	Lower Franconia
+Ampfing	administrativeDistrict	Upper Bavaria
+Lauterbach, Baden-Württemberg	administrativeDistrict	Freiburg im Breisgau
+Demitz-Thumitz	administrativeDistrict	Dresden
+Steingaden	administrativeDistrict	Upper Bavaria
+Stegen	administrativeDistrict	Freiburg im Breisgau
+Rodenberg (Samtgemeinde)	administrativeDistrict	Hanover (region)
+Schenklengsfeld	administrativeDistrict	Kassel
+Hohenfels, Bavaria	administrativeDistrict	Upper Palatinate
+Belgershain	administrativeDistrict	Leipzig (district)
+Fernwald	administrativeDistrict	Gießen
+Egelsbach	administrativeDistrict	Darmstadt (region)
+Mainhausen	administrativeDistrict	Darmstadt (region)
+Berkatal	administrativeDistrict	Kassel
+Herleshausen	administrativeDistrict	Kassel
+Meißner, Hesse	administrativeDistrict	Kassel
+Ringgau	administrativeDistrict	Kassel
+Wehretal	administrativeDistrict	Kassel
+Weißenborn, Hesse	administrativeDistrict	Kassel
+Neu-Eichenberg	administrativeDistrict	Kassel
+Alheim	administrativeDistrict	Kassel
+Niederaula	administrativeDistrict	Kassel
+Wildeck	administrativeDistrict	Kassel
+Bad Emstal	administrativeDistrict	Kassel
+Breuna	administrativeDistrict	Kassel
+Calden	administrativeDistrict	Kassel
+Espenau	administrativeDistrict	Kassel
+Fuldabrück	administrativeDistrict	Kassel
+Habichtswald, Hesse	administrativeDistrict	Kassel
+Nieste	administrativeDistrict	Kassel
+Oberweser	administrativeDistrict	Kassel
+Reinhardshagen	administrativeDistrict	Kassel
+Söhrewald	administrativeDistrict	Kassel
+Wahlsburg	administrativeDistrict	Kassel
+Villmar	administrativeDistrict	Gießen
+Waldbrunn, Hesse	administrativeDistrict	Gießen
+Aarbergen	administrativeDistrict	Darmstadt (region)
+Heidenrod	administrativeDistrict	Darmstadt (region)
+Hohenstein, Hesse	administrativeDistrict	Darmstadt (region)
+Hünstetten	administrativeDistrict	Darmstadt (region)
+Kiedrich	administrativeDistrict	Darmstadt (region)
+Waldems	administrativeDistrict	Darmstadt (region)
+Walluf	administrativeDistrict	Darmstadt (region)
+Zwochau	administrativeDistrict	Leipzig
+Ohorn	administrativeDistrict	Dresden
+Deutzen	administrativeDistrict	Leipzig (district)
+Espenhain	administrativeDistrict	Leipzig (district)
+Eulatal	administrativeDistrict	Leipzig (district)
+Großpösna	administrativeDistrict	Leipzig (district)
+Kitzen	administrativeDistrict	Leipzig (district)
+Narsdorf	administrativeDistrict	Leipzig (district)
+Neukieritzsch	administrativeDistrict	Leipzig (district)
+Mühlau, Germany	administrativeDistrict	Chemnitz
+Borsdorf	administrativeDistrict	Leipzig (district)
+Falkenhain	administrativeDistrict	Leipzig (district)
+Großbothen	administrativeDistrict	Leipzig (district)
+Hohburg	administrativeDistrict	Leipzig (district)
+Machern	administrativeDistrict	Leipzig (district)
+Otterwisch	administrativeDistrict	Leipzig (district)
+Parthenstein	administrativeDistrict	Leipzig (district)
+Thallwitz	administrativeDistrict	Leipzig (district)
+Thümmlitzwalde	administrativeDistrict	Leipzig (district)
+Bennewitz	administrativeDistrict	Leipzig (district)
+Reinhardtsdorf-Schöna	administrativeDistrict	Dresden
+Schmiedeberg, Saxony	administrativeDistrict	Dresden
+Hagelloch	administrativeDistrict	Tübingen
+Stuttgart-Feuerbach	administrativeDistrict	Stuttgart
+Lichterfelde (Berlin)	administrativeDistrict	Steglitz-Zehlendorf
+Kaulsdorf (Berlin)	administrativeDistrict	Marzahn-Hellersdorf
+Altglienicke	administrativeDistrict	Treptow-Köpenick
+St. Georg, Hamburg	administrativeDistrict	Hamburg-Mitte
+Neugraben-Fischbek	administrativeDistrict	Harburg, Hamburg
+Neugraben-Fischbek	administrativeDistrict	Hamburg
+Blankenese	administrativeDistrict	Hamburg-Altona station
+Blankenese	administrativeDistrict	Hamburg
+Steinsfurt	administrativeDistrict	Karlsruhe (region)
+Schwalldorf	administrativeDistrict	Tübingen
+Bahrenfeld	administrativeDistrict	Altona, Hamburg
+Obernau (Rottenburg)	administrativeDistrict	Tübingen (district)
+Hailfingen	administrativeDistrict	Tübingen (district)
+Wurmlingen (Rottenburg)	administrativeDistrict	Tübingen
+Kiebingen	administrativeDistrict	Tübingen
+Wendelsheim (Rottenburg)	administrativeDistrict	Tübingen
+Oberndorf (Rottenburg)	administrativeDistrict	Tübingen
+Langenhorn, Hamburg	administrativeDistrict	Hamburg-Nord
+Poppenbüttel	administrativeDistrict	Wandsbek
+Cranz, Hamburg	administrativeDistrict	Harburg, Hamburg
+Cranz, Hamburg	administrativeDistrict	Hamburg
+Allermöhe	administrativeDistrict	Bergedorf
+Alsterdorf	administrativeDistrict	Hamburg-Nord
+Altenwerder	administrativeDistrict	Harburg, Hamburg
+Othmarschen	administrativeDistrict	Altona, Hamburg
+Othmarschen	administrativeDistrict	Hamburg
+Eimsbüttel (quarter)	administrativeDistrict	Eimsbüttel
+Nienstedten	administrativeDistrict	Altona, Hamburg
+Nienstedten	administrativeDistrict	Hamburg
+Altengamme	administrativeDistrict	Bergedorf
+Lohbrügge	administrativeDistrict	Bergedorf
+Lurup	administrativeDistrict	Altona, Hamburg
+Osdorf, Hamburg	administrativeDistrict	Altona, Hamburg
+Rotherbaum	administrativeDistrict	Eimsbüttel
+Darmstadt-Eberstadt	administrativeDistrict	Darmstadt
+Mickten	administrativeDistrict	Pieschen
+Heinersdorf	administrativeDistrict	Pankow
+Pulsnitz	administrativeDistrict	Dresden
+Kesselsdorf	administrativeDistrict	Dresden
+Iserbrook	administrativeDistrict	Altona, Hamburg
+Iserbrook	administrativeDistrict	Hamburg
+Äußere Neustadt	administrativeDistrict	Dresden
+Sülldorf	administrativeDistrict	Altona, Hamburg
+Kleiner Grasbrook	administrativeDistrict	Hamburg-Mitte
+Winterhude	administrativeDistrict	Hamburg-Nord
+Horn, Hamburg	administrativeDistrict	Hamburg-Mitte
+Billstedt	administrativeDistrict	Hamburg-Mitte
+Halensee	administrativeDistrict	Charlottenburg-Wilmersdorf
+Rahlstedt	administrativeDistrict	Wandsbek
+Siemensstadt	administrativeDistrict	Spandau
+Mitte (locality)	administrativeDistrict	Mitte
+Pankow (locality)	administrativeDistrict	Pankow
+Lichtenberg (locality)	administrativeDistrict	Lichtenberg
+Spandau (locality)	administrativeDistrict	Spandau
+Reinickendorf (locality)	administrativeDistrict	Reinickendorf
+Neukölln (locality)	administrativeDistrict	Neukölln
+Gesundbrunnen	administrativeDistrict	Mitte
+Dössel	administrativeDistrict	Detmold (region)
+Heppendorf	administrativeDistrict	Cologne
+Neuengamme	administrativeDistrict	Bergedorf
+Wellingsbüttel	administrativeDistrict	Wandsbek
+Harburg (quarter)	administrativeDistrict	Harburg, Hamburg
+Charlottenburg-Nord	administrativeDistrict	Charlottenburg-Wilmersdorf
+Francop	administrativeDistrict	Harburg, Hamburg
+Hamburg-Eppendorf	administrativeDistrict	Hamburg-Nord
+Bohnsdorf	administrativeDistrict	Treptow-Köpenick
+Alt-Treptow	administrativeDistrict	Treptow-Köpenick
+Alt-Hohenschönhausen	administrativeDistrict	Lichtenberg
+Waidmannslust	administrativeDistrict	Reinickendorf
+Schmargendorf	administrativeDistrict	Charlottenburg-Wilmersdorf
+Nikolassee	administrativeDistrict	Steglitz-Zehlendorf
+Gropiusstadt	administrativeDistrict	Neukölln
+Müggelheim	administrativeDistrict	Treptow-Köpenick
+Neu-Hohenschönhausen	administrativeDistrict	Lichtenberg
+Wittenau	administrativeDistrict	Reinickendorf
+Malchow (Berlin)	administrativeDistrict	Lichtenberg
+Buch (Berlin)	administrativeDistrict	Pankow
+Schmöckwitz	administrativeDistrict	Treptow-Köpenick
+Rahnsdorf	administrativeDistrict	Treptow-Köpenick
+Blankenfelde	administrativeDistrict	Pankow
+Französisch Buchholz	administrativeDistrict	Pankow
+Johannisthal (Berlin)	administrativeDistrict	Treptow-Köpenick
+Oberschöneweide	administrativeDistrict	Treptow-Köpenick
+Hakenfelde	administrativeDistrict	Spandau
+Fennpfuhl	administrativeDistrict	Lichtenberg
+Stadtrandsiedlung Malchow	administrativeDistrict	Pankow
+Lübars	administrativeDistrict	Reinickendorf
+Konradshöhe	administrativeDistrict	Reinickendorf
+Niederschöneweide	administrativeDistrict	Treptow-Köpenick
+Karow (Berlin)	administrativeDistrict	Pankow
+Lankwitz	administrativeDistrict	Steglitz-Zehlendorf
+Lichtenrade	administrativeDistrict	Tempelhof-Schöneberg
+Buckow (Berlin)	administrativeDistrict	Neukölln
+Mahlsdorf	administrativeDistrict	Marzahn-Hellersdorf
+Wilhelmstadt	administrativeDistrict	Spandau
+Falkenhagener Feld	administrativeDistrict	Spandau
+Friedrichshagen	administrativeDistrict	Treptow-Köpenick
+Rudow	administrativeDistrict	Neukölln
+Biesdorf (Berlin)	administrativeDistrict	Marzahn-Hellersdorf
+Grünau (Berlin)	administrativeDistrict	Treptow-Köpenick
+Plänterwald	administrativeDistrict	Treptow-Köpenick
+Baumschulenweg	administrativeDistrict	Treptow-Köpenick
+Niederschönhausen	administrativeDistrict	Pankow
+Friedrichsfelde	administrativeDistrict	Lichtenberg
+Wartenberg (Berlin)	administrativeDistrict	Lichtenberg
+Falkenberg (Berlin)	administrativeDistrict	Lichtenberg
+Wilhelmsruh	administrativeDistrict	Pankow
+Blankenburg (Berlin)	administrativeDistrict	Pankow
+Hoetmar	administrativeDistrict	Münster (region)
+Wilgersdorf	administrativeDistrict	Arnsberg (region)
+Cronheim	administrativeDistrict	Middle Franconia
+Würzburg	administrativeDistrict	Lower Franconia
+Saasen (Reiskirchen)	administrativeDistrict	Gießen (district)

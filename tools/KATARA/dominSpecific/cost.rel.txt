@@ -1,0 +1,2871 @@
+Empire State Building	cost	4.09489E7
+Fenway Park	cost	650000.0
+Cardiff Arms Park  1	cost	9.0
+Melbourne Cricket Ground	cost	1.5E8
+Melbourne Cricket Ground	cost	4.45E8
+Manchester United F.C.  Old Trafford   1	cost	90000.0
+Shea Stadium	cost	2.85E7
+London Eye	cost	7.0E7
+USS John C. Stennis (CVN-74)	cost	4.5E9
+USS Constitution	cost	302718.0
+Millennium Dome	cost	7.89E8
+Yankee Stadium (1923)	cost	2400000.0
+Yankee Stadium (1923)	cost	1.67E8
+Wrigley Field	cost	250000.0
+John Hancock Center	cost	1.0E8
+Aon Center (Chicago)	cost	1.2E8
+RMS Queen Elizabeth 2	cost	2.9091E7
+Gateway Arch	cost	1.3E7
+Japanese aircraft carrier Kaga	cost	5.3E7
+Madison Square Garden	cost	1.23E8
+Sun Devil Stadium	cost	1000000.0
+SS Great Britain	cost	70000.0
+SS Great Britain	cost	117000.0
+Busch Memorial Stadium	cost	2.5E7
+Mall of America	cost	6.5E8
+Dodger Stadium	cost	2.3E7
+Wembley Stadium (1923)	cost	750000.0
+Tokyo Tower	cost	2.8E9
+Tokyo Tower	cost	8400000.0
+Lambeau Field	cost	960000.0
+Lambeau Field	cost	2.95E8
+USS George H.W. Bush (CVN-77)	cost	6.2E9
+Spire of Dublin	cost	4000000.0
+Rogers Centre	cost	5.7E8
+Candlestick Park	cost	1.5E7
+Aker Stadion	cost	2.12E8
+One Canada Square	cost	2.16E8
+USS Texas (1892)	cost	4202121.49
+USS Arizona (BB-39)	cost	1.6E7
+USS Texas (BB-35)	cost	5830000.0
+Japanese aircraft carrier Akagi	cost	5.3E7
+HTMS Chakri Naruebet	cost	3.36E8
+USS Iowa (BB-4)	cost	3000000.0
+USS Maine (ACR-1)	cost	4677788.75
+USS Nevada (BB-36)	cost	5895000.0
+HMS Canopus (1897)	cost	921316.0
+USS Dwight D. Eisenhower (CVN-69)	cost	6.79E8
+NS Savannah	cost	4.69E7
+NS Savannah	cost	2.83E7
+USS Enterprise (CVN-65)	cost	4.513E8
+USS United States (1797)	cost	299336.0
+USS North Carolina (BB-55)	cost	7.688575E7
+USS Tuscaloosa (CA-37)	cost	1.1E7
+Taipei 101	cost	5.8E10
+Taipei 101	cost	1.8E9
+CenturyLink Field	cost	4.3E8
+USS Bennington (PG-4)	cost	490000.0
+Bell Centre	cost	2.7E8
+USS Forrestal (CV-59)	cost	2.0E8
+USS Saratoga (CV-60)	cost	2.097E8
+Scandinavium	cost	3.1E7
+Santiago Bernabéu Stadium	cost	2.88342653E8
+USS Theodore Roosevelt (CVN-71)	cost	4.5E9
+SS Savannah	cost	50000.0
+Target Center	cost	1.04E8
+Hubert H. Humphrey Metrodome	cost	6.8E7
+Metropolitan Stadium	cost	8500000.0
+Xcel Energy Center	cost	1.3E8
+Chase Field	cost	3.54E8
+Lincoln Financial Field	cost	5.12E8
+US Airways Center	cost	9.0E7
+USS Congress (1799)	cost	197246.0
+Nippon Budokan	cost	2.0E9
+Nippon Budokan	cost	5600000.0
+Rose Garden (arena)	cost	2.62E8
+Sky Tower	cost	5.0E7
+Sky Tower	cost	7.6E7
+Woolworth Building	cost	1.35E7
+Veterans Stadium	cost	5.0E7
+Reliant Astrodome	cost	3.5E7
+American Airlines Center	cost	4.2E8
+Minute Maid Park	cost	2.5E8
+USS Harry S. Truman (CVN-75)	cost	4.5E9
+Rideau Hall	cost	82000.0
+Arrowhead Stadium	cost	4.3E7
+Arrowhead Stadium	cost	3.75E8
+Arsenal Stadium	cost	125000.0
+Arsenal Stadium	cost	175000.0
+Arsenal Stadium	cost	22.5
+USS Powhatan (1850)	cost	785000.0
+HMS Guardian (1932)	cost	333595.0
+Reliant Stadium	cost	3.52E8
+Lakewood Church Central Campus	cost	2.7E7
+Scotiabank Place	cost	1.7E8
+Stadium of Light	cost	2.3E7
+Giants Stadium	cost	7.8E7
+USS Constellation (1797)	cost	314212.0
+Croke Park	cost	2.6E8
+American Airlines Arena	cost	2.13E8
+Pepsi Center	cost	1.6E8
+Rangers Ballpark in Arlington	cost	1.91E8
+Arlington Stadium	cost	1900000.0
+Comerica Park	cost	3.0E8
+Tiger Stadium (Detroit)	cost	300000.0
+Progressive Field	cost	1.75E8
+Kauffman Stadium	cost	7.0E7
+Kauffman Stadium	cost	2.5E8
+O.co Coliseum	cost	2.55E7
+O.co Coliseum	cost	2.0E8
+Oriole Park at Camden Yards	cost	1.1E8
+Don Valley Stadium	cost	2.9E7
+Parliament House, Canberra	cost	1.1E9
+Stadium Australia	cost	6.9E8
+Citizens Bank Park	cost	4.58E8
+HMS Enterprise (1848)	cost	24545.0
+HMS Enterprise (1864)	cost	62464.0
+M&T Bank Stadium	cost	2.2E8
+Moshe Aviv Tower	cost	1.3E8
+Safeco Field	cost	5.176E8
+Palace of the Parliament	cost	1.0E10
+Lockhart Stadium	cost	5000000.0
+AT&T Park	cost	3.57E8
+Sun Life Stadium	cost	1.15E8
+Brazilian aircraft carrier Minas Gerais  yes   1	cost	2.7E7
+HMS Warrior (1860)	cost	377292.0
+Turner Field	cost	2.09E8
+Superior Dome	cost	2.39E7
+Flying Cloud (clipper)	cost	90000.0
+National Exhibition Centre  LG Arena   1	cost	2.9E7
+Crystal Palace F.C.  Selhurst Park   1	cost	30000.0
+MS Chi-Cheemaun	cost	1.0E7
+HSBC Main Building, Hong Kong	cost	5.2E9
+Autzen Stadium	cost	2500000.0
+Autzen Stadium	cost	8.0E7
+FedEx Field	cost	2.505E8
+MS Adventure of the Seas	cost	5.0E8
+Belcourt Castle	cost	3200000.0
+USS Ranger (CV-61)	cost	1.82E8
+USS Independence (CV-62)	cost	1.823E8
+USS Triton (SSRN-586)	cost	1.09E8
+Daegu Stadium	cost	2.65E8
+Seoul World Cup Stadium	cost	2.0E8
+Angel Stadium of Anaheim	cost	2.4E7
+Angel Stadium of Anaheim	cost	1.18E8
+Time Warner Cable Arena	cost	2.6E8
+Charlotte Coliseum	cost	5.2E7
+Portland Building	cost	2.9E7
+HMAS Queenborough (G70)	cost	725000.0
+HMS Victorious (R38)	cost	4050000.0
+Air Canada Centre	cost	2.65E8
+Estádio do Dragão	cost	9.8E7
+Veltins-Arena	cost	1.92E8
+Miami Orange Bowl	cost	340000.0
+Olympic Oval	cost	3.89E7
+Gillette Stadium	cost	3.25E8
+HMS Triumph (1903)	cost	957520.0
+Edward Jones Dome	cost	2.8E8
+Great American Ball Park	cost	2.9E8
+Tampa Stadium	cost	4100000.0
+Tampa Stadium	cost	1.3E7
+HMS Goliath (1898)	cost	920806.0
+SS United States	cost	7.8E7
+Williams Tower	cost	3.0E8
+Football Park	cost	6.6
+Columbus Crew Stadium	cost	2.85E7
+USS Suwanee (1864)	cost	171000.0
+LP Field	cost	2.9E8
+Britannia Stadium	cost	1.47E7
+HMS Imogen (D44)	cost	256917.0
+HMS Imperial (D09)	cost	257117.0
+HMS Ivanhoe (D16)	cost	259371.0
+HMS Ilex (D61)	cost	255072.0
+HMS Hostile (H55)	cost	253382.0
+Coca-Cola Field	cost	4.2E7
+HMS Hotspur (H01)	cost	253037.0
+HMS Griffin (H31)	cost	248518.0
+HMS Grenville (H03)	cost	275412.0
+HMS Hunter (H35)	cost	253167.0
+USS President (1800)	cost	220910.0
+HMS Courageous (50)	cost	2038225.0
+HMS Glorious	cost	1967223.0
+HMS Rodney (29)	cost	7617000.0
+HMS Renown (1916)	cost	3117204.0
+Lloyd's building	cost	7.5E7
+Robert F. Kennedy Memorial Stadium	cost	2.0E7
+HMS Conqueror (1911)	cost	1891164.0
+HMS Thunderer (1911)	cost	1892823.0
+HMS Monarch (1911)	cost	1888736.0
+HMS Irresistible (1898)	cost	1112636.0
+HSBC Arena (Buffalo)	cost	1.275E8
+TD Garden	cost	1.6E8
+Tropicana Field	cost	1.3E8
+Invesco Field at Mile High	cost	3.649E8
+Eureka Tower	cost	415.0
+Celtic Park	cost	22.0
+Manchester Town Hall	cost	775000.0
+Manchester Evening News Arena	cost	5.2E7
+KC Stadium	cost	4.4E7
+Staples Center	cost	3.75E8
+Estádio Municipal de Braga	cost	8.31E7
+Nassau Veterans Memorial Coliseum	cost	3.1E7
+USS Essex (1799)	cost	139362.0
+Villa Park	cost	16733.0
+Sydney Football Stadium	cost	68.0
+Sydney Tower	cost	3.6E7
+Goodison Park	cost	3000.0
+HMS Hood (1891)	cost	926396.0
+The Home Depot Center	cost	1.5E8
+Citrus Bowl	cost	115000.0
+Citrus Bowl	cost	3.8E7
+Pride Park Stadium	cost	2.8E7
+Docklands Stadium	cost	4.6E8
+United Center	cost	1.75E8
+Comiskey Park	cost	750000.0
+City of Manchester Stadium	cost	1.1E8
+City of Manchester Stadium	cost	3.0E7
+Maine Road	cost	100000.0
+Olympic Stadium (Montreal)	cost	7.7E8
+Olympic Stadium (Montreal)	cost	1.47E9
+Texas Stadium	cost	3.5E7
+Williams Arena	cost	650000.0
+John Labatt Centre	cost	4.2E7
+National Centre for Popular Music	cost	1.5E7
+USS Minneapolis (CA-36)	cost	11.0
+Riverfront Stadium	cost	4.5E7
+Verizon Center	cost	2.6E8
+SS Canberra	cost	1.6E7
+Broadcasting House	cost	500000.0
+Husky Stadium	cost	600000.0
+Husky Stadium	cost	2.5E8
+Cotton Bowl (stadium)	cost	328200.0
+Joe Louis Arena	cost	5.7E7
+Waverley Park	cost	3.0
+Montreal Forum	cost	1500000.0
+The Palace of Auburn Hills	cost	7.0E7
+Coors Field	cost	3.0E8
+Foxboro Stadium	cost	7100000.0
+St. Pete Times Forum	cost	1.39E8
+Conseco Fieldhouse	cost	1.83E8
+Izod Center	cost	8.5E7
+Bears & Eagles Riverfront Stadium	cost	3.0E7
+Ebbets Field	cost	750000.0
+Louisiana Superdome	cost	1.34E8
+Louisiana Superdome	cost	1.93E8
+HMS Vanguard (23)	cost	1.1530503E7
+Paul Brown Stadium	cost	3.5E8
+EverBank Field	cost	1.21E8
+Bank of America Stadium	cost	2.48E8
+Cleveland Browns Stadium	cost	2.83E8
+Heinz Field	cost	2.81E8
+Boston Garden	cost	4000000.0
+Forbes Field	cost	1.0
+Sick's Stadium	cost	350000.0
+U.S. Cellular Field	cost	1.67E8
+U.S. Cellular Field	cost	1.18E8
+Kingdome	cost	6.7E7
+Kezar Stadium	cost	300000.0
+Qualcomm Stadium	cost	2.7E7
+Shibe Park	cost	301000.0
+Liberty Bowl Memorial Stadium	cost	3700000.0
+Liberty Bowl Memorial Stadium	cost	1.95E7
+Bridgestone Arena	cost	1.44E8
+FedExForum	cost	2.5E8
+Legion Field	cost	439000.0
+Los Angeles Memorial Coliseum	cost	954869.0
+Bowman Field (stadium)	cost	75000.0
+James Craig (barque)	cost	11375.0
+San Jose Municipal Stadium	cost	80000.0
+KeyArena	cost	7.45E7
+Letzigrund  new stadium   1	cost	1.2E8
+Spartan Stadium (San Jose)	cost	1500000.0
+Michie Stadium	cost	300000.0
+Sun Bowl Stadium	cost	275000.0
+Isotopes Park	cost	2.5E7
+USS Benham (DD-49)	cost	790000.0
+Old Trafford	cost	90000.0
+HP Pavilion at San Jose	cost	1.625E8
+The Hawthorns	cost	7500000.0
+BBC Television Centre	cost	10.0
+Trump International Hotel and Tower (Chicago)	cost	8.47E8
+Nationwide Arena	cost	1.75E8
+Selhurst Park	cost	30000.0
+Hershey Centre	cost	2.2E7
+Millau Viaduct	cost	300.0
+Sportsman's Park	cost	300000.0
+Sportsman's Park	cost	500000.0
+AutoZone Park	cost	8.05E7
+Franklin Field	cost	100000.0
+HMS Prince of Wales (1902)	cost	1185744.0
+Milwaukee County Stadium	cost	5000000.0
+Petco Park	cost	4.5E8
+Scotiabank Saddledome	cost	9.77E7
+First Hawaiian Center	cost	1.75E8
+Ralph Wilson Stadium	cost	2.2E7
+SS Cuba (1920)  SS Cuba   1	cost	400000.0
+Mutual Street Arena	cost	500000.0
+Emirates Stadium	cost	3.9E8
+Emirates Stadium	cost	4.7E8
+Ronald Reagan Building and International Trade Center	cost	7.68E8
+Memorial Stadium, Clemson	cost	125000.0
+Three Rivers Stadium	cost	5.5E7
+PNC Park	cost	2.16E8
+Atatürk Olympic Stadium	cost	1.5E8
+Reser Stadium	cost	1000000.0
+Reser Stadium	cost	8.0E7
+Quicken Loans Arena	cost	1.0E8
+Carrier Dome	cost	2.8E7
+Byrd Stadium	cost	1000000.0
+Miller Park (Milwaukee)	cost	4.0E8
+Ford Field	cost	4.3E8
+Raymond James Stadium	cost	1.685E8
+Georgia Dome	cost	2.14E8
+RCA Dome	cost	7.75E7
+Cleveland Stadium	cost	3000000.0
+Exhibition Stadium	cost	1.76E7
+Maple Leaf Gardens	cost	1500000.0
+Power Balance Pavilion	cost	4.0E7
+Oracle Arena	cost	1.21E8
+AT&T Center	cost	1.86E8
+New Orleans Arena	cost	1.14E8
+Amway Arena	cost	1.1E8
+Philips Arena	cost	2.135E8
+Wolstein Center	cost	5.5E7
+Wells Fargo Center (Philadelphia)	cost	2.1E8
+Honda Center	cost	1.23E8
+Jobing.com Arena	cost	1.8E8
+BankAtlantic Center	cost	1.85E8
+Civic Arena (Pittsburgh)	cost	2.2E7
+RBC Center	cost	1.58E8
+Cameron Indoor Stadium	cost	400000.0
+Allen Fieldhouse	cost	2500000.0
+Pauley Pavilion	cost	5000000.0
+Rogers Arena	cost	1.6E8
+Rexall Place	cost	1.73E7
+Spectrum (arena)	cost	7000000.0
+Cincinnati Gardens	cost	3.2E7
+Rheinpark Stadion	cost	1.9E7
+Atlanta-Fulton County Stadium	cost	1.8E7
+Silverdome	cost	5.57E7
+Baker Bowl	cost	80000.0
+Crosley Field	cost	225000.0
+Terminal Tower	cost	1.79E8
+Memorial Stadium (Baltimore)	cost	6500000.0
+War Memorial Stadium (Buffalo)	cost	3000000.0
+Commonwealth Stadium (Edmonton)	cost	2.09E7
+Commonwealth Stadium (Edmonton)	cost	2.217E7
+Commonwealth Stadium (Edmonton)	cost	9.25E7
+Commonwealth Stadium (Kentucky)	cost	1.2E7
+Mile High Stadium	cost	500000.0
+Municipal Stadium (Kansas City)	cost	400000.0
+Stade de France	cost	2.9E8
+Pitt Stadium	cost	2100000.0
+Alamodome	cost	1.86E8
+Alexander Memorial Coliseum	cost	1600000.0
+Alumni Stadium	cost	250000.0
+Buffalo Memorial Auditorium	cost	2700000.0
+Percival Molson Memorial Stadium	cost	100000.0
+Chicago Stadium	cost	9500000.0
+Ottawa Civic Centre	cost	9500000.0
+Colt Stadium	cost	2000000.0
+Columbia Park	cost	35000.0
+Fawcett Stadium	cost	500000.0
+Harvard Stadium	cost	310000.0
+The Forum (Inglewood)	cost	1.6E7
+Hilltop Park	cost	200000.0
+Kemper Arena	cost	2.3E7
+Robertson Stadium	cost	650000.0
+Kiel Auditorium	cost	6000000.0
+Los Angeles Memorial Sports Arena	cost	8500000.0
+McNichols Sports Arena	cost	1.0E7
+Market Square Arena	cost	2.3E7
+Memorial Stadium (Champaign)	cost	1700000.0
+Memorial Coliseum (Portland)	cost	8000000.0
+Miami Arena	cost	5.25E7
+Pacific Coliseum	cost	6000000.0
+Reunion Arena	cost	2.7E7
+St. Louis Arena	cost	2000000.0
+Salt Palace	cost	9.3E7
+Seals Stadium	cost	600000.0
+Tacoma Dome	cost	4.4E7
+U.S. Cellular Arena	cost	1.0E7
+Vanderbilt Stadium	cost	1500000.0
+Winnipeg Arena	cost	2500000.0
+Yale Bowl	cost	750000.0
+Alamo Stadium	cost	500000.0
+BC Place Stadium	cost	1.26E8
+BC Place Stadium	cost	5.63E8
+Canad Inns Stadium	cost	483000.0
+Clarke Stadium	cost	7000.0
+International Amphitheatre	cost	1500000.0
+McMahon Stadium	cost	1050000.0
+Jeld-Wen Field	cost	3.6E7
+Sam Boyd Stadium	cost	3500000.0
+Sam Boyd Stadium	cost	1200000.0
+Estádio José Alvalade	cost	1.05E8
+Ohio Stadium	cost	1340000.0
+Melbourne Convention and Exhibition Centre	cost	1.29E8
+Melbourne Convention and Exhibition Centre	cost	1.25E8
+Shard London Bridge	cost	4.5E8
+HMS Princess Royal (1911)	cost	2076222.0
+Calgary Tower	cost	3500000.0
+Páirc Uí Chaoimh	cost	2000000.0
+Burj Khalifa	cost	1.5E9
+English ship Revenge (1577)	cost	4000.0
+Nashville Municipal Auditorium	cost	5000000.0
+Blackbaud Stadium	cost	5700000.0
+Red Bull Arena (New Jersey)	cost	180.0
+Dick's Sporting Goods Park	cost	1.31E8
+Toyota Park (Bridgeview)	cost	9.8E7
+USS Chesapeake (1799)	cost	220677.0
+De Grolsch Veste	cost	5.0E7
+Tuntex Sky Tower	cost	5.0E9
+Rupp Arena	cost	5.3E7
+Colonial Life Arena	cost	6.4E7
+York Park	cost	23.6
+Olympic Stadium (Berlin)	cost	2.47E8
+Millennium Stadium	cost	1.21E8
+Madejski Stadium	cost	50.0
+Tokyo Metropolitan Government Building	cost	1.57E11
+United States lightship Chesapeake (LV-116)	cost	274434.0
+HMS Agincourt (1913)  HMS Agincourt   1	cost	2900000.0
+SS Sir Walter Scott	cost	4269.0
+Principal Park	cost	1.2E7
+Jeremiah Morrow Bridge    1	cost	8.81E7
+International Stadium Yokohama	cost	6.03E10
+Hood Canal Bridge	cost	2.66E7
+California Memorial Stadium	cost	1400000.0
+Sunlight Park	cost	7000.0
+The Dell (Southampton)	cost	7000.0
+St Mary's Stadium	cost	3.2E7
+Pampeloponnisiako Stadium	cost	3.0E7
+Pankritio Stadium	cost	5.0E7
+Panthessaliko Stadium	cost	5.0E7
+Michigan Stadium	cost	950000.0
+Bobby Dodd Stadium	cost	15000.0
+Bobby Dodd Stadium	cost	7.5E7
+Olympic Stadium (Athens)	cost	2.65E8
+Amon G. Carter Stadium	cost	115.0
+USS Providence (1775)	cost	1250.0
+Memorial Gymnasium (Vanderbilt University)	cost	1500000.0
+White Hart Lane	cost	100500.0
+Estádio Dr. Magalhães Pessoa	cost	2.02E7
+Allen Arena	cost	1.65E7
+Citigroup Center	cost	1.95E8
+HMS Albemarle (1901)	cost	1078395.0
+Copps Coliseum	cost	4.27E7
+BayArena	cost	7.0E7
+Cajundome	cost	6.0E7
+HMS Africa (1905)	cost	1420040.0
+Amsterdam Arena	cost	1.4E8
+Government House (Manitoba)	cost	24000.0
+Albert Dock	cost	782265.0
+Port of Liverpool Building	cost	250000.0
+Falmer Stadium	cost	1.05E8
+Sahlen's Stadium	cost	3.5E7
+Arthur Ashe Stadium	cost	2.54E8
+Verizon Wireless Arena	cost	6.0E7
+MTS Centre	cost	1.335E8
+Comcast Center (arena)	cost	1.25E8
+Bobby Bowden Field at Doak Campbell Stadium	cost	250000.0
+McCoy Stadium	cost	1.4914E7
+Nippert Stadium	cost	1.05E7
+Estádio do Bessa	cost	3.1E7
+High Point Solutions Stadium	cost	2.8E7
+Rice–Eccles Stadium	cost	5.0E7
+Adams Park	cost	3.5
+Newcastle Entertainment Centre	cost	12.0
+Estadio Universitario	cost	2.3E7
+Mountaineer Field at Milan Puskar Stadium	cost	2.2E7
+Liverpool Institute for Performing Arts	cost	20.0
+HMS Defence (1907)	cost	1362970.0
+Sanford Stadium	cost	360000.0
+Hammons Field	cost	3.2E7
+Bosse Field	cost	65000.0
+USS Camden (AOE-2)	cost	4.58E8
+CSS Rappahannock	cost	45450.0
+HMS Tiger (1913)	cost	2593100.0
+Mile One Centre	cost	3.5E7
+Wyoming State Capitol	cost	150000.0
+USS Sequoia (presidential yacht)	cost	200000.0
+Mizzou Arena	cost	7.5E7
+HMS Agamemnon (1781)	cost	38303.0
+Stanley Park Stadium	cost	4.0E8
+London Road Fire Station, Manchester	cost	142000.0
+Lang Park	cost	280.0
+Rose Bowl (stadium)	cost	272198.0
+HMS Victoria (1887)	cost	845000.0
+McArthur Court	cost	5000000.0
+Stanford Stadium	cost	9.0E7
+Stanford Stadium	cost	200000.0
+USS New Ironsides	cost	780000.0
+Hong Kong Stadium	cost	8.51E7
+Motorpoint Arena Sheffield	cost	3.4E7
+Riverside Stadium	cost	1.6E7
+Raley Field	cost	4.2E7
+Arena at Gwinnett Center	cost	9.15E7
+Walsall Art Gallery	cost	2.1E7
+Blue Cross Arena	cost	7500000.0
+Blue Cross Arena	cost	4.1E7
+José Miguel Agrelot Coliseum	cost	2.92E8
+Penshaw Monument	cost	6000.0
+Westpac Stadium	cost	1.3E8
+Varsity Stadium	cost	6.17E7
+Carnival Paradise	cost	3.0E8
+Reed Arena	cost	3.6E7
+HMS Britannia (1904)	cost	1408053.0
+MV Queen of New Westminster	cost	3500000.0
+Baltimore World Trade Center	cost	2.2E7
+Thomas J. Hatem Memorial Bridge	cost	4500000.0
+Ralph Engelstad Arena	cost	1.04E8
+Murray Park	cost	1.4E7
+Gallagher-Iba Arena	cost	1500000.0
+Gallagher-Iba Arena	cost	5.5E7
+Allianz Arena	cost	3.4E8
+McLaren Technology Centre	cost	3.0E8
+Gaylord Family Oklahoma Memorial Stadium	cost	293000.0
+Papa John's Cardinal Stadium	cost	1.35E8
+USCGC Sundew (WLB-404)	cost	861589.0
+Mirabella V	cost	5.0E7
+Home Park	cost	11.0
+NYSEG Stadium	cost	4600000.0
+Liverpool Infirmary	cost	2600.0
+Plaza 66	cost	320.0
+Yokohama Landmark Tower	cost	2.7E11
+Government House (Newfoundland and Labrador)	cost	38000.0
+MV Aurora (2000)	cost	3.75E8
+USS Sciota (1861)	cost	96000.0
+Borussia-Park	cost	8.5E7
+USCGC Mesquite (WLB-305)	cost	874798.0
+Boleyn Ground	cost	1.6E7
+Apostolos Nikolaidis Stadium	cost	7000000.0
+Rod Laver Arena	cost	9.4E7
+Ricoh Coliseum	cost	3.8E7
+John Paul Jones Arena	cost	1.31E8
+Fort Belan	cost	30000.0
+Eastwood Field	cost	3.0E7
+Times Union Center	cost	6.88E7
+Times Union Center	cost	1.6
+ORP Piorun (G65)	cost	400963.16
+Bernie Robbins Stadium	cost	1.5E7
+Tulane Stadium	cost	295968.0
+Goodnow Hall (Kansas State University)	cost	1600000.0
+Dunkin' Donuts Center	cost	1.3E7
+Dunkin' Donuts Center	cost	8.0E7
+Chater House	cost	2.3E9
+Cole Field House	cost	3300000.0
+HMS Britannia (1762)	cost	45844.0
+San Diego – Coronado Bridge	cost	4.76E7
+Church Office Building	cost	3.1E7
+Central Park (skyscraper)	cost	1.865E8
+BankWest Tower	cost	1.2E8
+Wells Fargo Arena (Des Moines)	cost	9.9E7
+USF Sun Dome	cost	1.2E7
+St Mary's Church, West Derby, Liverpool	cost	12000.0
+SS Morro Castle (1930)	cost	4000000.0
+USS R. R. Cuyler (1860)	cost	142000.0
+USS Aylwin (DD-47)	cost	790000.0
+USS Parker (DD-48)	cost	790000.0
+Ben Hill Griffin Stadium	cost	118000.0
+Crisler Arena	cost	7200000.0
+Presidential Office Building, Taipei	cost	2800000.0
+Martin Stadium	cost	1000000.0
+Martin Stadium	cost	7.0E7
+USS Balch (DD-50)	cost	790000.0
+DW Stadium	cost	30.0
+Estadio Monumental Virgen de Chapi	cost	7000000.0
+Alerus Center	cost	8.0E7
+Durham Athletic Park	cost	160000.0
+Nutter Center	cost	3.45E7
+Ingalls Rink	cost	1500000.0
+Volksparkstadion	cost	90.0
+Fifth Third Field (Dayton)	cost	2.2E7
+Fifth Third Field (Toledo)	cost	3.92E7
+Darrell K Royal – Texas Memorial Stadium	cost	275000.0
+TCF Bank Stadium	cost	2.885E8
+Beppu Tower	cost	2.8E8
+Beppu Tower	cost	777777.0
+Kyoto Tower	cost	3.8E8
+Kyoto Tower	cost	1056000.0
+Barclays Center	cost	8.0E8
+Midway Stadium	cost	3000000.0
+Fraser Field	cost	210000.0
+Alliance Bank Stadium	cost	1.6E7
+Parken Stadium	cost	6.4E8
+Parken Stadium	cost	8.53E7
+Metro Radio Arena	cost	10.0
+Aberdeen Pavilion	cost	75000.0
+Kohl Center	cost	7.64E7
+Chesapeake Energy Arena	cost	8.9E7
+HMS Hibernia (1905)	cost	1438690.0
+Richard B. Fisher Center for the Performing Arts	cost	6.2E7
+Victory Field	cost	2.0E7
+Frontier Field	cost	3.53E7
+City Hall, Cardiff	cost	226288.0
+Viejas Arena	cost	2.9E7
+Rubber Bowl	cost	546000.0
+Roosevelt Stadium	cost	1500000.0
+Allstate Arena	cost	1.9E7
+UFCU Disch–Falk Field	cost	21.0
+Notre Dame Stadium	cost	750000.0
+Norwegian Dawn	cost	4.5E8
+Valley View Casino Center	cost	6500000.0
+Harry Grove Stadium	cost	3000000.0
+Louisville Slugger Field	cost	2.78E7
+PNC Field	cost	2.5E7
+Durham Bulls Athletic Park	cost	1.6E7
+Zephyr Field	cost	2.5E7
+RedHawks Field at Bricktown	cost	34.0
+New Britain Stadium	cost	1.0E7
+Space Coast Stadium	cost	6200000.0
+Bislett Stadion	cost	5.5E7
+San Juanico Bridge	cost	2.19E7
+Fitzgerald Stadium	cost	3000.0
+Fitzgerald Stadium	cost	4800000.0
+Arkansas State Capitol	cost	2200000.0
+FNB Stadium	cost	4.4E8
+Perani Arena and Event Center	cost	1.0E7
+Mein Schiff 1	cost	3.2E8
+Memorial Stadium (University of Kansas)	cost	275000.0
+Estadio Azteca	cost	2.6E8
+Sun National Bank Center	cost	5.3E7
+Dragon Stadium, Southlake	cost	1.5E7
+Torre Agbar	cost	1.3E8
+PBCom Tower	cost	7.4E7
+Tsongas Center	cost	2.8E7
+Assembly Hall (Champaign)	cost	8350000.0
+Marlatt Hall	cost	1768000.0
+Biodesign Institute	cost	7.28E7
+Biodesign Institute	cost	7.85E7
+Memorial Stadium, Lincoln	cost	430000.0
+Haas Pavilion	cost	5.75E7
+Kinnick Stadium	cost	497151.42
+Ross–Ade Stadium	cost	7.0E7
+Memorial Stadium (Indiana)	cost	4560000.0
+Spartan Stadium (East Lansing)	cost	1.6E7
+Huskie Stadium	cost	2265172.0
+Falcon Stadium	cost	3500000.0
+Kenan Memorial Stadium	cost	303000.0
+Save-On-Foods Memorial Centre	cost	30.0
+Bryce Jordan Center	cost	5.5E7
+Carver–Hawkeye Arena	cost	1.84E7
+Dean Smith Center	cost	3.38E7
+Mackey Arena	cost	6000000.0
+Mackey Arena	cost	9.95E7
+Appalachian Power Park	cost	2.3E7
+Richmond Coliseum	cost	2.0E7
+City Stadium (Richmond)	cost	80000.0
+Convocation Center (Northern Illinois University)	cost	3.6E7
+Harry A. Gampel Pavilion	cost	2.8E7
+The Pit (arena)	cost	1400000.0
+University of Dayton Arena	cost	4500000.0
+Bob Devaney Sports Center	cost	1.3E7
+NASCAR Hall of Fame	cost	1.6E8
+Rockford MetroCentre	cost	3800000.0
+Rockford MetroCentre	cost	2.0E7
+Petersen Events Center	cost	1.19E8
+Navy – Marine Corps Memorial Stadium	cost	3000000.0
+Arizona Veterans Memorial Coliseum	cost	7000000.0
+Veterans Memorial Stadium (Troy University)	cost	65000.0
+War Memorial Stadium (Wyoming)	cost	1533333.0
+Jones AT&T Stadium	cost	400000.0
+HK Arena	cost	2.4E7
+Freeman Coliseum	cost	1750000.0
+Pete Maravich Assembly Center	cost	1.15E7
+Lawrence Joel Veterans Memorial Coliseum	cost	1.41E7
+Reynolds Coliseum	cost	2300000.0
+Alaska Airlines Arena at Hec Edmundson Pavilion	cost	4.0E7
+Alaska Airlines Arena at Hec Edmundson Pavilion	cost	600000.0
+Van Andel Arena	cost	7.5E7
+McCarthey Athletic Center	cost	2.5E7
+Fifth Third Arena	cost	3.2E7
+Maverik Center	cost	5.41E7
+Liacouras Center	cost	7.3E7
+Pan American Center	cost	3500000.0
+Gerald J. Ford Stadium	cost	4.2E7
+Princeton University Stadium	cost	4.5E7
+Bill Snyder Family Football Stadium	cost	1600000.0
+Lane Stadium	cost	3000000.0
+M. M. Roberts Stadium	cost	0.0
+M. M. Roberts Stadium	cost	6300000.0
+M. M. Roberts Stadium	cost	3.19E7
+Folsom Field	cost	65000.0
+Virginia Beach Sportsplex	cost	6800000.0
+Mohegan Sun Arena at Casey Plaza	cost	4.4E7
+Giant Center	cost	6.5E7
+Cumberland County Civic Center	cost	8000000.0
+Norfolk Scope	cost	3.5E7
+Broome County Veterans Memorial Arena	cost	7500000.0
+Gelora Bung Karno Stadium	cost	1.25E7
+Şükrü Saracoğlu Stadium	cost	8.5E7
+O2 Arena (Prague)	cost	8.0E9
+O2 Arena (Prague)	cost	3.47E8
+Cambria County War Memorial Arena	cost	7000000.0
+Germain Arena	cost	2.2E7
+Bojangles' Coliseum	cost	4000000.0
+BI-LO Center	cost	6.3E7
+Florence Civic Center	cost	2.2E7
+Sovereign Center	cost	2.59E7
+WesBanco Arena	cost	7000000.0
+Rabobank Arena	cost	3.8E7
+CenturyLink Center Omaha	cost	2.91E8
+Barrie Molson Centre	cost	13.0
+Sleeman Centre (Guelph)	cost	21.0
+RBC Centre (Sarnia)	cost	1.5E7
+Sault Memorial Gardens	cost	765000.0
+Louis J. Tullio Arena	cost	9300000.0
+ENMAX Centre	cost	4000000.0
+L. C. Walker Arena	cost	1000000.0
+Jacksonville Veterans Memorial Arena	cost	1.3E8
+Cedar Rapids Ice Arena	cost	6700000.0
+American Bank Center	cost	4.9562E7
+Cumberland County Crown Coliseum	cost	5.5E7
+Centennial Olympic Stadium	cost	2.07E8
+RheinEnergieStadion	cost	1.2E8
+Commerzbank-Arena	cost	1.5E8
+SIU Arena	cost	4300000.0
+Petrobras 36	cost	3.5E8
+Aggie Memorial Stadium	cost	4000000.0
+Dix Stadium	cost	3500000.0
+Doyt Perry Stadium	cost	3000000.0
+Glass Bowl	cost	335000.0
+Sonny Lubick Field at Hughes Stadium	cost	2800000.0
+ASU Stadium	cost	2500000.0
+Rentschler Field (stadium)	cost	9.12E7
+Waldo Stadium	cost	250000.0
+Rynearson Stadium	cost	1400000.0
+University at Buffalo Stadium	cost	2.3E7
+Jack Trice Stadium	cost	7600000.0
+FIU Stadium	cost	5.4E7
+Mike Martin Field at Dick Howser Stadium	cost	1.4E7
+Stanley Coveleski Regional Stadium	cost	1.1E7
+Yokohama Stadium	cost	4.8E9
+Chiba Marine Stadium	cost	1.33E10
+Municipal Auditorium (Kansas City)	cost	6500000.0
+Progress Energy Park	cost	300000.0
+Modern Woodmen Park	cost	185000.0
+Modern Woodmen Park	cost	1.25E7
+Holt Arena	cost	2800000.0
+Verizon Arena	cost	8.0E7
+Beard–Eaves–Memorial Coliseum	cost	6030000.0
+Coleman Coliseum	cost	4200000.0
+Bramlage Coliseum	cost	1.72E7
+Cassell Coliseum	cost	2700000.0
+Charles Koch Arena	cost	1400000.0
+Charles Koch Arena	cost	2.5E7
+Cintas Center	cost	4.6E7
+Coors Events Center	cost	7700000.0
+McKenzie Arena	cost	1.55E7
+Littlejohn Coliseum	cost	8000000.0
+Hilton Coliseum	cost	8165000.0
+Edmund P. Joyce Center	cost	8600000.0
+O'Connell Center	cost	1.4E7
+Donald L. Tucker Center	cost	3.38E7
+Stegeman Coliseum	cost	3600000.0
+UNI-Dome	cost	7500000.0
+WVU Coliseum	cost	1.04E7
+United Spirit Arena	cost	6.2E7
+Androscoggin Bank Colisée	cost	1000000.0
+Spokane Veterans Memorial Arena	cost	4.48E7
+Hammond Stadium	cost	1.4E7
+Roger Dean Stadium	cost	2.8E7
+Holman Stadium (Vero Beach)	cost	1.17E8
+Bright House Field	cost	2.8E7
+Florida Auto Exchange Stadium	cost	2400000.0
+McKechnie Field	cost	3.0E7
+U.S. Steel Yard	cost	4.5E7
+Duluth Entertainment Convention Center	cost	6500000.0
+Mike A. Myers Stadium	cost	13.0
+Utica Memorial Auditorium	cost	3000000.0
+Meehan Auditorium	cost	1800000.0
+World Arena, Colorado Springs	cost	5.88E7
+Whittemore Center	cost	3.0E7
+Berry Events Center	cost	1.1E7
+BGSU Ice Arena	cost	1800000.0
+Agganis Arena	cost	2.25E8
+O'Brien Field	cost	2.3E7
+Resch Center	cost	4.5E7
+Silver Cross Field	cost	2.7E7
+Hofheinz Pavilion	cost	4200000.0
+Fieldcrest Cannon Stadium	cost	6800000.0
+Philadelphia Convention Hall and Civic Center	cost	5300000.0
+Kansas Coliseum	cost	1.03E7
+CenturyLink Center	cost	5.65E7
+State Farm Arena	cost	2.3E7
+Ford Arena (Beaumont)	cost	3.2E7
+Ocean Center	cost	7.6E7
+Newport Stadium	cost	7000000.0
+Laredo Energy Arena	cost	3.65E7
+Budweiser Events Center	cost	2.5E7
+Viaero Event Center	cost	1.05E7
+Young Arena	cost	4300000.0
+George Washington Masonic National Memorial	cost	6000000.0
+Wills Memorial Building	cost	501566.0
+AT&T Field	cost	1.02E7
+Engel Stadium	cost	150000.0
+Civic Stadium (Eugene)	cost	18000.0
+Wade Stadium	cost	163232.0
+Wade Stadium	cost	230880.0
+USS Louisville (1862)	cost	89000.0
+Herschel Greer Stadium	cost	1000000.0
+Whataburger Field	cost	2.77E7
+Al McGuire Center	cost	3.1E7
+Memorial Stadium (St. John's)	cost	7000000.0
+Mercedes-Benz Arena	cost	63.0
+Mercedes-Benz Arena	cost	5.8E7
+Mercedes-Benz Arena	cost	5.0
+Abuja Stadium	cost	3.6E8
+Canada Place	cost	4.0E8
+Healy Park	cost	2000000.0
+Estadio Morelos	cost	2.0E7
+Estadio Victoria	cost	1.5E9
+Citi Field	cost	9.0E8
+Keats House	cost	500000.0
+AWD-Arena	cost	8.28E7
+The Ballpark at Harbor Yard	cost	1.9E7
+Betty Engelstad Sioux Center	cost	7000000.0
+Security Service Field	cost	3700000.0
+Silesian Stadium	cost	4.65E8
+Busch Stadium	cost	3.65E8
+Trustmark Park	cost	2.8E7
+Montgomery Riverwalk Stadium	cost	2.6E7
+Baseball Grounds of Jacksonville	cost	3.4E7
+Hank Aaron Stadium	cost	8000000.0
+Scotiabank Field at Nat Bailey Stadium	cost	550000.0
+Carson Park (Eau Claire, Wisconsin)	cost	60000.0
+Carson Park (Eau Claire, Wisconsin)  Carson Park football stadium   1	cost	60000.0
+HMS Bulldog (H91)	cost	221408.0
+BB&T Coastal Field	cost	1.3E7
+Marina City	cost	3.6E7
+Gold Building	cost	4000000.0
+Fargodome	cost	4.8E7
+Sprint Center	cost	2.76E8
+Fremantle Oval	cost	3579.0
+Lerkendal Stadion	cost	3.35E8
+USS Mahaska (1861)	cost	130001.68
+The Den	cost	1.6E7
+Yarrow Stadium	cost	1.5E7
+Olympic Stadium (London)	cost	5.37E8
+Hong Kong Coliseum	cost	140.0
+Convocation Center (Ohio University)	cost	8200000.0
+MV Queen of Coquitlam	cost	2.0E7
+Kenneth P. LaValle Stadium	cost	2.2E7
+London Aquatics Centre	cost	303.0
+London Velopark	cost	1.05E8
+Governor Ames	cost	75000.0
+Haymarket Park	cost	2.953E7
+Haymarket Park  Bowlin Stadium   1	cost	2.953E7
+Harbor Park	cost	1.6E7
+Cooley Law School Stadium	cost	1.28E7
+Stockton Arena	cost	6.3E7
+Banner Island Ballpark	cost	2.2E7
+Tallaght Stadium	cost	1.12E7
+Nationals Park	cost	6.11E8
+CommunityAmerica Ballpark	cost	1.2E7
+St. Jakob-Park	cost	2.2E8
+Victoria Building, University of Liverpool	cost	53000.0
+Veterans Memorial Stadium (Cedar Rapids)	cost	1.649E7
+Senator Thomas J. Dodd Memorial Stadium	cost	9300000.0
+Jerry Uht Park	cost	8700000.0
+Metro Bank Park	cost	4.5E7
+FirstEnergy Stadium	cost	656674.0
+Dr Pepper Ballpark	cost	2.27E7
+John Thurman Field	cost	3930000.0
+Stater Bros. Stadium	cost	6500000.0
+Lake Elsinore Diamond	cost	2.2E7
+Clear Channel Stadium	cost	1.45E7
+Salem Memorial Baseball Stadium	cost	1.01E7
+Daniel S. Frawley Stadium	cost	6000000.0
+Liberty Stadium, Swansea	cost	2.7E7
+FirstEnergy Park	cost	2.2E7
+Joseph L. Bruno Stadium	cost	1.4E7
+Avista Stadium	cost	550000.0
+Kindrick Field	cost	1500.0
+Lindquist Field	cost	5000000.0
+Clipper Magazine Stadium	cost	2.34E7
+TD Bank Ballpark	cost	1.8E7
+Monterrey Arena	cost	5.0E7
+Estadio Monumental Isidro Romero Carbo	cost	7.0E7
+Weingart Stadium	cost	3100000.0
+Dee Events Center	cost	1.13E7
+Patriot Center	cost	1.6E7
+Ferrell Center	cost	1.25E7
+Maples Pavilion	cost	3300000.0
+Walter Pyramid	cost	2.2E7
+Alex G. Spanos Center	cost	7000000.0
+Memorial Coliseum (University of Kentucky)	cost	4000000.0
+Carmichael Arena	cost	3.64E7
+Hearnes Center	cost	1.075E7
+MS Mariner of the Seas	cost	6.5E8
+Olimpiysky National Sports Complex	cost	500.0
+Stade des Martyrs	cost	3.8E7
+Galen Center	cost	1.47E8
+Patriot Stadium	cost	7200000.0
+Hampton Coliseum	cost	8.5
+HMS Speedy (1782)	cost	4200.7
+HMS Lord Nelson (1906)	cost	1651339.0
+Mbombela Stadium	cost	1.4E8
+Peter Mokaba Stadium	cost	1.5E8
+Cisco Field	cost	4.0E8
+MS Amsterdam	cost	4.0E8
+Usher Hall	cost	134000.0
+Lanxess Arena	cost	1.53E8
+O2 World (Hamburg)	cost	8.3E7
+SAP Arena	cost	7.0E7
+Estadio Nacional Julio Martínez Prádanos	cost	1.8E7
+HMS Resolution (1892)	cost	953817.0
+HMS Cornwallis (1901)	cost	1096052.0
+Centre Court	cost	1.0E8
+Bazaly	cost	3.0E7
+Veteran's Field	cost	0.0
+Stephen Schott Stadium	cost	8600000.0
+Nichols Hall	cost	25000.0
+Pui Tak Center	cost	1000000.0
+Kisstadion	cost	2.2E7
+Torino Palasport Olimpico	cost	1.11E8
+Arena 2000	cost	6.2E7
+Tony Gwynn Stadium	cost	4000000.0
+Rexall Centre	cost	4.5E7
+Indian Wells Tennis Garden	cost	7.7E7
+Tennis Center at Crandon Park	cost	2.1E7
+Buck Shaw Stadium	cost	4000000.0
+USCGC Bramble (WLB-392)	cost	925464.0
+USCGC Acacia (WLB-406)	cost	927156.0
+USCGC Papaw (WLB-308)	cost	870836.0
+King George V Park	cost	3500000.0
+Belfast City Hall	cost	360000.0
+Pearse Stadium	cost	34000.0
+Huish Park	cost	3500000.0
+Belgrade Arena	cost	7.0E7
+MS Freedom of the Seas	cost	500.0
+Stade de Suisse, Wankdorf	cost	3.5E8
+Heron Tower	cost	2.42E8
+MS Viking Cinderella	cost	8.5E8
+Turf Moor	cost	5300000.0
+Gulf Tower	cost	1.005E7
+Bosmal City Center	cost	1.2E8
+Koppers Tower	cost	5500000.0
+Grant Building	cost	5500000.0
+Oxford Centre	cost	1.0E8
+Frick Building	cost	2000000.0
+Spanish ship Juan Carlos I (L61)	cost	3.6E8
+Gaelic Park	cost	3000000.0
+St Tiernach's Park	cost	4500000.0
+Dr. Hyde Park	cost	1100000.0
+McHale Park	cost	1700.0
+Russian battleship Retvizan	cost	4360000.0
+Ōita Stadium	cost	2.5E10
+Arctic Cathedral	cost	4169815.0
+USS Albatross (1882)	cost	190000.0
+Tokyo Sky Tree	cost	4.0E10
+Lightship Nantucket	cost	300956.0
+Leavey Center	cost	4600000.0
+Leavey Center	cost	2.6E7
+Kassam Stadium	cost	15.0
+Three World Financial Center	cost	8.0E8
+Singapore Flyer	cost	2.4E8
+AIDAaura	cost	3.5E8
+Pacific Jewel	cost	2.768E8
+AIDAvita	cost	3.5E8
+Hereward (shipwreck)	cost	6000.0
+SS Princess Sophia	cost	51000.0
+Siemens Arena	cost	2.5E7
+Eck Stadium	cost	7800000.0
+Baum Stadium	cost	8900000.0
+Lucas Oil Stadium	cost	7.2E8
+University of Phoenix Stadium	cost	4.55E8
+One HSBC Center	cost	5.0E7
+Ricoh Arena	cost	1.13E8
+Bud Walton Arena	cost	3.0E7
+WakeMed Soccer Park	cost	1.45E7
+Victoria Park, Melbourne	cost	600.0
+Klöckner Stadium	cost	1200000.0
+El Paso County Coliseum	cost	9500000.0
+John MacInnes Ice Arena	cost	2600000.0
+Thompson Arena	cost	4400000.0
+Dowdy–Ficklen Stadium	cost	283387.0
+Vale Park	cost	50000.0
+Russia Tower	cost	2.0E9
+Celebrity Summit	cost	3.5E8
+Dunc Gray Velodrome	cost	42.0
+Peaks Ice Arena	cost	1.24E7
+Olympic Hall Juan Antonio Samaranch	cost	1.64E7
+Grand Princess	cost	4.5E8
+Robina Stadium	cost	1.6E8
+Red and Charline McCombs Field	cost	4500000.0
+1 Police Plaza	cost	5.8E7
+Vancouver City Hall	cost	1000000.0
+Stade de Genève	cost	2.4E8
+Bescot Stadium	cost	4.5
+Josh Gibson Field	cost	292000.0
+Estadio Ciudad de La Plata	cost	1.0E8
+Jacksonville Coliseum	cost	3000000.0
+All Saints Church, Howick	cost	147.0
+Rec Hall	cost	572260.0
+Ahearn Field House	cost	2000000.0
+Carnival Conquest	cost	5.0E8
+Al Lopez Field	cost	287901.0
+Duquesne Gardens	cost	500000.0
+Ottawa Auditorium	cost	355000.0
+Century Theatre	cost	1700000.0
+Nene Park	cost	3.0E7
+Qwest Arena	cost	5.0E7
+SS Oriana (1959)	cost	1.25E7
+Caribbean Princess	cost	5.0E8
+HMS Kingfisher (1879)	cost	39300.0
+Scotia Centre (Calgary)	cost	3.0E7
+Manitoba Legislative Building	cost	8075865.0
+Auckland War Memorial Museum	cost	250000.0
+Estadio Metropolitano Roberto Meléndez	cost	8.96547E9
+Bush Tower	cost	2000000.0
+Alcan Lynemouth Aluminium Smelter	cost	5.4E7
+Estádio Municipal de Aveiro	cost	6.2E7
+North Harbour Stadium	cost	4.1E7
+Édifice Price	cost	1000000.0
+Bentall 5	cost	1.05E8
+Cabazon Dinosaurs	cost	300000.0
+City of Salford Stadium	cost	2.6E7
+George Vari Engineering and Computing Centre	cost	4.5E7
+Moshulu	cost	36000.0
+LaGrave Field	cost	4000000.0
+Cohen Stadium	cost	6000000.0
+Alumni Hall (DePaul University)	cost	2000000.0
+St. John Arena	cost	4000000.0
+ETSA Park	cost	11.1
+Wisconsin Field House	cost	434000.0
+BMO Field	cost	6.25E7
+MS Norwegian Dream	cost	2.4E8
+MS Louis Majesty	cost	2.29E8
+Star Pisces	cost	6.5E8
+Empire State Plaza	cost	1.7E9
+Estádio José Gomes	cost	1000000.0
+BankUnited Center	cost	4.8E7
+Millenia Tower	cost	3.0E8
+CFSB Center	cost	2.3E7
+Zable Stadium	cost	138395.0
+Sears Centre	cost	6.2E7
+U.S. Cellular Coliseum	cost	3.7E7
+HNoMY Norge	cost	1500000.0
+Viking Stadion	cost	2.0E7
+Color Line Stadion	cost	1.6E8
+Glenlee (ship)	cost	24000.0
+Warren Ballpark	cost	3600.0
+Willows Sports Complex	cost	1.103E7
+RMS Leinster	cost	95000.0
+Jeju World Cup Stadium	cost	1.2E8
+Esprit Arena	cost	2.4E8
+James A. Rhodes Arena	cost	1.25E7
+McGuirk Arena	cost	2.25E7
+Eastern Michigan University Convocation Center	cost	2.96E7
+Alumni Arena (University at Buffalo)	cost	1.25E7
+Millett Hall	cost	7500000.0
+Memorial Athletic and Convocation Center	cost	1330000.0
+Odsal Stadium  Odsal Sports Village   1	cost	1.5E7
+Utah State Capitol	cost	2700000.0
+Clune Arena	cost	5600000.0
+Victoria Baths	cost	59144.0
+Colonial Building	cost	18335.0
+Tin Can (basketball arena)	cost	6741.72
+Kaunas Sports Hall	cost	400000.0
+Finley Stadium	cost	2.85E7
+FAU Arena	cost	9000000.0
+UCF Arena	cost	1.07E8
+Fant–Ewing Coliseum	cost	2700000.0
+Avron B. Fogelman Arena	cost	211403.0
+Trojan Arena	cost	447000.0
+Houchens Industries – L. T. Smith Stadium	cost	5.0E7
+Goggin Ice Arena	cost	2700000.0
+Volpe Complex	cost	2000000.0
+Schneider Arena	cost	1800000.0
+Jadwin Gymnasium	cost	6500000.0
+Pizzitola Sports Center	cost	7600000.0
+Carnival Liberty	cost	5.0E8
+Stuart C. Siegel Center	cost	3.01E7
+Binghamton University Events Center	cost	3.31E7
+One Kansas City Place	cost	1.4E8
+Ryan Center	cost	5.4E7
+Tom Gola Arena	cost	6300000.0
+McAndrew Stadium	cost	150000.0
+Beeghly Center	cost	5500000.0
+HMS Hardy (1936)	cost	278482.0
+Gersten Pavilion	cost	4200000.0
+Roy Kidd Stadium	cost	5461439.0
+Athletics–Recreation Center	cost	7250000.0
+One Liberty Plaza	cost	1.2E8
+Fukuda Denshi Arena	cost	6.87E7
+Fukuda Denshi Arena	cost	5.4E7
+Prudential Center	cost	3.75E8
+Rushmore Plaza Civic Center	cost	2.4E7
+Santa Ana Star Center	cost	4.7E7
+Big Sandy Superstore Arena	cost	1.05E7
+Yanitelli Center	cost	6000000.0
+Covelli Centre	cost	4.2E7
+Bobcat Stadium (Montana State University)	cost	1.2E7
+Bobcat Stadium (Montana State University)	cost	500000.0
+Walkup Skydome	cost	8000000.0
+William "Dick" Price Stadium	cost	1.22E7
+Aggie Stadium (North Carolina A&T)	cost	2500000.0
+Fisher Field	cost	445000.0
+Paulson Stadium	cost	4700000.0
+Louis Crews Stadium	cost	1.0E7
+Pearl Palace	cost	3500000.0
+Diamond Princess (ship)	cost	5.0E8
+Ocean Princess (ship)	cost	1.5E8
+St Andrew's House	cost	433200.0
+UNF Arena	cost	9200000.0
+Tampereen jäähalli	cost	1200000.0
+Tegera Arena	cost	1.29E8
+National Synchrotron Light Source	cost	1.6E8
+Intrust Bank Arena	cost	2.055E8
+Tim's Toyota Center	cost	2.5E7
+Leonard E. Merrell Center	cost	1.89E7
+Hobart Arena	cost	450000.0
+Randal Tyson Track Center	cost	7000000.0
+Pennsylvania State Capitol	cost	1.3E7
+Dahlberg Arena	cost	1.47E7
+Worthington Arena	cost	1.6
+Reese Court	cost	7100000.0
+Cabot Tower, Bristol	cost	3250.0
+Hearst Tower (Charlotte)	cost	2.0E8
+Birmingham–Jefferson Convention Complex	cost	1.04E8
+Cira Centre	cost	1.8E8
+Christl Arena	cost	1.6E7
+Alumni Hall (Navy)	cost	3.0E7
+Sports Centre at MCC	cost	1.3E7
+Frost Arena	cost	3685000.0
+Idaho State Capitol	cost	2098455.0
+Montana State Capitol	cost	540000.0
+U.S. Bank Center (Milwaukee)	cost	5.0E7
+The Avenue Stadium	cost	3000000.0
+New York State Capitol	cost	2.5E7
+University Park Stadium	cost	3500000.0
+MV Northern Ranger	cost	1.8E7
+SS Hilda	cost	33000.0
+Sinan Erdem Dome	cost	2.2E7
+Sinan Erdem Dome	cost	4.7E7
+Edinburg Stadium	cost	5300000.0
+Blair Field	cost	500000.0
+Chorley F.C.  Victory Park   1	cost	868.0
+HMAS Tobruk (L 50)	cost	5.9E7
+HMY Alexandra  Prins Olav   1	cost	25000.0
+Stadionul Steaua	cost	2.0E7
+Lou Ruvo Center for Brain Health	cost	1.0E8
+Juventus Arena	cost	1.05E8
+MS Queen Victoria	cost	2.7E8
+TEDA Football Stadium	cost	5.5E7
+Barradão	cost	46.137
+Estadio José Pachencho Romero	cost	1.41E7
+Chikyū	cost	6.0E10
+Cadet Ice Arena	cost	5600000.0
+John S. Glas Field House	cost	970000.0
+Dwyer Arena	cost	6000000.0
+Broadwood Stadium	cost	8000000.0
+Tate Rink	cost	1.6E7
+Mercyhurst Ice Center	cost	1400000.0
+General Motors Centre	cost	4.5E7
+Essar Centre	cost	2.5E7
+Energi Nord Arena	cost	9.8E7
+Viborg Stadion	cost	6.21E7
+Blue Water Arena	cost	1.05E8
+Windsor Station (Montreal)	cost	2000000.0
+Dialog Arena	cost	1.3E8
+Donbass Arena	cost	4.0E8
+Donbass Arena	cost	3.0E8
+Schauinsland-Reisen-Arena	cost	4.3E7
+Browne Park	cost	18.0
+Gold Coast Convention and Exhibition Centre	cost	167.0
+Lokomotiv Stadium (Moscow)	cost	3.0E7
+Volkswagen Arena	cost	5.3E7
+Beetham Tower, Manchester	cost	1.5E8
+First Tennessee Field	cost	4.3E7
+Melbourne Multi Purpose Venue	cost	6.5E7
+Peden Stadium	cost	185000.0
+MS Brilliance of the Seas	cost	3.5E8
+Nottingham Field	cost	4000000.0
+Stevens Battery	cost	2500000.0
+Carnival Glory	cost	5.0E8
+Carnival Miracle	cost	3.75E8
+Jakarta Tower	cost	3.0E12
+LNG El Paso Sonatrach	cost	1.2E8
+Rat Verlegh Stadion	cost	1.32E7
+Bob Wren Stadium	cost	2000000.0
+Ohio Softball Field	cost	200000.0
+Ohio University Aquatic Center	cost	4700000.0
+Chessa Field	cost	1000000.0
+Goldsberry Track	cost	2300000.0
+USCGC Balsam (WLB-62)	cost	916109.0
+USCGC Cactus (WLB-270)	cost	782381.0
+USCGC Blackthorn (WLB-391)	cost	876403.0
+SS A. Frank Lever	cost	1293168.0
+151 Incheon Tower	cost	1.5E10
+Huntington Park (Columbus, Ohio)	cost	5.6E7
+USCGC Cowslip (WLB-277)	cost	918873.0
+USS Gerald R. Ford (CVN-78)	cost	5.1E9
+Doug Mitchell Thunderbird Sports Centre	cost	4.78E7
+USCGC Bertholf (WMSL-750)	cost	6.41E8
+Horlick Field	cost	250000.0
+Clark–LeClair Stadium	cost	1.1E7
+Government House (Saskatchewan)	cost	50000.0
+USCGC Burton Island (WAGB-283)	cost	9.88
+Klotsche Center	cost	5458000.0
+Phaeno Science Center	cost	7.9E7
+Medlar Field at Lubrano Park	cost	3.14E7
+Wuerfel Park	cost	6000000.0
+Amarillo National Bank Sox Stadium	cost	250000.0
+McLeod Center	cost	1.26E8
+Alberta Legislature Building	cost	4000000.0
+Confederation Building (Newfoundland and Labrador)	cost	9000000.0
+Richmond Olympic Oval	cost	1.78E8
+HMS Pegasus (1878)	cost	36697.0
+HMS Gannet (1878)	cost	39581.0
+Government House (Alberta)	cost	345882.0
+Citizens Business Bank Arena	cost	1.3E8
+Minneapolis Auditorium	cost	3150000.0
+1stBank Center	cost	4.5E7
+Sultan Hassal Bolkiah Stadium	cost	1.0E8
+Yurcak Field	cost	2.8E7
+Senedd	cost	6.96E7
+Windsor Hotel (Montreal)	cost	500000.0
+Silver Stadium	cost	415000.0
+Singapore Indoor Stadium	cost	9.0E7
+Acer Arena	cost	2.0E8
+Adelaide Entertainment Centre	cost	44.0
+Adelaide Entertainment Centre	cost	52.0
+Vector Arena	cost	8.0E7
+Sun Arena	cost	1.62E10
+Utah Olympic Oval	cost	3.0E7
+Sydney Olympic Park Hockey Centre	cost	15.5
+Arden Street Oval	cost	16.0
+Toyota Sports Center	cost	2.4E7
+Stadion Miejski in Kraków	cost	4.45E8
+Alumni Coliseum	cost	3244623.0
+Cabrillo Bridge	cost	250000.0
+Emirates Park Towers Hotel & Spa	cost	4.9E8
+Living Shangri-La	cost	3.5E8
+Aratere (ferry)	cost	1.32E8
+Beijing National Indoor Stadium	cost	6.5E9
+Beijing National Indoor Stadium	cost	9.58E8
+Carnival Triumph	cost	4.2E8
+USS Baron DeKalb (1861)	cost	89000.0
+Beroe Stadium	cost	2400000.0
+Městský fotbalový stadion Srbská	cost	1.1E8
+Melbourne Sports and Aquatic Centre	cost	6.5E7
+BOK Center	cost	1.96E8
+HMS Commonwealth (1903)	cost	1471527.0
+Teddy Stadium	cost	1.2E7
+Saskatchewan Legislative Building	cost	1750000.0
+Stadion Miejski (Poznań)	cost	1.6E8
+Polish Army Stadium	cost	4.6E8
+Stade de la Maladière	cost	2.0E8
+MV Mont St Michel	cost	8.0E7
+Golden Princess	cost	4.5E8
+Carnival Victory	cost	4.1E8
+Carnival Spirit	cost	3.75E8
+Carnival Pride	cost	3.75E8
+Carnival Inspiration	cost	2.7E8
+Grand Celebration	cost	1.3E8
+McDonough Gymnasium	cost	1250000.0
+HMS Sepoy (1856)	cost	10725.0
+Siu Sai Wan Sports Ground	cost	2.3E8
+Estadio Nacional de Costa Rica (2011)	cost	1.05E8
+HMNZS Canterbury (L421)	cost	1.3E8
+Goggin Ice Center	cost	3.48E7
+Estadio Olímpico (Caracas)	cost	1.6E7
+Swedbank Arena, Solna	cost	2.8E9
+Swedbank Arena, Solna	cost	3.0E8
+Hermann Stadium	cost	5100000.0
+MS Thomson Dream	cost	1.5E8
+Norwegian Gem	cost	7.0E8
+Les Murakami Stadium	cost	1.22E7
+Crystal Symphony	cost	2.5E8
+Crystal Serenity	cost	3.5E8
+USS Casco (1864)	cost	500000.0
+Saputo Stadium	cost	14.1
+Georgios Kamaras Stadium	cost	3500000.0
+Stadionul Dr. Constantin Rădulescu	cost	3.0E7
+Rio Tinto Stadium	cost	1.15E8
+Hypo-Arena	cost	66.0
+Eintracht-Stadion	cost	1.5E7
+Franklin's Gardens	cost	1.0E7
+HMS Agamemnon (1852)	cost	141299.0
+Kinnarps Arena	cost	1.35E8
+Bremen-Arena	cost	5.0E7
+Foster Field	cost	3000000.0
+USS Zumwalt (DDG-1000)	cost	3.3
+Birkdale Palace Hotel	cost	60000.0
+Place Bonaventure	cost	8.25E7
+Swayze Field	cost	3750000.0
+Cliff Hagan Stadium	cost	4200000.0
+Russ Chandler Stadium	cost	9700000.0
+Pacific Sun (ship)	cost	1.34E8
+MS Liberty of the Seas	cost	500.0
+MV Bretagne	cost	5.5E7
+MV Pont-Aven	cost	1.0E8
+Arena Leipzig	cost	41.0
+Palacio Vistalegre	cost	2.5E7
+St. Jakob Arena	cost	2.5E7
+Trusts Stadium	cost	2.6E7
+Knorr Arena	cost	8.0
+ČEZ Arena (Pardubice)	cost	3.0E8
+Nelson Mandela Bay Stadium	cost	2.7E8
+E.ON Arena	cost	5.0E7
+Margaret Court Arena	cost	3.36E8
+Adelaide Arena	cost	16.0
+Stade Michel d'Ornano	cost	2.27E7
+Ratliff Stadium	cost	5600000.0
+Paul Brown Tiger Stadium	cost	246000.0
+Vejle Stadion	cost	7.5E7
+Seattle Ice Arena	cost	100000.0
+Emil and Patricia Jones Convocation Center	cost	3.8E7
+HMS Plumper (1848)	cost	20446.0
+Target Field	cost	5.45E8
+Miami Stadium	cost	2200000.0
+Trump International Hotel and Tower (New Orleans)	cost	4.0E8
+Piccadilly Tower	cost	2.2E8
+Hinkle Fieldhouse	cost	1000000.0
+Al Hamra Tower	cost	9.5E8
+Signature Tower	cost	250.0
+White Ring	cost	1.48E10
+Velodrom	cost	1.38E8
+TelstraClear Pacific Events Centre	cost	4.87E7
+Wesbild Centre	cost	1.5E7
+Estadi Cornellà-El Prat	cost	6.0E7
+Estadio Omnilife	cost	3.5E9
+Estádio Olímpico João Havelange	cost	1.92E8
+Estádio Olímpico João Havelange	cost	3.8E8
+PGE Arena Gdańsk	cost	7.75E8
+ISS Dome	cost	7.0E7
+Cape Town Stadium	cost	6.0E8
+Cape Town Stadium	cost	4.15E8
+Moses Mabhida Stadium	cost	4.5E8
+Manila Film Center	cost	2.5E7
+AFAS Stadion	cost	3.8E7
+Le Batofar	cost	98100.0
+Coral Princess	cost	3.3E8
+Island Princess	cost	3.3E8
+Pacific Princess	cost	1.5E8
+Sapphire Princess	cost	4.0E8
+Regency Furniture Stadium	cost	2.56E7
+Dnipro Arena	cost	4.0E7
+HMS Audacious (1869)	cost	256291.0
+Palacio de los Deportes Virgilio Travieso Soto	cost	5.28E8
+The Playhouse Theatre (Perth)	cost	65000.0
+Alfred A. McKethan Stadium	cost	1.65E7
+Chifley Tower	cost	1.2E9
+USS Chimo (1864)	cost	500000.0
+HMS Hector (1862)	cost	294000.0
+Broadgate Tower	cost	2.4E8
+Ocean Dream (ship)	cost	1.0E8
+Shaanxi Province Stadium	cost	2.5E9
+Chaifetz Arena	cost	8.05E7
+HMS Ocean (1862)	cost	298851.0
+Richard E. Berry Educational Support Center	cost	7.29E7
+Baden-Powell House	cost	400000.0
+Obel Tower	cost	6.0E7
+The Southern Star (observation wheel)	cost	1.0E8
+Gerry Weber Stadion	cost	3.0
+TD Waterhouse Stadium	cost	1.05E7
+Grand Egyptian Museum	cost	5.5E8
+JQH Arena	cost	6.7E7
+HMS Diamond (H22)	cost	223509.0
+L. Dale Mitchell Baseball Park	cost	1270000.0
+MV Artania	cost	1.65E8
+Pacific (ship)	cost	2.5E7
+HMS Zealous (1864)	cost	239258.0
+Sovereign Bank Stadium	cost	3.25E7
+Södertälje Fotbollsarena	cost	1.2E7
+Polideportivo Cachamay	cost	7.44E7
+Frost Bank Tower	cost	1.37E8
+HMS Bellerophon (1865)	cost	356493.0
+Junell Center	cost	2.2E7
+New Meadowlands Stadium	cost	1.6E9
+Aggie Stadium (UC Davis)	cost	3.0E7
+Skoda Xanthi Arena	cost	6.0
+HSC Condor Express	cost	2.7E7
+Loews Philadelphia Hotel	cost	8000000.0
+Guildhall, Swansea	cost	300000.0
+Michigan State Capitol	cost	1200000.0
+SS Oceanic (1965)	cost	4.0E7
+HMS Magdala (1870)	cost	132400.0
+USCGC Spar (WLB-403)	cost	865941.0
+HMS Abyssinia (1870)	cost	116549.0
+Goss Stadium at Coleman Field	cost	2300000.0
+MS Thomson Destiny	cost	1.4E8
+Hartland Bridge	cost	33000.0
+Huff Hall	cost	515000.0
+SS Arcadia (1954)	cost	6664000.0
+Palau Municipal d'Esports de Badalona	cost	3.5E7
+Colchester Community Stadium	cost	1.4E7
+Mike Rose Soccer Complex	cost	4000000.0
+Temple Stadium	cost	350000.0
+Ewen Fields	cost	1100.0
+Porsche Arena	cost	31.0
+The Tridge	cost	732000.0
+Morrison Stadium	cost	1.4E7
+Bright House Networks Stadium	cost	5.5E7
+Doha Stadium	cost	1.5E7
+Stansbury Hall (West Virginia University)	cost	250000.0
+Palacio de Deportes de la Comunidad de Madrid	cost	1.24E8
+Alumni Hall (Providence)	cost	1500000.0
+Elite Tower	cost	3.0E8
+KFC Yum! Center	cost	2.38E8
+Brooks Stadium	cost	2.01E7
+Roos Field	cost	1500000.0
+D. B. Milne Field	cost	1000000.0
+Charlotte Sports Park	cost	5000000.0
+HMCS Micmac (R10)	cost	8500000.0
+HMCS Micmac (R10)	cost	1.06E8
+Trump Ocean Club International Hotel and Tower	cost	4.0E8
+Archbold Gymnasium	cost	400000.0
+U2 Tower	cost	2.0E8
+EWE Arena	cost	9000000.0
+SS Admiral	cost	1000000.0
+St Pauls Tower	cost	4.0E7
+HMS Inflexible (1876)	cost	812000.0
+Bill Davis Stadium	cost	4700000.0
+Gladstein Fieldhouse	cost	1694725.0
+Wildermuth Intramural Center	cost	350000.0
+Mountaineer Field (1924)	cost	740000.0
+Sixfields Stadium	cost	6000000.0
+The Tower, Meridian Quay	cost	4.0E7
+Bren Hall	cost	2.6E7
+HMS Vixen (1865)	cost	54193.0
+Estadio Metropolitano de Mérida	cost	1.07E8
+Estadio Metropolitano de Fútbol de Lara	cost	7.44E7
+Estadio José Antonio Anzoátegui	cost	6.04E7
+SS Mongolia (1922)	cost	1000000.0
+El Gigante de Alberdi	cost	85.0
+Alicia (submarine)	cost	2000000.0
+Boeing International Headquarters	cost	1.7E8
+Stokely Athletic Center	cost	1500000.0
+Ville de Bordeaux	cost	3.0E7
+State Gymnasium	cost	150000.0
+Clyde Williams Stadium	cost	32000.0
+K-Rock Centre	cost	4.65E7
+SS City of Paris (1888)	cost	1850000.0
+MV Cougar Ace	cost	100.0
+834 Fifth Avenue	cost	20.0
+HMS Dartmouth (1655)	cost	1693.0
+Bergen Ballpark	cost	2.2E7
+Tinker Field	cost	50000.0
+Thomas W. Lawson (ship)	cost	248000.0
+Edward M. Cotter (fireboat)	cost	91000.0
+Lindner Family Tennis Center	cost	3.5E7
+Ralph Engelstad Arena (Minnesota)	cost	1.5E7
+Taipei Municipal Stadium	cost	4.23E8
+Arena Zagreb	cost	8.9E7
+Haymaker Hall	cost	1308128.0
+Winter Gardens, Blackpool	cost	100000.0
+SuperStar Virgo	cost	3.5E8
+Pirelli Stadium	cost	7200000.0
+USLHT Shubrick (1865)	cost	60000.0
+HMS Hornet (1854)	cost	29142.0
+USLHT Amaranth	cost	74993.7
+Cowboys Stadium	cost	1.3E9
+Viljandi linnastaadion	cost	1510000.0
+Zimbru Stadium	cost	1.1E7
+Dubai Towers Doha	cost	2.735E8
+Whitechapel Idea Store	cost	12.0
+HMS Eurydice (1843)	cost	16137.0
+Coca-Cola Park (Allentown)	cost	5.025E7
+NSW Tennis Centre	cost	4.29E7
+Dow Diamond	cost	3.3E7
+Qizhong Forest Sports City Arena	cost	2.4E9
+Qizhong Forest Sports City Arena	cost	2.0E8
+Ruppert Stadium (Newark)	cost	500000.0
+Glen Canyon Dam Bridge	cost	4000000.0
+Jack Russell Memorial Stadium	cost	317.0
+TP S.A. Tower	cost	2.0E8
+Family Circle Tennis Center	cost	1.5E7
+Estadio Nuevo Vivero	cost	4500000.0
+Baseball City Stadium	cost	1.3E7
+Plant City Stadium	cost	5700000.0
+Rancho Petaluma Adobe	cost	80000.0
+Arvest Ballpark	cost	3.2E7
+Scottrade Center	cost	1.35E8
+SS President Coolidge	cost	8017690.0
+William Lyon Mackenzie (fireboat)	cost	605000.0
+Weltzheimer/Johnson House	cost	30000.0
+One Beale	cost	1.5E8
+Commerce Square	cost	3.0E8
+Union Trust Building (Pittsburgh)	cost	1497000.0
+Azrieli Center	cost	3.5E8
+Sama Tower	cost	1.4E8
+1 New York Place	cost	6.8E8
+Kern Center	cost	3.1E7
+Torre Planetarium	cost	1.0E8
+San Angelo Stadium	cost	1.2E7
+Albany Municipal Coliseum	cost	5000000.0
+Great Republic	cost	450000.0
+Boshamer Stadium	cost	2.55E7
+Value City Arena	cost	1.16E8
+Peoria Civic Center	cost	6.4E7
+Dr Pepper Arena	cost	2.7E7
+Amway Center	cost	4.8E8
+Allie P. Reynolds Stadium	cost	2200000.0
+Estadio Mary Terán de Weiss	cost	1.15E7
+Estadio Mary Terán de Weiss	cost	3710000.0
+Albany Crown Tower	cost	8.3E7
+UNCG Soccer Stadium	cost	3600000.0
+SS Stella	cost	62000.0
+Titan Stadium (Cal State Fullerton)	cost	1.02E7
+Terry Park Ballfield	cost	701697.0
+Taichung Intercontinental Baseball Stadium	cost	6.0E8
+Crescent Bay, Karachi	cost	2.4E9
+Lankaran City Stadium	cost	1.5E7
+One SeaGate	cost	1.0E8
+Gamla Ullevi (2008)	cost	3.35E8
+Council House, Perth	cost	1500000.0
+HMS Onslow (G17)	cost	416942.0
+The Home Depot Center (tennis)	cost	1.5E8
+The Centaurus (building)	cost	3.5E8
+Varsity Gymnasium	cost	2054000.0
+Perth Arena	cost	4.83E8
+Confucius Plaza	cost	3.8387E7
+Princes Park, Dartford	cost	7000000.0
+Jesse Owens Memorial Stadium	cost	6500000.0
+Sør Arena	cost	4.0E8
+Norrporten Arena	cost	1.5E8
+Calgary Courts Centre	cost	3.0E8
+WFCU Centre	cost	7.1E7
+Castle Goring	cost	90000.0
+Telus Plaza	cost	2.2E7
+West Virginia State Penitentiary	cost	363061.0
+Thunderbird Stadium	cost	1236188.0
+Carolina Stadium	cost	3.56E7
+AFG Arena	cost	3.4E8
+Petah Tikva Stadium	cost	2.5E7
+Swedbank Stadion	cost	6.95E8
+MDCC-Arena	cost	3.1E7
+Energieteam Arena	cost	2.5E7
+Kyocera Stadion	cost	2.8E7
+Telenor Arena	cost	5.85E8
+Litchfield Towers	cost	1.4E7
+USS Cyclone (PC-1)	cost	2.569E7
+Memorial Stadium (Kansas State)	cost	500000.0
+Gettysburg National Tower	cost	2500000.0
+Sheridan Snyder Tennis Center	cost	1400000.0
+Kauffman Center for the Performing Arts	cost	4.15E8
+FAU Football Stadium	cost	6.2E7
+HMS Hindustan (1903)	cost	1450652.0
+Victoria Rooms, Bristol	cost	23000.0
+SS Minnewaska (1923)	cost	1175000.0
+555 Mission Street	cost	3.57E8
+His Majesty the King's 80th Birthday Anniversary, 5th December 2007 Sports Complex	cost	6.5E7
+Saga Ruby	cost	3.5E7
+Shanghai World Financial Center	cost	8.17E9
+Shanghai World Financial Center	cost	1.2E9
+Isidoro García Stadium	cost	4.87E7
+EnergySolutions Arena	cost	9.3E7
+Palacio de la Bahia	cost	2.0E8
+SS Delphine (1921)	cost	2000000.0
+SS George Washington	cost	6000000.0
+Waterside (building)	cost	200.0
+USS Isabel (PY-10)	cost	611553.0
+Echo Arena Liverpool	cost	1.64E8
+Galena Park ISD Stadium	cost	2.0872788E7
+MV Adonia	cost	1.5E8
+MS Salamis Filoxenia	cost	2.5E7
+Royal Commonwealth Pool	cost	3840000.0
+HMS Basilisk (H11)	cost	220342.0
+HMS Blanche (H47)	cost	225195.0
+HMS Beagle (H30)	cost	220342.0
+HMS Boreas (H77)	cost	221156.0
+HMS Brazen (H80)	cost	221156.0
+MV Armorique	cost	8.1E7
+Manchester Civil Justice Centre	cost	1.6E8
+Two World Financial Center	cost	8.0E8
+The Kirkby Project	cost	7.8E7
+Melbourne Rectangular Stadium	cost	2.68E8
+SF Ammonia	cost	829.485
+Farleigh House	cost	40000.0
+Minsk-Arena	cost	3.5E8
+Tuja-Stadion	cost	2000000.0
+Stade du Hainaut	cost	7.5E7
+Guldfågeln Arena	cost	2.5E8
+Joan C. Edwards Stadium	cost	3.0E7
+Fossetts Farm Stadium	cost	8.0E7
+Cardiff International Sports Stadium	cost	5700000.0
+Diamond of Istanbul	cost	1.8E8
+Capital One Tower (Lake Charles)	cost	3.1E7
+Istanbul Sapphire	cost	1.5E8
+HSBC Tower, Mexico City	cost	1.5E8
+Cardiff City Stadium	cost	4.8E7
+Estadio Monumental de Maturín	cost	8.5E7
+Dubai Towers Istanbul	cost	5.0E8
+The Pickaquoy Centre	cost	8400000.0
+SS City of Midland 41	cost	1750000.0
+Holmwood House	cost	3682.0
+HMS Agamemnon (1906)	cost	1652347.0
+Lupton Stadium	cost	7000000.0
+New Chargers Stadium	cost	1.0E9
+Grand Stade Lille Métropole	cost	2.82E8
+Grand Stade Lille Métropole	cost	4.2E7
+Buenos Aires Forum	cost	3.33E9
+The St. James	cost	8.0E7
+Celebrity Solstice	cost	7.5E8
+TVB City	cost	2.2E9
+Queensland Tennis Centre	cost	8.2E7
+Queensland Tennis Centre	cost	7.5E7
+Queensland Tennis Centre	cost	52.0
+Earl Wilson Stadium	cost	1200000.0
+Wembley Stadium	cost	9.0E8
+Houston City Hall	cost	1670000.0
+Glenn Warner Soccer Facility	cost	4200000.0
+Abbotsford Entertainment & Sports Centre	cost	64.7
+Scillonian (1925)	cost	24000.0
+Updown Court	cost	7.0E7
+Pullman Park	cost	5000000.0
+McMurtrey Aquatic Center	cost	6200000.0
+Huntington Center (Toledo)	cost	1.05E8
+Eugene E. Stone III Stadium (Greenville)	cost	1000000.0
+Starlight Theatre (Kansas City)	cost	1500000.0
+Clara Shortridge Foltz Criminal Justice Center	cost	3.37E7
+Spanish frigate Almirante Juan de Borbón (F102)	cost	6.0E8
+Town Toyota Center	cost	5.28E7
+Diamond Park	cost	6000.0
+Richmond Oval (South Australia)	cost	20000.0
+Celebrity Equinox	cost	7.5E8
+Celebrity Eclipse	cost	7.5E8
+The Dome Leisure Centre	cost	2.6E7
+One Island East	cost	2.0E9
+Isbank Tower 1	cost	2.3E8
+Dariush Grand Hotel	cost	1.25E8
+HMS Cachalot (S06)	cost	2340000.0
+Flower of the East	cost	1.7E9
+Carnival Dream	cost	7.4E8
+MS Viking XPRS	cost	1.3E8
+Carnival Magic	cost	7.4E8
+Pioneer Building (Seattle, Washington)	cost	250000.0
+HMS Defiance (1861)	cost	119442.0
+Melaleuca Field	cost	5600000.0
+Ron Joyce Stadium	cost	4.3E7
+Salt Lake Masonic Temple	cost	250000.0
+O2 World (Berlin)	cost	1.65E8
+Consolidated Credit Union Place	cost	4.25E7
+QuikTrip Park	cost	2.0E7
+Komplett.no Arena	cost	1.0E8
+UCM Multipurpose Building	cost	9500000.0
+Woollen Gymnasium	cost	646000.0
+RRS James Cook	cost	3.6E7
+Aleppo International Stadium	cost	3.0E7
+HMS Apollo (1805)	cost	34601.0
+Consol Energy Center	cost	3.21E8
+Bristol Central Library	cost	30000.0
+CN Tower (Edmonton)	cost	1.05E7
+Wellington Phoenix FC  Westpac Stadium   1	cost	1.3E8
+Hillsboro Stadium	cost	7500000.0
+Pennsylvania Governor's Residence	cost	2000000.0
+Rhein-Neckar-Arena	cost	1.0E8
+Ditherington Flax Mill	cost	17000.0
+USCGC Bittersweet (WLB-389)	cost	926769.0
+Ashburton Learning Village	cost	2.4E7
+Bicentennial Tower	cost	2100000.0
+John W. Pope, Jr. Convocation Center	cost	3.0E7
+Cougar Field	cost	3.0E7
+Singapore Sports Hub	cost	1.87E9
+Pittsburgh City-County Building	cost	2771000.0
+Canada Games Complex	cost	7100000.0
+MV Northern Expedition	cost	1.33E8
+Peoples Football Stadium	cost	3.07E7
+HMS Faulknor (H62)	cost	271886.0
+SS The Emerald	cost	2.5E7
+HMS E1	cost	101700.0
+Elveden Centre (Calgary)	cost	1.45E7
+Benjamin Mkapa National Stadium	cost	5.3E7
+HMS E4	cost	101900.0
+Light House (Aarhus)	cost	2.5E9
+SuperStar Aquarius	cost	2.4E8
+National Stadium, Warsaw	cost	5.0E8
+EWS-Arena	cost	16.0
+MV Queen of Prince Rupert	cost	6.0
+Viking ADCC	cost	6.0E7
+College Building (Saskatchewan)	cost	297000.0
+Vikings Stadium	cost	8.7E8
+HMS E5	cost	106700.0
+San Mamés Barria	cost	2.11E8
+HMS E6	cost	106900.0
+HMS E7	cost	105700.0
+HMS E8	cost	105700.0
+Allegany County Courthouse	cost	97000.0
+Wool Hall, Bristol	cost	4400.0
+Allerton Hotel	cost	4000000.0
+Link Centre	cost	9.0
+Buffalo City Tower	cost	3.61E8
+One M & T Plaza	cost	1.6E7
+Elm Place	cost	3.5E7
+Arena VFG	cost	8.0E7
+Robert and Mariam Hayes Stadium	cost	5900000.0
+MV Argyle	cost	9000000.0
+Naberezhnaya Tower	cost	5.0E8
+Maccabiah Stadium	cost	3000.0
+AIDAblu	cost	4.2E8
+Glamorgan Building	cost	67724.0
+Glamorgan Building	cost	54054.0
+Fountain-Fort Carson High School  Guy R. Barickman Stadium "The Brick House"   1	cost	3000000.0
+West Tower	cost	3.5E7
+Hillsboro wireless tower	cost	300000.0
+SS Admella	cost	15000.0
+Aces Ballpark	cost	5.0E7
+Centre Square	cost	8.0E7
+USS Conquest (AM-488)  yes   2	cost	742779.0
+Talbot Gardens	cost	1000000.0
+Ballpark Plaza	cost	7500000.0
+Tseung Kwan O Sports Ground	cost	3.5E8
+Thayer Hotel	cost	26.0
+Cicerone Field	cost	8400000.0
+Albion (wherry)	cost	455.0
+USCGC Woodbine (WLB-289)	cost	1156000.0
+Foote Field	cost	1.05E7
+Sennott Square	cost	3.5E7
+Allen Event Center	cost	7.0E7
+Magdalla Park	cost	10000.0
+Stockholmsarenan	cost	2.7E9
+Stockholmsarenan	cost	2.9E8
+MV Loch Shira	cost	5800000.0
+Leigh Sports Village	cost	17.5
+Sochi Olympic Stadium	cost	6.35E7
+Türk Telekom Arena	cost	2.5E8
+MS Island Escape	cost	1.0E8
+USCGC Evergreen (WLB-295)	cost	871946.0
+Trump Tower (Tampa)	cost	2.25E8
+SISD Student Activities Complex	cost	9200000.0
+HMS Russell (1901)	cost	1104051.0
+The Ice Sheet at Ogden	cost	6200000.0
+Duck Samford Stadium	cost	1100000.0
+Carnie Smith Stadium	cost	100000.0
+Watts Warehouse	cost	100000.0
+Torre Bicentenario	cost	6.1E8
+Auckland Town Hall	cost	126000.0
+Darwin Football Stadium	cost	6.5
+Estadio Romelio Martínez	cost	120000.0
+Omsk Arena	cost	2.5E7
+Multnomah County Courthouse	cost	1600000.0
+Canutillo Stadium	cost	1.49E7
+MS Bleu de France	cost	1.2E8
+USCGC Madrona (WLB-302)	cost	949144.0
+Redstone Building	cost	150000.0
+InfoCision Stadium – Summa Field	cost	6.16E7
+The Residences at The Ritz-Carlton (Philadelphia)	cost	2.85E8
+Denver Millennium Bridge	cost	9000000.0
+Polar 8 Project	cost	7.0E8
+HMS Egeria (1873)	cost	32468.0
+Ruby Princess	cost	4.0E8
+HMS E10	cost	105700.0
+Von Cramm Cooperative Hall	cost	300000.0
+Bonnington (sternwheeler)	cost	161055.0
+Murano (skyscraper)	cost	1.65E8
+Keangnam Hanoi Landmark Tower	cost	1.05E9
+Sengkang Sports and Recreation Centre	cost	4.87E7
+Coface Arena	cost	6.0E7
+Estadio Caliente	cost	3.0E7
+HMS E12	cost	101900.0
+Metropolitan Courthouse	cost	8.3E7
+Bahrain World Trade Center	cost	1.5E8
+TEE Center	cost	4.0E7
+Tulsa Expo Center	cost	3500000.0
+USCGC Fir (WLM-212)	cost	389746.0
+BB&T Field	cost	4000000.0
+Payne Park	cost	18000.0
+Centenary Building	cost	3.2
+350 Mission Street	cost	2.0E8
+Tilikum (boat)	cost	80.0
+Résidence Palace	cost	1.8E8
+HMS Miranda (1851)	cost	48393.0
+USS Nightingale (1851)	cost	43500.0
+Old Post Office (Omaha, Nebraska)	cost	2000000.0
+HMS Highflyer (1851)	cost	56075.0
+Carson Mansion	cost	80000.0
+SS Pacific (1849)	cost	700000.0
+Tancheon Sports Complex	cost	1.121E11
+Portsmouth Dockland Stadium	cost	6.0E8
+USS Vanderbilt (1862)	cost	800000.0
+Fenn Tower	cost	1500000.0
+Astana Arena	cost	1.85E8
+Palmer Mansion	cost	1000000.0
+Jay Bergman Field	cost	2834576.0
+Kimmel Arena	cost	5.0
+Eclipse (yacht)	cost	3.4E8
+MS Superstar	cost	1.2E8
+Museum of Modern Literature	cost	17.0
+Dubai Marriott Harbour Hotel & Suites	cost	1.41E8
+Louvre Abu Dhabi	cost	8.3E7
+MS Queen Elizabeth	cost	3.5E8
+The Cube (building)	cost	1.0E8
+Dickey-Stephens Park	cost	4.04E7
+USS Aroostook (1861)	cost	100500.0
+West Bar scheme	cost	4.0E8
+CTFD PortoGaia	cost	16.0
+Parus Business Centre	cost	1.0E8
+Mirax-Plaza Ukraine	cost	2.67E8
+1600 Pacific Tower	cost	1.6E7
+Museum Tower (Dallas)	cost	2.0E8
+Antilia (building)	cost	2.0E9
+Century Lotus Stadium	cost	9.39E8
+Constitution Center (Washington, D.C.)	cost	2.65E7
+PPL Park	cost	1.2E8
+South Point Arena	cost	5.0E7
+Charles de Gaulle Plaza	cost	50.0
+BRD Tower Bucharest	cost	6.8E7
+Bucharest Tower Center	cost	56.0
+Bucharest Financial Plaza	cost	3.0E7
+Arena Fonte Nova	cost	591.07
+Arena das Dunas	cost	3.0E8
+Floreasca City Center	cost	2.5E8
+Gränby Arena	cost	6.25E8
+HSC Alakai	cost	88.0
+New Earthquakes Stadium	cost	40.0
+Tun Mustapha Tower	cost	2.0E7
+All Pro Freight Stadium	cost	1.21E7
+Balmoral (cruise ship)	cost	1.78E8
+APIIC Tower	cost	3.0E9
+Rays Ballpark	cost	4.5E8
+Azadiye Stadium	cost	2.0E10
+Estadio Corona	cost	1.0E8
+HMNZS Hawea (2007)	cost	3.57E7
+Al Tayer Tower	cost	8.6E7
+HMS E13	cost	101900.0
+HMS E14	cost	105700.0
+HMS E16	cost	105700.0
+Platinum Tower (Beirut)	cost	2.0E8
+Cathedral Plaza Bucharest	cost	3.8E7
+Millennium Business Center	cost	35.0
+HMS Royal Oak (1892)	cost	977996.0
+Šiauliai Arena	cost	2.7E7
+HMS Vengeance (1899)	cost	891417.0
+HMS Glory (1899)	cost	780000.0
+HMS Montagu (1901)	cost	1046992.0
+HMS Exmouth (1901)	cost	1098159.0
+HMS Duncan (1901)	cost	1088897.0
+HMS Dominion (1903)	cost	1453718.0
+HMS New Zealand (1904)	cost	1424643.0
+Euro Tower	cost	8.4E7
+Robot Building	cost	1.0E7
+Cardiff Athletics Stadium	cost	5500000.0
+HMS Echo (H23)	cost	247009.0
+HMS Eclipse (H08)	cost	246664.0
+HMS Encounter (H10)	cost	252250.0
+HMS Escort (H66)	cost	249587.0
+HMS Escapade (H17)	cost	249987.0
+HMS Esk (H15)	cost	247279.0
+HMS Forester (H74)	cost	284898.0
+USS Glaucus (1863)	cost	160000.0
+Stade des Alpes	cost	8.8E7
+Holy Trinity Gough Square	cost	1600.0
+HMS Greyhound (1900)	cost	61066.0
+Orange County Courthouse (Florida)	cost	1.0E8
+Katherine Mansfield Birthplace	cost	400.0
+McAdam Railway Station	cost	30000.0
+Butler Chapel	cost	7800000.0
+HMS Daring (H16)	cost	225536.0
+The Pinnacle at Symphony Place	cost	1.7E8
+USS Resaca (1865)	cost	201229.19
+West End Summit	cost	310.0
+HMS Defender (1883)	cost	12600.0
+HMS Neptune (1874)	cost	600000.0
+USRC Seminole	cost	141000.0
+USRC Tench Coxe (1876)	cost	14800.0
+The Shops on Blue Parkway	cost	1.0E8
+HMS Defender (1911)	cost	83000.0
+HMS Delight (H38)	cost	229378.0
+Beechwood (mansion)	cost	2000000.0
+HMS Duchess (H64)	cost	229367.0
+HMS Dainty (H53)	cost	229378.0
+MSC Poesia	cost	3.6E8
+HMS Fly (1776)	cost	8694.0
+One Meridian Plaza	cost	4.0E7
+Monument House	cost	165000.0
+909 Walnut	cost	2850000.0
+Cannons (house)	cost	200000.0
+MSC Splendida	cost	5.5E8
+Dynamic Tower	cost	3.3E8
+925 Grand	cost	4300000.0
+HSC Hellenic Wind	cost	2.0E7
+Spier's School	cost	12000.0
+Mean Green Stadium	cost	7.8E7
+Corn Exchange, Bedford	cost	9000.0
+MSC Lirica	cost	2.5E8
+Premium Plaza	cost	28.0
+Europa Group Towers	cost	6.0E7
+City Gate Towers	cost	3.0E7
+Alia Apartments	cost	2.5E7
+Cefin Tower	cost	3.08E8
+MSC Orchestra	cost	4.8E8
+AT&T Center (St. Louis)	cost	1.5E8
+Civil Courts Building	cost	4500000.0
+MSC Sinfonia	cost	2.45E8
+MSC Melody	cost	1.0E8
+MS Golden Iris	cost	1.2E7
+MV Lochnevis	cost	5500000.0
+Coolray Field	cost	6.4E7
+Matthew Knight Arena	cost	2.27E8
+HMS Cruizer (1852)	cost	25213.0
+St Agatha's, Landport	cost	3250.0
+USRC Eagle	cost	1247.98
+Victoria Complex	cost	60.0
+Rin Grand Hotel	cost	6.0E7
+Costa Pacifica	cost	5.0E8
+Hotel Fontenelle	cost	1000000.0
+Farrington Field	cost	400000.0
+Old City Hall (Omaha)	cost	550000.0
+MV St Catherine	cost	5000000.0
+SS Maxim Gorkiy	cost	5600000.0
+The Whistler Sliding Centre	cost	1.05E8
+Centennial Tower (Singapore)	cost	1.49E8
+SS Shalom	cost	7500000.0
+Varaždin Arena	cost	26.0
+Varaždin Arena	cost	1.93E8
+Spaladium Arena	cost	5.0E7
+Saga Rose	cost	3.0E7
+Veterans Way at College Avenue (Tempe Transportation Center) (Sun Devil Stadium) (METRO Light Rail station)  Tempe Transportation Center   1	cost	2.5E7
+HMS Sparrow (1889)	cost	39000.0
+J. Mora Moss House	cost	14500.0
+HMS Wager (1739)  HMS Wager   1	cost	3912.0
+Cedar Park Center	cost	5.5E7
+MS Baltic Princess	cost	1.65E8
+Axis Tower	cost	17.0
+Walnut Lane Bridge	cost	260000.0
+USA Baseball National Training Complex	cost	1.1024691E7
+New Winnipeg Blue Bombers Stadium	cost	1.9E8
+New Winnipeg Blue Bombers Stadium	cost	1.95E8
+USS Wadena (SP-158)	cost	250000.0
+Sigma Towers	cost	200.0
+Parc y Scarlets	cost	2.3E7
+Alaskan (sidewheeler)	cost	350000.0
+MS Superspeed 1	cost	1.26E8
+44 Monroe	cost	7.0E7
+Sheraton Phoenix Downtown	cost	3.5E8
+Level-5 Stadium	cost	1.0E10
+Kirya Tower	cost	4.5E8
+Warren E. Steller Field	cost	150000.0
+Sialkot Hockey Stadium	cost	1.002E9
+Neve Tzedek Tower	cost	9.0E7
+Tel Aviv Towers	cost	1.0E8
+Stadionul Municipal (Braşov)	cost	3.0E7
+Isrotel Tower	cost	3.0E7
+USS Chateau Thierry (AP-31)	cost	2000000.0
+Bank Discount Tower	cost	5.0E7
+Buffalo Stadium	cost	400000.0
+USS St. Mihiel (AP-32)	cost	2000000.0
+Duke Energy Center	cost	8.8E8
+American Commerce Center	cost	8.0E8
+Greyhound (sternwheeler 1890)	cost	15000.0
+Altitude 25	cost	57.0
+MV Hamnavoe	cost	2.8E7
+Lurline (sternwheeler 1878)	cost	40000.0
+MS Regatta	cost	1.5E8
+Cardiff International Pool	cost	32.0
+Shanghai Tower	cost	2.2E9
+Katie Seashole Pressly Softball Stadium	cost	2600000.0
+The Vue	cost	2.75E8
+Estadio Virgilio Tejeira	cost	542313.0
+Ford Foundation Building	cost	1.6E7
+Burns Manor	cost	32000.0
+Random House Tower	cost	3.0E8
+Richard L. Jantz Stadium	cost	4000000.0
+Ciudad Deportiva (Nuevo Laredo)	cost	1.719E7
+Westin Virginia Beach Town Center	cost	9.8E7
+Guggenheim Abu Dhabi	cost	2.0E8
+State Cinema	cost	100000.0
+SS American (1900)	cost	540000.0
+Bee Building	cost	500000.0
+The Pinnacle@Duxton	cost	2.79E8
+Arena Indios	cost	1.45E8
+Mile-High Tower	cost	2.85E10
+Epcor Tower	cost	2.5E8
+1500 Louisiana Street	cost	2.0E8
+Cozzens House Hotel	cost	60000.0
+Sanford Center	cost	3.5E7
+BRP General Mariano Alvarez (PS-38)	cost	2.569E7
+Rossland (sternwheeler)	cost	86000.0
+London Heathrow Terminal 5	cost	4.2E9
+Zahedan Stadium	cost	7.0E10
+Paxton Hotel	cost	250000.0
+Arlington Apartments	cost	130000.0
+National Bowling Stadium	cost	4.75E7
+Dynamo Stadium (Houston)	cost	1.1E8
+PS Washington Irving	cost	1000000.0
+Kiseleff Business Plaza	cost	28.0
+Lytton (sternwheeler)	cost	38000.0
+Stockport Viaduct	cost	70000.0
+Burns Building	cost	350000.0
+Columbia (Arrow Lakes sternwheeler)	cost	75000.0
+Lafayette County Courthouse (Florida)	cost	47000.0
+Moncton Stadium	cost	17.0
+MS Lady of Mann	cost	3800000.0
+The Stahlman	cost	1000000.0
+Estadio de Fútbol Monterrey	cost	2.0E9
+New St Helens Stadium	cost	2.5E7
+Solaris Tower Constanţa	cost	3.0E7
+Tender Financial Center	cost	1.62E8
+Glasscock County Courthouse	cost	28000.0
+1027 Wilshire Boulevard	cost	3.5E8
+Continental Bank Building	cost	2.0E7
+Sky Towers Cluj Napoca	cost	2.7E8
+Hyatt Regency Denver at the Colorado Convention Center	cost	3.548E8
+Graphic Arts Building (Kansas City, Missouri)  Graphic Arts Building   1	cost	150000.0
+Baltimore City Circuit Courthouses	cost	2250000.0
+New Aberdeen Stadium	cost	50.0
+Baltimore City Hall	cost	2271135.64
+Hennon Stadium	cost	125000.0
+Matcal Tower	cost	4.0E8
+Caroline County Courthouse (Maryland)	cost	21000.0
+Talbot County Courthouse (Maryland)	cost	3000.0
+Beit Rubinstein	cost	4.0E7
+New Castleford Stadium	cost	1.5E7
+Bristol City Stadium	cost	2.9E7
+USC&GS Thomas R. Gedney	cost	63400.0
+Torre Fundadores	cost	1.6E8
+303 East 51st Street	cost	7.0E7
+USS Dewey (YFD-1)	cost	1127000.0
+Bryan Simpson United States Courthouse	cost	84.0
+SS Stevens	cost	130301.0
+Helen Miller Gould (schooner)	cost	22000.0
+MS Allure of the Seas	cost	1.2E9
+MS Oasis of the Seas	cost	1.4E9
+590 Madison Avenue	cost	1.0E7
+599 Lexington Avenue	cost	3.0E8
+Havelock City	cost	2.5E8
+Tom Tellez Track at Carl Lewis International Complex	cost	4000000.0
+2828 Peachtree	cost	3.6E7
+Peel County Courthouse	cost	18385.0
+Forsyth Barr Stadium	cost	1.983E8
+SS Canadiana	cost	250000.0
+McCormick Tribune Plaza & Ice Rink	cost	3200000.0
+The Corn Crib	cost	9000000.0
+Mount Breckan	cost	25000.0
+GIFT Diamond Tower	cost	2.0E9
+USLHT Azalea	cost	79792.4
+Los Angeles Stadium	cost	8.0E8
+Herndon House	cost	16000.0
+James Whatman Way	cost	1600000.0
+MSC Fantasia	cost	5.5E8
+TD Ameritrade Park Omaha	cost	1.31E8
+MF Storegut	cost	6500000.0
+SF Rjukanfoss	cost	313145.0
+JW Marriott Indianapolis	cost	4.5E8
+Yuen Long Stadium	cost	198000.0
+100 North Tampa	cost	1.8E8
+Bynum Gymnasium	cost	29500.0
+HMS Beagle (1854)	cost	23091.0
+HMS Beagle (1854)	cost	8302.0
+USRC Manning (1898)	cost	159951.0
+City Square (skyscraper)	cost	5.0E8
+SpiritBank Event Center	cost	5.0E7
+USS Ranger (SP-237)	cost	80000.0
+SS La Bretagne	cost	1700000.0
+Ward Homestead	cost	1500000.0
+B2net Stadium	cost	1.3E7
+The Towers (Manchester)	cost	50000.0
+Schenley Park Casino	cost	400000.0
+Schenley Park Casino	cost	540000.0
+ONEOK Field	cost	3.92E7
+SS Dakotan	cost	672000.0
+Chimo Aquatic and Fitness Centre	cost	1.95E7
+Noble County Courthouse (Ohio)	cost	183000.0
+USS Margaret (SP-527)	cost	104000.0
+Founder's Building	cost	600000.0
+ARA Ciudad de Zárate (Q-61)	cost	3402176.0
+ARA Ciudad de Rosario (Q-62)	cost	2779624.0
+MS Prinsendam (1973)	cost	2.7E7
+Riverfront Cluj Napoca	cost	1.05E8
+AIDAbella	cost	3.9E8
+USCGC Mohawk (WPG-78)	cost	499800.0
+Fontainebleau Resort Las Vegas	cost	1.675E9
+Dunnellen Hall	cost	1000000.0
+Hermitage Plaza	cost	2.5E9
+Bahrain Financial Harbour	cost	1.5E9
+MS Baltic Queen	cost	1.8E8
+Tuff-E-Nuff (tugboat)	cost	21000.0
+Hagan Arena	cost	2.5E7
+MV Malibu Princess	cost	335000.0
+McEwan Hall	cost	115000.0
+USRC Erie	cost	3600.0
+TSS King Orry (1946)	cost	402095.0
+HMS Reindeer (1883)	cost	34834.0
+Qasr al-Nil Bridge	cost	308000.0
+SS Pennsylvanian	cost	715000.0
+Colosseum Tower Bucharest	cost	1.5E8
+Houston Tower	cost	1.5E9
+SS Washingtonian	cost	733000.0
+Almoayyed Tower	cost	5.3E7
+Lincoln Center (Oregon)	cost	1.4E7
+Estadio Maya	cost	3.0E8
+Reading Festival Bridge	cost	1000000.0
+SS Montanan	cost	692000.0
+Iranistan	cost	150000.0
+Zaqatala City Stadium	cost	1.2E7
+SS Minnesotan	cost	668000.0
+Dr. Phillips Center for Performing Arts	cost	3.86E8
+Devon Tower	cost	7.5E8
+Abraj Al Lulu	cost	2.51E8
+Xerox Tower	cost	2.7E7
+SS Panaman	cost	715000.0
+St. Cecilia's Church and Convent (New York City)  St. Cecilia's Church and Convent   1	cost	60000.0
+McCoy Building	cost	2.42E8
+SS Iowan	cost	732000.0
+HMS Cormorant (1877)	cost	37630.0
+SS Ohioan (1914)	cost	730000.0
+SS Kentuckian	cost	579000.0
+IBM Somers Office Complex	cost	5.5E7
+The Volunteer (canal boat)	cost	993840.0
+Hōheikan	cost	28709.19
+Lindenwood Ice Arena	cost	4500000.0
+Niro Hotel Tower	cost	1.0E8
+Olympic Tower Bucharest	cost	1.8E8
+Biscuit Company Lofts	cost	2000000.0
+Stroh Center	cost	3.0E7
+Federal Land Tower	cost	4.6E8
+HMS Mariner (1884)	cost	37156.0
+HMS Racer (1884)	cost	37000.0
+HMS Melita (1888)	cost	60179.0
+SkyTurn Braşov	cost	1.0E8
+Cohoes City Hall	cost	63000.0
+Parkview Field	cost	3.06E7
+Oregon Civic Justice Center	cost	30000.0
+PS Duchess of Montrose	cost	19572.0
+HMS Hilary (1908)	cost	124000.0
+HMS Racoon (1887)	cost	60600.0
+HMS Racoon (1887)	cost	31000.0
+HMS Thrush (1889)	cost	39000.0
+Lowndes County Civic Center	cost	74000.0
+HMS Bounty	cost	1950.0
+Estadio Zapote	cost	1.2E8
+South Okanagan Events Centre	cost	5.616E7
+Australian Equine and Livestock Events Centre	cost	3.0E7
+Comcast Arena at Everett	cost	7.15E7
+HMS Viper (1865)	cost	51127.0
+Biemesderfer Stadium	cost	450000.0
+Miami Ballpark	cost	5.15E8
+CSKA Moscow Stadium	cost	2.0E8
+The Vale Niseko	cost	2.0E7
+Woodside Plaza	cost	2.5E8
+Union County Courthouse (Florida)	cost	39000.0
+SS Schenectady	cost	2700000.0
+Washington–Grizzly Stadium	cost	1000000.0
+USC&GS Carlile P. Patterson	cost	100000.0
+SS Orcades (1948)	cost	3418000.0
+Shangri-La at the Fort, Manila	cost	2.5E8
+Stadionul Ilie Oană	cost	1.7E7
+LKG Tower	cost	5.5E7
+HMS Investigator (1848)	cost	25337.0
+Winter Garden at Exposition Hall	cost	1000000.0
+Winter Garden at Exposition Hall	cost	600000.0
+Gradski vrt Hall	cost	3.0E7
+Canal Park (Akron, Ohio)	cost	3.1E7
+Leon County Civic Center	cost	3.38E7
+USS West Ekonk (ID-3313)	cost	1776468.0
+Northern Lights Astana	cost	2.5E8
+Astana Markets	cost	8.0E8
+Emerald Towers	cost	3.5E8
+The Spiral Astana	cost	5.0E8
+Grand Alatau	cost	2.5E8
+Ken Dala Towers	cost	1.2E8
+Ritz-Carlton Astana	cost	3.0E8
+MS Astor	cost	6.5E7
+Bacton Gas Terminal	cost	1.0E7
+Waldorf Astoria Hotel & Residences Philadelphia	cost	4.2E8
+USS Michael Monsoor (DDG-1001)	cost	3.3E9
+Aztec Aquaplex	cost	1.2E7
+Old Charlotte County Courthouse	cost	106900.0
+Field of Dreams (Laredo, Texas)	cost	1.8E7
+Coliseo Centenario	cost	1.0E8
+Strata (building)	cost	1.13E8
+Cougar Softball Stadium	cost	2400000.0
+Woodstock District Community Complex	cost	1.2284E7
+Prime Tower (Zurich)	cost	3.55E8
+HMS Alert (1856)	cost	36743.0
+Bronco Student Center	cost	1.83E7
+N.O.C. Tower	cost	1.05E8
+Thomas Jefferson Hotel	cost	2500000.0
+SS Faith	cost	750000.0
+MS Nautica	cost	1.5E8
+Riverside Stadium (Victoria)	cost	25000.0
+Cido Arena	cost	1.08E8
+Ergo Arena	cost	6.0E7
+Žalgiris Arena	cost	5.0E7
+Kovalchick Convention and Athletic Complex	cost	5.4E7
+Stadionul Național	cost	2.34E8
+Stadionul Ion Moina	cost	5.8E7
+New Varna Stadium	cost	8.0E7
+SS Pennsylvania (1872)	cost	520000.0
+SS Ohio (1872)	cost	520000.0
+SS Indiana (1873)	cost	520000.0
+SS Illinois (1873)	cost	520000.0
+USS Supply (1873)	cost	520000.0
+Ursa tension leg platform	cost	1450000.0
+USRC Dallas (1874)	cost	71000.0
+Orhideea Business Center	cost	1.52E8
+USS PC-1181	cost	1600000.0
+USS PC-496	cost	1600000.0
+New Evansville Arena	cost	1.27E8
+Northumberland Development Project	cost	4.0E8
+MS Amadea	cost	1.5E8
+Walka Water Works	cost	170000.0
+USRC Mackinac (1903)	cost	75000.0
+De Montfort Park	cost	4000000.0
+Gillender Building	cost	500000.0
+MTA Building	cost	3.0E8
+HMVS Childers	cost	10500.0
+Bristol (1866)	cost	1250000.0
+Providence (1866)	cost	1250000.0
+USS Surveyor (1917)	cost	236000.0
+USC&GS Surveyor (1917)	cost	236000.0
+USC&GS Yukon (1898)	cost	10926.4
+World Trade Center, Islamabad	cost	3.0E8
+MV Cenred	cost	1800000.0
+Rhoads Stadium	cost	2200000.0
+USCGC Active (WPC-125)	cost	63163.0
+USRC Active (1816)	cost	1300.0
+Martindale Hall	cost	72000.0
+Lincoln Performing Arts Centre	cost	5900000.0
+MV Black Prince (1966)	cost	2.0E7
+MV Bute	cost	8500000.0
+100 St Georges Terrace	cost	2.5E8
+Icardo Center	cost	5000000.0
+Partnership House	cost	3.5E7
+OHSU Center for Health & Healing	cost	1.4E8
+Indiana State University Recreational Center	cost	2.4E7
+Aviva Stadium	cost	4.1E8
+Aviva Stadium	cost	1.91E8
+Brazilian battleship Minas Geraes	cost	8863842.0
+USS Natoma (SP-666)	cost	45000.0
+USC&GS Natoma (1913)	cost	45000.0
+Golden Jubilee House	cost	30.0
+Drayton McLane Baseball Stadium at John H. Kobs Field	cost	4300000.0
+International Finance Complex	cost	1.0E9
+80th Birthday Stadium	cost	6.5E7
+UT Arlington College Park Center	cost	7.8E7
+Umpqua Bank Plaza	cost	1.6E7
+MV Boudicca	cost	2.25E7
+Hauptstadion	cost	1.7E7
+Hardt Field	cost	2000000.0
+Menara Carigali	cost	6.65E8
+Bonython Hall	cost	50000.0
+Cardiff Central Library	cost	1.35E7
+Old Byrd Stadium	cost	60000.0
+SS Tubantia	cost	300000.0
+The Wave (building)	cost	1.5E8
+USCGC Citrus (WLB-300)	cost	853987.0
+Clearwater Athletic Field	cost	25000.0
+Manning Bowl	cost	500000.0
+120 Wall Street	cost	1.2E7
+MV Pioneer (1974)	cost	1.0
+Chattri (Brighton)	cost	4964.0
+HMS Hazard (1837)	cost	10500.0
+City of Capitals	cost	4.5E8
+USCGC Cobb (WPG-181)	cost	2500000.0
+Yankee Stadium	cost	1.5E9
+City of Detroit III	cost	1500000.0
+MV Pentalina-B	cost	740.0
+MV Pentalina	cost	10.0
+New Tivoli	cost	5.0E7
+TIV MPI Resolution	cost	9.3E7
+RNLB Mary Stanford	cost	9402.0
+Ritchie Coliseum	cost	200000.0
+The Knightsbridge Residences	cost	4.7E9
+Shire Hall, Monmouth	cost	1700.0
+BMW Central Building	cost	6.0E7
+Caja Mágica	cost	1.6E8
+Chernomorets Arena	cost	5.0E8
+HSC Huakai	cost	88.0
+Peace and Friendship Stadium	cost	2.5E7
+Peace and Friendship Stadium	cost	7300000.0
+Four Seasons Hotel Mumbai	cost	1.0E8
+Markin Family Student Recreation Center	cost	2.5E7
+Teaching Gym (Florida A&M)	cost	4.0E7
+Bear Down Gym    1	cost	130000.0
+SS Baltic (1850)	cost	750000.0
+Helliniko Olympic Arena	cost	4.9E7
+York Stadium	cost	1.05E7
+Tony Ireland Stadium	cost	16.5
+Estadio Correcaminos	cost	510000.0
+NZGSS Hinemoa	cost	23500.0
+Environiq Arena	cost	2.3E8
+Kokernot Field	cost	1250000.0
+MS Isle of Inishmore	cost	6.0E7
+Altolusso	cost	4.0E7
+Harbor Club Condominiums	cost	9.6E7
+Sapphire Tower (San Diego)	cost	6.66E7
+Meridian Condominiums	cost	7.11E7
+Omni San Diego Hotel	cost	1.24E8
+Kanchanaburi Stadium	cost	3500000.0
+Infinity Bridge	cost	15.0
+Tour Inline Hockey Arena	cost	2100000.0
+Grosvenor Place (Sydney)	cost	3.5E8
+Estadio CAP	cost	1.5E7
+Nuevo Estadio de San José	cost	1.25E8
+Ezekiel W. Cullen Building	cost	5500000.0
+HSC Jonathan Swift	cost	2.9E7
+Veszprém Aréna	cost	4.7E9
+Arena Larvik	cost	9.69E8
+MV Chauncy Maples	cost	13500.0
+Nielsen Fieldhouse	cost	175000.0
+Stuart Stadium	cost	120000.0
+CityScape (Phoenix)	cost	9.0E8
+PS John H Amos	cost	18500.0
+Disch Field	cost	250000.0
+Hyannis Youth and Community Center	cost	2.5E7
+Dallas Statler Hilton	cost	1.6E7
+Rice Stadium (Utah)	cost	133000.0
+Werner Park	cost	3.6E7
+USRC Thomas Corwin (1876)	cost	92000.0
+Meiklejohn Stadium	cost	2000000.0
+Mincarlo (trawler)	cost	76600.0
+Estádio do Zimpeto	cost	5.7E7
+Vancouver Olympic/Paralympic Centre	cost	3.905E7
+Berkut Stadium	cost	750000.0
+RMS Medina (1911)	cost	332377.0
+HMS Icarus (1885)	cost	39369.0
+Bradford City Hall	cost	100000.0
+Soldiers and Sailors Memorial Coliseum	cost	180000.0
+Halifax Town Hall	cost	50126.0
+University Village, New York	cost	1.25E7
+New Troy University arena	cost	5.7E7
+HMS Surprise (1856)	cost	33356.0
+Old Gym	cost	40000.0
+Santos Place	cost	2.7E8
+Church Army Chapel, Blackheath	cost	250000.0
+Morey Mansion	cost	20000.0
+Mesa Laboratory	cost	4500000.0
+Leah Victoria Park	cost	7000000.0
+SS Archimedes	cost	10500.0
+Salt River Fields at Talking Stick	cost	1.0E8
+Queen of the Islands	cost	2100000.0
+HSC Stena Explorer	cost	6.5E7
+Knighton Community Centre	cost	600000.0
+Manchester Regional Arena	cost	3500000.0
+Coal Palace	cost	25000.0
+Queensland State Hockey Centre	cost	12.0
+Adams County Courthouse (Ohio)	cost	50000.0
+One One One Eagle Street	cost	3.35E8
+Mexico City Arena	cost	3.0E8
+Akademik Lomonosov	cost	3.36E8
+Kron Tower	cost	1.0E8
+Nusco Tower	cost	5.0E7
+Asmita Gardens	cost	250.0
+PGV Tower	cost	2.5E7
+Bucharest Corporate Center	cost	2.0E7
+Timişoara High Tower	cost	1.62E8
+Fructus Tower	cost	3.5E7
+Mercantile Continental Building	cost	1650000.0
+Karen Demirchyan Complex	cost	4.77E7
+Carpenter Complex	cost	250000.0
+Alan B. Miller Hall	cost	5.21E7
+Alan B. Miller Hall	cost	7.5E7
+Integrated Science Center	cost	4.23E7
+Clark County Courthouse (Ohio)	cost	115000.0
+USCGC Woodrush (WLB-407)	cost	926156.0
+Faliro Sports Pavilion Arena	cost	3.8E7
+Crest House	cost	50000.0
+Sea Pole class bathyscaphe	cost	1.8E8
+St Andrew's-by-the-Green	cost	1250.12
+Dana Complex	cost	30.0
+Kuching Tower	cost	5.0E7
+Ministry of Finance Building, Brunei	cost	1.0E8
+Wisma Sanyan	cost	3.4E7
+DST Group Building	cost	8.48E7
+PGGMB Building	cost	8000000.0
+Tiger Stadium (Corsicana)	cost	1.8E7
+West Palm Beach Municipal Stadium	cost	1000000.0
+Wilmington Park	cost	185000.0
+Western Australian Athletics Stadium	cost	7.34E7
+Estadio Las Gaunas	cost	2.0E7
+Renaissance Coliseum	cost	5.0E7
+MV Cardiff Castle	cost	33000.0
+Trump SoHo	cost	4.5E8
+MV Karina	cost	5900.0
+Seymour Shaw Park	cost	1200000.0
+Victoria Tower (Guernsey)	cost	2000.0
+Arena Zenica	cost	1.6E7
+Dilhorn House	cost	4684.0
+Leslie Dan Faculty of Pharmacy	cost	7.5E7
+University Stadium (West Georgia)	cost	2.9E7
+Woermann Tower	cost	1.03389E7
+California University of Pennsylvania Convocation Center	cost	5.4E7
+USRC Moccasin (1865)	cost	14000.0
+Olympic Training Center (Rio de Janeiro)	cost	1.95E8
+Olympic Tennis Center (Rio de Janeiro)	cost	4.6E7
+Olympic Aquatics Stadium, Rio de Janeiro	cost	3.8E7
+San Rafael (steamboat)	cost	150000.0
+University of Arkansas Campus Historic District  Peabody Hall   1	cost	40000.0
+University of Arkansas Campus Historic District  Gibson Hall   1	cost	165000.0
+Clermont County Courthouse	cost	100000.0
+USRC Forward (1882)	cost	72750.0
+Time Warner Cable Stadium	cost	4000000.0
+MV Caledonia	cost	600000.0
+MV Glen Sannox	cost	468000.0
+Grand Stade d'Alger	cost	1.0E8
+MV Coruisk	cost	6.0
+Mayagüez Athletics Stadium	cost	4.3840564E7
+Arena Ludwigsburg	cost	2.1E7
+UIUC Engineering Hall	cost	162278.4
+Robertson Gymnasium	cost	1602499.0
+USRC Wissahickon (1904)	cost	69800.0
+USCGC Winnisimmet (WYT-84)	cost	50000.0
+USC&GS Ranger	cost	80000.0
+USRC William H. Seward (1864)	cost	34600.0
+USC&GS Taku	cost	11844.35
+Old Tsan Yuk Maternity Hospital	cost	94000.0
+USC&GS Marindin	cost	12000.0
+USC&GS Ogden	cost	12000.0
+USC&GS Discoverer (1918)	cost	500000.0
+Defiance County Courthouse	cost	72000.0
+USC&GS Marinduque	cost	67673.42
+MV European Highlander (2002)	cost	3.5E7
+MV Seymour Castle	cost	2079.0
+Fairfield County Courthouse (Ohio)	cost	138921.0
+USC&GS Cosmos	cost	8073.61
+Greenhill Stadium	cost	3.1E9
+Memorial Gymnasium (University of Idaho)  Memorial Gymnasium   1	cost	616767.0
+Half Acre Gym	cost	150000.0
+Royal Edward Arms	cost	419000.0
+Twelve west (building)	cost	1.37E8
+Dunedin Town Hall	cost	20000.0
+Dunedin Town Hall	cost	86000.0
+Ted Smout Memorial Bridge	cost	3.15E8
+Sun Devil Gym	cost	1000000.0
+Greene County Courthouse (Ohio)	cost	191764.5
+USC&GS Mitchell	cost	12000.0
+Jinan Olympic Sports Center Stadium	cost	2.5E9
+400 George Street	cost	2.7E8
+RCBC Plaza	cost	4.0E8
+SS Reina del Mar	cost	2500000.0
+KV Arena	cost	1.5E9
+Digital Media City Landmark Building	cost	2.9E9
+Campbell's Field	cost	2.5E7
+Lviv New Stadium	cost	8.5E7
+Stade de l'Épopée	cost	2.2E7
+Savage Stadium	cost	38000.0
+Cutts-Madison House	cost	5750.0
+Frazer Field	cost	50000.0
+Main Building (University of Santo Tomas)	cost	1500000.0
+Buchanan's Hotel	cost	12000.0
+Agustín Ross Cultural Center	cost	1327404.0
+United Sports	cost	1.5E7
+Physical Education Complex	cost	1.3E8
+Cidade da Música	cost	3.0E8
+Alwyn Williams (geologist)  Sir Alwyn Williams Building   1	cost	4.0
+Utopia (cruise ship)	cost	1.1E9
+Weatherly Building	cost	1500000.0
+HSC HSS Discovery	cost	6.5E7
+Banff National Park Pavilion	cost	20000.0
+Banff National Park Pavilion	cost	40000.0
+Banff National Park Pavilion	cost	100000.0
+USRC Hamilton (1871)	cost	65000.0
+First Church of Christ, Scientist (Tacoma, Washington)  1	cost	45000.0
+Hooper House (Baltimore County, Maryland)	cost	150000.0
+Collins Place	cost	2.7E8
+Kennesaw State University Soccer Stadium	cost	1.65E7
+RMS Queen Mary 2	cost	4.6E8
+RMS Queen Mary 2	cost	7.0E8
+RMS Queen Mary 2	cost	9.0E8
+New Eskişehir Stadium	cost	8.0E7
+Old Dallas Central Library	cost	2500000.0
+Expedia Building	cost	1.0E8
+SS Carolina	cost	500000.0
+Colcord Hotel	cost	1.6E7
+Hartford Building (Dallas, Texas)	cost	5000000.0
+Rainbow Warrior (2011)	cost	14.0
+Corrigan Tower	cost	5000000.0
+Intercontinental Tower, Manchester	cost	80.0
+Memorial by Windsor	cost	6.0E7
+2727 Kirby	cost	1.2E8
+Heraklion Arena	cost	2.8E7
+Costa Deliziosa	cost	4.5E8
+HMS Hyacinth (1881)	cost	52500.0
+HMS Hyacinth (1881)	cost	14500.0
+New Rotherham United Stadium	cost	25.0
+Cleopatra's Barge	cost	100000.0
+MV Chetzemoka	cost	7.75E7
+St. Gregory the Great's Church (Manhattan)	cost	120000.0
+Wesley Brown Field House	cost	5.0E7
+1 Bligh Street	cost	2.7E8
+Livestrong Sporting Park	cost	2.0E8
+Costa Favolosa	cost	5.1E8
+MSC Magnifica	cost	5.47E8
+Townsville Post Office	cost	12000.0
+Bushwick Democratic Club House	cost	60000.0
+Thomas Jefferson Association Building	cost	150000.0
+Germania Club House	cost	140000.0
+Herman Behr Mansion	cost	80000.0
+Eagle Warehouse & Storage Company	cost	300000.0
+Brooklyn Savings Bank (building)	cost	300000.0
+Celebrity Silhouette	cost	7.5E8
+Beijing National Stadium	cost	4.23E8
+Deh Cho Bridge	cost	1.82E8
+Sala Sporturilor Concordia	cost	1.0E7
+Workingman's Institute and Memorial Hall	cost	6000.0
+Flying Spur (clipper)	cost	13.787
+Grand Tower (Lansing)	cost	1.8783166E7
+Barra Velodrome	cost	3.5E7
+Arena Vänersborg	cost	2.75E8
+Alma Grace McDonough Health and Recreation Center	cost	6000000.0
+Washington Trust Field and Patterson Baseball Complex	cost	7.0
+Our Lady of Vilnius Church (New York City)	cost	25000.0
+Scillonian (1955)	cost	250000.0
+HMS Iris (1840)	cost	17233.0
+360 State Street	cost	1.8E8
+Kline Biology Tower	cost	1.2E7
+D. J. Sokol Arena	cost	1.9E7
+Tŷ Pont Haearn	cost	1.97E7
+MV Juno (1974)	cost	820000.0
+Garland Special Events Center	cost	3.15E7
+MS Ostend Spirit	cost	1.0E8
+Arena Ulm/Neu-Ulm	cost	27.0
+Tûranor PlanetSolar	cost	1.25E7
+ArcelorMittal Orbit	cost	19.1
+Pomorie Stadium	cost	3.0
+Evolution Tower	cost	1.35E8
+505 North Ervay	cost	2000000.0
+Stillman House	cost	23000.0
+USCGC Clover (WLB-292)	cost	907240.0
+USCGC Tupelo (WLB-303)	cost	948887.0
+Young America (clipper)	cost	140000.0
+MV Finlaggan	cost	2.5E7
+Abenobashi Terminal Building Tower	cost	7.6E10
+Deodoro Arena	cost	4.1E7
+National Equestrian Center	cost	1.1E7
+Church of St. John Nepomucene	cost	300000.0
+Western Australian Basketball Centre	cost	40.0
+Hays Hall	cost	95977.59
+Eagle Stadium (Allen, Texas)	cost	5.96E7
+EnergieVerbund Arena	cost	2.97E7
+Kazakhstan Central Concert Hall	cost	120.0
+Armeets Arena	cost	1.08E8
+Courthouse of Arezzo	cost	1.4E7
+Petersen Sports Complex	cost	2.9E7
+Bayscape	cost	6.0E7
+MV Moscow University	cost	4.026E7
+Arrington Ice Arena	cost	5500000.0
+PVN Tower	cost	6.0E8
+Okeechobee County Courthouse	cost	200000.0
+USRC Tahoma (1909)	cost	225000.0
+Stadion Hrvatski vitezovi	cost	55.0
+Technology Center (Washington & Jefferson College)	cost	2.96E7
+RNLB Aguila Wren	cost	14000.0
+Carnival Breeze	cost	7.4E8
+Swanson Science Center	cost	3.3E7
+Vigo County Courthouse	cost	443000.0
+Campus Center Ice Arena	cost	25.5
+USRC Alabama (1819)	cost	4500.0
+USRC Louisiana (1819)	cost	4500.0
+Main and Gervais	cost	6.0E7
+West Hall (Valdosta State University)	cost	75000.0
+StarTex Power Field	cost	3.0E7
+El Mani Pavilion	cost	3500000.0
+USRC Yamacraw (1909)	cost	200000.0
+SunTrust Center	cost	1.0E8
+Alabama Power Headquarters Building	cost	7.5E7
+Tampereen Keskusareena	cost	7.0E7
+McMullen Hockey Arena	cost	1.65E7
+Arena Palestra Itália	cost	3.4E8
+Bradford R. Boss Arena	cost	1.2E7
+Audi Sportpark	cost	2.0E7
+Lincoln Haymarket Arena	cost	1.8E8
+Manchester (barque)	cost	23000.0
+Edward B. Bunn S.J. Intercultural Center	cost	3.3E7
+Scully-Fahey Field	cost	4400000.0
+Estadio Universitario UES	cost	30000.0
+IHNC Lake Borgne Surge Barrier	cost	1.1E9
+Parkinson Building	cost	200000.0
+Shanghai Tower (Liverpool)	cost	3.0E8
+Pizza Hut Park	cost	8.0E7
+D.C. United Stadium	cost	1.8E8
+Hylton Performing Arts Center	cost	4.6E7
+Joel Wiens Stadium	cost	5800000.0
+Colonial Brookwood Center	cost	3.6E7
+RUM Tennis Courts	cost	9700000.0
+HMSAS Afrikander	cost	13000.0
+36 East 72nd Street	cost	5.0
+RUM Racquetball Courts	cost	1200000.0
+Great Hall of the University of Leeds	cost	22000.0
+Arena 92	cost	250.0
+Stade Abdelkader Khalef	cost	3.48E8
+Sala Sporturilor (Craiova)	cost	3.5E7
+Tomlinson Lift Bridge	cost	1.25E8
+McPherson Stadium	cost	1900000.0
+Thresher Stadium	cost	5500000.0
+Smisor Stadium	cost	1500000.0
+Lindstrom Field	cost	5500000.0
+Meridian Gate, Cardiff	cost	3.0E7
+Shrine of Our Lady of Lourdes, Blackpool	cost	50000.0
+1049 5th Avenue	cost	3.8E7
+Sea Installer	cost	1.39E8
+MV Dartmouth Castle	cost	11331.0
+New Pebble Park	cost	3000.0
+Henderson County Courthouse (Texas)	cost	170000.0
+MV Muirneag	cost	3200000.0
+Compadre Stadium	cost	1600000.0
+MS Lord Selkirk II	cost	1509565.0
+Arena Montpellier	cost	5.3E7
+MV Hrossey	cost	3.5E7
+Gulf Intracoastal Waterway West Closure Complex	cost	1.0E9
+The Failsworth Project	cost	2.0E7
+New Slovakia national stadium	cost	6.912E7
+Necker Nymph	cost	415000.0
+USCGC Adak (WPB-1333)	cost	7000000.0
+The Iceberg Arena	cost	2000000.0
+MV Lochiel (1939)	cost	62805.0
+MV Maid of Ashton	cost	145000.0
+MV Maid of Argyll	cost	145000.0
+MV Maid of Skelmorlie	cost	145000.0
+MV Maid of Cumbrae	cost	145000.0
+MV Arran	cost	257960.0
+Nassau County Courthouse (Florida)	cost	20614.0
+College Stadium	cost	25730.0
+Estadio del Bicentenario (Tepic)	cost	3.0E8
+National Synchrotron Light Source II	cost	9.12E8
+MV Bute (1954)	cost	257960.0
+Rutherford Arena	cost	47000.0
+Blount Building	cost	200000.0
+Suncoast Stadium	cost	6.8E7
+Olympic Velodrome, Rome	cost	1.05
+TSS Ben-my-Chree (1927)	cost	200000.0
+Nasiriyah Drainage Pump Station	cost	1.0E8
+HMS Penguin (1876)	cost	39643.0
+HMS Penguin (1876)	cost	11853.0
+Brazilian ironclad Tamandaré	cost	40506.0
+HMS John Ericsson	cost	841507.0
+HMS Thordön	cost	864285.0
+HMS Tirfing (1866)	cost	881337.0
+HMS Loke (1869)	cost	1200428.0
+HNoMS Mjølner (1868)	cost	1102000.0
+Brazilian ironclad Rio de Janeiro	cost	47409.0
+Brazilian ironclad Barroso	cost	55046.0
+Carnegie (ship)	cost	115000.0
+MV Cowal	cost	257960.0
+Multipurpose Activity Center	cost	5.7E7
+Penang Masonic Temple	cost	31292.5
+Moston Community Stadium	cost	3500000.0
+Švyturio Arena	cost	1.6E7
+SkyWheel (Myrtle Beach)	cost	1.2E7
+MV Keppel	cost	740000.0
+ANZ Bank Centre	cost	8.0E8
+HMS Cyclops (1871)	cost	156782.0
+HMS Gorgon (1871)	cost	141254.0
+HMS Hecate (1871)	cost	156782.0
+HMS Hydra (1871)	cost	194334.0
+King Abdullah Sports City	cost	1.0E9
+Witch of the Wave (clipper)	cost	80000.0
+Barnegat (lightship)	cost	89030.0
+Cathedral Prep Events Center	cost	8800000.0
+United States lightship WAL 539	cost	223900.0
+Alytus Arena	cost	3.5E7
+Los Angeles County Hall of Records	cost	1.37E7
+Bilbao Arena	cost	3.8E7
+HMS Swinger (1872)	cost	10600.0
+World's littlest skyscraper	cost	200000.0
+Dębowiec Sports Arena	cost	7.5E7
+Manchester Courts	cost	19000.0
+PS Commonwealth (1854)	cost	250000.0
+Washington Athletic Club	cost	2500000.0
+MS Insignia	cost	1.5E8
+HMS Taiaroa (1883)	cost	12600.0
+HMS Waitemata (1883)	cost	12600.0
+HMS Poneke (1883)	cost	12600.0
+Amex House	cost	10.0
+Vanna Venturi House	cost	43000.0
+HMS Rambler (1880)	cost	26625.0
+HMS Rambler (1880)	cost	10413.0
+HMS Goldfinch (1889)	cost	39300.0
+United States Lightship LV-87	cost	99000.0
+Davies Gym	cost	170000.0
+Alfond Stadium (University of Maine)	cost	7500000.0
+Chatham Center	cost	2.6E7
+Sky Towers	cost	5.122E8
+SOCAR Tower	cost	2.35E8
+Bishop Hall (Miami University)	cost	75000.0
+Benton Hall (Miami University)	cost	8961000.0
+Bachelor Hall (Miami University)	cost	5352000.0
+Billings Natatorium	cost	666000.0
+Stoddard and Elliott Halls (Miami University)	cost	7000.0
+Salvation Army Headquarters (Saint Paul, Minnesota)	cost	25000.0
+Reid Hall (Miami University)	cost	795200.0
+Miami University King Library	cost	3574000.0
+Laws Hall (Miami University)	cost	1701000.0
+Harrison Hall (Miami University)	cost	1004000.0
+Ogden Hall (Miami University)	cost	300000.0
+Cameron County Courthouse (Pennsylvania)	cost	5000.0
+Stony Brook University Arena	cost	1.7E7
+Farmers Field	cost	1.0E9
+Lori Stadium	cost	2.0
+Athletic Ground (Cobridge)	cost	1500.0
+Creighton Stadium	cost	335000.0
+McCurdy Field	cost	15000.0
+McCurdy Field	cost	200000.0
+TSS Mona's Queen	cost	411241.0
+RTÉ Television Centre	cost	500000.0
+Advent Lutheran Church (New York City)	cost	70000.0
+Holy Trinity Lutheran Church (Manhattan)	cost	125000.0
+Bethany Baptist Church (New York City)	cost	250.0
+Christ Church Lutheran (New York City)	cost	10000.0
+Messiah Mission Church (New York City)	cost	40000.0
+Our Saviour's Atonement Lutheran Church (New York City)	cost	30000.0
+Holy Cross Armenian Apostolic Church (New York City)	cost	30000.0
+San Lorenzo Ruiz Chapel (New York City)	cost	40000.0
+Corpus Christi Church (New York City)	cost	45000.0
+Church of Our Lady of Esperanza	cost	50000.0
+Our Lady Queen of Martyrs Church (New York City)	cost	160000.0
+St. Agnes' Church (New York City)	cost	31000.0
+St. Aloysius Gonzaga's Church (New York City)	cost	60000.0
+St. Aloysius Gonzaga's Church (New York City)	cost	60000.0
+St. Andrew's Church (New York City)	cost	632153.0
+St. Benedict the Moor's Church (New York City)	cost	220000.0
+St. Ann's Roman Catholic Church (Manhattan)	cost	175000.0
+St. Catherine of Genoa's Church (New York City)	cost	45000.0
+Our Lady of Victory Church (Manhattan)	cost	430000.0
+St. Catherine of Siena's Church (New York City)	cost	100000.0
+St. Jean Baptiste's Church (New York City)	cost	80000.0
+St. John the Baptist Church (Manhattan)	cost	175000.0
+St. John the Evangelist's Church (Manhattan)	cost	80000.0
+St. John the Evangelist's Church (Manhattan)	cost	900.0
+St. Veronica's Church (Manhattan)	cost	55000.0
+St. Veronica's Church (Manhattan)	cost	90000.0
+St. Monica's Church (Manhattan)	cost	120000.0
+St. Monica's Church (Manhattan)	cost	275000.0
+St. Jude's Church (New York City)	cost	600000.0
+Tynwald (1947)	cost	461859.0
+Snaefell (1948)	cost	504448.0
+Mona's Isle (1950)	cost	570000.0
+St. Rose of Lima's Church (Manhattan)	cost	70000.0
+St. Rose of Lima's Church (Manhattan)	cost	16000.0
+St. Rose of Lima's Church (Manhattan)	cost	250000.0
+St. Rose of Lima's Church (Manhattan)	cost	75000.0
+St. Stanislaus Bishop and Martyr's Church (New York City)	cost	30000.0
+St. Stephen of Hungary Church (New York City)	cost	240000.0
+St. Stephen of Hungary Church (New York City)	cost	300000.0
+St. Stephen of Hungary Church (New York City)	cost	300000.0
+Church of the Ascension, Roman Catholic (Manhattan)	cost	120000.0
+Church of the Good Shepherd (New York City)	cost	250000.0
+Church of the Good Shepherd (New York City)	cost	300000.0
+Church of the Holy Agony (New York City)	cost	250000.0
+Holy Innocents' Church (New York City)	cost	600000.0
+Church of the Epiphany (Manhattan)	cost	1200000.0
+Church of the Epiphany (Manhattan)	cost	50000.0
+Church of the Nativity (Manhattan)	cost	240000.0
+SS. Cyril, Methodius, and Raphael's Church (New York City)	cost	90000.0
+SS. Cyril, Methodius, and Raphael's Church (New York City)	cost	25000.0
+Holy Trinity Church (Manhattan)	cost	50000.0
+Immaculate Conception Church (Manhattan)	cost	700000.0
+Church of the Blessed Sacrament (Staten Island, New York)	cost	175000.0
+St. Teresa of the Infant Jesus's Church (Staten Island, New York)	cost	224000.0
+Our Lady of Mercy's Church (Bronx, New York)	cost	200000.0
+Our Lady of Mount Carmel's Church (Bronx, New York)	cost	21000.0
+Our Lady of Mount Carmel's Church (Bronx, New York)	cost	12000.0
+St. Anthony's Church (Bronx, New York)	cost	75000.0
+St. Anthony of Padua Church (Bronx, New York)	cost	70000.0
+St. Augustine's Church (Bronx, New York)	cost	50000.0
+St. Jerome's Church (Bronx, New York)	cost	100000.0
+St. John's Church (Bronx, New York)	cost	21000.0
+St. Luke's Church (Bronx, New York)	cost	45000.0
+St. Luke's Church (Bronx, New York)	cost	80000.0
+Visitation of the Blessed Virgin Mary Church (Bronx, New York)	cost	200000.0
+Church of St. Martin de Porres (Poughkeepsie, New York)	cost	4500.0
+Our Lady of Mount Carmel's Church (Poughkeepsie, New York)	cost	27500.0
+Hugh C. Bailey Science Center	cost	2.3E7
+Chilean ship Lautaro (1818)  Lautaro   1	cost	180000.0
+Chilean ship San Martín (1818)  San Martín   1	cost	140000.0
+St. Leo's Church (New York City)	cost	95000.0
+St. Rose of Lima's Old Church (New York City)	cost	96000.0
+St. Rose of Lima's Old Church (New York City)	cost	150000.0
+St. Rose of Lima's Old Church (New York City)	cost	25000.0
+St. Rose of Lima's Old Church (New York City)	cost	70000.0
+Most Holy Crucifix Church (New York City)	cost	40000.0
+MTS Iceplex	cost	2.66E7
+20 Times Square	cost	5.0E8
+UpGround	cost	2.6E8
+Hawke Castle	cost	200000.0
+Capital Fort	cost	6.0E7
+List of events at José Miguel Agrelot Coliseum	cost	2.92E8
+Chilean corvette Independencia (1818)  Independencia   1	cost	300.0
+Chilean corvette Independencia (1818)  Montevideo   1	cost	40.0
+Chilean corvette Independencia (1818)  Independencia   2	cost	40.0
+Sunny South (clipper)	cost	70000.0
+TSS Slieve League (1935)	cost	84163.0
+Sala Sporturilor (Călăraşi)	cost	5000000.0
+MV Manly (1965)	cost	140000.0
+Scott County Courthouse (Iowa)	cost	1480000.0
+Memorial Stadium (Terre Haute)	cost	450000.0
+USCGC Southwind (WAGB-280)	cost	9880037.0
+Estadio de Liga Deportiva Universitaria	cost	1.6E7
+Ashmore Estates	cost	20389.0
+ROKS Dokdo (LPH-6111)	cost	6.5E8
+Karaiskakis Stadium	cost	6.0E7
+Crystal Palace Park (stadium)	cost	5.0E7
+Río Segura	cost	1.53236E7
+Tuscaloosa Amphitheater	cost	1.49E7
+Sendai Mediatheque	cost	1.3E10
+New Quebec City Amphitheatre	cost	4.0E8
+Mayflower (tugboat)	cost	1000.0
+Persian Gulf Bridge	cost	6.5E8
+Gray–Minor Stadium	cost	1100000.0
+Tellisford Mill	cost	135000.0
+Flame Towers	cost	3.5E8
+Utena Arena	cost	3.5E7
+DCV Aegir	cost	600.0
+Wilshire Grand Tower I	cost	1.0E9
+USRC Ashuelot	cost	103000.0
+USRC Kankakee	cost	103000.0
+USRC Pawtuxet	cost	103000.0
+USRC Wayanda	cost	103000.0
+University Unitarian Church	cost	250000.0
+Yiling Bridge	cost	6.1E8
+SS Derwentfield	cost	255000.0
+Lake Myrtle Sports Complex	cost	2.1E7
+Clara Clarita	cost	125000.0
+Kern County Chamber of Commerce Building	cost	30000.0
+The Blade Reading	cost	3.2E7
+Copenhagen Central Post Building	cost	2500000.0
+Station Hill, Reading	cost	8.25E8
+PS Jeanie Deans	cost	52650.0
+HMS Jaseur (1857)	cost	5668.0
+TS Duchess of Hamilton	cost	60000.0
+DEPV Talisman (1935)	cost	48900.0
+The Avant	cost	8.5E7
+Federal Courthouse (Buffalo)	cost	1.37E8
+TSS Manx Maid (1962)	cost	1087000.0
+MV Mary the Queen	cost	2100000.0
+Hillsboro Intermodal Transit Facility	cost	1.6E7
+Stadium for Cornwall	cost	14.0
+Stadium for Cornwall	cost	24.0
+HMS Andromache (1832)	cost	14845.0
+Hotel Koresco	cost	2.0E7
+SS Robin Doncaster	cost	2250000.0
+Queen of All Saints Church (Brooklyn, New York)	cost	475000.0
+Church of St. Francis of Assisi and St. Blaise (Brooklyn, New York)	cost	100000.0
+City of Seattle (steam ferry)	cost	35000.0
+184 38th Street	cost	43000.0
+SS Inca	cost	22285.0
+Newmarket Stadium	cost	1.9E7
+Tower at PNC Plaza	cost	4.0E8
+USCGC Nettle (WAK-169)	cost	805494.0
+Varyap Meridian Grand Tower 1	cost	1.2E9
+Television Centre, Southampton	cost	2500000.0
+MV Lochnevis (1934)	cost	45999.0
+New Edmonton arena	cost	4.5E8
+Round Valley Ensphere	cost	1.1E7
+Robert E. Taylor Stadium	cost	3000000.0
+Sala Polivalentă (Cluj-Napoca)	cost	1.5E7
+Dunton Technical Centre	cost	1.05E7
+Updike Parsonage Barn	cost	40500.0
+TSS Lady of Mann	cost	249073.0
+Plaza of the Americas (Dallas, Texas)	cost	1.0E8
+Mona's Queen (1934)	cost	201250.0
+UWE Stadium	cost	4.0E7
+Skycourts Towers	cost	4.3337E8
+SS Fenella (1936)	cost	203550.0
+Suquamish (motor vessel)	cost	24704.0
+BRP Pag-asa (AT-25)	cost	3000000.0
+TSS Ben-my-Chree (1965)	cost	1400000.0
+PS Ben-my-Chree (1875)	cost	38000.0
+Memorial Stadium (Waycross)	cost	300000.0
+New Charlotte 49ers stadium	cost	4.5E7
+SS Fenella (1881)	cost	18750.0
+Ritz-Carlton Hotel (Atlantic City)	cost	6250000.0
+John Walker Soccer Complex	cost	5000000.0
+SS Fenella (1951)	cost	163783.0
+SS Lanthorn	cost	22720.0
+Charles W. Stockey Centre for the Performing Arts	cost	1.24E7
+Bunyodkor Stadium	cost	1.5E8
+New Bordeaux stadium	cost	1.68E8
+UAA Community Arena	cost	1.09E8
+Ritz-Carlton Atlantic City	cost	6250000.0
+NOMA, Manchester	cost	800.0
+Al Sharq Tower	cost	1.5E8
+National Indoor BMX Arena	cost	1.9E7
+Futebol Campus	cost	1.5E7
+Sierra Nevada (ferry)	cost	300000.0
+Finnish icebreaker Sampo (1898)	cost	49650.0
+Telisai-Lumut highway	cost	1.3878E8
+Rochdale Town Hall	cost	160000.0

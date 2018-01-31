@@ -1,0 +1,3505 @@
+Apollo 8	callSign	Apollo 8
+Apollo 11	callSign	CSM: Columbia
+Apollo 11	callSign	LM: Eagle in-flight; Tranquillity Base on lunar surface
+Apollo 13	callSign	Apollo 13
+Apollo 7	callSign	Apollo 7
+Apollo 9	callSign	CSM: Gumdrop
+Apollo 9	callSign	LM: Spider
+Apollo 10	callSign	CSM: Charlie Brown
+Apollo 10	callSign	LM: Snoopy
+Apollo 15	callSign	CSM: Endeavour
+Apollo 15	callSign	LM: Falcon
+Apollo 14	callSign	CSM: Kitty Hawk
+Apollo 14	callSign	LM: Antares
+Apollo 12	callSign	CSM: Yankee Clipper
+Apollo 12	callSign	LM: Intrepid
+Apollo 16	callSign	CSM: Casper
+Apollo 16	callSign	LM: Orion
+Apollo 17	callSign	CSM: America
+Apollo 17	callSign	LM: Challenger
+Bruce Perens	callSign	K6BP
+International Space Station	callSign	Alpha
+NBC	callSign	NBC
+Skylab	callSign	Skylab
+Ward Cunningham	callSign	K9OX
+WABC-TV	callSign	WABC-TV
+Mir	callSign	Mir
+Soyuz 1	callSign	( - \
+WAPA-TV	callSign	WAPA-TV
+WPXN-TV	callSign	WPXN-TV
+WPIX	callSign	WPIX
+WTTW	callSign	WTTW
+WGN-TV	callSign	WGN-TV
+Fuji Television  JOCX- D TV   1	callSign	JOCX-(D)TV
+Vostok 5	callSign	( - \
+Vostok 6	callSign	( - \
+Voskhod 1	callSign	( - \
+Voskhod 2	callSign	( - \
+WKAQ-TV	callSign	WKAQ-TV
+Salyut 1	callSign	Salyut 1
+Salyut 2	callSign	Salyut 2
+Salyut 4	callSign	Salyut 4
+Salyut 5	callSign	Salyut 5
+Salyut 3	callSign	Salyut 3
+Salyut 6	callSign	Salyut 6
+WSTE-DT	callSign	WSTE-DT
+WLII-DT	callSign	WLII-DT
+Apollo–Soyuz Test Project  Soyuz 19   1	callSign	( - \
+WNET	callSign	WNET
+WWJT-LP	callSign	WWJT-LP
+KCET	callSign	KCET
+Gemini 6A	callSign	Gemini 6
+Iowa Public Television	callSign	Iowa Public Television
+CKVR-TV	callSign	CKVR-TV
+CFPL-TV	callSign	CFPL-TV
+Gemini 9A	callSign	Gemini 9
+WEWS-TV	callSign	WEWS-TV
+Hiram Percy Maxim	callSign	W1AW (most notable)
+KARE	callSign	KARE
+Tokyo Broadcasting System  JORX- D TV   1	callSign	JORX-(D)TV
+KAAL	callSign	KAAL
+WDIO-DT	callSign	WDIO-DT / WIRT-DT
+KSTC-TV	callSign	KSTC-TV
+KSAX	callSign	KSAX / KRWF
+KSAX	callSign	(semi-satellites of KSTP-TV
+KSAX	callSign	St. Paul / Minneapolis, Minnesota)
+WNYT (TV)	callSign	WNYT
+WHEC-TV	callSign	WHEC-TV
+Nippon Television  JOAX- D TV   1	callSign	JOAX-(D)TV
+CJOH-TV	callSign	CJOH-TV
+WWNY-TV	callSign	WWNY-TV
+CKWS-TV	callSign	CKWS-TV
+WCFE-TV	callSign	WCFE-TV
+WMTW	callSign	WMTW
+TV Asahi  テレビ朝日EX   1	callSign	tv asahi
+TV Asahi  テレビ朝日EX   1	callSign	\u30C6\u30EC\u30D3\u671D\u65E5
+TV Asahi  テレビ朝日EX   1	callSign	EX
+TVOntario	callSign	CICA-TV / CICE-TV / CICO-TV
+CJON-TV	callSign	CJON-TV
+CKCO-TV	callSign	CKCO-TV
+DXAG-TV	callSign	DXAG-TV (ABS-CBN Iligan)
+WRAL-TV	callSign	WRAL-TV
+WTVD	callSign	WTVD
+WRAZ (TV)	callSign	WRAZ
+WUVC-DT	callSign	WUVC-DT
+CITY-TV	callSign	CITY-TV
+CKXT-TV	callSign	CKXT-TV
+WHYY-TV	callSign	WHYY-TV / WDPB
+WGBH-TV	callSign	WGBH-TV
+TV Tokyo	callSign	JOTX-(D)TV
+Télé-Québec	callSign	CIVM-TV
+KMSP-TV	callSign	KMSP-TV
+WCCO-TV	callSign	WCCO-TV
+CHFD-TV	callSign	CHFD-TV
+CKPR-TV	callSign	CKPR-TV
+TDT (TV station)	callSign	TDT
+CHCH-TV	callSign	CHCH-TV
+ATV (TV station)	callSign	ATV
+GTV	callSign	GTV
+TEN (TV station)	callSign	TEN
+CKND-TV	callSign	CKND-TV
+WITN-TV	callSign	WITN-TV
+CKNX-TV	callSign	CKNX-TV
+CKNX-TV	callSign	(defunct, now a rebroadcaster of CFPL-TV,
+CKNX-TV	callSign	London, Ontario)
+CHWI-TV	callSign	CHWI-TV
+CHRO-TV	callSign	CHRO-TV
+WBTV	callSign	WBTV
+CIVI-TV	callSign	CIVI-TV
+WCNC-TV	callSign	WCNC-TV
+TVT (TV station)	callSign	TVT
+WCCB	callSign	WCCB
+CHMI-TV	callSign	CHMI-TV
+TNT (TV station)	callSign	TNT
+Oregon Public Broadcasting	callSign	Oregon Public Broadcasting
+CITV-TV	callSign	CITV-TV
+Atrios	callSign	Atrios
+GLV/BCV	callSign	GLV / BCV
+WTVT	callSign	WTVT
+Television Osaka	callSign	JOBH-(D)TV
+WTTE	callSign	WTTE
+WNEP-TV	callSign	WNEP-TV
+CKVU-TV	callSign	CKVU-TV
+WBRE-TV	callSign	WBRE-TV
+CFMT-TV	callSign	CFMT-TV
+CJMT-TV	callSign	CJMT-TV
+CKX-TV	callSign	CKX-TV
+CKX-TV	callSign	(defunct)
+CBWT	callSign	CBWT
+WBZ-TV	callSign	WBZ-TV
+CHNU-TV	callSign	CHNU-TV
+CIIT-TV	callSign	CIIT-TV
+CBOT (TV)	callSign	CBOT
+WCMH-TV	callSign	WCMH-TV
+WWHO	callSign	WWHO
+Cobb Education Television	callSign	Cobb Education Television
+CFTU-TV	callSign	CFTU-TV
+CHNM-TV	callSign	CHNM-TV
+WSTR-TV	callSign	WSTR-TV
+WKEF	callSign	WKEF
+WRGT-TV	callSign	WRGT-TV
+WFGX	callSign	WFGX
+WTTA	callSign	WTTA
+WEAR-TV	callSign	WEAR-TV
+WICS	callSign	WICS
+WICD (TV)	callSign	WICD
+WICD (TV)	callSign	(semi-satellite of WICS
+WICD (TV)	callSign	Springfield/Decatur, Illinois)
+KGAN	callSign	KGAN
+KDSM-TV	callSign	KDSM-TV
+KBSI	callSign	KBSI
+WDKA	callSign	WDKA
+WNUV	callSign	WNUV
+WBFF	callSign	WBFF
+WGGB-TV	callSign	WGGB-TV
+WGME-TV	callSign	WGME-TV
+WSMH	callSign	WSMH
+WUTV	callSign	WUTV
+WNYO-TV	callSign	WNYO-TV
+KDNL-TV	callSign	KDNL-TV
+WUHF	callSign	WUHF
+WNYS-TV	callSign	WNYS-TV
+WSYT	callSign	WSYT
+KVMY	callSign	KVMY
+KVCW	callSign	KVCW
+WMYA-TV	callSign	WMYA-TV
+WMMP	callSign	WMMP
+WPMY	callSign	WPMY
+WZTV	callSign	WZTV
+WUXP-TV	callSign	WUXP-TV
+WNAB	callSign	WNAB
+WMSN-TV	callSign	WMSN-TV
+CITS-TV	callSign	CITS-TV
+CFYK-TV	callSign	CFYK-TV
+CBXT	callSign	CBXT
+CBRT (TV)	callSign	CBRT
+CBKST	callSign	CBKST
+CBKST	callSign	(semi-satellite of CBKT
+CBKST	callSign	Regina, Saskatchewan)
+CBUT	callSign	CBUT
+CBKT	callSign	CBKT
+CBET	callSign	CBET
+CBLT	callSign	CBLT
+CBAT-TV	callSign	CBAT-TV
+CBMT	callSign	CBMT
+CBCT (TV)	callSign	CBCT
+WBNS-TV	callSign	WBNS-TV
+WGCT-CD	callSign	WGCT-CD
+Twin Cities Public Television	callSign	KTCA-TV / KTCI-TV
+WSJV	callSign	WSJV
+WVVA	callSign	WVVA
+KTTC	callSign	KTTC
+WQOW	callSign	WQOW
+WQOW	callSign	(semi-satellite of WXOW
+WQOW	callSign	La Crosse, Wisconsin)
+WXOW	callSign	WXOW
+WAOW	callSign	WAOW/WYOW
+Dick Rutan	callSign	KB6LQS
+CICI-TV	callSign	CICI-TV
+CHBX-TV	callSign	CHBX-TV
+CKNY-TV	callSign	CKNY-TV
+CITO-TV	callSign	CITO-TV
+CFEG-TV	callSign	CFEG-TV
+CKEM-TV	callSign	CKEM-TV
+CKAL-TV	callSign	CKAL-TV
+WTSP	callSign	WTSP
+KIRO-TV	callSign	KIRO-TV
+Zvezda (ISS module)	callSign	International Space Station
+KOMO-TV	callSign	KOMO-TV
+KING-TV	callSign	KING-TV
+TND	callSign	TND
+KSL-TV	callSign	KSL-TV
+CKCK-TV	callSign	CKCK-TV
+CFQC-TV	callSign	CFQC-TV
+WKRG-TV	callSign	WKRG-TV
+WPMI-TV	callSign	WPMI-TV
+WTEV-TV	callSign	WTEV-TV
+WJXX	callSign	WJXX
+WTLV	callSign	WTLV
+KCTS-TV	callSign	KCTS-TV / KYVE
+KZJO	callSign	KZJO
+KCPQ	callSign	KCPQ
+KONG (TV)	callSign	KONG
+KSTW	callSign	KSTW
+KWPX-TV	callSign	KWPX-TV
+WSB-TV	callSign	WSB-TV
+KQED (TV)	callSign	KQED/KQET
+WGCL-TV	callSign	WGCL-TV
+WXIA-TV	callSign	WXIA-TV
+WATL	callSign	WATL
+WUPA	callSign	WUPA
+KTTV	callSign	KTTV
+KSCI	callSign	KSCI
+WACY-TV	callSign	WACY-TV
+WGBA-TV	callSign	WGBA-TV
+WHDH (TV)	callSign	WHDH
+Alabama Public Television	callSign	Alabama Public Television
+KAKM	callSign	KAKM
+KSAZ-TV	callSign	KSAZ-TV
+KTVK	callSign	KTVK
+KHON-TV	callSign	KHON-TV
+KHNL	callSign	KHNL
+KITV	callSign	KITV
+KGMB	callSign	KGMB
+KHET	callSign	KHET / KMEB
+KPXO-TV	callSign	KPXO-TV
+KFVE	callSign	KFVE
+KIKU	callSign	KIKU
+KTVI	callSign	KTVI
+KMOV	callSign	KMOV
+KLTV	callSign	KLTV
+Soyuz T-2	callSign	( - \
+KSDK	callSign	KSDK
+KETC	callSign	KETC
+KPLR-TV	callSign	KPLR-TV
+KNLC	callSign	KNLC
+WRBU	callSign	WRBU
+WLS-TV	callSign	WLS-TV
+KCAL-TV	callSign	KCAL-TV
+WDRB	callSign	WDRB
+Soyuz TMA-5	callSign	Tyan-Shan (\
+CIII-TV	callSign	CIII-TV-41
+KATU	callSign	KATU
+WFXT	callSign	WFXT
+KPBS (TV)	callSign	KPBS
+STW	callSign	STW
+TVW	callSign	TVW
+WDTN	callSign	WDTN
+WGTV	callSign	WGTV
+CHAN-TV	callSign	CHAN-TV
+KUTP	callSign	KUTP
+WPBA (TV)	callSign	WPBA
+KOAA-TV	callSign	KOAA-TV
+KKTV	callSign	KKTV
+KXRM-TV	callSign	KXRM-TV
+KWGN-TV	callSign	KWGN-TV
+KRDO-TV	callSign	KRDO-TV
+KCNC-TV	callSign	KCNC-TV
+KMGH-TV	callSign	KMGH-TV
+Rocky Mountain PBS	callSign	Rocky Mountain PBS
+KUSA (TV)	callSign	KUSA
+KDVR	callSign	KDVR
+KDVR  KFCT   1	callSign	KFCT
+KTVD	callSign	KTVD
+KCEC (TV)	callSign	KCEC
+KRMT	callSign	KRMT
+KPXC-TV	callSign	KPXC-TV
+KREX-TV	callSign	KREX-TV
+WUCW	callSign	WUCW
+CFCF-TV	callSign	CFCF-TV
+WSOC-TV	callSign	WSOC-TV
+WLBT	callSign	WLBT
+KRCR-TV	callSign	KRCR-TV/KAEF-TV
+WTHC-LD	callSign	WTHC-LD
+KTVQ	callSign	KTVQ
+CBHT	callSign	CBHT
+CHEK-TV	callSign	CHEK-TV
+KPPC (defunct)	callSign	KPPC-FM
+WCSH	callSign	WCSH
+KZTV	callSign	KZTV
+KVIE	callSign	KVIE
+KCRA-TV	callSign	KCRA-TV
+KXTV	callSign	KXTV
+KOVR	callSign	KOVR
+CHEX-TV	callSign	CHEX-TV
+CBEFT	callSign	CBEFT
+CBEFT	callSign	(satellite of CBLFT,
+CBEFT	callSign	Toronto, Ontario)
+WBQC-LD	callSign	WBQC-LD
+WXID-LP	callSign	WXID-LP
+WHSG-TV	callSign	WHSG-TV
+WUVM-LP	callSign	WUVM-LP
+WSKC-CD	callSign	WSKC-CD
+WATC-DT	callSign	WATC-DT
+WDTA-LD	callSign	WDTA-LD
+WIRE-CD	callSign	WIRE-CD
+WUVG-DT	callSign	WUVG-DT
+WPXA-TV	callSign	WPXA-TV
+W23DN	callSign	W23DN, W24AL-D
+WTBS-LD	callSign	WTBS-LP / WTBS-LD
+WANN-LD	callSign	WANN-LD (WANN-CA)
+WKTB-CD	callSign	WKTB-CD
+GTS/BKN	callSign	GTS/BKN
+CHCA-TV	callSign	CHCA-TV
+CHCA-TV	callSign	(defunct)
+CJFB-TV	callSign	CJFB-TV(defunct, now a rebroadcaster of CBKT in Regina, Saskatchewan)
+WNWO-TV	callSign	WNWO-TV
+WNYW	callSign	WNYW
+KATC (TV)	callSign	KATC
+CIVT-TV	callSign	CIVT-TV
+CHBC-TV	callSign	CHBC-TV
+WABM	callSign	WABM
+WBMA-LD	callSign	WBMA-LD / WCFT-TV / WJSU-TV
+WBRC	callSign	WBRC
+WUFT (TV)	callSign	WUFT
+WIAT	callSign	WIAT
+WPXH-TV	callSign	WPXH-TV
+WTTO	callSign	WTTO / WDBB
+WVTM-TV	callSign	WVTM-TV
+KMTR	callSign	KMTR
+WRC-TV	callSign	WRC-TV
+CKCW-TV	callSign	CKCW-TV
+CJCB-TV	callSign	CJCB-TV
+CKLT-TV	callSign	CKLT-TV
+WVII-TV	callSign	WVII-TV
+Vermont Public Television	callSign	Vermont Public Television
+WPBS-DT	callSign	WPBS-DT / WNPI-DT
+WNBC	callSign	WNBC
+WUSA (TV)	callSign	WUSA
+NRN	callSign	NRN
+TCN	callSign	TCN
+ATN	callSign	ATN
+KMTV-TV	callSign	KMTV-TV
+WOWT-TV	callSign	WOWT-TV
+KETV	callSign	KETV
+WPCW	callSign	WPCW
+WTAE-TV	callSign	WTAE-TV
+KDKA-TV	callSign	KDKA-TV
+WPXI	callSign	WPXI
+WQED (TV)	callSign	WQED
+WPGH-TV	callSign	WPGH-TV
+KNBC	callSign	KNBC
+WLWT	callSign	WLWT
+WLBZ	callSign	WLBZ
+WLBZ	callSign	(semi-satellite of WCSH
+WLBZ	callSign	Portland, Maine)
+TFO	callSign	CHLF-TV
+WSAZ-TV	callSign	WSAZ-TV
+CHOT-TV	callSign	CHOT-TV
+CBLFT	callSign	CBLFT
+CBOFT	callSign	CBOFT
+CHNB-TV	callSign	CHNB-TV
+CHNB-TV	callSign	(defunct)
+CKNC-TV	callSign	CKNC-TV
+CKNC-TV	callSign	(defunct)
+CBWFT	callSign	CBWFT
+CBFT	callSign	CBFT
+CBVT	callSign	CBVT
+CFTM-TV	callSign	CFTM-TV
+CFJP-TV	callSign	CFJP-TV
+CKMI-TV	callSign	CKMI-TV-1
+CJNT-TV	callSign	CJNT-TV
+West Virginia Public Broadcasting	callSign	West Virginia Public Broadcasting
+WSPA-TV	callSign	WSPA-TV
+WLOS	callSign	WLOS
+CFGS-TV	callSign	CFGS-TV
+NWS (TV station)	callSign	NWS
+WRGB	callSign	WRGB
+YNN Capital Region	callSign	YNN Capital Region
+YNN Capital Region	callSign	(Time Warner cable only)
+WTEN	callSign	WTEN/WCDC-TV
+WMHT (TV)	callSign	WMHT
+Asahi Broadcasting Corporation  JONR-TV, JONR-DTV   1	callSign	JONR-TV, JONR-DTV
+KTVB	callSign	KTVB
+Kansai Telecasting Corporation	callSign	JODX-TV
+RCC Broadcasting  JOER-TV, JOER-DTV   1	callSign	JOER-TV, JOER-DTV
+Mainichi Broadcasting System  JOOR-TV, JOOR-DTV   1	callSign	JOOR-TV, JOOR-DTV
+Yomiuri Telecasting Corporation	callSign	JOIX-TV
+Sanyo Broadcasting  JOYR-TV, JOYR-DTV   1	callSign	JOYR-TV, JOYR-DTV
+WFLA-TV	callSign	WFLA-TV
+KXLN-DT	callSign	KXLN-DT
+KXMB-TV	callSign	KXMB-TV / KXMA-TV
+KXMC-TV	callSign	KXMC-TV / KXMD-TV
+KMOT	callSign	KMOT / KUMV-TV
+KMOT	callSign	(semi-satellites of KFYR-TV,
+KMOT	callSign	Bismarck, North Dakota)
+KVLY-TV	callSign	KVLY-TV
+KFYR-TV	callSign	KFYR-TV / KQCD-TV
+KXJB-TV	callSign	KXJB-TV
+WWOR-TV	callSign	WWOR-TV
+WPHL-TV	callSign	WPHL-TV
+WNIT (TV)	callSign	WNIT
+WFTY-DT	callSign	WFTY-DT
+WFTY-DT	callSign	(satellite of WFUT-DT,
+WFTY-DT	callSign	Newark, New Jersey/
+WFTY-DT	callSign	New York, New York)
+KTRK-TV	callSign	KTRK-TV
+KETK-TV	callSign	KETK-TV
+KYTX	callSign	KYTX
+KETK-LP	callSign	KETK-LP
+KFXK-TV	callSign	KFXK-TV
+KCEB	callSign	KCEB
+WZZM	callSign	WZZM
+WOOD-TV	callSign	WOOD-TV
+NTD	callSign	NTD
+KCBS-TV	callSign	KCBS-TV
+WSVN	callSign	WSVN
+CISA-TV	callSign	CISA-TV
+WXXA-TV	callSign	WXXA-TV
+KLRU	callSign	KLRU
+WCBS-TV	callSign	WCBS-TV
+New Jersey Network	callSign	New Jersey Network
+New Jersey Network	callSign	(defunct)
+Maryland Public Television	callSign	Maryland Public Television
+WGBX-TV	callSign	WGBX-TV
+WBBM-TV	callSign	WBBM-TV
+CIHF-TV	callSign	CIHF-TV
+CICT-TV	callSign	CICT-TV
+CFCN-TV	callSign	CFCN-TV
+CFRN-TV	callSign	CFRN-TV
+CITL-TV	callSign	CITL-TV
+CIPA-TV	callSign	CIPA-TV
+CIPA-TV	callSign	(semi-satellite of CFQC-TV, Saskatoon)
+CBYT	callSign	CBYT
+CBYT	callSign	(satellite of CBNT,
+CBYT	callSign	St. John's, Newfoundland and Labrador)
+CBUFT	callSign	CBUFT
+CBXFT	callSign	CBXFT
+CBNT	callSign	CBNT
+CBKFT	callSign	CBKFT
+CBAFT	callSign	CBAFT
+STQ	callSign	STQ
+WFTC	callSign	WFTC / KFTC
+KPXM-TV	callSign	KPXM-TV
+KSTP-TV	callSign	KSTP-TV
+KPLC	callSign	KPLC
+Prairie Public Television	callSign	Prairie Public Television
+WFLD	callSign	WFLD
+KWCM-TV	callSign	KWCM-TV / KSMN-TV
+WLNY-TV	callSign	WLNY-TV
+CICC-TV	callSign	CICC-TV
+WIFR	callSign	WIFR
+Aichi Television Broadcasting	callSign	JOCI-(D)TV
+Chūkyō Television Broadcasting	callSign	JOCH-(D)TV
+QTQ	callSign	QTQ
+WCWN	callSign	WCWN
+KLCS	callSign	KLCS
+WNYA	callSign	WNYA
+KMEX-DT	callSign	KMEX-DT
+WJXT	callSign	WJXT
+W49AY	callSign	W49AY
+WJZY	callSign	WJZY
+WAXN-TV	callSign	WAXN-TV
+KBMY	callSign	KBMY / KMCY
+WXII-TV	callSign	WXII-TV
+WNCN	callSign	WNCN
+WCIU-TV	callSign	WCIU-TV
+WWAY	callSign	WWAY
+WFMY-TV	callSign	WFMY-TV
+WECT	callSign	WECT
+WILM-LD	callSign	WILM-LD
+WXLV-TV	callSign	WXLV-TV
+WCTI-TV	callSign	WCTI-TV
+WNCT-TV	callSign	WNCT-TV
+WBAY-TV	callSign	WBAY-TV
+KVRR	callSign	KVRR
+Tōkai Television Broadcasting	callSign	JOFX-TV
+WNSC-TV	callSign	WNSC-TV
+WTVI	callSign	WTVI
+WCWG	callSign	WCWG
+WMAQ-TV	callSign	WMAQ-TV
+WLVT-TV	callSign	WLVT-TV
+WFMZ-TV	callSign	WFMZ-TV
+WVUA-CA	callSign	WVUA-CA / WUOA
+WBTW	callSign	WBTW
+WCSC-TV	callSign	WCSC-TV
+WPLG	callSign	WPLG
+KPRC-TV	callSign	KPRC-TV
+WKMG-TV	callSign	WKMG-TV
+WDIV-TV	callSign	WDIV-TV
+WVCY-TV	callSign	WVCY-TV
+WTMJ-TV	callSign	WTMJ-TV
+AlaskaOne	callSign	AlaskaOne
+WCAX-TV	callSign	WCAX-TV
+WPTZ	callSign	WPTZ
+WSRE	callSign	WSRE
+KSBY	callSign	KSBY
+WMYO	callSign	WMYO
+WISN-TV	callSign	WISN-TV
+WITI (TV)	callSign	WITI
+WVTV	callSign	WVTV
+WDJT-TV	callSign	WDJT-TV
+WCGV-TV	callSign	WCGV-TV
+WBBJ-TV	callSign	WBBJ-TV
+WMVS	callSign	WMVS
+WMVT	callSign	WMVT
+KBTC-TV	callSign	KBTC-TV / KCKA
+KGW	callSign	KGW
+KYW-TV	callSign	KYW-TV
+WTXF-TV	callSign	WTXF-TV
+WPVI-TV	callSign	WPVI-TV
+WCAU	callSign	WCAU-TV
+WPSG	callSign	WPSG
+WRDC	callSign	WRDC
+Chubu-Nippon Broadcasting  JOAR-TV   1	callSign	JOAR-TV
+WCVB-TV	callSign	WCVB-TV
+WWJ-TV	callSign	WWJ-TV
+WJBK	callSign	WJBK
+WXYZ-TV	callSign	WXYZ-TV
+WOIO	callSign	WOIO
+KMOS-TV	callSign	KMOS-TV
+WUAB	callSign	WUAB
+CKBI-TV	callSign	CKBI-TV
+CKBI-TV	callSign	(defunct)
+CKOS-TV	callSign	CKOS-TV
+CKOS-TV	callSign	(defunct)
+CKSA-TV	callSign	CKSA-TV
+WGRZ	callSign	WGRZ
+WVIA-TV	callSign	WVIA-TV
+WBNX-TV	callSign	WBNX-TV
+WPBT	callSign	WPBT
+WCIV	callSign	WCIV
+WCBD-TV	callSign	WCBD-TV
+WQED	callSign	WQED
+WCVE-TV	callSign	WCVE-TV / WCVW / WHTJ
+KGO-TV	callSign	KGO-TV
+WDAZ-TV	callSign	WDAZ-TV
+WDAZ-TV	callSign	(semi-satellite of WDAY-TV,
+WDAZ-TV	callSign	Fargo, North Dakota)
+WWBT	callSign	WWBT
+WHTV	callSign	WHTV
+Star Ray TV	callSign	VX9AMK
+KLAS-TV	callSign	KLAS-TV
+Shinhiroshima Telecasting	callSign	JORM-TV
+KIXE-TV	callSign	KIXE-TV
+WJTC	callSign	WJTC
+WALA-TV	callSign	WALA-TV
+WPWR-TV	callSign	WPWR-TV
+KDOC-TV	callSign	KDOC-TV
+KNSD	callSign	KNSD
+KGTV	callSign	KGTV
+KFMB-TV	callSign	KFMB-TV
+WFNA (TV)	callSign	WFNA
+WREX	callSign	WREX
+WQRF-TV	callSign	WQRF-TV
+XETV	callSign	XETV
+WFAA	callSign	WFAA
+WKBW-TV	callSign	WKBW-TV
+Nagoya Broadcasting Network	callSign	JOLX-TV
+KPNX	callSign	KPNX
+KSEE	callSign	KSEE 24
+NEW (TV station)	callSign	NEW
+WCWJ	callSign	WCWJ
+KLVX	callSign	KLVX
+KXAS-TV	callSign	KXAS-TV
+KSAT-TV	callSign	KSAT-TV
+KRIV	callSign	KRIV
+KNXT	callSign	KNXT
+KIAH	callSign	KIAH
+WAWS	callSign	WAWS
+KUHT	callSign	KUHT
+WKTV	callSign	WKTV
+KDFW	callSign	KDFW
+WEYI-TV	callSign	WEYI-TV
+KVOS-TV	callSign	KVOS-TV
+WSBT-TV	callSign	WSBT-TV
+UNC-TV	callSign	UNC-TV
+WNDU-TV	callSign	WNDU-TV
+WETA-TV	callSign	WETA-TV
+KEYE-TV	callSign	KEYE-TV
+KYAZ	callSign	KYAZ
+WUDT-LD	callSign	WUDT-LD
+WKBD-TV	callSign	WKBD-TV
+WEDU	callSign	WEDU
+WCPO-TV	callSign	WCPO-TV
+KVVU-TV	callSign	KVVU-TV
+Citytv Bogotá	callSign	Citytv Bogot\u00E1
+WAVE (TV)	callSign	WAVE
+WHAS-TV	callSign	WHAS-TV
+WLKY-TV	callSign	WLKY-TV
+WBKI-TV	callSign	WBKI-TV
+KUNS-TV	callSign	KUNS-TV
+University of Wisconsin–Stevens Point  SPtv   1	callSign	SPtv
+WTVO	callSign	WTVO
+WOFL	callSign	WOFL
+WSBK-TV	callSign	WSBK-TV
+WLVI	callSign	WLVI
+WTVS	callSign	WTVS
+WGEM-TV	callSign	WGEM-TV
+WKOW	callSign	WKOW
+KXLT-TV	callSign	KXLT-TV
+KPBI (TV)	callSign	KPBI
+WJAR	callSign	WJAR
+WPCB-TV	callSign	WPCB-TV
+WLNE-TV	callSign	WLNE-TV
+WUMN-LP	callSign	WUMN-LP
+WMYD	callSign	WMYD
+KTVT	callSign	KTVT
+KBCW (TV)	callSign	KBCW
+WWLP	callSign	WWLP
+WOAI-TV	callSign	WOAI-TV
+KEZI	callSign	KEZI
+WJLA-TV	callSign	WJLA-TV
+WLIW	callSign	WLIW
+WWSI	callSign	WWSI
+WFDC-DT	callSign	WFDC-DT
+WDCA	callSign	WDCA
+MDV	callSign	Ten Mildura
+KDAF	callSign	KDAF
+KABB	callSign	KABB
+KMYS	callSign	KMYS
+KTXA	callSign	KTXA
+KDFI	callSign	KDFI-TV
+KFWD	callSign	KFWD
+KTBU	callSign	KTBU
+WXTV-DT	callSign	WXTV-DT
+KMAX-TV	callSign	KMAX-TV
+WXMI	callSign	WXMI
+WKRC-TV	callSign	WKRC-TV
+WXIX-TV	callSign	WXIX-TV
+KTBS-TV	callSign	KTBS-TV
+KPHO-TV	callSign	KPHO-TV
+KNXV-TV	callSign	KNXV-TV
+KHOU (TV)	callSign	KHOU
+WXSP-CD	callSign	WXSP-CD
+Buckeye TV	callSign	Buckeye TV
+CFJC-TV	callSign	CFJC-TV
+KTWU	callSign	KTWU
+KTXH	callSign	KTXH
+KCWX	callSign	KCWX
+WUVP-DT	callSign	WUVP-DT
+WJZ-TV	callSign	WJZ-TV
+WVIZ	callSign	WVIZ
+WYBE	callSign	WYBE
+WWSB	callSign	WWSB
+WFTS-TV	callSign	WFTS-TV
+WKYC	callSign	WKYC
+WNYE-TV	callSign	WNYE-TV
+WNJU	callSign	WNJU
+Nyctv	callSign	WNYE, WNYE-DT
+WFUT-DT	callSign	WFUT-DT
+WPPX-TV	callSign	WPPX-TV
+WFPA-CA	callSign	WFPA-CA
+WTVE	callSign	WTVE
+WMBC-TV	callSign	WMBC-TV
+WRNN-TV	callSign	WRNN-TV
+KPIX-TV	callSign	KPIX-TV
+WTTG	callSign	WTTG
+WHUT-TV	callSign	WHUT-TV
+WDCW	callSign	WDCW
+WTNH	callSign	WTNH
+KABC-TV	callSign	KABC-TV
+KVEA	callSign	KVEA
+XHDTV-TV	callSign	XHDTV
+WYOU	callSign	WYOU
+WBPH-TV	callSign	WBPH-TV
+CJBN-TV	callSign	CJBN-TV
+South Carolina Educational Television	callSign	South Carolina Educational Television
+KTXL	callSign	KTXL
+WICU-TV	callSign	WICU-TV
+XHAS-TV	callSign	XHAS-TV
+KLST	callSign	KLST
+KTVU	callSign	KTVU
+WMDO-CA	callSign	WMDO-CA/LD
+KRCA	callSign	KRCA
+CFAP-TV	callSign	CFAP-TV
+CFVS-TV	callSign	CFVS-TV
+CFKM-DT	callSign	CFKM-DT
+CFKM-DT	callSign	(a de facto satellite of CFJP-TV,
+CFKM-DT	callSign	Montreal)
+CFKS-TV	callSign	CFKS-TV
+CFKS-TV	callSign	(a de facto satellite of CFJP-TV,
+CFKS-TV	callSign	Montreal)
+CFRS-TV	callSign	CFRS-TV
+CFRS-TV	callSign	(a de facto satellite of CFJP-TV,
+CFRS-TV	callSign	Montreal)
+CFTF-TV	callSign	CFTF-TV
+WHIO-TV	callSign	WHIO-TV
+CFCM-TV	callSign	CFCM-TV
+CHLT-TV	callSign	CHLT-TV
+CFER-TV	callSign	CFER-TV
+CHAU-TV	callSign	CHAU-TV
+CFEM-TV	callSign	CFEM-TV
+CJPM-TV	callSign	CJPM-TV
+CIMT-TV	callSign	CIMT-TV
+CHEM-TV	callSign	CHEM-TV
+WHKY-TV	callSign	WHKY-TV
+KRON-TV	callSign	KRON-TV
+WBAL-TV	callSign	WBAL-TV
+WTRF-TV	callSign	WTRF-TV
+WYPX-TV	callSign	WYPX-TV
+WYCC	callSign	WYCC
+WTOV-TV	callSign	WTOV-TV
+WROC-TV	callSign	WROC-TV
+KMID	callSign	KMID
+KAZA-TV	callSign	KAZA-TV
+KVCR-DT	callSign	KVCR-DT
+KICU-TV	callSign	KICU-TV
+KRXI-TV	callSign	KRXI-TV
+KVUE	callSign	KVUE
+KOCE-TV	callSign	KOCE-TV
+KTMD	callSign	KTMD
+KERA-TV	callSign	KERA-TV
+KXTX-TV	callSign	KXTX-TV
+KUVN-DT	callSign	KUVN-DT
+KDFX-CA	callSign	KDFX-CA
+WIS	callSign	WIS
+KWEX-DT	callSign	KWEX-DT
+KVDA	callSign	KVDA
+WWL-TV	callSign	WWL-TV
+WGWB	callSign	WGWB
+WBW	callSign	WBW
+KASW	callSign	KASW
+WFSU-TV	callSign	WFSU-TV / WFSG
+WMUR-TV	callSign	WMUR-TV
+WMAR-TV	callSign	WMAR-TV
+WNEM-TV	callSign	WNEM-TV
+KSFV-CA	callSign	KSFV-CA
+KNLA-LP	callSign	KNLA-LP
+KNET-CA	callSign	KNET-CA
+KNET-CA	callSign	(A Class A station)
+KXLA	callSign	KXLA
+KTLA	callSign	KTLA
+KAZT-TV	callSign	KAZT-TV
+KPAZ-TV	callSign	KPAZ-TV
+KOIN	callSign	KOIN
+KPTV	callSign	KPTV
+WFTV	callSign	WFTV
+KTAV-LP	callSign	KTAV-LP
+KPDX	callSign	KPDX
+WESH	callSign	WESH
+KWHY-TV	callSign	KWHY-TV
+KTVW-DT	callSign	KTVW-DT
+WTHR	callSign	WTHR
+KPPX-TV	callSign	KPPX-TV
+KFOR-TV	callSign	KFOR-TV
+WFRV-TV	callSign	WFRV-TV
+WWMT	callSign	WWMT
+XEWT-TV	callSign	XEWT
+XHAB-TV	callSign	XHAB-TV
+XHTIT-TV	callSign	XHTIT-TV
+XHJK-TV	callSign	XHJK-TV
+XHBJ-TV	callSign	XHBJ-TV
+XHUAA-TV	callSign	XHUAA
+WOTV	callSign	WOTV
+WMKG-LP	callSign	WMKG-LP
+WTLJ	callSign	WTLJ
+WGVU-TV	callSign	WGVU-TV / WGVK
+KJZZ-TV	callSign	KJZZ-TV
+KSTU	callSign	KSTU
+KUED	callSign	KUED
+KBYU-TV	callSign	KBYU-TV
+KUEN	callSign	KUEN
+XHTJB-TV	callSign	XHTJB
+XHTJB-TV	callSign	(satellite of XEIPN,
+XHTJB-TV	callSign	Mexico City, Mexico)
+WMC-TV	callSign	WMC-TV
+KUSI-TV	callSign	KUSI-TV
+KSWB-TV	callSign	KSWB-TV
+WHBQ-TV	callSign	WHBQ-TV
+KTBC	callSign	KTBC
+WREG-TV	callSign	WREG-TV
+MHz Networks	callSign	WNVT / WNVC
+WZDC-CA	callSign	WZDC-CA
+WPXW-TV	callSign	WPXW-TV
+KADN-TV	callSign	KADN-TV
+KPNZ	callSign	KPNZ
+KUCW	callSign	KUCW
+WUTB	callSign	WUTB
+KGNS-TV	callSign	KGNS-TV
+KVTV	callSign	KVTV
+CFSK-TV	callSign	CFSK-TV
+CFRE-TV	callSign	CFRE-TV
+KAET	callSign	KAET
+KXLY-TV	callSign	KXLY-TV
+KAIT	callSign	KAIT
+KREM (TV)	callSign	KREM
+KHQ-TV	callSign	KHQ-TV
+KSPS-TV	callSign	KSPS-TV
+KAYU-TV	callSign	KAYU-TV
+KGPX-TV	callSign	KGPX-TV
+KSKN	callSign	KSKN
+KQUP	callSign	KQUP
+WCET (TV)	callSign	WCET
+WAGM-TV	callSign	WAGM-TV
+KDPH-LP	callSign	KDPH-LP
+WPTY-TV	callSign	WPTY-TV
+WLMT	callSign	WLMT
+KTAZ	callSign	KTAZ
+WRCB	callSign	WRCB
+WDEF-TV	callSign	WDEF-TV
+WTVC	callSign	WTVC
+WTCI	callSign	WTCI
+WFLI-TV	callSign	WFLI-TV
+WDSI-TV	callSign	WDSI-TV
+WOOT-LP	callSign	WOOT-LP
+WYHB-CA	callSign	WYHB-CA
+WFOR-TV	callSign	WFOR-TV
+Kentucky Educational Television	callSign	Kentucky Educational Television
+WISC-TV	callSign	WISC-TV
+TVW (WISC-TV)	callSign	TVW
+TVW (WISC-TV)	callSign	(Digital subchannel of WISC-TV)
+KVEW	callSign	KVEW
+KAPP	callSign	KAPP
+KTRE	callSign	KTRE
+KTRE	callSign	(semi-satellite of KLTV Tyler, Texas)
+KIMA-TV	callSign	KIMA-TV
+KSLA	callSign	KSLA
+KLEW-TV	callSign	KLEW-TV
+KEPR-TV	callSign	KEPR-TV
+KEPR-TV	callSign	(semi-satellite of KIMA-TV, Yakima, Washington)
+WABI-TV	callSign	WABI-TV
+WFVX-LP	callSign	WFVX-LP
+Bay News 9	callSign	Bay News 9
+Bay News 9	callSign	(Bright House cable only)
+WZPX-TV	callSign	WZPX-TV
+KSNB-TV	callSign	KSNB-TV / KTVG-TV
+WJRT-TV	callSign	WJRT-TV
+WRTV	callSign	WRTV
+WTIU	callSign	WTIU
+WOWK-TV	callSign	WOWK-TV
+KTXT-TV	callSign	KTXT-TV
+WTTV	callSign	WTTV / WTTK
+KMPH-TV	callSign	KMPH-TV
+XHK-TV	callSign	XHK-TV
+KUAM-TV	callSign	KUAM-TV
+WPFO	callSign	WPFO
+DWAO-TV	callSign	DWAO-TV (UNTV 37)
+WTVR-TV	callSign	WTVR-TV
+WSFJ-TV	callSign	WSFJ-TV
+KQEG-CA	callSign	KQEG-CA
+WCIA	callSign	WCIA
+WCFN	callSign	WCFN
+KJLA	callSign	KJLA
+KUPX-TV	callSign	KUPX-TV
+WTJR	callSign	WTJR
+KQEH	callSign	KQEH
+WBDT	callSign	WBDT
+KCSG	callSign	KCSG
+KELO-TV	callSign	KELO-TV
+KHTV-LP	callSign	KHTV-LP
+KPXN-TV	callSign	KPXN-TV
+KPSP-CD	callSign	KPSP-CD
+KXAN-TV	callSign	KXAN-TV
+ISUtv	callSign	ISUtv
+KMLM-DT	callSign	KMLM-DT / KPCB-DT
+WPEC	callSign	WPEC
+WTOC-TV	callSign	WTOC-TV
+WSAV-TV	callSign	WSAV-TV
+KTNV-TV	callSign	KTNV-TV
+WCCT-TV	callSign	WCCT-TV
+WVUE-DT	callSign	WVUE-DT
+WISH-TV	callSign	WISH-TV
+WBGU-TV	callSign	WBGU-TV
+CJCH-TV	callSign	CJCH-TV
+KEEF-TV	callSign	KEEF-TV
+KEEF-TV  KVST-TV  1	callSign	KVST-TV
+WTOG	callSign	WTOG
+WDTI	callSign	WDTI
+WXIN (TV)	callSign	WXIN
+WJCL (TV)	callSign	WJCL
+WTGS	callSign	WTGS
+WGSA (TV)	callSign	WGSA
+WDSU	callSign	WDSU
+WGNO	callSign	WGNO
+WNOL-TV	callSign	WNOL-TV
+WUPL	callSign	WUPL
+WSMV-TV	callSign	WSMV-TV
+WSFL-TV	callSign	WSFL-TV
+WBFS-TV	callSign	WBFS-TV
+WAMI-DT	callSign	WAMI-DT
+KTWO-TV	callSign	KTWO-TV
+KCWY-DT	callSign	KCWY-DT
+KLWY	callSign	KLWY
+K26ES	callSign	K26ES
+KGWN-TV	callSign	KGWN-TV/KSTF
+WUHQ-LP	callSign	WUHQ-LP
+WLUK-TV	callSign	WLUK-TV
+WCWF	callSign	WCWF
+WKRN-TV	callSign	WKRN-TV
+WNPT (TV)	callSign	WNPT
+WTVF	callSign	WTVF
+WCTE	callSign	WCTE
+WKNO (TV)	callSign	WKNO
+WPXX-TV	callSign	WPXX-TV
+KCCI	callSign	KCCI
+WLLA	callSign	WLLA
+WPXS	callSign	WPXS
+KFVS-TV	callSign	KFVS-TV
+WATE-TV	callSign	WATE-TV
+WBIR-TV	callSign	WBIR-TV
+WBPX-TV	callSign	WBPX-TV
+WUNI	callSign	WUNI
+WXFT-DT	callSign	WXFT-DT
+WGBO-DT	callSign	WGBO-DT
+WFMJ-TV	callSign	WFMJ-TV
+WPTD	callSign	WPTD
+WPTD  WPTO   1	callSign	WPTO
+KOFY-TV	callSign	KOFY-TV
+WRDQ	callSign	WRDQ
+WOPX-TV	callSign	WOPX-TV
+WPRU-LP	callSign	WPRU-LP
+WPBN-TV	callSign	WPBN-TV/WTOM-TV
+WVIT	callSign	WVIT
+WFYI (TV)	callSign	WFYI
+WIPB	callSign	WIPB
+WSJP-LP	callSign	WSJP-LP
+WNDY-TV	callSign	WNDY-TV
+WEAU-TV	callSign	WEAU-TV
+KOB	callSign	KOB
+KSTR-DT	callSign	KSTR-DT
+WORA-TV	callSign	WORA-TV
+WORA-TV	callSign	(Repeater for WLII (-DT) since 1995)
+KOAT-TV	callSign	KOAT-TV
+KASA-TV	callSign	KASA-TV
+KRQE	callSign	KRQE
+KFTH-DT	callSign	KFTH-DT
+KUBE-TV	callSign	KUBE-TV
+WVPX-TV	callSign	WVPX-TV
+KXGN-TV	callSign	KXGN-TV
+WINP-TV	callSign	WINP-TV
+WQHS-DT	callSign	WQHS-DT
+WMOR-TV	callSign	WMOR-TV
+KDTX-TV	callSign	KDTX-TV
+WKBF-TV	callSign	WKBF-TV
+KPXD-TV	callSign	KPXD-TV
+WCTX	callSign	WCTX
+KWTV-DT	callSign	KWTV-DT
+KNVA	callSign	KNVA
+KBVO-CD	callSign	KBVO-CD
+KBVO-CD	callSign	(satellite of KBVO, Llano, Texas)
+WIIH-LD	callSign	WIIH-LD
+WYES-TV	callSign	WYES-TV
+WHFT-TV	callSign	WHFT-TV
+WJW (TV)	callSign	WJW
+WALB	callSign	WALB
+WUVN	callSign	WUVN (semi-satellite of WUNI, Worcester/Boston, Massachusetts)
+Television Hokkaido	callSign	JOHI-(D)TV
+WAND	callSign	WAND
+WBUI	callSign	WBUI
+WRSP-TV	callSign	WRSP-TV/WCCU
+WEHT	callSign	WEHT
+WEIU-TV	callSign	WEIU-TV
+KCRG-TV	callSign	KCRG-TV
+WCHS-TV	callSign	WCHS-TV
+KWWL (TV)	callSign	KWWL
+WEVV-TV	callSign	WEVV-TV
+WFIE	callSign	WFIE
+WSIL-TV	callSign	WSIL-TV/KPOB-TV
+WSIU-TV	callSign	WSIU-TV / WUSI-TV
+WTHI-TV	callSign	WTHI-TV
+WTWO	callSign	WTWO
+WVUT	callSign	WVUT
+KAKW-DT	callSign	KAKW-DT
+KDTN	callSign	KDTN
+WMGM-TV	callSign	WMGM-TV
+WFXW	callSign	WFXW
+WSAW-TV	callSign	WSAW-TV
+WJFW-TV	callSign	WJFW-TV
+KFXB-TV	callSign	KFXB-TV
+KFXA	callSign	KFXA
+WKBT-DT	callSign	WKBT-DT
+WLAX	callSign	WLAX/WEUX
+KRCW-TV	callSign	KRCW-TV
+WPXL-TV	callSign	WPXL-TV
+WHNO	callSign	WHNO
+WMTV	callSign	WMTV
+WBUW	callSign	WBUW
+WKBN-TV	callSign	WKBN-TV
+WYTV	callSign	WYTV
+WYFX-LD	callSign	WYFX-LD
+WNJX-TV	callSign	WNJX-TV
+WNJX-TV	callSign	(satellite of WAPA-TV)
+WOLE-DT	callSign	WOLE-DT
+WOLE-DT	callSign	(Repeater for WKAQ-TV since 1995)
+WMBD-TV	callSign	WMBD-TV
+KWBQ	callSign	KWBQ / KRWB-TV
+KASY-TV	callSign	KASY-TV
+WPSD-TV	callSign	WPSD-TV
+KSNW	callSign	KSNW
+KWCH-DT	callSign	KWCH-DT
+KAKE	callSign	KAKE
+KSAS-TV	callSign	KSAS-TV
+KSCW-DT	callSign	KSCW-DT
+KMTW	callSign	KMTW
+KPTS	callSign	KPTS
+New Hampshire Public Television	callSign	New Hampshire Public Television
+KBOI-TV	callSign	KBOI-TV
+Idaho Public Television	callSign	Idaho Public Television
+KIVI-TV	callSign	KIVI-TV
+KNIN-TV	callSign	KNIN-TV
+KTRV-TV	callSign	KTRV-TV
+KWSU-TV	callSign	KWSU-TV / KTNW
+KFFX-TV	callSign	KFFX-TV
+KNDO	callSign	KNDO
+KNDU	callSign	KNDU
+KNDU	callSign	(semi-satellite of KNDO, Yakima, Washington)
+KDBC-TV	callSign	KDBC-TV
+KVIA-TV	callSign	KVIA-TV
+KTSM-TV	callSign	KTSM-TV
+KCOS (TV)	callSign	KCOS
+KFOX-TV	callSign	KFOX-TV
+KINT-TV	callSign	KINT-TV
+KTFN	callSign	KTFN
+KTDO	callSign	KTDO
+KSCE	callSign	KSCE
+XHIJ-TV	callSign	XHIJ-TV
+K40FW	callSign	K40FW
+WMLW-CA	callSign	WMLW-CA/LD
+KOPB-TV	callSign	KOPB-TV
+KOCO-TV	callSign	KOCO-TV
+KLJB	callSign	KLJB
+KOTA-TV	callSign	KOTA-TV
+South Dakota Public Broadcasting	callSign	South Dakota Public Broadcasting
+KEVN-TV	callSign	KEVN-TV / KIVV-TV
+KNBN	callSign	KNBN
+KWBH-LP	callSign	KWBH-LP
+KCPO-LP	callSign	KCPO-LP
+KCPO-LP	callSign	KCPL-LP
+KESQ-TV	callSign	KESQ-TV
+WKAR-TV	callSign	WKAR-TV
+WPSU-TV	callSign	WPSU-TV
+Arkansas Educational Television Network	callSign	Arkansas Educational Television Network
+KARK-TV	callSign	KARK-TV
+KATV	callSign	KATV
+KTHV	callSign	KTHV
+KLRT-TV	callSign	KLRT-TV
+KASN	callSign	KASN
+KVTN-DT	callSign	KVTN-DT / KVTH-DT / KVTJ-DT
+KMYA-DT	callSign	KMYA-DT
+KXVO	callSign	KXVO
+KCSM-TV	callSign	KCSM-TV
+WVNY	callSign	WVNY
+WFFF-TV	callSign	WFFF-TV
+WGMU-CA	callSign	WGMU-CA/LD
+WGMU-CA	callSign	(satellite of WNMN Saranac Lake, New York)
+WHIZ-TV	callSign	WHIZ-TV
+CJIC-TV	callSign	CJIC-TV
+CJIC-TV	callSign	(defunct)
+CFCL-TV	callSign	CFCL-TV
+CFCL-TV	callSign	(defunct)
+WALV-CA	callSign	WALV-CA
+WTVE (Elmira, NY)	callSign	WTVE
+WRAP-CA	callSign	WRAP-CA
+WFSB	callSign	WFSB
+WPRI-TV	callSign	WPRI-TV
+WUPW	callSign	WUPW
+WDCQ-TV	callSign	WDCQ-TV
+WBSF	callSign	WBSF
+WCMU-TV	callSign	WCMU-TV
+WCMU-TV	callSign	CMU Public Television
+WVGN-LP	callSign	WVGN-LP
+XHBC-TV	callSign	XHBC-TV
+WWTV	callSign	WWTV / WWUP-TV
+WGTU	callSign	WGTU/WGTQ
+WFQX-TV	callSign	WFQX-TV/WFUP
+KMTP-TV	callSign	KMTP-TV
+WKOI-TV	callSign	WKOI-TV
+KPXG-TV	callSign	KPXG-TV
+WHMB-TV	callSign	WHMB-TV
+WIPX-TV	callSign	WIPX-LP
+WIPX-TV	callSign	WIPX-TV
+WPXT	callSign	WPXT
+ADS (TV station)	callSign	ADS
+WINK-TV	callSign	WINK-TV
+KDTV-DT	callSign	KDTV-DT
+SNN Local News 6	callSign	SNN Local News 6
+SNN Local News 6	callSign	(Comcast cable only)
+WFTX-TV	callSign	WFTX-TV
+WZVN-TV	callSign	WZVN-TV
+WBBH-TV	callSign	WBBH-TV
+WHO-DT	callSign	WHO-HD
+WOI-DT	callSign	WOI-DT
+KCWI-TV	callSign	KCWI-TV
+WOAY-TV	callSign	WOAY-TV
+KKPX-TV	callSign	KKPX-TV
+CJDC-TV	callSign	CJDC-TV
+WHPX-TV	callSign	WHPX-TV
+WOSU-TV	callSign	WOSU-TV / WPBO
+KCTV	callSign	KCTV
+KMBC-TV	callSign	KMBC-TV
+KSHB-TV	callSign	KSHB-TV
+KSMO-TV	callSign	KSMO-TV
+KCWE	callSign	KCWE
+KMCI-TV	callSign	KMCI-TV
+KPXE-TV	callSign	KPXE-TV
+KFTR-DT	callSign	KFTR-DT
+WDAF-TV	callSign	WDAF-TV
+WHTN	callSign	WHTN
+KXOC-LP	callSign	KXOC-LP
+KUOK	callSign	KUOK
+KTUZ-TV	callSign	KTUZ-TV
+KAUT-TV	callSign	KAUT-TV
+KSBI	callSign	KSBI
+KOPX-TV	callSign	KOPX-TV
+KTVA	callSign	KTVA
+WLAE-TV	callSign	WLAE-TV
+WNYB	callSign	WNYB
+WNGS	callSign	WNGS
+WNLO	callSign	WNLO
+JTV (Jackson, Michigan)	callSign	JTV
+WSFX-TV	callSign	WSFX-TV
+WGGS-TV	callSign	WGGS-TV
+WYFF	callSign	WYFF
+WHNS	callSign	WHNS
+WYCW	callSign	WYCW
+WLFL	callSign	WLFL
+WTVX	callSign	WTVX
+WCTV	callSign	WCTV
+WTLH	callSign	WTLH
+WHME-TV	callSign	WHME-TV
+WTAT-TV	callSign	WTAT-TV
+Western Reserve Public Media	callSign	WNEO / WEAO
+WFXI	callSign	WFXI/WYDO
+WPXD-TV	callSign	WPXD-TV
+KVAL-TV	callSign	KVAL-TV
+KFSF-DT	callSign	KFSF-DT
+Louisiana Public Broadcasting	callSign	Louisiana Public Broadcasting
+KTTU (TV)	callSign	KTTU
+KMSB	callSign	KMSB
+KJRH-TV	callSign	KJRH-TV
+KVOA	callSign	KVOA
+KHRR	callSign	KHRR
+KWBA-TV	callSign	KWBA-TV
+KOKI-TV	callSign	KOKI-TV
+WGPX-TV	callSign	WGPX-TV
+WAVY-TV	callSign	WAVY-TV
+WTKR	callSign	WTKR
+WVEC	callSign	WVEC
+WHRO-TV	callSign	WHRO-TV
+WGNT	callSign	WGNT
+WTVZ-TV	callSign	WTVZ-TV
+WVBT	callSign	WVBT
+WSKY-TV	callSign	WSKY-TV
+WLXI	callSign	WLXI
+KTBN-TV	callSign	KTBN-TV
+KOTV-DT	callSign	KOTV-DT
+KTUL	callSign	KTUL
+WYTU-LD	callSign	WYTU-LD/LP
+KTFK-DT	callSign	KTFK-DT
+WRLH-TV	callSign	WRLH-TV
+WUPV	callSign	WUPV
+WRIC-TV	callSign	WRIC-TV
+WVRN (TV)	callSign	WVRN
+SAS (TV station)	callSign	SAS
+WKCF	callSign	WKCF
+WOTF-DT	callSign	WOTF-DT
+WRBW	callSign	WRBW
+BTQ	callSign	BTQ
+TVQ	callSign	TVQ
+WVEN-TV	callSign	WVEN-TV
+WSJU-TV	callSign	WSJU-TV
+KWVT-LP	callSign	KWVT-LP
+WGAL	callSign	WGAL
+WGCB-TV	callSign	WGCB-TV
+WGBY-TV	callSign	WGBY-TV
+WKYI-CD	callSign	WKYI-CD
+WBNA	callSign	WBNA
+KBTX-TV	callSign	KBTX-TV
+KBTX-TV	callSign	(semi-satellite of KWTX-TV,
+KBTX-TV	callSign	Waco, Texas)
+WWDP	callSign	WWDP
+WMFP	callSign	WMFP
+WNEU	callSign	WNEU
+WTMU-LP	callSign	WTMU-LP
+WUTF-DT	callSign	WUTF-DT
+WLMB	callSign	WLMB
+WYDN	callSign	WYDN
+WBIN-TV	callSign	WBIN-TV
+WXPO-TV	callSign	WXPO-TV
+WTCN-CA	callSign	WTCN-CA
+WLWC	callSign	WLWC
+WTVM	callSign	WTVM
+WHAM-TV	callSign	WHAM-TV
+KRWG-TV	callSign	KRWG-TV
+WVAH-TV	callSign	WVAH-TV
+WQCW	callSign	WQCW
+DZEC-TV	callSign	DZEC-TV (Net 25)
+WPXC-TV	callSign	WPXC-TV
+WNHT (TV)	callSign	WNHT
+WNAC-TV	callSign	WNAC-TV
+KTUD-LD	callSign	KTUD-LD
+KWKB	callSign	KWKB
+KCPT	callSign	KCPT
+WMTJ	callSign	WMTJ
+KCBD	callSign	KCBD
+WGEM-DT3	callSign	WGEM-DT3
+WGEM-DT2	callSign	WGEM-DT2
+WILL	callSign	WILL-TV
+WBRZ-TV	callSign	WBRZ-TV
+WPXJ-TV	callSign	WPXJ-TV
+KCNS	callSign	KCNS
+KBLR (TV)	callSign	KBLR
+CKSH-TV	callSign	CKSH-TV
+CKTV-TV	callSign	CKTV-TV
+CKTM-TV	callSign	CKTM-TV
+CKRN-TV	callSign	CKRN-TV
+XEW-TV	callSign	XEW-TV
+XHDF-TV	callSign	XHDF
+KOMU-TV	callSign	KOMU-TV
+XEQ-TV	callSign	XEQ-TV
+XHTV	callSign	XHTV
+XHGC-TV	callSign	XHGC-TV
+XET-TV	callSign	XET
+WAFB	callSign	WAFB
+CKRT-TV	callSign	CKRT-TV
+KTAL-TV	callSign	KTAL-TV
+KMAH-LP	callSign	KMAH-LP
+Henry Bourne Joy	callSign	W1AHM
+WCNY-TV	callSign	WCNY-TV
+K11TW	callSign	K11TW
+K11TW	callSign	(A Class-A station)
+Oklahoma Educational Television Authority	callSign	Oklahoma Educational Television Authority
+KOKH-TV	callSign	KOKH-TV
+KOCB	callSign	KOCB
+WSHM-LD	callSign	WSHM-LD
+WSHM-LD	callSign	(semi-satellite of WFSB
+WSHM-LD	callSign	Hartford/New Haven, Connecticut)
+WUPX-TV	callSign	WUPX-TV
+WTLW	callSign	WTLW
+KTFQ-DT	callSign	KTFQ-DT
+KLUZ-TV	callSign	KLUZ-TV
+WJPX	callSign	WJPX
+WBXX-TV	callSign	WBXX-TV
+WSAH	callSign	WSAH
+KXXV	callSign	KXXV
+WKTC	callSign	WKTC
+WLFI-TV	callSign	WLFI-TV
+KAZO-LP	callSign	KAZO-LP
+WBGR-LP	callSign	WBGR-LP
+WBGR-LP	callSign	(a Class-A station)
+WCKD-LP	callSign	WCKD-LP
+KFSN-TV	callSign	KFSN-TV
+WPME	callSign	WPME
+KGPE	callSign	KGPE
+KAIL	callSign	KAIL
+WHOI (TV)	callSign	WHOI
+WDBD	callSign	WDBD
+WAPT (TV)	callSign	WAPT
+WXMS-LP	callSign	WXMS-LP
+WUFX	callSign	WUFX
+KYUR	callSign	KYUR
+KTUU-TV	callSign	KTUU-TV
+KTBY	callSign	KTBY
+KYES-TV	callSign	KYES-TV
+KDMD (TV)	callSign	KDMD
+WJTV	callSign	WJTV
+WBXK-CA	callSign	WBXK-CA
+WTVG	callSign	WTVG
+WVLA-TV	callSign	WVLA-TV
+KFOL-CD	callSign	KFOL-CD / KJUN-CD
+KPDF-CA	callSign	KPDF-CA
+KFPH-DT	callSign	KFPH-DT
+KTGM	callSign	KTGM
+KGTF	callSign	KGTF
+KUAM-LP	callSign	KUAM-LP
+KTKB-LD	callSign	KTKB-LD
+WMJF-LP	callSign	WMJF-LP
+WMJF-LP	callSign	(a Class-A station)
+KGEB	callSign	KGEB
+KLFY-TV	callSign	KLFY-TV
+KTNC-TV	callSign	KTNC-TV
+KUDF-LP	callSign	KUDF-LP
+KOLD-TV	callSign	KOLD-TV
+KBCA	callSign	KBCA
+WSBE-TV	callSign	WSBE-TV
+WJBF	callSign	WJBF
+WRDW-TV	callSign	WRDW-TV
+WAGT	callSign	WAGT
+DZRJ-TV	callSign	DZRJ-TV (2nd Avenue on RJTV 29)
+WETV-LP	callSign	WETV-LP
+WETV-LP	callSign	(a Class-A station)
+KFTY	callSign	KFTY
+WOUB-TV	callSign	WOUB-TV / WOUC-TV
+WCPX-TV	callSign	WCPX-TV
+W33BY	callSign	W33BY, a.k.a. \
+W33BY	callSign	(a Class-A station)
+KRNV-DT	callSign	KRNV-DT/KENV-DT
+WJMN-TV	callSign	WJMN-TV
+WJMN-TV	callSign	(semi-satellite of WFRV-TV
+WJMN-TV	callSign	Green Bay, Wisconsin)
+CFWH-TV	callSign	CFWH-TV
+CFFB-TV	callSign	CFFB-TV
+WMFE-TV	callSign	WMFE-TV
+WYZZ-TV	callSign	WYZZ-TV
+WVXF	callSign	WVXF
+KSBW	callSign	KSBW
+KKFX-CA	callSign	KKFX-CA
+KWUB	callSign	KWUB
+WCLF	callSign	WCLF
+KPMR	callSign	KPMR
+WEEK-TV	callSign	WEEK-TV
+WJJN-LP	callSign	WJJN-LP
+WJJN-LP	callSign	(a Class-A station)
+W47DL-D	callSign	W47DL-D
+WDWO-CD	callSign	WDWO-CD
+WLNS-TV	callSign	WLNS-TV
+ABW (TV station)	callSign	ABW
+WMNT-CA	callSign	WMNT-CA
+WPXQ-TV	callSign	WPXQ-TV
+WILX-TV	callSign	WILX-TV
+WTOL	callSign	WTOL
+HSV (TV station)	callSign	HSV
+WGTE-TV	callSign	WGTE-TV
+KXKW (FM)  KXKW-LP   1	callSign	KXKW-LP
+KUNA-LP	callSign	KUNA-LP
+KVER-CA	callSign	KVER-CA
+XEFB-TV	callSign	XEFB
+KCWQ-LP	callSign	KCWQ-LP/LD
+KVYE	callSign	KVYE
+KECY-TV	callSign	KECY-TV
+KSWT	callSign	KSWT
+KYMA-DT	callSign	KYMA-DT
+WSET-TV	callSign	WSET-TV
+WSLS-TV	callSign	WSLS-TV
+WDBJ	callSign	WDBJ
+Blue Ridge PBS	callSign	Blue Ridge PBS
+KAJB	callSign	KAJB
+KNAZ-TV	callSign	KNAZ-TV
+KNAZ-TV	callSign	(satellite of KPNX, Mesa-Phoenix, Arizona)
+KSNV-DT	callSign	KSNV-DT
+WLAJ	callSign	WLAJ
+XHAQ-TV	callSign	XHAQ-TV
+WSYM-TV	callSign	WSYM-TV
+XHIMT-TV	callSign	XHIMT
+KTVN	callSign	KTVN
+WJYL-CA	callSign	WJYL-CA / WJYL-CD
+KLAF-LP	callSign	KLAF-LP
+KLWB (TV)	callSign	KLWB
+XHEXT-TV	callSign	XHEXT-TV
+XHBM-TV	callSign	XHBM-TV
+XHMEX-TV	callSign	XHMEX-TV
+XHMEX-TV	callSign	(satellite of XHGC-TV,
+XHMEX-TV	callSign	Mexico City, Mexico)
+XHMEE-TV	callSign	XHMEE-TV
+XHLRT-TV	callSign	XHLRT-TV
+WBOC-TV	callSign	WBOC-TV
+CJSS-TV	callSign	CJSS-TV
+CJSS-TV	callSign	(defunct)
+KSTS	callSign	KSTS
+KESE-LP	callSign	KESE-LP
+KYUM-LP	callSign	KYUM-LP
+KRCB	callSign	KRCB
+KTSF	callSign	KTSF
+KTLN-TV	callSign	KTLN-TV
+Network Knowledge	callSign	WMEC / WQEC / WSEC
+WXAX-LP	callSign	WXAX-LP
+WXAX-LP	callSign	(a Class-A station)
+WSPF-CA	callSign	WSPF-CA
+WCMZ-TV	callSign	WCMZ-TV
+WCMZ-TV	callSign	(satellite of WCMU-TV,
+WCMZ-TV	callSign	Mount Pleasant, Michigan)
+KLTJ	callSign	KLTJ
+KETH-TV	callSign	KETH-TV
+WNYN-LD	callSign	WNYN-LD
+WDVB-CA	callSign	WDVB-CA
+KBJR-TV	callSign	KBJR-TV / KRII
+KDLH	callSign	KDLH
+WIPR-TV	callSign	WIPR-TV
+K25DM	callSign	K25DM
+KNOP-TV	callSign	KNOP-TV
+KSNK	callSign	KSNK
+KSNK	callSign	(satellite of KSNW, Wichita, Kansas)
+KEYC-TV	callSign	KEYC-TV
+KTVO	callSign	KTVO
+WLUC-TV	callSign	WLUC-TV
+WPTA	callSign	WPTA
+KIMT	callSign	KIMT
+WDSC-TV	callSign	WDSC-TV
+XEJ-TV	callSign	XEJ-TV
+XEPM-TV	callSign	XEPM-TV
+XHCJH-TV	callSign	XHCJH
+XHCJE-TV	callSign	XHCJE
+XHJCI-TV	callSign	XHJCI-TV
+KBEH	callSign	KBEH
+KHIZ	callSign	KHIZ
+XHJUB-TV	callSign	XHJUB-TV
+WVEA-TV	callSign	WVEA-TV
+WFTT-DT	callSign	WFTT-DT
+WRMD-CA	callSign	WRMD-CA
+WAZE-TV	callSign	WAZE-TV
+WTSN-LD	callSign	WTSN-LD
+WRIW-CA	callSign	WRIW-CA
+WTVW	callSign	WTVW
+WNIN (TV)	callSign	WNIN
+WMAZ-TV	callSign	WMAZ-TV
+WGXA	callSign	WGXA
+WMGT-TV	callSign	WMGT-TV
+WPGA-TV	callSign	WPGA-TV
+KYTV (TV)	callSign	KYTV
+KOLR	callSign	KOLR
+KSPR	callSign	KSPR
+WLEX-TV	callSign	WLEX-TV
+KJCT	callSign	KJCT
+KKCO	callSign	KKCO
+WCAV	callSign	WCAV
+WVAW-LD	callSign	WVAW-LD
+WVIR-TV	callSign	WVIR-TV
+KFTU-DT	callSign	KFTU-DT
+WCYB-TV	callSign	WCYB-TV
+KQCA	callSign	KQCA
+KUVS-DT	callSign	KUVS-DT
+WWHB-CA	callSign	WWHB-CA
+CFTO-TV	callSign	CFTO-TV
+KCPM (TV)	callSign	KCPM
+W25AW	callSign	W25AW
+W25AW	callSign	(a.k.a. \
+CJPC-TV	callSign	CJPC-TV
+CJPC-TV	callSign	(satellite of CFTF-TV,
+CJPC-TV	callSign	Rivi\u00E8re-du-Loup)
+WTVJ	callSign	WTVJ
+WPCH-TV	callSign	WPCH-TV
+KNME-TV	callSign	KNME-TV
+WSYX	callSign	WSYX
+KBVO	callSign	KBVO
+KBNT-CA	callSign	KBNT-CA/KTCD-LP/KHAX-LP
+WNED-TV	callSign	WNED-TV
+WUGA-TV	callSign	WUGA-TV
+Scot Rubin	callSign	agn
+WJHG-TV	callSign	WJHG-TV
+KTNL-TV	callSign	KTNL-TV
+KUBD (TV)	callSign	KUBD
+KUBD (TV)	callSign	(satellite of KTNL-TV, Sitka, Alaska)
+KDMD-LP	callSign	KDMD-LP
+KUBD-LP	callSign	KUBD-LP
+WSTQ-LP	callSign	WSTQ-LP
+WSTM-TV	callSign	WSTM-TV
+WENY-TV	callSign	WENY-TV
+WETM-TV	callSign	WETM-TV
+Cable 8 Productions	callSign	Cable 8 Productions
+Nebraska Educational Telecommunications	callSign	Nebraska Educational Telecommunications
+KBCB	callSign	KBCB
+CFTV-TV	callSign	CFTV
+WNNE	callSign	WNNE
+WNNE	callSign	(semi-satellite of WPTZ Plattsburgh, New York-Burlington, Vermont)
+WBKP	callSign	WBKP
+WNMU (TV)	callSign	WNMU
+WZMQ	callSign	WZMQ
+WTVQ-DT	callSign	WTVQ-DT
+Connecticut Public Television	callSign	Connecticut Public Television
+WKYT-TV	callSign	WKYT-TV
+WYMT-TV	callSign	WYMT-TV
+WYMT-TV	callSign	(semi-satellite of WKYT
+WYMT-TV	callSign	Lexington, Kentucky)
+KQDS-TV	callSign	KQDS-TV
+WDSE	callSign	WDSE / WRPT
+WBUP	callSign	WBUP
+KFPX-TV	callSign	KFPX-TV
+WITF-TV	callSign	WITF-TV
+XERV-TV	callSign	XERV
+WPDE-TV	callSign	WPDE-TV
+KTXS-TV	callSign	KTXS-TV
+TBN repeaters in the Tampa Bay DMA	callSign	TBN Repeaters
+TBN repeaters in the Tampa Bay DMA	callSign	in the Tampa Bay Market
+KGET-TV	callSign	KGET-TV
+KIDK	callSign	KIDK
+KPVI-DT	callSign	KPVI-DT
+KFXP	callSign	KFXP
+WISE-TV	callSign	WISE-TV
+WTWV	callSign	WTWV
+XHTAM-TV	callSign	XHTAM
+XHLAR-TV	callSign	XHLAR-TV
+WVLT-TV	callSign	WVLT-TV
+WWBI-LP	callSign	WWBI-LP
+WWBI-LP	callSign	(A Class-A Station)
+WT05	callSign	WT05
+WT05	callSign	(cable only)
+WAQP	callSign	WAQP
+WLGA	callSign	WLGA
+WOCH-CA	callSign	WOCH-CA
+KLSR-TV	callSign	KLSR-TV
+KEVU-CD	callSign	KEVU-CD
+WPDS-LD	callSign	WPDS-LD
+WZRA-CA	callSign	WZRA-CA
+WXPX-TV	callSign	WXPX-TV
+WBKB-TV	callSign	WBKB-TV
+WJHL-TV	callSign	WJHL-TV
+KTVE	callSign	KTVE
+KNOE-TV	callSign	KNOE-TV
+KAQY	callSign	KAQY
+KEJB	callSign	KEJB
+WDRL-TV	callSign	WDRL-TV
+KFSM-TV	callSign	KFSM-TV
+KNWA-TV	callSign	KNWA-TV
+WHTM-TV	callSign	WHTM-TV
+KARD	callSign	KARD
+WBYD-CA	callSign	WBYD-CA
+WTXL-TV	callSign	WTXL-TV
+WDFM-LP	callSign	WDFM-LP
+WKPT-TV	callSign	WKPT-TV
+VSB-TV	callSign	VSB-TV
+K29HW-D	callSign	K29HW-D
+KUTH-DT	callSign	KUTH-DT
+KDLT-TV	callSign	KDLT-TV / KDLV-TV
+WLTX	callSign	WLTX
+KTTW	callSign	KTTW / KTTM
+KSFY-TV	callSign	KSFY-TV
+WMDT	callSign	WMDT
+WDAY-TV	callSign	WDAY-TV
+KATN	callSign	KATN
+KJUD	callSign	KJUD
+NTTV	callSign	NTTV
+KULR-TV	callSign	KULR-TV / KYUS-TV
+WNTZ-TV	callSign	WNTZ-TV
+KDEN-TV	callSign	KDEN
+KHMT	callSign	KHMT
+KSVI	callSign	KSVI
+KWBM	callSign	KWBM
+Community Seven (Billings, Montana)	callSign	Community Seven
+KCAU-TV	callSign	KCAU-TV
+KACV-TV	callSign	KACV-TV
+KVII-TV	callSign	KVII-TV / KVIH-TV
+WORO-DT	callSign	WORO-DT
+KWDK	callSign	KWDK
+WPMT	callSign	WPMT
+DWDB-TV	callSign	DWDB-TV
+WTVP	callSign	WTVP
+WLPC-LP	callSign	WLPC-LP
+WLPC-LP	callSign	(a Class-A Station)
+CFSO-TV	callSign	CFSO-TV
+KPXB-TV	callSign	KPXB-TV
+KAMR-TV	callSign	KAMR-TV
+WRBJ (TV)	callSign	WRBJ
+KIDA	callSign	KIDA
+KHBS	callSign	KHBS / KHOG-TV
+WBQP-CA	callSign	WBQP-CA
+KCIT	callSign	KCIT
+WTAJ-TV	callSign	WTAJ-TV
+KMYT-TV	callSign	KMYT-TV
+KQCW-DT	callSign	KQCW-DT
+KXII	callSign	KXII
+WTSF	callSign	WTSF
+WYGA-LD	callSign	WYGA-CA / WYGA-LD
+KFDA-TV	callSign	KFDA-TV
+KDTP-LP	callSign	KDTP-LP
+WVNS-TV	callSign	WVNS-TV
+KION-TV	callSign	KION-TV
+KCBA	callSign	KCBA
+KFRE-TV	callSign	KFRE-TV
+KERO-TV	callSign	KERO-TV
+KBAK-TV	callSign	KBAK-TV
+KBFX-CA	callSign	KBFX-CD
+KUVI-DT	callSign	KUVI-DT
+WTWC-TV	callSign	WTWC-TV
+WDTV	callSign	WDTV
+WBOY-TV	callSign	WBOY-TV
+WVFX	callSign	WVFX
+WFWC-CA	callSign	WFWC-CA
+W68BK	callSign	W68BK, a.k.a. \
+WFFT-TV	callSign	WFFT-TV
+WANE-TV	callSign	WANE-TV
+WFWA	callSign	WFWA
+W07CL	callSign	W07CL
+WINM	callSign	WINM
+WPXE-TV	callSign	WPXE-TV
+WTAP-TV	callSign	WTAP-TV
+WNYZ-LP	callSign	WNYZ-LP
+WSVI	callSign	WSVI
+WEMT	callSign	WEMT
+WXGA-TV	callSign	WXGA-TV
+WXGA-TV	callSign	(satellite of WGTV,
+WXGA-TV	callSign	Athens/Atlanta, Georgia)
+WTVA	callSign	WTVA
+WWMB	callSign	WWMB
+WFXB	callSign	WFXB
+WOLO-TV	callSign	WOLO-TV
+WZRB	callSign	WZRB
+WACH	callSign	WACH
+WAOE	callSign	WAOE
+WPTV-TV	callSign	WPTV-TV
+WVAN-TV	callSign	WVAN-TV
+KPXJ	callSign	KPXJ
+KMSS-TV	callSign	KMSS-TV
+KSHV-TV	callSign	KSHV-TV
+KNMT	callSign	KNMT
+TechTV (Louisiana Tech University)	callSign	Louisiana TechTV
+KWWF	callSign	KWWF
+KOLN	callSign	KOLN / KGIN
+Montana PBS	callSign	Montana PBS
+WAST-LP	callSign	WAST-LP
+WJCT (TV)	callSign	WJCT
+WJAN-CA	callSign	WJAN-CA/CD/LD
+WHP-TV	callSign	WHP-TV
+WAHU-CD	callSign	WAHU-CD
+KOLO-TV	callSign	KOLO-TV
+WZDX	callSign	WZDX
+WTVH	callSign	WTVH
+WCFC-CA	callSign	WCFC-CA
+KAWE	callSign	KAWE / KAWB
+WXON-LP	callSign	WXON-LP
+ZBM-TV	callSign	ZBM-TV
+ZFB-TV	callSign	ZFB-TV
+KMEG	callSign	KMEG
+KCSI-TV	callSign	KCSI-TV
+KCSI-TV	callSign	(cable only)
+WWTI	callSign	WWTI
+KPTH	callSign	KPTH
+WYKE-CD	callSign	WYKE-CD
+WYKE-CD	callSign	(a Class-A Station)
+KNAT-TV	callSign	KNAT-TV
+KCHF	callSign	KCHF
+KFDX-TV	callSign	KFDX-TV
+KTEN	callSign	KTEN
+KAUZ-TV	callSign	KAUZ-TV
+KWSD	callSign	KWSD
+WADL (TV)	callSign	WADL
+WIVM-LP	callSign	WIVM-LD / WIVN-LD / WIVD-LD / WIVX-LD
+KMYU	callSign	KMYU
+KWES-TV	callSign	KWES-TV / KWAB-TV
+KJTL	callSign	KJTL
+KJBO-LP	callSign	KJBO-LP
+WBME-TV	callSign	WBME-TV
+WBME-TV	callSign	WYTU-LP
+WVTX-CA	callSign	WVTX-CA
+WVTX-CA	callSign	(satellite of WBGN-LP,
+WVTX-CA	callSign	Pittsburgh, Pennsylvania)
+KREN-TV	callSign	KREN-TV
+WBGN-CD	callSign	WBGN-CD
+WHDF	callSign	WHDF
+KLRA-LP	callSign	KLRA-LP
+WAAY-TV	callSign	WAAY-TV
+KUNP	callSign	KUNP
+WJSP-TV	callSign	WJSP-TV
+WHNT-TV	callSign	WHNT-TV
+WCES-TV	callSign	WCES-TV
+WAOH-LP	callSign	WAOH / W35AX
+WRDM-CA	callSign	WRDM-CA
+KZAK-LP	callSign	KZAK-LP
+WFXG	callSign	WFXG
+CKPG-TV	callSign	CKPG-TV
+WWME-CA	callSign	WWME-CA/LD
+WAFF (TV)	callSign	WAFF
+KSNT	callSign	KSNT
+WSYR-TV	callSign	WSYR-TV
+WUTH-CA	callSign	WUTH-CA
+WHCT-LP	callSign	WHCT-LP
+W44CK	callSign	W44CK
+WELU	callSign	WELU
+WSKG-TV	callSign	WSKG-TV / WSKA
+WDHN	callSign	WDHN
+WNCF	callSign	WNCF
+KTKA-TV	callSign	KTKA-TV
+WTAC-TV	callSign	WTAC
+WABI-DT2	callSign	WABI-DT2
+WKTV-DT2	callSign	WKTV-DT2
+WWTI-DT2	callSign	WWTI-DT2
+WBNG-DT2	callSign	WBNG-DT2
+WENY-DT3	callSign	WENY-DT3
+WHAM-DT2	callSign	WHAM-DT2
+WSEE-DT2	callSign	WSEE-DT2
+KMIZ	callSign	KMIZ
+WABW-TV	callSign	WABW-TV
+WNGH-TV	callSign	WNGH-TV
+WBRL-CD	callSign	WBRL-CD
+WCVI-TV	callSign	WCVI-TV
+WGNM	callSign	WGNM
+WPBF	callSign	WPBF
+WIVT	callSign	WIVT
+KSNF	callSign	KSNF
+WBND-LP	callSign	WBND-LP/LD
+KGMC (TV)	callSign	KGMC
+KWMK	callSign	KWMK
+WLJT-DT	callSign	WLJT-DT
+KLNM-LP	callSign	KLNM-LP
+CHAT-TV	callSign	CHAT-TV
+WEVU-LP	callSign	WEVU-LP
+WEVU-LP	callSign	(satellite of WUVF-LP, Naples, Florida)
+WXCW	callSign	WXCW
+WJXS-CA	callSign	WJXS-CA
+WTZT-CA	callSign	WTZT-CA
+XHRIO-TV	callSign	XHRIO-TV
+WAPK-CA	callSign	WAPK-CA
+WSWB	callSign	WSWB
+WOLF-TV	callSign	WOLF-TV
+WMAK	callSign	WMAK
+WFLX	callSign	WFLX
+KTVF	callSign	KTVF
+KFXF	callSign	KFXF
+KAME-TV	callSign	KAME-TV
+WFXU	callSign	WFXU
+WTLF	callSign	WTLF
+WACS-TV	callSign	WACS-TV
+WMFD-TV	callSign	WMFD-TV
+WNYF-CD	callSign	WNYF-CD/LD
+WCWW-LD	callSign	WCWW-LD/LP
+WFXL	callSign	WFXL
+WSEE-TV	callSign	WSEE-TV
+KWHB	callSign	KWHB
+WSST-TV	callSign	WSST-TV
+K13XD	callSign	K13XD
+K13XD	callSign	(a Class-A station)
+WIBW-TV	callSign	WIBW-TV
+WMUM-TV	callSign	WMUM-TV
+WLPX-TV	callSign	WLPX-TV
+WYIN	callSign	WYIN
+WCJB-TV	callSign	WCJB-TV
+KQFX-LD	callSign	KQFX-LD
+WTNZ	callSign	WTNZ
+WVBG-LP	callSign	WVBG-LP
+WDKY-TV	callSign	WDKY-TV
+WSCV	callSign	WSCV
+KRCG	callSign	KRCG
+KWHE	callSign	KWHE
+KAAH-TV	callSign	KAAH-TV
+KBFD-DT	callSign	KBFD-DT
+KALO	callSign	KALO
+KWBN	callSign	KWBN
+KKAI	callSign	KKAI
+KUPU	callSign	KUPU
+KHLU-LP	callSign	KHLU-LP
+KHLU-LP	callSign	(A Class-A Station)
+KJEO-LD	callSign	KJEO-LD
+KSDI-LP	callSign	KSDI-LP
+KNSO	callSign	KNSO
+WGSR-LD	callSign	WGSR-LD
+GWTV	callSign	GWTV
+WHBF-TV	callSign	WHBF-TV
+WQAD-TV	callSign	WQAD-TV
+KWQC-TV	callSign	KWQC-TV
+WDNN-CA	callSign	WDNN-CA / WTNB-CA
+KFTV-DT	callSign	KFTV-DT
+KMSG-LP	callSign	KMSG-LP
+KHSC-LP	callSign	KHSC-LP
+KVPT	callSign	KVPT
+KVHF-LD	callSign	KVHF-LD
+KZMM-CA	callSign	KZMM-CA
+KCWB-LP	callSign	KCWB-LP / KVVG-LP
+WMYS-LD	callSign	WMYS-LD/LP
+WBTL-LP	callSign	WBTL-LP
+WTJX-TV	callSign	WTJX-TV
+WEID-LP	callSign	WEID-LP
+WVIF	callSign	WVIF
+W21BF	callSign	W21BF
+WMNS-LP	callSign	WMNS-LP
+W29CB	callSign	W29CB
+WBIV-LP	callSign	WBIV-LP
+WEYA-LP	callSign	WEYA-LP
+WEON-LP	callSign	WEON-LP
+WJWM-LP	callSign	WJWM-LP
+ZBTV	callSign	ZBTV
+KEQI-LP	callSign	KEQI-LP
+K28HS	callSign	K28HS
+K32GB	callSign	K32GB
+K30HB	callSign	K30HB
+K36GJ	callSign	K36GJ
+KKHJ-LP	callSign	KKHJ-LP
+WNGN-LP	callSign	WNGN-LP / WNGX-LP
+WTBY-TV	callSign	WTBY-TV
+WOGX	callSign	WOGX
+WOGX	callSign	(semi-satellite of WOFL
+WOGX	callSign	Orlando, Florida)
+WLOX	callSign	WLOX
+WDAM-TV	callSign	WDAM-TV
+WHLT	callSign	WHLT
+WHLT	callSign	(semi-satellite of WJTV
+WHLT	callSign	Jackson, Mississippi)
+WRAY-TV	callSign	WRAY-TV
+WRLM (TV)	callSign	WRLM
+KVZK-2	callSign	KVZK-2
+WHAG-TV	callSign	WHAG-TV
+KHQA-TV	callSign	KHQA-TV
+WSJX-LP	callSign	WSJX-LP
+WGGN-TV	callSign	WGGN-TV
+WLAJ-DT2	callSign	WLAJ-DT2
+WFXR	callSign	WFXR / WWCW
+WBKO	callSign	WBKO
+WHNE-LD	callSign	WHNE-LD
+WTCV	callSign	WTCV
+KLBK-TV	callSign	KLBK-TV
+KNTS-LP	callSign	KNTS-LP
+KAMC	callSign	KAMC
+KSFX-TV	callSign	KSFX-TV
+KODE-TV	callSign	KODE-TV
+KOZK	callSign	KOZK / KOZJ
+WBXH-CA	callSign	WBXH-CA
+Mississippi Public Broadcasting	callSign	Mississippi Public Broadcasting
+KODF-LP	callSign	KODF-LD
+WMEI	callSign	WMEI
+WLRN-TV	callSign	WLRN-TV
+WTVY (TV)	callSign	WTVY
+WLTV-DT	callSign	WLTV-DT
+WDFX-TV	callSign	WDFX-TV
+KOSA-TV	callSign	KOSA-TV
+KLVD-LP	callSign	KLVD-LP
+KWNL-CA	callSign	KWNL-CA
+WOLV (TV)	callSign	WOLV
+KJOI-LP	callSign	KJOI-LP
+KPMC-LP	callSign	KPMC-LP
+KBBV-CA	callSign	KBBV-CA
+KCPN-LP	callSign	KCPN-LP
+W07DP-D	callSign	W07DP-D
+KABE-LD	callSign	KABE-LD
+KGET-DT2	callSign	KGET-DT2
+KKEY-LP	callSign	KKEY-LP / KGET-DT3
+WLYH-TV	callSign	WLYH-TV
+WJET-TV	callSign	WJET-TV
+WGMB-TV	callSign	WGMB-TV
+KBSV	callSign	KBSV
+KSPX-TV	callSign	KSPX-TV
+KSAO-LD	callSign	KSAO-LD
+KSTV-LP	callSign	KSTV-LP
+KTFF-DT	callSign	KTFF-DT
+KBSH-DT	callSign	KBSH-DT
+KBSH-DT	callSign	(satellite of KWCH-DT, Wichita, Kansas)
+KBSD-DT	callSign	KBSD-DT
+KBSD-DT	callSign	(semi-satellite of KWCH-DT, Wichita, Kansas)
+KBSL-DT	callSign	KBSL-DT
+KBSL-DT	callSign	(satellite of KWCH-DT, Wichita, Kansas)
+WLFT-CA	callSign	WLFT-CA
+KPBN-LP	callSign	KPBN-LP
+KZUP-CD	callSign	KZUP-CD
+W10BM	callSign	W10BM
+W10BM	callSign	(Disputed License)
+KMOH-TV	callSign	KMOH-TV
+KVIQ	callSign	KVIQ
+Soyuz TMA-10	callSign	Pulsar
+KSNC	callSign	KSNC
+KSNC	callSign	(satellite of KSNW, Wichita, Kansas)
+KSNG	callSign	KSNG
+KSNG	callSign	(satellite of KSNW, Wichita, Kansas)
+WYLN-LP	callSign	WYLN-LP
+WBMS-CA	callSign	WBMS-CA
+KHSL-TV	callSign	KHSL-TV
+KCVU	callSign	KCVU
+KKJB	callSign	KKJB
+KWTX-TV	callSign	KWTX-TV
+KIEM-TV	callSign	KIEM-TV
+KTIV	callSign	KTIV
+WQTV-LP	callSign	WQTV-LP/WQWQ-LP
+Telecaribe	callSign	Telecaribe
+Central Florida News 13	callSign	Central Florida News 13
+Central Florida News 13	callSign	(Bright House cable only)
+CBN (TV station)	callSign	CBN
+WBNG-TV	callSign	WBNG-TV
+CFTK-TV	callSign	CFTK-TV
+AMV (TV station)	callSign	AMV
+MTN (TV station)	callSign	MTN
+WCBI-TV	callSign	WCBI-TV
+WJAC-TV	callSign	WJAC-TV
+KDCG-CD	callSign	KDCG-CD
+KJLR-LP	callSign	KJLR-LP
+WQPX-TV	callSign	WQPX-TV
+WHSV-TV	callSign	WHSV-TV
+KMMK-LP	callSign	KMMK-LP / KMUM-CA / KMMW-LP
+KAZV-LP	callSign	KAZV-LP
+WLIO	callSign	WLIO
+WRBL	callSign	WRBL
+KCEN-TV	callSign	KCEN-TV
+KWKT-TV	callSign	KWKT-TV / KYLE-TV
+KJTV-TV	callSign	KJTV-TV
+WLTZ	callSign	WLTZ
+KCOP-TV	callSign	KCOP-TV
+WXXI-TV	callSign	WXXI-TV
+Media in The Simpsons	callSign	KBBL-TV
+MUTV (University of Missouri)	callSign	MUTV
+WEBR-CD	callSign	WEBR/WEBR-CD
+Shaw TV Kenora	callSign	Shaw TV
+KQCK	callSign	KQCK
+KEGS (TV)	callSign	KEGS
+WFXP	callSign	WFXP
+WWCP-TV	callSign	WWCP-TV
+KSAN-TV	callSign	KSAN-TV
+K61GA	callSign	K61GA
+KPTM	callSign	KPTM
+WXEL-TV	callSign	WXEL-TV
+WSWG	callSign	WSWG
+WSWG	callSign	(semi-satellite of WCTV
+WSWG	callSign	Thomasville, Georgia/
+WSWG	callSign	Tallahassee, Florida)
+WGFL	callSign	WGFL
+WBGH-CA	callSign	WBGH-CA
+KWBM (CW Plus)	callSign	KWBM
+WIAV-LP	callSign	WIAV-LP/-LD
+WUTR	callSign	WUTR
+WMBB	callSign	WMBB
+WFXV	callSign	WFXV
+WPNY-LP	callSign	WPNY-LP
+WSPX-TV	callSign	WSPX-TV
+KALB-TV	callSign	KALB-TV
+Teledos	callSign	YSTV
+YSU4	callSign	YSU4
+YSWA	callSign	YSWA
+Duke Union Community Television	callSign	Duke Union Community Television
+WQMY	callSign	WQMY
+KRBC-TV	callSign	KRBC-TV
+WAKA	callSign	WAKA
+WSFA	callSign	WSFA
+WCOV-TV	callSign	WCOV-TV
+WABG-TV	callSign	WABG-TV
+WXVT	callSign	WXVT
+WATM-TV	callSign	WATM-TV
+KPEJ-TV	callSign	KPEJ-TV
+WAZS-LP	callSign	WAZS-LP
+WJNI-LP	callSign	WJNI-LP
+WJAL	callSign	WJAL
+WNPX-TV	callSign	WNPX-TV
+WPGD-TV	callSign	WPGD-TV
+WJFB	callSign	WJFB
+WTOK-TV	callSign	WTOK-TV
+WDNI-CD	callSign	WDNI-CD
+KCWK	callSign	KCWK
+KOBI	callSign	KOBI
+KOTI	callSign	KOTI
+WFRZ-LP	callSign	WFRZ-LP
+KMVU-DT	callSign	KMVU-DT
+KTVL	callSign	KTVL
+KDRV	callSign	KDRV / KDKF
+KGEC-LP	callSign	KGEC-LP
+KBLN	callSign	KBLN
+WBLU-LP	callSign	WBLU-LP
+WNKY	callSign	WNKY
+WFME-TV	callSign	WFME-TV
+KECI-TV	callSign	KECI-TV / KCFW-TV / KTVM-TV
+KTVC	callSign	KTVC
+WMDN	callSign	WMDN
+K15CZ	callSign	K15CZ (\
+WGBC	callSign	WGBC
+KWWT	callSign	KWWT
+KXTU-LP	callSign	KXTU-LP
+KMVT	callSign	KMVT
+KLAX-TV	callSign	KLAX-TV
+WPXM-TV	callSign	WPXM-TV
+KTOV-LP	callSign	KTOV-LP
+WWPX-TV	callSign	WWPX-TV
+WWPX-TV	callSign	(satellite of WPXW-TV,
+WWPX-TV	callSign	Washington, DC)
+IUSTV	callSign	IUSTV
+Southern Oregon Public Television	callSign	KSYS / KFTS
+WHLV-TV	callSign	WHLV-TV
+WTMO-CA	callSign	WTMO-CA
+KGCW (TV)	callSign	KGCW
+KKOG-TV	callSign	KKOG-TV
+WBCC	callSign	WBCC
+WTGL	callSign	WTGL
+WACX	callSign	WACX
+WPXK-TV	callSign	WPXK-TV
+WLFG	callSign	WLFG
+WLOV-TV	callSign	WLOV-TV
+WKDH	callSign	WKDH
+KVHP	callSign	KVHP
+KHPK-LP	callSign	KHPK-LP
+WGCU (TV)	callSign	WGCU
+WARP-CD	callSign	WARP-CD
+WBPN-LP	callSign	WBPN-LP
+WICZ-TV	callSign	WICZ-TV
+KUIL-LD	callSign	KUIL-LD
+WRDE-LD	callSign	WRDE-LD
+WPTA-DT2	callSign	WPTA-DT2
+NewsWatch 15	callSign	NewsWatch 15
+KRGV-TV	callSign	KRGV-TV
+KVEO-TV	callSign	KVEO-TV
+KGBT-TV	callSign	KGBT-TV
+KLKN	callSign	KLKN
+WHDT	callSign	WHDT
+KOAM-TV	callSign	KOAM-TV
+WYGN-LP	callSign	WYGN-LP
+Okot Odhiambo	callSign	Two Victor
+WBXG-CA	callSign	WBXG-CA
+WBXT-CA	callSign	WBXT-CA
+KHGI-TV	callSign	KHGI-TV / KWNB-TV
+WBXA-CA	callSign	WBXA-CA
+WXSX-CA	callSign	WXSX-CA
+WBXI-CA	callSign	WBXI-CA
+WMKE-CA	callSign	WMKE-CA
+KNAV-LP	callSign	KNAV-LP
+KATA-CA	callSign	KATA-CA
+KDTP	callSign	KDTP
+KFBI-LD	callSign	KFBI-LD
+CJBR-TV	callSign	CJBR-TV
+WNCE-CA	callSign	WNCE-CA
+WNYI	callSign	WNYI
+W06BD	callSign	W06BD
+KBTR-CA	callSign	KBTR-CA
+WMBQ-CA	callSign	WMBQ-CA
+WVVA-DT2	callSign	WVVA-DT2
+WLCN-CD	callSign	WLCN-CD
+KADF-LP	callSign	KADF-LP
+WOBZ-LD	callSign	WOBZ-LD
+KMPX	callSign	KMPX
+KCTU-LD	callSign	KCTU-LD
+KFJX	callSign	KFJX
+WBGT-CA	callSign	WBGT-CA
+WQLN (TV)	callSign	WQLN
+KPXL-TV	callSign	KPXL-TV
+KPXR-TV	callSign	KPXR-TV
+KTPX-TV	callSign	KTPX-TV
+WEPX-TV	callSign	WEPX-TV
+WPXU-TV	callSign	WPXU-TV
+KAUN-LP	callSign	KAUN-LP
+WRPX-TV	callSign	WRPX-TV
+WFPX-TV	callSign	WFPX-TV
+WPXP-TV	callSign	WPXP-TV
+WPXR-TV	callSign	WPXR-TV
+WPXV-TV	callSign	WPXV-TV
+WNMN	callSign	WNMN
+WRID-LP	callSign	WRID-LP
+WOHL-CD	callSign	WOHL-CD
+WLMO-LP	callSign	WLMO-LP
+WLQP-LP	callSign	WLQP-LP
+WFND-LP	callSign	WFND-LP
+W09CG	callSign	W09CG
+W16BT	callSign	W16BT
+WMNO-CA	callSign	WMNO-CA
+KCSO-LD	callSign	KCSO-LD
+WPGX	callSign	WPGX
+W39CO	callSign	W39CO
+WIYC	callSign	WIYC
+WKBS-TV (Philadelphia)	callSign	WKBS-TV
+KAZQ	callSign	KAZQ
+WXXV-TV	callSign	WXXV-TV
+KJWY	callSign	KJWY
+KVNV	callSign	KVNV
+WTCT	callSign	WTCT
+WIWU-CA	callSign	WIWU-CA
+KJEF-CA	callSign	KJEF-CA
+KKEI-CA	callSign	KKEI-CA
+WONS-LP	callSign	WONS-LP
+WONS-LP	callSign	(a Class-A station)
+KUGB-CA	callSign	KUGB-CA
+KMCC	callSign	KMCC
+KYNM-LP	callSign	KYNM-LP
+W51DU	callSign	W51DU
+W43BV	callSign	W43BV
+W38BK	callSign	W38BK
+WOTM-LP	callSign	WOTM-LP
+WTJP-TV	callSign	WTJP-TV
+KJNP-TV	callSign	KJNP-TV
+W47CK	callSign	W47CK
+WZXZ-CA	callSign	WZXZ-CA
+W23BV	callSign	W23BV-D
+WJPS-LP	callSign	WJPS-LP
+WCLJ-TV	callSign	WCLJ-TV
+WMUN-LP	callSign	WMUN-LP
+WHFE-LP	callSign	WHFE-LP / WVGO-LP
+WVVH-CA	callSign	WVVH-CA
+WBXC-CA	callSign	WBXC-CA
+KKAX-LP	callSign	KKAX-LP
+WAAA-LP	callSign	WAAA-LP
+KMMA-CA	callSign	KMMA-CA
+KMMD-CA	callSign	KMMD-CA
+KVMM-CA	callSign	KVMM-CA
+KQMM-CA	callSign	KQMM-CA
+KVPS-LP	callSign	KVPS-LP
+KNLJ	callSign	KNLJ
+KQTV	callSign	KQ2
+KUCO-LP	callSign	KUCO-LP
+KXVU-LP	callSign	KXVU-LP
+KUVU-LP	callSign	KUVU-LP
+KEUV-LP	callSign	KEUV-LP
+WLCU-CA	callSign	WLCU-CA
+W48CX	callSign	W48CX
+W48CX	callSign	(a Class-A station)
+WBQD-LP	callSign	WBQD-LP/WQAD-DT3
+WSJN-CD	callSign	WSJN-CD
+KMCA-LP	callSign	KMCA-LP
+WJTS-LP	callSign	WJTS-LP
+WOTH-LP	callSign	WOTH-LD
+WVUP-CD	callSign	WVUP-CD
+WJYS	callSign	WJYS
+KBSC-LP	callSign	KBSC-LP
+KUKC-LP	callSign	KUKC-LP
+KINC	callSign	KINC
+KELV-LP	callSign	KELV-LP
+WIMN-CA	callSign	WIMN-CA
+KTVP-LP	callSign	KTVP-LP
+KUOK-CA	callSign	KUOK-CA
+WODN-LP	callSign	WODN-LP
+KUVE-DT	callSign	KUVE-DT
+KCOS-LP	callSign	KCOS-LP
+KCOS-LP	callSign	(a Class A station)
+Myron Noodleman	callSign	You Da Man!
+IUP-TV	callSign	IUP-TV
+WKYU-TV	callSign	WKYU
+KXTS-LP	callSign	KXTS-LP
+KBTV-TV	callSign	KBTV-TV
+KFDM	callSign	KFDM
+KBMT	callSign	KBMT
+KTAB-TV	callSign	KTAB-TV
+WELL-LD	callSign	WELL-LD
+WDMA-CA	callSign	WDMA-CA / WDMA-LD
+KPSE-LP	callSign	KPSE-LP
+W46CR	callSign	W46CR
+W46CR	callSign	(or W42DI)
+KFXL-TV	callSign	KFXL-TV
+WDLI-TV	callSign	WDLI-TV
+WDHS	callSign	WDHS
+WETM-DT2	callSign	WETM-DT2
+WHDN-LD	callSign	WHDN-LD
+WOCK-CD	callSign	WOCK-CD
+WEDE-CA	callSign	WEDE-CA
+WWTO-TV	callSign	WWTO-TV
+WHAN-LP	callSign	WHAN-LP
+WREP-LP	callSign	WREP-LP
+WKOG-LP	callSign	WKOG-LP
+K47DF	callSign	K47DF (\
+K68DJ	callSign	K68DJ
+KMCW-LP	callSign	KMCW-LP
+KIII	callSign	KIII
+KHAS-TV	callSign	KHAS-TV
+WTPM-LD	callSign	WTPM-LD
+WQPT-TV	callSign	WQPT-TV
+KJCW	callSign	KJCW
+KGWC-TV	callSign	KGWC-TV
+WUSF-TV	callSign	WUSF-TV
+WAWD	callSign	WAWD
+WXOB-LP	callSign	WXOB-LP
+WXOB-LP	callSign	(a Class-A station)
+KAVU-TV	callSign	KAVU-TV
+Bright House Sports Network	callSign	Bright House Sports Network
+Bright House Sports Network	callSign	(Bright House cable only)
+KIDY	callSign	KIDY
+WSOT-LP	callSign	WSOT-LP
+KXVA	callSign	KXVA
+KVCT	callSign	KVCT
+WECN	callSign	WECN
+KBBA-LP	callSign	KBBA-LP
+KLRN	callSign	KLRN
+WBUY-TV	callSign	WBUY-TV
+KJST-LP	callSign	KJST-LP
+KSFE-LP	callSign	KSFE-LP
+KETF-CD	callSign	KETF-CD
+KFTA-TV	callSign	KFTA-TV
+KPBI-CA	callSign	KPBI-CA
+KXTF	callSign	KXTF
+KBTV-CA	callSign	KBTV-CA
+CHCT-TV	callSign	CHCT-TV
+KFQX	callSign	KFQX
+KVPA-LD	callSign	KVPA-LD
+KTMO-LP	callSign	KTMO-LP
+KCVH-LD	callSign	KCVH-LD
+KJJM-LD	callSign	KJJM-LD
+KISA-LP	callSign	KISA-LP
+KVAT-LD	callSign	KVAT-LD
+WMOW	callSign	WMOW
+WMOW	callSign	(satellite of WAOW-DT2
+WMOW	callSign	Wausau, Wisconsin)
+WWAZ-TV	callSign	WWAZ-TV
+WWRS-TV	callSign	WWRS-TV
+WCLL-CA	callSign	WCLL-CA
+WDEM-CD	callSign	WDEM-CD
+W48CL	callSign	W48CL
+KDMI	callSign	KDMI
+WEYS-LP	callSign	WEYS-LP
+WJKT	callSign	WJKT
+WCCV-TV	callSign	WCCV-TV
+WUJA	callSign	WUJA
+KBDI-TV	callSign	KBDI-TV
+KDAO-LP	callSign	KDAO-LP
+WDWL	callSign	WDWL
+WIDP	callSign	WIDP
+WVQS-LP	callSign	WVQS-LP
+WRFB	callSign	WRFB
+WYLE	callSign	WYLE (Defunct)
+KORS-CD	callSign	KORS-CD
+TV Setouchi	callSign	JOPH-(D)TV
+WSBS-TV	callSign	WSBS-TV
+WGEN-TV	callSign	WGEN-TV
+WLJC-TV	callSign	WLJC-TV
+WDDN-LP	callSign	WDDN-LP
+WRTN-LP	callSign	WRTN-LP / WRTN-LD
+WVLR	callSign	WVLR
+WYDC	callSign	WYDC
+WTPC-TV	callSign	WTPC-TV
+WVPT	callSign	WVPT / WVPY
+WELF-TV	callSign	WELF-TV
+WXTX	callSign	WXTX
+WMCN-TV	callSign	WMCN-TV
+WIIC-LP	callSign	WIIC-LP
+KTMJ-CA	callSign	KTMJ-CA
+KCFG	callSign	KCFG
+WBIH	callSign	WBIH
+WMCF-TV	callSign	WMCF-TV
+WMPV-TV	callSign	WMPV-TV
+WFGC	callSign	WFGC
+WHBR (TV)	callSign	WHBR
+WRXY-TV	callSign	WRXY-TV
+WJEB-TV	callSign	WJEB-TV
+WTCE-TV	callSign	WTCE-TV
+WBEC-TV	callSign	WBEC-TV
+WPCT	callSign	WPCT
+WBMM	callSign	WBMM
+WOCB-CD	callSign	WOCB-CD / WXCB-CD
+W15BU-D	callSign	W15BU-D
+W29CI	callSign	W29CI
+KSMQ-TV	callSign	KSMQ-TV
+WSSS-LP	callSign	WSSS-LP
+WWTD-LD	callSign	WWTD-LD
+KNJO-LP	callSign	KNJO-LP
+KCAB-LP	callSign	KCAB-LP
+KLCW-TV	callSign	KLCW-TV
+Genesis I	callSign	NORAD #29252 (1)
+W41DO-D	callSign	W41DO-D
+KTAJ-TV	callSign	KTAJ-TV
+K38IZ-D	callSign	K38IZ-D
+KPHE-LP	callSign	KPHE-LD
+KFXO-LP	callSign	KFXO-LP
+W14CU	callSign	W14CU
+K57HX	callSign	K57HX
+KQBN-LP	callSign	KQBN-LP
+KPCE-LP	callSign	KPCE-LP
+WBXJ-CA	callSign	WBXJ-CA
+WDTJ-LP	callSign	WDTJ-LP
+WBEK-CA	callSign	WBEK-CA
+KJPX-LP	callSign	KJPX-LP
+WPEN-LP	callSign	WPEN-LP
+WPEN-LP	callSign	(defunct)
+K18DD	callSign	K18DD / K23FZ
+KUAT-TV	callSign	KUAT-TV / KUAS-TV
+K19FD	callSign	K19FD
+XHEW-TV	callSign	XHEW
+XHEW-TV	callSign	(satellite of XEIPN,
+XHEW-TV	callSign	Mexico City, Mexico)
+XHMTA-TV	callSign	XHMTA
+XHREY-TV	callSign	XHREY
+XHOR-TV	callSign	XHOR
+XHBR-TV	callSign	XHBR
+XHLNA-TV	callSign	XHLNA-TV
+XHLAT-TV	callSign	XHLAT
+XEFE-TV	callSign	XEFE
+XHCAN-TV	callSign	XHCAN
+XHAPT-TV	callSign	XHAPT
+XHCNS-TV	callSign	XHCNS
+KZOU-LP	callSign	KZOU-LP
+KZOU-LP	callSign	(analog repeater of KQFX-LD)
+K21GE	callSign	K21GE
+KCYU-LD	callSign	KCYU-LD
+KCYU-LD	callSign	(satellite of KFFX-TV,
+KCYU-LD	callSign	Pendleton, Oregon)
+XHUNAM-TV	callSign	XHUNAM-TV
+XHUS-TV	callSign	XHUS-TV
+XHMNU-TV	callSign	XHMNU-TV
+News 12 New Jersey	callSign	News 12 New Jersey
+XHX-TV	callSign	XHX
+XHWX-TV	callSign	XHWX
+XHMOY-TV	callSign	XHMOY-TV
+XHFN-TV	callSign	XHFN
+XHCNL-TV	callSign	XHCNL
+XHIT-TV	callSign	XHIT-TV
+XHCH-TV	callSign	XHCH-TV
+XHFI-TV	callSign	XHFI-TV
+XHAUC-TV	callSign	XHAUC-TV
+XHECH-TV	callSign	XHECH-TV
+XHCHZ-TV	callSign	XHCHZ-TV
+K33CG	callSign	K33CG
+K49AY	callSign	K49AY
+XHNOA-TV	callSign	XHNOA-TV
+XHNOS-TV	callSign	XHNOS-TV
+XHFA-TV	callSign	XHFA-TV
+XHNSS-TV	callSign	XHNSS-TV
+XHNON-TV	callSign	XHNON-TV
+K25AL	callSign	K25AL
+K25AL	callSign	(a Class A station)
+KYOU-TV	callSign	KYOU-TV
+W17AY	callSign	W17AY
+W23BZ-D	callSign	W23BZ
+W26AL	callSign	W26AL
+W32AR	callSign	W32AR
+WWRD-LP	callSign	WWRD-LP
+WRCX-LP	callSign	WRCX-LP
+W50CH	callSign	W50CH
+W07BV / W19CI	callSign	W07BV
+KSMS-TV	callSign	KSMS-TV
+KMUV-LP	callSign	KMUV-LP
+WCDN-LD	callSign	WCDN-LP
+WBXV-CA	callSign	WBXV-CA
+XHAW-TV	callSign	XHAW-TV
+XHSAW-TV	callSign	XHSAW-TV
+KTVJ-LP	callSign	KTVJ-LP
+KLHU-CA	callSign	KLHU-CA
+KEFB	callSign	KEFB
+KPIF	callSign	KPIF
+K27EC	callSign	K25HD / K27EC
+K27EC	callSign	(Class A stations)
+WTAM-LD	callSign	WTAM-LD
+KFFV	callSign	KFFV
+KTVH-DT	callSign	KTVH-DT
+Great Belize Television	callSign	Channel 5 (Great Belize Television)
+Tropical Vision Limited	callSign	Channel 7 (Tropical Vision Limited)
+WAZT-CA	callSign	WAZT-CA
+KZSD-LP	callSign	KZSD-LP
+KWTA-LP	callSign	KWTA-LP
+K21CX	callSign	K21CX
+KVSW-LP	callSign	KVSW-LP (Defunct)
+KTBW-TV	callSign	KTBW-TV
+WLLS-LP	callSign	WLLS-LP
+KEET	callSign	KEET
+KMCT-TV	callSign	KMCT-TV
+KTFL	callSign	KTFL
+WKAG-CA	callSign	WKAG-CA
+WQFL-CA	callSign	WQFL-CA
+WSPY-LP	callSign	WSPY-LP
+W23BW	callSign	W23BW
+KBGH	callSign	KBGH
+KZJL	callSign	KZJL
+KTVZ	callSign	KTVZ
+KENW (TV)	callSign	KENW
+KKAP	callSign	KKAP
+WXWZ-LP	callSign	WXWZ-LP
+KCBU	callSign	KCBU
+KUTF	callSign	KUTF
+KTMW	callSign	KTMW
+SBU TV	callSign	SBU TV
+KBTZ	callSign	KBTZ
+KXLF-TV	callSign	KXLF-TV
+KETD	callSign	KETD
+KDOR-TV	callSign	KDOR-TV
+KAZD	callSign	KAZD
+KTEL-LP	callSign	KTEL-LP / KTEL-TV / KRTN-TV
+Ontario Parliament Network	callSign	Ontario Parliament Network
+Ontario Parliament Network	callSign	CJOL-TV
+WLNN-LP	callSign	WLNN-LP / WTBL-LP
+KEYU	callSign	KEYU
+WUHO-LP	callSign	WUHO-LP
+KNPB	callSign	KNPB
+KPAX-TV	callSign	KPAX-TV
+Gibraltar Broadcasting Corporation	callSign	GBC-TV
+Krem Television	callSign	KREM TV
+KRTV	callSign	KRTV
+KEDT	callSign	KEDT
+DZBB-TV	callSign	DZBB-TV (GMA 7)
+DWWX-TV	callSign	DWWX-TV
+DWET-TV	callSign	DWET-TV (TV5)
+Tri-Valley Community Television	callSign	TV30 (Cable)
+DZKB-TV	callSign	DZKB-TV (ETC9)
+DZTV-TV	callSign	DZTV-TV
+DZOE-TV	callSign	DZOE-TV (GMA News TV)
+DWGT-TV	callSign	DWGT-TV (NBN-4)
+KOCM	callSign	KOCM
+K02NQ	callSign	K02NQ
+XHILA-TV	callSign	XHILA-TV
+KFBB-TV	callSign	KFBB-TV
+KRSC-TV	callSign	KRSC-TV
+KWBU-TV	callSign	KWBU-TV
+KCTF-LP	callSign	KCTF-LP
+CHEX-TV-2	callSign	CHEX-TV-2
+K26GS-D	callSign	K26GS-D
+KTBO-TV	callSign	KTBO-TV
+KTMF	callSign	KTMF
+KHCE-TV	callSign	KHCE-TV
+KLDO-TV	callSign	KLDO-TV
+KITU-TV	callSign	KITU-TV
+KLUJ-TV	callSign	KLUJ-TV
+KPBT-TV	callSign	KPBT-TV
+KRPV-DT	callSign	KRPV-DT
+KBEO	callSign	KBEO
+KWYB	callSign	KWYB
+KPTB-DT	callSign	KPTB-DT
+KVAW	callSign	KVAW
+KMBH (TV)	callSign	KMBH
+KNVO (TV)	callSign	KNVO
+KUPB	callSign	KUPB
+KTLM	callSign	KTLM
+KTGF	callSign	KTGF
+KMTF	callSign	KMTF
+KFTL-CD	callSign	KFTL-CA
+KMMF	callSign	KMMF
+KNCT (TV)	callSign	KNCT
+KORO	callSign	KORO-TV
+KPTF-DT	callSign	KPTF-DT
+KTAQ	callSign	KTAQ
+KYVV-TV	callSign	KYVV-TV
+KLMN	callSign	KLMN
+KTAS	callSign	KTAS
+KATH-LP	callSign	KATH-LP / KSCT-LP
+DWBP-TV	callSign	DWBP-TV (SMNI TV 39)
+KVFW-LP	callSign	KVFW-LP
+DWKC-TV	callSign	DWKC-TV
+KRFT-LP	callSign	KRFT
+WZGS-CA	callSign	WZGS-CA
+WWDT-CA	callSign	WWDT-CA
+WTNC-LD	callSign	WTNC-LD
+WHFL-LP	callSign	WHFL-LP
+WJJY-TV	callSign	WJJY-TV
+DWCP-TV	callSign	DWCP-TV (Talk TV 21)
+KFDF-CA	callSign	KFDF-CA
+WJMF-LP	callSign	WJMF-LP
+WJMF-LP	callSign	(satellite of KUOK,
+WJMF-LP	callSign	Oklahoma City, Oklahoma)
+W25CS	callSign	WVAD-LP (Class-A Station)
+K25FW	callSign	K25FW
+WMYG-LP	callSign	WMYG-LP
+K36DU	callSign	K36DU
+K36DU	callSign	(a Class A station)
+DZCE-TV	callSign	DZCE-TV (GEMNET)
+DWXI-TV	callSign	DWXI-TV
+WPBM-LP	callSign	WPBM-DC
+WPBM-LP	callSign	(a digital Class-A station)
+DWDZ-TV	callSign	DWDZ-TV
+KLHO-LP	callSign	KLHO-LP
+KLHO-LP	callSign	(a Class A station)
+KUOT-CA	callSign	KUOT-CA
+KWEM-LP	callSign	KWEM-LP
+KXOK-LP	callSign	KXOK-LP, KXOK-LD
+KTEW-CA	callSign	KTEW-CA
+KTOU-LP	callSign	KTOU-LP
+KTKO-LP	callSign	KTKO-LP
+KOHD	callSign	KOHD
+K43FO	callSign	K43FO
+K43FO	callSign	(a Class A station)
+KHDF-CA	callSign	KHDF-CA
+KUJH-LP	callSign	KUJH-LP
+KEEN-CA	callSign	KEEN-CA
+KEEN-CA	callSign	a Class A station
+KRNS-CA	callSign	KRNS-CA
+KCVB-CA	callSign	KCVB-CA
+KQDF-LP	callSign	KQDF-LP
+KLEG-LP	callSign	KLEG-LP
+K47DR	callSign	K47DR
+KTVX	callSign	KTVX
+DYXX-TV	callSign	DYXX-TV
+KRDN-LP	callSign	KRDN-LP
+KSVN-CA	callSign	KSVN-CA
+KIWB-LP	callSign	KIWB-LP
+KPTN-LD	callSign	KPTN-LD
+DYJB-TV	callSign	DYJB-TV
+DYDY-TV	callSign	DYDY-TV (NBN-2)
+DYMK-TV	callSign	DYMK-TV (GMA News TV)
+DYRI-TV	callSign	DYRI-TV
+DYAQ-TV	callSign	DYAQ-TV
+DYAJ-TV	callSign	DYAJ-TV
+DYNY-TV	callSign	DYNY-TV
+DYRJ-TV	callSign	DYRJ-TV
+KOTR-LP	callSign	KOTR-LP
+WJKP-LD	callSign	WJKP-LD
+Ithaca College Television	callSign	ICTV
+XEIMT-TV	callSign	XEIMT-TV
+KVPX-LP	callSign	KVPX-LP
+KPVT-LP	callSign	KPVT-LP
+KVTE-LP	callSign	KVTE-LP
+K41IO	callSign	K41IO
+KGNG-LP	callSign	KGNG-LP/-LD
+KLSV-LP	callSign	KLSV-LD
+KHMP-LD	callSign	KHMP-LD
+KPVM-LP	callSign	KPVM-LP
+WSUN-TV	callSign	WSUN-TV
+KXMN-LP	callSign	KXMN-LP
+WMYT-TV	callSign	WMYT-TV
+K12OZ	callSign	K12OZ
+K12OZ	callSign	(a Class A station)
+KEJT-LP	callSign	KEJT-LP/KULX-CA
+KEJT-LP	callSign	Class A stations
+KUTA-LD	callSign	KUTA-LD
+K07UF	callSign	K07UF
+K07UF	callSign	(A Class A station)
+KZBZ-LP	callSign	KZBZ-LP
+K08MM	callSign	K08MM
+K08MM	callSign	(a Class A station)
+WFXQ-CD	callSign	WFXQ-CD
+WFXQ-CD	callSign	(repeater of WWLP)
+KKRR-LP	callSign	KKRR-LP
+WJPW-CA	callSign	WJPW-CA
+WJPW-CA	callSign	(satellite of WBGN-LP,
+WJPW-CA	callSign	Pittsburgh, Pennsylvania)
+WWVW-LP	callSign	WWVW-LP
+XHTVM-TV	callSign	XHTVM-TV
+Priroda	callSign	Mir
+K58GC	callSign	K58GC
+Chiba Television Broadcasting	callSign	JOCL-(D)TV
+DWAC-TV	callSign	DWAC-TV (Studio 23 - Manila)
+K28JB	callSign	K28JB
+KGPT-CA	callSign	KGPT-CA
+KSMI-LP	callSign	KSMI-LP
+WGBS-LD	callSign	WGBS-LD
+K31GL-D	callSign	K31GL-D
+WJKO-LP	callSign	WJKO-LP
+W07BN	callSign	W07BN-D
+WFYW-LP	callSign	WFYW-LP
+WLLB-LP	callSign	WLLB-LP
+KCND-TV	callSign	KCND-TV
+WUVF-LP	callSign	WUVF-LP
+WWJX	callSign	WWJX
+WLOT-LP	callSign	WLOT-LP
+WLOT-LP	callSign	(defunct)
+KVQT-LD	callSign	KVQT-LD
+WLLZ-LP	callSign	WLLZ-LP
+DWVN-TV	callSign	DWVN-TV
+WTLE-LP	callSign	WTLE-LP
+WWXY-LP	callSign	WWXY-LP
+KYAV-LP	callSign	KYAV-LP
+KVFA-LP	callSign	KVFA-LP
+KXLK-CA	callSign	KXLK-CA
+K34HO-D	callSign	K34HO-D
+KUVM-CD	callSign	KUVM-CD
+KHLM-LD	callSign	KHLM-LD
+KNWS-LP	callSign	KNWS-LP
+WMBF-TV	callSign	WMBF-TV
+KTFB-CA	callSign	KTFB-CA / KBTF-CD
+KDTF-LP	callSign	KDTF-LP
+KTSB-LP	callSign	KTSB-LP
+KTSB-LP	callSign	(A Class A station)
+K55KD	callSign	K55KD
+K55KD	callSign	(a Class-A station)
+PEISH TV	callSign	PEISH TV
+W51AG	callSign	W51AG
+W36CK	callSign	W36CK
+KSBT-LP	callSign	KSBT-LP
+WHVL-LP	callSign	WHVL-LP/-LD
+WYSJ-CA	callSign	WYSJ-CA
+WTOP-TV (SUNY Oswego)	callSign	WTOP
+K24GP	callSign	K24GP
+K45HW	callSign	K45HW
+K51JF	callSign	K51JF
+K54JS	callSign	K54JS
+K64GK	callSign	K64GK
+K69IT	callSign	K69IT
+KGBS-CA	callSign	KGBS-CA
+WBWT-LP	callSign	WBWT-LP
+W30BX	callSign	W30BX
+West Central Ohio CW	callSign	West Central Ohio CW
+K61GH	callSign	K61GH
+KNIC-CA	callSign	KNIC-CA
+KANG-CA	callSign	KANG-CA
+DWNQ-TV	callSign	DWNQ-TV
+DZGB-TV	callSign	DZGB-TV 5
+K35DG	callSign	K35DG
+K35DG	callSign	(a Class-A station)
+W25CP	callSign	W25CP
+Union Broadcasting System	callSign	UBS
+W26BS	callSign	W26BS
+KVDF-CA	callSign	KVDF-CA
+KQVE-LP	callSign	KQVE-LP
+K45IO-D	callSign	K45IO-D
+K44FK	callSign	K44FK
+K17ET	callSign	K17ET
+K42HI	callSign	K42HI
+K61HD	callSign	K61HD
+K56HW	callSign	K56HW
+K58CM	callSign	K58CM
+KGLR-LP	callSign	KGLR-LP
+KXPI-LD	callSign	KXPI-LD
+Television Kanagawa	callSign	TV Kanagawa
+Television Kanagawa	callSign	JOKM-(D)TV
+WSVT-CA	callSign	WSVT-CA
+K33HZ	callSign	K33HZ
+KAJN-LP	callSign	KAJN-LP
+KAJN-LP	callSign	(A Class A station)
+KADT-LP	callSign	KADT-LP
+K14KH	callSign	K14KH
+K14KH	callSign	(A Class A Station)
+WVBK-CA	callSign	WVBK-CA
+KCDN-LP	callSign	KCDN-LP
+WBLN (WB 100+)	callSign	WBLN
+KEUS-LP	callSign	KEUS-LP
+WAKN-LP	callSign	WAKN-LP
+KGJT-LP	callSign	KGJT-LP
+KBNS-LD	callSign	KBNS-CD
+KSEX-CA	callSign	KSEX-CA
+KCHD-CA	callSign	KCHD-CA
+K17FA-D	callSign	K17FA-D
+KMOL-LP	callSign	KMOL-LP
+KUNU-LP	callSign	KUNU-LP
+KVTX-LP	callSign	KVTX-LP
+K43DV	callSign	K43DV
+KCLG-CA	callSign	KCLG-CA
+KCLJ-CA	callSign	KCLJ-CA
+KCLP-CA	callSign	KCLP-CA
+K14LM	callSign	K14LM
+K14LM	callSign	(A Class A station)
+K16EL	callSign	K16EL
+K16EL	callSign	(A Class A station)
+K17ED	callSign	K17ED
+K17ED	callSign	(A Class A station)
+K30DJ	callSign	K30DJ
+K30DJ	callSign	(A Class A station)
+DWBC-TV	callSign	DWBC-TV
+K21DO	callSign	K21DO
+K21DO	callSign	(A Class A station)
+K22BI	callSign	K22BI
+K22BI	callSign	(A Class A station)
+K31FD	callSign	K31FD
+K31FD	callSign	(A Class A station)
+K33EJ	callSign	K33EJ
+K33EJ	callSign	(A Class A station)
+KWOG	callSign	KWOG
+K27EU	callSign	K27EU
+K27EU	callSign	(Class A station)
+K49FC	callSign	K49FC
+K49FC	callSign	(A Class A station)
+K54GK	callSign	K54GK
+K54GK	callSign	(A Class A station)
+K48BL	callSign	K48BL
+K48BL	callSign	(A Class A station)
+DWBM-TV	callSign	DWBM-TV
+KAXT-CA	callSign	KAXT-CA / KAXT-LD
+DWNB-TV	callSign	DWNB-TV (AksyonTV)
+KSBO-CA	callSign	KSBO-CA
+W40CN-D	callSign	W40CN-D
+K06MB	callSign	K06MB
+KCRP-CA	callSign	KCRP-CA
+WFXZ-CD	callSign	WFXZ-CD
+K45IE	callSign	K45IE
+KQDK-CA	callSign	KQDK-CA
+KRET-CA	callSign	KRET-CA
+KEZT-CA	callSign	KEZT-CA
+KHMM-CA	callSign	KHMM-CA
+KSKJ-CA	callSign	KSKJ-CA / KSKP-CA
+WCHU-LP	callSign	WCHU-LP
+WLFM-LP	callSign	WLFM-LP
+KPAL-LP	callSign	KPAL-LP
+KPAL-LP	callSign	(A Class A station)
+WAGA-TV	callSign	WAGA-TV
+KUTU-CA	callSign	KUTU-CA
+KLAU-LP	callSign	KLAU-LP
+KTLE-LP	callSign	KTLE-LP / KTLD-LP
+KJCN-LP	callSign	KJCN-LP
+KDJT-CA	callSign	KDJT-CA
+KSKT-CA	callSign	KSKT-CA
+KFRE-CA	callSign	KFRE-CA
+KUCL-LD	callSign	KUCL-LD
+WCAN-TV	callSign	WCAN-TV
+KRBK	callSign	KRBK
+KGHB-CA	callSign	KGHB-CA
+CIMC-TV	callSign	CIMC-TV
+CHMG-TV	callSign	CHMG-TV
+CHVC-TV	callSign	CHVC-TV
+CHET-TV	callSign	CHET-TV
+NAC TV	callSign	CH5248
+Michigan Channel	callSign	Michigan Channel
+KLPS-LP	callSign	KLPS-LP
+Marquette University Television	callSign	MUTV
+KIDZ-LP	callSign	KIDZ-LP
+KIDZ-LP	callSign	(a Class A station)
+TV3 Winchester	callSign	TV3 Winchester
+KTVS-LD	callSign	KTVS-LD
+Hiroshima Home Television	callSign	JOGM-TV
+Hiroshima Telecasting	callSign	JONX-TV
+ABN (TV station)	callSign	ABN
+ABC (TV station)	callSign	ABC
+ABD (TV station)	callSign	ABD
+ABT (TV station)	callSign	ABT
+ABQ	callSign	ABQ
+ABS (TV station)	callSign	ABS
+ABV (TV station)	callSign	ABV
+MCTV 26	callSign	MCTV 26
+WUPT-CA	callSign	WUPT-CA
+K36DB	callSign	K36DB
+K36DB	callSign	(A Class A station)
+DXMJ-TV	callSign	DXMJ-TV
+WGUD-LP	callSign	WGUD-LP
+W47CG	callSign	W47CG
+WKNI-LP	callSign	WKNI-LP
+KJCP-LP	callSign	KJCP-LP
+K34HI	callSign	K34HI
+K11UU-D	callSign	K11UU-D
+W23BC	callSign	W23BC
+KNIC-DT	callSign	KNIC-DT
+DXAS-TV	callSign	DXAS-TV (ABS-CBN TV 4 Davao)
+KVVV-TV	callSign	KVVV-TV
+DXNP-TV	callSign	DXNP-TV (NBN-11)
+KUSE-LD	callSign	KUSE-LD
+CFLA-TV	callSign	CFLA-TV
+CFLA-TV	callSign	(satellite of CBNT,
+CFLA-TV	callSign	St. John's, Newfoundland and Labrador)
+K25DS	callSign	K25DS
+K31BW	callSign	K31BW
+K39FW	callSign	K39FW
+K43HN	callSign	K43HN
+K50JG	callSign	K50JG
+K15CN	callSign	K15CN
+WLUF-LP	callSign	WLUF-LP
+WNCR-LP	callSign	WNCR-LP
+KNIK-LP	callSign	KNIK-LP/-LD
+KLMV-LP	callSign	KLMV-LP
+KNEX-LP	callSign	KNEX-LP
+XHNAT-TV	callSign	XHNAT
+KXOF-CA	callSign	KXOF-CA
+K21GX	callSign	K21GX
+KDFQ-LP	callSign	KDFQ-LP
+WTMS-CA	callSign	WTMS-CA
+Liberty Channel: WTLU-CA	callSign	Liberty Channel: WTLU-CA
+KKSU-LP	callSign	KKSU-LP
+K41OI	callSign	K41OI
+K56AU	callSign	K56AU
+W16AL	callSign	W16AL
+KORK-LD	callSign	KORK-LD
+KOXO-CA	callSign	KOXO-LD
+KUMY-LP	callSign	KUMY-LP
+KOXI-CA	callSign	KOXI-LD
+KXOR-LP	callSign	KXOR-LP
+KORY-CA	callSign	KORY-CA
+K59DJ	callSign	K38JK-D
+KCWT	callSign	KCWT-TV
+K49FV	callSign	K49FV
+K33AO	callSign	K33AO
+K39EF	callSign	K39EF
+K41IX	callSign	K41IX
+W38DH	callSign	W38DH
+KDTL-LP	callSign	KDTL-LP
+K33AG	callSign	K33AG
+KMBA-LP	callSign	KMBA-LP
+KRHP-LD	callSign	KRHP-LD
+KRHP-LD	callSign	(a Class-A Digital station)
+KNEE-LP	callSign	KNEE-LP
+K34EM	callSign	K34EM
+KWCC-LP	callSign	KWCC-LP
+K43GZ	callSign	K43GZ
+KHBA-LP	callSign	KHBA-LD
+K32GS	callSign	K32GS
+KTYJ-LP	callSign	KTYJ-LP
+KIDQ-LP	callSign	KIDQ-27 Mediaport
+KOHC-CD	callSign	KOHC-CD
+K25FP	callSign	K25FP
+K39DM	callSign	K39DM
+KRLB-LP	callSign	KRLB-LP
+DXAQ-TV	callSign	DXAQ-TV
+CFVO-TV	callSign	CFVO-TV
+CFVO-TV	callSign	(defunct)
+Carolina Week	callSign	Carolina Week
+Ashur TV	callSign	Ashur TV
+Access (TV channel)	callSign	CJAL-TV / CIAN-TV
+KTFD-DT	callSign	KTFD-DT
+KWCE-LP	callSign	KWCE-LP
+KTPN-LP	callSign	KLPN-LP / KTPN-LP
+WCGtv	callSign	WCGtv
+DYSS-TV	callSign	DYSS-TV
+KSPJ-LP	callSign	KSPJ-LP
+KVVV-LD	callSign	KVVV-LD
+KMCE-LP	callSign	KMCE-LP
+WHCQ-LP	callSign	WHCQ-LP
+WKFK-LD	callSign	WKFK-LD
+KZCO-LP	callSign	KZCO-LP
+Genesis II	callSign	NORAD #31789 (1)
+Soyuz TMA-13	callSign	Titan
+DZOZ-TV	callSign	DZOZ-TV (Light TV 33)
+RBTI	callSign	RBTI
+KZSW-LP	callSign	KZSW-LP
+SinoVision	callSign	WMBC-TV
+DXLM-TV	callSign	ABS-CBN TV Pagadian
+DXLL-TV	callSign	DXLL-TV
+The HAM Channel	callSign	The HAM Channel
+BPS-TV	callSign	BPS-TV
+KSCZ-LP	callSign	KSCZ-LP
+WRLP-TV	callSign	WRLP-TV
+WJZB-TV	callSign	WJZB-TV
+VTV (TV station)	callSign	VTV
+WSCP-CA	callSign	WSCP-CA
+WXNY-LD	callSign	WXNY-LD
+WNXY-LD	callSign	WNXY-LD
+WNYX-LP	callSign	WNYX-LD
+KVTF-CA	callSign	KVTF-CA
+WCSN-LD	callSign	WCSN-LD
+DXET-TV	callSign	DXET-TV
+XHHE-TV	callSign	XHHE
+XHPNG-TV	callSign	XHPNG
+KADY-LP	callSign	KADY-LP
+KRRI-LP	callSign	KRRI-LP
+QQQ	callSign	ITQ / QQQ
+WRBD-LP	callSign	WRBD-LP
+WGTB-LP	callSign	WGTB-LP
+KSDX-LP	callSign	KSDX-LP
+KQRE-LP	callSign	KQRE-LP
+WCOT (Tallahassee)	callSign	WCOT-TV
+Jake Stevens	callSign	Whistle
+CHAB-TV	callSign	CHAB-TV
+CHAB-TV	callSign	(defunct)
+CBNLT	callSign	CBNLT
+CBNLT	callSign	(satellite of CBNT,
+CBNLT	callSign	St. John's, Newfoundland and Labrador)
+WQAW-LP	callSign	WQAW-LP
+W43CE	callSign	W43CE
+KKIC-LP	callSign	KKIC-LP
+KGLA-DT	callSign	KGLA-DT
+KNVV-LP	callSign	KNVV-LP
+WPVS-LP	callSign	WPVS-LP
+KCXP-LP	callSign	KCXP-LP TV Aspen
+WPAN	callSign	WPAN
+KOBR	callSign	KOBR
+KOBR	callSign	(satellite of KOB,
+KOBR	callSign	Albuquerque, New Mexico)
+WGHP	callSign	WGHP
+UCentral	callSign	UCentral
+WVTV (Villanova)	callSign	VTV
+WJCN-CA	callSign	WJCN-CA
+TVes	callSign	TVes
+XHTRES-TV	callSign	XHTRES-TV
+Milwaukee Public Television	callSign	WMVS and WMVT
+WTNO-LP	callSign	WTNO-LP
+W21AU	callSign	W21AU
+DXWW-TV	callSign	DXWW-TV (ETC)
+WJXF-LP	callSign	WJXF-LP
+KXPX-CA	callSign	KXPX-CA
+WMDF-LP	callSign	WMDF-LP
+Kosmos 1686	callSign	Salyut 7
+Soyuz TMA-14	callSign	( \u2212 Altair)
+DXXX-TV	callSign	DXXX-TV (ETC)
+K49FF	callSign	K49FF
+K17HG	callSign	K17HG
+K35KD	callSign	K35KD
+XHMNL-TV	callSign	XHMNL-TV
+DWAI-TV	callSign	DWAI-TV
+TNQ	callSign	TNQ
+K46DY	callSign	K46DY
+K28EP	callSign	K28EP
+K21GQ	callSign	K21GQ
+K40DE	callSign	K40DE
+XHGA-TV	callSign	XHGA-TV
+XEWO-TV	callSign	XEWO-TV
+XHSFJ-TV	callSign	XHSFJ
+XHJAL-TV	callSign	XHJAL
+CJCO-TV	callSign	CJCO-TV
+CKCS-TV	callSign	CKCS-TV
+CKES-TV	callSign	CKES-TV
+CJEO-TV	callSign	CJEO-TV
+KRHT-LP	callSign	KRHT-LP
+WHSV-DT4	callSign	My Valley
+WHSV-DT2	callSign	The Valley's FOX
+WMDT-DT2	callSign	WMDT-DT2
+W67DP	callSign	W67DP
+KSPK-LP	callSign	KSPK-LP
+KXPD-LP	callSign	KXPD-LP
+KW40FW	callSign	K40FW
+Douglas Campbell (Michigan politician)	callSign	WD9DLW (inactive)
+WRHS  -TV  1	callSign	WRHS-TV
+KMHB	callSign	KMHB
+Skylab B	callSign	Skylab B, International Skylab, Advanced Skylab
+K49EK	callSign	K49EK
+Sun Devil Television	callSign	SPTV
+KWBJ-CD	callSign	KWBJ-CD
+KWBJ-CD	callSign	(a Digital Class-A Station)
+KDNB-LD	callSign	KDNB-LD
+WPXO-LD	callSign	WPXO-LD
+KIMG-LP	callSign	KIMG-LP
+K67HQ	callSign	K67HQ
+KWSM-LP	callSign	KWSM-LP
+KKDJ-LP	callSign	KKDJ-LP
+KHHB-LP	callSign	KHHB-LP
+KZKC-LP	callSign	KZKC-LP
+KESU-LP	callSign	KESU-LP
+W18BT	callSign	W18BT
+Soyuz TMA-15	callSign	\u0422\u0430\u0439\u043C\u044B\u0440 (Taymyr) or
+Soyuz TMA-15	callSign	\u041F\u0430\u0440\u0443\u0441 (Parus, meaning Sail)
+KJKZ-LP	callSign	KJKZ-LP
+KSXC-LP	callSign	KSXC-LP
+KCSB-TV	callSign	KCSB
+KCSB-TV	callSign	Public-access television cable TV channel
+MGS/LRS	callSign	MGS / LRS
+NEN (TV station)	callSign	NEN
+WOW (TV station)	callSign	WOW
+CTC (TV station)	callSign	CTC
+W20BA	callSign	W20BA
+KRTO (Rialto)	callSign	KRTO
+KRTO (Rialto)	callSign	public access channel
+KNOV-CD	callSign	KNOV-CD
+Michael Meeks (software developer)	callSign	mmeeks
+KYMB-LD	callSign	KYMB-LD
+WPAG-TV	callSign	WPAG-TV
+WJMY (TV)	callSign	WJMY
+CFKL-TV	callSign	CFKL-TV
+CFKL-TV	callSign	(defunct)
+Notre Dame Television	callSign	NDtv
+PTV (TV station)	callSign	PTV
+STV (TV station)	callSign	STV
+WIN (TV station)	callSign	WIN
+KSSY-LP	callSign	KSSY-LP
+KCCE-LP	callSign	KCCE-LP
+KBJR-DT2	callSign	KBJR-DT2
+KEDD-LP  KEDD-LP  1	callSign	KEDD-LP
+WCPX-LP	callSign	WCPX-LP
+K39GY	callSign	K39GY
+K39GY	callSign	Translator of KHIZ-DT 44
+K39GY	callSign	Barstow, California
+K06MU	callSign	K06MU
+KFLA-LD	callSign	KFLA-LD
+TVCogeco (Kingston, Ontario)	callSign	TVCogeco
+TVCogeco (North Bay, Ontario)	callSign	TVCogeco
+KOIW-LP	callSign	KOIW-LP
+KJIB-LP	callSign	KJIB-LP
+KBLM-LP	callSign	KBLM-LP
+KWJD-LP	callSign	KWJD-LP
+KLFB-LP	callSign	KLFB-LP
+WSQY-LP	callSign	WSQY-LP
+WKNA-TV	callSign	WKNA-TV
+WBAU (WB 100+)	callSign	WBAU
+WBAU (WB 100+)	callSign	(cable only)
+WZTD-LP	callSign	WZTD-LP
+KHRT-TV	callSign	KHRT
+WAGM-DT1	callSign	WAGM-DT1
+WVVQ-LP	callSign	WVVQ-LP
+Alaska Rural Communications Service	callSign	Alaska Rural
+Alaska Rural Communications Service	callSign	Communications Service (ARCS)
+KKTF-LP	callSign	KKTF-LP
+K45AR	callSign	K45AR
+WICA-TV	callSign	WICA-TV
+WWDD-LP	callSign	WWDD-LP
+WBQM-LD	callSign	WBQM-LP
+KFON (Fontana)	callSign	KFON
+KFON (Fontana)	callSign	public access channel
+KTSS-LP	callSign	KTSS-LP
+K42FE	callSign	K42FE
+KRTN-LD	callSign	KRTN-LD
+K10OI	callSign	K10OI
+WYAM-LP	callSign	WYAM-LP
+WFFF-DT2	callSign	WFFF-DT2
+K20HZ	callSign	K20HZ
+KMST (Monterey)	callSign	KMST
+Fukui Television Broadcasting	callSign	JOFI-(D)TV
+HOM-TV 21	callSign	HOM-TV 21
+K06OL	callSign	K06OL
+WVUE (Delaware)	callSign	WVUE
+WBOC-DT2	callSign	WBOC-DT2
+KVSN-DT	callSign	KVSN
+CHAK-TV	callSign	CHAK-TV
+CFTS-TV	callSign	CFTS-TV
+CIHC-TV	callSign	CIHC-TV
+CIRE-TV	callSign	CIRE-TV
+WFMA-LP	callSign	WFMA-LP
+Seminole Government Television	callSign	Seminole Government Television
+Seminole Government Television	callSign	(SGTV)
+WQXT-CA	callSign	WQXT-CA
+WFTV (Duluth)	callSign	WFTV
+KDUL-LP	callSign	KDUL-LP
+KUQI	callSign	KUQI
+Chicago Access Network Television	callSign	Chicago Access Network Television
+WCCA-TV	callSign	WCCA-TV
+WCCA-TV	callSign	(cable only)
+DYIC-TV	callSign	DYIC-TV (CMN-48)
+WYCN-LP	callSign	WYCN-LP
+KZFW-LP	callSign	KZFW-LP
+KCWV	callSign	KCWV
+Syrian Television	callSign	Syrian Television
+KXLJ-LD	callSign	KXLJ-LD
+Metro 3	callSign	Metro 3
+Hartford Public Access Television	callSign	Hartford Public Access Television
+KTUW	callSign	KTUW
+Soyuz TMA-17	callSign	Pulsar
+KNMD-TV	callSign	KNMD-TV
+KFMD-LP	callSign	KFMD-LP
+KPOL (TV)	callSign	KPOL
+KLEP	callSign	KLEP
+KIVA (TV)	callSign	KIVA (Defunct)
+WMEU-CA	callSign	WMEU-CA
+WBGP (The CW Plus)	callSign	WBGP
+KXUN-LP	callSign	KXUN-LP
+Lewis University Television Network	callSign	Lewis University
+Lewis University Television Network	callSign	Television Network
+MVTV 3	callSign	MVTV
+MVTV 3	callSign	Public-access television channel
+K36JH	callSign	K36JH
+DXEC-TV	callSign	DXEC-TV
+TV Itapoan	callSign	TV Itapoan
+KDCU-DT	callSign	KDCU-DT
+WUVI-LP	callSign	WUVI-LP
+TV Record Rio de Janeiro	callSign	TV Record Rio de Janeiro
+KPMT-LP	callSign	KPMT-LP
+CHNE-TV	callSign	CHNE-TV
+WGGB-DT2	callSign	WGGB-DT2
+WKLO-TV	callSign	WKLO-TV
+WOHZ-CA	callSign	WOHZ-CA
+KBZO-LP	callSign	KBZO-LP
+XHWT-TV	callSign	XHWT-TV
+XHND-TV	callSign	XHND-TV
+Shaw TV Sault Ste. Marie	callSign	Shaw TV
+WWCG-LP	callSign	WWCG-LP
+DWTE-TV	callSign	DWTE-TV
+KAMM-LP	callSign	KAMM-LP
+KAMT-LP	callSign	KAMT-LP
+WCJB-DT2	callSign	WCJB-DT2
+KTXD-LP	callSign	KTXD-LP
+OC Channel	callSign	OC Channel
+KBSE-LP	callSign	KBSE-LP
+KBTI-LP	callSign	KBTI-LP
+KCBB-LP	callSign	KCBB-LP
+KYUU-LP	callSign	KYUU-LP
+KUWF-LP	callSign	KUWF-LP
+KSCM-LP	callSign	KSCM-LP
+KBAX-LP	callSign	KBAX-LP
+KVFD-TV	callSign	KVFD
+K11UJ	callSign	K11UJ
+KFIZ-TV	callSign	KFIZ-TV
+K34FI	callSign	K34Fl-LD
+WBPI-CA	callSign	WBPI-CA
+K45EB	callSign	K45EB
+WTRF-DT2	callSign	WTRF-DT2
+KJCX-LP	callSign	KJCX-LP
+KJCX-LP	callSign	KHJT-LP
+WGBI-LP	callSign	WGBI-LP
+W08CK	callSign	W08CK
+WNEM-DT2	callSign	WNEM-DT2
+KRET-TV	callSign	KRET-TV
+KKCP-LP	callSign	KKCP-LP
+KFMP-LP	callSign	KFMP-LP
+K44HH	callSign	K44HH
+K38HP	callSign	K38HP
+K48GB	callSign	K48GB
+KJTV-CA	callSign	KJTV-CA
+KTFA-LP	callSign	KTFA-LP
+DZRH-TV	callSign	DZRH-TV
+WTPH-LP	callSign	WTPH-LP
+XHGO-TV	callSign	XHGO
+XHSZT	callSign	XHSZT
+XHSFT	callSign	XHSFT
+XHLUT	callSign	XHLUT
+XHTK	callSign	XHTK
+XHMBT	callSign	XHMBT
+XHCMU	callSign	XHCMU
+XHUT	callSign	XHUT
+XHD-TV	callSign	XHD
+XHCVI	callSign	XHCVI
+XHFW-TV	callSign	XHFW
+XHTAU	callSign	XHTAU
+XHBY	callSign	XHBY
+XHFET	callSign	XHLNA
+XHHP	callSign	XHHP
+XHTPZ-TV	callSign	XHTPZ-TV
+XHTAO	callSign	XHTAO
+XHVTU	callSign	XHVTU
+XHCDT	callSign	XHCDT
+XHCVT	callSign	XHCVT
+XHRBT-TV	callSign	XHRBT-TV
+KTXW	callSign	KTXW
+KDEV-LP	callSign	KDEV-LP
+WXXW-LP	callSign	WXXW-LP
+WRHS-TV	callSign	WRHS-TV
+Channel 5 – Rosario	callSign	LT84
+Channel 7 – Mendoza	callSign	LV89
+KDUO-LP	callSign	KDUO-LP
+Oswego County Public Access 96	callSign	Oswego County Public Access (Oswego)
+Oswego County Public Access 96	callSign	(Time Warner Cable only)
+KTES-LP	callSign	KTES-LP
+WCYB-DT2	callSign	WCYB-DT2
+KAMU-TV	callSign	KAMU-TV
+WTRF-DT3	callSign	WTRF-DT3
+WARZ-LP	callSign	WARZ-LP
+WARZ-LP	callSign	(a Class-A station)
+Channel 10 – Río Negro	callSign	LU92
+Channel 9 – La Rioja	callSign	Unknown
+KIVY-LP	callSign	KIVY-LP
+KHTM-LP	callSign	KHTM-LP
+KLUF-LP	callSign	KLUF-LP
+KLGV-LP	callSign	KLGV-LP
+KIBN-LP	callSign	KIBN-LP
+W45BM	callSign	W45BM
+Soyuz TMA-01M	callSign	(\
+WVNS-DT2	callSign	WVNS-DT2
+WYTV-DT2	callSign	WYTV-DT2
+DYCC-TV	callSign	DYCC-TV
+KSNL-LD	callSign	KSNL-LD
+KSNL-LD	callSign	(Low Power Digital Satellite of KSNW, Wichita, Kansas)
+Channel 10 – Córdoba	callSign	Unknown call sign
+WBOY-DT2	callSign	WBOY-DT2
+Soyuz TMA-18	callSign	\u0443\u0442\u0435\u0441 (\
+WNBW-DT	callSign	WNBW-DT
+KCDO-TV	callSign	KCDO-TV
+W26CD	callSign	W26CD
+KZSA-LP	callSign	KZSA-LP
+Soyuz TMA-19	callSign	Olympus
+WWPS-LP	callSign	WWPS-LP
+Soyuz TMA-20	callSign	\u0412\u0430\u0440\u044F\u0433 (\
+KUBX-LP	callSign	KUBX-LP
+KXTQ-CA	callSign	KXTQ-CA
+WTAP-DT2	callSign	WTAP-DT2
+WDPM-DT	callSign	WDPM-DT
+XHOAH-TV	callSign	XHOAH
+XHSCE-TV	callSign	XHSCE
+XHGPD-TV	callSign	XHGPD
+Channel 3 – Rosario	callSign	LT83
+W49CB	callSign	W49CB
+W30BU	callSign	W30BU
+XHEBC-TV	callSign	XHEBC
+Televisión Mexiquense  XHPTP-TV  1	callSign	XHPTP-TV
+XEDK-TV	callSign	XEWO-TV
+XHAMC-TV	callSign	XHAMC
+XHPNT-TV	callSign	XHPNT
+XHPNH-TV	callSign	XHPNH
+XHCHW-TV	callSign	XHCHW
+WJOS-LP	callSign	WJOS-LP
+XHLPT-TV	callSign	XHLPT
+XHGWT-TV	callSign	XHGWT
+XHEFT-TV	callSign	XHEFT
+XHCCH-TV	callSign	XHCCH
+XHAE-TV	callSign	XHAE
+XHPUR-TV	callSign	XHPUR
+XHGZP-TV	callSign	XHGZP
+Medina Cable Access	callSign	Medina Cable Access
+Emissoras Pioneiras de Televisão	callSign	EPTV
+Rede Internacional de Televisão	callSign	RIT
+K26EW	callSign	K26EW
+K42EO	callSign	K42EO
+XHCJ-TV	callSign	XHCJ
+XHPFC-TV	callSign	XHHC-TV
+XHHC-TV	callSign	XHHC-TV
+XHDG-TV	callSign	XHDG-TV
+XHGDP-TV	callSign	XHGDP
+XHMLA-TV	callSign	XHMLA
+XHPFE-TV	callSign	XHPFE
+XHOXX-TV	callSign	XHOXX-TV
+XHSBC-TV	callSign	XHSBC
+XHQUE-TV	callSign	XHQUE-TV
+XHPNW-TV	callSign	XHPNW
+XHLLO-TV	callSign	XHLLO
+XHMAC-TV	callSign	XHMAC-TV
+XHSJT-TV	callSign	XHSJT
+XHCZC-TV	callSign	XHCZC
+XHPAC-TV	callSign	XHMOT
+XHTAH-TV	callSign	XHTAH
+XHDEH-TV	callSign	XHDEH
+XHBN-TV	callSign	XHBN-TV
+XHHPT-TV	callSign	XHHPT
+XHVFC-TV	callSign	XHVFC
+XHCHC-TV	callSign	XHCHC
+XHWVT-TV	callSign	XHWVT
+XHCPA-TV	callSign	XHCPA
+XHHUC-TV	callSign	XHHUC
+XHOCC-TV	callSign	XHOCC
+XHBU-TV	callSign	XHBU
+XHCBC-TV	callSign	XHCBC
+XHCDC-TV	callSign	XHCDC
+XHO-TV	callSign	XHO
+XHCIC-TV	callSign	XHCIC
+XHVAC-TV	callSign	XHVAC
+XHSCC-TV	callSign	XHSCC
+XHTUA-TV	callSign	XHTUA
+XHRDC-TV	callSign	XHRDC
+XHMOT-TV	callSign	XHMOT
+XHWDT-TV	callSign	XHWDT
+XHOXO-TV	callSign	XHOXX-TV
+XHCDE-TV	callSign	XHCDE-TV
+XHNOH-TV	callSign	XHNOH
+XHMLC-TV	callSign	XHMLC
+XHTOB-TV	callSign	XHTOB-TV
+Oaxaca TV  XHAOX-TV   1	callSign	XHAOX-TV
+XHGJG-TV	callSign	XHGJG-TV
+XHRCG-TV	callSign	XHRCG-TV
+XHRCG-TV  XHCAW-TV   1	callSign	XHCAW-TV
+XHCGA-TV	callSign	XHCGA-TV
+WWMT-DT2	callSign	WWMT-DT2
+XHLEG-TV	callSign	XHLEG-TV
+WBXZ-LP	callSign	WBXZ-LP
+XHGV-TV	callSign	XHGV-TV
+XHPAH-TV	callSign	XHPAH-TV
+XHTLX-TV	callSign	XHTLX-TV
+XHMOR-TV	callSign	XHMOR-TV
+XHUNES-TV	callSign	XHUNES-TV
+XHPUE-TV	callSign	XHPUE-TV
+XHPUE-TV  XHPZL-TV   1	callSign	XHPZL-TV
+XHTEM-TV	callSign	XHTEM
+WGSF (TV)	callSign	WGSF
+WTAP-DT3	callSign	WTAP-DT3
+WBKO-DT2	callSign	WBKO-DT2
+WTOK-DT2	callSign	WTOK-DT2
+Soyuz TMA-21	callSign	Tarkhany
+DWDM-TV	callSign	DZCE-TV
+K43HW	callSign	K43HW
+KAF Radio	callSign	KAF Radio
+WTKJ-LP	callSign	WTKJ-LP
+KHBS-DT2 / KHOG-DT2	callSign	KHBS-DT2 / KHOG-DT2
+WISE-DT2	callSign	WISE-DT2
+KHVM-LD	callSign	KHVM-LD / KTCJ-LD
+KXII-DT2	callSign	KXII-DT2
+W07BP-D	callSign	W07BP-D
+W39BT	callSign	W39BT
+WSFG-LP	callSign	WSFG-LP
+WSFG-LP  WSSF-LP   1	callSign	WSSF-LP
+WASA-LD	callSign	WASA-LD
+WCHD-CA	callSign	WCHD-CA
+KCEB (Tulsa)	callSign	KCEB-TV
+KOMI-LP	callSign	KOMI-LP
+KOMI-LP	callSign	(a Class-A station)
+DZAD-TV	callSign	DZAD-TV
+KADO-LP	callSign	KADO-LP
+DXAJ-TV	callSign	DXAJ-TV (ABS-CBN Butuan TV 11
+WWJS-CA	callSign	WWJS-CA
+WHDH-TV (defunct)	callSign	WHDH-TV
+WNCT-DT2	callSign	WNCT-DT2
+Austintown Community Television	callSign	Austintown Community Television
+K17HC	callSign	K17HC
+WVIR-DT3	callSign	WVIR-DT3
+KBTU-LP	callSign	KBTU
+KLSE (TV)	callSign	KLSE
+KNVN	callSign	KNVN
+KWHS-LP	callSign	KWHS-LP
+KEVE-LP	callSign	KEVE-LD
+KRUM-LD	callSign	KRUM-LD
+KUNW-CA	callSign	KUNW-CA
+KDLH-DT2	callSign	KDLH-DT2
+WLLP	callSign	WLLP-CA
+WLLP	callSign	(a Class-A station)
+WFPG-TV	callSign	WFPG-TV
+W17CF	callSign	W17CF
+W58CX	callSign	W58CX
+DXTE-TV	callSign	DXTE-TV
+DYET-TV	callSign	DYET-TV
+DXDE-TV	callSign	DXDE-TV
+DYTE-TV	callSign	DYTE-TV
+DXER-TV	callSign	DXER-TV
+DZET-TV	callSign	DZET-TV
+KCDH-LP	callSign	KCDH-LP
+DXTV-TV	callSign	DXTV-TV
+DYTV-TV	callSign	DYTV-TV
+K38HE	callSign	K38HE
+DXVC-TV	callSign	DXVC-TV (NBN-7)
+DXBN-TV	callSign	DXBN-TV (NBN-9)
+WCBZ-LP	callSign	WCBZ-LP
+KNLD-LD	callSign	KNLD-LD
+K48IT	callSign	KBDT
+WLPN-LP	callSign	WLPN-LP
+Iwate Menkoi Television	callSign	JOYH-(D)TV
+DXDZ-TV	callSign	DXDZ-TV
+DXLA-TV	callSign	DXLA-TV
+Niigata Sogo Television	callSign	JONH-(D)TV
+Kagoshima Yomiuri Television	callSign	JOUI-(D)TV
+Broadcasting System of Niigata	callSign	JODR-(D)TV
+The Niigata Television Network 21	callSign	JOUX-(D)TV
+Television Niigata Network	callSign	JOPI-(D)TV
+DWRW-TV	callSign	DWRW-TV (CLTV-36)
+Fukui Broadcasting	callSign	JOPR-(D)TV
+Toyama Television	callSign	JOTH-(D)TV
+DXCC-TV	callSign	DXCC-TV
+Tulip Television	callSign	JOJH-(D)TV
+WLMF-LP	callSign	WLMF-LP
+DYKC-TV	callSign	DYKC-TV (ETC)
+DYPT-TV	callSign	DYPT-TV (NBN-11)
+DXKO-TV	callSign	DXKO-TV (ETC)
+WPMF-LP	callSign	WPMF-LP
+WBWP-LP	callSign	WBWP
+WIMP-CD	callSign	WIMP-CD
+WCAY-CA	callSign	WCAY-CA
+WFUN-LD	callSign	WFUN-LD
+WWCI-CA	callSign	WWCI-CA
+KFPB-LP	callSign	KFPB-LP
+KOHA-LP	callSign	KOHA-LP
+WBII-CA	callSign	WBII-CA
+KITL-LP	callSign	KITL-LP
+WDCN-LP	callSign	WDCN-LP
+WSAZ-DT2	callSign	WSAZ-DT2
+DXZB-TV	callSign	DXZB-TV
+DWRD-TV	callSign	DWRD-TV (ABS-CBN Laoag)
+WHRT-CA	callSign	WHRT-CA
+WKRC-DT2	callSign	WKRC-DT2
+DYTL-TV	callSign	DYTL-TV (NBN-2)
+DYXL-TV	callSign	DYXL-TV (ABS-CBN Bacolod)
+WRLH-DT2	callSign	WRLH-DT2
+WDTB-LP	callSign	WDTB-LP
+DXSA-TV	callSign	DXSA-TV
+MyTV Northern California	callSign	KRVU-LD/KZVU-LD/KEMY-LP
+Cincinnati Reds Radio Network	callSign	Cincinnati Reds Radio Network
+KRIS-DT2	callSign	KRIS-DT2
+SWX Right Now	callSign	SWX Right Now
+K17HI-D	callSign	K17HI-D
+W43CO-D	callSign	W43CO-D/W54BO
+DYKB-TV	callSign	DYKB-TV (ETC)
+DZBS-TV	callSign	DZBS-TV (ETC)
+DXWP-TV	callSign	DXWP-TV (NBN-5)
+DXNL-TV	callSign	DXNL-TV (NBN-27)
+DWKI-TV	callSign	DWKI-TV (ETC)
+K50DB	callSign	K50DB
+DZRR-TV	callSign	DZRR-TV (ABS-CBN Baguio)
+DWGD-TV	callSign	DWGD-TV
+Charter TV3	callSign	WCTR Charter TV3
+WLTZ-DT2	callSign	WLTZ-DT2
+DYBU-TV	callSign	DYBU-TV
+KPFW-LP	callSign	KPFW-LP
+KBPX-LP	callSign	KBPX-LP
+Channel 13 – Santa Fe	callSign	LT82
+WFBT	callSign	WFBT
+WTPX-TV	callSign	WTPX-TV
+KPJR-TV	callSign	KPJR-TV
+DWAF-TV	callSign	DWAF-TV
+KCFT-LP	callSign	KCFT-LP
+KACN-LP	callSign	KACN-LP
+K19ER	callSign	K16HY
+KXII-DT3	callSign	KXII-DT3
+WHDO-CA	callSign	WHDO-CA
+TV2 (Virgin Islands)	callSign	TV2
+KLTV (Washington)	callSign	KLTV Public, Education, Government (PEG)
+CHOY-TV	callSign	CHOY-TV
+CHOY-TV	callSign	(defunct)
+DYME-TV	callSign	DYME-TV
+DYDI-TV	callSign	DYDI-TV
+DXMM-TV	callSign	DXMM-TV
+DXSJ-TV	callSign	DXSJ-TV
+WOBX-LP	callSign	WOBX-LP
+Kyushu Asahi Broadcasting  JOIF-TV, JOIF-DTV   1	callSign	JOIF-TV, JOIF-DTV
+WCBD-DT2	callSign	WCBD-DT2
+WFBD	callSign	WFBD
+News 12 Brooklyn	callSign	News 12 Brooklyn
+Fukuoka Broadcasting Corporation	callSign	FH-(D)TV
+Television Nishinippon Corporation	callSign	JOJY-(D)TV
+TVQ Kyushu Broadcasting	callSign	JOTY-(D)TV
+KCTY (defunct)	callSign	KCTY
+K04QR	callSign	K04QR-D
+WLUC-DT2	callSign	WLUC-DT2
+W36DH	callSign	W36DH
+W04CW	callSign	W04CW
+WDWW-LP	callSign	WDWW-LP
+K09YL-D	callSign	K09YL-D
+KBNZ-LD	callSign	KBNZ-LD
+KBNZ-LD	callSign	(semi-satellite of KOIN
+KBNZ-LD	callSign	Portland, Oregon)
+DWNJ-TV	callSign	DWNJ-TV
+DWDJ-TV	callSign	DWDJ-TV
+W63AU	callSign	W63AU
+WPGA-LP	callSign	WPGA-LP
+WMDV-LD	callSign	WMDV-LP
+DYBB-TV	callSign	DYBB-TV
+Pasadena Community Network	callSign	The Arroyo Channel, KPAS, KLRN, PCCtv
+INC NOW	callSign	WISE
+K54GL	callSign	K54GL
+DYAZ-TV	callSign	DYAZ-TV
+WNAC-DT2	callSign	WNAC-DT2
+Tokyo Broadcasting System Television  JORX- D TV   1	callSign	JORX-(D)TV
+Greg Caton	callSign	N5OY
+WROV-TV	callSign	WROV-TV
+WCKN Television	callSign	WCKN
+WCKN Television	callSign	(cable only)
+K25IA-D	callSign	K25IA-D
+W18BL	callSign	W18BL
+W18BL	callSign	(a Class-A station)
+W34DV	callSign	W34DV
+W34DV	callSign	(a Class-A station)
+W06AW	callSign	W06AW
+W06AW	callSign	(a Translator station)
+W39CD	callSign	W39CD
+W39CD	callSign	(a Class-A station)
+W15CG	callSign	W15CG
+W15CG	callSign	(a Translator station)
+KSLM-LD	callSign	KSLM-LD
+WMGT-DT2	callSign	WMGT-DT2
+WITN-DT2	callSign	WITN-DT2
+WGXA-DT2	callSign	WGXA-DT2
+KBMT-DT2	callSign	KBMT-DT2
+WSVL-LP	callSign	WSVL-LP
+DTD (TV station)	callSign	DTD
+Hadashot 10	callSign	VideoGuard
+WENY-DT2	callSign	WENY-DT2
+PEGASYS-TV	callSign	PEGASYS
+KEYC-DT2	callSign	KEYC-DT2
+Jullette M. Saussy	callSign	6200
+DXSS-TV	callSign	DXSS-TV (Talk TV-7)
+KALB-DT2	callSign	KALB-DT2
+WNKY-DT2	callSign	WNKY-DT2
+KTWT-LP	callSign	KTWT-LP
+WERI-LP	callSign	WERI-LP
+KLPD-LD	callSign	KLPD-LD
+KDEO-LP	callSign	KDEO-LP
+WKRP-LP	callSign	WKRP-LP
+WIBW-DT2	callSign	WIBW-DT2
+KIMT-DT2	callSign	KIMT-DT2
+KTEN-DT2	callSign	KTEN-DT2
+KDHW-LP	callSign	KDHW-LP
+K17DL-D	callSign	K17DL-D
+KTEN-DT3	callSign	KTEN-DT3
+Ten West	callSign	Ten West (WDT)
+DYFX-TV	callSign	DYFX-TV
+KHQA-DT2	callSign	KHQA-DT2
+WLIO-DT2	callSign	WLIO-DT2
+DXBM-TV	callSign	DXBM-TV
+WNYX-LD	callSign	WNYX-LD
+KCBT-LD	callSign	KCBT-LD
+KOMU-DT3	callSign	KOMU-DT3
+DYNU-TV	callSign	DYNU-TV
+Comcast C2 Charleston	callSign	Comcast C2
+WKBS-TV	callSign	WKBS-TV
+WKBS-TV	callSign	(satellite of WPCB-TV, Greensburg/Pittsburgh, Pennsylvania)
+DWZT-TV	callSign	DWZT-TV
+DWIN-TV	callSign	DWIN-TV
+DZBA-TV	callSign	DWBA-TV
+DWTC-TV	callSign	DWTC-TV
+DZVC-TV	callSign	DWVC-TV
+DWLY-TV	callSign	DWLY-TV
+DWEW-TV	callSign	DWEW-TV
+DWMP-TV	callSign	DWMP-TV
+DWZA-TV	callSign	DWZA-TV
+DZTC-TV	callSign	DZTC-TV
+DZSC-TV	callSign	DZSC-TV
+DZAM-TV	callSign	DZAM-TV
+DWTY-TV	callSign	DWTY-TV
+DYPR-TV	callSign	DYPR-TV
+DYKA-TV	callSign	DYKA-TV
+Nishinippon Broadcasting  JOKF- D TV   1	callSign	JOKF-(D)TV
+TV Cidade (Fortaleza)	callSign	TV Cidade
+WSAV-DT2	callSign	WSAV-DT2
+TV Verdes Mares	callSign	TV Verdes Mares
+TV Jangadeiro	callSign	TV Jangadeiro
+KVDO-LP	callSign	KVDO-LP
+Setonaikai Broadcasting	callSign	JOVH-(D)TV
+KXDP-LP	callSign	KXDP-LP
+KUVM-LD	callSign	KUVM-LD
+WTXX-LP	callSign	WTXX-LP
+KNRC-LD	callSign	KNRC-LD
+East Tennessee PBS	callSign	WETP-TV / WKOP-TV
+WPVN-CA	callSign	WPVN-CA/LD
+XHI-TV	callSign	XHI-TV
+DWEC-TV	callSign	DWEC-TV (ABS-CBN Dagupan)
+CIER-TV	callSign	CIER-TV
+CHOB-TV	callSign	CHOB-TV
+K47JO-D	callSign	K47JO
+KELM-LP	callSign	KELM-LP
+Cruz Teng	callSign	YES 93.3FM
+WRWR-LD	callSign	WRWR-LD
+KZHO-LD	callSign	KZHO-LD
+WNBD-LD	callSign	WNBD-LD
+K43HB	callSign	K14KH
+Central Digital Television	callSign	Central Digital Television
+KQSL	callSign	KQSL
+Cyrus Fernandez	callSign	Castor
+Cyrus Fernandez	callSign	Cyrus The Virus (NU107)
+Cyrus Fernandez	callSign	Chase (DZLB FM)
+WALB-DT2	callSign	WALB-DT2
+XHG-TV	callSign	XHG-TV
+WESV-LD	callSign	WESV-LD
+WDCI-LD	callSign	WDCI-LD
+WCBI-DT2	callSign	WCBI-DT2
+KVMD-DT6	callSign	KVMD-DT6
+KZTC-LP	callSign	KZTC-LP
+KTRV-DT2	callSign	KTRV-DT2
+KBKF-LP	callSign	KBKF-LP
+KDHU-LD	callSign	KDHU-LD
+KEHO-LD	callSign	KEHO-LD
+KTVO-DT2	callSign	KTVO-DT2
+CKY-TV	callSign	CKY-TV
+WCEA-LP	callSign	WCEA-LP
+CitrusTV	callSign	CitrusTV
+WFMJ-DT2	callSign	WFMJ-DT2,
+WFMJ-DT2	callSign	a.k.a. \
+WSNS-TV	callSign	WSNS-TV
+KEVC-CA	callSign	KEVC-CA
+WFXS-DT	callSign	WFXS-DT
+Smoky Hills Public Television	callSign	Smoky Hills Public Television
+KEYT-TV	callSign	KEYT-TV
+KARZ-TV	callSign	KARZ-TV
+KCOY-TV	callSign	KCOY-TV
+CJIL-TV	callSign	CJIL-TV
+KNDX	callSign	KNDX / KXND
+WMYV	callSign	WMYV
+KMIR-TV	callSign	KMIR-TV
+WGTW-TV	callSign	WGTW-TV
+DYXX-TV (IBC)	callSign	DYXX-TV
+WMNN-LD	callSign	WMNN-LD
+WLEP-LD	callSign	WLEP-LD
+WYME-CA	callSign	WYME-CA
+DXNS-TV	callSign	DXNS-TV (GMA TV-7 Butuan)
+KSBW-DT2	callSign	KSBW-DT2
+KAEP-LP	callSign	KAEP-LP
+KGWN-DT2	callSign	KGWN-DT2
+KGWN-DT2	callSign	(semi-satellite of KGWN
+KGWN-DT2	callSign	Cheyenne, Wyoming)
+Bob Heil	callSign	K9EID
+KSAW-LD	callSign	KSAW-LD
+KSAW-LD	callSign	(semi-satellite of KIVI
+KSAW-LD	callSign	Boise, Idaho)
+GNN Naga	callSign	D   -TV 48
+DWBY-TV	callSign	DWBY-TV
+Jure Šterk	callSign	S52YS
+DZNC-TV	callSign	DZNC-TV
+KJOS-TV	callSign	KJOS-TV
+XHOPTA	callSign	XHOPTA
+XHVSL	callSign	XHVSL
+XHKD	callSign	XHKD
+Haikou Television	callSign	HKTV
+Hainan Television	callSign	HNWTV
+XHSTA-TV	callSign	XHSTA-TV
+XHBZC-TV	callSign	XHBZC
+XHTTG-TV	callSign	XHTTG
+XHAMO-TV	callSign	XHAMO
+XHCMO-TV	callSign	XHCMO
+XHTPG-TV	callSign	XHTPG
+XHSLS-TV	callSign	XHSLS
+XHST-TV	callSign	XHST
+KTJA-CA	callSign	KTJA-CA
+KTJA-CA	callSign	(Satellite of KYAZ,
+KTJA-CA	callSign	Houston, Texas)
+K39HB	callSign	K39HB
+XHSFB-TV	callSign	XHSFB
+KJNE-LP	callSign	KJNE-LP
+NJTV	callSign	NJTV
+WLLC-LP	callSign	WLLC-LP
+XHSDD-TV	callSign	XHSDD
+XHCCP-TV	callSign	XHCCP
+XHALC-TV	callSign	XHALC
+XHBAL-TV	callSign	XHBAL
+XHCTH-TV	callSign	XHCTH
+XHABC-TV	callSign	XHABC
+XHMH-TV	callSign	XHMH
+XHOHH-TV	callSign	XHOHH
+XHRPC-TV	callSign	XHRPC
+Medford Cable News	callSign	MCC-TV
+XHCEP-TV	callSign	XHCEP
+XHGSM-TV	callSign	XHGSM
+XHARJ-TV	callSign	XHARJ
+XHRIG-TV	callSign	XHRIG
+XHRRZ-TV	callSign	XHRRZ
+K15FW	callSign	K15FW
+K39CP	callSign	K39CP
+KTDF-LP	callSign	KTDF
+KHMA	callSign	KHMA-TV

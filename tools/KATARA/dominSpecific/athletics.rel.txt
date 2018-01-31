@@ -1,0 +1,777 @@
+California Institute of Technology	athletics	National Collegiate Athletic Association
+Columbia University	athletics	National Collegiate Athletic Association
+Columbia University	athletics	Ivy League
+Dartmouth College	athletics	National Collegiate Athletic Association
+Dartmouth College	athletics	Ivy League
+Dalhousie University	athletics	Dalhousie University
+George Mason University	athletics	National Collegiate Athletic Association
+George Mason University	athletics	Colonial Athletic Association
+Iowa State University	athletics	Big 12 Conference
+Iowa State University	athletics	Division I (NCAA)
+Ithaca College	athletics	National Collegiate Athletic Association
+James Madison University	athletics	National Collegiate Athletic Association
+James Madison University	athletics	Colonial Athletic Association
+Kansas State University	athletics	Division I (NCAA)
+Kansas State University	athletics	Big 12 Conference
+Kent State University	athletics	National Collegiate Athletic Association
+Kent State University	athletics	Mid-American Conference
+Massachusetts Institute of Technology	athletics	Division III (NCAA)
+Massachusetts Institute of Technology	athletics	Varsity team
+Northern Michigan University	athletics	National Collegiate Athletic Association
+Northern Michigan University	athletics	National Collegiate Athletic Association
+Occidental College	athletics	Division III (NCAA)
+Occidental College	athletics	Southern California Intercollegiate Athletic Conference
+Princeton University	athletics	Ivy League
+Princeton University	athletics	National Collegiate Athletic Association
+Rice University	athletics	National Collegiate Athletic Association
+Rice University	athletics	Conference USA
+Stanford University	athletics	National Collegiate Athletic Association
+Seattle University	athletics	Division I (NCAA)
+Seattle University	athletics	Western Athletic Conference
+University of Washington	athletics	Division I (NCAA)
+University of Washington	athletics	Pacific-12 Conference
+University of Pennsylvania	athletics	National Collegiate Athletic Association
+University of Rochester	athletics	National Collegiate Athletic Association
+University of Rochester	athletics	University Athletic Association
+University of California, Santa Cruz	athletics	National Collegiate Athletic Association
+University of California, Davis	athletics	National Collegiate Athletic Association
+University of California, Berkeley	athletics	National Collegiate Athletic Association
+University of California, Berkeley	athletics	California Golden Bears
+University of California, San Diego	athletics	UC San Diego Tritons
+University of California, San Diego	athletics	National Collegiate Athletic Association
+University of Southern California	athletics	National Collegiate Athletic Association
+Upper Iowa University	athletics	Division II (NCAA)
+Upper Iowa University	athletics	Northern Sun Intercollegiate Conference
+University of Chicago	athletics	National Collegiate Athletic Association
+United States Military Academy	athletics	Army Black Knights
+Wabash College	athletics	National Collegiate Athletic Association
+Wabash College	athletics	North Coast Athletic Conference
+Yale University	athletics	National Collegiate Athletic Association
+University of California, Los Angeles	athletics	National Collegiate Athletic Association
+Johns Hopkins University	athletics	Division I (NCAA)
+Johns Hopkins University	athletics	National Collegiate Athletic Association
+Johns Hopkins University	athletics	Centennial Conference
+Hiram College	athletics	National Collegiate Athletic Association
+Emory University	athletics	National Collegiate Athletic Association
+University of California, Irvine	athletics	National Collegiate Athletic Association
+Michigan Technological University	athletics	National Collegiate Athletic Association
+Michigan Technological University	athletics	National Collegiate Athletic Association
+Carnegie Mellon University	athletics	National Collegiate Athletic Association
+Duke University	athletics	National Collegiate Athletic Association
+Duke University	athletics	Atlantic Coast Conference
+Washington University in St. Louis	athletics	National Collegiate Athletic Association
+University of Virginia	athletics	National Collegiate Athletic Association
+University of Florida	athletics	National Collegiate Athletic Association
+University of Florida	athletics	Southeastern Conference
+Boston University	athletics	National Collegiate Athletic Association
+Yeshiva University	athletics	Division III (NCAA)
+Yeshiva University	athletics	Skyline Conference
+North Carolina State University	athletics	National Collegiate Athletic Association
+Central Washington University	athletics	Division II (NCAA)
+American University	athletics	American Eagles
+Brandeis University	athletics	National Collegiate Athletic Association
+Brandeis University	athletics	University Athletic Association
+Brandeis University	athletics	Eastern College Athletic Conference
+Western Connecticut State University	athletics	National Collegiate Athletic Association
+Boise State University	athletics	Division I (NCAA)
+Boise State University	athletics	Mountain West Conference
+Boise State University	athletics	Pacific-12 Conference
+University of Miami	athletics	National Collegiate Athletic Association
+University of Miami	athletics	Atlantic Coast Conference
+St. Mary's University, Texas	athletics	Division II (NCAA)
+East Carolina University	athletics	National Collegiate Athletic Association
+East Carolina University	athletics	Conference USA
+University of North Carolina at Chapel Hill	athletics	National Collegiate Athletic Association
+Montana State University – Northern	athletics	National Association of Intercollegiate Athletics
+Morgan State University	athletics	Division I (NCAA)
+University of Notre Dame	athletics	National Collegiate Athletic Association
+University of Central Florida	athletics	National Collegiate Athletic Association
+University of Central Florida	athletics	Conference USA
+University of Kansas	athletics	Division I (NCAA)
+University of Kansas	athletics	Big 12 Conference
+Tulane University	athletics	National Collegiate Athletic Association
+Mount Allison University	athletics	Canadian Interuniversity Sport
+Mount Allison University	athletics	Atlantic University Sport
+University of North Carolina at Asheville	athletics	National Collegiate Athletic Association
+The University of Western Ontario	athletics	Western Ontario Mustangs
+University of Missouri–Kansas City	athletics	National Collegiate Athletic Association
+University of Missouri–Kansas City	athletics	The Summit League
+Virginia Commonwealth University	athletics	National Collegiate Athletic Association
+Virginia Commonwealth University	athletics	Colonial Athletic Association
+John Carroll University	athletics	National Collegiate Athletic Association
+Northwestern University	athletics	National Collegiate Athletic Association
+Northwestern University	athletics	Big Ten Conference
+Northwestern University	athletics	Northwestern Wildcats
+The College of William & Mary	athletics	National Collegiate Athletic Association
+The College of William & Mary	athletics	Colonial Athletic Association
+Babson College	athletics	National Collegiate Athletic Association
+Western Washington University	athletics	Division II (NCAA)
+Western Washington University	athletics	Great Northwest Athletic Conference
+University of North Texas	athletics	North Texas Mean Green
+The College of New Jersey	athletics	National Collegiate Athletic Association
+Curry College	athletics	National Collegiate Athletic Association
+Radford University	athletics	National Collegiate Athletic Association
+Radford University	athletics	Big South Conference
+West Virginia University	athletics	National Collegiate Athletic Association
+West Virginia University	athletics	Big East Conference
+West Virginia University	athletics	Varsity team
+Missouri State University	athletics	National Collegiate Athletic Association
+Rensselaer Polytechnic Institute	athletics	Varsity team
+Rensselaer Polytechnic Institute	athletics	Division I (NCAA)
+Rensselaer Polytechnic Institute	athletics	Division III (NCAA)
+Bowdoin College	athletics	Division III (NCAA)
+Western Carolina University	athletics	National Collegiate Athletic Association
+University of South Carolina Aiken	athletics	National Collegiate Athletic Association
+Mississippi State University	athletics	National Collegiate Athletic Association
+University of California, Santa Barbara	athletics	National Collegiate Athletic Association
+University of California, Santa Barbara	athletics	UC Santa Barbara Gauchos
+Moody Bible Institute	athletics	National Christian College Athletic Association
+College of Saint Benedict and Saint John's University	athletics	Minnesota Intercollegiate Athletic Conference
+Portland State University	athletics	Division I (NCAA)
+Portland State University	athletics	Big Sky Conference
+Washington State University	athletics	Division I (NCAA)
+Washington State University	athletics	Pacific-12 Conference
+University of California, Riverside	athletics	Division I (NCAA)
+Case Western Reserve University	athletics	National Collegiate Athletic Association
+University of Nevada, Las Vegas	athletics	Division I (NCAA)
+University of Nevada, Las Vegas	athletics	Mountain West Conference
+University of Nevada, Reno	athletics	Division I (NCAA)
+University of Nevada, Reno	athletics	Western Athletic Conference
+Wake Forest University	athletics	National Collegiate Athletic Association
+Boston College	athletics	National Collegiate Athletic Association
+Boston College	athletics	Hockey East
+University of Connecticut	athletics	National Collegiate Athletic Association
+Virginia Polytechnic Institute and State University	athletics	National Collegiate Athletic Association
+Virginia Polytechnic Institute and State University	athletics	Atlantic Coast Conference
+Virginia Polytechnic Institute and State University	athletics	Varsity team
+University of Pittsburgh	athletics	Pittsburgh Panthers
+University of Pittsburgh	athletics	National Collegiate Athletic Association
+University of Pittsburgh	athletics	Big East Conference
+University of Pittsburgh	athletics	Eastern Wrestling League
+University of Pittsburgh	athletics	East Atlantic Gymnastics League
+Providence College	athletics	National Collegiate Athletic Association
+Providence College	athletics	Hockey East
+University of Iowa	athletics	Big Ten Conference
+University of Iowa	athletics	Division I (NCAA)
+Wesleyan University	athletics	National Collegiate Athletic Association
+Wilberforce University	athletics	National Association of Intercollegiate Athletics
+Cheyney University of Pennsylvania	athletics	National Collegiate Athletic Association
+Stony Brook University	athletics	National Collegiate Athletic Association
+Langston University	athletics	National Association of Intercollegiate Athletics
+Washington and Lee University	athletics	National Collegiate Athletic Association
+Washington and Lee University	athletics	Old Dominion Athletic Conference
+University of Oregon	athletics	Division I (NCAA)
+University of Oregon	athletics	Pacific-12 Conference
+Binghamton University	athletics	National Collegiate Athletic Association
+Binghamton University	athletics	Binghamton Bearcats wrestling
+Vanderbilt University	athletics	National Collegiate Athletic Association
+Vanderbilt University	athletics	Southeastern Conference
+Vanderbilt University	athletics	American Lacrosse Conference
+University of Vermont	athletics	Division I (NCAA)
+Anderson University (Indiana)	athletics	National Collegiate Athletic Association
+Colgate University	athletics	National Collegiate Athletic Association
+Worcester Polytechnic Institute	athletics	Division III (NCAA)
+Worcester Polytechnic Institute	athletics	Varsity team
+St. Mary's College of Maryland	athletics	National Collegiate Athletic Association
+University of Colorado at Boulder	athletics	Division I (NCAA)
+University of Colorado at Boulder	athletics	Pacific-12 Conference
+Bloomfield College	athletics	Division II (NCAA)
+Richard Stockton College of New Jersey	athletics	Division III (NCAA)
+Richard Stockton College of New Jersey	athletics	ECAC
+Rider University	athletics	National Collegiate Athletic Association
+Rider University	athletics	Northeast Conference
+Rider University	athletics	Colonial Athletic Association
+Saint Peter's College (New Jersey)	athletics	National Collegiate Athletic Association
+Connecticut College	athletics	National Collegiate Athletic Association
+University of Redlands	athletics	Division III (NCAA)
+University of Redlands	athletics	Southern California Intercollegiate Athletic Conference
+Old Dominion University	athletics	Division I (NCAA)
+Old Dominion University	athletics	Colonial Athletic Association
+Queens College, City University of New York	athletics	National Collegiate Athletic Association
+University of Mary Washington	athletics	National Collegiate Athletic Association
+The Evergreen State College	athletics	National Association of Intercollegiate Athletics
+Monterrey Institute of Technology and Higher Education	athletics	Borregos Salvajes
+Suffolk University	athletics	National Collegiate Athletic Association
+University of Nebraska–Lincoln	athletics	National Collegiate Athletic Association
+University of Nebraska–Lincoln	athletics	Big Ten Conference
+University of Illinois at Chicago	athletics	National Collegiate Athletic Association
+University of Illinois at Chicago	athletics	Horizon League
+Wheaton College (Illinois)	athletics	Division III (NCAA)
+McMaster University	athletics	McMaster Marauders
+Virginia Military Institute	athletics	National Collegiate Athletic Association
+Virginia Military Institute	athletics	NCAA Division I Football Championship
+Virginia Military Institute	athletics	Big South Conference
+Longwood University	athletics	National Collegiate Athletic Association
+University of Northern Colorado	athletics	National Collegiate Athletic Association
+Morehouse College	athletics	Division II (NCAA)
+Spelman College	athletics	Division III (NCAA)
+University of Maryland, Baltimore County	athletics	UMBC Retrievers
+University of Maryland, Baltimore County	athletics	National Collegiate Athletic Association
+Howard University	athletics	National Collegiate Athletic Association
+Indiana State University	athletics	Division I (NCAA)
+Indiana State University	athletics	Indiana State Sycamores
+Messiah College	athletics	Division III (NCAA)
+Messiah College	athletics	Middle Atlantic Conferences
+California State University, Long Beach	athletics	National Collegiate Athletic Association
+California State University, San Marcos	athletics	National Association of Intercollegiate Athletics
+Eastern Washington University	athletics	Division I (NCAA)
+University of Louisville	athletics	National Collegiate Athletic Association
+Northeastern University	athletics	Division I (NCAA)
+Northeastern University	athletics	Colonial Athletic Association
+Furman University	athletics	Division I (NCAA)
+Bellarmine University	athletics	National Collegiate Athletic Association
+University of New Mexico	athletics	Division I (NCAA)
+University of New Mexico	athletics	Mountain West Conference
+University of North Carolina at Charlotte	athletics	National Collegiate Athletic Association
+University of Minnesota	athletics	National Collegiate Athletic Association
+University of Minnesota	athletics	Big Ten Conference
+University of Minnesota	athletics	Western Collegiate Hockey Association
+North Carolina Central University	athletics	Division I (NCAA)
+Northwest University (United States)	athletics	National Association of Intercollegiate Athletics
+Pepperdine University	athletics	National Collegiate Athletic Association
+Pepperdine University	athletics	West Coast Conference
+University of New England (United States)	athletics	National Collegiate Athletic Association
+University of New England (United States)	athletics	Eastern College Athletic Conference
+University of South Carolina Beaufort	athletics	National Association of Intercollegiate Athletics
+Wheeling Jesuit University	athletics	National Collegiate Athletic Association
+Washburn University	athletics	List of NCAA Division II institutions
+Santa Clara University	athletics	National Collegiate Athletic Association
+California Polytechnic State University	athletics	National Collegiate Athletic Association
+University of Regina	athletics	Regina Cougars
+University of Regina	athletics	Regina Rams
+Willamette University	athletics	Division III (NCAA)
+Willamette University	athletics	Northwest Conference
+Dordt College	athletics	National Association of Intercollegiate Athletics
+Dordt College	athletics	Great Plains Athletic Conference
+Central Christian College	athletics	National Association of Intercollegiate Athletics
+Central Christian College	athletics	National Christian College Athletic Association
+Saint Joseph's University	athletics	National Collegiate Athletic Association
+Linfield College	athletics	Division III (NCAA)
+College of the Holy Cross	athletics	National Collegiate Athletic Association
+College of the Holy Cross	athletics	Patriot League
+Union College	athletics	Division I (NCAA)
+Southern Methodist University	athletics	National Collegiate Athletic Association
+Southern Methodist University	athletics	Conference USA
+Azusa Pacific University	athletics	National Association of Intercollegiate Athletics
+Ohio University	athletics	National Collegiate Athletic Association
+Ohio University	athletics	Mid-American Conference
+California State Polytechnic University, Pomona	athletics	National Collegiate Athletic Association
+California State Polytechnic University, Pomona	athletics	California Collegiate Athletic Association
+University of Houston	athletics	Conference USA
+King's College (Pennsylvania)	athletics	National Collegiate Athletic Association
+King's College (Pennsylvania)	athletics	Middle Atlantic Conferences
+Fairfield University	athletics	National Collegiate Athletic Association
+Rollins College	athletics	Division II (NCAA)
+Rollins College	athletics	Sunshine State Conference
+Towson University	athletics	National Collegiate Athletic Association
+University of Bridgeport	athletics	National Collegiate Athletic Association
+Sacred Heart University	athletics	National Collegiate Athletic Association
+Southern Connecticut State University	athletics	National Collegiate Athletic Association
+Central Connecticut State University	athletics	National Collegiate Athletic Association
+University of Wisconsin–Stout	athletics	Division III (NCAA)
+University of Wisconsin–Stout	athletics	Wisconsin Intercollegiate Athletic Conference
+University of Wisconsin–Stout	athletics	Northern Collegiate Hockey Association
+Eastern Connecticut State University	athletics	National Collegiate Athletic Association
+University of New Haven	athletics	National Collegiate Athletic Association
+Delaware State University	athletics	National Collegiate Athletic Association
+Quinnipiac University	athletics	National Collegiate Athletic Association
+University of Hartford	athletics	National Collegiate Athletic Association
+Bowie State University	athletics	National Collegiate Athletic Association
+Bridgewater College	athletics	National Collegiate Athletic Association
+Bridgewater College	athletics	Old Dominion Athletic Conference
+Trinity College, Hartford	athletics	National Collegiate Athletic Association
+Mitchell College	athletics	National Collegiate Athletic Association
+Georgia State University	athletics	National Collegiate Athletic Association
+D'Youville College	athletics	National Collegiate Athletic Association
+D'Youville College	athletics	Eastern College Athletic Conference
+D'Youville College	athletics	United Volleyball Conference (men's volleyball)
+Rhodes College	athletics	National Collegiate Athletic Association
+Rhodes College	athletics	Southern Collegiate Athletic Conference
+California State University, East Bay	athletics	Division II (NCAA)
+California State University, East Bay	athletics	California Collegiate Athletic Association
+State University of New York at Fredonia	athletics	National Collegiate Athletic Association
+State University of New York at Fredonia	athletics	State University of New York Athletic Conference
+North Park University	athletics	National Collegiate Athletic Association
+Long Island University	athletics	National Collegiate Athletic Association
+Long Island University	athletics	Northeast Conference
+Long Island University	athletics	East Coast Conference
+Long Island University	athletics	Pennsylvania State Athletic Conference
+Hilbert College	athletics	Division III (NCAA)
+Cazenovia College	athletics	National Collegiate Athletic Association
+Fayetteville State University	athletics	National Collegiate Athletic Association
+Winston-Salem State University	athletics	National Collegiate Athletic Association
+College of St. Joseph	athletics	Yankee Small College Conference
+Youngstown State University	athletics	Division I (NCAA)
+State University of New York at Plattsburgh	athletics	National Collegiate Athletic Association
+State University of New York at Plattsburgh	athletics	State University of New York Athletic Conference
+State University of New York at Plattsburgh	athletics	Eastern College Athletic Conference
+DePaul University	athletics	National Collegiate Athletic Association
+Bethune-Cookman University	athletics	National Collegiate Athletic Association
+New York City College of Technology	athletics	Yellowjacket
+Texas Southern University	athletics	National Collegiate Athletic Association
+California State University, Fresno	athletics	National Collegiate Athletic Association
+California State University, Fresno	athletics	Fresno State Bulldogs
+Marshall University	athletics	National Collegiate Athletic Association
+State University of New York at Canton	athletics	United States Collegiate Athletic Association
+Paul Smith's College	athletics	Yankee Small College Conference
+State University of New York at Delhi	athletics	National Junior College Athletic Association
+South Carolina State University	athletics	National Collegiate Athletic Association
+Southern Oregon University	athletics	National Association of Intercollegiate Athletics
+Southern Oregon University	athletics	Cascade Collegiate Conference
+Duquesne University	athletics	National Collegiate Athletic Association
+Hartwick College	athletics	Division I (NCAA)
+Hartwick College	athletics	Division I (NCAA)
+Cumberland University	athletics	National Association of Intercollegiate Athletics
+Cumberland University	athletics	Mid-South Conference
+Virginia State University	athletics	National Collegiate Athletic Association
+University of St. Thomas (Minnesota)	athletics	National Collegiate Athletic Association
+University of West Georgia	athletics	National Collegiate Athletic Association
+Shaw University	athletics	National Collegiate Athletic Association
+University of Alaska Southeast	athletics	Intramural sports
+University of Montana – Missoula	athletics	NCAA Division I Football Championship
+University of Montana – Missoula	athletics	Big Sky Conference
+Virginia Intermont College	athletics	National Association of Intercollegiate Athletics
+Northern Arizona University	athletics	Division I (NCAA)
+Northern Arizona University	athletics	Big Sky Conference
+Northern Arizona University	athletics	Western Athletic Conference
+St. Cloud State University	athletics	Northern Sun Intercollegiate Conference
+St. Cloud State University	athletics	College ice hockey
+Norfolk State University	athletics	National Collegiate Athletic Association
+University of Louisiana at Lafayette	athletics	Louisiana's Ragin' Cajuns
+California State University, Sacramento	athletics	National Collegiate Athletic Association
+Virginia Union University	athletics	National Collegiate Athletic Association
+Lane College	athletics	National Collegiate Athletic Association
+Webster University	athletics	Division III (NCAA)
+Franciscan University of Steubenville	athletics	Division III (NCAA)
+Trinity International University	athletics	National Association of Intercollegiate Athletics
+Adelphi University	athletics	National Collegiate Athletic Association
+Valdosta State University	athletics	National Collegiate Athletic Association
+Olivet Nazarene University	athletics	National Association of Intercollegiate Athletics
+California State University, Bakersfield	athletics	Division I (NCAA)
+California State University, Channel Islands	athletics	NCCA
+California State University, Channel Islands	athletics	MCLA
+University of the Pacific (United States)	athletics	National Collegiate Athletic Association
+Xavier University of Louisiana	athletics	National Association of Intercollegiate Athletics
+Bridgewater State University	athletics	National Collegiate Athletic Association
+Bridgewater State University	athletics	Massachusetts State College Athletic Conference
+Bridgewater State University	athletics	New England Football Conference
+Oklahoma City University	athletics	National Association of Intercollegiate Athletics
+Oklahoma City University	athletics	Sooner Athletic Conference
+Rochester College	athletics	National Association of Intercollegiate Athletics
+Wake Technical Community College	athletics	National Junior College Athletic Association
+Marquette University	athletics	National Collegiate Athletic Association
+Creighton University	athletics	National Collegiate Athletic Association
+University of the District of Columbia	athletics	National Collegiate Athletic Association
+Washington & Jefferson College	athletics	National Collegiate Athletic Association
+Mercy College (New York)	athletics	National Collegiate Athletic Association
+Clark Atlanta University	athletics	Division II (NCAA)
+Florida Institute of Technology	athletics	Division II (NCAA)
+Florida Institute of Technology	athletics	Sunshine State Conference
+St. Thomas Aquinas College	athletics	East Coast Conference
+St. Thomas Aquinas College	athletics	National Collegiate Athletic Association
+Carroll College (Montana)	athletics	National Association of Intercollegiate Athletics
+Georgia Southern University	athletics	Division I (NCAA)
+Berry College	athletics	Division III (NCAA)
+University of Evansville	athletics	Division I (NCAA)
+University of Evansville	athletics	Evansville Purple Aces
+Knox College (Illinois)	athletics	Division III (NCAA)
+Trevecca Nazarene University	athletics	National Association of Intercollegiate Athletics
+Lee University	athletics	National Association of Intercollegiate Athletics
+Merrimack College	athletics	National Collegiate Athletic Association
+Merrimack College	athletics	Division II (NCAA)
+Lincoln University of Missouri	athletics	National Collegiate Athletic Association
+University of Richmond	athletics	National Collegiate Athletic Association
+University of Richmond	athletics	Atlantic 10 Conference
+Rowan University	athletics	Division III (NCAA)
+Savannah College of Art and Design	athletics	National Association of Intercollegiate Athletics
+Alabama Agricultural and Mechanical University	athletics	National Collegiate Athletic Association
+Florida Atlantic University	athletics	National Collegiate Athletic Association
+Florida Atlantic University	athletics	Sun Belt Conference
+Christopher Newport University	athletics	National Collegiate Athletic Association
+Christopher Newport University	athletics	USA South Athletic Conference
+Saint Joseph's College (Indiana)	athletics	Division II (NCAA)
+Virginia Tech Corps of Cadets	athletics	National Collegiate Athletic Association
+Virginia Tech Corps of Cadets	athletics	Atlantic Coast Conference
+Virginia Tech Corps of Cadets	athletics	Varsity team
+Florida Memorial University	athletics	National Association of Intercollegiate Athletics
+Oregon Institute of Technology	athletics	National Association of Intercollegiate Athletics
+Oregon Institute of Technology	athletics	Cascade Collegiate Conference
+University of South Carolina	athletics	National Collegiate Athletic Association
+Virginia Wesleyan College	athletics	National Collegiate Athletic Association
+Virginia Wesleyan College	athletics	Old Dominion Athletic Conference
+Francis Marion University	athletics	National Collegiate Athletic Association
+Mercer University	athletics	National Collegiate Athletic Association
+Northwest Nazarene University	athletics	National Collegiate Athletic Association
+Western Oregon University	athletics	Division II (NCAA)
+Western Oregon University	athletics	Great Northwest Athletic Conference
+Alabama State University	athletics	National Collegiate Athletic Association
+University of Arkansas at Pine Bluff	athletics	National Collegiate Athletic Association
+Grambling State University	athletics	Division I (NCAA)#Football Championship Subdivision
+Mississippi Valley State University	athletics	National Collegiate Athletic Association
+Southern University	athletics	National Collegiate Athletic Association
+Wofford College	athletics	Division I (NCAA)
+Jacksonville University	athletics	National Collegiate Athletic Association
+Elon University	athletics	Division I (NCAA)
+Hampden–Sydney College	athletics	National Collegiate Athletic Association
+Hampden–Sydney College	athletics	Old Dominion Athletic Conference
+Paul Quinn College	athletics	National Association of Intercollegiate Athletics
+Gordon College (Massachusetts)	athletics	Eastern College Athletic Conference
+Gordon College (Massachusetts)	athletics	National Collegiate Athletic Association
+Centre College	athletics	National Collegiate Athletic Association
+Centre College	athletics	Southern Collegiate Athletic Conference
+Eastern University (United States)	athletics	National Collegiate Athletic Association
+Eastern University (United States)	athletics	MAC Freedom Conference
+Centenary College of Louisiana	athletics	American Southwest Conference
+Saint Xavier University	athletics	National Association of Intercollegiate Athletics
+Southwestern University	athletics	National Collegiate Athletic Association
+Southwestern University	athletics	Southern Collegiate Athletic Conference
+Elmhurst College	athletics	College Conference of Illinois and Wisconsin
+Anna Maria College	athletics	National Collegiate Athletic Association
+University of Arkansas – Fort Smith	athletics	Heartland Conference
+Northwood University	athletics	National Collegiate Athletic Association
+Northwood University	athletics	National Association of Intercollegiate Athletics
+Dallas Baptist University	athletics	National Collegiate Athletic Association
+Dallas Baptist University	athletics	Division II (NCAA)
+Moorpark College	athletics	Western State Conference
+Randolph–Macon College	athletics	National Collegiate Athletic Association
+Randolph–Macon College	athletics	Old Dominion Athletic Conference
+Palm Beach Atlantic University	athletics	Division II (NCAA)
+Davenport University	athletics	Davenport Panthers
+Lancaster Bible College	athletics	National Collegiate Athletic Association
+Lancaster Bible College	athletics	National Christian College Athletic Association
+Lancaster Bible College	athletics	North East Collegiate Volleyball Association
+Pennsylvania State University	athletics	Division I (NCAA)
+Pennsylvania State University	athletics	Big Ten Conference
+Saint Mary's College (Indiana)	athletics	National Collegiate Athletic Association
+Saint Mary's College (Indiana)	athletics	Division III (NCAA)
+Stillman College	athletics	National Collegiate Athletic Association
+Bluefield State College	athletics	National Collegiate Athletic Association
+West Virginia State University	athletics	National Collegiate Athletic Association
+Davis & Elkins College	athletics	National Collegiate Athletic Association
+Rose State College	athletics	National Junior College Athletic Association
+Dean College	athletics	Division I National Junior College Athletic Association
+Southern Virginia University	athletics	United States Collegiate Athletic Association
+Eastern Mennonite University	athletics	National Collegiate Athletic Association
+Eastern Mennonite University	athletics	Old Dominion Athletic Conference
+Eastern Mennonite University	athletics	Association football
+Eastern Mennonite University	athletics	Volleyball
+Eastern Mennonite University	athletics	Softball
+Sweet Briar College	athletics	National Collegiate Athletic Association
+Sweet Briar College	athletics	Old Dominion Athletic Conference
+Widener University	athletics	Division III (NCAA)
+Hampton University	athletics	National Collegiate Athletic Association
+High Point University	athletics	National Collegiate Athletic Association
+Augusta State University	athletics	National Collegiate Athletic Association
+Florida Gulf Coast University	athletics	National Collegiate Athletic Association
+Florida Gulf Coast University	athletics	Atlantic Sun Conference
+Baldwin–Wallace College	athletics	Baldwin–Wallace Yellow Jackets
+Coastal Carolina University	athletics	National Collegiate Athletic Association
+Indiana Wesleyan University	athletics	National Association of Intercollegiate Athletics
+Indiana Wesleyan University	athletics	National Christian College Athletic Association
+Trine University	athletics	National Collegiate Athletic Association
+Trine University	athletics	Michigan Intercollegiate Athletic Association
+Edinboro University of Pennsylvania	athletics	Division II (NCAA)
+California Baptist University	athletics	National Collegiate Athletic Association
+St. Thomas University (Florida)	athletics	National Association of Intercollegiate Athletics
+Delgado Community College	athletics	National Junior College Athletic Association
+Tusculum College	athletics	National Collegiate Athletic Association
+Tusculum College	athletics	South Atlantic Conference
+Bryan College	athletics	National Association of Intercollegiate Athletics
+Nova Southeastern University	athletics	National Collegiate Athletic Association
+Texas Wesleyan University	athletics	National Association of Intercollegiate Athletics
+Texas Wesleyan University	athletics	Red River Athletic Conference
+University of Nebraska at Omaha	athletics	National Collegiate Athletic Association
+Fort Valley State University	athletics	National Collegiate Athletic Association
+County College of Morris	athletics	Garden State Athletic Conference
+County College of Morris	athletics	National Junior College Athletic Association
+Bluefield College	athletics	National Association of Intercollegiate Athletics
+Illinois College	athletics	Division III (NCAA)
+Korea University	athletics	Association football
+Korea University	athletics	Rugby football
+Korea University	athletics	Baseball
+Korea University	athletics	Basketball
+Korea University	athletics	Ice hockey
+H. Sophie Newcomb Memorial College	athletics	National Collegiate Athletic Association
+Seminole State College of Florida	athletics	National Junior College Athletic Association
+Ohio Dominican University	athletics	Division II (NCAA)
+Ohio Dominican University	athletics	Great Lakes Intercollegiate Athletic Conference
+Armstrong Atlantic State University	athletics	Division II (NCAA)
+Umpqua Community College	athletics	Northwest Athletic Association of Community Colleges
+Nyack College	athletics	National Collegiate Athletic Association
+Charleston Southern University	athletics	National Collegiate Athletic Association
+Pontifical North American College	athletics	Clericus Cup
+Kentucky State University	athletics	National Collegiate Athletic Association
+Huntingdon College	athletics	National Collegiate Athletic Association
+Chandler–Gilbert Community College	athletics	Basketball
+Chandler–Gilbert Community College	athletics	Association football
+Chandler–Gilbert Community College	athletics	Baseball
+Chandler–Gilbert Community College	athletics	Golf
+Chandler–Gilbert Community College	athletics	Volleyball
+Andrews University	athletics	United States Collegiate Athletic Association
+Capilano University	athletics	Canadian Collegiate Athletic Association
+Universidad Autónoma de Guadalajara	athletics	CONCACAF
+University of Houston–Victoria	athletics	National Association of Intercollegiate Athletics
+Southern Nazarene University	athletics	National Association of Intercollegiate Athletics
+MidAmerica Nazarene University	athletics	National Association of Intercollegiate Athletics
+Mount Vernon Nazarene University	athletics	National Association of Intercollegiate Athletics
+Mount Vernon Nazarene University	athletics	National Christian College Athletic Association
+Norwich University	athletics	National Collegiate Athletic Association
+Norwich University	athletics	Great Northeast Athletic Conference
+Roosevelt University	athletics	National Association of Intercollegiate Athletics
+Benedict College	athletics	National Collegiate Athletic Association
+Claflin University	athletics	National Collegiate Athletic Association
+Campbell University	athletics	National Collegiate Athletic Association
+Wingate University	athletics	Division II (NCAA)
+Academy of Art University	athletics	Association football
+Academy of Art University	athletics	Volleyball
+Academy of Art University	athletics	Basketball
+Academy of Art University	athletics	Baseball
+Academy of Art University	athletics	Softball
+Academy of Art University	athletics	Golf
+Academy of Art University	athletics	Tennis
+Gardner–Webb University	athletics	Division I (NCAA)
+Gardner–Webb University	athletics	Big South Conference
+Piedmont College	athletics	National Collegiate Athletic Association
+Piedmont College	athletics	Great South Athletic Conference
+Saint Paul's College, Virginia	athletics	National Collegiate Athletic Association
+Ferrum College	athletics	National Collegiate Athletic Association
+Ferrum College	athletics	USA South Athletic Conference
+University of Great Falls	athletics	National Association of Intercollegiate Athletics
+Eastern Oregon University	athletics	National Association of Intercollegiate Athletics
+Eastern Oregon University	athletics	Cascade Collegiate Conference
+Hardin–Simmons University	athletics	National Collegiate Athletic Association
+Miles College	athletics	National Collegiate Athletic Association
+Stonehill College	athletics	National Collegiate Athletic Association
+Shorter University	athletics	National Association of Intercollegiate Athletics
+Tougaloo College	athletics	National Association of Intercollegiate Athletics
+Rock Valley College	athletics	Illinois N4C Conference
+Rock Valley College	athletics	National Junior College Athletic Association
+Point Loma Nazarene University	athletics	National Association of Intercollegiate Athletics
+University of Wisconsin–La Crosse	athletics	National Collegiate Athletic Association
+University of Wisconsin–La Crosse	athletics	Varsity team
+University of West Alabama	athletics	National Collegiate Athletic Association
+University of West Alabama	athletics	Gulf South Conference
+Prairie View A&M University	athletics	National Collegiate Athletic Association
+Huntington University (United States)	athletics	National Association of Intercollegiate Athletics
+North Carolina Wesleyan College	athletics	National Collegiate Athletic Association
+North Carolina Wesleyan College	athletics	USA South Athletic Conference
+Western New England University	athletics	National Collegiate Athletic Association
+Holy Cross College (Indiana)	athletics	National Association of Intercollegiate Athletics
+St. Francis College	athletics	National Collegiate Athletic Association
+Endicott College	athletics	National Collegiate Athletic Association
+Johnson C. Smith University	athletics	National Collegiate Athletic Association
+Johnson C. Smith University	athletics	Division II (NCAA)
+West Visayas State University	athletics	SCUAA
+West Visayas State University	athletics	ISSAA
+College of The Albemarle	athletics	Baseball
+College of The Albemarle	athletics	Softball
+Central Methodist University	athletics	Heart of America Athletic Conference
+Stephens College	athletics	National Association of Intercollegiate Athletics
+Carl Albert State College	athletics	National Junior College Athletic Association
+Georgia Southwestern State University	athletics	Peach Belt Conference
+University of Pittsburgh at Bradford	athletics	National Collegiate Athletic Association
+University of Pittsburgh at Bradford	athletics	Allegheny Mountain Collegiate Conference
+Allen University	athletics	National Association of Intercollegiate Athletics
+St. Louis College of Pharmacy	athletics	National Association of Intercollegiate Athletics
+St. Louis College of Pharmacy	athletics	Kentucky Intercollegiate Athletic Conference
+New Mexico Highlands University	athletics	Division II (NCAA)
+New Mexico Highlands University	athletics	Rocky Mountain Athletic Conference
+University of Pittsburgh at Greensburg	athletics	National Collegiate Athletic Association
+University of Pittsburgh at Greensburg	athletics	Allegheny Mountain Collegiate Conference
+University of the Virgin Islands	athletics	National Collegiate Athletic Association
+Edward Waters College	athletics	National Association of Intercollegiate Athletics
+Mid-America Christian University	athletics	National Association of Intercollegiate Athletics
+Lesley University	athletics	Division III (NCAA)
+Lesley University	athletics	New England Collegiate Conference
+Grace College	athletics	National Association of Intercollegiate Athletics
+University of Virginia's College at Wise	athletics	National Association of Intercollegiate Athletics
+University of Virginia's College at Wise	athletics	Mid-South Conference
+Daytona State College	athletics	National Junior College Athletic Association
+Concordia University (California)	athletics	National Association of Intercollegiate Athletics
+Southern University at New Orleans	athletics	National Association of Intercollegiate Athletics
+San Diego Christian College	athletics	National Association of Intercollegiate Athletics
+Livingstone College	athletics	National Collegiate Athletic Association
+Millersville University of Pennsylvania	athletics	Division II (NCAA)
+Millersville University of Pennsylvania	athletics	Pennsylvania State Athletic Conference
+Ave Maria University	athletics	National Association of Intercollegiate Athletics
+Saint Joseph College (Connecticut)	athletics	National Collegiate Athletic Association
+University of South Florida	athletics	Division I (NCAA)
+University of South Florida	athletics	Big East Conference
+Texas College	athletics	National Association of Intercollegiate Athletics
+Spoon River College	athletics	Mid-West Athletic Conference
+Spoon River College	athletics	National Junior College Athletic Association
+Cincinnati Christian University	athletics	National Association of Intercollegiate Athletics
+Cincinnati Christian University	athletics	Kentucky Intercollegiate Athletic Conference
+University of Pittsburgh at Johnstown	athletics	National Collegiate Athletic Association
+University of Pittsburgh at Johnstown	athletics	West Virginia Intercollegiate Athletic Conference
+Albertus Magnus College	athletics	National Collegiate Athletic Association
+Albany State University	athletics	Division II (NCAA)
+Prince George's Community College	athletics	National Junior College Athletic Association
+William Woods University	athletics	National Association of Intercollegiate Athletics
+St. Johns River State College	athletics	National Junior College Athletic Association
+St. Johns River State College	athletics	Baseball
+St. Johns River State College	athletics	Basketball
+St. Johns River State College	athletics	Softball
+St. Johns River State College	athletics	Volleyball
+Missouri Baptist University	athletics	National Association of Intercollegiate Athletics
+École nationale de cirque	athletics	Dance
+École nationale de cirque	athletics	Acrobatics
+Lasell College	athletics	Eastern College Athletic Conference
+Lasell College	athletics	National Collegiate Athletic Association
+Lasell College	athletics	Great Northeast Athletic Conference
+Barclay College	athletics	Midwest Christian College Conference
+Colorado Christian University	athletics	National Collegiate Athletic Association
+Lees–McRae College	athletics	National Collegiate Athletic Association
+Southern New Hampshire University	athletics	Division II (NCAA)
+Lake Erie College	athletics	National Collegiate Athletic Association
+Elms College	athletics	National Collegiate Athletic Association
+Malone University	athletics	National Association of Intercollegiate Athletics
+Malone University	athletics	Division II (NCAA)
+Don Bosco Technical College	athletics	Don Bosco Grey Wolves
+Murray State College	athletics	National Junior College Athletic Association
+Moraine Valley Community College	athletics	Basketball
+Moraine Valley Community College	athletics	Baseball
+Moraine Valley Community College	athletics	Softball
+Moraine Valley Community College	athletics	Association football
+Moraine Valley Community College	athletics	Golf
+Moraine Valley Community College	athletics	Tennis
+Moraine Valley Community College	athletics	Cross country running
+Centro Universitario Anglo Mexicano	athletics	Cheerleading
+Centro Universitario Anglo Mexicano	athletics	Association football
+Centro Universitario Anglo Mexicano	athletics	Basketball
+Centro Universitario Anglo Mexicano	athletics	Volleyball
+Centro Universitario Anglo Mexicano	athletics	Taekwondo
+Centro Universitario Anglo Mexicano	athletics	College football
+University of Belize	athletics	University of Belize
+San Sebastian College–Recoletos de Cavite	athletics	National Athletic Association of Schools, Colleges and Universities
+San Sebastian College–Recoletos de Cavite	athletics	National Collegiate Athletic Association
+Valley Christian School	athletics	American football
+Valley Christian School	athletics	Volleyball
+Valley Christian School	athletics	Basketball
+Valley Christian School	athletics	Track and field
+Valley Christian School	athletics	Cross country running
+Valley Christian School	athletics	Baseball
+Valley Christian School	athletics	Tennis
+Valley Christian School	athletics	Swimming (sport)
+Valley Christian School	athletics	Cheering
+Morris College	athletics	National Association of Intercollegiate Athletics
+College of Southern Maryland	athletics	National Junior College Athletic Association
+Colegio San Agustin–Bacolod	athletics	Negros Occidental Private Schools Sports Cultural Educational Association
+University of South Carolina Sumter	athletics	National Junior College Athletic Association
+Sakarya University	athletics	W:tr:Türkiye Beyzbol ve Softbol Federasyonu
+Sakarya University	athletics	American football
+University of Montana Western	athletics	Frontier Conference
+University of Montana Western	athletics	National Association of Intercollegiate Athletics
+Missouri Valley College	athletics	Heart of America Athletic Conference
+University of Pittsburgh at Titusville	athletics	United States Collegiate Athletic Association
+Macdonald Campus	athletics	McGill Redmen
+Macdonald Campus	athletics	Canadian Interuniversity Sport
+New York University	athletics	National Collegiate Athletic Association
+Cornell University	athletics	National Collegiate Athletic Association
+McGill University Faculty of Religious Studies	athletics	McGill Redmen
+McGill University Faculty of Religious Studies	athletics	McGill Martlets
+Université de Montréal	athletics	Montreal Carabins
+University of Toronto	athletics	Canadian Interuniversity Sport
+University of Toronto	athletics	Ontario University Athletics
+University of Toronto	athletics	Canadian University Field Lacrosse Association
+University of Negros Occidental – Recoletos	athletics	Negros Occidental Private Schools Sports Cultural Educational Association
+Randolph College	athletics	National Collegiate Athletic Association
+Randolph College	athletics	Old Dominion Athletic Conference
+Arellano University	athletics	National Collegiate Athletic Association (Philippines)
+Wilmington University	athletics	Division II (NCAA)
+Wilmington University	athletics	Central Atlantic Collegiate Conference
+Bay Ridge Christian College	athletics	Association of Christian College Athletics
+Spokane Falls Community College	athletics	National Junior College Athletic Association
+Savannah State University	athletics	Division I (NCAA)
+Unity College (Maine)	athletics	United States Collegiate Athletic Association
+Bulacan State University	athletics	State Colleges and Universities Athletic Association
+Bulacan State University	athletics	Women's National Collegiate Athletic Association (Philippines)
+Parkwood School International	athletics	Basketball
+Parkwood School International	athletics	Association football
+Parkwood School International	athletics	Tennis
+Parkwood School International	athletics	Cricket
+Parkwood School International	athletics	Swimming (sport)
+Parkwood School International	athletics	Throwball
+Parkwood School International	athletics	Jogging
+Parkwood School International	athletics	Table tennis
+Parkwood School International	athletics	Kabaddi
+Kennesaw State University	athletics	National Collegiate Athletic Association
+Dominican College (New York)	athletics	Division II (NCAA)
+Patten University	athletics	National Association of Intercollegiate Athletics
+Clarendon College (Texas)	athletics	Volleyball
+Clarendon College (Texas)	athletics	Basketball
+Clarendon College (Texas)	athletics	Softball
+Clarendon College (Texas)	athletics	Rodeo
+Clarendon College (Texas)	athletics	Cheerleading
+Clarendon College (Texas)	athletics	Horse show
+Clarendon College (Texas)	athletics	Baseball
+Clarendon College (Texas)	athletics	No football
+University of South Carolina Salkehatchie	athletics	National Junior College Athletic Association
+University of South Carolina Lancaster	athletics	National Junior College Athletic Association
+Ohio Christian University	athletics	National Christian College Athletic Association
+Davidson County Community College	athletics	National Junior College Athletic Association
+The Waring School	athletics	Association football
+The Waring School	athletics	Basketball
+The Waring School	athletics	Lacrosse
+The Waring School	athletics	Association football
+The Waring School	athletics	Basketball
+The Waring School	athletics	Lacrosse
+West Negros University	athletics	Negros Occidental Private Schools Sports Cultural Educational Association
+Pace University	athletics	Varsity team
+Riverside College, Inc.	athletics	Negros Occidental Private Schools Sports Cultural Educational Association
+VMA Global College	athletics	Negros Occidental Private Schools Sports Cultural Educational Association
+John B. Lacson Colleges Foundation – Bacolod, Inc.	athletics	Negros Occidental Private Schools Sports Cultural Educational Association
+Carlos Hilado Memorial State College	athletics	Negros Occidental Private Schools Sports Cultural Educational Association
+Embry–Riddle Aeronautical University, Daytona Beach	athletics	National Association of Intercollegiate Athletics
+Harvard University	athletics	Ivy League
+Harvard University	athletics	National Collegiate Athletic Association
+Connors State College	athletics	National Junior College Athletic Association
+Patrick County High School	athletics	Virginia High School League
+University of Maryland, College Park	athletics	National Collegiate Athletic Association
+Portland Bible College	athletics	Association of Christian College Athletics
+Hangzhou International School	athletics	Association of China and Mongolia International Schools
+Clemson University Graduate School	athletics	National Collegiate Athletic Association
+Gadsden State Community College	athletics	Alabama Community College Conference
+Multan Public School and College	athletics	MPS Football Team
+Abilene Christian University	athletics	National Collegiate Athletic Association
+Cecil College	athletics	National Junior College Athletic Association
+Universidad Intercontinental	athletics	Wild
+Rend Lake College	athletics	Great Rivers Athletic Conference
+Rend Lake College	athletics	National Junior College Athletic Association
+Lindenwood University – Belleville	athletics	United States Collegiate Athletic Association
+John Wood Community College	athletics	Mid-West Athletic Conference
+John Wood Community College	athletics	National Junior College Athletic Association
+Shawnee Community College	athletics	Midwest Community College Athletic Conference
+Shawnee Community College	athletics	National Junior College Athletic Association
+University of Missouri	athletics	National Collegiate Athletic Association
+University of Missouri	athletics	Big 12 Conference
+PATTS College of Aeronautics	athletics	Basketball
+PATTS College of Aeronautics	athletics	Taekwondo
+PATTS College of Aeronautics	athletics	Volleyball
+Northern Iloilo Polytechnic State College	athletics	SCUAA
+Northern Iloilo Polytechnic State College	athletics	ISSAA
+University of Cambridge	athletics	Blue (university sport)
+Universidad Anáhuac Cancún	athletics	Organizacion Nacional Estudiantil de Futbol Americano
+Jamiatu Muslim Mindanao	athletics	Association football
+Jamiatu Muslim Mindanao	athletics	Basketball
+Jamiatu Muslim Mindanao	athletics	Volleyball
+Jamiatu Muslim Mindanao	athletics	Baseball
+Jamiatu Muslim Mindanao	athletics	Badminton
+Jamiatu Muslim Mindanao	athletics	Chess
+Hanyang Women's University	athletics	Women's association football
+Valor Christian College	athletics	United States Collegiate Athletic Association
+WVSU in Janiuay	athletics	SCUAA
+WVSU in Calinog	athletics	SCUAA
+WVSU in Pototan	athletics	SCUAA
+Campus of the University of Montana	athletics	NCAA Division I Football Championship
+Campus of the University of Montana	athletics	Big Sky Conference
+Presidents of the University of Montana	athletics	NCAA Division I Football Championship
+Presidents of the University of Montana	athletics	Big Sky Conference
+National Polytechnic Institute	athletics	Águilas Blancas
+National Polytechnic Institute	athletics	ONEFA
+University of San Francisco	athletics	National Collegiate Athletic Association
+University of San Francisco	athletics	West Coast Conference
+Campuses of Arellano University	athletics	Arellano Chiefs
+Campuses of Arellano University  , Pasay   1	athletics	Arellano Chiefs
+Campuses of Arellano University  , Malabon   1	athletics	Arellano Chiefs
+Campuses of Arellano University  , Mandaluyong   1	athletics	Arellano Chiefs

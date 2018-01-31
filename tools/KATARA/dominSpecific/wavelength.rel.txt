@@ -1,0 +1,13 @@
+Blue	wavelength	4.4E-7
+Cyan	wavelength	4.9E-7
+Green	wavelength	5.2E-7
+Indigo	wavelength	4.2E-7
+Red	wavelength	6.2E-7
+Yellow	wavelength	5.7E-7
+Violet (color)	wavelength	3.8E-7
+Orange (colour)	wavelength	5.9E-7
+Variations of orange	wavelength	5.85E-7
+Variations of green	wavelength	5.2E-7
+Variations of red	wavelength	6.3E-7
+Variations of yellow	wavelength	5.7E-7
+Variations of blue	wavelength	4.4E-7

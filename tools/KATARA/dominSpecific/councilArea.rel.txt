@@ -1,0 +1,1893 @@
+Aberdeen	councilArea	Politics of Aberdeen
+Aberfoyle, Stirling	councilArea	Stirling (council area)
+Aberdour	councilArea	Fife
+Alexandria, West Dunbartonshire	councilArea	West Dunbartonshire
+Achduart	councilArea	Highland (council area)
+Achiltibuie	councilArea	Highland (council area)
+Dundee	councilArea	Politics of Dundee
+Fort William, Scotland	councilArea	Highland (council area)
+Hawick	councilArea	Scottish Borders
+Back of Keppoch	councilArea	Highland (council area)
+Cardonald	councilArea	Politics of Glasgow
+Perth, Scotland	councilArea	Perth and Kinross
+Airdrie, North Lanarkshire	councilArea	North Lanarkshire
+Stirling	councilArea	Stirling (council area)
+Glasgow	councilArea	Politics of Glasgow
+Arbroath	councilArea	Angus
+Milngavie	councilArea	East Dunbartonshire
+Hamilton, South Lanarkshire	councilArea	South Lanarkshire
+Millport, Isle of Cumbrae	councilArea	North Ayrshire
+Kirkwall	councilArea	Orkney
+Fort Augustus	councilArea	Highland (council area)
+Stromness	councilArea	Orkney
+Dumfries	councilArea	Dumfries and Galloway
+Ruthwell	councilArea	Dumfries and Galloway
+Wigtown	councilArea	Dumfries and Galloway
+Sanquhar	councilArea	Dumfries and Galloway
+Ecclefechan	councilArea	Dumfries and Galloway
+Gretna Green	councilArea	Dumfries and Galloway
+Stranraer	councilArea	Dumfries and Galloway
+Kirkcudbright	councilArea	Dumfries and Galloway
+Castle Douglas	councilArea	Dumfries and Galloway
+Harris, Outer Hebrides	councilArea	Outer Hebrides
+Lewis	councilArea	Outer Hebrides
+Leith	councilArea	Edinburgh
+Inverness	councilArea	Highland (council area)
+Newport-on-Tay	councilArea	Fife
+North Queensferry	councilArea	Fife
+Glencoe, Highland	councilArea	Highland (council area)
+Stonehaven	councilArea	Aberdeenshire
+Dalgety Bay	councilArea	Fife
+Cromarty	councilArea	Highland (council area)
+Innerleithen	councilArea	Scottish Borders
+Ayr	councilArea	South Ayrshire
+Fraserburgh	councilArea	Aberdeenshire
+Dunbar	councilArea	East Lothian
+Dunfermline	councilArea	Fife
+Bishopbriggs	councilArea	East Dunbartonshire
+Maryhill	councilArea	Politics of Glasgow
+Brodick	councilArea	North Ayrshire
+Dunoon	councilArea	Argyll and Bute
+Partick	councilArea	Politics of Glasgow
+Govan	councilArea	Politics of Glasgow
+Jordanhill	councilArea	Politics of Glasgow
+Bannockburn	councilArea	Stirling (council area)
+Gorbals	councilArea	Politics of Glasgow
+South Queensferry	councilArea	Edinburgh
+Forfar	councilArea	Angus
+Livingston, Scotland	councilArea	West Lothian
+Rutherglen	councilArea	South Lanarkshire
+Montrose, Angus	councilArea	Angus
+Lanark	councilArea	South Lanarkshire
+Linwood, Renfrewshire	councilArea	Renfrewshire
+Skelmorlie	councilArea	North Ayrshire
+Riddrie	councilArea	Glasgow
+Lamlash	councilArea	North Ayrshire
+Elgin, Moray	councilArea	Moray
+Plockton	councilArea	Highland (council area)
+Gairloch	councilArea	Highland (council area)
+Paisley	councilArea	Renfrewshire
+Melrose, Scotland	councilArea	Scottish Borders
+East Kilbride	councilArea	South Lanarkshire
+Cambuslang	councilArea	South Lanarkshire
+Lerwick	councilArea	Shetland
+Knoydart	councilArea	Highland (council area)
+Crieff	councilArea	Perth and Kinross
+Lochranza	councilArea	North Ayrshire
+Kinlochleven	councilArea	Highland (council area)
+Irvine, North Ayrshire	councilArea	North Ayrshire
+Motherwell	councilArea	North Lanarkshire
+Greenock	councilArea	Inverclyde
+Thurso	councilArea	Highland (council area)
+Dornoch	councilArea	Highland (council area)
+Ullapool	councilArea	Highland (council area)
+St Andrews	councilArea	Fife
+Falkirk	councilArea	Falkirk (council area)
+Kilmarnock	councilArea	East Ayrshire
+Kirkcaldy	councilArea	Fife
+Bo'ness	councilArea	Falkirk (council area)
+Portree	councilArea	Highland (council area)
+Dumbarton	councilArea	West Dunbartonshire
+Helensburgh	councilArea	Argyll and Bute
+Camperdown, Dundee	councilArea	Dundee
+Broughty Ferry	councilArea	Dundee
+Dunblane	councilArea	Stirling (council area)
+Rothesay, Bute	councilArea	Argyll and Bute
+Alloa	councilArea	Clackmannanshire
+Auchterarder	councilArea	Perth and Kinross
+Armadale, Isle of Skye	councilArea	Highland (council area)
+Dalkeith	councilArea	Midlothian
+Dingwall	councilArea	Highland (council area)
+Dufftown	councilArea	Moray
+Lochboisdale	councilArea	Outer Hebrides
+Daliburgh	councilArea	Outer Hebrides
+Broxburn, West Lothian	councilArea	West Lothian
+Cupar	councilArea	Fife
+Eyemouth	councilArea	Scottish Borders
+Forres	councilArea	Moray
+Tobermory, Mull	councilArea	Argyll and Bute
+Jedburgh	councilArea	Scottish Borders
+Lauder	councilArea	Scottish Borders
+Largs	councilArea	North Ayrshire
+Lochgilphead	councilArea	Argyll and Bute
+Nairn	councilArea	Highland (council area)
+North Berwick	councilArea	East Lothian
+Peebles	councilArea	Scottish Borders
+Pitlochry	councilArea	Perth and Kinross
+Tain	councilArea	Highland (council area)
+Whithorn	councilArea	Dumfries and Galloway
+Selkirk, Scottish Borders	councilArea	Scottish Borders
+Isle of Whithorn	councilArea	Dumfries and Galloway
+Lossiemouth	councilArea	Moray
+Halkirk	councilArea	Highland (council area)
+Pollok	councilArea	Glasgow
+Galashiels	councilArea	Scottish Borders
+Crail	councilArea	Fife
+Campbeltown	councilArea	Argyll and Bute
+Girvan	councilArea	South Ayrshire
+Gourock	councilArea	Inverclyde
+Grantown-on-Spey	councilArea	Highland (council area)
+Kinross	councilArea	Perth and Kinross
+Kinghorn	councilArea	Fife
+Kirriemuir	councilArea	Angus
+Newton Stewart	councilArea	Dumfries and Galloway
+Portsoy	councilArea	Aberdeenshire
+Port Glasgow	councilArea	Inverclyde
+Callander	councilArea	Stirling (council area)
+Coldstream	councilArea	Scottish Borders
+Cumnock	councilArea	East Ayrshire
+Culross	councilArea	Fife
+Fortrose	councilArea	Highland (council area)
+Duns	councilArea	Scottish Borders
+Grangemouth	councilArea	Falkirk (council area)
+Langholm	councilArea	Dumfries and Galloway
+Kingussie	councilArea	Highland (council area)
+Inverurie	councilArea	Aberdeenshire
+Inveraray	councilArea	Argyll and Bute
+Inverkeithing	councilArea	Fife
+Burntisland	councilArea	Fife
+Brechin	councilArea	Angus
+Burghead	councilArea	Moray
+Banchory	councilArea	Aberdeenshire
+Ballater	councilArea	Aberdeenshire
+Biggar, South Lanarkshire	councilArea	South Lanarkshire
+New Lanark	councilArea	South Lanarkshire
+Clydebank	councilArea	West Dunbartonshire
+Bearsden	councilArea	East Dunbartonshire
+Bridge of Weir	councilArea	Renfrewshire
+Scotstoun	councilArea	Politics of Glasgow
+Callanish	councilArea	Outer Hebrides
+Blantyre, South Lanarkshire	councilArea	South Lanarkshire
+Blairgowrie and Rattray	councilArea	Perth and Kinross
+Coatbridge	councilArea	North Lanarkshire
+Gretna, Scotland	councilArea	Dumfries and Galloway
+Mull of Kintyre	councilArea	Argyll and Bute
+Cowdenbeath	councilArea	Fife
+Troon	councilArea	South Ayrshire
+Durness	councilArea	Highland (council area)
+Mallaig	councilArea	Highland (council area)
+Beith	councilArea	North Ayrshire
+Cathcart	councilArea	Politics of Glasgow
+Saltcoats	councilArea	North Ayrshire
+Kilcreggan	councilArea	Argyll and Bute
+Tongue, Highland	councilArea	Highland (council area)
+Stornoway	councilArea	Outer Hebrides
+Kilchoan	councilArea	Highland (council area)
+Helmsdale	councilArea	Highland (council area)
+Methil, Fife	councilArea	Fife
+Knightswood	councilArea	Glasgow
+Kilsyth	councilArea	North Lanarkshire
+Rosyth	councilArea	Fife
+Kelvinbridge	councilArea	Politics of Glasgow
+Alloway	councilArea	South Ayrshire
+Roxburgh	councilArea	Scottish Borders
+Lochwinnoch	councilArea	Renfrewshire
+Ralston, Renfrewshire	councilArea	Renfrewshire
+Elderslie	councilArea	Renfrewshire
+Erskine	councilArea	Renfrewshire
+Barrhead	councilArea	East Renfrewshire
+Prestwick	councilArea	South Ayrshire
+Ibrox, Glasgow	councilArea	Politics of Glasgow
+Baillieston	councilArea	Glasgow
+Newton Mearns	councilArea	East Renfrewshire
+Glenrothes	councilArea	Fife
+Summer Isles	councilArea	Highland (council area)
+Port Ellen	councilArea	Argyll and Bute
+Larkhall	councilArea	South Lanarkshire
+Newmilns	councilArea	East Ayrshire
+Lagavulin	councilArea	Argyll and Bute
+Mount Vernon, Glasgow	councilArea	Politics of Glasgow
+Lochans	councilArea	Dumfries and Galloway
+Kirkintilloch	councilArea	East Dunbartonshire
+Blair Atholl	councilArea	Perth and Kinross
+Giffnock	councilArea	East Renfrewshire
+Cults, Aberdeenshire	councilArea	Aberdeen
+Ballachulish	councilArea	Highland (council area)
+Westhill, Aberdeenshire	councilArea	Aberdeenshire
+Arrochar, Argyll and Bute	councilArea	Argyll and Bute
+Buckie	councilArea	Moray
+Bothwell	councilArea	South Lanarkshire
+Friockheim	councilArea	Angus
+Rosehearty	councilArea	Aberdeenshire
+Stenhousemuir	councilArea	Falkirk (council area)
+Braemar	councilArea	Aberdeenshire
+Dyce	councilArea	Aberdeen
+Glen Coe  Glencoe   1	councilArea	Highland (council area)
+Glenfinnan	councilArea	Highland (council area)
+Castlemilk	councilArea	Politics of Glasgow
+Kilwinning	councilArea	North Ayrshire
+Cramond	councilArea	Politics of Edinburgh
+Mull of Galloway	councilArea	Dumfries and Galloway
+Carnoustie	councilArea	Angus
+Kelvindale	councilArea	Politics of Glasgow
+Kyle of Lochalsh	councilArea	Highland (council area)
+Lochcarron	councilArea	Highland (council area)
+Kinlochbervie	councilArea	Highland (council area)
+Findochty	councilArea	Moray
+Pollokshields	councilArea	Glasgow
+Strathaven	councilArea	South Lanarkshire
+Ceres, Fife	councilArea	Fife
+Peterculter	councilArea	Aberdeen
+Yoker	councilArea	Politics of Glasgow
+Hillhead	councilArea	Politics of Glasgow
+Murlagan	councilArea	Highland (council area)
+Cowcaddens	councilArea	Politics of Glasgow
+Townhead	councilArea	Politics of Glasgow
+Pittenweem	councilArea	Fife
+Johnstone	councilArea	Renfrewshire
+Ardrossan	councilArea	North Ayrshire
+Wishaw	councilArea	North Lanarkshire
+Badachro	councilArea	Highland (council area)
+Ellon, Aberdeenshire	councilArea	Aberdeenshire
+Polmont	councilArea	Falkirk (council area)
+Fochabers	councilArea	Moray
+Kilbarchan	councilArea	Renfrewshire
+Houston, Renfrewshire	councilArea	Renfrewshire
+Crosslee	councilArea	Renfrewshire
+Howwood, Renfrewshire	councilArea	Renfrewshire
+Bishopton, Renfrewshire	councilArea	Renfrewshire
+Shettleston	councilArea	Politics of Glasgow
+Aboyne	councilArea	Aberdeenshire
+Woodlands, Glasgow	councilArea	Politics of Glasgow
+Calgary, Mull	councilArea	Argyll and Bute
+Hyndland	councilArea	Politics of Glasgow
+Garnethill	councilArea	Politics of Glasgow
+Summerston	councilArea	Politics of Glasgow
+Wemyss Bay	councilArea	Inverclyde
+Blyth Bridge	councilArea	Scottish Borders
+Anderston	councilArea	Politics of Glasgow
+North Kelvinside	councilArea	Politics of Glasgow
+Dysart, Fife	councilArea	Fife
+Aberchirder	councilArea	Aberdeenshire
+Aberlour	councilArea	Moray
+Abernethy, Perth and Kinross	councilArea	Perth and Kinross
+Airth	councilArea	Falkirk (council area)
+Alyth	councilArea	Perth and Kinross
+Auchtermuchty	councilArea	Fife
+Bathgate	councilArea	West Lothian
+Bellshill	councilArea	North Lanarkshire
+Bonnyrigg	councilArea	Midlothian
+Carluke	councilArea	South Lanarkshire
+Cockenzie and Port Seton	councilArea	East Lothian
+Musselburgh	councilArea	East Lothian
+Coupar Angus	councilArea	Perth and Kinross
+Cullen, Moray	councilArea	Moray
+Dalbeattie	councilArea	Dumfries and Galloway
+Denny, Falkirk	councilArea	Falkirk (council area)
+Galston, East Ayrshire	councilArea	East Ayrshire
+Coldbackie	councilArea	Highland (council area)
+Onich	councilArea	Highland (council area)
+Leverburgh	councilArea	Outer Hebrides
+Leuchars	councilArea	Fife
+Carmunnock	councilArea	Politics of Glasgow
+Kennacraig	councilArea	Argyll and Bute
+Strathbungo	councilArea	Glasgow
+Anstruther	councilArea	Fife
+Tillicoultry	councilArea	Clackmannanshire
+Latheronwheel	councilArea	Highland (council area)
+Chirnside	councilArea	Scottish Borders
+Tomintoul	councilArea	Moray
+Aberfeldy, Scotland	councilArea	Perth and Kinross
+Dunvegan	councilArea	Highland (council area)
+Netherlee	councilArea	East Renfrewshire
+Portmahomack	councilArea	Highland (council area)
+Hill of Fearn	councilArea	Highland (council area)
+Dalneigh	councilArea	Highland (council area)
+Leven, Fife	councilArea	Fife
+Bunessan	councilArea	Argyll and Bute
+Blackburn, West Lothian	councilArea	West Lothian
+Parkhead	councilArea	Politics of Glasgow
+Portpatrick	councilArea	Dumfries and Galloway
+Crianlarich	councilArea	Stirling (council area)
+Dunkeld	councilArea	Perth and Kinross
+Stobswell	councilArea	Dundee
+Bridgeton, Glasgow	councilArea	Politics of Glasgow
+Castlebay	councilArea	Outer Hebrides
+Uplawmoor	councilArea	East Renfrewshire
+Newburgh, Fife	councilArea	Fife
+Southend, Argyll and Bute	councilArea	Argyll and Bute
+Fintry	councilArea	Stirling (council area)
+Fionnphort	councilArea	Argyll and Bute
+Auchinleck	councilArea	East Ayrshire
+Cruden Bay	councilArea	Aberdeenshire
+Ae, Scotland	councilArea	Dumfries and Galloway
+Wick, Highland	councilArea	Highland (council area)
+Balivanich	councilArea	Outer Hebrides
+Invermoriston	councilArea	Highland (council area)
+Auchenshuggle	councilArea	Politics of Glasgow
+Turriff	councilArea	Aberdeenshire
+Arisaig	councilArea	Highland (council area)
+Glamis	councilArea	Angus
+Keith, Moray	councilArea	Moray
+Lairg	councilArea	Highland (council area)
+Back, Lewis	councilArea	Outer Hebrides
+Strathpeffer	councilArea	Highland (council area)
+Loch Kishorn	councilArea	Highland (council area)
+Tyndrum	councilArea	Stirling (council area)
+Castletown, Highland	councilArea	Highland (council area)
+Knock, Isle of Lewis	councilArea	Outer Hebrides
+Crookston, Glasgow	councilArea	Politics of Glasgow
+Halfway, Glasgow	councilArea	Politics of Glasgow
+Morar	councilArea	Highland (council area)
+Glenelg, Highland	councilArea	Highland (council area)
+Bowmore	councilArea	Argyll and Bute
+Saltburn, Ross-shire	councilArea	Highland (council area)
+New Galloway	councilArea	Dumfries and Galloway
+Kelso, Scottish Borders	councilArea	Scottish Borders
+Tarbert, Argyll and Bute	councilArea	Argyll and Bute
+Ayton, Scottish Borders	councilArea	Scottish Borders
+Alford, Scotland	councilArea	Aberdeenshire
+Larbert	councilArea	Falkirk (council area)
+Penicuik	councilArea	Midlothian
+Ardmore, Barra	councilArea	Outer Hebrides
+Leadhills	councilArea	South Lanarkshire
+Stevenston	councilArea	North Ayrshire
+Dunnet	councilArea	Highland (council area)
+Hurlford	councilArea	East Ayrshire
+Darvel	councilArea	East Ayrshire
+Robroyston	councilArea	Politics of Glasgow
+Dornie	councilArea	Highland (council area)
+Haddington, East Lothian	councilArea	East Lothian
+Forsinard	councilArea	Highland (council area)
+Uddingston	councilArea	South Lanarkshire
+Eaglesham	councilArea	East Renfrewshire
+Sandhead	councilArea	Dumfries and Galloway
+Errol, Perth and Kinross	councilArea	Perth and Kinross
+Brora	councilArea	Highland (council area)
+Drumnadrochit	councilArea	Highland (council area)
+Latheron	councilArea	Highland (council area)
+Tollcross, Glasgow	councilArea	Politics of Glasgow
+Lochee	councilArea	Dundee
+Old Aberdeen	councilArea	Aberdeen
+Boat of Garten	councilArea	Highland (council area)
+Mannofield	councilArea	Aberdeen
+Kilbirnie	councilArea	North Ayrshire
+Dollar, Clackmannanshire	councilArea	Clackmannanshire
+Balmullo	councilArea	Fife
+Huntingtower and Ruthvenfield	councilArea	Perth and Kinross
+St Margaret's Hope	councilArea	Orkney
+Annan, Dumfries and Galloway	councilArea	Dumfries and Galloway
+Bardrainney	councilArea	Inverclyde
+Gibshill	councilArea	Inverclyde
+Mid Auchinleck	councilArea	Inverclyde
+Menstrie	councilArea	Clackmannanshire
+Scourie	councilArea	Highland (council area)
+Inverallochy and Cairnbulg	councilArea	Aberdeenshire
+Bonar Bridge	councilArea	Highland (council area)
+Lower Largo	councilArea	Fife
+Lundin Links	councilArea	Fife
+Lochbuie, Mull	councilArea	Argyll and Bute
+Tayport	councilArea	Fife
+Ness, Lewis	councilArea	Outer Hebrides
+Port Charlotte, Islay	councilArea	Argyll and Bute
+Drummore	councilArea	Dumfries and Galloway
+Laurencekirk	councilArea	Aberdeenshire
+Morningside, Edinburgh	councilArea	Edinburgh
+Wanlockhead	councilArea	Dumfries and Galloway
+Comrie	councilArea	Perth and Kinross
+Lochinver	councilArea	Highland (council area)
+Kenmore, Perth and Kinross	councilArea	Perth and Kinross
+Falkland, Fife	councilArea	Fife
+Balloch, West Dunbartonshire	councilArea	West Dunbartonshire
+Greenock West	councilArea	Inverclyde
+Georgemas	councilArea	Highland (council area)
+Reay	councilArea	Highland (council area)
+Fairlie, North Ayrshire	councilArea	North Ayrshire
+Gorebridge	councilArea	Midlothian
+Achnacarry	councilArea	Highland (council area)
+Edinbane	councilArea	Highland (council area)
+Cranhill	councilArea	Politics of Glasgow
+Watten, Highland	councilArea	Highland (council area)
+Carmyle	councilArea	Politics of Glasgow
+Lochgelly	councilArea	Fife
+Gateside, Fife	councilArea	Fife
+Cairnryan	councilArea	Dumfries and Galloway
+Mount Florida	councilArea	Politics of Glasgow
+Arden, Glasgow	councilArea	Politics of Glasgow
+Grutness	councilArea	Shetland
+Croftfoot	councilArea	Politics of Glasgow
+Craigton, Glasgow	councilArea	Politics of Glasgow
+Bellahouston	councilArea	Politics of Glasgow
+Craignure	councilArea	Argyll and Bute
+Drumchapel	councilArea	Glasgow
+Temple, Glasgow	councilArea	Politics of Glasgow
+Ullinish	councilArea	Highland (council area)
+Pennan	councilArea	Aberdeenshire
+Whitburn, West Lothian	councilArea	West Lothian
+Roslin, Midlothian	councilArea	Midlothian
+Pencaitland	councilArea	East Lothian
+Balquhidder	councilArea	Stirling (council area)
+Condorrat	councilArea	North Lanarkshire
+Earlston	councilArea	Scottish Borders
+Kyleakin	councilArea	Highland (council area)
+Darnley	councilArea	Politics of Glasgow
+Portnaguran	councilArea	Outer Hebrides
+Cawdor	councilArea	Highland (council area)
+Shawbost	councilArea	Outer Hebrides
+Invergordon	councilArea	Highland (council area)
+West Kilbride	councilArea	North Ayrshire
+Achnashellach	councilArea	Highland (council area)
+Hillington, Glasgow	councilArea	Politics of Glasgow
+Lenzie	councilArea	East Dunbartonshire
+Fauldhouse	councilArea	West Lothian
+Crossmyloof	councilArea	Politics of Glasgow
+Applecross	councilArea	Highland (council area)
+Balintore, Easter Ross	councilArea	Highland (council area)
+Shandwick	councilArea	Highland (council area)
+Hilton of Cadboll	councilArea	Highland (council area)
+Scarinish	councilArea	Argyll and Bute
+Altnabreac	councilArea	Highland (council area)
+Springburn	councilArea	Politics of Glasgow
+Gravir	councilArea	Outer Hebrides
+Old Kilpatrick	councilArea	West Dunbartonshire
+Livingston Village	councilArea	West Lothian
+Inverbervie	councilArea	Aberdeenshire
+Lochmaben	councilArea	Dumfries and Galloway
+Uig, Skye	councilArea	Highland (council area)
+Bettyhill	councilArea	Highland (council area)
+Denholm	councilArea	Scottish Borders
+Aberarder	councilArea	Highland (council area)
+Aberargie	councilArea	Perth and Kinross
+Abercairny	councilArea	Perth and Kinross
+Duntulm	councilArea	Highland (council area)
+Palnackie	councilArea	Dumfries and Galloway
+Aberdalgie	councilArea	Perth and Kinross
+Aberlady	councilArea	East Lothian
+Aberlemno	councilArea	Angus
+Abernyte	councilArea	Perth and Kinross
+Aberuthven	councilArea	Perth and Kinross
+Inverie	councilArea	Highland (council area)
+Abriachan	councilArea	Highland (council area)
+Golspie	councilArea	Highland (council area)
+Achalader	councilArea	Perth and Kinross
+Achandunie	councilArea	Highland (council area)
+Achany	councilArea	Highland (council area)
+Achanalt	councilArea	Highland (council area)
+Acharn, Perth and Kinross	councilArea	Perth and Kinross
+Acharacle	councilArea	Highland (council area)
+Achfary	councilArea	Highland (council area)
+Achintee, Fort William	councilArea	Highland (council area)
+Achnacarnin	councilArea	Highland (council area)
+Achmelvich	councilArea	Highland (council area)
+Achnaconeran	councilArea	Highland (council area)
+Achnagarron	councilArea	Highland (council area)
+Achnafauld	councilArea	Perth and Kinross
+Achnasheen	councilArea	Highland (council area)
+Achosnich	councilArea	Highland (council area)
+Achriesgill	councilArea	Highland (council area)
+Achvaich	councilArea	Highland (council area)
+Ackergill	councilArea	Highland (council area)
+Inverkip	councilArea	Inverclyde
+Advie	councilArea	Highland (council area)
+Kilmacolm	councilArea	Inverclyde
+Assynt	councilArea	Highland (council area)
+Kirkliston	councilArea	Edinburgh
+Insch	councilArea	Aberdeenshire
+Port Askaig	councilArea	Argyll and Bute
+Dowanhill	councilArea	Politics of Glasgow
+Portnahaven	councilArea	Argyll and Bute
+Bridgend, Islay	councilArea	Argyll and Bute
+Feolin	councilArea	Argyll and Bute
+Anniesland	councilArea	Glasgow
+Barmulloch	councilArea	Politics of Glasgow
+Barlanark	councilArea	Politics of Glasgow
+Balornock	councilArea	Politics of Glasgow
+Blairdardie	councilArea	Politics of Glasgow
+Cadder	councilArea	East Dunbartonshire
+Colston	councilArea	East Dunbartonshire
+Carntyne	councilArea	Politics of Glasgow
+Calton, Glasgow	councilArea	Politics of Glasgow
+Broomhill, Glasgow	councilArea	Politics of Glasgow
+Cowlairs	councilArea	Politics of Glasgow
+Craigend, Glasgow	councilArea	Politics of Glasgow
+Dalmarnock	councilArea	Politics of Glasgow
+Dennistoun	councilArea	Politics of Glasgow
+Finnieston	councilArea	Politics of Glasgow
+Garrowhill	councilArea	Politics of Glasgow
+Garthamlock	councilArea	Politics of Glasgow
+Garscadden	councilArea	Politics of Glasgow
+Germiston, Glasgow	councilArea	Politics of Glasgow
+Easterhouse	councilArea	Politics of Glasgow#Glasgow City Council
+Haghill	councilArea	Politics of Glasgow
+Greenfield, Glasgow	councilArea	Politics of Glasgow
+Hamiltonhill	councilArea	Politics of Glasgow
+Kelvinside	councilArea	Politics of Glasgow
+Lambhill	councilArea	Politics of Glasgow
+Hogganfield	councilArea	Glasgow
+Linthouse	councilArea	Politics of Glasgow
+Lightburn, Glasgow	councilArea	Politics of Glasgow
+Millerston	councilArea	Politics of Glasgow
+Milton, Glasgow	councilArea	Politics of Glasgow
+Provanmill	councilArea	Politics of Glasgow
+Possilpark	councilArea	Politics of Glasgow
+Queenslie	councilArea	Politics of Glasgow
+Royston, Glasgow	councilArea	Politics of Glasgow
+Ruchazie	councilArea	Politics of Glasgow
+Ruchill	councilArea	Politics of Glasgow
+Sandyhills	councilArea	Politics of Glasgow
+Sighthill, Glasgow	councilArea	Politics of Glasgow
+Stobhill	councilArea	Politics of Glasgow
+Swinton, Glasgow	councilArea	Politics of Glasgow
+Yorkhill	councilArea	Politics of Glasgow
+Ardminish	councilArea	Argyll and Bute
+Whiteinch	councilArea	Politics of Glasgow
+Springboig	councilArea	Politics of Glasgow
+Battlefield, Glasgow	councilArea	Politics of Glasgow
+Cowglen	councilArea	Politics of Glasgow
+Drumoyne	councilArea	Politics of Glasgow
+Crosshill	councilArea	Politics of Glasgow
+Carnwadric	councilArea	Politics of Glasgow
+Dumbreck	councilArea	Politics of Glasgow
+Hillpark	councilArea	Politics of Glasgow
+Govanhill	councilArea	Politics of Glasgow
+Hurlet	councilArea	Politics of Glasgow
+Mosspark	councilArea	Politics of Glasgow
+Newlands, Glasgow	councilArea	Politics of Glasgow
+Muirend	councilArea	Politics of Glasgow
+Polmadie	councilArea	Glasgow
+South Nitshill	councilArea	Glasgow
+Hutchesontown	councilArea	Politics of Glasgow
+Laurieston, Glasgow	councilArea	Politics of Glasgow
+Langside	councilArea	Politics of Glasgow
+Mansewood	councilArea	Politics of Glasgow
+Kennishead	councilArea	Politics of Glasgow
+Merrylee	councilArea	East Renfrewshire
+Kippen	councilArea	Stirling (council area)
+Balerno	councilArea	Edinburgh
+Carrbridge	councilArea	Highland (council area)
+Crimond	councilArea	Aberdeenshire
+Drem	councilArea	East Lothian
+Alness	councilArea	Highland (council area)
+Macmerry	councilArea	East Lothian
+Cockburnspath	councilArea	Scottish Borders
+Memus	councilArea	Angus
+Struan	councilArea	Highland (council area)
+Brae	councilArea	Shetland
+Merchiston	councilArea	Edinburgh
+Aird of Sleat	councilArea	Highland (council area)
+Balallan	councilArea	Outer Hebrides
+Newtonmore	councilArea	Highland (council area)
+Whitecrook	councilArea	West Dunbartonshire
+Airlie, Angus	councilArea	Angus
+Airntully	councilArea	Perth and Kinross
+Rosemarkie	councilArea	Highland (council area)
+Skarfskerry	councilArea	Highland (council area)
+Achintraid	councilArea	Highland (council area)
+Portuairk	councilArea	Highland (council area)
+Ardarroch	councilArea	Highland (council area)
+Appin	councilArea	Argyll and Bute
+Lochmaddy	councilArea	Outer Hebrides
+Merchant City	councilArea	Politics of Glasgow
+Harthill, Scotland	councilArea	North Lanarkshire
+Avonbridge	councilArea	Falkirk (council area)
+Mauchline	councilArea	East Ayrshire
+Beauly	councilArea	Highland (council area)
+Alva, Clackmannanshire	councilArea	Clackmannanshire
+Haroldswick	councilArea	Shetland
+St Monans	councilArea	Fife
+Hushinish	councilArea	Outer Hebrides
+Stromeferry	councilArea	Highland (council area)
+Lybster	councilArea	Highland (council area)
+Oldmeldrum	councilArea	Aberdeenshire
+Auchencrow	councilArea	Scottish Borders
+Carloway	councilArea	Outer Hebrides
+Kylerhea	councilArea	Highland (council area)
+Ballygrant	councilArea	Argyll and Bute
+Bonaly	councilArea	Edinburgh
+Juniper Green	councilArea	Edinburgh
+Tarbert, Harris	councilArea	Outer Hebrides
+Scalasaig	councilArea	Argyll and Bute
+Clackmannan, Clackmannanshire	councilArea	Clackmannanshire
+Ruthven, Highland	councilArea	Highland (council area)
+Monifieth	councilArea	Angus
+New Abbey	councilArea	Dumfries and Galloway
+Scotstounhill	councilArea	Politics of Glasgow
+Aith	councilArea	Shetland
+Scalloway	councilArea	Shetland
+Forth, South Lanarkshire	councilArea	South Lanarkshire
+Law, South Lanarkshire	councilArea	South Lanarkshire
+Prestonpans	councilArea	East Lothian
+Newcastleton	councilArea	Scottish Borders
+Ladybank	councilArea	Fife
+Croy, North Lanarkshire	councilArea	North Lanarkshire
+Oldhamstocks	councilArea	East Lothian
+Twechar	councilArea	East Dunbartonshire
+Liff, Angus	councilArea	Angus
+Gullane	councilArea	East Lothian
+Evanton	councilArea	Highland (council area)
+Kildary	councilArea	Highland (council area)
+Kinning Park	councilArea	Politics of Glasgow
+Kilmaurs	councilArea	East Ayrshire
+Ardersier	councilArea	Highland (council area)
+Northbay	councilArea	Outer Hebrides
+Sollas	councilArea	Outer Hebrides
+Howmore	councilArea	Outer Hebrides
+Carinish	councilArea	Outer Hebrides
+Glenluce	councilArea	Dumfries and Galloway
+Sligachan	councilArea	Highland (council area)
+Baldernock	councilArea	East Dunbartonshire
+Dalry, North Ayrshire	councilArea	North Ayrshire
+Cambusnethan	councilArea	North Lanarkshire
+St. Boswells	councilArea	Scottish Borders
+Rosneath	councilArea	Argyll and Bute
+Neilston	councilArea	East Renfrewshire
+Corkerhill	councilArea	Politics of Glasgow
+Newhouse, North Lanarkshire	councilArea	North Lanarkshire
+Barr, Ayrshire	councilArea	South Ayrshire
+Jemimaville	councilArea	Highland (council area)
+Whitehall, Orkney	councilArea	Orkney
+Shieldaig	councilArea	Highland (council area)
+Kinlochewe	councilArea	Highland (council area)
+Nybster	councilArea	Highland (council area)
+Killin	councilArea	Stirling (council area)
+Peterhead	councilArea	Aberdeenshire
+Currie	councilArea	Edinburgh
+Fresgoe	councilArea	Highland (council area)
+Torrance, East Dunbartonshire	councilArea	East Dunbartonshire
+Poolewe	councilArea	Highland (council area)
+Blackford, Perth and Kinross	councilArea	Perth and Kinross
+Crossford, Fife	councilArea	Fife
+Dalmeny	councilArea	Edinburgh
+Kinmylies	councilArea	Highland (council area)
+Balfron	councilArea	Stirling (council area)
+Killiecrankie	councilArea	Perth and Kinross
+Portlethen	councilArea	Aberdeenshire
+Blythswood Hill	councilArea	Politics of Glasgow
+Armadale, West Lothian	councilArea	West Lothian
+Rathven	councilArea	Moray
+Dallas, Moray	councilArea	Moray
+Oxgangs	councilArea	Edinburgh
+East Haven, Angus	councilArea	Angus
+Elie and Earlsferry	councilArea	Fife
+Laggan, Great Glen	councilArea	Highland (council area)
+Moscow, Scotland	councilArea	East Ayrshire
+Broadford, Skye	councilArea	Highland (council area)
+Newstead, Scottish Borders	councilArea	Scottish Borders
+Gight	councilArea	Aberdeenshire
+Ardwell	councilArea	Dumfries and Galloway
+Auchlyne	councilArea	Stirling (council area)
+Muckhart	councilArea	Clackmannanshire
+Blairlogie	councilArea	Stirling (council area)
+Braidfauld	councilArea	Politics of Glasgow#Glasgow City Council
+Flesherin	councilArea	Outer Hebrides
+Annbank	councilArea	South Ayrshire
+Garlieston	councilArea	Dumfries and Galloway
+Bonnybridge	councilArea	Falkirk (council area)
+Lilybank	councilArea	Politics of Glasgow
+Newbank, Glasgow	councilArea	Politics of Glasgow
+Barrowfield	councilArea	Politics of Glasgow
+Blackhill, Glasgow	councilArea	Politics of Glasgow
+King's Park, Glasgow	councilArea	Politics of Glasgow
+Lennoxtown	councilArea	East Dunbartonshire
+Bridge of Earn	councilArea	Perth and Kinross
+Wallyford	councilArea	East Lothian
+Whitekirk and Tyninghame	councilArea	East Lothian
+East Saltoun and West Saltoun	councilArea	East Lothian
+Gifford, East Lothian	councilArea	East Lothian
+Dunbeath	councilArea	Highland (council area)
+Maryhill Park	councilArea	Politics of Glasgow
+Wyndford	councilArea	Politics of Glasgow
+Botany, Glasgow	councilArea	Politics of Glasgow
+Woodside, Glasgow	councilArea	Politics of Glasgow
+Tullibody	councilArea	Clackmannanshire
+Drumoak	councilArea	Aberdeenshire
+Blackness, Linlithgow	councilArea	Falkirk (council area)
+Blebo Craigs	councilArea	Fife
+Lawers	councilArea	Perth and Kinross
+Balmedie	councilArea	Aberdeenshire
+Tealing	councilArea	Angus
+Kincardine	councilArea	Fife
+High Ruchill	councilArea	Politics of Glasgow
+Killearn	councilArea	Stirling (council area)
+Kippford	councilArea	Dumfries and Galloway
+Finzean	councilArea	Aberdeenshire
+Torry	councilArea	Aberdeen
+Isleornsay	councilArea	Highland (council area)
+Fortingall	councilArea	Perth and Kinross
+Kittybrewster	councilArea	Aberdeen
+Markinch	councilArea	Fife
+Laggan, Badenoch	councilArea	Highland (council area)
+Holytown	councilArea	North Lanarkshire
+Barry, Angus	councilArea	Angus
+Mid Calder	councilArea	West Lothian
+Conon Bridge	councilArea	Highland (council area)
+Morvern	councilArea	Highland (council area)
+Allandale, Falkirk	councilArea	Falkirk (council area)
+Haggs	councilArea	Falkirk (council area)
+Banknock	councilArea	Falkirk (council area)
+Strathmartine	councilArea	Angus
+Balgowan, Dundee	councilArea	Dundee
+Ninewells	councilArea	Dundee
+Claverhouse	councilArea	Dundee
+North Kessock	councilArea	Highland (council area)
+Tillydrone	councilArea	Aberdeen
+Foresterhill	councilArea	Aberdeen
+Dalwhinnie	councilArea	Highland (council area)
+Footdee	councilArea	Aberdeen
+Auchmithie	councilArea	Angus
+Stoneyburn	councilArea	West Lothian
+Logie, Dundee	councilArea	Dundee
+Eskdalemuir	councilArea	Dumfries and Galloway
+Fearnan	councilArea	Perth and Kinross
+Balgay	councilArea	Dundee
+Weem	councilArea	Perth and Kinross
+Twynholm	councilArea	Dumfries and Galloway
+Chapeltoun	councilArea	East Ayrshire
+Law, Dundee	councilArea	Dundee
+Methven, Perth and Kinross	councilArea	Perth and Kinross
+Tarskavaig	councilArea	Highland (council area)
+Auldearn	councilArea	Highland (council area)
+Smithton, Inverness	councilArea	Highland (council area)
+Westhill, Inverness	councilArea	Highland (council area)
+West End, Dundee	councilArea	Dundee
+Balloch, Highland	councilArea	Highland (council area)
+Lambroughton	councilArea	North Ayrshire
+Busby, East Renfrewshire	councilArea	East Renfrewshire
+Dunipace	councilArea	Falkirk (council area)
+Strathblane	councilArea	Stirling (council area)
+Mastrick	councilArea	Aberdeen
+Barnhill, Dundee	councilArea	Dundee
+Balgillo	councilArea	Dundee
+Buckhaven	councilArea	Fife
+Kinloch Rannoch	councilArea	Perth and Kinross
+Clunie	councilArea	Perth and Kinross
+Pan Am Flight 103	councilArea	Dumfries and Galloway
+Methlick	councilArea	Aberdeenshire
+Leurbost	councilArea	Outer Hebrides
+Corrie, Arran	councilArea	North Ayrshire
+West Calder	councilArea	West Lothian
+Vidlin	councilArea	Shetland
+Banff, Aberdeenshire	councilArea	Aberdeenshire
+Macduff, Aberdeenshire	councilArea	Aberdeenshire
+Munlochy	councilArea	Highland (council area)
+Linlithgow	councilArea	West Lothian
+Torridon	councilArea	Highland (council area)
+Newtonhill	councilArea	Aberdeenshire
+Aultbea	councilArea	Highland (council area)
+Arbuthnott	councilArea	Aberdeenshire
+Banavie	councilArea	Highland (council area)
+Spittal of Glenshee	councilArea	Perth and Kinross
+Finegand	councilArea	Perth and Kinross
+Avoch	councilArea	Highland (council area)
+Edderton	councilArea	Highland (council area)
+Bullers of Buchan	councilArea	Aberdeenshire
+Lochailort	councilArea	Highland (council area)
+Tore, Scotland	councilArea	Highland (council area)
+Partickhill	councilArea	Politics of Glasgow
+Ballinluig	councilArea	Perth and Kinross
+Park District, Glasgow	councilArea	Politics of Glasgow
+Pather	councilArea	North Lanarkshire
+Duirinish, Lochalsh	councilArea	Highland (council area)
+Garve	councilArea	Highland (council area)
+Muir of Ord	councilArea	Highland (council area)
+Kinbrace	councilArea	Highland (council area)
+Rogart	councilArea	Highland (council area)
+Ardgay	councilArea	Highland (council area)
+Colbost	councilArea	Highland (council area)
+Colgrain	councilArea	Argyll and Bute
+Corran, Skye and Lochalsh	councilArea	Highland (council area)
+Cortachy	councilArea	Angus
+New Cumnock	councilArea	East Ayrshire
+Longcroft, Falkirk	councilArea	Falkirk (council area)
+Rosewell, Midlothian	councilArea	Midlothian
+Newbridge, Edinburgh	councilArea	Edinburgh
+Longhope, Orkney	councilArea	Orkney
+Stracathro	councilArea	Angus
+Caol	councilArea	Highland (council area)
+Fullarton	councilArea	North Ayrshire
+Amulree	councilArea	Perth and Kinross
+Sliddery	councilArea	North Ayrshire
+Ravenscraig	councilArea	North Lanarkshire
+Thornwood, Glasgow	councilArea	Politics of Glasgow
+Dunlop, East Ayrshire	councilArea	East Ayrshire
+Lugton	councilArea	East Ayrshire
+Douglas, Dundee	councilArea	Dundee
+Inveran	councilArea	Highland (council area)
+Luggiebank, Cumbernauld	councilArea	North Lanarkshire
+Bridge of Craigisla	councilArea	Angus
+Carmyllie	councilArea	Angus
+Edzell	councilArea	Angus
+Farnell, Angus	councilArea	Angus
+Guthrie, Angus	councilArea	Angus
+Inverkeilor	councilArea	Angus
+Letham, Angus	councilArea	Angus
+Newbigging, Angus	councilArea	Angus
+Murroes	councilArea	Angus
+St Vigeans	councilArea	Angus
+Dalmally	councilArea	Argyll and Bute
+St Cyrus	councilArea	Aberdeenshire
+Boghead	councilArea	South Lanarkshire
+Waterfoot, East Renfrewshire	councilArea	South Lanarkshire
+Waterfoot, East Renfrewshire	councilArea	East Renfrewshire
+Pitkerro	councilArea	Dundee
+Fintry, Dundee	councilArea	Dundee
+Forteviot	councilArea	Perth and Kinross
+Milton, Highland	councilArea	Highland (council area)
+Torrin	councilArea	Highland (council area)
+Menzieshill	councilArea	Dundee
+Stepps	councilArea	North Lanarkshire
+Embo	councilArea	Highland (council area)
+Clivocast	councilArea	Shetland
+Eastriggs	councilArea	Dumfries and Galloway
+Ardler	councilArea	Dundee
+Charleston, Dundee	councilArea	Dundee
+Whitfield, Dundee	councilArea	Dundee
+Invergowrie	councilArea	Perth and Kinross
+Earnock	councilArea	South Lanarkshire
+Redding, Falkirk	councilArea	Falkirk (council area)
+Brightons	councilArea	Falkirk (council area)
+Westquarter	councilArea	Falkirk (council area)
+Camelon	councilArea	Falkirk (council area)
+Ardeonaig	councilArea	Stirling (council area)
+Ardtalnaig	councilArea	Perth and Kinross
+Moodiesburn	councilArea	North Lanarkshire
+Charing Cross, Glasgow	councilArea	Politics of Glasgow
+Ose, Skye	councilArea	Highland (council area)
+Wilton Dean	councilArea	Scottish Borders
+Tarbolton	councilArea	South Ayrshire
+Cannich	councilArea	Highland (council area)
+Walls, Shetland	councilArea	Shetland
+Dull, Perth and Kinross	councilArea	Perth and Kinross
+Upper Bighouse	councilArea	Highland (council area)
+Upper Breakish	councilArea	Highland (council area)
+Balmerino	councilArea	Fife
+Aberchalder	councilArea	Highland (council area)
+Achachork	councilArea	Highland (council area)
+Achaphubuil	councilArea	Highland (council area)
+A' Chill	councilArea	Highland (council area)
+Achavandra Muir	councilArea	Highland (council area)
+Achgarve	councilArea	Highland (council area)
+Philpstoun	councilArea	West Lothian
+Balnacra	councilArea	Highland (council area)
+Ettrickbridge	councilArea	Scottish Borders
+Gartocharn	councilArea	West Dunbartonshire
+City Centre, Dundee	councilArea	Dundee
+Bonkle	councilArea	North Lanarkshire
+Saline, Fife	councilArea	Fife
+Letham, Falkirk	councilArea	Falkirk (council area)
+Cunninghamhead	councilArea	North Ayrshire
+Logierait	councilArea	Perth and Kinross
+Abernethy and Kincardine	councilArea	Highland (council area)
+Arbirlot	councilArea	Angus
+Birkhill, Angus	councilArea	Angus
+Muthill	councilArea	Perth and Kinross
+Craigiebank, Dundee	councilArea	Dundee
+Gowkthrapple (Wishaw)	councilArea	North Lanarkshire
+Standburn	councilArea	Falkirk (council area)
+Kirkton, Dundee	councilArea	Dundee
+Burrelton	councilArea	Perth and Kinross
+Hillside, Angus	councilArea	Angus
+Ancrum	councilArea	Scottish Borders
+Barbaraville	councilArea	Highland (council area)
+Reddingmuirhead	councilArea	Falkirk (council area)
+Barthol Chapel	councilArea	Aberdeenshire
+Tewel	councilArea	Aberdeenshire
+Cardenden	councilArea	Fife
+Glensburgh	councilArea	Falkirk (council area)
+Cornhill, Aberdeenshire	councilArea	Aberdeenshire
+Mintlaw	councilArea	Aberdeenshire
+Pitmedden	councilArea	Aberdeenshire
+Allanton, Scottish Borders	councilArea	Scottish Borders
+Rosemount, Aberdeen	councilArea	Aberdeen
+Uyeasound	councilArea	Shetland
+Menmuir	councilArea	Angus
+Dunure	councilArea	Ayrshire
+Foveran	councilArea	Aberdeenshire
+Douglastown	councilArea	Angus
+Eriboll	councilArea	Highland (council area)
+Strachur	councilArea	Argyll and Bute
+Auchencairn	councilArea	Dumfries and Galloway
+Craigneuk	councilArea	North Lanarkshire
+Seafar	councilArea	North Lanarkshire
+Auchterhouse	councilArea	Angus
+Rockfield, Highland	councilArea	Highland (council area)
+Geilston	councilArea	Argyll and Bute
+Blackwood, Cumbernauld	councilArea	North Lanarkshire
+Gowrie Park	councilArea	Dundee
+Spean Bridge	councilArea	Highland (council area)
+Quarrier's Village	councilArea	Inverclyde
+Guardbridge	councilArea	Fife
+Cabrich	councilArea	Highland (council area)
+Bankfoot	councilArea	Perth and Kinross
+Pathhead, Midlothian	councilArea	Midlothian
+Canonbie	councilArea	Dumfries and Galloway
+Mid Yell	councilArea	Shetland
+Strathy	councilArea	Highland (council area)
+Luncarty	councilArea	Perth and Kinross
+Melvich	councilArea	Highland (council area)
+Gatehead, East Ayrshire	councilArea	East Ayrshire
+Ashkirk	councilArea	Scottish Borders
+Teviothead	councilArea	Scottish Borders
+Town Yetholm	councilArea	Scottish Borders
+Auchentiber	councilArea	North Ayrshire
+Inchture	councilArea	Perth and Kinross
+Trinafour	councilArea	Perth and Kinross
+Kilmory, Highland	councilArea	Highland (council area)
+Maryburgh	councilArea	Highland (council area)
+Kilncadzow	councilArea	South Lanarkshire
+Kinnaird, Atholl	councilArea	Perth and Kinross
+Kinnaird, Gowrie	councilArea	Perth and Kinross
+Dalguise	councilArea	Perth and Kinross
+Kincardine O'Neil	councilArea	Aberdeenshire
+Tornagrain	councilArea	Highland (council area)
+Tarfside	councilArea	Angus
+Blackburn, Aberdeenshire	councilArea	Aberdeenshire
+Muchalls	councilArea	Aberdeenshire
+Blackdog	councilArea	Aberdeenshire
+Belhelvie	councilArea	Aberdeenshire
+Haugh of Urr	councilArea	Dumfries and Galloway
+Deaconsbank	councilArea	Politics of Glasgow
+Sauchie	councilArea	Clackmannanshire
+Nigg, Highland	councilArea	Highland (council area)
+Kilaulay	councilArea	Outer Hebrides
+Stichill	councilArea	Scottish Borders
+Lilliesleaf	councilArea	Scottish Borders
+Dennyloanhead	councilArea	Falkirk (council area)
+Allanaquoich	councilArea	Aberdeenshire
+Hilltown, Dundee	councilArea	Dundee
+St Marys, Dundee	councilArea	Dundee
+Baltasound	councilArea	Shetland
+Cessnock, Glasgow	councilArea	Politics of Glasgow
+Nethy Bridge	councilArea	Highland (council area)
+Wolfhill	councilArea	Perth and Kinross
+Head of Muir	councilArea	Falkirk (council area)
+Cardowan	councilArea	North Lanarkshire
+Girdle Toll	councilArea	North Ayrshire
+Invergarry	councilArea	Highland (council area)
+Blackness, Dundee	councilArea	Dundee
+Camlachie	councilArea	Politics of Glasgow
+Dulnain Bridge	councilArea	Highland (council area)
+Tibbermore	councilArea	Perth and Kinross
+Jenny Lind, Glasgow	councilArea	Politics of Glasgow
+Auldhouse	councilArea	Politics of Glasgow
+Balnain	councilArea	Highland (council area)
+Gutcher	councilArea	Shetland
+Symbister	councilArea	Shetland
+Toft, Shetland	councilArea	Shetland
+Ulsta	councilArea	Shetland
+Balfour, Orkney	councilArea	Orkney
+Houton	councilArea	Orkney
+Lyness	councilArea	Orkney
+Biggar Road	councilArea	North Lanarkshire
+Biggings	councilArea	Shetland
+Big Sand	councilArea	Highland (council area)
+Bilbster	councilArea	Highland (council area)
+Bimbister	councilArea	Orkney
+Binniehill	councilArea	Falkirk (council area)
+Birchburn	councilArea	North Ayrshire
+Birdston	councilArea	East Dunbartonshire
+Birkenside	councilArea	Midlothian
+Birgham	councilArea	Scottish Borders
+Birdfield	councilArea	Argyll and Bute
+Birniehill	councilArea	South Lanarkshire
+Birse	councilArea	Aberdeenshire
+Birsemore	councilArea	Aberdeenshire
+Bishop Kinkell	councilArea	Highland (council area)
+Blaich	councilArea	Highland (council area)
+Achina, Highland	councilArea	Highland (council area)
+Achfrish	councilArea	Highland (council area)
+Achindarroch	councilArea	Highland (council area)
+Achleck	councilArea	Argyll and Bute
+Achrimsdale	councilArea	Highland (council area)
+Achterneed	councilArea	Highland (council area)
+Addinston	councilArea	Scottish Borders
+Aisgernis	councilArea	Outer Hebrides
+Aithsetter	councilArea	Shetland
+Aldclune	councilArea	Perth and Kinross
+Alcaig	councilArea	Highland (council area)
+Alisary	councilArea	Highland (council area)
+Allanshaws	councilArea	Scottish Borders
+Allanshaugh	councilArea	Scottish Borders
+Allasdale	councilArea	Outer Hebrides
+Almondbank	councilArea	Perth and Kinross
+Altens	councilArea	Aberdeen
+Altass	councilArea	Highland (council area)
+Altskeith	councilArea	Stirling (council area)
+Alves, Moray	councilArea	Moray
+Amisfield	councilArea	Dumfries and Galloway
+Ancumtoun	councilArea	Orkney
+Annat, Argyll and Bute	councilArea	Argyll and Bute
+Applegarthtown	councilArea	Dumfries and Galloway
+Appletreehall	councilArea	Scottish Borders
+Ardachu	councilArea	Highland (council area)
+Ardalanish	councilArea	Argyll and Bute
+Ardery	councilArea	Highland (council area)
+Ardchonnell	councilArea	Argyll and Bute
+Ardanaiseig	councilArea	Argyll and Bute
+Ardchyle	councilArea	Stirling (council area)
+Ardchronie	councilArea	Highland (council area)
+Arden, Argyll and Bute	councilArea	Argyll and Bute
+Ardelve	councilArea	Highland (council area)
+Ardentallen	councilArea	Argyll and Bute
+Ardendrain	councilArea	Highland (council area)
+Ardfernal	councilArea	Argyll and Bute
+Ardcharnich	councilArea	Highland (council area)
+Ardgartan	councilArea	Argyll and Bute
+Ardheisker	councilArea	Outer Hebrides
+Ardheslaig	councilArea	Highland (council area)
+Ardilistry	councilArea	Argyll and Bute
+Ardinamir	councilArea	Argyll and Bute
+Ardindrean	councilArea	Highland (council area)
+Ardle	councilArea	Perth and Kinross
+Ardifuir	councilArea	Argyll and Bute
+Ardmair	councilArea	Highland (council area)
+Ardmenish	councilArea	Argyll and Bute
+Ardnadam	councilArea	Argyll and Bute
+Ardmolich	councilArea	Highland (council area)
+Ardnagrask	councilArea	Highland (council area)
+Ardonald	councilArea	Aberdeenshire
+Ardoyne, Aberdeenshire	councilArea	Aberdeenshire
+Ardroil	councilArea	Outer Hebrides
+Ardross, Highland	councilArea	Highland (council area)
+Ardtoe	councilArea	Highland (council area)
+Ardtun	councilArea	Argyll and Bute
+Ardveenish	councilArea	Outer Hebrides
+Ardvasar	councilArea	Highland (council area)
+Ardullie	councilArea	Highland (council area)
+Arinagour	councilArea	Argyll and Bute
+Aridhglas	councilArea	Argyll and Bute
+Arkleton	councilArea	Dumfries and Galloway
+Arncroach	councilArea	Fife
+Arnisdale	councilArea	Highland (council area)
+Arniston, Midlothian	councilArea	Midlothian
+Arpafeelie	councilArea	Highland (council area)
+Artafallie	councilArea	Highland (council area)
+Basta	councilArea	Shetland
+Bathville	councilArea	West Lothian
+Boddam, Shetland	councilArea	Shetland
+Boddin, Angus	councilArea	Angus
+Boghall	councilArea	West Lothian
+Bogach	councilArea	Outer Hebrides
+Bogniebrae	councilArea	Aberdeenshire
+Bograxie	councilArea	Aberdeenshire
+Bogton	councilArea	Aberdeenshire
+Bohuntine	councilArea	Highland (council area)
+Boleside	councilArea	Scottish Borders
+Bonnavoulin	councilArea	Highland (council area)
+Bonnyton, Aberdeenshire	councilArea	Aberdeenshire
+Bonnykelly	councilArea	Aberdeenshire
+Boquhan	councilArea	Stirling (council area)
+Borestone	councilArea	Stirling (council area)
+Borgie	councilArea	Highland (council area)
+Borgue, Highland	councilArea	Highland (council area)
+Bornais	councilArea	Outer Hebrides
+Bornesketaig	councilArea	Highland (council area)
+Borness	councilArea	Dumfries and Galloway
+Borreraig	councilArea	Highland (council area)
+Borrodale	councilArea	Highland (council area)
+Borsham	councilArea	Outer Hebrides
+Borve, Harris	councilArea	Outer Hebrides
+Ascog	councilArea	Argyll and Bute
+Ashaig	councilArea	Highland (council area)
+Ashfield, Stirling	councilArea	Stirling (council area)
+Ashgill	councilArea	South Lanarkshire
+Ashgrove, Moray	councilArea	Moray
+Ashiestiel	councilArea	Scottish Borders
+Ashton, Inverclyde	councilArea	Inverclyde
+Asknish	councilArea	Argyll and Bute
+Askomill	councilArea	Argyll and Bute
+Assater	councilArea	Shetland
+Auchbreck	councilArea	Moray
+Auchenblae	councilArea	Aberdeenshire
+Auchertyre	councilArea	Highland (council area)
+Auchinderran	councilArea	Moray
+Auchinairn	councilArea	East Dunbartonshire
+Auchinleish	councilArea	Angus
+Auchindrain	councilArea	Argyll and Bute
+Auchinraith	councilArea	South Lanarkshire
+Auchinreoch	councilArea	East Dunbartonshire
+Auchleven	councilArea	Aberdeenshire
+Auchinstarry	councilArea	North Lanarkshire
+Auchmillan	councilArea	East Ayrshire
+Auchnacree	councilArea	Angus
+Auchnagatt	councilArea	Aberdeenshire
+Auchnarrow	councilArea	Moray
+Auchterderran	councilArea	Fife
+Auchtubh	councilArea	Stirling (council area)
+Auldyoch	councilArea	Aberdeenshire
+Auldgirth	councilArea	Dumfries and Galloway
+Aultiphurst	councilArea	Highland (council area)
+Aultmore	councilArea	Moray
+Auratote	councilArea	Outer Hebrides
+Avernish	councilArea	Highland (council area)
+Bowershall	councilArea	Fife
+Bowerhope	councilArea	Scottish Borders
+Bowismiln	councilArea	Scottish Borders
+Allanton, North Lanarkshire	councilArea	North Lanarkshire
+Allanton, South Lanarkshire	councilArea	South Lanarkshire
+Backaland	councilArea	Orkney
+Backburn	councilArea	Aberdeenshire
+Backlands	councilArea	Moray
+Back Rogerton	councilArea	East Ayrshire
+Badcaul	councilArea	Highland (council area)
+Badninish	councilArea	Highland (council area)
+Badrallach	councilArea	Highland (council area)
+Backhill	councilArea	Aberdeenshire
+Badenscoth	councilArea	Aberdeenshire
+Badluarach	councilArea	Highland (council area)
+Oakley, Fife	councilArea	Fife
+Oathlaw	councilArea	Angus
+Ochtertyre	councilArea	Perth and Kinross
+Ockle	councilArea	Highland (council area)
+Odness	councilArea	Orkney
+Ohagro	councilArea	Outer Hebrides
+Old Balkello	councilArea	Angus
+Old Balornock	councilArea	Glasgow
+Old Belses	councilArea	Scottish Borders
+Old Blair	councilArea	Perth and Kinross
+Old Cambus	councilArea	Scottish Borders
+Old Dailly	councilArea	South Ayrshire
+Sodom, Shetland	councilArea	Shetland
+Baile Boidheach	councilArea	Argyll and Bute
+Baile an Truiseil	councilArea	Outer Hebrides
+Baile Gharbhaidh	councilArea	Outer Hebrides
+Baile Glas	councilArea	Outer Hebrides
+Baile nan Cailleach	councilArea	Outer Hebrides
+Bail' Iochdrach	councilArea	Outer Hebrides
+Bail' Ùr Tholastaidh	councilArea	Outer Hebrides
+Bainsford	councilArea	Falkirk (council area)
+Bainshole	councilArea	Aberdeenshire
+Baintown	councilArea	Fife
+Bairnkine	councilArea	Scottish Borders
+Staxigoe	councilArea	Highland (council area)
+Cabharstadh	councilArea	Outer Hebrides
+Cabrach	councilArea	Moray
+Caddonlee	councilArea	Scottish Borders
+Cadham	councilArea	Fife
+Cairnie	councilArea	Aberdeenshire
+Cairnleith Crofts	councilArea	Aberdeenshire
+Cairston	councilArea	Orkney
+Cairnorrie	councilArea	Aberdeenshire
+Calbha Beag	councilArea	Highland (council area)
+Calbost	councilArea	Outer Hebrides
+Caldermill	councilArea	South Lanarkshire
+Caldercruix	councilArea	North Lanarkshire
+Caldhame	councilArea	Angus
+Bousta	councilArea	Shetland
+Bowriefauld	councilArea	Angus
+Bowshank	councilArea	Scottish Borders
+Boyndie	councilArea	Aberdeenshire
+Boysack	councilArea	Angus
+Bracadale	councilArea	Highland (council area)
+Brabsterdorran	councilArea	Highland (council area)
+Bracora	councilArea	Highland (council area)
+Braco	councilArea	Perth and Kinross
+Bracorina	councilArea	Highland (council area)
+Braeface	councilArea	Falkirk (council area)
+Braegarie	councilArea	Aberdeenshire
+Braehoulland	councilArea	Shetland
+Braemore	councilArea	Highland (council area)
+Braeswick	councilArea	Orkney
+Braevallich	councilArea	Argyll and Bute
+Braewick	councilArea	Shetland
+Branxholme	councilArea	Scottish Borders
+Brathens	councilArea	Aberdeenshire
+Burravoe	councilArea	Shetland
+Slamannan	councilArea	Falkirk (council area)
+Boquhapple	councilArea	Stirling (council area)
+Bottomcraig	councilArea	Fife
+Twatt, Orkney	councilArea	Orkney
+Sanna, Ardnamurchan	councilArea	Highland (council area)
+Evelix	councilArea	Highland (council area)
+Gateside, North Ayrshire	councilArea	North Ayrshire
+Barrmill, North Ayrshire	councilArea	North Ayrshire
+Breaclete	councilArea	Outer Hebrides
+Woodside, Dundee	councilArea	Dundee
+Breiwick	councilArea	Shetland
+Breibhig	councilArea	Outer Hebrides
+Bremirehoull	councilArea	Shetland
+Brenish	councilArea	Outer Hebrides
+Brettabister	councilArea	Shetland
+Brevig	councilArea	Outer Hebrides
+Bridgelands	councilArea	Scottish Borders
+Newtyle	councilArea	Angus
+Inchnadamph	councilArea	Highland (council area)
+Broomridge	councilArea	Stirling (council area)
+Broubster	councilArea	Highland (council area)
+Broughtown	councilArea	Orkney
+Browhouses	councilArea	Dumfries and Galloway
+Browland	councilArea	Shetland
+Browsburn	councilArea	North Lanarkshire
+Birnam, Perth and Kinross	councilArea	Perth and Kinross
+Ulbster	councilArea	Highland (council area)
+Arradoul	councilArea	Moray
+Dunino	councilArea	Fife
+Glendaruel	councilArea	Argyll and Bute
+Redpoint	councilArea	Highland (council area)
+Bonnyton, East Ayrshire	councilArea	East Ayrshire
+Kilmuir, Skye	councilArea	Highland (council area)
+Wallacestone	councilArea	Falkirk (council area)
+Burniestrype	councilArea	Moray
+Burnwynd	councilArea	West Lothian
+Burrafirth	councilArea	Shetland
+Bustatoun	councilArea	Orkney
+Buxley	councilArea	Scottish Borders
+Fanagmore	councilArea	Highland (council area)
+Amatnatua	councilArea	Highland (council area)
+Amhuinnsuidhe	councilArea	Outer Hebrides
+Riccarton, Ayrshire	councilArea	East Ayrshire
+Strathkinness	councilArea	Fife
+Ulva Ferry	councilArea	Argyll and Bute
+Farr, Sutherland	councilArea	Highland (council area)
+Brims	councilArea	Orkney
+Brindister	councilArea	Shetland
+Brinian	councilArea	Orkney
+Arabella, Highland	councilArea	Highland (council area)
+Ardaneaskan	councilArea	Highland (council area)
+Ardchullarie More	councilArea	Stirling (council area)
+Arnprior, Stirling	councilArea	Stirling (council area)
+Boddam, Aberdeenshire	councilArea	Aberdeenshire
+Redgorton	councilArea	Perth and Kinross
+Eassie	councilArea	Angus
+Leslie, Fife	councilArea	Fife
+Salsburgh	councilArea	North Lanarkshire
+Laide	councilArea	Highland (council area)
+Unthank, Angus	councilArea	Angus
+Lockerbie	councilArea	Dumfries and Galloway
+Waterside, East Dunbartonshire	councilArea	East Dunbartonshire
+Morefield	councilArea	Highland (council area)
+Rhue, Scotland	councilArea	Highland (council area)
+Resipole	councilArea	Highland (council area)
+Torwood	councilArea	Falkirk (council area)
+Bonchester Bridge	councilArea	Scottish Borders
+Roberton, Scottish Borders	councilArea	Scottish Borders
+Southdean	councilArea	Scottish Borders
+Roberton, Lanarkshire	councilArea	South Lanarkshire
+Ythanwells	councilArea	Aberdeenshire
+Ythanbank	councilArea	Aberdeenshire
+Contin	councilArea	Highland (council area)
+Potterton	councilArea	Aberdeenshire
+Newmains	councilArea	North Lanarkshire
+Rockcliffe, Dumfries and Galloway	councilArea	Dumfries and Galloway
+Parkend, Lewis	councilArea	Outer Hebrides
+Branahuie	councilArea	Outer Hebrides
+Gilshochill	councilArea	Glasgow
+New Stevenston	councilArea	North Lanarkshire
+Strathrusdale	councilArea	Highland (council area)
+Kirkmaiden	councilArea	Dumfries and Galloway
+Sandford, South Lanarkshire	councilArea	South Lanarkshire
+Cullivoe	councilArea	Shetland
+Paxton, Scottish Borders	councilArea	Scottish Borders
+Forest of Birse	councilArea	Aberdeenshire
+Bower, Highland	councilArea	Highland (council area)
+Castleton, Angus	councilArea	Angus
+Wester Denoon	councilArea	Angus
+Strathkanaird	councilArea	Highland (council area)
+Balkeerie	councilArea	Angus
+Kirkinch	councilArea	Angus
+Charleston, Angus	councilArea	Angus
+Glen Village	councilArea	Falkirk (council area)
+Milton of Ogilvie	councilArea	Angus
+Stuartfield	councilArea	Aberdeenshire
+New Byth	councilArea	Aberdeenshire
+Woodhead, Aberdeenshire	councilArea	Aberdeenshire
+Colliston	councilArea	Angus
+Kinloch, Perth and Kinross	councilArea	Perth and Kinross
+Careston	councilArea	Angus
+Tannadice, Angus	councilArea	Angus
+Lunan, Angus	councilArea	Angus
+Whiterashes	councilArea	Aberdeenshire
+Old Rayne	councilArea	Aberdeenshire
+Rumford, Falkirk	councilArea	Falkirk (council area)
+Tulloch, Perth and Kinross	councilArea	Perth and Kinross
+Barrhill, South Ayrshire	councilArea	South Ayrshire
+Moffat	councilArea	Dumfries and Galloway
+Ballencrieff, West Lothian	councilArea	West Lothian
+Marywell	councilArea	Angus
+Gillock	councilArea	Highland (council area)
+Stoer	councilArea	Highland (council area)
+Bellsbank	councilArea	East Ayrshire
+Freester	councilArea	Shetland
+Freswick	councilArea	Highland (council area)
+Cottown, Perth and Kinross	councilArea	Perth and Kinross
+Thrumster, Highland	councilArea	Highland (council area)
+Kinnoull	councilArea	Perth and Kinross
+Uigshader	councilArea	Highland (council area)
+Borgue, Stewartry of Kirkcudbright	councilArea	Dumfries and Galloway
+Foxbar	councilArea	Renfrewshire
+Lochaline	councilArea	Highland (council area)
+Borve, Skye	councilArea	Highland (council area)
+Borve, Barra	councilArea	Outer Hebrides
+Borve, Lewis	councilArea	Outer Hebrides
+Downfield, Dundee	councilArea	Dundee
+Stoneykirk	councilArea	Dumfries and Galloway
+Garrion Bridge	councilArea	North Lanarkshire
+Roshven	councilArea	Highland (council area)
+Woodside, Aberdeen	councilArea	Aberdeen
+Stanley, Perthshire	councilArea	Perth and Kinross
+Strathy, Ardross	councilArea	Highland (council area)
+Achentoul	councilArea	Highland (council area)
+Urray	councilArea	Highland (council area)
+Trumpan	councilArea	Highland (council area)
+Gorstan	councilArea	Highland (council area)
+Gillen, Skye	councilArea	Highland (council area)
+Huna, Caithness	councilArea	Highland (council area)
+Torgormack	councilArea	Highland (council area)
+Carberry, East Lothian	councilArea	East Lothian
+Waterloo, Perth and Kinross	councilArea	Perth and Kinross
+Inverarity	councilArea	Angus
+Rhelonie	councilArea	Highland (council area)
+Whaligoe	councilArea	Highland (council area)
+Kilmarie	councilArea	Highland (council area)
+Garthdee	councilArea	Aberdeen
+Kiltarlity	councilArea	Highland (council area)
+South Dell	councilArea	Outer Hebrides
+North Dell	councilArea	Outer Hebrides
+Cross, Lewis	councilArea	Outer Hebrides
+Swainbost	councilArea	Outer Hebrides
+Port of Ness	councilArea	Outer Hebrides
+Eoropie	councilArea	Outer Hebrides
+Knockaird	councilArea	Outer Hebrides
+Eorodale	councilArea	Outer Hebrides
+Crossbost	councilArea	Outer Hebrides
+Cromore	councilArea	Outer Hebrides
+Aird Uig	councilArea	Outer Hebrides
+Cliff, Lewis	councilArea	Outer Hebrides
+Kneep	councilArea	Outer Hebrides
+Timsgarry	councilArea	Outer Hebrides
+Ballantrushal	councilArea	Outer Hebrides
+Brue	councilArea	Outer Hebrides
+Newvalley, Lewis	councilArea	Outer Hebrides
+Newmarket, Lewis	councilArea	Outer Hebrides
+Marybank, Lewis	councilArea	Outer Hebrides
+Edgehead	councilArea	Midlothian
+Heaste	councilArea	Highland (council area)
+Lower Breakish	councilArea	Highland (council area)
+Lundie	councilArea	Angus
+Southerness	councilArea	Dumfries and Galloway
+Scone, Scotland	councilArea	Perth and Kinross
+Blochairn	councilArea	Politics of Glasgow
+Provanhall	councilArea	Politics of Glasgow
+Springhill, Glasgow	councilArea	Politics of Glasgow
+Portnalong	councilArea	Highland (council area)
+Oban	councilArea	Argyll and Bute
+Yieldshields	councilArea	South Lanarkshire
+Aviemore	councilArea	Highland (council area)
+Dores	councilArea	Highland (council area)
+Kincraig	councilArea	Highland (council area)
+Moy, Highland	councilArea	Highland (council area)
+Duncanston	councilArea	Highland (council area)
+Delny, Scotland	councilArea	Highland (council area)
+Newfield, Highland	councilArea	Highland (council area)
+Achnahanat	councilArea	Highland (council area)
+Achnabat	councilArea	Highland (council area)
+Achnahannet, Strathspey	councilArea	Highland (council area)
+Achmore, Highland	councilArea	Highland (council area)
+Ardclach	councilArea	Highland (council area)
+Ankerville	councilArea	Highland (council area)
+Auchentoul	councilArea	Highland (council area)
+Achnasaul	councilArea	Highland (council area)
+Ardechive	councilArea	Highland (council area)
+Allanfearn	councilArea	Highland (council area)
+Auckengill	councilArea	Highland (council area)
+Aigas	councilArea	Highland (council area)
+Achylyness	councilArea	Highland (council area)
+Achvarasdal	councilArea	Highland (council area)
+Anancaun	councilArea	Highland (council area)
+Anaheilt	councilArea	Highland (council area)
+Camastianavaig	councilArea	Highland (council area)
+Kirkbean	councilArea	Dumfries and Galloway
+Avielochan	councilArea	Highland (council area)
+Black Hill (Clydesdale)	councilArea	South Lanarkshire
+Ferness	councilArea	Highland (council area)
+Achateny	councilArea	Highland (council area)
+Ach' An Todhair	councilArea	Highland (council area)
+Elgol	councilArea	Highland (council area)
+Achindrean	councilArea	Highland (council area)
+Achiemore, Durness	councilArea	Highland (council area)
+Achiemore, Strath Halladale	councilArea	Highland (council area)
+Achinduich	councilArea	Highland (council area)
+Achingills	councilArea	Highland (council area)
+Achluachrach	councilArea	Highland (council area)
+Achnaphubuil	councilArea	Highland (council area)
+Aldourie	councilArea	Highland (council area)
+An Ard	councilArea	Highland (council area)
+Allangrange Mains	councilArea	Highland (council area)
+Allt-na-h-Airbhe	councilArea	Highland (council area)
+Altrua	councilArea	Highland (council area)
+Alvie	councilArea	Highland (council area)
+Altandhu	councilArea	Highland (council area)
+Port of Menteith	councilArea	Stirling (council area)
+Ardessie	councilArea	Highland (council area)
+Aultgrishan	councilArea	Highland (council area)
+Ardshealach	councilArea	Highland (council area)
+Aundorach	councilArea	Highland (council area)
+Achuvoldrach	councilArea	Highland (council area)
+Auchindrean	councilArea	Highland (council area)
+Auchtertyre	councilArea	Highland (council area)
+Annat, Highland	councilArea	Highland (council area)
+Ardmore, Easter Ross	councilArea	Highland (council area)
+Balmacara	councilArea	Highland (council area)
+Bunloit	councilArea	Highland (council area)
+Bunarkaig	councilArea	Highland (council area)
+Bruan	councilArea	Highland (council area)
+Laga, Lochaber	councilArea	Highland (council area)
+Windhill	councilArea	Highland (council area)
+Prince's Cairn	councilArea	Highland (council area)
+Foyers	councilArea	Highland (council area)
+Balbeg, Highland	councilArea	Highland (council area)
+Clola	councilArea	Aberdeenshire
+Bunchrew	councilArea	Highland (council area)
+Buldoo	councilArea	Highland (council area)
+Balnabruich	councilArea	Highland (council area)
+Barnyards, Highland	councilArea	Highland (council area)
+Pitkeathly Wells	councilArea	Perth and Kinross
+Carnock	councilArea	Fife
+Chapelton, South Lanarkshire	councilArea	South Lanarkshire
+Corpach	councilArea	Highland (council area)
+Shieldhill, Falkirk	councilArea	Falkirk (council area)
+Kilspindie	councilArea	Perth and Kinross
+Grandtully	councilArea	Perth and Kinross
+Brogaig	councilArea	Highland (council area)
+Balnacoil	councilArea	Highland (council area)
+Bernisdale	councilArea	Highland (council area)
+Balnapaling	councilArea	Highland (council area)
+Bogroy	councilArea	Highland (council area)
+Brea of Achnahaird	councilArea	Highland (council area)
+Balmacara Square	councilArea	Highland (council area)
+Invershin	councilArea	Highland (council area)
+Inverinate	councilArea	Highland (council area)
+Inchree	councilArea	Highland (council area)
+Insh	councilArea	Highland (council area)
+Inshegra	councilArea	Highland (council area)
+Kylestrome	councilArea	Highland (council area)
+Lednagullin	councilArea	Highland (council area)
+Letterfearn	councilArea	Highland (council area)
+Leckmelm	councilArea	Highland (council area)
+Luib, Skye	councilArea	Highland (council area)
+Papigoe	councilArea	Highland (council area)
+Piperhill	councilArea	Highland (council area)
+Syre, Scotland	councilArea	Highland (council area)
+Dunnichen	councilArea	Angus
+Glen Shiel	councilArea	Highland (council area)
+Strathtay	councilArea	Perth and Kinross
+Gorthleck	councilArea	Highland (council area)
+Linsidemore	councilArea	Highland (council area)
+Letters, Wester Ross	councilArea	Highland (council area)
+Leirinmore	councilArea	Highland (council area)
+Lonemore, Wester Ross	councilArea	Highland (council area)
+Lonemore, Sutherland	councilArea	Highland (council area)
+Littleferry	councilArea	Highland (council area)
+Lealt, Skye	councilArea	Highland (council area)
+Littlemill	councilArea	Highland (council area)
+Feorlig	councilArea	Highland (council area)
+Fiskavaig	councilArea	Highland (council area)
+Drumbeg, Sutherland	councilArea	Highland (council area)
+Carbost, Loch Harport	councilArea	Highland (council area)
+Carbost, Portree	councilArea	Highland (council area)
+Croftnacreich	councilArea	Highland (council area)
+Ormiscaig	councilArea	Highland (council area)
+Ollach	councilArea	Highland (council area)
+Mellon Charles	councilArea	Highland (council area)
+Foindle	councilArea	Highland (council area)
+Fodderty	councilArea	Highland (council area)
+Opinan, Gairloch, Highland	councilArea	Highland (council area)
+Port Henderson	councilArea	Highland (council area)
+Portgower	councilArea	Highland (council area)
+Houstry	councilArea	Highland (council area)
+Totaig	councilArea	Highland (council area)
+Toulvaddie	councilArea	Highland (council area)
+Londubh	councilArea	Highland (council area)
+Culduie	councilArea	Highland (council area)
+Cullicudden	councilArea	Highland (council area)
+Teangue	councilArea	Highland (council area)
+Drynoch	councilArea	Highland (council area)
+Skelpick	councilArea	Highland (council area)
+Skullomie	councilArea	Highland (council area)
+Peinachorran	councilArea	Highland (council area)
+Trantlebeg	councilArea	Highland (council area)
+Camore	councilArea	Highland (council area)
+Crask of Aigas	councilArea	Highland (council area)
+Minnigaff	councilArea	Dumfries and Galloway
+Elphin, Highland	councilArea	Highland (council area)
+Camuscross	councilArea	Highland (council area)
+Camusteel	councilArea	Highland (council area)
+Glenancross	councilArea	Highland (council area)
+Dunan	councilArea	Highland (council area)
+Duisky	councilArea	Highland (council area)
+Fassfern	councilArea	Highland (council area)
+Duthil	councilArea	Highland (council area)
+Keiss	councilArea	Highland (council area)
+Swiney	councilArea	Highland (council area)
+Coulags	councilArea	Highland (council area)
+Claigan	councilArea	Highland (council area)
+Clachtoll	councilArea	Highland (council area)
+Dalreavoch	councilArea	Highland (council area)
+Dalelia	councilArea	Highland (council area)
+Dalchalm	councilArea	Highland (council area)
+Fasach	councilArea	Highland (council area)
+Dorrery	councilArea	Highland (council area)
+Corran, Lochaber	councilArea	Highland (council area)
+Landhallow	councilArea	Highland (council area)
+Leachkin	councilArea	Highland (council area)
+Stein, Skye	councilArea	Highland (council area)
+Inverfarigaig	councilArea	Highland (council area)
+Culkein	councilArea	Highland (council area)
+Camusnagaul	councilArea	Highland (council area)
+Camusterrach	councilArea	Highland (council area)
+Strathcarron, Highland	councilArea	Highland (council area)
+Camault Muir	councilArea	Highland (council area)
+Camas Luinie	councilArea	Highland (council area)
+Catlodge	councilArea	Highland (council area)
+Corrimony	councilArea	Highland (council area)
+Dundonnell	councilArea	Highland (council area)
+Carronshore	councilArea	Falkirk (council area)
+Harlosh	councilArea	Highland (council area)
+Kingsmuir	councilArea	Angus
+Whiterow	councilArea	Highland (council area)
+Weydale	councilArea	Highland (council area)
+Westerdale, Highland	councilArea	Highland (council area)
+West Helmsdale	councilArea	Highland (council area)
+Wester Aberchalder	councilArea	Highland (council area)
+West Langwell	councilArea	Highland (council area)
+Knockfarrel	councilArea	Highland (council area)
+Kilphedir	councilArea	Highland (council area)
+Kensaleyre	councilArea	Highland (council area)
+Kilmonivaig	councilArea	Highland (council area)
+Kinlocheil	councilArea	Highland (council area)
+Kilmorack	councilArea	Highland (council area)
+Kylesku	councilArea	Highland (council area)
+Kinloch Laggan	councilArea	Highland (council area)
+Kincardine, Highland	councilArea	Highland (council area)
+Killimster	councilArea	Highland (council area)
+Kilvaxter	councilArea	Highland (council area)
+Killilan	councilArea	Highland (council area)
+Jamestown, Easter Ross	councilArea	Highland (council area)
+Eynort	councilArea	Highland (council area)
+Erbusaig	councilArea	Highland (council area)
+Errogie	councilArea	Highland (council area)
+Flodigarry	councilArea	Highland (council area)
+Balchrick	councilArea	Highland (council area)
+Nedd	councilArea	Highland (council area)
+Dalchreichart	councilArea	Highland (council area)
+Kirkbuddo	councilArea	Angus
+Inveralligin	councilArea	Highland (council area)
+Sallachy	councilArea	Highland (council area)
+Sarclet	councilArea	Highland (council area)
+Sangobeg	councilArea	Highland (council area)
+Leckfurin	councilArea	Highland (council area)
+Spinningdale	councilArea	Highland (council area)
+California, Falkirk	councilArea	Falkirk (council area)
+Ballifeary	councilArea	Highland (council area)
+Raddery	councilArea	Highland (council area)
+Garafad	councilArea	Highland (council area)
+Druimarben	councilArea	Highland (council area)
+Bualintur	councilArea	Highland (council area)
+Balchladich	councilArea	Highland (council area)
+Trantlemore	councilArea	Highland (council area)
+Pittentrail	councilArea	Highland (council area)
+Glaichbea	councilArea	Highland (council area)
+Galltrigill	councilArea	Highland (council area)
+Dalhalvaig	councilArea	Highland (council area)
+Croick	councilArea	Highland (council area)
+Struy	councilArea	Highland (council area)
+Pitcalnie	councilArea	Highland (council area)
+Balintraid	councilArea	Highland (council area)
+Newlands of Geise	councilArea	Highland (council area)
+Newton of Ferintosh	councilArea	Highland (council area)
+Newton of Ardtoe	councilArea	Highland (council area)
+Newton of Kinkell	councilArea	Highland (council area)
+Kingennie	councilArea	Angus
+Upper Dallachy	councilArea	Moray
+Dalnabreck	councilArea	Highland (council area)
+Balnafoich	councilArea	Highland (council area)
+Carnach	councilArea	Highland (council area)
+Dochgarroch	councilArea	Highland (council area)
+Drumfearn	councilArea	Highland (council area)
+Dounie	councilArea	Highland (council area)
+Druimindarroch	councilArea	Highland (council area)
+Skerray	councilArea	Highland (council area)
+Fersit	councilArea	Highland (council area)
+Armadale, Sutherland	councilArea	Highland (council area)
+Roag	councilArea	Highland (council area)
+Lenie, Scotland	councilArea	Highland (council area)
+Lochslin	councilArea	Highland (council area)
+Milovaig	councilArea	Highland (council area)
+Nostie	councilArea	Highland (council area)
+Arthur's Oven	councilArea	Falkirk (council area)
+Miltonduff	councilArea	Moray
+Murkle	councilArea	Highland (council area)
+Muirshearlich	councilArea	Highland (council area)
+Mybster	councilArea	Highland (council area)
+Rearquhar	councilArea	Highland (council area)
+Polglass	councilArea	Highland (council area)
+Halistra	councilArea	Highland (council area)
+Memsie	councilArea	Aberdeenshire
+Glendale, Skye	councilArea	Highland (council area)
+Badbea	councilArea	Highland (council area)
+Sand, Highland	councilArea	Highland (council area)
+Suladale	councilArea	Highland (council area)
+Shebster	councilArea	Highland (council area)
+Sconser	councilArea	Highland (council area)
+Staffin	councilArea	Highland (council area)
+Swinton, Scottish Borders	councilArea	Scottish Borders
+Lamington, Highland	councilArea	Highland (council area)
+Gartymore	councilArea	Highland (council area)
+Etteridge	councilArea	Highland (council area)
+Gedintailor	councilArea	Highland (council area)
+Mountgerald	councilArea	Highland (council area)
+Muie	councilArea	Highland (council area)
+Mellon Udrigle	councilArea	Highland (council area)
+Reiss, Scotland	councilArea	Highland (council area)
+Swordly	councilArea	Highland (council area)
+Saval	councilArea	Highland (council area)
+Spittal, Highland	councilArea	Highland (council area)
+Stronchreggan	councilArea	Highland (council area)
+Trislaig	councilArea	Highland (council area)
+Glencarse	councilArea	Perth and Kinross
+Kirkhill, Highland	councilArea	Highland (council area)
+Lentran	councilArea	Highland (council area)
+Eyre, Skye	councilArea	Highland (council area)
+Glensanda	councilArea	Highland (council area)
+Dyke, Moray	councilArea	Moray
+Brough, Caithness	councilArea	Highland (council area)
+Otternish	councilArea	Outer Hebrides
+Gowkhall	councilArea	Fife
+Dunachton	councilArea	Highland (council area)
+Peaston	councilArea	East Lothian
+St Madoes	councilArea	Perth and Kinross
+Rora, Aberdeenshire	councilArea	Aberdeenshire
+New Leeds	councilArea	Aberdeenshire
+Bowden, Scottish Borders	councilArea	Scottish Borders
+Whitecairns	councilArea	Aberdeenshire
+Quarff	councilArea	Shetland
+Clachanmore	councilArea	Dumfries and Galloway
+Ardoch	councilArea	Perth and Kinross
+Crask	councilArea	Highland (council area)
+Drumuillie	councilArea	Highland (council area)
+Clyth	councilArea	Highland (council area)
+Cleadale, Eigg	councilArea	Highland (council area)
+Gruids	councilArea	Highland (council area)
+Inverchoran	councilArea	Highland (council area)
+Ratagan	councilArea	Highland (council area)
+Shiel Bridge	councilArea	Highland (council area)
+Lathones	councilArea	Fife
+Balleigh	councilArea	Highland (council area)
+Balnakeil	councilArea	Highland (council area)
+Bottacks	councilArea	Highland (council area)
+Culcharry	councilArea	Highland (council area)
+Morvich, Highland	councilArea	Highland (council area)
+Roybridge	councilArea	Highland (council area)
+Maddiston	councilArea	Falkirk (council area)
+Limerigg	councilArea	Falkirk (council area)
+Dunmore, Falkirk	councilArea	Falkirk (council area)
+Laurieston, Falkirk	councilArea	Falkirk (council area)
+Whitecross, Falkirk	councilArea	Falkirk (council area)
+Skinflats	councilArea	Falkirk (council area)
+Budhill	councilArea	Politics of Glasgow
+Ferryhill, Aberdeen	councilArea	Aberdeen
+Hutton, Scottish Borders	councilArea	Scottish Borders
+Cortes, Aberdeenshire	councilArea	Aberdeenshire
+Keig	councilArea	Aberdeenshire
+Balvraid	councilArea	Highland (council area)
+Blairmore, Sutherland	councilArea	Highland (council area)
+Droman, Sutherland	councilArea	Highland (council area)
+Kentra	councilArea	Highland (council area)
+Rhiconich	councilArea	Highland (council area)
+Oldshore Beg	councilArea	Highland (council area)
+Greenloaning	councilArea	Perth and Kinross
+Kinbuck	councilArea	Stirling (council area)
+Altnaharra	councilArea	Highland (council area)
+Ramasaig	councilArea	Highland (council area)
+Smerral	councilArea	Highland (council area)
+Portnancon	councilArea	Highland (council area)
+Laid, Sutherland	councilArea	Highland (council area)
+Craigie, Perth and Kinross	councilArea	Perth and Kinross
+Flashader	councilArea	Highland (council area)
+Inver, Highland	councilArea	Highland (council area)
+Polloch	councilArea	Highland (council area)
+Polbain	councilArea	Highland (council area)
+East Mey	councilArea	Highland (council area)
+Melvaig	councilArea	Highland (council area)
+Milton of Campsie	councilArea	East Dunbartonshire
+Uachdar	councilArea	Outer Hebrides
+Newmill-on-Teviot	councilArea	Scottish Borders
+John o' Groats	councilArea	Highland (council area)
+Netherton, Glasgow	councilArea	Politics of Glasgow
+Cumbernauld	councilArea	North Lanarkshire
+Toscaig	councilArea	Highland (council area)
+Tomchrasky	councilArea	Highland (council area)
+Marybank	councilArea	Highland (council area)
+Tournaig	councilArea	Highland (council area)
+Oldshoremore	councilArea	Highland (council area)
+Logie Hill	councilArea	Highland (council area)
+Lothbeg	councilArea	Highland (council area)
+Opinan, Laide, Highland	councilArea	Highland (council area)
+Upper Camster	councilArea	Highland (council area)
+Portnaluchaig	councilArea	Highland (council area)
+Charlestown, Black Isle	councilArea	Highland (council area)
+Charlestown, Wester Ross	councilArea	Highland (council area)
+Easter Kinkell	councilArea	Highland (council area)
+East Langwell	councilArea	Highland (council area)
+East Croachy	councilArea	Highland (council area)
+Inchmore	councilArea	Highland (council area)
+Galmisdale	councilArea	Highland (council area)
+Westfield, Highland	councilArea	Highland (council area)
+Portskerra	councilArea	Highland (council area)
+Fogo, Scottish Borders	councilArea	Scottish Borders
+Preston, Scottish Borders	councilArea	Scottish Borders
+Fisherton	councilArea	Highland (council area)
+Killen, Highland	councilArea	Highland (council area)
+Lewiston, Highland	councilArea	Highland (council area)
+Crosskirk	councilArea	Highland (council area)
+Forss, Highland	councilArea	Highland (council area)
+Clephanton	councilArea	Highland (council area)
+Drumbuie	councilArea	Highland (council area)
+Gairlochy	councilArea	Highland (council area)
+Edrom	councilArea	Scottish Borders
+Burnfoot, Scottish Borders	councilArea	Scottish Borders
+Badcall, Scourie	councilArea	Highland (council area)
+Knockroon	councilArea	East Ayrshire
+Lynchat	councilArea	Highland (council area)
+Lubcroy	councilArea	Highland (council area)
+Waterside, East Ayrshire	councilArea	East Ayrshire
+Priestland	councilArea	East Ayrshire
+Ellishadder	councilArea	Highland (council area)
+Fearn, Highland	councilArea	Highland (council area)
+Grudie	councilArea	Highland (council area)
+Talladale	councilArea	Highland (council area)
+Totegan	councilArea	Highland (council area)
+Lucklawhill	councilArea	Fife
+Treaslane	councilArea	Highland (council area)
+Tomnacross	councilArea	Highland (council area)
+Torrisdale, Sutherland	councilArea	Highland (council area)
+Skirza	councilArea	Highland (council area)
+Coll, Lewis	councilArea	Outer Hebrides
+Invernaver	councilArea	Highland (council area)
+Inverkirkaig	councilArea	Highland (council area)
+Ramscraig	councilArea	Highland (council area)
+Blarnalearoch	councilArea	Highland (council area)
+Corntown, Highland	councilArea	Highland (council area)
+Cove, Highland	councilArea	Highland (council area)
+Clunes, Lochaber	councilArea	Highland (council area)
+Muir of Tarradale	councilArea	Highland (council area)
+Muir of Allangrange	councilArea	Highland (council area)
+Mey, Highland	councilArea	Highland (council area)
+Lower Diabaig	councilArea	Highland (council area)
+Skeabost	councilArea	Highland (council area)
+Culburnie, Highland	councilArea	Highland (council area)
+Inverroy	councilArea	Highland (council area)
+North Erradale	councilArea	Highland (council area)
+Regoul	councilArea	Highland (council area)
+Rosehall	councilArea	Highland (council area)
+Rhiroy	councilArea	Highland (council area)
+Resaurie	councilArea	Highland (council area)
+Rhynd	councilArea	Perth and Kinross
+Redford, Angus	councilArea	Angus
+Muirdrum	councilArea	Angus
+Burnside of Duntrune	councilArea	Angus
+Ardovie	councilArea	Angus
+South Erradale	councilArea	Highland (council area)
+Tote, Skye	councilArea	Highland (council area)
+Skye of Curr	councilArea	Highland (council area)
+Swordale, Ross-shire	councilArea	Highland (council area)
+Newport, Caithness	councilArea	Highland (council area)
+Camuston	councilArea	Angus
+Inveraldie	councilArea	Angus
+Bridgefoot, Angus	councilArea	Angus
+Balintore, Angus	councilArea	Angus
+Talmine, Sutherland	councilArea	Highland (council area)
+Melness	councilArea	Highland (council area)
+Upper Lybster	councilArea	Highland (council area)
+Doune, Highland	councilArea	Highland (council area)
+Trinity, Angus	councilArea	Angus
+Little Brechin	councilArea	Angus
+Whigstreet	councilArea	Angus
+Clova, Angus	councilArea	Angus
+Craigton, Angus	councilArea	Angus
+Wellbank	councilArea	Angus
+Lucknow, Angus	councilArea	Angus
+Greystone, Angus	councilArea	Angus
+Upper Victoria	councilArea	Angus
+Inverpeffer	councilArea	Angus
+Milton of Finavon	councilArea	Angus
+Kirkton of Kingoldrum	councilArea	Angus
+Ruthven, Angus	councilArea	Angus
+Bridgend of Lintrathen	councilArea	Angus
+Kirkton of Glenisla	councilArea	Angus
+Brewlands Bridge	councilArea	Angus
+Folda, Angus	councilArea	Angus
+Little Forter	councilArea	Angus
+Gardynebourg	councilArea	Angus
+Hunter's Town, Angus	councilArea	Angus
+Badnaban	councilArea	Highland (council area)
+Strathan, Sutherland	councilArea	Highland (council area)
+Kellas, Angus	councilArea	Angus
+Reiff, Ross-shire	councilArea	Highland (council area)
+Craichie	councilArea	Angus
+Roadside, Caithness	councilArea	Highland (council area)
+Sordale	councilArea	Highland (council area)
+Balmirmer	councilArea	Angus
+Ferindonald	councilArea	Highland (council area)
+Roster, Caithness	councilArea	Highland (council area)
+Panbride	councilArea	Angus
+Elliot, Angus	councilArea	Angus
+Gateside, Angus	councilArea	Angus
+Salmond's Muir	councilArea	Angus
+Bucklerheads	councilArea	Angus
+Dowally	councilArea	Perth and Kinross
+Dalqueich	councilArea	Perth and Kinross
+Blairingone	councilArea	Perth and Kinross
+Powmill	councilArea	Perth and Kinross
+Scotlandwell	councilArea	Perth and Kinross
+Kinnesswood	councilArea	Perth and Kinross
+Carsehall	councilArea	Perth and Kinross
+Carnbo	councilArea	Perth and Kinross
+Glenlomond	councilArea	Perth and Kinross
+Duncrievie	councilArea	Perth and Kinross
+Middleton, Perth and Kinross	councilArea	Perth and Kinross
+Milden, Angus	councilArea	Angus
+Woodside, Perth and Kinross	councilArea	Perth and Kinross
+Kettins	councilArea	Perth and Kinross
+Caputh, Perth and Kinross	councilArea	Perth and Kinross
+Balbeggie	councilArea	Perth and Kinross
+Salen, Ardnamurchan	councilArea	Highland (council area)
+Badcall, Rhiconich	councilArea	Highland (council area)
+Culkein Drumbeg	councilArea	Highland (council area)
+Carpow	councilArea	Perth and Kinross
+Invermay	councilArea	Perth and Kinross
+Carlogie	councilArea	Angus
+Woodhill, Angus	councilArea	Angus
+Dounby	councilArea	Orkney
+Clayholes	councilArea	Angus
+Daviot, Highland	councilArea	Highland (council area)
+Campmuir	councilArea	Perth and Kinross
+Leswalt	councilArea	Dumfries and Galloway
+Kilmore, Skye	councilArea	Highland (council area)
+Kilmuir, Easter Ross	councilArea	Highland (council area)
+Kilmuir, Black Isle	councilArea	Highland (council area)
+Kingsburgh, Skye	councilArea	Highland (council area)
+Geary, Skye	councilArea	Highland (council area)
+Gills, Caithness	councilArea	Highland (council area)
+Farr, Strathnairn	councilArea	Highland (council area)
+Doll, Highland	councilArea	Highland (council area)
+Dalnavert, Highland	councilArea	Highland (council area)
+Coylumbridge	councilArea	Highland (council area)
+Canisbay	councilArea	Highland (council area)
+Inverdruie	councilArea	Highland (council area)
+Dun, Angus	councilArea	Angus
+Tamfourhill	councilArea	Falkirk (council area)
+Wilkieston	councilArea	West Lothian
+Clarkston, East Renfrewshire	councilArea	East Renfrewshire
+Monikie	councilArea	Angus
+Renfrew	councilArea	Renfrewshire
+Achnahannet, Inverness district	councilArea	Highland (council area)
+Symington, South Ayrshire	councilArea	South Ayrshire
+Cairnryan Harbour	councilArea	Dumfries and Galloway
+Inchyra	councilArea	Perth and Kinross
+Rosebank, South Lanarkshire	councilArea	South Lanarkshire
+South Alloa	councilArea	Falkirk (council area)
+Fankerton	councilArea	Falkirk (council area)
+Greenhill, Falkirk	councilArea	Falkirk (council area)
+Carron, Falkirk	councilArea	Falkirk (council area)
+High Bonnybridge	councilArea	Falkirk (council area)
+Muirhouses, Falkirk	councilArea	Falkirk (council area)
+Stoneywood, Falkirk	councilArea	Falkirk (council area)
+Sibbaldbie	councilArea	Dumfries and Galloway
+Cambusbarron	councilArea	Stirling (council area)
+Pitcairngreen	councilArea	Perth and Kinross
+Moneydie	councilArea	Perth and Kinross
+Harrietfield	councilArea	Perth and Kinross
+Boarhills	councilArea	Fife
+Whauphill	councilArea	Dumfries and Galloway
+Kirkinner	councilArea	Dumfries and Galloway

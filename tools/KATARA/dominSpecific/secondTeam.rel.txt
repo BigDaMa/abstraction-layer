@@ -1,0 +1,913 @@
+2004 San Marino Grand Prix	secondTeam	British American Racing
+2003 San Marino Grand Prix	secondTeam	McLaren
+2004 Malaysian Grand Prix	secondTeam	Williams F1
+2004 Australian Grand Prix	secondTeam	Scuderia Ferrari
+2004 Bahrain Grand Prix	secondTeam	Scuderia Ferrari
+2003 Australian Grand Prix	secondTeam	Williams F1
+2003 Malaysian Grand Prix	secondTeam	Scuderia Ferrari
+2003 Spanish Grand Prix	secondTeam	Renault F1
+2003 Monaco Grand Prix	secondTeam	McLaren
+2003 European Grand Prix	secondTeam	Williams F1
+2004 Spanish Grand Prix	secondTeam	Scuderia Ferrari
+2004 Monaco Grand Prix	secondTeam	British American Racing
+2002 Australian Grand Prix	secondTeam	Williams F1
+2001 Australian Grand Prix	secondTeam	McLaren
+2000 Australian Grand Prix	secondTeam	Scuderia Ferrari
+2004 Japanese Grand Prix	secondTeam	Williams F1
+2004 European Grand Prix	secondTeam	Scuderia Ferrari
+2004 Brazilian Grand Prix	secondTeam	McLaren
+1950 British Grand Prix	secondTeam	Alfa Romeo in Formula One
+1950 Monaco Grand Prix	secondTeam	Scuderia Ferrari
+1950 Swiss Grand Prix	secondTeam	Alfa Romeo in Formula One
+1950 Belgian Grand Prix	secondTeam	Alfa Romeo
+1951 Swiss Grand Prix	secondTeam	Scuderia Ferrari
+1950 Italian Grand Prix	secondTeam	Scuderia Ferrari
+1950 French Grand Prix	secondTeam	Alfa Romeo in Formula One
+1951 Belgian Grand Prix	secondTeam	Scuderia Ferrari
+1951 French Grand Prix	secondTeam	Scuderia Ferrari
+1951 British Grand Prix	secondTeam	Alfa Romeo in Formula One
+1951 German Grand Prix	secondTeam	Alfa Romeo in Formula One
+1951 Italian Grand Prix	secondTeam	Scuderia Ferrari
+1951 Spanish Grand Prix	secondTeam	Scuderia Ferrari
+1952 Belgian Grand Prix	secondTeam	Scuderia Ferrari
+1952 British Grand Prix	secondTeam	Scuderia Ferrari
+1953 Argentine Grand Prix	secondTeam	Scuderia Ferrari
+1952 Italian Grand Prix	secondTeam	Maserati in motorsport
+1953 Dutch Grand Prix	secondTeam	Scuderia Ferrari
+1953 Belgian Grand Prix	secondTeam	Scuderia Ferrari
+1953 Swiss Grand Prix	secondTeam	Scuderia Ferrari
+1953 British Grand Prix	secondTeam	Maserati
+1953 German Grand Prix	secondTeam	Maserati
+1953 French Grand Prix	secondTeam	Maserati
+1954 Argentine Grand Prix	secondTeam	Scuderia Ferrari
+1953 Italian Grand Prix	secondTeam	Scuderia Ferrari
+1954 Belgian Grand Prix	secondTeam	Scuderia Ferrari
+1954 French Grand Prix	secondTeam	Mercedes GP
+1954 British Grand Prix	secondTeam	Scuderia Ferrari
+1954 German Grand Prix	secondTeam	Scuderia Ferrari
+1955 Monaco Grand Prix	secondTeam	Lancia#Formula One
+1956 Monaco Grand Prix	secondTeam	Scuderia Ferrari
+1956 Argentine Grand Prix	secondTeam	Maserati
+1956 Belgian Grand Prix	secondTeam	Scuderia Ferrari
+1956 British Grand Prix	secondTeam	Scuderia Ferrari
+1955 British Grand Prix	secondTeam	Mercedes GP
+1956 Italian Grand Prix	secondTeam	Scuderia Ferrari
+1957 British Grand Prix	secondTeam	Scuderia Ferrari
+1958 Belgian Grand Prix	secondTeam	Scuderia Ferrari
+1959 French Grand Prix	secondTeam	Scuderia Ferrari
+1959 British Grand Prix	secondTeam	British Racing Motors
+1960 British Grand Prix	secondTeam	Team Lotus
+1960 Italian Grand Prix	secondTeam	Scuderia Ferrari
+1961 Dutch Grand Prix	secondTeam	Scuderia Ferrari
+1961 Monaco Grand Prix	secondTeam	Scuderia Ferrari
+1961 Belgian Grand Prix	secondTeam	Scuderia Ferrari
+1961 British Grand Prix	secondTeam	Scuderia Ferrari
+1961 French Grand Prix	secondTeam	Porsche in motorsport#Single-seaters
+1961 Italian Grand Prix	secondTeam	Porsche in motorsport#Single-seaters
+1962 Dutch Grand Prix	secondTeam	Team Lotus
+1961 United States Grand Prix	secondTeam	Porsche in motorsport#Single-seaters
+1962 Monaco Grand Prix	secondTeam	Scuderia Ferrari
+1962 French Grand Prix	secondTeam	Cooper Car Company
+1961 German Grand Prix	secondTeam	Scuderia Ferrari
+1962 British Grand Prix	secondTeam	Lola Cars
+1962 German Grand Prix	secondTeam	Lola Cars
+1962 United States Grand Prix	secondTeam	British Racing Motors
+1962 South African Grand Prix	secondTeam	Cooper Car Company
+1962 Italian Grand Prix	secondTeam	British Racing Motors
+1962 Belgian Grand Prix	secondTeam	British Racing Motors
+1963 Monaco Grand Prix	secondTeam	British Racing Motors
+1963 Dutch Grand Prix	secondTeam	Brabham
+1963 French Grand Prix	secondTeam	Cooper Car Company
+1963 British Grand Prix	secondTeam	Scuderia Ferrari
+1963 Belgian Grand Prix	secondTeam	Cooper Car Company
+1963 German Grand Prix	secondTeam	Team Lotus
+1963 United States Grand Prix	secondTeam	British Racing Motors
+1963 Mexican Grand Prix	secondTeam	Brabham
+1963 Italian Grand Prix	secondTeam	British Racing Motors
+1964 French Grand Prix	secondTeam	British Racing Motors
+1964 British Grand Prix	secondTeam	British Racing Motors
+1964 United States Grand Prix	secondTeam	Scuderia Ferrari
+1963 South African Grand Prix	secondTeam	Brabham
+1965 Belgian Grand Prix	secondTeam	British Racing Motors
+1965 British Grand Prix	secondTeam	British Racing Motors
+1965 United States Grand Prix	secondTeam	Brabham
+1966 French Grand Prix	secondTeam	Scuderia Ferrari
+1967 South African Grand Prix	secondTeam	Cooper Car Company
+1967 French Grand Prix	secondTeam	Brabham
+1967 German Grand Prix	secondTeam	Brabham
+1967 Italian Grand Prix	secondTeam	Brabham
+1968 Spanish Grand Prix	secondTeam	McLaren
+1968 Monaco Grand Prix	secondTeam	British Racing Motors
+1968 Belgian Grand Prix	secondTeam	British Racing Motors
+1968 South African Grand Prix	secondTeam	Team Lotus
+1968 French Grand Prix	secondTeam	Honda Racing F1
+1968 Dutch Grand Prix	secondTeam	Matra
+1968 British Grand Prix	secondTeam	Scuderia Ferrari
+1968 German Grand Prix	secondTeam	Team Lotus
+1968 Italian Grand Prix	secondTeam	Matra
+1968 United States Grand Prix	secondTeam	Team Lotus
+1968 Canadian Grand Prix	secondTeam	McLaren
+1969 South African Grand Prix	secondTeam	Team Lotus
+1968 Mexican Grand Prix	secondTeam	McLaren
+1969 Spanish Grand Prix	secondTeam	McLaren
+1969 Monaco Grand Prix	secondTeam	Brabham
+1969 Dutch Grand Prix	secondTeam	Team Lotus
+1969 French Grand Prix	secondTeam	Matra
+1969 British Grand Prix	secondTeam	Brabham
+1969 Italian Grand Prix	secondTeam	Team Lotus
+1969 United States Grand Prix	secondTeam	Brabham
+1969 Mexican Grand Prix	secondTeam	Brabham
+1970 South African Grand Prix	secondTeam	McLaren
+1970 Spanish Grand Prix	secondTeam	McLaren
+1970 Monaco Grand Prix	secondTeam	Brabham
+1970 United States Grand Prix	secondTeam	British Racing Motors
+1971 Spanish Grand Prix	secondTeam	Scuderia Ferrari
+1971 South African Grand Prix	secondTeam	Tyrrell Racing
+1971 United States Grand Prix	secondTeam	British Racing Motors
+1972 Austrian Grand Prix	secondTeam	McLaren
+1972 British Grand Prix	secondTeam	Tyrrell Racing
+1972 United States Grand Prix	secondTeam	Tyrrell Racing
+1973 Brazilian Grand Prix	secondTeam	Tyrrell Racing
+1973 Belgian Grand Prix	secondTeam	Tyrrell Racing
+1973 British Grand Prix	secondTeam	Team Lotus
+1973 Dutch Grand Prix	secondTeam	Tyrrell Racing
+1974 Argentine Grand Prix	secondTeam	Scuderia Ferrari
+1974 German Grand Prix	secondTeam	Tyrrell Racing
+1975 Spanish Grand Prix	secondTeam	Team Lotus
+1975 Monaco Grand Prix	secondTeam	McLaren
+1975 Austrian Grand Prix	secondTeam	Hesketh Racing
+1976 Monaco Grand Prix	secondTeam	Tyrrell Racing
+1976 Dutch Grand Prix	secondTeam	Scuderia Ferrari
+1977 Argentine Grand Prix	secondTeam	Brabham
+1976 Canadian Grand Prix	secondTeam	Tyrrell Racing
+1977 South African Grand Prix	secondTeam	Walter Wolf Racing
+1977 Brazilian Grand Prix	secondTeam	McLaren
+1977 Spanish Grand Prix	secondTeam	Scuderia Ferrari
+1977 Monaco Grand Prix	secondTeam	Scuderia Ferrari
+1977 Belgian Grand Prix	secondTeam	Scuderia Ferrari
+1977 French Grand Prix	secondTeam	Brabham
+1977 Swedish Grand Prix	secondTeam	McLaren
+1977 British Grand Prix	secondTeam	Scuderia Ferrari
+1977 German Grand Prix	secondTeam	Walter Wolf Racing
+1977 Austrian Grand Prix	secondTeam	Scuderia Ferrari
+1977 Canadian Grand Prix	secondTeam	Tyrrell Racing
+1977 Italian Grand Prix	secondTeam	Scuderia Ferrari
+1977 Dutch Grand Prix	secondTeam	Equipe Ligier
+1977 Japanese Grand Prix	secondTeam	Scuderia Ferrari
+1978 Argentine Grand Prix	secondTeam	Brabham
+1978 Brazilian Grand Prix	secondTeam	Fittipaldi Automotive
+1978 South African Grand Prix	secondTeam	Tyrrell Racing
+1978 Monaco Grand Prix	secondTeam	Brabham
+1978 Spanish Grand Prix	secondTeam	Team Lotus
+1978 Belgian Grand Prix	secondTeam	Team Lotus
+1978 French Grand Prix	secondTeam	Team Lotus
+1978 British Grand Prix	secondTeam	Brabham
+1978 German Grand Prix	secondTeam	Walter Wolf Racing
+1978 Austrian Grand Prix	secondTeam	Tyrrell Racing
+1978 Italian Grand Prix	secondTeam	Brabham
+1978 Swedish Grand Prix	secondTeam	Arrows
+1978 Canadian Grand Prix	secondTeam	Walter Wolf Racing
+1979 Argentine Grand Prix	secondTeam	Team Lotus
+1978 Dutch Grand Prix	secondTeam	Team Lotus
+1979 South African Grand Prix	secondTeam	Scuderia Ferrari
+1979 Spanish Grand Prix	secondTeam	Team Lotus
+1979 Brazilian Grand Prix	secondTeam	Equipe Ligier
+1979 Belgian Grand Prix	secondTeam	Equipe Ligier
+1979 Monaco Grand Prix	secondTeam	Williams F1
+1979 French Grand Prix	secondTeam	Scuderia Ferrari
+1979 British Grand Prix	secondTeam	Renault F1
+1979 German Grand Prix	secondTeam	Williams F1
+1979 Dutch Grand Prix	secondTeam	Scuderia Ferrari
+1979 Canadian Grand Prix	secondTeam	Scuderia Ferrari
+1979 Italian Grand Prix	secondTeam	Scuderia Ferrari
+1979 Austrian Grand Prix	secondTeam	Scuderia Ferrari
+1980 Argentine Grand Prix	secondTeam	Brabham
+1980 Argentine Grand Prix	secondTeam	Ford Motor Company
+1980 Brazilian Grand Prix	secondTeam	Team Lotus
+1980 South African Grand Prix	secondTeam	Equipe Ligier
+1980 Belgian Grand Prix	secondTeam	Williams F1
+1980 Monaco Grand Prix	secondTeam	Equipe Ligier
+1980 British Grand Prix	secondTeam	Brabham
+1980 French Grand Prix	secondTeam	Equipe Ligier
+1980 German Grand Prix	secondTeam	Williams F1
+1980 Austrian Grand Prix	secondTeam	Williams F1
+1980 Dutch Grand Prix	secondTeam	Renault F1
+1980 Italian Grand Prix	secondTeam	Williams F1
+1980 Canadian Grand Prix	secondTeam	Williams F1
+1981 Brazilian Grand Prix	secondTeam	Williams F1
+1981 Argentine Grand Prix	secondTeam	Williams F1
+1981 San Marino Grand Prix	secondTeam	Arrows
+1981 Monaco Grand Prix	secondTeam	Williams F1
+1981 Belgian Grand Prix	secondTeam	Equipe Ligier
+1981 Spanish Grand Prix	secondTeam	Equipe Ligier
+1981 French Grand Prix	secondTeam	McLaren
+1981 British Grand Prix	secondTeam	Williams F1
+1981 Austrian Grand Prix	secondTeam	Renault F1
+1981 German Grand Prix	secondTeam	Renault F1
+1981 Dutch Grand Prix	secondTeam	Brabham
+1981 Canadian Grand Prix	secondTeam	McLaren
+1981 Caesars Palace Grand Prix	secondTeam	Renault F1
+1982 South African Grand Prix	secondTeam	Williams F1
+1981 Italian Grand Prix	secondTeam	Williams F1
+1982 San Marino Grand Prix	secondTeam	Scuderia Ferrari
+1982 Brazilian Grand Prix	secondTeam	McLaren
+1982 Belgian Grand Prix	secondTeam	Williams F1
+1982 Dutch Grand Prix	secondTeam	Brabham
+1982 Canadian Grand Prix	secondTeam	Brabham
+1982 British Grand Prix	secondTeam	Scuderia Ferrari
+1982 Monaco Grand Prix	secondTeam	Scuderia Ferrari
+1982 French Grand Prix	secondTeam	Renault F1
+1982 German Grand Prix	secondTeam	Renault F1
+1982 Austrian Grand Prix	secondTeam	Williams F1
+1982 Swiss Grand Prix	secondTeam	Renault F1
+1982 Italian Grand Prix	secondTeam	Scuderia Ferrari
+1982 Caesars Palace Grand Prix	secondTeam	McLaren
+1983 San Marino Grand Prix	secondTeam	Renault F1
+1983 Belgian Grand Prix	secondTeam	Scuderia Ferrari
+1983 Monaco Grand Prix	secondTeam	Brabham
+1983 Canadian Grand Prix	secondTeam	Renault F1
+1983 French Grand Prix	secondTeam	Brabham
+1983 German Grand Prix	secondTeam	Alfa Romeo in Formula One
+1983 Dutch Grand Prix	secondTeam	Scuderia Ferrari
+1983 Austrian Grand Prix	secondTeam	Scuderia Ferrari
+1983 British Grand Prix	secondTeam	Brabham
+1983 Italian Grand Prix	secondTeam	Scuderia Ferrari
+1983 European Grand Prix	secondTeam	Renault F1
+1983 South African Grand Prix	secondTeam	Alfa Romeo in Formula One
+1984 Brazilian Grand Prix	secondTeam	Williams F1
+1984 South African Grand Prix	secondTeam	McLaren
+1984 Belgian Grand Prix	secondTeam	Renault F1
+1984 French Grand Prix	secondTeam	Renault F1
+1984 San Marino Grand Prix	secondTeam	Scuderia Ferrari
+1984 Monaco Grand Prix	secondTeam	Toleman
+1984 Canadian Grand Prix	secondTeam	McLaren
+1984 British Grand Prix	secondTeam	Renault F1
+1984 German Grand Prix	secondTeam	McLaren
+1984 Dallas Grand Prix	secondTeam	Scuderia Ferrari
+1984 Austrian Grand Prix	secondTeam	Brabham
+1984 Italian Grand Prix	secondTeam	Scuderia Ferrari
+1984 Dutch Grand Prix	secondTeam	McLaren
+1984 Portuguese Grand Prix	secondTeam	McLaren
+1984 European Grand Prix	secondTeam	Scuderia Ferrari
+1985 Brazilian Grand Prix	secondTeam	Scuderia Ferrari
+1985 Portuguese Grand Prix	secondTeam	Scuderia Ferrari
+1985 San Marino Grand Prix	secondTeam	Arrows
+1985 Canadian Grand Prix	secondTeam	Scuderia Ferrari
+1985 Monaco Grand Prix	secondTeam	Scuderia Ferrari
+1985 British Grand Prix	secondTeam	Scuderia Ferrari
+1985 French Grand Prix	secondTeam	Williams F1
+1985 German Grand Prix	secondTeam	McLaren
+1985 Austrian Grand Prix	secondTeam	Team Lotus
+1985 Italian Grand Prix	secondTeam	Brabham
+1985 Dutch Grand Prix	secondTeam	McLaren
+1985 Belgian Grand Prix	secondTeam	Williams F1
+1985 European Grand Prix	secondTeam	Team Lotus
+1985 South African Grand Prix	secondTeam	Williams F1
+1985 Australian Grand Prix	secondTeam	Equipe Ligier
+1986 Brazilian Grand Prix	secondTeam	Team Lotus
+1986 Spanish Grand Prix	secondTeam	Williams F1
+1986 San Marino Grand Prix	secondTeam	Williams F1
+1986 Monaco Grand Prix	secondTeam	McLaren
+1986 Belgian Grand Prix	secondTeam	Team Lotus
+1986 French Grand Prix	secondTeam	McLaren
+1986 British Grand Prix	secondTeam	Williams F1
+1986 German Grand Prix	secondTeam	Team Lotus
+1986 Canadian Grand Prix	secondTeam	McLaren
+1986 Hungarian Grand Prix	secondTeam	Team Lotus
+1986 Italian Grand Prix	secondTeam	Williams F1
+1986 Portuguese Grand Prix	secondTeam	McLaren
+1986 Austrian Grand Prix	secondTeam	Scuderia Ferrari
+1986 Mexican Grand Prix	secondTeam	McLaren
+1987 Brazilian Grand Prix	secondTeam	Williams F1
+1986 Australian Grand Prix	secondTeam	Williams F1
+1987 Belgian Grand Prix	secondTeam	McLaren
+1987 Monaco Grand Prix	secondTeam	Williams F1
+1987 San Marino Grand Prix	secondTeam	Team Lotus
+1987 French Grand Prix	secondTeam	Williams F1
+1987 German Grand Prix	secondTeam	McLaren
+1987 Austrian Grand Prix	secondTeam	Williams F1
+1987 Hungarian Grand Prix	secondTeam	Team Lotus
+1987 British Grand Prix	secondTeam	Williams F1
+1987 Italian Grand Prix	secondTeam	Team Lotus
+1987 Portuguese Grand Prix	secondTeam	Scuderia Ferrari
+1987 Mexican Grand Prix	secondTeam	Williams F1
+1987 Japanese Grand Prix	secondTeam	Team Lotus
+1987 Spanish Grand Prix	secondTeam	McLaren
+1987 Australian Grand Prix	secondTeam	Scuderia Ferrari
+1988 Brazilian Grand Prix	secondTeam	Scuderia Ferrari
+1988 San Marino Grand Prix	secondTeam	McLaren
+1988 Monaco Grand Prix	secondTeam	Scuderia Ferrari
+1988 Mexican Grand Prix	secondTeam	McLaren
+1988 Canadian Grand Prix	secondTeam	McLaren
+1988 French Grand Prix	secondTeam	McLaren
+1988 British Grand Prix	secondTeam	Williams F1
+1988 German Grand Prix	secondTeam	McLaren
+1988 Hungarian Grand Prix	secondTeam	McLaren
+1988 Belgian Grand Prix	secondTeam	McLaren
+1988 Italian Grand Prix	secondTeam	Scuderia Ferrari
+1988 Portuguese Grand Prix	secondTeam	March Engineering
+1988 Spanish Grand Prix	secondTeam	Williams F1
+1988 Australian Grand Prix	secondTeam	McLaren
+1988 Japanese Grand Prix	secondTeam	McLaren
+1989 Brazilian Grand Prix	secondTeam	McLaren
+1989 San Marino Grand Prix	secondTeam	McLaren
+1989 Mexican Grand Prix	secondTeam	Williams F1
+1989 Monaco Grand Prix	secondTeam	McLaren
+1989 United States Grand Prix	secondTeam	Williams F1
+1989 Canadian Grand Prix	secondTeam	Williams F1
+1989 French Grand Prix	secondTeam	Scuderia Ferrari
+1989 British Grand Prix	secondTeam	Scuderia Ferrari
+1989 German Grand Prix	secondTeam	McLaren
+1989 Italian Grand Prix	secondTeam	Scuderia Ferrari
+1989 Belgian Grand Prix	secondTeam	McLaren
+1989 Hungarian Grand Prix	secondTeam	McLaren
+1989 Spanish Grand Prix	secondTeam	Scuderia Ferrari
+1989 Portuguese Grand Prix	secondTeam	McLaren
+1989 Japanese Grand Prix	secondTeam	Williams F1
+1989 Australian Grand Prix	secondTeam	Benetton Formula
+1990 United States Grand Prix	secondTeam	Tyrrell Racing
+1990 Brazilian Grand Prix	secondTeam	McLaren
+1990 Monaco Grand Prix	secondTeam	Tyrrell Racing
+1990 San Marino Grand Prix	secondTeam	McLaren
+1990 Canadian Grand Prix	secondTeam	Benetton Formula
+1990 Mexican Grand Prix	secondTeam	Scuderia Ferrari
+1990 French Grand Prix	secondTeam	Leyton House Racing
+1990 British Grand Prix	secondTeam	Williams F1
+1990 German Grand Prix	secondTeam	Benetton Formula
+1990 Hungarian Grand Prix	secondTeam	McLaren
+1990 Belgian Grand Prix	secondTeam	Scuderia Ferrari
+1990 Portuguese Grand Prix	secondTeam	McLaren
+1990 Italian Grand Prix	secondTeam	Scuderia Ferrari
+1990 Japanese Grand Prix	secondTeam	Benetton Formula
+1990 Spanish Grand Prix	secondTeam	Scuderia Ferrari
+1991 United States Grand Prix	secondTeam	Scuderia Ferrari
+1990 Australian Grand Prix	secondTeam	Scuderia Ferrari
+1991 Monaco Grand Prix	secondTeam	Williams F1
+1991 Canadian Grand Prix	secondTeam	Tyrrell Racing
+1991 Brazilian Grand Prix	secondTeam	Williams F1
+1991 Mexican Grand Prix	secondTeam	Williams F1
+1991 San Marino Grand Prix	secondTeam	McLaren
+1991 British Grand Prix	secondTeam	McLaren
+1991 Hungarian Grand Prix	secondTeam	Williams F1
+1991 Belgian Grand Prix	secondTeam	McLaren
+1991 German Grand Prix	secondTeam	Williams F1
+1991 Portuguese Grand Prix	secondTeam	McLaren
+1991 Italian Grand Prix	secondTeam	McLaren
+1991 Spanish Grand Prix	secondTeam	Scuderia Ferrari
+1991 Japanese Grand Prix	secondTeam	McLaren
+1991 Australian Grand Prix	secondTeam	Williams F1
+1992 South African Grand Prix	secondTeam	Williams F1
+1992 Mexican Grand Prix	secondTeam	Williams F1
+1992 Brazilian Grand Prix	secondTeam	Williams F1
+1992 Spanish Grand Prix	secondTeam	Benetton Formula
+1992 San Marino Grand Prix	secondTeam	Williams F1
+1992 Canadian Grand Prix	secondTeam	Benetton Formula
+1992 French Grand Prix	secondTeam	Williams F1
+1992 Monaco Grand Prix	secondTeam	Williams F1
+1992 British Grand Prix	secondTeam	Williams F1
+1992 Belgian Grand Prix	secondTeam	Williams F1
+1992 German Grand Prix	secondTeam	McLaren
+1992 Italian Grand Prix	secondTeam	Benetton Formula
+1992 Hungarian Grand Prix	secondTeam	Williams F1
+1992 Portuguese Grand Prix	secondTeam	McLaren
+1992 Japanese Grand Prix	secondTeam	McLaren
+1992 Australian Grand Prix	secondTeam	Benetton Formula
+1993 South African Grand Prix	secondTeam	McLaren
+1993 Brazilian Grand Prix	secondTeam	Williams F1
+1993 European Grand Prix	secondTeam	Williams F1
+1993 Monaco Grand Prix	secondTeam	Williams F1
+1993 Spanish Grand Prix	secondTeam	McLaren
+1993 San Marino Grand Prix	secondTeam	Benetton Formula
+1993 Belgian Grand Prix	secondTeam	Benetton Formula
+1993 Portuguese Grand Prix	secondTeam	Williams F1
+1993 Italian Grand Prix	secondTeam	Scuderia Ferrari
+1993 Japanese Grand Prix	secondTeam	Williams F1
+1993 Australian Grand Prix	secondTeam	Williams F1
+1994 Brazilian Grand Prix	secondTeam	Williams F1
+1994 Pacific Grand Prix	secondTeam	Scuderia Ferrari
+1994 Monaco Grand Prix	secondTeam	McLaren
+1994 Canadian Grand Prix	secondTeam	Williams F1
+1994 Spanish Grand Prix	secondTeam	Benetton Formula
+1994 British Grand Prix	secondTeam	Scuderia Ferrari
+1994 German Grand Prix	secondTeam	Equipe Ligier
+1994 Hungarian Grand Prix	secondTeam	Williams F1
+1994 Belgian Grand Prix	secondTeam	McLaren
+1994 Italian Grand Prix	secondTeam	Scuderia Ferrari
+1994 Portuguese Grand Prix	secondTeam	Williams F1
+1994 European Grand Prix	secondTeam	Williams F1
+1994 Japanese Grand Prix	secondTeam	Benetton Formula
+1994 Australian Grand Prix	secondTeam	Scuderia Ferrari
+1995 Brazilian Grand Prix	secondTeam	Williams F1
+1995 Argentine Grand Prix	secondTeam	Scuderia Ferrari
+1995 San Marino Grand Prix	secondTeam	Scuderia Ferrari
+1995 Spanish Grand Prix	secondTeam	Benetton Formula
+1995 French Grand Prix	secondTeam	Williams F1
+1995 Canadian Grand Prix	secondTeam	Jordan Grand Prix
+1995 Monaco Grand Prix	secondTeam	Williams F1
+1995 Hungarian Grand Prix	secondTeam	Williams F1
+1995 German Grand Prix	secondTeam	Williams F1
+1995 British Grand Prix	secondTeam	Scuderia Ferrari
+1995 Belgian Grand Prix	secondTeam	Williams F1
+1995 Portuguese Grand Prix	secondTeam	Benetton Formula
+1995 Italian Grand Prix	secondTeam	McLaren
+1995 Pacific Grand Prix	secondTeam	Williams F1
+1995 European Grand Prix	secondTeam	Scuderia Ferrari
+1995 Japanese Grand Prix	secondTeam	McLaren
+1996 Australian Grand Prix	secondTeam	Williams F1
+1995 Australian Grand Prix	secondTeam	Equipe Ligier
+1996 Brazilian Grand Prix	secondTeam	Benetton Formula
+1996 Argentine Grand Prix	secondTeam	Williams F1
+1996 European Grand Prix	secondTeam	Scuderia Ferrari
+1996 San Marino Grand Prix	secondTeam	Scuderia Ferrari
+1996 Spanish Grand Prix	secondTeam	Benetton Formula
+1996 Monaco Grand Prix	secondTeam	McLaren
+1996 Japanese Grand Prix	secondTeam	Scuderia Ferrari
+1997 Australian Grand Prix	secondTeam	Scuderia Ferrari
+1997 Argentine Grand Prix	secondTeam	Scuderia Ferrari
+1997 Brazilian Grand Prix	secondTeam	Benetton Formula
+1997 San Marino Grand Prix	secondTeam	Scuderia Ferrari
+1997 Monaco Grand Prix	secondTeam	Stewart Grand Prix
+1997 Canadian Grand Prix	secondTeam	Benetton Formula
+1997 Spanish Grand Prix	secondTeam	Prost Grand Prix
+1997 French Grand Prix	secondTeam	Williams F1
+1997 British Grand Prix	secondTeam	Benetton Formula
+1997 Belgian Grand Prix	secondTeam	Jordan Grand Prix
+1997 Hungarian Grand Prix	secondTeam	Arrows
+1997 German Grand Prix	secondTeam	Scuderia Ferrari
+1997 Italian Grand Prix	secondTeam	Benetton Formula
+1997 Luxembourg Grand Prix	secondTeam	Benetton Formula
+1997 Austrian Grand Prix	secondTeam	McLaren
+1997 Japanese Grand Prix	secondTeam	Williams F1
+1998 Brazilian Grand Prix	secondTeam	McLaren
+1998 Australian Grand Prix	secondTeam	McLaren
+1997 European Grand Prix	secondTeam	McLaren
+1998 Argentine Grand Prix	secondTeam	McLaren
+1998 San Marino Grand Prix	secondTeam	Scuderia Ferrari
+1998 Spanish Grand Prix	secondTeam	McLaren
+1998 Monaco Grand Prix	secondTeam	Benetton Formula
+1998 Canadian Grand Prix	secondTeam	Benetton Formula
+1998 French Grand Prix	secondTeam	Scuderia Ferrari
+1998 British Grand Prix	secondTeam	McLaren
+1998 Austrian Grand Prix	secondTeam	McLaren
+1998 Hungarian Grand Prix	secondTeam	McLaren
+1998 German Grand Prix	secondTeam	McLaren
+1998 Italian Grand Prix	secondTeam	Scuderia Ferrari
+1998 Luxembourg Grand Prix	secondTeam	Scuderia Ferrari
+1998 Belgian Grand Prix	secondTeam	Jordan Grand Prix
+1998 Japanese Grand Prix	secondTeam	Scuderia Ferrari
+1999 Australian Grand Prix	secondTeam	Jordan Grand Prix
+1999 Brazilian Grand Prix	secondTeam	Scuderia Ferrari
+1999 San Marino Grand Prix	secondTeam	McLaren
+1999 Monaco Grand Prix	secondTeam	Scuderia Ferrari
+1999 Canadian Grand Prix	secondTeam	Benetton Formula
+1999 Spanish Grand Prix	secondTeam	McLaren
+1999 French Grand Prix	secondTeam	McLaren
+1999 British Grand Prix	secondTeam	Scuderia Ferrari
+1999 German Grand Prix	secondTeam	Scuderia Ferrari
+1999 Austrian Grand Prix	secondTeam	McLaren
+1999 Belgian Grand Prix	secondTeam	McLaren
+1999 Italian Grand Prix	secondTeam	Williams F1
+1999 Hungarian Grand Prix	secondTeam	McLaren
+1999 European Grand Prix	secondTeam	Prost Grand Prix
+1999 Malaysian Grand Prix	secondTeam	Scuderia Ferrari
+2000 Brazilian Grand Prix	secondTeam	Benetton Formula
+2000 San Marino Grand Prix	secondTeam	McLaren
+1999 Japanese Grand Prix	secondTeam	Scuderia Ferrari
+2000 Spanish Grand Prix	secondTeam	McLaren
+2000 Monaco Grand Prix	secondTeam	Scuderia Ferrari
+2000 Canadian Grand Prix	secondTeam	Scuderia Ferrari
+2000 European Grand Prix	secondTeam	McLaren
+2000 French Grand Prix	secondTeam	McLaren
+2000 Austrian Grand Prix	secondTeam	McLaren
+2000 German Grand Prix	secondTeam	McLaren
+2000 Hungarian Grand Prix	secondTeam	Scuderia Ferrari
+2000 Belgian Grand Prix	secondTeam	Scuderia Ferrari
+2000 United States Grand Prix	secondTeam	Scuderia Ferrari
+2001 Malaysian Grand Prix	secondTeam	Scuderia Ferrari
+2001 Spanish Grand Prix	secondTeam	Williams F1
+2001 Austrian Grand Prix	secondTeam	Scuderia Ferrari
+2001 Brazilian Grand Prix	secondTeam	Scuderia Ferrari
+2001 Monaco Grand Prix	secondTeam	Scuderia Ferrari
+2001 Canadian Grand Prix	secondTeam	Scuderia Ferrari
+2001 European Grand Prix	secondTeam	Williams F1
+2001 German Grand Prix	secondTeam	Scuderia Ferrari
+2001 Belgian Grand Prix	secondTeam	McLaren
+2001 British Grand Prix	secondTeam	Scuderia Ferrari
+2001 Japanese Grand Prix	secondTeam	Williams F1
+2001 Italian Grand Prix	secondTeam	Scuderia Ferrari
+2001 United States Grand Prix	secondTeam	Scuderia Ferrari
+2002 Brazilian Grand Prix	secondTeam	Williams F1
+2002 Malaysian Grand Prix	secondTeam	Williams F1
+2002 San Marino Grand Prix	secondTeam	Scuderia Ferrari
+2002 Spanish Grand Prix	secondTeam	Williams F1
+2002 Canadian Grand Prix	secondTeam	McLaren
+2002 Monaco Grand Prix	secondTeam	Scuderia Ferrari
+2002 Austrian Grand Prix	secondTeam	Scuderia Ferrari
+2002 European Grand Prix	secondTeam	Scuderia Ferrari
+2002 British Grand Prix	secondTeam	Scuderia Ferrari
+2002 German Grand Prix	secondTeam	Williams F1
+2002 French Grand Prix	secondTeam	McLaren
+2002 Hungarian Grand Prix	secondTeam	Scuderia Ferrari
+2002 Belgian Grand Prix	secondTeam	Scuderia Ferrari
+2002 Italian Grand Prix	secondTeam	Scuderia Ferrari
+2002 United States Grand Prix	secondTeam	Scuderia Ferrari
+2002 Japanese Grand Prix	secondTeam	Scuderia Ferrari
+2003 Brazilian Grand Prix	secondTeam	McLaren
+2003 Austrian Grand Prix	secondTeam	McLaren
+2003 French Grand Prix	secondTeam	Williams F1
+2003 Canadian Grand Prix	secondTeam	Williams F1
+2003 British Grand Prix	secondTeam	Williams F1
+2003 German Grand Prix	secondTeam	McLaren
+2003 Hungarian Grand Prix	secondTeam	McLaren
+2003 Japanese Grand Prix	secondTeam	McLaren
+2004 French Grand Prix	secondTeam	Renault F1
+2004 Canadian Grand Prix	secondTeam	Scuderia Ferrari
+2004 United States Grand Prix	secondTeam	Scuderia Ferrari
+2004 British Grand Prix	secondTeam	McLaren
+2004 German Grand Prix	secondTeam	British American Racing
+2004 Belgian Grand Prix	secondTeam	Scuderia Ferrari
+2004 Italian Grand Prix	secondTeam	Scuderia Ferrari
+1976 United States Grand Prix West	secondTeam	Scuderia Ferrari
+1978 United States Grand Prix West	secondTeam	Team Lotus
+1977 United States Grand Prix West	secondTeam	Scuderia Ferrari
+1979 United States Grand Prix West	secondTeam	Scuderia Ferrari
+1980 United States Grand Prix West	secondTeam	Arrows
+1981 United States Grand Prix West	secondTeam	Williams F1
+1982 Detroit Grand Prix	secondTeam	Equipe Ligier
+1982 United States Grand Prix West	secondTeam	Williams F1
+1983 Detroit Grand Prix	secondTeam	Williams F1
+1983 United States Grand Prix West	secondTeam	McLaren
+1984 Detroit Grand Prix	secondTeam	Team Lotus
+1978 United States Grand Prix	secondTeam	Williams F1
+1977 United States Grand Prix	secondTeam	Team Lotus
+1979 United States Grand Prix	secondTeam	Renault F1
+1980 United States Grand Prix	secondTeam	Williams F1
+1958 Moroccan Grand Prix	secondTeam	Scuderia Ferrari
+1926 German Grand Prix	secondTeam	Neue Automobil Gesellschaft
+2005 Australian Grand Prix	secondTeam	Scuderia Ferrari
+2005 Malaysian Grand Prix	secondTeam	Toyota Racing
+2005 Bahrain Grand Prix	secondTeam	Toyota Racing
+2005 San Marino Grand Prix	secondTeam	Scuderia Ferrari
+2005 Spanish Grand Prix	secondTeam	Renault F1
+2005 Monaco Grand Prix	secondTeam	Williams F1
+2005 Canadian Grand Prix	secondTeam	Scuderia Ferrari
+2005 United States Grand Prix	secondTeam	Scuderia Ferrari
+2005 British Grand Prix	secondTeam	Renault F1
+1936 Hungarian Grand Prix	secondTeam	Auto Union
+2005 Hungarian Grand Prix	secondTeam	Scuderia Ferrari
+2005 Turkish Grand Prix	secondTeam	Renault F1
+2005 Italian Grand Prix	secondTeam	Renault F1
+2005 Belgian Grand Prix	secondTeam	Renault F1
+1937 Donington Grand Prix	secondTeam	Mercedes-Benz
+1937 Masaryk Grand Prix	secondTeam	Mercedes-Benz
+1937 Italian Grand Prix	secondTeam	Mercedes-Benz
+1937 Swiss Grand Prix	secondTeam	Mercedes-Benz
+2005 Japanese Grand Prix	secondTeam	Renault F1
+1935 German Grand Prix	secondTeam	Auto Union
+2005 Chinese Grand Prix	secondTeam	McLaren
+1994 San Marino Grand Prix	secondTeam	Scuderia Ferrari
+2006 Bahrain Grand Prix	secondTeam	Scuderia Ferrari
+2006 Malaysian Grand Prix	secondTeam	Renault F1
+2006 Australian Grand Prix	secondTeam	McLaren
+2006 San Marino Grand Prix	secondTeam	Renault F1
+2006 European Grand Prix	secondTeam	Renault F1
+2006 Spanish Grand Prix	secondTeam	Scuderia Ferrari
+2006 Monaco Grand Prix	secondTeam	McLaren
+2006 British Grand Prix	secondTeam	Scuderia Ferrari
+1957 Moroccan Grand Prix	secondTeam	Vanwall
+2006 Canadian Grand Prix	secondTeam	Scuderia Ferrari
+2006 United States Grand Prix	secondTeam	Scuderia Ferrari
+2006 French Grand Prix	secondTeam	Renault F1
+1906 French Grand Prix	secondTeam	Fiat
+2006 German Grand Prix	secondTeam	Scuderia Ferrari
+2006 Hungarian Grand Prix	secondTeam	McLaren
+2006 Turkish Grand Prix	secondTeam	Renault F1
+2006 Chinese Grand Prix	secondTeam	Renault F1
+2006 Japanese Grand Prix	secondTeam	Scuderia Ferrari
+2006 Brazilian Grand Prix	secondTeam	Renault F1
+1929 Monaco Grand Prix	secondTeam	Bugatti
+1939 Belgian Grand Prix	secondTeam	Auto Union
+1978 BRDC International Trophy	secondTeam	Fittipaldi Automotive
+1949 BRDC International Trophy	secondTeam	Ferrari
+1962 Mexican Grand Prix	secondTeam	Brabham
+1971 BRDC International Trophy	secondTeam	McLaren
+1980 Spanish Grand Prix	secondTeam	Arrows
+1933 Monaco Grand Prix	secondTeam	Alfa Romeo in motorsport
+2007 Australian Grand Prix	secondTeam	McLaren
+1950 BRDC International Trophy	secondTeam	Alfa Romeo in Formula One
+2007 Malaysian Grand Prix	secondTeam	McLaren
+2007 Bahrain Grand Prix	secondTeam	McLaren
+1966 BRDC International Trophy	secondTeam	Scuderia Ferrari
+1935 Belgian Grand Prix	secondTeam	Mercedes-Benz
+1935 Swiss Grand Prix	secondTeam	Mercedes-Benz
+1935 Italian Grand Prix	secondTeam	Alfa Romeo in motorsport
+1935 Spanish Grand Prix	secondTeam	Mercedes-Benz
+1936 Monaco Grand Prix	secondTeam	Auto Union
+1936 German Grand Prix	secondTeam	Auto Union
+1936 Swiss Grand Prix	secondTeam	Auto Union
+1936 Italian Grand Prix	secondTeam	Alfa Romeo in motorsport
+1937 Belgian Grand Prix	secondTeam	Auto Union
+1937 German Grand Prix	secondTeam	Mercedes-Benz
+1937 Monaco Grand Prix	secondTeam	Mercedes-Benz
+1938 French Grand Prix	secondTeam	Mercedes-Benz
+1938 German Grand Prix	secondTeam	Mercedes-Benz
+1938 Swiss Grand Prix	secondTeam	Mercedes-Benz
+1931 Italian Grand Prix	secondTeam	Alfa Romeo in motorsport
+1931 French Grand Prix	secondTeam	Alfa Romeo in motorsport
+1931 Belgian Grand Prix	secondTeam	Alfa Romeo in motorsport
+1932 Italian Grand Prix	secondTeam	Maserati
+1932 French Grand Prix	secondTeam	Alfa Romeo in motorsport
+2007 Spanish Grand Prix	secondTeam	McLaren
+2007 Monaco Grand Prix	secondTeam	McLaren
+2007 Japanese Grand Prix	secondTeam	Renault F1
+2007 Belgian Grand Prix	secondTeam	Scuderia Ferrari
+2007 Italian Grand Prix	secondTeam	McLaren
+2007 Canadian Grand Prix	secondTeam	BMW in Formula One#BMW Sauber
+2007 United States Grand Prix	secondTeam	McLaren
+2007 French Grand Prix	secondTeam	Scuderia Ferrari
+2007 British Grand Prix	secondTeam	McLaren
+2007 European Grand Prix	secondTeam	Scuderia Ferrari
+2007 Hungarian Grand Prix	secondTeam	Scuderia Ferrari
+1932 German Grand Prix	secondTeam	Alfa Romeo in motorsport
+1938 Italian Grand Prix	secondTeam	Alfa Romeo in motorsport
+2007 Chinese Grand Prix	secondTeam	McLaren
+2007 Turkish Grand Prix	secondTeam	Scuderia Ferrari
+2007 Brazilian Grand Prix	secondTeam	Scuderia Ferrari
+1939 French Grand Prix	secondTeam	Auto Union
+1939 German Grand Prix	secondTeam	Auto Union
+1939 Swiss Grand Prix	secondTeam	Mercedes-Benz
+1931 German Grand Prix	secondTeam	Bugatti
+1946 René le Bègue Cup	secondTeam	Talbot-Lago
+1946 Nations Grand Prix	secondTeam	Alfa Romeo in motorsport
+1946 Turin Grand Prix	secondTeam	Alfa Romeo in motorsport
+1947 Swiss Grand Prix	secondTeam	Alfa Romeo in motorsport
+1975 Race of Champions	secondTeam	Surtees
+1952 Monaco Grand Prix	secondTeam	Ferrari
+1947 Belgian Grand Prix	secondTeam	Alfa Romeo in motorsport
+1947 Italian Grand Prix	secondTeam	Alfa Romeo in motorsport
+2008 German Grand Prix	secondTeam	Renault F1
+2008 Australian Grand Prix	secondTeam	BMW in Formula One#BMW Sauber
+2008 British Grand Prix	secondTeam	BMW in Formula One#BMW Sauber
+1925 Belgian Grand Prix	secondTeam	Alfa Romeo in motorsport
+1983 Race of Champions	secondTeam	Tyrrell Racing
+1984 Australian Grand Prix	secondTeam	Ralt
+1980 Australian Grand Prix	secondTeam	Alfa Romeo in Formula One
+2008 Malaysian Grand Prix	secondTeam	BMW in Formula One#BMW Sauber
+1962 Danish Grand Prix	secondTeam	Team Lotus
+1907 French Grand Prix	secondTeam	Renault
+1908 French Grand Prix	secondTeam	Karl Benz#Benz & Cie. and the Motorwagen
+1912 French Grand Prix	secondTeam	Fiat
+2008 Singapore Grand Prix	secondTeam	Williams F1
+1913 French Grand Prix	secondTeam	Peugeot
+1948 British Grand Prix	secondTeam	Maserati
+2008 Bahrain Grand Prix	secondTeam	Scuderia Ferrari
+2008 Spanish Grand Prix	secondTeam	Scuderia Ferrari
+2008 Turkish Grand Prix	secondTeam	McLaren
+2008 Canadian Grand Prix	secondTeam	BMW in Formula One#BMW Sauber
+2008 Monaco Grand Prix	secondTeam	BMW in Formula One#BMW Sauber
+2008 French Grand Prix	secondTeam	Scuderia Ferrari
+2008 Hungarian Grand Prix	secondTeam	Toyota Racing
+2008 European Grand Prix	secondTeam	McLaren
+2008 Belgian Grand Prix	secondTeam	BMW in Formula One#BMW Sauber
+2008 Italian Grand Prix	secondTeam	McLaren
+2008 Chinese Grand Prix	secondTeam	Scuderia Ferrari
+2008 Japanese Grand Prix	secondTeam	BMW in Formula One#BMW Sauber
+2008 Brazilian Grand Prix	secondTeam	Renault F1
+1994 French Grand Prix	secondTeam	Williams F1
+1933 Penya Rhin Grand Prix	secondTeam	Alfa Romeo in motorsport
+1965 BRDC International Trophy	secondTeam	Scuderia Ferrari
+1979 Australian Grand Prix	secondTeam	Elfin Sports Cars
+1964 BRDC International Trophy	secondTeam	British Racing Motors
+1963 BRDC International Trophy	secondTeam	Cooper Car Company
+1962 BRDC International Trophy	secondTeam	Team Lotus
+1976 BRDC International Trophy	secondTeam	March Engineering
+1975 BRDC International Trophy	secondTeam	McLaren
+1974 BRDC International Trophy	secondTeam	Surtees
+1971 Argentine Grand Prix	secondTeam	March Engineering
+1965 Mediterranean Grand Prix	secondTeam	Team Lotus
+1964 Mediterranean Grand Prix	secondTeam	Team Lotus
+1979 Race of Champions	secondTeam	Brabham
+1963 Mediterranean Grand Prix	secondTeam	Team Lotus
+1962 Mediterranean Grand Prix	secondTeam	Scuderia Ferrari
+1961 Danish Grand Prix	secondTeam	Team Lotus
+1962 Pau Grand Prix	secondTeam	Scuderia Ferrari
+1961 Pau Grand Prix	secondTeam	Team Lotus
+1963 Pau Grand Prix	secondTeam	Team Lotus
+1965 Race of Champions	secondTeam	British Racing Motors
+1961 Glover Trophy	secondTeam	British Racing Motors
+1962 Glover Trophy	secondTeam	Cooper Car Company
+1963 Glover Trophy	secondTeam	Cooper Car Company
+1964 News of the World Trophy	secondTeam	Team Lotus
+1965 Sunday Mirror Trophy	secondTeam	British Racing Motors
+1961 Solitude Grand Prix	secondTeam	Porsche in motorsport#Single-seaters
+1949 Buenos Aires Grand Prix	secondTeam	Alfa Romeo in Formula One
+1962 Solitude Grand Prix	secondTeam	Porsche in motorsport#Single-seaters
+1964 Solitude Grand Prix	secondTeam	Scuderia Ferrari
+1939 Belgrade City Race	secondTeam	Mercedes-Benz
+1963 Solitude Grand Prix	secondTeam	Team Lotus
+1963 Austrian Grand Prix	secondTeam	Scirocco-Powell
+1961 International Gold Cup	secondTeam	Cooper Car Company
+1962 International Gold Cup	secondTeam	British Racing Motors
+1963 International Gold Cup	secondTeam	British Racing Motors
+1961 Kanonloppet	secondTeam	Porsche in motorsport#Single-seaters
+1962 Kanonloppet	secondTeam	Lola Cars
+1963 Kanonloppet	secondTeam	Team Lotus
+1954 I Cornwall MRC Formula 1 Race	secondTeam	Cooper Car Company
+1993 Indonesian Grand Prix	secondTeam	Birrana
+1954 II Cornwall MRC Formula 1 Race	secondTeam	Cooper Car Company
+1955 Cornwall MRC Formula 1 Race	secondTeam	Connaught Engineering
+1961 Syracuse Grand Prix	secondTeam	Porsche in motorsport#Single-seaters
+1963 Syracuse Grand Prix	secondTeam	Porsche in motorsport#Single-seaters
+1964 Syracuse Grand Prix	secondTeam	Scuderia Ferrari
+1965 Syracuse Grand Prix	secondTeam	Scuderia Ferrari
+1965 Rand Grand Prix	secondTeam	Brabham
+1964 Rand Grand Prix	secondTeam	Brabham
+1963 Rand Grand Prix	secondTeam	Scuderia Ferrari
+1962 Rand Grand Prix	secondTeam	Team Lotus
+1961 Rand Grand Prix	secondTeam	Team Lotus
+1961 Lewis-Evans Trophy	secondTeam	Emeryson
+1961 Silver City Trophy	secondTeam	Team Lotus
+1961 London Trophy	secondTeam	Team Lotus
+1961 Coppa Italia	secondTeam	Team Lotus
+1961 Vienna Grand Prix	secondTeam	Team Lotus
+1960 Glover Trophy	secondTeam	Cooper Car Company
+1966 Syracuse Grand Prix	secondTeam	Scuderia Ferrari
+1914 French Grand Prix	secondTeam	Mercedes (car)
+1971 World Championship Victory Race	secondTeam	Team Lotus
+1908 American Grand Prize	secondTeam	Karl Benz#Benz & Cie. and the Motorwagen
+2009 Abu Dhabi Grand Prix	secondTeam	Red Bull Racing
+1961 Aintree 200	secondTeam	Cooper Car Company
+1962 Aintree 200	secondTeam	Cooper Car Company
+1978 Australian Grand Prix	secondTeam	Matich
+1972 Australian Grand Prix	secondTeam	Lola Cars
+1967 Australian Grand Prix	secondTeam	Lotus Cars
+1964 Australian Grand Prix	secondTeam	Brabham
+1965 Australian Grand Prix	secondTeam	Brabham
+1966 Australian Grand Prix	secondTeam	Brabham
+1968 Australian Grand Prix	secondTeam	Ferrari
+1969 Australian Grand Prix	secondTeam	Ferrari
+1928 Australian Grand Prix	secondTeam	Morris Motor Company
+1973 Australian Grand Prix	secondTeam	Elfin Sports Cars
+1974 Australian Grand Prix	secondTeam	Elfin Sports Cars
+1973 Singapore Grand Prix	secondTeam	Surtees
+1970 Australian Grand Prix	secondTeam	McLaren
+1971 Australian Grand Prix	secondTeam	McLaren
+1975 Australian Grand Prix	secondTeam	Bowin Cars
+2009 Australian Grand Prix	secondTeam	Brawn GP
+1976 Australian Grand Prix	secondTeam	Elfin Sports Cars
+1977 Australian Grand Prix	secondTeam	Chevron Cars Ltd
+1921 French Grand Prix	secondTeam	Ballot
+1921 Italian Grand Prix	secondTeam	Ballot
+1922 French Grand Prix	secondTeam	Bugatti
+1963 Australian Grand Prix	secondTeam	Lola Cars
+1950 Pau Grand Prix	secondTeam	Scuderia Ferrari
+1950 Richmond Trophy	secondTeam	Maserati
+1949 Roussillon Grand Prix	secondTeam	Maserati 4CL and 4CLT
+2009 Japanese Grand Prix	secondTeam	Toyota Racing
+1947 Roussillon Grand Prix	secondTeam	Delage D6
+1946 Roussillon Grand Prix	secondTeam	Maserati 4CL and 4CLT
+1948 Roussillon Grand Prix	secondTeam	Robert Manzon
+1979 Dino Ferrari Grand Prix	secondTeam	Team Lotus
+2009 British Grand Prix	secondTeam	Red Bull Racing
+1963 Aintree 200	secondTeam	Team Lotus
+1964 Aintree 200	secondTeam	British Racing Motors
+1966 South African Grand Prix	secondTeam	Brabham
+1950 San Remo Grand Prix	secondTeam	Scuderia Ferrari
+1963 Rome Grand Prix	secondTeam	Porsche in motorsport
+1963 Imola Grand Prix	secondTeam	Team Lotus
+1962 Lavant Cup	secondTeam	Lola Cars
+2009 Monaco Grand Prix	secondTeam	Brawn GP
+1962 Crystal Palace Trophy	secondTeam	Lola Cars
+1962 International 2000 Guineas	secondTeam	Team Lotus
+1950 Paris Grand Prix	secondTeam	Delage
+1950 British Empire Trophy	secondTeam	English Racing Automobiles
+1950 Bari Grand Prix	secondTeam	Alfa Romeo in Formula One
+1962 Reims Grand Prix	secondTeam	British Racing Motors
+1950 Jersey Road Race	secondTeam	Maserati
+1961 Lombank Trophy	secondTeam	Team Lotus
+1962 Lombank Trophy	secondTeam	British Racing Motors
+1922 Italian Grand Prix	secondTeam	Fiat
+1963 Lombank Trophy	secondTeam	Team Lotus
+1923 French Grand Prix	secondTeam	Sunbeam (car company)
+1964 Daily Mirror Trophy	secondTeam	Cooper Car Company
+1966 International Gold Cup	secondTeam	Brabham
+1967 Race of Champions	secondTeam	Scuderia Ferrari
+1962 Cape Grand Prix	secondTeam	Team Lotus
+1961 Natal Grand Prix	secondTeam	Team Lotus
+1962 Natal Grand Prix	secondTeam	Team Lotus
+1961 Modena Grand Prix	secondTeam	Porsche in motorsport#Single-seaters
+1961 Flugplatzrennen	secondTeam	Cooper Car Company
+1949 Italian Grand Prix	secondTeam	Talbot-Lago
+1923 Italian Grand Prix	secondTeam	Fiat
+2009 Malaysian Grand Prix	secondTeam	BMW in Formula One#BMW Sauber
+2009 Chinese Grand Prix	secondTeam	Red Bull Racing
+2009 Bahrain Grand Prix	secondTeam	Red Bull Racing
+2009 Brazilian Grand Prix	secondTeam	BMW in Formula One#BMW Sauber
+1949 British Grand Prix	secondTeam	English Racing Automobiles
+1949 Belgian Grand Prix	secondTeam	Scuderia Ferrari
+1949 Swiss Grand Prix	secondTeam	Scuderia Ferrari
+1924 French Grand Prix	secondTeam	Delage
+1924 Italian Grand Prix	secondTeam	Alfa Romeo in motorsport
+2009 Spanish Grand Prix	secondTeam	Brawn GP
+1925 Italian Grand Prix	secondTeam	Alfa Romeo in motorsport
+1926 Italian Grand Prix	secondTeam	Bugatti
+1927 Italian Grand Prix	secondTeam	Officine Meccaniche
+2009 Turkish Grand Prix	secondTeam	Red Bull Racing
+2009 German Grand Prix	secondTeam	Red Bull Racing
+2009 Hungarian Grand Prix	secondTeam	Scuderia Ferrari
+2009 Singapore Grand Prix	secondTeam	Toyota Racing
+2009 European Grand Prix	secondTeam	McLaren
+2009 Belgian Grand Prix	secondTeam	Force India
+2009 Italian Grand Prix	secondTeam	Brawn GP
+1925 French Grand Prix	secondTeam	Delage
+1962 Australian Grand Prix	secondTeam	Cooper Car Company
+1961 Australian Grand Prix	secondTeam	Cooper Car Company
+1960 Australian Grand Prix	secondTeam	Aston Martin
+1967 International Gold Cup	secondTeam	Matra
+1968 International Gold Cup	secondTeam	Scuderia Ferrari
+1959 Australian Grand Prix	secondTeam	Cooper Car Company
+1958 Australian Grand Prix	secondTeam	Chevrolet
+1964 New Zealand Grand Prix	secondTeam	Brabham
+1965 New Zealand Grand Prix	secondTeam	Brabham
+1966 New Zealand Grand Prix	secondTeam	British Racing Motors
+1926 French Grand Prix	secondTeam	Bugatti
+1969 Madrid Grand Prix	secondTeam	McLaren
+1971 Jochen Rindt Gedächtnisrennen	secondTeam	March Engineering
+1926 San Sebastián Grand Prix	secondTeam	Delage
+1926 British Grand Prix	secondTeam	Bugatti
+1967 New Zealand Grand Prix	secondTeam	Team Lotus
+1957 Australian Grand Prix	secondTeam	Maserati
+1968 Deutschland Trophäe	secondTeam	Matra
+1934 German Grand Prix	secondTeam	Mercedes-Benz
+2010 British Grand Prix	secondTeam	McLaren
+1927 British Grand Prix	secondTeam	Delage
+1970 Race of Champions	secondTeam	Team Lotus
+1956 Australian Grand Prix	secondTeam	Maserati
+1955 Australian Grand Prix	secondTeam	Maserati
+1954 Australian Grand Prix	secondTeam	MG Cars
+1953 Australian Grand Prix	secondTeam	MG Cars
+1968 New Zealand Grand Prix	secondTeam	Brabham
+2010 Bahrain Grand Prix	secondTeam	Scuderia Ferrari
+2010 Australian Grand Prix	secondTeam	Renault F1
+2010 Turkish Grand Prix	secondTeam	McLaren
+2010 Malaysian Grand Prix	secondTeam	Red Bull Racing
+2010 Spanish Grand Prix	secondTeam	Scuderia Ferrari
+2010 Canadian Grand Prix	secondTeam	McLaren
+2010 Monaco Grand Prix	secondTeam	Red Bull Racing
+2010 European Grand Prix	secondTeam	McLaren
+1969 New Zealand Grand Prix	secondTeam	Team Lotus
+1970 New Zealand Grand Prix	secondTeam	Brabham
+1938 Australian Grand Prix	secondTeam	Terraplane
+2010 Hungarian Grand Prix	secondTeam	Scuderia Ferrari
+2010 German Grand Prix	secondTeam	Scuderia Ferrari
+2010 Chinese Grand Prix	secondTeam	McLaren
+2010 Belgian Grand Prix	secondTeam	Red Bull Racing
+2010 Italian Grand Prix	secondTeam	McLaren
+2010 Japanese Grand Prix	secondTeam	Red Bull Racing
+2010 Singapore Grand Prix	secondTeam	Red Bull Racing
+2010 Korean Grand Prix	secondTeam	McLaren
+2010 Abu Dhabi Grand Prix	secondTeam	McLaren
+2010 Brazilian Grand Prix	secondTeam	Red Bull Racing
+1951 Australian Grand Prix	secondTeam	Delahaye
+1950 Australian Grand Prix	secondTeam	Alfa Romeo in motorsport
+1961 Naples Grand Prix	secondTeam	Team Lotus
+1962 Naples Grand Prix	secondTeam	Scuderia Ferrari
+1949 Australian Grand Prix	secondTeam	MG Cars
+1948 Australian Grand Prix	secondTeam	MG Cars
+1972 World Championship Victory Race	secondTeam	Surtees
+1947 Australian Grand Prix	secondTeam	Mercury (automobile)
+1939 Australian Grand Prix	secondTeam	Terraplane
+1937 Australian Grand Prix	secondTeam	MG Cars
+1966 Canadian Grand Prix	secondTeam	Chaparral Cars
+1968 Race of Champions	secondTeam	British Racing Motors
+1969 Race of Champions	secondTeam	Team Lotus
+1960 Cape Grand Prix	secondTeam	Porsche in motorsport#Single-seaters
+1960 South African Grand Prix	secondTeam	Porsche in motorsport#Single-seaters
+1971 Race of Champions	secondTeam	Tyrrell Racing
+1912 American Grand Prize	secondTeam	Karl Benz#Benz Söhne (1906 to 1923)
+1911 American Grand Prize	secondTeam	Karl Benz#Benz Söhne (1906 to 1923)
+1914 American Grand Prize	secondTeam	Marmon Motor Car Company
+1947 French Grand Prix	secondTeam	Maserati in motorsport
+1948 Monaco Grand Prix	secondTeam	Talbot-Lago
+1948 Swiss Grand Prix	secondTeam	Alfa Romeo
+1948 French Grand Prix	secondTeam	Alfa Romeo in motorsport
+1948 Italian Grand Prix	secondTeam	Maserati in motorsport
+1949 French Grand Prix	secondTeam	Maserati in motorsport
+1934 Swiss Grand Prix	secondTeam	Auto Union
+1949 San Remo Grand Prix	secondTeam	Maserati in motorsport
+2011 Canadian Grand Prix	secondTeam	Red Bull Racing
+2011 British Grand Prix	secondTeam	Red Bull Racing
+2011 Australian Grand Prix	secondTeam	McLaren
+2011 Chinese Grand Prix	secondTeam	Red Bull Racing
+2011 European Grand Prix	secondTeam	Scuderia Ferrari
+2011 German Grand Prix	secondTeam	Scuderia Ferrari
+2011 Monaco Grand Prix	secondTeam	Scuderia Ferrari
+2011 Malaysian Grand Prix	secondTeam	McLaren
+2011 Spanish Grand Prix	secondTeam	McLaren
+2011 Turkish Grand Prix	secondTeam	Red Bull Racing
+1985 Detroit Grand Prix	secondTeam	Scuderia Ferrari
+1976 United States Grand Prix	secondTeam	Tyrrell Racing
+1986 Detroit Grand Prix	secondTeam	Equipe Ligier
+1987 Detroit Grand Prix	secondTeam	Williams F1
+1988 Detroit Grand Prix	secondTeam	McLaren
+1900 Gordon Bennett Cup	secondTeam	Panhard
