@@ -127,7 +127,7 @@ def run_nadeef(dataset_path, nadeef_parameters):
     os.remove(nadeef_clean_plan_path)
     tool_results_path = re.findall("INFO: Export to (.*csv)", process_output)[0]
     return_list = []
-    if os.path.exists(tool_results_path):
+    if os.path.exists(tool_results_path) and os.stat(tool_results_path).st_size > 0.0:
         detected_cells_list = read_csv_dataset(tool_results_path, header_exists=False)
         cell_visited_flag = {}
         for row in detected_cells_list:
