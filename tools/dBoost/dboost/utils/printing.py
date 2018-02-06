@@ -1,5 +1,6 @@
 import os
 import sys
+import csv
 import bisect
 from . import color
 
@@ -52,6 +53,7 @@ def print_rows(outliers, model, hints, rules_descriptions, verbosity = 0, max_w 
                        for w, f in zip(widths, x))
 
     results_file = open("dboost_results.csv", "w")
+    csv_writer = csv.writer(results_file, delimiter=",", quotechar='"', quoting=csv.QUOTE_MINIMAL)
     for linum, (x, X, discrepancies) in outliers:
         highlight = [field_id for fields_group in discrepancies
                               for field_id, _ in expand_hints(fields_group, hints)]
@@ -64,7 +66,7 @@ def print_rows(outliers, model, hints, rules_descriptions, verbosity = 0, max_w 
             for i in range(len(field_ids)):
                 column_value_dictionary[field_ids[i]] = values[i]
         for column in column_value_dictionary:
-            results_file.write("{},{},{}\n".format(linum, column, column_value_dictionary[column]))
+            csv_writer.writerow([linum, column, column_value_dictionary[column]])
 
 def colorize(row, indices):
     row = [str(f) for f in row]
