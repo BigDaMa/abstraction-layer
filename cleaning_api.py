@@ -158,7 +158,7 @@ def run_openrefine(dataset_path, openrefine_parameters):
             continue
         for j, value in enumerate(row):
             for pattern in columns_patterns_dictionary[j]:
-                if not re.findall(pattern, str(value), re.IGNORECASE | re.UNICODE):
+                if not re.findall(pattern, str(value), re.UNICODE):
                     if (i, j) not in cell_visited_flag:
                         cell_visited_flag[(i, j)] = 1
                         return_list.append([i, j, value])
