@@ -1,7 +1,7 @@
 ########################################
 # Abstraction Layer
-# Milad Abbaszadeh
-# milad.abbaszadehjahromi@campus.tu-berlin.de
+# Mohammad Mahdavi, Milad Abbaszadeh
+# moh.mahdavi.l@gmail.com
 # October 2017
 # Big Data Management Group
 # TU Berlin
@@ -15,6 +15,7 @@ import json
 import re
 import subprocess
 import pandas
+import psycopg2
 ########################################
 
 
@@ -24,28 +25,30 @@ TOOLS_FOLDER = "tools"
 
 
 ########################################
-def install_tools():
+def install_tools(postgres_username="", postgres_password=""):
     """
     This method installs and configures the data cleaning tools.
     """
     for tool in os.listdir(TOOLS_FOLDER):
         if tool == "NADEEF":
-            p = subprocess.Popen(["ant", "all"], cwd="{}/NADEEF".format(TOOLS_FOLDER), stdin=subprocess.PIPE,
+            p = subprocess.Popen(["ant", "all"], cwd=os.path.join(TOOLS_FOLDER, "NADEEF"), stdin=subprocess.PIPE,
                                  stdout=subprocess.PIPE, stderr=subprocess.STDOUT)
             p.communicate()
             print "To configure NADEEF, please follow the following steps:"
             print "1. Create a database entitled 'nadeef' in the postgres."
-            postgress_username = raw_input("2. Enter your postgres username: ")
-            postgress_password = raw_input("3. Enter your postgres password: ")
-            nadeef_configuration_file = open("{}/NADEEF/nadeef.conf".format(TOOLS_FOLDER), "r")
+            if not postgres_username:
+                postgres_username = raw_input("2. Enter your postgres username: ")
+            if not postgres_password:
+                postgres_password = raw_input("3. Enter your postgres password: ")
+            nadeef_configuration_file = open(os.path.join(TOOLS_FOLDER, "NADEEF", "nadeef.conf"), "r+")
             nadeef_configuration = nadeef_configuration_file.read()
-            nadeef_configuration = re.sub("(database.username = )([\w\d]+)", "\g<1>{}".format(postgress_username),
+            nadeef_configuration = re.sub("(database.username = )([\w\d]+)", "\g<1>{}".format(postgres_username),
                                           nadeef_configuration, flags=re.IGNORECASE)
-            nadeef_configuration = re.sub("(database.password = )([\w\d]+)", "\g<1>{}".format(postgress_password),
+            nadeef_configuration = re.sub("(database.password = )([\w\d]+)", "\g<1>{}".format(postgres_password),
                                           nadeef_configuration, flags=re.IGNORECASE)
-            nadeef_configuration_file.close()
-            nadeef_configuration_file = open("{}/NADEEF/nadeef.conf".format(TOOLS_FOLDER), "w")
+            nadeef_configuration_file.seek(0)
             nadeef_configuration_file.write(nadeef_configuration)
+            nadeef_configuration_file.close()
         print "{} is installed.".format(tool)
 ########################################
 
@@ -56,7 +59,8 @@ def read_csv_dataset(dataset_path, header_exists=True):
     The method reads a dataset from a csv file path.
     """
     if header_exists:
-        dataset_dataframe = pandas.read_csv(dataset_path, sep=",", header="infer", encoding="utf-8", keep_default_na=False)
+        dataset_dataframe = pandas.read_csv(dataset_path, sep=",", header="infer", encoding="utf-8",
+                                            keep_default_na=False, low_memory=False)
         return [dataset_dataframe.columns.get_values().tolist()] + dataset_dataframe.get_values().tolist()
     else:
         dataset_dataframe = pandas.read_csv(dataset_path, sep=",", header=None, encoding="utf-8", keep_default_na=False)
@@ -82,19 +86,20 @@ def run_dboost(dataset_path, dboost_parameters):
     command += dboost_parameters + [dataset_path]
     p = subprocess.Popen(command, stdin=subprocess.PIPE, stdout=subprocess.PIPE, stderr=subprocess.STDOUT)
     p.communicate()
-    return_list = []
-    tool_results_path = "dboost_results.csv"
+    cell_visited_flag = {}
+    tool_results_path = "dboost_output.csv"
     if os.path.exists(tool_results_path):
         detected_cells_list = read_csv_dataset(tool_results_path, header_exists=False)
-        cell_visited_flag = {}
         for row, column, value in detected_cells_list:
             i = int(row)
             j = int(column)
             v = value
             if (i, j) not in cell_visited_flag and i > 0:
-                cell_visited_flag[(i, j)] = 1
-                return_list.append([i, j, v])
+                cell_visited_flag[(i, j)] = None
         os.remove(tool_results_path)
+    return_list = []
+    for (i, j) in cell_visited_flag:
+        return_list.append([i, j, cell_visited_flag[(i, j)]])
     return return_list
 
 
@@ -102,6 +107,7 @@ def run_nadeef(dataset_path, nadeef_parameters):
     """
     This method runs NADEEF on a dataset.
     """
+    # ---------- Prepare Dataset and Clean Plan ----------
     dataset_table = read_csv_dataset(dataset_path)
     temp_dataset_path = os.path.abspath("nadeef_temp_dataset.csv")
     new_header = [a + " varchar(20000)" for a in dataset_table[0]]
@@ -121,23 +127,48 @@ def run_nadeef(dataset_path, nadeef_parameters):
     nadeef_clean_plan_file = open(nadeef_clean_plan_path, "w")
     json.dump(nadeef_clean_plan, nadeef_clean_plan_file)
     nadeef_clean_plan_file.close()
-    p = subprocess.Popen(["./nadeef.sh"], cwd="{}/NADEEF".format(TOOLS_FOLDER), stdout=subprocess.PIPE,
+    # ---------- Clean up Previous Results ----------
+    nadeef_configuration_file = open(os.path.join(TOOLS_FOLDER, "NADEEF", "nadeef.conf"), "r")
+    nadeef_configuration = nadeef_configuration_file.read()
+    postgres_username = re.findall("database.username = ([\w\d]+)", nadeef_configuration, flags=re.IGNORECASE)[0]
+    postgres_password = re.findall("database.password = ([\w\d]+)", nadeef_configuration, flags=re.IGNORECASE)[0]
+    nadeef_configuration_file.close()
+    connection = psycopg2.connect(dbname="nadeef", host="localhost", user=postgres_username, password=postgres_password)
+    cursor = connection.cursor()
+    cursor.execute("""DROP TABLE IF EXISTS tb_nadeef_temp_dataset, violation, repair, audit;""")
+    connection.commit()
+    # ---------- Start Data Cleaning ----------
+    p = subprocess.Popen(["./nadeef.sh"], cwd=os.path.join(TOOLS_FOLDER, "NADEEF"), stdout=subprocess.PIPE,
                          stdin=subprocess.PIPE, stderr=subprocess.STDOUT)
-    process_output, process_errors = p.communicate("load ../../nadeef_clean_plan.json\ndetect\nexit\n")
-    os.remove(nadeef_clean_plan_path)
-    tool_results_path = re.findall("INFO: Export to (.*csv)", process_output)[0]
+    process_output, process_errors = p.communicate("load ../../nadeef_clean_plan.json\ndetect\nrepair\nexit\n")
+    # tool_results_path = re.findall("INFO: Export to (.*csv)", process_output)[0]
+    cell_visited_flag = {}
+    cursor.execute("""SELECT * from violation;""")
+    violation_results = cursor.fetchall()
+    for row in violation_results:
+        i = int(row[3])
+        j = column_index[row[4]]
+        cell_visited_flag[(i, j)] = None
+    cursor.execute("""SELECT * from repair;""")
+    repair_results = cursor.fetchall()
+    for row in repair_results:
+        i_1 = int(row[2])
+        j_1 = column_index[row[4]]
+        v_1 = row[5]
+        i_2 = int(row[7])
+        j_2 = column_index[row[9]]
+        v_2 = row[10]
+        # NOTE: Assume the second cell value is the correct one!
+        cell_visited_flag[(i_1, j_1)] = v_2
+        cell_visited_flag[(i_2, j_2)] = v_2
     return_list = []
-    if os.path.exists(tool_results_path) and os.stat(tool_results_path).st_size > 0.0:
-        detected_cells_list = read_csv_dataset(tool_results_path, header_exists=False)
-        cell_visited_flag = {}
-        for row in detected_cells_list:
-            i = int(row[3])
-            j = column_index[row[4]]
-            v = row[5]
-            if (i, j) not in cell_visited_flag:
-                cell_visited_flag[(i, j)] = 1
-                return_list.append([i, j, v])
-        os.remove(tool_results_path)
+    for (i, j) in cell_visited_flag:
+        return_list.append([i, j, cell_visited_flag[(i, j)]])
+    # ---------- Clean up Current results ----------
+    for f in os.listdir(os.path.join(TOOLS_FOLDER, "NADEEF", "out")):
+        if os.path.isfile(os.path.join(TOOLS_FOLDER, "NADEEF", "out", f)):
+            os.remove(os.path.join(TOOLS_FOLDER, "NADEEF", "out", f))
+    os.remove(nadeef_clean_plan_path)
     os.remove(temp_dataset_path)
     return return_list
 
@@ -147,21 +178,24 @@ def run_openrefine(dataset_path, openrefine_parameters):
     This method runs OpenRefine on a dataset.
     """
     dataset_table = read_csv_dataset(dataset_path)
-    columns_patterns_dictionary = {dataset_table[0].index(column): [] for column in dataset_table[0]}
-    for column, pattern in openrefine_parameters:
+    columns_dictionary = {dataset_table[0].index(column): [] for column in dataset_table[0]}
+    for column, pattern, transformation in openrefine_parameters:
         if column in dataset_table[0]:
-            columns_patterns_dictionary[dataset_table[0].index(column)].append(pattern)
-    return_list = []
+            columns_dictionary[dataset_table[0].index(column)].append([pattern, transformation])
     cell_visited_flag = {}
     for i, row in enumerate(dataset_table):
         if i == 0:
             continue
         for j, value in enumerate(row):
-            for pattern in columns_patterns_dictionary[j]:
+            for pattern, transformation in columns_dictionary[j]:
                 if not re.findall(pattern, str(value), re.UNICODE):
-                    if (i, j) not in cell_visited_flag:
-                        cell_visited_flag[(i, j)] = 1
-                        return_list.append([i, j, value])
+                    new_value = None
+                    if transformation:
+                        new_value = re.sub(transformation[0], transformation[1], value, flags=re.UNICODE)
+                    cell_visited_flag[(i, j)] = new_value
+    return_list = []
+    for (i, j) in cell_visited_flag:
+        return_list.append([i, j, cell_visited_flag[(i, j)]])
     return return_list
 
 
@@ -175,20 +209,21 @@ def run_katara(dataset_path, katara_parameters):
     knowledge_base_path = os.path.abspath(katara_parameters[0])
     p = subprocess.Popen(command, stdout=subprocess.PIPE, stdin=subprocess.PIPE, stderr=subprocess.STDOUT)
     p.communicate(dataset_path + "\n" + knowledge_base_path + "\n")
-    return_list = []
+    cell_visited_flag = {}
     tool_results_path = "katara_output.csv"
-    if os.path.exists(tool_results_path):
+    if os.path.exists(tool_results_path) and os.stat(tool_results_path).st_size > 0.0:
         detected_cells_list = read_csv_dataset(tool_results_path, header_exists=False)
-        cell_visited_flag = {}
         for row, column in detected_cells_list:
             i = int(row)
             j = int(column)
             v = None
             if (i, j) not in cell_visited_flag and i > 0:
-                cell_visited_flag[(i, j)] = 1
-                return_list.append([i, j, v])
+                cell_visited_flag[(i, j)] = None
         os.remove(tool_results_path)
         os.remove("crowdclient-runtime.log")
+    return_list = []
+    for (i, j) in cell_visited_flag:
+        return_list.append([i, j, cell_visited_flag[(i, j)]])
     return return_list
 ########################################
 
@@ -231,7 +266,7 @@ if __name__ == "__main__":
     #         "param": ["gaussian", "1"]
     #         }
     # }
-
+    #
     # run_input = {
     #     "dataset": {
     #         "type": "csv",
@@ -242,7 +277,7 @@ if __name__ == "__main__":
     #         "param": [["title", "brand_name"]]
     #     }
     # }
-
+    #
     # run_input = {
     #     "dataset": {
     #         "type": "csv",
@@ -250,21 +285,21 @@ if __name__ == "__main__":
     #     },
     #     "tool": {
     #         "name": "openrefine",
-    #         "param": [["price", "^[\d]+$"], ["brand_name", "^[\w]+$"]]
+    #         "param": [["price", "^[\d]+$", ["[^\d]", ""]], ["brand_name", "^[\w]*$", ["[^\w]", ""]]]
     #     }
     # }
-
+    #
     # run_input = {
     #     "dataset": {
     #         "type": "csv",
-    #         "param": ["datasets/country6.csv"]
+    #         "param": ["datasets/sample.csv"]
     #     },
     #     "tool": {
     #         "name": "katara",
     #         "param": ["tools/KATARA/dominSpecific"]
     #     }
     # }
-
+    #
     # results_list = run_data_cleaning_job(run_input)
     # for x in results_list:
     #     print x
