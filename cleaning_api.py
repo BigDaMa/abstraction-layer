@@ -59,11 +59,11 @@ def read_csv_dataset(dataset_path, header_exists=True):
     The method reads a dataset from a csv file path.
     """
     if header_exists:
-        dataset_dataframe = pandas.read_csv(dataset_path, sep=",", header="infer", encoding="utf-8",
+        dataset_dataframe = pandas.read_csv(dataset_path, sep=",", header="infer", encoding="utf-8", dtype=str,
                                             keep_default_na=False, low_memory=False)
         return [dataset_dataframe.columns.get_values().tolist()] + dataset_dataframe.get_values().tolist()
     else:
-        dataset_dataframe = pandas.read_csv(dataset_path, sep=",", header=None, encoding="utf-8", keep_default_na=False)
+        dataset_dataframe = pandas.read_csv(dataset_path, sep=",", header=None, encoding="utf-8", dtype=str, keep_default_na=False)
         return dataset_dataframe.get_values().tolist()
 
 
