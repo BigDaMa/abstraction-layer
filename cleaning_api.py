@@ -188,7 +188,7 @@ def run_openrefine(dataset_path, openrefine_parameters):
             continue
         for j, value in enumerate(row):
             for pattern, transformation in columns_dictionary[j]:
-                if not re.findall(pattern, str(value), re.UNICODE):
+                if not re.findall(pattern, value.encode("utf-8"), re.UNICODE):
                     new_value = None
                     if transformation:
                         new_value = re.sub(transformation[0], transformation[1], value, flags=re.UNICODE)
