@@ -1,8 +1,13 @@
 <component name="libraryTable">
   <library name="jar_files">
     <CLASSES>
+      <root url="jar://$PROJECT_DIR$/jar_files/commons-lang3-3.7-test-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jar_files/commons-lang3-3.7-tests.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jar_files/commons-lang3-3.7-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jar_files/commons-lang3-3.7.jar!/" />
       <root url="jar://$PROJECT_DIR$/jar_files/idea_rt.jar!/" />
       <root url="jar://$PROJECT_DIR$/jar_files/SimplifiedKATARA.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jar_files/commons-lang3-3.7-javadoc.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

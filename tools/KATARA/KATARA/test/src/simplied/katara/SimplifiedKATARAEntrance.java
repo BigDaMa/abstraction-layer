@@ -16,16 +16,9 @@ public class SimplifiedKATARAEntrance {
 
 		//setup
 
-		//String rdb = "/home/milad/Desktop/abstraction-layer/tools/KATARA/country4.csv";
-
 		Scanner scanner = new Scanner(System.in);
 		String rdb = scanner.next();
-		//System.out.println(rdb);
 
-		//String rdb = "country4.csv";
-
-
-		//String kb="/home/milad/Desktop/Untitled Folder/abstraction-layer/tools/KATARA/mykb";
 		Path path=Paths.get("");
 		String myKbPath[]=path.toAbsolutePath().toString().split("/");
 		String kb="";
@@ -37,12 +30,8 @@ public class SimplifiedKATARAEntrance {
 		String output_errors_file = "katara_output.csv";//rdb+
 
 
-
-		//String domainSpecificKB = "/home/milad/Desktop/abstraction-layer/tools/KATARA/dominSpecific";
-
-		//Scanner scanner1 = new Scanner(System.in);
 		String domainSpecificKB = scanner.next();
-		//System.out.println(domainSpecificKB);
+		System.out.println(kb);
 
 		//run KATARA
 		KnowledgeDatabaseConfig.setDataDirectoryBase(kb);
@@ -54,7 +43,7 @@ public class SimplifiedKATARAEntrance {
 
 		KBReader reader = new KBReader();
 		SimplifiedPatternDiscovery spd = new SimplifiedPatternDiscovery(table,reader,domainSpecificKB);
-		spd.errorDetection(false);
+		spd.errorDetection(true);
 		spd.print_errors(output_errors_file);
 		reader.close();
 
