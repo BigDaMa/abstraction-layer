@@ -137,7 +137,7 @@ In practice, the data cleaning job is a JSON text that contains the following in
 	\end{itemize}
 	\item \textbf{tool}. The second part of the input configuration is responsible to describe the data cleaning tool that user aims at running on the input dataset. It consists of two options.
 	\begin{itemize}
-		\item\textbf{name}. This option specifies the name of the tool. Currently, the module supports \emph{dboost}~\cite{mariet2016outlier}, \emph{nadeef}~\cite{dallachiesa2013nadeef}, and \emph{openrefine}~\cite{verborgh2013using} tools.
+		\item\textbf{name}. This option specifies the name of the tool. Currently, the module supports \emph{dboost}~\cite{mariet2016outlier}, \emph{nadeef}~\cite{dallachiesa2013nadeef}, \emph{openrefine}~\cite{verborgh2013using}, and \emph{katara}~\cite{chu2015katara} tools.
 		\item \textbf{param}. This option specifies the list of parameters that are needed for running the selected tool.		
 	\end{itemize}
 
@@ -152,7 +152,7 @@ In practice, the data cleaning job is a JSON text that contains the following in
 		},
 		"tool": {
 			"name": "dboost",
-			"param": ["--gaussian", "1", "--statistical", "1"]
+			"param": ["gaussian", "1"]
 		}
 	}
 \end{lstlisting}
@@ -166,22 +166,22 @@ In practice, the data cleaning job is a JSON text that contains the following in
 		},
 		"tool": {
 			"name": "nadeef",
-			"param": [{"type": "fd", "value": ["title | brand_name"]}]
+			"param": [["title", "brand_name"]]
 		}
 	}
 \end{lstlisting}
 
 
 \subsection{Output}
-After calling the abstraction layer with proper input data cleaning job, it generates a list as output. This list consists of the cells in dataset, that have been marked as data errors through the data cleaning process. The general template of the output list is as the follows:
+After calling the abstraction layer with proper input data cleaning job, it generates a list as output. This list consists of the cells in dataset, that have been marked as data errors along with the value that the data cleaning tool suggests as correction. The general template of the output list is as the follows:
 \begin{lstlisting}
 	run_output = [(i1, j1, v1), (i2, j2, v2),...]
 \end{lstlisting}
-Each element in the output list contains three values referring to one specific cell in the dataset:
+Each element in the output list contains exactly three values referring to one specific cell in the dataset:
 \begin{itemize}
-	\item \textbf{Row number (i)}
-	\item \textbf{Column number (j)}
-	\item \textbf{Value (v)} 
+	\item \textbf{Row number (i).} The row number of detected cell.
+	\item \textbf{Column number (j)} The column number of detected cell.
+	\item \textbf{Suggested value (v)}. The suggested value for this cell. 
 \end{itemize}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
