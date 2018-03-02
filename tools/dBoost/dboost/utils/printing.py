@@ -66,7 +66,8 @@ def print_rows(outliers, model, hints, rules_descriptions, verbosity = 0, max_w 
             for i in range(len(field_ids)):
                 column_value_dictionary[field_ids[i]] = values[i]
         for column in column_value_dictionary:
-            csv_writer.writerow([linum, column, column_value_dictionary[column]])
+            csv_writer.writerow([linum, column, None])
+            # column_value_dictionary[column] is the detected value
 
 def colorize(row, indices):
     row = [str(f) for f in row]
