@@ -93,9 +93,9 @@ def run_dboost(dataset_path, dboost_parameters):
         for row, column, value in detected_cells_list:
             i = int(row)
             j = int(column)
-            v = value
+            v = value.decode("utf-8")
             if (i, j) not in cell_visited_flag and i > 0:
-                cell_visited_flag[(i, j)] = None
+                cell_visited_flag[(i, j)] = v
         os.remove(tool_results_path)
     return_list = []
     for (i, j) in cell_visited_flag:
@@ -148,16 +148,16 @@ def run_nadeef(dataset_path, nadeef_parameters):
     for row in violation_results:
         i = int(row[3])
         j = column_index[row[4]]
-        cell_visited_flag[(i, j)] = None
+        cell_visited_flag[(i, j)] = "".decode("utf-8")
     cursor.execute("""SELECT * from repair;""")
     repair_results = cursor.fetchall()
     for row in repair_results:
         i_1 = int(row[2])
         j_1 = column_index[row[4]]
-        v_1 = row[5]
+        v_1 = row[5].decode("utf-8")
         i_2 = int(row[7])
         j_2 = column_index[row[9]]
-        v_2 = row[10]
+        v_2 = row[10].decode("utf-8")
         # NOTE: Assume the second cell value is the correct one!
         cell_visited_flag[(i_1, j_1)] = v_2
         cell_visited_flag[(i_2, j_2)] = v_2
@@ -189,7 +189,7 @@ def run_openrefine(dataset_path, openrefine_parameters):
         for j, value in enumerate(row):
             for pattern, transformation in columns_dictionary[j]:
                 if not re.findall(pattern, value.encode("utf-8"), re.UNICODE):
-                    new_value = None
+                    new_value = "".decode("utf-8")
                     if transformation:
                         new_value = re.sub(transformation[0], transformation[1], value, flags=re.UNICODE)
                     cell_visited_flag[(i, j)] = new_value
@@ -204,7 +204,7 @@ def run_katara(dataset_path, katara_parameters):
     This method runs KATARA on a dataset.
     """
     command = ["java", "-classpath",
-               "{0}/KATARA/out/test/test:{0}/KATARA/KATARA/out/test/test/SimplifiedKATARA.jar".format(TOOLS_FOLDER),
+               "{0}/KATARA/out/test/test:{0}/KATARA/jar_files/SimplifiedKATARA.jar:{0}/KATARA/jar_files/commons-lang3-3.7.jar".format(TOOLS_FOLDER),
                "simplied.katara.SimplifiedKATARAEntrance"]
     knowledge_base_path = os.path.abspath(katara_parameters[0])
     p = subprocess.Popen(command, stdout=subprocess.PIPE, stdin=subprocess.PIPE, stderr=subprocess.STDOUT)
@@ -213,12 +213,12 @@ def run_katara(dataset_path, katara_parameters):
     tool_results_path = "katara_output.csv"
     if os.path.exists(tool_results_path) and os.stat(tool_results_path).st_size > 0.0:
         detected_cells_list = read_csv_dataset(tool_results_path, header_exists=False)
-        for row, column in detected_cells_list:
+        for row, column, value in detected_cells_list:
             i = int(row)
             j = int(column)
-            v = None
+            v = value.decode("utf-8")
             if (i, j) not in cell_visited_flag and i > 0:
-                cell_visited_flag[(i, j)] = None
+                cell_visited_flag[(i, j)] = v
         os.remove(tool_results_path)
         os.remove("crowdclient-runtime.log")
     return_list = []
@@ -299,7 +299,7 @@ if __name__ == "__main__":
     #         "param": ["tools/KATARA/dominSpecific"]
     #     }
     # }
-    #
+
     # results_list = run_data_cleaning_job(run_input)
     # for x in results_list:
     #     print x

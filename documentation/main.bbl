@@ -1,6 +1,13 @@
 \providecommand{\noopsort}[1]{}
 \begin{thebibliography}{1}
 
+\bibitem{chu2015katara}
+X.~Chu, J.~Morcos, I.~F. Ilyas, M.~Ouzzani, P.~Papotti, N.~Tang, and Y.~Ye.
+\newblock Katara: A data cleaning system powered by knowledge bases and
+  crowdsourcing.
+\newblock In {\em Proceedings of the 2015 ACM SIGMOD International Conference
+  on Management of Data}, pages 1247--1261. ACM, 2015.
+
 \bibitem{dallachiesa2013nadeef}
 M.~Dallachiesa, A.~Ebaid, A.~Eldawy, A.~Elmagarmid, I.~F. Ilyas, M.~Ouzzani,
   and N.~Tang.
