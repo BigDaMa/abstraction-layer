@@ -1,10 +1,5 @@
 package simplied.katara;
-import java.io.BufferedReader;
-import java.io.File;
-import java.io.FileReader;
-import java.io.FileWriter;
-import java.io.IOException;
-import java.io.PrintWriter;
+import java.io.*;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Comparator;
@@ -15,6 +10,9 @@ import java.util.Map;
 import java.util.Scanner;
 import java.util.Set;
 
+import org.supercsv.io.CsvBeanWriter;
+import org.supercsv.io.ICsvBeanWriter;
+import org.supercsv.prefs.CsvPreference;
 import qa.qcri.katara.dbcommon.Table;
 import qa.qcri.katara.dbcommon.Tuple;
 import qa.qcri.katara.kbcommon.KBReader;
@@ -337,34 +335,57 @@ public class SimplifiedPatternDiscovery {
 		}
 	}
 
+
+
 	public void print_errors(String error_file) throws IOException{
 
-		PrintWriter out = new PrintWriter(new FileWriter(error_file));
+		/// ------------------------------------
+		ICsvBeanWriter supercsvWriter = null;
+//		//PrintWriter out = new PrintWriter(new FileWriter(error_file));
+//		CSVWriter out = new CSVWriter(new FileWriter(error_file),CSVWriter.DEFAULT_SEPARATOR, CSVWriter.NO_QUOTE_CHARACTER);
 
-		for(String col: col2Errors.keySet()){
-			for(Tuple t: col2Errors.get(col)){
-				if(!col.contains(",")){
-					int col1 = Integer.valueOf(col);
-					out.println( (t.getTid() +1 ) + "," + (col1 )+ ","+ col2Errorsrepair.get(t.getTid()+","+col1));//+1
-					//out.println("The following cell is wrong: Cell[" + t.getTid() + "]["+col+"]=" + t.getCell(Integer.valueOf(col)).getValue());
-				}else{
-					int col1 = Integer.valueOf(col.split(",")[0]);
-					int col2 = Integer.valueOf(col.split(",")[1]);
+		try {
+			supercsvWriter = new CsvBeanWriter(new FileWriter(error_file), CsvPreference.STANDARD_PREFERENCE);
+			final String[] nameMapping = new String[] { "row", "column", "value" };
 
-					out.println( (t.getTid() +1) + "," + (col1)+ ","+ col2Errorsrepair.get(t.getTid()+","+col1));//+1
-					out.println( (t.getTid()+1) + "," + (col2)+ ","+ col2Errorsrepair.get(t.getTid()+","+col2));//+1
+			// write the beans
+			for(String col: col2Errors.keySet()){
+				for(Tuple t: col2Errors.get(col)){
+					if(!col.contains(",")){
+						int col1 = Integer.valueOf(col);
+						//out.println( (t.getTid() +1 ) + "," + (col1 )+ ","+ col2Errorsrepair.get(t.getTid()+","+col1));//+1
+
+						supercsvWriter.write(new PrintableError(t.getTid()+1, col1, col2Errorsrepair.get(t.getTid()+","+col1)), nameMapping);
+//					out.writeNext((t.getTid() +1 ) +","+ (col1 )+","+ col2Errorsrepair.get(t.getTid()+","+col1)));
+
+						//out.println("The following cell is wrong: Cell[" + t.getTid() + "]["+col+"]=" + t.getCell(Integer.valueOf(col)).getValue());
+					}else{
+						int col1 = Integer.valueOf(col.split(",")[0]);
+						int col2 = Integer.valueOf(col.split(",")[1]);
+
+						//out.println( (t.getTid() +1) + "," + (col1)+ ","+ col2Errorsrepair.get(t.getTid()+","+col1));//+1
+						//out.println( (t.getTid()+1) + "," + (col2)+ ","+ col2Errorsrepair.get(t.getTid()+","+col2));//+1
+
+						supercsvWriter.write(new PrintableError(t.getTid() +1, col1, col2Errorsrepair.get(t.getTid()+","+col1)), nameMapping);
+						supercsvWriter.write(new PrintableError(t.getTid() +1, col2, col2Errorsrepair.get(t.getTid()+","+col2)), nameMapping);
+//					out.writeNext((t.getTid() +1) +","+ (col1)+","+ col2Errorsrepair.get(t.getTid()+","+col1));
+//					out.writeNext((t.getTid()+1) +","+ (col2)+","+ col2Errorsrepair.get(t.getTid()+","+col2));
+
 //					out.println("There is at least one Error in the following two cells: Cell[" + t.getTid() + "]["+col1+"]=" + t.getCell(col1).getValue()
 //							+ "\t Cell[" + t.getTid() + "]["+col2+"]=" + t.getCell(col2).getValue());
 
-
-
-
+					}
 				}
 			}
 		}
 
-		out.close();
+		finally {
+			if( supercsvWriter != null ) {
+				supercsvWriter.close();
+			}
+		}
 
+		
 		File file = new File(error_file);
 		if(file.length() == 0) {
 			file.delete();

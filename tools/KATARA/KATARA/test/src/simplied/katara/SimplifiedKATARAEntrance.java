@@ -25,13 +25,13 @@ public class SimplifiedKATARAEntrance {
 		for (int i=0;i<myKbPath.length-1;i++){
 			kb+=myKbPath[i]+"/";
 		}
-		kb+="abstraction-layer/tools/KATARA/mykb";
+		kb+="abstraction-layer/tools/KATARA/mykb";//abstraction-layer/tools/
 
 		String output_errors_file = "katara_output.csv";//rdb+
 
 
 		String domainSpecificKB = scanner.next();
-		System.out.println(kb);
+		//System.out.println(kb);
 
 		//run KATARA
 		KnowledgeDatabaseConfig.setDataDirectoryBase(kb);
