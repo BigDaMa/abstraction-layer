@@ -1,0 +1,7 @@
+t1&t2&EQ(t1.zip,t2.zip)&IQ(t1.city,t2.city)
+t1&t2&EQ(t1.zip,t2.zip)&IQ(t1.state,t2.state)
+t1&t2&EQ(t1.po_city_state_zip,t2.po_city_state_zip)&IQ(t1.zip,t2.zip)
+t1&t2&EQ(t1.po_city_state_zip,t2.po_city_state_zip)&IQ(t1.city,t2.city)
+t1&t2&EQ(t1.po_city_state_zip,t2.po_city_state_zip)&IQ(t1.po_box,t2.po_box)
+
+
