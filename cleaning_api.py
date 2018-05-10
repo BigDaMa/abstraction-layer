@@ -192,7 +192,7 @@ def run_openrefine(dataset_path, openrefine_parameters):
     for j, attribute in enumerate(attributes_list):
         for i, value in enumerate(dataset_matrix[:, j]):
             for pattern in attributes_patterns[attribute]:
-                if not re.findall(pattern, value.encode("utf-8"), re.UNICODE):
+                if len(re.findall(pattern, value.encode("utf-8"), re.UNICODE)) == 0:
                     cell_visited_flag[(i + 1, j)] = "".decode("utf-8")
     return_list = []
     for (i, j) in cell_visited_flag:
