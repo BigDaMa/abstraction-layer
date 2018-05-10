@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.12.21)  2 MAR 2018 10:23
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.12.21)  10 MAY 2018 11:29
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -22,9 +22,13 @@ File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 \abovecaptionskip=\skip41
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
-) (./sbc-template.sty
-Package: sbc-template 2001/06/09
+)
+(./attachments/sbc-template.sty
 
+LaTeX Warning: You have requested package `attachments/sbc-template',
+               but the package provides `sbc-template'.
+
+Package: sbc-template 2001/06/09
 (/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
 Package: geometry 2010/09/12 v5.6 Page Geometry
 
@@ -609,8 +613,8 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 ture.pdf>] [3] (./main.bbl) [4] (./main.aux) ) 
 Here is how much of TeX's memory you used:
  14403 strings out of 494953
- 277772 string characters out of 6180976
- 344535 words of memory out of 5000000
+ 277832 string characters out of 6180976
+ 344547 words of memory out of 5000000
  17414 multiletter control sequences out of 15000+600000
  22055 words of font info for 47 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191

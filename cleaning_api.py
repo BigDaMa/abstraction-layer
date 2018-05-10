@@ -15,6 +15,7 @@ import json
 import re
 import subprocess
 import pandas
+import numpy
 import psycopg2
 ########################################
 
@@ -63,7 +64,8 @@ def read_csv_dataset(dataset_path, header_exists=True):
                                             keep_default_na=False, low_memory=False)
         return [dataset_dataframe.columns.get_values().tolist()] + dataset_dataframe.get_values().tolist()
     else:
-        dataset_dataframe = pandas.read_csv(dataset_path, sep=",", header=None, encoding="utf-8", dtype=str, keep_default_na=False)
+        dataset_dataframe = pandas.read_csv(dataset_path, sep=",", header=None, encoding="utf-8", dtype=str,
+                                            keep_default_na=False)
         return dataset_dataframe.get_values().tolist()
 
 
@@ -178,21 +180,18 @@ def run_openrefine(dataset_path, openrefine_parameters):
     This method runs OpenRefine on a dataset.
     """
     dataset_table = read_csv_dataset(dataset_path)
-    columns_dictionary = {dataset_table[0].index(column): [] for column in dataset_table[0]}
-    for column, pattern, transformation in openrefine_parameters:
-        if column in dataset_table[0]:
-            columns_dictionary[dataset_table[0].index(column)].append([pattern, transformation])
+    attributes_list = dataset_table[0]
+    dataset_matrix = numpy.array(dataset_table[1:])
+    attributes_patterns = {a: {} for a in attributes_list}
+    for attribute, pattern in openrefine_parameters:
+        if attribute in attributes_patterns:
+            attributes_patterns[attribute][pattern] = 1
     cell_visited_flag = {}
-    for i, row in enumerate(dataset_table):
-        if i == 0:
-            continue
-        for j, value in enumerate(row):
-            for pattern, transformation in columns_dictionary[j]:
+    for j, attribute in enumerate(attributes_list):
+        for i, value in enumerate(dataset_matrix[:, j]):
+            for pattern in attributes_patterns[attribute]:
                 if not re.findall(pattern, value.encode("utf-8"), re.UNICODE):
-                    new_value = "".decode("utf-8")
-                    if transformation:
-                        new_value = re.sub(transformation[0], transformation[1], value, flags=re.UNICODE)
-                    cell_visited_flag[(i, j)] = new_value
+                    cell_visited_flag[(i + 1, j)] = "".decode("utf-8")
     return_list = []
     for (i, j) in cell_visited_flag:
         return_list.append([i, j, cell_visited_flag[(i, j)]])
@@ -211,7 +210,7 @@ def run_katara(dataset_path, katara_parameters):
     p.communicate(dataset_path + "\n" + knowledge_base_path + "\n")
     cell_visited_flag = {}
     tool_results_path = "katara_output.csv"
-    if os.path.exists(tool_results_path) and os.stat(tool_results_path).st_size > 0.0:
+    if os.path.exists(tool_results_path):
         detected_cells_list = read_csv_dataset(tool_results_path, header_exists=False)
         for row, column, value in detected_cells_list:
             i = int(row)
@@ -220,7 +219,7 @@ def run_katara(dataset_path, katara_parameters):
             if (i, j) not in cell_visited_flag and i > 0:
                 cell_visited_flag[(i, j)] = v
         os.remove(tool_results_path)
-        os.remove("crowdclient-runtime.log")
+    os.remove("crowdclient-runtime.log")
     return_list = []
     for (i, j) in cell_visited_flag:
         return_list.append([i, j, cell_visited_flag[(i, j)]])
@@ -285,7 +284,7 @@ if __name__ == "__main__":
     #     },
     #     "tool": {
     #         "name": "openrefine",
-    #         "param": [["price", "^[\d]+$", ["[^\d]", ""]], ["brand_name", "^[\w]*$", ["[^\w]", ""]]]
+    #         "param": [["price", "^[\d]+$"], ["brand_name", "^[\w]*$"]]
     #     }
     # }
     #
@@ -299,7 +298,7 @@ if __name__ == "__main__":
     #         "param": ["tools/KATARA/dominSpecific"]
     #     }
     # }
-
+    #
     # results_list = run_data_cleaning_job(run_input)
     # for x in results_list:
     #     print x
