@@ -62,10 +62,12 @@ def read_csv_dataset(dataset_path, header_exists=True):
     if header_exists:
         dataset_dataframe = pandas.read_csv(dataset_path, sep=",", header="infer", encoding="utf-8", dtype=str,
                                             keep_default_na=False, low_memory=False)
+        dataset_dataframe = dataset_dataframe.apply(lambda x: x.str.strip())
         return [dataset_dataframe.columns.get_values().tolist()] + dataset_dataframe.get_values().tolist()
     else:
         dataset_dataframe = pandas.read_csv(dataset_path, sep=",", header=None, encoding="utf-8", dtype=str,
                                             keep_default_na=False)
+        dataset_dataframe = dataset_dataframe.apply(lambda x: x.str.strip())
         return dataset_dataframe.get_values().tolist()
 
 
