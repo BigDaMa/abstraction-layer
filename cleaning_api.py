@@ -205,7 +205,18 @@ def run_katara(dataset_path, katara_parameters):
     This method runs KATARA on a dataset.
     """
     command = ["java", "-classpath",
-               "{0}/KATARA/out/test/test:{0}/KATARA/jar_files/SimplifiedKATARA.jar:{0}/KATARA/jar_files/commons-lang3-3.7.jar".format(TOOLS_FOLDER),
+               "$JAVA_HOME/jre/lib/charsets.jar:$JAVA_HOME/jre/lib/ext/cldrdata.jar:"
+               "$JAVA_HOME/jre/lib/ext/dnsns.jar:$JAVA_HOME/jre/lib/ext/icedtea-sound.jar:"
+               "$JAVA_HOME/jre/lib/ext/jaccess.jar:$JAVA_HOME/jre/lib/ext/localedata.jar:"
+               "$JAVA_HOME/jre/lib/ext/nashorn.jar:$JAVA_HOME/jre/lib/ext/sunec.jar:"
+               "$JAVA_HOME/jre/lib/ext/sunjce_provider.jar:$JAVA_HOME/jre/lib/ext/sunpkcs11.jar:"
+               "$JAVA_HOME/jre/lib/ext/zipfs.jar:$JAVA_HOME/jre/lib/jce.jar:$JAVA_HOME/jre/lib/jsse.jar:"
+               "$JAVA_HOME/jre/lib/management-agent.jar:$JAVA_HOME/jre/lib/resources.jar:$JAVA_HOME/jre/lib/rt.jar:"
+               "./{0}/KATARA/out/test/test:./{0}/KATARA/jar_files/commons-lang3-3.7-test-sources.jar:"
+               "./{0}/KATARA/jar_files/commons-lang3-3.7-tests.jar:./{0}/KATARA/jar_files/commons-lang3-3.7-sources.jar:"
+               "./{0}/KATARA/jar_files/commons-lang3-3.7.jar:./{0}/KATARA/jar_files/idea_rt.jar:"
+               "./{0}/KATARA/jar_files/SimplifiedKATARA.jar:./{0}/KATARA/jar_files/commons-lang3-3.7-javadoc.jar:"
+               "./{0}/KATARA/jar_files/super-csv-2.4.0.jar".format(TOOLS_FOLDER),
                "simplied.katara.SimplifiedKATARAEntrance"]
     knowledge_base_path = os.path.abspath(katara_parameters[0])
     p = subprocess.Popen(command, stdout=subprocess.PIPE, stdin=subprocess.PIPE, stderr=subprocess.STDOUT)
@@ -293,7 +304,7 @@ if __name__ == "__main__":
     # run_input = {
     #     "dataset": {
     #         "type": "csv",
-    #         "param": ["datasets/sample.csv"]
+    #         "param": ["datasets/country6.csv"]
     #     },
     #     "tool": {
     #         "name": "katara",
