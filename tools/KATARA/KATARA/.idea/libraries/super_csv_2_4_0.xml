@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="super-csv-2.4.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../jar_files/super-csv-2.4.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../jar_files/SimplifiedKATARA.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../jar_files/idea_rt.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../jar_files/commons-lang3-3.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../jar_files/commons-lang3-3.7-tests.jar!/" />
+      <root url="file://$PROJECT_DIR$/../jar_files/files" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../jar_files/commons-lang3-3.7-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../jar_files/commons-lang3-3.7-test-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../jar_files/commons-lang3-3.7-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
