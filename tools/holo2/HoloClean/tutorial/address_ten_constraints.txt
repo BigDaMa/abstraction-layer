@@ -1,0 +1,5 @@
+t1&t2&EQ(t1.zip,t2.zip)&EQ(t1.city,t2.city)
+
+
+
+
