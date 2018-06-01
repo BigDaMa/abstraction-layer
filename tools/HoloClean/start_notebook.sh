@@ -9,6 +9,6 @@ cd "$HOLOCLEANHOME"
 
 # Launch jupyter notebook!
 echo "Launching Jupyter Notebook..."
-jupyter notebook
+#jupyter notebook
 
-#python2 ./run1.py
+python2 ./run1.py
