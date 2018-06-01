@@ -21,11 +21,11 @@ holo       = HoloClean(
         )
 session = Session(holo)
 
-data_path = "tutorials/data/hospital.csv"
+data_path = "data/hospital.csv"
 
 data = session.load_data(data_path)
 
-dc_path = "tutorials/data/hospital_constraints.txt"
+dc_path = "data/hospital_constraints.txt"
 
 dcs = session.load_denial_constraints(dc_path)
 

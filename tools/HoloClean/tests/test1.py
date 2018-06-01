@@ -64,7 +64,15 @@ class Testing:
             self.holo_obj.logger.info("Error detection time:")
             self.holo_obj.logger.info("Error detection time:" + str(t4-t3))
 
-        self.session.repair()
+        repaired=self.session.repair()
+	
+	#repaired = repaired.withColumn("__ind", repaired["__ind"].cast("int"))
+	#repaired.sort('__ind').select('city','zip','state').show(15)
+
+	repaired.sort('index')
+	repaired.write.format('com.databricks.spark.csv').option("header", 'true').save('repaired.csv')
+
+	print "now one folder created that you can find your repair overthere"
 
         if ground_truth:
             self.session.compare_to_truth(ground_truth)
