@@ -36,10 +36,16 @@ class Testing:
         t1 = time.time()
 
         dataset = "data/hospital.csv"
+        # dataset = "data/address_10.csv"
+
         print("using dataset: {}".format(dataset))
         denial_constraints = "data/hospital_constraints.txt"
+        # denial_constraints = "data/address_ten_constraints.txt"
+
         print("using denial_constraints: {}".format(denial_constraints))
         ground_truth = "data/hospital_clean.csv"
+        # ground_truth = "data/address_10_ground_truth.csv"
+
         print("using ground_truth: {}".format(ground_truth))
 
         # uncheck this if you don't have ground truth
@@ -70,7 +76,7 @@ class Testing:
 	#repaired.sort('__ind').select('city','zip','state').show(15)
 
 	repaired.sort('index')
-	repaired.write.format('com.databricks.spark.csv').option("header", 'true').save('repaired.csv')
+	repaired.repartition(1).write.format('com.databricks.spark.csv').option("header", 'true').save('repaired.csv')
 
 	print "now one folder created that you can find your repair overthere"
 
