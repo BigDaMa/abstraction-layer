@@ -50,6 +50,8 @@ def install_tools(postgres_username="", postgres_password=""):
             nadeef_configuration_file.seek(0)
             nadeef_configuration_file.write(nadeef_configuration)
             nadeef_configuration_file.close()
+        if tool == "HoloClean":
+            print "TODO: Please install HoloClean yourself."
         print "{} is installed.".format(tool)
 ########################################
 
@@ -237,6 +239,30 @@ def run_katara(dataset_path, katara_parameters):
     for (i, j) in cell_visited_flag:
         return_list.append([i, j, cell_visited_flag[(i, j)]])
     return return_list
+
+def run_holoclean(dataset_path, holoclean_parameters):
+    """
+    This method runs HoloClean on a dataset.
+    """
+    command = ["../../../../py27Env/bin/python", "holoclean_builtin_ed.py", os.path.abspath(dataset_path),
+               os.path.abspath(holoclean_parameters[0])]
+    p = subprocess.Popen(command, cwd=os.path.join(TOOLS_FOLDER, "HoloClean", "tutorials"), stdout=subprocess.PIPE,
+                         stdin=subprocess.PIPE, stderr=subprocess.STDOUT)
+    process_output, process_errors = p.communicate()
+    repaired_dataset_path = ""
+    for file_name in os.listdir(os.path.join(TOOLS_FOLDER, "HoloClean", "tutorials", "repaired")):
+        if file_name.startswith("part") and file_name.endswith(".csv"):
+            repaired_dataset_path = os.path.join(TOOLS_FOLDER, "HoloClean", "tutorials", "repaired", file_name)
+    if not repaired_dataset_path:
+        return []
+    return_list = []
+    original_dataset = read_csv_dataset(dataset_path)
+    repaired_dataset = read_csv_dataset(repaired_dataset_path)
+    for i in range(len(original_dataset)):
+        for j in range(len(original_dataset[0])):
+            if i > 0 and original_dataset[i][j] != repaired_dataset[i][j]:
+                return_list.append([i, j, repaired_dataset[i][j]])
+    return return_list
 ########################################
 
 
@@ -258,6 +284,8 @@ def run_data_cleaning_job(data_cleaning_job):
         return_list = run_openrefine(dataset_path, data_cleaning_job["tool"]["param"])
     if data_cleaning_job["tool"]["name"] == "katara":
         return_list = run_katara(dataset_path, data_cleaning_job["tool"]["param"])
+    if data_cleaning_job["tool"]["name"] == "holoclean":
+        return_list = run_holoclean(dataset_path, data_cleaning_job["tool"]["param"])
     return return_list
 ########################################
 
@@ -276,7 +304,7 @@ if __name__ == "__main__":
     #     "tool": {
     #         "name": "dboost",
     #         "param": ["gaussian", "1"]
-    #         }
+    #     }
     # }
     #
     # run_input = {
@@ -309,6 +337,17 @@ if __name__ == "__main__":
     #     "tool": {
     #         "name": "katara",
     #         "param": ["tools/KATARA/dominSpecific"]
+    #     }
+    # }
+    #
+    # run_input = {
+    #     "dataset": {
+    #         "type": "csv",
+    #         "param": ["datasets/hospital.csv"]
+    #     },
+    #     "tool": {
+    #         "name": "holoclean",
+    #         "param": ["datasets/hospital_constraints.txt"]
     #     }
     # }
     #

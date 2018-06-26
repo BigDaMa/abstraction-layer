@@ -1,9 +1,3 @@
-import sys
-sys.path.append("..")
-from holoclean.holoclean import HoloClean, Session
-from holoclean.errordetection.sql_dcerrordetector import SqlDCErrorDetection
-from holoclean.errordetection.sql_nullerrordetector import\
-    SqlnullErrorDetection
 
 
 from holoclean.holoclean import HoloClean, Session
@@ -27,18 +21,16 @@ holo       = HoloClean(
         )
 session = Session(holo)
 
-# data_path = "data/hospital.csv"
-data_path = "data/address_10.csv"
+data_path = "data/hospital.csv"
 
 data = session.load_data(data_path)
 
-# dc_path = "data/hospital_constraints.txt"
-dc_path = "data/address_ten_constraints.txt"
+dc_path = "data/hospital_constraints.txt"
 
 dcs = session.load_denial_constraints(dc_path)
 
 
-data.select('city').show(20)
+data.select('City').show(15)
 
 
 from holoclean.errordetection.sql_dcerrordetector import SqlDCErrorDetection
@@ -59,12 +51,9 @@ dirty.head(5)
 repaired = session.repair()
 
 
-repaired = repaired.withColumn("index", repaired["index"].cast("int"))
-repaired.sort('index').select('city').show(20)
-repaired.repartition(1).write.format('com.databricks.spark.csv').option("header", 'true').save('repaired.csv')
+repaired = repaired.withColumn("__ind", repaired["__ind"].cast("int"))
+repaired.sort('__ind').select('City').show(15)
 
 
 
-# session.compare_to_truth("data/hospital_clean.csv")
-session.compare_to_truth("data/address_10_ground_truth.csv")
-
+session.compare_to_truth("data/hospital_clean.csv")
