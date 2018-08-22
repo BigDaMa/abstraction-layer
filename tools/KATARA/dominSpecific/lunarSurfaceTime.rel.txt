@@ -1,6 +1,0 @@
-Apollo 11	lunarSurfaceTime	77480.0
-Apollo 15	lunarSurfaceTime	240893.0
-Apollo 14	lunarSurfaceTime	120629.0
-Apollo 12	lunarSurfaceTime	113471.6
-Apollo 16	lunarSurfaceTime	255733.0
-Apollo 17	lunarSurfaceTime	269980.0

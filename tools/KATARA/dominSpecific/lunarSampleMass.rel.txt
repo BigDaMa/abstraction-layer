@@ -1,6 +1,0 @@
-Apollo 11	lunarSampleMass	21550.0
-Apollo 15	lunarSampleMass	77000.0
-Apollo 14	lunarSampleMass	42280.0
-Apollo 12	lunarSampleMass	34350.0
-Apollo 16	lunarSampleMass	95710.0
-Apollo 17	lunarSampleMass	110520.0

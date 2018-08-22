@@ -1,5 +1,0 @@
-LSWR K10 class	boilerPressure	Pound-force
-Victorian Railways S class	boilerPressure	Pounds per square inch
-Victorian Railways K class	boilerPressure	Pounds per square inch
-Victorian Railways N class	boilerPressure	Pounds per square inch
-Victorian Railways H class	boilerPressure	Pounds per square inch

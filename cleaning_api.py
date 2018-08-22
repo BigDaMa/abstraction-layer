@@ -230,7 +230,10 @@ def run_katara(dataset_path, katara_parameters):
         for row, column, value in detected_cells_list:
             i = int(row)
             j = int(column)
-            v = value.decode("utf-8")
+            try:
+                v = value.decode("utf-8")
+            except UnicodeEncodeError:
+                v = value
             if (i, j) not in cell_visited_flag and i > 0:
                 cell_visited_flag[(i, j)] = v
         os.remove(tool_results_path)
