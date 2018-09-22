@@ -514,21 +514,22 @@ public class SimplifiedPatternDiscovery {
 					}else{
 						errorTuples.add(t);
 
-						//##################
-						// we trying to report the repair
-						String a = value.toLowerCase();
-						double mindistance=0;
-						String index="";
-						int number=0;
-						for (String potentialrepair:domainValues){
-							String b = potentialrepair.toLowerCase();
-							double ll=compareStrings(a,b);
-							if (ll>=mindistance){
-								mindistance=ll;
-								index=potentialrepair;
-							}
-						}
+//						//##################
+//						// we trying to report the repair
+//						String a = value.toLowerCase();
+//						double mindistance=0;
+//						String index="";
+//						int number=0;
+//						for (String potentialrepair:domainValues){
+//							String b = potentialrepair.toLowerCase();
+//							double ll=compareStrings(a,b);
+//							if (ll>=mindistance){
+//								mindistance=ll;
+//								index=potentialrepair;
+//							}
+//						}
 
+						String index="";
 						// index is the value that we suggest as error
 						col2Errorsrepair.put(t.getTid() + "," + i,index);
 					}

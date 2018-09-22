@@ -21,11 +21,16 @@ public class SimplifiedKATARAEntrance {
 
 		Path path=Paths.get("");
 		String myKbPath[]=path.toAbsolutePath().toString().split("/");
-		String kb="";
-		for (int i=0;i<myKbPath.length-1;i++){
-			kb+=myKbPath[i]+"/";
+		// Create temporary mykb
+		String kb="/tmp/mykb";
+		File directory = new File(String.valueOf(kb));
+		if(!directory.exists()) {
+			directory.mkdir();
 		}
-		kb+="abstraction-layer/tools/KATARA/mykb";//abstraction-layer/tools/
+		//for (int i=0;i<myKbPath.length-1;i++){
+		//	kb+=myKbPath[i]+"/";
+		//}
+		//kb+="abstraction-layer/tools/KATARA/mykb";//abstraction-layer/tools/
 
 		String output_errors_file = "katara_output.csv";//rdb+
 
@@ -46,9 +51,5 @@ public class SimplifiedKATARAEntrance {
 		spd.errorDetection(true);
 		spd.print_errors(output_errors_file);
 		reader.close();
-
 	}
-
-
-
 }
