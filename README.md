@@ -19,7 +19,8 @@ This folder contains some of the underlying data cleaning tools.
 
 ### dataset.py
 
-This file contains the implementation of the dataset class. 
+This file contains the implementation of the dataset class.
+
 The input dataset should respect the following assumptions:
    1. A dataset is a relational table in comma delimiter utf-8 CSV format.
    2. The first line of a dataset is the header and the rests form the data matrix.
