@@ -27,14 +27,16 @@ The input dataset should respect the following assumptions:
    3. The header must have only non-space lowercase characters as field names without type description.
    4. The header is row 0 and the first tuple of data matrix is row 1.
    5. Do not name an attribute with "tid", "cast", or other database special keywords.
-The dataset dictionary should respect the following structure:
+
+The input dataset dictionary to the constructor of the dataset class should respect the following structure:
+```python
     dataset_dictionary = {
        "name": "dataset_name",
        "path": "dataset/path.csv",
        "clean_path": "optional/ground_truth/path.csv",
        "repaired_path": "optional/repaired_dataset/path.csv"
     }
-
+```
 ### data_cleaning_tool.py
 
 This file contains the implementation of the data cleaning tool class.
