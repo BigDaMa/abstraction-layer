@@ -6,6 +6,27 @@ The heterogeneity of different data cleaning tools makes it difficult to use the
 To install the module, make sure that you already have installed Python 2.7 and Oracle Java 1.8 on your system. Furthermore, some of the underlying data cleaning tools need to be installed. For example, to install NADEEF, you need to check its installation instructions.
 
 
+## Sample Code
+```python
+    import dataset
+    import data_cleaning_tool
+
+    dataset_dictionary = {
+        "name": "toy",
+        "path": "datasets/dirty.csv"
+    }
+    d = dataset.Dataset(dataset_dictionary)
+
+    data_cleaning_tool_dictionary = {
+        "name": "nadeef",
+        "configuration": [["city", "country"]]
+    }
+    t = data_cleaning_tool.DataCleaningTool(data_cleaning_tool_dictionary)
+    print t.run(d)
+
+``` 
+
+
 ## Content
 ### datasets
 This folder contains some sample datasets.
@@ -95,24 +116,3 @@ Note that the tool outputs data cells that violate functional dependencies "an_a
     }
 ```
 Note that the tool outputs data cells that violate functional dependencies "an_attribute" -> "another_attribute",...
-
-
-## Sample Code
-```python
-    import dataset
-    import data_cleaning_tool
-
-    dataset_dictionary = {
-        "name": "toy",
-        "path": "datasets/dirty.csv"
-    }
-    d = dataset.Dataset(dataset_dictionary)
-
-    data_cleaning_tool_dictionary = {
-        "name": "nadeef",
-        "configuration": [["city", "country"]]
-    }
-    t = data_cleaning_tool.DataCleaningTool(data_cleaning_tool_dictionary)
-    print t.run(d)
-
-``` 
