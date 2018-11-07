@@ -41,3 +41,62 @@ The input dataset dictionary to the constructor of the dataset class should resp
 
 This file contains the implementation of the data cleaning tool class.
 
+The input data cleaning tool dictionary to the constructure of the data cleaning tool class should respect the following structure:
+```python
+    data_cleaning_tool_dictionary = {
+        "name": "data_cleaning_tool_name",
+        "configuration": ["tool's", "configuration", "in", "form", "of", "a", "list"]
+    }
+```
+Examples of currently supported tools/configurations are as follows:
+```python 
+    data_cleaning_tool_dictionary = {
+        "name": "dboost",
+        "configuration": ["histogram", "0.8", "0.2"]
+    }
+```
+```python
+    data_cleaning_tool_dictionary = {
+        "name": "dboost",
+        "configuration": ["gaussian", "2.5"]
+    }
+```
+```python
+    data_cleaning_tool_dictionary = {
+        "name": "dboost",
+        "configuration": ["mixture", "5", "0.1"]
+    }
+```
+```python
+    data_cleaning_tool_dictionary = {
+        "name": "dboost",
+        "configuration": ["partitionedhistogram", "5", "0.8", "0.2"]
+    }
+```
+```python
+    data_cleaning_tool_dictionary = {
+        "name": "regex",
+        "configuration": [["attribute_name", "^[\d]+$", "OM"], ["another_attribute_name", "^[a-z]+$", "ONM"],...]
+    }
+```
+Note that "OM" means output values that are matched to the regex. Contrary, "ONM" stands for output non-matches.
+```python
+    data_cleaning_tool_dictionary = {
+        "name": "katara",
+        "configuration": ["path/to/domain/specific/folder"]
+    }
+```
+```python
+    data_cleaning_tool_dictionary = {
+        "name": "nadeef",
+        "configuration": [["an_attribute", "another_attribute"],...]
+    }
+```
+Note that the tool outputs data cells that violate functional dependencies "an_attribute" -> "another_attribute",...
+```python
+    data_cleaning_tool_dictionary = {
+        "name": "fd_checker",
+        "configuration": [["an_attribute", "another_attribute"],...]
+    }
+```
+Note that the tool outputs data cells that violate functional dependencies "an_attribute" -> "another_attribute",...

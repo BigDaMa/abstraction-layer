@@ -24,7 +24,7 @@ class Dataset:
 
     def __init__(self, dataset_dictionary):
         """
-        The constructor creates a dataset. 
+        The constructor creates a dataset.
         """
         self.name = dataset_dictionary["name"]
         self.dataframe = self.read_csv_dataset(dataset_dictionary["path"])
@@ -103,6 +103,7 @@ class Dataset:
 
 ########################################
 if __name__ == "__main__":
+
     dataset_dictionary = {
         "name": "toy",
         "path": "datasets/dirty.csv",

@@ -31,55 +31,6 @@ class DataCleaningTool:
     def __init__(self, data_cleaning_tool_dictionary):
         """
         The constructor creates a data cleaning tool.
-        The data cleaning tool dictionary should respect the following structure:
-            data_cleaning_tool_dictionary = {
-                "name": "data_cleaning_tool_name",
-                "configuration": [tool's, configuration, in, form, of, a, list]
-            }
-
-        Examples of currently supported tools/configurations are as follows:
-        data_cleaning_tool_dictionary = {
-            "name": "dboost",
-            "configuration": ["histogram", "0.8", "0.2"]
-        }
-
-        data_cleaning_tool_dictionary = {
-            "name": "dboost",
-            "configuration": ["gaussian", "2.5"]
-        }
-
-        data_cleaning_tool_dictionary = {
-            "name": "dboost",
-            "configuration": ["mixture", "5", "0.1"]
-        }
-
-        data_cleaning_tool_dictionary = {
-            "name": "dboost",
-            "configuration": ["partitionedhistogram", "5", "0.8", "0.2"]
-        }
-
-        data_cleaning_tool_dictionary = {
-            "name": "regex",
-            "configuration": [["attribute_name", "^[\d]+$", "OM"], ["another_attribute_name", "^[a-z]+$", "ONM"],...]
-        }
-        Note that "OM" means output values that are matched to the regex. Contrary, "ONM" stands for output non-matches.
-
-        data_cleaning_tool_dictionary = {
-            "name": "katara",
-            "configuration": ["path/to/domain/specific/folder"]
-        }
-
-        data_cleaning_tool_dictionary = {
-            "name": "nadeef",
-            "configuration": [["an_attribute", "another_attribute"],...]
-        }
-        Note that the tool outputs data cells that violate functional dependencies "an_attribute" -> "another_attribute",...
-
-        data_cleaning_tool_dictionary = {
-            "name": "fd_checker",
-            "configuration": [["an_attribute", "another_attribute"],...]
-        }
-        Note that the tool outputs data cells that violate functional dependencies "an_attribute" -> "another_attribute",...
         """
         self.name = data_cleaning_tool_dictionary["name"]
         self.configuration = data_cleaning_tool_dictionary["configuration"]
