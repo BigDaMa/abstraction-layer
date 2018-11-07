@@ -19,23 +19,12 @@ import pandas
 ########################################
 class Dataset:
     """
-    The dataset class. The input dataset should respect the following assumptions:
-        1. A dataset is a relational table in comma delimiter utf-8 CSV format.
-        2. The first line of a dataset is the header and the rests form the data matrix.
-        3. The header must have only non-space lowercase characters as field names without type description.
-        4. The header is row 0 and the first tuple of data matrix is row 1.
-        5. Do not name an attribute with "tid", "cast", or other database special keywords.
+    The dataset class.
     """
 
     def __init__(self, dataset_dictionary):
         """
-        The constructor creates a dataset. The dataset dictionary should respect the following structure:
-            dataset_dictionary = {
-                "name": "dataset_name",
-                "path": "dataset/path.csv",
-                "clean_path": "optional/ground_truth/path.csv",
-                "repaired_path": "optional/repaired_dataset/path.csv"
-            }
+        The constructor creates a dataset. 
         """
         self.name = dataset_dictionary["name"]
         self.dataframe = self.read_csv_dataset(dataset_dictionary["path"])
