@@ -35,5 +35,5 @@ for model in models:
             debug("   All clean!")
         else:
             print_rows(outliers, model, analyzer.hints,
-                       features.descriptions(rules), args.verbosity)
+                       features.descriptions(rules), args.verbosity,dataset_name=args.input.name)
             debug("   {} outliers found".format(len(outliers)))

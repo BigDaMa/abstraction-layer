@@ -2,58 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2cf78758-03da-4c8c-bfa3-533b81fa2fda" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/dictionaries/mohammad.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../.idea/abstraction-layer.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/abstraction-layer.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../civilizer_cleaning.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cleaning_api.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../crowdclient-runtime.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/jar_files.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/jar_files.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../destination.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../sources.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/KATARA/test/src/simplied/katara/SimplifiedKATARAEntrance.java" beforeDir="false" afterPath="$PROJECT_DIR$/KATARA/test/src/simplied/katara/SimplifiedKATARAEntrance.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/KATARA/test/src/simplied/katara/SimplifiedPatternDiscovery.java" beforeDir="false" afterPath="$PROJECT_DIR$/KATARA/test/src/simplied/katara/SimplifiedPatternDiscovery.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/KATARA/test/test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/KATARA/test/test.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mykb/data/GOSP.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mykb/data/GOSP.idn" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mykb/data/GPOS.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mykb/data/GPOS.idn" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mykb/data/GSPO.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mykb/data/GSPO.idn" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mykb/data/OSP.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mykb/data/OSP.idn" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mykb/data/OSPG.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mykb/data/OSPG.idn" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mykb/data/POS.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mykb/data/POS.idn" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mykb/data/POSG.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mykb/data/POSG.idn" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mykb/data/SPO.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mykb/data/SPO.idn" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mykb/data/SPOG.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mykb/data/SPOG.idn" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mykb/data/journal.jrnl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mykb/data/node2id.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mykb/data/node2id.idn" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mykb/data/nodes.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mykb/data/prefix2id.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mykb/data/prefix2id.idn" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mykb/data/prefixIdx.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mykb/data/prefixIdx.idn" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mykb/data/prefixes.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mykb/index/segments.gen" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mykb/index/segments_1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mykb/index/write.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mykb/rel.inx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mykb/typeRelCohe.inx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mykb/types.inx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/test/qa/qcri/katara/common/CSVReaderUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/test/qa/qcri/katara/common/CSVReaderUtil.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/test/qa/qcri/katara/common/FileUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/test/qa/qcri/katara/common/FileUtil.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/test/qa/qcri/katara/common/MacAddressLoader.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/test/qa/qcri/katara/common/MacAddressLoader.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/test/qa/qcri/katara/common/PersistentMap.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/test/qa/qcri/katara/common/PersistentMap.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/test/qa/qcri/katara/kbcommon/KBReader.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/test/qa/qcri/katara/kbcommon/KBReader.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/test/qa/qcri/katara/kbcommon/KBStatsManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/test/qa/qcri/katara/kbcommon/KBStatsManager.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/test/simplied/katara/SimplifiedKATARAEntrance.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/test/simplied/katara/SimplifiedKATARAEntrance.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/test/simplied/katara/SimplifiedPatternDiscovery.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/test/simplied/katara/SimplifiedPatternDiscovery.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dBoost/dboost/cli.py" beforeDir="false" afterPath="$PROJECT_DIR$/../dBoost/dboost/cli.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dBoost/dboost/dboost-stdin.py" beforeDir="false" afterPath="$PROJECT_DIR$/../dBoost/dboost/dboost-stdin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dBoost/dboost/utils/printing.py" beforeDir="false" afterPath="$PROJECT_DIR$/../dBoost/dboost/utils/printing.py" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -66,33 +28,35 @@
     <session id="279309741">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
-          <entry key="project.open.time.0" value="1" />
+          <entry key="project.closed" value="5" />
+          <entry key="project.open.time.0" value="2" />
+          <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.5" value="1" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.opened" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="8" />
+          <entry key="java" value="9" />
           <entry key="log" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="8" />
+          <entry key="JAVA" value="9" />
           <entry key="PLAIN_TEXT" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="101" />
+          <entry key="java" value="113" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="101" />
+          <entry key="JAVA" value="113" />
         </counts>
       </usages-collector>
     </session>
@@ -102,8 +66,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/KATARA/test/src/simplied/katara/SimplifiedKATARAEntrance.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="683">
-              <caret line="51" column="19" lean-forward="true" selection-start-line="51" selection-start-column="19" selection-end-line="51" selection-end-column="19" />
+            <state relative-caret-position="416">
+              <caret line="34" column="51" selection-start-line="34" selection-start-column="51" selection-end-line="34" selection-end-column="51" />
             </state>
           </provider>
         </entry>
@@ -162,12 +126,6 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="katara" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="KATARA" type="b2602c69:ProjectViewProjectNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="katara" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -175,7 +133,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537611474051" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541514469439" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -223,9 +181,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="67" y="25" width="1853" height="1055" extended-state="6" />
+    <frame x="67" y="-2" width="1853" height="1082" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.255119" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26342005" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -234,7 +193,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.33945945" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3392857" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -290,8 +249,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/KATARA/test/src/simplied/katara/SimplifiedKATARAEntrance.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="683">
-          <caret line="51" column="19" lean-forward="true" selection-start-line="51" selection-start-column="19" selection-end-line="51" selection-end-column="19" />
+        <state relative-caret-position="416">
+          <caret line="34" column="51" selection-start-line="34" selection-start-column="51" selection-end-line="34" selection-end-column="51" />
         </state>
       </provider>
     </entry>

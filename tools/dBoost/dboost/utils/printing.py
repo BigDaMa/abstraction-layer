@@ -39,7 +39,7 @@ def describe_discrepancy(fields_group, rules_descriptions, hints, x):
 
     return msg, features
 
-def print_rows(outliers, model, hints, rules_descriptions, verbosity = 0, max_w = 40, header = "   "):
+def print_rows(outliers, model, hints, rules_descriptions, verbosity = 0, max_w = 40, header = "   ",dataset_name=""):
     if len(outliers) == 0:
         return
 
@@ -52,7 +52,7 @@ def print_rows(outliers, model, hints, rules_descriptions, verbosity = 0, max_w 
         widths = tuple(max(w, min(max_w, len(str(f))))
                        for w, f in zip(widths, x))
 
-    results_file = open("dboost_output.csv", "w")
+    results_file = open("dboost_output|" + dataset_name, "w")
     csv_writer = csv.writer(results_file, delimiter=",", quotechar='"', quoting=csv.QUOTE_MINIMAL)
     for linum, (x, X, discrepancies) in outliers:
         highlight = [field_id for fields_group in discrepancies
@@ -66,7 +66,7 @@ def print_rows(outliers, model, hints, rules_descriptions, verbosity = 0, max_w 
             for i in range(len(field_ids)):
                 column_value_dictionary[field_ids[i]] = values[i]
         for column in column_value_dictionary:
-            csv_writer.writerow([linum, column, None])
+            csv_writer.writerow([linum, column])
             # column_value_dictionary[column] is the detected value
 
 def colorize(row, indices):
