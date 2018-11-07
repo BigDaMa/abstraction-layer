@@ -4,7 +4,8 @@ The heterogeneity of different data cleaning tools makes it difficult to use the
 
 
 ## Installation
-Not ready yet.
+To install the module, make sure that you already have installed Python 2.7 and Oracle Java 1.8 on your system. Furthermore, some of the underlying data cleaning tools need to be installed. For example, to install NADEEF, you need to check its installation instructions.
+
 
 ## Content
 
