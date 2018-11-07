@@ -18,8 +18,8 @@ To install the module, make sure that you already have installed Python 2.7 and 
     d = dataset.Dataset(dataset_dictionary)
 
     data_cleaning_tool_dictionary = {
-        "name": "nadeef",
-        "configuration": [["city", "country"]]
+        "name": "dboost",
+        "configuration": [["gaussian", "2.5"]]
     }
     t = data_cleaning_tool.DataCleaningTool(data_cleaning_tool_dictionary)
     print t.run(d)
