@@ -57,15 +57,7 @@ class Dataset:
         """
         return {(i, j): self.clean_dataframe.iloc[i, j]
                 for (i, j) in itertools.product(range(self.dataframe.shape[0]), range(self.dataframe.shape[1]))
-                if not (self.dataframe == self.clean_dataframe).iloc[i, j]}
-
-    def get_repaired_dictionary(self):
-        """
-        This method compares the repaired and dirty versions of a dataset.
-        """
-        return {(i, j): self.repaired_dataframe.iloc[i, j]
-                for (i, j) in itertools.product(range(self.dataframe.shape[0]), range(self.dataframe.shape[1]))
-                if not (self.dataframe == self.repaired_dataframe).iloc[i, j]}
+                if self.dataframe.iloc[i, j] != self.clean_dataframe.iloc[i, j]}
 
     def create_repaired_dataset(self, correction_dictionary):
         """
@@ -75,11 +67,19 @@ class Dataset:
         for cell in correction_dictionary:
             self.repaired_dataframe.iloc[cell] = correction_dictionary[cell]
 
-    def get_dataset_quality(self):
+    def get_repaired_dictionary(self):
+        """
+        This method compares the repaired and dirty versions of a dataset.
+        """
+        return {(i, j): self.repaired_dataframe.iloc[i, j]
+                for (i, j) in itertools.product(range(self.dataframe.shape[0]), range(self.dataframe.shape[1]))
+                if self.dataframe.iloc[i, j] != self.repaired_dataframe.iloc[i, j]}
+
+    def get_data_quality(self):
         """
         This method calculates data quality of a dataset.
         """
-        return float((self.dataframe == self.clean_dataframe).values.sum()) / (self.dataframe.shape[0] * self.dataframe.shape[1])
+        return 1.0 - float(len(self.get_actual_errors_dictionary())) / (self.dataframe.shape[0] * self.dataframe.shape[1])
 
     def evaluate_data_cleaning(self, sampled_rows=False):
         """
@@ -110,5 +110,5 @@ if __name__ == "__main__":
         "clean_path": "datasets/clean.csv"
     }
     d = Dataset(dataset_dictionary)
-    print d.get_dataset_quality()
+    print d.get_data_quality()
 ########################################

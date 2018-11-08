@@ -44,11 +44,11 @@ This folder contains some of the underlying data cleaning tools.
 This file contains the implementation of the dataset class.
 
 The input dataset should respect the following assumptions:
-   1. A dataset is a relational table in comma delimiter utf-8 CSV format.
-   2. The first line of a dataset is the header and the rests form the data matrix.
-   3. The header must have only non-space lowercase characters as field names without type description.
-   4. The header is row 0 and the first tuple of data matrix is row 1.
-   5. Do not name an attribute with "tid", "cast", or other database special keywords.
+   1. The input dataset must be a relational table in comma delimiter utf-8 CSV format.
+   2. The first line of the input CSV file must be the header.
+   3. The header must have only attribute names that contain only non-space lowercase characters. 
+   4. The attribute names must not be "tid", "cast", or other database special keywords.
+   5. The input dataset is stored as a pandas dataframe. So, [0, 0] is the first and [n - 1, m - 1] is the last data cell.
 
 The input dataset dictionary to the constructor of the dataset class should respect the following structure:
 ```python

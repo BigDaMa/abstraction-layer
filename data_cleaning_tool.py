@@ -55,7 +55,7 @@ class DataCleaningTool:
                                        keep_default_na=False, low_memory=False).apply(lambda x: x.str.strip())
                 for i, j in ocdf.get_values().tolist():
                     if int(i) > 0:
-                        outputted_cells[(int(i), int(j))] = ""
+                        outputted_cells[(int(i) - 1, int(j))] = ""
                 os.remove(tool_results_path)
             os.remove(dataset_path)
         elif self.name == "regex":
@@ -64,10 +64,10 @@ class DataCleaningTool:
                 for i, value in d.dataframe[attribute].items():
                     if match_type == "OM":
                         if len(re.findall(pattern, value, re.UNICODE)) > 0:
-                            outputted_cells[(i + 1, j)] = ""
+                            outputted_cells[(i, j)] = ""
                     else:
                         if len(re.findall(pattern, value, re.UNICODE)) == 0:
-                            outputted_cells[(i + 1, j)] = ""
+                            outputted_cells[(i, j)] = ""
         elif self.name == "katara":
             dataset_path = "{}|{}.csv".format(d.name, "".join(
                 random.choice(string.ascii_lowercase + string.digits) for _ in range(10)))
@@ -97,7 +97,7 @@ class DataCleaningTool:
                         v = v.decode("utf-8")
                     except UnicodeEncodeError:
                         pass
-                    outputted_cells[(int(i), int(j))] = v
+                    outputted_cells[(int(i) - 1, int(j))] = v
                 os.remove(tool_results_path)
             os.remove("crowdclient-runtime.log")
             os.remove(dataset_path)
@@ -140,7 +140,7 @@ class DataCleaningTool:
             for row in violation_results:
                 i = int(row[3])
                 j = column_index[row[4]]
-                outputted_cells[(i, j)] = ""
+                outputted_cells[(i - 1, j)] = ""
             cursor.execute("""SELECT * from repair WHERE c1_tablename = '{}';""".format(table_name))
             repair_results = cursor.fetchall()
             for row in repair_results:
@@ -151,8 +151,8 @@ class DataCleaningTool:
                 j_2 = column_index[row[9]]
                 v_2 = row[10].decode("utf-8")
                 # NOTE: Assume the second cell value is the correct one!
-                outputted_cells[(i_1, j_1)] = v_2
-                outputted_cells[(i_2, j_2)] = v_2
+                outputted_cells[(i_1 - 1, j_1)] = v_2
+                outputted_cells[(i_2 - 1, j_2)] = v_2
             # ---------- Clean up Current results ----------
             cursor.execute("""DROP TABLE IF EXISTS {}, audit;""".format(table_name))
             cursor.execute("""DELETE FROM violation WHERE tablename = '{}';""".format(table_name))
@@ -174,8 +174,8 @@ class DataCleaningTool:
                     value_dictionary[row[l_attribute]][row[r_attribute]] = 1
                 for i, row in d.dataframe.iterrows():
                     if len(value_dictionary[row[l_attribute]]) > 1:
-                        outputted_cells[(i + 1, jl)] = ""
-                        outputted_cells[(i + 1, jr)] = ""
+                        outputted_cells[(i, jl)] = ""
+                        outputted_cells[(i, jr)] = ""
         else:
             sys.stderr.write("I do not know this error detection tool!\n")
         return outputted_cells
@@ -189,7 +189,7 @@ if __name__ == "__main__":
 
     dataset_dictionary = {
         "name": "toy",
-        "path": "datasets/dirty.csv"
+        "path": "datasets/dirty.csv",
     }
     d = dataset.Dataset(dataset_dictionary)
 
