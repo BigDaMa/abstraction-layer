@@ -3,7 +3,13 @@ The heterogeneity of different data cleaning tools makes it difficult to use the
 
 
 ## Installation
-To install the module, make sure that you already have installed Python 2.7 and Oracle Java 1.8 on your system. Furthermore, some of the underlying data cleaning tools need to be installed. For example, to install NADEEF, you need to check its installation instructions.
+To install the module, make sure that you already have installed Python 2.7, Python 3.6, and Oracle Java 1.8 on your system. Furthermore, the following underlying data cleaning tools need to be installed separately: 
+- NADEEF
+   1. Install Apache Ant 1.8.2+.
+   2. Install PostgreSQL 9.2+.
+   3. Go to the NADEEF folder and compile it with command "ant all".
+   4. Create a database entitled "nadeef" in the postgres.
+   5. Add your postgres username and password into NADEEF config file "nadeef.conf".
 
 
 ## Sample Code

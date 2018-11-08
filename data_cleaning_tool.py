@@ -103,7 +103,8 @@ class DataCleaningTool:
             os.remove(dataset_path)
         elif self.name == "nadeef":
             # ---------- Prepare Dataset and Clean Plan ----------
-            dataset_path = os.path.abspath("nadeef_temp_dataset.csv")
+            dataset_path = "{}_{}.csv".format(d.name, "".join(
+                random.choice(string.ascii_lowercase + string.digits) for _ in range(10)))
             column_index = {a: d.dataframe.columns.get_loc(a) for a in d.dataframe.columns}
             temp_dataframe = d.dataframe.copy()
             temp_dataframe.rename(columns={a: a + " varchar(20000)" for a in temp_dataframe.columns}, inplace=True)
@@ -112,15 +113,15 @@ class DataCleaningTool:
             nadeef_clean_plan = {
                 "source": {
                     "type": "csv",
-                    "file": [dataset_path]
+                    "file": [os.path.abspath(dataset_path)]
                 },
                 "rule": actual_nadeef_parameters
             }
-            nadeef_clean_plan_path = "nadeef_clean_plan.json"
+            nadeef_clean_plan_path = dataset_path + "|nadeef_clean_plan.json"
             nadeef_clean_plan_file = open(nadeef_clean_plan_path, "w")
             json.dump(nadeef_clean_plan, nadeef_clean_plan_file)
             nadeef_clean_plan_file.close()
-            # ---------- Clean up Previous Results ----------
+            # ---------- Connect to the Database ----------
             nadeef_configuration_file = open(os.path.join("tools", "NADEEF", "nadeef.conf"), "r")
             nadeef_configuration = nadeef_configuration_file.read()
             postgres_username = re.findall("database.username = ([\w\d]+)", nadeef_configuration, flags=re.IGNORECASE)[0]
@@ -128,20 +129,19 @@ class DataCleaningTool:
             nadeef_configuration_file.close()
             connection = psycopg2.connect(dbname="nadeef", host="localhost", user=postgres_username, password=postgres_password)
             cursor = connection.cursor()
-            cursor.execute("""DROP TABLE IF EXISTS tb_nadeef_temp_dataset, violation, repair, audit;""")
-            connection.commit()
             # ---------- Start Data Cleaning ----------
             p = subprocess.Popen(["./nadeef.sh"], cwd=os.path.join("tools", "NADEEF"), stdout=subprocess.PIPE,
                                  stdin=subprocess.PIPE, stderr=subprocess.STDOUT)
-            process_output, process_errors = p.communicate("load ../../nadeef_clean_plan.json\ndetect\nrepair\nexit\n")
+            process_output, process_errors = p.communicate("load ../../{}\ndetect\nrepair\nexit\n".format(nadeef_clean_plan_path))
             # tool_results_path = re.findall("INFO: Export to (.*csv)", process_output)[0]
-            cursor.execute("""SELECT * from violation;""")
+            table_name = "TB_" + dataset_path[:-4].upper()
+            cursor.execute("""SELECT * from violation WHERE tablename = '{}';""".format(table_name))
             violation_results = cursor.fetchall()
             for row in violation_results:
                 i = int(row[3])
                 j = column_index[row[4]]
                 outputted_cells[(i, j)] = ""
-            cursor.execute("""SELECT * from repair;""")
+            cursor.execute("""SELECT * from repair WHERE c1_tablename = '{}';""".format(table_name))
             repair_results = cursor.fetchall()
             for row in repair_results:
                 i_1 = int(row[2])
@@ -154,6 +154,10 @@ class DataCleaningTool:
                 outputted_cells[(i_1, j_1)] = v_2
                 outputted_cells[(i_2, j_2)] = v_2
             # ---------- Clean up Current results ----------
+            cursor.execute("""DROP TABLE IF EXISTS {}, audit;""".format(table_name))
+            cursor.execute("""DELETE FROM violation WHERE tablename = '{}';""".format(table_name))
+            cursor.execute("""DELETE FROM repair WHERE c1_tablename = '{}';""".format(table_name))
+            connection.commit()
             for f in os.listdir(os.path.join("tools", "NADEEF", "out")):
                 if os.path.isfile(os.path.join("tools", "NADEEF", "out", f)):
                     os.remove(os.path.join("tools", "NADEEF", "out", f))
