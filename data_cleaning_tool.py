@@ -61,7 +61,7 @@ class DataCleaningTool:
         elif self.name == "regex":
             for attribute, pattern, match_type in self.configuration:
                 j = d.dataframe.columns.get_loc(attribute)
-                for i, value in d.dataframe[attribute].items():
+                for i, value in d.dataframe[attribute].iteritems():
                     if match_type == "OM":
                         if len(re.findall(pattern, value, re.UNICODE)) > 0:
                             outputted_cells[(i, j)] = ""
