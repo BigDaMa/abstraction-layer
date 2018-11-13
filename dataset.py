@@ -81,18 +81,18 @@ class Dataset:
         """
         return 1.0 - float(len(self.get_actual_errors_dictionary())) / (self.dataframe.shape[0] * self.dataframe.shape[1])
 
-    def evaluate_data_cleaning(self, sampled_rows=False):
+    def evaluate_data_cleaning(self, sampled_rows_dictionary=False):
         """
         This method evaluates data cleaning process based on the dirty, repaired, and clean datasets.
         """
-        if sampled_rows:
-            aed = {(i, j): v for (i, j), v in self.get_actual_errors_dictionary().items() if i in sampled_rows}
-            rd = {(i, j): v for (i, j), v in self.get_repaired_dictionary().items() if i in sampled_rows}
+        if sampled_rows_dictionary:
+            aed = {(i, j): v for (i, j), v in self.get_actual_errors_dictionary().items() if i in sampled_rows_dictionary}
+            rd = {(i, j): v for (i, j), v in self.get_repaired_dictionary().items() if i in sampled_rows_dictionary}
         else:
             aed = self.get_actual_errors_dictionary()
             rd = self.get_repaired_dictionary()
-        ed_precision = float(len(list(set(rd) & set(aed)))) / len(rd) if len(rd) > 0 else 0.0
-        ed_recall = float(len(list(set(rd) & set(aed)))) / len(aed) if len(aed) > 0 else 0.0
+        ed_precision = float(len([x for x in rd if x in aed])) / len(rd) if len(rd) > 0 else 0.0
+        ed_recall = float(len([x for x in rd if x in aed])) / len(aed) if len(aed) > 0 else 0.0
         ed_f1 = (2 * ed_precision * ed_recall) / (ed_precision + ed_recall) if (ed_precision + ed_recall) > 0 else 0.0
         ec_precision = float(len([x for x in rd if (x in aed and rd[x] == aed[x])])) / len(rd) if len(rd) > 0 else 0.0
         ec_recall = float(len([x for x in rd if (x in aed and rd[x] == aed[x])])) / len(aed) if len(aed) > 0 else 0.0
