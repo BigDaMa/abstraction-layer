@@ -91,13 +91,20 @@ class Dataset:
         else:
             aed = self.get_actual_errors_dictionary()
             rd = self.get_repaired_dictionary()
-        ed_precision = float(len([x for x in rd if x in aed])) / len(rd) if len(rd) > 0 else 0.0
-        ed_recall = float(len([x for x in rd if x in aed])) / len(aed) if len(aed) > 0 else 0.0
-        ed_f1 = (2 * ed_precision * ed_recall) / (ed_precision + ed_recall) if (ed_precision + ed_recall) > 0 else 0.0
-        ec_precision = float(len([x for x in rd if (x in aed and rd[x] == aed[x])])) / len(rd) if len(rd) > 0 else 0.0
-        ec_recall = float(len([x for x in rd if (x in aed and rd[x] == aed[x])])) / len(aed) if len(aed) > 0 else 0.0
-        ec_f1 = (2 * ec_precision * ec_recall) / (ec_precision + ec_recall) if (ec_precision + ec_recall) > 0 else 0.0
-        return [ed_precision, ed_recall, ed_f1, ec_precision, ec_recall, ec_f1]
+        ed_tp = 0.0
+        ec_tp = 0.0
+        for cell in rd:
+            if cell in aed:
+                ed_tp += 1.0
+                if rd[cell] == aed[cell]:
+                    ec_tp += 1.0
+        ed_p = 0.0 if len(rd) == 0 else ed_tp / len(rd)
+        ed_r = 0.0 if len(aed) == 0 else ed_tp / len(aed)
+        ed_f = 0.0 if (ed_p + ed_r) == 0.0 else (2 * ed_p * ed_r) / (ed_p + ed_r)
+        ec_p = 0.0 if len(rd) == 0 else ec_tp / len(rd)
+        ec_r = 0.0 if len(aed) == 0 else ec_tp / len(aed)
+        ec_f = 0.0 if (ec_p + ec_r) == 0.0 else (2 * ec_p * ec_r) / (ec_p + ec_r)
+        return [ed_p, ed_r, ed_f, ec_p, ec_r, ec_f]
 ########################################
 
 
