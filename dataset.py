@@ -83,47 +83,29 @@ class Dataset:
         """
         return 1.0 - float(len(self.actual_errors_dictionary)) / (self.dataframe.shape[0] * self.dataframe.shape[1])
 
-    def evaluate_error_detection(self, correction_dictionary, sampled_rows_dictionary=False):
+    def evaluate_data_cleaning(self, correction_dictionary, sampled_rows_dictionary=False):
         """
-        This method takes the correction dictionary and evaluates the error detection process.
+        This method evaluates data cleaning process.
         """
         actual_errors = dict(self.actual_errors_dictionary)
         if sampled_rows_dictionary:
-            actual_errors = {(i, j): 1 for (i, j) in self.actual_errors_dictionary if i in sampled_rows_dictionary}
+            actual_errors = {(i, j): self.actual_errors_dictionary[(i, j)]
+                             for (i, j) in self.actual_errors_dictionary if i in sampled_rows_dictionary}
         ed_tp = 0.0
+        ec_tp = 0.0
         output_size = 0.0
         for cell in correction_dictionary:
             if (not sampled_rows_dictionary) or (cell[0] in sampled_rows_dictionary):
                 output_size += 1
                 if cell in actual_errors:
                     ed_tp += 1.0
+                    if correction_dictionary[cell] == actual_errors[cell]:
+                        ec_tp += 1.0
         ed_p = 0.0 if output_size == 0 else ed_tp / output_size
         ed_r = 0.0 if len(actual_errors) == 0 else ed_tp / len(actual_errors)
         ed_f = 0.0 if (ed_p + ed_r) == 0.0 else (2 * ed_p * ed_r) / (ed_p + ed_r)
-        return [ed_p, ed_r, ed_f]
-
-    def evaluate_data_cleaning(self, sampled_rows_dictionary=False):
-        """
-        This method evaluates data cleaning process based on the dirty, repaired, and clean datasets.
-        """
-        if sampled_rows_dictionary:
-            aed = {(i, j): v for (i, j), v in self.get_actual_errors_dictionary().items() if i in sampled_rows_dictionary}
-            rd = {(i, j): v for (i, j), v in self.get_repairs_dictionary().items() if i in sampled_rows_dictionary}
-        else:
-            aed = self.get_actual_errors_dictionary()
-            rd = self.get_repairs_dictionary()
-        ed_tp = 0.0
-        ec_tp = 0.0
-        for cell in rd:
-            if cell in aed:
-                ed_tp += 1.0
-                if rd[cell] == aed[cell]:
-                    ec_tp += 1.0
-        ed_p = 0.0 if len(rd) == 0 else ed_tp / len(rd)
-        ed_r = 0.0 if len(aed) == 0 else ed_tp / len(aed)
-        ed_f = 0.0 if (ed_p + ed_r) == 0.0 else (2 * ed_p * ed_r) / (ed_p + ed_r)
-        ec_p = 0.0 if len(rd) == 0 else ec_tp / len(rd)
-        ec_r = 0.0 if len(aed) == 0 else ec_tp / len(aed)
+        ec_p = 0.0 if output_size == 0 else ec_tp / output_size
+        ec_r = 0.0 if len(actual_errors) == 0 else ec_tp / len(actual_errors)
         ec_f = 0.0 if (ec_p + ec_r) == 0.0 else (2 * ec_p * ec_r) / (ec_p + ec_r)
         return [ed_p, ed_r, ed_f, ec_p, ec_r, ec_f]
 ########################################
