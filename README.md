@@ -108,6 +108,7 @@ Note that "OM" means output values that are matched to the regex. Contrary, "ONM
         "configuration": ["path/to/domain/specific/folder"]
     }
 ```
+Note that a default domain specific folder exists in "tools/KATARA/dominSpecific".
 ```python
     data_cleaning_tool_dictionary = {
         "name": "nadeef",
